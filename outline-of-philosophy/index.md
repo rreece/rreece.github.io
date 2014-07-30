@@ -9,3 +9,10 @@ Table of Contents
 1.  [ethics](ethics.html)   (TODO)
 
 
+Note this is under construction
+--------------------------------------------------------------------------------
+
+This site is my working draft.  I hope to pubish these or some version of them
+on my blog: <http://statisticalsignificance.net/>
+
+

@@ -204,7 +204,7 @@ Wikipedia
 
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)
--   [Science Realism](http://en.wikipedia.org/wiki/Scientific_realism)
+-   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 
 
 
