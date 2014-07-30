@@ -98,6 +98,7 @@ SEP
 IEP
 
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
+-   [William of Ockham (Occam, 1280-1349 CE)](http://www.iep.utm.edu/ockham/)
 
 
 

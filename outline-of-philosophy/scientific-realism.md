@@ -158,6 +158,7 @@ SEP
 -   [Models in Science](http://plato.stanford.edu/entries/models-science/)
 -   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
 -   [Natural Law Theories](http://plato.stanford.edu/entries/natural-law-theories/)
+-   [Naturalism](http://plato.stanford.edu/entries/naturalism/)
 -   [Neurath](http://plato.stanford.edu/entries/neurath/)
 -   [Popper](http://plato.stanford.edu/entries/popper/)
 -   [Peirce](http://plato.stanford.edu/entries/peirce/)
@@ -201,6 +202,7 @@ IEP
 
 Wikipedia
 
+-   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)
 -   [Science Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 

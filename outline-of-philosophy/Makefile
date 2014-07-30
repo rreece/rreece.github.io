@@ -42,7 +42,7 @@ html: $(HTML_MD_FILES)
 index.html: index.md
 	pandoc \
 		--variable=siteheader:"$(HEADER)" \
-		--variable=title:"$(@:%.html=$(HEADER) - %)" \
+		--variable=title:"$(HEADER)" \
 		--variable=author-meta:"$(AUTHOR)" \
 		--variable=author:"$(AUTHOR)" \
 		--variable=date-meta:"$(DATE)" \
