@@ -93,6 +93,10 @@ SEP
 
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 
+IEP
+
+-   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
+
 
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.

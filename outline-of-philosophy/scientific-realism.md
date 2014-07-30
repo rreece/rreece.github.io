@@ -183,6 +183,8 @@ IEP
 -   [The Brain in a Vat Argument](http://www.iep.utm.edu/brainvat/)
 -   [Carnap](http://www.iep.utm.edu/carnap/)
 -   [Confirmation and Induction](http://www.iep.utm.edu/conf-ind/)
+-   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
+-   [Explanation, Theories of](http://www.iep.utm.edu/explanat/)
 -   [Internalism and Externalism in the Philosophy of Mind and Language](http://www.iep.utm.edu/int-ex-ml/)
 -   [Mathematical Structuralism](http://www.iep.utm.edu/m-struct/)
 -   [Models](http://www.iep.utm.edu/models/)
@@ -196,7 +198,6 @@ IEP
 -   [Reichenbach](http://www.iep.utm.edu/reichenb/)
 -   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)
 -   [Scientific Change](http://www.iep.utm.edu/s-change/)
--   [Theories of Explanation](http://www.iep.utm.edu/explanat/)
 -   [Vienna Circle](http://www.iep.utm.edu/viennacr/)
 
 

@@ -97,6 +97,7 @@ SEP
 
 IEP
 
+-   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
 -   [Hume](http://www.iep.utm.edu/hume-cau/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [William of Ockham (Occam, 1280-1349 CE)](http://www.iep.utm.edu/ockham/)
