@@ -12,6 +12,6 @@ Table of Contents
 ### Note this is under construction
 
 This site is my working draft.  I hope to pubish these outlines or some version
-of them on my blog: <statisticalsignificance.net>
+of them on my blog: [statisticalsignificance.net](http://statisticalsignificance.net/).
 
 
