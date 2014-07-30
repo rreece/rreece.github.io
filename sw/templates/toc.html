@@ -5,27 +5,35 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
-  <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Wed Jul 30, 2014" />
-  <title>Ryan's Selected Software Projects</title>
-  <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
+$for(author-meta)$
+  <meta name="author" content="$author-meta$" />
+$endfor$
+$if(date-meta)$
+  <meta name="date" content="$date-meta$" />
+$endif$
+  <title>$title$</title>
+$for(css)$
+  <link rel="stylesheet" type="text/css" href="$css$"/>
+$endfor$
 </head>
 
 <body>
 
 <div id="site_header">
-    <a href="index.html">Ryan's Selected Software Projects</a>
+    <a href="index.html">$siteheader$</a>
 </div>
 
-<h1 id="table-of-contents">Table of Contents</h1>
-<ol style="list-style-type: decimal">
-<li><a href="example.html">example</a></li>
-<li>an other</li>
-</ol>
+$for(include-before)$
+$include-before$
+$endfor$
+$body$
+$for(include-after)$
+$include-after$
+$endfor$
 
 <div id="site_footer">
   <div class="markdown_memo_link">Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a></div>
-  <div class="signature"><i>Ryan Reece</i> <br/> <img src="img/my_email.png" alt="my email address"/> <br/> Wed Jul 30, 2014</div>
+  <div class="signature"><i>$author$</i> <br/> <img src="img/my_email.png" alt="my email address"/> <br/> $date$</div>
 </div>
 
 </body>
