@@ -11,8 +11,8 @@
 # user config
 #------------------------------------------------------------------------------
 
-AUTHOR   := John Doe
-HEADER   := My Collection of Memos
+AUTHOR   := Ryan Reece
+HEADER   := Ryan Reece's github webspace
 
 DATE     := $(shell date +"%a %b %d, %Y")
 CSS      := templates/markdown-memo.css
