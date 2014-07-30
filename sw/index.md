@@ -1,7 +1,7 @@
 Table of Contents
 ================================================================================
 
-1.  [example](example.html)
+1.  [markdown-memo](markdown-memo)
 1.  an other
 
 
