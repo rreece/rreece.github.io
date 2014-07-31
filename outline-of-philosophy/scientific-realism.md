@@ -55,10 +55,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Testing footnotes:
 
 -   Carnap[^Carnap-1950] thought hard about science[^Carnap-1955].
--   Van Fraassen[^van-Fraassen-1980] can go to anti-reality.
-_   Read[^Putnam-1981] Putnam, H. (1981). Reason, Truth, and History.
-_   Read[^Putnam-1982-1] Putnam, H. (1982). Three Kinds of Scientific Realism.
-_   Read[^Putnam-1982-2] Putnam, H. (1982). Why There Isn't a Ready-Made World.
+-   van Fraassen[^van-Fraassen-1980] can go to anti-reality.
+-   Read[^Putnam-1981] Putnam, H. (1981). Reason, Truth, and History.
+-   Read[^Putnam-1982-1] Putnam, H. (1982). Three Kinds of Scientific Realism.
+-   Read[^Putnam-1982-2] Putnam, H. (1982). Why There Isn't a Ready-Made World.
 
 
 ### Pragmatism
