@@ -12,7 +12,7 @@
 #------------------------------------------------------------------------------
 
 AUTHOR   := Ryan Reece
-HEADER   := Ryan's Outline of Philosophy
+HEADER   := My Collection of Memos
 
 DATE     := $(shell date +"%a %b %d, %Y")
 CSS      := templates/markdown-memo.css
@@ -49,7 +49,7 @@ index.html: index.md
 		--variable=date:"$(DATE)" \
 		--variable=css:"$(CSS)" \
 		--template=./templates/toc.html \
-		-t html \
+		-t html --ascii \
 		-o $@ $<
 
 %.html: %.md
@@ -62,7 +62,7 @@ index.html: index.md
 		--variable=date:"$(DATE)" \
 		--variable=css:"$(CSS)" \
 		--template=./templates/outline.html \
-		-t html \
+		-t html --ascii \
 		-o $@ $<
 
 pdf: $(PDF_MD_FILES)

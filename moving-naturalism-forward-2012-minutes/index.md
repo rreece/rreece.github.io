@@ -7,7 +7,7 @@ Ryan's Minutes of "Moving Naturalism Forward"
 -   <https://www.youtube.com/watch?v=Ju4C_ITlBsU&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL>
 
 
-Table of Contents
+Contents
 --------------------------------------------------------------------------------
 
 1.  [Day 1](day1.html)   (in progress)
