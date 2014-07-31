@@ -12,7 +12,7 @@
 #------------------------------------------------------------------------------
 
 AUTHOR   := Ryan Reece
-HEADER   := My Collection of Memos
+HEADER   := Ryan's webspace on github
 
 DATE     := $(shell date +"%a %b %d, %Y")
 CSS      := templates/markdown-memo.css

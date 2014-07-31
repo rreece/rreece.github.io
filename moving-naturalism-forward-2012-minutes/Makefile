@@ -12,7 +12,7 @@
 #------------------------------------------------------------------------------
 
 AUTHOR   := Ryan Reece
-HEADER   := My Collection of Memos
+HEADER   := Ryan's Moving Naturalism Forward 2012 Minutes
 
 DATE     := $(shell date +"%a %b %d, %Y")
 CSS      := templates/markdown-memo.css
