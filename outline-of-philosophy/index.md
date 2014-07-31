@@ -1,4 +1,4 @@
-Table of Contents
+Contents
 ================================================================================
 
 1.  [scientific realism](scientific-realism.html)   (in progress)
