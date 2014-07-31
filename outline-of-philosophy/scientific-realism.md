@@ -176,9 +176,13 @@ Annotated Bibliography
 -   **Bain, J.                (2009).  Towards Structural Realism.**
 -   **Psillos, S.             (2010).  Scientific Realism: Between Platonism and Nominalism.**
 -   **Frigg, R. & Votsis, I. (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.**
--   **Mizrahi, M. (2012).  Pessimistic Induction: A Bad Argument Gone Too Far.**
--   **Psillos, S. (2012).  One Cannot Be a Little Bit Realist: Putnam and van Fraassen.**
+-   **Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.**
 
+    TODO.
+
+-   **Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.**
+
+    TODO.
 
 
 Links and Encyclopedia Articles
