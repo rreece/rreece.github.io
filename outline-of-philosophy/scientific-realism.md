@@ -14,7 +14,7 @@ Contents:
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
--   [References](#references)
+-   [References](#fn1)
 
 
 Positions
@@ -243,8 +243,6 @@ Wikipedia
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 
-
-### References
 
 
   [^Carnap-1950]: Carnap, R. (1950). Empiricism, Semantics, and Ontology.
