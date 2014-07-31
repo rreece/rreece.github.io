@@ -1,4 +1,4 @@
-Scientific Realism
+ Scientific Realism
 ================================================================================
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -153,7 +153,10 @@ Annotated Bibliography
     eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
     sunt in culpa qui officia deserunt mollit anim id est laborum.
 
--   **Putnam, H.              (1981).  Reason, Truth, and History.**
+-   **Putnam, H. (1981).  Reason, Truth, and History.**
+
+    Brain in a vat thought experiment.
+
 -   **Putnam, H.              (1982).  Three Kinds of Scientific Realism.**
 -   **Putnam, H.              (1982).  Why There Isn't a Ready-Made World.**
 -   **Fine, A.                (1984).  The Natural Ontological Attitude.**
@@ -172,9 +175,9 @@ Annotated Bibliography
 -   **Bueno, O.               (2008).  Structural Realism, Scientific Change, and Partial Structures.**
 -   **Bain, J.                (2009).  Towards Structural Realism.**
 -   **Psillos, S.             (2010).  Scientific Realism: Between Platonism and Nominalism.**
--   **Frigg, R. & Votsis, I.  (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.**
--   **Mizrahi, M.             (2012).  Pessimistic Induction: A Bad Argument Gone Too Far.**
--   **Psillos, S.             (2012).  One Cannot Be a Little Bit Realist: Putnam and van Fraassen.**
+-   **Frigg, R. & Votsis, I. (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.**
+-   **Mizrahi, M. (2012).  Pessimistic Induction: A Bad Argument Gone Too Far.**
+-   **Psillos, S. (2012).  One Cannot Be a Little Bit Realist: Putnam and van Fraassen.**
 
 
 
