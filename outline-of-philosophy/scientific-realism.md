@@ -110,14 +110,19 @@ Science has identified real patterns, relationships, and structures
 My Thoughts
 --------------------------------------------------------------------------------
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ways to phrase the issue:
 
-Relation to naturalism and mathematical realism.
+-   Does your worldview have commitments to ontologies claimed to be part of reality?
+-   Is the goal of science to describe reality?  Does science make any progress at that?
+
+Misc.
+
+-   Relation to naturalism and mathematical realism.
+
+Questions:
+
+-   Is there a position that requires any element of a good scientific theory to
+    be interpretable?  What would that mean?
 
 
 Annotated Bibliography
