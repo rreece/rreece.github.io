@@ -145,10 +145,6 @@ Annotated Bibliography
     (not the man on the street nor the scientist)
     asks the external questions about reality outside the linguistic framework.
 
-1.  testing
-1.  two
-1.  three
-
 
 ### TODO
 
