@@ -121,7 +121,7 @@ Misc.
 
 Questions:
 
--   Is there a position that requires any element of a good scientific theory to
+-   Is there a position that requires *any* element of a good scientific theory to
     be interpretable?  What would that mean?
 
 
