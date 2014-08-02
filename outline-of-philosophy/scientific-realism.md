@@ -180,8 +180,10 @@ Brain in a vat thought experiment.
 ### Ladyman, J. & Ross, D. (2009).  Every Thing Must Go: Metaphysics Naturalized.
 ### Psillos, S. (2010).  Scientific Realism: Between Platonism and Nominalism.
 ### Frigg, R. & Votsis, I. (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
+### French, S. & Ladyman, J. (2011).  In Defense of Ontic Structural Realism.
 ### Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
 ### Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.
+### French, S. (2014). The Structure of the World: Metaphysics and Representation.
 
 
 Links and Encyclopedia Articles
