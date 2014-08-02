@@ -121,26 +121,29 @@ Relation to naturalism and mathematical realism.
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
--   **Carnap, R. (1950). Empiricism, Semantics, and Ontology.**
+### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
 
-    -   Empiricists tend to prefer nominalism -- a rejection of abstract entities.
-    -   Formalists view mathematics as a mechanistic calculus without interpretation,
-        but physics seems to lend its own interpretation.
-    -   A physicist may declare some parts of a theory as uninterpretable.
-    -   Carnap says his purpose is to clarify that empiricists can accept a
-        language referring to abstract entities without embracing platonic ontologies.
-    -   Carnap defines *linguistic frameworks*, *internal* vs *external* questions
-        (internal to the framework or about the metaphysical world),
-        and the *world of things*.
+-   Empiricists tend to prefer nominalism -- a rejection of abstract entities.
+-   Formalists view mathematics as a mechanistic calculus without interpretation,
+    but physics seems to lend its own interpretation.
+-   A physicist may declare some parts of a theory as uninterpretable.
+-   Carnap says his purpose is to clarify that empiricists can accept a
+    language referring to abstract entities without embracing platonic ontologies.
+-   Carnap defines *linguistic frameworks*, *internal* vs *external* questions
+    (internal to the framework or about the metaphysical world),
+    and the *world of things*.
 
-    >   To recognize something as a real thing or event means to succeed in
-    >   incorporating it into the system of things at a particular space-time
-    >   position so that it fits together with the other things as real,
-    >   according to the rules of the framework.
+>   To recognize something as a real thing or event means to succeed in
+>   incorporating it into the system of things at a particular space-time
+>   position so that it fits together with the other things as real,
+>   according to the rules of the framework.
 
-    -   Carnap distinguishes that only the philosopher
-        (not the man on the street nor the scientist)
-        asks the external questions about reality outside the linguistic framework.
+-   Carnap distinguishes that only the philosopher
+    (not the man on the street nor the scientist)
+    asks the external questions about reality outside the linguistic framework.
+
+
+### TODO
 
 -   **Carnap, R. (1955). The Logical Foundations of the Unity of Science.**
 
