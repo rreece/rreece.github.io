@@ -56,7 +56,7 @@ but we have no ontological commitments to them.
 
 -   anti-realist
 -   The Vienna Circle
--   Carnap, Neurath, Russel, Wittgenstein, Gödl, Frege, von Neuman, Hilbert
+-   Carnap, Neurath, Russel, Wittgenstein, Göel, Frege, von Neuman, Hilbert
 -   Verificationism, Nominalism
 
 Note any differences between:
