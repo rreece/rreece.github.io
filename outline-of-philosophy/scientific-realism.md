@@ -56,7 +56,7 @@ but we have no ontological commitments to them.
 
 -   anti-realist
 -   The Vienna Circle
--   Carnap, Neurath, Russel, Wittgenstein, Göel, Frege, von Neuman, Hilbert
+-   Carnap, Neurath, Russel, Wittgenstein, G&#246;del, Frege, von Neuman, Hilbert
 -   Verificationism, Nominalism
 
 Note any differences between:
@@ -95,7 +95,7 @@ but does not justify metaphysical claims about reality.
 Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
 
--   Poincaré, Worrall, Ladyman, Psills
+-   Poincar&#233;, Worrall, Ladyman, Psills
 -   Contrast with Bueno's Structural Empiricism
 
 
@@ -204,7 +204,7 @@ IEP
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Phenomenology and Natural Science](http://www.iep.utm.edu/phenomsc/)
 -   [Popper: Critical Rationalism](http://www.iep.utm.edu/cr-ratio/)
--   [Poincaré](http://www.iep.utm.edu/poincare/)
+-   [Poincar&#233;](http://www.iep.utm.edu/poincare/)
 -   [Quine's Philosophy of Science](http://www.iep.utm.edu/quine-sc/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Reichenbach](http://www.iep.utm.edu/reichenb/)
