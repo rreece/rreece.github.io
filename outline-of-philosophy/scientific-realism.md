@@ -40,8 +40,8 @@ Science makes real progress in describing real features of the world.
 
 **Challenges to Scientific Realism:**
 
--   Underdetermination
--   Scientific revolution, pessimistic meta-induction
+-   Underdetermination; language dependence
+-   Scientific revolution; pessimistic meta-induction
 
 TODO.
 
@@ -53,6 +53,7 @@ TODO.
 Theoretical concepts may have use in predicting observations,
 but we have no ontological commitments to them.
 
+-   anti-realist
 -   Duhem
 
 
@@ -61,13 +62,13 @@ but we have no ontological commitments to them.
 -   anti-realist
 -   The Vienna Circle
 -   Carnap, Neurath, Russel, Wittgenstein, G&#246;del, Frege, von Neuman, Hilbert
--   Verificationism, Nominalism
+-   verificationism, nominalism
 
 Note any differences between:
 
--   Positivism
--   Logical Positivism
--   Logical Empiricism
+-   positivism
+-   logical positivism
+-   logical empiricism
 
 Testing footnotes:
 
@@ -98,7 +99,7 @@ but does not justify metaphysical claims about reality.
 
 -   realist
 -   Poincar&#233;, Worrall, Ladyman, Psillos
--   Contrast with Bueno's Structural Empiricism
+-   Contrast with Bueno's structural empiricism
 
 Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
@@ -136,6 +137,10 @@ Annotated Bibliography
     >   incorporating it into the system of things at a particular space-time
     >   position so that it fits together with the other things as real,
     >   according to the rules of the framework.
+
+    Carnap distinguishes that only the philosopher
+    (not the man on the street nor the scientist)
+    asks the external questions about reality outside the linguistic framework.
 
 -   **Carnap, R. (1955). The Logical Foundations of the Unity of Science.**
 
