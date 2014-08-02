@@ -14,6 +14,8 @@ Positions
 
 ### Platonism
 
+Realist.
+
 -   The Academy: "Let no one ignorant of geometry enter"
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -27,12 +29,31 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 2.  blah
 
 
+### Pythagoreanism
+
+Realist.
+
+TODO.
+
+
+
+### Formalism
+
+Anti-realist.
+
+TODO.
+
+
 ### Fictionalism
+
+Anti-realist.
 
 TODO.
 
 
 ### Nominalism
+
+Anti-realist?
 
 TODO.
 

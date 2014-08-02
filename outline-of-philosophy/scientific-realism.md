@@ -24,7 +24,8 @@ Positions
 
 Naive realism.  Why would I doubt the world I see is real?
 
-Brain in a vat[^Putnam-1981].
+-   Descartes' demon.
+-   Putnam Brain in a vat[^Putnam-1981].
 
 
 ### Scientific Realism
@@ -90,7 +91,6 @@ but does not justify metaphysical claims about reality.
 
 
 ### Structural Realism
-
 
 Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
