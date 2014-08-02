@@ -31,7 +31,14 @@ Brain in a vat[^Putnam-1981].
 
 Science makes real progress in describing real features of the world.
 
-Boyd.
+-   Boyd
+
+**Challenges to Scientific Realism:**
+
+-   Underdetetmination
+-   Scientific revolution, pessimistic meta-induction.
+
+-   Kuhn, Laudan
 
 
 ### Instrumentalism
@@ -39,26 +46,23 @@ Boyd.
 Theoretical concepts may have use in predicting observations,
 but we have no ontological commitments to them.
 
-Duhem.
-
-Underdetetmination.  Laudan.
+-   anti-realist
+-   Duhem
 
 
 ### Positivism
 
-Carnap. Vienna Circle.
+-   anti-realist
+-   The Vienna Circle
+-   Carnap, Neurath, Russel, Wittgenstein, Göde, Frege, von Neuman, Hilbert
+-   Verificationism, Nominalism
 
-Verificationism. Nominalism.  Logical empiricism.
+Note any differences between:
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+-   Positivism
+-   Logical Positivism
+-   Logical Empiricism
 
-1.  blah
-2.  blah
 
 Testing footnotes:
 
@@ -71,23 +75,13 @@ Testing footnotes:
 
 ### Pragmatism
 
-Dewey and Peirce.
-
-Rorty and Putnam.
-
-
-### Theory Change
-
-Scientific revolution.
-
-Kuhn.
-
-Pessimistic meta-induction.
+-   Dewey and Peirce.
+-   Rorty and Putnam.
 
 
 ### Constructive Empiricism
 
-Van Fraassen.
+Van Fraassen, Bueno
 
 Science aims to give us theories that are empiriccally adequate,
 but does not justify metaphysical claims about reality.
@@ -95,10 +89,12 @@ but does not justify metaphysical claims about reality.
 
 ### Structural Realism
 
-Poincaré,  Worrall, Ladyman, Psillos.
 
 Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
+
+-   Poincaré, Worrall, Ladyman, Psillo
+-   Contrast with Bueno's Structural Empiricism
 
 
 My Thoughts
