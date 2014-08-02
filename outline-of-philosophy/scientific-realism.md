@@ -87,21 +87,25 @@ Testing footnotes:
 
 ### Constructive Empiricism
 
--   anti-realist
--   Van Fraassen, Bueno
-
 Science aims to give us theories that are empirically adequate,
 but does not justify metaphysical claims about reality.
+
+-   anti-realist
+-   Van Fraassen, Bueno
 
 
 ### Structural Realism
 
--   realist
--   Poincar&#233;, Worrall, Ladyman, Psillos
--   Contrast with Bueno's structural empiricism
-
 Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
+
+-   realist
+-   Poincar&#233;, Worrall
+-   Ladyman, French, Psillos, Votsis, Devitt, Frigg
+    -   Epistemic structural realism (ESR)
+    -   Ontic structural realism (ESR)
+-   Every Thing Must Go
+-   Contrast with Bueno's structural empiricism
 
 
 My Thoughts
@@ -140,6 +144,10 @@ Annotated Bibliography
 -   Carnap distinguishes that only the philosopher
     (not the man on the street nor the scientist)
     asks the external questions about reality outside the linguistic framework.
+
+1.  testing
+1.  two
+1.  three
 
 
 ### TODO
