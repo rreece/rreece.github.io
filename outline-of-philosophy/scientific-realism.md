@@ -53,7 +53,6 @@ TODO.
 Theoretical concepts may have use in predicting observations,
 but we have no ontological commitments to them.
 
--   anti-realist
 -   Duhem
 
 
@@ -81,13 +80,15 @@ Testing footnotes:
 
 ### Pragmatism
 
+-   anti-realist
 -   Dewey and Peirce.
 -   Rorty and Putnam.
 
 
 ### Constructive Empiricism
 
-Van Fraassen, Bueno
+-   anti-realist
+-   Van Fraassen, Bueno
 
 Science aims to give us theories that are empirically adequate,
 but does not justify metaphysical claims about reality.
@@ -95,11 +96,12 @@ but does not justify metaphysical claims about reality.
 
 ### Structural Realism
 
+-   realist
+-   Poincar&#233;, Worrall, Ladyman, Psillos
+-   Contrast with Bueno's Structural Empiricism
+
 Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
-
--   Poincar&#233;, Worrall, Ladyman, Psills
--   Contrast with Bueno's Structural Empiricism
 
 
 My Thoughts
