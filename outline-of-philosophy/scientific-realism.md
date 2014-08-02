@@ -42,10 +42,8 @@ Science makes real progress in describing real features of the world.
 
 -   Underdetermination; language dependence
 -   Scientific revolution; pessimistic meta-induction
-
-TODO.
-
--   Kuhn, Laudan
+-   Social constructivism
+-   Kuhn, Laudan, Feyerabend
 
 
 ### Instrumentalism
@@ -61,8 +59,9 @@ but we have no ontological commitments to them.
 
 -   anti-realist
 -   The Vienna Circle
--   Carnap, Neurath, Russel, Wittgenstein, G&#246;del, Frege, von Neuman, Hilbert
+-   Carnap, Neurath, Wittgenstein, Frege, von Neuman, Hilbert
 -   verificationism, nominalism
+-   Russel, G&#246;del
 
 Note any differences between:
 
