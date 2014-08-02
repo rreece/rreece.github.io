@@ -24,22 +24,26 @@ Positions
 
 Naive realism.  Why would I doubt the world I see is real?
 
+-   Skepticism
 -   Descartes' demon.
 -   Putnam Brain in a vat[^Putnam-1981].
+-   The Matrix
+-   Bostrom
+-   Am I the future's tamagotchi?
 
 
 ### Scientific Realism
 
 Science makes real progress in describing real features of the world.
 
--   Boyd
+-   Boyd, Sellars
 
 **Challenges to Scientific Realism:**
 
 -   Underdetetmination
 -   Scientific revolution, pessimistic meta-induction
 
-People:
+TODO.
 
 -   Kuhn, Laudan
 
@@ -66,7 +70,6 @@ Note any differences between:
 -   Logical Positivism
 -   Logical Empiricism
 
-
 Testing footnotes:
 
 -   Carnap[^Carnap-1950] thought hard about science[^Carnap-1955].
@@ -86,7 +89,7 @@ Testing footnotes:
 
 Van Fraassen, Bueno
 
-Science aims to give us theories that are empiriccally adequate,
+Science aims to give us theories that are empirically adequate,
 but does not justify metaphysical claims about reality.
 
 
