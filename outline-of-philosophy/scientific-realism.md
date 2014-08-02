@@ -91,7 +91,7 @@ Science aims to give us theories that are empirically adequate,
 but does not justify metaphysical claims about reality.
 
 -   anti-realist
--   Van Fraassen, Bueno
+-   van Fraassen, Bueno
 
 
 ### Structural Realism
@@ -104,8 +104,8 @@ Science has identified real patterns, relationships, and structures
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic structural realism (ESR)
     -   Ontic structural realism (OSR)
--   Every Thing Must Go
--   Contrast with Bueno's structural empiricism
+-   Every Thing Must Go[^Ladyman-Ross-2009]
+-   contrast with Bueno's structural empiricism
 
 
 My Thoughts
@@ -146,41 +146,43 @@ Annotated Bibliography
     asks the external questions about reality outside the linguistic framework.
 
 
-### TODO
+### Carnap, R. (1955). The Logical Foundations of the Unity of Science.
 
--   **Carnap, R. (1955). The Logical Foundations of the Unity of Science.**
+TODO.
 
-    TODO.
 
--   **van Fraassen, B. (1980). The Scientific Image.**
+### van Fraassen, B. (1980). The Scientific Image.
     
-    "Arguments Concerning Scientific Realism".
+"Arguments Concerning Scientific Realism".
 
--   **Putnam, H. (1981).  Reason, Truth, and History.**
 
-    Brain in a vat thought experiment.
+### Putnam, H. (1981).  Reason, Truth, and History.
 
--   **Putnam, H. (1982).  Three Kinds of Scientific Realism.**
--   **Putnam, H. (1982).  Why There Isn't a Ready-Made World.**
--   **Fine, A. (1984).  The Natural Ontological Attitude.**
--   **Fine, A. (1984).  And Not Anti-Realism Either.**
--   **Musgrave, A. (1989).  Noah's Ark Fine for Realism.**
--   **Worrall, J. (1989).  Structural Realism: The Best of Both Worlds?**
--   **Laudan, L. (1990).  Demystifying Underdetermination.**
--   **Dennett, D. (1991).  Real Patterns.**
--   **Ladyman, J. (1998).  What is Structural Realism?**
--   **Bueno, O. (1999).  What is Structural Empiricism?**
--   **Psillos, S. (2000).  The Present State of the Scientific Realism Debate.**
--   **Chang, H. (2001).  Realism Beyond Footstamping.**
--   **van Fraassen, B. (2001).  Constructive Empiricism Now.**
--   **Hacking, I. (2006).  Natural Kinds.**
--   **Psillos, S. (2007).  Choosing the Realist Framework.**
--   **Bueno, O. (2008).  Structural Realism, Scientific Change, and Partial Structures.**
--   **Bain, J. (2009).  Towards Structural Realism.**
--   **Psillos, S. (2010).  Scientific Realism: Between Platonism and Nominalism.**
--   **Frigg, R. & Votsis, I. (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.**
--   **Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.**
--   **Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.**
+Brain in a vat thought experiment.
+
+
+### Putnam, H. (1982).  Three Kinds of Scientific Realism.
+### Putnam, H. (1982).  Why There Isn't a Ready-Made World.
+### Fine, A. (1984).  The Natural Ontological Attitude.
+### Fine, A. (1984).  And Not Anti-Realism Either.
+### Musgrave, A. (1989).  Noah's Ark Fine for Realism.
+### Worrall, J. (1989).  Structural Realism: The Best of Both Worlds?
+### Laudan, L. (1990).  Demystifying Underdetermination.
+### Dennett, D. (1991).  Real Patterns.
+### Ladyman, J. (1998).  What is Structural Realism?
+### Bueno, O. (1999).  What is Structural Empiricism?
+### Psillos, S. (2000).  The Present State of the Scientific Realism Debate.
+### Chang, H. (2001).  Realism Beyond Footstamping.
+### van Fraassen, B. (2001).  Constructive Empiricism Now.
+### Hacking, I. (2006).  Natural Kinds.
+### Psillos, S. (2007).  Choosing the Realist Framework.
+### Bueno, O. (2008).  Structural Realism, Scientific Change, and Partial Structures.
+### Bain, J. (2009).  Towards Structural Realism.
+### Ladyman, J. & Ross, D. (2009).  Every Thing Must Go: Metaphysics Naturalized.
+### Psillos, S. (2010).  Scientific Realism: Between Platonism and Nominalism.
+### Frigg, R. & Votsis, I. (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
+### Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
+### Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.
 
 
 Links and Encyclopedia Articles
@@ -271,6 +273,7 @@ Wikipedia
   [^Psillos-2007]: Psillos, S. (2007). Choosing the Realist Framework.
   [^Bueno-2008]: Bueno, O. (2008). Structural Realism, Scientific Change, and Partial Structures.
   [^Bain-2009]: Bain, J. (2009). Towards Structural Realism.
+  [^Ladyman-Ross-2009]: Every Thing Must Go: Metaphysics Naturalized.
   [^Psillos-2010]: Psillos, S. (2010). Scientific Realism: Between Platonism and Nominalism.
   [^Frigg-Votsis-2011]: Frigg, R. & Votsis, I. (2011). Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
   [^Mizrahi-2012]: Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
