@@ -138,9 +138,9 @@ Annotated Bibliography
     >   position so that it fits together with the other things as real,
     >   according to the rules of the framework.
 
-    Carnap distinguishes that only the philosopher
-    (not the man on the street nor the scientist)
-    asks the external questions about reality outside the linguistic framework.
+    -   Carnap distinguishes that only the philosopher
+        (not the man on the street nor the scientist)
+        asks the external questions about reality outside the linguistic framework.
 
 -   **Carnap, R. (1955). The Logical Foundations of the Unity of Science.**
 
