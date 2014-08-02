@@ -22,11 +22,10 @@ Positions
 
 ### Realism and Anti-realism
 
-Naive realism.  Why would I doubt the world I see is real?
-
+-   Naive realism.  Why would I doubt the world I see is real?
 -   Skepticism
--   Descartes' demon.
--   Putnam Brain in a vat[^Putnam-1981].
+-   Descartes' demon
+-   Putnam Brain in a vat[^Putnam-1981]
 -   The Matrix
 -   Bostrom - The Simulation Argument
 -   Am I a more advanced civilization's tamagotchi?
@@ -81,8 +80,8 @@ Testing footnotes:
 ### Pragmatism
 
 -   anti-realist
--   Dewey and Peirce.
--   Rorty and Putnam.
+-   Dewey and Peirce
+-   Rorty and Putnam
 
 
 ### Constructive Empiricism
