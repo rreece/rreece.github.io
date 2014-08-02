@@ -36,7 +36,9 @@ Science makes real progress in describing real features of the world.
 **Challenges to Scientific Realism:**
 
 -   Underdetetmination
--   Scientific revolution, pessimistic meta-induction.
+-   Scientific revolution, pessimistic meta-induction
+
+People:
 
 -   Kuhn, Laudan
 
@@ -54,7 +56,7 @@ but we have no ontological commitments to them.
 
 -   anti-realist
 -   The Vienna Circle
--   Carnap, Neurath, Russel, Wittgenstein, Göde, Frege, von Neuman, Hilbert
+-   Carnap, Neurath, Russel, Wittgenstein, Gödl, Frege, von Neuman, Hilbert
 -   Verificationism, Nominalism
 
 Note any differences between:
@@ -93,7 +95,7 @@ but does not justify metaphysical claims about reality.
 Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
 
--   Poincaré, Worrall, Ladyman, Psillo
+-   Poincaré, Worrall, Ladyman, Psills
 -   Contrast with Bueno's Structural Empiricism
 
 
