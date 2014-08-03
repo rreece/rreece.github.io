@@ -147,7 +147,7 @@ Annotated Bibliography
     asks the external questions about reality outside the linguistic framework.
 
 
-## Quine, W. (1951). Two Dogmas of Empiricism
+### Quine, W. (1951). Two Dogmas of Empiricism
 
 TODO[^Quine-1951].
 
