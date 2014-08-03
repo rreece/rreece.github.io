@@ -125,7 +125,7 @@ Questions:
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-### Carnap, R. (1950). Empiricism, Semantics, and Ontology
+### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
 
 -   Empiricists tend to prefer nominalism -- a rejection of abstract entities[^Carnap-1950].
 -   Formalists view mathematics as a mechanistic calculus without interpretation,
@@ -147,7 +147,7 @@ Annotated Bibliography
     asks the external questions about reality outside the linguistic framework.
 
 
-### Quine, W. (1951). Two Dogmas of Empiricism
+### Quine, W. (1951). Two Dogmas of Empiricism.
 
 TODO[^Quine-1951].
 
