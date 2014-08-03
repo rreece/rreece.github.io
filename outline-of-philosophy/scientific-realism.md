@@ -70,9 +70,6 @@ Note any differences between:
 
 Testing footnotes:
 
--   Carnap[^Carnap-1950] thought hard about science[^Carnap-1955].
--   van Fraassen[^van-Fraassen-1980] can go to anti-reality.
--   Read[^Putnam-1981] Putnam, H. (1981). Reason, Truth, and History.
 -   Read[^Putnam-1982-1] Putnam, H. (1982). Three Kinds of Scientific Realism.
 -   Read[^Putnam-1982-2] Putnam, H. (1982). Why There Isn't a Ready-Made World.
 
@@ -128,9 +125,9 @@ Questions:
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
+### Carnap, R. (1950). Empiricism, Semantics, and Ontology
 
--   Empiricists tend to prefer nominalism -- a rejection of abstract entities.
+-   Empiricists tend to prefer nominalism -- a rejection of abstract entities[^Carnap-1950].
 -   Formalists view mathematics as a mechanistic calculus without interpretation,
     but physics seems to lend its own interpretation.
 -   A physicist may declare some parts of a theory as uninterpretable.
@@ -150,19 +147,24 @@ Annotated Bibliography
     asks the external questions about reality outside the linguistic framework.
 
 
+## Quine, W. (1951). Two Dogmas of Empiricism
+
+TODO[^Quine-1951].
+
+
 ### Carnap, R. (1955). The Logical Foundations of the Unity of Science.
 
-TODO.
+TODO[^Carnap-1955].
 
 
 ### van Fraassen, B. (1980). The Scientific Image.
     
-"Arguments Concerning Scientific Realism".
+"Arguments Concerning Scientific Realism"[^van-Fraassen-1980].
 
 
 ### Putnam, H. (1981).  Reason, Truth, and History.
 
-Brain in a vat thought experiment.
+Brain in a vat thought experiment[^Putnam-1981].
 
 
 ### Putnam, H. (1982).  Three Kinds of Scientific Realism.
@@ -254,11 +256,13 @@ Wikipedia
 
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)
+-   [Quine-Duhem Thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 
 
 
   [^Carnap-1950]: Carnap, R. (1950). Empiricism, Semantics, and Ontology.
+  [^Quine-1951]: Quine, W. (1951). Two Dogmas of Empiricism.
   [^Carnap-1955]: Carnap, R. (1955). The Logical Foundations of the Unity of Science.
   [^van-Fraassen-1980]: van Fraassen, B. (1980). The Scientific Image.
   [^Putnam-1981]: Putnam, H. (1981). Reason, Truth, and History.
