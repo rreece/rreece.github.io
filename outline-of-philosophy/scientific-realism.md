@@ -68,11 +68,6 @@ Note any differences between:
 -   logical positivism
 -   logical empiricism
 
-Testing footnotes:
-
--   Read[^Putnam-1982-1] Putnam, H. (1982). Three Kinds of Scientific Realism.
--   Read[^Putnam-1982-2] Putnam, H. (1982). Why There Isn't a Ready-Made World.
-
 
 ### Pragmatism
 
