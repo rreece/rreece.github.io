@@ -13,6 +13,7 @@
 
 AUTHOR   := Ryan Reece
 HEADER   := Ryan's Outline of Philosophy
+LICENSE  := Licensed for sharing under <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a>
 
 DATE     := $(shell date +"%a %b %d, %Y")
 CSS      := templates/markdown-memo.css
@@ -61,6 +62,7 @@ index.html: index.md
 		--variable=date-meta:"$(DATE)" \
 		--variable=date:"$(DATE)" \
 		--variable=css:"$(CSS)" \
+		--variable=license:"$(LICENSE)" \
 		--template=./templates/outline.html \
 		-t html --ascii \
 		-o $@ $<
