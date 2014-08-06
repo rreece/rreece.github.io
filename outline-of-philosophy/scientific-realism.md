@@ -172,6 +172,10 @@ Brain in a vat thought experiment[^Putnam-1981].
 ### Dennett, D. (1991).  Real Patterns.
 ### Ladyman, J. (1998).  What is Structural Realism?
 ### Bueno, O. (1999).  What is Structural Empiricism?
+### Psillos, S. (1999).  Scientific Realism: How Science Tracks Truth.
+
+TODO[^Psillos-1999].
+
 ### Psillos, S. (2000).  The Present State of the Scientific Realism Debate.
 ### Chang, H. (2001).  Realism Beyond Footstamping.
 ### van Fraassen, B. (2001).  Constructive Empiricism Now.
@@ -271,6 +275,7 @@ Wikipedia
   [^Dennett-1991]: Dennett, D. (1991). Real Patterns.
   [^Ladyman-1998]: Ladyman, J. (1998). What is Structural Realism?
   [^Bueno-1999]: Bueno, O. (1999). What is Structural Empiricism?
+  [^Psillos-1999]: Psillos, S. (1999).  Scientific Realism: How Science Tracks Truth.
   [^Psillos-2000]: Psillos, S. (2000). The Present State of the Scientific Realism Debate.
   [^Chang-2001]: Chang, H. (2001). Realism Beyond Footstamping.
   [^van-Fraassen-2001]: van Fraassen, B. (2001). Constructive Empiricism Now.
