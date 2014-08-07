@@ -140,6 +140,10 @@ Annotated Bibliography
 -   Carnap distinguishes that only the philosopher
     (not the man on the street nor the scientist)
     asks the external questions about reality outside the linguistic framework.
+-   Carnap goes on about what it means to accept the *thing language*.
+    The system can be constructed by introducing new language expressions
+    (as a sequence of `typdef`s, as he seems to mean).
+-   TODO: What is the nature of numbers?
 
 
 ### Quine, W. (1951). Two Dogmas of Empiricism.
