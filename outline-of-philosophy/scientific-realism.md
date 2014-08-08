@@ -107,9 +107,11 @@ Ways to phrase the issue:
 -   Does your worldview have commitments to ontologies claimed to be part of reality?
 -   Is the goal of science to describe reality?  Does science make any progress at that?
 
-Misc.
+Misc.:
 
 -   Relation to naturalism and mathematical realism.
+-   We should remind ourselves that independent of our debate, the world is doing
+    something in certain ways and not in others.
 
 Questions:
 
