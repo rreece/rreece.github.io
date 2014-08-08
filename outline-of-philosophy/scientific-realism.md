@@ -132,10 +132,10 @@ Annotated Bibliography
     (internal to the framework or about the metaphysical world),
     and the *world of things*.
 
-    >   To recognize something as a real thing or event means to succeed in
-    >   incorporating it into the system of things at a particular space-time
-    >   position so that it fits together with the other things as real,
-    >   according to the rules of the framework.
+>   To recognize something as a real thing or event means to succeed in
+>   incorporating it into the system of things at a particular space-time
+>   position so that it fits together with the other things as real,
+>   according to the rules of the framework.
 
 -   Carnap distinguishes that only the philosopher
     (not the man on the street nor the scientist)
