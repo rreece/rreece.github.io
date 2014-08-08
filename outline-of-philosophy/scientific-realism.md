@@ -93,8 +93,8 @@ Science has identified real patterns, relationships, and structures
 -   realist
 -   Poincar&#233;, Worrall
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
-    -   Epistemic structural realism (ESR)
-    -   Ontic structural realism (OSR)
+    -   Epistemic Structural Realism (ESR)
+    -   Ontic Structural Realism (OSR)
 -   Every Thing Must Go[^Ladyman-Ross-2009]
 -   contrast with Bueno's structural empiricism
 
