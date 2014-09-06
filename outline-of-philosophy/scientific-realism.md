@@ -149,7 +149,7 @@ Annotated Bibliography
     (as a sequence of `typdef`s, as he seems to mean).
 -   TODO: What is the nature of numbers?
 
-**My Thoughts[^Carnap-1950]:**
+**My Thoughts:**
 
 -   Sometimes I feel like Carnap repeats his theses though as if that helps support them.
     He says over and over that accepting a thing in a language is practical matter,
