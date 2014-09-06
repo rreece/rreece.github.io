@@ -61,6 +61,10 @@ but we have no ontological commitments to them.
 -   Carnap, Neurath, Wittgenstein, Frege, von Neuman, Hilbert
 -   verificationism, nominalism
 -   Russel, G&#246;del
+-   Carnap's "ESO"[^Carnap-1950]
+-   Quine's "Two Dogmas"[^Quine-1951]
+-   Carnap's "Logical Foundations of Science"[^Carnap-1955]
+
 
 Note any differences between:
 
@@ -83,6 +87,7 @@ but does not justify metaphysical claims about reality.
 
 -   anti-realist
 -   van Fraassen, Bueno
+-   van Fraassen's "Arguments Concerning Scientific Realism"[^van-Fraassen-1980]
 
 
 ### Structural Realism
@@ -96,6 +101,7 @@ Science has identified real patterns, relationships, and structures
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)
 -   Every Thing Must Go[^Ladyman-Ross-2009]
+-   Psillos' "How scientific tracks truth"[^Psillos-1999]
 -   contrast with Bueno's structural empiricism
 
 
@@ -122,7 +128,7 @@ Questions:
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-### Carnap, R. (1950). Empiricism, Semantics, and Ontology[^Carnap-1950].
+### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
 
 #### 1. The problem of abstract entities
 
@@ -176,22 +182,19 @@ Annotated Bibliography
 
 ### Quine, W. (1951). Two Dogmas of Empiricism.
 
-TODO[^Quine-1951].
-
 
 ### Carnap, R. (1955). The Logical Foundations of the Unity of Science.
 
-TODO[^Carnap-1955].
 
 
 ### van Fraassen, B. (1980). The Scientific Image.
     
-"Arguments Concerning Scientific Realism"[^van-Fraassen-1980].
+"Arguments Concerning Scientific Realism"
 
 
 ### Putnam, H. (1981).  Reason, Truth, and History.
 
-Brain in a vat thought experiment[^Putnam-1981].
+Brain in a vat thought experiment.
 
 
 ### Putnam, H. (1982).  Three Kinds of Scientific Realism.
@@ -206,7 +209,6 @@ Brain in a vat thought experiment[^Putnam-1981].
 ### Bueno, O. (1999).  What is Structural Empiricism?
 ### Psillos, S. (1999).  Scientific Realism: How Science Tracks Truth.
 
-TODO[^Psillos-1999].
 
 ### Psillos, S. (2000).  The Present State of the Scientific Realism Debate.
 ### Chang, H. (2001).  Realism Beyond Footstamping.
