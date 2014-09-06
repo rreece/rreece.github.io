@@ -124,7 +124,9 @@ Annotated Bibliography
 
 ### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
 
--   Empiricists tend to prefer nominalism -- a rejection of abstract entities[^Carnap-1950].
+**Summary[^Carnap-1950]:**
+
+-   Empiricists tend to prefer nominalism -- a rejection of abstract entities.
 -   Formalists view mathematics as a mechanistic calculus without interpretation,
     but physics seems to lend its own interpretation.
 -   A physicist may declare some parts of a theory as uninterpretable.
@@ -146,6 +148,9 @@ Annotated Bibliography
     The system can be constructed by introducing new language expressions
     (as a sequence of `typdef`s, as he seems to mean).
 -   TODO: What is the nature of numbers?
+
+**My Thoughts[^Carnap-1950]:**
+
 -   Sometimes I feel like Carnap repeats his theses though as if that helps support them.
     He says over and over that accepting a thing in a language is practical matter,
     not a theoretical/metaphysical one, which I agree with to a degree.
