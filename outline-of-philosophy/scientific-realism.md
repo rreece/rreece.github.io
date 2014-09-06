@@ -146,6 +146,19 @@ Annotated Bibliography
     The system can be constructed by introducing new language expressions
     (as a sequence of `typdef`s, as he seems to mean).
 -   TODO: What is the nature of numbers?
+-   Sometimes I feel like Carnap repeats his theses though as if that helps support them.
+    He says over and over that accepting a thing in a language is practical matter,
+    not a theoretical/metaphysical one, which I agree with to a degree.
+    But then that leaves us on the edge of a lot of semantic cliffs,
+    saying "but what do our abstract entities mean?", or rather,
+    "what does their scientific success mean?".
+-   In the end, my impression is that I'm still not satisfied with nominalism.
+    I feel like the road to addressing Carnap, the issues he should have acknowledged,
+    is that some of our abstract classes are *super fucking natural*.
+    The success of some instances of our abstract internal languages
+    should lead one, through the same methods of scientific inference that we do within the internal language,
+    to do *abduction to natural kinds* in the external world
+    and to deny the likely success of that abduction is to plead that there is a conspiracy.
 
 
 ### Quine, W. (1951). Two Dogmas of Empiricism.
