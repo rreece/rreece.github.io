@@ -122,9 +122,9 @@ Questions:
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
+### Carnap, R. (1950). Empiricism, Semantics, and Ontology[^Carnap-1950].
 
-**Summary[^Carnap-1950]:**
+#### The problem of abstract entities
 
 -   Empiricists tend to prefer nominalism -- a rejection of abstract entities.
 -   Formalists view mathematics as a mechanistic calculus without interpretation,
@@ -132,6 +132,9 @@ Annotated Bibliography
 -   A physicist may declare some parts of a theory as uninterpretable.
 -   Carnap says his purpose is to clarify that empiricists can accept a
     language referring to abstract entities without embracing platonic ontologies.
+
+#### Liguistic frameworks
+
 -   Carnap defines *linguistic frameworks*, *internal* vs *external* questions
     (internal to the framework or about the metaphysical world),
     and the *world of things*.
@@ -149,7 +152,7 @@ Annotated Bibliography
     (as a sequence of `typdef`s, as he seems to mean).
 -   TODO: What is the nature of numbers?
 
-**My Thoughts:**
+#### My thoughts
 
 -   Sometimes I feel like Carnap repeats his theses though as if that helps support them.
     He says over and over that accepting a thing in a language is practical matter,
