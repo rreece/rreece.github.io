@@ -154,7 +154,7 @@ Participants introduce themselves
     For example, if your kid tells you they are hungry,
     that's a way of knowing that is not science.
 
-    **RYAN'S NOTE**: I disagree, it's still science: empirical and falsifiable
+    (**Ryan, the author of these notes**): I disagree, it's still science: empirical and falsifiable
     (you can ask them to repeat it in case you mis-heard them).
 
 15. **Steven Weinberg** - Works in particle physics, QFT, and cosmology.
@@ -185,13 +185,13 @@ Naturalism can trust three features of physics to not change (despite possible f
     The denial of purpose and goals in physics.
 2.  *Second law of thermodynamics*: generates the time-asymmetries in physics.
     Further, all the asymmetries in physics are a result of the time-asymmetries.
-    (**RYAN**: really? maybe.)
+    (**Ryan**: really? maybe.)
 3.  *Reductionism*: denial of downward causation.  Physics is causally closed.
     The explanatory power of the special sciences are an epistemic thesis and not
     a metaphysical one, and represent cognitive limitations of humans, and 
     no fundamental facts about the organization of reality.
 
-**RYAN**
+**(Ryan)**
 
 I think Alex goes too far with his last points about reductionism.
 Emergent facts about reality are still facts, interesting, and metaphysically real,
@@ -222,7 +222,7 @@ then we could derive all the facts of the special sciences.
 It's very hard for me to see what could constitute evidence for that claim.
 That looks like a statement of metaphysical faith.
 
-**RYAN**
+**(Ryan)**
 
 I agree Don has clarified the issue of what reductionism
 entails, but he shouldn't be skeptical about it, as we verify that physics
