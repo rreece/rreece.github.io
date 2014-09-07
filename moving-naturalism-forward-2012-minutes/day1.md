@@ -164,7 +164,7 @@ Participants introduce themselves
     Confesses he has strong views on emergence, morality, and free will that are
     unlikely to change.
 
-16. **Janna Levin** - (Showed up late and introduced herself on day 1, afternoon, 1st session.)
+16. **Janna Levin** - (Showed up late and introduced herself later in the day 1, afternoon, 1st session.)
     TODO.
 
 
