@@ -88,7 +88,7 @@ Participants introduce themselves
     She is a materialist but fascinated by the mind-body problem.
     Was driven to write philosophical novels out of frustration of philosophy's dependence
     on character, intuitions, and presuppositions.
-    Thinks she ruined in philosophy career with her first novel *Mind-body Problem*.
+    Thinks she ruined her philosophy career with her first novel *Mind-body Problem*.
     Fascinated by philosophy of mathematics.
     Thinks Godel's work leads to mathematical realism.
     Would like to believe that philosophy can make progress past people's intuitions,
@@ -280,4 +280,17 @@ in Aristotle's physics and in the biology before Darwin.
 **Dan**
 
 We have a political obligation to not be misunderstood.
+
+TODO...
+
+
+*Day 1, afternoon, 1st session*
+
+TODO...
+
+
+*Day 1, afternoon, 2nd session*
+
+TODO...
+
 
