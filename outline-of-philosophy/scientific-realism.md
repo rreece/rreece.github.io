@@ -207,6 +207,12 @@ Annotated Bibliography
 
 ### Carnap, R. (1955). The Logical Foundations of the Unity of Science.
 
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
 
 --------------------------------------------------------------------------------
 
@@ -216,12 +222,20 @@ Annotated Bibliography
 
 -   TODO.
 
+#### My thoughts
+
+-   TODO.
+
 
 --------------------------------------------------------------------------------
 
 ### Putnam, H. (1981).  Reason, Truth, and History.
 
 -   Brain in a vat thought experiment.
+-   TODO.
+
+#### My thoughts
+
 -   TODO.
 
 
@@ -238,8 +252,6 @@ Annotated Bibliography
 ### Ladyman, J. (1998).  What is Structural Realism?
 ### Bueno, O. (1999).  What is Structural Empiricism?
 ### Psillos, S. (1999).  Scientific Realism: How Science Tracks Truth.
-
-
 ### Psillos, S. (2000).  The Present State of the Scientific Realism Debate.
 ### Chang, H. (2001).  Realism Beyond Footstamping.
 ### van Fraassen, B. (2001).  Constructive Empiricism Now.
