@@ -182,6 +182,24 @@ Annotated Bibliography
 
 ### Quine, W. (1951). Two Dogmas of Empiricism.
 
+#### 1. Background for analyticity
+
+-   TODO.
+
+#### 2. Definition
+
+#### 3. Interchangeability
+
+#### 4. Semantical rules
+
+#### 5. The verification theory and reductionism
+
+#### 6. Empiricism without the dogmas
+
+#### My thoughts
+
+-   TODO.
+
 
 ### Carnap, R. (1955). The Logical Foundations of the Unity of Science.
 
