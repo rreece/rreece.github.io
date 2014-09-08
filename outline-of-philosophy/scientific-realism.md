@@ -180,6 +180,8 @@ Annotated Bibliography
     and to deny the likely success of that abduction is to plead that there is a conspiracy.
 
 
+--------------------------------------------------------------------------------
+
 ### Quine, W. (1951). Two Dogmas of Empiricism.
 
 #### 1. Background for analyticity
@@ -201,19 +203,29 @@ Annotated Bibliography
 -   TODO.
 
 
+--------------------------------------------------------------------------------
+
 ### Carnap, R. (1955). The Logical Foundations of the Unity of Science.
 
 
+--------------------------------------------------------------------------------
 
 ### van Fraassen, B. (1980). The Scientific Image.
     
 "Arguments Concerning Scientific Realism"
 
+-   TODO.
+
+
+--------------------------------------------------------------------------------
 
 ### Putnam, H. (1981).  Reason, Truth, and History.
 
-Brain in a vat thought experiment.
+-   Brain in a vat thought experiment.
+-   TODO.
 
+
+--------------------------------------------------------------------------------
 
 ### Putnam, H. (1982).  Three Kinds of Scientific Realism.
 ### Putnam, H. (1982).  Why There Isn't a Ready-Made World.
