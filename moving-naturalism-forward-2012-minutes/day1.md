@@ -249,7 +249,7 @@ We can count the glasses on the table.
 
 **Alex**
 
-(Backpedaling)  That's not a thesis I was defending.
+(Back-pedaling)  That's not a thesis I was defending.
 There's nothing but fermions and bosons... and everything that is made up of
 fermions and bosons.
 There are also chemical facts, biological facts, economic facts.
