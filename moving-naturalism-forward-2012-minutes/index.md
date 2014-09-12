@@ -3,8 +3,8 @@ Ryan's Minutes of "Moving Naturalism Forward"
 
 "Moving Naturalism Forward" workshop October 25-29, 2012
 
--   Sean's event page: <http://preposterousuniverse.com/naturalism2012/>
--   Youtube playlist: <https://www.youtube.com/watch?v=Ju4C_ITlBsU&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL>
+-   Sean Carroll's [event page](http://preposterousuniverse.com/naturalism2012/)
+-   [Youtube playlist](https://www.youtube.com/watch?v=Ju4C_ITlBsU&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL)
 
 
 Contents
