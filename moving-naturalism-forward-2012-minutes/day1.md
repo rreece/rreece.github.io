@@ -161,8 +161,14 @@ Participants introduce themselves
 
 15. **Steven Weinberg** - Works in particle physics, QFT, and cosmology.
     One of the founders of the Standard Model.  Serious BAMF.
-    Reality and naturalism: "I'm all for them, but I'm not sure what they are."
-    Consciousness and mathematics: "I think I know what they are, but I don't see how they fit into natural science."
+    Reality and naturalism:
+    
+    > I'm all for them, but I'm not sure what they are.
+
+    Consciousness and mathematics:
+    
+    > I think I know what they are, but I don't see how they fit into natural science.
+
     Confesses he has strong views on emergence, morality, and free will that are
     unlikely to change.
 
