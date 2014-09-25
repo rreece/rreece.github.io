@@ -117,7 +117,7 @@ Participants introduce themselves
 *Day 1, morning, 2nd session*
 
 11. **Massimo Pigliucci** - Started as an evolutionary biologist, studying gene-environment interactions,
-    nature/nurture.  Midlife crisis made up move to NY and get a second Ph.D. in philosophy.
+    nature/nurture.  Midlife crisis made up move to NYC and get a second Ph.D. in philosophy.
     Now a professor at CUNY.
     Science and philosophy do different things, but are both part of scientia.
     Interested in the demarcation problem.
