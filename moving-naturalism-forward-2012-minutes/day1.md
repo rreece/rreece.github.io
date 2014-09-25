@@ -35,8 +35,8 @@ Participants introduce themselves
     What about the special sciences?
     Science should provide us with a general worldview.
     Runs an experimental economics lab at the U of Capetown.
-    Would like to change his mind about the philosophy of mathematics cause he changes
-    his mind often.
+    Would like to change his mind about the philosophy of mathematics
+    since he changes it often.
 
 5.  **Alex Rosenberg** - Started in physics.  Works in the philosophy of biology.
     Views that naturalism is deeply incompatible with Sellars' *manifest image*
