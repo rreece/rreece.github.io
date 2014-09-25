@@ -279,6 +279,7 @@ SEP
 -   [Duhem](http://plato.stanford.edu/entries/duhem/)
 -   [Feyerabend](http://plato.stanford.edu/entries/feyerabend/)
 -   [The Incommensurability of Scientific Theories](http://plato.stanford.edu/entries/incommensurability/)
+-   [Information](http://plato.stanford.edu/entries/information/)
 -   [Kuhn](http://plato.stanford.edu/entries/thomas-kuhn/)
 -   [Logic and Ontology](http://plato.stanford.edu/entries/logic-ontology/)
 -   [Logical Empiricism](http://plato.stanford.edu/entries/logical-empiricism/)
