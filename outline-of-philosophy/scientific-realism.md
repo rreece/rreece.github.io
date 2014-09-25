@@ -298,6 +298,7 @@ SEP
 -   [Scientific Revolutions](http://plato.stanford.edu/entries/scientific-revolutions/)
 -   [Sellars](http://plato.stanford.edu/entries/sellars/)
 -   [Structural Realism](http://plato.stanford.edu/entries/structural-realism/)
+-   [Tarski](http://plato.stanford.edu/entries/tarski/)
 -   [Theoretical Terms in Science](http://plato.stanford.edu/entries/theoretical-terms-science/)
 -   [Theory and Observation in Science](http://plato.stanford.edu/entries/science-theory-observation/)
 -   [Underdetermination of Scientific Theory](http://plato.stanford.edu/entries/scientific-underdetermination/)
