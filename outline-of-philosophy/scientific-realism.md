@@ -175,9 +175,10 @@ Annotated Bibliography
     I feel like the road to addressing Carnap, the issues he should have acknowledged,
     is that some of our abstract classes are *super fucking natural*.
     The success of some instances of our abstract internal languages
-    should lead one, through the same methods of scientific inference that we do within the internal language,
-    to do *abduction to natural kinds* in the external world
-    and to deny the likely success of that abduction is to plead that there is a conspiracy.
+    should lead one, through the same methods of scientific inference that we do
+    within the internal language,
+    to do *abduction to natural kinds* in the external world.
+    To deny the likely success of that abduction is to plead that there is a conspiracy.
 
 
 --------------------------------------------------------------------------------
