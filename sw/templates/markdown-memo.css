@@ -161,6 +161,7 @@ blockquote {
     margin-left:0;
     max-width: 700px;
     color: black;
+    text-align: justify;
 }
 
 /* hr. ---------------------------------------------------------- */

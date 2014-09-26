@@ -161,7 +161,7 @@ Annotated Bibliography
     asks the external questions about reality outside the linguistic framework.
 -   Carnap goes on about what it means to accept the *thing language*.
     The system can be constructed by introducing new language expressions
-    (as a sequence of `typdef`s, as he seems to mean).
+    (as a sequence of `typedef`s, as he seems to mean).
 
 #### 3. What does acceptance of a kind of entities mean?
 
