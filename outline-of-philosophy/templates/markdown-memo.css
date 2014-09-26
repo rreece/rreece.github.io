@@ -157,8 +157,10 @@ code {
 }
 blockquote {
     margin:0;
+    border:0;
+    padding:0;
     border-left:12px solid #cccccc;
-    padding: 0 24px;
+    padding-left:24px;
     max-width: 700px;
     color: black;
     text-align: justify;
