@@ -132,15 +132,15 @@ Annotated Bibliography
 
 #### 1. The problem of abstract entities
 
--   Empiricists tend to prefer to restrict themselves to nominalistic language,
-    i.e. without containing references to abstract entities.
+-   Empiricists tend to prefer to restrict themselves to
+    *nominalistic language* -- without containing references to abstract entities.
+-   Formalists view mathematics as a mechanistic calculus without interpretation,
+    but physics seems to lend its own interpretation.
 
 >   In physics it is more difficult to shun the suspected entities because the language
 >   of physics serves for the communication of reports and predictions and hence
 >   cannot be taken as a mere calculus.
 
--   Formalists view mathematics as a mechanistic calculus without interpretation,
-    but physics seems to lend its own interpretation.
 -   A physicist may declare some parts of a theory as uninterpretable.
 -   Carnap says his purpose is to clarify that empiricists can accept a
     language referring to abstract entities without embracing platonic ontologies.
