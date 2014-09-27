@@ -10,9 +10,9 @@ Does science make any progress at describing reality?
 -   [Positions](#positions)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
-    1.  Carnap, R. (1950). Empiricism, Semantics, and Ontology.
-    1.  Quine, W. (1951). Two Dogmas of Empiricism.
-    1.  Carnap, R. (1955). The Logical Foundations of the Unity of Science.
+    1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
+    1.  [Quine, W. (1951). Two Dogmas of Empiricism.](#quine-w.-1951.-two-dogmas-of-empiricism.)
+    1.  [Carnap, R. (1955). The Logical Foundations of the Unity of Science.](#carnap-r.-1955.-the-logical-foundations-of-the-unity-of-science.)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
 -   [References](#fn1)
 
