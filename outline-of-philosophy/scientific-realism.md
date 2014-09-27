@@ -131,7 +131,7 @@ Annotated Bibliography
 #### 1. The problem of abstract entities
 
 -   Empiricists tend to prefer to restrict themselves to
-    *nominalistic language* --- without containing references to abstract entities.
+    *nominalistic language* -- without containing references to abstract entities.
 -   Formalists view mathematics as a mechanistic calculus without interpretation,
     but physics seems to lend its own interpretation.
 
