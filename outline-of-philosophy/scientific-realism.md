@@ -142,8 +142,8 @@ Annotated Bibliography
 >   cannot be taken as a mere calculus.
 
 -   A physicist may declare some parts of a theory as uninterpretable.
--   Carnap says his purpose is to clarify that empiricists can accept a
-    language referring to abstract entities without embracing platonic ontologies.
+-   Carnap says his purpose is to clarify that *empiricists can accept a
+    language referring to abstract entities without embracing platonic ontologies*.
 
 #### 2. Linguistic frameworks
 
