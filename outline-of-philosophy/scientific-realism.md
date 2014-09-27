@@ -223,6 +223,50 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
+### Maxwell, G. (1962). The Ontological Status of Theoretical Entities.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
+### Sellars, W. (1963). Science, Perception, and Reality.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
+### Feyerabend, P. (1974). Against Method.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
+### Putnam, H. (1975). The Meaning of Meaning.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
 ### van Fraassen, B. (1980). The Scientific Image.
     
 "Arguments Concerning Scientific Realism"
