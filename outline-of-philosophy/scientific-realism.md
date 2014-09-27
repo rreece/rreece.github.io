@@ -363,8 +363,10 @@ IEP
 -   [Carnap](http://www.iep.utm.edu/carnap/)
 -   [Confirmation and Induction](http://www.iep.utm.edu/conf-ind/)
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
+-   [Evidence](http://www.iep.utm.edu/evidence/)
 -   [Explanation, Theories of](http://www.iep.utm.edu/explanat/)
 -   [Internalism and Externalism in the Philosophy of Mind and Language](http://www.iep.utm.edu/int-ex-ml/)
+-   [Laws of Nature](http://www.iep.utm.edu/lawofnat/)
 -   [Mathematical Structuralism](http://www.iep.utm.edu/m-struct/)
 -   [Models](http://www.iep.utm.edu/models/)
 -   [Natural Law](http://www.iep.utm.edu/natlaw/)
@@ -378,7 +380,6 @@ IEP
 -   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)
 -   [Scientific Change](http://www.iep.utm.edu/s-change/)
 -   [Vienna Circle](http://www.iep.utm.edu/viennacr/)
-
 
 Wikipedia
 

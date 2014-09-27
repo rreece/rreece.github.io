@@ -109,12 +109,15 @@ IEP
 
 -   [The Applicability of Mathematics](http://www.iep.utm.edu/math-app/)
 -   [Fictionalism in the Philosophy of Mathematics](http://www.iep.utm.edu/mathfict/)
+-   [Game Theory](http://www.iep.utm.edu/game-th/)
 -   [The Indispensability Argument in the Philosophy of Mathematics](http://www.iep.utm.edu/indimath/)
 -   [Jules Henri Poincaré(1854-1912)](http://www.iep.utm.edu/poincare/)
 -   [Ludwig Wittgenstein: Later Philosophy of Mathematics](http://www.iep.utm.edu/wittmath/)
 -   [Mathematical Platonism](http://www.iep.utm.edu/mathplat/)
+-   [Models](http://www.iep.utm.edu/models/)
 -   [Poincarés Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)
 -   [Process Philosophy](http://www.iep.utm.edu/processp/)
+-   [Relational Models Theory](http://www.iep.utm.edu/r-models/)
 -   [Universals](http://www.iep.utm.edu/universa/)
 
 

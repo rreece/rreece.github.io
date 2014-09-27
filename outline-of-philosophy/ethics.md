@@ -145,10 +145,13 @@ Annotated Bibliography
 Links and Encyclopedia Articles
 --------------------------------------------------------------------------------
 
+SEP
+
 IEP
 
 -   [Game Theory](http://www.iep.utm.edu/game-th/)
 
+Wikipedia
 
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
