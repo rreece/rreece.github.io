@@ -136,8 +136,8 @@ Participants introduce themselves
     So far neuroscience has been successful at the "maps problem"
     making finer resolution maps of the brain, but not yet many conceptual advances.
 
-13. **Jennifer Oullet** - Carroll's wife.  Science writer.  Recoiled from an
-    evangelical religious family.
+13. **Jennifer Oullet** - Science writer.  Recoiled from an evangelical religious family.
+    Carroll's wife.
 
 14. **Jerry Coyne** - Evolutionary biologist at U Chicago.
     Incompatiblist: consciousness and free will are an illusion, not meaning that they
