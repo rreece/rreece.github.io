@@ -293,31 +293,33 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Putnam, H. (1982).  Three Kinds of Scientific Realism.
-### Putnam, H. (1982).  Why There Isn't a Ready-Made World.
-### Fine, A. (1984).  The Natural Ontological Attitude.
-### Fine, A. (1984).  And Not Anti-Realism Either.
-### Musgrave, A. (1989).  Noah's Ark Fine for Realism.
-### Worrall, J. (1989).  Structural Realism: The Best of Both Worlds?
-### Laudan, L. (1990).  Demystifying Underdetermination.
-### Dennett, D. (1991).  Real Patterns.
-### Ladyman, J. (1998).  What is Structural Realism?
-### Bueno, O. (1999).  What is Structural Empiricism?
-### Psillos, S. (1999).  Scientific Realism: How Science Tracks Truth.
-### Psillos, S. (2000).  The Present State of the Scientific Realism Debate.
-### Chang, H. (2001).  Realism Beyond Footstamping.
-### van Fraassen, B. (2001).  Constructive Empiricism Now.
-### Hacking, I. (2006).  Natural Kinds.
-### Psillos, S. (2007).  Choosing the Realist Framework.
-### Bueno, O. (2008).  Structural Realism, Scientific Change, and Partial Structures.
-### Bain, J. (2009).  Towards Structural Realism.
-### Ladyman, J. & Ross, D. (2009).  Every Thing Must Go: Metaphysics Naturalized.
-### Psillos, S. (2010).  Scientific Realism: Between Platonism and Nominalism.
-### Frigg, R. & Votsis, I. (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
-### French, S. & Ladyman, J. (2011).  In Defense of Ontic Structural Realism.
-### Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
-### Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.
-### French, S. (2014). The Structure of the World: Metaphysics and Representation.
+Other articles to do:
+
+-   Putnam, H. (1982).  Three Kinds of Scientific Realism.
+-   Putnam, H. (1982).  Why There Isn't a Ready-Made World.
+-   Fine, A. (1984).  The Natural Ontological Attitude.
+-   Fine, A. (1984).  And Not Anti-Realism Either.
+-   Musgrave, A. (1989).  Noah's Ark Fine for Realism.
+-   Worrall, J. (1989).  Structural Realism: The Best of Both Worlds?
+-   Laudan, L. (1990).  Demystifying Underdetermination.
+-   Dennett, D. (1991).  Real Patterns.
+-   Ladyman, J. (1998).  What is Structural Realism?
+-   Bueno, O. (1999).  What is Structural Empiricism?
+-   Psillos, S. (1999).  Scientific Realism: How Science Tracks Truth.
+-   Psillos, S. (2000).  The Present State of the Scientific Realism Debate.
+-   Chang, H. (2001).  Realism Beyond Footstamping.
+-   van Fraassen, B. (2001).  Constructive Empiricism Now.
+-   Hacking, I. (2006).  Natural Kinds.
+-   Psillos, S. (2007).  Choosing the Realist Framework.
+-   Bueno, O. (2008).  Structural Realism, Scientific Change, and Partial Structures.
+-   Bain, J. (2009).  Towards Structural Realism.
+-   Ladyman, J. & Ross, D. (2009).  Every Thing Must Go: Metaphysics Naturalized.
+-   Psillos, S. (2010).  Scientific Realism: Between Platonism and Nominalism.
+-   Frigg, R. & Votsis, I. (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
+-   French, S. & Ladyman, J. (2011).  In Defense of Ontic Structural Realism.
+-   Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
+-   Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.
+-   French, S. (2014). The Structure of the World: Metaphysics and Representation.
 
 
 Links and Encyclopedia Articles
