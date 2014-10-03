@@ -129,7 +129,7 @@ Questions:
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-### 1. Carnap, R. (1950). Empiricism, Semantics, and Ontology.
+### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
 
 #### 1. The problem of abstract entities
 
@@ -190,7 +190,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### 2. Quine, W. (1951). Two Dogmas of Empiricism.
+### Quine, W. (1951). Two Dogmas of Empiricism.
 
 #### 1. Background for analyticity
 
@@ -213,7 +213,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### 3. Carnap, R. (1955). The Logical Foundations of the Unity of Science.
+### Carnap, R. (1955). The Logical Foundations of the Unity of Science.
 
 -   TODO.
 
@@ -224,7 +224,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### 4. Maxwell, G. (1962). The Ontological Status of Theoretical Entities.
+### Maxwell, G. (1962). The Ontological Status of Theoretical Entities.
 
 -   TODO.
 
@@ -235,7 +235,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### 5. Sellars, W. (1963). Science, Perception, and Reality.
+### Sellars, W. (1963). Science, Perception, and Reality.
 
 -   TODO.
 
@@ -246,7 +246,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### 6. Feyerabend, P. (1974). Against Method.
+### Feyerabend, P. (1974). Against Method.
 
 -   TODO.
 
@@ -257,7 +257,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### 7. Putnam, H. (1975). The Meaning of Meaning.
+### Putnam, H. (1975). The Meaning of Meaning.
 
 -   TODO.
 
@@ -268,7 +268,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### 8. van Fraassen, B. (1980). The Scientific Image.
+### van Fraassen, B. (1980). The Scientific Image.
     
 "Arguments Concerning Scientific Realism"
 
