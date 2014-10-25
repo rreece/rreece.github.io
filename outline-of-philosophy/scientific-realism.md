@@ -58,6 +58,7 @@ but we have no ontological commitments to them.
 ### Positivism
 
 -   anti-realist
+-   Comte
 -   The Vienna Circle
 -   Carnap, Neurath, Wittgenstein, Frege, von Neuman, Hilbert
 -   verificationism, nominalism
@@ -327,6 +328,7 @@ Links and Encyclopedia Articles
 
 SEP
 
+-   [Comte](http://plato.stanford.edu/entries/comte/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 -   [Constructive Empiricism](http://plato.stanford.edu/entries/constructive-empiricism/)
 -   [Duhem](http://plato.stanford.edu/entries/duhem/)
@@ -374,6 +376,7 @@ IEP
 -   [Models](http://www.iep.utm.edu/models/)
 -   [Natural Law](http://www.iep.utm.edu/natlaw/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
+-   [Ordinary Language Philosophy](http://www.iep.utm.edu/ord-lang/)
 -   [Phenomenology and Natural Science](http://www.iep.utm.edu/phenomsc/)
 -   [Popper: Critical Rationalism](http://www.iep.utm.edu/cr-ratio/)
 -   [Poincar&#233;](http://www.iep.utm.edu/poincare/)
@@ -383,11 +386,13 @@ IEP
 -   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)
 -   [Scientific Change](http://www.iep.utm.edu/s-change/)
 -   [Vienna Circle](http://www.iep.utm.edu/viennacr/)
+-   [Wittgenstein](http://www.iep.utm.edu/wittgens/)
 
 Wikipedia
 
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)
+-   [Positivism](http://en.wikipedia.org/wiki/Positivism)
 -   [Quine-Duhem Thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 
