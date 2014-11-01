@@ -255,6 +255,9 @@ Now, we as naturalist are committed to the ontology of the physical sciences,
 but we shouldn't go to the other extreme and deny the reality of the manifest image.
 We can count the glasses on the table.
 
+RYAN: TODO highlight Dan's point.
+
+
 **Alex**
 
 (Back-pedaling)  That's not a thesis I was defending.
@@ -293,6 +296,10 @@ We have a political obligation to not be misunderstood.
 TODO...
 
 RYAN: Designs and designoids are both solutions.
+
+**Alex**
+
+TODO...
 
 
 *Day 1, afternoon, 1st session*
