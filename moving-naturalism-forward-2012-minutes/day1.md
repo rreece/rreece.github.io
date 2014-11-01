@@ -339,6 +339,22 @@ TODO...
 
 **Alex**
 
+>   It's not just mathematics.
+
+**Steven**
+
+TODO...
+
+**Alex**
+
+TODO...
+
+**Steven**
+
+TODO...
+
+**Alex**
+
 TODO...
 
 **Steven**
@@ -352,6 +368,20 @@ TODO...
 **Don**
 
 TODO...
+
+>   Imagine a universe that would have exactly the same description,
+>   in the ideal physics that no one has yet come up with,
+>   as the description we would give of this universe...
+
+TODO...
+
+**Dawkins**
+
+TODO...
+
+>   Natural design has no foresight.  Human design can look ahead and say,
+>   "If we go on polluting, in a centuries time, ...",
+>   and Nature doesn't do that. Nature optimizes in the short term...
 
 
 *Day 1, afternoon, 1st session*
