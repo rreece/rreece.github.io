@@ -255,7 +255,9 @@ Now, we as naturalist are committed to the ontology of the physical sciences,
 but we shouldn't go to the other extreme and deny the reality of the manifest image.
 We can count the glasses on the table.
 
-(Ryan): TODO highlight Dan's point.
+**(Ryan)**
+
+TODO: highlight Dan's point.
 
 
 **Alex**
@@ -383,6 +385,13 @@ TODO...
 >   "If we go on polluting, in a centuries time, ...",
 >   and Nature doesn't do that. Nature optimizes in the short term...
 
+**(Ryan)**
+
+TODO: highlight Dan's point.
+
+**Dan**
+
+TODO...
 
 *Day 1, afternoon, 1st session*
 
