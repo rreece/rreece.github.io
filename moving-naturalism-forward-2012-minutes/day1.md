@@ -301,6 +301,38 @@ RYAN: Designs and designoids are both solutions.
 
 TODO...
 
+**Dan**
+
+TODO...
+
+"Turns out you can divide an atom."
+
+>   I think it is an easier pedagogical task to convince people that there's design
+>   without a designer, design without an intelligent designer,
+>   than it is to convince them that there isn't any design.
+
+TODO...
+
+**Alex**
+
+TODO...
+
+**Dan**
+
+TODO...
+
+**Jerry**
+
+TODO...
+
+**Dan**
+
+TODO...
+
+**Massimo**
+
+TODO...
+
 
 *Day 1, afternoon, 1st session*
 
@@ -310,5 +342,6 @@ TODO...
 *Day 1, afternoon, 2nd session*
 
 TODO...
+
 
 
