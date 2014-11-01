@@ -377,7 +377,7 @@ TODO...
 
 TODO...
 
-**Dawkins**
+**Richard**
 
 TODO...
 
@@ -387,7 +387,7 @@ TODO...
 
 **(Ryan)**
 
-TODO: highlight Dan's point.
+TODO: highlight Richard's point.
 
 **Dan**
 
