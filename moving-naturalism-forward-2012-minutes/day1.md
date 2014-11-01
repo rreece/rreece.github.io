@@ -119,7 +119,7 @@ Participants introduce themselves
 11. **Massimo Pigliucci** - Started as an evolutionary biologist, studying gene-environment interactions,
     nature/nurture.  Midlife crisis made up move to NYC and get a second Ph.D. in philosophy.
     Now a professor at CUNY.
-    Science and philosophy do different things, but are both part of scientia.
+    Science and philosophy do different things, but are both part of *scientia*.
     Interested in the demarcation problem.
     Thinks that philosophy does make progress.
     Has a tattoo:
@@ -291,6 +291,8 @@ in Aristotle's physics and in the biology before Darwin.
 We have a political obligation to not be misunderstood.
 
 TODO...
+
+RYAN: Designs and designoids are both solutions.
 
 
 *Day 1, afternoon, 1st session*
