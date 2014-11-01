@@ -333,6 +333,26 @@ TODO...
 
 TODO...
 
+**Steven**
+
+TODO...
+
+**Alex**
+
+TODO...
+
+**Steven**
+
+TODO...
+
+>   Well, it's the relations that are real.
+
+TODO...
+
+**Don**
+
+TODO...
+
 
 *Day 1, afternoon, 1st session*
 
