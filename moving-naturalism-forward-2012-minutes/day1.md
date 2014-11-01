@@ -393,6 +393,11 @@ TODO: highlight Dan's point.
 
 TODO...
 
+>   What is this for?
+
+TODO...
+
+
 *Day 1, afternoon, 1st session*
 
 TODO...
