@@ -1,6 +1,8 @@
 Moving Naturalism Forward Day 1
 ================================================================================
 
+--------------------------------------------------------------------------------
+
 *Day 1, morning, 1st session*
 
 Participants introduce themselves
@@ -113,6 +115,8 @@ Participants introduce themselves
     Concerning the manifest/scientific image, in one sense there is no color,
     but if you call the front desk and say there is no color TV in your hotel room,
     they will know what you mean.
+
+--------------------------------------------------------------------------------
 
 *Day 1, morning, 2nd session*
 
@@ -405,11 +409,17 @@ TODO...
 
 TODO...
 
+--------------------------------------------------------------------------------
 
 *Day 1, afternoon, 1st session*
 
+
+Emergence and reductionism
+--------------------------------------------------------------------------------
+
 TODO...
 
+--------------------------------------------------------------------------------
 
 *Day 1, afternoon, 2nd session*
 
