@@ -50,6 +50,7 @@ index.html: index.md
 		--variable=date-meta:"$(DATE)" \
 		--variable=date:"$(DATE)" \
 		--variable=css:"$(CSS)" \
+		--variable=license:"$(LICENSE)" \
 		--template=./templates/toc.html \
 		-t html --ascii \
 		-o $@ $<
@@ -63,6 +64,7 @@ index.html: index.md
 		--variable=date-meta:"$(DATE)" \
 		--variable=date:"$(DATE)" \
 		--variable=css:"$(CSS)" \
+		--variable=license:"$(LICENSE)" \
 		--template=./templates/outline.html \
 		-t html --ascii \
 		-o $@ $<
