@@ -414,7 +414,7 @@ TODO...
 *Day 1, afternoon, 1st session*
 
 
-Emergence and reductionism
+Emergence and reduction
 --------------------------------------------------------------------------------
 
 TODO...

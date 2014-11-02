@@ -10,9 +10,10 @@ Ryan's Minutes of "Moving Naturalism Forward"
 Contents
 --------------------------------------------------------------------------------
 
-1.  [Day 1](day1.html)   (in progress)
-1.  Day 2   (TODO)
-1.  Day 3   (TODO)
+1.  [Day 1](day1.html): *What is real?, Emergence and reduction*  -- (in progress)
+1.  Day 2: *Morality, Meaning, Free will and consciousness*  -- (TODO)
+1.  Day 3: *Philosophy and science, final thoughts*  -- (TODO)
+1.  Ryan's summary  -- (TODO)
 
 
 Philosophy in figures draft image
