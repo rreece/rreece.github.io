@@ -282,6 +282,24 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
+### Laudan, L. (1981).  A Confutation of Convergent Realism.
+
+#### 1. The Problem
+#### 2. Convergent Realism
+#### 3. Reference and Success
+#### 4. Approximate Truth and Success: the 'Downward Path'
+#### 5. Approximate Truth and Success: the 'Upward Path'
+#### 6. Confusions About Convergence and Retention
+#### 7. The Realists' Ultimate 'Petitio Principii'
+#### 8. Conclusion
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
 ### Putnam, H. (1981).  Reason, Truth, and History.
 
 -   Brain in a vat thought experiment.
