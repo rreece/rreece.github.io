@@ -103,7 +103,7 @@ Science has identified real patterns, relationships, and structures
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)
 -   Every Thing Must Go[^Ladyman-Ross-2009]
--   Psillos' "How scientific tracks truth"[^Psillos-1999]
+-   Psillos' "How science tracks truth"[^Psillos-1999]
 -   contrast with Bueno's structural empiricism
 
 
