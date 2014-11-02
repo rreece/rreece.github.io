@@ -11,8 +11,8 @@ Contents
 --------------------------------------------------------------------------------
 
 1.  [Day 1](day1.html)   (in progress)
-1.  [Day 2](day2.html)   (TODO)
-1.  [Day 3](day3.html)   (TODO)
+1.  Day 2   (TODO)
+1.  Day 3   (TODO)
 
 
 Philosophy in figures draft image
