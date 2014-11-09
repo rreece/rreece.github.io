@@ -439,6 +439,7 @@ Wikipedia
   [^Psillos-2007]: Psillos, S. (2007). Choosing the Realist Framework.
   [^Bueno-2008]: Bueno, O. (2008). Structural Realism, Scientific Change, and Partial Structures.
   [^Bain-2009]: Bain, J. (2009). Towards Structural Realism.
+  [^Psillos-2009]: Psillos, S. (2011). On Reichenbach's argument for scientific realism.
   [^Ladyman-Ross-2009]: Every Thing Must Go: Metaphysics Naturalized.
   [^Psillos-2010]: Psillos, S. (2010). Scientific Realism: Between Platonism and Nominalism.
   [^Frigg-Votsis-2011]: Frigg, R. & Votsis, I. (2011). Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
