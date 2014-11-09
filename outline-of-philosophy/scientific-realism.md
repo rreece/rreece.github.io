@@ -314,6 +314,7 @@ Annotated Bibliography
 
 Other articles to do:
 
+-   Popper, K. (1959). The Logic of Scientific Discovery.
 -   Putnam, H. (1982).  Three Kinds of Scientific Realism.
 -   Putnam, H. (1982).  Why There Isn't a Ready-Made World.
 -   Fine, A. (1984).  The Natural Ontological Attitude.
@@ -420,6 +421,8 @@ Wikipedia
   [^Carnap-1950]: Carnap, R. (1950). Empiricism, Semantics, and Ontology.
   [^Quine-1951]: Quine, W. (1951). Two Dogmas of Empiricism.
   [^Carnap-1955]: Carnap, R. (1955). The Logical Foundations of the Unity of Science.
+  [^Popper-1959]: Popper, K. (1959). The Logic of Scientific Discovery.
+  [^Kuhn-1962]: Kuhn, T. (1962). The Structure of Scientific Revolutions.
   [^van-Fraassen-1980]: van Fraassen, B. (1980). The Scientific Image.
   [^Putnam-1981]: Putnam, H. (1981). Reason, Truth, and History.
   [^Putnam-1982-1]: Putnam, H. (1982). Three Kinds of Scientific Realism.
