@@ -46,7 +46,8 @@ Science makes real progress in describing real features of the world.
 
 **Challenges to Scientific Realism:**
 
--   Underdetermination; language dependence
+-   Underdetermination; language dependence; Duhem-Quine thesis
+-   Positivism
 -   Scientific revolution; pessimistic meta-induction
 -   Social constructivism
 -   Kuhn, Laudan, Feyerabend
