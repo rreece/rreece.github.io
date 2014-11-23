@@ -237,6 +237,17 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
+### Popper, K. (1959). The Logic of Scientific Discovery.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
 ### Maxwell, G. (1962). The Ontological Status of Theoretical Entities.
 
 -   TODO.
@@ -326,7 +337,6 @@ Annotated Bibliography
 
 Other articles to do:
 
--   Popper, K. (1959). The Logic of Scientific Discovery.
 -   Putnam, H. (1982).  Three Kinds of Scientific Realism.
 -   Putnam, H. (1982).  Why There Isn't a Ready-Made World.
 -   Fine, A. (1984).  The Natural Ontological Attitude.
