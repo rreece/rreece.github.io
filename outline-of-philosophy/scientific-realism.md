@@ -16,6 +16,14 @@ Does science make any progress at describing reality?
     1.  [Quine, W. (1951). Two Dogmas of Empiricism.](#quine-w.-1951.-two-dogmas-of-empiricism.)
     1.  [Carnap, R. (1955). The Logical Foundations of the Unity of Science.](#carnap-r.-1955.-the-logical-foundations-of-the-unity-of-science.)
     1.  [Carnap, R. (1956). The Methodological Character of Theoretical Concepts.](#carnap-r.-1956.-the-methodological-character-of-theoretical-concepts.)
+    1.  [Popper, K. (1959). The Logic of Scientific Discovery.](#popper-k.-1959.-the-logic-of-scientific-discovery.)
+    1.  [Maxwell, G. (1962). The Ontological Status of Theoretical Entities.](#maxwell-G.-1962.-the-ontological-status-of-theoretical-entities.)
+    1.  Sellars, W. (1963). Science, Perception, and Reality.
+    1.  Feyerabend, P. (1974). Against Method.
+    1.  Putnam, H. (1975). The Meaning of Meaning.
+    1.  van Fraassen, B. (1980). The Scientific Image.
+    1.  Laudan, L. (1981).  A Confutation of Convergent Realism.
+    1.  Putnam, H. (1981).  Reason, Truth, and History.
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
 -   [References](#fn1)
 
