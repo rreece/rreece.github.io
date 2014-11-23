@@ -10,6 +10,7 @@ Does science make any progress at describing reality?
 -   [Positions](#positions)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
+    1.  [Carnap, R. (1936). Testibility and Meaning.](#carnap-r.-1936.-testibility-and-meaning.)
     1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
     1.  [Quine, W. (1951). Two Dogmas of Empiricism.](#quine-w.-1951.-two-dogmas-of-empiricism.)
     1.  [Carnap, R. (1955). The Logical Foundations of the Unity of Science.](#carnap-r.-1955.-the-logical-foundations-of-the-unity-of-science.)
@@ -135,6 +136,17 @@ Questions:
 
 
 Annotated Bibliography
+--------------------------------------------------------------------------------
+
+### Carnap, R. (1936). Testibility and Meaning.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
 --------------------------------------------------------------------------------
 
 ### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
