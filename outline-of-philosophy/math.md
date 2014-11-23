@@ -64,6 +64,25 @@ My Thoughts
 -   What would happen if you asked an Alien to solve a Rubik's cube?
 
 
+Jon Lawhead - One of the climate people just asked me "how do philosophers get paid?" He was blown away that most people don't do grant writing, and that we tend to juggle our writing with teaching. He also got very excited about the unreasonable effectiveness of mathematics problem, and marveled that we get paid to think about things like that.
+
+It is awesome. Some level of necessitarianism gots to be on the right track there right?
+
+Jon Lawhead  - I'm not convinced of that, Ryan Reece, though I'm far from an expert on this area. His intuitions leaned in the constructivist (David Hilbert-y) direction, as do mine. That is, that math is effective because we designed it to be that way, since it's a general language in which to talk about patterns (which is, at bottom, what science is all about). Discovering more mathematical truths involves discovering more implications of the formal system we've designed, and/or extending that formal system deliberately.
+
+Of course I'm not an expert here either, but lots of "...buts" come to mind when I'm told that math is just a language. (Forgive my brain dump.)
+
+There's a lot of hangups here because common language is imprecise about differentiating a mathematical concept from its notation (obviously constructed). I find it really hard not to be convinced that, for example, if we made contact or found evidence of intelligent life in another star system, and we were able to comb their mathematical journals, there would be a metaphysical fact of the matter to whether or not they had a theory of differential and integral calculus. There would similarly be a separate fact of the matter as to whether they knew the pythagorean theorem or whether they had discovered that there are finite number of simple Lie groups. Regardless of its notation or history of construction, there will be mathematical concepts represented that we could identify.
+
+We can make the same argument with disconnected cultures here on earth, and identify that ancient Indians and Egyptians both knew about fractions, even if they didn't have a concept of groups. Similarly, independent of the notational construction, we celebrate that both Newton and Leibniz developed fundamental concepts in calculus independently (even with the controversy about how much of each other's documents they may have seen).
+
+Surely this against-formalism type of argument has been made by people better versed in this than me. I'm reacting to reading Carnap's ESO recently. Carnap agreed with you that math is a construction, but my list of "buts" to him would start with pointing out that in the Abstract vs Nominalistic divide, we should also be careful to further divide abstract concepts as to whether or not they are *natural*. For example, Vector spaces are different kinds of abstractions than unicorns. Why? Because they are *natural*. It's those natural kinds that we can be confident we could identify across linguistic barriers.
+
+I'm still trying to piece together who has threaded this argument together the best. But I think the right road to countering the positivists/nominalists rejection of the reality of all abstractions is by pointing out that some of our abstractions are natural kinds, which in some sense, cut nature at its joints and describe a real structure in nature. The digits of pi, for example, are discovered, not constructed.
+
+I realize I've left things question begging as to what makes a natural kind, but at least theres a direction to march now, and I don't think clarifying that definition is insurmountable. Probably many philosophers have already done it for me.
+
+
 Annotated Bibliography
 --------------------------------------------------------------------------------
 

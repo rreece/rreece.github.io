@@ -13,6 +13,7 @@ Does science make any progress at describing reality?
     1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
     1.  [Quine, W. (1951). Two Dogmas of Empiricism.](#quine-w.-1951.-two-dogmas-of-empiricism.)
     1.  [Carnap, R. (1955). The Logical Foundations of the Unity of Science.](#carnap-r.-1955.-the-logical-foundations-of-the-unity-of-science.)
+    1.  [Carnap, R. (1956). The Methodological Character of Theoretical Concepts.](#carnap-r.-1956.-the-methodological-character-of-theoretical-concepts.)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
 -   [References](#fn1)
 
@@ -225,6 +226,17 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
+### Carnap, R. (1956). The Methodological Character of Theoretical Concepts.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
 ### Maxwell, G. (1962). The Ontological Status of Theoretical Entities.
 
 -   TODO.
@@ -341,6 +353,7 @@ Other articles to do:
 -   Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
 -   Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.
 -   French, S. (2014). The Structure of the World: Metaphysics and Representation.
+-   Tegmark, M. (2014). Our Mathematical Universe: My Quest for the Ultimate Nature of Reality.
 
 
 Links and Encyclopedia Articles
@@ -449,6 +462,7 @@ Wikipedia
   [^Frigg-Votsis-2011]: Frigg, R. & Votsis, I. (2011). Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
   [^Mizrahi-2012]: Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
   [^Psillos-2012]: Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.
+  [^Tegmark-2014]: Tegmark, M. (2014). Our Mathematical Universe: My Quest for the Ultimate Nature of Reality.
 
 
 
