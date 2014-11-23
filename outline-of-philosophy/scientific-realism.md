@@ -21,6 +21,11 @@ Does science make any progress at describing reality?
 Positions
 --------------------------------------------------------------------------------
 
+<img src="img/phil-of-science-v02.png" alt="Ryan's figure on scientific realism vs anti-realism" title="Ryan's figure on scientific realism vs anti-realism" width="700"/>
+
+from [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism).
+
+
 ### Realism and Anti-realism
 
 -   Naive realism.  Why would I doubt the world I see is real?
