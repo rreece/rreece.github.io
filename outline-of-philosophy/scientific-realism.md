@@ -24,7 +24,7 @@ Does science make any progress at describing reality?
     1.  [Carnap, R. (1955). The Logical Foundations of the Unity of Science.](#carnap-r.-1955.-the-logical-foundations-of-the-unity-of-science.)
     1.  [Carnap, R. (1956). The Methodological Character of Theoretical Concepts.](#carnap-r.-1956.-the-methodological-character-of-theoretical-concepts.)
     1.  [Popper, K. (1959). The Logic of Scientific Discovery.](#popper-k.-1959.-the-logic-of-scientific-discovery.)
-    1.  [Kuhn, T. (1962). The Structure of Scientific Revolutions.](#kuhn-t.-1962.-the-structure-of-scientific-revolutions/)
+    1.  [Kuhn, T. (1962). The Structure of Scientific Revolutions.](#kuhn-t.-1962.-the-structure-of-scientific-revolutions.)
     1.  [Maxwell, G. (1962). The Ontological Status of Theoretical Entities.](#maxwell-g.-1962.-the-ontological-status-of-theoretical-entities.)
     1.  Sellars, W. (1963). Science, Perception, and Reality.
     1.  Feyerabend, P. (1974). Against Method.
