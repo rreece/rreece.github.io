@@ -495,7 +495,7 @@ Wikipedia
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)
 -   [Positivism](http://en.wikipedia.org/wiki/Positivism)
--   [Quine-Duhem Thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
+-   [Duhem-Quine Thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 
 
