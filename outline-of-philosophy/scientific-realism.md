@@ -15,6 +15,7 @@ Does science make any progress at describing reality?
     1.  Pragmatism
     1.  Constructive Empiricism
     1.  Structural Realism
+    1.  Critical Realism
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Carnap, R. (1936). Testibility and Meaning.](#carnap-r.-1936.-testibility-and-meaning.)
@@ -131,6 +132,16 @@ Science has identified real patterns, relationships, and structures
 -   Every Thing Must Go[^Ladyman-Ross-2009]
 -   Psillos' "How science tracks truth"[^Psillos-1999]
 -   contrast with Bueno's structural empiricism
+
+
+### Critical Realism
+
+Critical realists believe that there are unobservable events which cause the
+observable ones; as such, the social world can be understood only if people
+understand the structures that generate such unobservable events.
+
+-   realist
+-   Bhaskar
 
 
 My Thoughts
