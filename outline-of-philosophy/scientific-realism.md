@@ -440,6 +440,7 @@ SEP
 -   [Kuhn](http://plato.stanford.edu/entries/thomas-kuhn/)
 -   [Logic and Ontology](http://plato.stanford.edu/entries/logic-ontology/)
 -   [Logical Empiricism](http://plato.stanford.edu/entries/logical-empiricism/)
+-   [Metaphysical Grounding](http://plato.stanford.edu/entries/grounding/)
 -   [Models in Science](http://plato.stanford.edu/entries/models-science/)
 -   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
 -   [Natural Law Theories](http://plato.stanford.edu/entries/natural-law-theories/)
