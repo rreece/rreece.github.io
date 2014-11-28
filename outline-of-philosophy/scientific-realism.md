@@ -465,7 +465,7 @@ SEP
 -   [Scientific Explanation](http://plato.stanford.edu/entries/scientific-explanation/)
 -   [Scientific Progress](http://plato.stanford.edu/entries/scientific-progress/)
 -   [Scientific Realism](http://plato.stanford.edu/entries/scientific-realism/)
--   [Scientific Reductiontion](http://plato.stanford.edu/entries/scientific-reduction/)
+-   [Scientific Reduction](http://plato.stanford.edu/entries/scientific-reduction/)
 -   [Scientific Revolutions](http://plato.stanford.edu/entries/scientific-revolutions/)
 -   [Sellars](http://plato.stanford.edu/entries/sellars/)
 -   [Structural Realism](http://plato.stanford.edu/entries/structural-realism/)
