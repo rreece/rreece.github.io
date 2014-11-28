@@ -8,14 +8,14 @@ Does science make any progress at describing reality?
 **Contents:**
 
 -   [Positions](#positions)
-    1.  Realism and Anti-realism
-    1.  Scientific Realism
-    1.  Instrumentalism
-    1.  Positivism
-    1.  Pragmatism
-    1.  Constructive Empiricism
-    1.  Structural Realism
-    1.  Critical Realism
+    1.  [Realism and Anti-realism](#realism-and-anti-realism)
+    1.  [Scientific Realism](#scientific-realism-1)
+    1.  [Instrumentalism](#instrumentalism)
+    1.  [Positivism](#positivism)
+    1.  [Pragmatism](#pragmatism)
+    1.  [Constructive Empiricism](#constructive-empiricism)
+    1.  [Structural Realism](#structural-realism)
+    1.  [Critical Realism](#critical-realism)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Carnap, R. (1936). Testibility and Meaning.](#carnap-r.-1936.-testibility-and-meaning.)
