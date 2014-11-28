@@ -42,6 +42,10 @@ p, ol, ul {
     line-height: 22px;
     text-align: justify;
 }
+ol,ul > ol,ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
 li {
     margin-left: 36px;
 }
