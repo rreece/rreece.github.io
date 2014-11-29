@@ -12,6 +12,7 @@ Does science make any progress at describing reality?
     1.  [Scientific Realism](#scientific-realism-1)
     1.  [Instrumentalism](#instrumentalism)
     1.  [Positivism](#positivism)
+    1.  [Postpositivism](#postpositivism)
     1.  [Pragmatism](#pragmatism)
     1.  [Constructive Empiricism](#constructive-empiricism)
     1.  [Structural Realism](#structural-realism)
@@ -102,6 +103,11 @@ Note any differences between:
 -   positivism
 -   logical positivism
 -   logical empiricism
+
+
+### Postpositivism
+
+-   Popper
 
 
 ### Pragmatism
@@ -524,6 +530,7 @@ Wikipedia
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)
 -   [Positivism](http://en.wikipedia.org/wiki/Positivism)
+-   [Postpositivism](http://en.wikipedia.org/wiki/Postpositivism)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 
 
