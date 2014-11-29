@@ -14,6 +14,7 @@ Does science make any progress at describing reality?
     1.  [Positivism](#positivism)
     1.  [Postpositivism](#postpositivism)
     1.  [Pragmatism](#pragmatism)
+    1.  [Relativism](#relativism)
     1.  [Constructive Empiricism](#constructive-empiricism)
     1.  [Structural Realism](#structural-realism)
     1.  [Critical Realism](#critical-realism)
@@ -116,6 +117,13 @@ Note any differences between:
 -   anti-realist
 -   Dewey and Peirce
 -   Rorty and Putnam
+
+
+### Relativism
+
+-   Kuhn, Laudan, Feyerabend
+-   Social constructivism
+-   Epistemological anarchism
 
 
 ### Constructive Empiricism
