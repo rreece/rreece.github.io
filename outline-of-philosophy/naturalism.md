@@ -9,6 +9,19 @@ eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
+**Contents:**
+
+-   [Positions](#positions)
+    1.  [Realism and Anti-realism](#realism-and-anti-realism)
+    1.  [Scientific Realism](#scientific-realism-1)
+-   [My Thoughts](#my-thoughts)
+-   [Annotated Bibliography](#annotated-bibliography)
+    1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
+    1.  [More articles to do](#more-articles-to-do)
+-   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
+-   [References](#fn1)
+
+
 Positions
 --------------------------------------------------------------------------------
 
@@ -49,23 +62,22 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-1.  **Carnap, R. (1950). Empiricism, Semantics, and Ontology.**
+### Bhaskar, R. (1979). The Possibility of Naturalism.
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### 1. Section
 
-1.  **Carnap, R. (1955). The Logical Foundations of the Unity of Science.**
+-   TODO.
 
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
+### More articles to do
+
+-   TODO.
 
 
 Links and Encyclopedia Articles
@@ -73,17 +85,20 @@ Links and Encyclopedia Articles
 
 SEP
 
--   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
+-   [Naturalism](http://plato.stanford.edu/entries/naturalism/)
+-   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
+-   [Quine](http://plato.stanford.edu/entries/quine/)
 
 IEP
 
--   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
+-   [Naturalism](http://www.iep.utm.edu/naturali/)
 
+Wikipedia
 
+-   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy))
 
-  [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
-  [^Carnap-1955]:       Carnap, R. (1955). The Logical Foundations of the Unity of Science.
-  [^van-Frassen-1980]:  van Frassen, B. (1980). Arguments Concerning Scientific Realism.
-  [^Putnam-1981]:       Putnam, H. (1981). Reason, Truth, and History.
+Other
+
+-   [Naturalism.org](http://www.naturalism.org/)
 
 
