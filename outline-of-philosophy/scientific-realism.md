@@ -481,6 +481,7 @@ SEP
 -   [Neurath](http://plato.stanford.edu/entries/neurath/)
 -   [Peirce](http://plato.stanford.edu/entries/peirce/)
 -   [Popper](http://plato.stanford.edu/entries/popper/)
+-   [Quine](http://plato.stanford.edu/entries/quine/)
 -   [The Problem of Induction](http://plato.stanford.edu/entries/induction-problem/)
 -   [Realism](http://plato.stanford.edu/entries/realism/)
 -   [Scientific Discovery](http://plato.stanford.edu/entries/scientific-discovery/)
@@ -531,6 +532,7 @@ Wikipedia
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)
 -   [Positivism](http://en.wikipedia.org/wiki/Positivism)
 -   [Postpositivism](http://en.wikipedia.org/wiki/Postpositivism)
+-   [Quine](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 
 
