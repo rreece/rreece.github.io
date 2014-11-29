@@ -148,6 +148,9 @@ understand the structures that generate such unobservable events.
 My Thoughts
 --------------------------------------------------------------------------------
 
+Here, I plan to summarize my thoughts after finishing the analysis of
+several sources below.
+
 Ways to phrase the issue:
 
 -   Does your worldview have commitments to ontologies claimed to be part of reality?
