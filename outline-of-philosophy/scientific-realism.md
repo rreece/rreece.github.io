@@ -108,6 +108,7 @@ Note any differences between:
 ### Postpositivism
 
 -   Popper
+-   Kuhn
 
 
 ### Pragmatism
