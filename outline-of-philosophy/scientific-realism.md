@@ -33,7 +33,7 @@ Does science make any progress at describing reality?
     1.  van Fraassen, B. (1980). The Scientific Image.
     1.  Laudan, L. (1981).  A Confutation of Convergent Realism.
     1.  Putnam, H. (1981).  Reason, Truth, and History.
-    1.  [More articles to do](more-articles-to-do)
+    1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
 -   [References](#fn1)
 
