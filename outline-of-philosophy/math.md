@@ -12,8 +12,13 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 **Contents:**
 
 -   [Positions](#positions)
-    1.  [Realism and Anti-realism](#realism-and-anti-realism)
-    1.  [Scientific Realism](#scientific-realism-1)
+    1.  [Platonism](#platonism)
+    1.  [Pythagoreanism](#pythagoreanism)
+    1.  [Formalism](#formalism)
+    1.  [Fictionalism](#fictionalism)
+    1.  [Nominalism](#nominalism)
+    1.  [Structuralism](#structuralism)
+    1.  [Naturalism](#naturalism)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
@@ -67,6 +72,19 @@ TODO.
 ### Nominalism
 
 Anti-realist?
+
+TODO.
+
+### Structuralism
+
+Realist?
+
+TODO.
+
+
+### Naturalism
+
+Realist?
 
 TODO.
 

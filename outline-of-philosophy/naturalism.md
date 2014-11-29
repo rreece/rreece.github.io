@@ -16,7 +16,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Scientific Realism](#scientific-realism-1)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
+    1.  [Bhaskar, R. (1979). The Possibility of Naturalism.](#bhaskar-r.-1979.-the-possibility-of-naturalism.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
 -   [References](#fn1)
