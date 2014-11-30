@@ -463,6 +463,8 @@ Annotated Bibliography
 -   French, S. & Ladyman, J. (2011).  In Defense of Ontic Structural Realism.
 -   Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
 -   Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.
+-   Landry, E. & Rickles, D. (2012). Structural Realism.
+-   Ross, D., Ladyman, J., & Kincaid, H. (2013). Scientific Metaphysics.
 -   French, S. (2014). The Structure of the World: Metaphysics and Representation.
 -   Tegmark, M. (2014). Our Mathematical Universe: My Quest for the Ultimate Nature of Reality.
 
