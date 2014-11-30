@@ -11,8 +11,8 @@ Contents
 --------------------------------------------------------------------------------
 
 1.  [Day 1](day1.html): *Introductions, What is real?, Emergence and reduction*  -- (in progress)
-1.  Day 2: *Morality, Meaning, Free will and consciousness*  -- (TODO)
-1.  Day 3: *Philosophy and science, Final thoughts*  -- (TODO)
+1.  [Day 2](day2.html): *Morality, Meaning, Free will and consciousness*  -- (TODO)
+1.  [Day 3](day3.html): *Philosophy and science, Final thoughts*  -- (TODO)
 1.  Ryan's summary  -- (TODO)
 
 
