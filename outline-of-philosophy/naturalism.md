@@ -11,7 +11,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 **Contents:**
 
--   [Positions](#positions)
+-   [Issues and Positions](#issues-and-positions)
     1.  [Realism and Anti-realism](#realism-and-anti-realism)
     1.  [Scientific Realism](#scientific-realism-1)
 -   [My Thoughts](#my-thoughts)
@@ -22,7 +22,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   [References](#fn1)
 
 
-Positions
+Issues and Positions
 --------------------------------------------------------------------------------
 
 ### Topic A
