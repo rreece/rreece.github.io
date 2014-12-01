@@ -12,7 +12,12 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 **Contents:**
 
 -   [Issues and Positions](#issues-and-positions)
+    1.  [Skepticism](#skepticism)
+    1.  [Empiricism](#empiricism)
     1.  [Scientific Realism](#scientific-realism)
+    1.  [Naturalism](#naturalism)
+    1.  [Reductionism](#reductionism)
+    1.  [Monism](#monism)
     1.  [Scientism](#scientism)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
@@ -38,6 +43,11 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 2.  blah
 
 
+### Empiricism
+
+TODO.
+
+
 ### Scientific Realism
 
 TODO.
@@ -49,6 +59,11 @@ TODO.
 
 
 ### Reductionism
+
+TODO.
+
+
+### Monism
 
 TODO.
 
