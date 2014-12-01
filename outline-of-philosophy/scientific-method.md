@@ -18,6 +18,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Naturalism](#naturalism)
     1.  [Reductionism](#reductionism)
     1.  [Monism](#monism)
+    1.  [Abduction](#abduction)
+    1.  [Statistical Measurement](#statistical-measurement)
     1.  [Scientism](#scientism)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
@@ -64,6 +66,16 @@ TODO.
 
 
 ### Monism
+
+TODO.
+
+
+### Abduction
+
+TODO.
+
+
+### Statistical Measurement
 
 TODO.
 
