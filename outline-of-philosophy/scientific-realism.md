@@ -8,7 +8,7 @@ Does science make any progress at describing reality?
 This page focuses on the issues of *metaphysical* progress
 from science, while my outline on
 [the scientific method](scientific-method.html)
-discusses the *epistemological* foundations and limitations of science.
+discusses the epistemological foundations and limitations of science.
 
 **Contents:**
 
