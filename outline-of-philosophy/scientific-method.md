@@ -12,8 +12,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 **Contents:**
 
 -   [Positions](#positions)
-    1.  [Realism and Anti-realism](#realism-and-anti-realism)
-    1.  [Scientific Realism](#scientific-realism-1)
+    1.  [Scientific Realism](#scientific-realism)
+    1.  [Scientism](#scientism)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
@@ -25,7 +25,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Positions
 --------------------------------------------------------------------------------
 
-### Topic A
+### Scientific Realism
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -38,7 +38,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 2.  blah
 
 
-### Topic B
+### Scientism
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -72,6 +72,19 @@ Annotated Bibliography
 #### My thoughts
 
 -   TODO.
+
+
+--------------------------------------------------------------------------------
+
+### Pigliucci, M. (2010). Nonsense on Stilts - How to Tell Science From Bunk.
+
+TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
 
 
 --------------------------------------------------------------------------------
