@@ -11,7 +11,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 **Contents:**
 
--   [Positions](#positions)
+-   [Issues and Positions](#issues-and-positions)
     1.  [Scientific Realism](#scientific-realism)
     1.  [Scientism](#scientism)
 -   [My Thoughts](#my-thoughts)
@@ -22,10 +22,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   [References](#fn1)
 
 
-Positions
+Issues and Positions
 --------------------------------------------------------------------------------
 
-### Scientific Realism
+### Skepticism
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -36,6 +36,21 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 1.  blah
 2.  blah
+
+
+### Scientific Realism
+
+TODO.
+
+
+### Naturalism
+
+TODO.
+
+
+### Reductionism
+
+TODO.
 
 
 ### Scientism
