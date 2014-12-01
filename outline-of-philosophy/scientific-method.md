@@ -15,6 +15,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Skepticism](#skepticism)
     1.  [Empiricism](#empiricism)
     1.  [Scientific Realism](#scientific-realism)
+    1.  [Pseudoscience](#Pseudoscience)
     1.  [Naturalism](#naturalism)
     1.  [Reductionism](#reductionism)
     1.  [Monism](#monism)
@@ -51,6 +52,11 @@ TODO.
 
 
 ### Scientific Realism
+
+TODO.
+
+
+### Pseudoscience
 
 TODO.
 
