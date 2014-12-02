@@ -12,11 +12,11 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 **Contents:**
 
 -   [Positions](#positions)
-    1.  [Realism and Anti-realism](#realism-and-anti-realism)
-    1.  [Scientific Realism](#scientific-realism-1)
+    1.  [Renormalization](#renormalization)
+    1.  [Quantum Mechanics](#quantum-mechanics)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
+    1.  [Einstein, A., Podolsky, B., & Rosen, N. (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?]((#)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
 -   [References](#fn1)
@@ -25,7 +25,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Positions
 --------------------------------------------------------------------------------
 
-### Topic A
+### Renormalization
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -38,7 +38,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 2.  blah
 
 
-### Topic B
+### Quantum Mechanics
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -62,12 +62,9 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
+### Einstein, A., Podolsky, B., & Rosen, N. (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?
 
-#### 1. The problem of abstract entities
-
--   Empiricists tend to prefer to restrict themselves to
-    *nominalistic language* -- without containing references to abstract entities.
+TODO.
 
 #### My thoughts
 
