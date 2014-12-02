@@ -1,7 +1,7 @@
 The Scientific Method
 ================================================================================
 
-This discusses the definition of the scientific method,
+This outline discusses the definition of the scientific method,
 its central role in founding a scientific epistemology,
 demarcating science from pseudoscience,
 and other *epistemological* topics concerning the methods and
