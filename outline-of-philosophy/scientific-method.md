@@ -14,7 +14,7 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
 -   [Issues and Positions](#issues-and-positions)
     1.  [Skepticism](#skepticism)
     1.  [Empiricism](#empiricism)
-    1.  [Is there a universal scientific method?](#)
+    1.  [Is there a universal scientific method?](#is-there-a-universal-scientific-method)
     1.  [Scientific Realism](#scientific-realism)
     1.  [Scientific Knowledge](#scientific-knowledge)
     1.  [Pseudoscience](#Pseudoscience)
