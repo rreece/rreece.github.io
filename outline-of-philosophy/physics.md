@@ -12,9 +12,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 **Contents:**
 
 -   [Issues and Positions](#issues-and-positions)
-    1.  [Renormalization](#renormalization)
+    1.  [Emergence](#emergence)
     1.  [Quantum Mechanics](#quantum-mechanics)
-    1.  [Decoherence](#decoherence)
     1.  [Cosmology](#cosmology)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
@@ -29,7 +28,9 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and Positions
 --------------------------------------------------------------------------------
 
-### Renormalization
+### Emergence
+
+Renormalization.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -44,15 +45,14 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Quantum Mechanics
 
+The measurement problem.  Decoherence.
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-### Decoherence
 
 TODO.
 
