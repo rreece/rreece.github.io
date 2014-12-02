@@ -81,7 +81,7 @@ TODO.
 
 ### Abduction
 
-TODO.
+Natural kinds.  TODO.
 
 
 ### Statistical Measurement
