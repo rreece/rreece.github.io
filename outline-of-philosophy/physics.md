@@ -16,7 +16,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Quantum Mechanics](#quantum-mechanics)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Einstein, A., Podolsky, B., & Rosen, N. (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?]((#)
+    1.  [Einstein, A., Podolsky, B., & Rosen, N. (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](#einstein-a.-podolsky-b.-rosen-n.-1935.-can-quantum-mechanical-description-of-physical-reality-be-considered-complete)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
 -   [References](#fn1)
