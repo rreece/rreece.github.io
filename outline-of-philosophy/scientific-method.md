@@ -17,7 +17,7 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [Is there a universal scientific method?](#is-there-a-universal-scientific-method)
     1.  [Scientific Realism](#scientific-realism)
     1.  [Scientific Knowledge](#scientific-knowledge)
-    1.  [Pseudoscience](#Pseudoscience)
+    1.  [Pseudoscience](#pseudoscience)
     1.  [Naturalism](#naturalism)
     1.  [Reductionism](#reductionism)
     1.  [Monism](#monism)
@@ -72,7 +72,7 @@ See the outline on [scientific realism](scientific-realism.html).
 
 ### Scientific Knowledge
 
-JTB-G.  Systematic uncertanties.  Gettier cases.
+JTB-G.  Systematic uncertanties.  Gettier cases.  Failed justification.
 
 <img src="img/knowledge.png" alt="Knowledge = JTB - G" title="Knowledge = JTB - G" width="700"/>
 
@@ -82,6 +82,8 @@ TODO.
 ### Pseudoscience
 
 TODO.
+
+The demarcation problem.  Bad justification.
 
 
 ### Naturalism
