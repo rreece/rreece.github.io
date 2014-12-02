@@ -55,6 +55,9 @@ TODO.
 
 TODO.
 
+Unless we have a collective conspiracy,
+probablistically justifying assumptions of uniformity.
+
 See the outline on [scientific realism](scientific-realism.html).
 
 
