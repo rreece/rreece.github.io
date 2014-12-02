@@ -24,7 +24,6 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [Scientism](#scientism)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
 -   [References](#fn1)
@@ -113,20 +112,6 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
-
-#### 1. The problem of abstract entities
-
--   Empiricists tend to prefer to restrict themselves to
-    *nominalistic language* -- without containing references to abstract entities.
-
-#### My thoughts
-
--   TODO.
-
-
---------------------------------------------------------------------------------
-
 ### Pigliucci, M. (2010). Nonsense on Stilts - How to Tell Science From Bunk.
 
 TODO.
@@ -134,8 +119,6 @@ TODO.
 #### My thoughts
 
 -   TODO.
-
-
 
 
 --------------------------------------------------------------------------------
