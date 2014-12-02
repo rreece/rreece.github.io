@@ -60,6 +60,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 TODO.
 
+Part of metaphysical naturalism.
+
 See the outline on [scientific realism](scientific-realism.html).
 
 See the outline on [philosophy of mathematics](math.html#naturalism).
@@ -67,19 +69,25 @@ See the outline on [philosophy of mathematics](math.html#naturalism).
 
 ### Monism
 
+TODO.
+
 Materialism/physicalism/functionalism.
 
-TODO.
+Part of methodological naturalism.
 
 
 ### Rejection of the Supernatural
 
 TODO.
 
+Part of methodological naturalism.
+
 
 ### Ethical Naturalism
 
 TODO.
+
+Part of metaphysical naturalism.
 
 See the outline on [ethics](ethics.html).
 
