@@ -141,6 +141,8 @@ Annotated Bibliography
 -   TODO.
 
 
+--------------------------------------------------------------------------------
+
 ### Sellars, W. (1963). Empircism and Philosophy of Mind.
 
 -   TODO.
@@ -150,6 +152,8 @@ Annotated Bibliography
 -   TODO.
 
 
+--------------------------------------------------------------------------------
+
 ### Quine, W.V.O. (1969). Epistemology Naturalized.
 
 -   TODO.
@@ -158,6 +162,8 @@ Annotated Bibliography
 
 -   TODO.
 
+
+--------------------------------------------------------------------------------
 
 ### Pigliucci, M. (2010). Nonsense on Stilts - How to Tell Science From Bunk.
 
