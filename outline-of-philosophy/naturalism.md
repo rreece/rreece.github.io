@@ -16,7 +16,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Rejection of *a priori* metaphysics](#rejection-of-a-priori-metaphysics)
     1.  [Natural Kinds](#natural-kinds)
     1.  [Monism](#monism)
-    1.  [Atheism](#atheism)
+    1.  [Rejection of the Supernatural](#rejection-of-the-supernatural)
+    1.  [Ethical Naturalism](#ethical-naturalism)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Bhaskar, R. (1979). The Possibility of Naturalism.](#bhaskar-r.-1979.-the-possibility-of-naturalism.)
@@ -60,7 +61,12 @@ TODO.
 TODO.
 
 
-### Atheism
+### Rejection of the Supernatural
+
+TODO.
+
+
+### Ethical Naturalism
 
 TODO.
 
