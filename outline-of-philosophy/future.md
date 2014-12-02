@@ -14,7 +14,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   [Issues and Positions](#issues-and-positions)
     1.  [Risk](#risk)
     1.  [Technological Growth](#technological-growth)
-    1.  [Artificial Intelligence)(#artificial-intelligence)
+    1.  [Artificial Intelligence](#artificial-intelligence)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Bostrom](#)
