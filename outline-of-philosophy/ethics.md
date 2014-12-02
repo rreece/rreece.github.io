@@ -12,11 +12,13 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 **Contents:**
 
 -   [Positions](#positions)
-    1.  [Realism and Anti-realism](#realism-and-anti-realism)
-    1.  [Scientific Realism](#scientific-realism-1)
+    1.  [Consequentialism](#consequentialism)
+    1.  [Deontological Ethics](#deontological-ethics)
+    1.  [Virtue Ethics](#virtue-ethics)
+    1.  [Moral Realism](#moral-realism)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
+    1.  [Portmore, D. (2011). Commonsense Consequentialism.](#portmore-d.-2011.-commonsense-consequentialism.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
 -   [References](#fn1)
@@ -25,44 +27,27 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Positions
 --------------------------------------------------------------------------------
 
-### Topic A
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Consequentialism
 
-1.  blah
-2.  blah
+TODO.
 
 
-### Topic B
+### Deontological Ethics
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+TODO.
 
 
-My Thoughts
---------------------------------------------------------------------------------
+### Virtue Ethics
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+TODO.
 
 
-Debating moral realism with Sean Carroll
---------------------------------------------------------------------------------
+### Moral Realism
 
-### AMA question about naturalism and moral realism
+Debating moral realism with Sean Carroll.
+
+AMA question about naturalism and moral realism.
 
 -   My question on Sean Carroll's [AMA on reddit](http://www.reddit.com/r/IAmA/comments/26msnd/i_am_sean_carroll_theoretical_physicist_and/chskkvr)
 -   Repost of the question on his [blog](http://www.preposterousuniverse.com/blog/2014/05/27/the-meaning-of-life-2/)
@@ -87,7 +72,7 @@ Sean's reply:
 > <http://www.preposterousuniverse.com/blog/2011/01/31/morality-health-and-science/>
 
 
-### Drafting a reply
+Drafting a reply
 
 TODO.
 
@@ -133,15 +118,23 @@ This sounds legit to me so far:
     me:  https://www.youtube.com/watch?v=gj2zx1kEjKM
 
 
+My Thoughts
+--------------------------------------------------------------------------------
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
+### Portmore, D. (2011). Commonsense Consequentialism.
 
-#### 1. The problem of abstract entities
-
--   Empiricists tend to prefer to restrict themselves to
-    *nominalistic language* -- without containing references to abstract entities.
+-   TODO.
 
 #### My thoughts
 
