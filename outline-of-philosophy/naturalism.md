@@ -13,6 +13,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 -   [Issues and Positions](#issues-and-positions)
     1.  [Science](#science)
+    1.  [Rejection of *a priori* metaphysics](#rejection-of-a-priori-metaphysics)
     1.  [Natural Kinds](#natural-kinds)
     1.  [Monism](#monism)
     1.  [Atheism](#atheism)
@@ -27,7 +28,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and Positions
 --------------------------------------------------------------------------------
 
-### Topic A
+### Science
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -40,7 +41,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 2.  blah
 
 
-### Topic B
+### Rejection of *a priori* metaphysics
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -48,6 +49,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Natural Kinds
+
+TODO.
+
+
+### Monism
+
+TODO.
+
+
+### Atheism
+
+TODO.
 
 
 My Thoughts
