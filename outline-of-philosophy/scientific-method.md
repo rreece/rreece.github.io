@@ -31,7 +31,6 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [Pigliucci, M. (2010). Nonsense on Stilts: How to Tell Science From Bunk.](#pigliucci-m.-2010.-nonsense-on-stilts-how-to-tell-science-from-bunk.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
--   [References](#fn1)
 
 
 Issues and Positions
@@ -202,11 +201,5 @@ IEP
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [William of Ockham (Occam, 1280-1349 CE)](http://www.iep.utm.edu/ockham/)
 
-
-
-  [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
-  [^Carnap-1955]:       Carnap, R. (1955). The Logical Foundations of the Unity of Science.
-  [^van-Frassen-1980]:  van Frassen, B. (1980). Arguments Concerning Scientific Realism.
-  [^Putnam-1981]:       Putnam, H. (1981). Reason, Truth, and History.
 
 
