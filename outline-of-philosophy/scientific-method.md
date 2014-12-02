@@ -110,12 +110,16 @@ Natural kinds.  TODO.
 
 ### Statistical Measurement
 
+-   Neyman-Pearson lemma
+-   Feldman-Cousins confidence intervals
+
 TODO.
 
 
 ### Scientism
 
-What are the limits of science?  Are there other ways of Knowing?
+-   What are the limits of science?
+-   Are there other ways of Knowing?
 
 TODO.
 
