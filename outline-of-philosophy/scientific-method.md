@@ -78,7 +78,13 @@ JTB-G.  Systematic uncertanties.  Gettier cases.  Failed justification.
 
 <img src="img/knowledge.png" alt="Knowledge = JTB - G" title="Knowledge = JTB - G" width="700"/>
 
-TODO.
+>   The Stopped Clock. You're walking by a clock that you've always known
+>   to be accurate in the past. You glance up at it and see that it reads
+>   five o'clock; on the basis of this you believe that it's five o'clock.
+>   Your belief is justified, and as it happens it is five o'clock.
+>   But unbeknownst to you, the clock stopped exactly twelve hours ago.
+
+- from Russell's "Human Knowledge: Its Scope & Limits"
 
 
 ### Pseudoscience
