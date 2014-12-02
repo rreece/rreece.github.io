@@ -132,6 +132,33 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
+### Hume, D. (1748). An Enquiry Concerning Human Understanding.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+### Sellars, W. (1963). Empircism and Philosophy of Mind.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+### Quine, W.V.O. (1969). Epistemology Naturalized.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
 ### Pigliucci, M. (2010). Nonsense on Stilts - How to Tell Science From Bunk.
 
 TODO.
