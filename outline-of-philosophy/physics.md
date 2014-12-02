@@ -11,7 +11,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 **Contents:**
 
--   [Positions](#positions)
+-   [Issues and Positions](#issues-and-positions)
     1.  [Renormalization](#renormalization)
     1.  [Quantum Mechanics](#quantum-mechanics)
     1.  [Decoherence](#decoherence)
@@ -23,7 +23,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   [References](#fn1)
 
 
-Positions
+Issues and Positions
 --------------------------------------------------------------------------------
 
 ### Renormalization
