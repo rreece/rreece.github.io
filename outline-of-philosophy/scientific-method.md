@@ -119,7 +119,7 @@ TODO.
 ### Scientism
 
 -   What are the limits of science?
--   Are there other ways of Knowing?
+-   Are there other ways of knowing?
 
 TODO.
 
