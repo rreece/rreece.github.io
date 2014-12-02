@@ -28,7 +28,7 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Hume, D. (1748). An Enquiry Concerning Human Understanding.](#hume-d.-1748.-an-enquiry-concerning-human-understanding.)
     1.  [Sellars, W. (1963). Empircism and Philosophy of Mind.](#sellars-w.-1963.-empircism-and-philosophy-of-mind.)
-    1.  [Pigliucci, M. (2010). Nonsense on Stilts - How to Tell Science From Bunk.](#pigliucci-m.-2010.-nonsense-on-stilts--how-to-tell-science-from-bunk.)
+    1.  [Pigliucci, M. (2010). Nonsense on Stilts - How to Tell Science From Bunk.](#pigliucci-m.-2010.-nonsense-on-stilts---how-to-tell-science-from-bunk.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
 -   [References](#fn1)
