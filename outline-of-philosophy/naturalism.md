@@ -70,6 +70,8 @@ TODO.
 
 TODO.
 
+See the outline on [ethics](ethics.html).
+
 
 My Thoughts
 --------------------------------------------------------------------------------
