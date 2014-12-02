@@ -28,7 +28,7 @@ discusses the epistemological foundations and limitations of science.
     1.  [Carnap, R. (1936). Testibility and Meaning.](#carnap-r.-1936.-testibility-and-meaning.)
     1.  [Reichenbach, H. (1938). Experience and Prediction.](#reichenbach-h.-1938.-experience-and-prediction.)
     1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
-    1.  [Quine, W. (1951). Two Dogmas of Empiricism.](#quine-w.-1951.-two-dogmas-of-empiricism.)
+    1.  [Quine, W.V.O (1951). Two Dogmas of Empiricism.](#quine-w.v.o.-1951.-two-dogmas-of-empiricism.)
     1.  [Carnap, R. (1955). The Logical Foundations of the Unity of Science.](#carnap-r.-1955.-the-logical-foundations-of-the-unity-of-science.)
     1.  [Carnap, R. (1956). The Methodological Character of Theoretical Concepts.](#carnap-r.-1956.-the-methodological-character-of-theoretical-concepts.)
     1.  [Popper, K. (1959). The Logic of Scientific Discovery.](#popper-k.-1959.-the-logic-of-scientific-discovery.)
@@ -275,7 +275,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Quine, W. (1951). Two Dogmas of Empiricism.
+### Quine, W.V.O. (1951). Two Dogmas of Empiricism.
 
 #### 1. Background for analyticity
 
