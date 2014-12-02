@@ -62,6 +62,8 @@ See the outline on [scientific realism](scientific-realism.html).
 
 JTB-G.  Systematic uncertanties.  Gettier cases.
 
+<img src="img/knowledge.png" alt="Knowledge = JTB - G" title="Knowledge = JTB - G" width="700"/>
+
 TODO.
 
 
