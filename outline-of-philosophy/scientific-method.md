@@ -3,7 +3,7 @@ The Scientific Method
 
 This outline discusses the definition of the scientific method,
 its central role in founding a scientific epistemology,
-demarcating science from pseudoscience,
+the demarcation of science from pseudoscience,
 and other *epistemological* topics concerning the methods and
 philosophy of science.  The metaphysical implications of science
 are discussed in the outline on [scientific realism](scientific-realism.html).
