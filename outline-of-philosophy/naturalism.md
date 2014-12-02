@@ -60,6 +60,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 TODO.
 
+See the outline on [philosophy of mathematics](math.html#naturalism).
+
 
 ### Monism
 
