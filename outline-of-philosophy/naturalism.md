@@ -67,6 +67,8 @@ See the outline on [philosophy of mathematics](math.html#naturalism).
 
 ### Monism
 
+Materialism/physicalism/functionalism.
+
 TODO.
 
 
