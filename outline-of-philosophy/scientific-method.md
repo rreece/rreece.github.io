@@ -15,6 +15,7 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [Skepticism](#skepticism)
     1.  [Empiricism](#empiricism)
     1.  [Scientific Realism](#scientific-realism)
+    1.  [Scientific Knowledge](#scientific-knowledge)
     1.  [Pseudoscience](#Pseudoscience)
     1.  [Naturalism](#naturalism)
     1.  [Reductionism](#reductionism)
@@ -55,6 +56,14 @@ TODO.
 TODO.
 
 See the outline on [scientific realism](scientific-realism.html).
+
+
+### Scientific Knowledge
+
+JTB-G.  Systematic uncertanties.  Gettier cases.
+
+TODO.
+
 
 ### Pseudoscience
 
