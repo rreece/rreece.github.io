@@ -12,8 +12,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 **Contents:**
 
 -   [Issues and Positions](#issues-and-positions)
-    1.  [Realism and Anti-realism](#realism-and-anti-realism)
-    1.  [Scientific Realism](#scientific-realism-1)
+    1.  [Science](#science)
+    1.  [Natural Kinds](#natural-kinds)
+    1.  [Monism](#monism)
+    1.  [Atheism](#atheism)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Bhaskar, R. (1979). The Possibility of Naturalism.](#bhaskar-r.-1979.-the-possibility-of-naturalism.)
