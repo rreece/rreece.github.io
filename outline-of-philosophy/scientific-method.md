@@ -55,6 +55,7 @@ TODO.
 
 TODO.
 
+See the outline on [scientific realism](scientific-realism.html).
 
 ### Pseudoscience
 
