@@ -106,6 +106,17 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
+### Quine, W.V.O. (1969). Epistemology Naturalized.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
 ### Bhaskar, R. (1979). The Possibility of Naturalism.
 
 #### 1. Section

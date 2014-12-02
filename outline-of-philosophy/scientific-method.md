@@ -154,17 +154,6 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Quine, W.V.O. (1969). Epistemology Naturalized.
-
--   TODO.
-
-#### My thoughts
-
--   TODO.
-
-
---------------------------------------------------------------------------------
-
 ### Pigliucci, M. (2010). Nonsense on Stilts - How to Tell Science From Bunk.
 
 TODO.
