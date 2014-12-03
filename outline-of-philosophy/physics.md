@@ -32,7 +32,7 @@ Issues and Positions
 
 ### Emergence
 
-Renormalization.
+Thermodynamics. Statistical mechanics. Renormalization.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -47,7 +47,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Quantum Mechanics
 
-The measurement problem.  Decoherence.
+The measurement problem.  Decoherence.  The Born rule.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -70,6 +70,10 @@ TODO.
 
 
 ### Cosmology
+
+Big bang.  &Lambda;+CMD Cosmological Standard Model.  Inflation.
+
+Fine-tuning.  Anthropic principle.
 
 TODO.
 
