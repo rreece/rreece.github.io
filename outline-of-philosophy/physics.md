@@ -73,7 +73,7 @@ TODO.
 
 Big bang.  &Lambda;+CMD Cosmological Standard Model.  Inflation.
 
-Fine-tuning.  Anthropic principle.
+Fine-tuning.  Anthropic principle.  Relation to evolution.
 
 TODO.
 
