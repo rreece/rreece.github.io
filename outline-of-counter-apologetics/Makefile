@@ -14,7 +14,8 @@
 AUTHOR   := Ryan Reece
 HEADER   := Ryan's Outline of Counter Apologetics
 # LICENSE  := Licensed for sharing under <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a>
-LICENSE  :=
+LICENSE  := &copy; 2014 Ryan Reece. All rights reserved.
+# LICENSE  :=
 
 DATE     := $(shell date +"%a %b %d, %Y")
 CSS      := templates/markdown-memo.css
