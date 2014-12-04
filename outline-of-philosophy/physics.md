@@ -47,13 +47,11 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Quantum Mechanics
 
-Wave-particle duality misconceptions.  Fields are more fundamental than particles.
-
-The measurement problem.  Decoherence.  The Born rule.
-
-Decoherence brings quantum logic to classical logic.
-
-TODO.
+-   Hilbert spaces.  Wigner's theorem.  The Born rule.
+-   Wave-particle duality misconceptions.  Fields are more fundamental than particles.
+-   The measurement problem.  Decoherence.  The Born rule.
+-   Decoherence brings quantum logic to classical logic.
+-   TODO.
 
 
 ### The Standard Model of Particle Physics
@@ -63,7 +61,10 @@ TODO.
 
 ### Beyond the Standard Model
 
-TODO.
+-   Supersymmetry.
+-   Running of the couplings.
+-   Grand unification.
+-   TODO.
 
 
 ### Cosmology
