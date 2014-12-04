@@ -21,6 +21,6 @@ Philosophy in figures draft image
 
 <img src="img/move-naturalism-2012-positions.png" alt="Move Naturalism Forward 2012 positions" title="draft" width="700"/>
 
-Draft figure (2014-09-12) to be eventually posted on [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/)
+Draft figure (2014-12-01) to be eventually posted on [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/)
 
 
