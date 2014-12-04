@@ -10,9 +10,9 @@ Ryan's Minutes of "Moving Naturalism Forward"
 Contents
 --------------------------------------------------------------------------------
 
-1.  [Day 1](day1.html): *Introductions, What is real?, Emergence and reduction*  -- (in progress)
-1.  [Day 2](day2.html): *Morality, Meaning, Free will and consciousness*  -- (TODO)
-1.  [Day 3](day3.html): *Philosophy and science, Final thoughts*  -- (TODO)
+1.  [Day 1](day1.html): *introductions, what is real?, emergence and reduction*  -- (in progress)
+1.  [Day 2](day2.html): *morality, meaning, free will and consciousness*  -- (TODO)
+1.  [Day 3](day3.html): *philosophy and science, final thoughts*  -- (TODO)
 1.  Ryan's summary  -- (TODO)
 
 
@@ -21,6 +21,6 @@ Philosophy in figures draft image
 
 <img src="img/move-naturalism-2012-positions.png" alt="Move Naturalism Forward 2012 positions" title="draft" width="700"/>
 
-Draft figure (2014-12-01) to be eventually posted on [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/)
+Draft figure (2014-12-04) to be eventually posted on [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/)
 
 
