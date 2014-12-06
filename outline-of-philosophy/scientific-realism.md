@@ -483,6 +483,7 @@ Annotated Bibliography
 -   Chang, H. (2001).  Realism Beyond Footstamping.
 -   van Fraassen, B. (2001).  Constructive Empiricism Now.
 -   Hacking, I. (2006).  Natural Kinds.
+-   Chakravartty, A. (2007). A Metaphysics for Scientific Realism.
 -   Psillos, S. (2007).  Choosing the Realist Framework.
 -   Bueno, O. (2008).  Structural Realism, Scientific Change, and Partial Structures.
 -   Bain, J. (2009).  Towards Structural Realism.
