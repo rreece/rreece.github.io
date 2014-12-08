@@ -25,8 +25,8 @@ NYT:
 
 Encyclopedia review articles:
 
--   Chakravartty, A. (2011). [Scientific Realism article in the SEP](http://plato.stanford.edu/entries/scientific-realism/).
--   Jacobs, J.(2002). [Naturalism article in the IEP](http://www.iep.utm.edu/naturali/).
+-   [Chakravartty, A. (2011). Scientific Realism article in the SEP](http://plato.stanford.edu/entries/scientific-realism/).
+-   [Jacobs, J.(2002). Naturalism article in the IEP](http://www.iep.utm.edu/naturali/).
 
 Some articles bookending the realism debate:
 
