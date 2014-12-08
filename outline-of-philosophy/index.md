@@ -35,6 +35,6 @@ Some articles bookending the realism debate:
 
 Review article of the philosophy of math:
 
--   [Snapper, E (1979). The Three Crises in Mathematics: Logicism, Intuitionism, Formalism](1979.Snapper.three-crises-in-mathematics.pdf)
+-   [Snapper, E (1979). The Three Crises in Mathematics: Logicism, Intuitionism, Formalism.](1979.Snapper.three-crises-in-mathematics.pdf)
 
 
