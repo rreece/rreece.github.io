@@ -213,6 +213,8 @@ albeit not in the same way as (more) fundamental physics.
 I agree that we should emphasize that reductionism means that there is no
 downward causation.
 
+TODO: define Alex's position as *eliminative reductionism*.
+
 **Sean**
 
 If we buy that particle physics has no teleology in it, is it nevertheless useful to talk
@@ -241,6 +243,8 @@ That looks like a statement of metaphysical faith.
 I agree Don has clarified the issue of what reductionism
 entails, but he shouldn't be skeptical about it, as we verify that physics
 is causally closed every time we look for new experimental effects beyond it.
+
+TODO: highlight the concept of *entailment*.
 
 **Steven**
 
