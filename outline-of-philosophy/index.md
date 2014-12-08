@@ -21,17 +21,17 @@ A place to start on discussing philsophy of science and naturalism
 
 NYT:
 
--   [Rosenberg, A. (2011). Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/).
+-   [Rosenberg, A. (2011). Why I am a naturalist.](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/)
 
 Encyclopedia review articles:
 
--   [Chakravartty, A. (2011). Scientific Realism article in the SEP](http://plato.stanford.edu/entries/scientific-realism/).
--   [Jacobs, J.(2002). Naturalism article in the IEP](http://www.iep.utm.edu/naturali/).
+-   [Chakravartty, A. (2011). Scientific Realism article in the SEP.](http://plato.stanford.edu/entries/scientific-realism/)
+-   [Jacobs, J.(2002). Naturalism article in the IEP.](http://www.iep.utm.edu/naturali/)
 
 Some articles bookending the realism debate:
 
--   [Carnap, R. (1950). Empiricism, Semantics, and Ontology](docs/1950.Carnap.Empiricism-Semantics-Ontology.pdf).
--   [Frigg, R. & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask](docs/2011.Frigg-Votsis.Everything-you-always-wanted-to-know-about-structural-realism-but-were-afraid-to-ask.pdf).
+-   [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](docs/1950.Carnap.Empiricism-Semantics-Ontology.pdf)
+-   [Frigg, R. & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask.](docs/2011.Frigg-Votsis.Everything-you-always-wanted-to-know-about-structural-realism-but-were-afraid-to-ask.pdf)
 
 
 
