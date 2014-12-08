@@ -33,5 +33,8 @@ Some articles bookending the realism debate:
 -   [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](docs/1950.Carnap.Empiricism-Semantics-Ontology.pdf)
 -   [Frigg, R. & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask.](docs/2011.Frigg-Votsis.Everything-you-always-wanted-to-know-about-structural-realism-but-were-afraid-to-ask.pdf)
 
+Review article of the philosophy of math:
+
+-   [Snapper, E (1979). The Three Crises in Mathematics: Logicism, Intuitionism, Formalism](1979.Snapper.three-crises-in-mathematics.pdf)
 
 
