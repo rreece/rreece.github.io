@@ -19,6 +19,10 @@ of them on my blog: [statisticalsignificance.net](http://statisticalsignificance
 A place to start on discussing philsophy of science and naturalism
 --------------------------------------------------------------------------------
 
+NYT:
+
+-   [Rosenberg, A. (2011). Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/).
+
 Encyclopedia review articles:
 
 -   Chakravartty, A. (2011). [Scientific Realism article in the SEP](http://plato.stanford.edu/entries/scientific-realism/).
