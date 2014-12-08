@@ -99,7 +99,7 @@ but we have no ontological commitments to them.
 -   Comte
 -   The Vienna Circle
 -   Carnap, Neurath, Wittgenstein, Frege, von Neuman, Hilbert
--   verificationism, nominalism
+-   verificationism, nominalism, quietism
 -   Russel, G&#246;del
 -   Carnap's "ESO"[^Carnap-1950]
 -   Quine's "Two Dogmas"[^Quine-1951]
