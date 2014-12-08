@@ -96,7 +96,7 @@ Participants introduce themselves
     Would like to believe that philosophy can make progress past people's intuitions,
     but isn't yet convinced.
 
-10. **Daniel Dennett** - Quine was his hero and mentor.
+10. **Daniel Dennett** Philosopher at Tuft's. Quine was his hero and mentor.
     Didn't study any science originally, but realized he needed to know something about the
     brain.  Studied with Gilbert Ryle. Got informal education from many scientists.
     Doesn't spend much time with many philosophers these days.
@@ -120,9 +120,10 @@ Participants introduce themselves
 
 *Day 1, morning, 2nd session*
 
-11. **Massimo Pigliucci** - Started as an evolutionary biologist, studying gene-environment interactions,
+11. **Massimo Pigliucci** - Started as an evolutionary biologist,
+    studying gene-environment interactions,
     nature/nurture.  Midlife crisis lead him to move to NYC and get a second Ph.D. in philosophy.
-    Now a professor at CUNY.
+    Became a philsophy professor at CUNY.
     Science and philosophy do different things, but are both part of *scientia*.
     Interested in the demarcation problem.
     Thinks that philosophy does make progress.
