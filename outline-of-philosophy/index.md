@@ -16,7 +16,7 @@ This site is my working draft.  I hope to pubish these outlines or some version
 of them on my blog: [statisticalsignificance.net](http://statisticalsignificance.net/).
 
 
-A place to start on discussing philsophy of science and naturalism
+A place to start in the discussion of philosophy of science and naturalism
 --------------------------------------------------------------------------------
 
 NYT:
