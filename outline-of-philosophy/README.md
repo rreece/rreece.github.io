@@ -1,4 +1,4 @@
-Reece Outline of Philosophy
+Ryan's Outline of Philosophy
 ===========================================
 
 My notes on the philosophy papers I'm reading.
