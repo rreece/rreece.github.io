@@ -160,11 +160,38 @@ Links and Encyclopedia Articles
 
 SEP
 
+-   [Consequentialism](http://plato.stanford.edu/entries/consequentialism/)
+-   [Deontic Logic](http://plato.stanford.edu/entries/logic-deontic/)
+-   [Game Theory](http://plato.stanford.edu/entries/game-theory/)
+-   [Evolutionary Game Theory](http://plato.stanford.edu/entries/game-evolutionary/)
+-   [Game Theory and Ethics](http://plato.stanford.edu/entries/game-ethics/)
+-   [The Grounds of Moral Status](http://plato.stanford.edu/entries/grounds-moral-status/)
+-   [Moore's Moral Philosophy](http://plato.stanford.edu/entries/moore-moral/)
+-   [Moral Dilemmas](http://plato.stanford.edu/entries/moral-dilemmas/)
+-   [Moral Non-Naturalism](http://plato.stanford.edu/entries/moral-non-naturalism/)
+-   [Moral Realism](http://plato.stanford.edu/entries/moral-realism/)
+-   [Moral Reasoning](http://plato.stanford.edu/entries/reasoning-moral/)
+-   [Moral Relativism](http://plato.stanford.edu/entries/moral-relativism/)
+-   [Moral Responsibility](http://plato.stanford.edu/entries/moral-responsibility/)
+-   [Moral Sentimentalism](http://plato.stanford.edu/entries/moral-sentimentalism/)
+-   [Moral Skepticism](http://plato.stanford.edu/entries/skepticism-moral/)
+-   [The Natural Law Tradition in Ethics](http://plato.stanford.edu/entries/natural-law-ethics/)
+-   [Russell's Moral Philosophy](http://plato.stanford.edu/entries/russell-moral/)
+-   [Value Theory](http://plato.stanford.edu/entries/value-theory/)
+-   [Virture Ethics](http://plato.stanford.edu/entries/ethics-virtue/)
+
 IEP
 
 -   [Game Theory](http://www.iep.utm.edu/game-th/)
 
+RationalWiki
+
+-   [Hume's law](http://rationalwiki.org/wiki/Hume's_law)
+
 Wikipedia
+
+-   [Is-ought problem](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
+-   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
 
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.

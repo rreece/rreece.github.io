@@ -505,6 +505,7 @@ Links and Encyclopedia Articles
 
 SEP
 
+-   [Abduction](http://plato.stanford.edu/entries/abduction/)
 -   [Comte](http://plato.stanford.edu/entries/comte/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 -   [Constructive Empiricism](http://plato.stanford.edu/entries/constructive-empiricism/)

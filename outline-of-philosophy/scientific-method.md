@@ -182,6 +182,7 @@ Links and Encyclopedia Articles
 
 SEP
 
+-   [Abduction](http://plato.stanford.edu/entries/abduction/)
 -   [Francis Bacon](http://plato.stanford.edu/entries/francis-bacon/)
 -   [Science and Pseudo-Science](http://plato.stanford.edu/entries/pseudo-science/)
 -   [Popper](http://plato.stanford.edu/entries/popper/)
