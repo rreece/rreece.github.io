@@ -514,6 +514,7 @@ SEP
 -   [The Incommensurability of Scientific Theories](http://plato.stanford.edu/entries/incommensurability/)
 -   [Information](http://plato.stanford.edu/entries/information/)
 -   [Kuhn](http://plato.stanford.edu/entries/thomas-kuhn/)
+-   [Laws of Nature](http://plato.stanford.edu/entries/laws-of-nature/)
 -   [Logic and Ontology](http://plato.stanford.edu/entries/logic-ontology/)
 -   [Logical Empiricism](http://plato.stanford.edu/entries/logical-empiricism/)
 -   [Metaphysical Grounding](http://plato.stanford.edu/entries/grounding/)

@@ -185,9 +185,10 @@ SEP
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
 -   [Francis Bacon](http://plato.stanford.edu/entries/francis-bacon/)
 -   [Hume](http://plato.stanford.edu/entries/hume/)
+-   [Laws of Nature](http://plato.stanford.edu/entries/laws-of-nature/)
 -   [Miracles](http://plato.stanford.edu/entries/miracles/)
--   [Science and Pseudo-Science](http://plato.stanford.edu/entries/pseudo-science/)
 -   [Popper](http://plato.stanford.edu/entries/popper/)
+-   [Science and Pseudo-Science](http://plato.stanford.edu/entries/pseudo-science/)
 
 IEP
 
