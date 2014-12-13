@@ -166,6 +166,8 @@ SEP
 -   [Evolutionary Game Theory](http://plato.stanford.edu/entries/game-evolutionary/)
 -   [Game Theory and Ethics](http://plato.stanford.edu/entries/game-ethics/)
 -   [The Grounds of Moral Status](http://plato.stanford.edu/entries/grounds-moral-status/)
+-   [Hume](http://plato.stanford.edu/entries/hume/)
+-   [Hume's Moral Philosophy](http://plato.stanford.edu/entries/hume-moral/)
 -   [Moore's Moral Philosophy](http://plato.stanford.edu/entries/moore-moral/)
 -   [Moral Dilemmas](http://plato.stanford.edu/entries/moral-dilemmas/)
 -   [Moral Non-Naturalism](http://plato.stanford.edu/entries/moral-non-naturalism/)
