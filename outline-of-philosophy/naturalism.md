@@ -149,6 +149,9 @@ SEP
 IEP
 
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
+-   [Quine's Philosophy of Science](http://www.iep.utm.edu/quine-sc/)
+-   [Reductionism](http://www.iep.utm.edu/red-ism/)
+-   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)
 
 Wikipedia
 
