@@ -36,6 +36,9 @@ Theses
 -   Constructive Empiricism
 -   Social Constructivism
 
+
+### Empiricism
+
 ### Monism
 
 ### Naturalism
