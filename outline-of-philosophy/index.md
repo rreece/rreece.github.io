@@ -41,6 +41,6 @@ Review article of the philosophy of math:
 Also devloping
 --------------------------------------------------------------------------------
 
--   [A hypothetical dialog between Plato and Carnap](reality-dialog.md)
+-   [A hypothetical dialog between Plato and Carnap](reality-dialog.html)
 
 
