@@ -47,5 +47,6 @@ Also devloping
 --------------------------------------------------------------------------------
 
 -   [A hypothetical dialog between Plato and Carnap](reality-dialog.html)
+-   [A short glossary of philosophy for scientists and engineers](glossary-of-philosophy-for-scientists.html)
 
 
