@@ -10,6 +10,8 @@ to engaging philosophy.
     1.  [Epistemology](#epistemology)
     1.  [Metaphysics](#metaphysics)
     1.  [Modality](#modality)
+    1.  [Normativity](#normativity)
+    1.  [Ontology](#ontology)
 -   [Theses](#these)
     1.  [Constructivism](#constructivism)
     1.  [Empiricism](#empiricism)
