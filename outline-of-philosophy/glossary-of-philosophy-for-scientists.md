@@ -15,7 +15,7 @@ Issues and Considerations
 ### Modality
 
 -   Ryan's def: a condition which can be in one of many modes.
--   related to combinatorics and reference classes.
+-   related to combinatorics, indexical information, and reference classes.
 -   Modal logic - a form of logic which distinguishes between (logically) "necessary truths" and "contingent truths"
 
 ### Normativity
