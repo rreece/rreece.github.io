@@ -12,7 +12,14 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and Considerations
 --------------------------------------------------------------------------------
 
+<img src="img/branches-of-philosophy-v02.png " alt="Ryan's figure on the main branches of philosophy" title="Ryan's figure on the main branches of philosophy" width="700"/>
+
+from [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/88506540221/main-branches).
+
+
 ### Epistemology
+
+### Metaphysics
 
 ### Modality
 
