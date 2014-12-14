@@ -38,3 +38,9 @@ Review article of the philosophy of math:
 -   [Snapper, E. (1979). The Three Crises in Mathematics: Logicism, Intuitionism, Formalism.](docs/1979.Snapper.three-crises-in-mathematics.pdf)
 
 
+Also devloping
+--------------------------------------------------------------------------------
+
+-   [A hypothetical dialog between Plato and Carnap](reality-dialog.md)
+
+
