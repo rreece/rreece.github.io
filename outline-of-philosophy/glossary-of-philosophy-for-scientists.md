@@ -60,7 +60,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   Epistemic structural realism
 -   Ontic structural realism
 
-## Relativism
+### Relativism
 
 ### Structuralism
 
