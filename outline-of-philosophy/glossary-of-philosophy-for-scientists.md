@@ -12,6 +12,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and Considerations
 --------------------------------------------------------------------------------
 
+### Epistemology
+
 ### Modality
 
 -   Ryan's def: a condition which can be in one of many modes.
@@ -19,6 +21,8 @@ Issues and Considerations
 -   Modal logic - a form of logic which distinguishes between (logically) "necessary truths" and "contingent truths"
 
 ### Normativity
+
+### Ontology
 
 
 Theses
