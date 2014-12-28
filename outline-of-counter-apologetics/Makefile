@@ -13,8 +13,8 @@
 
 AUTHOR   := Ryan Reece
 HEADER   := Ryan's Outline of Counter Apologetics
-# LICENSE  := Licensed for sharing under <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a>
-LICENSE  := &copy; 2014 Ryan Reece. All rights reserved.
+LICENSE  := Licensed for sharing under <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a>
+# LICENSE  := &copy; 2014 Ryan Reece. All rights reserved.
 # LICENSE  :=
 
 DATE     := $(shell date +"%a %b %d, %Y")
@@ -51,6 +51,7 @@ index.html: index.md
 		--variable=date-meta:"$(DATE)" \
 		--variable=date:"$(DATE)" \
 		--variable=css:"$(CSS)" \
+		--variable=license:"$(LICENSE)" \
 		--template=./templates/toc.html \
 		-t html --ascii \
 		-o $@ $<
@@ -64,6 +65,7 @@ index.html: index.md
 		--variable=date-meta:"$(DATE)" \
 		--variable=date:"$(DATE)" \
 		--variable=css:"$(CSS)" \
+		--variable=license:"$(LICENSE)" \
 		--template=./templates/outline.html \
 		-t html --ascii \
 		-o $@ $<
@@ -79,6 +81,7 @@ pdf: $(PDF_MD_FILES)
 		--variable=date-meta:"$(DATE)" \
 		--variable=date:"$(DATE)" \
 		--template=templates/default.latex \
+		--variable=fontfamily:"mathpazo" \
 		-o $@ $<
 
 # JUNK = *.aux *.log *.bbl *.blg *.brf *.cb *.ind *.idx *.ilg *.inx *.dvi *.toc *.out *~ ~* spellTmp *.lot *.lof *.ps *.d

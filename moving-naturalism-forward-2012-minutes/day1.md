@@ -213,24 +213,27 @@ albeit not in the same way as (more) fundamental physics.
 I agree that we should emphasize that reductionism means that there is no
 downward causation.
 
-TODO: define Alex's position as *eliminative reductionism*.
+Let us label Alex's position that tends to deny the reality of ontologies
+that emerge or supervene on physics as *eliminative reductionism*.
 
 **Sean**
 
 If we buy that particle physics has no teleology in it, is it nevertheless useful to talk
-about emergent phenomena as having teleological explanation?  The neck of the giraffe
-has a purpose, for example.
+about emergent phenomena as having teleological explanation?  The length of the
+neck of the giraffe has a purpose, for example.
 
 **Alex**
 
 Sure, we can help ourselves to that vocabulary, but we should acknowledge that
 we are engaging in a somewhat misleading set of metaphors, similar to the
 issue of "design" in evolutionary biology.
+But if we were to ignore this distinction, we would miss the big difference
+between Aristotilian and Newtonian mechanics.
 
 **Don**
 
 You (Alex) are committed to the view that "physics fixes all the facts".
-Fundamental physics does not address all the facts, and the most interesting
+But fundamental physics does not address all the facts, and the most interesting
 facts are the ones that are the most general.
 What you mean is that if we had a computer that could in principle
 calculate all the fundamental physics (Laplace's demon)
@@ -244,7 +247,9 @@ I agree Don has clarified the issue of what reductionism
 entails, but he shouldn't be skeptical about it, as we verify that physics
 is causally closed every time we look for new experimental effects beyond it.
 
-TODO: highlight the concept of *entailment*.
+Perhaps it's worth defining a concept of *entailment* to denote the claim
+that a discription of reality in terms of fundamental physics fixes the
+higher-level claims of the special sciences.
 
 **Steven**
 
@@ -252,6 +257,18 @@ Why should we have this kind of philistinism?
 Is the manifest image something that makes sense and is permissible to us?  Sure.
 Barack Obama is real and Santa Claus is not, and not for reasons that require
 particle physics.
+
+>   Why should we not use this kind of principled philistinism of
+>   refusing to think deeply, but using "real" the way we use other terms
+>   in our everyday life.  Why shouldn't we do this in physics or science also.
+>   Is there really a philosophical discontinuity between the kind of reasoning
+>   we do in everyday life and science that makes this kind of naive view of
+>   reality impermissible in one where it is useful in the other.
+
+>   Everyone in this room has used the word "real" in an unreflective,
+>   unphilosophical, unsophisticated way and I don't see any reason for barring
+>   its use in the sciences also.
+
 Temperature is real; protons are real; the constitution is real; this newspaper is real;
 but real in different ways.
 
@@ -262,21 +279,30 @@ philosophy that would say that the manifest image is what is real and causal,
 and the posits of physics are instrumentalist fantasies.
 Now, we as naturalist are committed to the ontology of the physical sciences,
 but we shouldn't go to the other extreme and deny the reality of the manifest image.
-We can count the glasses on the table.
 
-**(Ryan)**
-
-TODO: highlight Dan's point.
-
+>   We can count the glasses on the table.
 
 **Alex**
 
 (Back-pedaling)  That's not a thesis I was defending.
 There's nothing but fermions and bosons... and everything that is made up of
 fermions and bosons.
+The physical facts fix all the facts.
 There are also chemical facts, biological facts, economic facts.
-But if you fix the relations of the fermions and bosons, you get all the same
-emergent phenomena as well.
+But if you fix the relations of the fermions and bosons in one chunk of spacetime
+the same as another, then you get all the same emergent phenomena as well.
+However, you won't have the same historical facts, following the points from
+the thought experiment called "swamp man".
+
+**Steven**
+
+I suppose you would say The Constitution of the United States,
+not the paper its printed on but the ideas it represents,
+is real because it exists in the brains of people.
+
+**Alex**
+
+To first approximation.
 
 **Sean**
 
@@ -286,13 +312,15 @@ What about the Schrodinger equation?
 
 I agree, the ontology of mathematical relations is perplexing.
 
+>   What is the metaphysics and epistemology of mathematical truths?
+
 Some, like Dan, will say that teleology is a garden variety causal process
-that involves blind variation and natural selection operating on many levels
+that involves blind variation and natural selection operating at many different levels
 and using many different mechanisms to produce adaptation.
 Not only that, we should also recognize that Darwin naturalized teleology and purpose,
 giving the real causal mechanism underlying it.
-On the other hand, I think Darwin showed that there is *not* any teleology
-in nature, period.
+Darwin showed that there is *not* any teleology
+in nature, it's all just an overlay.
 
 **Steven**
 
@@ -302,15 +330,25 @@ in Aristotle's physics and in the biology before Darwin.
 
 **Dan**
 
-We have a political obligation to not be misunderstood.
+As communicators of science, we have a political obligation to not be misunderstood.
+Richard seems to agree with you (Alex) and coined the term *designoid*,
+meaning apparently designed, however, I think this is a mistake.
 
-TODO...
+There's an idea out there that evolutionary biologists should downplay the
+marvelousness of nature.  "There's no design in nature; examples of brilliant biological
+design are an embarrassment to science."  But what evolution accomplishes is often
+stupendously clever.  Evolution should be properly called a design process
+and can be contrasted with pseudo-design, being cases where there appears to be
+design with function but its actually noise, such as Sidney Harris' comic
+with a blackboard filled with fake physics scribbled on it that is really meaningless.
+
+Biological design is typically better than what engineers can achieve.
 
 (Ryan): Designs and designoids are both solutions.
 
 **Alex**
 
-TODO...
+The political implications give me pause.
 
 **Dan**
 
@@ -414,6 +452,126 @@ TODO...
 
 TODO...
 
+**Sean**
+
+TODO.
+
+>   Something is real if it forms an important part of a useful way
+>   of talking about the actual world.
+
+**Alex**
+
+>   So reality is contingent on utility?
+
+**Sean**
+
+>   Well, our description of reality is contingent on utility at the very least.
+>   I certainly could imagine talking about reality in way that never referred to
+>   the concept of the constitution of the United States and would not be mistaken
+>   in any way.  I could just list all the fermions and bosons and have them evolve
+>   according to the Schrodinger equation; I would not be wrong, but I would be
+>   missing something really interesting, and I can't come up with a better word
+>   than "useful".
+
+>   I could talk about the molecules in the atmosphere in our room right now
+>   atom-by-atom, kinetic theory.  I would be missing the opportunity to describe
+>   some very useful regularities about the behavior of the atmosphere of this room,
+>   in terms of pressure and density and the laws of thermodynamics.
+>   And also, I have no right to think that the description in terms of atoms
+>   or fermions and bosons is the bottom one.
+>   And I don't want the reality of atoms to depend on the year that I'm talking
+>   about it.  So I think all the different levels have a claim to reality that is
+>   essentially equally strong.
+
+**Terrence**
+
+TODO.
+
+Real teleology.
+
+**Alex**
+
+TODO.
+
+**Massimo**
+
+TODO.
+
+**Alex**
+
+TODO.
+
+**Jerry**
+
+TODO.
+
+**Sean**
+
+>   My working definition is that naturalism is the idea that the natural world is all
+>   that exists.  The world is not divided into separate realms that would in any
+>   useful way be called natural and supernatural.
+
+**Simon**
+
+TODO.
+
+**Alex**
+
+TODO.
+
+**Rebecca**
+
+TODO.
+
+**Simon**
+
+TODO.
+
+**Alex**
+
+TODO.
+
+**David**
+
+TODO.  What is explanation?
+
+**Alex**
+
+TODO.
+
+**Dan**
+
+TODO: pragmatism.
+
+>   We are left with a sort of comical situation where the scientists are
+>   comfortable with little bit loosey-goosey, rough-and-ready sense of
+>   explanation.  They know what they mean by real.  They know what they
+>   mean by explanation.  And you're not letting them have that.
+>   You, who wants to honor science, are holding science to a higher
+>   and more unrealistic standard of definition than the scientists
+>   themselves are using.
+
+**Don**
+
+TODO.
+
+**Sean**
+
+TODO: give the last word.
+
+**Alex**
+
+TODO.
+
+
+### Ryan's Summary
+
+-   No teleology.
+-   How eliminative?
+-   Design vs designoid.
+-   What is the metaphysics of abstract objects?
+
+
 --------------------------------------------------------------------------------
 
 *Day 1, afternoon, 1st session*
@@ -422,13 +580,13 @@ TODO...
 Emergence and reduction
 --------------------------------------------------------------------------------
 
-TODO...
+TODO.
 
 --------------------------------------------------------------------------------
 
 *Day 1, afternoon, 2nd session*
 
-TODO...
+TODO.
 
 
 
