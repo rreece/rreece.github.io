@@ -109,6 +109,8 @@ Scripture
 -   Do you think followers of other religions feel the same way about their scriptures?
 -   How is your scripture and interpretation preferable to others?
 -   What was the human condition like when those scriptures were written?
+    Is there any reason to think that people in the Bronze or Iron Ages had
+    privileged access to revelations?
 -   What did people in those times understand about nature?
 -   Is it natural for people to form narratives to account for things they cannot explain? 
     Can you think of examples?
