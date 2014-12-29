@@ -15,6 +15,7 @@ External Links
 1.  [wiki.ironchariots.org](http://wiki.ironchariots.org/)
 1.  [rationalwiki.org](http://rationalwiki.org/)
 1.  [Common Sense Atheism](http://commonsenseatheism.com/)
+1.  [The Skeptic's Annotated Bible](http://skepticsannotatedbible.com/)
 1.  ["The Bible: So Misunderstood It's a Sin"](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html) -- Newsweek
 1.  ["An Open Letter to Moderate Muslims"](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/) -- Ali A. Rizvi (RDFRS)
 
