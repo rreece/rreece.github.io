@@ -20,8 +20,6 @@ External Links
 Book Recommendations
 --------------------------------------------------------------------------------
 
-TODO: find and link the following.
-
 1.  [*God is Not Great*](http://www.amazon.com/God-Not-Great-Religion-Everything/dp/0446697966/) - Christopher Hitchens
 1.  [*Letter to a Christian Nation*](http://www.amazon.com/Letter-Christian-Nation-Sam-Harris/dp/0307278778/) - Sam Harris
 1.  [*The End of Faith*](http://www.amazon.com/End-Faith-Religion-Terror-Future/dp/0393327655/) - Sam Harris
