@@ -5,9 +5,15 @@ The Socratic Method Applied to Faith
 Preface
 --------------------------------------------------------------------------------
 
+In this document, I hope to engage you in a calm and rational discussion
+of what faith is and what kind of beliefs it fosters.
+Absolutley nothing in this text should be taken dogmatically.
+It's an invitation for us to bring an open mind to some of the most intimate
+and influential ideas in the world.
+
 Anticipating that many believers will get overly defensive when discussing
 the possibilities of the validity of their faith, let's start with some
-common objections you may have to even having the discussion.
+common objections you may have to even having the conversation.
 
 >   See to it that no one makes a prey of you by philosophy and empty deceit,
 >   according to human tradition, according to the elemental spirits of the
@@ -35,7 +41,6 @@ with fair consideration given to each view.  That doesn't mean we should
 have equal confidence in every voice once they have spoken their case.
 But it does mean that we shouldn't be afraid of exploring and scrutinizing
 any of the variety of claims that people make.
-
 
 >   Truth springs from arguments amongst friends.
 
@@ -159,7 +164,7 @@ The Soul
     immaterial?
 -   Can this hypothetical immaterial soul be demonstrated?
 -   When a person wonders "what will it be like after die?",
-    is there any reason to think it will be any different that what it was like
+    is there any reason to think it will be any different than what it was like
     before you were alive?
 -   Isn't it clear that our experience is contingent on our material conditions?
 -   If there was a reproducibly demonstrable phenomenon that was not considered part of
