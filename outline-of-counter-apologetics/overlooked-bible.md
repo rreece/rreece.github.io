@@ -27,6 +27,5 @@ External Links
 --------------------------------------------------------------------------------
 
 -   ["The Bible: So Misunderstood It's a Sin"](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html) -- Newsweek
--   ["An Open Letter to Moderate Muslims"](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/) -- Ali A. Rizvi (RDFRS)
 
 
