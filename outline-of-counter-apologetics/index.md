@@ -18,10 +18,12 @@ External Links
 -   [rationalwiki.org](http://rationalwiki.org/)
 -   [The Skeptic's Annotated Bible](http://skepticsannotatedbible.com/)
 
+
 ### Blogs
 
 -   [Common Sense Atheism](http://commonsenseatheism.com/)
 -   [A Year Without God](http://www.patheos.com/blogs/yearwithoutgod/)
+
 
 ### Articles
 
@@ -29,8 +31,7 @@ External Links
 -   ["An Open Letter to Moderate Muslims"](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/) -- Ali A. Rizvi (RDFRS)
 
 
-Book Recommendations
---------------------------------------------------------------------------------
+### Books
 
 -   [*God is Not Great*](http://www.amazon.com/God-Not-Great-Religion-Everything/dp/0446697966/) - Christopher Hitchens
 -   [*Letter to a Christian Nation*](http://www.amazon.com/Letter-Christian-Nation-Sam-Harris/dp/0307278778/) - Sam Harris
@@ -40,8 +41,7 @@ Book Recommendations
 -   [*The Moral Landscape*](http://www.amazon.com/Moral-Landscape-Science-Determine-Values/dp/143917122X) - Sam Harris
 
 
-Videos
---------------------------------------------------------------------------------
+### Videos
 
 -   ["You're already committed to reason"](https://www.youtube.com/watch?v=UC4gqkd-6_o) -- Steven Pinker
 -   ["The complete idiot's guide to atheism"](https://www.youtube.com/watch?v=1CLjYHqfilE)  -- short montage
