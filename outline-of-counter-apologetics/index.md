@@ -35,6 +35,7 @@ Book Recommendations
 Videos
 --------------------------------------------------------------------------------
 
+1.  ["You're already committed to reason"] -- Steven Pinker
 1.  ["The complete idiot's guide to atheism"](https://www.youtube.com/watch?v=1CLjYHqfilE)  -- short montage
 1.  [Christopher Hitchens talks at Google](https://www.youtube.com/watch?v=sD0B-X9LJjs)
 1.  [Sam Harris debates Rabi David Wolpe](https://www.youtube.com/watch?v=bN9nlAnkCUY)
