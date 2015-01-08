@@ -24,11 +24,16 @@ External Links
 -   [Common Sense Atheism](http://commonsenseatheism.com/)
 -   [A Year Without God](http://www.patheos.com/blogs/yearwithoutgod/)
 
+    Responses:
+    -   "[That Pastor Who's Now an Atheist Kind of Has a Point](http://www.huffingtonpost.com/paul-wallace/that-pastor-whos-now-an-a_b_6430958.html)" - Paul Wallace, Huffpost
+        -   "This is important to me so I've stuck with it."
+        -   "But here at midlife disbelieving in God would be indistinguishable from disbelieving in myself."
+
 
 ### Articles
 
 -   ["The Bible: So Misunderstood It's a Sin"](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html) -- Newsweek
--   ["An Open Letter to Moderate Muslims"](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/) -- Ali A. Rizvi (RDFRS)
+-   ["An Open Letter to Moderate Muslims"](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/) -- Ali A. Rizvi, *RDFRS*
 
 
 ### Books
