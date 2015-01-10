@@ -150,6 +150,7 @@ SEP
 -   [Inconsistent Mathematics](http://plato.stanford.edu/entries/mathematics-inconsistent/)
 -   [Indispensability Arguments in the Philosophy of Mathematics](http://plato.stanford.edu/entries/mathphil-indis/)
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
+-   [Negation](http://plato.stanford.edu/entries/negation/)
 -   [Nominalism in Metaphysics](http://plato.stanford.edu/entries/nominalism-metaphysics/)
 -   [Nominalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/nominalism-mathematics/)
 -   [Philosophy of Mathematics](http://plato.stanford.edu/entries/philosophy-mathematics/)
