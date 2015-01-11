@@ -43,10 +43,13 @@ Books on naturalized metaphysics (reviews of):
 -   [Ross, D., Ladyman, J., and Kincaid, H. (2013). Scientific Metaphysics.](http://ndpr.nd.edu/news/41185-scientific-metaphysics/)
 
 
+<!---
+
 Also developing
 --------------------------------------------------------------------------------
 
 -   [A short glossary of philosophy for scientists and engineers](glossary-of-philosophy-for-scientists.html)  (TODO)
 -   [A hypothetical dialog between Plato and Carnap](reality-dialog.html)  (TODO)
 
+-->
 
