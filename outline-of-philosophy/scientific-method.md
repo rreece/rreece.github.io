@@ -86,6 +86,8 @@ TODO.
 
 The demarcation problem.  Bad justification.
 
+-   [James Ladyman on Pseudoscience and Bullshit](https://www.youtube.com/watch?v=32ZaTKa2IRg)
+
 
 ### Naturalism
 
