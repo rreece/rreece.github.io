@@ -32,7 +32,7 @@ External Links
 ### Articles
 
 -   ["The Bible: So Misunderstood It's a Sin"](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html) -- Kurt Eichenwald, *Newsweek*
--   ["An Open Letter to Moderate Muslims"](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/) -- Ali A. Rizvi, *RDFRS*
+-   ["An Open Letter to Moderate Muslims"](http://www.huffingtonpost.com/ali-a-rizvi/an-open-letter-to-moderat_b_5930764.html) -- Ali A. Rizvi, *Huffpost* and *[RDFRS](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/)*
 
 
 ### Books
