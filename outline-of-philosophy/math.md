@@ -151,7 +151,7 @@ SEP
 -   [Frege](http://plato.stanford.edu/entries/frege/)
 -   [The Frege-Hilbert Controversy](http://plato.stanford.edu/entries/frege-hilbert/)
 -   [Formalism](http://plato.stanford.edu/entries/formalism-mathematics/)
--   [Göel](http://plato.stanford.edu/entries/goedel/)
+-   [Göde](http://plato.stanford.edu/entries/goedel/)
 -   [Gödel's Incompleteness Theorems](http://plato.stanford.edu/entries/goedel-incompleteness/)
 -   [Hilbert's Program](http://plato.stanford.edu/entries/hilbert-program/)
 -   [Inconsistent Mathematics](http://plato.stanford.edu/entries/mathematics-inconsistent/)
