@@ -143,20 +143,30 @@ Links and Encyclopedia Articles
 
 SEP
 
+-   [Brouwer](http://plato.stanford.edu/entries/brouwer/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 -   [Constructive Mathematics](http://plato.stanford.edu/entries/mathematics-constructive/)
 -   [Explanation in Mathematics](http://plato.stanford.edu/entries/mathematics-explanation/)
 -   [Fictionalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/fictionalism-mathematics/)
+-   [The Frege-Hilbert Controversy](http://plato.stanford.edu/entries/frege-hilbert/)
+-   [Göel](http://plato.stanford.edu/entries/goedel/)
+-   [Gödel's Incompleteness Theorems](http://plato.stanford.edu/entries/goedel-incompleteness/)
+-   [Hilbert's Program](http://plato.stanford.edu/entries/hilbert-program/)
 -   [Inconsistent Mathematics](http://plato.stanford.edu/entries/mathematics-inconsistent/)
 -   [Indispensability Arguments in the Philosophy of Mathematics](http://plato.stanford.edu/entries/mathphil-indis/)
+-   [Leibniz](http://plato.stanford.edu/entries/leibniz/)
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
 -   [Negation](http://plato.stanford.edu/entries/negation/)
 -   [Nominalism in Metaphysics](http://plato.stanford.edu/entries/nominalism-metaphysics/)
 -   [Nominalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/nominalism-mathematics/)
+-   [Proof Theory](http://plato.stanford.edu/entries/proof-theory-development/)
 -   [Philosophy of Mathematics](http://plato.stanford.edu/entries/philosophy-mathematics/)
 -   [Platonism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/platonism-mathematics/)
 -   [Platonism in Metaphysics](http://plato.stanford.edu/entries/platonism/)
+-   [Principia Mathematica](http://plato.stanford.edu/entries/principia-mathematica/)
+-   [Type Theory](http://plato.stanford.edu/entries/type-theory/)
 -   [Types and Tokens](http://plato.stanford.edu/entries/types-tokens/)
+-   [Whitehead](http://plato.stanford.edu/entries/whitehead/)
 
 IEP
 
