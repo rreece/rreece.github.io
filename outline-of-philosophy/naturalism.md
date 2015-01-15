@@ -144,6 +144,7 @@ SEP
 -   [Monism](http://plato.stanford.edu/entries/monism/)
 -   [Naturalism](http://plato.stanford.edu/entries/naturalism/)
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
+-   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
 -   [Quine](http://plato.stanford.edu/entries/quine/)
 
 IEP

@@ -102,6 +102,7 @@ Faith
 -   Can you think of any examples of beliefs that propagated because of
     culture and not because they were supported by evidence?
 -   What does it mean to be indoctrinated?
+-   Do you have any of your beliefs because of being indoctrinated?
 -   Is faith a good idea?
 
 
