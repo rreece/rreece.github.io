@@ -188,7 +188,7 @@ Not knowing
 -   Is it worthwhile to be careful to demarcate
     *the things we know from the things we do not*?
 -   Is there anything that could go wrong if we act confidently as if we have
-    knowledge or justified belief when we really do not?
+    knowledge or otherwise justified belief when we really do not?
 -   Can you think of any examples of people being sure of something that was
     false and causing conflict and suffering because of it?
     Are people doing that now?
