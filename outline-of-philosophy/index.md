@@ -1,6 +1,7 @@
 Contents
 ================================================================================
 
+1.  [invitation to scientific philosophy](invitation.html) -- A place to start in the discussion of philosophy of science and naturalism.   **(in progress)**
 1.  [the scientific method](scientific-method.html) -- the key to epistemology.   (TODO)
 1.  [scientific realism](scientific-realism.html) -- the key to metaphysics.   **(in progress)**
 1.  [naturalism](naturalism.html) -- a metaphilosophy that says science should bootstrap philosophy.  (TODO)
@@ -14,35 +15,6 @@ Contents
 
 This site is my working draft.  I hope to pubish these outlines or some version
 of them on my blog: [statisticalsignificance.net](http://statisticalsignificance.net/).
-
-
-A place to start in the discussion of philosophy of science and naturalism
---------------------------------------------------------------------------------
-
-NYT:
-
--   [Rosenberg, A. (2011). Why I am a naturalist.](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/)
-
-Encyclopedia review articles:
-
--   [Chakravartty, A. (2011). Scientific Realism - SEP.](http://plato.stanford.edu/entries/scientific-realism/)
--   [Jacobs, J. (2002). Naturalism - IEP.](http://www.iep.utm.edu/naturali/)
-
-Some articles bookending the realism debate:
-
--   [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](docs/1950.Carnap.Empiricism-Semantics-Ontology.pdf) -- anti-realist (positivist)
--   [Frigg, R. & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask.](docs/2011.Frigg-Votsis.Everything-you-always-wanted-to-know-about-structural-realism-but-were-afraid-to-ask.pdf) -- structural realist
-
-Review article of the philosophy of math:
-
--   [Snapper, E. (1979). The Three Crises in Mathematics: Logicism, Intuitionism, Formalism.](docs/1979.Snapper.three-crises-in-mathematics.pdf)
-
-Books on naturalized metaphysics:
-
--   Ladyman, J., and  Ross, D. (2007). Every Thing Must Go: Metaphysics Naturalized. - [review by Cian Dorr, Oxford University](https://ndpr.nd.edu/news/24377-every-thing-must-go-metaphysics-naturalized/)
--   Ross, D., Ladyman, J., and Kincaid, H. (2013). Scientific Metaphysics. - [review by Richard Healey, University of Arizona](http://ndpr.nd.edu/news/41185-scientific-metaphysics/)
-    - Introductory Chapter by Kincaid (in full): ["Introduction: Pursuing a Naturalist Metaphysics"](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1)
-    
 
 
 <!---
