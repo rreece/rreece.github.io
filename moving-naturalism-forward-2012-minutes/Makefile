@@ -13,7 +13,7 @@
 
 AUTHOR   := Ryan Reece
 HEADER   := Ryan's Moving Naturalism Forward 2012 Minutes
-LICENSE  := Licensed for sharing under <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">(CC-BY-4.0)  2013-2015  Ryan Reece.</a>
+LICENSE  := Licensed for sharing under <a rel=\"license\" href=\"http://creativecommons.org/licenses/by/4.0/\">(CC-BY-4.0)</a>  2013-2015  Ryan Reece.
 # LICENSE  := &copy; 2013-2015 Ryan Reece. All rights reserved.
 # LICENSE  :=
 
