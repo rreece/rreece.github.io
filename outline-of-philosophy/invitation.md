@@ -36,6 +36,6 @@ A place to start in the discussion of philosophy of science and naturalism
 
 ### Other links:
 
--   [naturalized.org](http://www.naturalism.org/)
+-   [Naturalism.org](http://www.naturalism.org/)
 
 
