@@ -5,9 +5,9 @@ Videos Analyzed
 Debates
 --------------------------------------------------------------------------------
 
-### Hitchens
+### [Hitchen destroys religion](https://www.youtube.com/watch?v=TuI4Nzc07Io)
 
-[Hitchen destroys religion](https://www.youtube.com/watch?v=TuI4Nzc07Io) (10 mins)
+(10 mins)
 
 The atheist proposition:
 
@@ -20,5 +20,5 @@ Why we should be glad that it is not true:
 2.  Religion attacks our integrity by displacing the foundation of morality
     and claiming you cannot be know right from wrong without religion.
 3.  Religion is our first version of organization, philosophy, morality, medicine, etc.
-    Being our first draft, it is our worst.  We have better explainations.
+    Being our first draft, it is our worst.  We have better methods and explainations.
 
