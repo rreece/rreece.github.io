@@ -8,7 +8,7 @@ Contents
 1.  [philosophy of mathematics](math.html)   (TODO)
 1.  [philosophy of physics](physics.html)   (TODO)
 1.  [ethics](ethics.html)   (TODO)
-1.  [philosophy of future studies](future.html)   (TODO)
+1.  [philosophy of the future](future.html)   (TODO)
 
 
 ### Note this is under construction

@@ -6,6 +6,7 @@ Contents
 --------------------------------------------------------------------------------
 
 -   [The Socratic Method Applied to Faith](socratic-method-on-faith.html) -- Completed 12/28/2014. Please Read!
+-   [Videos analyzed](videos-analyzed.html) -- (in progress)
 -   [Commonly Overlooked Issues with the Bible](overlooked-bible.html) -- TODO
 
 
