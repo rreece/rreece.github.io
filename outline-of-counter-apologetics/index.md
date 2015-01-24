@@ -18,6 +18,7 @@ Looking for a plce to start?  Try these.
 
 ### Videos
 
+-   [Hitchen destroys religion](https://www.youtube.com/watch?v=TuI4Nzc07Io)  -- Christopher Hitchen (10 mins)
 -   ["You're already committed to reason"](https://www.youtube.com/watch?v=UC4gqkd-6_o) -- Steven Pinker
 -   ["The complete idiot's guide to atheism"](https://www.youtube.com/watch?v=1CLjYHqfilE)  -- short montage
 -   [Christopher Hitchens talks at Google](https://www.youtube.com/watch?v=sD0B-X9LJjs)
