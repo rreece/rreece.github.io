@@ -19,7 +19,7 @@ Looking for a plce to start?  Try these.
 ### Videos
 
 -   ["You're already committed to reason"](https://www.youtube.com/watch?v=UC4gqkd-6_o)  -- Steven Pinker (4 mins)
--   [Hitchen destroys religion](https://www.youtube.com/watch?v=TuI4Nzc07Io)  -- Christopher Hitchen (10 mins)
+-   [Hitchens destroys religion](https://www.youtube.com/watch?v=TuI4Nzc07Io)  -- Christopher Hitchens (10 mins)
 -   ["The complete idiot's guide to atheism"](https://www.youtube.com/watch?v=1CLjYHqfilE)  -- short montage (10 mins)
 -   [Christopher Hitchens talks at Google](https://www.youtube.com/watch?v=sD0B-X9LJjs)  -- (1h)
 -   [Sam Harris debates Rabi David Wolpe](https://www.youtube.com/watch?v=bN9nlAnkCUY)  -- (1h45m)
