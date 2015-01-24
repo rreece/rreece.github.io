@@ -39,12 +39,6 @@ Looking for a plce to start?  Try these.
         -   "This is important to me so I've stuck with it."
         -   "But here at midlife disbelieving in God would be indistinguishable from disbelieving in myself."
 
-### Reference
-
--   [wiki.ironchariots.org](http://wiki.ironchariots.org/)
--   [rationalwiki.org](http://rationalwiki.org/)
--   [The Skeptic's Annotated Bible](http://skepticsannotatedbible.com/)
-
 ### Books
 
 -   [*God is Not Great*](http://www.amazon.com/God-Not-Great-Religion-Everything/dp/0446697966/) - Christopher Hitchens
@@ -53,5 +47,11 @@ Looking for a plce to start?  Try these.
 -   [*Darwin's Dangerous Idea*](http://www.amazon.com/DARWINS-DANGEROUS-IDEA-EVOLUTION-MEANINGS/dp/068482471X/) - Daniel Dennett
 -   [*Breaking the Spell*](http://www.amazon.com/Breaking-Spell-Religion-Natural-Phenomenon/dp/0143038338/) - Daniel Dennett
 -   [*The Moral Landscape*](http://www.amazon.com/Moral-Landscape-Science-Determine-Values/dp/143917122X) - Sam Harris
+
+### Reference
+
+-   [wiki.ironchariots.org](http://wiki.ironchariots.org/)
+-   [rationalwiki.org](http://rationalwiki.org/)
+-   [The Skeptic's Annotated Bible](http://skepticsannotatedbible.com/)
 
 
