@@ -12,7 +12,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 **Contents:**
 
 -   [Issues and Positions](#issues-and-positions)
-    1.  [Science](#science)
+    1.  [Science and scientism](#science-and-scientism)
     1.  [Rejection of *a priori* metaphysics](#rejection-of-a-priori-metaphysics)
     1.  [Natural Kinds](#natural-kinds)
     1.  [Monism](#monism)
@@ -30,7 +30,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and Positions
 --------------------------------------------------------------------------------
 
-### Science
+### Science and scientism
 
 Methodological naturalism.
 
