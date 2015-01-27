@@ -15,7 +15,7 @@ Contents
 External Links
 --------------------------------------------------------------------------------
 
-Looking for a plce to start?  Try these.
+Looking for resources about critiquing faith?  Try these.
 
 ### Videos
 
