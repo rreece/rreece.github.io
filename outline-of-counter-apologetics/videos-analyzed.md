@@ -22,3 +22,14 @@ Why we should be glad that it is not true:
 3.  Religion is our first version of organization, philosophy, morality, medicine, etc.
     Being our first draft, it is our worst.  We have better methods and explainations.
 
+
+Essays
+--------------------------------------------------------------------------------
+
+### [Is the Bible pro life?](https://www.youtube.com/watch?v=39NHzvDpJe4)
+
+The Young Turks, (7 mins)
+
+TODO.
+
+
