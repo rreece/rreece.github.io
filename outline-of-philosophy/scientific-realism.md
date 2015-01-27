@@ -124,6 +124,9 @@ Note any differences between:
 -   anti-realist
 -   Dewey and Peirce
 -   Rorty and Putnam
+-   Our confidence comes in continuous amounts.
+    We might as well act as if a claim with a certain confidence
+    is real, however, we really deny realism.
 
 
 ### Relativism

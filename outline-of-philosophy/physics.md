@@ -15,6 +15,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Emergence](#emergence)
     1.  [Quantum Mechanics](#quantum-mechanics)
     1.  [The Standard Model of Particle Physics](#the-standard-model-of-particle-physics)
+    1.  [Bracketing Human Experience](#bracketing-human-experience)
     1.  [Beyond the Standard Model](#beyond-the-standard-model)
     1.  [Cosmology](#cosmology)
 -   [My Thoughts](#my-thoughts)
@@ -55,6 +56,14 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 ### The Standard Model of Particle Physics
+
+TODO.
+
+
+### Bracketing Human Experience
+
+-   [Sean Carroll's acceptance speech](https://www.youtube.com/watch?v=40eiycH077A#t=402)
+    for the FFRF's the emperor has no clothes award.
 
 TODO.
 
