@@ -17,13 +17,12 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [Is there a universal scientific method?](#is-there-a-universal-scientific-method)
     1.  [Scientific Realism](#scientific-realism)
     1.  [Scientific Knowledge](#scientific-knowledge)
-    1.  [Pseudoscience](#pseudoscience)
     1.  [Naturalism](#naturalism)
     1.  [Reductionism](#reductionism)
     1.  [Monism](#monism)
     1.  [Abduction](#abduction)
     1.  [Statistical Measurement](#statistical-measurement)
-    1.  [Scientism](#scientism)
+    1.  [Pseudoscience](#pseudoscience)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Hume, D. (1748). An Enquiry Concerning Human Understanding.](#hume-d.-1748.-an-enquiry-concerning-human-understanding.)
@@ -80,20 +79,13 @@ The Stopped Clock:
 -- from Russell's "Human Knowledge: Its Scope & Limits"
 
 
-### Pseudoscience
-
-TODO.
-
-The demarcation problem.  Bad justification.
-
--   [James Ladyman on Pseudoscience and Bullshit](https://www.youtube.com/watch?v=32ZaTKa2IRg)
-
-
 ### Naturalism
 
 TODO.
 
 See the outline on [Naturalism](naturalism.html).
+
+Scientism.
 
 
 ### Reductionism
@@ -119,12 +111,14 @@ Natural kinds.  TODO.
 TODO.
 
 
-### Scientism
-
--   What are the limits of science?
--   Are there other ways of knowing?
+### Pseudoscience
 
 TODO.
+
+The demarcation problem.  Bad justification.
+
+-   [James Ladyman on Pseudoscience and Bullshit](https://www.youtube.com/watch?v=32ZaTKa2IRg)
+
 
 
 My Thoughts

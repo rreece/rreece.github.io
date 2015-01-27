@@ -44,6 +44,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 1.  blah
 2.  blah
 
+Scientism.
+
+-   What are the limits of science?
+-   Are there other ways of knowing?
 
 ### Rejection of *a priori* metaphysics
 
