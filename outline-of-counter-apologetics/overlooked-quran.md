@@ -1,4 +1,4 @@
-Commonly Overlooked Issues with the Bible
+Issues with the Qur'an
 ================================================================================
 
 
