@@ -7,7 +7,7 @@ Debates
 
 ### [Hitchen destroys religion](https://www.youtube.com/watch?v=TuI4Nzc07Io)
 
-Christopher Hitchens, 10 mins
+Christopher Hitchens (10 mins)
 
 The atheist proposition:
 
@@ -28,7 +28,7 @@ Essays
 
 ### [Is the Bible pro life?](https://www.youtube.com/watch?v=39NHzvDpJe4)
 
-The Young Turks, 7 mins
+The Young Turks (7 mins)
 
 TODO.
 
