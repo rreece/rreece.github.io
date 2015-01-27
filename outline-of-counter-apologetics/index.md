@@ -26,10 +26,14 @@ Looking for a plce to start?  Try these.
 -   [Sam Harris' TED talk: Science can answer moral questions](https://www.youtube.com/watch?v=Hj9oB4zpHww)  -- (24 mins)
 -   [The Atheist Experience](http://www.atheist-experience.com/)  -- TV show with many great episodes
 
+Some of these videos are analyzed in these pages [here](videos-analyzed.html).
+
 ### Articles
 
 -   ["The Bible: So Misunderstood It's a Sin"](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html) -- Kurt Eichenwald, *Newsweek*
 -   ["An Open Letter to Moderate Muslims"](http://www.huffingtonpost.com/ali-a-rizvi/an-open-letter-to-moderat_b_5930764.html) -- Ali A. Rizvi, *Huffpost* and *[RDFRS](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/)*
+
+Some of these articles are analyzed in these pages [here](articles-analyzed.html).
 
 ### Blogs
 
