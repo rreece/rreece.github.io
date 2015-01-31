@@ -15,8 +15,8 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [Skepticism](#skepticism)
     1.  [Empiricism](#empiricism)
     1.  [Is there a universal scientific method?](#is-there-a-universal-scientific-method)
-    1.  [Scientific Realism](#scientific-realism)
     1.  [Scientific Knowledge](#scientific-knowledge)
+    1.  [Scientific Realism](#scientific-realism)
     1.  [Naturalism](#naturalism)
     1.  [Reductionism](#reductionism)
     1.  [Monism](#monism)
@@ -52,16 +52,6 @@ TODO.
 TODO.
 
 
-### Scientific Realism
-
-TODO.
-
-Unless we have a collective conspiracy,
-probablistically justifying assumptions of uniformity.
-
-See the outline on [scientific realism](scientific-realism.html).
-
-
 ### Scientific Knowledge
 
 JTB-G.  Systematic uncertanties.  Gettier cases.  Failed justification.
@@ -77,6 +67,16 @@ The Stopped Clock:
 >   But unbeknownst to you, the clock stopped exactly twelve hours ago.
 
 -- from Russell's "Human Knowledge: Its Scope & Limits"
+
+
+### Scientific Realism
+
+TODO.
+
+Unless we have a collective conspiracy,
+probablistically justifying assumptions of uniformity.
+
+See the outline on [scientific realism](scientific-realism.html).
 
 
 ### Naturalism

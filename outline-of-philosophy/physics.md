@@ -15,9 +15,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Emergence](#emergence)
     1.  [Quantum Mechanics](#quantum-mechanics)
     1.  [The Standard Model of Particle Physics](#the-standard-model-of-particle-physics)
-    1.  [Bracketing Human Experience](#bracketing-human-experience)
     1.  [Beyond the Standard Model](#beyond-the-standard-model)
     1.  [Cosmology](#cosmology)
+    1.  [Bracketing Human Experience](#bracketing-human-experience)
+    1.  [Fine-tuning](#fine-tuning)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Einstein, A., Podolsky, B., & Rosen, N. (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](#einstein-a.-podolsky-b.-rosen-n.-1935.-can-quantum-mechanical-description-of-physical-reality-be-considered-complete)
@@ -60,14 +61,6 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 TODO.
 
 
-### Bracketing Human Experience
-
--   [Sean Carroll's acceptance speech](https://www.youtube.com/watch?v=40eiycH077A#t=402)
-    for the FFRF's the emperor has no clothes award.
-
-TODO.
-
-
 ### Beyond the Standard Model
 
 -   Supersymmetry.
@@ -81,6 +74,21 @@ TODO.
 Big bang.  &Lambda;+CMD Cosmological Standard Model.  Inflation.
 
 Fine-tuning.  Anthropic principle.  Relationship to evolution.
+
+TODO.
+
+
+### Bracketing Human Experience
+
+-   [Sean Carroll's acceptance speech](https://www.youtube.com/watch?v=40eiycH077A#t=402)
+    for the FFRF's the emperor has no clothes award.
+
+Reductionism.
+
+TODO.
+
+
+### Fine-tuning
 
 TODO.
 
