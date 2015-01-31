@@ -73,8 +73,6 @@ TODO.
 
 Big bang.  &Lambda;+CMD Cosmological Standard Model.  Inflation.
 
-Fine-tuning.  Anthropic principle.  Relationship to evolution.
-
 TODO.
 
 
@@ -90,7 +88,10 @@ TODO.
 
 ### Fine-tuning
 
-TODO.
+
+-   TODO.
+-   Fine-tuning.  Anthropic principle.  Relationship to evolution.
+-   [Richard Dawkins and Steven Weinberg Discuss Science and Religion](https://www.youtube.com/watch?v=EGL8SesIo6Y)
 
 
 My Thoughts
