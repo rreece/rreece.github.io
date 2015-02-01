@@ -173,6 +173,7 @@ Wikipedia
 Other
 
 -   [Naturalism.org](http://www.naturalism.org/)
+    -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/history.htm)
 -   [Moving Naturalism Forward (2012)](http://preposterousuniverse.com/naturalism2012/)
 -   [Ryan's Minutes of "Moving Naturalism Forward (2012)"](http://rreece.github.io/moving-naturalism-forward-2012-minutes/)
 
