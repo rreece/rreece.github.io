@@ -101,7 +101,7 @@ See the outline on [ethics](ethics.html).
 ### Criticisms of Naturalism
 
 -   TODO.
--   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2)
+-   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2)
 
 
 My Thoughts
@@ -164,7 +164,7 @@ IEP
 -   [Quine's Philosophy of Science](http://www.iep.utm.edu/quine-sc/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)
--   [Social Science](http://www.iep.utm.edu/soc-sci/) - Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2)
+-   [Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2)
 
 Wikipedia
 
