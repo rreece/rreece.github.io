@@ -112,13 +112,18 @@ Note any differences between:
 -   logical positivism
 -   logical empiricism
 
+The "death" of positivism:
+
+-   Wittgenstein, *Philosophical Investigations*, ordinary language philosophy
+-   Kuhn
+-   anti-positivism, post-structuralism, postmodernism (continental)
+
 
 ### Postpositivism
 
--   Wittgenstein
--   Kuhn
+-    A metatheoretical stance that critiques and amends positivism. While positivists believe that the researcher and the researched person are independent of each other, postpositivists accept that theories, background, knowledge and values of the researcher can influence what is observed. They believe that human knowledge is based not on unchallengeable, rock-solid foundations, but rather upon human conjectures.
 -   Popper
--   the "death" of positivism
+-   *falsifiability* over *verifiability*
 
 
 ### Pragmatism
@@ -583,7 +588,9 @@ Wikipedia
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)
 -   [Positivism](http://en.wikipedia.org/wiki/Positivism)
+-   [Positivism Dispute](http://en.wikipedia.org/wiki/Positivism_dispute)
 -   [Postpositivism](http://en.wikipedia.org/wiki/Postpositivism)
+-   [Post-structuralism](http://en.wikipedia.org/wiki/Post-structuralism)
 -   [Quine](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 
