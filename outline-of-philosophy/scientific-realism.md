@@ -115,8 +115,10 @@ Note any differences between:
 
 ### Postpositivism
 
--   Popper
+-   Wittgenstein
 -   Kuhn
+-   Popper
+-   the "death" of positivism
 
 
 ### Pragmatism
@@ -124,6 +126,7 @@ Note any differences between:
 -   anti-realist
 -   Dewey and Peirce
 -   Rorty and Putnam
+-   Quine
 -   Our confidence comes in continuous amounts.
     We might as well act as if a claim with a certain confidence
     is real, however, we really deny realism.
@@ -169,6 +172,7 @@ understand the structures that generate such unobservable events.
 
 -   realist
 -   Bhaskar
+-   political implications of scientific realism
 
 
 My Thoughts
