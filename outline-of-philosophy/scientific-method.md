@@ -190,6 +190,8 @@ IEP
 
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
 -   [Hume](http://www.iep.utm.edu/hume-cau/)
+-   [Naturalism](http://www.iep.utm.edu/naturali/)
+-   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [William of Ockham (Occam, 1280-1349 CE)](http://www.iep.utm.edu/ockham/)
 

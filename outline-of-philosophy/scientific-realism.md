@@ -560,6 +560,7 @@ IEP
 -   [Models](http://www.iep.utm.edu/models/)
 -   [Natural Law](http://www.iep.utm.edu/natlaw/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
+-   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
 -   [Ordinary Language Philosophy](http://www.iep.utm.edu/ord-lang/)
 -   [Phenomenology and Natural Science](http://www.iep.utm.edu/phenomsc/)
 -   [Popper: Critical Rationalism](http://www.iep.utm.edu/cr-ratio/)
