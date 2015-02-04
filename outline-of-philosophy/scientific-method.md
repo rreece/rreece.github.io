@@ -195,5 +195,11 @@ IEP
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [William of Ockham (Occam, 1280-1349 CE)](http://www.iep.utm.edu/ockham/)
 
+Wikipedia
+
+-   [Science](http://en.wikipedia.org/wiki/Science)
+-   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
+-   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
+-   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
 
 
