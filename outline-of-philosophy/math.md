@@ -143,6 +143,8 @@ Links and Encyclopedia Articles
 
 SEP
 
+-   [Analysis](http://plato.stanford.edu/entries/analysis/)
+-   [The Analytic/Synthetic Distinction](http://plato.stanford.edu/entries/analytic-synthetic/)
 -   [Brouwer](http://plato.stanford.edu/entries/brouwer/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 -   [Constructive Mathematics](http://plato.stanford.edu/entries/mathematics-constructive/)
@@ -150,6 +152,7 @@ SEP
 -   [Fictionalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/fictionalism-mathematics/)
 -   [Frege](http://plato.stanford.edu/entries/frege/)
 -   [The Frege-Hilbert Controversy](http://plato.stanford.edu/entries/frege-hilbert/)
+-   [Frege's Theorem and Foundations for Arithmetic](http://plato.stanford.edu/entries/frege-theorem/)
 -   [Formalism](http://plato.stanford.edu/entries/formalism-mathematics/)
 -   [G&ouml;del](http://plato.stanford.edu/entries/goedel/)
 -   [G&ouml;del's Incompleteness Theorems](http://plato.stanford.edu/entries/goedel-incompleteness/)
@@ -158,10 +161,12 @@ SEP
 -   [Indispensability Arguments in the Philosophy of Mathematics](http://plato.stanford.edu/entries/mathphil-indis/)
 -   [Intuitionism](http://plato.stanford.edu/entries/intuitionism/)
 -   [Leibniz](http://plato.stanford.edu/entries/leibniz/)
+-   [Logicism and Neologicism](http://plato.stanford.edu/entries/logicism/)
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
 -   [Negation](http://plato.stanford.edu/entries/negation/)
 -   [Nominalism in Metaphysics](http://plato.stanford.edu/entries/nominalism-metaphysics/)
 -   [Nominalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/nominalism-mathematics/)
+-   [Principia Mathematica](http://plato.stanford.edu/entries/principia-mathematica/)
 -   [Proof Theory](http://plato.stanford.edu/entries/proof-theory-development/)
 -   [Philosophy of Mathematics](http://plato.stanford.edu/entries/philosophy-mathematics/)
 -   [Platonism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/platonism-mathematics/)
@@ -172,6 +177,7 @@ SEP
 -   [Type Theory](http://plato.stanford.edu/entries/type-theory/)
 -   [Types and Tokens](http://plato.stanford.edu/entries/types-tokens/)
 -   [Whitehead](http://plato.stanford.edu/entries/whitehead/)
+-   [Wittgenstein's Philosophy of Mathematics](http://plato.stanford.edu/entries/wittgenstein-mathematics/)
 
 IEP
 

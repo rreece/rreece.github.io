@@ -518,6 +518,8 @@ Links and Encyclopedia Articles
 SEP
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
+-   [Analysis](http://plato.stanford.edu/entries/analysis/)
+-   [The Analytic/Synthetic Distinction](http://plato.stanford.edu/entries/analytic-synthetic/)
 -   [Comte](http://plato.stanford.edu/entries/comte/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 -   [Constructive Empiricism](http://plato.stanford.edu/entries/constructive-empiricism/)
