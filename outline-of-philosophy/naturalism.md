@@ -152,7 +152,11 @@ Links and Encyclopedia Articles
 
 SEP
 
+-   [Hume](http://plato.stanford.edu/entries/hume/)
+-   [Miracles](http://plato.stanford.edu/entries/miracles/)
 -   [Monism](http://plato.stanford.edu/entries/monism/)
+-   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
+-   [Natural Law Theories](http://plato.stanford.edu/entries/natural-law-theories/)
 -   [Naturalism](http://plato.stanford.edu/entries/naturalism/)
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
@@ -160,8 +164,11 @@ SEP
 
 IEP
 
+-   [Hume](http://www.iep.utm.edu/hume-cau/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
+-   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
+-   [Natural Law Theories](http://plato.stanford.edu/entries/natural-law-theories/)
 -   [Quine's Philosophy of Science](http://www.iep.utm.edu/quine-sc/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)
