@@ -212,7 +212,7 @@ Wikipedia
 
 -   [Ethnomathematics](http://en.wikipedia.org/wiki/Ethnomathematics)
 -   [Gentzen's consistency proof](http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof)
--   [Godel's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del's_incompleteness_theorems)
+-   [Godel's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
