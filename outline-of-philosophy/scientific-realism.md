@@ -590,6 +590,7 @@ Wikipedia
 
 -   [Criticism of science](http://en.wikipedia.org/wiki/Criticism_of_science)
 -   [Duhem-Quine Thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
+-   [Essentially contested concept](http://en.wikipedia.org/wiki/Essentially_contested_concept)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)
 -   [Positivism](http://en.wikipedia.org/wiki/Positivism)
