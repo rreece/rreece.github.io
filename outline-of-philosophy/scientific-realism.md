@@ -482,6 +482,7 @@ Annotated Bibliography
 
 ### More articles to do:
 
+-   Moore, G.E. (1925). A Defense of Common Sense.
 -   Putnam, H. (1982).  Three Kinds of Scientific Realism.
 -   Putnam, H. (1982).  Why There Isn't a Ready-Made World.
 -   Fine, A. (1984).  The Natural Ontological Attitude.
