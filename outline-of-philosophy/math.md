@@ -15,7 +15,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Platonism](#platonism)
     1.  [Pythagoreanism](#pythagoreanism)
     1.  [Formalism](#formalism)
-    1.  [Godel](#godel)
+    1.  [G&ouml;del](#godel)
     1.  [Fictionalism](#fictionalism)
     1.  [Nominalism](#nominalism)
     1.  [Structuralism](#structuralism)
@@ -63,7 +63,7 @@ Anti-realist. Positivism.
 TODO.
 
 
-### Godel
+### G&ouml;del
 
 from Wikipedia:
 
@@ -212,7 +212,7 @@ Wikipedia
 
 -   [Ethnomathematics](http://en.wikipedia.org/wiki/Ethnomathematics)
 -   [Gentzen's consistency proof](http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof)
--   [Godel's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+-   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
