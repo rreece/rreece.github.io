@@ -15,6 +15,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Platonism](#platonism)
     1.  [Pythagoreanism](#pythagoreanism)
     1.  [Formalism](#formalism)
+    1.  [Godel](#godel)
     1.  [Fictionalism](#fictionalism)
     1.  [Nominalism](#nominalism)
     1.  [Structuralism](#structuralism)
@@ -57,9 +58,18 @@ TODO.
 
 ### Formalism
 
-Anti-realist.
+Anti-realist. Positivism.
 
 TODO.
+
+
+### Godel
+
+from Wikipedia:
+
+-   The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an "effective procedure" (e.g., a computer program, but it could be any sort of algorithm) is capable of proving all truths about the relations of the natural numbers.
+-   The second incompleteness theorem, an extension of the first, shows that such a system cannot demonstrate its own consistency.
+    Sufficiently strong proof theories cannot prove their own consistency (provided that they are in fact consistent).
 
 
 ### Fictionalism
@@ -198,6 +208,8 @@ IEP
 Wikipedia
 
 -   [Ethnomathematics](http://en.wikipedia.org/wiki/Ethnomathematics)
+-   [Gentzen's consistency proof](http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof)
+-   [Godel's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del's_incompleteness_theorems)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
 
