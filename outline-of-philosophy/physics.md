@@ -159,7 +159,7 @@ IEP
 
 Wikipedia
 
--   [Wigners theorem](http://en.wikipedia.org/wiki/Wigner%29s_theorem)
+-   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%29s_theorem)
 -   [Particle physics and representation theory](http://en.wikipedia.org/wiki/Particle_physics_and_representation_theory)
 
 
