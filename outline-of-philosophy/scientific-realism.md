@@ -525,6 +525,7 @@ SEP
 -   [Constructive Empiricism](http://plato.stanford.edu/entries/constructive-empiricism/)
 -   [Duhem](http://plato.stanford.edu/entries/duhem/)
 -   [Feyerabend](http://plato.stanford.edu/entries/feyerabend/)
+-   [Metaphysical Grounding](http://plato.stanford.edu/entries/grounding/)
 -   [The Incommensurability of Scientific Theories](http://plato.stanford.edu/entries/incommensurability/)
 -   [Information](http://plato.stanford.edu/entries/information/)
 -   [Kuhn](http://plato.stanford.edu/entries/thomas-kuhn/)
@@ -587,6 +588,7 @@ IEP
 
 Wikipedia
 
+-   [Criticism of science](http://en.wikipedia.org/wiki/Criticism_of_science)
 -   [Duhem-Quine Thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)

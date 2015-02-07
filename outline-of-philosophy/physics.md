@@ -153,6 +153,14 @@ SEP
 
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 
+IEP
+
+-   TODO
+
+Wikipedia
+
+-   [Wigners theorem](http://en.wikipedia.org/wiki/Wigner's_theorem)
+-   [Particle physics and representation theory](http://en.wikipedia.org/wiki/Particle_physics_and_representation_theory)
 
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
