@@ -15,7 +15,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Platonism](#platonism)
     1.  [Pythagoreanism](#pythagoreanism)
     1.  [Formalism](#formalism)
-    1.  [G&ouml;del](#godel)
+    1.  [G&ouml;del](#g&ouml;del)
     1.  [Fictionalism](#fictionalism)
     1.  [Nominalism](#nominalism)
     1.  [Structuralism](#structuralism)
