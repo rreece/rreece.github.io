@@ -11,7 +11,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 **Contents:**
 
--   [Positions](#positions)
+-   [Issues and Positions](#issues-and-positions)
     1.  [Platonism](#platonism)
     1.  [Pythagoreanism](#pythagoreanism)
     1.  [Formalism](#formalism)
@@ -28,7 +28,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   [References](#fn1)
 
 
-Positions
+Issues and Positions
 --------------------------------------------------------------------------------
 
 ### Platonism

@@ -12,7 +12,7 @@ discusses the epistemological foundations and limitations of science.
 
 **Contents:**
 
--   [Positions](#positions)
+-   [Issues and Positions](#issues-and-positions)
     1.  [Realism and Anti-realism](#realism-and-anti-realism)
     1.  [Scientific Realism](#scientific-realism-1)
     1.  [Instrumentalism](#instrumentalism)
@@ -48,7 +48,7 @@ discusses the epistemological foundations and limitations of science.
 -   [References](#fn1)
 
 
-Positions
+Issues and Positions
 --------------------------------------------------------------------------------
 
 <img src="img/phil-of-science-v02.png" alt="Ryan's figure on scientific realism vs anti-realism" title="Ryan's figure on scientific realism vs anti-realism" width="700"/>
@@ -201,6 +201,8 @@ Questions:
 
 -   Is there a position that requires *any* element of a good scientific theory to
     be interpretable?  What would that mean?
+-   Maybe scientism is really the same thing positivism re-branded;
+    similarly, naturalism is empiricism re-branded.
 
 
 Annotated Bibliography
