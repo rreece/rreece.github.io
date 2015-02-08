@@ -1,8 +1,8 @@
 
-key:
 
 -   &#9654; - currently reading
--   &#10004; - done
+-   &#187; - read first pass
+-   &#10004; - analyzed
 
 
 The Scientific Method / Epistemology
