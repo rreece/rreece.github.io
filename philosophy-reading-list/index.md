@@ -38,6 +38,7 @@ Scientific Realism / Metaphysics
 -   Putnam, H. (1981). Reason, Truth, and History.
 -   Putnam, H. (1982).  Three Kinds of Scientific Realism.
 -   Putnam, H. (1982).  Why There Isn't a Ready-Made World.
+-   Hacking, I. (1983). Representing and Intervening.
 -   Fine, A. (1984).  The Natural Ontological Attitude.
 -   Fine, A. (1984).  And Not Anti-Realism Either.
 -   Musgrave, A. (1989).  Noah's Ark Fine for Realism.
