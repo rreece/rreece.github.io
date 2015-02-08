@@ -1,7 +1,7 @@
 
 
 -   &#9654; - currently reading
--   &#187; - read first pass
+-   &#10095; - read first pass
 -   &#10004; - analyzed
 
 
@@ -20,7 +20,7 @@ Scientific Realism / Metaphysics
 -   Carnap, R. (1928). The Logical Structure of the World and Pseudoproblems in Philosophy.
 -   Carnap, R. (1936). Testibility and Meaning.
 -   Reichenbach, H. (1938). Experience and Prediction.
--   &#9654;  Carnap, R. (1950). Empiricism, Semantics, and Ontology.
+-   &#10095;  Carnap, R. (1950). Empiricism, Semantics, and Ontology.
 -   &#9654;  Quine, W.V.O. (1951). Two Dogmas of Empiricism.
 -   Reichenbach, H. (1951). The Rise of Scientific Philosophy.
 -   Carnap, R. (1955). The Logical Foundations of the Unity of Science.
