@@ -59,7 +59,7 @@ Scientific Realism / Metaphysics
 -   Ladyman, J. & Ross, D. (2009).  Every Thing Must Go: Metaphysics Naturalized.
 -   Psillos, S. (2009). On Reichenbach's argument for scientific realism.
 -   Psillos, S. (2010).  Scientific Realism: Between Platonism and Nominalism.
--   Frigg, R. & Votsis, I. (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
+-   &#10095; Frigg, R. & Votsis, I. (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
 -   French, S. & Ladyman, J. (2011).  In Defense of Ontic Structural Realism.
 -   Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
 -   Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.
