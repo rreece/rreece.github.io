@@ -16,7 +16,7 @@ The Scientific Method / Epistemology
 Scientific Realism / Metaphysics
 --------------------------------------------------------------------------------
 
--   &#10004;  Moore, G.E. (1925). A Defense of Common Sense.
+-   Moore, G.E. (1925). A Defense of Common Sense.
 -   Carnap, R. (1928). The Logical Structure of the World and Pseudoproblems in Philosophy.
 -   Carnap, R. (1936). Testibility and Meaning.
 -   Reichenbach, H. (1938). Experience and Prediction.
