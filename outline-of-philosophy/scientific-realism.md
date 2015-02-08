@@ -208,6 +208,18 @@ Questions:
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
+### Moore, G.E. (1925). A Defense of Common Sense.
+
+-   "Here is one hand."
+-   TODO
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
 ### Carnap, R. (1928). The Logical Structure of the World and Pseudoproblems in Philosophy.
 
 -   *Der logische Aufbau der Welt*
@@ -482,7 +494,6 @@ Annotated Bibliography
 
 ### More articles to do:
 
--   Moore, G.E. (1925). A Defense of Common Sense.
 -   Putnam, H. (1982).  Three Kinds of Scientific Realism.
 -   Putnam, H. (1982).  Why There Isn't a Ready-Made World.
 -   Fine, A. (1984).  The Natural Ontological Attitude.
