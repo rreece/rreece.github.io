@@ -29,6 +29,7 @@ Scientific Realism / Metaphysics
 -   Kuhn, T. (1962). The Structure of Scientific Revolutions.
 -   Maxwell, G. (1962). The Ontological Status of Theoretical Entities.
 -   Sellars, W. (1963). Science, Perception, and Reality.
+-   Quine, W.V.O. (1969). Natural Kinds.
 -   Feyerabend, P. (1974). Against Method.
 -   Bhaskar, R. (1975). A Realist Theory of Science.
 -   Putnam, H. (1975). The Meaning of Meaning.
