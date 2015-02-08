@@ -1,0 +1,58 @@
+Philosophy Reading List
+================================================================================
+
+Scientific Realism
+--------------------------------------------------------------------------------
+
+-   Moore, G.E. (1925). A Defense of Common Sense.
+-   Carnap, R. (1928). The Logical Structure of the World and Pseudoproblems in Philosophy.
+-   Carnap, R. (1936). Testibility and Meaning.
+-   Reichenbach, H. (1938). Experience and Prediction.
+-   Carnap, R. (1950). Empiricism, Semantics, and Ontology.
+-   Quine, W.V.O. (1951). Two Dogmas of Empiricism.
+-   Reichenbach, H. (1951). The Rise of Scientific Philosophy.
+-   Carnap, R. (1955). The Logical Foundations of the Unity of Science.
+-   Carnap, R. (1956). The Methodological Character of Theoretical Concepts.
+-   Popper, K. (1959). The Logic of Scientific Discovery.
+-   Kuhn, T. (1962). The Structure of Scientific Revolutions.
+-   Maxwell, G. (1962). The Ontological Status of Theoretical Entities.
+-   Sellars, W. (1963). Science, Perception, and Reality.
+-   Feyerabend, P. (1974). Against Method.
+-   Bhaskar, R. (1975). A Realist Theory of Science.
+-   Putnam, H. (1975). The Meaning of Meaning.
+-   van Fraassen, B. (1980). The Scientific Image.
+-   Laudan, L. (1981). A Confutation of Convergent Realism.
+-   Putnam, H. (1981). Reason, Truth, and History.
+-   Putnam, H. (1982).  Three Kinds of Scientific Realism.
+-   Putnam, H. (1982).  Why There Isn't a Ready-Made World.
+-   Fine, A. (1984).  The Natural Ontological Attitude.
+-   Fine, A. (1984).  And Not Anti-Realism Either.
+-   Musgrave, A. (1989).  Noah's Ark Fine for Realism.
+-   Worrall, J. (1989).  Structural Realism: The Best of Both Worlds?
+-   Laudan, L. (1990).  Demystifying Underdetermination.
+-   Dennett, D. (1991).  Real Patterns.
+-   Ladyman, J. (1998).  What is Structural Realism?
+-   Bueno, O. (1999).  What is Structural Empiricism?
+-   Psillos, S. (1999).  Scientific Realism: How Science Tracks Truth.
+-   Psillos, S. (2000).  The Present State of the Scientific Realism Debate.
+-   Chang, H. (2001).  Realism Beyond Footstamping.
+-   van Fraassen, B. (2001).  Constructive Empiricism Now.
+-   Hacking, I. (2006).  Natural Kinds.
+-   Chakravartty, A. (2007). A Metaphysics for Scientific Realism.
+-   Psillos, S. (2007).  Choosing the Realist Framework.
+-   Bueno, O. (2008).  Structural Realism, Scientific Change, and Partial Structures.
+-   Bain, J. (2009).  Towards Structural Realism.
+-   Ladyman, J. & Ross, D. (2009).  Every Thing Must Go: Metaphysics Naturalized.
+-   Psillos, S. (2009). On Reichenbach's argument for scientific realism.
+-   Psillos, S. (2010).  Scientific Realism: Between Platonism and Nominalism.
+-   Frigg, R. & Votsis, I. (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
+-   French, S. & Ladyman, J. (2011).  In Defense of Ontic Structural Realism.
+-   Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
+-   Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.
+-   Landry, E. & Rickles, D. (2012). Structural Realism.
+-   Ross, D., Ladyman, J., & Kincaid, H. (2013). Scientific Metaphysics.
+-   French, S. (2014). The Structure of the World: Metaphysics and Representation.
+-   Tegmark, M. (2014). Our Mathematical Universe: My Quest for the Ultimate Nature of Reality.
+
+
+
