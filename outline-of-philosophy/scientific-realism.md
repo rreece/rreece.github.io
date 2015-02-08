@@ -25,6 +25,7 @@ discusses the epistemological foundations and limitations of science.
     1.  [Critical Realism](#critical-realism)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
+    1.  [Moore, G.E. (1925). A Defense of Common Sense.](#moore-g.e.-1925.-a-defense-of-common-sense.)
     1.  [Carnap, R. (1928). The Logical Structure of the World and Pseudoproblems in Philosophy.](#carnap-r.-1928.-the-logical-structure-of-the-world-and-pseudoproblems-in-philosophy.)
     1.  [Carnap, R. (1936). Testibility and Meaning.](#carnap-r.-1936.-testibility-and-meaning.)
     1.  [Reichenbach, H. (1938). Experience and Prediction.](#reichenbach-h.-1938.-experience-and-prediction.)
