@@ -1,4 +1,9 @@
 
+key:
+
+-   &#9654; - currently reading
+-   &#10004; - done
+
 
 The Scientific Method / Epistemology
 --------------------------------------------------------------------------------
@@ -11,12 +16,12 @@ The Scientific Method / Epistemology
 Scientific Realism / Metaphysics
 --------------------------------------------------------------------------------
 
--   Moore, G.E. (1925). A Defense of Common Sense.
+-   &#10004;  Moore, G.E. (1925). A Defense of Common Sense.
 -   Carnap, R. (1928). The Logical Structure of the World and Pseudoproblems in Philosophy.
 -   Carnap, R. (1936). Testibility and Meaning.
 -   Reichenbach, H. (1938). Experience and Prediction.
--   Carnap, R. (1950). Empiricism, Semantics, and Ontology.
--   Quine, W.V.O. (1951). Two Dogmas of Empiricism.
+-   &#9654;  Carnap, R. (1950). Empiricism, Semantics, and Ontology.
+-   &#9654;  Quine, W.V.O. (1951). Two Dogmas of Empiricism.
 -   Reichenbach, H. (1951). The Rise of Scientific Philosophy.
 -   Carnap, R. (1955). The Logical Foundations of the Unity of Science.
 -   Carnap, R. (1956). The Methodological Character of Theoretical Concepts.
