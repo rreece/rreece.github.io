@@ -68,6 +68,8 @@ The Stopped Clock:
 
 -- from Russell's "Human Knowledge: Its Scope & Limits"
 
+-   Sean Carroll on scientific epistemology: [youtube](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
+
 
 ### Scientific Realism
 
