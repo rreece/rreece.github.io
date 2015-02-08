@@ -188,7 +188,7 @@ IEP
 
 RationalWiki
 
--   [Hume's law](http://rationalwiki.org/wiki/Hume's_law)
+-   [Hume's law](http://rationalwiki.org/wiki/Hume%27s_law)
 
 Wikipedia
 
