@@ -118,6 +118,16 @@ This sounds legit to me so far:
     Sent at 2:50 PM on Sunday
     me:  https://www.youtube.com/watch?v=gj2zx1kEjKM
 
+----------------------
+
+Michael Shermer and Massimo Pigliucci debate the role of science deriving morality:
+
+-   [vid](https://www.youtube.com/watch?v=4Qhlp-X3EHA)
+-   [blog 1](http://rationallyspeaking.blogspot.com/2013/01/michael-shermer-on-morality.html)
+-   [blog 2](http://rationallyspeaking.blogspot.com/2013/02/towards-science-of-morality-reply-to.html)
+-   [blog 3](http://rationallyspeaking.blogspot.com/2013/02/toward-science-of-morality-annotated.html)
+-   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
+
 
 Ethical Naturalism
 --------------------------------------------------------------------------------
