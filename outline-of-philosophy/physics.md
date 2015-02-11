@@ -152,6 +152,7 @@ Links and Encyclopedia Articles
 SEP
 
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
+-   [Quantum Entanglement and Information](http://plato.stanford.edu/entries/qt-entangle/)
 
 IEP
 

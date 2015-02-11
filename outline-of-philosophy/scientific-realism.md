@@ -607,6 +607,7 @@ Wikipedia
 -   [Duhem-Quine Thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
 -   [Essentially contested concept](http://en.wikipedia.org/wiki/Essentially_contested_concept)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
+-   [Object-oriented ontology](http://en.wikipedia.org/wiki/Object-oriented_ontology)
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)
 -   [Positivism](http://en.wikipedia.org/wiki/Positivism)
 -   [Positivism Dispute](http://en.wikipedia.org/wiki/Positivism_dispute)
@@ -614,6 +615,7 @@ Wikipedia
 -   [Post-structuralism](http://en.wikipedia.org/wiki/Post-structuralism)
 -   [Quine](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
+-   [Speculative Realism](http://en.wikipedia.org/wiki/Speculative_realism)
 
 
 
