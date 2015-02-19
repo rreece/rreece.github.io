@@ -160,8 +160,9 @@ IEP
 
 Wikipedia
 
--   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 -   [Particle physics and representation theory](http://en.wikipedia.org/wiki/Particle_physics_and_representation_theory)
+-   [Representation theory](http://en.wikipedia.org/wiki/Representation_theory)
+-   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
