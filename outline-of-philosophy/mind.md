@@ -28,9 +28,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and Positions
 --------------------------------------------------------------------------------
 
-### Emergence
-
-Thermodynamics. Statistical mechanics. Renormalization.
+### Dualism
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -39,55 +37,11 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-1.  blah
-2.  blah
+
+### Materialism
 
 
-### Quantum Mechanics
-
--   Hilbert spaces.  Wigner's theorem.  The Born rule.
--   Wave-particle duality misconceptions.  Fields are more fundamental than particles.
--   The measurement problem.  Decoherence.  The Born rule.
--   Decoherence brings quantum logic to classical logic.
--   TODO.
-
-
-### The Standard Model of Particle Physics
-
-TODO.
-
-
-### Beyond the Standard Model
-
--   Supersymmetry.
--   Running of the couplings.
--   Grand unification.
--   TODO.
-
-
-### Cosmology
-
-Big bang.  &Lambda;+CMD Cosmological Standard Model.  Inflation.
-
-TODO.
-
-
-### Bracketing Human Experience
-
--   [Sean Carroll's acceptance speech](https://www.youtube.com/watch?v=40eiycH077A#t=402)
-    for the FFRF's the emperor has no clothes award.
-
-Reductionism.
-
-TODO.
-
-
-### Fine-tuning
-
-
--   TODO.
--   Fine-tuning.  Anthropic principle.  Relationship to evolution.
--   [Richard Dawkins and Steven Weinberg Discuss Science and Religion](https://www.youtube.com/watch?v=EGL8SesIo6Y)
+### Free will
 
 
 My Thoughts
