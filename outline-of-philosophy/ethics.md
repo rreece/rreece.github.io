@@ -195,6 +195,8 @@ SEP
 
 IEP
 
+-   [Evolutionary Ethics](http://www.iep.utm.edu/evol-eth/)
+-   [Evolutionary Psychology](http://www.iep.utm.edu/evol-psy/)
 -   [Game Theory](http://www.iep.utm.edu/game-th/)
 
 RationalWiki
