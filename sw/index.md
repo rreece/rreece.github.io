@@ -37,8 +37,8 @@ root2html
 <img src="img/root2html-example.png" alt="root2html-example" width="600"/>
 </a>
 
-A script that generates html and images from a ROOT file of TCanvases
-for visualizing a list of plots.
+A script that generates html and images from a [ROOT](https://root.cern.ch/)
+file of TCanvases for visualizing a list of plots.
 
 -   [github.com/rreece/root2html](https://github.com/rreece/root2html)
 
