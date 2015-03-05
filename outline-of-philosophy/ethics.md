@@ -174,12 +174,14 @@ SEP
 -   [Deontic Logic](http://plato.stanford.edu/entries/logic-deontic/)
 -   [Game Theory](http://plato.stanford.edu/entries/game-theory/)
 -   [Evolutionary Game Theory](http://plato.stanford.edu/entries/game-evolutionary/)
+-   [Existential](http://plato.stanford.edu/entries/existentialism/)
 -   [Game Theory and Ethics](http://plato.stanford.edu/entries/game-ethics/)
 -   [The Grounds of Moral Status](http://plato.stanford.edu/entries/grounds-moral-status/)
 -   [Hume](http://plato.stanford.edu/entries/hume/)
 -   [Hume's Moral Philosophy](http://plato.stanford.edu/entries/hume-moral/)
 -   [Moore's Moral Philosophy](http://plato.stanford.edu/entries/moore-moral/)
 -   [Moral Anti-Realism](http://plato.stanford.edu/entries/moral-anti-realism/)
+-   [Moral Cognitivism vs. Non-Cognitivism](http://plato.stanford.edu/entries/moral-cognitivism/)
 -   [Moral Dilemmas](http://plato.stanford.edu/entries/moral-dilemmas/)
 -   [Moral Non-Naturalism](http://plato.stanford.edu/entries/moral-non-naturalism/)
 -   [Moral Realism](http://plato.stanford.edu/entries/moral-realism/)
@@ -198,6 +200,9 @@ IEP
 -   [Evolutionary Ethics](http://www.iep.utm.edu/evol-eth/)
 -   [Evolutionary Psychology](http://www.iep.utm.edu/evol-psy/)
 -   [Game Theory](http://www.iep.utm.edu/game-th/)
+-   [MacIntyre, The Political Philosophy of](http://www.iep.utm.edu/p-macint/)
+-   [Nihilism](http://www.iep.utm.edu/nihilism/)
+-   [Non-Cognitivism in Ethics](http://www.iep.utm.edu/non-cogn/)
 
 RationalWiki
 
@@ -205,8 +210,11 @@ RationalWiki
 
 Wikipedia
 
+-   [Emotivism](http://en.wikipedia.org/wiki/Emotivism)
+-   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
 -   [Is-ought problem](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
+-   [Nihilism](http://en.wikipedia.org/wiki/Nihilism)
 
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
