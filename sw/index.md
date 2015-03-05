@@ -15,7 +15,7 @@ markdown-memo
 rdrshell
 --------------------------------------------------------------------------------
 
-<a href="https://github.com/rreece/rdrshell"
+<a href="https://github.com/rreece/rdrshell">
 <img src="img/rdrshell-bash-prompt.png" alt="rdrshell-bash-prompt" width="700"/>
 </a>
 
@@ -25,7 +25,7 @@ rdrshell
 root2html
 --------------------------------------------------------------------------------
 
-<a href="https://github.com/rreece/root2html"
+<a href="https://github.com/rreece/root2html">
 <img src="img/root2html-example.png" alt="root2html-example" width="700"/>
 </a>
 
