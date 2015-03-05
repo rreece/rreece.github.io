@@ -4,7 +4,7 @@ Ryan's projects on github
 I'm a physicist working with the ATLAS experiment at CERN.
 Read more about me and my research [here](http://reece.scipp.ucsc.edu/).
 
-This page discribes some projects I'm developing at github.
+This page discribes some projects I'm [developing at github](https://github.com/rreece).
 
 
 markdown-memo
