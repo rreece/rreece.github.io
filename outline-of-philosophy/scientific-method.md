@@ -200,11 +200,16 @@ IEP
 Wikipedia
 
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
+-   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
+-   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
 -   [Science](http://en.wikipedia.org/wiki/Science)
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
--   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
--   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
+-   [Scientism](http://en.wikipedia.org/wiki/Scientism)
+
+RationalWiki
+
+-   [Scientism](http://rationalwiki.org/wiki/Scientism)
 
 Other
 
