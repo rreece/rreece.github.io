@@ -9,7 +9,11 @@ markdown-memo
 <img src="img/markdown-example.png" alt="markdown-example" width="700"/>
 </a>
 
-[[github](https://github.com/rreece/markdown-memo)]
+This package makes it very easy to use pandoc to compile notes taken in Markdown
+into valid xhtml or to a pdf via LaTeX. It basically consists of a Makefile and
+some html/css templates.  You can use it to make simple webpages like this one.
+
+-   [github.com/rreece/markdown-memo](https://github.com/rreece/markdown-memo)
 
 
 rdrshell
@@ -19,7 +23,9 @@ rdrshell
 <img src="img/rdrshell-bash-prompt.png" alt="rdrshell-bash-prompt" width="700"/>
 </a>
 
-[[github](https://github.com/rreece/rdrshell)]
+An extensible organization of my bash dotfiles.
+
+-   [github.com/rreece/rdrshell](https://github.com/rreece/rdrshell)
 
 
 root2html
@@ -29,6 +35,8 @@ root2html
 <img src="img/root2html-example.png" alt="root2html-example" width="700"/>
 </a>
 
-[[github](https://github.com/rreece/root2html)]
+A script that generates html and images from a ROOT file of TCanvases.
+
+-   [github.com/rreece/root2html](https://github.com/rreece/root2html)
 
 
