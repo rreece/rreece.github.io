@@ -12,7 +12,8 @@ markdown-memo
 This package makes it very easy to use [pandoc](http://johnmacfarlane.net/pandoc/)
 to compile notes taken in [Markdown](http://daringfireball.net/projects/markdown/syntax)
 into valid xhtml or to a pdf via LaTeX. It basically consists of a Makefile and
-some html/css templates.  You can use it to make simple webpages like this one.
+some html/css templates.  You can use it to make simple webpages like this one
+(for example, by writing [this simple markdown](ttps://github.com/rreece/sw/index.md)).
 
 -   [github.com/rreece/markdown-memo](https://github.com/rreece/markdown-memo)
 
