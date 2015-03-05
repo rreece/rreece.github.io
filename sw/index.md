@@ -6,7 +6,7 @@ markdown-memo
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/markdown-memo">
-<img src="img/markdown-example.png" alt="markdown-example" width="500"/>
+<img src="img/markdown-example.png" alt="markdown-example" width="600"/>
 </a>
 
 This package makes it very easy to use pandoc to compile notes taken in Markdown
@@ -20,7 +20,7 @@ rdrshell
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/rdrshell">
-<img src="img/rdrshell-bash-prompt.png" alt="rdrshell-bash-prompt" width="500"/>
+<img src="img/rdrshell-bash-prompt.png" alt="rdrshell-bash-prompt" width="600"/>
 </a>
 
 An extensible organization of my bash dotfiles.
@@ -33,7 +33,7 @@ root2html
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/root2html">
-<img src="img/root2html-example.png" alt="root2html-example" width="500"/>
+<img src="img/root2html-example.png" alt="root2html-example" width="600"/>
 </a>
 
 A script that generates html and images from a ROOT file of TCanvases
