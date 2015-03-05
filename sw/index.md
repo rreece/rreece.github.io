@@ -24,6 +24,7 @@ rdrshell
 </a>
 
 An extensible organization of my bash dotfiles.
+I check this out everywhere I work.
 
 -   [github.com/rreece/rdrshell](https://github.com/rreece/rdrshell)
 
@@ -35,7 +36,8 @@ root2html
 <img src="img/root2html-example.png" alt="root2html-example" width="700"/>
 </a>
 
-A script that generates html and images from a ROOT file of TCanvases.
+A script that generates html and images from a ROOT file of TCanvases
+for visualizing a list of plots.
 
 -   [github.com/rreece/root2html](https://github.com/rreece/root2html)
 
