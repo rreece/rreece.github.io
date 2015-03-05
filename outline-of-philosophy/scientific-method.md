@@ -199,7 +199,7 @@ IEP
 
 Wikipedia
 
--   [Hume's fork](http://en.wikipedia.org/wiki/Hume's_fork)
+-   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
 -   [Science](http://en.wikipedia.org/wiki/Science)
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
