@@ -199,10 +199,16 @@ IEP
 
 Wikipedia
 
+-   [Hume's fork](http://en.wikipedia.org/wiki/Hume's_fork)
 -   [Science](http://en.wikipedia.org/wiki/Science)
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
+
+Other
+
+-   [mathmonism.com/humesfork.html](http://www.mathmonism.com/humesfork.html)
+-   [Philosophy StackExchange: Is Hume's Fork self-refuting?](http://philosophy.stackexchange.com/questions/7609/is-humes-fork-self-refuting)
 
 
