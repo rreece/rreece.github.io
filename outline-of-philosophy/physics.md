@@ -152,17 +152,22 @@ Links and Encyclopedia Articles
 SEP
 
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
+-   [Emergent Properties](http://plato.stanford.edu/entries/properties-emergent/)
 -   [Quantum Entanglement and Information](http://plato.stanford.edu/entries/qt-entangle/)
 
 IEP
 
--   TODO
+-   [Emergence](http://www.iep.utm.edu/emergenc/)
 
 Wikipedia
 
 -   [Particle physics and representation theory](http://en.wikipedia.org/wiki/Particle_physics_and_representation_theory)
 -   [Representation theory](http://en.wikipedia.org/wiki/Representation_theory)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
+
+RationalWiki
+
+-   [Emergence](http://rationalwiki.org/wiki/Emergence)
 
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
