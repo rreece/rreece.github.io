@@ -185,6 +185,7 @@ SEP
 -   [Hume](http://plato.stanford.edu/entries/hume/)
 -   [Laws of Nature](http://plato.stanford.edu/entries/laws-of-nature/)
 -   [Miracles](http://plato.stanford.edu/entries/miracles/)
+-   [Naturalized epistemology](http://plato.stanford.edu/entries/epistemology-naturalized/)
 -   [Popper](http://plato.stanford.edu/entries/popper/)
 -   [Science and Pseudo-Science](http://plato.stanford.edu/entries/pseudo-science/)
 
@@ -200,6 +201,7 @@ IEP
 Wikipedia
 
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
+-   [Naturalized epistemology](http://en.wikipedia.org/wiki/Naturalized_epistemology)
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
 -   [Science](http://en.wikipedia.org/wiki/Science)
