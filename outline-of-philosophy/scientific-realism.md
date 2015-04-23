@@ -617,6 +617,10 @@ Wikipedia
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 -   [Speculative Realism](http://en.wikipedia.org/wiki/Speculative_realism)
 
+Other
+
+-   ["Philosophy Returns to the Real World"](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) -  Crispin Sartwell
+
 
 
   [^Carnap-1950]: Carnap, R. (1950). Empiricism, Semantics, and Ontology.
