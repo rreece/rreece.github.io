@@ -177,6 +177,7 @@ IEP
 Wikipedia
 
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy))
+-   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 
 Other
 
