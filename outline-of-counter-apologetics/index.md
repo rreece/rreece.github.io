@@ -58,4 +58,8 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 -   [quran.com](http://quran.com/)
 -   [The Skeptic's Annotated Bible](http://skepticsannotatedbible.com/)
 
+### Misc
+
+-   [De rerum natura)](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius](http://en.wikipedia.org/wiki/Lucretius)
+
 
