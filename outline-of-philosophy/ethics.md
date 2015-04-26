@@ -211,6 +211,8 @@ RationalWiki
 Wikipedia
 
 -   [Emotivism](http://en.wikipedia.org/wiki/Emotivism)
+-   [Ethical naturalism](http://en.wikipedia.org/wiki/Ethical_naturalism)
+-   [Ethical non-naturalism](http://en.wikipedia.org/wiki/Ethical_non-naturalism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
 -   [Is-ought problem](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
