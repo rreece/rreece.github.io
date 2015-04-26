@@ -199,12 +199,14 @@ SEP
 -   [The Natural Law Tradition in Ethics](http://plato.stanford.edu/entries/natural-law-ethics/)
 -   [Naturalism in Legal Philosophy](http://plato.stanford.edu/entries/lawphil-naturalism/)
 -   [Russell's Moral Philosophy](http://plato.stanford.edu/entries/russell-moral/)
+-   [Utilitarianism, The History of](http://plato.stanford.edu/entries/utilitarianism-history/)
 -   [Value Theory](http://plato.stanford.edu/entries/value-theory/)
 -   [Virture Ethics](http://plato.stanford.edu/entries/ethics-virtue/)
 
 IEP
 
 -   [Collective Moral Responsibility](http://www.iep.utm.edu/collecti/)
+-   [Consequentialism](http://www.iep.utm.edu/conseque/)
 -   [Ethics](http://www.iep.utm.edu/ethics/)
 -   [Evolutionary Ethics](http://www.iep.utm.edu/evol-eth/)
 -   [Evolutionary Psychology](http://www.iep.utm.edu/evol-psy/)
@@ -217,13 +219,16 @@ IEP
 -   [Moral Relativism](http://www.iep.utm.edu/moral-re/)
 -   [Nihilism](http://www.iep.utm.edu/nihilism/)
 -   [Non-Cognitivism in Ethics](http://www.iep.utm.edu/non-cogn/)
+-   [Utilitarianism, Act and Rule](http://www.iep.utm.edu/util-a-r/)
 
 RationalWiki
 
+-   [Consequentialism](http://rationalwiki.org/wiki/Consequentialism)
 -   [Hume's law](http://rationalwiki.org/wiki/Hume%27s_law)
 
 Wikipedia
 
+-   [Consequentialism](http://en.wikipedia.org/wiki/Consequentialism)
 -   [Emotivism](http://en.wikipedia.org/wiki/Emotivism)
 -   [Ethical naturalism](http://en.wikipedia.org/wiki/Ethical_naturalism)
 -   [Ethical non-naturalism](http://en.wikipedia.org/wiki/Ethical_non-naturalism)
