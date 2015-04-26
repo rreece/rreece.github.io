@@ -196,7 +196,7 @@ IEP
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
--   [The Safety Condition for Knowledge](http://www.iep.utm.edu/safety-c/)
+-   [Safety Condition for Knowledge, The](http://www.iep.utm.edu/safety-c/)
 -   [William of Ockham (Occam, 1280-1349 CE)](http://www.iep.utm.edu/ockham/)
 
 Wikipedia

@@ -180,7 +180,7 @@ SEP
 -   [Evolutionary Game Theory](http://plato.stanford.edu/entries/game-evolutionary/)
 -   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
 -   [Game Theory and Ethics](http://plato.stanford.edu/entries/game-ethics/)
--   [The Grounds of Moral Status](http://plato.stanford.edu/entries/grounds-moral-status/)
+-   [Grounds of Moral Status](http://plato.stanford.edu/entries/grounds-moral-status/)
 -   [Hume](http://plato.stanford.edu/entries/hume/)
 -   [Hume's Moral Philosophy](http://plato.stanford.edu/entries/hume-moral/)
 -   [Moore's Moral Philosophy](http://plato.stanford.edu/entries/moore-moral/)
@@ -196,7 +196,7 @@ SEP
 -   [Moral Responsibility](http://plato.stanford.edu/entries/moral-responsibility/)
 -   [Moral Sentimentalism](http://plato.stanford.edu/entries/moral-sentimentalism/)
 -   [Moral Skepticism](http://plato.stanford.edu/entries/skepticism-moral/)
--   [The Natural Law Tradition in Ethics](http://plato.stanford.edu/entries/natural-law-ethics/)
+-   [Natural Law Tradition in Ethics](http://plato.stanford.edu/entries/natural-law-ethics/)
 -   [Naturalism in Legal Philosophy](http://plato.stanford.edu/entries/lawphil-naturalism/)
 -   [Russell's Moral Philosophy](http://plato.stanford.edu/entries/russell-moral/)
 -   [Utilitarianism, The History of](http://plato.stanford.edu/entries/utilitarianism-history/)
@@ -244,7 +244,7 @@ Wikipedia
 -   [Nihilism](http://en.wikipedia.org/wiki/Nihilism)
 -   [Rousseau, Jean-Jacques](http://en.wikipedia.org/wiki/Jean-Jacques_Rousseau)
 -   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
--   [The Social Contract](http://en.wikipedia.org/wiki/The_Social_Contract)
+-   [Social Contract, The](http://en.wikipedia.org/wiki/The_Social_Contract)
 -   [Utilitarianism](http://en.wikipedia.org/wiki/Utilitarianism)
 
 
