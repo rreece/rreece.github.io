@@ -234,6 +234,8 @@ Wikipedia
 -   [Ethical non-naturalism](http://en.wikipedia.org/wiki/Ethical_non-naturalism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
 -   [Is-ought problem](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
+-   [Moral Realism](http://en.wikipedia.org/wiki/Moral_realism)
+-   [Moral Relativism](http://en.wikipedia.org/wiki/Moral_relativism)
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
 -   [Nihilism](http://en.wikipedia.org/wiki/Nihilism)
 -   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
