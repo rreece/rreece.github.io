@@ -203,6 +203,7 @@ IEP
 -   [Ludwig Wittgenstein: Later Philosophy of Mathematics](http://www.iep.utm.edu/wittmath/)
 -   [Mathematical Platonism](http://www.iep.utm.edu/mathplat/)
 -   [Models](http://www.iep.utm.edu/models/)
+-   [Model-Theoretic Conceptions of Logical Consequence](http://www.iep.utm.edu/logcon-m/)
 -   [Poincarés Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)
 -   [Process Philosophy](http://www.iep.utm.edu/processp/)
 -   [Relational Models Theory](http://www.iep.utm.edu/r-models/)

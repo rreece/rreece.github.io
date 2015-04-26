@@ -183,6 +183,8 @@ SEP
 -   [Moral Anti-Realism](http://plato.stanford.edu/entries/moral-anti-realism/)
 -   [Moral Cognitivism vs. Non-Cognitivism](http://plato.stanford.edu/entries/moral-cognitivism/)
 -   [Moral Dilemmas](http://plato.stanford.edu/entries/moral-dilemmas/)
+-   [Moral Motivation](http://plato.stanford.edu/entries/moral-motivation/)
+-   [Moral Naturalism](http://plato.stanford.edu/entries/naturalism-moral/)
 -   [Moral Non-Naturalism](http://plato.stanford.edu/entries/moral-non-naturalism/)
 -   [Moral Realism](http://plato.stanford.edu/entries/moral-realism/)
 -   [Moral Reasoning](http://plato.stanford.edu/entries/reasoning-moral/)
@@ -191,16 +193,24 @@ SEP
 -   [Moral Sentimentalism](http://plato.stanford.edu/entries/moral-sentimentalism/)
 -   [Moral Skepticism](http://plato.stanford.edu/entries/skepticism-moral/)
 -   [The Natural Law Tradition in Ethics](http://plato.stanford.edu/entries/natural-law-ethics/)
+-   [Naturalism in Legal Philosophy](http://plato.stanford.edu/entries/lawphil-naturalism/)
 -   [Russell's Moral Philosophy](http://plato.stanford.edu/entries/russell-moral/)
 -   [Value Theory](http://plato.stanford.edu/entries/value-theory/)
 -   [Virture Ethics](http://plato.stanford.edu/entries/ethics-virtue/)
 
 IEP
 
+-   [Collective Moral Responsibility](http://www.iep.utm.edu/collecti/)
+-   [Ethics](http://www.iep.utm.edu/ethics/)
 -   [Evolutionary Ethics](http://www.iep.utm.edu/evol-eth/)
 -   [Evolutionary Psychology](http://www.iep.utm.edu/evol-psy/)
 -   [Game Theory](http://www.iep.utm.edu/game-th/)
 -   [MacIntyre, The Political Philosophy of](http://www.iep.utm.edu/p-macint/)
+-   [Moral Egalitarianism](http://www.iep.utm.edu/moral-eg/)
+-   [Moral Epistemology](http://www.iep.utm.edu/mor-epis/)
+-   [Moral Particularism](http://www.iep.utm.edu/morlpat/)
+-   [Moral Realism](http://www.iep.utm.edu/moralrea/)
+-   [Moral Relativism](http://www.iep.utm.edu/moral-re/)
 -   [Nihilism](http://www.iep.utm.edu/nihilism/)
 -   [Non-Cognitivism in Ethics](http://www.iep.utm.edu/non-cogn/)
 

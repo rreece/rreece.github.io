@@ -158,6 +158,7 @@ SEP
 -   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
 -   [Natural Law Theories](http://plato.stanford.edu/entries/natural-law-theories/)
 -   [Naturalism](http://plato.stanford.edu/entries/naturalism/)
+-   [Naturalism in Legal Philosophy](http://plato.stanford.edu/entries/lawphil-naturalism/)
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
 -   [Quine](http://plato.stanford.edu/entries/quine/)
