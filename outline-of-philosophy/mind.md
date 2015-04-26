@@ -127,6 +127,8 @@ IEP
 
 Wikipedia
 
+-   [Behaviorism](http://en.wikipedia.org/wiki/Behaviorism)
+-   [Consciousness](http://en.wikipedia.org/wiki/Consciousness)
 -   [Philosophy of mind](http://en.wikipedia.org/wiki/Philosophy_of_mind)
 
 Others
