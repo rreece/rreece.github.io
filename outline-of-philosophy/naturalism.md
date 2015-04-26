@@ -177,7 +177,7 @@ IEP
 
 Wikipedia
 
--   [De rerum natura)](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius](http://en.wikipedia.org/wiki/Lucretius)
+-   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius](http://en.wikipedia.org/wiki/Lucretius)
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy))
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 
