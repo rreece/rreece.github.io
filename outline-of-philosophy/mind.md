@@ -103,6 +103,7 @@ SEP
 
 -   [Behaviorism](http://plato.stanford.edu/entries/behaviorism/)
 -   [Dualism](http://plato.stanford.edu/entries/dualism/)
+-   [Eliminative Materialism](http://plato.stanford.edu/entries/materialism-eliminative/)
 -   [Elisabeth, Princess of Bohemia](http://plato.stanford.edu/entries/elisabeth-bohemia/)
 -   [Functionalism](http://plato.stanford.edu/entries/functionalism/)
 -   [Mental Representation](http://plato.stanford.edu/entries/mental-representation/)
@@ -122,6 +123,7 @@ IEP
 -   [Immortality](http://www.iep.utm.edu/immortal/)
 -   [Intentionality](http://www.iep.utm.edu/intentio/)
 -   [Internalism and Externalism in the Philosophy of Mind and Language](http://www.iep.utm.edu/int-ex-ml/)
+-   [Knowledge Argument Against Physicalism](http://www.iep.utm.edu/know-arg/)
 -   [Objects of Perception](http://www.iep.utm.edu/perc-obj/)
 -   [Qualia](http://www.iep.utm.edu/qualia/)
 -   [Sellars: Philosophy of Mind](http://www.iep.utm.edu/sellars/)
@@ -134,6 +136,7 @@ Wikipedia
 
 -   [Behaviorism](http://en.wikipedia.org/wiki/Behaviorism)
 -   [Consciousness](http://en.wikipedia.org/wiki/Consciousness)
+-   [Knowledge argument](http://en.wikipedia.org/wiki/Knowledge_argument)
 -   [Philosophy of mind](http://en.wikipedia.org/wiki/Philosophy_of_mind)
 
 Others
