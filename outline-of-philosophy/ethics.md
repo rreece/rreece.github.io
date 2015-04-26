@@ -79,6 +79,8 @@ TODO.
 
 I know I'm a consequentialist and a moral realist, but those are broad categories.
 
+<!---
+
 This sounds legit to me so far:
 [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
 
@@ -117,6 +119,8 @@ This sounds legit to me so far:
     but not a naive one at ~7m
     Sent at 2:50 PM on Sunday
     me:  https://www.youtube.com/watch?v=gj2zx1kEjKM
+
+-->
 
 ----------------------
 
@@ -227,6 +231,7 @@ Wikipedia
 -   [Is-ought problem](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
 -   [Nihilism](http://en.wikipedia.org/wiki/Nihilism)
+-   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
 
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
