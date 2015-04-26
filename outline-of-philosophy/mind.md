@@ -101,8 +101,10 @@ Links and Encyclopedia Articles
 
 SEP
 
+-   [Behaviorism](http://plato.stanford.edu/entries/behaviorism/)
 -   [Dualism](http://plato.stanford.edu/entries/dualism/)
 -   [Elisabeth, Princess of Bohemia](http://plato.stanford.edu/entries/elisabeth-bohemia/)
+-   [Functionalism](http://plato.stanford.edu/entries/functionalism/)
 -   [Mental Representation](http://plato.stanford.edu/entries/mental-representation/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
 -   [Representational Theories of Consciousness](http://plato.stanford.edu/entries/consciousness-representational/)
@@ -110,6 +112,7 @@ SEP
 IEP
 
 -   [Animal Minds](http://www.iep.utm.edu/ani-mind/)
+-   [Behaviorism](http://www.iep.utm.edu/behavior/)
 -   [Consciousness](http://www.iep.utm.edu/consciou/)
 -   [Dualism](http://www.iep.utm.edu/dualism/)
 -   [Epiphenomenalism](http://www.iep.utm.edu/epipheno/)
