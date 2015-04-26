@@ -158,14 +158,14 @@ Links and Encyclopedia Articles
 SEP
 
 -   [Analysis](http://plato.stanford.edu/entries/analysis/)
--   [The Analytic/Synthetic Distinction](http://plato.stanford.edu/entries/analytic-synthetic/)
+-   [Analytic/Synthetic Distinction](http://plato.stanford.edu/entries/analytic-synthetic/)
 -   [Brouwer](http://plato.stanford.edu/entries/brouwer/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 -   [Constructive Mathematics](http://plato.stanford.edu/entries/mathematics-constructive/)
 -   [Explanation in Mathematics](http://plato.stanford.edu/entries/mathematics-explanation/)
 -   [Fictionalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/fictionalism-mathematics/)
 -   [Frege](http://plato.stanford.edu/entries/frege/)
--   [The Frege-Hilbert Controversy](http://plato.stanford.edu/entries/frege-hilbert/)
+-   [Frege-Hilbert Controversy](http://plato.stanford.edu/entries/frege-hilbert/)
 -   [Frege's Theorem and Foundations for Arithmetic](http://plato.stanford.edu/entries/frege-theorem/)
 -   [Formalism](http://plato.stanford.edu/entries/formalism-mathematics/)
 -   [G&ouml;del](http://plato.stanford.edu/entries/goedel/)
@@ -195,17 +195,17 @@ SEP
 
 IEP
 
--   [The Applicability of Mathematics](http://www.iep.utm.edu/math-app/)
+-   [Applicability of Mathematics](http://www.iep.utm.edu/math-app/)
 -   [Fictionalism in the Philosophy of Mathematics](http://www.iep.utm.edu/mathfict/)
 -   [Game Theory](http://www.iep.utm.edu/game-th/)
--   [The Indispensability Argument in the Philosophy of Mathematics](http://www.iep.utm.edu/indimath/)
--   [Jules Henri Poincaré(1854-1912)](http://www.iep.utm.edu/poincare/)
+-   [Indispensability Argument in the Philosophy of Mathematics](http://www.iep.utm.edu/indimath/)
+-   [Jules Henri Poincar&eacute; (1854-1912)](http://www.iep.utm.edu/poincare/)
 -   [Ludwig Wittgenstein: Later Philosophy of Mathematics](http://www.iep.utm.edu/wittmath/)
 -   [Mathematical Platonism](http://www.iep.utm.edu/mathplat/)
 -   [Mathematical Structuralism](http://www.iep.utm.edu/m-struct/)
 -   [Models](http://www.iep.utm.edu/models/)
 -   [Model-Theoretic Conceptions of Logical Consequence](http://www.iep.utm.edu/logcon-m/)
--   [Poincarés Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)
+-   [Poincar&eacute;s Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)
 -   [Process Philosophy](http://www.iep.utm.edu/processp/)
 -   [Relational Models Theory](http://www.iep.utm.edu/r-models/)
 -   [Universals](http://www.iep.utm.edu/universa/)
