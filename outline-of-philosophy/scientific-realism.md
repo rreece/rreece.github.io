@@ -626,6 +626,8 @@ Wikipedia
 -   [Quine's paradox](http://en.wikipedia.org/wiki/Quine%27s_paradox)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 -   [Speculative Realism](http://en.wikipedia.org/wiki/Speculative_realism)
+-   [Sellars, Roy Wood](http://en.wikipedia.org/wiki/Roy_Wood_Sellars)
+-   [Sellars, Wilfrid](http://en.wikipedia.org/wiki/Wilfrid_Sellars)
 
 Other
 
