@@ -200,7 +200,9 @@ IEP
 
 Wikipedia
 
+-   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
+-   [Models of scientific inquiry](http://en.wikipedia.org/wiki/Models_of_scientific_inquiry)
 -   [Naturalized epistemology](http://en.wikipedia.org/wiki/Naturalized_epistemology)
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
