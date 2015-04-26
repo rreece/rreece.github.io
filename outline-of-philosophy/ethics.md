@@ -174,6 +174,7 @@ Links and Encyclopedia Articles
 
 SEP
 
+-   [Civic Humanism](http://plato.stanford.edu/entries/humanism-civic/)
 -   [Consequentialism](http://plato.stanford.edu/entries/consequentialism/)
 -   [Doing vs. Allowing Harm](http://plato.stanford.edu/entries/doing-allowing/)
 -   [Deontic Logic](http://plato.stanford.edu/entries/logic-deontic/)
@@ -209,6 +210,7 @@ IEP
 
 -   [Collective Moral Responsibility](http://www.iep.utm.edu/collecti/)
 -   [Consequentialism](http://www.iep.utm.edu/conseque/)
+-   [Egoism](http://www.iep.utm.edu/egoism/)
 -   [Ethics](http://www.iep.utm.edu/ethics/)
 -   [Evolutionary Ethics](http://www.iep.utm.edu/evol-eth/)
 -   [Evolutionary Psychology](http://www.iep.utm.edu/evol-psy/)
@@ -233,6 +235,7 @@ RationalWiki
 
 Wikipedia
 
+-   [Absurdism](http://en.wikipedia.org/wiki/Absurdism)
 -   [Consequentialism](http://en.wikipedia.org/wiki/Consequentialism)
 -   [Emotivism](http://en.wikipedia.org/wiki/Emotivism)
 -   [Ethical naturalism](http://en.wikipedia.org/wiki/Ethical_naturalism)
