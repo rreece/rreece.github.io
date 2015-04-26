@@ -102,6 +102,7 @@ Links and Encyclopedia Articles
 SEP
 
 -   [Dualism](http://plato.stanford.edu/entries/dualism/)
+-   [Elisabeth, Princess of Bohemia](http://plato.stanford.edu/entries/elisabeth-bohemia/)
 -   [Mental Representation](http://plato.stanford.edu/entries/mental-representation/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
 -   [Representational Theories of Consciousness](http://plato.stanford.edu/entries/consciousness-representational/)
