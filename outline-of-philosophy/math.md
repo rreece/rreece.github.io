@@ -220,6 +220,7 @@ Wikipedia
 
 
 
+
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
   [^Carnap-1955]:       Carnap, R. (1955). The Logical Foundations of the Unity of Science.
   [^van-Frassen-1980]:  van Frassen, B. (1980). Arguments Concerning Scientific Realism.

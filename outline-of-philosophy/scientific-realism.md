@@ -603,17 +603,22 @@ IEP
 
 Wikipedia
 
+-   [Confirmation holism](http://en.wikipedia.org/wiki/Confirmation_holism)
 -   [Criticism of science](http://en.wikipedia.org/wiki/Criticism_of_science)
 -   [Duhem-Quine Thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
 -   [Essentially contested concept](http://en.wikipedia.org/wiki/Essentially_contested_concept)
+-   [Indeterminacy of translation](http://en.wikipedia.org/wiki/Indeterminacy_of_translation)
+-   [Inscrutability of reference](http://en.wikipedia.org/wiki/Inscrutability_of_reference)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Object-oriented ontology](http://en.wikipedia.org/wiki/Object-oriented_ontology)
+-   [Pessimistic induction](http://en.wikipedia.org/wiki/Pessimistic_induction)
 -   [Philosophical Realism](http://en.wikipedia.org/wiki/Philosophical_realism)
 -   [Positivism](http://en.wikipedia.org/wiki/Positivism)
 -   [Positivism Dispute](http://en.wikipedia.org/wiki/Positivism_dispute)
 -   [Postpositivism](http://en.wikipedia.org/wiki/Postpositivism)
 -   [Post-structuralism](http://en.wikipedia.org/wiki/Post-structuralism)
 -   [Quine](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
+-   [Quine's paradox](http://en.wikipedia.org/wiki/Quine%27s_paradox)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 -   [Speculative Realism](http://en.wikipedia.org/wiki/Speculative_realism)
 
