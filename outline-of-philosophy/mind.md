@@ -120,6 +120,9 @@ IEP
 -   [Objects of Perception](http://www.iep.utm.edu/perc-obj/)
 -   [Qualia](http://www.iep.utm.edu/qualia/)
 -   [Sellars: Philosophy of Mind](http://www.iep.utm.edu/sellars/)
+-   [Solipsism and the Problem of Other Minds](http://www.iep.utm.edu/solipsis/)
+-   [Supervenience and Determination](http://www.iep.utm.edu/superven/)
+-   [Supervenience and Mind](http://www.iep.utm.edu/supermin/)
 -   [Theory of Mind](http://www.iep.utm.edu/theomind/)
 
 Wikipedia

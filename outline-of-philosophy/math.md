@@ -202,6 +202,7 @@ IEP
 -   [Jules Henri Poincaré(1854-1912)](http://www.iep.utm.edu/poincare/)
 -   [Ludwig Wittgenstein: Later Philosophy of Mathematics](http://www.iep.utm.edu/wittmath/)
 -   [Mathematical Platonism](http://www.iep.utm.edu/mathplat/)
+-   [Mathematical Structuralism](http://www.iep.utm.edu/m-struct/)
 -   [Models](http://www.iep.utm.edu/models/)
 -   [Model-Theoretic Conceptions of Logical Consequence](http://www.iep.utm.edu/logcon-m/)
 -   [Poincarés Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)

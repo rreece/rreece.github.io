@@ -596,6 +596,7 @@ IEP
 -   [Quine's Philosophy of Science](http://www.iep.utm.edu/quine-sc/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Reichenbach](http://www.iep.utm.edu/reichenb/)
+-   [Sellars, Roy Wood](http://www.iep.utm.edu/sella-rw/)
 -   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)
 -   [Scientific Change](http://www.iep.utm.edu/s-change/)
 -   [Vienna Circle](http://www.iep.utm.edu/viennacr/)
