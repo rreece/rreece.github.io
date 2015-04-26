@@ -175,6 +175,7 @@ Links and Encyclopedia Articles
 SEP
 
 -   [Consequentialism](http://plato.stanford.edu/entries/consequentialism/)
+-   [Doing vs. Allowing Harm](http://plato.stanford.edu/entries/doing-allowing/)
 -   [Deontic Logic](http://plato.stanford.edu/entries/logic-deontic/)
 -   [Game Theory](http://plato.stanford.edu/entries/game-theory/)
 -   [Evolutionary Game Theory](http://plato.stanford.edu/entries/game-evolutionary/)
@@ -220,6 +221,7 @@ IEP
 -   [Moral Relativism](http://www.iep.utm.edu/moral-re/)
 -   [Nihilism](http://www.iep.utm.edu/nihilism/)
 -   [Non-Cognitivism in Ethics](http://www.iep.utm.edu/non-cogn/)
+-   [Ross, William David](http://www.iep.utm.edu/ross-wd/)
 -   [Utilitarianism, Act and Rule](http://www.iep.utm.edu/util-a-r/)
 
 RationalWiki
@@ -245,6 +247,7 @@ Wikipedia
 -   [Rousseau, Jean-Jacques](http://en.wikipedia.org/wiki/Jean-Jacques_Rousseau)
 -   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
 -   [Social Contract, The](http://en.wikipedia.org/wiki/The_Social_Contract)
+-   [Trolley problem](http://en.wikipedia.org/wiki/Trolley_problem)
 -   [Utilitarianism](http://en.wikipedia.org/wiki/Utilitarianism)
 
 
