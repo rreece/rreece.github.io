@@ -181,23 +181,23 @@ Links and Encyclopedia Articles
 SEP
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
--   [Francis Bacon](http://plato.stanford.edu/entries/francis-bacon/)
--   [Hume](http://plato.stanford.edu/entries/hume/)
+-   [Bacon, Francis (1561-1626)](http://plato.stanford.edu/entries/francis-bacon/)
+-   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
 -   [Laws of Nature](http://plato.stanford.edu/entries/laws-of-nature/)
 -   [Miracles](http://plato.stanford.edu/entries/miracles/)
 -   [Naturalized epistemology](http://plato.stanford.edu/entries/epistemology-naturalized/)
--   [Popper](http://plato.stanford.edu/entries/popper/)
+-   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
 -   [Science and Pseudo-Science](http://plato.stanford.edu/entries/pseudo-science/)
 
 IEP
 
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
--   [Hume](http://www.iep.utm.edu/hume-cau/)
+-   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Safety Condition for Knowledge, The](http://www.iep.utm.edu/safety-c/)
--   [William of Ockham (Occam, 1280-1349 CE)](http://www.iep.utm.edu/ockham/)
+-   [William of Ockham (1280-1349)](http://www.iep.utm.edu/ockham/)
 
 Wikipedia
 
