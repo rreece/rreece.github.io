@@ -152,7 +152,7 @@ Links and Encyclopedia Articles
 
 SEP
 
--   [Hume](http://plato.stanford.edu/entries/hume/)
+-   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
 -   [Miracles](http://plato.stanford.edu/entries/miracles/)
 -   [Monism](http://plato.stanford.edu/entries/monism/)
 -   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
@@ -161,12 +161,12 @@ SEP
 -   [Naturalism in Legal Philosophy](http://plato.stanford.edu/entries/lawphil-naturalism/)
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
--   [Quine](http://plato.stanford.edu/entries/quine/)
+-   [Quine, W.V.O. (1908-2000)](http://plato.stanford.edu/entries/quine/)
 
 IEP
 
 -   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
--   [Hume](http://www.iep.utm.edu/hume-cau/)
+-   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
 -   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
@@ -179,10 +179,12 @@ IEP
 Wikipedia
 
 -   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius](http://en.wikipedia.org/wiki/Lucretius)
+-   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy))
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
+-   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 
-Other
+Others
 
 -   [Naturalism.org](http://www.naturalism.org/)
     -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/history.htm)
