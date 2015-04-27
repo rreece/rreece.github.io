@@ -205,7 +205,7 @@ IEP
 -   [Fictionalism in the Philosophy of Mathematics](http://www.iep.utm.edu/mathfict/)
 -   [Game Theory](http://www.iep.utm.edu/game-th/)
 -   [Indispensability Argument in the Philosophy of Mathematics](http://www.iep.utm.edu/indimath/)
--   [Jules Henri Poincar&eacute; (1854-1912)](http://www.iep.utm.edu/poincare/)
+-   [Poincar&eacute;, Jules Henri (1854-1912)](http://www.iep.utm.edu/poincare/)
 -   [Ludwig Wittgenstein: Later Philosophy of Mathematics](http://www.iep.utm.edu/wittmath/)
 -   [Mathematical Platonism](http://www.iep.utm.edu/mathplat/)
 -   [Mathematical Structuralism](http://www.iep.utm.edu/m-struct/)
