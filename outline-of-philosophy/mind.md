@@ -104,7 +104,7 @@ SEP
 -   [Behaviorism](http://plato.stanford.edu/entries/behaviorism/)
 -   [Dualism](http://plato.stanford.edu/entries/dualism/)
 -   [Eliminative Materialism](http://plato.stanford.edu/entries/materialism-eliminative/)
--   [Elisabeth, Princess of Bohemia](http://plato.stanford.edu/entries/elisabeth-bohemia/)
+-   [Elisabeth, Princess of Bohemia (1618-1680)](http://plato.stanford.edu/entries/elisabeth-bohemia/)
 -   [Functionalism](http://plato.stanford.edu/entries/functionalism/)
 -   [Mental Representation](http://plato.stanford.edu/entries/mental-representation/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
