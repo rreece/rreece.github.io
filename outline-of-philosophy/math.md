@@ -20,6 +20,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Nominalism](#nominalism)
     1.  [Structuralism](#structuralism)
     1.  [Naturalism](#naturalism)
+    1.  [Language](#language)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
@@ -102,6 +103,11 @@ Realist?
 TODO.
 
 See the outline on [Naturalism](naturalism.html).
+
+
+### Language
+
+TODO.
 
 
 My Thoughts
@@ -205,7 +211,7 @@ IEP
 -   [Mathematical Structuralism](http://www.iep.utm.edu/m-struct/)
 -   [Models](http://www.iep.utm.edu/models/)
 -   [Model-Theoretic Conceptions of Logical Consequence](http://www.iep.utm.edu/logcon-m/)
--   [Poincar&eacute;s Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)
+-   [Poincar&eacute;'s Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)
 -   [Process Philosophy](http://www.iep.utm.edu/processp/)
 -   [Relational Models Theory](http://www.iep.utm.edu/r-models/)
 -   [Universals](http://www.iep.utm.edu/universa/)
