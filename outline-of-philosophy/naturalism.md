@@ -178,7 +178,7 @@ IEP
 
 Wikipedia
 
--   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius](http://en.wikipedia.org/wiki/Lucretius)
+-   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy))
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
