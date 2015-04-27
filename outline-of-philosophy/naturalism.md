@@ -165,6 +165,7 @@ SEP
 
 IEP
 
+-   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
 -   [Hume](http://www.iep.utm.edu/hume-cau/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)

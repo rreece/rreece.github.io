@@ -261,6 +261,12 @@ Wikipedia
 -   [Trolley problem](http://en.wikipedia.org/wiki/Trolley_problem)
 -   [Utilitarianism](http://en.wikipedia.org/wiki/Utilitarianism)
 
+Others
+
+-   ["Why Our Children Don't Think There Are Moral Facts"](http://opinionator.blogs.nytimes.com/2015/03/02/why-our-children-dont-think-there-are-moral-facts/) -  Justin McBrayer
+-   ["The Kids Are All Right: Have we made our children into moral monsters?"](http://www.slate.com/articles/health_and_science/science/2015/03/does_common_core_teach_children_to_be_immoral_as_justin_mcbrayer_says_meta.html) - Daniel Engber
+
+
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
   [^Carnap-1955]:       Carnap, R. (1955). The Logical Foundations of the Unity of Science.
