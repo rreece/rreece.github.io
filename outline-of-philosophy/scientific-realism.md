@@ -577,7 +577,7 @@ SEP
 IEP
 
 -   [Brain in a Vat Argument](http://www.iep.utm.edu/brainvat/)
--   [Carnap](http://www.iep.utm.edu/carnap/)
+-   [Carnap, Rudolf (1891-1970)](http://www.iep.utm.edu/carnap/)
 -   [Confirmation and Induction](http://www.iep.utm.edu/conf-ind/)
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
 -   [Evidence](http://www.iep.utm.edu/evidence/)
@@ -593,15 +593,15 @@ IEP
 -   [Ordinary Language Philosophy](http://www.iep.utm.edu/ord-lang/)
 -   [Phenomenology and Natural Science](http://www.iep.utm.edu/phenomsc/)
 -   [Popper: Critical Rationalism](http://www.iep.utm.edu/cr-ratio/)
--   [Poincar&#233;](http://www.iep.utm.edu/poincare/)
+-   [Poincar&#233;, Jules Henri (1854-1912)](http://www.iep.utm.edu/poincare/)
 -   [Quine's Philosophy of Science](http://www.iep.utm.edu/quine-sc/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
--   [Reichenbach](http://www.iep.utm.edu/reichenb/)
--   [Sellars, Roy Wood](http://www.iep.utm.edu/sella-rw/)
+-   [Reichenbach, Hans (1891-1953)](http://www.iep.utm.edu/reichenb/)
+-   [Sellars, Roy Wood (1880-1973)](http://www.iep.utm.edu/sella-rw/)
 -   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)
 -   [Scientific Change](http://www.iep.utm.edu/s-change/)
 -   [Vienna Circle](http://www.iep.utm.edu/viennacr/)
--   [Wittgenstein](http://www.iep.utm.edu/wittgens/)
+-   [Wittgenstein, Ludwig (1889-1951)](http://www.iep.utm.edu/wittgens/)
 
 Wikipedia
 
@@ -623,12 +623,12 @@ Wikipedia
 -   [Positivism Dispute](http://en.wikipedia.org/wiki/Positivism_dispute)
 -   [Postpositivism](http://en.wikipedia.org/wiki/Postpositivism)
 -   [Post-structuralism](http://en.wikipedia.org/wiki/Post-structuralism)
--   [Quine](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
+-   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Quine's paradox](http://en.wikipedia.org/wiki/Quine%27s_paradox)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 -   [Speculative Realism](http://en.wikipedia.org/wiki/Speculative_realism)
--   [Sellars, Roy Wood](http://en.wikipedia.org/wiki/Roy_Wood_Sellars)
--   [Sellars, Wilfrid](http://en.wikipedia.org/wiki/Wilfrid_Sellars)
+-   [Sellars, Roy Wood (1880-1973)](http://en.wikipedia.org/wiki/Roy_Wood_Sellars)
+-   [Sellars, Wilfrid (1912-1989)](http://en.wikipedia.org/wiki/Wilfrid_Sellars)
 
 Other
 
