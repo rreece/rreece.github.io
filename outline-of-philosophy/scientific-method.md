@@ -208,6 +208,8 @@ Wikipedia
 -   [Naturalized epistemology](http://en.wikipedia.org/wiki/Naturalized_epistemology)
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
+-   [Philosophy of Science](http://en.wikipedia.org/wiki/Philosophy_of_science)
+-   [Pseudoscience](http://en.wikipedia.org/wiki/Pseudoscience)
 -   [Science](http://en.wikipedia.org/wiki/Science)
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
