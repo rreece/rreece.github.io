@@ -645,7 +645,7 @@ Wikipedia
 -   [Vienna Circle](http://en.wikipedia.org/wiki/Vienna_Circle)
 -   [Wittgenstein, Ludwig (1889-1951)](http://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 
-Other
+Others
 
 -   ["Philosophy Returns to the Real World"](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) -  Crispin Sartwell
 
