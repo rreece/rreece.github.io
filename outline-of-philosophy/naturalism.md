@@ -166,6 +166,7 @@ SEP
 IEP
 
 -   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
+-   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)

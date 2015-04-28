@@ -201,6 +201,7 @@ SEP
 
 IEP
 
+-   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
 -   [Applicability of Mathematics](http://www.iep.utm.edu/math-app/)
 -   [Fictionalism in the Philosophy of Mathematics](http://www.iep.utm.edu/mathfict/)
 -   [Game Theory](http://www.iep.utm.edu/game-th/)

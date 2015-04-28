@@ -578,6 +578,7 @@ SEP
 
 IEP
 
+-   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
 -   [Berlin Circle](http://www.iep.utm.edu/berlincr/)
 -   [Brain in a Vat Argument](http://www.iep.utm.edu/brainvat/)
 -   [Carnap, Rudolf (1891-1970)](http://www.iep.utm.edu/carnap/)
@@ -652,6 +653,9 @@ Wikipedia
 Others
 
 -   ["Philosophy Returns to the Real World"](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) -  Crispin Sartwell
+-   [Logical positivism](http://www.philosophybasics.com/branch_logical_positivism.html) - philosophybasics.com
+-   [Logical positivism](http://www.loyno.edu/~folse/logpos.htm) - loyno.edu/~folse/
+-   [Logical positivism](http://rationalwiki.org/wiki/Logical_positivism) - rationalwiki.org
 
 
 
