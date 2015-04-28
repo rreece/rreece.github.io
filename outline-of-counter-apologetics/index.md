@@ -26,6 +26,7 @@ Looking for resources about critiquing faith?  Try these.
 -   [Sam Harris debates Rabi David Wolpe](https://www.youtube.com/watch?v=bN9nlAnkCUY)  -- (1h45m)
 -   [Sam Harris' TED talk: Science can answer moral questions](https://www.youtube.com/watch?v=Hj9oB4zpHww)  -- (24 mins)
 -   [The Atheist Experience](http://www.atheist-experience.com/)  -- TV show with many great episodes
+-   [Christopher Hitchens on global conflict](https://www.youtube.com/watch?v=0M3Nw1D_jp0&feature=youtu.be&t=2181)
 
 Some of these videos are analyzed in these pages [here](videos-analyzed.html).
 
