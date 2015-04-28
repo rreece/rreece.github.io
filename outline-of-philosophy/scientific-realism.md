@@ -637,6 +637,7 @@ Wikipedia
 -   [Pragmatism](http://en.wikipedia.org/wiki/Pragmatism)
 -   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Quine's paradox](http://en.wikipedia.org/wiki/Quine%27s_paradox)
+-   [Reichenbach, Hans (1891-1953)](http://en.wikipedia.org/wiki/Hans_Reichenbach)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 -   [Speculative Realism](http://en.wikipedia.org/wiki/Speculative_realism)
 -   [Sellars, Roy Wood (1880-1973)](http://en.wikipedia.org/wiki/Roy_Wood_Sellars)
