@@ -578,6 +578,7 @@ SEP
 
 IEP
 
+-   [Berlin Circle](http://www.iep.utm.edu/berlincr/)
 -   [Brain in a Vat Argument](http://www.iep.utm.edu/brainvat/)
 -   [Carnap, Rudolf (1891-1970)](http://www.iep.utm.edu/carnap/)
 -   [Confirmation and Induction](http://www.iep.utm.edu/conf-ind/)
@@ -611,6 +612,8 @@ IEP
 
 Wikipedia
 
+-   [Berlin Circle](http://en.wikipedia.org/wiki/Berlin_Circle)
+-   [Carnap, Rudolf (1891-1970)](http://en.wikipedia.org/wiki/Rudolf_Carnap)
 -   [Confirmation holism](http://en.wikipedia.org/wiki/Confirmation_holism)
 -   [Criticism of science](http://en.wikipedia.org/wiki/Criticism_of_science)
 -   [Deductive-nomological model](http://en.wikipedia.org/wiki/Deductive-nomological_model)
@@ -638,6 +641,8 @@ Wikipedia
 -   [Speculative Realism](http://en.wikipedia.org/wiki/Speculative_realism)
 -   [Sellars, Roy Wood (1880-1973)](http://en.wikipedia.org/wiki/Roy_Wood_Sellars)
 -   [Sellars, Wilfrid (1912-1989)](http://en.wikipedia.org/wiki/Wilfrid_Sellars)
+-   [Vienna Circle](http://en.wikipedia.org/wiki/Vienna_Circle)
+-   [Wittgenstein, Ludwig (1889-1951)](http://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 
 Other
 
