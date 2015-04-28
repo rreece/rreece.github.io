@@ -126,6 +126,7 @@ IEP
 -   [Knowledge Argument Against Physicalism](http://www.iep.utm.edu/know-arg/)
 -   [Objects of Perception](http://www.iep.utm.edu/perc-obj/)
 -   [Qualia](http://www.iep.utm.edu/qualia/)
+-   [Relational Models Theory](http://www.iep.utm.edu/r-models/)
 -   [Sellars: Philosophy of Mind](http://www.iep.utm.edu/sellars/)
 -   [Solipsism and the Problem of Other Minds](http://www.iep.utm.edu/solipsis/)
 -   [Supervenience and Determination](http://www.iep.utm.edu/superven/)

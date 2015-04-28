@@ -174,6 +174,8 @@ RationalWiki
 
 -   [Emergence](http://rationalwiki.org/wiki/Emergence)
 
+Others
+
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
   [^Carnap-1955]:       Carnap, R. (1955). The Logical Foundations of the Unity of Science.

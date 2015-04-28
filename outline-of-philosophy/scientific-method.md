@@ -217,7 +217,7 @@ RationalWiki
 
 -   [Scientism](http://rationalwiki.org/wiki/Scientism)
 
-Other
+Others
 
 -   [mathmonism.com/humesfork.html](http://www.mathmonism.com/humesfork.html)
 -   [Philosophy StackExchange: Is Hume's Fork self-refuting?](http://philosophy.stackexchange.com/questions/7609/is-humes-fork-self-refuting)

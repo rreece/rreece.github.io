@@ -226,6 +226,7 @@ Wikipedia
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
 
+Others
 
 
 
