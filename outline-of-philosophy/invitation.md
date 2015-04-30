@@ -14,9 +14,11 @@ epistemology and metaphysics, respectively.
 In our modern information age,
 the evident power of science to elevate our awareness and bring us new
 technological capabilities
-underscores the relevance of a philosophical understanding of science
+underscores the relevance of a philosophical understanding of science.
 Philosophy of science asks if the diverse inquiries called science
 have an underlying, universal, scientific method, and if so, what is it?
+Is science a way of producing knowledge, and if so, are there other
+ways of knowing?
 It asks what should we say of the products of science,
 and in particular, does science make any progress at revealing or approximating
 truth?
