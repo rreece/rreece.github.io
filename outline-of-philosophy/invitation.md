@@ -38,7 +38,10 @@ consists of either or both:
     the scientific method of justifying empirical claims is a route to knowledge,
     if not the chief or only route to knowledge.
     Science should be guiding in what we claim to know.
-2.  an *ontological commitment to the products of science* - 
+2.  *skepticism of a priori metaphysics* -
+    TODO.
+3.  an *ontological commitment to the products of science* - 
+    TODO.
     Science should be guiding in what we claim there is.
 
 
