@@ -197,11 +197,14 @@ IEP
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Safety Condition for Knowledge, The](http://www.iep.utm.edu/safety-c/)
+-   [Simplicity in the philosophy of science](http://www.iep.utm.edu/simplici/)
 -   [William of Ockham (1280-1349)](http://www.iep.utm.edu/ockham/)
 
 Wikipedia
 
 -   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
+-   [History of science](http://en.wikipedia.org/wiki/History_of_science)
+-   [History of the scientific method](http://en.wikipedia.org/wiki/History_of_scientific_method)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
 -   [Models of scientific inquiry](http://en.wikipedia.org/wiki/Models_of_scientific_inquiry)
@@ -210,6 +213,7 @@ Wikipedia
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
 -   [Philosophy of Science](http://en.wikipedia.org/wiki/Philosophy_of_science)
 -   [Pseudoscience](http://en.wikipedia.org/wiki/Pseudoscience)
+-   [Pseudoscience, List of topics characterized as](http://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience)
 -   [Science](http://en.wikipedia.org/wiki/Science)
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)

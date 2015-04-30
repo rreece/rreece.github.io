@@ -12,7 +12,7 @@ Philosophy of science asks if the diverse inqueries called science
 have an underlying, universal, scientific method, and if so, what is it?
 It asks what should we say of the products of science,
 and in particular, does science make any progress at revealing or approximating
-the truth?
+truth?
 
 
 What is naturalism?

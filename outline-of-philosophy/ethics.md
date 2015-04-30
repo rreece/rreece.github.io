@@ -265,6 +265,7 @@ Others
 
 -   ["Why Our Children Don't Think There Are Moral Facts"](http://opinionator.blogs.nytimes.com/2015/03/02/why-our-children-dont-think-there-are-moral-facts/) -  Justin McBrayer
 -   ["The Kids Are All Right: Have we made our children into moral monsters?"](http://www.slate.com/articles/health_and_science/science/2015/03/does_common_core_teach_children_to_be_immoral_as_justin_mcbrayer_says_meta.html) - Daniel Engber
+-   ["Scientism wars: there's an elephant in the room, and its name is Sam Harris"](http://www.theguardian.com/news/oliver-burkeman-s-blog/2013/aug/27/scientism-wars-sam-harris-elephant)
 
 
 
