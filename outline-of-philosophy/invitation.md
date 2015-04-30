@@ -92,5 +92,6 @@ A place to start in the discussion of philosophy of science and naturalism
 ### Other links:
 
 -   [Naturalism.org](http://www.naturalism.org/)
+-   [Positivists.org](http://positivists.org/)
 
 
