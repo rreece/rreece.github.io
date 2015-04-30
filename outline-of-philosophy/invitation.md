@@ -16,12 +16,12 @@ the evident power of science to elevate our awareness and bring us new
 technological capabilities
 underscores the relevance of a philosophical understanding of science.
 Philosophy of science asks: what is science?
-If the diverse inquiries called science
+Do the diverse inquiries called science
 have an underlying, universal, scientific method, and if so, what is it?
 How can we tell science from pseudoscience?
 Is science a way of producing knowledge, and if so, are there other
 ways of knowing?
-It asks: what should we say of the products of science,
+What should we say of the products of science,
 and in particular, does science make any progress at
 revealing or approximating truth?
 Where has science taken us and where is it going?
@@ -36,12 +36,17 @@ A very diverse set of thinkers are often characterized as naturalists or aligned
 with naturalism, at the expense of much clarity in the term, but naturalism
 generally consists of varying degrees of either or both:
 
-1.  *epistemological naturalism* - An epistemic respect for science; a methodological commitment that
-    the scientific method of justifying empirical claims is a route to knowledge,
+1.  *epistemological naturalism* - an epistemic respect for science; a methodological commitment that
+    the [scientific method](http://rreece.github.io/outline-of-philosophy/scientific-method.html)
+    of justifying empirical claims is a route to knowledge,
     if not the chief or only route to knowledge.
     Science should be guiding in what we claim to know.
-2.  *ontological naturalism* - Skepticism of *a priori* metaphysics;
-    possibly an ontological commitment to the products of science.
+2.  *ontological naturalism* - has a variety of claims and interpretations,
+    but they center on the premise that if we have any claim to what is,
+    it better be informed by and consistent with science.
+    It often involves a skepticism of *a priori* metaphysics,
+    and sometimes has further ontological commitments to the products of science,
+    which concerns the debate of [scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html).
     TODO: a rejection of causaly supernatural; a support of monism;
     possibly a support for a kind of scientific realism.
     Science should be guiding in what we claim there is.

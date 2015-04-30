@@ -227,5 +227,6 @@ Others
 
 -   [mathmonism.com/humesfork.html](http://www.mathmonism.com/humesfork.html)
 -   [Philosophy StackExchange: Is Hume's Fork self-refuting?](http://philosophy.stackexchange.com/questions/7609/is-humes-fork-self-refuting)
+-   [Inference to the Best Explanation](http://www.informationphilosopher.com/knowledge/best_explanation.html) - informationphilosopher.com
 
 
