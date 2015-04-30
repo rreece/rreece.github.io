@@ -29,7 +29,7 @@ What is naturalism?
 --------------------------------------------------------------------------------
 
 *Naturalism* is an attitude about how philosophy should be done (a meta-philosophy)
-and about how it relates to science.
+and about how philosophy relates to science.
 A very diverse set of thinkers are often characterized as naturalists or aligned
 with naturalism, at the expense of much clarity in the term, but it generally
 consists of varying degrees of either or both:
