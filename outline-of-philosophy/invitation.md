@@ -55,7 +55,8 @@ generally consists of varying degrees of either or both:
     which can be seen as a claim to a type of monism as opposed to dualism about ontology.
     At least, it is a claim that science should be guiding in what we claim there is.
 
-At its simplest, perhaps naturalism can be summarized as a rejection of *a priori* speculation
+At its simplest, perhaps [naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
+can be summarized as a rejection of *a priori* speculation
 and a support for a science-first philosophy.
 Basically it is an endorsement that science should bootstrap philosophy.
 
