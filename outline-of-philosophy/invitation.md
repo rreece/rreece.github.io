@@ -38,13 +38,14 @@ consists of varying degrees of either or both:
     the scientific method of justifying empirical claims is a route to knowledge,
     if not the chief or only route to knowledge.
     Science should be guiding in what we claim to know.
-2.  *ontological naturalism* - Skepticism of a priori metaphysics;
+2.  *ontological naturalism* - Skepticism of *a priori* metaphysics;
     possibly an ontological commitment to the products of science.
     TODO: a rejection of causaly supernatural; a support of monism;
     possibly a support for a kind of scientific realism.
     Science should be guiding in what we claim there is.
 
-TODO: rejection of a priori speculation and a support for a science-first philosophy.
+TODO: rejection of *a priori* speculation and a support for a science-first philosophy.
+One might say that naturalism is basically the position that science should bootstrap philosophy.
 
 
 A place to start in the discussion of philosophy of science and naturalism
