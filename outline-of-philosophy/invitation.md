@@ -49,6 +49,8 @@ generally consists of varying degrees of either or both:
 TODO: rejection of *a priori* speculation and a support for a science-first philosophy.
 One might say that naturalism is basically the position that science should bootstrap philosophy.
 
+TODO: Hume, Reichenbach, Quine.
+
 
 A place to start in the discussion of philosophy of science and naturalism
 --------------------------------------------------------------------------------
