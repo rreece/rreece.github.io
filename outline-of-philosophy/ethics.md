@@ -229,6 +229,7 @@ IEP
 -   [Moral Relativism](http://www.iep.utm.edu/moral-re/)
 -   [Nihilism](http://www.iep.utm.edu/nihilism/)
 -   [Non-Cognitivism in Ethics](http://www.iep.utm.edu/non-cogn/)
+-   [Personal Identity and Ethics](http://plato.stanford.edu/entries/identity-ethics/)
 -   [Ross, William David (1877-1971)](http://www.iep.utm.edu/ross-wd/)
 -   [Utilitarianism, Act and Rule](http://www.iep.utm.edu/util-a-r/)
 
