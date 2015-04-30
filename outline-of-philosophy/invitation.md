@@ -47,14 +47,22 @@ generally consists of varying degrees of either or both:
     It often involves a skepticism of *a priori* metaphysics,
     and sometimes has further ontological commitments to the products of science,
     which concerns the debate of [scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html).
-    TODO: a rejection of causaly supernatural; a support of monism;
-    possibly a support for a kind of scientific realism.
-    Science should be guiding in what we claim there is.
+    Another claim associated with ontological naturalism and closely
+    related to epistemic naturalism is a rejection of ontologies to which we
+    do not have demonstrable access *i.e.* supernatural entities,
+    which can be seen as a claim to a type of monism as opposed to dualism about ontology.
+    At least, it is a claim that science should be guiding in what we claim there is.
 
 TODO: rejection of *a priori* speculation and a support for a science-first philosophy.
 One might say that naturalism is basically the position that science should bootstrap philosophy.
 
 TODO: David Hume, Hans Reichenbach, Willard V.O. Quine, Wilfrid Sellars.
+
+
+Why should I care?
+--------------------------------------------------------------------------------
+
+TODO.
 
 
 A place to start in the discussion of philosophy of science and naturalism
