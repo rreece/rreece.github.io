@@ -10,7 +10,7 @@ but its concerns have implications as radical as delineating
 *how we arrive at knowledge* and
 *how much if anything can be known about reality*.
 These issues are part of the broader divisions in philosophy:
-epistemology and metaphysics, respectively.
+epistemology (how do we know?) and metaphysics (what exists?), respectively.
 In our modern information age,
 the evident power of science to elevate our awareness and bring us new
 technological capabilities

@@ -134,6 +134,7 @@ The "death" of positivism:
 -   Dewey and Peirce
 -   Rorty and Putnam
 -   Quine
+-   Dennett
 -   Our confidence comes in continuous amounts.
     We might as well act as if a claim with a certain confidence
     is real, however, we really deny realism.
