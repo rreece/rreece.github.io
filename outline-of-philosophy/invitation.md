@@ -55,8 +55,9 @@ generally consists of varying degrees of either or both:
     which can be seen as a claim to a type of monism as opposed to dualism about ontology.
     At least, it is a claim that science should be guiding in what we claim there is.
 
-TODO: rejection of *a priori* speculation and a support for a science-first philosophy.
-One might say that naturalism is basically the position that science should bootstrap philosophy.
+At its simplest, perhaps naturalism can be summarized as a rejection of *a priori* speculation
+and a support for a science-first philosophy.
+Basically it is an endorsement that science should bootstrap philosophy.
 
 TODO: David Hume, Hans Reichenbach, Willard V.O. Quine, Wilfrid Sellars.
 
