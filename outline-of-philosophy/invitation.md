@@ -32,16 +32,14 @@ What is naturalism?
 and about how it relates to science.
 A very diverse set of thinkers are often characterized as naturalists or aligned
 with naturalism, at the expense of much clarity in the term, but it generally
-consists of either or both:
+consists of varying degrees of either or both:
 
-1.  an *epistemic respect for science* - A methodological commitment that
+1.  *epistemological naturalism* - An epistemic respect for science; a methodological commitment that
     the scientific method of justifying empirical claims is a route to knowledge,
     if not the chief or only route to knowledge.
     Science should be guiding in what we claim to know.
-2.  *skepticism of a priori metaphysics* -
-    TODO.
-3.  an *ontological commitment to the products of science* - 
-    TODO.
+2.  *ontological naturalism* - Skepticism of a priori metaphysics;
+    possibly an ontological commitment to the products of science.
     Science should be guiding in what we claim there is.
 
 
