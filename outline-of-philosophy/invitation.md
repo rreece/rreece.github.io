@@ -67,6 +67,8 @@ Why should I care?
 
 TODO.
 
+-   ["Why Do Many Reasonable People Doubt Science?"](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text) - nationalgeographic.com
+
 
 A place to start in the discussion of philosophy of science and naturalism
 --------------------------------------------------------------------------------
