@@ -24,7 +24,7 @@ ways of knowing?
 It asks: what should we say of the products of science,
 and in particular, does science make any progress at
 revealing or approximating truth?
-Where has science taken us and where is it taking us?
+Where has science taken us and where is it going?
 
 
 What is naturalism?
