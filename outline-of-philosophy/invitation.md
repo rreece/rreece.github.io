@@ -6,8 +6,8 @@ What is philosophy of science?
 --------------------------------------------------------------------------------
 
 Philosophy of science may sound like a rather dry and esoteric topic,
-but its concerns have implications as radical as delineating how we arrive at
-knowledge and how much if anything can be known about reality.
+but its concerns have implications as radical as delineating
+*how we arrive at knowledge* and how much if anything can be known about *reality*.
 Philosophy of science asks if the diverse inqueries called science
 have an underlying, universal, scientific method, and if so, what is it?
 It asks what should we say of the products of science,
