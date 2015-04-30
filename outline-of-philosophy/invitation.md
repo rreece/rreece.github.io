@@ -7,8 +7,15 @@ What is philosophy of science?
 
 Philosophy of science may sound like a rather dry and esoteric topic,
 but its concerns have implications as radical as delineating
-*how we arrive at knowledge* and how much if anything can be known about *reality*.
-Philosophy of science asks if the diverse inqueries called science
+*how we arrive at knowledge* and
+*how much if anything can be known about reality*.
+These issues are part of the broader divisions in philosophy:
+epistemology and metaphysics, respectively.
+In our modern information age,
+the evident power of science to elevate our awareness and bring us new
+technological capabilities
+underscores the relevance of a philosophical understanding of science
+Philosophy of science asks if the diverse inquiries called science
 have an underlying, universal, scientific method, and if so, what is it?
 It asks what should we say of the products of science,
 and in particular, does science make any progress at revealing or approximating
