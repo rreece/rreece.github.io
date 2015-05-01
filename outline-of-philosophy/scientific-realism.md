@@ -607,6 +607,7 @@ IEP
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Reichenbach, Hans (1891-1953)](http://www.iep.utm.edu/reichenb/)
 -   [Rorty, Richard (1931-2007)](http://www.iep.utm.edu/rorty/)
+-   [Russell's Metaphysics](http://www.iep.utm.edu/russ-met/)
 -   [Scientific Change](http://www.iep.utm.edu/s-change/)
 -   [Sellars, Roy Wood (1880-1973)](http://www.iep.utm.edu/sella-rw/)
 -   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)

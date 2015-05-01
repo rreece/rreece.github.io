@@ -167,6 +167,7 @@ SEP
 IEP
 
 -   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
+-   [Atheism](http://www.iep.utm.edu/atheism/)
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
@@ -175,8 +176,10 @@ IEP
 -   [Natural Law Theories](http://plato.stanford.edu/entries/natural-law-theories/)
 -   [Quine's Philosophy of Science](http://www.iep.utm.edu/quine-sc/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
+-   [Russell's Metaphysics](http://www.iep.utm.edu/russ-met/)
 -   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)
 -   [Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2)
+-   [Spinoza, Benedict de (1632-1677): Metaphysics](http://www.iep.utm.edu/spinoz-m/)
 
 Wikipedia
 
