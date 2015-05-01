@@ -208,6 +208,7 @@ Wikipedia
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
 -   [Models of scientific inquiry](http://en.wikipedia.org/wiki/Models_of_scientific_inquiry)
+-   [Natural philosophy](http://en.wikipedia.org/wiki/Natural_philosophy)
 -   [Naturalized epistemology](http://en.wikipedia.org/wiki/Naturalized_epistemology)
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
@@ -218,6 +219,8 @@ Wikipedia
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
 -   [Scientism](http://en.wikipedia.org/wiki/Scientism)
+-   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
+-   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
 
 RationalWiki
 
