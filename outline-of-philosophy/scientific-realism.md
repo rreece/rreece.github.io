@@ -598,6 +598,7 @@ IEP
 -   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
 -   [Natural Law](http://www.iep.utm.edu/natlaw/)
 -   [Ordinary Language Philosophy](http://www.iep.utm.edu/ord-lang/)
+-   [Objectivity](http://www.iep.utm.edu/objectiv/)
 -   [Peirce, Charles Sanders (1839-1914): Pragmatism](http://www.iep.utm.edu/peircepr/)
 -   [Phenomenology and Natural Science](http://www.iep.utm.edu/phenomsc/)
 -   [Popper: Critical Rationalism](http://www.iep.utm.edu/cr-ratio/)
