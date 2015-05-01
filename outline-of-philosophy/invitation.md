@@ -71,7 +71,7 @@ TODO.
 We live in a time where science has clear leverage on shaping our future,
 while at the same time,
 basic disagreements about the nature of science and
-its implication on our worldviews
+its implications for a worldview
 are central to many of our cultural and politcal divisions.
 
 -   ["Why Do Many Reasonable People Doubt Science?"](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text) - nationalgeographic.com
