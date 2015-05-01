@@ -630,6 +630,7 @@ Wikipedia
 -   [Kuhn, Thomas (1922-1996)](http://en.wikipedia.org/wiki/Thomas_Kuhn)
 -   [Logical positivism](http://en.wikipedia.org/wiki/Logical_positivism)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
+-   [Metaphysics](http://en.wikipedia.org/wiki/Metaphysics)
 -   [Object-oriented ontology](http://en.wikipedia.org/wiki/Object-oriented_ontology)
 -   [Peirce, Charles Sanders (1839-1914)](http://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 -   [Pessimistic induction](http://en.wikipedia.org/wiki/Pessimistic_induction)
