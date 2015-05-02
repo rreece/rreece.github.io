@@ -64,6 +64,7 @@ TODO: expand this before it is immediately misunderstood.
 TODO: Philosophy is continuous with science (Quine).
 
 TODO: David Hume, Hans Reichenbach, W.V.O. Quine, Wilfrid Sellars.
+
 TODO: Naturalism shares much in common with schools of thought surrounding positivism,
 through its respect for science and skepticism of *a priori* metaphysics,
 but naturalism is arguably a more general distinction,
