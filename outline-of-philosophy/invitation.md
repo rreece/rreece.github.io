@@ -48,7 +48,7 @@ generally consists of varying degrees of either or both:
     but they center on the premise that if we have any claim to what is,
     it better be informed by and consistent with science.
     It often involves a skepticism of *a priori* metaphysics,
-    and sometimes has further ontological commitments to the products of science,
+    and sometimes has further qualified ontological commitments to the products of science,
     which concerns the debate of [scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html).
     Another claim associated with ontological naturalism and closely
     related to epistemological naturalism is a rejection of ontologies to which we
