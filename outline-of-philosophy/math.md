@@ -230,6 +230,8 @@ Wikipedia
 
 Others
 
+-   [Quine's Paradox and G&ouml;del's Theorem](http://richardzach.org/2015/03/30/quines-paradox-and-godels-theorem/) - Richard Zach
+
 
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
