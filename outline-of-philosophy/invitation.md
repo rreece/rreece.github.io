@@ -117,7 +117,7 @@ A place to start in the discussion of philosophy of science and naturalism
 -   Frigg, R. & Votsis, I. (2011). ["Everything you always wanted to know about structural realism but were afraid to ask".](docs/2011.Frigg-Votsis.Everything-you-always-wanted-to-know-about-structural-realism-but-were-afraid-to-ask.pdf) -- structural realist
 
 
-### Review article of the philosophy of math:
+### Review article on the philosophy of math:
 
 -   Snapper, E. (1979). ["The Three Crises in Mathematics: Logicism, Intuitionism, Formalism".](docs/1979.Snapper.three-crises-in-mathematics.pdf)
 
