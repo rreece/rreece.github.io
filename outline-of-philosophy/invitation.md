@@ -41,7 +41,8 @@ generally consists of varying degrees of either or both:
     a methodological commitment to
     the [scientific method](http://rreece.github.io/outline-of-philosophy/scientific-method.html)
     of justifying empirical claims as a route to knowledge,
-    if not the chief or only route to knowledge.
+    if not the chief or perhaps (with a sufficiently broad definition)
+    the only route to knowledge.
     Science should be guiding in what we claim to know.
 2.  *ontological naturalism* - has a variety of claims and interpretations,
     but they center on the premise that if we have any claim to what is,
