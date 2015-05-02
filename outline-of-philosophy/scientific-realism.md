@@ -96,6 +96,8 @@ but we have no ontological commitments to them.
 
 ### Positivism
 
+All statements that can't be empirically verified are meaningless.
+
 -   anti-realist
 -   Comte
 -   The Vienna Circle
