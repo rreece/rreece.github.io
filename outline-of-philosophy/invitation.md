@@ -63,7 +63,7 @@ Roughly, naturalism is an endorsement that science should bootstrap philosophy.
 TODO: expand this before it is immediately misunderstood.
 TODO: Philosophy is continuous with science (Quine).
 
-TODO: David Hume, Hans Reichenbach, Willard V.O. Quine, Wilfrid Sellars.
+TODO: David Hume, Hans Reichenbach, W.V.O. Quine, Wilfrid Sellars.
 
 
 Why should I care?
