@@ -58,7 +58,7 @@ generally consists of varying degrees of either or both:
 At its simplest, perhaps [naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
 can be summarized as a rejection of *a priori* speculation
 and a support for a science-first philosophy.
-Basically it is an endorsement that science should bootstrap philosophy.
+Roughly, naturalism is an endorsement that science should bootstrap philosophy.
 
 TODO: David Hume, Hans Reichenbach, Willard V.O. Quine, Wilfrid Sellars.
 
@@ -76,6 +76,15 @@ are central to many of our cultural and politcal divisions.
 
 -   ["Why Do Many Reasonable People Doubt Science?"](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text) - nationalgeographic.com
 
+Who do I want to reach with this argument?
+
+-   Anyone interested in the engagement of science and philosophy.
+-   Science skeptics and anti-naturalists of one form or another that see science
+    as just one of many competing claims to knowledge and the capability of
+    describing reality.
+-   Allies in illucidating the demarcation of what science is,
+    and what sorts of claims it justifies.
+    
 
 A place to start in the discussion of philosophy of science and naturalism
 --------------------------------------------------------------------------------
