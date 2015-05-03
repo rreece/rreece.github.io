@@ -118,6 +118,8 @@ TODO.
 
 ### Scientific Knowledge and Realism
 
+TODO.
+
 -   JTB-G.  Systematic uncertanties.  Gettier cases.  Failed justification.
 -   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
 -   Ontological implications of science.
@@ -289,6 +291,7 @@ Wikipedia
 -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
 -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 -   [Empircism](http://en.wikipedia.org/wiki/Empiricism)
+-   [Epistemology](http://en.wikipedia.org/wiki/Epistemology)
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
 -   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
 -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
@@ -296,6 +299,7 @@ Wikipedia
 -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
 -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
 -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
+-   [Gettier problem](http://en.wikipedia.org/wiki/Gettier_problem)
 -   [History of science](http://en.wikipedia.org/wiki/History_of_science)
 -   [History of the scientific method](http://en.wikipedia.org/wiki/History_of_scientific_method)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
@@ -308,6 +312,7 @@ Wikipedia
 -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
 -   [Natural philosophy](http://en.wikipedia.org/wiki/Natural_philosophy)
 -   [Naturalized epistemology](http://en.wikipedia.org/wiki/Naturalized_epistemology)
+-   [Neyman-Pearson lemma](http://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma)
 -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
@@ -320,6 +325,7 @@ Wikipedia
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
 -   [Scientism](http://en.wikipedia.org/wiki/Scientism)
+-   [Systematic error](http://en.wikipedia.org/wiki/Systematic_error)
 -   [Timeline of the history of the scientific method](http://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
 -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
