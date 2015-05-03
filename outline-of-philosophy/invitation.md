@@ -59,7 +59,7 @@ generally consists of varying degrees of either or both:
 At its simplest, perhaps [naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
 can be summarized as a rejection of *a priori* speculation
 and a support for a science-first philosophy.
-Roughly, naturalism is an endorsement that science should bootstrap philosophy,
+Roughly, naturalism is an endorsement that science should bootstrap philosophy.
 It does not mean that science comes prior to the philosophy of the scientific method itself,
 but once science is actively producing knowledge,
 naturalism says that the way we should think about the world
