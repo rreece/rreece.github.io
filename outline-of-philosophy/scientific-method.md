@@ -19,9 +19,7 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [Statistical Measurement](#statistical-measurement)
     1.  [Scientific Knowledge](#scientific-knowledge)
     1.  [Scientific Realism](#scientific-realism)
-    1.  [Naturalism](#naturalism)
-    1.  [Reductionism](#reductionism)
-    1.  [Monism](#monism)
+    1.  [Naturalism, Reductionism, and Monism](#naturalism-reductionism-and-monism)
     1.  [Pseudoscience](#pseudoscience)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
@@ -152,27 +150,18 @@ See the outline on [scientific realism](scientific-realism.html).
 
 TODO.
 
-See the outline on [Naturalism](naturalism.html).
-
-Scientism.
-
-
-### Reductionism
-
-TODO.
-
-
-### Monism
-
-TODO.
+-   See the outline on [Naturalism](naturalism.html).
+-   Scientism.
+-   Reductionism
+-   Monism
 
 
 ### Pseudoscience
 
 TODO.
 
-The demarcation problem.  Bad justification.
-
+-   The demarcation problem.
+-   Bad justification.
 -   [James Ladyman on Pseudoscience and Bullshit](https://www.youtube.com/watch?v=32ZaTKa2IRg)
 
 
