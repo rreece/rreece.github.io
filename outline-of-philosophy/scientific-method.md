@@ -59,7 +59,7 @@ Issues and Positions
     -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
     -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
     -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
-    -   [Faraday, Michael](http://en.wikipedia.org/wiki/Michael_Faraday)
+    -   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
     -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
     -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
