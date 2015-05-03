@@ -39,7 +39,8 @@ Issues and Positions
 TODO.
 
 -   Coming out of scholasticism
--   Early modernt philosophy
+-   Debates over the foundations of epistemology
+-   Early modern philosophy
 -   Note the Enlightenment
 -   Skepticism
 
