@@ -49,7 +49,7 @@ Issues and Positions
     -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
     -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
     -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
-    -   [Ren&eacute; Descartes (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+    -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
     -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
     -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
 -   Becoming more advanced
@@ -287,6 +287,7 @@ Wikipedia
 -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
 -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
+-   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 -   [Empircism](http://en.wikipedia.org/wiki/Empiricism)
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
 -   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
@@ -315,7 +316,6 @@ Wikipedia
 -   [Plato's problem](http://en.wikipedia.org/wiki/Plato%27s_Problem) from Noam Chomsky 
 -   [Pseudoscience](http://en.wikipedia.org/wiki/Pseudoscience)
 -   [Pseudoscience, List of topics characterized as](http://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience)
--   [Ren&eacute; Descartes (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 -   [Science](http://en.wikipedia.org/wiki/Science)
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
