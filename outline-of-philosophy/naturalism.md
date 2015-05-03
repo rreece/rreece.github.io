@@ -61,6 +61,16 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+TODO: While promoting the careful gathering of empirical information,
+naturalism is not against (largely non-empirical) rational pursuits like mathematics.
+Indeed some naturalist may even see logic and mathematics as scientific pursuits
+of *a priori* truths.
+
+TODO: Naturalism shares much in common with schools of thought surrounding positivism,
+through its respect for science and skepticism of *a priori* metaphysics,
+but naturalism is a more general distinction,
+being a more much longer thread throughout the history of philosophy and science.
+
 
 ### Natural Kinds
 

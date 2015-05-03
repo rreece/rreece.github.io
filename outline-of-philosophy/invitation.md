@@ -59,20 +59,16 @@ generally consists of varying degrees of either or both:
 At its simplest, perhaps [naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
 can be summarized as a rejection of *a priori* speculation
 and a support for a science-first philosophy.
-Roughly, naturalism is an endorsement that science should bootstrap philosophy.
+Roughly, naturalism is an endorsement that science should bootstrap philosophy,
+It does not mean that science comes prior to the philosophy of the scientific method itself,
+but once science is actively producing knowledge,
+naturalism says that the way we should think about the world
+and the new questions we ask about it should be informed by science.
 
-While promoting the careful gathering of empirical information,
-naturalism is not against (largely non-empirical) rational pursuits like mathematics.
-Indeed some naturalist may even see logic and mathematics as scientific pursuits
-of *a priori* truths.
 TODO: expand this before it is immediately misunderstood.
 TODO: Philosophy is continuous with science (Quine).
 TODO: David Hume, Hans Reichenbach, W.V.O. Quine, Wilfrid Sellars.
 
-TODO: Naturalism shares much in common with schools of thought surrounding positivism,
-through its respect for science and skepticism of *a priori* metaphysics,
-but naturalism is a more general distinction,
-being a more much longer thread throughout the history of philosophy and science.
 
 
 Why should I care?
