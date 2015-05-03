@@ -57,7 +57,7 @@ Empiricists:
 -   George Berkeley (1685-1753)
 -   David Hume (1711-1776)
 
-Other movers:
+Other important sythesizers:
 
 -   Isaac Newton (1642-1727)
 -   Immanuel Kant (1724-1804)
