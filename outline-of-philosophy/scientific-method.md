@@ -140,10 +140,9 @@ The Stopped Clock:
 
 TODO.
 
-Unless we have a collective conspiracy,
-probablistically justifying assumptions of uniformity.
-
-See the outline on [scientific realism](scientific-realism.html).
+-   See the outline on [scientific realism](scientific-realism.html).
+-   Unless we have a collective conspiracy, probablistically justifying assumptions of uniformity.
+-   Ontological implications of science.
 
 
 ### Naturalism, Reductionism, and Monism
