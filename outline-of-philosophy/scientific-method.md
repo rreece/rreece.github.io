@@ -12,7 +12,7 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
 **Contents:**
 
 -   [Issues and Positions](#issues-and-positions)
-    1.  [History of Science](#history_of_science)
+    1.  [History of Science](#history-of-science)
     1.  [Empiricism vs Rationalism](#rationalism-vs-empiricism)
     1.  [Is there a universal scientific method?](#is-there-a-universal-scientific-method)
     1.  [Abduction](#abduction)
