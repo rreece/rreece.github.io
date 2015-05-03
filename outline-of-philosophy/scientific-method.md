@@ -310,6 +310,7 @@ Wikipedia
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
 -   [Philosophy of Science](http://en.wikipedia.org/wiki/Philosophy_of_science)
+-   [Plato's problem](http://en.wikipedia.org/wiki/Plato%27s_Problem) from Noam Chomsky 
 -   [Pseudoscience](http://en.wikipedia.org/wiki/Pseudoscience)
 -   [Pseudoscience, List of topics characterized as](http://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience)
 -   [Ren&eacute; Descartes (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
