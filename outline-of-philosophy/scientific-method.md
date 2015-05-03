@@ -146,7 +146,7 @@ probablistically justifying assumptions of uniformity.
 See the outline on [scientific realism](scientific-realism.html).
 
 
-### Naturalism
+### Naturalism, Reductionism, and Monism
 
 TODO.
 
