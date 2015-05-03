@@ -118,7 +118,11 @@ TODO.
 
 ### Scientific Knowledge and Realism
 
-JTB-G.  Systematic uncertanties.  Gettier cases.  Failed justification.
+-   JTB-G.  Systematic uncertanties.  Gettier cases.  Failed justification.
+-   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
+-   Ontological implications of science.
+-   See the outline on [scientific realism](scientific-realism.html).
+-   Unless we have a collective conspiracy, probablistically justifying assumptions of uniformity.
 
 <img src="img/knowledge.png" alt="Knowledge = JTB - G" title="Knowledge = JTB - G" width="700"/>
 
@@ -131,12 +135,6 @@ The Stopped Clock:
 >   But unbeknownst to you, the clock stopped exactly twelve hours ago.
 
 -- from Russell's "Human Knowledge: Its Scope & Limits"
-
--   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
-
--   Ontological implications of science.
--   See the outline on [scientific realism](scientific-realism.html).
--   Unless we have a collective conspiracy, probablistically justifying assumptions of uniformity.
 
 
 ### Naturalism, Reductionism, and Monism
