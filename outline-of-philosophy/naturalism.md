@@ -179,7 +179,7 @@ IEP
 -   [Russell's Metaphysics](http://www.iep.utm.edu/russ-met/)
 -   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)
 -   [Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2)
--   [Spinoza, Benedict de (1632-1677): Metaphysics](http://www.iep.utm.edu/spinoz-m/)
+-   [Spinoza, Baruch (1632-1677): Metaphysics](http://www.iep.utm.edu/spinoz-m/)
 
 Wikipedia
 

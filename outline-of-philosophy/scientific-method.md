@@ -235,6 +235,7 @@ IEP
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Safety Condition for Knowledge, The](http://www.iep.utm.edu/safety-c/)
 -   [Simplicity in the philosophy of science](http://www.iep.utm.edu/simplici/)
+-   [Spinoza, Baruch (1632-1677): Metaphysics](http://www.iep.utm.edu/spinoz-m/)
 -   [William of Ockham (1280-1349)](http://www.iep.utm.edu/ockham/)
 
 Wikipedia
