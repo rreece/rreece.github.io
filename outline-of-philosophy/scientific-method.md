@@ -205,7 +205,7 @@ Annotated Bibliography
 
 #### 6. Of Probability
 
-#### 7. Of the Idea of necessary Connection
+#### 7. Of the Idea of necessary Connexion
 
 #### 8. Of Liberty and Necessity
 
