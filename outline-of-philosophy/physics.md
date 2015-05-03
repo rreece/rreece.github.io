@@ -158,6 +158,7 @@ SEP
 
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 -   [Emergent Properties](http://plato.stanford.edu/entries/properties-emergent/)
+-   [Identity and Individuality in Quantum Theory](http://plato.stanford.edu/entries/qt-idind/)
 -   [Quantum Entanglement and Information](http://plato.stanford.edu/entries/qt-entangle/)
 
 IEP

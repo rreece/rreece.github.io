@@ -12,8 +12,7 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
 **Contents:**
 
 -   [Issues and Positions](#issues-and-positions)
-    1.  [Skepticism](#skepticism)
-    1.  [Empiricism](#empiricism)
+    1.  [Empiricism](#rationalism-vs-empiricism)
     1.  [Is there a universal scientific method?](#is-there-a-universal-scientific-method)
     1.  [Scientific Knowledge](#scientific-knowledge)
     1.  [Scientific Realism](#scientific-realism)
@@ -35,16 +34,33 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
 Issues and Positions
 --------------------------------------------------------------------------------
 
-### Skepticism
-
-Note the Enlightenment.
+### Rationalism vs Empiricism
 
 TODO.
 
+-   Coming out of scholasticism
+-   Early modernt philosophy
+-   Note the Enlightenment
+-   Skepticism
 
-### Empiricism
+Rationalists:
 
-TODO.
+-   Ren&eacute; Descartes (1596-1650)
+-   Baruch Spinoza (1632-1677)
+-   Gottfried Wilhelm Leibniz (1646-1716)
+
+Empiricists:
+
+-   Francis Bacon (1561-1626)
+-   Thomas Hobbes (1588-1679)
+-   John Locke (1632-1704)
+-   George Berkeley (1685-1753)
+-   David Hume (1711-1776)
+
+Other movers:
+
+-   Isaac Newton (1642-1727)
+-   Immanuel Kant (1724-1804)
 
 
 ### Is there a universal scientific method?
@@ -182,13 +198,29 @@ SEP
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
 -   [Bacon, Francis (1561-1626)](http://plato.stanford.edu/entries/francis-bacon/)
+-   [Berkeley, George (1685-1753)](http://plato.stanford.edu/entries/berkeley/)
+-   [Descartes, Ren&eacute; (1596-1650)](http://plato.stanford.edu/entries/descartes/)
+-   [Descartes' Epistemology](http://plato.stanford.edu/entries/descartes-epistemology/)
+-   [Hobbes, Thomas (1588-1679)](http://plato.stanford.edu/entries/hobbes/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
+-   [Identity of Indiscernibles](http://plato.stanford.edu/entries/identity-indiscernible/)
 -   [Induction, The problem of](http://plato.stanford.edu/entries/induction-problem/)
+-   [Kant, Immanuel (1724-1804)](http://plato.stanford.edu/entries/kant/)
+-   [Kant's Critique of Metaphysics](http://plato.stanford.edu/entries/kant-metaphysics/)
+-   [Kant's Account of Reason](http://plato.stanford.edu/entries/kant-reason/)
 -   [Laws of Nature](http://plato.stanford.edu/entries/laws-of-nature/)
+-   [Leibniz, Gottfried Wilhelm (1646-1716)](http://plato.stanford.edu/entries/leibniz/)
+-   [Leibniz's Philosophy of Physics](http://plato.stanford.edu/entries/leibniz-physics/)
+-   [Leibniz's Modal Metaphysics](http://plato.stanford.edu/entries/leibniz-modal/)
+-   [Locke, John (1632-1704)](http://plato.stanford.edu/entries/locke/)
+-   [Locke's Philosophy of Science](http://plato.stanford.edu/entries/locke-philosophy-science/)
 -   [Miracles](http://plato.stanford.edu/entries/miracles/)
 -   [Naturalized epistemology](http://plato.stanford.edu/entries/epistemology-naturalized/)
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
+-   [Principle of Sufficient Reason](http://plato.stanford.edu/entries/sufficient-reason/)
+-   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Science and Pseudo-Science](http://plato.stanford.edu/entries/pseudo-science/)
+-   [Spinoza, Baruch (1632-1677)](http://plato.stanford.edu/entries/spinoza/)
 
 IEP
 
@@ -204,6 +236,7 @@ IEP
 Wikipedia
 
 -   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
+-   [Empircism](http://en.wikipedia.org/wiki/Empiricism)
 -   [History of science](http://en.wikipedia.org/wiki/History_of_science)
 -   [History of the scientific method](http://en.wikipedia.org/wiki/History_of_scientific_method)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
