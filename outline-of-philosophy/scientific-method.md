@@ -15,13 +15,13 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [History of Science](#history_of_science)
     1.  [Empiricism vs Rationalism](#rationalism-vs-empiricism)
     1.  [Is there a universal scientific method?](#is-there-a-universal-scientific-method)
+    1.  [Abduction](#abduction)
+    1.  [Statistical Measurement](#statistical-measurement)
     1.  [Scientific Knowledge](#scientific-knowledge)
     1.  [Scientific Realism](#scientific-realism)
     1.  [Naturalism](#naturalism)
     1.  [Reductionism](#reductionism)
     1.  [Monism](#monism)
-    1.  [Abduction](#abduction)
-    1.  [Statistical Measurement](#statistical-measurement)
     1.  [Pseudoscience](#pseudoscience)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
@@ -100,6 +100,19 @@ Other important sythesizers:
 TODO.
 
 
+### Abduction
+
+Natural kinds.  TODO.
+
+
+### Statistical Measurement
+
+-   Neyman-Pearson lemma
+-   Feldman-Cousins confidence intervals
+
+TODO.
+
+
 ### Scientific Knowledge
 
 JTB-G.  Systematic uncertanties.  Gettier cases.  Failed justification.
@@ -144,19 +157,6 @@ TODO.
 
 
 ### Monism
-
-TODO.
-
-
-### Abduction
-
-Natural kinds.  TODO.
-
-
-### Statistical Measurement
-
--   Neyman-Pearson lemma
--   Feldman-Cousins confidence intervals
 
 TODO.
 
