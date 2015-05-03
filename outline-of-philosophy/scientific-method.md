@@ -17,8 +17,7 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [Is there a universal scientific method?](#is-there-a-universal-scientific-method)
     1.  [Abduction](#abduction)
     1.  [Statistical Measurement](#statistical-measurement)
-    1.  [Scientific Knowledge](#scientific-knowledge)
-    1.  [Scientific Realism](#scientific-realism)
+    1.  [Scientific Knowledge and Realism](#scientific-knowledge-and-realism)
     1.  [Naturalism, Reductionism, and Monism](#naturalism-reductionism-and-monism)
     1.  [Pseudoscience](#pseudoscience)
 -   [My Thoughts](#my-thoughts)
@@ -117,7 +116,7 @@ TODO.
 -   Feldman-Cousins confidence intervals
 
 
-### Scientific Knowledge
+### Scientific Knowledge and Realism
 
 JTB-G.  Systematic uncertanties.  Gettier cases.  Failed justification.
 
@@ -135,14 +134,9 @@ The Stopped Clock:
 
 -   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
 
-
-### Scientific Realism
-
-TODO.
-
+-   Ontological implications of science.
 -   See the outline on [scientific realism](scientific-realism.html).
 -   Unless we have a collective conspiracy, probablistically justifying assumptions of uniformity.
--   Ontological implications of science.
 
 
 ### Naturalism, Reductionism, and Monism
