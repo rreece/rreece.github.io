@@ -66,9 +66,9 @@ naturalism says that the way we should think about the world
 and the new questions we ask about it should be informed by science.
 
 TODO: expand this before it is immediately misunderstood.
-TODO: Philosophy is continuous with science (Quine).
 TODO: David Hume, Hans Reichenbach, W.V.O. Quine, Wilfrid Sellars.
-
+TODO: Philosophy is continuous with science (Quine).
+TODO: Philosophy is a nursery for budding sciences.
 
 
 Why should I care?
