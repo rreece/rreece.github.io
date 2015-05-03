@@ -34,6 +34,30 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
 Issues and Positions
 --------------------------------------------------------------------------------
 
+### History of Science
+
+-   Beginnings of the Scientific Method
+    -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
+    -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
+    -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
+    -   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
+    -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
+    -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
+-   The Middle Ages
+    -   [Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen) AKA "Alhazen"
+    -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
+    -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
+-   The Enlightenment
+    -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
+    -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
+    -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
+    -   [Ren&eacute; Descartes (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+    -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
+    -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
+    -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
+    -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
+
+
 ### Rationalism vs Empiricism
 
 TODO.
@@ -241,24 +265,42 @@ IEP
 Wikipedia
 
 -   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
+-   [Alhazen AKA Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen)
+-   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
+-   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
+-   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
+-   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
+-   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
 -   [Empircism](http://en.wikipedia.org/wiki/Empiricism)
+-   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
+-   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
+-   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
+-   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
+-   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
 -   [History of science](http://en.wikipedia.org/wiki/History_of_science)
 -   [History of the scientific method](http://en.wikipedia.org/wiki/History_of_scientific_method)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
+-   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
+-   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   [Models of scientific inquiry](http://en.wikipedia.org/wiki/Models_of_scientific_inquiry)
+-   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
 -   [Natural philosophy](http://en.wikipedia.org/wiki/Natural_philosophy)
 -   [Naturalized epistemology](http://en.wikipedia.org/wiki/Naturalized_epistemology)
+-   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
+-   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
 -   [Philosophy of Science](http://en.wikipedia.org/wiki/Philosophy_of_science)
 -   [Pseudoscience](http://en.wikipedia.org/wiki/Pseudoscience)
 -   [Pseudoscience, List of topics characterized as](http://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience)
+-   [Ren&eacute; Descartes (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 -   [Science](http://en.wikipedia.org/wiki/Science)
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
 -   [Scientism](http://en.wikipedia.org/wiki/Scientism)
+    [Timeline of the history of the scientific method](http://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
 -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
 
