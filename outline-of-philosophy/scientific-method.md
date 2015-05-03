@@ -193,7 +193,27 @@ Annotated Bibliography
 
 ### Hume, D. (1748). An Enquiry Concerning Human Understanding.
 
--   TODO.
+#### Of the different Species of Philosophy
+
+#### Of the Origin of Ideas
+
+#### Of the Association of Ideas
+
+#### Sceptical Doubts concerning the Operations of the Understanding
+
+#### Sceptical Solution of these Doubts
+
+#### Of Probability
+
+#### Of the Idea of necessary Connection
+
+#### Of Liberty and Necessity
+
+#### Of the Reason of Animals
+
+#### Of a pariatur Providence and of a future State
+
+#### Of the academical or sceptical Philosophy
 
 #### My thoughts
 
