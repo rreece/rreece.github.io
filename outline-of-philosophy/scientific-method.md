@@ -12,6 +12,7 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
 **Contents:**
 
 -   [Issues and Positions](#issues-and-positions)
+    1.  [History of Science](#history_of_science)
     1.  [Empiricism vs Rationalism](#rationalism-vs-empiricism)
     1.  [Is there a universal scientific method?](#is-there-a-universal-scientific-method)
     1.  [Scientific Knowledge](#scientific-knowledge)
@@ -47,15 +48,21 @@ Issues and Positions
     -   [Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen) AKA "Alhazen"
     -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
     -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
--   The Enlightenment
+-   The Enlightenment (Modern Science)
     -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
     -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
     -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
     -   [Ren&eacute; Descartes (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
     -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
     -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
+-   Becoming more advanced
     -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
     -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
+    -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
+    -   [Faraday, Michael](http://en.wikipedia.org/wiki/Michael_Faraday)
+    -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
+    -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
+    -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 
 
 ### Rationalism vs Empiricism
@@ -300,7 +307,7 @@ Wikipedia
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
 -   [Scientism](http://en.wikipedia.org/wiki/Scientism)
-    [Timeline of the history of the scientific method](http://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)
+-   [Timeline of the history of the scientific method](http://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
 -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
 
