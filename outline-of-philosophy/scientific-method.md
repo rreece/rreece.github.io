@@ -193,27 +193,29 @@ Annotated Bibliography
 
 ### Hume, D. (1748). An Enquiry Concerning Human Understanding.
 
-#### Of the different Species of Philosophy
+#### 1. Of the different Species of Philosophy
 
-#### Of the Origin of Ideas
+#### 2. Of the Origin of Ideas
 
-#### Of the Association of Ideas
+#### 3. Of the Association of Ideas
 
-#### Sceptical Doubts concerning the Operations of the Understanding
+#### 4. Sceptical Doubts concerning the Operations of the Understanding
 
-#### Sceptical Solution of these Doubts
+#### 5. Sceptical Solution of these Doubts
 
-#### Of Probability
+#### 6. Of Probability
 
-#### Of the Idea of necessary Connection
+#### 7. Of the Idea of necessary Connection
 
-#### Of Liberty and Necessity
+#### 8. Of Liberty and Necessity
 
-#### Of the Reason of Animals
+#### 9. Of the Reason of Animals
 
-#### Of a pariatur Providence and of a future State
+#### 10. Of Miracles
 
-#### Of the academical or sceptical Philosophy
+#### 11. Of a pariatur Providence and of a future State
+
+#### 12. Of the academical or sceptical Philosophy
 
 #### My thoughts
 
