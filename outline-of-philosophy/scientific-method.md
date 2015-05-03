@@ -99,10 +99,16 @@ Other important sythesizers:
 
 TODO.
 
+-   Not a seven-step program
+-   Scientism
+
 
 ### Abduction
 
-Natural kinds.  TODO.
+TODO.
+
+-   Inference to the best explanation 
+-   Natural kinds.
 
 
 ### Statistical Measurement
