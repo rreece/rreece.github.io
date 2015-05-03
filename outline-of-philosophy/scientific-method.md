@@ -113,10 +113,10 @@ TODO.
 
 ### Statistical Measurement
 
+TODO.
+
 -   Neyman-Pearson lemma
 -   Feldman-Cousins confidence intervals
-
-TODO.
 
 
 ### Scientific Knowledge
