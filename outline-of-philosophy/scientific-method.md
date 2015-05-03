@@ -193,7 +193,7 @@ Annotated Bibliography
 
 #### 10. Of Miracles
 
-#### 11. Of a pariatur Providence and of a future State
+#### 11. Of a particular Providence and of a future State
 
 #### 12. Of the academical or sceptical Philosophy
 
