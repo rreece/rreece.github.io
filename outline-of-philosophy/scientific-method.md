@@ -12,7 +12,7 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
 **Contents:**
 
 -   [Issues and Positions](#issues-and-positions)
-    1.  [Empiricism](#rationalism-vs-empiricism)
+    1.  [Empiricism vs Rationalism](#rationalism-vs-empiricism)
     1.  [Is there a universal scientific method?](#is-there-a-universal-scientific-method)
     1.  [Scientific Knowledge](#scientific-knowledge)
     1.  [Scientific Realism](#scientific-realism)
@@ -216,6 +216,9 @@ SEP
 -   [Locke's Philosophy of Science](http://plato.stanford.edu/entries/locke-philosophy-science/)
 -   [Miracles](http://plato.stanford.edu/entries/miracles/)
 -   [Naturalized epistemology](http://plato.stanford.edu/entries/epistemology-naturalized/)
+-   [Newton, Isaac (1642-1727)](http://plato.stanford.edu/entries/newton/)
+-   [Newton's Philosophy](http://plato.stanford.edu/entries/newton-philosophy/)
+-   [Newton's *Philosophiae Naturalis Principia Mathematica*](http://plato.stanford.edu/entries/newton-principia/)
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
 -   [Principle of Sufficient Reason](http://plato.stanford.edu/entries/sufficient-reason/)
 -   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
