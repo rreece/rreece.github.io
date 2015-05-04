@@ -51,6 +51,7 @@ Issues and Positions
     -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
     -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
     -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
+    -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
     -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
 -   Becoming more advanced
     -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
@@ -58,9 +59,10 @@ Issues and Positions
     -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
     -   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
     -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
+    -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
+    -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
     -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
-
 
 ### Rationalism vs Empiricism
 
@@ -288,6 +290,7 @@ Wikipedia
 -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
 -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
+-   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
 -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
 -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 -   [Empircism](http://en.wikipedia.org/wiki/Empiricism)
@@ -300,10 +303,12 @@ Wikipedia
 -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
 -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
 -   [Gettier problem](http://en.wikipedia.org/wiki/Gettier_problem)
+-   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
 -   [History of science](http://en.wikipedia.org/wiki/History_of_science)
 -   [History of the scientific method](http://en.wikipedia.org/wiki/History_of_scientific_method)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
+-   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
 -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
