@@ -137,6 +137,7 @@ Wikipedia
 
 -   [Behaviorism](http://en.wikipedia.org/wiki/Behaviorism)
 -   [Consciousness](http://en.wikipedia.org/wiki/Consciousness)
+-   [Extended Mind](http://en.wikipedia.org/wiki/The_Extended_Mind)
 -   [Knowledge argument](http://en.wikipedia.org/wiki/Knowledge_argument)
 -   [Philosophy of mind](http://en.wikipedia.org/wiki/Philosophy_of_mind)
 

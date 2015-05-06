@@ -90,8 +90,8 @@ Who do I want to reach with this argument?
 
 -   Anyone interested in the engagement of science and philosophy.
 -   Science skeptics and anti-naturalists of one form or another that see science
-    as just one of many competing claims to knowledge and the capability of
-    describing reality.
+    as just one of many competing claims to knowledge,
+    with or without the capability of describing reality.
 -   Allies in illucidating the demarcation of what science is,
     and what sorts of claims it justifies.
     
