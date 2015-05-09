@@ -34,6 +34,8 @@ Issues and Positions
 
 ### History of Science
 
+-   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
+    -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
 -   Beginnings of the Scientific Method
     -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
     -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
@@ -45,11 +47,13 @@ Issues and Positions
     -   [Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen) AKA "Alhazen"
     -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
     -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
--   The Enlightenment 
+-   Early Modern Period
     -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
     -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
     -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
     -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+-   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
+    -   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
     -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
     -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
     -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
@@ -289,6 +293,7 @@ Wikipedia
 -   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
 -   [Alhazen AKA Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen)
 -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
+-   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
 -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
 -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
 -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
@@ -311,12 +316,14 @@ Wikipedia
 -   [Hamilton, William Rowan (1805-1865)](http://en.wikipedia.org/wiki/William_Rowan_Hamilton)
 -   [History of science](http://en.wikipedia.org/wiki/History_of_science)
 -   [History of the scientific method](http://en.wikipedia.org/wiki/History_of_scientific_method)
+-   [Hobbes, Thomas (1588-1679)](http://en.wikipedia.org/wiki/Thomas_Hobbes)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
 -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
 -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
 -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
+-   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
 -   [Models of scientific inquiry](http://en.wikipedia.org/wiki/Models_of_scientific_inquiry)
@@ -332,10 +339,12 @@ Wikipedia
 -   [Plato's problem](http://en.wikipedia.org/wiki/Plato%27s_Problem) from Noam Chomsky 
 -   [Pseudoscience](http://en.wikipedia.org/wiki/Pseudoscience)
 -   [Pseudoscience, List of topics characterized as](http://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience)
+-   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
 -   [Science](http://en.wikipedia.org/wiki/Science)
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
 -   [Scientism](http://en.wikipedia.org/wiki/Scientism)
+-   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
 -   [Systematic error](http://en.wikipedia.org/wiki/Systematic_error)
 -   [Timeline of the history of the scientific method](http://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
