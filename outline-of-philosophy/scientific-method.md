@@ -53,7 +53,8 @@ Issues and Positions
     -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
     -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
     -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
-        -   Plenum, vorticies
+        -   No teleology. Matter plenum, vorticies.
+    -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
     -   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
     -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
@@ -280,8 +281,10 @@ SEP
 
 IEP
 
+-   [Berkeley, George (1685-1753)](http://www.iep.utm.edu/berkeley/)
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
+-   [Locke, John (1632-1704)](http://www.iep.utm.edu/locke/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
@@ -299,6 +302,7 @@ Wikipedia
 -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
 -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
 -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
+-   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
 -   [Cartesian doubt](http://en.wikipedia.org/wiki/Cartesian_doubt)
 -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
 -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
