@@ -36,6 +36,7 @@ Issues and Positions
 
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
     -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
+        -   teleological: things have "natural" purposes or tendencies 
 -   Beginnings of the Scientific Method
     -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
     -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
@@ -52,6 +53,7 @@ Issues and Positions
     -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
     -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
     -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+        -   Plenum, vorticies
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
     -   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
     -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
@@ -78,8 +80,8 @@ TODO.
 -   Coming out of scholasticism
 -   Debates over the foundations of epistemology
 -   Early modern philosophy
--   Note the Enlightenment
 -   Skepticism
+-   Lead to the Age of Enlightenment
 
 Rationalists:
 
@@ -297,6 +299,7 @@ Wikipedia
 -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
 -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
 -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
+-   [Cartesian doubt](http://en.wikipedia.org/wiki/Cartesian_doubt)
 -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
 -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
 -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
@@ -344,6 +347,7 @@ Wikipedia
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
 -   [Scientism](http://en.wikipedia.org/wiki/Scientism)
+-   [Skepticism, Philosophical](http://en.wikipedia.org/wiki/Philosophical_skepticism)
 -   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
 -   [Systematic error](http://en.wikipedia.org/wiki/Systematic_error)
 -   [Timeline of the history of the scientific method](http://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)

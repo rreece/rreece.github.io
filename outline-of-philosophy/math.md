@@ -233,6 +233,7 @@ IEP
 
 Wikipedia
 
+-   [Diagonal lemma](http://en.wikipedia.org/wiki/Diagonal_lemma)
 -   [Ethnomathematics](http://en.wikipedia.org/wiki/Ethnomathematics)
 -   [Gentzen's consistency proof](http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof)
 -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
