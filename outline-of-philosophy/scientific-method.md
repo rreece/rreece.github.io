@@ -252,10 +252,15 @@ Links and Encyclopedia Articles
 SEP
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
+-   [Analysis of Knowledge](http://plato.stanford.edu/entries/knowledge-analysis/)
 -   [Bacon, Francis (1561-1626)](http://plato.stanford.edu/entries/francis-bacon/)
 -   [Berkeley, George (1685-1753)](http://plato.stanford.edu/entries/berkeley/)
+-   [Coherentist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-coherence/)
 -   [Descartes, Ren&eacute; (1596-1650)](http://plato.stanford.edu/entries/descartes/)
 -   [Descartes' Epistemology](http://plato.stanford.edu/entries/descartes-epistemology/)
+-   [Epistemological Problems of Perception](http://plato.stanford.edu/entries/perception-episprob/)
+-   [Epistemology](http://plato.stanford.edu/entries/epistemology/)
+-   [Foundationalist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-foundational/)
 -   [Hobbes, Thomas (1588-1679)](http://plato.stanford.edu/entries/hobbes/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
 -   [Identity of Indiscernibles](http://plato.stanford.edu/entries/identity-indiscernible/)
