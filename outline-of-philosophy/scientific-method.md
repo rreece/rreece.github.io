@@ -278,12 +278,14 @@ SEP
 -   [Principle of Sufficient Reason](http://plato.stanford.edu/entries/sufficient-reason/)
 -   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Science and Pseudo-Science](http://plato.stanford.edu/entries/pseudo-science/)
+-   [Skepticism](http://plato.stanford.edu/entries/skepticism/)
 -   [Spinoza, Baruch (1632-1677)](http://plato.stanford.edu/entries/spinoza/)
 
 IEP
 
 -   [Berkeley, George (1685-1753)](http://www.iep.utm.edu/berkeley/)
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
+-   [Epistemology](http://www.iep.utm.edu/epistemo/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Locke, John (1632-1704)](http://www.iep.utm.edu/locke/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
@@ -291,6 +293,8 @@ IEP
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Safety Condition for Knowledge, The](http://www.iep.utm.edu/safety-c/)
 -   [Simplicity in the philosophy of science](http://www.iep.utm.edu/simplici/)
+-   [Skepticism, Ancient Greek](http://www.iep.utm.edu/skepanci/)
+-   [Skepticism, Contemporary](http://www.iep.utm.edu/skepcont/)
 -   [Spinoza, Baruch (1632-1677): Metaphysics](http://www.iep.utm.edu/spinoz-m/)
 -   [William of Ockham (1280-1349)](http://www.iep.utm.edu/ockham/)
 
