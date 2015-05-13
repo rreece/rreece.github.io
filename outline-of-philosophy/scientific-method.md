@@ -15,8 +15,8 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [History of Science](#history-of-science)
     1.  [Empiricism vs Rationalism](#rationalism-vs-empiricism)
     1.  [Is there a universal scientific method?](#is-there-a-universal-scientific-method)
-    1.  [Abduction](#abduction)
     1.  [Statistical Measurement](#statistical-measurement)
+    1.  [Abduction](#abduction)
     1.  [Scientific Knowledge and Realism](#scientific-knowledge-and-realism)
     1.  [Naturalism, Reductionism, and Monism](#naturalism-reductionism-and-monism)
     1.  [Pseudoscience](#pseudoscience)
@@ -113,20 +113,20 @@ TODO.
 -   Scientism
 
 
-### Abduction
-
-TODO.
-
--   Inference to the best explanation 
--   Natural kinds.
-
-
 ### Statistical Measurement
 
 TODO.
 
 -   Neyman-Pearson lemma
 -   Feldman-Cousins confidence intervals
+
+
+### Abduction
+
+TODO.
+
+-   Inference to the best explanation 
+-   Natural kinds.
 
 
 ### Scientific Knowledge and Realism
