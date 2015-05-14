@@ -27,6 +27,10 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [Pigliucci, M. (2010). Nonsense on Stilts: How to Tell Science From Bunk.](#pigliucci-m.-2010.-nonsense-on-stilts-how-to-tell-science-from-bunk.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
+    1.  [SEP](#sep)
+    1.  [IEP](#iep)
+    1.  [Wikipedia](#wikipedia)
+    1.  [Others](#others)
 
 
 Issues and Positions
@@ -249,7 +253,7 @@ TODO.
 Links and Encyclopedia Articles
 --------------------------------------------------------------------------------
 
-SEP
+### SEP
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
 -   [Analysis of Knowledge](http://plato.stanford.edu/entries/knowledge-analysis/)
@@ -286,7 +290,7 @@ SEP
 -   [Skepticism](http://plato.stanford.edu/entries/skepticism/)
 -   [Spinoza, Baruch (1632-1677)](http://plato.stanford.edu/entries/spinoza/)
 
-IEP
+### IEP
 
 -   [Berkeley, George (1685-1753)](http://www.iep.utm.edu/berkeley/)
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
@@ -303,7 +307,7 @@ IEP
 -   [Spinoza, Baruch (1632-1677): Metaphysics](http://www.iep.utm.edu/spinoz-m/)
 -   [William of Ockham (1280-1349)](http://www.iep.utm.edu/ockham/)
 
-Wikipedia
+### Wikipedia
 
 -   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
 -   [Alhazen AKA Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen)
@@ -368,14 +372,12 @@ Wikipedia
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
 -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
 
-RationalWiki
+### Others
 
--   [Scientism](http://rationalwiki.org/wiki/Scientism)
-
-Others
-
--   [mathmonism.com/humesfork.html](http://www.mathmonism.com/humesfork.html)
--   [Philosophy StackExchange: Is Hume's Fork self-refuting?](http://philosophy.stackexchange.com/questions/7609/is-humes-fork-self-refuting)
+-   [Hume's fork](http://www.mathmonism.com/humesfork.html) - mathmonism.com
 -   [Inference to the Best Explanation](http://www.informationphilosopher.com/knowledge/best_explanation.html) - informationphilosopher.com
+-   [Is Hume's fork self-refuting?](http://philosophy.stackexchange.com/questions/7609/is-humes-fork-self-refuting) - Philosophy StackExchange
+-   [Scientism](http://rationalwiki.org/wiki/Scientism) - RationalWiki
+
 
 
