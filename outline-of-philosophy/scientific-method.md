@@ -100,7 +100,7 @@ Rationalists:
 -   Baruch Spinoza (1632-1677)
 -   Gottfried Wilhelm Leibniz (1646-1716)
 
-British Empiricists:
+British empiricists:
 
 -   John Locke (1632-1704)
 -   George Berkeley (1685-1753)
