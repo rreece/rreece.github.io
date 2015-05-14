@@ -25,6 +25,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Bhaskar, R. (1979). The Possibility of Naturalism.](#bhaskar-r.-1979.-the-possibility-of-naturalism.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
+    1.  [SEP](#sep)
+    1.  [IEP](#iep)
+    1.  [Wikipedia](#wikipedia)
+    1.  [Others](#others)
 -   [References](#fn1)
 
 
@@ -160,7 +164,7 @@ Annotated Bibliography
 Links and Encyclopedia Articles
 --------------------------------------------------------------------------------
 
-SEP
+### SEP
 
 -   [d'Holbach, Baron Paul-Henri Thiry (1723-1789) ](http://plato.stanford.edu/entries/holbach/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
@@ -174,7 +178,7 @@ SEP
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
 -   [Quine, W.V.O. (1908-2000)](http://plato.stanford.edu/entries/quine/)
 
-IEP
+### IEP
 
 -   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
 -   [Atheism](http://www.iep.utm.edu/atheism/)
@@ -191,7 +195,7 @@ IEP
 -   [Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2)
 -   [Spinoza, Baruch (1632-1677): Metaphysics](http://www.iep.utm.edu/spinoz-m/)
 
-Wikipedia
+### Wikipedia
 
 -   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
@@ -199,7 +203,7 @@ Wikipedia
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 -   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 
-Others
+### Others
 
 -   [Naturalism.org](http://www.naturalism.org/)
     -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/history.htm)

@@ -46,6 +46,10 @@ discusses the epistemological foundations and limitations of science.
     1.  Putnam, H. (1981).  Reason, Truth, and History.
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
+    1.  [SEP](#sep)
+    1.  [IEP](#iep)
+    1.  [Wikipedia](#wikipedia)
+    1.  [Others](#others)
 -   [References](#fn1)
 
 
@@ -535,7 +539,7 @@ Annotated Bibliography
 Links and Encyclopedia Articles
 --------------------------------------------------------------------------------
 
-SEP
+### SEP
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
 -   [Analysis](http://plato.stanford.edu/entries/analysis/)
@@ -598,7 +602,7 @@ SEP
 -   [Unity of Science](http://plato.stanford.edu/entries/scientific-unity/)
 -   [Vienna Circle](http://plato.stanford.edu/entries/vienna-circle/)
 
-IEP
+### IEP
 
 -   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
 -   [Berlin Circle](http://www.iep.utm.edu/berlincr/)
@@ -635,7 +639,7 @@ IEP
 -   [Vienna Circle](http://www.iep.utm.edu/viennacr/)
 -   [Wittgenstein, Ludwig (1889-1951)](http://www.iep.utm.edu/wittgens/)
 
-Wikipedia
+### Wikipedia
 
 -   [Berlin Circle](http://en.wikipedia.org/wiki/Berlin_Circle)
 -   [Carnap, Rudolf (1891-1970)](http://en.wikipedia.org/wiki/Rudolf_Carnap)
@@ -676,12 +680,12 @@ Wikipedia
 -   [Vienna Circle](http://en.wikipedia.org/wiki/Vienna_Circle)
 -   [Wittgenstein, Ludwig (1889-1951)](http://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 
-Others
+### Others
 
--   ["Philosophy Returns to the Real World"](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) -  Crispin Sartwell
 -   [Logical positivism](http://www.philosophybasics.com/branch_logical_positivism.html) - philosophybasics.com
 -   [Logical positivism](http://www.loyno.edu/~folse/logpos.htm) - loyno.edu/~folse/
 -   [Logical positivism](http://rationalwiki.org/wiki/Logical_positivism) - rationalwiki.org
+-   ["Philosophy Returns to the Real World"](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) -  Crispin Sartwell
 
 
 

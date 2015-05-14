@@ -20,6 +20,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Bostrom](#)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
+    1.  [SEP](#sep)
+    1.  [IEP](#iep)
+    1.  [Wikipedia](#wikipedia)
+    1.  [Others](#others)
 -   [References](#fn1)
 
 
@@ -74,12 +78,12 @@ Annotated Bibliography
 Links and Encyclopedia Articles
 --------------------------------------------------------------------------------
 
-SEP
+### SEP
 
-IEP
+### IEP
 
-Wikipedia
+### Wikipedia
 
-Others
+### Others
 
 

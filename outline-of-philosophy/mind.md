@@ -22,6 +22,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Giulini, D., Joos, E., Kiefer, C., Kupsch, J., Stamatescu, I.O., & Zeh, H. (1996). Decoherence and the Appearance of a Classical World in Quantum Theory.](#giulini-d.-joos-e.-kiefer-c.-kupsch-j.-stamatescu-i.o.-zeh-h.-1996.-decoherence-and-the-appearance-of-a-classical-world-in-quantum-theory.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
+    1.  [SEP](#sep)
+    1.  [IEP](#iep)
+    1.  [Wikipedia](#wikipedia)
+    1.  [Others](#others)
 -   [References](#fn1)
 
 
@@ -99,7 +103,7 @@ TODO.
 Links and Encyclopedia Articles
 --------------------------------------------------------------------------------
 
-SEP
+### SEP
 
 -   [Behaviorism](http://plato.stanford.edu/entries/behaviorism/)
 -   [Dualism](http://plato.stanford.edu/entries/dualism/)
@@ -110,7 +114,7 @@ SEP
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
 -   [Representational Theories of Consciousness](http://plato.stanford.edu/entries/consciousness-representational/)
 
-IEP
+### IEP
 
 -   [Animal Minds](http://www.iep.utm.edu/ani-mind/)
 -   [Behaviorism](http://www.iep.utm.edu/behavior/)
@@ -133,7 +137,7 @@ IEP
 -   [Supervenience and Mind](http://www.iep.utm.edu/supermin/)
 -   [Theory of Mind](http://www.iep.utm.edu/theomind/)
 
-Wikipedia
+### Wikipedia
 
 -   [Behaviorism](http://en.wikipedia.org/wiki/Behaviorism)
 -   [Consciousness](http://en.wikipedia.org/wiki/Consciousness)
@@ -141,7 +145,7 @@ Wikipedia
 -   [Knowledge argument](http://en.wikipedia.org/wiki/Knowledge_argument)
 -   [Philosophy of mind](http://en.wikipedia.org/wiki/Philosophy_of_mind)
 
-Others
+### Others
 
 -   [Chalmers' Guide to the Philosophy of Mind](http://consc.net/guide.html)
 

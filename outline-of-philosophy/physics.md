@@ -26,6 +26,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Giulini, D., Joos, E., Kiefer, C., Kupsch, J., Stamatescu, I.O., & Zeh, H. (1996). Decoherence and the Appearance of a Classical World in Quantum Theory.](#giulini-d.-joos-e.-kiefer-c.-kupsch-j.-stamatescu-i.o.-zeh-h.-1996.-decoherence-and-the-appearance-of-a-classical-world-in-quantum-theory.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
+    1.  [SEP](#sep)
+    1.  [IEP](#iep)
+    1.  [Wikipedia](#wikipedia)
+    1.  [Others](#others)
 -   [References](#fn1)
 
 
@@ -154,28 +158,27 @@ TODO.
 Links and Encyclopedia Articles
 --------------------------------------------------------------------------------
 
-SEP
+### SEP
 
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 -   [Emergent Properties](http://plato.stanford.edu/entries/properties-emergent/)
 -   [Identity and Individuality in Quantum Theory](http://plato.stanford.edu/entries/qt-idind/)
 -   [Quantum Entanglement and Information](http://plato.stanford.edu/entries/qt-entangle/)
 
-IEP
+### IEP
 
 -   [Emergence](http://www.iep.utm.edu/emergenc/)
 
-Wikipedia
+### Wikipedia
 
 -   [Particle physics and representation theory](http://en.wikipedia.org/wiki/Particle_physics_and_representation_theory)
 -   [Representation theory](http://en.wikipedia.org/wiki/Representation_theory)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 
-RationalWiki
+### Others
 
--   [Emergence](http://rationalwiki.org/wiki/Emergence)
+-   [Emergence](http://rationalwiki.org/wiki/Emergence) - RationalWiki.org
 
-Others
 
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.

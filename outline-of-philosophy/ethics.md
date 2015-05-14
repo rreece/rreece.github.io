@@ -22,6 +22,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Portmore, D. (2011). Commonsense Consequentialism.](#portmore-d.-2011.-commonsense-consequentialism.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
+    1.  [SEP](#sep)
+    1.  [IEP](#iep)
+    1.  [Wikipedia](#wikipedia)
+    1.  [Others](#others)
 -   [References](#fn1)
 
 
@@ -172,7 +176,7 @@ Annotated Bibliography
 Links and Encyclopedia Articles
 --------------------------------------------------------------------------------
 
-SEP
+### SEP
 
 -   [Civic Humanism](http://plato.stanford.edu/entries/humanism-civic/)
 -   [Consequentialism](http://plato.stanford.edu/entries/consequentialism/)
@@ -210,7 +214,7 @@ SEP
 -   [Value Theory](http://plato.stanford.edu/entries/value-theory/)
 -   [Virture Ethics](http://plato.stanford.edu/entries/ethics-virtue/)
 
-IEP
+### IEP
 
 -   [Collective Moral Responsibility](http://www.iep.utm.edu/collecti/)
 -   [Consequentialism](http://www.iep.utm.edu/conseque/)
@@ -233,12 +237,7 @@ IEP
 -   [Ross, William David (1877-1971)](http://www.iep.utm.edu/ross-wd/)
 -   [Utilitarianism, Act and Rule](http://www.iep.utm.edu/util-a-r/)
 
-RationalWiki
-
--   [Consequentialism](http://rationalwiki.org/wiki/Consequentialism)
--   [Hume's law](http://rationalwiki.org/wiki/Hume%27s_law)
-
-Wikipedia
+### Wikipedia
 
 -   [Absurdism](http://en.wikipedia.org/wiki/Absurdism)
 -   [Consequentialism](http://en.wikipedia.org/wiki/Consequentialism)
@@ -262,12 +261,13 @@ Wikipedia
 -   [Trolley problem](http://en.wikipedia.org/wiki/Trolley_problem)
 -   [Utilitarianism](http://en.wikipedia.org/wiki/Utilitarianism)
 
-Others
+### Others
 
--   ["Why Our Children Don't Think There Are Moral Facts"](http://opinionator.blogs.nytimes.com/2015/03/02/why-our-children-dont-think-there-are-moral-facts/) -  Justin McBrayer
+-   [Consequentialism](http://rationalwiki.org/wiki/Consequentialism) - RationalWiki.org
+-   [Hume's law](http://rationalwiki.org/wiki/Hume%27s_law) - RationalWiki.org
 -   ["The Kids Are All Right: Have we made our children into moral monsters?"](http://www.slate.com/articles/health_and_science/science/2015/03/does_common_core_teach_children_to_be_immoral_as_justin_mcbrayer_says_meta.html) - Daniel Engber
 -   ["Scientism wars: there's an elephant in the room, and its name is Sam Harris"](http://www.theguardian.com/news/oliver-burkeman-s-blog/2013/aug/27/scientism-wars-sam-harris-elephant)
-
+-   ["Why Our Children Don't Think There Are Moral Facts"](http://opinionator.blogs.nytimes.com/2015/03/02/why-our-children-dont-think-there-are-moral-facts/) -  Justin McBrayer
 
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.

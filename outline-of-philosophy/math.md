@@ -26,6 +26,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
+    1.  [SEP](#sep)
+    1.  [IEP](#iep)
+    1.  [Wikipedia](#wikipedia)
+    1.  [Others](#others)
 -   [References](#fn1)
 
 
@@ -161,7 +165,7 @@ Annotated Bibliography
 Links and Encyclopedia Articles
 --------------------------------------------------------------------------------
 
-SEP
+### SEP
 
 -   [Analysis](http://plato.stanford.edu/entries/analysis/)
 -   [Analytic/Synthetic Distinction](http://plato.stanford.edu/entries/analytic-synthetic/)
@@ -211,7 +215,7 @@ SEP
 -   [Whitehead, Alfred North (1861-1947)](http://plato.stanford.edu/entries/whitehead/)
 -   [Wittgenstein's Philosophy of Mathematics](http://plato.stanford.edu/entries/wittgenstein-mathematics/)
 
-IEP
+### IEP
 
 -   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
 -   [Applicability of Mathematics](http://www.iep.utm.edu/math-app/)
@@ -231,7 +235,7 @@ IEP
 -   [Universals](http://www.iep.utm.edu/universa/)
 
 
-Wikipedia
+### Wikipedia
 
 -   [Diagonal lemma](http://en.wikipedia.org/wiki/Diagonal_lemma)
 -   [Ethnomathematics](http://en.wikipedia.org/wiki/Ethnomathematics)
@@ -241,7 +245,7 @@ Wikipedia
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
 
-Others
+### Others
 
 -   [Quine's Paradox and G&ouml;del's Theorem](http://richardzach.org/2015/03/30/quines-paradox-and-godels-theorem/) - Richard Zach
 
