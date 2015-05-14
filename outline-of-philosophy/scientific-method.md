@@ -89,16 +89,19 @@ TODO.
 -   Skepticism
 -   Lead to the Age of Enlightenment
 
+Early Empiricists:
+
+-   Francis Bacon (1561-1626)
+-   Thomas Hobbes (1588-1679)
+
 Rationalists:
 
 -   Ren&eacute; Descartes (1596-1650)
 -   Baruch Spinoza (1632-1677)
 -   Gottfried Wilhelm Leibniz (1646-1716)
 
-Empiricists:
+British Empiricists:
 
--   Francis Bacon (1561-1626)
--   Thomas Hobbes (1588-1679)
 -   John Locke (1632-1704)
 -   George Berkeley (1685-1753)
 -   David Hume (1711-1776)
