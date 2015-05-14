@@ -220,6 +220,7 @@ Links and Encyclopedia Articles
 -   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
 -   [Applicability of Mathematics](http://www.iep.utm.edu/math-app/)
 -   [Fictionalism in the Philosophy of Mathematics](http://www.iep.utm.edu/mathfict/)
+-   [Frege, Gottlob (1848-1925)](http://www.iep.utm.edu/frege/)
 -   [Game Theory](http://www.iep.utm.edu/game-th/)
 -   [Indispensability Argument in the Philosophy of Mathematics](http://www.iep.utm.edu/indimath/)
 -   [Poincar&eacute;, Jules Henri (1854-1912)](http://www.iep.utm.edu/poincare/)
@@ -239,6 +240,7 @@ Links and Encyclopedia Articles
 
 -   [Diagonal lemma](http://en.wikipedia.org/wiki/Diagonal_lemma)
 -   [Ethnomathematics](http://en.wikipedia.org/wiki/Ethnomathematics)
+-   [Frege, Gottlob (1848-1925)](http://en.wikipedia.org/wiki/Gottlob_Frege)
 -   [Gentzen's consistency proof](http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof)
 -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
