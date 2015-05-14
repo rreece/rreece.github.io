@@ -198,6 +198,7 @@ Links and Encyclopedia Articles
 -   [Platonism in Metaphysics](http://plato.stanford.edu/entries/platonism/)
 -   [Principia Mathematica](http://plato.stanford.edu/entries/principia-mathematica/)
 -   [Russell, Bertrand (1872-1970)](http://plato.stanford.edu/entries/russell/)
+-   [Russell's Logical Atomism](http://plato.stanford.edu/entries/logical-atomism/)
 -   [Russell's Paradox](http://plato.stanford.edu/entries/russell-paradox/)
 -   [Tarski, Alfred (1901-1983)](http://plato.stanford.edu/entries/tarski/)
 -   [Tarski's Truth Definitions](http://plato.stanford.edu/entries/tarski-truth/)
@@ -233,6 +234,7 @@ Links and Encyclopedia Articles
 -   [Poincar&eacute;'s Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)
 -   [Process Philosophy](http://www.iep.utm.edu/processp/)
 -   [Relational Models Theory](http://www.iep.utm.edu/r-models/)
+-   [Russell's Paradox](http://www.iep.utm.edu/par-russ/)
 -   [Universals](http://www.iep.utm.edu/universa/)
 
 
@@ -246,6 +248,7 @@ Links and Encyclopedia Articles
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
+-   [Russell, Bertrand (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell)
 
 ### Others
 
