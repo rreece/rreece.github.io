@@ -261,6 +261,7 @@ Links and Encyclopedia Articles
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
 -   [Analysis of Knowledge](http://plato.stanford.edu/entries/knowledge-analysis/)
+-   [Aristotle's Metaphysics](http://plato.stanford.edu/entries/aristotle-metaphysics/)
 -   [Bacon, Francis (1561-1626)](http://plato.stanford.edu/entries/francis-bacon/)
 -   [Berkeley, George (1685-1753)](http://plato.stanford.edu/entries/berkeley/)
 -   [Coherentist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-coherence/)
@@ -373,6 +374,7 @@ Links and Encyclopedia Articles
 -   [Scientism](http://en.wikipedia.org/wiki/Scientism)
 -   [Skepticism, Philosophical](http://en.wikipedia.org/wiki/Philosophical_skepticism)
 -   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
+-   [Substantial Form](http://en.wikipedia.org/wiki/Substantial_form)
 -   [Systematic error](http://en.wikipedia.org/wiki/Systematic_error)
 -   [Timeline of the history of the scientific method](http://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
