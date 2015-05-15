@@ -26,7 +26,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [IEP](#iep)
     1.  [Wikipedia](#wikipedia)
     1.  [Others](#others)
--   [References](#fn1)
+-   [Notes](#fn1)
 
 
 Issues and Positions
@@ -140,6 +140,7 @@ Links and Encyclopedia Articles
 ### Wikipedia
 
 -   [Behaviorism](http://en.wikipedia.org/wiki/Behaviorism)
+-   [Cartesian theater](http://en.wikipedia.org/wiki/Cartesian_theater)
 -   [Consciousness](http://en.wikipedia.org/wiki/Consciousness)
 -   [Extended Mind](http://en.wikipedia.org/wiki/The_Extended_Mind)
 -   [Knowledge argument](http://en.wikipedia.org/wiki/Knowledge_argument)

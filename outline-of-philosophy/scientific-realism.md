@@ -50,7 +50,7 @@ discusses the epistemological foundations and limitations of science.
     1.  [IEP](#iep)
     1.  [Wikipedia](#wikipedia)
     1.  [Others](#others)
--   [References](#fn1)
+-   [Notes](#fn1)
 
 
 Issues and Positions
