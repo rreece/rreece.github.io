@@ -56,6 +56,7 @@ Issues and Positions
     -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
     -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
     -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
+    -   [Gassendi, Pierre (1592-1655)](http://en.wikipedia.org/wiki/Pierre_Gassendi)
     -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
         -   No teleology. Matter plenum, vorticies.
     -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
@@ -268,6 +269,7 @@ Links and Encyclopedia Articles
 -   [Epistemological Problems of Perception](http://plato.stanford.edu/entries/perception-episprob/)
 -   [Epistemology](http://plato.stanford.edu/entries/epistemology/)
 -   [Foundationalist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-foundational/)
+-   [Gassendi, Pierre (1592-1655)](http://plato.stanford.edu/entries/gassendi/)
 -   [Hobbes, Thomas (1588-1679)](http://plato.stanford.edu/entries/hobbes/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
 -   [Identity of Indiscernibles](http://plato.stanford.edu/entries/identity-indiscernible/)
@@ -334,6 +336,7 @@ Links and Encyclopedia Articles
 -   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
 -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
 -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
+-   [Gassendi, Pierre (1592-1655)](http://en.wikipedia.org/wiki/Pierre_Gassendi)
 -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
 -   [Gettier problem](http://en.wikipedia.org/wiki/Gettier_problem)
 -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
