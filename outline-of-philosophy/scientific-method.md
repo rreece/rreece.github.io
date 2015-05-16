@@ -118,15 +118,20 @@ Other important sythesizers:
 TODO.
 
 -   Not a seven-step program
--   Scientism
+-   Evidence based
+-   Anti-conspiracy, parsimony
+-   Positivism
 
 
 ### Statistical Measurement
 
 TODO.
 
+-   Frequentist vs Bayesian probability
+-   Statistical hypothesis testing: power and confidence
 -   Neyman-Pearson lemma
 -   Feldman-Cousins confidence intervals
+-   Type-1 and type-2 systematic errors
 
 
 ### Abduction
