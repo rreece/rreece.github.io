@@ -139,7 +139,8 @@ TODO.
 TODO.
 
 -   Inference to the best explanation 
--   Natural kinds.
+-   Natural kinds
+-   Convergence
 
 
 ### Scientific Knowledge and Realism
@@ -170,9 +171,9 @@ The Stopped Clock:
 TODO.
 
 -   See the outline on [Naturalism](naturalism.html).
--   Scientism.
 -   Reductionism
 -   Monism
+-   Scientism.
 
 
 ### Pseudoscience
