@@ -11,7 +11,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 **Contents:**
 
--   [Positions](#positions)
+-   [Issues and Positions](#issues-and-positions)
     1.  [Consequentialism](#consequentialism)
     1.  [Deontological Ethics](#deontological-ethics)
     1.  [Virtue Ethics](#virtue-ethics)
@@ -29,7 +29,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   [Notes](#fn1)
 
 
-Positions
+Issues and Positions
 --------------------------------------------------------------------------------
 
 
