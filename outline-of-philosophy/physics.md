@@ -160,9 +160,11 @@ Links and Encyclopedia Articles
 
 ### SEP
 
+-   [Bell's Theorem](http://plato.stanford.edu/entries/bell-theorem/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 -   [Emergent Properties](http://plato.stanford.edu/entries/properties-emergent/)
 -   [Identity and Individuality in Quantum Theory](http://plato.stanford.edu/entries/qt-idind/)
+-   [Kochen-Specker Theorem](http://plato.stanford.edu/entries/kochen-specker/)
 -   [Quantum Entanglement and Information](http://plato.stanford.edu/entries/qt-entangle/)
 
 ### IEP
@@ -172,11 +174,13 @@ Links and Encyclopedia Articles
 ### Wikipedia
 
 -   [Particle physics and representation theory](http://en.wikipedia.org/wiki/Particle_physics_and_representation_theory)
+-   [PBR theorem](http://en.wikipedia.org/wiki/PBR_theorem)
 -   [Representation theory](http://en.wikipedia.org/wiki/Representation_theory)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 
 ### Others
 
+-   [Can the quantum state be interpreted statistically?](http://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/) - Matt Leifer
 -   [Emergence](http://rationalwiki.org/wiki/Emergence) - RationalWiki.org
 
 
