@@ -247,6 +247,7 @@ Links and Encyclopedia Articles
 -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
+-   [Natural number](http://en.wikipedia.org/wiki/Natural_number)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
 -   [Russell, Bertrand (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell)
 
