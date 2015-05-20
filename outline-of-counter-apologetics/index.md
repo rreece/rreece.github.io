@@ -61,6 +61,6 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 
 ### Misc
 
--   [De rerum natura)](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius](http://en.wikipedia.org/wiki/Lucretius)
+-   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius](http://en.wikipedia.org/wiki/Lucretius)
 
 
