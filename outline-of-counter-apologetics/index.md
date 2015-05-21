@@ -27,6 +27,7 @@ Looking for resources about critiquing faith?  Try these.
 -   [Sam Harris' TED talk: Science can answer moral questions](https://www.youtube.com/watch?v=Hj9oB4zpHww)  -- (24 mins)
 -   [The Atheist Experience](http://www.atheist-experience.com/)  -- TV show with many great episodes
 -   [Christopher Hitchens on global conflict](https://www.youtube.com/watch?v=0M3Nw1D_jp0&feature=youtu.be&t=2181)
+-   [Naturalism and the meaning of life](https://www.youtube.com/watch?v=dLmY4ktOIOI) -- Sean Carroll (7 mins)
 
 Some of these videos are analyzed in these pages [here](videos-analyzed.html).
 
