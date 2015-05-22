@@ -173,10 +173,12 @@ Links and Encyclopedia Articles
 
 ### Wikipedia
 
+-   [Mathematical formulation of quantum mechanics](http://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics)
 -   [Particle physics and representation theory](http://en.wikipedia.org/wiki/Particle_physics_and_representation_theory)
 -   [PBR theorem](http://en.wikipedia.org/wiki/PBR_theorem)
 -   [Representation theory](http://en.wikipedia.org/wiki/Representation_theory)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
+-   [Wigner-Eckart theorem](http://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem)
 
 ### Others
 
