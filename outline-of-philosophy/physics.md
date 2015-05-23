@@ -161,27 +161,42 @@ Links and Encyclopedia Articles
 ### SEP
 
 -   [Bell's Theorem](http://plato.stanford.edu/entries/bell-theorem/)
+-   [Bohmian Mechanics](http://plato.stanford.edu/entries/qm-bohm/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
+-   [Copenhagen Interpretation of Quantum Mechanics](http://plato.stanford.edu/entries/qm-copenhagen/)
+-   [Decoherence](http://plato.stanford.edu/entries/qm-decoherence/)
 -   [Emergent Properties](http://plato.stanford.edu/entries/properties-emergent/)
 -   [Identity and Individuality in Quantum Theory](http://plato.stanford.edu/entries/qt-idind/)
 -   [Kochen-Specker Theorem](http://plato.stanford.edu/entries/kochen-specker/)
+-   [Many-Worlds Interpretation of Quantum Mechanics](http://plato.stanford.edu/entries/qm-manyworlds/)
+-   [Measurement in Quantum Theory](http://plato.stanford.edu/entries/qt-measurement/)
 -   [Quantum Entanglement and Information](http://plato.stanford.edu/entries/qt-entangle/)
+-   [Quantum Field Theory](http://plato.stanford.edu/entries/quantum-field-theory/)
+-   [Quantum Logic and Probability Theory](http://plato.stanford.edu/entries/qt-quantlog/)
+-   [Quantum Mechanics](http://plato.stanford.edu/entries/qm/)
+-   [Relational Quantum Mechanics](http://plato.stanford.edu/entries/qm-relational/)
 
 ### IEP
 
+-   [Einstein-Podolsky-Rosen Argument and the Bell Inequalities](http://www.iep.utm.edu/epr/)
 -   [Emergence](http://www.iep.utm.edu/emergenc/)
+-   [Interpretations of Quantum Mechanics](http://www.iep.utm.edu/qm-inter/)
 
 ### Wikipedia
 
+-   [De Broglie-Bohm theory](http://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory)
+-   [Emergence](http://en.wikipedia.org/wiki/Emergence)
 -   [Mathematical formulation of quantum mechanics](http://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics)
 -   [Particle physics and representation theory](http://en.wikipedia.org/wiki/Particle_physics_and_representation_theory)
 -   [PBR theorem](http://en.wikipedia.org/wiki/PBR_theorem)
+-   [Quantum entanglement](http://en.wikipedia.org/wiki/Quantum_entanglement)
 -   [Representation theory](http://en.wikipedia.org/wiki/Representation_theory)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 -   [Wigner-Eckart theorem](http://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem)
 
 ### Others
 
+-   [bohmianmechanics.org](http://www.bohmianmechanics.org/)
 -   [Can the quantum state be interpreted statistically?](http://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/) - Matt Leifer
 -   [Emergence](http://rationalwiki.org/wiki/Emergence) - RationalWiki.org
 
