@@ -189,6 +189,7 @@ Links and Encyclopedia Articles
 -   [Grounds of Moral Status](http://plato.stanford.edu/entries/grounds-moral-status/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
 -   [Hume's Moral Philosophy](http://plato.stanford.edu/entries/hume-moral/)
+-   [Legal Positivism](http://plato.stanford.edu/entries/legal-positivism/)
 -   [Metaethics](http://plato.stanford.edu/entries/metaethics/)
 -   [Moore's Moral Philosophy](http://plato.stanford.edu/entries/moore-moral/)
 -   [Moral Anti-Realism](http://plato.stanford.edu/entries/moral-anti-realism/)
