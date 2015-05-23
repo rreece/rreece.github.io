@@ -225,18 +225,18 @@ Links and Encyclopedia Articles
 -   [Game Theory](http://www.iep.utm.edu/game-th/)
 -   [Indispensability Argument in the Philosophy of Mathematics](http://www.iep.utm.edu/indimath/)
 -   [Poincar&eacute;, Jules Henri (1854-1912)](http://www.iep.utm.edu/poincare/)
--   [Ludwig Wittgenstein: Later Philosophy of Mathematics](http://www.iep.utm.edu/wittmath/)
 -   [Mathematical Platonism](http://www.iep.utm.edu/mathplat/)
 -   [Mathematical Structuralism](http://www.iep.utm.edu/m-struct/)
 -   [Modal Metaphysics](http://www.iep.utm.edu/mod-meta/)
 -   [Models](http://www.iep.utm.edu/models/)
 -   [Model-Theoretic Conceptions of Logical Consequence](http://www.iep.utm.edu/logcon-m/)
+-   [Platonism, Mathematical](http://www.iep.utm.edu/mathplat/)
 -   [Poincar&eacute;'s Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)
 -   [Process Philosophy](http://www.iep.utm.edu/processp/)
 -   [Relational Models Theory](http://www.iep.utm.edu/r-models/)
 -   [Russell's Paradox](http://www.iep.utm.edu/par-russ/)
 -   [Universals](http://www.iep.utm.edu/universa/)
-
+-   [Wittgenstein's Later Philosophy of Mathematics](http://www.iep.utm.edu/wittmath/)
 
 ### Wikipedia
 
@@ -246,6 +246,7 @@ Links and Encyclopedia Articles
 -   [Gentzen's consistency proof](http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof)
 -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
+-   [Logicism](http://en.wikipedia.org/wiki/Logicism)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Natural number](http://en.wikipedia.org/wiki/Natural_number)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
