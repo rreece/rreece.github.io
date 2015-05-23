@@ -20,6 +20,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Nagel, T. (1974). What Is it Like to Be a Bat?](#nagel-t.-1974.-what-is-it-like-to-be-a-bat)
     1.  [Dennett, D. (1991). Consciousness Explained.](#dennett-d.-1991.-consciousness-explained.)
     1.  [Chalmers, D. (1996). The Conscious Mind: In Search of a Fundamental Theory.](#chalmers-d.-1996.-the-conscious-mind-in-search-of-a-fundamental-theory.)
+    1.  [Kurzweil, R. (2012). How to Create a Mind.](#kurzweil-r.-2012.-how-to-create-a-mind.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
     1.  [SEP](#sep)
@@ -86,6 +87,17 @@ TODO.
 --------------------------------------------------------------------------------
 
 ### Chalmers, D. (1996). The Conscious Mind: In Search of a Fundamental Theory.
+
+TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
+### Kurzweil, R. (2012). How to Create a Mind.
 
 TODO.
 
