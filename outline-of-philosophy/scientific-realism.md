@@ -103,7 +103,8 @@ but we have no ontological commitments to them.
 All statements that can't be empirically verified are meaningless.
 
 -   anti-realist
--   Comte
+-   Auguste Comte
+-   Ernst Mach
 -   The Vienna Circle
 -   Carnap, Neurath, Wittgenstein, Frege, von Neuman, Hilbert
 -   verificationism, nominalism, quietism
@@ -551,6 +552,7 @@ Links and Encyclopedia Articles
 -   [Duhem, Pierre (1861-1916)](http://plato.stanford.edu/entries/duhem/)
 -   [Eliminative Materialism](http://plato.stanford.edu/entries/materialism-eliminative/)
 -   [Feyerabend, Paul (1924-1994)](http://plato.stanford.edu/entries/feyerabend/)
+-   [Mach, Ernst (1838-1916)](http://plato.stanford.edu/entries/ernst-mach/)
 -   [Metaphysics](http://plato.stanford.edu/entries/metaphysics/)
 -   [Metaphysical Grounding](http://plato.stanford.edu/entries/grounding/)
 -   [Natural/Non-natural distinction in Lewis' metaphysics](http://plato.stanford.edu/entries/lewis-metaphysics/natural-distinction.html)
@@ -654,6 +656,7 @@ Links and Encyclopedia Articles
 -   [Inscrutability of reference](http://en.wikipedia.org/wiki/Inscrutability_of_reference)
 -   [Kuhn, Thomas (1922-1996)](http://en.wikipedia.org/wiki/Thomas_Kuhn)
 -   [Logical positivism](http://en.wikipedia.org/wiki/Logical_positivism)
+-   [Mach, Ernst (1838-1916)](http://en.wikipedia.org/wiki/Ernst_Mach)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Metaphysics](http://en.wikipedia.org/wiki/Metaphysics)
 -   [Object-oriented ontology](http://en.wikipedia.org/wiki/Object-oriented_ontology)
