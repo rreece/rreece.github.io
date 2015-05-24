@@ -234,7 +234,7 @@ Links and Encyclopedia Articles
 -   [Statistical mechanics](http://en.wikipedia.org/wiki/Statistical_mechanics)
 -   [String theory](http://en.wikipedia.org/wiki/String_theory)
 -   [Supersymmetry](http://en.wikipedia.org/wiki/Supersymmetry)
--   [Thermal and statistical physics, Philosophy of)](http://en.wikipedia.org/wiki/Philosophy_of_thermal_and_statistical_physics)
+-   [Thermal and statistical physics, Philosophy of](http://en.wikipedia.org/wiki/Philosophy_of_thermal_and_statistical_physics)
 -   [Timeline of cosmological theories](http://en.wikipedia.org/wiki/Timeline_of_cosmological_theories)
 -   [Timeline of particle physics](http://en.wikipedia.org/wiki/Timeline_of_particle_physics)
 -   [Timeline of particle physics technology](http://en.wikipedia.org/wiki/Timeline_of_particle_physics_technology)
