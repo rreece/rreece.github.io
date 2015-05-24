@@ -331,7 +331,7 @@ Links and Encyclopedia Articles
 -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
 -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
 -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
--   [Boostrapping](http://en.wikipedia.org/wiki/Bootstrapping_(statistics))
+-   [Bootstrapping](http://en.wikipedia.org/wiki/Bootstrapping_(statistics))
 -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
 -   [Cartesian doubt](http://en.wikipedia.org/wiki/Cartesian_doubt)
 -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
