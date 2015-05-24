@@ -59,8 +59,8 @@ Issues and Positions
     -   [Gassendi, Pierre (1592-1655)](http://en.wikipedia.org/wiki/Pierre_Gassendi)
     -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
         -   No teleology. Matter plenum, vorticies.
-    -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
+    -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
     -   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
         -   corpuscules
     -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
@@ -89,6 +89,7 @@ TODO.
 -   Early modern philosophy
 -   Skepticism
 -   Lead to the Age of Enlightenment
+-   Development of calculus
 
 Early Empiricists:
 
