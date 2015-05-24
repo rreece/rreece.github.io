@@ -219,6 +219,7 @@ Links and Encyclopedia Articles
 ### Wikipedia
 
 -   [AdS/CFT correspondence](http://en.wikipedia.org/wiki/AdS/CFT_correspondence)
+-   [Background independence](http://en.wikipedia.org/wiki/Background_independence)
 -   [Bell's theorem](http://en.wikipedia.org/wiki/Bell%27s_theorem)
 -   [Black hole information paradox](http://en.wikipedia.org/wiki/Black_hole_information_paradox)
 -   [Bohr-Einstein debates](http://en.wikipedia.org/wiki/Bohr%E2%80%93Einstein_debates)
