@@ -84,12 +84,6 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 $i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle$
 
-Testing:
-
-\begin{equation}
-i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle
-\end{equation}
-
 
 ### The Standard Model of Particle Physics
 
@@ -195,14 +189,17 @@ Links and Encyclopedia Articles
 
 -   [Bell's Theorem](http://plato.stanford.edu/entries/bell-theorem/)
 -   [Bohmian Mechanics](http://plato.stanford.edu/entries/qm-bohm/)
+-   [Collapse Theories](http://plato.stanford.edu/entries/qm-collapse/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 -   [Copenhagen Interpretation of Quantum Mechanics](http://plato.stanford.edu/entries/qm-copenhagen/)
 -   [Decoherence](http://plato.stanford.edu/entries/qm-decoherence/)
 -   [Emergent Properties](http://plato.stanford.edu/entries/properties-emergent/)
+-   [Everett's Relative-State Formulation of Quantum Mechanics](http://plato.stanford.edu/entries/qm-everett/)
 -   [General relativity, Early philosophical interpretations of](http://plato.stanford.edu/entries/genrel-early/)
 -   [Identity and Individuality in Quantum Theory](http://plato.stanford.edu/entries/qt-idind/)
 -   [Kochen-Specker Theorem](http://plato.stanford.edu/entries/kochen-specker/)
 -   [Many-Worlds Interpretation of Quantum Mechanics](http://plato.stanford.edu/entries/qm-manyworlds/)
+-   [Modal Interpretations of Quantum Mechanics](http://plato.stanford.edu/entries/qm-modal/)
 -   [Measurement in Quantum Theory](http://plato.stanford.edu/entries/qt-measurement/)
 -   [Quantum Entanglement and Information](http://plato.stanford.edu/entries/qt-entangle/)
 -   [Quantum Field Theory](http://plato.stanford.edu/entries/quantum-field-theory/)
@@ -225,6 +222,7 @@ Links and Encyclopedia Articles
 -   [Bell's theorem](http://en.wikipedia.org/wiki/Bell%27s_theorem)
 -   [Black hole information paradox](http://en.wikipedia.org/wiki/Black_hole_information_paradox)
 -   [Bohr-Einstein debates](http://en.wikipedia.org/wiki/Bohr%E2%80%93Einstein_debates)
+-   [Born rule](http://en.wikipedia.org/wiki/Born_rule)
 -   [Central limit theorem](http://en.wikipedia.org/wiki/Central_limit_theorem)
 -   [Causality](http://en.wikipedia.org/wiki/Causality_(physics))
 -   [CHSH inequality](http://en.wikipedia.org/wiki/CHSH_inequality)
@@ -246,6 +244,7 @@ Links and Encyclopedia Articles
 -   [Measurement problem](http://en.wikipedia.org/wiki/Measurement_problem)
 -   [M-theory](http://en.wikipedia.org/wiki/M-theory)
 -   [M-theory, Introduction to](http://en.wikipedia.org/wiki/Introduction_to_M-theory)
+-   [No-cloning theorem](http://en.wikipedia.org/wiki/No-cloning_theorem)
 -   [Noether's theorem](http://en.wikipedia.org/wiki/Noether%27s_theorem)
 -   [Particle physics](http://en.wikipedia.org/wiki/Particle_physics)
 -   [Particle physics and representation theory](http://en.wikipedia.org/wiki/Particle_physics_and_representation_theory)
