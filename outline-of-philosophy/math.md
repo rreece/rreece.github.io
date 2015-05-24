@@ -252,6 +252,9 @@ Links and Encyclopedia Articles
 -   [Natural number](http://en.wikipedia.org/wiki/Natural_number)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
 -   [Russell, Bertrand (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell)
+-   [Unsolved problems in information theory, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_information_theory)
+-   [Unsolved problems in linquistics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_linguistics)
+-   [Unsolved problems in mathematics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
 
 ### Others
 
