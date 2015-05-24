@@ -269,6 +269,7 @@ Links and Encyclopedia Articles
 -   [Unsolved problems in physics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
 -   [Wave function](http://en.wikipedia.org/wiki/Wave_function)
 -   [Wave function collapse](http://en.wikipedia.org/wiki/Wave_function_collapse)
+-   [Wave-particle duality](http://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 -   [Wigner-Eckart theorem](http://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem)
 
