@@ -362,6 +362,8 @@ Links and Encyclopedia Articles
 -   [History of science](http://en.wikipedia.org/wiki/History_of_science)
 -   [History of the scientific method](http://en.wikipedia.org/wiki/History_of_scientific_method)
 -   [Hobbes, Thomas (1588-1679)](http://en.wikipedia.org/wiki/Thomas_Hobbes)
+-   [Human evolution](http://en.wikipedia.org/wiki/Human_evolution)
+-   [Human migrations, Early](http://en.wikipedia.org/wiki/Early_human_migrations)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
 -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
