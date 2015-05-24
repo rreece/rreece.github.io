@@ -130,6 +130,7 @@ TODO.
 -   Frequentist vs Bayesian probability
 -   Likelihood principle
 -   Neyman-Pearson lemma
+-   Cram&#233;r-Rao bound
 -   Statistical hypothesis testing: power and confidence
 -   Type-1 and type-2 systematic errors
 -   Feldman-Cousins confidence intervals
