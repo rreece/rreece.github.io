@@ -82,6 +82,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     including non-entangled ones, can communicate by action at a distance. 
 -   TODO.
 
+$i h \partial_{t} \psi = \hat{H} \psi$
+
 
 ### The Standard Model of Particle Physics
 
