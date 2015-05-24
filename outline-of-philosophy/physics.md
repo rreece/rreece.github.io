@@ -86,12 +86,6 @@ $i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle$
 
 Testing:
 
-\[
-i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle
-\]
-
-Testing 2:
-
 \begin{equation}
 i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle
 \end{equation}
