@@ -82,7 +82,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     including non-entangled ones, can communicate by action at a distance. 
 -   TODO.
 
-$i \: \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle$
+$i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle$
 
 
 ### The Standard Model of Particle Physics
