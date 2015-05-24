@@ -135,6 +135,7 @@ TODO.
 -   Statistical hypothesis testing: power and confidence
 -   Type-1 and type-2 systematic errors
 -   Feldman-Cousins confidence intervals
+-   Jerzy Neyman, Egon Pearson, Ronald Fisher
 
 
 ### Abduction
@@ -401,7 +402,9 @@ Links and Encyclopedia Articles
 -   [Statistics, History of](http://en.wikipedia.org/wiki/History_of_statistics)
 -   [Statistics, Outline of](http://en.wikipedia.org/wiki/Outline_of_statistics)
 -   [Statistical classification](http://en.wikipedia.org/wiki/Statistical_classification)
+-   [Statistical hypothesis testing](http://en.wikipedia.org/wiki/Statistical_hypothesis_testing)
 -   [Statistical inference](http://en.wikipedia.org/wiki/Statistical_inference)
+-   [Statistical sensitivity and specificity](http://en.wikipedia.org/wiki/Sensitivity_and_specificity)
 -   [Statistical significance](http://en.wikipedia.org/wiki/Statistical_significance)
 -   [Substantial Form](http://en.wikipedia.org/wiki/Substantial_form)
 -   [Superseded scientific theories](http://en.wikipedia.org/wiki/Superseded_scientific_theories)

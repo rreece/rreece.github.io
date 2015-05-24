@@ -663,6 +663,7 @@ Links and Encyclopedia Articles
 -   [Metaphysics](http://en.wikipedia.org/wiki/Metaphysics)
 -   [Natural Ontological Attitude](http://en.wikipedia.org/wiki/Natural_Ontological_Attitude)
 -   [Object-oriented ontology](http://en.wikipedia.org/wiki/Object-oriented_ontology)
+-   [Paradigm](http://en.wikipedia.org/wiki/Paradigm)
 -   [Pragmatism](http://en.wikipedia.org/wiki/Pragmatism)
 -   [Pragmatic theory of truth](http://en.wikipedia.org/wiki/Pragmatic_theory_of_truth)
 -   [Peirce, Charles Sanders (1839-1914)](http://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
