@@ -336,6 +336,7 @@ Links and Encyclopedia Articles
 -   [Cartesian doubt](http://en.wikipedia.org/wiki/Cartesian_doubt)
 -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
 -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
+-   [Cram&#233;r-Rao bound](http://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound)
 -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
 -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
 -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
