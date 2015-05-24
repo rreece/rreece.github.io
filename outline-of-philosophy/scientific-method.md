@@ -379,6 +379,7 @@ Links and Encyclopedia Articles
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
 -   [Philosophy of Science](http://en.wikipedia.org/wiki/Philosophy_of_science)
+-   [Phlogiston theory](http://en.wikipedia.org/wiki/Phlogiston_theory)
 -   [Plato's problem](http://en.wikipedia.org/wiki/Plato%27s_Problem) from Noam Chomsky 
 -   [Pseudoscience](http://en.wikipedia.org/wiki/Pseudoscience)
 -   [Pseudoscience, List of topics characterized as](http://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience)
@@ -397,6 +398,7 @@ Links and Encyclopedia Articles
 -   [Statistical inference](http://en.wikipedia.org/wiki/Statistical_inference)
 -   [Statistical significance](http://en.wikipedia.org/wiki/Statistical_significance)
 -   [Substantial Form](http://en.wikipedia.org/wiki/Substantial_form)
+-   [Superseded scientific theories](http://en.wikipedia.org/wiki/Superseded_scientific_theories)
 -   [Systematic error](http://en.wikipedia.org/wiki/Systematic_error)
 -   [Timeline of the history of the scientific method](http://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)
 -   [Type-I and type-II errors](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
