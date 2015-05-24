@@ -56,8 +56,12 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 -   Hilbert spaces.  Wigner's theorem.  The Born rule.
 -   Wave-particle duality misconceptions.  Fields are more fundamental than particles.
--   The measurement problem.  Decoherence.  The Born rule.
+-   The measurement problem.  Decoherence.  The Born rule again.
 -   Decoherence brings quantum logic to classical logic.
+-   Bell's inequality
+-   PBR theorem. Wikipedia: Either the quantum state corresponds to a physically
+    real object and is not merely a statistical tool, or else all quantum states,
+    including non-entangled ones, can communicate by action at a distance. 
 -   TODO.
 
 
@@ -153,7 +157,9 @@ TODO.
 
 ### More articles to do
 
--   TODO.
+-   Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state.
+
+
 
 
 Links and Encyclopedia Articles
