@@ -84,6 +84,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 $i \hbar \frac{\partial}{\partial t} |\psi\rangle = \hat{H} |\psi\rangle$
 
+Testing:
+
+$i \hbar \partial_{t} |\psi\rangle = \hat{H} |\psi\rangle$
+
 
 ### The Standard Model of Particle Physics
 
