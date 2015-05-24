@@ -129,9 +129,10 @@ TODO.
 
 -   Frequentist vs Bayesian probability
 -   Statistical hypothesis testing: power and confidence
+-   Likelihood principle
+-   Type-1 and type-2 systematic errors
 -   Neyman-Pearson lemma
 -   Feldman-Cousins confidence intervals
--   Type-1 and type-2 systematic errors
 
 
 ### Abduction
@@ -330,6 +331,7 @@ Links and Encyclopedia Articles
 -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
 -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
 -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
+-   [Boostrapping](http://en.wikipedia.org/wiki/Bootstrapping_(statistics))
 -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
 -   [Cartesian doubt](http://en.wikipedia.org/wiki/Cartesian_doubt)
 -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
@@ -357,8 +359,10 @@ Links and Encyclopedia Articles
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
 -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
+-   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
 -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
 -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
+-   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
 -   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
@@ -382,9 +386,17 @@ Links and Encyclopedia Articles
 -   [Scientism](http://en.wikipedia.org/wiki/Scientism)
 -   [Skepticism, Philosophical](http://en.wikipedia.org/wiki/Philosophical_skepticism)
 -   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
+-   [Statistics](http://en.wikipedia.org/wiki/Statistics)
+-   [Statistics, Founders of](http://en.wikipedia.org/wiki/Founders_of_statistics)
+-   [Statistics, History of](http://en.wikipedia.org/wiki/History_of_statistics)
+-   [Statistics, Outline of](http://en.wikipedia.org/wiki/Outline_of_statistics)
+-   [Statistical classification](http://en.wikipedia.org/wiki/Statistical_classification)
+-   [Statistical inference](http://en.wikipedia.org/wiki/Statistical_inference)
+-   [Statistical significance](http://en.wikipedia.org/wiki/Statistical_significance)
 -   [Substantial Form](http://en.wikipedia.org/wiki/Substantial_form)
 -   [Systematic error](http://en.wikipedia.org/wiki/Systematic_error)
 -   [Timeline of the history of the scientific method](http://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)
+-   [Type-I and type-II errors](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
 -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
 
