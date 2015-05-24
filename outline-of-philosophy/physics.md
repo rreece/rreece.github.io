@@ -289,6 +289,7 @@ Links and Encyclopedia Articles
 -   [bohmianmechanics.org](http://www.bohmianmechanics.org/)
 -   [Can the quantum state be interpreted statistically?](http://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/) - Matt Leifer
 -   [Emergence](http://rationalwiki.org/wiki/Emergence) - RationalWiki.org
--   [Philosophy of general relativity](http://faculty.poly.edu/~jbain/philrel/index.html) - Jonathan Bain
+-   [Philosophy of general relativity](http://faculty.poly.edu/~jbain/philrel/) - Jonathan Bain
+-   [Philosophy of quantum mechanics](http://ls.poly.edu/~jbain/philqm/) - Jonathan Bain
 
 
