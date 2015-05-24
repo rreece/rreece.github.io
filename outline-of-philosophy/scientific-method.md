@@ -128,10 +128,10 @@ TODO.
 TODO.
 
 -   Frequentist vs Bayesian probability
--   Statistical hypothesis testing: power and confidence
 -   Likelihood principle
--   Type-1 and type-2 systematic errors
 -   Neyman-Pearson lemma
+-   Statistical hypothesis testing: power and confidence
+-   Type-1 and type-2 systematic errors
 -   Feldman-Cousins confidence intervals
 
 
