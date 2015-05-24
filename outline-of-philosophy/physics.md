@@ -29,6 +29,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [SEP](#sep)
     1.  [IEP](#iep)
     1.  [Wikipedia](#wikipedia)
+    1.  [Scholarpedia](#scholarpedia)
     1.  [Others](#others)
 -   [Notes](#fn1)
 
@@ -243,6 +244,10 @@ Links and Encyclopedia Articles
 -   [Wave function collapse](http://en.wikipedia.org/wiki/Wave_function_collapse)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 -   [Wigner-Eckart theorem](http://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem)
+
+### Scholarpedia
+
+-   TODO: add stuff from scholarpedia.org
 
 ### Others
 
