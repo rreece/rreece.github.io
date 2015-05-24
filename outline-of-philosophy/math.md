@@ -224,6 +224,7 @@ Links and Encyclopedia Articles
 -   [Frege, Gottlob (1848-1925)](http://www.iep.utm.edu/frege/)
 -   [Game Theory](http://www.iep.utm.edu/game-th/)
 -   [Indispensability Argument in the Philosophy of Mathematics](http://www.iep.utm.edu/indimath/)
+-   [Infinite](http://www.iep.utm.edu/infinite/)
 -   [Poincar&eacute;, Jules Henri (1854-1912)](http://www.iep.utm.edu/poincare/)
 -   [Mathematical Platonism](http://www.iep.utm.edu/mathplat/)
 -   [Mathematical Structuralism](http://www.iep.utm.edu/m-struct/)

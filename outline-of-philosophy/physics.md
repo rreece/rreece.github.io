@@ -184,13 +184,25 @@ Links and Encyclopedia Articles
 
 ### Wikipedia
 
+-   [AdS/CFT correspondence](http://en.wikipedia.org/wiki/AdS/CFT_correspondence)
+-   [Chronology of the universe](http://en.wikipedia.org/wiki/Chronology_of_the_universe)
 -   [De Broglie-Bohm theory](http://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory)
 -   [Emergence](http://en.wikipedia.org/wiki/Emergence)
 -   [Mathematical formulation of quantum mechanics](http://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics)
+-   [M-theory](http://en.wikipedia.org/wiki/M-theory)
+-   [Particle physics](http://en.wikipedia.org/wiki/Particle_physics)
 -   [Particle physics and representation theory](http://en.wikipedia.org/wiki/Particle_physics_and_representation_theory)
 -   [PBR theorem](http://en.wikipedia.org/wiki/PBR_theorem)
+-   [Physical cosmology](http://en.wikipedia.org/wiki/Physical_cosmology)
 -   [Quantum entanglement](http://en.wikipedia.org/wiki/Quantum_entanglement)
+-   [Quantum mechanics](http://en.wikipedia.org/wiki/Quantum_mechanics)
 -   [Representation theory](http://en.wikipedia.org/wiki/Representation_theory)
+-   [Standard Model](http://en.wikipedia.org/wiki/Standard_Model)
+-   [Standard Model (mathematical formulation)](http://en.wikipedia.org/wiki/Standard_Model_(mathematical_formulation))
+-   [Timeline of cosmological theories](http://en.wikipedia.org/wiki/Timeline_of_cosmological_theories)
+-   [Timeline of particle physics](http://en.wikipedia.org/wiki/Timeline_of_particle_physics)
+-   [Timeline of particle physics technology](http://en.wikipedia.org/wiki/Timeline_of_particle_physics_technology)
+-   [Timeline of quantum mechanics](http://en.wikipedia.org/wiki/Timeline_of_quantum_mechanics)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 -   [Wigner-Eckart theorem](http://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem)
 
