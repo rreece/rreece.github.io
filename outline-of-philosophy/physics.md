@@ -82,7 +82,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     including non-entangled ones, can communicate by action at a distance. 
 -   TODO.
 
-$$i \hbar \frac{\partial}{\partial t} |\psi\rangle = \hat{H} |\psi\rangle$$
+$$ i \hbar \frac{\partial}{\partial t} |\psi\rangle = \hat{H} |\psi\rangle $$
 
 Testing:
 
