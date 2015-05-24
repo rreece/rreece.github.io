@@ -215,6 +215,7 @@ Links and Encyclopedia Articles
 
 -   [AdS/CFT correspondence](http://en.wikipedia.org/wiki/AdS/CFT_correspondence)
 -   [Bell's theorem](http://en.wikipedia.org/wiki/Bell%27s_theorem)
+-   [Black hole information paradox](http://en.wikipedia.org/wiki/Black_hole_information_paradox)
 -   [Bohr-Einstein debates](http://en.wikipedia.org/wiki/Bohr%E2%80%93Einstein_debates)
 -   [Central limit theorem](http://en.wikipedia.org/wiki/Central_limit_theorem)
 -   [Causality](http://en.wikipedia.org/wiki/Causality_(physics))
@@ -231,6 +232,7 @@ Links and Encyclopedia Articles
 -   [Entropy](http://en.wikipedia.org/wiki/Entropy)
 -   [Entropy, Introduction to](http://en.wikipedia.org/wiki/Introduction_to_entropy)
 -   [Field](http://en.wikipedia.org/wiki/Field_(physics))
+-   [Firewall](http://en.wikipedia.org/wiki/Firewall_%28physics%29)
 -   [Grand Unified Theory](http://en.wikipedia.org/wiki/Grand_Unified_Theory)
 -   [Hilbert space](http://en.wikipedia.org/wiki/Hilbert_space)
 -   [Measurement problem](http://en.wikipedia.org/wiki/Measurement_problem)

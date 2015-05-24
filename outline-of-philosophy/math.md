@@ -241,6 +241,8 @@ Links and Encyclopedia Articles
 
 ### Wikipedia
 
+-   [Central limit theorem](http://en.wikipedia.org/wiki/Central_limit_theorem)
+-   [Continuum hypothesis](http://en.wikipedia.org/wiki/Continuum_hypothesis)
 -   [Diagonal lemma](http://en.wikipedia.org/wiki/Diagonal_lemma)
 -   [Ethnomathematics](http://en.wikipedia.org/wiki/Ethnomathematics)
 -   [Frege, Gottlob (1848-1925)](http://en.wikipedia.org/wiki/Gottlob_Frege)
