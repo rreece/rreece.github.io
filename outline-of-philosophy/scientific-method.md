@@ -327,6 +327,7 @@ Links and Encyclopedia Articles
 ### Wikipedia
 
 -   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
+-   [Accommodationism](http://rationalwiki.org/wiki/Accommodationism) - coined by [Austin Dacey](http://en.wikipedia.org/wiki/Austin_Dacey)
 -   [Alhazen AKA Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen)
 -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
 -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
@@ -347,6 +348,9 @@ Links and Encyclopedia Articles
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
 -   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
 -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
+-   [Evolution](http://en.wikipedia.org/wiki/Evolution)
+-   [Evolution, Induction to](http://en.wikipedia.org/wiki/Introduction_to_evolution)
+-   [Evolution, Outline of](http://en.wikipedia.org/wiki/Outline_of_evolution)
 -   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
 -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
 -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
@@ -408,10 +412,11 @@ Links and Encyclopedia Articles
 
 ### Others
 
+-   [Accommodationism](http://rationalwiki.org/wiki/Accommodationism) - RationalWiki.org
 -   [Hume's fork](http://www.mathmonism.com/humesfork.html) - mathmonism.com
 -   [Inference to the Best Explanation](http://www.informationphilosopher.com/knowledge/best_explanation.html) - informationphilosopher.com
 -   [Is Hume's fork self-refuting?](http://philosophy.stackexchange.com/questions/7609/is-humes-fork-self-refuting) - Philosophy StackExchange
--   [Scientism](http://rationalwiki.org/wiki/Scientism) - RationalWiki
+-   [Scientism](http://rationalwiki.org/wiki/Scientism) - RationalWiki.org
 
 
 
