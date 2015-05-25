@@ -23,9 +23,9 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Fine-tuning](#fine-tuning)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Einstein, A., Podolsky, B., & Rosen, N. (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](#einstein-a.-podolsky-b.-rosen-n.-1935.-can-quantum-mechanical-description-of-physical-reality-be-considered-complete)
+    1.  [Einstein, A., B. Podolsky, & N. Rosen (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](#einstein-a.-podolsky-b.-rosen-n.-1935.-can-quantum-mechanical-description-of-physical-reality-be-considered-complete)
     1.  [Anderson, P. (1972). More is Different.](#anderson-p.-1972.-more-is-different.)
-    1.  [Giulini, D., Joos, E., Kiefer, C., Kupsch, J., Stamatescu, I.O., & Zeh, H. (1996). Decoherence and the Appearance of a Classical World in Quantum Theory.](#giulini-d.-joos-e.-kiefer-c.-kupsch-j.-stamatescu-i.o.-zeh-h.-1996.-decoherence-and-the-appearance-of-a-classical-world-in-quantum-theory.)
+    1.  [Giulini, D., E. Joos, C. Kiefer, J. Kupsch, I.O. Stamatescu, & H. Zeh (1996). Decoherence and the Appearance of a Classical World in Quantum Theory.](#giulini-d.-joos-e.-kiefer-c.-kupsch-j.-stamatescu-i.o.-zeh-h.-1996.-decoherence-and-the-appearance-of-a-classical-world-in-quantum-theory.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
     1.  [SEP](#sep)
@@ -142,7 +142,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-### Einstein, A., Podolsky, B., & Rosen, N. (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?
+### Einstein, A., B. Podolsky, & N. Rosen (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?
 
 TODO.
 
@@ -164,7 +164,7 @@ TODO.
 
 --------------------------------------------------------------------------------
 
-### Giulini, D., Joos, E., Kiefer, C., Kupsch, J., Stamatescu, I.O., & Zeh, H. (1996). Decoherence and the Appearance of a Classical World in Quantum Theory.
+### Giulini, D., E. Joos, C. Kiefer, J. Kupsch, I.O. Stamatescu, & H. Zeh (1996). Decoherence and the Appearance of a Classical World in Quantum Theory.
 
 TODO.
 
