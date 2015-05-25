@@ -329,7 +329,6 @@ Links and Encyclopedia Articles
 ### Wikipedia
 
 -   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
--   [Accommodationism](http://rationalwiki.org/wiki/Accommodationism) - coined by [Austin Dacey](http://en.wikipedia.org/wiki/Austin_Dacey)
 -   [Alhazen AKA Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen)
 -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
 -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
@@ -418,7 +417,7 @@ Links and Encyclopedia Articles
 
 ### Others
 
--   [Accommodationism](http://rationalwiki.org/wiki/Accommodationism) - RationalWiki.org
+-   [Accommodationism](http://rationalwiki.org/wiki/Accommodationism) - RationalWiki.org, coined by [Austin Dacey](http://en.wikipedia.org/wiki/Austin_Dacey)
 -   [Hume's fork](http://www.mathmonism.com/humesfork.html) - mathmonism.com
 -   [Inference to the Best Explanation](http://www.informationphilosopher.com/knowledge/best_explanation.html) - informationphilosopher.com
 -   [Is Hume's fork self-refuting?](http://philosophy.stackexchange.com/questions/7609/is-humes-fork-self-refuting) - Philosophy StackExchange
