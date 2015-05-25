@@ -66,7 +66,7 @@ Issues and Positions
     -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
     -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
     -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
--   "Science"
+-   "Scientist"
     -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
 -   Biological evolution:
     -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
