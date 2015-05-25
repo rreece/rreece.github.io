@@ -122,6 +122,7 @@ TODO.
 -   Evidence based
 -   Anti-conspiracy, parsimony
 -   Positivism
+-   Scientism
 
 
 ### Statistical Measurement
@@ -144,7 +145,8 @@ TODO.
 TODO.
 
 -   Inference to the best explanation 
--   Natural kinds
+-   Ockham, parsimony
+-   Natural kinds, abstraction
 -   Convergence
 
 
@@ -152,11 +154,13 @@ TODO.
 
 TODO.
 
--   JTB-G.  Systematic uncertanties.  Gettier cases.  Failed justification.
+-   Knowledge = JTB-G. Plato. Gettier cases.
+-   Systematic uncertanties.  Failed justification.
 -   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
 -   Ontological implications of science.
 -   See the outline on [scientific realism](scientific-realism.html).
--   Unless we have a collective conspiracy, probablistically justifying assumptions of uniformity.
+-   Uniformitarianism: Unless we have a collective and/or non-local conspiracies,
+    we can probablistically justify assumptions of uniformity.
 
 <img src="img/knowledge.png" alt="Knowledge = JTB - G" title="Knowledge = JTB - G" width="700"/>
 
@@ -178,7 +182,6 @@ TODO.
 -   See the outline on [Naturalism](naturalism.html).
 -   Reductionism
 -   Monism
--   Scientism.
 
 
 ### Pseudoscience
