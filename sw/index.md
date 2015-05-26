@@ -23,6 +23,16 @@ some html/css templates.  You can use it to make simple webpages *like this one*
 -   [github.com/rreece/markdown-memo](https://github.com/rreece/markdown-memo)
 
 
+pyrootutils
+--------------------------------------------------------------------------------
+
+A set of useful tools for taming pyroot.
+
+TODO: Need to describe this more.  This is new.
+
+-   [github.com/rreece/pyrootutils](https://github.com/rreece/pyrootutils)
+
+
 rdrshell
 --------------------------------------------------------------------------------
 
