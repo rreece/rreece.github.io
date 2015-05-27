@@ -112,8 +112,8 @@ Other important sythesizers:
 TODO.
 
 -   Not a seven-step program
--   Evidence based
--   Anti-conspiracy, parsimony
+-   Evidence based, anti-conspiracy, parsimony
+-   Error-catching filters, community
 -   Positivism
 -   Scientism
 
