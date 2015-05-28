@@ -95,6 +95,7 @@ Who do I want to reach with this argument?
     with or without the capability of describing reality.
 -   Allies in illucidating the demarcation of what science is,
     and what sorts of claims it justifies.
+-   TODO: Can this be accessible and interesting to both academic and lay audiences?
     
 
 A place to start in the discussion of philosophy of science and naturalism
