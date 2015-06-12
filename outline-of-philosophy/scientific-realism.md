@@ -159,6 +159,8 @@ See also:
 -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism) - scientific realism vs anti-realism
 -   [positivists.org/blog/movements](http://positivists.org/blog/movements)
 
+Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
+
 
 ### Postpositivism
 
