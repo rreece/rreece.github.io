@@ -93,6 +93,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     real object and is not merely a statistical tool, or else all quantum states,
     including non-entangled ones, can communicate by action at a distance. 
 -   TODO.
+-   Gisin's Theorem
 
 $i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle$
 

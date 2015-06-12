@@ -88,6 +88,39 @@ Science makes real progress in describing real features of the world.
 -   Social constructivism
 -   Epistemological anarchism
 
+Positivism is a philosophy of science and epistemology that roughly defends a
+qualified empiricism, that the scientific method is the only route to knowledge,
+and that all statements that cannot be empirically verified are meaningless.
+Positivism is strongly eliminative about metaphysics and claims that many
+metaphysical questions and positions are not open or false, but meaningless
+because of their lack of attachment to empirically demonstrable things or effects.
+
+This means that positivism is generally seen to imply anti-realist views of science and mathematics, preferring as Carnap says in 
+_Empiricism, Semantics, and Ontology_:
+
+>   As far as possible they [empiricists] try to avoid any reference to abstract entities and to restrict themselves to what is sometimes called a nominalistic language, i.e., one not containing such references.
+
+Positivists have instrumentalist (anti-realist) views about the models science
+produces, given that they are constructed from abstractions and involve the
+epistemological limitations of induction and theory change. As a qualified sort
+of empiricism that supports the primacy of the scientific method, positivism
+is sometimes equated with scientism (often derogatorily) if one takes it to
+claim that science is the only way to attain knowledge.
+
+In a more general sense, positivism is aligned with naturalism, the
+meta-philosophy that roughly says that science should inform and bootstrap
+our philosophical claims. Naturalists, having a more broadly aligned and
+various support for science, may not have such exclusive views of
+epistemology or such eliminative views of metaphysics. Many naturalists are
+instead realists about science, math, and/or ethics, for example following
+a version of structural realism about the discoveries from science, capturing
+and constraining real structures in nature.
+
+See also:
+
+-   [http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism](philosophy-in-figures.tumblr.com) - scientific realism vs anti-realism
+-   [http://positivists.org/blog/movements](positivists.org/blog/movements)
+
 
 ### Instrumentalism
 
