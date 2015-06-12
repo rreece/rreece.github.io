@@ -156,8 +156,8 @@ and constraining real structures in nature.
 
 See also:
 
--   [http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism](philosophy-in-figures.tumblr.com) - scientific realism vs anti-realism
--   [http://positivists.org/blog/movements](positivists.org/blog/movements)
+-   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism) - scientific realism vs anti-realism
+-   [positivists.org/blog/movements](http://positivists.org/blog/movements)
 
 
 ### Postpositivism
