@@ -88,6 +88,44 @@ Science makes real progress in describing real features of the world.
 -   Social constructivism
 -   Epistemological anarchism
 
+
+### Instrumentalism
+
+Theoretical concepts may have use in predicting observations,
+but we have no ontological commitments to them.
+
+-   anti-realist
+-   Duhem
+
+
+### Positivism
+
+All statements that can't be empirically verified are meaningless.
+
+-   anti-realist
+-   Auguste Comte
+-   Ernst Mach
+-   The Vienna Circle
+-   Carnap, Neurath, Wittgenstein, Frege, von Neuman, Hilbert
+-   verificationism, nominalism, quietism
+-   Russel, G&#246;del
+-   Carnap's "ESO"[^Carnap-1950]
+-   Quine's "Two Dogmas"[^Quine-1951]
+-   Carnap's "Logical Foundations of Science"[^Carnap-1955]
+-   Scheinproblem = Pseudo-problem
+
+Note any differences between:
+
+-   positivism
+-   logical positivism
+-   logical empiricism
+
+The "death" of positivism:
+
+-   Wittgenstein, *Philosophical Investigations*, ordinary language philosophy
+-   Kuhn
+-   anti-positivism, post-structuralism, postmodernism (continental)
+
 Positivism is a philosophy of science and epistemology that roughly defends a
 qualified empiricism, that the scientific method is the only route to knowledge,
 and that all statements that cannot be empirically verified are meaningless.
@@ -120,45 +158,6 @@ See also:
 
 -   [http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism](philosophy-in-figures.tumblr.com) - scientific realism vs anti-realism
 -   [http://positivists.org/blog/movements](positivists.org/blog/movements)
-
-
-### Instrumentalism
-
-Theoretical concepts may have use in predicting observations,
-but we have no ontological commitments to them.
-
--   anti-realist
--   Duhem
-
-
-### Positivism
-
-All statements that can't be empirically verified are meaningless.
-
--   anti-realist
--   Auguste Comte
--   Ernst Mach
--   The Vienna Circle
--   Carnap, Neurath, Wittgenstein, Frege, von Neuman, Hilbert
--   verificationism, nominalism, quietism
--   Russel, G&#246;del
--   Carnap's "ESO"[^Carnap-1950]
--   Quine's "Two Dogmas"[^Quine-1951]
--   Carnap's "Logical Foundations of Science"[^Carnap-1955]
--   Scheinproblem = Pseudo-problem
-
-
-Note any differences between:
-
--   positivism
--   logical positivism
--   logical empiricism
-
-The "death" of positivism:
-
--   Wittgenstein, *Philosophical Investigations*, ordinary language philosophy
--   Kuhn
--   anti-positivism, post-structuralism, postmodernism (continental)
 
 
 ### Postpositivism
