@@ -220,6 +220,7 @@ Links and Encyclopedia Articles
 -   [Quantum Mechanics](http://plato.stanford.edu/entries/qm/)
 -   [Relational Quantum Mechanics](http://plato.stanford.edu/entries/qm-relational/)
 -   [Statistical mechanics, Philosophy of](http://plato.stanford.edu/entries/statphys-statmech/)
+-   [Symmetry Breaking](http://plato.stanford.edu/entries/symmetry-breaking/)
 
 ### IEP
 
