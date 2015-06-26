@@ -18,7 +18,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Bostrom, N. (2002). Anthropic Bias: Observation selection effects in science and philosophy.](#bostrom-n.-2002.-anthropic-bias-observation-selection-effects-in-science-and-philosophy.)
-    1.  [Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies.](#bostrom-n.-2003.-are-you-living-in-a-computer-simulation)
+    1.  [Bostrom, N. (2003). Are You Living in a Computer Simulation?](#bostrom-n.-2003.-are-you-living-in-a-computer-simulation)
     1.  [Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies.](#bostrom-n.-2014.-superintelligence-paths-dangers-strategies.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
