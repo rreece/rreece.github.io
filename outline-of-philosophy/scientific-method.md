@@ -310,6 +310,7 @@ Links and Encyclopedia Articles
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
 -   [Epistemology](http://www.iep.utm.edu/epistemo/)
 -   [Epistemology of Testimony](http://www.iep.utm.edu/ep-testi/)
+-   [Gettier Problems](http://www.iep.utm.edu/gettier/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Locke, John (1632-1704)](http://www.iep.utm.edu/locke/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
