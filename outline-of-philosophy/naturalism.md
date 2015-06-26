@@ -54,6 +54,10 @@ Scientism.
 -   What are the limits of science?
 -   Are there other ways of knowing?
 
+Naturalism could be defined as a support for philosophy that is filtered for
+plausibility given the information from science.
+
+
 ### Rejection of *a priori* metaphysics
 
 Metaphysical naturalism.
