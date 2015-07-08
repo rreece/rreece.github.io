@@ -385,6 +385,7 @@ Links and Encyclopedia Articles
 -   [Philosophy of Science](http://en.wikipedia.org/wiki/Philosophy_of_science)
 -   [Phlogiston theory](http://en.wikipedia.org/wiki/Phlogiston_theory)
 -   [Plato's problem](http://en.wikipedia.org/wiki/Plato%27s_Problem) from Noam Chomsky 
+-   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
 -   [Pseudoscience](http://en.wikipedia.org/wiki/Pseudoscience)
 -   [Pseudoscience, List of topics characterized as](http://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience)
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
