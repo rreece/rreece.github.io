@@ -259,6 +259,7 @@ Links and Encyclopedia Articles
 -   [Grand Unified Theory](http://en.wikipedia.org/wiki/Grand_Unified_Theory)
 -   [Hilbert space](http://en.wikipedia.org/wiki/Hilbert_space)
 -   [Holographic principle](http://en.wikipedia.org/wiki/Holographic_principle)
+-   [Measurement in quantum mechanics](https://en.wikipedia.org/wiki/Measurement_in_quantum_mechanics)
 -   [Measurement problem](http://en.wikipedia.org/wiki/Measurement_problem)
 -   [M-theory](http://en.wikipedia.org/wiki/M-theory)
 -   [M-theory, Introduction to](http://en.wikipedia.org/wiki/Introduction_to_M-theory)
@@ -300,7 +301,37 @@ Links and Encyclopedia Articles
 
 ### Scholarpedia
 
--   TODO: add stuff from scholarpedia.org
+-   [Algebraic renormalization](http://www.scholarpedia.org/article/Algebraic_renormalization)
+-   [ATLAS experiment](http://www.scholarpedia.org/article/The_ATLAS_experiment)
+-   [Bjorken scaling](http://www.scholarpedia.org/article/Bjorken_scaling)
+-   [Coleman-Mandula theorem](http://www.scholarpedia.org/article/Coleman-Mandula_theorem)
+-   [Coleman-Weinberg mechanism](http://www.scholarpedia.org/article/Coleman-Weinberg_mechanism)
+-   [CP violation in electroweak interactions](http://www.scholarpedia.org/article/CP_violation_in_electroweak_interactions)
+-   [Critical Phenomena: field theoretical approach](http://www.scholarpedia.org/article/Critical_Phenomena:_field_theoretical_approach)
+-   [Daya Bay Experiment](http://www.scholarpedia.org/article/The_Daya_Bay_Experiment)
+-   [Englert-Brout-Higgs-Guralnik-Hagen-Kibble mechanism](http://www.scholarpedia.org/article/Englert-Brout-Higgs-Guralnik-Hagen-Kibble_mechanism)
+-   [Englert-Brout-Higgs-Guralnik-Hagen-Kibble mechanism (history)](http://www.scholarpedia.org/article/Englert-Brout-Higgs-Guralnik-Hagen-Kibble_mechanism_(history))
+-   [Faddeev-Popov ghosts](http://www.scholarpedia.org/article/Faddeev-Popov_ghosts)
+-   [Gauge invariance](http://www.scholarpedia.org/article/Gauge_invariance)
+-   [Gauge theories](http://www.scholarpedia.org/article/Gauge_theories)
+-   [Glashow-Iliopoulos-Maiani mechanism](http://www.scholarpedia.org/article/Glashow-Iliopoulos-Maiani_mechanism)
+-   [Grand unification](http://www.scholarpedia.org/article/Grand_unification)
+-   [Lagrangian formalism for fields](http://www.scholarpedia.org/article/Lagrangian_formalism_for_fields)
+-   [Leptogenesis](http://www.scholarpedia.org/article/Leptogenesis)
+-   [Local operator](http://www.scholarpedia.org/article/Local_operator)
+-   [Lattice gauge theories](http://www.scholarpedia.org/article/Lattice_gauge_theories)
+-   [Lattice quantum field theory](http://www.scholarpedia.org/article/Lattice_quantum_field_theory)
+-   [MS-bar definition of parton distribution functions](http://www.scholarpedia.org/article/MS-bar_definition_of_parton_distribution_functions)
+-   [Multiloop Feynman integrals](http://www.scholarpedia.org/article/Multiloop_Feynman_integrals)
+-   [Operator product expansion](http://www.scholarpedia.org/article/Operator_product_expansion)
+-   [Parton shower Monte Carlo event generators](http://www.scholarpedia.org/article/Parton_shower_Monte_Carlo_event_generators)
+-   [Path integral](http://www.scholarpedia.org/article/Path_integral)
+-   [Path integral: mathematical aspects](http://www.scholarpedia.org/article/Path_integral:_mathematical_aspects)
+-   [Principle of least action](http://www.scholarpedia.org/article/Principle_of_least_action)
+-   [QCD evolution equations for parton densities](http://www.scholarpedia.org/article/QCD_evolution_equations_for_parton_densities)
+-   [Second quantization](http://www.scholarpedia.org/article/Second_quantization)
+-   [Symmetry breaking in classical systems](http://www.scholarpedia.org/article/Symmetry_breaking_in_classical_systems)
+-   [Wightman quantum field_theory](http://www.scholarpedia.org/article/Wightman_quantum_field_theory)
 
 ### Others
 
