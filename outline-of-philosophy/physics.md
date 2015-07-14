@@ -238,6 +238,7 @@ Links and Encyclopedia Articles
 -   [Black hole information paradox](http://en.wikipedia.org/wiki/Black_hole_information_paradox)
 -   [Bohr-Einstein debates](http://en.wikipedia.org/wiki/Bohr%E2%80%93Einstein_debates)
 -   [Born rule](http://en.wikipedia.org/wiki/Born_rule)
+-   [C*-algebra](https://en.wikipedia.org/wiki/C*-algebra)
 -   [Central limit theorem](http://en.wikipedia.org/wiki/Central_limit_theorem)
 -   [Causality](http://en.wikipedia.org/wiki/Causality_(physics))
 -   [CHSH inequality](http://en.wikipedia.org/wiki/CHSH_inequality)
@@ -256,9 +257,14 @@ Links and Encyclopedia Articles
 -   [Entropy, Introduction to](http://en.wikipedia.org/wiki/Introduction_to_entropy)
 -   [Field](http://en.wikipedia.org/wiki/Field_(physics))
 -   [Firewall](http://en.wikipedia.org/wiki/Firewall_%28physics%29)
+-   [Gelfand-Naimark theorem](https://en.wikipedia.org/wiki/Gelfand%E2%80%93Naimark_theorem)
+-   [Gelfand-Naimark-Segal construction](https://en.wikipedia.org/wiki/Gelfand%E2%80%93Naimark%E2%80%93Segal_construction)
 -   [Grand Unified Theory](http://en.wikipedia.org/wiki/Grand_Unified_Theory)
+-   [Haag's theorem](https://en.wikipedia.org/wiki/Haag%27s_theorem)
 -   [Hilbert space](http://en.wikipedia.org/wiki/Hilbert_space)
 -   [Holographic principle](http://en.wikipedia.org/wiki/Holographic_principle)
+-   [Locality, Principle of](https://en.wikipedia.org/wiki/Principle_of_locality)
+-   [Local quantum field theory](https://en.wikipedia.org/wiki/Local_quantum_field_theory)
 -   [Measurement in quantum mechanics](https://en.wikipedia.org/wiki/Measurement_in_quantum_mechanics)
 -   [Measurement problem](http://en.wikipedia.org/wiki/Measurement_problem)
 -   [M-theory](http://en.wikipedia.org/wiki/M-theory)
@@ -339,6 +345,7 @@ Links and Encyclopedia Articles
 -   [Can the quantum state be interpreted statistically?](http://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/) - Matt Leifer
 -   [Effective field theory](http://ncatlab.org/nlab/show/effective+quantum+field+theory) - nlab
 -   [Emergence](http://rationalwiki.org/wiki/Emergence) - RationalWiki.org
+-   [lqp2.org](http://www.lqp2.org/) - serving several papers on AQFT
 -   [Philosophy of general relativity](http://faculty.poly.edu/~jbain/philrel/) - Jonathan Bain
 -   [Philosophy of quantum mechanics](http://ls.poly.edu/~jbain/philqm/) - Jonathan Bain
 
