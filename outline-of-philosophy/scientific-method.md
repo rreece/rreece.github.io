@@ -113,7 +113,7 @@ TODO.
 
 -   Not a seven-step program
 -   Evidence based, anti-conspiracy, parsimony
--   Error-catching filters, community
+-   Error-catching filters, community, honesty, openness
 -   Positivism
 -   Scientism
 
