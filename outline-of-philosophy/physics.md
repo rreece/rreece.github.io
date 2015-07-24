@@ -239,6 +239,7 @@ Links and Encyclopedia Articles
 -   [Bohr-Einstein debates](http://en.wikipedia.org/wiki/Bohr%E2%80%93Einstein_debates)
 -   [Born rule](http://en.wikipedia.org/wiki/Born_rule)
 -   [C*-algebra](https://en.wikipedia.org/wiki/C*-algebra)
+-   [Causal Processes](http://plato.stanford.edu/entries/causation-process/)
 -   [Central limit theorem](http://en.wikipedia.org/wiki/Central_limit_theorem)
 -   [Causality](http://en.wikipedia.org/wiki/Causality_(physics))
 -   [CHSH inequality](http://en.wikipedia.org/wiki/CHSH_inequality)
