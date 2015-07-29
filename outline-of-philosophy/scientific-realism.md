@@ -79,6 +79,14 @@ Science makes real progress in describing real features of the world.
 
 -   Boyd, Sellars
 
+    To a very rough, first approximation, realism is the view that our best scientific theories
+    correctly describe both observable and unobservable parts of the world.    (Chakravartty, 2007)
+
+    Scientific realism is a positive epistemic attitude towards the content of our
+    best theories and models, recommending belief in both observable and unobservable
+    aspects of the world described by the sciences.   (Chakravartty, 2011)
+
+
 **Challenges to Scientific Realism:**
 
 -   Underdetermination; language dependence; Duhem-Quine thesis; the problem of translation
