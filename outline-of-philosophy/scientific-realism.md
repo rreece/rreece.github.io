@@ -662,6 +662,7 @@ Links and Encyclopedia Articles
 -   [Carnap, Rudolf (1891-1970)](http://www.iep.utm.edu/carnap/)
 -   [Confirmation and Induction](http://www.iep.utm.edu/conf-ind/)
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
+-   [Contemporary Skepticism](http://www.iep.utm.edu/skepcont/)
 -   [Dewey, John (1859-1952)](http://www.iep.utm.edu/dewey/)
 -   [Evidence](http://www.iep.utm.edu/evidence/)
 -   [Explanation, Theories of](http://www.iep.utm.edu/explanat/)
