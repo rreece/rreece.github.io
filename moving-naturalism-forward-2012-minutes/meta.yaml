@@ -1,0 +1,41 @@
+---
+title: "Ryan's Moving Naturalism Forward 2012 Minutes"
+titleshort: "Ryan's Moving Naturalism Forward 2012 Minutes"
+author:
+    -   |
+        Ryan Reece[^ReeceSCIPP]
+
+        [^ReeceSCIPP]: University of California, Santa Cruz
+authorshort: 'Ryan Reece'
+date: 'March 1, 2013'
+license: '&copy; 2014-2015 Ryan Reece. All rights reserved.'
+abstract: |
+    \noindent This is the abstract. This is the abstract. This is the abstract.
+    This is the abstract. This is the abstract. This is the abstract.
+    This is the abstract. This is the abstract. This is the abstract.
+
+    This is the second paragraph in the abstract.
+    This is the second paragraph in the abstract.
+    This is the second paragraph in the abstract.
+fontsize: '11pt'
+fontfamily: 'mathpazo'
+#linestretch: '1.1'
+numbersections: true
+spacing: '1.2'
+geometry: 
+    -   'paperwidth=8.5in'
+    -   'paperheight=11in'
+    -   'top=1in'
+    -   'bottom=1in'
+    -   'left=1.5in'
+    -   'right=1.5in'
+    -   'headheight=14pt'
+    -   'headsep=\baselineskip'
+fancyhdr: true
+classoption:
+    -   'openany'
+    -   'twoside'
+natbib: true
+biblio-style: 'chicago'
+...
+
