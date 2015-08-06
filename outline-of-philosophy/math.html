@@ -6,9 +6,15 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Sun Aug 02, 2015" />
-  <title>Ryan's Outline of Philosophy - math</title>
+  <meta name="date" content="Thu Aug 06, 2015" />
+  <title>Ryan&#8217;s Outline of Philosophy</title>
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
+
+<!--- MathJax stuff -->
+<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
+</script>
 
 <!--- Google Analytics Tracking stuff  -->
 <script>
@@ -25,10 +31,13 @@
 <body>
 
 <div id="site_header">
-    <a href="./">Ryan's Outline of Philosophy</a>
+    <a href="./">Ryan&#8217;s Outline of Philosophy</a>
 </div>
 
 <div class="nav"><a href="./">Go back to the Table of Contents</a></div>
+
+<div id="afterbody">
+</div>
 
 <h1 id="philosophy-of-mathematics">Philosophy of Mathematics</h1>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -65,7 +74,7 @@
 <h3 id="platonism">Platonism</h3>
 <p>Realist.</p>
 <ul>
-<li>The Academy: &quot;Let no one ignorant of geometry enter&quot;</li>
+<li>The Academy: &#8220;Let no one ignorant of geometry enter&#8221;</li>
 </ul>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <ol style="list-style-type: decimal">
@@ -81,11 +90,11 @@
 <h3 id="g&#246;del">G&#246;del</h3>
 <p>from Wikipedia:</p>
 <ul>
-<li>The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an &quot;effective procedure&quot; (e.g., a computer program, but it could be any sort of algorithm) is capable of proving all truths about the relations of the natural numbers.</li>
+<li>The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an &#8220;effective procedure&#8221; (e.g., a computer program, but it could be any sort of algorithm) is capable of proving all truths about the relations of the natural numbers.</li>
 <li>The second incompleteness theorem, an extension of the first, shows that such a system cannot demonstrate its own consistency. Sufficiently strong proof theories cannot prove their own consistency (provided that they are in fact consistent).</li>
-<li>G&#246;del's second incompleteness theorem also implies that a theory T1 satisfying the technical conditions outlined above cannot prove the consistency of any theory T2 that proves the consistency of T1. This is because such a theory T1 can prove that if T2 proves the consistency of T1, then T1 is in fact consistent. For the claim that T1 is consistent has form &quot;for all numbers n, n has the decidable property of not being a code for a proof of contradiction in T1&quot;. If T1 were in fact inconsistent, then T2 would prove for some n that n is the code of a contradiction in T1. But if T2 also proved that T1 is consistent (that is, that there is no such n), then it would itself be inconsistent. This reasoning can be formalized in T1 to show that if T2 is consistent, then T1 is consistent. Since, by second incompleteness theorem, T1 does not prove its consistency, it cannot prove the consistency of T2 either.</li>
-<li>The corollary also indicates the epistemological relevance of the second incompleteness theorem. It would actually provide no interesting information if a theory T proved its consistency. This is because inconsistent theories prove everything, including their consistency. Thus a consistency proof of T in T would give us no clue as to whether T really is consistent; no doubts about the consistency of T would be resolved by such a consistency proof. The interest in consistency proofs lies in the possibility of proving the consistency of a theory T in some theory T' that is in some sense less doubtful than T itself, for example weaker than T. For many naturally occurring theories T and T', such as T = Zermelo-Fraenkel set theory and T' = primitive recursive arithmetic, the consistency of T' is provable in T, and thus T' can't prove the consistency of T by the above corollary of the second incompleteness theorem.</li>
-<li>The second incompleteness theorem does not rule out consistency proofs altogether, only consistency proofs that could be formalized in the theory that is proved consistent. For example, Gerhard Gentzen proved the consistency of Peano arithmetic (PA) in a different theory that includes an axiom asserting that the ordinal called &#949;0 is wellfounded; see Gentzen's consistency proof. Gentzen's theorem spurred the development of ordinal analysis in proof theory.</li>
+<li>G&#246;del&#8217;s second incompleteness theorem also implies that a theory T1 satisfying the technical conditions outlined above cannot prove the consistency of any theory T2 that proves the consistency of T1. This is because such a theory T1 can prove that if T2 proves the consistency of T1, then T1 is in fact consistent. For the claim that T1 is consistent has form &#8220;for all numbers n, n has the decidable property of not being a code for a proof of contradiction in T1&#8221;. If T1 were in fact inconsistent, then T2 would prove for some n that n is the code of a contradiction in T1. But if T2 also proved that T1 is consistent (that is, that there is no such n), then it would itself be inconsistent. This reasoning can be formalized in T1 to show that if T2 is consistent, then T1 is consistent. Since, by second incompleteness theorem, T1 does not prove its consistency, it cannot prove the consistency of T2 either.</li>
+<li>The corollary also indicates the epistemological relevance of the second incompleteness theorem. It would actually provide no interesting information if a theory T proved its consistency. This is because inconsistent theories prove everything, including their consistency. Thus a consistency proof of T in T would give us no clue as to whether T really is consistent; no doubts about the consistency of T would be resolved by such a consistency proof. The interest in consistency proofs lies in the possibility of proving the consistency of a theory T in some theory T&#8217; that is in some sense less doubtful than T itself, for example weaker than T. For many naturally occurring theories T and T&#8217;, such as T = Zermelo-Fraenkel set theory and T&#8217; = primitive recursive arithmetic, the consistency of T&#8217; is provable in T, and thus T&#8217; can&#8217;t prove the consistency of T by the above corollary of the second incompleteness theorem.</li>
+<li>The second incompleteness theorem does not rule out consistency proofs altogether, only consistency proofs that could be formalized in the theory that is proved consistent. For example, Gerhard Gentzen proved the consistency of Peano arithmetic (PA) in a different theory that includes an axiom asserting that the ordinal called &#949;0 is wellfounded; see Gentzen&#8217;s consistency proof. Gentzen&#8217;s theorem spurred the development of ordinal analysis in proof theory.</li>
 </ul>
 <h3 id="fictionalism">Fictionalism</h3>
 <p>Anti-realist.</p>
@@ -104,22 +113,22 @@
 <p>TODO.</p>
 <h2 id="my-thoughts">My Thoughts</h2>
 <ul>
-<li>What would happen if you asked an Alien to solve a Rubik's cube?</li>
+<li>What would happen if you asked an Alien to solve a Rubik&#8217;s cube?</li>
 </ul>
-<p>Jon Lawhead - One of the climate people just asked me &quot;how do philosophers get paid?&quot; He was blown away that most people don't do grant writing, and that we tend to juggle our writing with teaching. He also got very excited about the unreasonable effectiveness of mathematics problem, and marveled that we get paid to think about things like that.</p>
+<p>Jon Lawhead - One of the climate people just asked me &#8220;how do philosophers get paid?&#8221; He was blown away that most people don&#8217;t do grant writing, and that we tend to juggle our writing with teaching. He also got very excited about the unreasonable effectiveness of mathematics problem, and marveled that we get paid to think about things like that.</p>
 <p>It is awesome. Some level of necessitarianism gots to be on the right track there right?</p>
-<p>Jon Lawhead - I'm not convinced of that, Ryan Reece, though I'm far from an expert on this area. His intuitions leaned in the constructivist (David Hilbert-y) direction, as do mine. That is, that math is effective because we designed it to be that way, since it's a general language in which to talk about patterns (which is, at bottom, what science is all about). Discovering more mathematical truths involves discovering more implications of the formal system we've designed, and/or extending that formal system deliberately.</p>
-<p>Of course I'm not an expert here either, but lots of &quot;...buts&quot; come to mind when I'm told that math is just a language. (Forgive my brain dump.)</p>
-<p>There's a lot of hangups here because common language is imprecise about differentiating a mathematical concept from its notation (obviously constructed). I find it really hard not to be convinced that, for example, if we made contact or found evidence of intelligent life in another star system, and we were able to comb their mathematical journals, there would be a metaphysical fact of the matter to whether or not they had a theory of differential and integral calculus. There would similarly be a separate fact of the matter as to whether they knew the pythagorean theorem or whether they had discovered that there are finite number of simple Lie groups. Regardless of its notation or history of construction, there will be mathematical concepts represented that we could identify.</p>
-<p>We can make the same argument with disconnected cultures here on earth, and identify that ancient Indians and Egyptians both knew about fractions, even if they didn't have a concept of groups. Similarly, independent of the notational construction, we celebrate that both Newton and Leibniz developed fundamental concepts in calculus independently (even with the controversy about how much of each other's documents they may have seen).</p>
-<p>Surely this against-formalism type of argument has been made by people better versed in this than me. I'm reacting to reading Carnap's ESO recently. Carnap agreed with you that math is a construction, but my list of &quot;buts&quot; to him would start with pointing out that in the Abstract vs Nominalistic divide, we should also be careful to further divide abstract concepts as to whether or not they are <em>natural</em>. For example, Vector spaces are different kinds of abstractions than unicorns. Why? Because they are <em>natural</em>. It's those natural kinds that we can be confident we could identify across linguistic barriers.</p>
-<p>I'm still trying to piece together who has threaded this argument together the best. But I think the right road to countering the positivists/nominalists rejection of the reality of all abstractions is by pointing out that some of our abstractions are natural kinds, which in some sense, cut nature at its joints and describe a real structure in nature. The digits of pi, for example, are discovered, not constructed.</p>
-<p>I realize I've left things question begging as to what makes a natural kind, but at least theres a direction to march now, and I don't think clarifying that definition is insurmountable. Probably many philosophers have already done it for me.</p>
+<p>Jon Lawhead - I&#8217;m not convinced of that, Ryan Reece, though I&#8217;m far from an expert on this area. His intuitions leaned in the constructivist (David Hilbert-y) direction, as do mine. That is, that math is effective because we designed it to be that way, since it&#8217;s a general language in which to talk about patterns (which is, at bottom, what science is all about). Discovering more mathematical truths involves discovering more implications of the formal system we&#8217;ve designed, and/or extending that formal system deliberately.</p>
+<p>Of course I&#8217;m not an expert here either, but lots of &#8220;&#8230;buts&#8221; come to mind when I&#8217;m told that math is just a language. (Forgive my brain dump.)</p>
+<p>There&#8217;s a lot of hangups here because common language is imprecise about differentiating a mathematical concept from its notation (obviously constructed). I find it really hard not to be convinced that, for example, if we made contact or found evidence of intelligent life in another star system, and we were able to comb their mathematical journals, there would be a metaphysical fact of the matter to whether or not they had a theory of differential and integral calculus. There would similarly be a separate fact of the matter as to whether they knew the pythagorean theorem or whether they had discovered that there are finite number of simple Lie groups. Regardless of its notation or history of construction, there will be mathematical concepts represented that we could identify.</p>
+<p>We can make the same argument with disconnected cultures here on earth, and identify that ancient Indians and Egyptians both knew about fractions, even if they didn&#8217;t have a concept of groups. Similarly, independent of the notational construction, we celebrate that both Newton and Leibniz developed fundamental concepts in calculus independently (even with the controversy about how much of each other&#8217;s documents they may have seen).</p>
+<p>Surely this against-formalism type of argument has been made by people better versed in this than me. I&#8217;m reacting to reading Carnap&#8217;s ESO recently. Carnap agreed with you that math is a construction, but my list of &#8220;buts&#8221; to him would start with pointing out that in the Abstract vs Nominalistic divide, we should also be careful to further divide abstract concepts as to whether or not they are <em>natural</em>. For example, Vector spaces are different kinds of abstractions than unicorns. Why? Because they are <em>natural</em>. It&#8217;s those natural kinds that we can be confident we could identify across linguistic barriers.</p>
+<p>I&#8217;m still trying to piece together who has threaded this argument together the best. But I think the right road to countering the positivists/nominalists rejection of the reality of all abstractions is by pointing out that some of our abstractions are natural kinds, which in some sense, cut nature at its joints and describe a real structure in nature. The digits of pi, for example, are discovered, not constructed.</p>
+<p>I realize I&#8217;ve left things question begging as to what makes a natural kind, but at least theres a direction to march now, and I don&#8217;t think clarifying that definition is insurmountable. Probably many philosophers have already done it for me.</p>
 <h2 id="annotated-bibliography">Annotated Bibliography</h2>
 <h3 id="carnap-r.-1950.-empiricism-semantics-and-ontology.">Carnap, R. (1950). Empiricism, Semantics, and Ontology.</h3>
 <h4 id="the-problem-of-abstract-entities">1. The problem of abstract entities</h4>
 <ul>
-<li>Empiricists tend to prefer to restrict themselves to <em>nominalistic language</em> -- without containing references to abstract entities.</li>
+<li>Empiricists tend to prefer to restrict themselves to <em>nominalistic language</em> &#8211; without containing references to abstract entities.</li>
 </ul>
 <h4 id="my-thoughts-1">My thoughts</h4>
 <ul>
@@ -141,22 +150,22 @@
 <li><a href="http://plato.stanford.edu/entries/brouwer/">Brouwer, Luitzen Egbertus Jan (1881-1966)</a></li>
 <li><a href="http://plato.stanford.edu/entries/simulations-science/">Computer Simulations in Science</a></li>
 <li><a href="http://plato.stanford.edu/entries/mathematics-constructive/">Constructive Mathematics</a></li>
-<li><a href="http://plato.stanford.edu/entries/dedekind-foundations/">Dedekind's Contributions to the Foundations of Mathematics</a></li>
-<li><a href="http://plato.stanford.edu/entries/descartes-mathematics/">Descartes' Mathematics</a></li>
+<li><a href="http://plato.stanford.edu/entries/dedekind-foundations/">Dedekind&#8217;s Contributions to the Foundations of Mathematics</a></li>
+<li><a href="http://plato.stanford.edu/entries/descartes-mathematics/">Descartes&#8217; Mathematics</a></li>
 <li><a href="http://plato.stanford.edu/entries/mathematics-explanation/">Explanation in Mathematics</a></li>
 <li><a href="http://plato.stanford.edu/entries/fictionalism-mathematics/">Fictionalism in the Philosophy of Mathematics</a></li>
 <li><a href="http://plato.stanford.edu/entries/frege/">Frege, Gottlob (1848-1925)</a></li>
 <li><a href="http://plato.stanford.edu/entries/frege-hilbert/">Frege-Hilbert Controversy</a></li>
-<li><a href="http://plato.stanford.edu/entries/frege-theorem/">Frege's Theorem and Foundations for Arithmetic</a></li>
+<li><a href="http://plato.stanford.edu/entries/frege-theorem/">Frege&#8217;s Theorem and Foundations for Arithmetic</a></li>
 <li><a href="http://plato.stanford.edu/entries/formalism-mathematics/">Formalism in the Philosophy of Mathematics</a></li>
 <li><a href="http://plato.stanford.edu/entries/goedel/">G&#246;del, Kurt (1906-1978)</a></li>
-<li><a href="http://plato.stanford.edu/entries/goedel-incompleteness/">G&#246;del's Incompleteness Theorems</a></li>
-<li><a href="http://plato.stanford.edu/entries/hilbert-program/">Hilbert's Program</a></li>
+<li><a href="http://plato.stanford.edu/entries/goedel-incompleteness/">G&#246;del&#8217;s Incompleteness Theorems</a></li>
+<li><a href="http://plato.stanford.edu/entries/hilbert-program/">Hilbert&#8217;s Program</a></li>
 <li><a href="http://plato.stanford.edu/entries/truth-identity/">Identity Theory of Truth</a></li>
 <li><a href="http://plato.stanford.edu/entries/mathematics-inconsistent/">Inconsistent Mathematics</a></li>
 <li><a href="http://plato.stanford.edu/entries/mathphil-indis/">Indispensability Arguments in the Philosophy of Mathematics</a></li>
 <li><a href="http://plato.stanford.edu/entries/intuitionism/">Intuitionism in the Philosophy of Mathematics</a></li>
-<li><a href="http://plato.stanford.edu/entries/kant-mathematics/">Kant's Philosophy of Mathematics</a></li>
+<li><a href="http://plato.stanford.edu/entries/kant-mathematics/">Kant&#8217;s Philosophy of Mathematics</a></li>
 <li><a href="http://plato.stanford.edu/entries/leibniz/">Leibniz, Gottfried Wilhelm (1646-1716)</a></li>
 <li><a href="http://plato.stanford.edu/entries/logicism/">Logicism and Neologicism</a></li>
 <li><a href="http://plato.stanford.edu/entries/philosophy-mathematics/">Mathematics, Philosophy of</a></li>
@@ -171,10 +180,10 @@
 <li><a href="http://plato.stanford.edu/entries/principia-mathematica/">Principia Mathematica</a></li>
 <li><a href="http://plato.stanford.edu/entries/proof-theory-development/">Proof Theory</a></li>
 <li><a href="http://plato.stanford.edu/entries/russell/">Russell, Bertrand (1872-1970)</a></li>
-<li><a href="http://plato.stanford.edu/entries/logical-atomism/">Russell's Logical Atomism</a></li>
-<li><a href="http://plato.stanford.edu/entries/russell-paradox/">Russell's Paradox</a></li>
+<li><a href="http://plato.stanford.edu/entries/logical-atomism/">Russell&#8217;s Logical Atomism</a></li>
+<li><a href="http://plato.stanford.edu/entries/russell-paradox/">Russell&#8217;s Paradox</a></li>
 <li><a href="http://plato.stanford.edu/entries/tarski/">Tarski, Alfred (1901-1983)</a></li>
-<li><a href="http://plato.stanford.edu/entries/tarski-truth/">Tarski's Truth Definitions</a></li>
+<li><a href="http://plato.stanford.edu/entries/tarski-truth/">Tarski&#8217;s Truth Definitions</a></li>
 <li><a href="http://plato.stanford.edu/entries/truth/">Truth</a></li>
 <li><a href="http://plato.stanford.edu/entries/truth-axiomatic/">Truth, Axiomatic Theories of</a></li>
 <li><a href="http://plato.stanford.edu/entries/truth-coherence/">Truth, Coherence Theory of</a></li>
@@ -187,7 +196,7 @@
 <li><a href="http://plato.stanford.edu/entries/type-theory/">Type Theory</a></li>
 <li><a href="http://plato.stanford.edu/entries/types-tokens/">Types and Tokens</a></li>
 <li><a href="http://plato.stanford.edu/entries/whitehead/">Whitehead, Alfred North (1861-1947)</a></li>
-<li><a href="http://plato.stanford.edu/entries/wittgenstein-mathematics/">Wittgenstein's Philosophy of Mathematics</a></li>
+<li><a href="http://plato.stanford.edu/entries/wittgenstein-mathematics/">Wittgenstein&#8217;s Philosophy of Mathematics</a></li>
 </ul>
 <h3 id="iep">IEP</h3>
 <ul>
@@ -205,12 +214,12 @@
 <li><a href="http://www.iep.utm.edu/models/">Models</a></li>
 <li><a href="http://www.iep.utm.edu/logcon-m/">Model-Theoretic Conceptions of Logical Consequence</a></li>
 <li><a href="http://www.iep.utm.edu/mathplat/">Platonism, Mathematical</a></li>
-<li><a href="http://www.iep.utm.edu/poi-math/">Poincar&#233;'s Philosophy of Mathematics</a></li>
+<li><a href="http://www.iep.utm.edu/poi-math/">Poincar&#233;&#8217;s Philosophy of Mathematics</a></li>
 <li><a href="http://www.iep.utm.edu/processp/">Process Philosophy</a></li>
 <li><a href="http://www.iep.utm.edu/r-models/">Relational Models Theory</a></li>
-<li><a href="http://www.iep.utm.edu/par-russ/">Russell's Paradox</a></li>
+<li><a href="http://www.iep.utm.edu/par-russ/">Russell&#8217;s Paradox</a></li>
 <li><a href="http://www.iep.utm.edu/universa/">Universals</a></li>
-<li><a href="http://www.iep.utm.edu/wittmath/">Wittgenstein's Later Philosophy of Mathematics</a></li>
+<li><a href="http://www.iep.utm.edu/wittmath/">Wittgenstein&#8217;s Later Philosophy of Mathematics</a></li>
 </ul>
 <h3 id="wikipedia">Wikipedia</h3>
 <ul>
@@ -219,9 +228,9 @@
 <li><a href="http://en.wikipedia.org/wiki/Diagonal_lemma">Diagonal lemma</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Ethnomathematics">Ethnomathematics</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Gottlob_Frege">Frege, Gottlob (1848-1925)</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof">Gentzen's consistency proof</a></li>
-<li><a href="http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems">G&#246;del's incompleteness theorems</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Hilbert%27s_program">Hilbert's Program</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof">Gentzen&#8217;s consistency proof</a></li>
+<li><a href="http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems">G&#246;del&#8217;s incompleteness theorems</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Hilbert%27s_program">Hilbert&#8217;s Program</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Logicism">Logicism</a></li>
 <li><a href="https://en.wikipedia.org/wiki/L%C3%B6wenheim%E2%80%93Skolem_theorem">L&#246;wenheim-Skolem theorem</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis">Mathematical Universe Hypothesis</a></li>
@@ -234,23 +243,32 @@
 </ul>
 <h3 id="others">Others</h3>
 <ul>
-<li><a href="http://richardzach.org/2015/03/30/quines-paradox-and-godels-theorem/">Quine's Paradox and G&#246;del's Theorem</a> - Richard Zach</li>
+<li><a href="http://richardzach.org/2015/03/30/quines-paradox-and-godels-theorem/">Quine&#8217;s Paradox and G&#246;del&#8217;s Theorem</a> - Richard Zach</li>
 </ul>
+<div class="references">
 
-<div class="nav"><a href="./">Go back to the Table of Contents</a></div>
-
-<div id="site_footer">
-  <div class="markdown_memo_link">
-        &copy; 2013-2015 Ryan Reece. All rights reserved.
-    <br/>
-        Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.
-  </div>
-  <div class="signature">
-    <i>Ryan Reece</i> <br/> <img src="img/my_email.png" alt="my email address"/> <br/>
-    Sun Aug 02, 2015
-  </div>
 </div>
 
+<div id="afterbody">
+</div>
+
+<div class="nav">
+<a href="#site_header">Go back to the top</a>
+<a href="./">Go back to the Table of Contents</a>
+</div>
+
+<div id="site_footer">
+  <div class="signature">
+    <i>Ryan Reece</i> <br/>
+    <img src="img/my_email.png" alt="my email address"/> <br/>
+    Thu Aug 06, 2015
+  </div>
+  <div class="license">
+     &#169; 2014-2015 Ryan Reece. All rights reserved. <br/> 
+    Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.
+  </div>
+  <div style="clear:both;"></div>
+</div>
 
 </body>
 </html>

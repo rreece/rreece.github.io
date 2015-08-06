@@ -217,6 +217,7 @@ Links and Encyclopedia Articles
 
 ### IEP
 
+-   [Abortion](http://www.iep.utm.edu/abortion/)
 -   [Collective Moral Responsibility](http://www.iep.utm.edu/collecti/)
 -   [Consequentialism](http://www.iep.utm.edu/conseque/)
 -   [Egoism](http://www.iep.utm.edu/egoism/)
