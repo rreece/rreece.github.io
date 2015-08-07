@@ -18,7 +18,7 @@ External Links
 
 Looking for resources about critiquing faith?  Try these.
 
-First note that (a)theism and (a)gnostim deal with independent issues of what
+First, note that (a)theism and (a)gnostim deal with independent issues of what
 one believes and what one claims is knowable, respectively.
 Agnosticism is not some kind of middle position between atheism and theism.
 See [philosophy-in-figures: atheism-vs-agnosticism](http://philosophy-in-figures.tumblr.com/post/88206026601/atheism-vs-agnosticism).
