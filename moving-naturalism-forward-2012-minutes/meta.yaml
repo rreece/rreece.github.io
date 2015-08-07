@@ -20,7 +20,7 @@ abstract: |
     This is the second paragraph in the abstract.
 # html options --------------------------------------
 disqus: true
-disqus_shortname: 'ryans-move-naturalism-forward-2012-minutes'
+disqus_shortname: 'ryans-moving-naturalism-forward-2012-minutes'
 # pdflatex options ----------------------------------
 fontsize: '11pt'
 fontfamily: 'mathpazo'
