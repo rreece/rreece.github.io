@@ -5,7 +5,7 @@ An Analysis of Faith-Based Reasoning
 Contents
 --------------------------------------------------------------------------------
 
--   [The Socratic Method Applied to Faith](socratic-method-on-faith.html) -- Completed 12/28/2014. Please Read!
+-   [The Socratic Method Applied to Faith](socratic-method-on-faith.html#disqus_thread) -- Completed 12/28/2014. Please Read!
 -   [Commonly Overlooked Issues with the Bible](overlooked-bible.html) -- TODO
 -   [Issues with the Quran](overlooked-quran.html) -- TODO
 -   [Videos analyzed](videos-analyzed.html) -- (in progress)
