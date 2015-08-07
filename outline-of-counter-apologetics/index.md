@@ -33,14 +33,18 @@ Looking for resources about critiquing faith?  Try these.
 -   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) -- talk by Sean Carroll (49 mins)
 -   [Sean Carroll and Hans Halvorson debate religion](https://www.youtube.com/watch?v=H864JH1tPYU) -- (1h35m)
 
+<!---
 Some of these videos are analyzed in these pages [here](videos-analyzed.html).
+-->
 
 ### Articles
 
 -   ["The Bible: So Misunderstood It's a Sin"](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html) -- Kurt Eichenwald, *Newsweek*
 -   ["An Open Letter to Moderate Muslims"](http://www.huffingtonpost.com/ali-a-rizvi/an-open-letter-to-moderat_b_5930764.html) -- Ali A. Rizvi, *Huffpost* and *[RDFRS](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/)*
 
+<!---
 Some of these articles are analyzed in these pages [here](articles-analyzed.html).
+-->
 
 ### Blogs
 
