@@ -67,6 +67,7 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 -   [rationalwiki.org](http://rationalwiki.org/)
 -   [quran.com](http://quran.com/)
 -   [The Skeptic's Annotated Bible](http://skepticsannotatedbible.com/)
+-   [yourlogicalfallacyis.com](https://yourlogicalfallacyis.com/)
 
 ### Misc
 
