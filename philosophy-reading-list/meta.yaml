@@ -1,0 +1,43 @@
+---
+title: "Ryan's philosophy reading list"
+titleshort: "Ryan's philosophy reading list"
+author: "Ryan Reece"
+authorshort: "Ryan Reece"
+date: 'August 1, 2014'
+license: '&copy; 2014-2015 Ryan Reece. All rights reserved.'
+## ^ required meta-data ^ ---------------------------------
+abstract: |
+    \noindent This is the abstract. This is the abstract. This is the abstract.
+    This is the abstract. This is the abstract. This is the abstract.
+    This is the abstract. This is the abstract. This is the abstract.
+
+    This is the second paragraph in the abstract.
+    This is the second paragraph in the abstract.
+    This is the second paragraph in the abstract.
+## html options -------------------------------------------
+email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
+#disqus: true
+#disqus_shortname: 'my-sites-disqus-name'
+## pdflatex options ---------------------------------------
+fontsize: '11pt'
+fontfamily: 'mathpazo'
+#linestretch: '1.1'
+numbersections: true
+spacing: '1.2'
+geometry: 
+    -   'paperwidth=8.5in'
+    -   'paperheight=11in'
+    -   'top=1in'
+    -   'bottom=1in'
+    -   'left=1.5in'
+    -   'right=1.5in'
+    -   'headheight=14pt'
+    -   'headsep=\baselineskip'
+fancyhdr: true
+classoption:
+    -   'openany'
+    -   'twoside'
+natbib: true
+biblio-style: 'chicago'
+...
+
