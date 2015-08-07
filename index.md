@@ -11,3 +11,7 @@ nature is doing some things in some ways and not in others.
 
  -- David Hume, *An Enquiry Concerning Human Understanding* (1748)
 
+-------------------------
+
+You might be looking for the [page about my software projects](sw/).
+
