@@ -164,7 +164,7 @@ The Soul
     Is there any reason to think that any part of being a human involves anything
     immaterial?
 -   Can this hypothetical immaterial soul be demonstrated?
--   When a person wonders "what will it be like after die?",
+-   When a person wonders "what will it be like after I die?",
     is there any reason to think it will be any different than what it was like
     before you were alive?
 -   Isn't it clear that our experience is contingent on our material conditions?
