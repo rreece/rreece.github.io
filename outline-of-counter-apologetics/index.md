@@ -29,6 +29,9 @@ Looking for resources about critiquing faith?  Try these.
 -   [The Atheist Experience](http://www.atheist-experience.com/)  -- TV show with many great episodes
 -   [Christopher Hitchens on global conflict](https://www.youtube.com/watch?v=0M3Nw1D_jp0&feature=youtu.be&t=2181)
 -   [Naturalism and the meaning of life](https://www.youtube.com/watch?v=dLmY4ktOIOI) -- Sean Carroll (7 mins)
+-   ["God is not a good theory"](https://www.youtube.com/watch?v=ew_cNONhhKI) -- talk by Sean Carroll (53 mins)
+-   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) -- talk by Sean Carroll (49 mins)
+-   [Sean Carroll and Hans Halvorson debate religion](https://www.youtube.com/watch?v=H864JH1tPYU) -- (1h35m)
 
 Some of these videos are analyzed in these pages [here](videos-analyzed.html).
 
