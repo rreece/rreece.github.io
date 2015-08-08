@@ -41,6 +41,8 @@ Looking for resources about critiquing faith?  Try these.
 -   ["God is not a good theory"](https://www.youtube.com/watch?v=ew_cNONhhKI) -- talk by Sean Carroll (53 mins)
 -   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) -- talk by Sean Carroll (49 mins)
 -   [Sean Carroll and Hans Halvorson debate religion](https://www.youtube.com/watch?v=H864JH1tPYU) -- (1h35m)
+-   [Ricky Gervais - The Unbelievers Interview](https://www.youtube.com/watch?v=iUUpvrP-gzQ) -- (15 mins)
+-   [Alain de Botton: Atheism 2.0](https://www.youtube.com/watch?v=2Oe6HUgrRlQ) -- (19 mins)
 
 <!---
 Some of these videos are analyzed in these pages [here](videos-analyzed.html).
