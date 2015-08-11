@@ -127,6 +127,7 @@ Links and Encyclopedia Articles
 -   [Mental Causation](http://plato.stanford.edu/entries/mental-causation/)
 -   [Mental Representation](http://plato.stanford.edu/entries/mental-representation/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
+-   [Qualia: The Knowledge Argument](http://plato.stanford.edu/entries/qualia-knowledge/)
 -   [Quantum Approaches to Consciousness](http://plato.stanford.edu/entries/qt-consciousness/)
 -   [Representational Theories of Consciousness](http://plato.stanford.edu/entries/consciousness-representational/)
 
