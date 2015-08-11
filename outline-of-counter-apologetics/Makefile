@@ -90,7 +90,7 @@ index.html: index.md meta.yaml
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
 		-o $@ $< meta.yaml.tmp
-	rm -f meta.yaml.tmp
+	rm -f meta.yaml.tmp $@.tmp
 
 $(OUTNAME).html: $(MD_FILES) mybib.bib meta.yaml
 	echo $(MD_FILES)
