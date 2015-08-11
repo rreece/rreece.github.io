@@ -210,6 +210,7 @@ Links and Encyclopedia Articles
 -   [Emergent Properties](http://plato.stanford.edu/entries/properties-emergent/)
 -   [Everett's Relative-State Formulation of Quantum Mechanics](http://plato.stanford.edu/entries/qm-everett/)
 -   [General relativity, Early philosophical interpretations of](http://plato.stanford.edu/entries/genrel-early/)
+-   [Holism and Nonseparability in Physics](http://plato.stanford.edu/entries/physics-holism/)
 -   [Identity and Individuality in Quantum Theory](http://plato.stanford.edu/entries/qt-idind/)
 -   [Kochen-Specker Theorem](http://plato.stanford.edu/entries/kochen-specker/)
 -   [Many-Worlds Interpretation of Quantum Mechanics](http://plato.stanford.edu/entries/qm-manyworlds/)
@@ -221,7 +222,7 @@ Links and Encyclopedia Articles
 -   [Quantum Mechanics](http://plato.stanford.edu/entries/qm/)
 -   [Relational Quantum Mechanics](http://plato.stanford.edu/entries/qm-relational/)
 -   [Statistical mechanics, Philosophy of](http://plato.stanford.edu/entries/statphys-statmech/)
--   [Symmetry Breaking](http://plato.stanford.edu/entries/symmetry-breaking/)
+-   [Symmetry and Symmetry Breaking](http://plato.stanford.edu/entries/symmetry-breaking/)
 -   [Time](http://plato.stanford.edu/entries/time/)
 
 ### IEP
@@ -235,6 +236,7 @@ Links and Encyclopedia Articles
 ### Wikipedia
 
 -   [AdS/CFT correspondence](http://en.wikipedia.org/wiki/AdS/CFT_correspondence)
+-   [Aharonov-Bohm effect](https://en.wikipedia.org/wiki/Aharonov%E2%80%93Bohm_effect)
 -   [Background independence](http://en.wikipedia.org/wiki/Background_independence)
 -   [Bell's theorem](http://en.wikipedia.org/wiki/Bell%27s_theorem)
 -   [Black hole information paradox](http://en.wikipedia.org/wiki/Black_hole_information_paradox)
