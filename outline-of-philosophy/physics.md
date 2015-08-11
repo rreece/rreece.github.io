@@ -200,6 +200,7 @@ Links and Encyclopedia Articles
 
 ### SEP
 
+-   [Being and Becoming in Modern Physics](http://plato.stanford.edu/entries/spacetime-bebecome/)
 -   [Bell's Theorem](http://plato.stanford.edu/entries/bell-theorem/)
 -   [Bohmian Mechanics](http://plato.stanford.edu/entries/qm-bohm/)
 -   [Collapse Theories](http://plato.stanford.edu/entries/qm-collapse/)
@@ -257,6 +258,7 @@ Links and Encyclopedia Articles
 -   [Entropic gravity](http://en.wikipedia.org/wiki/Entropic_gravity)
 -   [Entropy](http://en.wikipedia.org/wiki/Entropy)
 -   [Entropy, Introduction to](http://en.wikipedia.org/wiki/Introduction_to_entropy)
+-   [Four-dimensionalism](https://en.wikipedia.org/wiki/Four-dimensionalism)
 -   [Field](http://en.wikipedia.org/wiki/Field_(physics))
 -   [Firewall](http://en.wikipedia.org/wiki/Firewall_%28physics%29)
 -   [Gelfand-Naimark theorem](https://en.wikipedia.org/wiki/Gelfand%E2%80%93Naimark_theorem)
@@ -290,6 +292,7 @@ Links and Encyclopedia Articles
 -   [Relativity, Introduction to General](http://en.wikipedia.org/wiki/Introduction_to_general_relativity)
 -   [Renormalization](http://en.wikipedia.org/wiki/Renormalization)
 -   [Representation theory](http://en.wikipedia.org/wiki/Representation_theory)
+-   [Rietdijk-Putnam argument](https://en.wikipedia.org/wiki/Rietdijk%E2%80%93Putnam_argument)
 -   [Standard Model](http://en.wikipedia.org/wiki/Standard_Model)
 -   [Standard Model (mathematical formulation)](http://en.wikipedia.org/wiki/Standard_Model_(mathematical_formulation))
 -   [Statistical mechanics](http://en.wikipedia.org/wiki/Statistical_mechanics)
