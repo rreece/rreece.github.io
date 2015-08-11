@@ -79,7 +79,6 @@ index.html: index.md meta.yaml
 		--smart \
 		--variable=date-meta:"$(DATE)" \
 		--variable=css:templates/markdown-memo.css \
-		--variable=title:"$(title)" \
 		--template=./templates/outline.html \
 		--mathjax \
 		--bibliography=mybib.bib \
