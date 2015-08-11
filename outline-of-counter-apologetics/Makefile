@@ -44,6 +44,7 @@ html: $(HTML_FILES)
 	$(PRINT) "html done."
 
 index.html: index.md meta.yaml
+	rm -f meta.yaml.tmp
 	echo '---' >> meta.yaml.tmp
 	grep -E '(^title|^authorshort|^date|^license|^email|^disqus)' meta.yaml >> meta.yaml.tmp
 	echo '...\n' >> meta.yaml.tmp
@@ -60,18 +61,23 @@ index.html: index.md meta.yaml
 
 # create html
 %.html: %.md mybib.bib meta.yaml
+	rm -f meta.yaml.tmp
 	echo '---' >> meta.yaml.tmp
 	grep -E '(^title|^authorshort|^date|^license|^email|^disqus)' meta.yaml >> meta.yaml.tmp
 	echo '...\n' >> meta.yaml.tmp
-#	pandoc \
-#		-t html \
-#		--ascii \
-#		--standalone \
-#		--smart \
-#		--template=./templates/outline.html \
-#		-o $@.tmp $< meta.yaml.tmp
-#	doc_title=`cat $@.tmp | grep -E "<title.*>(.*?)</title>" | sed 's/<title.*>\(.*\)<\/title>/\1/'`
-#	page_title=`cat $@.tmp | grep -E "<h1.*>(.*?)</h1>" | sed 's/<h1.*>\(.*\)<\/h1>/\1/'`
+	pandoc \
+		-t html \
+		--ascii \
+		--standalone \
+		--smart \
+		--template=./templates/outline.html \
+		-o $@.tmp $< meta.yaml.tmp
+	rm -f meta.yaml.tmp
+	echo '---' >> meta.yaml.tmp
+	grep -E '(^title|^authorshort|^date|^license|^email|^disqus)' meta.yaml >> meta.yaml.tmp
+	echo `cat $@.tmp | grep -E "<title.*>(.*?)</title>" | sed 's/<title.*>\(.*\)<\/title>/doc_title: "\1"/'` >> meta.yaml.tmp
+	echo `cat $@.tmp | grep -E "<h1.*>(.*?)</h1>" | sed 's/<h1.*>\(.*\)<\/h1>/page_title: "\1"/'` >> meta.yaml.tmp
+	echo '...\n' >> meta.yaml.tmp
 	pandoc \
 		-t html \
 		--ascii \
@@ -88,6 +94,7 @@ index.html: index.md meta.yaml
 
 $(OUTNAME).html: $(MD_FILES) mybib.bib meta.yaml
 	echo $(MD_FILES)
+	rm -f meta.yaml.tmp
 	echo '---' >> meta.yaml.tmp
 	grep -E '(^title|^authorshort|^date|^license)' meta.yaml >> meta.yaml.tmp
 	echo '...\n' >> meta.yaml.tmp
