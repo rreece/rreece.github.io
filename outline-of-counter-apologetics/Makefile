@@ -63,15 +63,15 @@ index.html: index.md meta.yaml
 	echo '---' >> meta.yaml.tmp
 	grep -E '(^title|^authorshort|^date|^license|^email|^disqus)' meta.yaml >> meta.yaml.tmp
 	echo '...\n' >> meta.yaml.tmp
-	pandoc \
-		-t html \
-		--ascii \
-		--standalone \
-		--smart \
-		--template=./templates/outline.html \
-		-o $@.tmp $< meta.yaml.tmp
-	doc_title=`cat $@.tmp | grep -E "<title.*>(.*?)</title>" | sed 's/<title.*>\(.*\)<\/title>/\1/'`
-	page_title=`cat $@.tmp | grep -E "<h1.*>(.*?)</h1>" | sed 's/<h1.*>\(.*\)<\/h1>/\1/'`
+#	pandoc \
+#		-t html \
+#		--ascii \
+#		--standalone \
+#		--smart \
+#		--template=./templates/outline.html \
+#		-o $@.tmp $< meta.yaml.tmp
+#	doc_title=`cat $@.tmp | grep -E "<title.*>(.*?)</title>" | sed 's/<title.*>\(.*\)<\/title>/\1/'`
+#	page_title=`cat $@.tmp | grep -E "<h1.*>(.*?)</h1>" | sed 's/<h1.*>\(.*\)<\/h1>/\1/'`
 	pandoc \
 		-t html \
 		--ascii \
@@ -79,7 +79,7 @@ index.html: index.md meta.yaml
 		--smart \
 		--variable=date-meta:"$(DATE)" \
 		--variable=css:templates/markdown-memo.css \
-		--variable=title:"$${doc_title} - $${page_title}" \
+		--variable=title:"$(title)" \
 		--template=./templates/outline.html \
 		--mathjax \
 		--bibliography=mybib.bib \
