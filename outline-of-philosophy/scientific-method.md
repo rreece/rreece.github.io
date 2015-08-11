@@ -278,6 +278,7 @@ Links and Encyclopedia Articles
 -   [Epistemological Problems of Testimony](http://plato.stanford.edu/entries/testimony-episprob/)
 -   [Epistemology](http://plato.stanford.edu/entries/epistemology/)
 -   [Foundationalist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-foundational/)
+-   [Galileo Galilei](http://plato.stanford.edu/entries/galileo/)
 -   [Gassendi, Pierre (1592-1655)](http://plato.stanford.edu/entries/gassendi/)
 -   [Hobbes, Thomas (1588-1679)](http://plato.stanford.edu/entries/hobbes/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)

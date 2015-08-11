@@ -118,6 +118,7 @@ Links and Encyclopedia Articles
 
 ### SEP
 
+-   [Agency](http://plato.stanford.edu/entries/agency/)
 -   [Behaviorism](http://plato.stanford.edu/entries/behaviorism/)
 -   [Dualism](http://plato.stanford.edu/entries/dualism/)
 -   [Eliminative Materialism](http://plato.stanford.edu/entries/materialism-eliminative/)
