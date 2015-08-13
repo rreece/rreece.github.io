@@ -710,6 +710,7 @@ Links and Encyclopedia Articles
 -   [Kuhn, Thomas (1922-1996)](http://en.wikipedia.org/wiki/Thomas_Kuhn)
 -   [Logical positivism](http://en.wikipedia.org/wiki/Logical_positivism)
 -   [Mach, Ernst (1838-1916)](http://en.wikipedia.org/wiki/Ernst_Mach)
+-   [Map-territory relation](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Metaphysics](http://en.wikipedia.org/wiki/Metaphysics)
 -   [Natural Ontological Attitude](http://en.wikipedia.org/wiki/Natural_Ontological_Attitude)

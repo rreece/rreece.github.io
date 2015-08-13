@@ -102,6 +102,8 @@ $i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle$
 
 TODO.
 
+-   Nima Arkani-Hamed doing particle physics *a priori*: ["Why is there a Macroscopic Universe?"](https://www.youtube.com/watch?v=F2Fxt_yCrcc)
+
 
 ### Beyond the Standard Model
 
