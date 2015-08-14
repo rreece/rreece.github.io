@@ -220,6 +220,7 @@ Links and Encyclopedia Articles
 -   [Measurement in Quantum Theory](http://plato.stanford.edu/entries/qt-measurement/)
 -   [Quantum Entanglement and Information](http://plato.stanford.edu/entries/qt-entangle/)
 -   [Quantum Field Theory](http://plato.stanford.edu/entries/quantum-field-theory/)
+-   [Quantum Field Theory, History of](http://plato.stanford.edu/entries/quantum-field-theory/qft-history.html)
 -   [Quantum Logic and Probability Theory](http://plato.stanford.edu/entries/qt-quantlog/)
 -   [Quantum Mechanics](http://plato.stanford.edu/entries/qm/)
 -   [Relational Quantum Mechanics](http://plato.stanford.edu/entries/qm-relational/)
