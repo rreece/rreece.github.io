@@ -5,20 +5,10 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
-$for(authorshort)$
-  <meta name="author" content="$authorshort$" />
-$endfor$
-$if(date-meta)$
-  <meta name="date" content="$date-meta$" />
-$endif$
-$if(page_title)$
-  <title>$page_title$ - $doc_title$</title>
-$else$
-  <title>$title$</title>
-$endif$
-$for(css)$
-  <link rel="stylesheet" type="text/css" href="$css$"/>
-$endfor$
+  <meta name="author" content="Ryan Reece" />
+  <meta name="date" content="Sun Aug 16, 2015" />
+  <title>Ryan&#8217;s chess notes</title>
+  <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
 
 <!--- MathJax stuff -->
 <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
@@ -54,23 +44,36 @@ $endfor$
 <body>
 
 <div id="site_header">
-    <a href="./">$title$</a>
+    <a href="./">Ryan&#8217;s chess notes</a>
 </div>
 
 <div class="nav"><a href="./">Go back to the Table of Contents</a></div>
 
 <div id="afterbody">
-$for(include-before)$
-$include-before$
-$endfor$
 </div>
 
-$body$
+<h1 id="sicilian-1.-e4-c5">Sicilian (1. e4 c5)</h1>
+<h2 id="lines">Lines</h2>
+<ul>
+<li>Grivas Sicilian: 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6</li>
+</ul>
+<div class="figure">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chessboard480.svg/176px-Chessboard480.svg.png" alt="Grivas Sicilian" />
+<p class="caption">Grivas Sicilian</p>
+</div>
+<h2 id="games">Games</h2>
+<ul>
+<li>TODO: link to my games here</li>
+</ul>
+<h2 id="links">Links</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Sicilian_Defence">Sicilian Defense</a> &#8211; Wikipedia</li>
+</ul>
+<div class="references">
+
+</div>
 
 <div id="afterbody">
-$for(include-after)$
-$include-after$
-$endfor$
 </div>
 
 <div class="nav">
@@ -80,51 +83,18 @@ $endfor$
 
 <div id="site_footer">
   <div class="signature">
-    <i>$authorshort$</i> <br/>
-$if(email)$
-    $email$
+    <i>Ryan Reece</i> <br/>
+    <img src="img/my_email.png" alt="my email address" /> <br/> <a href="http://reece.scipp.ucsc.edu/">reece.scipp.ucsc.edu</a>
     <br/>
-$endif$
-    $date-meta$
+    Sun Aug 16, 2015
   </div>
   <div class="license">
-    $if(license)$ $license$ <br/> $endif$
+     &#169; 2015 Ryan Reece. All rights reserved. <br/> 
     Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.
   </div>
   <div style="clear:both;"></div>
 </div>
 
-$if(disqus)$
-<!-- disqus stuff -->
-<div id="disqus_stuff">
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = '$disqus_shortname$';
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = '$disqus_shortname$';
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function () {
-        var s = document.createElement('script'); s.async = true;
-        s.type = 'text/javascript';
-        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-    }());
-</script>
-</div> <!-- end disqus_stuff -->
-$endif$
 
 </body>
 </html>
