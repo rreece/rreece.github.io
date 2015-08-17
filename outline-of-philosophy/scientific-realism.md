@@ -701,6 +701,8 @@ Links and Encyclopedia Articles
 -   [Carnap, Rudolf (1891-1970)](http://en.wikipedia.org/wiki/Rudolf_Carnap)
 -   [Commensurability](http://en.wikipedia.org/wiki/Commensurability_(philosophy_of_science))
 -   [Confirmation holism](http://en.wikipedia.org/wiki/Confirmation_holism)
+-   [Constructive empiricism](https://en.wikipedia.org/wiki/Constructive_empiricism)
+-   [Constructivist epistemology](https://en.wikipedia.org/wiki/Constructivist_epistemology)
 -   [Critical realism (philosophy of the social sciences)](http://en.wikipedia.org/wiki/Critical_realism_(philosophy_of_the_social_sciences))
 -   [Criticism of science](http://en.wikipedia.org/wiki/Criticism_of_science)
 -   [Deductive-nomological model](http://en.wikipedia.org/wiki/Deductive-nomological_model)
