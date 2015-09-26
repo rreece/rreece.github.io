@@ -12,6 +12,14 @@ Games
 
 -   TODO: link to my games here
 
+<!---
+<iframe border="0" frameborder="0" allowtransparency="true" width="550" height="600" src="http://www.chess.com/emboard?id=2657974"></iframe>
+-->
+
+<iframe src="http://www.chess.com/emboard?id=2657974"></iframe>
+
+TODO: discuss
+
 
 Links
 --------------------------------------------------------------------------------

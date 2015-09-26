@@ -225,6 +225,7 @@ Links and Encyclopedia Articles
 -   [Quantum Mechanics](http://plato.stanford.edu/entries/qm/)
 -   [Relational Quantum Mechanics](http://plato.stanford.edu/entries/qm-relational/)
 -   [Statistical mechanics, Philosophy of](http://plato.stanford.edu/entries/statphys-statmech/)
+-   [Supertasks](http://plato.stanford.edu/entries/spacetime-supertasks/)
 -   [Symmetry and Symmetry Breaking](http://plato.stanford.edu/entries/symmetry-breaking/)
 -   [Time](http://plato.stanford.edu/entries/time/)
 
@@ -274,7 +275,9 @@ Links and Encyclopedia Articles
 -   [Hilbert space](http://en.wikipedia.org/wiki/Hilbert_space)
 -   [Holographic principle](http://en.wikipedia.org/wiki/Holographic_principle)
 -   [Locality, Principle of](https://en.wikipedia.org/wiki/Principle_of_locality)
+-   [Local hidden variable theory](https://en.wikipedia.org/wiki/Local_hidden_variable_theory)
 -   [Local quantum field theory](https://en.wikipedia.org/wiki/Local_quantum_field_theory)
+-   [Loopholes in Bell test experiments](https://en.wikipedia.org/wiki/Loopholes_in_Bell_test_experiments)
 -   [Measurement in quantum mechanics](https://en.wikipedia.org/wiki/Measurement_in_quantum_mechanics)
 -   [Measurement problem](http://en.wikipedia.org/wiki/Measurement_problem)
 -   [M-theory](http://en.wikipedia.org/wiki/M-theory)
@@ -303,6 +306,7 @@ Links and Encyclopedia Articles
 -   [Standard Model (mathematical formulation)](http://en.wikipedia.org/wiki/Standard_Model_(mathematical_formulation))
 -   [Statistical mechanics](http://en.wikipedia.org/wiki/Statistical_mechanics)
 -   [String theory](http://en.wikipedia.org/wiki/String_theory)
+-   [Supertask](https://en.wikipedia.org/wiki/Supertask)
 -   [Supersymmetry](http://en.wikipedia.org/wiki/Supersymmetry)
 -   [Thermal and statistical physics, Philosophy of](http://en.wikipedia.org/wiki/Philosophy_of_thermal_and_statistical_physics)
 -   [Timeline of cosmological theories](http://en.wikipedia.org/wiki/Timeline_of_cosmological_theories)
@@ -359,5 +363,9 @@ Links and Encyclopedia Articles
 -   [lqp2.org](http://www.lqp2.org/) - serving several papers on AQFT
 -   [Philosophy of general relativity](http://faculty.poly.edu/~jbain/philrel/) - Jonathan Bain
 -   [Philosophy of quantum mechanics](http://ls.poly.edu/~jbain/philqm/) - Jonathan Bain
+-   [Aaronson, S. (2015). "Bell inequality violation finally done right".](http://www.scottaaronson.com/blog/?p=2464)
+-   [Hensen, B. et al. (2015). "Experimental loophole-free violation of a Bell inequality using entangled electron spins separated by 1.3 km".](http://arxiv.org/abs/1508.05949)
+
+
 
 
