@@ -175,6 +175,7 @@ TODO.
 -   See the outline on [Naturalism](naturalism.html).
 -   Reductionism
 -   Monism
+-   Parmenides
 
 
 ### Pseudoscience
@@ -298,6 +299,7 @@ Links and Encyclopedia Articles
 -   [Newton, Isaac (1642-1727)](http://plato.stanford.edu/entries/newton/)
 -   [Newton's Philosophy](http://plato.stanford.edu/entries/newton-philosophy/)
 -   [Newton's *Philosophiae Naturalis Principia Mathematica*](http://plato.stanford.edu/entries/newton-principia/)
+-   [Parmenides](http://plato.stanford.edu/entries/parmenides/)
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
 -   [Principle of Sufficient Reason](http://plato.stanford.edu/entries/sufficient-reason/)
 -   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
@@ -316,6 +318,7 @@ Links and Encyclopedia Articles
 -   [Locke, John (1632-1704)](http://www.iep.utm.edu/locke/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
+-   [Parmenides](http://www.iep.utm.edu/parmenid/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Safety Condition for Knowledge, The](http://www.iep.utm.edu/safety-c/)
 -   [Simplicity in the philosophy of science](http://www.iep.utm.edu/simplici/)
@@ -384,6 +387,7 @@ Links and Encyclopedia Articles
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
+-   [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
 -   [Philosophy of Science](http://en.wikipedia.org/wiki/Philosophy_of_science)
 -   [Phlogiston theory](http://en.wikipedia.org/wiki/Phlogiston_theory)
 -   [Plato's problem](http://en.wikipedia.org/wiki/Plato%27s_Problem) from Noam Chomsky 
