@@ -176,6 +176,7 @@ Links and Encyclopedia Articles
 -   [Constructive Mathematics](http://plato.stanford.edu/entries/mathematics-constructive/)
 -   [Dedekind's Contributions to the Foundations of Mathematics](http://plato.stanford.edu/entries/dedekind-foundations/)
 -   [Descartes' Mathematics](http://plato.stanford.edu/entries/descartes-mathematics/)
+-   [Epistemology of Visual Thinking in Mathematics](http://plato.stanford.edu/entries/epistemology-visual-thinking/)
 -   [Explanation in Mathematics](http://plato.stanford.edu/entries/mathematics-explanation/)
 -   [Fictionalism](http://plato.stanford.edu/entries/fictionalism/)
 -   [Fictionalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/fictionalism-mathematics/)
