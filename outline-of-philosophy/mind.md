@@ -120,6 +120,7 @@ Links and Encyclopedia Articles
 
 -   [Agency](http://plato.stanford.edu/entries/agency/)
 -   [Behaviorism](http://plato.stanford.edu/entries/behaviorism/)
+-   [Computational Theory of Mind](http://plato.stanford.edu/entries/computational-mind/)
 -   [Dualism](http://plato.stanford.edu/entries/dualism/)
 -   [Eliminative Materialism](http://plato.stanford.edu/entries/materialism-eliminative/)
 -   [Elisabeth, Princess of Bohemia (1618-1680)](http://plato.stanford.edu/entries/elisabeth-bohemia/)

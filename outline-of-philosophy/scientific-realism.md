@@ -618,6 +618,7 @@ Links and Encyclopedia Articles
 -   [Laws of Nature](http://plato.stanford.edu/entries/laws-of-nature/)
 -   [Logic and Ontology](http://plato.stanford.edu/entries/logic-ontology/)
 -   [Logical Empiricism](http://plato.stanford.edu/entries/logical-empiricism/)
+-   [Meaning Holism](http://plato.stanford.edu/entries/meaning-holism/)
 -   [Metaphysical Grounding](http://plato.stanford.edu/entries/grounding/)
 -   [Models in Science](http://plato.stanford.edu/entries/models-science/)
 -   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
