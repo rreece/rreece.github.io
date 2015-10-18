@@ -211,6 +211,7 @@ Links and Encyclopedia Articles
 -   [Normativity of Meaning and Content](http://plato.stanford.edu/entries/meaning-normativity/)
 -   [Reasons for Action: Justification vs. Explanation](http://plato.stanford.edu/entries/reasons-just-vs-expl/)
 -   [Russell's Moral Philosophy](http://plato.stanford.edu/entries/russell-moral/)
+-   [Torture](http://plato.stanford.edu/entries/torture/)
 -   [Utilitarianism, The History of](http://plato.stanford.edu/entries/utilitarianism-history/)
 -   [Value Theory](http://plato.stanford.edu/entries/value-theory/)
 -   [Virture Ethics](http://plato.stanford.edu/entries/ethics-virtue/)
