@@ -691,6 +691,7 @@ Links and Encyclopedia Articles
 -   [Rorty, Richard (1931-2007)](http://www.iep.utm.edu/rorty/)
 -   [Russell's Metaphysics](http://www.iep.utm.edu/russ-met/)
 -   [Scientific Change](http://www.iep.utm.edu/s-change/)
+-   [Scientific Representation](http://www.iep.utm.edu/sci-repr/)
 -   [Sellars, Roy Wood (1880-1973)](http://www.iep.utm.edu/sella-rw/)
 -   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)
 -   [Vienna Circle](http://www.iep.utm.edu/viennacr/)
