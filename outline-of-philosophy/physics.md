@@ -115,9 +115,12 @@ TODO.
 
 ### Cosmology
 
+TODO.
+
 Big bang.  &Lambda;+CMD Cosmological Standard Model.  Inflation.
 
-TODO.
+-   [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster)
+-   "A direct empirical proof of the existence of dark matter" [astro-ph/0608407](http://arxiv.org/abs/astro-ph/0608407)
 
 
 ### Bracketing Human Experience
