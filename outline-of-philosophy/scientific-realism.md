@@ -711,6 +711,7 @@ Links and Encyclopedia Articles
 -   [Deductive-nomological model](http://en.wikipedia.org/wiki/Deductive-nomological_model)
 -   [Duhem-Quine Thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
 -   [Essentially contested concept](http://en.wikipedia.org/wiki/Essentially_contested_concept)
+-   [Hanson, Norwood Russell (1924-`1967)](https://en.wikipedia.org/wiki/Norwood_Russell_Hanson)
 -   [Indeterminacy of translation](http://en.wikipedia.org/wiki/Indeterminacy_of_translation)
 -   [Inscrutability of reference](http://en.wikipedia.org/wiki/Inscrutability_of_reference)
 -   [Instrumentalism](http://en.wikipedia.org/wiki/Instrumentalism)
