@@ -114,7 +114,8 @@ TODO.
 -   Not a seven-step program
 -   Evidence based, anti-conspiracy, parsimony
 -   Error-catching filters, community, honesty, openness
--   Positivism
+-   Positivism, Verificationism
+-   Auguste Comte, Ernst Mach
 -   Scientism
 
 
@@ -273,6 +274,7 @@ Links and Encyclopedia Articles
 -   [Bacon, Francis (1561-1626)](http://plato.stanford.edu/entries/francis-bacon/)
 -   [Berkeley, George (1685-1753)](http://plato.stanford.edu/entries/berkeley/)
 -   [Coherentist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-coherence/)
+-   [Democritus (460-370 BCE)](http://plato.stanford.edu/entries/democritus/)
 -   [Descartes, Ren&eacute; (1596-1650)](http://plato.stanford.edu/entries/descartes/)
 -   [Descartes' Epistemology](http://plato.stanford.edu/entries/descartes-epistemology/)
 -   [Epistemological Problems of Perception](http://plato.stanford.edu/entries/perception-episprob/)
@@ -294,6 +296,7 @@ Links and Encyclopedia Articles
 -   [Leibniz's Modal Metaphysics](http://plato.stanford.edu/entries/leibniz-modal/)
 -   [Locke, John (1632-1704)](http://plato.stanford.edu/entries/locke/)
 -   [Locke's Philosophy of Science](http://plato.stanford.edu/entries/locke-philosophy-science/)
+-   [Mach, Ernst (1838-1916)](http://plato.stanford.edu/entries/ernst-mach/)
 -   [Miracles](http://plato.stanford.edu/entries/miracles/)
 -   [Naturalized epistemology](http://plato.stanford.edu/entries/epistemology-naturalized/)
 -   [Newton, Isaac (1642-1727)](http://plato.stanford.edu/entries/newton/)
@@ -311,6 +314,7 @@ Links and Encyclopedia Articles
 
 -   [Berkeley, George (1685-1753)](http://www.iep.utm.edu/berkeley/)
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
+-   [Democritus (460-370 BCE)](http://www.iep.utm.edu/democrit/)
 -   [Epistemology](http://www.iep.utm.edu/epistemo/)
 -   [Epistemology of Testimony](http://www.iep.utm.edu/ep-testi/)
 -   [Gettier Problems](http://www.iep.utm.edu/gettier/)
@@ -342,6 +346,7 @@ Links and Encyclopedia Articles
 -   [Cartesian doubt](http://en.wikipedia.org/wiki/Cartesian_doubt)
 -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
 -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
+-   [Copernican Revolution](https://en.wikipedia.org/wiki/Copernican_Revolution)
 -   [Cram&#233;r-Rao bound](http://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound)
 -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
 -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
@@ -377,6 +382,7 @@ Links and Encyclopedia Articles
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
 -   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
+-   [Mach, Ernst (1838-1916)](https://en.wikipedia.org/wiki/Ernst_Mach)
 -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
 -   [Models of scientific inquiry](http://en.wikipedia.org/wiki/Models_of_scientific_inquiry)
 -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
