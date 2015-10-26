@@ -98,7 +98,7 @@ Science makes real progress in describing real features of the world.
 
 -   Underdetermination; language dependence; Duhem-Quine thesis; the problem of translation
 -   Positivism; Instrumentalism; linguistic frameworks; verificationism
--   Kuhn, Laudan, Feyerabend
+-   Kuhn, Lakatos, Laudan, Feyerabend
 -   Scientific revolution; paradigm shift; pessimistic meta-induction
 -   Social constructivism
 -   Epistemological anarchism
@@ -715,6 +715,7 @@ Links and Encyclopedia Articles
 -   [Inscrutability of reference](http://en.wikipedia.org/wiki/Inscrutability_of_reference)
 -   [Instrumentalism](http://en.wikipedia.org/wiki/Instrumentalism)
 -   [Kuhn, Thomas (1922-1996)](http://en.wikipedia.org/wiki/Thomas_Kuhn)
+-   [Lakatos, Imre (1922-1974)](https://en.wikipedia.org/wiki/Imre_Lakatos)
 -   [Logical positivism](http://en.wikipedia.org/wiki/Logical_positivism)
 -   [Mach, Ernst (1838-1916)](http://en.wikipedia.org/wiki/Ernst_Mach)
 -   [Map-territory relation](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
