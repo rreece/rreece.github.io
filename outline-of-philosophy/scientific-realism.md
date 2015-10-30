@@ -680,7 +680,6 @@ Links and Encyclopedia Articles
 -   [Natural Law](http://www.iep.utm.edu/natlaw/)
 -   [Ordinary Language Philosophy](http://www.iep.utm.edu/ord-lang/)
 -   [Objectivity](http://www.iep.utm.edu/objectiv/)
--   [Pragmaticism](http://www.iep.utm.edu/pragmati/)
 -   [Peirce, Charles Sanders (1839-1914): Pragmatism](http://www.iep.utm.edu/peircepr/)
 -   [Phenomenology and Natural Science](http://www.iep.utm.edu/phenomsc/)
 -   [Popper: Critical Rationalism](http://www.iep.utm.edu/cr-ratio/)
