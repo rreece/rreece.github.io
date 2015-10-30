@@ -303,13 +303,13 @@ Links and Encyclopedia Articles
 -   [Newton's Philosophy](http://plato.stanford.edu/entries/newton-philosophy/)
 -   [Newton's *Philosophiae Naturalis Principia Mathematica*](http://plato.stanford.edu/entries/newton-principia/)
 -   [Parmenides](http://plato.stanford.edu/entries/parmenides/)
--   [Philosophy of statistics](http://plato.stanford.edu/entries/statistics/)
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
 -   [Principle of Sufficient Reason](http://plato.stanford.edu/entries/sufficient-reason/)
 -   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Science and Pseudo-Science](http://plato.stanford.edu/entries/pseudo-science/)
 -   [Skepticism](http://plato.stanford.edu/entries/skepticism/)
 -   [Spinoza, Baruch (1632-1677)](http://plato.stanford.edu/entries/spinoza/)
+-   [Statistics, Philosophy of](http://plato.stanford.edu/entries/statistics/)
 
 ### IEP
 
@@ -395,8 +395,6 @@ Links and Encyclopedia Articles
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
 -   [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
--   [Philosophy of science](http://en.wikipedia.org/wiki/Philosophy_of_science)
--   [Philosophy of statistics](https://en.wikipedia.org/wiki/Philosophy_of_statistics)
 -   [Phlogiston theory](http://en.wikipedia.org/wiki/Phlogiston_theory)
 -   [Plato's problem](http://en.wikipedia.org/wiki/Plato%27s_Problem) from Noam Chomsky 
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
@@ -404,8 +402,9 @@ Links and Encyclopedia Articles
 -   [Pseudoscience, List of topics characterized as](http://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience)
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
 -   [Science](http://en.wikipedia.org/wiki/Science)
--   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
+-   [Science, Philosophy of](http://en.wikipedia.org/wiki/Philosophy_of_science)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
+-   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientism](http://en.wikipedia.org/wiki/Scientism)
 -   [Skepticism, Philosophical](http://en.wikipedia.org/wiki/Philosophical_skepticism)
 -   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
@@ -413,6 +412,7 @@ Links and Encyclopedia Articles
 -   [Statistics, Founders of](http://en.wikipedia.org/wiki/Founders_of_statistics)
 -   [Statistics, History of](http://en.wikipedia.org/wiki/History_of_statistics)
 -   [Statistics, Outline of](http://en.wikipedia.org/wiki/Outline_of_statistics)
+-   [Statistics, Philosophy of](https://en.wikipedia.org/wiki/Philosophy_of_statistics)
 -   [Statistical classification](http://en.wikipedia.org/wiki/Statistical_classification)
 -   [Statistical hypothesis testing](http://en.wikipedia.org/wiki/Statistical_hypothesis_testing)
 -   [Statistical inference](http://en.wikipedia.org/wiki/Statistical_inference)
