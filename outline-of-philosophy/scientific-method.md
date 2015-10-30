@@ -303,6 +303,7 @@ Links and Encyclopedia Articles
 -   [Newton's Philosophy](http://plato.stanford.edu/entries/newton-philosophy/)
 -   [Newton's *Philosophiae Naturalis Principia Mathematica*](http://plato.stanford.edu/entries/newton-principia/)
 -   [Parmenides](http://plato.stanford.edu/entries/parmenides/)
+-   [Philosophy of statistics](http://plato.stanford.edu/entries/statistics/)
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
 -   [Principle of Sufficient Reason](http://plato.stanford.edu/entries/sufficient-reason/)
 -   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
@@ -394,7 +395,8 @@ Links and Encyclopedia Articles
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
 -   [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
--   [Philosophy of Science](http://en.wikipedia.org/wiki/Philosophy_of_science)
+-   [Philosophy of science](http://en.wikipedia.org/wiki/Philosophy_of_science)
+-   [Philosophy of statistics](https://en.wikipedia.org/wiki/Philosophy_of_statistics)
 -   [Phlogiston theory](http://en.wikipedia.org/wiki/Phlogiston_theory)
 -   [Plato's problem](http://en.wikipedia.org/wiki/Plato%27s_Problem) from Noam Chomsky 
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
