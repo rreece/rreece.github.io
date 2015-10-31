@@ -206,6 +206,7 @@ Google gives -- Logical positivism: a form of positivism, developed by members o
 
 ### Relativism
 
+-   anti-realist
 -   Thomas Kuhn (1922-1996)
 -   Imre Lakatos (1922-1974)
 -   Paul Feyerabend (1924-1994)
@@ -251,6 +252,7 @@ understand the structures that generate such unobservable events.
 -   Roy Wood Sellars, Wilfrid Sellars
 -   Roy Bhaskar
 -   Freely emphasizes the political implications of scientific realism.
+-   The normative importance of climate science.
 
 
 My Thoughts
