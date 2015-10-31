@@ -178,6 +178,8 @@ See also:
 
 Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
 
+Google gives -- Logical positivism: a form of positivism, developed by members of the Vienna Circle, that considers that the only meaningful philosophical problems are those that can be solved by logical analysis.
+
 
 ### Postpositivism
 
@@ -189,18 +191,26 @@ Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/
 ### Pragmatism
 
 -   anti-realist
--   Dewey and Peirce
+-   Charles Sanders Peirce (1839-1914)
+-   William James (1842-1910)
+-   John Dewey (1859-1952)
 -   Rorty and Putnam
 -   Quine
 -   Dennett
 -   Our confidence comes in continuous amounts.
     We might as well act as if a claim with a certain confidence
     is real, however, we really deny realism.
+-   Meaning is rooted in use.
+-   Uniquely American philosophical movement.
 
 
 ### Relativism
 
--   Kuhn, Laudan, Feyerabend
+-   Thomas Kuhn (1922-1996)
+-   Imre Lakatos (1922-1974)
+-   Paul Feyerabend (1924-1994)
+-   Larry  Laudan (b. 1941)
+-   Conventionalism
 -   Social constructivism
 -   Epistemological anarchism
 
@@ -213,6 +223,7 @@ but does not justify metaphysical claims about reality.
 -   anti-realist
 -   van Fraassen, Bueno
 -   van Fraassen's "Arguments Concerning Scientific Realism"[^van-Fraassen-1980]
+-   Unlike positivism/instrumentalism, theories should be taken literally.
 
 
 ### Structural Realism
@@ -708,14 +719,18 @@ Links and Encyclopedia Articles
 -   [Critical realism (philosophy of the social sciences)](http://en.wikipedia.org/wiki/Critical_realism_(philosophy_of_the_social_sciences))
 -   [Criticism of science](http://en.wikipedia.org/wiki/Criticism_of_science)
 -   [Deductive-nomological model](http://en.wikipedia.org/wiki/Deductive-nomological_model)
+-   [Dewey, John (1859-1952)](https://en.wikipedia.org/wiki/John_Dewey)
 -   [Duhem-Quine Thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
 -   [Essentially contested concept](http://en.wikipedia.org/wiki/Essentially_contested_concept)
+-   [Feyerabend, Paul (1924-1994)](https://en.wikipedia.org/wiki/Paul_Feyerabend)
 -   [Hanson, Norwood Russell (1924-`1967)](https://en.wikipedia.org/wiki/Norwood_Russell_Hanson)
 -   [Indeterminacy of translation](http://en.wikipedia.org/wiki/Indeterminacy_of_translation)
 -   [Inscrutability of reference](http://en.wikipedia.org/wiki/Inscrutability_of_reference)
 -   [Instrumentalism](http://en.wikipedia.org/wiki/Instrumentalism)
+-   [James, William (1842-1910)](https://en.wikipedia.org/wiki/William_James)
 -   [Kuhn, Thomas (1922-1996)](http://en.wikipedia.org/wiki/Thomas_Kuhn)
 -   [Lakatos, Imre (1922-1974)](https://en.wikipedia.org/wiki/Imre_Lakatos)
+-   [Laudan, Larry (b. 1941)](https://en.wikipedia.org/wiki/Larry_Laudan)
 -   [Logical positivism](http://en.wikipedia.org/wiki/Logical_positivism)
 -   [Mach, Ernst (1838-1916)](http://en.wikipedia.org/wiki/Ernst_Mach)
 -   [Map-territory relation](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
