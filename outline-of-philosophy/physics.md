@@ -94,8 +94,6 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     including non-entangled ones, can communicate by action at a distance. 
 -   Gisin's Theorem
 
-$i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle$
-
 Foundations of QM:
 
 -   Hilbert spaces:
@@ -112,6 +110,10 @@ $P(n) = | \langle n | \psi \rangle |^{2} = |a_{n}|^{2}$
 
 -   Wigner's theorem
 
+The generators of the representation of a transformation in a Hilbert space
+are the operators representing the classical Noether charges that are
+conserved under that transformation.
+
 $\hat{U}(x^{\mu}) = e^{ -i \: \hat{P}_\mu \: x^\mu }$
 
 Secondary properties of QM:
@@ -119,6 +121,18 @@ Secondary properties of QM:
 -   Wave function:
 
 $\langle x | n \rangle = \psi_{n}(x)$
+
+-   Schrodinger Equation
+
+$i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle$
+
+$i \hbar \: \partial_{t} \: \hat{U}(t) \: |\psi\rangle = \hat{H} \: \hat{U}(t) \: |\psi\rangle$
+
+-   Decoherence
+
+$\mathcal{H} = \mathcal{H}_\mathrm{S} \otimes \mathcal{H}_\mathrm{E}$
+
+$|\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi; \alpha\rangle$
 
 
 ### The Standard Model of Particle Physics
