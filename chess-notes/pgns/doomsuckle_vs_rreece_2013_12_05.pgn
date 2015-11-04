@@ -1,0 +1,14 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.12.05"]
+[White "doomsuckle"]
+[Black "rreece"]
+[Result "1-0"]
+[WhiteElo "1696"]
+[BlackElo "1375"]
+[TimeControl "1 in 3 days"]
+[Termination "doomsuckle won by checkmate"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bg5 e6 7.f4 Qb6 8.Qd2 Qxb2 9.Rb1 Qa3 10.e5 Nfd7
+ 11.Be2 dxe5 12.fxe5 Nxe5 13.Nxe6 Be7 14.Nc7+ Kf8 15.Bxe7+ Qxe7 16.Nxa8 g6 17.Nd5 Qe6 18.Nac7 Qf5 19.Qh6+ Kg8 20.Ne7#
+ 1-0
