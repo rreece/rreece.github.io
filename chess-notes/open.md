@@ -10,26 +10,21 @@ Lines
 Games
 --------------------------------------------------------------------------------
 
-### First
+### N. Kypreos vs R. Reece, Oct 25, 2013 (id=77965880)
 
-<iframe border="0" frameborder="0" allowtransparency="true" width="550" height="600" src="http://www.chess.com/emboard?id=2657974"></iframe>
+<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="600" src="http://www.chess.com/emboard?id=2749414"></iframe>
 
-### N. Kypreos vs R. Reece, Oct 25, 2013
-
-<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="600" src="http://www.chess.com/emboard?id=77965880"></iframe>
-<iframe border="0" frameborder="0" allowtransparency="true" width="574" height="434" src="http://www.chess.com/emboard?id=2749414"></iframe>
-
-### R. Reece vs N. Kypreos, Feb 6, 2014
+### R. Reece vs N. Kypreos, Feb 6, 2014 (id=84564738)
 
 <iframe border="0" frameborder="0" allowtransparency="true" width="600" height="600" src="http://www.chess.com/emboard?id=84564738"></iframe>
 
-### R. Reece vs N. Kypreos, May 8, 2014 
+### R. Reece vs N. Kypreos, May 8, 2014 (id=89898012)
 
 <iframe border="0" frameborder="0" allowtransparency="true" width="600" height="600" src="http://www.chess.com/emboard?id=89898012"></iframe> - Nimzowitsch Defense, Declined Variation
 
-### R. Reece vs N. Kypreos, Aug 16, 2015
+### R. Reece vs N. Kypreos, Aug 16, 2015 (id=116600168)
 
-<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="600" src="http://www.chess.com/emboard?id=116600168"></iframe>
+<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="600" src="http://www.chess.com/emboard?id=2657974"></iframe>
 
 
 Links
