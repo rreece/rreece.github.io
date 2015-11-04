@@ -65,6 +65,7 @@ TODO.
 -   Entropy
 -   Statistical Mechanics and Thermodynamics
 -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
+-   The 2nd Law of Thermodynamics said simply: Things tend to happen in ways for which there are many ways to happen like that.
 
 
 ### Emergence
