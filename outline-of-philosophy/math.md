@@ -52,6 +52,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 1.  blah
 2.  blah
 
+-   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
+
 
 ### Pythagoreanism
 
