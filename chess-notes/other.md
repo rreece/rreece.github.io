@@ -12,7 +12,7 @@ Games
 
 -   East Indian Defense
 
-<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="450" src="http://www.chess.com/emboard?id=84566496"></iframe>
+<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="450" src="http://www.chess.com/emboard?id=2749480"></iframe>
 
 
 Links
