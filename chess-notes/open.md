@@ -17,6 +17,7 @@ Games
 ### N. Kypreos vs R. Reece, Oct 25, 2013
 
 <iframe border="0" frameborder="0" allowtransparency="true" width="600" height="600" src="http://www.chess.com/emboard?id=77965880"></iframe>
+<iframe border="0" frameborder="0" allowtransparency="true" width="574" height="434" src="http://www.chess.com/emboard?id=2749414"></iframe>
 
 ### R. Reece vs N. Kypreos, Feb 6, 2014
 
