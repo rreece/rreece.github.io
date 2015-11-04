@@ -402,4 +402,13 @@ div.more
     border-bottom: 2px #cccccc dashed;
 }
 
+iframe.chessboard
+{
+    border: 0;
+    frameborder: 0;
+    allowtransparency: true;
+    width: 550;
+    height: 600;
+}
+
 
