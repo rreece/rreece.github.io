@@ -238,9 +238,9 @@ TODO.
 
 ### More articles to do
 
--   Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state.
-
-
+-   [Pusey, M.F., Barrett, J., & Rudolph, T. (2012). "On the reality of the quantum state."](http://arxiv.org/abs/1111.3328)
+-   [Aaronson, S. (2015). "Bell inequality violation finally done right."](http://www.scottaaronson.com/blog/?p=2464)
+-   [Hensen, B. et al. (2015). "Experimental loophole-free violation of a Bell inequality using entangled electron spins separated by 1.3 km."](http://arxiv.org/abs/1508.05949)
 
 
 Links and Encyclopedia Articles
@@ -416,8 +416,6 @@ Links and Encyclopedia Articles
 -   [lqp2.org](http://www.lqp2.org/) - serving several papers on AQFT
 -   [Philosophy of general relativity](http://faculty.poly.edu/~jbain/philrel/) - Jonathan Bain
 -   [Philosophy of quantum mechanics](http://ls.poly.edu/~jbain/philqm/) - Jonathan Bain
--   [Aaronson, S. (2015). "Bell inequality violation finally done right".](http://www.scottaaronson.com/blog/?p=2464)
--   [Hensen, B. et al. (2015). "Experimental loophole-free violation of a Bell inequality using entangled electron spins separated by 1.3 km".](http://arxiv.org/abs/1508.05949)
 
 
 
