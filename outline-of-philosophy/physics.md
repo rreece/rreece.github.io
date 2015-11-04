@@ -98,8 +98,27 @@ $i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle$
 
 Foundations of QM:
 
--   Hilbert spaces: $\hat{H} \: |n\rangle = E_{n} \: |n\rangle$
--   Superposition principle: $|\psi\rangle = \sum_{n} a_{n} \: |n\rangle$
+-   Hilbert spaces:
+
+$\hat{H} \: |n\rangle = E_{n} \: |n\rangle$
+
+-   Superposition principle:
+
+$|\psi\rangle = \sum_{n} a_{n} \: |n\rangle$
+
+-   Born rule
+
+$P(n) = | \langle n | \psi \rangle |^{2} = |a_{n}|^{2}$
+
+-   Wigner's theorem
+
+$\hat{U}(x^{\mu}) = e^{ -i \: \hat{P}_\mu \: x^\mu }$
+
+Secondary properties of QM:
+
+-   Wave function:
+
+$\langle x | n \rangle = \psi_{n}(x)$
 
 
 ### The Standard Model of Particle Physics
