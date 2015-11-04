@@ -16,15 +16,15 @@ Games
 
 ### [R. Reece vs N. Kypreos, Feb 6, 2014](http://www.chess.com/echess/game?id=84564738)
 
-<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="450" src="http://www.chess.com/emboard?id=84564738"></iframe>
+<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="450" src="http://www.chess.com/emboard?id=2749470"></iframe>
 
 ### [R. Reece vs N. Kypreos, May 8, 2014](http://www.chess.com/echess/game?id=89898012)
 
-<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="450" src="http://www.chess.com/emboard?id=89898012"></iframe> - Nimzowitsch Defense, Declined Variation
+<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="450" src="http://www.chess.com/emboard?id=2749474"></iframe> - Nimzowitsch Defense, Declined Variation
 
 ### [R. Reece vs N. Kypreos, Aug 16, 2015](http://www.chess.com/echess/game?id=116600168)
 
-<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="450" src="http://www.chess.com/emboard?id=2657974"></iframe>
+<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="450" src="http://www.chess.com/emboard?id=2749476"></iframe>
 
 
 Links
