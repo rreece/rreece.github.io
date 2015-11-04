@@ -7,7 +7,7 @@ Lines
 
 ### Grivas Sicilian: 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qb6
 
-<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="450" src="http://www.chess.com/emboard?id=2749486"></iframe>
+<iframe border="0" frameborder="0" allowtransparency="true" width="600" height="400" src="http://www.chess.com/emboard?id=2749486"></iframe>
 
 
 Games

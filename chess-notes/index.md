@@ -4,8 +4,19 @@ chess notes
 Openings
 --------------------------------------------------------------------------------
 
+King's Pawn Openings:
+
 -   [Open (e4 e5)](open.html)
 -   [Sicilian (e4 c5)](sicilian.html)
+-   [French (e4 e6)](french.html)
+
+Queens' Pawn Openings:
+
+-   [Closed (d4 d5)](closed.html)
+-   [Dutch (d4 f5)](dutch.html)
+
+Others:
+
 -   [Others](other.html)
 
 
