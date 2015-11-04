@@ -92,10 +92,14 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   PBR theorem. Wikipedia: Either the quantum state corresponds to a physically
     real object and is not merely a statistical tool, or else all quantum states,
     including non-entangled ones, can communicate by action at a distance. 
--   TODO.
 -   Gisin's Theorem
 
 $i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle$
+
+Foundations of QM:
+
+-   Hilbert spaces: $\hat{H} \: |n\rangle = E_{n} \: |n\rangle$
+-   Superposition principle: $|\psi\rangle = \sum_{n} a_{n} \: |n\rangle$
 
 
 ### The Standard Model of Particle Physics
