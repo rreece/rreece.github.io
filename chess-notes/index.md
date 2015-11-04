@@ -6,6 +6,7 @@ Openings
 
 -   [Open (e4 e5)](open.html)
 -   [Sicilian (e4 c5)](sicilian.html)
+-   [Others](other.html)
 
 
 Links
