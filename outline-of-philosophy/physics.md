@@ -94,7 +94,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     including non-entangled ones, can communicate by action at a distance. 
 -   Gisin's Theorem
 
-Foundations of QM:
+#### Foundations of QM:
 
 -   Hilbert spaces:
 
@@ -116,7 +116,7 @@ conserved under that transformation.
 
 $\hat{U}(x^{\mu}) = e^{ -i \: \hat{P}_\mu \: x^\mu }$
 
-Secondary properties of QM:
+#### Secondary properties of QM:
 
 -   Wave function:
 
@@ -133,6 +133,12 @@ $i \hbar \: \partial_{t} \: \hat{U}(t) \: |\psi\rangle = \hat{H} \: \hat{U}(t) \
 $\mathcal{H} = \mathcal{H}_\mathrm{S} \otimes \mathcal{H}_\mathrm{E}$
 
 $|\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi; \alpha\rangle$
+
+#### "Atom" (2009) BBC documentary
+
+Jim Al-Khalili tells the story of the greatest scientific discovery ever - that everything is made of atoms.
+
+-   [watch the 3 episodes](http://topdocumentaryfilms.com/atom-tim/)
 
 
 ### The Standard Model of Particle Physics
