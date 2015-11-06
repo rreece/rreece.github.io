@@ -9,6 +9,9 @@ Lines
 
 <iframe border="0" frameborder="0" allowtransparency="true" width="600" height="400" src="http://www.chess.com/emboard?id=2749486"></iframe>
 
+### Closed: 1. e4 c5 2. Nc3
+
+
 
 Games
 --------------------------------------------------------------------------------
