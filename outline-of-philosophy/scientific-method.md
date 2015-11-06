@@ -421,7 +421,6 @@ Links and Encyclopedia Articles
 -   [Statistics, History of](http://en.wikipedia.org/wiki/History_of_statistics)
 -   [Statistics, Outline of](http://en.wikipedia.org/wiki/Outline_of_statistics)
 -   [Statistics, Philosophy of](https://en.wikipedia.org/wiki/Philosophy_of_statistics)
--   [Substantial Form](http://en.wikipedia.org/wiki/Substantial_form)
 -   [Superseded scientific theories](http://en.wikipedia.org/wiki/Superseded_scientific_theories)
 -   [Systematic error](http://en.wikipedia.org/wiki/Systematic_error)
 -   [Timeline of the history of the scientific method](http://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)
