@@ -17,7 +17,7 @@ Description of the workshop from [Sean Carroll's event page](http://preposterous
 >   -   **Emergence.** Does reductionism provide the best path to understanding complex systems, or do different levels of description have autonomous existence?
 >   -   **Consciousness.** How do the phenomena of consciousness arise from the collective behavior of inanimate matter?
 >   -   **Evolution.** Can the ideas of natural selection be usefully extended to areas outside of biology, or can evolution be subsumed within a more general theory of complex systems?
->   -   Determinism. To what extent is the future determined given quantum uncertainty and chaos theory, and does it matter?
+>   -   **Determinism.** To what extent is the future determined given quantum uncertainty and chaos theory, and does it matter?
 >   
 >   This workshop brought together a small number of researchers and writers to tackle the project of moving naturalism forward by making progress on these issues.
 
