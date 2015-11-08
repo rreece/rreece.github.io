@@ -9,14 +9,14 @@ Description of the workshop from [Sean Carroll's event page](http://preposterous
 >    
 >   In the public sphere, debates continue between naturalism and spiritual or religious or dualistic worldviews, and those debates are worth having. But it is also important for those committed to naturalism to address the very difficult questions raised by replacing folk psychology and morality by a scientifically-grounded understanding of reality. We would like to understand how to construct meaningful human lives in a world governed by the laws of nature. Some specific questions include:
 >   
->   -   Free will. If people are collections of atoms obeying the laws of physics, is it sensible to say that they make choices?
->   -   Morality. What is the origin of right and wrong? Are there objective standards?
->   -   Meaning. Why live? Is there a rational justification for finding meaning in human existence?
->   -   Purpose. Do teleological concepts play a useful role in our description of natural phenomena?
->   -   Epistemology. Is science unique as a method for discovering true knowledge?
->   -   Emergence. Does reductionism provide the best path to understanding complex systems, or do different levels of description have autonomous existence?
->   -   Consciousness. How do the phenomena of consciousness arise from the collective behavior of inanimate matter?
->   -   Evolution. Can the ideas of natural selection be usefully extended to areas outside of biology, or can evolution be subsumed within a more general theory of complex systems?
+>   -   **Free will.** If people are collections of atoms obeying the laws of physics, is it sensible to say that they make choices?
+>   -   **Morality.** What is the origin of right and wrong? Are there objective standards?
+>   -   **Meaning.** Why live? Is there a rational justification for finding meaning in human existence?
+>   -   **Purpose.** Do teleological concepts play a useful role in our description of natural phenomena?
+>   -   **Epistemology.** Is science unique as a method for discovering true knowledge?
+>   -   **Emergence.** Does reductionism provide the best path to understanding complex systems, or do different levels of description have autonomous existence?
+>   -   **Consciousness.** How do the phenomena of consciousness arise from the collective behavior of inanimate matter?
+>   -   **Evolution.** Can the ideas of natural selection be usefully extended to areas outside of biology, or can evolution be subsumed within a more general theory of complex systems?
 >   -   Determinism. To what extent is the future determined given quantum uncertainty and chaos theory, and does it matter?
 >   
 >   This workshop brought together a small number of researchers and writers to tackle the project of moving naturalism forward by making progress on these issues.
@@ -25,11 +25,11 @@ You can view the video recordings of the workshop in [Sean's youtube playlist](h
 
 In these webpages, I have recorded my notes taken from watching this workshop.
 Rather than make a transcript, I have tried to take "minutes"---I have generally
-summarized what people said, but still writing in blocks with a speaker,
+summarized what people said in my own words, but still writing in blocks with a speaker,
 like a transcript or screenplay.  Please do not hold the speakers at this workshop
 responsible for my poor precises of their positions.
 Please help me correct errors (my email is at the bottom of the page).
-I have interupted the discussion occassionally with my opinions, denoted **(Ryan)**.
+I have interrupted the discussion occasionally with my own opinions, denoted **(Ryan)**.
 
 Contents
 --------------------------------------------------------------------------------
