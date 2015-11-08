@@ -159,7 +159,7 @@ Participants introduce themselves
     For example, if your kid tells you they are hungry,
     that's a way of knowing that is not science.
 
-    (**Ryan, the author of these notes**): I disagree, it's still science: empirical and falsifiable.
+    **(Ryan, the author of these notes)**: I disagree, it's still science: empirical and falsifiable.
     You could ask them to repeat it in case you mis-heard them;
     you could look closely to verify you aren't mis-identifying them,
     empirically improving your confidence in the information.

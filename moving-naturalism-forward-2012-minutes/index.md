@@ -29,6 +29,7 @@ summarized what people said, but still writing in blocks with a speaker,
 like a transcript or screenplay.  Please do not hold the speakers at this workshop
 responsible for my poor precises of their positions.
 Please help me correct errors (my email is at the bottom of the page).
+I have interupted the discussion occassionally with my opinions, denoted **(Ryan)**.
 
 Contents
 --------------------------------------------------------------------------------
