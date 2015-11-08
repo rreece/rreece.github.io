@@ -51,7 +51,7 @@ I made a draft figure to note my views of the differences of interesting positio
 Draft figure (2014-12-04) to be eventually posted on [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/)
 
 
-Other Links
+Links to other information about naturalism
 --------------------------------------------------------------------------------
 
 -   [Naturalism](http://plato.stanford.edu/entries/naturalism/) - SEP
