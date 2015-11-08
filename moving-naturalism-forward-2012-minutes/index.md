@@ -34,9 +34,9 @@ I have interrupted the discussion occasionally with my own opinions, denoted **(
 Contents
 --------------------------------------------------------------------------------
 
-1.  [Day 1](day1.html): *introductions, what is real?, emergence and reduction*  -- (in progress)
-1.  [Day 2](day2.html): *morality, meaning, free will and consciousness*  -- (TODO)
-1.  [Day 3](day3.html): *philosophy and science, final thoughts*  -- (TODO)
+1.  [Day 1: *introductions, what is real?, emergence and reduction*](day1.html)  -- (in progress)
+1.  [Day 2: *morality, meaning, free will and consciousness*](day2.html)  -- (TODO)
+1.  [Day 3: *philosophy and science, final thoughts*](day3.html)  -- (TODO)
 1.  Ryan's summary  -- (TODO)
 
 
