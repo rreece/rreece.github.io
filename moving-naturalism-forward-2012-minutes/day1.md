@@ -108,7 +108,7 @@ Participants introduce themselves
     there is a retrograde gang of philosophers that do armchair philosophy that is not worth a damn.
     Willfred Sellars nailed it: philosophy should be about helping our intuitions understand how
     the manifest image goes with the scientific image, to bring consilience.
-    Compatiblist.  Things the brain should be thought of as having humuncular functionalism.
+    Compatiblist.  Thinks the brain should be thought of as having humuncular functionalism.
 
     > The brain is a largely anarchic assemblage of selfish neurons that have agendas.
 
