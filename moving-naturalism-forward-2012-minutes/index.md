@@ -14,7 +14,7 @@ Other references on naturalism:
 -   [Naturalism](http://www.iep.utm.edu/naturali/) - IEP
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy)) - Wikipedia
 -   [Naturalism.org](http://www.naturalism.org/) 
-    -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/history.htm)
+    -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/worldview-naturalism/history-of-naturalism)
 
 
 Contents
