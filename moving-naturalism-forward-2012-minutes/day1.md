@@ -83,7 +83,7 @@ Participants introduce themselves
     adequate to explain brains.
 
 9.  **Rebecca Goldstein** - Grew up in an orthodox Jewish home.
-    As a child, read *Our Friend the Atom* and Bertrand Russle's *Why I am not a Christian*.
+    As a child, read *Our Friend the Atom* and Bertrand Russell's *Why I am not a Christian*.
     Wanted to be a physicist.  Sydney Morganbesser convinced her to study philosophy of science.
     Went to Princeton to study philosophy.  Wanted to study foundations of quantum mechanics.
     Then read Thomas Nagel's "What it is like to be a bat".
