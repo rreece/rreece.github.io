@@ -1,11 +1,27 @@
 Ryan's Minutes of "Moving Naturalism Forward"
 ================================================================================
 
-**"Moving Naturalism Forward" workshop October 25-29, 2012**
+**"Moving Naturalism Forward" workshop, October 25-29, 2012**
 
-Over four centuries of scientific progress have convinced most professional philosophers and scientists of the validity of naturalism: the view that there is only one realm of existence, the natural world, whose behavior can be studied through reason and empirical investigation. The basic operating principles of the natural world appear to be impersonal and inviolable; microscopic constituents of inanimate matter obeying the laws of physics fit together in complex structures to form intelligent, emotive, conscious human beings.
+Description of workshop from [Sean Carroll's event page](http://preposterousuniverse.com/naturalism2012/):
 
--   Sean Carroll's [event page](http://preposterousuniverse.com/naturalism2012/)
+>   Over four centuries of scientific progress have convinced most professional philosophers and scientists of the validity of naturalism: the view that there is only one realm of existence, the natural world, whose behavior can be studied through reason and empirical investigation. The basic operating principles of the natural world appear to be impersonal and inviolable; microscopic constituents of inanimate matter obeying the laws of physics fit together in complex structures to form intelligent, emotive, conscious human beings.
+>    
+>   In the public sphere, debates continue between naturalism and spiritual or religious or dualistic worldviews, and those debates are worth having. But it is also important for those committed to naturalism to address the very difficult questions raised by replacing folk psychology and morality by a scientifically-grounded understanding of reality. We would like to understand how to construct meaningful human lives in a world governed by the laws of nature. Some specific questions include:
+>   
+>   -   Free will. If people are collections of atoms obeying the laws of physics, is it sensible to say that they make choices?
+>   -   Morality. What is the origin of right and wrong? Are there objective standards?
+>   -   Meaning. Why live? Is there a rational justification for finding meaning in human existence?
+>   -   Purpose. Do teleological concepts play a useful role in our description of natural phenomena?
+>   -   Epistemology. Is science unique as a method for discovering true knowledge?
+>   -   Emergence. Does reductionism provide the best path to understanding complex systems, or do different levels of description have autonomous existence?
+>   -   Consciousness. How do the phenomena of consciousness arise from the collective behavior of inanimate matter?
+>   -   Evolution. Can the ideas of natural selection be usefully extended to areas outside of biology, or can evolution be subsumed within a more general theory of complex systems?
+>   -   Determinism. To what extent is the future determined given quantum uncertainty and chaos theory, and does it matter?
+>   
+>   This workshop brought together a small number of researchers and writers to tackle the project of moving naturalism forward by making progress on these issues.
+
+
 -   [Youtube playlist](https://www.youtube.com/watch?v=Ju4C_ITlBsU&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL)
 
 Other references on naturalism:
