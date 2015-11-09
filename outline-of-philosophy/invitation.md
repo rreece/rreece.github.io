@@ -37,14 +37,14 @@ A very diverse set of thinkers are often characterized as naturalists or aligned
 with naturalism, at the expense of much clarity in the term, but naturalism
 generally consists of varying degrees of either or both:
 
-1.  *epistemological naturalism* - an epistemic respect for science;
+1.  ***epistemological naturalism*** - an epistemic respect for science;
     a methodological commitment to
     the [scientific method](http://rreece.github.io/outline-of-philosophy/scientific-method.html)
     of justifying empirical claims as a route to knowledge,
     if not the chief or perhaps (with a sufficiently broad definition)
     the only route to knowledge.
     Science should be guiding in what we claim to know.
-2.  *ontological naturalism* - has a variety of claims and interpretations,
+2.  ***ontological naturalism*** - has a variety of claims and interpretations,
     but they center on the premise that if we have any claim to what is,
     it better be informed by and consistent with science.
     It often involves a skepticism of *a priori* metaphysics,
