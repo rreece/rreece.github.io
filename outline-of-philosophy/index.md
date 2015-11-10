@@ -3,6 +3,7 @@ Contents
 
 1.  [Invitation to scientific philosophy](invitation.html) -- a place to start in the discussion of philosophy of science and naturalism.   **(in progress)**
 1.  [The scientific method](scientific-method.html) -- the key to epistemology.   **(in progress)**
+1.  [Philosophy of statistics](statistics.html)  (TODO)
 1.  [Scientific realism](scientific-realism.html) -- the key to metaphysics.   **(in progress)**
 1.  [Naturalism](naturalism.html) -- a metaphilosophy that says science should bootstrap philosophy.  (TODO)
 1.  [Philosophy of mathematics](math.html)   (TODO)
