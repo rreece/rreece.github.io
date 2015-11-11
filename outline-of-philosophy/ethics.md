@@ -231,6 +231,7 @@ Links and Encyclopedia Articles
 -   [Metaethics](http://www.iep.utm.edu/metaethi/)
 -   [Moral Egalitarianism](http://www.iep.utm.edu/moral-eg/)
 -   [Moral Epistemology](http://www.iep.utm.edu/mor-epis/)
+-   [Morality and Cognitive Science](http://www.iep.utm.edu/m-cog-sc/)
 -   [Moral Particularism](http://www.iep.utm.edu/morlpat/)
 -   [Moral Realism](http://www.iep.utm.edu/moralrea/)
 -   [Moral Relativism](http://www.iep.utm.edu/moral-re/)
