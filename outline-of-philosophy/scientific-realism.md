@@ -279,6 +279,50 @@ Questions:
 -   Maybe scientism is really the same thing positivism re-branded;
     similarly, naturalism is empiricism re-branded.
 
+### My defense of realism
+
+1.  <div class="clickmore"><a id="link:my_defense_of_realism1" class="closed" onclick="toggle_more('my_defense_of_realism1')">
+    There is an external world.
+    </a></div>
+    <div id="my_defense_of_realism1" class="more">
+    
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+    eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+    
+    </div>
+
+1.  <div class="clickmore"><a id="link:my_defense_of_realism2" class="closed" onclick="toggle_more('my_defense_of_realism2')">
+    If we are careful, we can collect reproducible empirical information.
+    </a></div>
+    <div id="my_defense_of_realism2" class="more">
+    
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+    eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+    
+    </div>
+
+1.  <div class="clickmore"><a id="link:my_defense_of_realism3" class="closed" onclick="toggle_more('my_defense_of_realism3')">
+    There is an external world.
+    </a></div>
+    <div id="my_defense_of_realism3" class="more">
+    
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+    eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
+    
+    </div>
+
 
 Annotated Bibliography
 --------------------------------------------------------------------------------
