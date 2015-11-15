@@ -308,6 +308,7 @@ Links and Encyclopedia Articles
 -   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Science and Pseudo-Science](http://plato.stanford.edu/entries/pseudo-science/)
 -   [Scientific Explanation](http://plato.stanford.edu/entries/scientific-explanation/)
+-   [Scientific Method](http://plato.stanford.edu/entries/scientific-method/)
 -   [Skepticism](http://plato.stanford.edu/entries/skepticism/)
 -   [Spinoza, Baruch (1632-1677)](http://plato.stanford.edu/entries/spinoza/)
 -   [Statistics, Philosophy of](http://plato.stanford.edu/entries/statistics/)
