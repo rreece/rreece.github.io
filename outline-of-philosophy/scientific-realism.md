@@ -675,6 +675,7 @@ Links and Encyclopedia Articles
 -   [Logical Empiricism](http://plato.stanford.edu/entries/logical-empiricism/)
 -   [Mach, Ernst (1838-1916)](http://plato.stanford.edu/entries/ernst-mach/)
 -   [Meaning Holism](http://plato.stanford.edu/entries/meaning-holism/)
+-   [Mechanisms in Science](http://plato.stanford.edu/entries/science-mechanisms/)
 -   [Metaphysics](http://plato.stanford.edu/entries/metaphysics/)
 -   [Metaphysical Grounding](http://plato.stanford.edu/entries/grounding/)
 -   [Metaphysical Grounding](http://plato.stanford.edu/entries/grounding/)

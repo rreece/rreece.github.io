@@ -297,6 +297,7 @@ Links and Encyclopedia Articles
 -   [Locke, John (1632-1704)](http://plato.stanford.edu/entries/locke/)
 -   [Locke's Philosophy of Science](http://plato.stanford.edu/entries/locke-philosophy-science/)
 -   [Mach, Ernst (1838-1916)](http://plato.stanford.edu/entries/ernst-mach/)
+-   [Mechanisms in Science](http://plato.stanford.edu/entries/science-mechanisms/)
 -   [Miracles](http://plato.stanford.edu/entries/miracles/)
 -   [Naturalized epistemology](http://plato.stanford.edu/entries/epistemology-naturalized/)
 -   [Newton, Isaac (1642-1727)](http://plato.stanford.edu/entries/newton/)
