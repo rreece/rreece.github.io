@@ -324,6 +324,7 @@ Links and Encyclopedia Articles
 -   [Hierarchy problem](https://en.wikipedia.org/wiki/Hierarchy_problem)
 -   [Hilbert space](http://en.wikipedia.org/wiki/Hilbert_space)
 -   [Holographic principle](http://en.wikipedia.org/wiki/Holographic_principle)
+-   [Holomovement](https://en.wikipedia.org/wiki/Holomovement)
 -   [Lambda-CDM_model](https://en.wikipedia.org/wiki/Lambda-CDM_model)
 -   [Locality, Principle of](https://en.wikipedia.org/wiki/Principle_of_locality)
 -   [Local hidden variable theory](https://en.wikipedia.org/wiki/Local_hidden_variable_theory)

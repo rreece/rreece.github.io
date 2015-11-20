@@ -270,6 +270,7 @@ Links and Encyclopedia Articles
 -   [Russell, Bertrand (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell)
 -   [Tarski, Alfred (1901-1983)](https://en.wikipedia.org/wiki/Alfred_Tarski)
 -   [Tarski's undefinability theorem](https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem)
+-   [Third man argument](https://en.wikipedia.org/wiki/Third_man_argument)
 -   [Unsolved problems in information theory, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_information_theory)
 -   [Unsolved problems in linquistics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_linguistics)
 -   [Unsolved problems in mathematics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
