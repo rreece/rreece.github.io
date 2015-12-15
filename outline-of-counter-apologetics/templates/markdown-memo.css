@@ -24,7 +24,7 @@ body{
     margin-bottom: 20px;
     margin-left: auto;
     padding: 20px;
-    width: 700px;
+    max-width: 700px;
     /* font-family: Verdana, Helvetica, Arial, sans-serif; */
     font-family: Georgia, Palatino, serif;
     color: #444444;
@@ -101,6 +101,7 @@ div#site_header {
     border-bottom: 2px solid #444444;
     padding-top: 4px;
     padding-bottom: 4px;
+    min-width: 500px;
 }
 
 div#site_header a {
@@ -120,6 +121,7 @@ div#site_footer {
     border-bottom: 2px solid #444444;
     padding-top: 4px;
     padding-bottom: 4px;
+    min-width: 500px;
 }
 
 div#site_footer img {
@@ -134,13 +136,12 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 24px;
 }
 h1 {
-    width: 700px;  /* forces page width */
     font-size: 42px;
 }
 h2 {
-    width: 700px;  /* forces page width */
     border-bottom: 2px solid #444444;
     font-size: 36px;
+    min-width: 500px;
 }
 h3 {
     font-size: 24px;
@@ -207,6 +208,11 @@ img {
     margin-right:auto;
 }
 
+div.figure img {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 /* table ---------------------------------------------------------- */
 table {
     margin-top: 24px;
@@ -240,7 +246,7 @@ div.nav
     margin-left: 0;
     margin-right: 0;
     border: 2px solid #444444;
-    padding: 5px 10px;
+    padding: 5px;
 }
 
 div.nav ul
@@ -356,8 +362,9 @@ a.footnoteRef sup {
 .caption
 {
     text-align: center;
-    font-size: 12px;
+    font-size: 14px;
     color: #444444;
+    margin-top: 2px;
 }
 
 /* click for more ---------------------------------------------------- */
