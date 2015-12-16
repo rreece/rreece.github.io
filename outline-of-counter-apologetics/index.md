@@ -6,22 +6,12 @@ Contents
 --------------------------------------------------------------------------------
 
 -   [The Socratic Method Applied to Faith](socratic-method-on-faith.html) ([comment count](socratic-method-on-faith.html#disqus_thread)) -- Completed 12/28/2014. Please Read!
+-   [A note about knowing vs believing](knowing-vs-believing.html) -- (in progress)
 
 [//]: # (-   [Commonly Overlooked Issues with the Bible](overlooked-bible.html) -- TODO)
 [//]: # (-   [Issues with the Quran](overlooked-quran.html) -- TODO)
 [//]: # (-   [Videos analyzed](videos-analyzed.html) -- (in progress))
 [//]: # (-   [Articles analyzed](articles-analyzed.html) -- (in progress))
-
-
-A note about knowing vs believing
---------------------------------------------------------------------------------
-
-First, note that (a)theism and (a)gnostim deal with independent issues of what
-one believes and what one claims is knowable, respectively.
-Agnosticism is not some kind of middle position between atheism and theism.
-See [philosophy-in-figures: atheism-vs-agnosticism](http://philosophy-in-figures.tumblr.com/post/88206026601/atheism-vs-agnosticism).
-
-![atheism vs agnosticism](http://36.media.tumblr.com/04318ccd1c431998e0aaac673b8b02d0/tumblr_n6vbezM6221te399ao1_r1_1280.png)
 
 
 External Links
