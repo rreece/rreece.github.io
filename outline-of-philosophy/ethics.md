@@ -180,8 +180,9 @@ Links and Encyclopedia Articles
 
 -   [Civic Humanism](http://plato.stanford.edu/entries/humanism-civic/)
 -   [Consequentialism](http://plato.stanford.edu/entries/consequentialism/)
--   [Doing vs. Allowing Harm](http://plato.stanford.edu/entries/doing-allowing/)
+-   [Decision Theory](http://plato.stanford.edu/entries/decision-theory/)
 -   [Deontic Logic](http://plato.stanford.edu/entries/logic-deontic/)
+-   [Doing vs. Allowing Harm](http://plato.stanford.edu/entries/doing-allowing/)
 -   [Game Theory](http://plato.stanford.edu/entries/game-theory/)
 -   [Evolutionary Game Theory](http://plato.stanford.edu/entries/game-evolutionary/)
 -   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
