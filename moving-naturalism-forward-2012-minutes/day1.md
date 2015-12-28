@@ -314,9 +314,8 @@ What about the Schrodinger equation?
 **Alex**
 
 I agree, and several others have pointed out, the ontology of mathematical relations is perplexing.
-The biggest problem for me philosophically is--what is the metaphysics and epistemology of mathematical truths?
 
->   What is the metaphysics and epistemology of mathematical truths?
+>   The biggest problem for me philosophically is--what is the metaphysics and epistemology of mathematical truths?
 
 Some, like Dan, will say that teleology is a garden variety causal process
 that involves blind variation and natural selection operating at many different levels
