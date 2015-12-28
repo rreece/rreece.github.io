@@ -1,6 +1,12 @@
 Moving Naturalism Forward Day 3
 ================================================================================
 
+**Contents:**
+
+1.  [Philosophy and science](#philosophy-and-science)
+2.  [Final thoughts](#final-thoughts)
+
+
 --------------------------------------------------------------------------------
 
 *Day 3, morning, 1st session*

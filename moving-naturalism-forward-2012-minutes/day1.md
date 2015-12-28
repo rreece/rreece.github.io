@@ -1,6 +1,13 @@
 Moving Naturalism Forward Day 1
 ================================================================================
 
+**Contents:**
+
+1.  [Participants introduce themselves](#participants-introduce-themselves)
+2.  [What is reality?](#what-is-reality)
+3.  [Emergence and reduction](#emergence-and-reduction)
+
+
 --------------------------------------------------------------------------------
 
 *Day 1, morning, 1st session*
