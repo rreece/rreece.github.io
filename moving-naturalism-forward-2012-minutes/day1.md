@@ -269,6 +269,9 @@ particle physics.
 >   unphilosophical, unsophisticated way and I don't see any reason for barring
 >   its use in the sciences also.
 
+Weinberg took a philosophy course from Max Black at Cornell, who 
+whenever asked if something is real, said the answer is "yes".
+
 Temperature is real; protons are real; the constitution is real; this newspaper is real;
 but real in different ways.
 
@@ -285,7 +288,7 @@ but we shouldn't go to the other extreme and deny the reality of the manifest im
 **Alex**
 
 (Back-pedaling)  That's not a thesis I was defending.
-There's nothing but fermions and bosons... and everything that is made up of
+There's nothing but fermions and bosons... *and everything that is made up of*
 fermions and bosons.
 The physical facts fix all the facts.
 There are also chemical facts, biological facts, economic facts.
@@ -310,7 +313,8 @@ What about the Schrodinger equation?
 
 **Alex**
 
-I agree, the ontology of mathematical relations is perplexing.
+I agree, and several others have pointed out, the ontology of mathematical relations is perplexing.
+The biggest problem for me philosophically is--what is the metaphysics and epistemology of mathematical truths?
 
 >   What is the metaphysics and epistemology of mathematical truths?
 
