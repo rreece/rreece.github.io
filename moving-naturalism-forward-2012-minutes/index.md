@@ -26,12 +26,13 @@ You can view the video recordings of the workshop in [Sean's youtube playlist](h
 In these webpages, I have recorded my notes taken from watching this workshop.
 Rather than make a transcript, I have tried to take "minutes"---I have generally
 summarized what people said in my own words, but still writing in blocks with a speaker,
-like a transcript or screenplay.  Please do not hold the speakers at this workshop
-responsible for my poor precises of their positions.
-Please help me correct errors (my email is at the bottom of the page).
+like a transcript or screenplay, but only verbatim in parts.
 I have interrupted the discussion occasionally with my own opinions, denoted **(Ryan)**.
 
 Please let me know what you think in the comments.
+Please do not hold the speakers at this workshop responsible for
+my poor precises of their positions.
+Please help me correct errors (my email is at the bottom of each page).
 
 
 Contents
