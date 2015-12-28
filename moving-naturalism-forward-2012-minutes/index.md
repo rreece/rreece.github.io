@@ -31,6 +31,9 @@ responsible for my poor precises of their positions.
 Please help me correct errors (my email is at the bottom of the page).
 I have interrupted the discussion occasionally with my own opinions, denoted **(Ryan)**.
 
+Please let me know what you think in the comments.
+
+
 Contents
 --------------------------------------------------------------------------------
 
