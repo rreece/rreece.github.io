@@ -178,6 +178,7 @@ Links and Encyclopedia Articles
 
 ### SEP
 
+-   [Aristotle Ethics](http://plato.stanford.edu/entries/aristotle-ethics/) - eudaimonia
 -   [Civic Humanism](http://plato.stanford.edu/entries/humanism-civic/)
 -   [Consequentialism](http://plato.stanford.edu/entries/consequentialism/)
 -   [Decision Theory](http://plato.stanford.edu/entries/decision-theory/)
