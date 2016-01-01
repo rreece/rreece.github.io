@@ -178,7 +178,7 @@ Links and Encyclopedia Articles
 
 ### SEP
 
--   [Aristotle Ethics](http://plato.stanford.edu/entries/aristotle-ethics/) - eudaimonia
+-   [Aristotle's Ethics](http://plato.stanford.edu/entries/aristotle-ethics/) - eudaimonia
 -   [Civic Humanism](http://plato.stanford.edu/entries/humanism-civic/)
 -   [Consequentialism](http://plato.stanford.edu/entries/consequentialism/)
 -   [Decision Theory](http://plato.stanford.edu/entries/decision-theory/)
@@ -251,6 +251,7 @@ Links and Encyclopedia Articles
 -   [Ethical naturalism](http://en.wikipedia.org/wiki/Ethical_naturalism)
 -   [Ethical non-naturalism](http://en.wikipedia.org/wiki/Ethical_non-naturalism)
 -   [Ethics](http://en.wikipedia.org/wiki/Ethics)
+-   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
 -   [Is-ought problem](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
