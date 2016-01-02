@@ -262,13 +262,13 @@ TODO.
 
 #### 1. Introduction
 
-    Do not become archivists of facts. Try to penetrate to the secret of their
-    occurrence, persistently search for the laws which govern them.
+>   Do not become archivists of facts. Try to penetrate to the secret of their
+>   occurrence, persistently search for the laws which govern them.
 
 -- Ivan Pavlov
 
-    The important thing in science is not so much to obtain new facts as to
-    discover new ways of thinking about them.
+>   The important thing in science is not so much to obtain new facts as to
+>   discover new ways of thinking about them.
 
 -- W.L. Bragg
 
@@ -374,6 +374,7 @@ Links and Encyclopedia Articles
 -   [Skepticism](http://plato.stanford.edu/entries/skepticism/)
 -   [Spinoza, Baruch (1632-1677)](http://plato.stanford.edu/entries/spinoza/)
 -   [Statistics, Philosophy of](http://plato.stanford.edu/entries/statistics/)
+-   [Thought Experiments](http://plato.stanford.edu/entries/thought-experiment/)
 
 ### IEP
 

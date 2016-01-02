@@ -703,6 +703,7 @@ Links and Encyclopedia Articles
 -   [Tarski, Alfred (1901-1983)](http://plato.stanford.edu/entries/tarski/)
 -   [Theoretical Terms in Science](http://plato.stanford.edu/entries/theoretical-terms-science/)
 -   [Theory and Observation in Science](http://plato.stanford.edu/entries/science-theory-observation/)
+-   [Thought Experiments](http://plato.stanford.edu/entries/thought-experiment/)
 -   [Truth](http://plato.stanford.edu/entries/truth/)
 -   [Truth, Axiomatic Theories of](http://plato.stanford.edu/entries/truth-axiomatic/)
 -   [Truth, Coherence Theory of](http://plato.stanford.edu/entries/truth-coherence/)
