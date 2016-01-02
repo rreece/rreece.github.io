@@ -258,6 +258,67 @@ TODO.
 
 --------------------------------------------------------------------------------
 
+### French, S. (2007). Science: Key Concepts in Philosophy.
+
+#### 1. Introduction
+
+    Do not become archivists of facts. Try to penetrate to the secret of their
+    occurrence, persistently search for the laws which govern them.
+
+-- Ivan Pavlov
+
+    The important thing in science is not so much to obtain new facts as to
+    discover new ways of thinking about them.
+
+-- W.L. Bragg
+
+TODO:
+
+-   summarize
+-   Feynman
+-   Giere
+-   Darwin
+-   Einstein
+
+#### 2. Discovery
+
+-   Archimedes
+-   Kary Mullis - Nobel Prize 1993 for Polymerase Chain Reaction (PCR)
+-   "Eureka moments" fit well with the "romantic view" of discovery - Kant
+-   "In other words, discovery is ultimately *irrational* and *unanalysable*."
+-   Hypothetico-deductive account of discovery
+    -   Hypotheses arrived at via creative Eureka moments.
+    -   (Make a number of relevant observations.)
+    -   Verification via deductive account of observations.
+-   Inductive account of discovery
+    -   (Hypotheses arrived at via creative Eureka moments.)
+    -   Make a number of relevant observations.
+    -   Inductively support hypotheses.
+
+
+#### 3. Heuristics
+
+#### 4. Justification
+
+#### 5. Observation
+
+#### 6. Experiment
+
+#### 7. Realism
+
+#### 8. Anti-realism
+
+#### 9. Independence
+
+#### 10. Gender Bias
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
 ### More articles to do
 
 -   TODO.
@@ -382,6 +443,7 @@ Links and Encyclopedia Articles
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
 -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
+-   [Hypothetico-deductive model](https://en.wikipedia.org/wiki/Hypothetico-deductive_model)
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
 -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
