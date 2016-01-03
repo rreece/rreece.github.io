@@ -283,10 +283,11 @@ TODO:
 
 #### 2. Discovery
 
--   Archimedes
--   Kary Mullis - Nobel Prize 1993 for Polymerase Chain Reaction (PCR)
--   "Eureka moments" fit well with the "romantic view" of discovery - Kant
--   "In other words, discovery is ultimately *irrational* and *unanalysable*."
+-   Eureka moments
+    -   Archimedes
+    -   Kary Mullis - Nobel Prize 1993 for Polymerase Chain Reaction (PCR)
+    -   "Eureka moments" fit well with the "romantic view" of discovery - Kant
+    -   "In other words, discovery is ultimately *irrational* and *unanalysable*."
 -   Hypothetico-deductive account of discovery
     -   Hypotheses arrived at via creative Eureka moments.
     -   (Make a number of relevant observations.)
