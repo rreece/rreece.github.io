@@ -161,6 +161,7 @@ Links and Encyclopedia Articles
 -   [Deductive-nomological model](https://en.wikipedia.org/wiki/Deductive-nomological_model)
 -   [Empircism](http://en.wikipedia.org/wiki/Empiricism)
 -   [Epistemology](http://en.wikipedia.org/wiki/Epistemology)
+-   [Graunt, John (1620-1674)](https://en.wikipedia.org/wiki/John_Graunt)
 -   [Gettier problem](http://en.wikipedia.org/wiki/Gettier_problem)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
@@ -197,6 +198,7 @@ Links and Encyclopedia Articles
 ### Others
 
 -   [errorstatistics.com](http://errorstatistics.com/) - Deborah Mayo's blog
+-   [Graunt, John (1620-1674)](http://statprob.com/encyclopedia/JohnGRAUNT.html) - statprob.com
 
 
 
