@@ -146,7 +146,7 @@ h3 {
     font-size: 24px;
 }
 h4 {
-    font-size: 21px;
+    font-size: 20px;
     font-weight: bold;
 }
 h5 {
@@ -400,15 +400,6 @@ div.more
     margin-bottom: 16px;
     border-top: 2px #cccccc dashed;
     border-bottom: 2px #cccccc dashed;
-}
-
-iframe.chessboard
-{
-    border: 0;
-    frameborder: 0;
-    allowtransparency: true;
-    width: 550;
-    height: 600;
 }
 
 
