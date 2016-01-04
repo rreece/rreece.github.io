@@ -38,8 +38,8 @@ Looking for resources about critiquing faith?  Try these.
 -   [Sam Harris' TED talk: Science can answer moral questions](https://www.youtube.com/watch?v=Hj9oB4zpHww)  -- (24 mins)
 -   ["God is not a good theory"](https://www.youtube.com/watch?v=ew_cNONhhKI) -- talk by Sean Carroll (53 mins)
 -   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) -- talk by Sean Carroll (49 mins)
--   ["Four Horsemen"](https://www.youtube.com/watch?v=rRLYL1Q9x9g) -- discussion between ]
-On the 30th of September 2007, Richard Dawkins, Daniel Dennett, Sam Harris and Christopher Hitchens sat down for a first-of-its-kind, unmoderated 2-hour discussion
+-   ["Four Horsemen"](https://www.youtube.com/watch?v=rRLYL1Q9x9g) -- discussion between Richard Dawkins,
+    Daniel Dennett, Sam Harris, and Christopher Hitchens on September 30, 2007 (2h).
 
 #### Debates
 
