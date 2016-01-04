@@ -35,10 +35,10 @@ Looking for resources about critiquing faith?  Try these.
 -   [Sean Carroll and Hans Halvorson debate religion](https://www.youtube.com/watch?v=H864JH1tPYU) -- (1h35m)
 -   [Ricky Gervais - The Unbelievers Interview](https://www.youtube.com/watch?v=iUUpvrP-gzQ) -- (15 mins)
 -   [Alain de Botton: Atheism 2.0](https://www.youtube.com/watch?v=2Oe6HUgrRlQ) -- (19 mins)
--   [Street Epistemology](https://www.youtube.com/watch?v=_pYU45s6vWA&list=PLh10RgQgGuM-tnT7fKwgF4Dt57oh_yL5r&index=1) -- youtube
+-   [Street Epistemology](https://www.youtube.com/watch?v=_pYU45s6vWA&list=PLh10RgQgGuM-tnT7fKwgF4Dt57oh_yL5r&index=1)      
+    interviews about faith by [Anthony Magnabosco](https://www.youtube.com/channel/UCocP40a_UvRkUAPLD5ezLIQ)
 -   [Jonathan Miller's "Atheism: A Rough History of Disbelief" episode 1](https://www.youtube.com/watch?v=Wx-tDBEY4rg), [episode 2](https://www.youtube.com/watch?v=m41peaE4Ui0), [episode 3](https://www.youtube.com/watch?v=Ft2SypNRvUk) -- (each 1h)
 
-    interviews about faith by [Anthony Magnabosco](https://www.youtube.com/channel/UCocP40a_UvRkUAPLD5ezLIQ)
 
 <!---
 Some of these videos are analyzed in these pages [here](videos-analyzed.html).
