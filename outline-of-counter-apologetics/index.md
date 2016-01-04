@@ -84,5 +84,12 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 -   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura)
 -   [Enlightenment, Age of](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
 -   [Lucretius](http://en.wikipedia.org/wiki/Lucretius)
+-   [Naturalism](http://plato.stanford.edu/entries/naturalism/) - SEP
+-   [Naturalism](http://www.iep.utm.edu/naturali/) - IEP
+-   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy)) - Wikipedia
+-   [Naturalism.org](http://www.naturalism.org/) 
+    -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/worldview-naturalism/history-of-naturalism)
+
+
 
 
