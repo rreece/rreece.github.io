@@ -49,7 +49,7 @@ Some of these videos are analyzed in these pages [here](videos-analyzed.html).
 -   ["The Bible: So Misunderstood It's a Sin"](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html) -- Kurt Eichenwald, *Newsweek*
 -   ["An Open Letter to Moderate Muslims"](http://www.huffingtonpost.com/ali-a-rizvi/an-open-letter-to-moderat_b_5930764.html) -- Ali A. Rizvi, *Huffpost* and *[RDFRS](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/)*
 -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/worldview-naturalism/history-of-naturalism) -- [Naturalism.org](http://www.naturalism.org/) 
--   ["The History of Freethought and Atheism"](http://www.positiveatheism.org/india/s1990c25.htm) - Gordon Stein
+-   ["The History of Freethought and Atheism"](http://www.positiveatheism.org/india/s1990c25.htm) -- Gordon Stein
 
 <!---
 Some of these articles are analyzed in these pages [here](articles-analyzed.html).
