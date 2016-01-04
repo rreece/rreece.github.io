@@ -62,13 +62,13 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 
 ### Books
 
--   [*God is Not Great*](http://www.amazon.com/God-Not-Great-Religion-Everything/dp/0446697966/) - Christopher Hitchens (2009)
--   [*Letter to a Christian Nation*](http://www.amazon.com/Letter-Christian-Nation-Sam-Harris/dp/0307278778/) - Sam Harris (2008)
--   [*The End of Faith*](http://www.amazon.com/End-Faith-Religion-Terror-Future/dp/0393327655/) - Sam Harris (2005)
--   [*The Moral Landscape*](http://www.amazon.com/Moral-Landscape-Science-Determine-Values/dp/143917122X) - Sam Harris (2011)
--   [*Darwin's Dangerous Idea*](http://www.amazon.com/DARWINS-DANGEROUS-IDEA-EVOLUTION-MEANINGS/dp/068482471X/) - Daniel Dennett (1996)
--   [*Breaking the Spell*](http://www.amazon.com/Breaking-Spell-Religion-Natural-Phenomenon/dp/0143038338/) - Daniel Dennett (2007)
--   [*Heretic: Why Islam Needs a Reformation Now*](http://www.amazon.com/Heretic-Why-Islam-Needs-Reformation/dp/0062333933/) - Ayaan Hirsi Ali (2015)
+-   [*God is Not Great*](http://www.amazon.com/God-Not-Great-Religion-Everything/dp/0446697966/) -- Christopher Hitchens (2009)
+-   [*Letter to a Christian Nation*](http://www.amazon.com/Letter-Christian-Nation-Sam-Harris/dp/0307278778/) -- Sam Harris (2008)
+-   [*The End of Faith*](http://www.amazon.com/End-Faith-Religion-Terror-Future/dp/0393327655/) -- Sam Harris (2005)
+-   [*The Moral Landscape*](http://www.amazon.com/Moral-Landscape-Science-Determine-Values/dp/143917122X) -- Sam Harris (2011)
+-   [*Darwin's Dangerous Idea*](http://www.amazon.com/DARWINS-DANGEROUS-IDEA-EVOLUTION-MEANINGS/dp/068482471X/) -- Daniel Dennett (1996)
+-   [*Breaking the Spell*](http://www.amazon.com/Breaking-Spell-Religion-Natural-Phenomenon/dp/0143038338/) -- Daniel Dennett (2007)
+-   [*Heretic: Why Islam Needs a Reformation Now*](http://www.amazon.com/Heretic-Why-Islam-Needs-Reformation/dp/0062333933/) -- Ayaan Hirsi Ali (2015)
 
 ### Reference
 
