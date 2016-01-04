@@ -21,21 +21,32 @@ Looking for resources about critiquing faith?  Try these.
 
 ### Videos
 
+#### Shorter Clips
+
 -   ["You're already committed to reason"](https://www.youtube.com/watch?v=UC4gqkd-6_o)  -- Steven Pinker (4 mins)
 -   [Hitchens destroys religion](https://www.youtube.com/watch?v=TuI4Nzc07Io)  -- Christopher Hitchens (10 mins)
 -   ["The complete idiot's guide to atheism"](https://www.youtube.com/watch?v=1CLjYHqfilE)  -- short montage (10 mins)
--   [Christopher Hitchens talks at Google](https://www.youtube.com/watch?v=sD0B-X9LJjs)  -- (1h)
--   [Sam Harris debates Rabi David Wolpe](https://www.youtube.com/watch?v=bN9nlAnkCUY)  -- (1h45m)
--   [Sam Harris' TED talk: Science can answer moral questions](https://www.youtube.com/watch?v=Hj9oB4zpHww)  -- (24 mins)
--   [The Atheist Experience](http://www.atheist-experience.com/)  -- TV show with many great episodes
--   [Christopher Hitchens on free speech](https://www.youtube.com/watch?v=jyoOfRog1EM) -- (21 mins)
--   [Christopher Hitchens on global conflict](https://www.youtube.com/watch?v=0M3Nw1D_jp0&feature=youtu.be&t=2181)
 -   [Naturalism and the meaning of life](https://www.youtube.com/watch?v=dLmY4ktOIOI) -- Sean Carroll (7 mins)
--   ["God is not a good theory"](https://www.youtube.com/watch?v=ew_cNONhhKI) -- talk by Sean Carroll (53 mins)
--   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) -- talk by Sean Carroll (49 mins)
--   [Sean Carroll and Hans Halvorson debate religion](https://www.youtube.com/watch?v=H864JH1tPYU) -- (1h35m)
 -   [Ricky Gervais - The Unbelievers Interview](https://www.youtube.com/watch?v=iUUpvrP-gzQ) -- (15 mins)
 -   [Alain de Botton: Atheism 2.0](https://www.youtube.com/watch?v=2Oe6HUgrRlQ) -- (19 mins)
+
+#### Longer Talks
+
+-   [Christopher Hitchens talks at Google](https://www.youtube.com/watch?v=sD0B-X9LJjs)  -- (1h)
+-   [Sam Harris' TED talk: Science can answer moral questions](https://www.youtube.com/watch?v=Hj9oB4zpHww)  -- (24 mins)
+-   [Christopher Hitchens on free speech](https://www.youtube.com/watch?v=jyoOfRog1EM) -- (21 mins)
+-   [Christopher Hitchens on global conflict](https://www.youtube.com/watch?v=0M3Nw1D_jp0&feature=youtu.be&t=2181)
+-   ["God is not a good theory"](https://www.youtube.com/watch?v=ew_cNONhhKI) -- talk by Sean Carroll (53 mins)
+-   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) -- talk by Sean Carroll (49 mins)
+
+#### Debates
+
+-   [Sam Harris debates Rabi David Wolpe](https://www.youtube.com/watch?v=bN9nlAnkCUY)  -- (1h45m)
+-   [Sean Carroll and Hans Halvorson debate religion](https://www.youtube.com/watch?v=H864JH1tPYU) -- (1h35m)
+
+#### Collections
+
+-   [The Atheist Experience](http://www.atheist-experience.com/)  -- TV show with many great episodes
 -   [Street Epistemology](https://www.youtube.com/watch?v=_pYU45s6vWA&list=PLh10RgQgGuM-tnT7fKwgF4Dt57oh_yL5r&index=1) interviews about faith by [Anthony Magnabosco](https://www.youtube.com/channel/UCocP40a_UvRkUAPLD5ezLIQ)
 -   [Jonathan Miller's "Atheism: A Rough History of Disbelief" episode 1](https://www.youtube.com/watch?v=Wx-tDBEY4rg), [episode 2](https://www.youtube.com/watch?v=m41peaE4Ui0), [episode 3](https://www.youtube.com/watch?v=Ft2SypNRvUk) -- (each 1h)
 
