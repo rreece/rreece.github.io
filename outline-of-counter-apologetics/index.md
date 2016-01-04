@@ -28,6 +28,7 @@ Looking for resources about critiquing faith?  Try these.
 -   [Sam Harris debates Rabi David Wolpe](https://www.youtube.com/watch?v=bN9nlAnkCUY)  -- (1h45m)
 -   [Sam Harris' TED talk: Science can answer moral questions](https://www.youtube.com/watch?v=Hj9oB4zpHww)  -- (24 mins)
 -   [The Atheist Experience](http://www.atheist-experience.com/)  -- TV show with many great episodes
+-   [Christopher Hitchens on free speech](https://www.youtube.com/watch?v=jyoOfRog1EM) -- (21 mins)
 -   [Christopher Hitchens on global conflict](https://www.youtube.com/watch?v=0M3Nw1D_jp0&feature=youtu.be&t=2181)
 -   [Naturalism and the meaning of life](https://www.youtube.com/watch?v=dLmY4ktOIOI) -- Sean Carroll (7 mins)
 -   ["God is not a good theory"](https://www.youtube.com/watch?v=ew_cNONhhKI) -- talk by Sean Carroll (53 mins)
