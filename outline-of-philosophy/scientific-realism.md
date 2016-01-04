@@ -810,6 +810,7 @@ Links and Encyclopedia Articles
 -   [Reichenbach, Hans (1891-1953)](http://en.wikipedia.org/wiki/Hans_Reichenbach)
 -   [Rorty, Richard (1931-2007)](https://en.wikipedia.org/wiki/Richard_Rorty)
 -   [Science](http://en.wikipedia.org/wiki/Science)
+-   [Science wars](https://en.wikipedia.org/wiki/Science_wars)
 -   [Scientific Realism](http://en.wikipedia.org/wiki/Scientific_realism)
 -   [Speculative Realism](http://en.wikipedia.org/wiki/Speculative_realism)
 -   [Sellars, Roy Wood (1880-1973)](http://en.wikipedia.org/wiki/Roy_Wood_Sellars)
