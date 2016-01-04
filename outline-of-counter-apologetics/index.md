@@ -48,6 +48,7 @@ Some of these videos are analyzed in these pages [here](videos-analyzed.html).
 
 -   ["The Bible: So Misunderstood It's a Sin"](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html) -- Kurt Eichenwald, *Newsweek*
 -   ["An Open Letter to Moderate Muslims"](http://www.huffingtonpost.com/ali-a-rizvi/an-open-letter-to-moderat_b_5930764.html) -- Ali A. Rizvi, *Huffpost* and *[RDFRS](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/)*
+-   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/worldview-naturalism/history-of-naturalism) -- [Naturalism.org](http://www.naturalism.org/) 
 -   ["The History of Freethought and Atheism"](http://www.positiveatheism.org/india/s1990c25.htm) - Gordon Stein
 
 <!---
@@ -72,12 +73,13 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 ### Reference
 
 -   [wiki.ironchariots.org](http://wiki.ironchariots.org/)
+-   [naturalism.org](http://www.naturalism.org/) 
 -   [rationalwiki.org](http://rationalwiki.org/)
 -   [quran.com](http://quran.com/)
 -   [The Skeptic's Annotated Bible](http://skepticsannotatedbible.com/)
 -   [yourlogicalfallacyis.com](https://yourlogicalfallacyis.com/)
 
-### Wikipedia
+### Wiki Articles
 
 -   [Atheism](https://en.wikipedia.org/wiki/Atheism)
 -   [Atheism, History of](https://en.wikipedia.org/wiki/History_of_atheism)
@@ -87,8 +89,6 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 -   [Naturalism](http://plato.stanford.edu/entries/naturalism/) - SEP
 -   [Naturalism](http://www.iep.utm.edu/naturali/) - IEP
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy)) - Wikipedia
--   [Naturalism.org](http://www.naturalism.org/) 
-    -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/worldview-naturalism/history-of-naturalism)
 
 
 
