@@ -83,8 +83,13 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 
 -   [Atheism](https://en.wikipedia.org/wiki/Atheism)
 -   [Atheism, History of](https://en.wikipedia.org/wiki/History_of_atheism)
+-   [Democritus](http://plato.stanford.edu/entries/democritus/) - SEP
+-   [Democritus](https://en.wikipedia.org/wiki/Democritus) - Wikipedia
 -   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura)
 -   [Enlightenment, Age of](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
+-   [Epicurus](http://plato.stanford.edu/entries/epicurus/) - SEP
+-   [Epicurus](http://www.iep.utm.edu/epicur/) - IEP
+-   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) - Wikipedia
 -   [Lucretius](http://en.wikipedia.org/wiki/Lucretius)
 -   [Naturalism](http://plato.stanford.edu/entries/naturalism/) - SEP
 -   [Naturalism](http://www.iep.utm.edu/naturali/) - IEP
