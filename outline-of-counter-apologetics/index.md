@@ -33,18 +33,20 @@ Looking for resources about critiquing faith?  Try these.
 #### Longer Talks
 
 -   [Christopher Hitchens talks at Google](https://www.youtube.com/watch?v=sD0B-X9LJjs)  -- (1h)
--   [Sam Harris' TED talk: Science can answer moral questions](https://www.youtube.com/watch?v=Hj9oB4zpHww)  -- (24 mins)
 -   [Christopher Hitchens on free speech](https://www.youtube.com/watch?v=jyoOfRog1EM) -- (21 mins)
 -   [Christopher Hitchens on global conflict](https://www.youtube.com/watch?v=0M3Nw1D_jp0&feature=youtu.be&t=2181)
+-   [Sam Harris' TED talk: Science can answer moral questions](https://www.youtube.com/watch?v=Hj9oB4zpHww)  -- (24 mins)
 -   ["God is not a good theory"](https://www.youtube.com/watch?v=ew_cNONhhKI) -- talk by Sean Carroll (53 mins)
 -   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) -- talk by Sean Carroll (49 mins)
+-   ["Four Horsemen"](https://www.youtube.com/watch?v=rRLYL1Q9x9g) -- discussion between ]
+On the 30th of September 2007, Richard Dawkins, Daniel Dennett, Sam Harris and Christopher Hitchens sat down for a first-of-its-kind, unmoderated 2-hour discussion
 
 #### Debates
 
 -   [Sam Harris debates Rabi David Wolpe](https://www.youtube.com/watch?v=bN9nlAnkCUY)  -- (1h45m)
 -   [Sean Carroll and Hans Halvorson debate religion](https://www.youtube.com/watch?v=H864JH1tPYU) -- (1h35m)
 
-#### Collections
+#### Collections and Series
 
 -   [The Atheist Experience](http://www.atheist-experience.com/)  -- TV show with many great episodes
 -   [Street Epistemology](https://www.youtube.com/watch?v=_pYU45s6vWA&list=PLh10RgQgGuM-tnT7fKwgF4Dt57oh_yL5r&index=1) interviews about faith by [Anthony Magnabosco](https://www.youtube.com/channel/UCocP40a_UvRkUAPLD5ezLIQ)
