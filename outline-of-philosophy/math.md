@@ -256,6 +256,7 @@ Links and Encyclopedia Articles
 -   [Continuum hypothesis](http://en.wikipedia.org/wiki/Continuum_hypothesis)
 -   [Diagonal lemma](http://en.wikipedia.org/wiki/Diagonal_lemma)
 -   [Ethnomathematics](http://en.wikipedia.org/wiki/Ethnomathematics)
+-   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
 -   [Frege, Gottlob (1848-1925)](http://en.wikipedia.org/wiki/Gottlob_Frege)
 -   [Gentzen's consistency proof](http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof)
 -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
@@ -267,13 +268,17 @@ Links and Encyclopedia Articles
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Natural number](http://en.wikipedia.org/wiki/Natural_number)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
+-   [Propositional calculus](https://en.wikipedia.org/wiki/Propositional_calculus)
 -   [Russell, Bertrand (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell)
+-   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
 -   [Tarski, Alfred (1901-1983)](https://en.wikipedia.org/wiki/Alfred_Tarski)
 -   [Tarski's undefinability theorem](https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem)
 -   [Third man argument](https://en.wikipedia.org/wiki/Third_man_argument)
+-   [Type theory](https://en.wikipedia.org/wiki/Type_theory)
 -   [Unsolved problems in information theory, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_information_theory)
 -   [Unsolved problems in linquistics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_linguistics)
 -   [Unsolved problems in mathematics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
+-   [Zeroth-order logic](https://en.wikipedia.org/wiki/Zeroth-order_logic)
 
 ### Others
 
