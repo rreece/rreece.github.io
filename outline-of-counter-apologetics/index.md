@@ -46,6 +46,7 @@ Some of these videos are analyzed in these pages [here](videos-analyzed.html).
 
 -   ["The Bible: So Misunderstood It's a Sin"](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html) -- Kurt Eichenwald, *Newsweek*
 -   ["An Open Letter to Moderate Muslims"](http://www.huffingtonpost.com/ali-a-rizvi/an-open-letter-to-moderat_b_5930764.html) -- Ali A. Rizvi, *Huffpost* and *[RDFRS](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/)*
+-   ["The History of Freethought and Atheism"](http://www.positiveatheism.org/india/s1990c25.htm) - Gordon Stein
 
 <!---
 Some of these articles are analyzed in these pages [here](articles-analyzed.html).
@@ -74,8 +75,12 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 -   [The Skeptic's Annotated Bible](http://skepticsannotatedbible.com/)
 -   [yourlogicalfallacyis.com](https://yourlogicalfallacyis.com/)
 
-### Misc
+### Wikipedia
 
--   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius](http://en.wikipedia.org/wiki/Lucretius)
+-   [Atheism](https://en.wikipedia.org/wiki/Atheism)
+-   [Atheism, History of](https://en.wikipedia.org/wiki/History_of_atheism)
+-   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura)
+-   [Enlightenment, Age of](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
+-   [Lucretius](http://en.wikipedia.org/wiki/Lucretius)
 
 
