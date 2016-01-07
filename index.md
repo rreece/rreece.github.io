@@ -1,7 +1,7 @@
 
 ### What's here?
 
--   You might be looking for my github page about my software projects: [rreece.github.io/sw](sw/)
+-   You might be looking for my page about my selected software projects: [rreece.github.io/sw](sw/)
 -   My github profile: [github.com/rreece](https://github.com/rreece)
 
 
