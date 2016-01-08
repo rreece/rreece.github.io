@@ -29,6 +29,7 @@ Looking for resources about critiquing faith?  Try these.
 -   [Naturalism and the meaning of life](https://www.youtube.com/watch?v=dLmY4ktOIOI) -- Sean Carroll (7 mins)
 -   [Ricky Gervais - The Unbelievers Interview](https://www.youtube.com/watch?v=iUUpvrP-gzQ) -- (15 mins)
 -   [Alain de Botton: Atheism 2.0](https://www.youtube.com/watch?v=2Oe6HUgrRlQ) -- (19 mins)
+-   [Sam Harris replies to regressive liberal apologist of Islam](https://www.youtube.com/watch?v=1JrYCHC0bkE) -- (5 mins)
 
 #### Longer Talks
 
