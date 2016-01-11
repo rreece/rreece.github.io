@@ -48,6 +48,8 @@ Looking for resources about critiquing faith?  Try these.
 
 -   [Sam Harris debates Rabi David Wolpe](https://www.youtube.com/watch?v=bN9nlAnkCUY)  -- (1h45m)
 -   [Sean Carroll and Hans Halvorson debate religion](https://www.youtube.com/watch?v=H864JH1tPYU) -- (1h35m)
+-   [Sean Carroll and William Lane Craig debate "God and Cosmology"](https://www.youtube.com/watch?v=X0qKZqPy9T8) -- (2h)
+    -   [TL;DW version](https://www.youtube.com/watch?v=2Z0TQatmd3s) -- (10 mins)
 
 #### Collections and Series
 
