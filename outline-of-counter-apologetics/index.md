@@ -30,6 +30,8 @@ Looking for resources about critiquing faith?  Try these.
 -   [Ricky Gervais - The Unbelievers Interview](https://www.youtube.com/watch?v=iUUpvrP-gzQ) -- (15 mins)
 -   [Alain de Botton: Atheism 2.0](https://www.youtube.com/watch?v=2Oe6HUgrRlQ) -- (19 mins)
 -   [Sam Harris replies to a regressive liberal apologist of Islam](https://www.youtube.com/watch?v=1JrYCHC0bkE) -- (5 mins)
+-   [Counter Arguments: "Religious Text Has No Meaning"](https://www.youtube.com/watch?v=9d7_JgHBMBo) -- (9 mins)
+-   [Counter Arguments: "Islamophobia"](https://www.youtube.com/watch?v=lEeauLCOeXQ) -- (14 mins)
 
 #### Longer Talks
 
@@ -77,8 +79,8 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 ### Books
 
 -   [*God is Not Great*](http://www.amazon.com/God-Not-Great-Religion-Everything/dp/0446697966/) -- Christopher Hitchens (2009)
--   [*Letter to a Christian Nation*](http://www.amazon.com/Letter-Christian-Nation-Sam-Harris/dp/0307278778/) -- Sam Harris (2008)
 -   [*The End of Faith*](http://www.amazon.com/End-Faith-Religion-Terror-Future/dp/0393327655/) -- Sam Harris (2005)
+-   [*Letter to a Christian Nation*](http://www.amazon.com/Letter-Christian-Nation-Sam-Harris/dp/0307278778/) -- Sam Harris (2008)
 -   [*The Moral Landscape*](http://www.amazon.com/Moral-Landscape-Science-Determine-Values/dp/143917122X) -- Sam Harris (2011)
 -   [*Darwin's Dangerous Idea*](http://www.amazon.com/DARWINS-DANGEROUS-IDEA-EVOLUTION-MEANINGS/dp/068482471X/) -- Daniel Dennett (1996)
 -   [*Breaking the Spell*](http://www.amazon.com/Breaking-Spell-Religion-Natural-Phenomenon/dp/0143038338/) -- Daniel Dennett (2007)
