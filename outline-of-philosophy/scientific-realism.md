@@ -818,6 +818,7 @@ Links and Encyclopedia Articles
 -   [Structure of Scientific Revolutions, The](http://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)
 -   [Substantial Form](http://en.wikipedia.org/wiki/Substantial_form)
 -   [Two Dogmas of Empircism](http://en.wikipedia.org/wiki/Two_Dogmas_of_Empiricism)
+-   [Unsolved problems in philosophy, List of](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_philosophy)
 -   [Vienna Circle](http://en.wikipedia.org/wiki/Vienna_Circle)
 -   [Wittgenstein, Ludwig (1889-1951)](http://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
 
