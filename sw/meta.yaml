@@ -22,6 +22,8 @@ abstract: |
 email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
 disqus: true
 disqus_shortname: 'ryans-selected-software-projects'
+#description: 'Write a description of this webpage.'
+#keywords: 'List, some, keywords, for, this, webpage'
 google_analytics_tracking_id: 'UA-55199032-1'
 #mathjax: true
 # pdflatex options ----------------------------------
