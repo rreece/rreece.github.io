@@ -19,7 +19,7 @@ underscores the relevance of a philosophical understanding of science.
 Philosophy of science asks: what is science?
 Do the diverse inquiries called science
 have an underlying, universal, scientific method, and if so, what is it?
-How can we tell science from pseudoscience?
+How can we tell science from not science, and what is pseudoscience?
 Is science a way of producing knowledge, and if so, are there other
 ways of knowing?
 What should we say of the products of science,

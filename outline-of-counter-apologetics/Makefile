@@ -44,10 +44,6 @@ html: $(HTML_FILES)
 	$(PRINT) "html done."
 
 index.html: index.md meta.yaml
-	rm -f meta.yaml.tmp
-	echo '---' >> meta.yaml.tmp
-	grep -E '(^title|^authorshort|^date|^license|^email|^disqus)' meta.yaml >> meta.yaml.tmp
-	echo '...\n' >> meta.yaml.tmp
 	pandoc \
 		-t html \
 		--ascii \
@@ -56,28 +52,10 @@ index.html: index.md meta.yaml
 		--variable=date-meta:"$(DATE)" \
 		--variable=css:templates/markdown-memo.css \
 		--template=./templates/toc.html \
-		-o $@ $< meta.yaml.tmp
-	rm -f meta.yaml.tmp
+		-o $@ $< meta.yaml
 
 # create html
 %.html: %.md mybib.bib meta.yaml
-	rm -f meta.yaml.tmp
-	echo '---' >> meta.yaml.tmp
-	grep -E '(^title|^authorshort|^date|^license|^email|^disqus)' meta.yaml >> meta.yaml.tmp
-	echo '...\n' >> meta.yaml.tmp
-	pandoc \
-		-t html \
-		--ascii \
-		--standalone \
-		--smart \
-		--template=./templates/outline.html \
-		-o $@.tmp $< meta.yaml.tmp
-	rm -f meta.yaml.tmp
-	echo '---' >> meta.yaml.tmp
-	grep -E '(^title|^authorshort|^date|^license|^email|^disqus)' meta.yaml >> meta.yaml.tmp
-	echo `cat $@.tmp | grep -E "<title.*>(.*?)</title>" | sed 's/<title.*>\(.*\)<\/title>/doc_title: "\1"/'` >> meta.yaml.tmp
-	echo `cat $@.tmp | grep -E "<h1.*>(.*?)</h1>" | sed 's/<h1.*>\(.*\)<\/h1>/page_title: "\1"/'` >> meta.yaml.tmp
-	echo '...\n' >> meta.yaml.tmp
 	pandoc \
 		-t html \
 		--ascii \
@@ -89,15 +67,9 @@ index.html: index.md meta.yaml
 		--mathjax \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $@ $< meta.yaml.tmp
-	rm -f meta.yaml.tmp $@.tmp
+		-o $@ $< meta.yaml
 
 $(OUTNAME).html: $(MD_FILES) mybib.bib meta.yaml
-	echo $(MD_FILES)
-	rm -f meta.yaml.tmp
-	echo '---' >> meta.yaml.tmp
-	grep -E '(^title|^authorshort|^date|^license)' meta.yaml >> meta.yaml.tmp
-	echo '...\n' >> meta.yaml.tmp
 	pandoc \
 		-t html \
 		--ascii \
@@ -109,8 +81,7 @@ $(OUTNAME).html: $(MD_FILES) mybib.bib meta.yaml
 		--mathjax \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $@ $(MD_FILES) meta.yaml.tmp
-	rm -f meta.yaml.tmp
+		-o $@ $(MD_FILES) meta.yaml
 
 # create pdf with metadata included in the md in yaml
 %.pdf: %.md mybib.bib meta.yaml
@@ -167,9 +138,6 @@ $(OUTNAME).mds: $(MD_FILES) mybib.bib meta.yaml
 
 # create html from mds
 %.htmls: %.mds
-	echo '---' >> meta.yaml.tmp
-	grep -E '(^title|^authorshort|^date|^license)' meta.yaml >> meta.yaml.tmp
-	echo '...\n' >> meta.yaml.tmp
 	pandoc \
 		-t html \
 		--ascii \
@@ -178,8 +146,7 @@ $(OUTNAME).mds: $(MD_FILES) mybib.bib meta.yaml
 		--variable=date-meta:"$(DATE)" \
 		--variable=css:templates/markdown-memo.css \
 		--template=./templates/outline.html \
-		-o $@ $< meta.yaml.tmp
-	rm -f meta.yaml.tmp
+		-o $@ $< meta.yaml
 
 # create tex with references replaced and bibliography created
 %.tex: %.md mybib.bib meta.yaml

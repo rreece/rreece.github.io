@@ -6,15 +6,9 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Fri Aug 07, 2015" />
+  <meta name="date" content="Mon Jan 18, 2016" />
   <title>Ryan&#8217;s philosophy reading list</title>
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
-
-<!--- MathJax stuff -->
-<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
-</script>
 
 <!--- Google Analytics Tracking stuff  -->
 <script>
@@ -26,12 +20,29 @@
   ga('send', 'pageview');
 </script>
 
+
+<!--- toggle_more function  -->
+<script type="text/javascript">
+    //<![CDATA[
+    function toggle_more(objID) {
+        if (!document.getElementById) return;
+        var ob = document.getElementById(objID).style;
+        ob.display = (ob.display == 'block')?'none':'block';
+        var ob2 = document.getElementById('link:'+objID);
+        ob2.className = (ob2.className == 'open') ? 'closed' : 'open';
+    }
+    //]]>
+</script>
+
 </head>
 
 <body>
 
 <div id="site_header">
     <a href="./">Ryan&#8217;s philosophy reading list</a>
+</div>
+
+<div id="afterbody">
 </div>
 
 <ul>
@@ -100,12 +111,15 @@
 <li>Tegmark, M. (2014). Our Mathematical Universe: My Quest for the Ultimate Nature of Reality.</li>
 </ul>
 
+<div id="afterbody">
+</div>
+
 <div id="site_footer">
   <div class="signature">
     <i>Ryan Reece</i> <br/>
     <img src="img/my_email.png" alt="my email address" /> <br/> <a href="http://reece.scipp.ucsc.edu/">reece.scipp.ucsc.edu</a>
     <br/>
-    Fri Aug 07, 2015
+    Mon Jan 18, 2016
   </div>
   <div class="license">
      &#169; 2014-2015 Ryan Reece. All rights reserved. <br/> 
