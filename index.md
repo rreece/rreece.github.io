@@ -19,10 +19,10 @@
 
 -----------------------------------------------------------
 
->   Art is long,
->   Life is short,
->   Opportunity fleeting,
->   Experiment dangerous,
+>   Art is long,    
+>   Life is short,    
+>   Opportunity fleeting,    
+>   Experiment dangerous,    
 >   Judgment difficult.
 
  -- Hippocrates (~400 BCE)
