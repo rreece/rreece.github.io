@@ -19,8 +19,13 @@
 
 -----------------------------------------------------------
 
-We should remind ourselves, that independent of our debates,
-nature is doing some things in some ways and not in others.
+>   Art is long,
+>   Life is short,
+>   Opportunity fleeting,
+>   Experiment dangerous,
+>   Judgment difficult.
+
+ -- Hippocrates (~400 BCE)
 
 >   If we take in our hand any volume of divinity or school metaphysics
 >   (works on religion and philosophy) let us ask this question,
@@ -31,5 +36,7 @@ nature is doing some things in some ways and not in others.
 
  -- David Hume, *An Enquiry Concerning Human Understanding* (1748)
 
+We should remind ourselves, that independent of our debates,
+nature is doing some things in some ways and not in others.
 
 
