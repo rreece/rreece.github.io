@@ -17,10 +17,14 @@
 -   [about.me/ryan.reece](http://about.me/ryan.reece) -- my about.me profile
 
 
+-----------------------------------------------------------
+
+
 ![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg)
 
 
 -----------------------------------------------------------
+
 
 >   Art is long,    
 >   Life is short,    
