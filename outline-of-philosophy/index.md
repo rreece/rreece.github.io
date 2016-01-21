@@ -2,10 +2,7 @@ Contents
 ================================================================================
 
 <div class="floatright">
-<img src="img/henri-reader-in-the-forest.jpg"  width="280"  alt="Me in 2012"  title="Me in 2012"/>
-<p class="caption" style="width:270px">
-Reader in the Forest, 1918. Robert Henri (American, 1865-1929)
-</p>
+<img src="img/henri-reader-in-the-forest.jpg"  width="280"  alt="Reader in the Forest, 1918. Robert Henri (American, 1865-1929)"  title="Reader in the Forest, 1918. Robert Henri (American, 1865-1929)"/>
 </div>
 
 
