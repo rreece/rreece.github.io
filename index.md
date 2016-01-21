@@ -5,6 +5,7 @@
 
 -   [github.com/rreece](https://github.com/rreece) -- my github profile
 -   [rreece.github.io/sw](sw/) -- my page about my selected software projects at github
+-   some other things I'll share someday
 
 
 ![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg)
