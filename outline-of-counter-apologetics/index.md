@@ -1,3 +1,6 @@
+
+![](img/death-of-socrates.jpg "The Death of Socrates, 1787. Jacques-Louis David (French, 1748-1825).")
+
 An Analysis of Faith-Based Reasoning
 ================================================================================
 
