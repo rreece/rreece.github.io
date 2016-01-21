@@ -1,10 +1,9 @@
+
+<img class="floatright" src="img/henri-reader-in-the-forest.jpg"  width="280"  alt="Reader in the Forest, 1918. Robert Henri (American, 1865-1929)"  title="Reader in the Forest, 1918. Robert Henri (American, 1865-1929)"/>
+
+
 Contents
 ================================================================================
-
-<div class="floatright">
-<img src="img/henri-reader-in-the-forest.jpg"  width="280"  alt="Reader in the Forest, 1918. Robert Henri (American, 1865-1929)"  title="Reader in the Forest, 1918. Robert Henri (American, 1865-1929)"/>
-</div>
-
 
 1.  [Invitation to scientific philosophy](invitation.html) -- a place to start in the discussion of philosophy of science and naturalism.   **(in progress)**
 1.  [The scientific method](scientific-method.html) -- the key to epistemology.   **(in progress)**
