@@ -1,5 +1,5 @@
 
-![](img/github-rreece.png)
+[![](img/github-rreece.png)](https://github.com/rreece)
 
 ### What's here?
 
