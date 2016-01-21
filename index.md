@@ -1,4 +1,6 @@
 
+![](img/github-rreece.png)
+
 ### What's here?
 
 -   [github.com/rreece](https://github.com/rreece) -- my github profile
