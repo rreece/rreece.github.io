@@ -1,7 +1,8 @@
 
 [![](img/github-rreece.png)](https://github.com/rreece)
 
-### What's here?
+What's here?
+-----------------------------------------------------------
 
 -   [github.com/rreece](https://github.com/rreece) -- my github profile
 -   [rreece.github.io/sw](sw/) -- my page about my selected software projects at github
@@ -33,10 +34,8 @@ We should remind ourselves, that independent of our debates,
 nature is doing some things in some ways and not in others.
 
 
+My web presence elsewhere
 -----------------------------------------------------------
-
-
-### My web presence elsewhere
 
 -   [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/) -- my webpage about my research at UCSC.
 -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/) -- my micro-blog on philosophy using only figures
