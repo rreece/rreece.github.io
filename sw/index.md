@@ -1,3 +1,6 @@
+
+[![](../img/github-rreece.png)](https://github.com/rreece)
+
 Ryan's projects on github
 ================================================================================
 
