@@ -1,8 +1,8 @@
-
-![](img/death-of-socrates.jpg "The Death of Socrates, 1787. Jacques-Louis David (French, 1748-1825).")
-
 The Socratic Method Applied to Faith
 ================================================================================
+
+
+![](img/death-of-socrates.jpg "The Death of Socrates, 1787. Jacques-Louis David (French, 1748-1825).")
 
 
 Preface
