@@ -56,9 +56,7 @@ discusses the epistemological foundations and limitations of science.
 Issues and Positions
 --------------------------------------------------------------------------------
 
-<img src="img/phil-of-science-v02.png" alt="Ryan's figure on scientific realism vs anti-realism" title="Ryan's figure on scientific realism vs anti-realism" width="700"/>
-
-from [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism).
+![From [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism).](img/phil-of-science-v02.png "My figure on scientific realism vs anti-realism")
 
 
 ### Realism and Anti-realism
@@ -92,6 +90,9 @@ Science makes real progress in describing real features of the world.
 -   Sellars
 -   Chakravartty
 -   Psillos
+
+
+![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg)
 
 
 **Challenges to Scientific Realism:**
