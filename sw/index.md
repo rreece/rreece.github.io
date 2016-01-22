@@ -39,7 +39,7 @@ pyrootutils
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/pyrootutils">
-<img src="img/pyrootutils-logo.png" alt="pyrootutils-logo" width="600"/>
+<img src="img/pyrootutils-logo.png" alt="pyrootutils-logo" width="300"/>
 </a>
 
 A set of useful tools for taming pyroot.
