@@ -77,8 +77,9 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 
 ### Blogs
 
--   [Common Sense Atheism](http://commonsenseatheism.com/)
 -   [A Year Without God](http://www.patheos.com/blogs/yearwithoutgod/)
+-   [Common Sense Atheism](http://commonsenseatheism.com/)
+-   [positivists.org](http://positivists.org/)
 
 ### Books
 
