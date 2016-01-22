@@ -32,6 +32,9 @@ Also developing here
 -   [Ryan's philosophy reading list](http://rreece.github.io/philosophy-reading-list/)
 
 
+![](img/graph-analytic-philosophy.png "source: http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/")
+
+
 <!---
 
 -   [A short glossary of philosophy for scientists and engineers](glossary-of-philosophy-for-scientists.html)  (TODO)
