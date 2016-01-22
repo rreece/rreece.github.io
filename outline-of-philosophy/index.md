@@ -1,4 +1,6 @@
 
+<img src="img/graph-analytic-philosophy.png"  width="700"  alt="Graph of connections between analytic philosophers."  title="source: http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/"/>
+
 <img class="floatright" src="img/henri-reader-in-the-forest.jpg"  width="280"  alt="Reader in the Forest, 1918. Robert Henri (American, 1865-1929)"  title="Reader in the Forest, 1918. Robert Henri (American, 1865-1929)"/>
 
 
@@ -31,8 +33,6 @@ Also developing here
 
 -   [Ryan's philosophy reading list](http://rreece.github.io/philosophy-reading-list/)
 
-
-![](img/graph-analytic-philosophy.png "source: http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/")
 
 
 <!---
