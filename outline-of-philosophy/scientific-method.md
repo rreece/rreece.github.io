@@ -8,7 +8,6 @@ and other *epistemological* topics concerning the methods and
 philosophy of science.  The metaphysical implications of science
 are discussed in the outline on [scientific realism](scientific-realism.html).
 
-
 **Contents:**
 
 -   [Issues and Positions](#issues-and-positions)
@@ -36,6 +35,8 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
 
 Issues and Positions
 --------------------------------------------------------------------------------
+
+<img class="floatright" src="img/timeline-of-major-philosophers-since-1200.png"  width="400"  alt="Timeline of some major philosophers in history."  title="Timeline of some major philosophers in history. source: http://www.rit.edu/cla/philosophy/Timeline.html"/>
 
 ### History of Science
 
