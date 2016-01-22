@@ -1,7 +1,7 @@
 An Analysis of Faith-Based Reasoning
 ================================================================================
 
-![](img/epicurus-god-willing.jpg)
+![](img/epicurus-god-willing-white.jpg)
 
 
 Contents
