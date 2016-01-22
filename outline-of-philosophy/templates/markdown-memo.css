@@ -213,6 +213,10 @@ img {
     margin-right:auto;
 }
 
+img.tallimg {
+    max-height: none;
+}
+
 /* table ---------------------------------------------------------- */
 table {
     margin-top: 24px;

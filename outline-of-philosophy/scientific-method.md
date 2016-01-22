@@ -36,7 +36,7 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
 Issues and Positions
 --------------------------------------------------------------------------------
 
-<img class="floatright" src="img/timeline-of-major-philosophers-since-1200.png"  width="400"  alt="Timeline of some major philosophers in history."  title="Timeline of some major philosophers in history. source: http://www.rit.edu/cla/philosophy/Timeline.html"/>
+<img class="floatright tallimg" src="img/timeline-of-major-philosophers-since-1200.png"  width="400"  alt="Timeline of some major philosophers in history."  title="Timeline of some major philosophers in history. source: http://www.rit.edu/cla/philosophy/Timeline.html"/>
 
 ### History of Science
 
