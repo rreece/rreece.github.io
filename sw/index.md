@@ -38,6 +38,10 @@ some html/css templates.  You can use it to make simple webpages *like this one*
 pyrootutils
 --------------------------------------------------------------------------------
 
+<a href="https://github.com/rreece/pyrootutils">
+<img src="img/pyrootutils-logo.png" alt="pyrootutils-logo" width="600"/>
+</a>
+
 A set of useful tools for taming pyroot.
 
 TODO: Need to describe this more.  This is new.
