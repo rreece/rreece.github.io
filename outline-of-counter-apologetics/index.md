@@ -106,6 +106,7 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 -   [Atheism, New](http://www.iep.utm.edu/n-atheis/) - IEP
 -   [Atheism](https://en.wikipedia.org/wiki/Atheism) - Wikipedia
 -   [Atheism and agnosticism](http://plato.stanford.edu/entries/atheism-agnosticism/) - SEP
+-   [Atheism, Criticism of](https://en.wikipedia.org/wiki/Criticism_of_atheism) - Wikipedia
 -   [Atheism, History of](https://en.wikipedia.org/wiki/History_of_atheism) - Wikipedia
 -   [Democritus](http://plato.stanford.edu/entries/democritus/) - SEP
 -   [Democritus](https://en.wikipedia.org/wiki/Democritus) - Wikipedia
