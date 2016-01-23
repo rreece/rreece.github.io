@@ -113,7 +113,7 @@ Some of these articles are analyzed in these pages [here](articles-analyzed.html
 -   [Democritus](http://plato.stanford.edu/entries/democritus/) - SEP
 -   [Democritus](https://en.wikipedia.org/wiki/Democritus) - Wikipedia
 -   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - Wikipedia
--   [Enlightenment, Age of](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
+-   [Enlightenment, Age of](https://en.wikipedia.org/wiki/Age_of_Enlightenment) - Wikipedia
 -   [Epicurus](http://plato.stanford.edu/entries/epicurus/) - SEP
 -   [Epicurus](http://www.iep.utm.edu/epicur/) - IEP
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) - Wikipedia
