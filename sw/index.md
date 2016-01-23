@@ -39,7 +39,7 @@ pyframe
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/pyframe">
-<img src="img/pyrootutils-logo.png" alt="pyframe-logo" width="500"/>
+<img src="img/process-cycle-fig.png" alt="pyframe-logo" width="500"/>
 </a>
 
 This makes use of [pyrootutils](https://github.com/rreece/pyrootutils), described below.
