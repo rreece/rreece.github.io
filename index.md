@@ -3,9 +3,9 @@
 
 ### What's here?
 
--   [github.com/rreece](https://github.com/rreece) -- my github profile
--   [rreece.github.io/sw](sw/) -- my page about my selected software projects at github
--   [rreece.github.io/philosophy-reading-list](rreece.github.io/philosophy-reading-list/) -- my philosophy reading list. Read with me!
+-   [My github profile](https://github.com/rreece) --  github.com/rreece
+-   [My selected software projects on github](sw/) -- rreece.github.io/sw
+-   [My philosophy reading list](rreece.github.io/philosophy-reading-list/) -- rreece.github.io/philosophy-reading-list -- Read with me!
 -   some other things I'll share someday
 
 
