@@ -10,6 +10,16 @@ for any of the following---are very welcome.
 
 -   email: <img class="email" src="img/my_email.png" alt="my email address"/>
 
+or maybe try interacting with me on one of the following:
+
+-   [+RyanReece](https://plus.google.com/+RyanReece/posts) -- my google+ profile
+-   [&#64;RyanDavidReece](https://twitter.com/RyanDavidReece) -- my twitter profile
+-   [academia.edu/RReece](https://ucsc.academia.edu/RReece) -- my academia.edu profile (get my papers here)
+
+
+Works I'd like to read
+--------------------------------------------------------------------------------
+
 Key:
 
 -   &#9654; -- currently reading
@@ -17,16 +27,14 @@ Key:
 -   &#10004; -- have analyzed
 
 
-The Scientific Method / Epistemology
---------------------------------------------------------------------------------
+### The Scientific Method / Epistemology
 
 -   &#10095;  Hume, D. (1748). *An Enquiry Concerning Human Understanding*.
 -   Sellars, W. (1963). *Empircism and Philosophy of Mind*.
 -   Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*.
 
 
-Scientific Realism / Metaphysics
---------------------------------------------------------------------------------
+### Scientific Realism / Metaphysics
 
 I should probably sort these into categories better, but for now just dumping the big list here:
 
