@@ -20,9 +20,9 @@ Key:
 The Scientific Method / Epistemology
 --------------------------------------------------------------------------------
 
--   &#10095;  Hume, D. (1748). An Enquiry Concerning Human Understanding.
--   Sellars, W. (1963). Empircism and Philosophy of Mind.
--   Pigliucci, M. (2010). Nonsense on Stilts: How to Tell Science From Bunk.
+-   &#10095;  Hume, D. (1748). *An Enquiry Concerning Human Understanding*.
+-   Sellars, W. (1963). *Empircism and Philosophy of Mind*.
+-   Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*.
 
 
 Scientific Realism / Metaphysics
