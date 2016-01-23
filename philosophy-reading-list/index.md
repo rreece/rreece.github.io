@@ -12,9 +12,9 @@ for any of the following---are very welcome.
 
 or maybe try interacting with me on one of the following:
 
--   [+RyanReece](https://plus.google.com/+RyanReece/posts) -- my google+ profile
--   [&#64;RyanDavidReece](https://twitter.com/RyanDavidReece) -- my twitter profile
--   [academia.edu/RReece](https://ucsc.academia.edu/RReece) -- my academia.edu profile (get my papers here)
+-   [+RyanReece](https://plus.google.com/+RyanReece/posts) -- google+
+-   [&#64;RyanDavidReece](https://twitter.com/RyanDavidReece) -- twitter
+-   [academia.edu/RReece](https://ucsc.academia.edu/RReece) -- academia.edu
 
 
 Works I'd like to read
