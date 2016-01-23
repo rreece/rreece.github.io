@@ -9,9 +9,9 @@ for any of the following is very welcome.
 
 Key:
 
--   &#9654; - currently reading
--   &#10095; - read first pass
--   &#10004; - analyzed
+-   &#9654; -- currently reading
+-   &#10095; -- have read first pass
+-   &#10004; -- have analyzed
 
 
 The Scientific Method / Epistemology
