@@ -1,8 +1,9 @@
-Figuring it out?
-================================================================================
-
 
 <img class="floatright" src="img/henri-reader-in-the-forest.jpg"  width="280"  alt="Reader in the Forest, 1918. Robert Henri (American, 1865-1929)"  title="Reader in the Forest, 1918. Robert Henri (American, 1865-1929)"/>
+
+
+Figuring it out?
+================================================================================
 
 
 When I take the time, I enjoy reading and discussing philosophy.
