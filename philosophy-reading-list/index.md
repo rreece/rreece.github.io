@@ -25,12 +25,13 @@ The Scientific Method / Epistemology
 Scientific Realism / Metaphysics
 --------------------------------------------------------------------------------
 
--   Moore, G.E. (1925). A Defense of Common Sense.
+-   &#10095; Wittgenstein, L. (1921). *Tractatus_Logico-Philosophicus*.
+-   &#10095; Moore, G.E. (1925). A Defense of Common Sense.
 -   Carnap, R. (1928). The Logical Structure of the World and Pseudoproblems in Philosophy.
 -   Carnap, R. (1936). Testibility and Meaning.
 -   Reichenbach, H. (1938). Experience and Prediction.
--   &#10095;  Carnap, R. (1950). Empiricism, Semantics, and Ontology.
--   &#9654;  Quine, W.V.O. (1951). Two Dogmas of Empiricism.
+-   &#10095; Carnap, R. (1950). Empiricism, Semantics, and Ontology.
+-   &#10095; Quine, W.V.O. (1951). Two Dogmas of Empiricism.
 -   Reichenbach, H. (1951). The Rise of Scientific Philosophy.
 -   Wittgenstein, L. (1953). *Philosophical Investigations*.
 -   Carnap, R. (1955). The Logical Foundations of the Unity of Science.
@@ -58,7 +59,7 @@ Scientific Realism / Metaphysics
 -   Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*.
 -   Ladyman, J. (1998).  What is Structural Realism?
 -   Bueno, O. (1999).  What is Structural Empiricism?
--   Psillos, S. (1999).  Scientific Realism: How Science Tracks Truth.
+-   Psillos, S. (1999).  *Scientific Realism: How Science Tracks Truth*.
 -   Psillos, S. (2000).  The Present State of the Scientific Realism Debate.
 -   Chang, H. (2001).  Realism Beyond Footstamping.
 -   van Fraassen, B. (2001).  Constructive Empiricism Now.
@@ -69,17 +70,18 @@ Scientific Realism / Metaphysics
 -   Psillos, S. (2007).  Choosing the Realist Framework.
 -   Bueno, O. (2008).  Structural Realism, Scientific Change, and Partial Structures.
 -   Bain, J. (2009).  Towards Structural Realism.
--   Ladyman, J. & Ross, D. (2009).  *Every Thing Must Go: Metaphysics Naturalized*.
+-   &#9654; Ladyman, J. & Ross, D. (2009).  *Every Thing Must Go: Metaphysics Naturalized*.
 -   Psillos, S. (2009). On Reichenbach's argument for scientific realism.
 -   Psillos, S. (2010).  Scientific Realism: Between Platonism and Nominalism.
 -   &#10095; Frigg, R. & Votsis, I. (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
 -   French, S. & Ladyman, J. (2011).  In Defense of Ontic Structural Realism.
+-   &#9654; Sider, T. (2011). *Writing the Book of the World*.
 -   Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
 -   Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.
 -   Landry, E. & Rickles, D. (2012). Structural Realism.
 -   Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*.
 -   French, S. (2014). *The Structure of the World: Metaphysics and Representation*.
--   Tegmark, M. (2014). *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*.
+-   &#9654; Tegmark, M. (2014). *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*.
 
 
 
