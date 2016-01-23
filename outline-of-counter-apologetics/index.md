@@ -34,6 +34,7 @@ Looking for resources about critiquing faith?  Try these.
 -   [Sam Harris replies to a regressive liberal apologist of Islam](https://www.youtube.com/watch?v=1JrYCHC0bkE) -- (5 mins)
 -   [Counter Arguments: "Religious Text Has No Meaning"](https://www.youtube.com/watch?v=9d7_JgHBMBo) -- (9 mins)
 -   [Counter Arguments: "Islamophobia"](https://www.youtube.com/watch?v=lEeauLCOeXQ) -- (14 mins)
+-   [Sarah Haider on Reza Aslan and Reforming Islam](https://www.youtube.com/watch?v=hXaHalaqIIQ) -- The Ruben Report (17 mins)
 
 #### Longer Talks
 
@@ -70,6 +71,7 @@ Some of these videos are analyzed in these pages [here](videos-analyzed.html).
 -   ["An Open Letter to Moderate Muslims"](http://www.huffingtonpost.com/ali-a-rizvi/an-open-letter-to-moderat_b_5930764.html) -- Ali A. Rizvi, *Huffpost* and *[RDFRS](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/)*
 -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/worldview-naturalism/history-of-naturalism) -- Ignacio Prado, [naturalism.org](http://www.naturalism.org/) 
 -   ["The History of Freethought and Atheism"](http://www.positiveatheism.org/india/s1990c25.htm) -- Gordon Stein, [positiveatheism.org](http://www.positiveatheism.org)
+-   ["Reza Aslan is Wrong About Islam and This is Why"](http://www.patheos.com/blogs/friendlyatheist/2014/10/05/reza-aslan-is-wrong-about-islam-and-this-is-why/) -- Muhammad Syed and Sarah Haider, [friendly atheist blog](http://www.patheos.com/blogs/friendlyatheist/)
 
 <!---
 Some of these articles are analyzed in these pages [here](articles-analyzed.html).
