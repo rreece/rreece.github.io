@@ -1,5 +1,12 @@
 
-When I have time, I enjoy reading and discussing philosophy.
+<div class="floatright">
+<img src="img/henri-reader-in-the-forest.jpg"  width="280"  alt="Me in 2012"  title="Me in 2012"/>
+<p class="caption" style="width:270px">
+Reader in the Forest, 1918. Robert Henri (American, 1865-1929)
+</p>
+</div>
+
+When I take the time, I enjoy reading and discussing philosophy.
 I'm happy to collaborate with others, to learn with and be encouraged by them.
 Bellow is a list of works I'd like to either read for the first time (most of them)
 or understand better.  Suggestions or initiatives to start a reading group
