@@ -1,9 +1,9 @@
 
 Reading philosophy is a hobby, not my job, but when I have time I'm happy
-to collaborate with and be encouraged by others to work through it.
+to collaborate with others, to learn with and be encouraged by them.
 Bellow is a list of works I'd like to either read for the first time (most of them)
-or understand better.  Suggestions or initiative to start a reading group
-for any of the following is very welcome.
+or understand better.  Suggestions or initiatives to start a reading group
+for any of the following---is very welcome.
 
 -   email: <img class="email" src="img/my_email.png" alt="my email address"/>
 
