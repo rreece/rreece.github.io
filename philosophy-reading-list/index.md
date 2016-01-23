@@ -28,6 +28,8 @@ The Scientific Method / Epistemology
 Scientific Realism / Metaphysics
 --------------------------------------------------------------------------------
 
+I should probably sort these into categories better, but for now just dumping the big list here:
+
 -   &#10095; Wittgenstein, L. (1921). *Tractatus_Logico-Philosophicus*.
 -   &#10095; Moore, G.E. (1925). A Defense of Common Sense.
 -   Carnap, R. (1928). The Logical Structure of the World and Pseudoproblems in Philosophy.
