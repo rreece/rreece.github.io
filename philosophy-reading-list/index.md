@@ -6,7 +6,7 @@ When I take the time, I enjoy reading and discussing philosophy.
 I'm happy to collaborate with others, to learn with and be encouraged by them.
 Bellow is a list of works I'd like to either read for the first time (most of them)
 or understand better.  Suggestions or initiatives to start a reading group
-for any of the following---is very welcome.
+for any of the following---are very welcome.
 
 -   email: <img class="email" src="img/my_email.png" alt="my email address"/>
 
