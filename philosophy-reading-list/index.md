@@ -42,14 +42,14 @@ Key:
 
 I should probably sort these into categories better, but for now just dumping the big list here:
 
--   &#10095; Wittgenstein, L. (1921). *Tractatus_Logico-Philosophicus*.
+-   &#10095; Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
 -   &#10095; Moore, G.E. (1925). A Defense of Common Sense.
--   Carnap, R. (1928). The Logical Structure of the World and Pseudoproblems in Philosophy.
--   Carnap, R. (1936). Testibility and Meaning.
--   Reichenbach, H. (1938). Experience and Prediction.
+-   Carnap, R. (1928). *The Logical Structure of the World and Pseudoproblems in Philosophy*.
+-   Carnap, R. (1936). *Testibility and Meaning*.
+-   Reichenbach, H. (1938). *Experience and Prediction*.
 -   &#10095; Carnap, R. (1950). Empiricism, Semantics, and Ontology.
 -   &#10095; Quine, W.V.O. (1951). Two Dogmas of Empiricism.
--   Reichenbach, H. (1951). The Rise of Scientific Philosophy.
+-   Reichenbach, H. (1951). *The Rise of Scientific Philosophy*.
 -   Wittgenstein, L. (1953). *Philosophical Investigations*.
 -   Carnap, R. (1955). The Logical Foundations of the Unity of Science.
 -   Carnap, R. (1956). The Methodological Character of Theoretical Concepts.
@@ -66,7 +66,7 @@ I should probably sort these into categories better, but for now just dumping th
 -   Putnam, H. (1981). Reason, Truth, and History.
 -   Putnam, H. (1982).  Three Kinds of Scientific Realism.
 -   Putnam, H. (1982).  Why There Isn't a Ready-Made World.
--   Hacking, I. (1983). Representing and Intervening.
+-   Hacking, I. (1983). *Representing and Intervening*.
 -   Fine, A. (1984).  The Natural Ontological Attitude.
 -   Fine, A. (1984).  And Not Anti-Realism Either.
 -   Musgrave, A. (1989).  Noah's Ark Fine for Realism.
