@@ -35,6 +35,7 @@ Looking for resources about critiquing faith?  Try these.
 -   [Counter Arguments: "Religious Text Has No Meaning"](https://www.youtube.com/watch?v=9d7_JgHBMBo) -- (9 mins)
 -   [Counter Arguments: "Islamophobia"](https://www.youtube.com/watch?v=lEeauLCOeXQ) -- (14 mins)
 -   [Sarah Haider on Reza Aslan and Reforming Islam](https://www.youtube.com/watch?v=hXaHalaqIIQ) -- The Ruben Report (17 mins)
+-   [Tim Maudlin On Rationality And Truth](https://www.youtube.com/watch?v=biOecqecOsw) -- (4 mins)
 
 #### Longer Talks
 

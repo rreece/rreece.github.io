@@ -116,7 +116,7 @@ Scripture
     Is scripture reliable?
 -   Why are there so many inconsistent scriptures?
 -   Do you think followers of other religions feel the same way about their scriptures?
--   How is your scripture and interpretation preferable to others?
+-   How are your scriptures and interpretations preferable to others?
 -   What was the human condition like when those scriptures were written?
     Is there any reason to think that people in the Bronze or Iron Ages had
     privileged access to revelations?
