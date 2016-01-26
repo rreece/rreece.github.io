@@ -25,6 +25,7 @@ discusses the epistemological foundations and limitations of science.
     1.  [Critical Realism](#critical-realism)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
+    1.  [Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.](wittgenstein-l.-1921.-tractatus-logico-philosophicus.)
     1.  [Moore, G.E. (1925). A Defense of Common Sense.](#moore-g.e.-1925.-a-defense-of-common-sense.)
     1.  [Carnap, R. (1928). The Logical Structure of the World and Pseudoproblems in Philosophy.](#carnap-r.-1928.-the-logical-structure-of-the-world-and-pseudoproblems-in-philosophy.)
     1.  [Carnap, R. (1936). Testibility and Meaning.](#carnap-r.-1936.-testibility-and-meaning.)
@@ -32,6 +33,7 @@ discusses the epistemological foundations and limitations of science.
     1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
     1.  [Quine, W.V.O. (1951). Two Dogmas of Empiricism.](#quine-w.v.o.-1951.-two-dogmas-of-empiricism.)
     1.  [Reichenbach, H. (1951). The Rise of Scientific Philosophy.](#reichenbach-h.-1951.-the-rise-of-scientific-philosophy.)
+    1.  [Wittgenstein, L. (1953). *Philosophical Investigations*.](#wittgenstein-l.-1953.-philosophical-investigations.)
     1.  [Carnap, R. (1955). The Logical Foundations of the Unity of Science.](#carnap-r.-1955.-the-logical-foundations-of-the-unity-of-science.)
     1.  [Carnap, R. (1956). The Methodological Character of Theoretical Concepts.](#carnap-r.-1956.-the-methodological-character-of-theoretical-concepts.)
     1.  [Popper, K. (1959). The Logic of Scientific Discovery.](#popper-k.-1959.-the-logic-of-scientific-discovery.)
@@ -328,6 +330,17 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
+### Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
 ### Moore, G.E. (1925). A Defense of Common Sense.
 
 -   "Here is one hand."
@@ -340,7 +353,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Carnap, R. (1928). The Logical Structure of the World and Pseudoproblems in Philosophy.
+### Carnap, R. (1928). *The Logical Structure of the World and Pseudoproblems in Philosophy*.
 
 -   *Der logische Aufbau der Welt*
 -   TODO.
@@ -352,7 +365,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Carnap, R. (1936). Testibility and Meaning.
+### Carnap, R. (1936). *Testibility and Meaning*.
 
 -   TODO.
 
@@ -459,6 +472,17 @@ Annotated Bibliography
 --------------------------------------------------------------------------------
 
 ### Reichenbach, H. (1951). The Rise of Scientific Philosophy.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
+### Wittgenstein, L. (1953). *Philosophical Investigations*.
 
 -   TODO.
 
