@@ -14,7 +14,7 @@ for any of the following---are very welcome.
 
 -   email: <img class="email" src="img/my_email.png" alt="my email address"/>
 
-or maybe try interacting with me on one of the following:
+Or, maybe try interacting with me on one of the following:
 
 -   [+RyanReece](https://plus.google.com/+RyanReece/posts) -- google+
 -   [&#64;RyanDavidReece](https://twitter.com/RyanDavidReece) -- twitter
