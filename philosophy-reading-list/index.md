@@ -105,8 +105,8 @@ I should probably sort these into categories better, but for now just dumping th
 
 --------------------------------------------------------------------------------
 
-
 ![](img/shelfie-2016-01-27.jpg)
+
 
 
 
