@@ -103,4 +103,10 @@ I should probably sort these into categories better, but for now just dumping th
 -   &#9654; Tegmark, M. (2014). *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*.
 
 
+--------------------------------------------------------------------------------
+
+
+![](img/shelfie-2016-01-27.jpg)
+
+
 
