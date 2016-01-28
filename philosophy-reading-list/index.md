@@ -20,6 +20,8 @@ or maybe try interacting with me on one of the following:
 -   [&#64;RyanDavidReece](https://twitter.com/RyanDavidReece) -- twitter
 -   [academia.edu/RReece](https://ucsc.academia.edu/RReece) -- academia.edu
 
+Or, leave me a comment below.
+
 
 Works I'd like to read
 --------------------------------------------------------------------------------
