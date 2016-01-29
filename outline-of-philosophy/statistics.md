@@ -54,16 +54,13 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-### Cranmer, K (2015). Practical Statistics for the LHC.
-
--   [arxiv:1503.07622](http://arxiv.org/abs/1503.07622).
+### Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*.
 
 TODO.
 
 #### My thoughts
 
 -   TODO.
-
 
 --------------------------------------------------------------------------------
 
@@ -75,20 +72,15 @@ TODO.
 
 -   TODO.
 
-
 --------------------------------------------------------------------------------
 
-### ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in pp collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector.
-
--   $\sqrt{s}$ = 7 TeV
--   [arxiv:1207.0319](http://arxiv.org/abs/1207.0319)
+### James, F. (2006). *Statistical Methods in Experimental Physics, 2nd Ed.*
 
 TODO.
 
 #### My thoughts
 
 -   TODO.
-
 
 --------------------------------------------------------------------------------
 
@@ -105,7 +97,22 @@ TODO.
 
 --------------------------------------------------------------------------------
 
-### James, F. (2006). *Statistical Methods in Experimental Physics, 2nd Ed.*
+### ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in pp collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector.
+
+-   $\sqrt{s}$ = 7 TeV
+-   [arxiv:1207.0319](http://arxiv.org/abs/1207.0319)
+
+TODO.
+
+#### My thoughts
+
+-   TODO.
+
+--------------------------------------------------------------------------------
+
+### Cranmer, K (2015). Practical Statistics for the LHC.
+
+-   [arxiv:1503.07622](http://arxiv.org/abs/1503.07622).
 
 TODO.
 
