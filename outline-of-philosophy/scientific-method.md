@@ -394,6 +394,7 @@ Links and Encyclopedia Articles
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
 -   [Parmenides](http://www.iep.utm.edu/parmenid/)
 -   [Peirce, Charles Sanders (1839-1914): Logic](http://www.iep.utm.edu/peir-log/)
+-   [Popper, Karl (1902-1994) : Philosophy of Science](http://www.iep.utm.edu/pop-sci/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Safety Condition for Knowledge, The](http://www.iep.utm.edu/safety-c/)
 -   [Simplicity in the philosophy of science](http://www.iep.utm.edu/simplici/)
