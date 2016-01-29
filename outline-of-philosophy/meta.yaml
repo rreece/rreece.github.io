@@ -19,7 +19,7 @@ email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http:
 disqus: true
 disqus_shortname: 'ryans-outline-of-philosophy'
 description: "Ryan Reece's outline of philosophy"
-keywords: 'Ryan Reece, physics, LHC, ATLAS, python, data analysis, philosophy, science, philosophy of science'
+keywords: 'Ryan Reece, outline of philosophy, physics, data analysis, philosophy, science, philosophy of science'
 google_analytics_tracking_id: 'UA-55199032-1'
 mathjax: true
 # pdflatex options ----------------------------------
