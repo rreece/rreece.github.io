@@ -27,7 +27,6 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and Positions
 --------------------------------------------------------------------------------
 
-
 ### Statistical Measurement
 
 -   Frequentist vs Bayesian probability
@@ -68,7 +67,7 @@ TODO.
 
 --------------------------------------------------------------------------------
 
-### Cowan, G. (1998). Statistical Data Analysis.
+### Cowan, G. (1998). *Statistical Data Analysis*.
 
 TODO.
 
@@ -79,7 +78,7 @@ TODO.
 
 --------------------------------------------------------------------------------
 
-### Combined search for the Standard Model Higgs boson in pp collisions at sqrt(s) = 7 TeV with the ATLAS detector
+### ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in pp collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector.
 
 -   [arxiv:1207.0319](http://arxiv.org/abs/1207.0319)
 
@@ -92,7 +91,7 @@ TODO.
 
 --------------------------------------------------------------------------------
 
-### Asymptotic formulae for likelihood-based tests of new physics
+### Cowan, G. *et al.* (2010) Asymptotic formulae for likelihood-based tests of new physics
 
 -   Glen Cowan, Kyle Cranmer, Eilam Gross, Ofer Vitells
 -   [arxiv:1007.1727](http://arxiv.org/abs/1007.1727)
@@ -105,7 +104,7 @@ TODO.
 
 --------------------------------------------------------------------------------
 
-### James' Stats Book
+### James, F. (2006). *Statistical Methods in Experimental Physics, 2nd Ed.*
 
 TODO.
 
