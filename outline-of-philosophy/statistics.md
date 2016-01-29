@@ -78,8 +78,9 @@ TODO.
 
 --------------------------------------------------------------------------------
 
-### ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in pp collisions at $$\sqrt{s}$$ = 7 TeV with the ATLAS detector.
+### ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in pp collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector.
 
+-   $\sqrt{s}$ = 7 TeV
 -   [arxiv:1207.0319](http://arxiv.org/abs/1207.0319)
 
 TODO.
