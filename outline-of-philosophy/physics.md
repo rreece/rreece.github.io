@@ -252,6 +252,7 @@ Links and Encyclopedia Articles
 -   [Being and Becoming in Modern Physics](http://plato.stanford.edu/entries/spacetime-bebecome/)
 -   [Bell's Theorem](http://plato.stanford.edu/entries/bell-theorem/)
 -   [Bohmian Mechanics](http://plato.stanford.edu/entries/qm-bohm/)
+-   [Chaos](http://plato.stanford.edu/entries/chaos/)
 -   [Collapse Theories](http://plato.stanford.edu/entries/qm-collapse/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 -   [Copenhagen Interpretation of Quantum Mechanics](http://plato.stanford.edu/entries/qm-copenhagen/)

@@ -15,7 +15,12 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [Statistical Measurement](#statistical-measurement)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Pigliucci, M. (2010). Nonsense on Stilts: How to Tell Science From Bunk.](#pigliucci-m.-2010.-nonsense-on-stilts-how-to-tell-science-from-bunk.)
+    1.  [Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*.](#mayo-d.g.-1996.-error-and-the-growth-of-experimental-knowledge.)
+    1.  [Cowan, G. (1998). *Statistical Data Analysis*.](#cowan-g.-1998.-statistical-data-analysis.)
+    1.  [James, F. (2006). *Statistical Methods in Experimental Physics*.](#james-f.-2006.-statistical-methods-in-experimental-physics-2nd-ed.)
+    1.  [Cowan, G. *et al.* (2010). Asymptotic formulae for likelihood-based tests of new physics.](#cowan-g.-et-al.-2010.-asymptotic-formulae-for-likelihood-based-tests-of-new-physics.)
+    1.  [ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in pp collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector.](#atlas-collaboration.-2012.-combined-search-for-the-standard-model-higgs-boson-in-pp-collisions-at-sqrts-7-tev-with-the-atlas-detector.)
+    1.  [Cranmer, K (2015). Practical Statistics for the LHC.](#cranmer-k-2015.-practical-statistics-for-the-lhc.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
     1.  [SEP](#sep)
@@ -84,7 +89,7 @@ TODO.
 
 --------------------------------------------------------------------------------
 
-### Cowan, G. *et al.* (2010) Asymptotic formulae for likelihood-based tests of new physics
+### Cowan, G. *et al.* (2010). Asymptotic formulae for likelihood-based tests of new physics.
 
 -   Glen Cowan, Kyle Cranmer, Eilam Gross, Ofer Vitells
 -   [arxiv:1007.1727](http://arxiv.org/abs/1007.1727)
