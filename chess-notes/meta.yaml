@@ -3,9 +3,11 @@ title: "Ryan's chess notes"
 titleshort: "Ryan's chess notes"
 author:
     -   |   
-        Ryan Reece[^ReeceSCIPP]
-
-        [^ReeceSCIPP]: University of California, Santa Cruz
+        [Ryan Reece](http://reece.scipp.ucsc.edu/)
+#    -   |   
+#        Ryan Reece[^ReeceSCIPP]
+#
+#        [^ReeceSCIPP]: University of California, Santa Cruz
 #
 #    -   |   
 #        Joe Coauthor[^JoeCoauthor]
