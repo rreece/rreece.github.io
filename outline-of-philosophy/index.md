@@ -7,7 +7,7 @@
 
 
 Contents
-================================================================================
+--------------------------------------------------------------------------------
 
 1.  [Invitation to scientific philosophy](invitation.html) -- a place to start in the discussion of philosophy of science and naturalism.   **(in progress)**
 1.  [The scientific method](scientific-method.html) -- the key to epistemology.   **(in progress)**

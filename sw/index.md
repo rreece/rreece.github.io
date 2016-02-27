@@ -1,8 +1,7 @@
 
 [![](../img/github-rreece.png)](https://github.com/rreece)
 
-Ryan's projects on github
-================================================================================
+*Ryan's projects on github*
 
 I'm a physicist working with the ATLAS experiment at CERN.
 Read more about me and my research [here](http://reece.scipp.ucsc.edu/).

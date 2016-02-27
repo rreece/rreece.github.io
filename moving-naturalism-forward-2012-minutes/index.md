@@ -1,5 +1,4 @@
-Ryan's Minutes of "Moving Naturalism Forward"
-================================================================================
+
 
 **"Moving Naturalism Forward" workshop, October 25-29, 2012**
 

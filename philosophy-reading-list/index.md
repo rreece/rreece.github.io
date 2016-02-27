@@ -3,8 +3,7 @@
 
 
 Figuring it out?
-================================================================================
-
+--------------------------------------------------------------------------------
 
 When I take the time, I enjoy reading and discussing philosophy.
 I'm happy to collaborate with others, to learn with and be encouraged by them.
