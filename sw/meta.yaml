@@ -5,16 +5,16 @@ author: "Ryan Reece"
 authorshort: 'Ryan Reece'
 date: 'March 1, 2013'
 license: '&copy; 2014-2016 Ryan Reece. All rights reserved'
-# ^ required meta-data ^ ----------------------------
-abstract: |
-    \noindent This is the abstract. This is the abstract. This is the abstract.
-    This is the abstract. This is the abstract. This is the abstract.
-    This is the abstract. This is the abstract. This is the abstract.
-
-    This is the second paragraph in the abstract.
-    This is the second paragraph in the abstract.
-    This is the second paragraph in the abstract.
-# html options --------------------------------------
+## ^ required meta-data ^ ----------------------------
+#abstract: |
+#    This is the abstract. This is the abstract. This is the abstract.
+#    This is the abstract. This is the abstract. This is the abstract.
+#    This is the abstract. This is the abstract. This is the abstract.
+#
+#    This is the second paragraph in the abstract.
+#    This is the second paragraph in the abstract.
+#    This is the second paragraph in the abstract.
+## html options --------------------------------------
 email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
 disqus: true
 disqus_shortname: 'ryans-selected-software-projects'
@@ -22,7 +22,7 @@ description: "Ryan Reece's selected software projects on github"
 keywords: 'Ryan Reece, markdown-memo, pyrootutils, rdrshell, roothtml, physics, LHC, ATLAS, python, data analysis, philosophy, science, philosophy of science'
 google_analytics_tracking_id: 'UA-55199032-1'
 #mathjax: true
-# pdflatex options ----------------------------------
+## pdflatex options ----------------------------------
 fontsize: '11pt'
 fontfamily: 'mathpazo'
 #linestretch: '1.1'

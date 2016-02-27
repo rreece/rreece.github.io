@@ -1,20 +1,20 @@
 ---
 title: "Ryan's Outline of Counter Apologetics"
 titleshort: "Ryan's Outline of Counter Apologetics"
-subtitle: "An Analysis of Faith-Based Reasoning"
+subtitle: "An analysis of faith-based reasoning"
 author: "Ryan Reece"
 authorshort: 'Ryan Reece'
 date: 'January 1, 2014'
 license: 'Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)'
 # ^ required meta-data ^ ----------------------------
-abstract: |
-    \noindent This is the abstract. This is the abstract. This is the abstract.
-    This is the abstract. This is the abstract. This is the abstract.
-    This is the abstract. This is the abstract. This is the abstract.
-
-    This is the second paragraph in the abstract.
-    This is the second paragraph in the abstract.
-    This is the second paragraph in the abstract.
+#abstract: |
+#    This is the abstract. This is the abstract. This is the abstract.
+#    This is the abstract. This is the abstract. This is the abstract.
+#    This is the abstract. This is the abstract. This is the abstract.
+#
+#    This is the second paragraph in the abstract.
+#    This is the second paragraph in the abstract.
+#    This is the second paragraph in the abstract.
 # html options --------------------------------------
 email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
 disqus: true

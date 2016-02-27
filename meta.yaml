@@ -6,14 +6,14 @@ authorshort: "Ryan Reece"
 date: 'August 1, 2015'
 license: '&copy; 2014-2016 Ryan Reece. All rights reserved'
 ## ^ required meta-data ^ ---------------------------------
-abstract: |
-    \noindent This is the abstract. This is the abstract. This is the abstract.
-    This is the abstract. This is the abstract. This is the abstract.
-    This is the abstract. This is the abstract. This is the abstract.
-
-    This is the second paragraph in the abstract.
-    This is the second paragraph in the abstract.
-    This is the second paragraph in the abstract.
+#abstract: |
+#    This is the abstract. This is the abstract. This is the abstract.
+#    This is the abstract. This is the abstract. This is the abstract.
+#    This is the abstract. This is the abstract. This is the abstract.
+#
+#    This is the second paragraph in the abstract.
+#    This is the second paragraph in the abstract.
+#    This is the second paragraph in the abstract.
 ## html options -------------------------------------------
 email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
 #disqus: true
