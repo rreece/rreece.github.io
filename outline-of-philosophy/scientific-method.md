@@ -202,7 +202,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-### Hume, D. (1748). An Enquiry Concerning Human Understanding.
+### Hume, D. (1748). *An Enquiry Concerning Human Understanding*.
 
 #### 1. Of the different Species of Philosophy
 
