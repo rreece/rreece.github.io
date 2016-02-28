@@ -432,6 +432,7 @@ Links and Encyclopedia Articles
 -   [Philosophy of general relativity](http://faculty.poly.edu/~jbain/philrel/) - Jonathan Bain
 -   [Philosophy of quantum mechanics](http://ls.poly.edu/~jbain/philqm/) - Jonathan Bain
 -   [What is a gauge?](https://terrytao.wordpress.com/2008/09/27/what-is-a-gauge/) - Terence Tao
+-   [Struggles With the Continuum](https://www.physicsforums.com/insights/struggles-continuum-part-1/) - John Baez
 
 
 
