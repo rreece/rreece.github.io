@@ -23,6 +23,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Quine, W.V.O. (1969). Epistemology Naturalized.](#quine-w.v.o.-1969.-epistemology-naturalized.)
     1.  [Bhaskar, R. (1979). The Possibility of Naturalism.](#bhaskar-r.-1979.-the-possibility-of-naturalism.)
+    1.  [Ross, D. *et al.* (2000). *Dennett's Philosophy: A Comprehensive Assessment*.](#ross-d.-et-al.-2000.-dennetts-philosophy-a-comprehensive-assessment.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
     1.  [SEP](#sep)
@@ -151,6 +152,18 @@ Annotated Bibliography
 --------------------------------------------------------------------------------
 
 ### Bhaskar, R. (1979). The Possibility of Naturalism.
+
+#### 1. Section
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+--------------------------------------------------------------------------------
+
+### Ross, D. *et al.* (2000). *Dennett's Philosophy: A Comprehensive Assessment*.
 
 #### 1. Section
 
