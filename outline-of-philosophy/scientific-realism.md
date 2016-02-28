@@ -27,25 +27,25 @@ discusses the epistemological foundations and limitations of science.
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.](#wittgenstein-l.-1921.-tractatus-logico-philosophicus.)
     1.  [Moore, G.E. (1925). A Defense of Common Sense.](#moore-g.e.-1925.-a-defense-of-common-sense.)
-    1.  [Carnap, R. (1928). The Logical Structure of the World and Pseudoproblems in Philosophy.](#carnap-r.-1928.-the-logical-structure-of-the-world-and-pseudoproblems-in-philosophy.)
-    1.  [Carnap, R. (1936). Testibility and Meaning.](#carnap-r.-1936.-testibility-and-meaning.)
-    1.  [Reichenbach, H. (1938). Experience and Prediction.](#reichenbach-h.-1938.-experience-and-prediction.)
+    1.  [Carnap, R. (1928). *The Logical Structure of the World and Pseudoproblems in Philosophy*.](#carnap-r.-1928.-the-logical-structure-of-the-world-and-pseudoproblems-in-philosophy.)
+    1.  [Carnap, R. (1936). *Testibility and Meaning*.](#carnap-r.-1936.-testibility-and-meaning.)
+    1.  [Reichenbach, H. (1938). *Experience and Prediction*.](#reichenbach-h.-1938.-experience-and-prediction.)
     1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
     1.  [Quine, W.V.O. (1951). Two Dogmas of Empiricism.](#quine-w.v.o.-1951.-two-dogmas-of-empiricism.)
-    1.  [Reichenbach, H. (1951). The Rise of Scientific Philosophy.](#reichenbach-h.-1951.-the-rise-of-scientific-philosophy.)
+    1.  [Reichenbach, H. (1951). *The Rise of Scientific Philosophy*.](#reichenbach-h.-1951.-the-rise-of-scientific-philosophy.)
     1.  [Wittgenstein, L. (1953). *Philosophical Investigations*.](#wittgenstein-l.-1953.-philosophical-investigations.)
     1.  [Carnap, R. (1955). The Logical Foundations of the Unity of Science.](#carnap-r.-1955.-the-logical-foundations-of-the-unity-of-science.)
     1.  [Carnap, R. (1956). The Methodological Character of Theoretical Concepts.](#carnap-r.-1956.-the-methodological-character-of-theoretical-concepts.)
-    1.  [Popper, K. (1959). The Logic of Scientific Discovery.](#popper-k.-1959.-the-logic-of-scientific-discovery.)
-    1.  [Kuhn, T. (1962). The Structure of Scientific Revolutions.](#kuhn-t.-1962.-the-structure-of-scientific-revolutions.)
+    1.  [Popper, K. (1959). *The Logic of Scientific Discovery*.](#popper-k.-1959.-the-logic-of-scientific-discovery.)
+    1.  [Kuhn, T. (1962). *The Structure of Scientific Revolutions*.](#kuhn-t.-1962.-the-structure-of-scientific-revolutions.)
     1.  [Maxwell, G. (1962). The Ontological Status of Theoretical Entities.](#maxwell-g.-1962.-the-ontological-status-of-theoretical-entities.)
-    1.  Sellars, W. (1963). Science, Perception, and Reality.
-    1.  Feyerabend, P. (1974). Against Method.
-    1.  Bhaskar, R. (1975). A Realist Theory of Science.
+    1.  Sellars, W. (1963). *Science, Perception, and Reality*.
+    1.  Feyerabend, P. (1974). *Against Method*.
+    1.  Bhaskar, R. (1975). *A Realist Theory of Science*.
     1.  Putnam, H. (1975). The Meaning of Meaning.
-    1.  van Fraassen, B. (1980). The Scientific Image.
-    1.  Laudan, L. (1981).  A Confutation of Convergent Realism.
-    1.  Putnam, H. (1981).  Reason, Truth, and History.
+    1.  van Fraassen, B. (1980). *The Scientific Image*.
+    1.  Laudan, L. (1981).  *A Confutation of Convergent Realism*.
+    1.  Putnam, H. (1981).  *Reason, Truth, and History*.
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
     1.  [SEP](#sep)
@@ -376,7 +376,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Reichenbach, H. (1938). Experience and Prediction.
+### Reichenbach, H. (1938). *Experience and Prediction*.
 
 -   TODO.
 
@@ -471,7 +471,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Reichenbach, H. (1951). The Rise of Scientific Philosophy.
+### Reichenbach, H. (1951). *The Rise of Scientific Philosophy*.
 
 -   TODO.
 
@@ -515,7 +515,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Popper, K. (1959). The Logic of Scientific Discovery.
+### Popper, K. (1959). *The Logic of Scientific Discovery*.
 
 -   TODO.
 
@@ -526,7 +526,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Kuhn, T. (1962). The Structure of Scientific Revolutions.
+### Kuhn, T. (1962). *The Structure of Scientific Revolutions*.
 
 
 -   TODO.
@@ -549,7 +549,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Sellars, W. (1963). Science, Perception, and Reality.
+### Sellars, W. (1963). *Science, Perception, and Reality*.
 
 -   TODO.
 
@@ -560,7 +560,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Feyerabend, P. (1974). Against Method.
+### Feyerabend, P. (1974). *Against Method*.
 
 -   TODO.
 
@@ -571,7 +571,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Bhaskar, R. (1975). A Realist Theory of Science.
+### Bhaskar, R. (1975). *A Realist Theory of Science*.
 
 -   TODO.
 
@@ -593,7 +593,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### van Fraassen, B. (1980). The Scientific Image.
+### van Fraassen, B. (1980). *The Scientific Image*.
     
 "Arguments Concerning Scientific Realism"
 
@@ -606,7 +606,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Laudan, L. (1981).  A Confutation of Convergent Realism.
+### Laudan, L. (1981).  *A Confutation of Convergent Realism*.
 
 #### 1. The Problem
 #### 2. Convergent Realism
@@ -624,7 +624,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Putnam, H. (1981).  Reason, Truth, and History.
+### Putnam, H. (1981).  *Reason, Truth, and History*.
 
 -   Brain in a vat thought experiment.
 -   TODO.

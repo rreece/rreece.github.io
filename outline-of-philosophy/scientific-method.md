@@ -21,10 +21,10 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [Pseudoscience](#pseudoscience)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Hume, D. (1748). An Enquiry Concerning Human Understanding.](#hume-d.-1748.-an-enquiry-concerning-human-understanding.)
-    1.  [Sellars, W. (1963). Empircism and Philosophy of Mind.](#sellars-w.-1963.-empircism-and-philosophy-of-mind.)
-    1.  [Pigliucci, M. (2010). Nonsense on Stilts: How to Tell Science From Bunk.](#pigliucci-m.-2010.-nonsense-on-stilts-how-to-tell-science-from-bunk.)
-    1.  [French, S. (2007). Science: Key Concepts in Philosophy.](#french-s.-2007.-science-key-concepts-in-philosophy.)
+    1.  [Hume, D. (1748). *An Enquiry Concerning Human Understanding*.](#hume-d.-1748.-an-enquiry-concerning-human-understanding.)
+    1.  [Sellars, W. (1963). *Empircism and Philosophy of Mind*.](#sellars-w.-1963.-empircism-and-philosophy-of-mind.)
+    1.  [Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*.](#pigliucci-m.-2010.-nonsense-on-stilts-how-to-tell-science-from-bunk.)
+    1.  [French, S. (2007). *Science: Key Concepts in Philosophy*.](#french-s.-2007.-science-key-concepts-in-philosophy.)
     1.  [More articles to do](#more-articles-to-do)
 -   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
     1.  [SEP](#sep)
@@ -235,7 +235,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Sellars, W. (1963). Empircism and Philosophy of Mind.
+### Sellars, W. (1963). *Empircism and Philosophy of Mind*.
 
 -   TODO.
 
@@ -246,7 +246,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### Pigliucci, M. (2010). Nonsense on Stilts: How to Tell Science From Bunk.
+### Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*.
 
 TODO.
 
@@ -257,7 +257,7 @@ TODO.
 
 --------------------------------------------------------------------------------
 
-### French, S. (2007). Science: Key Concepts in Philosophy.
+### French, S. (2007). *Science: Key Concepts in Philosophy*.
 
 #### 1. Introduction
 
