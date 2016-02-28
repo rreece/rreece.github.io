@@ -35,14 +35,15 @@ Issues and Positions
 ### Statistical Measurement
 
 -   Frequentist vs Bayesian probability
+-   Accuracy vs precision
 -   Likelihood principle
 -   Neyman-Pearson lemma
 -   Cram&#233;r-Rao bound
 -   Statistical hypothesis testing: power and confidence
+-   Jerzy Neyman, Egon Pearson, Ronald Fisher
+-   Feldman-Cousins confidence intervals
 -   Type-1 and type-2 systematic errors
 -   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekko Sinervo (PhyStat2003)
--   Feldman-Cousins confidence intervals
--   Jerzy Neyman, Egon Pearson, Ronald Fisher
 
 
 My Thoughts
