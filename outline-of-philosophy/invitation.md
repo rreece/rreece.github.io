@@ -26,7 +26,9 @@ Where has science taken us and where is it going?
 In our modern information age,
 the evident power of science to elevate our awareness and bring us new
 technological capabilities
-underscores the relevance of a philosophical understanding of science.
+underscores the relevance of philosophical investigations of 
+what science is, what understanding it brings,
+and what its implications are.
 
 
 What is naturalism?
