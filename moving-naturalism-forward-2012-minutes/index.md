@@ -2,8 +2,8 @@
 About this project
 --------------------------------------------------------------------------------
 
-In these webpages, I have recorded my notes taken from watching a philoophy workshop
-on naturalism called **"Moving Naturalism Forward"**,
+In these webpages, I have recorded my notes taken from watching recordings of a
+philosophy workshop on naturalism called **"Moving Naturalism Forward"**,
 which took place October 25-29, 2012,
 organized by [Sean Carroll](http://preposterousuniverse.com/).
 You can view the video recordings of the workshop in
