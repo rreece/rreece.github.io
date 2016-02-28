@@ -1,6 +1,27 @@
 
+About this project
+--------------------------------------------------------------------------------
 
-**"Moving Naturalism Forward" workshop, October 25-29, 2012**
+In these webpages, I have recorded my notes taken from watching a philoophy workshop
+on naturalism called **"Moving Naturalism Forward"**,
+which took place October 25-29, 2012,
+organized by [Sean Carroll](http://preposterousuniverse.com/).
+You can view the video recordings of the workshop in
+[Sean's youtube playlist](https://www.youtube.com/watch?v=Ju4C_ITlBsU&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL).
+
+Rather than make a transcript, I have tried to take "minutes"---I have generally
+summarized what people said in my own words, but still writing in blocks with a speaker,
+like a transcript or screenplay, but only verbatim in parts.
+I have interrupted the discussion occasionally with my own opinions, denoted **(Ryan)**.
+
+Please let me know what you think in the comments.
+Please do not hold the speakers at this workshop responsible for
+my poor precises of their positions.
+Please help me correct errors (my email is at the bottom of each page).
+
+
+Workshop description
+--------------------------------------------------------------------------------
 
 Description of the workshop from [Sean Carroll's event page](http://preposterousuniverse.com/naturalism2012/):
 
@@ -19,19 +40,6 @@ Description of the workshop from [Sean Carroll's event page](http://preposterous
 >   -   **Determinism.** To what extent is the future determined given quantum uncertainty and chaos theory, and does it matter?
 >   
 >   This workshop brought together a small number of researchers and writers to tackle the project of moving naturalism forward by making progress on these issues.
-
-You can view the video recordings of the workshop in [Sean's youtube playlist](https://www.youtube.com/watch?v=Ju4C_ITlBsU&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL).
-
-In these webpages, I have recorded my notes taken from watching this workshop.
-Rather than make a transcript, I have tried to take "minutes"---I have generally
-summarized what people said in my own words, but still writing in blocks with a speaker,
-like a transcript or screenplay, but only verbatim in parts.
-I have interrupted the discussion occasionally with my own opinions, denoted **(Ryan)**.
-
-Please let me know what you think in the comments.
-Please do not hold the speakers at this workshop responsible for
-my poor precises of their positions.
-Please help me correct errors (my email is at the bottom of each page).
 
 
 Contents
