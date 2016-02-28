@@ -283,6 +283,7 @@ Links and Encyclopedia Articles
 ### Others
 
 -   [Quine's Paradox and G&ouml;del's Theorem](http://richardzach.org/2015/03/30/quines-paradox-and-godels-theorem/) - Richard Zach
+-   [Logic Matters](http://www.logicmatters.net/)
 
 
 
