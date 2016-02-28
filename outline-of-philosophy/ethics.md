@@ -211,6 +211,7 @@ Links and Encyclopedia Articles
 -   [Nature of Law](http://plato.stanford.edu/entries/lawphil-nature/)
 -   [Normative Theories of Rational Choice: Expected Utility](http://plato.stanford.edu/entries/rationality-normative-utility/)
 -   [Normativity of Meaning and Content](http://plato.stanford.edu/entries/meaning-normativity/)
+-   [Original Position](http://plato.stanford.edu/entries/original-position/)
 -   [Reasons for Action: Justification vs. Explanation](http://plato.stanford.edu/entries/reasons-just-vs-expl/)
 -   [Russell's Moral Philosophy](http://plato.stanford.edu/entries/russell-moral/)
 -   [Torture](http://plato.stanford.edu/entries/torture/)
