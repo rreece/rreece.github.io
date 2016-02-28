@@ -162,7 +162,7 @@ TODO.
 
 TODO.
 
-Big bang.  &Lambda;+CMD Cosmological Standard Model.  Inflation.
+Big bang.  $\Lambda$+CMD Cosmological Standard Model.  Inflation.
 
 -   [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster)
 -   "A direct empirical proof of the existence of dark matter" [astro-ph/0608407](http://arxiv.org/abs/astro-ph/0608407)
