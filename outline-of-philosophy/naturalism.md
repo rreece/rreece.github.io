@@ -97,7 +97,10 @@ TODO.
 
 Materialism/physicalism/functionalism.
 
-Part of methodological naturalism.
+Part of methodological naturalism, but also a 
+result of empirical confirmation.
+
+See the outline on [mind](mind.html).
 
 
 ### Rejection of the Supernatural
