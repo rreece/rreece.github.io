@@ -7,18 +7,19 @@
 ###############################################################################
 
 
-#------------------------------------------------------------------------------
-# user config
-#------------------------------------------------------------------------------
+##-----------------------------------------------------------------------------
+## user config
+##-----------------------------------------------------------------------------
 
 export TEXINPUTS := .//:./style//:./tex//:${TEXINPUTS}
 
 OUTNAME := doc
+ops:=templates/refs.md templates/backmatter.md
 
 
-#------------------------------------------------------------------------------
-# helpers
-#------------------------------------------------------------------------------
+##-----------------------------------------------------------------------------
+## helpers
+##-----------------------------------------------------------------------------
 
 PRINT = @echo '==>  '
 
@@ -28,15 +29,17 @@ MD_FILES := $(filter-out README.md, $(wildcard *.md))
 HTML_FILES := $(MD_FILES:%.md=%.html)
 MD_FILES := $(filter-out index.md, $(MD_FILES))
 PDF_FILES := $(MD_FILES:%.md=%.pdf)
-
-# MD_FILES   =            chap1.md   chap2.md   ...
-# HTML_FILES = index.html chap1.html chap2.html ...
-# PDF_FILES  =            chap1.pdf  chap2.pdf  ...
+MD_FILES_WITH_REFS := $(shell egrep -l '@' *.md)
 
 
-#------------------------------------------------------------------------------
-# targets
-#------------------------------------------------------------------------------
+## MD_FILES   =            chap1.md   chap2.md   ...
+## HTML_FILES = index.html chap1.html chap2.html ...
+## PDF_FILES  =            chap1.pdf  chap2.pdf  ...
+
+
+##-----------------------------------------------------------------------------
+## targets
+##-----------------------------------------------------------------------------
 
 default: html
 
@@ -58,8 +61,8 @@ index.html: index.md meta.yaml
 		--template=./templates/index_template.html \
 		-o $@ $< meta.yaml
 
-# create html
-%.html: %.md templates/backmatter-sec.md mybib.bib meta.yaml
+## create html
+%.html: %.md mybib.bib meta.yaml
 	pandoc \
 		-t html \
 		--ascii \
@@ -85,11 +88,11 @@ index.html: index.md meta.yaml
 		--bibliography=mybib.bib \
 		--filter pandoc-crossref \
 		--filter pandoc-citeproc \
-		-o $@ $< templates/backmatter-sec.md meta.yaml.tmp
+		-o $@ $< $(ops) meta.yaml.tmp
 	rm -f meta.yaml.tmp $@.tmp
 	$(PRINT) "make $@ done."
 
-$(OUTNAME).html: $(MD_FILES) templates/backmatter.md mybib.bib meta.yaml
+$(OUTNAME).html: $(MD_FILES) mybib.bib meta.yaml
 	pandoc \
 		-t html \
 		--ascii \
@@ -102,11 +105,11 @@ $(OUTNAME).html: $(MD_FILES) templates/backmatter.md mybib.bib meta.yaml
 		--bibliography=mybib.bib \
 		--filter pandoc-crossref \
 		--filter pandoc-citeproc \
-		-o $@ $(MD_FILES) templates/backmatter.md meta.yaml
+		-o $@ $(MD_FILES) $(ops) meta.yaml
 	$(PRINT) "make $@ done."
 
-# create the full pdf 
-$(OUTNAME).pdf: $(MD_FILES) templates/backmatter.md mybib.bib meta.yaml
+## create the full pdf 
+$(OUTNAME).pdf: $(MD_FILES) mybib.bib meta.yaml
 	pandoc \
 		--standalone \
 		--smart \
@@ -117,11 +120,17 @@ $(OUTNAME).pdf: $(MD_FILES) templates/backmatter.md mybib.bib meta.yaml
 		--filter pandoc-eqnos \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o doc.pdf $(MD_FILES) templates/backmatter.md meta.yaml
+		-o $(OUTNAME).pdf $(MD_FILES) $(ops) meta.yaml
 	$(PRINT) "make $@ done."
 
-# create the pdf for a section
-%.pdf: %.md templates/backmatter-sec.md mybib.bib meta.yaml
+## create the full pdf via pandoc to tex then pdflatex
+#$(OUTNAME).pdf: $(OUTNAME).tex
+#	pdflatex -interaction=nonstopmode $< &> latex.log
+#	pdflatex -interaction=nonstopmode $< &> latex.log
+#	$(PRINT) "make $@ done."
+
+## create the pdf for a section
+%.pdf: %.md mybib.bib meta.yaml
 	pandoc \
 		--standalone \
 		--smart \
@@ -132,11 +141,11 @@ $(OUTNAME).pdf: $(MD_FILES) templates/backmatter.md mybib.bib meta.yaml
 		--filter pandoc-eqnos \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $@ $< templates/backmatter-sec.md meta.yaml
+		-o $@ $< $(ops) meta.yaml
 	$(PRINT) "make $@ done."
 
-# create md with references replaced and bibliography created
-$(OUTNAME).mds: $(MD_FILES) templates/backmatter.md mybib.bib meta.yaml
+## create md with references replaced and bibliography created
+$(OUTNAME).mds: $(MD_FILES) mybib.bib meta.yaml
 	pandoc \
 		-t markdown_github \
 		--standalone \
@@ -144,12 +153,12 @@ $(OUTNAME).mds: $(MD_FILES) templates/backmatter.md mybib.bib meta.yaml
 		--toc \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $@.tmp $(MD_FILES) templates/backmatter.md meta.yaml
+		-o $@.tmp $(MD_FILES) $(ops) meta.yaml
 	cat $@.tmp | sed -E 's/\[([0-9][0-9]?[0-9]?)\]/\[\^\1\]/g' | sed -E 's/^\[\^([0-9][0-9]?[0-9]?)\]\ /\[\^\1\]:\ /' > $@
 	rm -f $@.tmp
 	$(PRINT) "make $@ done."
 
-%.mds: %.md templates/backmatter-sec.md mybib.bib meta.yaml
+%.mds: %.md mybib.bib meta.yaml
 	pandoc \
 		-t markdown_github \
 		--standalone \
@@ -157,12 +166,12 @@ $(OUTNAME).mds: $(MD_FILES) templates/backmatter.md mybib.bib meta.yaml
 		--toc \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $@.tmp $< templates/backmatter-sec.md meta.yaml
+		-o $@.tmp $< $(ops) meta.yaml
 	cat $@.tmp | sed -E 's/\[([0-9][0-9]?[0-9]?)\]/\[\^\1\]/g' | sed -E 's/^\[\^([0-9][0-9]?[0-9]?)\]\ /\[\^\1\]:\ /' > $@
 	rm -f $@.tmp
 	$(PRINT) "make $@ done."
 
-# create html from mds
+## create html from mds
 %.htmls: %.mds
 	pandoc \
 		-t html \
@@ -172,11 +181,11 @@ $(OUTNAME).mds: $(MD_FILES) templates/backmatter.md mybib.bib meta.yaml
 		--variable=date-meta:"$(DATE)" \
 		--variable=css:templates/markdown-memo.css \
 		--template=./templates/outline_template.html \
-		-o $@ $< meta.yaml
+		-o $@ $< $(ops) meta.yaml
 	$(PRINT) "make $@ done."
 
-# create tex with references replaced and bibliography created
-$(OUTNAME).tex: $(MD_FILES) templates/backmatter.md mybib.bib meta.yaml
+## create tex with references replaced and bibliography created
+$(OUTNAME).tex: $(MD_FILES) mybib.bib meta.yaml
 	pandoc \
 		-t latex \
 		--ascii \
@@ -184,13 +193,13 @@ $(OUTNAME).tex: $(MD_FILES) templates/backmatter.md mybib.bib meta.yaml
 		--smart \
 		--template=templates/default_template.tex \
 		--toc \
+		--filter pandoc-crossref \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $@ $(MD_FILES) templates/backmatter.md meta.yaml
-	pdflatex $@
+		-o $@ $(MD_FILES) $(ops) meta.yaml
 	$(PRINT) "make $@ done."
 
-%.tex: %.md templates/backmatter-sec.md mybib.bib meta.yaml
+%.tex: %.md mybib.bib meta.yaml
 	pandoc \
 		-t latex \
 		--ascii \
@@ -198,10 +207,10 @@ $(OUTNAME).tex: $(MD_FILES) templates/backmatter.md mybib.bib meta.yaml
 		--smart \
 		--template=templates/default_template.tex \
 		--toc \
+		--filter pandoc-crossref \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $@ $< templates/backmatter-sec.md meta.yaml
-	pdflatex $@
+		-o $@ $< $(ops) meta.yaml
 	$(PRINT) "make $@ done."
 
 mybib.bib: $(MD_FILES)
