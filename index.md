@@ -34,6 +34,7 @@
 
 -   [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/) -- my webpage about my research at UCSC.
 -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/) -- my micro-blog on philosophy using only figures
+-   [bamf-thinkers.tumblr.com](http://bamf-thinkers.tumblr.com/) -- my micro-blog on inspiring thinkers
 -   [statisticalsignificance.net](http://statisticalsignificance.net/) -- my blog (still trying to get this going)
 -   [academia.edu/RReece](https://ucsc.academia.edu/RReece) -- my academia.edu profile (get my papers here)
 -   [philpapers.org](http://philpapers.org/profile/71785) -- my philpapers profile
