@@ -15,6 +15,8 @@ export TEXINPUTS := .//:./style//:./tex//:${TEXINPUTS}
 
 OUTNAME := doc
 ops:=templates/refs.md templates/backmatter.md
+#ops_subsection:=templates/refs_subsection.md templates/backmatter.md
+ops_subsection:=templates/backmatter.md
 
 
 ##-----------------------------------------------------------------------------
@@ -88,7 +90,7 @@ index.html: index.md meta.yaml
 		--bibliography=mybib.bib \
 		--filter pandoc-crossref \
 		--filter pandoc-citeproc \
-		-o $@ $< $(ops) meta.yaml.tmp
+		-o $@ $< $(ops_subsection) meta.yaml.tmp
 	rm -f meta.yaml.tmp $@.tmp
 	$(PRINT) "make $@ done."
 
@@ -141,7 +143,7 @@ $(OUTNAME).pdf: $(MD_FILES) mybib.bib meta.yaml
 		--filter pandoc-eqnos \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $@ $< $(ops) meta.yaml
+		-o $@ $< $(ops_subsection) meta.yaml
 	$(PRINT) "make $@ done."
 
 ## create md with references replaced and bibliography created
@@ -166,7 +168,7 @@ $(OUTNAME).mds: $(MD_FILES) mybib.bib meta.yaml
 		--toc \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $@.tmp $< $(ops) meta.yaml
+		-o $@.tmp $< $(ops_subsection) meta.yaml
 	cat $@.tmp | sed -E 's/\[([0-9][0-9]?[0-9]?)\]/\[\^\1\]/g' | sed -E 's/^\[\^([0-9][0-9]?[0-9]?)\]\ /\[\^\1\]:\ /' > $@
 	rm -f $@.tmp
 	$(PRINT) "make $@ done."
@@ -181,7 +183,7 @@ $(OUTNAME).mds: $(MD_FILES) mybib.bib meta.yaml
 		--variable=date-meta:"$(DATE)" \
 		--variable=css:templates/markdown-memo.css \
 		--template=./templates/outline_template.html \
-		-o $@ $< $(ops) meta.yaml
+		-o $@ $< $(ops_subsection) meta.yaml
 	$(PRINT) "make $@ done."
 
 ## create tex with references replaced and bibliography created
@@ -210,7 +212,7 @@ $(OUTNAME).tex: $(MD_FILES) mybib.bib meta.yaml
 		--filter pandoc-crossref \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $@ $< $(ops) meta.yaml
+		-o $@ $< $(ops_subsection) meta.yaml
 	$(PRINT) "make $@ done."
 
 mybib.bib: $(MD_FILES)
