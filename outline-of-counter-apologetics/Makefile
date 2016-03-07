@@ -15,8 +15,7 @@ export TEXINPUTS := .//:./style//:./tex//:${TEXINPUTS}
 
 OUTNAME := doc
 ops:=templates/refs.md templates/backmatter.md
-#ops_subsection:=templates/refs_subsection.md templates/backmatter.md
-ops_subsection:=templates/backmatter.md
+ops_subsection:=templates/refs_subsection.md templates/backmatter.md
 
 
 ##-----------------------------------------------------------------------------
