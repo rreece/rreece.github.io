@@ -15,7 +15,8 @@ author:
 #        [^JoeCoauthor]: Joe University, Joeville
 authorshort: 'Ryan Reece'
 date: 'March 1, 2013'
-license: '&copy; 2014-2016 Ryan Reece. All rights reserved'
+#license: '&copy; 2014-2016 Ryan Reece. All rights reserved'
+license: '<span class="copy-left">&copy;</span> 2013-2016 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)'
 ## ^ required meta-data ^ ----------------------------
 #abstract: |
 #    This is the abstract. This is the abstract. This is the abstract.
