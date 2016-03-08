@@ -1,4 +1,5 @@
 ---
+## required meta-data -------------------------------------
 title: "Ryan's Outline of Counter Apologetics"
 titleshort: "Ryan's Outline of Counter Apologetics"
 subtitle: "An analysis of faith-based reasoning"
@@ -6,28 +7,16 @@ author:
     -   |   
         [Ryan Reece](http://reece.scipp.ucsc.edu/)
 #    -   |   
-#        Ryan Reece[^ReeceSCIPP]
-#
-#        [^ReeceSCIPP]: University of California, Santa Cruz
-#
-#    -   |   
 #        Joe Coauthor[^JoeCoauthor]
 #
 #        [^JoeCoauthor]: Joe University, Joeville
 authorshort: "Ryan Reece"
-date: 'August 16, 2015'
-license: '&copy; 2015-2016 Ryan Reece. All rights reserved'
-## ^ required meta-data ^ ---------------------------------
+date: 'December 28, 2014'
+#license: '&copy; 2015-2016 Ryan Reece. All rights reserved'
+license: '<span class="copy-left">&copy;</span> 2014-2016 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)'
+## optional -----------------------------------------------
 #abstract: |
 #    This is the abstract. This is the abstract. This is the abstract.
-#    This is the abstract. This is the abstract. This is the abstract.
-#    This is the abstract. This is the abstract. This is the abstract.
-#
-authorshort: 'Ryan Reece'
-date: 'January 1, 2014'
-license: 'Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)'
-# ^ required meta-data ^ ----------------------------
-#abstract: |
 #    This is the abstract. This is the abstract. This is the abstract.
 #    This is the abstract. This is the abstract. This is the abstract.
 #    This is the abstract. This is the abstract. This is the abstract.
@@ -35,7 +24,12 @@ license: 'Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/lice
 #    This is the second paragraph in the abstract.
 #    This is the second paragraph in the abstract.
 #    This is the second paragraph in the abstract.
-# html options --------------------------------------
+figureTitle: "Figure"
+tableTitle: "Table"
+figPrefix: "Figure"
+eqnPrefix: "eq."
+tblPrefix: "Table"
+## html options -------------------------------------------
 email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
 disqus: true
 disqus_shortname: 'ryans-outline-of-counter-apologetics'
@@ -57,7 +51,7 @@ geometry:
     -   'left=1.5in'
     -   'right=1.5in'
     -   'headheight=14pt'
-    -   'headsep=\baselineskip'
+    -   'headsep=14pt'
 fancyhdr: true
 classoption:
     -   'openany'
