@@ -9,16 +9,18 @@
 Contents
 --------------------------------------------------------------------------------
 
-1.  [Invitation to scientific philosophy](invitation.html) -- a place to start in the discussion of philosophy of science and naturalism.   **(in progress)**
-1.  [The scientific method](scientific-method.html) -- the key to epistemology.   **(in progress)**
-1.  [Philosophy of statistics](statistics.html)  (TODO)
-1.  [Scientific realism](scientific-realism.html) -- the key to metaphysics.   **(in progress)**
-1.  [Naturalism](naturalism.html) -- a metaphilosophy that says science should bootstrap philosophy.  (TODO)
-1.  [Philosophy of mathematics](math.html)   (TODO)
-1.  [Philosophy of physics](physics.html)   (TODO)
-1.  [Philosophy of mind](mind.html)   (TODO)
-1.  [Ethics](ethics.html)   (TODO)
-1.  [Philosophy of the future](future.html)   (TODO)
+All the following are in flux and development:
+
+1.  [Invitation to scientific philosophy](invitation.html) -- a place to start in the discussion of philosophy of science and naturalism.
+1.  [The scientific method](scientific-method.html) -- the key to epistemology.
+1.  [Philosophy of statistics](statistics.html)
+1.  [Scientific realism](scientific-realism.html) -- the key to metaphysics.
+1.  [Naturalism](naturalism.html) -- a metaphilosophy that says science should bootstrap philosophy.
+1.  [Philosophy of mathematics](math.html)
+1.  [Philosophy of physics](physics.html)
+1.  [Philosophy of mind](mind.html)
+1.  [Ethics](ethics.html)
+1.  [Philosophy of the future](future.html)
 
 
 ### Note this is under construction
@@ -36,14 +38,5 @@ Also developing here
 -   [Ryan's philosophy reading list](http://rreece.github.io/philosophy-reading-list/)
 -   [Ryan's Outline of Counter Apologetics](http://rreece.github.io/outline-of-counter-apologetics/)
 -   [Ryan's Minutes of "Moving Naturalism Forward (2012)"](http://rreece.github.io/moving-naturalism-forward-2012-minutes/)
-
-
-
-<!---
-
--   [A short glossary of philosophy for scientists and engineers](glossary-of-philosophy-for-scientists.html)  (TODO)
--   [A hypothetical dialog between Plato and Carnap](reality-dialog.html)  (TODO)
-
--->
 
 
