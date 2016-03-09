@@ -230,7 +230,7 @@ TODO.
 
 ### Redhead, M. (1988). A Philosopher Looks at Quantum Field Theory.
 
-In the collection: Brown, H. and R. Harr&eacute; Eds. (1988). *Philosophical Foundations of Quantum Field Theory*.
+In the collection: Brown, H. and R. Harr&eacute;, Eds. (1988). *Philosophical Foundations of Quantum Field Theory*.
 
 TODO.
 
