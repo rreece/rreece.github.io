@@ -25,6 +25,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   [Annotated Bibliography](#annotated-bibliography)
     1.  [Einstein, A., B. Podolsky, & N. Rosen (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?](#einstein-a.-b.-podolsky-n.-rosen-1935.-can-quantum-mechanical-description-of-physical-reality-be-considered-complete)
     1.  [Anderson, P. (1972). More is Different.](#anderson-p.-1972.-more-is-different.)
+    1.  [Redhead, M. (1988). A Philosopher Looks at Quantum Field Theory.](#redhead-m.-1988.-a-philosopher-looks-at-quantum-field-theory.)
     1.  [Giulini, D., E. Joos, C. Kiefer, J. Kupsch, I.O. Stamatescu, & H. Zeh (1996). Decoherence and the Appearance of a Classical World in Quantum Theory.](#giulini-d.-e.-joos-c.-kiefer-j.-kupsch-i.o.-stamatescu-h.-zeh-1996.-decoherence-and-the-appearance-of-a-classical-world-in-quantum-theory.)
     1.  [Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state.](#pusey-m.f.-barrett-j.-rudolph-t.-2012.-on-the-reality-of-the-quantum-state.)
     1.  [More articles to do](#more-articles-to-do)
