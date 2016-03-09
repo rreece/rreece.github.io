@@ -227,6 +227,19 @@ TODO.
 
 --------------------------------------------------------------------------------
 
+### Redhead, M. (1988). A Philosopher Looks at Quantum Field Theory.
+
+In the collection: Brown, H. and R. Harr&eacute; Eds. (1988). *Philosophical Foundations of Quantum Field Theory*.
+
+TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
 ### Giulini, D., E. Joos, C. Kiefer, J. Kupsch, I.O. Stamatescu, & H. Zeh (1996). Decoherence and the Appearance of a Classical World in Quantum Theory.
 
 TODO.
