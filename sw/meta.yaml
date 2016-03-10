@@ -1,4 +1,5 @@
 ---
+## required meta-data -------------------------------------
 title: "Ryan's Selected Software Projects"
 titleshort: "Ryan's Selected Software Projects"
 subtitle: "on github"
@@ -15,8 +16,9 @@ author:
 #        [^JoeCoauthor]: Joe University, Joeville
 authorshort: 'Ryan Reece'
 date: 'March 1, 2013'
-license: '&copy; 2014-2016 Ryan Reece. All rights reserved'
-## ^ required meta-data ^ ----------------------------
+#license: '&copy; 2014-2016 Ryan Reece. All rights reserved'
+license: '<span class="copy-left">&copy;</span> 2014-2016 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)'
+## optional -----------------------------------------------
 #abstract: |
 #    This is the abstract. This is the abstract. This is the abstract.
 #    This is the abstract. This is the abstract. This is the abstract.
@@ -25,7 +27,12 @@ license: '&copy; 2014-2016 Ryan Reece. All rights reserved'
 #    This is the second paragraph in the abstract.
 #    This is the second paragraph in the abstract.
 #    This is the second paragraph in the abstract.
-## html options --------------------------------------
+figureTitle: "Figure"
+tableTitle: "Table"
+figPrefix: "Figure"
+eqnPrefix: "eq."
+tblPrefix: "Table"
+## html options -------------------------------------------
 email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
 disqus: true
 disqus_shortname: 'ryans-selected-software-projects'
