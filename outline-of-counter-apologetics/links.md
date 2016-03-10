@@ -20,6 +20,7 @@ Videos
 -   [Counter Arguments: "Islamophobia"](https://www.youtube.com/watch?v=lEeauLCOeXQ) -- (14 mins)
 -   [Sarah Haider on Reza Aslan and Reforming Islam](https://www.youtube.com/watch?v=hXaHalaqIIQ) -- The Ruben Report (17 mins)
 -   [Tim Maudlin On Rationality And Truth](https://www.youtube.com/watch?v=biOecqecOsw) -- (4 mins)
+-   [Raheel Raza: By The Numbers - The Untold Story of Muslim Opinions & Demographics](https://www.youtube.com/watch?v=pSPvnFDDQHk) -- (15 mins)
 
 ### Longer Talks
 
