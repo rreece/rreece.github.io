@@ -13,9 +13,10 @@
 
 export TEXINPUTS := .//:./style//:./tex//:${TEXINPUTS}
 
-OUTNAME := doc
-OPS_FULLDOC:=templates/refs.md templates/backmatter.md
+OUTNAME := outline-of-counter-apologetics
+#OPS_FULLDOC:=templates/refs.md templates/backmatter.md
 #OPS_SECTION:=templates/refs_subsection.md templates/backmatter.md
+OPS_FULLDOC:=templates/backmatter.md
 OPS_SECTION:=templates/backmatter.md
 
 
