@@ -13,11 +13,10 @@
 
 export TEXINPUTS := .//:./style//:./tex//:${TEXINPUTS}
 
-OUTNAME := outline-of-counter-apologetics
-#OPS_FULLDOC:=templates/refs.md templates/backmatter.md
-#OPS_SECTION:=templates/refs_subsection.md templates/backmatter.md
-OPS_FULLDOC:=templates/backmatter.md
-OPS_SECTION:=templates/backmatter.md
+OUTNAME := doc
+OPS_FULLPDF:=templates/refs_tex.md templates/backmatter.md
+OPS_FULLHTML:=templates/refs.md templates/backmatter.md
+OPS_SECTION:=templates/refs_subsection.md templates/backmatter.md
 
 
 ##-----------------------------------------------------------------------------
@@ -77,7 +76,7 @@ $(OUTNAME).html: $(MD_FILES) mybib.bib meta.yaml
 		--bibliography=mybib.bib \
 		--filter pandoc-crossref \
 		--filter pandoc-citeproc \
-		-o $@ $(MD_FILES) $(OPS_FULLDOC) meta.yaml
+		-o $@ $(MD_FILES) $(OPS_FULLHTML) meta.yaml
 	$(PRINT) "make $@ done."
 
 ## create html
@@ -123,7 +122,7 @@ $(OUTNAME).pdf: $(MD_FILES) mybib.bib meta.yaml
 		--filter pandoc-eqnos \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $(OUTNAME).pdf $(MD_FILES) $(OPS_FULLDOC) meta.yaml
+		-o $(OUTNAME).pdf $(MD_FILES) $(OPS_FULLPDF) meta.yaml
 	$(PRINT) "make $@ done."
 
 ## create the full pdf via pandoc to tex then pdflatex
@@ -156,7 +155,7 @@ $(OUTNAME).mds: $(MD_FILES) mybib.bib meta.yaml
 		--toc \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $@.tmp $(MD_FILES) $(OPS_FULLDOC) meta.yaml
+		-o $@.tmp $(MD_FILES) $(OPS_FULLHTML) meta.yaml
 	cat $@.tmp | sed -E 's/\[([0-9][0-9]?[0-9]?)\]/\[\^\1\]/g' | sed -E 's/^\[\^([0-9][0-9]?[0-9]?)\]\ /\[\^\1\]:\ /' > $@
 	rm -f $@.tmp
 	$(PRINT) "make $@ done."
@@ -184,7 +183,7 @@ $(OUTNAME).mds: $(MD_FILES) mybib.bib meta.yaml
 		--variable=date-meta:"$(DATE)" \
 		--variable=css:templates/markdown-memo.css \
 		--template=./templates/outline_template.html \
-		-o $@ $< $(OPS_SECTION) meta.yaml
+		-o $@ $< meta.yaml
 	$(PRINT) "make $@ done."
 
 ## create tex with references replaced and bibliography created
@@ -199,7 +198,7 @@ $(OUTNAME).tex: $(MD_FILES) mybib.bib meta.yaml
 		--filter pandoc-crossref \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
-		-o $@ $(MD_FILES) $(OPS_FULLDOC) meta.yaml
+		-o $@ $(MD_FILES) $(OPS_FULLPDF) meta.yaml
 	$(PRINT) "make $@ done."
 
 %.tex: %.md mybib.bib meta.yaml
