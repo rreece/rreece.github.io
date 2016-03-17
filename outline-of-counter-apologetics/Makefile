@@ -15,8 +15,10 @@ export TEXINPUTS := .//:./style//:./tex//:${TEXINPUTS}
 
 OUTNAME := doc
 OPS_FULLPDF:=templates/refs_tex.md templates/backmatter.md
-OPS_FULLHTML:=templates/refs.md templates/backmatter.md
-OPS_SECTION:=templates/refs_subsection.md templates/backmatter.md
+#OPS_FULLHTML:=templates/refs.md templates/backmatter.md
+#OPS_SECTION:=templates/refs_subsection.md templates/backmatter.md
+OPS_FULLHTML:=templates/backmatter.md
+OPS_SECTION:=templates/backmatter.md
 
 
 ##-----------------------------------------------------------------------------
@@ -117,7 +119,6 @@ $(OUTNAME).pdf: $(MD_FILES) mybib.bib meta.yaml
 		--smart \
 		--variable=date-meta:"$(DATE)" \
 		--template=templates/default_template.tex \
-		--toc \
 		--filter pandoc-crossref \
 		--filter pandoc-eqnos \
 		--bibliography=mybib.bib \
@@ -138,7 +139,6 @@ $(OUTNAME).pdf: $(MD_FILES) mybib.bib meta.yaml
 		--smart \
 		--variable=date-meta:"$(DATE)" \
 		--template=templates/default_template.tex \
-		--toc \
 		--filter pandoc-crossref \
 		--filter pandoc-eqnos \
 		--bibliography=mybib.bib \
@@ -152,7 +152,6 @@ $(OUTNAME).mds: $(MD_FILES) mybib.bib meta.yaml
 		-t markdown_github \
 		--standalone \
 		--smart \
-		--toc \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
 		-o $@.tmp $(MD_FILES) $(OPS_FULLHTML) meta.yaml
@@ -165,7 +164,6 @@ $(OUTNAME).mds: $(MD_FILES) mybib.bib meta.yaml
 		-t markdown_github \
 		--standalone \
 		--smart \
-		--toc \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
 		-o $@.tmp $< $(OPS_SECTION) meta.yaml
@@ -194,7 +192,6 @@ $(OUTNAME).tex: $(MD_FILES) mybib.bib meta.yaml
 		--standalone \
 		--smart \
 		--template=templates/default_template.tex \
-		--toc \
 		--filter pandoc-crossref \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
@@ -208,7 +205,6 @@ $(OUTNAME).tex: $(MD_FILES) mybib.bib meta.yaml
 		--standalone \
 		--smart \
 		--template=templates/default_template.tex \
-		--toc \
 		--filter pandoc-crossref \
 		--bibliography=mybib.bib \
 		--filter pandoc-citeproc \
