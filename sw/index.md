@@ -10,11 +10,22 @@ Please feel free to leave me comments below.
 
 ### Contents:
 
+1.  [markdown2bib](#markdown2bib)
 1.  [markdown-memo](#markdown-memo)
 1.  [pyframe](#pyframe)
 1.  [pyrootutils](#pyrootutils)
 1.  [rdrshell](#rdrshell)
 1.  [root2html](#root2html)
+
+
+markdown2bib
+--------------------------------------------------------------------------------
+
+Converts simple markdown-formatted [APA](http://www.library.arizona.edu/search/reference/citation-apa.html)
+bibliographies to [bibtex](https://verbosus.com/bibtex-style-examples.html).
+Scrape the world's bibliographies. All your bibs are belong to us.
+
+-   [github.com/rreece/markdown2bib](https://github.com/rreece/markdown2bib)
 
 
 markdown-memo
