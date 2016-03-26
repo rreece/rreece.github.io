@@ -685,6 +685,7 @@ Links and Encyclopedia Articles
 -   [Constructive Empiricism](http://plato.stanford.edu/entries/constructive-empiricism/)
 -   [Davidson, Donald (1917-2003)](http://plato.stanford.edu/entries/davidson/)
 -   [Duhem, Pierre (1861-1916)](http://plato.stanford.edu/entries/duhem/)
+-   [Einstein's Philosophy of Science](http://plato.stanford.edu/entries/einstein-philscience/)
 -   [Eliminative Materialism](http://plato.stanford.edu/entries/materialism-eliminative/)
 -   [Feyerabend, Paul (1924-1994)](http://plato.stanford.edu/entries/feyerabend/)
 -   [Historicist Theories of Scientific Rationality](http://plato.stanford.edu/entries/rationality-historicist/)
