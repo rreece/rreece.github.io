@@ -31,6 +31,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [IEP](#iep)
     1.  [Wikipedia](#wikipedia)
     1.  [Others](#others)
+    1.  [Videos](#videos)
 -   [Notes](#fn1)
 
 
@@ -242,5 +243,10 @@ Links and Encyclopedia Articles
     -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/worldview-naturalism/history-of-naturalism)
 -   [Moving Naturalism Forward (2012)](http://preposterousuniverse.com/naturalism2012/)
 -   [Ryan's Minutes of "Moving Naturalism Forward (2012)"](http://rreece.github.io/moving-naturalism-forward-2012-minutes/)
+
+### Videos
+
+-   [Timothy Williamson: What is Naturalism?](https://www.youtube.com/watch?v=33qfCWesE1E)
+-   [Daniel Dennett: Ontology, science, and the evolution of the manifest image?](https://www.youtube.com/watch?v=GcVKxeKFCHE)
 
 
