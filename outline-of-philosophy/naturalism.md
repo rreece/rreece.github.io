@@ -235,6 +235,7 @@ Links and Encyclopedia Articles
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy))
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 -   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
+-   [Species problem](https://en.wikipedia.org/wiki/Species_problem)
 -   [Unsolved problems in philosophy, List of](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_philosophy)
 
 ### Others
