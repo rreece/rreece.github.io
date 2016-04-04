@@ -1,10 +1,6 @@
 
 ![A graph by [Simon Raper](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/) of influences among philosophers according to Wikipedia ([CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)).](img/graph-analytic-philosophy.png)
 
-<!---
-<img src="img/graph-analytic-philosophy.png"  width="700"  alt="Graph of connections between analytic philosophers."  title="source: http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/"/>
--->
-
 
 Contents
 --------------------------------------------------------------------------------
