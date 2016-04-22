@@ -306,7 +306,7 @@ Links and Encyclopedia Articles
 
 -   [Einstein-Podolsky-Rosen Argument and the Bell Inequalities](http://www.iep.utm.edu/epr/)
 -   [Emergence](http://www.iep.utm.edu/emergenc/)
--   [Interpretations of Quantum Mechanics](http://www.iep.utm.edu/qm-inter/)
+-   [Interpretations of Quantum Mechanics](http://www.iep.utm.edu/int-qm/)
 -   [Laws of nature](http://www.iep.utm.edu/lawofnat/)
 -   [What Else Science Requires of Time](http://www.iep.utm.edu/requires/)
 
