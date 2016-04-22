@@ -32,6 +32,7 @@ Videos
 -   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) -- talk by Sean Carroll (49 mins)
 -   ["Four Horsemen"](https://www.youtube.com/watch?v=rRLYL1Q9x9g) -- discussion between Richard Dawkins,
     Daniel Dennett, Sam Harris, and Christopher Hitchens on September 30, 2007 (2h).
+-   [Sam Harris and Maajid Nawaz discuss the future of Islam](https://www.youtube.com/watch?v=OdDIoYNdP_w) -- (26 mins)
 
 ### Debates
 
