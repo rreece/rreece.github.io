@@ -129,7 +129,7 @@ A place to start in the discussion of philosophy of science and naturalism
 
 ### Books on naturalized metaphysics:
 
--   Ladyman, J., and  Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalized*. - [review by Cian Dorr, Oxford University](https://ndpr.nd.edu/news/24377-every-thing-must-go-metaphysics-naturalized/)
+-   Ladyman, J., and  Ross, D. (2007). [*Every Thing Must Go: Metaphysics Naturalized*](https://www.academia.edu/2807083/In_defence_of_scientism). - [review by Cian Dorr, Oxford University](https://ndpr.nd.edu/news/24377-every-thing-must-go-metaphysics-naturalized/)
 -   Ross, D., Ladyman, J., and Kincaid, H. (2013). *Scientific Metaphysics*. - [review by Richard Healey, University of Arizona](http://ndpr.nd.edu/news/41185-scientific-metaphysics/)
     - Introductory chapter by Kincaid (in full): ["Introduction: Pursuing a Naturalist Metaphysics"](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1)
     
