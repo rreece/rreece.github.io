@@ -188,6 +188,7 @@ Links and Encyclopedia Articles
 -   [Game Theory](http://plato.stanford.edu/entries/game-theory/)
 -   [Evolutionary Game Theory](http://plato.stanford.edu/entries/game-evolutionary/)
 -   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
+-   [Fitting Attitude Theories of Value](http://plato.stanford.edu/entries/fitting-attitude-theories/)
 -   [Game Theory and Ethics](http://plato.stanford.edu/entries/game-ethics/)
 -   [Grounds of Moral Status](http://plato.stanford.edu/entries/grounds-moral-status/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
@@ -277,6 +278,7 @@ Links and Encyclopedia Articles
 -   ["The Kids Are All Right: Have we made our children into moral monsters?"](http://www.slate.com/articles/health_and_science/science/2015/03/does_common_core_teach_children_to_be_immoral_as_justin_mcbrayer_says_meta.html) - Daniel Engber
 -   ["Scientism wars: there's an elephant in the room, and its name is Sam Harris"](http://www.theguardian.com/news/oliver-burkeman-s-blog/2013/aug/27/scientism-wars-sam-harris-elephant)
 -   ["Why Our Children Don't Think There Are Moral Facts"](http://opinionator.blogs.nytimes.com/2015/03/02/why-our-children-dont-think-there-are-moral-facts/) -  Justin McBrayer
+-   ["Why I think Sam Harris is wrong about morality"](http://righteousmind.com/why-i-think-sam-harris-is-wrong-about-morality/) - Jonathan Haidt
 
 ### Videos
 
