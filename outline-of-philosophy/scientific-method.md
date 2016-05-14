@@ -474,6 +474,7 @@ Links and Encyclopedia Articles
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
 -   [Pseudoscience](http://en.wikipedia.org/wiki/Pseudoscience)
 -   [Pseudoscience, List of topics characterized as](http://en.wikipedia.org/wiki/List_of_topics_characterized_as_pseudoscience)
+-   [Razor (philosophy)](https://en.wikipedia.org/wiki/Razor_(philosophy))
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
 -   [Science](http://en.wikipedia.org/wiki/Science)
 -   [Science, Philosophy of](http://en.wikipedia.org/wiki/Philosophy_of_science)
@@ -507,6 +508,7 @@ Links and Encyclopedia Articles
 -   [Inference to the Best Explanation](http://www.informationphilosopher.com/knowledge/best_explanation.html) - informationphilosopher.com
 -   [Is Hume's fork self-refuting?](http://philosophy.stackexchange.com/questions/7609/is-humes-fork-self-refuting) - Philosophy StackExchange
 -   [Scientism](http://rationalwiki.org/wiki/Scientism) - RationalWiki.org
+-   [Newton's Flaming Laser Sword](https://philosophynow.org/issues/46/Newtons_Flaming_Laser_Sword) - Mike Alder, Philosophy Now
 
 
 
