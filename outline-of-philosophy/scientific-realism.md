@@ -804,7 +804,7 @@ Links and Encyclopedia Articles
 -   [Duhem-Quine Thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
 -   [Essentially contested concept](http://en.wikipedia.org/wiki/Essentially_contested_concept)
 -   [Feyerabend, Paul (1924-1994)](https://en.wikipedia.org/wiki/Paul_Feyerabend)
--   [Hanson, Norwood Russell (1924-`1967)](https://en.wikipedia.org/wiki/Norwood_Russell_Hanson)
+-   [Hanson, Norwood Russell (1924-1967)](https://en.wikipedia.org/wiki/Norwood_Russell_Hanson)
 -   [Indeterminacy of translation](http://en.wikipedia.org/wiki/Indeterminacy_of_translation)
 -   [Internal-external distinction](https://en.wikipedia.org/wiki/Internal%E2%80%93external_distinction)
 -   [Inscrutability of reference](http://en.wikipedia.org/wiki/Inscrutability_of_reference)
