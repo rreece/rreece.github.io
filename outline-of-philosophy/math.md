@@ -186,6 +186,7 @@ Links and Encyclopedia Articles
 -   [Frege-Hilbert Controversy](http://plato.stanford.edu/entries/frege-hilbert/)
 -   [Frege's Theorem and Foundations for Arithmetic](http://plato.stanford.edu/entries/frege-theorem/)
 -   [Formalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/formalism-mathematics/)
+-   [Game Theory](http://plato.stanford.edu/entries/game-theory/)
 -   [G&ouml;del, Kurt (1906-1978)](http://plato.stanford.edu/entries/goedel/)
 -   [G&ouml;del's Incompleteness Theorems](http://plato.stanford.edu/entries/goedel-incompleteness/)
 -   [Hilbert's Program](http://plato.stanford.edu/entries/hilbert-program/)

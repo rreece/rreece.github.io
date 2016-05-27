@@ -115,6 +115,7 @@ Wiki Articles
 -   [Epicurus](http://plato.stanford.edu/entries/epicurus/) - SEP
 -   [Epicurus](http://www.iep.utm.edu/epicur/) - IEP
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) - Wikipedia
+-   [Hiddenness of God](http://plato.stanford.edu/entries/divine-hiddenness/) - SEP
 -   [Lucretius](http://en.wikipedia.org/wiki/Lucretius) - Wikipedia
 -   [Naturalism](http://plato.stanford.edu/entries/naturalism/) - SEP
 -   [Naturalism](http://www.iep.utm.edu/naturali/) - IEP
