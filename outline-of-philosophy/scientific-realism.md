@@ -725,6 +725,7 @@ Links and Encyclopedia Articles
 -   [Scientific Reduction](http://plato.stanford.edu/entries/scientific-reduction/)
 -   [Scientific Revolutions](http://plato.stanford.edu/entries/scientific-revolutions/)
 -   [Sellars, Wilfrid (1912-1989)](http://plato.stanford.edu/entries/sellars/)
+-   [Social Dimensions of Scientific Knowledge](http://plato.stanford.edu/entries/scientific-knowledge-social/)
 -   [Structural Realism](http://plato.stanford.edu/entries/structural-realism/)
 -   [Tarski, Alfred (1901-1983)](http://plato.stanford.edu/entries/tarski/)
 -   [Theoretical Terms in Science](http://plato.stanford.edu/entries/theoretical-terms-science/)
