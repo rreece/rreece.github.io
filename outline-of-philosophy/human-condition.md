@@ -1,0 +1,135 @@
+The human condition
+================================================================================
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+**Contents:**
+
+-   [Issues and Positions](#issues-and-positions)
+    1.  [Stoicism](#stoicism)
+    1.  [Existentialism](#existentialism)
+-   [My Thoughts](#my-thoughts)
+-   [Annotated Bibliography](#annotated-bibliography)
+    1.  [Camus, A. (1956). *The Fall (La Chute)*.](#camus-a.-1956.-the-fall-la-chute.)
+    1.  [More articles to do](#more-articles-to-do)
+-   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
+    1.  [SEP](#sep)
+    1.  [IEP](#iep)
+    1.  [Wikipedia](#wikipedia)
+    1.  [Others](#others)
+    1.  [Videos](#videos)
+-   [Notes](#fn1)
+
+
+
+Issues and Positions
+--------------------------------------------------------------------------------
+
+
+### Stoicism
+
+TODO.
+
+
+### Existentialism
+
+TODO.
+
+
+My Thoughts
+--------------------------------------------------------------------------------
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+Annotated Bibliography
+--------------------------------------------------------------------------------
+
+### Camus, A. (1956). *The Fall (La Chute)*.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
+### More articles to do
+
+-   TODO.
+
+
+Links and Encyclopedia Articles
+--------------------------------------------------------------------------------
+
+### SEP
+
+-   [Aurelius, Marcus (121-180)](http://plato.stanford.edu/entries/marcus-aurelius/)
+-   [Authenticity](http://plato.stanford.edu/entries/authenticity/)
+-   [Camus, Albert (1913-1960)](http://plato.stanford.edu/entries/camus/)
+-   [Epictetus (55-135)](http://plato.stanford.edu/entries/epictetus/)
+-   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
+-   [Existentialist aesthetics](http://plato.stanford.edu/entries/aesthetics-existentialist/)
+-   [Meaning of Life, The](http://plato.stanford.edu/entries/life-meaning/)
+-   [Nietzsche, Friedrich (1844-1900)](http://plato.stanford.edu/entries/nietzsche/)
+-   [Seneca (4 BCE - 65 CE)](http://plato.stanford.edu/entries/seneca/)
+-   [Stoicism](http://plato.stanford.edu/entries/stoicism/)
+-   [Suicide](http://plato.stanford.edu/entries/suicide/)
+
+### IEP
+
+-   [Aurelius, Marcus (121-180)](http://www.iep.utm.edu/marcus/)
+-   [Epictetus (55-135)](http://www.iep.utm.edu/epictetu/)
+-   [Egoism](http://www.iep.utm.edu/egoism/)
+-   [Existentialism](http://www.iep.utm.edu/existent/)
+-   [Nihilism](http://www.iep.utm.edu/nihilism/)
+-   [Stoicism](http://www.iep.utm.edu/stoicism/)
+-   [Stoic Ethics](http://www.iep.utm.edu/stoiceth/)
+
+### Wikipedia
+
+-   [Absurdism](http://en.wikipedia.org/wiki/Absurdism)
+-   [Aurelius, Marcus (121-180)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
+-   [Camus, Albert (1913-1960)](https://en.wikipedia.org/wiki/Albert_Camus)
+-   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
+-   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
+-   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
+-   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
+-   [Nietzsche, Friedrich (1844-1900)](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
+-   [Nihilism](http://en.wikipedia.org/wiki/Nihilism)
+-   [Seneca (4 BCE - 65 CE)](https://en.wikipedia.org/wiki/Seneca_the_Younger)
+
+### Others
+
+-   TODO
+
+### Videos
+
+-   [The School of Life: "Being A Good Listener"](https://www.youtube.com/watch?v=-BdbiZcNBXg)
+-   [The School of Life: "Camus, Albert"](https://www.youtube.com/watch?v=jQOfbObFOCw)
+-   [The School of Life: "Confidence"](https://www.youtube.com/watch?v=1D-vyjQIUDc)
+-   [The School of Life: "Dostoyevsky, Fyodor"](https://www.youtube.com/watch?v=MMmSdxZpseY)
+-   [The School of Life: "Heidegger"](https://www.youtube.com/watch?v=Br1sGrA7XTU)
+-   [The School of Life: "How Romanticism Ruined Love"](https://www.youtube.com/watch?v=jltM5qYn25w)
+-   [The School of Life: "Kierkegaard, Soren"](https://www.youtube.com/watch?v=D9JCwkx558o)
+-   [The School of Life: "Nietzsche"](https://www.youtube.com/watch?v=wHWbZmg2hzU)
+-   [The School of Life: "Sartre"](https://www.youtube.com/watch?v=3bQsZxDQgzU)
+-   [The School of Life: "Self-sabotage"](https://www.youtube.com/watch?v=ni-Gqp9-Has)
+-   [The School of Life: "Stoicism"](https://www.youtube.com/watch?v=yu7n0XzqtfA)
+-   [The School of Life: "Tolstoy, Leo"](https://www.youtube.com/watch?v=Lr6DYLBkyG0)
+-   [The School of Life: "What is an Existential Crisis?"](https://www.youtube.com/watch?v=aEzMwNBjkAU)
+-   [The School of Life: "Wisdom"](https://www.youtube.com/watch?v=ox8XlcUppbo)
+

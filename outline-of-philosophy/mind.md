@@ -154,6 +154,7 @@ Links and Encyclopedia Articles
 -   [Relational Models Theory](http://www.iep.utm.edu/r-models/)
 -   [Sellars: Philosophy of Mind](http://www.iep.utm.edu/sellars/)
 -   [Solipsism and the Problem of Other Minds](http://www.iep.utm.edu/solipsis/)
+-   [Stoic philosophy of mind](http://www.iep.utm.edu/stoicmind/)
 -   [Supervenience and Determination](http://www.iep.utm.edu/superven/)
 -   [Supervenience and Mind](http://www.iep.utm.edu/supermin/)
 -   [Theory of Mind](http://www.iep.utm.edu/theomind/)

@@ -16,6 +16,7 @@ All the following are in flux and development:
 1.  [Philosophy of physics](physics.html)
 1.  [Philosophy of mind](mind.html)
 1.  [Ethics](ethics.html)
+1.  [The human condition](human-condition.html)
 1.  [Philosophy of the future](future.html)
 
 

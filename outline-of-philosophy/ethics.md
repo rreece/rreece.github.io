@@ -138,8 +138,7 @@ Michael Shermer and Massimo Pigliucci debate the role of science deriving morali
 -   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
 
 
-Ethical Naturalism
---------------------------------------------------------------------------------
+### Ethical Naturalism
 
 See the outline on [Naturalism](naturalism.html#ethical-naturalism).
 
@@ -186,6 +185,7 @@ Links and Encyclopedia Articles
 -   [Deontic Logic](http://plato.stanford.edu/entries/logic-deontic/)
 -   [Doing vs. Allowing Harm](http://plato.stanford.edu/entries/doing-allowing/)
 -   [Game Theory](http://plato.stanford.edu/entries/game-theory/)
+-   [Epictetus (55-135)](http://plato.stanford.edu/entries/epictetus/)
 -   [Evolutionary Game Theory](http://plato.stanford.edu/entries/game-evolutionary/)
 -   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
 -   [Fitting Attitude Theories of Value](http://plato.stanford.edu/entries/fitting-attitude-theories/)
@@ -227,6 +227,7 @@ Links and Encyclopedia Articles
 -   [Collective Moral Responsibility](http://www.iep.utm.edu/collecti/)
 -   [Consequentialism](http://www.iep.utm.edu/conseque/)
 -   [Egoism](http://www.iep.utm.edu/egoism/)
+-   [Epictetus (55-135)](http://www.iep.utm.edu/epictetu/)
 -   [Ethics](http://www.iep.utm.edu/ethics/)
 -   [Evolutionary Ethics](http://www.iep.utm.edu/evol-eth/)
 -   [Evolutionary Psychology](http://www.iep.utm.edu/evol-psy/)
@@ -244,6 +245,7 @@ Links and Encyclopedia Articles
 -   [Non-Cognitivism in Ethics](http://www.iep.utm.edu/non-cogn/)
 -   [Personal Identity and Ethics](http://plato.stanford.edu/entries/identity-ethics/)
 -   [Ross, William David (1877-1971)](http://www.iep.utm.edu/ross-wd/)
+-   [Stoic Ethics](http://www.iep.utm.edu/stoiceth/)
 -   [Utilitarianism, Act and Rule](http://www.iep.utm.edu/util-a-r/)
 
 ### Wikipedia
@@ -254,6 +256,7 @@ Links and Encyclopedia Articles
 -   [Ethical naturalism](http://en.wikipedia.org/wiki/Ethical_naturalism)
 -   [Ethical non-naturalism](http://en.wikipedia.org/wiki/Ethical_non-naturalism)
 -   [Ethics](http://en.wikipedia.org/wiki/Ethics)
+-   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
