@@ -13,6 +13,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 -   [Issues and Positions](#issues-and-positions)
     1.  [Stoicism](#stoicism)
+    1.  [Buddhism](#buddhism)
     1.  [Existentialism](#existentialism)
 -   [My Thoughts](#my-thoughts)
 -   [Annotated Bibliography](#annotated-bibliography)
@@ -79,6 +80,7 @@ Links and Encyclopedia Articles
 
 -   [Aurelius, Marcus (121-180)](http://plato.stanford.edu/entries/marcus-aurelius/)
 -   [Authenticity](http://plato.stanford.edu/entries/authenticity/)
+-   [Buddha](http://plato.stanford.edu/entries/buddha/)
 -   [Camus, Albert (1913-1960)](http://plato.stanford.edu/entries/camus/)
 -   [Epictetus (55-135)](http://plato.stanford.edu/entries/epictetus/)
 -   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
@@ -92,6 +94,7 @@ Links and Encyclopedia Articles
 ### IEP
 
 -   [Aurelius, Marcus (121-180)](http://www.iep.utm.edu/marcus/)
+-   [Buddha](http://www.iep.utm.edu/buddha/)
 -   [Epictetus (55-135)](http://www.iep.utm.edu/epictetu/)
 -   [Egoism](http://www.iep.utm.edu/egoism/)
 -   [Existentialism](http://www.iep.utm.edu/existent/)
@@ -103,6 +106,7 @@ Links and Encyclopedia Articles
 
 -   [Absurdism](http://en.wikipedia.org/wiki/Absurdism)
 -   [Aurelius, Marcus (121-180)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
+-   [Buddhism](https://en.wikipedia.org/wiki/Buddhism)
 -   [Camus, Albert (1913-1960)](https://en.wikipedia.org/wiki/Albert_Camus)
 -   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
