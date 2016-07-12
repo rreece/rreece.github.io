@@ -27,6 +27,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
     1.  [IEP](#iep)
     1.  [Wikipedia](#wikipedia)
     1.  [Others](#others)
+-   [References](#references)
+-   [Notes](#fn1)
 
 
 Issues and Positions

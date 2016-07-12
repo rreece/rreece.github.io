@@ -52,6 +52,7 @@ discusses the epistemological foundations and limitations of science.
     1.  [IEP](#iep)
     1.  [Wikipedia](#wikipedia)
     1.  [Others](#others)
+-   [References](#references)
 -   [Notes](#fn1)
 
 

@@ -31,6 +31,8 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
     1.  [IEP](#iep)
     1.  [Wikipedia](#wikipedia)
     1.  [Others](#others)
+-   [References](#references)
+-   [Notes](#fn1)
 
 
 Issues and Positions

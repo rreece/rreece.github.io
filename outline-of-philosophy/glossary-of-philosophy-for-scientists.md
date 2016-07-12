@@ -22,6 +22,8 @@ to engaging philosophy.
     1.  [Realism](#realism)
     1.  [Relativism](#relativism)
     1.  [Structuralism](#structuralism)
+-   [References](#references)
+-   [Notes](#fn1)
 
 
 Issues and Considerations
