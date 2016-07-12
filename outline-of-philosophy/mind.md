@@ -129,6 +129,7 @@ Links and Encyclopedia Articles
 -   [Functionalism](http://plato.stanford.edu/entries/functionalism/)
 -   [Mental Causation](http://plato.stanford.edu/entries/mental-causation/)
 -   [Mental Representation](http://plato.stanford.edu/entries/mental-representation/)
+-   [Mind in Indian Buddhist Philosophy](http://plato.stanford.edu/entries/mind-indian-buddhism/)
 -   [Multiple Realizability](http://plato.stanford.edu/entries/multiple-realizability/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
 -   [Qualia: The Knowledge Argument](http://plato.stanford.edu/entries/qualia-knowledge/)
