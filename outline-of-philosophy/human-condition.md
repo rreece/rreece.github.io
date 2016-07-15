@@ -38,6 +38,11 @@ Issues and Positions
 TODO.
 
 
+### Buddhism
+
+TODO.
+
+
 ### Existentialism
 
 TODO.
@@ -105,6 +110,7 @@ Links and Encyclopedia Articles
 ### Wikipedia
 
 -   [Absurdism](http://en.wikipedia.org/wiki/Absurdism)
+-   [Akrasia](https://en.wikipedia.org/wiki/Akrasia)
 -   [Aurelius, Marcus (121-180)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism)
 -   [Camus, Albert (1913-1960)](https://en.wikipedia.org/wiki/Albert_Camus)
@@ -122,18 +128,20 @@ Links and Encyclopedia Articles
 
 ### Videos
 
--   [The School of Life: "Being A Good Listener"](https://www.youtube.com/watch?v=-BdbiZcNBXg)
--   [The School of Life: "Camus, Albert"](https://www.youtube.com/watch?v=jQOfbObFOCw)
--   [The School of Life: "Confidence"](https://www.youtube.com/watch?v=1D-vyjQIUDc)
--   [The School of Life: "Dostoyevsky, Fyodor"](https://www.youtube.com/watch?v=MMmSdxZpseY)
--   [The School of Life: "Heidegger"](https://www.youtube.com/watch?v=Br1sGrA7XTU)
--   [The School of Life: "How Romanticism Ruined Love"](https://www.youtube.com/watch?v=jltM5qYn25w)
--   [The School of Life: "Kierkegaard, Soren"](https://www.youtube.com/watch?v=D9JCwkx558o)
--   [The School of Life: "Nietzsche"](https://www.youtube.com/watch?v=wHWbZmg2hzU)
--   [The School of Life: "Sartre"](https://www.youtube.com/watch?v=3bQsZxDQgzU)
--   [The School of Life: "Self-sabotage"](https://www.youtube.com/watch?v=ni-Gqp9-Has)
--   [The School of Life: "Stoicism"](https://www.youtube.com/watch?v=yu7n0XzqtfA)
--   [The School of Life: "Tolstoy, Leo"](https://www.youtube.com/watch?v=Lr6DYLBkyG0)
--   [The School of Life: "What is an Existential Crisis?"](https://www.youtube.com/watch?v=aEzMwNBjkAU)
--   [The School of Life: "Wisdom"](https://www.youtube.com/watch?v=ox8XlcUppbo)
+[The School of Life](https://www.youtube.com/user/schooloflifechannel)
+
+-   ["Being A Good Listener"](https://www.youtube.com/watch?v=-BdbiZcNBXg)
+-   ["Camus, Albert"](https://www.youtube.com/watch?v=jQOfbObFOCw)
+-   ["Confidence"](https://www.youtube.com/watch?v=1D-vyjQIUDc)
+-   ["Dostoyevsky, Fyodor"](https://www.youtube.com/watch?v=MMmSdxZpseY)
+-   ["Heidegger"](https://www.youtube.com/watch?v=Br1sGrA7XTU)
+-   ["How Romanticism Ruined Love"](https://www.youtube.com/watch?v=jltM5qYn25w)
+-   ["Kierkegaard, Soren"](https://www.youtube.com/watch?v=D9JCwkx558o)
+-   ["Nietzsche"](https://www.youtube.com/watch?v=wHWbZmg2hzU)
+-   ["Sartre"](https://www.youtube.com/watch?v=3bQsZxDQgzU)
+-   ["Self-sabotage"](https://www.youtube.com/watch?v=ni-Gqp9-Has)
+-   ["Stoicism"](https://www.youtube.com/watch?v=yu7n0XzqtfA)
+-   ["Tolstoy, Leo"](https://www.youtube.com/watch?v=Lr6DYLBkyG0)
+-   ["What is an Existential Crisis?"](https://www.youtube.com/watch?v=aEzMwNBjkAU)
+-   ["Wisdom"](https://www.youtube.com/watch?v=ox8XlcUppbo)
 

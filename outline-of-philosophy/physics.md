@@ -335,6 +335,7 @@ Links and Encyclopedia Articles
 -   [Digital philosophy](http://en.wikipedia.org/wiki/Digital_philosophy)
 -   [Digital physics](http://en.wikipedia.org/wiki/Digital_physics)
 -   [Effective field theory](http://en.wikipedia.org/wiki/Effective_field_theory)
+-   [Einselection](https://en.wikipedia.org/wiki/Einselection)
 -   [Equivalence principle](http://en.wikipedia.org/wiki/Equivalence_principle)
 -   [Emergence](http://en.wikipedia.org/wiki/Emergence)
 -   [Entropic gravity](http://en.wikipedia.org/wiki/Entropic_gravity)
