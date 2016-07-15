@@ -1,5 +1,6 @@
 ---
 ## required meta-data -------------------------------------
+output: doc
 title: "Ryan's Selected Software Projects"
 titleshort: "Ryan's Selected Software Projects"
 subtitle: "on github"
@@ -18,6 +19,7 @@ authorshort: 'Ryan Reece'
 date: 'March 1, 2013'
 #license: '&copy; 2014-2016 Ryan Reece. All rights reserved'
 license: '<span class="copy-left">&copy;</span> 2014-2016 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)'
+dorefs: true
 ## optional -----------------------------------------------
 #abstract: |
 #    This is the abstract. This is the abstract. This is the abstract.

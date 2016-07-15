@@ -1,5 +1,6 @@
 ---
 ## required meta-data -------------------------------------
+output: doc
 title: "Ryan's chess notes"
 titleshort: "Ryan's chess notes"
 #subtitle: "Subtitle"
@@ -19,6 +20,7 @@ authorshort: "Ryan Reece"
 date: 'August 16, 2015'
 #license: '&copy; 2015-2016 Ryan Reece. All rights reserved'
 license: '<span class="copy-left">&copy;</span> 2014-2016 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)'
+dorefs: true
 ## optional -----------------------------------------------
 #abstract: |
 #    This is the abstract. This is the abstract. This is the abstract.
