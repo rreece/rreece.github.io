@@ -204,6 +204,7 @@ Links and Encyclopedia Articles
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
 -   [Miracles](http://plato.stanford.edu/entries/miracles/)
 -   [Monism](http://plato.stanford.edu/entries/monism/)
+-   [Multiple Realizability](http://plato.stanford.edu/entries/multiple-realizability/)
 -   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
 -   [Natural Law Theories](http://plato.stanford.edu/entries/natural-law-theories/)
 -   [Naturalism](http://plato.stanford.edu/entries/naturalism/)
@@ -211,12 +212,14 @@ Links and Encyclopedia Articles
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
 -   [Quine, W.V.O. (1908-2000)](http://plato.stanford.edu/entries/quine/)
+-   [Unity of Science](http://plato.stanford.edu/entries/scientific-unity/)
 
 ### IEP
 
 -   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
 -   [Atheism](http://www.iep.utm.edu/atheism/)
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
+-   [Fodor, Jerry (b. 1935)](http://www.iep.utm.edu/fodor/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
@@ -233,10 +236,12 @@ Links and Encyclopedia Articles
 
 -   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
+-   [Multiple realizability](https://en.wikipedia.org/wiki/Multiple_realizability)
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy))
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 -   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Species problem](https://en.wikipedia.org/wiki/Species_problem)
+-   [Unity of Science](https://en.wikipedia.org/wiki/Unity_of_science)
 -   [Unsolved problems in philosophy, List of](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_philosophy)
 
 ### Others
