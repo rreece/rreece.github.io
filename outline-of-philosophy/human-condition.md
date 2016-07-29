@@ -112,6 +112,8 @@ Links and Encyclopedia Articles
 -   [Absurdism](http://en.wikipedia.org/wiki/Absurdism)
 -   [Akrasia](https://en.wikipedia.org/wiki/Akrasia)
 -   [Aurelius, Marcus (121-180)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
+-   [Bad faith](https://en.wikipedia.org/wiki/Bad_faith)
+-   [Bad faith (existentialism)](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism)
 -   [Camus, Albert (1913-1960)](https://en.wikipedia.org/wiki/Albert_Camus)
 -   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
