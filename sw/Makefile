@@ -27,17 +27,16 @@ OPS_SECTION := $(if $(DOREFS),templates/refs_subsection.md templates/backmatter.
 PRINT = @echo '==>  '
 
 DATE     := $(shell date +"%a %b %d, %Y")
-#MD_FILES := $(filter-out .//README.md, $(shell find ./ -name '*.md'))
 MD_FILES := $(filter-out README.md, $(wildcard *.md))
-HTML_FILES := $(MD_FILES:%.md=%.html)
 MD_FILES := $(filter-out index.md, $(MD_FILES))
+HTML_FILES := $(MD_FILES:%.md=%.html)
 PDF_FILES := $(MD_FILES:%.md=%.pdf)
 MD_FILES_WITH_REFS := $(shell egrep -l '@' *.md)
 
 
-## MD_FILES   =            chap1.md   chap2.md   ...
-## HTML_FILES = index.html chap1.html chap2.html ...
-## PDF_FILES  =            chap1.pdf  chap2.pdf  ...
+## MD_FILES   =  chap1.md   chap2.md   ...
+## HTML_FILES =  chap1.html chap2.html ...
+## PDF_FILES  =  chap1.pdf  chap2.pdf  ...
 
 
 ##-----------------------------------------------------------------------------
@@ -48,10 +47,19 @@ default: html
 
 all: html pdf
 
-html: $(HTML_FILES)
+html: $(HTML_FILES) index.html
 	$(PRINT) "html done."
 
 pdf: $(OUTPUT).pdf
+
+index.md: $(MD_FILES)
+	if [ -f index.txt ]; \
+	then \
+		cp index.txt $@ ; \
+	else \
+		./templates/make_md_index.py --out=$@ $(MD_FILES) ; \
+	fi
+	$(PRINT) "make $@ done."
 
 index.html: index.md meta.yaml
 	pandoc \
@@ -63,11 +71,13 @@ index.html: index.md meta.yaml
 		--variable=css:templates/markdown-memo.css \
 		--template=./templates/index_template.html \
 		-o $@ $< meta.yaml
+	$(PRINT) "make $@ done."
 
 $(OUTPUT).html: $(MD_FILES) mybib.bib meta.yaml
 	pandoc \
 		-t html \
 		--ascii \
+		--number-sections \
 		--standalone \
 		--smart \
 		--variable=date-meta:"$(DATE)" \
@@ -212,19 +222,19 @@ $(OUTPUT).tex: $(MD_FILES) mybib.bib meta.yaml
 
 mybib.bib: $(MD_FILES)
 	cat bibs/*.bib > mybib.bib
-	$(PRINT) "mybib.bib done."
+	$(PRINT) "make $@ done."
 
 # JUNK = *.aux *.log *.bbl *.blg *.brf *.cb *.ind *.idx *.ilg *.inx *.dvi *.toc *.out *~ ~* spellTmp *.lot *.lof *.ps *.d
 JUNK = *.mds *.htmls *.tex *.aux *.dvi *.fdb_latexmk *.fls *.log *.out *.toc *.bib *.tmp
-OUTS = *.html *.pdf
+OUTS = *.html *.pdf index.md
 
 clean:
 	rm -f $(JUNK)
-	$(PRINT) "clean done."
+	$(PRINT) "make $@ done."
 
 realclean: clean
 	rm -f $(OUTS)
-	$(PRINT) "realclean done."
+	$(PRINT) "make $@ done."
 
 over: realclean default
 
