@@ -95,7 +95,7 @@ def main():
                 id      = reo.group(2)
                 name    = reo.group(3)
                 if level == 1:
-                    f_out.write('%s1.  [%s](%s.html)\n' % ('    '*(level-1), name, root) )
+                    f_out.write('%s1.  **[%s](%s.html)**\n' % ('    '*(level-1), name, root) )
                 else:
                     f_out.write('%s1.  [%s](%s.html#%s)\n' % ('    '*(level-1), name, root, id ) )
         f_in.close()
