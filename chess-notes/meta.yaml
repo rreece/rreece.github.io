@@ -18,8 +18,10 @@ author:
 #        [^JoeCoauthor]: Joe University, Joeville
 authorshort: "Ryan Reece"
 date: 'August 16, 2015'
-#license: '&copy; 2015-2016 Ryan Reece. All rights reserved'
-license: '<span class="copy-left">&copy;</span> 2014-2016 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)'
+draft: false
+#license: ''
+#license: '&copy; 2015-2016 Ryan Reece. All rights reserved.'
+license: '<span class="copy-left">&copy;</span> 2014-2016 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).'
 dorefs: true
 ## optional -----------------------------------------------
 #abstract: |
