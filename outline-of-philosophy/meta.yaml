@@ -21,7 +21,7 @@ draft: false
 #license: ''
 license: '&copy; 2014-2016 Ryan Reece. All rights reserved.'
 #license: '<span class="copy-left">&copy;</span> 2015-2016 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).'
-dorefs: true
+dorefs: false
 ## optional -------------------------------------
 #abstract: |
 #    This is the abstract. This is the abstract. This is the abstract.
