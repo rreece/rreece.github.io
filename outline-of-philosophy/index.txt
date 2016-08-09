@@ -9,15 +9,15 @@ All the following are in flux and development:
 
 1.  [Invitation to scientific philosophy](invitation.html) -- a place to start in the discussion of philosophy of science and naturalism.
 1.  [The scientific method](scientific-method.html) -- the key to epistemology.
-1.  [Philosophy of statistics](statistics.html)
+1.  [Philosophy of statistics](statistics.html)  -- the details behind a justified epistemology.
 1.  [Scientific realism](scientific-realism.html) -- the key to metaphysics.
 1.  [Naturalism](naturalism.html) -- a metaphilosophy that says science should bootstrap philosophy.
-1.  [Philosophy of mathematics](math.html)
-1.  [Philosophy of physics](physics.html)
-1.  [Philosophy of mind](mind.html)
-1.  [Ethics](ethics.html)
-1.  [The human condition](human-condition.html)
-1.  [Philosophy of the future](future.html)
+1.  [Philosophy of mathematics](math.html) -- What is abstraction?
+1.  [Philosophy of physics](physics.html) -- What are good theories of the world?
+1.  [Philosophy of mind](mind.html) -- What is consciousness?
+1.  [Ethics](ethics.html) -- What should we do?
+1.  [The human condition](human-condition.html) -- What are we?
+1.  [Philosophy of the future](future.html) -- Where are we going?
 
 
 ### Note this is under construction
