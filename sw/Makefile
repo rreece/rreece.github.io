@@ -68,7 +68,7 @@ index.md: $(MD_FILES)
 	then \
 		cp index.txt $@ ; \
 	else \
-		python templates/make_md_index.py --out=$@ $(MD_FILES) ; \
+		python templates/make_index_md.py --out=$@ $(MD_FILES) ; \
 	fi
 	$(PRINT) "make $@ done."
 
@@ -233,6 +233,10 @@ bibs/mybib.bib: $(BIB_TXT_FILES)
 	fi
 	$(PRINT) "make $@ done."
 
+bib_index.md: bibs/mybib.bib
+	@python templates/make_bib_index_md.py --out=$@ $<
+	$(PRINT) "make $@ done."
+
 wordcount/wc.csv: $(MD_FILES) $(OUTPUT).pdf
 	@if [ ! -d wordcount ]; \
 	then \
@@ -289,7 +293,7 @@ wordcount/wc.csv: $(MD_FILES) $(OUTPUT).pdf
 
 ##-----------------------------------------------------------------------------
 # JUNK = *.aux *.log *.bbl *.blg *.brf *.cb *.ind *.idx *.ilg *.inx *.dvi *.toc *.out *~ ~* spellTmp *.lot *.lof *.ps *.d
-JUNK = *.mds *.htmls *.tex *.aux *.dvi *.fdb_latexmk *.fls *.log *.out *.toc *.tmp *-tmp.html index.md
+JUNK = *.mds *.htmls *.tex *.aux *.dvi *.fdb_latexmk *.fls *.log *.out *.toc *.tmp *-tmp.html index.md bib_index.md
 OUTS = *.html *.pdf bibs/*.bib
 
 clean:
