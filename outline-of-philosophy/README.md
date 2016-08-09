@@ -8,3 +8,12 @@ Ryan Reece  <ryan.reece@cern.ch>
 
 Copyright 2013-2015.  All rights reserved.
 
+
+Word count
+----------------------------------
+
+![my pages](wordcount/pages.png)
+
+![my words](wordcount/words.png)
+
+
