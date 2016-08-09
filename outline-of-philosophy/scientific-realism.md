@@ -721,6 +721,7 @@ Links and Encyclopedia Articles
 -   [Rorty, Richard (1931-2007)](http://plato.stanford.edu/entries/rorty/)
 -   [Scientific Discovery](http://plato.stanford.edu/entries/scientific-discovery/)
 -   [Scientific Explanation](http://plato.stanford.edu/entries/scientific-explanation/)
+-   [Scientific Objectivity](http://plato.stanford.edu/entries/scientific-objectivity/)
 -   [Scientific Progress](http://plato.stanford.edu/entries/scientific-progress/)
 -   [Scientific Realism](http://plato.stanford.edu/entries/scientific-realism/)
 -   [Scientific Reduction](http://plato.stanford.edu/entries/scientific-reduction/)
