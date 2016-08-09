@@ -12,7 +12,7 @@ author:
 #
 #        [^JoeCoauthor]: Joe University, Joeville
 authorshort: "Ryan Reece"
-date: 'December 28, 2014'
+date: \today
 draft: false
 #license: ''
 #license: '&copy; 2015-2016 Ryan Reece. All rights reserved.'
