@@ -9,6 +9,8 @@
 -   #cccccc - light gray - quote block, caption
 -   white   - ...
 
+-   #cccccc
+
     font-family: Verdana, Helvetica, Arial, sans-serif;
     font-family: Georgia, Palatino, serif;
     font-family: Consolas, Monaco, "Andale Mono", monospace;
@@ -18,13 +20,13 @@
 * { margin: 0; border: 0; padding: 0; }
 
 body {
-    background: white;
+    background: #cccccc;
     margin-top: 0;
     margin-right: auto;
     margin-bottom: 20px;
-    margin-left: auto;
-    padding: 20px;
-    width: 700px;
+    margin-left: 0;
+    padding: 20px 0;
+    width: auto;
     font-family: Georgia, Palatino, serif;
     color: #444444;
     line-height: 1;
@@ -36,7 +38,7 @@ p, ol, ul {
     margin-bottom: 16px;
     border: 0;
     padding: 0;
-    max-width: 700px;
+    max-width: 1000px;
     font-size: 16px;
     line-height: 22px;
 }
@@ -109,7 +111,7 @@ div#site_header {
     display:block;
     clear: both;
     width: auto;
-    margin-top: 36px;
+    margin-top: 0;
     margin-bottom: 24px;
     border-top: 2px solid #444444;
     border-bottom: 2px solid #444444;
@@ -211,7 +213,7 @@ pre {
     border-bottom: 2px solid #cccccc;
     border-left: 2px solid black;
     padding: 10px 10px;
-    max-width: 700px;
+    max-width: 1000px;
     white-space: pre-wrap;
     background-color: #444444;
     color: white;
@@ -220,7 +222,7 @@ code {
     font-family: Consolas, Monaco, "Andale Mono", monospace;
     line-height: 16px;
     font-size: 12px;
-    max-width: 700px;
+    max-width: 1000px;
     text-align: left;
 }
 blockquote {
@@ -229,7 +231,7 @@ blockquote {
     padding:0;
     border-left:12px solid #cccccc;
     padding-left:24px;
-    max-width: 700px;
+    max-width: 1000px;
     color: black;
     text-align: justify;
 }
@@ -246,7 +248,6 @@ hr {
     color: #444444;
     background-color: #444444;
     height: 2px; 
-    max-width: 700px;
     text-align: left;
 }
 
@@ -254,8 +255,8 @@ hr {
 /* img ---------------------------------------------------------- */
 img {
     display: block;
-    max-width:  700px;
-    max-height: 525px;
+    max-width:  1000px;
+    max-height: 500px;
     margin-top: 8px;
     margin-bottom: 8px;
     margin-left: auto;
@@ -291,14 +292,16 @@ td {
 div#mainbody
 {
 /*    float: left;*/
+    padding: 10px;
 }
 
 /* nav ---------------------------------------------------------- */
 div.nav
 {
-    float: right;
+    display: block;
+    /*float: right;*/
     font-family: Consolas, Monaco, "Andale Mono", monospace;
-    margin-top: 10px;
+    margin-top: 0;
     margin-bottom: 10px;
     margin-left: 0;
     margin-right: 0;
@@ -402,7 +405,7 @@ a.footnoteRef sup {
 
 .block
 {
-    display:block;
+    display: block;
     clear: both;
     width: auto;
     margin-top: 36px;
