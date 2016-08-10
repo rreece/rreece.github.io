@@ -40,6 +40,7 @@ figPrefix: "Figure"
 eqnPrefix: "eq."
 tblPrefix: "Table"
 ## html options -------------------------------------------
+css: 'templates/markdown-memo.css'
 email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
 #disqus: true
 #disqus_shortname: 'my-sites-disqus-name'
