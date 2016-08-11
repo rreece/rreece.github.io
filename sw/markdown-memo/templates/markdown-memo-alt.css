@@ -115,7 +115,7 @@ div#site_header {
     width: auto;
     margin: 0;
     border: 0;
-    padding: 4px 10px;
+    padding: 8px 10px;
 }
 
 div#site_header a {
@@ -125,7 +125,7 @@ div#site_header a {
 
 div#site_footer {
     font-size: 16px;
-    color: black;
+    color: #cccccc;
     /* set same as .block class bellow */
     display:block;
     clear: both;
@@ -136,15 +136,29 @@ div#site_footer {
     padding: 4px 10px;
 }
 
+div#site_footer p {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
 div#site_footer img {
     display: inline;
     margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+div#site_footer a:visited {
+    color: #0099ff;
+}
+
+div#site_footer a:hover {
+    color: red;
 }
 
 img.email {
-    display: inline;
-    margin: 0;
-    vertical-align: text-bottom;
+    /*vertical-align: text-bottom;*/
 }
 
 div#disqus_stuff {
@@ -292,8 +306,8 @@ td {
 /* mainbody ---------------------------------------------------------- */
 div#mainbody
 {
+/*    background: white;*/
     background: #cccccc;
-/*    float: left;*/
     padding: 10px;
 }
 
@@ -306,7 +320,7 @@ div.nav
     border: 0;
     padding: 5px 10px;
     font-family: Consolas, Monaco, "Andale Mono", monospace;
-    color: black;
+    color: #cccccc;
 }
 
 div.nav ul
@@ -320,6 +334,7 @@ div.nav ul
 
 div.nav ul li
 {
+    display: inline;
     margin-top: 2px;
     margin-bottom: 2px;
     margin-left: 16px;

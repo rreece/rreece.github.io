@@ -137,16 +137,36 @@ div#site_footer {
     padding-bottom: 4px;
 }
 
+div#site_footer p {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
 div#site_footer img {
     display: inline;
     margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+div#site_footer a:visited {
+    color: #0099ff;
+}
+
+div#site_footer a:hover {
+    color: red;
 }
 
 img.email {
-    display: inline;
-    margin: 0;
-    vertical-align: text-bottom;
+    /*vertical-align: text-bottom;*/
 }
+
+/*
+div#disqus_stuff {
+    padding: 4px 10px;
+}
+*/
 
 
 /* headers ------------------------------------------------------- */
@@ -312,15 +332,14 @@ div.nav ul
     border: 0;
     padding: 0;
     font-size: 12px;
-    list-style-type: square;
+    list-style: none;
+    /*list-style-type: square;*/
 }
 
 div.nav ul li
 {
-    margin-top: 2px;
-    margin-bottom: 2px;
-    margin-left: 16px;
-    margin-right: 5px;
+    display: inline;
+    margin: 2px 4px;
     padding: 0;
     text-transform: lowercase;
 }
