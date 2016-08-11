@@ -705,7 +705,6 @@ Links and Encyclopedia Articles
 -   [Mechanisms in Science](http://plato.stanford.edu/entries/science-mechanisms/)
 -   [Metaphysics](http://plato.stanford.edu/entries/metaphysics/)
 -   [Metaphysical Grounding](http://plato.stanford.edu/entries/grounding/)
--   [Metaphysical Grounding](http://plato.stanford.edu/entries/grounding/)
 -   [Models in Science](http://plato.stanford.edu/entries/models-science/)
 -   [Naturalism](http://plato.stanford.edu/entries/naturalism/)
 -   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
