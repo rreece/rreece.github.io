@@ -1,0 +1,258 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="R. Reece and J. Coauthor" />
+  <meta name="date" content="Thu Aug 11, 2016" />
+  <title>Basics - This is the title: it contains a colon</title>
+  <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
+
+
+<!--- MathJax stuff -->
+<script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
+</script>
+
+<!--- toggle_more function  -->
+<script type="text/javascript">
+    //<![CDATA[
+    function toggle_more(objID) {
+        if (!document.getElementById) return;
+        var ob = document.getElementById(objID).style;
+        ob.display = (ob.display == 'block')?'none':'block';
+        var ob2 = document.getElementById('link:'+objID);
+        ob2.className = (ob2.className == 'open') ? 'closed' : 'open';
+    }
+    //]]>
+</script>
+
+</head>
+
+<body>
+
+<div id="site_header">
+    <a href="./">This is the title: it contains a colon</a>
+</div>
+
+<!--
+<div id="beforebody">
+</div>
+-->
+
+<div class="nav">
+<ul>
+    <li> <a href="./">Go back to the Table of Contents</a> </li>
+</ul>
+</div>
+
+<div id="mainbody">
+
+<h1 id="basics">Basics</h1>
+<h2 id="checking-out-the-template">Checking-out the template</h2>
+<p>Checking out markdown-memo with a simple git command, like:</p>
+<pre><code>git clone https://github.com/rreece/markdown-memo.git</code></pre>
+<h2 id="starting-a-page-or-section">Starting a page or section</h2>
+<p>Just open or create a first <code>md</code> file in that directory like <code>01-introduction.md</code>, and start typing. Each file should probably correspond to a webpage or section in the document, and in that case, it should begin with an <code>h1</code>-level heading (section), denoted with a double-rule of equal-signs, like:</p>
+<pre><code>Section title
+===============================================================================</code></pre>
+<p>Or marked like this:</p>
+<pre><code># Section title</code></pre>
+<p>Then you can have sub-sections as you wish, and/or just start typing the main text:</p>
+<pre><code>Sub-section title
+-------------------------------------------------------------------------------</code></pre>
+<p>Or</p>
+<pre><code># Section title
+
+## Sub-section title
+
+Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque.
+Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip
+accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax
+an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed,
+at falli feugiat est.</code></pre>
+<h2 id="basic-typesetting">Basic typesetting</h2>
+<p>URLs are done like this:</p>
+<pre><code>[Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)</code></pre>
+<p><a href="https://en.wikipedia.org/wiki/Lorem_ipsum">Lorem ipsum</a></p>
+<h3 id="lists">Lists</h3>
+<p>Unnumbered lists like this:</p>
+<pre><code>-   Galileo Galilei
+-   Robert G. Ingersoll
+-   Jill Tarter</code></pre>
+<ul>
+<li>Galileo Galilei</li>
+<li>Robert G. Ingersoll</li>
+<li>Jill Tarter</li>
+</ul>
+<p>Numbered lists like this:</p>
+<pre><code>1.  Na&amp;iuml;ve realists
+1.  Scientific realists
+1.  Constructive empiricists
+1.  Positivists
+1.  Relativists</code></pre>
+<ol style="list-style-type: decimal">
+<li>Na&#239;ve realists</li>
+<li>Scientific realists</li>
+<li>Constructive empiricists</li>
+<li>Positivists</li>
+<li>Relativists</li>
+</ol>
+<h3 id="blocks">Blocks</h3>
+<p>The following is a quote block.</p>
+<pre><code>&gt;   It ain&#39;t what you don&#39;t know that gets you into trouble. It&#39;s what you know for sure that just ain&#39;t so.  
+
+-- Mark Twain</code></pre>
+<blockquote>
+<p>It ain&#8217;t what you don&#8217;t know that gets you into trouble. It&#8217;s what you know for sure that just ain&#8217;t so.</p>
+</blockquote>
+<p>&#8211; Mark Twain</p>
+<p>A code block (used throughout these examples) is just indented with 4 spaces, like this:</p>
+<pre><code>    def shortBubbleSort(alist):
+        exchanges = True
+        passnum = len(alist)-1
+        while passnum &gt; 0 and exchanges:
+           exchanges = False
+           for i in range(passnum):
+               if alist[i]&gt;alist[i+1]:
+                   exchanges = True
+                   temp = alist[i]
+                   alist[i] = alist[i+1]
+                   alist[i+1] = temp
+           passnum = passnum-1
+
+    alist=[20,30,40,90,50,60,70,80,100,110]
+    shortBubbleSort(alist)
+    print(alist)</code></pre>
+<p>which makes:</p>
+<pre><code>def shortBubbleSort(alist):
+    exchanges = True
+    passnum = len(alist)-1
+    while passnum &gt; 0 and exchanges:
+       exchanges = False
+       for i in range(passnum):
+           if alist[i]&gt;alist[i+1]:
+               exchanges = True
+               temp = alist[i]
+               alist[i] = alist[i+1]
+               alist[i+1] = temp
+       passnum = passnum-1
+
+alist=[20,30,40,90,50,60,70,80,100,110]
+shortBubbleSort(alist)
+print(alist)</code></pre>
+<p>Maybe you want to refer to code inline like this with backticks:</p>
+<pre><code>Here&#39;s some inline code: `vec.push_back(3.14)`.</code></pre>
+<p>Here&#8217;s some inline code: <code>vec.push_back(3.14)</code>.</p>
+<h3 id="fonts">Fonts</h3>
+<pre><code>-   *This is emphasis.*
+-   **This is bold.**
+-   _This is also emphasis._
+-   __This is also bold.__
+-   ~~This is struck-out.~~</code></pre>
+<p>produces:</p>
+<ul>
+<li><em>This is emphasis.</em></li>
+<li><strong>This is bold.</strong></li>
+<li><em>This is also emphasis.</em></li>
+<li><strong>This is also bold.</strong></li>
+<li><del>This is struck-out.</del></li>
+</ul>
+<p>Don&#8217;t do this. These will work in LaTeX () but may not in html.</p>
+<pre><code>-   \textsf{This should be Sans.}
+-   \textsc{This Should BE SMALL caps.}
+-   $\textsf{This works though!}$
+-   $\textsc{But this does not!}$</code></pre>
+<p>produces:</p>
+<ul>
+<li></li>
+<li></li>
+<li><span class="math inline">\(\textsf{This works though!}\)</span></li>
+<li><span class="math inline">\(\textsc{But this does not!}\)</span></li>
+</ul>
+<h2 id="footnotes-and-citations">Footnotes and citations</h2>
+<pre><code>Here&#39;s how you do a footnote[^SomeSpecialNote].
+
+[^SomeSpecialNote]: Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque.
+    Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip
+    accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax
+    an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed,
+    at falli feugiat est.</code></pre>
+<p>produces:</p>
+<p>Here&#8217;s how you do a footnote<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>.</p>
+<p>References start with an <code>@</code>-sign, and can be used inline, like:</p>
+<pre><code>@Miller_2014_Realism argues that we should get real.</code></pre>
+<p>which produces:</p>
+<p><span class="citation">Miller (2014)</span> argues that we should get real.</p>
+<p>Inside a caption, you may want to end it with the citation in parentheses like this:</p>
+<pre><code>Blah blah blah [@Feynman_1963_The_Feynman_Lectures_on_Physics_Volume_I]\.</code></pre>
+<p>which produces:</p>
+<p>Blah blah blah <span class="citation">(R. Feynman, 1963)</span>.</p>
+<p>Typically, I find it better to leave citations<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a> in footnotes to keep from cluttering the main text. Let&#8217;s try citing various kinds of references. Feynman said some important things<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>. But everything is a footnote to Plato<a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a>. Van<a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a> is a cool cat too.</p>
+<h2 id="references">References</h2>
+<p>   </p>
+<div class="references">
+<div id="ref-Feynman_1963_The_Feynman_Lectures_on_Physics_Volume_I">
+<p>Feynman, R. (1963). <em>The Feynman Lectures on Physics, Volume I</em>. California Institute of Technology. <a href="http://www.feynmanlectures.caltech.edu/I_03.html" class="uri">http://www.feynmanlectures.caltech.edu/I_03.html</a></p>
+</div>
+<div id="ref-Feynman_1965_The_Development_of_the_Space_Time_View_of_Quantum">
+<p>Feynman, R. P. (1965). The Development of the Space-Time View of Quantum Electrodynamics. Nobel Lecture, December 11, 1965. /laureates/1965/feynman-lecture.html. <a href="http://www.nobelprize.org/nobel_prizes/physics" class="uri">http://www.nobelprize.org/nobel_prizes/physics</a></p>
+</div>
+<div id="ref-Miller_2014_Realism">
+<p>Miller, A. (2014). Realism. <em>Stanford Encyclopedia of Philosophy</em>. <a href="http://plato.stanford.edu/entries/realism/" class="uri">http://plato.stanford.edu/entries/realism/</a></p>
+</div>
+<div id="ref-Plato_2000_The_Republic">
+<p>Plato. (2000). <em>The Republic</em>. (T. Griffith, Trans., G. Ferrari, Ed.). Cambridge: Cambridge University Press. (Originally written ca. 360 BCE.).</p>
+</div>
+<div id="ref-Quine_1969_Natural_kinds">
+<p>Quine, W. V. O. (1969). Natural kinds. In <em>Ontological Relativity and Other Essays</em>. New York: Columbia University Press.</p>
+</div>
+<div id="ref-vanFraassen_1980_The_Scientific_Image">
+<p>van Fraassen, B. (1980). <em>The Scientific Image</em>. Oxford: Oxford University Press.</p>
+</div>
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque. Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed, at falli feugiat est.<a href="#fnref1">&#8617;</a></p></li>
+<li id="fn2"><p><span class="citation">Quine (1969)</span>.<a href="#fnref2">&#8617;</a></p></li>
+<li id="fn3"><p><span class="citation">R. P. Feynman (1965)</span>.<a href="#fnref3">&#8617;</a></p></li>
+<li id="fn4"><p><span class="citation">Plato (2000)</span>.<a href="#fnref4">&#8617;</a></p></li>
+<li id="fn5"><p><span class="citation">van Fraassen (1980)</span>.<a href="#fnref5">&#8617;</a></p></li>
+</ol>
+</div>
+
+</div> <!-- end mainbody -->
+
+<div class="nav">
+<ul>
+    <li> <a href="#site_header">Go back to the top</a> </li>
+    <li> <a href="./">Go back to the Table of Contents</a> </li>
+</ul>
+</div>
+
+<!--
+<div id="afterbody">
+</div>
+-->
+
+<div id="site_footer">
+  <div class="signature">
+    <i>R. Reece and J. Coauthor</i> <br/>
+    <img class="email" src="img/my_email.png" alt="my email address"/> <br/>
+    Thu Aug 11, 2016
+  </div>
+  <div class="license">
+     <span class="copy-left">&#169;</span> 2015-2016 Ryan Reece. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.<br/> 
+    Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.
+  </div>
+  <div style="clear:both;"></div>
+</div>
+
+
+</body>
+</html>
+

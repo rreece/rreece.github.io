@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="R. Reece and J. Coauthor" />
+  <meta name="date" content="Thu Aug 11, 2016" />
+  <title>This is the title: it contains a colon</title>
+  <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
+
+
+<!--- MathJax stuff -->
+<script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
+</script>
+
+<!--- toggle_more function  -->
+<script type="text/javascript">
+    //<![CDATA[
+    function toggle_more(objID) {
+        if (!document.getElementById) return;
+        var ob = document.getElementById(objID).style;
+        ob.display = (ob.display == 'block')?'none':'block';
+        var ob2 = document.getElementById('link:'+objID);
+        ob2.className = (ob2.className == 'open') ? 'closed' : 'open';
+    }
+    //]]>
+</script>
+
+</head>
+
+<body>
+
+<!---
+<div id="site_header">
+</div>
+-->
+
+<hr/>
+<!--
+<div id="beforebody">
+</div>
+-->
+
+<div id="mainbody">
+
+<!--- NOTE: h1 already included. Start writing index.md with an h2 -->
+<h1>This is the title: it contains a colon</h1>
+
+<p class="subtitle">This is the subtitle</p>
+
+<div class="authors">
+<p><a href="http://reece.scipp.ucsc.edu/">Ryan Reece</a><a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a></p>
+<p>Joe Coauthor<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a></p>
+</div>
+
+<div class="abstract">
+<p>This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract.</p>
+<p>This is the second paragraph in the abstract. This is the second paragraph in the abstract. This is the second paragraph in the abstract.</p>
+<p><em>Keywords:</em> quantum field theory, QFT, quantization, second quantization, wave-particle duality</p>
+</div>
+
+<h2 id="contents">Contents</h2>
+<ol style="list-style-type: decimal">
+<li><strong><a href="01-introduction.html">Introduction</a></strong></li>
+<li><strong><a href="02-basics.html">Basics</a></strong>
+<ol style="list-style-type: decimal">
+<li><a href="02-basics.html#checking-out-the-template">Checking-out the template</a></li>
+<li><a href="02-basics.html#starting-a-page-or-section">Starting a page or section</a></li>
+<li><a href="02-basics.html#basic-typesetting">Basic typesetting</a>
+<ol style="list-style-type: decimal">
+<li><a href="02-basics.html#lists">Lists</a></li>
+<li><a href="02-basics.html#blocks">Blocks</a></li>
+<li><a href="02-basics.html#fonts">Fonts</a></li>
+</ol></li>
+<li><a href="02-basics.html#footnotes-and-citations">Footnotes and citations</a></li>
+</ol></li>
+<li><strong><a href="03-math.html">Mathematical expressions</a></strong>
+<ol style="list-style-type: decimal">
+<li><a href="03-math.html#typestting-math">Typestting math</a></li>
+<li><a href="03-math.html#mathjax">Mathjax</a></li>
+</ol></li>
+<li><strong><a href="04-figs-tables.html">Floats, Figures, and Tables</a></strong>
+<ol style="list-style-type: decimal">
+<li><a href="04-figs-tables.html#figures">Figures</a></li>
+<li><a href="04-figs-tables.html#tables">Tables</a></li>
+</ol></li>
+<li><strong><a href="05-conclusions.html">Conclusions</a></strong></li>
+<li><strong><a href="06-acknowledgements.html">Acknowledgements</a></strong></li>
+<li><strong><a href="07-appendix-a.html">My appendix</a></strong></li>
+</ol>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>University of California, Santa Cruz / <script type="text/javascript">
+<!--
+h='&#x63;&#x65;&#114;&#110;&#46;&#x63;&#104;';a='&#64;';n='&#114;&#x79;&#x61;&#110;&#46;&#114;&#x65;&#x65;&#x63;&#x65;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#114;&#x79;&#x61;&#110;&#46;&#114;&#x65;&#x65;&#x63;&#x65;&#32;&#x61;&#116;&#32;&#x63;&#x65;&#114;&#110;&#32;&#100;&#x6f;&#116;&#32;&#x63;&#104;</noscript> / <a href="http://reece.scipp.ucsc.edu" class="uri">http://reece.scipp.ucsc.edu</a><a href="#fnref1">&#8617;</a></p></li>
+<li id="fn2"><p>Joe University, Joeville<a href="#fnref2">&#8617;</a></p></li>
+</ol>
+</div>
+
+</div> <!-- end mainbody -->
+
+<!--
+<div id="afterbody">
+</div>
+-->
+
+<div id="site_footer">
+  <div class="signature">
+    <i>R. Reece and J. Coauthor</i><br/>
+    <img class="email" src="img/my_email.png" alt="my email address"/><br/>
+    Thu Aug 11, 2016
+  </div>
+  <div class="license">
+     <span class="copy-left">&#169;</span> 2015-2016 Ryan Reece. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.<br/> 
+    Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.
+  </div>
+  <div style="clear:both;"></div>
+</div>
+
+
+</body>
+</html>
+

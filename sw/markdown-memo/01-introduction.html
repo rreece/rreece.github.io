@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="R. Reece and J. Coauthor" />
+  <meta name="date" content="Thu Aug 11, 2016" />
+  <title>Introduction - This is the title: it contains a colon</title>
+  <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
+
+
+<!--- MathJax stuff -->
+<script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
+</script>
+
+<!--- toggle_more function  -->
+<script type="text/javascript">
+    //<![CDATA[
+    function toggle_more(objID) {
+        if (!document.getElementById) return;
+        var ob = document.getElementById(objID).style;
+        ob.display = (ob.display == 'block')?'none':'block';
+        var ob2 = document.getElementById('link:'+objID);
+        ob2.className = (ob2.className == 'open') ? 'closed' : 'open';
+    }
+    //]]>
+</script>
+
+</head>
+
+<body>
+
+<div id="site_header">
+    <a href="./">This is the title: it contains a colon</a>
+</div>
+
+<!--
+<div id="beforebody">
+</div>
+-->
+
+<div class="nav">
+<ul>
+    <li> <a href="./">Go back to the Table of Contents</a> </li>
+</ul>
+</div>
+
+<div id="mainbody">
+
+<h1 id="introduction">Introduction</h1>
+<p>TODO: explain the vision.</p>
+<ul>
+<li>Explain the use cases.</li>
+<li>Explain <a href="https://daringfireball.net/projects/markdown/">markdown</a>.</li>
+<li>Explain <a href="http://pandoc.org/">pandoc</a>.</li>
+<li>Explain <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.</li>
+</ul>
+
+</div> <!-- end mainbody -->
+
+<div class="nav">
+<ul>
+    <li> <a href="#site_header">Go back to the top</a> </li>
+    <li> <a href="./">Go back to the Table of Contents</a> </li>
+</ul>
+</div>
+
+<!--
+<div id="afterbody">
+</div>
+-->
+
+<div id="site_footer">
+  <div class="signature">
+    <i>R. Reece and J. Coauthor</i> <br/>
+    <img class="email" src="img/my_email.png" alt="my email address"/> <br/>
+    Thu Aug 11, 2016
+  </div>
+  <div class="license">
+     <span class="copy-left">&#169;</span> 2015-2016 Ryan Reece. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.<br/> 
+    Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.
+  </div>
+  <div style="clear:both;"></div>
+</div>
+
+
+</body>
+</html>
+
