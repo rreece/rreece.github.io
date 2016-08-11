@@ -49,6 +49,7 @@ description: "Ryan Reece's outline of philosophy"
 keywords: 'Ryan Reece, outline of philosophy, physics, data analysis, philosophy, science, philosophy of science'
 google_analytics_tracking_id: 'UA-55199032-1'
 mathjax: true
+navigation: true
 # pdflatex options ----------------------------------
 classoption:
     -   'openany'
