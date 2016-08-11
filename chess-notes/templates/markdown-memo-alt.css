@@ -306,8 +306,8 @@ td {
 /* mainbody ---------------------------------------------------------- */
 div#mainbody
 {
-/*    background: white;*/
-    background: #cccccc;
+    background: white;
+/*    background: #cccccc;*/
     padding: 10px;
 }
 
