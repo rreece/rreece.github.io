@@ -298,6 +298,7 @@ Links and Encyclopedia Articles
 -   [Quantum Logic and Probability Theory](http://plato.stanford.edu/entries/qt-quantlog/)
 -   [Quantum Mechanics](http://plato.stanford.edu/entries/qm/)
 -   [Relational Quantum Mechanics](http://plato.stanford.edu/entries/qm-relational/)
+-   [Philosophical Issues in Quantum Theory](http://plato.stanford.edu/entries/qt-issues/)
 -   [Statistical mechanics, Philosophy of](http://plato.stanford.edu/entries/statphys-statmech/)
 -   [Supertasks](http://plato.stanford.edu/entries/spacetime-supertasks/)
 -   [Symmetry and Symmetry Breaking](http://plato.stanford.edu/entries/symmetry-breaking/)
