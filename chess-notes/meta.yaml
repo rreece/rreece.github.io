@@ -46,6 +46,7 @@ email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http:
 #keywords: 'List, some, keywords, for, this, webpage'
 google_analytics_tracking_id: 'UA-55199032-1'
 #mathjax: true
+navigation: true
 ## pdflatex options ---------------------------------------
 classoption:
     -   'openany'

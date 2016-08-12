@@ -48,6 +48,7 @@ description: "Ryan Reece's philosophy reading list."
 keywords: 'Ryan Reece, philosophy, philosophy of science, phyisics, phyisics of phyisics'
 google_analytics_tracking_id: 'UA-55199032-1'
 #mathjax: true
+navigation: false
 ## pdflatex options ---------------------------------------
 classoption:
     -   'openany'
