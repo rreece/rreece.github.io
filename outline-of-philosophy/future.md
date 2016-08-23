@@ -111,4 +111,6 @@ Links and Encyclopedia Articles
 
 ### Others
 
+-   [Carroll, S. (2016). Maybe we do not live in a computer simulation](http://www.preposterousuniverse.com/blog/2016/08/22/maybe-we-do-not-live-in-a-simulation-the-resolution-conundrum/)
+
 

@@ -711,6 +711,7 @@ Links and Encyclopedia Articles
 -   [Natural Law Theories](http://plato.stanford.edu/entries/natural-law-theories/)
 -   [Natural/Non-natural distinction in Lewis' metaphysics](http://plato.stanford.edu/entries/lewis-metaphysics/natural-distinction.html)
 -   [Neurath, Otto (1882-1945)](http://plato.stanford.edu/entries/neurath/)
+-   [Ontological Dependence](http://plato.stanford.edu/entries/dependence-ontological/)
 -   [Peirce, Charles Sanders (1839-1914)](http://plato.stanford.edu/entries/peirce/)
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
 -   [Pragmatism](http://plato.stanford.edu/entries/pragmatism/)
