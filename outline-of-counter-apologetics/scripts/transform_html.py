@@ -128,12 +128,21 @@ def main():
 
 #______________________________________________________________________________
 def make_navigation(filename):
-    mds = glob.glob('*.md')
-    if 'index.md' in mds:
-        mds.remove('index.md')
-    if 'README.md' in mds:
-        mds.remove('README.md')
-    mds.sort()
+    mds = list()
+    if os.path.isfile('order.txt'):
+        f_order = open('order.txt')
+        for line in f_order:
+            line = line.split('#')[0].strip() # remove comments
+            if line:
+                mds.append(line)
+        f_order.close()
+    else:
+        mds = glob.glob('*.md')
+        if 'index.md' in mds:
+            mds.remove('index.md')
+        if 'README.md' in mds:
+            mds.remove('README.md')
+        mds.sort()
 
     prv = None
     nxt = None
