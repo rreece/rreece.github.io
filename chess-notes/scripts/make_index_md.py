@@ -63,6 +63,8 @@ def options():
             help='A positional argument.')
     parser.add_argument('-1', '--ignoreone',  default=False,  action='store_true',
             help="Some toggle option.")
+    parser.add_argument('-4', '--ignorefour',  default=False,  action='store_true',
+            help="Some toggle option.")
     parser.add_argument('-c', '--contents',  default=False,  action='store_true',
             help="Some toggle option.")
     parser.add_argument('-o', '--out',  default='index.md', type=str,
@@ -79,7 +81,8 @@ def main():
     infiles = ops.infiles
     out = ops.out
 
-    rep = r'<h([1-6])\s+[^>]*id="([\w\-]+)"[^>]*>([^<]+)<\/h[1-6]>'
+#    rep = r'<h([1-6])\s+[^>]*id="([\w\.\-]+)"[^>]*>([^<]+)<\/h[1-6]>'
+    rep = r'<h([1-6])\s+[^>]*id="([\w\.\-]+)"[^>]*>(.+)<\/h[1-6]>'
 
     f_out = open(out, 'w')
 
@@ -104,14 +107,17 @@ def main():
                 if alink == 'index.html':
                     alink = ''
 
-                indent_level = level-1
+                if ops.ignoreone and level == 1:
+                    continue
+                if ops.ignorefour and level >= 4:
+                    continue
 
+                indent_level = level-1
                 if ops.ignoreone:
                     indent_level -= 1
 
                 if level == 1:
-                    if not ops.ignoreone:
-                        f_out.write('%s1.  **[%s](%s)**\n' % ('    '*indent_level, name, alink) )
+                    f_out.write('%s1.  **[%s](%s)**\n' % ('    '*indent_level, name, alink) )
                 else:
                     f_out.write('%s1.  [%s](%s#%s)\n' % ('    '*indent_level, name, alink, id ) )
 
