@@ -10,50 +10,7 @@ from science, while my outline on
 [the scientific method](scientific-method.html)
 discusses the epistemological foundations and limitations of science.
 
-**Contents:**
-
--   [Issues and Positions](#issues-and-positions)
-    1.  [Realism and Anti-realism](#realism-and-anti-realism)
-    1.  [Scientific Realism](#scientific-realism-1)
-    1.  [Instrumentalism](#instrumentalism)
-    1.  [Positivism](#positivism)
-    1.  [Postpositivism](#postpositivism)
-    1.  [Pragmatism](#pragmatism)
-    1.  [Relativism](#relativism)
-    1.  [Constructive Empiricism](#constructive-empiricism)
-    1.  [Structural Realism](#structural-realism)
-    1.  [Critical Realism](#critical-realism)
--   [My Thoughts](#my-thoughts)
--   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.](#wittgenstein-l.-1921.-tractatus-logico-philosophicus.)
-    1.  [Moore, G.E. (1925). A Defense of Common Sense.](#moore-g.e.-1925.-a-defense-of-common-sense.)
-    1.  [Carnap, R. (1928). *The Logical Structure of the World and Pseudoproblems in Philosophy*.](#carnap-r.-1928.-the-logical-structure-of-the-world-and-pseudoproblems-in-philosophy.)
-    1.  [Carnap, R. (1936). *Testibility and Meaning*.](#carnap-r.-1936.-testibility-and-meaning.)
-    1.  [Reichenbach, H. (1938). *Experience and Prediction*.](#reichenbach-h.-1938.-experience-and-prediction.)
-    1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
-    1.  [Quine, W.V.O. (1951). Two Dogmas of Empiricism.](#quine-w.v.o.-1951.-two-dogmas-of-empiricism.)
-    1.  [Reichenbach, H. (1951). *The Rise of Scientific Philosophy*.](#reichenbach-h.-1951.-the-rise-of-scientific-philosophy.)
-    1.  [Wittgenstein, L. (1953). *Philosophical Investigations*.](#wittgenstein-l.-1953.-philosophical-investigations.)
-    1.  [Carnap, R. (1955). The Logical Foundations of the Unity of Science.](#carnap-r.-1955.-the-logical-foundations-of-the-unity-of-science.)
-    1.  [Carnap, R. (1956). The Methodological Character of Theoretical Concepts.](#carnap-r.-1956.-the-methodological-character-of-theoretical-concepts.)
-    1.  [Popper, K. (1959). *The Logic of Scientific Discovery*.](#popper-k.-1959.-the-logic-of-scientific-discovery.)
-    1.  [Kuhn, T. (1962). *The Structure of Scientific Revolutions*.](#kuhn-t.-1962.-the-structure-of-scientific-revolutions.)
-    1.  [Maxwell, G. (1962). The Ontological Status of Theoretical Entities.](#maxwell-g.-1962.-the-ontological-status-of-theoretical-entities.)
-    1.  Sellars, W. (1963). *Science, Perception, and Reality*.
-    1.  Feyerabend, P. (1974). *Against Method*.
-    1.  Bhaskar, R. (1975). *A Realist Theory of Science*.
-    1.  Putnam, H. (1975). The Meaning of Meaning.
-    1.  van Fraassen, B. (1980). *The Scientific Image*.
-    1.  Laudan, L. (1981).  *A Confutation of Convergent Realism*.
-    1.  Putnam, H. (1981).  *Reason, Truth, and History*.
-    1.  [More articles to do](#more-articles-to-do)
--   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
-    1.  [SEP](#sep)
-    1.  [IEP](#iep)
-    1.  [Wikipedia](#wikipedia)
-    1.  [Others](#others)
--   [References](#references)
--   [Notes](#fn1)
+<!-- PAGETOC -->
 
 
 Issues and Positions
