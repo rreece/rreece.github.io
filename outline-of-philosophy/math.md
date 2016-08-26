@@ -9,29 +9,7 @@ eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-**Contents:**
-
--   [Issues and Positions](#issues-and-positions)
-    1.  [Platonism](#platonism)
-    1.  [Pythagoreanism](#pythagoreanism)
-    1.  [Formalism](#formalism)
-    1.  [G&ouml;del](#g&ouml;del)
-    1.  [Fictionalism](#fictionalism)
-    1.  [Nominalism](#nominalism)
-    1.  [Structuralism](#structuralism)
-    1.  [Language](#language)
-    1.  [Naturalism](#naturalism)
--   [My Thoughts](#my-thoughts)
--   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Carnap, R. (1950). Empiricism, Semantics, and Ontology.](#carnap-r.-1950.-empiricism-semantics-and-ontology.)
-    1.  [More articles to do](#more-articles-to-do)
--   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
-    1.  [SEP](#sep)
-    1.  [IEP](#iep)
-    1.  [Wikipedia](#wikipedia)
-    1.  [Others](#others)
--   [References](#references)
--   [Notes](#fn1)
+<!-- PAGETOC -->
 
 
 Issues and Positions

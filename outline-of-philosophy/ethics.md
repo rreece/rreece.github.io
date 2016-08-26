@@ -8,27 +8,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
-**Contents:**
-
--   [Issues and Positions](#issues-and-positions)
-    1.  [Consequentialism](#consequentialism)
-    1.  [Deontological Ethics](#deontological-ethics)
-    1.  [Virtue Ethics](#virtue-ethics)
-    1.  [Moral Realism](#moral-realism)
-    1.  [Ethical Naturalism](#ethical-naturalism)
--   [My Thoughts](#my-thoughts)
--   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Portmore, D. (2011). Commonsense Consequentialism.](#portmore-d.-2011.-commonsense-consequentialism.)
-    1.  [More articles to do](#more-articles-to-do)
--   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
-    1.  [SEP](#sep)
-    1.  [IEP](#iep)
-    1.  [Wikipedia](#wikipedia)
-    1.  [Others](#others)
-    1.  [Videos](#videos)
--   [References](#references)
--   [Notes](#fn1)
+<!-- PAGETOC -->
 
 
 Issues and Positions

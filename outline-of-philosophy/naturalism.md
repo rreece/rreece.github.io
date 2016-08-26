@@ -9,31 +9,7 @@ eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-**Contents:**
-
--   [Issues and Positions](#issues-and-positions)
-    1.  [Science and scientism](#science-and-scientism)
-    1.  [Rejection of *a priori* metaphysics](#rejection-of-a-priori-metaphysics)
-    1.  [Natural Kinds](#natural-kinds)
-    1.  [Monism](#monism)
-    1.  [Rejection of the Supernatural](#rejection-of-the-supernatural)
-    1.  [Ethical Naturalism](#ethical-naturalism)
-    1.  [Criticisms of Naturalism](#criticisms-of-naturalism)
--   [My Thoughts](#my-thoughts)
--   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Quine, W.V.O. (1969). Epistemology Naturalized.](#quine-w.v.o.-1969.-epistemology-naturalized.)
-    1.  [Quine, W.V.O. (1969). Natural Kinds.](#quine-w.v.o.-1969.-natural-kinds.)
-    1.  [Bhaskar, R. (1979). *The Possibility of Naturalism*.](#bhaskar-r.-1979.-the-possibility-of-naturalism.)
-    1.  [Ross, D. *et al.* (2000). *Dennett's Philosophy: A Comprehensive Assessment*.](#ross-d.-et-al.-2000.-dennetts-philosophy-a-comprehensive-assessment.)
-    1.  [More articles to do](#more-articles-to-do)
--   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
-    1.  [SEP](#sep)
-    1.  [IEP](#iep)
-    1.  [Wikipedia](#wikipedia)
-    1.  [Others](#others)
-    1.  [Videos](#videos)
--   [References](#references)
--   [Notes](#fn1)
+<!-- PAGETOC -->
 
 
 Issues and Positions

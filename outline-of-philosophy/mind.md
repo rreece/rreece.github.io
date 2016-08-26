@@ -9,26 +9,7 @@ eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-**Contents:**
-
--   [Issues and Positions](#issues-and-positions)
-    1.  [Dualism](#dualism)
-    1.  [Materialism](#materialism)
-    1.  [Free will](#free-will)
--   [My Thoughts](#my-thoughts)
--   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Nagel, T. (1974). What Is it Like to Be a Bat?](#nagel-t.-1974.-what-is-it-like-to-be-a-bat)
-    1.  [Dennett, D. (1991). Consciousness Explained.](#dennett-d.-1991.-consciousness-explained.)
-    1.  [Chalmers, D. (1996). The Conscious Mind: In Search of a Fundamental Theory.](#chalmers-d.-1996.-the-conscious-mind-in-search-of-a-fundamental-theory.)
-    1.  [Kurzweil, R. (2012). How to Create a Mind.](#kurzweil-r.-2012.-how-to-create-a-mind.)
-    1.  [More articles to do](#more-articles-to-do)
--   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
-    1.  [SEP](#sep)
-    1.  [IEP](#iep)
-    1.  [Wikipedia](#wikipedia)
-    1.  [Others](#others)
--   [References](#references)
--   [Notes](#fn1)
+<!-- PAGETOC -->
 
 
 Issues and Positions

@@ -9,24 +9,7 @@ eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-**Contents:**
-
--   [Issues and Positions](#issues-and-positions)
-    1.  [Stoicism](#stoicism)
-    1.  [Buddhism](#buddhism)
-    1.  [Existentialism](#existentialism)
--   [My Thoughts](#my-thoughts)
--   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Camus, A. (1956). *The Fall (La Chute)*.](#camus-a.-1956.-the-fall-la-chute.)
-    1.  [More articles to do](#more-articles-to-do)
--   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
-    1.  [SEP](#sep)
-    1.  [IEP](#iep)
-    1.  [Wikipedia](#wikipedia)
-    1.  [Others](#others)
-    1.  [Videos](#videos)
--   [References](#references)
--   [Notes](#fn1)
+<!-- PAGETOC -->
 
 
 Issues and Positions

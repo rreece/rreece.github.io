@@ -10,6 +10,7 @@ from science, while my outline on
 [the scientific method](scientific-method.html)
 discusses the epistemological foundations and limitations of science.
 
+
 <!-- PAGETOC -->
 
 

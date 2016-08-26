@@ -8,31 +8,8 @@ and other *epistemological* topics concerning the methods and
 philosophy of science.  The metaphysical implications of science
 are discussed in the outline on [scientific realism](scientific-realism.html).
 
-**Contents:**
 
--   [Issues and Positions](#issues-and-positions)
-    1.  [History of Science](#history-of-science)
-    1.  [Empiricism vs Rationalism](#rationalism-vs-empiricism)
-    1.  [Is there a universal scientific method?](#is-there-a-universal-scientific-method)
-    1.  [Statistical Measurement](#statistical-measurement)
-    1.  [Abduction](#abduction)
-    1.  [Scientific Knowledge and Realism](#scientific-knowledge-and-realism)
-    1.  [Naturalism, Reductionism, and Monism](#naturalism-reductionism-and-monism)
-    1.  [Pseudoscience](#pseudoscience)
--   [My Thoughts](#my-thoughts)
--   [Annotated Bibliography](#annotated-bibliography)
-    1.  [Hume, D. (1748). *An Enquiry Concerning Human Understanding*.](#hume-d.-1748.-an-enquiry-concerning-human-understanding.)
-    1.  [Sellars, W. (1963). *Empircism and Philosophy of Mind*.](#sellars-w.-1963.-empircism-and-philosophy-of-mind.)
-    1.  [Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*.](#pigliucci-m.-2010.-nonsense-on-stilts-how-to-tell-science-from-bunk.)
-    1.  [French, S. (2007). *Science: Key Concepts in Philosophy*.](#french-s.-2007.-science-key-concepts-in-philosophy.)
-    1.  [More articles to do](#more-articles-to-do)
--   [Links and Encyclopedia Articles](#links-and-encyclopedia-articles)
-    1.  [SEP](#sep)
-    1.  [IEP](#iep)
-    1.  [Wikipedia](#wikipedia)
-    1.  [Others](#others)
--   [References](#references)
--   [Notes](#fn1)
+<!-- PAGETOC -->
 
 
 Issues and Positions
