@@ -61,8 +61,8 @@ def options():
     parser = argparse.ArgumentParser()
     parser.add_argument('infiles',  default=None, nargs='+',
             help='A positional argument.')
-    parser.add_argument('-o', '--out',  default='index.md', type=str,
-            help="Some toggle option.")
+#    parser.add_argument('-o', '--out',  default='index.md', type=str,
+#            help="Some toggle option.")
     return parser.parse_args()
 
 
@@ -73,7 +73,7 @@ def main():
     ops = options()
 
     infiles = ops.infiles
-    out = ops.out
+#    out = ops.out
 
     rep_begin_figure = r'^\\begin{figure}\[\w+\]\s*$'
     rep_begin_table = r'^\\begin{longtable}\[\w\]{([\w\{\}@]+)}\s*$'
