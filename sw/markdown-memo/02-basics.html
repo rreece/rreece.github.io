@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Fri Aug 12, 2016" />
+  <meta name="date" content="Fri Aug 26, 2016" />
   <title>Basics - markdown-memo example document</title>
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
 
@@ -58,6 +58,31 @@
 <div id="mainbody">
 
 <h1 id="basics">Basics</h1>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+</head>
+<body>
+<h3 id="contents" class="unnumbered">Contents</h3>
+<ol style="list-style-type: decimal">
+<li><a href="02-basics.html#checking-out-the-template">Checking-out the template</a></li>
+<li><a href="02-basics.html#starting-a-page-or-section">Starting a page or section</a></li>
+<li><a href="02-basics.html#basic-typesetting">Basic typesetting</a>
+<ol style="list-style-type: decimal">
+<li><a href="02-basics.html#lists">Lists</a></li>
+<li><a href="02-basics.html#blocks">Blocks</a></li>
+<li><a href="02-basics.html#fonts">Fonts</a></li>
+<li><a href="02-basics.html#links">Links</a></li>
+</ol></li>
+<li><a href="02-basics.html#references">References</a></li>
+</ol>
+</body>
+</html>
 <h2 id="checking-out-the-template">Checking-out the template</h2>
 <p>Checking out markdown-memo with a simple git command, like:</p>
 <pre><code>git clone https://github.com/rreece/markdown-memo.git</code></pre>
@@ -106,7 +131,8 @@ at falli feugiat est.</code></pre>
 </ol>
 <h3 id="blocks">Blocks</h3>
 <p>The following is a quote block.</p>
-<pre><code>&gt;   It ain&#39;t what you don&#39;t know that gets you into trouble. It&#39;s what you know for sure that just ain&#39;t so.  
+<pre><code>&gt;   It ain&#39;t what you don&#39;t know that gets you into trouble.
+&gt;   It&#39;s what you know for sure that just ain&#39;t so.  
 
 -- Mark Twain</code></pre>
 <blockquote>
@@ -150,6 +176,17 @@ print(alist)</code></pre>
 <p>Maybe you want to refer to code inline like this with backticks:</p>
 <pre><code>Here&#39;s some inline code: `vec.push_back(3.14)`.</code></pre>
 <p>Here&#8217;s some inline code: <code>vec.push_back(3.14)</code>.</p>
+<p>For poems and the like where you want linebreaks taken literally, prepend lines with <code>|</code> and a single space. Additional spaces can be used, but will indent the output.</p>
+<pre><code>| Art is long,
+| Life is short,
+| Opportunity fleeting,
+| Experiment dangerous,
+| Judgment difficult.</code></pre>
+<p>Art is long,<br />
+Life is short,<br />
+Opportunity fleeting,<br />
+Experiment dangerous,<br />
+Judgment difficult.</p>
 <h3 id="fonts">Fonts</h3>
 <pre><code>-   *This is emphasis.*
 -   **This is bold.**
@@ -265,7 +302,7 @@ sec.&#160;1.4</li>
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my_email.png" alt="my email address"/></p>
-    <p>Fri Aug 12, 2016</p>
+    <p>Fri Aug 26, 2016</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2016 Ryan Reece. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
