@@ -61,12 +61,8 @@ def options():
     parser = argparse.ArgumentParser()
     parser.add_argument('infiles',  default=None, nargs='+',
             help='A positional argument.')
-    parser.add_argument('-1', '--ignoreone',  default=False,  action='store_true',
-            help="Some toggle option.")
-    parser.add_argument('-c', '--contents',  default=False,  action='store_true',
-            help="Some toggle option.")
-    parser.add_argument('-o', '--out',  default='index.md', type=str,
-            help="Some toggle option.")
+#    parser.add_argument('-o', '--out',  default='index.md', type=str,
+#            help="Some toggle option.")
     return parser.parse_args()
 
 
@@ -77,50 +73,43 @@ def main():
     ops = options()
 
     infiles = ops.infiles
-    out = ops.out
+#    out = ops.out
 
-    rep = r'<h([1-6])\s+[^>]*id="([\w\-]+)"[^>]*>([^<]+)<\/h[1-6]>'
-
-    f_out = open(out, 'w')
-
-    if ops.contents:
-        f_out.write('### Contents  {.unnumbered}\n')
-#       f_out.write('---------------------------------------------------\n')
-        f_out.write('\n')
+    rep_pagetoc = r'<!\-\-\s*PAGETOC\s*\-?\-\->'
 
     for fn in infiles:
         root, ext = os.path.splitext(fn)
+        
+        f_in = open(fn)
+        f_out = open('%s-tmp.%s' % (root, ext), 'w')
 
-        os.system('pandoc -t html --ascii --smart -o %s-tmp.html %s' % (root, fn))
-
-        f_in = open('%s-tmp.html' % root)
         for line in f_in:
-            reo = re.match(rep, line)
-            if reo:
-                level   = int(reo.group(1))
-                id      = reo.group(2)
-                name    = reo.group(3)
-                alink   = '%s.html' % root
-                if alink == 'index.html':
-                    alink = ''
 
-                indent_level = level-1
+            reo = None
+            newline = line
 
-                if ops.ignoreone:
-                    indent_level -= 1
+            if not reo:
+                reo = re.match(rep_pagetoc, line)
+                if reo:
+                    pagetoc_md = '%s-pagetoc.md' % root
+                    pagetoc_html = '%s-pagetoc.html' % root
+                    os.system('python scripts/make_index_md.py -1 --out=%s %s' % (pagetoc_md, fn))
 
-                if level == 1:
-                    if not ops.ignoreone:
-                        f_out.write('%s1.  **[%s](%s)**\n' % ('    '*indent_level, name, alink) )
-                else:
-                    f_out.write('%s1.  [%s](%s#%s)\n' % ('    '*indent_level, name, alink, id ) )
+                    if os.path.isfile(pagetoc_md):
+                        os.system('pandoc -t html --ascii --standalone --smart -o %s %s' % (pagetoc_html, pagetoc_md))
+                        if os.path.isfile(pagetoc_html):
+                            f_pagetoc = open(pagetoc_html)
+                            newline = ''.join(f_pagetoc.readlines())
+                            f_pagetoc.close()
+                            os.system('rm -f %s' % (pagetoc_html))
+                        os.system('rm -f %s' % (pagetoc_md))
 
+            f_out.write(newline)
+ 
         f_in.close()
+        f_out.close()
 
-        os.system('rm -f %s-tmp.html' % root)
-
-    f_out.write('\n')
-    f_out.close()
+        os.system('mv -f %s-tmp.%s %s' % (root, ext, fn))
 
 
 #------------------------------------------------------------------------------
