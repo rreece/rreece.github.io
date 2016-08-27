@@ -64,6 +64,7 @@
 <li><a href="02-gettings-started.html#checking-out-the-template">Checking-out the template</a></li>
 <li><a href="02-gettings-started.html#starting-a-page-or-section">Starting a page or section</a></li>
 <li><a href="02-gettings-started.html#going-from-there">Going from there</a></li>
+<li><a href="02-gettings-started.html#building-your-document">Building your document</a></li>
 </ol>
 <h2 id="checking-out-the-template">Checking-out the template</h2>
 <p>Checking out markdown-memo with a simple git command, like:</p>
@@ -101,9 +102,10 @@ Or equations:
 \begin{equation}
     \int_{\partial\Omega} \omega = \int_{\Omega} \mathrm{d}\omega \,.
 \end{equation}</code></pre>
-<p>Then:</p>
+<h2 id="building-your-document">Building your document</h2>
+<p>In addition to writing the basic <code>md</code> files for your project, you need to write a metadata file: <code>meta.yaml</code>. See the example metadata there.</p>
+<p>Then you can build your document. A lot of the inner-workings of <code>markdown-memo</code> are done in the <code>Makefile</code>.</p>
 <ul>
-<li>Edit the metadata in <code>meta.yaml</code>.</li>
 <li>Call <code>make</code> to generate valid xhtml.</li>
 <li>Call <code>make pdf</code> to generate a pdf document.</li>
 <li>Call <code>make clean</code> to delete temporary LaTeX files.</li>
