@@ -7,7 +7,7 @@
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
   <meta name="date" content="Sat Aug 27, 2016" />
-  <title>My appendix - markdown-memo example document</title>
+  <title>Special features - markdown-memo example document</title>
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
 
 
@@ -58,7 +58,7 @@
 <div id="mainbody">
 
 <p></p>
-<h1 id="my-appendix">My appendix</h1>
+<h1 id="special-features">Special features</h1>
 <p>This is an appendix.</p>
 <p>If you add multiple appendices, perhaps you want to separate them from the main text with a part:</p>
 <pre><code>\clearpage
@@ -70,6 +70,19 @@ Example appendix
 ===============================================================================
 
 Start writing the appendix...</code></pre>
+<h2 id="disqus-integration">Disqus integration</h2>
+<p>You can choose to append a comments section at the end of your html. Just register a user name and the site name with <a href="disqus.com" class="uri">disqus.com</a>. Then in the <code>meta.yaml</code>, set <code>disqus: true</code>, and set your <code>disqus_shortname</code>.</p>
+<h2 id="word-count">Word count</h2>
+<p>Note that word-count and page-count plots are generated when you call <code>make pdf</code>. You might want to keep these around in the <code>README.md</code> for your document.</p>
+<div class="figure">
+<img src="wordcount/pages.png" alt="my pages" />
+<p class="caption">my pages</p>
+</div>
+<div class="figure">
+<img src="wordcount/words.png" alt="my words" />
+<p class="caption">my words</p>
+</div>
+<h2 id="wish-list-todos">Wish list / TODOs</h2>
 
 </div> <!-- end mainbody -->
 
