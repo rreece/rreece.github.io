@@ -12,16 +12,18 @@ but its concerns have implications as radical as delineating
 These issues are part of broader divisions in philosophy:
 epistemology (how do we know?) and metaphysics (what exists?), respectively.
 
-Philosophy of science asks: what is science?
-Do the diverse inquiries called science
-have an underlying, universal, scientific method, and if so, what is it?
-How can we tell science from not science, and what is pseudoscience?
-Is science a way of producing knowledge, and if so, are there other
-ways of knowing?
-What should we say of the products of science,
-and in particular, does science make any progress at
-revealing or approximating truth?
-Where has science taken us and where is it going?
+Philosophy of science asks:
+
+-   What is science?
+-   Do the diverse inquiries called science
+    have an underlying, universal, scientific method, and if so, what is it?
+-   How can we tell science from not science, and what is pseudoscience?
+-   Is science a way of producing knowledge, and if so, are there other
+    ways of knowing?
+-   What should we say of the products of science,
+    and in particular, does science make any progress at
+    revealing or approximating truth?
+-   Where has science taken us and where is it going?
 
 In our modern information age,
 the evident power of science to elevate our awareness and bring us new
