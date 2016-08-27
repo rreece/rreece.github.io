@@ -821,7 +821,8 @@ Links and Encyclopedia Articles
 -   [Logical positivism](http://www.philosophybasics.com/branch_logical_positivism.html) - philosophybasics.com
 -   [Logical positivism](http://www.loyno.edu/~folse/logpos.htm) - loyno.edu/~folse/
 -   [Logical positivism](http://rationalwiki.org/wiki/Logical_positivism) - rationalwiki.org
--   ["Philosophy Returns to the Real World"](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) -  Crispin Sartwell
+-   [Sartwell, Crispin (2015). Philosophy Returns to the Real World.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/)
+-   [Kaufman, D.A. (2016). Moore's Proof.](https://theelectricagora.com/2016/08/15/moores-proof/)
 
 
 
