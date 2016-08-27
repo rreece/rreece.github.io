@@ -5,3 +5,4 @@ http://rreece.github.io/outline-of-counter-apologetics/
 http://rreece.github.io/outline-of-philosophy/
 http://rreece.github.io/philosophy-reading-list/
 http://rreece.github.io/sw/
+http://rreece.github.io/sw/markdown-memo/
