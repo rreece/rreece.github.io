@@ -6,8 +6,8 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Fri Aug 26, 2016" />
-  <title>Acknowledgements - markdown-memo example document</title>
+  <meta name="date" content="Sat Aug 27, 2016" />
+  <title>My appendix - markdown-memo example document</title>
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
 
 
@@ -47,8 +47,7 @@
 <ul>
     <li> <a href="./">&#8634;&nbsp;Contents</a> </li>
     <li> <a href="#site_footer">&#8615;&nbsp;Bottom</a> </li>
-<li> <a href="./05-conclusions.html">&#8612;&nbsp;Previous</a> </li>
-<li> <a href="./07-appendix-a.html">&#8614;&nbsp;Next</a> </li>
+<li> <a href="./07-acknowledgements.html">&#8612;&nbsp;Previous</a> </li>
     <!--
     <li> <a href="./">&#8612;&nbsp;Previous</a> </li>
     <li> <a href="./">&#8614;&nbsp;Next</a> </li>
@@ -58,8 +57,19 @@
 
 <div id="mainbody">
 
-<h1 id="acknowledgements" class="unnumbered">Acknowledgements</h1>
-<p>Thanks to everyone who helped with this manuscript.</p>
+<p></p>
+<h1 id="my-appendix">My appendix</h1>
+<p>This is an appendix.</p>
+<p>If you add multiple appendices, perhaps you want to separate them from the main text with a part:</p>
+<pre><code>\clearpage
+\appendix
+\part*{Appendices}
+\addcontentsline{toc}{part}{Appendices}
+
+Example appendix
+===============================================================================
+
+Start writing the appendix...</code></pre>
 
 </div> <!-- end mainbody -->
 
@@ -67,8 +77,7 @@
 <ul>
     <li> <a href="./">&#8634;&nbsp;Contents</a> </li>
     <li> <a href="#site_header">&#8613;&nbsp;Top</a> </li>
-<li> <a href="./05-conclusions.html">&#8612;&nbsp;Previous</a> </li>
-<li> <a href="./07-appendix-a.html">&#8614;&nbsp;Next</a> </li>
+<li> <a href="./07-acknowledgements.html">&#8612;&nbsp;Previous</a> </li>
     <!--
     <li> <a href="./">&#8612;&nbsp;Previous</a> </li>
     <li> <a href="./">&#8614;&nbsp;Next</a> </li>
@@ -85,7 +94,7 @@
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my_email.png" alt="my email address"/></p>
-    <p>Fri Aug 26, 2016</p>
+    <p>Sat Aug 27, 2016</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2016 Ryan Reece. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
