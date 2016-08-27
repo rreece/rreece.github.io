@@ -138,5 +138,6 @@ A place to start in the discussion of philosophy of science and naturalism
 
 -   [Naturalism.org](http://www.naturalism.org/)
 -   [Positivists.org](http://positivists.org/)
+-   [Sagan dicussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w)
 
 
