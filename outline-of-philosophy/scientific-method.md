@@ -82,7 +82,7 @@ British empiricists:
 -   George Berkeley (1685-1753)
 -   David Hume (1711-1776)
 
-Other important sythesizers:
+Other important synthesizers:
 
 -   Isaac Newton (1642-1727)
 -   Immanuel Kant (1724-1804)
@@ -95,8 +95,9 @@ TODO.
 -   Not a seven-step program
 -   Evidence based, anti-conspiracy, parsimony
 -   Error-catching filters, community, honesty, openness
--   Positivism, Verificationism
+-   Positivism, verificationism
 -   Auguste Comte, Ernst Mach
+-   Popper, falsification
 -   Scientism
 
 

@@ -74,6 +74,9 @@ Anti-realist?
 
 TODO.
 
+-   Field, Hartry (1980). *Science Without Numbers*. Princeton University Press.
+
+
 ### Structuralism
 
 Realist?
