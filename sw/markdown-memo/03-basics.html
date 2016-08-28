@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Sat Aug 27, 2016" />
+  <meta name="date" content="Sun Aug 28, 2016" />
   <title>Markdown basics - markdown-memo example document</title>
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
 
@@ -59,35 +59,36 @@
 <div id="mainbody">
 
 <h1 id="markdown-basics">Markdown basics</h1>
+<p>Here we review the basics of <code>markdown</code>. A further reference on <code>markdown</code> syntax by its creator is <a href="http://daringfireball.net/projects/markdown/syntax">here</a>.</p>
 <h3 id="contents" class="unnumbered">Contents</h3>
 <ol style="list-style-type: decimal">
-<li><strong><a href="03-basics.html">Markdown basics</a></strong>
-<ol style="list-style-type: decimal">
 <li><a href="03-basics.html#sections">Sections</a></li>
-<li><a href="03-basics.html#lists">Lists</a></li>
+<li><a href="03-basics.html#sec:lists">Lists</a></li>
 <li><a href="03-basics.html#blocks">Blocks</a></li>
 <li><a href="03-basics.html#fonts">Fonts</a></li>
 <li><a href="03-basics.html#links">Links</a></li>
 <li><a href="03-basics.html#references">References</a></li>
-</ol></li>
 </ol>
 <h2 id="sections">Sections</h2>
 <p>Are markded like this:</p>
-<pre><code>Section title
+<pre><code>Section title {#sec:put-section-label-here}
 ===============================================================================
 
 Sub-section title
 -------------------------------------------------------------------------------</code></pre>
 <p>Or marked like this:</p>
-<pre><code># Section title
+<pre><code># Section title {#sec:put-section-label-here}
 
 ## Sub-section title
 
 ### Sub-sub-section title
 
 Main text here.</code></pre>
-<h2 id="lists">Lists</h2>
-<p>Unnumbered lists like this:</p>
+<p>Note the examples of labeling a section in braces with <code>#</code>, as shown above. This allows one to refer to labels in the text like:</p>
+<pre><code>The next section, [@sec:lists], is about lists.</code></pre>
+<p>The next section, Section&#160;1.2, is about lists.</p>
+<h2 id="sec:lists">Lists</h2>
+<p><strong>Unnumbered lists</strong> like this:</p>
 <pre><code>-   Galileo Galilei
 -   Robert G. Ingersoll
 -   Jill Tarter</code></pre>
@@ -96,7 +97,7 @@ Main text here.</code></pre>
 <li>Robert G. Ingersoll</li>
 <li>Jill Tarter</li>
 </ul>
-<p>Numbered lists like this:</p>
+<p><strong>Numbered lists</strong> like this:</p>
 <pre><code>1.  Na&amp;iuml;ve realists
 1.  Scientific realists
 1.  Constructive empiricists
@@ -110,7 +111,7 @@ Main text here.</code></pre>
 <li>Relativists</li>
 </ol>
 <h2 id="blocks">Blocks</h2>
-<p>The following is a quote block.</p>
+<p>The following is a <strong>quote block</strong>.</p>
 <pre><code>&gt;   It ain&#39;t what you don&#39;t know that gets you into trouble.
 &gt;   It&#39;s what you know for sure that just ain&#39;t so.  
 
@@ -119,7 +120,7 @@ Main text here.</code></pre>
 <p>It ain&#8217;t what you don&#8217;t know that gets you into trouble. It&#8217;s what you know for sure that just ain&#8217;t so.</p>
 </blockquote>
 <p>&#8211; Mark Twain</p>
-<p>A code block (used throughout these examples) is just indented with 4 spaces, like this:</p>
+<p>A <strong>code block</strong> (used throughout these examples) is just indented with 4 spaces, like this:</p>
 <pre><code>    def shortBubbleSort(alist):
         exchanges = True
         passnum = len(alist)-1
@@ -153,10 +154,10 @@ Main text here.</code></pre>
 alist=[20,30,40,90,50,60,70,80,100,110]
 shortBubbleSort(alist)
 print(alist)</code></pre>
-<p>Maybe you want to refer to code inline like this with backticks:</p>
+<p>Maybe you want to refer to <strong>code inline</strong> like this with backticks:</p>
 <pre><code>Here&#39;s some inline code: `vec.push_back(3.14)`.</code></pre>
 <p>Here&#8217;s some inline code: <code>vec.push_back(3.14)</code>.</p>
-<p>For poems and the like where you want linebreaks taken literally, prepend lines with <code>|</code> and a single space. Additional spaces can be used, but will indent the output.</p>
+<p>For poems and the like where you want <strong>linebreaks taken literally</strong>, prepend lines with <code>|</code> and a single space. Additional spaces can be used, but will indent the output.</p>
 <pre><code>| Art is long,
 | Life is short,
 | Opportunity fleeting,
@@ -167,11 +168,20 @@ Life is short,<br />
 Opportunity fleeting,<br />
 Experiment dangerous,<br />
 Judgment difficult.</p>
+<p>Otherwise, one can put two or more spaces at the end of a line of markdown for the linebreak to be taken literally<br />
+like<br />
+this.</p>
+<p>A <strong>horizontal rule</strong> can be made by just writing some number of dashes:</p>
+<pre><code>----------------------------------------------------</code></pre>
+<hr />
+<p>Boom.</p>
 <h2 id="fonts">Fonts</h2>
 <pre><code>-   *This is emphasis.*
 -   **This is bold.**
 -   _This is also emphasis._
 -   __This is also bold.__
+-   _This is emphasis **and** bold._
+-   __This is bold *and* emphasis.__
 -   ~~This is struck-out.~~</code></pre>
 <p>produces:</p>
 <ul>
@@ -179,6 +189,8 @@ Judgment difficult.</p>
 <li><strong>This is bold.</strong></li>
 <li><em>This is also emphasis.</em></li>
 <li><strong>This is also bold.</strong></li>
+<li><em>This is emphasis <strong>and</strong> bold.</em></li>
+<li><strong>This is bold <em>and</em> emphasis.</strong></li>
 <li><del>This is struck-out.</del></li>
 </ul>
 <p>Don&#8217;t do this. These will work in LaTeX () but may not in html.</p>
@@ -206,7 +218,7 @@ Figure&#160;<strong>??</strong></li>
 <li>table: <code>[@Tbl:atlas_channels]</code><br />
 Table&#160;<strong>??</strong></li>
 <li>section: <code>[@sec:footnotes-and-citations]</code><br />
-sec.&#160;<strong>??</strong></li>
+Section&#160;<strong>??</strong></li>
 </ul>
 <h2 id="references">References</h2>
 <p>   </p>
@@ -238,7 +250,7 @@ sec.&#160;<strong>??</strong></li>
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my_email.png" alt="my email address"/></p>
-    <p>Sat Aug 27, 2016</p>
+    <p>Sun Aug 28, 2016</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2016 Ryan Reece. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
