@@ -74,7 +74,7 @@ Anti-realist?
 
 TODO.
 
--   Field, Hartry (1980). *Science Without Numbers*. Princeton University Press.
+-   Field, Hartry (1980). *Science Without Numbers*.
 
 
 ### Structuralism
@@ -136,8 +136,17 @@ Annotated Bibliography
 #### My thoughts
 
 -   TODO.
--   The map is not the territory.
+-   The map is not the territory (Jorge Luis Borges).
 
+--------------------------------------------------------------------------------
+
+### Field, H. (1980). *Science Without Numbers*.
+
+-    Field, H. (1980). *Science Without Numbers*. Princeton University Press.
+
+#### My thoughts
+
+-   TODO.
 
 --------------------------------------------------------------------------------
 
