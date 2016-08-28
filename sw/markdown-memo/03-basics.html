@@ -77,6 +77,7 @@
 <li><a href="03-basics.html#blocks">Blocks</a></li>
 <li><a href="03-basics.html#fonts">Fonts</a></li>
 <li><a href="03-basics.html#links">Links</a></li>
+<li><a href="03-basics.html#sec:footnotes">Footnotes</a></li>
 <li><a href="03-basics.html#references">References</a></li>
 </ol>
 <h2 id="sections">Sections</h2>
@@ -219,21 +220,38 @@ this.</p>
 <p>URLs are done like this:</p>
 <pre><code>[Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)</code></pre>
 <p><a href="https://en.wikipedia.org/wiki/Lorem_ipsum">Lorem ipsum</a></p>
-<p>To reference</p>
+<p>When referring to labeled sections/figures/tables, you do not include the literal word &#8220;Section&#8221;, &#8220;Figure&#8221;, etc., which will be included for you, but for equations you do.</p>
+<p>Refer to labeled things like this:</p>
 <ul>
-<li>equation: <code>eq.\ $\eqref{eq:stokes}$</code><br />
-eq.&#160;<span class="math inline">\(\eqref{eq:stokes}\)</span></li>
-<li>figure: <code>[@Fig:scientific_universe]</code><br />
+<li>for sections: <code>[@sec:footnotes]</code><br />
+Section&#160;1.6</li>
+<li>for figures: <code>[@Fig:scientific_universe]</code><br />
 Figure&#160;<strong>??</strong></li>
-<li>table: <code>[@Tbl:atlas_channels]</code><br />
+<li>for tables: <code>[@Tbl:atlas_channels]</code><br />
 Table&#160;<strong>??</strong></li>
-<li>section: <code>[@sec:footnotes-and-citations]</code><br />
-Section&#160;<strong>??</strong></li>
+<li>for equations: <code>eq.\ $\eqref{eq:stokes}$</code><br />
+eq.&#160;<span class="math inline">\(\eqref{eq:stokes}\)</span></li>
 </ul>
+<h2 id="sec:footnotes">Footnotes</h2>
+<pre><code>Here&#39;s how you do a footnote[^SomeSpecialNote].
+
+[^SomeSpecialNote]: Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque.
+    Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip
+    accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax
+    an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed,
+    at falli feugiat est.</code></pre>
+<p>produces:</p>
+<p>Here&#8217;s how you do a footnote<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>.</p>
 <h2 id="references">References</h2>
 <p>   </p>
 <div class="references">
 
+</div>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque. Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed, at falli feugiat est.<a href="#fnref1">&#8617;</a></p></li>
+</ol>
 </div>
 
 </div> <!-- end mainbody -->
