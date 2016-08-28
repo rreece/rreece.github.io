@@ -88,6 +88,7 @@
 <li>LaTeX (texlive)</li>
 <li>cabal</li>
 <li>pandoc</li>
+<li>python</li>
 </ul>
 <p>On my Mac laptop, I installed any missing dependencies through <a href="https://www.macports.org/">macports</a>.</p>
 <p>After installing <a href="https://www.macports.org/">macports</a>, maybe you need to do something like the following to install missing dependencies.</p>
@@ -95,7 +96,7 @@
 sudo port install python27
 sudo port select python python27
 sudo port install py27-matplotlib
-sudo port install texlive-latex texlive-latex-recommended texlive-latex-extra texlive-math-extra texlive-science
+sudo port install texlive-latex texlive-latex-recommended texlive-latex-extra texlive-math-extra
 sudo port install hs-cabal-install
 sudo port install pandoc</code></pre>
 <p>I&#8217;ve also had to install <code>pandoc-crossref</code>, and I think I had to install <code>pandoc-citeproc</code>. In the case of <a href="https://github.com/lierdakil/pandoc-crossref">pandoc-crossref</a>, you simply do this to install:</p>
