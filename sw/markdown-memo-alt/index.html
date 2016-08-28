@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="R. Reece and J. Coauthor" />
+  <meta name="date" content="Sun Aug 28, 2016" />
+  <title>markdown-memo example document</title>
+  <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt.css"/>
+
+
+<!--- MathJax stuff -->
+<script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
+</script>
+
+<!--- toggle_more function  -->
+<script type="text/javascript">
+    //<![CDATA[
+    function toggle_more(objID) {
+        if (!document.getElementById) return;
+        var ob = document.getElementById(objID).style;
+        ob.display = (ob.display == 'block')?'none':'block';
+        var ob2 = document.getElementById('link:'+objID);
+        ob2.className = (ob2.className == 'open') ? 'closed' : 'open';
+    }
+    //]]>
+</script>
+
+</head>
+
+<body>
+
+<!---
+<div id="site_header">
+</div>
+-->
+
+<hr/>
+<!--
+<div id="beforebody">
+</div>
+-->
+
+<div id="mainbody">
+
+<!--- NOTE: h1 already included. Start writing index.md with an h2 -->
+<h1>markdown-memo example document</h1>
+
+<p class="subtitle">make writing easier and more productive</p>
+
+<div class="authors">
+<p><a href="http://reece.scipp.ucsc.edu/">Ryan Reece</a><a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a></p>
+<p>Jane Coauthor<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a></p>
+</div>
+
+<div class="abstract">
+<p>This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract. This is the abstract.</p>
+<p>This is the second paragraph in the abstract. This is the second paragraph in the abstract. This is the second paragraph in the abstract.</p>
+<p><em>Keywords:</em> quantum field theory, QFT, quantization, second quantization, wave-particle duality</p>
+</div>
+
+<h3 id="contents" class="unnumbered">Contents</h3>
+<ol style="list-style-type: decimal">
+<li><strong><a href="01-introduction.html">Introduction</a></strong>
+<ol style="list-style-type: decimal">
+<li><a href="01-introduction.html#what-this-is-for">What this is for</a></li>
+<li><a href="01-introduction.html#how-it-works">How it works</a></li>
+</ol></li>
+<li><strong><a href="02-getting-started.html">Getting started</a></strong>
+<ol style="list-style-type: decimal">
+<li><a href="02-getting-started.html#checking-out-the-template">Checking-out the template</a></li>
+<li><a href="02-getting-started.html#starting-a-page-or-section">Starting a page or section</a></li>
+<li><a href="02-getting-started.html#going-from-there">Going from there</a></li>
+<li><a href="02-getting-started.html#building-your-document">Building your document</a></li>
+</ol></li>
+<li><strong><a href="03-basics.html">Markdown basics</a></strong>
+<ol style="list-style-type: decimal">
+<li><a href="03-basics.html#sections">Sections</a></li>
+<li><a href="03-basics.html#sec:lists">Lists</a></li>
+<li><a href="03-basics.html#blocks">Blocks</a></li>
+<li><a href="03-basics.html#fonts">Fonts</a></li>
+<li><a href="03-basics.html#links">Links</a></li>
+</ol></li>
+<li><strong><a href="04-bibliographies.html">Bibliographies</a></strong>
+<ol style="list-style-type: decimal">
+<li><a href="04-bibliographies.html#sec:footnotes-and-citations">Footnotes and citations</a></li>
+</ol></li>
+<li><strong><a href="05-math.html">Mathematical expressions</a></strong>
+<ol style="list-style-type: decimal">
+<li><a href="05-math.html#typestting-math">Typestting math</a></li>
+<li><a href="05-math.html#mathjax">Mathjax</a></li>
+</ol></li>
+<li><strong><a href="06-figs-tables.html">Floats, Figures, and Tables</a></strong>
+<ol style="list-style-type: decimal">
+<li><a href="06-figs-tables.html#figures">Figures</a></li>
+<li><a href="06-figs-tables.html#tables">Tables</a></li>
+<li><a href="06-figs-tables.html#clickmore">clickmore</a></li>
+<li><a href="06-figs-tables.html#table-of-contents-per-html-page">Table of contents per html page</a></li>
+</ol></li>
+<li><strong><a href="07-conclusions.html">Conclusions</a></strong></li>
+<li><strong><a href="08-acknowledgements.html">Acknowledgements</a></strong></li>
+<li><strong><a href="09-appendix-a.html">Special features</a></strong>
+<ol style="list-style-type: decimal">
+<li><a href="09-appendix-a.html#special-files">Special files</a></li>
+<li><a href="09-appendix-a.html#disqus-integration">Disqus integration</a></li>
+<li><a href="09-appendix-a.html#word-count">Word count</a></li>
+</ol></li>
+</ol>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>University of California, Santa Cruz / <script type="text/javascript">
+<!--
+h='&#x63;&#x65;&#114;&#110;&#46;&#x63;&#104;';a='&#64;';n='&#114;&#x79;&#x61;&#110;&#46;&#114;&#x65;&#x65;&#x63;&#x65;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#114;&#x79;&#x61;&#110;&#46;&#114;&#x65;&#x65;&#x63;&#x65;&#32;&#x61;&#116;&#32;&#x63;&#x65;&#114;&#110;&#32;&#100;&#x6f;&#116;&#32;&#x63;&#104;</noscript> / <a href="http://reece.scipp.ucsc.edu" class="uri">http://reece.scipp.ucsc.edu</a><a href="#fnref1">&#8617;</a></p></li>
+<li id="fn2"><p>Joe University, Joeville<a href="#fnref2">&#8617;</a></p></li>
+</ol>
+</div>
+
+</div> <!-- end mainbody -->
+
+<!--
+<div id="afterbody">
+</div>
+-->
+
+<div id="site_footer">
+  <div class="signature">
+    <p><i>R. Reece and J. Coauthor</i></p>
+    <p><img class="email" src="img/my_email.png" alt="my email address"/></p>
+    <p>Sun Aug 28, 2016</p>
+  </div>
+  <div class="license">
+    <p><span class="copy-left">&#169;</span> 2015-2016 Ryan Reece. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
+    <p>Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.</p>
+  </div>
+  <div style="clear:both;"></div>
+</div>
+
+
+</body>
+</html>
+
