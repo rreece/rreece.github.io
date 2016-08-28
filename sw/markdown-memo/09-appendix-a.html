@@ -94,13 +94,13 @@ Start writing the appendix...</code></pre>
 <p>Primary files edited by the user:</p>
 <ul>
 <li><code>meta.yaml</code> - The main metadata file controlling the project in many ways.</li>
-<li><code>*.md</code> - Any other user-created markdown files, the mark-up of your document.</li>
+<li><code>*.md</code> - Any other user-created Markdown files, the markup of your document.</li>
 </ul>
 <p>Optional files:</p>
 <ul>
 <li><code>index.[md,txt]</code> - The top-level, root file of your project. By default, if <code>index.txt</code> is missing, a table of contents is generated for <code>index.md</code>, otherwise (the user-written) <code>index.txt</code> is copied to be the <code>index.md</code>.</li>
 <li><code>bib_index.md</code> - Call <code>make bib_index.md</code> to generate this file. It is to help incoorporate citations into your document by being an automatically generated list of the references, with footnotes, created from the available bibliography files in <code>bibs/</code>.</li>
-<li><code>order.txt</code> - Optionally, the user can create this file, which should have a list of markdown files used in the document, one-per-line, in the order as to be used for the navigation buttons in the html template. By default, building the html will generate this file if it doesn&#8217;t already exist, with the markdown files listed in alphabetical order. If one names the markdown files something like <code>01-first-section.md</code>, <code>02-second-section.md</code>, etc., then the order should be handled automatically.</li>
+<li><code>order.txt</code> - Optionally, the user can create this file, which should have a list of Markdown files used in the document, one-per-line, in the order as to be used for the navigation buttons in the html template. By default, building the html will generate this file if it doesn&#8217;t already exist, with the Markdown files listed in alphabetical order. If one names the Markdown files something like <code>01-first-section.md</code>, <code>02-second-section.md</code>, etc., then the order should be handled automatically.</li>
 </ul>
 <h2 id="disqus-integration">Disqus integration</h2>
 <p>You can choose to append a comments section at the end of your html. Just register a user name and the site name with <a href="disqus.com" class="uri">disqus.com</a>. Then in the <code>meta.yaml</code>, set <code>disqus: true</code>, and set your <code>disqus_shortname</code>.</p>

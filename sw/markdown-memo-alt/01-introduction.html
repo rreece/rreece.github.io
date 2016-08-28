@@ -74,7 +74,7 @@
 <p>This package makes it very easy to compile text taken in Markdown to valid xhtml or to a pdf via LaTeX. It can be used to make simple webpages quickly, for example: <a href="http://rreece.github.io/sw/markdown-memo/" class="uri">http://rreece.github.io/sw/markdown-memo/</a>.</p>
 <h2 id="how-it-works">How it works</h2>
 <p><a href="https://daringfireball.net/projects/markdown/">Markdown</a> is a very simple markup language for writing documents that basically looks as if you were to write your ideas in a plain-text email. In this package, we aim to hide some of the boiler-plate issues of compiling a completely formatted document or webpage from Markdown, trying to make it as trivial as possible to get your ideas out.</p>
-<p>Most of the heavy-lifting work underneath markdown-memo is done by the <a href="http://pandoc.org/">pandoc</a> program, which does the actual compilation of markdown to html or pdf.</p>
+<p>Most of the heavy-lifting work underneath markdown-memo is done by the <a href="http://pandoc.org/">pandoc</a> program, which does the actual compilation of Markdown to html or pdf.</p>
 <p>Most of the magic in the implementation of markdown-memo is in its <a href="https://github.com/rreece/markdown-memo/blob/master/Makefile">Makefile</a>, which basically calls pandoc in various useful configurations and applies some hacks to the output using the tools in <code>scripts/</code>.</p>
 <p><strong>Keep content and style separated</strong></p>
 <p>The idea is that all user <em>content</em> should be in plainly written <code>*.md</code> files and one metadata file: <code>meta.yaml</code>. All <em>stylistic</em> issues should be implemented in the details of the files in <code>templates/</code> and configurable through <code>meta.yaml</code></p>
