@@ -59,7 +59,11 @@
 
 <p></p>
 <h1 id="special-features">Special features</h1>
-<p>This is an appendix.</p>
+<p>This is an appendix. You start it like any other section, except put the follow command first, before the section heading.</p>
+<pre><code>\appendix
+
+Put appendix name here
+===============================================================================</code></pre>
 <p>If you add multiple appendices, perhaps you want to separate them from the main text with a part:</p>
 <pre><code>\clearpage
 \appendix
@@ -70,6 +74,24 @@ Example appendix
 ===============================================================================
 
 Start writing the appendix...</code></pre>
+<h2 id="special-files">Special files</h2>
+<p>There are a few special files that help steer the execution of <code>markdown-memo</code> or are otherwise exceptional.</p>
+<p>Documentation:</p>
+<ul>
+<li><code>README.md</code> - this file.</li>
+<li><code>VERSIONS</code> - documents the chronology <code>markdown-memo</code> versions. Feel free to delete or adapt this to your project.</li>
+</ul>
+<p>Primary files edited by the user:</p>
+<ul>
+<li><code>meta.yaml</code> - the main metadata file controlling the project in many ways.</li>
+<li><code>*.md</code> - any other user-created markdown files, the mark-up of your document.</li>
+</ul>
+<p>Optional files:</p>
+<ul>
+<li><code>index.[md,txt]</code> - The top-level, root file of your project. By default, if <code>index.txt</code> is missing, a table of contents is generated for <code>index.md</code>, otherwise (the user-written) <code>index.txt</code> is copied to be the <code>index.md</code>.</li>
+<li><code>bib_index.md</code> - Call <code>make bib_index.md</code> to generate this file. It is to help incoorporate citations into your document by being an automatically generated list of the references, with footnotes, created from the available bibliography files in <code>bibs/</code>.</li>
+<li><code>order.txt</code> - Optionally, the user can create this file, which should have a list of markdown files used in the document, one-per-line, in the order as to be used for the navigation buttons in the html template. By default, building the html will generate this file if it doesn&#8217;t already exist, with the markdown files listed in alphabetical order. If one names the markdown files something like <code>01-first-section.md</code>, <code>02-second-section.md</code>, etc., then the order should be handled automatically.</li>
+</ul>
 <h2 id="disqus-integration">Disqus integration</h2>
 <p>You can choose to append a comments section at the end of your html. Just register a user name and the site name with <a href="disqus.com" class="uri">disqus.com</a>. Then in the <code>meta.yaml</code>, set <code>disqus: true</code>, and set your <code>disqus_shortname</code>.</p>
 <h2 id="word-count">Word count</h2>
