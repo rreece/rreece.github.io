@@ -595,7 +595,7 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
-### More articles to do:
+### More articles to do
 
 -   Putnam, H. (1982).  Three Kinds of Scientific Realism.
 -   Putnam, H. (1982).  Why There Isn't a Ready-Made World.

@@ -150,6 +150,14 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
+### Snapper, E. (1979). The Three Crises in Mathematics: Logicism, Intuitionism, Formalism.
+
+#### My thoughts
+
+-   TODO.
+
+--------------------------------------------------------------------------------
+
 ### More articles to do
 
 -   TODO.
