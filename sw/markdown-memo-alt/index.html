@@ -8,8 +8,18 @@
   <meta name="author" content="R. Reece and J. Coauthor" />
   <meta name="date" content="Sun Aug 28, 2016" />
   <title>markdown-memo example document</title>
+  <meta name="description" content="markdown-memo example page." />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt.css"/>
 
+<!--- Google Analytics Tracking stuff  -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-55199032-1', 'auto');
+  ga('send', 'pageview');
+</script>
 
 <!--- MathJax stuff -->
 <script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
@@ -58,8 +68,8 @@
 </div>
 
 <div class="abstract">
-<p>This is an example document discussing and demonstrating how to use the markdown-memo package, meant to aid quick development of quality html and pdf documents from simple markdown markup. markdown-memo is developed by Ryan Reece at <a href="https://github.com/rreece/markdown-memo" class="uri">https://github.com/rreece/markdown-memo</a>.</p>
-<p><em>Keywords:</em> academic writing, digital humanities, LaTeX, open publishing, open science, productivity, technical writing, writing</p>
+<p>This is an example document discussing and demonstrating how to use the markdown-memo package, meant to aid quick development of quality html and pdf documents from simple markdown markup. Markdown-memo is developed by Ryan Reece at <a href="https://github.com/rreece/markdown-memo" class="uri">https://github.com/rreece/markdown-memo</a>.</p>
+<p><em>Keywords:</em> academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing</p>
 </div>
 
 <h3 id="contents" class="unnumbered">Contents</h3>
@@ -142,6 +152,35 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
   <div style="clear:both;"></div>
 </div>
 
+<!-- disqus stuff -->
+<div id="disqus_stuff">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'ryans-selected-software-projects';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript><p>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></p></noscript>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'ryans-selected-software-projects';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+</div> <!-- end disqus_stuff -->
 
 </body>
 </html>
