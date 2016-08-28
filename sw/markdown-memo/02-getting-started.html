@@ -72,14 +72,41 @@
 <h3 id="contents" class="unnumbered">Contents</h3>
 <ol style="list-style-type: decimal">
 <li><a href="02-getting-started.html#checking-out-the-template">Checking-out the template</a></li>
+<li><a href="02-getting-started.html#requirements">Requirements</a></li>
 <li><a href="02-getting-started.html#starting-a-page-or-section">Starting a page or section</a></li>
 <li><a href="02-getting-started.html#going-from-there">Going from there</a></li>
 <li><a href="02-getting-started.html#building-your-document">Building your document</a></li>
+<li><a href="02-getting-started.html#references">References</a></li>
 </ol>
 <h2 id="checking-out-the-template">Checking-out the template</h2>
 <p>Checking out markdown-memo with a simple git command, like:</p>
 <pre><code>git clone https://github.com/rreece/markdown-memo.git</code></pre>
-<p>TODO: discuss the <a href="https://github.com/rreece/markdown-memo/blob/master/README.md">README.md</a>.</p>
+<p>Some basic instructions are given in the <a href="https://github.com/rreece/markdown-memo/blob/master/README.md">README.md</a>. They are expounded on here.</p>
+<h2 id="requirements">Requirements</h2>
+<ul>
+<li>make</li>
+<li>LaTeX (texlive)</li>
+<li>cabal</li>
+<li>pandoc</li>
+</ul>
+<p>On my Mac laptop, I installed any missing dependencies through <a href="https://www.macports.org/">macports</a>.</p>
+<p>After installing <a href="https://www.macports.org/">macports</a>, maybe you need to do something like the following to install missing dependencies.</p>
+<pre><code>sudo port selfupdate
+sudo port install python27
+sudo port select python python27
+sudo port install py27-matplotlib
+sudo port install texlive-latex texlive-latex-recommended texlive-latex-extra texlive-math-extra texlive-science
+sudo port install hs-cabal-install
+sudo port install pandoc</code></pre>
+<p>I&#8217;ve also had to install <code>pandoc-crossref</code>, and I think I had to install <code>pandoc-citeproc</code>. In the case of <a href="https://github.com/lierdakil/pandoc-crossref">pandoc-crossref</a>, you simply do this to install:</p>
+<pre><code>cabal update
+cabal install pandoc-crossref</code></pre>
+<p>If something doesn&#8217;t work for you, please let me know! I&#8217;ll do my best improve the documentation and make the software more robust as time allows. Contact me at: <script type="text/javascript">
+<!--
+h='&#x63;&#x65;&#114;&#110;&#46;&#x63;&#104;';a='&#64;';n='&#114;&#x79;&#x61;&#110;&#46;&#114;&#x65;&#x65;&#x63;&#x65;';e=n+a+h;
+document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\/'+'a'+'>');
+// -->
+</script><noscript>&#114;&#x79;&#x61;&#110;&#46;&#114;&#x65;&#x65;&#x63;&#x65;&#32;&#x61;&#116;&#32;&#x63;&#x65;&#114;&#110;&#32;&#100;&#x6f;&#116;&#32;&#x63;&#104;</noscript></p>
 <h2 id="starting-a-page-or-section">Starting a page or section</h2>
 <p>Just open or create a first <code>md</code> file in that directory like <code>01-introduction.md</code>, and start typing. Each file should probably correspond to a webpage or section in the document, and in that case, it should begin with an <code>h1</code>-level heading (section), denoted with a double-rule of equal-signs, like:</p>
 <pre><code>Section title
@@ -87,6 +114,7 @@
 <p>Or marked like this:</p>
 <pre><code># Section title</code></pre>
 <p>Then you can have sub-sections as you wish, and/or just start typing the main text. There&#8217;s no need for additional markup or html.</p>
+<p>You can delete the example <code>*.md</code> files within this template when beginning your project.</p>
 <h2 id="going-from-there">Going from there</h2>
 <p>The following sections of this example document will show examples of Markdown syntax. For now, briefly, some examples of <a href="http://daringfireball.net/projects/markdown/syntax">Markdown syntax</a> are</p>
 <pre><code>Section 1
@@ -123,6 +151,11 @@ Or equations:
 </ul>
 <p>I use an image of my email to hide it from text crawlers. Please replace <code>img/my_email.png</code> with a screenshot of your email address instead of mine, or just remove the use of the image in <code>meta.yaml</code>.</p>
 <p>Customize the files in <code>templates/</code> to adjust the format of the output html and pdfs files to your needs.</p>
+<h2 id="references">References</h2>
+<p>   </p>
+<div class="references">
+
+</div>
 
 </div> <!-- end mainbody -->
 
