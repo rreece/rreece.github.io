@@ -78,7 +78,7 @@
 <p>Most of the heavy-lifting work underneath markdown-memo is done by the <a href="http://pandoc.org/">pandoc</a> program, which does the actual compilation of Markdown to html or pdf.</p>
 <p>Most of the magic in the implementation of markdown-memo is in its <a href="https://github.com/rreece/markdown-memo/blob/master/Makefile">Makefile</a>, which basically calls pandoc in various useful configurations and applies some hacks to the output using the tools in <code>scripts/</code>.</p>
 <p><strong>Keep content and style separated</strong></p>
-<p>The idea is that all user <em>content</em> should be in plainly written <code>*.md</code> files and one metadata file: <code>meta.yaml</code>. All <em>stylistic</em> issues should be implemented in the details of the files in <code>templates/</code> and configurable through <code>meta.yaml</code></p>
+<p>The idea is that all user <em>content</em> should be in plainly written <code>*.md</code> files and one metadata file: <code>meta.yaml</code>. All <em>stylistic</em> issues should be implemented in the details of the files in <code>templates/</code> and configurable through <code>meta.yaml</code>, and unless you want to, you shouldn&#8217;t have to worry about them.</p>
 <p>For example, <a href="http://rreece.github.io/sw/markdown-memo-alt/01-introduction.html">see what changes</a> when this document is created with</p>
 <pre><code>css: &#39;templates/markdown-memo-alt.css&#39;</code></pre>
 <p>set in <code>meta.yaml</code>, instead of the css file used in the <a href="http://rreece.github.io/sw/markdown-memo/01-introduction.html">default version</a>: <code>'templates/markdown-memo.css'</code>.</p>
