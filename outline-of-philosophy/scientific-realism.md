@@ -809,6 +809,7 @@ Links and Encyclopedia Articles
 -   [Speculative Realism](http://en.wikipedia.org/wiki/Speculative_realism)
 -   [Sellars, Roy Wood (1880-1973)](http://en.wikipedia.org/wiki/Roy_Wood_Sellars)
 -   [Sellars, Wilfrid (1912-1989)](http://en.wikipedia.org/wiki/Wilfrid_Sellars)
+-   [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair)
 -   [Structure of Scientific Revolutions, The](http://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)
 -   [Substantial Form](http://en.wikipedia.org/wiki/Substantial_form)
 -   [Two Dogmas of Empircism](http://en.wikipedia.org/wiki/Two_Dogmas_of_Empiricism)
