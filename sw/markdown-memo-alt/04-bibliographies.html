@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Wed Aug 31, 2016" />
+  <meta name="date" content="Thu Sep 01, 2016" />
   <title>Bibliographies - markdown-memo example document</title>
   <meta name="description" content="markdown-memo example page." />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt.css"/>
@@ -77,7 +77,10 @@
 </ol>
 <h2 id="making-a-bibliography">Making a bibliography</h2>
 <p>Markdown-memo uses <a href="https://en.wikipedia.org/wiki/BibTeX">bibtex</a> via <a href="http://pandoc.org/">pandoc</a> to generate a bibliography for your document. We&#8217;ve made this even simpler by allowing the user to create a simple text file to generate the necessary bibtex <code>.bib</code> file using the <a href="https://github.com/rreece/markdown2bib"><code>markdown2bib</code></a> script.</p>
-<p>TODO.</p>
+<p>TODO: explain <code>bibs/mybib.txt</code>.</p>
+<p>If you do not need a bibliography, set</p>
+<pre><code>dorefs: false</code></pre>
+<p>in <code>meta.yaml</code>, and then these scripts and programs are not run.</p>
 <h2 id="doing-citations">Doing citations</h2>
 <p>Citations start with an <code>@</code>-sign, and can be used inline, like:</p>
 <pre><code>@Miller_2014_Realism argues that we should get real.</code></pre>
@@ -150,7 +153,7 @@
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email-alt.png" alt="my email address"/></p>
-    <p>Wed Aug 31, 2016</p>
+    <p>Thu Sep 01, 2016</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2016 Ryan Reece. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>

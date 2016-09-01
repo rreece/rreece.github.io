@@ -196,6 +196,7 @@ Links and Encyclopedia Articles
 -   [Normativity of Meaning and Content](http://plato.stanford.edu/entries/meaning-normativity/)
 -   [Original Position](http://plato.stanford.edu/entries/original-position/)
 -   [Reasons for Action: Justification vs. Explanation](http://plato.stanford.edu/entries/reasons-just-vs-expl/)
+-   [Repugnant Conclusion, The](http://plato.stanford.edu/entries/repugnant-conclusion/)
 -   [Russell's Moral Philosophy](http://plato.stanford.edu/entries/russell-moral/)
 -   [Torture](http://plato.stanford.edu/entries/torture/)
 -   [Utilitarianism, The History of](http://plato.stanford.edu/entries/utilitarianism-history/)
