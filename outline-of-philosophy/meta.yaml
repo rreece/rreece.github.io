@@ -43,12 +43,14 @@ tblPrefix: "Table"
 css: 'templates/markdown-memo-alt.css'
 #email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
 email: '![my email address](img/my-email-alt.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
+favicon: '/img/markdown-favicon-196x196.png'
 disqus_shortname: 'ryans-outline-of-philosophy'
 description: "Ryan Reece's outline of philosophy"
 keywords: 'Ryan Reece, outline of philosophy, physics, data analysis, philosophy, science, philosophy of science'
 google_analytics_tracking_id: 'UA-55199032-1'
 mathjax: true
 navigation: true
+thumbnail: 'img/phil-of-science-v02.png'
 # pdflatex options ----------------------------------
 classoption:
     -   'openany'
