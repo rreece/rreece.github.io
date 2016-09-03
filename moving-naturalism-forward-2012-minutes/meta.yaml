@@ -42,7 +42,6 @@ tblPrefix: "Table"
 ## html options --------------------------------------
 css: 'templates/markdown-memo-alt.css'
 email: '![my email address](img/my-email-alt.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
-disqus: true
 disqus_shortname: 'ryans-moving-naturalism-forward-2012-minutes'
 #description: 'Write a description of this webpage.'
 #keywords: 'List, some, keywords, for, this, webpage'

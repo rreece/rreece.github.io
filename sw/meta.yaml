@@ -39,7 +39,6 @@ tblPrefix: "Table"
 ## html options -------------------------------------------
 css: 'templates/markdown-memo.css'
 email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
-disqus: true
 disqus_shortname: 'ryans-selected-software-projects'
 description: "Ryan Reece's selected software projects on github"
 keywords: 'Ryan Reece, markdown-memo, pyrootutils, rdrshell, roothtml, physics, LHC, ATLAS, python, data analysis, philosophy, science, philosophy of science'

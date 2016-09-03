@@ -42,7 +42,6 @@ tblPrefix: "Table"
 ## html options -------------------------------------------
 css: 'templates/markdown-memo.css'
 email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
-disqus: true
 disqus_shortname: 'ryans-philosophy-reading-list'
 description: "Ryan Reece's philosophy reading list."
 keywords: 'Ryan Reece, philosophy, philosophy of science, phyisics, phyisics of phyisics'
