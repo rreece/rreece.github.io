@@ -215,7 +215,7 @@ TODO.
 
 --------------------------------------------------------------------------------
 
-### Giulini, D., E. Joos, C. Kiefer, J. Kupsch, I.O. Stamatescu, & H. Zeh (1996). Decoherence and the Appearance of a Classical World in Quantum Theory.
+### Giulini, D., E. Joos, C. Kiefer, J. Kupsch, I.O. Stamatescu, & H. Zeh (1996). *Decoherence and the Appearance of a Classical World in Quantum Theory*.
 
 TODO.
 

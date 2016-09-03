@@ -12,8 +12,8 @@ Copyright 2013-2016.  All rights reserved.
 Word count
 ----------------------------------
 
-![my pages](wordcount/pages.png)
+![Page count over time.](wordcount/pages.png)
 
-![my words](wordcount/words.png)
+![Word count over time.](wordcount/words.png)
 
 
