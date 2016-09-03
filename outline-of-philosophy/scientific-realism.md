@@ -68,6 +68,10 @@ Science makes real progress in describing real features of the world.
 -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
 
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1/4 Essentialism is a far worse sin than scientism.<a href="https://twitter.com/hashtag/PhilSci?src=hash">#PhilSci</a> <a href="https://twitter.com/hashtag/scientism?src=hash">#scientism</a> <a href="https://twitter.com/hashtag/PessimisticMetaInduction?src=hash">#PessimisticMetaInduction</a></p>&mdash; Ryan Reece (@RyanDavidReece) <a href="https://twitter.com/RyanDavidReece/status/771828745028055040">September 2, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ### Instrumentalism
 
 Theoretical concepts may have use in predicting observations,
