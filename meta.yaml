@@ -41,12 +41,14 @@ eqnPrefix: "eq."
 tblPrefix: "Table"
 ## html options -------------------------------------------
 css: 'templates/markdown-memo.css'
-email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
 #disqus_shortname: 'my-sites-disqus-name'
 description: "Ryan Reece's webspace on github."
-keywords: 'Ryan Reece, physics, LHC, ATLAS, python, data analysis, philosophy, science, philosophy of science'
+email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
+favicon: '/img/markdown-favicon-196x196.png'
 google_analytics_tracking_id: 'UA-55199032-1'
+keywords: 'Ryan Reece, physics, LHC, ATLAS, python, data analysis, philosophy, science, philosophy of science'
 #mathjax: true
+#thumbnail: '/img/phil-of-science-v02.png'
 ## pdflatex options ---------------------------------------
 classoption:
     -   'openany'

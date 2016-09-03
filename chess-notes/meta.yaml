@@ -42,10 +42,12 @@ css: 'templates/markdown-memo.css'
 email: '![my email address](img/my_email.png) <br/> [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/)'
 #disqus_shortname: 'my-sites-disqus-name'
 #description: 'Write a description of this webpage.'
-#keywords: 'List, some, keywords, for, this, webpage'
+favicon: '/img/markdown-favicon-196x196.png'
 google_analytics_tracking_id: 'UA-55199032-1'
+#keywords: 'List, some, keywords, for, this, webpage'
 #mathjax: true
 navigation: true
+#thumbnail: '/img/phil-of-science-v02.png'
 ## pdflatex options ---------------------------------------
 classoption:
     -   'openany'
