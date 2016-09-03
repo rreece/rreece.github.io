@@ -104,11 +104,10 @@ Start writing the appendix...</code></pre>
 <li><code>order.txt</code> - Optionally, the user can create this file, which should have a list of Markdown files used in the document, one-per-line, in the order as to be used for the navigation buttons in the html template. By default, building the html will generate this file if it doesn&#8217;t already exist, with the Markdown files listed in alphabetical order. If one names the Markdown files something like <code>01-first-section.md</code>, <code>02-second-section.md</code>, etc., then the order should be handled automatically.</li>
 </ul>
 <h2 id="disqus-integration">Disqus integration</h2>
-<p>You can choose to append a comments section at the end of your html. Just register a user name and the site name with <a href="disqus.com" class="uri">disqus.com</a>. Then in the <code>meta.yaml</code>, set <code>disqus: true</code>, and set your <code>disqus_shortname</code>.</p>
-<pre><code>disqus: true
-disqus_shortname: &#39;my-sites-disqus-name&#39;</code></pre>
+<p>You can choose to append a comments section at the end of your html. Just register a user name and the site name with <a href="disqus.com" class="uri">disqus.com</a>. Then in the <code>meta.yaml</code>, set your <code>disqus_shortname</code>:</p>
+<pre><code>disqus_shortname: &#39;my-sites-disqus-name&#39;</code></pre>
 <h2 id="google-analytics-integration">Google analytics integration</h2>
-<p>You can choose to add Google analytics tracking to your site, by registering it with <a href="https://analytics.google.com/">Google analytics</a> and add your tracking ID to the <code>meta.yaml</code>.</p>
+<p>You can choose to add Google analytics tracking to your site, by registering it with <a href="https://analytics.google.com/">Google analytics</a> and add your tracking ID to the <code>meta.yaml</code>:</p>
 <pre><code>google_analytics_tracking_id: &#39;UA-XXXXXXXX-X&#39;</code></pre>
 <h2 id="word-count">Word count</h2>
 <p>Note that word-count and page-count plots are generated when you call <code>make pdf</code>. You might want to keep these around in the <code>README.md</code> for your document.</p>
