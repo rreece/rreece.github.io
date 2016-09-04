@@ -152,6 +152,7 @@ Links and Encyclopedia Articles
 -   [Artificial Intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence)
 -   [Behaviorism](http://en.wikipedia.org/wiki/Behaviorism)
 -   [Cartesian theater](http://en.wikipedia.org/wiki/Cartesian_theater)
+-   [Charles Whitman](https://en.wikipedia.org/wiki/Charles_Whitman)
 -   [Consciousness](http://en.wikipedia.org/wiki/Consciousness)
 -   [Extended Mind](http://en.wikipedia.org/wiki/The_Extended_Mind)
 -   [Free will](http://en.wikipedia.org/wiki/Free_will)
