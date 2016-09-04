@@ -113,7 +113,8 @@ TODO.
 
 ### More articles to do
 
--   TODO.
+-   Leemis, L.M. & McQueston, J.T. (2008). Univariate Distribution Relationships. *The American Statistician*, 62(1), pp. 45--53.
+-   Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.
 
 
 Links and Encyclopedia Articles
