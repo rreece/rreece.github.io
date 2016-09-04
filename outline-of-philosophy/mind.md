@@ -92,7 +92,11 @@ TODO.
 
 ### More articles to do
 
--   TODO.
+-   [Reflections on Free Will](https://www.samharris.org/blog/item/reflections-on-free-will) - Daniel Dennett
+-   [The Marionette's Lament](https://www.samharris.org/blog/item/the-marionettes-lament) - Sam Harris
+-   [Caricaturing free will](http://www.pawelpachniewski.com/mental-contractions/2014/08/caricaturing-free-will/) - Pawel Pachniewski
+-   [Dennett and Harris try to bridge the gap](https://www.youtube.com/watch?v=vFa7vFkVy4g) - Waking Up podcast
+-   [Free will is dead, let's bury it.](http://backreaction.blogspot.ch/2016/01/free-will-is-dead-lets-bury-it.html) - Sabine Hossenfelder
 
 
 Links and Encyclopedia Articles
