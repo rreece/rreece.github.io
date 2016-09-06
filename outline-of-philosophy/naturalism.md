@@ -226,6 +226,7 @@ Links and Encyclopedia Articles
     -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/worldview-naturalism/history-of-naturalism)
 -   [Moving Naturalism Forward (2012)](http://preposterousuniverse.com/naturalism2012/)
 -   [Ryan's Minutes of "Moving Naturalism Forward (2012)"](http://rreece.github.io/moving-naturalism-forward-2012-minutes/)
+-   [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) - Maria Konnikova
 
 ### Videos
 
