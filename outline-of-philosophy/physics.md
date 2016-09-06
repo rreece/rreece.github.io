@@ -316,6 +316,7 @@ Links and Encyclopedia Articles
 -   [Entropy](http://en.wikipedia.org/wiki/Entropy)
 -   [Entropy, Introduction to](http://en.wikipedia.org/wiki/Introduction_to_entropy)
 -   [Eternalism (philosophy of time)](https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time))
+-   [Equipartition theorem](https://en.wikipedia.org/wiki/Equipartition_theorem)
 -   [Four-dimensionalism](https://en.wikipedia.org/wiki/Four-dimensionalism)
 -   [Field](http://en.wikipedia.org/wiki/Field_(physics))
 -   [Firewall](http://en.wikipedia.org/wiki/Firewall_%28physics%29)
