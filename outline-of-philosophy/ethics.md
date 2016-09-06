@@ -269,6 +269,8 @@ Links and Encyclopedia Articles
 
 -   [Luciano Floridi: "Ethics in the Age of Information"](https://www.youtube.com/watch?v=lLH70qkROWQ)
     -   [Floridi settles the trolley problem in the way I view it: "Inaction is action"](https://www.youtube.com/v/lLH70qkROWQ&start=4216&end=4266)
+-   [The Morality of Fundamental Physics](https://www.youtube.com/watch?v=OzATDiLFH8Q) - Nima Arkani-Hamed
+
 
 
   [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
