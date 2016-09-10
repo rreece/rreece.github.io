@@ -45,9 +45,14 @@ have equal confidence in every voice once they have spoken their case.
 But it does mean that we shouldn't be afraid of exploring and scrutinizing
 any of the variety of claims that people make.
 
+
+>   I want to believe as many true things and as few false things as possible.
+
+-- Matt Dillahunty
+
 >   Truth springs from arguments amongst friends.
 
--- David Hume
+-- David Hume (misattributed, but still beautiful)
 
 >   Extraordinary claims require extraordinary evidence.
 
@@ -56,10 +61,6 @@ any of the variety of claims that people make.
 >   A wise man, therefore, proportions his belief to the evidence.
 
 -- David Hume
-
->   I want to believe as many true things and as few false things as possible.
-
--- Matt Dillahunty
 
 
 I implore you to do your best to put emotions aside and to approach discussions
