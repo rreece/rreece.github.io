@@ -198,7 +198,7 @@ Not knowing
     Are people doing that now?
 -   Is it ok to say "*I don't know*"?
 -   Do we need to know everything to live our lives?
--   Is it possible that universe is bigger and weirder than we even imagine?
+-   Is it possible that universe is bigger, older, and weirder than we even imagine?
 -   Is there any reason to think that it is plausible that the religions
     developed on earth have answers to cosmological questions?
 -   What about moral questions?
