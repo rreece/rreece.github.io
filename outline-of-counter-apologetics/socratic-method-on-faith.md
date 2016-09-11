@@ -8,6 +8,8 @@ The Socratic Method Applied to Faith
 Preface
 --------------------------------------------------------------------------------
 
+What does it mean to seek the truth with an open mind?
+
 In this document, I hope to engage you in a calm and rational discussion
 of what faith is and what kind of beliefs it fosters.
 Absolutely nothing in this text should be taken dogmatically.
