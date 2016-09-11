@@ -10,7 +10,7 @@ Preface
 
 In this document, I hope to engage you in a calm and rational discussion
 of what faith is and what kind of beliefs it fosters.
-Absolutley nothing in this text should be taken dogmatically.
+Absolutely nothing in this text should be taken dogmatically.
 It's an invitation for us to bring an open mind to some of the most intimate
 and influential ideas in the world.
 
