@@ -1,7 +1,7 @@
 The Socratic Method Applied to Faith
 ================================================================================
 
-*What does it mean to seek the truth with an open mind?*
+**_What does it mean to seek the truth with an open mind?_**
 
 
 ![](img/socrates-teaching.jpg)
