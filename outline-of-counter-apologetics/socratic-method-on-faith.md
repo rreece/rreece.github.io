@@ -146,7 +146,7 @@ Morality
 -   You are concerned that people won't have a moral compass without religion.
     Despite the world's many disagreements, why are there so many moral tenets
     that we have in common across religious and cultural lines?
--   Is it not natural for people to want safety, shelter, love, and to avoid pain?
+-   Is it natural for people to want safety, shelter, love, and to avoid pain?
 -   Is it evident in nature that cooperation and empathy are good strategies
     to dealing with others?  Is it rational to consider yourself one of many and to work to
     mitigate risk and suffering?  Is that not why we build communities, forts, and insurance?
@@ -173,7 +173,8 @@ The soul
 -   When a person wonders "what will it be like after I die?",
     is there any reason to think it will be any different than what it was like
     before you were alive?
--   Isn't it clear that our experience is contingent on our material conditions?
+-   Is it not the case that our experience is directly contingent on our material
+    conditions?
 -   If there was a reproducibly demonstrable phenomenon that was not considered part of
     the natural world, wouldn't we just incorporate it into our view of nature?
 -   If something participates in the cause and effect of the natural world,
