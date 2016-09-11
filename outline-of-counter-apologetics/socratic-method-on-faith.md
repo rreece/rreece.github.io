@@ -100,7 +100,7 @@ Faith
     Why should we trust those authorities?
 -   Are the checks and balances on clerics that promote your religion
     equivalent to those on the authorities of academic, civil, engineering,
-    or medical disciplines?
+    legal, or medical disciplines?
 -   Do we generally trust authorities without evidence?
 -   What does it mean to be objective?
 -   What does it mean to be open to criticism?
