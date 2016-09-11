@@ -74,7 +74,7 @@ Shouldn't we be able to explore thoroughly the implications of our
 ideas, especially those that are most dear to us?
 
 What follows is meant to be a set of questions in the Socratic tradition.
-The reader is invited to ponder them and seek their own answers.
+The reader is invited to ponder them and *seek their own answers*.
 
 
 Faith
