@@ -2,7 +2,7 @@ The Socratic Method Applied to Faith
 ================================================================================
 
 
-![](img/death-of-socrates.jpg "Detail of &quot;The Death of Socrates&quot;, 1787. Jacques-Louis David (French, 1748-1825).")
+![](img/socrates-teaching.jpg)
 
 
 Preface
@@ -63,7 +63,7 @@ any of the variety of claims that people make.
 -- David Hume
 
 
-I implore you to do your best to put emotions aside and to approach discussions
+Let's do our best to put caustic emotions aside and to approach discussions
 with an open mind.
 The Enlightenment, which begat the proliferation of the scientific method, has taught us that being
 honest and open with our neighbors and supporting our claims with evidence is the route to progress.
@@ -155,7 +155,7 @@ Morality
     How about encouraging open-mindedness, critical thinking, and a respect for evidence?
 
 
-The Soul
+The soul
 --------------------------------------------------------------------------------
 
 -   What is the soul?  How do you distinguish it from your consciousness?
@@ -199,8 +199,9 @@ Not knowing
 -   Is it ok to say "*I don't know*"?
 -   Do we need to know everything to live our lives?
 -   Is it possible that universe is bigger, older, and weirder than we even imagine?
--   Is there any reason to think that it is plausible that the religions
-    developed on earth have answers to cosmological questions?
+-   Is there any reason to think that it is *plausible* that the religions
+    that developed and evolved on earth have reliable answers to cosmological
+    questions?
 -   What about moral questions?
 
 
