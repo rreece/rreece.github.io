@@ -178,7 +178,7 @@ Not knowing
 -   Can you think of any examples of people being sure of something that was
     false and causing conflict and suffering because of it?
     Are people doing that now?
--   Is it possible that universe is bigger, older, and weirder than we even imagine?
+-   Is it possible that the universe is bigger, older, and weirder than we even imagine?
 -   Is there any reason to think that it is *plausible* that the religions
     that developed and evolved on earth have reliable answers to cosmological
     questions?
