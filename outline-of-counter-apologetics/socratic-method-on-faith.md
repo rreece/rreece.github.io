@@ -12,34 +12,12 @@ Preface
 
 In this document, I hope to engage you in a calm and rational discussion
 of what *faith* is and what kind of beliefs it fosters.
-Absolutely nothing in this text should be taken dogmatically.
+Absolutely nothing in this text should be taken threateningly or dogmatically.
 It's an invitation for us to bring an open mind to some of the most intimate
 and influential ideas in the world.
 
-Anticipating that many believers will get overly defensive when discussing
-the possibilities of the validity of their faith, let's start with some
-common objections you may have to even having the conversation.
-
->   See to it that no one makes a prey of you by philosophy and empty deceit,
->   according to human tradition, according to the elemental spirits of the
->   universe, and not according to Christ.
-
--- Colossians 2:8 (RSV)
-
->   But avoid stupid controversies, genealogies, dissensions, and quarrels over
->   the law, for they are unprofitable and futile.
->   As for a man who is factious, after admonishing him once or twice,
->   have nothing more to do with him.
-
--- Titus 3:9-10 (RSV)
-
-Verses like the above and the sentiments they represent are door-closers,
-not openers. *If we all agree that we value truth* and are interested in
+*If we all agree that we value truth* and are interested in
 finding it and dispelling misunderstandings, discussion is our primary tool.
-Note that the first verse above from Colossians could be appropriately
-chanted in North Korea, replacing "Christ" with "The Dear Leader",
-as a way to stifle heretical opinion.
-
 The idealogical gridlock endemic in even the best governments is an example of how
 potential progress is halted because possibilities won't be discussed openly
 with fair consideration given to each view.  That doesn't mean we should
@@ -73,7 +51,8 @@ The correct ideas should be demonstrable and will withstand scrutiny.
 Shouldn't we be able to explore thoroughly the implications of our
 ideas, especially those that are most dear to us?
 
-What follows is meant to be a set of questions in the Socratic tradition.
+What follows is meant to be a set of questions in the
+[Socratic method](https://en.wikipedia.org/wiki/Socratic_method).
 The reader is invited to ponder them and *seek their own answers*.
 
 
@@ -206,6 +185,13 @@ Not knowing
 -   What about moral questions?
 -   Is it ok to say "*I don't know*"?
 -   Do we need to know everything to live our lives?
+
+
+>   We wish to pursue the truth no matter where it leads. But to find the truth,
+>   we need imagination and skepticism both. We will not be afraid to speculate,
+>   but we will be careful to distinguish speculation from fact.
+
+-- Carl Sagan
 
 
 --------------------------------------------------------------------------------
