@@ -60,6 +60,12 @@ and beliefs that are inconsequential...
 Beliefs that are called "faith" are typically of
 great importance but only have very weak or absent evidence.
 
+
+>   Now faith is the assurance of things hoped for,
+>   the conviction of things not seen.
+
+-- Hebrews 11:1 (RSV)
+
 >   I want to believe as many true things and as few false things as possible.
 
 -- Matt Dillahunty
@@ -84,12 +90,6 @@ The reader is invited to ponder them and *seek their own answers*.
 
 Faith
 --------------------------------------------------------------------------------
-
->   Now faith is the assurance of things hoped for,
->   the conviction of things not seen.
-
--- Hebrews 11:1 (RSV)
-
 
 -   What is faith?  Would you accept the definition that faith is
     "complete or significant trust or confidence in something *despite a lack of evidence*"?
