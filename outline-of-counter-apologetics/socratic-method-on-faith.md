@@ -28,7 +28,15 @@ have equal confidence in every voice once they have spoken their case.
 But it does mean that we shouldn't be afraid of exploring and scrutinizing
 any of the variety of claims that people make.
 
-What do we mean by faith? Before getting bogged-down in a long, semantic
+Let's do our best to put caustic emotions aside and to approach discussions
+with an open mind.
+The Enlightenment, which begat the proliferation of the scientific method, has taught us that being
+honest and open with our neighbors and supporting our claims with evidence is the route to progress.
+The correct ideas should be demonstrable and will withstand scrutiny.
+Shouldn't we be able to explore thoroughly the implications of our
+ideas, especially those that are most dear to us?
+
+First, what do we mean by faith? Before getting bogged-down in a long, semantic
 but worthy discussion of the differences between
 belief / faith / trust / confidence / knowledge,
 let us briefly acknowledge that a belief is roughly just something you would affirm,
@@ -55,14 +63,6 @@ but only have weak or absent evidence.
 
 -- David Hume
 
-
-Let's do our best to put caustic emotions aside and to approach discussions
-with an open mind.
-The Enlightenment, which begat the proliferation of the scientific method, has taught us that being
-honest and open with our neighbors and supporting our claims with evidence is the route to progress.
-The correct ideas should be demonstrable and will withstand scrutiny.
-Shouldn't we be able to explore thoroughly the implications of our
-ideas, especially those that are most dear to us?
 
 What follows is meant to be a set of questions in the
 [Socratic method](https://en.wikipedia.org/wiki/Socratic_method).
