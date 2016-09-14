@@ -16,8 +16,9 @@ Absolutely nothing in this text should be taken threateningly or dogmatically.
 It's an invitation for us to bring an open mind to some of the most intimate
 and influential ideas in the world.
 
-*If we all agree that we value truth* and are interested in
-finding it and dispelling misunderstandings, discussion is our primary tool.
+*If we all agree that we value truth*, that we are interested in
+finding it and dispelling misunderstandings,
+then discussion is our primary tool.
 The idealogical gridlock endemic in even the best governments is an example of how
 potential progress is halted because possibilities won't be discussed openly
 with fair consideration given to each view.  That doesn't mean we should
