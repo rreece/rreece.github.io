@@ -44,7 +44,7 @@ for whatever reasons,
 and that different beliefs come with different kinds of support and merit
 different degrees of confidence.
 Beliefs that are called "faith" are typically of great importance
-but only have weak or absent evidence.
+but only have very weak or absent evidence.
 
 
 >   I want to believe as many true things and as few false things as possible.
