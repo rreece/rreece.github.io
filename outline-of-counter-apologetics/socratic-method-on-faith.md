@@ -16,7 +16,9 @@ Absolutely nothing in this text should be taken threateningly or dogmatically.
 It's an invitation for us to bring an open mind to some of the most intimate
 and influential ideas in the world.
 
-*If we all agree that we value truth*, that we are interested in
+Many may feel uncomfortable discussing the validity of faith,
+but *if we all agree that we value truth*
+and that we are interested in
 finding it and dispelling misunderstandings,
 then discussion is our primary tool.
 The idealogical gridlock endemic in even the best governments is an example of how
@@ -25,6 +27,16 @@ with fair consideration given to each view.  That doesn't mean we should
 have equal confidence in every voice once they have spoken their case.
 But it does mean that we shouldn't be afraid of exploring and scrutinizing
 any of the variety of claims that people make.
+
+What do we mean by faith? Before getting bogged-down in a long, semantic
+but worthy discussion of the differences between
+belief / faith / trust / confidence / knowledge,
+let us briefly acknowledge that a belief is roughly just something you would affirm,
+for whatever reasons,
+and that different beliefs come with different kinds of support and merit
+different degrees of confidence.
+Beliefs that are called "faith" are typically of great importance
+but only have weak or absent evidence.
 
 
 >   I want to believe as many true things and as few false things as possible.
