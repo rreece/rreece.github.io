@@ -160,9 +160,7 @@ div#site_footer a:hover {
 }
 
 img.email {
-    display: inline;
-    margin: 0;
-    vertical-align: middle;
+    /*vertical-align: text-bottom;*/
 }
 
 div#disqus_stuff {
@@ -412,26 +410,22 @@ a.footnoteRef sup {
 {
     float: right;
     clear: right;
-    /*margin-bottom: 20px;*/
-    border-bottom: 20px;
-    border-left: 20px;
-    border-style: solid;
-    border-color: white;
-    background-color: #cccccc;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 0;
     padding: 4px;
+    background-color: #cccccc;
 }
 
 .floatleft
 {
     float: left;
     clear: left;   
-    /*margin-bottom: 20px;*/
-    border-bottom: 20px;
-    border-right: 20px;
-    border-style: solid;
-    border-color: white;
-    background-color: #cccccc;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    border: 0;
     padding: 4px;
+    background-color: #cccccc;
 }
 
 .block
@@ -504,13 +498,3 @@ div.clickmore a.closed:before
     content: "[+] ";
 }
 div.more
-{
-    display: none;
-    clear: both;
-    margin-top: 8px;
-    margin-bottom: 16px;
-    border-top: 2px #cccccc dashed;
-    border-bottom: 2px #cccccc dashed;
-}
-
-
