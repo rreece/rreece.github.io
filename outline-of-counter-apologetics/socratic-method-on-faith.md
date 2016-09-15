@@ -36,16 +36,6 @@ The correct ideas should be demonstrable and will withstand scrutiny.
 Shouldn't we be able to explore thoroughly the implications of our
 ideas, especially those that are most dear to us?
 
-First, what do we mean by faith? Before getting bogged-down in a long, semantic
-but worthy discussion of the differences between
-belief / faith / trust / confidence / knowledge,
-let us briefly acknowledge that a belief is roughly just something you would affirm,
-for whatever reasons,
-and that different beliefs come with different kinds of support and merit
-different degrees of confidence.
-Beliefs that are called "faith" are typically of great importance
-but only have very weak or absent evidence.
-
 First, what do we mean by faith? Before getting bogged-down in a long,
 semantic but worthy discussion of the differences between
 belief / faith / trust / confidence / knowledge,
