@@ -93,6 +93,7 @@ Faith
 
 -   What is faith?  Would you accept the definition that faith is
     "complete or significant trust or confidence in something *despite a lack of evidence*"?
+    See Hebrews 11:1 above.
 -   Is faith a reliable way to discover truth?  Can you give any examples?
 -   Why don't scientific journals or court rooms accept testimony based on faith?
 -   Why is evidence important to making judgments and forming beliefs?
