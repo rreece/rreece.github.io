@@ -39,14 +39,14 @@ ideas, especially those that are most dear to us?
 First, what do we mean by faith? Before getting bogged-down in a long,
 semantic but worthy discussion of the differences between
 belief / faith / trust / confidence / knowledge,
-let us briefly acknowledge that a belief is roughly just something
+let us briefly acknowledge that a *belief* is roughly just something
 you would affirm, for whatever reasons.
-Belief is an umbrella term for the words above.
+"Belief" is an umbrella term for the words above.
 Different beliefs come with different kinds of support
 and merit different degrees of confidence.
 There are well-justified beliefs, poorly justified,
 strongly held, weakly held, beliefs that are important,
-and beliefs that are inconsequential...
+and beliefs that are inconsequential.
 Beliefs that are called "faith" are typically of
 great importance but only have very weak or absent evidence.
 
@@ -161,7 +161,7 @@ The soul
     there is no mystery that it is the seat of our experience.
     Our conscious experience is clearly constrained by our physiology,
     as can be demonstrated by damaging parts of the brain, taking drugs,
-    or having low blood sugar.  Your body grew from a single cell into the
+    or just having low blood sugar.  Your body grew from a single cell into the
     complex network of interconnected biological machines that makes a human.
     Is there any reason to think that any part of being a human involves anything
     immaterial?
