@@ -86,7 +86,7 @@ Faith
     See Hebrews 11:1 above.
 -   Is faith a reliable way to discover truth?  Can you give any examples?
 -   Why don't scientific journals or court rooms accept testimony based on faith?
--   Why is evidence important to making judgments and forming beliefs?
+-   Is evidence important to making judgments and forming beliefs?
     Note that a lot of opinions out there, exist not because of good evidence,
     but because of culture, or fashion, or accidents of history, or wishful thinking,
     or other forms of viral ignorance. 
@@ -94,7 +94,7 @@ Faith
     be realists about our situations and make decisions based on the facts?
 -   OK, you accept the testimony of some authorities on faith.
     Why should we trust those authorities?
--   Are the checks and balances on clerics that promote your religion
+-   Are the checks and balances on clerics that promote religion
     equivalent to those on the authorities of academic, civil, engineering,
     legal, or medical disciplines?
 -   Do we generally trust authorities without evidence?
@@ -132,8 +132,10 @@ Scripture
 -   Is there any good reason to believe that Joseph Smith had a divine revelation
     when he supposedly translated the golden tablets that became the Book of Mormon
     in 1830?  How are other supposed events of revelation any different?
--   Is there anything about the way the world is that would be mysterious
-    under the hypothesis that the metaphysical claims of religion are false?
+-   Is there anything about the development of the world's religions
+    and their scriptures that would be mysterious
+    under the hypothesis that the metaphysical claims of religions
+    are largely mistaken and false?
 
 
 Morality
