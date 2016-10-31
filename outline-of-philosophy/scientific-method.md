@@ -429,6 +429,7 @@ Links and Encyclopedia Articles
 -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
 -   [Hypothetico-deductive model](https://en.wikipedia.org/wiki/Hypothetico-deductive_model)
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
+-   [Inductivism](https://en.wikipedia.org/wiki/Inductivism)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
 -   [Justification, Theory of](https://en.wikipedia.org/wiki/Theory_of_justification)
 -   [Knowledge](https://en.wikipedia.org/wiki/Knowledge)
