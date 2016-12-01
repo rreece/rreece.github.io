@@ -25,7 +25,9 @@ eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-### Materialism
+### Physicalism
+
+-   Materialism
 
 
 ### Free will
@@ -156,14 +158,21 @@ Links and Encyclopedia Articles
 -   [Cartesian theater](http://en.wikipedia.org/wiki/Cartesian_theater)
 -   [Charles Whitman](https://en.wikipedia.org/wiki/Charles_Whitman)
 -   [Consciousness](http://en.wikipedia.org/wiki/Consciousness)
+-   [Eliminative materialism](https://en.wikipedia.org/wiki/Eliminative_materialism)
 -   [Extended Mind](http://en.wikipedia.org/wiki/The_Extended_Mind)
 -   [Free will](http://en.wikipedia.org/wiki/Free_will)
 -   [Free will theorem](http://en.wikipedia.org/wiki/Free_will_theorem)
+-   [Functionalism](https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind))
 -   [Integrated information theory](http://en.wikipedia.org/wiki/Integrated_information_theory)
 -   [Internalism and externalism](https://en.wikipedia.org/wiki/Internalism_and_externalism)
 -   [Knowledge argument](http://en.wikipedia.org/wiki/Knowledge_argument)
+-   [Materialism](https://en.wikipedia.org/wiki/Materialism)
+-   [Multiple realizability](https://en.wikipedia.org/wiki/Multiple_realizability)
 -   [Philosophy of mind](http://en.wikipedia.org/wiki/Philosophy_of_mind)
+-   [Physicalism](https://en.wikipedia.org/wiki/Physicalism)
+-   [Reductionism](https://en.wikipedia.org/wiki/Reductionism)
 -   [Unsolved problems in neuroscience, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience)
+-   [Zombie, Philosophical](https://en.wikipedia.org/wiki/Philosophical_zombie)
 
 ### Others
 
