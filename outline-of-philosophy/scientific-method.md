@@ -122,10 +122,9 @@ TODO.
 TODO.
 
 -   Frequentist vs Bayesian probability
--   Accuracy vs precision
--   Statistical hypothesis testing: power and confidence
 -   Jerzy Neyman, Egon Pearson, Ronald Fisher
--   Feldman-Cousins confidence intervals
+-   Statistical hypothesis testing: power and confidence
+-   Neyman-Pearson lemma
 -   See the outline on [statistics](statistics.html).
 
 
@@ -133,8 +132,9 @@ TODO.
 
 TODO.
 
--   Knowledge = JTB-G. Plato. Gettier cases.
+-   Knowledge = JTB-G. Plato.
 -   Systematic uncertanties.  Failed justification.
+-   Gettier cases.
 -   Hume on the problem of induction and the uniformity of nature.
 -   Uniformitarianism: Unless we have a collective and/or non-local conspiracies,
     we can probablistically justify assumptions of uniformity.

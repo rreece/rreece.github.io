@@ -19,14 +19,15 @@ Issues and Positions
 
 -   Frequentist vs Bayesian probability
 -   Accuracy vs precision
+-   Jerzy Neyman, Egon Pearson, Ronald Fisher
 -   Likelihood principle
+-   Statistical hypothesis testing: power and confidence
 -   Neyman-Pearson lemma
 -   Cram&#233;r-Rao bound
--   Statistical hypothesis testing: power and confidence
--   Jerzy Neyman, Egon Pearson, Ronald Fisher
--   Feldman-Cousins confidence intervals
+-   Wilks/Wald
 -   Type-1 and type-2 systematic errors
 -   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekko Sinervo (PhyStat2003)
+-   Flip-flopping and Feldman-Cousins confidence intervals
 
 ![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties)).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
 
