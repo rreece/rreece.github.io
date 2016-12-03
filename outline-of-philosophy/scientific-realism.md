@@ -795,6 +795,7 @@ Links and Encyclopedia Articles
 -   [Pessimistic induction](http://en.wikipedia.org/wiki/Pessimistic_induction)
 -   [Philosophy of science](http://en.wikipedia.org/wiki/Philosophy_of_science)
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
+-   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Positivism](http://en.wikipedia.org/wiki/Positivism)
 -   [Positivism Dispute](http://en.wikipedia.org/wiki/Positivism_dispute)
 -   [Postpositivism](http://en.wikipedia.org/wiki/Postpositivism)
