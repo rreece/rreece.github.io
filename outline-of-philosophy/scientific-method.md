@@ -106,6 +106,17 @@ TODO.
 -   Scientism
 
 
+### Abduction
+
+TODO.
+
+-   Ockham, parsimony
+-   Karl Popper
+-   Inference to the best explanation 
+-   Natural kinds, abstraction
+-   Convergence
+
+
 ### Statistical Measurement
 
 TODO.
@@ -118,27 +129,18 @@ TODO.
 -   See the outline on [statistics](statistics.html).
 
 
-### Abduction
-
-TODO.
-
--   Inference to the best explanation 
--   Ockham, parsimony
--   Natural kinds, abstraction
--   Convergence
-
-
 ### Scientific Knowledge and Realism
 
 TODO.
 
 -   Knowledge = JTB-G. Plato. Gettier cases.
 -   Systematic uncertanties.  Failed justification.
--   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
--   Ontological implications of science.
--   See the outline on [scientific realism](scientific-realism.html).
+-   Hume on the problem of induction and the uniformity of nature.
 -   Uniformitarianism: Unless we have a collective and/or non-local conspiracies,
     we can probablistically justify assumptions of uniformity.
+-   Ontological implications of science.
+-   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
+-   See the outline on [scientific realism](scientific-realism.html).
 
 <img src="img/knowledge.png" alt="Knowledge = JTB - G" title="Knowledge = JTB - G" width="700"/>
 
@@ -153,14 +155,15 @@ The Stopped Clock:
 -- from Russell's "Human Knowledge: Its Scope & Limits"
 
 
-### Naturalism, Reductionism, and Monism
+### Naturalism, Monism, and Reductionism
 
 TODO.
 
--   See the outline on [Naturalism](naturalism.html).
--   Reductionism
+-   Hume on the problem of induction and the uniformity of nature, again.
 -   Monism
 -   Parmenides
+-   Reductionism
+-   See the outline on [Naturalism](naturalism.html).
 
 
 ### Pseudoscience

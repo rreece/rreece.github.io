@@ -75,12 +75,11 @@ See the outline on [philosophy of mathematics](math.html#naturalism).
 
 TODO.
 
-Materialism/physicalism/functionalism.
-
-Part of methodological naturalism, but also a 
-result of empirical confirmation.
-
-See the outline on [mind](mind.html).
+-   Parmenides
+-   Materialism/physicalism/functionalism
+-   Alyssa Ney
+-   Part of methodological naturalism, but also a result of empirical confirmation.
+-   See the outline on [mind](mind.html).
 
 
 ### Rejection of the Supernatural
@@ -212,10 +211,14 @@ Links and Encyclopedia Articles
 
 -   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
+-   [Materialism](https://en.wikipedia.org/wiki/Materialism)
 -   [Multiple realizability](https://en.wikipedia.org/wiki/Multiple_realizability)
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy))
+-   [Natural kind](https://en.wikipedia.org/wiki/Natural_kind)
+-   [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 -   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
+-   [Reductionism](https://en.wikipedia.org/wiki/Reductionism)
 -   [Species problem](https://en.wikipedia.org/wiki/Species_problem)
 -   [Unity of Science](https://en.wikipedia.org/wiki/Unity_of_science)
 -   [Unsolved problems in philosophy, List of](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_philosophy)
