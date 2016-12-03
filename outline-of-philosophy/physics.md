@@ -117,6 +117,10 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 -   [watch the 3 episodes](http://topdocumentaryfilms.com/atom-tim/)
 
+### Interpretations of quantum mechanics
+
+![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
+
 
 ### The Standard Model of Particle Physics
 

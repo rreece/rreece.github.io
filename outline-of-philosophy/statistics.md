@@ -28,6 +28,8 @@ Issues and Positions
 -   Type-1 and type-2 systematic errors
 -   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekko Sinervo (PhyStat2003)
 
+![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties)).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
+
 
 My Thoughts
 --------------------------------------------------------------------------------

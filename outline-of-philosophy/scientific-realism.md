@@ -192,6 +192,8 @@ but does not justify metaphysical claims about reality.
 -   van Fraassen's "Arguments Concerning Scientific Realism"[^van-Fraassen-1980]
 -   Unlike positivism/instrumentalism, theories should be taken literally.
 
+![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories)).](img/true-vs-literal-theories.png){#fig:true-vs-literal-theories}
+
 
 ### Structural Realism
 

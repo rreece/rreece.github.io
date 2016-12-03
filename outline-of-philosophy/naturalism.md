@@ -37,6 +37,8 @@ Scientism.
 Naturalism could be defined as a support for philosophy that is filtered for
 plausibility given the information from science.
 
+![Reductionism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism)).](img/reductionism.png){#fig:reductionism}
+
 
 ### Rejection of *a priori* metaphysics
 
@@ -65,6 +67,8 @@ being a more much longer thread throughout the history of philosophy and science
 TODO.
 
 Part of metaphysical naturalism.
+
+![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism)).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
 
 See the outline on [scientific realism](scientific-realism.html).
 
