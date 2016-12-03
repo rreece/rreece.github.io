@@ -17,7 +17,7 @@ discusses the epistemological foundations and limitations of science.
 Issues and Positions
 --------------------------------------------------------------------------------
 
-![From [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism).](img/phil-of-science-v02.png "My figure on scientific realism vs anti-realism"){#fig:phil-of-science}
+![Scientific realism vs anti-realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism)).](img/phil-of-science-v02.png "My figure on scientific realism vs anti-realism"){#fig:phil-of-science}
 
 
 ### Realism and Anti-realism
