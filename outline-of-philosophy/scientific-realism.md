@@ -223,6 +223,11 @@ understand the structures that generate such unobservable events.
 -   The normative importance of climate science.
 
 
+### Active Realism
+
+-   Hasok Change
+
+
 My Thoughts
 --------------------------------------------------------------------------------
 
