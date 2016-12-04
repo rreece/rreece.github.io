@@ -6,11 +6,20 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Mon Nov 14, 2016" />
+  <meta name="date" content="Sun Dec 04, 2016" />
   <title>Bibliographies - markdown-memo example document</title>
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt.css"/>
   <link rel="icon" type="image/png" href="/img/markdown-favicon-196x196.png" />
 
+<!--- Google Analytics Tracking stuff  -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-55199032-1', 'auto');
+  ga('send', 'pageview');
+</script>
 
 <!--- MathJax stuff -->
 <script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
@@ -90,7 +99,7 @@ van Fraassen, B. (1980). *The Scientific Image*. Oxford: Oxford University Press
 <p>Inside a caption, you may want to end it with the citation in parentheses like this:</p>
 <pre><code>Blah blah blah [@Feynman_1963_The_Feynman_Lectures_on_Physics_Volume_I]\.</code></pre>
 <p>which produces:</p>
-<p>Blah blah blah <span class="citation">(Feynman, 1963)</span>.</p>
+<p>Blah blah blah <span class="citation">(Feynman 1963)</span>.</p>
 <p>Typically, I find it better to leave citations<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a> in footnotes to keep from cluttering the main text. Let&#8217;s try citing various kinds of references. Feynman said some important things<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a>. But everything is a footnote to Plato<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>. Van<a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a> is a cool cat too.</p>
 <p>In order for a References section to be generated per html page, you need to add a special html comment near the end of your Markdown file for that page:</p>
 <pre><code>&lt;!-- REFERENCES --&gt;</code></pre>
@@ -102,22 +111,22 @@ van Fraassen, B. (1980). *The Scientific Image*. Oxford: Oxford University Press
 <p>   </p>
 <div id="refs" class="references">
 <div id="ref-Feynman_1963_The_Feynman_Lectures_on_Physics_Volume_I">
-<p>Feynman, R. P. (1963). <em>The Feynman Lectures on Physics, Volume I</em>. California Institute of Technology. <a href="http://www.feynmanlectures.caltech.edu/I_03.html" class="uri">http://www.feynmanlectures.caltech.edu/I_03.html</a></p>
+<p>Feynman, R. P. 1963. <em>The Feynman Lectures on Physics, Volume I</em>. California Institute of Technology. <a href="http://www.feynmanlectures.caltech.edu/I_03.html" class="uri">http://www.feynmanlectures.caltech.edu/I_03.html</a>.</p>
 </div>
 <div id="ref-Feynman_1965_The_Development_of_the_Space_Time_View_of_Quantum">
-<p>&#8212;&#8212;&#8212;. (1965). The Development of the Space-Time View of Quantum Electrodynamics. Nobel Lecture, December 11, 1965. <a href="http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html" class="uri">http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html</a></p>
+<p>&#8212;&#8212;&#8212;. 1965. &#8220;The Development of the Space-Time View of Quantum Electrodynamics.&#8221; Nobel Lecture, December 11, 1965. <a href="http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html" class="uri">http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html</a>.</p>
 </div>
 <div id="ref-Miller_2014_Realism">
-<p>Miller, A. (2014). Realism. <em>Stanford Encyclopedia of Philosophy</em>. <a href="http://plato.stanford.edu/entries/realism/" class="uri">http://plato.stanford.edu/entries/realism/</a></p>
+<p>Miller, A. 2014. &#8220;Realism.&#8221; <em>Stanford Encyclopedia of Philosophy</em>. <a href="http://plato.stanford.edu/entries/realism/" class="uri">http://plato.stanford.edu/entries/realism/</a>.</p>
 </div>
 <div id="ref-Plato_2000_The_Republic">
-<p>Plato. (2000). <em>The Republic</em>. (T. Griffith, Trans., G. Ferrari, Ed.). Cambridge: Cambridge University Press. (Originally written ca. 380 BCE.).</p>
+<p>Plato. 2000. <em>The Republic</em>. Edited by G. Ferrari. Translated by T. Griffith. Cambridge: Cambridge University Press.</p>
 </div>
 <div id="ref-Quine_1969_Natural_kinds">
-<p>Quine, W. V. O. (1969). Natural kinds. In <em>Ontological Relativity and Other Essays</em>. New York: Columbia University Press.</p>
+<p>Quine, W. V. O. 1969. &#8220;Natural kinds.&#8221; In <em>Ontological Relativity and Other Essays</em>. New York: Columbia University Press.</p>
 </div>
 <div id="ref-vanFraassen_1980_The_Scientific_Image">
-<p>van Fraassen, B. (1980). <em>The Scientific Image</em>. Oxford: Oxford University Press.</p>
+<p>van Fraassen, B. 1980. <em>The Scientific Image</em>. Oxford: Oxford University Press.</p>
 </div>
 </div>
 <div class="footnotes">
@@ -154,7 +163,7 @@ van Fraassen, B. (1980). *The Scientific Image*. Oxford: Oxford University Press
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email-alt.png" alt="my email address"/></p>
-    <p>Mon Nov 14, 2016</p>
+    <p>Sun Dec 04, 2016</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2016 Ryan Reece. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
@@ -163,6 +172,35 @@ van Fraassen, B. (1980). *The Scientific Image*. Oxford: Oxford University Press
   <div style="clear:both;"></div>
 </div>
 
+<!-- disqus stuff -->
+<div id="disqus_stuff">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'ryans-selected-software-projects';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript><p>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></p></noscript>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'ryans-selected-software-projects';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+</div> <!-- end disqus_stuff -->
 
 </body>
 </html>
