@@ -130,3 +130,8 @@ Links and Encyclopedia Articles
 -   ["What is an Existential Crisis?"](https://www.youtube.com/watch?v=aEzMwNBjkAU)
 -   ["Wisdom"](https://www.youtube.com/watch?v=ox8XlcUppbo)
 
+[Massimo Pigliucci](https://www.youtube.com/channel/UCcciwRLP-kVZ1M_z-xBvziA)
+
+-   ["Stoicism 101"](https://www.youtube.com/watch?v=seLLJP3H1FU)
+
+
