@@ -215,6 +215,7 @@ Links and Encyclopedia Articles
 
 -   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
+-   [Ionian School](https://en.wikipedia.org/wiki/Ionian_School_(philosophy))
 -   [Materialism](https://en.wikipedia.org/wiki/Materialism)
 -   [Multiple realizability](https://en.wikipedia.org/wiki/Multiple_realizability)
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy))
