@@ -191,6 +191,7 @@ Links and Encyclopedia Articles
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
 -   [Quine, W.V.O. (1908-2000)](http://plato.stanford.edu/entries/quine/)
+-   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/)
 -   [Unity of Science](http://plato.stanford.edu/entries/scientific-unity/)
 
 ### IEP

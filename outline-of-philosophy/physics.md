@@ -272,14 +272,17 @@ Links and Encyclopedia Articles
 -   [Quantum Entanglement and Information](http://plato.stanford.edu/entries/qt-entangle/)
 -   [Quantum Field Theory](http://plato.stanford.edu/entries/quantum-field-theory/)
 -   [Quantum Field Theory, History of](http://plato.stanford.edu/entries/quantum-field-theory/qft-history.html)
+-   [Quantum Gravity](https://plato.stanford.edu/entries/quantum-gravity/)
 -   [Quantum Logic and Probability Theory](http://plato.stanford.edu/entries/qt-quantlog/)
 -   [Quantum Mechanics](http://plato.stanford.edu/entries/qm/)
 -   [Relational Quantum Mechanics](http://plato.stanford.edu/entries/qm-relational/)
 -   [Philosophical Issues in Quantum Theory](http://plato.stanford.edu/entries/qt-issues/)
+-   [Poincar&eacute;, Henri (1854-1912)](https://plato.stanford.edu/entries/poincare/)
 -   [Statistical mechanics, Philosophy of](http://plato.stanford.edu/entries/statphys-statmech/)
 -   [Supertasks](http://plato.stanford.edu/entries/spacetime-supertasks/)
 -   [Symmetry and Symmetry Breaking](http://plato.stanford.edu/entries/symmetry-breaking/)
 -   [Time](http://plato.stanford.edu/entries/time/)
+-   [Weyl, Hermann (1885-1955)](https://plato.stanford.edu/entries/weyl/)
 
 ### IEP
 
@@ -361,6 +364,7 @@ Links and Encyclopedia Articles
 -   [Quantum mechanics](http://en.wikipedia.org/wiki/Quantum_mechanics)
 -   [Quantum mechanics, Mathematical formulation of](http://en.wikipedia.org/wiki/Mathematical_formulation_of_quantum_mechanics)
 -   [Quantum triviality](https://en.wikipedia.org/wiki/Quantum_triviality)
+-   [Poincar&eacute;, Henri (1854-1912)](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
 -   [Reeh-Schlieder theorem](https://en.wikipedia.org/wiki/Reeh%E2%80%93Schlieder_theorem)
 -   [Regularization](https://en.wikipedia.org/wiki/Regularization_(physics))
 -   [Renormalization group](https://en.wikipedia.org/wiki/Renormalization_group)
@@ -391,6 +395,7 @@ Links and Encyclopedia Articles
 -   [Wave function collapse](http://en.wikipedia.org/wiki/Wave_function_collapse)
 -   [Wave-particle duality](http://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality)
 -   [Weinberg-Witten_theorem](https://en.wikipedia.org/wiki/Weinberg%E2%80%93Witten_theorem)
+-   [Weyl, Hermann (1885-1955)](https://en.wikipedia.org/wiki/Hermann_Weyl)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 -   [Wigner-Eckart theorem](http://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem)
 

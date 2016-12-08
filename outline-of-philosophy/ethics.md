@@ -162,6 +162,7 @@ Links and Encyclopedia Articles
 -   [Aristotle's Ethics](http://plato.stanford.edu/entries/aristotle-ethics/) - eudaimonia
 -   [Civic Humanism](http://plato.stanford.edu/entries/humanism-civic/)
 -   [Consequentialism](http://plato.stanford.edu/entries/consequentialism/)
+-   [Constructivism in Metaethics](https://plato.stanford.edu/entries/constructivism-metaethics/)
 -   [Decision Theory](http://plato.stanford.edu/entries/decision-theory/)
 -   [Deontic Logic](http://plato.stanford.edu/entries/logic-deontic/)
 -   [Doing vs. Allowing Harm](http://plato.stanford.edu/entries/doing-allowing/)
