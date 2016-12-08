@@ -29,6 +29,8 @@ TODO.
 
 TODO.
 
+See the discussion of [Stoicism](http://rreece.github.io/outline-of-philosophy/human-condition.html#stoicism).
+
 
 ### Moral Realism
 
