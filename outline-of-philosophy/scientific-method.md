@@ -324,6 +324,7 @@ Links and Encyclopedia Articles
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
 -   [Analysis of Knowledge](http://plato.stanford.edu/entries/knowledge-analysis/)
+-   [Ancient Atomism](https://plato.stanford.edu/entries/atomism-ancient/)
 -   [Aristotle's Metaphysics](http://plato.stanford.edu/entries/aristotle-metaphysics/)
 -   [Bacon, Francis (1561-1626)](http://plato.stanford.edu/entries/francis-bacon/)
 -   [Berkeley, George (1685-1753)](http://plato.stanford.edu/entries/berkeley/)
