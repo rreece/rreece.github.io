@@ -6,8 +6,9 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Wed Dec 21, 2016" />
+  <meta name="date" content="Sat Jan 14, 2017" />
   <title>Getting started - markdown-memo example document</title>
+  <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt.css"/>
   <link rel="icon" type="image/png" href="/img/markdown-favicon-196x196.png" />
 
@@ -87,9 +88,23 @@
 <li>pandoc</li>
 <li><a href="https://github.com/lierdakil/pandoc-crossref">pandoc-citeproc</a></li>
 <li>pandoc-crossref</li>
+<li>matplotlib (for pagecount and wordcount plots)</li>
+<li>xpdf (pdfinfo command for pagecount)</li>
 </ul>
 <p>On my Mac, I used to install the missing dependencies through <a href="https://www.macports.org/">macports</a>, but beginning with OS 10.11, I started using <a href="http://brew.sh/">homebrew</a>.</p>
 <p>First, if you are on a Mac, you should install <a href="https://developer.apple.com/xcode/">Xcode</a> through the Apple app store to get <code>make</code> and basic build utilities.</p>
+<p>With <em>homebrew</em>, one does</p>
+<pre><code>brew cask install mactex
+brew install pandoc
+brew install pandoc-citeproc
+brew install pandoc-crossref</code></pre>
+<p>Other missing requirements I had to install with <em>homebrew</em> were</p>
+<pre><code>brew install wget
+brew install matplotlib
+brew install numpy
+brew install homebrew/python/scipy
+brew cask install xquartz
+brew install homebrew/x11/xpdf</code></pre>
 <p>With <em>macports</em>, one does</p>
 <pre><code>sudo port selfupdate
 sudo port install texlive-latex texlive-latex-recommended texlive-latex-extra texlive-math-extra
@@ -97,13 +112,8 @@ sudo port install pandoc
 sudo port install hs-cabal-install
 cabal update
 cabal install pandoc-citeproc pandoc-crossref</code></pre>
-<p>With <em>homebrew</em>, one does</p>
-<pre><code>brew cask install mactex
-brew install pandoc
-brew install pandoc-citeproc
-brew install pandoc-crossref</code></pre>
 <p>If something doesn&#8217;t work for you, please let me know! I&#8217;ll do my best improve the documentation and make the software more robust as time allows. Contact me at:</p>
-<p><img class="email" src="img/my_email.png" alt="my email address"/></p>
+<p><img class="email" src="img/my-email.png" alt="my email address"/></p>
 <p>Please let me know if you have success or failure testing this on different systems.</p>
 <h2 id="starting-a-page-or-section">Starting a page or section</h2>
 <p>Just open or create a first <code>md</code> file in that directory like <code>01-introduction.md</code>, and start typing. Each file should probably correspond to a webpage or section in the document, and in that case, it should begin with an <code>h1</code>-level heading (section), denoted with a double-rule of equal-signs, like:</p>
@@ -147,7 +157,7 @@ Or equations:
 <li>Call <code>make clean</code> to delete temporary LaTeX files.</li>
 <li>Call <code>make realclean</code> to additionally delete the output html and pdf files.</li>
 </ul>
-<p>I use an image of my email to hide it from text crawlers. Please replace <code>img/my_email.png</code> with a screenshot of your email address instead of mine, or just remove the use of the image in <code>meta.yaml</code>.</p>
+<p>I use an image of my email to hide it from text crawlers. Please replace <code>img/my-email.png</code> with a screenshot of your email address instead of mine, or just remove the use of the image in <code>meta.yaml</code>.</p>
 <p>Customize the files in <code>templates/</code> to adjust the format of the output html and pdfs files to your needs.</p>
 
 </div> <!-- end mainbody -->
@@ -170,10 +180,10 @@ Or equations:
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email-alt.png" alt="my email address"/></p>
-    <p>Wed Dec 21, 2016</p>
+    <p>Sat Jan 14, 2017</p>
   </div>
   <div class="license">
-    <p><span class="copy-left">&#169;</span> 2015-2016 Ryan Reece. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
+    <p><span class="copy-left">&#169;</span> 2015-2017 Ryan Reece. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
     <p>Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.</p>
   </div>
   <div style="clear:both;"></div>
