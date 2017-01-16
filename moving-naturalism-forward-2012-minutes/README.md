@@ -1,7 +1,9 @@
 Ryan's minutes of the the "Moving Naturalism Forward"
 ===========================================
 
-Copyright 2013-2015.  All rights reserved.
+Online here: [rreece.github.io/moving-naturalism-forward-2012-minutes](http://rreece.github.io/moving-naturalism-forward-2012-minutes/)
+
+Copyright 2013-2017.  All rights reserved.
 
 Find the workshop on the youtubes:
 

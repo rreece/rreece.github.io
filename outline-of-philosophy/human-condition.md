@@ -134,4 +134,8 @@ Links and Encyclopedia Articles
 
 -   ["Stoicism 101"](https://www.youtube.com/watch?v=seLLJP3H1FU)
 
+[Jordan B. Peterson](https://www.youtube.com/user/JordanPetersonVideos)
+
+-   [Personality Lecture 12: Existentialism: Dostoevsky, Nietzsche, Kierkegaard](https://www.youtube.com/watch?v=SsoVhKo4UvQ)
+
 
