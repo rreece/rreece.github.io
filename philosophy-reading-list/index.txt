@@ -11,7 +11,7 @@ Bellow is a list of works I'd like to either read for the first time (most of th
 or understand better.  Suggestions or initiatives to start a reading group
 for any of the following---are very welcome.
 
--   email: <img class="email" src="img/my_email.png" alt="my email address"/>
+-   email: <img class="email" src="img/my-email.png" alt="my email address"/>
 
 Or, maybe try interacting with me on one of the following:
 
