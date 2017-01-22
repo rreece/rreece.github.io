@@ -64,7 +64,7 @@ css: 'templates/markdown-memo-alt.css'
 email: '<img class="email" src="img/my-email-alt.png" alt="my email address"/>'
 disqus_shortname: 'ryans-outline-of-philosophy'
 description: "Ryan Reece's outline of philosophy"
-favicon: '/img/markdown-favicon-196x196.png'
+favicon: 'img/markdown-favicon-196x196.png'
 google_analytics_tracking_id: 'UA-55199032-1'
 mathjax: true
 navigation: true
