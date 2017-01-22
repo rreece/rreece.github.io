@@ -1,10 +1,10 @@
 ---
 ## required meta-data -------------------------------------
-output: doc
+output: outline-of-philosophy
 title: "Ryan's Outline of Philosophy"
 titleshort: "Ryan's Outline of Philosophy"
 #subtitle: make writing easier and more productive
-authorshort: R. Reece and J. Coauthor
+authorshort: Ryan Reece
 author1: Ryan Reece
 email1: ryan.reece@cern.ch
 homepage1: http://reece.scipp.ucsc.edu
