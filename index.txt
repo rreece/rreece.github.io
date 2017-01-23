@@ -5,7 +5,6 @@
 
 -   [github.com/rreece](https://github.com/rreece) -- my github profile
 -   [rreece.github.io/sw](sw/) -- my selected software projects on github
--   [rreece.github.io/philosophy-reading-list](rreece.github.io/philosophy-reading-list/) -- my philosophy reading list. Read with me!
 -   some other things I'll share someday
 
 
@@ -13,18 +12,6 @@
 
 
 ![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg)
-
-
---------------------------------------------------------------------------------
-
-
->   Art is long,    
->   Life is short,    
->   Opportunity fleeting,    
->   Experiment dangerous,    
->   Judgment difficult.
-
- -- Hippocrates (~400 BCE)
 
 
 --------------------------------------------------------------------------------
