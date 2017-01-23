@@ -3,8 +3,8 @@
 
 ### What's here?
 
--   [github.com/rreece](https://github.com/rreece) -- my github profile
--   [rreece.github.io/sw](sw/) -- my selected software projects on github
+-   [My github profile](https://github.com/rreece)
+-   [My selected software projects on github](sw/)
 -   some other things I'll share someday
 
 
