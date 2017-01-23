@@ -5,7 +5,7 @@
 
 -   [My github profile](https://github.com/rreece)
 -   [My selected software projects on github](sw/)
--   some other things I'll share someday
+-   Some other things I'll share someday
 
 
 --------------------------------------------------------------------------------
