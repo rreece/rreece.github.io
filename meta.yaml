@@ -4,11 +4,11 @@ output: doc
 title: "Ryan's webspace on github"
 titleshort: "Ryan's webspace on github"
 #subtitle: make writing easier and more productive
-authorshort: Ryan Reece
-author1: Ryan Reece
-email1: ryan.reece@cern.ch
-homepage1: http://reece.scipp.ucsc.edu
-affiliation1: University of California, Santa Cruz
+#authorshort: Ryan Reece
+#author1: Ryan Reece
+#email1: ryan.reece@cern.ch
+#homepage1: http://reece.scipp.ucsc.edu
+#affiliation1: University of California, Santa Cruz
 #author2: Jane Coauthor
 #email2: jane.coauthor@blah.com
 #homepage2: http://jane.blah.com
@@ -17,11 +17,11 @@ affiliation1: University of California, Santa Cruz
 #email3: joe.coauthor@blah.com
 #homepage3: http://joe.blah.com
 #affiliation3: Joe University
-author:
-    -   |
-        [Ryan Reece](http://reece.scipp.ucsc.edu/)[^ReeceSCIPP]
-
-        [^ReeceSCIPP]: University of California, Santa Cruz / <ryan.reece@cern.ch> / <http://reece.scipp.ucsc.edu>
+#author:
+#    -   |
+#        [Ryan Reece](http://reece.scipp.ucsc.edu/)[^ReeceSCIPP]
+#
+#        [^ReeceSCIPP]: University of California, Santa Cruz / <ryan.reece@cern.ch> / <http://reece.scipp.ucsc.edu>
 #    -   |
 #        Jane Coauthor[^Jane]
 #
@@ -35,8 +35,8 @@ date: \today
 #docid: EXAMPLE-DOC-000 # arXiv:1606.09150 # ATLAS-COM-PHYS-2010-200
 draft: false
 #license: ''
-license: '&copy; 2015-2017 Ryan Reece. All rights reserved.'
-#license: '<span class="copy-left">&copy;</span> 2015-2017 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).'
+license: '&copy; 2014-2017 Ryan Reece. All rights reserved.'
+#license: '<span class="copy-left">&copy;</span> 2014-2017 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).'
 dorefs: false
 submitted: ''
 #submitted: 'Submitted to My Favorite Journal'
