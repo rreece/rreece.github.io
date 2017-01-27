@@ -68,7 +68,7 @@ favicon: 'img/markdown-favicon-196x196.png'
 google_analytics_tracking_id: 'UA-55199032-1'
 mathjax: true
 navigation: true
-#thumbnail: 'http://rreece.github.io/sw/markdown-memo/img/ATLAS-local-p0-vs-mH.png'
+thumbnail: 'http://rreece.github.io/sw/markdown-memo/img/ATLAS-local-p0-vs-mH.png'
 ## pdflatex options ---------------------------------------
 documentclass: 'article'
 #documentclass: 'revtex4-1'
