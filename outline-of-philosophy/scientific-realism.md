@@ -32,6 +32,16 @@ Issues and Positions
 -   Distinguish Anti-realism from non-realism
 
 
+### Humeanism
+
+-   laws of nature
+-   Humean vs Non-humean :: regularity vs necessitarianism
+-   Donald Davidson
+-   David Lewis and Humean supervenience:
+
+>   all there is to the world is a vast mosaic of local matters of particular fact all else supervenes on that
+
+
 ### Scientific Realism
 
 Some attempts at definitions:
@@ -667,6 +677,7 @@ Links and Encyclopedia Articles
 -   [Information](http://plato.stanford.edu/entries/information/)
 -   [Kuhn, Thomas (1922-1996)](http://plato.stanford.edu/entries/thomas-kuhn/)
 -   [Laws of Nature](http://plato.stanford.edu/entries/laws-of-nature/)
+-   [Lewis, David (1941-2001)](https://plato.stanford.edu/entries/david-lewis/)
 -   [Logic and Ontology](http://plato.stanford.edu/entries/logic-ontology/)
 -   [Logical Empiricism](http://plato.stanford.edu/entries/logical-empiricism/)
 -   [Mach, Ernst (1838-1916)](http://plato.stanford.edu/entries/ernst-mach/)
@@ -700,6 +711,7 @@ Links and Encyclopedia Articles
 -   [Sellars, Wilfrid (1912-1989)](http://plato.stanford.edu/entries/sellars/)
 -   [Social Dimensions of Scientific Knowledge](http://plato.stanford.edu/entries/scientific-knowledge-social/)
 -   [Structural Realism](http://plato.stanford.edu/entries/structural-realism/)
+-   [Supervenience](https://plato.stanford.edu/entries/supervenience/)
 -   [Tarski, Alfred (1901-1983)](http://plato.stanford.edu/entries/tarski/)
 -   [Theoretical Terms in Science](http://plato.stanford.edu/entries/theoretical-terms-science/)
 -   [Theory and Observation in Science](http://plato.stanford.edu/entries/science-theory-observation/)
@@ -788,6 +800,7 @@ Links and Encyclopedia Articles
 -   [Kuhn, Thomas (1922-1996)](http://en.wikipedia.org/wiki/Thomas_Kuhn)
 -   [Lakatos, Imre (1922-1974)](https://en.wikipedia.org/wiki/Imre_Lakatos)
 -   [Laudan, Larry (b. 1941)](https://en.wikipedia.org/wiki/Larry_Laudan)
+-   [Lewis, David (1941-2001)](https://en.wikipedia.org/wiki/David_Lewis_(philosopher))
 -   [Logical positivism](http://en.wikipedia.org/wiki/Logical_positivism)
 -   [Mach, Ernst (1838-1916)](http://en.wikipedia.org/wiki/Ernst_Mach)
 -   [Map-territory relation](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)

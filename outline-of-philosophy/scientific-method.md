@@ -86,9 +86,6 @@ British empiricists:
 -   John Locke (1632-1704)
 -   George Berkeley (1685-1753)
 -   David Hume (1711-1776)
--   Humeanism
--   Emphasize the naturalist revolution within Humean views.
--   See the outline on [Naturalism](naturalism.html).
 
 ![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig:mandik-2016-11-1-eyeballs}
 
@@ -98,17 +95,17 @@ Other important synthesizers:
 -   Immanuel Kant (1724-1804)
 
 
-### Is there a universal scientific method?
+### Induction
 
-TODO.
+TODO:
 
--   Not a seven-step program
--   Evidence based, anti-conspiracy, parsimony
--   Error-catching filters, community, honesty, openness
--   Positivism, verificationism
--   Auguste Comte, Ernst Mach
--   Popper, falsification
--   Scientism
+-   Hume and the problem of induction
+-   Uniformity of nature
+-   Humeanism
+-   Note the further discussion of Humeanism and laws of nature in
+    the outline on [Scientific realism](scientific-realism.html#humeanism).
+-   Emphasize the naturalist revolution within Humean views.
+-   See the outline on [Naturalism](naturalism.html).
 
 
 ### Abduction
@@ -120,6 +117,19 @@ TODO.
 -   Inference to the best explanation 
 -   Natural kinds, abstraction
 -   Convergence
+
+
+### Is there a universal scientific method?
+
+TODO:
+
+-   Not a seven-step program
+-   Evidence based, anti-conspiracy, parsimony
+-   Error-catching filters, community, honesty, openness
+-   Positivism, verificationism
+-   Auguste Comte, Ernst Mach, David Hilbert, Rudolf Carnap
+-   Karl Popper, falsification
+-   Scientism
 
 
 ### Statistical Measurement
