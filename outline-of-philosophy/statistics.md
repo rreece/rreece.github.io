@@ -15,6 +15,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and Positions
 --------------------------------------------------------------------------------
 
+### Problem of induction
+
+-   Hume
+
 ### Statistical Measurement
 
 -   Frequentist vs Bayesian probability
