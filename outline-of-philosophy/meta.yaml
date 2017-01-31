@@ -37,7 +37,7 @@ draft: false
 #license: ''
 #license: '&copy; 2015-2017 Ryan Reece. All rights reserved.'
 license: '<span class="copy-left">&copy;</span> 2015-2017 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).'
-dorefs: false
+dorefs: true
 submitted: ''
 #submitted: 'Submitted to My Favorite Journal'
 #submitted: 'Journal reference: *Phys. Rev. D 92*, 072001 (2015)'

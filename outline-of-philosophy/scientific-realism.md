@@ -39,7 +39,10 @@ Issues and Positions
 -   Donald Davidson
 -   David Lewis and Humean supervenience:
 
->   all there is to the world is a vast mosaic of local matters of particular fact all else supervenes on that
+>   Humean supervenience is named in honor of the greater denier of necessary
+>   connections. It is the doctrine that all there is to the world is a vast
+>   mosaic of local matters of particular fact, just one little thing and then
+>   another. [@Lewis_1986_Philosophical_Papers_II, p. ix]
 
 
 ### Scientific Realism
@@ -49,13 +52,11 @@ Some attempts at definitions:
 Science makes real progress in describing real features of the world.
 
 >   To a very rough, first approximation, realism is the view that our best scientific theories
->   correctly describe both observable and unobservable parts of the world.
-
-(Chakravartty, 2007)
+>   correctly describe both observable and unobservable parts of the world. [@Chakravartty_2007_A_Metaphysics_for_Scientific_Realism]
 
 >   Scientific realism is a positive epistemic attitude towards the content of our
 >   best theories and models, recommending belief in both observable and unobservable
->   aspects of the world described by the sciences.  (Chakravartty, 2011)
+>   aspects of the world described by the sciences. [@Chakravartty_2011_Scientific_realism]
 
 -   Boyd
 -   Sellars
@@ -78,7 +79,7 @@ Science makes real progress in describing real features of the world.
 -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1/4 Essentialism is a far worse sin than scientism.<a href="https://twitter.com/hashtag/PhilSci?src=hash">#PhilSci</a> <a href="https://twitter.com/hashtag/scientism?src=hash">#scientism</a> <a href="https://twitter.com/hashtag/PessimisticMetaInduction?src=hash">#PessimisticMetaInduction</a></p>&mdash; Ryan Reece (@RyanDavidReece) <a href="https://twitter.com/RyanDavidReece/status/771828745028055040">September 2, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1/4 Essentialism is a far worse sin than scientism.<a href="https://twitter.com/hashtag/PhilSci?src=hash">#PhilSci</a> <a href="https://twitter.com/hashtag/scientism?src=hash">#scientism</a> <a href="https://twitter.com/hashtag/PessimisticMetaInduction?src=hash">#PessimisticMetaInduction</a></p>&mdash; Ryan Reece (&#64;RyanDavidReece) <a href="https://twitter.com/RyanDavidReece/status/771828745028055040">September 2, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -859,13 +860,13 @@ Links and Encyclopedia Articles
 
 
 
-  [^Carnap-1950]: Carnap, R. (1950). Empiricism, Semantics, and Ontology.
-  [^Quine-1951]: Quine, W. (1951). Two Dogmas of Empiricism.
-  [^Carnap-1955]: Carnap, R. (1955). The Logical Foundations of the Unity of Science.
-  [^Popper-1959]: Popper, K. (1959). The Logic of Scientific Discovery.
-  [^Kuhn-1962]: Kuhn, T. (1962). The Structure of Scientific Revolutions.
-  [^van-Fraassen-1980]: van Fraassen, B. (1980). The Scientific Image.
-  [^Putnam-1981]: Putnam, H. (1981). Reason, Truth, and History.
+  [^Carnap-1950]: @Carnap_1950_Empiricism_Semantics_and_Ontology\.
+  [^Quine-1951]: @Quine_1951_Two_Dogmas_of_Empiricism\.
+  [^Carnap-1955]: @Carnap_1955_The_Logical_Foundations_of_the_Unity_of_Science\.
+  [^Popper-1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
+  [^Kuhn-1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
+  [^van-Fraassen-1980]: @vanFraassen_1980_The_Scientific_Image\.
+  [^Putnam-1981]: @Putnam_1981_Reason_Truth_and_History\.
   [^Putnam-1982-1]: Putnam, H. (1982). Three Kinds of Scientific Realism.
   [^Putnam-1982-2]: Putnam, H. (1982). Why There Isn't a Ready-Made World.
   [^Fine-1984-1]: Fine, A. (1984). The Natural Ontological Attitude.
@@ -876,7 +877,7 @@ Links and Encyclopedia Articles
   [^Dennett-1991]: Dennett, D. (1991). Real Patterns.
   [^Ladyman-1998]: Ladyman, J. (1998). What is Structural Realism?
   [^Bueno-1999]: Bueno, O. (1999). What is Structural Empiricism?
-  [^Psillos-1999]: Psillos, S. (1999).  Scientific Realism: How Science Tracks Truth.
+  [^Psillos-1999]: @Psillos_1999_Scientific_Realism_How_Science_Tracks_Truth\.
   [^Psillos-2000]: Psillos, S. (2000). The Present State of the Scientific Realism Debate.
   [^Chang-2001]: Chang, H. (2001). Realism Beyond Footstamping.
   [^van-Fraassen-2001]: van Fraassen, B. (2001). Constructive Empiricism Now.
@@ -885,7 +886,7 @@ Links and Encyclopedia Articles
   [^Bueno-2008]: Bueno, O. (2008). Structural Realism, Scientific Change, and Partial Structures.
   [^Bain-2009]: Bain, J. (2009). Towards Structural Realism.
   [^Psillos-2009]: Psillos, S. (2009). On Reichenbach's argument for scientific realism.
-  [^Ladyman-Ross-2009]: Every Thing Must Go: Metaphysics Naturalized.
+  [^Ladyman-Ross-2009]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
   [^Psillos-2010]: Psillos, S. (2010). Scientific Realism: Between Platonism and Nominalism.
   [^Frigg-Votsis-2011]: Frigg, R. & Votsis, I. (2011). Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
   [^Mizrahi-2012]: Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
@@ -893,5 +894,7 @@ Links and Encyclopedia Articles
   [^Tegmark-2014]: Tegmark, M. (2014). Our Mathematical Universe: My Quest for the Ultimate Nature of Reality.
 
 
+
+<!-- REFERENCES -->
 
 
