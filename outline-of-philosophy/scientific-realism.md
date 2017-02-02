@@ -865,6 +865,9 @@ Links and Encyclopedia Articles
 -   [Kaufman, D.A. (2016). Moore's Proof.](https://theelectricagora.com/2016/08/15/moores-proof/)
 -   [Mumford, Stephen (2015). Relations All The Way Down? (Against) Ontic Structural Realism](https://www.youtube.com/watch?v=4EeOhf1GG-M) - youtube
 
+### Videos
+
+-   ["Wittgenstein's Games" - A.C. Grayling](https://www.youtube.com/watch?v=Qw44w7Tvz2I)
 
 
   [^Carnap-1950]: @Carnap_1950_Empiricism_Semantics_and_Ontology\.
