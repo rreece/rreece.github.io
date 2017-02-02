@@ -212,7 +212,10 @@ Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
 
 -   realist
--   Poincar&#233;, Worrall
+-   early Wittgenstein: picture theory of language/meaning
+-   strucuturalism more generally and structural anthropology: Claude L&eacute;vi-Satrauss
+-   Henri Poincar&#233;
+-   John Worrall
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)
