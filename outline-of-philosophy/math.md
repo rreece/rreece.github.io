@@ -33,7 +33,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 -   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
 
-![A visual proof that $\sum n = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
+![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
 
 
 ### Pythagoreanism
