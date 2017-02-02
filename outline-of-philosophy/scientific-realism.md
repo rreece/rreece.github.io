@@ -213,7 +213,7 @@ Science has identified real patterns, relationships, and structures
 
 -   realist
 -   early Wittgenstein: picture theory of language/meaning
--   strucuturalism more generally and structural anthropology: Claude L&eacute;vi-Satrauss
+-   strucuturalism more generally and structural anthropology: Claude L&eacute;vi-Strauss
 -   Henri Poincar&#233;
 -   John Worrall
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
@@ -701,6 +701,7 @@ Links and Encyclopedia Articles
 -   [Peirce, Charles Sanders (1839-1914)](http://plato.stanford.edu/entries/peirce/)
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
 -   [Pragmatism](http://plato.stanford.edu/entries/pragmatism/)
+-   [Private language](https://plato.stanford.edu/entries/private-language/)
 -   [Quine, W.V.O. (1908-2000)](http://plato.stanford.edu/entries/quine/)
 -   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Realism](http://plato.stanford.edu/entries/realism/)
@@ -805,6 +806,7 @@ Links and Encyclopedia Articles
 -   [Lakatos, Imre (1922-1974)](https://en.wikipedia.org/wiki/Imre_Lakatos)
 -   [Laudan, Larry (b. 1941)](https://en.wikipedia.org/wiki/Larry_Laudan)
 -   [Lewis, David (1941-2001)](https://en.wikipedia.org/wiki/David_Lewis_(philosopher))
+-   [L&eacute;vi-Strauss, Claude (1908-2009)](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss)
 -   [Logical positivism](http://en.wikipedia.org/wiki/Logical_positivism)
 -   [Mach, Ernst (1838-1916)](http://en.wikipedia.org/wiki/Ernst_Mach)
 -   [Map-territory relation](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)
@@ -821,6 +823,7 @@ Links and Encyclopedia Articles
 -   [Pessimistic induction](http://en.wikipedia.org/wiki/Pessimistic_induction)
 -   [Philosophy of science](http://en.wikipedia.org/wiki/Philosophy_of_science)
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
+-   [Picture theory of language](https://en.wikipedia.org/wiki/Picture_theory_of_language)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Positivism](http://en.wikipedia.org/wiki/Positivism)
 -   [Positivism Dispute](http://en.wikipedia.org/wiki/Positivism_dispute)
@@ -828,6 +831,7 @@ Links and Encyclopedia Articles
 -   [Post-structuralism](http://en.wikipedia.org/wiki/Post-structuralism)
 -   [Pragmaticism](http://en.wikipedia.org/wiki/Pragmaticism)
 -   [Pragmatism](http://en.wikipedia.org/wiki/Pragmatism)
+-   [Private language argument](https://en.wikipedia.org/wiki/Private_language_argument)
 -   [Progress, Philosophical](https://en.wikipedia.org/wiki/Philosophical_progress)
 -   [Putnam, Hilary (b. 1926)](https://en.wikipedia.org/wiki/Hilary_Putnam)
 -   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
