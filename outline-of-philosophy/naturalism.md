@@ -15,6 +15,38 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and Positions
 --------------------------------------------------------------------------------
 
+### What is naturalism?
+
+Maddy defines naturalism[^Maddy-2007]:
+
+>   These days, as more and more philosophers count themselves as naturalists,
+>   the term has come to mark little more than a vague science-friendliness.
+>   To qualify as unnaturalistic, a contemporary thinker has to insist,
+>   for example, that epistemology is an a priori discipline with nothing to
+>   learn from empirical psychology or that metaphysical intuitions show
+>   quantum mechanics to be false. [@Maddy_2007_Second_Philosophy, 1]
+
+>   So our inquirer will continue her investigation of the world in her familiar
+>   ways, despite her encounter with Descartes and his meditator. She will ask
+>   traditionally philosophical questions about what there is and how we know it,
+>   just as they do, but she will take perception as a mostly reliable guide to
+>   the existence of medium-sized physical objects, she will consult her
+>   astronomical observations and theories to weigh the existence of black holes,
+>   and she will treat questions of knowledge as involving the relations between
+>   the world---as she understands it in her physics, chemistry, optics, geology,
+>   and so on---and human beings---as she understands them in her physiology,
+>   cognitive science, neuroscience, linguistics, and so on.
+>   While Descartes's meditator begins by rejecting science and common sense in
+>   the hope of founding them more firmly by philosophical means, our inquirer
+>   proceeds scientifically and attempts to answer even philosophical questions
+>   by appeal to its resources. For Descartes's meditator, philosophy comes
+>   first; for our inquirer, it comes second---hence 'Second Philosophy'
+>   as opposed to 'First'. Our Character now has a name: she is the
+>   Second Philosopher.  [@Maddy_2007_Second_Philosophy, 18-19]
+
+  [^Maddy-2007]: @Maddy_2007_Second_Philosophy\.
+
+
 ### Science and scientism
 
 Methodological naturalism.
@@ -170,6 +202,19 @@ Annotated Bibliography
 
 --------------------------------------------------------------------------------
 
+### Maddy, P. (2007). *Second Philosophy*.
+
+#### 1. Section
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
 ### More articles to do
 
 -   TODO.
@@ -199,9 +244,9 @@ Links and Encyclopedia Articles
 
 -   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
 -   [Atheism](http://www.iep.utm.edu/atheism/)
--   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
 -   [Fodor, Jerry (b. 1935)](http://www.iep.utm.edu/fodor/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
+-   [Metaphilosophy, Contemporary](http://www.iep.utm.edu/con-meta/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
 -   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
@@ -219,6 +264,7 @@ Links and Encyclopedia Articles
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Ionian School](https://en.wikipedia.org/wiki/Ionian_School_(philosophy))
 -   [Materialism](https://en.wikipedia.org/wiki/Materialism)
+-   [Metaphilosophy](https://en.wikipedia.org/wiki/Metaphilosophy)
 -   [Multiple realizability](https://en.wikipedia.org/wiki/Multiple_realizability)
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy))
 -   [Natural kind](https://en.wikipedia.org/wiki/Natural_kind)
@@ -242,5 +288,8 @@ Links and Encyclopedia Articles
 
 -   [Timothy Williamson: What is Naturalism?](https://www.youtube.com/watch?v=33qfCWesE1E)
 -   [Daniel Dennett: Ontology, science, and the evolution of the manifest image?](https://www.youtube.com/watch?v=GcVKxeKFCHE)
+
+
+<!-- REFERENCES -->
 
 
