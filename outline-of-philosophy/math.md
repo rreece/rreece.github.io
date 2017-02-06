@@ -100,6 +100,13 @@ TODO.
 See the outline on [Naturalism](naturalism.html).
 
 
+### Analysis
+
+-   Struggles with the continuum[^Baez-2016].
+
+[^Baez-2016]: @Baez_2016_Struggles_with_the_Continuum\.
+
+
 My Thoughts
 --------------------------------------------------------------------------------
 
@@ -305,9 +312,6 @@ Links and Encyclopedia Articles
 
 
 
-  [^Carnap-1950]:       Carnap, R. (1950). Empiricism, Semantics, and Ontology.
-  [^Carnap-1955]:       Carnap, R. (1955). The Logical Foundations of the Unity of Science.
-  [^van-Frassen-1980]:  van Frassen, B. (1980). Arguments Concerning Scientific Realism.
-  [^Putnam-1981]:       Putnam, H. (1981). Reason, Truth, and History.
+<!-- REFERENCES -->
 
 

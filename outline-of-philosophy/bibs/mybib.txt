@@ -2,6 +2,7 @@ Achenbach, J. (2015). Why do many reasonable people doubt science? *National Geo
 ATLAS Collaboration. (2008). The ATLAS Experiment at the CERN Large Hadron Collider. *JINST*, 3, S08003.
 ATLAS Collaboration. (2012). Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC. *Phys.Lett.*, B716, 1--29.
 Ayer, A. (1936). *Language, Truth, and Logic*. London: Victor Gollancz Ltd.
+Baez, J.C. (2016). Struggles with the Continuum. https://arxiv.org/abs/1609.01421
 Baggott, J. (2005). *A Beginners Guide to Reality*. London: Penguin Group.
 Barrett, J. (2004). On the cognitive status of our best physical theories. http://faculty.sites.uci.edu/jeffreybarrett/articles/
 Bird, A., & Tobin, E. (2015). Natural kinds. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/natural-kinds/
