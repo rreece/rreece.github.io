@@ -1,21 +1,7 @@
 Achenbach, J. (2015). Why do many reasonable people doubt science? *National Geographic*. http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text
-ATLAS Collaboration. (2008). The ATLAS Experiment at the CERN Large Hadron Collider. *JINST*, 3, S08003.
-ATLAS Collaboration. (2012). Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC. *Phys.Lett.*, B716, 1--29.
-Ayer, A. (1936). *Language, Truth, and Logic*. London: Victor Gollancz Ltd.
-Baez, J.C. (2016). Struggles with the Continuum. https://arxiv.org/abs/1609.01421
-Baggott, J. (2005). *A Beginners Guide to Reality*. London: Penguin Group.
-Barrett, J. (2004). On the cognitive status of our best physical theories. http://faculty.sites.uci.edu/jeffreybarrett/articles/
-Bird, A., & Tobin, E. (2015). Natural kinds. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/natural-kinds/
-Boghossian, P. (2006). *Fear of Knowledge*. Oxford: Oxford University Press.
 Bostrom, N. (2003). Are you living in a computer simulation? *Philosophical Quarterly*, 53, 243--255.
 Bostrom, N. (2011). A patch for the simulation argument. *Analysis*, 71, 54--61.
 Bueno, O. (2013). Nominalism in the philosophy of mathematics. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/nominalism-mathematics/
-Carnap, R. (1950). Empiricism, Semantics, and Ontology. *Revue Internationale de Philosophie*, 4, 20--40.
-Carnap, R. (1955). The Logical Foundations of the Unity of Science. In *International Encyclopedia of Unified Science: Volume I*. Chicago: University of Chicago Press, 42--62.
-Carnap, R. (2003). *The Logical Structure of the World* (R.A. George, Trans.). Chicago: Open Court. [(Originally published in 1928 as \emph{Der logische Aufbau der Welt})]
-Chakravartty, A. (2007). *A Metaphysics for Scientific Realism*. Cambridge University Press.
-Chakravartty, A. (2011). Scientific realism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/scientific-realism/
-Creathe, R. (2011). Logical empiricism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/logical-empiricism/
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford: Oxford University Press. [(Originally published in 1641)]
 Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/abduction/
 Feynman, R.P. (1963). *The Feynman Lectures on Physics, Volume I*. California Institute of Technology. http://www.feynmanlectures.caltech.edu/I_03.html
