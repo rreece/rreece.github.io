@@ -236,6 +236,7 @@ Links and Encyclopedia Articles
 ### Wikipedia
 
 -   [Absurdism](http://en.wikipedia.org/wiki/Absurdism)
+-   [Bentham, Jeremy (1748-1832)](https://en.wikipedia.org/wiki/Jeremy_Bentham)
 -   [Consequentialism](http://en.wikipedia.org/wiki/Consequentialism)
 -   [Emotivism](http://en.wikipedia.org/wiki/Emotivism)
 -   [Ethical naturalism](http://en.wikipedia.org/wiki/Ethical_naturalism)
@@ -246,6 +247,7 @@ Links and Encyclopedia Articles
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
 -   [Is-ought problem](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
+-   [Legal positivism](https://en.wikipedia.org/wiki/Legal_positivism)
 -   [Meta-ethics](http://en.wikipedia.org/wiki/Meta-ethics)
 -   [Mill, John Stuart (1806-1873)](http://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Moral Realism](http://en.wikipedia.org/wiki/Moral_realism)
