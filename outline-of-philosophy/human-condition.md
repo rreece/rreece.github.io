@@ -45,7 +45,41 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated Bibliography
 --------------------------------------------------------------------------------
 
-### Camus, A. (1956). *The Fall (La Chute)*.
+### Camus, A. (1942). *The Stranger*.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
+### Sartre, J.P. (1946). Existentialism is a Humanism.
+
+-   "existence precedes essence"
+-   Refers to Nietzsche's God is dead, therefore we are free.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
+### Camus, A. (1948). *The Myth of Sisyphus*.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
+### Camus, A. (1956). *The Fall*.
 
 -   TODO.
 
