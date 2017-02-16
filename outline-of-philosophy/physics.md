@@ -48,15 +48,11 @@ TODO.
 
 Thermodynamics. Statistical mechanics. Renormalization.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+-   More is different[^Anderson-1972]
+-   Emergence[^Lisi-2017]
 
-1.  blah
-2.  blah
+[^Anderson-1972]: @Anderson_1972_More_Is_Different\.
+[^Lisi-2017]: @Lisi_2017_Emergence\.
 
 
 ### Quantum Mechanics
@@ -445,5 +441,7 @@ Links and Encyclopedia Articles
 -   [What is a gauge?](https://terrytao.wordpress.com/2008/09/27/what-is-a-gauge/) - Terence Tao
 -   [Struggles With the Continuum](https://www.physicsforums.com/insights/struggles-continuum-part-1/) - John Baez
 
+
+<!-- REFERENCES -->
 
 
