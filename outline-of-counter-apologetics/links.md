@@ -62,6 +62,7 @@ Articles
 -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/worldview-naturalism/history-of-naturalism) -- Ignacio Prado, [naturalism.org](http://www.naturalism.org/) 
 -   ["The History of Freethought and Atheism"](http://www.positiveatheism.org/india/s1990c25.htm) -- Gordon Stein, [positiveatheism.org](http://www.positiveatheism.org)
 -   ["Reza Aslan is Wrong About Islam and This is Why"](http://www.patheos.com/blogs/friendlyatheist/2014/10/05/reza-aslan-is-wrong-about-islam-and-this-is-why/) -- Muhammad Syed and Sarah Haider, [friendly atheist blog](http://www.patheos.com/blogs/friendlyatheist/)
+-   ["The World's Muslims: Religion, Politics and Society"](http://www.pewforum.org/2013/04/30/the-worlds-muslims-religion-politics-society-overview/) -- Pew Research Center
 
 <!---
 Some of these articles are analyzed in these pages [here](articles-analyzed.html).
