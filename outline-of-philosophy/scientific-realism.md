@@ -17,10 +17,25 @@ discusses the epistemological foundations and limitations of science.
 Issues and Positions
 --------------------------------------------------------------------------------
 
-![Scientific realism vs anti-realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism)).](img/phil-of-science-v02.png "My figure on scientific realism vs anti-realism"){#fig:phil-of-science}
+### Metaphysics
+
+When one encounters the word "metaphysics", what is usually meant is one of the
+three following ideas:
+
+-   What *really* exists, or at least what exist literally beyond what we know
+    in physics. In a sense, high-energy theoretical physics can be seen as
+    examples of theoretical metaphysics at its best, ideas about about what
+    there exists at a more fundamental level based on what we know at more
+    pedestrian levels of experience.
+-   A pejorative word, denoting ideas that are meaningless because they are
+    claims beyond what is verifiable.  This was the view of the positivistists.
+-   A loosely, if ill-defined, woo-woo word in which a mystic, guru, or metaphysician
+    may claim to specialize.
 
 
 ### Realism and Anti-realism
+
+![Scientific realism vs anti-realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism)).](img/phil-of-science-v02.png "My figure on scientific realism vs anti-realism"){#fig:phil-of-science}
 
 -   Naive realism.  Why would I doubt the world I see is real?
 -   Skepticism
