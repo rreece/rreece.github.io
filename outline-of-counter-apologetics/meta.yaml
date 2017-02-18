@@ -8,7 +8,7 @@ authorshort: Ryan Reece
 author1: Ryan Reece
 email1: ryan.reece@cern.ch
 homepage1: http://reece.scipp.ucsc.edu
-affiliation1: University of California, Santa Cruz
+#affiliation1: University of California, Santa Cruz
 #author2: Jane Coauthor
 #email2: jane.coauthor@blah.com
 #homepage2: http://jane.blah.com
@@ -19,9 +19,9 @@ affiliation1: University of California, Santa Cruz
 #affiliation3: Joe University
 author:
     -   |
-        [Ryan Reece](http://reece.scipp.ucsc.edu/)[^ReeceSCIPP]
+        [Ryan Reece](http://reece.scipp.ucsc.edu/)[^Reece]
 
-        [^ReeceSCIPP]: University of California, Santa Cruz / <ryan.reece@cern.ch> / <http://reece.scipp.ucsc.edu>
+        [^Reece]: <ryan.reece@cern.ch> / <http://reece.scipp.ucsc.edu>
 #    -   |
 #        Jane Coauthor[^Jane]
 #
