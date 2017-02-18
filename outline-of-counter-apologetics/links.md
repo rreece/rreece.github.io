@@ -57,12 +57,12 @@ Some of these videos are analyzed in these pages [here](videos-analyzed.html).
 Articles
 --------------------------------------------------------------------------------
 
--   Eichenwald, Kurt. (2015). [The Bible: So Misunderstood It's a Sin](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html). *Newsweek*.
--   Rizvi, Ali A. (2014). [An Open Letter to Moderate Muslims](http://www.huffingtonpost.com/ali-a-rizvi/an-open-letter-to-moderat_b_5930764.html). *Huffpost*. (also published at [*RDFRS*](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/))
--   Prado, Ignacio. (2XXX). [Ionian Enchantment: A Brief History of Scientific Naturalism](http://www.naturalism.org/worldview-naturalism/history-of-naturalism). [*naturalism.org*](http://www.naturalism.org/).
--   Stein, Gordon (2XXX). [The History of Freethought and Atheism](http://www.positiveatheism.org/india/s1990c25.htm). [*positiveatheism.org*](http://www.positiveatheism.org).
--   Syed, Muhammad & Haider, Sarah. (2014). [Reza Aslan is Wrong About Islam and This is Why](http://www.patheos.com/blogs/friendlyatheist/2014/10/05/reza-aslan-is-wrong-about-islam-and-this-is-why/). [*friendly atheist blog*](http://www.patheos.com/blogs/friendlyatheist/)
--   Pew Research Center. (2013). [The World's Muslims: Religion, Politics and Society](http://www.pewforum.org/2013/04/30/the-worlds-muslims-religion-politics-society-overview/)
+-   [Eichenwald, Kurt. (2015). The Bible: So Misunderstood It's a Sin. *Newsweek*.](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html)
+-   [Rizvi, Ali A. (2014). An Open Letter to Moderate Muslims. *Huffpost*.](http://www.huffingtonpost.com/ali-a-rizvi/an-open-letter-to-moderat_b_5930764.html) (also published at [*RDFRS*](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/))
+-   [Prado, Ignacio. (2006). Ionian Enchantment: A Brief History of Scientific Naturalism. *naturalism.org*](http://www.naturalism.org/worldview-naturalism/history-of-naturalism)
+-   [Stein, Gordon (2XXX). The History of Freethought and Atheism. *positiveatheism.org*.](http://www.positiveatheism.org/india/s1990c25.htm)
+-   [Syed, Muhammad & Haider, Sarah. (2014). Reza Aslan is Wrong About Islam and This is Why. *friendly atheist blog*.](http://www.patheos.com/blogs/friendlyatheist/2014/10/05/reza-aslan-is-wrong-about-islam-and-this-is-why/)
+-   [Pew Research Center. (2013). The World's Muslims: Religion, Politics and Society,](http://www.pewforum.org/2013/04/30/the-worlds-muslims-religion-politics-society-overview/)
 
 <!---
 Some of these articles are analyzed in these pages [here](articles-analyzed.html).
