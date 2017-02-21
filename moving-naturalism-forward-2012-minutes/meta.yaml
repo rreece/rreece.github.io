@@ -59,7 +59,7 @@ secPrefix: "Section"
 tblPrefix: "Table"
 ## html options -------------------------------------------
 #css: 'templates/markdown-memo.css'
-css: 'templates/markdown-memo-alt.css'
+css: 'templates/markdown-memo-alt-brown.css'
 #email: '<img class="email" src="img/my-email.png" alt="my email address"/>'
 email: '<img class="email" src="img/my-email-alt.png" alt="my email address"/>'
 disqus_shortname: 'ryans-moving-naturalism-forward-2012-minutes'
