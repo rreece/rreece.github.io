@@ -4,11 +4,11 @@ output: doc
 title: "Ryan's chess notes"
 titleshort: "Ryan's chess notes"
 #subtitle: make writing easier and more productive
-authorshort: Ryan Reece
-author1: Ryan Reece
-email1: ryan.reece@cern.ch
-homepage1: http://reece.scipp.ucsc.edu
-affiliation1: University of California, Santa Cruz
+#authorshort: Ryan Reece
+#author1: Ryan Reece
+#email1: ryan.reece@cern.ch
+#homepage1: http://reece.scipp.ucsc.edu
+#affiliation1: University of California, Santa Cruz
 #author2: Jane Coauthor
 #email2: jane.coauthor@blah.com
 #homepage2: http://jane.blah.com
@@ -17,11 +17,11 @@ affiliation1: University of California, Santa Cruz
 #email3: joe.coauthor@blah.com
 #homepage3: http://joe.blah.com
 #affiliation3: Joe University
-author:
-    -   |
-        [Ryan Reece](http://reece.scipp.ucsc.edu/)[^ReeceSCIPP]
-
-        [^ReeceSCIPP]: University of California, Santa Cruz / <ryan.reece@cern.ch> / <http://reece.scipp.ucsc.edu>
+#author:
+#    -   |
+#        [Ryan Reece](http://reece.scipp.ucsc.edu/)[^ReeceSCIPP]
+#
+#        [^ReeceSCIPP]: University of California, Santa Cruz / <ryan.reece@cern.ch> / <http://reece.scipp.ucsc.edu>
 #    -   |
 #        Jane Coauthor[^Jane]
 #
@@ -36,7 +36,7 @@ date: \today
 draft: false
 #license: ''
 #license: '&copy; 2015-2017 Ryan Reece. All rights reserved.'
-license: '<span class="copy-left">&copy;</span> 2015-2017 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).'
+license: '<span class="copy-left">&copy;</span> 2015-2017 [Ryan Reece](http://reece.scipp.ucsc.edu/). Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).'
 dorefs: false
 submitted: ''
 #submitted: 'Submitted to My Favorite Journal'
@@ -58,10 +58,10 @@ eqnPrefix: "eq."
 secPrefix: "Section"
 tblPrefix: "Table"
 ## html options -------------------------------------------
-css: 'templates/markdown-memo.css'
-#css: 'templates/markdown-memo-alt.css'
-email: '<img class="email" src="img/my-email.png" alt="my email address"/>'
-#email: '<img class="email" src="img/my-email-alt.png" alt="my email address"/>'
+#css: 'templates/markdown-memo.css'
+css: 'templates/markdown-memo-alt.css'
+#email: '<img class="email" src="img/my-email.png" alt="my email address"/>'
+email: '<img class="email" src="img/my-email-alt.png" alt="my email address"/>'
 #disqus_shortname: 'my-sites-disqus-name'
 #description: 'Write a description of this page.'
 favicon: 'img/markdown-favicon-196x196.png'
