@@ -17,11 +17,11 @@ subtitle: "An analysis of faith-based reasoning"
 #email3: joe.coauthor@blah.com
 #homepage3: http://joe.blah.com
 #affiliation3: Joe University
-author:
-    -   |
-        [Ryan Reece](http://reece.scipp.ucsc.edu/)[^Reece]
-
-        [^Reece]: <ryan.reece@cern.ch> / <http://reece.scipp.ucsc.edu>
+#author:
+#    -   |
+#        [Ryan Reece](http://reece.scipp.ucsc.edu/)[^Reece]
+#
+#        [^Reece]: <ryan.reece@cern.ch> / <http://reece.scipp.ucsc.edu>
 #    -   |
 #        Jane Coauthor[^Jane]
 #
