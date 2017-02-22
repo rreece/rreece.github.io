@@ -273,12 +273,17 @@ hr {
     margin: 36px auto 36px 0;
     border: 0;
     padding: 0;
-    color: #444444;
-    background-color: #444444;
+    color: #D0BB95;
+    background-color: #D0BB95;
     height: 2px; 
     text-align: left;
 }
 
+div#mainbody hr {
+    color: #444444;
+    background-color: #444444;
+    height: 2px; 
+}
 
 /* img ---------------------------------------------------------- */
 img {

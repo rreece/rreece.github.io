@@ -332,6 +332,7 @@ Links and Encyclopedia Articles
 -   [Hilbert space](http://en.wikipedia.org/wiki/Hilbert_space)
 -   [Holographic principle](http://en.wikipedia.org/wiki/Holographic_principle)
 -   [Holomovement](https://en.wikipedia.org/wiki/Holomovement)
+-   [Kochen-Specker Theorem](https://en.wikipedia.org/wiki/Kochen%E2%80%93Specker_theorem)
 -   [Lambda-CDM_model](https://en.wikipedia.org/wiki/Lambda-CDM_model)
 -   [Landau pole](https://en.wikipedia.org/wiki/Landau_pole)
 -   [Little hierarchy problem](https://en.wikipedia.org/wiki/Little_hierarchy_problem)
@@ -435,6 +436,7 @@ Links and Encyclopedia Articles
 -   [Can the quantum state be interpreted statistically?](http://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/) - Matt Leifer
 -   [Effective field theory](http://ncatlab.org/nlab/show/effective+quantum+field+theory) - nlab
 -   [Emergence](http://rationalwiki.org/wiki/Emergence) - RationalWiki.org
+-   [Kochen-Specker theorem](https://ncatlab.org/nlab/show/Kochen-Specker+theorem)
 -   [lqp2.org](http://www.lqp2.org/) - serving several papers on AQFT
 -   [Philosophy of general relativity](http://faculty.poly.edu/~jbain/philrel/) - Jonathan Bain
 -   [Philosophy of quantum mechanics](http://ls.poly.edu/~jbain/philqm/) - Jonathan Bain
