@@ -40,11 +40,10 @@ TODO.
 
 TODO.
 
--   Humean antirealism
+-   Emotivism - Hume, A.J. Ayer
 -   Nihilism
 -   Postmodernism
 -   Relativism
--   Emotivism - A.J. Ayer
 
 
 ### Moral realism
