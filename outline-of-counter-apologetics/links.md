@@ -57,12 +57,25 @@ Some of these videos are analyzed in these pages [here](videos-analyzed.html).
 Articles
 --------------------------------------------------------------------------------
 
+### Atheism
+
+-   [Carter, N. (2015). Atheists Need Help Mourning, Too.](http://www.patheos.com/blogs/godlessindixie/2015/07/07/atheists-need-help-mourning-too/)
+-   [Stein, Gordon (2XXX). The History of Freethought and Atheism. *positiveatheism.org*.](http://www.positiveatheism.org/india/s1990c25.htm) (broken!)
+-   [Kunesh, T.P. (1996). Gordon Stein on the Meaning of Agnosticism.](http://www.darkfiber.com/atheisms/atheisms/steinag.html)
+
+### Christianity
+
 -   [Eichenwald, Kurt. (2015). The Bible: So Misunderstood It's a Sin. *Newsweek*.](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html)
+
+### Islam 
+
 -   [Pew Research Center. (2013). The World's Muslims: Religion, Politics and Society,](http://www.pewforum.org/2013/04/30/the-worlds-muslims-religion-politics-society-overview/)
--   [Prado, Ignacio. (2006). Ionian Enchantment: A Brief History of Scientific Naturalism. *naturalism.org*](http://www.naturalism.org/worldview-naturalism/history-of-naturalism)
 -   [Rizvi, Ali A. (2014). An Open Letter to Moderate Muslims. *Huffpost*.](http://www.huffingtonpost.com/ali-a-rizvi/an-open-letter-to-moderat_b_5930764.html) (also published at [*RDFRS*](https://richarddawkins.net/2014/10/an-open-letter-to-moderate-muslims/))
--   [Stein, Gordon (2XXX). The History of Freethought and Atheism. *positiveatheism.org*.](http://www.positiveatheism.org/india/s1990c25.htm)
 -   [Syed, Muhammad & Haider, Sarah. (2014). Reza Aslan is Wrong About Islam and This is Why. *friendly atheist blog*.](http://www.patheos.com/blogs/friendlyatheist/2014/10/05/reza-aslan-is-wrong-about-islam-and-this-is-why/)
+
+### Naturalism
+
+-   [Prado, Ignacio. (2006). Ionian Enchantment: A Brief History of Scientific Naturalism. *naturalism.org*](http://www.naturalism.org/worldview-naturalism/history-of-naturalism)
 
 <!---
 Some of these articles are analyzed in these pages [here](articles-analyzed.html).
