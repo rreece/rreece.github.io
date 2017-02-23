@@ -886,6 +886,7 @@ Links and Encyclopedia Articles
 
 -   [Bragg, Melvyn. (2016). Logical positivism.](https://www.youtube.com/watch?v=89LZx8pdIBU)
 -   [Grayling, A.C. (2016). Wittgenstein's Games.](https://www.youtube.com/watch?v=Qw44w7Tvz2I)
+-   [Ladyman, James & Tallis, Raymond. (2015). Every Thing Must Go.](https://www.youtube.com/watch?v=j96Hls_-Ulc)
 -   [Mumford, Stephen (2015). Relations All The Way Down? (Against) Ontic Structural Realism](https://www.youtube.com/watch?v=4EeOhf1GG-M)
 
 

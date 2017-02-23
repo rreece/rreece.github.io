@@ -443,6 +443,10 @@ Links and Encyclopedia Articles
 -   [What is a gauge?](https://terrytao.wordpress.com/2008/09/27/what-is-a-gauge/) - Terence Tao
 -   [Struggles With the Continuum](https://www.physicsforums.com/insights/struggles-continuum-part-1/) - John Baez
 
+### Videos
+
+-   [Tong, D. (2017). Quantum Fields: The Real Building Blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg)
+
 
 <!-- REFERENCES -->
 
