@@ -287,8 +287,8 @@ Links and Encyclopedia Articles
 
 ### Videos
 
--   [Timothy Williamson: What is Naturalism?](https://www.youtube.com/watch?v=33qfCWesE1E)
--   [Daniel Dennett: Ontology, science, and the evolution of the manifest image?](https://www.youtube.com/watch?v=GcVKxeKFCHE)
+-   [Dennett, Daniel. (2016). Ontology, science, and the evolution of the manifest image?](https://www.youtube.com/watch?v=GcVKxeKFCHE)
+-   [Williamson, Timothy. (2016). What is Naturalism?](https://www.youtube.com/watch?v=33qfCWesE1E)
 
 
 <!-- REFERENCES -->

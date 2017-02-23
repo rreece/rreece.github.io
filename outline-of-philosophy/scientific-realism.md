@@ -881,11 +881,12 @@ Links and Encyclopedia Articles
 -   [Logical positivism](http://rationalwiki.org/wiki/Logical_positivism) - rationalwiki.org
 -   [Sartwell, Crispin (2015). Philosophy Returns to the Real World.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/)
 -   [Kaufman, D.A. (2016). Moore's Proof.](https://theelectricagora.com/2016/08/15/moores-proof/)
--   [Mumford, Stephen (2015). Relations All The Way Down? (Against) Ontic Structural Realism](https://www.youtube.com/watch?v=4EeOhf1GG-M) - youtube
 
 ### Videos
 
--   ["Wittgenstein's Games" - A.C. Grayling](https://www.youtube.com/watch?v=Qw44w7Tvz2I)
+-   [Bragg, Melvyn. (2016). Logical positivism.](https://www.youtube.com/watch?v=89LZx8pdIBU)
+-   [Grayling, A.C. (2016). Wittgenstein's Games.](https://www.youtube.com/watch?v=Qw44w7Tvz2I)
+-   [Mumford, Stephen (2015). Relations All The Way Down? (Against) Ontic Structural Realism](https://www.youtube.com/watch?v=4EeOhf1GG-M)
 
 
 [^Carnap-1950]: @Carnap_1950_Empiricism_Semantics_and_Ontology\.
