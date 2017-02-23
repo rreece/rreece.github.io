@@ -23,8 +23,8 @@ When one encounters the word "metaphysics", what is usually meant is one of the
 three following ideas:
 
 -   What *really* exists, or at least what exist literally beyond what we know
-    in physics.  This is one of the oldest discussions in philosophy.
-    In a sense, high-energy theoretical physics can be seen as
+    in physics.  This is one of the oldest and fundamental branches in philosophy.
+    In a naturalist sense, high-energy theoretical physics can be seen as
     examples of theoretical metaphysics at its best, ideas about about what
     there exists at a more fundamental level based on what we know at more
     pedestrian levels of experience.
