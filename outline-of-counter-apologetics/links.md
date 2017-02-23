@@ -60,8 +60,8 @@ Articles
 ### Atheism
 
 -   [Carter, N. (2015). Atheists Need Help Mourning, Too.](http://www.patheos.com/blogs/godlessindixie/2015/07/07/atheists-need-help-mourning-too/)
--   [Stein, Gordon (2XXX). The History of Freethought and Atheism. *positiveatheism.org*.](http://www.positiveatheism.org/india/s1990c25.htm) (broken!)
 -   [Kunesh, T.P. (1996). Gordon Stein on the Meaning of Agnosticism.](http://www.darkfiber.com/atheisms/atheisms/steinag.html)
+-   [Stein, Gordon (2XXX). The History of Freethought and Atheism. *positiveatheism.org*.](http://www.positiveatheism.org/india/s1990c25.htm) (broken!)
 
 ### Christianity
 
