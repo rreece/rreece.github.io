@@ -445,7 +445,8 @@ Links and Encyclopedia Articles
 
 ### Videos
 
--   [Tong, D. (2017). Quantum Fields: The Real Building Blocks of the Universe](https://www.youtube.com/watch?v=zNVQfWC_evg)
+-   [Carroll, S. (2013). Particles, Fields and The Future of Physics.](https://www.youtube.com/watch?v=gEKSpZPByD0)
+-   [Tong, D. (2017). Quantum Fields: The Real Building Blocks of the Universe.](https://www.youtube.com/watch?v=zNVQfWC_evg)
 
 
 <!-- REFERENCES -->
