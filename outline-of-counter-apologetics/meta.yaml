@@ -58,10 +58,10 @@ eqnPrefix: "eq."
 secPrefix: "Section"
 tblPrefix: "Table"
 ## html options -------------------------------------------
-css: 'templates/markdown-memo.css'
-#css: 'templates/markdown-memo-alt.css'
-email: '<img class="email" src="img/my-email.png" alt="my email address"/>'
-#email: '<img class="email" src="img/my-email-alt.png" alt="my email address"/>'
+#css: 'templates/markdown-memo.css'
+css: 'templates/markdown-memo-alt.css'
+#email: '<img class="email" src="img/my-email.png" alt="my email address"/>'
+email: '<img class="email" src="img/my-email-alt.png" alt="my email address"/>'
 disqus_shortname: 'ryans-outline-of-counter-apologetics'
 description: "Ryan Reece's outline of counter apologetics"
 favicon: 'img/markdown-favicon-196x196.png'
