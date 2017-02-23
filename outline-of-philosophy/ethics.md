@@ -15,24 +15,48 @@ Issues and Positions
 --------------------------------------------------------------------------------
 
 
-### Consequentialism
-
-TODO.
-
-
-### Deontological Ethics
-
-TODO.
-
-
-### Virtue Ethics
+### Virtue ethics
 
 TODO.
 
 See the discussion of [Stoicism](http://rreece.github.io/outline-of-philosophy/human-condition.html#stoicism).
 
+-   Aristotle
 
-### Moral Realism
+
+### Deontological ethics
+
+TODO.
+
+-   Kant
+
+
+### Consequentialism
+
+TODO.
+
+
+### Moral antirealism
+
+TODO.
+
+-   Humean antirealism
+-   Nihilism
+-   Postmodernism
+-   Relativism
+-   Emotivism - A.J. Ayer
+
+
+### Moral realism
+
+TODO.
+
+-   Objectivism
+-   Structuralism
+-   Ethical naturalism
+-   Game theory
+
+See the outline on [Naturalism](naturalism.html#ethical-naturalism).
 
 Debating moral realism with Sean Carroll.
 
@@ -121,11 +145,6 @@ Michael Shermer and Massimo Pigliucci debate the role of science deriving morali
 -   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
 
 
-### Ethical Naturalism
-
-See the outline on [Naturalism](naturalism.html#ethical-naturalism).
-
-
 My Thoughts
 --------------------------------------------------------------------------------
 
@@ -139,6 +158,15 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Annotated Bibliography
 --------------------------------------------------------------------------------
+
+### Putnam, H. (2004). The Collapse of the Fact/Value Dichotomy and Other Essays.
+
+-   TODO.
+
+#### My thoughts
+
+-   TODO.
+
 
 ### Portmore, D. (2011). Commonsense Consequentialism.
 
