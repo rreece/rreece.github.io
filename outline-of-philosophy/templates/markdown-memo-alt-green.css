@@ -332,11 +332,11 @@ td {
 div#mainbody
 {
     background: white;
-    padding: 10px;
 }
 
 div#pagecontainer
 {
+    padding: 10px;
     max-width: 700px;
 }
 
@@ -524,3 +524,13 @@ div.clickmore a.closed:before
     content: "[+] ";
 }
 div.more
+{
+    display: none;
+    clear: both;
+    margin-top: 8px;
+    margin-bottom: 16px;
+    border-top: 2px #cccccc dashed;
+    border-bottom: 2px #cccccc dashed;
+}
+
+
