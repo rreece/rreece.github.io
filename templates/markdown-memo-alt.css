@@ -1,6 +1,7 @@
 /*** Ryan's CSS style for markdown notes ***/
 
 /* colors used -------------------------------------------------
+-   #444444 - background
 -   #444444 - gray - main text
 -   #000000 - black - headers
 -   #0099ff - link
@@ -117,9 +118,10 @@ a:hover {
 
 /* site header / footer ---------------------------------------------- */
 div#site_header {
+    background: #444444;
     font-size: 24px;
     font-weight: bold;
-    color: #cccccc;
+    color: #CCCCCC;
     /* set same as .block class bellow */
     display:block;
     clear: both;
@@ -132,18 +134,18 @@ div#site_header {
 
 div#site_header a {
     text-decoration: none;
-    color: #cccccc;
+    color: #CCCCCC;
 }
 
 div#site_footer {
+    background: #444444;
     font-size: 16px;
-    color: #cccccc;
+    color: #CCCCCC;
     /* set same as .block class bellow */
     display:block;
     clear: both;
     width: auto;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin: 0;
     border: 0;
     border-bottom: 20px solid #444444;
     padding: 4px 10px;
@@ -176,6 +178,7 @@ img.email {
 
 div#disqus_stuff {
     padding: 4px 10px;
+    background: #444444;
 }
 
 
@@ -279,6 +282,11 @@ hr {
     text-align: left;
 }
 
+div#mainbody hr {
+    color: #444444;
+    background-color: #444444;
+    height: 2px; 
+}
 
 /* img ---------------------------------------------------------- */
 img {
@@ -328,6 +336,11 @@ div#mainbody
     padding: 10px;
 }
 
+div#pagecontainer
+{
+    max-width: 700px;
+}
+
 /* nav ---------------------------------------------------------- */
 div.nav
 {
@@ -338,6 +351,7 @@ div.nav
     padding: 5px 10px;
     font-family: Consolas, Monaco, "Andale Mono", monospace;
     color: #cccccc;
+    background: #444444;
 }
 
 div.nav ul

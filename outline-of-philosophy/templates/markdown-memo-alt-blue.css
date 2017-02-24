@@ -118,6 +118,7 @@ a:hover {
 
 /* site header / footer ---------------------------------------------- */
 div#site_header {
+    background: #062F4F;
     font-size: 24px;
     font-weight: bold;
     color: #CCCCCC;
@@ -137,14 +138,14 @@ div#site_header a {
 }
 
 div#site_footer {
+    background: #062F4F;
     font-size: 16px;
     color: #CCCCCC;
     /* set same as .block class bellow */
     display:block;
     clear: both;
     width: auto;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin: 0;
     border: 0;
     border-bottom: 20px solid #062F4F;
     padding: 4px 10px;
@@ -177,6 +178,7 @@ img.email {
 
 div#disqus_stuff {
     padding: 4px 10px;
+    background: #062F4F;
 }
 
 
@@ -334,6 +336,11 @@ div#mainbody
     padding: 10px;
 }
 
+div#pagecontainer
+{
+    max-width: 700px;
+}
+
 /* nav ---------------------------------------------------------- */
 div.nav
 {
@@ -344,6 +351,7 @@ div.nav
     padding: 5px 10px;
     font-family: Consolas, Monaco, "Andale Mono", monospace;
     color: #cccccc;
+    background: #062F4F;
 }
 
 div.nav ul

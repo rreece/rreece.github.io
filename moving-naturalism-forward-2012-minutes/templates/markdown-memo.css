@@ -330,6 +330,12 @@ div#mainbody
 /*    float: left;*/
 }
 
+div#pagecontainer
+{
+    max-width: 700px;
+}
+
+
 /* nav ---------------------------------------------------------- */
 div.nav
 {

@@ -118,6 +118,7 @@ a:hover {
 
 /* site header / footer ---------------------------------------------- */
 div#site_header {
+    background: #D0BB95;
     font-size: 24px;
     font-weight: bold;
     color: #444444;
@@ -137,14 +138,14 @@ div#site_header a {
 }
 
 div#site_footer {
+    background: #D0BB95;
     font-size: 16px;
     color: #444444;
     /* set same as .block class bellow */
     display:block;
     clear: both;
     width: auto;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin: 0;
     border: 0;
     border-bottom: 20px solid #D0BB95;
     padding: 4px 10px;
@@ -177,6 +178,7 @@ img.email {
 
 div#disqus_stuff {
     padding: 4px 10px;
+    background: #D0BB95;
 }
 
 
@@ -330,8 +332,12 @@ td {
 div#mainbody
 {
     background: white;
-/*    background: #cccccc;*/
     padding: 10px;
+}
+
+div#pagecontainer
+{
+    max-width: 700px;
 }
 
 /* nav ---------------------------------------------------------- */
@@ -343,7 +349,8 @@ div.nav
     border: 0;
     padding: 5px 10px;
     font-family: Consolas, Monaco, "Andale Mono", monospace;
-    color: #cccccc;
+    color: #444444;
+    background: #D0BB95;
 }
 
 div.nav ul
@@ -428,7 +435,7 @@ a.footnoteRef sup {
     float: right;
     clear: right;
     margin-bottom: 20px;
- /*   margin-left: 20px; */
+/*    margin-left: 20px; */
     border: 0;
     border-left: 20px solid white;
     padding: 4px;
