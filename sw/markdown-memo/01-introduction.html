@@ -68,15 +68,15 @@
 <h1 id="introduction">Introduction</h1>
 <h2 id="what-this-is-for">What this is for</h2>
 <p>This project is meant to make writing easier and more productive.</p>
-<p>So you want to write a document. Maybe you&#8217;ll share it on the web. Maybe you want a polished pdf. Maybe it&#8217;s a blog, research paper, book draft, or just a set of notes. You <em>don&#8217;t</em> want to think about typesetting details. You just want to throw your ideas in some plain text files and call make.</p>
-<p>This package makes it very easy to compile text taken in Markdown to valid xhtml or to a pdf via LaTeX. It can be used to make simple webpages quickly, for example:<br />
+<p>So you want to write a document. Maybe you&#8217;ll share it on the web. Maybe you want a polished pdf. Maybe it&#8217;s a blog, research paper, book draft, or just a set of notes. You <em>don&#8217;t</em> want to think about typesetting details. You just want to throw your ideas in some plain text files and call <code>make</code>.</p>
+<p>This package makes it very easy to compile text taken in <a href="https://daringfireball.net/projects/markdown/">Markdown</a> to valid xhtml or to a pdf via LaTeX. It can be used to make simple webpages quickly, for example:<br />
 <a href="http://rreece.github.io/sw/markdown-memo/" class="uri">http://rreece.github.io/sw/markdown-memo/</a></p>
 <p>This same document compiled to a pdf can be found here:<br />
 <a href="http://rreece.github.io/sw/markdown-memo/example.pdf" class="uri">http://rreece.github.io/sw/markdown-memo/example.pdf</a></p>
 <h2 id="how-it-works">How it works</h2>
 <p><a href="https://daringfireball.net/projects/markdown/">Markdown</a> is a very simple markup language for writing documents that basically looks as if you were to write your ideas in a plain-text email. In this package, we aim to hide some of the boiler-plate issues of compiling a completely formatted document or webpage from Markdown, trying to make it as trivial as possible to get your ideas out.</p>
-<p>Most of the heavy-lifting work underneath <code>markdown-memo</code> is done by the <a href="http://pandoc.org/">pandoc</a> program, which does the actual compilation of Markdown to html or pdf.</p>
-<p>Most of the magic in the implementation of <code>markdown-memo</code> is in its <a href="https://github.com/rreece/markdown-memo/blob/master/Makefile">Makefile</a>, which basically calls pandoc in various useful configurations and applies some hacks to the output using the tools in <code>scripts/</code>.</p>
+<p>Most of the heavy-lifting work underneath markdown-memo is done by the <a href="http://pandoc.org/">pandoc</a> program, which does the actual compilation of Markdown to html or pdf.</p>
+<p>Most of the magic in the implementation of markdown-memo is in its <a href="https://github.com/rreece/markdown-memo/blob/master/Makefile">Makefile</a>, which basically calls pandoc in various useful configurations and applies some hacks to the output using the tools in <code>scripts/</code>.</p>
 <p><strong>Keep content and style separated.</strong></p>
 <p>The idea is that all user <em>content</em> should be in plainly written <code>*.md</code> files and one metadata file: <code>meta.yaml</code>. All <em>stylistic</em> issues should be implemented in the details of the files in <code>templates/</code> and configurable through <code>meta.yaml</code>, and unless you want to, you shouldn&#8217;t have to worry about them.</p>
 <p>For example, <a href="http://rreece.github.io/sw/markdown-memo-alt/01-introduction.html"><strong>see what changes</strong></a> when this document is created with</p>
