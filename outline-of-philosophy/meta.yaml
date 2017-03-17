@@ -107,6 +107,7 @@ geometry:
 #linestretch: '1.1'
 maketitle: true
 numbersections: true
+secnewpage: true
 #spacing: '1.2'
 toc: true
 tocdepth: 3
