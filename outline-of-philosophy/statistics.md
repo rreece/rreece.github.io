@@ -35,6 +35,11 @@ Issues and Positions
 
 ![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties)).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
 
+### P-value controversy
+
+-   file-drawer effect = look-elsewhere effect
+-   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
+
 
 My Thoughts
 --------------------------------------------------------------------------------
