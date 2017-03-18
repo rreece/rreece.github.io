@@ -70,28 +70,30 @@ mathjax: true
 navigation: true
 #thumbnail: 'http://rreece.github.io/sw/markdown-memo/img/ATLAS-local-p0-vs-mH.png'
 ## pdflatex options ---------------------------------------
-#documentclass: 'article'
-documentclass: 'revtex4-1'
-revtex: true
+documentclass: 'article'
+#documentclass: 'revtex4-1'
+revtex: false
 classoption:
 #    -   'a4paper'
     -   'letterpaper'
-    -   'openany'
+#    -   'openany'
     -   'twoside'
-# revtex options ##
-    -   'aps'
-    -   'prl'
-#    -   'aip'
-#    -   'apl'
-#    -   'twocolumn'
-#    -   'preprint'
-    -   'reprint'
-    -   'nofootinbib'
-    -   'superscriptaddress'
-    -   'showkeys'
-#fancyhdr: true
+## revtex options ##
+#    -   'aps'
+#    -   'prl'
+##    -   'aip'
+##    -   'apl'
+##    -   'twocolumn'
+##    -   'preprint'
+#    -   'reprint'
+#    -   'nofootinbib'
+#    -   'superscriptaddress'
+#    -   'showkeys'
+extrapackages:
+    -   'jheppub'
+fancyhdr: false
 fontsize: '11pt'
-fontfamily: 'mathpazo'
+#fontfamily: 'mathpazo'
 #geometry: 
 #    -   'paperwidth=8.5in'
 #    -   'paperheight=11in'
@@ -101,15 +103,17 @@ fontfamily: 'mathpazo'
 #    -   'right=1.25in'
 #    -   'headheight=14pt'
 #    -   'headsep=14pt'
+hyperref: false
+jhep: true
 #linestretch: '1.1'
 lof: false
 lot: false
 maketitle: true
 numbersections: true
-parskip: '11pt'
+#parskip: '11pt'
 secnewpage: false
 #spacing: '1.2'
-toc: false
+toc: true
 tocdepth: 3
 ...
 
