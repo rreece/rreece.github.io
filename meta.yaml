@@ -89,6 +89,8 @@ classoption:
 #    -   'nofootinbib'
 #    -   'superscriptaddress'
 #    -   'showkeys'
+#extrapackages:
+#    -   'jheppub'
 fancyhdr: true
 fontsize: '11pt'
 fontfamily: 'mathpazo'
@@ -101,9 +103,13 @@ geometry:
     -   'right=1.25in'
     -   'headheight=14pt'
     -   'headsep=14pt'
+hyperref: true
+jhep: false
 #linestretch: '1.1'
 maketitle: true
 numbersections: true
+parskip: '11pt'
+secnewpage: false
 #spacing: '1.2'
 toc: true
 tocdepth: 3
