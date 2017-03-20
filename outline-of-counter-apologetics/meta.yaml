@@ -107,6 +107,8 @@ geometry:
 hyperref: true
 jhep: false
 #linestretch: '1.1'
+lof: false
+lot: false
 maketitle: true
 numbersections: true
 parskip: '11pt'

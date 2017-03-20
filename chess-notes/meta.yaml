@@ -106,6 +106,8 @@ geometry:
 hyperref: true
 jhep: false
 #linestretch: '1.1'
+lof: false
+lot: false
 maketitle: true
 numbersections: true
 parskip: '11pt'
@@ -113,7 +115,5 @@ secnewpage: false
 #spacing: '1.2'
 toc: true
 tocdepth: 3
-lof: false
-lot: false
 ...
 
