@@ -67,7 +67,8 @@ ATLAS experiment.
     Most of the talk is a primer on the method of maximum likelihood and how one uses
     it to calculate confidence contours.
     While low profile, this talk is important to me because it marks the time that
-    I started to understand the basics of the theory of statistical confidence intervals.
+    I started to understand the basics of the frequentist theory of statistical
+    confidence intervals.
 
 
 Philosophy of science talks
