@@ -13,7 +13,7 @@ ATLAS experiment.
 
 1. *[ATLAS searches for heavy Higgs bosons and supersymmetry using tau decays](talks/2016-09-23-RReece-ATLAS-Tau-Searches-Tau2016-Beijing.pdf)*        
     *on behalf of the ATLAS Collaboration*        
-    *2016/09/23, IHEP, Beijing, China*
+    *2016/09/23, IHEP, Beijing, China*         
     A conference talk I gave at
     [Tau2016: International Workshop on Tau Lepton Physics](http://tau2016.ihep.ac.cn/) in Beijing, China,
     reviewing ATLAS searches for heavy Higgs bosons and supersymmetry with tau leptons in the final states.
