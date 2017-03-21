@@ -5,6 +5,12 @@ Ryan's selected talks
 ![](img/ryan-in-nagoya-2012.jpg "Me in Nagoya, Japan for Tau2012.")
 
 
+2015-07-21-RReece-Testing-Models-at-the-LHC.pdf
+2016-07-20-RReece-Fields-Over-Particles.pdf
+2016-09-23-RReece-ATLAS-Tau-Searches-Tau2016-Beijing.pdf
+2016-11-29-RReece-ATLAS-Epistemology.pdf
+2017-03-16-RReece-Machine-learning-and-realism.pdf
+
 ATLAS talks
 -------------------------------------------------------------------------------
 
@@ -28,14 +34,18 @@ ATLAS experiment.
     reporting results from searching for new physics in high-mass ditau events
     in the ATLAS experiment with the 20/fb of proton-proton collision data collected in 2012.
 
-1.  *[Searching for new physics in high-mass ditau events at ATLAS](talks/)*    
+1. *[A search for new physics in high-mass ditau events in the ATLAS detector](talks/2013-06-12-RReece-ditaus-at-ATLAS-thesis-defense.pdf)*         
+    *2013/06/12*         
+    My thesis defense.
+
+1.  *[Searching for new physics in high-mass ditau events at ATLAS](talks/2012-12-13-RReece-ZprimeTauTau-Yale)*      
     *2012/12/13*, *12/11*, *11/26*, and *11/20*    
     A seminar I gave at Yale University summarizing my efforts in tau lepton physics at ATLAS,
     including the first ATLAS cut-based tau identification, the $Z\rightarrow\tau\tau$ cross section,
     and the first search for $Z\prime\rightarrow\tau\tau$ at ATLAS.
     I gave similar seminars at NYU, UT Austin, and (remotely to) Brookhaven National Lab.
 
-1.  *[Hadronic tau decays in ATLAS](talks/)*    
+1.  *[Hadronic tau decays in ATLAS](talks/2012-11-13-RReece-ATLAS-tau-performance-Chicago.pdf)*    
     *2012/11/13*      
     A review of the tau object reconstructed and supported by ATLAS and its current status,
     given at the [Chicago 2012 Workshop on LHC Physics](https://indico.cern.ch/conferenceOtherViews.py?view=standard&confId=206375),
@@ -56,7 +66,7 @@ ATLAS experiment.
     A talk I gave at the [2011 International Europhysics Conference on High Energy Physics (EPS)](https://indico.in2p3.fr/event/5116/contribution/533)
     in Grenoble, France.
 
-1.  *[Likelihood functions for supersymmetric observables in frequentist analyses of the CMSSM and NUHM1](talks/)*       
+1.  *[Likelihood functions for supersymmetric observables in frequentist analyses of the CMSSM and NUHM1](talks/2009-09-29-RReece-Likelihood-functions-for-SUSY.pdf)*       
     *2009/09/29*        
     Discussion of a paper by the same name that I lead for the Penn HEP Journal Club,
     mostly researchers in the ATLAS group.
