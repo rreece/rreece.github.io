@@ -5,6 +5,9 @@ Ryan's selected talks
 ![](img/ryan-in-nagoya-2012.jpg "Me in Nagoya, Japan for Tau2012.")
 
 
+A collection of slides for a selection of public talks given by Ryan Reece.
+
+
 ATLAS talks
 -------------------------------------------------------------------------------
 
