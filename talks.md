@@ -23,6 +23,12 @@ ATLAS experiment.
     The analyses discussed use datasets corresponding to approximately 13-15/fb of 13 TeV proton-proton
     collision data taken in the years 2015-2016.
 
+1.  *[Searching for new physics in high-mass ditau events at ATLAS](talks/2013-10-15-RReece-ZprimeTauTau-UCDavis.pdf)*      
+    *2013/10/15, University of California, Davis, CA, USA*
+    A seminar I gave at UC Davis,
+    reporting on seachers for new physics in high-mass ditau events with ATLAS
+    with the 2011 and 2012 datasets.
+
 1. *[Searching for new physics in high-mass ditau events at ATLAS](talks/2013-08-15-RReece-ZprimeTauTau-DPF-UCSC.pdf)*         
     *on behalf of the ATLAS Collaboration*         
     *2013/08/15, University of California, Santa Cruz, CA, USA*         
@@ -36,7 +42,7 @@ ATLAS experiment.
     My thesis defense. TODO.
 
 1.  *[Searching for new physics in high-mass ditau events at ATLAS](talks/2012-12-13-RReece-ZprimeTauTau-Yale.pdf)*      
-    *2012/12/13, Yale, New Haven, CT, USA*, also *12/11*, *11/26*, and *11/20*    
+    *2012/12/13, Yale University, New Haven, CT, USA*, also *12/11*, *11/26*, and *11/20*    
     A seminar I gave at Yale University summarizing my efforts in tau lepton physics at ATLAS,
     including the first ATLAS cut-based tau identification, the $Z\rightarrow\tau\tau$ cross section,
     and the first search for $Z^{\prime}\rightarrow\tau\tau$ at ATLAS.
