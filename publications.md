@@ -12,7 +12,7 @@ First, note that you can get my CV here: [html](docs/Ryan_Reece_cv.html), [pdf](
 
 <img class="floatright" src="img/ryans-thesis.jpg"  width="300"  title="A search for new physics in high-mass ditau events in the ATLAS detector"/>
 
-*Ph.D. Thesis, July 2013*
+*Ph.D. thesis, July 2013*
 
 My graduate research as a student at the University of Pennsylvania,
 working with the ATLAS experiment at the Large Hadron Collider at CERN,
