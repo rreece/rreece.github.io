@@ -185,6 +185,8 @@ ATLAS Conference Notes / Proceedings / Other Public Documents
 ATLAS Internal Notes
 -------------------------------------------------------------------------------
 
+You won't have access to these unless you are a member of ATLAS.
+
 <div class="clickmore"><a id="link:atlas-internal-more" class="closed" onclick="toggle_more('atlas-internal-more')">Click to expand list of internal notes</a></div>
 <div id="atlas-internal-more" class="more">
 
