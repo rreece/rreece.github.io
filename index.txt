@@ -4,7 +4,9 @@
 ### What's here?
 
 -   [My github profile](https://github.com/rreece)
--   [My selected software projects on github](sw/)
+-   [My selected software projects at github](sw/)
+-   [My selected list of publications](publications.html)
+-   [My selected list of talks](talks.html)
 -   Some other things I'll share someday
 
 
