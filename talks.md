@@ -80,20 +80,23 @@ philosophy of quantum mechanics, statistics, and machine learning.
 
 
 1.  *[Machine learning and realism](talks/2017-03-16-RReece-Machine-learning-and-realism.pdf)*
-    *2017/03/16*
+    *2017/03/16, Universit&auml;t Bremen, Bremen, Germany*
     TODO.
+    [der Deutschen Physikalischen Gesellschaft (DPG), Bremen 2017](http://www.dpg-verhandlungen.de/year/2017/conference/bremen/part/agphil/session/5/contribution/3)
 
 1.  *[ATLAS, data reduction, and epistemology](talks/2016-11-29-RReece-ATLAS-Epistemology.pdf)*
-    *2016/11/29*
+    *2016/11/29*, H&ouml;chstleistungsrechenzentrum Stuttgart (HLRS), Stuttgart, Germany*
     TODO.
 
 1.  *[Field over particles](talks/2016-07-20-RReece-Fields-Over-Particles.pdf)*
-    *2016/07/20*
+    *2016/07/20, Saig (Black Forest), Germany*
     TODO.
+    [4th International Summer School in Philosophy of Physics, Saig (Black Forest)]()
 
 1.  *[How models are tested at the LHC](talks/2015-07-21-RReece-Testing-Models-at-the-LHC.pdf)*
-    *2015/07/21*
+    *2015/07/21, Saig (Black Forest), Germany*
     TODO.
+    [3rd International Summer School in Philosophy of Physics, Saig (Black Forest)](https://sites.google.com/site/isspp2015/)
 
 
 Other outreach talks
