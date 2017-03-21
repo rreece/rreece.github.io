@@ -81,8 +81,7 @@ Philosophy of science talks
 
 Here's my selected list of public talks I have given on science in general,
 philosophy of science, and in particular with focuses on the
-philosophy of quantum mechanics and
-philosophy of machine learning.
+philosophy of quantum mechanics, statistics, and machine learning.
 
 1.  2015-07-21-RReece-Testing-Models-at-the-LHC.pdf
 1.  two
