@@ -11,9 +11,9 @@ ATLAS talks
 Here's my selected list of public talks I have given on physics with the
 ATLAS experiment.
 
-1. *[ATLAS searches for heavy Higgs bosons and supersymmetry using tau decays](talks/)*        
+1. *[ATLAS searches for heavy Higgs bosons and supersymmetry using tau decays](talks/2016-09-23-RReece-ATLAS-Tau-Searches-Tau2016-Beijing.pdf)*        
     *on behalf of the ATLAS Collaboration*        
-    *2016/09/23*         
+    *2016/09/23*,         
     A conference talk I gave at
     [Tau2016: International Workshop on Tau Lepton Physics](http://tau2016.ihep.ac.cn/) in Beijing, China,
     reviewing ATLAS searches for heavy Higgs bosons and supersymmetry with tau leptons in the final states.
@@ -30,9 +30,9 @@ ATLAS experiment.
 
 1. *[A search for new physics in high-mass ditau events in the ATLAS detector](talks/2013-06-12-RReece-ditaus-at-ATLAS-thesis-defense.pdf)*         
     *2013/06/12*         
-    My thesis defense.
+    My thesis defense. TODO.
 
-1.  *[Searching for new physics in high-mass ditau events at ATLAS](talks/2012-12-13-RReece-ZprimeTauTau-Yale)*      
+1.  *[Searching for new physics in high-mass ditau events at ATLAS](talks/2012-12-13-RReece-ZprimeTauTau-Yale.pdf)*      
     *2012/12/13*, *12/11*, *11/26*, and *11/20*    
     A seminar I gave at Yale University summarizing my efforts in tau lepton physics at ATLAS,
     including the first ATLAS cut-based tau identification, the $Z\rightarrow\tau\tau$ cross section,
@@ -58,7 +58,7 @@ ATLAS experiment.
     *on behalf of the ATLAS Collaboration*        
     *2011/07/22*           
     A talk I gave at the [2011 International Europhysics Conference on High Energy Physics (EPS)](https://indico.in2p3.fr/event/5116/contribution/533)
-    in Grenoble, France.
+    in Grenoble, France. TODO.
 
 1.  *[Likelihood functions for supersymmetric observables in frequentist analyses of the CMSSM and NUHM1](talks/2009-09-29-RReece-Likelihood-functions-for-SUSY.pdf)*       
     *2009/09/29*        
@@ -77,8 +77,23 @@ Here's my selected list of public talks I have given on science in general,
 philosophy of science, and in particular with focuses on the
 philosophy of quantum mechanics, statistics, and machine learning.
 
-1.  2015-07-21-RReece-Testing-Models-at-the-LHC.pdf
-1.  two
+
+
+1.  *[Machine learning and realism](talks/2017-03-16-RReece-Machine-learning-and-realism.pdf)*
+    *2017/03/16*
+    TODO.
+
+1.  *[ATLAS, data reduction, and epistemology](talks/2016-11-29-RReece-ATLAS-Epistemology.pdf)*
+    *2016/11/29*
+    TODO.
+
+1.  *[Field over particles](talks/2016-07-20-RReece-Fields-Over-Particles.pdf)*
+    *2016/07/20*
+    TODO.
+
+1.  *[How models are tested at the LHC](talks/2015-07-21-RReece-Testing-Models-at-the-LHC.pdf)*
+    *2015/07/21*
+    TODO.
 
 
 Other outreach talks
