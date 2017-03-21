@@ -85,7 +85,7 @@ philosophy of quantum mechanics, statistics, and machine learning.
     [der Deutschen Physikalischen Gesellschaft (DPG), Bremen 2017](http://www.dpg-verhandlungen.de/year/2017/conference/bremen/part/agphil/session/5/contribution/3)
 
 1.  *[ATLAS, data reduction, and epistemology](talks/2016-11-29-RReece-ATLAS-Epistemology.pdf)*        
-    *2016/11/29*, H&ouml;chstleistungsrechenzentrum Stuttgart (HLRS), Stuttgart, Germany*       
+    *2016/11/29, H&ouml;chstleistungsrechenzentrum Stuttgart (HLRS), Stuttgart, Germany*       
     TODO.
 
 1.  *[Field over particles](talks/2016-07-20-RReece-Fields-Over-Particles.pdf)*      
