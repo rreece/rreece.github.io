@@ -36,7 +36,7 @@ ATLAS experiment.
     *2012/12/13*, *12/11*, *11/26*, and *11/20*    
     A seminar I gave at Yale University summarizing my efforts in tau lepton physics at ATLAS,
     including the first ATLAS cut-based tau identification, the $Z\rightarrow\tau\tau$ cross section,
-    and the first search for $Z\prime\rightarrow\tau\tau$ at ATLAS.
+    and the first search for $Z^{\prime}\rightarrow\tau\tau$ at ATLAS.
     I gave similar seminars at NYU, UT Austin, and (remotely to) Brookhaven National Lab.
 
 1.  *[Hadronic tau decays in ATLAS](talks/2012-11-13-RReece-ATLAS-tau-performance-Chicago.pdf)*    
