@@ -62,8 +62,8 @@ ATLAS experiment.
 
 1.  *[Likelihood functions for supersymmetric observables in frequentist analyses of the CMSSM and NUHM1](talks/2009-09-29-RReece-Likelihood-functions-for-SUSY.pdf)*       
     *2009/09/29, CERN*        
-    Discussion of a paper by the same name that I lead for the Penn HEP Journal Club,
-    mostly researchers in the ATLAS group.
+    Discussion of a paper by the same name that I lead as a graduate student
+    for the Penn HEP Journal Club, mostly researchers in the ATLAS group.
     Most of the talk is a primer on the method of maximum likelihood and how one uses
     it to calculate confidence contours.
     While low profile, this talk is important to me because it marks the time that
