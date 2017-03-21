@@ -1,8 +1,24 @@
 Ryan's selected publications
 ===============================================================================
 
+Here you will find lists of my selected publications.
+
+First, note that you can get my CV here: [html](docs/Ryan_Reece_cv.html), [pdf](docs/Ryan_Reece_cv.pdf).
+
 
 ![](img/ryans-thesis.jpg "A search for new physics in high-mass ditau events in the ATLAS detector")
+
+
+### Ph.D. Thesis
+
+My graduate research as a student at the University of Pennsylvania,
+working with the ATLAS experiment at the Large Hadron Collider at CERN,
+was on the reconstruction and identification of hadronic tau decays,
+measuring the SM *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
+at *&radic;s* = 7 TeV,
+and searching for new physics in high-mass ditau events.
+You can download my thesis [here](pubs/2013-RReece-ZPrimeTautau-thesis.pdf)
+or find it at CDS as [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836).
 
 
 ATLAS Publications
