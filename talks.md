@@ -95,7 +95,7 @@ philosophy of quantum mechanics, statistics, and machine learning.
 1.  *[Field over particles](talks/2016-07-20-RReece-Fields-Over-Particles.pdf)*      
     *2016/07/20, Saig (Black Forest), Germany*        
     TODO.
-    [4th International Summer School in Philosophy of Physics, Saig (Black Forest)]()
+    4th International Summer School in Philosophy of Physics, Saig (Black Forest)
 
 1.  *[How models are tested at the LHC](talks/2015-07-21-RReece-Testing-Models-at-the-LHC.pdf)*       
     *2015/07/21, Saig (Black Forest), Germany*        
