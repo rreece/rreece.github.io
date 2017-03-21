@@ -5,12 +5,6 @@ Ryan's selected talks
 ![](img/ryan-in-nagoya-2012.jpg "Me in Nagoya, Japan for Tau2012.")
 
 
-2015-07-21-RReece-Testing-Models-at-the-LHC.pdf
-2016-07-20-RReece-Fields-Over-Particles.pdf
-2016-09-23-RReece-ATLAS-Tau-Searches-Tau2016-Beijing.pdf
-2016-11-29-RReece-ATLAS-Epistemology.pdf
-2017-03-16-RReece-Machine-learning-and-realism.pdf
-
 ATLAS talks
 -------------------------------------------------------------------------------
 
