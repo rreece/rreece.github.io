@@ -22,7 +22,7 @@ ATLAS experiment.
 
 1. *[Searching for new physics in high-mass ditau events at ATLAS](talks/2013-08-15-RReece-ZprimeTauTau-DPF-UCSC.pdf)*         
     *on behalf of the ATLAS Collaboration*         
-    *2013/08/15, UCSC, Santa Cruz, CA, USA*         
+    *2013/08/15, University of California, Santa Cruz, CA, USA*         
     A conference talk I gave at
     [APS Meeting: Divison of Particles and Fields (DPF) 2013](http://scipp.ucsc.edu/dpf2013/)
     reporting results from searching for new physics in high-mass ditau events
