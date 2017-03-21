@@ -20,7 +20,7 @@ was on the reconstruction and identification of hadronic tau decays,
 measuring the SM *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
 at *&radic;s* = 7 TeV,
 and searching for new physics in high-mass ditau events.
-You can download my thesis [here](pubs/2013-RReece-ZPrimeTautau-thesis.pdf)
+You can [download my thesis here](pubs/2013-RReece-ZPrimeTautau-thesis.pdf)
 or find it at CDS as [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836).
 
 
