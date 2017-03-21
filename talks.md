@@ -24,7 +24,7 @@ ATLAS experiment.
     collision data taken in the years 2015-2016.
 
 1.  *[Searching for new physics in high-mass ditau events at ATLAS](talks/2013-10-15-RReece-ZprimeTauTau-UCDavis.pdf)*      
-    *2013/10/15, University of California, Davis, CA, USA*
+    *2013/10/15, University of California, Davis, CA, USA*           
     A seminar I gave at UC Davis,
     reporting on seachers for new physics in high-mass ditau events with ATLAS
     with the 2011 and 2012 datasets.
@@ -112,6 +112,8 @@ philosophy of quantum mechanics, statistics, and machine learning.
 Other outreach talks
 -------------------------------------------------------------------------------
 
-1.  one
-1.  two
+1.  *[Cosmic rays, physics, and relativity](talks/2014-07-11-RReece-Cosmic-Rays-Physics-and-Relativity-QuarkNet.pdf)*       
+    *2014/07/11, University of California, Santa Cruz, CA, USA*        
+    TODO.
+
 
