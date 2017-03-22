@@ -95,7 +95,7 @@ philosophy of quantum mechanics, statistics, and machine learning.
     *2016/11/29, H&ouml;chstleistungsrechenzentrum Stuttgart (HLRS), Stuttgart, Germany*       
     TODO.
 
-1.  *[Field over particles](../docs/2016-07-20-RReece-Fields-Over-Particles.pdf)*      
+1.  *[Fields over particles](../docs/2016-07-20-RReece-Fields-Over-Particles.pdf)*      
     *2016/07/20, Saig (Black Forest), Germany*        
     TODO.
     4th International Summer School in Philosophy of Physics, Saig (Black Forest)
