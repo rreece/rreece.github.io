@@ -210,7 +210,7 @@ You won't have access to these unless you are a member of ATLAS.
 <div class="clickmore"><a id="link:atlas-internal-more" class="closed" onclick="toggle_more('atlas-internal-more')">Click to expand list of internal notes</a></div>
 <div id="atlas-internal-more" class="more">
 
-1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using $20.3\:{fb}^{-1}$ $pp$ collisions at *&radic;s* = 8 TeV to explore higgs-motivated general gauge mediated models.
+1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using $20.3\:\mathrm{fb}^{-1}$ $pp$ collisions at *&radic;s* = 8 TeV to explore higgs-motivated general gauge mediated models.
     [ATL-COM-PHYS-2015-1438](https://cds.cern.ch/record/2109710)
     Draft: June 24, 2016
     (Support note).
