@@ -92,7 +92,7 @@ See my INSPIRE-HEP profile for a more complete count of ATLAS publications:
 ATLAS Conference Notes / Proceedings / Other Public Documents 
 -------------------------------------------------------------------------------
 
-1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using $20.3\:{fb}^{-1}$ $pp$ collisions at *&radic;s* = 8 TeV to explore higgs-motivated general gauge mediated models.
+1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using $20.3\:\mathrm{fb}^{-1}$ $pp$ collisions at *&radic;s* = 8 TeV to explore higgs-motivated general gauge mediated models.
     [ATLAS-CONF-2016-033](https://cds.cern.ch/record/2198316),
     July 11, 2016.
 
