@@ -3,12 +3,12 @@ Here you will find lists of my selected publications.
 
 ### Curriculum Vitae
 
-First, note that you can get my CV here: [html](docs/Ryan_Reece_cv.html), [pdf](docs/Ryan_Reece_cv.pdf).
+First, note that you can get my CV here: [html](../docs/Ryan_Reece_cv.html), [pdf](../docs/Ryan_Reece_cv.pdf).
 
 
 ### A search for new physics in high-mass ditau events in the ATLAS detector
 
-<a href="pubs/2013-RReece-ZPrimeTautau-thesis.pdf"><img class="floatright" src="img/ryans-thesis-300.jpg" title="A search for new physics in high-mass ditau events in the ATLAS detector"/></a>
+<a href="docs/2013-RReece-ZPrimeTautau-thesis.pdf"><img class="floatright" src="img/ryans-thesis-300.jpg" title="A search for new physics in high-mass ditau events in the ATLAS detector"/></a>
 
 *Ph.D. thesis, July 2013*
 
@@ -18,14 +18,15 @@ was on the reconstruction and identification of hadronic tau decays,
 measuring the SM *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
 at *&radic;s* = 7 TeV,
 and searching for new physics in high-mass ditau events.
-You can [download my thesis here](pubs/2013-RReece-ZPrimeTautau-thesis.pdf)
+You can [download my thesis here](docs/2013-RReece-ZPrimeTautau-thesis.pdf)
 or find it at CDS as [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836).
 
 
 ATLAS Publications
 -------------------------------------------------------------------------------
 
-1.  Search for supersymmetry in a final state containing two photons and missing transverse momentum in $\sqrt{s}$=13 TeV $pp$ collisions at the LHC using the ATLAS detector.
+1.  Search for supersymmetry in a final state containing two photons and missing transverse momentum in $\sqrt{s}$=13 TeV
+    $pp$ collisions at the LHC using the ATLAS detector.
     Submitted to *European Physical Journal C*,
     [arxiv:1606.09150](http://arxiv.org/abs/1606.09150),
     June 29, 2016.
@@ -35,13 +36,15 @@ ATLAS Publications
     [arxiv:1507.05493](http://arxiv.org/abs/1507.05493),
     July 20, 2015.
 
-1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in $pp$ collisions at $\sqrt{s}$=8 TeV with the ATLAS detector.
-    *J. High Energy Phys. 07* (2015) 157, 
+1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$
+    in $pp$ collisions at $\sqrt{s}$=8 TeV with the ATLAS detector.
+    *J. High Energy Phys. 07* (2015) 157,
     [arxiv:1502.07177](http://arxiv.org/abs/1502.07177),
     February 25, 2015
     (*served as editor*).
 
-1.  Identification and energy calibration of hadronically decaying tau leptons with the ATLAS experiment in $pp$ collisions at $\sqrt{s}$ = 8 TeV.
+1.  Identification and energy calibration of hadronically decaying tau leptons with the ATLAS experiment
+    in $pp$ collisions at $\sqrt{s}$ = 8 TeV.
     *Eur. Phys. J. C75* (2015) 303,
     [arxiv:1412.7086](http://arxiv.org/abs/1412.7086),
     December 22, 2014.
@@ -52,7 +55,8 @@ ATLAS Publications
     October 24, 2012
     (*served as editor*).
 
-1.  Measurement of the $Z\rightarrow\tau\tau$ production cross section in proton-proton collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector.
+1.  Measurement of the $Z\rightarrow\tau\tau$ production cross section in proton-proton collisions
+    at $\sqrt{s}$ = 7 TeV with the ATLAS detector.
     *Phys. Rev. D 84*, 112006 (2011),
     [arxiv:1108.2016](http://arxiv.org/abs/1108.2016),
     August 9, 2011.
