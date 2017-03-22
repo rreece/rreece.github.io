@@ -92,7 +92,7 @@ philosophy of quantum mechanics, statistics, and machine learning.
 1.  *[Machine learning and realism](../docs/2017-03-16-RReece-Machine-learning-and-realism.pdf)*        
     *2017/03/16, Universit&auml;t Bremen, Bremen, Germany*        
     TODO.
-    [der Deutschen Physikalischen Gesellschaft (DPG), Bremen 2017](http://www.dpg-verhandlungen.de/year/2017/conference/bremen/part/agphil/session/5/contribution/3)
+    [Deutschen Physikalischen Gesellschaft (DPG), Bremen 2017](http://www.dpg-verhandlungen.de/year/2017/conference/bremen/part/agphil/session/5/contribution/3)
 
 1.  *[ATLAS, data reduction, and epistemology](../docs/2016-11-29-RReece-ATLAS-Epistemology.pdf)*        
     *2016/11/29, H&ouml;chstleistungsrechenzentrum Stuttgart (HLRS), Stuttgart, Germany*       
