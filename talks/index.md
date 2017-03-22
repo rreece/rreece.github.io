@@ -1,6 +1,3 @@
-Ryan's selected talks
-===============================================================================
-
 
 ![](img/ryan-in-nagoya-2012.jpg "Me in Nagoya, Japan for Tau2012.")
 
