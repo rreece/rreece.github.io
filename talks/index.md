@@ -81,7 +81,7 @@ Philosophy of science talks
 -------------------------------------------------------------------------------
 
 Here's my selected list of public talks I have given on
-philosophy of science, and in particular with focuses on
+philosophy of science, in particular with focuses on
 philosophy of quantum mechanics, statistics, and machine learning.
 
 
