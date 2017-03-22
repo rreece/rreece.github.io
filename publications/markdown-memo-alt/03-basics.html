@@ -1,0 +1,310 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="R. Reece and J. Coauthor" />
+  <meta name="date" content="Thu Mar 02, 2017" />
+  <title>Markdown basics - markdown-memo example document</title>
+  <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
+  <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt.css"/>
+  <link rel="icon" type="image/png" href="img/markdown-favicon-196x196.png" />
+
+<!--- Google Analytics Tracking stuff  -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-55199032-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!--- MathJax stuff -->
+<script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
+</script>
+
+<!--- toggle_more function  -->
+<script type="text/javascript">
+    //<![CDATA[
+    function toggle_more(objID) {
+        if (!document.getElementById) return;
+        var ob = document.getElementById(objID).style;
+        ob.display = (ob.display == 'block')?'none':'block';
+        var ob2 = document.getElementById('link:'+objID);
+        ob2.className = (ob2.className == 'open') ? 'closed' : 'open';
+    }
+    //]]>
+</script>
+
+</head>
+
+<body>
+
+<div id="site_header">
+    <a href="./">markdown-memo example document</a>
+</div>
+
+<!--
+<div id="beforebody">
+</div>
+-->
+
+<div class="nav">
+<ul>
+    <li> <a href="./">&#8634;&nbsp;Contents</a> </li>
+    <li> <a href="#site_footer">&#8615;&nbsp;Bottom</a> </li>
+    <li> <a href="./02-getting-started.html">&#8612;&nbsp;Previous</a> </li>
+    <li> <a href="./04-bibliographies.html">&#8614;&nbsp;Next</a> </li>
+</ul>
+</div>
+
+<div id="mainbody">
+<div id="pagecontainer">
+
+<h1 id="markdown-basics">Markdown basics</h1>
+<p>Here we review the basics of Markdown. A further reference on Markdown syntax by its creator is <a href="http://daringfireball.net/projects/markdown/syntax">here</a>.</p>
+<h3 id="contents" class="unnumbered">Contents</h3>
+<ol style="list-style-type: decimal">
+<li><a href="03-basics.html#sections">Sections</a></li>
+<li><a href="03-basics.html#sec:lists">Lists</a></li>
+<li><a href="03-basics.html#blocks">Blocks</a></li>
+<li><a href="03-basics.html#fonts">Fonts</a></li>
+<li><a href="03-basics.html#links">Links</a></li>
+<li><a href="03-basics.html#sec:footnotes">Footnotes</a></li>
+</ol>
+<h2 id="sections">Sections</h2>
+<p>Are markded like this:</p>
+<pre><code>Section title {#sec:put-section-label-here}
+===============================================================================
+
+Sub-section title
+-------------------------------------------------------------------------------</code></pre>
+<p>Or marked like this:</p>
+<pre><code># Section title {#sec:put-section-label-here}
+
+## Sub-section title
+
+### Sub-sub-section title
+
+Main text here.</code></pre>
+<p>Note the examples of labeling a section in braces with <code>#</code>, as shown above. This allows one to refer to labels in the text like:</p>
+<pre><code>The next section, [@sec:lists], is about lists.</code></pre>
+<p>The next section, Section&#160;1.2, is about lists.</p>
+<h2 id="sec:lists">Lists</h2>
+<p><strong>Unnumbered lists</strong> like this:</p>
+<pre><code>-   Galileo Galilei
+-   Robert G. Ingersoll
+-   Jill Tarter</code></pre>
+<ul>
+<li>Galileo Galilei</li>
+<li>Robert G. Ingersoll</li>
+<li>Jill Tarter</li>
+</ul>
+<p><strong>Numbered lists</strong> like this:</p>
+<pre><code>1.  Na&amp;iuml;ve realists
+1.  Scientific realists
+1.  Constructive empiricists
+1.  Positivists
+1.  Relativists</code></pre>
+<ol style="list-style-type: decimal">
+<li>Na&#239;ve realists</li>
+<li>Scientific realists</li>
+<li>Constructive empiricists</li>
+<li>Positivists</li>
+<li>Relativists</li>
+</ol>
+<h2 id="blocks">Blocks</h2>
+<p>The following is a <strong>quote block</strong>.</p>
+<pre><code>&gt;   It ain&#39;t what you don&#39;t know that gets you into trouble.
+&gt;   It&#39;s what you know for sure that just ain&#39;t so.  
+
+-- Mark Twain</code></pre>
+<blockquote>
+<p>It ain&#8217;t what you don&#8217;t know that gets you into trouble. It&#8217;s what you know for sure that just ain&#8217;t so.</p>
+</blockquote>
+<p>&#8211; Mark Twain</p>
+<p>A <strong>code block</strong> (used throughout these examples) is just indented with 4 spaces, like this:</p>
+<pre><code>    def bubble_sort(alist):
+        exchanges = True
+        passnum = len(alist)-1
+        while passnum &gt; 0 and exchanges:
+           exchanges = False
+           for i in range(passnum):
+               if alist[i]&gt;alist[i+1]:
+                   exchanges = True
+                   temp = alist[i]
+                   alist[i] = alist[i+1]
+                   alist[i+1] = temp
+           passnum = passnum-1
+
+    alist=[20,30,40,90,50,60,70,80,100,110]
+    bubble_sort(alist)
+    print(alist)</code></pre>
+<p>which makes:</p>
+<pre><code>def bubble_sort(alist):
+    exchanges = True
+    passnum = len(alist)-1
+    while passnum &gt; 0 and exchanges:
+       exchanges = False
+       for i in range(passnum):
+           if alist[i]&gt;alist[i+1]:
+               exchanges = True
+               temp = alist[i]
+               alist[i] = alist[i+1]
+               alist[i+1] = temp
+       passnum = passnum-1
+
+alist=[20,30,40,90,50,60,70,80,100,110]
+bubble_sort(alist)
+print(alist)</code></pre>
+<p>Maybe you want to refer to <strong>code inline</strong> like this with backticks:</p>
+<pre><code>Here&#39;s some inline code: `vec.push_back(3.14)`.</code></pre>
+<p>Here&#8217;s some inline code: <code>vec.push_back(3.14)</code>.</p>
+<p>For poems and the like where you want <strong>linebreaks taken literally</strong>, prepend lines with <code>|</code> and a single space. Additional spaces can be used, but will indent the output.</p>
+<pre><code>| Art is long,
+| Life is short,
+| Opportunity fleeting,
+| Experiment dangerous,
+| Judgment difficult.</code></pre>
+<div class="preline">Art is long,
+Life is short,
+Opportunity fleeting,
+Experiment dangerous,
+Judgment difficult.</div>
+<p>Otherwise, one can put two or more spaces at the end of a line of Markdown for the linebreak to be taken literally<br />
+like<br />
+this.</p>
+<p>A <strong>horizontal rule</strong> can be made by just writing some number of dashes:</p>
+<pre><code>----------------------------------------------------</code></pre>
+<hr />
+<p>Boom.</p>
+<h2 id="fonts">Fonts</h2>
+<pre><code>-   *This is emphasis.*
+-   **This is bold.**
+-   _This is also emphasis._
+-   __This is also bold.__
+-   _This is emphasis **and** bold._
+-   __This is bold *and* emphasis.__
+-   ~~This is struck-out.~~</code></pre>
+<p>produces:</p>
+<ul>
+<li><em>This is emphasis.</em></li>
+<li><strong>This is bold.</strong></li>
+<li><em>This is also emphasis.</em></li>
+<li><strong>This is also bold.</strong></li>
+<li><em>This is emphasis <strong>and</strong> bold.</em></li>
+<li><strong>This is bold <em>and</em> emphasis.</strong></li>
+<li><del>This is struck-out.</del></li>
+</ul>
+<p>Don&#8217;t do this. These will work in LaTeX () but may not in html.</p>
+<pre><code>-   \textsf{This should be Sans.}
+-   \textsc{This Should BE SMALL caps.}
+-   $\textsf{This works though!}$
+-   $\textsc{But this does not!}$</code></pre>
+<p>produces:</p>
+<ul>
+<li></li>
+<li></li>
+<li><span class="math inline">\(\textsf{This works though!}\)</span></li>
+<li><span class="math inline">\(\textsc{But this does not!}\)</span></li>
+</ul>
+<h2 id="links">Links</h2>
+<p>URLs are done like this:</p>
+<pre><code>[Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)</code></pre>
+<p><a href="https://en.wikipedia.org/wiki/Lorem_ipsum">Lorem ipsum</a></p>
+<p>When referring to labeled sections/figures/tables, you do not include the literal word &#8220;Section&#8221;, &#8220;Figure&#8221;, or &#8220;Table&#8221;, which will be included for you, <em>but for equations you do</em> (tell me otherwise?). These prefixes are configurable in the <code>meta.yaml</code> file.</p>
+<p>Refer to labeled things like this:</p>
+<ul>
+<li>for sections: <code>[@sec:footnotes]</code><br />
+Section&#160;1.6</li>
+<li>for figures: <code>[@fig:scientific_universe]</code><br />
+</li>
+<li>for tables: <code>[@tbl:atlas_channels]</code><br />
+</li>
+<li>for equations: <code>eq.\ $\eqref{eq:stokes}$</code></li>
+</ul>
+<h2 id="sec:footnotes">Footnotes</h2>
+<pre><code>Here&#39;s how you do a footnote[^SomeSpecialNote].
+
+[^SomeSpecialNote]: Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque.
+    Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip
+    accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax
+    an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed,
+    at falli feugiat est.</code></pre>
+<p>produces:</p>
+<p>Here&#8217;s how you do a footnote<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>.</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque. Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed, at falli feugiat est.<a href="#fnref1">&#8617;</a></p></li>
+</ol>
+</div>
+
+</div> <!-- end pagecontainer -->
+</div> <!-- end mainbody -->
+
+<div class="nav">
+<ul>
+    <li> <a href="./">&#8634;&nbsp;Contents</a> </li>
+    <li> <a href="#site_header">&#8613;&nbsp;Top</a> </li>
+    <li> <a href="./02-getting-started.html">&#8612;&nbsp;Previous</a> </li>
+    <li> <a href="./04-bibliographies.html">&#8614;&nbsp;Next</a> </li>
+</ul>
+</div>
+
+<!--
+<div id="afterbody">
+</div>
+-->
+
+<div id="site_footer">
+  <div class="signature">
+    <p><i>R. Reece and J. Coauthor</i></p>
+    <p><img class="email" src="img/my-email-alt.png" alt="my email address"/></p>
+    <p>Thu Mar 02, 2017</p>
+  </div>
+  <div class="license">
+    <p><span class="copy-left">&#169;</span> 2015-2017 <a href="http://reece.scipp.ucsc.edu/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
+    <p>Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.</p>
+  </div>
+  <div style="clear:both;"></div>
+</div>
+
+<!-- disqus stuff -->
+<div id="disqus_stuff">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'ryans-selected-software-projects';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript><p>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></p></noscript>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'ryans-selected-software-projects';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+</div> <!-- end disqus_stuff -->
+
+</body>
+</html>
+
