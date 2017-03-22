@@ -26,7 +26,7 @@ ATLAS Publications
 -------------------------------------------------------------------------------
 
 1.  Search for supersymmetry in a final state containing two photons and missing transverse momentum in
-    $\sqrt{s}$ = 13 TeV $pp$ collisions at the LHC using the ATLAS detector.
+    *&radic;s* = 13 TeV $pp$ collisions at the LHC using the ATLAS detector.
     Submitted to *European Physical Journal C*,
     [arxiv:1606.09150](http://arxiv.org/abs/1606.09150),
     June 29, 2016.
@@ -37,14 +37,14 @@ ATLAS Publications
     July 20, 2015.
 
 1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$
-    in $pp$ collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector.
+    in $pp$ collisions at *&radic;s* = 8 TeV with the ATLAS detector.
     *J. High Energy Phys. 07* (2015) 157,
     [arxiv:1502.07177](http://arxiv.org/abs/1502.07177),
     February 25, 2015
     (*served as editor*).
 
 1.  Identification and energy calibration of hadronically decaying tau leptons with the ATLAS experiment
-    in $pp$ collisions at $\sqrt{s}$ = 8 TeV.
+    in $pp$ collisions at *&radic;s* = 8 TeV.
     *Eur. Phys. J. C75* (2015) 303,
     [arxiv:1412.7086](http://arxiv.org/abs/1412.7086),
     December 22, 2014.
@@ -56,7 +56,7 @@ ATLAS Publications
     (*served as editor*).
 
 1.  Measurement of the $Z\rightarrow\tau\tau$ production cross section in proton-proton collisions
-    at $\sqrt{s}$ = 7 TeV with the ATLAS detector.
+    at *&radic;s* = 7 TeV with the ATLAS detector.
     *Phys. Rev. D 84*, 112006 (2011),
     [arxiv:1108.2016](http://arxiv.org/abs/1108.2016),
     August 9, 2011.
@@ -92,7 +92,7 @@ See my INSPIRE-HEP profile for a more complete count of ATLAS publications:
 ATLAS Conference Notes / Proceedings / Other Public Documents 
 -------------------------------------------------------------------------------
 
-1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using $20.3\:{fb}^{-1}$ $pp$ collisions at $\sqrt{s}$ = 8 TeV to explore higgs-motivated general gauge mediated models.
+1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using $20.3\:{fb}^{-1}$ $pp$ collisions at *&radic;s* = 8 TeV to explore higgs-motivated general gauge mediated models.
     [ATLAS-CONF-2016-033](https://cds.cern.ch/record/2198316),
     July 11, 2016.
 
@@ -104,7 +104,7 @@ ATLAS Conference Notes / Proceedings / Other Public Documents
     proceedings for my talk at Tau 2012: the 12th International
     Workshop on Tau Lepton Physics in Nagoya, Japan).
 
-1.  A search for high-mass ditau resonances decaying in the fully hadronic final state in $pp$ collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector.
+1.  A search for high-mass ditau resonances decaying in the fully hadronic final state in $pp$ collisions at *&radic;s* = 8 TeV with the ATLAS detector.
     [ATLAS-CONF-2013-066](https://cds.cern.ch/record/1562841),
     July 18, 2013.
 
@@ -120,7 +120,7 @@ ATLAS Conference Notes / Proceedings / Other Public Documents
     <!---
     A conference note for ICHEP 2012, documenting our search for hypothetical
     decays of new gauge bosons to $\tau^{+}\tau^{-}$ in the ATLAS detector using
-    $4.7\:\mathrm{fb}^{-1}$ of intergrated luminosity at $\sqrt{s}$ = 7 TeV.
+    $4.7\:\mathrm{fb}^{-1}$ of intergrated luminosity at *&radic;s* = 7 TeV.
     $Z'$ bosons in the benchmark Sequential Standard Model with masses less
     than 1.3 TeV are excluded at the 95\% CL.
     -->
@@ -210,22 +210,22 @@ You won't have access to these unless you are a member of ATLAS.
 <div class="clickmore"><a id="link:atlas-internal-more" class="closed" onclick="toggle_more('atlas-internal-more')">Click to expand list of internal notes</a></div>
 <div id="atlas-internal-more" class="more">
 
-1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using $20.3\:{fb}^{-1}$ $pp$ collisions at $\sqrt{s}$ = 8 TeV to explore higgs-motivated general gauge mediated models.
+1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using $20.3\:{fb}^{-1}$ $pp$ collisions at *&radic;s* = 8 TeV to explore higgs-motivated general gauge mediated models.
     [ATL-COM-PHYS-2015-1438](https://cds.cern.ch/record/2109710)
     Draft: June 24, 2016
     (Support note).
 
-1.  Search for a diphoton and $E_\mathrm{T}^\mathrm{miss}$ final state in $\sqrt{s}$ = 13 TeV $pp$ collisions at LHC using the ATLAS detector.
+1.  Search for a diphoton and $E_\mathrm{T}^\mathrm{miss}$ final state in *&radic;s* = 13 TeV $pp$ collisions at LHC using the ATLAS detector.
     [ATL-COM-PHYS-2015-1136](https://cds.cern.ch/record/2051527),
     Draft: May 17, 2016
     (Support note).
 
-1.  Search for a diphoton and $E_\mathrm{T}^\mathrm{miss}$ final state in $\sqrt{s}$ = 8 TeV $pp$ collisions at LHC using the ATLAS detector.
+1.  Search for a diphoton and $E_\mathrm{T}^\mathrm{miss}$ final state in *&radic;s* = 8 TeV $pp$ collisions at LHC using the ATLAS detector.
     [ATL-COM-PHYS-2014-442](https://cds.cern.ch/record/1700554),
     February 23, 2015
     (Support note for [arxiv:1507.05493](http://arxiv.org/abs/1507.05493)).
 
-1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in $pp$ collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector.
+1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in $pp$ collisions at *&radic;s* = 8 TeV with the ATLAS detector.
     [ATL-COM-PHYS-2014-276](https://cds.cern.ch/record/1694306),
     January 23, 2015
     (*served as editor*, Support note for [arxiv:1502.07177](http://arxiv.org/abs/1502.07177)).
@@ -234,7 +234,7 @@ You won't have access to these unless you are a member of ATLAS.
     [ATL-COM-PHYS-2014-451](https://cds.cern.ch/record/1700874),
     May 12, 2014.
 
-1.  A search for high-mass ditau resonances decaying in the fully hadronic final state in $pp$ collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector.
+1.  A search for high-mass ditau resonances decaying in the fully hadronic final state in $pp$ collisions at *&radic;s* = 8 TeV with the ATLAS detector.
     [ATL-COM-PHYS-2013-125](https://cds.cern.ch/record/1513211),
     Feb 4, 2013 (Support note for ATLAS-CONF-2013-066).
 
@@ -251,11 +251,11 @@ You won't have access to these unless you are a member of ATLAS.
     September 23, 2011
     (*only author*).
 
-1.  Measurement of $Z\rightarrow\tau\tau$ production cross section in proton-proton collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector -- Support Note for lep-had channels.
+1.  Measurement of $Z\rightarrow\tau\tau$ production cross section in proton-proton collisions at *&radic;s* = 7 TeV with the ATLAS detector -- Support Note for lep-had channels.
     [ATL-COM-PHYS-2011-416](https://cdsweb.cern.ch/record/1346327),
     April 21, 2011  (Support note for arxiv:1108.2016).
 
-1.  Measurement of $Z\rightarrow\tau\tau$ production cross section in proton-proton collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector - Combination of results.
+1.  Measurement of $Z\rightarrow\tau\tau$ production cross section in proton-proton collisions at *&radic;s* = 7 TeV with the ATLAS detector - Combination of results.
     [ATL-COM-PHYS-2011-419](https://cdsweb.cern.ch/record/1346341),
     April 21, 2011  (Support note for arxiv:1108.2016).
 
