@@ -67,7 +67,7 @@ ATLAS experiment.
     in Grenoble, France. TODO.
 
 1.  *[Likelihood functions for supersymmetric observables in frequentist analyses of the CMSSM and NUHM1](pdf/2009-09-29-RReece-Likelihood-functions-for-SUSY.pdf)*       
-    *2009/09/29, CERN*        
+    *2009/09/29, CERN, Meyrin, Switzerland*        
     Discussion of a paper by the same name that I lead as a graduate student
     for the Penn HEP Journal Club, mostly researchers in the ATLAS group.
     Most of the talk is a primer on the method of maximum likelihood and how one uses
