@@ -10,7 +10,7 @@ First, note that you can get my CV here: [html](docs/Ryan_Reece_cv.html), [pdf](
 
 ### A search for new physics in high-mass ditau events in the ATLAS detector
 
-<img class="floatright" src="img/ryans-thesis.jpg"  width="300"  title="A search for new physics in high-mass ditau events in the ATLAS detector"/>
+<a href="pubs/2013-RReece-ZPrimeTautau-thesis.pdf"><img class="floatright" src="img/ryans-thesis-300.jpg" title="A search for new physics in high-mass ditau events in the ATLAS detector"/></a>
 
 *Ph.D. thesis, July 2013*
 
