@@ -1,3 +1,6 @@
+Ryan's selected talks
+===============================================================================
+
 
 ![](img/ryan-in-nagoya-2012.jpg "Me in Nagoya, Japan for Tau2012.")
 
@@ -77,7 +80,7 @@ ATLAS experiment.
     confidence intervals.
 
 
-Philosophy of science ../docs
+Philosophy of science talks
 -------------------------------------------------------------------------------
 
 Here's my selected list of public talks I have given on
