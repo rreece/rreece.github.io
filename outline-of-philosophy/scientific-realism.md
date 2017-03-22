@@ -33,6 +33,10 @@ three following ideas:
 -   A loosely, if ill-defined, woo-woo word in which a mystic, guru, or metaphysician
     may claim to specialize.
 
+>   If controversies were to arise, there would be no more need of disputation
+>   between two philosophers than between two accountants. For it would suffice
+>   to take their pencils in their hands, and say to each other:
+>   *Calculemus*---Let us calculate.
 
 ### Realism and Anti-realism
 
