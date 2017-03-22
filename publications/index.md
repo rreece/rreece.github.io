@@ -1,5 +1,3 @@
-Ryan's selected publications
-===============================================================================
 
 Here you will find lists of my selected publications.
 
