@@ -36,7 +36,15 @@ ATLAS experiment.
 
 1. *[A search for new physics in high-mass ditau events in the ATLAS detector](pdf/2013-06-12-RReece-ditaus-at-ATLAS-thesis-defense.pdf)*         
     *2013/06/12, University of Pennsylvania, Philadelphia, PA, USA*         
-    My thesis defense. TODO.
+    This talk was my Ph.D. thesis defense.
+    My graduate research as a student at the University of Pennsylvania,
+    working with the ATLAS experiment at the Large Hadron Collider at CERN,
+    was on the reconstruction and identification of hadronic tau decays,
+    measuring the SM *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
+    at *&radic;s* = 7 TeV,
+    and searching for new physics in high-mass ditau events.
+    You can [download my thesis here](../docs/2013-RReece-ZPrimeTautau-thesis.pdf)
+    or find it at CDS as [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836).
 
 1.  *[Searching for new physics in high-mass ditau events at ATLAS](pdf/2012-12-13-RReece-ZprimeTauTau-Yale.pdf)*      
     *2012/12/13, Yale University, New Haven, CT, USA*, also *12/11*, *11/26*, and *11/20*    
@@ -63,8 +71,11 @@ ATLAS experiment.
 1.  *[Measurement of the W and Z boson cross sections in pp collisions at 7 TeV with the ATLAS detector](pdf/2011-07-22-RReece-ATLAS-W-Z-xsec-EPS.pdf)*          
     *on behalf of the ATLAS Collaboration*        
     *2011/07/22, Grenoble, France*           
-    A talk I gave at the [2011 International Europhysics Conference on High Energy Physics (EPS)](https://indico.in2p3.fr/event/5116/contribution/533)
-    in Grenoble, France. TODO.
+    A conference talk I gave at the
+    [2011 International Europhysics Conference on High Energy Physics (EPS)](https://indico.in2p3.fr/event/5116/contribution/533),
+    in Grenoble, France,
+    reviewing the $W$ and $Z$ boson cross section measurements,
+    in electron, muon, and tau decays (the first ATLAS measurements with taus).
 
 1.  *[Likelihood functions for supersymmetric observables in frequentist analyses of the CMSSM and NUHM1](pdf/2009-09-29-RReece-Likelihood-functions-for-SUSY.pdf)*       
     *2009/09/29, CERN, Meyrin, Switzerland*        
