@@ -25,8 +25,8 @@ or find it at CDS as [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836).
 ATLAS Publications
 -------------------------------------------------------------------------------
 
-1.  Search for supersymmetry in a final state containing two photons and missing transverse momentum in $\sqrt{s}$=13 TeV
-    $pp$ collisions at the LHC using the ATLAS detector.
+1.  Search for supersymmetry in a final state containing two photons and missing transverse momentum in
+    $\sqrt{s}$ = 13 TeV $pp$ collisions at the LHC using the ATLAS detector.
     Submitted to *European Physical Journal C*,
     [arxiv:1606.09150](http://arxiv.org/abs/1606.09150),
     June 29, 2016.
@@ -37,7 +37,7 @@ ATLAS Publications
     July 20, 2015.
 
 1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$
-    in $pp$ collisions at $\sqrt{s}$=8 TeV with the ATLAS detector.
+    in $pp$ collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector.
     *J. High Energy Phys. 07* (2015) 157,
     [arxiv:1502.07177](http://arxiv.org/abs/1502.07177),
     February 25, 2015
