@@ -1,4 +1,5 @@
-User-agent: *
-Disallow:
+User-Agent: *
+#Disallow: /notes/
+#Disallow: /share/
 
 SITEMAP: http://rreece.github.io/sitemap.txt
