@@ -15,10 +15,16 @@ ATLAS experiment.
     *on behalf of the ATLAS Collaboration*        
     *2016/09/23, IHEP, Beijing, China*         
     A conference talk I gave at
-    [Tau2016: International Workshop on Tau Lepton Physics](http://tau2016.ihep.ac.cn/) in Beijing, China,
-    reviewing ATLAS searches for heavy Higgs bosons and supersymmetry with tau leptons in the final states.
-    The analyses discussed use datasets corresponding to approximately 13-15/fb of 13 TeV proton-proton
-    collision data taken in the years 2015-2016.
+    [Tau2016: International Workshop on Tau Lepton Physics](http://tau2016.ihep.ac.cn/) in Beijing, China.
+    Weak scale supersymmetry, which is one of the best motivated and studied Standard
+    Model extensions, predicts that every SM particle has a partner with different spin.
+    Both supersymmetry and other extensions of the Standard Model predicts the
+    existence of several Higgs bosons. This talk summarizes the searches for
+    supersymmetric particles and for additional heavy Higgs bosons performed
+    with the ATLAS experiments at the LHC, with emphasis on those targeting final
+    states with tau leptons.
+    The analyses discussed use datasets corresponding to approximately 13-15/fb of
+    13 TeV proton-proton collision data taken in the years 2015-2016.
 
 1.  *[Searching for new physics in high-mass ditau events at ATLAS](pdf/2013-10-15-RReece-ZprimeTauTau-UCDavis.pdf)*      
     *2013/10/15, University of California, Davis, CA, USA*           
@@ -108,13 +114,41 @@ philosophy of quantum mechanics, statistics, and machine learning.
 
 1.  *[Fields over particles](pdf/2016-07-20-RReece-Fields-Over-Particles.pdf)*      
     *2016/07/20, Saig (Black Forest), Germany*        
-    TODO.
-    4th International Summer School in Philosophy of Physics
+    This is a talk I have at the
+    4th International Summer School in Philosophy of Physics, in Saig, Germany.
+    Despite being the most empirically successful scientific theory ever developed,
+    quantum mechanics has yet to yield a consensus interpretation of its foundations.
+    Much of the controversy in interpreting quantum mechanics concerns the issue of
+    which ingredients of the theory are more fundamental and which are derivative.
+    Before reconciling debates among possible interpretations of quantum mechanics,
+    it would be helpful to clarify what are the ontological commitments of the
+    theory---what is quantum mechanics about?
+    Nonrelativistic quantum mechanics (NRQM), as it was first developed in the 1920s,
+    is often taken to fundamentally describe the dynamics of particles,
+    probabilistically related to a wave function, which provides seemingly non-particle,
+    non-local, wave-like, interference phenomena observable in quantum systems, referred
+    to as "wave-particle duality".
+    Since the development and maturing of Quantum Field Theory (QFT) in the following
+    decades, many attitudes about the fundamentality of particles have shifted to
+    view them as derivative, emergent excitations in a quantum field. In this talk,
+    I review arguments for taking the field picture as more fundamental than the
+    particle picture.
 
 1.  *[How models are tested at the LHC](pdf/2015-07-21-RReece-Testing-Models-at-the-LHC.pdf)*       
     *2015/07/21, Saig (Black Forest), Germany*        
-    TODO.
-    [3rd International Summer School in Philosophy of Physics](https://sites.google.com/site/isspp2015/)
+    This is a talk I have at the
+    [3rd International Summer School in Philosophy of Physics](https://sites.google.com/site/isspp2015/), in Saig, Germany.
+    The recent discovery at the LHC of a new particle so far consistent with the
+    Higgs boson has brought a warranted confirmation of the Higgs mechanism for
+    electroweak symmetry breaking, but there are still many mysteries about why
+    the Standard Model is the way it is. I give an introduction to the ATLAS
+    experiment and a high-level overview of how the collaboration reconstructs
+    and identifies final-state particles, uses detailed simulations to assist in
+    modeling, and processes the data in a world-wide computing grid. Physicists
+    have often lead in developing statistical theory and methods. I try to
+    facilitate an appreciation for hypothesis tests and statistical confidence
+    intervals, and how they are used to justify scientific claims like searches
+    for new physics at the LHC.
 
 
 Other outreach talks
