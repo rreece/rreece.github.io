@@ -304,3 +304,12 @@ You won't have access to these unless you are a member of ATLAS.
 </div> <!-- end clickmore -->
 
 
+Some pedagogical notes
+-------------------------------------------------------------------------------
+
+1.  [Derivation of the Cram&eacute;r-Rao bound](pdf/2009.Reece.Derivation-of-the-Cramer-Rao-Bound.pdf)
+1.  [Derivation of the quantum mechanical momentum operator in the position representation](pdf/2006.Reece.Derivation-of-the-QM-momentum-operator.pdf)
+1.  [Statistical mechanics notes](pdf/2006.Reece.Statistical-Mechanics-Notes.pdf)
+1.  [Quantum field theory: an introduction](pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf)
+
+
