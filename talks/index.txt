@@ -137,7 +137,8 @@ philosophy of quantum mechanics, statistics, and machine learning.
 1.  *[How models are tested at the LHC](pdf/2015-07-21-RReece-Testing-Models-at-the-LHC.pdf)*       
     *2015/07/21, Saig (Black Forest), Germany*        
     This is a talk I have at the
-    [3rd International Summer School in Philosophy of Physics](https://sites.google.com/site/isspp2015/), in Saig, Germany.
+    [3rd International Summer School in Philosophy of Physics](https://sites.google.com/site/isspp2015/)
+    in Saig, Germany.
     The recent discovery at the LHC of a new particle so far consistent with the
     Higgs boson has brought a warranted confirmation of the Higgs mechanism for
     electroweak symmetry breaking, but there are still many mysteries about why
