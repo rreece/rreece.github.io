@@ -148,8 +148,8 @@ Morality
 -   Is it evident in nature that cooperation and empathy are good strategies
     to dealing with others?  Is it rational to consider yourself one of many and to work to
     mitigate risk and suffering?  Is that not why we build communities, forts, and insurance?
--   Why does your scripture endorse slavery, genocide, the subjugation women, homophobia,
-    and the killing of your own children?
+-   Why does your scripture endorse slavery, genocide, the subjugation of women,
+    homophobia, and the killing of your own children?
 -   Could you yourself not write a more moral guide than the scriptures right now,
     starting with condemning the above?
     How about encouraging open-mindedness, critical thinking, and a respect for evidence?
