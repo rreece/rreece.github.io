@@ -40,7 +40,7 @@ ATLAS experiment.
     reporting results from searching for new physics in high-mass ditau events
     in the ATLAS experiment with the 20/fb of proton-proton collision data collected in 2012.
 
-1. *[A search for new physics in high-mass ditau events in the ATLAS detector](pdf/2013-06-12-RReece-ditaus-at-ATLAS-thesis-defense.pdf)*         
+1. *[A search for new physics in high-mass ditau events in the ATLAS detector](pdf/2013-06-12-RReece-Ditaus-at-ATLAS-thesis-defense.pdf)*         
     *2013/06/12, University of Pennsylvania, Philadelphia, PA, USA*         
     This talk was my Ph.D. thesis defense.
     My graduate research as a student at the University of Pennsylvania,
