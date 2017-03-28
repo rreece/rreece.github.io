@@ -211,6 +211,7 @@ Google gives -- Logical positivism: a form of positivism, developed by members o
 -   Conventionalism
 -   Social constructivism
 -   Epistemological anarchism
+-   [How French "intellectuals" ruined the West: postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/)
 
 
 ### Constructive Empiricism
