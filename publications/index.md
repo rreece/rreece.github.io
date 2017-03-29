@@ -92,11 +92,12 @@ See my INSPIRE-HEP profile for a more complete count of ATLAS publications:
 ATLAS Conference Notes / Proceedings / Other Public Documents 
 -------------------------------------------------------------------------------
 
-1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using $20.3\:\mathrm{fb}^{-1}$ of $pp$ collisions at *&radic;s* = 8 TeV to explore higgs-motivated general gauge mediated models.
+1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using 20.3\ fb${}^{-1}$ of $pp$ collisions at *&radic;s* = 8 TeV to explore higgs-motivated general gauge mediated models.
     [ATLAS-CONF-2016-033](https://cds.cern.ch/record/2198316),
     July 11, 2016.
 
 1.  Searches for charged Higgs bosons, supersymmetry, and exotica with tau leptons with the ATLAS and CMS detectors at the LHC.
+    [\[Download here\]](pdf/2014.Reece.Searches-for-charged-Higgs-bosons-supersymmetry-and-exotica-with-tau-leptons.pdf),
     [Nuclear Physics B (Proceedings Supplements) (2014) 171-175](http://authors.elsevier.com/a/1Q7i-_Kxc8LXrj),
     [ATL-PHYS-PROC-2012-302](https://cds.cern.ch/record/1499581),
     December 1, 2014
@@ -120,7 +121,7 @@ ATLAS Conference Notes / Proceedings / Other Public Documents
     <!---
     A conference note for ICHEP 2012, documenting our search for hypothetical
     decays of new gauge bosons to $\tau^{+}\tau^{-}$ in the ATLAS detector using
-    $4.7\:\mathrm{fb}^{-1}$ of intergrated luminosity at *&radic;s* = 7 TeV.
+    4.7\ fb${}^{-1}$ of intergrated luminosity at *&radic;s* = 7 TeV.
     $Z'$ bosons in the benchmark Sequential Standard Model with masses less
     than 1.3 TeV are excluded at the 95\% CL.
     -->
@@ -210,7 +211,7 @@ You won't have access to these unless you are a member of ATLAS.
 <div class="clickmore"><a id="link:atlas-internal-more" class="closed" onclick="toggle_more('atlas-internal-more')">Click to expand list of internal notes</a></div>
 <div id="atlas-internal-more" class="more">
 
-1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using $20.3\:\mathrm{fb}^{-1}$ of $pp$ collisions at *&radic;s* = 8 TeV to explore higgs-motivated general gauge mediated models.
+1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using 20.3\ fb${}^{-1}$ of $pp$ collisions at *&radic;s* = 8 TeV to explore higgs-motivated general gauge mediated models.
     [ATL-COM-PHYS-2015-1438](https://cds.cern.ch/record/2109710)
     Draft: June 24, 2016
     (Support note).
