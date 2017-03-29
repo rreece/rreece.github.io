@@ -105,12 +105,26 @@ philosophy of quantum mechanics, statistics, and machine learning.
 
 1.  *[Machine learning and realism](pdf/2017-03-16-RReece-Machine-learning-and-realism.pdf)*        
     *2017/03/16, Universit&auml;t Bremen, Bremen, Germany*        
-    TODO.
-    [Deutschen Physikalischen Gesellschaft (DPG), Bremen 2017](http://www.dpg-verhandlungen.de/year/2017/conference/bremen/part/agphil/session/5/contribution/3)
+    This is a talk I have at the
+    [Deutschen Physikalischen Gesellschaft (DPG), Bremen 2017](http://www.dpg-verhandlungen.de/year/2017/conference/bremen/part/agphil/session/5/contribution/3) meeting,
+    where I argue that philosophers should be interested in developments in machine learning
+    because they offer provocative ways of framing classic philosophical questions
+    concerning the problem of induction, realism, and natural kinds, among others.
+    Drawing on examples of uses of machine learning in particle physics,
+    we introduce and discuss the following questions:
+    How does the theory of statistical hypothesis testing address the problem of induction?
+    How can machine learning be used in statistical inference?
+    How is clustering related to natural kinds?
+    Can the scientific method be automated?
+    And if so, what does that imply about the objectivity of science?
 
 1.  *[ATLAS, data reduction, and epistemology](pdf/2016-11-29-RReece-ATLAS-Epistemology.pdf)*        
     *2016/11/29, H&ouml;chstleistungsrechenzentrum Stuttgart (HLRS), Stuttgart, Germany*       
-    TODO.
+    This is a talk I was invited to give at a workshop on the philosophy
+    of big data at HLRS, a high-performance computing laboratory in Stuttgart.
+    I review broadly the data reduction issues for the ATLAS experiment,
+    and how the theory statistical confidence intervals is central
+    to the epistemology of science.
 
 1.  *[Fields over particles](pdf/2016-07-20-RReece-Fields-Over-Particles.pdf)*      
     *2016/07/20, Saig (Black Forest), Germany*        
@@ -136,7 +150,7 @@ philosophy of quantum mechanics, statistics, and machine learning.
 
 1.  *[How models are tested at the LHC](pdf/2015-07-21-RReece-Testing-Models-at-the-LHC.pdf)*       
     *2015/07/21, Saig (Black Forest), Germany*        
-    This is a talk I have at the
+    This is a talk I gave at the
     [3rd International Summer School in Philosophy of Physics](https://sites.google.com/site/isspp2015/)
     in Saig, Germany.
     The recent discovery at the LHC of a new particle so far consistent with the
@@ -157,6 +171,11 @@ Other outreach talks
 
 1.  *[Cosmic rays, physics, and relativity](pdf/2014-07-11-RReece-Cosmic-Rays-Physics-and-Relativity-QuarkNet.pdf)*       
     *2014/07/11, University of California, Santa Cruz, CA, USA*        
-    TODO.
+    A talk I gave for the [Quark Net](https://quarknet.i2u2.org/),
+    a scientific outreach program that brings the inspiration and science in particle
+    physics to high school students and others.
+    I review how cosmic ray muons, that the students had been building detectors to count,
+    are important in the history of particle physics
+    and are connected to deep questions about relativity and astrophysics.
 
 
