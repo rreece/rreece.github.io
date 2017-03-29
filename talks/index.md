@@ -171,7 +171,7 @@ Other outreach talks
 
 1.  *[Cosmic rays, physics, and relativity](pdf/2014-07-11-RReece-Cosmic-Rays-Physics-and-Relativity-QuarkNet.pdf)*       
     *2014/07/11, University of California, Santa Cruz, CA, USA*        
-    A talk I gave for the [Quark Net](https://quarknet.i2u2.org/),
+    A talk I gave at an event for [Quark Net](https://quarknet.i2u2.org/),
     a scientific outreach program that brings the inspiration and science in particle
     physics to high school students and others.
     I review how cosmic ray muons, that the students had been building detectors to count,
