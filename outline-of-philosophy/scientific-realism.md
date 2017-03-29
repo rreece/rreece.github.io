@@ -127,6 +127,7 @@ All statements that can't be empirically verified are meaningless.
 -   Quine's "Two Dogmas"[^Quine-1951]
 -   Carnap's "Logical Foundations of Science"[^Carnap-1955]
 -   Scheinproblem = Pseudo-problem
+-   Hans Reichenbach (1891-1953)
 
 Note any differences between:
 
@@ -183,11 +184,14 @@ Google gives -- Logical positivism: a form of positivism, developed by members o
 -    A metatheoretical stance that critiques and amends positivism. While positivists believe that the researcher and the researched person are independent of each other, postpositivists accept that theories, background, knowledge and values of the researcher can influence what is observed. They believe that human knowledge is based not on unchallengeable, rock-solid foundations, but rather upon human conjectures.
 -   Popper
 -   *falsifiability* over *verifiability*
+-   Willard Van Orman Quine (1908-2000)
+-   Duhem-Quine thesis
 
 
 ### Pragmatism
 
 -   anti-realist
+-   later Wittgenstein
 -   Charles Sanders Peirce (1839-1914)
 -   William James (1842-1910)
 -   John Dewey (1859-1952)
@@ -204,6 +208,7 @@ Google gives -- Logical positivism: a form of positivism, developed by members o
 ### Relativism
 
 -   anti-realist
+-   Incommensurability
 -   Conventionalism
 -   Social constructivism
     -   Thomas Kuhn (1922-1996)
