@@ -123,7 +123,7 @@ philosophy of quantum mechanics, statistics, and machine learning.
     This is a talk I was invited to give at a workshop on the philosophy
     of big data at HLRS, a high-performance computing laboratory in Stuttgart.
     I review broadly the data reduction issues for the ATLAS experiment,
-    and how the theory statistical confidence intervals is central
+    and how the theory of statistical confidence intervals is central
     to the epistemology of science.
 
 1.  *[Fields over particles](pdf/2016-07-20-RReece-Fields-Over-Particles.pdf)*      
