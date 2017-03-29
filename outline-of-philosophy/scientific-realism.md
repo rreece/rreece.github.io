@@ -204,14 +204,19 @@ Google gives -- Logical positivism: a form of positivism, developed by members o
 ### Relativism
 
 -   anti-realist
--   Thomas Kuhn (1922-1996)
--   Imre Lakatos (1922-1974)
--   Paul Feyerabend (1924-1994)
--   Larry  Laudan (b. 1941)
 -   Conventionalism
 -   Social constructivism
+    -   Thomas Kuhn (1922-1996)
+    -   Imre Lakatos (1922-1974)
+    -   Paul Feyerabend (1924-1994)
+    -   Larry  Laudan (b. 1941)
+-   Postmodernism
+    -   Jean-Fran&ccedil;ois Lyotard (1924-1998)
+    -   Gilles Deleuze (1925-1995)
+    -   Michel Foucault (1926-1984)
+    -   Jacques Derrida (1930-2004)
+    -   [How French "intellectuals" ruined the West: postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/)
 -   Epistemological anarchism
--   [How French "intellectuals" ruined the West: postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/)
 
 
 ### Constructive Empiricism
