@@ -6,11 +6,12 @@ Here you will find lists of my selected publications.
 First, note that you can get my CV here: [html](../docs/Ryan_Reece_cv.html), [pdf](../docs/Ryan_Reece_cv.pdf).
 
 
-### A search for new physics in high-mass ditau events in the ATLAS detector
+### Ph.D. thesis
 
 <a href="../docs/CERN-THESIS-2013-075.pdf"><img class="floatright" src="img/ryans-thesis-300.jpg" title="A search for new physics in high-mass ditau events in the ATLAS detector"/></a>
 
-*Ph.D. thesis, July 2013*
+*A search for new physics in high-mass ditau events in the ATLAS detector*       
+July 2013
 
 My graduate research as a student at the University of Pennsylvania,
 working with the ATLAS experiment at the Large Hadron Collider at CERN,
