@@ -105,7 +105,7 @@ philosophy of quantum mechanics, statistics, and machine learning.
 
 1.  *[Machine learning and realism](pdf/2017-03-16-RReece-Machine-learning-and-realism.pdf)*        
     *2017/03/16, Universit&auml;t Bremen, Bremen, Germany*        
-    This is a talk I have at the
+    This is a talk I gave at the
     [Deutschen Physikalischen Gesellschaft (DPG), Bremen 2017](http://www.dpg-verhandlungen.de/year/2017/conference/bremen/part/agphil/session/5/contribution/3) meeting,
     where I argue that philosophers should be interested in developments in machine learning
     because they offer provocative ways of framing classic philosophical questions
@@ -128,7 +128,7 @@ philosophy of quantum mechanics, statistics, and machine learning.
 
 1.  *[Fields over particles](pdf/2016-07-20-RReece-Fields-Over-Particles.pdf)*      
     *2016/07/20, Saig (Black Forest), Germany*        
-    This is a talk I have at the
+    This is a talk I gave at the
     4th International Summer School in Philosophy of Physics, in Saig, Germany.
     Despite being the most empirically successful scientific theory ever developed,
     quantum mechanics has yet to yield a consensus interpretation of its foundations.
