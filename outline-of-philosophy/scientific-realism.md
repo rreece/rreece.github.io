@@ -1,4 +1,4 @@
- Scientific Realism
+ Scientific realism
 ================================================================================
 
 Can we claim to know anything about reality?
@@ -14,7 +14,7 @@ discusses the epistemological foundations and limitations of science.
 <!-- PAGETOC -->
 
 
-Issues and Positions
+Issues and positions
 --------------------------------------------------------------------------------
 
 ### Metaphysics
@@ -38,7 +38,7 @@ three following ideas:
 >   to take their pencils in their hands, and say to each other:
 >   *Calculemus*---Let us calculate.
 
-### Realism and Anti-realism
+### Realism and anti-realism
 
 ![Scientific realism vs anti-realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism)).](img/phil-of-science-v02.png "My figure on scientific realism vs anti-realism"){#fig:phil-of-science}
 
@@ -65,7 +65,7 @@ three following ideas:
 >   another. [@Lewis_1986_Philosophical_Papers_II, p. ix]
 
 
-### Scientific Realism
+### Scientific realism
 
 Some attempts at definitions:
 
@@ -227,7 +227,7 @@ Google gives -- Logical positivism: a form of positivism, developed by members o
 -   Epistemological anarchism
 
 
-### Constructive Empiricism
+### Constructive empiricism
 
 Science aims to give us theories that are empirically adequate,
 but does not justify metaphysical claims about reality.
@@ -240,7 +240,7 @@ but does not justify metaphysical claims about reality.
 ![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories)).](img/true-vs-literal-theories.png){#fig:true-vs-literal-theories}
 
 
-### Structural Realism
+### Structural realism
 
 Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
@@ -258,7 +258,7 @@ Science has identified real patterns, relationships, and structures
 -   contrast with Bueno's structural empiricism
 
 
-### Critical Realism
+### Critical realism
 
 Critical realists believe that there are unobservable events which cause the
 observable ones; as such, the social world can be understood only if people
@@ -271,12 +271,12 @@ understand the structures that generate such unobservable events.
 -   The normative importance of climate science.
 
 
-### Active Realism
+### Active realism
 
 -   Hasok Change
 
 
-My Thoughts
+My thoughts
 --------------------------------------------------------------------------------
 
 Here, I plan to summarize my thoughts after finishing the analysis of
@@ -345,7 +345,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 </div>
 
 
-Annotated Bibliography
+Annotated bibliography
 --------------------------------------------------------------------------------
 
 ### Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
@@ -688,7 +688,7 @@ Annotated Bibliography
 -   Tegmark, M. (2014). Our Mathematical Universe: My Quest for the Ultimate Nature of Reality.
 
 
-Links and Encyclopedia Articles
+Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
 ### SEP

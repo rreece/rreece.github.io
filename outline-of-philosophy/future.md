@@ -12,7 +12,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 <!-- PAGETOC -->
 
 
-Issues and Positions
+Issues and positions
 --------------------------------------------------------------------------------
 
 ### Risk
@@ -20,17 +20,17 @@ Issues and Positions
 TODO.
 
 
-### Technological Growth
+### Technological growth
 
 TODO.
 
 
-### Artificial Intelligence
+### Artificial intelligence
 
 TODO.
 
 
-My Thoughts
+My thoughts
 --------------------------------------------------------------------------------
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -41,7 +41,7 @@ eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-Annotated Bibliography
+Annotated bibliography
 --------------------------------------------------------------------------------
 
 ### Bostrom, N. (2002). Anthropic Bias: Observation selection effects in science and philosophy.
@@ -82,7 +82,7 @@ Annotated Bibliography
 -   TODO.
 
 
-Links and Encyclopedia Articles
+Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
 ### SEP

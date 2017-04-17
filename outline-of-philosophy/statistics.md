@@ -1,4 +1,4 @@
-Philosophy of Statistics
+Philosophy of statistics
 ================================================================================
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -12,14 +12,14 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 <!-- PAGETOC -->
 
 
-Issues and Positions
+Issues and positions
 --------------------------------------------------------------------------------
 
 ### Problem of induction
 
 -   Hume
 
-### Statistical Measurement
+### Statistical measurement
 
 -   Frequentist vs Bayesian probability
 -   Accuracy vs precision
@@ -45,7 +45,7 @@ Issues and Positions
 -   TODO
 
 
-My Thoughts
+My thoughts
 --------------------------------------------------------------------------------
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -56,7 +56,7 @@ eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-Annotated Bibliography
+Annotated bibliography
 --------------------------------------------------------------------------------
 
 ### Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*.
@@ -133,7 +133,7 @@ TODO.
 -   Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.
 
 
-Links and Encyclopedia Articles
+Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
 ### SEP

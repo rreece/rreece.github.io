@@ -8,7 +8,7 @@ to engaging philosophy.
 <!-- PAGETOC -->
 
 
-Issues and Considerations
+Issues and considerations
 --------------------------------------------------------------------------------
 
 <img src="img/branches-of-philosophy-v02.png " alt="Ryan's figure on the main branches of philosophy" title="Ryan's figure on the main branches of philosophy" width="700"/>

@@ -1,4 +1,4 @@
-The Scientific Method
+The scientific method
 ================================================================================
 
 This outline discusses the definition of the scientific method,
@@ -12,10 +12,10 @@ are discussed in the outline on [scientific realism](scientific-realism.html).
 <!-- PAGETOC -->
 
 
-Issues and Positions
+Issues and positions
 --------------------------------------------------------------------------------
 
-### History of Science
+### History of science
 
 ![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig:timeline-of-major-philosophers-since-1200}
 
@@ -61,7 +61,7 @@ Issues and Positions
     -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
 
 
-### Rationalism vs Empiricism
+### Rationalism vs empiricism
 
 TODO.
 
@@ -134,7 +134,7 @@ TODO:
 -   Scientism
 
 
-### Statistical Measurement
+### Statistical measurement
 
 TODO.
 
@@ -145,7 +145,7 @@ TODO.
 -   See the outline on [statistics](statistics.html).
 
 
-### Scientific Knowledge and Realism
+### Scientific knowledge and realism
 
 TODO.
 
@@ -172,7 +172,7 @@ The Stopped Clock:
 -- from Russell's "Human Knowledge: Its Scope & Limits"
 
 
-### Naturalism, Monism, and Reductionism
+### Naturalism, monism, and reductionism
 
 TODO.
 
@@ -193,7 +193,7 @@ TODO.
 
 
 
-My Thoughts
+My thoughts
 --------------------------------------------------------------------------------
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -204,7 +204,7 @@ eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-Annotated Bibliography
+Annotated bibliography
 --------------------------------------------------------------------------------
 
 ### Hume, D. (1748). *An Enquiry Concerning Human Understanding*.
@@ -329,7 +329,7 @@ TODO:
 -   TODO.
 
 
-Links and Encyclopedia Articles
+Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
 ### SEP

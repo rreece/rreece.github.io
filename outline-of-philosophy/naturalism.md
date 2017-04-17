@@ -12,7 +12,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 <!-- PAGETOC -->
 
 
-Issues and Positions
+Issues and positions
 --------------------------------------------------------------------------------
 
 ### What is naturalism?
@@ -94,7 +94,7 @@ but naturalism is a more general distinction,
 being a more much longer thread throughout the history of philosophy and science.
 
 
-### Natural Kinds
+### Natural kinds
 
 TODO.
 
@@ -118,14 +118,14 @@ TODO.
 -   See the outline on [mind](mind.html).
 
 
-### Rejection of the Supernatural
+### Rejection of the supernatural
 
 TODO.
 
 Part of methodological naturalism.
 
 
-### Ethical Naturalism
+### Ethical naturalism
 
 TODO.
 
@@ -134,14 +134,14 @@ Part of metaphysical naturalism.
 See the outline on [ethics](ethics.html).
 
 
-### Criticisms of Naturalism
+### Criticisms of naturalism
 
 -   TODO.
 -   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2) - IEP
 -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/) - SEP
 
 
-My Thoughts
+My thoughts
 --------------------------------------------------------------------------------
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -152,7 +152,7 @@ eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-Annotated Bibliography
+Annotated bibliography
 --------------------------------------------------------------------------------
 
 ### Quine, W.V.O. (1969). Epistemology Naturalized.
@@ -220,7 +220,7 @@ Annotated Bibliography
 -   TODO.
 
 
-Links and Encyclopedia Articles
+Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
 ### SEP

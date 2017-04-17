@@ -1,4 +1,4 @@
-Philosophy of Mind
+Philosophy of mind
 ================================================================================
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -12,7 +12,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 <!-- PAGETOC -->
 
 
-Issues and Positions
+Issues and positions
 --------------------------------------------------------------------------------
 
 ### Dualism
@@ -45,7 +45,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   [Free will is dead, let's bury it.](http://backreaction.blogspot.ch/2016/01/free-will-is-dead-lets-bury-it.html) - Sabine Hossenfelder
 
 
-My Thoughts
+My thoughts
 --------------------------------------------------------------------------------
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -56,7 +56,7 @@ eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-Annotated Bibliography
+Annotated bibliography
 --------------------------------------------------------------------------------
 
 
@@ -109,7 +109,7 @@ TODO.
 -   TODO.
 
 
-Links and Encyclopedia Articles
+Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
 ### SEP

@@ -1,4 +1,4 @@
-Philosophy of Physics
+Philosophy of physics
 ================================================================================
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -12,10 +12,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 <!-- PAGETOC -->
 
 
-Issues and Positions
+Issues and positions
 --------------------------------------------------------------------------------
 
-### Classical Physics
+### Classical physics
 
 TODO.
 
@@ -34,7 +34,7 @@ TODO.
     -   [Hamilton, William Rowan (1805-1865)](http://en.wikipedia.org/wiki/William_Rowan_Hamilton)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
 
-### Statistical Physics
+### Statistical physics
 
 TODO.
 
@@ -55,7 +55,7 @@ Thermodynamics. Statistical mechanics. Renormalization.
 [^Lisi-2017]: @Lisi_2017_Emergence\.
 
 
-### Quantum Mechanics
+### Quantum mechanics
 
 -   Hilbert spaces.  Wigner's theorem.  The Born rule.
 -   Wave-particle duality misconceptions.  Fields are more fundamental than particles.
@@ -118,14 +118,14 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
 
 
-### The Standard Model of Particle Physics
+### The standard model of particle physics
 
 TODO.
 
 -   Nima Arkani-Hamed doing particle physics *a priori*: ["Why is there a Macroscopic Universe?"](https://www.youtube.com/watch?v=F2Fxt_yCrcc)
 
 
-### Beyond the Standard Model
+### Beyond the standard model
 
 -   Supersymmetry.
 -   Running of the couplings.
@@ -143,7 +143,7 @@ Big bang.  $\Lambda$+CMD Cosmological Standard Model.  Inflation.
 -   "A direct empirical proof of the existence of dark matter" [astro-ph/0608407](http://arxiv.org/abs/astro-ph/0608407)
 
 
-### Bracketing Human Experience
+### Bracketing human experience
 
 -   [Sean Carroll's acceptance speech](https://www.youtube.com/watch?v=40eiycH077A#t=402)
     for the FFRF's the emperor has no clothes award.
@@ -163,7 +163,7 @@ TODO.
 -   [Richard Dawkins and Steven Weinberg Discuss Science and Religion](https://www.youtube.com/watch?v=EGL8SesIo6Y)
 
 
-My Thoughts
+My thoughts
 --------------------------------------------------------------------------------
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -177,7 +177,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   Sean Carroll QM: what there is, is more than we can see.
 
 
-Annotated Bibliography
+Annotated bibliography
 --------------------------------------------------------------------------------
 
 ### Einstein, A., B. Podolsky, & N. Rosen (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?
@@ -243,7 +243,7 @@ TODO.
 -   [Hensen, B. et al. (2015). "Experimental loophole-free violation of a Bell inequality using entangled electron spins separated by 1.3 km."](http://arxiv.org/abs/1508.05949)
 
 
-Links and Encyclopedia Articles
+Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
 ### SEP

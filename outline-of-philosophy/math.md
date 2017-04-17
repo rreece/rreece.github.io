@@ -1,4 +1,4 @@
-Philosophy of Mathematics
+Philosophy of mathematics
 ================================================================================
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
@@ -12,7 +12,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 <!-- PAGETOC -->
 
 
-Issues and Positions
+Issues and positions
 --------------------------------------------------------------------------------
 
 ### Platonism
@@ -107,7 +107,7 @@ See the outline on [Naturalism](naturalism.html).
 [^Baez-2016]: @Baez_2016_Struggles_with_the_Continuum\.
 
 
-My Thoughts
+My thoughts
 --------------------------------------------------------------------------------
 
 -   What would happen if you asked an Alien to solve a Rubik's cube?
@@ -132,7 +132,7 @@ I'm still trying to piece together who has threaded this argument together the b
 I realize I've left things question begging as to what makes a natural kind, but at least theres a direction to march now, and I don't think clarifying that definition is insurmountable. Probably many philosophers have already done it for me.
 
 
-Annotated Bibliography
+Annotated bibliography
 --------------------------------------------------------------------------------
 
 ### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
@@ -172,7 +172,7 @@ Annotated Bibliography
 -   TODO.
 
 
-Links and Encyclopedia Articles
+Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
 ### SEP
