@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Wed Apr 05, 2017" />
+  <meta name="date" content="Fri Jun 16, 2017" />
   <title>Mathematical expressions - markdown-memo example document</title>
   <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
@@ -76,16 +76,19 @@
 <p>You can do latex inline like this:</p>
 <pre><code>Euler&#39;s formula is remarkable: $e^{i\pi} + 1 = 0$.</code></pre>
 <p>Euler&#8217;s formula is remarkable: <span class="math inline">\(e^{i\pi} + 1 = 0\)</span>.</p>
-<p>Just use the latex equation environment directly. Stokes&#8217; theorem is pretty cool:</p>
+<p>You can use <code>$$</code> to make an equation block like this:</p>
+<pre><code>$$ \frac{\partial \rho}{\partial t} + \nabla \cdot \vec{j} = 0 \,. \label{eq:continuity} $$</code></pre>
+<p><span class="math display">\[ \frac{\partial \rho}{\partial t} + \nabla \cdot \vec{j} = 0 \,. \label{eq:continuity} \]</span></p>
+<p>The latex equation environment can be used directly. Stokes&#8217; theorem is pretty cool:</p>
 <pre><code>\begin{equation} \label{eq:stokes}
     \int_{\partial\Omega} \omega = \int_{\Omega} \mathrm{d}\omega \,.
 \end{equation}</code></pre>
 <span class="math display">\[\begin{equation} \label{eq:stokes}
     \int_{\partial\Omega} \omega = \int_{\Omega} \mathrm{d}\omega \,.
 \end{equation}\]</span>
-<p>You can also refer to labeled equations, such as eq.&#160;<strong>??</strong>, with the syntax:</p>
+<p>You can also refer to labeled equations, such as eq.&#160;<span class="math inline">\(\eqref{eq:stokes}\)</span>, with the syntax:</p>
 <pre><code>... such as [@eq:stokes],</code></pre>
-<p>The <code>align</code> environment can also be used. Maxwell&#8217;s equations, eq.&#160;<strong>??</strong>, are also tough to beat:</p>
+<p>The <code>align</code> environment can also be used. Maxwell&#8217;s equations, eq.&#160;<span class="math inline">\(\eqref{eq:maxwell}\)</span>, are also tough to beat:</p>
 <pre><code>\begin{align}
     \nabla \cdot  \vec{E} &amp;= \rho \nonumber \\
     \nabla \cdot  \vec{B} &amp;= 0    \nonumber \\
@@ -127,7 +130,7 @@
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email.png" alt="my email address"/></p>
-    <p>Wed Apr 05, 2017</p>
+    <p>Fri Jun 16, 2017</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2017 <a href="http://reece.scipp.ucsc.edu/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
