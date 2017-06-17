@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Fri Jun 16, 2017" />
+  <meta name="date" content="Sat Jun 17, 2017" />
   <title>Markdown basics - markdown-memo example document</title>
   <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
@@ -70,14 +70,14 @@
 <p>Here we review the basics of Markdown. A further reference on Markdown syntax by its creator is <a href="http://daringfireball.net/projects/markdown/syntax">here</a>.</p>
 <h3 id="contents" class="unnumbered">Contents</h3>
 <ol style="list-style-type: decimal">
-<li><a href="03-basics.html#sections">Sections</a></li>
+<li><a href="03-basics.html#sec:sections">Sections</a></li>
 <li><a href="03-basics.html#sec:lists">Lists</a></li>
-<li><a href="03-basics.html#blocks">Blocks</a></li>
-<li><a href="03-basics.html#fonts">Fonts</a></li>
-<li><a href="03-basics.html#links-and-labels">Links and labels</a></li>
+<li><a href="03-basics.html#sec:blocks">Blocks</a></li>
+<li><a href="03-basics.html#sec:fonts">Fonts</a></li>
+<li><a href="03-basics.html#sec:links-and-labels">Links and labels</a></li>
 <li><a href="03-basics.html#sec:footnotes">Footnotes</a></li>
 </ol>
-<h2 id="sections">Sections</h2>
+<h2 id="sec:sections">Sections</h2>
 <p>Are markded like this:</p>
 <pre><code>Section title {#sec:put-section-label-here}
 ===============================================================================
@@ -118,7 +118,7 @@ Main text here.</code></pre>
 <li>Positivists</li>
 <li>Relativists</li>
 </ol>
-<h2 id="blocks">Blocks</h2>
+<h2 id="sec:blocks">Blocks</h2>
 <p>The following is a <strong>quote block</strong>.</p>
 <pre><code>&gt;   It ain&#39;t what you don&#39;t know that gets you into trouble.
 &gt;   It&#39;s what you know for sure that just ain&#39;t so.  
@@ -183,7 +183,7 @@ this.</p>
 <pre><code>----------------------------------------------------</code></pre>
 <hr />
 <p>Boom.</p>
-<h2 id="fonts">Fonts</h2>
+<h2 id="sec:fonts">Fonts</h2>
 <pre><code>-   *This is emphasis.*
 -   **This is bold.**
 -   _This is also emphasis._
@@ -213,7 +213,7 @@ this.</p>
 <li><span class="math inline">\(\textsf{This works though!}\)</span></li>
 <li><span class="math inline">\(\textsc{But this does not!}\)</span></li>
 </ul>
-<h2 id="links-and-labels">Links and labels</h2>
+<h2 id="sec:links-and-labels">Links and labels</h2>
 <p>URLs are done like this:</p>
 <pre><code>[Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)</code></pre>
 <p><a href="https://en.wikipedia.org/wiki/Lorem_ipsum">Lorem ipsum</a></p>
@@ -224,8 +224,12 @@ this.</p>
 Section&#160;1.6</li>
 <li>for figures: <code>[@fig:scientific_universe]</code></li>
 <li>for tables: <code>[@tbl:atlas_channels]</code></li>
-<li>for equations: <code>eq.\ $\eqref{eq:stokes}$</code></li>
+<li>for equations: <code>[@eq:stokes]</code></li>
 </ul>
+<p>You can refer to multiple lables like Section&#160;1.1-1.3 like this:</p>
+<pre><code>[@sec:sections;@sec:lists;@sec:blocks]</code></pre>
+<p>Automatic grouping into a range doesn&#8217;t seem to be working, so you can also refer to Sections 1.1&#8211;1.3 like this:</p>
+<pre><code>[Sections @sec:sections]--[-@sec:blocks]</code></pre>
 <h2 id="sec:footnotes">Footnotes</h2>
 <pre><code>Here&#39;s how you do a footnote[^SomeSpecialNote].
 
@@ -264,7 +268,7 @@ Section&#160;1.6</li>
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email.png" alt="my email address"/></p>
-    <p>Fri Jun 16, 2017</p>
+    <p>Sat Jun 17, 2017</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2017 <a href="http://reece.scipp.ucsc.edu/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
