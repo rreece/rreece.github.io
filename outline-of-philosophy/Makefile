@@ -43,7 +43,8 @@ PDF_FILES := $(MD_FILES:%.md=%.pdf)
 BIB_TXT_FILES := $(wildcard bibs/*.txt)
 #MD_FILES_WITH_REFS := 
 MD_FILES_ORDERED = $(shell cat order.txt | tr '\n' ' ')
-
+MDP_FILES := $(MD_FILES:%.md=%.mdp)
+MDP_FILES_ORDERED := $(MD_FILES_ORDERED:%.md=%.mdp)
 
 ## MD_FILES   =  chap1.md   chap2.md   ...
 ## HTML_FILES =  chap1.html chap2.html ...
@@ -68,6 +69,12 @@ pdf: $(OUTPUT).pdf wordcount
 
 wordcount: wordcount/words.png
 
+## transform md to mdp (apply hacks with transform_md.py)
+%.mdp: %.md
+	@python scripts/transform_md.py $<
+	$(PRINT) "make $@ done."
+
+## if it exists, copy index.txt to index.md, otherwise make index.md
 index.md: $(MD_FILES)
 	@if [ -f index.txt ]; \
 	then \
@@ -77,7 +84,8 @@ index.md: $(MD_FILES)
 	fi
 	$(PRINT) "make $@ done."
 
-index.html: index.md meta.yaml
+## create index.html
+index.html: index.mdp meta.yaml
 	@pandoc \
 		-t html \
 		--ascii \
@@ -88,7 +96,8 @@ index.html: index.md meta.yaml
 		-o $@ $< meta.yaml
 	$(PRINT) "make $@ done."
 
-$(OUTPUT).html: order.txt $(MD_FILES) $(HTML_DEPS) meta.yaml
+## create the output html in one combined file
+$(OUTPUT).html: order.txt $(MDP_FILES) $(HTML_DEPS) meta.yaml
 	@pandoc \
 		-t html \
 		--ascii \
@@ -101,12 +110,12 @@ $(OUTPUT).html: order.txt $(MD_FILES) $(HTML_DEPS) meta.yaml
 		--bibliography=bibs/mybib.bib \
 		--filter pandoc-crossref \
 		--filter pandoc-citeproc \
-		-o $@ $(MD_FILES_ORDERED) $(OPS_FULLHTML) meta.yaml
+		-o $@ $(MDP_FILES_ORDERED) $(OPS_FULLHTML) meta.yaml
 	@python scripts/transform_html.py $@
 	$(PRINT) "make $@ done."
 
 ## create html
-%.html: %.md order.txt $(HTML_DEPS) meta.yaml
+%.html: %.mdp order.txt $(HTML_DEPS) meta.yaml
 	@pandoc \
 		-t html \
 		--ascii \
@@ -150,42 +159,14 @@ $(OUTPUT).html: order.txt $(MD_FILES) $(HTML_DEPS) meta.yaml
 	@python scripts/transform_html.py $@
 	$(PRINT) "make $@ done."
 
-## create the full pdf 
-#$(OUTPUT).pdf: $(MD_FILES) $(PDF_DEPS) meta.yaml
-#	@pandoc \
-#		--standalone \
-#		--smart \
-#		--variable=date-meta:"$(DATE)" \
-#		--template=templates/default_template.tex \
-#		--filter pandoc-crossref \
-#		--filter pandoc-eqnos \
-#		--bibliography=bibs/mybib.bib \
-#		--filter pandoc-citeproc \
-#		-o $(OUTPUT).pdf $(MD_FILES) $(OPS_FULLPDF) meta.yaml
-#	$(PRINT) "make $@ done."
-
-## create the full pdf via pandoc to tex then pdflatex
-$(OUTPUT).pdf: $(OUTPUT).tex
+## create the pdf from tex
+%.pdf: %.tex
 	@pdflatex -interaction=nonstopmode $< &> latex.log
 	@pdflatex -interaction=nonstopmode $< &> latex.log
 	$(PRINT) "make $@ done."
 
-## create the pdf for a section
-#%.pdf: %.md $(PDF_DEPS) meta.yaml
-#	@pandoc \
-#		--standalone \
-#		--smart \
-#		--variable=date-meta:"$(DATE)" \
-#		--template=templates/default_template.tex \
-#		--filter pandoc-crossref \
-#		--filter pandoc-eqnos \
-#		--bibliography=bibs/mybib.bib \
-#		--filter pandoc-citeproc \
-#		-o $@ $< $(OPS_SECTION) meta.yaml
-#	$(PRINT) "make $@ done."
-
 ## create tex with references replaced and bibliography created
-$(OUTPUT).tex: order.txt $(MD_FILES) $(PDF_DEPS) meta.yaml
+$(OUTPUT).tex: order.txt $(MDP_FILES) $(PDF_DEPS) meta.yaml
 	@if [ "$(DOREFS)" = "true" ] ; \
 	then \
 		pandoc \
@@ -197,7 +178,7 @@ $(OUTPUT).tex: order.txt $(MD_FILES) $(PDF_DEPS) meta.yaml
 			--filter pandoc-crossref \
 			--bibliography=bibs/mybib.bib \
 			--filter pandoc-citeproc \
-			-o $@ $(MD_FILES_ORDERED) $(OPS_FULLPDF) meta.yaml ; \
+			-o $@ $(MDP_FILES_ORDERED) $(OPS_FULLPDF) meta.yaml ; \
 	else \
 		pandoc \
 			-t latex \
@@ -206,26 +187,39 @@ $(OUTPUT).tex: order.txt $(MD_FILES) $(PDF_DEPS) meta.yaml
 			--smart \
 			--template=templates/default_template.tex \
 			--filter pandoc-crossref \
-			-o $@ $(MD_FILES_ORDERED) $(OPS_FULLPDF) meta.yaml ; \
+			-o $@ $(MDP_FILES_ORDERED) $(OPS_FULLPDF) meta.yaml ; \
 	fi
 	@python scripts/transform_tex.py $@
 	$(PRINT) "make $@ done."
 
 ## create the tex for a section
-#%.tex: %.md $(PDF_DEPS) meta.yaml
-#	@pandoc \
-#		-t latex \
-#		--ascii \
-#		--standalone \
-#		--smart \
-#		--template=templates/default_template.tex \
-#		--filter pandoc-crossref \
-#		--bibliography=bibs/mybib.bib \
-#		--filter pandoc-citeproc \
-#		-o $@ $< $(OPS_SECTION) meta.yaml
-#	@python scripts/transform_tex.py $@
-#	$(PRINT) "make $@ done."
+%.tex: %.md $(PDF_DEPS) meta.yaml
+	@if [ "$(DOREFS)" = "true" ] ; \
+	then \
+		pandoc \
+			-t latex \
+			--ascii \
+			--standalone \
+			--smart \
+			--template=templates/default_template.tex \
+			--filter pandoc-crossref \
+			--bibliography=bibs/mybib.bib \
+			--filter pandoc-citeproc \
+			-o $@ $< $(OPS_SECTION) meta.yaml ; \
+	else \
+		pandoc \
+			-t latex \
+			--ascii \
+			--standalone \
+			--smart \
+			--template=templates/default_template.tex \
+			--filter pandoc-crossref \
+			-o $@ $< $(OPS_SECTION) meta.yaml ; \
+	fi
+	@python scripts/transform_tex.py $@
+	$(PRINT) "make $@ done."
 
+## create bibs/mybib.bib from bibs/*.txt
 bibs/mybib.bib: $(BIB_TXT_FILES)
 	@if [[ -z "$(BIB_TXT_FILES)" ]] ; \
 	then \
@@ -236,14 +230,17 @@ bibs/mybib.bib: $(BIB_TXT_FILES)
 	fi
 	$(PRINT) "make $@ done."
 
+## create bib_index from bibs/mybib.bib
 bib_index.md: bibs/mybib.bib
 	@python scripts/make_bib_index_md.py --out=$@ $<
 	$(PRINT) "make $@ done."
 
+## create default order of md files
 order.txt:
 	@ls -1 $(MD_FILES) > $@
 	$(PRINT) "make $@ done."
 
+## update wordcount/wc.csv
 wordcount/wc.csv: $(MD_FILES) $(OUTPUT).pdf
 	@if [ ! -d wordcount ]; \
 	then \
@@ -256,6 +253,7 @@ wordcount/wc.csv: $(MD_FILES) $(OUTPUT).pdf
 	@printf "%16s, %8i, %5i\n" `date +"%Y-%m-%d-%Hh%M"` `cat $(MD_FILES) | wc | awk '{split($$0,a," "); print a[2]}'` `pdfinfo $(OUTPUT).pdf | grep Pages | tr -d "Pages: "` >> $@
 	$(PRINT) "make $@ done."
 
+## create wordcount figures
 wordcount/words.png: wordcount/wc.csv
 	@echo ''
 	@cd wordcount/ ; python ../scripts/wordcount.py wc.csv ; cd ..
@@ -263,57 +261,21 @@ wordcount/words.png: wordcount/wc.csv
 
 
 ##-----------------------------------------------------------------------------
-## create md with references replaced and bibliography created
-#$(OUTPUT).mds: $(MD_FILES) $(HTML_DEPS) meta.yaml
-#	@pandoc \
-#		-t markdown_github \
-#		--standalone \
-#		--smart \
-#		--bibliography=bibs/mybib.bib \
-#		--filter pandoc-citeproc \
-#		-o $@.tmp $(MD_FILES) $(OPS_FULLHTML) meta.yaml
-#	@cat $@.tmp | sed -E 's/\[([0-9][0-9]?[0-9]?)\]/\[\^\1\]/g' | sed -E 's/^\[\^([0-9][0-9]?[0-9]?)\]\ /\[\^\1\]:\ /' > $@
-#	@rm -f $@.tmp
-#	$(PRINT) "make $@ done."
-#
-#%.mds: %.md $(HTML_DEPS) meta.yaml
-#	@pandoc \
-#		-t markdown_github \
-#		--standalone \
-#		--smart \
-#		--bibliography=bibs/mybib.bib \
-#		--filter pandoc-citeproc \
-#		-o $@.tmp $< $(OPS_SECTION) meta.yaml
-#	@cat $@.tmp | sed -E 's/\[([0-9][0-9]?[0-9]?)\]/\[\^\1\]/g' | sed -E 's/^\[\^([0-9][0-9]?[0-9]?)\]\ /\[\^\1\]:\ /' > $@
-#	@rm -f $@.tmp
-#	$(PRINT) "make $@ done."
-#
-### create html from mds
-#%.htmls: %.mds
-#	@pandoc \
-#		-t html \
-#		--ascii \
-#		--standalone \
-#		--smart \
-#		--variable=date-meta:"$(DATE)" \
-#		--template=./templates/outline_template.html \
-#		-o $@ $< meta.yaml
-#	$(PRINT) "make $@ done."
-
-
-##-----------------------------------------------------------------------------
 # JUNK = *.aux *.log *.bbl *.blg *.brf *.cb *.ind *.idx *.ilg *.inx *.dvi *.toc *.out *~ ~* spellTmp *.lot *.lof *.ps *.d
-JUNK = *.mds *.htmls *.tex *.aux *.dvi *.fdb_latexmk *.fls *.log *.out *.toc *.tmp *-tmp.html index.md bib_index.md
+JUNK = *.mdp *.htmls *.tex *.aux *.dvi *.fdb_latexmk *.fls *.log *.out *.toc *.tmp *-tmp.html index.md bib_index.md
 OUTS = *.html *.pdf bibs/*.bib
 
+## clean up (do this)
 clean:
 	@rm -f $(JUNK)
 	$(PRINT) "make $@ done."
 
+## clean up everything including the output
 realclean: clean
 	@rm -f $(OUTS)
 	$(PRINT) "make $@ done."
 
+## make realclean and make default again
 over: realclean default
 
 
@@ -356,3 +318,4 @@ newdoc: destroy destroygit destroywc
 	@echo "" >> 01-introduction.md 
 	@echo "" >> 01-introduction.md 
 	$(PRINT) "make $@ done."
+

@@ -93,11 +93,13 @@ def main():
             reo = None
             newline = line
 
+            ## force figure float style to be [tp]
             if not reo:
                 reo = re.match(rep_begin_figure, line)
                 if reo:
                     newline = '\\begin{figure}[tp]\n'
                     
+            ## fix begin table?
             if not reo:
                 reo = re.match(rep_begin_table, line)
                 if reo:
@@ -105,6 +107,7 @@ def main():
                     # newline = line.replace('longtable', 'supertabular')
                     pass
 
+            ## fix end table?
             if not reo:
                 reo = re.match(rep_end_table, line)
                 if reo:
@@ -112,6 +115,7 @@ def main():
                     # newline = line.replace('longtable', 'supertabular')
                     pass
 
+            ## force includegraphics width and height
             if not reo:
                 reo = re.match(rep_includegraphics, line)
                 if reo:
