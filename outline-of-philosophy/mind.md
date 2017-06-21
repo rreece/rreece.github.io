@@ -29,6 +29,11 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   Kripke
 
 
+### Some details
+
+-   Phenomenal vs access consciousness
+
+
 ### Physicalism
 
 -   Materialism
