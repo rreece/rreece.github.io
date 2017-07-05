@@ -190,4 +190,8 @@ Links and encyclopedia articles
 -   [Chalmers' Guide to the Philosophy of Mind](http://consc.net/guide.html)
 -   [The empty brain: Your brain does not process information, retrieve knowledge or store memories](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) - Robert Epstein
 
+## Videos
+
+-   [Dennett, Daniel. (2017). From Bacteria to Bach and Back: The Evolution of Minds](https://www.youtube.com/watch?v=IZefk4gzQt4)
+
 

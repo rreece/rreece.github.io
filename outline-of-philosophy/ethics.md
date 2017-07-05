@@ -136,6 +136,14 @@ This sounds legit to me so far:
 There's no unified or received view of the fact/value, descriptive/normative divide since Hume. But that doesn't mean there aren't naturalistic philosophers that deny the dichotomy, i.e., would support the idea roughly that there is a scientific way of discussing and determining what is better. Health and nutrition seem like obvious plausible examples, really any reasoned strategy is normative: it tells one what one should do given what is known. In this sense many naturalists are aligned with game theoretic reasoning about what we should do.
 
 
+### Moral naturalism
+
+-   Binmore
+-   evolution
+-   game theory
+-   @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes
+
+
 ----------------------
 
 Michael Shermer and Massimo Pigliucci debate the role of science deriving morality:
@@ -305,4 +313,7 @@ Links and encyclopedia articles
 -   [Floridi, Luciano. (2016). Ethics in the Age of Information.](https://www.youtube.com/watch?v=lLH70qkROWQ)
     -   [Floridi settles the trolley problem in the way I view it: "Inaction is action"](https://www.youtube.com/v/lLH70qkROWQ&start=4216&end=4266)
 -   [Arkani-Hamed, Nima. (2016). The Morality of Fundamental Physics.](https://www.youtube.com/watch?v=OzATDiLFH8Q)
+
+<!-- REFERENCES -->
+
 
