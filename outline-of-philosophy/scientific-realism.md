@@ -36,7 +36,11 @@ three following ideas:
 >   If controversies were to arise, there would be no more need of disputation
 >   between two philosophers than between two accountants. For it would suffice
 >   to take their pencils in their hands, and say to each other:
->   *Calculemus*---Let us calculate.
+>   *Calculemus*---Let us calculate. [@Leibniz_1951_The_Art_of_Discovery]
+
+>   Our arguments have to be about the world we experience,
+>   not about a world made of paper. [@Rovelli_2003_A_dialog_on_quantum_gravity]
+
 
 ### Realism and anti-realism
 

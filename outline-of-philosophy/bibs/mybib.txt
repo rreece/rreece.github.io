@@ -20,6 +20,8 @@ Klein, P. (2015). Skepticism. *Stanford Encyclopedia of Philosophy*. http://plat
 Kuhn, T. (1962). *The Structure of Scientific Revolutions*. Chicago: University of Chicago Press.
 Ladyman, J. (2014). Structural realism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/structural-realism/
 Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalised*. Oxford: Oxford University Press.
+Leibniz, G. (1951). The Art of Discovery. In P. Wiener (Ed.), *Leibniz: Selections*. Scribner. 51. [(Originally written in 1685)]
+    1666 (publ. 1690). De Arte Combinatoria (On the Art of Combination); partially translated in Loemker §1 and Parkinson (1966)
 Levin, J. (2013). Functionalism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/functionalism/
 Lewis, D. (1986). *Philosophical Papers II*. Oxford: Oxford University Press.
 Maddy, P. (2007). *Second Philosophy*. Oxford: Oxford University Press.
@@ -46,6 +48,7 @@ Quine, W.V.O. (1951). Two Dogmas of Empiricism. *The Philosophical Review*, 60, 
 Quine, W.V.O. (1969). Natural kinds. In *Ontological Relativity and Other Essays*. New York: Columbia University Press.
 Quine, W.V.O. (1981). *Theories and Things*. Harvard University Press.
 Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. Oxford: Oxford University Press.
+Rovelli, C. (2003). A dialog on quantum gravity. https://arxiv.org/abs/hep-th/0310077
 Sartwell, C. (2015). Philosophy returns to the real world. *New York Times*. http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/
 Sellars, W. (1963). Philosophy and the scientific image of man. In *Science, Perception, and Reality*. Atascadero, CA: Ridgeview Publishing Co.
 Sider, T. (2011). *Writing the Book of the World*. Oxford: Oxford University Press.
