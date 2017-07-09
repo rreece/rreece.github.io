@@ -36,10 +36,25 @@ three following ideas:
 >   If controversies were to arise, there would be no more need of disputation
 >   between two philosophers than between two accountants. For it would suffice
 >   to take their pencils in their hands, and say to each other:
->   *Calculemus*---Let us calculate. [@Leibniz_1951_The_Art_of_Discovery]
+>   *Calculemus*---Let us calculate. [@Leibniz_1951_The_Art_of_Discovery, 51]
 
 >   Our arguments have to be about the world we experience,
->   not about a world made of paper. [@Rovelli_2003_A_dialog_on_quantum_gravity]
+>   not about a world made of paper. [@Rovelli_2003_A_dialog_on_quantum_gravity, 5]
+
+>   There is a difference, however, between working crossword puzzles and the pursuit of
+>   higher mathematics. In the case of mathematics, you don't triumph over the capricious
+>   machinations of another human being (the designer of the puzzle) but, rather,
+>   over the absolute fabric of logical relations. The body of knowledge you have developed
+>   has the enviable characteristic of being demonstrably and absolutely true,
+>   given the set of assumptions (axioms) underlying your contemplations, irrespective
+>   of the foibles of your own human limitations, indeed, irrespective of the existence
+>   of humanity itself. And, as an added bonus, if it should so happen that the set of
+>   axioms on which your intellectual fortress is built is somehow relevant to the
+>   physical world, then you can even walk away with a deeper understanding of your
+>   natural surroundings.
+>   The wonder of group theory is that its relevance to the disciplines of both
+>   mathematics and natural science far exceeds the self-contained boundaries
+>   within which it was first developed. [@Schumm_2004_Deep_Down_Things, 144]
 
 
 ### Realism and anti-realism

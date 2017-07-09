@@ -365,6 +365,7 @@ Links and encyclopedia articles
 -   [Reeh-Schlieder theorem](https://en.wikipedia.org/wiki/Reeh%E2%80%93Schlieder_theorem)
 -   [Regularization](https://en.wikipedia.org/wiki/Regularization_(physics))
 -   [Renormalization group](https://en.wikipedia.org/wiki/Renormalization_group)
+-   [Relational quantum mechanics](https://en.wikipedia.org/wiki/Relational_quantum_mechanics)
 -   [Relativity](http://en.wikipedia.org/wiki/Theory_of_relativity)
 -   [Relativity, General](http://en.wikipedia.org/wiki/General_relativity)
 -   [Relativity, Introduction to General](http://en.wikipedia.org/wiki/Introduction_to_general_relativity)
