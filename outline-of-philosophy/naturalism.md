@@ -142,9 +142,13 @@ See the outline on [ethics](ethics.html).
 
 ### Criticisms of naturalism
 
--   TODO.
+-   "The Science Wars"
+-   Post-modernism, Social construction
+-   How French "intellectuals" ruined the west: Postmodernism and its impact, explained.[^Pluckrose]
 -   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2) - IEP
 -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/) - SEP
+
+[^Pluckrose]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
 
 
 My thoughts
