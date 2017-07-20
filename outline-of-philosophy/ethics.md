@@ -221,6 +221,7 @@ Links and encyclopedia articles
 -   [Moral Anti-Realism](http://plato.stanford.edu/entries/moral-anti-realism/)
 -   [Moral Cognitivism vs. Non-Cognitivism](http://plato.stanford.edu/entries/moral-cognitivism/)
 -   [Moral Dilemmas](http://plato.stanford.edu/entries/moral-dilemmas/)
+-   [Morality and Evolutionary Biology](https://plato.stanford.edu/entries/morality-biology/)
 -   [Moral Motivation](http://plato.stanford.edu/entries/moral-motivation/)
 -   [Moral Naturalism](http://plato.stanford.edu/entries/naturalism-moral/)
 -   [Moral Non-Naturalism](http://plato.stanford.edu/entries/moral-non-naturalism/)
