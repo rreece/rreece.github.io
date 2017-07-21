@@ -49,7 +49,7 @@ ATLAS experiment.
     measuring the SM *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
     at *&radic;s* = 7 TeV,
     and searching for new physics in high-mass ditau events.
-    You can [download my thesis here](../docs/2013-RReece-ZPrimeTautau-thesis.pdf)
+    You can [download my thesis here](../docs/CERN-THESIS-2013-075.pdf)
     or find it at CDS as [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836).
 
 1.  *[Searching for new physics in high-mass ditau events at ATLAS](pdf/2012-12-13-RReece-ZprimeTauTau-Yale.pdf)*      
