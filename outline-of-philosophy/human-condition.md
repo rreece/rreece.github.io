@@ -18,6 +18,9 @@ Issues and positions
 
 ### Stoicism
 
+-   We don't control what happens, we control how we respond.
+-   In any situation we face, we have an opportunity to practice virtue.
+
 TODO.
 
 

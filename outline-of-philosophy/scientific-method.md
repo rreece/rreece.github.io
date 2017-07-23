@@ -30,6 +30,7 @@ Issues and positions
     -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
     -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   The Middle Ages
+    -   [Ibn Sina (980-1037)](https://en.wikipedia.org/wiki/Avicenna) AKA "Avicenna"
     -   [Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen) AKA "Alhazen"
     -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
     -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
@@ -352,6 +353,7 @@ Links and encyclopedia articles
 -   [Gassendi, Pierre (1592-1655)](http://plato.stanford.edu/entries/gassendi/)
 -   [Hobbes, Thomas (1588-1679)](http://plato.stanford.edu/entries/hobbes/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
+-   [Ibn Sina (980-1037)](https://plato.stanford.edu/entries/ibn-sina/)
 -   [Identity of Indiscernibles](http://plato.stanford.edu/entries/identity-indiscernible/)
 -   [Induction, The problem of](http://plato.stanford.edu/entries/induction-problem/)
 -   [Kant, Immanuel (1724-1804)](http://plato.stanford.edu/entries/kant/)
@@ -394,6 +396,7 @@ Links and encyclopedia articles
 -   [Gettier Problems](http://www.iep.utm.edu/gettier/)
 -   [Hempel, Carl Gustav (1905-1997)](http://www.iep.utm.edu/hempel/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
+-   [Ibn Sina (980-1037)](http://www.iep.utm.edu/avicenna/)
 -   [Locke, John (1632-1704)](http://www.iep.utm.edu/locke/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
@@ -456,6 +459,8 @@ Links and encyclopedia articles
 -   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
 -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
 -   [Hypothetico-deductive model](https://en.wikipedia.org/wiki/Hypothetico-deductive_model)
+-   [Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen) AKA "Alhazen"
+-   [Ibn Sina (980-1037)](https://en.wikipedia.org/wiki/Avicenna)
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
 -   [Inductivism](https://en.wikipedia.org/wiki/Inductivism)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
