@@ -54,6 +54,7 @@ TODO.
 -   Structuralism
 -   Ethical naturalism
 -   Game theory
+-   "The problem of what to do next" - David Deutsch ([yt](https://www.youtube.com/watch?v=J21QuHrIqXg), [txt](http://www.bretthall.org/david-deutsch--sam-harris.html))
 
 See the outline on [Naturalism](naturalism.html#ethical-naturalism).
 

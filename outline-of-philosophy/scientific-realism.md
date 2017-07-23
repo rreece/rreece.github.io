@@ -33,6 +33,40 @@ three following ideas:
 -   A loosely, if ill-defined, woo-woo word in which a mystic, guru, or metaphysician
     may claim to specialize.
 
+>   The word 'metaphysics' is derived from a collective title of the fourteen books by
+>   Aristotle that we currently think of as making up Aristotle's *Metaphysics*.
+>   Aristotle himself did not know the word. (He had four names for the branch of
+>   philosophy that is the subject-matter of Metaphysics: 'first philosophy', 
+>   'first science', 'wisdom', and 'theology'.) At least one hundred years after
+>   Aristotle's death, an editor of his works (in all probability, Andronicus of Rhodes) 
+>   titled those fourteen books "*Ta meta ta phusika*"---"the after the physicals" or 
+>   "the ones after the physical ones"---the "physical ones" being the books contained
+>   in what we now call Aristotle's *Physics*. The title was probably meant to warn
+>   students of Aristotle's philosophy that they should attempt Metaphysics only after
+>   they had mastered "the physical ones", the books about nature or the natural
+>   world. [@vanInwagen_2014_Metaphysics]
+
+Stealing from encyclopedia.com:
+
+>   In medieval and modern philosophy "metaphysics" has also been taken to mean the study
+>   of things transcending nature---that is, existing separately from nature and having
+>   more intrinsic reality and value than the things of nature---giving *meta*
+>   a philosophical meaning it did not have in classical Greek.
+>   
+>   Especially since Immanuel Kant metaphysics has often meant a priori speculation on
+>   questions that cannot be answered by scientific observation and experiment.
+>   Popularly, "metaphysics" has meant anything abstruse and highly theoretical---a common
+>   eighteenth-century usage illustrated by David Hume's occasional use of metaphysical to
+>   mean "excessively subtle". The term has also been popularly associated with the spiritual,
+>   the religious, and even the occult. In modern philosophical usage metaphysics refers
+>   generally to the field of philosophy dealing with questions about the kinds of things
+>   there are and their modes of being. Its subject matter includes the concepts of existence,
+>   thing, property, event; the distinctions between particulars and universals,
+>   individuals and classes; the nature of relations, change, causation; and the nature of mind,
+>   matter, space, and time.
+
+Moving on...
+
 >   If controversies were to arise, there would be no more need of disputation
 >   between two philosophers than between two accountants. For it would suffice
 >   to take their pencils in their hands, and say to each other:
