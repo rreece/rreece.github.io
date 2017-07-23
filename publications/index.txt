@@ -212,15 +212,21 @@ You won't have access to these unless you are a member of ATLAS.
 <div class="clickmore"><a id="link:atlas-internal-more" class="closed" onclick="toggle_more('atlas-internal-more')">Click to expand list of internal notes</a></div>
 <div id="atlas-internal-more" class="more">
 
+1.  Search for strongly- and weakly-produced GMSB signatures in the
+    diphoton and $E_\mathrm{T}^\mathrm{miss}$ final state in *&radic;s* = 13 TeV $pp$ collisions at LHC using the ATLAS detector.
+    [ATL-COM-PHYS-2016-1683](https://cds.cern.ch/record/2233741),
+    Draft: June 15, 2016
+    (Support note).
+
 1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using 20.3\ fb${}^{-1}$ of $pp$ collisions at *&radic;s* = 8 TeV to explore higgs-motivated general gauge mediated models.
     [ATL-COM-PHYS-2015-1438](https://cds.cern.ch/record/2109710)
     Draft: June 24, 2016
-    (Support note).
+    (Support note for [ATLAS-CONF-2016-033](https://cds.cern.ch/record/2198316)).
 
 1.  Search for a diphoton and $E_\mathrm{T}^\mathrm{miss}$ final state in *&radic;s* = 13 TeV $pp$ collisions at LHC using the ATLAS detector.
     [ATL-COM-PHYS-2015-1136](https://cds.cern.ch/record/2051527),
-    Draft: May 17, 2016
-    (Support note).
+    May 17, 2016
+    (Support note for [1606.09150](https://arxiv.org/abs/1606.09150)).
 
 1.  Search for a diphoton and $E_\mathrm{T}^\mathrm{miss}$ final state in *&radic;s* = 8 TeV $pp$ collisions at LHC using the ATLAS detector.
     [ATL-COM-PHYS-2014-442](https://cds.cern.ch/record/1700554),
