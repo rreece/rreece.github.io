@@ -90,7 +90,9 @@ basic disagreements about the nature of science and
 its implications for a worldview
 are central to many of our cultural and politcal divisions.
 
--   ["Why Do Many Reasonable People Doubt Science?"](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text) - nationalgeographic.com
+-   "Why Do Many Reasonable People Doubt Science?"[^Achenbach2015]
+
+[^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\.
 
 Who do I want to reach with this argument?
 
@@ -108,7 +110,7 @@ A place to start in the discussion of philosophy of science and naturalism
 
 ### Popular articles:
 
--   Rosenberg, A. (2011). ["Why I am a naturalist."](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) *New York Times*.
+-   @Rosenberg_2011_Why_I_am_a_naturalist\. ["Why I am a naturalist."](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) *New York Times*.
 -   Sartwell, C. (2015). ["Philosophy Returns to the Real World."](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) *New York Times*.
 
 
@@ -141,5 +143,8 @@ A place to start in the discussion of philosophy of science and naturalism
 -   [Naturalism.org](http://www.naturalism.org/)
 -   [Positivists.org](http://positivists.org/)
 -   [Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w)
+
+
+<!-- REFERENCES -->
 
 
