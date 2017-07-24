@@ -20,6 +20,12 @@ Issues and positions
 
 -   We don't control what happens, we control how we respond.
 -   In any situation we face, we have an opportunity to practice virtue.
+-   Focus on the steps in-the-moment, not the whole goal.
+-   One should be indifferent about the outcome?
+
+>   It is impossible for a man to learn what he thinks he already knows.
+
+--Epictetus, Discourses, Book II, ch. 17
 
 TODO.
 
