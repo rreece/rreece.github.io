@@ -39,6 +39,7 @@ Issues and positions
 
 -   file-drawer effect = look-elsewhere effect
 -   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
+-   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375)
 
 ### Machine learning
 

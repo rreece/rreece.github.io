@@ -20,11 +20,11 @@ Issues and positions
 ![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig:timeline-of-major-philosophers-since-1200}
 
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
-    -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
-        -   teleological: things have "natural" purposes or tendencies 
 -   Beginnings of the Scientific Method
     -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
     -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
+    -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
+        -   teleological: things have "natural" purposes or tendencies 
     -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
     -   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
     -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
