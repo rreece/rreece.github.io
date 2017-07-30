@@ -21,15 +21,16 @@
 
 ### My web presence elsewhere
 
--   [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/) -- my webpage about my research at UCSC.
+-   [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/) -- my webpage about my research at UCSC
 -   my blogs
     -   [statisticalsignificance.net](http://statisticalsignificance.net/) -- my blog (still trying to get this going)
     -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/) -- my micro-blog on philosophy using only figures
     -   [bamf-thinkers.tumblr.com](http://bamf-thinkers.tumblr.com/) -- my micro-blog on inspiring thinkers
 -   my professional and social media
-    -   [about.me/ryan.reece](http://about.me/ryan.reece) -- my about.me profile
-    -   [academia.edu/RReece](https://ucsc.academia.edu/RReece) -- my academia.edu profile (get my papers here)
-    -   [philpapers.org](http://philpapers.org/profile/71785) -- my philpapers profile
-    -   [&#64;RyanDavidReece](https://twitter.com/RyanDavidReece) -- my twitter profile
-    -   [+RyanReece](https://plus.google.com/+RyanReece) -- my google+ profile
+    -   [about.me/ryan.reece](http://about.me/ryan.reece)
+    -   [academia.edu/RReece](https://ucsc.academia.edu/RReece)
+    -   [philpapers.org/profile/71785](http://philpapers.org/profile/71785)
+    -   [twitter.com/RyanDavidReece](https://twitter.com/RyanDavidReece)
+    -   [LinkedIn.com/in/ryanreece](https://www.linkedin.com/in/ryanreece/)
+    -   [plus.google.com/+RyanReece](https://plus.google.com/+RyanReece)
 
