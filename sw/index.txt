@@ -25,7 +25,7 @@ Converts simple markdown-formatted [APA](http://www.library.arizona.edu/search/r
 bibliographies to [bibtex](https://verbosus.com/bibtex-style-examples.html).
 Scrape the world's bibliographies. All your bibs are belong to us.
 
--   [github.com/rreece/markdown2bib](https://github.com/rreece/markdown2bib)
+Repo: [github.com/rreece/markdown2bib](https://github.com/rreece/markdown2bib)
 
 
 markdown-memo
@@ -41,7 +41,7 @@ into valid xhtml or to a pdf via LaTeX. It basically consists of a Makefile and
 some html/css templates.  You can use it to make simple webpages *like this one*
 (for example, by writing [this simple markdown](https://rreece.github.io/sw/index.txt)).
 
--   [github.com/rreece/markdown-memo](https://github.com/rreece/markdown-memo)
+Repo: github.com/rreece/markdown-memo](https://github.com/rreece/markdown-memo)
 
 
 pyframe
@@ -54,7 +54,7 @@ pyframe
 This makes use of [pyrootutils](https://github.com/rreece/pyrootutils), described below.
 TODO: Need to describe this more.
 
--   [github.com/rreece/pyframe](https://github.com/rreece/pyframe)
+Repo: [github.com/rreece/pyframe](https://github.com/rreece/pyframe)
 
 
 pyrootutils
@@ -68,7 +68,7 @@ A set of useful tools for taming pyroot.
 
 TODO: Need to describe this more.
 
--   [github.com/rreece/pyrootutils](https://github.com/rreece/pyrootutils)
+Repo: [github.com/rreece/pyrootutils](https://github.com/rreece/pyrootutils)
 
 
 rdrshell
@@ -81,7 +81,7 @@ rdrshell
 An extensible organization of my bash dotfiles.
 I check this out everywhere I work.
 
--   [github.com/rreece/rdrshell](https://github.com/rreece/rdrshell)
+Repo: [github.com/rreece/rdrshell](https://github.com/rreece/rdrshell)
 
 
 root2html
@@ -91,9 +91,10 @@ root2html
 <img src="img/root2html-example.png" alt="root2html-example" width="600"/>
 </a>
 
-A script that generates html and images from a [ROOT](https://root.cern.ch/)
+This is a tool for visualizing many variables in multi-dimensional data.
+It is a script that generates html and images from a [ROOT](https://root.cern.ch/)
 file of TCanvases for visualizing a list of plots.
 
--   [github.com/rreece/root2html](https://github.com/rreece/root2html)
+Repo: [github.com/rreece/root2html](https://github.com/rreece/root2html)
 
 
