@@ -290,6 +290,7 @@ Links and encyclopedia articles
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Natural number](http://en.wikipedia.org/wiki/Natural_number)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
+-   [Problem of universals](https://en.wikipedia.org/wiki/Problem_of_universals)
 -   [Propositional calculus](https://en.wikipedia.org/wiki/Propositional_calculus)
 -   [Rule of inference](https://en.wikipedia.org/wiki/Rule_of_inference)
 -   [Russell, Bertrand (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell)
