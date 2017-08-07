@@ -79,6 +79,9 @@ Stealing from encyclopedia.com:
 -   Am I a more advanced civilization's tamagotchi?
 -   Distinguish Anti-realism from non-realism
 
+>   As far as the laws of mathematics refer to reality, they are not certain;
+>   and as far as they are certain, they do not refer to reality. [@Einstein_1922_Geometry_and_Experience]
+
 >   Our arguments have to be about the world we experience,
 >   not about a world made of paper. [@Rovelli_2003_A_dialog_on_quantum_gravity, 5]
 
@@ -96,9 +99,6 @@ Stealing from encyclopedia.com:
 >   The wonder of group theory is that its relevance to the disciplines of both
 >   mathematics and natural science far exceeds the self-contained boundaries
 >   within which it was first developed. [@Schumm_2004_Deep_Down_Things, 144]
-
->   As far as the laws of mathematics refer to reality, they are not certain;
->   and as far as they are certain, they do not refer to reality. [@Einstein_1922_Geometry_and_Experience]
 
 
 ### Humeanism
