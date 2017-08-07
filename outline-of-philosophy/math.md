@@ -149,6 +149,16 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
+### Wigner, E.P. (1960). The Unreasonable Effectiveness of Mathematics in the Natural Sciences.
+
+-   @Wigner_1960_The_Unreasonable_Effectiveness_of_Mathematics_in
+
+#### My thoughts
+
+-   TODO.
+
+--------------------------------------------------------------------------------
+
 ### Field, H. (1980). *Science Without Numbers*.
 
 -    Field, H. (1980). *Science Without Numbers*. Princeton University Press.

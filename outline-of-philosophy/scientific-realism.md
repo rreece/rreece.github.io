@@ -96,6 +96,18 @@ Moving on...
 >   mathematics and natural science far exceeds the self-contained boundaries
 >   within which it was first developed. [@Schumm_2004_Deep_Down_Things, 144]
 
+>   As far as the laws of mathematics refer to reality, they are not certain;
+>   and as far as they are certain, they do not refer to reality. [@Einstein_1922_Geometry_and_Experience]
+
+>   At first blush it seems to us that the theories last only a day
+>   and that ruins upon ruins accumulate.
+>   Today the theories are born, tomorrow they are the fashion,
+>   the day after tomorrow they are classic,
+>   the fourth day they are superannuated,
+>   and the fifth they are forgotten. [@Poincare_2014_The_Foundations_of_Science_Science]
+
+TODO: find page number for Poincar\'{e}.
+
 
 ### Realism and anti-realism
 
@@ -307,7 +319,7 @@ Science has identified real patterns, relationships, and structures
 -   realist
 -   early Wittgenstein: picture theory of language/meaning
 -   strucuturalism more generally and structural anthropology: Claude L&eacute;vi-Strauss
--   Henri Poincar&#233;
+-   Henri Poincar&eacute;
 -   John Worrall
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
@@ -810,6 +822,7 @@ Links and encyclopedia articles
 -   [Sellars, Wilfrid (1912-1989)](http://plato.stanford.edu/entries/sellars/)
 -   [Social Dimensions of Scientific Knowledge](http://plato.stanford.edu/entries/scientific-knowledge-social/)
 -   [Structural Realism](http://plato.stanford.edu/entries/structural-realism/)
+-   [Structuralism in Physics](https://plato.stanford.edu/entries/physics-structuralism/)
 -   [Supervenience](https://plato.stanford.edu/entries/supervenience/)
 -   [Tarski, Alfred (1901-1983)](http://plato.stanford.edu/entries/tarski/)
 -   [Theoretical Terms in Science](http://plato.stanford.edu/entries/theoretical-terms-science/)
@@ -856,7 +869,7 @@ Links and encyclopedia articles
 -   [Phenomenology and Natural Science](http://www.iep.utm.edu/phenomsc/)
 -   [Popper, Karl (1902-1994): Critical Rationalism](http://www.iep.utm.edu/cr-ratio/)
 -   [Popper, Karl (1902-1994) : Philosophy of Science](http://www.iep.utm.edu/pop-sci/)
--   [Poincar&#233;, Jules Henri (1854-1912)](http://www.iep.utm.edu/poincare/)
+-   [Poincar&eacute;, Jules Henri (1854-1912)](http://www.iep.utm.edu/poincare/)
 -   [Pragmatism](http://www.iep.utm.edu/pragmati/)
 -   [Quine's Philosophy of Science](http://www.iep.utm.edu/quine-sc/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)

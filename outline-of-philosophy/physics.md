@@ -241,6 +241,7 @@ TODO.
 
 -   [Aaronson, S. (2015). "Bell inequality violation finally done right."](http://www.scottaaronson.com/blog/?p=2464)
 -   [Hensen, B. et al. (2015). "Experimental loophole-free violation of a Bell inequality using entangled electron spins separated by 1.3 km."](http://arxiv.org/abs/1508.05949)
+-   @Schwichtenberg_2015_Physics_from_Symmetry
 
 
 Links and encyclopedia articles

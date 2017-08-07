@@ -5,6 +5,7 @@ Bueno, O. (2013). Nominalism in the philosophy of mathematics. *Stanford Encyclo
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford: Oxford University Press. [(Originally published in 1641)]
 de Waal, F. (1982). *Chimpanzee Politics: Power and Sex among Apes*. Baltimore: Johns Hopkins University Press.
 Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/abduction/
+Einstein, A. (1922). Geometry and Experience. London: Methuen & Co. http://www-history.mcs.st-andrews.ac.uk/Extras/Einstein_geometry.html [Address given to the Prussian Academy of Sciences on January 27, 1921]
 Feynman, R.P. (1963). *The Feynman Lectures on Physics, Volume I*. California Institute of Technology. http://www.feynmanlectures.caltech.edu/I_03.html
 Feynman, R.P. (1965). The Development of the Space-Time View of Quantum Electrodynamics. Nobel Lecture, December 11, 1965. http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html
 Frigg, R., & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask. *Euro Jnl Phil Sci*.
@@ -39,6 +40,7 @@ Palmer, J. (2012). Parmenides. *Stanford Encyclopedia of Philosophy*. http://pla
 Peterson, J.B. (1999). *Maps of Meaning*. New York: Routledge.
 Plato. (2000). *The Republic*. (G. Ferrari, Ed. & T. Griffith, Trans.). Cambridge: Cambridge University Press. [(Originally written ca. 380 BCE)]
 Pluckrose, H. (2017). How French "intellectuals" ruined the west: Postmodernism and its impact, explained. *Areo Magazine*. https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/ [March 27, 2017]
+Poincar\'{e}, H. (2014). *The Foundations of Science: Science and hypothesis, the value of science, science and method* (G.B. Halstead, Trans.). Cambridge: Cambridge University Press. [(Originally published in 1905)]
 Polger, T. (2008). Functionalism. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/functism/
 Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson and Co. [(Originally published in 1934 as \emph{Logik der Forschung})]
 Prado, I. (2006). Ionian Enchantment: A brief history of scientific naturalism. http://www.naturalism.org/history.htm
@@ -54,6 +56,7 @@ Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. Oxford: O
 Rovelli, C. (2003). A dialog on quantum gravity. https://arxiv.org/abs/hep-th/0310077
 Sartwell, C. (2015). Philosophy returns to the real world. *New York Times*. http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/ [April 13, 2015.]
 Schumm, B.A. (2004). *Deep Down Things*. Baltimore: Johns Hopkins University Press.
+Schwichtenberg, J. (2015). *Physics from Symmetry*. Springer.
 Sellars, W. (1963). Philosophy and the scientific image of man. In *Science, Perception, and Reality*. Atascadero, CA: Ridgeview Publishing Co.
 Sider, T. (2011). *Writing the Book of the World*. Oxford: Oxford University Press.
 Snapper, E. (1979). The three crises in mathematics: Logicism, intuitionism and formalism. *Mathematics Magazine*, 52(4), 207-216.
@@ -64,5 +67,5 @@ van Fraassen, B. (1980). *The Scientific Image*. Oxford: Oxford University Press
 van Inwagen, P. (2014). Metaphysics. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/metaphysics/
 Vickers, J. (2014). The problem of induction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/induction-problem/
 Weinberg, S. (1997). What is quantum field theory, and what did we think it is? http://arxiv.org/abs/hep-th/9702027
+Wigner, E.P. (1960). The Unreasonable Effectiveness of Mathematics in the Natural Sciences. *Communications on pure and applied mathematics*, 13(1), 1-14. [Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959]
 Worrall, J. (1989). Structural realism: The best of both worlds? *Dialectica*, 43, 99--124.
-
