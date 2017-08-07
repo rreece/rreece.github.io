@@ -99,15 +99,6 @@ Moving on...
 >   As far as the laws of mathematics refer to reality, they are not certain;
 >   and as far as they are certain, they do not refer to reality. [@Einstein_1922_Geometry_and_Experience]
 
->   At first blush it seems to us that the theories last only a day
->   and that ruins upon ruins accumulate.
->   Today the theories are born, tomorrow they are the fashion,
->   the day after tomorrow they are classic,
->   the fourth day they are superannuated,
->   and the fifth they are forgotten. [@Poincare_2014_The_Foundations_of_Science_Science]
-
-TODO: find page number for Poincar\'{e}.
-
 
 ### Realism and anti-realism
 
@@ -169,9 +160,17 @@ Science makes real progress in describing real features of the world.
 -   TODO: work through the challenges presented in [these videos](https://www.youtube.com/playlist?list=PLz0n_SjOttTenxXXdML7fOu1og3D9LaME).
 -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
 
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1/4 Essentialism is a far worse sin than scientism.<a href="https://twitter.com/hashtag/PhilSci?src=hash">#PhilSci</a> <a href="https://twitter.com/hashtag/scientism?src=hash">#scientism</a> <a href="https://twitter.com/hashtag/PessimisticMetaInduction?src=hash">#PessimisticMetaInduction</a></p>&mdash; Ryan Reece (&#64;RyanDavidReece) <a href="https://twitter.com/RyanDavidReece/status/771828745028055040">September 2, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+>   At first blush it seems to us that the theories last only a day
+>   and that ruins upon ruins accumulate.
+>   Today the theories are born, tomorrow they are the fashion,
+>   the day after tomorrow they are classic,
+>   the fourth day they are superannuated,
+>   and the fifth they are forgotten. [@Poincare_2014_The_Foundations_of_Science_Science]
+
+TODO: find the page number for above Poincar&eacute; quote.
 
 
 ### Instrumentalism
@@ -327,6 +326,14 @@ Science has identified real patterns, relationships, and structures
 -   Every Thing Must Go[^Ladyman-Ross-2009]
 -   Psillos' "How science tracks truth"[^Psillos-1999]
 -   contrast with Bueno's structural empiricism
+
+>   [W]hat is objective must be common to many minds and consequently transmissible from one to the other. ...
+>   [P]ure quality ... is intransmissible... . But it is not the same with relations...
+>   From this point of view, what is objective is ... only pure relation. [@Poincare_2014_The_Foundations_of_Science_Science]
+
+TODO: find the page number for above Poincar&eacute; quote.
+I found the above quotes in a talk by Arthur Fine:
+[Structural Realism, Then & Now](https://www.youtube.com/watch?v=0tb4_kFHwO4).
 
 
 ### Critical realism
