@@ -65,18 +65,19 @@ Stealing from encyclopedia.com:
 >   individuals and classes; the nature of relations, change, causation; and the nature of mind,
 >   matter, space, and time.
 
-Moving on...
 
->   If controversies were to arise, there would be no more need of disputation
->   between two philosophers than between two accountants. For it would suffice
->   to take their pencils in their hands, and say to each other:
->   *Calculemus*---Let us calculate.[^Leibniz-De-Arte-Combinatoria]
+### Realism and anti-realism
 
-[^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
-    This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,
-    written in 1666 [@Leibniz_1989_Dissertatio_de_Arte_Combinatoria, 73].
-    TODO: Actually, I haven't found this yet.
-    See also @Leibniz_1951_The_Art_of_Discovery, p. 51.
+![Scientific realism vs anti-realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism)).](img/phil-of-science-v02.png "My figure on scientific realism vs anti-realism"){#fig:phil-of-science}
+
+-   Naive realism.  Why would I doubt the world I see is real?
+-   Skepticism
+-   Descartes' demon
+-   Putnam Brain in a vat[^Putnam-1981]
+-   The Matrix
+-   Bostrom - The Simulation Argument
+-   Am I a more advanced civilization's tamagotchi?
+-   Distinguish Anti-realism from non-realism
 
 >   Our arguments have to be about the world we experience,
 >   not about a world made of paper. [@Rovelli_2003_A_dialog_on_quantum_gravity, 5]
@@ -98,20 +99,6 @@ Moving on...
 
 >   As far as the laws of mathematics refer to reality, they are not certain;
 >   and as far as they are certain, they do not refer to reality. [@Einstein_1922_Geometry_and_Experience]
-
-
-### Realism and anti-realism
-
-![Scientific realism vs anti-realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism)).](img/phil-of-science-v02.png "My figure on scientific realism vs anti-realism"){#fig:phil-of-science}
-
--   Naive realism.  Why would I doubt the world I see is real?
--   Skepticism
--   Descartes' demon
--   Putnam Brain in a vat[^Putnam-1981]
--   The Matrix
--   Bostrom - The Simulation Argument
--   Am I a more advanced civilization's tamagotchi?
--   Distinguish Anti-realism from non-realism
 
 
 ### Humeanism

@@ -99,6 +99,17 @@ through its respect for science and skepticism of *a priori* metaphysics,
 but naturalism is a more general distinction,
 being a more much longer thread throughout the history of philosophy and science.
 
+>   If controversies were to arise, there would be no more need of disputation
+>   between two philosophers than between two accountants. For it would suffice
+>   to take their pencils in their hands, and say to each other:
+>   *Calculemus*---Let us calculate.[^Leibniz-De-Arte-Combinatoria]
+
+[^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
+    This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,
+    written in 1666 [@Leibniz_1989_Dissertatio_de_Arte_Combinatoria, 73].
+    TODO: Actually, I haven't found this yet.
+    See also @Leibniz_1951_The_Art_of_Discovery, p. 51.
+
 
 ### Natural kinds
 
