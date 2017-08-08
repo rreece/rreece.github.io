@@ -79,27 +79,6 @@ Stealing from encyclopedia.com:
 -   Am I a more advanced civilization's tamagotchi?
 -   Distinguish Anti-realism from non-realism
 
->   As far as the laws of mathematics refer to reality, they are not certain;
->   and as far as they are certain, they do not refer to reality. [@Einstein_1922_Geometry_and_Experience]
-
->   Our arguments have to be about the world we experience,
->   not about a world made of paper. [@Rovelli_2003_A_dialog_on_quantum_gravity, 5]
-
->   There is a difference, however, between working crossword puzzles and the pursuit of
->   higher mathematics. In the case of mathematics, you don't triumph over the capricious
->   machinations of another human being (the designer of the puzzle) but, rather,
->   over the absolute fabric of logical relations. The body of knowledge you have developed
->   has the enviable characteristic of being demonstrably and absolutely true,
->   given the set of assumptions (axioms) underlying your contemplations, irrespective
->   of the foibles of your own human limitations, indeed, irrespective of the existence
->   of humanity itself. And, as an added bonus, if it should so happen that the set of
->   axioms on which your intellectual fortress is built is somehow relevant to the
->   physical world, then you can even walk away with a deeper understanding of your
->   natural surroundings.
->   The wonder of group theory is that its relevance to the disciplines of both
->   mathematics and natural science far exceeds the self-contained boundaries
->   within which it was first developed. [@Schumm_2004_Deep_Down_Things, 144]
-
 
 ### Humeanism
 
@@ -158,6 +137,27 @@ Science makes real progress in describing real features of the world.
 >   and the fifth they are forgotten. [@Poincare_2014_The_Foundations_of_Science_Science]
 
 TODO: find the page number for above Poincar&eacute; quote.
+
+>   Our arguments have to be about the world we experience,
+>   not about a world made of paper. [@Rovelli_2003_A_dialog_on_quantum_gravity, 5]
+
+>   As far as the laws of mathematics refer to reality, they are not certain;
+>   and as far as they are certain, they do not refer to reality. [@Einstein_1922_Geometry_and_Experience]
+
+>   There is a difference, however, between working crossword puzzles and the pursuit of
+>   higher mathematics. In the case of mathematics, you don't triumph over the capricious
+>   machinations of another human being (the designer of the puzzle) but, rather,
+>   over the absolute fabric of logical relations. The body of knowledge you have developed
+>   has the enviable characteristic of being demonstrably and absolutely true,
+>   given the set of assumptions (axioms) underlying your contemplations, irrespective
+>   of the foibles of your own human limitations, indeed, irrespective of the existence
+>   of humanity itself. And, as an added bonus, if it should so happen that the set of
+>   axioms on which your intellectual fortress is built is somehow relevant to the
+>   physical world, then you can even walk away with a deeper understanding of your
+>   natural surroundings.
+>   The wonder of group theory is that its relevance to the disciplines of both
+>   mathematics and natural science far exceeds the self-contained boundaries
+>   within which it was first developed. [@Schumm_2004_Deep_Down_Things, 144]
 
 
 ### Instrumentalism
@@ -471,6 +471,8 @@ Annotated bibliography
 --------------------------------------------------------------------------------
 
 ### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
+
+-   @Carnap_1950_Empiricism_Semantics_and_Ontology
 
 #### 1. The problem of abstract entities
 
