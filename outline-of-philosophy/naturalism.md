@@ -167,7 +167,7 @@ See the outline on [ethics](ethics.html).
 -   How French "intellectuals" ruined the west: Postmodernism and its impact, explained.[^Pluckrose2017]
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
-[^Ladyman2007]: Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Pluckrose2017]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
 [^Sokal1996]: @Sokal_1996_A_Physicist_Experiments_With_Cultural_Studies\,
     @Sokal_1996_Transgressing_the_Boundaries_Towards\,
