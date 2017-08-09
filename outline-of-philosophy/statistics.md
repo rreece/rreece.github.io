@@ -220,4 +220,6 @@ Links and encyclopedia articles
 -   [Peng, R. (2016). A Simple Explanation for the Replication Crisis in Science.](http://simplystatistics.org/2016/08/24/replication-crisis/) - simplystatistics.org
 
 
+<!-- REFERENCES -->
+
 

@@ -57,9 +57,11 @@ Issues and positions
 -   "Scientist"
     -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
 -   Biological evolution:
-    -   Hume on humans being animals
+    -   Hume on humans being animals[^Hume2007]
     -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
     -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
+
+[Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
 
 
 ### Rationalism vs empiricism
@@ -102,7 +104,7 @@ Other important synthesizers:
 
 TODO:
 
--   Hume and the problem of induction
+-   Hume and the problem of induction[^Hume2007]
 -   Uniformity of nature
 -   Humeanism
 -   Note the further discussion of Humeanism and laws of nature in
@@ -525,5 +527,7 @@ Links and encyclopedia articles
 -   [Scientism](http://rationalwiki.org/wiki/Scientism) - RationalWiki.org
 -   [Newton's Flaming Laser Sword](https://philosophynow.org/issues/46/Newtons_Flaming_Laser_Sword) - Mike Alder, Philosophy Now
 
+
+<!-- REFERENCES -->
 
 
