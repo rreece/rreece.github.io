@@ -155,11 +155,24 @@ See the outline on [ethics](ethics.html).
 
 -   "The Science Wars"
 -   Post-modernism, Social construction
--   How French "intellectuals" ruined the west: Postmodernism and its impact, explained.[^Pluckrose]
 -   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2) - IEP
 -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/) - SEP
 
-[^Pluckrose]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
+#### Rebutals
+
+-   "Sokal affair"[^Sokal1996]
+-   Weinberg: "Sokal's Hoax"[^Weinberg1996]
+-   *Fear of Knowledge*[^Boghossian2006]
+-   *Every Thing Must Go*[^Ladyman2007]
+-   How French "intellectuals" ruined the west: Postmodernism and its impact, explained.[^Pluckrose2017]
+
+[^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
+[^Ladyman2007]: Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Pluckrose2017]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
+[^Sokal1996]: @Sokal_1996_A_Physicist_Experiments_With_Cultural_Studies\,
+    @Sokal_1996_Transgressing_the_Boundaries_Towards\,
+    @Sokal_1998_Fashionable_Nonsense_Postmodern_Intellectuals\.
+[^Weinberg1996]: @Weinberg_1996_Sokals_Hoax\.
 
 
 My thoughts
@@ -294,6 +307,7 @@ Links and encyclopedia articles
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 -   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Reductionism](https://en.wikipedia.org/wiki/Reductionism)
+-   [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair)
 -   [Species problem](https://en.wikipedia.org/wiki/Species_problem)
 -   [Unity of Science](https://en.wikipedia.org/wiki/Unity_of_science)
 -   [Unsolved problems in philosophy, List of](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_philosophy)
