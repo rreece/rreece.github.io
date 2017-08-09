@@ -61,7 +61,7 @@ Issues and positions
     -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
     -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
 
-[Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
+[^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
 
 
 ### Rationalism vs empiricism
