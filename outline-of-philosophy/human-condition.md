@@ -116,6 +116,7 @@ Links and encyclopedia articles
 -   [Epictetus (55-135)](http://plato.stanford.edu/entries/epictetus/)
 -   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
 -   [Existentialist aesthetics](http://plato.stanford.edu/entries/aesthetics-existentialist/)
+-   [Friendship](https://plato.stanford.edu/entries/friendship/)
 -   [Meaning of Life, The](http://plato.stanford.edu/entries/life-meaning/)
 -   [Nietzsche, Friedrich (1844-1900)](http://plato.stanford.edu/entries/nietzsche/)
 -   [Seneca (4 BCE - 65 CE)](http://plato.stanford.edu/entries/seneca/)

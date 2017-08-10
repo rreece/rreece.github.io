@@ -44,6 +44,7 @@ Issues and positions
     -   [Gassendi, Pierre (1592-1655)](http://en.wikipedia.org/wiki/Pierre_Gassendi)
     -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
         -   No teleology. Matter plenum, vorticies.
+        -   *Meditations on First Philosophy*[^Descartes2008]
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
     -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
     -   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
@@ -61,6 +62,7 @@ Issues and positions
     -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
     -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
 
+[^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
 [^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
 
 
@@ -97,7 +99,10 @@ British empiricists:
 Other important synthesizers:
 
 -   Isaac Newton (1642-1727)
+    -   *The Principia*[^Newton2016]
 -   Immanuel Kant (1724-1804)
+
+[^Newton2016]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\.
 
 
 ### Induction

@@ -1,0 +1,26 @@
+Carnap, R. (1950). Empiricism, Semantics, and Ontology. *Revue Internationale de Philosophie*, 4, 20-40.
+Cowan, G. (1998). *Statistical Data Analysis*. Oxford: Clarendon Press.
+Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). Asymptotic formulae for likelihood-based tests of new physics. *European Physical Journal C*, 71, 1544. https://arxiv.org/abs/1007.1727
+Cowan, G. (2012). Discovery sensitivity for a counting experiment with background uncertainty. https://www.pp.rhul.ac.uk/~cowan/stat/notes/medsigNote.pdf
+Cowan, G. (2016). Statistics. In C. Patrignani \emph{et al}. (Particle Data Group), \emph{Chinese Physics C}, \emph{40}, 100001. \url{http://pdg.lbl.gov/2016/reviews/rpp2016-rev-statistics.pdf}
+Cranmer, K. (2015). Practical Statistics for the LHC. https://arxiv.org/abs/1503.07622
+Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
+Goodman, N. (1955). *Fact, Fiction, and Forecast*. Cambridge, MA: Harvard University Press.
+Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambridge: Cambridge University Press.
+Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
+Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford: Oxford University Press. [(Originally published in 1748)]
+James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
+Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
+MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
+Mayo, D. G. (1996). *Error and the Growth of Experimental Knowledge*. Chicago: Chicago University Press.
+Reichenbach, H. (1938). *Experience and Prediction*. Chicago: University of Chicago Press.
+Reichenbach, H. (1940). On the Justification of Induction. *The Journal of Philosophy*, 37, 97--103.
+Salmon, W.C. (1963). On Vindicating Induction. *Philosophy of Science*, 30, 252--261.
+Salmon, W.C. (1966). *The Foundations of Scientific Inference*. Pittsburgh: University of Pittsburgh Press.
+Salmon, W.C. (1991). Hans Reichenbach's Vindication of Induction. *Erkenntnis*, 35, 99--122.
+Sellars, W. (1964). Induction as Vindication. *Philosophy of Science*, 31, 197--231.
+Sinervo, P. (2003). Definition and Treatment of Systematic Uncertainties in High Energy Physics and Astrophysics. In Lyons, L., & Mount, R., & Reitmeyer, R. (Eds.), *Proceedings of the Conference on Statistical Problems in Particle Physics, Astrophysics, and Cosmology (PhyStat2003)* (pp. 122--129). Stanford: Stanford Linear Accelerator Center. https://www.slac.stanford.edu/econf/C030908/papers/TUAT004.pdf
+Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. London: Elsevier.
+Wald, A. (1943). Tests of Statistical Hypotheses Concerning Several Parameters When the Number of Observations is Large. *Transactions of the American Mathematical Society*, 54, 426--482.
+Weintraub, R. (1995). What was Hume's Contribution to the Problem of Induction? *The Philosophical Quarterly*, 45, 460--470.
+Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62.
