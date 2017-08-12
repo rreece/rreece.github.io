@@ -53,6 +53,7 @@ I am involved in:
 -   You can see my CV here: [html](docs/Ryan_Reece_cv.html), [pdf](docs/Ryan_Reece_cv.pdf).
 -   See my [selected list of publications](publications/).
 -   See my [slides for my selected talks](talks/).
+-   See my [selected software projects at github](sw/) and my github profile: [github.com/rreece](https://github.com/rreece)
 
 
 ### Thesis
@@ -96,15 +97,6 @@ Contact
 
 
 --------------------------------------------------------------------------------
-
-
-### What's here?
-
--   [My github profile](https://github.com/rreece)
--   [My selected software projects at github](sw/)
--   [My selected list of publications](publications/)
--   [My selected list of talks](talks/)
--   Some other things I'll share someday
 
 
 ### My web presence elsewhere
