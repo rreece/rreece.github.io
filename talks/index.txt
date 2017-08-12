@@ -83,6 +83,21 @@ ATLAS experiment.
     reviewing the $W$ and $Z$ boson cross section measurements,
     in electron, muon, and tau decays (the first ATLAS measurements with taus).
 
+
+Data science, statistics, machine learning talks
+-------------------------------------------------------------------------------
+
+1.  *[Diving into Deep Learning with keras using your ntuples](pdf/2016-10-07-RReece-Deep-Learning-Tutorial.pdf)*       
+    *2016/10/07, CERN, Meyrin, Switzerland*        
+    A tutorial I gave at CERN on training deep neural networks with keras,
+    and preparing high-energy physics datasets for machine learning.
+
+1.  *[pyframe](pdf/2011-09-21-RReece-pyframe-PAT.pdf)*     
+    *2011/09/21, CERN, Meyrin, Switzerland*        
+    Introduction to the python data selection framework I developed for
+    analyzing ROOT ntuple files and has been used by several physics measurments
+    and searches for new physics in the ATLAS Collaboration.
+
 1.  *[Likelihood functions for supersymmetric observables in frequentist analyses of the CMSSM and NUHM1](pdf/2009-09-29-RReece-Likelihood-functions-for-SUSY.pdf)*       
     *2009/09/29, CERN, Meyrin, Switzerland*        
     Discussion of a paper by the same name that I lead as a graduate student
