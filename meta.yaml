@@ -1,9 +1,9 @@
 ---
 ## required meta-data -------------------------------------
 output: doc
-title: "Ryan Reece's webspace at github"
-titleshort: "Ryan Reece's webspace at github"
-#subtitle: make writing easier and more productive
+title: 'Ryan Reece, Ph.D.'
+titleshort: 'Ryan Reece, Ph.D.'
+subtitle: 'Postdoctoral Fellow<br/> Santa Cruz Institute for Particle Physics'
 authorshort: Ryan Reece
 #author1: Ryan Reece
 #email1: ryan.reece@cern.ch
@@ -35,7 +35,7 @@ date: \today
 #docid: EXAMPLE-DOC-000 # arXiv:1606.09150 # ATLAS-COM-PHYS-2010-200
 draft: false
 #license: ''
-license: '&copy; 2014-2017 [Ryan Reece](http://reece.scipp.ucsc.edu/). All rights reserved.'
+license: '&copy; 2013-2017 [Ryan Reece](http://reece.scipp.ucsc.edu/). All rights reserved.'
 #license: '<span class="copy-left">&copy;</span> 2014-2017 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).'
 dorefs: false
 submitted: ''
@@ -49,7 +49,7 @@ submitted: ''
 #    documents from simple Markdown markup.
 #    Markdown-memo is developed by Ryan Reece at
 #    [https://github.com/rreece/markdown-memo](https://github.com/rreece/markdown-memo).
-#keywords: academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing
+keywords: Ryan Reece, Reece, physics, particle physics, data science, machine learning, philosophy, philosophy of science, ATLAS, LHC, CERN, Python
 citation-style: templates/apa-no-doi-no-issue-with-notes.csl
 figureTitle: "Figure"
 tableTitle: "Table"
@@ -63,7 +63,7 @@ css: 'templates/markdown-memo.css'
 email: '<img class="email" src="img/my-email.png" alt="my email address"/>'
 #email: '<img class="email" src="img/my-email-alt.png" alt="my email address"/>'
 #disqus_shortname: 'my-sites-disqus-name'
-description: "Ryan Reece's webspace on github."
+description: 'I am a postdoctoral researcher in experimental particle physics working with ATLAS experiment at CERN.'
 favicon: 'img/markdown-favicon-196x196.png'
 google_analytics_tracking_id: 'UA-55199032-1'
 mathjax: true
