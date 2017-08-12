@@ -5,6 +5,33 @@
 A collection of slides for a selection of public talks given by Ryan Reece.
 
 
+Data science, statistics, machine learning talks
+-------------------------------------------------------------------------------
+
+Here's my selected list of talks I have given on analysis and computing techniques.
+
+1.  *[Diving into Deep Learning with keras using your ntuples](pdf/2016-10-07-RReece-Deep-Learning-Tutorial.pdf)*       
+    *2016/10/07, CERN, Meyrin, Switzerland*        
+    A tutorial I gave at CERN on training deep neural networks with keras,
+    and preparing high-energy physics datasets for machine learning.
+
+1.  *[pyframe](pdf/2011-09-21-RReece-pyframe-PAT.pdf)*     
+    *2011/09/21, CERN, Meyrin, Switzerland*        
+    Introduction to the python data selection framework I developed for
+    analyzing ROOT ntuple files and has been used by several physics measurments
+    and searches for new physics in the ATLAS Collaboration.
+
+1.  *[Likelihood functions for supersymmetric observables in frequentist analyses of the CMSSM and NUHM1](pdf/2009-09-29-RReece-Likelihood-functions-for-SUSY.pdf)*       
+    *2009/09/29, CERN, Meyrin, Switzerland*        
+    Discussion of a paper by the same name that I lead as a graduate student
+    for the Penn HEP Journal Club, mostly researchers in the ATLAS group.
+    Most of the talk is a primer on the method of maximum likelihood and how one uses
+    it to calculate confidence contours.
+    While low profile, this talk is important to me because it marks the time that
+    I started to understand the basics of the frequentist theory of statistical
+    confidence intervals.
+
+
 ATLAS talks
 -------------------------------------------------------------------------------
 
@@ -84,39 +111,12 @@ ATLAS experiment.
     in electron, muon, and tau decays (the first ATLAS measurements with taus).
 
 
-Data science, statistics, machine learning talks
--------------------------------------------------------------------------------
-
-1.  *[Diving into Deep Learning with keras using your ntuples](pdf/2016-10-07-RReece-Deep-Learning-Tutorial.pdf)*       
-    *2016/10/07, CERN, Meyrin, Switzerland*        
-    A tutorial I gave at CERN on training deep neural networks with keras,
-    and preparing high-energy physics datasets for machine learning.
-
-1.  *[pyframe](pdf/2011-09-21-RReece-pyframe-PAT.pdf)*     
-    *2011/09/21, CERN, Meyrin, Switzerland*        
-    Introduction to the python data selection framework I developed for
-    analyzing ROOT ntuple files and has been used by several physics measurments
-    and searches for new physics in the ATLAS Collaboration.
-
-1.  *[Likelihood functions for supersymmetric observables in frequentist analyses of the CMSSM and NUHM1](pdf/2009-09-29-RReece-Likelihood-functions-for-SUSY.pdf)*       
-    *2009/09/29, CERN, Meyrin, Switzerland*        
-    Discussion of a paper by the same name that I lead as a graduate student
-    for the Penn HEP Journal Club, mostly researchers in the ATLAS group.
-    Most of the talk is a primer on the method of maximum likelihood and how one uses
-    it to calculate confidence contours.
-    While low profile, this talk is important to me because it marks the time that
-    I started to understand the basics of the frequentist theory of statistical
-    confidence intervals.
-
-
 Philosophy of science talks
 -------------------------------------------------------------------------------
 
 Here's my selected list of public talks I have given on
 philosophy of science, in particular with focuses on
 philosophy of quantum mechanics, statistics, and machine learning.
-
-
 
 1.  *[Machine learning and realism](pdf/2017-03-16-RReece-Machine-learning-and-realism.pdf)*        
     *2017/03/16, Universit&auml;t Bremen, Bremen, Germany*        
