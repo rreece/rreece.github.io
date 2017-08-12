@@ -98,8 +98,6 @@ Contact
 --------------------------------------------------------------------------------
 
 
-[![](img/github-rreece.png)](https://github.com/rreece)
-
 ### What's here?
 
 -   [My github profile](https://github.com/rreece)
@@ -123,4 +121,5 @@ Contact
     -   [LinkedIn.com/in/ryanreece](https://www.linkedin.com/in/ryanreece/)
     -   [philpapers.org/profile/71785](http://philpapers.org/profile/71785)
     -   [plus.google.com/+RyanReece](https://plus.google.com/+RyanReece)
+
 
