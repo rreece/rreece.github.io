@@ -69,7 +69,7 @@ You can download my thesis [here](docs/CERN-THESIS-2013-075.pdf).
 Contact
 --------------------------------------------------------------------------------
 
-### Directy
+### Directly
 
 -   email: <img class="email" src="img/my-email.png" alt="my email address"/>
 -   skype: ryan.reece
