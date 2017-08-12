@@ -1,3 +1,102 @@
+This is my space on the web
+--------------------------------------------------------------------------------
+
+<img class="floatright" src="img/profile-pic-2.jpg"  width="280"  alt="Me in 2012"  title="Me in 2012" />
+
+Hi!  I'm Ryan.
+I am a postdoctoral researcher at the Santa Cruz Institute for Particle Physics (SCIPP),
+working with the ATLAS experiment at CERN.
+
+I have experience in data science, pattern recognition, statistical modeling, statistical inference, petabyte data reduction, and machine learning.
+
+Previously as a graduate student at Penn,
+also with ATLAS, I helped commission the Transition Radiation Tracker (TRT),
+a sub-detector of the ATLAS tracker, during the start-up of the Large Hadron Collider (LHC)
+in 2009-2012. In July of 2012, the ATLAS and CMS experiments both announced discovering
+a new particle consistent with the long-sought-after Higgs boson,
+a key to explaining electroweak symmetry breaking in the Standard Model of particle physics.
+
+My research has primarily focused on supporting and optimizing the reconstruction
+of hadronic tau decays, and searching for exotic new physics in ditau and diphoton events,
+including for signs of Grand Unified Theories and Supersymmetry.
+Many theories of physics beyond the Standard Model have revolutionary
+implications for the concepts of symmetry and space-time, and
+for our understanding of the early universe.
+
+
+Research Interests
+--------------------------------------------------------------------------------
+
+-   Data science and visualization
+-   Machine learning
+-   Statistical inference
+-   Searches for new physics
+-   Measuring properties of the Higgs boson
+-   Hadronic tau reconstruction and identification
+-   Philosophy of science and science communication
+
+
+![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png)
+
+
+I am involved in:
+
+-   Searching for evidence of supersymmetry in diphoton events
+-   Tau lepton physics
+-   Observation and cross section measurement of SM *Z&rarr;&tau;&tau;* 
+-   Searching for exotic *Z'&rarr;&tau;&tau;* events
+-   Member of the ATLAS Physics Office - helping manage paper submissions to journals and reviewing talks/posters
+
+
+### Curriculum Vitae
+
+-   You can see my CV here: [html](docs/Ryan_Reece_cv.html), [pdf](docs/Ryan_Reece_cv.pdf).
+-   See my [selected list of publications](publications/).
+-   See my [slides for my selected talks](talks/).
+
+
+### Thesis
+
+My graduate research was on the reconstruction and identification of hadronic tau decays,
+measuring the SM *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
+at *&radic;s* = 7 TeV,
+and searching for new physics in high-mass ditau events.
+You can download my thesis [here](docs/CERN-THESIS-2013-075.pdf).
+
+
+Contact
+--------------------------------------------------------------------------------
+
+-   email: <img class="email" src="img/my-email.png" alt="my email address"/>
+-   skype: ryan.reece
+-   +1-817-888-7010 (US)
+
+
+### Addresses
+
+<table>
+<thead>
+<tr class="header">
+<th align="left">UCSC Office</th>
+<!--  <th align="left">Mailbox</th> -->
+<th align="left">Home</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Ryan Reece (Nat.Sci.2 #317)<br/>Santa Cruz Institute for Particle Physics<br/>University of California<br/>1156 High St.<br/>Santa Cruz, CA 95064</td>
+<!-- <td align="left">Ryan Reece<br/>849 Almar Ave. Suite C #203<br/>Santa Cruz, CA 95060</td> -->
+<!-- <td align="left">Ryan Reece<br/>208 Woodrow Ave.<br/>Santa Cruz, CA 95060</td> -->
+<!-- <td align="left">Ryan Reece<br/>c/o Zach Marshall<br/>3001 Deakin St. Apt. #4<br/>Berkeley, CA 94705</td> -->
+<!-- <td align="left">Ryan Reece<br/>c/o Alex Tuna<br/>Avenue Wendt 36<br/>1203 Geneva, Switzerland</td> -->
+<td align="left">Ryan Reece<br/>116 Princeton St.<br/>Santa Cruz, CA 95060</td>
+</tr>
+</tbody>
+</table>
+
+
+--------------------------------------------------------------------------------
+
 
 [![](img/github-rreece.png)](https://github.com/rreece)
 
@@ -8,15 +107,6 @@
 -   [My selected list of publications](publications/)
 -   [My selected list of talks](talks/)
 -   Some other things I'll share someday
-
-
---------------------------------------------------------------------------------
-
-
-![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg)
-
-
---------------------------------------------------------------------------------
 
 
 ### My web presence elsewhere
