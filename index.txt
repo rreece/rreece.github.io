@@ -39,19 +39,24 @@ Research Interests
 ![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png)
 
 
-I am involved in:
+Current projects I am focussed on:
 
 -   Searching for evidence of supersymmetry in diphoton events
--   Tau lepton physics
+-   Research in applications of machine learning for particle identification with ILC-CLIC simulation data
+
+Previous focusses:
+
+-   Tau lepton identification and physics
 -   Observation and cross section measurement of SM *Z&rarr;&tau;&tau;* 
--   Searching for exotic *Z'&rarr;&tau;&tau;* events
--   Member of the ATLAS Physics Office - helping manage paper submissions to journals and reviewing talks/posters
+-   Searching for exotic Higgs and *Z'&rarr;&tau;&tau;* events
+-   Member of the ATLAS Physics Office helping manage paper submissions to journals,
+    review talks/posters, and keeping publication statistics for the collaboration
 
 
 ### Curriculum Vitae
 
--   My full academic CV is here: [html](docs/Ryan_Reece_cv.html), [pdf](docs/Ryan_Reece_cv.pdf).
--   A more brief resum&eacute;: [html](docs/Ryan_Reece_resume.html), [pdf](docs/Ryan_Reece_resume.pdf).
+-   My brief resum&eacute;: [html](docs/Ryan_Reece_resume.html), [pdf](docs/Ryan_Reece_resume.pdf).
+-   My full academic CV: [html](docs/Ryan_Reece_cv.html), [pdf](docs/Ryan_Reece_cv.pdf).
 -   [My selected list of publications](publications/).
 -   [My slides for my selected talks](talks/).
 -   [My selected software projects at github](sw/) and my github profile: [github.com/rreece](https://github.com/rreece)
@@ -59,7 +64,8 @@ I am involved in:
 
 ### Thesis
 
-My graduate research was on the reconstruction and identification of hadronic tau decays,
+My graduate research in particle physics was on the reconstruction and identification of
+hadronic tau decays with the ATLAS experiment,
 measuring the SM *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
 at *&radic;s* = 7 TeV,
 and searching for new physics in high-mass ditau events.
