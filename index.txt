@@ -97,9 +97,6 @@ Contact
 </table>
 
 
---------------------------------------------------------------------------------
-
-
 ### My web presence elsewhere
 
 -   [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/) -- my webpage about my research at UCSC
