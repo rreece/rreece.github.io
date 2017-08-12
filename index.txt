@@ -50,10 +50,11 @@ I am involved in:
 
 ### Curriculum Vitae
 
--   You can see my CV here: [html](docs/Ryan_Reece_cv.html), [pdf](docs/Ryan_Reece_cv.pdf).
--   See my [selected list of publications](publications/).
--   See my [slides for my selected talks](talks/).
--   See my [selected software projects at github](sw/) and my github profile: [github.com/rreece](https://github.com/rreece)
+-   My full academic CV is here: [html](docs/Ryan_Reece_cv.html), [pdf](docs/Ryan_Reece_cv.pdf).
+-   A briefer resum&eacute;: [html](docs/Ryan_Reece_resume.html), [pdf](docs/Ryan_Reece_resume.pdf).
+-   [My selected list of publications](publications/).
+-   [My slides for my selected talks](talks/).
+-   [My selected software projects at github](sw/) and my github profile: [github.com/rreece](https://github.com/rreece)
 
 
 ### Thesis
@@ -70,7 +71,7 @@ Contact
 
 -   email: <img class="email" src="img/my-email.png" alt="my email address"/>
 -   skype: ryan.reece
--   +1-817-888-7010 (US)
+-   cell: +1-817-888-7010
 
 
 ### Addresses
