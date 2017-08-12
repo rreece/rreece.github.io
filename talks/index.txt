@@ -5,7 +5,7 @@
 A collection of slides for a selection of talks given by Ryan Reece.
 
 
-Data science, statistics, machine learning talks
+Data science, statistics, machine learning
 -------------------------------------------------------------------------------
 
 Here's my selected list of talks I have given on analysis and computing techniques.
@@ -17,7 +17,7 @@ Here's my selected list of talks I have given on analysis and computing techniqu
 
 1.  *[pyframe](pdf/2011-09-21-RReece-pyframe-PAT.pdf)*     
     *2011/09/21, CERN, Meyrin, Switzerland*        
-    Introduction to the python data selection framework I developed for
+    An introduction to the python data selection framework I developed for
     analyzing ROOT ntuple files and has been used by several physics measurments
     and searches for new physics in the ATLAS Collaboration.
 
@@ -111,7 +111,7 @@ ATLAS experiment.
     in electron, muon, and tau decays (the first ATLAS measurements with taus).
 
 
-Philosophy of science talks
+Philosophy of science
 -------------------------------------------------------------------------------
 
 Here's my selected list of public talks I have given on
