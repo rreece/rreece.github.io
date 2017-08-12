@@ -44,7 +44,7 @@ Research Interests
 -   Searching for evidence of supersymmetry in diphoton events
 -   Research in applications of machine learning for particle identification with ILC-CLIC simulation data
 
-**Previous focusses:**
+**Previous focuses:**
 
 -   Tau lepton identification and physics
 -   Observation and cross section measurement of SM *Z&rarr;&tau;&tau;* 
