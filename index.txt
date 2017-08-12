@@ -5,7 +5,7 @@ This is my space on the web
 
 Hi!  I'm Ryan.
 I am a postdoctoral researcher at the [Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/),
-working with the ATLAS experiment at CERN.
+working with the [ATLAS experiment](https://atlas.cern/) at CERN.
 
 I have experience in data science, pattern recognition, statistical modeling, statistical inference, petabyte data reduction, and machine learning.
 
