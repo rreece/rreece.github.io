@@ -2,7 +2,7 @@
 ![](img/ryan-in-nagoya-2012.jpg "Me in Nagoya, Japan for Tau2012.")
 
 
-A collection of slides for a selection of public talks given by Ryan Reece.
+A collection of slides for a selection of talks given by Ryan Reece.
 
 
 Data science, statistics, machine learning talks
