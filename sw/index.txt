@@ -41,7 +41,7 @@ into valid xhtml or to a pdf via LaTeX. It basically consists of a Makefile and
 some html/css templates.  You can use it to make simple webpages *like this one*
 (for example, by writing [this simple markdown](https://rreece.github.io/sw/index.txt)).
 
-Repo: github.com/rreece/markdown-memo](https://github.com/rreece/markdown-memo)
+Repo: [github.com/rreece/markdown-memo](https://github.com/rreece/markdown-memo)
 
 
 pyframe
