@@ -32,7 +32,7 @@ Most of our development in the last year has been in the older "DLKit" version
 in bitbucket.
 We are currently doing a large code rewrite and have just begun
 releasing the newer "adlkit" version on github.
-Lot's more development for us is expected to happen there.
+Lots more development from us is expected to happen there.
 
 Repo: [github.com/anomalousdl/adlkit](https://github.com/anomalousdl/adlkit)
 
