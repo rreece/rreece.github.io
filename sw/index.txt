@@ -14,7 +14,7 @@ ipyhep
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/ipyhep">
-<img src="img/ipyhep-logo.png" alt="ipyhep-logo" width="300"/>
+<img src="img/ipyhep-logo.png" alt="ipyhep" width="300"/>
 </a>
 
 TODO: Need to describe this more.
@@ -24,6 +24,10 @@ Repo: [github.com/rreece/ipyhep](https://github.com/rreece/ipyhep)
 
 markdown2bib
 --------------------------------------------------------------------------------
+
+<a href="https://github.com/rreece/markdown2bib">
+<img src="img/markdown2bib-logo.png" alt="markdown2bib" width="600"/>
+</a>
 
 Converts simple markdown-formatted [APA](http://www.library.arizona.edu/search/reference/citation-apa.html)
 bibliographies to [bibtex](https://verbosus.com/bibtex-style-examples.html).
@@ -36,7 +40,7 @@ markdown-memo
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/markdown-memo">
-<img src="img/markdown-example.png" alt="markdown-example" width="600"/>
+<img src="img/markdown-example.png" alt="markdown" width="600"/>
 </a>
 
 This package makes it very easy to use [pandoc](http://johnmacfarlane.net/pandoc/)
@@ -52,7 +56,7 @@ pyframe
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/pyframe">
-<img src="img/process-cycle-fig.png" alt="pyframe-logo" width="500"/>
+<img src="img/process-cycle-fig.png" alt="pyframe" width="500"/>
 </a>
 
 This makes use of [pyrootutils](https://github.com/rreece/pyrootutils), described below.
@@ -65,7 +69,7 @@ pyrootutils
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/pyrootutils">
-<img src="img/pyrootutils-logo.png" alt="pyrootutils-logo" width="300"/>
+<img src="img/pyrootutils-logo.png" alt="pyrootutils" width="300"/>
 </a>
 
 A set of useful tools for taming pyroot.
@@ -79,7 +83,7 @@ rdrshell
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/rdrshell">
-<img src="img/rdrshell-bash-prompt.png" alt="rdrshell-bash-prompt" width="600"/>
+<img src="img/rdrshell-bash-prompt.png" alt="rdrshell" width="600"/>
 </a>
 
 An extensible organization of my bash dotfiles.
@@ -92,7 +96,7 @@ root2html
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/root2html">
-<img src="img/root2html-example.png" alt="root2html-example" width="600"/>
+<img src="img/root2html-example.png" alt="root2html" width="600"/>
 </a>
 
 This is a tool for visualizing many variables in multi-dimensional data.
@@ -106,7 +110,7 @@ rootnotes
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/rootnotes">
-<img src="img/rootnotes-logo.png" alt="rootnotes-logo" width="300"/>
+<img src="img/rootnotes-logo.png" alt="rootnotes" width="300"/>
 </a>
 
 TODO: Need to describe this more.
