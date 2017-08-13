@@ -73,6 +73,7 @@ markdown-memo
 <img src="img/markdown-example.png" alt="markdown" width="600"/>
 </a>
 
+This project is meant to make writing easier and more productive.
 This package makes it very easy to use [pandoc](http://johnmacfarlane.net/pandoc/)
 to compile notes taken in [Markdown](http://daringfireball.net/projects/markdown/syntax)
 into valid xhtml or to a pdf via LaTeX. It basically consists of a Makefile and
