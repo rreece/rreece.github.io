@@ -25,7 +25,7 @@ Some important features:
 
 -   Model persistence and bookkeeping
 -   Multi-process and threaded data generators
--   Check pointing and early exiting in training
+-   Check-pointing and early exiting in training
 -   Sparse tensors
 -   And more...
 
