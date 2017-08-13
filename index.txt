@@ -58,7 +58,7 @@ reconstruction and other classification problems.
 
 **Previous focuses:**
 
--   Commissioning, operations, and threshold calibration of the Transition Radiation Tracker
+-   Commissioning, operations, and threshold calibration of the ATLAS Transition Radiation Tracker
     [[1005.5254](https://arxiv.org/abs/1005.5254)]
 -   Tau lepton reconstruction and identification
     [[1412.7086](https://arxiv.org/abs/1412.7086)]
