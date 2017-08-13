@@ -82,7 +82,7 @@ reconstruction and other classification problems.
 
 My graduate research in particle physics was on the reconstruction and identification of
 hadronic tau decays with the ATLAS experiment,
-measuring the SM *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
+measuring the *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
 at *&radic;s* = 7 TeV,
 and searching for new physics in high-mass ditau events.
 You can download my thesis [here](docs/CERN-THESIS-2013-075.pdf).
