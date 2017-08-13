@@ -10,6 +10,33 @@ Please feel free to leave me comments below.
 <!-- PAGETOC -->
 
 
+adlkit
+--------------------------------------------------------------------------------
+
+Formerly [DLKit](https://bitbucket.org/anomalousai/dlkit),
+adlkit is deep learning framework that I am developing with
+Amir Farbin, Grayson Hilliard and others.
+It helps organize the submission and bookkeeping of several datasets and models
+and other helpful things needed
+when doing large scale training of deep neural networks.
+
+Some important features:
+
+-   Model Persistence and bookkeeping
+-   Multi-process and threaded data generators
+-   Check pointing and early exiting in training
+-   Sparse tensors
+-   And more...
+
+Most of our development in the last year has been in the older "DLKit" version
+in bitbucket.
+We are currently in a doing a large code rewrite and have just begun
+releasing the newer "adlkit" version on github.
+Lot's more development for us is expected to happen there.
+
+Repo: [github.com/anomalousdl/adlkit](https://github.com/anomalousdl/adlkit)
+
+
 ipyhep
 --------------------------------------------------------------------------------
 
