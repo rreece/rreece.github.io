@@ -136,10 +136,6 @@ Repo: [github.com/rreece/root2html](https://github.com/rreece/root2html)
 rootnotes
 --------------------------------------------------------------------------------
 
-<a href="https://github.com/rreece/rootnotes">
-<img src="img/rootnotes-logo.png" alt="rootnotes" width="300"/>
-</a>
-
 TODO: Need to describe this more.
 
 Repo: [github.com/rreece/rootnotes](https://github.com/rreece/rootnotes)
