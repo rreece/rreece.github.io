@@ -57,7 +57,7 @@ Research Interests
 
 ### Curriculum Vitae
 
--   My brief resum&eacute;: [html](docs/Ryan_Reece_resume.html), [pdf](docs/Ryan_Reece_resume.pdf)
+-   My brief r&eacute;sum&eacute;: [html](docs/Ryan_Reece_resume.html), [pdf](docs/Ryan_Reece_resume.pdf)
 -   My full academic CV: [html](docs/Ryan_Reece_cv.html), [pdf](docs/Ryan_Reece_cv.pdf)
 -   [My selected list of publications](publications/)
 -   [My slides for my selected talks](talks/)
