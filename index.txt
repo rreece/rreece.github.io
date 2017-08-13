@@ -37,7 +37,7 @@ my research has transitioned to using deep learning techniques for particle phys
 reconstruction and other classification problems.
 
 -   Data science and visualization
--   Machine learning
+-   Machine learning: deep neural nets, anomaly detection
 -   Statistical inference
 -   Searches for new physics
 -   Measuring properties of the Higgs boson
