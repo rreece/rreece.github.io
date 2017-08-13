@@ -77,7 +77,8 @@ reconstruction and other classification problems.
 -   My full academic curriculum vitae: [html](docs/Ryan_Reece_cv.html), [pdf](docs/Ryan_Reece_cv.pdf)
 -   [My selected list of publications](publications/)
 -   [My slides for my selected talks](talks/)
--   [My selected software projects at github](sw/) and my github profile: [github.com/rreece](https://github.com/rreece)
+-   [My selected software projects at github](sw/) &#8701; my cool code here!      
+    and my github profile: [github.com/rreece](https://github.com/rreece)
 
 
 ### Thesis
