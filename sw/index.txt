@@ -7,15 +7,19 @@ Read more about me and my research [here](http://reece.scipp.ucsc.edu/).
 This page describes some projects I'm [developing at github](https://github.com/rreece).
 Please feel free to leave me comments below.
 
+<!-- PAGETOC -->
 
-### Contents:
 
-1.  [markdown2bib](#markdown2bib)
-1.  [markdown-memo](#markdown-memo)
-1.  [pyframe](#pyframe)
-1.  [pyrootutils](#pyrootutils)
-1.  [rdrshell](#rdrshell)
-1.  [root2html](#root2html)
+ipyhep
+--------------------------------------------------------------------------------
+
+<a href="https://github.com/rreece/ipyhep">
+<img src="img/ipyhep-logo.png" alt="ipyhep-logo" width="300"/>
+</a>
+
+TODO: Need to describe this more.
+
+Repo: [github.com/rreece/ipyhep](https://github.com/rreece/ipyhep)
 
 
 markdown2bib
@@ -96,5 +100,17 @@ It is a script that generates html and images from a [ROOT](https://root.cern.ch
 file of TCanvases for visualizing a list of plots.
 
 Repo: [github.com/rreece/root2html](https://github.com/rreece/root2html)
+
+
+rootnotes
+--------------------------------------------------------------------------------
+
+<a href="https://github.com/rreece/rootnotes">
+<img src="img/rootnotes-logo.png" alt="rootnotes-logo" width="300"/>
+</a>
+
+TODO: Need to describe this more.
+
+Repo: [github.com/rreece/rootnotes](https://github.com/rreece/rootnotes)
 
 
