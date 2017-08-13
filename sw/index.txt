@@ -45,7 +45,9 @@ ipyhep
 <img src="img/ipyhep-logo.png" alt="ipyhep" width="500"/>
 </a>
 
-TODO: Need to describe this more.
+ipyhep is a Python package I have developed for making plots that are common
+in high-energy physics, most importantly stacked histograms,
+with *[PyROOT](https://root.cern.ch/pyroot) and [Jupyter](http://jupyter.org/) notebooks*.
 
 Repo: [github.com/rreece/ipyhep](https://github.com/rreece/ipyhep)
 
@@ -87,8 +89,13 @@ pyframe
 <img src="img/process-cycle-fig.png" alt="pyframe" width="500"/>
 </a>
 
+This Python package is a framework for doing event-by-event processing of
+[ROOT](https://root.cern.ch/) ntuple files.
+Several analyses for measurements and searches for new physics with the ATLAS detector
+were preformed with this framework or derivatives of it.
+A wiki for an older, implementation specific for ATLAS is
+[here](https://twiki.cern.ch/twiki/bin/view/Sandbox/PyFrame).
 This makes use of [pyrootutils](https://github.com/rreece/pyrootutils), described below.
-TODO: Need to describe this more.
 
 Repo: [github.com/rreece/pyframe](https://github.com/rreece/pyframe)
 
@@ -100,9 +107,9 @@ pyrootutils
 <img src="img/pyrootutils-logo.png" alt="pyrootutils" width="300"/>
 </a>
 
-A set of useful tools for taming pyroot.
-
-TODO: Need to describe this more.
+A set of useful tools for taming [pyroot](https://root.cern.ch/pyroot).
+This package has my default implementations for how to read and write
+trees/ntuples/files with pyroot.
 
 Repo: [github.com/rreece/pyrootutils](https://github.com/rreece/pyrootutils)
 
@@ -137,7 +144,10 @@ Repo: [github.com/rreece/root2html](https://github.com/rreece/root2html)
 rootnotes
 --------------------------------------------------------------------------------
 
-TODO: Need to describe this more.
+This is a python module that allows [ROOT](https://root.cern.ch/) to be
+integrated into [Jupyter](http://jupyter.org/) notebooks.
+It was first developed by [Alexander Mazurov](http://mazurov.github.io/webfest2013/),
+but I have extended it.
 
 Repo: [github.com/rreece/rootnotes](https://github.com/rreece/rootnotes)
 
