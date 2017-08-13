@@ -14,7 +14,7 @@ ipyhep
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/ipyhep">
-<img src="img/ipyhep-logo.png" alt="ipyhep" width="300"/>
+<img src="img/ipyhep-logo.png" alt="ipyhep" width="500"/>
 </a>
 
 TODO: Need to describe this more.
@@ -26,7 +26,7 @@ markdown2bib
 --------------------------------------------------------------------------------
 
 <a href="https://github.com/rreece/markdown2bib">
-<img src="img/markdown2bib-logo.png" alt="markdown2bib" width="600"/>
+<img src="img/markdown2bib-logo.png" alt="markdown2bib" width="300"/>
 </a>
 
 Converts simple markdown-formatted [APA](http://www.library.arizona.edu/search/reference/citation-apa.html)
