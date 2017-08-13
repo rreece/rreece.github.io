@@ -17,16 +17,24 @@ in 2009-2012. In July of 2012, the ATLAS and CMS experiments both announced disc
 a new particle consistent with the long-sought-after Higgs boson,
 a key to explaining electroweak symmetry breaking in the Standard Model of particle physics.
 
+I am passionate about using scientific techniques to solve important problems
+and about how technology extends our reach.
+
+
+Research Interests
+--------------------------------------------------------------------------------
+
 My research has primarily focused on supporting and optimizing the reconstruction
 of hadronic tau decays, and searching for exotic new physics in ditau and diphoton events,
 including for signs of Grand Unified Theories and Supersymmetry.
 Many theories of physics beyond the Standard Model have revolutionary
 implications for the concepts of symmetry and space-time, and
 for our understanding of the early universe.
-
-
-Research Interests
---------------------------------------------------------------------------------
+Searching for new physics in collider data involves detecting rare events
+among many, requiring big data reductions, and statistical hypothesis testing.
+More recently, for the last year,
+my research has transitioned to using deep learning techniques in classification problems
+in particle physics.
 
 -   Data science and visualization
 -   Machine learning
@@ -43,7 +51,8 @@ Research Interests
 **Current projects I am focused on:**
 
 -   Searching for evidence of supersymmetry in diphoton events
--   Research in applications of machine learning for particle identification with ILC-CLIC simulation data
+-   Research in applications of machine learning for particle identification
+    ($e/\gamma/\pi^0$) with ILC-CLIC simulation data
 -   Understanding the best techniques for clustering and anomaly detection
 
 **Previous focuses:**
