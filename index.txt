@@ -50,7 +50,7 @@ reconstruction and other classification problems.
 
 **Current projects I am focused on:**
 
--   Searching for evidence of supersymmetry in diphoton events
+-   ATLAS searches for evidence of supersymmetry in diphoton events
     [[1507.05493](https://arxiv.org/abs/1507.05493), [1606.09150](https://arxiv.org/abs/1606.09150)]
 -   Research in applications of machine learning for particle identification
     ($e/\gamma/\pi^0$) with ILC-CLIC simulation data
@@ -60,11 +60,11 @@ reconstruction and other classification problems.
 
 -   Commissioning, operations, and threshold calibration of the ATLAS Transition Radiation Tracker
     [[1005.5254](https://arxiv.org/abs/1005.5254)]
--   Tau lepton reconstruction and identification
+-   ATLAS tau reconstruction and identification
     [[1412.7086](https://arxiv.org/abs/1412.7086)]
--   Observation and cross section measurement of SM *Z&rarr;&tau;&tau;* 
+-   ATLAS observation and cross section measurement of SM *Z&rarr;&tau;&tau;* 
     [[1108.2016](https://arxiv.org/abs/1108.2016)]
--   Searching for exotic Higgs and *Z'&rarr;&tau;&tau;* events
+-   ATLAS searches for exotic Higgs and *Z'&rarr;&tau;&tau;* events
     [[1210.6604](https://arxiv.org/abs/1210.6604), [1502.07177](https://arxiv.org/abs/1502.07177)]
 -   Member of the ATLAS Physics Office helping manage paper submissions to journals,
     review talks/posters, and keeping publication statistics for the collaboration
