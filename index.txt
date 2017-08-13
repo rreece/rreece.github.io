@@ -39,7 +39,7 @@ Research Interests
 ![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png)
 
 
-**Current projects I am focussed on:**
+**Current projects I am focused on:**
 
 -   Searching for evidence of supersymmetry in diphoton events
 -   Research in applications of machine learning for particle identification with ILC-CLIC simulation data
