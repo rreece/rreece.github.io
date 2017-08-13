@@ -14,7 +14,7 @@ adlkit
 --------------------------------------------------------------------------------
 
 Formerly [DLKit](https://bitbucket.org/anomalousai/dlkit),
-adlkit is deep learning framework that I am developing with
+adlkit is a deep learning framework that I am developing with
 Amir Farbin, Grayson Hilliard and others.
 It helps organize the submission and bookkeeping of several datasets and models
 and other helpful things needed
