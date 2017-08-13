@@ -148,7 +148,7 @@ rootnotes
 This is a python module that allows [ROOT](https://root.cern.ch/) to be
 integrated into [Jupyter](http://jupyter.org/) notebooks.
 It was first developed by [Alexander Mazurov](http://mazurov.github.io/webfest2013/),
-but I have extended it, and it is used by [ipyhep](#sec:ipyhep),
+but I have extended it, and it is used by [ipyhep](#sec:ipyhep).
 
 
 Repo: [github.com/rreece/rootnotes](https://github.com/rreece/rootnotes)
