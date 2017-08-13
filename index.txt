@@ -20,7 +20,7 @@ a key to explaining electroweak symmetry breaking in the
 of particle physics.
 
 I've spent 10 years romping through datasets from ATLAS,
-learning how to explore and model large multidimentional datasets.
+learning how to explore and model large, multidimentional datasets.
 I have a knack for [developing data analysis frameworks](http://rreece.github.io/sw/)
 and an eye for technical detail and [good scholarship](http://rreece.github.io/publications/).
 I am passionate about using scientific techniques to solve important problems
