@@ -1,7 +1,7 @@
 
 [![](../img/github-rreece.png)](https://github.com/rreece)
 
-I'm a physicist working with the ATLAS experiment at CERN.
+I'm a physicist working with the [ATLAS experiment](http://atlas.cern/) at CERN.
 Read more about me and my research [here](http://rreece.github.io/).
 
 This page describes some projects I'm [developing at github](https://github.com/rreece).
@@ -94,7 +94,7 @@ pyframe
 
 This Python package is a framework for doing event-by-event processing of
 [ROOT](https://root.cern.ch/) ntuple files.
-Several analyses for measurements and searches for new physics with the ATLAS detector
+Several analyses for measurements and searches for new physics with the [ATLAS detector](http://atlas.cern/)
 were preformed with this framework or derivatives of it.
 A wiki for an older implementation specific for ATLAS is
 [here](https://twiki.cern.ch/twiki/bin/view/Sandbox/PyFrame).
