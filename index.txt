@@ -55,7 +55,7 @@ reconstruction and other classification problems.
 ![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png)
 
 
-**Current projects I am focused on:**
+### Current projects I am focused on
 
 -   ATLAS searches for evidence of supersymmetry in diphoton events
     [[1507.05493](https://arxiv.org/abs/1507.05493), [1606.09150](https://arxiv.org/abs/1606.09150)]
@@ -63,7 +63,8 @@ reconstruction and other classification problems.
     ($e/\gamma/\pi^0$) with ILC-CLIC simulation data
 -   Understanding the best ML techniques for clustering and anomaly detection
 
-**Previous focuses:**
+
+### Previous focuses
 
 -   Commissioning, operations, and threshold calibration of the ATLAS Transition Radiation Tracker
     [[1005.5254](https://arxiv.org/abs/1005.5254)]
