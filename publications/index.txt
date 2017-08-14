@@ -3,7 +3,7 @@ Here you will find lists of my selected publications.
 
 ### Curriculum Vitae
 
-First, note that you can get my CV here: [html](../docs/Ryan_Reece_cv.html), [pdf](../docs/Ryan_Reece_cv.pdf).
+First, note that you can get my CV here: [html](../docs/Ryan-Reece-cv.html), [pdf](../docs/Ryan-Reece-cv.pdf).
 
 
 ### Ph.D. thesis
