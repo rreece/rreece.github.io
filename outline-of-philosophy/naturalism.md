@@ -74,6 +74,9 @@ plausibility given the information from science.
 
 Also compare with the model of levels in @Oppenheim_1958_Unity_of_science_as_a_working_hypothesis.
 
+Alex Rosenberg is a mad dog against emergence. Video:
+[Alex Rosenberg interviewed for *Why Are We Here?*](https://www.whyarewehere.tv/people/alex-rosenberg/)
+
 
 ![Reductionism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism)).](img/reductionism.png){#fig:reductionism}
 
