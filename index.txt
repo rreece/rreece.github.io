@@ -52,7 +52,7 @@ reconstruction and other classification problems.
 -   Philosophy of science and science communication
 
 
-![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png "Flow, data flow.")
+![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png "Flow, data, flow.")
 
 
 ### Current projects I am focused on
