@@ -109,6 +109,11 @@ See the outline on [Naturalism](naturalism.html).
 [^Baez-2016]: @Baez_2016_Struggles_with_the_Continuum\.
 
 
+### Algebra
+
+-   TODO
+
+
 My thoughts
 --------------------------------------------------------------------------------
 
