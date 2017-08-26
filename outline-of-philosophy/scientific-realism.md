@@ -175,16 +175,19 @@ All statements that can't be empirically verified are meaningless.
 
 -   anti-realist
 -   Auguste Comte
+-   Wittgenstein
+-   @Wittgenstein_1922_Tractatus_Logico_Philosophicus\. *Tractatus Logico-Philosophicus*.
 -   Ernst Mach
 -   The Vienna Circle
--   Carnap, Neurath, Wittgenstein, Frege, von Neuman, Hilbert
+-   Ayer, Carnap, Neurath, Wittgenstein, Frege, von Neuman, Hilbert
+-   @Ayer_1952_Language_truth_and_logic\. *Language, Truth, and Logic*.
+-   Hans Reichenbach (1891-1953)
 -   verificationism, nominalism, quietism
 -   Russel, G&#246;del
 -   Carnap's "ESO"[^Carnap-1950]
 -   Quine's "Two Dogmas"[^Quine-1951]
 -   Carnap's "Logical Foundations of Science"[^Carnap-1955]
 -   Scheinproblem = Pseudo-problem
--   Hans Reichenbach (1891-1953)
 
 Note any differences between:
 
@@ -194,7 +197,8 @@ Note any differences between:
 
 The "death" of positivism:
 
--   Wittgenstein, *Philosophical Investigations*, ordinary language philosophy
+-   @Wittgenstein_1922_Tractatus_Logico_Philosophicus\. *Philosophical Investigations*
+    -   ordinary language philosophy
 -   Kuhn
 -   anti-positivism, post-structuralism, postmodernism (continental)
 
