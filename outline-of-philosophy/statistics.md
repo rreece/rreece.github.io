@@ -19,21 +19,42 @@ Issues and positions
 
 -   Hume
 
-### Statistical measurement
+
+### Probability and uncertanty
 
 -   Frequentist vs Bayesian probability
 -   Accuracy vs precision
+
+
+### Statistical measurement
+
 -   Jerzy Neyman, Egon Pearson, Ronald Fisher
 -   Likelihood principle
--   Statistical hypothesis testing: power and confidence
--   Neyman-Pearson lemma
+
+
+### Point estimation and confidence intervals
+
+-   regression
+-   MLE: Maximum likelihood estimators
 -   Cram&#233;r-Rao bound
--   Wilks/Wald
--   Type-1 and type-2 systematic errors
--   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekko Sinervo (PhyStat2003)
 -   Flip-flopping and Feldman-Cousins confidence intervals
 
+
+### Statistical hypothesis testing
+
+-   classification
+-   Power and confidence
+-   Neyman-Pearson lemma
+-   Wilks/Wald
+
+
+### Uncertainties
+
+-   Type-1 and type-2 systematic errors
+-   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekko Sinervo (PhyStat2003)
+
 ![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties)).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
+
 
 ### P-value controversy
 
@@ -41,9 +62,11 @@ Issues and positions
 -   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
 -   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375)
 
+
 ### Machine learning
 
--   TODO
+-   classification and regression
+-   supervised and unsupervised learning
 
 
 My thoughts
