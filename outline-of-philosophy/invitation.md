@@ -28,7 +28,7 @@ Philosophy of science asks:
 In our modern information age,
 the evident power of science to elevate our awareness and bring us new
 technological capabilities
-underscores the relevance of philosophical investigations of 
+underscores the relevance of philosophical investigations into
 what science is, what understanding it brings,
 and what its implications are.
 
@@ -48,18 +48,21 @@ generally consists of varying degrees of either or both:
     of justifying empirical claims as a route to knowledge,
     if not the chief or perhaps (with a sufficiently broad definition)
     the only route to knowledge.
-    Science should be guiding in what we claim to know.
+    *Science should be guiding in what we claim to know*.
 2.  ***ontological naturalism*** - has a variety of claims and interpretations,
-    but they center on the premise that if we have any claim to what is,
+    but they center on the premise that if we have any claim to what there is,
     it better be informed by and consistent with science.
-    It often involves a skepticism of *a priori* metaphysics,
+    It often involves a skepticism of *a priori* metaphysics
+    (statements about what there is that come prior to empirical information),
     and sometimes has further qualified ontological commitments to the products of science,
     which concerns the debate of [scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html).
     Another claim associated with ontological naturalism and closely
     related to epistemological naturalism is a rejection of ontologies to which we
     do not have demonstrable access *i.e.* supernatural entities,
     which can be seen as a claim to a type of monism as opposed to dualism about ontology.
-    At the least, it is a claim that science should be guiding in what we claim there is.
+    There is one (natural) world.
+    At the least, it is a claim that
+    *science should be guiding in what we claim there is*.
 
 At its simplest, perhaps [naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
 can be summarized as a rejection of *a priori* speculation
