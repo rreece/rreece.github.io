@@ -20,7 +20,7 @@ All the following are in flux and development:
 1.  [Philosophy of the future](future.html) -- Where are we going?
 
 
-### Note this is under construction
+### Note: this is under construction
 
 This site is my working draft of notes from philosophy papers I read.
 I share it here for collaborators and perhaps general interest (when I get it better organized).
