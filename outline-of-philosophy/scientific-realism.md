@@ -197,7 +197,7 @@ Note any differences between:
 
 The "death" of positivism:
 
--   @Wittgenstein_1922_Tractatus_Logico_Philosophicus\. *Philosophical Investigations*
+-   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
     -   ordinary language philosophy
 -   Kuhn
 -   anti-positivism, post-structuralism, postmodernism (continental)
