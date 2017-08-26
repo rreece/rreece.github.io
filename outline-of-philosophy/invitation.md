@@ -58,9 +58,9 @@ generally consists of varying degrees of either or both:
     which concerns the debate of [scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html).
     Another claim associated with ontological naturalism and closely
     related to epistemological naturalism is a rejection of ontologies to which we
-    do not have demonstrable access *i.e.* supernatural entities,
+    do not have demonstrable, access *i.e.* supernatural entities,
     which can be seen as a claim to a type of monism as opposed to dualism about ontology.
-    There is one (natural) world.
+    There is *one* (natural) world.
     At the least, it is a claim that
     *science should be guiding in what we claim there is*.
 
@@ -76,10 +76,11 @@ and the new questions we ask about it should be informed by science.
 
 TODO:
 
--   expand this before it is immediately misunderstood.
+-   Naturalism has its roots in the Ionian enlightenment.
 -   David Hume, Hans Reichenbach, W.V.O. Quine, Wilfrid Sellars.
 -   Philosophy is continuous with science (Quine).
 -   Philosophy is a nursery for budding sciences.
+-   Expand this before it is immediately misunderstood.
 
 
 Why should I care?
@@ -93,7 +94,7 @@ basic disagreements about the nature of science and
 its implications for a worldview
 are central to many of our cultural and politcal divisions.
 
--   "Why Do Many Reasonable People Doubt Science?"[^Achenbach2015]
+-   Achenbach, J. (2015). Why Do Many Reasonable People Doubt Science?[^Achenbach2015]
 
 [^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\.
 
@@ -113,32 +114,32 @@ A place to start in the discussion of philosophy of science and naturalism
 
 ### Popular articles:
 
--   @Rosenberg_2011_Why_I_am_a_naturalist\. ["Why I am a naturalist."](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) *New York Times*.
--   @Sartwell_2015_Philosophy_returns_to_the_real_world\. ["Philosophy Returns to the Real World."](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) *New York Times*.
+-   @Rosenberg_2011_Why_I_am_a_naturalist\. [Why I am a naturalist.](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) *New York Times*.
+-   @Sartwell_2015_Philosophy_returns_to_the_real_world\. [Philosophy Returns to the Real World.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) *New York Times*.
 
 
 ### Encyclopedia review articles:
 
--   Chakravartty, A. (2011). ["Scientific Realism."](http://plato.stanford.edu/entries/scientific-realism/) *SEP*.
--   Jacobs, J. (2002). ["Naturalism."](http://www.iep.utm.edu/naturali/) *IEP*.
+-   Chakravartty, A. (2011). [Scientific Realism.](http://plato.stanford.edu/entries/scientific-realism/) *SEP*.
+-   Jacobs, J. (2002). [Naturalism.](http://www.iep.utm.edu/naturali/) *IEP*.
 
 
 ### Some articles bookending the realism debate:
 
--   @Carnap_1950_Empiricism_Semantics_and_Ontology\. ["Empiricism, Semantics, and Ontology."](docs/1950.Carnap.Empiricism-Semantics-Ontology.pdf) -- anti-realist (positivist)
--   @Frigg_2011_Everything_you_always_wanted_to_know_about\. ["Everything you always wanted to know about structural realism but were afraid to ask".](docs/2011.Frigg-Votsis.Everything-you-always-wanted-to-know-about-structural-realism-but-were-afraid-to-ask.pdf) -- structural realist
+-   @Carnap_1950_Empiricism_Semantics_and_Ontology\. [Empiricism, Semantics, and Ontology.](docs/1950.Carnap.Empiricism-Semantics-Ontology.pdf) -- anti-realist (positivist)
+-   @Frigg_2011_Everything_you_always_wanted_to_know_about\. [Everything you always wanted to know about structural realism but were afraid to ask.](docs/2011.Frigg-Votsis.Everything-you-always-wanted-to-know-about-structural-realism-but-were-afraid-to-ask.pdf) -- structural realist
 
 
 ### Review article on the philosophy of math:
 
--   @Snapper_1979_The_three_crises_in_mathematics_Logicism\. ["The Three Crises in Mathematics: Logicism, Intuitionism, Formalism".](docs/1979.Snapper.three-crises-in-mathematics.pdf)
+-   @Snapper_1979_The_three_crises_in_mathematics_Logicism\. [The Three Crises in Mathematics: Logicism, Intuitionism, Formalism.](docs/1979.Snapper.three-crises-in-mathematics.pdf)
 
 
 ### Books on naturalized metaphysics:
 
 -   @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\. [*Every Thing Must Go: Metaphysics Naturalized*](https://www.academia.edu/2807083/In_defence_of_scientism). - [review by Cian Dorr, Oxford University](https://ndpr.nd.edu/news/24377-every-thing-must-go-metaphysics-naturalized/)
 -   @Ross_2013_Scientific_Metaphysics\. *Scientific Metaphysics*. - [review by Richard Healey, University of Arizona](http://ndpr.nd.edu/news/41185-scientific-metaphysics/)
-    - Introductory chapter by Kincaid (in full): ["Introduction: Pursuing a Naturalist Metaphysics"](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1)
+    - Introductory chapter by Kincaid (in full): [Introduction: Pursuing a Naturalist Metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1)
     
 
 ### Other links:
