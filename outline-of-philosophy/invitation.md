@@ -92,11 +92,18 @@ naturalism says that the way we should think about the world
 and the new questions we ask about it should be informed by science.
 
 Naturalism has its roots in the Ionian enlightenment.
+From there, it has shaped the scientific revolution.
+In many philosophical movements and counter-movements
+naturalism has evolved and been refined.
+Heroes for the naturalist include Thales, Protagoras, Democritus, 
+Epicurus, Lucretius, Newton, Hume, Reichenbach, Sellars, Quine, 
+and others.
+
+An important view of philosophy for a naturalist is that philosophy is continuous with science.
+TODO: Quine.
 
 TODO:
 
--   David Hume, Hans Reichenbach, W.V.O. Quine, Wilfrid Sellars.
--   Philosophy is continuous with science (Quine).
 -   Philosophy is a nursery for budding sciences.
 -   Expand this before it is immediately misunderstood.
 
