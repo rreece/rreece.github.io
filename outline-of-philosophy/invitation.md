@@ -94,9 +94,7 @@ basic disagreements about the nature of science and
 its implications for a worldview
 are central to many of our cultural and politcal divisions.
 
--   Achenbach, J. (2015). Why Do Many Reasonable People Doubt Science?[^Achenbach2015]
-
-[^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\.
+-   @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. [Why Do Many Reasonable People Doubt Science?](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text)
 
 Who do I want to reach with this argument?
 
