@@ -198,7 +198,9 @@ Note any differences between:
 The "death" of positivism:
 
 -   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
-    -   ordinary language philosophy
+    -   Ordinary language philosophy
+    -   An imprtant project is to understand the differences between early (*TLP*)
+        and late (*PI*) Wittgenstein. It is quite the about-face.
 -   Kuhn
 -   anti-positivism, post-structuralism, postmodernism (continental)
 
