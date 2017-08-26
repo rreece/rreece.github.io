@@ -29,6 +29,15 @@ I hope to pubish these outlines or some version of them on my blog:
 [statisticalsignificance.net](http://statisticalsignificance.net/).
 
 
+### Scope disclaimer
+
+While the scope of this project is ambitiously large,
+clearly it cannot pretend to represent *all* of philosophy by any stretch.
+This is a meandering of one person through his own thoughts on philosophy,
+a meandering that is primarily Western and focused on empiricism,
+although not entirely.
+
+
 Also developing here
 --------------------------------------------------------------------------------
 
