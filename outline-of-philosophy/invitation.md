@@ -118,8 +118,8 @@ A place to start in the discussion of philosophy of science and naturalism
 
 ### Encyclopedia review articles:
 
--   Chakravartty, A. (2011). [Scientific Realism.](http://plato.stanford.edu/entries/scientific-realism/) *SEP*.
--   Jacobs, J. (2002). [Naturalism.](http://www.iep.utm.edu/naturali/) *IEP*.
+-   @Chakravartty_2011_Scientific_realism\. [Scientific Realism.](http://plato.stanford.edu/entries/scientific-realism/) *SEP*.
+-   @Jacobs_2002_Naturalism\. [Naturalism.](http://www.iep.utm.edu/naturali/) *IEP*.
 
 
 ### Some articles bookending the realism debate:
