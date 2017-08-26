@@ -25,7 +25,9 @@ but its concerns have implications as radical as delineating
 *how we arrive at knowledge* and
 *how much if anything can be known about reality*.
 These issues are part of broader divisions in philosophy:
-epistemology (how do we know?) and metaphysics (what exists?), respectively.
+
+-   *epistemology* ~ how do we know?
+-   *metaphysics* ~ what exists?
 
 Philosophy of science asks:
 
