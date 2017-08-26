@@ -91,9 +91,10 @@ but once science is actively producing knowledge,
 naturalism says that the way we should think about the world
 and the new questions we ask about it should be informed by science.
 
+Naturalism has its roots in the Ionian enlightenment.
+
 TODO:
 
--   Naturalism has its roots in the Ionian enlightenment.
 -   David Hume, Hans Reichenbach, W.V.O. Quine, Wilfrid Sellars.
 -   Philosophy is continuous with science (Quine).
 -   Philosophy is a nursery for budding sciences.
