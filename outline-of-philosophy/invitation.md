@@ -1,6 +1,22 @@
 Invitation
 ================================================================================
 
+<!-- PAGETOC -->
+
+
+What is this?
+--------------------------------------------------------------------------------
+
+This site is my working draft of notes from thinking about philosophy.
+While the scope of this project is ambitiously large,
+clearly it cannot pretend to represent *all* of philosophy by any stretch.
+This is a meandering of one person through his own thoughts on philosophy,
+a meandering that is primarily western and focused on empiricism,
+although not entirely.
+I want to highlight the importance of science in constructing an acurate worldview,
+or to what degree we can expect science to acurately describe the world.
+An important word in these outlines will be "*naturalism*".
+
 
 What is philosophy of science?
 --------------------------------------------------------------------------------
