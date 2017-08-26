@@ -69,6 +69,11 @@ Issues and positions
 -   supervised and unsupervised learning
 
 
+### Implications for realism
+
+-   TODO
+-   See the outline on [scientific realism](scientific-realism.html)
+
 My thoughts
 --------------------------------------------------------------------------------
 
