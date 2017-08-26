@@ -1,8 +1,6 @@
 Invitation
 ================================================================================
 
-<!-- PAGETOC -->
-
 
 What is this?
 --------------------------------------------------------------------------------
@@ -13,9 +11,10 @@ clearly it cannot pretend to represent *all* of philosophy by any stretch.
 This is a meandering of one person through his own thoughts on philosophy,
 a meandering that is primarily western and focused on empiricism,
 although not entirely.
-I want to highlight the importance of science in constructing an acurate worldview,
-or to what degree we can expect science to acurately describe the world.
-An important word in these outlines will be "*naturalism*".
+I want to highlight the importance of science in constructing an accurate worldview,
+and/or to explore to what degree we can expect science to accurately describe the world.
+An important set of ideas in these outlines is associated with *naturalism*,
+which will be roughly defined bellow.
 
 
 What is philosophy of science?
