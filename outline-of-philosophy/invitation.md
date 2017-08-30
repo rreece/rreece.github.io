@@ -32,15 +32,15 @@ These issues are part of broader divisions in philosophy:
 Philosophy of science asks:
 
 -   What is science?
--   Do the diverse inquiries called science
+-   Do the diverse inquiries called "science"
     have an underlying, universal, scientific method, and if so, what is it?
 -   How can we tell science from not science, and what is pseudoscience?
--   Is science a way of producing knowledge, and if so, are there other
-    ways of knowing?
--   What should we say of the products of science,
-    and in particular, does science make any progress at
+-   Is science a way of producing knowledge?
+    And if so, are there other ways of knowing?
+-   What should we say of the products of science?
+    In particular, does science make any progress at
     revealing or approximating truth?
--   Where has science taken us and where is it going?
+-   Where has science taken us, and where is it going?
 
 In our modern information age,
 the evident power of science to elevate our awareness and bring us new
@@ -82,6 +82,9 @@ generally consists of varying degrees of either or both:
     At the least, it is a claim that
     *science should be guiding in what we claim there is*.
 
+An important view of philosophy for a naturalist is that
+science and philosophy have common concerns and territory;
+philosophy is continuous with science.
 At its simplest, perhaps [naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
 can be summarized as a rejection of *a priori* speculation
 and a support for a science-first philosophy,
@@ -95,18 +98,10 @@ and the new questions we ask about it should be informed by science.
 Naturalism has its roots in the Ionian enlightenment.
 From there, it has shaped the scientific revolution.
 In many philosophical movements and counter-movements
-naturalism has evolved and been refined.
-Heroes for the naturalist include Thales, Protagoras, Democritus, 
+elements of naturalism have evolved and been refined.
+Heroes for naturalism include Thales, Protagoras, Democritus, 
 Epicurus, Lucretius, Newton, Hume, Reichenbach, Sellars, Quine, 
-and others.
-
-An important view of philosophy for a naturalist is that philosophy is continuous with science.
-TODO: Quine.
-
-TODO:
-
--   Philosophy is a nursery for budding sciences.
--   Expand this before it is immediately misunderstood.
+and many others.
 
 
 Why should I care?
