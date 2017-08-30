@@ -113,6 +113,11 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 -   [watch the 3 episodes](http://topdocumentaryfilms.com/atom-tim/)
 
+### Quantum field theory
+
+-   Haag-&#321;opusza&#324;ski-Sohnius theorem
+
+
 ### Interpretations of quantum mechanics
 
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
@@ -302,6 +307,7 @@ Links and encyclopedia articles
 -   [C*-algebra](https://en.wikipedia.org/wiki/C*-algebra)
 -   [Casimir effect](https://en.wikipedia.org/wiki/Casimir_effect)
 -   [Causal Processes](http://plato.stanford.edu/entries/causation-process/)
+-   [Causal perturbation theory](https://en.wikipedia.org/wiki/Causal_perturbation_theory)
 -   [Central limit theorem](http://en.wikipedia.org/wiki/Central_limit_theorem)
 -   [Causality](http://en.wikipedia.org/wiki/Causality_(physics))
 -   [CHSH inequality](http://en.wikipedia.org/wiki/CHSH_inequality)
@@ -328,6 +334,8 @@ Links and encyclopedia articles
 -   [Gelfand-Naimark-Segal construction](https://en.wikipedia.org/wiki/Gelfand%E2%80%93Naimark%E2%80%93Segal_construction)
 -   [Ghirardi-Rimini-Weber theory](https://en.wikipedia.org/wiki/Ghirardi%E2%80%93Rimini%E2%80%93Weber_theory)
 -   [Grand Unified Theory](http://en.wikipedia.org/wiki/Grand_Unified_Theory)
+-   [Haag, Rudolf (1922-2016)](https://en.wikipedia.org/wiki/Rudolf_Haag)
+-   [Haag-&#321;opusza&#324;ski-Sohnius theorem](https://en.wikipedia.org/wiki/Haag%E2%80%93%C5%81opusza%C5%84ski%E2%80%93Sohnius_theorem)
 -   [Haag's theorem](https://en.wikipedia.org/wiki/Haag%27s_theorem)
 -   [Hierarchy problem](https://en.wikipedia.org/wiki/Hierarchy_problem)
 -   [Hilbert space](http://en.wikipedia.org/wiki/Hilbert_space)
@@ -365,7 +373,6 @@ Links and encyclopedia articles
 -   [Poincar&eacute;, Henri (1854-1912)](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
 -   [Reeh-Schlieder theorem](https://en.wikipedia.org/wiki/Reeh%E2%80%93Schlieder_theorem)
 -   [Regularization](https://en.wikipedia.org/wiki/Regularization_(physics))
--   [Renormalization group](https://en.wikipedia.org/wiki/Renormalization_group)
 -   [Relational quantum mechanics](https://en.wikipedia.org/wiki/Relational_quantum_mechanics)
 -   [Relativity](http://en.wikipedia.org/wiki/Theory_of_relativity)
 -   [Relativity, General](http://en.wikipedia.org/wiki/General_relativity)
@@ -393,7 +400,7 @@ Links and encyclopedia articles
 -   [Wave function](http://en.wikipedia.org/wiki/Wave_function)
 -   [Wave function collapse](http://en.wikipedia.org/wiki/Wave_function_collapse)
 -   [Wave-particle duality](http://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality)
--   [Weinberg-Witten_theorem](https://en.wikipedia.org/wiki/Weinberg%E2%80%93Witten_theorem)
+-   [Weinberg-Witten theorem](https://en.wikipedia.org/wiki/Weinberg%E2%80%93Witten_theorem)
 -   [Weyl, Hermann (1885-1955)](https://en.wikipedia.org/wiki/Hermann_Weyl)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 -   [Wigner-Eckart theorem](http://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem)
