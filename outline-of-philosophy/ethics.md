@@ -309,6 +309,7 @@ Links and encyclopedia articles
 -   ["Scientism wars: there's an elephant in the room, and its name is Sam Harris"](http://www.theguardian.com/news/oliver-burkeman-s-blog/2013/aug/27/scientism-wars-sam-harris-elephant)
 -   ["Why Our Children Don't Think There Are Moral Facts"](http://opinionator.blogs.nytimes.com/2015/03/02/why-our-children-dont-think-there-are-moral-facts/) -  Justin McBrayer
 -   ["Why I think Sam Harris is wrong about morality"](http://righteousmind.com/why-i-think-sam-harris-is-wrong-about-morality/) - Jonathan Haidt
+-   [The evolution of trust](http://ncase.me/trust/)
 
 ### Videos
 

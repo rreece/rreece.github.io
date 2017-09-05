@@ -75,6 +75,8 @@ Scientism.
 Naturalism could be defined as a support for philosophy that is filtered for
 plausibility given the information from science.
 
+Reductionism.
+
 ![The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013)
     [Wikimedia Commons](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png).](img/the-scientific-universe.png){#fig:the-scientific-universe}
 
@@ -83,8 +85,18 @@ Also compare with the model of levels in @Oppenheim_1958_Unity_of_science_as_a_w
 Alex Rosenberg is a mad dog against emergence. Video:
 [Alex Rosenberg interviewed for *Why Are We Here?*](https://www.whyarewehere.tv/people/alex-rosenberg/)
 
-
 ![Reductionism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism)).](img/reductionism.png){#fig:reductionism}
+
+>   If controversies were to arise, there would be no more need of disputation
+>   between two philosophers than between two accountants. For it would suffice
+>   to take their pencils in their hands, and say to each other:
+>   *Calculemus*---Let us calculate.[^Leibniz-De-Arte-Combinatoria]
+
+[^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
+    This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,
+    written in 1666 [@Leibniz_1989_Dissertatio_de_Arte_Combinatoria, 73].
+    TODO: Actually, I haven't found this yet.
+    See also @Leibniz_1951_The_Art_of_Discovery, p. 51.
 
 
 ### Rejection of *a priori* metaphysics
@@ -108,16 +120,7 @@ through its respect for science and skepticism of *a priori* metaphysics,
 but naturalism is a more general distinction,
 being a more much longer thread throughout the history of philosophy and science.
 
->   If controversies were to arise, there would be no more need of disputation
->   between two philosophers than between two accountants. For it would suffice
->   to take their pencils in their hands, and say to each other:
->   *Calculemus*---Let us calculate.[^Leibniz-De-Arte-Combinatoria]
-
-[^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
-    This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,
-    written in 1666 [@Leibniz_1989_Dissertatio_de_Arte_Combinatoria, 73].
-    TODO: Actually, I haven't found this yet.
-    See also @Leibniz_1951_The_Art_of_Discovery, p. 51.
+![A version of the "distracted boyfriend meme" maligning  *a priori* metaphysics.](distracted-boyfriend-meme-intuitions-data.png)
 
 
 ### Natural kinds
