@@ -21,14 +21,14 @@ Issues and positions
 
 ### What is naturalism?
 
-Maddy defines naturalism[^Maddy-2007]:
+Maddy defines naturalism:
 
 >   These days, as more and more philosophers count themselves as naturalists,
 >   the term has come to mark little more than a vague science-friendliness.
 >   To qualify as unnaturalistic, a contemporary thinker has to insist,
 >   for example, that epistemology is an a priori discipline with nothing to
 >   learn from empirical psychology or that metaphysical intuitions show
->   quantum mechanics to be false. [@Maddy_2007_Second_Philosophy, 1]
+>   quantum mechanics to be false.  [^Maddy-2007-1]
 
 >   So our inquirer will continue her investigation of the world in her familiar
 >   ways, despite her encounter with Descartes and his meditator. She will ask
@@ -46,23 +46,27 @@ Maddy defines naturalism[^Maddy-2007]:
 >   by appeal to its resources. For Descartes's meditator, philosophy comes
 >   first; for our inquirer, it comes second---hence 'Second Philosophy'
 >   as opposed to 'First'. Our Character now has a name: she is the
->   Second Philosopher.  [@Maddy_2007_Second_Philosophy, 18-19]
+>   Second Philosopher.  [^Maddy-2007-2]
 
-  [^Maddy-2007]: @Maddy_2007_Second_Philosophy\.
+[^Maddy-2007-1]: @Maddy_2007_Second_Philosophy, p. 1.
+[^Maddy-2007-2]: @Maddy_2007_Second_Philosophy, pp. 18--19.
 
 
 ### Science and scientism
 
 Methodological naturalism.
 
-TODO: put Estrada Quine meme here.
+![W.V.O. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+>   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
+>   and it is these and no dim proxies that science is all about. Now how is such
+>   robust realism to be reconciled with what we have just been through? The answer
+>   is naturalism: the recognition that it is within science itself, and not in
+>   some prior philosophy, that reality is properly to be identified and
+>   described.  [^Quine-1981]
+
+[^Quine-1981]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
+    found in @Quine_1981_Theories_and_Things, p. 21.
 
 1.  blah
 2.  blah
