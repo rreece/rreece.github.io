@@ -77,7 +77,7 @@ Scientism.
 -   Are there other ways of knowing?
 
 Naturalism could be defined as a support for philosophy that is filtered for
-plausibility given the information from science.
+plausibility given the information from science[^Ladyman2007].
 See the outline on the [science method](scientific-method.html#is-there-a-universal-scientific-method).
 
 Reductionism.
