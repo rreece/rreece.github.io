@@ -27,7 +27,11 @@ Issues and positions
 
 --Epictetus, Discourses, Book II, ch. 17
 
-TODO.
+-   Pigliucci[^Pigliucci2017]
+-   Seneca[^Seneca1997]
+
+[^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic\.
+[^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.
 
 
 ### Buddhism

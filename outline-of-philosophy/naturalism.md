@@ -181,10 +181,12 @@ See the outline on [ethics](ethics.html).
 -   Weinberg: "Sokal's Hoax"[^Weinberg1996]
 -   *Fear of Knowledge*[^Boghossian2006]
 -   *Every Thing Must Go*[^Ladyman2007]
--   How French "intellectuals" ruined the west: Postmodernism and its impact, explained.[^Pluckrose2017]
+-   Why I No Longer Identify as a Feminist[^Pluckrose2016]
+-   How French "intellectuals" ruined the west: Postmodernism and its impact, explained[^Pluckrose2017]
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Pluckrose2016]: @Pluckrose_2016_Why_I_No_Longer_Identify_as_a_Feminist\.
 [^Pluckrose2017]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
 [^Sokal1996]: @Sokal_1996_A_Physicist_Experiments_With_Cultural_Studies\,
     @Sokal_1996_Transgressing_the_Boundaries_Towards\,
@@ -268,7 +270,7 @@ Annotated bibliography
 
 ### More articles to do
 
--   TODO.
+-   @Putnam_2016_Naturalism_Realism_and_Normativity\.
 
 
 Links and encyclopedia articles
