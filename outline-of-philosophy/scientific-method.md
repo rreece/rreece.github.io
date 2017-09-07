@@ -138,10 +138,10 @@ TODO:
 
 -   Not a seven-step program
 -   Evidence based, anti-conspiracy, parsimony
--   Error-catching filters[^Ladyman-Ross-2007], community, honesty, openness
 -   Positivism, verificationism
 -   Auguste Comte, Ernst Mach, David Hilbert, Rudolf Carnap
 -   Karl Popper, falsification
+-   Error-catching filters[^Ladyman-Ross-2007], community, honesty, openness
 -   Scientism
 
 [^Ladyman-Ross-2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
