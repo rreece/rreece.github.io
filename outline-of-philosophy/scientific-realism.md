@@ -327,17 +327,22 @@ Science has identified real patterns, relationships, and structures
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)
--   Every Thing Must Go[^Ladyman-Ross-2009]
--   Psillos' "How science tracks truth"[^Psillos-1999]
+-   *Every Thing Must Go* [^Ladyman-Ross-2009]
+-   *How science tracks truth* [^Psillos-1999]
+-   Everything you always wanted to know about structural realism but were afraid to ask [^Frigg2011]
+-   *Scientific Metaphysics* [^Ross2013]
 -   contrast with Bueno's structural empiricism
 
 >   [W]hat is objective must be common to many minds and consequently transmissible from one to the other. ...
 >   [P]ure quality ... is intransmissible... . But it is not the same with relations...
->   From this point of view, what is objective is ... only pure relation. [@Poincare_2014_The_Foundations_of_Science_Science]
+>   From this point of view, what is objective is ... only pure relation. [^Poincare2014]
 
 TODO: find the page number for above Poincar&eacute; quote.
 I found the above quotes in a talk by Arthur Fine:
 [Structural Realism, Then & Now](https://www.youtube.com/watch?v=0tb4_kFHwO4).
+
+[^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
+[^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
 
 ### Critical realism
@@ -982,6 +987,7 @@ Links and encyclopedia articles
 -   [Logical positivism](http://www.philosophybasics.com/branch_logical_positivism.html) - philosophybasics.com
 -   [Logical positivism](http://www.loyno.edu/~folse/logpos.htm) - loyno.edu/~folse/
 -   [Logical positivism](http://rationalwiki.org/wiki/Logical_positivism) - rationalwiki.org
+-   [Positivists.org](http://positivists.org/)
 -   [Sartwell, Crispin (2015). Philosophy Returns to the Real World.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/)
 -   [Kaufman, D.A. (2016). Moore's Proof.](https://theelectricagora.com/2016/08/15/moores-proof/)
 

@@ -48,6 +48,9 @@ Maddy defines naturalism:
 >   as opposed to 'First'. Our Character now has a name: she is the
 >   Second Philosopher.  [^Maddy-2007-2]
 
+-   Jacobs - [Naturalism](http://www.iep.utm.edu/naturali/) [^Jacobs2002]
+
+[^Jacobs2002]: @Jacobs_2002_Naturalism\. 
 [^Maddy-2007-1]: @Maddy_2007_Second_Philosophy, p. 1.
 [^Maddy-2007-2]: @Maddy_2007_Second_Philosophy, pp. 18--19.
 
@@ -80,7 +83,8 @@ Naturalism could be defined as a support for philosophy that is filtered for
 plausibility given the information from science[^Ladyman2007].
 See the outline on the [science method](scientific-method.html#is-there-a-universal-scientific-method).
 
-Reductionism.
+
+### Reductionism
 
 ![The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013)
     [Wikimedia Commons](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png).](img/the-scientific-universe.png){#fig:the-scientific-universe}
@@ -187,8 +191,11 @@ See the outline on [ethics](ethics.html).
 -   Weinberg: "Sokal's Hoax"[^Weinberg1996]
 -   *Fear of Knowledge*[^Boghossian2006]
 -   *Every Thing Must Go*[^Ladyman2007]
+-   [Why I am a naturalist.](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) [^Rosenberg2011]
+-   [Philosophy Returns to the Real World.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) [^Sartwell2015]
 -   Why I No Longer Identify as a Feminist[^Pluckrose2016]
 -   How French "intellectuals" ruined the west: Postmodernism and its impact, explained[^Pluckrose2017]
+
 -   Post-fact politics
     -   [Why We're Post-fact](https://granta.com/why-were-post-fact/) [^Pomerantsev2016]
     -   [America's First Postmodern President](https://newrepublic.com/article/143730/americas-first-postmodern-president) [^Heer2017]
@@ -204,6 +211,8 @@ See the outline on [ethics](ethics.html).
 [^Pluckrose2016]: @Pluckrose_2016_Why_I_No_Longer_Identify_as_a_Feminist\.
 [^Pluckrose2017]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
 [^Pomerantsev2016]: @Pomerantsev_2016_Why_Were_Post_fact\.
+[^Rosenberg2011]: @Rosenberg_2011_Why_I_am_a_naturalist\. 
+[^Sartwell2015]: @Sartwell_2015_Philosophy_returns_to_the_real_world\. 
 [^Sokal1996]: @Sokal_1996_A_Physicist_Experiments_With_Cultural_Studies\,
     @Sokal_1996_Transgressing_the_Boundaries_Towards\,
     @Sokal_1998_Fashionable_Nonsense_Postmodern_Intellectuals\.
@@ -353,6 +362,7 @@ Links and encyclopedia articles
 -   [Naturalism.org](http://www.naturalism.org/)
     -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/worldview-naturalism/history-of-naturalism)
 -   [Moving Naturalism Forward (2012)](http://preposterousuniverse.com/naturalism2012/)
+-   [Positivists.org](http://positivists.org/)
 -   [Ryan's Minutes of "Moving Naturalism Forward (2012)"](http://rreece.github.io/moving-naturalism-forward-2012-minutes/)
 
 ### Videos
