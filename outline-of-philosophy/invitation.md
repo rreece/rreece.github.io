@@ -118,9 +118,10 @@ its implications for a worldview
 are central to many of our cultural and politcal divisions.
 
 -   [Why Do Many Reasonable People Doubt Science?](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text) [^Achenbach2015]
--   [Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w)
+-   [Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w) [^Rose1996]
 
 [^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. 
+[^Rose1996]: @Rose_1996_Charlie_Rose_discusses_Demon_Haunted_World_with\.
 
 Who do I want to reach with this argument?
 
