@@ -174,6 +174,10 @@ See the outline on [ethics](ethics.html).
 -   Post-modernism, Social construction
 -   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2) - IEP
 -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/) - SEP
+-   [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) [^Konnikova2012]
+
+[^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
+
 
 #### Rebutals
 
@@ -337,7 +341,6 @@ Links and encyclopedia articles
     -   ["Ionian Enchantment: A Brief History of Scientific Naturalism"](http://www.naturalism.org/worldview-naturalism/history-of-naturalism)
 -   [Moving Naturalism Forward (2012)](http://preposterousuniverse.com/naturalism2012/)
 -   [Ryan's Minutes of "Moving Naturalism Forward (2012)"](http://rreece.github.io/moving-naturalism-forward-2012-minutes/)
--   [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) - Maria Konnikova
 
 ### Videos
 

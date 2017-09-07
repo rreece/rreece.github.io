@@ -66,10 +66,11 @@ Issues and positions
 ### Point estimation and confidence intervals
 
 -   regression
--   MLE: Maximum likelihood estimators
+-   MLE: Maximum likelihood estimators, Fisher [^Aldrich1997]
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
 -   Asymptotics [^Cowan2011]
 
+[^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_Making_of_Maximum_Likelihood\.
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
     @Rao_1945_Information_and_the_accuracy_attainable_in\, and
@@ -213,8 +214,11 @@ TODO.
 
 ### More articles to do
 
--   Leemis, L.M. & McQueston, J.T. (2008). Univariate Distribution Relationships. *The American Statistician*, 62(1), pp. 45--53.
--   Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.
+-   Univariate Distribution Relationships [^Leemis2008]
+-   *All of Statistics* [^Wasserman2003]
+
+[^Leemis2008]: @Leemis_2008_Univariate_Distribution_Relationships\.
+[^Wasserman2003]: @Wasserman_2003_All_of_Statistics_A_Concise_Course_in_Statistical\.
 
 
 Links and encyclopedia articles
@@ -264,6 +268,7 @@ Links and encyclopedia articles
 -   [Epistemology](http://en.wikipedia.org/wiki/Epistemology)
 -   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
 -   [Frequentist inference](https://en.wikipedia.org/wiki/Frequentist_inference)
+-   [Foundations of statistics](https://en.wikipedia.org/wiki/Foundations_of_statistics)
 -   [Graunt, John (1620-1674)](https://en.wikipedia.org/wiki/John_Graunt)
 -   [Gettier problem](http://en.wikipedia.org/wiki/Gettier_problem)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
@@ -272,7 +277,7 @@ Links and encyclopedia articles
 -   [Inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
--   [Maximum likelihood](https://en.wikipedia.org/wiki/Maximum_likelihood)
+-   [Maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 -   [Neyman-Pearson lemma](http://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma)
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)

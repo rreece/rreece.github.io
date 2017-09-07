@@ -44,7 +44,9 @@ three following ideas:
 >   in what we now call Aristotle's *Physics*. The title was probably meant to warn
 >   students of Aristotle's philosophy that they should attempt Metaphysics only after
 >   they had mastered "the physical ones", the books about nature or the natural
->   world. [@vanInwagen_2014_Metaphysics]
+>   world. [^vanInwagen2014]
+
+[^vanInwagen2014]: @vanInwagen_2014_Metaphysics\.
 
 Stealing from encyclopedia.com:
 
@@ -90,7 +92,9 @@ Stealing from encyclopedia.com:
 >   Humean supervenience is named in honor of the greater denier of necessary
 >   connections. It is the doctrine that all there is to the world is a vast
 >   mosaic of local matters of particular fact, just one little thing and then
->   another. [@Lewis_1986_Philosophical_Papers_II, p. ix]
+>   another. [^Lewis1986]
+
+[^Lewis1986]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
 
 
 ### Scientific realism
@@ -100,17 +104,19 @@ Some attempts at definitions:
 Science makes real progress in describing real features of the world.
 
 >   To a very rough, first approximation, realism is the view that our best scientific theories
->   correctly describe both observable and unobservable parts of the world. [@Chakravartty_2007_A_Metaphysics_for_Scientific_Realism]
+>   correctly describe both observable and unobservable parts of the world. [^Chakravartty2007]
 
 >   Scientific realism is a positive epistemic attitude towards the content of our
 >   best theories and models, recommending belief in both observable and unobservable
->   aspects of the world described by the sciences. [@Chakravartty_2011_Scientific_realism]
+>   aspects of the world described by the sciences. [^Chakravartty2011]
+
+[^Chakravartty2007]: @Chakravartty_2007_A_Metaphysics_for_Scientific_Realism\.
+[^Chakravartty2011]: @Chakravartty_2011_Scientific_realism\.
 
 -   Boyd
 -   Sellars
 -   Chakravartty
 -   Psillos
-
 
 ![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
 
@@ -134,15 +140,15 @@ Science makes real progress in describing real features of the world.
 >   Today the theories are born, tomorrow they are the fashion,
 >   the day after tomorrow they are classic,
 >   the fourth day they are superannuated,
->   and the fifth they are forgotten. [@Poincare_2014_The_Foundations_of_Science_Science]
+>   and the fifth they are forgotten. [^Poincare2014]
 
 TODO: find the page number for above Poincar&eacute; quote.
 
 >   Our arguments have to be about the world we experience,
->   not about a world made of paper. [@Rovelli_2003_A_dialog_on_quantum_gravity, 5]
+>   not about a world made of paper. [^Rovelli2003]
 
 >   As far as the laws of mathematics refer to reality, they are not certain;
->   and as far as they are certain, they do not refer to reality. [@Einstein_1922_Geometry_and_Experience]
+>   and as far as they are certain, they do not refer to reality. [^Einstein1922]
 
 >   There is a difference, however, between working crossword puzzles and the pursuit of
 >   higher mathematics. In the case of mathematics, you don't triumph over the capricious
@@ -157,7 +163,12 @@ TODO: find the page number for above Poincar&eacute; quote.
 >   natural surroundings.
 >   The wonder of group theory is that its relevance to the disciplines of both
 >   mathematics and natural science far exceeds the self-contained boundaries
->   within which it was first developed. [@Schumm_2004_Deep_Down_Things, 144]
+>   within which it was first developed. [^Schumm2004]
+
+[^Poincare2014]: @Poincare_2014_The_Foundations_of_Science_Science\.
+[^Rovelli2003]: @Rovelli_2003_A_dialog_on_quantum_gravity\, p. 5.
+[^Einstein1922]: @Einstein_1922_Geometry_and_Experience\.
+[^Schumm2004]: @Schumm_2004_Deep_Down_Things\, p. 144.
 
 
 ### Instrumentalism
