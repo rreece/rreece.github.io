@@ -149,11 +149,6 @@ A place to start in the discussion of philosophy of science and naturalism
 -   @Frigg_2011_Everything_you_always_wanted_to_know_about\. [Everything you always wanted to know about structural realism but were afraid to ask.](docs/2011.Frigg-Votsis.Everything-you-always-wanted-to-know-about-structural-realism-but-were-afraid-to-ask.pdf) -- structural realist
 
 
-### Review article on the philosophy of math:
-
--   @Snapper_1979_The_three_crises_in_mathematics_Logicism\. [The Three Crises in Mathematics: Logicism, Intuitionism, Formalism.](docs/1979.Snapper.three-crises-in-mathematics.pdf)
-
-
 ### Books on naturalized metaphysics:
 
 -   @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\. [*Every Thing Must Go: Metaphysics Naturalized*](https://www.academia.edu/2807083/In_defence_of_scientism). - [review by Cian Dorr, Oxford University](https://ndpr.nd.edu/news/24377-every-thing-must-go-metaphysics-naturalized/)

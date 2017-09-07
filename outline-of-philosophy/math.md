@@ -36,22 +36,22 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Pythagoreanism
 
-Realist.
-
-TODO.
-
+-   Realist
 
 
 ### Formalism
 
-Anti-realist. Positivism.
+-   Anti-realist, Positivism
+-   Wigner [^Wigner1960]
+-   Review article on the philosophy of math by Snapper [^Snapper1979]
 
-TODO.
+[^Wigner1960]: @Wigner_1960_The_Unreasonable_Effectiveness_of_Mathematics_in\.
+[^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.
 
 
 ### G&ouml;del
 
-from Wikipedia:
+From Wikipedia:
 
 -   The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an "effective procedure" (e.g., a computer program, but it could be any sort of algorithm) is capable of proving all truths about the relations of the natural numbers.
 -   The second incompleteness theorem, an extension of the first, shows that such a system cannot demonstrate its own consistency.

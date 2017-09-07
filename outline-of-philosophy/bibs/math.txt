@@ -1,1 +1,3 @@
 Baez, J.C. (2016). Struggles with the Continuum. https://arxiv.org/abs/1609.01421
+Snapper, E. (1979). The three crises in mathematics: Logicism, intuitionism and formalism. *Mathematics Magazine*, 52(4), 207-216.
+Wigner, E.P. (1960). The Unreasonable Effectiveness of Mathematics in the Natural Sciences. *Communications on pure and applied mathematics*, 13(1), 1-14. http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html [Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959]
