@@ -1,6 +1,8 @@
 Invitation
 ================================================================================
 
+A place to start in the discussion of philosophy of science and naturalism.
+
 
 What is this?
 --------------------------------------------------------------------------------
@@ -115,8 +117,10 @@ basic disagreements about the nature of science and
 its implications for a worldview
 are central to many of our cultural and politcal divisions.
 
--   @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. [Why Do Many Reasonable People Doubt Science?](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text)
+-   [Why Do Many Reasonable People Doubt Science?](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text)
 -   [Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w)
+
+[^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. 
 
 Who do I want to reach with this argument?
 
@@ -128,8 +132,6 @@ Who do I want to reach with this argument?
     and what sorts of claims it justifies.
 -   TODO: Can this be accessible and interesting to both academic and lay audiences?
     
-
-**A place to start in the discussion of philosophy of science and naturalism**
 
 
 <!-- REFERENCES -->
