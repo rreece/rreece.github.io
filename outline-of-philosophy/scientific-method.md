@@ -97,7 +97,7 @@ British empiricists:
 
 ![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig:mandik-2016-11-1-eyeballs}
 
-Other important synthesizers:
+Important synthesizers:
 
 -   Isaac Newton (1642-1727)
     -   *The Principia* (1687) [^Newton2016]
