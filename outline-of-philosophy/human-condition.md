@@ -194,3 +194,6 @@ Links and encyclopedia articles
 -   [Personality Lecture 12: Existentialism: Dostoevsky, Nietzsche, Kierkegaard](https://www.youtube.com/watch?v=SsoVhKo4UvQ)
 
 
+<!-- REFERENCES -->
+
+

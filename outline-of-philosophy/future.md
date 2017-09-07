@@ -19,10 +19,19 @@ Issues and positions
 
 TODO.
 
+-   Anthropic bias [^Bostrom2002]
+
+[^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects_in\.
+
 
 ### Technological growth
 
 TODO.
+
+-   Simulation argument [^Bostrom2003] and patch [^Bostrom2011]
+
+[^Bostrom2003]: @Bostrom_2003_Are_you_living_in_a_computer_simulation\.
+[^Bostrom2011]: @Bostrom_2011_A_patch_for_the_simulation_argument\.
 
 
 ### Artificial intelligence
@@ -94,5 +103,8 @@ Links and encyclopedia articles
 ### Others
 
 -   [Carroll, S. (2016). Maybe we do not live in a computer simulation](http://www.preposterousuniverse.com/blog/2016/08/22/maybe-we-do-not-live-in-a-simulation-the-resolution-conundrum/)
+
+
+<!-- REFERENCES -->
 
 
