@@ -136,9 +136,11 @@ being a more much longer thread throughout the history of philosophy and science
 
 Part of metaphysical naturalism.
 
-*Natural Kinds* [^Quine1969]
+-   *Natural Kinds* [^Quine1969]
+-   [Introduction: Pursuing aNaturalist Metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
 
 [^Quine1969]: @Quine_1969_Natural_kinds\.
+[^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
 ![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism)).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
 
