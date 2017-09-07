@@ -17,41 +17,88 @@ Issues and positions
 
 ### Problem of induction
 
--   Hume
+-   Hume [^Hume2007]
+-   Reichenbach [^Reichenbach1938]
+-   Salmon [^Salmon1963]
+-   Good [^Good1988]
+-   Weintraub [^Weintraub1995]
+-   Hacking [^Hacking2001]
+-   Huber [^Huber2007]
+
+
+[^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
+[^Huber2007]: @Huber_2007_Confirmation_and_induction\.
+[^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
+[^Good1988]: @Good_1988_The_interface_between_statistics_and_philosophy_of\.
+[^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
+    @Reichenbach_1940_On_the_Justification_of_Induction\.
+[^Salmon1963]: @Salmon_1963_On_Vindicating_Induction\,
+    @Salmon_1966_The_Foundations_of_Scientific_Inference\,
+    @Salmon_1991_Hans_Reichenbachs_Vindication_of_Induction\.
+[^Weintraub1995]: @Weintraub_1995_What_was_Humes_Contribution_to_the_Problem_of\.
 
 
 ### Probability and uncertanty
 
 -   Frequentist vs Bayesian probability
--   Accuracy vs precision
+-   Accuracy vs precision [^Cowan1998]
+-   Mayo: Learning from Error [^Mayo1996]
+
+[^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
 
 
 ### Statistical measurement
 
 -   Jerzy Neyman, Egon Pearson, Ronald Fisher
 -   Likelihood principle
+-   Pedagogy
+    -   Kendall [^Kendall1946]
+    -   James [^James2006]
+    -   Cowan [^Cowan1998]
+    -   Cranmer [^Cranmer2015]
+
+[^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
+[^Cranmer2015]: @Cranmer_2015_Practical_Statistics_for_the_LHC\.
+[^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
+[^Kendall1946]: @Kendall_1946_The_Advanced_Theory_of_Statistics_VolII\.
 
 
 ### Point estimation and confidence intervals
 
 -   regression
 -   MLE: Maximum likelihood estimators
--   Cram&#233;r-Rao bound
--   Flip-flopping and Feldman-Cousins confidence intervals
+-   Cram&eacute;r-Rao bound [^Cramer-Rao]
+-   Asymptotics [^Cowan2011]
+
+[^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
+    @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
+    @Rao_1945_Information_and_the_accuracy_attainable_in\, and
+    @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
+[^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests_of\.
 
 
 ### Statistical hypothesis testing
 
 -   classification
 -   Power and confidence
--   Neyman-Pearson lemma
--   Wilks/Wald
+-   Neyman-Pearson lemma [^Neyman1933]
+-   Wilks [^Wilks1938] and Wald [^Wald1943]
+-   significance [^Cowan2012]
+-   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
+
+[^Cowan2012]: @Sinervo_2002_Signal_Significance_in_Particle_Physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
+[^Feldman1998]: @Feldman_1998_A_Unified_Approach_to_the_Classical_Statistical\.
+[^Neyman1933]: @Neyman_1933_On_the_Problem_of_the_Most_Efficient_Tests_of\.
+[^Wald1943]: @Wald_1943_Tests_of_Statistical_Hypotheses_Concerning_Several\.
+[^Wilks1938]: @Wilks_1938_The_large_sample_distribution_of_the_likelihood\.
 
 
-### Uncertainties
+### Systematic uncertainties
 
 -   Type-1 and type-2 systematic errors
--   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekko Sinervo (PhyStat2003)
+-   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekko Sinervo (PhyStat2003) [^Sinervo2013]
+
+[^Sinervo2013]: @Sinervo_2003_Definition_and_Treatment_of_Systematic\.
 
 ![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties)).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
 
@@ -60,13 +107,20 @@ Issues and positions
 
 -   file-drawer effect = look-elsewhere effect
 -   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
--   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375)
+-   ASA statement on p-values [^Wasserstein2016]
+-   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]
+
+[^Benjamin2017]: @Benjamin_2017_Redefine_Statistical_Significance\.
+[^Wasserstein2016]: @Wasserstein_2016_The_ASAs_Statement_on_p_values_Context_process\.
 
 
 ### Machine learning
 
 -   classification and regression
 -   supervised and unsupervised learning
+-   Hastie, Tibshirani, & Friedman [^Hastie2009]
+
+[^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
 
 
 ### Implications for the realism debate
@@ -203,7 +257,7 @@ Links and encyclopedia articles
 -   [Bootstrapping](http://en.wikipedia.org/wiki/Bootstrapping_(statistics))
 -   [Confidence interval](https://en.wikipedia.org/wiki/Confidence_interval)
 -   [Cosmic variance](https://en.wikipedia.org/wiki/Cosmic_variance)
--   [Cram&#233;r-Rao bound](http://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound)
+-   [Cram&eacute;r-Rao bound](http://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound)
 -   [Decision theory](https://en.wikipedia.org/wiki/Decision_theory)
 -   [Deductive-nomological model](https://en.wikipedia.org/wiki/Deductive-nomological_model)
 -   [Empircism](http://en.wikipedia.org/wiki/Empiricism)

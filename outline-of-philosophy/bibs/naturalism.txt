@@ -1,6 +1,7 @@
 Leibniz, G. (1951). The Art of Discovery. In P. Wiener (Ed.), *Leibniz: Selections*. Scribner. [(Originally published in 1685)]
 Leibniz, G. (1989). Dissertatio de Arte Combinatoria. In L.E. Loemker (Ed.), *Philosophical Papers and Letters: The New Synthese Historical Library (Texts and Studies in the History of Philosophy), vol 2*. (pp. 73--84). Dordrecht: Springer. [(Originally published in 1666)]
 Putnam, H. (2016). *Naturalism, Realism, and Normativity*. Cambridge, MA: Harvard University Press.
+Quine, W.V.O. (1969). Natural kinds. In *Ontological Relativity and Other Essays*. New York: Columbia University Press.
 Quine, W.V.O. (1981). *Theories and Things*. Cambridge, MA: Harvard University Press.
 Quine, W.V.O. (1981). Reply to Stroud. *Midwest Studies in Philosophy*, 6, 473--476.
 Sokal, A.D. (1996). A Physicist Experiments With Cultural Studies. http://www.physics.nyu.edu/sokal/lingua_franca_v4.pdf
