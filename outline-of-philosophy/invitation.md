@@ -33,15 +33,15 @@ These issues are part of broader divisions in philosophy:
 
 Philosophy of science asks:
 
--   What is science?
+-   What is *science*?
 -   Do the diverse inquiries called "science"
-    have an underlying, universal, scientific method, and if so, what is it?
--   How can we tell science from not science, and what is pseudoscience?
--   Is science a way of producing knowledge?
-    And if so, are there other ways of knowing?
+    have an underlying, universal, *scientific method*, and if so, what is it?
+-   How can we tell science from *not science*, and what is *pseudoscience*?
+-   Is science a way of producing *knowledge*?
+    And if so, are there other ways of *knowing*?
 -   What should we say of the products of science?
-    In particular, does science make any progress at
-    revealing or approximating truth?
+    In particular, does science make any *progress* at
+    revealing or approximating *truth*?
 -   Where has science taken us, and where is it going?
 
 In our modern information age,
