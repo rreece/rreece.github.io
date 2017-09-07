@@ -130,9 +130,11 @@ being a more much longer thread throughout the history of philosophy and science
 
 ### Natural kinds
 
-TODO.
-
 Part of metaphysical naturalism.
+
+*Natural Kinds* [^Quine1969]
+
+[^Quine1969]: @Quine_1969_Natural_kinds\.
 
 ![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism)).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
 
