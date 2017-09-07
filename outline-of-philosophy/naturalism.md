@@ -189,15 +189,14 @@ See the outline on [ethics](ethics.html).
 
 #### Rebutals
 
--   "Sokal affair"[^Sokal1996]
+-   Sokal affair [^Sokal1996]
 -   Weinberg: "Sokal's Hoax"[^Weinberg1996]
--   *Fear of Knowledge*[^Boghossian2006]
--   *Every Thing Must Go*[^Ladyman2007]
--   [Why I am a naturalist.](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) [^Rosenberg2011]
--   [Philosophy Returns to the Real World.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) [^Sartwell2015]
--   Why I No Longer Identify as a Feminist[^Pluckrose2016]
--   How French "intellectuals" ruined the west: Postmodernism and its impact, explained[^Pluckrose2017]
-
+-   *Fear of Knowledge* [^Boghossian2006]
+-   *Every Thing Must Go* [^Ladyman2007]
+-   [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) [^Rosenberg2011]
+-   [Philosophy Returns to the Real World](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) [^Sartwell2015]
+-   Why I No Longer Identify as a Feminist [^Pluckrose2016]
+-   How French "intellectuals" ruined the west: Postmodernism and its impact, explained [^Pluckrose2017]
 -   Post-fact politics
     -   [Why We're Post-fact](https://granta.com/why-were-post-fact/) [^Pomerantsev2016]
     -   [America's First Postmodern President](https://newrepublic.com/article/143730/americas-first-postmodern-president) [^Heer2017]
