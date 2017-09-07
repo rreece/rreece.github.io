@@ -117,7 +117,7 @@ basic disagreements about the nature of science and
 its implications for a worldview
 are central to many of our cultural and politcal divisions.
 
--   [Why Do Many Reasonable People Doubt Science?](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text)
+-   [Why Do Many Reasonable People Doubt Science?](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text) [^Achenbach2015]
 -   [Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w)
 
 [^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. 
