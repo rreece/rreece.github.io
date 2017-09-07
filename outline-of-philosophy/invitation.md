@@ -131,7 +131,6 @@ Who do I want to reach with this argument?
 -   Allies in illucidating the demarcation of what science is,
     and what sorts of claims it justifies.
 -   Can this be accessible and interesting to both academic and lay audiences?
-    
 
 
 <!-- REFERENCES -->
