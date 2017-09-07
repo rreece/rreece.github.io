@@ -44,7 +44,7 @@ Issues and positions
     -   [Gassendi, Pierre (1592-1655)](http://en.wikipedia.org/wiki/Pierre_Gassendi)
     -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
         -   No teleology. Matter plenum, vorticies.
-        -   *Meditations on First Philosophy*[^Descartes2008]
+        -   *Meditations on First Philosophy* (1641) [^Descartes2008]
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
     -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
     -   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
@@ -55,10 +55,11 @@ Issues and positions
     -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
     -   [Berkeley, George (1685-1753)](https://en.wikipedia.org/wiki/George_Berkeley)
     -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
+        -   *An Enquiry Concerning Human Understanding* (1748) [^Hume2007]
 -   "Scientist"
     -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
 -   Biological evolution:
-    -   Hume on humans being animals[^Hume2007]
+    -   Hume on humans being animals [^Hume2007]
     -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
     -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
 
@@ -99,9 +100,11 @@ British empiricists:
 Other important synthesizers:
 
 -   Isaac Newton (1642-1727)
-    -   *The Principia*[^Newton2016]
+    -   *The Principia* (1687) [^Newton2016]
 -   Immanuel Kant (1724-1804)
+    -   *Critique of Pure Reason* (1781) [^Kant1996]
 
+[^Kant1996]: @Kant_1996_Critique_of_Pure_Reason\.
 [^Newton2016]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\.
 
 
@@ -109,7 +112,7 @@ Other important synthesizers:
 
 TODO:
 
--   Hume and the problem of induction[^Hume2007]
+-   Hume and the problem of induction [^Hume2007]
 -   Uniformity of nature
 -   Humeanism
 -   Note the further discussion of Humeanism and laws of nature in
