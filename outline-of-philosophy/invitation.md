@@ -121,7 +121,7 @@ are central to many of our cultural and politcal divisions.
 -   [Carl Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w) [^Rose1996]
 
 [^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. 
-[^Rose1996]: @Rose_1996_Charlie_Rose_discusses_Demon_Haunted_World_with\.
+[^Rose1996]: @Rose_1996_Carl_Sagan_discusses_Demon_Haunted_World_with\.
 
 Who do I want to reach with this argument?
 
