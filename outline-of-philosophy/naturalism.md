@@ -190,6 +190,7 @@ See the outline on [ethics](ethics.html).
 -   Why I No Longer Identify as a Feminist[^Pluckrose2016]
 -   How French "intellectuals" ruined the west: Postmodernism and its impact, explained[^Pluckrose2017]
 -   Post-fact politics
+    -   [Why We're Post-fact](https://granta.com/why-were-post-fact/) [^Pomerantsev2016]
     -   [America's First Postmodern President](https://newrepublic.com/article/143730/americas-first-postmodern-president) [^Heer2017]
     -   [Daniel Dennett: 'I begrudge every hour I have to spend worrying about politics'](https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview) [^Cadwalladr2017]
     -   [Has Trump Stolen Philosophy's Critical Tools?](https://www.nytimes.com/2017/04/17/opinion/has-trump-stolen-philosophys-critical-tools.html) [^Williams2017]
@@ -202,6 +203,7 @@ See the outline on [ethics](ethics.html).
 [^Perrin2017]: @Perrin_2017_Stop_Blaming_Postmodernism_for_Post_Truth\.
 [^Pluckrose2016]: @Pluckrose_2016_Why_I_No_Longer_Identify_as_a_Feminist\.
 [^Pluckrose2017]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
+[^Pomerantsev2016]: @Pomerantsev_2016_Why_Were_Post_fact\.
 [^Sokal1996]: @Sokal_1996_A_Physicist_Experiments_With_Cultural_Studies\,
     @Sokal_1996_Transgressing_the_Boundaries_Towards\,
     @Sokal_1998_Fashionable_Nonsense_Postmodern_Intellectuals\.
