@@ -494,7 +494,7 @@ Annotated bibliography
 
 ### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
 
--   @Carnap_1950_Empiricism_Semantics_and_Ontology
+-   @Carnap_1950_Empiricism_semantics_and_ontology
 
 #### 1. The problem of abstract entities
 
@@ -999,9 +999,9 @@ Links and encyclopedia articles
 -   [Mumford, Stephen (2015). Relations All The Way Down? (Against) Ontic Structural Realism](https://www.youtube.com/watch?v=4EeOhf1GG-M)
 
 
-[^Carnap-1950]: @Carnap_1950_Empiricism_Semantics_and_Ontology\.
+[^Carnap-1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Quine-1951]: @Quine_1951_Two_Dogmas_of_Empiricism\.
-[^Carnap-1955]: @Carnap_1955_The_Logical_Foundations_of_the_Unity_of_Science\.
+[^Carnap-1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
 [^Popper-1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
 [^Kuhn-1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
 [^van-Fraassen-1980]: @vanFraassen_1980_The_Scientific_Image\.
