@@ -17,10 +17,6 @@ Issues and positions
 
 ### Classical physics
 
-TODO.
-
--   Principle of least action
--   Noether
 -   History:
     -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
     -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
@@ -33,23 +29,26 @@ TODO.
     -   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
     -   [Hamilton, William Rowan (1805-1865)](http://en.wikipedia.org/wiki/William_Rowan_Hamilton)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
+-   Principle of least action
+-   Canonical dynamics
+-   Noether
+
 
 ### Statistical physics
 
-TODO.
-
 -   Entropy
--   Statistical Mechanics and Thermodynamics
+-   Statistical mechanics and thermodynamics
 -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 -   The 2nd Law of Thermodynamics said simply: Things tend to happen in ways for which there are many ways to happen like that.
 
 
 ### Emergence
 
-Thermodynamics. Statistical mechanics. Renormalization.
+Thermodynamics, statistical mechanics, renormalization.
 
 -   More is different[^Anderson-1972]
 -   Emergence[^Lisi-2017]
+-   Bain
 
 [^Anderson-1972]: @Anderson_1972_More_is_different\.
 [^Lisi-2017]: @Lisi_2017_Emergence\.
