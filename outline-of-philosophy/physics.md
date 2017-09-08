@@ -115,7 +115,30 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 ### Quantum field theory
 
--   Haag-&#321;opusza&#324;ski-Sohnius theorem
+#### Haag's theorem
+
+Haag's theorem [^Haag1955]
+
+-   Earman and Fraser's analysis [^Earman2006]
+-   Klaczynski's analysis [^Klaczynski2016]
+
+[^Earman2006]: @Earman_2006_Haags_Theorem_and_Its_Implications_for\.
+[^Haag1955]: @Haag_1955_On_quantum_field_theories\.
+[^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
+
+#### Effective field theory
+
+-   Weinberg [^Weinberg1997]
+
+[^Weinberg1997]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\.
+
+#### Supersymmetry
+
+-   Coleman-Mandula theorem [^Coleman1967]
+-   Haag-&#321;opusza&#324;ski-Sohnius theorem [^Haag1975]
+
+[^Coleman1967]: @Coleman_1967_All_Possible_Symmetries_of_the_S_Matrix\.
+[^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries_of\.
 
 
 ### Interpretations of quantum mechanics

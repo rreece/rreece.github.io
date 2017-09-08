@@ -1,2 +1,10 @@
 Anderson, P.W. (1972). More Is Different. *Science*, 177, 393--396.
+Coleman, S. & Mandula, J. (1967). All Possible Symmetries of the S Matrix. *Physical Review*, 159(5), 1251--1256.
+Earman, J. & Fraser, D. (2006). Haag's Theorem and Its Implications for the Foundations of Quantum Field Theory. *Erkenntnis*, 64(3), 305--344.
+Haag, R. (1955). On quantum field theories. *Det Kongelige Danske Videnskabernes Selakab*, 29.
+Haag, R., \L{}opusza\'{n}ski, J. T., & Sohnius, M. (1975). All possible generators of supersymmetries of the S-matrix. *Nuclear Physics B*, 88(2), 257--274.
+Hall, D., & Wightman, A. S. (1957). A theorem on invariant analytic functions with applications to relativistic quantum field theory. I kommission hos Munksgaard.
+Klaczynski, L. (2016). Haag's theorem in renormalised quantum field theories. https://arxiv.org/abs/1602.00662
 Lisi, A.G. (2017). Emergence. https://www.edge.org/response-detail/27149
+Seidewitz, E. (2017). Avoiding Haag's Theorem with Parameterized Quantum Field Theory. *Foundations of Physics*, 47(3), 355--374.
+Weinberg, S. (1997). What is quantum field theory, and what did we think it is? http://arxiv.org/abs/hep-th/9702027
