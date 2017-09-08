@@ -160,8 +160,8 @@ Haag's theorem [^Haag1955]
 -   Earman and Fraser's analysis [^Earman2006]
 -   Klaczynski's analysis [^Klaczynski2016]
 
-[^Earman2006]: @Earman_2006_Haags_Theorem_and_Its_Implications_for\.
-[^Haag1955]: @Haag_1955_On_Quantum_Field_Theories\.
+[^Earman2006]: @Earman_2006_Haags_theorem_and_its_implications_for\.
+[^Haag1955]: @Haag_1955_On_quantum_field_theories\.
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
 
 #### Supersymmetry
