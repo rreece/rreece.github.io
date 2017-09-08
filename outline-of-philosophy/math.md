@@ -46,7 +46,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
 
 [^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics_in\.
-[^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_logicism\.
+[^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.
 
 
 ### G&ouml;del
@@ -172,7 +172,7 @@ Annotated bibliography
 
 ### Snapper, E. (1979). The Three Crises in Mathematics: Logicism, Intuitionism, Formalism.
 
--   @Snapper_1979_The_three_crises_in_mathematics_logicism
+-   @Snapper_1979_The_three_crises_in_mathematics_Logicism
 
 #### My thoughts
 
