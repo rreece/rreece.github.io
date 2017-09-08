@@ -188,39 +188,35 @@ TODO.
 
 ### Beyond the standard model
 
--   Supersymmetry.
--   Running of the couplings.
--   Grand unification.
--   TODO.
+-   Supersymmetry
+-   Running of the couplings
+-   Grand unification
 
 
 ### Cosmology
 
-TODO.
-
-Big bang.  $\Lambda$+CMD Cosmological Standard Model.  Inflation.
-
+-   Big bang
+-   Dark matter
 -   [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster)
 -   "A direct empirical proof of the existence of dark matter" [astro-ph/0608407](http://arxiv.org/abs/astro-ph/0608407)
+-   Inflation
+-   $\Lambda$+CMD Cosmological Standard Model
 
 
 ### Bracketing human experience
 
+-   Reductionism
 -   [Sean Carroll's acceptance speech](https://www.youtube.com/watch?v=40eiycH077A#t=402)
     for the FFRF's the emperor has no clothes award.
 -   ["Quantum Field Theory and the Limits of Knowledge"](http://www.preposterousuniverse.com/blog/2015/04/21/quantum-field-theory-and-the-limits-of-knowledge/) - Sean Carroll
 -   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) - Sean Carroll
 
-Reductionism.
-
-TODO.
-
 
 ### Fine-tuning
 
-
--   TODO.
--   Fine-tuning.  Anthropic principle.  Relationship to evolution.
+-   Fine-tuning
+-   Anthropic principle
+-   Relationship to evolution
 -   [Richard Dawkins and Steven Weinberg Discuss Science and Religion](https://www.youtube.com/watch?v=EGL8SesIo6Y)
 
 
@@ -350,6 +346,40 @@ Links and encyclopedia articles
 -   [Laws of nature](http://www.iep.utm.edu/lawofnat/)
 -   [What Else Science Requires of Time](http://www.iep.utm.edu/requires/)
 
+### Scholarpedia
+
+-   [Algebraic renormalization](http://www.scholarpedia.org/article/Algebraic_renormalization)
+-   [ATLAS experiment](http://www.scholarpedia.org/article/The_ATLAS_experiment)
+-   [Bjorken scaling](http://www.scholarpedia.org/article/Bjorken_scaling)
+-   [Coleman-Mandula theorem](http://www.scholarpedia.org/article/Coleman-Mandula_theorem)
+-   [Coleman-Weinberg mechanism](http://www.scholarpedia.org/article/Coleman-Weinberg_mechanism)
+-   [CP violation in electroweak interactions](http://www.scholarpedia.org/article/CP_violation_in_electroweak_interactions)
+-   [Critical Phenomena: field theoretical approach](http://www.scholarpedia.org/article/Critical_Phenomena:_field_theoretical_approach)
+-   [Daya Bay Experiment](http://www.scholarpedia.org/article/The_Daya_Bay_Experiment)
+-   [Englert-Brout-Higgs-Guralnik-Hagen-Kibble mechanism](http://www.scholarpedia.org/article/Englert-Brout-Higgs-Guralnik-Hagen-Kibble_mechanism)
+-   [Englert-Brout-Higgs-Guralnik-Hagen-Kibble mechanism (history)](http://www.scholarpedia.org/article/Englert-Brout-Higgs-Guralnik-Hagen-Kibble_mechanism_(history))
+-   [Faddeev-Popov ghosts](http://www.scholarpedia.org/article/Faddeev-Popov_ghosts)
+-   [Gauge invariance](http://www.scholarpedia.org/article/Gauge_invariance)
+-   [Gauge theories](http://www.scholarpedia.org/article/Gauge_theories)
+-   [Glashow-Iliopoulos-Maiani mechanism](http://www.scholarpedia.org/article/Glashow-Iliopoulos-Maiani_mechanism)
+-   [Grand unification](http://www.scholarpedia.org/article/Grand_unification)
+-   [Lagrangian formalism for fields](http://www.scholarpedia.org/article/Lagrangian_formalism_for_fields)
+-   [Lattice gauge theories](http://www.scholarpedia.org/article/Lattice_gauge_theories)
+-   [Lattice quantum field theory](http://www.scholarpedia.org/article/Lattice_quantum_field_theory)
+-   [Leptogenesis](http://www.scholarpedia.org/article/Leptogenesis)
+-   [Local operator](http://www.scholarpedia.org/article/Local_operator)
+-   [MS-bar definition of parton distribution functions](http://www.scholarpedia.org/article/MS-bar_definition_of_parton_distribution_functions)
+-   [Multiloop Feynman integrals](http://www.scholarpedia.org/article/Multiloop_Feynman_integrals)
+-   [Operator product expansion](http://www.scholarpedia.org/article/Operator_product_expansion)
+-   [Parton shower Monte Carlo event generators](http://www.scholarpedia.org/article/Parton_shower_Monte_Carlo_event_generators)
+-   [Path integral](http://www.scholarpedia.org/article/Path_integral)
+-   [Path integral: mathematical aspects](http://www.scholarpedia.org/article/Path_integral:_mathematical_aspects)
+-   [Principle of least action](http://www.scholarpedia.org/article/Principle_of_least_action)
+-   [QCD evolution equations for parton densities](http://www.scholarpedia.org/article/QCD_evolution_equations_for_parton_densities)
+-   [Second quantization](http://www.scholarpedia.org/article/Second_quantization)
+-   [Symmetry breaking in classical systems](http://www.scholarpedia.org/article/Symmetry_breaking_in_classical_systems)
+-   [Wightman quantum field_theory](http://www.scholarpedia.org/article/Wightman_quantum_field_theory)
+
 ### Wikipedia
 
 -   [AdS/CFT correspondence](http://en.wikipedia.org/wiki/AdS/CFT_correspondence)
@@ -460,40 +490,6 @@ Links and encyclopedia articles
 -   [Weyl, Hermann (1885-1955)](https://en.wikipedia.org/wiki/Hermann_Weyl)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 -   [Wigner-Eckart theorem](http://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem)
-
-### Scholarpedia
-
--   [Algebraic renormalization](http://www.scholarpedia.org/article/Algebraic_renormalization)
--   [ATLAS experiment](http://www.scholarpedia.org/article/The_ATLAS_experiment)
--   [Bjorken scaling](http://www.scholarpedia.org/article/Bjorken_scaling)
--   [Coleman-Mandula theorem](http://www.scholarpedia.org/article/Coleman-Mandula_theorem)
--   [Coleman-Weinberg mechanism](http://www.scholarpedia.org/article/Coleman-Weinberg_mechanism)
--   [CP violation in electroweak interactions](http://www.scholarpedia.org/article/CP_violation_in_electroweak_interactions)
--   [Critical Phenomena: field theoretical approach](http://www.scholarpedia.org/article/Critical_Phenomena:_field_theoretical_approach)
--   [Daya Bay Experiment](http://www.scholarpedia.org/article/The_Daya_Bay_Experiment)
--   [Englert-Brout-Higgs-Guralnik-Hagen-Kibble mechanism](http://www.scholarpedia.org/article/Englert-Brout-Higgs-Guralnik-Hagen-Kibble_mechanism)
--   [Englert-Brout-Higgs-Guralnik-Hagen-Kibble mechanism (history)](http://www.scholarpedia.org/article/Englert-Brout-Higgs-Guralnik-Hagen-Kibble_mechanism_(history))
--   [Faddeev-Popov ghosts](http://www.scholarpedia.org/article/Faddeev-Popov_ghosts)
--   [Gauge invariance](http://www.scholarpedia.org/article/Gauge_invariance)
--   [Gauge theories](http://www.scholarpedia.org/article/Gauge_theories)
--   [Glashow-Iliopoulos-Maiani mechanism](http://www.scholarpedia.org/article/Glashow-Iliopoulos-Maiani_mechanism)
--   [Grand unification](http://www.scholarpedia.org/article/Grand_unification)
--   [Lagrangian formalism for fields](http://www.scholarpedia.org/article/Lagrangian_formalism_for_fields)
--   [Lattice gauge theories](http://www.scholarpedia.org/article/Lattice_gauge_theories)
--   [Lattice quantum field theory](http://www.scholarpedia.org/article/Lattice_quantum_field_theory)
--   [Leptogenesis](http://www.scholarpedia.org/article/Leptogenesis)
--   [Local operator](http://www.scholarpedia.org/article/Local_operator)
--   [MS-bar definition of parton distribution functions](http://www.scholarpedia.org/article/MS-bar_definition_of_parton_distribution_functions)
--   [Multiloop Feynman integrals](http://www.scholarpedia.org/article/Multiloop_Feynman_integrals)
--   [Operator product expansion](http://www.scholarpedia.org/article/Operator_product_expansion)
--   [Parton shower Monte Carlo event generators](http://www.scholarpedia.org/article/Parton_shower_Monte_Carlo_event_generators)
--   [Path integral](http://www.scholarpedia.org/article/Path_integral)
--   [Path integral: mathematical aspects](http://www.scholarpedia.org/article/Path_integral:_mathematical_aspects)
--   [Principle of least action](http://www.scholarpedia.org/article/Principle_of_least_action)
--   [QCD evolution equations for parton densities](http://www.scholarpedia.org/article/QCD_evolution_equations_for_parton_densities)
--   [Second quantization](http://www.scholarpedia.org/article/Second_quantization)
--   [Symmetry breaking in classical systems](http://www.scholarpedia.org/article/Symmetry_breaking_in_classical_systems)
--   [Wightman quantum field_theory](http://www.scholarpedia.org/article/Wightman_quantum_field_theory)
 
 ### Others
 
