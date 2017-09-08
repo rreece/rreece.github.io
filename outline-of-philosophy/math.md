@@ -45,8 +45,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   Wigner [^Wigner1960]
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
 
-[^Wigner1960]: @Wigner_1960_The_Unreasonable_Effectiveness_of_Mathematics_in\.
-[^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.
+[^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics_in\.
+[^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_logicism\.
 
 
 ### G&ouml;del
@@ -63,30 +63,25 @@ From Wikipedia:
 
 ### Fictionalism
 
-Anti-realist.
-
-TODO.
+-   Anti-realist
 
 
 ### Nominalism
 
-Anti-realist?
+-   Anti-realist
+-   *Science Without Numbers* [^Field1980]
+-   Bueno [^Bueno2013]
 
-TODO.
-
--   Field, Hartry (1980). *Science Without Numbers*.
+[^Bueno2013]: @Bueno_2013_Nominalism_in_the_philosophy_of_mathematics\.
+[^Field1980]: @Field_1980_Science_Without_Numbers\.
 
 
 ### Structuralism
 
-Realist?
-
-TODO.
+-   Realist
 
 
 ### Language
-
-TODO.
 
 ![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
 
@@ -95,18 +90,15 @@ TODO.
 
 ### Naturalism
 
-Realist?
-
-TODO.
-
-See the outline on [Naturalism](naturalism.html).
+-   Realist?
+-   See the outline on [Naturalism](naturalism.html).
 
 
 ### Analysis
 
 -   Struggles with the continuum[^Baez-2016].
 
-[^Baez-2016]: @Baez_2016_Struggles_with_the_Continuum\.
+[^Baez-2016]: @Baez_2016_Struggles_with_the_continuum\.
 
 
 ### Algebra
@@ -144,6 +136,8 @@ Annotated bibliography
 
 ### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
 
+-   @Carnap_1950_Empiricism_semantics_and_ontology
+
 #### 1. The problem of abstract entities
 
 -   Empiricists tend to prefer to restrict themselves to
@@ -158,7 +152,7 @@ Annotated bibliography
 
 ### Wigner, E.P. (1960). The Unreasonable Effectiveness of Mathematics in the Natural Sciences.
 
--   @Wigner_1960_The_Unreasonable_Effectiveness_of_Mathematics_in
+-   @Wigner_1960_The_unreasonable_effectiveness_of_mathematics_in
 
 #### My thoughts
 
@@ -168,7 +162,7 @@ Annotated bibliography
 
 ### Field, H. (1980). *Science Without Numbers*.
 
--    Field, H. (1980). *Science Without Numbers*. Princeton University Press.
+-   @Field_1980_Science_Without_Numbers
 
 #### My thoughts
 
@@ -177,6 +171,8 @@ Annotated bibliography
 --------------------------------------------------------------------------------
 
 ### Snapper, E. (1979). The Three Crises in Mathematics: Logicism, Intuitionism, Formalism.
+
+-   @Snapper_1979_The_three_crises_in_mathematics_logicism
 
 #### My thoughts
 
