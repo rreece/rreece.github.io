@@ -115,6 +115,44 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 ### Quantum field theory
 
+#### Foundations
+
+-   AQFT vs LQFT
+-   No "2nd quantization"
+-   Coleman-Mandula theorem [^Coleman1967]
+
+[^Coleman1967]: @Coleman_1967_All_Possible_Symmetries_of_the_S_Matrix\.
+
+#### Scattering
+
+-   Interaction picture
+-   Correlation AKA Green's functions
+-   Feynman diagrams
+-   Vaccuum bubble cancelation
+-   LSZ reduction formula [^Lehmann1955]
+
+[^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
+
+#### Renormalization
+
+-   Huggett and Weingard [^Huggett1995]
+-   Butterfield [^Butterfield2014]
+-   Butterfield [^Butterfield2015]
+
+[^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
+[^Butterfield2014]: @Butterfield_2014_Reduction_Emergence_and_Renormalization\.
+[^Butterfield2015]: @Butterfield_2015_Renormalization_for_philosophers\.
+
+#### Effective field theory
+
+-   Huggett and Weingard again [^Huggett1995]
+-   Weinberg [^Weinberg1997]
+-   Bain [^Bain2013]
+
+[^Bain2013]: @Bain_2013_Effective_field_theories and
+    @Bain_2013_Emergence_in_effective_field_theories\.
+[^Weinberg1997]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\.
+
 #### Haag's theorem
 
 Haag's theorem [^Haag1955]
@@ -123,25 +161,21 @@ Haag's theorem [^Haag1955]
 -   Klaczynski's analysis [^Klaczynski2016]
 
 [^Earman2006]: @Earman_2006_Haags_Theorem_and_Its_Implications_for\.
-[^Haag1955]: @Haag_1955_On_quantum_field_theories\.
+[^Haag1955]: @Haag_1955_On_Quantum_Field_Theories\.
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
-
-#### Effective field theory
-
--   Weinberg [^Weinberg1997]
-
-[^Weinberg1997]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\.
 
 #### Supersymmetry
 
--   Coleman-Mandula theorem [^Coleman1967]
 -   Haag-&#321;opusza&#324;ski-Sohnius theorem [^Haag1975]
 
-[^Coleman1967]: @Coleman_1967_All_Possible_Symmetries_of_the_S_Matrix\.
 [^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries_of\.
 
 
 ### Interpretations of quantum mechanics
+
+-   Copenhagen
+-   de Broglie-Bohm
+-   Everett
 
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
 
