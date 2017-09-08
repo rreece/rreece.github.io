@@ -51,7 +51,7 @@ Thermodynamics. Statistical mechanics. Renormalization.
 -   More is different[^Anderson-1972]
 -   Emergence[^Lisi-2017]
 
-[^Anderson-1972]: @Anderson_1972_More_Is_Different\.
+[^Anderson-1972]: @Anderson_1972_More_is_different\.
 [^Lisi-2017]: @Lisi_2017_Emergence\.
 
 
@@ -140,7 +140,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Butterfield [^Butterfield2015]
 
 [^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
-[^Butterfield2014]: @Butterfield_2014_Reduction_Emergence_and_Renormalization\.
+[^Butterfield2014]: @Butterfield_2014_Reduction_emergence_and_renormalization\.
 [^Butterfield2015]: @Butterfield_2015_Renormalization_for_philosophers\.
 
 #### Effective field theory

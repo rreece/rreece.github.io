@@ -1,7 +1,7 @@
-Anderson, P.W. (1972). More Is Different. *Science*, 177, 393--396.
+Anderson, P.W. (1972). More is different. *Science*, 177, 393--396.
 Bain, J. (2013). Effective field theories. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 224--254). Oxford: Oxford University Press.
 Bain, J. (2013). Emergence in effective field theories. *European Journal for Philosophy of Science*, 3(3), 257--273.
-Butterfield, J. (2014). Reduction, Emergence, and Renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
+Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
 Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
 Coleman, S. & Mandula, J. (1967). All Possible Symmetries of the S Matrix. *Physical Review*, 159(5), 1251--1256.
 Earman, J. & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. *Erkenntnis*, 64(3), 305--344.
