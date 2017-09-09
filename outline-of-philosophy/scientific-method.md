@@ -50,6 +50,7 @@ Issues and positions
     -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
         -   Ockham's razor as a hint at parsimony and abduction
 -   Early Modern Period
+    -   [Da Vinci, Leonardo (1452-1519)](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
     -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
     -   [Tycho Brahe (1546-1601)](https://en.wikipedia.org/wiki/Tycho_Brahe)
     -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
@@ -396,6 +397,7 @@ Links and encyclopedia articles
 -   [Bacon, Francis (1561-1626)](http://plato.stanford.edu/entries/francis-bacon/)
 -   [Berkeley, George (1685-1753)](http://plato.stanford.edu/entries/berkeley/)
 -   [Coherentist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-coherence/)
+-   [Da Vinci, Leonardo (1452-1519)](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
 -   [Democritus (460-370 BCE)](http://plato.stanford.edu/entries/democritus/)
 -   [Descartes, Ren&eacute; (1596-1650)](http://plato.stanford.edu/entries/descartes/)
 -   [Descartes' Epistemology](http://plato.stanford.edu/entries/descartes-epistemology/)
