@@ -242,7 +242,6 @@ Links and encyclopedia articles
 ### IEP
 
 -   [Epistemology](http://www.iep.utm.edu/epistemo/)
--   [Gettier Problems](http://www.iep.utm.edu/gettier/)
 -   [Hempel, Carl Gustav (1905-1997)](http://www.iep.utm.edu/hempel/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
@@ -270,9 +269,7 @@ Links and encyclopedia articles
 -   [Frequentist inference](https://en.wikipedia.org/wiki/Frequentist_inference)
 -   [Foundations of statistics](https://en.wikipedia.org/wiki/Foundations_of_statistics)
 -   [Graunt, John (1620-1674)](https://en.wikipedia.org/wiki/John_Graunt)
--   [Gettier problem](http://en.wikipedia.org/wiki/Gettier_problem)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
--   [Hume's fork](http://en.wikipedia.org/wiki/Hume%27s_fork)
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
 -   [Inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
