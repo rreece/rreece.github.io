@@ -178,6 +178,7 @@ See the outline on [ethics](ethics.html).
 
 ### Criticisms of naturalism
 
+-   "Man is the measure of all things" - Protagoras
 -   "The Science Wars"
 -   Post-modernism, Social construction
 -   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2) - IEP
@@ -351,10 +352,12 @@ Links and encyclopedia articles
 -   [Natural kind](https://en.wikipedia.org/wiki/Natural_kind)
 -   [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
+-   [Protagoras (490-420 BCE)](https://en.wikipedia.org/wiki/Protagoras)
 -   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Reductionism](https://en.wikipedia.org/wiki/Reductionism)
 -   [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair)
 -   [Species problem](https://en.wikipedia.org/wiki/Species_problem)
+-   [Thales of Miletus (624-546 BCE)](https://en.wikipedia.org/wiki/Thales_of_Miletus)
 -   [Unity of Science](https://en.wikipedia.org/wiki/Unity_of_science)
 -   [Unsolved problems in philosophy, List of](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_philosophy)
 

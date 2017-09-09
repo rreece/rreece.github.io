@@ -101,7 +101,7 @@ Naturalism has its roots in the Ionian enlightenment.
 From there, it has shaped the scientific revolution.
 In many philosophical movements and counter-movements
 elements of naturalism have evolved and been refined.
-Heroes for naturalism include Thales, Protagoras, Democritus, 
+Heroes for naturalism include Thales, Democritus, 
 Epicurus, Lucretius, Newton, Hume, Reichenbach, Sellars, Quine, 
 and many others.
 
