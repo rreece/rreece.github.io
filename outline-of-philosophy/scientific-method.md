@@ -119,6 +119,10 @@ Issues and positions
     -   [Jordan, Pascual (1902-1980)](https://en.wikipedia.org/wiki/Pascual_Jordan)
     -   [Dirac, Paul (1902-1984)](https://en.wikipedia.org/wiki/Paul_Dirac)
     -   ...
+-   Modern statistics
+    -   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
+    -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
+    -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
 
 [^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
 [^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
@@ -514,6 +518,7 @@ Links and encyclopedia articles
 -   [Evolution, Outline of](http://en.wikipedia.org/wiki/Outline_of_evolution)
 -   [Explanation](https://en.wikipedia.org/wiki/Explanation)
 -   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
+-   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
 -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
 -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
 -   [Gassendi, Pierre (1592-1655)](http://en.wikipedia.org/wiki/Pierre_Gassendi)
@@ -560,6 +565,7 @@ Links and encyclopedia articles
 -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
 -   [Natural philosophy](http://en.wikipedia.org/wiki/Natural_philosophy)
 -   [Naturalized epistemology](http://en.wikipedia.org/wiki/Naturalized_epistemology)
+-   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
 -   [Neyman-Pearson lemma](http://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma)
 -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
@@ -567,6 +573,7 @@ Links and encyclopedia articles
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
 -   [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
 -   [Pauli, Wolfgang (1900-1958)](https://en.wikipedia.org/wiki/Wolfgang_Pauli)
+-   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 -   [Phlogiston theory](http://en.wikipedia.org/wiki/Phlogiston_theory)
 -   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
