@@ -1,5 +1,5 @@
 Aldrich, J. (1997). R. A. Fisher and the making of maximum likelihood 1912-1922. *Statistical Science*, 12, 162-176.
-ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in *pp* collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector. *Physical Review D*, 86, 032003. https://arxiv.org/abs/1207.0319
+ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector. *Physical Review D*, 86, 032003. https://arxiv.org/abs/1207.0319
 Benjamin, D.J. et al. (2017). Redefine statistical significance. *PsyArXiv*. https://psyarxiv.com/mky9j/ [July 22, 2017]
 Cowan, G. (1998). *Statistical Data Analysis*. Oxford: Clarendon Press.
 Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). Asymptotic formulae for likelihood-based tests of new physics. *European Physical Journal C*, 71, 1544. https://arxiv.org/abs/1007.1727
