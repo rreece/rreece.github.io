@@ -142,7 +142,7 @@ Annotated bibliography
 
 ### Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*.
 
-TODO.
+-   @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
 
 #### My thoughts
 
@@ -152,7 +152,7 @@ TODO.
 
 ### Cowan, G. (1998). *Statistical Data Analysis*.
 
-TODO.
+-   @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
 
 #### My thoughts
 
@@ -162,7 +162,7 @@ TODO.
 
 ### James, F. (2006). *Statistical Methods in Experimental Physics, 2nd Ed.*
 
-TODO.
+-   @James_2006_Statistical_Methods_in_Experimental_Particle\.
 
 #### My thoughts
 
@@ -172,10 +172,7 @@ TODO.
 
 ### Cowan, G. *et al.* (2010). Asymptotic formulae for likelihood-based tests of new physics.
 
--   Glen Cowan, Kyle Cranmer, Eilam Gross, Ofer Vitells
--   [arxiv:1007.1727](http://arxiv.org/abs/1007.1727)
-
-TODO.
+-   @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests_of\.
 
 #### My thoughts
 
@@ -188,8 +185,6 @@ TODO.
 -   $\sqrt{s}$ = 7 TeV
 -   [arxiv:1207.0319](http://arxiv.org/abs/1207.0319)
 
-TODO.
-
 #### My thoughts
 
 -   TODO.
@@ -198,9 +193,7 @@ TODO.
 
 ### Cranmer, K (2015). Practical Statistics for the LHC.
 
--   [arxiv:1503.07622](http://arxiv.org/abs/1503.07622).
-
-TODO.
+-   @Cranmer_2015_Practical_Statistics_for_the_LHC\.
 
 #### My thoughts
 
