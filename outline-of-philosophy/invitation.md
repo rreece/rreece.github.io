@@ -99,7 +99,7 @@ and the new questions we ask about it should be informed by science.
 
 Naturalism has its roots in the Ionian enlightenment.
 From there, it has shaped the scientific revolution.
-In many philosophical movements and counter-movements
+In many philosophical movements and counter-movements,
 elements of naturalism have evolved and been refined.
 Heroes for naturalism include Thales, Democritus, 
 Epicurus, Lucretius, Newton, Hume, Reichenbach, Sellars, Quine, 
