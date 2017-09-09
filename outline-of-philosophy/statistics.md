@@ -12,12 +12,12 @@ Issues and positions
 ### Problem of induction
 
 -   Hume [^Hume2007]
+    -   Weintraub [^Weintraub1995]
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 -   Reichenbach [^Reichenbach1938]
--   Salmon [^Salmon1963]
+    -   Salmon [^Salmon1963]
 -   Good [^Good1988]
--   Weintraub [^Weintraub1995]
 -   Hacking [^Hacking2001]
 -   Huber [^Huber2007]
 
