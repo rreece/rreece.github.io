@@ -69,6 +69,7 @@ Issues and positions
     -   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
     -   [Hamilton, William Rowan (1805-1865))](https://en.wikipedia.org/wiki/William_Rowan_Hamilton)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
+    -   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 -   "Scientist"
     -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
         -   Coined the term "scientist" (previously natural philosopher)
@@ -80,10 +81,11 @@ Issues and positions
     -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
     -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
 -   Modern physics
-    -   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
+    -   [Mach, Ernst (1838-1916)](https://en.wikipedia.org/wiki/Ernst_Mach)
     -   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
     -   [Einstein, Albert (1879-1955)](https://en.wikipedia.org/wiki/Albert_Einstein)
     -   [Born, Max (1882-1970)](https://en.wikipedia.org/wiki/Max_Born)
+    -   [Bohr, Niels (1885-1962)](https://en.wikipedia.org/wiki/Niels_Bohr)
     -   [Schr&ouml;dinger, Edwin (1887-1961)](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
     -   [Pauli, Wolfgang (1900-1958)](https://en.wikipedia.org/wiki/Wolfgang_Pauli)
     -   [Heisenberg, Werner (1901-1976)](https://en.wikipedia.org/wiki/Werner_Heisenberg)
@@ -453,6 +455,7 @@ Links and encyclopedia articles
 -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
 -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
 -   [Berkeley, George (1685-1753)](https://en.wikipedia.org/wiki/George_Berkeley)
+-   [Bohr, Niels (1885-1962)](https://en.wikipedia.org/wiki/Niels_Bohr)
 -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 -   [Bootstrapping](http://en.wikipedia.org/wiki/Bootstrapping_(statistics))
 -   [Born, Max (1882-1970)](https://en.wikipedia.org/wiki/Max_Born)

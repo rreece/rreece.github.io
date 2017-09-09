@@ -390,6 +390,7 @@ Links and encyclopedia articles
 -   [Bell's theorem](http://en.wikipedia.org/wiki/Bell%27s_theorem)
 -   [Bekenstein bound](https://en.wikipedia.org/wiki/Bekenstein_bound)
 -   [Black hole information paradox](http://en.wikipedia.org/wiki/Black_hole_information_paradox)
+-   [Bohr, Niels (1885-1962)](https://en.wikipedia.org/wiki/Niels_Bohr)
 -   [Bohr-Einstein debates](http://en.wikipedia.org/wiki/Bohr%E2%80%93Einstein_debates)
 -   [Born rule](http://en.wikipedia.org/wiki/Born_rule)
 -   [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster)
