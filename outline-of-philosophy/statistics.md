@@ -170,7 +170,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Cowan, G. *et al.* (2010). Asymptotic formulae for likelihood-based tests of new physics.
+### Cowan, G. *et al.* (2011). Asymptotic formulae for likelihood-based tests of new physics.
 
 -   @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests_of
 -   Glen Cowan, Kyle Cranmer, Eilam Gross, Ofer Vitells
@@ -183,7 +183,7 @@ Annotated bibliography
 
 ### ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector.
 
--   $\sqrt{s}$ = 7 TeV
+-   @ATLAS_2012_Combined_search_for_the_Standard_Model_Higgs_boson
 -   [arxiv:1207.0319](http://arxiv.org/abs/1207.0319)
 
 #### My thoughts

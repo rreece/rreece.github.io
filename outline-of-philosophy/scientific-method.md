@@ -269,6 +269,8 @@ Annotated bibliography
 
 ### Hume, D. (1748). *An Enquiry Concerning Human Understanding*.
 
+-   @Hume_2007_An_Enquiry_Concerning_Human_Understanding
+
 #### 1. Of the different Species of Philosophy
 
 #### 2. Of the Origin of Ideas
@@ -302,7 +304,7 @@ Annotated bibliography
 
 ### Sellars, W. (1963). *Empircism and Philosophy of Mind*.
 
--   TODO.
+-   @Sellars_1963_Empircism_and_philosophy_of_mind
 
 #### My thoughts
 
@@ -313,7 +315,7 @@ Annotated bibliography
 
 ### Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*.
 
-TODO.
+-   @Pigliucci_2010_Nonsense_on_Stilts_How_to_Tell_Science_From_Bunk
 
 #### My thoughts
 
