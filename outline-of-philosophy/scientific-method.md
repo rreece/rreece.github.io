@@ -78,11 +78,13 @@ Issues and positions
     -   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
     -   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
     -   [Einstein, Albert (1879-1955)](https://en.wikipedia.org/wiki/Albert_Einstein)
+    -   [Born, Max (1882-1970)](https://en.wikipedia.org/wiki/Max_Born)
     -   [Schr&ouml;dinger, Edwin (1887-1961)](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
     -   [Pauli, Wolfgang (1900-1958)](https://en.wikipedia.org/wiki/Wolfgang_Pauli)
     -   [Heisenberg, Werner (1901-1976)](https://en.wikipedia.org/wiki/Werner_Heisenberg)
     -   [Jordan, Pascual (1902-1980)](https://en.wikipedia.org/wiki/Pascual_Jordan)
     -   [Dirac, Paul (1902-1984)](https://en.wikipedia.org/wiki/Paul_Dirac)
+    -   ...
 
 [^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
 [^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
@@ -463,6 +465,7 @@ Links and encyclopedia articles
 -   [Berkeley, George (1685-1753)](https://en.wikipedia.org/wiki/George_Berkeley)
 -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 -   [Bootstrapping](http://en.wikipedia.org/wiki/Bootstrapping_(statistics))
+-   [Born, Max (1882-1970)](https://en.wikipedia.org/wiki/Max_Born)
 -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
 -   [Cartesian doubt](http://en.wikipedia.org/wiki/Cartesian_doubt)
 -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
