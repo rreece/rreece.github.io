@@ -4,7 +4,6 @@
 Can we claim to know anything about reality?
 Is it a goal of science to describe reality?
 Does science make any progress at describing reality?
-
 This outline focuses on the issues of *metaphysical* progress
 from science, while my outline on
 [the scientific method](scientific-method.html)
