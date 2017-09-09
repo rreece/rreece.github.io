@@ -22,7 +22,9 @@ Issues and positions
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
     -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
     -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
+        -   skepticism, anti-dogmatism
     -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
+        -   atomic theory
     -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
     -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy)
     -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
@@ -34,12 +36,17 @@ Issues and positions
 -   The Middle Ages
     -   [Islamic Golden Age](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
     -   [Academy of Gondishapur](https://en.wikipedia.org/wiki/Academy_of_Gondishapur)
+        -   in what is now Khuzestan Province, Iran
     -   [House of Wisdom](https://en.wikipedia.org/wiki/House_of_Wisdom)
+        -   in Abbasid-era Baghdad, Iraq
     -   [Ibn Sina (980-1037)](https://en.wikipedia.org/wiki/Avicenna) AKA "Avicenna"
     -   [Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen) AKA "Alhazen"
+        -   *Book of Optics*
+        -   intromission over extramission theories of vision
     -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
     -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
     -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
+        -   hints at
 -   Early Modern Period
     -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
     -   [Tycho Brahe (1546-1601)](https://en.wikipedia.org/wiki/Tycho_Brahe)
@@ -56,6 +63,7 @@ Issues and positions
     -   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
         -   corpuscules
     -   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
+    -   [Hooke, Robert (1635-1703)](https://en.wikipedia.org/wiki/Robert_Hooke)
     -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
     -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
     -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
@@ -66,23 +74,37 @@ Issues and positions
     -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
     -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
     -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
+    -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
+    -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
+    -   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
     -   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
     -   [Hamilton, William Rowan (1805-1865))](https://en.wikipedia.org/wiki/William_Rowan_Hamilton)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
     -   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 -   "Scientist"
-    -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
-        -   Coined the term "scientist" (previously natural philosopher)
+    -   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
+        -   atomic theory
     -   [Somerville, Mary (1780-1729)](https://en.wikipedia.org/wiki/Mary_Somerville)
         -   *On the Connexion of the Physical Sciences*
+    -   [Babbage, Charles (1791-1871)](https://en.wikipedia.org/wiki/Charles_Babbage)
+    -   [Herschel, John (1792-1871)](https://en.wikipedia.org/wiki/John_Herschel)
+        -   *Preliminary Discourse* (1831)
+    -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
+        -   Coined the term "scientist" (previously natural philosopher)
+    -   [Carnot, Nicolas L&eacute;onard Sadi](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot)
     -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
+    -   [Ladd-Franklin, Christine (1847-1930)](https://en.wikipedia.org/wiki/Christine_Ladd-Franklin)
 -   Biological evolution
     -   Hume on humans being animals [^Hume2007]
     -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
+    -   [Mendel, Gregor (1822-1884)](https://en.wikipedia.org/wiki/Gregor_Mendel)
     -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
 -   Modern physics
     -   [Mach, Ernst (1838-1916)](https://en.wikipedia.org/wiki/Ernst_Mach)
+    -   [Lorentz, Hendrik (1853-1928)](https://en.wikipedia.org/wiki/Hendrik_Lorentz)
+    -   [Poincar&eacute;, Henri (1854-1912)](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
     -   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
+    -   [Curie, Marie (1867-1934)](https://en.wikipedia.org/wiki/Marie_Curie)
     -   [Einstein, Albert (1879-1955)](https://en.wikipedia.org/wiki/Albert_Einstein)
     -   [Born, Max (1882-1970)](https://en.wikipedia.org/wiki/Max_Born)
     -   [Bohr, Niels (1885-1962)](https://en.wikipedia.org/wiki/Niels_Bohr)
@@ -452,6 +474,7 @@ Links and encyclopedia articles
 -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
 -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
+-   [Babbage, Charles (1791-1871)](https://en.wikipedia.org/wiki/Charles_Babbage)
 -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
 -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
 -   [Berkeley, George (1685-1753)](https://en.wikipedia.org/wiki/George_Berkeley)
@@ -460,11 +483,14 @@ Links and encyclopedia articles
 -   [Bootstrapping](http://en.wikipedia.org/wiki/Bootstrapping_(statistics))
 -   [Born, Max (1882-1970)](https://en.wikipedia.org/wiki/Max_Born)
 -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
+-   [Carnot, Nicolas L&eacute;onard Sadi](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot)
 -   [Cartesian doubt](http://en.wikipedia.org/wiki/Cartesian_doubt)
 -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
 -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
 -   [Copernican Revolution](https://en.wikipedia.org/wiki/Copernican_Revolution)
 -   [Cram&#233;r-Rao bound](http://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound)
+-   [Curie, Marie (1867-1934)](https://en.wikipedia.org/wiki/Marie_Curie)
+-   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
 -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
 -   [Deductive-nomological model](https://en.wikipedia.org/wiki/Deductive-nomological_model)
 -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
@@ -489,6 +515,7 @@ Links and encyclopedia articles
 -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
 -   [Hamilton, William Rowan (1805-1865)](http://en.wikipedia.org/wiki/William_Rowan_Hamilton)
 -   [Heisenberg, Werner (1901-1976)](https://en.wikipedia.org/wiki/Werner_Heisenberg)
+-   [Herschel, John (1792-1871)](https://en.wikipedia.org/wiki/John_Herschel)
 -   [History of science](http://en.wikipedia.org/wiki/History_of_science)
 -   [History of the scientific method](http://en.wikipedia.org/wiki/History_of_scientific_method)
 -   [Hobbes, Thomas (1588-1679)](http://en.wikipedia.org/wiki/Thomas_Hobbes)
@@ -510,6 +537,7 @@ Links and encyclopedia articles
 -   [Jordan, Pascual (1902-1980)](https://en.wikipedia.org/wiki/Pascual_Jordan)
 -   [Justification, Theory of](https://en.wikipedia.org/wiki/Theory_of_justification)
 -   [Knowledge](https://en.wikipedia.org/wiki/Knowledge)
+-   [Ladd-Franklin, Christine (1847-1930)](https://en.wikipedia.org/wiki/Christine_Ladd-Franklin)
 -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
 -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
@@ -517,6 +545,7 @@ Links and encyclopedia articles
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   [Mach, Ernst (1838-1916)](https://en.wikipedia.org/wiki/Ernst_Mach)
 -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
+-   [Mendel, Gregor (1822-1884)](https://en.wikipedia.org/wiki/Gregor_Mendel)
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Models of scientific inquiry](http://en.wikipedia.org/wiki/Models_of_scientific_inquiry)
 -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
@@ -535,6 +564,7 @@ Links and encyclopedia articles
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
 -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy)
 -   [Plato's problem](http://en.wikipedia.org/wiki/Plato%27s_Problem) from Noam Chomsky 
+-   [Poincar&eacute;, Henri (1854-1912)](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
 -   [Pseudoscience](http://en.wikipedia.org/wiki/Pseudoscience)
