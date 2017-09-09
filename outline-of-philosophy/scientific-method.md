@@ -87,7 +87,7 @@ Issues and positions
     -   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
         -   atomic theory
     -   [Somerville, Mary (1780-1729)](https://en.wikipedia.org/wiki/Mary_Somerville)
-        -   *On the Connexion of the Physical Sciences*
+        -   *On the Connexion of the Physical Sciences* (1834)
     -   [Babbage, Charles (1791-1871)](https://en.wikipedia.org/wiki/Charles_Babbage)
     -   [Herschel, John (1792-1871)](https://en.wikipedia.org/wiki/John_Herschel)
         -   *Preliminary Discourse* (1831)
