@@ -324,6 +324,8 @@ TODO.
 
 ### French, S. (2007). *Science: Key Concepts in Philosophy*.
 
+-   @French_2007_Science_Key_Concepts_in_Philosophy
+
 #### 1. Introduction
 
 >   Do not become archivists of facts. Try to penetrate to the secret of their

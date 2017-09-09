@@ -1,12 +1,12 @@
-Aldrich, J. (1997). R. A. Fisher and the Making of Maximum Likelihood 1912-1922. *Statistical Science*, 12, 162-176.
-Benjamin, D.J. et al. (2017). Redefine Statistical Significance. *PsyArXiv*. https://psyarxiv.com/mky9j/ [July 22, 2017]
+Aldrich, J. (1997). R. A. Fisher and the making of maximum likelihood 1912-1922. *Statistical Science*, 12, 162-176.
+Benjamin, D.J. et al. (2017). Redefine statistical significance. *PsyArXiv*. https://psyarxiv.com/mky9j/ [July 22, 2017]
 Cowan, G. (1998). *Statistical Data Analysis*. Oxford: Clarendon Press.
 Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). Asymptotic formulae for likelihood-based tests of new physics. *European Physical Journal C*, 71, 1544. https://arxiv.org/abs/1007.1727
 Cowan, G. (2012). Discovery sensitivity for a counting experiment with background uncertainty. https://www.pp.rhul.ac.uk/~cowan/stat/notes/medsigNote.pdf
 Cowan, G. (2016). Statistics. In C. Patrignani \emph{et al}. (Particle Data Group), \emph{Chinese Physics C}, \emph{40}, 100001. \url{http://pdg.lbl.gov/2016/reviews/rpp2016-rev-statistics.pdf}
 Cram\'{e}r, H. (1946). A contribution to the theory of statistical estimation. *Skandinavisk Aktuarietidskrift*, 29, 85--94.
-Cranmer, K. (2015). Practical Statistics for the LHC. https://arxiv.org/abs/1503.07622
-Feldman, G.J., & Cousins, R.D. (1998). A Unified Approach to the Classical Statistical Analysis of Small Signals. *Physical Review D*, 57, 3873. https://arxiv.org/abs/physics/9711021
+Cranmer, K. (2015). Practical statistics for the LHC. https://arxiv.org/abs/1503.07622
+Feldman, G.J., & Cousins, R.D. (1998). A unified approach to the classical statistical analysis of small signals. *Physical Review D*, 57, 3873. https://arxiv.org/abs/physics/9711021
 Fr\'{e}chet, M. (1943).  Sur l'extension de certaines \'{e}valuations statistiques au cas de petits \'{e}chantillons. *Revue de l'Institut International de Statistique*, 11, 182--205.
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
 Goodman, N. (1955). *Fact, Fiction, and Forecast*. Cambridge, MA: Harvard University Press.
@@ -16,23 +16,23 @@ Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosop
 Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford: Oxford University Press. [(Originally published in 1748)]
 James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
 Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
-Leemis, L.M. & McQueston, J.T. (2008). Univariate Distribution Relationships. *The American Statistician*, 62(1), 45--53.
+Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53.
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
 Mayo, D. G. (1996). *Error and the Growth of Experimental Knowledge*. Chicago: Chicago University Press.
-Neyman, J., & Pearson, E.S. (1933). On the Problem of the Most Efficient Tests of Statistical Hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
+Neyman, J., & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
 Rao, C.R. (1945). Information and the accuracy attainable in the estimation of statistical parameters. *Bulletin of the Calcutta Mathematical Society*, 37, 81--91.
 Rao, C.R. (1947). Minimum variance and the estimation of several parameters. In *Mathematical Proceedings of the Cambridge Philosophical Society*, 43, 280--283. Cambridge, UK: Cambridge University Press.
 Reichenbach, H. (1938). *Experience and Prediction*. Chicago: University of Chicago Press.
-Reichenbach, H. (1940). On the Justification of Induction. *The Journal of Philosophy*, 37, 97--103.
-Salmon, W.C. (1963). On Vindicating Induction. *Philosophy of Science*, 30, 252--261.
+Reichenbach, H. (1940). On the justification of induction. *The Journal of Philosophy*, 37, 97--103.
+Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.
 Salmon, W.C. (1966). *The Foundations of Scientific Inference*. Pittsburgh: University of Pittsburgh Press.
-Salmon, W.C. (1991). Hans Reichenbach's Vindication of Induction. *Erkenntnis*, 35, 99--122.
-Sellars, W. (1964). Induction as Vindication. *Philosophy of Science*, 31, 197--231.
-Sinervo, P. (2002). Signal Significance in Particle Physics. In Whalley, M.R. & Lyons, L. (Eds.), *Proceedings of the Conference on Advanced Statistical Techniques in Particle Physics*. Durham, UK: Institute of Particle Physics Phenomenology. https://arxiv.org/abs/hep-ex/0208005v1
-Sinervo, P. (2003). Definition and Treatment of Systematic Uncertainties in High Energy Physics and Astrophysics. In Lyons, L., & Mount, R., & Reitmeyer, R. (Eds.), *Proceedings of the Conference on Statistical Problems in Particle Physics, Astrophysics, and Cosmology (PhyStat2003)* (pp. 122--129). Stanford: Stanford Linear Accelerator Center. https://www.slac.stanford.edu/econf/C030908/papers/TUAT004.pdf
+Salmon, W.C. (1991). Hans Reichenbach's vindication of induction. *Erkenntnis*, 35, 99--122.
+Sellars, W. (1964). Induction as vindication. *Philosophy of Science*, 31, 197--231.
+Sinervo, P. (2002). Signal significance in particle physics. In Whalley, M.R. & Lyons, L. (Eds.), *Proceedings of the Conference on Advanced Statistical Techniques in Particle Physics*. Durham, UK: Institute of Particle Physics Phenomenology. https://arxiv.org/abs/hep-ex/0208005v1
+Sinervo, P. (2003). Definition and treatment of systematic uncertainties in high energy physics and astrophysics. In Lyons, L., & Mount, R., & Reitmeyer, R. (Eds.), *Proceedings of the Conference on Statistical Problems in Particle Physics, Astrophysics, and Cosmology (PhyStat2003)* (pp. 122--129). Stanford: Stanford Linear Accelerator Center. https://www.slac.stanford.edu/econf/C030908/papers/TUAT004.pdf
 Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. London: Elsevier.
-Wald, A. (1943). Tests of Statistical Hypotheses Concerning Several Parameters When the Number of Observations is Large. *Transactions of the American Mathematical Society*, 54, 426--482.
+Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482.
 Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.
-Wasserstein, R.L., & Lazar, N.A. (2016). The ASA's Statement on p-values: Context, process, and purpose. *American Statistician*, 70, 129--133.
-Weintraub, R. (1995). What was Hume's Contribution to the Problem of Induction? *The Philosophical Quarterly*, 45, 460--470.
+Wasserstein, R.L., & Lazar, N.A. (2016). The ASA's statement on p-values: Context, process, and purpose. *American Statistician*, 70, 129--133.
+Weintraub, R. (1995). What was Hume's contribution to the problem of induction? *The Philosophical Quarterly*, 45, 460--470.
 Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62.
