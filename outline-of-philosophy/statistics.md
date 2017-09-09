@@ -36,6 +36,7 @@ Issues and positions
 ### Probability and uncertainty
 
 -   Frequentist vs Bayesian probability
+    -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   Accuracy vs precision [^Cowan1998]
 -   Mayo: Learning from Error [^Mayo1996]
 
@@ -205,8 +206,10 @@ Annotated bibliography
 
 -   Univariate Distribution Relationships [^Leemis2008]
 -   *All of Statistics* [^Wasserman2003]
+-   *The Foundations of Statistics* [^Savage1954]
 
 [^Leemis2008]: @Leemis_2008_Univariate_distribution_relationships\.
+[^Savage1954]: @Savage_1954_The_Foundations_of_Statistics\.
 [^Wasserman2003]: @Wasserman_2003_All_of_Statistics_A_Concise_Course_in_Statistical\.
 
 
@@ -245,11 +248,13 @@ Links and encyclopedia articles
 -   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
 -   [Analysis of variance](https://en.wikipedia.org/wiki/Analysis_of_variance)
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
+-   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
 -   [Bootstrapping](http://en.wikipedia.org/wiki/Bootstrapping_(statistics))
 -   [Confidence interval](https://en.wikipedia.org/wiki/Confidence_interval)
 -   [Cosmic variance](https://en.wikipedia.org/wiki/Cosmic_variance)
 -   [Cram&eacute;r-Rao bound](http://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound)
+-   [Data science](https://en.wikipedia.org/wiki/Data_science)
 -   [Decision theory](https://en.wikipedia.org/wiki/Decision_theory)
 -   [Deductive-nomological model](https://en.wikipedia.org/wiki/Deductive-nomological_model)
 -   [Empircism](http://en.wikipedia.org/wiki/Empiricism)
@@ -258,10 +263,13 @@ Links and encyclopedia articles
 -   [Frequentist inference](https://en.wikipedia.org/wiki/Frequentist_inference)
 -   [Foundations of statistics](https://en.wikipedia.org/wiki/Foundations_of_statistics)
 -   [Graunt, John (1620-1674)](https://en.wikipedia.org/wiki/John_Graunt)
+-   [History of probability](https://en.wikipedia.org/wiki/History_of_probability)
+-   [History of statistics](https://en.wikipedia.org/wiki/History_of_statistics)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
 -   [Inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
+-   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
 -   [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
 -   [Maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
@@ -273,6 +281,7 @@ Links and encyclopedia articles
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
+-   [Savage, Leonard Jimmie (1917-1971)](https://en.wikipedia.org/wiki/Leonard_Jimmie_Savage)
 -   [Statistical classification](http://en.wikipedia.org/wiki/Statistical_classification)
 -   [Statistical hypothesis testing](http://en.wikipedia.org/wiki/Statistical_hypothesis_testing)
 -   [Statistical inference](http://en.wikipedia.org/wiki/Statistical_inference)

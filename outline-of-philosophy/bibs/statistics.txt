@@ -28,6 +28,7 @@ Reichenbach, H. (1940). On the justification of induction. *The Journal of Philo
 Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.
 Salmon, W.C. (1966). *The Foundations of Scientific Inference*. Pittsburgh: University of Pittsburgh Press.
 Salmon, W.C. (1991). Hans Reichenbach's vindication of induction. *Erkenntnis*, 35, 99--122.
+Savage, L.J. (1954). *The Foundations of Statistics*. Hoboken, NJ: John Wiley & Sons.
 Sellars, W. (1964). Induction as vindication. *Philosophy of Science*, 31, 197--231.
 Sinervo, P. (2002). Signal significance in particle physics. In Whalley, M.R. & Lyons, L. (Eds.), *Proceedings of the Conference on Advanced Statistical Techniques in Particle Physics*. Durham, UK: Institute of Particle Physics Phenomenology. https://arxiv.org/abs/hep-ex/0208005v1
 Sinervo, P. (2003). Definition and treatment of systematic uncertainties in high energy physics and astrophysics. In Lyons, L., & Mount, R., & Reitmeyer, R. (Eds.), *Proceedings of the Conference on Statistical Problems in Particle Physics, Astrophysics, and Cosmology (PhyStat2003)* (pp. 122--129). Stanford: Stanford Linear Accelerator Center. https://www.slac.stanford.edu/econf/C030908/papers/TUAT004.pdf
