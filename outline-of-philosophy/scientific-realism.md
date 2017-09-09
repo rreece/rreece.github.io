@@ -949,6 +949,7 @@ Links and encyclopedia articles
 -   [Philosophy of science](http://en.wikipedia.org/wiki/Philosophy_of_science)
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 -   [Picture theory of language](https://en.wikipedia.org/wiki/Picture_theory_of_language)
+-   [Platonic realism](https://en.wikipedia.org/wiki/Platonic_realism)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Positivism](http://en.wikipedia.org/wiki/Positivism)
 -   [Positivism Dispute](http://en.wikipedia.org/wiki/Positivism_dispute)

@@ -15,28 +15,16 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and positions
 --------------------------------------------------------------------------------
 
-### Platonism
-
-Realist.
-
--   The Academy: "Let no one ignorant of geometry enter"
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-1.  blah
-2.  blah
-
--   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
-
-
 ### Pythagoreanism
 
+-   Radical realism
+
+
+### Platonism
+
 -   Realist
+-   The Academy: "Let no one ignorant of geometry enter"
+-   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
 
 
 ### Formalism
@@ -237,6 +225,8 @@ Links and encyclopedia articles
 -   [Platonism in Metaphysics](http://plato.stanford.edu/entries/platonism/)
 -   [Principia Mathematica](http://plato.stanford.edu/entries/principia-mathematica/)
 -   [Proof Theory](http://plato.stanford.edu/entries/proof-theory-development/)
+-   [Pythagoras (570-495 BCE)](https://plato.stanford.edu/entries/pythagoras/)
+-   [Pythagoreanism](https://plato.stanford.edu/entries/pythagoreanism/)
 -   [Quine's New Foundations](https://plato.stanford.edu/entries/quine-nf/)
 -   [Russell, Bertrand (1872-1970)](http://plato.stanford.edu/entries/russell/)
 -   [Russell's Logical Atomism](http://plato.stanford.edu/entries/logical-atomism/)
@@ -273,9 +263,14 @@ Links and encyclopedia articles
 -   [Modal Metaphysics](http://www.iep.utm.edu/mod-meta/)
 -   [Models](http://www.iep.utm.edu/models/)
 -   [Model-Theoretic Conceptions of Logical Consequence](http://www.iep.utm.edu/logcon-m/)
--   [Platonism, Mathematical](http://www.iep.utm.edu/mathplat/)
+-   [Neo-Platonism](http://www.iep.utm.edu/neoplato/)
+-   [Plato (428/7 or 424/3 - 348/7 BCE)](http://www.iep.utm.edu/plato/)
+-   [Platonism, mathematical](http://www.iep.utm.edu/mathplat/)
+-   [Platonism, middle](http://www.iep.utm.edu/midplato/)
+-   [Plato's Academy](http://www.iep.utm.edu/academy/)
 -   [Poincar&eacute;'s Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)
 -   [Process Philosophy](http://www.iep.utm.edu/processp/)
+-   [Pythagoras (570-495 BCE)](http://www.iep.utm.edu/pythagor/)
 -   [Relational Models Theory](http://www.iep.utm.edu/r-models/)
 -   [Russell's Paradox](http://www.iep.utm.edu/par-russ/)
 -   [Universals](http://www.iep.utm.edu/universa/)
@@ -302,9 +297,15 @@ Links and encyclopedia articles
 -   [Mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Natural number](http://en.wikipedia.org/wiki/Natural_number)
+-   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
+-   [Platonic Academy (428/7 - 348/7 BCE)](https://en.wikipedia.org/wiki/Platonic_Academy)
+-   [Platonic realism](https://en.wikipedia.org/wiki/Platonic_realism)
+-   [Platonism](https://en.wikipedia.org/wiki/Platonism)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
 -   [Problem of universals](https://en.wikipedia.org/wiki/Problem_of_universals)
 -   [Propositional calculus](https://en.wikipedia.org/wiki/Propositional_calculus)
+-   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
+-   [Pythagoreanism](https://en.wikipedia.org/wiki/Pythagoreanism)
 -   [Rule of inference](https://en.wikipedia.org/wiki/Rule_of_inference)
 -   [Russell, Bertrand (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell)
 -   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
