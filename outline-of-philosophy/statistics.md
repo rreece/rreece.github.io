@@ -173,6 +173,7 @@ Annotated bibliography
 ### Cowan, G. *et al.* (2010). Asymptotic formulae for likelihood-based tests of new physics.
 
 -   @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests_of\.
+-   Glen Cowan, Kyle Cranmer, Eilam Gross, Ofer Vitells
 
 #### My thoughts
 
