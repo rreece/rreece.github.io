@@ -52,6 +52,7 @@ Issues and positions
 
 -   Jerzy Neyman, Egon Pearson, Ronald Fisher
 -   Likelihood principle
+    -   violated by both Frequentists and Bayesians
 -   Pedagogy
     -   Kendall [^Kendall1946]
     -   James [^James2006]
