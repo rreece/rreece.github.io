@@ -65,7 +65,7 @@ Issues and positions
 -   Power and confidence
 -   Neyman-Pearson lemma [^Neyman1933]
 -   Wilks [^Wilks1938] and Wald [^Wald1943]
--   significance [^Cowan2012]
+-   $p$-values and significance [^Cowan2012]
 -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
 
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
@@ -104,7 +104,7 @@ Issues and positions
 
 -   file-drawer effect = look-elsewhere effect
 -   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
--   ASA statement on p-values [^Wasserstein2016]
+-   ASA statement on $p$-values [^Wasserstein2016]
 -   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]
 
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
@@ -122,7 +122,6 @@ Issues and positions
 
 ### Implications for the realism debate
 
--   TODO
 -   See the outline on [scientific realism](scientific-realism.html)
 
 
@@ -146,7 +145,7 @@ Annotated bibliography
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 --------------------------------------------------------------------------------
 
@@ -156,7 +155,7 @@ Annotated bibliography
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 --------------------------------------------------------------------------------
 
@@ -166,7 +165,7 @@ Annotated bibliography
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 --------------------------------------------------------------------------------
 
@@ -177,7 +176,7 @@ Annotated bibliography
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 --------------------------------------------------------------------------------
 
@@ -188,7 +187,7 @@ Annotated bibliography
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 --------------------------------------------------------------------------------
 
@@ -198,7 +197,7 @@ Annotated bibliography
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 --------------------------------------------------------------------------------
 
