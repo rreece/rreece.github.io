@@ -18,13 +18,13 @@ Issues and positions
 ### Problem of induction
 
 -   Hume [^Hume2007]
+-   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   Reichenbach [^Reichenbach1938]
 -   Salmon [^Salmon1963]
 -   Good [^Good1988]
 -   Weintraub [^Weintraub1995]
 -   Hacking [^Hacking2001]
 -   Huber [^Huber2007]
-
 
 [^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
 [^Huber2007]: @Huber_2007_Confirmation_and_induction\.
@@ -278,6 +278,7 @@ Links and encyclopedia articles
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
 -   [Maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
+-   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Neyman-Pearson lemma](http://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma)
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)

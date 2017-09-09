@@ -71,6 +71,10 @@ Issues and positions
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
 -   "Scientist"
     -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
+        -   Coined the term "scientist" (previously natural philosopher)
+    -   [Somerville, Mary (1780-1729)](https://en.wikipedia.org/wiki/Mary_Somerville)
+        -   *On the Connexion of the Physical Sciences*
+    -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   Biological evolution
     -   Hume on humans being animals [^Hume2007]
     -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
@@ -510,6 +514,7 @@ Links and encyclopedia articles
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   [Mach, Ernst (1838-1916)](https://en.wikipedia.org/wiki/Ernst_Mach)
 -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
+-   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Models of scientific inquiry](http://en.wikipedia.org/wiki/Models_of_scientific_inquiry)
 -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
 -   [Natural philosophy](http://en.wikipedia.org/wiki/Natural_philosophy)
@@ -541,6 +546,7 @@ Links and encyclopedia articles
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientism](http://en.wikipedia.org/wiki/Scientism)
 -   [Skepticism, Philosophical](http://en.wikipedia.org/wiki/Philosophical_skepticism)
+-   [Somerville, Mary (1780-1729)](https://en.wikipedia.org/wiki/Mary_Somerville)
 -   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
 -   [Statistical classification](http://en.wikipedia.org/wiki/Statistical_classification)
 -   [Statistical hypothesis testing](http://en.wikipedia.org/wiki/Statistical_hypothesis_testing)
