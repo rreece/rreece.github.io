@@ -19,8 +19,7 @@ Issues and positions
 
 ![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig:timeline-of-major-philosophers-since-1200}
 
--   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
--   Beginnings of the Scientific Method
+-   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
     -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
     -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
     -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
@@ -38,6 +37,7 @@ Issues and positions
     -   [House of Wisdom](https://en.wikipedia.org/wiki/House_of_Wisdom)
     -   [Ibn Sina (980-1037)](https://en.wikipedia.org/wiki/Avicenna) AKA "Avicenna"
     -   [Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen) AKA "Alhazen"
+    -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
     -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
     -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   Early Modern Period
@@ -511,6 +511,7 @@ Links and encyclopedia articles
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
 -   [Inductivism](https://en.wikipedia.org/wiki/Inductivism)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
+-   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
 -   [Islamic Golden Age](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
 -   [Jordan, Pascual (1902-1980)](https://en.wikipedia.org/wiki/Pascual_Jordan)
 -   [Justification, Theory of](https://en.wikipedia.org/wiki/Theory_of_justification)
