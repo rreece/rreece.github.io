@@ -94,7 +94,7 @@ $\hat{U}(x^{\mu}) = e^{ -i \: \hat{P}_\mu \: x^\mu }$
 
 $\langle x | n \rangle = \psi_{n}(x)$
 
--   Schrodinger Equation
+-   Schr&ouml;dinger Equation
 
 $i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle$
 

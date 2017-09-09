@@ -57,17 +57,32 @@ Issues and positions
         -   corpuscules
     -   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
     -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
-    -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
     -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
+    -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
     -   [Berkeley, George (1685-1753)](https://en.wikipedia.org/wiki/George_Berkeley)
     -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
         -   *An Enquiry Concerning Human Understanding* (1748) [^Hume2007]
+-   Cononical classical physics
+    -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
+    -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
+    -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
+    -   [Hamilton, William Rowan (1805-1865))](https://en.wikipedia.org/wiki/William_Rowan_Hamilton)
+    -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
 -   "Scientist"
     -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
--   Biological evolution:
+-   Biological evolution
     -   Hume on humans being animals [^Hume2007]
     -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
     -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
+-   Modern physics
+    -   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
+    -   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
+    -   [Einstein, Albert (1879-1955)](https://en.wikipedia.org/wiki/Albert_Einstein)
+    -   [Schr&ouml;dinger, Edwin (1887-1961)](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
+    -   [Pauli, Wolfgang (1900-1958)](https://en.wikipedia.org/wiki/Wolfgang_Pauli)
+    -   [Heisenberg, Werner (1901-1976)](https://en.wikipedia.org/wiki/Werner_Heisenberg)
+    -   [Jordan, Pascual (1902-1980)](https://en.wikipedia.org/wiki/Pascual_Jordan)
+    -   [Dirac, Paul (1902-1984)](https://en.wikipedia.org/wiki/Paul_Dirac)
 
 [^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
 [^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
@@ -458,6 +473,8 @@ Links and encyclopedia articles
 -   [Deductive-nomological model](https://en.wikipedia.org/wiki/Deductive-nomological_model)
 -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
 -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+-   [Dirac, Paul (1902-1984)](https://en.wikipedia.org/wiki/Paul_Dirac)
+-   [Einstein, Albert (1879-1955)](https://en.wikipedia.org/wiki/Albert_Einstein)
 -   [Empircism](http://en.wikipedia.org/wiki/Empiricism)
 -   [Epistemology](http://en.wikipedia.org/wiki/Epistemology)
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
@@ -475,6 +492,7 @@ Links and encyclopedia articles
 -   [Gettier problem](http://en.wikipedia.org/wiki/Gettier_problem)
 -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
 -   [Hamilton, William Rowan (1805-1865)](http://en.wikipedia.org/wiki/William_Rowan_Hamilton)
+-   [Heisenberg, Werner (1901-1976)](https://en.wikipedia.org/wiki/Werner_Heisenberg)
 -   [History of science](http://en.wikipedia.org/wiki/History_of_science)
 -   [History of the scientific method](http://en.wikipedia.org/wiki/History_of_scientific_method)
 -   [Hobbes, Thomas (1588-1679)](http://en.wikipedia.org/wiki/Thomas_Hobbes)
@@ -491,6 +509,7 @@ Links and encyclopedia articles
 -   [Inductivism](https://en.wikipedia.org/wiki/Inductivism)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
 -   [Islamic Golden Age](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
+-   [Jordan, Pascual (1902-1980)](https://en.wikipedia.org/wiki/Pascual_Jordan)
 -   [Justification, Theory of](https://en.wikipedia.org/wiki/Theory_of_justification)
 -   [Knowledge](https://en.wikipedia.org/wiki/Knowledge)
 -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
@@ -510,7 +529,9 @@ Links and encyclopedia articles
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
 -   [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
+-   [Pauli, Wolfgang (1900-1958)](https://en.wikipedia.org/wiki/Wolfgang_Pauli)
 -   [Phlogiston theory](http://en.wikipedia.org/wiki/Phlogiston_theory)
+-   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
 -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy)
 -   [Plato's problem](http://en.wikipedia.org/wiki/Plato%27s_Problem) from Noam Chomsky 
@@ -522,6 +543,7 @@ Links and encyclopedia articles
 -   [Pythagoreanism](https://en.wikipedia.org/wiki/Pythagoreanism)
 -   [Razor (philosophy)](https://en.wikipedia.org/wiki/Razor_(philosophy))
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
+-   [Schr&ouml;dinger, Edwin (1887-1961)](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
 -   [Science](http://en.wikipedia.org/wiki/Science)
 -   [Science, Philosophy of](http://en.wikipedia.org/wiki/Philosophy_of_science)
 -   [Scientific skepticism](http://en.wikipedia.org/wiki/Scientific_skepticism)
