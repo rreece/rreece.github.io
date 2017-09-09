@@ -64,21 +64,6 @@ Issues and positions
 [^Kendall1946]: @Kendall_1946_The_Advanced_Theory_of_Statistics_VolII\.
 
 
-### Point estimation and confidence intervals
-
--   regression
--   MLE: Maximum likelihood estimators, Fisher [^Aldrich1997]
--   Cram&eacute;r-Rao bound [^Cramer-Rao]
--   Asymptotics [^Cowan2011]
-
-[^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_Making_of_Maximum_Likelihood\.
-[^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
-    @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
-    @Rao_1945_Information_and_the_accuracy_attainable_in\, and
-    @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
-[^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests_of\.
-
-
 ### Statistical hypothesis testing
 
 -   classification
@@ -93,6 +78,21 @@ Issues and positions
 [^Neyman1933]: @Neyman_1933_On_the_Problem_of_the_Most_Efficient_Tests_of\.
 [^Wald1943]: @Wald_1943_Tests_of_Statistical_Hypotheses_Concerning_Several\.
 [^Wilks1938]: @Wilks_1938_The_large_sample_distribution_of_the_likelihood\.
+
+
+### Point estimation and confidence intervals
+
+-   regression
+-   MLE: Maximum likelihood estimators, Fisher [^Aldrich1997]
+-   Cram&eacute;r-Rao bound [^Cramer-Rao]
+-   Asymptotics [^Cowan2011]
+
+[^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_Making_of_Maximum_Likelihood\.
+[^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
+    @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
+    @Rao_1945_Information_and_the_accuracy_attainable_in\, and
+    @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
+[^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests_of\.
 
 
 ### Systematic uncertainties
