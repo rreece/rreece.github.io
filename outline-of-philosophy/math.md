@@ -279,6 +279,7 @@ Links and encyclopedia articles
 ### Wikipedia
 
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
+-   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
 -   [Central limit theorem](http://en.wikipedia.org/wiki/Central_limit_theorem)
 -   [Continuum hypothesis](http://en.wikipedia.org/wiki/Continuum_hypothesis)
 -   [Diagonal lemma](http://en.wikipedia.org/wiki/Diagonal_lemma)
@@ -291,6 +292,7 @@ Links and encyclopedia articles
 -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 -   [Hilbert, David (1862-1943)](https://en.wikipedia.org/wiki/David_Hilbert)
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
+-   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
 -   [Kripke, Saul (b. 1940)](https://en.wikipedia.org/wiki/Saul_Kripke)
 -   [Logicism](http://en.wikipedia.org/wiki/Logicism)
 -   [L&ouml;wenheim-Skolem theorem](https://en.wikipedia.org/wiki/L%C3%B6wenheim%E2%80%93Skolem_theorem)

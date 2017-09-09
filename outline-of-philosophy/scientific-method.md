@@ -62,10 +62,11 @@ Issues and positions
     -   [Berkeley, George (1685-1753)](https://en.wikipedia.org/wiki/George_Berkeley)
     -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
         -   *An Enquiry Concerning Human Understanding* (1748) [^Hume2007]
--   Cononical classical physics
+-   Canonical classical physics
     -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
     -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
     -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
+    -   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
     -   [Hamilton, William Rowan (1805-1865))](https://en.wikipedia.org/wiki/William_Rowan_Hamilton)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
 -   "Scientist"
@@ -513,6 +514,7 @@ Links and encyclopedia articles
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
 -   [Islamic Golden Age](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
+-   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
 -   [Jordan, Pascual (1902-1980)](https://en.wikipedia.org/wiki/Pascual_Jordan)
 -   [Justification, Theory of](https://en.wikipedia.org/wiki/Theory_of_justification)
 -   [Knowledge](https://en.wikipedia.org/wiki/Knowledge)

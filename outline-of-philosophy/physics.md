@@ -29,9 +29,11 @@ Issues and positions
     -   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
     -   [Hamilton, William Rowan (1805-1865)](http://en.wikipedia.org/wiki/William_Rowan_Hamilton)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
+    -   [Noether. Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
+
 -   Principle of least action
 -   Canonical dynamics
--   Noether
+-   Noether' theorem
 
 
 ### Statistical physics
@@ -393,6 +395,7 @@ Links and encyclopedia articles
 -   [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster)
 -   [C*-algebra](https://en.wikipedia.org/wiki/C*-algebra)
 -   [Casimir effect](https://en.wikipedia.org/wiki/Casimir_effect)
+-   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
 -   [Causal Processes](http://plato.stanford.edu/entries/causation-process/)
 -   [Causal perturbation theory](https://en.wikipedia.org/wiki/Causal_perturbation_theory)
 -   [Central limit theorem](http://en.wikipedia.org/wiki/Central_limit_theorem)
@@ -416,6 +419,7 @@ Links and encyclopedia articles
 -   [Entropy, Introduction to](http://en.wikipedia.org/wiki/Introduction_to_entropy)
 -   [Eternalism (philosophy of time)](https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time))
 -   [Equipartition theorem](https://en.wikipedia.org/wiki/Equipartition_theorem)
+-   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
 -   [Four-dimensionalism](https://en.wikipedia.org/wiki/Four-dimensionalism)
 -   [Field](http://en.wikipedia.org/wiki/Field_(physics))
 -   [Firewall](http://en.wikipedia.org/wiki/Firewall_%28physics%29)
@@ -444,6 +448,7 @@ Links and encyclopedia articles
 -   [M-theory, Introduction to](http://en.wikipedia.org/wiki/Introduction_to_M-theory)
 -   [Mu problem](https://en.wikipedia.org/wiki/Mu_problem)
 -   [No-cloning theorem](http://en.wikipedia.org/wiki/No-cloning_theorem)
+-   [Noether. Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
 -   [Noether's theorem](http://en.wikipedia.org/wiki/Noether%27s_theorem)
 -   [Objective collapse theory](https://en.wikipedia.org/wiki/Objective_collapse_theory)
 -   [Particle physics](http://en.wikipedia.org/wiki/Particle_physics)
