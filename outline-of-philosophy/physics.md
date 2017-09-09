@@ -156,8 +156,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 #### Haag's theorem
 
-Haag's theorem [^Haag1955]
-
+-   Haag's theorem [^Haag1955]
 -   Earman and Fraser's analysis [^Earman2006]
 -   Klaczynski's analysis [^Klaczynski2016]
 
