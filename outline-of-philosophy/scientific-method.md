@@ -121,7 +121,7 @@ Issues and positions
 
 [^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
 [^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
-[^Sabra1978]: @Sabra_1978_An_eleventh_century_refutation_of_Ptolemys\, p. 121-122.
+[^Sabra1978]: @Sabra_1978_An_eleventh_century_refutation_of_Ptolemys\, pp. 121--2.
 
 
 ### Rationalism vs empiricism
