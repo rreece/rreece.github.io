@@ -526,6 +526,7 @@ Links and encyclopedia articles
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)
 -   [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
 -   [Pauli, Wolfgang (1900-1958)](https://en.wikipedia.org/wiki/Wolfgang_Pauli)
+-   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 -   [Phlogiston theory](http://en.wikipedia.org/wiki/Phlogiston_theory)
 -   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)

@@ -19,6 +19,7 @@ Issues and positions
 
 -   Hume [^Hume2007]
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
+-   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 -   Reichenbach [^Reichenbach1938]
 -   Salmon [^Salmon1963]
 -   Good [^Good1988]
@@ -279,6 +280,7 @@ Links and encyclopedia articles
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Neyman-Pearson lemma](http://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma)
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
+-   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
 -   [Statistical classification](http://en.wikipedia.org/wiki/Statistical_classification)

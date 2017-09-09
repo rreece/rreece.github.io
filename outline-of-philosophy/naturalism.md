@@ -351,6 +351,7 @@ Links and encyclopedia articles
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy))
 -   [Natural kind](https://en.wikipedia.org/wiki/Natural_kind)
 -   [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
+-   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 -   [Protagoras (490-420 BCE)](https://en.wikipedia.org/wiki/Protagoras)
 -   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
