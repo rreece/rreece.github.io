@@ -156,6 +156,13 @@ Michael Shermer and Massimo Pigliucci debate the role of science deriving morali
 -   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
 
 
+### Aesthetics
+
+#### Music theory
+
+TODO.
+
+
 My thoughts
 --------------------------------------------------------------------------------
 

@@ -29,7 +29,7 @@ Issues and positions
 
 ### Formalism
 
--   Anti-realist, Positivism
+-   Antirealist, Positivism
 -   Wigner [^Wigner1960]
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
 
@@ -51,12 +51,12 @@ From Wikipedia:
 
 ### Fictionalism
 
--   Anti-realist
+-   Antirealist
 
 
 ### Nominalism
 
--   Anti-realist
+-   Antirealist
 -   *Science Without Numbers* [^Field1980]
 -   Bueno [^Bueno2013]
 
