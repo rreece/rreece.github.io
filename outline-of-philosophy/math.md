@@ -279,6 +279,8 @@ Links and encyclopedia articles
 ### Wikipedia
 
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
+-   [Brouwer, L.E.J. (1881-1966)](https://en.wikipedia.org/wiki/L._E._J._Brouwer)
+-   [Cantor, Georg (1845-1918)](https://en.wikipedia.org/wiki/Georg_Cantor)
 -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
 -   [Central limit theorem](http://en.wikipedia.org/wiki/Central_limit_theorem)
 -   [Continuum hypothesis](http://en.wikipedia.org/wiki/Continuum_hypothesis)
@@ -293,6 +295,7 @@ Links and encyclopedia articles
 -   [Hilbert, David (1862-1943)](https://en.wikipedia.org/wiki/David_Hilbert)
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
 -   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
+-   [Kronecker, Leopold (1823-1891)](https://en.wikipedia.org/wiki/Leopold_Kronecker)
 -   [Kripke, Saul (b. 1940)](https://en.wikipedia.org/wiki/Saul_Kripke)
 -   [Logicism](http://en.wikipedia.org/wiki/Logicism)
 -   [L&ouml;wenheim-Skolem theorem](https://en.wikipedia.org/wiki/L%C3%B6wenheim%E2%80%93Skolem_theorem)
