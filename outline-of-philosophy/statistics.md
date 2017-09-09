@@ -39,7 +39,7 @@ Issues and positions
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_Contribution_to_the_Problem_of\.
 
 
-### Probability and uncertanty
+### Probability and uncertainty
 
 -   Frequentist vs Bayesian probability
 -   Accuracy vs precision [^Cowan1998]
@@ -48,7 +48,7 @@ Issues and positions
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
 
 
-### Statistical measurement
+### Foundations of statistics
 
 -   Jerzy Neyman, Egon Pearson, Ronald Fisher
 -   Likelihood principle
