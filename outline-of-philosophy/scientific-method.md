@@ -93,16 +93,13 @@ Issues and positions
 
 ### Rationalism vs empiricism
 
-TODO.
-
--   Coming out of scholasticism
+-   Early modern philosophy, coming out of scholasticism
 -   Debates over the foundations of epistemology
--   Early modern philosophy
 -   Skepticism
 -   Lead to the Age of Enlightenment
 -   Development of calculus
 
-Early Empiricists:
+Early empiricists:
 
 -   Francis Bacon (1561-1626)
 -   Thomas Hobbes (1588-1679)
@@ -134,8 +131,6 @@ Important synthesizers:
 
 ### Induction
 
-TODO:
-
 -   Hume and the problem of induction [^Hume2007]
 -   Uniformity of nature
 -   Humeanism
@@ -147,44 +142,39 @@ TODO:
 
 ### Abduction
 
-TODO.
-
+-   Douven [^Douven2011]
 -   Ockham, parsimony
 -   Karl Popper
 -   Inference to the best explanation 
 -   Natural kinds, abstraction
 -   Convergence
 
+[^Douven2011]: @Douven_2011_Abduction\.
+
 
 ### Is there a universal scientific method?
-
-TODO:
 
 -   Not a seven-step program
 -   Evidence based, anti-conspiracy, parsimony
 -   Positivism, verificationism
 -   Auguste Comte, Ernst Mach, David Hilbert, Rudolf Carnap
 -   Karl Popper, falsification
--   Error-catching filters[^Ladyman-Ross-2007], community, honesty, openness
+-   Error-catching filters[^Ladyman2007], community, honesty, openness
 -   Scientism
 
-[^Ladyman-Ross-2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 
 
 ### Statistical measurement
-
-TODO.
 
 -   Frequentist vs Bayesian probability
 -   Jerzy Neyman, Egon Pearson, Ronald Fisher
 -   Statistical hypothesis testing: power and confidence
 -   Neyman-Pearson lemma
--   See the outline on [statistics](statistics.html).
+-   See the outline on [Statistics](statistics.html).
 
 
 ### Scientific knowledge and realism
-
-TODO.
 
 -   Knowledge = JTB-G. Plato.
 -   Systematic uncertanties.  Failed justification.
@@ -211,9 +201,7 @@ The Stopped Clock:
 
 ### Naturalism, monism, and reductionism
 
-TODO.
-
--   Hume on the problem of induction and the uniformity of nature, again.
+-   Hume on the problem of induction and the uniformity of nature, again
 -   Monism
 -   Parmenides
 -   Reductionism
@@ -222,12 +210,9 @@ TODO.
 
 ### Pseudoscience
 
-TODO.
-
--   The demarcation problem.
--   Bad justification.
+-   The demarcation problem
+-   Bad justification
 -   [James Ladyman on Pseudoscience and Bullshit](https://www.youtube.com/watch?v=32ZaTKa2IRg)
-
 
 
 My thoughts
