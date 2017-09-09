@@ -172,7 +172,7 @@ See the outline on [ethics](ethics.html).
 
 -   "Man is the measure of all things" - Protagoras
 -   "The Science Wars"
--   Post-modernism, Social construction
+-   Postmodernism, Social construction
 -   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2) - IEP
 -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/) - SEP
 -   [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) [^Konnikova2012]
@@ -333,10 +333,15 @@ Links and encyclopedia articles
 
 ### Wikipedia
 
+-   [Baudrillard, Jean (1929-2007)](https://en.wikipedia.org/wiki/Jean_Baudrillard)
 -   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
+-   [Derrida, Jacques (1930-2004)](https://en.wikipedia.org/wiki/Jacques_Derrida)
+-   [Foucault, Michel (1926-1984)](https://en.wikipedia.org/wiki/Michel_Foucault)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
 -   [Ionian School](https://en.wikipedia.org/wiki/Ionian_School_(philosophy))
+-   [Jameson, Fredric (b. 1934)](https://en.wikipedia.org/wiki/Fredric_Jameson)
 -   [Liberal naturalism](https://en.wikipedia.org/wiki/Liberal_naturalism)
+-   [Lyotard, Jean-Fran&ccedil;ois (1924-1998)](https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Lyotard)
 -   [Materialism](https://en.wikipedia.org/wiki/Materialism)
 -   [Metaphilosophy](https://en.wikipedia.org/wiki/Metaphilosophy)
 -   [Multiple realizability](https://en.wikipedia.org/wiki/Multiple_realizability)
@@ -346,8 +351,10 @@ Links and encyclopedia articles
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 -   [Protagoras (490-420 BCE)](https://en.wikipedia.org/wiki/Protagoras)
+-   [Postmodernism](https://en.wikipedia.org/wiki/Postmodernism)
 -   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Reductionism](https://en.wikipedia.org/wiki/Reductionism)
+-   [Rorty, Richard (1931-2007)](https://en.wikipedia.org/wiki/Richard_Rorty)
 -   [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair)
 -   [Species problem](https://en.wikipedia.org/wiki/Species_problem)
 -   [Thales of Miletus (624-546 BCE)](https://en.wikipedia.org/wiki/Thales_of_Miletus)
