@@ -25,7 +25,7 @@ Issues and positions
     -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
     -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
     -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
-    -   [Platonic Academy (428/7 - 348/7 BCE)](https://en.wikipedia.org/wiki/Platonic_Academy)
+    -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy)
     -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
         -   teleological: things have "natural" purposes or tendencies 
     -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
@@ -33,6 +33,9 @@ Issues and positions
     -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
     -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   The Middle Ages
+    -   [Islamic Golden Age](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
+    -   [Academy of Gondishapur](https://en.wikipedia.org/wiki/Academy_of_Gondishapur)
+    -   [House of Wisdom](https://en.wikipedia.org/wiki/House_of_Wisdom)
     -   [Ibn Sina (980-1037)](https://en.wikipedia.org/wiki/Avicenna) AKA "Avicenna"
     -   [Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen) AKA "Alhazen"
     -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
@@ -421,7 +424,7 @@ Links and encyclopedia articles
 -   [Peirce, Charles Sanders (1839-1914): Logic](http://www.iep.utm.edu/peir-log/)
 -   [Popper, Karl (1902-1994) : Philosophy of Science](http://www.iep.utm.edu/pop-sci/)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](http://www.iep.utm.edu/plato/)
--   [Plato's Academy](http://www.iep.utm.edu/academy/)
+-   [Plato's Academy (387 BCE - 529 CE)](http://www.iep.utm.edu/academy/)
 -   [Pythagoras (570-495 BCE)](http://www.iep.utm.edu/pythagor/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Safety Condition for Knowledge, The](http://www.iep.utm.edu/safety-c/)
@@ -434,7 +437,9 @@ Links and encyclopedia articles
 ### Wikipedia
 
 -   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
+-   [Academy of Gondishapur](https://en.wikipedia.org/wiki/Academy_of_Gondishapur)
 -   [Alhazen AKA Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen)
+-   [Ancient higher-learning institutions](https://en.wikipedia.org/wiki/Ancient_higher-learning_institutions)
 -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
 -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
@@ -473,6 +478,7 @@ Links and encyclopedia articles
 -   [History of science](http://en.wikipedia.org/wiki/History_of_science)
 -   [History of the scientific method](http://en.wikipedia.org/wiki/History_of_scientific_method)
 -   [Hobbes, Thomas (1588-1679)](http://en.wikipedia.org/wiki/Thomas_Hobbes)
+-   [House of Wisdom](https://en.wikipedia.org/wiki/House_of_Wisdom)
 -   [Human evolution](http://en.wikipedia.org/wiki/Human_evolution)
 -   [Human migrations, Early](http://en.wikipedia.org/wiki/Early_human_migrations)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
@@ -484,6 +490,7 @@ Links and encyclopedia articles
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
 -   [Inductivism](https://en.wikipedia.org/wiki/Inductivism)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
+-   [Islamic Golden Age](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
 -   [Justification, Theory of](https://en.wikipedia.org/wiki/Theory_of_justification)
 -   [Knowledge](https://en.wikipedia.org/wiki/Knowledge)
 -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
@@ -505,7 +512,7 @@ Links and encyclopedia articles
 -   [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
 -   [Phlogiston theory](http://en.wikipedia.org/wiki/Phlogiston_theory)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
--   [Platonic Academy (428/7 - 348/7 BCE)](https://en.wikipedia.org/wiki/Platonic_Academy)
+-   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy)
 -   [Plato's problem](http://en.wikipedia.org/wiki/Plato%27s_Problem) from Noam Chomsky 
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)

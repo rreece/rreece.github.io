@@ -23,7 +23,7 @@ Issues and positions
 ### Platonism
 
 -   Realist
--   The Academy: "Let no one ignorant of geometry enter"
+-   The Academy (387 BCE - 529 CE): "Let no one ignorant of geometry enter"
 -   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
 
 
@@ -267,7 +267,7 @@ Links and encyclopedia articles
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](http://www.iep.utm.edu/plato/)
 -   [Platonism, mathematical](http://www.iep.utm.edu/mathplat/)
 -   [Platonism, middle](http://www.iep.utm.edu/midplato/)
--   [Plato's Academy](http://www.iep.utm.edu/academy/)
+-   [Plato's Academy (387 BCE - 529 CE)](http://www.iep.utm.edu/academy/)
 -   [Poincar&eacute;'s Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)
 -   [Process Philosophy](http://www.iep.utm.edu/processp/)
 -   [Pythagoras (570-495 BCE)](http://www.iep.utm.edu/pythagor/)
@@ -298,7 +298,7 @@ Links and encyclopedia articles
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Natural number](http://en.wikipedia.org/wiki/Natural_number)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
--   [Platonic Academy (428/7 - 348/7 BCE)](https://en.wikipedia.org/wiki/Platonic_Academy)
+-   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy)
 -   [Platonic realism](https://en.wikipedia.org/wiki/Platonic_realism)
 -   [Platonism](https://en.wikipedia.org/wiki/Platonism)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
