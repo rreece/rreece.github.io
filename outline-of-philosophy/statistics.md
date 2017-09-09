@@ -45,7 +45,11 @@ Issues and positions
 
 ### Foundations of statistics
 
--   Jerzy Neyman, Egon Pearson, Ronald Fisher
+-   Ronald Fisher, Jerzy Neyman, Egon Pearson, Harold Jeffreys
+    -   Fisher significance of the null hypothesis ($p$-values)
+    -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
+    -   Jeffreys' objective priors
+    -   Berger [^Berger2003]
 -   Likelihood principle
     -   violated by both Frequentists and Bayesians
 -   Pedagogy
@@ -54,6 +58,7 @@ Issues and positions
     -   Cowan [^Cowan1998]
     -   Cranmer [^Cranmer2015]
 
+[^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
@@ -270,6 +275,7 @@ Links and encyclopedia articles
 -   [Inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
+-   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
 -   [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
 -   [Maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
@@ -279,6 +285,7 @@ Links and encyclopedia articles
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
+-   [Poisson, Sim&eacute;on Denis (1781-1840)](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
 -   [Savage, Leonard Jimmie (1917-1971)](https://en.wikipedia.org/wiki/Leonard_Jimmie_Savage)
