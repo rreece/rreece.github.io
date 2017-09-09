@@ -431,6 +431,7 @@ Links and encyclopedia articles
 -   [Haag-&#321;opusza&#324;ski-Sohnius theorem](https://en.wikipedia.org/wiki/Haag%E2%80%93%C5%81opusza%C5%84ski%E2%80%93Sohnius_theorem)
 -   [Haag's theorem](https://en.wikipedia.org/wiki/Haag%27s_theorem)
 -   [Hierarchy problem](https://en.wikipedia.org/wiki/Hierarchy_problem)
+-   [Hilbert, David (1862-1943)](https://en.wikipedia.org/wiki/David_Hilbert)
 -   [Hilbert space](http://en.wikipedia.org/wiki/Hilbert_space)
 -   [Holographic principle](http://en.wikipedia.org/wiki/Holographic_principle)
 -   [Holomovement](https://en.wikipedia.org/wiki/Holomovement)
