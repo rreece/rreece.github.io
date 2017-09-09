@@ -43,10 +43,12 @@ Issues and positions
     -   [Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen) AKA "Alhazen"
         -   *Book of Optics*
         -   intromission over extramission theories of vision
+        -   *Doubts Concerning Ptolemy*
+        -   "But for a man to imagine a circle in the heavens, and to imagine the planet moving in it does not bring about the planet's motion... And therefore the arrangements assumed by Ptolemy for the five planets are false, and he asserted them knowing them to be false, and there exists for the planets a true arrangement in existing bodies which Ptolemy failed to grasp." [^Sabra1978]
     -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
     -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
     -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
-        -   hints at
+        -   Ockham's razor as a hint at parsimony and abduction
 -   Early Modern Period
     -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
     -   [Tycho Brahe (1546-1601)](https://en.wikipedia.org/wiki/Tycho_Brahe)
@@ -117,6 +119,7 @@ Issues and positions
 
 [^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
 [^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
+[^Sabra1978]: @Sabra_1978_An_eleventh_century_refutation_of_Ptolemys\, p. 121-122.
 
 
 ### Rationalism vs empiricism
