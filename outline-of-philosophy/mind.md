@@ -107,7 +107,7 @@ Annotated bibliography
 
 ### Kurzweil, R. (2012). How to Create a Mind.
 
-TODO
+-   @Kurzweil_2012_How_to_Create_a_Mind
 
 #### My thoughts
 
