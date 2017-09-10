@@ -81,6 +81,7 @@ Issues and positions
 ### Statistical hypothesis testing
 
 -   classification
+-   Type-1 and type-2 errors in Neyman-Pearson theory
 -   Power and confidence
 -   Neyman-Pearson lemma [^Neyman1933]
 -   Wilks [^Wilks1938] and Wald [^Wald1943]
@@ -111,8 +112,8 @@ Issues and positions
 
 ### Systematic uncertainties
 
--   Type-1 and type-2 systematic errors
 -   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekko Sinervo (PhyStat2003) [^Sinervo2013]
+-   Not to be confused with type-1 and type-2 errors in Neyman-Pearson theory
 
 [^Sinervo2013]: @Sinervo_2003_Definition_and_treatment_of_systematic\.
 
