@@ -255,9 +255,9 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-### Einstein, A., B. Podolsky, & N. Rosen (1935). Can quantum-mechanical description of physical reality be considered complete?
+### Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?
 
-TODO.
+-   @Einstein_1935_Can_quantum_mechanical_description_of_physical
 
 #### My thoughts
 
