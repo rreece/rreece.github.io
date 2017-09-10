@@ -56,7 +56,7 @@ Issues and positions
     -   Cox
     -   Berger [^Berger2003]
     -   Mayo
-        -   Mayo: Learning from Error [^Mayo1996]
+        -   Learning from Error [^Mayo1996]
         -   Error statistics [^Mayo2006]
 -   Likelihood principle
     -   Birnbaum
