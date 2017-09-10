@@ -131,10 +131,8 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Coleman-Mandula theorem [^Coleman1967]
 -   Redhead [^Redhead1982]
 -   Redhead [^Redhead1988]
--   Malament [^Malament1996]
 
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
-[^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
 [^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
 
@@ -142,14 +140,17 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 -   Interaction picture
 -   Correlation AKA Green's functions
--   Feynman diagrams
+-   Wick's theorem
 -   Vaccuum bubble cancelation
+-   Dyson series
 -   LSZ reduction formula [^Lehmann1955]
+-   Feynman diagrams and Feynman rules
 
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
 
 #### Renormalization
 
+-   Wilson
 -   Huggett and Weingard [^Huggett1995]
 -   Butterfield [^Butterfield2014]
 -   Butterfield [^Butterfield2015]
@@ -171,12 +172,14 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 #### Haag's theorem
 
 -   Haag's theorem [^Haag1955]
+-   Malament [^Malament1996]
 -   Earman and Fraser's analysis [^Earman2006]
 -   Klaczynski's analysis [^Klaczynski2016]
 
 [^Earman2006]: @Earman_2006_Haags_theorem_and_its_implications_for\.
 [^Haag1955]: @Haag_1955_On_quantum_field_theories\.
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
+[^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
 
 #### Supersymmetry
 
