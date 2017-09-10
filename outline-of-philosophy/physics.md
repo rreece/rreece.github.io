@@ -72,15 +72,15 @@ Thermodynamics, statistical mechanics, renormalization.
 
 -   Hilbert spaces:
 
-$\hat{H} \: |n\rangle = E_{n} \: |n\rangle$
+$$ \hat{H} \: |n\rangle = E_{n} \: |n\rangle $$
 
 -   Superposition principle:
 
-$|\psi\rangle = \sum_{n} a_{n} \: |n\rangle$
+$$ |\psi\rangle = \sum_{n} a_{n} \: |n\rangle $$
 
 -   Born rule
 
-$P(n) = | \langle n | \psi \rangle |^{2} = |a_{n}|^{2}$
+$$ P(n) = | \langle n | \psi \rangle |^{2} = |a_{n}|^{2} $$
 
 -   Wigner's theorem
 
@@ -88,25 +88,25 @@ The generators of the representation of a transformation in a Hilbert space
 are the operators representing the classical Noether charges that are
 conserved under that transformation.
 
-$\hat{U}(x^{\mu}) = e^{ -i \: \hat{P}_\mu \: x^\mu }$
+$$ \hat{U}(x^{\mu}) = e^{ -i \: \hat{P}_\mu \: x^\mu } $$
 
 #### Secondary properties of QM:
 
 -   Wave function:
 
-$\langle x | n \rangle = \psi_{n}(x)$
+$$ \langle x | n \rangle = \psi_{n}(x) $$
 
 -   Schr&ouml;dinger Equation
 
-$i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle$
+$$ i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle $$
 
-$i \hbar \: \partial_{t} \: \hat{U}(t) \: |\psi\rangle = \hat{H} \: \hat{U}(t) \: |\psi\rangle$
+$$ i \hbar \: \partial_{t} \: \hat{U}(t) \: |\psi\rangle = \hat{H} \: \hat{U}(t) \: |\psi\rangle $$
 
 -   Decoherence
 
-$\mathcal{H} = \mathcal{H}_\mathrm{S} \otimes \mathcal{H}_\mathrm{E}$
+$$ \mathcal{H} = \mathcal{H}_\mathrm{S} \otimes \mathcal{H}_\mathrm{E} $$
 
-$|\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi; \alpha\rangle$
+$$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi; \alpha\rangle $$
 
 #### Decoherence
 
