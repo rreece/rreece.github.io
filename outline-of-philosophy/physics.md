@@ -123,8 +123,10 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Coleman-Mandula theorem [^Coleman1967]
 -   Redhead [^Redhead1982]
 -   Redhead [^Redhead1988]
+-   Malament [^Malament1996]
 
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
+[^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
 [^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
 
