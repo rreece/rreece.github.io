@@ -38,19 +38,26 @@ Issues and positions
 -   Frequentist vs Bayesian probability
     -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   Accuracy vs precision [^Cowan1998]
--   Mayo: Learning from Error [^Mayo1996]
+-   Venn [^Venn1888]
+-   Peirce
 
-[^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
+[^Venn1888]: @Venn_1888_The_Logic_of_Chance
 
 
 ### Foundations of statistics
 
 -   Ronald Fisher, Jerzy Neyman, Egon Pearson, Harold Jeffreys
     -   Fisher significance of the null hypothesis ($p$-values)
+        -   On an absolute criterion for fitting frequency curves. [^Fisher1912]
+        -   Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. [^Fisher1915]
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
     -   objective (non-informative) Jeffreys priors
+-   Responses
+    -   Cox
     -   Berger [^Berger2003]
-    -   Mayo [^Mayo2006]
+    -   Mayo
+        -   Mayo: Learning from Error [^Mayo1996]
+        -   Error statistics [^Mayo2006]
 -   Likelihood principle
     -   Birnbaum
     -   violated by both Frequentists and Bayesians
@@ -63,8 +70,11 @@ Issues and positions
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
+[^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
+[^Fisher1915]: @Fisher_1915_Frequency_distribution_of_the_values_of\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
 [^Kendall1946]: @Kendall_1946_The_Advanced_Theory_of_Statistics_VolII\.
+[^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
 [^Mayo2006]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory_of\.
 
 
