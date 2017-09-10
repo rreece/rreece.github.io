@@ -326,5 +326,6 @@ Some pedagogical notes
 1.  [Quantum field theory: an introduction](pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf) (2007)
 1.  [Statistical mechanics notes](pdf/2006.Reece.Statistical-Mechanics-Notes.pdf) (2006)
 1.  [Derivation of the quantum mechanical momentum operator in the position representation](pdf/2006.Reece.Derivation-of-the-QM-momentum-operator.pdf) (2006)
+1.  [Primer on complex analysis](pdf/2006.Reece.Primer-on-complex-analysis.pdf) (2006)
 
 
