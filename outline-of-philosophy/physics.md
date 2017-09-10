@@ -122,7 +122,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   No "2nd quantization"
 -   Coleman-Mandula theorem [^Coleman1967]
 
-[^Coleman1967]: @Coleman_1967_All_Possible_Symmetries_of_the_S_Matrix\.
+[^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
 
 #### Scattering
 
