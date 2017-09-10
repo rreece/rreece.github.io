@@ -21,6 +21,8 @@ Issues and positions
 
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
     -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
+        -   first philosopher
+        -   radical mathematical realist
     -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
         -   skepticism, anti-dogmatism
     -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
