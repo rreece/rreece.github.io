@@ -29,7 +29,7 @@ Issues and positions
         -   revolutionized western thought
         -   epistemology
         -   abstract Platonism
-        -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy) - the start of academia 
+        -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy) from which we derive academia 
     -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
         -   teleological: things have "natural" purposes or tendencies 
     -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
