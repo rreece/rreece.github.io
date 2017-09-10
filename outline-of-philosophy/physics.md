@@ -446,6 +446,7 @@ Links and encyclopedia articles
 -   [Four-dimensionalism](https://en.wikipedia.org/wiki/Four-dimensionalism)
 -   [Field](http://en.wikipedia.org/wiki/Field_(physics))
 -   [Firewall](http://en.wikipedia.org/wiki/Firewall_%28physics%29)
+-   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
 -   [Gelfand-Naimark theorem](https://en.wikipedia.org/wiki/Gelfand%E2%80%93Naimark_theorem)
 -   [Gelfand-Naimark-Segal construction](https://en.wikipedia.org/wiki/Gelfand%E2%80%93Naimark%E2%80%93Segal_construction)
 -   [Ghirardi-Rimini-Weber theory](https://en.wikipedia.org/wiki/Ghirardi%E2%80%93Rimini%E2%80%93Weber_theory)

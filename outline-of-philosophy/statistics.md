@@ -13,8 +13,8 @@ Issues and positions
 
 -   Hume [^Hume2007]
     -   Weintraub [^Weintraub1995]
--   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
--   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
+-   Mill
+-   Peirce
 -   Reichenbach [^Reichenbach1938]
     -   Salmon [^Salmon1963]
 -   Good [^Good1988]
@@ -42,6 +42,17 @@ Issues and positions
 -   Peirce
 
 [^Venn1888]: @Venn_1888_The_Logic_of_Chance
+
+### Early investigators
+
+-   [Graunt, John (1620-1674)](https://en.wikipedia.org/wiki/John_Graunt)
+-   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
+-   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
+-   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
+-   [Venn, John (1834-1923)](https://en.wikipedia.org/wiki/John_Venn)
+-   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
+    -   Formulated modern statistics in "Illustrations of the Logic of Science" (1877-1878) and "A Theory of Probable Inference" in *Studies in Logic* (1883).
+    -   With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).
 
 
 ### Foundations of statistics
@@ -282,6 +293,7 @@ Links and encyclopedia articles
 -   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
 -   [Frequentist inference](https://en.wikipedia.org/wiki/Frequentist_inference)
 -   [Foundations of statistics](https://en.wikipedia.org/wiki/Foundations_of_statistics)
+-   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
 -   [German tank problem](https://en.wikipedia.org/wiki/German_tank_problem)
 -   [Graunt, John (1620-1674)](https://en.wikipedia.org/wiki/John_Graunt)
 -   [History of probability](https://en.wikipedia.org/wiki/History_of_probability)
@@ -325,6 +337,7 @@ Links and encyclopedia articles
 -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
 -   [Unsolved problems in statistics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_statistics)
+-   [Venn, John (1834-1923)](https://en.wikipedia.org/wiki/John_Venn)
 
 ### Others
 
