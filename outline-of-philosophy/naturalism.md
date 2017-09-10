@@ -140,7 +140,7 @@ See the outline on [philosophy of mathematics](math.html#naturalism).
 -   Materialism/physicalism/functionalism
 -   Alyssa Ney
 -   Part of methodological naturalism, but also a result of empirical confirmation.
--   See the outline on [mind](mind.html).
+-   See the outline on [Philosophy of mind](mind.html).
 
 
 ### Rejection of the supernatural
@@ -152,7 +152,7 @@ Part of methodological naturalism.
 
 Part of metaphysical naturalism.
 
-See the outline on [ethics](ethics.html).
+See the outline on [Ethics](ethics.html).
 
 
 ### Criticisms of naturalism
