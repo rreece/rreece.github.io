@@ -55,7 +55,7 @@ Issues and positions
     -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
         -   Ockham's razor as a hint at parsimony and abduction
 -   Early Modern Period
-    -   [Da Vinci, Leonardo (1452-1519)](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
+    -   [da Vinci, Leonardo (1452-1519)](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
     -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
     -   [Tycho Brahe (1546-1601)](https://en.wikipedia.org/wiki/Tycho_Brahe)
     -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
@@ -93,7 +93,7 @@ Issues and positions
     -   [Kelvin, William Thomson (1824-1907)](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
     -   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
--   "Scientist"
+-   "Scientists"
     -   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
         -   atomic theory
     -   [Somerville, Mary (1780-1729)](https://en.wikipedia.org/wiki/Mary_Somerville)
@@ -121,6 +121,7 @@ Issues and positions
     -   [Born, Max (1882-1970)](https://en.wikipedia.org/wiki/Max_Born)
     -   [Bohr, Niels (1885-1962)](https://en.wikipedia.org/wiki/Niels_Bohr)
     -   [Schr&ouml;dinger, Edwin (1887-1961)](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
+    -   [de Broglie, Louis (1892-1987)](https://en.wikipedia.org/wiki/Louis_de_Broglie)
     -   [Pauli, Wolfgang (1900-1958)](https://en.wikipedia.org/wiki/Wolfgang_Pauli)
     -   [Heisenberg, Werner (1901-1976)](https://en.wikipedia.org/wiki/Werner_Heisenberg)
     -   [Jordan, Pascual (1902-1980)](https://en.wikipedia.org/wiki/Pascual_Jordan)
@@ -412,7 +413,7 @@ Links and encyclopedia articles
 -   [Bacon, Francis (1561-1626)](http://plato.stanford.edu/entries/francis-bacon/)
 -   [Berkeley, George (1685-1753)](http://plato.stanford.edu/entries/berkeley/)
 -   [Coherentist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-coherence/)
--   [Da Vinci, Leonardo (1452-1519)](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
+-   [da Vinci, Leonardo (1452-1519)](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
 -   [Democritus (460-370 BCE)](http://plato.stanford.edu/entries/democritus/)
 -   [Descartes, Ren&eacute; (1596-1650)](http://plato.stanford.edu/entries/descartes/)
 -   [Descartes' Epistemology](http://plato.stanford.edu/entries/descartes-epistemology/)
@@ -514,6 +515,7 @@ Links and encyclopedia articles
 -   [Curie, Marie (1867-1934)](https://en.wikipedia.org/wiki/Marie_Curie)
 -   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
 -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
+-   [de Broglie, Louis (1892-1987)](https://en.wikipedia.org/wiki/Louis_de_Broglie)
 -   [Deductive-nomological model](https://en.wikipedia.org/wiki/Deductive-nomological_model)
 -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
 -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
