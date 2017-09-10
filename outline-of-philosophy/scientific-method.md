@@ -24,6 +24,7 @@ Issues and positions
         -   first philosopher
         -   radical mathematical realist
     -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
+        -   Chinese, not part of the Ionian Enlightenment, but contemporary with it
         -   skepticism, anti-dogmatism
     -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
         -   atomic theory
