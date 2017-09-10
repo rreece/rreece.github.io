@@ -233,15 +233,15 @@ Important synthesizers:
 
 ![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g)).](img/knowledge.png){#fig:knowledge-jtb-g}
 
-The Stopped Clock:
+The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*
 
 >   You're walking by a clock that you've always known
 >   to be accurate in the past. You glance up at it and see that it reads
 >   five o'clock; on the basis of this you believe that it's five o'clock.
 >   Your belief is justified, and as it happens it is five o'clock.
->   But unbeknownst to you, the clock stopped exactly twelve hours ago.
+>   But unbeknownst to you, the clock stopped exactly twelve hours ago. [^Russell2009]
 
--- from Russell's "Human Knowledge: Its Scope & Limits"
+[^Russell2009]: @Russell_2009_Human_Knowledge_Its_Scope_and_Limits\.
 
 
 ### Naturalism, monism, and reductionism

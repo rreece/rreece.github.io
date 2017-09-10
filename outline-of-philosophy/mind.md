@@ -31,7 +31,14 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Some details
 
+-   Nagel [^Nagel1974]
+-   Dennett [^Dennett1991]
+-   Chalmers [^Chalmers1996]
 -   Phenomenal vs access consciousness
+
+[^Chalmers1996]: @Chalmers_1996_The_Conscious_Mind_In_Search_of_a_Fundamental\.
+[^Dennett1991]: @Dennett_1991_Consciousness_Explained\.
+[^Nagel1974]: @Nagel_1974_What_is_it_like_to_be_a_bat\.
 
 
 ### Physicalism
@@ -67,51 +74,51 @@ Annotated bibliography
 
 ### Nagel, T. (1974). What Is it Like to Be a Bat?
 
-TODO.
+-   @Nagel_1974_What_is_it_like_to_be_a_bat
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Dennett, D. (1991). Consciousness Explained.
 
-TODO.
+-   @Dennett_1991_Consciousness_Explained
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Chalmers, D. (1996). The Conscious Mind: In Search of a Fundamental Theory.
 
-TODO.
+-   @Chalmers_1996_The_Conscious_Mind_In_Search_of_a_Fundamental
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Kurzweil, R. (2012). How to Create a Mind.
 
-TODO.
+TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### More articles to do
 
--   TODO.
+-   TODO
 
 
 Links and encyclopedia articles
@@ -194,5 +201,8 @@ Links and encyclopedia articles
 ## Videos
 
 -   [Dennett, Daniel. (2017). From Bacteria to Bach and Back: The Evolution of Minds](https://www.youtube.com/watch?v=IZefk4gzQt4)
+
+
+<!-- REFERENCES -->
 
 

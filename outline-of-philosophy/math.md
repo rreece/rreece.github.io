@@ -303,6 +303,7 @@ Links and encyclopedia articles
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Metamathematics](https://en.wikipedia.org/wiki/Metamathematics)
 -   [Natural number](http://en.wikipedia.org/wiki/Natural_number)
+-   [Noether, Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
 -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy)
 -   [Platonic realism](https://en.wikipedia.org/wiki/Platonic_realism)

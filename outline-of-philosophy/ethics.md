@@ -17,28 +17,23 @@ Issues and positions
 
 ### Virtue ethics
 
-TODO.
-
-See the discussion of [Stoicism](http://rreece.github.io/outline-of-philosophy/human-condition.html#stoicism).
-
+-   See the discussion of [Stoicism](http://rreece.github.io/outline-of-philosophy/human-condition.html#stoicism).
 -   Aristotle
 
 
 ### Deontological ethics
-
-TODO.
 
 -   Kant
 
 
 ### Consequentialism
 
-TODO.
+-   Bentham
+-   Mill
+-   @Portmore_2011_Commonsense_Consequentialism
 
 
 ### Moral antirealism
-
-TODO.
 
 -   Emotivism - Hume, A.J. Ayer
 -   Nihilism
@@ -47,8 +42,6 @@ TODO.
 
 
 ### Moral realism
-
-TODO.
 
 -   Objectivism
 -   Structuralism
@@ -87,7 +80,7 @@ Sean's reply:
 
 Drafting a reply
 
-TODO.
+TODO
 
 I know I'm a consequentialist and a moral realist, but those are broad categories.
 
@@ -143,6 +136,7 @@ There's no unified or received view of the fact/value, descriptive/normative div
 -   evolution
 -   game theory
 -   @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes
+-   @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other
 
 
 ----------------------
@@ -160,7 +154,7 @@ Michael Shermer and Massimo Pigliucci debate the role of science deriving morali
 
 #### Music theory
 
-TODO.
+TODO
 
 
 My thoughts
@@ -179,27 +173,29 @@ Annotated bibliography
 
 ### Putnam, H. (2004). The Collapse of the Fact/Value Dichotomy and Other Essays.
 
--   TODO.
+-   @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
+
+--------------------------------------------------------------------------------
 
 ### Portmore, D. (2011). Commonsense Consequentialism.
 
--   TODO.
+-   @Portmore_2011_Commonsense_Consequentialism
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### More articles to do
 
--   TODO.
+-   TODO
 
 
 Links and encyclopedia articles
@@ -323,6 +319,7 @@ Links and encyclopedia articles
 -   [Floridi, Luciano. (2016). Ethics in the Age of Information.](https://www.youtube.com/watch?v=lLH70qkROWQ)
     -   [Floridi settles the trolley problem in the way I view it: "Inaction is action"](https://www.youtube.com/v/lLH70qkROWQ&start=4216&end=4266)
 -   [Arkani-Hamed, Nima. (2016). The Morality of Fundamental Physics.](https://www.youtube.com/watch?v=OzATDiLFH8Q)
+
 
 <!-- REFERENCES -->
 

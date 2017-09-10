@@ -29,11 +29,11 @@ Issues and positions
     -   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
     -   [Hamilton, William Rowan (1805-1865)](http://en.wikipedia.org/wiki/William_Rowan_Hamilton)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
-    -   [Noether. Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
+    -   [Noether, Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
 
 -   Principle of least action
 -   Canonical dynamics
--   Noether' theorem
+-   Noether's theorem
 
 
 ### Statistical physics
@@ -449,7 +449,7 @@ Links and encyclopedia articles
 -   [M-theory, Introduction to](http://en.wikipedia.org/wiki/Introduction_to_M-theory)
 -   [Mu problem](https://en.wikipedia.org/wiki/Mu_problem)
 -   [No-cloning theorem](http://en.wikipedia.org/wiki/No-cloning_theorem)
--   [Noether. Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
+-   [Noether, Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
 -   [Noether's theorem](http://en.wikipedia.org/wiki/Noether%27s_theorem)
 -   [Objective collapse theory](https://en.wikipedia.org/wiki/Objective_collapse_theory)
 -   [Particle physics](http://en.wikipedia.org/wiki/Particle_physics)
