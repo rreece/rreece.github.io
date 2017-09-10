@@ -196,9 +196,10 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 ### Beyond the standard model
 
--   Supersymmetry
 -   Running of the couplings
 -   Grand unification
+-   Supersymmetry
+-   Strong $CP$ problem
 -   Quantum gravity
 
 
@@ -414,6 +415,7 @@ Links and encyclopedia articles
 -   [Church-Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
 -   [Complexity](http://en.wikipedia.org/wiki/Complexity)
 -   [Constructor theory](http://en.wikipedia.org/wiki/Constructor_theory)
+-   [CP violation](https://en.wikipedia.org/wiki/CP_violation)
 -   [De Broglie-Bohm theory](http://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory)
 -   [Determinism](http://en.wikipedia.org/wiki/Determinism)
 -   [Digital philosophy](http://en.wikipedia.org/wiki/Digital_philosophy)
@@ -489,6 +491,7 @@ Links and encyclopedia articles
 -   [Statistical mechanics](http://en.wikipedia.org/wiki/Statistical_mechanics)
 -   [Stone-von Neumann theorem](https://en.wikipedia.org/wiki/Stone%E2%80%93von_Neumann_theorem)
 -   [String theory](http://en.wikipedia.org/wiki/String_theory)
+-   [Strong CP problem](https://en.wikipedia.org/wiki/Strong_CP_problem)
 -   [Supertask](https://en.wikipedia.org/wiki/Supertask)
 -   [Supergravity](https://en.wikipedia.org/wiki/Supergravity)
 -   [Supersymmetry](http://en.wikipedia.org/wiki/Supersymmetry)
