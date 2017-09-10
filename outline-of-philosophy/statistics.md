@@ -50,7 +50,9 @@ Issues and positions
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
     -   objective (non-informative) Jeffreys priors
     -   Berger [^Berger2003]
+    -   Mayo [^Mayo2006]
 -   Likelihood principle
+    -   Birnbaum
     -   violated by both Frequentists and Bayesians
 -   Pedagogy
     -   Kendall [^Kendall1946]
@@ -63,6 +65,7 @@ Issues and positions
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
 [^Kendall1946]: @Kendall_1946_The_Advanced_Theory_of_Statistics_VolII\.
+[^Mayo2006]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory_of\.
 
 
 ### Statistical hypothesis testing
@@ -255,6 +258,7 @@ Links and encyclopedia articles
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
 -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
+-   [Birnbaum, Allan (1923-1976)](https://en.wikipedia.org/wiki/Allan_Birnbaum)
 -   [Bootstrapping](http://en.wikipedia.org/wiki/Bootstrapping_(statistics))
 -   [Confidence interval](https://en.wikipedia.org/wiki/Confidence_interval)
 -   [Cosmic variance](https://en.wikipedia.org/wiki/Cosmic_variance)
