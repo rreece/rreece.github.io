@@ -170,6 +170,8 @@ See the outline on [ethics](ethics.html).
 
 ### Criticisms of naturalism
 
+#### Attacks
+
 -   "Man is the measure of all things" - Protagoras
 -   "The Science Wars"
 -   Postmodernism, Social construction

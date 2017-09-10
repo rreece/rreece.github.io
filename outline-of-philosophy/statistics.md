@@ -131,7 +131,7 @@ Issues and positions
 
 ### Implications for the realism debate
 
--   See the outline on [scientific realism](scientific-realism.html)
+-   See the outline on [Scientific realism](scientific-realism.html)
 
 
 My thoughts
