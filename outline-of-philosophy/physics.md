@@ -108,6 +108,14 @@ $\mathcal{H} = \mathcal{H}_\mathrm{S} \otimes \mathcal{H}_\mathrm{E}$
 
 $|\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi; \alpha\rangle$
 
+#### Decoherence
+
+-   *Decoherence and the Appearance of a Classical World in Quantum Theory* [^Giulini1996]
+-   My quora answer: [What is currently the best explanation for how and why the quantum wave function collapses?](https://www.quora.com/What-is-currently-the-best-explanation-for-how-and-why-the-quantum-wave-function-collapses/answer/Ryan-Reece)
+
+[^Giulini1996]: @Giulini_1996_Decoherence_and_the_Appearance_of_a_Classical\.
+
+
 #### "Atom" (2009) BBC documentary
 
 Jim Al-Khalili tells the story of the greatest scientific discovery ever - that everything is made of atoms.
@@ -247,7 +255,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-### Einstein, A., B. Podolsky, & N. Rosen (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?
+### Einstein, A., B. Podolsky, & N. Rosen (1935). Can quantum-mechanical description of physical reality be considered complete?
 
 TODO.
 
@@ -258,7 +266,7 @@ TODO.
 
 --------------------------------------------------------------------------------
 
-### Anderson, P. (1972). More is Different.
+### Anderson, P. (1972). More is different.
 
 -   @Anderson_1972_More_is_different
 
@@ -269,11 +277,10 @@ TODO.
 
 --------------------------------------------------------------------------------
 
-### Redhead, M. (1988). A Philosopher Looks at Quantum Field Theory.
+### Redhead, M. (1988). A philosopher looks at quantum field theory.
 
-In the collection: Brown, H. and R. Harr&eacute;, Eds. (1988). *Philosophical Foundations of Quantum Field Theory*.
 
-TODO.
+-   @Redhead_1988_A_philosopher_looks_at_quantum_field_theory
 
 #### My thoughts
 
@@ -284,7 +291,7 @@ TODO.
 
 ### Giulini, D., E. Joos, C. Kiefer, J. Kupsch, I.O. Stamatescu, & H. Zeh (1996). *Decoherence and the Appearance of a Classical World in Quantum Theory*.
 
-TODO.
+-   @Giulini_1996_Decoherence_and_the_Appearance_of_a_Classical
 
 #### My thoughts
 
@@ -295,6 +302,7 @@ TODO.
 
 ### Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state.
 
+-   @Pusey_2012_On_the_reality_of_the_quantum_state
 -   [arxiv:1111.3328](http://arxiv.org/abs/1111.3328)
 
 #### My thoughts

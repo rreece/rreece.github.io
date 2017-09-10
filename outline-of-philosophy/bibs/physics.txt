@@ -5,6 +5,7 @@ Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal 
 Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
 Coleman, S. & Mandula, J. (1967). All possible symmetries of the S matrix. *Physical Review*, 159(5), 1251--1256.
 Earman, J. & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. *Erkenntnis*, 64(3), 305--344.
+Giulini, D., Joos, E., Kiefer, C., Kupsch, J., Stamatescu, I. & Zeh, H.D. (1996). *Decoherence and the Appearance of a Classical World in Quantum Theory*. Springer.
 Haag, R. (1955). On quantum field theories. *Det Kongelige Danske Videnskabernes Selakab*, 29.
 Haag, R., \L{}opusza\'{n}ski, J. T., & Sohnius, M. (1975). All possible generators of supersymmetries of the S-matrix. *Nuclear Physics B*, 88(2), 257--274.
 Hall, D., & Wightman, A. S. (1957). A theorem on invariant analytic functions with applications to relativistic quantum field theory. I kommission hos Munksgaard.
@@ -13,6 +14,7 @@ Klaczynski, L. (2016). Haag's theorem in renormalised quantum field theories. ht
 Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. *Nuovo Cimento*, 1, 205--225.
 Lisi, A.G. (2017). Emergence. https://www.edge.org/response-detail/27149
 Malament, D.B. (1996). In defence of dogma: Why there cannot be a relativistic quantum mechanics of (localizable) particles. In Clifton, R. (Ed.) *Perspectives on Quantum Reality* (pp. 1--10). Dordrecht: Springer.
+Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8, 476. https://arxiv.org/abs/1111.3328
 Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(2), 57--99.
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24)). Oxford: Oxford University Press.
 Seidewitz, E. (2017). Avoiding Haag's Theorem with Parameterized Quantum Field Theory. *Foundations of Physics*, 47(3), 355--374.
