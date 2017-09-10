@@ -56,6 +56,7 @@ Issues and positions
     -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
         -   Ockham's razor as a hint at parsimony and abduction
 -   Early Modern Period
+    -   [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
     -   [da Vinci, Leonardo (1452-1519)](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
     -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
     -   [Tycho Brahe (1546-1601)](https://en.wikipedia.org/wiki/Tycho_Brahe)
@@ -604,6 +605,7 @@ Links and encyclopedia articles
 -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
 -   [Pythagoreanism](https://en.wikipedia.org/wiki/Pythagoreanism)
 -   [Razor (philosophy)](https://en.wikipedia.org/wiki/Razor_(philosophy))
+-   [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
 -   [Schr&ouml;dinger, Edwin (1887-1961)](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
 -   [Science](http://en.wikipedia.org/wiki/Science)
