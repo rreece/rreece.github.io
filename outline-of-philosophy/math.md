@@ -27,8 +27,9 @@ Issues and positions
 -   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
 
 
-### Formalism
+### Logicism
 
+-   Formalism
 -   Antirealist, Positivism
 -   Wigner [^Wigner1960]
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
