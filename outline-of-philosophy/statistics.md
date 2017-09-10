@@ -48,7 +48,7 @@ Issues and positions
 -   Ronald Fisher, Jerzy Neyman, Egon Pearson, Harold Jeffreys
     -   Fisher significance of the null hypothesis ($p$-values)
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
-    -   Jeffreys' objective priors
+    -   objective (non-informative) Jeffreys priors
     -   Berger [^Berger2003]
 -   Likelihood principle
     -   violated by both Frequentists and Bayesians
@@ -267,6 +267,7 @@ Links and encyclopedia articles
 -   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
 -   [Frequentist inference](https://en.wikipedia.org/wiki/Frequentist_inference)
 -   [Foundations of statistics](https://en.wikipedia.org/wiki/Foundations_of_statistics)
+-   [German tank problem](https://en.wikipedia.org/wiki/German_tank_problem)
 -   [Graunt, John (1620-1674)](https://en.wikipedia.org/wiki/John_Graunt)
 -   [History of probability](https://en.wikipedia.org/wiki/History_of_probability)
 -   [History of statistics](https://en.wikipedia.org/wiki/History_of_statistics)
@@ -274,7 +275,9 @@ Links and encyclopedia articles
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
 -   [Inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
+-   [Jeffrey, Richard (1926-2002)](https://en.wikipedia.org/wiki/Richard_Jeffrey)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
+-   [Jeffreys prior](https://en.wikipedia.org/wiki/Jeffreys_prior)
 -   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
 -   [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
