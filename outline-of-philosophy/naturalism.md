@@ -104,13 +104,6 @@ Alex Rosenberg is a mad dog against emergence. Video:
 
 Metaphysical naturalism.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 TODO: While promoting the careful gathering of empirical information,
 naturalism is not against (largely non-empirical) rational pursuits like mathematics.
 Indeed some naturalist may even see logic and mathematics as scientific pursuits
@@ -129,7 +122,7 @@ being a more much longer thread throughout the history of philosophy and science
 Part of metaphysical naturalism.
 
 -   *Natural Kinds* [^Quine1969]
--   [Introduction: Pursuing aNaturalist Metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
+-   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
 
 [^Quine1969]: @Quine_1969_Natural_kinds\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
@@ -143,8 +136,6 @@ See the outline on [philosophy of mathematics](math.html#naturalism).
 
 ### Monism
 
-TODO.
-
 -   Parmenides
 -   Materialism/physicalism/functionalism
 -   Alyssa Ney
@@ -154,14 +145,10 @@ TODO.
 
 ### Rejection of the supernatural
 
-TODO.
-
 Part of methodological naturalism.
 
 
 ### Ethical naturalism
-
-TODO.
 
 Part of metaphysical naturalism.
 
@@ -232,22 +219,22 @@ Annotated bibliography
 
 ### Quine, W.V.O. (1969). Epistemology Naturalized.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Quine, W.V.O. (1969). Natural Kinds.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
@@ -256,11 +243,11 @@ Annotated bibliography
 
 #### 1. Section
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 --------------------------------------------------------------------------------
 
@@ -268,11 +255,11 @@ Annotated bibliography
 
 #### 1. Section
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
@@ -281,11 +268,11 @@ Annotated bibliography
 
 #### 1. Section
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------

@@ -436,11 +436,11 @@ Annotated bibliography
 
 ### Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
@@ -452,7 +452,7 @@ Annotated bibliography
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
@@ -460,33 +460,33 @@ Annotated bibliography
 ### Carnap, R. (1928). *The Logical Structure of the World and Pseudoproblems in Philosophy*.
 
 -   *Der logische Aufbau der Welt*
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Carnap, R. (1936). *Testibility and Meaning*.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Reichenbach, H. (1938). *Experience and Prediction*.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
@@ -558,7 +558,7 @@ Annotated bibliography
 
 #### 1. Background for analyticity
 
--   TODO.
+-   TODO
 
 #### 2. Definition
 
@@ -572,62 +572,62 @@ Annotated bibliography
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Reichenbach, H. (1951). *The Rise of Scientific Philosophy*.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Wittgenstein, L. (1953). *Philosophical Investigations*.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Carnap, R. (1955). The Logical Foundations of the Unity of Science.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Carnap, R. (1956). The Methodological Character of Theoretical Concepts.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Popper, K. (1959). *The Logic of Scientific Discovery*.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
@@ -635,66 +635,66 @@ Annotated bibliography
 ### Kuhn, T. (1962). *The Structure of Scientific Revolutions*.
 
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Maxwell, G. (1962). The Ontological Status of Theoretical Entities.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Sellars, W. (1963). *Science, Perception, and Reality*.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Feyerabend, P. (1974). *Against Method*.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Bhaskar, R. (1975). *A Realist Theory of Science*.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
 
 ### Putnam, H. (1975). The Meaning of Meaning.
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
@@ -703,11 +703,11 @@ Annotated bibliography
     
 "Arguments Concerning Scientific Realism"
 
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
@@ -725,7 +725,7 @@ Annotated bibliography
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
@@ -733,11 +733,11 @@ Annotated bibliography
 ### Putnam, H. (1981).  *Reason, Truth, and History*.
 
 -   Brain in a vat thought experiment.
--   TODO.
+-   TODO
 
 #### My thoughts
 
--   TODO.
+-   TODO
 
 
 --------------------------------------------------------------------------------
