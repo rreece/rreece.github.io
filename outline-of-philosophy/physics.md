@@ -121,8 +121,12 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   AQFT vs LQFT
 -   No "2nd quantization"
 -   Coleman-Mandula theorem [^Coleman1967]
+-   Redhead [^Redhead1982]
+-   Redhead [^Redhead1988]
 
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
+[^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
+[^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
 
 #### Scattering
 
@@ -146,7 +150,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 #### Effective field theory
 
--   Huggett and Weingard again [^Huggett1995]
+-   Huggett and Weingard, again [^Huggett1995]
 -   Weinberg [^Weinberg1997]
 -   Bain [^Bain2013]
 
@@ -176,14 +180,15 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Copenhagen
 -   de Broglie-Bohm
 -   Everett
+-   others
 
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
 
 
 ### The standard model of particle physics
 
-TODO.
-
+-   GWS electroweak theory: SU(2) $\times$ U(1)
+-   QCD: SU(3)
 -   Nima Arkani-Hamed doing particle physics *a priori*: ["Why is there a Macroscopic Universe?"](https://www.youtube.com/watch?v=F2Fxt_yCrcc)
 
 
@@ -192,6 +197,7 @@ TODO.
 -   Supersymmetry
 -   Running of the couplings
 -   Grand unification
+-   Quantum gravity
 
 
 ### Cosmology
@@ -251,7 +257,7 @@ TODO.
 
 ### Anderson, P. (1972). More is Different.
 
-TODO.
+-   @Anderson_1972_More_is_different
 
 #### My thoughts
 
