@@ -517,6 +517,7 @@ Links and encyclopedia articles
 -   [Universality](https://en.wikipedia.org/wiki/Universality_(dynamical_systems))
 -   [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect)
 -   [Unsolved problems in physics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
+-   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
 -   [Wave function](http://en.wikipedia.org/wiki/Wave_function)
 -   [Wave function collapse](http://en.wikipedia.org/wiki/Wave_function_collapse)
 -   [Wave-particle duality](http://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality)
