@@ -109,13 +109,13 @@ and many others.
 Why should I care?
 --------------------------------------------------------------------------------
 
-TODO.
-
 We live in a time where science has clear leverage on shaping our future,
 while at the same time,
 basic disagreements about the nature of science and
 its implications for a worldview
 are central to many of our cultural and politcal divisions.
+
+TODO: pick-up writing here.
 
 -   [Why Do Many Reasonable People Doubt Science?](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text) [^Achenbach2015]
 -   [Carl Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w) [^Rose1996]
