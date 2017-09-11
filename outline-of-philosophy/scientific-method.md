@@ -84,9 +84,12 @@ Issues and positions
     -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
         -   *An Enquiry Concerning Human Understanding* (1748) [^Hume2007]
 -   Canonical classical physics
+    -   [Franklin, Benjamin (1706-1790)](https://en.wikipedia.org/wiki/Benjamin_Franklin)
     -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
     -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
+    -   [Volta, Alessandro (1745-1827)](https://en.wikipedia.org/wiki/Alessandro_Volta)
     -   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
+    -   [Amp&egrave;re, Andr&eacute;-Marie (1775-1836)](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re)
     -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
     -   [Poisson, Sim&eacute;on Denis (1781-1840)](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)
     -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
@@ -97,6 +100,7 @@ Issues and positions
     -   [Hamilton, William Rowan (1805-1865))](https://en.wikipedia.org/wiki/William_Rowan_Hamilton)
     -   [Kelvin, William Thomson (1824-1907)](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
+    -   [Gibbs, Josiah Willard (1839-1903)](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs)
     -   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 -   "Scientists"
     -   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
@@ -498,6 +502,7 @@ Links and encyclopedia articles
 -   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
 -   [Academy of Gondishapur](https://en.wikipedia.org/wiki/Academy_of_Gondishapur)
 -   [Alhazen AKA Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen)
+-   [Amp&egrave;re, Andr&eacute;-Marie (1775-1836)](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re)
 -   [Ancient higher-learning institutions](https://en.wikipedia.org/wiki/Ancient_higher-learning_institutions)
 -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
 -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
@@ -539,6 +544,7 @@ Links and encyclopedia articles
 -   [Explanation](https://en.wikipedia.org/wiki/Explanation)
 -   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
 -   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
+-   [Franklin, Benjamin (1706-1790)](https://en.wikipedia.org/wiki/Benjamin_Franklin)
 -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
 -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
 -   [Gassendi, Pierre (1592-1655)](http://en.wikipedia.org/wiki/Pierre_Gassendi)
@@ -636,6 +642,7 @@ Links and encyclopedia articles
 -   [Type-I and type-II errors](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
 -   [Unsolved problems in statistics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_statistics)
+-   [Volta, Alessandro (1745-1827)](https://en.wikipedia.org/wiki/Alessandro_Volta)
 -   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
 -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
 

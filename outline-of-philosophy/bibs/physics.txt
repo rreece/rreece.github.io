@@ -1,5 +1,5 @@
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396.
-Bain, J. (2000). Against particle field duality: Asymptotic particle states and interpolating fields in interacting QFT (or: Who's afraid of Haag's theorem?). *Erkenntnis*, 53, 375--406.
+Bain, J. (2000). Against particle/field duality: Asymptotic particle states and interpolating fields in interacting QFT, or Who's afraid of Haag's theorem? *Erkenntnis*, 53(3), 375--406.
 Bain, J. (2013). Effective field theories. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 224--254). Oxford: Oxford University Press.
 Bain, J. (2013). Emergence in effective field theories. *European Journal for Philosophy of Science*, 3(3), 257--273.
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
@@ -20,4 +20,4 @@ Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum st
 Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(2), 57--99.
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24)). Oxford: Oxford University Press.
 Seidewitz, E. (2017). Avoiding Haag's Theorem with Parameterized Quantum Field Theory. *Foundations of Physics*, 47(3), 355--374.
-Weinberg, S. (1997). What is quantum field theory, and what did we think it is? http://arxiv.org/abs/hep-th/9702027
+Weinberg, S. (1996). What is quantum field theory, and what did we think it is? *Conceptual foundations of quantum field theory: Proceedings, Symposium and Workshop, Boston, USA, March 1-3, 1996*. http://arxiv.org/abs/hep-th/9702027

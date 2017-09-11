@@ -124,21 +124,34 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 ### Quantum field theory
 
+#### Fields
+
+-   Field definition
+-   Coleman-Mandula theorem [^Coleman1967]
+-   [Fiber bundles in physics](https://ncatlab.org/nlab/show/fiber+bundles+in+physics)
+    -   Fiber bundles embody two central principles of modern physics:
+        1.  the principle of locality
+        2.  the gauge principle.
+-   Maudlin on fiber bundles
+
+[^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
+
 #### Foundations
 
 -   Peskin and Schroeder
 -   David Tong
--   No "2nd quantization"
 -   Weinberg
--   Spin-statistics theorem
--   Coleman-Mandula theorem [^Coleman1967]
+-   No "2nd quantization"
 -   AQFT vs LQFT
 -   Redhead [^Redhead1982]
 -   Redhead [^Redhead1988]
 
-[^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
 [^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
+
+#### Spin-statistics theorem
+
+-   Spin-statistics theorem - Pauli
 
 #### Scattering
 
@@ -171,7 +184,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 [^Bain2013]: @Bain_2013_Effective_field_theories and
     @Bain_2013_Emergence_in_effective_field_theories\.
-[^Weinberg1997]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\.
+[^Weinberg1997]: @Weinberg_1996_What_is_quantum_field_theory_and_what_did_we\.
 
 #### Haag's theorem
 
@@ -181,7 +194,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Earman and Fraser's analysis [^Earman2006]
 -   Klaczynski's analysis [^Klaczynski2016]
 
-[^Bain2000]: @Bain_2000_Against_particle_field_duality_Asymptotic\.
+[^Bain2000]: @Bain_2000_Against_particlefield_duality_Asymptotic\.
 [^Earman2006]: @Earman_2006_Haags_theorem_and_its_implications_for\.
 [^Haag1955]: @Haag_1955_On_quantum_field_theories\.
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
@@ -412,6 +425,7 @@ Links and encyclopedia articles
 
 -   [AdS/CFT correspondence](http://en.wikipedia.org/wiki/AdS/CFT_correspondence)
 -   [Aharonov-Bohm effect](https://en.wikipedia.org/wiki/Aharonov%E2%80%93Bohm_effect)
+-   [Amp&egrave;re, Andr&eacute;-Marie (1775-1836)](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re)
 -   [Background independence](http://en.wikipedia.org/wiki/Background_independence)
 -   [Bell's theorem](http://en.wikipedia.org/wiki/Bell%27s_theorem)
 -   [Bekenstein bound](https://en.wikipedia.org/wiki/Bekenstein_bound)
@@ -449,6 +463,7 @@ Links and encyclopedia articles
 -   [Entropy, Introduction to](http://en.wikipedia.org/wiki/Introduction_to_entropy)
 -   [Eternalism (philosophy of time)](https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time))
 -   [Equipartition theorem](https://en.wikipedia.org/wiki/Equipartition_theorem)
+-   [Franklin, Benjamin (1706-1790)](https://en.wikipedia.org/wiki/Benjamin_Franklin)
 -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
 -   [Four-dimensionalism](https://en.wikipedia.org/wiki/Four-dimensionalism)
 -   [Field](http://en.wikipedia.org/wiki/Field_(physics))
@@ -457,6 +472,7 @@ Links and encyclopedia articles
 -   [Gelfand-Naimark theorem](https://en.wikipedia.org/wiki/Gelfand%E2%80%93Naimark_theorem)
 -   [Gelfand-Naimark-Segal construction](https://en.wikipedia.org/wiki/Gelfand%E2%80%93Naimark%E2%80%93Segal_construction)
 -   [Ghirardi-Rimini-Weber theory](https://en.wikipedia.org/wiki/Ghirardi%E2%80%93Rimini%E2%80%93Weber_theory)
+-   [Gibbs, Josiah Willard (1839-1903)](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs)
 -   [Grand Unified Theory](http://en.wikipedia.org/wiki/Grand_Unified_Theory)
 -   [Haag, Rudolf (1922-2016)](https://en.wikipedia.org/wiki/Rudolf_Haag)
 -   [Haag-&#321;opusza&#324;ski-Sohnius theorem](https://en.wikipedia.org/wiki/Haag%E2%80%93%C5%81opusza%C5%84ski%E2%80%93Sohnius_theorem)
@@ -490,6 +506,9 @@ Links and encyclopedia articles
 -   [Physical cosmology](http://en.wikipedia.org/wiki/Physical_cosmology)
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 -   [Physics, Philosophy of](http://en.wikipedia.org/wiki/Philosophy_of_physics)
+-   [Quantization](https://en.wikipedia.org/wiki/Quantization_(physics))
+-   [Quantization, Canonical](https://en.wikipedia.org/wiki/Canonical_quantization)
+-   [Quantization, Geometric](https://en.wikipedia.org/wiki/Geometric_quantization)
 -   [Quantum decoherence](http://en.wikipedia.org/wiki/Quantum_decoherence)
 -   [Quantum entanglement](http://en.wikipedia.org/wiki/Quantum_entanglement)
 -   [Quantum field theory](http://en.wikipedia.org/wiki/Quantum_field_theory)
@@ -522,9 +541,11 @@ Links and encyclopedia articles
 -   [Timeline of particle physics](http://en.wikipedia.org/wiki/Timeline_of_particle_physics)
 -   [Timeline of particle physics technology](http://en.wikipedia.org/wiki/Timeline_of_particle_physics_technology)
 -   [Timeline of quantum mechanics](http://en.wikipedia.org/wiki/Timeline_of_quantum_mechanics)
+-   [Ultraviolet catastrophe](https://en.wikipedia.org/wiki/Ultraviolet_catastrophe)
 -   [Universality](https://en.wikipedia.org/wiki/Universality_(dynamical_systems))
 -   [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect)
 -   [Unsolved problems in physics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
+-   [Volta, Alessandro (1745-1827)](https://en.wikipedia.org/wiki/Alessandro_Volta)
 -   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
 -   [Wave function](http://en.wikipedia.org/wiki/Wave_function)
 -   [Wave function collapse](http://en.wikipedia.org/wiki/Wave_function_collapse)
@@ -538,12 +559,18 @@ Links and encyclopedia articles
 
 -   [bohmianmechanics.org](http://www.bohmianmechanics.org/)
 -   [Can the quantum state be interpreted statistically?](http://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/) - Matt Leifer
+-   [Can we trivialize the equivalence between canonical quantization of fields and second quantization of particles?](http://physics.stackexchange.com/questions/86920/can-we-trivialize-the-equivalence-between-canonical-quantization-of-fields-and/87194) - physics.stackexchange
+-   [Could one argue that $h$ (Planck constant) and $\hbar/2$ (Dirac constant) are in fact independant constants?](http://physics.stackexchange.com/questions/51631/could-one-argue-that-h-planck-constant-and-hbar-2-dirac-constant-are-in-f/51636) - physics.stackexchange
 -   [Effective field theory](http://ncatlab.org/nlab/show/effective+quantum+field+theory) - nlab
 -   [Emergence](http://rationalwiki.org/wiki/Emergence) - RationalWiki.org
+-   [Fiber bundles in physics](https://ncatlab.org/nlab/show/fiber+bundles+in+physics) - nlab
+-   [Intuitively, why are bundles so important in Physics?](https://physics.stackexchange.com/questions/77368/intuitively-why-are-bundles-so-important-in-physics/77416#77416) - nlab
+-   [Is a third quantization possible?](http://physics.stackexchange.com/questions/625/is-a-third-quantization-possible/823) - physics.stackexchange
 -   [Kochen-Specker theorem](https://ncatlab.org/nlab/show/Kochen-Specker+theorem)
 -   [lqp2.org](http://www.lqp2.org/) - serving several papers on AQFT
 -   [Philosophy of general relativity](http://faculty.poly.edu/~jbain/philrel/) - Jonathan Bain
 -   [Philosophy of quantum mechanics](http://ls.poly.edu/~jbain/philqm/) - Jonathan Bain
+-   [Quantization](https://ncatlab.org/nlab/show/quantization) - nlab
 -   [What is a gauge?](https://terrytao.wordpress.com/2008/09/27/what-is-a-gauge/) - Terence Tao
 -   [Struggles With the Continuum](https://www.physicsforums.com/insights/struggles-continuum-part-1/) - John Baez
 
