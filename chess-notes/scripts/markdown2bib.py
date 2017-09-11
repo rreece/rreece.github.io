@@ -33,6 +33,7 @@ COPYRIGHT
 
 ## std
 import argparse, sys, time
+import os
 import re
 import textwrap
 import unicodedata
@@ -181,7 +182,10 @@ def main():
         print '- %3i duplicates' % len(duplicates)
         print ''
 
-        ## write header
+        output_log = '%s.log' % os.path.splitext(os.path.basename(ops.output))[0]
+        f_out_log = open(output_log, 'w')
+
+        ## write output file, header
         timestamp = time.strftime('%Y-%m-%d-%Hh%M')
         f_out = open(ops.output, 'w')
         f_out.write('## bibtex references file\n')
@@ -191,32 +195,48 @@ def main():
 
         ## write lists of the markdown citations to use
         f_out.write('Total Entries: %i\n\n' % len(results))
+        f_out_log.write('Total Entries: %i\n\n' % len(results))
         
         f_out.write('Articles: %i\n' % len(articles))
+        f_out_log.write('Articles: %i\n' % len(articles))
         for a in articles:
             f_out.write('%s\n' % a)
+            f_out_log.write('%s\n' % a)
         f_out.write('\n')
+        f_out_log.write('\n')
 
         f_out.write('Incollections: %i\n' % len(incollections))
+        f_out_log.write('Incollections: %i\n' % len(incollections))
         for a in incollections:
             f_out.write('%s\n' % a)
+            f_out_log.write('%s\n' % a)
         f_out.write('\n')
+        f_out_log.write('\n')
 
         f_out.write('Books: %i\n' % len(books))
+        f_out_log.write('Books: %i\n' % len(books))
         for a in books:
             f_out.write('%s\n' % a)
+            f_out_log.write('%s\n' % a)
         f_out.write('\n')
+        f_out_log.write('\n')
 
         f_out.write('Miscs: %i\n' % len(miscs))
+        f_out_log.write('Miscs: %i\n' % len(miscs))
         for a in miscs:
             f_out.write('%s\n' % a)
+            f_out_log.write('%s\n' % a)
         f_out.write('\n')
+        f_out_log.write('\n')
 
         if errors:
             f_out.write('ERRORS: %i\n' % len(errors))
+            f_out_log.write('ERRORS: %i\n' % len(errors))
             for a in errors:
                 f_out.write('%s\n' % a)
+                f_out_log.write('%s\n' % a)
             f_out.write('\n')
+            f_out_log.write('\n')
 
         f_out.write('###############################################################################\n\n')
 
@@ -232,8 +252,9 @@ def main():
                 f_out.write('PARSING ERROR\n\n')
 
         f_out.close()
+        f_out_log.close()
 
-        print '%s written.' % ops.output
+        print '%s and %s written.' % (ops.output, output_log)
         print ''
 
 #    print '|'
