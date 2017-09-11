@@ -126,9 +126,13 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 #### Foundations
 
--   AQFT vs LQFT
+-   Peskin and Schroeder
+-   David Tong
 -   No "2nd quantization"
+-   Weinberg
+-   Spin-statistics theorem
 -   Coleman-Mandula theorem [^Coleman1967]
+-   AQFT vs LQFT
 -   Redhead [^Redhead1982]
 -   Redhead [^Redhead1988]
 

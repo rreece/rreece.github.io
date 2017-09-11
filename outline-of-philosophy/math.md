@@ -345,6 +345,12 @@ Links and encyclopedia articles
 -   [Smith, Peter. (2006-2016). Logic Matters](http://www.logicmatters.net/), a blog.
 -   [Zach, Richard. (2015). "Quine's Paradox and G&ouml;del's Theorem."](http://richardzach.org/2015/03/30/quines-paradox-and-godels-theorem/)
 
+### Videos
+
+-   [The Limits of Understanding](https://www.youtube.com/watch?v=DfY-DRsE86s)
+    -   Gregory Chaitin, Mario Livio, Marvin Minsky, Rebecca Newberger Goldstein
+    -   June 4, 2010
+-   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
 
 
 <!-- REFERENCES -->
