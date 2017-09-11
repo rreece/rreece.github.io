@@ -39,10 +39,7 @@ Issues and positions
 -   Frequentist vs Bayesian probability
     -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   Accuracy vs precision [^Cowan1998]
--   Venn [^Venn1888]
--   Peirce
 
-[^Venn1888]: @Venn_1888_The_Logic_of_Chance
 
 ### Early investigators
 
@@ -51,9 +48,12 @@ Issues and positions
 -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Venn, John (1834-1923)](https://en.wikipedia.org/wiki/John_Venn)
+    -   *The Logic of Chance* (1866) [^Venn1888]
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
     -   Formulated modern statistics in "Illustrations of the Logic of Science" (1877-1878) and "A Theory of Probable Inference" in *Studies in Logic* (1883).
     -   With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).
+
+[^Venn1888]: @Venn_1888_The_Logic_of_Chance
 
 
 ### Foundations of statistics
