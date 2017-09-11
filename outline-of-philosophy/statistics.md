@@ -124,7 +124,7 @@ Issues and positions
 
 ### Systematic uncertainties
 
--   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekko Sinervo (PhyStat2003) [^Sinervo2013]
+-   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekka Sinervo (PhyStat2003) [^Sinervo2013]
 -   Not to be confused with type-1 and type-2 errors in Neyman-Pearson theory
 
 [^Sinervo2013]: @Sinervo_2003_Definition_and_treatment_of_systematic\.
