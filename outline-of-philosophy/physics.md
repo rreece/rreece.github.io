@@ -340,6 +340,7 @@ Links and encyclopedia articles
 -   [General relativity, Early philosophical interpretations of](http://plato.stanford.edu/entries/genrel-early/)
 -   [Holism and Nonseparability in Physics](http://plato.stanford.edu/entries/physics-holism/)
 -   [Identity and Individuality in Quantum Theory](http://plato.stanford.edu/entries/qt-idind/)
+-   [Identity of Indiscernibles](http://plato.stanford.edu/entries/identity-indiscernible/)
 -   [Kochen-Specker Theorem](http://plato.stanford.edu/entries/kochen-specker/)
 -   [Many-Worlds Interpretation of Quantum Mechanics](http://plato.stanford.edu/entries/qm-manyworlds/)
 -   [Modal Interpretations of Quantum Mechanics](http://plato.stanford.edu/entries/qm-modal/)
