@@ -173,9 +173,11 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 -   Haag's theorem [^Haag1955]
 -   Malament [^Malament1996]
+-   Bain [^Bain2000]
 -   Earman and Fraser's analysis [^Earman2006]
 -   Klaczynski's analysis [^Klaczynski2016]
 
+[^Bain2000]: @Bain_2000_Against_particle_field_duality_Asymptotic\.
 [^Earman2006]: @Earman_2006_Haags_theorem_and_its_implications_for\.
 [^Haag1955]: @Haag_1955_On_quantum_field_theories\.
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.

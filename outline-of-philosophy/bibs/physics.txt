@@ -1,4 +1,5 @@
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396.
+Bain, J. (2000). Against particle field duality: Asymptotic particle states and interpolating fields in interacting QFT (or: Who's afraid of Haag's theorem?). *Erkenntnis*, 53, 375--406.
 Bain, J. (2013). Effective field theories. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 224--254). Oxford: Oxford University Press.
 Bain, J. (2013). Emergence in effective field theories. *European Journal for Philosophy of Science*, 3(3), 257--273.
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
