@@ -36,6 +36,7 @@ Issues and positions
 
 ### Probability and uncertainty
 
+-   Kolmogorov
 -   Frequentist vs Bayesian probability
     -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   Accuracy vs precision [^Cowan1998]
@@ -275,9 +276,15 @@ Links and encyclopedia articles
 -   [Simplicity in the philosophy of science](http://www.iep.utm.edu/simplici/)
 -   [William of Ockham (1280-1349)](http://www.iep.utm.edu/ockham/)
 
+### Scholarpedia
+
+-   [Algorithmic probability](http://www.scholarpedia.org/article/Algorithmic_probability)
+
 ### Wikipedia
 
 -   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
+-   [Algorithmic information theory](https://en.wikipedia.org/wiki/Algorithmic_information_theory)
+-   [Algorithmic probability](https://en.wikipedia.org/wiki/Algorithmic_probability)
 -   [Analysis of variance](https://en.wikipedia.org/wiki/Analysis_of_variance)
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
 -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
@@ -307,6 +314,8 @@ Links and encyclopedia articles
 -   [Jeffrey, Richard (1926-2002)](https://en.wikipedia.org/wiki/Richard_Jeffrey)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
 -   [Jeffreys prior](https://en.wikipedia.org/wiki/Jeffreys_prior)
+-   [Kolmogorov, Andrey (1903-1987)](https://en.wikipedia.org/wiki/Andrey_Kolmogorov)
+-   [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
 -   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
 -   [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
@@ -321,6 +330,8 @@ Links and encyclopedia articles
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
 -   [Savage, Leonard Jimmie (1917-1971)](https://en.wikipedia.org/wiki/Leonard_Jimmie_Savage)
+-   [Solomonoff, Ray (1926-2009)](https://en.wikipedia.org/wiki/Ray_Solomonoff)
+-   [Solomonoff's theory of inductive inference](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference)
 -   [Statistical classification](http://en.wikipedia.org/wiki/Statistical_classification)
 -   [Statistical hypothesis testing](http://en.wikipedia.org/wiki/Statistical_hypothesis_testing)
 -   [Statistical inference](http://en.wikipedia.org/wiki/Statistical_inference)

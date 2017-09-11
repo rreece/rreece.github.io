@@ -35,6 +35,9 @@ Issues and positions
         -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy) from which we derive academia 
     -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
         -   teleological: things have "natural" purposes or tendencies 
+    -   [Epicurus (341-270 BCE)](https://en.wikipedia.org/wiki/Epicurus)
+        -   Emphasized skepticism until something can be demonstrated 
+        -   Principle of Multiple Explanations: "if several theories are consistent with the observed data, retain them all"
     -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
     -   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
     -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
@@ -525,6 +528,7 @@ Links and encyclopedia articles
 -   [Dirac, Paul (1902-1984)](https://en.wikipedia.org/wiki/Paul_Dirac)
 -   [Einstein, Albert (1879-1955)](https://en.wikipedia.org/wiki/Albert_Einstein)
 -   [Empircism](http://en.wikipedia.org/wiki/Empiricism)
+-   [Epicurus (341-270 BCE)](https://en.wikipedia.org/wiki/Epicurus)
 -   [Epistemology](http://en.wikipedia.org/wiki/Epistemology)
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
 -   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
