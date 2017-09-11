@@ -1,7 +1,7 @@
 Philosophy of statistics
 ================================================================================
 
-Statistics are way important.
+Statistics are *way* important.
 
 <!-- PAGETOC -->
 
@@ -11,6 +11,7 @@ Issues and positions
 
 ### Problem of induction
 
+-   How to infer universals from particulars.
 -   Hume [^Hume2007]
     -   Weintraub [^Weintraub1995]
 -   Mill
