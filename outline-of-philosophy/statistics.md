@@ -52,7 +52,7 @@ Issues and positions
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
     -   Formulated modern statistics in "Illustrations of the Logic of Science" (1877-1878) and "A Theory of Probable Inference" in *Studies in Logic* (1883).
     -   With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).
--   [Turkey, Johm (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+-   [Turkey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
 
 [^Venn1888]: @Venn_1888_The_Logic_of_Chance
 
@@ -334,7 +334,7 @@ Links and encyclopedia articles
 -   [Statistics, Philosophy of](https://en.wikipedia.org/wiki/Philosophy_of_statistics)
 -   [Systematic error](http://en.wikipedia.org/wiki/Systematic_error)
 -   [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
--   [Turkey, Johm (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+-   [Turkey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
 -   [Type-I and type-II errors](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
 -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
