@@ -113,6 +113,7 @@ Issues and positions
     -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
         -   Coined the term "scientist" (previously natural philosopher)
     -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
+    -   [Pasteur, Louis (1822-1895)](https://en.wikipedia.org/wiki/Louis_Pasteur)
     -   [Ladd-Franklin, Christine (1847-1930)](https://en.wikipedia.org/wiki/Christine_Ladd-Franklin)
 -   Biological evolution
     -   Hume on humans being animals [^Hume2007]
