@@ -173,13 +173,13 @@ def main():
             print a
 
         print ''
-        print '%i entries found.' % len(results)
-        print '- %3i articles' % len(articles)
-        print '- %3i incollections' % len(incollections)
-        print '- %3i books' % len(books)
-        print '- %3i miscs' % len(miscs)
-        print '- %3i errors' % len(errors)
-        print '- %3i duplicates' % len(duplicates)
+        print ' %3i entries found' % len(results)
+        print ' %3i articles' % len(articles)
+        print ' %3i incollections' % len(incollections)
+        print ' %3i books' % len(books)
+        print ' %3i miscs' % len(miscs)
+        print ' %3i errors' % len(errors)
+        print ' %3i duplicates' % len(duplicates)
         print ''
 
         output_log = '%s.log' % os.path.splitext(os.path.basename(ops.output))[0]
