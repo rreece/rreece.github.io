@@ -49,7 +49,7 @@ import unicodedata
 
 # Baker, D.J. (2009). Against field interpretations of quantum field theory. *The British Journal for the Philosophy of Science*, 60(3), 585--609.
 # Baker, D.J. (2015). The Philosophy of Quantum Field Theory. [Preprint]
-rep_article_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?(,\s+(&\s+)?)?){1,6}(\s+et\s+al\.)?)[,.]?",
+rep_article_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?(,?\s+(&\s+)?)?){1,6}(\s+et\s+al\.)?)[,.]?",
                     r"\s+\((?P<year>\d+)\)[,.]",
 #                    r"\s+(?P<title>[^.?!\[\]]+[?!]?)[,.]?",
                     r"\s+(?P<title>[^*\[\]]+)[,.]?",
@@ -61,7 +61,7 @@ rep_article_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?(,
                     ])
 rep_article = re.compile(rep_article_s)
 # Weinberg, S. (1995). *Quantum Theory of Fields, Vol. 1*. Cambridge University Press.
-rep_book_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?(,\s+(&\s+)?)?){1,6}(\s+et\s+al\.)?)[,.]?",
+rep_book_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?(,?\s+(&\s+)?)?){1,6}(\s+et\s+al\.)?)[,.]?",
                     r"\s+\((?P<year>\d+)\)[,.]",
                     r"\s+\*(?P<title>[^*]+)\*[,.]?",
                     r"(\s+\((?P<edition>\d+)\w*\s+ed\.\)[,.]?)?",
@@ -72,7 +72,7 @@ rep_book_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?(,\s+
                     ])
 rep_book = re.compile(rep_book_s)
 # Redhead, M. (1988). A Philosopher Looks at Quantum Field Theory. In H. Brown & R. Harr\'{e} (Eds.), Philosophical Foundations of Quantum Field Theory (pp. 9-23). Oxford: Clarendon Press.
-rep_incollection_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?(,\s+(&\s+)?)?){1,6}(\s+et\s+al\.)?)[,.]?",
+rep_incollection_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?(,?\s+(&\s+)?)?){1,6}(\s+et\s+al\.)?)[,.]?",
                     r"\s+\((?P<year>\d+)\)[,.]",
                     r"\s+(?P<title>[^.?!\[\]]+[?!]?)[,.]?",
                     r"\s+In",
@@ -85,7 +85,7 @@ rep_incollection_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)
                     ])
 rep_incollection = re.compile(rep_incollection_s)
 # ATLAS Collaboration. (2011). Updated Luminosity Determination in pp Collisions at $\sqrt{s}=7 TeV using the ATLAS Detector. ATLAS-CONF-2010-011. http://cdsweb.cern.ch/record/1334563
-rep_misc_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?(,\s+(&\s+)?)?){1,6}(\s+et\s+al\.)?)[,.]?",
+rep_misc_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?(,?\s+(&\s+)?)?){1,6}(\s+et\s+al\.)?)[,.]?",
                     r"\s+\((?P<year>\d+)\)[,.]",
                     r"\s+(?P<title>[^.?!\[\]]+[?!]?)[,.]?",
                     r"((?!\s+https?://)\s+(?P<howpublished>[^.\[\]]+)[,.]?)?",
@@ -93,7 +93,7 @@ rep_misc_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?(,\s+
                     r"(\s+\[?(?P<note>[^\[\]]+)\]?\.?)?",
                     ])
 rep_misc = re.compile(rep_misc_s)
-rep_author_s = r"(?P<a1>[^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?)(?P<etal>\s+et\s+al)?(,\s+(&\s+)?(?P<a2>[^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?))?(,\s+(&\s+)?(?P<a3>[^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?))?(,\s+(&\s+)?(?P<a4>[^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?))?(,\s+(&\s+)?(?P<a5>[^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?))?(,\s+(&\s+)?(?P<a6>[^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?))?"
+rep_author_s = r"(?P<a1>[^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?)(?P<etal>\s+et\s+al)?(,?\s+(&\s+)?(?P<a2>[^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?))?(,?\s+(&\s+)?(?P<a3>[^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?))?(,?\s+(&\s+)?(?P<a4>[^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?))?(,?\s+(&\s+)?(?P<a5>[^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?))?(,?\s+(&\s+)?(?P<a6>[^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?))?"
 rep_author = re.compile(rep_author_s)
 rep_url_s = r"(https?://\S+)"
 rep_url = re.compile(rep_url_s)
