@@ -25,13 +25,13 @@ Issues and positions
 [^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
 [^Huber2007]: @Huber_2007_Confirmation_and_induction\.
 [^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
-[^Good1988]: @Good_1988_The_interface_between_statistics_and_philosophy_of\.
+[^Good1988]: @Good_1988_The_interface_between_statistics_and_philosophy\.
 [^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
     @Reichenbach_1940_On_the_justification_of_induction\.
 [^Salmon1963]: @Salmon_1963_On_vindicating_induction\,
     @Salmon_1966_The_Foundations_of_Scientific_Inference\,
     @Salmon_1991_Hans_Reichenbachs_vindication_of_induction\.
-[^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem_of\.
+[^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
 
 ### Probability and uncertainty
@@ -85,11 +85,11 @@ Issues and positions
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
-[^Fisher1915]: @Fisher_1915_Frequency_distribution_of_the_values_of\.
+[^Fisher1915]: @Fisher_1915_Frequency_distribution_of_the_values\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
 [^Kendall1946]: @Kendall_1946_The_Advanced_Theory_of_Statistics_VolII\.
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
-[^Mayo2006]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory_of\.
+[^Mayo2006]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
 
 
 ### Statistical hypothesis testing
@@ -104,7 +104,7 @@ Issues and positions
 
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
 [^Feldman1998]: @Feldman_1998_A_unified_approach_to_the_classical_statistical\.
-[^Neyman1933]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests_of\.
+[^Neyman1933]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
 [^Wald1943]: @Wald_1943_Tests_of_statistical_hypotheses_concerning_several\.
 [^Wilks1938]: @Wilks_1938_The_large_sample_distribution_of_the_likelihood\.
 
@@ -119,9 +119,9 @@ Issues and positions
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
-    @Rao_1945_Information_and_the_accuracy_attainable_in\, and
+    @Rao_1945_Information_and_the_accuracy_attainable\, and
     @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
-[^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests_of\.
+[^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 
 
 ### Systematic uncertainties
@@ -205,7 +205,7 @@ Annotated bibliography
 
 ### Cowan, G. *et al.* (2011). Asymptotic formulae for likelihood-based tests of new physics.
 
--   @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests_of
+-   @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests
 -   Glen Cowan, Kyle Cranmer, Eilam Gross, Ofer Vitells
 
 #### My thoughts

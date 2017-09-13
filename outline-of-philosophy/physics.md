@@ -204,7 +204,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 -   Haag-&#321;opusza&#324;ski-Sohnius theorem [^Haag1975]
 
-[^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries_of\.
+[^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries\.
 
 
 ### Interpretations of quantum mechanics

@@ -35,7 +35,7 @@ Issues and positions
 -   Wigner [^Wigner1960]
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
 
-[^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics_in\.
+[^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
 [^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.
 
 
@@ -152,7 +152,7 @@ Annotated bibliography
 
 ### Wigner, E.P. (1960). The Unreasonable Effectiveness of Mathematics in the Natural Sciences.
 
--   @Wigner_1960_The_unreasonable_effectiveness_of_mathematics_in
+-   @Wigner_1960_The_unreasonable_effectiveness_of_mathematics
 
 #### My thoughts
 

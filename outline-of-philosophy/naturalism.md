@@ -187,7 +187,7 @@ See the outline on [Ethics](ethics.html).
     -   [Stop Blaming Postmodernism for Post-Truth Politics](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845) [^Perrin2017]
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
-[^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have_to\.
+[^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
 [^Heer2017]: @Heer_2017_Americas_First_Postmodern_President\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Perrin2017]: @Perrin_2017_Stop_Blaming_Postmodernism_for_Post_Truth\.

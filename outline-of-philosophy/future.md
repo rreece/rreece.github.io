@@ -21,7 +21,7 @@ TODO.
 
 -   Anthropic bias [^Bostrom2002]
 
-[^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects_in\.
+[^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
 
 
 ### Technological growth
