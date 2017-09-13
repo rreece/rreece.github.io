@@ -373,6 +373,7 @@ Links and encyclopedia articles
 -   [Quantum Gravity](https://plato.stanford.edu/entries/quantum-gravity/)
 -   [Quantum Logic and Probability Theory](http://plato.stanford.edu/entries/qt-quantlog/)
 -   [Quantum Mechanics](http://plato.stanford.edu/entries/qm/)
+-   [Quantum Theory: von Neumann vs Dirac](https://plato.stanford.edu/entries/qt-nvd/)
 -   [Relational Quantum Mechanics](http://plato.stanford.edu/entries/qm-relational/)
 -   [Statistical mechanics, Philosophy of](http://plato.stanford.edu/entries/statphys-statmech/)
 -   [Supertasks](http://plato.stanford.edu/entries/spacetime-supertasks/)
