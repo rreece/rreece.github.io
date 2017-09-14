@@ -80,6 +80,8 @@ Stealing from encyclopedia.com:
 -   Am I a more advanced civilization's tamagotchi?
 -   Distinguish Anti-realism from non-realism
 
+>   Just 'cause you feel it, doesn't mean it's there. - Radiohead
+
 
 ### Humeanism
 
