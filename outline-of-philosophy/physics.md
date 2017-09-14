@@ -559,9 +559,11 @@ Links and encyclopedia articles
 -   [Wave-particle duality](http://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality)
 -   [Weinberg-Witten theorem](https://en.wikipedia.org/wiki/Weinberg%E2%80%93Witten_theorem)
 -   [Weyl, Hermann (1885-1955)](https://en.wikipedia.org/wiki/Hermann_Weyl)
+-   [Wightman axioms](https://en.wikipedia.org/wiki/Wightman_axioms)
 -   [Wigner, Eugene (1902-1995)](https://en.wikipedia.org/wiki/Eugene_Wigner)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 -   [Wigner-Eckart theorem](http://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem)
+
 
 ### Others
 
