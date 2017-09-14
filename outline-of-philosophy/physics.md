@@ -195,7 +195,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Klaczynski's analysis [^Klaczynski2016]
 
 [^Bain2000]: @Bain_2000_Against_particlefield_duality_Asymptotic\.
-[^Earman2006]: @Earman_2006_Haags_theorem_and_its_implications_for\.
+[^Earman2006]: @Earman_2006_Haags_theorem_and_its_implications\.
 [^Haag1955]: @Haag_1955_On_quantum_field_theories\.
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
 [^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
@@ -561,6 +561,7 @@ Links and encyclopedia articles
 -   [Weyl, Hermann (1885-1955)](https://en.wikipedia.org/wiki/Hermann_Weyl)
 -   [Wightman axioms](https://en.wikipedia.org/wiki/Wightman_axioms)
 -   [Wigner, Eugene (1902-1995)](https://en.wikipedia.org/wiki/Eugene_Wigner)
+-   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification)
 -   [Wigner's theorem](http://en.wikipedia.org/wiki/Wigner%27s_theorem)
 -   [Wigner-Eckart theorem](http://en.wikipedia.org/wiki/Wigner%E2%80%93Eckart_theorem)
 
