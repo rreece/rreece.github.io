@@ -11,6 +11,7 @@ Giulini, D., Joos, E., Kiefer, C., Kupsch, J., Stamatescu, I. & Zeh, H.D. (1996)
 Haag, R. (1955). On quantum field theories. *Det Kongelige Danske Videnskabernes Selakab*, 29.
 Haag, R., \L{}opusza\'{n}ski, J. T., & Sohnius, M. (1975). All possible generators of supersymmetries of the S-matrix. *Nuclear Physics B*, 88(2), 257--274.
 Hall, D., & Wightman, A. S. (1957). A theorem on invariant analytic functions with applications to relativistic quantum field theory. I kommission hos Munksgaard.
+Healey, R. (2007). *Gauging What's Real*. Oxford University Press.
 Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. *Synthese*, 102(1), 171--194.
 Klaczynski, L. (2016). Haag's theorem in renormalised quantum field theories. https://arxiv.org/abs/1602.00662
 Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. *Nuovo Cimento*, 1, 205--225.
