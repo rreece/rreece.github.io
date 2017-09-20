@@ -29,7 +29,7 @@ I hope to pubish these outlines or some version of them on my blog:
 [statisticalsignificance.net](http://statisticalsignificance.net/).
 
 
-### Scope disclaimer
+### Note: scope disclaimer
 
 While the scope of this project is ambitiously large,
 clearly it cannot pretend to represent *all* of philosophy by any stretch.
