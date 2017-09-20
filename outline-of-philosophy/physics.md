@@ -380,6 +380,7 @@ Links and encyclopedia articles
 -   [Decoherence](http://plato.stanford.edu/entries/qm-decoherence/)
 -   [Emergent Properties](http://plato.stanford.edu/entries/properties-emergent/)
 -   [Everett's Relative-State Formulation of Quantum Mechanics](http://plato.stanford.edu/entries/qm-everett/)
+-   [Fine-tuning](https://seop.illc.uva.nl/entries/fine-tuning/)
 -   [General relativity, Early philosophical interpretations of](http://plato.stanford.edu/entries/genrel-early/)
 -   [Holism and Nonseparability in Physics](http://plato.stanford.edu/entries/physics-holism/)
 -   [Identity and Individuality in Quantum Theory](http://plato.stanford.edu/entries/qt-idind/)
