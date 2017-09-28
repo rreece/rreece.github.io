@@ -93,7 +93,7 @@ See my INSPIRE-HEP profile for a more complete count of ATLAS publications:
 ATLAS Conference Notes / Proceedings / Other Public Documents 
 -------------------------------------------------------------------------------
 
-1.  ATLAS searches for heavy Higgs bosons and supersymmetry using tau decays,
+1.  [ATLAS searches for heavy Higgs bosons and supersymmetry using tau decays](pdf/2017.Reece.ATLAS-searches-for-heavy-Higgs-bosons-and-supersymmetry-tau-leptons.pdf),
     [Nuclear and Particle Physics Proceedings 287-288 (2017) 195-198](http://www.sciencedirect.com/science/article/pii/S240560141730144X),
     June 21, 2017,
     (*only author*,
