@@ -31,10 +31,11 @@ Issues and positions
     -   [Hamilton, William Rowan (1805-1865)](http://en.wikipedia.org/wiki/William_Rowan_Hamilton)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
     -   [Noether, Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
-
--   Principle of least action
--   Canonical dynamics
--   Noether's theorem
+-   Symmetry-first physics
+    -   Principle of least action
+    -   Canonical dynamics
+    -   Curie's principle
+    -   Noether's theorem
 
 
 ### Statistical physics
@@ -477,6 +478,7 @@ Links and encyclopedia articles
 -   [Complexity](http://en.wikipedia.org/wiki/Complexity)
 -   [Constructor theory](http://en.wikipedia.org/wiki/Constructor_theory)
 -   [CP violation](https://en.wikipedia.org/wiki/CP_violation)
+-   [Curie's Principle](https://en.wikipedia.org/wiki/Curie%E2%80%99s_Principle)
 -   [de Broglie, Louis (1892-1987)](https://en.wikipedia.org/wiki/Louis_de_Broglie)
 -   [De Broglie-Bohm theory](http://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory)
 -   [Determinism](http://en.wikipedia.org/wiki/Determinism)
