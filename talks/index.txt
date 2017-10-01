@@ -118,8 +118,8 @@ Here's my selected list of public talks I have given on
 philosophy of science, in particular with focuses on
 philosophy of quantum mechanics, statistics, and machine learning.
 
-1.  *[Fields before particles](pdf/2017-09-24-RReece-Fields-before-particles.pdf)*     
-    *2017/09/24, Lake Arrowhead, CA*      
+1.  *[Fields before particles](pdf/2017-09-24-RReece-Fields-before-particles.pdf)*       
+    *2017/09/24, Lake Arrowhead, CA*                                                                        
     My talk for [California Quantum Interpretation Network (CQIN)](https://sites.google.com/site/californiaquantum/)
     where I rework the last talk I gave in Saig, defending a view that fields
     are mechanistically prior to particles.
