@@ -96,6 +96,7 @@ This Python package is a framework for doing event-by-event processing of
 [ROOT](https://root.cern.ch/) ntuple files.
 Several analyses for physics measurements and searches for new physics with the [ATLAS experiment](http://atlas.cern/)
 were preformed with this framework or derivatives of it.
+A good overview of pyframe is given in [these slides](http://rreece.github.io/talks/pdf/2011-09-21-RReece-pyframe-PAT.pdf).
 A wiki for an older implementation specific for ATLAS is
 [here](https://twiki.cern.ch/twiki/bin/view/Sandbox/PyFrame).
 This makes use of [pyrootutils](https://github.com/rreece/pyrootutils), described below.
