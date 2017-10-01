@@ -118,6 +118,13 @@ Here's my selected list of public talks I have given on
 philosophy of science, in particular with focuses on
 philosophy of quantum mechanics, statistics, and machine learning.
 
+1.  *[Fields before particles](pdf/2017-09-24-RReece-Fields-before-particles.pdf)*
+    *2017/09/24, Lake Arrowhead, CA*
+    My talk for [California Quantum Interpretation Network (CQIN)](https://sites.google.com/site/californiaquantum/)
+    where I rework the last talk I gave in Saig, defending a view that fields
+    are mechanistically prior to particles.
+    Nonrelativistic quantum mechanics is often taken to fundamentally describe the dynamics of particles, probabilistically related to a wave function, which provides seemingly non-particle, non-local, wave-like, interference phenomena observable in quantum systems, referred to as "wave-particle duality". Since the development and maturing of quantum field theory to generalize quantum mechanics to high-energies, many attitudes about the fundamentality of particles have shifted to view them as derivative, emergent excitations in quantum fields. We review arguments for taking the field picture as more fundamental than the particle picture, while being agnostic about whatever ontology is more fundamental than fields in the case of effective field theories. We will discuss misconceptions about wave functions and wave-particle duality. We will also discuss concerns for interpreting interacting theories in light of theorems of Haag and Malament, the LSZ reduction formula, and the effects of decoherence.
+
 1.  *[Machine learning and realism](pdf/2017-03-16-RReece-Machine-learning-and-realism.pdf)*        
     *2017/03/16, Universit&auml;t Bremen, Bremen, Germany*        
     This is a talk I gave at the
