@@ -305,6 +305,7 @@ Links and encyclopedia articles
 -   [Social Contract, The](http://en.wikipedia.org/wiki/The_Social_Contract)
 -   [Trolley problem](http://en.wikipedia.org/wiki/Trolley_problem)
 -   [Utilitarianism](http://en.wikipedia.org/wiki/Utilitarianism)
+-   [Veil of ignorance](https://en.wikipedia.org/wiki/Veil_of_ignorance)
 
 ### Others
 
