@@ -19,6 +19,7 @@ Issues and positions
 
 -   See the discussion of [Stoicism](http://rreece.github.io/outline-of-philosophy/human-condition.html#stoicism).
 -   Aristotle
+-   Stoicism
 
 
 ### Deontological ethics
@@ -36,6 +37,7 @@ Issues and positions
 ### Moral antirealism
 
 -   Emotivism - Hume, A.J. Ayer
+-   Positivism
 -   Nihilism
 -   Postmodernism
 -   Relativism
@@ -96,7 +98,7 @@ This sounds legit to me so far:
     Sent at 2:10 PM on Sunday
     me:  and i dont completely eliminate deontological justifications,
     they just arent primary
-    he conequences are primary in defining whats good
+    the conequences are primary in defining whats good
     but then we make norms that are good general rules to optimize
     the consequences
     like dont kill
@@ -133,11 +135,22 @@ There's no unified or received view of the fact/value, descriptive/normative div
 ### Moral naturalism
 
 -   Binmore
--   evolution
 -   game theory
--   @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes
+    -   Heads-up poker solved [^Bowling2015]
+-   evolution
+    -   @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes
+    -   evolution of trust
 -   @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other
+-   My thought experiment:
+    -   Agree that chess (or poker) has better and worse play
+    -   Add another task to the competition: do laundry while playing,
+        also while trying to sell a product over the phone,
+        or a more typical triatholan: cycle, swim, run, etc.
+        As we add tasks, there doesn't stop being better and worse
+        overall strategies, albeit complication grows.
+    -   Finally, we ask the meta question of what to do next.
 
+[^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 
 ----------------------
 
