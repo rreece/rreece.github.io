@@ -1,7 +1,7 @@
 Moving Naturalism Forward Day 1
 ================================================================================
 
-**Contents:**
+*)*Contents:**
 
 1.  [Participants introduce themselves](#participants-introduce-themselves)
 2.  [What is reality?](#what-is-reality)
@@ -136,7 +136,7 @@ Participants introduce themselves
     Thinks that philosophy does make progress.
     Has a tattoo:
     
-    > Truth springs from argument amongst friends. -- Hume
+    > Truth springs from argument amongst friends. -- Hume (Misattributed)
 
     Likes Ladyman and Ross' book which changed his mind about many things.
 
@@ -149,7 +149,7 @@ Participants introduce themselves
     making finer resolution maps of the brain, but not yet many conceptual advances.
 
 13. **Jennifer Oullet** - Science writer.  Recoiled from an evangelical religious family.
-    Carroll's wife.
+    Married to Sean Carroll.
 
 14. **Jerry Coyne** - Evolutionary biologist at U Chicago.
     Incompatiblist: consciousness and free will are an illusion, not meaning that they
@@ -166,9 +166,10 @@ Participants introduce themselves
     For example, if your kid tells you they are hungry,
     that's a way of knowing that is not science.
 
-    **(Ryan, the author of these notes)**: I disagree, it's still science: empirical and falsifiable.
-    You could ask them to repeat it in case you mis-heard them;
-    you could look closely to verify you aren't mis-identifying them,
+    **(Ryan, the author of these notes)**: I disagree, it's still scientific: empirical and falsifiable.
+    You could ask your kid to repeat in case you mis-heard them;
+    you could look closely to verify you aren't mis-identifying them;
+    you can verify (insofar as you get accurate feedback from the kid) that their hunger subsides after feeding them;
     empirically improving your confidence in the information.
 
 15. **Steven Weinberg** - Works in particle physics, QFT, and cosmology.
@@ -198,7 +199,7 @@ What is reality?
 Physics has not yet bottomed out, but we don't have to know the fundamental ontology
 (string theory or otherwise).  Perhaps it won't ever bottom out.
 Naturalism doesn't require us to take sides on matters at the frontiers of physics.
-Naturalism can trust three features of physics to not change (despite possible future revolutions):
+Naturalism can trust two (three) features of physics to not change (despite possible future revolutions):
 
 1.  *Resolute denial of teleology*: no backward causation from the future
     pulling events in some trajectory, or any eminent causation that involves some
