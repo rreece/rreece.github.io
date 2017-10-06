@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Thu Oct 05, 2017" />
+  <meta name="date" content="Fri Oct 06, 2017" />
   <title>Getting started - markdown-memo example document</title>
   <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
@@ -94,19 +94,19 @@
 </ul>
 <p>On my Mac, I used to install the missing dependencies through <a href="https://www.macports.org/">macports</a>, but beginning with OS 10.11, I started using <a href="http://brew.sh/">homebrew</a>.</p>
 <p>First, if you are on a Mac, you should install <a href="https://developer.apple.com/xcode/">Xcode</a> through the Apple app store to get <code>make</code> and basic build utilities.</p>
-<p>With <em>homebrew</em>, one does</p>
+<p>Some basic requirements I had to install with <em>homebrew</em> were the following, and I got <a href="https://pip.readthedocs.io/en/stable/installing/">pip</a> and used it to install somethings:</p>
+<pre><code>brew install wget
+brew install xpdf
+sudo python get-pip.py 
+sudo pip install scipy
+sudo pip install matplotlib
+sudo pip install pandas</code></pre>
+<p>Then, with <em>homebrew</em>, the main packages to install are</p>
 <pre><code>brew cask install mactex
 brew install pandoc
 brew install pandoc-citeproc
 brew install pandoc-crossref</code></pre>
-<p>Other missing requirements I had to install with <em>homebrew</em> were</p>
-<pre><code>brew install wget
-brew install matplotlib
-brew install numpy
-brew install homebrew/python/scipy
-brew cask install xquartz
-brew install homebrew/x11/xpdf</code></pre>
-<p>With <em>macports</em>, one does</p>
+<p>Instead of homebrew, some years ago, with <em>macports</em> I installed</p>
 <pre><code>sudo port selfupdate
 sudo port install texlive-latex texlive-latex-recommended texlive-latex-extra texlive-math-extra
 sudo port install pandoc
@@ -182,7 +182,7 @@ Or equations:
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email.png" alt="my email address"/></p>
-    <p>Thu Oct 05, 2017</p>
+    <p>Fri Oct 06, 2017</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2017 <a href="http://rreece.github.io/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
