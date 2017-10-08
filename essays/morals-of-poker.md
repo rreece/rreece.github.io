@@ -74,6 +74,7 @@ There will be up-swings and down-swings.
 
 Because shit will happen, you have to be able to ride the waves.
 Cultivate your conscientiousness so that you will be ready for hard times.
+Don't get suckered into taking risks that you shouldn't.
 Consistently stick to your best plan, but adapt your plan.
 Don't lose sight of your long-term goals.
 
