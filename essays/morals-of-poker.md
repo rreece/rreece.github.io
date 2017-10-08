@@ -84,7 +84,8 @@ Don't lose sight of your long-term goals.
 
 Again, pay attention!
 *Carpe diem!*
-Opportunity be knocking, you gotta let a motherfucker in.
+As Action Bronson said,
+"Opportunity be knocking, you gotta let a motherfucker in".
 The flip side of Franklin's aphorism "A penny saved is a penny earned"
 should be that "A penny missed is a penny lost".
 The opportunities that you let walk-by are opportunity *losses*.
