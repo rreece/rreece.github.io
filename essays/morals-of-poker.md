@@ -27,7 +27,7 @@ I have tried to enumerate the "Morals of Poker".
 1. You do not achieve without trying
 -------------------------------------------------------------------------------
 
-You have show up and risk to achieve anything.
+You have to show up and to risk something to achieve anything.
 You do not win if you do not play.
 
 
