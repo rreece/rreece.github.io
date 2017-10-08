@@ -57,7 +57,7 @@ you ought to have the gumption to defend your position aggressively.
 
 While a lot can be gained by representing yourself with confidence,
 eventually you have to back it up with something real.
-You earn your reputation with what you project and produce.
+You earn your reputation with what you project and what you produce.
 You cannot bluff everyone forever.
 
 
