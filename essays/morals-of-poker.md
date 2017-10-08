@@ -79,7 +79,7 @@ Consistently stick to your best plan, but adapt your plan.
 Don't lose sight of your long-term goals.
 
 
-7. An opportunity missed is an opportunity lost
+7. Opportunity missed is opportunity lost
 -------------------------------------------------------------------------------
 
 Again, pay attention!
