@@ -14,7 +14,7 @@ Chess is an example of a game with a rich enough structure that one can
 infer from the best strategies for it,
 emblematic norms of action that have far more generality.
 
-Well versed poker players will know the game of poker to similarly have
+Well versed poker players will similarly know the game of poker to have
 powerful moral lessons for life.
 In the spirit of Franklin's essay,
 I have tried to enumerate the "Morals of Poker".
