@@ -85,7 +85,7 @@ Again, pay attention!
 *Carpe diem!*
 Opportunity be knocking, you gotta let a motherfucker in.
 The flip side of Franklin's aphorism "A penny saved is a penny earned"
-should be that "A penny left is a penny lost".
+should be that "A penny missed is a penny lost".
 The opportunities that you let walk-by are opportunity *losses*.
 
 
