@@ -97,7 +97,7 @@ The opportunities that you let walk-by are opportunity *losses*.
 What is done is done.
 You are never pot-committed to past bets,
 only to what you can win now.
-Learn from the past, but do not carry it into today's decisions.
+Learn from the past, but do not carry it into decisions you can make now.
 
 
 9. Everyone is full of shit
