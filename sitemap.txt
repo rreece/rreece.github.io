@@ -21,8 +21,6 @@ http://rreece.github.io/outline-of-philosophy/physics.html
 http://rreece.github.io/outline-of-philosophy/scientific-method.html
 http://rreece.github.io/outline-of-philosophy/scientific-realism.html
 http://rreece.github.io/outline-of-philosophy/statistics.html
-http://rreece.github.io/philosophy-reading-list/
-http://rreece.github.io/philosophy-reading-list/index.html
 http://rreece.github.io/publications/
 http://rreece.github.io/publications/index.html
 http://rreece.github.io/sw/
