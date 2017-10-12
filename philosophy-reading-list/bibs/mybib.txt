@@ -1,0 +1,25 @@
+Tolkien, J.R.R. (1937). *The Hobbit*. George Allen & Unwin.
+Thorne, K.S. (1995). *Black Holes & Time Warps*. Norton.
+Scruton, R. (1996). *Modern Philosophy*. Penguin.
+Irving, J. (1989). *A Prayer for Own Meany*. William Morrow.
+Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
+Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
+Feynman, R.P. (1963). *The Feynman Lectures on Physics*. California Institute of Technology. http://www.feynmanlectures.caltech.edu
+Griffths, D. (1981). *Introduction to Electrodynamics*. Prentice Hall.
+Foer, J.S. (2005). *Extremely Loud & Incredibly Close*. Houghton Mifflin.
+Needham, T. (1999). *Visual Complex Analysis*. Clarendon Press.
+Martin, R.C. (2008). *Clean Code*. Prentice Hall.
+Russell, B. (2009). *Human Knowledge: Its Scope and Limits*. Routledge.
+Halzen, F. & Martin, A.D. (1984). *Quarks and Leptons*. John Wiley & Sons.
+Braids, S. (2010). *The Intelligent Guide to Texas Hold'em Poker*. Intelligent Games Publishing.
+Harris, S. (2004). *The End of Faith: Religion, Terror, and the Future of Reason*. Norton.
+Hitchens, C. (2007). *God Is Not Great: How Religion Poisons Everything*. Hachette.
+Cowan, G. (1998). *Statistical Data Analysis*. Clarendon Press.
+McCarthy, C. (2006). *The Road*. Knopf.
+Zinn, H. (1980). *A People's History of the United States*. Harper & Row.
+Baggott, J. (2005). *A Beginner's Guide to Reality*. Penguin.
+Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus* (C. K. Ogden, Trans.). London: Kegan Paul, Trench, Trubner & Co.
+Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalised*. Oxford University Press.
+Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*. Harvard University Press.
+Paglia, C. (1990). *Sexual Personae*. Yale University Press.
+de Sade, D.A.F. (2002). *Philosophy in the Bedroom* (R. Seaver and A. Wainhouse, Trans.). http://www.sin.org/tales/Marquis_de_Sade--Philosophy_in_the_Bedroom.pdf [(Originally published in 1795 as \emph{La philosophie dans le boudoir})]

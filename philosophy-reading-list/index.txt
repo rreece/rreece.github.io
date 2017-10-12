@@ -102,10 +102,41 @@ I should probably sort these into categories better, but for now just dumping th
 -   &#9654; Tegmark, M. (2014). *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*.
 
 
+Works that changed me
+--------------------------------------------------------------------------------
+
+1.  Tolkien, J.R.R. (1937). *The Hobbit*. George Allen & Unwin.
+1.  Thorne, K.S. (1995). *Black Holes & Time Warps*. Norton.
+1.  Scruton, R. (1996). *Modern Philosophy*. Penguin.
+1.  Irving, J. (1989). *A Prayer for Own Meany*. William Morrow.
+1.  Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
+1.  Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
+1.  Feynman, R.P. (1963). *The Feynman Lectures on Physics*. California Institute of Technology. http://www.feynmanlectures.caltech.edu
+1.  Griffths, D. (1981). *Introduction to Electrodynamics*. Prentice Hall.
+1.  Foer, J.S. (2005). *Extremely Loud & Incredibly Close*. Houghton Mifflin.
+1.  Needham, T. (1999). *Visual Complex Analysis*. Clarendon Press.
+1.  Martin, R.C. (2008). *Clean Code*. Prentice Hall.
+1.  Russell, B. (2009). *Human Knowledge: Its Scope and Limits*. Routledge.
+1.  Halzen, F. & Martin, A.D. (1984). *Quarks and Leptons*. John Wiley & Sons.
+1.  Braids, S. (2010). *The Intelligent Guide to Texas Hold'em Poker*. Intelligent Games Publishing.
+1.  Harris, S. (2004). *The End of Faith: Religion, Terror, and the Future of Reason*. Norton.
+1.  Hitchens, C. (2007). *God Is Not Great: How Religion Poisons Everything*. Hachette.
+1.  Cowan, G. (1998). *Statistical Data Analysis*. Clarendon Press.
+1.  McCarthy, C. (2006). *The Road*. Knopf.
+1.  Zinn, H. (1980). *A People's History of the United States*. Harper & Row.
+1.  Baggott, J. (2005). *A Beginner's Guide to Reality*. Penguin.
+1.  Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus* (C. K. Ogden, Trans.). London: Kegan Paul, Trench, Trubner & Co.
+1.  Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalised*. Oxford University Press.
+1.  Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*. Harvard University Press.
+1.  Paglia, C. (1990). *Sexual Personae*. Yale University Press.
+1.  de Sade, D.A.F. (2002). *Philosophy in the Bedroom* (R. Seaver & A. Wainhouse, Trans.). http://www.sin.org/tales/Marquis_de_Sade--Philosophy_in_the_Bedroom.pdf [(Originally published in 1795 as \emph{La philosophie dans le boudoir})]
+
+
 --------------------------------------------------------------------------------
 
 ![](img/shelfie-2016-01-27.jpg)
 
 
+<!-- REFERENCES -->
 
 
