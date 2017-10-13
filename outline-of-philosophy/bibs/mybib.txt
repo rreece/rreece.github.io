@@ -3,17 +3,17 @@ Einstein, A. (1922). Geometry and Experience. London: Methuen & Co. http://www-h
 Feynman, R.P. (1963). *The Feynman Lectures on Physics, Volume I*. California Institute of Technology. http://www.feynmanlectures.caltech.edu/I_03.html
 Feynman, R.P. (1965). The Development of the Space-Time View of Quantum Electrodynamics. Nobel Lecture, December 11, 1965. http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html
 Frigg, R., & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask. *Euro Jnl Phil Sci*.
-Galilei, G. (2008). Reply to Cardinal Bellarmine. In M. Finocchiaro (Ed.), *The Essential Galileo*. Cambridge: Hackett. https://www.marxists.org/reference/subject/philosophy/works/it/galileo.htm [(Originally written in 1615)] 
+Galilei, G. (2008). Reply to Cardinal Bellarmine. In M. Finocchiaro (Ed.), *The Essential Galileo*. Hackett. https://www.marxists.org/reference/subject/philosophy/works/it/galileo.htm [(Originally written in 1615)] 
 Goldstein, R. (2014). Science is our best answer, but it takes a philosophical argument to prove that. *The Guardian*. http://www.theguardian.com/books/2014/oct/19/rebecca-newberger-goldstein-interview-science-philosophy-plato-googleplex
 Hatfield, G. (2008). Ren\'{e} Descartes. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/descartes/
 Hickey, L. (2005). The brain in a vat argument. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/brainvat/
 Khlentzos, D. (2011). Challenges to metaphysical realism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/realism-sem-challenge/
 Klein, P. (2015). Skepticism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/skepticism/
-Kuhn, T. (1962). *The Structure of Scientific Revolutions*. Chicago: University of Chicago Press.
+Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
 Ladyman, J. (2014). Structural realism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/structural-realism/
 Levin, J. (2013). Functionalism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/functionalism/
-Lewis, D. (1986). *Philosophical Papers II*. Oxford: Oxford University Press.
-Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford: Oxford University Press.
+Lewis, D. (1986). *Philosophical Papers II*. Oxford University Press.
+Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.
 Miller, A. (2014). Realism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/realism/
 Monton, B. (2012). Constructive empiricism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/constructive-empiricism/
 Moore, G. (1925). A defense of common sense. In J. Muirhead (Ed.), *Contemporary British Philosophy*. London: Allen and Unwin. 147--170.
@@ -21,8 +21,8 @@ Moore, G. (1939). Proof of an external world. *Proceedings of the British Academ
 Murzi, M. (2004). Vienna circle. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/viennacr/
 Noah, T. (1998). Bill Clinton and the Meaning of "is". *Slate Magazine*. http://www.slate.com/articles/news_and_politics/chatterbox/1998/09/bill_clinton_and_the_meaning_of_is.html
 Palmer, J. (2012). Parmenides. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/parmenides/
-Peterson, J.B. (1999). *Maps of Meaning*. New York: Routledge.
-Plato. (2000). *The Republic*. (G. Ferrari, Ed. & T. Griffith, Trans.). Cambridge: Cambridge University Press. [(Originally written ca. 380 BCE)]
+Peterson, J.B. (1999). *Maps of Meaning*. Routledge.
+Plato. (2000). *The Republic*. (G. Ferrari, Ed. & T. Griffith, Trans.). Cambridge University Press. [(Originally written ca. 380 BCE)]
 Poincar\'{e}, H. (2014). *The Foundations of Science: Science and hypothesis, the value of science, science and method* (G.B. Halstead, Trans.). Cambridge: Cambridge University Press. [(Originally published in 1905)]
 Polger, T. (2008). Functionalism. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/functism/
 Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson and Co. [(Originally published in 1934 as \emph{Logik der Forschung})]
@@ -30,15 +30,15 @@ Prado, I. (2006). Ionian Enchantment: A brief history of scientific naturalism. 
 Preston, A. (2005). George Edward Moore. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/moore/
 Pritchard, D. (2004). Contemporary skepticism. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/skepcont/
 Psillos, S. (1999). *Scientific Realism: How Science Tracks Truth*. London, New York: Routledge.
-Putnam, H. (1981). *Reason, Truth, and History*. Cambridge: Cambridge University Press.
+Putnam, H. (1981). *Reason, Truth, and History*. Cambridge University Press.
 Quine, W.V.O. (1951). Two Dogmas of Empiricism. *The Philosophical Review*, 60, 20--43.
 Schwichtenberg, J. (2015). *Physics from Symmetry*. Springer.
 Sellars, W. (1963). Philosophy and the scientific image of man. In *Science, Perception, and Reality*. Atascadero, CA: Ridgeview Publishing Co.
-Sider, T. (2011). *Writing the Book of the World*. Oxford: Oxford University Press.
+Sider, T. (2011). *Writing the Book of the World*. Oxford University Press.
 Stanford, K. (2013). Underdetermination of scientific theory. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/scientific-underdetermination/
 Tegmark, M. (2007). The Mathematical Universe. *Foundations of Physics*, 38, 101--150.
 Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
-van Fraassen, B. (1980). *The Scientific Image*. Oxford: Oxford University Press.
+van Fraassen, B. (1980). *The Scientific Image*. Oxford University Press.
 van Inwagen, P. (2014). Metaphysics. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/metaphysics/
 Vickers, J. (2014). The problem of induction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/induction-problem/
 Worrall, J. (1989). Structural realism: The best of both worlds? *Dialectica*, 43, 99--124.

@@ -1,7 +1,7 @@
-Ayer, A. J. (1952). *Language, truth and logic* (2 ed.). New York: Dover Publications. [(Originally published in 1946)]
+Ayer, A. J. (1952). *Language, truth and logic* (2 ed.). Dover Publications. [(Originally published in 1946)]
 Carnap, R. (1950). Empiricism, semantics, and ontology. *Revue Internationale de Philosophie*, 4, 20--40.
-Carnap, R. (1955). The logical foundations of the unity of science. In *International Encyclopedia of Unified Science: Volume I*. Chicago: University of Chicago Press, 42--62.
+Carnap, R. (1955). The logical foundations of the unity of science. In *International Encyclopedia of Unified Science: Volume I*. University of Chicago Press, 42--62.
 Carnap, R. (2003). *The Logical Structure of the World* (R.A. George, Trans.). Chicago: Open Court. [(Originally published in 1928 as \emph{Der logische Aufbau der Welt})]
 Creathe, R. (2011). Logical empiricism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/logical-empiricism/
 Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus* (C. K. Ogden, Trans.). London: Kegan Paul, Trench, Trubner & Co.
-Wittgenstein, L. (2009). *Philosophical Investigations* (4 ed.) (P. Hacker and J. Schulte, Eds. E. Anscombe and P. Hacker, Trans.). Oxford: Wiley-Blackwell. [(Originally published in 1953)]
+Wittgenstein, L. (2009). *Philosophical Investigations* (4 ed.) (P. Hacker and J. Schulte, Eds. E. Anscombe and P. Hacker, Trans.). Wiley-Blackwell. [(Originally published in 1953)]

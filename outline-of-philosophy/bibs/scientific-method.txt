@@ -1,10 +1,10 @@
-Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford: Oxford University Press. [(Originally published in 1641)]
+Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
 Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/abduction/
 French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
-Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford: Oxford University Press. [(Originally published in 1748)]
-Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Indianapolis: Hackett. [(Originally published in 1781)]
-Newton, I. (2016). *The Principia: Mathematical Principles of Natural Philosophy* (I. Bernard Cohen and A. Whitman and J. Budenz, Trans.). Berkeley: University of California Press. [(Originally published in 1687)]
-Russell, B. (2009). *Human Knowledge: Its Scope and Limits*. New York: Routledge.
-Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*. Chicago: Chicago University Press.
+Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
+Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1781)]
+Newton, I. (2016). *The Principia: Mathematical Principles of Natural Philosophy* (I. Bernard Cohen and A. Whitman and J. Budenz, Trans.). University of California Press. [(Originally published in 1687)]
+Russell, B. (2009). *Human Knowledge: Its Scope and Limits*. Routledge.
+Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*. Chicago University Press.
 Sabra, A.I. (1978). An eleventh-century refutation of Ptolemy's planetary theory. *Studia Copernicana*, 16, 117--131.
 Sellars, W. (1963). Empircism and philosophy of mind. In *Science, Perception, and Reality* (pp. 127--196). Atascadero, CA: Ridgeview Publishing Co.
