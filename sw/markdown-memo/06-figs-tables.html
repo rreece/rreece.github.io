@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Thu Oct 12, 2017" />
+  <meta name="date" content="Wed Nov 01, 2017" />
   <title>Floats, Figures, and Tables - markdown-memo example document</title>
   <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
@@ -228,30 +228,83 @@ sumo decore. Eirmod hendrerit an pri.
 <a id="link:test1" class="closed" onclick="toggle_more('test1')">Click for more details</a>
 </div>
 <div id="test1" class="more">
-<p>Ne nonumy quodsi petentium vix, mel ad errem accusata periculis. Porro urbanitas consetetur mei eu, his nisl officiis ei. Ei cum fugit graece, ne qui tantas qualisque voluptaria. Vis ut laoreet euripidis, vix aeque omittam at, vix no cetero volumus. Per te omnium volutpat torquatos, cu vis sumo decore. Eirmod hendrerit an pri.</p>
-<p>Amet magna voluptatum eam eu. Denique moderatius ad pri, an vix tale referrentur, atqui appetere et eos. Pri esse disputationi et. Te his assum persius, in eam deterruisset consequuntur. Quando signiferumque no his, usu nusquam corrumpit ex, sea ex soluta option facilisis. Ne autem assentior consequuntur nam, constituto scripserit no eam. Eu laoreet fabellas postulant eos.</p>
-<p>Ei oratio mediocritatem sea, at choro mandamus disputando quo, id eius albucius deseruisse mei. Id eam verear disputando repudiandae. Per et clita reformidans. Ea his corpora ancillae fabellas, an eum facer tation populo. Vix omittam lucilius inciderint ne, est cu civibus scribentur adversarium.</p>
-<p>Pro solet accumsan at. Id has dicunt corrumpit, vel in mundi vitae definiebas, eos in dicunt aliquando. His falli qualisque eu, ad vim movet dolor, per ne denique lobortis. Recusabo tractatos per cu. Apeirian voluptaria constituam eam no. Scripta vivendum mel ne.</p>
-<p>I wonder if Table&#160;2 works.</p>
+<p>Here, we show a <code>PlotTable</code> float, where the user can specify a table, and a corresponding figure plotting the data in the table is automatically generated.</p>
+<p>For example:</p>
+<pre><code>PlotTable: My caption {#tbl:plot_table}
+
+|    X |  Apple |  Banana | Pistachio |
+|-----:|-------:|--------:|----------:|
+|    1 |      2 |       2 |         3 |
+|    2 |      3 |       1 |         5 |
+|    3 |      5 |       0 |         5 |
+|    4 |      4 |       1 |         7 |
+|    5 |      7 |       2 |         8 |
+|    6 |      8 |       3 |         9 |
+|    8 |      9 |       4 |         8 |
+|   11 |      9 |       3 |         9 |</code></pre>
+<p>makes Table&#160;2 and Figure&#160;3.</p>
+<div class="figure">
+<img src="img/plot_table.png" alt="Figure 3: A plot of Table&#160;2." id="fig:plot_table" />
+<p class="caption">Figure 3: A plot of Table&#160;2.</p>
+</div>
 <table>
-<caption>Table 2: Caption</caption>
+<caption>Table 2: My caption</caption>
 <thead>
 <tr class="header">
-<th align="left">a</th>
-<th align="left">b</th>
-<th align="left">c</th>
+<th align="right">X</th>
+<th align="right">Apple</th>
+<th align="right">Banana</th>
+<th align="right">Pistachio</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="left">1</td>
-<td align="left">2</td>
-<td align="left">3</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">2</td>
+<td align="right">3</td>
 </tr>
 <tr class="even">
-<td align="left">4</td>
-<td align="left">5</td>
-<td align="left">6</td>
+<td align="right">2</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td align="right">5</td>
+</tr>
+<tr class="odd">
+<td align="right">3</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">5</td>
+</tr>
+<tr class="even">
+<td align="right">4</td>
+<td align="right">4</td>
+<td align="right">1</td>
+<td align="right">7</td>
+</tr>
+<tr class="odd">
+<td align="right">5</td>
+<td align="right">7</td>
+<td align="right">2</td>
+<td align="right">8</td>
+</tr>
+<tr class="even">
+<td align="right">6</td>
+<td align="right">8</td>
+<td align="right">3</td>
+<td align="right">9</td>
+</tr>
+<tr class="odd">
+<td align="right">8</td>
+<td align="right">9</td>
+<td align="right">4</td>
+<td align="right">8</td>
+</tr>
+<tr class="even">
+<td align="right">11</td>
+<td align="right">9</td>
+<td align="right">3</td>
+<td align="right">9</td>
 </tr>
 </tbody>
 </table>
@@ -290,7 +343,7 @@ sumo decore. Eirmod hendrerit an pri.
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email.png" alt="my email address"/></p>
-    <p>Thu Oct 12, 2017</p>
+    <p>Wed Nov 01, 2017</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2017 <a href="http://rreece.github.io/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
