@@ -38,6 +38,19 @@ Lots more development from us is expected to continue there.
 Repo: [github.com/anomalousdl/adlkit](https://github.com/anomalousdl/adlkit)
 
 
+gmm
+--------------------------------------------------------------------------------
+
+<a href="https://github.com/rreece/gmm">
+<img src="https://github.com/rreece/gmm/blob/master/img/example-results.png" alt="gmm exmaple results" width="500"/>
+</a>
+
+This sprint is where I am exploring fitting gaussian mixture models (GMM) using sklearn,
+trying to do a kind of unspervised learning.
+
+Repo: [github.com/rreece/gmm](https://github.com/rreece/gmm)
+
+
 ipyhep
 --------------------------------------------------------------------------------
 
