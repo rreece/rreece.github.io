@@ -129,6 +129,7 @@ Links and encyclopedia articles
 -   [Agency](http://plato.stanford.edu/entries/agency/)
 -   [Behaviorism](http://plato.stanford.edu/entries/behaviorism/)
 -   [Computational Theory of Mind](http://plato.stanford.edu/entries/computational-mind/)
+-   [Consciousness and Intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/)
 -   [Dualism](http://plato.stanford.edu/entries/dualism/)
 -   [Eliminative Materialism](http://plato.stanford.edu/entries/materialism-eliminative/)
 -   [Elisabeth, Princess of Bohemia (1618-1680)](http://plato.stanford.edu/entries/elisabeth-bohemia/)
@@ -197,6 +198,7 @@ Links and encyclopedia articles
 
 -   [Chalmers' Guide to the Philosophy of Mind](http://consc.net/guide.html)
 -   [The empty brain: Your brain does not process information, retrieve knowledge or store memories](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) - Robert Epstein
+-   [Symbol grounding problem](http://www.scholarpedia.org/article/Symbol_grounding_problem) - scholarpedia
 
 ## Videos
 
