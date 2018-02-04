@@ -154,7 +154,7 @@ root2html
 This is a tool for visualizing many variables in multi-dimensional data.
 It is a script that generates clickable-expandable html and images from a
 [ROOT](https://root.cern.ch/) file of TCanvases for visualizing plots.
-An [example of its output is here](http://reece.scipp.ucsc.edu/share/HighMassHtautau2012/plots/HighMassHtautau2012.2015-10-05-06h00.3lep1tau/).
+An [example of its output is here](http://rreece.github.io/sw/plots/HighMassHtautau2012.2015-10-05-06h00.3lep1tau/).
 
 Repo: [github.com/rreece/root2html](https://github.com/rreece/root2html)
 
