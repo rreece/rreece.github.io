@@ -74,7 +74,7 @@ reconstruction and other classification problems.
 -   ATLAS searches for evidence of supersymmetry in diphoton events
     [[1507.05493](https://arxiv.org/abs/1507.05493), [1606.09150](https://arxiv.org/abs/1606.09150)]
 -   Research in applications of machine learning for particle identification
-    ($e/\gamma/\pi^0$) with ILC-CLIC simulation data
+    ($e/\gamma/\pi$) with ILC-CLIC simulation data
 
 
 ### Curriculum Vitae
