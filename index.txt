@@ -82,10 +82,10 @@ reconstruction and other classification problems.
 -   My brief r&eacute;sum&eacute;: <i class="far fa-file" style="font-size:20px;"></i> [html](docs/Ryan-Reece-resume.html), <i class="far fa-file-pdf" style="font-size:20px;"></i> [pdf](docs/Ryan-Reece-resume.pdf)
 -   My full academic curriculum vitae: <i class="far fa-file" style="font-size:20px;"></i> [html](docs/Ryan-Reece-cv.html), <i class="far fa-file-pdf" style="font-size:20px;"></i> [pdf](docs/Ryan-Reece-cv.pdf)
 -   More info about my projects:              
-    &nbsp;<i class="fab fa-github" style="font-size:20px;"></i>&nbsp;&nbsp;[My github profile](https://github.com/rreece)           
-    &nbsp;<i class="fab fa-github" style="font-size:20px;"></i>&nbsp;&nbsp;[Descriptions of my selected software projects at github](sw/)           
-    &nbsp;&nbsp;<i class="far fa-file-alt" style="font-size:20px;"></i>&nbsp;&nbsp;[List of my selected publications](publications/)           
-    &nbsp;&nbsp;<i class="far fa-file-alt" style="font-size:20px;"></i>&nbsp;&nbsp;[Slides for my selected talks](talks/)
+    <i class="fab fa-github" style="font-size:20px;"></i>&nbsp;&nbsp;[My github profile](https://github.com/rreece)           
+    <i class="fab fa-github" style="font-size:20px;"></i>&nbsp;&nbsp;[Descriptions of my selected software projects at github](sw/)           
+    &nbsp;<i class="far fa-file-alt" style="font-size:20px;"></i>&nbsp;&nbsp;[List of my selected publications](publications/)           
+    &nbsp;<i class="far fa-file-alt" style="font-size:20px;"></i>&nbsp;&nbsp;[Slides for my selected talks](talks/)
 
 
 ### Thesis
@@ -110,7 +110,6 @@ Contact
 
 ### My web presence elsewhere
 
--   [reece.scipp.ucsc.edu](http://reece.scipp.ucsc.edu/) -- my webpage about my research at UCSC
 -   my blogs
     -   [statisticalsignificance.net](http://statisticalsignificance.net/) -- my blog (still trying to get this going)
     -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/) -- my micro-blog on philosophy using only figures

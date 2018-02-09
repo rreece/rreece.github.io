@@ -1,7 +1,7 @@
 
 [![](../img/github-rreece.png)](https://github.com/rreece)
 
-I'm a physicist working with the [ATLAS experiment](http://atlas.cern/) at CERN.
+I'm am data scientist, formerly a physicist with the [ATLAS experiment](http://atlas.cern/) at CERN.
 Read more about me and my research [here](http://rreece.github.io/).
 
 This page describes some projects I'm [developing at github](https://github.com/rreece).
@@ -58,8 +58,9 @@ hypr-ai
 <img src="img/hypr-ai-logo-no-text.png" alt="hypr-ai"/>
 </a>
 
+This is my project as an [Insight Artificial Intellegence Fellow](http://insightdata.ai/).
 HYPR.AI is a cloud-based deep learning and hyperparameter optimization platform.
-It contains a RESTful service, dockerized training worker, and a WebUI build upon that RESTful service.
+It contains a RESTful service, dockerized training worker, and a WebUI build upon the RESTful service.
 
 Repo: [github.com/rreece/hypr-ai](https://github.com/rreece/hypr-ai)
 
