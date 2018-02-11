@@ -35,7 +35,7 @@ We are currently doing a large code rewrite and have just begun
 releasing the newer "adlkit" version on github.
 Lots more development from us is expected to continue there.
 
-Repo: [github.com/anomalousdl/adlkit](https://github.com/anomalousdl/adlkit)
+Repo: [github.com/anomalousdl/adlkit](https://github.com/anomalousdl/adlkit)                
 Created: May 6, 2017
 
 
