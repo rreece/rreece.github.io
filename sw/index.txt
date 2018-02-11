@@ -36,6 +36,7 @@ releasing the newer "adlkit" version on github.
 Lots more development from us is expected to continue there.
 
 Repo: [github.com/anomalousdl/adlkit](https://github.com/anomalousdl/adlkit)
+Created: May 6, 2017
 
 
 gmm
@@ -48,7 +49,8 @@ gmm
 This sprint is where I am exploring fitting gaussian mixture models (GMM) using sklearn,
 trying to do a kind of unspervised learning.
 
-Repo: [github.com/rreece/gmm](https://github.com/rreece/gmm)
+Repo: [github.com/rreece/gmm](https://github.com/rreece/gmm)                  
+Created: Dec 2, 2017
 
 
 hypr-ai
@@ -62,7 +64,8 @@ This is my project as an [Insight Artificial Intellegence Fellow](http://insight
 HYPR.AI is a cloud-based deep learning and hyperparameter optimization platform.
 It contains a RESTful service, dockerized training worker, and a WebUI build upon the RESTful service.
 
-Repo: [github.com/rreece/hypr-ai](https://github.com/rreece/hypr-ai)
+Repo: [github.com/rreece/hypr-ai](https://github.com/rreece/hypr-ai)                
+Created: Jan 14, 2018
 
 
 ipyhep
@@ -76,7 +79,8 @@ ipyhep is a Python package I have developed for making plots that are common
 in high-energy physics, most importantly stacked histograms,
 with *[PyROOT](https://root.cern.ch/pyroot) and [Jupyter](http://jupyter.org/) notebooks*.
 
-Repo: [github.com/rreece/ipyhep](https://github.com/rreece/ipyhep)
+Repo: [github.com/rreece/ipyhep](https://github.com/rreece/ipyhep)               
+Created: Mar 15, 2015
 
 
 markdown2bib
@@ -90,7 +94,8 @@ Converts simple markdown-formatted [APA](http://www.library.arizona.edu/search/r
 bibliographies to [bibtex](https://verbosus.com/bibtex-style-examples.html).
 Scrape the world's bibliographies. All your bibs are belong to us.
 
-Repo: [github.com/rreece/markdown2bib](https://github.com/rreece/markdown2bib)
+Repo: [github.com/rreece/markdown2bib](https://github.com/rreece/markdown2bib)               
+Created: Mar, 15, 2016
 
 
 markdown-memo
@@ -109,7 +114,8 @@ some html/css templates.  You can use it to make simple webpages *like this one*
 
 [Read the guide to markdown-memo.](http://rreece.github.io/sw/markdown-memo/)
 
-Repo: [github.com/rreece/markdown-memo](https://github.com/rreece/markdown-memo)
+Repo: [github.com/rreece/markdown-memo](https://github.com/rreece/markdown-memo)                
+Created: Jul 29, 2014
 
 
 pyframe
@@ -128,7 +134,8 @@ A wiki for an older implementation specific for ATLAS is
 [here](https://twiki.cern.ch/twiki/bin/view/Sandbox/PyFrame).
 This makes use of [pyrootutils](https://github.com/rreece/pyrootutils), described below.
 
-Repo: [github.com/rreece/pyframe](https://github.com/rreece/pyframe)
+Repo: [github.com/rreece/pyframe](https://github.com/rreece/pyframe)              
+Created: May 26, 2010
 
 
 pyrootutils
@@ -142,7 +149,8 @@ A set of useful tools for taming [pyroot](https://root.cern.ch/pyroot).
 This package has my default implementations for how to read and write
 trees/ntuples/files with pyroot.
 
-Repo: [github.com/rreece/pyrootutils](https://github.com/rreece/pyrootutils)
+Repo: [github.com/rreece/pyrootutils](https://github.com/rreece/pyrootutils)             
+Created: May 26, 2015
 
 
 rdrshell
@@ -155,7 +163,8 @@ rdrshell
 An extensible organization of my bash dotfiles.
 I check this out everywhere I work.
 
-Repo: [github.com/rreece/rdrshell](https://github.com/rreece/rdrshell)
+Repo: [github.com/rreece/rdrshell](https://github.com/rreece/rdrshell)                
+Created: Mar 3, 2015
 
 
 root2html
@@ -170,7 +179,8 @@ It is a script that generates clickable-expandable html and images from a
 [ROOT](https://root.cern.ch/) file of TCanvases for visualizing plots.
 An [example of its output is here](http://rreece.github.io/sw/plots/HighMassHtautau2012.2015-10-05-06h00.3lep1tau/).
 
-Repo: [github.com/rreece/root2html](https://github.com/rreece/root2html)
+Repo: [github.com/rreece/root2html](https://github.com/rreece/root2html)           
+Created: Feb 16, 2011
 
 
 rootnotes
@@ -182,6 +192,7 @@ It was first developed by [Alexander Mazurov](http://mazurov.github.io/webfest20
 but I have extended it, and it is used by [ipyhep](#ipyhep).
 
 
-Repo: [github.com/rreece/rootnotes](https://github.com/rreece/rootnotes)
+Repo: [github.com/rreece/rootnotes](https://github.com/rreece/rootnotes)             
+Created: Nov 8, 2016
 
 
