@@ -10,6 +10,10 @@ Data science, statistics, & machine learning
 
 Here's my selected list of talks I have given on analysis and computing techniques.
 
+1.  *[Primer on statistics: MLE, Confidence Intervals, and Hypothesis Testing](pdf/)*
+    *2018/02/16, Insight Data Science, Palo Alto, CA*         
+    A tutorial I gave on statistics to the other Insight AI Fellows duing my Insight fellowship.
+
 1.  *[Diving into deep learning with keras using your ntuples](pdf/2016-10-07-RReece-Deep-Learning-Tutorial.pdf)*       
     *2016/10/07, CERN, Meyrin, Switzerland*        
     A tutorial I gave at CERN on training deep neural networks with keras,
