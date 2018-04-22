@@ -1,6 +1,26 @@
 
 Here you will find lists of my selected publications.
 
+
+Blog posts
+-------------------------------------------------------------------------------
+
+I'm trying to blog at [statisticalsignificance.net](https://statisticalsignificance.net/).
+
+
+Some pedagogical notes
+-------------------------------------------------------------------------------
+
+1.  [Derivation of the Cram&eacute;r-Rao bound](pdf/2009.Reece.Derivation-of-the-Cramer-Rao-Bound.pdf) (2009)
+1.  [Quantum field theory: an introduction](pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf) (2007)
+1.  [Statistical mechanics notes](pdf/2006.Reece.Statistical-Mechanics-Notes.pdf) (2006)
+1.  [Derivation of the quantum mechanical momentum operator in the position representation](pdf/2006.Reece.Derivation-of-the-QM-momentum-operator.pdf) (2006)
+1.  [Primer on complex analysis](pdf/2006.Reece.Primer-on-complex-analysis.pdf) (2006)
+
+
+CV and Thesis
+-------------------------------------------------------------------------------
+
 ### Curriculum Vitae
 
 First, note that you can get my CV here: [html](../docs/Ryan-Reece-cv.html), [pdf](../docs/Ryan-Reece-cv.pdf).
@@ -84,10 +104,18 @@ ATLAS Publications
     October 21, 2008.
 
 The above is a selected list of ATLAS publications for which I made substantial contributions.
-I am also an author of several publications (more than 470 as of September 2015)
+I am also an author of several publications (more than 700 as of April 2018)
 because of my affiliation with ATLAS as a qualified author since June 1, 2008.
 See my INSPIRE-HEP profile for a more complete count of ATLAS publications:
 <https://inspirehep.net/author/profile/R.Reece.1>.
+
+Included among these publications is the discovery of the Higgs boson:
+
+-   ATLAS Collaboration, Combined search for the Standard Model Higgs boson in $pp$ collisions
+at *&radic;s* = 7 TeV with the ATLAS detector, 
+   [*Phys. Rev. D 86*,  032003 (2012)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.032003),
+   [arXiv:1207.0319](https://arxiv.org/abs/1207.0319),
+   July 2, 2012.
 
 
 ATLAS Conference Notes / Proceedings / Other Public Documents 
@@ -317,15 +345,5 @@ You won't have access to these unless you are a member of ATLAS.
     <https://twiki.cern.ch/twiki/bin/view/AtlasProtected/WritingYourOwnEventViewTools>.
 
 </div> <!-- end clickmore -->
-
-
-Some pedagogical notes
--------------------------------------------------------------------------------
-
-1.  [Derivation of the Cram&eacute;r-Rao bound](pdf/2009.Reece.Derivation-of-the-Cramer-Rao-Bound.pdf) (2009)
-1.  [Quantum field theory: an introduction](pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf) (2007)
-1.  [Statistical mechanics notes](pdf/2006.Reece.Statistical-Mechanics-Notes.pdf) (2006)
-1.  [Derivation of the quantum mechanical momentum operator in the position representation](pdf/2006.Reece.Derivation-of-the-QM-momentum-operator.pdf) (2006)
-1.  [Primer on complex analysis](pdf/2006.Reece.Primer-on-complex-analysis.pdf) (2006)
 
 
