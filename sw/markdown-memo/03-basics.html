@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Wed Nov 01, 2017" />
+  <meta name="date" content="Wed May 02, 2018" />
   <title>Markdown basics - markdown-memo example document</title>
   <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
@@ -69,7 +69,7 @@
 <h1 id="markdown-basics">Markdown basics</h1>
 <p>Here we review the basics of Markdown. A further reference on Markdown syntax by its creator is <a href="http://daringfireball.net/projects/markdown/syntax">here</a>.</p>
 <h3 id="contents" class="unnumbered">Contents</h3>
-<ol style="list-style-type: decimal">
+<ol type="1">
 <li><a href="03-basics.html#sec:sections">Sections</a></li>
 <li><a href="03-basics.html#sec:lists">Lists</a></li>
 <li><a href="03-basics.html#sec:blocks">Blocks</a></li>
@@ -111,7 +111,7 @@ Main text here.</code></pre>
 1.  Constructive empiricists
 1.  Positivists
 1.  Relativists</code></pre>
-<ol style="list-style-type: decimal">
+<ol type="1">
 <li>Na&#239;ve realists</li>
 <li>Scientific realists</li>
 <li>Constructive empiricists</li>
@@ -171,10 +171,10 @@ print(alist)</code></pre>
 | Opportunity fleeting,
 | Experiment dangerous,
 | Judgment difficult.</code></pre>
-<div class="preline">Art is long,
-Life is short,
-Opportunity fleeting,
-Experiment dangerous,
+<div class="line-block">Art is long,<br />
+Life is short,<br />
+Opportunity fleeting,<br />
+Experiment dangerous,<br />
 Judgment difficult.</div>
 <p>Otherwise, one can put two or more spaces at the end of a line of Markdown for the linebreak to be taken literally<br />
 like<br />
@@ -206,13 +206,6 @@ this.</p>
 -   \textsc{This Should BE SMALL caps.}
 -   $\textsf{This works though!}$
 -   $\textsc{But this does not!}$</code></pre>
-<p>produces:</p>
-<ul>
-<li></li>
-<li></li>
-<li><span class="math inline">\(\textsf{This works though!}\)</span></li>
-<li><span class="math inline">\(\textsc{But this does not!}\)</span></li>
-</ul>
 <h2 id="sec:links-and-labels">Links and labels</h2>
 <p>URLs are done like this:</p>
 <pre><code>[Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)</code></pre>
@@ -228,7 +221,7 @@ Section&#160;1.6</li>
 </ul>
 <p>You can refer to multiple lables like Section&#160;1.1-1.3 like this:</p>
 <pre><code>[@sec:sections;@sec:lists;@sec:blocks]</code></pre>
-<p>Automatic grouping into a range doesn&#8217;t seem to be working, so you can also try refer to Section&#160;1.1&#8211;Section&#160;1.3 in some versions like this:</p>
+<p>Automatic grouping into a range doesn&#8217;t seem to be working, so you can also try refer to Sections 1.1&#8211;1.3 in some versions like this:</p>
 <pre><code>[Sections @sec:sections]--[-@sec:blocks]</code></pre>
 <h2 id="sec:footnotes">Footnotes</h2>
 <pre><code>Here&#39;s how you do a footnote[^SomeSpecialNote].
@@ -239,13 +232,13 @@ Section&#160;1.6</li>
     an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed,
     at falli feugiat est.</code></pre>
 <p>produces:</p>
-<p>Here&#8217;s how you do a footnote<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>.</p>
-<div class="footnotes">
+<p>Here&#8217;s how you do a footnote<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>.</p>
+<section class="footnotes">
 <hr />
 <ol>
-<li id="fn1"><p>Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque. Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed, at falli feugiat est.<a href="#fnref1">&#8617;</a></p></li>
+<li id="fn1"><p>Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque. Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed, at falli feugiat est.<a href="#fnref1" class="footnote-back">&#8617;</a></p></li>
 </ol>
-</div>
+</section>
 
 </div> <!-- end pagecontainer -->
 </div> <!-- end mainbody -->
@@ -268,10 +261,10 @@ Section&#160;1.6</li>
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email.png" alt="my email address"/></p>
-    <p>Wed Nov 01, 2017</p>
+    <p>Wed May 02, 2018</p>
   </div>
   <div class="license">
-    <p><span class="copy-left">&#169;</span> 2015-2017 <a href="http://rreece.github.io/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
+    <p><span class="copy-left">&#169;</span> 2015-2018 <a href="http://rreece.github.io/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
     <p>Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.</p>
   </div>
   <div style="clear:both;"></div>

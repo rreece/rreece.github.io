@@ -87,10 +87,10 @@ index.md: $(MD_FILES)
 ## create index.html
 index.html: index.mdp meta.yaml
 	@pandoc \
+		-f markdown+smart \
 		-t html \
 		--ascii \
 		--standalone \
-		--smart \
 		--variable=date-meta:"$(DATE)" \
 		--template=./templates/index_template.html \
 		-o $@ $< meta.yaml
@@ -100,11 +100,11 @@ index.html: index.mdp meta.yaml
 ## create the output html in one combined file
 $(OUTPUT).html: order.txt $(MDP_FILES) $(HTML_DEPS) meta.yaml
 	@pandoc \
+		-f markdown+smart \
 		-t html \
 		--ascii \
 		--number-sections \
 		--standalone \
-		--smart \
 		--variable=date-meta:"$(DATE)" \
 		--template=./templates/index_template.html \
 		--mathjax \
@@ -118,10 +118,10 @@ $(OUTPUT).html: order.txt $(MDP_FILES) $(HTML_DEPS) meta.yaml
 ## create html
 %.html: %.mdp order.txt $(HTML_DEPS) meta.yaml
 	@pandoc \
+		-f markdown+smart \
 		-t html \
 		--ascii \
 		--standalone \
-		--smart \
 		--template=./templates/outline_template.html \
 		-o $@.tmp $< meta.yaml
 	@rm -f meta.yaml.tmp
@@ -133,10 +133,10 @@ $(OUTPUT).html: order.txt $(MDP_FILES) $(HTML_DEPS) meta.yaml
 	@if [ "$(DOREFS)" = "true" ] && grep --quiet REFERENCES $< ; \
 	then \
 		pandoc \
+			-f markdown+smart \
 			-t html \
 			--ascii \
 			--standalone \
-			--smart \
 			--variable=date-meta:"$(DATE)" \
 			--template=./templates/outline_template.html \
 			--mathjax \
@@ -146,10 +146,10 @@ $(OUTPUT).html: order.txt $(MDP_FILES) $(HTML_DEPS) meta.yaml
 			-o $@ $< $(OPS_SECTION) meta.yaml.tmp ; \
 	else \
 		pandoc \
+			-f markdown+smart \
 			-t html \
 			--ascii \
 			--standalone \
-			--smart \
 			--variable=date-meta:"$(DATE)" \
 			--template=./templates/outline_template.html \
 			--mathjax \
@@ -171,10 +171,10 @@ $(OUTPUT).tex: order.txt $(MDP_FILES) $(PDF_DEPS) meta.yaml
 	@if [ "$(DOREFS)" = "true" ] ; \
 	then \
 		pandoc \
+			-f markdown+smart \
 			-t latex \
 			--ascii \
 			--standalone \
-			--smart \
 			--template=templates/default_template.tex \
 			--filter pandoc-crossref \
 			--bibliography=bibs/mybib.bib \
@@ -182,10 +182,10 @@ $(OUTPUT).tex: order.txt $(MDP_FILES) $(PDF_DEPS) meta.yaml
 			-o $@ $(MDP_FILES_ORDERED) $(OPS_FULLPDF) meta.yaml ; \
 	else \
 		pandoc \
+			-f markdown+smart \
 			-t latex \
 			--ascii \
 			--standalone \
-			--smart \
 			--template=templates/default_template.tex \
 			--filter pandoc-crossref \
 			-o $@ $(MDP_FILES_ORDERED) $(OPS_FULLPDF) meta.yaml ; \
@@ -198,10 +198,10 @@ $(OUTPUT).tex: order.txt $(MDP_FILES) $(PDF_DEPS) meta.yaml
 	@if [ "$(DOREFS)" = "true" ] ; \
 	then \
 		pandoc \
+			-f markdown+smart \
 			-t latex \
 			--ascii \
 			--standalone \
-			--smart \
 			--template=templates/default_template.tex \
 			--filter pandoc-crossref \
 			--bibliography=bibs/mybib.bib \
@@ -209,10 +209,10 @@ $(OUTPUT).tex: order.txt $(MDP_FILES) $(PDF_DEPS) meta.yaml
 			-o $@ $< $(OPS_SECTION) meta.yaml ; \
 	else \
 		pandoc \
+			-f markdown+smart \
 			-t latex \
 			--ascii \
 			--standalone \
-			--smart \
 			--template=templates/default_template.tex \
 			--filter pandoc-crossref \
 			-o $@ $< $(OPS_SECTION) meta.yaml ; \
