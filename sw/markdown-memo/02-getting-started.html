@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Wed May 02, 2018" />
+  <meta name="date" content="Sun May 06, 2018" />
   <title>Getting started - markdown-memo example document</title>
   <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
@@ -92,27 +92,33 @@
 <li>matplotlib (for pagecount and wordcount plots)</li>
 <li>xpdf (pdfinfo command for pagecount)</li>
 </ul>
-<p>On my Mac, I used to install the missing dependencies through <a href="https://www.macports.org/">macports</a>, but beginning with OS 10.11, I started using <a href="http://brew.sh/">homebrew</a>.</p>
-<p>First, if you are on a Mac, you should install <a href="https://developer.apple.com/xcode/">Xcode</a> through the Apple app store to get <code>make</code> and basic build utilities.</p>
-<p>Some basic requirements I had to install with <em>homebrew</em> were the following, and I got <a href="https://pip.readthedocs.io/en/stable/installing/">pip</a> and used it to install somethings:</p>
+<p>First, if you are on a Mac, you should install <a href="https://developer.apple.com/xcode/">Xcode</a> through the Apple app store to get <code>make</code> and basic build utilities. Then you should install <a href="http://brew.sh/">homebrew</a> for package management<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>.</p>
+<p>Some basic requirements I had to install with homebrew were the following, and I got <a href="https://pip.readthedocs.io/en/stable/installing/">pip</a> and used it to install somethings:</p>
 <pre><code>brew install wget
 brew install xpdf
 sudo python get-pip.py 
 sudo pip install scipy
 sudo pip install matplotlib
 sudo pip install pandas</code></pre>
-<p>Then, with <em>homebrew</em>, the main packages to install are</p>
+<p>Then, with homebrew, the main packages to install are</p>
 <pre><code>brew cask install mactex
 brew install pandoc
 brew install pandoc-citeproc
 brew install pandoc-crossref</code></pre>
-<p>Instead of homebrew, some years ago, with <em>macports</em> I installed</p>
+<p>Instead of homebrew, some years ago, I was using <em><a href="https://www.macports.org/">macports</a></em>.</p>
+<div class="clickmore">
+<a id="link:macports1" class="closed" onclick="toggle_more('macports1')">Click for details on using macports</a>
+</div>
+<div id="macports1" class="more">
+<p>Using macports, I installed</p>
 <pre><code>sudo port selfupdate
 sudo port install texlive-latex texlive-latex-recommended texlive-latex-extra texlive-math-extra
 sudo port install pandoc
 sudo port install hs-cabal-install
 cabal update
 cabal install pandoc-citeproc pandoc-crossref</code></pre>
+</div>
+<p><!-- end clickmore --></p>
 <p>If something doesn&#8217;t work for you, please let me know! I&#8217;ll do my best improve the documentation and make the software more robust as time allows. Contact me at:</p>
 <p><img class="email" src="img/my-email.png" alt="my email address"/></p>
 <p>Please let me know if you have success or failure testing this on different systems.</p>
@@ -160,6 +166,12 @@ Or equations:
 </ul>
 <p>I use an image of my email to hide it from text crawlers. Please replace <code>img/my-email.png</code> with a screenshot of your email address instead of mine, or just remove the use of the image in <code>meta.yaml</code>.</p>
 <p>Customize the files in <code>templates/</code> to adjust the format of the output html and pdfs files to your needs.</p>
+<section class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>On my Mac, I used to install the missing dependencies through <a href="https://www.macports.org/">macports</a>, but beginning with OS 10.11, I started using <a href="http://brew.sh/">homebrew</a>.<a href="#fnref1" class="footnote-back">&#8617;</a></p></li>
+</ol>
+</section>
 
 </div> <!-- end pagecontainer -->
 </div> <!-- end mainbody -->
@@ -182,7 +194,7 @@ Or equations:
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email.png" alt="my email address"/></p>
-    <p>Wed May 02, 2018</p>
+    <p>Sun May 06, 2018</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2018 <a href="http://rreece.github.io/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
