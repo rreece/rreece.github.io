@@ -139,6 +139,20 @@ being a more much longer thread throughout the history of philosophy and science
 ![A version of the "distracted boyfriend meme" maligning  *a priori* metaphysics.](img/distracted-boyfriend-meme-intuitions-data.png){#fig:distracted-boyfriend-meme-intuitions-data}
 
 
+### Monism
+
+-   Parmenides
+-   Materialism/physicalism/functionalism
+-   Alyssa Ney
+-   Part of methodological naturalism, but also a result of empirical confirmation.
+-   See the outline on [Philosophy of mind](mind.html).
+
+
+### Rejection of the supernatural
+
+Part of methodological naturalism.
+
+
 ### Natural kinds
 
 Part of metaphysical naturalism.
@@ -154,20 +168,6 @@ Part of metaphysical naturalism.
 See the outline on [scientific realism](scientific-realism.html).
 
 See the outline on [philosophy of mathematics](math.html#naturalism).
-
-
-### Monism
-
--   Parmenides
--   Materialism/physicalism/functionalism
--   Alyssa Ney
--   Part of methodological naturalism, but also a result of empirical confirmation.
--   See the outline on [Philosophy of mind](mind.html).
-
-
-### Rejection of the supernatural
-
-Part of methodological naturalism.
 
 
 ### Ethical naturalism
@@ -187,6 +187,8 @@ See the outline on [Ethics](ethics.html).
 -   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2) - IEP
 -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/) - SEP
 -   [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) [^Konnikova2012]
+-   Tautological: Of course science (scientia) is the domain of all knowledge.
+    (Perhaps this line can be found in the work of Pigliucci?)
 
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 
