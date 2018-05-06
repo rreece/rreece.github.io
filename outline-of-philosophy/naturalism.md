@@ -1,7 +1,7 @@
 Naturalism
 ================================================================================
 
-Naturalism is unifying view of philosophy and science.
+Naturalism is a unifying view of philosophy and science.
 It is an attitude about how philosophy should be done (a meta-philosophy)
 and about how philosophy relates to science.
 
