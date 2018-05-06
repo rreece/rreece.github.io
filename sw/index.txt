@@ -1,7 +1,7 @@
 
 [![](../img/github-rreece.png)](https://github.com/rreece)
 
-I'm am a data scientist, formerly a physicist with the [ATLAS experiment](http://atlas.cern/) at CERN.
+I am a data scientist, formerly a physicist with the [ATLAS experiment](http://atlas.cern/) at CERN.
 Read more about me and my research [here](http://rreece.github.io/).
 
 This page describes some projects I'm [developing at github](https://github.com/rreece).
