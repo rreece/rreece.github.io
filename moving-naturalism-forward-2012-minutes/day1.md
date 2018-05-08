@@ -1,7 +1,7 @@
 Moving Naturalism Forward Day 1
 ================================================================================
 
-*)*Contents:**
+**Contents:**
 
 1.  [Participants introduce themselves](#participants-introduce-themselves)
 2.  [What is reality?](#what-is-reality)
