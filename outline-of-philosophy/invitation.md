@@ -60,6 +60,9 @@ What is naturalism?
 is a unifying view of philosophy and science.
 It is an attitude about how philosophy should be done (a meta-philosophy)
 and about how philosophy relates to science.
+Naturalists see philosophy and science to have a common territory of concerns;
+philosophy is continuous with science.
+
 A very diverse set of thinkers are often characterized as naturalists or aligned
 with naturalism, at the expense of much clarity in the term, but naturalism
 generally consists of varying degrees of either or both:
@@ -85,10 +88,6 @@ generally consists of varying degrees of either or both:
     There is *one* (natural) world.
     At the least, it is a claim that
     *science should be guiding in what we claim there is*.
-
-An important view of philosophy for a naturalist is that
-science and philosophy have common concerns and territory;
-philosophy is continuous with science.
 
 At its simplest, perhaps naturalism
 can be summarized as a rejection of *a priori* speculation
