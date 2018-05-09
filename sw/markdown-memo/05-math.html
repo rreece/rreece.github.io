@@ -104,7 +104,7 @@
 <h2 id="mathjax">Mathjax</h2>
 <p>When doing md <span class="math inline">\(\rightarrow\)</span> tex <span class="math inline">\(\rightarrow\)</span> pdf, LaTeX takes care of the math, but to render the math in html, we use <a href="https://www.mathjax.org/">MathJax</a>. Our html template includes the following code to ask MathJax to render it and number the equations:</p>
 <pre><code>&lt;!--- MathJax stuff --&gt;
-&lt;script src=&#39;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&#39;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot; async src=&quot;https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;&lt;/script&gt;
 &lt;script type=&quot;text/x-mathjax-config&quot;&gt;
     MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: &quot;all&quot;} } });
 &lt;/script&gt;</code></pre>
