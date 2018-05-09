@@ -13,8 +13,9 @@ clearly it cannot pretend to represent *all* of philosophy by any stretch.
 This is a meandering of one person through his own thoughts on philosophy,
 a meandering that is primarily western and focused on empiricism,
 although not entirely.
-I want to highlight the importance of science in constructing an accurate worldview,
-and/or to explore to what degree we can expect science to accurately describe the world.
+
+I want to explore to what degree we can expect science to accurately describe the world,
+and ultimately to highlight the importance of science in constructing a worldview.
 An important set of ideas in these outlines is associated with *naturalism*,
 which will be roughly defined bellow.
 
@@ -98,7 +99,7 @@ but once science is actively producing knowledge,
 naturalism says that the way we should think about the world
 and the new questions we ask about it should be informed by science.
 
-Naturalism has its roots in the Ionian enlightenment.
+Naturalism has its roots in the Ionian Enlightenment.
 From there, it has shaped the scientific revolution.
 In many philosophical movements and counter-movements,
 elements of naturalism have evolved and been refined.
@@ -118,11 +119,13 @@ are central to many of our cultural and politcal divisions.
 
 TODO: pick-up writing here.
 
--   [Why Do Many Reasonable People Doubt Science?](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text) [^Achenbach2015]
 -   [Carl Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w) [^Rose1996]
+-   [Why Do Many Reasonable People Doubt Science?](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text) [^Achenbach2015]
+-   ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) [^Leah2018]
 
 [^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. 
 [^Rose1996]: @Rose_1996_Carl_Sagan_discusses_Demon_Haunted_World_with\.
+[^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 
 Who do I want to reach with this argument?
 
@@ -133,6 +136,10 @@ Who do I want to reach with this argument?
 -   Allies in illucidating the demarcation of what science is,
     and what sorts of claims it justifies.
 -   Can this be accessible and interesting to both academic and lay audiences?
+
+I hope that is enough of an invitation to catch your interest.
+In the next section, we will survey the history of science and
+examine what can be said of the "[scientific method](scientific-method.html)."
 
 
 <!-- REFERENCES -->

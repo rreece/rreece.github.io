@@ -40,6 +40,8 @@ Maddy defines naturalism:
 >   as opposed to 'First'. Our Character now has a name: she is the
 >   Second Philosopher.  [^Maddy-2007-2]
 
+Jacobs:
+
 >   Naturalism is an approach to philosophical problems that interprets them as
 >   tractable through the methods of the empirical sciences or at least, without
 >   a distinctively a priori project of theorizing.  [^Jacobs2002]
