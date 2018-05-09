@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Sun May 06, 2018" />
+  <meta name="date" content="Wed May 09, 2018" />
   <title>Markdown basics - markdown-memo example document</title>
   <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
@@ -23,7 +23,7 @@
 </script>
 
 <!--- MathJax stuff -->
-<script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
 </script>
@@ -69,7 +69,7 @@
 <h1 id="markdown-basics">Markdown basics</h1>
 <p>Here we review the basics of Markdown. A further reference on Markdown syntax by its creator is <a href="http://daringfireball.net/projects/markdown/syntax">here</a>.</p>
 <h3 id="contents" class="unnumbered">Contents</h3>
-<ol type="1">
+<ol style="list-style-type: decimal">
 <li><a href="03-basics.html#sec:sections">Sections</a></li>
 <li><a href="03-basics.html#sec:lists">Lists</a></li>
 <li><a href="03-basics.html#sec:blocks">Blocks</a></li>
@@ -79,15 +79,15 @@
 </ol>
 <h2 id="sec:sections">Sections</h2>
 <p>Are markded like this:</p>
-<pre><code>Section title {#sec:put-section-label-here}
+<pre><code>Section title {#sec:put-optional-section-label-here}
 ===============================================================================
 
-Sub-section title
+Sub-section title {#sec:put-optional-sub-section-label-here}
 -------------------------------------------------------------------------------</code></pre>
 <p>Or marked like this:</p>
-<pre><code># Section title {#sec:put-section-label-here}
+<pre><code># Section title {#sec:put-optional-section-label-here}
 
-## Sub-section title
+## Sub-section title {#sec:put-optional-sub-section-label-here}
 
 ### Sub-sub-section title
 
@@ -111,7 +111,7 @@ Main text here.</code></pre>
 1.  Constructive empiricists
 1.  Positivists
 1.  Relativists</code></pre>
-<ol type="1">
+<ol style="list-style-type: decimal">
 <li>Na&#239;ve realists</li>
 <li>Scientific realists</li>
 <li>Constructive empiricists</li>
@@ -171,10 +171,10 @@ print(alist)</code></pre>
 | Opportunity fleeting,
 | Experiment dangerous,
 | Judgment difficult.</code></pre>
-<div class="line-block">Art is long,<br />
-Life is short,<br />
-Opportunity fleeting,<br />
-Experiment dangerous,<br />
+<div class="preline">Art is long,
+Life is short,
+Opportunity fleeting,
+Experiment dangerous,
 Judgment difficult.</div>
 <p>Otherwise, one can put two or more spaces at the end of a line of Markdown for the linebreak to be taken literally<br />
 like<br />
@@ -213,15 +213,19 @@ this.</p>
 <p>When referring to labeled sections/figures/tables, you do not include the literal word &#8220;Section&#8221;, &#8220;Figure&#8221;, or &#8220;Table&#8221;, which will be included for you. These prefixes/words are configurable in the <code>meta.yaml</code> file.</p>
 <p>Refer to labeled things like this:</p>
 <ul>
-<li>for sections: <code>[@sec:footnotes]</code><br />
-Section&#160;1.6</li>
-<li>for figures: <code>[@fig:scientific_universe]</code></li>
-<li>for tables: <code>[@tbl:atlas_channels]</code></li>
-<li>for equations: <code>[@eq:stokes]</code></li>
+<li><strong>for sections:</strong> <code>See [@sec:footnotes] on footnotes.</code><br />
+See Section&#160;1.6 on footnotes.</li>
+<li><strong>for figures:</strong> <code>[@fig:scientific_universe] motivates the unity of science.</code><br />
+Figure&#160;<strong>&#191;fig:scientific_universe?</strong> motivates the unity of science.</li>
+<li><strong>for tables:</strong> <code>Numbers are in [@tbl:atlas_channels].</code><br />
+Numbers are in Table&#160;<strong>&#191;tbl:atlas_channels?</strong>.</li>
+<li><strong>for equations:</strong> <code>The generalized Stokes' theorem, eq.\ $\eqref{eq:stokes}$, is rad.</code><br />
+The generalized Stokes&#8217; theorem, eq.&#160;<strong>&#191;eq:stokes?</strong>, is rad.</li>
 </ul>
+<p>TODO: The above references to labels on other pages unfortunately don&#8217;t work in html, but they work in latex/pdf.</p>
 <p>You can refer to multiple lables like Section&#160;1.1-1.3 like this:</p>
 <pre><code>[@sec:sections;@sec:lists;@sec:blocks]</code></pre>
-<p>Automatic grouping into a range doesn&#8217;t seem to be working, so you can also try refer to Sections 1.1&#8211;1.3 in some versions like this:</p>
+<p>Automatic grouping into a range doesn&#8217;t seem to be working (for latex, but does for html), so you can also try refer to Sections 1.1&#8211;1.3 in some versions like this:</p>
 <pre><code>[Sections @sec:sections]--[-@sec:blocks]</code></pre>
 <h2 id="sec:footnotes">Footnotes</h2>
 <pre><code>Here&#39;s how you do a footnote[^SomeSpecialNote].
@@ -232,13 +236,13 @@ Section&#160;1.6</li>
     an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed,
     at falli feugiat est.</code></pre>
 <p>produces:</p>
-<p>Here&#8217;s how you do a footnote<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>.</p>
-<section class="footnotes">
+<p>Here&#8217;s how you do a footnote<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>.</p>
+<div class="footnotes">
 <hr />
 <ol>
-<li id="fn1"><p>Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque. Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed, at falli feugiat est.<a href="#fnref1" class="footnote-back">&#8617;</a></p></li>
+<li id="fn1"><p>Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque. Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed, at falli feugiat est.<a href="#fnref1">&#8617;</a></p></li>
 </ol>
-</section>
+</div>
 
 </div> <!-- end pagecontainer -->
 </div> <!-- end mainbody -->
@@ -261,7 +265,7 @@ Section&#160;1.6</li>
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email.png" alt="my email address"/></p>
-    <p>Sun May 06, 2018</p>
+    <p>Wed May 09, 2018</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2018 <a href="http://rreece.github.io/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>

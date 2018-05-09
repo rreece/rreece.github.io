@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Sun May 06, 2018" />
+  <meta name="date" content="Wed May 09, 2018" />
   <title>Getting started - markdown-memo example document</title>
   <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt.css"/>
@@ -23,7 +23,7 @@
 </script>
 
 <!--- MathJax stuff -->
-<script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
 </script>
@@ -68,7 +68,7 @@
 
 <h1 id="getting-started">Getting started</h1>
 <h3 id="contents" class="unnumbered">Contents</h3>
-<ol type="1">
+<ol style="list-style-type: decimal">
 <li><a href="02-getting-started.html#checking-out-the-template">Checking-out the template</a></li>
 <li><a href="02-getting-started.html#requirements">Requirements</a></li>
 <li><a href="02-getting-started.html#starting-a-page-or-section">Starting a page or section</a></li>
@@ -92,7 +92,7 @@
 <li>matplotlib (for pagecount and wordcount plots)</li>
 <li>xpdf (pdfinfo command for pagecount)</li>
 </ul>
-<p>First, if you are on a Mac, you should install <a href="https://developer.apple.com/xcode/">Xcode</a> through the Apple app store to get <code>make</code> and basic build utilities. Then you should install <a href="http://brew.sh/">homebrew</a> for package management<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a>.</p>
+<p>First, if you are on a Mac, you should install <a href="https://developer.apple.com/xcode/">Xcode</a> through the Apple app store to get <code>make</code> and basic build utilities. Then you should install <a href="http://brew.sh/">homebrew</a> for package management<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>.</p>
 <p>Some basic requirements I had to install with homebrew were the following, and I got <a href="https://pip.readthedocs.io/en/stable/installing/">pip</a> and used it to install somethings:</p>
 <pre><code>brew install wget
 brew install xpdf
@@ -166,12 +166,12 @@ Or equations:
 </ul>
 <p>I use an image of my email to hide it from text crawlers. Please replace <code>img/my-email.png</code> with a screenshot of your email address instead of mine, or just remove the use of the image in <code>meta.yaml</code>.</p>
 <p>Customize the files in <code>templates/</code> to adjust the format of the output html and pdfs files to your needs.</p>
-<section class="footnotes">
+<div class="footnotes">
 <hr />
 <ol>
-<li id="fn1"><p>On my Mac, I used to install the missing dependencies through <a href="https://www.macports.org/">macports</a>, but beginning with OS 10.11, I started using <a href="http://brew.sh/">homebrew</a>.<a href="#fnref1" class="footnote-back">&#8617;</a></p></li>
+<li id="fn1"><p>On my Mac, I used to install the missing dependencies through <a href="https://www.macports.org/">macports</a>, but beginning with OS 10.11, I started using <a href="http://brew.sh/">homebrew</a>.<a href="#fnref1">&#8617;</a></p></li>
 </ol>
-</section>
+</div>
 
 </div> <!-- end pagecontainer -->
 </div> <!-- end mainbody -->
@@ -194,7 +194,7 @@ Or equations:
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email-alt.png" alt="my email address"/></p>
-    <p>Sun May 06, 2018</p>
+    <p>Wed May 09, 2018</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2018 <a href="http://rreece.github.io/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>

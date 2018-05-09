@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Sun May 06, 2018" />
+  <meta name="date" content="Wed May 09, 2018" />
   <title>Special features - markdown-memo example document</title>
   <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
@@ -23,7 +23,7 @@
 </script>
 
 <!--- MathJax stuff -->
-<script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
 </script>
@@ -108,12 +108,14 @@ Start writing the appendix...</code></pre>
 <pre><code>google_analytics_tracking_id: &#39;UA-XXXXXXXX-X&#39;</code></pre>
 <h2 id="word-count">Word count</h2>
 <p>Note that word-count and page-count plots are generated when you call <code>make pdf</code>. You might want to keep these around in the <code>README.md</code> for your document.</p>
-<figure>
-<img src="wordcount/pages.png" alt="Page count over time." /><figcaption>Page count over time.</figcaption>
-</figure>
-<figure>
-<img src="wordcount/words.png" alt="Word count over time." /><figcaption>Word count over time.</figcaption>
-</figure>
+<div class="figure">
+<img src="wordcount/pages.png" alt="Page count over time." />
+<p class="caption">Page count over time.</p>
+</div>
+<div class="figure">
+<img src="wordcount/words.png" alt="Word count over time." />
+<p class="caption">Word count over time.</p>
+</div>
 
 </div> <!-- end pagecontainer -->
 </div> <!-- end mainbody -->
@@ -135,7 +137,7 @@ Start writing the appendix...</code></pre>
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email.png" alt="my email address"/></p>
-    <p>Sun May 06, 2018</p>
+    <p>Wed May 09, 2018</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2018 <a href="http://rreece.github.io/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>

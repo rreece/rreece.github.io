@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Sun May 06, 2018" />
+  <meta name="date" content="Wed May 09, 2018" />
   <title>Floats, Figures, and Tables - markdown-memo example document</title>
   <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt.css"/>
@@ -23,7 +23,7 @@
 </script>
 
 <!--- MathJax stuff -->
-<script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
 </script>
@@ -68,7 +68,7 @@
 
 <h1 id="floats-figures-and-tables">Floats, Figures, and Tables</h1>
 <h3 id="contents" class="unnumbered">Contents</h3>
-<ol type="1">
+<ol style="list-style-type: decimal">
 <li><a href="06-figs-tables.html#figures">Figures</a></li>
 <li><a href="06-figs-tables.html#tables">Tables</a></li>
 <li><a href="06-figs-tables.html#table-of-contents-per-html-page">Table of contents per html page</a></li>
@@ -84,9 +84,10 @@
     of science. CC BY-SA 3.0 (2013) [Wikimedia Commons](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png).
     ](img/1024px-the_scientific_universe.png){#fig:scientific_universe}</code></pre>
 <p>produces:</p>
-<figure>
-<img src="img/1024px-the_scientific_universe.png" alt="Figure 1: The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013) Wikimedia Commons." id="fig:scientific_universe" /><figcaption>Figure 1: The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013) <a href="https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png">Wikimedia Commons</a>.</figcaption>
-</figure>
+<div class="figure">
+<img src="img/1024px-the_scientific_universe.png" alt="Figure 1: The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013) Wikimedia Commons." id="fig:scientific_universe" />
+<p class="caption">Figure 1: The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013) <a href="https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png">Wikimedia Commons</a>.</p>
+</div>
 <p>Figure&#160;1 shows some cool things.</p>
 <p>Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque. Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed, at falli feugiat est.</p>
 <p>Ne nonumy quodsi petentium vix, mel ad errem accusata periculis. Porro urbanitas consetetur mei eu, his nisl officiis ei. Ei cum fugit graece, ne qui tantas qualisque voluptaria. Vis ut laoreet euripidis, vix aeque omittam at, vix no cetero volumus. Per te omnium volutpat torquatos, cu vis sumo decore. Eirmod hendrerit an pri.</p>
@@ -98,9 +99,10 @@
     of 1 to 6$\sigma$\ [@ATLAS_2012_Observation_of_a_new_particle_in_the_search]\.
     ](img/ATLAS-local-p0-vs-mH.png){#fig:ATLAS_local_p0_vs_mH}</code></pre>
 <p>produces:</p>
-<figure>
-<img src="img/ATLAS-local-p0-vs-mH.png" alt="Figure 2: The observed (solid) local p_{0} as a function of m_{H} in the low mass range. The dashed curve shows the expected local p_{0} under the hypothesis of a SM Higgs boson signal at that mass with its \pm{}1\sigma band. The horizontal dashed lines indicate the p-values corresponding to significances of 1 to 6\sigma&#160;(ATLAS Collaboration, 2012)." id="fig:ATLAS_local_p0_vs_mH" /><figcaption>Figure 2: The observed (solid) local <span class="math inline">\(p_{0}\)</span> as a function of <span class="math inline">\(m_{H}\)</span> in the low mass range. The dashed curve shows the expected local <span class="math inline">\(p_{0}\)</span> under the hypothesis of a SM Higgs boson signal at that mass with its <span class="math inline">\(\pm{}1\sigma\)</span> band. The horizontal dashed lines indicate the <span class="math inline">\(p\)</span>-values corresponding to significances of 1 to 6<span class="math inline">\(\sigma\)</span>&#160;<span class="citation" data-cites="ATLAS_2012_Observation_of_a_new_particle_in_the_search">(ATLAS Collaboration, 2012)</span>.</figcaption>
-</figure>
+<div class="figure">
+<img src="img/ATLAS-local-p0-vs-mH.png" alt="Figure 2: The observed (solid) local p_{0} as a function of m_{H} in the low mass range. The dashed curve shows the expected local p_{0} under the hypothesis of a SM Higgs boson signal at that mass with its \pm{}1\sigma band. The horizontal dashed lines indicate the p-values corresponding to significances of 1 to 6\sigma&#160;(ATLAS Collaboration, 2012)." id="fig:ATLAS_local_p0_vs_mH" />
+<p class="caption">Figure 2: The observed (solid) local <span class="math inline">\(p_{0}\)</span> as a function of <span class="math inline">\(m_{H}\)</span> in the low mass range. The dashed curve shows the expected local <span class="math inline">\(p_{0}\)</span> under the hypothesis of a SM Higgs boson signal at that mass with its <span class="math inline">\(\pm{}1\sigma\)</span> band. The horizontal dashed lines indicate the <span class="math inline">\(p\)</span>-values corresponding to significances of 1 to 6<span class="math inline">\(\sigma\)</span>&#160;<span class="citation">(ATLAS Collaboration, 2012)</span>.</p>
+</div>
 <p>You can refer to labeled figuers like this:</p>
 <pre><code>[@fig:ATLAS_local_p0_vs_mH] shows the $p_{0}$ value as a function of the reconstructed
 Higgs mass from the ATLAS experiment.</code></pre>
@@ -127,79 +129,79 @@ Higgs mass from the ATLAS experiment.</code></pre>
 <p>which produces:</p>
 <div id="tbl:atlas_channels">
 <table>
-<caption>Table 1: Approximate number of readout channels per sub-detector in ATLAS for the primary sub-detectors (ignoring the minbias trigger system, luminosity monitors, and DCS sensors) <span class="citation" data-cites="ATLAS_2008_The_ATLAS_Experiment_at_the_CERN_Large_Hadron">(ATLAS Collaboration, 2008)</span>.</caption>
+<caption>Table 1: Approximate number of readout channels per sub-detector in ATLAS for the primary sub-detectors (ignoring the minbias trigger system, luminosity monitors, and DCS sensors) <span class="citation">(ATLAS Collaboration, 2008)</span>.</caption>
 <thead>
 <tr class="header">
-<th style="text-align: left;">System</th>
-<th style="text-align: left;">Subsystem</th>
-<th style="text-align: right;">Approx. channels</th>
+<th align="left">System</th>
+<th align="left">Subsystem</th>
+<th align="right">Approx. channels</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Inner detector</td>
-<td style="text-align: left;">Pixels</td>
-<td style="text-align: right;">80 M</td>
+<td align="left">Inner detector</td>
+<td align="left">Pixels</td>
+<td align="right">80 M</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"></td>
-<td style="text-align: left;">SCT</td>
-<td style="text-align: right;">6.3 M</td>
+<td align="left"></td>
+<td align="left">SCT</td>
+<td align="right">6.3 M</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: left;">TRT</td>
-<td style="text-align: right;">350 k</td>
+<td align="left"></td>
+<td align="left">TRT</td>
+<td align="right">350 k</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">EM Calorimeter</td>
-<td style="text-align: left;">LAr barrel</td>
-<td style="text-align: right;">110 k</td>
+<td align="left">EM Calorimeter</td>
+<td align="left">LAr barrel</td>
+<td align="right">110 k</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: left;">LAr end-cap</td>
-<td style="text-align: right;">64 k</td>
+<td align="left"></td>
+<td align="left">LAr end-cap</td>
+<td align="right">64 k</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Hadronic Calorimeter</td>
-<td style="text-align: left;">Tile barrel</td>
-<td style="text-align: right;">9.8 k</td>
+<td align="left">Hadronic Calorimeter</td>
+<td align="left">Tile barrel</td>
+<td align="right">9.8 k</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: left;">LAr end-cap</td>
-<td style="text-align: right;">5.6 k</td>
+<td align="left"></td>
+<td align="left">LAr end-cap</td>
+<td align="right">5.6 k</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"></td>
-<td style="text-align: left;">LAr forward</td>
-<td style="text-align: right;">3.5 k</td>
+<td align="left"></td>
+<td align="left">LAr forward</td>
+<td align="right">3.5 k</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Muon spectrometer</td>
-<td style="text-align: left;">MDTs</td>
-<td style="text-align: right;">350 k</td>
+<td align="left">Muon spectrometer</td>
+<td align="left">MDTs</td>
+<td align="right">350 k</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"></td>
-<td style="text-align: left;">CSCs</td>
-<td style="text-align: right;">31 k</td>
+<td align="left"></td>
+<td align="left">CSCs</td>
+<td align="right">31 k</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: left;">RPCs</td>
-<td style="text-align: right;">370 k</td>
+<td align="left"></td>
+<td align="left">RPCs</td>
+<td align="right">370 k</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"></td>
-<td style="text-align: left;">TGCs</td>
-<td style="text-align: right;">320 k</td>
+<td align="left"></td>
+<td align="left">TGCs</td>
+<td align="right">320 k</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Total</td>
-<td style="text-align: left;"></td>
-<td style="text-align: right;">88 M</td>
+<td align="left">Total</td>
+<td align="left"></td>
+<td align="right">88 M</td>
 </tr>
 </tbody>
 </table>
@@ -249,76 +251,76 @@ at falli feugiat est.
 |    8 |      9 |       4 |         8 |
 |   11 |      9 |       3 |         9 |</code></pre>
 <p>makes Table&#160;2 and Figure&#160;3.</p>
-<figure>
-<img src="img/plot_table.png" alt="Figure 3: A plot of Table&#160;2." id="fig:plot_table" /><figcaption>Figure 3: A plot of Table&#160;2.</figcaption>
-</figure>
+<div class="figure">
+<img src="img/plot_table.png" alt="Figure 3: A plot of Table&#160;2." id="fig:plot_table" />
+<p class="caption">Figure 3: A plot of Table&#160;2.</p>
+</div>
 <div id="tbl:plot_table">
 <table>
 <caption>Table 2: My caption</caption>
 <thead>
 <tr class="header">
-<th style="text-align: right;">X</th>
-<th style="text-align: right;">Apple</th>
-<th style="text-align: right;">Banana</th>
-<th style="text-align: right;">Pistachio</th>
+<th align="right">X</th>
+<th align="right">Apple</th>
+<th align="right">Banana</th>
+<th align="right">Pistachio</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: right;">1</td>
-<td style="text-align: right;">2</td>
-<td style="text-align: right;">2</td>
-<td style="text-align: right;">3</td>
+<td align="right">1</td>
+<td align="right">2</td>
+<td align="right">2</td>
+<td align="right">3</td>
 </tr>
 <tr class="even">
-<td style="text-align: right;">2</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: right;">1</td>
-<td style="text-align: right;">5</td>
+<td align="right">2</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td align="right">5</td>
 </tr>
 <tr class="odd">
-<td style="text-align: right;">3</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: right;">0</td>
-<td style="text-align: right;">5</td>
+<td align="right">3</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">5</td>
 </tr>
 <tr class="even">
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">1</td>
-<td style="text-align: right;">7</td>
+<td align="right">4</td>
+<td align="right">4</td>
+<td align="right">1</td>
+<td align="right">7</td>
 </tr>
 <tr class="odd">
-<td style="text-align: right;">5</td>
-<td style="text-align: right;">7</td>
-<td style="text-align: right;">2</td>
-<td style="text-align: right;">8</td>
+<td align="right">5</td>
+<td align="right">7</td>
+<td align="right">2</td>
+<td align="right">8</td>
 </tr>
 <tr class="even">
-<td style="text-align: right;">6</td>
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: right;">9</td>
+<td align="right">6</td>
+<td align="right">8</td>
+<td align="right">3</td>
+<td align="right">9</td>
 </tr>
 <tr class="odd">
-<td style="text-align: right;">8</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">4</td>
-<td style="text-align: right;">8</td>
+<td align="right">8</td>
+<td align="right">9</td>
+<td align="right">4</td>
+<td align="right">8</td>
 </tr>
 <tr class="even">
-<td style="text-align: right;">11</td>
-<td style="text-align: right;">9</td>
-<td style="text-align: right;">3</td>
-<td style="text-align: right;">9</td>
+<td align="right">11</td>
+<td align="right">9</td>
+<td align="right">3</td>
+<td align="right">9</td>
 </tr>
 </tbody>
 </table>
 </div>
 <!-- REFERENCES -->
 <h2 id="references" class="unnumbered">References</h2>
-
-
+<p>   </p>
 <div id="refs" class="references">
 <div id="ref-ATLAS_2008_The_ATLAS_Experiment_at_the_CERN_Large_Hadron">
 <p>ATLAS Collaboration. (2008). The ATLAS Experiment at the CERN Large Hadron Collider. <em>Journal of Instrumentation</em>, <em>3</em>, 08003. <a href="https://cds.cern.ch/record/1129811" class="uri">https://cds.cern.ch/record/1129811</a></p>
@@ -349,7 +351,7 @@ at falli feugiat est.
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email-alt.png" alt="my email address"/></p>
-    <p>Sun May 06, 2018</p>
+    <p>Wed May 09, 2018</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2018 <a href="http://rreece.github.io/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
