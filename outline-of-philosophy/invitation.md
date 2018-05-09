@@ -101,7 +101,7 @@ naturalism says that the way we should think about the world
 and the new questions we ask about it should be informed by science.
 
 Naturalism has its roots in the [Ionian Enlightenment](http://www.naturalism.org/worldview-naturalism/history-of-naturalism).
-From there, it has shaped the scientific revolution.
+From there, it has lasted to shape the scientific revolution.
 In many philosophical movements and counter-movements,
 elements of naturalism have evolved and been refined.
 Heroes for naturalism include Thales, Democritus, 
