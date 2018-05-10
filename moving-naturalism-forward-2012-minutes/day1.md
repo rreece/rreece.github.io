@@ -280,8 +280,8 @@ particle physics.
 >   unphilosophical, unsophisticated way and I don't see any reason for barring
 >   its use in the sciences also.
 
-Steven took a philosophy course from Max Black at Cornell, who 
-whenever asked if something is real, said the answer is "yes".
+I took a philosophy course from Max Black at Cornell,
+whom whenever asked if something is real, said the answer is "yes".
 
 Temperature is real; protons are real; the constitution is real; this newspaper is real;
 but real in different ways.
@@ -319,7 +319,7 @@ is real because it exists in the brains of people.
 
 **Alex**
 
-To first approximation.
+>   To first approximation.
 
 **Sean**
 
@@ -330,6 +330,22 @@ What about the Schrodinger equation?
 I agree, and several others have pointed out, the ontology of mathematical relations is perplexing.
 
 >   The biggest problem for me philosophically is--what is the metaphysics and epistemology of mathematical truths?
+
+**Terrence**
+
+>   To what extent is this not a Cartesian view, in which you have just given up half the world? ...
+>   There's the teleological stuff, and it's all just illusion.
+
+**(Ryan)**
+
+Not sure, but what I think what Terrence is getting at is that
+Alex's skepticism about higher ontology and the manifest image
+can be seen as being analogous to Descartes' radical skepticism about information from his empirical senses.
+I'm assuming he's implying that a more thorough reflection (in the scientific realist sense)
+would recognize realism at higher levels, and perhaps some of it would
+seem to be teleological?
+
+**Alex**
 
 Some, like Dan, will say that teleology is a garden variety causal process
 that involves blind variation and natural selection operating at many different levels
@@ -587,6 +603,7 @@ TODO.
 -   How eliminative?
 -   Design vs designoid.
 -   What is the metaphysics of abstract objects?
+-   Some tangents on design and designoid
 
 
 --------------------------------------------------------------------------------
