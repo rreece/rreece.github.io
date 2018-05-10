@@ -14,7 +14,11 @@ $endif$
 $if(page_title)$
   <title>$page_title$ - $doc_title$</title>
 $else$
+$if(titleshort)$
+  <title>$titleshort$</title>
+$else$
   <title>$title$</title>
+$endif$
 $endif$
 $if(description)$
   <meta name="description" content="$description$" />
