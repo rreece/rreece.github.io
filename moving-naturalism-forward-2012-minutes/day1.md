@@ -1,4 +1,4 @@
-Moving Naturalism Forward Day 1
+Day 1
 ================================================================================
 
 **Contents:**
@@ -258,7 +258,7 @@ entails, but he shouldn't be skeptical about it, as we verify that physics
 is causally closed every time we look for new experimental effects beyond it.
 
 Perhaps it's worth defining a concept of *entailment* to denote the claim
-that a discription of reality in terms of fundamental physics fixes the
+that a description of reality in terms of fundamental physics fixes the
 higher-level claims of the special sciences.
 Is there a difference between "*A* reduces to *B*" and "*B* entails *A*"?
 
