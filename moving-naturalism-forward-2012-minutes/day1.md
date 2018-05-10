@@ -204,11 +204,13 @@ Naturalism can trust two (three) features of physics to not change (despite poss
 1.  *Resolute denial of teleology*: no backward causation from the future
     pulling events in some trajectory, or any eminent causation that involves some
     kind of representation of what the future must be like.
-    The denial of purpose and goals in physics.
+    The denial of purpose and goals in physics:
+    no sucessor theory to the succession of theories since Newton
+    is likely to include any scope for teleological causal processes.
 2.  *Second law of thermodynamics*: generates the time-asymmetries in physics.
     Further, all the asymmetries in physics are a result of the time-asymmetries.
     (**Ryan**: really? maybe.)
-3.  *Reductionism*: denial of downward causation.  Physics is causally closed.
+3.  *Reductionism*: is a metaphysical thesis that denies downward causation; physics is causally closed.
     The explanatory power of the special sciences are an epistemic thesis and not
     a metaphysical one, and represent cognitive limitations of humans, and 
     no fundamental facts about the organization of reality.
@@ -258,6 +260,7 @@ is causally closed every time we look for new experimental effects beyond it.
 Perhaps it's worth defining a concept of *entailment* to denote the claim
 that a discription of reality in terms of fundamental physics fixes the
 higher-level claims of the special sciences.
+Is there a difference between "*A* reduces to *B*" and "*B* entails *A*"?
 
 **Steven**
 
@@ -277,7 +280,7 @@ particle physics.
 >   unphilosophical, unsophisticated way and I don't see any reason for barring
 >   its use in the sciences also.
 
-Weinberg took a philosophy course from Max Black at Cornell, who 
+Steven took a philosophy course from Max Black at Cornell, who 
 whenever asked if something is real, said the answer is "yes".
 
 Temperature is real; protons are real; the constitution is real; this newspaper is real;
@@ -286,8 +289,11 @@ but real in different ways.
 **Dan**
 
 I agree with you (Steven).  We should remember that there is another camp of
-philosophy that would say that the manifest image is what is real and causal,
+philosophers (and scientists) that say that the manifest image is what is real and causal (has hegemony),
 and the posits of physics are instrumentalist fantasies.
+
+>   Quantum particles: the dreams that stuff is made of -- David Moser
+
 Now, we as naturalist are committed to the ontology of the physical sciences,
 but we shouldn't go to the other extreme and deny the reality of the manifest image.
 
@@ -575,7 +581,7 @@ TODO: give the last word.
 TODO.
 
 
-### Ryan's Summary
+### Ryan's summary
 
 -   No teleology.
 -   How eliminative?
