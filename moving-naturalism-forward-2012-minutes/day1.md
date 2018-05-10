@@ -342,8 +342,8 @@ Not sure, but what I think what Terrence is getting at is that
 Alex's skepticism about higher ontology and the manifest image
 can be seen as being analogous to Descartes' radical skepticism about information from his empirical senses.
 I'm assuming he's implying that a more thorough reflection (in the scientific realist sense)
-would recognize realism at higher levels, and perhaps some of it would
-seem to be teleological?
+would recognize realism at higher levels?
+Perhaps he's arguing that some of it may even be teleological??
 
 **Alex**
 
