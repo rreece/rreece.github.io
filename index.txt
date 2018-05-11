@@ -33,9 +33,11 @@ Research Interests
 Many theories of physics beyond the Standard Model have revolutionary
 implications for the concepts of symmetry and space-time, and
 for our understanding of the early universe.
+
 Searching for new physics in collider data involves detecting rare events among many,
 requiring big data reductions, data-driven background modeling,
 and severe statistical hypothesis testing.
+
 My research has primarily focused on supporting and optimizing the reconstruction
 of hadronic tau decays, and searching for exotic new physics in ditau and diphoton events,
 including for signs of grand unified theories and supersymmetry.
@@ -57,6 +59,7 @@ reconstruction and other classification problems.
 
 ### Current projects I am focused on
 
+-   Deep learning performance with GPUs
 -   Hyperparameter optimization
 -   Understanding the best ML techniques for clustering and anomaly detection
 
