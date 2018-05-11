@@ -114,7 +114,7 @@ Why should I care?
 We live in a time where science has clear leverage on shaping our future.
 Science enables the technologies that drive our economies.
 Within science, we hold opportunities to create new ways of living,
-to cure diseases, to re-engineer ourselves and the world...
+to cure diseases, to re-engineer the world and ourselves...
 
 At the same time, basic disagreements about the nature of science and
 its implications for a worldview
@@ -123,7 +123,7 @@ are central to many of our cultural and politcal divisions.
 TODO: pick-up writing here.
 
 -   [Carl Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w) [^Rose1996]
--   [Why Do Many Reasonable People Doubt Science?](http://ngm.nationalgeographic.com/2015/03/science-doubters/achenbach-text) [^Achenbach2015]
+-   [Why Do Many Reasonable People Doubt Science?](https://www.nationalgeographic.com/magazine/2015/03/science-doubters-climate-change-vaccinations-gmos/) [^Achenbach2015]
 -   ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) [^Leah2018]
 
 [^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. 
