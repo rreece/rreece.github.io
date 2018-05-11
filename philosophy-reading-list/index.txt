@@ -105,13 +105,13 @@ I should probably sort these into categories better, but for now just dumping th
 Works that changed me
 --------------------------------------------------------------------------------
 
-1.  Tolkien, J.R.R. (1937). *The Hobbit*. George Allen & Unwin.
-1.  Thorne, K.S. (1995). *Black Holes & Time Warps*. Norton.
-1.  Scruton, R. (1996). *Modern Philosophy*. Penguin.
-1.  Irving, J. (1989). *A Prayer for Own Meany*. William Morrow.
+1.  Tolkien, J.R.R. (1937). *The Hobbit*.
+1.  Thorne, K.S. (1995). *Black Holes & Time Warps*.
+1.  Scruton, R. (1996). *Modern Philosophy*.
+1.  Irving, J. (1989). *A Prayer for Own Meany*.
 1.  Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
 1.  Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
-1.  Feynman, R.P. (1963). *The Feynman Lectures on Physics*. California Institute of Technology. http://www.feynmanlectures.caltech.edu
+1.  Feynman, R.P. (1963). *The Feynman Lectures on Physics*. California Institute of Technology. <http://www.feynmanlectures.caltech.edu>
 1.  Griffths, D. (1981). *Introduction to Electrodynamics*. Prentice Hall.
 1.  Foer, J.S. (2005). *Extremely Loud & Incredibly Close*. Houghton Mifflin.
 1.  Needham, T. (1999). *Visual Complex Analysis*. Clarendon Press.
