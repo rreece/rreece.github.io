@@ -100,7 +100,7 @@ naturalism says that the way we should think about the world
 and the new questions we ask about it should be informed by science.
 
 Naturalism has its roots in the [Ionian Enlightenment](http://www.naturalism.org/worldview-naturalism/history-of-naturalism).
-From there, it has lasted to shape the scientific revolution.
+From there, it has lasted in various forms to bloom through the scientific revolution.
 In many philosophical movements and counter-movements,
 elements of naturalism have evolved and been refined.
 Heroes for naturalism include Thales, Democritus, 
@@ -111,9 +111,12 @@ and many others.
 Why should I care?
 --------------------------------------------------------------------------------
 
-We live in a time where science has clear leverage on shaping our future,
-while at the same time,
-basic disagreements about the nature of science and
+We live in a time where science has clear leverage on shaping our future.
+Science enables the technologies that drive our economies.
+Within science, we hold opportunities to create new ways of living,
+to cure diseases, to re-engineer ourselves and the world...
+
+At the same time, basic disagreements about the nature of science and
 its implications for a worldview
 are central to many of our cultural and politcal divisions.
 
