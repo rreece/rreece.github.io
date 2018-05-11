@@ -298,6 +298,7 @@ Links and encyclopedia articles
 -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
 -   [Central limit theorem](http://en.wikipedia.org/wiki/Central_limit_theorem)
 -   [Continuum hypothesis](http://en.wikipedia.org/wiki/Continuum_hypothesis)
+-   [Deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning)
 -   [Diagonal lemma](http://en.wikipedia.org/wiki/Diagonal_lemma)
 -   [Ethnomathematics](http://en.wikipedia.org/wiki/Ethnomathematics)
 -   [Euler, Leonhard (1707-1783)](https://en.wikipedia.org/wiki/Leonhard_Euler)

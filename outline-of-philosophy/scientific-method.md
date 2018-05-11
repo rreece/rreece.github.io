@@ -641,6 +641,7 @@ Links and encyclopedia articles
 -   [Superseded scientific theories](http://en.wikipedia.org/wiki/Superseded_scientific_theories)
 -   [Systematic error](http://en.wikipedia.org/wiki/Systematic_error)
 -   [Timeline of the history of the scientific method](http://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)
+-   [Timeline of scientific thought](https://en.wikipedia.org/wiki/Timeline_of_scientific_thought)
 -   [Type-I and type-II errors](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
 -   [Unsolved problems in statistics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_statistics)
