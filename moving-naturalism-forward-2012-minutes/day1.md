@@ -359,6 +359,7 @@ in nature, it's all just an overlay.
 
 I have to agree with you (Alex) because so much of the progress in the history
 of science has been in removing teleology from explanation,
+for example,
 in Aristotle's physics and in the biology before Darwin.
 
 **Dan**
