@@ -215,6 +215,8 @@ Naturalism can trust two (three) features of physics to not change (despite poss
     a metaphysical one, and represent cognitive limitations of humans, and 
     no fundamental facts about the organization of reality.
 
+![](img/vaucansons-digesting-duck.jpg)
+
 **(Ryan)**
 
 I think Alex goes too far with his last points about reductionism.
@@ -365,18 +367,24 @@ in Aristotle's physics and in the biology before Darwin.
 **Dan**
 
 As communicators of science, we have a political obligation to not be misunderstood.
-Richard seems to agree with you (Alex) and coined the term *designoid*,
-meaning apparently designed, however, I think this is a mistake.
+Richard agrees with you (Alex) that there isn't any biological design in nature
+and coined the term *designoid*, meaning apparently designed, however,
+I think this is a mistake.
+
+Two Harvard medical students in a bar were discussing the marvels inside a single cell.
+One of them says to the other, "How can evolution possibly be true?"
 
 There's an idea out there that evolutionary biologists should downplay the
 marvelousness of nature.  "There's no design in nature; examples of brilliant biological
 design are an embarrassment to science."  But what evolution accomplishes is often
-stupendously clever.  Evolution should be properly called a design process
-and can be contrasted with pseudo-design, being cases where there appears to be
+stupendously clever.  Evolution *should* be properly called a *design process*
+and can be contrasted with *pseudo design*, being cases where there appears to be
 design with function but its actually noise, such as Sidney Harris' comic
 with a blackboard filled with fake physics scribbled on it that is really meaningless.
 
 Biological design is typically better than what engineers can achieve.
+
+![](img/sharris-6.png)
 
 (Ryan): Designs and designoids are both solutions.
 
