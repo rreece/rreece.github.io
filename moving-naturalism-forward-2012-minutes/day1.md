@@ -329,7 +329,7 @@ What about the Schrodinger equation?
 
 I agree, and several others have pointed out, the ontology of mathematical relations is perplexing.
 
->   The biggest problem for me philosophically is--what is the metaphysics and epistemology of mathematical truths?
+>   The biggest problem for me philosophically is: what is the metaphysics and epistemology of mathematical truths?
 
 **Terrence**
 

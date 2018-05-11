@@ -177,6 +177,7 @@ Links and encyclopedia articles
 -   [Behaviorism](http://en.wikipedia.org/wiki/Behaviorism)
 -   [Cartesian theater](http://en.wikipedia.org/wiki/Cartesian_theater)
 -   [Charles Whitman](https://en.wikipedia.org/wiki/Charles_Whitman)
+-   [Checker shadow illusion](https://en.wikipedia.org/wiki/Checker_shadow_illusion)
 -   [Consciousness](http://en.wikipedia.org/wiki/Consciousness)
 -   [Eliminative materialism](https://en.wikipedia.org/wiki/Eliminative_materialism)
 -   [Extended Mind](http://en.wikipedia.org/wiki/The_Extended_Mind)
@@ -202,7 +203,8 @@ Links and encyclopedia articles
 
 ## Videos
 
--   [Dennett, Daniel. (2017). From Bacteria to Bach and Back: The Evolution of Minds](https://www.youtube.com/watch?v=IZefk4gzQt4)
+-   [Dennett, Daniel. (2017). From Bacteria to Bach and Back: The Evolution of Minds.](https://www.youtube.com/watch?v=IZefk4gzQt4)
+-   [Seth, Anil. (2017). The Neuroscience of Consciousness.](https://www.youtube.com/watch?v=xRel1JKOEbI)
 
 
 <!-- REFERENCES -->

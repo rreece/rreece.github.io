@@ -9,9 +9,9 @@ When I take the time, I enjoy reading and discussing philosophy.
 I'm happy to collaborate with others, to learn with and be encouraged by them.
 Bellow is a list of works I'd like to either read for the first time (most of them)
 or understand better.  Suggestions or initiatives to start a reading group
-for any of the following---are very welcome.
+for any of the following are very welcome.
 
--   email: <img class="email" src="img/my-email.png" alt="my email address"/>
+email: <img class="email" src="img/my-email.png" alt="my email address"/>
 
 Or, maybe try interacting with me on one of the following:
 
@@ -32,17 +32,9 @@ Key:
 -   &#10004; -- have analyzed
 
 
-### The Scientific Method / Epistemology
+### Philosophy of science
 
 -   &#10095;  Hume, D. (1748). *An Enquiry Concerning Human Understanding*.
--   Sellars, W. (1963). *Empircism and Philosophy of Mind*.
--   Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*.
-
-
-### Scientific Realism / Metaphysics
-
-I should probably sort these into categories better, but for now just dumping the big list here:
-
 -   &#10095; Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
 -   &#10095; Moore, G.E. (1925). A Defense of Common Sense.
 -   Carnap, R. (1928). *The Logical Structure of the World and Pseudoproblems in Philosophy*.
@@ -57,6 +49,7 @@ I should probably sort these into categories better, but for now just dumping th
 -   Popper, K. (1959). *The Logic of Scientific Discovery*.
 -   Kuhn, T. (1962). *The Structure of Scientific Revolutions*.
 -   Maxwell, G. (1962). The Ontological Status of Theoretical Entities.
+-   Sellars, W. (1963). *Empircism and Philosophy of Mind*.
 -   Sellars, W. (1963). *Science, Perception, and Reality*.
 -   Quine, W.V.O. (1969). Natural Kinds.
 -   Feyerabend, P. (1974). *Against Method*.
@@ -90,6 +83,7 @@ I should probably sort these into categories better, but for now just dumping th
 -   Bain, J. (2009).  Towards Structural Realism.
 -   &#9654; Ladyman, J. & Ross, D. (2009).  *Every Thing Must Go: Metaphysics Naturalized*.
 -   Psillos, S. (2009). On Reichenbach's argument for scientific realism.
+-   Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*.
 -   Psillos, S. (2010).  Scientific Realism: Between Platonism and Nominalism.
 -   &#10095; Frigg, R. & Votsis, I. (2011).  Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
 -   French, S. & Ladyman, J. (2011).  In Defense of Ontic Structural Realism.
@@ -109,29 +103,30 @@ Works that changed me
 1.  Thorne, K.S. (1995). *Black Holes & Time Warps*.
 1.  Scruton, R. (1996). *Modern Philosophy*.
 1.  Irving, J. (1989). *A Prayer for Own Meany*.
-1.  Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
-1.  Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
-1.  Feynman, R.P. (1963). *The Feynman Lectures on Physics*. California Institute of Technology. <http://www.feynmanlectures.caltech.edu>
-1.  Griffths, D. (1981). *Introduction to Electrodynamics*. Prentice Hall.
-1.  Foer, J.S. (2005). *Extremely Loud & Incredibly Close*. Houghton Mifflin.
-1.  Needham, T. (1999). *Visual Complex Analysis*. Clarendon Press.
-1.  Martin, R.C. (2008). *Clean Code*. Prentice Hall.
-1.  Russell, B. (2009). *Human Knowledge: Its Scope and Limits*. Routledge.
-1.  Halzen, F. & Martin, A.D. (1984). *Quarks and Leptons*. John Wiley & Sons.
-1.  Braids, S. (2010). *The Intelligent Guide to Texas Hold'em Poker*. Intelligent Games Publishing.
-1.  Harris, S. (2004). *The End of Faith: Religion, Terror, and the Future of Reason*. Norton.
-1.  Hitchens, C. (2007). *God Is Not Great: How Religion Poisons Everything*. Hachette.
-1.  Cowan, G. (1998). *Statistical Data Analysis*. Clarendon Press.
-1.  McCarthy, C. (2006). *The Road*. Knopf.
-1.  Zinn, H. (1980). *A People's History of the United States*. Harper & Row.
-1.  Baggott, J. (2005). *A Beginner's Guide to Reality*. Penguin.
-1.  Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus* (C. K. Ogden, Trans.). London: Kegan Paul, Trench, Trubner & Co.
-1.  Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalised*. Oxford University Press.
-1.  Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*. Harvard University Press.
-1.  Paglia, C. (1990). *Sexual Personae*. Yale University Press.
-1.  de Sade, D.A.F. (2002). *Philosophy in the Bedroom* (R. Seaver & A. Wainhouse, Trans.). http://www.sin.org/tales/Marquis_de_Sade--Philosophy_in_the_Bedroom.pdf [(Originally published in 1795 as *La Philosophie dans le Boudoir*)]
-1.  Pigliucci, M. (2017). *How to be a Stoic*. Basic Books.
-1.  Seneca. (1997). *On the Shortness of Life* (C.D.N. Costa, Trans.). Penguin Books. [(Originally written in 49 CE and titled *De Brevitate Vitae*)]
+1.  Descartes, R. (1641). *Meditations on First Philosophy*.
+1.  Hume, D. (1748). *An Enquiry Concerning Human Understanding*.
+1.  Feynman, R.P. (1963). *The Feynman Lectures on Physics*.
+1.  Griffths, D. (1981). *Introduction to Electrodynamics*.
+1.  Foer, J.S. (2005). *Extremely Loud & Incredibly Close*.
+1.  Needham, T. (1999). *Visual Complex Analysis*.
+1.  Martin, R.C. (2008). *Clean Code*.
+1.  Russell, B. (1912). *The Problems of Philosophy*.
+1.  Halzen, F. & Martin, A.D. (1984). *Quarks and Leptons*.
+1.  Braids, S. (2010). *The Intelligent Guide to Texas Hold'em Poker*.
+1.  Harris, S. (2004). *The End of Faith: Religion, Terror, and the Future of Reason*.
+1.  Hitchens, C. (2007). *God Is Not Great: How Religion Poisons Everything*.
+1.  Cowan, G. (1998). *Statistical Data Analysis*.
+1.  McCarthy, C. (2006). *The Road*.
+1.  Zinn, H. (1980). *A People's History of the United States*.
+1.  Baggott, J. (2005). *A Beginner's Guide to Reality*.
+1.  Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus*.
+1.  Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalised*.
+1.  Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*.
+1.  Paglia, C. (1990). *Sexual Personae*.
+1.  de Sade, D.A.F. (1795). *Philosophy in the Bedroom*.
+1.  Pigliucci, M. (2017). *How to be a Stoic*.
+1.  Seneca. (49). *On the Shortness of Life*.
+1.  Maddy, P. (2007). Second Philosophy.
 
 
 --------------------------------------------------------------------------------
