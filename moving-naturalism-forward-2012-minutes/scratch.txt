@@ -4,3 +4,4 @@
     i \hbar \: \frac{\partial}{\partial t} | \psi \rangle = \hat{H} | \psi \rangle
 \end{equation}
 
+<img src="img/move-naturalism-2012-positions.png" alt="Move Naturalism Forward 2012 positions" title="draft" width="700"/>
