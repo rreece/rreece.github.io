@@ -313,6 +313,8 @@ the same as another, then you get all the same emergent phenomena as well.
 However, you won't have the same historical facts, following the points from
 the thought experiment called "swamp man".
 
+![](img/swampman-mandik.jpg)
+
 **Steven**
 
 I suppose you would say The Constitution of the United States,
