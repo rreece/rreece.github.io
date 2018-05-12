@@ -196,6 +196,8 @@ What is reality?
 
 > There's nothing but fermions and bosons.
 
+![](img/carroll-standard-model-action.jpg)
+
 Physics has not yet bottomed out, but we don't have to know the fundamental ontology
 (string theory or otherwise).  Perhaps it won't ever bottom out.
 Naturalism doesn't require us to take sides on matters at the frontiers of physics.
