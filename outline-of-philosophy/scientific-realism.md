@@ -207,15 +207,6 @@ Note any differences between:
 -   logical positivism
 -   logical empiricism
 
-The "death" of positivism:
-
--   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
-    -   Ordinary language philosophy
-    -   An imprtant project is to understand the differences between early (*TLP*)
-        and late (*PI*) Wittgenstein. It is quite the about-face.
--   Kuhn
--   anti-positivism, post-structuralism, postmodernism (continental)
-
 Positivism is a philosophy of science and epistemology that roughly defends a
 qualified empiricism, that the scientific method is the only route to knowledge,
 and that all statements that cannot be empirically verified are meaningless.
@@ -261,6 +252,19 @@ Google gives -- Logical positivism: a form of positivism, developed by members o
 -   *falsifiability* over *verifiability*
 -   Willard Van Orman Quine (1908-2000)
 -   Duhem-Quine thesis
+
+The "death" of positivism:
+
+-   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
+    -   Ordinary language philosophy
+    -   An imprtant project is to understand the differences between early (*TLP*)
+        and late (*PI*) Wittgenstein. It is quite the about-face.
+-   Kuhn
+-   anti-positivism, post-structuralism, postmodernism (continental)
+
+Wittgenstein in *PI*:
+
+>   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
 
 
 ### Pragmatism
