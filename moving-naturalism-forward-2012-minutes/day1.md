@@ -130,7 +130,7 @@ Participants introduce themselves
 11. **Massimo Pigliucci** - Started as an evolutionary biologist,
     studying gene-environment interactions,
     nature/nurture.  Midlife crisis lead him to move to NYC and get a second Ph.D. in philosophy.
-    Became a philsophy professor at CUNY.
+    Became a philosophy professor at CUNY.
     Science and philosophy do different things, but are both part of *scientia*.
     Interested in the demarcation problem.
     Thinks that philosophy does make progress.
