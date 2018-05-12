@@ -196,7 +196,11 @@ What is reality?
 
 > There's nothing but fermions and bosons.
 
-![](img/carroll-standard-model-action.jpg)
+![The total action of the physics of the standard model 
+    together with general relativity as presented by [Sean Carroll on his blog](http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/).
+    In this all encompassing equation, fermions are the quanta of the $\psi$ fields and
+    bosons are the quanta of the $g$, $A$, and $\phi$ fields.
+    ](img/carroll-standard-model-action.jpg){#fig:carroll-standard-model-action}
 
 Physics has not yet bottomed out, but we don't have to know the fundamental ontology
 (string theory or otherwise).  Perhaps it won't ever bottom out.
@@ -217,7 +221,9 @@ Naturalism can trust two (three) features of physics to not change (despite poss
     a metaphysical one, and represent cognitive limitations of humans, and 
     no fundamental facts about the organization of reality.
 
-![](img/vaucansons-digesting-duck.jpg)
+![A postulated interior of the [Duck of Vaucanson](https://en.wikipedia.org/wiki/Digesting_Duck) (1738-1739),
+    an image of an automata that symbolizes a view of reductionism.
+    ](img/vaucansons-digesting-duck.jpg){#fig:vaucansons-digesting-duck}
 
 **(Ryan)**
 
@@ -329,7 +335,12 @@ is real because it exists in the brains of people.
 
 **Sean**
 
-What about the Schrodinger equation?
+What about the Schr&ouml;dinger equation?
+
+\begin{equation}
+    \label{eq:schrodinger_equation}
+    i \hbar \: \frac{\partial}{\partial t} | \psi \rangle = \hat{H} | \psi \rangle
+\end{equation}
 
 **Alex**
 

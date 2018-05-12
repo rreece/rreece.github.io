@@ -1,0 +1,6 @@
+
+\begin{equation}
+    \label{eq:schrodinger_equation}
+    i \hbar \: \frac{\partial}{\partial t} | \psi \rangle = \hat{H} | \psi \rangle
+\end{equation}
+
