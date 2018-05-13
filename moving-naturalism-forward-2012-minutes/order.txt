@@ -1,4 +1,9 @@
-day1.md
-day2.md
-day3.md
-summary.md
+01-introductions.md
+02-what-is-reality.md
+03-emergence-and-reduction.md
+04-morality.md
+05-meaning.md
+06-free-will-and-consciousness.md
+07-philosophy-of-science.md
+08-final-thoughts.md
+09-summary.md

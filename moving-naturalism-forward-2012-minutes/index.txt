@@ -48,10 +48,15 @@ Description of the workshop from [Sean Carroll's event page](http://preposterous
 Contents
 --------------------------------------------------------------------------------
 
-1.  [Day 1: *introductions, what is real?, emergence and reduction*](day1.html)  -- (in progress)
-1.  [Day 2: *morality, meaning, free will and consciousness*](day2.html)  -- (TODO)
-1.  [Day 3: *philosophy and science, final thoughts*](day3.html)  -- (TODO)
-1.  Ryan's summary  -- (TODO)
+1.  [Participants introduce themselves](01-introductions.html)  -- (done)
+1.  [What is reality?](02-what-is-reality.html)  -- (in progress)
+1.  [Emergence and reduction](03-emergence-and-reduction.html)  -- (TODO)
+1.  [Morality](04-morality.html)  -- (TODO)
+1.  [Meaning](05-meaning.html)  -- (TODO)
+1.  [Free will and consciousness](06-free-will-and-consciousness.html)  -- (TODO)
+1.  [Philosophy of science](07-philosophy-of-science.html)  -- (TODO)
+1.  [Final thoughts](08-final-thoughts.html)  -- (TODO)
+1.  [Ryan's summary](09-summary.html)  -- (TODO)
 
 
 Links to other information about naturalism
