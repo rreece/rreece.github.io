@@ -1,7 +1,7 @@
 Morality
 ================================================================================
 
-*Day 2, morning, 1st session*
+*[Day 2, morning, 1st session](https://www.youtube.com/watch?v=ebuve4INdAU&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL&index=4)*
 
 **Rebecca**
 

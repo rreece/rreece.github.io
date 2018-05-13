@@ -1,7 +1,7 @@
 What is reality?
 ================================================================================
 
-*Continuing Day 1, morning, 2nd session*
+*[Continuing Day 1, morning, 2nd session](https://www.youtube.com/watch?v=qeyBqxY3MsQ&index=1&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL)*
 
 **Alex**
 
@@ -39,7 +39,7 @@ Naturalism can trust two (three) features of physics to not change (despite poss
 **(Ryan)**
 
 I think Alex goes too far with his last points about reductionism.
-Emergent facts about reality are still facts, interesting, and metaphysically real,
+Emergent facts about reality are still facts, interesting, and arguably metaphysically real,
 albeit not in the same way as (more) fundamental physics.
 I agree that we should emphasize that reductionism means that there is no
 downward causation.

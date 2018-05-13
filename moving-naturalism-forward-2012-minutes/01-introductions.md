@@ -1,7 +1,7 @@
 Participants introduce themselves
 ================================================================================
 
-*Day 1, morning, 1st session*
+*[Day 1, morning, 1st session](https://www.youtube.com/watch?v=Ju4C_ITlBsU&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL&index=0)*
 
 1.  **Nicholas Pritzker** - Investor worth $1.3 B, sponsored the event.
 
@@ -113,7 +113,7 @@ Participants introduce themselves
 
 --------------------------------------------------------------------------------
 
-*Day 1, morning, 2nd session*
+*[Day 1, morning, 2nd session](https://www.youtube.com/watch?v=qeyBqxY3MsQ&index=1&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL)*
 
 11. **Massimo Pigliucci** - Started as an evolutionary biologist,
     studying gene-environment interactions,

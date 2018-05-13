@@ -1,7 +1,7 @@
 Final thoughts
 ================================================================================
 
-*Day 3, morning, 2nd session*
+*[Day 3, morning, 2nd session](https://www.youtube.com/watch?v=KhZPlD448SA&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL&index=9)*
 
 TODO...
 
