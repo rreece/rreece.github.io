@@ -6,3 +6,6 @@ Meaning
 TODO...
 
 
+![](img/Rebecca-Newberger-Goldstein.jpg)
+
+

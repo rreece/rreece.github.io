@@ -13,3 +13,5 @@ TODO.
 TODO.
 
 
+![](img/move-naturalism-around-the-table-2.jpg)
+
