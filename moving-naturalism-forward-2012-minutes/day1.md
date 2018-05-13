@@ -319,10 +319,11 @@ There are also chemical facts, biological facts, economic facts.
 But if you fix the relations of the fermions and bosons in one chunk of spacetime
 the same as another, then you get all the same emergent phenomena as well.
 However, you won't have the same historical facts, following the points from
-the thought experiment called "swamp man".
+the thought experiment called "[Swampman](https://en.wikipedia.org/wiki/Swampman)".
 
 ![ [Swampman](https://en.wikipedia.org/wiki/Swampman) 
-    is XXX.
+    is the subject of a thought experiment by Donald Davidson
+    about identity and meaning.
     ([Image](https://www.redbubble.com/people/petemandik/works/24183232-swampman)
     by [Pete Mandik](https://www.instagram.com/p/BLSD0iaDe9d/).)
     ](img/swampman-mandik.jpg)
