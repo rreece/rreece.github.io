@@ -4,6 +4,6 @@
 04-morality.md
 05-meaning.md
 06-free-will-and-consciousness.md
-07-philosophy-of-science.md
+07-philosophy-and-science.md
 08-final-thoughts.md
 09-summary.md

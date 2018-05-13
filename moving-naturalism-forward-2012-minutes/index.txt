@@ -54,7 +54,7 @@ Contents
 1.  [Morality](04-morality.html)  -- (TODO)
 1.  [Meaning](05-meaning.html)  -- (TODO)
 1.  [Free will and consciousness](06-free-will-and-consciousness.html)  -- (TODO)
-1.  [Philosophy of science](07-philosophy-of-science.html)  -- (TODO)
+1.  [Philosophy and science](07-philosophy-and-science.html)  -- (TODO)
 1.  [Final thoughts](08-final-thoughts.html)  -- (TODO)
 1.  [Ryan's summary](09-summary.html)  -- (TODO)
 
