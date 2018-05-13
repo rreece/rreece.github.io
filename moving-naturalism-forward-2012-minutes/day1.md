@@ -103,7 +103,7 @@ Participants introduce themselves
     Would like to believe that philosophy can make progress past people's intuitions,
     but isn't yet convinced.
 
-10. **Daniel Dennett** Philosopher at Tuft's. Quine was his hero and mentor.
+10. **Daniel Dennett** - Philosopher at Tuft's. Quine was his hero and mentor.
     Didn't study any science originally, but realized he needed to know something about the
     brain.  Studied with Gilbert Ryle. Got informal education from many scientists.
     Doesn't spend much time with many philosophers these days.
