@@ -404,7 +404,8 @@ with a blackboard filled with fake physics scribbled on it that is really meanin
 
 Biological design is typically better than what engineers can achieve.
 
-![](img/sharris-6.png)
+![[Cartooon by Sidney Harris](http://www.sciencecartoonsplus.com/gallery/math/galmath2b.php)
+    ](img/sharris-1.png)
 
 (Ryan): Designs and designoids are both solutions.
 
@@ -651,5 +652,7 @@ TODO.
 
 TODO.
 
+![Reductionism, figure by [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism).
+    ](img/reductionism.png)
 
 
