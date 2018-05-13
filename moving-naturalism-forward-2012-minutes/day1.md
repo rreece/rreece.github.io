@@ -199,8 +199,8 @@ What is reality?
 ![The total action of the physics of the standard model 
     together with general relativity as presented by [Sean Carroll on his blog](http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/).
     In this all encompassing equation, fermions are the quanta of the $\psi$ fields and
-    bosons are the quanta of the $g$, $A$, and $\phi$ fields.
-    ](img/carroll-standard-model-action.jpg){#fig:carroll-standard-model-action}
+    bosons are the quanta of the $g$, $A$, and $\Phi$ fields.
+    ](img/carroll-standard-model-action.jpg)
 
 Physics has not yet bottomed out, but we don't have to know the fundamental ontology
 (string theory or otherwise).  Perhaps it won't ever bottom out.
@@ -223,7 +223,7 @@ Naturalism can trust two (three) features of physics to not change (despite poss
 
 ![A postulated interior of the [Duck of Vaucanson](https://en.wikipedia.org/wiki/Digesting_Duck) (1738-1739),
     an image of an automata that symbolizes a view of reductionism.
-    ](img/vaucansons-digesting-duck.jpg){#fig:vaucansons-digesting-duck}
+    ](img/vaucansons-digesting-duck.jpg)
 
 **(Ryan)**
 
@@ -321,7 +321,11 @@ the same as another, then you get all the same emergent phenomena as well.
 However, you won't have the same historical facts, following the points from
 the thought experiment called "swamp man".
 
-![](img/swampman-mandik.jpg)
+![ [Swampman](https://en.wikipedia.org/wiki/Swampman) 
+    is XXX.
+    ([Image](https://www.redbubble.com/people/petemandik/works/24183232-swampman)
+    by [Pete Mandik](https://www.instagram.com/p/BLSD0iaDe9d/).)
+    ](img/swampman-mandik.jpg)
 
 **Steven**
 
