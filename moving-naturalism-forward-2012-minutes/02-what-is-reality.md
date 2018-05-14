@@ -213,16 +213,30 @@ and can be contrasted with *pseudo design*, being cases where there appears to b
 design with function but its actually noise, such as Sidney Harris' comic
 with a blackboard filled with fake physics scribbled on it that is really meaningless.
 
-Biological design is typically better than what engineers can achieve.
-
 ![[Cartooon by Sidney Harris](http://www.sciencecartoonsplus.com/gallery/math/galmath2b.php)
     ](img/sharris-1.png)
 
-(Ryan): Designs and designoids are both solutions.
+Biological design is typically better than what engineers can achieve.
+
+**Steven**
+
+>   I thought the design of the genetic code was pretty bad.
 
 **Alex**
 
-The political implications give me pause.
+The more you look into it, the more you realize how good the design is given the constraints.
+
+The political implications of naturalism give me pause.
+
+>   It would be great if someone could convince me that
+>   the manifest image is reconcilable [with scientific image]
+>   because that would make naturalism far more marketable.
+
+(Ryan):
+    
+-   Designs and designoids are both solutions.
+-   Biological design is not always better.
+-   I think Dan does a better job talking about design in [this talk](https://www.youtube.com/watch?v=AZX6awZq5Z0).
 
 **Dan**
 
