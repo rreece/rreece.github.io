@@ -250,7 +250,7 @@ I'm afraid the political implications of naturalism are a stick with which to be
 
 ![Alex Rosenberg, the maddog reductionist. (Image credit: [link](https://www.whyarewehere.tv/about-science/scientism/)).](img/alex-scientism.jpg)
 
-Continuing:
+Leaving politics and continuing about design:
 
 >   Blind variation and natural selection is the source of all adaptations in the biological realm,
 >   but my view is that it is also the source of all adaptations in the human and cultural realm,

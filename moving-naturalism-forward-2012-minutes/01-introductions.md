@@ -7,8 +7,10 @@ Participants introduce themselves
 
 1.  **Nicholas Pritzker** - Investor worth $1.3 B, sponsored the event.
 
-2.  **Sean Carroll** - Conference organizer.  Cosmologist at Cal Tech.  Wishes he
-    had written a book about atheism.
+2.  **Sean Carroll** - Conference organizer.  Physicist and cosmologist at Cal Tech.
+    Philosophy minor; philosophy grad course with John Rawls and Robert Nozick.
+    Wishes he had written a book about atheism.
+    Disagrees with Sam Harris that morality can be based on science.
     Compatiblist, but curious about free will.
 
 3.  **Richard Dawkins** - Oxford biologist.  If not naturalism then what?  Super-human
