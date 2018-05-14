@@ -3,8 +3,6 @@ Summary
 
 TODO.
 
-![The [Flammarion engraving](https://en.wikipedia.org/wiki/Flammarion_engraving).](img/flammarion_engraving.jpg)
-
 
 Philosophy in figures draft image
 --------------------------------------------------------------------------------
