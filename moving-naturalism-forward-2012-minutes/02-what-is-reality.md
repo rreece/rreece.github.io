@@ -18,19 +18,19 @@ Physics has not yet bottomed out, but we don't have to know the fundamental onto
 Naturalism doesn't require us to take sides on matters at the frontiers of physics.
 Naturalism can trust two (three) features of physics to not change (despite possible future revolutions):
 
-1.  *Resolute denial of teleology*: no backward causation from the future
+1.  *__Resolute denial of teleology__*: no backward causation from the future
     pulling events in some trajectory, or any eminent causation that involves some
     kind of representation of what the future must be like.
     The denial of purpose and goals in physics:
     no sucessor theory to the succession of theories since Newton
     is likely to include any scope for teleological causal processes.
-2.  *Second law of thermodynamics*: generates the time-asymmetries in physics.
+2.  *__Second law of thermodynamics__*: generates the time-asymmetries in physics.
     Further, all the asymmetries in physics are a result of the time-asymmetries.
     (**Ryan**: really? maybe.)
-3.  *Reductionism*: is a metaphysical thesis that denies downward causation; physics is causally closed.
+3.  *__Reductionism__*: is a metaphysical thesis that denies downward causation; physics is causally closed.
     The explanatory power of the special sciences are an epistemic thesis and not
-    a metaphysical one, and represent cognitive limitations of humans, and 
-    no fundamental facts about the organization of reality.
+    a metaphysical one, and 
+    *represent cognitive limitations of humans, and no fundamental facts about the organization of reality*.
 
 ![A postulated interior of the [Duck of Vaucanson](https://en.wikipedia.org/wiki/Digesting_Duck) (1738-1739),
     an image of an automata that symbolizes a view of reductionism.
@@ -71,6 +71,7 @@ calculate all the fundamental physics (Laplace's demon)
 then we could derive all the facts of the special sciences.
 It's very hard for me to see what could constitute evidence for that claim.
 That looks like a statement of metaphysical faith.
+We should be a little bit verificationist.
 
 **(Ryan)**
 
