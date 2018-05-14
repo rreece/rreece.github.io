@@ -240,6 +240,12 @@ The political implications of naturalism give me pause.
 -   Biological design is not always better.
 -   I think Dan does a better job talking about design in [this talk](https://www.youtube.com/watch?v=AZX6awZq5Z0).
 
+![To date, there are no working hypotheses about why the vertebrate retina is wired in backwards.
+    It seems to have been a random development that then "stuck" because a correction of that
+    magnitude would be very difficult to pull off with random mutations
+    (Image credit: [thehumanevolutionblog.com](https://thehumanevolutionblog.com/2015/01/12/the-poor-design-of-the-human-eye/)).
+    ](img/human-eye-backwards.jpg)
+
 **Dan**
 
 TODO...
