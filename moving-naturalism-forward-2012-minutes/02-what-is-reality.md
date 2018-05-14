@@ -98,6 +98,8 @@ particle physics.
 >   we do in everyday life and science that makes this kind of naive view of
 >   reality impermissible in one where it is useful in the other.
 
+Further,
+
 >   Everyone in this room has used the word "real" in an unreflective,
 >   unphilosophical, unsophisticated way and I don't see any reason for barring
 >   its use in the sciences also.
