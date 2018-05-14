@@ -217,9 +217,10 @@ with a blackboard filled with fake physics scribbled on it that is really meanin
 ![[Cartooon by Sidney Harris](http://www.sciencecartoonsplus.com/gallery/math/galmath2b.php)
     ](img/sharris-1.png)
 
-Biological design is typically better than what engineers can achieve.
+Biological design is typically better than what engineers can achieve
+(in terms of optimization, energy efficiency, etc.).
 
-**Steven**
+**[Steven](https://www.youtube.com/watch?v=qeyBqxY3MsQ&feature=youtu.be&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL&t=2782)**
 
 >   I thought the design of the genetic code was pretty bad.
 
