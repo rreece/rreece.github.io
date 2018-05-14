@@ -1,4 +1,4 @@
-Rebecca-Newberger-Goldstein.jpg : http://www.apologeticsreview.com/2013/05/04/moving-naturalism-foward-day-one-introductions-concluded/
+alex-scientism.jpg : https://www.whyarewehere.tv/about-science/scientism/
 atheists-guide-to-reality.jpg
 carroll-standard-model-action.jpg : http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/
 dennett-coyne-dawkins-road-trip.jpg : https://whyevolutionistrue.wordpress.com/2012/10/25/road-trip-with-the-boys/
@@ -8,6 +8,7 @@ move-naturalism-2012-positions.png : http://philosophy-in-figures.tumblr.com/
 move-naturalism-around-the-table-1.jpg : http://rationallyspeaking.blogspot.com/2012/10/from-naturalism-workshop-part-i.html
 move-naturalism-around-the-table-2.jpg : http://www.preposterousuniverse.com/blog/2018/05/10/user-friendly-naturalism-videos/
 move-naturalism-members-at-the-table.jpg
+Rebecca-Newberger-Goldstein.jpg : http://www.apologeticsreview.com/2013/05/04/moving-naturalism-foward-day-one-introductions-concluded/
 reductionism.png : http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism
 sharris-1.png : http://www.sciencecartoonsplus.com/gallery/math/galmath2b.php
 sharris-6.png

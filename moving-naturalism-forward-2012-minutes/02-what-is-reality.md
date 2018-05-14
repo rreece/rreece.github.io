@@ -248,6 +248,8 @@ I'm afraid the political implications of naturalism are a stick with which to be
 >   the manifest image is reconcilable [with scientific image]
 >   because that would make naturalism far more marketable.
 
+![Alex Rosenberg, the maddog reductionist. (Image credit: [link](https://www.whyarewehere.tv/about-science/scientism/)).](img/alex-scientism.jpg)
+
 Continuing:
 
 >   Blind variation and natural selection is the source of all adaptations in the biological realm,
@@ -273,6 +275,8 @@ TODO: CONTINUE HERE
     ](img/human-eye-backwards.jpg)
 
 **Dan**
+
+![Daniel Dennett.](img/dennett-1.jpg)
 
 TODO...
 

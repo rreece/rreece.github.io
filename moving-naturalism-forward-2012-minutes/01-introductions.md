@@ -3,6 +3,8 @@ Participants introduce themselves
 
 *[Day 1, morning, 1st session](https://www.youtube.com/watch?v=Ju4C_ITlBsU&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL&index=0)*
 
+![](img/move-naturalism-around-the-table-3.jpg)
+
 1.  **Nicholas Pritzker** - Investor worth $1.3 B, sponsored the event.
 
 2.  **Sean Carroll** - Conference organizer.  Cosmologist at Cal Tech.  Wishes he
@@ -15,6 +17,9 @@ Participants introduce themselves
 4.  **Don Ross** - Ph.D. philosophy of science.  Works in both philosophy and economics.
     Interested in the unification of economics with other sciences.
     Economics as the study of information systems.
+
+    ![*Every Thing Must Go - Metaphysics Naturalized*.](img/ETMG.jpg)
+
     Wrote *Every Thing Must Go - Metaphysics Naturalized* with James Ladyman - criticism
     of metaphysics with pre-scientific views.
 
@@ -40,6 +45,8 @@ Participants introduce themselves
     (the obvious furniture of reality in contrast to the *scientific image*).
     Wrote *The Atheist Guide to Reality*.
     Others in the room call him a "maddog reductionist".
+
+![*The Atheist's Guide to Reality*.](img/atheists-guide-to-reality.jpg)
 
 6.  **Owen Flanagan** - Philosopher.  Embraces Sellars' view that 
 
