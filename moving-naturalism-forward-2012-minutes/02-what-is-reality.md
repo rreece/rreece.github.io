@@ -222,7 +222,11 @@ Biological design is typically better than what engineers can achieve
 
 **[Steven](https://www.youtube.com/watch?v=qeyBqxY3MsQ&feature=youtu.be&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL&t=2782)**
 
->   I thought the design of the genetic code was pretty bad.
+>   I thought the design of the genetic code was pretty bad. [^BadGeneticCode]
+
+[^BadGeneticCode]: Since there are 64 combinations of 4 nucleotides taken three at a time per codon and only 20 amino acids, 
+    the code is degenerate---more than one codon per amino acid, in most cases 
+    (see [link](https://www.bx.psu.edu/~ross/workmg/GeneticCodeCh13.htm)).
 
 **Alex**
 
@@ -230,9 +234,31 @@ The more you look into it, the more you realize how good the design is given the
 
 The political implications of naturalism give me pause.
 
+On hearing one June afternoon in 1860 the suggestion that mankind was descended from the apes, 
+the wife of the Bishop of Worcester is said to have exclaimed,
+
+>   My dear, descended from the apes! Let us hope it is not true, but if it is, 
+>   let us pray that it will not become generally known. [^WifeWorcester1860]
+
+[^WifeWorcester1860]: See the analysis by [Quote Investigator](https://quoteinvestigator.com/2011/02/09/darwinism-hope-pray/).
+
+I'm afraid the political implications of naturalism are a stick with which to beat naturalists.
+
 >   It would be great if someone could convince me that
 >   the manifest image is reconcilable [with scientific image]
 >   because that would make naturalism far more marketable.
+
+Continuing:
+
+>   Blind variation and natural selection is the source of all adaptations in the biological realm,
+>   but my view is that it is also the source of all adaptations in the human and cultural realm,
+>   including all of the wonderful inventions and artifacts that we have produced.
+>   Blind variation and natural selection is the only process operating in the ontogeny
+>   and the development of the brain that producess behavior which is adaptative
+>   whether it means scratching an itch, or making a cup, or a pen, or an Apple computer.
+>   There's no design anywhere; it's all blind variation and natural selection.
+
+TODO: CONTINUE HERE
 
 (Ryan):
     
