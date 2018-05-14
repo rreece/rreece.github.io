@@ -250,7 +250,7 @@ I'm afraid the political implications of naturalism are a stick with which to be
 
 ![Alex Rosenberg, the maddog reductionist. (Image credit: [link](https://www.whyarewehere.tv/about-science/scientism/))](img/alex-scientism.jpg)
 
-Leaving politics and continuing about design:
+Leaving politics for now, and continuing on about design:
 
 >   Blind variation and natural selection is the source of all adaptations in the biological realm,
 >   but my view is that it is also the source of all adaptations in the human and cultural realm,
@@ -260,27 +260,17 @@ Leaving politics and continuing about design:
 >   whether it means scratching an itch, or making a cup, or a pen, or an Apple computer.
 >   There's no design anywhere; it's all blind variation and natural selection.
 
-TODO: CONTINUE HERE
-
-(Ryan):
-    
--   Designs and designoids are both solutions.
--   Biological design is not always better.
--   I think Dan does a better job talking about design in [this talk](https://www.youtube.com/watch?v=AZX6awZq5Z0).
-
-![To date, there are no working hypotheses about why the vertebrate retina is wired in backwards.
-    It seems to have been a random development that then "stuck" because a correction of that
-    magnitude would be very difficult to pull off with random mutations
-    (Image credit: [thehumanevolutionblog.com](https://thehumanevolutionblog.com/2015/01/12/the-poor-design-of-the-human-eye/)).
-    ](img/human-eye-backwards.jpg)
-
 **Dan**
 
 ![Daniel Dennett.](img/dennett-1.jpg)
 
-TODO...
+TODO: CONTINUE HERE
 
-"Turns out you can divide an atom."
+>   Or that's design and it's just not a top-down designer.
+
+>   Turns out, you can divide an atom.
+
+TODO...
 
 >   I think it is an easier pedagogical task to convince people that there's design
 >   without a designer, design without an intelligent designer,
@@ -295,6 +285,20 @@ TODO...
 **Dan**
 
 TODO...
+
+>   What Darwin did is how to naturalize the concept of design.
+
+(Ryan):
+    
+-   Designs and designoids are both solutions.
+-   Biological design is not always better.
+-   I think Dan does a better job talking about design in [this talk](https://www.youtube.com/watch?v=AZX6awZq5Z0).
+
+![To date, there are no working hypotheses about why the vertebrate retina is wired in backwards.
+    It seems to have been a random development that then "stuck" because a correction of that
+    magnitude would be very difficult to pull off with random mutations
+    (Image credit: [thehumanevolutionblog.com](https://thehumanevolutionblog.com/2015/01/12/the-poor-design-of-the-human-eye/)).
+    ](img/human-eye-backwards.jpg)
 
 **Jerry**
 
