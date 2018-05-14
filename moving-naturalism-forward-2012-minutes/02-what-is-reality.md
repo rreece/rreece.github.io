@@ -3,15 +3,15 @@ What is reality?
 
 *[Continuing Day 1, morning, 2nd session](https://www.youtube.com/watch?v=qeyBqxY3MsQ&index=1&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL)*
 
-**Alex**
-
-> There's nothing but fermions and bosons.
-
 ![The total action of the physics of the standard model 
     together with general relativity as presented by [Sean Carroll on his blog](http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/).
     In this all encompassing equation, fermions are the quanta of the $\psi$ fields and
     bosons are the quanta of the $g$, $A$, and $\Phi$ fields.
     ](img/carroll-standard-model-action.jpg)
+
+**Alex**
+
+> There's nothing but fermions and bosons.
 
 Physics has not yet bottomed out, but we don't have to know the fundamental ontology
 (string theory or otherwise).  Perhaps it won't ever bottom out.
