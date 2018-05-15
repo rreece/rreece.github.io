@@ -556,6 +556,7 @@ TODO: give the last word.
 
 TODO.
 
+![](img/section-break.png)
 
 Ryan's summary
 --------------------------------------------------------------------------------
