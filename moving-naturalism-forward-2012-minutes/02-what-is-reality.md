@@ -345,7 +345,7 @@ TODO:
     (Image credit: [thehumanevolutionblog.com](https://thehumanevolutionblog.com/2015/01/12/the-poor-design-of-the-human-eye/)).
     ](img/human-eye-backwards.jpg)
 
-![](img/section-break.png)
+--------------------------------------------------------------------------------
 
 **Massimo**
 
@@ -397,6 +397,8 @@ TODO...
 
 TODO...
 
+--------------------------------------------------------------------------------
+
 **Richard**
 
 TODO...
@@ -424,6 +426,8 @@ TODO...
 **Alex**
 
 TODO...
+
+--------------------------------------------------------------------------------
 
 **Owen**
 
