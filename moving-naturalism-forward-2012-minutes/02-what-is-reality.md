@@ -333,12 +333,16 @@ design---the very things that Paley talks about. [^WatchmakerAnalogy]
 
 **(Ryan)**
 
-TODO:
-
 -   Preplanned design and evolutionary design both generate real functioning solutions.
     Designoids are *not* solutions.  They are apparent, not real design.
 -   Biological design is not always better.
--   I think Dan does a better job talking about design in [this talk](https://www.youtube.com/watch?v=AZX6awZq5Z0).
+-   I think Dan does a better job talking about design in 
+    [his talk at The Royal Institution](https://www.youtube.com/watch?v=AZX6awZq5Z0).
+-   We should have noted earlier that Schr&ouml;dinger equation is
+    not only a mathematical statement;
+    it's an empirically verified physical law
+    (or at least a confirmed regularity of nature).
+    Weinberg will remind us of this later, below.
 
 ![To date, there are no working hypotheses about why the vertebrate retina is wired in backwards.
     It seems to have been a random development that then "stuck" because a correction of that
@@ -352,7 +356,9 @@ TODO:
 
 TODO: CONTINUE HERE
 
--   Philip Anderson - "More is different"
+-   Philip Anderson - "More is different" [^Anderson1972]
+
+[^Anderson1972]: Anderson, P.W. (1972). [More is different. *Science*, 177, 393--396.](http://science.sciencemag.org/content/177/4047/393)
 
 TODO...
 
@@ -451,7 +457,7 @@ TODO.
 >   I certainly could imagine talking about reality in way that never referred to
 >   the concept of the constitution of the United States and would not be mistaken
 >   in any way.  I could just list all the fermions and bosons and have them evolve
->   according to the Schrodinger equation; I would not be wrong, but I would be
+>   according to the Schr&ouml;dinger equation; I would not be wrong, but I would be
 >   missing something really interesting, and I can't come up with a better word
 >   than "useful".
 
