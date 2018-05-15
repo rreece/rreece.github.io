@@ -318,7 +318,7 @@ design---the very things that Paley talks about. [^WatchmakerAnalogy]
 >   Notice that it is not a substantive debate.
 >   We all agree about the marvels of the biosphere,
 >   and we agree that there is a naturalistic explaination of them.
->   The question is: should we be afraid that if we use the word "design"
+>   The question is: should we be afraid that if we use the word "design",
 >   we are giving a hostage to the creationists and the intelligent designers?
 
 **Nicholas**
