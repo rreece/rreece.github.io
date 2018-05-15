@@ -226,7 +226,7 @@ Biological design is typically better than what engineers can achieve
 
 >   I thought the design of the genetic code was pretty bad. [^BadGeneticCode]
 
-[^BadGeneticCode]: Since there are 64 combinations of 4 nucleotides taken three at a time per codon and only 20 amino acids, 
+[^BadGeneticCode]: Since there are 64 combinations of 4 nucleotides taken 3 at a time per codon and only 20 amino acids, 
     the code is degenerate---more than one codon per amino acid, in most cases 
     (see [link](https://www.bx.psu.edu/~ross/workmg/GeneticCodeCh13.htm)).
 
