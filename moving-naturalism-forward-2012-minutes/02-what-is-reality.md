@@ -116,7 +116,7 @@ I agree with you (Steven).  We should remember that there is another camp of
 philosophers (and scientists) that say that the manifest image is what is real and causal (has hegemony),
 and the posits of physics are instrumentalist fantasies.
 
->   Quantum particles: the dreams that stuff is made of -- David Moser
+>   "Quantum particles: the dreams that stuff is made of" -- David Moser
 
 Now, we as naturalist are committed to the ontology of the physical sciences,
 but we shouldn't go to the other extreme and deny the reality of the manifest image.
@@ -275,7 +275,7 @@ Leaving politics for now, and continuing on about design:
 >   without a designer, design without an intelligent designer,
 >   than it is to convince them that there isn't any design.
 
-![Daniel Dennett.](img/dennett-1.jpg)
+![Daniel Dennett, the design-friendly pragmatist.](img/dennett-1.jpg)
 
 **Alex**
 
@@ -335,7 +335,7 @@ design---the very things that Paley talks about. [^WatchmakerAnalogy]
 
 -   Preplanned design and evolutionary design both generate real functioning solutions.
     Designoids are *not* solutions.  They are apparent, not real design.
--   It still seems useful to distinguish between preplanned and evolutionary design processes.
+-   It still seems useful to distinguish between *preplanned* and *evolutionary* design processes.
 -   Evolutionary design is not always better.
 -   I think Dan does a better job talking about design in 
     [his later talk at The Royal Institution](https://www.youtube.com/watch?v=AZX6awZq5Z0).
