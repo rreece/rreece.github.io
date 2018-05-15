@@ -335,6 +335,7 @@ design---the very things that Paley talks about. [^WatchmakerAnalogy]
 
 -   Preplanned design and evolutionary design both generate real functioning solutions.
     Designoids are *not* solutions.  They are apparent, not real design.
+-   It still seems useful to distinguish between preplanned and evolutionary design processes.
 -   Biological design is not always better.
 -   I think Dan does a better job talking about design in 
     [his talk at The Royal Institution](https://www.youtube.com/watch?v=AZX6awZq5Z0).
@@ -342,7 +343,7 @@ design---the very things that Paley talks about. [^WatchmakerAnalogy]
     not only a mathematical statement;
     it's an empirically verified physical law
     (or at least a confirmed regularity of nature).
-    Weinberg will remind us of this later, below.
+    Weinberg will remind us of this later , below.
 
 ![To date, there are no working hypotheses about why the vertebrate retina is wired in backwards.
     It seems to have been a random development that then "stuck" because a correction of that
