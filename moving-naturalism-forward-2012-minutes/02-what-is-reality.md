@@ -32,10 +32,6 @@ Naturalism can trust two (three) features of physics to not change (despite poss
     a metaphysical one, and 
     *represent cognitive limitations of humans, and no fundamental facts about the organization of reality*.
 
-![A postulated interior of the [Duck of Vaucanson](https://en.wikipedia.org/wiki/Digesting_Duck) (1738-1739),
-    an image of an automata that symbolizes a view of reductionism.
-    ](img/vaucansons-digesting-duck.jpg)
-
 **(Ryan)**
 
 I think Alex goes too far with his last points about reductionism.
@@ -46,6 +42,10 @@ downward causation.
 
 Let us label Alex's position that tends to deny the reality of ontologies
 that emerge or supervene on physics as *eliminative reductionism*.
+
+![A postulated interior of the [Duck of Vaucanson](https://en.wikipedia.org/wiki/Digesting_Duck) (1738-1739),
+    an image of an automata that symbolizes a view of reductionism.
+    ](img/vaucansons-digesting-duck.jpg)
 
 **Sean**
 
