@@ -136,7 +136,7 @@ However, you won't have the same historical facts, following the points from
 the thought experiment called "[Swampman](https://en.wikipedia.org/wiki/Swampman)".
 
 ![ [Swampman](https://en.wikipedia.org/wiki/Swampman) 
-    is the subject of a thought experiment by Donald Davidson
+    is the subject of a thought experiment by Donald Davidson [^Davidson2001]
     about identity and meaning.
     ([Image](https://www.redbubble.com/people/petemandik/works/24183232-swampman)
     by [Pete Mandik](https://www.instagram.com/p/BLSD0iaDe9d/).)
@@ -566,8 +566,7 @@ TODO: give the last word.
 
 TODO.
 
-
-![](img/section-break.png)
+&nbsp;![](img/section-break.png)
 
 
 Ryan's summary
@@ -585,5 +584,11 @@ Ryan's summary
 1.  Steven defends the multi-level realist.
 1.  What is the metaphysics of abstract objects?
 1.  Some tangents on design and designoid
+
+
+[^Davidson2001]: @Davidson_2001_Knowing_ones_own_mind\.
+
+
+<!-- REFERENCES -->
 
 

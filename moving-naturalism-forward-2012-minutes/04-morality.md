@@ -17,7 +17,7 @@ TODO.
 TODO.
 
 
-![](img/section-break.png)
+&nbsp;![](img/section-break.png)
 
 
 Ryan's summary

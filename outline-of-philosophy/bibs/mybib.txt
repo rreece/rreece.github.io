@@ -34,7 +34,7 @@ Psillos, S. (1999). *Scientific Realism: How Science Tracks Truth*. London, New 
 Putnam, H. (1981). *Reason, Truth, and History*. Cambridge University Press.
 Quine, W.V.O. (1951). Two Dogmas of Empiricism. *The Philosophical Review*, 60, 20--43.
 Schwichtenberg, J. (2015). *Physics from Symmetry*. Springer.
-Sellars, W. (1963). Philosophy and the scientific image of man. In *Science, Perception, and Reality*. Atascadero, CA: Ridgeview Publishing Co.
+Sellars, W. (1963). Philosophy and the scientific image of man. In *Science, Perception, and Reality* (pp. 1--40). Atascadero, CA: Ridgeview Publishing Co.
 Sider, T. (2011). *Writing the Book of the World*. Oxford University Press.
 Stanford, K. (2013). Underdetermination of scientific theory. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/scientific-underdetermination/
 Tegmark, M. (2007). The Mathematical Universe. *Foundations of Physics*, 38, 101--150.

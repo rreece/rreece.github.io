@@ -20,7 +20,8 @@ Participants introduce themselves
     Interested in the unification of economics with other sciences.
     Economics as the study of information systems.
 
-    ![*[Every Thing Must Go - Metaphysics Naturalized](https://www.amazon.com/Every-Thing-Must-Metaphysics-Naturalized/dp/0199573093/)*.](img/ETMG.jpg)
+    ![*[Every Thing Must Go - Metaphysics Naturalized](https://www.amazon.com/Every-Thing-Must-Metaphysics-Naturalized/dp/0199573093/)*. [^Ladyman2007]
+        ](img/ETMG.jpg)
 
     Wrote *Every Thing Must Go - Metaphysics Naturalized* with James Ladyman - criticism
     of metaphysics with pre-scientific views.
@@ -48,7 +49,8 @@ Participants introduce themselves
     Wrote *The Atheist Guide to Reality*.
     Others in the room call him a "maddog reductionist".
 
-    ![*[The Atheist's Guide to Reality](https://www.amazon.com/Atheists-Guide-Reality-Enjoying-Illusions/dp/0393344118/)*.](img/atheists-guide-to-reality.jpg)
+    ![*[The Atheist's Guide to Reality](https://www.amazon.com/Atheists-Guide-Reality-Enjoying-Illusions/dp/0393344118/)*. [^Rosenberg2011]
+        ](img/atheists-guide-to-reality.jpg)
 
 6.  **Owen Flanagan** - Philosopher.  Embraces Sellars' view that 
 
@@ -184,5 +186,12 @@ Participants introduce themselves
 
 16. **Janna Levin** - (Introduced herself later in the day 1, afternoon, 1st session.)
     TODO.
+
+
+[^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Rosenberg2011]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
+
+
+<!-- REFERENCES -->
 
 

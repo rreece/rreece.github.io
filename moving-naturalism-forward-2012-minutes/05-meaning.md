@@ -12,7 +12,7 @@ Ross talks about game theory and morality before the conference moves to meaning
 TODO.
 
 
-![](img/section-break.png)
+&nbsp;![](img/section-break.png)
 
 
 Ryan's summary

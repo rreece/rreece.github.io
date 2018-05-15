@@ -15,7 +15,7 @@ TODO.
     ](img/reductionism.png)
 
 
-![](img/section-break.png)
+&nbsp;![](img/section-break.png)
 
 
 Ryan's summary
