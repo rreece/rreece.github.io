@@ -63,7 +63,7 @@ between Aristotilian and Newtonian mechanics.
 
 **Don**
 
-You (Alex) are committed to the view that "physics fixes all the facts".
+You (Alex) are committed to the view that *"physics fixes all the facts"*.
 But fundamental physics does not address all the facts, and the most interesting
 facts are the ones that are the most general.
 What you mean is that if we had a computer that could in principle
