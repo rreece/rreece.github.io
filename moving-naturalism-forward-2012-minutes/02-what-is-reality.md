@@ -291,6 +291,18 @@ TODO...
 
 >   What Darwin did is how to naturalize the concept of design.
 
+Paley on the "Blind Watchmaker". [^WatchmakerAnalogy]
+
+[^WatchmakerAnalogy]: TODO: Paley on the "[Blind Watchmaker](https://en.wikipedia.org/wiki/Watchmaker_analogy)".
+
+**Jerry**
+
+TODO...
+
+**Dan**
+
+TODO...
+
 **(Ryan)**
     
 -   Designs and designoids are both solutions.
@@ -303,14 +315,6 @@ TODO...
     (Image credit: [thehumanevolutionblog.com](https://thehumanevolutionblog.com/2015/01/12/the-poor-design-of-the-human-eye/)).
     ](img/human-eye-backwards.jpg)
 
-**Jerry**
-
-TODO...
-
-**Dan**
-
-TODO...
-
 **Nicholas**
 
 TODO...
@@ -318,6 +322,8 @@ TODO...
 **Massimo**
 
 TODO...
+
+-   Philip Anderson - "More is different"
 
 **Steven**
 
