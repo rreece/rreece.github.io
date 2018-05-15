@@ -335,7 +335,8 @@ design---the very things that Paley talks about. [^WatchmakerAnalogy]
 
 TODO:
 
--   Designs and designoids are both solutions.
+-   Preplanned design and evolutionary design both generate real functioning solutions.
+    Designoids are *not* solutions.  They are apparent, not real design.
 -   Biological design is not always better.
 -   I think Dan does a better job talking about design in [this talk](https://www.youtube.com/watch?v=AZX6awZq5Z0).
 
