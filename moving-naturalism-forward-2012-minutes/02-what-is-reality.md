@@ -383,6 +383,10 @@ TODO: highlight Richard's point.
 
 TODO...
 
+>   We are the first reason representers.
+
+TODO: Gaudi and ant hills.
+
 >   What is this for?
 
 TODO...
