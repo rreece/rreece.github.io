@@ -427,6 +427,14 @@ TODO...
 
 TODO: Gaudi and ant hills.
 
+[The Evolution of Reasons](http://ase.tufts.edu/cogstud/dennett/papers/evolutionofreasons.pdf)
+
+**Jerry**
+
+TODO.
+
+**Dan**
+
 >   What is this for?
 
 TODO...
