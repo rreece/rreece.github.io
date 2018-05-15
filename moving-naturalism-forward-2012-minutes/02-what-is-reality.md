@@ -429,15 +429,17 @@ TODO: Gaudi and ant hills.
 
 [The Evolution of Reasons](http://ase.tufts.edu/cogstud/dennett/papers/evolutionofreasons.pdf)
 
+>   What is this for?
+
+TODO...
+
 **Jerry**
 
 TODO.
 
 **Dan**
 
->   What is this for?
-
-TODO...
+>   But we're still going to use the word "function" and "what is it for"?
 
 **Alex**
 
