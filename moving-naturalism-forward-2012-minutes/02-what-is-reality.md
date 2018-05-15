@@ -359,7 +359,7 @@ TODO: CONTINUE HERE
 
 -   Philip Anderson - "More is different" [^Anderson1972]
 
-[^Anderson1972]: Anderson, P.W. (1972). [More is different. *Science*, 177, 393--396.](http://science.sciencemag.org/content/177/4047/393)
+[^Anderson1972]: @Anderson_1972_More_is_different\.
 
 TODO...
 

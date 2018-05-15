@@ -13,8 +13,18 @@ Participants introduce themselves
     Disagrees with Sam Harris that morality can be based on science.
     Compatibilist, but curious about free will.
 
+    Sean's books include a textbook on general relativity: 
+    *[Spacetime and Geometry](https://www.amazon.com/Spacetime-Geometry-Introduction-General-Relativity/dp/9332571651/)*,
+    and popular books: *[From Eternity to Here](https://www.amazon.com/Eternity-Here-Quest-Ultimate-Theory/dp/0452296544/)* 
+    and *[The Particle at the End of the Universe](https://www.amazon.com/Particle-End-Universe-Higgs-Boson/dp/0142180300/)*. [^SeanBooks]
+
 3.  **Richard Dawkins** - Oxford biologist.  If not naturalism then what?  Super-human
     is surely possible, but what would supernatural even mean?
+
+    Richard's books include 
+    *[The Selfish Gene](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606/)*, 
+    *[The Blind Watchmaker](https://www.amazon.com/Blind-Watchmaker-Evidence-Evolution-Universe/dp/0393351491/)*, 
+    and *[The God Delusion](https://www.amazon.com/God-Delusion-Richard-Dawkins/dp/0618918248/)*. [^RichardBooks]
 
 4.  **Don Ross** - Ph.D. philosophy of science.  Works in both philosophy and economics.
     Interested in the unification of economics with other sciences.
@@ -23,8 +33,8 @@ Participants introduce themselves
     ![*[Every Thing Must Go - Metaphysics Naturalized](https://www.amazon.com/Every-Thing-Must-Metaphysics-Naturalized/dp/0199573093/)*. [^Ladyman2007]
         ](img/ETMG.jpg)
 
-    Wrote *Every Thing Must Go - Metaphysics Naturalized* with James Ladyman - criticism
-    of metaphysics with pre-scientific views.
+    I wrote *Every Thing Must Go* with James Ladyman as critical polemic against 
+    metaphysics with pre-scientific views.
 
     > Philosophers, for the most part, analytic philosophers particularly, have failed to
     > really promote naturalism and give it its proper innings because of lingering commitments
@@ -43,14 +53,24 @@ Participants introduce themselves
     Would like to change his mind about the philosophy of mathematics
     since he changes it often.
 
+    Don's books include
+    *[Dennett's Philosophy: A Comprehensive Assessment](https://www.amazon.com/Dennetts-Philosophy-Comprehensive-Don-Ross/dp/026268117X/)*,
+    *[Economic Theory and Cognitive Science: Microexplanation](https://www.amazon.com/Economic-Theory-Cognitive-Science-Microexplanation/dp/0262681684/)*, 
+    *[Every Thing Must Go: Metaphysics Naturalized](https://www.amazon.com/Every-Thing-Must-Metaphysics-Naturalized/dp/0199573093/)*, and
+    *[What Is Addiction?](https://www.amazon.com/What-Addiction-MIT-Press-Ross/dp/0262513110/)*. [^DonBooks]
+
 5.  **Alex Rosenberg** - Started in physics.  Works in the philosophy of biology.
     Views that naturalism is deeply incompatible with Sellars' *manifest image*
     (the obvious furniture of reality in contrast to the *scientific image*).
-    Wrote *The Atheist Guide to Reality*.
-    Others in the room call him a "maddog reductionist".
+    Wrote *The Atheist Guide to Reality for which others in the room call him a "maddog reductionist".
 
     ![*[The Atheist's Guide to Reality](https://www.amazon.com/Atheists-Guide-Reality-Enjoying-Illusions/dp/0393344118/)*. [^Rosenberg2011]
         ](img/atheists-guide-to-reality.jpg)
+
+    Alex's books include
+    *[Philosophy of Biology: A Contemporary Introduction](https://www.amazon.com/Philosophy-Biology-Contemporary-Introduction-Introductions-ebook/dp/B000SKK6H4/)*\, 
+    *[Philosophy of Science: A Contemporary Introduction](https://www.amazon.com/Philosophy-Science-Contemporary-Introduction-Introductions-ebook/dp/B0076XCV1A/)*\, and
+    *[The Atheist's Guide to Reality](https://www.amazon.com/Atheists-Guide-Reality-Enjoying-Illusions/dp/0393344118/)*\. [^AlexBooks]
 
 6.  **Owen Flanagan** - Philosopher.  Embraces Sellars' view that 
 
@@ -188,6 +208,20 @@ Participants introduce themselves
     TODO.
 
 
+[^SeanBooks]: @Carroll_2003_Spacetime_and_Geometry_An_Ontroduction_to_General\,
+    @Carroll_2010_From_Eternity_to_Here_The_Quest_for_the_Ultimate\, and
+    @Carroll_2012_The_Particle_at_the_End_of_the_Universe_How\.
+[^RichardBooks]: @Dawkins_1976_The_Selfish_Gene\,
+    @Dawkins_1986_The_Blind_Watchmaker\, and
+    @Dawkins_2006_The_God_Delusion\.
+[^DonBooks]: @Ross_2000_Dennetts_Philosophy_A_Comprehensive_Assessment\,
+    @Ross_2005_Economic_Theory_and_Cognitive_Science\,
+    @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, and 
+    @Ross_2010_What_Is_Addiction\.
+    Published after this workshop: @Ross_2013_Scientific_Metaphysics\.
+[^AlexBooks]: @Rosenberg_2008_Philosophy_of_Biology_A_Contemporary_Introduction\,
+    @Rosenberg_2011_The_Atheists_Guide_to_Reality\, and
+    @Rosenberg_2012_Philosophy_of_Science_A_Contemporary_Introduction\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Rosenberg2011]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
 
