@@ -1,0 +1,48 @@
+Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
+Ayer, A. J. (1952). *Language, truth and logic* (2 ed.). Dover Publications. [(Originally published in 1946)]
+Carnap, R. (1950). Empiricism, semantics, and ontology. *Revue Internationale de Philosophie*, 4, 20--40.
+Carnap, R. (1955). The logical foundations of the unity of science. In *International Encyclopedia of Unified Science: Volume I*. University of Chicago Press, 42--62.
+Carnap, R. (2003). *The Logical Structure of the World* (R.A. George, Trans.). Chicago: Open Court. [(Originally published in 1928 as \emph{Der logische Aufbau der Welt})]
+Carroll, S. (2003). *Spacetime and Geometry: An Ontroduction to General Relativity*. Pearson.
+Carroll, S. (2010). *From Eternity to Here: The Quest for the Ultimate Theory of Time*. Dutton.
+Carroll, S. (2012). *The Particle at the End of the Universe: How the Hunt for the Higgs Boson Leads Us to the Edge of a New World*. Penguin.
+Davidson, D. (2001). Knowing one's own mind. In *Subjective, Intersubjective, Objective* (pp. 15--38). Oxford University Press. [(Originally published in 1987 in \emph{Proceedings and Addresses of the American Philosophical Association}, 60, 441--458)]
+Dawkins, R. (1976). *The Selfish Gene*. Oxford University Press.
+Dawkins, R. (1986). *The Blind Watchmaker*. Norton.
+Dawkins, R. (2006). *The God Delusion*. Houghton Mifflin.
+DeDeo, S. (2010). Inductive game theory and the dynamics of animal conflict. *PLOS Computational Biology*, 6, 1000782. https://arxiv.org/abs/1006.5469
+DeDeo, S. (2011). Effective theories for circuits and automata. *Chaos*, 21, 037106. https://arxiv.org/abs/1106.5778
+Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
+Flanagan, O. (1991). *Varieties of Moral Personality: Ethics and Psychological Realism*. Harvard University Press.
+Flanagan, O. (1992). *Consciousness Reconsidered*. MIT Press.
+Flanagan, O. (2007). *The Really Hard Problem: Meaning in a Material World*. MIT Press.
+Flanagan, O. (2011). *The Bodhisattva's Brain: Buddhism Naturalized*. MIT Press.
+Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
+Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1781)]
+Khlentzos, D. (2011). Challenges to metaphysical realism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/realism-sem-challenge/
+Kuhn, T. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalised*. Oxford University Press.
+Ladyman, J. (2014). Structural realism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/structural-realism/
+Lewis, D. (1986). *Philosophical Papers II*. Oxford University Press.
+Newton, I. (2016). *The Principia: Mathematical Principles of Natural Philosophy* (I. Bernard Cohen and A. Whitman and J. Budenz, Trans.). University of California Press. [(Originally published in 1687)]
+Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*. Chicago University Press.
+Plato. (2000). *The Republic*. (G. Ferrari, Ed. & T. Griffith, Trans.). Cambridge University Press. [(Originally written ca. 380 BCE)]
+Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson and Co. [(Originally published in 1934 as \emph{Logik der Forschung})]
+Prado, I. (2006). Ionian Enchantment: A brief history of scientific naturalism. http://www.naturalism.org/history.htm
+Quine, W.V.O. (1951). Two Dogmas of Empiricism. *The Philosophical Review*, 60, 20--43.
+Rosenberg, A. (2008). *Philosophy of Biology: A Contemporary Introduction*. Routledge.
+Rosenberg, A. (2011). *The Atheist's Guide to Reality*. Norton.
+Rosenberg, A. (2012). *Philosophy of Science: A Contemporary Introduction*. Routledge.
+Ross, D. (2000). *Dennett's Philosophy: A Comprehensive Assessment*. MIT Press.
+Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. MIT Press.
+Ross, D. (2010). *What Is Addiction?* MIT Press.
+Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. Oxford University Press.
+Sellars, W. (1963). *Science, Perception, and Reality*. Atascadero, CA: Ridgeview Publishing Co.
+Sider, T. (2011). *Writing the Book of the World*. Oxford University Press.
+Tegmark, M. (2007). The Mathematical Universe. *Foundations of Physics*, 38, 101--150.
+Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
+van Fraassen, B. (1980). *The Scientific Image*. Oxford University Press.
+Weinberg, S. (1996). What is quantum field theory, and what did we think it is? *Conceptual foundations of quantum field theory: Proceedings, Symposium and Workshop, Boston, USA, March 1-3, 1996*. http://arxiv.org/abs/hep-th/9702027
+Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus* (C. K. Ogden, Trans.). London: Kegan Paul, Trench, Trubner & Co.
+Wittgenstein, L. (2009). *Philosophical Investigations* (4 ed.) (P. Hacker and J. Schulte, Eds. E. Anscombe and P. Hacker, Trans.). Wiley-Blackwell. [(Originally published in 1953)]
+Worrall, J. (1989). Structural realism: The best of both worlds? *Dialectica*, 43, 99--124.

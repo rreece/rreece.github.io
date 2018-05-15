@@ -8,7 +8,7 @@ Participants introduce themselves
 1.  **Nicholas Pritzker** - Investor worth $1.3 B, sponsored the event.
 
 2.  **Sean Carroll** - Conference organizer.  Physicist/cosmologist at Cal Tech.
-    Philosophy minor; philosophy grad course with John Rawls and Robert Nozick.
+    Philosophy minor; philosophy grad courses with John Rawls and Robert Nozick.
     Wishes he had written a book about atheism.
     Disagrees with Sam Harris that morality can be based on science.
     Compatibilist, but curious about free will.
@@ -17,6 +17,8 @@ Participants introduce themselves
     *[Spacetime and Geometry](https://www.amazon.com/Spacetime-Geometry-Introduction-General-Relativity/dp/9332571651/)*,
     and popular books: *[From Eternity to Here](https://www.amazon.com/Eternity-Here-Quest-Ultimate-Theory/dp/0452296544/)* 
     and *[The Particle at the End of the Universe](https://www.amazon.com/Particle-End-Universe-Higgs-Boson/dp/0142180300/)*. [^SeanBooks]
+
+    Sean blogs at [preposterousuniverse.com](http://www.preposterousuniverse.com/blog/).
 
 3.  **Richard Dawkins** - Oxford biologist.  If not naturalism then what?  Super-human
     is surely possible, but what would supernatural even mean?
@@ -74,8 +76,8 @@ Participants introduce themselves
 
 6.  **Owen Flanagan** - Philosopher.  Embraces Sellars' view that 
 
-    > Philosophy is the study of how things, conceived of in the broadest possible sense,
-    > hang together in the broadest possible sense.
+    >   The aim of philosophy, abstractly formulated, is to understand how things in 
+    >   the broadest possible sense of the term hang together in the broadest possible sense of the term.
 
     Grew up Catholic.  Studied with Quine and some of his students.
     The best philosophy is continuous with science.  Interested in consciousness and
@@ -91,8 +93,17 @@ Participants introduce themselves
     Free will is black hole in philosophy that other cultures avoid discussing.
     Also interested in *positive illusions* - are false beliefs always bad?
 
-7.  **Simon DeDeo** - Started in cosmology at U Chicago.  Studies complexity theory at the Sante Fe Inst.
-    Self-described platonist, functionalist.  Studies social systems with group theory.
+    Owen's books include
+    *[Varieties of Moral Personality: Ethics and Psychological Realism](https://www.amazon.com/Varieties-Moral-Personality-Psychological-Realism/dp/0674932196/)*,
+    *[Consciousness Reconsidered](https://www.amazon.com/Consciousness-Reconsidered-Press-Owen-Flanagan/dp/0262560771/)*,
+    *[The Really Hard Problem: Meaning in a Material World](https://www.amazon.com/Really-Hard-Problem-Meaning-Material/dp/0262512483/)*, and
+    *[The Bodhisattva's Brain: Buddhism Naturalized](https://www.amazon.com/Bodhisattvas-Brain-Buddhism-Naturalized-Press/dp/0262525208/)*. [^OwenBooks]
+
+7.  **Simon DeDeo** - Started in cosmology at U Chicago.  Studied with Hilary Putnam.
+    Studies complexity theory at the Sante Fe Inst.
+    Self-described platonist, functionalist.  Studies social systems with group theory. 
+
+    Simon doesn't have a book, but like others here, he has published several articles in peer reviewed journals. [^SimonArticles]
 
 8.  **Terrence Deacon** - Began college in physics.  Got interested cybernetics.
     Co-authored a 900 page book on the Apple-II computer.
@@ -191,6 +202,8 @@ Participants introduce themselves
     you can verify (insofar as you get accurate feedback from the kid) that their hunger subsides after feeding them;
     empirically improving your confidence in the information.
 
+    Jerry blogs at [whyevolutionistrue.wordpress.com](https://whyevolutionistrue.wordpress.com/).
+
 15. **Steven Weinberg** - Works in particle physics, QFT, and cosmology.
     One of the founders of the Standard Model.  Serious BAMF.
     Reality and naturalism:
@@ -222,8 +235,15 @@ Participants introduce themselves
 [^AlexBooks]: @Rosenberg_2008_Philosophy_of_Biology_A_Contemporary_Introduction\,
     @Rosenberg_2011_The_Atheists_Guide_to_Reality\, and
     @Rosenberg_2012_Philosophy_of_Science_A_Contemporary_Introduction\.
+[^OwenBooks]: @Flanagan_1991_Varieties_of_Moral_Personality_Ethics\, 
+    @Flanagan_1992_Consciousness_Reconsidered\,
+    @Flanagan_2007_The_Really_Hard_Problem_Meaning_in_a_Material\, and
+    @Flanagan_2011_The_Bodhisattvas_Brain_Buddhism_Naturalized\.
+[^SimonArticles]: For example, see @DeDeo_2010_Inductive_game_theory_and_the_dynamics_of_animal and
+    @DeDeo_2011_Effective_theories_for_circuits_and_automata\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Rosenberg2011]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
+[^Sellars1963]: @Sellars_1963_Science_Perception_and_Reality\, p. 1.
 
 
 <!-- REFERENCES -->
