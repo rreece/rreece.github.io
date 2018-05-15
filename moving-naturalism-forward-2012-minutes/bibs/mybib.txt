@@ -10,6 +10,8 @@ Davidson, D. (2001). Knowing one's own mind. In *Subjective, Intersubjective, Ob
 Dawkins, R. (1976). *The Selfish Gene*. Oxford University Press.
 Dawkins, R. (1986). *The Blind Watchmaker*. Norton.
 Dawkins, R. (2006). *The God Delusion*. Houghton Mifflin.
+Deacon, T. (1997). *The Symbolic Species: The Co-evolution of Language and the Brain*. Norton.
+Deacon, T. (2011). *Incomplete Nature: How Mind Emerged from Matter*. Norton.
 DeDeo, S. (2010). Inductive game theory and the dynamics of animal conflict. *PLOS Computational Biology*, 6, 1000782. https://arxiv.org/abs/1006.5469
 DeDeo, S. (2011). Effective theories for circuits and automata. *Chaos*, 21, 037106. https://arxiv.org/abs/1106.5778
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
@@ -17,6 +19,9 @@ Flanagan, O. (1991). *Varieties of Moral Personality: Ethics and Psychological R
 Flanagan, O. (1992). *Consciousness Reconsidered*. MIT Press.
 Flanagan, O. (2007). *The Really Hard Problem: Meaning in a Material World*. MIT Press.
 Flanagan, O. (2011). *The Bodhisattva's Brain: Buddhism Naturalized*. MIT Press.
+Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G{\"o}del*. Norton.
+Goldstein, R. (2006). *Betraying Spinoza: The Renegade Jew Who Gave Us Modernity*. Random House.
+Goldstein, R. (2015). *Plato at the Googleplex: Why Philosophy Won't Go Away*. Vintage Books.
 Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
 Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1781)]
 Khlentzos, D. (2011). Challenges to metaphysical realism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/realism-sem-challenge/

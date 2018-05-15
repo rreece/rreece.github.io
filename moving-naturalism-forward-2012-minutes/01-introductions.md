@@ -119,6 +119,10 @@ Participants introduce themselves
     Is still a functionalist, but thinks our theories of computation are not
     adequate to explain brains.
 
+    Terrence's books include
+    *[The Symbolic Species: The Co-evolution of Language and the Brain](https://www.amazon.com/Symbolic-Species-Co-evolution-Language-Brain/dp/0393317544/)* and
+    *[Incomplete Nature: How Mind Emerged from Matter](https://www.amazon.com/Incomplete-Nature-Mind-Emerged-Matter/dp/0393343901/)*. [^TerrenceBooks]
+
 9.  **Rebecca Goldstein** - Grew up in an orthodox Jewish home.
     As a child, read *Our Friend the Atom* and Bertrand Russell's *Why I am not a Christian*.
     Wanted to be a physicist.  Sydney Morganbesser convinced her to study philosophy of science.
@@ -132,6 +136,10 @@ Participants introduce themselves
     Thinks Godel's work leads to mathematical realism.
     Would like to believe that philosophy can make progress past people's intuitions,
     but isn't yet convinced.
+
+    Rebecca's books include:
+    *[Incompleteness: The Proof and Paradox of Kurt G&ouml;del](https://www.amazon.com/Incompleteness-Proof-Paradox-G%C3%B6del-Discoveries/dp/0393327604/)* and
+    *[Betraying Spinoza: The Renegade Jew Who Gave Us Modernity](https://www.amazon.com/Betraying-Spinoza-Renegade-Modernity-Encounters/dp/0805211594/)*. [^RebeccaBooks]
 
 10. **Daniel Dennett** - Philosopher at Tuft's. Quine was his hero and mentor.
     Didn't study any science originally, but realized he needed to know something about the
@@ -241,6 +249,11 @@ Participants introduce themselves
     @Flanagan_2011_The_Bodhisattvas_Brain_Buddhism_Naturalized\.
 [^SimonArticles]: For example, see @DeDeo_2010_Inductive_game_theory_and_the_dynamics_of_animal and
     @DeDeo_2011_Effective_theories_for_circuits_and_automata\.
+[^TerrenceBooks]: @Deacon_1997_The_Symbolic_Species_The_Co_evolution_of_Language and
+    @Deacon_2011_Incomplete_Nature_How_Mind_Emerged_from_Matter\.
+[^RebeccaBooks]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt and
+    @Goldstein_2006_Betraying_Spinoza_The_Renegade_Jew_Who_Gave_Us\.
+    Published after this workshop: @Goldstein_2015_Plato_at_the_Googleplex_Why_Philosophy_Wont_Go\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Rosenberg2011]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
 [^Sellars1963]: @Sellars_1963_Science_Perception_and_Reality\, p. 1.
