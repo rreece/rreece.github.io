@@ -233,10 +233,10 @@ Biological design is typically better than what engineers can achieve
 **Alex**
 
 The more you look into it, the more you realize how good the design is given the constraints.
+We could talk about that more, but moving on...
 
 The political implications of naturalism give me pause.
-
-On hearing one June afternoon in 1860 the suggestion that mankind was descended from the apes, 
+In 1860, on hearing the suggestion that mankind was descended from the apes, 
 the wife of the Bishop of Worcester is said to have exclaimed,
 
 >   My dear, descended from the apes! Let us hope it is not true, but if it is, 
@@ -254,7 +254,7 @@ I'm afraid the political implications of naturalism are a stick with which to be
 
 Leaving politics for now, and continuing on about design:
 
->   Blind variation and natural selection is the source of all adaptations in the biological realm,
+>   Blind variation and natural selection is, of course, the source of all adaptations in the biological realm,
 >   but my view is that it is also the source of all adaptations in the human and cultural realm,
 >   including all of the wonderful inventions and artifacts that we have produced.
 >   Blind variation and natural selection is the only process operating in the ontogeny
@@ -264,47 +264,77 @@ Leaving politics for now, and continuing on about design:
 
 **Dan**
 
-![Daniel Dennett.](img/dennett-1.jpg)
-
 >   Or that's design and it's just not a top-down designer.
 >   You see, what I think you are doing, and in a way, Richard too,
 >   is you are taking the folk ideology of design more seriously than you should.
->   Look, the term "atom" means "indivisible" in Greek.
->   So, we should say: There aren't any atoms? There aren't any atoms?
->   No! Instead, we said: Turns out, you can divide an atom.
-
-TODO: CONTINUE HERE
-
+>   Look, the term "atom" means indivisible in Greek.
+>   So, we should say: "Oh! There aren't any atoms. There aren't any atoms."?
+>   No! Instead, we said: "Turns out, you can divide an atom."
+>   ...
 >   I think it is an easier pedagogical task to convince people that there's design
 >   without a designer, design without an intelligent designer,
 >   than it is to convince them that there isn't any design.
 
-TODO...
+![Daniel Dennett.](img/dennett-1.jpg)
 
 **Alex**
 
-TODO...
+>   So, our objective should be to change everybody's conceptual economy
+>   while leaving the tokens that they use in everyday speech---changing the meanings of the words?
 
 **Dan**
 
-TODO...
+>   My design stance works exactly as well on biology as on any artifact.
+>   And, biology is, in my terms, reverse engineering---reverse engineering the biosphere.
+>   If it is reverse engineering, then the biologists are helping themselves
+>   to design concepts left, right, and center.
+>   And we should say: look, there's a perfectly naturalistic,
+>   non-intelligent-design sense of design that is everywhere evident in biology.
+>   ...
+>   What Darwin did is showed how to naturalize the concept of design.
+>   And, biologically generated design is not second-rate design.
 
->   What Darwin did is how to naturalize the concept of design.
+**Alex**
 
-Paley on the "Blind Watchmaker". [^WatchmakerAnalogy]
+>   It's the only kind of design.
 
-[^WatchmakerAnalogy]: TODO: Paley on the "[Blind Watchmaker](https://en.wikipedia.org/wiki/Watchmaker_analogy)".
+**Dan**
+
+>   It's the only kind of design... I agree about that too.
+
+All the things that people marvel about design is in evolutionary 
+design---the very things that Paley talks about. [^WatchmakerAnalogy]
+
+[^WatchmakerAnalogy]: See William Paley on the "[watchmaker analogy](https://en.wikipedia.org/wiki/Watchmaker_analogy)".
 
 **Jerry**
 
-TODO...
+>   What is politically incorrect about using the word "adaptation" instead of "design."
+>   It seems to me that the word "design" enables theism.
+>   So we should just replace it.
 
 **Dan**
 
-TODO...
+>   Notice that it is not a substantive debate.
+>   We all agree about the marvels of the biosphere,
+>   and we agree that there is a naturalistic explaination of them.
+>   The question is: should we be afraid that if we use the word "design"
+>   we are giving a hostage to the creationists and the intelligent designers?
+
+**Nicholas**
+
+>   I hope that you scientists aren't so concerned about politcal correctness
+>   and are concerned simply about clarity.
+>   Because I hope, we can figure out, even as laymen, if you are clear,
+>   how not to misconstrue what you are saying.
+>   I would urge that.
+>   Otherwise, you might actually muddy what you are saying,
+>   and that would be a shame.
 
 **(Ryan)**
-    
+
+TODO:
+
 -   Designs and designoids are both solutions.
 -   Biological design is not always better.
 -   I think Dan does a better job talking about design in [this talk](https://www.youtube.com/watch?v=AZX6awZq5Z0).
@@ -315,15 +345,15 @@ TODO...
     (Image credit: [thehumanevolutionblog.com](https://thehumanevolutionblog.com/2015/01/12/the-poor-design-of-the-human-eye/)).
     ](img/human-eye-backwards.jpg)
 
-**Nicholas**
-
-TODO...
+![](img/section-break.png)
 
 **Massimo**
 
-TODO...
+TODO: CONTINUE HERE
 
 -   Philip Anderson - "More is different"
+
+TODO...
 
 **Steven**
 
