@@ -573,17 +573,17 @@ TODO.
 Ryan's summary
 --------------------------------------------------------------------------------
 
--   Alex put out some provacative claims, including:
+1.  Alex put out some provacative claims, including:
     -   There is no teleology.
     -   The second law of thermodynamics generates the time asymmetries in physics.
         Further, all the asymmetries in physics are a result of the time asymmetries.
     -   The explanatory power of the special sciences are an epistemic thesis and
         not a metaphysical one, and represent cognitive limitations of humans 
         and no fundamental facts about the organization of reality.
--   In the last thesis about reductionism, Alex clearly goes too far.
+1.  In the last thesis about reductionism, Alex clearly goes too far.
     How ontologically eliminative should a naturalist be?
--   Steven defends the multi-level realist.
--   What is the metaphysics of abstract objects?
--   Some tangents on design and designoid
+1.  Steven defends the multi-level realist.
+1.  What is the metaphysics of abstract objects?
+1.  Some tangents on design and designoid
 
 
