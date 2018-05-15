@@ -247,7 +247,7 @@ the wife of the Bishop of Worcester is said to have exclaimed,
 I'm afraid the political implications of naturalism are a stick with which to beat naturalists.
 
 >   It would be great if someone could convince me that
->   the manifest image is reconcilable [with scientific image]
+>   the manifest image is reconcilable [with the scientific image]
 >   because that would make naturalism far more marketable.
 
 ![Alex Rosenberg, the maddog reductionist. (Image credit: [link](https://www.whyarewehere.tv/about-science/scientism/))](img/alex-scientism.jpg)
@@ -338,9 +338,9 @@ design---the very things that Paley talks about. [^WatchmakerAnalogy]
 -   It still seems useful to distinguish between preplanned and evolutionary design processes.
 -   Evolutionary design is not always better.
 -   I think Dan does a better job talking about design in 
-    [his talk at The Royal Institution](https://www.youtube.com/watch?v=AZX6awZq5Z0).
+    [his later talk at The Royal Institution](https://www.youtube.com/watch?v=AZX6awZq5Z0).
 -   We should have noted earlier that the Schr&ouml;dinger equation is
-    not only a mathematical statement,
+    not only a mathematical statement;
     it's an empirically verified physical law
     (or at least a confirmed regularity of nature).
     Weinberg will remind us of this later , below.
