@@ -3,8 +3,6 @@ Final thoughts
 
 *[Day 3, morning, 2nd session](https://www.youtube.com/watch?v=KhZPlD448SA&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL&index=9)*
 
-![The [Flammarion engraving](https://en.wikipedia.org/wiki/Flammarion_engraving).](img/flammarion_engraving.jpg)
-
 TODO...
 
 -   Massimo's blog posts on the workshop: [part 1](http://rationallyspeaking.blogspot.com/2012/10/from-naturalism-workshop-part-i.html),
