@@ -338,7 +338,7 @@ design---the very things that Paley talks about. [^WatchmakerAnalogy]
 -   It still seems useful to distinguish between *preplanned* and *evolutionary* design processes.
 -   Evolutionary design is not always better.
 -   I think Dan does a better job talking about design in 
-    [his later talk at The Royal Institution](https://www.youtube.com/watch?v=AZX6awZq5Z0).
+    his later [talk at The Royal Institution](https://www.youtube.com/watch?v=AZX6awZq5Z0).
 -   We should have noted earlier that the Schr&ouml;dinger equation is
     not only a mathematical statement;
     it's an empirically verified physical law
