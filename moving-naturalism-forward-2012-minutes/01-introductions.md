@@ -77,7 +77,7 @@ Participants introduce themselves
 6.  **Owen Flanagan** - Philosopher.  Embraces Sellars' view that 
 
     >   The aim of philosophy, abstractly formulated, is to understand how things in 
-    >   the broadest possible sense of the term hang together in the broadest possible sense of the term.
+    >   the broadest possible sense of the term hang together in the broadest possible sense of the term. [^Sellars1963]
 
     Grew up Catholic.  Studied with Quine and some of his students.
     The best philosophy is continuous with science.  Interested in consciousness and
