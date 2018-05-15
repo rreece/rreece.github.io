@@ -266,13 +266,14 @@ Leaving politics for now, and continuing on about design:
 
 ![Daniel Dennett.](img/dennett-1.jpg)
 
-TODO: CONTINUE HERE
-
 >   Or that's design and it's just not a top-down designer.
+>   You see, what I think you are doing, and in a way, Richard too,
+>   is you are taking the folk ideology of design more seriously than you should.
+>   Look, the term "atom" means "indivisible" in Greek.
+>   So, we should say: There aren't any atoms? There aren't any atoms?
+>   No! Instead, we said: Turns out, you can divide an atom.
 
->   Turns out, you can divide an atom.
-
-TODO...
+TODO: CONTINUE HERE
 
 >   I think it is an easier pedagogical task to convince people that there's design
 >   without a designer, design without an intelligent designer,
@@ -290,7 +291,7 @@ TODO...
 
 >   What Darwin did is how to naturalize the concept of design.
 
-(Ryan):
+**(Ryan)**
     
 -   Designs and designoids are both solutions.
 -   Biological design is not always better.
