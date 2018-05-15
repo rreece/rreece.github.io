@@ -24,8 +24,8 @@ Naturalism can trust two (three) features of physics to not change (despite poss
     The denial of purpose and goals in physics:
     no sucessor theory to the succession of theories since Newton
     is likely to include any scope for teleological causal processes.
-2.  *__Second law of thermodynamics__*: generates the time-asymmetries in physics.
-    Further, all the asymmetries in physics are a result of the time-asymmetries.
+2.  *__Second law of thermodynamics__*: generates the time asymmetries in physics.
+    Further, all the asymmetries in physics are a result of the time asymmetries.
     (**Ryan**: really? maybe.)
 3.  *__Reductionism__*: is a metaphysical thesis that denies downward causation; physics is causally closed.
     The explanatory power of the special sciences are an epistemic thesis and not
@@ -565,8 +565,8 @@ Ryan's summary
 
 -   Alex put out some provacative claims, including:
     -   There is no teleology.
-    -   The second law of thermodynamics generates the time-asymmetries in physics.
-        Further, all the asymmetries in physics are a result of the time-asymmetries.
+    -   The second law of thermodynamics generates the time asymmetries in physics.
+        Further, all the asymmetries in physics are a result of the time asymmetries.
     -   The explanatory power of the special sciences are an epistemic thesis and
         not a metaphysical one, and represent cognitive limitations of humans 
         and no fundamental facts about the organization of reality.
