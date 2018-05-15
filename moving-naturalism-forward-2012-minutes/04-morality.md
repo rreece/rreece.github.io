@@ -12,6 +12,17 @@ TODO.
 
 TODO.
 
-
 ![](img/move-naturalism-around-the-table-2.jpg)
+
+TODO.
+
+
+![](img/section-break.png)
+
+
+Ryan's summary
+--------------------------------------------------------------------------------
+
+-   TODO
+
 
