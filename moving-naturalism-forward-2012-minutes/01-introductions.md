@@ -90,7 +90,7 @@ Participants introduce themselves
     Tries to combat the issue that most Americans have trouble finding meaning in
     a naturalistic worldview.
     Also studies classical Chinese and Indian philosophy.
-    Free will is black hole in philosophy that other cultures avoid discussing.
+    Free will is a black hole in philosophy that other cultures avoid discussing.
     Also interested in *positive illusions* - are false beliefs always bad?
 
     Owen's books include
@@ -124,10 +124,10 @@ Participants introduce themselves
     *[Incomplete Nature: How Mind Emerged from Matter](https://www.amazon.com/Incomplete-Nature-Mind-Emerged-Matter/dp/0393343901/)*. [^TerrenceBooks]
 
 9.  **Rebecca Goldstein** - Grew up in an orthodox Jewish home.
-    As a child, read *Our Friend the Atom* and Bertrand Russell's *Why I am not a Christian*.
+    As a child, read *Our Friend the Atom* and Bertrand Russell's *Why I am not a Christian* [^Russell1957]\.
     Wanted to be a physicist.  Sydney Morganbesser convinced her to study philosophy of science.
     Went to Princeton to study philosophy.  Wanted to study foundations of quantum mechanics.
-    Then read Thomas Nagel's "What it is like to be a bat".
+    Then read Thomas Nagel's "What it is like to be a bat". [^Nagel1974]
     She is a materialist but fascinated by the mind-body problem.
     Was driven to write philosophical novels out of frustration of philosophy's dependence
     on character, intuitions, and presuppositions.
@@ -182,9 +182,15 @@ Participants introduce themselves
     Thinks that philosophy does make progress.
     Has a tattoo:
     
-    > Truth springs from argument amongst friends. -- Hume (Misattributed)
+    > Truth springs from argument amongst friends. -- Hume ([misattributed](https://en.wikiquote.org/wiki/David_Hume))
 
     Likes Ladyman and Ross' book which changed his mind about many things.
+
+    Massimo's books include:
+    *[Tales of the Rational](https://www.amazon.com/Tales-Rational-Skeptical-Essays-Science-ebook/dp/B008S1JP4U/)*\, 
+    *[Denying Evolution: Creationism, Scientism, and the Nature of Science](https://www.amazon.com/Denying-Evolution-Creationism-Scientism-Science/dp/0878936599/)*\, 
+    *[Making Sense of Evolution](https://www.amazon.com/Making-Sense-Evolution-Foundations-Evolutionary/dp/0226668371/)*\, and 
+    *[Nonsense on Stilts: How to Tell Science From Bunk](https://www.amazon.com/Nonsense-Stilts-Tell-Science-Bunk/dp/0226667863/)*\. [^MassimoBooks]
 
 12. **David Poeppel** - Undergrad in cell biology and linguistics.  Then worked
     as an actor before going to grad school.
@@ -194,8 +200,12 @@ Participants introduce themselves
     So far neuroscience has been successful at the "maps problem"
     making finer resolution maps of the brain, but not yet many conceptual advances.
 
-13. **Jennifer Oullet** - Science writer.  Recoiled from an evangelical religious family.
+    David doesn't have a book, but like others here, he has published several articles in peer reviewed journals. [^DavidArticles]
+
+13. **Jennifer Ouellette** - Science writer.  Recoiled from an evangelical religious family.
     Married to Sean Carroll.
+
+    Jennifer blogs at [twistedphysics.typepad.com](http://twistedphysics.typepad.com/)
 
 14. **Jerry Coyne** - Evolutionary biologist at U Chicago.
     Incompatiblist: consciousness and free will are an illusion, not meaning that they
@@ -212,16 +222,24 @@ Participants introduce themselves
     For example, if your kid tells you they are hungry,
     that's a way of knowing that is not science.
 
-    **(Ryan, the author of these notes)**: I disagree, it's still scientific: empirical and falsifiable.
+    **(Ryan, the author of these notes)**: When your kid says something, it's still scientific: empirical and falsifiable.
     You could ask your kid to repeat in case you mis-heard them;
     you could look closely to verify you aren't mis-identifying them;
     you can verify (insofar as you get accurate feedback from the kid) that their hunger subsides after feeding them;
     empirically improving your confidence in the information.
 
+    Jerry's books include
+    *[Speciation](https://www.amazon.com/Speciation-Jerry-Coyne/dp/0878930892/) and
+    *[Why Evolution Is True](https://www.amazon.com/Why-Evolution-True-Jerry-Coyne/dp/0143116649/). [^JerryBooks]
+
     Jerry blogs at [whyevolutionistrue.wordpress.com](https://whyevolutionistrue.wordpress.com/).
 
 15. **Steven Weinberg** - Works in particle physics, QFT, and cosmology.
-    One of the founders of the Standard Model.  Serious BAMF.
+    One of the founders of the Standard Model. [^Weinberg1967]
+    Serious BAMF.
+    Nobel laureate in physics in 1979 for his contributions with Abdus Salam and Sheldon Glashow
+    to the unification of the weak and electromagnetic forces.
+
     Reality and naturalism:
     
     > I'm all for them, but I'm not sure what they are.
@@ -232,6 +250,13 @@ Participants introduce themselves
 
     Confesses he has strong views on emergence, morality, and free will that are
     unlikely to change.
+
+    Steven's books include textbooks: 
+    *[The Quantum Theory of Fields, Vol 1-3](https://www.amazon.com/Quantum-Theory-Fields-Foundations/dp/0521670535/)* and
+    *[Cosmology](https://www.amazon.com/Cosmology-Steven-Weinberg/dp/0198526822/)*\,
+    and popular books:
+    *[The First Three Minutes](https://www.amazon.com/First-Three-Minutes-Modern-Universe/dp/0465024378/)* and
+    *[Dreams of a Final Theory](https://www.amazon.com/Dreams-Final-Theory-Scientists-Ultimate/dp/0679744088/)*\. [^StevenBooks]
 
 16. **Janna Levin** - (Introduced herself later in the day 1, afternoon, 1st session.)
     TODO.
@@ -267,9 +292,27 @@ Participants introduce themselves
     @Dennett_1995_Darwins_Dangerous_Idea_Evolution\, 
     @Dennett_2003_Freedom_Evolves\, and 
     @Dennett_2006_Breaking_the_Spell_Religion_as_a_Natural\.
+[^MassimoBooks]: @Pigliucci_2000_Tales_of_the_Rational\, 
+    @Pigliucci_2002_Denying_Evolution_Creationism_Scientism\, 
+    @Pigliucci_2006_Making_Sense_of_Evolution\, and 
+    @Pigliucci_2010_Nonsense_on_Stilts_How_to_Tell_Science_From_Bunk\.
+    Published after this workshop: @Pigliucci_2017_How_to_Be_a_Stoic_Using_Ancient_Philosophy\.
+[^DavidArticles]: For example, @Hickok_2007_The_cortical_organization_of_speech_perception and 
+    @Lau_2008_A_cortical_network_for_semantics_deconstructing\.
+[^JerryBooks]: @Coyne_2004_Speciation and @Coyne_2009_Why_Evolution_Is_True\.
+[^StevenBooks]: @Weinberg_1977_The_First_Three_Minutes\,
+    @Weinberg_1992_Dreams_of_a_Final_Theory\,
+    @Weinberg_1995_The_Quantum_Theory_of_Fields_Vol_1_Foundations\,
+    @Weinberg_1995_The_Quantum_Theory_of_Fields_Vol_2_Modern\,
+    @Weinberg_1996_What_is_quantum_field_theory_and_what_did_we\, 
+    @Weinberg_2000_The_Quantum_Theory_of_Fields_Vol_3_Supersymmetry\, and 
+    @Weinberg_2008_Cosmology\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Nagel1974]: @Nagel_1974_What_is_it_like_to_be_a_bat\.
 [^Rosenberg2011]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
+[^Russell1957]: @Russell_1957_Why_I_Am_Not_a_Christian_and_Other_Essays\.
 [^Sellars1963]: @Sellars_1963_Science_Perception_and_Reality\, p. 1.
+[^Weinberg1967]: @Weinberg_1967_A_model_of_leptons\.
 
 
 <!-- REFERENCES -->
