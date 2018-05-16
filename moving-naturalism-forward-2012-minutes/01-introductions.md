@@ -18,7 +18,7 @@ Participants introduce themselves
     and popular books: *[From Eternity to Here](https://www.amazon.com/Eternity-Here-Quest-Ultimate-Theory/dp/0452296544/)* 
     and *[The Particle at the End of the Universe](https://www.amazon.com/Particle-End-Universe-Higgs-Boson/dp/0142180300/)*. [^SeanBooks]
 
-    Sean blogs at [preposterousuniverse.com](http://www.preposterousuniverse.com/blog/).
+    Sean blogs at [preposterousuniverse.com](http://www.preposterousuniverse.com/blog/)
 
 3.  **Richard Dawkins** - Oxford biologist.  If not naturalism then what?  Super-human
     is surely possible, but what would supernatural even mean?
@@ -233,7 +233,7 @@ Participants introduce themselves
     *[Speciation](https://www.amazon.com/Speciation-Jerry-Coyne/dp/0878930892/) and
     *[Why Evolution Is True](https://www.amazon.com/Why-Evolution-True-Jerry-Coyne/dp/0143116649/). [^JerryBooks]
 
-    Jerry blogs at [whyevolutionistrue.wordpress.com](https://whyevolutionistrue.wordpress.com/).
+    Jerry blogs at [whyevolutionistrue.wordpress.com](https://whyevolutionistrue.wordpress.com/)
 
 15. **Steven Weinberg** - Works in particle physics, QFT, and cosmology.
     One of the founders of the Standard Model. [^Weinberg1967]
