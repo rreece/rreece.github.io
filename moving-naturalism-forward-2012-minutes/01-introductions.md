@@ -104,7 +104,7 @@ Participants introduce themselves
     Studies complexity theory at the Sante Fe Inst.
     Self-described platonist, functionalist.  Studies social systems with group theory. 
 
-    Simon doesn't have a book, but like others here, he has published several articles in peer reviewed journals. [^SimonArticles]
+    Simon doesn't have a book, but like others here, he has published several articles in peer-reviewed journals. [^SimonArticles]
 
 8.  **Terrence Deacon** - Began college in physics.  Got interested cybernetics.
     Co-authored a 900 page book on the Apple-II computer.
@@ -202,7 +202,7 @@ Participants introduce themselves
     So far neuroscience has been successful at the "maps problem"
     making finer resolution maps of the brain, but not yet many conceptual advances.
 
-    David doesn't have a book, but like others here, he has published several articles in peer reviewed journals. [^DavidArticles]
+    David doesn't have a book, but like others here, he has published several articles in peer-reviewed journals. [^DavidArticles]
 
 13. **Jennifer Ouellette** - Science writer.  Recoiled from an evangelical religious family.
     Married to Sean Carroll.

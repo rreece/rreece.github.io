@@ -444,7 +444,13 @@ TODO...
 
 >   We are the first reason representers.
 
-TODO: Gaudi and ant hills.
+TODO: termites vs Gaud&iacute;.
+
+![On the left is a termite mound, and on the right is Antoni Gaud&iacute;'s 
+    *[La Sagrada Familia](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia)*. 
+    Unlike the termite mound, the Gaud&iacute;'s work was built with a plan in mind. 
+    (Image credit: [link](https://geneticliteracyproject.org/2017/02/13/evolution-mind-termite-colonies-termites-models-human-brain/))
+    ](img/termites-vs-gaudi.jpg)
 
 I have a paper called "[The Evolution of Reasons](http://ase.tufts.edu/cogstud/dennett/papers/evolutionofreasons.pdf)" [^Dennett2014]
 

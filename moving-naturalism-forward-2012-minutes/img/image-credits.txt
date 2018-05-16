@@ -13,5 +13,7 @@ reductionism.png : http://philosophy-in-figures.tumblr.com/post/93712656521/redu
 sharris-1.png : http://www.sciencecartoonsplus.com/gallery/math/galmath2b.php
 sharris-6.png
 steve-and-alex.jpg : https://whyevolutionistrue.wordpress.com/2013/10/20/steven-weinberg-discusses-the-mysteries-of-physics/
+struktura-reshetka-kletka.jpg : https://www.goodfon.ru/download/struktura-reshetka-kletka/2560x1024/
 swampman-mandik.jpg : https://www.redbubble.com/people/petemandik/works/24183232-swampman
+termites-vs-gaudi.jpg : https://geneticliteracyproject.org/2017/02/13/evolution-mind-termite-colonies-termites-models-human-brain/
 vaucansons-digesting-duck.jpg : https://en.wikipedia.org/wiki/Digesting_Duck
