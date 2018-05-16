@@ -25,6 +25,12 @@ Aftermath discussions
 
 ![Daniel Dennett, Jerry Coyne, and Richard Dawkins. (Image credit: [whyevolutionistrue.wordpress.com](https://whyevolutionistrue.wordpress.com/2012/10/25/road-trip-with-the-boys/))](img/dennett-coyne-dawkins-road-trip.jpg)
 
+Other coverage:
+
+-   [apologeticsreview.com](http://www.apologeticsreview.com/2013/04/28/moving-naturalism-forward/)
+-   [forbes.com](https://www.forbes.com/sites/johnfarrell/2012/12/11/what-happens-when-you-lock-scientists-and-philosophers-in-a-room-together/)
+-   [medium.com/the-liturgical-legion](https://medium.com/the-liturgical-legion/why-im-a-nationalist-b90b618c8662)
+
 
 &nbsp;![](img/section-break.png)
 
