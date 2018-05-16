@@ -359,8 +359,8 @@ I want to go back to Alex's response, or lack thereof, to Don:
 Everything is just fermions and bosons,
 but that is not the interesting discussion.
 The interesting question is: 
-Are the laws of physics necessary and sufficient to derive 
-everything known in the special sciences?
+*Are the laws of physics necessary and sufficient to derive 
+everything known in the special sciences?*
 
 TODO: CONTINUE HERE
 
