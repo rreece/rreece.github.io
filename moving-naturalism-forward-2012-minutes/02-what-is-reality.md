@@ -355,6 +355,13 @@ design---the very things that Paley talks about. [^WatchmakerAnalogy]
 
 **[Massimo](https://www.youtube.com/watch?v=qeyBqxY3MsQ&feature=youtu.be&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL&t=3188)**
 
+I want to go back to Alex's response, or lack thereof, to Don:
+everything is just fermions and bosons,
+but that is not that the interesting discussion.
+The interesting question is: 
+Are the laws of physics necessary and sufficient to derive 
+everything known in the special sciences?
+
 TODO: CONTINUE HERE
 
 -   Philip Anderson - "More is different" [^Anderson1972]
@@ -374,6 +381,14 @@ TODO...
 **Steven**
 
 TODO...
+
+**Sean**
+
+>   They were here before us.
+
+**Steven**
+
+TODO.
 
 **Alex**
 
