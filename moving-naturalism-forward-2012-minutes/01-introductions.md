@@ -35,7 +35,7 @@ Participants introduce themselves
     ![*[Every Thing Must Go - Metaphysics Naturalized](https://www.amazon.com/Every-Thing-Must-Metaphysics-Naturalized/dp/0199573093/)*. [^Ladyman2007]
         ](img/ETMG.jpg)
 
-    I wrote *Every Thing Must Go* with James Ladyman as critical polemic against 
+    Wrote *Every Thing Must Go* with James Ladyman as a critical polemic against 
     metaphysics with pre-scientific views.
 
     > Philosophers, for the most part, analytic philosophers particularly, have failed to
