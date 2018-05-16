@@ -446,7 +446,7 @@ TODO...
 
 TODO: Gaudi and ant hills.
 
-I have a paper call the "[The Evolution of Reasons](http://ase.tufts.edu/cogstud/dennett/papers/evolutionofreasons.pdf)" [^Dennett2014]
+I have a paper called "[The Evolution of Reasons](http://ase.tufts.edu/cogstud/dennett/papers/evolutionofreasons.pdf)" [^Dennett2014]
 
 [^Dennett2014]: @Dennett_2014_The_Evolution_of_Reasons\.
 

@@ -10,7 +10,7 @@ Participants introduce themselves
 2.  **Sean Carroll** - Conference organizer.  Physicist/cosmologist at Cal Tech.
     Philosophy minor; philosophy grad courses with John Rawls and Robert Nozick.
     Wishes he had written a book about atheism.
-    Disagrees with Sam Harris that morality can be based on science.
+    Disagrees with Sam Harris that morality can be based on science. [^Harris2011]
     Compatibilist, but curious about free will.
 
     Sean's books include a textbook on general relativity: 
@@ -177,7 +177,7 @@ Participants introduce themselves
 11. **Massimo Pigliucci** - Started as an evolutionary biologist,
     studying gene-environment interactions,
     nature/nurture.  Midlife crisis lead him to move to NYC and get a second Ph.D. in philosophy.
-    Became a philosophy professor at CUNY.
+    Became a philosophy professor at CUNY thanks to a letter of support from Daniel Dennett.
     Science and philosophy do different things, but are both part of *scientia*.
     Interested in the demarcation problem.
     Thinks that philosophy does make progress.
@@ -185,7 +185,8 @@ Participants introduce themselves
     
     > Truth springs from argument amongst friends. -- Hume ([misattributed](https://en.wikiquote.org/wiki/David_Hume))
 
-    Likes Ladyman and Ross' book which changed his mind about many things.
+    Likes Ladyman and Ross' book, *Every Thing Must Go*, 
+    which changed his mind about many things.
 
     Massimo's books include:
     *[Tales of the Rational](https://www.amazon.com/Tales-Rational-Skeptical-Essays-Science-ebook/dp/B008S1JP4U/)*\, 
@@ -310,6 +311,7 @@ Participants introduce themselves
     @Weinberg_2008_Cosmology\.
 [^JannaBooks]: @Levin_2002_How_the_Universe_Got_Its_Spots and 
     @Levin_2006_A_Madman_Dreams_of_Turing_Machines\.
+[^Harris2011]: @Harris_2010_The_Moral_Landscape_How_Science_Can_Determine\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Nagel1974]: @Nagel_1974_What_is_it_like_to_be_a_bat\.
 [^Rosenberg2011]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.

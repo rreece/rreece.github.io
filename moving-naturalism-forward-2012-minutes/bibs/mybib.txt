@@ -20,7 +20,7 @@ Dennett, D.C. (2014). The Evolution of Reasons. In Bashour, B. & Muller, H.D. (E
 Dennett, D.C. (1984). *Elbow Room: The Varieties of Free Will Worth Wanting*. MIT Press.
 Dennett, D.C. (1992). *Consciousness Explained*. Back Bay Books.
 Dennett, D.C. (1995). *Darwin's Dangerous Idea: Evolution and the Meanings of Life*. Simon & Schuster.
-Dennett, D.C. (2003). *Freedom Evolves*. Viking Press.
+Dennett, D.C. (2003). *Freedom Evolves*. Viking.
 Dennett, D.C. (2006). *Breaking the Spell: Religion as a Natural Phenomenon*. Penguin.
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
 Flanagan, O. (1991). *Varieties of Moral Personality: Ethics and Psychological Realism*. Harvard University Press.
@@ -31,6 +31,7 @@ Goldstein, R. (1983). *The Mind-Body Problem*. Penguin.
 Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G{\"o}del*. Norton.
 Goldstein, R. (2006). *Betraying Spinoza: The Renegade Jew Who Gave Us Modernity*. Random House.
 Goldstein, R. (2015). *Plato at the Googleplex: Why Philosophy Won't Go Away*. Vintage Books.
+Harris, S. (2010). *The Moral Landscape: How Science Can Determine Human Values*. Free Press.
 Hickok, G., & Poeppel, D. (2007). The cortical organization of speech perception. *Nature Reviews Neuroscience*, 8, 393--402.
 Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
 Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1781)]
