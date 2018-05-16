@@ -222,7 +222,8 @@ Participants introduce themselves
     For example, if your kid tells you they are hungry,
     that's a way of knowing that is not science.
 
-    **(Ryan, the author of these notes)**: When your kid says something, it's still scientific: empirical and falsifiable.
+    **(Ryan, the author of these notes)**: When your kid says something, it's still scientific
+    insofar as it's a rough mix of being empirical/verifiable/falsifiable.
     You could ask your kid to repeat in case you mis-heard them;
     you could look closely to verify you aren't mis-identifying them;
     you can verify (insofar as you get accurate feedback from the kid) that their hunger subsides after feeding them;
@@ -259,7 +260,7 @@ Participants introduce themselves
     *[Dreams of a Final Theory](https://www.amazon.com/Dreams-Final-Theory-Scientists-Ultimate/dp/0679744088/)*\. [^StevenBooks]
 
 16. **Janna Levin** - (Introduced herself later in the day 1, afternoon, 1st session.)
-    TODO.
+    TODO. [^JannaBooks]
 
 
 [^SeanBooks]: @Carroll_2003_Spacetime_and_Geometry_An_Ontroduction_to_General\,
@@ -304,9 +305,10 @@ Participants introduce themselves
     @Weinberg_1992_Dreams_of_a_Final_Theory\,
     @Weinberg_1995_The_Quantum_Theory_of_Fields_Vol_1_Foundations\,
     @Weinberg_1995_The_Quantum_Theory_of_Fields_Vol_2_Modern\,
-    @Weinberg_1996_What_is_quantum_field_theory_and_what_did_we\, 
     @Weinberg_2000_The_Quantum_Theory_of_Fields_Vol_3_Supersymmetry\, and 
     @Weinberg_2008_Cosmology\.
+[^JannaBooks]: @Levin_2002_How_the_Universe_Got_Its_Spots and 
+    @Levin_2006_A_Madman_Dreams_of_Turing_Machines\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Nagel1974]: @Nagel_1974_What_is_it_like_to_be_a_bat\.
 [^Rosenberg2011]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
