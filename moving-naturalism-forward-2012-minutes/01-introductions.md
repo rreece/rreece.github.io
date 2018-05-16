@@ -263,7 +263,7 @@ Participants introduce themselves
     TODO. [^JannaBooks]
 
 
-[^SeanBooks]: @Carroll_2003_Spacetime_and_Geometry_An_Ontroduction_to_General\,
+[^SeanBooks]: @Carroll_2003_Spacetime_and_Geometry_An_Introduction_to_General\,
     @Carroll_2010_From_Eternity_to_Here_The_Quest_for_the_Ultimate\, and
     @Carroll_2012_The_Particle_at_the_End_of_the_Universe_How\.
 [^RichardBooks]: @Dawkins_1976_The_Selfish_Gene\,

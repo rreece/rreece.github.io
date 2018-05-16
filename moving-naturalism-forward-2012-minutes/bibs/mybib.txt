@@ -3,7 +3,7 @@ Ayer, A. J. (1952). *Language, truth and logic* (2 ed.). Dover Publications. [(O
 Carnap, R. (1950). Empiricism, semantics, and ontology. *Revue Internationale de Philosophie*, 4, 20--40.
 Carnap, R. (1955). The logical foundations of the unity of science. In *International Encyclopedia of Unified Science: Volume I*. University of Chicago Press, 42--62.
 Carnap, R. (2003). *The Logical Structure of the World* (R.A. George, Trans.). Chicago: Open Court. [(Originally published in 1928 as \emph{Der logische Aufbau der Welt})]
-Carroll, S. (2003). *Spacetime and Geometry: An Ontroduction to General Relativity*. Pearson.
+Carroll, S. (2003). *Spacetime and Geometry: An Introduction to General Relativity*. Pearson.
 Carroll, S. (2010). *From Eternity to Here: The Quest for the Ultimate Theory of Time*. Dutton.
 Carroll, S. (2012). *The Particle at the End of the Universe: How the Hunt for the Higgs Boson Leads Us to the Edge of a New World*. Penguin.
 Coyne, J. (2004). *Speciation*. Sinauer.
