@@ -14,11 +14,17 @@ Deacon, T. (1997). *The Symbolic Species: The Co-evolution of Language and the B
 Deacon, T. (2011). *Incomplete Nature: How Mind Emerged from Matter*. Norton.
 DeDeo, S. (2010). Inductive game theory and the dynamics of animal conflict. *PLOS Computational Biology*, 6, 1000782. https://arxiv.org/abs/1006.5469
 DeDeo, S. (2011). Effective theories for circuits and automata. *Chaos*, 21, 037106. https://arxiv.org/abs/1106.5778
+Dennett, D.C. (1984). *Elbow Room: The Varieties of Free Will Worth Wanting*. MIT Press.
+Dennett, D.C. (1992). *Consciousness Explained*. Back Bay Books.
+Dennett, D.C. (1995). *Darwin's Dangerous Idea: Evolution and the Meanings of Life*. Simon & Schuster.
+Dennett, D.C. (2003). *Freedom Evolves*. Viking Press.
+Dennett, D.C. (2006). *Breaking the Spell: Religion as a Natural Phenomenon*. Penguin.
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
 Flanagan, O. (1991). *Varieties of Moral Personality: Ethics and Psychological Realism*. Harvard University Press.
 Flanagan, O. (1992). *Consciousness Reconsidered*. MIT Press.
 Flanagan, O. (2007). *The Really Hard Problem: Meaning in a Material World*. MIT Press.
 Flanagan, O. (2011). *The Bodhisattva's Brain: Buddhism Naturalized*. MIT Press.
+Goldstein, R. (1983). *The Mind-Body Problem*. Penguin.
 Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G{\"o}del*. Norton.
 Goldstein, R. (2006). *Betraying Spinoza: The Renegade Jew Who Gave Us Modernity*. Random House.
 Goldstein, R. (2015). *Plato at the Googleplex: Why Philosophy Won't Go Away*. Vintage Books.

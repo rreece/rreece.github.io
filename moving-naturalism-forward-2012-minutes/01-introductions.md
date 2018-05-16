@@ -138,7 +138,8 @@ Participants introduce themselves
     but isn't yet convinced.
 
     Rebecca's books include:
-    *[Incompleteness: The Proof and Paradox of Kurt G&ouml;del](https://www.amazon.com/Incompleteness-Proof-Paradox-G%C3%B6del-Discoveries/dp/0393327604/)* and
+    *[The Mind Body Problem](https://www.amazon.com/Mind-Body-Problem-Contemporary-American-Fiction/dp/0140172459/)*\,
+    *[Incompleteness: The Proof and Paradox of Kurt G&ouml;del](https://www.amazon.com/Incompleteness-Proof-Paradox-G%C3%B6del-Discoveries/dp/0393327604/)*\, and
     *[Betraying Spinoza: The Renegade Jew Who Gave Us Modernity](https://www.amazon.com/Betraying-Spinoza-Renegade-Modernity-Encounters/dp/0805211594/)*. [^RebeccaBooks]
 
 10. **Daniel Dennett** - Philosopher at Tuft's. Quine was his hero and mentor.
@@ -160,6 +161,13 @@ Participants introduce themselves
     Concerning the manifest/scientific image, in one sense there is no color,
     but if you call the front desk and say there is no color TV in your hotel room,
     they will know what you mean.
+
+    Dan's books include
+    *[Consciousness Explained](https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661/)*\, 
+    *[Darwin's Dangerous Idea: Evolution and the Meanings of Life](https://www.amazon.com/DARWINS-DANGEROUS-IDEA-EVOLUTION-MEANINGS/dp/068482471X/)*\, 
+    *[Freedom Evolves](https://www.amazon.com/Freedom-Evolves-Daniel-C-Dennett/dp/0142003840/)*\, and
+    *[Breaking the Spell: Religion as a Natural Phenomenon](https://www.amazon.com/Breaking-Spell-Religion-Natural-Phenomenon/dp/0143038338/)*\. [^DanBooks]
+
 
 --------------------------------------------------------------------------------
 
@@ -251,9 +259,14 @@ Participants introduce themselves
     @DeDeo_2011_Effective_theories_for_circuits_and_automata\.
 [^TerrenceBooks]: @Deacon_1997_The_Symbolic_Species_The_Co_evolution_of_Language and
     @Deacon_2011_Incomplete_Nature_How_Mind_Emerged_from_Matter\.
-[^RebeccaBooks]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt and
+[^RebeccaBooks]: @Goldstein_1983_The_Mind_Body_Problem\,
+    @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\, and
     @Goldstein_2006_Betraying_Spinoza_The_Renegade_Jew_Who_Gave_Us\.
     Published after this workshop: @Goldstein_2015_Plato_at_the_Googleplex_Why_Philosophy_Wont_Go\.
+[^DanBooks]: @Dennett_1992_Consciousness_Explained\, 
+    @Dennett_1995_Darwins_Dangerous_Idea_Evolution\, 
+    @Dennett_2003_Freedom_Evolves\, and 
+    @Dennett_2006_Breaking_the_Spell_Religion_as_a_Natural\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Rosenberg2011]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
 [^Sellars1963]: @Sellars_1963_Science_Perception_and_Reality\, p. 1.
