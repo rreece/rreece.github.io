@@ -22,3 +22,12 @@ TODO...
 ![Daniel Dennett, Jerry Coyne, and Richard Dawkins. (Image credit: [whyevolutionistrue.wordpress.com](https://whyevolutionistrue.wordpress.com/2012/10/25/road-trip-with-the-boys/))](img/dennett-coyne-dawkins-road-trip.jpg)
 
 
+&nbsp;![](img/section-break.png)
+
+
+Ryan's summary
+--------------------------------------------------------------------------------
+
+1.  TODO
+
+

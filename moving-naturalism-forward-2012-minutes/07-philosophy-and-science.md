@@ -9,3 +9,13 @@ Philosophy and science
 
 TODO...
 
+
+&nbsp;![](img/section-break.png)
+
+
+Ryan's summary
+--------------------------------------------------------------------------------
+
+1.  TODO
+
+
