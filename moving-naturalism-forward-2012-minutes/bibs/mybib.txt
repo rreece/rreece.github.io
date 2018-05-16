@@ -8,7 +8,7 @@ Carroll, S. (2010). *From Eternity to Here: The Quest for the Ultimate Theory of
 Carroll, S. (2012). *The Particle at the End of the Universe: How the Hunt for the Higgs Boson Leads Us to the Edge of a New World*. Penguin.
 Coyne, J. (2004). *Speciation*. Sinauer.
 Coyne, J. (2009). *Why Evolution Is True*. Viking.
-Davidson, D. (2001). Knowing one's own mind. In *Subjective, Intersubjective, Objective* (pp. 15--38). Oxford University Press. [(Originally published in 1987 in \emph{Proceedings and Addresses of the American Philosophical Association}, 60, 441--458)]
+Davidson, D. (2001). Knowing one's own mind. In *Subjective, Intersubjective, Objective* (pp. 15--38). Oxford University Press. https://www.jstor.org/stable/3131782 [(Originally published in 1987 in \emph{Proceedings and Addresses of the American Philosophical Association}, 60, 441--458)]
 Dawkins, R. (1976). *The Selfish Gene*. Oxford University Press.
 Dawkins, R. (1986). *The Blind Watchmaker*. Norton.
 Dawkins, R. (2006). *The God Delusion*. Houghton Mifflin.
