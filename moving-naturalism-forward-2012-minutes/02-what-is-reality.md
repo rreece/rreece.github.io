@@ -356,7 +356,7 @@ design---the very things that Paley talks about. [^WatchmakerAnalogy]
 **[Massimo](https://www.youtube.com/watch?v=qeyBqxY3MsQ&feature=youtu.be&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL&t=3188)**
 
 I want to go back to Alex's response, or lack thereof, to Don:
-everything is just fermions and bosons,
+Everything is just fermions and bosons,
 but that is not that the interesting discussion.
 The interesting question is: 
 Are the laws of physics necessary and sufficient to derive 
