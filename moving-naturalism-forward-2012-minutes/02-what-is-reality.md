@@ -370,6 +370,10 @@ TODO: CONTINUE HERE
 
 TODO...
 
+![A flock of birds exhibiting swarm behaviour. 
+    (Image credit: [link](https://www.howitworksdaily.com/why-do-birds-flock-together/))
+    ](img/birds-swarm.jpg)
+
 **Steven**
 
 TODO...

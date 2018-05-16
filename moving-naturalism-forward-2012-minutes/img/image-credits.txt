@@ -1,5 +1,5 @@
 alex-scientism.jpg : https://www.whyarewehere.tv/about-science/scientism/
-atheists-guide-to-reality.jpg
+birds-swarm.jpg : https://www.howitworksdaily.com/why-do-birds-flock-together/
 carroll-standard-model-action.jpg : http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/
 dennett-coyne-dawkins-road-trip.jpg : https://whyevolutionistrue.wordpress.com/2012/10/25/road-trip-with-the-boys/
 flammarion_engraving.jpg
