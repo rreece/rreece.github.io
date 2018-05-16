@@ -357,7 +357,7 @@ design---the very things that Paley talks about. [^WatchmakerAnalogy]
 
 I want to go back to Alex's response, or lack thereof, to Don:
 Everything is just fermions and bosons,
-but that is not that the interesting discussion.
+but that is not the interesting discussion.
 The interesting question is: 
 Are the laws of physics necessary and sufficient to derive 
 everything known in the special sciences?
