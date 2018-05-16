@@ -605,6 +605,8 @@ Ryan's summary
 1.  Steven defends the multi-level realist.
 1.  What is the metaphysics of abstract objects?
 1.  Some tangents on design and designoid
+1.  Are the laws of physics necessary and sufficient to derive 
+    everything known in the special sciences?
 
 
 [^Davidson2001]: @Davidson_2001_Knowing_ones_own_mind\.
