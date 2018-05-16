@@ -51,6 +51,7 @@ Participants introduce themselves
     What if we take real physics seriously?
     What about the special sciences?
     Science should provide us with a general worldview.
+
     Runs an experimental economics lab at the U of Capetown.
     Would like to change his mind about the philosophy of mathematics
     since he changes it often.
