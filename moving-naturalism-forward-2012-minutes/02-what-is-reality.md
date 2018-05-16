@@ -145,7 +145,7 @@ the thought experiment called "[Swampman](https://en.wikipedia.org/wiki/Swampman
 **Steven**
 
 I suppose you would say The Constitution of the United States,
-not the paper its printed on but the ideas it represents,
+not the paper it's printed on but the ideas it represents,
 is real because it exists in the brains of people.
 
 **Alex**
