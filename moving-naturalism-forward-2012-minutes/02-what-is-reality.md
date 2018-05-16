@@ -353,7 +353,7 @@ design---the very things that Paley talks about. [^WatchmakerAnalogy]
 
 --------------------------------------------------------------------------------
 
-**Massimo**
+**[Massimo](https://www.youtube.com/watch?v=qeyBqxY3MsQ&feature=youtu.be&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL&t=3188)**
 
 TODO: CONTINUE HERE
 
@@ -407,7 +407,7 @@ TODO...
 
 --------------------------------------------------------------------------------
 
-**Richard**
+**[Richard](https://www.youtube.com/watch?v=qeyBqxY3MsQ&feature=youtu.be&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL&t=3614)**
 
 TODO...
 
@@ -427,7 +427,9 @@ TODO...
 
 TODO: Gaudi and ant hills.
 
-[The Evolution of Reasons](http://ase.tufts.edu/cogstud/dennett/papers/evolutionofreasons.pdf)
+I have a paper call the "[The Evolution of Reasons](http://ase.tufts.edu/cogstud/dennett/papers/evolutionofreasons.pdf)" [^Dennett2014]
+
+[^Dennett2014]: @Dennett_2014_The_Evolution_of_Reasons\.
 
 >   What is this for?
 

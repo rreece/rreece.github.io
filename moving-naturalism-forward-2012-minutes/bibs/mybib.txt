@@ -16,6 +16,7 @@ DeDeo, S. (2010). Inductive game theory and the dynamics of animal conflict. *PL
 DeDeo, S. (2011). Effective theories for circuits and automata. *Chaos*, 21, 037106. https://arxiv.org/abs/1106.5778
 Deacon, T. (1997). *The Symbolic Species: The Co-evolution of Language and the Brain*. Norton.
 Deacon, T. (2011). *Incomplete Nature: How Mind Emerged from Matter*. Norton.
+Dennett, D.C. (2014). The Evolution of Reasons. In Bashour, B. & Muller, H.D. (Eds.) *Contemporary Philosophical Naturalism and Its Implications* (pp. 47--62). Routledge. http://ase.tufts.edu/cogstud/dennett/papers/evolutionofreasons.pdf
 Dennett, D.C. (1984). *Elbow Room: The Varieties of Free Will Worth Wanting*. MIT Press.
 Dennett, D.C. (1992). *Consciousness Explained*. Back Bay Books.
 Dennett, D.C. (1995). *Darwin's Dangerous Idea: Evolution and the Meanings of Life*. Simon & Schuster.
