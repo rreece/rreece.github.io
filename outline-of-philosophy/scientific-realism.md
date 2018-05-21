@@ -197,11 +197,11 @@ All statements that can't be empirically verified are meaningless.
 -   verificationism, nominalism, quietism
 -   G&#246;del
 -   Russel, 
+-   *The Logical Structure of the World* [^Carnap1928]
+-   Scheinproblem = Pseudo-problem
+-   *The Logical Syntax of Language* [^Carnap1937]
 -   Carnap's "ESO" [^Carnap1950]
 -   Carnap's "Logical Foundations of Science" [^Carnap1955]
--   Scheinproblem = Pseudo-problem
--   *The Logical Structure of the World* [^Carnap1928]
--   *The Logical Syntax of Language* [^Carnap1937]
 -   LSL in a nutshell [^Fowler2010]
 
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
