@@ -31,11 +31,17 @@ Issues and positions
     -   [Hamilton, William Rowan (1805-1865)](http://en.wikipedia.org/wiki/William_Rowan_Hamilton)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
     -   [Noether, Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
--   Symmetry-first physics
-    -   Principle of least action
-    -   Canonical dynamics
-    -   Curie's principle
-    -   Noether's theorem
+
+
+### Symmetry-first physics
+
+-   Principle of least action
+-   Canonical dynamics
+-   Curie's principle
+-   Noether's theorem
+-   group theory [^tHooft2007]
+
+[^tHooft2007]: @tHooft_2007_Lie_Groups_in_Physics\.
 
 
 ### Statistical physics

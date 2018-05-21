@@ -125,6 +125,12 @@ Alex Rosenberg is a mad dog against emergence. Video:
     TODO: Actually, I haven't found this yet.
     See also @Leibniz_1951_The_Art_of_Discovery, p. 51.
 
+Fundamentality:
+
+-   Ney [^Ney2018]
+
+[^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
+
 
 ### Rejection of *a priori* metaphysics
 
