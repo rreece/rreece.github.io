@@ -195,11 +195,20 @@ All statements that can't be empirically verified are meaningless.
 -   @Ayer_1952_Language_truth_and_logic\. *Language, Truth, and Logic*.
 -   Hans Reichenbach (1891-1953)
 -   verificationism, nominalism, quietism
--   Russel, G&#246;del
--   Carnap's "ESO"[^Carnap-1950]
--   Quine's "Two Dogmas"[^Quine-1951]
--   Carnap's "Logical Foundations of Science"[^Carnap-1955]
+-   G&#246;del
+-   Russel, 
+-   Carnap's "ESO" [^Carnap1950]
+-   Carnap's "Logical Foundations of Science" [^Carnap1955]
 -   Scheinproblem = Pseudo-problem
+-   *The Logical Structure of the World* [^Carnap1928]
+-   *The Logical Syntax of Language* [^Carnap1937]
+-   LSL in a nutshell [^Fowler2010]
+
+[^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
+[^Carnap1937]: @Carnap_1937_Logical_Syntax_of_Language\.
+[^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
+[^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
+[^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 
 Note any differences between:
 
@@ -251,6 +260,7 @@ Google gives -- Logical positivism: a form of positivism, developed by members o
 -   Popper
 -   *falsifiability* over *verifiability*
 -   Willard Van Orman Quine (1908-2000)
+-   Quine's "Two Dogmas"[^Quine-1951]
 -   Duhem-Quine thesis
 
 The "death" of positivism:
@@ -1009,9 +1019,7 @@ Links and encyclopedia articles
 -   [Mumford, Stephen (2015). Relations All The Way Down? (Against) Ontic Structural Realism](https://www.youtube.com/watch?v=4EeOhf1GG-M)
 
 
-[^Carnap-1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Quine-1951]: @Quine_1951_Two_Dogmas_of_Empiricism\.
-[^Carnap-1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
 [^Popper-1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
 [^Kuhn-1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
 [^van-Fraassen-1980]: @vanFraassen_1980_The_Scientific_Image\.
