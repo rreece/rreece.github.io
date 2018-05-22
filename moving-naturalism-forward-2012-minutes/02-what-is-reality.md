@@ -174,7 +174,7 @@ I agree, and several others have pointed out, the ontology of mathematical relat
 
 **(Ryan)**
 
-Not sure, but what I think what Terrence is getting at is that
+Not sure, but what I think Terrence is getting at is that
 Alex's skepticism about higher ontology and the manifest image
 can be seen as being analogous to Descartes' radical skepticism about information from his empirical senses.
 I'm assuming he's implying that a more thorough reflection (in the scientific realist sense)
