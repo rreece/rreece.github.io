@@ -131,9 +131,9 @@ Contact
 
 --------------------------------------------------------------------------------
 
--   <i class="far fa-file-alt"></i>&nbsp;&nbsp;[publications](publications/)
--   <i class="far fa-save"></i>&nbsp;&nbsp;[software](sw/)
--   <i class="far far fa-file-pdf"></i>&nbsp;&nbsp;[talks](talks/)
--   <i class="fas fa-chess-pawn"></i>&nbsp;&nbsp;[chess notes](chess-notes/)
+&nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-file-alt"></i>&nbsp;&nbsp;[publications](publications/)         
+&nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-save"></i>&nbsp;&nbsp;[software](sw/)         
+&nbsp;&nbsp;&nbsp;&nbsp;<i class="far far fa-file-pdf"></i>&nbsp;&nbsp;[talks](talks/)         
+&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-chess-pawn"></i>&nbsp;&nbsp;[chess notes](chess-notes/)         
 
 

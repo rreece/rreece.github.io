@@ -207,8 +207,8 @@ Other outreach talks
 
 --------------------------------------------------------------------------------
 
--   <i class="fas fa-home"></i>&nbsp;&nbsp;[home](../)
--   <i class="far fa-file-alt"></i>&nbsp;&nbsp;[publications](../publications/)
--   <i class="far fa-save"></i>&nbsp;&nbsp;[software](../sw/)
+&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-home"></i>&nbsp;&nbsp;[home](../)            
+&nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-file-alt"></i>&nbsp;&nbsp;[publications](../publications/)            
+&nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-save"></i>&nbsp;&nbsp;[software](../sw/)            
 
 
