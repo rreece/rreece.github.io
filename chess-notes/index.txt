@@ -30,6 +30,6 @@ Links
 
 -   <i class="fas fa-home"></i>&nbsp;&nbsp;[home](../)
 -   <i class="far fa-file-alt"></i>&nbsp;&nbsp;[publications](../publications/)
--   <i class="far fa-comment-alt"></i>&nbsp;&nbsp;[talks](../talks/)
+-   <i class="far far fa-file-pdf"></i>&nbsp;&nbsp;[talks](../talks/)
 -   <i class="far fa-save"></i>&nbsp;&nbsp;[software](../sw/)
 
