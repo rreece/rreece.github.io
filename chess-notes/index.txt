@@ -28,6 +28,8 @@ Links
 
 --------------------------------------------------------------------------------
 
+Site navigation:
+
 &nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-home"></i>&nbsp;&nbsp;[home](../)             
 &nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-file-alt"></i>&nbsp;&nbsp;[publications](../publications/)             
 &nbsp;&nbsp;&nbsp;&nbsp;<i class="far far fa-file-pdf"></i>&nbsp;&nbsp;[talks](../talks/)             
