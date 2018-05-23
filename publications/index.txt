@@ -347,3 +347,10 @@ You won't have access to these unless you are a member of ATLAS.
 </div> <!-- end clickmore -->
 
 
+--------------------------------------------------------------------------------
+
+-   <i class="fas fa-home"></i>&nbsp;&nbsp;[home](../)
+-   <i class="far fa-save"></i>&nbsp;&nbsp;[software](../sw/)
+-   <i class="far far fa-file-pdf"></i>&nbsp;&nbsp;[talks](../talks/)
+
+

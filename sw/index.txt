@@ -196,3 +196,10 @@ Repo: [github.com/rreece/rootnotes](https://github.com/rreece/rootnotes)
 Created: Nov 8, 2016
 
 
+--------------------------------------------------------------------------------
+
+-   <i class="fas fa-home"></i>&nbsp;&nbsp;[home](../)
+-   <i class="far fa-file-alt"></i>&nbsp;&nbsp;[publications](../publications/)
+-   <i class="far far fa-file-pdf"></i>&nbsp;&nbsp;[talks](../talks/)
+
+

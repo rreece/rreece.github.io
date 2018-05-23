@@ -205,3 +205,10 @@ Other outreach talks
     and are connected to deep questions about relativity and astrophysics.
 
 
+--------------------------------------------------------------------------------
+
+-   <i class="fas fa-home"></i>&nbsp;&nbsp;[home](../)
+-   <i class="far fa-file-alt"></i>&nbsp;&nbsp;[publications](publications/)
+-   <i class="far fa-save"></i>&nbsp;&nbsp;[software](sw/)
+
+
