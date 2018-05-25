@@ -40,7 +40,9 @@ Issues and positions
 -   Curie's principle
 -   Noether's theorem
 -   group theory [^tHooft2007]
+-   *Physics from Symmetry* [^Schwichtenberg2015]
 
+[^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^tHooft2007]: @tHooft_2007_Lie_Groups_in_Physics\.
 
 
@@ -369,7 +371,6 @@ Annotated bibliography
 
 -   [Aaronson, S. (2015). "Bell inequality violation finally done right."](http://www.scottaaronson.com/blog/?p=2464)
 -   [Hensen, B. et al. (2015). "Experimental loophole-free violation of a Bell inequality using entangled electron spins separated by 1.3 km."](http://arxiv.org/abs/1508.05949)
--   @Schwichtenberg_2015_Physics_from_Symmetry
 
 
 Links and encyclopedia articles
