@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="R. Reece and J. Coauthor" />
-  <meta name="date" content="Wed May 09, 2018" />
+  <meta name="date" content="Sun May 27, 2018" />
   <title>Markdown basics - markdown-memo example document</title>
   <meta name="keywords" content="academic writing, blogging, digital humanities, LaTeX, Markdown, open publishing, open science, productivity, technical writing, typesetting, writing" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo.css"/>
@@ -23,7 +23,7 @@
 </script>
 
 <!--- MathJax stuff -->
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
 </script>
@@ -207,9 +207,12 @@ this.</p>
 -   $\textsf{This works though!}$
 -   $\textsc{But this does not!}$</code></pre>
 <h2 id="sec:links-and-labels">Links and labels</h2>
-<p>URLs are done like this:</p>
+<p>Links to URLs are done like this:</p>
 <pre><code>[Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)</code></pre>
 <p><a href="https://en.wikipedia.org/wiki/Lorem_ipsum">Lorem ipsum</a></p>
+<p>or used directly like this:</p>
+<pre><code>&lt;https://www.google.com&gt;</code></pre>
+<p><a href="https://www.google.com" class="uri">https://www.google.com</a></p>
 <p>When referring to labeled sections/figures/tables, you do not include the literal word &#8220;Section&#8221;, &#8220;Figure&#8221;, or &#8220;Table&#8221;, which will be included for you. These prefixes/words are configurable in the <code>meta.yaml</code> file.</p>
 <p>Refer to labeled things like this:</p>
 <ul>
@@ -265,7 +268,7 @@ The generalized Stokes&#8217; theorem, eq.&#160;<strong>&#191;eq:stokes?</strong
   <div class="signature">
     <p><i>R. Reece and J. Coauthor</i></p>
     <p><img class="email" src="img/my-email.png" alt="my email address"/></p>
-    <p>Wed May 09, 2018</p>
+    <p>Sun May 27, 2018</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2015-2018 <a href="http://rreece.github.io/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
