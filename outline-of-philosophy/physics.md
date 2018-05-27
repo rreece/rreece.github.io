@@ -235,6 +235,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 #### Supersymmetry
 
 -   Haag-&#321;opusza&#324;ski-Sohnius theorem [^Haag1975]
+-   [Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/)
 
 [^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries\.
 
