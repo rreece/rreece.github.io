@@ -15,6 +15,34 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and positions
 --------------------------------------------------------------------------------
 
+### Logic
+
+-   Ancient logic and Aristotle 
+-   *Modus ponens*, *modus tollens*, Affirming the consequent, Proof by contrapositive
+-   Frege
+-   first-order and second-order logic
+
+
+### Algebra
+
+-   Kronecker
+
+
+### Analysis
+
+-   Newton and Leibniz
+-   Struggles with the continuum[^Baez-2016].
+
+[^Baez-2016]: @Baez_2016_Struggles_with_the_continuum\.
+
+
+### Language
+
+![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
+
+![A visual proof that $\sum_{k=1}^{\infty} \frac{1}{4^k} = \frac{1}{3}$.](img/visual-proof-geometric-series-sum-to-third.jpg)
+
+
 ### Pythagoreanism
 
 -   Radical realism
@@ -81,29 +109,10 @@ G&ouml;del was a platonist, a (religious) realist.
 -   Realist
 
 
-### Language
-
-![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
-
-![A visual proof that $\sum_{k=1}^{\infty} \frac{1}{4^k} = \frac{1}{3}$.](img/visual-proof-geometric-series-sum-to-third.jpg)
-
-
 ### Naturalism
 
 -   Realist?
 -   See the outline on [Naturalism](naturalism.html).
-
-
-### Analysis
-
--   Struggles with the continuum[^Baez-2016].
-
-[^Baez-2016]: @Baez_2016_Struggles_with_the_continuum\.
-
-
-### Algebra
-
--   TODO
 
 
 My thoughts
@@ -190,15 +199,18 @@ Links and encyclopedia articles
 
 ### SEP
 
+-   [Algebra](https://plato.stanford.edu/entries/algebra/)
 -   [Alternative Axiomatic Set Theories](https://plato.stanford.edu/entries/settheory-alternative/)
 -   [Analysis](http://plato.stanford.edu/entries/analysis/)
 -   [Analytic/Synthetic Distinction](http://plato.stanford.edu/entries/analytic-synthetic/)
+-   [Ancient Logic](https://plato.stanford.edu/entries/logic-ancient/)
 -   [Aristotle and Mathematics](http://plato.stanford.edu/entries/aristotle-mathematics/)
 -   [Automated Reasoning](https://plato.stanford.edu/entries/reasoning-automated/)
 -   [Boolean Algebra, The Mathematics of](http://plato.stanford.edu/entries/boolalg-math/)
 -   [Brouwer, Luitzen Egbertus Jan (1881-1966)](http://plato.stanford.edu/entries/brouwer/)
 -   [Computer Science, Philosophy of](https://plato.stanford.edu/entries/computer-science/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
+-   [Contradiction](https://plato.stanford.edu/entries/contradiction/)
 -   [Constructive Mathematics](http://plato.stanford.edu/entries/mathematics-constructive/)
 -   [Dedekind's Contributions to the Foundations of Mathematics](http://plato.stanford.edu/entries/dedekind-foundations/)
 -   [Descartes' Mathematics](http://plato.stanford.edu/entries/descartes-mathematics/)
@@ -292,11 +304,13 @@ Links and encyclopedia articles
 
 ### Wikipedia
 
+-   [Affirming the consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
 -   [Brouwer, L.E.J. (1881-1966)](https://en.wikipedia.org/wiki/L._E._J._Brouwer)
 -   [Cantor, Georg (1845-1918)](https://en.wikipedia.org/wiki/Georg_Cantor)
 -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
 -   [Central limit theorem](http://en.wikipedia.org/wiki/Central_limit_theorem)
+-   [Contraposition](https://en.wikipedia.org/wiki/Contraposition)
 -   [Continuum hypothesis](http://en.wikipedia.org/wiki/Continuum_hypothesis)
 -   [Deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning)
 -   [Diagonal lemma](http://en.wikipedia.org/wiki/Diagonal_lemma)
@@ -309,14 +323,18 @@ Links and encyclopedia articles
 -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 -   [Hilbert, David (1862-1943)](https://en.wikipedia.org/wiki/David_Hilbert)
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
+-   [History of algebra](https://en.wikipedia.org/wiki/History_of_algebra)
 -   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
 -   [Kronecker, Leopold (1823-1891)](https://en.wikipedia.org/wiki/Leopold_Kronecker)
 -   [Kripke, Saul (b. 1940)](https://en.wikipedia.org/wiki/Saul_Kripke)
+-   [Law of excluded middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
 -   [Logicism](http://en.wikipedia.org/wiki/Logicism)
 -   [L&ouml;wenheim-Skolem theorem](https://en.wikipedia.org/wiki/L%C3%B6wenheim%E2%80%93Skolem_theorem)
 -   [Mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction)
 -   [Mathematical Universe Hypothesis](http://en.wikipedia.org/wiki/Mathematical_universe_hypothesis)
 -   [Metamathematics](https://en.wikipedia.org/wiki/Metamathematics)
+-   [Modus ponens](https://en.wikipedia.org/wiki/Modus_ponens)
+-   [Modus tollens](https://en.wikipedia.org/wiki/Modus_tollens)
 -   [Natural number](http://en.wikipedia.org/wiki/Natural_number)
 -   [Noether, Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
@@ -325,6 +343,7 @@ Links and encyclopedia articles
 -   [Platonism](https://en.wikipedia.org/wiki/Platonism)
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
 -   [Problem of universals](https://en.wikipedia.org/wiki/Problem_of_universals)
+-   [Proof by contrapositive](https://en.wikipedia.org/wiki/Proof_by_contrapositive)
 -   [Propositional calculus](https://en.wikipedia.org/wiki/Propositional_calculus)
 -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
 -   [Pythagoreanism](https://en.wikipedia.org/wiki/Pythagoreanism)
