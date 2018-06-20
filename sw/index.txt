@@ -61,8 +61,11 @@ hypr-ai
 </a>
 
 This is my project as an [Insight Artificial Intellegence Fellow](http://insightdata.ai/).
-HYPR.AI is a cloud-based deep learning and hyperparameter optimization platform.
-It contains a RESTful service, dockerized training worker, and a WebUI build upon the RESTful service.
+HYPR.AI is a cloud-based deep learning and hyperparameter optimization platform
+that I developed with [Jimmy Hu](https://github.com/JMHOO) 
+and [Dan Feldman](https://github.com/hriundel).
+It contains a RESTful service, dockerized training worker, 
+and a WebUI build upon the RESTful service.
 
 Repo: [github.com/rreece/hypr-ai](https://github.com/rreece/hypr-ai)                
 Created: Jan 14, 2018
