@@ -284,6 +284,7 @@ Links and encyclopedia articles
 -   [Moral Particularism](http://www.iep.utm.edu/morlpat/)
 -   [Moral Realism](http://www.iep.utm.edu/moralrea/)
 -   [Moral Relativism](http://www.iep.utm.edu/moral-re/)
+-   [Music, Analytic Perspectives in the Philosophy of](http://www.iep.utm.edu/music-an/)
 -   [Nihilism](http://www.iep.utm.edu/nihilism/)
 -   [Non-Cognitivism in Ethics](http://www.iep.utm.edu/non-cogn/)
 -   [Personal Identity and Ethics](http://plato.stanford.edu/entries/identity-ethics/)
