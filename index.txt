@@ -101,6 +101,7 @@ hadronic tau decays with the ATLAS experiment,
 measuring the *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
 at *&radic;s* = 7 TeV,
 and searching for new physics in high-mass ditau events.              
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-book" style="font-size:20px;"></i>&nbsp;&nbsp;[Download my thesis here](docs/CERN-THESIS-2013-075.pdf)
 
 
