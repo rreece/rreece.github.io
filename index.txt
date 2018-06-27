@@ -110,8 +110,8 @@ Contact
 ### Directly
 
 -   email: <img class="email" src="img/my-email.png" alt="my email address"/>
--   skype: ryan.reece
 -   cell: +1-817-888-7010
+-   skype: ryan.reece
 
 
 ### My web presence elsewhere
