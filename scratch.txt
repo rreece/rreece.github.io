@@ -1,3 +1,6 @@
+
+&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-chess-pawn" style="font-size:20px;"></i>&nbsp;&nbsp;[chess notes](chess-notes/)         
+
 --------------------------------------------------------------------------------
 
 -   <i class="fas fa-home"></i>&nbsp;&nbsp;[home](../)
