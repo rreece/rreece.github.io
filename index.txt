@@ -48,6 +48,7 @@ More recently, for the last year,
 my research has transitioned to using deep learning techniques for particle physics
 reconstruction and other classification problems.
 
+-   High-performance computing
 -   Data science and visualization
 -   Machine learning: deep neural nets, anomaly detection
 -   Statistical inference
