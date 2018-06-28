@@ -33,6 +33,15 @@ and about how technologies extend our reach.
 Research Interests
 --------------------------------------------------------------------------------
 
+-   High-performance computing
+-   Data science and visualization
+-   Machine learning: deep neural nets, anomaly detection
+-   Statistical inference
+-   Searches for new physics
+-   Measuring properties of the Higgs boson
+-   Hadronic tau reconstruction and identification
+-   Philosophy of science and science communication
+
 Many theories of physics beyond the Standard Model have revolutionary
 implications for the concepts of symmetry and space-time, and
 for our understanding of the early universe.
@@ -47,15 +56,6 @@ including for signs of grand unified theories and supersymmetry.
 More recently, for the last year,
 my research has transitioned to using deep learning techniques for particle physics
 reconstruction and other classification problems.
-
--   High-performance computing
--   Data science and visualization
--   Machine learning: deep neural nets, anomaly detection
--   Statistical inference
--   Searches for new physics
--   Measuring properties of the Higgs boson
--   Hadronic tau reconstruction and identification
--   Philosophy of science and science communication
 
 
 ![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png "Experiment &rarr; data acquisition &rarr; reconstruction &rarr; analysis &rarr; inference")
