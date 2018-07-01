@@ -168,7 +168,7 @@ ATLAS experiment.
     My graduate research as a student at the University of Pennsylvania,
     working with the ATLAS experiment at the Large Hadron Collider at CERN,
     was on the reconstruction and identification of hadronic tau decays,
-    measuring the SM *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
+    measuring the *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
     at *&radic;s* = 7 TeV,
     and searching for new physics in high-mass ditau events.
     You can [download my thesis here](../docs/CERN-THESIS-2013-075.pdf)
@@ -177,8 +177,8 @@ ATLAS experiment.
 1.  *[Searching for new physics in high-mass ditau events at ATLAS](pdf/2012-12-13-RReece-ZprimeTauTau-Yale.pdf)*      
     *2012/12/13, Yale University, New Haven, CT, USA*, also *12/11*, *11/26*, and *11/20*    
     A seminar I gave at Yale University summarizing my efforts in tau lepton physics at ATLAS,
-    including the first ATLAS cut-based tau identification, the $Z\rightarrow\tau\tau$ cross section,
-    and the first search for $Z^{\prime}\rightarrow\tau\tau$ at ATLAS.
+    including the first ATLAS cut-based tau identification, the *Z&rarr;&tau;&tau;* cross section,
+    and the first search for *Z&prime;&rarr;&tau;&tau;* at ATLAS.
     I gave similar seminars at NYU, UT Austin, and (remotely to) Brookhaven National Lab.
 
 1.  *[Hadronic tau decays in ATLAS](pdf/2012-11-13-RReece-ATLAS-tau-performance-Chicago.pdf)*    
