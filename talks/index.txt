@@ -34,7 +34,8 @@ Here's my selected list of talks I have given on analysis and computing techniqu
 
 1.  *[pyframe](pdf/2011-09-21-RReece-pyframe-PAT.pdf)*     
     *2011/09/21, CERN, Meyrin, Switzerland*        
-    An introduction to the python data selection framework I developed for
+    An introduction to [pyframe](https://github.com/rreece/pyframe), 
+    the python data selection framework I developed for
     analyzing ROOT ntuple files and has been used by several physics measurments
     and searches for new physics in the ATLAS Collaboration.
 
