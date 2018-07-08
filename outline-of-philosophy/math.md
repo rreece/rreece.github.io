@@ -63,8 +63,34 @@ Issues and positions
 -   Wigner [^Wigner1960]
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
 
-[^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
+Hilbert:
+
+>   Mathematics is a presuppositionless science. To found it I do not need God, 
+>   as does Kronecker, or the assumption of a special faculty of our understanding 
+>   attuned to the principle of mathematical induction, as does Poincar&eacute;, 
+>   or the primal intuition of Brouwer, or, finally, as do Russell and Whitehead, 
+>   axioms of infinity, reducibility, or completeness, which in fact are actual, 
+>   contentual assumptions that cannot be compensated for by consistency proofs. [^Hilbert1967p479]
+
+[^Hilbert1967p479]: @Hilbert_1967_The_foundations_of_mathematics\, p. 479.
+    Discussion by [Michael J. O'Donnell](http://people.cs.uchicago.edu/~odonnell/OData/Courses/22C:096/Lecture_notes/Hilbert_program.html):
+
+    >   Well, the tone sounds like hubris again, but this is actually a relatively modest claim, 
+    >   and largely substantiated by events. Mathematics may arguably be understood as the 
+    >   science of forms, which have an objective quality independent of individual beliefs.
+    >   What is missing here is the claim that a single formal system may embrace all of mathematics
+    >   at once, and that we may prove that it contains no error. Notice that Hilbert objects to the 
+    >   "actual, contentual assumptions" of Russell and Whitehead. 
+    >   But, recall that Hilbert claims to treat numerical equations contentually, and even seems 
+    >   to regard that as a virtue. It is not the mere contentual quality of Russell's and 
+    >   Whitehead's assumptions that Hilbert objects to, but the fact that each particular 
+    >   assumptions is not verifiable by a single computation or finite observation, and 
+    >   furthermore that there is not even a proof that they are consistent with basic
+    >   numerical equations. Of course, Hilbert's proposed system never gets its consistency proof either. 
+    >   Oh well.
+
 [^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.
+[^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
 
 
 ### G&ouml;del
