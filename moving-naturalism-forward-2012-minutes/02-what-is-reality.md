@@ -422,7 +422,7 @@ TODO...
 >   in the ideal physics that no one has yet come up with,
 >   as the description we would give of this universe...
 
-TODO...
+TODO...  Part of me wants to tell Don to harden up and extrapolate...
 
 **Sean**
 
@@ -441,6 +441,8 @@ TODO...
 **(Ryan)**
 
 TODO: highlight Richard's point.
+
+TODO: also point out that RL has the complication of learning long-term rewards.
 
 **Dan**
 
