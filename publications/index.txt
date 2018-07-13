@@ -43,7 +43,15 @@ You can [download my thesis here](../docs/CERN-THESIS-2013-075.pdf)
 or find it at CDS as [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836).
 
 
-ATLAS Publications
+Data science & machine learning publications
+-------------------------------------------------------------------------------
+
+1.  Machine Learning in High Energy Physics Community White Paper.
+    [arxiv:1807.02876](https://arxiv.org/abs/1807.02876), 
+    July 8, 2018.
+
+
+ATLAS publications
 -------------------------------------------------------------------------------
 
 1.  Search for supersymmetry in a final state containing two photons and missing transverse momentum in
@@ -118,7 +126,7 @@ at *&radic;s* = 7 TeV with the ATLAS detector,
    July 2, 2012.
 
 
-ATLAS Conference Notes / Proceedings / Other Public Documents 
+ATLAS conference notes / proceedings / other public documents 
 -------------------------------------------------------------------------------
 
 1.  [ATLAS searches for heavy Higgs bosons and supersymmetry using tau decays](pdf/2017.Reece.ATLAS-searches-for-heavy-Higgs-bosons-and-supersymmetry-tau-leptons.pdf),
@@ -239,7 +247,7 @@ ATLAS Conference Notes / Proceedings / Other Public Documents
     -->
 
 
-ATLAS Internal Notes
+ATLAS internal notes
 -------------------------------------------------------------------------------
 
 You won't have access to these unless you are a member of ATLAS.
