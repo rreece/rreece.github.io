@@ -233,6 +233,7 @@ Links and encyclopedia articles
 -   [Aristotle and Mathematics](http://plato.stanford.edu/entries/aristotle-mathematics/)
 -   [Automated Reasoning](https://plato.stanford.edu/entries/reasoning-automated/)
 -   [Boolean Algebra, The Mathematics of](http://plato.stanford.edu/entries/boolalg-math/)
+-   [Bradley's Regress](https://plato.stanford.edu/entries/bradley-regress/)
 -   [Brouwer, Luitzen Egbertus Jan (1881-1966)](http://plato.stanford.edu/entries/brouwer/)
 -   [Computer Science, Philosophy of](https://plato.stanford.edu/entries/computer-science/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
