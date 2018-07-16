@@ -256,12 +256,18 @@ Google gives -- Logical positivism: a form of positivism, developed by members o
 
 ### Postpositivism
 
--    A metatheoretical stance that critiques and amends positivism. While positivists believe that the researcher and the researched person are independent of each other, postpositivists accept that theories, background, knowledge and values of the researcher can influence what is observed. They believe that human knowledge is based not on unchallengeable, rock-solid foundations, but rather upon human conjectures.
--   Popper
--   *falsifiability* over *verifiability*
+A metatheoretical stance that critiques and amends positivism. While positivists believe that the researcher and the researched person are independent of each other, postpositivists accept that theories, background, knowledge and values of the researcher can influence what is observed. They believe that human knowledge is based not on unchallengeable, rock-solid foundations, but rather upon human conjectures.
+
+-   Karl Popper (1902-1994)
+    -   *falsifiability* over *verifiability*
 -   Willard Van Orman Quine (1908-2000)
--   Quine's "Two Dogmas"[^Quine-1951]
--   Duhem-Quine thesis
+    -   Quine's "Two Dogmas"[^Quine-1951]
+        1.  analytic-synthetic distinction
+        2.  reductionism (verification theory of meaning)
+    -   Duhem-Quine thesis
+    -   inscrutability of reference
+-   Thomas Kuhn (1922-1996)
+    -   paradigm shifts
 
 The "death" of positivism:
 
@@ -269,7 +275,6 @@ The "death" of positivism:
     -   Ordinary language philosophy
     -   An imprtant project is to understand the differences between early (*TLP*)
         and late (*PI*) Wittgenstein. It is quite the about-face.
--   Kuhn
 -   anti-positivism, post-structuralism, postmodernism (continental)
 
 Wittgenstein in *PI*:
