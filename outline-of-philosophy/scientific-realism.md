@@ -299,26 +299,26 @@ Wittgenstein in *PI*:
 -   Uniquely American philosophical movement.
 
 
-### Relativism
+### Postmodernism
 
--   anti-realist
+-   anti-realist, relativism
 -   Incommensurability
 -   Conventionalism
--   Social constructivism
-    -   Thomas Kuhn (1922-1996)
-    -   Imre Lakatos (1922-1974)
-    -   Paul Feyerabend (1924-1994)
-    -   Larry  Laudan (b. 1941)
 -   Postmodernism
     -   Jean-Fran&ccedil;ois Lyotard (1924-1998)
     -   Gilles Deleuze (1925-1995)
     -   Michel Foucault (1926-1984)
     -   Jacques Derrida (1930-2004)
-    -   [How French "intellectuals" ruined the West: postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/)
-    -   Ryan: Resonating, going viral, does not indicate that it's true or good for progress.
-    -   Ryan: I've been wanting to write an essay in this vein for years, and this author is better equipped to explain postmodernism than I. This argument could still be further buttressed with a brief history of the Enlightenment carrying empiricism and liberalism. Today there are still empiricist / naturalist / structuralist / realist / pragmatist ways of viewing the world that reject relativism and recognize some objectivity in the truth of claims about the world, be them descriptive or normative. There are better more accurate ways of describing the world and what one should do than others.
-    -   Ryan: It also irritates me that so many people are introduced to continental philosophy, including postmodernism, as if that's the end of philosophy.
+-   Social constructivism
+    -   Thomas Kuhn (1922-1996)
+    -   Imre Lakatos (1922-1974)
+    -   Paul Feyerabend (1924-1994)
+    -   Larry  Laudan (b. 1941)
 -   Epistemological anarchism
+-   [How French "intellectuals" ruined the West: postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/)
+-   Ryan: Resonating, going viral, does not indicate that it's true or good for progress.
+-   Ryan: I've been wanting to write an essay in this vein for years, and this author is better equipped to explain postmodernism than I. This argument could still be further buttressed with a brief history of the Enlightenment carrying empiricism and liberalism. Today there are still empiricist / naturalist / structuralist / realist / pragmatist ways of viewing the world that reject relativism and recognize some objectivity in the truth of claims about the world, be them descriptive or normative. There are better more accurate ways of describing the world and what one should do than others.
+-   Ryan: It also irritates me that so many people are introduced to continental philosophy, including postmodernism, as if that's the end of philosophy.
 
 
 ### Constructive empiricism
