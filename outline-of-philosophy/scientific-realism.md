@@ -316,9 +316,11 @@ Wittgenstein in *PI*:
     -   Larry  Laudan (b. 1941)
 -   Epistemological anarchism
 -   [How French "intellectuals" ruined the West: postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/)
--   Ryan: Resonating, going viral, does not indicate that it's true or good for progress.
--   Ryan: I've been wanting to write an essay in this vein for years, and this author is better equipped to explain postmodernism than I. This argument could still be further buttressed with a brief history of the Enlightenment carrying empiricism and liberalism. Today there are still empiricist / naturalist / structuralist / realist / pragmatist ways of viewing the world that reject relativism and recognize some objectivity in the truth of claims about the world, be them descriptive or normative. There are better more accurate ways of describing the world and what one should do than others.
--   Ryan: It also irritates me that so many people are introduced to continental philosophy, including postmodernism, as if that's the end of philosophy.
+    -   Ryan: Resonating, going viral, does not indicate that it's true or good for progress.
+    -   Ryan: I've been wanting to write an essay in this vein for years, and this author is better equipped to explain postmodernism than I. This argument could still be further buttressed with a brief history of the Enlightenment carrying empiricism and liberalism. Today there are still empiricist / naturalist / structuralist / realist / pragmatist ways of viewing the world that reject relativism and recognize some objectivity in the truth of claims about the world, be them descriptive or normative. There are better more accurate ways of describing the world and what one should do than others.
+    -   Ryan: It also irritates me that so many people are introduced to continental philosophy, including postmodernism, as if that's the end of philosophy.
+-   [Explaining Postmodernism In 2018 - Stephen Hicks](https://www.youtube.com/watch?v=-BGbHG63x8w)
+    -   [Hicks, S. (2010). Why Kant is the turning point.](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/)
 
 
 ### Constructive empiricism
@@ -1015,6 +1017,7 @@ Links and encyclopedia articles
 -   [Positivists.org](http://positivists.org/)
 -   [Sartwell, Crispin (2015). Philosophy Returns to the Real World.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/)
 -   [Kaufman, D.A. (2016). Moore's Proof.](https://theelectricagora.com/2016/08/15/moores-proof/)
+-   [Hicks, S. (2010). Why Kant is the turning point.](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/)
 
 ### Videos
 
@@ -1022,6 +1025,7 @@ Links and encyclopedia articles
 -   [Grayling, A.C. (2016). Wittgenstein's Games.](https://www.youtube.com/watch?v=Qw44w7Tvz2I)
 -   [Ladyman, James & Tallis, Raymond. (2015). Every Thing Must Go.](https://www.youtube.com/watch?v=j96Hls_-Ulc)
 -   [Mumford, Stephen (2015). Relations All The Way Down? (Against) Ontic Structural Realism](https://www.youtube.com/watch?v=4EeOhf1GG-M)
+-   [Hicks, S. (2018). Explaining Postmodernism In 2018](https://www.youtube.com/watch?v=-BGbHG63x8w)
 
 
 [^Quine-1951]: @Quine_1951_Two_Dogmas_of_Empiricism\.
