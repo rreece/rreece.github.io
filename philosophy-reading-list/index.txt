@@ -26,6 +26,11 @@ Or, leave me a comment below.
 Projects I'd like to tackle
 --------------------------------------------------------------------------------
 
+### Gauge theory and the Aharonov-Bohm Effect
+
+[research bibliography here](aharonov-bohm-bib.html)
+
+
 ### Machine learning and realism
 
 [research bibliography here](machine-learning-and-realism-bib.html)
