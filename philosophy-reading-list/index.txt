@@ -26,7 +26,7 @@ Or, leave me a comment below.
 Projects I'd like to tackle
 --------------------------------------------------------------------------------
 
-### Gauge theory and the Aharonov-Bohm effect
+### 1. Gauge theory and the Aharonov-Bohm effect
 
 [research bibliography here](aharonov-bohm-bib.html)
 
@@ -36,12 +36,12 @@ Projects I'd like to tackle
 [research bibliography here](machine-learning-and-realism-bib.html)
 
 
-### Understand the transition between early and later Wittgenstein
+### 2. Understand the transition between early and later Wittgenstein
 
 -   &#10095; Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
 -   Wittgenstein, L. (1953). *Philosophical Investigations*.
 
-### Understand the Carnap-Quine debate
+### 3. Understand the Carnap-Quine debate
 
 -   Carnap, R. (1947). *Meaning and Necessity*.
 -   Quine, W.V.O. (1948). On What There Is.
@@ -51,7 +51,7 @@ Projects I'd like to tackle
 -   Quine, W.V.O. (1960). *Word and Object*.
 -   Quine, W.V.O. & Carnap, R. (1990). *Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work*.
 
-### Trace the history of naturalism
+### 4. Trace the history of naturalism
 
 -   &#10095; Hume, D. (1748). *An Enquiry Concerning Human Understanding*.
 -   Quine, W.V.O. (1969). Natural Kinds.
