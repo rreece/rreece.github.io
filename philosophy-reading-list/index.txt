@@ -36,12 +36,7 @@ Projects I'd like to tackle
 [research bibliography here](machine-learning-and-realism-bib.html)
 
 
-### 3. Understand the transition between early and later Wittgenstein
-
--   &#10095; Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
--   Wittgenstein, L. (1953). *Philosophical Investigations*.
-
-### 4. Understand the Carnap-Quine debate
+### 3. Understand the Carnap-Quine debate
 
 -   Carnap, R. (1947). *Meaning and Necessity*.
 -   Quine, W.V.O. (1948). On What There Is.
@@ -50,6 +45,13 @@ Projects I'd like to tackle
 -   Carnap, R. (1955). Meaning and Synonymy in Natural Languages.
 -   Quine, W.V.O. (1960). *Word and Object*.
 -   Quine, W.V.O. & Carnap, R. (1990). *Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work*.
+
+
+### 4. Understand the transition between early and later Wittgenstein
+
+-   &#10095; Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
+-   Wittgenstein, L. (1953). *Philosophical Investigations*.
+
 
 ### 5. Trace the history of naturalism
 
