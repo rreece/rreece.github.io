@@ -26,7 +26,7 @@ Or, leave me a comment below.
 Projects I'd like to tackle
 --------------------------------------------------------------------------------
 
-### Gauge theory and the Aharonov-Bohm Effect
+### Gauge theory and the Aharonov-Bohm effect
 
 [research bibliography here](aharonov-bohm-bib.html)
 
