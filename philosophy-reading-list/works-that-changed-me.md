@@ -5,6 +5,7 @@ Works that changed me
 1.  Thorne, K.S. (1995). *Black Holes & Time Warps*.
 1.  Scruton, R. (1996). *Modern Philosophy*.
 1.  Irving, J. (1989). *A Prayer for Own Meany*.
+1.  Shakespeare, W. (1984). *Romeo and Juliet*.
 1.  Descartes, R. (1641). *Meditations on First Philosophy*.
 1.  Hume, D. (1748). *An Enquiry Concerning Human Understanding*.
 1.  Feynman, R.P. (1963). *The Feynman Lectures on Physics*.
