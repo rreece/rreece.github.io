@@ -26,6 +26,7 @@ Works that changed me
 1.  Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus*.
 1.  Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalised*.
 1.  Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*.
+1.  Camus, A. (1957). *The Fall*.
 1.  de Botton, A. (1993). *Essays in Love*.
 1.  Paglia, C. (1990). *Sexual Personae*.
 1.  de Sade, D.A.F. (1795). *Philosophy in the Bedroom*.
