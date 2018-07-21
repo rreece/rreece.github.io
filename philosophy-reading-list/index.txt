@@ -46,8 +46,8 @@ Projects I'd like to tackle
 -   Quine, W.V.O. (1969). Natural Kinds.
 -   Hacking, I. (2006).  Natural Kinds.
 -   &#10095; French, S. (2007). *Science: Key Concepts in Philosophy*.
--   Rovelli, C. (2016). *Anaximander*.
 -   &#9654; Maddy, P. (2007). *Second Philosophy*.
+-   Rovelli, C. (2016). *Anaximander*.
 
 
 Key:
