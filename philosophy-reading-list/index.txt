@@ -26,6 +26,11 @@ Or, leave me a comment below.
 Projects I'd like to tackle
 --------------------------------------------------------------------------------
 
+### Machine learning and realism
+
+[research bibliography here](machine-learning-and-realism-bib.html)
+
+
 ### Understand the transition between early and later Wittgenstein
 
 -   &#10095; Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
@@ -39,6 +44,7 @@ Projects I'd like to tackle
 -   Quine, W.V.O. (1951). Two Dogmas of Empiricism.
 -   Carnap, R. (1955). Meaning and Synonymy in Natural Languages.
 -   Quine, W.V.O. (1960). *Word and Object*.
+-   Quine, W.V.O. & Carnap, R. (1990). *Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work*.
 
 ### Trace the history of naturalism
 

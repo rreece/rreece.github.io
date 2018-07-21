@@ -1,0 +1,74 @@
+Alai, M. (2004). AI, Scientific Discovery and Realism. *Minds and Machines*, 14 21--42.
+Aurisano, A. et al. (2016). A convolutional neural network neutrino event classifier. *Journal of Instrumentation*, 11, P09001. https://arxiv.org/abs/1604.01444
+Bensusan, H. (2000). Is machine learning experimental philosophy of science? In A. Aliseda & D. Pearce (Eds.), *ECAI2000 Workshop notes on scientific Reasoning in Artificial Intelligence and the Philosophy of Science* (pp. 9--14). 
+Bueno, O. (2014). Computer Simulations: An Inferential Conception. *The Monist*, 97, 378--398.
+Button, T., & Walsh, S. (2016). Structure and Categoricity: Determinacy of Reference and Truth-Value in the Philosophy of Mathematics. https://arxiv.org/abs/1501.00472
+Bengio, Y. (2009). Learning Deep Architectures for AI. *Foundations and Trends in Machine Learning*, 2, 1--127.
+Carnap, R. (1945). On Inductive Logic. *Philosophy of Science*, 12, 72--97.
+Carnap, R. (1945). Two Concepts of Probability. *The Journal of Philosophy*, 5, 513--532.
+Carnap, R. (1947). On the Application of Inductive Logic. *Philosophy and Phenomenological Research*, 8, 133--148.
+Carnap, R. (1947). Probability as a Guide in Life. *The Journal of Philosophy*, 44, 141--148.
+Carnap, R. (1950). Empiricism, Semantics, and Ontology. *Revue Internationale de Philosophie*, 4, 20-40.
+Copeland, B.J., & Proudfoot, D. (1996). On Alan Turing's anticipation of connectionism. *Synthese*, 108, 361--377.
+Cowan, G. (1998). *Statistical Data Analysis*. Oxford: Clarendon Press.
+Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). Asymptotic formulae for likelihood-based tests of new physics. *European Physical Journal C*, 71, 1544. https://arxiv.org/abs/1007.1727
+Cowan, G. (2016). Statistics. In C. Patrignani \emph{et al}. (Particle Data Group), \emph{Chinese Physics C}, \emph{40}, 100001. \url{http://pdg.lbl.gov/2016/reviews/rpp2016-rev-statistics.pdf}
+Cranmer, K. (2015). Practical Statistics for the LHC. https://arxiv.org/abs/1503.07622
+David, O.E., & Netanyahu, N.S. (2015). Deepsign: Deep learning for automatic malware signature generation and classification. In *IJCNN 2015: International Joint Conference on Neural Networks* (pp. 1-8). IEEE. http://ieeexplore.ieee.org/document/7280815/
+Farley, B.G., & Clark, W.A. (1954). Simulation of Self-Organizing Systems by Digital Computer. *IRE Transactions on Information Theory*, 4, 76--84.
+Fukushima, K. (1980). Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position. *Biological Cybernetics*, 36, 193--202.
+Ghahramani, Z. (2015). Probabilistic machine learning and artificial intelligence. *Nature*, 521, 452--459.
+Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
+Goodell, J. (2016). The Rise of Intellegent Machines. *Rolling Stone*. http://rollingstoneaus.com/culture/post/the-rise-of-intelligent-machines-part-1/3751 [May 4, 2016]
+Goodman, N. (1955). *Fact, Fiction, and Forecast*. Cambridge, MA: Harvard University Press.
+Guest, D., Collado, J., Baldi, P., Hsu, S. C., Urban, G., & Whiteson, D. (2016). Jet flavor classification in high-energy physics with deep neural networks. *Physical Review D*, 94, 112002. https://arxiv.org/abs/1607.08633
+Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambridge: Cambridge University Press.
+Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
+Hennig, C. (2015). What are the true clusters? *Pattern Recognition Letters*, 64, 53--62. https://arxiv.org/abs/1502.02555
+Huang, C., Loy, C.C., & Tang, X. (2016). Unsupervised learning of discriminative attributes and visual representations. In *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (pp. 5175--5184).
+Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford: Oxford University Press. [(Originally published in 1748)]
+James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
+Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
+Korb, K. B. (2004). Introduction: Machine learning as philosophy of science. *Minds and Machines*, 14, 433--440.
+Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ImageNet Classification with Deep Convolutional Neural Networks. In F. Pereira, C.J.C. Burges, L. Bottou, & K.Q. Weinberger (Eds.), *Advances in Neural Information Processing Systems 25* (pp. 1097--1105). Curran Associates. https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
+Le, Q.V., et al. (2013). Building high-level features using large scale unsupervised learning. In *Acoustics, Speech and Signal Processing (ICASSP)* (pp. 8595-8598). IEEE. https://arxiv.org/abs/1112.6209
+LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1, 541--551.
+LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. *Proceedings of the IEEE*, 86, 2278--2324.
+LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436--444.
+Louppe, G., Cho, K., Becot, C., & Cranmer, K. (2017). QCD-Aware Recursive Neural Networks for Jet Physics. https://arxiv.org/abs/1702.00748
+MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
+Mayo, D. G. (1996). *Error and the Growth of Experimental Knowledge*. Chicago: Chicago University Press.
+Mcculloch, W.S. & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. *Bulletin of Mathematical Biophysics*, 5, 115--133.
+Miller, A. (2014). Realism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/realism/
+Plaut, E. (2018). From Principal Subspaces to Principal Components with Linear Autoencoders. https://arxiv.org/abs/1804.10253
+Psillos, S. (1999). *Scientific Realism: How Science Tracks Truth*. Routledge.
+Psillos, S. (2016). The Realist Turn in the Philosophy of Science. http://philsci-archive.pitt.edu/12440/
+Quine, W.V.O. (1969). Natural kinds. In *Ontological Relativity and Other Essays* (pp. 114--138). New York: Columbia University Press.
+Reichenbach, H. (1938). *Experience and Prediction*. Chicago: University of Chicago Press.
+Reichenbach, H. (1940). On the Justification of Induction. *The Journal of Philosophy*, 37, 97--103.
+Rochester, N., Holland, J.H., Habit, L.H., & Duda, W.L. (1956). Tests on a cell assembly theory of the action of the brain, using a large digital computer. *IRE Transactions on Information Theory*, 2, 80--93.
+Rosenblatt, F. (1958). The Perceptron: A Probabilistic Model For Information Storage And Organization In The Brain. *Psychological Review*, 65, 386--408. 
+Salmon, W.C. (1963). On Vindicating Induction. *Philosophy of Science*, 30, 252--261.
+Salmon, W.C. (1966). *The Foundations of Scientific Inference*. Pittsburgh: University of Pittsburgh Press.
+Salmon, W.C. (1991). Hans Reichenbach's Vindication of Induction. *Erkenntnis*, 35, 99--122.
+Schmidhuber, J. (2015). Deep learning in neural networks: An overview. *Neural networks*, 61, 85--117. https://arxiv.org/abs/1404.7828
+Sellars, W. (1964). Induction as Vindication. *Philosophy of Science*, 31, 197--231.
+Sider, T. (2011). *Writing the Book of the World*. Oxford: Oxford University Press.
+Solomonoff, R.J. (1996). Does Algorithmic Probability Solve the Problem of Induction? In *Information, Statistics and Induction in Science: Proceedings of the Conference, ISIS '96*. World Scientific. http://raysolomonoff.com/publications/isis96.pdf 
+Solomonoff, R.J. (1997). The Discovery of Algorithmic Probability. *Journal of Computer and System Sciences*, 55, 73--88. http://raysolomonoff.com/publications/barc97.pdf
+Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. London: Elsevier.
+Turing, A. (2004). Intelligent Machinery. In B.J. Copeland (Ed.), *The Esssential Turing* (pp. 410--433). Oxford: Clarendon Press. [(Originally written in 1948).]
+van Fraassen, B. (1980). *The Scientific Image*. Oxford: Oxford University Press.
+Wald, A. (1943). Tests of Statistical Hypotheses Concerning Several Parameters When the Number of Observations is Large. *Transactions of the American Mathematical Society*, 54, 426--482.
+Wang, H., Raj, B., & Xing, E.P. (2017). On the Origin of Deep Learning. https://arxiv.org/abs/1702.07800
+Weintraub, R. (1995). What was Hume's Contribution to the Problem of Induction? *The Philosophical Quarterly*, 45, 460--470.
+Williamson, J. (2004). A dynamic interaction between machine learning and the philosophy of science. *Minds and Machines*, 14(4), 539-549.
+Williamson, J. (2009). Probabilistic theories of causality. In H. Beebee & C. Hitchcock & P. Menzies (Eds.), *The Oxford Handbook of Causation* (pp. 185--212). Oxford: Oxford University Press.
+Williamson, J. (2010). The Philosophy of Science and its relation to Machine Learning. In M.M. Gaber (Ed.), *Scientific Data Mining and Knowledge Discovery* (pp. 77--89). Springer.
+Williamson, J. (2011). Objective Bayesianism, Bayesian conditionalisation and voluntarism. *Synthese*, 178, 67--85.
+Wilks, S.S. (1938). Large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62.
+
+Davies, R. B. (1987). Hypothesis testing when a nuisance parameter is present only under the alternatives. *Biometrika*, 74, 33--43.
+DiNardo, J. (2009). Introductory remarks on metastatistics for the practically minded non-Bayesian regression runner. In *Palgrave Handbook of Econometrics* (pp. 98-165). Palgrave Macmillan UK.
+Freund, Y., & Schapire, R.E. (1996). Experiments with a new boosting algorithm. In *Proceedings of the 13th International Conference on Machine Learning* (Vol. 96, pp. 148-156).
+
