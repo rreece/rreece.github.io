@@ -339,6 +339,7 @@ Links and encyclopedia articles
 ### IEP
 
 -   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
+-   [Anaximander (c. 610--546 BCE)](https://www.iep.utm.edu/anaximan/)
 -   [Atheism](http://www.iep.utm.edu/atheism/)
 -   [Fodor, Jerry (b. 1935)](http://www.iep.utm.edu/fodor/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
@@ -356,6 +357,7 @@ Links and encyclopedia articles
 
 ### Wikipedia
 
+-   [Anaximander (c. 610--546 BCE)](https://en.wikipedia.org/wiki/Anaximander)
 -   [Baudrillard, Jean (1929-2007)](https://en.wikipedia.org/wiki/Jean_Baudrillard)
 -   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 -   [Derrida, Jacques (1930-2004)](https://en.wikipedia.org/wiki/Jacques_Derrida)
