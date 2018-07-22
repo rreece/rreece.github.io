@@ -511,6 +511,7 @@ Links and encyclopedia articles
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
 -   [Babbage, Charles (1791-1871)](https://en.wikipedia.org/wiki/Charles_Babbage)
 -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
+-   [Baconian method](https://en.wikipedia.org/wiki/Baconian_method)
 -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
 -   [Berkeley, George (1685-1753)](https://en.wikipedia.org/wiki/George_Berkeley)
 -   [Bohr, Niels (1885-1962)](https://en.wikipedia.org/wiki/Niels_Bohr)
