@@ -48,7 +48,7 @@ Jacobs:
 
 [^Jacobs2002]: @Jacobs_2002_Naturalism\. 
 [^Maddy-2007-1]: @Maddy_2007_Second_Philosophy, p. 1.
-[^Maddy-2007-2]: @Maddy_2007_Second_Philosophy, pp. 18--19.
+[^Maddy-2007-2]: @Maddy_2007_Second_Philosophy, p. 18--19.
 
 
 ### Science and scientism
@@ -147,6 +147,39 @@ but naturalism is a more general distinction,
 being a more much longer thread throughout the history of philosophy and science.
 
 ![A version of the "distracted boyfriend meme" maligning  *a priori* metaphysics.](img/distracted-boyfriend-meme-intuitions-data.png){#fig:distracted-boyfriend-meme-intuitions-data}
+
+Kant in his *Prolegomena to Any Future Metaphysics*:
+
+>   My object is to persuade all those who think Metaphysics worth studying, 
+>   that it is absolutely necessary to pause a moment, 
+>   and, neglecting all that has been done, 
+>   to propose first the preliminary question, 
+>   'Whether such a thing as metaphysics be at all possible?'
+>   
+>   If it be a science, how comes it that it cannot, like other sciences, 
+>   obtain universal and permanent recognition ? If not, how can it maintain
+>   its pretensions, and keep the human mind in suspense with hopes, never ceasing, 
+>   yet never fulfilled? Whether then we demonstrate our knowledge or our ignorance 
+>   in this field, we must come once for all to a definite conclusion respecting 
+>   the nature of this so-called science, which cannot possibly remain on its present footing. 
+>   It seems almost ridiculous, while every other science is continually advancing, 
+>   that in this, which pretends to be Wisdom incarnate, for whose oracle every 
+>   one inquires, we should constantly move round the same spot, without gaining 
+>   a single step. And so its followers having melted away, we do not find men 
+>   confident of their ability to shine in other sciences venturing their 
+>   reputation here, where everybody, however ignorant in other matters, 
+>   may deliver a final verdict, as in this domain there is as yet no standard 
+>   weight and measure to distinguish sound knowledge from shallow talk. [^Kant1783]
+
+Opening lines to *ETMG*:
+
+>   This is a polemical book. One of its main contentions is that contemporary analytic 
+>   metaphysics, a professional activity engaged in by some extremely intelligent and 
+>   morally serious people, fails to qualify as part of the enlightened pursuit of 
+>   objective truth, and should be discontinued. [^Ladyman2007pi]
+
+[^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
+[^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
 
 
 ### Monism

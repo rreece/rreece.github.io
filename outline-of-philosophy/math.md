@@ -394,6 +394,7 @@ Links and encyclopedia articles
 -   [Smith, Peter. (2006-2016). Logic Matters](http://www.logicmatters.net/), a blog.
 -   [Zach, Richard. (2015). "Quine's Paradox and G&ouml;del's Theorem."](http://richardzach.org/2015/03/30/quines-paradox-and-godels-theorem/)
 -   [Baez, J.C. (2018). Nonstandard Integers as Complex Numbers.](https://johncarlosbaez.wordpress.com/2018/03/03/nonstandard-integers-as-complex-numbers/)
+-   [Baez, J.C. (2018). Insanely Long Proofs.](https://johncarlosbaez.wordpress.com/2012/10/19/insanely-long-proofs/)
 
 ### Videos
 
