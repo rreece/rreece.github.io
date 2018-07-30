@@ -196,7 +196,7 @@ All statements that can't be empirically verified are meaningless.
 -   Hans Reichenbach (1891-1953)
 -   verificationism, nominalism, quietism
 -   G&#246;del
--   Russel, 
+-   Russell, 
 -   *The Logical Structure of the World* [^Carnap1928]
 -   Scheinproblem = Pseudo-problem
 -   *The Logical Syntax of Language* [^Carnap1937]
@@ -223,10 +223,26 @@ Positivism is strongly eliminative about metaphysics and claims that many
 metaphysical questions and positions are not open or false, but meaningless
 because of their lack of attachment to empirically demonstrable things or effects.
 
-This means that positivism is generally seen to imply anti-realist views of science and mathematics, preferring as Carnap says in 
-_Empiricism, Semantics, and Ontology_:
+>   Modern analytical empiricism [...] differs from that of Locke, Berkeley, and Hume 
+>   by its incorporation of mathematics and its development of a powerful logical 
+>   technique. It is thus able, in regard to certain problems, to achieve definite 
+>   answers, which have the quality of science rather than of philosophy. It has 
+>   the advantage, in comparison with the philosophies of the system-builders, of 
+>   being able to tackle its problems one at a time, instead of having to invent
+>   at one stroke a block theory of the whole universe. Its methods, in this respect, 
+>   resemble those of science. [^Russell1945p834]
 
->   As far as possible they [empiricists] try to avoid any reference to abstract entities and to restrict themselves to what is sometimes called a nominalistic language, i.e., one not containing such references.
+This means that positivism is generally seen to imply anti-realist views of science and mathematics, preferring as Carnap says in _Empiricism, Semantics, and Ontology_:
+
+>   Empiricists are in general rather suspicious with respect to any kind of abstract 
+>   entities like properties, classes, relations, numbers, propositions, etc. 
+>   They usually feel much more in sympathy with nominalists than with realists (in the medieval sense).
+>   As far as possible they [empiricists] try to avoid any reference to abstract entities and to 
+>   restrict themselves to what is sometimes called a nominalistic language, i.e.,
+>   one not containing such references. [^Carnap1950p1]
+
+[^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
+[^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 
 Positivists have instrumentalist (anti-realist) views about the models science
 produces, given that they are constructed from abstractions and involve the
