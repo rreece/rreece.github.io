@@ -1038,6 +1038,7 @@ Links and encyclopedia articles
 
 ### Videos
 
+-   [A.J. Ayer on Logical Positivism and Its Legacy (1976)](https://www.youtube.com/watch?v=nG0EWNezFl4&feature=youtu.be&t=2040)
 -   [Bragg, Melvyn. (2016). Logical positivism.](https://www.youtube.com/watch?v=89LZx8pdIBU)
 -   [Grayling, A.C. (2016). Wittgenstein's Games.](https://www.youtube.com/watch?v=Qw44w7Tvz2I)
 -   [Ladyman, James & Tallis, Raymond. (2015). Every Thing Must Go.](https://www.youtube.com/watch?v=j96Hls_-Ulc)

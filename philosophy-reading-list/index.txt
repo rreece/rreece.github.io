@@ -38,6 +38,8 @@ Projects I'd like to tackle
 
 ### 3. Understand the Carnap-Quine debate
 
+-   Carnap, R. (1928). *Der logische Aufbau der Welt (The Logical Structure of the World)*.
+-   Carnap, R. (1937). *Logical Syntax of Language*.
 -   Carnap, R. (1947). *Meaning and Necessity*.
 -   Quine, W.V.O. (1948). On What There Is.
 -   &#10095; Carnap, R. (1950). Empiricism, Semantics, and Ontology.
@@ -45,6 +47,8 @@ Projects I'd like to tackle
 -   Carnap, R. (1955). Meaning and Synonymy in Natural Languages.
 -   Quine, W.V.O. (1960). *Word and Object*.
 -   Quine, W.V.O. & Carnap, R. (1990). *Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work*.
+-   Fowler, S. (2010). [LSL in a nutshell](https://philarchive.org/archive/FOWLIA).
+-   Tahko, T.E. (2015). *An Introduction to Metametaphysics*.
 
 
 ### 4. Understand the transition between early and later Wittgenstein
