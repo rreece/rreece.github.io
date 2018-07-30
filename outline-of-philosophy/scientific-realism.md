@@ -237,7 +237,7 @@ This means that positivism is generally seen to imply anti-realist views of scie
 >   Empiricists are in general rather suspicious with respect to any kind of abstract 
 >   entities like properties, classes, relations, numbers, propositions, etc. 
 >   They usually feel much more in sympathy with nominalists than with realists (in the medieval sense).
->   As far as possible they [empiricists] try to avoid any reference to abstract entities and to 
+>   As far as possible they try to avoid any reference to abstract entities and to 
 >   restrict themselves to what is sometimes called a nominalistic language, i.e.,
 >   one not containing such references. [^Carnap1950p1]
 
@@ -262,6 +262,7 @@ and constraining real structures in nature.
 
 See also:
 
+-   [A.J. Ayer on Logical Positivism and Its Legacy (1976)](https://www.youtube.com/watch?v=nG0EWNezFl4&feature=youtu.be&t=2040)
 -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism) - scientific realism vs anti-realism
 -   [positivists.org/blog/movements](http://positivists.org/blog/movements)
 
