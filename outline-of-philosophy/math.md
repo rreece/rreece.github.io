@@ -100,9 +100,9 @@ Hilbert:
 [^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
 
 
-### G&ouml;del
+### Incompleteness
 
-#### Incompleteness
+G&ouml;del, Kurt (1906-1978)
 
 From Wikipedia:
 
@@ -116,10 +116,7 @@ From Wikipedia:
 More:
 
 -   von Neumann
-
-#### Platonism
-
-G&ouml;del was a platonist, a (religious) realist.
+-   G&ouml;del was a platonist, a (religious) realist.
 
 
 ### Intuitionism
