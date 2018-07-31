@@ -125,6 +125,12 @@ More:
 -   Kronecker's finitism was a forerunner of intuitionism in foundations of mathematics.
 -   L.E.J. Brouwer (1881-1966)
 
+Hilbert: 
+
+>   Taking the Principle of the Excluded Middle from the mathematician ... is the same as ... prohibiting the boxer the use of his fists.
+
+Reid 1996, p. 150.
+
 
 ### Fictionalism
 
