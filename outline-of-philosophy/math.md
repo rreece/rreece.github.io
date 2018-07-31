@@ -19,18 +19,25 @@ Issues and positions
 
 -   Ancient logic and Aristotle 
 -   *Modus ponens*, *modus tollens*, Affirming the consequent, Proof by contrapositive
--   Frege
+-   Frege, Gottlob (1848-1925)
 -   first-order and second-order logic
 
 
 ### Algebra
 
--   Kronecker
+-   roots from Babylonians
+-   Kronecker, Leopold (1823-1891)
 
 
 ### Analysis
 
--   Newton and Leibniz
+-   Newton, Isaac (1642-1726/7)
+-   Leibniz, Gottfried Wilhelm (1646-1716)
+-   Euler, Leonhard (1707-1783)
+-   Gauss, Carl Friedrich (1777-1855)
+-   Cauchy, Augustin-Louis (1789-1857)
+-   Weierstrass, Karl (1815-1897)
+-   Stokes, George (1819-1903)
 -   Struggles with the continuum[^Baez-2016].
 
 [^Baez-2016]: @Baez_2016_Struggles_with_the_continuum\.
@@ -113,6 +120,13 @@ More:
 #### Platonism
 
 G&ouml;del was a platonist, a (religious) realist.
+
+
+### Intuitionism
+
+-   Antirealist
+-   Kronecker's finitism was a forerunner of intuitionism in foundations of mathematics.
+-   L.E.J. Brouwer (1881-1966)
 
 
 ### Fictionalism
@@ -345,6 +359,7 @@ Links and encyclopedia articles
 -   [Euler, Leonhard (1707-1783)](https://en.wikipedia.org/wiki/Leonhard_Euler)
 -   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
 -   [Frege, Gottlob (1848-1925)](http://en.wikipedia.org/wiki/Gottlob_Frege)
+-   [Gauss, Carl Friedrich (1777-1855)](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)
 -   [Gentzen's consistency proof](http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof)
 -   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
 -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
@@ -363,6 +378,7 @@ Links and encyclopedia articles
 -   [Modus ponens](https://en.wikipedia.org/wiki/Modus_ponens)
 -   [Modus tollens](https://en.wikipedia.org/wiki/Modus_tollens)
 -   [Natural number](http://en.wikipedia.org/wiki/Natural_number)
+-   [Newton, Isaac (1642-1726/7)](https://en.wikipedia.org/wiki/Isaac_Newton)
 -   [Noether, Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
 -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy)
@@ -377,6 +393,7 @@ Links and encyclopedia articles
 -   [Rule of inference](https://en.wikipedia.org/wiki/Rule_of_inference)
 -   [Russell, Bertrand (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell)
 -   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
+-   [Stokes, George (1819-1903)](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet)
 -   [Tarski, Alfred (1901-1983)](https://en.wikipedia.org/wiki/Alfred_Tarski)
 -   [Tarski's undefinability theorem](https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem)
 -   [Third man argument](https://en.wikipedia.org/wiki/Third_man_argument)
@@ -386,6 +403,7 @@ Links and encyclopedia articles
 -   [Unsolved problems in linquistics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_linguistics)
 -   [Unsolved problems in mathematics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
 -   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
+-   [Weierstrass, Karl (1815-1897)](https://en.wikipedia.org/wiki/Karl_Weierstrass)
 -   [Zeroth-order logic](https://en.wikipedia.org/wiki/Zeroth-order_logic)
 
 ### Others
