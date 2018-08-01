@@ -50,6 +50,7 @@ Issues and positions
 -   Ethical naturalism
 -   Game theory
 -   "The problem of what to do next" - David Deutsch ([yt](https://www.youtube.com/watch?v=J21QuHrIqXg), [txt](http://www.bretthall.org/david-deutsch--sam-harris.html))
+-   Victor Kraft (1880-1975) - the positivist with ethics!
 
 See the outline on [Naturalism](naturalism.html#ethical-naturalism).
 
@@ -291,6 +292,7 @@ Links and encyclopedia articles
 -   [Ross, William David (1877-1971)](http://www.iep.utm.edu/ross-wd/)
 -   [Stoic Ethics](http://www.iep.utm.edu/stoiceth/)
 -   [Utilitarianism, Act and Rule](http://www.iep.utm.edu/util-a-r/)
+-   [Victor Kraft (1880-1975)](http://www.iep.utm.edu/kraft/)
 
 ### Wikipedia
 
@@ -320,6 +322,7 @@ Links and encyclopedia articles
 -   [Trolley problem](http://en.wikipedia.org/wiki/Trolley_problem)
 -   [Utilitarianism](http://en.wikipedia.org/wiki/Utilitarianism)
 -   [Veil of ignorance](https://en.wikipedia.org/wiki/Veil_of_ignorance)
+-   [Victor Kraft (1880-1975)](https://en.wikipedia.org/wiki/Victor_Kraft)
 
 ### Others
 

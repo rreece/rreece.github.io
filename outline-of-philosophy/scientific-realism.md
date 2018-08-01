@@ -193,7 +193,8 @@ All statements that can't be empirically verified are meaningless.
 -   The Vienna Circle
 -   Ayer, Carnap, Neurath, Wittgenstein, Frege, von Neuman, Hilbert
 -   @Ayer_1952_Language_truth_and_logic\. *Language, Truth, and Logic*.
--   Hans Reichenbach (1891-1953)
+-   Hans Reichenbach (1891-1953) and the Berlin Circle
+-   International Encyclopedia of Unified Science
 -   verificationism, nominalism, quietism
 -   G&#246;del
 -   Russell, 

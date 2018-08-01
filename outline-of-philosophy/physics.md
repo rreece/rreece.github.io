@@ -78,6 +78,16 @@ Thermodynamics, statistical mechanics, renormalization.
     including non-entangled ones, can communicate by action at a distance. 
 -   Gisin's Theorem
 
+>   The withdrawal of philosophy into a "professional" shell of its own has had 
+>   disastrous consequences. The younger generation of physicists, the Feynmans,
+>   the Schwingers, etc., may be very bright; they may be more intelligent than
+>   their predecessors, than Bohr, Einstein, Schr&ouml;dinger, Boltzmann, 
+>   Mach and so on. But they are uncivilized savages, they lack in philosophical 
+>   depth---and this is the fault of the very same idea of professionalism which
+>   you are now defending.
+
+-- from a letter in Appendix B of Feyerabend's *Against Method*
+
 #### Foundations of QM:
 
 -   Hilbert spaces:
