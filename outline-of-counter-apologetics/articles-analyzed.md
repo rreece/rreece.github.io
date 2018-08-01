@@ -2,15 +2,14 @@ Articles Analyzed
 ================================================================================
 
 
-Articles
+Apologetics
 --------------------------------------------------------------------------------
 
-TODO.
+### [Do you see a duck or a rabbit: just what is aspect perception?](https://aeon.co/ideas/do-you-see-a-duck-or-a-rabbit-just-what-is-aspect-perception)
 
 
-Blogs
+Counter apologetics
 --------------------------------------------------------------------------------
-
 
 ### [A Year Without God](http://www.patheos.com/blogs/yearwithoutgod/)
 
@@ -21,8 +20,8 @@ Responses:
     -   "But here at midlife disbelieving in God would be indistinguishable from disbelieving in myself."
 
 
-Quotes
---------------------------------------------------------------------------------
+
+### *Philosophy in the Bedroom* - D.A.F. de Sade
 
 >   All our ideas are representations of objects that strike us: what is to represent
 >   to us the idea of a god, who is plainly an idea without object? Is not such an idea,
