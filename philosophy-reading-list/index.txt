@@ -48,6 +48,7 @@ Projects I'd like to tackle
 -   Quine, W.V.O. (1960). *Word and Object*.
 -   Quine, W.V.O. & Carnap, R. (1990). *Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work*.
 -   Fowler, S. (2010). [LSL in a nutshell](https://philarchive.org/archive/FOWLIA).
+-   Ney, A. (2014). *Metaphysics: An Introduction*.
 -   Tahko, T.E. (2015). *An Introduction to Metametaphysics*.
 
 

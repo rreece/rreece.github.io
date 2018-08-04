@@ -44,6 +44,17 @@ Responses:
 [^deSade2002p97]: @deSade_2002_Philosophy_in_the_Bedroom\, p. 97.
 
 
+### John Tyndall
+
+>   The phenomena of matter and force come within our intellectual range... 
+>   but behind, and above, and around us the real mystery of the universe lies 
+>   unsolved, and, as far as we are concerned, is incapable of solution.... 
+>   Let us lower our heads, and acknowledge our ignorance, priest and philosopher, 
+>   one and all.
+
+-- *Fragments of Science, Vol. 2*
+
+
 <!-- REFERENCES -->
 
 
