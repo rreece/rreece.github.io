@@ -637,6 +637,7 @@ Links and encyclopedia articles
 
 -   [Carroll, S. (2013). Particles, Fields and The Future of Physics.](https://www.youtube.com/watch?v=gEKSpZPByD0)
 -   [Tong, D. (2017). Quantum Fields: The Real Building Blocks of the Universe.](https://www.youtube.com/watch?v=zNVQfWC_evg)
+-   [Maudlin, T. (2018). Ontological clarity, electromagnetism, Aharanov-Bohm effect.](https://www.fetzer-franklin-fund.org/media/ontological-clarity-electromagnetism-aharanov-bohm-effect-maudlin-video/)
 
 
 <!-- REFERENCES -->
