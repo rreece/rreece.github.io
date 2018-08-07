@@ -289,11 +289,13 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 ### Bracketing human experience
 
--   Reductionism
+-   Entailment, Reductionism
 -   [Sean Carroll's acceptance speech](https://www.youtube.com/watch?v=40eiycH077A#t=402)
     for the FFRF's the emperor has no clothes award.
 -   ["Quantum Field Theory and the Limits of Knowledge"](http://www.preposterousuniverse.com/blog/2015/04/21/quantum-field-theory-and-the-limits-of-knowledge/) - Sean Carroll
 -   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) - Sean Carroll
+
+![Sean on the entailment of everyday life by physics.](img/sean-entailment.jpg)
 
 
 ### Fine-tuning
