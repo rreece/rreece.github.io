@@ -829,6 +829,7 @@ Links and encyclopedia articles
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
 -   [Analysis](http://plato.stanford.edu/entries/analysis/)
 -   [Analytic/Synthetic Distinction](http://plato.stanford.edu/entries/analytic-synthetic/)
+-   [Causal Models](https://plato.stanford.edu/entries/causal-models/)
 -   [Causal Processes](http://plato.stanford.edu/entries/causation-process/)
 -   [Challenges to Metaphysical Realism](http://plato.stanford.edu/entries/realism-sem-challenge/)
 -   [Comte, Auguste (1798-1857)](http://plato.stanford.edu/entries/comte/)

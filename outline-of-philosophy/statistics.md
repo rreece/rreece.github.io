@@ -253,6 +253,8 @@ Links and encyclopedia articles
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
 -   [Analysis of Knowledge](http://plato.stanford.edu/entries/knowledge-analysis/)
+-   [Causal Models](https://plato.stanford.edu/entries/causal-models/)
+-   [Causal Processes](http://plato.stanford.edu/entries/causation-process/)
 -   [Epistemology](http://plato.stanford.edu/entries/epistemology/)
 -   [Foundationalist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-foundational/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
