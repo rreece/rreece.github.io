@@ -59,7 +59,7 @@ ATLAS publications
     [arxiv:1802.03158](https://arxiv.org/abs/1802.03158),
     February 9, 2018.
 
-1.  Search for supersymmetry in a final state containing two photons and missing transverse momentum in $\sqrt{s}$=13 TeV $pp$ collisions at the LHC using the ATLAS detector,
+1.  Search for supersymmetry in a final state containing two photons and missing transverse momentum in $\sqrt{s}$ = 13 TeV $pp$ collisions at the LHC using the ATLAS detector,
     [*European Physical Journal C*, *76*, 517 (2016)](https://link.springer.com/article/10.1140/epjc/s10052-016-4344-x),
     [arxiv:1606.09150](http://arxiv.org/abs/1606.09150),
     June 29, 2016.
@@ -69,7 +69,7 @@ ATLAS publications
     [arxiv:1507.05493](http://arxiv.org/abs/1507.05493),
     July 20, 2015.
 
-1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in $pp$ collisions at $\sqrt{s}$=8 TeV with the ATLAS detector,
+1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in $pp$ collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector,
     [*Journal of High Energy Physics*, *7*, 157 (2015)](https://link.springer.com/article/10.1007/JHEP07(2015)157), 
     [arxiv:1502.07177](http://arxiv.org/abs/1502.07177),
     February 25, 2015,
