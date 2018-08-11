@@ -46,35 +46,6 @@ Jacobs:
 >   tractable through the methods of the empirical sciences or at least, without
 >   a distinctively a priori project of theorizing.  [^Jacobs2002]
 
-[^Jacobs2002]: @Jacobs_2002_Naturalism\. 
-[^Maddy-2007-1]: @Maddy_2007_Second_Philosophy, p. 1.
-[^Maddy-2007-2]: @Maddy_2007_Second_Philosophy, p. 18--19.
-
-
-### Science and scientism
-
-Methodological naturalism.
-
-![W.V.O. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
-
->   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
->   and it is these and no dim proxies that science is all about. Now how is such
->   robust realism to be reconciled with what we have just been through? The answer
->   is naturalism: the recognition that it is within science itself, and not in
->   some prior philosophy, that reality is properly to be identified and
->   described.  [^Quine-1981]
-
-[^Quine-1981]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
-    found in @Quine_1981_Theories_and_Things, p. 21.
-
-1.  blah
-2.  blah
-
-Scientism.
-
--   What are the limits of science?
--   Are there other ways of knowing?
-
 Naturalism could be defined as a support for philosophy that is filtered for
 plausibility given the information from science[^Ladyman2007].
 See the outline on the [science method](scientific-method.html#is-there-a-universal-scientific-method).
@@ -93,7 +64,32 @@ See the outline on the [science method](scientific-method.html#is-there-a-univer
 >   reveal something at least of the hidden 'theoretical' processes that lie behind
 >   and explain the observational regularities. [^Redhead1999p34]
 
+[^Jacobs2002]: @Jacobs_2002_Naturalism\. 
+[^Maddy-2007-1]: @Maddy_2007_Second_Philosophy, p. 1.
+[^Maddy-2007-2]: @Maddy_2007_Second_Philosophy, p. 18--19.
 [^Redhead1999p34]: @Redhead_1999_Quantum_field_theory_and_the_philosopher\, p. 34.
+
+
+### Scientism
+
+![W.V.O. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
+
+>   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
+>   and it is these and no dim proxies that science is all about. Now how is such
+>   robust realism to be reconciled with what we have just been through? The answer
+>   is naturalism: the recognition that it is within science itself, and not in
+>   some prior philosophy, that reality is properly to be identified and
+>   described.  [^Quine-1981]
+
+-   methodological naturalism
+-   What are the limits of science?
+-   Are there other ways of knowing?
+-   Unity of knowledge
+-   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
+
+[^Quine-1981]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
+    found in @Quine_1981_Theories_and_Things, p. 21.
+[^Wilson1998]: @Wilson_1998_Consilience\.
 
 
 ### Reductionism
