@@ -113,6 +113,10 @@ def main():
 
             newline = line
 
+            ## $\sqrt{s}$
+            newline = newline.replace(r'$\sqrt{s}$', '&radic;s')
+
+            ## PlotTable
             if pt_part > 0: # parsing PlotTable
                 cached_lines.append(newline)
 
