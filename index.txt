@@ -79,7 +79,7 @@ reconstruction and other classification problems.
 -   ATLAS searches for exotic Higgs and *Z'&rarr;&tau;&tau;* events
     [[1210.6604](https://arxiv.org/abs/1210.6604), [1502.07177](https://arxiv.org/abs/1502.07177)]
 -   ATLAS searches for evidence of supersymmetry in diphoton events
-    [[1507.05493](https://arxiv.org/abs/1507.05493), [1606.09150](https://arxiv.org/abs/1606.09150)]
+    [[1507.05493](https://arxiv.org/abs/1507.05493), [1606.09150](https://arxiv.org/abs/1606.09150), [1802.03158](https://arxiv.org/abs/1802.03158)]
 -   Research in applications of machine learning for particle identification
     ($e/\gamma/\pi$) with ILC-CLIC simulation data
 
