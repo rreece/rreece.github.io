@@ -117,7 +117,7 @@ The above is a selected list of ATLAS publications for which I made substantial 
 I am also an author of several publications (more than 600 as of June 2017)
 because of my affiliation with ATLAS as a qualified author since June 1, 2008.
 See my INSPIRE-HEP profile for a more complete count of ATLAS publications:
-<https://inspirehep.net/author/profile/R.Reece.1>.
+<https://inspirehep.net/author/profile/R.Reece.1>
 
 including the discovery of the Higgs boson:
 
