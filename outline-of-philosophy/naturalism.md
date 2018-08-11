@@ -70,28 +70,6 @@ See the outline on the [science method](scientific-method.html#is-there-a-univer
 [^Redhead1999p34]: @Redhead_1999_Quantum_field_theory_and_the_philosopher\, p. 34.
 
 
-### Scientism
-
-![W.V.O. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
-
->   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
->   and it is these and no dim proxies that science is all about. Now how is such
->   robust realism to be reconciled with what we have just been through? The answer
->   is naturalism: the recognition that it is within science itself, and not in
->   some prior philosophy, that reality is properly to be identified and
->   described.  [^Quine-1981]
-
--   methodological naturalism
--   What are the limits of science?
--   Are there other ways of knowing?
--   Unity of knowledge
--   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
-
-[^Quine-1981]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
-    found in @Quine_1981_Theories_and_Things, p. 21.
-[^Wilson1998]: @Wilson_1998_Consilience\.
-
-
 ### Reductionism
 
 ![The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013)
@@ -126,6 +104,28 @@ Fundamentality:
 -   Ney [^Ney2018]
 
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
+
+
+### Scientism
+
+![W.V.O. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
+
+>   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
+>   and it is these and no dim proxies that science is all about. Now how is such
+>   robust realism to be reconciled with what we have just been through? The answer
+>   is naturalism: the recognition that it is within science itself, and not in
+>   some prior philosophy, that reality is properly to be identified and
+>   described.  [^Quine-1981]
+
+-   methodological naturalism
+-   What are the limits of science?
+-   Are there other ways of knowing?
+-   Unity of knowledge
+-   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
+
+[^Quine-1981]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
+    found in @Quine_1981_Theories_and_Things, p. 21.
+[^Wilson1998]: @Wilson_1998_Consilience\.
 
 
 ### Rejection of *a priori* metaphysics
