@@ -80,7 +80,11 @@ Stealing from encyclopedia.com:
 -   Am I a more advanced civilization's tamagotchi?
 -   Distinguish Anti-realism from non-realism
 
+>   The world extended in space and time is but our representation. [^Schopenhauer-Schrodinger]
+
 >   Just 'cause you feel it, doesn't mean it's there. - Radiohead
+
+[^Schopenhauer-Schrodinger]: Schr&ouml;dinger quoting Schopenhauer in "Mind and Matter".
 
 
 ### Humeanism
