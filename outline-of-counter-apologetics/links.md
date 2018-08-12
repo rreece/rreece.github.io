@@ -137,6 +137,7 @@ Wiki Articles
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy)) - Wikipedia
 -   [Problem of evil](https://plato.stanford.edu/entries/evil/) - SEP
 -   [Problem of evil](http://www.iep.utm.edu/evil-log/) - IEP
+-   [Tractatus Theologico-Politicus](https://en.wikipedia.org/wiki/Tractatus_Theologico-Politicus) - Wikipedia
 
 
 
