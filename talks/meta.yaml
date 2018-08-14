@@ -60,7 +60,8 @@ tblPrefix: "Table"
 ## html options -------------------------------------------
 css: 
     -   'templates/markdown-memo.css'
-    -   'https://use.fontawesome.com/releases/v5.0.6/css/all.css'
+#    -   'https://use.fontawesome.com/releases/v5.0.6/css/all.css'
+    -   'https://use.fontawesome.com/releases/v5.2.0/css/all.css'
 email: '<img class="email" src="img/my-email.png" alt="my email address"/>'
 #email: '<img class="email" src="img/my-email-alt.png" alt="my email address"/>'
 #disqus_shortname: 'ryans-selected-software-projects'
