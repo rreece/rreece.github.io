@@ -61,7 +61,8 @@ tblPrefix: "Table"
 ## html options -------------------------------------------
 css: 
     -   'templates/markdown-memo.css'
-    -   'https://use.fontawesome.com/releases/v5.0.6/css/all.css'
+#    -   'https://use.fontawesome.com/releases/v5.0.6/css/all.css'
+    -   'https://use.fontawesome.com/releases/v5.2.0/css/all.css'
 #    -   'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'
 #    -   'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css'
 #    -   'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/fa-regular.css'

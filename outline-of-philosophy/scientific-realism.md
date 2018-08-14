@@ -187,7 +187,7 @@ but we have no ontological commitments to them.
 
 ### Positivism
 
-All statements that can't be empirically verified are meaningless.
+Verification theory of meaning: All statements that can't be empirically verified are meaningless.
 
 -   anti-realist
 -   Auguste Comte
@@ -215,18 +215,14 @@ All statements that can't be empirically verified are meaningless.
 [^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 
-Note any differences between:
-
--   positivism
--   logical positivism
--   logical empiricism
-
 Positivism is a philosophy of science and epistemology that roughly defends a
 qualified empiricism, that the scientific method is the only route to knowledge,
 and that all statements that cannot be empirically verified are meaningless.
 Positivism is strongly eliminative about metaphysics and claims that many
 metaphysical questions and positions are not open or false, but meaningless
 because of their lack of attachment to empirically demonstrable things or effects.
+
+Russell:
 
 >   Modern analytical empiricism [...] differs from that of Locke, Berkeley, and Hume 
 >   by its incorporation of mathematics and its development of a powerful logical 
@@ -236,6 +232,16 @@ because of their lack of attachment to empirically demonstrable things or effect
 >   being able to tackle its problems one at a time, instead of having to invent
 >   at one stroke a block theory of the whole universe. Its methods, in this respect, 
 >   resemble those of science. [^Russell1945p834]
+
+Google:
+
+>   Logical positivism: a form of positivism, developed by members of the Vienna Circle, that considers that the only meaningful philosophical problems are those that can be solved by logical analysis.
+
+Note any differences between:
+
+-   positivism - Comte, Mach
+-   logical positivism - Vienna Circle
+-   logical empiricism - Reichenbach's preferred term[^Reichenbach], Berlin Circle
 
 This means that positivism is generally seen to imply anti-realist views of science and mathematics, preferring as Carnap says in _Empiricism, Semantics, and Ontology_:
 
@@ -247,6 +253,7 @@ This means that positivism is generally seen to imply anti-realist views of scie
 >   one not containing such references. [^Carnap1950p1]
 
 [^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
+[^Reichenbach]: [www.newworldencyclopedia.org/entry/Hans_Reichenbach](http://www.newworldencyclopedia.org/entry/Hans_Reichenbach)
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 
 Positivists have instrumentalist (anti-realist) views about the models science
@@ -272,8 +279,6 @@ See also:
 -   [positivists.org/blog/movements](http://positivists.org/blog/movements)
 
 Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
-
-Google gives -- Logical positivism: a form of positivism, developed by members of the Vienna Circle, that considers that the only meaningful philosophical problems are those that can be solved by logical analysis.
 
 
 ### Postpositivism

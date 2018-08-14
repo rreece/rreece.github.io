@@ -29,81 +29,7 @@ and an eye for technical detail and [good scholarship](http://rreece.github.io/p
 I am passionate about using scientific techniques to solve important problems
 and about how technologies extend our reach.
 
-
-Research Interests
---------------------------------------------------------------------------------
-
--   High-performance computing
--   Data science and visualization
--   Machine learning: deep neural nets, anomaly detection
--   Statistical inference
--   Searches for new physics
--   Measuring properties of the Higgs boson
--   Hadronic tau reconstruction and identification
--   Philosophy of science and science communication
-
-Many theories of physics beyond the Standard Model have revolutionary
-implications for the concepts of symmetry and space-time, and
-for our understanding of the early universe.
-
-Searching for new physics in collider data involves detecting rare events among many,
-requiring big data reductions, data-driven background modeling,
-and severe statistical hypothesis testing.
-
-My research has primarily focused on supporting and optimizing the reconstruction
-of hadronic tau decays, and searching for exotic new physics in ditau and diphoton events,
-including for signs of grand unified theories and supersymmetry.
-More recently, for the last year,
-my research has transitioned to using deep learning techniques for particle physics
-reconstruction and other classification problems.
-
-
-![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png "Experiment &rarr; data acquisition &rarr; reconstruction &rarr; analysis &rarr; inference")
-
-
-### Current projects I am focused on
-
--   Deep learning performance with GPUs
--   Hyperparameter optimization
--   Understanding the best machine learning techniques for clustering and anomaly detection
-
-
-### Previous focuses
-
--   Commissioning, operations, and threshold calibration of the ATLAS Transition Radiation Tracker
-    [[1005.5254](https://arxiv.org/abs/1005.5254)]
--   ATLAS tau reconstruction and identification
-    [[1412.7086](https://arxiv.org/abs/1412.7086)]
--   ATLAS observation and cross section measurement of SM *Z&rarr;&tau;&tau;* 
-    [[1108.2016](https://arxiv.org/abs/1108.2016)]
--   ATLAS searches for exotic Higgs and *Z'&rarr;&tau;&tau;* events
-    [[1210.6604](https://arxiv.org/abs/1210.6604), [1502.07177](https://arxiv.org/abs/1502.07177)]
--   ATLAS searches for evidence of supersymmetry in diphoton events
-    [[1507.05493](https://arxiv.org/abs/1507.05493), [1606.09150](https://arxiv.org/abs/1606.09150), [1802.03158](https://arxiv.org/abs/1802.03158)]
--   Research in applications of machine learning for particle identification
-    ($e/\gamma/\pi$) with ILC-CLIC simulation data
-
-
-### Curriculum Vitae
-
--   My brief r&eacute;sum&eacute;: <i class="far fa-file" style="font-size:20px;"></i> [html](docs/Ryan-Reece-resume.html), <i class="far fa-file-pdf" style="font-size:20px;"></i> [pdf](docs/Ryan-Reece-resume.pdf)
--   My full academic curriculum vitae: <i class="far fa-file" style="font-size:20px;"></i> [html](docs/Ryan-Reece-cv.html), <i class="far fa-file-pdf" style="font-size:20px;"></i> [pdf](docs/Ryan-Reece-cv.pdf)
--   More info about my projects:              
-    <i class="fab fa-github" style="font-size:20px;"></i>&nbsp;&nbsp;[My github profile](https://github.com/rreece)           
-    <i class="far fa-save" style="font-size:20px;"></i>&nbsp;&nbsp;[Descriptions of my selected software projects at github](sw/)           
-    <i class="far fa-file-alt" style="font-size:20px;"></i>&nbsp;&nbsp;[List of my selected publications](publications/)           
-    <i class="far fa-sticky-note" style="font-size:20px;"></i>&nbsp;&nbsp;[Slides for my selected talks](talks/)
-
-
-### Thesis
-
-My graduate research in particle physics was on the reconstruction and identification of
-hadronic tau decays with the ATLAS experiment,
-measuring the *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
-at *&radic;s* = 7 TeV,
-and searching for new physics in high-mass ditau events.              
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-book" style="font-size:20px;"></i>&nbsp;&nbsp;[Download my thesis here](docs/CERN-THESIS-2013-075.pdf)
+Read more about my [research here](research/).
 
 
 Contact
@@ -135,6 +61,7 @@ Contact
 Site navigation:
 
 &nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-file-alt" style="font-size:20px;"></i>&nbsp;&nbsp;[publications](publications/)         
+&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-atom" style="font-size:20px;"></i>&nbsp;&nbsp;[research](research/)         
 &nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-save" style="font-size:20px;"></i>&nbsp;&nbsp;[software](sw/)         
 &nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-sticky-note" style="font-size:20px;"></i>&nbsp;&nbsp;[talks](talks/)         
 
