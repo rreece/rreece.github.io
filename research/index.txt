@@ -1,6 +1,5 @@
 
-Research Interests
---------------------------------------------------------------------------------
+### Research interests
 
 -   High-performance computing
 -   Data science and visualization
