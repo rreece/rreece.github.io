@@ -65,7 +65,7 @@ ATLAS publications
     June 29, 2016.
 
 1.  Search for photonic signatures of gauge-mediated supersymmetry in 8 TeV pp collisions with the ATLAS detector,
-    *Physical Review D*, *92*, 072001 (2015),
+    [*Physical Review D*, *92*, 072001 (2015)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.072001),
     [arxiv:1507.05493](http://arxiv.org/abs/1507.05493),
     July 20, 2015.
 
@@ -122,7 +122,7 @@ See my INSPIRE-HEP profile for a more complete count of ATLAS publications:
 including the discovery of the Higgs boson:
 
 *   ATLAS Collaboration, Combined search for the Standard Model Higgs boson in $pp$ collisions
-at $\sqrt{s}$ = 7\ TeV with the ATLAS detector, *Physical Review D*, 86 032003 (2012), arXiv:[1207.0319](https://arxiv.org/abs/1207.0319).
+at $\sqrt{s}$ = 7\ TeV with the ATLAS detector, [*Physical Review D*, 86 032003 (2012)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.032003), arXiv:[1207.0319](https://arxiv.org/abs/1207.0319).
 
 
 ATLAS conference notes / proceedings / other public documents 
