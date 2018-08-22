@@ -19,130 +19,151 @@ Issues and positions
 
 ![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig:timeline-of-major-philosophers-since-1200}
 
+**Ionian Enlightenment**
+
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
-    -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
-        -   first philosopher
-        -   radical mathematical realist
-    -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
-        -   Chinese, not part of the Ionian Enlightenment, but contemporary with it
-        -   skepticism, anti-dogmatism
-    -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
-        -   atomic theory
-    -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
-        -   revolutionized western thought
-        -   epistemology
-        -   abstract Platonism
-        -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy) from which we derive academia 
-    -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
-        -   teleological: things have "natural" purposes or tendencies 
-    -   [Epicurus (341-270 BCE)](https://en.wikipedia.org/wiki/Epicurus)
-        -   Emphasized skepticism until something can be demonstrated 
-        -   Principle of Multiple Explanations: "if several theories are consistent with the observed data, retain them all"
-    -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
-    -   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
-    -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
-    -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
--   The Middle Ages
-    -   [Islamic Golden Age](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
-    -   [Academy of Gondishapur](https://en.wikipedia.org/wiki/Academy_of_Gondishapur)
-        -   in what is now Khuzestan Province, Iran
-    -   [House of Wisdom](https://en.wikipedia.org/wiki/House_of_Wisdom)
-        -   in Abbasid-era Baghdad, Iraq
-    -   [Ibn Sina (980-1037)](https://en.wikipedia.org/wiki/Avicenna) AKA "Avicenna"
-    -   [Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen) AKA "Alhazen"
-        -   *Book of Optics*
-        -   intromission over extramission theories of vision
-        -   *Doubts Concerning Ptolemy*
-        -   "But for a man to imagine a circle in the heavens, and to imagine the planet moving in it does not bring about the planet's motion... And therefore the arrangements assumed by Ptolemy for the five planets are false, and he asserted them knowing them to be false, and there exists for the planets a true arrangement in existing bodies which Ptolemy failed to grasp." [^Sabra1978]
-    -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
-    -   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
-    -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
-        -   Ockham's razor as a hint at parsimony and abduction
--   Early Modern Period
-    -   [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
-    -   [da Vinci, Leonardo (1452-1519)](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
-    -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
-    -   [Tycho Brahe (1546-1601)](https://en.wikipedia.org/wiki/Tycho_Brahe)
-    -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
-    -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
-    -   [Johannes Kepler (1571-1630)](https://en.wikipedia.org/wiki/Johannes_Kepler)
-    -   [Hobbes, Thomas (1588-1679)](http://en.wikipedia.org/wiki/Thomas_Hobbes)
-    -   [Gassendi, Pierre (1592-1655)](http://en.wikipedia.org/wiki/Pierre_Gassendi)
-    -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
-        -   No teleology. Matter plenum, vorticies.
-        -   *Meditations on First Philosophy* (1641) [^Descartes2008]
+-   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
+    -   first philosopher
+    -   radical mathematical realist
+-   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
+    -   Chinese, not part of the Ionian Enlightenment, but contemporary with it
+    -   skepticism, anti-dogmatism
+-   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
+    -   atomic theory
+-   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
+    -   revolutionized western thought
+    -   epistemology
+    -   abstract Platonism
+    -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy) from which we derive academia 
+-   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
+    -   teleological: things have "natural" purposes or tendencies 
+-   [Epicurus (341-270 BCE)](https://en.wikipedia.org/wiki/Epicurus)
+    -   Emphasized skepticism until something can be demonstrated 
+    -   Principle of Multiple Explanations: "if several theories are consistent with the observed data, retain them all"
+-   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
+-   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
+-   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
+-   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
+
+**The Middle Ages**
+
+-   [Islamic Golden Age](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
+-   [Academy of Gondishapur](https://en.wikipedia.org/wiki/Academy_of_Gondishapur)
+    -   in what is now Khuzestan Province, Iran
+-   [House of Wisdom](https://en.wikipedia.org/wiki/House_of_Wisdom)
+    -   in Abbasid-era Baghdad, Iraq
+-   [Ibn Sina (980-1037)](https://en.wikipedia.org/wiki/Avicenna) AKA "Avicenna"
+-   [Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen) AKA "Alhazen"
+    -   *Book of Optics*
+    -   intromission over extramission theories of vision
+    -   *Doubts Concerning Ptolemy*
+    -   "But for a man to imagine a circle in the heavens, and to imagine the planet moving in it does not bring about the planet's motion... And therefore the arrangements assumed by Ptolemy for the five planets are false, and he asserted them knowing them to be false, and there exists for the planets a true arrangement in existing bodies which Ptolemy failed to grasp." [^Sabra1978]
+-   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
+-   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
+-   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
+    -   Ockham's razor as a hint at parsimony and abduction
+
+**Early Modern Period**
+
+-   [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
+-   [da Vinci, Leonardo (1452-1519)](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
+-   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
+-   [Tycho Brahe (1546-1601)](https://en.wikipedia.org/wiki/Tycho_Brahe)
+-   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
+-   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
+-   [Johannes Kepler (1571-1630)](https://en.wikipedia.org/wiki/Johannes_Kepler)
+-   [Hobbes, Thomas (1588-1679)](http://en.wikipedia.org/wiki/Thomas_Hobbes)
+-   [Gassendi, Pierre (1592-1655)](http://en.wikipedia.org/wiki/Pierre_Gassendi)
+-   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+    -   No teleology. Matter plenum, vorticies.
+    -   *Meditations on First Philosophy* (1641) [^Descartes2008]
+
+**The Age of Enlightenment**
+
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
-    -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
-    -   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
-        -   corpuscules
-    -   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
-    -   [Hooke, Robert (1635-1703)](https://en.wikipedia.org/wiki/Robert_Hooke)
-    -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
-    -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
-    -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
-    -   [Berkeley, George (1685-1753)](https://en.wikipedia.org/wiki/George_Berkeley)
-    -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
-        -   *An Enquiry Concerning Human Understanding* (1748) [^Hume2007]
--   Canonical classical physics
-    -   [Franklin, Benjamin (1706-1790)](https://en.wikipedia.org/wiki/Benjamin_Franklin)
-    -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
-    -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
-    -   [Volta, Alessandro (1745-1827)](https://en.wikipedia.org/wiki/Alessandro_Volta)
-    -   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
-    -   [Amp&egrave;re, Andr&eacute;-Marie (1775-1836)](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re)
-    -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
-    -   [Poisson, Sim&eacute;on Denis (1781-1840)](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)
-    -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
-    -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
-    -   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
-    -   [Carnot, Nicolas L&eacute;onard Sadi (1796-1832)](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot)
-    -   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
-    -   [Hamilton, William Rowan (1805-1865))](https://en.wikipedia.org/wiki/William_Rowan_Hamilton)
-    -   [Kelvin, William Thomson (1824-1907)](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin)
-    -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
-    -   [Gibbs, Josiah Willard (1839-1903)](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs)
-    -   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
--   "Scientists"
-    -   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
-        -   atomic theory
-    -   [Somerville, Mary (1780-1729)](https://en.wikipedia.org/wiki/Mary_Somerville)
-        -   *On the Connexion of the Physical Sciences* (1834)
-    -   [Babbage, Charles (1791-1871)](https://en.wikipedia.org/wiki/Charles_Babbage)
-    -   [Herschel, John (1792-1871)](https://en.wikipedia.org/wiki/John_Herschel)
-        -   *Preliminary Discourse* (1831)
-    -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
-        -   Coined the term "scientist" (previously natural philosopher)
-    -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
-    -   [Pasteur, Louis (1822-1895)](https://en.wikipedia.org/wiki/Louis_Pasteur)
-    -   [Ladd-Franklin, Christine (1847-1930)](https://en.wikipedia.org/wiki/Christine_Ladd-Franklin)
--   Biological evolution
-    -   Hume on humans being animals [^Hume2007]
-    -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
-    -   [Mendel, Gregor (1822-1884)](https://en.wikipedia.org/wiki/Gregor_Mendel)
-    -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
--   Modern physics
-    -   [Mach, Ernst (1838-1916)](https://en.wikipedia.org/wiki/Ernst_Mach)
-    -   [Lorentz, Hendrik (1853-1928)](https://en.wikipedia.org/wiki/Hendrik_Lorentz)
-    -   [Poincar&eacute;, Henri (1854-1912)](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
-    -   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
-    -   [Hilbert, David (1862-1943)](https://en.wikipedia.org/wiki/David_Hilbert)
-    -   [Curie, Marie (1867-1934)](https://en.wikipedia.org/wiki/Marie_Curie)
-    -   [Einstein, Albert (1879-1955)](https://en.wikipedia.org/wiki/Albert_Einstein)
-    -   [Born, Max (1882-1970)](https://en.wikipedia.org/wiki/Max_Born)
-    -   [Bohr, Niels (1885-1962)](https://en.wikipedia.org/wiki/Niels_Bohr)
-    -   [Schr&ouml;dinger, Edwin (1887-1961)](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
-    -   [de Broglie, Louis (1892-1987)](https://en.wikipedia.org/wiki/Louis_de_Broglie)
-    -   [Pauli, Wolfgang (1900-1958)](https://en.wikipedia.org/wiki/Wolfgang_Pauli)
-    -   [Heisenberg, Werner (1901-1976)](https://en.wikipedia.org/wiki/Werner_Heisenberg)
-    -   [Jordan, Pascual (1902-1980)](https://en.wikipedia.org/wiki/Pascual_Jordan)
-    -   [Dirac, Paul (1902-1984)](https://en.wikipedia.org/wiki/Paul_Dirac)
-    -   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
-    -   ...
--   Modern statistics
-    -   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
-    -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
-    -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
-    -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
+-   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
+-   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
+    -   corpuscules
+-   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
+-   [Hooke, Robert (1635-1703)](https://en.wikipedia.org/wiki/Robert_Hooke)
+-   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
+-   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
+-   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
+-   [Berkeley, George (1685-1753)](https://en.wikipedia.org/wiki/George_Berkeley)
+-   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
+    -   *An Enquiry Concerning Human Understanding* (1748) [^Hume2007]
+
+**Canonical classical physics**
+
+-   [Franklin, Benjamin (1706-1790)](https://en.wikipedia.org/wiki/Benjamin_Franklin)
+-   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
+-   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
+-   [Volta, Alessandro (1745-1827)](https://en.wikipedia.org/wiki/Alessandro_Volta)
+-   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
+-   [Amp&egrave;re, Andr&eacute;-Marie (1775-1836)](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re)
+-   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
+-   [Poisson, Sim&eacute;on Denis (1781-1840)](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)
+-   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
+-   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
+-   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
+-   [Carnot, Nicolas L&eacute;onard Sadi (1796-1832)](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot)
+-   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
+-   [Hamilton, William Rowan (1805-1865))](https://en.wikipedia.org/wiki/William_Rowan_Hamilton)
+-   [Kelvin, William Thomson (1824-1907)](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin)
+-   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
+-   [Gibbs, Josiah Willard (1839-1903)](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs)
+-   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
+
+**"Scientists"**
+
+-   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
+    -   atomic theory
+-   [Somerville, Mary (1780-1729)](https://en.wikipedia.org/wiki/Mary_Somerville)
+    -   *On the Connexion of the Physical Sciences* (1834)
+-   [Babbage, Charles (1791-1871)](https://en.wikipedia.org/wiki/Charles_Babbage)
+-   [Herschel, John (1792-1871)](https://en.wikipedia.org/wiki/John_Herschel)
+    -   *Preliminary Discourse* (1831)
+-   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
+    -   Coined the term "scientist" (previously natural philosopher)
+-   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
+-   [Pasteur, Louis (1822-1895)](https://en.wikipedia.org/wiki/Louis_Pasteur)
+-   [Ladd-Franklin, Christine (1847-1930)](https://en.wikipedia.org/wiki/Christine_Ladd-Franklin)
+
+**Biological evolution**
+
+-   Hume on humans being animals [^Hume2007]
+-   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
+-   [Mendel, Gregor (1822-1884)](https://en.wikipedia.org/wiki/Gregor_Mendel)
+-   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
+
+![The great tree of life. Larger version: [here](img/great-tree-of-life-large.png). Source:[here](https://visual.ly/community/infographic/science/great-tree-life).](img/great-tree-of-life.png){#fig:great-tree-of-life}
+
+**Modern physics**
+
+-   [Mach, Ernst (1838-1916)](https://en.wikipedia.org/wiki/Ernst_Mach)
+-   [Lorentz, Hendrik (1853-1928)](https://en.wikipedia.org/wiki/Hendrik_Lorentz)
+-   [Poincar&eacute;, Henri (1854-1912)](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
+-   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
+-   [Hilbert, David (1862-1943)](https://en.wikipedia.org/wiki/David_Hilbert)
+-   [Curie, Marie (1867-1934)](https://en.wikipedia.org/wiki/Marie_Curie)
+-   [Einstein, Albert (1879-1955)](https://en.wikipedia.org/wiki/Albert_Einstein)
+-   [Born, Max (1882-1970)](https://en.wikipedia.org/wiki/Max_Born)
+-   [Bohr, Niels (1885-1962)](https://en.wikipedia.org/wiki/Niels_Bohr)
+-   [Schr&ouml;dinger, Edwin (1887-1961)](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
+-   [de Broglie, Louis (1892-1987)](https://en.wikipedia.org/wiki/Louis_de_Broglie)
+-   [Pauli, Wolfgang (1900-1958)](https://en.wikipedia.org/wiki/Wolfgang_Pauli)
+-   [Heisenberg, Werner (1901-1976)](https://en.wikipedia.org/wiki/Werner_Heisenberg)
+-   [Jordan, Pascual (1902-1980)](https://en.wikipedia.org/wiki/Pascual_Jordan)
+-   [Dirac, Paul (1902-1984)](https://en.wikipedia.org/wiki/Paul_Dirac)
+-   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
+-   ...
+
+**Modern statistics**
+
+-   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
+-   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
+-   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
+-   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
 
 [^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
 [^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
