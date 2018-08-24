@@ -33,9 +33,9 @@ reconstruction and other classification problems.
 
 ### Current projects I am focused on
 
--   Deep learning performance with GPUs
+-   Deep learning performance
 -   Hyperparameter optimization
--   Understanding the best machine learning techniques for clustering and anomaly detection
+-   Understanding techniques for clustering and anomaly detection
 
 
 ### Previous focuses
