@@ -18,6 +18,8 @@ Searching for new physics in collider data involves detecting rare events among 
 requiring big data reductions, data-driven background modeling,
 and severe statistical hypothesis testing.
 
+![A display of $pp\rightarrow\t\bar{t}\rightarrow{}b\bar{b}\mu\tau$ event in ATLAS.](img/ATLAS-ttbar-tau.png)
+
 My research has primarily focused on supporting and optimizing the reconstruction
 of hadronic tau decays, and searching for exotic new physics in ditau and diphoton events,
 including for signs of grand unified theories and supersymmetry.
