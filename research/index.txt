@@ -23,7 +23,7 @@ and severe statistical hypothesis testing.
 My research has primarily focused on supporting and optimizing the reconstruction
 of hadronic tau decays, and searching for exotic new physics in ditau and diphoton events,
 including for signs of grand unified theories and supersymmetry.
-More recently, for the last year,
+More recently, 
 my research has transitioned to using deep learning techniques for particle physics
 reconstruction and other classification problems.
 
