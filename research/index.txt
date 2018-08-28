@@ -10,6 +10,8 @@
 -   Hadronic tau reconstruction and identification
 -   Philosophy of science and science communication
 
+![A display of a $pp$ &rarr; $tt$ &rarr; $bbjj\mu\tau$ event in ATLAS in 2011.](img/ATLAS-ttbar-tau.png)
+
 Many theories of physics beyond the Standard Model have revolutionary
 implications for the concepts of symmetry and space-time, and
 for our understanding of the early universe.
@@ -18,7 +20,7 @@ Searching for new physics in collider data involves detecting rare events among 
 requiring big data reductions, data-driven background modeling,
 and severe statistical hypothesis testing.
 
-![A display of a $pp$ &rarr; $tt$ &rarr; $bbjj\mu\tau$ event in ATLAS in 2011.](img/ATLAS-ttbar-tau.png)
+![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png "Experiment &rarr; data acquisition &rarr; reconstruction &rarr; analysis &rarr; inference")
 
 My research has primarily focused on supporting and optimizing the reconstruction
 of hadronic tau decays, and searching for exotic new physics in ditau and diphoton events,
@@ -26,9 +28,6 @@ including for signs of grand unified theories and supersymmetry.
 More recently, 
 my research has transitioned to using deep learning techniques for particle physics
 reconstruction and other classification problems.
-
-
-![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png "Experiment &rarr; data acquisition &rarr; reconstruction &rarr; analysis &rarr; inference")
 
 
 ### Current projects I am focused on
