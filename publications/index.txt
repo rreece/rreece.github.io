@@ -18,15 +18,15 @@ Some pedagogical notes
 1.  [Primer on complex analysis](pdf/2006.Reece.Primer-on-complex-analysis.pdf) (2006)
 
 
-CV and Thesis
+R&eacute;sum&eacute; and CV
 -------------------------------------------------------------------------------
 
-### Curriculum Vitae
+-   My brief r&eacute;sum&eacute;: <i class="far fa-file" style="font-size:20px;"></i> [html](../docs/Ryan-Reece-resume.html), <i class="far fa-file-pdf" style="font-size:20px;"></i> [pdf](../docs/Ryan-Reece-resume.pdf)
+-   My full academic curriculum vitae: <i class="far fa-file" style="font-size:20px;"></i> [html](../docs/Ryan-Reece-cv.html), <i class="far fa-file-pdf" style="font-size:20px;"></i> [pdf](../docs/Ryan-Reece-cv.pdf)
 
-You can get my CV here: [html](../docs/Ryan-Reece-cv.html), [pdf](../docs/Ryan-Reece-cv.pdf).
 
-
-### Ph.D. thesis
+Ph.D. thesis
+-------------------------------------------------------------------------------
 
 <a href="../docs/CERN-THESIS-2013-075.pdf"><img class="floatright" src="img/ryans-thesis-300.jpg" title="A search for new physics in high-mass ditau events in the ATLAS detector"/></a>
 
