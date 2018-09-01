@@ -250,12 +250,12 @@ def transform_PlotTable(lines):
             else:
                 table_data[columns[ix]].append( x )
 
-    out_lines = make_PlotTable(table_data)
+    out_lines = make_PlotTable(columns, table_data)
     return out_lines
 
 
 #______________________________________________________________________________
-def make_PlotTable(table_data):
+def make_PlotTable(columns, table_data):
 
     import pandas as pd
     import matplotlib
