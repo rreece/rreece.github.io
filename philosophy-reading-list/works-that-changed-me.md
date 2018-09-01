@@ -11,6 +11,7 @@ Works that changed me
 1.  Hume, D. (1748). *An Enquiry Concerning Human Understanding*.
 1.  Feynman, R.P. (1963). *The Feynman Lectures on Physics*.
 1.  Griffths, D. (1981). *Introduction to Electrodynamics*.
+1.  Feynman, R.P. (1985). *QED: The Strange Theory of Light and Matter*.
 1.  Foer, J.S. (2005). *Extremely Loud & Incredibly Close*.
 1.  Needham, T. (1999). *Visual Complex Analysis*.
 1.  Martin, R.C. (2008). *Clean Code*.
@@ -20,6 +21,7 @@ Works that changed me
 1.  Harris, S. (2004). *The End of Faith: Religion, Terror, and the Future of Reason*.
 1.  Hitchens, C. (2007). *God Is Not Great: How Religion Poisons Everything*.
 1.  Cowan, G. (1998). *Statistical Data Analysis*.
+1.  Harris, S. (2010). *The Moral Landscape*.
 1.  McCarthy, C. (2006). *The Road*.
 1.  Zinn, H. (1980). *A People's History of the United States*.
 1.  Baggott, J. (2005). *A Beginner's Guide to Reality*.
