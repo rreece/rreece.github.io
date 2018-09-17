@@ -10,7 +10,7 @@
 -   Hadronic tau reconstruction and identification
 -   Philosophy of science and science communication
 
-![A display of a $pp$ &rarr; $tt$ &rarr; $bbjj\mu\tau$ event in ATLAS in 2011.](img/ATLAS-ttbar-tau.png)
+![A display of a $pp$ &rarr; $tt$ &rarr; $bb\mu\tau$ event in ATLAS in 2011.](img/ATLAS-ttbar-tau.png)
 
 Many theories of physics beyond the Standard Model have revolutionary
 implications for the concepts of symmetry and space-time, and
@@ -50,7 +50,7 @@ reconstruction and other classification problems.
     [[1210.6604](https://arxiv.org/abs/1210.6604), [1502.07177](https://arxiv.org/abs/1502.07177)]
 -   ATLAS searches for evidence of supersymmetry in diphoton events
     [[1507.05493](https://arxiv.org/abs/1507.05493), [1606.09150](https://arxiv.org/abs/1606.09150), [1802.03158](https://arxiv.org/abs/1802.03158)]
--   Research in applications of machine learning for particle identification
+-   Research in applications of deep learning (CNNs) for particle identification
     ($e/\gamma/\pi$) with ILC-CLIC simulation data
     [[1807.02876](https://arxiv.org/abs/1807.02876)]
 
