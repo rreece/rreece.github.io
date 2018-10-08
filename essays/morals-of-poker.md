@@ -3,6 +3,8 @@ Morals of Poker
 
 *October 7, 2017*
 
+![](img/poker-stack-2017-11-03.jpg)
+
 In 1786, Benjamin Franklin published an essay called "The Morals of Chess"[^Franklin1786]
 where he argues that concerning chess:
 
