@@ -1,22 +1,18 @@
 October Fast Report
 ===============================================================================
 
-*October 7, 2018*
+*October 8, 2018*
 
-Today I broke my first 48 hour fast.
-
-In 1786, Benjamin Franklin published an essay called "The Morals of Chess"[^Franklin1786]
-where he argues that concerning chess:
-
-[^Franklin1786]: Franklin, B. (1786). The Morals of Chess. *The Columbian Magazine*, 1, 159--161.         
-    <https://folk.uio.no/gatandbe/chessmorals.pdf>
+Yesterday I broke my first 48 hour fast.
 
 
 Why?
 -------------------------------------------------------------------------------
 
-You have to show up and to risk something to achieve anything.
-You do not win if you do not play.
+*The Ketogenic Bible* [^Wilson2017]
+
+[^Wilson2017]: Wilson, J., & Lowery, R. (2017). *The Ketogenic Bible: The Authoritative Guide to Ketosis*. Simon and Schuster.
+
 
 My schedule
 -------------------------------------------------------------------------------
