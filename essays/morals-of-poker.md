@@ -102,7 +102,14 @@ only to what you can win now.
 Learn from the past, but do not carry it into decisions you can make now.
 
 
-9. Everyone is full of shit
+9. Never be rash
+-------------------------------------------------------------------------------
+
+If you do not have peace of mind, do not make any important decisions.
+Come back to the issues when you are ready to take them seriously.
+
+
+10. Everyone is full of shit
 -------------------------------------------------------------------------------
 
 They are all apes, and you are too.
