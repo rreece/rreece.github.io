@@ -1,9 +1,10 @@
 October Fast Report
 ===============================================================================
 
-*October 8, 2018*
+*October 10, 2018*
 
-Yesterday I broke my first 48 hour fast.
+A few days ago I broke my first 48 hour fast.
+
 
 
 Why?
