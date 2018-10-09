@@ -3,7 +3,7 @@ October Fast Report
 
 *October 10, 2018*
 
-A few days ago I broke my first 48 hour fast.
+Last weekend I did my first 48-hour fast.
 
 I have been doing intermittent fasting all summer.
 It has some real health advantages. [^Weigle1997] [^Halberg2005] [^Moro2016]
