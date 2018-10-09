@@ -33,8 +33,9 @@ I have a few reasons why I am interested in prolonged fasting.
 
 3.  **To learn about my body**
 
-    -   The hierarchy of energy sources
-    -   Ketones as the 4th energy macronutrient
+    The hierarchy of energy sources
+
+    Ketones as the 4th energy macronutrient
 
 4.  **To increase insulin sensitivity**
 
@@ -43,6 +44,10 @@ I have a few reasons why I am interested in prolonged fasting.
 5.  **To induce autophagy**
 
     Autophagy [^Levine2017] [^Royal2016]
+
+    This reason and the previous one concerning increasing insulin sensitivity are
+    primary reasons to consider duing few-day fasts regularly,
+    perhaps a few times a year, to increase longevity.
 
 6.  **To cultivate discipline**
 
