@@ -6,16 +6,16 @@ October Fast Report
 A few days ago I broke my first 48 hour fast.
 
 I have been doing intermittent fasting all summer.
-It has some real health advantages. [^Halberg2005] [^Moro2016]
+It has some real health advantages. [^Weigle1997] [^Halberg2005] [^Moro2016]
 That is a different long story, 
 but it made me want to learn more about the health effects of fasting
 and interested in trying a prolonged fast of 48-72 hours.
 
-[^Halberg2005]: Halberg, N. et al. (2005). Effect of intermittent fasting and refeeding on insulin action in healthy men. *Journal of Applied Physiology*, 99, 2128--2136. <https://www.ncbi.nlm.nih.gov/pubmed/16051710>
-[^Moro2016]: Moro, T. et al. (2016). Effects of eight weeks of time-restricted feeding (16/8) on basal metabolism, maximal strength, body composition, inflammation, and cardiovascular risk factors in resistance-trained males. *Journal of Translational Medicine*, 14, 290. <https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-016-1044-0>
-[^Mihaylova2018]: Mihaylova, M.M. et al. (2018). Fasting activates fatty acid oxidation to enhance intestinal stem cell function during homeostasis and aging. *Cell Stem Cell*, 22, 769--778. <https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(18)30163-2>
-[^Gasmi2018]: Gasmi, M. et al. (2018). Time-restricted feeding influences immune responses without compromising muscle performance in older men. *Nutrition*, 51, 29--37. <https://www.ncbi.nlm.nih.gov/pubmed/29571007>
-
+[^Halberg2005]: @Halberg_2005_Effect_of_intermittent_fasting_and_refeeding_on\.
+[^Moro2016]: @Moro_2016_Effects_of_eight_weeks_of_time_restricted_feeding\.
+[^Mihaylova2018]: @Mihaylova_2018_Fasting_activates_fatty_acid_oxidation_to_enhance\.
+[^Gasmi2018]: @Gasmi_2018_Time_restricted_feeding_influences_immune\.
+[^Weigle1997]: @Weigle_1997_Effect_of_fasting_refeeding_and_dietary_fat\.
 
 
 Why?
@@ -43,11 +43,10 @@ I have a few reasons why I am interested in prolonged fasting.
 
 *The Ketogenic Bible* [^Wilson2017]
 
-
-[^Levine2017]: Levine, B., & Klionsky, D. J. (2017). Autophagy wins the 2016 Nobel Prize in Physiology or Medicine: Breakthroughs in baker's yeast fuel advances in biomedical research. *Proceedings of the National Academy of Sciences*, 114, 201--205. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5240711>
-[^Mehta2018]: Mehta, G. (2018). Short-term abstinence from alcohol and changes in cardiovascular risk factors, liver function tests and cancer-related growth factors: a prospective observational study. *BMJ Open*, 8, e020673. <https://bmjopen.bmj.com/content/8/5/e020673>
-[^Royal2016]: Royal Swedish Academy of Sciences. (2016). Nobel Prize Press Release for Yoshinori Ohsumi. Oct. 3, 2016. <https://www.nobelprize.org/uploads/2018/06/press-34.pdf>
-[^Wilson2017]: Wilson, J., & Lowery, R. (2017). *The Ketogenic Bible: The Authoritative Guide to Ketosis*. Simon and Schuster.
+[^Levine2017]: @Levine_2017_Autophagy_wins_the_2016_Nobel_Prize_in_Physiology\.
+[^Mehta2018]: @Mehta_2018_Short_term_abstinence_from_alcohol_and_changes\.
+[^Royal2016]: @Royal_2016_Nobel_Prize_Press_Release_for_Yoshinori_Ohsumi\.
+[^Wilson2017]: @Wilson_2017_The_Ketogenic_Bible_The_Authoritative_Guide\.
 
 
 Fast minutes
@@ -72,5 +71,8 @@ Discussion
 Foo bar, bar foo.
 Foo bar, bar foo.
 Foo bar, bar foo.
+
+
+<!-- REFERENCES -->
 
 

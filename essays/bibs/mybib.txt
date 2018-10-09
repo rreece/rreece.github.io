@@ -1,10 +1,16 @@
-Allori, V., Goldstein, S., Tumulka, R., & Zanghi, N. (2010). Many worlds and Schr{\"o}dinger's first quantum theory. *British Journal for the Philosophy of Science*, 62(1), 1--27. https://arxiv.org/abs/0903.2211
-Berkeley, G. (1996). *Principles of Human Knowledge* (H. Robinson, Ed.). Oxford: Oxford University Press. [(Originally published in 1710)]
-Brown, H.R., & Timpson, C.G. (2014). Bell on Bell's theorem: The changing face of nonlocality. https://arxiv.org/abs/1501.03521
-Chen, E.K., & Wilhelm, I. (2017). From Ants to Quantum Non-Locality. https://dailyant.com/2017/07/07/philosophy-phriday-from-ants-to-quantum-non-locality/ [July 7, 2017]
-Deutsch, D. (2012). Vindication of quantum locality. *Proceedings of the Royal Society A*, 468(2138), 531--544. https://arxiv.org/abs/1109.6223
-Franklin, B. (1786). The Morals of Chess. *The Columbian Magazine*, 1, 159--161. https://folk.uio.no/gatandbe/chessmorals.pdf
-Hume, D. (2009). *A Treatise of Human Nature*. The Floating Press. [(Originally published in 1740)]
-Maudlin, T. (2014). What bell did. *Journal of Physics A*, 47(42), 424010. https://arxiv.org/abs/1408.1826
-Pais, A. (1979). Einstein and quantum theory. *Reviews of Modern Physics*, 51, 863.
-Sagan, C. (1980). Cosmos: A Personal Voyage, Episode 1: The Shores of the Cosmic Ocean. [Originally aired on PBS on September 28, 1980]
+
+
+## intermittent fasting
+Halberg, N. et al. (2005). Effect of intermittent fasting and refeeding on insulin action in healthy men. *Journal of Applied Physiology*, 99, 2128--2136. <https://www.ncbi.nlm.nih.gov/pubmed/16051710>
+Moro, T. et al. (2016). Effects of eight weeks of time-restricted feeding (16/8) on basal metabolism, maximal strength, body composition, inflammation, and cardiovascular risk factors in resistance-trained males. *Journal of Translational Medicine*, 14, 290. <https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-016-1044-0>
+Mihaylova, M.M. et al. (2018). Fasting activates fatty acid oxidation to enhance intestinal stem cell function during homeostasis and aging. *Cell Stem Cell*, 22, 769--778. <https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(18)30163-2>
+Gasmi, M. et al. (2018). Time-restricted feeding influences immune responses without compromising muscle performance in older men. *Nutrition*, 51, 29--37. <https://www.ncbi.nlm.nih.gov/pubmed/29571007>
+Weigle, D. S., Duell, P. B., Connor, W. E., Steiner, R. A., Soules, M. R., & Kuijper, J. L. (1997). Effect of fasting, refeeding, and dietary fat restriction on plasma leptin levels. *The Journal of Clinical Endocrinology & Metabolism*, 82, 561--565. <https://www.ncbi.nlm.nih.gov/pubmed/9024254>
+
+## autophagy
+Levine, B., & Klionsky, D. J. (2017). Autophagy wins the 2016 Nobel Prize in Physiology or Medicine: Breakthroughs in baker's yeast fuel advances in biomedical research. *Proceedings of the National Academy of Sciences*, 114, 201--205. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5240711>
+Mehta, G. (2018). Short-term abstinence from alcohol and changes in cardiovascular risk factors, liver function tests and cancer-related growth factors: a prospective observational study. *BMJ Open*, 8, 020673. <https://bmjopen.bmj.com/content/8/5/e020673>
+{Royal Swedish Academy of Sciences}. (2016). Nobel Prize Press Release for Yoshinori Ohsumi. <https://www.nobelprize.org/uploads/2018/06/press-34.pdf> Oct. 3, 2016. 
+Wilson, J., & Lowery, R. (2017). *The Ketogenic Bible: The Authoritative Guide to Ketosis*. Simon and Schuster.
+
+
