@@ -38,7 +38,7 @@ I have a few reasons why I am interested in prolonged fasting.
 [^Wilson2017]: Wilson, J., & Lowery, R. (2017). *The Ketogenic Bible: The Authoritative Guide to Ketosis*. Simon and Schuster.
 
 
-My schedule
+Fast minutes
 -------------------------------------------------------------------------------
 
 You have to show up and to risk something to achieve anything.
