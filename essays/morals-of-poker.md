@@ -14,10 +14,10 @@ where he argues that concerning chess:
 
 Chess is an example of a game with a rich enough structure that one can 
 infer from the best strategies for it,
-emblematic norms of action that have far more generality---morals.
+emblematic norms of action that have far more generality: morals.
 
-Well-versed poker players will similarly know the game of poker to have
-powerful moral lessons for life.
+Similarly, well-versed poker players will know the game of poker to have
+*"valuable qualities of the mind, useful in the course of human life."*
 In the spirit of Franklin's essay,
 I have tried to enumerate the "Morals of Poker".
 
@@ -96,7 +96,7 @@ Learn from the past, but do not carry it into decisions you can make now.
 
 ### 9. Never be rash
 
-If you do not have peace of mind, do not make any important decisions.
+If you do not have peace of mind, do not set yourself up to make any important decisions.
 Come back to the issues when you are ready to take them seriously.
 
 
