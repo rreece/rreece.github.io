@@ -7,6 +7,9 @@ A few days ago I broke my first 48 hour fast.
 
 I have been doing intermittent fasting all summer.
 It has some real health advantages. [^Halberg2005] [^Moro2016]
+That is a different long story, 
+but it made me want to learn more about the health effects of fasting
+and interested in trying a prolonged fast of 48-72 hours.
 
 [^Halberg2005]: Halberg, N. et al. (2005). Effect of intermittent fasting and refeeding on insulin action in healthy men. *Journal of Applied Physiology*, 99, 2128--2136. <https://www.ncbi.nlm.nih.gov/pubmed/16051710>
 [^Moro2016]: Moro, T. et al. (2016). Effects of eight weeks of time-restricted feeding (16/8) on basal metabolism, maximal strength, body composition, inflammation, and cardiovascular risk factors in resistance-trained males. *Journal of Translational Medicine*, 14, 290. <https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-016-1044-0>
