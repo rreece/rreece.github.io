@@ -41,7 +41,15 @@ I have a few reasons why I am interested in prolonged fasting.
 Fast minutes
 -------------------------------------------------------------------------------
 
-You have to show up and to risk something to achieve anything.
-You do not win if you do not play.
+*Fri Oct 5, 2018*
 
+-   12:00 - Lunch: BLT with white bread (doh!)
+
+
+Discussion
+-------------------------------------------------------------------------------
+
+Foo bar, bar foo.
+Foo bar, bar foo.
+Foo bar, bar foo.
 
