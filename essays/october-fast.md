@@ -31,15 +31,22 @@ I have a few reasons why I am interested in prolonged fasting.
 
     Cutting alcohol for the month of October. [^Mehta2018]
 
-3.  **To increase insulin sensitivity**
+3.  **To learn about my body**
+
+    -   The hierarchy of energy sources
+    -   Ketones as the 4th energy macronutrient
+
+4.  **To increase insulin sensitivity**
 
     foo bar
 
-4.  **To induce autophagy**
+5.  **To induce autophagy**
 
     Autophagy [^Levine2017] [^Royal2016]
 
-4.  **To cultivate discipline**
+6.  **To cultivate discipline**
+
+    foo bar
 
 *The Ketogenic Bible* [^Wilson2017]
 
@@ -71,6 +78,12 @@ Discussion
 Foo bar, bar foo.
 Foo bar, bar foo.
 Foo bar, bar foo.
+
+Glycogen [^Glycogen]
+
+[^Glycogen]: @Kreitzman_1992_Glycogen_storage_illusions_of_easy_weight_loss and
+    @Fernandez_Eaias_2015_Relationship_between_muscle_water_and_glycogen\.
+    Also, @Pedersen_2008_High_rates_of_muscle_glycogen_resynthesis_after\.
 
 
 <!-- REFERENCES -->
