@@ -12,13 +12,13 @@ Intermittent fasting
 -   https://medium.com/the-mission/the-sweet-spot-for-intermittent-fasting-9aae12a2158c
 -   https://rawlsmd.com/health-articles/can-fasting-renew-your-immune-system
 
-Halberg, N. et al. (2005). Effect of intermittent fasting and refeeding on insulin action in healthy men. *Journal of applied physiology*, 99, 2128--2136. https://www.ncbi.nlm.nih.gov/pubmed/16051710
+Halberg, N. et al. (2005). Effect of intermittent fasting and refeeding on insulin action in healthy men. *Journal of applied physiology*, 99, 2128--2136. <https://www.ncbi.nlm.nih.gov/pubmed/16051710>
 
-Moro, T. et al. (2016). Effects of eight weeks of time-restricted feeding (16/8) on basal metabolism, maximal strength, body composition, inflammation, and cardiovascular risk factors in resistance-trained males. *Journal of translational medicine*, 14, 290. https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-016-1044-0
+Moro, T. et al. (2016). Effects of eight weeks of time-restricted feeding (16/8) on basal metabolism, maximal strength, body composition, inflammation, and cardiovascular risk factors in resistance-trained males. *Journal of translational medicine*, 14, 290. <https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-016-1044-0>
 
-Mihaylova, M.M. et al. (2018). Fasting activates fatty acid oxidation to enhance intestinal stem cell function during homeostasis and aging. *Cell stem cell*, 22, 769--778. https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(18)30163-2
+Mihaylova, M.M. et al. (2018). Fasting activates fatty acid oxidation to enhance intestinal stem cell function during homeostasis and aging. *Cell stem cell*, 22, 769--778. <https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(18)30163-2>
 
-Gasmi, M. et al. (2018). Time-restricted feeding influences immune responses without compromising muscle performance in older men. *Nutrition*, 51, 29--37. https://www.ncbi.nlm.nih.gov/pubmed/29571007
+Gasmi, M. et al. (2018). Time-restricted feeding influences immune responses without compromising muscle performance in older men. *Nutrition*, 51, 29--37. <https://www.ncbi.nlm.nih.gov/pubmed/29571007>
 
 
 Prolonged fasting
@@ -26,25 +26,29 @@ Prolonged fasting
 
 -   https://www.telegraph.co.uk/science/2016/03/12/fasting-for-three-days-can-regenerate-entire-immune-system-study/
 
-Cheng, C.W. et al. (2014). Prolonged fasting reduces IGF-1/PKA to promote hematopoietic-stem-cell-based regeneration and reverse immunosuppression. *Cell stem cell*, 14, 810--823. https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(14)00151-9
+Cheng, C.W. et al. (2014). Prolonged fasting reduces IGF-1/PKA to promote hematopoietic-stem-cell-based regeneration and reverse immunosuppression. *Cell stem cell*, 14, 810--823. <https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(14)00151-9>
 
 
 Autophagy
 -------------------------------------------------------------------------------
 
-Bergamini, E., Cavallini, G., Donati, A., & Gori, Z. (2007). The role of autophagy in aging: its essential part in the anti-aging mechanism of caloric restriction. *Annals of the New York Academy of Sciences*, 1114, 69--78. https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1396.020
+Levine, B., & Klionsky, D. J. (2017). Autophagy wins the 2016 Nobel Prize in Physiology or Medicine: Breakthroughs in baker's yeast fuel advances in biomedical research. *Proceedings of the National Academy of Sciences*, 114, 201--205. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5240711>
 
-He, C. et al. (2012). Exercise-induced BCL2-regulated autophagy is required for muscle glucose homeostasis. *Nature*, 481, 511. https://www.ncbi.nlm.nih.gov/pubmed/22258505
+Royal Swedish Academy of Sciences. (2016). Nobel Prize Press Release for Yoshinori Ohsumi. Oct. 3, 2016. <https://www.nobelprize.org/uploads/2018/06/press-34.pdf>
 
-Takagi, A. et al. (2016). *Emerging role of mammalian autophagy in ketogenesis to overcome starvation. Autophagy*, 12, 709--710. https://www.ncbi.nlm.nih.gov/pubmed/27050461
+Bergamini, E., Cavallini, G., Donati, A., & Gori, Z. (2007). The role of autophagy in aging: its essential part in the anti-aging mechanism of caloric restriction. *Annals of the New York Academy of Sciences*, 1114, 69--78. <https://nyaspubs.onlinelibrary.wiley.com/doi/full/10.1196/annals.1396.020>
 
-Alirezaei, M. et al. (2010). Short-term fasting induces profound neuronal autophagy. *Autophagy*, 6, 702--710. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3106288
+He, C. et al. (2012). Exercise-induced BCL2-regulated autophagy is required for muscle glucose homeostasis. *Nature*, 481, 511. <https://www.ncbi.nlm.nih.gov/pubmed/22258505>
 
-Kim, I., & Lemasters, J.J. (2010). Mitochondrial degradation by autophagy (mitophagy) in GFP-LC3 transgenic hepatocytes during nutrient deprivation. *American Journal of Physiology-Cell Physiology*, 300, C308-C317. https://www.ncbi.nlm.nih.gov/pubmed/21106691
+Takagi, A. et al. (2016). *Emerging role of mammalian autophagy in ketogenesis to overcome starvation. Autophagy*, 12, 709--710. <https://www.ncbi.nlm.nih.gov/pubmed/27050461>
 
-Ezaki, J. et al. (2011). Liver autophagy contributes to the maintenance of blood glucose and amino acid levels. *Autophagy*, 7, 727--736. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3149698
+Alirezaei, M. et al. (2010). Short-term fasting induces profound neuronal autophagy. *Autophagy*, 6, 702--710. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3106288>
 
-Ma, D., Panda, S., & Lin, J.D. (2011). Temporal orchestration of circadian autophagy rhythm by C/EBP$\beta$. *The EMBO journal*, 30, 4642--4651. http://emboj.embopress.org/content/30/22/4642
+Kim, I., & Lemasters, J.J. (2010). Mitochondrial degradation by autophagy (mitophagy) in GFP-LC3 transgenic hepatocytes during nutrient deprivation. *American Journal of Physiology-Cell Physiology*, 300, C308-C317. <https://www.ncbi.nlm.nih.gov/pubmed/21106691>
+
+Ezaki, J. et al. (2011). Liver autophagy contributes to the maintenance of blood glucose and amino acid levels. *Autophagy*, 7, 727--736. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3149698>
+
+Ma, D., Panda, S., & Lin, J.D. (2011). Temporal orchestration of circadian autophagy rhythm by C/EBP$\beta$. *The EMBO journal*, 30, 4642--4651. <http://emboj.embopress.org/content/30/22/4642>
 
 http://www.jbc.org/content/284/45/31484.short
 
@@ -52,11 +56,20 @@ http://www.jbc.org/content/284/45/31484.short
 Fasting and Autophagy
 -------------------------------------------------------------------------------
 
-Alirezaei, M. et al. (2010). Short-term fasting induces profound neuronal autophagy. *Autophagy*, 6, 702--710. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3106288
+Alirezaei, M. et al. (2010). Short-term fasting induces profound neuronal autophagy. *Autophagy*, 6, 702--710. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3106288>
 
-Mizushima, N., Yamamoto, A., Matsui, M., Yoshimori, T., & Ohsumi, Y. (2004). In vivo analysis of autophagy in response to nutrient starvation using transgenic mice expressing a fluorescent autophagosome marker. *Molecular biology of the cell*, 15, 1101--1111. https://www.molbiolcell.org/doi/full/10.1091/mbc.e03-09-0704
+Mizushima, N., Yamamoto, A., Matsui, M., Yoshimori, T., & Ohsumi, Y. (2004). In vivo analysis of autophagy in response to nutrient starvation using transgenic mice expressing a fluorescent autophagosome marker. *Molecular biology of the cell*, 15, 1101--1111. <https://www.molbiolcell.org/doi/full/10.1091/mbc.e03-09-0704>
 
-Choi, I.Y. (2016). A diet mimicking fasting promotes regeneration and reduces autoimmunity and multiple sclerosis symptoms. *Cell reports*, 15, 2136--2146. https://www.cell.com/cell-reports/fulltext/S2211-1247(16)30576-9
+Morselli, E. et al. Caloric restriction and resveratrol promote longevity through the Sirtuin-1-dependent induction of autophagy. *Cell Death & Disease*, 1. <https://www.nature.com/articles/cddis20098>
+
+Choi, I.Y. (2016). A diet mimicking fasting promotes regeneration and reduces autoimmunity and multiple sclerosis symptoms. *Cell reports*, 15, 2136--2146. <https://www.cell.com/cell-reports/fulltext/S2211-1247(16)30576-9>
+
+
+Keto
+
+-------------------------------------------------------------------------------
+
+Wilson, J., & Lowery, R. (2017). *The Ketogenic Bible: The Authoritative Guide to Ketosis*. Simon and Schuster.
 
 
 
