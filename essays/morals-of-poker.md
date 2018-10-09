@@ -16,10 +16,10 @@ Chess is an example of a game with a rich enough structure that one can
 infer from the best strategies for it,
 emblematic norms of action that have far more generality---morals.
 
-Similarly, well-versed poker players will know the game of poker to have
+Similarly, well-versed poker players will know poker to have
 *"valuable qualities of the mind, useful in the course of human life."*
 In the spirit of Franklin's essay,
-I have tried to enumerate the "Morals of Poker".
+I have tried to enumerate the "Morals of Poker."
 
 [^Franklin1786]: Franklin, B. (1786). The Morals of Chess. *The Columbian Magazine*, 1, 159--161.         
     <https://folk.uio.no/gatandbe/chessmorals.pdf>
