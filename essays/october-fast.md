@@ -9,12 +9,25 @@ Yesterday I broke my first 48 hour fast.
 Why?
 -------------------------------------------------------------------------------
 
-I have a few reasons why I am interested in fasting.
+I have a few reasons why I am interested in prolonged fasting.
 
-1.  To reset - lately eating a lot, feeling bloated
-2.  To detox - cutting alcohol for the month of October
-3.  Increase insulin sensitivity
-4.  Autophagy [^Morselli2010]
+1.  **To reset**
+
+    In April, I started a new job, one where there is an exceptional amount of free food available. 
+
+2.  **To detox**
+
+    Cutting alcohol for the month of October
+
+3.  **To increase insulin sensitivity**
+
+    foo bar
+
+4.  **To induce autophagy**
+
+    Autophagy [^Morselli2010]
+
+4.  **To cultivate discipline**
 
 *The Ketogenic Bible* [^Wilson2017]
 
