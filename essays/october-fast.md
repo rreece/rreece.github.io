@@ -8,10 +8,12 @@ Last weekend I did my first 48-hour fast.
 I have been doing intermittent fasting all summer.
 It has some real health advantages, including XXX, XXX, and XXX [^intermittent],
 but that is a different story than I am reporting here.
-Still, it made me want to learn more about the health effects of fasting
-and interested in trying a prolonged fast of 48-72 hours.
+Still, intermittent fasting made me want to learn more about the health effects of fasting in general and interested in trying a prolonged fast of 48-72 hours.
 
-[^intermittent]: @Weigle_1997_Effect_of_fasting_refeeding_and_dietary_fat\, 
+[^intermittent]: 
+    Intermittent fasting basically just means XXX.
+    It does XXX
+    @Weigle_1997_Effect_of_fasting_refeeding_and_dietary_fat\, 
     @Halberg_2005_Effect_of_intermittent_fasting_and_refeeding_on\, and
     @Moro_2016_Effects_of_eight_weeks_of_time_restricted_feeding\.
 
