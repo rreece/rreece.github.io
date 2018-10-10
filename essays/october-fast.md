@@ -6,16 +6,14 @@ October Fast Report
 Last weekend I did my first 48-hour fast.
 
 I have been doing intermittent fasting all summer.
-It has some real health advantages. [^Weigle1997] [^Halberg2005] [^Moro2016]
-That is a different long story, 
-but it made me want to learn more about the health effects of fasting
+It has some real health advantages, including XXX, XXX, and XXX [^intermittent],
+but that is a different story than I am reporting here.
+Still, it made me want to learn more about the health effects of fasting
 and interested in trying a prolonged fast of 48-72 hours.
 
-[^Halberg2005]: @Halberg_2005_Effect_of_intermittent_fasting_and_refeeding_on\.
-[^Moro2016]: @Moro_2016_Effects_of_eight_weeks_of_time_restricted_feeding\.
-[^Mihaylova2018]: @Mihaylova_2018_Fasting_activates_fatty_acid_oxidation_to_enhance\.
-[^Gasmi2018]: @Gasmi_2018_Time_restricted_feeding_influences_immune\.
-[^Weigle1997]: @Weigle_1997_Effect_of_fasting_refeeding_and_dietary_fat\.
+[^intermittent]: @Weigle_1997_Effect_of_fasting_refeeding_and_dietary_fat\, 
+    @Halberg_2005_Effect_of_intermittent_fasting_and_refeeding_on\, and
+    @Moro_2016_Effects_of_eight_weeks_of_time_restricted_feeding\.
 
 
 Why?
@@ -27,33 +25,39 @@ I have a few reasons why I am interested in prolonged fasting.
 
     This year I started a new job, one where there is an exceptional amount of free food available. 
 
+    We eat too often today.
+
 2.  **To detox**
 
-    Cutting alcohol for the month of October. [^Mehta2018]
+    Cutting alcohol for the month of October ([&#35;SoberOctober](https://twitter.com/search?q=%23SoberOctober)).
+    It has great effects. [^Mehta2018]
+
+    Not eating gives your body time to do other things.
 
 3.  **To learn about my body**
 
-    The hierarchy of energy sources
+    The hierarchy of energy sources.
 
-    Ketones as the 4th energy macronutrient
+    Ketones as the 4th energy macronutrient.
+
+    *The Ketogenic Bible* [^Wilson2017]
 
 4.  **To increase insulin sensitivity**
 
-    foo bar
+    Foo bar
 
 5.  **To induce autophagy**
 
     Autophagy [^Levine2017] [^Royal2016]
 
     This reason and the previous one concerning increasing insulin sensitivity are
-    primary reasons to consider duing few-day fasts regularly,
+    primary reasons to consider doing 1-3 day fasts regularly,
     perhaps a few times a year, to increase longevity.
 
 6.  **To cultivate discipline**
 
-    foo bar
+    Foo bar
 
-*The Ketogenic Bible* [^Wilson2017]
 
 [^Levine2017]: @Levine_2017_Autophagy_wins_the_2016_Nobel_Prize_in_Physiology\.
 [^Mehta2018]: @Mehta_2018_Short_term_abstinence_from_alcohol_and_changes\.
