@@ -3,7 +3,7 @@ Morals of Poker
 
 *October 7, 2017*
 
-![](img/poker-stack-2017-11-03.jpg)
+![](img/franklin-chess-bubble.jpg)
 
 In 1786, Benjamin Franklin published an essay called "The Morals of Chess"[^Franklin1786]
 where he argues that concerning chess:
@@ -103,5 +103,8 @@ Come back to the issues when you are ready to take them seriously.
 ### 10. Everyone is full of shit
 
 They are all apes, and you are too.
+
+
+![](img/poker-stack-2017-11-03.jpg)
 
 
