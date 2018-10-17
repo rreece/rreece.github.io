@@ -21,7 +21,7 @@ Similarly, well-versed poker players will know poker to have
 In the spirit of Franklin's essay,
 I have tried to enumerate the "Morals of Poker."
 
-![](img/franklin-morals-of-chess.jpg)
+![](img/franklin-morals-of-chess-crop.jpg)
 
 [^Franklin1786]: Franklin, B. (1786). The Morals of Chess. *The Columbian Magazine*, 1, 159--161.         
     <https://folk.uio.no/gatandbe/chessmorals.pdf>
