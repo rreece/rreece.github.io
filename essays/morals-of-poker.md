@@ -8,6 +8,8 @@ Morals of Poker
 In 1786, Benjamin Franklin published an essay called "The Morals of Chess"[^Franklin1786]
 where he argues that concerning chess:
 
+<img class="floatright" src="img/franklin-morals-of-chess-crop.jpg"  title="Franklin, B. (1786). The Morals of Chess. *The Columbian Magazine*, 1, 159--161."/>
+
 >   Several very valuable qualities of the mind, useful in the course of human life,
 >   are to be acquired or strengthened by it, so as to become habits, ready on all
 >   occasions.
@@ -20,8 +22,6 @@ Similarly, well-versed poker players will know poker to have
 *"valuable qualities of the mind, useful in the course of human life."*
 In the spirit of Franklin's essay,
 I have tried to enumerate the "Morals of Poker."
-
-![](img/franklin-morals-of-chess-crop.jpg)
 
 [^Franklin1786]: Franklin, B. (1786). The Morals of Chess. *The Columbian Magazine*, 1, 159--161.         
     <https://folk.uio.no/gatandbe/chessmorals.pdf>
