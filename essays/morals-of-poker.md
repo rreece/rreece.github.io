@@ -8,7 +8,8 @@ Morals of Poker
 In 1786, Benjamin Franklin published an essay called "The Morals of Chess"[^Franklin1786]
 where he argues that concerning chess:
 
-<img class="floatright" src="img/franklin-morals-of-chess-crop.jpg"  title="Franklin, B. (1786). The Morals of Chess. *The Columbian Magazine*, 1, 159--161."/>
+<a href="img/franklin-morals-of-chess.jpg">
+<img class="floatright" src="img/franklin-morals-of-chess-crop.jpg" title="Franklin, B. (1786). The Morals of Chess. *The Columbian Magazine*, 1, 159--161."/></a>
 
 >   Several very valuable qualities of the mind, useful in the course of human life,
 >   are to be acquired or strengthened by it, so as to become habits, ready on all
@@ -56,7 +57,7 @@ you ought to have the gumption to defend your position aggressively.
 
 While a lot can be gained by representing yourself with confidence,
 eventually you have to back it up with something real.
-You earn your reputation with what you project and what you produce.
+You earn your reputation with what you project *and* what you produce.
 You cannot bluff everyone forever.
 
 
