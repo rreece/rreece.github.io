@@ -284,7 +284,7 @@ Thermodynamics, statistical mechanics, renormalization.
 -   Emergence[^Lisi-2017]
 -   Bain
 -   Views on reductionism
-    -   [Mariam Thalos 3:AM Magazine interview](https://www.3ammagazine.com/3am/multi-scale-existentialist-freedoms/)
+    -   [Mariam Thalos - 3:AM Magazine interview](https://www.3ammagazine.com/3am/multi-scale-existentialist-freedoms/)
 
 [^Anderson-1972]: @Anderson_1972_More_is_different\.
 [^Lisi-2017]: @Lisi_2017_Emergence\.
