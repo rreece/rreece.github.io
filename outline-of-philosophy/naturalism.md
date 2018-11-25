@@ -4,6 +4,10 @@ Naturalism
 Naturalism is a unifying view of philosophy and science.
 It is an attitude about how philosophy should be done (a meta-philosophy)
 and about how philosophy relates to science.
+Regardless of how one views the realism debate
+(discussed in the [previous outline](scientific-realism.html)),
+naturalism shows a provocative, unifying way of viewing the projects of
+philosophy and science.
 
 <!-- PAGETOC -->
 

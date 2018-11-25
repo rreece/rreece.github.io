@@ -1,11 +1,13 @@
 The scientific method
 ================================================================================
 
-This outline discusses the definition of the scientific method,
+This outline discusses the history of science, 
+the definition of the scientific method,
 its central role in founding a scientific epistemology,
 the demarcation of science from pseudoscience,
-and other *epistemological* topics concerning the methods and
-philosophy of science.  The metaphysical implications of science
+and other *epistemological* topics concerning the methods
+and philosophy of science. 
+The metaphysical implications of science
 are discussed in the outline on [scientific realism](scientific-realism.html).
 
 

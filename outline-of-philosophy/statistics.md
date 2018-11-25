@@ -1,7 +1,7 @@
 Philosophy of statistics
 ================================================================================
 
-Statistics are *way* important.
+Statistics are *way* important in addressing the problem of induction.
 
 <!-- PAGETOC -->
 
