@@ -52,18 +52,7 @@ Issues and positions
 -   Statistical mechanics and thermodynamics
 -   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 -   The 2nd Law of Thermodynamics said simply: Things tend to happen in ways for which there are many ways to happen like that.
-
-
-### Emergence
-
-Thermodynamics, statistical mechanics, renormalization.
-
--   More is different[^Anderson-1972]
--   Emergence[^Lisi-2017]
--   Bain
-
-[^Anderson-1972]: @Anderson_1972_More_is_different\.
-[^Lisi-2017]: @Lisi_2017_Emergence\.
+-   See Emergence
 
 
 ### Quantum mechanics
@@ -285,6 +274,20 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   "A direct empirical proof of the existence of dark matter" [astro-ph/0608407](http://arxiv.org/abs/astro-ph/0608407)
 -   Inflation
 -   $\Lambda$+CMD Cosmological Standard Model
+
+
+### Emergence
+
+Thermodynamics, statistical mechanics, renormalization.
+
+-   More is different[^Anderson-1972]
+-   Emergence[^Lisi-2017]
+-   Bain
+-   Views on reductionism
+    -   [Mariam Thalos 3:AM Magazine interview](https://www.3ammagazine.com/3am/multi-scale-existentialist-freedoms/)
+
+[^Anderson-1972]: @Anderson_1972_More_is_different\.
+[^Lisi-2017]: @Lisi_2017_Emergence\.
 
 
 ### Bracketing human experience
