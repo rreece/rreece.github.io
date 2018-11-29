@@ -17,7 +17,7 @@ All the following are in flux and development:
 1.  [Philosophy of mind](mind.html) -- What is consciousness?
 1.  [Ethics](ethics.html) -- What should we do?
 1.  [The human condition](human-condition.html) -- What are we?
-1.  [Philosophy of the future](future.html) -- Where are we going?
+1.  [Future studies](future.html) -- Where are we going?
 
 
 ### Note: this is under construction
