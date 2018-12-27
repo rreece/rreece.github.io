@@ -19,7 +19,7 @@ Works that changed me
 | 14. | Feynman, R.P. (1985). *QED: The Strange Theory of Light and Matter*.                 |      2003 |     18 |
 | 15. | DeWitt, R. (2003). *Worldviews: An Introduction to the History and Philosophy of Science *.  |      2004 |     19 |
 | 16. | Griffiths, D. (1981). *Introduction to Electrodynamics*.                             |      2005 |     20 |
-| 17. | Hofstadter, D. (1979). *G&ouml;del, Escher, Bach*                                    |      2005 |     20 |
+| 17. | Hofstadter, D. (1979). *G&ouml;del, Escher, Bach*.                                   |      2005 |     20 |
 | 18. | Veltman, M.J.G. (2003). *Facts and Mysteries in Elementary Particle Physics*.        |      2005 |     20 |
 | 19. | Needham, T. (1999). *Visual Complex Analysis*.                                       |      2006 |     21 |
 | 20. | Foer, J.S. (2005). *Extremely Loud & Incredibly Close*.                              |      2006 |     21 |
