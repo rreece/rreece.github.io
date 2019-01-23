@@ -485,6 +485,7 @@ Links and encyclopedia articles
 -   [Pythagoras (570-495 BCE)](https://plato.stanford.edu/entries/pythagoras/)
 -   [Pythagoreanism](https://plato.stanford.edu/entries/pythagoreanism/)
 -   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
+-   [Reproducibility of Scientific Results](https://plato.stanford.edu/entries/scientific-reproducibility/)
 -   [Science and Pseudo-Science](http://plato.stanford.edu/entries/pseudo-science/)
 -   [Scientific Explanation](http://plato.stanford.edu/entries/scientific-explanation/)
 -   [Scientific Method](http://plato.stanford.edu/entries/scientific-method/)

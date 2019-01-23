@@ -183,6 +183,10 @@ but we have no ontological commitments to them.
 
 -   anti-realist
 -   Duhem
+-   [Wikipedia](https://en.wikipedia.org/wiki/Instrumentalism): "Initially a novel perspective introduced by Pierre Duhem in 1906, instrumentalism is largely the prevailing theory that underpins the practice of physicists today." [^Torretti1999]
+-   Later Wittgenstein in *PI*. See [Postpositivism](#postpositivism), below.
+
+[^Torretti1999]: @Torretti_1999_The_Philosophy_of_Physics', p. 242--243.
 
 
 ### Positivism
@@ -287,6 +291,8 @@ A metatheoretical stance that critiques and amends positivism. While positivists
 
 -   Karl Popper (1902-1994)
     -   *falsifiability* over *verifiability*
+    -   a turn towards realism
+    -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
 -   Willard Van Orman Quine (1908-2000)
     -   Quine's "Two Dogmas"[^Quine-1951]
         1.  analytic-synthetic distinction
@@ -296,13 +302,23 @@ A metatheoretical stance that critiques and amends positivism. While positivists
 -   Thomas Kuhn (1922-1996)
     -   paradigm shifts
 
+>   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963]
+
+[^Popper1963]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. XXX.
+
 The "death" of positivism:
 
--   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
-    -   Ordinary language philosophy
-    -   An imprtant project is to understand the differences between early (*TLP*)
-        and late (*PI*) Wittgenstein. It is quite the about-face.
 -   anti-positivism, post-structuralism, postmodernism (continental)
+
+Later Wittgenstein:
+
+-   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
+-   Ordinary language philosophy
+-   Instrumentalist and somewhat pragmatist
+-   An imprtant project is to understand the differences between early (*TLP*)
+    and late (*PI*) Wittgenstein. It is quite the about-face.
+    -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world
+    -   PI: The meaning of a word is its use.
 
 Wittgenstein in *PI*:
 
@@ -312,10 +328,10 @@ Wittgenstein in *PI*:
 ### Pragmatism
 
 -   anti-realist
--   later Wittgenstein
 -   Charles Sanders Peirce (1839-1914)
 -   William James (1842-1910)
 -   John Dewey (1859-1952)
+-   later Wittgenstein
 -   Rorty and Putnam
 -   Quine
 -   Dennett

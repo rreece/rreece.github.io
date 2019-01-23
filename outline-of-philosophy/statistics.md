@@ -157,6 +157,7 @@ Issues and positions
 ### Implications for the realism debate
 
 -   See the outline on [Scientific realism](scientific-realism.html)
+-   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/).
 
 
 My thoughts
