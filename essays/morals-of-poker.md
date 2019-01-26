@@ -108,6 +108,13 @@ Come back to the issues when you are ready to take them seriously.
 They are all apes, and you are too.
 
 
+### 11. Don't blow it
+
+Sometimes you are on a knife's edge.
+Be awake and aware to what is happening.
+Don't blow it.
+
+
 ![](img/poker-stack-2017-11-03.jpg)
 
 
