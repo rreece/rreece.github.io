@@ -212,13 +212,23 @@ Important synthesizers:
 
 ### Induction
 
+>   When they propose to establish the universal from the particulars by means of induction, 
+>   they will effect this by a review of either all or some of the particulars. 
+>   But if they review some, the induction will be insecure, since some of the 
+>   particulars omitted in the induction may contravene the universal; 
+>   while if they are to review all, they will be toiling at the impossible, 
+>   since the particulars are infinite and indefinite. [^SextusEmpiricus]
+
+[^SextusEmpiricus]: Sextus Empiricus. *Outlines of Pyrrhonism*, trans. Robert Gregg Bury (Loeb ed.) (London: W. Heinemann, 1933), p. 283.
+
 -   Hume and the problem of induction [^Hume2007]
 -   Uniformity of nature
 -   Humeanism
--   Note the further discussion of Humeanism and laws of nature in
-    the outline on [Scientific realism](scientific-realism.html#humeanism).
--   Emphasize the naturalist revolution within Humean views.
--   See the outline on [Naturalism](naturalism.html).
+-   Russell's Thanksgiving turkey
+-   See also:
+    -   Outline of [Philosophy of statistics](statistics.html#problem-of-induction)
+    -   Note the further discussion of Humeanism and laws of nature in
+        the outline on [Scientific realism](scientific-realism.html#humeanism).
 
 
 ### Abduction

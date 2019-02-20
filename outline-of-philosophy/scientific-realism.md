@@ -101,6 +101,9 @@ Stealing from encyclopedia.com:
 
 [^Lewis1986]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
 
+-   Emphasize the naturalist revolution within Humean views.
+-   See the outline on [Naturalism](naturalism.html).
+
 
 ### Scientific realism
 
