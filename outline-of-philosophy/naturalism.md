@@ -229,11 +229,18 @@ See the outline on [Ethics](ethics.html).
 -   Postmodernism, Social construction
 -   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2) - IEP
 -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/) - SEP
--   [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) [^Konnikova2012]
 -   Tautological: Of course science (scientia) is the domain of all knowledge.
     (Perhaps this line can be found in the work of Pigliucci?)
+-   Descoping the success/objectivity of science:
+    -   [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) [^Konnikova2012]
+    -   The Case Against Reality [^Gefter2016]
+    -   The magical thinking of guys who love logic [^McCrea2019]
+    -   Scientists Must Challenge What Makes Studies Scientific [^PrescodWeinstein2017]
 
+[^Gefter2016]: @Gefter_2016_The_Case_Against_Reality\.
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
+[^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
+[^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_Must_Challenge_What_Makes_Studies\.
 
 
 #### Rebutals
