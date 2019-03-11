@@ -154,6 +154,16 @@ Issues and positions
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
 
 
+### Auto-science
+
+![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.](img/BDEC-scientific-method.png){#fig:img/BDEC-scientific-method}
+
+-   Big data and extreme-scale computing: Pathways to Convergence...
+-   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
+
+[^Asch2018]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
+
+
 ### Implications for the realism debate
 
 -   See the outline on [Scientific realism](scientific-realism.html)
