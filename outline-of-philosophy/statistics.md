@@ -156,7 +156,7 @@ Issues and positions
 
 ### Auto-science
 
-![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.](img/BDEC-scientific-method.png){#fig:img/BDEC-scientific-method}
+![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
 
 -   Big data and extreme-scale computing: Pathways to Convergence...
 -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
