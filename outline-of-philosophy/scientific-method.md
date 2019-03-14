@@ -133,6 +133,7 @@ Issues and positions
 
 **Biological evolution**
 
+-   [Democritus on the historical development of human communities](https://plato.stanford.edu/entries/democritus/)
 -   Hume on humans being animals [^Hume2007]
 -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
 -   [Mendel, Gregor (1822-1884)](https://en.wikipedia.org/wiki/Gregor_Mendel)
