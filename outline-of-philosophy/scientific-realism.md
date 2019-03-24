@@ -416,6 +416,11 @@ I found the above quotes in a talk by Arthur Fine:
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
+### Feminist epistemology
+
+-   Situated knowers
+-   Feminist standpoint theory
+
 
 ### Critical realism
 
@@ -868,6 +873,7 @@ Links and encyclopedia articles
 -   [Einstein's Philosophy of Science](http://plato.stanford.edu/entries/einstein-philscience/)
 -   [Eliminative Materialism](http://plato.stanford.edu/entries/materialism-eliminative/)
 -   [Feyerabend, Paul (1924-1994)](http://plato.stanford.edu/entries/feyerabend/)
+-   [Feminist Epistemology and Philosophy of Science](https://plato.stanford.edu/entries/feminism-epistemology/)
 -   [Historicist Theories of Scientific Rationality](http://plato.stanford.edu/entries/rationality-historicist/)
 -   [Identity](http://plato.stanford.edu/entries/identity/)
 -   [Identity of Indiscernibles](http://plato.stanford.edu/entries/identity-indiscernible/)
@@ -946,6 +952,7 @@ Links and encyclopedia articles
 -   [Dewey, John (1859-1952)](http://www.iep.utm.edu/dewey/)
 -   [Evidence](http://www.iep.utm.edu/evidence/)
 -   [Explanation, Theories of](http://www.iep.utm.edu/explanat/)
+-   [Feminist Standpoint Theory](https://www.iep.utm.edu/fem-stan/)
 -   [Internalism and Externalism in the Philosophy of Mind and Language](http://www.iep.utm.edu/int-ex-ml/)
 -   [Laws of Nature](http://www.iep.utm.edu/lawofnat/)
 -   [Mathematical Structuralism](http://www.iep.utm.edu/m-struct/)
