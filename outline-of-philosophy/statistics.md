@@ -92,6 +92,20 @@ Issues and positions
 [^Mayo2006]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
 
 
+### Point estimation and confidence intervals
+
+-   regression
+-   MLE: Maximum likelihood estimators, Fisher [^Aldrich1997]
+-   Cram&eacute;r-Rao bound [^Cramer-Rao]
+-   $\chi^2$
+
+[^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
+[^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
+    @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
+    @Rao_1945_Information_and_the_accuracy_attainable\, and
+    @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
+
+
 ### Statistical hypothesis testing
 
 -   classification
@@ -101,27 +115,14 @@ Issues and positions
 -   Wilks [^Wilks1938] and Wald [^Wald1943]
 -   $p$-values and significance [^Cowan2012]
 -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
+-   Asymptotics [^Cowan2011]
 
+[^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
 [^Feldman1998]: @Feldman_1998_A_unified_approach_to_the_classical_statistical\.
 [^Neyman1933]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
 [^Wald1943]: @Wald_1943_Tests_of_statistical_hypotheses_concerning_several\.
 [^Wilks1938]: @Wilks_1938_The_large_sample_distribution_of_the_likelihood\.
-
-
-### Point estimation and confidence intervals
-
--   regression
--   MLE: Maximum likelihood estimators, Fisher [^Aldrich1997]
--   Cram&eacute;r-Rao bound [^Cramer-Rao]
--   Asymptotics [^Cowan2011]
-
-[^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
-[^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
-    @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
-    @Rao_1945_Information_and_the_accuracy_attainable\, and
-    @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
-[^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 
 
 ### Systematic uncertainties
