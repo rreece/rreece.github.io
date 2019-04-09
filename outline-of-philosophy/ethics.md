@@ -308,6 +308,7 @@ Links and encyclopedia articles
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
 -   [Is-ought problem](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
+-   [Kingmaker scenario](https://en.wikipedia.org/wiki/Kingmaker_scenario)
 -   [Legal positivism](https://en.wikipedia.org/wiki/Legal_positivism)
 -   [Meta-ethics](http://en.wikipedia.org/wiki/Meta-ethics)
 -   [Mill, John Stuart (1806-1873)](http://en.wikipedia.org/wiki/John_Stuart_Mill)
