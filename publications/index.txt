@@ -46,71 +46,75 @@ or find it at CDS as [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836).
 Data science & machine learning publications
 -------------------------------------------------------------------------------
 
+1.  Chiley, V. *et al*. Online Normalization for Training Neural Networks.
+    [arxiv:1905.05894](https://arxiv.org/abs/1905.05894).
+    May 15, 2019.
+
 1.  Machine Learning in High Energy Physics Community White Paper.
-    [arxiv:1807.02876](https://arxiv.org/abs/1807.02876), 
+    [arxiv:1807.02876](https://arxiv.org/abs/1807.02876). 
     July 8, 2018.
 
 
 ATLAS publications
 -------------------------------------------------------------------------------
 
-1.  Search for photonic signatures of gauge-mediated supersymmetry in 13 TeV $pp$ collisions with the ATLAS detector,
-    [*Physical Review D*, *97*, 092006 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.092006),
-    [arxiv:1802.03158](https://arxiv.org/abs/1802.03158),
+1.  Search for photonic signatures of gauge-mediated supersymmetry in 13 TeV $pp$ collisions with the ATLAS detector.
+    [*Physical Review D*, *97*, 092006 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.092006).
+    [arxiv:1802.03158](https://arxiv.org/abs/1802.03158).
     February 9, 2018.
 
-1.  Search for supersymmetry in a final state containing two photons and missing transverse momentum in $\sqrt{s}$ = 13 TeV $pp$ collisions at the LHC using the ATLAS detector,
-    [*European Physical Journal C*, *76*, 517 (2016)](https://link.springer.com/article/10.1140/epjc/s10052-016-4344-x),
-    [arxiv:1606.09150](http://arxiv.org/abs/1606.09150),
+1.  Search for supersymmetry in a final state containing two photons and missing transverse momentum in $\sqrt{s}$ = 13 TeV $pp$ collisions at the LHC using the ATLAS detector.
+    [*European Physical Journal C*, *76*, 517 (2016)](https://link.springer.com/article/10.1140/epjc/s10052-016-4344-x).
+    [arxiv:1606.09150](http://arxiv.org/abs/1606.09150).
     June 29, 2016.
 
-1.  Search for photonic signatures of gauge-mediated supersymmetry in 8 TeV pp collisions with the ATLAS detector,
-    [*Physical Review D*, *92*, 072001 (2015)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.072001),
-    [arxiv:1507.05493](http://arxiv.org/abs/1507.05493),
+1.  Search for photonic signatures of gauge-mediated supersymmetry in 8 TeV pp collisions with the ATLAS detector.
+    [*Physical Review D*, *92*, 072001 (2015)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.92.072001).
+    [arxiv:1507.05493](http://arxiv.org/abs/1507.05493).
     July 20, 2015.
 
-1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in $pp$ collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector,
-    [*Journal of High Energy Physics*, *7*, 157 (2015)](https://link.springer.com/article/10.1007/JHEP07(2015)157), 
-    [arxiv:1502.07177](http://arxiv.org/abs/1502.07177),
-    February 25, 2015,
-    (*served as editor*).
+1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in $pp$ collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector.
+    [*Journal of High Energy Physics*, *7*, 157 (2015)](https://link.springer.com/article/10.1007/JHEP07(2015)157). 
+    [arxiv:1502.07177](http://arxiv.org/abs/1502.07177).
+    February 25, 2015.
+    (*served as editor*)
 
 1.  Identification and energy calibration of hadronically decaying tau leptons with the ATLAS experiment in $pp$ collisions
-    at $\sqrt{s}$ = 8 TeV,
-    [*European Physical Journal C*, *75*, 303 (2015)](https://link.springer.com/article/10.1140/epjc/s10052-015-3500-z),
-    [arxiv:1412.7086](http://arxiv.org/abs/1412.7086),
+    at $\sqrt{s}$ = 8 TeV.
+    [*European Physical Journal C*, *75*, 303 (2015)](https://link.springer.com/article/10.1140/epjc/s10052-015-3500-z).
+    [arxiv:1412.7086](http://arxiv.org/abs/1412.7086).
     December 22, 2014.
 
-1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in the ATLAS detector,
-    [*Physics Letters B*, *719*, 242-260 (2013)](https://www.sciencedirect.com/science/article/pii/S0370269313000816),
-    [arxiv:1210.6604](http://arxiv.org/abs/1210.6604),
-    October 24, 2012,
-    (*served as editor*).
+1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in the ATLAS detector.
+    [*Physics Letters B*, *719*, 242-260 (2013)](https://www.sciencedirect.com/science/article/pii/S0370269313000816).
+    [arxiv:1210.6604](http://arxiv.org/abs/1210.6604).
+    October 24, 2012.
+    (*served as editor*)
 
-1.  Measurement of the $Z\rightarrow\tau\tau$ production cross section in proton-proton collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector,
-    [*Physical Review D*, *84*, 112006 (2011)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.84.112006),
-    [arxiv:1108.2016](http://arxiv.org/abs/1108.2016),
+1.  Measurement of the $Z\rightarrow\tau\tau$ production cross section in proton-proton collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector.
+    [*Physical Review D*, *84*, 112006 (2011)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.84.112006).
+    [arxiv:1108.2016](http://arxiv.org/abs/1108.2016).
     August 9, 2011.
 
-1.  Performance of the ATLAS detector using first collision data,
-    [*Journal of High Energy Physics*, *9*, 56 (2010)](https://link.springer.com/article/10.1007/JHEP09(2010)056),
-    [arxiv:1005.5254](http://arxiv.org/abs/1005.5254),
+1.  Performance of the ATLAS detector using first collision data.
+    [*Journal of High Energy Physics*, *9*, 56 (2010)](https://link.springer.com/article/10.1007/JHEP09(2010)056).
+    [arxiv:1005.5254](http://arxiv.org/abs/1005.5254).
     May 28, 2010.
 
-1.  The ATLAS Transition Radiation Tracker (TRT) proportional drift tube: design and performance,
-    [*Journal of Instrumentation*, *3*, P02013 (2008)](http://iopscience.iop.org/1748-0221/3/02/P02013/),
+1.  The ATLAS Transition Radiation Tracker (TRT) proportional drift tube: design and performance.
+    [*Journal of Instrumentation*, *3*, P02013 (2008)](http://iopscience.iop.org/1748-0221/3/02/P02013/).
     February 29, 2008.
 
-1.  The ATLAS TRT Electronics,
-    [*Journal of Instrumentation*, *3*, P06007 (2008)](http://iopscience.iop.org/1748-0221/3/06/P06007/),
+1.  The ATLAS TRT Electronics.
+    [*Journal of Instrumentation*, *3*, P06007 (2008)](http://iopscience.iop.org/1748-0221/3/06/P06007/).
     June 27, 2008.
 
-1.  The ATLAS TRT Barrel Detector,
-    [*Journal of Instrumentation*, *3*, P02014 (2008)](http://iopscience.iop.org/1748-0221/3/02/P02014/),
+1.  The ATLAS TRT Barrel Detector.
+    [*Journal of Instrumentation*, *3*, P02014 (2008)](http://iopscience.iop.org/1748-0221/3/02/P02014/).
     February 29, 2008.
 
-1.  The ATLAS TRT End-cap Detectors,
-    [*Journal of Instrumentation*, *3*, P10003 (2008)](http://iopscience.iop.org/1748-0221/3/10/P10003/),
+1.  The ATLAS TRT End-cap Detectors.
+    [*Journal of Instrumentation*, *3*, P10003 (2008)](http://iopscience.iop.org/1748-0221/3/10/P10003/).
     October 21, 2008.
 
 The above is a selected list of ATLAS publications for which I made substantial contributions.
@@ -121,44 +125,45 @@ See my INSPIRE-HEP profile for a more complete count of ATLAS publications:
 
 including the discovery of the Higgs boson:
 
-*   ATLAS Collaboration, Combined search for the Standard Model Higgs boson in $pp$ collisions
-at $\sqrt{s}$ = 7\ TeV with the ATLAS detector, [*Physical Review D*, 86 032003 (2012)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.032003), arXiv:[1207.0319](https://arxiv.org/abs/1207.0319).
+*   ATLAS Collaboration, Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7\ TeV with the ATLAS detector. 
+    [*Physical Review D*, 86 032003 (2012)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.032003). 
+    arxiv:[1207.0319](https://arxiv.org/abs/1207.0319).
 
 
 ATLAS conference notes / proceedings / other public documents 
 -------------------------------------------------------------------------------
 
-1.  ATLAS searches for heavy Higgs bosons and supersymmetry using tau decays,
+1.  ATLAS searches for heavy Higgs bosons and supersymmetry using tau decays.
     [*Nuclear and Particle Physics Proceedings* 287-288 (2017) 195-198](http://www.sciencedirect.com/science/article/pii/S240560141730144X),
-    June 21, 2017,
+    June 21, 2017.
     (*only author*,
     proceedings for my talk at Tau2016: the 14th International
-    Workshop on Tau Lepton Physics, in Beijing, China).
+    Workshop on Tau Lepton Physics, in Beijing, China)
 
-1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using $20.3\:{fb}^{-1}$ $pp$ collisions at $\sqrt{s}$ = 8 TeV to explore higgs-motivated general gauge mediated models,
-    [ATLAS-CONF-2016-033](https://cds.cern.ch/record/2198316),
+1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using $20.3\:{fb}^{-1}$ $pp$ collisions at $\sqrt{s}$ = 8 TeV to explore higgs-motivated general gauge mediated models.
+    [ATLAS-CONF-2016-033](https://cds.cern.ch/record/2198316).
     July 11, 2016.
 
-1.  Searches for charged Higgs bosons, supersymmetry, and exotica with tau leptons with the ATLAS and CMS detectors at the LHC,
-    [*Nuclear Physics B (Proceedings Supplements)* (2014) 171-175](http://authors.elsevier.com/a/1Q7i-_Kxc8LXrj),
+1.  Searches for charged Higgs bosons, supersymmetry, and exotica with tau leptons with the ATLAS and CMS detectors at the LHC.
+    [*Nuclear Physics B (Proceedings Supplements)* (2014) 171-175](http://authors.elsevier.com/a/1Q7i-_Kxc8LXrj).
     [ATL-PHYS-PROC-2012-302](https://cds.cern.ch/record/1499581),
-    December 1, 2014,
+    December 1, 2014.
     (*only author*,
     proceedings for my talk at Tau2012: the 12th International
-    Workshop on Tau Lepton Physics, in Nagoya, Japan).
+    Workshop on Tau Lepton Physics, in Nagoya, Japan)
 
-1.  A search for high-mass ditau resonances decaying in the fully hadronic final state in $pp$ collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector,
-    [ATLAS-CONF-2013-066](https://cds.cern.ch/record/1562841),
+1.  A search for high-mass ditau resonances decaying in the fully hadronic final state in $pp$ collisions at $\sqrt{s}$ = 8 TeV with the ATLAS detector.
+    [ATLAS-CONF-2013-066](https://cds.cern.ch/record/1562841).
     July 18, 2013.
 
-1.  Identification of the hadronic decays of tau leptons in 2012 data with the ATLAS detector,
-    [ATLAS-CONF-2013-064](https://cds.cern.ch/record/1562839),
+1.  Identification of the hadronic decays of tau leptons in 2012 data with the ATLAS detector.
+    [ATLAS-CONF-2013-064](https://cds.cern.ch/record/1562839).
     July 18, 2013.
  
-1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in the ATLAS detector,
-    [ATLAS-CONF-2012-067](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2012-067/),
-    June 30, 2012
-    (*served as editor*).
+1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in the ATLAS detector.
+    [ATLAS-CONF-2012-067](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2012-067/).
+    June 30, 2012.
+    (*served as editor*)
 
     <!---
     A conference note for ICHEP 2012, documenting our search for hypothetical
@@ -168,8 +173,8 @@ ATLAS conference notes / proceedings / other public documents
     than 1.3 TeV are excluded at the 95\% CL.
     -->
 
-1.  Performance of the Reconstruction and Identification of Hadronic Tau Decays with ATLAS,
-    [ATLAS-CONF-2011-152](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2011-152/),
+1.  Performance of the Reconstruction and Identification of Hadronic Tau Decays with ATLAS.
+    [ATLAS-CONF-2011-152](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2011-152/).
     November 13, 2011.
 
     <!---
@@ -177,12 +182,12 @@ ATLAS conference notes / proceedings / other public documents
     identification, and energy scale used for winter 2012 analyses.
     -->
 
-1.  Measurement of the $W$ and $Z$ boson production cross sections in pp collisions at 7 TeV with the ATLAS detector,
-    [ATL-PHYS-PROC-2011-240](https://cdsweb.cern.ch/record/1397821),
-    November 10, 2011
+1.  Measurement of the $W$ and $Z$ boson production cross sections in pp collisions at 7 TeV with the ATLAS detector.
+    [ATL-PHYS-PROC-2011-240](https://cdsweb.cern.ch/record/1397821).
+    November 10, 2011.
     (*only author*,
     proceedings for my talk at the 2011 International Europhysics
-    Conference on High Energy Physics (EPS) in Grenoble, France).
+    Conference on High Energy Physics (EPS) in Grenoble, France)
 
     <!---
     Proceedings for my talk at the 2011 International Europhysics
@@ -193,18 +198,18 @@ ATLAS conference notes / proceedings / other public documents
     of W and Z bosons.
     -->
 
-1.  Reconstruction, Energy Calibration, and Identification of Hadronically Decaying Tau Leptons,
-    [ATLAS-CONF-2011-077](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2011-077/),
-    March 24, 2011
-    (*served as editor*).
+1.  Reconstruction, Energy Calibration, and Identification of Hadronically Decaying Tau Leptons.
+    [ATLAS-CONF-2011-077](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2011-077/).
+    March 24, 2011.
+    (*served as editor*)
 
     <!---
     Documentation of the ATLAS tau reconstruction,
     identification, and energy scale used for winter 2011 analyses (Moriond).
     -->
 
-1.  Observation of $Z\rightarrow\tau\tau\rightarrow\ell\tau_\mathrm{h}$ Decays with the ATLAS detector,
-    [ATLAS-CONF-2011-010](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2011-010/),
+1.  Observation of $Z\rightarrow\tau\tau\rightarrow\ell\tau_\mathrm{h}$ Decays with the ATLAS detector.
+    [ATLAS-CONF-2011-010](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2011-010/).
     February 23, 2011.
 
     <!---
@@ -213,8 +218,8 @@ ATLAS conference notes / proceedings / other public documents
     in ATLAS with the first $8.5\:\mathrm{pb}^{-1}$ collected in 2010.
     -->
 
-1.  Tau Reconstruction and Identification Performance in ATLAS,
-    [ATLAS-CONF-2010-086](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2010-086/),
+1.  Tau Reconstruction and Identification Performance in ATLAS.
+    [ATLAS-CONF-2010-086](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2010-086/).
     October 11, 2010.
 
     <!---
@@ -224,18 +229,18 @@ ATLAS conference notes / proceedings / other public documents
     collected in 2010.
     -->
 
-1.  Event Display of $Z\rightarrow\tau\tau\rightarrow\mu\tau_\mathrm{h}$ in 7 TeV Collisions,
-    [ATL-COM-PHYS-2010-775](https://cdsweb.cern.ch/record/1294050),
-    September 23, 2010
-    (*only author*).
+1.  Event Display of $Z\rightarrow\tau\tau\rightarrow\mu\tau_\mathrm{h}$ in 7 TeV Collisions.
+    [ATL-COM-PHYS-2010-775](https://cdsweb.cern.ch/record/1294050).
+    September 23, 2010.
+    (*only author*)
 
     <!---
     An event display I made of one of the first
     $Z\rightarrow\tau\tau\rightarrow\mu\tau_\mathrm{h}$ events in 2010.
     -->
 
-1.  Reconstruction of hadronic tau candidates in QCD events at ATLAS with 7 TeV proton-proton collisions,
-    [ATLAS-CONF-2010-059](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2010-059/),
+1.  Reconstruction of hadronic tau candidates in QCD events at ATLAS with 7 TeV proton-proton collisions.
+    [ATLAS-CONF-2010-059](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2010-059/).
     July 10, 2010.
 
     <!---
@@ -255,89 +260,98 @@ You won't have access to these unless you are a member of ATLAS.
 
 1.  Search for strongly- and weakly-produced GMSB signatures in the
     diphoton and $E_\mathrm{T}^\mathrm{miss}$ final state in *&radic;s* = 13 TeV $pp$ collisions at LHC using the ATLAS detector.
-    [ATL-COM-PHYS-2016-1683](https://cds.cern.ch/record/2233741),
-    Draft: June 15, 2016
-    (Support note).
+    [ATL-COM-PHYS-2016-1683](https://cds.cern.ch/record/2233741).
+    Draft: June 15, 2016.
+    (Support note)
 
 1.  A re-interpretation of electroweak supersymmetry production ATLAS analysis results using 20.3\ fb${}^{-1}$ of $pp$ collisions at *&radic;s* = 8 TeV to explore higgs-motivated general gauge mediated models.
-    [ATL-COM-PHYS-2015-1438](https://cds.cern.ch/record/2109710)
-    Draft: June 24, 2016
-    (Support note for [ATLAS-CONF-2016-033](https://cds.cern.ch/record/2198316)).
+    [ATL-COM-PHYS-2015-1438](https://cds.cern.ch/record/2109710).
+    Draft: June 24, 2016.
+    (Support note for [ATLAS-CONF-2016-033](https://cds.cern.ch/record/2198316))
 
 1.  Search for a diphoton and $E_\mathrm{T}^\mathrm{miss}$ final state in *&radic;s* = 13 TeV $pp$ collisions at LHC using the ATLAS detector.
-    [ATL-COM-PHYS-2015-1136](https://cds.cern.ch/record/2051527),
-    May 17, 2016
-    (Support note for [1606.09150](https://arxiv.org/abs/1606.09150)).
+    [ATL-COM-PHYS-2015-1136](https://cds.cern.ch/record/2051527).
+    May 17, 2016.
+    (Support note for [1606.09150](https://arxiv.org/abs/1606.09150))
 
 1.  Search for a diphoton and $E_\mathrm{T}^\mathrm{miss}$ final state in *&radic;s* = 8 TeV $pp$ collisions at LHC using the ATLAS detector.
-    [ATL-COM-PHYS-2014-442](https://cds.cern.ch/record/1700554),
-    February 23, 2015
-    (Support note for [arxiv:1507.05493](http://arxiv.org/abs/1507.05493)).
+    [ATL-COM-PHYS-2014-442](https://cds.cern.ch/record/1700554).
+    February 23, 2015.
+    (Support note for [arxiv:1507.05493](http://arxiv.org/abs/1507.05493))
 
 1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in $pp$ collisions at *&radic;s* = 8 TeV with the ATLAS detector.
-    [ATL-COM-PHYS-2014-276](https://cds.cern.ch/record/1694306),
-    January 23, 2015
-    (*served as editor*, Support note for [arxiv:1502.07177](http://arxiv.org/abs/1502.07177)).
+    [ATL-COM-PHYS-2014-276](https://cds.cern.ch/record/1694306).
+    January 23, 2015.
+    (*served as editor*, Support note for [arxiv:1502.07177](http://arxiv.org/abs/1502.07177))
 
 1.  Recommendations of the physics objects and analysis harmonisation study groups 2014.
-    [ATL-COM-PHYS-2014-451](https://cds.cern.ch/record/1700874),
+    [ATL-COM-PHYS-2014-451](https://cds.cern.ch/record/1700874).
     May 12, 2014.
 
 1.  A search for high-mass ditau resonances decaying in the fully hadronic final state in $pp$ collisions at *&radic;s* = 8 TeV with the ATLAS detector.
-    [ATL-COM-PHYS-2013-125](https://cds.cern.ch/record/1513211),
-    Feb 4, 2013 (Support note for ATLAS-CONF-2013-066).
+    [ATL-COM-PHYS-2013-125](https://cds.cern.ch/record/1513211).
+    Feb 4, 2013. 
+    (Support note for ATLAS-CONF-2013-066)
 
 1.  Identification of the hadronic decays of tau leptons in 2012 data with the ATLAS detector.
-    [ATL-COM-PHYS-2013-155](https://cds.cern.ch/record/1514539)
-    Oct 11, 2013  (Support note for [ATLAS-CONF-2013-064](https://cds.cern.ch/record/1562839)).
+    [ATL-COM-PHYS-2013-155](https://cds.cern.ch/record/1514539).
+    Oct 11, 2013.
+    (Support note for [ATLAS-CONF-2013-064](https://cds.cern.ch/record/1562839))
 
 1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in the ATLAS detector.
-    [ATL-COM-PHYS-2012-394](https://cdsweb.cern.ch/record/1439018),
-    June 11, 2011  (Support note for ATLAS-CONF-2012-067, *served as editor*).
+    [ATL-COM-PHYS-2012-394](https://cdsweb.cern.ch/record/1439018).
+    June 11, 2011.
+    (Support note for ATLAS-CONF-2012-067, *served as editor*)
 
 1.  TRT Straw Hit Efficiency.
-    [ATL-COM-INDET-2011-088](https://cdsweb.cern.ch/record/1384438),
-    September 23, 2011
-    (*only author*).
+    [ATL-COM-INDET-2011-088](https://cdsweb.cern.ch/record/1384438).
+    September 23, 2011.
+    (*only author*)
 
 1.  Measurement of $Z\rightarrow\tau\tau$ production cross section in proton-proton collisions at *&radic;s* = 7 TeV with the ATLAS detector -- Support Note for lep-had channels.
-    [ATL-COM-PHYS-2011-416](https://cdsweb.cern.ch/record/1346327),
-    April 21, 2011  (Support note for arxiv:1108.2016).
+    [ATL-COM-PHYS-2011-416](https://cdsweb.cern.ch/record/1346327).
+    April 21, 2011.
+    (Support note for arxiv:1108.2016)
 
 1.  Measurement of $Z\rightarrow\tau\tau$ production cross section in proton-proton collisions at *&radic;s* = 7 TeV with the ATLAS detector - Combination of results.
-    [ATL-COM-PHYS-2011-419](https://cdsweb.cern.ch/record/1346341),
-    April 21, 2011  (Support note for arxiv:1108.2016).
+    [ATL-COM-PHYS-2011-419](https://cdsweb.cern.ch/record/1346341).
+    April 21, 2011.
+    (Support note for arxiv:1108.2016)
 
 1.  Reconstruction, Energy Calibration, and Identification of Hadronic Tau Decays for Winter 2011.
-    [ATL-PHYS-INT-2011-068](https://cdsweb.cern.ch/record/1379848),
-    March 2, 2011  (Support note for ATLAS-CONF-2011-077, *served as editor*).
+    [ATL-PHYS-INT-2011-068](https://cdsweb.cern.ch/record/1379848).
+    March 2, 2011.
+    (Support note for ATLAS-CONF-2011-077, *served as editor*)
 
 1.  Observation of $Z\rightarrow\tau\tau\rightarrow\ell\tau_\mathrm{h}$ Decays with the ATLAS detector -- Support Note.
     [ATL-COM-PHYS-2010-1033](https://cdsweb.cern.ch/record/1313262),
-    December 10, 2010  (Support note for ATLAS-CONF-2011-010).
+    December 10, 2010.
+    (Support note for ATLAS-CONF-2011-010).
 
 1.  Tau identification performance with the ATLAS detector.
-    [ATL-COM-PHYS-2010-599](https://cdsweb.cern.ch/record/1282386),
-    August 2, 2010  (Support note for ATLAS-CONF-2010-086).
+    [ATL-COM-PHYS-2010-599](https://cdsweb.cern.ch/record/1282386).
+    August 2, 2010.
+    (Support note for ATLAS-CONF-2010-086)
 
 1.  Commissioning of the ATLAS Tau-Lepton Reconstruction Using 7 TeV data.
-    [ATL-COM-PHYS-2010-392](https://cdsweb.cern.ch/record/1272929),
-    June 18, 2010  (Support note for ATLAS-CONF-2010-059).
+    [ATL-COM-PHYS-2010-392](https://cdsweb.cern.ch/record/1272929).
+    June 18, 2010.
+    (Support note for ATLAS-CONF-2010-059)
 
 1.  Benchmark Analysis for $Z\rightarrow\tau\tau\rightarrow\ell\tau_\mathrm{h}$ with the First $100~\mathrm{pb}^{-1}$.
-    [ATL-PHYS-INT-2010-075](https://cdsweb.cern.ch/record/1282947),
-    February 25, 2010
-    (*served as editor*).
+    [ATL-PHYS-INT-2010-075](https://cdsweb.cern.ch/record/1282947).
+    February 25, 2010.
+    (*served as editor*)
 
 1.  A Selection Strategy for $Z\rightarrow\tau\tau\rightarrow\mu\tau_\mathrm{h}$ with the First $100\:\mathrm{pb}^{-1}$ from ATLAS.
-    [ATL-PHYS-INT-2009-044](http://cdsweb.cern.ch/record/1175202),
-    May 5, 2009
-    (*only author*).
+    [ATL-PHYS-INT-2009-044](http://cdsweb.cern.ch/record/1175202).
+    May 5, 2009.
+    (*only author*)
 
 1.  TRT Low Threshold Calibration.
-    [ATL-INDET-INT-2008-002](http://cdsweb.cern.ch/record/1115417),
-    July 16, 2008
-    (*only author*).
+    [ATL-INDET-INT-2008-002](http://cdsweb.cern.ch/record/1115417).
+    July 16, 2008.
+    (*only author*)
 
 1.  I have authored the following sections in the [ATLAS Physics Analysis Workbook](https://twiki.cern.ch/twiki/bin/view/AtlasProtected/PhysicsAnalysisWorkBook):
     [PyROOT](https://twiki.cern.ch/twiki/bin/view/AtlasProtected/PhysicsAnalysisWorkBookPyRootRel15),
