@@ -14,9 +14,10 @@ This is a meandering of one person through his own thoughts on philosophy,
 a meandering that is primarily western and focused on empiricism,
 although not entirely.
 
-I want to explore to what degree we can expect science to accurately describe the world,
+I want to explore basic questions of what is knowledge and how we know anything.
+I want to ask to what degree we can expect science to accurately describe the world,
 and ultimately to highlight the importance of science in constructing a worldview.
-An important set of ideas in these outlines is associated with *naturalism*,
+An important central set of ideas in these outlines is philosophical *naturalism*,
 which will be roughly defined bellow.
 
 
@@ -67,7 +68,7 @@ A very diverse set of thinkers are often characterized as naturalists or aligned
 with naturalism, at the expense of much clarity in the term, but naturalism
 generally consists of varying degrees of either or both:
 
-1.  ***epistemological naturalism*** - an epistemic respect for science;
+1.  ***epistemological naturalism*** - an epistemic respect for science and empiricism;
     a methodological commitment to
     the [scientific method](http://rreece.github.io/outline-of-philosophy/scientific-method.html)
     of justifying empirical claims as a route to knowledge,
