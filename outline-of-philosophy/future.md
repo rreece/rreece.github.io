@@ -28,12 +28,14 @@ TODO.
 
 ### Technological growth
 
-TODO.
-
+-   The Coming Technological Singularity [^Vinge1993]
 -   Simulation argument [^Bostrom2003] and patch [^Bostrom2011]
+-   The AI Revolution: The Road to Superintelligence [^WaitButWhy2015]
 
 [^Bostrom2003]: @Bostrom_2003_Are_you_living_in_a_computer_simulation\.
 [^Bostrom2011]: @Bostrom_2011_A_patch_for_the_simulation_argument\.
+[^Vinge1993]: @Vinge_1993_The_Coming_Technological_Singularity\.
+[^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
 
 
 ### Artificial intelligence
