@@ -106,6 +106,7 @@ Annotated bibliography
 ### More articles to do
 
 -   @Peterson_1999_Maps_of_Meaning
+-   @Brassier_2007_Nihil_Unbound
 
 
 Links and encyclopedia articles
@@ -167,7 +168,10 @@ Links and encyclopedia articles
 -   [Nietzsche, Friedrich (1844-1900)](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
 -   [Nihilism](http://en.wikipedia.org/wiki/Nihilism)
 -   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
+-   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 -   [Seneca (4 BCE - 65 CE)](https://en.wikipedia.org/wiki/Seneca_the_Younger)
+-   [Stirner, Max (1806-1856)](https://en.wikipedia.org/wiki/Max_Stirner)
+-   [Tillich, Paul (1886-1965)](https://en.wikipedia.org/wiki/Paul_Tillich)
 
 ### Others
 
@@ -179,7 +183,7 @@ Links and encyclopedia articles
 
 -   [Being A Good Listener](https://www.youtube.com/watch?v=-BdbiZcNBXg)
 -   [Camus, Albert](https://www.youtube.com/watch?v=jQOfbObFOCw)
--   [Confidence"](https://www.youtube.com/watch?v=1D-vyjQIUDc)
+-   [Confidence](https://www.youtube.com/watch?v=1D-vyjQIUDc)
 -   [Dostoyevsky, Fyodor](https://www.youtube.com/watch?v=MMmSdxZpseY)
 -   [Heidegger](https://www.youtube.com/watch?v=Br1sGrA7XTU)
 -   [How Romanticism Ruined Love](https://www.youtube.com/watch?v=jltM5qYn25w)
@@ -199,6 +203,10 @@ Links and encyclopedia articles
 [Jordan B. Peterson](https://www.youtube.com/user/JordanPetersonVideos)
 
 -   [Personality Lecture 12: Existentialism: Dostoevsky, Nietzsche, Kierkegaard](https://www.youtube.com/watch?v=SsoVhKo4UvQ)
+
+Cuck Philosophy
+
+-   [Jordan Peterson doesn't understand postmodernism](https://www.youtube.com/watch?v=cU1LhcEh8Ms)
 
 Others
 

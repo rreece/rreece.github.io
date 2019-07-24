@@ -314,6 +314,7 @@ Links and encyclopedia articles
 -   [Mill, John Stuart (1806-1873)](http://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Moral Realism](http://en.wikipedia.org/wiki/Moral_realism)
 -   [Moral Relativism](http://en.wikipedia.org/wiki/Moral_relativism)
+-   [Murdoch, Iris (1919-1999)](https://en.wikipedia.org/wiki/Iris_Murdoch)
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
 -   [Nihilism](http://en.wikipedia.org/wiki/Nihilism)
 -   [Normative ethics](http://en.wikipedia.org/wiki/Normative_ethics)
