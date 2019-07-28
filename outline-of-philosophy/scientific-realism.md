@@ -1072,6 +1072,7 @@ Links and encyclopedia articles
 -   [Sartwell, Crispin (2015). Philosophy Returns to the Real World.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/)
 -   [Kaufman, D.A. (2016). Moore's Proof.](https://theelectricagora.com/2016/08/15/moores-proof/)
 -   [Hicks, S. (2010). Why Kant is the turning point.](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/)
+-   [Thomas J. Donahue - Positivism: A Global Account](https://sites.google.com/site/tjdonahu/home/positivism)
 
 ### Videos
 
