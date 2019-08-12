@@ -169,6 +169,8 @@ Issues and positions
 
 -   See the outline on [Scientific realism](scientific-realism.html)
 -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/).
+-   Rationalism and empiricism in artificial intellegence:
+    [Church, K.W. & Joel, H. (2019). A survey of 25 years of evaluation.](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291)
 
 
 My thoughts

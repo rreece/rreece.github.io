@@ -1054,6 +1054,7 @@ Links and encyclopedia articles
 -   [Sellars, Roy Wood (1880-1973)](http://en.wikipedia.org/wiki/Roy_Wood_Sellars)
 -   [Sellars, Wilfrid (1912-1989)](http://en.wikipedia.org/wiki/Wilfrid_Sellars)
 -   [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair)
+-   [Strong programme](https://en.wikipedia.org/wiki/Strong_programme)
 -   [Structure of Scientific Revolutions, The](http://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions)
 -   [Structuralism](https://en.wikipedia.org/wiki/Structuralism)
 -   [Structuralism (philosophy of science)](https://en.wikipedia.org/wiki/Structuralism_(philosophy_of_science))
@@ -1082,6 +1083,7 @@ Links and encyclopedia articles
 -   [Ladyman, James & Tallis, Raymond. (2015). Every Thing Must Go.](https://www.youtube.com/watch?v=j96Hls_-Ulc)
 -   [Mumford, Stephen (2015). Relations All The Way Down? (Against) Ontic Structural Realism](https://www.youtube.com/watch?v=4EeOhf1GG-M)
 -   [Hicks, S. (2018). Explaining Postmodernism In 2018](https://www.youtube.com/watch?v=-BGbHG63x8w)
+-   [Brassier, Ray. (2013). The Myth of the Given: Nominalism, Naturalism & Materialism](https://www.youtube.com/watch?v=dI5MZ2kBK9M)
 
 
 [^Quine-1951]: @Quine_1951_Two_Dogmas_of_Empiricism\.

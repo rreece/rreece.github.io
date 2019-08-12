@@ -251,13 +251,22 @@ Important synthesizers:
 
 ### Is there a universal scientific method?
 
--   Not a seven-step program
--   Evidence based, anti-conspiracy, parsimony
+-   Hypothetico-deductive model
 -   Positivism, verificationism
--   Auguste Comte, Ernst Mach, David Hilbert, Rudolf Carnap
--   Karl Popper, falsification
+    -   Auguste Comte, Ernst Mach, David Hilbert, Rudolf Carnap
+-   Deductive-nomological model
+    -   Hempel, C.G. & Oppenheim, P. (1948). Studies in the Logic of Explanation.
+    -   Covering law model
+    -   Logical empiricism
+-   Falsification, deductivism
+    -   Karl Popper
+-   Pragmatic model
+    -   C.S. Peirce
 -   Error-catching filters[^Ladyman2007], community, honesty, openness
--   Scientism
+    -   Ladyman, Mayo
+-   Not a seven-step program
+    -   Evidence based, anti-conspiracy, parsimony
+    -   Scientism
 
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 
