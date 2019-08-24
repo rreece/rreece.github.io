@@ -66,15 +66,16 @@ Issues and positions
         -   Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. [^Fisher1915]
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
     -   objective (non-informative) Jeffreys priors
+-   Likelihood principle
+    -   Birnbaum
+    -   violated by both Frequentists and Bayesians
 -   Responses
     -   Cox
     -   Berger [^Berger2003]
     -   Mayo
         -   Learning from Error [^Mayo1996]
         -   Error statistics [^Mayo2006]
--   Likelihood principle
-    -   Birnbaum
-    -   violated by both Frequentists and Bayesians
+        -   *Statistical Inference as Severe Testing* [^Mayo2018]
 -   Pedagogy
     -   Kendall [^Kendall1946]
     -   James [^James2006]
@@ -90,6 +91,7 @@ Issues and positions
 [^Kendall1946]: @Kendall_1946_The_Advanced_Theory_of_Statistics_VolII\.
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
 [^Mayo2006]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
+[^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
 
 
 ### Point estimation and confidence intervals
