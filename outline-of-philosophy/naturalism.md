@@ -193,7 +193,16 @@ Opening lines to *ETMG*:
 
 ### Rejection of the supernatural
 
-Part of methodological naturalism.
+-   Part of methodological naturalism.
+    -   Not an a priori assumption but an empirical conclusion
+
+![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism)).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
+
+-   The Lewis-Anscombe debate
+    -   [The Lewis-Anscombe debate](http://thecslewis-studygroup.org/the-c-s-lewis-study-group/lewis-genre/theology/miracles-2/the-lewisanscombe-debate/)
+    -   The rewrite of chapter 3 in *Miracles* [^Lewis1947]
+
+[^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.
 
 
 ### Natural kinds
@@ -206,7 +215,6 @@ Part of metaphysical naturalism.
 [^Quine1969]: @Quine_1969_Natural_kinds\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
-![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism)).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
 
 See the outline on [scientific realism](scientific-realism.html).
 
