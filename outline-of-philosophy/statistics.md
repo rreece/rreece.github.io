@@ -81,6 +81,7 @@ Issues and positions
     -   James [^James2006]
     -   Cowan [^Cowan1998]
     -   Cranmer [^Cranmer2015]
+    -   Weisberg [^Weisberg2019]
 
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
@@ -92,6 +93,7 @@ Issues and positions
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
 [^Mayo2006]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
 [^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
+[^Weisberg2019]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\.
 
 
 ### Point estimation and confidence intervals
