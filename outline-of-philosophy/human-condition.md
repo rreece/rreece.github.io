@@ -41,7 +41,13 @@ TODO.
 
 ### Existentialism
 
-TODO.
+-   Sarte
+-   Camus
+
+
+### Nihilism
+
+-   @Brassier_2007_Nihil_Unbound
 
 
 ### Biology
@@ -112,8 +118,7 @@ Annotated bibliography
 
 ### More articles to do
 
--   @Peterson_1999_Maps_of_Meaning
--   @Brassier_2007_Nihil_Unbound
+-   @Peterson_1999_Maps_of_Meaning on Jung
 
 
 Links and encyclopedia articles

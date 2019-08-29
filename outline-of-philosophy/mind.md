@@ -15,12 +15,13 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and positions
 --------------------------------------------------------------------------------
 
-### Some details
+### Consciousness
 
 -   Nagel [^Nagel1974]
 -   Dennett [^Dennett1991]
 -   Chalmers [^Chalmers1996]
 -   Phenomenal vs access consciousness
+-   Embodiment
 
 [^Chalmers1996]: @Chalmers_1996_The_Conscious_Mind_In_Search_of_a_Fundamental\.
 [^Dennett1991]: @Dennett_1991_Consciousness_Explained\.
