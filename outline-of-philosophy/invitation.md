@@ -17,6 +17,10 @@ although not entirely.
 I want to explore basic questions of what is knowledge and how we know anything.
 I want to ask to what degree we can expect science to accurately describe the world,
 and ultimately to highlight the importance of science in constructing a worldview.
+
+These notes have a point of view,
+one that is sympathetic to a sense of real progress in science
+and philosophy in general.
 An important central set of ideas in these outlines is philosophical *naturalism*,
 which will be roughly defined bellow.
 
@@ -135,9 +139,8 @@ TODO: pick-up writing here.
 Who do I want to reach with this argument?
 
 -   Anyone interested in the engagement of science and philosophy.
--   Science skeptics and anti-naturalists of one form or another that see science
-    as just one of many competing claims to knowledge,
-    with or without the capability of describing reality.
+-   Skeptics of science and anti-naturalists of one form or another that see science
+    as just one of many competing claims to knowledge.
 -   Allies in illucidating the demarcation of what science is,
     and what sorts of claims it justifies.
 -   Can this be accessible and interesting to both academic and lay audiences?
