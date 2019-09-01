@@ -52,9 +52,12 @@ Works that changed me
 | 47. | Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*.                 |      2017 |     32 |
 | 48. | Pigliucci, M. (2017). *How to be a Stoic*.                                           |      2017 |     32 |
 | 49. | Seneca. (49). *On the Shortness of Life*.                                            |      2017 |     32 |
-| 50. | Maddy, P. (2007). *Second Philosophy*.                                               |      2018 |    33? |
-| 51. | Bukowski, C. (2016). *Essential Bukowski* (A. Debritto, Ed.).                        |      2018 |    33? |
-| 52. | Paglia, C. (1990). *Sexual Personae*.                                                |      2018 |    33? |
+| 50. | Maddy, P. (2007). *Second Philosophy*.                                               |      2018 |     33 |
+| 51. | Bukowski, C. (2016). *Essential Bukowski* (A. Debritto, Ed.).                        |      2018 |     33 |
+| 52. | Goodfellow, I., Bengio, Y., & Courville, A. et al. (2016). *Deep Learning*.          |      2019 |     34 |
+| 53. | Fitzgerald, A. (2018). *Exploitive Play in Live Poker*.                              |      2019 |     34 |
+| 54. | Epictetus (c. 125). *Enchiridion*.                                                   |      2019 |     34 |
+| 55. | Paglia, C. (1990). *Sexual Personae*.                                                |      2018 |    33? |
 
 
 
