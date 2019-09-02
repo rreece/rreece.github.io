@@ -48,16 +48,17 @@ Works that changed me
 | 43. | Camus, A. (1957). *The Fall*.                                                        |      2015 |     30 |
 | 44. | Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*.      |      2016 |     31 |
 | 45. | de Botton, A. (1993). *Essays in Love*.                                              |      2016 |     31 |
-| 46. | de Sade, D.A.F. (1795). *Philosophy in the Bedroom*.                                 |      2017 |     32 |
-| 47. | Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*.                 |      2017 |     32 |
-| 48. | Pigliucci, M. (2017). *How to be a Stoic*.                                           |      2017 |     32 |
-| 49. | Seneca. (49). *On the Shortness of Life*.                                            |      2017 |     32 |
-| 50. | Maddy, P. (2007). *Second Philosophy*.                                               |      2018 |     33 |
-| 51. | Bukowski, C. (2016). *Essential Bukowski* (A. Debritto, Ed.).                        |      2018 |     33 |
-| 52. | Goodfellow, I., Bengio, Y., & Courville, A. et al. (2016). *Deep Learning*.          |      2019 |     34 |
-| 53. | Fitzgerald, A. (2018). *Exploitive Play in Live Poker*.                              |      2019 |     34 |
-| 54. | Epictetus (c. 125). *Enchiridion*.                                                   |      2019 |     34 |
-| 55. | Paglia, C. (1990). *Sexual Personae*.                                                |      2018 |    33? |
+| 46. | Maudlin, T. (2007). *The Metaphysics Within Physics*.                                |      2016 |     31 |
+| 47. | de Sade, D.A.F. (1795). *Philosophy in the Bedroom*.                                 |      2017 |     32 |
+| 48. | Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*.                 |      2017 |     32 |
+| 49. | Pigliucci, M. (2017). *How to be a Stoic*.                                           |      2017 |     32 |
+| 50. | Seneca. (49). *On the Shortness of Life*.                                            |      2017 |     32 |
+| 51. | Maddy, P. (2007). *Second Philosophy*.                                               |      2018 |     33 |
+| 52. | Bukowski, C. (2016). *Essential Bukowski* (A. Debritto, Ed.).                        |      2018 |     33 |
+| 53. | Goodfellow, I., Bengio, Y., & Courville, A. et al. (2016). *Deep Learning*.          |      2019 |     34 |
+| 54. | Fitzgerald, A. (2018). *Exploitive Play in Live Poker*.                              |      2019 |     34 |
+| 55. | Epictetus (c. 125). *Enchiridion*.                                                   |      2019 |     34 |
+| 56. | Paglia, C. (1990). *Sexual Personae*.                                                |      2018 |    33? |
 
 
 
