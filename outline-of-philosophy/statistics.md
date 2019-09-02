@@ -164,9 +164,11 @@ Issues and positions
 ![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis [@Asch_2018_Big_data_and_extreme_scale_computing_Pathways]. ](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
 
 -   Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. [^Asch2018]
--   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
+    -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
+-   Learning New Physics from a Machine [^DAgnolo2019]
 
 [^Asch2018]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
+[^DAgnolo2019]: @DAgnolo_2019_Learning_New_Physics_from_a_Machine\.
 
 
 ### Implications for the realism debate
