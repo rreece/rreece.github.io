@@ -56,6 +56,13 @@ TODO.
 
 -   [Drew Berry: Animations of unseeable biology](https://www.youtube.com/watch?v=WFCvkkDSfIU)
 
+Islands
+by Muriel Rukeyser
+
+| O for God's sake
+| they are connected
+| underneath
+
 
 My thoughts
 --------------------------------------------------------------------------------
