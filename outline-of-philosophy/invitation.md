@@ -41,7 +41,7 @@ Philosophy of science asks:
 
 -   What is *science*?
 -   Do the diverse inquiries called "science"
-    have an underlying, universal, *scientific method*, and if so, what is it?
+    have an underlying, universal, *scientific method*? And if so, what is it?
 -   How can we tell science from *not science*, and what is *pseudoscience*?
 -   Is science a way of producing *knowledge*?
     And if so, are there other ways of *knowing*?
