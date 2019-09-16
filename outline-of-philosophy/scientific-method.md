@@ -576,6 +576,7 @@ Links and encyclopedia articles
 -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
 -   [Copernican Revolution](https://en.wikipedia.org/wiki/Copernican_Revolution)
 -   [Cram&#233;r-Rao bound](http://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound)
+-   [Critical thinking](https://en.wikipedia.org/wiki/Critical_thinking)
 -   [Curie, Marie (1867-1934)](https://en.wikipedia.org/wiki/Marie_Curie)
 -   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
 -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
