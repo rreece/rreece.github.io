@@ -215,7 +215,7 @@ Links and encyclopedia articles
 -   [The empty brain: Your brain does not process information, retrieve knowledge or store memories](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer) - Robert Epstein
 -   [Symbol grounding problem](http://www.scholarpedia.org/article/Symbol_grounding_problem) - scholarpedia
 
-## Videos
+### Videos
 
 -   [Dennett, Daniel. (2017). From Bacteria to Bach and Back: The Evolution of Minds.](https://www.youtube.com/watch?v=IZefk4gzQt4)
 -   [Seth, Anil. (2017). The Neuroscience of Consciousness.](https://www.youtube.com/watch?v=xRel1JKOEbI)
