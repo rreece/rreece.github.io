@@ -17,11 +17,17 @@ Issues and positions
 
 ### Consciousness
 
+-   sentience
+-   phenomenal vs access consciousness
+-   embodiment
+-   subconscious
+-   Freud
+-   Jung
+-   Putnam
 -   Nagel [^Nagel1974]
+-   Churchland's
 -   Dennett [^Dennett1991]
 -   Chalmers [^Chalmers1996]
--   Phenomenal vs access consciousness
--   Embodiment
 
 [^Chalmers1996]: @Chalmers_1996_The_Conscious_Mind_In_Search_of_a_Fundamental\.
 [^Dennett1991]: @Dennett_1991_Consciousness_Explained\.
@@ -47,6 +53,13 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   Materialism
 -   See the outline on [Naturalism](naturalism.html).
 -   Descartes and Elisabeth, Princess of Bohemia
+-   Churchland's
+
+
+### Panpsychism
+
+-   Chalmers
+-   rejection of dualism vs physicalism dichotomy
 
 
 ### Free will
