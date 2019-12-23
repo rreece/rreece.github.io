@@ -254,6 +254,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   GWS electroweak theory: SU(2) $\times$ U(1)
 -   QCD: SU(3)
 -   Nima Arkani-Hamed doing particle physics *a priori*: ["Why is there a Macroscopic Universe?"](https://www.youtube.com/watch?v=F2Fxt_yCrcc)
+-   Nima Arkani-Hamed on [Collider Physics from the Bottom Up](https://www.youtube.com/watch?v=uG8VJb3jRzU)
 
 
 ### Beyond the standard model
@@ -499,6 +500,7 @@ Links and encyclopedia articles
 -   [Chronology of the universe](http://en.wikipedia.org/wiki/Chronology_of_the_universe)
 -   [Church-Turing-Deutsch principle](https://en.wikipedia.org/wiki/Church%E2%80%93Turing%E2%80%93Deutsch_principle)
 -   [Church-Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
+-   [Clinamen](https://en.wikipedia.org/wiki/Clinamen)
 -   [Complexity](http://en.wikipedia.org/wiki/Complexity)
 -   [Constructor theory](http://en.wikipedia.org/wiki/Constructor_theory)
 -   [CP violation](https://en.wikipedia.org/wiki/CP_violation)

@@ -470,42 +470,48 @@ Questions:
 1. There is an external world.
 </a></div>
 <div id="my_defense_of_realism1" class="more">
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 </div>
 
 <div class="clickmore"><a id="link:my_defense_of_realism2" class="closed" onclick="toggle_more('my_defense_of_realism2')">
 2. If we are careful, we can collect reproducible empirical information.
 </a></div>
 <div id="my_defense_of_realism2" class="more">
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 </div>
 
 <div class="clickmore"><a id="link:my_defense_of_realism3" class="closed" onclick="toggle_more('my_defense_of_realism3')">
 3. Regularities in the phenomena of the world can be summarized in Laws of Nature.
 </a></div>
 <div id="my_defense_of_realism3" class="more">
-
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
+</div>
 
+<div class="clickmore"><a id="link:my_defense_of_realism4" class="closed" onclick="toggle_more('my_defense_of_realism4')">
+4. Some of the structure of the Laws of Nature are necessary by consistency.
+</a></div>
+<div id="my_defense_of_realism4" class="more">
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+sunt in culpa qui officia deserunt mollit anim id est laborum.
 </div>
 
 
@@ -514,7 +520,7 @@ Annotated bibliography
 
 ### Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
 
--   TODO
+-   TODO: The meaning of language is a picture of affairs.
 
 #### My thoughts
 
@@ -668,7 +674,7 @@ Annotated bibliography
 
 ### Wittgenstein, L. (1953). *Philosophical Investigations*.
 
--   TODO
+-   TODO: The meaning of lanuage is its use.
 
 #### My thoughts
 

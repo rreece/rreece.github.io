@@ -29,6 +29,7 @@ Issues and positions
 
 -   Pigliucci[^Pigliucci2017]
 -   Seneca[^Seneca1997]
+-   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
 
 [^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic\.
 [^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.
@@ -167,6 +168,7 @@ Links and encyclopedia articles
 
 -   [Absurdism](http://en.wikipedia.org/wiki/Absurdism)
 -   [Akrasia](https://en.wikipedia.org/wiki/Akrasia)
+-   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
 -   [Aurelius, Marcus (121-180)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 -   [Bad faith](https://en.wikipedia.org/wiki/Bad_faith)
 -   [Bad faith (existentialism)](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))

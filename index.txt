@@ -15,8 +15,8 @@ also with ATLAS, I helped commission the Transition Radiation Tracker (TRT),
 a sub-detector of the ATLAS tracker,
 during the start-up of the Large Hadron Collider (LHC) in 2009-2012.
 On July 4 of 2012, the 
-[ATLAS](https://arxiv.org/abs/1207.0319) and 
-[CMS](https://arxiv.org/abs/1202.1488) experiments both 
+[ATLAS](https://arxiv.org/abs/1207.7214) and 
+[CMS](https://arxiv.org/abs/1207.7235) experiments both 
 [announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
 a key to explaining electroweak symmetry breaking in the
 [Standard Model](https://en.wikipedia.org/wiki/Standard_Model)
