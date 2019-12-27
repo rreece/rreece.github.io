@@ -40,17 +40,6 @@ Issues and positions
 TODO.
 
 
-### Existentialism
-
--   Sarte
--   Camus
-
-
-### Nihilism
-
--   @Brassier_2007_Nihil_Unbound
-
-
 ### Biology
 
 ![[Blood by David S. Goodsell (2000)](http://mgl.scripps.edu/people/goodsell/illustration/public).](img/Goodsell-blood.jpg){#fig:Goodsell-blood}
@@ -62,6 +51,29 @@ TODO.
 >   O for God's sake      
 >   they are connected       
 >   underneath
+
+
+### (A)theism
+
+-   The problem of evil
+
+C.S. Lewis' translation[^Lewis1955] of lines from Lucretius' *De rerum natura*:
+
+>   Had God designed the world, it would not be       
+>   A world so frail and faulty as we see.
+
+[^Lewis1955]: @Lewis_1955_Surprised_by_Joy\, p. 65.
+
+
+### Existentialism
+
+-   Sarte
+-   Camus
+
+
+### Nihilism
+
+-   @Brassier_2007_Nihil_Unbound
 
 
 My thoughts
