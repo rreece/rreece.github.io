@@ -195,6 +195,7 @@ Opening lines to *ETMG*:
 
 -   Part of methodological naturalism.
     -   Not an a priori assumption but an empirical conclusion
+    -   Dennett: Naturalism is a method of explaining a magic trick without appealing to magic.
 
 ![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism)).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
 

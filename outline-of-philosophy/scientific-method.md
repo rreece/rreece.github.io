@@ -89,11 +89,14 @@ Issues and positions
 -   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
 -   [Hooke, Robert (1635-1703)](https://en.wikipedia.org/wiki/Robert_Hooke)
 -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
+    -   *The Principia* (1687) [^Newton2016]
 -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
 -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
 -   [Berkeley, George (1685-1753)](https://en.wikipedia.org/wiki/George_Berkeley)
 -   [Hume, David (1711-1776)](http://en.wikipedia.org/wiki/David_Hume)
     -   *An Enquiry Concerning Human Understanding* (1748) [^Hume2007]
+-   [Kant, Immanuel (1724-1804)](https://en.wikipedia.org/wiki/Immanuel_Kant)
+    -   *Critique of Pure Reason* (1781) [^Kant1996]
 
 **Canonical classical physics**
 

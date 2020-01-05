@@ -217,6 +217,7 @@ Links and encyclopedia articles
 
 ### Videos
 
+-   [Dennett, Daniel. (2019). Consciousness, Qualia and the "Hard Problem".](https://www.youtube.com/watch?v=LdhHyvOhkCs)
 -   [Dennett, Daniel. (2017). From Bacteria to Bach and Back: The Evolution of Minds.](https://www.youtube.com/watch?v=IZefk4gzQt4)
 -   [Seth, Anil. (2017). The Neuroscience of Consciousness.](https://www.youtube.com/watch?v=xRel1JKOEbI)
 
