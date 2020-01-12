@@ -60,15 +60,19 @@ Issues and positions
 
 ### Foundations of statistics
 
--   Ronald Fisher, Jerzy Neyman, Egon Pearson, Harold Jeffreys
+-   [Fisher, Ronald (1890-1972)](https://en.wikipedia.org/wiki/Ronald_Fisher)
     -   Fisher significance of the null hypothesis ($p$-values)
         -   On an absolute criterion for fitting frequency curves. [^Fisher1912]
         -   Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. [^Fisher1915]
+-   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
+-   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
+-   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
     -   objective (non-informative) Jeffreys priors
 -   Likelihood principle
     -   Birnbaum
     -   violated by both Frequentists and Bayesians
+-   "Statistics Wars"
 -   Responses
     -   Cox
     -   Berger [^Berger2003]
