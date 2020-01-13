@@ -17,6 +17,12 @@ Issues and positions
 
 ### What is naturalism?
 
+Sellars:
+
+>   The aim of philosophy, abstractly formulated, is to understand how things
+>   in the broadest possible sense of the term hang together in the broadest
+>   possible sense of the term.  [^Sellars1963p1]
+
 Maddy defines naturalism:
 
 >   These days, as more and more philosophers count themselves as naturalists,
@@ -72,6 +78,7 @@ See the outline on the [science method](scientific-method.html#is-there-a-univer
 [^Maddy-2007-1]: @Maddy_2007_Second_Philosophy, p. 1.
 [^Maddy-2007-2]: @Maddy_2007_Second_Philosophy, p. 18--19.
 [^Redhead1999p34]: @Redhead_1999_Quantum_field_theory_and_the_philosopher\, p. 34.
+[^Sellars1963p1]: @Sellars_1963_Philosophy_and_the_scientific_image_of_man\, p. 1.
 
 
 ### Reductionism
@@ -360,6 +367,17 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
+### Sellars, W. (1963). *Empircism and Philosophy of Mind*.
+
+-   @Sellars_1963_Empircism_and_philosophy_of_mind
+
+#### My thoughts
+
+-   TODO.
+
+
+--------------------------------------------------------------------------------
+
 ### More articles to do
 
 -   @Putnam_2016_Naturalism_Realism_and_Normativity\.
@@ -372,6 +390,7 @@ Links and encyclopedia articles
 
 -   [d'Holbach, Baron Paul-Henri Thiry (1723-1789) ](http://plato.stanford.edu/entries/holbach/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
+-   [Locke's Philosophy of Science](https://plato.stanford.edu/entries/locke-philosophy-science/)
 -   [Miracles](http://plato.stanford.edu/entries/miracles/)
 -   [Monism](http://plato.stanford.edu/entries/monism/)
 -   [Multiple Realizability](http://plato.stanford.edu/entries/multiple-realizability/)

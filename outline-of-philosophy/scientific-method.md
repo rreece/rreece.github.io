@@ -373,17 +373,6 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Sellars, W. (1963). *Empircism and Philosophy of Mind*.
-
--   @Sellars_1963_Empircism_and_philosophy_of_mind
-
-#### My thoughts
-
--   TODO.
-
-
---------------------------------------------------------------------------------
-
 ### Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*.
 
 -   @Pigliucci_2010_Nonsense_on_Stilts_How_to_Tell_Science_From_Bunk
