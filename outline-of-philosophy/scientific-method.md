@@ -238,7 +238,7 @@ Important synthesizers:
 ### Abduction
 
 >   [W]hen you have eliminated the impossible, whatever remains, however improbable,
->   must be the truth[^Doyle1890]
+>   must be the truth.  [^Doyle1890]
 
 [^Doyle1890]: Doyle, A.C. (1890). *The Sign of the Four*. ch. 6.
 
