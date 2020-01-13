@@ -33,6 +33,15 @@ Issues and positions
     -   [Noether, Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
 
 
+### Statistical physics
+
+-   Entropy
+-   Statistical mechanics and thermodynamics
+-   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
+-   The 2nd Law of Thermodynamics said simply: Things tend to happen in ways for which there are many ways to happen like that.
+-   See Emergence
+
+
 ### Symmetry-first physics
 
 -   Principle of least action
@@ -44,15 +53,6 @@ Issues and positions
 
 [^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^tHooft2007]: @tHooft_2007_Lie_Groups_in_Physics\.
-
-
-### Statistical physics
-
--   Entropy
--   Statistical mechanics and thermodynamics
--   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
--   The 2nd Law of Thermodynamics said simply: Things tend to happen in ways for which there are many ways to happen like that.
--   See Emergence
 
 
 ### Quantum mechanics
