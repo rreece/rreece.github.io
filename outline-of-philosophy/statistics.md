@@ -17,11 +17,15 @@ Issues and positions
 -   Mill
 -   Peirce
 -   Reichenbach [^Reichenbach1938]
-    -   Salmon [^Salmon1963]
+-   Carnap [^Carnap1945]
+-   Salmon [^Salmon1963]
 -   Good [^Good1988]
 -   Hacking [^Hacking2001]
 -   Huber [^Huber2007]
 
+[^Carnap1945]: @Carnap_1945_On_inductive_logic\,
+    @Carnap_1966_The_aim_of_inductive_logic\,
+    @Carnap_1973_Notes_on_probability_and_induction\.
 [^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
 [^Huber2007]: @Huber_2007_Confirmation_and_induction\.
 [^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
@@ -30,6 +34,7 @@ Issues and positions
     @Reichenbach_1940_On_the_justification_of_induction\.
 [^Salmon1963]: @Salmon_1963_On_vindicating_induction\,
     @Salmon_1966_The_Foundations_of_Scientific_Inference\,
+    @Salmon_1967_Carnaps_inductive_logic\,
     @Salmon_1991_Hans_Reichenbachs_vindication_of_induction\.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 

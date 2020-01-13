@@ -3,6 +3,9 @@ Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Conver
 ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector. *Physical Review D*, 86, 032003. https://arxiv.org/abs/1207.0319
 Benjamin, D.J. et al. (2017). Redefine statistical significance. *PsyArXiv*. https://psyarxiv.com/mky9j/ [July 22, 2017]
 Berger, J.O. (2003). Could Fisher, Jeffreys and Neyman have agreed on testing? *Statistical Science*, 18(1), 1--32.
+Carnap, R. (1945). On inductive logic. Philosophy of science, 12, 72--97.
+Carnap, R. (1966). The aim of inductive logic. In *Studies in Logic and the Foundations of Mathematics Vol. 44* (pp. 303--318). Elsevier.
+Carnap, R. (1973). Notes on probability and induction. Synthese, 269--298.
 Cowan, G. (1998). *Statistical Data Analysis*. Clarendon Press.
 Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). Asymptotic formulae for likelihood-based tests of new physics. *European Physical Journal C*, 71, 1544. https://arxiv.org/abs/1007.1727
 Cowan, G. (2012). Discovery sensitivity for a counting experiment with background uncertainty. https://www.pp.rhul.ac.uk/~cowan/stat/notes/medsigNote.pdf
@@ -34,6 +37,7 @@ Reichenbach, H. (1938). *Experience and Prediction*. University of Chicago Press
 Reichenbach, H. (1940). On the justification of induction. *The Journal of Philosophy*, 37, 97--103.
 Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.
 Salmon, W.C. (1966). *The Foundations of Scientific Inference*. University of Pittsburgh Press.
+Salmon, W. C. (1967). Carnap's inductive logic. *The Journal of Philosophy*, 64, 725--739.
 Salmon, W.C. (1991). Hans Reichenbach's vindication of induction. *Erkenntnis*, 35, 99--122.
 Savage, L.J. (1954). *The Foundations of Statistics*. John Wiley & Sons.
 Sellars, W. (1964). Induction as vindication. *Philosophy of Science*, 31, 197--231.
