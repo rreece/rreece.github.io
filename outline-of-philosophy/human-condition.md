@@ -37,7 +37,13 @@ Issues and positions
 
 ### Buddhism
 
-TODO.
+-   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
+    -   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
+-   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
+    -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
+    -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
+-   [Mahayana Buddhism](https://en.wikipedia.org/wiki/Mahayana)
+    -   [Zen](https://en.wikipedia.org/wiki/Zen)
 
 
 ### Biology
