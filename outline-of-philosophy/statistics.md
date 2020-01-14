@@ -91,7 +91,7 @@ Issues and positions
     -   Cox
     -   Carnap
     -   Hacking
-        -   *The Logic of Statistical Inference* [^Hacking1965]
+        -   *Logic of Statistical Inference* [^Hacking1965]
     -   Berger [^Berger2003]
     -   Mayo
         -   Learning from Error [^Mayo1996]
