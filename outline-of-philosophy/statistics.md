@@ -77,7 +77,7 @@ Issues and positions
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
     -   Allan Birnbaum proved that the likelihood principle follows from two more primitive and seemingly reasonable principles,
         the [conditionality principle](https://en.wikipedia.org/wiki/Conditionality_principle)
-        and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic). 
+        and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic).  [^Birnbaum1962]
     -   The history of likelihood [^Edwards1974]
     -   *The_Likelihood Principle* [^Berger1988]
     -   Criticisms:
@@ -106,6 +106,7 @@ Issues and positions
 
 [^Berger1988]: @Berger_1988_The_Likelihood_Principle\.
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
+[^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^Evans2013]: @Evans_2013_What_does_the_proof_of_Birnbaums_theorem_prove\.
