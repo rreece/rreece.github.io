@@ -75,10 +75,14 @@ Issues and positions
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
     -   objective (non-informative) Jeffreys priors
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
-    -   Allan Birnbaum proved that the likelihood principle follows from two more primitive and seemingly reasonable principles,
-        the [conditionality principle](https://en.wikipedia.org/wiki/Conditionality_principle)
-        and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic).  [^Birnbaum1962]
+    -   The likelihood principle is the proposition that, given a statistical model and a data sample,
+        all the evidence relevant to model parameters is contained in the likelihood function.
     -   The history of likelihood [^Edwards1974]
+        -   Allan Birnbaum proved that the likelihood principle follows from two more primitive
+            and seemingly reasonable principles,
+            the [conditionality principle](https://en.wikipedia.org/wiki/Conditionality_principle)
+            and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic).  [^Birnbaum1962]
+        -   Hacking identified the "law of likelihood". [^Hacking1965]
     -   *The Likelihood Principle* [^Berger1988]
     -   Criticisms:
         -   Evans [^Evans2013]
