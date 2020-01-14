@@ -87,7 +87,7 @@ Issues and positions
     -   Criticisms:
         -   Evans [^Evans2013]
         -   Mayo [^Mayo2014]
-    -   Gandenberger's proof [^Gandenberger2014]
+    -   Gandenberger's proof [^Gandenberger2015]
     -   Violated by both Frequentists and Bayesians
     -   [Likelihoodist statistics](https://en.wikipedia.org/wiki/Likelihoodist_statistics)
 -   "Statistics Wars"
@@ -117,7 +117,7 @@ Issues and positions
 [^Edwards1974]: @Edwards_1974_The_history_of_likelihood\.
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
 [^Fisher1915]: @Fisher_1915_Frequency_distribution_of_the_values\.
-[^Gandenberger2014]: @Gandenberger_2014_A_new_proof_of_the_likelihood_principle\.
+[^Gandenberger2015]: @Gandenberger_2015_A_new_proof_of_the_likelihood_principle\.
 [^Hacking1965]: @Hacking_1965_Logic_of_Statistical_Inference\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
 [^Kendall1946]: @Kendall_1946_The_Advanced_Theory_of_Statistics_VolII\.
