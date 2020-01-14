@@ -74,12 +74,24 @@ Issues and positions
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
     -   objective (non-informative) Jeffreys priors
--   Likelihood principle
-    -   Birnbaum
-    -   violated by both Frequentists and Bayesians
+-   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
+    -   Allan Birnbaum proved that the likelihood principle follows from two more primitive and seemingly reasonable principles,
+        the [conditionality principle](https://en.wikipedia.org/wiki/Conditionality_principle)
+        and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic). 
+    -   The history of likelihood [^Edwards1974]
+    -   *The_Likelihood Principle* [^Berger1988]
+    -   Criticisms:
+        -   Evans [^Evans2013]
+        -   Mayo [^Mayo2014]
+    -   Gandenberger's proof [^Gandenberger2014]
+    -   Violated by both Frequentists and Bayesians
+    -   [Likelihoodist statistics](https://en.wikipedia.org/wiki/Likelihoodist_statistics)
 -   "Statistics Wars"
 -   Responses
     -   Cox
+    -   Carnap
+    -   Hacking
+        -   *The Logic of Statistical Inference* [^Hacking1965]
     -   Berger [^Berger2003]
     -   Mayo
         -   Learning from Error [^Mayo1996]
@@ -92,15 +104,21 @@ Issues and positions
     -   Cranmer [^Cranmer2015]
     -   Weisberg [^Weisberg2019]
 
+[^Berger1988]: @Berger_1988_The_Likelihood_Principle\.
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
+[^Evans2013]: @Evans_2013_What_does_the_proof_of_Birnbaums_theorem_prove\.
+[^Edwards1974]: @Edwards_1974_The_history_of_likelihood\.
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
 [^Fisher1915]: @Fisher_1915_Frequency_distribution_of_the_values\.
+[^Gandenberger2014]: @Gandenberger_2014_A_new_proof_of_the_likelihood_principle\.
+[^Hacking1965]: @Hacking_1965_Logic_of_Statistical_Inference\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
 [^Kendall1946]: @Kendall_1946_The_Advanced_Theory_of_Statistics_VolII\.
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
 [^Mayo2006]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
+[^Mayo2014]: @Mayo_2014_On_the_Birnbaum_Argument_for_the_Strong_Likelihood\.
 [^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
 [^Weisberg2019]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\.
 
@@ -357,6 +375,7 @@ Links and encyclopedia articles
 -   [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
 -   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
+-   [Likelihoodist statistics](https://en.wikipedia.org/wiki/Likelihoodist_statistics)
 -   [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
 -   [Maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)

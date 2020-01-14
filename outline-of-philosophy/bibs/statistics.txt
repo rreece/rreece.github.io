@@ -2,6 +2,7 @@ Aldrich, J. (1997). R. A. Fisher and the making of maximum likelihood 1912-1922.
 Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. *The International Journal of High Performance Computing Applications*, 32, 435--479.
 ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector. *Physical Review D*, 86, 032003. https://arxiv.org/abs/1207.0319
 Benjamin, D.J. et al. (2017). Redefine statistical significance. *PsyArXiv*. https://psyarxiv.com/mky9j/ [July 22, 2017]
+Berger, J.O. & Wolpert, R.L. (1988). *The Likelihood Principle* (2nd ed.). Haywood, CA: The Institute of Mathematical Statistics.
 Berger, J.O. (2003). Could Fisher, Jeffreys and Neyman have agreed on testing? *Statistical Science*, 18(1), 1--32.
 Carnap, R. (1945). On inductive logic. *Philosophy of Science*, 12, 72--97.
 Carnap, R. (1966). The aim of inductive logic. In *Studies in Logic and the Foundations of Mathematics Vol. 44* (pp. 303--318). Elsevier.
@@ -13,13 +14,17 @@ Cowan, G. (2016). Statistics. In C. Patrignani \emph{et al}. (Particle Data Grou
 Cram\'{e}r, H. (1946). A contribution to the theory of statistical estimation. *Skandinavisk Aktuarietidskrift*, 29, 85--94.
 Cranmer, K. (2015). Practical statistics for the LHC. https://arxiv.org/abs/1503.07622
 D'Agnolo, R.T. & Wulzer, A. (2019). Learning New Physics from a Machine. *Physical Review D*, 99, 015014. https://arxiv.org/abs/1806.02350
+Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.
+Evans, M. (2013). What does the proof of Birnbaum's theorem prove? https://arxiv.org/abs/1302.5468
 Fisher, R.A. (1912). On an absolute criterion for fitting frequency curves. *Statistical Science*, 12(1), 39--41.
 Fisher, R.A. (1915). Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. *Biometrika*, 10(4), 507--521.
 Feldman, G.J., & Cousins, R.D. (1998). A unified approach to the classical statistical analysis of small signals. *Physical Review D*, 57, 3873. https://arxiv.org/abs/physics/9711021
 Fr\'{e}chet, M. (1943).  Sur l'extension de certaines \'{e}valuations statistiques au cas de petits \'{e}chantillons. *Revue de l'Institut International de Statistique*, 11, 182--205.
+Gandenberger, G, (2014). A new proof of the likelihood principle, *British Journal for the Philosophy of Science*, 66, 475--503.
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
 Goodman, N. (1955). *Fact, Fiction, and Forecast*. Harvard University Press.
 Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambridge University Press.
+Hacking, I. (1965). *Logic of Statistical Inference*. Cambridge University Press.
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
 Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
@@ -29,6 +34,7 @@ Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *T
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
 Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*. Chicago University Press.
 Mayo, D.G. (1981). In defense of the Neyman-Pearson theory of confidence intervals. *Philosophy of Science*, 48(2), 269--280.
+Mayo, D.G. (2014). On the Birnbaum Argument for the Strong Likelihood Principle, *Statistical Science*, 29, 227--266.
 Mayo, D.G. (2018). *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*. Cambridge University Press.
 Neyman, J., & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
 Rao, C.R. (1945). Information and the accuracy attainable in the estimation of statistical parameters. *Bulletin of the Calcutta Mathematical Society*, 37, 81--91.
