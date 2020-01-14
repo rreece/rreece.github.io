@@ -79,7 +79,7 @@ Issues and positions
         the [conditionality principle](https://en.wikipedia.org/wiki/Conditionality_principle)
         and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic).  [^Birnbaum1962]
     -   The history of likelihood [^Edwards1974]
-    -   *The_Likelihood Principle* [^Berger1988]
+    -   *The Likelihood Principle* [^Berger1988]
     -   Criticisms:
         -   Evans [^Evans2013]
         -   Mayo [^Mayo2014]
