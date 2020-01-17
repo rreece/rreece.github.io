@@ -19,6 +19,7 @@ Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Re
 Evans, M. (2013). What does the proof of Birnbaum's theorem prove? https://arxiv.org/abs/1302.5468
 Fisher, R.A. (1912). On an absolute criterion for fitting frequency curves. *Statistical Science*, 12(1), 39--41.
 Fisher, R.A. (1915). Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. *Biometrika*, 10(4), 507--521.
+Fisher, R.A. (1935). *The Design of Experiments*. Hafner.
 Feldman, G.J., & Cousins, R.D. (1998). A unified approach to the classical statistical analysis of small signals. *Physical Review D*, 57, 3873. https://arxiv.org/abs/physics/9711021
 Fr\'{e}chet, M. (1943).  Sur l'extension de certaines \'{e}valuations statistiques au cas de petits \'{e}chantillons. *Revue de l'Institut International de Statistique*, 11, 182--205.
 Gandenberger, G. (2015). A new proof of the likelihood principle, *British Journal for the Philosophy of Science*, 66, 475--503.

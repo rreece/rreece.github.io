@@ -173,12 +173,25 @@ Issues and positions
 
 ### P-value controversy
 
+>   [N]o isolated experiment, however significant in itself, can suffice
+>   for the experimental demonstration of any natural phenomenon;
+>   for the "one chance in a million" will undoubtedly occur,
+>   with no less and no more than its appropriate frequency,
+>   however surprised we may be that it should occur to us.
+>   In order to assert that a natural phenomenon is experimentally
+>   demonstrable we need, not an isolated record, but a reliable method of
+>   procedure. In relation to the test of significance, we may say that a
+>   phenomenon is experimentally demonstrable when we know how to conduct an
+>   experiment which will rarely fail to give us a statistically significant
+>   result. [^Fisher1935p13]
+
 -   file-drawer effect = look-elsewhere effect
 -   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
 -   ASA statement on $p$-values [^Wasserstein2016]
 -   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]
 
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
+[^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
 
 
