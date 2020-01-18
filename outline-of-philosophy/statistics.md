@@ -50,6 +50,19 @@ Issues and positions
 ### Early investigators
 
 -   [Graunt, John (1620-1674)](https://en.wikipedia.org/wiki/John_Graunt)
+-   [Bernoulli, Jacob (1655-1705)](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
+    -   *Ars Conjectandi* (1713, posthumous)
+    -   First modern phrasing of the problem of parameter estimation
+    -   Early vision of decision theory:
+
+        >   The art of measuring, as precisely as possible, probabilities of things,
+        >   with the goal that we would be able always to choose or follow in our
+        >   judgments and actions that course, which will have been determined to be
+        >   better, more satisfactory, safer or more advantageous.
+
+        --
+        *Ars Conjectandi* (1713) Chapter II, Part IV, defining the art of conjecture [[wikiquote](https://en.wikiquote.org/wiki/Jacob_Bernoulli)].
+    -   See Hacking [^Hacking1971]
 -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
@@ -60,6 +73,7 @@ Issues and positions
     -   With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).
 -   [Turkey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
 
+[^Hacking1971]: Hacking_1971_Jacques_Bernoullis_Art_of_conjecturing
 [^Venn1888]: @Venn_1888_The_Logic_of_Chance
 
 

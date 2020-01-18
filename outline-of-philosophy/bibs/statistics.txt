@@ -25,8 +25,9 @@ Fr\'{e}chet, M. (1943).  Sur l'extension de certaines \'{e}valuations statistiqu
 Gandenberger, G. (2015). A new proof of the likelihood principle, *British Journal for the Philosophy of Science*, 66, 475--503.
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
 Goodman, N. (1955). *Fact, Fiction, and Forecast*. Harvard University Press.
-Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambridge University Press.
 Hacking, I. (1965). *Logic of Statistical Inference*. Cambridge University Press.
+Hacking, I. (1971). Jacques Bernoulli's Art of conjecturing. *The British Journal for the Philosophy of Science*, 22, 209--229.
+Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambridge University Press.
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
 Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
