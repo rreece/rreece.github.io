@@ -73,7 +73,7 @@ Issues and positions
     -   With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).
 -   [Turkey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
 
-[^Hacking1971]: Hacking_1971_Jacques_Bernoullis_Art_of_conjecturing
+[^Hacking1971]: @Hacking_1971_Jacques_Bernoullis_Art_of_conjecturing\.
 [^Venn1888]: @Venn_1888_The_Logic_of_Chance
 
 
