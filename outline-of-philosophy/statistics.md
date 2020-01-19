@@ -52,7 +52,7 @@ Issues and positions
 -   [Graunt, John (1620-1674)](https://en.wikipedia.org/wiki/John_Graunt)
 -   [Bernoulli, Jacob (1655-1705)](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
     -   *Ars Conjectandi* (1713, posthumous)
-    -   First modern phrasing of the problem of parameter estimation
+    -   First modern phrasing of the problem of parameter estimation [^Edwards1974p9]
     -   Early vision of decision theory:
 
         >   The art of measuring, as precisely as possible, probabilities of things,
@@ -73,6 +73,7 @@ Issues and positions
     -   With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).
 -   [Turkey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
 
+[^Edwards1974p9]: @Edwards_1974_The_history_of_likelihood\, p. 9.
 [^Hacking1971]: @Hacking_1971_Jacques_Bernoullis_Art_of_conjecturing\.
 [^Venn1888]: @Venn_1888_The_Logic_of_Chance
 
