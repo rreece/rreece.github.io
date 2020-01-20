@@ -80,6 +80,7 @@ Issues and positions
 
 ### Foundations of statistics
 
+-   [Pearson, Karl (1857-1936)](https://en.wikipedia.org/wiki/Karl_Pearson)
 -   [Fisher, Ronald (1890-1972)](https://en.wikipedia.org/wiki/Ronald_Fisher)
     -   Fisher significance of the null hypothesis ($p$-values)
         -   On an absolute criterion for fitting frequency curves. [^Fisher1912]
@@ -229,7 +230,9 @@ Issues and positions
 -   Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. [^Asch2018]
     -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
 -   Learning New Physics from a Machine [^DAgnolo2019]
+-   The End of Theory: The data deluge makes the scientific method obsolete. [^Anderson2008]
 
+[^Anderson2008]: @Anderson_2008_The_End_of_Theory_The_data_deluge_makes\.
 [^Asch2018]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
 [^DAgnolo2019]: @DAgnolo_2019_Learning_New_Physics_from_a_Machine\.
 
@@ -422,6 +425,7 @@ Links and encyclopedia articles
 -   [Neyman-Pearson lemma](http://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma)
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
+-   [Pearson, Karl (1857-1936)](https://en.wikipedia.org/wiki/Karl_Pearson)
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 -   [Poisson, Sim&eacute;on Denis (1781-1840)](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
