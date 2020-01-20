@@ -23,6 +23,11 @@ Issues and positions
 -   Hacking [^Hacking2001]
 -   Huber [^Huber2007]
 
+>   [I]n Peirce's phrase, inductions are ampliative. Induction can amplify and
+>   generalize our experience, broaden and deepen our empirical knowledge.
+>   Deduction on the other hand is explicative. Deduction orders and
+>   rearranges our knowledge without adding to its content. [^Vickers2014]
+
 [^Carnap1945]: @Carnap_1945_On_inductive_logic\,
     @Carnap_1966_The_aim_of_inductive_logic\,
     @Carnap_1973_Notes_on_probability_and_induction\.
@@ -36,6 +41,7 @@ Issues and positions
     @Salmon_1966_The_Foundations_of_Scientific_Inference\,
     @Salmon_1967_Carnaps_inductive_logic\,
     @Salmon_1991_Hans_Reichenbachs_vindication_of_induction\.
+[^Vickers2014]: @Vickers_2014_The_Problem_of_Induction\.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
 
