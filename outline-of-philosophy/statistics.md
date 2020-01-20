@@ -84,6 +84,7 @@ Issues and positions
     -   Fisher significance of the null hypothesis ($p$-values)
         -   On an absolute criterion for fitting frequency curves. [^Fisher1912]
         -   Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. [^Fisher1915]
+        -   On the "probable error" of a coefficient of correlation deduced from a small sample [^Fisher1921] - definition of *likelihood*
 -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
 -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
@@ -132,6 +133,7 @@ Issues and positions
 [^Edwards1974]: @Edwards_1974_The_history_of_likelihood\.
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
 [^Fisher1915]: @Fisher_1915_Frequency_distribution_of_the_values\.
+[^Fisher1921]: @Fisher_1921_On_the_probable_error_of_a_coefficient\.
 [^Gandenberger2015]: @Gandenberger_2015_A_new_proof_of_the_likelihood_principle\.
 [^Hacking1965]: @Hacking_1965_Logic_of_Statistical_Inference\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
@@ -145,6 +147,7 @@ Issues and positions
 
 ### Point estimation and confidence intervals
 
+-   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
 -   regression
 -   MLE: Maximum likelihood estimators, Fisher [^Aldrich1997]
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
@@ -345,6 +348,7 @@ Links and encyclopedia articles
 -   [Induction, The problem of](http://plato.stanford.edu/entries/induction-problem/)
 -   [Logic and Probability](https://plato.stanford.edu/entries/logic-probability/)
 -   [Naturalized epistemology](http://plato.stanford.edu/entries/epistemology-naturalized/)
+-   [Peirce, Charles Sanders (1839-1914)](https://plato.stanford.edu/entries/peirce/)
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
 -   [Principle of Sufficient Reason](http://plato.stanford.edu/entries/sufficient-reason/)
 -   [Probability, Interpretations of](https://plato.stanford.edu/entries/probability-interpret/)
@@ -360,6 +364,7 @@ Links and encyclopedia articles
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
+-   [Peirce, Charles Sanders (1839-1914)](https://www.iep.utm.edu/peircebi/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Safety Condition for Knowledge, The](http://www.iep.utm.edu/safety-c/)
 -   [Simplicity in the philosophy of science](http://www.iep.utm.edu/simplici/)
@@ -400,6 +405,7 @@ Links and encyclopedia articles
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
 -   [Inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
+-   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
 -   [Ivakhnenko, Alexey (1913-2007)](https://en.wikipedia.org/wiki/Alexey_Ivakhnenko)
 -   [Jeffrey, Richard (1926-2002)](https://en.wikipedia.org/wiki/Richard_Jeffrey)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)

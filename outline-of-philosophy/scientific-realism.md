@@ -413,8 +413,12 @@ TODO: find the page number for above Poincar&eacute; quote.
 I found the above quotes in a talk by Arthur Fine:
 [Structural Realism, Then & Now](https://www.youtube.com/watch?v=0tb4_kFHwO4).
 
+-   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
+    -   Wikipedia: "Inverse problems are some of the most important mathematical problems in science and mathematics because they tell us about parameters that we cannot directly observe."
+
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
+
 
 ### Feminist epistemology
 
@@ -916,6 +920,7 @@ Links and encyclopedia articles
 -   [Natural/Non-natural distinction in Lewis' metaphysics](http://plato.stanford.edu/entries/lewis-metaphysics/natural-distinction.html)
 -   [Neurath, Otto (1882-1945)](http://plato.stanford.edu/entries/neurath/)
 -   [Neutral Monism](https://plato.stanford.edu/entries/neutral-monism/)
+-   [Nominalism in Metaphysics](https://plato.stanford.edu/entries/nominalism-metaphysics/)
 -   [Ontological Dependence](http://plato.stanford.edu/entries/dependence-ontological/)
 -   [Peirce, Charles Sanders (1839-1914)](http://plato.stanford.edu/entries/peirce/)
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
@@ -954,6 +959,7 @@ Links and encyclopedia articles
 -   [Truth Values](http://plato.stanford.edu/entries/truth-values/)
 -   [Underdetermination of Scientific Theory](http://plato.stanford.edu/entries/scientific-underdetermination/)
 -   [Unity of Science](http://plato.stanford.edu/entries/scientific-unity/)
+-   [Universals, The Medieval Problem of](https://plato.stanford.edu/entries/universals-medieval/)
 -   [Vienna Circle](http://plato.stanford.edu/entries/vienna-circle/)
 
 ### IEP
@@ -996,6 +1002,7 @@ Links and encyclopedia articles
 -   [Scientific Representation](http://www.iep.utm.edu/sci-repr/)
 -   [Sellars, Roy Wood (1880-1973)](http://www.iep.utm.edu/sella-rw/)
 -   [Simplicity in the Philosophy of Science](http://www.iep.utm.edu/simplici/)
+-   [Universals](http://www.iep.utm.edu/universa/)
 -   [Vienna Circle](http://www.iep.utm.edu/viennacr/)
 -   [Wittgenstein, Ludwig (1889-1951)](http://www.iep.utm.edu/wittgens/)
 
@@ -1023,6 +1030,7 @@ Links and encyclopedia articles
 -   [Internal-external distinction](https://en.wikipedia.org/wiki/Internal%E2%80%93external_distinction)
 -   [Inscrutability of reference](http://en.wikipedia.org/wiki/Inscrutability_of_reference)
 -   [Instrumentalism](http://en.wikipedia.org/wiki/Instrumentalism)
+-   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
 -   [James, William (1842-1910)](https://en.wikipedia.org/wiki/William_James)
 -   [Kuhn, Thomas (1922-1996)](http://en.wikipedia.org/wiki/Thomas_Kuhn)
 -   [Lakatos, Imre (1922-1974)](https://en.wikipedia.org/wiki/Imre_Lakatos)
