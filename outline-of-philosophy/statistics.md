@@ -69,13 +69,15 @@ Issues and positions
 -   [Venn, John (1834-1923)](https://en.wikipedia.org/wiki/John_Venn)
     -   *The Logic of Chance* (1866) [^Venn1888]
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
-    -   Formulated modern statistics in "Illustrations of the Logic of Science" (1877-1878) and "A Theory of Probable Inference" in *Studies in Logic* (1883).
+    -   Formulated modern statistics in "Illustrations of the Logic of Science" (1877-1878)
+        and "A Theory of Probable Inference" in *Studies in Logic* (1883). [^Peirce1883]
     -   With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).
 -   [Turkey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
 
 [^Edwards1974p9]: @Edwards_1974_The_history_of_likelihood\, p. 9.
 [^Hacking1971]: @Hacking_1971_Jacques_Bernoullis_Art_of_conjecturing\.
-[^Venn1888]: @Venn_1888_The_Logic_of_Chance
+[^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
+[^Venn1888]: @Venn_1888_The_Logic_of_Chance\.
 
 
 ### Foundations of statistics

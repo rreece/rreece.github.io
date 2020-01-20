@@ -42,6 +42,7 @@ Mayo, D.G. (1981). In defense of the Neyman-Pearson theory of confidence interva
 Mayo, D.G. (2014). On the Birnbaum Argument for the Strong Likelihood Principle, *Statistical Science*, 29, 227--266.
 Mayo, D.G. (2018). *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*. Cambridge University Press.
 Neyman, J., & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
+Peirce, C.S. (1883). *Studies in Logic*. Boston: Little, Brown, and Co.
 Rao, C.R. (1945). Information and the accuracy attainable in the estimation of statistical parameters. *Bulletin of the Calcutta Mathematical Society*, 37, 81--91.
 Rao, C.R. (1947). Minimum variance and the estimation of several parameters. In *Mathematical Proceedings of the Cambridge Philosophical Society*, 43, 280--283. Cambridge University Press.
 Reichenbach, H. (1938). *Experience and Prediction*. University of Chicago Press.
