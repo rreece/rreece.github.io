@@ -14,6 +14,7 @@ Issues and positions
 -   How do we infer universals from particulars?
 -   Hume [^Hume2007]
     -   Weintraub [^Weintraub1995]
+    -   Uniformity of Nature
 -   Mill
 -   Peirce
 -   Reichenbach [^Reichenbach1938]
