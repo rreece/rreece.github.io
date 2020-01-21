@@ -50,8 +50,11 @@ Issues and positions
 -   Kolmogorov
 -   Frequentist vs Bayesian probability
     -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
--   Accuracy vs precision [^Cowan1998]
+    -   "What do these data say?" [^Royall1997]
+-   Accuracy vs precision [^Cowan1998pX]
 
+[^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
+[^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\, p. 171--2.
 
 ### Early investigators
 

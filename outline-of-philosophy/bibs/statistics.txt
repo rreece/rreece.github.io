@@ -47,6 +47,7 @@ Rao, C.R. (1945). Information and the accuracy attainable in the estimation of s
 Rao, C.R. (1947). Minimum variance and the estimation of several parameters. In *Mathematical Proceedings of the Cambridge Philosophical Society*, 43, 280--283. Cambridge University Press.
 Reichenbach, H. (1938). *Experience and Prediction*. University of Chicago Press.
 Reichenbach, H. (1940). On the justification of induction. *The Journal of Philosophy*, 37, 97--103.
+Royall, R. (1997). *Statistical Evidence: A likelihood paradigm*. CRC Press.
 Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.
 Salmon, W.C. (1966). *The Foundations of Scientific Inference*. University of Pittsburgh Press.
 Salmon, W. C. (1967). Carnap's inductive logic. *The Journal of Philosophy*, 64, 725--739.
