@@ -11,7 +11,7 @@ Issues and positions
 
 ### Problem of induction
 
-See the Outline of [Philosophy of statistics](scientific-method.html#induction)
+See the [Outline of the scientific method](scientific-method.html#induction)
 
 
 ### Probability and uncertainty
