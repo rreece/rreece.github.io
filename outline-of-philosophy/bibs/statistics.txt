@@ -16,6 +16,7 @@ Cowan, G. (2016). Statistics. In C. Patrignani \emph{et al}. (Particle Data Grou
 Cram\'{e}r, H. (1946). A contribution to the theory of statistical estimation. *Skandinavisk Aktuarietidskrift*, 29, 85--94.
 Cranmer, K. (2015). Practical statistics for the LHC. https://arxiv.org/abs/1503.07622
 D'Agnolo, R.T. & Wulzer, A. (2019). Learning New Physics from a Machine. *Physical Review D*, 99, 015014. https://arxiv.org/abs/1806.02350
+Dewey, J. (1938). *Logic: The Theory of Inquiry*. New York: Henry Holt and Co.
 Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.
 Evans, M. (2013). What does the proof of Birnbaum's theorem prove? https://arxiv.org/abs/1302.5468
 Fisher, R.A. (1912). On an absolute criterion for fitting frequency curves. *Statistical Science*, 12(1), 39--41.

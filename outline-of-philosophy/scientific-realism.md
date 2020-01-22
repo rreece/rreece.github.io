@@ -198,6 +198,7 @@ Verification theory of meaning: All statements that can't be empirically verifie
 
 -   anti-realist
 -   Auguste Comte
+-   Comte and Mill
 -   Wittgenstein
 -   @Wittgenstein_1922_Tractatus_Logico_Philosophicus\. *Tractatus Logico-Philosophicus*.
 -   Ernst Mach
@@ -278,6 +279,21 @@ epistemology or such eliminative views of metaphysics. Many naturalists are
 instead realists about science, math, and/or ethics, for example following
 a version of structural realism about the discoveries from science, capturing
 and constraining real structures in nature.
+
+Comte on the unknowability of the composition of stars:
+
+>   On the subject of stars, all investigations which are not ultimately reducible
+>   to simple visual observations are ... necessarily denied to us. While we can
+>   conceive of the possibility of determining their shapes, their sizes, and their
+>   motions, we shall never be able by any means to study their chemical composition
+>   or their mineralogical structure ... Our knowledge concerning their gaseous
+>   envelopes is necessarily limited to their existence, size ... and refractive
+>   power, we shall not at all be able to determine their chemical composition
+>   or even their density... I regard any notion concerning the true mean
+>   temperature of the various stars as forever denied to us. [^Comte1835stars]
+
+[^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
+    Translation of passage taken from <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
 
 See also:
 
