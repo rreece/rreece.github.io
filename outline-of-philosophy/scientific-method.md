@@ -216,7 +216,10 @@ Important synthesizers:
 
 ### Induction
 
-Problem of induction.
+-   Problem of induction
+-   How do we infer universals from particulars?
+
+Sextus Empiricus:
 
 >   When they propose to establish the universal from the particulars by means of induction, 
 >   they will effect this by a review of either all or some of the particulars. 
@@ -227,7 +230,6 @@ Problem of induction.
 
 [^SextusEmpiricus]: Sextus Empiricus. *Outlines of Pyrrhonism*, trans. Robert Gregg Bury (Loeb ed.) (London: W. Heinemann, 1933), p. 283.
 
--   How do we infer universals from particulars?
 -   Hume and the problem of induction [^Hume2007pX]
     -   Uniformity of nature
     -   Humeanism
