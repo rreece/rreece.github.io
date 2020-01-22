@@ -293,7 +293,7 @@ Comte on the unknowability of the composition of stars:
 >   temperature of the various stars as forever denied to us. [^Comte1835stars]
 
 [^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
-    Translation of passage taken from <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
+    Translation of passage taken from: <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
 
 See also:
 
