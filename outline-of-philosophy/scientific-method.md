@@ -216,6 +216,8 @@ Important synthesizers:
 
 ### Induction
 
+Problem of induction.
+
 >   When they propose to establish the universal from the particulars by means of induction, 
 >   they will effect this by a review of either all or some of the particulars. 
 >   But if they review some, the induction will be insecure, since some of the 
@@ -225,23 +227,101 @@ Important synthesizers:
 
 [^SextusEmpiricus]: Sextus Empiricus. *Outlines of Pyrrhonism*, trans. Robert Gregg Bury (Loeb ed.) (London: W. Heinemann, 1933), p. 283.
 
--   Hume and the problem of induction [^Hume2007]
--   Uniformity of nature
--   Humeanism
+-   How do we infer universals from particulars?
+-   Hume and the problem of induction [^Hume2007pX]
+    -   Uniformity of nature
+    -   Humeanism
+    -   Weintraub [^Weintraub1995]
+-   Mill
+-   Peirce
 -   Russell's Thanksgiving turkey
 -   See also:
     -   Outline of [Philosophy of statistics](statistics.html#problem-of-induction)
     -   Note the further discussion of Humeanism and laws of nature in
         the outline on [Scientific realism](scientific-realism.html#humeanism).
 
+>   [I]n Peirce's phrase, inductions are ampliative. Induction can amplify and
+>   generalize our experience, broaden and deepen our empirical knowledge.
+>   Deduction on the other hand is explicative. Deduction orders and
+>   rearranges our knowledge without adding to its content. [^Vickers2014]
+
+Peirce on _merely_ the denial of any major failures of induction
+and the wonderful self-correcting nature of ampliative inference:
+
+>   I maintain that it has been shown that the modes of inference in question are
+>   necessarily valid, whatever the constitution of the universe, so long as it
+>   admits of the premises being true.
+>   Yet I am willing to concede, in order to concede as much as possible,
+>   that when a man draws instances at random, all that he knows is that he
+>   _tries_ to follow a certain precept; so that the sampling process might be
+>   rendered generally fallacious by the existence of a mysterious and malign
+>   connection between the mind and the universe, such that the possession by an
+>   object of an _unperceived_ character might influence the will toward choosing
+>   it or rejecting it. Such a circumstance would, however, be as fatal to
+>   deductive as to ampliative inference. Suppose, for example, that I were
+>   to enter a great hall where people were playing _rouge et noir_ at many tables;
+>   and suppose that I knew that the red and black were turned up with equal
+>   frequency. Then, if I were to make a large number of mental bets with myself,
+>   at this table and at that, I might, by statistical deduction, expect to win
+>   about half of them, ---precisely as I might expect, from the results of these
+>   samples, to infer by induction the probable ratio of frequency of the
+>   turnings of red and black in the long run, if I did not know it.
+>   But could some devil look at each card before it was turned, and then
+>   influence me mentally to bet upon it or to refrain therefrom, the observed
+>   ratio in the cases upon which I had bet might be quite different from the
+>   observed ratio in those cases upon which I had not bet. I grant, then,
+>   that even upon my theory some fact has to be supposed to make induction
+>   and hypothesis valid processes; namely, it is supposed that the supernal powers
+>   withhold their hands and let me alone, and that no mysterious uniformity or
+>   adaptation interferes with the action of chance. But then this negative
+>   fact supposed by my theory plays a totally different part from the facts
+>   supposed to be requisite by the logicians of whom I have been speaking.
+>   So far as facts like those they suppose can have any bearing,
+>   they serve as major premises from which the fact inferred by induction or 
+>   hypothesis might be deduced; while the negative fact supposed by me is
+>   merely the denial of any major premise from which the falsity of the
+>   inductive or hypothetic conclusion could in general be deduced.
+>   Nor is it necessary to deny altogether the existence of mysterious
+>   influences adverse to the validity of the inductive and hypothetic processes.
+>   So long as their influence were not too over whelming, the wonderful
+>   self-correcting nature of the ampliative inference would enable us,
+>   even if they did exist, to detect and make allowance for them. [^Peirce1883p176]
+
+-   Dewey
+
+>   The methods by which generalizations are arrived at have received the
+>   name "induction"; the methods by which already existing generalizations
+>   are employed have received the name "deduction." [^Dewey1938p419]
+
+-   Reichenbach [^Reichenbach1938]
+-   Carnap [^Carnap1945]
+-   Salmon [^Salmon1963]
+-   Good [^Good1988]
+-   Hacking [^Hacking2001]
+-   Huber [^Huber2007]
+
+[^Carnap1945]: @Carnap_1945_On_inductive_logic\,
+    @Carnap_1966_The_aim_of_inductive_logic\,
+    @Carnap_1973_Notes_on_probability_and_induction\.
+[^Dewey1938p419]: @Dewey_1938_Logic_The_Theory_of_Inquiry\, p. 419.
+[^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
+[^Huber2007]: @Huber_2007_Confirmation_and_induction\.
+[^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. X.
+[^Good1988]: @Good_1988_The_interface_between_statistics_and_philosophy\.
+[^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
+[^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
+    @Reichenbach_1940_On_the_justification_of_induction\.
+[^Salmon1963]: @Salmon_1963_On_vindicating_induction\,
+    @Salmon_1966_The_Foundations_of_Scientific_Inference\,
+    @Salmon_1967_Carnaps_inductive_logic\,
+    @Salmon_1991_Hans_Reichenbachs_vindication_of_induction\.
+[^Vickers2014]: @Vickers_2014_The_Problem_of_Induction\.
+[^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
+
 
 ### Abduction
 
->   [W]hen you have eliminated the impossible, whatever remains, however improbable,
->   must be the truth.  [^Doyle1890]
-
-[^Doyle1890]: Doyle, A.C. (1890). *The Sign of the Four*. ch. 6.
-
+-   Peirce
 -   Douven [^Douven2011]
 -   Ockham, parsimony
 -   Karl Popper
@@ -250,6 +330,27 @@ Important synthesizers:
 -   Convergence
 
 [^Douven2011]: @Douven_2011_Abduction\.
+
+Wikipedia:
+
+>   Today abduction remains most commonly understood as induction from characters
+>   and extension of a known rule to cover unexplained circumstances. [^WikipediaAbductiveReasoning]
+
+Peirce:
+
+>   The surprising fact, C, is observed;
+>   
+>   But if A were true, C would be a matter of course,          
+>   Hence, there is reason to suspect that A is true. [^WikipediaAbductiveReasoning]
+
+[^WikipediaAbductiveReasoning]: <https://en.wikipedia.org/wiki/Abductive_reasoning>
+
+-   [Holmesian fallacy](https://rationalwiki.org/wiki/Holmesian_fallacy)
+
+>   [W]hen you have eliminated the impossible, whatever remains, however improbable,
+>   must be the truth.  [^Doyle1890]
+
+[^Doyle1890]: Doyle, A.C. (1890). *The Sign of the Four*. ch. 6.
 
 
 ### Is there a universal scientific method?
@@ -697,6 +798,7 @@ Links and encyclopedia articles
 ### Others
 
 -   [Accommodationism](http://rationalwiki.org/wiki/Accommodationism) - RationalWiki.org, coined by [Austin Dacey](http://en.wikipedia.org/wiki/Austin_Dacey)
+-   [Holmesian fallacy](https://rationalwiki.org/wiki/Holmesian_fallacy)
 -   [Hume's fork](http://www.mathmonism.com/humesfork.html) - mathmonism.com
 -   [Inference to the Best Explanation](http://www.informationphilosopher.com/knowledge/best_explanation.html) - informationphilosopher.com
 -   [Is Hume's fork self-refuting?](http://philosophy.stackexchange.com/questions/7609/is-humes-fork-self-refuting) - Philosophy StackExchange
