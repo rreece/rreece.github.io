@@ -237,7 +237,6 @@ Sextus Empiricus:
     -   Weintraub [^Weintraub1995]
 -   Mill
 -   Peirce
--   Russell's Thanksgiving turkey
 
 >   [I]n Peirce's phrase, inductions are ampliative. Induction can amplify and
 >   generalize our experience, broaden and deepen our empirical knowledge.
@@ -292,6 +291,7 @@ and the wonderful self-correcting nature of ampliative inference:
 >   name "induction"; the methods by which already existing generalizations
 >   are employed have received the name "deduction." [^Dewey1938p419]
 
+-   Russell's Thanksgiving turkey
 -   Reichenbach [^Reichenbach1938]
 -   Carnap [^Carnap1945]
 -   Salmon [^Salmon1963]
@@ -681,6 +681,7 @@ Links and encyclopedia articles
 -   [Deductive-nomological model](https://en.wikipedia.org/wiki/Deductive-nomological_model)
 -   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
 -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+-   [Dewey, John (1859-1952)](https://en.wikipedia.org/wiki/John_Dewey)
 -   [Dirac, Paul (1902-1984)](https://en.wikipedia.org/wiki/Paul_Dirac)
 -   [Einstein, Albert (1879-1955)](https://en.wikipedia.org/wiki/Albert_Einstein)
 -   [Empircism](http://en.wikipedia.org/wiki/Empiricism)
@@ -767,6 +768,7 @@ Links and encyclopedia articles
 -   [Pythagoreanism](https://en.wikipedia.org/wiki/Pythagoreanism)
 -   [Razor (philosophy)](https://en.wikipedia.org/wiki/Razor_(philosophy))
 -   [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
+-   [Russell, Bertrand (1872-1970)](https://en.wikipedia.org/wiki/Bertrand_Russell)
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
 -   [Schr&ouml;dinger, Edwin (1887-1961)](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
 -   [Science](http://en.wikipedia.org/wiki/Science)
