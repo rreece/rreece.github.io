@@ -285,7 +285,7 @@ and the wonderful self-correcting nature of ampliative inference:
 >   self-correcting nature of the ampliative inference would enable us,
 >   even if they did exist, to detect and make allowance for them. [^Peirce1883p176]
 
--   Dewey
+-   Dewey:
 
 >   The methods by which generalizations are arrived at have received the
 >   name "induction"; the methods by which already existing generalizations
@@ -301,7 +301,7 @@ and the wonderful self-correcting nature of ampliative inference:
 -   See also:
     -   [Outline of philosophy of statistics](statistics.html#problem-of-induction)
     -   Note the further discussion of Humeanism and laws of nature in
-        the outline on [Scientific realism](scientific-realism.html#humeanism).
+        the [Outline on scientific realism](scientific-realism.html#humeanism).
 
 [^Carnap1945]: @Carnap_1945_On_inductive_logic\,
     @Carnap_1966_The_aim_of_inductive_logic\,
