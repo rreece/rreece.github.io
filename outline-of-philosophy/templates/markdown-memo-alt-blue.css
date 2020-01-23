@@ -277,10 +277,12 @@ blockquote {
     color: black;
     text-align: justify;
 }
+/*
 blockquote p {
     font-family: Verdana, Helvetica, Arial, sans-serif;
     font-size: 14px;
 }
+*/
 div.line-block {
     margin-top: 16px;
     margin-bottom: 16px;

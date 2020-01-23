@@ -8,7 +8,7 @@ the demarcation of science from pseudoscience,
 and other *epistemological* topics concerning the methods
 and philosophy of science. 
 The metaphysical implications of science
-are discussed in the outline on [scientific realism](scientific-realism.html).
+are discussed in the [Outline on scientific realism](scientific-realism.html).
 
 
 <!-- PAGETOC -->
@@ -238,10 +238,6 @@ Sextus Empiricus:
 -   Mill
 -   Peirce
 -   Russell's Thanksgiving turkey
--   See also:
-    -   Outline of [Philosophy of statistics](statistics.html#problem-of-induction)
-    -   Note the further discussion of Humeanism and laws of nature in
-        the outline on [Scientific realism](scientific-realism.html#humeanism).
 
 >   [I]n Peirce's phrase, inductions are ampliative. Induction can amplify and
 >   generalize our experience, broaden and deepen our empirical knowledge.
@@ -302,6 +298,10 @@ and the wonderful self-correcting nature of ampliative inference:
 -   Good [^Good1988]
 -   Hacking [^Hacking2001]
 -   Huber [^Huber2007]
+-   See also:
+    -   [Outline of philosophy of statistics](statistics.html#problem-of-induction)
+    -   Note the further discussion of Humeanism and laws of nature in
+        the outline on [Scientific realism](scientific-realism.html#humeanism).
 
 [^Carnap1945]: @Carnap_1945_On_inductive_logic\,
     @Carnap_1966_The_aim_of_inductive_logic\,

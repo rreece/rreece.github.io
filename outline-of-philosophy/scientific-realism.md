@@ -5,8 +5,8 @@ Can we claim to know anything about reality?
 Is it a goal of science to describe reality?
 Does science make any progress at describing reality?
 This outline focuses on the issues of *metaphysical* progress
-from science, while my outline on
-[the scientific method](scientific-method.html)
+from science, while the 
+[Outline on the scientific method](scientific-method.html)
 discusses the epistemological foundations and limitations of science.
 
 
@@ -102,7 +102,7 @@ Stealing from encyclopedia.com:
 [^Lewis1986]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
 
 -   Emphasize the naturalist revolution within Humean views.
--   See the outline on [Naturalism](naturalism.html).
+-   See the [Outline on naturalism](naturalism.html).
 
 
 ### Scientific realism

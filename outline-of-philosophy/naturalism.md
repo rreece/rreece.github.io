@@ -58,7 +58,7 @@ Jacobs:
 
 Naturalism could be defined as a support for philosophy that is filtered for
 plausibility given the information from science[^Ladyman2007].
-See the outline on the [science method](scientific-method.html#is-there-a-universal-scientific-method).
+See the [Outline on the science method](scientific-method.html#is-there-a-universal-scientific-method).
 
 >   There is an enormous gap between so-called analytic philosophy which broadly agrees
 >   that there is something special about science and scientific method, and tries to
@@ -195,7 +195,7 @@ Opening lines to *ETMG*:
 -   Materialism/physicalism/functionalism
 -   Alyssa Ney
 -   Part of methodological naturalism, but also a result of empirical confirmation.
--   See the outline on [Philosophy of mind](mind.html).
+-   See the [Outline on Philosophy of mind](mind.html).
 
 
 ### Rejection of the supernatural
@@ -224,16 +224,16 @@ Part of metaphysical naturalism.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
 
-See the outline on [scientific realism](scientific-realism.html).
+See the [Outline on scientific realism](scientific-realism.html).
 
-See the outline on [philosophy of mathematics](math.html#naturalism).
+See the [Outline on philosophy of mathematics](math.html#naturalism).
 
 
 ### Ethical naturalism
 
 Part of metaphysical naturalism.
 
-See the outline on [Ethics](ethics.html).
+See the [Outline on ethics](ethics.html).
 
 
 ### Criticisms of naturalism
