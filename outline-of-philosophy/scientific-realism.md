@@ -440,6 +440,7 @@ I found the above quotes in a talk by Arthur Fine:
 
 -   Situated knowers
 -   Feminist standpoint theory
+-   intersectionality
 
 
 ### Critical realism
