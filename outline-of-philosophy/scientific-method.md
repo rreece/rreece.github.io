@@ -219,6 +219,7 @@ Important synthesizers:
 
 -   Locke
 -   Kant
+-   Carnap vs Quine
 -   Juhl
 -   Gillian Russell [^Russell2008]
 
