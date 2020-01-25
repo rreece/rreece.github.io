@@ -246,6 +246,7 @@ Sextus Empiricus:
     -   Humeanism
     -   Weintraub [^Weintraub1995]
 -   Mill
+    -   *A System of Logic* (1843) [^Mill1843]
 -   Peirce
 
 >   [I]n Peirce's phrase, inductions are ampliative. Induction can amplify and
@@ -326,6 +327,7 @@ and the wonderful self-correcting nature of ampliative inference:
 [^Huber2007]: @Huber_2007_Confirmation_and_induction\.
 [^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. X.
 [^Good1988]: @Good_1988_The_interface_between_statistics_and_philosophy\.
+[^Mill1843]: @Mill_1843_A_System_of_Logic\.
 [^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
 [^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
     @Reichenbach_1940_On_the_justification_of_induction\.
@@ -756,6 +758,7 @@ Links and encyclopedia articles
 -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
 -   [Mendel, Gregor (1822-1884)](https://en.wikipedia.org/wiki/Gregor_Mendel)
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
+-   [Mill's Methods](https://en.wikipedia.org/wiki/Mill%27s_Methods)
 -   [Models of scientific inquiry](http://en.wikipedia.org/wiki/Models_of_scientific_inquiry)
 -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
 -   [Natural philosophy](http://en.wikipedia.org/wiki/Natural_philosophy)
