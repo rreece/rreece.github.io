@@ -93,12 +93,15 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   Responses
     -   Cox
     -   Carnap
+        -   "Probability as a guide in life" [^Carnap1947]
+        -   "The aim of inductive logic" [^Carnap1966]
+        -   "Notes on probability and induction" [^Carnap1973]
     -   Hacking
         -   *Logic of Statistical Inference* [^Hacking1965]
     -   Berger [^Berger2003]
     -   Mayo
-        -   Learning from Error [^Mayo1996]
-        -   Error statistics [^Mayo2006]
+        -   "Learning from error" [^Mayo1996]
+        -   "Error statistics" [^Mayo2006]
         -   *Statistical Inference as Severe Testing* [^Mayo2018]
 -   Pedagogy
     -   Kendall [^Kendall1946]
@@ -110,6 +113,9 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 [^Berger1988]: @Berger_1988_The_Likelihood_Principle\.
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
+[^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
+[^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
+[^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^Evans2013]: @Evans_2013_What_does_the_proof_of_Birnbaums_theorem_prove\.

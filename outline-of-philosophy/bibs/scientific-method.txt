@@ -1,3 +1,7 @@
+Carnap, R. (1945). On inductive logic. *Philosophy of Science*, 12, 72--97.
+Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenological Research*, 5(4), 513--32. 
+Carnap, R. (1950). *Logical Foundations of Probability*. University of Chicago Press.
+Carnap, R. (1952). *The Continuum of Inductive Methods*. University of Chicago Press.
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
 Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/abduction/
 French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
@@ -7,3 +11,4 @@ Newton, I. (2016). *The Principia: Mathematical Principles of Natural Philosophy
 Russell, B. (2009). *Human Knowledge: Its Scope and Limits*. Routledge.
 Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*. Chicago University Press.
 Sabra, A.I. (1978). An eleventh-century refutation of Ptolemy's planetary theory. *Studia Copernicana*, 16, 117--131.
+Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.

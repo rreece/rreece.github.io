@@ -293,7 +293,11 @@ and the wonderful self-correcting nature of ampliative inference:
 
 -   Russell's Thanksgiving turkey
 -   Reichenbach [^Reichenbach1938]
--   Carnap [^Carnap1945]
+-   Carnap
+    -   "On inductive logic" [^Carnap1945]
+    -   *Logical Foundations of Probability* [^Carnap1950]
+    -   *The Continuum of Inductive Methods* [^Carnap1952]
+    -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
 -   Salmon [^Salmon1963]
 -   Good [^Good1988]
 -   Hacking [^Hacking2001]
@@ -303,9 +307,10 @@ and the wonderful self-correcting nature of ampliative inference:
     -   Note the further discussion of Humeanism and laws of nature in
         the [Outline on scientific realism](scientific-realism.html#humeanism).
 
-[^Carnap1945]: @Carnap_1945_On_inductive_logic\,
-    @Carnap_1966_The_aim_of_inductive_logic\,
-    @Carnap_1973_Notes_on_probability_and_induction\.
+[^Carnap1945]: @Carnap_1945_On_inductive_logic and
+    @Carnap_1945_The_two_concepts_of_probability\.
+[^Carnap1950]: @Carnap_1950_Logical_Foundations_of_Probability\.
+[^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Dewey1938p419]: @Dewey_1938_Logic_The_Theory_of_Inquiry\, p. 419.
 [^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
 [^Huber2007]: @Huber_2007_Confirmation_and_induction\.
@@ -318,6 +323,7 @@ and the wonderful self-correcting nature of ampliative inference:
     @Salmon_1966_The_Foundations_of_Scientific_Inference\,
     @Salmon_1967_Carnaps_inductive_logic\,
     @Salmon_1991_Hans_Reichenbachs_vindication_of_induction\.
+[^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
 [^Vickers2014]: @Vickers_2014_The_Problem_of_Induction\.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
