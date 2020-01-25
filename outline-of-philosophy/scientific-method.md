@@ -215,6 +215,16 @@ Important synthesizers:
 [^Newton2016]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\.
 
 
+### Analytic/synthetic distinction
+
+-   Locke
+-   Kant
+-   Juhl
+-   Gillian Russell [^Russell2008]
+
+[^Russell2008]: @Russell_2008_Truth_in_Virtue_of_Meaning_A_defence\.
+
+
 ### Induction
 
 -   Problem of induction

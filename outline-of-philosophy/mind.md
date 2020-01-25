@@ -54,6 +54,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 -   See the outline on [Naturalism](naturalism.html).
 -   Descartes and Elisabeth, Princess of Bohemia
 -   Churchland's
+-   Ney
 
 
 ### Panpsychism

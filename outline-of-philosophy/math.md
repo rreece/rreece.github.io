@@ -21,6 +21,9 @@ Issues and positions
 -   *Modus ponens*, *modus tollens*, Affirming the consequent, Proof by contrapositive
 -   Frege, Gottlob (1848-1925)
 -   first-order and second-order logic
+-   Gillian Russell [^Russell2015]
+
+[^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
 
 
 ### Algebra
