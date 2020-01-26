@@ -47,20 +47,19 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Venn, John (1834-1923)](https://en.wikipedia.org/wiki/John_Venn)
     -   *The Logic of Chance* (1866) [^Venn1888]
--   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
-    -   Formulated modern statistics in "Illustrations of the Logic of Science",
-        a series published in *Popular Science Monthly* (1877-1878),
-        and also "A Theory of Probable Inference" in *Studies in Logic* (1883). [^Peirce1883]
-    -   With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).
 
 [^Edwards1974p9]: @Edwards_1974_The_history_of_likelihood\, p. 9.
 [^Hacking1971]: @Hacking_1971_Jacques_Bernoullis_Art_of_conjecturing\.
-[^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
 [^Venn1888]: @Venn_1888_The_Logic_of_Chance\.
 
 
 ### Foundations of statistics
 
+-   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
+    -   Formulated modern statistics in "Illustrations of the Logic of Science",
+        a series published in *Popular Science Monthly* (1877-1878),
+        and also "A Theory of Probable Inference" in *Studies in Logic* (1883). [^Peirce1883]
+    -   With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).
 -   [Pearson, Karl (1857-1936)](https://en.wikipedia.org/wiki/Karl_Pearson)
 -   [Fisher, Ronald (1890-1972)](https://en.wikipedia.org/wiki/Ronald_Fisher)
     -   Fisher significance of the null hypothesis ($p$-values)
@@ -72,40 +71,6 @@ See the [Outline of the scientific method](scientific-method.html#induction)
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
     -   objective (non-informative) Jeffreys priors
--   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
-    -   The likelihood principle is the proposition that, given a statistical model and a data sample,
-        all the evidence relevant to model parameters is contained in the likelihood function.
-    -   The history of likelihood [^Edwards1974]
-        -   Allan Birnbaum proved that the likelihood principle follows from two more primitive
-            and seemingly reasonable principles,
-            the [conditionality principle](https://en.wikipedia.org/wiki/Conditionality_principle)
-            and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic).  [^Birnbaum1962]
-        -   Hacking identified the "law of likelihood". [^Hacking1965]
-    -   *The Likelihood Principle* [^Berger1988]
-    -   Criticisms:
-        -   Evans [^Evans2013]
-        -   Mayo [^Mayo2014]
-    -   Gandenberger's proof [^Gandenberger2015]
-    -   Violated by both Frequentists and Bayesians
-    -   [Likelihoodist statistics](https://en.wikipedia.org/wiki/Likelihoodist_statistics)
--   "Statistics Wars"
--   Responses
-    -   Cox
-    -   Carnap
-        -   "On inductive logic" [^Carnap1945a]
-        -   "The two concepts of probability" [^Carnap1945b]
-        -   "Probability as a guide in life" [^Carnap1947]
-        -   *Logical Foundations of Probability* [^Carnap1950]
-        -   *The Continuum of Inductive Methods* [^Carnap1952]
-        -   "The aim of inductive logic" [^Carnap1966]
-        -   "Notes on probability and induction" [^Carnap1973]
-    -   Hacking
-        -   *Logic of Statistical Inference* [^Hacking1965]
-    -   Berger [^Berger2003]
-    -   Mayo
-        -   "Learning from error" [^Mayo1996]
-        -   "Error statistics" [^Mayo2006]
-        -   *Statistical Inference as Severe Testing* [^Mayo2018]
 -   Pedagogy
     -   Kendall [^Kendall1946]
     -   James [^James2006]
@@ -113,32 +78,43 @@ See the [Outline of the scientific method](scientific-method.html#induction)
     -   Cranmer [^Cranmer2015]
     -   Weisberg [^Weisberg2019]
 
-[^Berger1988]: @Berger_1988_The_Likelihood_Principle\.
-[^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
-[^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
-[^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
-[^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
-[^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
-[^Carnap1950]: @Carnap_1950_Logical_Foundations_of_Probability\.
-[^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
-[^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
-[^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
-[^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
-[^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
-[^Evans2013]: @Evans_2013_What_does_the_proof_of_Birnbaums_theorem_prove\.
-[^Edwards1974]: @Edwards_1974_The_history_of_likelihood\.
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
 [^Fisher1915]: @Fisher_1915_Frequency_distribution_of_the_values\.
 [^Fisher1921]: @Fisher_1921_On_the_probable_error_of_a_coefficient\.
-[^Gandenberger2015]: @Gandenberger_2015_A_new_proof_of_the_likelihood_principle\.
-[^Hacking1965]: @Hacking_1965_Logic_of_Statistical_Inference\.
+[^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
+
+[^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
+[^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
 [^Kendall1946]: @Kendall_1946_The_Advanced_Theory_of_Statistics_VolII\.
-[^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
-[^Mayo2006]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
-[^Mayo2014]: @Mayo_2014_On_the_Birnbaum_Argument_for_the_Strong_Likelihood\.
-[^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
 [^Weisberg2019]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\.
+
+
+### Likelihood principle
+
+-   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
+-   The likelihood principle is the proposition that, given a statistical model and a data sample,
+    all the evidence relevant to model parameters is contained in the likelihood function.
+-   The history of likelihood [^Edwards1974]
+    -   Allan Birnbaum proved that the likelihood principle follows from two more primitive
+        and seemingly reasonable principles,
+        the [conditionality principle](https://en.wikipedia.org/wiki/Conditionality_principle)
+        and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic).  [^Birnbaum1962]
+    -   Hacking identified the "law of likelihood". [^Hacking1965]
+-   *The Likelihood Principle* [^Berger1988]
+-   Criticisms:
+    -   Evans [^Evans2013]
+    -   Mayo [^Mayo2014]
+-   Gandenberger's proof [^Gandenberger2015]
+-   Violated by both Frequentists and Bayesians
+-   [Likelihoodist statistics](https://en.wikipedia.org/wiki/Likelihoodist_statistics)
+
+[^Berger1988]: @Berger_1988_The_Likelihood_Principle\.
+[^Evans2013]: @Evans_2013_What_does_the_proof_of_Birnbaums_theorem_prove\.
+[^Edwards1974]: @Edwards_1974_The_history_of_likelihood\.
+[^Gandenberger2015]: @Gandenberger_2015_A_new_proof_of_the_likelihood_principle\.
+[^Hacking1965]: @Hacking_1965_Logic_of_Statistical_Inference\.
+[^Mayo2014]: @Mayo_2014_On_the_Birnbaum_Argument_for_the_Strong_Likelihood\.
 
 
 ### Point estimation and confidence intervals
@@ -193,6 +169,41 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   "Data science"
 
 [^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
+
+
+### "Statistics Wars"
+
+Responses:
+
+-   Cox
+-   Carnap
+    -   "On inductive logic" [^Carnap1945a]
+    -   "The two concepts of probability" [^Carnap1945b]
+    -   "Probability as a guide in life" [^Carnap1947]
+    -   *Logical Foundations of Probability* [^Carnap1950]
+    -   *The Continuum of Inductive Methods* [^Carnap1952]
+    -   "The aim of inductive logic" [^Carnap1966]
+    -   "Notes on probability and induction" [^Carnap1973]
+-   Hacking
+    -   *Logic of Statistical Inference* [^Hacking1965]
+-   Berger [^Berger2003]
+-   Mayo
+    -   "Learning from error" [^Mayo1996]
+    -   "Error statistics" [^Mayo2006]
+    -   *Statistical Inference as Severe Testing* [^Mayo2018]
+
+[^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
+[^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
+[^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
+[^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
+[^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
+[^Carnap1950]: @Carnap_1950_Logical_Foundations_of_Probability\.
+[^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
+[^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
+[^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
+[^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
+[^Mayo2006]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
+[^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
 
 
 ### P-value controversy
