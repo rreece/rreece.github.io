@@ -52,7 +52,6 @@ See the [Outline of the scientific method](scientific-method.html#induction)
         a series published in *Popular Science Monthly* (1877-1878),
         and also "A Theory of Probable Inference" in *Studies in Logic* (1883). [^Peirce1883]
     -   With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).
--   [Turkey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
 
 [^Edwards1974p9]: @Edwards_1974_The_history_of_likelihood\, p. 9.
 [^Hacking1971]: @Hacking_1971_Jacques_Bernoullis_Art_of_conjecturing\.
@@ -73,6 +72,8 @@ See the [Outline of the scientific method](scientific-method.html#induction)
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
     -   objective (non-informative) Jeffreys priors
+-   [Turkey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+    -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
     -   The likelihood principle is the proposition that, given a statistical model and a data sample,
         all the evidence relevant to model parameters is contained in the likelihood function.
