@@ -219,10 +219,12 @@ Important synthesizers:
 
 -   Locke
 -   Kant
--   Carnap vs Quine
--   Juhl
+-   Carnap vs Quine [^Carnap1990]
 -   Gillian Russell [^Russell2008]
+-   Cory Juhl [^Juhl2009]
 
+[^Carnap1990]: @Carnap_1990_Dear_Carnap_Dear_van_The_Quine_Carnap\.
+[^Juhl2009]: @Juhl_2009_Analyticity\.
 [^Russell2008]: @Russell_2008_Truth_in_Virtue_of_Meaning_A_defence\.
 
 
@@ -306,7 +308,8 @@ and the wonderful self-correcting nature of ampliative inference:
 -   Russell's Thanksgiving turkey
 -   Reichenbach [^Reichenbach1938]
 -   Carnap
-    -   "On inductive logic" [^Carnap1945]
+    -   "On inductive logic" [^Carnap1945a]
+    -   "The two concepts of probability" [^Carnap1945b]
     -   *Logical Foundations of Probability* [^Carnap1950]
     -   *The Continuum of Inductive Methods* [^Carnap1952]
     -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
@@ -319,8 +322,8 @@ and the wonderful self-correcting nature of ampliative inference:
     -   Note the further discussion of Humeanism and laws of nature in
         the [Outline on scientific realism](scientific-realism.html#humeanism).
 
-[^Carnap1945]: @Carnap_1945_On_inductive_logic and
-    @Carnap_1945_The_two_concepts_of_probability\.
+[^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
+[^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Carnap1950]: @Carnap_1950_Logical_Foundations_of_Probability\.
 [^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Dewey1938p419]: @Dewey_1938_Logic_The_Theory_of_Inquiry\, p. 419.

@@ -2,10 +2,12 @@ Carnap, R. (1945). On inductive logic. *Philosophy of Science*, 12, 72--97.
 Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenological Research*, 5(4), 513--32. 
 Carnap, R. (1950). *Logical Foundations of Probability*. University of Chicago Press.
 Carnap, R. (1952). *The Continuum of Inductive Methods*. University of Chicago Press.
+Carnap, R. & Quine, W.V. (1990). *Dear Carnap, Dear van: The Quine-Carnap Correspondence and Related Work* (Richard Creath, Ed.). Univ of California Press.
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
 Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/abduction/
 French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
 Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
+Juhl, C. & Loomis, E. (2009). *Analyticity*. Routledge.
 Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1781)]
 Mill, J.S. (1843). *A System of Logic*. New York: Harper and Brothers.
 Newton, I. (2016). *The Principia: Mathematical Principles of Natural Philosophy* (I. Bernard Cohen and A. Whitman and J. Budenz, Trans.). University of California Press. [(Originally published in 1687)]

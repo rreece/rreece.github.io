@@ -72,8 +72,6 @@ See the [Outline of the scientific method](scientific-method.html#induction)
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
     -   objective (non-informative) Jeffreys priors
--   [Turkey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
-    -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
     -   The likelihood principle is the proposition that, given a statistical model and a data sample,
         all the evidence relevant to model parameters is contained in the likelihood function.
@@ -94,7 +92,11 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   Responses
     -   Cox
     -   Carnap
+        -   "On inductive logic" [^Carnap1945a]
+        -   "The two concepts of probability" [^Carnap1945b]
         -   "Probability as a guide in life" [^Carnap1947]
+        -   *Logical Foundations of Probability* [^Carnap1950]
+        -   *The Continuum of Inductive Methods* [^Carnap1952]
         -   "The aim of inductive logic" [^Carnap1966]
         -   "Notes on probability and induction" [^Carnap1973]
     -   Hacking
@@ -114,7 +116,11 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 [^Berger1988]: @Berger_1988_The_Likelihood_Principle\.
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
+[^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
+[^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
+[^Carnap1950]: @Carnap_1950_Logical_Foundations_of_Probability\.
+[^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
 [^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
@@ -194,6 +200,8 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 >   result. [^Fisher1935p13]
 
 -   file-drawer effect = look-elsewhere effect
+-   [Turkey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+    -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
 -   ASA statement on $p$-values [^Wasserstein2016]
 -   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]
