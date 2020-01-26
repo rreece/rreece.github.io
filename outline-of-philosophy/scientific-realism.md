@@ -189,7 +189,7 @@ but we have no ontological commitments to them.
 -   [Wikipedia](https://en.wikipedia.org/wiki/Instrumentalism): "Initially a novel perspective introduced by Pierre Duhem in 1906, instrumentalism is largely the prevailing theory that underpins the practice of physicists today." [^Torretti1999]
 -   Later Wittgenstein in *PI*. See [Postpositivism](#postpositivism), below.
 
-[^Torretti1999]: @Torretti_1999_The_Philosophy_of_Physics', p. 242--243.
+[^Torretti1999]: @Torretti_1999_The_Philosophy_of_Physics\, p. 242--243.
 
 
 ### Positivism
