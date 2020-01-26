@@ -592,6 +592,11 @@ TODO:
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
+Click to show links
+</a></div>
+<div id="encyclopedia_articles" class="more">
+
 ### SEP
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
@@ -845,6 +850,7 @@ Links and encyclopedia articles
 -   [Newton's Flaming Laser Sword](https://philosophynow.org/issues/46/Newtons_Flaming_Laser_Sword) - Mike Alder, Philosophy Now
 -   [The African Enlightenment: The highest ideals of Locke, Hume and Kant were first proposed more than a century earlier by an Ethiopian in a cave](https://aeon.co/essays/yacob-and-amo-africas-precursors-to-locke-hume-and-kant)
 
+</div>
 
 <!-- REFERENCES -->
 

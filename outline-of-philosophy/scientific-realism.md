@@ -884,6 +884,11 @@ Annotated bibliography
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
+Click to show links
+</a></div>
+<div id="encyclopedia_articles" class="more">
+
 ### SEP
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
@@ -1148,7 +1153,7 @@ Links and encyclopedia articles
 [^Psillos-2012]: Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.
 [^Tegmark-2014]: Tegmark, M. (2014). Our Mathematical Universe: My Quest for the Ultimate Nature of Reality.
 
-
+</div>
 
 <!-- REFERENCES -->
 
