@@ -21,7 +21,7 @@ Issues and positions
 
 ![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig:timeline-of-major-philosophers-since-1200}
 
-**Ionian Enlightenment**
+#### Ionian Enlightenment
 
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
 -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
@@ -47,7 +47,7 @@ Issues and positions
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 
-**The Middle Ages**
+#### The Middle Ages
 
 -   [Islamic Golden Age](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
 -   [Academy of Gondishapur](https://en.wikipedia.org/wiki/Academy_of_Gondishapur)
@@ -65,7 +65,7 @@ Issues and positions
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
     -   Ockham's razor as a hint at parsimony and abduction
 
-**Early Modern Period**
+#### Early Modern Period
 
 -   [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
 -   [da Vinci, Leonardo (1452-1519)](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
@@ -80,7 +80,7 @@ Issues and positions
     -   No teleology. Matter plenum, vorticies.
     -   *Meditations on First Philosophy* (1641) [^Descartes2008]
 
-**The Age of Enlightenment**
+#### The Age of Enlightenment
 
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
 -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
@@ -98,7 +98,7 @@ Issues and positions
 -   [Kant, Immanuel (1724-1804)](https://en.wikipedia.org/wiki/Immanuel_Kant)
     -   *Critique of Pure Reason* (1781) [^Kant1996]
 
-**Canonical classical physics**
+#### Canonical classical physics
 
 -   [Franklin, Benjamin (1706-1790)](https://en.wikipedia.org/wiki/Benjamin_Franklin)
 -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
@@ -119,7 +119,7 @@ Issues and positions
 -   [Gibbs, Josiah Willard (1839-1903)](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs)
 -   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 
-**"Scientists"**
+#### "Scientists"
 
 -   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
     -   atomic theory
@@ -134,7 +134,7 @@ Issues and positions
 -   [Pasteur, Louis (1822-1895)](https://en.wikipedia.org/wiki/Louis_Pasteur)
 -   [Ladd-Franklin, Christine (1847-1930)](https://en.wikipedia.org/wiki/Christine_Ladd-Franklin)
 
-**Biological evolution**
+#### Biological evolution
 
 -   [Democritus on the historical development of human communities](https://plato.stanford.edu/entries/democritus/)
 -   Hume on humans being animals [^Hume2007]
@@ -145,7 +145,7 @@ Issues and positions
 
 ![The great tree of life. Larger version: [here](img/great-tree-of-life-large.png). Source:[here](https://visual.ly/community/infographic/science/great-tree-life).](img/great-tree-of-life.png){#fig:great-tree-of-life}
 
-**Modern physics**
+#### Modern physics
 
 -   [Mach, Ernst (1838-1916)](https://en.wikipedia.org/wiki/Ernst_Mach)
 -   [Lorentz, Hendrik (1853-1928)](https://en.wikipedia.org/wiki/Hendrik_Lorentz)
@@ -165,7 +165,7 @@ Issues and positions
 -   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
 -   ...
 
-**Modern statistics**
+#### Modern statistics
 
 -   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
