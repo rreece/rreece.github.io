@@ -380,7 +380,7 @@ Peirce:
 >   [W]hen you have eliminated the impossible, whatever remains, however improbable,
 >   must be the truth.  [^Doyle1890]
 
-[^Doyle1890]: Doyle, A.C. (1890). *The Sign of the Four*. ch. 6.
+[^Doyle1890]: @Doyle_1890_The_Sign_of_the_Four\, ch. 6.
 
 
 ### Is there a universal scientific method?

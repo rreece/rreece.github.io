@@ -4,6 +4,7 @@ Carnap, R. (1950). *Logical Foundations of Probability*. University of Chicago P
 Carnap, R. (1952). *The Continuum of Inductive Methods*. University of Chicago Press.
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
 Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/abduction/
+Doyle, A.C. (1890). *The Sign of the Four*.
 French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
 Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
 Juhl, C. & Loomis, E. (2009). *Analyticity*. Routledge.
