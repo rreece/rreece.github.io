@@ -659,7 +659,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Quine, W.V.O. (1951). Two Dogmas of Empiricism.
+### Quine, W.V. (1951). Two Dogmas of Empiricism.
 
 #### 1. Background for analyticity
 
@@ -932,7 +932,7 @@ Links and encyclopedia articles
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
 -   [Pragmatism](http://plato.stanford.edu/entries/pragmatism/)
 -   [Private language](https://plato.stanford.edu/entries/private-language/)
--   [Quine, W.V.O. (1908-2000)](http://plato.stanford.edu/entries/quine/)
+-   [Quine, W.V. (1908-2000)](http://plato.stanford.edu/entries/quine/)
 -   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Realism](http://plato.stanford.edu/entries/realism/)
 -   [Rorty, Richard (1931-2007)](http://plato.stanford.edu/entries/rorty/)
@@ -1071,7 +1071,7 @@ Links and encyclopedia articles
 -   [Private language argument](https://en.wikipedia.org/wiki/Private_language_argument)
 -   [Progress, Philosophical](https://en.wikipedia.org/wiki/Philosophical_progress)
 -   [Putnam, Hilary (b. 1926)](https://en.wikipedia.org/wiki/Hilary_Putnam)
--   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
+-   [Quine, W.V. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Quine's paradox](http://en.wikipedia.org/wiki/Quine%27s_paradox)
 -   [Radical empiricism](http://en.wikipedia.org/wiki/Radical_empiricism)
 -   [Realism, Philosophical](http://en.wikipedia.org/wiki/Philosophical_realism)
