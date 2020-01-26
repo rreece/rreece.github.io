@@ -847,17 +847,6 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Quine, W. V. & Carnap, R. (1991). *Dear Carnap, Dear van: The Quine-Carnap Correspondence and Related Work*.
-
--   @Quine_1991_Dear_Carnap_Dear_van_The_Quine_Carnap
-
-#### My thoughts
-
--   TODO
-
-
---------------------------------------------------------------------------------
-
 ### More articles to do
 
 -   Putnam, H. (1982).  Three Kinds of Scientific Realism.

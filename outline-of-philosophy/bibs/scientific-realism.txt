@@ -7,7 +7,6 @@ Chakravartty, A. (2011). Scientific realism. *Stanford Encyclopedia of Philosoph
 Comte, A. (1835). *Cours de la Philosophie Positive*. 
 Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalised*. Oxford University Press.
 Popper, K. (1963). *Conjectures and Refutations: The Growth of Scientific Knowledge*. Routledge.
-Quine, W. V., & Carnap, R. (1991). *Dear Carnap, Dear van: The Quine-Carnap Correspondence and Related Work* (Richard Creath, Ed.). University of California Press.
 Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. Oxford University Press.
 Rovelli, C. (2003). A dialog on quantum gravity. https://arxiv.org/abs/hep-th/0310077
 Russell, B. (1945). *A History of Western Philosophy*. Simon & Schuster.

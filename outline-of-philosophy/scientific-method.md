@@ -219,11 +219,11 @@ Important synthesizers:
 
 -   Locke
 -   Kant
--   Carnap vs Quine [^Carnap1990]
+-   Carnap vs Quine [^Quine1990]
 -   Gillian Russell [^Russell2008]
 -   Cory Juhl [^Juhl2009]
 
-[^Carnap1990]: @Carnap_1990_Dear_Carnap_Dear_van_The_Quine_Carnap\.
+[^Quine1990]: @Quine_1990_Dear_Carnap_Dear_van_The_Quine_Carnap\.
 [^Juhl2009]: @Juhl_2009_Analyticity\.
 [^Russell2008]: @Russell_2008_Truth_in_Virtue_of_Meaning_A_defence\.
 
