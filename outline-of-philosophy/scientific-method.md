@@ -389,7 +389,7 @@ Peirce:
 -   Positivism, verificationism
     -   Auguste Comte, Ernst Mach, David Hilbert, Rudolf Carnap
 -   Deductive-nomological model
-    -   Hempel, C.G. & Oppenheim, P. (1948). Studies in the Logic of Explanation.
+    -   Hempel, C.G. & Oppenheim, P. (1948): "Studies in the logic of explanation" [^Hempel1948]
     -   Covering law model
     -   Logical empiricism
 -   Falsification, deductivism
@@ -406,6 +406,7 @@ Peirce:
     -   Evidence based, anti-conspiracy, parsimony
     -   Scientism
 
+[^Hempel1948]: @Hempel_1948_Studies_in_the_logic_of_explanation\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 
 
