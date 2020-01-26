@@ -226,7 +226,7 @@ Important synthesizers:
 -   Cory Juhl [^Juhl2009]
 
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
-[^Kant1996X2]: @Kant_1996_Critique_of_Pure_Reason\, p. X.
+[^Kant1996pX]: @Kant_1996_Critique_of_Pure_Reason\, p. X.
 [^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1990]: @Quine_1990_Dear_Carnap_Dear_van_The_Quine_Carnap\.
 [^Juhl2009]: @Juhl_2009_Analyticity\.
@@ -396,6 +396,10 @@ Peirce:
     -   Karl Popper
 -   Pragmatic model
     -   C.S. Peirce
+-   Distinction between [exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+    and [confirmatory data analysis](https://en.wikipedia.org/wiki/Confirmatory_data_analysis)
+    -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+    -   See the [Outline of philosophy of statistics](http://rreece.github.io/outline-of-philosophy/statistics.html#exploratory-data-analysis)
 -   Error-catching filters[^Ladyman2007], community, honesty, openness
     -   Ladyman, Mayo
 -   Not a seven-step program
@@ -821,6 +825,7 @@ Links and encyclopedia articles
 -   [Systematic error](http://en.wikipedia.org/wiki/Systematic_error)
 -   [Timeline of the history of the scientific method](http://en.wikipedia.org/wiki/Timeline_of_the_history_of_scientific_method)
 -   [Timeline of scientific thought](https://en.wikipedia.org/wiki/Timeline_of_scientific_thought)
+-   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
 -   [Type-I and type-II errors](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
 -   [Unsolved problems in statistics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_statistics)

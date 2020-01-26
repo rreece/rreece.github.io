@@ -185,6 +185,16 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 ![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties)).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
 
 
+### Exploratory data analysis
+
+-   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+    -   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+    -   *Exploratory Data Analysis* (1977) [^Tukey1977]
+-   "Data science"
+
+[^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
+
+
 ### P-value controversy
 
 >   [N]o isolated experiment, however significant in itself, can suffice
@@ -200,7 +210,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 >   result. [^Fisher1935p13]
 
 -   file-drawer effect = look-elsewhere effect
--   [Turkey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+-   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
 -   ASA statement on $p$-values [^Wasserstein2016]
@@ -393,6 +403,7 @@ Links and encyclopedia articles
 -   [Deductive-nomological model](https://en.wikipedia.org/wiki/Deductive-nomological_model)
 -   [Empircism](http://en.wikipedia.org/wiki/Empiricism)
 -   [Epistemology](http://en.wikipedia.org/wiki/Epistemology)
+-   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 -   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
 -   [Frequentist inference](https://en.wikipedia.org/wiki/Frequentist_inference)
 -   [Foundations of statistics](https://en.wikipedia.org/wiki/Foundations_of_statistics)
@@ -445,7 +456,7 @@ Links and encyclopedia articles
 -   [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)
 -   [Systematic error](http://en.wikipedia.org/wiki/Systematic_error)
 -   [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
--   [Turkey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+-   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
 -   [Type-I and type-II errors](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
 -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
