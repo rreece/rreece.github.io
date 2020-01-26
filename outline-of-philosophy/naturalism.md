@@ -386,6 +386,11 @@ Annotated bibliography
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
+Click to show links
+</a></div>
+<div id="encyclopedia_articles" class="more">
+
 ### SEP
 
 -   [d'Holbach, Baron Paul-Henri Thiry (1723-1789) ](http://plato.stanford.edu/entries/holbach/)
@@ -469,6 +474,7 @@ Links and encyclopedia articles
 -   [Williamson, Timothy. (2016). What is Naturalism?](https://www.youtube.com/watch?v=33qfCWesE1E)
 -   [Dennett, Daniel. (2017). From Bacteria to Bach and Back: The Evolution of Minds](https://www.youtube.com/watch?v=IZefk4gzQt4)
 
+</div>
 
 <!-- REFERENCES -->
 

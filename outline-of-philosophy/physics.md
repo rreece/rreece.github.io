@@ -394,6 +394,11 @@ Annotated bibliography
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
+Click to show links
+</a></div>
+<div id="encyclopedia_articles" class="more">
+
 ### SEP
 
 -   [Being and Becoming in Modern Physics](http://plato.stanford.edu/entries/spacetime-bebecome/)
@@ -649,6 +654,7 @@ Links and encyclopedia articles
 -   [Maudlin, T. (2018). Ontological clarity, electromagnetism, Aharanov-Bohm effect.](https://www.fetzer-franklin-fund.org/media/ontological-clarity-electromagnetism-aharanov-bohm-effect-maudlin-video/)
 -   Carroll, S. (2019). [Something Deeply Hidden - talk at Google.](https://www.youtube.com/watch?v=F6FR08VylO4)
 
+</div>
 
 <!-- REFERENCES -->
 

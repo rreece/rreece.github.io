@@ -98,6 +98,11 @@ Annotated bibliography
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
+Click to show links
+</a></div>
+<div id="encyclopedia_articles" class="more">
+
 ### SEP
 
 ### IEP
@@ -110,6 +115,7 @@ Links and encyclopedia articles
 
 ### Videos
 
+</div>
 
 <!-- REFERENCES -->
 

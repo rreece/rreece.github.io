@@ -139,6 +139,11 @@ Annotated bibliography
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
+Click to show links
+</a></div>
+<div id="encyclopedia_articles" class="more">
+
 ### SEP
 
 -   [Agency](http://plato.stanford.edu/entries/agency/)
@@ -222,6 +227,7 @@ Links and encyclopedia articles
 -   [Dennett, Daniel. (2017). From Bacteria to Bach and Back: The Evolution of Minds.](https://www.youtube.com/watch?v=IZefk4gzQt4)
 -   [Seth, Anil. (2017). The Neuroscience of Consciousness.](https://www.youtube.com/watch?v=xRel1JKOEbI)
 
+</div>
 
 <!-- REFERENCES -->
 

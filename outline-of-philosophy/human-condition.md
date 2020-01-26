@@ -149,6 +149,11 @@ Annotated bibliography
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
+Click to show links
+</a></div>
+<div id="encyclopedia_articles" class="more">
+
 ### SEP
 
 -   [Aurelius, Marcus (121-180)](http://plato.stanford.edu/entries/marcus-aurelius/)
@@ -256,6 +261,7 @@ Others
 
 -   [Albert Camus's "The Human Crisis" read by Viggo Mortensen, 70 years later](https://www.youtube.com/watch?v=aaFZJ_ymueA)
 
+</div>
 
 <!-- REFERENCES -->
 

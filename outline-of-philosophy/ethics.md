@@ -217,6 +217,11 @@ Annotated bibliography
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
+Click to show links
+</a></div>
+<div id="encyclopedia_articles" class="more">
+
 ### SEP
 
 -   [Aristotle's Ethics](http://plato.stanford.edu/entries/aristotle-ethics/) - eudaimonia
@@ -346,6 +351,7 @@ Links and encyclopedia articles
 -   [Music And Measure Theory](https://www.youtube.com/watch?v=cyW5z-M2yzw) - 3Blue1Brown
 -   [Why It's Impossible to Tune a Piano](https://www.youtube.com/watch?v=1Hqm0dYKUx4) - minutephysics
 
+</div>
 
 <!-- REFERENCES -->
 

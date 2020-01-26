@@ -243,6 +243,11 @@ Annotated bibliography
 Links and encyclopedia articles
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
+Click to show links
+</a></div>
+<div id="encyclopedia_articles" class="more">
+
 ### SEP
 
 -   [Algebra](https://plato.stanford.edu/entries/algebra/)
@@ -431,6 +436,7 @@ Links and encyclopedia articles
     -   June 4, 2010
 -   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
 
+</div>
 
 <!-- REFERENCES -->
 
