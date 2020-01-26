@@ -13,6 +13,7 @@ Newton, I. (2016). *The Principia: Mathematical Principles of Natural Philosophy
 Russell, B. (2009). *Human Knowledge: Its Scope and Limits*. Routledge.
 Russell, G. (2008). *Truth in Virtue of Meaning: A defence of the analytic/synthetic distinction*. Oxford University Press.
 Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*. Chicago University Press.
+Quine, W.V. (1951). Two dogmas of empiricism. *The Philosophical Review*, 60, 20--43.
 Quine, W.V. & Carnap, R. (1990). *Dear Carnap, Dear van: The Quine-Carnap Correspondence and Related Work* (Richard Creath, Ed.). Univ of California Press.
 Sabra, A.I. (1978). An eleventh-century refutation of Ptolemy's planetary theory. *Studia Copernicana*, 16, 117--131.
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.

@@ -1117,7 +1117,7 @@ Links and encyclopedia articles
 -   [Brassier, Ray. (2013). The Myth of the Given: Nominalism, Naturalism & Materialism](https://www.youtube.com/watch?v=dI5MZ2kBK9M)
 
 
-[^Quine-1951]: @Quine_1951_Two_Dogmas_of_Empiricism\.
+[^Quine-1951]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Popper-1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
 [^Kuhn-1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
 [^van-Fraassen-1980]: @vanFraassen_1980_The_Scientific_Image\.

@@ -218,11 +218,16 @@ Important synthesizers:
 ### Analytic/synthetic distinction
 
 -   Locke
--   Kant
+-   Kant: *Critique of Pure Reason* (1781) [^Kant1996X2]
+-   Carnap: "Empiricism semantics and ontology" [^Carnap1950X2]
+-   Quine: "Two dogmas of empiricism" [^Quine1951]
 -   Carnap vs Quine [^Quine1990]
 -   Gillian Russell [^Russell2008]
 -   Cory Juhl [^Juhl2009]
 
+[^Carnap1950X2]: @Carnap_1950_Empiricism_semantics_and_ontology\.
+[^Kant1996X2]: @Kant_1996_Critique_of_Pure_Reason\.
+[^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1990]: @Quine_1990_Dear_Carnap_Dear_van_The_Quine_Carnap\.
 [^Juhl2009]: @Juhl_2009_Analyticity\.
 [^Russell2008]: @Russell_2008_Truth_in_Virtue_of_Meaning_A_defence\.
@@ -310,7 +315,7 @@ and the wonderful self-correcting nature of ampliative inference:
 -   Carnap
     -   "On inductive logic" [^Carnap1945a]
     -   "The two concepts of probability" [^Carnap1945b]
-    -   *Logical Foundations of Probability* [^Carnap1950]
+    -   *Logical Foundations of Probability* [^Carnap19502]
     -   *The Continuum of Inductive Methods* [^Carnap1952]
     -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
 -   Salmon [^Salmon1963]
@@ -324,7 +329,7 @@ and the wonderful self-correcting nature of ampliative inference:
 
 [^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
-[^Carnap1950]: @Carnap_1950_Logical_Foundations_of_Probability\.
+[^Carnap19502]: @Carnap_1950_Logical_Foundations_of_Probability\.
 [^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Dewey1938p419]: @Dewey_1938_Logic_The_Theory_of_Inquiry\, p. 419.
 [^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
