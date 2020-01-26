@@ -208,6 +208,12 @@ Responses:
 
 ### P-value controversy
 
+-   file-drawer effect = look-elsewhere effect
+-   ASA statement on $p$-values [^Wasserstein2016]
+-   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]
+-   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
+-   Fisher:
+
 >   [N]o isolated experiment, however significant in itself, can suffice
 >   for the experimental demonstration of any natural phenomenon;
 >   for the "one chance in a million" will undoubtedly occur,
@@ -220,12 +226,8 @@ Responses:
 >   experiment which will rarely fail to give us a statistically significant
 >   result. [^Fisher1935p13]
 
--   file-drawer effect = look-elsewhere effect
 -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
--   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
--   ASA statement on $p$-values [^Wasserstein2016]
--   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]
 
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
@@ -237,6 +239,7 @@ Responses:
 -   classification and regression
 -   supervised and unsupervised learning
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
+-   Deep Learning
 
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
 
