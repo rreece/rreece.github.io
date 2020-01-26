@@ -247,7 +247,7 @@ Sextus Empiricus:
 >   while if they are to review all, they will be toiling at the impossible, 
 >   since the particulars are infinite and indefinite. [^SextusEmpiricus]
 
-[^SextusEmpiricus]: Sextus Empiricus. *Outlines of Pyrrhonism*, trans. Robert Gregg Bury (Loeb ed.) (London: W. Heinemann, 1933), p. 283.
+[^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
 
 -   Hume and the problem of induction [^Hume2007pX]
     -   Uniformity of nature

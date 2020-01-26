@@ -16,5 +16,6 @@ Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*. Chica
 Quine, W.V. (1951). Two dogmas of empiricism. *The Philosophical Review*, 60, 20--43.
 Quine, W.V. & Carnap, R. (1990). *Dear Carnap, Dear van: The Quine-Carnap Correspondence and Related Work* (Richard Creath, Ed.). Univ of California Press.
 Sabra, A.I. (1978). An eleventh-century refutation of Ptolemy's planetary theory. *Studia Copernicana*, 16, 117--131.
+Sextus Empiricus. (1933). *Outlines of Pyrrhonism* (R.G. Bury, Trans.). London: W. Heinemann.
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Vickers, J. (2014). The problem of induction. *Stanford Encyclopedia of Philosophy*. https://stanford.library.sydney.edu.au/archives/sum2016/entries/induction-problem/
