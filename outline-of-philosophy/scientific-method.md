@@ -345,7 +345,7 @@ and the wonderful self-correcting nature of ampliative inference:
     @Salmon_1967_Carnaps_inductive_logic\,
     @Salmon_1991_Hans_Reichenbachs_vindication_of_induction\.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
-[^Vickers2014]: @Vickers_2014_The_Problem_of_Induction\.
+[^Vickers2014]: @Vickers_2014_The_problem_of_induction\.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
 
