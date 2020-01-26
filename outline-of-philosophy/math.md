@@ -416,7 +416,7 @@ Links and encyclopedia articles
 
 ### Others
 
--   [Model theory - nLab](https://ncatlab.org/nlab/show/model+theory)
+-   [Model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
 -   [Pigliucci, Massimo. (2015). "Smolin on mathematics."](https://scientiasalon.wordpress.com/2015/04/21/smolin-on-mathematics/)
 -   [Smith, Peter. (2006-2016). Logic Matters](http://www.logicmatters.net/), a blog.
 -   [Zach, Richard. (2015). "Quine's Paradox and G&ouml;del's Theorem."](http://richardzach.org/2015/03/30/quines-paradox-and-godels-theorem/)
