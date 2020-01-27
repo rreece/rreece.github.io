@@ -383,6 +383,15 @@ Peirce:
 [^Doyle1890]: @Doyle_1890_The_Sign_of_the_Four\, ch. 6.
 
 
+### Statistical measurement
+
+-   Frequentist vs Bayesian probability
+-   Ronald Fisher, Jerzy Neyman, Egon Pearson
+-   Statistical hypothesis testing: power and confidence
+-   Neyman-Pearson lemma
+-   See the outline on [Statistics](statistics.html).
+
+
 ### Is there a universal scientific method?
 
 -   Hypothetico-deductive model
@@ -408,15 +417,6 @@ Peirce:
 
 [^Hempel1948]: @Hempel_1948_Studies_in_the_logic_of_explanation\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
-
-
-### Statistical measurement
-
--   Frequentist vs Bayesian probability
--   Jerzy Neyman, Egon Pearson, Ronald Fisher
--   Statistical hypothesis testing: power and confidence
--   Neyman-Pearson lemma
--   See the outline on [Statistics](statistics.html).
 
 
 ### Scientific knowledge and realism
