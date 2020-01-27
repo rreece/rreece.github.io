@@ -101,7 +101,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
         the [conditionality principle](https://en.wikipedia.org/wiki/Conditionality_principle)
         and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic).  [^Birnbaum1962]
     -   Hacking identified the "law of likelihood". [^Hacking1965]
--   *The Likelihood Principle* [^Berger1988]
+-   Berger & Wolpert. (1988). *The Likelihood Principle* [^Berger1988]
 -   Criticisms:
     -   Evans [^Evans2013]
     -   Mayo [^Mayo2014]
@@ -134,7 +134,6 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 
 ### Statistical hypothesis testing
 
--   classification
 -   Type-1 and type-2 errors in Neyman-Pearson theory
 -   Power and confidence
 -   Neyman-Pearson lemma [^Neyman1933]
@@ -208,7 +207,7 @@ Responses:
 
 ### P-value controversy
 
--   file-drawer effect = look-elsewhere effect
+-   File-drawer effect = look-elsewhere effect
 -   ASA statement on $p$-values [^Wasserstein2016]
 -   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]
 -   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
@@ -228,6 +227,7 @@ Responses:
 
 -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
+-   Mayo
 
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
@@ -236,10 +236,12 @@ Responses:
 
 ### Machine learning
 
--   classification and regression
+-   classification vs regression
 -   supervised and unsupervised learning
+    -   classification = supervised; clustering = unsupervised
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
--   Deep Learning
+-   *Deep Learning*
+-   reinforcement learning
 
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
 
