@@ -219,7 +219,7 @@ Important synthesizers:
 
 -   Locke
     -   *An Essay Concerning Human Understanding* (1689)
--   Kant:
+-   Kant in his *Critique of Pure Reason* (1781):
 
 >   In all judgments in which we think the relation of a subject to the predicate...
 >   this relation is possible in two ways. Either the predicate B belongs to the
