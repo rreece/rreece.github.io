@@ -211,14 +211,33 @@ Important synthesizers:
 -   Immanuel Kant (1724-1804)
     -   *Critique of Pure Reason* (1781) [^Kant1996]
 
-[^Kant1996]: @Kant_1996_Critique_of_Pure_Reason\.
+[^Kant1996]: @Kant_1996_Critique_of_Pure_Reason\. 
 [^Newton2016]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\.
 
 
 ### Analytic/synthetic distinction
 
 -   Locke
--   Kant: *Critique of Pure Reason* (1781) [^Kant1996pX]
+    -   *An Essay Concerning Human Understanding* (1689)
+-   Kant:
+
+>   In all judgments in which we think the relation of a subject to the predicate...
+>   this relation is possible in two ways. Either the predicate B belongs to the
+>   subject A as something that is (covertly) contained in this concept A;
+>   or B, though connected with concept A, lies quite outside it.
+>   In the first case I call the judgment _analytic_; in the second, _synthetic_.
+>   Hence (affirmative) analytic judgments are those in which the predicate's
+>   connection with the subject is thought by [thinking] identity, whereas those
+>   judgments in which this connection is thought without [thinking] identity are
+>   to be called synthetic. Analytic judgments could also be called _elucidatory_.
+>   For they do not through the predicate add anything to the concept of the subject;
+>   rather, they only dissect the concept, breaking it up into its component concepts
+>   which had already been thought in it (although thought confusedly).
+>   Synthetic judgments, on the other hand, could also be called _expansive_.
+>   For they do add to the concept of the subject a predicate that had not been
+>   thought in that concept at all and could not have been extracted from it
+>   by any dissection. [^Kant1996pB10]
+
 -   Carnap: "Empiricism semantics and ontology" [^Carnap1950a]
 -   Quine: "Two dogmas of empiricism" [^Quine1951]
 -   Carnap vs Quine [^Quine1990]
@@ -226,7 +245,7 @@ Important synthesizers:
 -   Cory Juhl [^Juhl2009]
 
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
-[^Kant1996pX]: @Kant_1996_Critique_of_Pure_Reason\, p. X.
+[^Kant1996pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
 [^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1990]: @Quine_1990_Dear_Carnap_Dear_van_The_Quine_Carnap\.
 [^Juhl2009]: @Juhl_2009_Analyticity\.
