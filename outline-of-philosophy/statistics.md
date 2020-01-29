@@ -240,7 +240,8 @@ Responses:
     of parametric distributions. [^Balasubramanian1996]
 -   Cranmer
 
-[^Balasubramanian1996]: @Balasubramanian_1996_A_geometric_formulation_of_Occams_razor\.
+[^Balasubramanian1996]: @Balasubramanian_1996_A_geometric_formulation_of_Occams_razor
+    and @Balasubramanian_1996_Statistical_inference_Occams_razor\.
 
 
 ### Machine learning
