@@ -234,6 +234,15 @@ Responses:
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
 
 
+### Information geometry
+
+-   Balasubramanian, V. (1996). A geometric formulation of Occam's razor for inference
+    of parametric distributions. [^Balasubramanian1996]
+-   Cranmer
+
+[^Balasubramanian1996]: @Balasubramanian_1996_A_geometric_formulation_of_Occams_razor\.
+
+
 ### Machine learning
 
 -   classification vs regression
