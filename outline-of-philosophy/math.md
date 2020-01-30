@@ -46,16 +46,39 @@ Issues and positions
 [^Baez-2016]: @Baez_2016_Struggles_with_the_continuum\.
 
 
-### Language
+### Model theory
 
-![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
+-   Wilfrid Hodges
+-   Language
+-   Carnap
 
-![A visual proof that $\sum_{k=1}^{\infty} \frac{1}{4^k} = \frac{1}{3}$.](img/visual-proof-geometric-series-sum-to-third.jpg)
+
+### Incompleteness
+
+G&ouml;del, Kurt (1906-1978)
+
+From Wikipedia:
+
+-   The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an "effective procedure" (e.g., a computer program, but it could be any sort of algorithm) is capable of proving all truths about the relations of the natural numbers.
+-   The second incompleteness theorem, an extension of the first, shows that such a system cannot demonstrate its own consistency.
+    Sufficiently strong proof theories cannot prove their own consistency (provided that they are in fact consistent).
+-   G&ouml;del's second incompleteness theorem also implies that a theory T1 satisfying the technical conditions outlined above cannot prove the consistency of any theory T2 that proves the consistency of T1. This is because such a theory T1 can prove that if T2 proves the consistency of T1, then T1 is in fact consistent. For the claim that T1 is consistent has form "for all numbers n, n has the decidable property of not being a code for a proof of contradiction in T1". If T1 were in fact inconsistent, then T2 would prove for some n that n is the code of a contradiction in T1. But if T2 also proved that T1 is consistent (that is, that there is no such n), then it would itself be inconsistent. This reasoning can be formalized in T1 to show that if T2 is consistent, then T1 is consistent. Since, by second incompleteness theorem, T1 does not prove its consistency, it cannot prove the consistency of T2 either.
+-   The corollary also indicates the epistemological relevance of the second incompleteness theorem. It would actually provide no interesting information if a theory T proved its consistency. This is because inconsistent theories prove everything, including their consistency. Thus a consistency proof of T in T would give us no clue as to whether T really is consistent; no doubts about the consistency of T would be resolved by such a consistency proof. The interest in consistency proofs lies in the possibility of proving the consistency of a theory T in some theory T' that is in some sense less doubtful than T itself, for example weaker than T. For many naturally occurring theories T and T', such as T = Zermelo-Fraenkel set theory and T' = primitive recursive arithmetic, the consistency of T' is provable in T, and thus T' can't prove the consistency of T by the above corollary of the second incompleteness theorem.
+-   The second incompleteness theorem does not rule out consistency proofs altogether, only consistency proofs that could be formalized in the theory that is proved consistent. For example, Gerhard Gentzen proved the consistency of Peano arithmetic (PA) in a different theory that includes an axiom asserting that the ordinal called $\varepsilon_0$ is wellfounded; see Gentzen's consistency proof. Gentzen's theorem spurred the development of ordinal analysis in proof theory.
+
+More:
+
+-   von Neumann
+-   G&ouml;del was a platonist, a (religious) realist.
 
 
 ### Pythagoreanism
 
 -   Radical realism
+-   Neopythagoreanism: Tegmark. (2008). "The mathmatical universe". [^Tegmark2008]
+    -   Mathematical Universe Hypothesis (MUH)
+
+[^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
 
 
 ### Platonism
@@ -64,6 +87,10 @@ Issues and positions
 -   The Academy (387 BCE - 529 CE): "Let no one ignorant of geometry enter"
 -   Mathematics is descriptive of a real but trans-empirical realm.
 -   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
+
+![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
+
+![A visual proof that $\sum_{k=1}^{\infty} \frac{1}{4^k} = \frac{1}{3}$.](img/visual-proof-geometric-series-sum-to-third.jpg)
 
 
 ### Logicism
@@ -101,25 +128,6 @@ Hilbert:
 
 [^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.
 [^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
-
-
-### Incompleteness
-
-G&ouml;del, Kurt (1906-1978)
-
-From Wikipedia:
-
--   The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an "effective procedure" (e.g., a computer program, but it could be any sort of algorithm) is capable of proving all truths about the relations of the natural numbers.
--   The second incompleteness theorem, an extension of the first, shows that such a system cannot demonstrate its own consistency.
-    Sufficiently strong proof theories cannot prove their own consistency (provided that they are in fact consistent).
--   G&ouml;del's second incompleteness theorem also implies that a theory T1 satisfying the technical conditions outlined above cannot prove the consistency of any theory T2 that proves the consistency of T1. This is because such a theory T1 can prove that if T2 proves the consistency of T1, then T1 is in fact consistent. For the claim that T1 is consistent has form "for all numbers n, n has the decidable property of not being a code for a proof of contradiction in T1". If T1 were in fact inconsistent, then T2 would prove for some n that n is the code of a contradiction in T1. But if T2 also proved that T1 is consistent (that is, that there is no such n), then it would itself be inconsistent. This reasoning can be formalized in T1 to show that if T2 is consistent, then T1 is consistent. Since, by second incompleteness theorem, T1 does not prove its consistency, it cannot prove the consistency of T2 either.
--   The corollary also indicates the epistemological relevance of the second incompleteness theorem. It would actually provide no interesting information if a theory T proved its consistency. This is because inconsistent theories prove everything, including their consistency. Thus a consistency proof of T in T would give us no clue as to whether T really is consistent; no doubts about the consistency of T would be resolved by such a consistency proof. The interest in consistency proofs lies in the possibility of proving the consistency of a theory T in some theory T' that is in some sense less doubtful than T itself, for example weaker than T. For many naturally occurring theories T and T', such as T = Zermelo-Fraenkel set theory and T' = primitive recursive arithmetic, the consistency of T' is provable in T, and thus T' can't prove the consistency of T by the above corollary of the second incompleteness theorem.
--   The second incompleteness theorem does not rule out consistency proofs altogether, only consistency proofs that could be formalized in the theory that is proved consistent. For example, Gerhard Gentzen proved the consistency of Peano arithmetic (PA) in a different theory that includes an axiom asserting that the ordinal called $\varepsilon_0$ is wellfounded; see Gentzen's consistency proof. Gentzen's theorem spurred the development of ordinal analysis in proof theory.
-
-More:
-
--   von Neumann
--   G&ouml;del was a platonist, a (religious) realist.
 
 
 ### Intuitionism

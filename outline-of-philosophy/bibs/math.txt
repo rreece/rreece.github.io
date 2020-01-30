@@ -4,4 +4,5 @@ Field, H. (1980). *Science Without Numbers*. Princeton University Press.
 Hilbert, D. (1967). The foundations of mathematics. In J. van Heijenoort (Ed.), *From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1879-1931* (pp. 464--479). Harvard University Press. [From a lecture given by Hilbert in 1927.]
 Russell, G. (2015). The justification of the basic laws of logic. *Journal of Philosophical Logic*, 44(6), 793--803.
 Snapper, E. (1979). The three crises in mathematics: Logicism, intuitionism and formalism. *Mathematics Magazine*, 52(4), 207-216.
+Tegmark, M. (2008). The mathematical universe. *Foundations of Physics*, 38(2), 101--150. https://arxiv.org/abs/0704.0646
 Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. *Communications on pure and applied mathematics*, 13(1), 1-14. http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html [Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959]
