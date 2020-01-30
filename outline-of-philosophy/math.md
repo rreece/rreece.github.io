@@ -42,6 +42,7 @@ Issues and positions
 -   Weierstrass, Karl (1815-1897)
 -   Stokes, George (1819-1903)
 -   Struggles with the continuum[^Baez-2016].
+-   Differential forms
 
 [^Baez-2016]: @Baez_2016_Struggles_with_the_continuum\.
 
