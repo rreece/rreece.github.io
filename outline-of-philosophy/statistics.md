@@ -32,6 +32,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   [Bernoulli, Jacob (1655-1705)](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
     -   *Ars Conjectandi* (1713, posthumous)
     -   First modern phrasing of the problem of parameter estimation [^Edwards1974p9]
+    -   See Hacking [^Hacking1971]
     -   Early vision of decision theory:
 
         >   The art of measuring, as precisely as possible, probabilities of things,
@@ -41,7 +42,6 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 
         --
         *Ars Conjectandi* (1713) Chapter II, Part IV, defining the art of conjecture [[wikiquote](https://en.wikiquote.org/wiki/Jacob_Bernoulli)].
-    -   See Hacking [^Hacking1971]
 -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
@@ -186,10 +186,15 @@ Responses:
 -   Hacking
     -   *Logic of Statistical Inference* [^Hacking1965]
 -   Berger [^Berger2003]
--   Mayo
-    -   "Learning from error" [^Mayo1996]
-    -   "Error statistics" [^Mayo2006]
+-   Deborah Mayo
+    -   "In defense of the Neyman-Pearson theory of confidence intervals" [^Mayo1981]
+    -   Concept of "Learning from error" in *Error and the Growth of Experimental Knowledge* [^Mayo1996]
+    -   "Error statistics" [^Mayo2011]
     -   *Statistical Inference as Severe Testing* [^Mayo2018]
+-   Andrew Gelman
+    -   [Confirmationist and falsificationist paradigms of science](https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/) - Sept. 5, 2014
+    -   [Retire Statistical Significance: The discussion](https://statmodeling.stat.columbia.edu/2019/03/20/retire-statistical-significance-the-discussion/)
+    -   [Exchange with Deborah Mayo on abandoning statistical significance](https://statmodeling.stat.columbia.edu/2019/09/11/exchange-with-deborah-mayo-on-abandoning-statistical-significance/)
 
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
@@ -200,14 +205,16 @@ Responses:
 [^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
 [^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
+[^Mayo1981]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
-[^Mayo2006]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
+[^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
 
 
 ### P-value controversy
 
 -   File-drawer effect = look-elsewhere effect
+-   "Why most published research findings are false" [^Ioannidis2005]
 -   ASA statement on $p$-values [^Wasserstein2016]
 -   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]
 -   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
@@ -228,9 +235,11 @@ Responses:
 -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   Mayo
+-   Vox: [What a nerdy debate about p-values shows about science--and how to fix it](https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005)
 
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
+[^Ioannidis2005]: @Ioannidis_2005_Why_most_published_research_findings_are_false\.
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
 
 
@@ -461,6 +470,7 @@ Click to show links
 -   [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
 -   [Maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
+-   [Misuse of p-values](https://en.wikipedia.org/wiki/Misuse_of_p-values)
 -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
 -   [Neyman-Pearson lemma](http://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma)
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
@@ -470,6 +480,7 @@ Click to show links
 -   [Poisson, Sim&eacute;on Denis (1781-1840)](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
+-   [P-value](https://en.wikipedia.org/wiki/P-value)
 -   [Savage, Leonard Jimmie (1917-1971)](https://en.wikipedia.org/wiki/Leonard_Jimmie_Savage)
 -   [Solomonoff, Ray (1926-2009)](https://en.wikipedia.org/wiki/Ray_Solomonoff)
 -   [Solomonoff's theory of inductive inference](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference)
