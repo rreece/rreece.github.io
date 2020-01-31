@@ -119,7 +119,7 @@ Fundamentality:
 
 ### Scientism
 
-![W.V.O. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
+![W.V. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
 
 >   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
 >   and it is these and no dim proxies that science is all about. Now how is such
@@ -307,7 +307,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-### Quine, W.V.O. (1969). Epistemology Naturalized.
+### Quine, W.V. (1969). Epistemology Naturalized.
 
 -   TODO
 
@@ -318,7 +318,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Quine, W.V.O. (1969). Natural Kinds.
+### Quine, W.V. (1969). Natural Kinds.
 
 -   TODO
 
@@ -405,7 +405,7 @@ Click to show links
 -   [Naturalism in Legal Philosophy](http://plato.stanford.edu/entries/lawphil-naturalism/)
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
--   [Quine, W.V.O. (1908-2000)](http://plato.stanford.edu/entries/quine/)
+-   [Quine, W.V. (1908-2000)](http://plato.stanford.edu/entries/quine/)
 -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/)
 -   [Unity of Science](http://plato.stanford.edu/entries/scientific-unity/)
 
@@ -450,7 +450,7 @@ Click to show links
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 -   [Protagoras (490-420 BCE)](https://en.wikipedia.org/wiki/Protagoras)
 -   [Postmodernism](https://en.wikipedia.org/wiki/Postmodernism)
--   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
+-   [Quine, W.V. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Reductionism](https://en.wikipedia.org/wiki/Reductionism)
 -   [Rorty, Richard (1931-2007)](https://en.wikipedia.org/wiki/Richard_Rorty)
 -   [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair)
