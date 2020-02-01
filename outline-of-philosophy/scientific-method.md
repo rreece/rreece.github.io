@@ -181,6 +181,7 @@ Issues and positions
 
 -   Early modern philosophy, coming out of scholasticism
 -   Debates over the foundations of epistemology
+-   *a priori* vs *a posteriori*
 -   Skepticism
 -   Lead to the Age of Enlightenment
 -   Development of calculus
@@ -675,6 +676,7 @@ Click to show links
 
 ### IEP
 
+-   [A priori and a posteriori](https://www.iep.utm.edu/apriori/)
 -   [Berkeley, George (1685-1753)](http://www.iep.utm.edu/berkeley/)
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
 -   [Democritus (460-370 BCE)](http://www.iep.utm.edu/democrit/)

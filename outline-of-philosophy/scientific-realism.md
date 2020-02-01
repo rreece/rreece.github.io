@@ -87,7 +87,7 @@ Stealing from encyclopedia.com:
 [^Schopenhauer-Schrodinger]: Schr&ouml;dinger quoting Schopenhauer in "Mind and Matter".
 
 
-### Humeanism
+### Humeanism and necessity
 
 -   laws of nature
 -   Humean vs Non-humean :: regularity vs necessitarianism
@@ -106,6 +106,7 @@ Stealing from encyclopedia.com:
 
 -   Emphasize the naturalist revolution within Humean views.
 -   See the [Outline on naturalism](naturalism.html).
+-   Saul Kripke on necessity
 
 
 ### Scientific realism
@@ -979,6 +980,7 @@ Click to show links
 ### IEP
 
 -   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
+-   [A priori and a posteriori](https://www.iep.utm.edu/apriori/)
 -   [Berlin Circle](http://www.iep.utm.edu/berlincr/)
 -   [Brain in a Vat Argument](http://www.iep.utm.edu/brainvat/)
 -   [Carnap, Rudolf (1891-1970)](http://www.iep.utm.edu/carnap/)
