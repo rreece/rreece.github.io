@@ -176,13 +176,7 @@ Responses:
 
 -   Cox
 -   Carnap
-    -   "On inductive logic" [^Carnap1945a]
-    -   "The two concepts of probability" [^Carnap1945b]
-    -   "Probability as a guide in life" [^Carnap1947]
-    -   *Logical Foundations of Probability* [^Carnap1950]
-    -   *The Continuum of Inductive Methods* [^Carnap1952]
-    -   "The aim of inductive logic" [^Carnap1966]
-    -   "Notes on probability and induction" [^Carnap1973]
+    -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
 -   Hacking
     -   *Logic of Statistical Inference* [^Hacking1965]
 -   Berger [^Berger2003]
@@ -191,24 +185,21 @@ Responses:
     -   Concept of "Learning from error" in *Error and the Growth of Experimental Knowledge* [^Mayo1996]
     -   "Error statistics" [^Mayo2011]
     -   *Statistical Inference as Severe Testing* [^Mayo2018]
+    -   [Statistics Wars: Interview with Deborah Mayo](https://blog.apaonline.org/2019/03/07/interview-with-deborah-mayo/) - APA blog
+    -   [Review of *SIST* by Prasanta S. Bandyopadhyay](https://ndpr.nd.edu/news/statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/)
 -   Andrew Gelman
     -   [Confirmationist and falsificationist paradigms of science](https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/) - Sept. 5, 2014
     -   [Retire Statistical Significance: The discussion](https://statmodeling.stat.columbia.edu/2019/03/20/retire-statistical-significance-the-discussion/)
     -   [Exchange with Deborah Mayo on abandoning statistical significance](https://statmodeling.stat.columbia.edu/2019/09/11/exchange-with-deborah-mayo-on-abandoning-statistical-significance/)
+    -   [Several reviews of *SIST*](https://statmodeling.stat.columbia.edu/2019/04/12/several-reviews-of-deborah-mayos-new-book-statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/)
 
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
-[^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
-[^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
-[^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
-[^Carnap1950]: @Carnap_1950_Logical_Foundations_of_Probability\.
-[^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
-[^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
-[^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
 [^Mayo1981]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
+[^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
 
 
 ### P-value controversy

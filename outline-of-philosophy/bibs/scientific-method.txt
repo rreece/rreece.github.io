@@ -1,7 +1,10 @@
 Carnap, R. (1945). On inductive logic. *Philosophy of Science*, 12, 72--97.
 Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenological Research*, 5(4), 513--32. 
+Carnap, R. (1947). Probability as a guide in life. *Journal of Philosophy*, 44(6), 141--48.
 Carnap, R. (1950). *Logical Foundations of Probability*. University of Chicago Press.
 Carnap, R. (1952). *The Continuum of Inductive Methods*. University of Chicago Press.
+Carnap, R. (1966). The aim of inductive logic. In *Studies in Logic and the Foundations of Mathematics Vol. 44* (pp. 303--318). Elsevier.
+Carnap, R. (1973). Notes on probability and induction. *Synthese*, 25, 269--298.
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
 Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/abduction/
 Doyle, A.C. (1890). *The Sign of the Four*.
@@ -19,5 +22,4 @@ Quine, W.V. (1951). Two dogmas of empiricism. *The Philosophical Review*, 60, 20
 Quine, W.V. & Carnap, R. (1990). *Dear Carnap, Dear van: The Quine-Carnap Correspondence and Related Work* (Richard Creath, Ed.). Univ of California Press.
 Sabra, A.I. (1978). An eleventh-century refutation of Ptolemy's planetary theory. *Studia Copernicana*, 16, 117--131.
 {Sextus Empiricus}. (1933). *Outlines of Pyrrhonism* (R.G. Bury, Trans.). London: W. Heinemann.
-Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Vickers, J. (2014). The problem of induction. *Stanford Encyclopedia of Philosophy*. https://stanford.library.sydney.edu.au/archives/sum2016/entries/induction-problem/

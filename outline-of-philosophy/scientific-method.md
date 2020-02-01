@@ -337,7 +337,6 @@ and the wonderful self-correcting nature of ampliative inference:
     -   "The two concepts of probability" [^Carnap1945b]
     -   *Logical Foundations of Probability* [^Carnap1950b]
     -   *The Continuum of Inductive Methods* [^Carnap1952]
-    -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
 -   Salmon [^Salmon1963]
 -   Good [^Good1988]
 -   Hacking [^Hacking2001]
@@ -364,7 +363,6 @@ and the wonderful self-correcting nature of ampliative inference:
     @Salmon_1966_The_Foundations_of_Scientific_Inference\,
     @Salmon_1967_Carnaps_inductive_logic\,
     @Salmon_1991_Hans_Reichenbachs_vindication_of_induction\.
-[^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
 [^Vickers2014]: @Vickers_2014_The_problem_of_induction\.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
@@ -406,10 +404,27 @@ Peirce:
 ### Statistical measurement
 
 -   Frequentist vs Bayesian probability
--   Ronald Fisher, Jerzy Neyman, Egon Pearson
+-   Ronald Fisher
+-   Jerzy Neyman, Egon Pearson
 -   Statistical hypothesis testing: power and confidence
 -   Neyman-Pearson lemma
+-   Carnap
+    -   "On inductive logic" [^Carnap1945a]
+    -   "The two concepts of probability" [^Carnap1945b]
+    -   "Probability as a guide in life" [^Carnap1947]
+    -   *Logical Foundations of Probability* [^Carnap1950]
+    -   *The Continuum of Inductive Methods* [^Carnap1952]
+    -   "The aim of inductive logic" [^Carnap1966]
+    -   "Notes on probability and induction" [^Carnap1973]
 -   See the outline on [Statistics](statistics.html).
+
+[^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
+[^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
+[^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
+[^Carnap1950]: @Carnap_1950_Logical_Foundations_of_Probability\.
+[^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
+[^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
+[^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
 
 
 ### Is there a universal scientific method?
