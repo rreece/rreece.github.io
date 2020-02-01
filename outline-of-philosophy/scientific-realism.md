@@ -97,9 +97,12 @@ Stealing from encyclopedia.com:
 >   Humean supervenience is named in honor of the greater denier of necessary
 >   connections. It is the doctrine that all there is to the world is a vast
 >   mosaic of local matters of particular fact, just one little thing and then
->   another. [^Lewis1986]
+>   another. [^Lewis1986pix]
 
-[^Lewis1986]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
+-   *On the Plurality of Worlds* (1986)
+
+[^Lewis1986]: @Lewis_1986_On_the_Plurality_of_Worlds\.
+[^Lewis1986pix]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
 
 -   Emphasize the naturalist revolution within Humean views.
 -   See the [Outline on naturalism](naturalism.html).
@@ -458,7 +461,7 @@ understand the structures that generate such unobservable events.
 
 ### Active realism
 
--   Hasok Change
+-   Hasok Chang
 
 
 My thoughts
