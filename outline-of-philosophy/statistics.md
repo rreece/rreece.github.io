@@ -19,9 +19,15 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   Kolmogorov
 -   Frequentist vs Bayesian probability
     -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
+-   Carnap
+    -   "The two concepts of probability" [^Carnap1945b]
+    -   "Probability as a guide in life" [^Carnap1947]
+-   Royall
     -   "What do these data say?" [^Royall1997]
 -   Accuracy vs precision [^Cowan1998pX]
 
+[^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
+[^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
 [^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
 [^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\, p. 171--2.
 
@@ -74,6 +80,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   Pedagogy
     -   Kendall [^Kendall1946]
     -   James [^James2006]
+    -   Cousins [^Cousins2018]
     -   Cowan [^Cowan1998]
     -   Cranmer [^Cranmer2015]
     -   Weisberg [^Weisberg2019]
@@ -83,6 +90,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 [^Fisher1921]: @Fisher_1921_On_the_probable_error_of_a_coefficient\.
 [^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
 
+[^Cousins2018]: @Cousins_2018_Lectures_on_statistics_in_theory_Prelude\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.

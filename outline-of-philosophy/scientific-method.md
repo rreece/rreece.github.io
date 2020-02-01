@@ -334,7 +334,6 @@ and the wonderful self-correcting nature of ampliative inference:
 -   Reichenbach [^Reichenbach1938]
 -   Carnap
     -   "On inductive logic" [^Carnap1945a]
-    -   "The two concepts of probability" [^Carnap1945b]
     -   *Logical Foundations of Probability* [^Carnap1950b]
     -   *The Continuum of Inductive Methods* [^Carnap1952]
 -   Salmon [^Salmon1963]
@@ -347,7 +346,6 @@ and the wonderful self-correcting nature of ampliative inference:
         the [Outline on scientific realism](scientific-realism.html#humeanism).
 
 [^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
-[^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Carnap1950b]: @Carnap_1950_Logical_Foundations_of_Probability\.
 [^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Dewey1938p419]: @Dewey_1938_Logic_The_Theory_of_Inquiry\, p. 419.
@@ -409,20 +407,10 @@ Peirce:
 -   Statistical hypothesis testing: power and confidence
 -   Neyman-Pearson lemma
 -   Carnap
-    -   "On inductive logic" [^Carnap1945a]
-    -   "The two concepts of probability" [^Carnap1945b]
-    -   "Probability as a guide in life" [^Carnap1947]
-    -   *Logical Foundations of Probability* [^Carnap1950]
-    -   *The Continuum of Inductive Methods* [^Carnap1952]
     -   "The aim of inductive logic" [^Carnap1966]
     -   "Notes on probability and induction" [^Carnap1973]
--   See the outline on [Statistics](statistics.html).
+-   See the [Outline of philosophy of statistics](statistics.html).
 
-[^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
-[^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
-[^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
-[^Carnap1950]: @Carnap_1950_Logical_Foundations_of_Probability\.
-[^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
 [^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
 
