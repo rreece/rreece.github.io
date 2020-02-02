@@ -104,13 +104,15 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   regression
 -   MLE: Maximum likelihood estimators, Fisher [^Aldrich1997]
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
--   $\chi^2$
+    -   proof in Rice [^Rice2007p300]
+-   Pearson $\chi^2$
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
     @Rao_1945_Information_and_the_accuracy_attainable\, and
     @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
+[^Rice2007p300]: @Rice_2007_Mathematical_Statistics_and_Data_Analysis\, p. 300--2.
 
 
 ### Statistical hypothesis testing
