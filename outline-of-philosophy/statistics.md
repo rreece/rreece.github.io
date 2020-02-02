@@ -296,12 +296,12 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   AutoML and AutoScience
 -   "The frontier of simulation-based inference" [^Cranmer2019]
 -   "Learning new physics from a machine" [^DAgnolo2019]
--   Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. [^Asch2018]
+-   "Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry." [^Asch2018]
     -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
 
 ![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis [@Asch_2018_Big_data_and_extreme_scale_computing_Pathways]. ](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
 
--   The End of Theory: The data deluge makes the scientific method obsolete. [^Anderson2008]
+-   "The End of Theory: The data deluge makes the scientific method obsolete." [^Anderson2008]
 
 [^Anderson2008]: @Anderson_2008_The_End_of_Theory_The_data_deluge_makes\.
 [^Asch2018]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
