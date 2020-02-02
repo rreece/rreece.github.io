@@ -402,8 +402,13 @@ but does not justify metaphysical claims about reality.
 ![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories)).](img/true-vs-literal-theories.png){#fig:true-vs-literal-theories}
 
 -   Healey criticizes van Fraassen's CE [^Healey2007p114]
+-   Hennig:
+    -   "Mathematical models and reality: A constructivist perspective" [^Hennig2010]
+    -   "What are the true clusters?" [^Hennig2015]
 
 [^Healey2007p114]: @Healey_2007_Gauging_Whats_Real\, p. 114--116.
+[^Hennig2010]: @Hennig_2010_Mathematical_models_and_reality_A_constructivist\.
+[^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
 
 
 ### Structural realism

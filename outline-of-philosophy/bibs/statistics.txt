@@ -5,6 +5,7 @@ ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson 
 Balasubramanian, V. (1996). A geometric formulation of Occam's razor for inference of parametric distributions. https://arxiv.org/abs/adap-org/9601001
 Balasubramanian, V. (1996). Statistical inference, Occam's razor and statistical mechanics on the space of probability distributions. https://arxiv.org/abs/cond-mat/9601030
 Benjamin, D.J. et al. (2017). Redefine statistical significance. *PsyArXiv*. https://psyarxiv.com/mky9j/ [July 22, 2017]
+Bensusan, H. (2000). Is machine learning experimental philosophy of science? In *ECAI2000 Workshop notes on scientific Reasoning in Artificial Intelligence and the Philosophy of Science* (pp. 9--14).
 Berger, J.O. & Wolpert, R.L. (1988). *The Likelihood Principle* (2nd ed.). Haywood, CA: The Institute of Mathematical Statistics.
 Berger, J.O. (2003). Could Fisher, Jeffreys and Neyman have agreed on testing? *Statistical Science*, 18(1), 1--32.
 Birnbaum, A. (1962). On the foundations of statistical inference. *Journal of the American Statistical Association*, 57, 269--326.
@@ -17,6 +18,7 @@ Cowan, G. (2012). Discovery sensitivity for a counting experiment with backgroun
 Cowan, G. (2016). Statistics. In C. Patrignani \emph{et al}. (Particle Data Group), \emph{Chinese Physics C}, \emph{40}, 100001. \url{http://pdg.lbl.gov/2016/reviews/rpp2016-rev-statistics.pdf}
 Cram\'{e}r, H. (1946). A contribution to the theory of statistical estimation. *Skandinavisk Aktuarietidskrift*, 29, 85--94.
 Cranmer, K. (2015). Practical statistics for the LHC. https://arxiv.org/abs/1503.07622
+Cranmer, K., Brehmer, J., & Louppe, G. (2019). The frontier of simulation-based inference. https://arxiv.org/abs/1911.01429
 D'Agnolo, R.T. & Wulzer, A. (2019). Learning New Physics from a Machine. *Physical Review D*, 99, 015014. https://arxiv.org/abs/1806.02350
 Dewey, J. (1938). *Logic: The Theory of Inquiry*. New York: Henry Holt and Co.
 Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.
@@ -28,6 +30,7 @@ Fisher, R.A. (1935). *The Design of Experiments*. Hafner.
 Feldman, G.J., & Cousins, R.D. (1998). A unified approach to the classical statistical analysis of small signals. *Physical Review D*, 57, 3873. https://arxiv.org/abs/physics/9711021
 Fr\'{e}chet, M. (1943).  Sur l'extension de certaines \'{e}valuations statistiques au cas de petits \'{e}chantillons. *Revue de l'Institut International de Statistique*, 11, 182--205.
 Gandenberger, G. (2015). A new proof of the likelihood principle, *British Journal for the Philosophy of Science*, 66, 475--503.
+Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
 Goodman, N. (1955). *Fact, Fiction, and Forecast*. Harvard University Press.
 Hacking, I. (1965). *Logic of Statistical Inference*. Cambridge University Press.
@@ -39,6 +42,7 @@ Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed
 Ioannidis, J.P. (2005). Why most published research findings are false. *PLos Medicine*, 2(8), 696--701.
 James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
 Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
+Korb, K.B. (2001). Machine learning as philosophy of science. In *Proceedings of the ECML-PKDD-01 Workshop on Machine Learning as Experimental Philosophy of Science*, Freiburg.
 Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53.
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
 Mayo, D.G. (1981). In defense of the Neyman-Pearson theory of confidence intervals. *Philosophy of Science*, 48(2), 269--280.
@@ -46,6 +50,7 @@ Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*. Chicago Uni
 Mayo, D.G. & Spanos, A. (2011). Error statistics. In *Philosophy of Statistics* (pp. 153--198). North-Holland.
 Mayo, D.G. (2014). On the Birnbaum Argument for the Strong Likelihood Principle, *Statistical Science*, 29, 227--266.
 Mayo, D.G. (2018). *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*. Cambridge University Press.
+Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
 Neyman, J., & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
 Peirce, C.S. (1883). *Studies in Logic*. Boston: Little, Brown, and Co.
 Rao, C.R. (1945). Information and the accuracy attainable in the estimation of statistical parameters. *Bulletin of the Calcutta Mathematical Society*, 37, 81--91.
@@ -71,3 +76,4 @@ Wasserstein, R.L., & Lazar, N.A. (2016). The ASA's statement on p-values: Contex
 Weintraub, R. (1995). What was Hume's contribution to the problem of induction? *The Philosophical Quarterly*, 45, 460--470.
 Weisberg, J. (2019). *Odds & Ends: Introducing Probability & Decision with a Visual Emphasis*. https://jonathanweisberg.org/vip/
 Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62.
+Williamson, J. (2009). The philosophy of science and its relation to machine learning. In *Scientific Data Mining and Knowledge Discovery* (pp. 77-89). Springer, Berlin, Heidelberg.

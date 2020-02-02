@@ -142,6 +142,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 
 ### Statistical hypothesis testing
 
+-   Null hypothesis significance testing (NHST)
 -   Type-1 and type-2 errors in Neyman-Pearson theory
 -   Power and confidence
 -   Neyman-Pearson lemma [^Neyman1933]
@@ -182,12 +183,12 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 
 Responses:
 
--   Cox
 -   Carnap
     -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
--   Hacking
+-   David Cox
+-   Ian Hacking
     -   *Logic of Statistical Inference* [^Hacking1965]
--   Berger [^Berger2003]
+-   Jim Berger [^Berger2003]
 -   Deborah Mayo
     -   "In defense of the Neyman-Pearson theory of confidence intervals" [^Mayo1981]
     -   Concept of "Learning from error" in *Error and the Growth of Experimental Knowledge* [^Mayo1996]
@@ -196,17 +197,22 @@ Responses:
     -   [Statistics Wars: Interview with Deborah Mayo](https://blog.apaonline.org/2019/03/07/interview-with-deborah-mayo/) - APA blog
     -   [Review of *SIST* by Prasanta S. Bandyopadhyay](https://ndpr.nd.edu/news/statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/)
 -   Andrew Gelman
+    -   Beyond subjective and objective in statistics [^Gelman2017]
     -   [Confirmationist and falsificationist paradigms of science](https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/) - Sept. 5, 2014
     -   [Retire Statistical Significance: The discussion](https://statmodeling.stat.columbia.edu/2019/03/20/retire-statistical-significance-the-discussion/)
     -   [Exchange with Deborah Mayo on abandoning statistical significance](https://statmodeling.stat.columbia.edu/2019/09/11/exchange-with-deborah-mayo-on-abandoning-statistical-significance/)
     -   [Several reviews of *SIST*](https://statmodeling.stat.columbia.edu/2019/04/12/several-reviews-of-deborah-mayos-new-book-statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/)
+-   Kevin P. Murphy
+    -    Pathologies of frequentist statistics [^Murphy2012ch6]
 
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
+[^Gelman2017]: @Gelman_2017_Beyond_subjective_and_objective_in_statistics\.
 [^Mayo1981]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
+[^Murphy2012ch6]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, ch. 6.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
 
 
@@ -266,8 +272,11 @@ Responses:
 
 ### Auto-science
 
+-   AutoML and AutoScience
+
 ![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis [@Asch_2018_Big_data_and_extreme_scale_computing_Pathways]. ](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
 
+-   "The frontier of simulation-based inference" [^Cranmer2019]
 -   Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. [^Asch2018]
     -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
 -   Learning New Physics from a Machine [^DAgnolo2019]
@@ -275,15 +284,23 @@ Responses:
 
 [^Anderson2008]: @Anderson_2008_The_End_of_Theory_The_data_deluge_makes\.
 [^Asch2018]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
+[^Cranmer2019]: @Cranmer_2019_The_frontier_of_simulation_based_inference\.
 [^DAgnolo2019]: @DAgnolo_2019_Learning_New_Physics_from_a_Machine\.
 
 
 ### Implications for the realism debate
 
--   See the outline on [Scientific realism](scientific-realism.html)
+-   Korb [^Korb2001]
+-   Williamson [^Williamson2009]
+-   Bensusan [^Bensusan2000]
 -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/).
 -   Rationalism and empiricism in artificial intellegence:
     [Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation.](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291)
+-   See the [Outline on scientific realism](scientific-realism.html)
+
+[^Bensusan2000]: @Bensusan_2000_Is_machine_learning_experimental_philosophy\.
+[^Korb2001]: @Korb_2001_Machine_learning_as_philosophy_of_science\.
+[^Williamson2009]: @Williamson_2009_The_philosophy_of_science_and_its_relation\.
 
 
 My thoughts
