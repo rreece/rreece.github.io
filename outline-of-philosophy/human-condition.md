@@ -73,7 +73,7 @@ C.S. Lewis' translation[^Lewis1955] of lines from Lucretius' *De rerum natura*:
 
 ### Existentialism
 
--   Sarte
+-   Sartre
 -   Camus
 
 

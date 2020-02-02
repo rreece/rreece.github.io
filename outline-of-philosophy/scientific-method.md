@@ -452,7 +452,7 @@ Peirce:
     we can probablistically justify assumptions of uniformity.
 -   Ontological implications of science.
 -   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
--   See the outline on [Scientific realism](scientific-realism.html).
+-   See the [Outline on scientific realism](scientific-realism.html).
 
 ![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g)).](img/knowledge.png){#fig:knowledge-jtb-g}
 
@@ -473,7 +473,7 @@ The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*
 -   Monism
 -   Parmenides
 -   Reductionism
--   See the outline on [Naturalism](naturalism.html).
+-   See the [Outline on naturalism](naturalism.html).
 
 
 ### Pseudoscience
