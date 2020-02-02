@@ -222,8 +222,6 @@ Responses:
     -   [An introduction to likelihoodist, bayesian, and frequentist methods (2/3)](http://gandenberger.org/2014/08/26/intro-to-statistical-methods-3/)
     -   [An argument against likelihoodist methods as genuine alternatives to bayesian and frequentist methods](http://gandenberger.org/2013/10/21/against-likelihoodist-methods/)
     -   "Why I am not a likelihoodist" [^Gandenberger2016]
--   stats.stackexchange.com
-    -   [If the likelihood principle clashes with frequentist probability then do we discard one of them?](https://stats.stackexchange.com/questions/40856/if-the-likelihood-principle-clashes-with-frequentist-probability-then-do-we-disc)
 
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
@@ -286,7 +284,11 @@ Responses:
     -   classification = supervised; clustering = unsupervised
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
 -   *Deep Learning*
--   reinforcement learning
+-   Natural language processing (NLP)
+    -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/).
+    -   Rationalism and empiricism in artificial intellegence:
+        [Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation.](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291)
+-   Reinforcement learning (RL)
 
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
 
@@ -314,9 +316,6 @@ Responses:
 -   Korb [^Korb2001]
 -   Williamson [^Williamson2009]
 -   Bensusan [^Bensusan2000]
--   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/).
--   Rationalism and empiricism in artificial intellegence:
-    [Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation.](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291)
 -   See the [Outline on scientific realism](scientific-realism.html)
 
 [^Bensusan2000]: @Bensusan_2000_Is_machine_learning_experimental_philosophy\.
@@ -548,6 +547,7 @@ Click to show links
 -   [Graunt, John (1620-1674)](http://statprob.com/encyclopedia/JohnGRAUNT.html) - statprob.com
 -   [Peng, R. (2016). A Simple Explanation for the Replication Crisis in Science.](http://simplystatistics.org/2016/08/24/replication-crisis/) - simplystatistics.org
 -   [Why is binary classification not a hypothesis test?](https://stats.stackexchange.com/questions/240138/why-is-binary-classification-not-a-hypothesis-test) - stackexchange.com
+-   [If the likelihood principle clashes with frequentist probability then do we discard one of them?](https://stats.stackexchange.com/questions/40856/if-the-likelihood-principle-clashes-with-frequentist-probability-then-do-we-disc) - stackexchange.com
 
 </div>
 
