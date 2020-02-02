@@ -98,33 +98,6 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 [^Weisberg2019]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\.
 
 
-### Likelihood principle
-
--   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
--   The likelihood principle is the proposition that, given a statistical model and a data sample,
-    all the evidence relevant to model parameters is contained in the likelihood function.
--   The history of likelihood [^Edwards1974]
-    -   Allan Birnbaum proved that the likelihood principle follows from two more primitive
-        and seemingly reasonable principles,
-        the [conditionality principle](https://en.wikipedia.org/wiki/Conditionality_principle)
-        and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic).  [^Birnbaum1962]
-    -   Hacking identified the "law of likelihood". [^Hacking1965]
--   Berger & Wolpert. (1988). *The Likelihood Principle* [^Berger1988]
--   Criticisms:
-    -   Evans [^Evans2013]
-    -   Mayo [^Mayo2014]
--   Gandenberger's proof [^Gandenberger2015]
--   Violated by both Frequentists and Bayesians
--   [Likelihoodist statistics](https://en.wikipedia.org/wiki/Likelihoodist_statistics)
-
-[^Berger1988]: @Berger_1988_The_Likelihood_Principle\.
-[^Evans2013]: @Evans_2013_What_does_the_proof_of_Birnbaums_theorem_prove\.
-[^Edwards1974]: @Edwards_1974_The_history_of_likelihood\.
-[^Gandenberger2015]: @Gandenberger_2015_A_new_proof_of_the_likelihood_principle\.
-[^Hacking1965]: @Hacking_1965_Logic_of_Statistical_Inference\.
-[^Mayo2014]: @Mayo_2014_On_the_Birnbaum_Argument_for_the_Strong_Likelihood\.
-
-
 ### Point estimation and confidence intervals
 
 -   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
@@ -179,6 +152,35 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 [^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
 
 
+### Likelihood principle
+
+-   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
+-   The likelihood principle is the proposition that, given a statistical model and a data sample,
+    all the evidence relevant to model parameters is contained in the likelihood function.
+-   The history of likelihood [^Edwards1974]
+    -   Allan Birnbaum proved that the likelihood principle follows from two more primitive
+        and seemingly reasonable principles,
+        the [conditionality principle](https://en.wikipedia.org/wiki/Conditionality_principle)
+        and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic).  [^Birnbaum1962]
+    -   Hacking identified the "law of likelihood". [^Hacking1965]
+-   Berger & Wolpert. (1988). *The Likelihood Principle* [^Berger1988]
+-   Criticisms:
+    -   Evans [^Evans2013]
+    -   Mayo [^Mayo2014]
+-   Gandenberger
+    -   "A new proof of the likelihood principle" [^Gandenberger2015]
+    -   [gandenberger.org/research](http://gandenberger.org/research/)
+    -   [Do frequentist methods violate the likelihood principle?](http://gandenberger.org/2014/04/28/do-frequentist-methods-violate-lp/)
+-   [Likelihoodist statistics](https://en.wikipedia.org/wiki/Likelihoodist_statistics)
+
+[^Berger1988]: @Berger_1988_The_Likelihood_Principle\.
+[^Evans2013]: @Evans_2013_What_does_the_proof_of_Birnbaums_theorem_prove\.
+[^Edwards1974]: @Edwards_1974_The_history_of_likelihood\.
+[^Gandenberger2015]: @Gandenberger_2015_A_new_proof_of_the_likelihood_principle\.
+[^Hacking1965]: @Hacking_1965_Logic_of_Statistical_Inference\.
+[^Mayo2014]: @Mayo_2014_On_the_Birnbaum_Argument_for_the_Strong_Likelihood\.
+
+
 ### "Statistics Wars"
 
 Responses:
@@ -204,9 +206,21 @@ Responses:
     -   [Several reviews of *SIST*](https://statmodeling.stat.columbia.edu/2019/04/12/several-reviews-of-deborah-mayos-new-book-statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/)
 -   Kevin P. Murphy
     -    Pathologies of frequentist statistics [^Murphy2012ch6]
+-   Greg Gandenberger
+    -   [An introduction to likelihoodist, bayesian, and frequentist methods (1/3)](http://gandenberger.org/2014/07/21/intro-to-statistical-methods/)
+    -   As Neyman and Pearson put it in their original presentation of the frequentist approach,
+        "without hoping to know whether each separate hypothesis is true or false,
+        we may search for rules to govern our behavior with regard to them, in the
+        following which we insure that, in the long run of experience, we shall not
+        too often be wrong" (1933, 291). 
+    -   [An introduction to likelihoodist, bayesian, and frequentist methods (2/3)](http://gandenberger.org/2014/07/28/intro-to-statistical-methods-2/)
+    -   [An introduction to likelihoodist, bayesian, and frequentist methods (2/3)](http://gandenberger.org/2014/08/26/intro-to-statistical-methods-3/)
+    -   [An argument against likelihoodist methods as genuine alternatives to bayesian and frequentist methods](http://gandenberger.org/2013/10/21/against-likelihoodist-methods/)
+    -   "Why I am not a likelihoodist" [^Gandenberger2016]
 
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
+[^Gandenberger2016]: @Gandenberger_2016_Why_I_am_not_a_likelihoodist\.
 [^Gelman2017]: @Gelman_2017_Beyond_subjective_and_objective_in_statistics\.
 [^Mayo1981]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
