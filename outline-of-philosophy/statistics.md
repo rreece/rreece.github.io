@@ -186,8 +186,6 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 
 ### "Statistics Wars"
 
-Responses:
-
 -   Carnap
     -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
 -   David Cox
