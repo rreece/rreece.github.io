@@ -358,7 +358,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### James, F. (2006). *Statistical Methods in Experimental Physics, 2nd Ed.*
+### James, F. (2006). *Statistical Methods in Experimental Physics*.
 
 -   @James_2006_Statistical_Methods_in_Experimental_Particle
 
@@ -379,7 +379,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector.
+### ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson.
 
 -   @ATLAS_2012_Combined_search_for_the_Standard_Model_Higgs_boson
 -   [arxiv:1207.0319](http://arxiv.org/abs/1207.0319)
