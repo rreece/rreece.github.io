@@ -147,7 +147,10 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
     -   *Exploratory Data Analysis* (1977) [^Tukey1977]
+-   Stopping rules
+    -   validation dataset
 -   "Data science"
+    -   Data collection, quality, analysis, archival, and reinterpretation
 
 [^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
 
