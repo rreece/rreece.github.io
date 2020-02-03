@@ -106,6 +106,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
     -   proof in Rice [^Rice2007p300]
 -   Pearson $\chi^2$
+-   Bayesian credability intervals
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
@@ -125,6 +126,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   $p$-values and significance [^Cowan2012]
 -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
 -   Asymptotics [^Cowan2011]
+-   Bayesian decision theory
 
 [^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
