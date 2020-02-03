@@ -126,11 +126,12 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   $p$-values and significance [^Cowan2012]
 -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
 -   Asymptotics [^Cowan2011]
--   Bayesian decision theory
+-   Frequentist vs bayesian decision theory [^Murphy2012p197]
 
 [^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
 [^Feldman1998]: @Feldman_1998_A_unified_approach_to_the_classical_statistical\.
+[^Murphy2012p197]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 197.
 [^Neyman1933]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
 [^Wald1943]: @Wald_1943_Tests_of_statistical_hypotheses_concerning_several\.
 [^Wilks1938]: @Wilks_1938_The_large_sample_distribution_of_the_likelihood\.
@@ -233,7 +234,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
-[^Murphy2012ch6]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, ch. 6.
+[^Murphy2012ch6]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, ch. 6.6.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
 
 
