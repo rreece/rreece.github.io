@@ -106,6 +106,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
     -   proof in Rice [^Rice2007p300]
 -   Pearson $\chi^2$
+-   Neyman construction
 -   Bayesian credability intervals
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
@@ -511,6 +512,7 @@ Click to show links
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Misuse of p-values](https://en.wikipedia.org/wiki/Misuse_of_p-values)
 -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
+-   [Neyman construction](https://en.wikipedia.org/wiki/Neyman_construction)
 -   [Neyman-Pearson lemma](http://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma)
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
