@@ -118,16 +118,18 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
     -   proof in Rice [^Rice2007p300]
 -   Pearson $\chi^2$
+-   Accuracy vs precision [^Cowan1998pX]
 -   Uncertainty of measuring an efficiency
-    -   Accuracy vs precision [^Cowan1998pX]
     -   Precision vs recall for classification
     -   Classification and logistic regression
-    -   A/B-testing
 -   Neyman construction
 -   Bayesian credability intervals
--   Invariance of the likelihood
--   Examples: TODO
-
+    -   prior sensitivity
+    -   Invariance of the likelihood
+    -   Jeffreys priors
+-   Examples:
+    -   some sample mean
+    -   Bayesian lighthouse
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 [^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
@@ -151,7 +153,9 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
 -   Asymptotics [^Cowan2011]
 -   Frequentist vs bayesian decision theory [^Murphy2012p197]
--   Examples: TODO
+-   Examples:
+    -   New physics
+    -   A/B-testing
 
 [^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
@@ -552,6 +556,7 @@ Click to show links
 -   [Poisson, Sim&eacute;on Denis (1781-1840)](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
+-   [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
 -   [P-value](https://en.wikipedia.org/wiki/P-value)
 -   [Rao, C.R. (b. 1920)](https://en.wikipedia.org/wiki/C._R._Rao)
 -   [Savage, Leonard Jimmie (1917-1971)](https://en.wikipedia.org/wiki/Leonard_Jimmie_Savage)
