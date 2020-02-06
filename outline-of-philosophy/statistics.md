@@ -108,6 +108,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   Pearson $\chi^2$
 -   Neyman construction
 -   Bayesian credability intervals
+-   Invariance of the likelihood
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
@@ -123,11 +124,11 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 -   Type-1 and type-2 errors in Neyman-Pearson theory
 -   Power and confidence
 -   Neyman-Pearson lemma [^Neyman1933]
+-   Student's $t$-test
+-   ANOVA
 -   Wilks [^Wilks1938] and Wald [^Wald1943]
 -   $p$-values and significance [^Cowan2012]
 -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
--   Student's $t$-test
--   ANOVA
 -   Asymptotics [^Cowan2011]
 -   Frequentist vs bayesian decision theory [^Murphy2012p197]
 
