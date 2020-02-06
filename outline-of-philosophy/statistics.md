@@ -216,7 +216,8 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 -   David Cox
 -   Ian Hacking
     -   *Logic of Statistical Inference* [^Hacking1965]
--   Jim Berger [^Berger2003]
+-   Jim Berger
+    -   "Could Fisher, Jeffreys, and Neyman have agreed on testing?" [^Berger2003]
 -   Deborah Mayo
     -   "In defense of the Neyman-Pearson theory of confidence intervals" [^Mayo1981]
     -   Concept of "Learning from error" in *Error and the Growth of Experimental Knowledge* [^Mayo1996]
