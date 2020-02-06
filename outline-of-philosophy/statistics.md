@@ -17,8 +17,21 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 ### Probability and uncertainty
 
 -   Kolmogorov
+-   Bayes' theorem
+
+$$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
+
 -   Frequentist vs Bayesian probability
     -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
+-   Cranmer
+
+>   Bayes's theorem is a theorem, so there's no debating it. It is not the case that
+>   Frequentists dispute whether Bayes's theorem is true. The debate is whether the
+>   necessary probabilities exist in the first place. If one can define the joint
+>   probability $P (A, B)$ in a frequentist way, then a Frequentist is perfectly
+>   happy using Bayes theorem. Thus, the debate starts at the very definition of
+>   probability. [^Cranmer2015p6]
+
 -   Carnap
     -   "The two concepts of probability" [^Carnap1945b]
     -   "Probability as a guide in life" [^Carnap1947]
@@ -29,6 +42,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
 [^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
+[^Cranmer2015p6]: @Cranmer_2015_Practical_statistics_for_the_LHC\, p. 6.
 [^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\, p. 171--2.
 
 
