@@ -37,11 +37,9 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
     -   "Probability as a guide in life" [^Carnap1947]
 -   Royall
     -   "What do these data say?" [^Royall1997p171]
--   Accuracy vs precision [^Cowan1998pX]
 
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
-[^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
 [^Cranmer2015p6]: @Cranmer_2015_Practical_statistics_for_the_LHC\, p. 6.
 [^Royall1997p171]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\, p. 171--2.
 
@@ -120,11 +118,19 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
     -   proof in Rice [^Rice2007p300]
 -   Pearson $\chi^2$
+-   Uncertainty of measuring an efficiency
+    -   Accuracy vs precision [^Cowan1998pX]
+    -   Precision vs recall for classification
+    -   Classification and logistic regression
+    -   A/B-testing
 -   Neyman construction
 -   Bayesian credability intervals
 -   Invariance of the likelihood
+-   Examples: TODO
+
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
+[^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
     @Rao_1945_Information_and_the_accuracy_attainable\, and
@@ -145,6 +151,7 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
 -   Asymptotics [^Cowan2011]
 -   Frequentist vs bayesian decision theory [^Murphy2012p197]
+-   Examples: TODO
 
 [^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
