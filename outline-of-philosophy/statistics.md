@@ -23,27 +23,17 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 
 -   Frequentist vs Bayesian probability
     -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
--   Cranmer
-
->   Bayes's theorem is a theorem, so there's no debating it. It is not the case that
->   Frequentists dispute whether Bayes's theorem is true. The debate is whether the
->   necessary probabilities exist in the first place. If one can define the joint
->   probability $P (A, B)$ in a frequentist way, then a Frequentist is perfectly
->   happy using Bayes theorem. Thus, the debate starts at the very definition of
->   probability. [^Cranmer2015p6]
-
 -   Carnap
     -   "The two concepts of probability" [^Carnap1945b]
     -   "Probability as a guide in life" [^Carnap1947]
 -   Royall
-    -   "What do these data say?" [^Royall1997]
+    -   "What do these data say?" [^Royall1997p171]
 -   Accuracy vs precision [^Cowan1998pX]
 
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
 [^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
-[^Cranmer2015p6]: @Cranmer_2015_Practical_statistics_for_the_LHC\, p. 6.
-[^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\, p. 171--2.
+[^Royall1997p171]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\, p. 171--2.
 
 
 ### Early investigators
@@ -211,11 +201,22 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 
 ### "Statistics Wars"
 
+-   Cranmer
+
+>   Bayes's theorem is a theorem, so there's no debating it. It is not the case that
+>   Frequentists dispute whether Bayes's theorem is true. The debate is whether the
+>   necessary probabilities exist in the first place. If one can define the joint
+>   probability $P (A, B)$ in a frequentist way, then a Frequentist is perfectly
+>   happy using Bayes theorem. Thus, the debate starts at the very definition of
+>   probability. [^Cranmer2015p6]
+
 -   Carnap
     -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
 -   David Cox
 -   Ian Hacking
     -   *Logic of Statistical Inference* [^Hacking1965]
+-   Richard Royall
+    -   *Statistical Evidence: A likelihood paradigm* [^Royall1997]
 -   Jim Berger
     -   "Could Fisher, Jeffreys, and Neyman have agreed on testing?" [^Berger2003]
 -   Deborah Mayo
@@ -233,7 +234,7 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
     -   [Several reviews of *SIST*](https://statmodeling.stat.columbia.edu/2019/04/12/several-reviews-of-deborah-mayos-new-book-statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/)
 -   Larry Wasserman
     -   [Statistical Principles?](https://normaldeviate.wordpress.com/2012/07/28/statistical-principles/)
--   Kevin P. Murphy
+-   Kevin Murphy
     -    Pathologies of frequentist statistics [^Murphy2012ch6]
 -   Greg Gandenberger
     -   [An introduction to likelihoodist, bayesian, and frequentist methods (1/3)](http://gandenberger.org/2014/07/21/intro-to-statistical-methods/)
@@ -249,6 +250,7 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
+[^Cranmer2015p6]: @Cranmer_2015_Practical_statistics_for_the_LHC\, p. 6.
 [^Gandenberger2016]: @Gandenberger_2016_Why_I_am_not_a_likelihoodist\.
 [^Gelman2017]: @Gelman_2017_Beyond_subjective_and_objective_in_statistics\.
 [^Mayo1981]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
@@ -256,6 +258,7 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
 [^Murphy2012ch6]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, ch. 6.6.
+[^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
 
 
