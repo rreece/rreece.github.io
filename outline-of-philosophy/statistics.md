@@ -144,6 +144,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 
 -   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekka Sinervo (PhyStat2003) [^Sinervo2013]
 -   Not to be confused with type-1 and type-2 errors in Neyman-Pearson theory
+-   Profiling and the profile likelihood
 
 [^Sinervo2013]: @Sinervo_2003_Definition_and_treatment_of_systematic\.
 
@@ -157,6 +158,7 @@ See the [Outline of the scientific method](scientific-method.html#induction)
     -   *Exploratory Data Analysis* (1977) [^Tukey1977]
 -   Stopping rules
     -   validation dataset
+    -   statistical issues
 -   "Data science"
     -   Data collection, quality, analysis, archival, and reinterpretation
 
