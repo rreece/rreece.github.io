@@ -37,6 +37,8 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
     -   "Probability as a guide in life" [^Carnap1947]
 -   Royall
     -   "What do these data say?" [^Royall1997p171]
+-   We will return to the frequentist vs bayesian debate in the section on the
+    ["Statistics Wars"](#statistics-wars).
 
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
@@ -144,19 +146,23 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 ### Statistical hypothesis testing
 
 -   Null hypothesis significance testing (NHST)
--   Type-1 and type-2 errors in Neyman-Pearson theory
--   Power and confidence
--   Neyman-Pearson lemma [^Neyman1933]
+-   Neyman-Pearson theory
+    -   Type-1 and type-2 errors
+    -   Power and confidence
+    -   Neyman-Pearson lemma [^Neyman1933]
 -   Student's $t$-test
--   ANOVA
--   Wilks [^Wilks1938] and Wald [^Wald1943]
+    -   ANOVA
 -   $p$-values and significance [^Cowan2012]
--   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
--   Asymptotics [^Cowan2011]
+    -   Coverage
+    -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
+-   Asymptotics
+    -   Wilks [^Wilks1938] and Wald [^Wald1943]
+    -   Cowan _et al_.[^Cowan2011]
 -   Frequentist vs bayesian decision theory [^Murphy2012p197]
 -   Examples:
-    -   New physics
+    -   Difference of two means: $t$-test
     -   A/B-testing
+    -   New physics
 
 [^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
