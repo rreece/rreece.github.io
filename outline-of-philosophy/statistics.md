@@ -128,7 +128,8 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
     -   Invariance of the likelihood
     -   Jeffreys priors
 -   Examples:
-    -   some sample mean
+    -   Some sample mean
+    -   Measuring efficiency 
     -   Bayesian lighthouse
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
