@@ -482,6 +482,7 @@ Click to show links
 -   [Confidence interval](https://en.wikipedia.org/wiki/Confidence_interval)
 -   [Cosmic variance](https://en.wikipedia.org/wiki/Cosmic_variance)
 -   [Cram&eacute;r-Rao bound](http://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound)
+-   [Cram&eacute;r, Harald (1893-1985)](https://en.wikipedia.org/wiki/Harald_Cram%C3%A9r)
 -   [Data science](https://en.wikipedia.org/wiki/Data_science)
 -   [Decision theory](https://en.wikipedia.org/wiki/Decision_theory)
 -   [Deductive-nomological model](https://en.wikipedia.org/wiki/Deductive-nomological_model)
@@ -526,6 +527,7 @@ Click to show links
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
 -   [P-value](https://en.wikipedia.org/wiki/P-value)
+-   [Rao, C.R. (b. 1920)](https://en.wikipedia.org/wiki/C._R._Rao)
 -   [Savage, Leonard Jimmie (1917-1971)](https://en.wikipedia.org/wiki/Leonard_Jimmie_Savage)
 -   [Solomonoff, Ray (1926-2009)](https://en.wikipedia.org/wiki/Ray_Solomonoff)
 -   [Solomonoff's theory of inductive inference](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference)
@@ -549,6 +551,7 @@ Click to show links
 -   [Uniformitarianism](http://en.wikipedia.org/wiki/Uniformitarianism)
 -   [Unsolved problems in statistics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_statistics)
 -   [Venn, John (1834-1923)](https://en.wikipedia.org/wiki/John_Venn)
+-   [Wilks, S.S. (1906-1964)](https://en.wikipedia.org/wiki/Samuel_S._Wilks)
 
 ### Others
 
