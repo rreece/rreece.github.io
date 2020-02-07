@@ -130,15 +130,15 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 -   Uncertainty of measuring an efficiency
     -   Precision vs recall for classification
     -   Classification and logistic regression
--   Neyman construction
 -   Bayesian credability intervals
     -   prior sensitivity
-    -   not invariant to reparametrization
-    -   Jeffreys priors
+    -   not invariant to reparametrization in general
+    -   Jeffreys priors are
 -   Examples:
     -   Some sample mean
     -   Measuring efficiency 
     -   Bayesian lighthouse
+    -   Some HEP fit
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 [^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
@@ -156,14 +156,16 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
     -   Type-1 and type-2 errors
     -   Power and confidence
     -   Neyman-Pearson lemma [^Neyman1933]
--   Student's $t$-test
-    -   ANOVA
+    -   Neyman construction
 -   $p$-values and significance [^Cowan2012]
     -   Coverage
     -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
+-   Student's $t$-test
+    -   ANOVA
 -   Asymptotics
-    -   Wilks [^Wilks1938] and Wald [^Wald1943]
+    -   Wilks [^Wilks1938]
     -   Pearson $\chi^2$-test
+    -   Wald [^Wald1943]
     -   Cowan _et al_.[^Cowan2011]
 -   Frequentist vs bayesian decision theory [^Murphy2012p197]
 -   Examples:
