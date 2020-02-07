@@ -14,7 +14,7 @@ Issues and positions
 See the [Outline of the scientific method](scientific-method.html#induction)
 
 
-### Probability and uncertainty
+### Probability, likelihood, and uncertainty
 
 -   Kolmogorov
 -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
@@ -23,6 +23,13 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 
 -   Frequentist vs Bayesian probability
+
+$$ P(T|D) = P(D|T) \: P(T) \: / \: P(D) \label{eq:bayes_theorem_td} $$
+
+-   Likelihood
+
+$$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
+
 -   Cranmer
 
 >   Bayes's theorem is a theorem, so there's no debating it. It is not the case that
@@ -39,6 +46,7 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
     -   "What do these data say?" [^Royall1997p171]
 -   We will return to the frequentist vs bayesian debate in the section on the
     ["Statistics Wars"](#statistics-wars).
+-   Uncertainty quantification
 
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
