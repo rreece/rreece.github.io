@@ -25,6 +25,7 @@ a measure of inductive confidence.
 
 $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 
+-   Example of conditioning with medical diagnostics
 -   Frequentist vs Bayesian probability
 
 $$ P(H|X) = P(X|H) \: P(H) \: / \: P(X) \label{eq:bayes_theorem_hx} $$
