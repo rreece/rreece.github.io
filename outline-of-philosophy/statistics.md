@@ -139,6 +139,8 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
     -   Measuring efficiency 
     -   Bayesian lighthouse
     -   Some HEP fit
+-   TODO:
+    -   Explain if/why the Neyman construction would be needed for point estimation.
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 [^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
