@@ -174,6 +174,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
     -   Neyman construction
 -   $p$-values and significance [^Cowan2012]
     -   Coverage
+    -   Fisherian vs Neyman-Pearson $p$-values
     -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
 -   Student's $t$-test
     -   ANOVA
@@ -628,6 +629,7 @@ Click to show links
 
 ### Others
 
+-   [Deep Learning: Our Miraculous Year 1990-1991](http://people.idsia.ch/~juergen/deep-learning-miraculous-year-1990-1991.html) - Schmidhuber
 -   [errorstatistics.com](http://errorstatistics.com/) - Deborah Mayo's blog
 -   [Graunt, John (1620-1674)](http://statprob.com/encyclopedia/JohnGRAUNT.html) - statprob.com
 -   [Peng, R. (2016). A Simple Explanation for the Replication Crisis in Science.](http://simplystatistics.org/2016/08/24/replication-crisis/) - simplystatistics.org
