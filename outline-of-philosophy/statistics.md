@@ -116,18 +116,24 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 
 -   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
 -   regression
+-   Bias and variance
+    -   Accuracy vs precision [^Cowan1998pX]
 -   MLE: Maximum likelihood estimators, Fisher [^Aldrich1997]
+-   Variance of MLEs
+    -   Taylor expansion of a likelihood near its maximum
+    -   Analytic variance of gaussian likelihoods: $\chi^2$
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
+    -   for unbiased and efficient estimators
     -   proof in Rice [^Rice2007p300]
--   Pearson $\chi^2$
--   Accuracy vs precision [^Cowan1998pX]
+-   Variance of MLEs by the method of $\Delta\chi^2$ or $\Delta{}L$
+    -   Invariance of likelihoods to reparametrization
 -   Uncertainty of measuring an efficiency
     -   Precision vs recall for classification
     -   Classification and logistic regression
 -   Neyman construction
 -   Bayesian credability intervals
     -   prior sensitivity
-    -   Invariance of the likelihood
+    -   not invariant to reparametrization
     -   Jeffreys priors
 -   Examples:
     -   Some sample mean
@@ -157,6 +163,7 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
     -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
 -   Asymptotics
     -   Wilks [^Wilks1938] and Wald [^Wald1943]
+    -   Pearson $\chi^2$-test
     -   Cowan _et al_.[^Cowan2011]
 -   Frequentist vs bayesian decision theory [^Murphy2012p197]
 -   Examples:
@@ -370,6 +377,15 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 
 My thoughts
 --------------------------------------------------------------------------------
+
+My docs:
+
+-   [Derivation of the Cram&eacute;r-Rao Bound](http://rreece.github.io/publications/pdf/2009.Reece.Derivation-of-the-Cramer-Rao-Bound.pdf)
+
+My talks:
+
+-   [Likelihood functions for supersymmetric observables](http://rreece.github.io/talks/pdf/2009-09-29-RReece-Likelihood-functions-for-SUSY.pdf)
+-   [Primer on statistics: MLE, confidence intervals, and hypothesis testing](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis

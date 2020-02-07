@@ -200,13 +200,25 @@
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Inverse_problem">Inverse problem</a></li>
 <li>regression</li>
-<li>MLE: Maximum likelihood estimators, Fisher<a href="#fn18" class="footnoteRef" id="fnref18"><sup>18</sup></a></li>
-<li>Cram&#233;r-Rao bound<a href="#fn19" class="footnoteRef" id="fnref19"><sup>19</sup></a>
+<li>Bias and variance
 <ul>
-<li>proof in Rice<a href="#fn20" class="footnoteRef" id="fnref20"><sup>20</sup></a></li>
+<li>Accuracy vs precision<a href="#fn18" class="footnoteRef" id="fnref18"><sup>18</sup></a></li>
 </ul></li>
-<li>Pearson <span class="math inline">\(\chi^2\)</span></li>
-<li>Accuracy vs precision<a href="#fn21" class="footnoteRef" id="fnref21"><sup>21</sup></a></li>
+<li>MLE: Maximum likelihood estimators, Fisher<a href="#fn19" class="footnoteRef" id="fnref19"><sup>19</sup></a></li>
+<li>Variance of MLEs
+<ul>
+<li>Taylor expansion of a likelihood near its maximum</li>
+<li>Analytic variance of gaussian likelihoods: <span class="math inline">\(\chi^2\)</span></li>
+</ul></li>
+<li>Cram&#233;r-Rao bound<a href="#fn20" class="footnoteRef" id="fnref20"><sup>20</sup></a>
+<ul>
+<li>for unbiased and efficient estimators</li>
+<li>proof in Rice<a href="#fn21" class="footnoteRef" id="fnref21"><sup>21</sup></a></li>
+</ul></li>
+<li>Variance of MLEs by the method of <span class="math inline">\(\Delta\chi^2\)</span> or <span class="math inline">\(\Delta{}L\)</span>
+<ul>
+<li>Invariance of likelihoods to reparametrization</li>
+</ul></li>
 <li>Uncertainty of measuring an efficiency
 <ul>
 <li>Precision vs recall for classification</li>
@@ -216,7 +228,7 @@
 <li>Bayesian credability intervals
 <ul>
 <li>prior sensitivity</li>
-<li>Invariance of the likelihood</li>
+<li>not invariant to reparametrization</li>
 <li>Jeffreys priors</li>
 </ul></li>
 <li>Examples:
@@ -247,6 +259,7 @@
 <li>Asymptotics
 <ul>
 <li>Wilks<a href="#fn25" class="footnoteRef" id="fnref25"><sup>25</sup></a> and Wald<a href="#fn26" class="footnoteRef" id="fnref26"><sup>26</sup></a></li>
+<li>Pearson <span class="math inline">\(\chi^2\)</span>-test</li>
 <li>Cowan <em>et al</em>.<a href="#fn27" class="footnoteRef" id="fnref27"><sup>27</sup></a></li>
 </ul></li>
 <li>Frequentist vs bayesian decision theory<a href="#fn28" class="footnoteRef" id="fnref28"><sup>28</sup></a></li>
@@ -427,6 +440,15 @@
 <li>See the <a href="scientific-realism.html">Outline on scientific realism</a></li>
 </ul>
 <h2 id="my-thoughts">My thoughts</h2>
+<p>My docs:</p>
+<ul>
+<li><a href="http://rreece.github.io/publications/pdf/2009.Reece.Derivation-of-the-Cramer-Rao-Bound.pdf">Derivation of the Cram&#233;r-Rao Bound</a></li>
+</ul>
+<p>My talks:</p>
+<ul>
+<li><a href="http://rreece.github.io/talks/pdf/2009-09-29-RReece-Likelihood-functions-for-SUSY.pdf">Likelihood functions for supersymmetric observables</a></li>
+<li><a href="http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf">Primer on statistics: MLE, confidence intervals, and hypothesis testing</a></li>
+</ul>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2 id="annotated-bibliography">Annotated bibliography</h2>
 <h3 id="mayo-d.g.-1996.-error-and-the-growth-of-experimental-knowledge.">Mayo, D.G. (1996). <em>Error and the Growth of Experimental Knowledge</em>.</h3>
@@ -855,10 +877,10 @@
 <li id="fn15"><p><span class="citation">Cowan (1998)</span> and <span class="citation">Cowan (2016)</span>.<a href="#fnref15">&#8617;</a></p></li>
 <li id="fn16"><p><span class="citation">Cranmer (2015)</span>.<a href="#fnref16">&#8617;</a></p></li>
 <li id="fn17"><p><span class="citation">Weisberg (2019)</span>.<a href="#fnref17">&#8617;</a></p></li>
-<li id="fn18"><p><span class="citation">Aldrich (1997)</span>.<a href="#fnref18">&#8617;</a></p></li>
-<li id="fn19"><p><span class="citation">Fr&#233;chet (1943)</span>, <span class="citation">Cram&#233;r (1946)</span>, <span class="citation">Rao (1945)</span>, and <span class="citation">Rao (1947)</span>.<a href="#fnref19">&#8617;</a></p></li>
-<li id="fn20"><p><span class="citation">Rice (2007)</span>, p.&#160;300&#8211;2.<a href="#fnref20">&#8617;</a></p></li>
-<li id="fn21"><p><span class="citation">Cowan (1998)</span> and <span class="citation">Cowan (2016)</span>, p.&#160;X.<a href="#fnref21">&#8617;</a></p></li>
+<li id="fn18"><p><span class="citation">Cowan (1998)</span> and <span class="citation">Cowan (2016)</span>, p.&#160;X.<a href="#fnref18">&#8617;</a></p></li>
+<li id="fn19"><p><span class="citation">Aldrich (1997)</span>.<a href="#fnref19">&#8617;</a></p></li>
+<li id="fn20"><p><span class="citation">Fr&#233;chet (1943)</span>, <span class="citation">Cram&#233;r (1946)</span>, <span class="citation">Rao (1945)</span>, and <span class="citation">Rao (1947)</span>.<a href="#fnref20">&#8617;</a></p></li>
+<li id="fn21"><p><span class="citation">Rice (2007)</span>, p.&#160;300&#8211;2.<a href="#fnref21">&#8617;</a></p></li>
 <li id="fn22"><p><span class="citation">Neyman &amp; Pearson (1933)</span>.<a href="#fnref22">&#8617;</a></p></li>
 <li id="fn23"><p><span class="citation">Sinervo (2002)</span> and <span class="citation">Cowan (2012)</span>.<a href="#fnref23">&#8617;</a></p></li>
 <li id="fn24"><p><span class="citation">Feldman &amp; Cousins (1998)</span>.<a href="#fnref24">&#8617;</a></p></li>
