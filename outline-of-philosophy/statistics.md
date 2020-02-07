@@ -16,6 +16,9 @@ See the [Outline of the scientific method](scientific-method.html#induction)
 
 ### Probability, likelihood, and uncertainty
 
+Probability is of epistemic interest, being in some sense
+a measure of inductive confidence.
+
 -   Kolmogorov
 -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   Bayes' theorem
