@@ -154,6 +154,8 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 ### Statistical hypothesis testing
 
 -   Null hypothesis significance testing (NHST)
+    -   goodness of fit
+    -   probes an alternative hypothesis
 -   Neyman-Pearson theory
     -   Type-1 and type-2 errors
     -   Power and confidence
