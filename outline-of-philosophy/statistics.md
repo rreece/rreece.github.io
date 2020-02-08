@@ -167,8 +167,13 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 
 -   Null hypothesis significance testing (NHST)
     -   goodness of fit
-    -   probes an alternative hypothesis
+    -   Fisher:
+
+>   [T]he null hypothesis is never proved or established,
+>   but is possibly disproved, in the course of experimentation. [^Fisher1935p16]
+
 -   Neyman-Pearson theory
+    -   probes an alternative hypothesis
     -   Type-1 and type-2 errors
     -   Power and confidence
     -   Neyman-Pearson lemma [^Neyman1933]
@@ -193,6 +198,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 [^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
 [^Feldman1998]: @Feldman_1998_A_unified_approach_to_the_classical_statistical\.
+[^Fisher1935p16]: @Fisher_1935_The_Design_of_Experiments\, p. 16.
 [^Murphy2012p197]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 197.
 [^Neyman1933]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
 [^Wald1943]: @Wald_1943_Tests_of_statistical_hypotheses_concerning_several\.
@@ -582,9 +588,11 @@ Click to show links
 -   [Jeffreys prior](https://en.wikipedia.org/wiki/Jeffreys_prior)
 -   [Kolmogorov, Andrey (1903-1987)](https://en.wikipedia.org/wiki/Andrey_Kolmogorov)
 -   [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
+-   [Lady tasting tea](https://en.wikipedia.org/wiki/Lady_tasting_tea)
 -   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
 -   [Likelihoodist statistics](https://en.wikipedia.org/wiki/Likelihoodist_statistics)
+-   [List of important publications in statistics](https://en.wikipedia.org/wiki/List_of_important_publications_in_statistics)
 -   [Machine learning](https://en.wikipedia.org/wiki/Machine_learning)
 -   [Maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
