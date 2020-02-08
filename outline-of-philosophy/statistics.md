@@ -581,6 +581,7 @@ Click to show links
 -   [Induction, The problem of](http://en.wikipedia.org/wiki/Problem_of_induction)
 -   [Inductive reasoning](https://en.wikipedia.org/wiki/Inductive_reasoning)
 -   [Interval estimation](http://en.wikipedia.org/wiki/Interval_estimation)
+-   [Inverse probability](https://en.wikipedia.org/wiki/Inverse_probability)
 -   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
 -   [Ivakhnenko, Alexey (1913-2007)](https://en.wikipedia.org/wiki/Alexey_Ivakhnenko)
 -   [Jeffrey, Richard (1926-2002)](https://en.wikipedia.org/wiki/Richard_Jeffrey)
