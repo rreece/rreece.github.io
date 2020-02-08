@@ -64,6 +64,7 @@ Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252-
 Salmon, W.C. (1966). *The Foundations of Scientific Inference*. University of Pittsburgh Press.
 Salmon, W. C. (1967). Carnap's inductive logic. *The Journal of Philosophy*, 64, 725--739.
 Salmon, W.C. (1991). Hans Reichenbach's vindication of induction. *Erkenntnis*, 35, 99--122.
+Salsburg, D. (2001). *The Lady Tasting Tea*. Holt.
 Savage, L.J. (1954). *The Foundations of Statistics*. John Wiley & Sons.
 Sellars, W. (1964). Induction as vindication. *Philosophy of Science*, 31, 197--231.
 Sinervo, P. (2002). Signal significance in particle physics. In Whalley, M.R. & Lyons, L. (Eds.), *Proceedings of the Conference on Advanced Statistical Techniques in Particle Physics*. Durham, UK: Institute of Particle Physics Phenomenology. https://arxiv.org/abs/hep-ex/0208005v1

@@ -98,6 +98,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
         -   On an absolute criterion for fitting frequency curves. [^Fisher1912]
         -   Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. [^Fisher1915]
         -   On the "probable error" of a coefficient of correlation deduced from a small sample [^Fisher1921] - definition of *likelihood*
+        -   *The Lady Tasting Tea* [^Salsburg2001]
 -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
 -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
@@ -115,6 +116,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 [^Fisher1915]: @Fisher_1915_Frequency_distribution_of_the_values\.
 [^Fisher1921]: @Fisher_1921_On_the_probable_error_of_a_coefficient\.
 [^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
+[^Salsburg2001]: @Salsburg_2001_The_Lady_Tasting_Tea\.
 
 [^Cousins2018]: @Cousins_2018_Lectures_on_statistics_in_theory_Prelude\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
