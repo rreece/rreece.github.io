@@ -34,6 +34,8 @@ Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 
 Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
 Goodman, N. (1955). *Fact, Fiction, and Forecast*. Harvard University Press.
+Goodman, S.N. (1999). Toward evidence-based medical statistics 1: The P value fallacy. *Annals of Internal Medicine*, 130(12), 995--1004.
+Goodman, S.N. (1999). Toward evidence-based medical statistics 2: The Bayes factor. *Annals of Internal Medicine*, 130(12), 1005--1013.
 Hacking, I. (1965). *Logic of Statistical Inference*. Cambridge University Press.
 Hacking, I. (1971). Jacques Bernoulli's Art of conjecturing. *The British Journal for the Philosophy of Science*, 22, 209--229.
 Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambridge University Press.

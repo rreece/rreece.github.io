@@ -175,7 +175,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 >   but is possibly disproved, in the course of experimentation. [^Fisher1935p16]
 
 -   Neyman-Pearson theory
-    -   probes an alternative hypothesis
+    -   probes an alternative hypothesis [^Goodman1999p998]
     -   Type-1 and type-2 errors
     -   Power and confidence
     -   Neyman-Pearson lemma [^Neyman1933]
@@ -201,6 +201,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
 [^Feldman1998]: @Feldman_1998_A_unified_approach_to_the_classical_statistical\.
 [^Fisher1935p16]: @Fisher_1935_The_Design_of_Experiments\, p. 16.
+[^Goodman1999p998]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 998.
 [^Murphy2012p197]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 197.
 [^Neyman1933]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
 [^Wald1943]: @Wald_1943_Tests_of_statistical_hypotheses_concerning_several\.
@@ -226,7 +227,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
     -   *Exploratory Data Analysis* (1977) [^Tukey1977]
 -   Stopping rules
     -   validation dataset
-    -   statistical issues
+    -   statistical issues, violates the likelihood principle
 -   "Data science"
     -   Data collection, quality, analysis, archival, and reinterpretation
 
