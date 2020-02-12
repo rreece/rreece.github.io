@@ -380,16 +380,17 @@ and the wonderful self-correcting nature of ampliative inference:
 Wikipedia:
 
 >   Today abduction remains most commonly understood as induction from characters
->   and extension of a known rule to cover unexplained circumstances. [^WikipediaAbductiveReasoning]
+>   and extension of a known rule to cover unexplained circumstances. [^WikipediaAbductiveReasoning1]
 
 Peirce:
 
 >   The surprising fact, C, is observed;
 >   
 >   But if A were true, C would be a matter of course,          
->   Hence, there is reason to suspect that A is true. [^WikipediaAbductiveReasoning]
+>   Hence, there is reason to suspect that A is true. [^WikipediaAbductiveReasoning2]
 
-[^WikipediaAbductiveReasoning]: <https://en.wikipedia.org/wiki/Abductive_reasoning>
+[^WikipediaAbductiveReasoning1]: <https://en.wikipedia.org/wiki/Abductive_reasoning>
+[^WikipediaAbductiveReasoning2]: Ibid.
 
 -   [Holmesian fallacy](https://rationalwiki.org/wiki/Holmesian_fallacy)
 
