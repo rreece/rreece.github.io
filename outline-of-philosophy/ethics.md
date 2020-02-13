@@ -65,14 +65,6 @@ Issues and positions
     -   @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes
     -   evolution of trust
 -   @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other
--   My thought experiment:
-    -   Agree that chess (or poker) has better and worse play
-    -   Add another task to the competition: do laundry while playing,
-        also while trying to sell a product over the phone,
-        or a more typical triatholan: cycle, swim, run, etc.
-        As we add tasks, there doesn't stop being better and worse
-        overall strategies, albeit complication grows.
-    -   Finally, we ask the meta question of what to do next.
 -   Michael Shermer and Massimo Pigliucci debate the role of science deriving morality:
     -   [vid](https://www.youtube.com/watch?v=4Qhlp-X3EHA)
     -   [blog 1](http://rationallyspeaking.blogspot.com/2013/01/michael-shermer-on-morality.html)
@@ -170,6 +162,16 @@ This sounds legit to me so far:
 -->
 
 There's no unified or received view of the fact/value, descriptive/normative divide since Hume. But that doesn't mean there aren't naturalistic philosophers that deny the dichotomy, i.e., would support the idea roughly that there is a scientific way of discussing and determining what is better. Health and nutrition seem like obvious plausible examples, really any reasoned strategy is normative: it tells one what one should do given what is known. In this sense many naturalists are aligned with game theoretic reasoning about what we should do.
+
+Tought experiment on moral naturalism:
+
+-   Agree that chess (or poker) has better and worse play
+-   Add another task to the competition: do laundry while playing,
+    also while trying to sell a product over the phone,
+    or a more typical triatholan: cycle, swim, run, etc.
+    As we add tasks, there doesn't stop being better and worse
+    overall strategies, albeit complication grows.
+-   Finally, we ask the meta question of what to do next.
 
 
 Annotated bibliography
