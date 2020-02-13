@@ -73,18 +73,14 @@ Issues and positions
         As we add tasks, there doesn't stop being better and worse
         overall strategies, albeit complication grows.
     -   Finally, we ask the meta question of what to do next.
+-   Michael Shermer and Massimo Pigliucci debate the role of science deriving morality:
+    -   [vid](https://www.youtube.com/watch?v=4Qhlp-X3EHA)
+    -   [blog 1](http://rationallyspeaking.blogspot.com/2013/01/michael-shermer-on-morality.html)
+    -   [blog 2](http://rationallyspeaking.blogspot.com/2013/02/towards-science-of-morality-reply-to.html)
+    -   [blog 3](http://rationallyspeaking.blogspot.com/2013/02/toward-science-of-morality-annotated.html)
+    -   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
 
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
-
-----------------------
-
-Michael Shermer and Massimo Pigliucci debate the role of science deriving morality:
-
--   [vid](https://www.youtube.com/watch?v=4Qhlp-X3EHA)
--   [blog 1](http://rationallyspeaking.blogspot.com/2013/01/michael-shermer-on-morality.html)
--   [blog 2](http://rationallyspeaking.blogspot.com/2013/02/towards-science-of-morality-reply-to.html)
--   [blog 3](http://rationallyspeaking.blogspot.com/2013/02/toward-science-of-morality-annotated.html)
--   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
 
 
 ### Aesthetics
