@@ -131,6 +131,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 -   [watch the 3 episodes](http://topdocumentaryfilms.com/atom-tim/)
 
+
 ### Quantum field theory
 
 #### Fields
@@ -230,6 +231,19 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 [^Haag1955]: @Haag_1955_On_quantum_field_theories\.
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
 [^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
+
+
+### Exotics in quantum field theory
+
+#### Non-perturbative features
+
+-   Sphalerons
+-   Instanton
+
+#### Higher gauge theory
+
+-   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
+
 
 #### Supersymmetry
 
