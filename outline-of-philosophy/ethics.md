@@ -71,6 +71,7 @@ Issues and positions
     -   [blog 2](http://rationallyspeaking.blogspot.com/2013/02/towards-science-of-morality-reply-to.html)
     -   [blog 3](http://rationallyspeaking.blogspot.com/2013/02/toward-science-of-morality-annotated.html)
     -   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
+-   See also the [Outline on naturalism](naturalism.html#moral-naturalism).
 
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 

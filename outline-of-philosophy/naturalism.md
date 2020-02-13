@@ -232,7 +232,7 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 [^Wilson1998]: @Wilson_1998_Consilience\.
 
 
-### Ethical naturalism
+### Moral naturalism
 
 Part of metaphysical naturalism.
 
