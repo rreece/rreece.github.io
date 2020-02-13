@@ -142,7 +142,7 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
 >   'Whether such a thing as metaphysics be at all possible?'
 >   
 >   If it be a science, how comes it that it cannot, like other sciences, 
->   obtain universal and permanent recognition ? If not, how can it maintain
+>   obtain universal and permanent recognition? If not, how can it maintain
 >   its pretensions, and keep the human mind in suspense with hopes, never ceasing, 
 >   yet never fulfilled? Whether then we demonstrate our knowledge or our ignorance 
 >   in this field, we must come once for all to a definite conclusion respecting 
