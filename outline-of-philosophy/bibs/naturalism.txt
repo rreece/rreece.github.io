@@ -11,7 +11,7 @@ Lewis, C.S. (1947). *Miracles: A Preliminary Study*. Geoffrey Bles.
 Maddy, P. (2007). *Second Philosophy*. Oxford University Press.
 McCrea, A. (2019). The magical thinking of guys who love logic. *The Outline*. https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic [February 15, 2019]
 Ney, A. (2018). The Politics of Fundamentality. https://fqxi.org/community/forum/topic/3095
-Ney, A. (2019). Are the questions of metaphysics more fundamental than those of science?. *Philosophy and Phenomenological Research*. [([forthcoming](https://philpapers.org/rec/NEYATQ-2))]
+Ney, A. (2019). Are the questions of metaphysics more fundamental than those of science?. *Philosophy and Phenomenological Research*. [(\href{https://philpapers.org/rec/NEYATQ-2}{forthcoming})]
 Oppenheim, P., & Putnam, H. (1958). Unity of science as a working hypothesis. In H. Feigl et al. (Eds.), *Minnesota Studies in the Philosophy of Science, Vol. II*. Minnesota University Press.
 Perrin, A.J. (2017). Stop Blaming Postmodernism for Post-Truth Politics. *The Chronicle of Higher Education*. http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845 [August 4, 2017]
 Pluckrose, H. (2016). Why I No Longer Identify as a Feminist. *Areo Magazine*. https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/ [December 26, 2016]

@@ -236,7 +236,7 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 
 Part of metaphysical naturalism.
 
-See the [Outline on ethics](ethics.html).
+See the [Outline on ethics](ethics.html#moral-naturalism).
 
 
 ### Criticisms of naturalism
