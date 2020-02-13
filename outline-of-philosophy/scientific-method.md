@@ -438,6 +438,7 @@ Peirce:
 -   Not a seven-step program
     -   Evidence based, anti-conspiracy, parsimony
     -   Scientism
+    -   See the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
 
 [^Hempel1948]: @Hempel_1948_Studies_in_the_logic_of_explanation\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.

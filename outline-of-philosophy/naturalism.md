@@ -117,28 +117,6 @@ Fundamentality:
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
 
 
-### Scientism
-
-![W.V. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
-
->   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
->   and it is these and no dim proxies that science is all about. Now how is such
->   robust realism to be reconciled with what we have just been through? The answer
->   is naturalism: the recognition that it is within science itself, and not in
->   some prior philosophy, that reality is properly to be identified and
->   described.  [^Quine-1981]
-
--   methodological naturalism
--   What are the limits of science?
--   Are there other ways of knowing?
--   Unity of knowledge
--   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
-
-[^Quine-1981]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
-    found in @Quine_1981_Theories_and_Things, p. 21.
-[^Wilson1998]: @Wilson_1998_Consilience\.
-
-
 ### Rejection of *a priori* metaphysics
 
 Metaphysical naturalism.
@@ -187,6 +165,31 @@ Opening lines to *ETMG*:
 
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
+
+
+### Scientism
+
+![W.V. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
+
+>   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
+>   and it is these and no dim proxies that science is all about. Now how is such
+>   robust realism to be reconciled with what we have just been through? The answer
+>   is naturalism: the recognition that it is within science itself, and not in
+>   some prior philosophy, that reality is properly to be identified and
+>   described.  [^Quine-1981]
+
+-   methodological naturalism
+-   What are the limits of science?
+-   Are there other ways of knowing?
+-   Unity of knowledge
+-   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
+-   Is there any unique project left for metaphysics?
+    -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
+
+[^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
+[^Quine-1981]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
+    found in @Quine_1981_Theories_and_Things, p. 21.
+[^Wilson1998]: @Wilson_1998_Consilience\.
 
 
 ### Monism
@@ -394,8 +397,10 @@ Click to show links
 ### SEP
 
 -   [d'Holbach, Baron Paul-Henri Thiry (1723-1789) ](http://plato.stanford.edu/entries/holbach/)
+-   [Fundamentality](https://plato.stanford.edu/entries/fundamentality/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
 -   [Locke's Philosophy of Science](https://plato.stanford.edu/entries/locke-philosophy-science/)
+-   [Metaphysics](https://plato.stanford.edu/entries/metaphysics/)
 -   [Miracles](http://plato.stanford.edu/entries/miracles/)
 -   [Monism](http://plato.stanford.edu/entries/monism/)
 -   [Multiple Realizability](http://plato.stanford.edu/entries/multiple-realizability/)
@@ -417,6 +422,7 @@ Click to show links
 -   [Fodor, Jerry (b. 1935)](http://www.iep.utm.edu/fodor/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Metaphilosophy, Contemporary](http://www.iep.utm.edu/con-meta/)
+-   [Metaphysics of Science](https://www.iep.utm.edu/met-scie/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
 -   [Natural Kinds](http://plato.stanford.edu/entries/natural-kinds/)
