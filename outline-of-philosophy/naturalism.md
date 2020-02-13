@@ -192,6 +192,22 @@ Opening lines to *ETMG*:
 [^Wilson1998]: @Wilson_1998_Consilience\.
 
 
+### Natural kinds
+
+Part of metaphysical naturalism.
+
+-   *Natural Kinds* [^Quine1969]
+-   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
+
+[^Quine1969]: @Quine_1969_Natural_kinds\.
+[^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
+
+
+See the [Outline on scientific realism](scientific-realism.html).
+
+See the [Outline on philosophy of mathematics](math.html#naturalism).
+
+
 ### Monism
 
 -   Parmenides
@@ -214,22 +230,6 @@ Opening lines to *ETMG*:
     -   The rewrite of chapter 3 in *Miracles* [^Lewis1947]
 
 [^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.
-
-
-### Natural kinds
-
-Part of metaphysical naturalism.
-
--   *Natural Kinds* [^Quine1969]
--   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
-
-[^Quine1969]: @Quine_1969_Natural_kinds\.
-[^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
-
-
-See the [Outline on scientific realism](scientific-realism.html).
-
-See the [Outline on philosophy of mathematics](math.html#naturalism).
 
 
 ### Ethical naturalism
