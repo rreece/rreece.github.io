@@ -167,31 +167,6 @@ Opening lines to *ETMG*:
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
 
 
-### Scientism
-
-![W.V. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
-
->   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
->   and it is these and no dim proxies that science is all about. Now how is such
->   robust realism to be reconciled with what we have just been through? The answer
->   is naturalism: the recognition that it is within science itself, and not in
->   some prior philosophy, that reality is properly to be identified and
->   described.  [^Quine-1981]
-
--   methodological naturalism
--   What are the limits of science?
--   Are there other ways of knowing?
--   Unity of knowledge
--   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
--   Is there any unique project left for metaphysics?
-    -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
-
-[^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
-[^Quine-1981]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
-    found in @Quine_1981_Theories_and_Things, p. 21.
-[^Wilson1998]: @Wilson_1998_Consilience\.
-
-
 ### Natural kinds
 
 Part of metaphysical naturalism.
@@ -230,6 +205,31 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
     -   The rewrite of chapter 3 in *Miracles* [^Lewis1947]
 
 [^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.
+
+
+### Scientism
+
+![W.V. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
+
+>   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
+>   and it is these and no dim proxies that science is all about. Now how is such
+>   robust realism to be reconciled with what we have just been through? The answer
+>   is naturalism: the recognition that it is within science itself, and not in
+>   some prior philosophy, that reality is properly to be identified and
+>   described.  [^Quine-1981]
+
+-   methodological naturalism
+-   What are the limits of science?
+-   Are there other ways of knowing?
+-   Unity of knowledge
+-   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
+-   Is there any unique project left for metaphysics?
+    -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
+
+[^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
+[^Quine-1981]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
+    found in @Quine_1981_Theories_and_Things, p. 21.
+[^Wilson1998]: @Wilson_1998_Consilience\.
 
 
 ### Ethical naturalism

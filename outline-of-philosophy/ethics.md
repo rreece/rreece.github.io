@@ -31,6 +31,7 @@ Issues and positions
 
 -   Bentham
 -   Mill
+-   Game theory
 -   @Portmore_2011_Commonsense_Consequentialism
 
 
@@ -47,12 +48,54 @@ Issues and positions
 
 -   Objectivism
 -   Structuralism
--   Ethical naturalism
--   Game theory
+-   Game/decision theory, again
 -   "The problem of what to do next" - David Deutsch ([yt](https://www.youtube.com/watch?v=J21QuHrIqXg), [txt](http://www.bretthall.org/david-deutsch--sam-harris.html))
 -   Victor Kraft (1880-1975) - the positivist with ethics!
+-   Ethical naturalism
+    -   See the outline on [Naturalism](naturalism.html#ethical-naturalism).
+-   Murdoch, Iris. (1999). *The Sovereignty of Good*.
 
-See the outline on [Naturalism](naturalism.html#ethical-naturalism).
+
+### Moral naturalism
+
+-   Binmore
+-   game theory
+    -   Heads-up poker solved [^Bowling2015]
+-   evolution
+    -   @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes
+    -   evolution of trust
+-   @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other
+-   My thought experiment:
+    -   Agree that chess (or poker) has better and worse play
+    -   Add another task to the competition: do laundry while playing,
+        also while trying to sell a product over the phone,
+        or a more typical triatholan: cycle, swim, run, etc.
+        As we add tasks, there doesn't stop being better and worse
+        overall strategies, albeit complication grows.
+    -   Finally, we ask the meta question of what to do next.
+
+[^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
+
+----------------------
+
+Michael Shermer and Massimo Pigliucci debate the role of science deriving morality:
+
+-   [vid](https://www.youtube.com/watch?v=4Qhlp-X3EHA)
+-   [blog 1](http://rationallyspeaking.blogspot.com/2013/01/michael-shermer-on-morality.html)
+-   [blog 2](http://rationallyspeaking.blogspot.com/2013/02/towards-science-of-morality-reply-to.html)
+-   [blog 3](http://rationallyspeaking.blogspot.com/2013/02/toward-science-of-morality-annotated.html)
+-   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
+
+
+### Aesthetics
+
+#### Music theory
+
+TODO
+
+
+My thoughts
+--------------------------------------------------------------------------------
 
 Debating moral realism with Sean Carroll.
 
@@ -131,57 +174,6 @@ This sounds legit to me so far:
 -->
 
 There's no unified or received view of the fact/value, descriptive/normative divide since Hume. But that doesn't mean there aren't naturalistic philosophers that deny the dichotomy, i.e., would support the idea roughly that there is a scientific way of discussing and determining what is better. Health and nutrition seem like obvious plausible examples, really any reasoned strategy is normative: it tells one what one should do given what is known. In this sense many naturalists are aligned with game theoretic reasoning about what we should do.
-
--   Murdoch, Iris. (1999). *The Sovereignty of Good*.
-
-
-### Moral naturalism
-
--   Binmore
--   game theory
-    -   Heads-up poker solved [^Bowling2015]
--   evolution
-    -   @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes
-    -   evolution of trust
--   @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other
--   My thought experiment:
-    -   Agree that chess (or poker) has better and worse play
-    -   Add another task to the competition: do laundry while playing,
-        also while trying to sell a product over the phone,
-        or a more typical triatholan: cycle, swim, run, etc.
-        As we add tasks, there doesn't stop being better and worse
-        overall strategies, albeit complication grows.
-    -   Finally, we ask the meta question of what to do next.
-
-[^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
-
-----------------------
-
-Michael Shermer and Massimo Pigliucci debate the role of science deriving morality:
-
--   [vid](https://www.youtube.com/watch?v=4Qhlp-X3EHA)
--   [blog 1](http://rationallyspeaking.blogspot.com/2013/01/michael-shermer-on-morality.html)
--   [blog 2](http://rationallyspeaking.blogspot.com/2013/02/towards-science-of-morality-reply-to.html)
--   [blog 3](http://rationallyspeaking.blogspot.com/2013/02/toward-science-of-morality-annotated.html)
--   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
-
-
-### Aesthetics
-
-#### Music theory
-
-TODO
-
-
-My thoughts
---------------------------------------------------------------------------------
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 Annotated bibliography
