@@ -67,19 +67,18 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
     -   See Hacking [^Hacking1971]
     -   Early vision of decision theory:
 
-        >   The art of measuring, as precisely as possible, probabilities of things,
-        >   with the goal that we would be able always to choose or follow in our
-        >   judgments and actions that course, which will have been determined to be
-        >   better, more satisfactory, safer or more advantageous.
+>   The art of measuring, as precisely as possible, probabilities of things,
+>   with the goal that we would be able always to choose or follow in our
+>   judgments and actions that course, which will have been determined to be
+>   better, more satisfactory, safer or more advantageous. [^Bernoulli1713]
 
-        --
-        *Ars Conjectandi* (1713) Chapter II, Part IV, defining the art of conjecture [[wikiquote](https://en.wikiquote.org/wiki/Jacob_Bernoulli)].
 -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Venn, John (1834-1923)](https://en.wikipedia.org/wiki/John_Venn)
     -   *The Logic of Chance* (1866) [^Venn1888]
 
+[^Bernoulli1713]: *Ars Conjectandi* (1713) Chapter II, Part IV, defining the art of conjecture [[wikiquote](https://en.wikiquote.org/wiki/Jacob_Bernoulli)].
 [^Edwards1974p9]: @Edwards_1974_The_history_of_likelihood\, p. 9.
 [^Hacking1971]: @Hacking_1971_Jacques_Bernoullis_Art_of_conjecturing\.
 [^Venn1888]: @Venn_1888_The_Logic_of_Chance\.
