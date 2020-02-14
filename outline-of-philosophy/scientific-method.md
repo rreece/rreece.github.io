@@ -133,6 +133,7 @@ Issues and positions
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Pasteur, Louis (1822-1895)](https://en.wikipedia.org/wiki/Louis_Pasteur)
 -   [Ladd-Franklin, Christine (1847-1930)](https://en.wikipedia.org/wiki/Christine_Ladd-Franklin)
+-   [Neptune, Discovery of](https://en.wikipedia.org/wiki/Discovery_of_Neptune) (1846)
 
 #### Biological evolution
 
@@ -808,6 +809,7 @@ Click to show links
 -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
 -   [Natural philosophy](http://en.wikipedia.org/wiki/Natural_philosophy)
 -   [Naturalized epistemology](http://en.wikipedia.org/wiki/Naturalized_epistemology)
+-   [Neptune, Discovery of](https://en.wikipedia.org/wiki/Discovery_of_Neptune)
 -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
 -   [Neyman-Pearson lemma](http://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma)
 -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
