@@ -61,7 +61,7 @@ Issues and positions
 
 ### (A)theism
 
--   The problem of evil
+#### The problem of evil
 
 C.S. Lewis' translation[^Lewis1955] of lines from Lucretius' *De rerum natura*:
 
@@ -69,6 +69,10 @@ C.S. Lewis' translation[^Lewis1955] of lines from Lucretius' *De rerum natura*:
 >   A world so frail and faulty as we see.
 
 [^Lewis1955]: @Lewis_1955_Surprised_by_Joy\, p. 65.
+
+#### Physicalism
+
+-   [Summary of Lucretius' *De rerum natura* by M. McGoodwin](https://www.mcgoodwin.net/pages/otherbooks/tlc_rerumnatura.html)
 
 
 ### Existentialism
@@ -169,6 +173,7 @@ Click to show links
 -   [Friendship](https://plato.stanford.edu/entries/friendship/)
 -   [Japanese Philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)
 -   [Japanese Confucian Philosophy](https://plato.stanford.edu/entries/japanese-confucian/)
+-   [Lucretius (c. 99-55 BCE)](https://plato.stanford.edu/entries/lucretius/)
 -   [Meaning of Life, The](http://plato.stanford.edu/entries/life-meaning/)
 -   [Nietzsche, Friedrich (1844-1900)](http://plato.stanford.edu/entries/nietzsche/)
 -   [Religious Experience](https://plato.stanford.edu/entries/religious-experience/)
@@ -205,11 +210,13 @@ Click to show links
         -   [Zen](https://en.wikipedia.org/wiki/Zen)
 -   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation)
 -   [Camus, Albert (1913-1960)](https://en.wikipedia.org/wiki/Albert_Camus)
+-   [*De rerum natura*](https://en.wikipedia.org/wiki/De_rerum_natura)
 -   [Ego death](https://en.wikipedia.org/wiki/Ego_death)
 -   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
+-   [Lucretius (c. 99-55 BCE)](https://en.wikipedia.org/wiki/Lucretius)
 -   [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness)
     -   [Anapanasati](https://en.wikipedia.org/wiki/Anapanasati)
     -   [Satipatthana](https://en.wikipedia.org/wiki/Satipatthana)
