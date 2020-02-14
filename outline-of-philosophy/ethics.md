@@ -75,12 +75,28 @@ Issues and positions
 
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 
-
 ### Aesthetics
 
 #### Music theory
 
 TODO
+
+#### Art
+
+TODO
+
+-   Semiotics
+
+
+### Political philosophy
+
+-   Feudalism
+-   Mercantilism
+-   Capitalism
+-   Marxism
+-   Socialism
+-   Libertarianism
+-   Neoliberalism
 
 
 My thoughts
@@ -316,6 +332,7 @@ Click to show links
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
 -   [Nihilism](http://en.wikipedia.org/wiki/Nihilism)
 -   [Normative ethics](http://en.wikipedia.org/wiki/Normative_ethics)
+-   [Political philosophy](https://en.wikipedia.org/wiki/Political_philosophy)
 -   [Rousseau, Jean-Jacques (1712-1778)](http://en.wikipedia.org/wiki/Jean-Jacques_Rousseau)
 -   [Scalon, Thomas M. (b. 1940): Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
 -   [Social Contract, The](http://en.wikipedia.org/wiki/The_Social_Contract)
