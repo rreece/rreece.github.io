@@ -78,7 +78,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 -   [Venn, John (1834-1923)](https://en.wikipedia.org/wiki/John_Venn)
     -   *The Logic of Chance* (1866) [^Venn1888]
 
-[^Bernoulli1713]: *Ars Conjectandi* (1713) Chapter II, Part IV, defining the art of conjecture [[wikiquote](https://en.wikiquote.org/wiki/Jacob_Bernoulli)].
+[^Bernoulli1713]: Bernoulli, J. (1713). *Ars Conjectandi*, Chapter II, Part IV, defining the art of conjecture [[wikiquote](https://en.wikiquote.org/wiki/Jacob_Bernoulli)].
 [^Edwards1974p9]: @Edwards_1974_The_history_of_likelihood\, p. 9.
 [^Hacking1971]: @Hacking_1971_Jacques_Bernoullis_Art_of_conjecturing\.
 [^Venn1888]: @Venn_1888_The_Logic_of_Chance\.
