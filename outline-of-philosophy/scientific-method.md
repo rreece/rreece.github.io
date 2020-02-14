@@ -401,8 +401,9 @@ Peirce:
 [^Doyle1890]: @Doyle_1890_The_Sign_of_the_Four\, ch. 6.
 
 
-### Statistical measurement
+### Statistical inference
 
+-   How to measure? How to test?
 -   Frequentist vs Bayesian probability
 -   Ronald Fisher
 -   Jerzy Neyman, Egon Pearson
