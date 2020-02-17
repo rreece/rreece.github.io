@@ -548,6 +548,7 @@ Click to show links
 ### Scholarpedia
 
 -   [Algorithmic probability](http://www.scholarpedia.org/article/Algorithmic_probability)
+-   [Universal search](http://www.scholarpedia.org/article/Universal_search)
 
 ### Wikipedia
 
