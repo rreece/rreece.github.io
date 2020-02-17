@@ -67,6 +67,9 @@ Articles
 ### Christianity
 
 -   [Eichenwald, Kurt. (2015). The Bible: So Misunderstood It's a Sin. *Newsweek*.](http://www.newsweek.com/2015/01/02/thats-not-what-bible-says-294018.html)
+-   [*The Historicity of the Patriarchal Narratives*](https://en.wikipedia.org/wiki/The_Historicity_of_the_Patriarchal_Narratives)
+-   [*Abraham in History and Tradition*](https://en.wikipedia.org/wiki/Abraham_in_History_and_Tradition)
+
 
 ### Islam 
 
@@ -123,6 +126,7 @@ Wiki Articles
 -   [Atheism and agnosticism](http://plato.stanford.edu/entries/atheism-agnosticism/) - SEP
 -   [Atheism, Criticism of](https://en.wikipedia.org/wiki/Criticism_of_atheism) - Wikipedia
 -   [Atheism, History of](https://en.wikipedia.org/wiki/History_of_atheism) - Wikipedia
+-   [Biblical minimalism](https://en.wikipedia.org/wiki/Biblical_minimalism)
 -   [Democritus](http://plato.stanford.edu/entries/democritus/) - SEP
 -   [Democritus](https://en.wikipedia.org/wiki/Democritus) - Wikipedia
 -   [De rerum natura](http://en.wikipedia.org/wiki/De_rerum_natura) - Wikipedia
@@ -131,10 +135,12 @@ Wiki Articles
 -   [Epicurus](http://www.iep.utm.edu/epicur/) - IEP
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) - Wikipedia
 -   [Hiddenness of God](http://plato.stanford.edu/entries/divine-hiddenness/) - SEP
+-   [Historicity of the Bible](https://en.wikipedia.org/wiki/Historicity_of_the_Bible)
 -   [Lucretius](http://en.wikipedia.org/wiki/Lucretius) - Wikipedia
 -   [Naturalism](http://plato.stanford.edu/entries/naturalism/) - SEP
 -   [Naturalism](http://www.iep.utm.edu/naturali/) - IEP
 -   [Naturalism](http://en.wikipedia.org/wiki/Naturalism_(philosophy)) - Wikipedia
+-   [Patriarchal age](https://en.wikipedia.org/wiki/Patriarchal_age)
 -   [Problem of evil](https://plato.stanford.edu/entries/evil/) - SEP
 -   [Problem of evil](http://www.iep.utm.edu/evil-log/) - IEP
 -   [Tractatus Theologico-Politicus](https://en.wikipedia.org/wiki/Tractatus_Theologico-Politicus) - Wikipedia
