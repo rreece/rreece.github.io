@@ -363,7 +363,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 -   supervised and unsupervised learning
     -   classification = supervised; clustering = unsupervised
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
--   *Deep Learning*
+-   *Deep Learning* [^Goodfellow2016]
 -   Natural language processing (NLP)
     -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/).
     -   Rationalism and empiricism in artificial intellegence:
@@ -371,6 +371,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 -   Reinforcement learning (RL)
 
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
+[^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
 
 
 ### Auto-science
