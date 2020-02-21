@@ -127,10 +127,23 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 
 ### Point estimation and confidence intervals
 
+#### Inverse problems
+
 -   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
 -   regression
--   Bias and variance
-    -   Accuracy vs precision [^Cowan1998pX]
+
+#### Bias and variance
+
+-   Bias and variance defined
+-   Accuracy vs precision [^Cowan1998pX]
+-   Bias and variance trade off
+-   Note the new deep learning view
+
+[^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
+
+
+#### Maximum likelihood estimation
+
 -   MLE: Maximum likelihood estimators, Fisher [^Aldrich1997]
 
 $$\hat{\theta} = \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: P(D | \theta) \label{eq:mle} $$
@@ -144,10 +157,13 @@ and
 
 $$ \mathrm{log} \: p(D|\theta) = \sum_i \mathrm{log} \: p(\vec{x}_i|\theta) $$
 
+[^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 
--   Variance of MLEs
-    -   Taylor expansion of a likelihood near its maximum
-    -   Analytic variance of gaussian likelihoods: $\chi^2$
+
+#### Variance of MLEs
+
+-   Taylor expansion of a likelihood near its maximum
+-   Analytic variance of gaussian likelihoods: $\chi^2$
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
     -   for unbiased and efficient estimators
     -   proof in Rice [^Rice2007p300]
@@ -156,25 +172,27 @@ $$ \mathrm{log} \: p(D|\theta) = \sum_i \mathrm{log} \: p(\vec{x}_i|\theta) $$
 -   Uncertainty of measuring an efficiency
     -   Precision vs recall for classification
     -   Classification and logistic regression
--   Bayesian credability intervals
-    -   prior sensitivity
-    -   not invariant to reparametrization in general
-    -   Jeffreys priors are
--   Examples:
-    -   Some sample mean
-    -   Measuring efficiency 
-    -   Bayesian lighthouse
-    -   Some HEP fit
 -   TODO:
     -   Explain if/why the Neyman construction would be needed for point estimation.
 
-[^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
-[^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
     @Rao_1945_Information_and_the_accuracy_attainable\, and
     @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
 [^Rice2007p300]: @Rice_2007_Mathematical_Statistics_and_Data_Analysis\, p. 300--2.
+
+
+#### Bayesian credability intervals
+
+-   defined, MAP
+-   prior sensitivity
+-   not invariant to reparametrization in general
+-   Jeffreys priors are
+-   Examples:
+    -   Some sample mean
+    -   Measuring efficiency 
+    -   Bayesian lighthouse
+    -   Some HEP fit
 
 
 ### Statistical hypothesis testing

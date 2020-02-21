@@ -209,13 +209,20 @@
 </ul></li>
 </ul>
 <h3 id="point-estimation-and-confidence-intervals">Point estimation and confidence intervals</h3>
+<h4 id="inverse-problems">Inverse problems</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Inverse_problem">Inverse problem</a></li>
 <li>regression</li>
-<li>Bias and variance
+</ul>
+<h4 id="bias-and-variance">Bias and variance</h4>
 <ul>
+<li>Bias and variance defined</li>
 <li>Accuracy vs precision<a href="#fn20" class="footnoteRef" id="fnref20"><sup>20</sup></a></li>
-</ul></li>
+<li>Bias and variance trade off</li>
+<li>Note the new deep learning view</li>
+</ul>
+<h4 id="maximum-likelihood-estimation">Maximum likelihood estimation</h4>
+<ul>
 <li>MLE: Maximum likelihood estimators, Fisher<a href="#fn21" class="footnoteRef" id="fnref21"><sup>21</sup></a></li>
 </ul>
 <p><span class="math display">\[\hat{\theta} = \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: P(D | \theta) \label{eq:mle} \]</span></p>
@@ -223,12 +230,10 @@
 <p><span class="math display">\[ p(D|\theta) = \prod_i p(\vec{x}_i|\theta) \]</span></p>
 <p>and</p>
 <p><span class="math display">\[ \mathrm{log} \: p(D|\theta) = \sum_i \mathrm{log} \: p(\vec{x}_i|\theta) \]</span></p>
-<ul>
-<li>Variance of MLEs
+<h4 id="variance-of-mles">Variance of MLEs</h4>
 <ul>
 <li>Taylor expansion of a likelihood near its maximum</li>
 <li>Analytic variance of gaussian likelihoods: <span class="math inline">\(\chi^2\)</span></li>
-</ul></li>
 <li>Cram&#233;r-Rao bound<a href="#fn22" class="footnoteRef" id="fnref22"><sup>22</sup></a>
 <ul>
 <li>for unbiased and efficient estimators</li>
@@ -243,22 +248,23 @@
 <li>Precision vs recall for classification</li>
 <li>Classification and logistic regression</li>
 </ul></li>
-<li>Bayesian credability intervals
+<li>TODO:
 <ul>
+<li>Explain if/why the Neyman construction would be needed for point estimation.</li>
+</ul></li>
+</ul>
+<h4 id="bayesian-credability-intervals">Bayesian credability intervals</h4>
+<ul>
+<li>defined, MAP</li>
 <li>prior sensitivity</li>
 <li>not invariant to reparametrization in general</li>
 <li>Jeffreys priors are</li>
-</ul></li>
 <li>Examples:
 <ul>
 <li>Some sample mean</li>
 <li>Measuring efficiency</li>
 <li>Bayesian lighthouse</li>
 <li>Some HEP fit</li>
-</ul></li>
-<li>TODO:
-<ul>
-<li>Explain if/why the Neyman construction would be needed for point estimation.</li>
 </ul></li>
 </ul>
 <h3 id="statistical-hypothesis-testing">Statistical hypothesis testing</h3>
