@@ -132,6 +132,19 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 -   Bias and variance
     -   Accuracy vs precision [^Cowan1998pX]
 -   MLE: Maximum likelihood estimators, Fisher [^Aldrich1997]
+
+$$\hat{\theta} = \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: P(D | \theta) \label{eq:mle} $$
+
+Maximizing $\mathrm{log} \: P(D|\theta)$ is equivalent to maximizing $P(D|\theta)$,
+and the former is more convenient because for data that are *I.I.D.*
+
+$$ p(D|\theta) = \prod_i p(\vec{x}_i|\theta) $$
+
+and
+
+$$ \mathrm{log} \: p(D|\theta) = \sum_i \mathrm{log} \: p(\vec{x}_i|\theta) $$
+
+
 -   Variance of MLEs
     -   Taylor expansion of a likelihood near its maximum
     -   Analytic variance of gaussian likelihoods: $\chi^2$

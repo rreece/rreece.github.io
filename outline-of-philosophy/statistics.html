@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Thu Feb 20, 2020" />
+  <meta name="date" content="Fri Feb 21, 2020" />
   <title>Philosophy of statistics - Ryan&#8217;s Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#8217;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -217,6 +217,13 @@
 <li>Accuracy vs precision<a href="#fn20" class="footnoteRef" id="fnref20"><sup>20</sup></a></li>
 </ul></li>
 <li>MLE: Maximum likelihood estimators, Fisher<a href="#fn21" class="footnoteRef" id="fnref21"><sup>21</sup></a></li>
+</ul>
+<p><span class="math display">\[\hat{\theta} = \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: P(D | \theta) \label{eq:mle} \]</span></p>
+<p>Maximizing <span class="math inline">\(\mathrm{log} \: P(D|\theta)\)</span> is equivalent to maximizing <span class="math inline">\(P(D|\theta)\)</span>, and the former is more convenient because for data that are <em>I.I.D.</em></p>
+<p><span class="math display">\[ p(D|\theta) = \prod_i p(\vec{x}_i|\theta) \]</span></p>
+<p>and</p>
+<p><span class="math display">\[ \mathrm{log} \: p(D|\theta) = \sum_i \mathrm{log} \: p(\vec{x}_i|\theta) \]</span></p>
+<ul>
 <li>Variance of MLEs
 <ul>
 <li>Taylor expansion of a likelihood near its maximum</li>
@@ -999,7 +1006,7 @@
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Thu Feb 20, 2020</p>
+    <p>Fri Feb 21, 2020</p>
   </div>
   <div class="license">
     <p><span class="copy-left">&#169;</span> 2014-2020 <a href="http://rreece.github.io/">Ryan Reece</a>. Licensed for sharing under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
