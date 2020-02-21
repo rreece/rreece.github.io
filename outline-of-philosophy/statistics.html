@@ -220,9 +220,9 @@
 <li>regression</li>
 </ul>
 <h4 id="bias-and-variance">Bias and variance</h4>
-<p>Bias of an estimator, <span class="math inline">\(\hat\theta\)</span>:</p>
+<p>The bias of an estimator, <span class="math inline">\(\hat\theta\)</span>, is defined as</p>
 <p><span class="math display">\[ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}[\hat{\theta} - \theta] = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} \]</span></p>
-<p>Variance:</p>
+<p>The variance of a random variable, <span class="math inline">\(X\)</span>, is defined as</p>
 <span class="math display">\[\begin{align}
     \mathrm{Var}(X) &amp;\equiv \mathrm{E}[(X - \mathrm{E}(X))^2] \nonumber \\
     &amp;= \mathrm{E}[X^2 - 2 \: X \: \mathrm{E}(X) + \mathrm{E}(X)^2] \nonumber \\
@@ -237,6 +237,8 @@
     &amp;= \mathrm{E}[\hat{\theta}^2] - 2 \: \mathrm{E}[\hat{\theta}] \: \theta + \theta^2
 \end{align}\]</span>
 <p>noting that</p>
+<p><span class="math display">\[ \mathrm{Var}(\hat{\theta}) = \mathrm{E}[\hat{\theta}^2] - \mathrm{E}(\hat{\theta})^2 \]</span></p>
+<p>and</p>
 <span class="math display">\[\begin{align}
     \mathrm{Bias}(\hat{\theta})^2 &amp;= (\mathrm{E}[\hat{\theta} - \theta])^2 \nonumber \\
     &amp;= \mathrm{E}[\hat{\theta}]^2 - 2 \: \mathrm{E}[\hat{\theta}] \: \theta + \theta^2

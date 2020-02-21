@@ -141,11 +141,11 @@ $$ \mathrm{E}(Y) \equiv \int dx \: P(x) \: Y \label{eq:expectation} $$
 
 #### Bias and variance
 
-Bias of an estimator, $\hat\theta$:
+The bias of an estimator, $\hat\theta$, is defined as
 
 $$ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}[\hat{\theta} - \theta] = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} $$
 
-Variance:
+The variance of a random variable, $X$, is defined as
 
 \begin{align}
     \mathrm{Var}(X) &\equiv \mathrm{E}[(X - \mathrm{E}(X))^2] \nonumber \\
@@ -170,6 +170,10 @@ to its bias and its variance by the following proof:
 \end{align}
 
 noting that
+
+$$ \mathrm{Var}(\hat{\theta}) = \mathrm{E}[\hat{\theta}^2] - \mathrm{E}(\hat{\theta})^2 $$
+
+and
 
 \begin{align}
     \mathrm{Bias}(\hat{\theta})^2 &= (\mathrm{E}[\hat{\theta} - \theta])^2 \nonumber \\
