@@ -419,6 +419,7 @@ $$ \mathrm{log} \: p(D|\theta) = \sum_i \mathrm{log} \: p(\vec{x}_i|\theta) $$
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
 -   *Deep Learning* [^Goodfellow2016]
 -   Natural language processing (NLP)
+    -   Stahlberg [^Stahlberg2019]
     -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/).
     -   Rationalism and empiricism in artificial intellegence:
         [Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation.](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291)
@@ -426,6 +427,7 @@ $$ \mathrm{log} \: p(D|\theta) = \sum_i \mathrm{log} \: p(\vec{x}_i|\theta) $$
 
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
+[^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
 
 
 ### Auto-science
