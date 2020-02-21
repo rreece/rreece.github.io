@@ -130,16 +130,36 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 #### Inverse problems
 
 -   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
+
+Expectation:
+
+$$ \mathrm{E}(Y) \equiv \int dx \: P(x) \: Y \label{eq:expectation} $$
+
+-   estimators
 -   regression
+
 
 #### Bias and variance
 
--   Bias and variance defined
+Bias:
+
+$$ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}[\hat{\theta} - \theta] = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} $$
+
+Variance:
+
+\begin{align}
+    \mathrm{Var}(X) &\equiv \mathrm{E}[(X - \mathrm{E}(X))^2] \nonumber \\
+    &= \mathrm{E}[X^2 - 2\: X \: \mathrm{E}(X) + \mathrm{E}(X)^2] \nonumber \\
+    &= \mathrm{E}[X^2] - 2\: \mathrm{E}(X) \: \mathrm{E}(X) + \mathrm{E}(X)^2 \nonumber \\
+    &= \mathrm{E}[X^2] - \mathrm{E}(X)^2 \label{eq:variance} \\
+\end{align}
+
 -   Accuracy vs precision [^Cowan1998pX]
--   Bias and variance trade off
--   Note the new deep learning view
+-   Bias and variance trade-off
+-   Note the new deep learning view [^Belkin2019]
 
 [^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
+[^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
 
 
 #### Maximum likelihood estimation
@@ -149,11 +169,14 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 $$\hat{\theta} = \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: P(D | \theta) \label{eq:mle} $$
 
 Maximizing $\mathrm{log} \: P(D|\theta)$ is equivalent to maximizing $P(D|\theta)$,
-and the former is more convenient because for data that are *I.I.D.*
+and the former is more convenient because for data that are
+independent and identically distributed (*i.i.d.*)
+the joint probability distribution can be factored
+into a product of individual measurements:
 
 $$ p(D|\theta) = \prod_i p(\vec{x}_i|\theta) $$
 
-and
+and taking the log of the product makes it a sum:
 
 $$ \mathrm{log} \: p(D|\theta) = \sum_i \mathrm{log} \: p(\vec{x}_i|\theta) $$
 
