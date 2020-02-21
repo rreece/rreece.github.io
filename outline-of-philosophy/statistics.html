@@ -220,15 +220,30 @@
 <li>regression</li>
 </ul>
 <h4 id="bias-and-variance">Bias and variance</h4>
-<p>Bias:</p>
+<p>Bias of an estimator, <span class="math inline">\(\hat\theta\)</span>:</p>
 <p><span class="math display">\[ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}[\hat{\theta} - \theta] = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} \]</span></p>
 <p>Variance:</p>
 <span class="math display">\[\begin{align}
     \mathrm{Var}(X) &amp;\equiv \mathrm{E}[(X - \mathrm{E}(X))^2] \nonumber \\
-    &amp;= \mathrm{E}[X^2 - 2\: X \: \mathrm{E}(X) + \mathrm{E}(X)^2] \nonumber \\
-    &amp;= \mathrm{E}[X^2] - 2\: \mathrm{E}(X) \: \mathrm{E}(X) + \mathrm{E}(X)^2 \nonumber \\
-    &amp;= \mathrm{E}[X^2] - \mathrm{E}(X)^2 \label{eq:variance} \\
+    &amp;= \mathrm{E}[X^2 - 2 \: X \: \mathrm{E}(X) + \mathrm{E}(X)^2] \nonumber \\
+    &amp;= \mathrm{E}[X^2] - 2 \: \mathrm{E}(X) \: \mathrm{E}(X) + \mathrm{E}(X)^2 \nonumber \\
+    &amp;= \mathrm{E}[X^2] - \mathrm{E}(X)^2 \label{eq:variance}
 \end{align}\]</span>
+<p>The mean squared error (MSE) of an estimator has a similar formula to variance except that instead of quantifying the square of the difference of the estimator and its expected value, the MSE is uses the square of the difference of the estimator and the true parameter:</p>
+<p><span class="math display">\[ \mathrm{MSE}(\hat{\theta}) \equiv \mathrm{E}[(\hat{\theta} - \theta)^2] \label{eq:mse} \]</span></p>
+<p>The MSE of an estimator can be related to its bias and its variance by the following proof:</p>
+<span class="math display">\[\begin{align}
+    \mathrm{MSE}(\hat{\theta}) &amp;= \mathrm{E}[\hat{\theta}^2 - 2 \: \hat{\theta} \: \theta + \theta^2] \nonumber \\
+    &amp;= \mathrm{E}[\hat{\theta}^2] - 2 \: \mathrm{E}[\hat{\theta}] \: \theta + \theta^2
+\end{align}\]</span>
+<p>noting that</p>
+<span class="math display">\[\begin{align}
+    \mathrm{Bias}(\hat{\theta})^2 &amp;= (\mathrm{E}[\hat{\theta} - \theta])^2 \nonumber \\
+    &amp;= \mathrm{E}[\hat{\theta}]^2 - 2 \: \mathrm{E}[\hat{\theta}] \: \theta + \theta^2
+\end{align}\]</span>
+<p>we see that MSE is equivalent to</p>
+<p><span class="math display">\[ \mathrm{MSE}(\hat{\theta}) = \mathrm{Var}(\hat{\theta}) + \mathrm{Bias}(\hat{\theta})^2 \label{eq:mse_variance_bias} \]</span></p>
+<p>For an unbiased estimator, the MSE is the variance of the estimator.</p>
 <ul>
 <li>Accuracy vs precision<a href="#fn20" class="footnoteRef" id="fnref20"><sup>20</sup></a></li>
 <li>Bias and variance trade-off</li>

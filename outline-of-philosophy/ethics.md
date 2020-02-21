@@ -127,6 +127,7 @@ Sean's reply:
 > <http://www.preposterousuniverse.com/blog/2011/03/16/moral-realism/>
 > <http://www.preposterousuniverse.com/blog/2013/03/07/science-morality-possible-worlds-scientism-and-ways-of-knowing/>
 > <http://www.preposterousuniverse.com/blog/2011/01/31/morality-health-and-science/>
+> <https://www.youtube.com/watch?v=4HCUAR1vH_M>
 
 
 Drafting a reply

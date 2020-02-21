@@ -141,7 +141,7 @@ $$ \mathrm{E}(Y) \equiv \int dx \: P(x) \: Y \label{eq:expectation} $$
 
 #### Bias and variance
 
-Bias:
+Bias of an estimator, $\hat\theta$:
 
 $$ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}[\hat{\theta} - \theta] = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} $$
 
@@ -149,10 +149,38 @@ Variance:
 
 \begin{align}
     \mathrm{Var}(X) &\equiv \mathrm{E}[(X - \mathrm{E}(X))^2] \nonumber \\
-    &= \mathrm{E}[X^2 - 2\: X \: \mathrm{E}(X) + \mathrm{E}(X)^2] \nonumber \\
-    &= \mathrm{E}[X^2] - 2\: \mathrm{E}(X) \: \mathrm{E}(X) + \mathrm{E}(X)^2 \nonumber \\
-    &= \mathrm{E}[X^2] - \mathrm{E}(X)^2 \label{eq:variance} \\
+    &= \mathrm{E}[X^2 - 2 \: X \: \mathrm{E}(X) + \mathrm{E}(X)^2] \nonumber \\
+    &= \mathrm{E}[X^2] - 2 \: \mathrm{E}(X) \: \mathrm{E}(X) + \mathrm{E}(X)^2 \nonumber \\
+    &= \mathrm{E}[X^2] - \mathrm{E}(X)^2 \label{eq:variance}
 \end{align}
+
+The mean squared error (MSE) of an estimator has a similar formula to variance
+except that instead of quantifying the square of the difference of the estimator
+and its expected value, the MSE is uses the square of the difference of the estimator
+and the true parameter:
+
+$$ \mathrm{MSE}(\hat{\theta}) \equiv \mathrm{E}[(\hat{\theta} - \theta)^2] \label{eq:mse} $$
+
+The MSE of an estimator can be related
+to its bias and its variance by the following proof:
+
+\begin{align}
+    \mathrm{MSE}(\hat{\theta}) &= \mathrm{E}[\hat{\theta}^2 - 2 \: \hat{\theta} \: \theta + \theta^2] \nonumber \\
+    &= \mathrm{E}[\hat{\theta}^2] - 2 \: \mathrm{E}[\hat{\theta}] \: \theta + \theta^2
+\end{align}
+
+noting that
+
+\begin{align}
+    \mathrm{Bias}(\hat{\theta})^2 &= (\mathrm{E}[\hat{\theta} - \theta])^2 \nonumber \\
+    &= \mathrm{E}[\hat{\theta}]^2 - 2 \: \mathrm{E}[\hat{\theta}] \: \theta + \theta^2
+\end{align}
+
+we see that MSE is equivalent to
+
+$$ \mathrm{MSE}(\hat{\theta}) = \mathrm{Var}(\hat{\theta}) + \mathrm{Bias}(\hat{\theta})^2 \label{eq:mse_variance_bias} $$
+
+For an unbiased estimator, the MSE is the variance of the estimator.
 
 -   Accuracy vs precision [^Cowan1998pX]
 -   Bias and variance trade-off
