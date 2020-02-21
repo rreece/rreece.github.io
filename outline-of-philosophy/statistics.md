@@ -186,6 +186,8 @@ $$ \mathrm{MSE}(\hat{\theta}) = \mathrm{Var}(\hat{\theta}) + \mathrm{Bias}(\hat{
 
 For an unbiased estimator, the MSE is the variance of the estimator.
 
+TODO:
+
 -   Accuracy vs precision [^Cowan1998pX]
 -   Bias and variance trade-off
 -   Note the new deep learning view [^Belkin2019]
@@ -445,21 +447,42 @@ $$ \mathrm{log} \: p(D|\theta) = \sum_i \mathrm{log} \: p(\vec{x}_i|\theta) $$
 
 ### Machine learning
 
+#### History
+
 -   classification vs regression
 -   supervised and unsupervised learning
     -   classification = supervised; clustering = unsupervised
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
 -   *Deep Learning* [^Goodfellow2016]
--   Natural language processing (NLP)
-    -   Stahlberg [^Stahlberg2019]
-    -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/).
-    -   Rationalism and empiricism in artificial intellegence:
-        [Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation.](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291)
--   Reinforcement learning (RL)
 
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
+
+
+#### Computer Vision
+
+Computer Vision (CV)
+
+-   Fukushima: neocognitron
+-   LeCun: LeNet-5
+-   Ciresan: MCDNN
+-   Krizhevsky: AlexNet
+
+#### Natural language processing
+
+Natural language processing (NLP)
+
+-   Stahlberg [^Stahlberg2019]
+-   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/).
+-   Rationalism and empiricism in artificial intellegence:
+    [Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation.](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291)
+
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
+
+
+#### Reinforcement learning
+
+Reinforcement learning (RL)
 
 
 ### Auto-science
