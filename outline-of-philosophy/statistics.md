@@ -156,8 +156,9 @@ The bias of an estimator, $\hat\theta$, is defined as
 $$ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}(\hat{\theta} - \theta) = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} $$
 
 The mean squared error (MSE) of an estimator has a similar formula to variance
+(see [@eq:variance])
 except that instead of quantifying the square of the difference of the estimator
-and its expected value, the MSE is uses the square of the difference of the estimator
+and its expected value, the MSE uses the square of the difference of the estimator
 and the true parameter:
 
 $$ \mathrm{MSE}(\hat{\theta}) \equiv \mathrm{E}((\hat{\theta} - \theta)^2) \label{eq:mse} $$
@@ -209,7 +210,7 @@ independent and identically distributed (*i.i.d.*)
 the joint probability distribution can be factored
 into a product of individual measurements:
 
-$$ L(\theta) = \prod_i L(\theta|\vec{x}_i) = \prod_i P(\vec{x}_i|\theta) $$
+$$ L(\theta) = \prod_i L(\theta|x_i) = \prod_i P(x_i|\theta) $$
 
 and taking the log of the product makes it a sum:
 
