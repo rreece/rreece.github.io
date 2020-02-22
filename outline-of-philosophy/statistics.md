@@ -44,12 +44,12 @@ The variance of a random variable, $y$, is defined as
 
 The covariance matrix of random variables $x_i$:
 
-$$ \boldsymbol{\Sigma}_{ij} = \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] = \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_{j} \label{eq:covariance_matrix_indexed} $$
+$$ V_{ij} = \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] = \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_{j} \label{eq:covariance_matrix_indexed} $$
 
 $$ \mathrm{Cov}(x_i, x_i) = \mathrm{Var}(x_i) $$
 
 \begin{equation}
-\boldsymbol{\Sigma} = 
+\boldsymbol{V} = 
 \begin{pmatrix}
     \mathrm{Var}(x_1) & \mathrm{Cov}(x_1, x_2) & \cdots & \mathrm{Cov}(x_1, x_n) \\
     \mathrm{Cov}(x_2, x_1) & \mathrm{Var}(x_2) & \cdots & \mathrm{Cov}(x_2, x_n) \\
@@ -61,7 +61,7 @@ $$ \mathrm{Cov}(x_i, x_i) = \mathrm{Var}(x_i) $$
 
 The covariance of two random vectors:
 
-$$ \boldsymbol{\Sigma} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\top}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\top} \label{eq:covariance_matrix_vectors} $$
+$$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\top}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\top} \label{eq:covariance_matrix_vectors} $$
 
 
 #### Uncertainty
