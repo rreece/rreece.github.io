@@ -55,7 +55,11 @@ Issues and positions
 
 ### Biology
 
--   Darwinism
+#### Darwinism
+
+-   We are animals
+-   We are evolved
+-   We are from a lineage
 
 ![[Blood by David S. Goodsell (2000)](http://mgl.scripps.edu/people/goodsell/illustration/public).](img/Goodsell-blood.jpg){#fig:Goodsell-blood}
 
@@ -66,6 +70,11 @@ Issues and positions
 >   O for God's sake      
 >   they are connected       
 >   underneath
+
+#### Mortality
+
+-   We will die
+-   We have about 3 billion heartbeats: 80 years $\approx 2.5 \times 10^9$ 
 
 
 ### (A)theism

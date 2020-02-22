@@ -48,7 +48,7 @@ Ioannidis, J.P. (2005). Why most published research findings are false. *PLos Me
 James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
 Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
 Korb, K.B. (2001). Machine learning as philosophy of science. In *Proceedings of the ECML-PKDD-01 Workshop on Machine Learning as Experimental Philosophy of Science*, Freiburg.
-Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53.
+Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53. http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
 Mayo, D.G. (1981). In defense of the Neyman-Pearson theory of confidence intervals. *Philosophy of Science*, 48(2), 269--280.
 Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*. Chicago University Press.

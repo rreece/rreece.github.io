@@ -14,12 +14,20 @@ Issues and positions
 See the [Outline of the scientific method](scientific-method.html#induction)
 
 
-### Probability, likelihood, and uncertainty
+### Probability and its related concepts
+
+#### Probability
 
 Probability is of epistemic interest, being in some sense
 a measure of inductive confidence.
 
 -   Kolmogorov
+-   Carnap: "Probability as a guide in life" [^Carnap1947]
+
+[^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
+
+
+#### Expectation and variance
 
 Expectation:
 
@@ -34,17 +42,35 @@ The variance of a random variable, $Y$, is defined as
     &= \mathrm{E}(Y^2) - \mathrm{E}(Y)^2 \label{eq:variance}
 \end{align}
 
+The covariance of two random vectors:
+
+$$ \boldsymbol{\Sigma}_{ij} = \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] = \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_{j} \label{eq:covariance_matrix_indexed} $$
+
+$$ \boldsymbol{\Sigma} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\top}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\top} \label{eq:covariance_matrix_vectors} $$
+
+
+#### Uncertainty
+
+-   Practice of standard error
+
+
+#### Bayes' theorem
+
 -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   Bayes' theorem
 
 $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 
+-   Extended version of Bayes theorem
 -   Example of conditioning with medical diagnostics
--   Frequentist vs Bayesian probability
+
+
+#### Likelihood and frequentist vs bayesian probability
+
+-   frequentist vs bayesian probability
 
 $$ P(H|D) = P(D|H) \: P(H) \: / \: P(D) \label{eq:bayes_theorem_hd} $$
 
--   Extended version of Bayes theorem
 -   Likelihood
 
 $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
@@ -60,7 +86,6 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 
 -   Carnap
     -   "The two concepts of probability" [^Carnap1945b]
-    -   "Probability as a guide in life" [^Carnap1947]
 -   Royall
     -   "What do these data say?" [^Royall1997p171]
 -   We will return to the frequentist vs bayesian debate in the section on the
@@ -68,7 +93,6 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 -   Uncertainty quantification
 
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
-[^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
 [^Cranmer2015p6]: @Cranmer_2015_Practical_statistics_for_the_LHC\, p. 6.
 [^Royall1997p171]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\, p. 171--2.
 
@@ -138,6 +162,42 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
 [^Kendall1946]: @Kendall_1946_The_Advanced_Theory_of_Statistics_VolII\.
 [^Weisberg2019]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\.
+
+
+### Statistical models
+
+#### Parametric models
+
+-   Data: $x_i$
+-   Parameters: $\theta_j$
+
+
+#### Canonical distributions
+
+-   Bernoulli distribution
+-   Binomial distribution
+-   Poisson distribution
+-   Normal/Gaussian distribution
+
+$$ N(x| \mu, \sigma^2) = \frac{1}{\sqrt{2\,\pi\:\sigma^2}} \: \exp\left[\frac{-(x-\mu)^2}{2\,\sigma^2}\right] \label{eq:gaussian} $$
+
+and in $k$ dimensions:
+
+$$ N(\vec{x}| \vec{\mu}, \boldsymbol{\Sigma}) = (2 \pi)^{-k/2}\:\left|\boldsymbol{\Sigma}\right|^{-1/2} \: \exp\left[\frac{-1}{2}\:(\vec{x}-\vec{\mu})^{\top}\:\boldsymbol{\Sigma}^{-1}\:(\vec{x}-\vec{\mu})\right] \label{eq:gaussian_k_dim} $$
+
+where $\boldsymbol{\Sigma}$ is the covariance matrix
+(defined in [@eq:covariance_matrix_indexed])
+of the distribution.
+
+-   $\chi^2$ distribution
+-   Univariate distribution relationships [^Leemis2008]
+
+[^Leemis2008]: @Leemis_2008_Univariate_distribution_relationships\.
+
+
+#### Mixture models
+
+-   Gaussian mixture models (GMM)
 
 
 ### Point estimation and confidence intervals
@@ -449,7 +509,7 @@ $$ \mathrm{log} \: L(\theta) = \sum_i \mathrm{log} \: L(\theta|x_i) = \sum_i \ma
 
 ### Machine learning
 
-#### History
+#### Classical
 
 -   classification vs regression
 -   supervised and unsupervised learning
@@ -604,11 +664,9 @@ Annotated bibliography
 
 ### More articles to do
 
--   Univariate Distribution Relationships [^Leemis2008]
 -   *All of Statistics* [^Wasserman2003]
 -   *The Foundations of Statistics* [^Savage1954]
 
-[^Leemis2008]: @Leemis_2008_Univariate_distribution_relationships\.
 [^Savage1954]: @Savage_1954_The_Foundations_of_Statistics\.
 [^Wasserman2003]: @Wasserman_2003_All_of_Statistics_A_Concise_Course_in_Statistical\.
 
