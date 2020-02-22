@@ -156,7 +156,7 @@ The bias of an estimator, $\hat\theta$, is defined as
 $$ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}(\hat{\theta} - \theta) = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} $$
 
 The mean squared error (MSE) of an estimator has a similar formula to variance
-(see [@eq:variance])
+([@eq:variance])
 except that instead of quantifying the square of the difference of the estimator
 and its expected value, the MSE uses the square of the difference of the estimator
 and the true parameter:
