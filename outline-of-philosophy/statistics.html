@@ -130,7 +130,7 @@
     &amp;= \mathrm{E}(y^2) - 2 \: \mathrm{E}(y) \: \mathrm{E}(y) + \mathrm{E}(y)^2 \nonumber \\
     &amp;= \mathrm{E}(y^2) - \mathrm{E}(y)^2 \label{eq:variance}
 \end{align}\]</span>
-<p>The covariance matrix of random variables <span class="math inline">\(x_i\)</span>:</p>
+<p>The covariance matrix, <span class="math inline">\(\boldsymbol{V}\)</span>, of random variables <span class="math inline">\(x_i\)</span> is</p>
 <p><span class="math display">\[ V_{ij} = \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] = \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_{j} \label{eq:covariance_matrix_indexed} \]</span></p>
 <p><span class="math display">\[ \mathrm{Cov}(x_i, x_i) = \mathrm{Var}(x_i) \]</span></p>
 <span class="math display">\[\begin{equation}
@@ -143,7 +143,7 @@
 \end{pmatrix}
 \label{eq:covariance_matrix_array}
 \end{equation}\]</span>
-<p>The covariance of two random vectors:</p>
+<p>The covariance of two random vectors is given by</p>
 <p><span class="math display">\[ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\top}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\top} \label{eq:covariance_matrix_vectors} \]</span></p>
 <h4 id="uncertainty">Uncertainty</h4>
 <ul>
@@ -264,8 +264,10 @@
 <p><span class="math display">\[ N(\vec{x}| \vec{\mu}, \boldsymbol{\Sigma}) = (2 \pi)^{-k/2}\:\left|\boldsymbol{\Sigma}\right|^{-1/2} \: \exp\left[\frac{-1}{2}\:(\vec{x}-\vec{\mu})^{\top}\:\boldsymbol{\Sigma}^{-1}\:(\vec{x}-\vec{\mu})\right] \label{eq:gaussian_k_dim} \]</span></p>
 <p>where <span class="math inline">\(\boldsymbol{\Sigma}\)</span> is the covariance matrix (defined in eq.&#160;<span class="math inline">\(\eqref{eq:covariance_matrix_indexed}\)</span>) of the distribution.</p>
 <ul>
+<li>Central limit theorem</li>
 <li><span class="math inline">\(\chi^2\)</span> distribution</li>
 <li>Univariate distribution relationships<a href="#fn20" class="footnoteRef" id="fnref20"><sup>20</sup></a></li>
+<li>TODO: add fig</li>
 </ul>
 <h4 id="mixture-models">Mixture models</h4>
 <ul>

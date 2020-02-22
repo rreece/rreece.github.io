@@ -42,7 +42,7 @@ The variance of a random variable, $y$, is defined as
     &= \mathrm{E}(y^2) - \mathrm{E}(y)^2 \label{eq:variance}
 \end{align}
 
-The covariance matrix of random variables $x_i$:
+The covariance matrix, $\boldsymbol{V}$, of random variables $x_i$ is
 
 $$ V_{ij} = \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] = \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_{j} \label{eq:covariance_matrix_indexed} $$
 
@@ -59,7 +59,7 @@ $$ \mathrm{Cov}(x_i, x_i) = \mathrm{Var}(x_i) $$
 \label{eq:covariance_matrix_array}
 \end{equation}
 
-The covariance of two random vectors:
+The covariance of two random vectors is given by
 
 $$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\top}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\top} \label{eq:covariance_matrix_vectors} $$
 
@@ -204,8 +204,10 @@ where $\boldsymbol{\Sigma}$ is the covariance matrix
 (defined in [@eq:covariance_matrix_indexed])
 of the distribution.
 
+-   Central limit theorem
 -   $\chi^2$ distribution
 -   Univariate distribution relationships [^Leemis2008]
+-   TODO: add fig
 
 [^Leemis2008]: @Leemis_2008_Univariate_distribution_relationships\.
 
