@@ -256,7 +256,8 @@ Important synthesizers:
 
 ### Induction
 
--   Problem of induction
+#### Problem of induction
+
 -   How do we infer universals from particulars?
 
 Sextus Empiricus:
@@ -274,6 +275,11 @@ Sextus Empiricus:
     -   Uniformity of nature
     -   Humeanism
     -   Weintraub [^Weintraub1995]
+-   Russell's inductive turkey
+
+
+#### Inductive logic
+
 -   Mill
     -   *A System of Logic* (1843) [^Mill1843]
 -   Peirce
@@ -331,12 +337,25 @@ and the wonderful self-correcting nature of ampliative inference:
 >   name "induction"; the methods by which already existing generalizations
 >   are employed have received the name "deduction." [^Dewey1938p419]
 
--   Russell's Thanksgiving turkey
 -   Reichenbach [^Reichenbach1938]
 -   Carnap
     -   "On inductive logic" [^Carnap1945a]
     -   *Logical Foundations of Probability* [^Carnap1950b]
     -   *The Continuum of Inductive Methods* [^Carnap1952]
+    -   "The aim of inductive logic" [^Carnap1966]
+    -   "Notes on probability and induction" [^Carnap1973]
+
+[^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
+    @Reichenbach_1940_On_the_justification_of_induction\.
+[^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
+[^Carnap1950b]: @Carnap_1950_Logical_Foundations_of_Probability\.
+[^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
+[^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
+[^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
+
+
+#### Statistics as a solution to the problem of induction
+
 -   Salmon [^Salmon1963]
 -   Good [^Good1988]
 -   Hacking [^Hacking2001]
@@ -346,9 +365,6 @@ and the wonderful self-correcting nature of ampliative inference:
     -   Note the further discussion of Humeanism and laws of nature in
         the [Outline on scientific realism](scientific-realism.html#humeanism).
 
-[^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
-[^Carnap1950b]: @Carnap_1950_Logical_Foundations_of_Probability\.
-[^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Dewey1938p419]: @Dewey_1938_Logic_The_Theory_of_Inquiry\, p. 419.
 [^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
 [^Huber2007]: @Huber_2007_Confirmation_and_induction\.
@@ -356,8 +372,6 @@ and the wonderful self-correcting nature of ampliative inference:
 [^Good1988]: @Good_1988_The_interface_between_statistics_and_philosophy\.
 [^Mill1843]: @Mill_1843_A_System_of_Logic\.
 [^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
-[^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
-    @Reichenbach_1940_On_the_justification_of_induction\.
 [^Salmon1963]: @Salmon_1963_On_vindicating_induction\,
     @Salmon_1966_The_Foundations_of_Scientific_Inference\,
     @Salmon_1967_Carnaps_inductive_logic\,
@@ -399,23 +413,6 @@ Peirce:
 >   must be the truth.  [^Doyle1890]
 
 [^Doyle1890]: @Doyle_1890_The_Sign_of_the_Four\, ch. 6.
-
-
-### Statistical inference
-
--   How to measure? How to test?
--   Frequentist vs Bayesian probability
--   Ronald Fisher
--   Jerzy Neyman, Egon Pearson
--   Statistical hypothesis testing: power and confidence
--   Neyman-Pearson lemma
--   Carnap
-    -   "The aim of inductive logic" [^Carnap1966]
-    -   "Notes on probability and induction" [^Carnap1973]
--   See the [Outline of philosophy of statistics](statistics.html).
-
-[^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
-[^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
 
 
 ### Is there a universal scientific method?

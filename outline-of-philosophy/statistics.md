@@ -31,20 +31,22 @@ a measure of inductive confidence.
 
 Expectation:
 
-$$ \mathrm{E}(Y) \equiv \int dx \: P(x) \: Y \label{eq:expectation} $$
+$$ \mathrm{E}(y) \equiv \int dx \: P(x) \: y \label{eq:expectation} $$
 
-The variance of a random variable, $Y$, is defined as
+The variance of a random variable, $y$, is defined as
 
 \begin{align}
-    \mathrm{Var}(Y) &\equiv \mathrm{E}((Y - \mathrm{E}(Y))^2) \nonumber \\
-    &= \mathrm{E}(Y^2 - 2 \: Y \: \mathrm{E}(Y) + \mathrm{E}(Y)^2) \nonumber \\
-    &= \mathrm{E}(Y^2) - 2 \: \mathrm{E}(Y) \: \mathrm{E}(Y) + \mathrm{E}(Y)^2 \nonumber \\
-    &= \mathrm{E}(Y^2) - \mathrm{E}(Y)^2 \label{eq:variance}
+    \mathrm{Var}(y) &\equiv \mathrm{E}((y - \mathrm{E}(y))^2) \nonumber \\
+    &= \mathrm{E}(y^2 - 2 \: y \: \mathrm{E}(y) + \mathrm{E}(y)^2) \nonumber \\
+    &= \mathrm{E}(y^2) - 2 \: \mathrm{E}(y) \: \mathrm{E}(y) + \mathrm{E}(y)^2 \nonumber \\
+    &= \mathrm{E}(y^2) - \mathrm{E}(y)^2 \label{eq:variance}
 \end{align}
 
-The covariance of two random vectors:
+The covariance matrix of random variables $x_i$:
 
 $$ \boldsymbol{\Sigma}_{ij} = \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] = \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_{j} \label{eq:covariance_matrix_indexed} $$
+
+The covariance of two random vectors:
 
 $$ \boldsymbol{\Sigma} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\top}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\top} \label{eq:covariance_matrix_vectors} $$
 
