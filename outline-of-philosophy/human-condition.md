@@ -46,7 +46,16 @@ Issues and positions
     -   [Zen](https://en.wikipedia.org/wiki/Zen)
 
 
+### Romanticism
+
+-   focus on emotion
+-   criticism:
+    -   Alain de Botton
+
+
 ### Biology
+
+-   Darwinism
 
 ![[Blood by David S. Goodsell (2000)](http://mgl.scripps.edu/people/goodsell/illustration/public).](img/Goodsell-blood.jpg){#fig:Goodsell-blood}
 
