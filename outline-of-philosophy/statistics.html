@@ -116,6 +116,17 @@
 <p>Probability is of epistemic interest, being in some sense a measure of inductive confidence.</p>
 <ul>
 <li>Kolmogorov</li>
+</ul>
+<p>Expectation:</p>
+<p><span class="math display">\[ \mathrm{E}(Y) \equiv \int dx \: P(x) \: Y \label{eq:expectation} \]</span></p>
+<p>The variance of a random variable, <span class="math inline">\(Y\)</span>, is defined as</p>
+<span class="math display">\[\begin{align}
+    \mathrm{Var}(Y) &amp;\equiv \mathrm{E}((Y - \mathrm{E}(Y))^2) \nonumber \\
+    &amp;= \mathrm{E}(Y^2 - 2 \: Y \: \mathrm{E}(Y) + \mathrm{E}(Y)^2) \nonumber \\
+    &amp;= \mathrm{E}(Y^2) - 2 \: \mathrm{E}(Y) \: \mathrm{E}(Y) + \mathrm{E}(Y)^2 \nonumber \\
+    &amp;= \mathrm{E}(Y^2) - \mathrm{E}(Y)^2 \label{eq:variance}
+\end{align}\]</span>
+<ul>
 <li><a href="https://en.wikipedia.org/wiki/Thomas_Bayes">Bayes, Thomas (1701-1761)</a></li>
 <li>Bayes&#8217; theorem</li>
 </ul>
@@ -124,8 +135,9 @@
 <li>Example of conditioning with medical diagnostics</li>
 <li>Frequentist vs Bayesian probability</li>
 </ul>
-<p><span class="math display">\[ P(H|X) = P(X|H) \: P(H) \: / \: P(X) \label{eq:bayes_theorem_hx} \]</span></p>
+<p><span class="math display">\[ P(H|D) = P(D|H) \: P(H) \: / \: P(D) \label{eq:bayes_theorem_hd} \]</span></p>
 <ul>
+<li>Extended version of Bayes theorem</li>
 <li>Likelihood</li>
 </ul>
 <p><span class="math display">\[ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} \]</span></p>
@@ -212,36 +224,25 @@
 <h4 id="inverse-problems">Inverse problems</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Inverse_problem">Inverse problem</a></li>
-</ul>
-<p>Expectation:</p>
-<p><span class="math display">\[ \mathrm{E}(Y) \equiv \int dx \: P(x) \: Y \label{eq:expectation} \]</span></p>
-<ul>
 <li>estimators</li>
 <li>regression</li>
 </ul>
 <h4 id="bias-and-variance">Bias and variance</h4>
 <p>The bias of an estimator, <span class="math inline">\(\hat\theta\)</span>, is defined as</p>
-<p><span class="math display">\[ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}[\hat{\theta} - \theta] = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} \]</span></p>
-<p>The variance of a random variable, <span class="math inline">\(X\)</span>, is defined as</p>
-<span class="math display">\[\begin{align}
-    \mathrm{Var}(X) &amp;\equiv \mathrm{E}[(X - \mathrm{E}(X))^2] \nonumber \\
-    &amp;= \mathrm{E}[X^2 - 2 \: X \: \mathrm{E}(X) + \mathrm{E}(X)^2] \nonumber \\
-    &amp;= \mathrm{E}[X^2] - 2 \: \mathrm{E}(X) \: \mathrm{E}(X) + \mathrm{E}(X)^2 \nonumber \\
-    &amp;= \mathrm{E}[X^2] - \mathrm{E}(X)^2 \label{eq:variance}
-\end{align}\]</span>
+<p><span class="math display">\[ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}(\hat{\theta} - \theta) = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} \]</span></p>
 <p>The mean squared error (MSE) of an estimator has a similar formula to variance except that instead of quantifying the square of the difference of the estimator and its expected value, the MSE is uses the square of the difference of the estimator and the true parameter:</p>
-<p><span class="math display">\[ \mathrm{MSE}(\hat{\theta}) \equiv \mathrm{E}[(\hat{\theta} - \theta)^2] \label{eq:mse} \]</span></p>
+<p><span class="math display">\[ \mathrm{MSE}(\hat{\theta}) \equiv \mathrm{E}((\hat{\theta} - \theta)^2) \label{eq:mse} \]</span></p>
 <p>The MSE of an estimator can be related to its bias and its variance by the following proof:</p>
 <span class="math display">\[\begin{align}
-    \mathrm{MSE}(\hat{\theta}) &amp;= \mathrm{E}[\hat{\theta}^2 - 2 \: \hat{\theta} \: \theta + \theta^2] \nonumber \\
-    &amp;= \mathrm{E}[\hat{\theta}^2] - 2 \: \mathrm{E}[\hat{\theta}] \: \theta + \theta^2
+    \mathrm{MSE}(\hat{\theta}) &amp;= \mathrm{E}(\hat{\theta}^2 - 2 \: \hat{\theta} \: \theta + \theta^2) \nonumber \\
+    &amp;= \mathrm{E}(\hat{\theta}^2) - 2 \: \mathrm{E}(\hat{\theta}) \: \theta + \theta^2
 \end{align}\]</span>
 <p>noting that</p>
-<p><span class="math display">\[ \mathrm{Var}(\hat{\theta}) = \mathrm{E}[\hat{\theta}^2] - \mathrm{E}(\hat{\theta})^2 \]</span></p>
+<p><span class="math display">\[ \mathrm{Var}(\hat{\theta}) = \mathrm{E}(\hat{\theta}^2) - \mathrm{E}(\hat{\theta})^2 \]</span></p>
 <p>and</p>
 <span class="math display">\[\begin{align}
-    \mathrm{Bias}(\hat{\theta})^2 &amp;= (\mathrm{E}[\hat{\theta} - \theta])^2 \nonumber \\
-    &amp;= \mathrm{E}[\hat{\theta}]^2 - 2 \: \mathrm{E}[\hat{\theta}] \: \theta + \theta^2
+    \mathrm{Bias}(\hat{\theta})^2 &amp;= \mathrm{E}(\hat{\theta} - \theta)^2 \nonumber \\
+    &amp;= \mathrm{E}(\hat{\theta})^2 - 2 \: \mathrm{E}(\hat{\theta}) \: \theta + \theta^2
 \end{align}\]</span>
 <p>we see that MSE is equivalent to</p>
 <p><span class="math display">\[ \mathrm{MSE}(\hat{\theta}) = \mathrm{Var}(\hat{\theta}) + \mathrm{Bias}(\hat{\theta})^2 \label{eq:mse_variance_bias} \]</span></p>
@@ -256,11 +257,11 @@
 <ul>
 <li>MLE: Maximum likelihood estimators, Fisher<a href="#fn22" class="footnoteRef" id="fnref22"><sup>22</sup></a></li>
 </ul>
-<p><span class="math display">\[\hat{\theta} = \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: P(D | \theta) \label{eq:mle} \]</span></p>
-<p>Maximizing <span class="math inline">\(\mathrm{log} \: P(D|\theta)\)</span> is equivalent to maximizing <span class="math inline">\(P(D|\theta)\)</span>, and the former is more convenient because for data that are independent and identically distributed (<em>i.i.d.</em>) the joint probability distribution can be factored into a product of individual measurements:</p>
-<p><span class="math display">\[ p(D|\theta) = \prod_i p(\vec{x}_i|\theta) \]</span></p>
+<p><span class="math display">\[\hat{\theta} = \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: L(\theta) \label{eq:mle} \]</span></p>
+<p>Maximizing <span class="math inline">\(\mathrm{log} \: L(\theta)\)</span> is equivalent to maximizing <span class="math inline">\(L(\theta)\)</span>, and the former is more convenient because for data that are independent and identically distributed (<em>i.i.d.</em>) the joint probability distribution can be factored into a product of individual measurements:</p>
+<p><span class="math display">\[ L(\theta) = \prod_i L(\theta|\vec{x}_i) = \prod_i P(\vec{x}_i|\theta) \]</span></p>
 <p>and taking the log of the product makes it a sum:</p>
-<p><span class="math display">\[ \mathrm{log} \: p(D|\theta) = \sum_i \mathrm{log} \: p(\vec{x}_i|\theta) \]</span></p>
+<p><span class="math display">\[ \mathrm{log} \: L(\theta) = \sum_i \mathrm{log} \: L(\theta|\vec{x}_i) = \sum_i \mathrm{log} \: P(\vec{x}_i|\theta) \]</span></p>
 <h4 id="variance-of-mles">Variance of MLEs</h4>
 <ul>
 <li>Taylor expansion of a likelihood near its maximum</li>

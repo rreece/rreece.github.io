@@ -20,6 +20,20 @@ Probability is of epistemic interest, being in some sense
 a measure of inductive confidence.
 
 -   Kolmogorov
+
+Expectation:
+
+$$ \mathrm{E}(Y) \equiv \int dx \: P(x) \: Y \label{eq:expectation} $$
+
+The variance of a random variable, $Y$, is defined as
+
+\begin{align}
+    \mathrm{Var}(Y) &\equiv \mathrm{E}((Y - \mathrm{E}(Y))^2) \nonumber \\
+    &= \mathrm{E}(Y^2 - 2 \: Y \: \mathrm{E}(Y) + \mathrm{E}(Y)^2) \nonumber \\
+    &= \mathrm{E}(Y^2) - 2 \: \mathrm{E}(Y) \: \mathrm{E}(Y) + \mathrm{E}(Y)^2 \nonumber \\
+    &= \mathrm{E}(Y^2) - \mathrm{E}(Y)^2 \label{eq:variance}
+\end{align}
+
 -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   Bayes' theorem
 
@@ -28,8 +42,9 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 -   Example of conditioning with medical diagnostics
 -   Frequentist vs Bayesian probability
 
-$$ P(H|X) = P(X|H) \: P(H) \: / \: P(X) \label{eq:bayes_theorem_hx} $$
+$$ P(H|D) = P(D|H) \: P(H) \: / \: P(D) \label{eq:bayes_theorem_hd} $$
 
+-   Extended version of Bayes theorem
 -   Likelihood
 
 $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
@@ -130,11 +145,6 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 #### Inverse problems
 
 -   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
-
-Expectation:
-
-$$ \mathrm{E}(Y) \equiv \int dx \: P(x) \: Y \label{eq:expectation} $$
-
 -   estimators
 -   regression
 
@@ -143,41 +153,32 @@ $$ \mathrm{E}(Y) \equiv \int dx \: P(x) \: Y \label{eq:expectation} $$
 
 The bias of an estimator, $\hat\theta$, is defined as
 
-$$ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}[\hat{\theta} - \theta] = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} $$
-
-The variance of a random variable, $X$, is defined as
-
-\begin{align}
-    \mathrm{Var}(X) &\equiv \mathrm{E}[(X - \mathrm{E}(X))^2] \nonumber \\
-    &= \mathrm{E}[X^2 - 2 \: X \: \mathrm{E}(X) + \mathrm{E}(X)^2] \nonumber \\
-    &= \mathrm{E}[X^2] - 2 \: \mathrm{E}(X) \: \mathrm{E}(X) + \mathrm{E}(X)^2 \nonumber \\
-    &= \mathrm{E}[X^2] - \mathrm{E}(X)^2 \label{eq:variance}
-\end{align}
+$$ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}(\hat{\theta} - \theta) = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} $$
 
 The mean squared error (MSE) of an estimator has a similar formula to variance
 except that instead of quantifying the square of the difference of the estimator
 and its expected value, the MSE is uses the square of the difference of the estimator
 and the true parameter:
 
-$$ \mathrm{MSE}(\hat{\theta}) \equiv \mathrm{E}[(\hat{\theta} - \theta)^2] \label{eq:mse} $$
+$$ \mathrm{MSE}(\hat{\theta}) \equiv \mathrm{E}((\hat{\theta} - \theta)^2) \label{eq:mse} $$
 
 The MSE of an estimator can be related
 to its bias and its variance by the following proof:
 
 \begin{align}
-    \mathrm{MSE}(\hat{\theta}) &= \mathrm{E}[\hat{\theta}^2 - 2 \: \hat{\theta} \: \theta + \theta^2] \nonumber \\
-    &= \mathrm{E}[\hat{\theta}^2] - 2 \: \mathrm{E}[\hat{\theta}] \: \theta + \theta^2
+    \mathrm{MSE}(\hat{\theta}) &= \mathrm{E}(\hat{\theta}^2 - 2 \: \hat{\theta} \: \theta + \theta^2) \nonumber \\
+    &= \mathrm{E}(\hat{\theta}^2) - 2 \: \mathrm{E}(\hat{\theta}) \: \theta + \theta^2
 \end{align}
 
 noting that
 
-$$ \mathrm{Var}(\hat{\theta}) = \mathrm{E}[\hat{\theta}^2] - \mathrm{E}(\hat{\theta})^2 $$
+$$ \mathrm{Var}(\hat{\theta}) = \mathrm{E}(\hat{\theta}^2) - \mathrm{E}(\hat{\theta})^2 $$
 
 and
 
 \begin{align}
-    \mathrm{Bias}(\hat{\theta})^2 &= (\mathrm{E}[\hat{\theta} - \theta])^2 \nonumber \\
-    &= \mathrm{E}[\hat{\theta}]^2 - 2 \: \mathrm{E}[\hat{\theta}] \: \theta + \theta^2
+    \mathrm{Bias}(\hat{\theta})^2 &= \mathrm{E}(\hat{\theta} - \theta)^2 \nonumber \\
+    &= \mathrm{E}(\hat{\theta})^2 - 2 \: \mathrm{E}(\hat{\theta}) \: \theta + \theta^2
 \end{align}
 
 we see that MSE is equivalent to
@@ -200,19 +201,19 @@ TODO:
 
 -   MLE: Maximum likelihood estimators, Fisher [^Aldrich1997]
 
-$$\hat{\theta} = \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: P(D | \theta) \label{eq:mle} $$
+$$\hat{\theta} = \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: L(\theta) \label{eq:mle} $$
 
-Maximizing $\mathrm{log} \: P(D|\theta)$ is equivalent to maximizing $P(D|\theta)$,
+Maximizing $\mathrm{log} \: L(\theta)$ is equivalent to maximizing $L(\theta)$,
 and the former is more convenient because for data that are
 independent and identically distributed (*i.i.d.*)
 the joint probability distribution can be factored
 into a product of individual measurements:
 
-$$ p(D|\theta) = \prod_i p(\vec{x}_i|\theta) $$
+$$ L(\theta) = \prod_i L(\theta|\vec{x}_i) = \prod_i P(\vec{x}_i|\theta) $$
 
 and taking the log of the product makes it a sum:
 
-$$ \mathrm{log} \: p(D|\theta) = \sum_i \mathrm{log} \: p(\vec{x}_i|\theta) $$
+$$ \mathrm{log} \: L(\theta) = \sum_i \mathrm{log} \: L(\theta|\vec{x}_i) = \sum_i \mathrm{log} \: P(\vec{x}_i|\theta) $$
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 
