@@ -31,7 +31,7 @@ a measure of inductive confidence.
 
 Expectation:
 
-$$ \mathrm{E}(y) \equiv \int dx \: P(x) \: y \label{eq:expectation} $$
+$$ \mathrm{E}(y) \equiv \int dx \: P(x) \: y(x) \label{eq:expectation} $$
 
 The variance of a random variable, $y$, is defined as
 
@@ -45,6 +45,19 @@ The variance of a random variable, $y$, is defined as
 The covariance matrix of random variables $x_i$:
 
 $$ \boldsymbol{\Sigma}_{ij} = \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] = \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_{j} \label{eq:covariance_matrix_indexed} $$
+
+$$ \mathrm{Cov}(x_i, x_i) = \mathrm{Var}(x_i) $$
+
+\begin{equation}
+\boldsymbol{\Sigma} = 
+\begin{pmatrix}
+    \mathrm{Var}(x_1) & \mathrm{Cov}(x_1, x_2) & \cdots & \mathrm{Cov}(x_1, x_n) \\
+    \mathrm{Cov}(x_2, x_1) & \mathrm{Var}(x_2) & \cdots & \mathrm{Cov}(x_2, x_n) \\
+    \vdots & \vdots & \ddots &  \vdots \\
+    \mathrm{Cov}(x_n, x_1) & \mathrm{Cov}(x_n, x_2) & \cdots & \mathrm{Var}(x_n)
+\end{pmatrix}
+\label{eq:covariance_matrix_array}
+\end{equation}
 
 The covariance of two random vectors:
 

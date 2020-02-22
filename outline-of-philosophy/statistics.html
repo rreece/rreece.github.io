@@ -122,7 +122,7 @@
 </ul>
 <h4 id="expectation-and-variance">Expectation and variance</h4>
 <p>Expectation:</p>
-<p><span class="math display">\[ \mathrm{E}(y) \equiv \int dx \: P(x) \: y \label{eq:expectation} \]</span></p>
+<p><span class="math display">\[ \mathrm{E}(y) \equiv \int dx \: P(x) \: y(x) \label{eq:expectation} \]</span></p>
 <p>The variance of a random variable, <span class="math inline">\(y\)</span>, is defined as</p>
 <span class="math display">\[\begin{align}
     \mathrm{Var}(y) &amp;\equiv \mathrm{E}((y - \mathrm{E}(y))^2) \nonumber \\
@@ -132,6 +132,17 @@
 \end{align}\]</span>
 <p>The covariance matrix of random variables <span class="math inline">\(x_i\)</span>:</p>
 <p><span class="math display">\[ \boldsymbol{\Sigma}_{ij} = \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] = \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_{j} \label{eq:covariance_matrix_indexed} \]</span></p>
+<p><span class="math display">\[ \mathrm{Cov}(x_i, x_i) = \mathrm{Var}(x_i) \]</span></p>
+<span class="math display">\[\begin{equation}
+\boldsymbol{\Sigma} = 
+\begin{pmatrix}
+    \mathrm{Var}(x_1) &amp; \mathrm{Cov}(x_1, x_2) &amp; \cdots &amp; \mathrm{Cov}(x_1, x_n) \\
+    \mathrm{Cov}(x_2, x_1) &amp; \mathrm{Var}(x_2) &amp; \cdots &amp; \mathrm{Cov}(x_2, x_n) \\
+    \vdots &amp; \vdots &amp; \ddots &amp;  \vdots \\
+    \mathrm{Cov}(x_n, x_1) &amp; \mathrm{Cov}(x_n, x_2) &amp; \cdots &amp; \mathrm{Var}(x_n)
+\end{pmatrix}
+\label{eq:covariance_matrix_array}
+\end{equation}\]</span>
 <p>The covariance of two random vectors:</p>
 <p><span class="math display">\[ \boldsymbol{\Sigma} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\top}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\top} \label{eq:covariance_matrix_vectors} \]</span></p>
 <h4 id="uncertainty">Uncertainty</h4>
