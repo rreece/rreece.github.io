@@ -200,7 +200,7 @@ TODO:
 
 #### Maximum likelihood estimation
 
--   MLE: Maximum likelihood estimators, Fisher [^Aldrich1997]
+A maximum likelihood estimator (MLE) was first used by Fisher [^Aldrich1997]
 
 $$\hat{\theta} = \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: L(\theta) \label{eq:mle} $$
 
@@ -214,7 +214,7 @@ $$ L(\theta) = \prod_i L(\theta|x_i) = \prod_i P(x_i|\theta) $$
 
 and taking the log of the product makes it a sum:
 
-$$ \mathrm{log} \: L(\theta) = \sum_i \mathrm{log} \: L(\theta|\vec{x}_i) = \sum_i \mathrm{log} \: P(\vec{x}_i|\theta) $$
+$$ \mathrm{log} \: L(\theta) = \sum_i \mathrm{log} \: L(\theta|x_i) = \sum_i \mathrm{log} \: P(x_i|\theta) $$
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 
