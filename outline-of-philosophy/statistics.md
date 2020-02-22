@@ -207,7 +207,7 @@ $$\hat{\theta} = \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: L(\theta)
 Maximizing $\mathrm{log} \: L(\theta)$ is equivalent to maximizing $L(\theta)$,
 and the former is more convenient because for data that are
 independent and identically distributed (*i.i.d.*)
-the joint probability distribution can be factored
+the joint likelihood can be factored
 into a product of individual measurements:
 
 $$ L(\theta) = \prod_i L(\theta|x_i) = \prod_i P(x_i|\theta) $$
