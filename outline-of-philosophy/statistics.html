@@ -132,7 +132,11 @@
     &amp;= \mathrm{E}(y^2) - \mathrm{E}(y)^2 \label{eq:variance}
 \end{align}\]</span>
 <p>The covariance matrix, <span class="math inline">\(\boldsymbol{V}\)</span>, of random variables <span class="math inline">\(x_i\)</span> is</p>
-<p><span class="math display">\[ V_{ij} = \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] = \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_{j} \label{eq:covariance_matrix_indexed} \]</span></p>
+<span class="math display">\[\begin{align}
+    V_{ij} &amp;= \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] \nonumber \\
+           &amp;= \mathrm{E}(x_i \: x_{j} - \mu_i \: x_j - x_i \: \mu_j + \mu_i \: \mu_j ) \nonumber \\
+           &amp;= \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_j \label{eq:covariance_matrix_indexed}
+\end{align}\]</span>
 <span class="math display">\[\begin{equation}
 \boldsymbol{V} = 
 \begin{pmatrix}
@@ -145,8 +149,7 @@
 \end{equation}\]</span>
 <p>Diagonal elements of the covariance matrix are the variances of each variable.</p>
 <p><span class="math display">\[ \mathrm{Cov}(x_i, x_i) = \mathrm{Var}(x_i) \]</span></p>
-<p>Off-diagonal elements of a covariance matrix measure how related two variables are, linearly.</p>
-<p>Covariance can be normalized to give the correlation coefficient between variables:</p>
+<p>Off-diagonal elements of a covariance matrix measure how related two variables are, linearly. Covariance can be normalized to give the correlation coefficient between variables:</p>
 <p><span class="math display">\[ \mathrm{Cor}(x_i, x_j) \equiv \frac{ \mathrm{Cov}(x_i, x_j) }{ \sqrt{ \mathrm{Var}(x_i) \: \mathrm{Var}(x_j)  }  } \label{eq:correlation_matrix} \]</span></p>
 <p>which is bounded: <span class="math inline">\(-1 \leq \mathrm{Cor}(x_i, x_j) \leq 1\)</span>.</p>
 <p>The covariance of two random vectors is given by</p>
@@ -267,9 +270,9 @@
 <li>Poisson distribution</li>
 <li>Normal/Gaussian distribution</li>
 </ul>
-<p><span class="math display">\[ N(x| \mu, \sigma^2) = \frac{1}{\sqrt{2\,\pi\:\sigma^2}} \: \exp\left[\frac{-(x-\mu)^2}{2\,\sigma^2}\right] \label{eq:gaussian} \]</span></p>
+<p><span class="math display">\[ N(x \,|\, \mu, \sigma^2) = \frac{1}{\sqrt{2\,\pi\:\sigma^2}} \: \exp\left[\frac{-(x-\mu)^2}{2\,\sigma^2}\right] \label{eq:gaussian} \]</span></p>
 <p>and in <span class="math inline">\(k\)</span> dimensions:</p>
-<p><span class="math display">\[ N(\vec{x}| \vec{\mu}, \boldsymbol{\Sigma}) = (2 \pi)^{-k/2}\:\left|\boldsymbol{\Sigma}\right|^{-1/2} \: \exp\left[\frac{-1}{2}\:(\vec{x}-\vec{\mu})^{\top}\:\boldsymbol{\Sigma}^{-1}\:(\vec{x}-\vec{\mu})\right] \label{eq:gaussian_k_dim} \]</span></p>
+<p><span class="math display">\[ N(\vec{x} \,|\, \vec{\mu}, \boldsymbol{\Sigma}) = (2 \pi)^{-k/2}\:\left|\boldsymbol{\Sigma}\right|^{-1/2} \: \exp\left[\frac{-1}{2}\:(\vec{x}-\vec{\mu})^{\top}\:\boldsymbol{\Sigma}^{-1}\:(\vec{x}-\vec{\mu})\right] \label{eq:gaussian_k_dim} \]</span></p>
 <p>where <span class="math inline">\(\boldsymbol{\Sigma}\)</span> is the covariance matrix (defined in eq.&#160;<span class="math inline">\(\eqref{eq:covariance_matrix_indexed}\)</span>) of the distribution.</p>
 <ul>
 <li>Central limit theorem</li>

@@ -49,7 +49,11 @@ The variance of a random variable, $y$, is defined as
 
 The covariance matrix, $\boldsymbol{V}$, of random variables $x_i$ is
 
-$$ V_{ij} = \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] = \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_{j} \label{eq:covariance_matrix_indexed} $$
+\begin{align}
+    V_{ij} &= \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] \nonumber \\
+           &= \mathrm{E}(x_i \: x_{j} - \mu_i \: x_j - x_i \: \mu_j + \mu_i \: \mu_j ) \nonumber \\
+           &= \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_j \label{eq:covariance_matrix_indexed}
+\end{align}
 
 \begin{equation}
 \boldsymbol{V} = 
@@ -69,7 +73,6 @@ $$ \mathrm{Cov}(x_i, x_i) = \mathrm{Var}(x_i) $$
 
 Off-diagonal elements of a covariance matrix measure
 how related two variables are, linearly.
-
 Covariance can be normalized to give the correlation coefficient between
 variables:
 
@@ -218,11 +221,11 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 -   Poisson distribution
 -   Normal/Gaussian distribution
 
-$$ N(x| \mu, \sigma^2) = \frac{1}{\sqrt{2\,\pi\:\sigma^2}} \: \exp\left[\frac{-(x-\mu)^2}{2\,\sigma^2}\right] \label{eq:gaussian} $$
+$$ N(x \,|\, \mu, \sigma^2) = \frac{1}{\sqrt{2\,\pi\:\sigma^2}} \: \exp\left[\frac{-(x-\mu)^2}{2\,\sigma^2}\right] \label{eq:gaussian} $$
 
 and in $k$ dimensions:
 
-$$ N(\vec{x}| \vec{\mu}, \boldsymbol{\Sigma}) = (2 \pi)^{-k/2}\:\left|\boldsymbol{\Sigma}\right|^{-1/2} \: \exp\left[\frac{-1}{2}\:(\vec{x}-\vec{\mu})^{\top}\:\boldsymbol{\Sigma}^{-1}\:(\vec{x}-\vec{\mu})\right] \label{eq:gaussian_k_dim} $$
+$$ N(\vec{x} \,|\, \vec{\mu}, \boldsymbol{\Sigma}) = (2 \pi)^{-k/2}\:\left|\boldsymbol{\Sigma}\right|^{-1/2} \: \exp\left[\frac{-1}{2}\:(\vec{x}-\vec{\mu})^{\top}\:\boldsymbol{\Sigma}^{-1}\:(\vec{x}-\vec{\mu})\right] \label{eq:gaussian_k_dim} $$
 
 where $\boldsymbol{\Sigma}$ is the covariance matrix
 (defined in [@eq:covariance_matrix_indexed])
