@@ -347,10 +347,11 @@ $$ \mathrm{log} \: L(\theta) = \sum_i \mathrm{log} \: L(\theta|x_i) = \sum_i \ma
 [^Rice2007p300]: @Rice_2007_Mathematical_Statistics_and_Data_Analysis\, p. 300--2.
 
 
-#### Bayesian credability intervals
+#### Bayesian credibility intervals
 
 -   defined, MAP
 -   prior sensitivity
+    -   Betancourt, M. (2018). [Towards A Principled Bayesian Workflow](https://github.com/betanalpha/jupyter_case_studies/blob/master/principled_bayesian_workflow/principled_bayesian_workflow.ipynb) - ipynb
 -   not invariant to reparametrization in general
 -   Jeffreys priors are
 -   Examples:
