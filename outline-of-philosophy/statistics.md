@@ -33,6 +33,11 @@ Expectation:
 
 $$ \mathrm{E}(y) \equiv \int dx \: P(x) \: y(x) \label{eq:expectation} $$
 
+Expectation values can be approximated with a partial sum over some data
+or monte carol sample:
+
+$$ \mathrm{E}(y) \approx \frac{1}{n} \sum_s^n y(x_s) \label{eq:expectation_sum} $$
+
 The variance of a random variable, $y$, is defined as
 
 \begin{align}
@@ -46,8 +51,6 @@ The covariance matrix, $\boldsymbol{V}$, of random variables $x_i$ is
 
 $$ V_{ij} = \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] = \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_{j} \label{eq:covariance_matrix_indexed} $$
 
-$$ \mathrm{Cov}(x_i, x_i) = \mathrm{Var}(x_i) $$
-
 \begin{equation}
 \boldsymbol{V} = 
 \begin{pmatrix}
@@ -59,6 +62,21 @@ $$ \mathrm{Cov}(x_i, x_i) = \mathrm{Var}(x_i) $$
 \label{eq:covariance_matrix_array}
 \end{equation}
 
+Diagonal elements of the covariance matrix are the variances of each
+variable.
+
+$$ \mathrm{Cov}(x_i, x_i) = \mathrm{Var}(x_i) $$
+
+Off-diagonal elements of a covariance matrix measure
+how related two variables are, linearly.
+
+Covariance can be normalized to give the correlation coefficient between
+variables:
+
+$$ \mathrm{Cor}(x_i, x_j) \equiv \frac{ \mathrm{Cov}(x_i, x_j) }{ \sqrt{ \mathrm{Var}(x_i) \: \mathrm{Var}(x_j)  }  } \label{eq:correlation_matrix} $$
+
+which is bounded: $-1 \leq \mathrm{Cor}(x_i, x_j)  \leq 1$.
+
 The covariance of two random vectors is given by
 
 $$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\top}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\top} \label{eq:covariance_matrix_vectors} $$
@@ -66,7 +84,9 @@ $$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{
 
 #### Uncertainty
 
+-   Quantiles
 -   Practice of standard error
+-   Uncertainty quantification
 
 
 #### Bayes' theorem
@@ -105,14 +125,15 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
     -   "What do these data say?" [^Royall1997p171]
 -   We will return to the frequentist vs bayesian debate in the section on the
     ["Statistics Wars"](#statistics-wars).
--   Uncertainty quantification
 
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Cranmer2015p6]: @Cranmer_2015_Practical_statistics_for_the_LHC\, p. 6.
 [^Royall1997p171]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\, p. 171--2.
 
 
-### Early investigators
+### Foundations of statistics
+
+#### Early investigators
 
 -   [Graunt, John (1620-1674)](https://en.wikipedia.org/wiki/John_Graunt)
 -   [Bernoulli, Jacob (1655-1705)](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
@@ -138,7 +159,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 [^Venn1888]: @Venn_1888_The_Logic_of_Chance\.
 
 
-### Foundations of statistics
+#### Foundations of modern statistics
 
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
     -   Formulated modern statistics in "Illustrations of the Logic of Science",
@@ -157,19 +178,22 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
     -   objective (non-informative) Jeffreys priors
--   Pedagogy
-    -   Kendall [^Kendall1946]
-    -   James [^James2006]
-    -   Cousins [^Cousins2018]
-    -   Cowan [^Cowan1998]
-    -   Cranmer [^Cranmer2015]
-    -   Weisberg [^Weisberg2019]
 
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
+[^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
 [^Fisher1915]: @Fisher_1915_Frequency_distribution_of_the_values\.
 [^Fisher1921]: @Fisher_1921_On_the_probable_error_of_a_coefficient\.
-[^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
 [^Salsburg2001]: @Salsburg_2001_The_Lady_Tasting_Tea\.
+
+
+#### Pedagogy
+
+-   Kendall [^Kendall1946]
+-   James [^James2006]
+-   Cousins [^Cousins2018]
+-   Cowan [^Cowan1998]
+-   Cranmer [^Cranmer2015]
+-   Weisberg [^Weisberg2019]
 
 [^Cousins2018]: @Cousins_2018_Lectures_on_statistics_in_theory_Prelude\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
@@ -215,6 +239,11 @@ of the distribution.
 #### Mixture models
 
 -   Gaussian mixture models (GMM)
+-   Marked poisson
+    -   [pyhf model description](https://scikit-hep.org/pyhf/intro.html)
+    -   HistFactory [^Cranmer2012]
+
+[^Cranmer2012]: @Cranmer_2012_HistFactory_A_tool_for_creating_statistical\.
 
 
 ### Point estimation and confidence intervals
@@ -279,7 +308,7 @@ TODO:
 
 A maximum likelihood estimator (MLE) was first used by Fisher [^Aldrich1997]
 
-$$\hat{\theta} = \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: L(\theta) \label{eq:mle} $$
+$$\hat{\theta} \equiv \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: L(\theta) \label{eq:mle} $$
 
 Maximizing $\mathrm{log} \: L(\theta)$ is equivalent to maximizing $L(\theta)$,
 and the former is more convenient because for data that are
@@ -391,6 +420,7 @@ $$ \mathrm{log} \: L(\theta) = \sum_i \mathrm{log} \: L(\theta|x_i) = \sum_i \ma
 -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
     -   *Exploratory Data Analysis* (1977) [^Tukey1977]
+-   File-drawer effect = look-elsewhere effect
 -   Stopping rules
     -   validation dataset
     -   statistical issues, violates the likelihood principle
@@ -484,7 +514,6 @@ $$ \mathrm{log} \: L(\theta) = \sum_i \mathrm{log} \: L(\theta|x_i) = \sum_i \ma
 
 ### P-value controversy
 
--   File-drawer effect = look-elsewhere effect
 -   "Why most published research findings are false" [^Ioannidis2005]
 -   ASA statement on $p$-values [^Wasserstein2016]
 -   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]

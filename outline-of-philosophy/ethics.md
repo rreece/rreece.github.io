@@ -351,6 +351,7 @@ Click to show links
 -   ["Why Our Children Don't Think There Are Moral Facts"](http://opinionator.blogs.nytimes.com/2015/03/02/why-our-children-dont-think-there-are-moral-facts/) -  Justin McBrayer
 -   ["Why I think Sam Harris is wrong about morality"](http://righteousmind.com/why-i-think-sam-harris-is-wrong-about-morality/) - Jonathan Haidt
 -   [The evolution of trust](http://ncase.me/trust/)
+-   [*The Economy*](https://core-econ.org/the-economy/book/text/0-3-contents.html) - an online textbook on economics
 
 ### Videos
 
