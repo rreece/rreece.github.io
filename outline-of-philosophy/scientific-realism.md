@@ -903,6 +903,7 @@ Click to show links
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
 -   [Analysis](http://plato.stanford.edu/entries/analysis/)
 -   [Analytic/Synthetic Distinction](http://plato.stanford.edu/entries/analytic-synthetic/)
+-   [Carnap, Rudolf (1891-1970)](https://plato.stanford.edu/entries/carnap/)
 -   [Causal Models](https://plato.stanford.edu/entries/causal-models/)
 -   [Causal Processes](http://plato.stanford.edu/entries/causation-process/)
 -   [Challenges to Metaphysical Realism](http://plato.stanford.edu/entries/realism-sem-challenge/)

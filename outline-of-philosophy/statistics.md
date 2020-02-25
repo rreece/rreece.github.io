@@ -735,6 +735,7 @@ Click to show links
 -   [Analysis of Knowledge](http://plato.stanford.edu/entries/knowledge-analysis/)
 -   [Bayes' Theorem](https://plato.stanford.edu/entries/bayes-theorem/)
 -   [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
+-   [Carnap, Rudolf (1891-1970)](https://plato.stanford.edu/entries/carnap/)
 -   [Causal Models](https://plato.stanford.edu/entries/causal-models/)
 -   [Causal Processes](http://plato.stanford.edu/entries/causation-process/)
 -   [Dutch Book Arguments](https://plato.stanford.edu/entries/dutch-book/)
