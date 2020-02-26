@@ -217,9 +217,10 @@ Verification theory of meaning: All statements that can't be empirically verifie
 -   *The Logical Structure of the World* [^Carnap1928]
 -   Scheinproblem = Pseudo-problem
 -   *The Logical Syntax of Language* [^Carnap1937]
+    -   LSL in a nutshell [^Fowler2010]
+    -   "talk of meaning should in any case be eschewed in favor of talk of syntax" - [SEP](https://plato.stanford.edu/entries/carnap/syntax.html)
 -   Carnap's "ESO" [^Carnap1950]
 -   Carnap's "Logical Foundations of Science" [^Carnap1955]
--   LSL in a nutshell [^Fowler2010]
 
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
 [^Carnap1937]: @Carnap_1937_Logical_Syntax_of_Language\.
