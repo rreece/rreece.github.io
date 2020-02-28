@@ -244,8 +244,9 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 #### Attacks
 
 -   "Man is the measure of all things" - Protagoras
--   "The Science Wars"
 -   Postmodernism, Social construction
+-   "The Science Wars"
+    -   [Bruno Latour, the Post-Truth Philosopher, Mounts a Defense of Science](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html) - nytimes
 -   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2) - IEP
 -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/) - SEP
 -   Tautological: Of course science (scientia) is the domain of all knowledge.
@@ -255,6 +256,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   [The Case Against Reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/) [^Gefter2016]
     -   [The magical thinking of guys who love logic](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
     -   [Scientists Must Challenge What Makes Studies Scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific) [^PrescodWeinstein2017]
+
 
 [^Gefter2016]: @Gefter_2016_The_Case_Against_Reality\.
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.

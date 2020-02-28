@@ -141,6 +141,7 @@ Science makes real progress in describing real features of the world.
 -   Scientific revolution; paradigm shift; pessimistic meta-induction
 -   Social constructivism
 -   Epistemological anarchism
+-   See discussion of the Science Wars in [Criticisms of naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism)
 -   TODO: work through the challenges presented in [these videos](https://www.youtube.com/playlist?list=PLz0n_SjOttTenxXXdML7fOu1og3D9LaME).
 -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
 
