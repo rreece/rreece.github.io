@@ -72,6 +72,14 @@ Issues and positions
 -   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
 -   [Tycho Brahe (1546-1601)](https://en.wikipedia.org/wiki/Tycho_Brahe)
 -   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
+    -   [Dyson quoting Francis Bacon](https://www.edge.org/conversation/freeman_dyson-progress-in-religion)
+    -   [Oxford Essential Quotations: Francis Bacon](https://www.oxfordreference.com/view/10.1093/acref/9780191843730.001.0001/q-oro-ed5-00000644)
+    -   "God forbid that we should give out a dream of our own imagination for a pattern of the world."
+        -   *The Great Instauration* (1620) tr. J. Spedding
+    -   "The subtlety of nature is greater many times over than the subtlety of the senses and understanding."
+        -   *Novum Organum* (1620) bk. 1, Aphorism 10 (tr. J. Spedding)
+    -   "Read not to contradict and confute, nor to believe and take for granted, nor to find talk and discourse, but to weigh and consider."
+        -   *Essays* (1625) "Of Studies"
 -   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
 -   [Johannes Kepler (1571-1630)](https://en.wikipedia.org/wiki/Johannes_Kepler)
 -   [Hobbes, Thomas (1588-1679)](http://en.wikipedia.org/wiki/Thomas_Hobbes)
