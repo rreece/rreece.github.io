@@ -277,14 +277,15 @@ Sextus Empiricus:
 >   while if they are to review all, they will be toiling at the impossible, 
 >   since the particulars are infinite and indefinite. [^SextusEmpiricus]
 
-[^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
-
 -   Hume and the problem of induction [^Hume2007pX]
     -   Uniformity of nature
     -   Humeanism
     -   Weintraub [^Weintraub1995]
 -   Russell's inductive turkey
 
+[^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. X.
+[^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
+[^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
 #### Inductive logic
 
@@ -353,17 +354,22 @@ and the wonderful self-correcting nature of ampliative inference:
     -   "The aim of inductive logic" [^Carnap1966]
     -   "Notes on probability and induction" [^Carnap1973]
 
-[^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
-    @Reichenbach_1940_On_the_justification_of_induction\.
 [^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
 [^Carnap1950b]: @Carnap_1950_Logical_Foundations_of_Probability\.
 [^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
 [^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
+[^Dewey1938p419]: @Dewey_1938_Logic_The_Theory_of_Inquiry\, p. 419.
+[^Mill1843]: @Mill_1843_A_System_of_Logic\.
+[^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
+[^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
+    @Reichenbach_1940_On_the_justification_of_induction\.
+[^Vickers2014]: @Vickers_2014_The_problem_of_induction (emphasis mine).
 
 
 #### Statistics as a solution to the problem of induction
 
+-   Weisberg [^Weisberg2019appD]
 -   Salmon [^Salmon1963]
 -   Good [^Good1988]
 -   Hacking [^Hacking2001]
@@ -373,19 +379,14 @@ and the wonderful self-correcting nature of ampliative inference:
     -   Note the further discussion of Humeanism and laws of nature in
         the [Outline on scientific realism](scientific-realism.html#humeanism).
 
-[^Dewey1938p419]: @Dewey_1938_Logic_The_Theory_of_Inquiry\, p. 419.
 [^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
 [^Huber2007]: @Huber_2007_Confirmation_and_induction\.
-[^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. X.
 [^Good1988]: @Good_1988_The_interface_between_statistics_and_philosophy\.
-[^Mill1843]: @Mill_1843_A_System_of_Logic\.
-[^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
 [^Salmon1963]: @Salmon_1963_On_vindicating_induction\,
     @Salmon_1966_The_Foundations_of_Scientific_Inference\,
     @Salmon_1967_Carnaps_inductive_logic\,
     @Salmon_1991_Hans_Reichenbachs_vindication_of_induction\.
-[^Vickers2014]: @Vickers_2014_The_problem_of_induction (emphasis mine).
-[^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
+[^Weisberg2019appD]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, Appendix D\.
 
 
 ### Abduction

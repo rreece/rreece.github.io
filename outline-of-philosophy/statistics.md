@@ -106,6 +106,7 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 #### Likelihood and frequentist vs bayesian probability
 
 -   frequentist vs bayesian probability
+-   Weisberg: ["Two Schools"](https://jonathanweisberg.org/vip/two-schools.html) [^Weisberg2019ch15]  
 
 $$ P(H|D) = P(D|H) \: P(H) \: / \: P(D) \label{eq:bayes_theorem_hd} $$
 
@@ -132,6 +133,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Cranmer2015p6]: @Cranmer_2015_Practical_statistics_for_the_LHC\, p. 6.
 [^Royall1997p171]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\, p. 171--2.
+[^Weisberg2019ch15]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, ch. 15\.
 
 
 ### Foundations of statistics

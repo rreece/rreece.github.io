@@ -79,6 +79,12 @@ Issues and positions
 
 ### (A)theism
 
+#### Pascal's Wager
+
+-   Responses to Pascal's Wager [^Weisberg2019ch14_5]
+
+[^Weisberg2019ch14_5]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, ch. 14, section 5\.
+
 #### The problem of evil
 
 C.S. Lewis' translation[^Lewis1955] of lines from Lucretius' *De rerum natura*:
