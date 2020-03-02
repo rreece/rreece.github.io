@@ -214,6 +214,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 
 -   Data: $x_i$
 -   Parameters: $\theta_j$
+-   Model: $f(\vec{x} ; \vec{\theta})$
 
 
 #### Canonical distributions
@@ -334,6 +335,12 @@ $$ L = \prod_i L_i $$
 $$ - \log L = - \sum_i \log L_i $$
 
 $$ \Rightarrow \mathrm{NLL} = \sum_i \mathrm{NLL}_i $$
+
+TODO:
+
+-   Least squares from MLE of gaussian models: $\chi^2$
+-   Ordinary Least Squares (OLS)
+-   interpretation
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 
