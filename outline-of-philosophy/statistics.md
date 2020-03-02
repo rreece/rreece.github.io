@@ -327,6 +327,14 @@ and taking the log of the product makes it a sum:
 
 $$ \mathrm{log} \: L(\theta) = \sum_i \mathrm{log} \: L(\theta|x_i) = \sum_i \mathrm{log} \: P(x_i|\theta) $$
 
+Maximizing $\mathrm{log} \: L(\theta)$ is also equivalent to minimizing $-\mathrm{log} \: L(\theta)$, the negative-log-likelihoo (NLL). For distributions that are *i.i.d.*,
+
+$$ L = \prod_i L_i $$
+
+$$ - \log L = - \sum_i \log L_i $$
+
+$$ \Rightarrow \mathrm{NLL} = \sum_i \mathrm{NLL}_i $$
+
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 
 
