@@ -81,7 +81,7 @@ See the [Outline on the science method](scientific-method.html#is-there-a-univer
 [^Sellars1963p1]: @Sellars_1963_Philosophy_and_the_scientific_image_of_man\, p. 1.
 
 
-### Reductionism
+### Reductionism and physicalism
 
 ![The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013)
     [Wikimedia Commons](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png).](img/the-scientific-universe.png){#fig:the-scientific-universe}
@@ -111,9 +111,11 @@ Alex Rosenberg is a mad dog against emergence. Video:
     See also @Leibniz_1951_The_Art_of_Discovery, p. 51.
 
 -   Reductive and non-reductive physicalism
+    -   Morris [^Morris2019]
 -   Fundamentality:
     -   Ney [^Ney2018]
 
+[^Morris2019]: @Morris_2019_Physicalism_Deconstructed_Levels_of_reality\.
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
 
 
