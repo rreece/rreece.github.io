@@ -516,7 +516,7 @@ TODO:
         following which we insure that, in the long run of experience, we shall not
         too often be wrong" (1933, 291). 
     -   [An introduction to likelihoodist, bayesian, and frequentist methods (2/3)](http://gandenberger.org/2014/07/28/intro-to-statistical-methods-2/)
-    -   [An introduction to likelihoodist, bayesian, and frequentist methods (2/3)](http://gandenberger.org/2014/08/26/intro-to-statistical-methods-3/)
+    -   [An introduction to likelihoodist, bayesian, and frequentist methods (3/3)](http://gandenberger.org/2014/08/26/intro-to-statistical-methods-3/)
     -   [An argument against likelihoodist methods as genuine alternatives to bayesian and frequentist methods](http://gandenberger.org/2013/10/21/against-likelihoodist-methods/)
     -   "Why I am not a likelihoodist" [^Gandenberger2016]
 
