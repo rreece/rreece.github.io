@@ -81,44 +81,6 @@ See the [Outline on the science method](scientific-method.html#is-there-a-univer
 [^Sellars1963p1]: @Sellars_1963_Philosophy_and_the_scientific_image_of_man\, p. 1.
 
 
-### Reductionism and physicalism
-
-![The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013)
-    [Wikimedia Commons](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png).](img/the-scientific-universe.png){#fig:the-scientific-universe}
-
-Also compare with the model of levels in @Oppenheim_1958_Unity_of_science_as_a_working_hypothesis.
-
->   Every statement about complexes can be analysed into a statement about their
->   constituent parts, and into those propositions which completely
->   describe the complexes. [^Wittgenstein1922L20201]
-
-[^Wittgenstein1922L20201]:@Wittgenstein_1922_Tractatus_Logico_Philosophicus\, line 2.0201.
-
-Alex Rosenberg is a mad dog against emergence. Video:
-[Alex Rosenberg interviewed for *Why Are We Here?*](https://www.whyarewehere.tv/people/alex-rosenberg/)
-
-![Reductionism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism)).](img/reductionism.png){#fig:reductionism}
-
->   If controversies were to arise, there would be no more need of disputation
->   between two philosophers than between two accountants. For it would suffice
->   to take their pencils in their hands, and say to each other:
->   *Calculemus*---Let us calculate.[^Leibniz-De-Arte-Combinatoria]
-
-[^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
-    This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,
-    written in 1666 [@Leibniz_1989_Dissertatio_de_Arte_Combinatoria, 73].
-    TODO: Actually, I haven't found this yet.
-    See also @Leibniz_1951_The_Art_of_Discovery, p. 51.
-
--   Reductive and non-reductive physicalism
-    -   Morris [^Morris2019]
--   Fundamentality:
-    -   Ney [^Ney2018]
-
-[^Morris2019]: @Morris_2019_Physicalism_Deconstructed_Levels_of_reality\.
-[^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
-
-
 ### Rejection of *a priori* metaphysics
 
 Metaphysical naturalism.
@@ -169,6 +131,53 @@ Opening lines to *ETMG*:
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
 
 
+### Reductionism
+
+![The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013)
+    [Wikimedia Commons](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png).](img/the-scientific-universe.png){#fig:the-scientific-universe}
+
+Also compare with the model of levels in @Oppenheim_1958_Unity_of_science_as_a_working_hypothesis.
+
+>   Every statement about complexes can be analysed into a statement about their
+>   constituent parts, and into those propositions which completely
+>   describe the complexes. [^Wittgenstein1922L20201]
+
+[^Wittgenstein1922L20201]:@Wittgenstein_1922_Tractatus_Logico_Philosophicus\, line 2.0201.
+
+Alex Rosenberg is a mad dog against emergence. Video:
+[Alex Rosenberg interviewed for *Why Are We Here?*](https://www.whyarewehere.tv/people/alex-rosenberg/)
+
+![Reductionism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism)).](img/reductionism.png){#fig:reductionism}
+
+>   If controversies were to arise, there would be no more need of disputation
+>   between two philosophers than between two accountants. For it would suffice
+>   to take their pencils in their hands, and say to each other:
+>   *Calculemus*---Let us calculate.[^Leibniz-De-Arte-Combinatoria]
+
+[^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
+    This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,
+    written in 1666 [@Leibniz_1989_Dissertatio_de_Arte_Combinatoria, 73].
+    TODO: Actually, I haven't found this yet.
+    See also @Leibniz_1951_The_Art_of_Discovery, p. 51.
+
+-   Reductive and non-reductive physicalism
+    -   Morris [^Morris2019]
+-   Fundamentality:
+    -   Ney [^Ney2018]
+
+[^Morris2019]: @Morris_2019_Physicalism_Deconstructed_Levels_of_reality\.
+[^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
+
+
+### Monism and physicalism
+
+-   Parmenides
+-   Materialism/physicalism/functionalism
+-   Alyssa Ney
+-   Part of methodological naturalism, but also a result of empirical confirmation.
+-   See the [Outline on Philosophy of mind](mind.html).
+
+
 ### Natural kinds
 
 Part of metaphysical naturalism.
@@ -183,15 +192,6 @@ Part of metaphysical naturalism.
 See the [Outline on scientific realism](scientific-realism.html).
 
 See the [Outline on philosophy of mathematics](math.html#naturalism).
-
-
-### Monism
-
--   Parmenides
--   Materialism/physicalism/functionalism
--   Alyssa Ney
--   Part of methodological naturalism, but also a result of empirical confirmation.
--   See the [Outline on Philosophy of mind](mind.html).
 
 
 ### Rejection of the supernatural
@@ -268,26 +268,25 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 
 #### Rebutals
 
--   Sokal affair [^Sokal1996]
--   Weinberg: "Sokal's Hoax"[^Weinberg1996]
 -   *Fear of Knowledge* [^Boghossian2006]
 -   *Every Thing Must Go* [^Ladyman2007]
 -   [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) [^Rosenberg2011]
--   [Philosophy Returns to the Real World](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) [^Sartwell2015]
--   Why I No Longer Identify as a Feminist [^Pluckrose2016]
--   How French "intellectuals" ruined the west: Postmodernism and its impact, explained [^Pluckrose2017]
+-   Sokal affair [^Sokal1996]
+    -   Weinberg: "Sokal's Hoax"[^Weinberg1996]
+-   Criticisms of postmodernism:
+    -   [Philosophy Returns to the Real World](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) [^Sartwell2015]
+    -   [Why I no longer identify as a feminist](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/) [^Pluckrose2016]
+    -   [How French "intellectuals" ruined the west: Postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) [^Pluckrose2017]
 -   Post-fact politics
     -   [Why We're Post-fact](https://granta.com/why-were-post-fact/) [^Pomerantsev2016]
     -   [America's First Postmodern President](https://newrepublic.com/article/143730/americas-first-postmodern-president) [^Heer2017]
     -   [Daniel Dennett: 'I begrudge every hour I have to spend worrying about politics'](https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview) [^Cadwalladr2017]
     -   [Has Trump Stolen Philosophy's Critical Tools?](https://www.nytimes.com/2017/04/17/opinion/has-trump-stolen-philosophys-critical-tools.html) [^Williams2017]
-    -   [Stop Blaming Postmodernism for Post-Truth Politics](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845) [^Perrin2017]
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
 [^Heer2017]: @Heer_2017_Americas_First_Postmodern_President\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
-[^Perrin2017]: @Perrin_2017_Stop_Blaming_Postmodernism_for_Post_Truth\.
 [^Pluckrose2016]: @Pluckrose_2016_Why_I_No_Longer_Identify_as_a_Feminist\.
 [^Pluckrose2017]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
 [^Pomerantsev2016]: @Pomerantsev_2016_Why_Were_Post_fact\.
@@ -298,6 +297,14 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     @Sokal_1998_Fashionable_Nonsense_Postmodern_Intellectuals\.
 [^Weinberg1996]: @Weinberg_1996_Sokals_Hoax\.
 [^Williams2017]: @Williams_2017_Has_Trump_Stolen_Philosophys_Critical_Tools\.
+
+
+#### Counter rebutals
+
+-   [Stop Blaming Postmodernism for Post-Truth Politics](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845) [^Perrin2017]
+-   [Here's What Critics Say About That Big New Hoax On Gender Studies](https://www.buzzfeednews.com/article/virginiahughes/grievance-studies-sokal-hoax)
+
+[^Perrin2017]: @Perrin_2017_Stop_Blaming_Postmodernism_for_Post_Truth\.
 
 
 My thoughts
