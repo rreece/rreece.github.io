@@ -129,11 +129,10 @@ See my INSPIRE-HEP profile for a more complete count of ATLAS publications:
 
 including the discovery of the Higgs boson:
 
-*   ATLAS Collaboration, Combined search for the Standard Model Higgs boson in $pp$ collisions at *&radic;s* = 7\ TeV with the ATLAS detector. 
-    [*Physical Review D*, 86 032003 (2012)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.032003). 
-    arxiv:[1207.0319](https://arxiv.org/abs/1207.0319).
-
-*   ATLAS Collaboration, Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC, [*Physics Letters B*, 716 (2012)](https://www.sciencedirect.com/science/article/pii/S037026931200857X), arXiv:[1207.7214](https://arxiv.org/abs/1207.7214).
+*   ATLAS Collaboration, Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC.
+    [*Physics Letters B*, 716 (2012)](https://www.sciencedirect.com/science/article/pii/S037026931200857X).
+    [arxiv:1207.7214](https://arxiv.org/abs/1207.7214).
+    July 31, 2012.
 
 
 ATLAS conference notes / proceedings / other public documents 
