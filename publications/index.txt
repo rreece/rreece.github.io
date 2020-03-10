@@ -129,7 +129,7 @@ See my INSPIRE-HEP profile for a more complete count of ATLAS publications:
 
 including the discovery of the Higgs boson:
 
-*   ATLAS Collaboration, Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC.
+*   ATLAS Collaboration. (2012). Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC.
     [*Physics Letters B*, 716 (2012)](https://www.sciencedirect.com/science/article/pii/S037026931200857X).
     [arxiv:1207.7214](https://arxiv.org/abs/1207.7214).
     July 31, 2012.
