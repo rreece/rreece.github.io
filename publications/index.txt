@@ -2,12 +2,6 @@
 Here you will find lists of my selected publications.
 
 
-Blog posts
--------------------------------------------------------------------------------
-
-I'm trying to blog at [statisticalsignificance.net](https://statisticalsignificance.net/)
-
-
 Some pedagogical notes
 -------------------------------------------------------------------------------
 
@@ -43,7 +37,7 @@ You can [download my thesis here](../docs/CERN-THESIS-2013-075.pdf)
 or find it at CDS as [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836).
 
 
-Data science & machine learning publications
+Machine learning publications
 -------------------------------------------------------------------------------
 
 1.  Chiley, V. *et al*. Online Normalization for Training Neural Networks.
@@ -62,6 +56,11 @@ ATLAS publications
     [*Physical Review D*, *97*, 092006 (2018)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.092006).
     [arxiv:1802.03158](https://arxiv.org/abs/1802.03158).
     February 9, 2018.
+
+1.  Search for minimal supersymmetric standard model Higgs bosons $H/A$ and for a $Z\prime$ boson in the $\tau\tau$ final state produced in $pp$ collisions at *&radic;s* = 13 TeV with the ATLAS Detector.
+    *European Physical Journal C*, *76*, 585 (2016).
+    [arxiv:1608.00890](https://arxiv.org/abs/1608.00890).
+    November 24, 2016.
 
 1.  Search for supersymmetry in a final state containing two photons and missing transverse momentum in *&radic;s* = 13 TeV $pp$ collisions at the LHC using the ATLAS detector.
     [*European Physical Journal C*, *76*, 517 (2016)](https://link.springer.com/article/10.1140/epjc/s10052-016-4344-x).
@@ -128,6 +127,8 @@ including the discovery of the Higgs boson:
 *   ATLAS Collaboration, Combined search for the Standard Model Higgs boson in $pp$ collisions at *&radic;s* = 7\ TeV with the ATLAS detector. 
     [*Physical Review D*, 86 032003 (2012)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.86.032003). 
     arxiv:[1207.0319](https://arxiv.org/abs/1207.0319).
+
+*   ATLAS Collaboration, Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC, [*Physics Letters B*, 716 (2012)](https://www.sciencedirect.com/science/article/pii/S037026931200857X), arXiv:[1207.7214](https://arxiv.org/abs/1207.7214).
 
 
 ATLAS conference notes / proceedings / other public documents 
