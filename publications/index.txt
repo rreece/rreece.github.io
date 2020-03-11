@@ -40,11 +40,11 @@ or find it at CDS as [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836).
 Machine learning publications
 -------------------------------------------------------------------------------
 
-1.  Chiley, V. *et al*. Online Normalization for Training Neural Networks.
+1.  Chiley, V. *et al*. (2019). Online Normalization for Training Neural Networks.
     [arxiv:1905.05894](https://arxiv.org/abs/1905.05894).
     May 15, 2019.
 
-1.  Machine Learning in High Energy Physics Community White Paper.
+1.  Albertsson, K. *et al*. (2018). Machine Learning in High Energy Physics Community White Paper.
     [arxiv:1807.02876](https://arxiv.org/abs/1807.02876). 
     July 8, 2018.
 
@@ -122,10 +122,10 @@ ATLAS publications
     October 21, 2008.
 
 The above is a selected list of ATLAS publications for which I made substantial contributions.
-I am also an author of several publications (more than 600 as of June 2017)
-because of my affiliation with ATLAS as a qualified author since June 1, 2008.
-See my INSPIRE-HEP profile for a more complete count of ATLAS publications:
-<https://inspirehep.net/author/profile/R.Reece.1>
+As a memeber of the ATLAS collaboration since June 1, 2008, I am also an "author"
+of more than 800 publications
+([inspire](https://inspirehep.net/author/profile/R.Reece.1),
+[google scholar](https://scholar.google.com/citations?user=7-0GbXEAAAAJ&hl=en&oi=ao)),
 
 including the discovery of the Higgs boson:
 
