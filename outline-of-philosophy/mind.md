@@ -208,6 +208,7 @@ Click to show links
 -   [Internalism and externalism](https://en.wikipedia.org/wiki/Internalism_and_externalism)
 -   [Knowledge argument](http://en.wikipedia.org/wiki/Knowledge_argument)
 -   [Materialism](https://en.wikipedia.org/wiki/Materialism)
+-   [Moravec's paradox](https://en.wikipedia.org/wiki/Moravec%27s_paradox)
 -   [Multiple realizability](https://en.wikipedia.org/wiki/Multiple_realizability)
 -   [Philosophy of mind](http://en.wikipedia.org/wiki/Philosophy_of_mind)
 -   [Physicalism](https://en.wikipedia.org/wiki/Physicalism)
