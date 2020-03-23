@@ -37,13 +37,19 @@ Issues and positions
 
 ### Buddhism
 
+Branches of Buddhism:
+
 -   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
     -   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
+-   [Mahayana Buddhism](https://en.wikipedia.org/wiki/Mahayana)
+    -   [Zen](https://en.wikipedia.org/wiki/Zen)
 -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
     -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
     -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
--   [Mahayana Buddhism](https://en.wikipedia.org/wiki/Mahayana)
-    -   [Zen](https://en.wikipedia.org/wiki/Zen)
+
+See also:
+
+-   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 
 
 ### Romanticism
@@ -74,7 +80,7 @@ Issues and positions
 #### Mortality
 
 -   We will die
--   We have about 3 billion heartbeats: 80 years $\approx 2.5 \times 10^9$ 
+-   We have about 3 billion heartbeats: 80 years $\approx 2.5 \times 10^9$ seconds
 
 
 ### (A)theism
