@@ -15,6 +15,21 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Issues and positions
 --------------------------------------------------------------------------------
 
+### Human history
+
+>   The early human migrations
+>   in the Lower Paleolithic saw Homo erectus spread across Eurasia 1.8 million
+>   years ago. The controlled use of fire first occurred 800,000 years ago in the
+>   Middle Paleolithic. 250,000 years ago, Homo sapiens (modern humans) emerged
+>   in Africa. 60--70,000 years ago, Homo sapiens migrated out of Africa along
+>   a coastal route to South and Southeast Asia and reached Australia.
+>   50,000 years ago, modern humans spread from Asia to the Near East.
+>   Europe was first reached by modern humans 40,000 years ago.
+>   Humans migrated to the Americas about 15,000 years ago in the Upper
+>   Paleolithic. [^WikiAncientHistory]
+
+[^WikiAncientHistory]: [en.wikipedia.org/wiki/Ancient_history](https://en.wikipedia.org/wiki/Ancient_history)
+
 
 ### Stoicism
 
@@ -226,6 +241,7 @@ Click to show links
 
 -   [Absurdism](http://en.wikipedia.org/wiki/Absurdism)
 -   [Akrasia](https://en.wikipedia.org/wiki/Akrasia)
+-   [Ancient history](https://en.wikipedia.org/wiki/Ancient_history)
 -   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
 -   [Aurelius, Marcus (121-180)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 -   [Bad faith](https://en.wikipedia.org/wiki/Bad_faith)

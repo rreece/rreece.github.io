@@ -21,7 +21,7 @@ Issues and positions
 
 ![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig:timeline-of-major-philosophers-since-1200}
 
-#### Ionian Enlightenment
+#### Antiquity
 
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
 -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
@@ -44,6 +44,7 @@ Issues and positions
     -   Principle of Multiple Explanations: "if several theories are consistent with the observed data, retain them all"
 -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
 -   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
+-   [Archimedes (c. 287 - c. 212) BCE](https://en.wikipedia.org/wiki/Archimedes)
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 
@@ -752,6 +753,7 @@ Click to show links
 -   [Alhazen AKA Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen)
 -   [Amp&egrave;re, Andr&eacute;-Marie (1775-1836)](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re)
 -   [Ancient higher-learning institutions](https://en.wikipedia.org/wiki/Ancient_higher-learning_institutions)
+-   [Archimedes (c. 287 - c. 212) BCE](https://en.wikipedia.org/wiki/Archimedes)
 -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
 -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
