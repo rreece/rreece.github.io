@@ -301,6 +301,9 @@ Thermodynamics, statistical mechanics, renormalization.
 -   Bain
 -   Views on reductionism
     -   [Mariam Thalos - 3:AM Magazine interview](https://www.3ammagazine.com/3am/multi-scale-existentialist-freedoms/)
+-   [Closer To Truth: What's Strong Emergence?](https://www.youtube.com/watch?v=zkffv2nVF64)
+    -   George F. R. Ellis vs Barry Loewer
+-   See also the [Outline on naturalism](naturalism.html#reductionism)
 
 [^Anderson-1972]: @Anderson_1972_More_is_different\.
 [^Lisi-2017]: @Lisi_2017_Emergence\.
@@ -663,13 +666,12 @@ Click to show links
 
 ### Videos
 
--   [Carroll, S. (2013). Particles, Fields and The Future of Physics.](https://www.youtube.com/watch?v=gEKSpZPByD0)
--   [Tong, D. (2017). Quantum Fields: The Real Building Blocks of the Universe.](https://www.youtube.com/watch?v=zNVQfWC_evg)
--   [Maudlin, T. (2018). Ontological clarity, electromagnetism, Aharanov-Bohm effect.](https://www.fetzer-franklin-fund.org/media/ontological-clarity-electromagnetism-aharanov-bohm-effect-maudlin-video/)
+-   Carroll, S. (2013). [Particles, Fields and The Future of Physics.](https://www.youtube.com/watch?v=gEKSpZPByD0)
 -   Carroll, S. (2019). [Something Deeply Hidden - talk at Google.](https://www.youtube.com/watch?v=F6FR08VylO4)
+-   Kuhn, R.L. (2020). [Closer To Truth: What's Strong Emergence?](https://www.youtube.com/watch?v=zkffv2nVF64)
+-   Maudlin, T. (2018). [Ontological clarity, electromagnetism, Aharanov-Bohm effect.](https://www.fetzer-franklin-fund.org/media/ontological-clarity-electromagnetism-aharanov-bohm-effect-maudlin-video/)
+-   Tong, D. (2017). [Quantum Fields: The Real Building Blocks of the Universe.](https://www.youtube.com/watch?v=zNVQfWC_evg)
 
 </div>
 
 <!-- REFERENCES -->
-
-
