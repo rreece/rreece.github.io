@@ -426,6 +426,24 @@ Peirce:
 
 ### Is there a universal scientific method?
 
+-   Feynman
+
+>   [S]cience is a method of finding things out. This method is based on
+>   the principle that observation is the judge of whether something is
+>   so or not. All other aspects and characteristics of science can be
+>   understood directly when we understand that observation is the ultimate
+>   and final judge of the truth of an idea...
+>   That is the principle of science. If there is an exception to any rule,
+>   and it can be proved by observation, that rule is wrong. [^Feynman1998p15]
+
+>   There are in science a number of technical consequences that follow from
+>   the principle of observation as judge. For example, the observation
+>   cannot be rough. You have to be very careful. There may have been a
+>   piece of dirt in the apparatus that made the color change; it was not
+>   what you thought. You have to check the observations very carefully,
+>   and then recheck them, to be sure that you understand what all the
+>   conditions are and that you did not misinterpret what you did. [^Feynman1998p17]
+
 -   Hypothetico-deductive model
 -   Positivism, verificationism
     -   Auguste Comte, Ernst Mach, David Hilbert, Rudolf Carnap
@@ -455,7 +473,7 @@ Peirce:
 ### Scientific knowledge and realism
 
 -   Knowledge = JTB-G. Plato.
--   Systematic uncertanties.  Failed justification.
+-   Systematic uncertainties.  Failed justification.
 -   Gettier cases.
 -   Hume on the problem of induction and the uniformity of nature.
 -   Uniformitarianism: Unless we have a collective and/or non-local conspiracies,
@@ -474,6 +492,8 @@ The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*
 >   Your belief is justified, and as it happens it is five o'clock.
 >   But unbeknownst to you, the clock stopped exactly twelve hours ago. [^Russell2009]
 
+[^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
+[^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
 [^Russell2009]: @Russell_2009_Human_Knowledge_Its_Scope_and_Limits\.
 
 

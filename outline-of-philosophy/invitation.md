@@ -22,7 +22,7 @@ These notes have a point of view,
 one that is sympathetic to a sense of real progress in science
 and philosophy in general.
 An important central set of ideas in these outlines is philosophical *naturalism*,
-which will be roughly defined bellow.
+which will be roughly defined below.
 
 
 What is philosophy of science?
@@ -114,6 +114,7 @@ and many others.
 
 [^Prado2006]: @Prado_2006_Ionian_Enchantment_A_Brief_History_of_Scientific\.
 
+
 Why should I care?
 --------------------------------------------------------------------------------
 
@@ -128,11 +129,13 @@ are central to many of our cultural and politcal divisions.
 
 TODO: pick-up writing here.
 
+-   *The Meaning of It All* [^Feynman1998]
 -   [Carl Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w) [^Rose1996]
 -   [Why Do Many Reasonable People Doubt Science?](https://www.nationalgeographic.com/magazine/2015/03/science-doubters-climate-change-vaccinations-gmos/) [^Achenbach2015]
 -   ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) [^Leah2018]
 
 [^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. 
+[^Feynman1998]: @Feynman_1998_The_Meaning_of_It_All\.
 [^Rose1996]: @Rose_1996_Carl_Sagan_discusses_Demon_Haunted_World\.
 [^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 
@@ -151,5 +154,3 @@ examine what can be said of the "[scientific method](scientific-method.html)."
 
 
 <!-- REFERENCES -->
-
-

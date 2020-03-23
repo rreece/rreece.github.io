@@ -6,6 +6,7 @@ Carnap, R. (1973). Notes on probability and induction. *Synthese*, 25, 269--298.
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
 Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/abduction/
 Doyle, A.C. (1890). *The Sign of the Four*.
+Feynman, R.P. (1998). *The Meaning of It All*. Addison-Wesley.
 French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
 Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135--175.
 Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
