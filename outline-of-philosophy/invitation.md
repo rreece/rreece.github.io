@@ -129,13 +129,34 @@ are central to many of our cultural and politcal divisions.
 
 TODO: pick-up writing here.
 
--   *The Meaning of It All* [^Feynman1998]
+-   Feynman
+
+>   We are all sad when we think of the wondrous potentialities that human
+>   beings seem to have and when we contrast these potentialities with the
+>   small accomplishments that we have. Again and again people have thought
+>   that we could do much better. People in the past had, in the nightmare
+>   of their times, dreams for the future, and we of their future have,
+>   although many of those dreams have been surpassed, to a large extent
+>   the same dreams. The hopes for the future today are in a great measure
+>   the same as they were in the past. At some time people thought that the
+>   potential that people had was not developed because everyone was
+>   ignorant and that education was the solution to the problem, that if
+>   all people were educated, we could perhaps all be Voltaires. But it
+>   turns out that falsehood and evil can be taught as easily as good.
+>   Education is a great power, but it can work either way. I have heard it
+>   said that the communication between nations should lead to an
+>   understanding and thus a solution to the problem of developing the
+>   potentialities of man. But the means of communication can be channeled
+>   and choked. What is communicated can be lies as well as truth,
+>   propaganda as well as real and valuable information. Communication is
+>   a strong force, also, but either for good or evil. [^Feynman1998p31]
+
 -   [Carl Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w) [^Rose1996]
 -   [Why Do Many Reasonable People Doubt Science?](https://www.nationalgeographic.com/magazine/2015/03/science-doubters-climate-change-vaccinations-gmos/) [^Achenbach2015]
 -   ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) [^Leah2018]
 
 [^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. 
-[^Feynman1998]: @Feynman_1998_The_Meaning_of_It_All\.
+[^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
 [^Rose1996]: @Rose_1996_Carl_Sagan_discusses_Demon_Haunted_World\.
 [^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 

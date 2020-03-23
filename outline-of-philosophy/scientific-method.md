@@ -466,6 +466,8 @@ Peirce:
     -   Scientism
     -   See the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
 
+[^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
+[^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
 [^Hempel1948]: @Hempel_1948_Studies_in_the_logic_of_explanation\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 
@@ -475,6 +477,13 @@ Peirce:
 -   Knowledge = JTB-G. Plato.
 -   Systematic uncertainties.  Failed justification.
 -   Gettier cases.
+-   Feynman
+
+>   All scientific knowledge is uncertain...
+>   [W]hat we call scientific knowledge today is a body of statements of
+>   varying degrees of certainty. Some of them are most unsure. Some of
+>   them nearly sure; but none of them is certain. [^Feynman1998p26]
+
 -   Hume on the problem of induction and the uniformity of nature.
 -   Uniformitarianism: Unless we have a collective and/or non-local conspiracies,
     we can probablistically justify assumptions of uniformity.
@@ -492,8 +501,7 @@ The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*
 >   Your belief is justified, and as it happens it is five o'clock.
 >   But unbeknownst to you, the clock stopped exactly twelve hours ago. [^Russell2009]
 
-[^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
-[^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
+[^Feynman1998p26]: @Feynman_1998_The_Meaning_of_It_All\, p. 26--27.
 [^Russell2009]: @Russell_2009_Human_Knowledge_Its_Scope_and_Limits\.
 
 
