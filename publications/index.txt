@@ -373,11 +373,12 @@ You won't have access to these unless you are a member of ATLAS.
 
 --------------------------------------------------------------------------------
 
-Site navigation:
 
-&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-home"></i>&nbsp;&nbsp;[home](../)             
-&nbsp;&nbsp;&nbsp;&nbsp;<i class="fas fa-atom" style="font-size:20px;"></i>&nbsp;&nbsp;[research](../research/)         
-&nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-save" style="font-size:20px;"></i>&nbsp;&nbsp;[software](../sw/)         
-&nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-sticky-note" style="font-size:20px;"></i>&nbsp;&nbsp;[talks](../talks/)         
-
-
+<div class="nav">
+-   Site navigation:
+-   [<i class="fas fa-home"></i>&nbsp;&nbsp;home](../)             
+-   [<i class="fas fa-coffee" style="font-size:16px;"></i>&nbsp;&nbsp;blog](../blog/)         
+-   [<i class="fas fa-atom" style="font-size:20px;"></i>&nbsp;&nbsp;&nbsp;research](../research/)         
+-   [<i class="far fa-save" style="font-size:20px;"></i>&nbsp;&nbsp;&nbsp;software](../sw/)         
+-   [<i class="far fa-sticky-note" style="font-size:20px;"></i>&nbsp;&nbsp;&nbsp;talks](../talks/)         
+</div>

@@ -44,6 +44,7 @@ Issues and positions
     -   Principle of Multiple Explanations: "if several theories are consistent with the observed data, retain them all"
 -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
 -   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
+    -    logico-deductive method founded by Euclid's *Elements*
 -   [Archimedes (c. 287 - c. 212) BCE](https://en.wikipedia.org/wiki/Archimedes)
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
