@@ -613,7 +613,7 @@ Natural language processing (NLP)
 -   Rationalism and empiricism in artificial intellegence:
     A survey of 25 years of evaluation [in NLP]. [^Church2019]
 -   Note that NLP has implications to the philosophy of language and realism
-    -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
+    -   [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
     -   See also: [Implications for the realism debate](#implications-for-the-realism-debate) below.
 
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
