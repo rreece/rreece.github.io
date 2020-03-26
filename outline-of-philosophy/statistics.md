@@ -441,7 +441,7 @@ TODO:
 -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
     -   *Exploratory Data Analysis* (1977) [^Tukey1977]
--   File-drawer effect = look-elsewhere effect
+-   File-drawer effect = Look-Elsewhere Effect (LEE)
 -   Stopping rules
     -   validation dataset
     -   statistical issues, violates the likelihood principle
@@ -554,6 +554,7 @@ TODO:
 >   experiment which will rarely fail to give us a statistically significant
 >   result. [^Fisher1935p13]
 
+-   Relationship to the LEE
 -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   Mayo
@@ -583,12 +584,8 @@ TODO:
 -   supervised and unsupervised learning
     -   classification = supervised; clustering = unsupervised
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
--   Review: Deep learning [^LeCun2015]
--   *Deep Learning* [^Goodfellow2016]
 
-[^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
-[^LeCun2015]: @LeCun_2015_Deep_learning\.
 
 
 #### Computer Vision
@@ -599,6 +596,12 @@ Computer Vision (CV)
 -   LeCun: LeNet-5
 -   Ciresan: MCDNN
 -   Krizhevsky: AlexNet
+-   Review: Deep learning [^LeCun2015]
+-   *Deep Learning* [^Goodfellow2016]
+
+[^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
+[^LeCun2015]: @LeCun_2015_Deep_learning\.
+
 
 #### Natural language processing
 
