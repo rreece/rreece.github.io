@@ -623,7 +623,7 @@ Reinforcement learning (RL)
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
 
 
-### Auto-science
+### AutoML
 
 -   NAS and AutoML
 -   AutoScience
