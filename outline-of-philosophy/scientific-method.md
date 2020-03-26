@@ -371,7 +371,7 @@ and the wonderful self-correcting nature of ampliative inference:
 
 #### Statistics as a solution to the problem of induction
 
--   Weisberg [^Weisberg2019appD]
+-   Weisberg [^Weisberg2019appD] - nope
 -   Salmon [^Salmon1963]
 -   Good [^Good1988]
 -   Hacking [^Hacking2001]

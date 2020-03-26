@@ -613,12 +613,8 @@ Natural language processing (NLP)
 -   Review by Stahlberg [^Stahlberg2019]
 -   Rationalism and empiricism in artificial intellegence:
     A survey of 25 years of evaluation [in NLP]. [^Church2019]
--   Note that NLP has implications to the philosophy of language and realism
-    -   [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
-    -   See also: [Implications for the realism debate](#implications-for-the-realism-debate) below.
 
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
-[^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
 [^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
 
@@ -672,10 +668,13 @@ Reinforcement learning (RL)
 -   Korb [^Korb2001]
 -   Williamson [^Williamson2009]
 -   Bensusan [^Bensusan2000]
+-   Note that NLP has implications to the philosophy of language and realism
+    -   [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
 -   See the [Outline on scientific realism](scientific-realism.html)
 
 [^Bensusan2000]: @Bensusan_2000_Is_machine_learning_experimental_philosophy\.
 [^Korb2001]: @Korb_2001_Machine_learning_as_philosophy_of_science\.
+[^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
 [^Williamson2009]: @Williamson_2009_The_philosophy_of_science_and_its_relation\.
 
 
