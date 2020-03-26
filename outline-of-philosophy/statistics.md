@@ -583,10 +583,12 @@ TODO:
 -   supervised and unsupervised learning
     -   classification = supervised; clustering = unsupervised
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
+-   Review: Deep learning [^LeCun2015]
 -   *Deep Learning* [^Goodfellow2016]
 
-[^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
+[^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
+[^LeCun2015]: @LeCun_2015_Deep_learning\.
 
 
 #### Computer Vision
