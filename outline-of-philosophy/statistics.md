@@ -441,7 +441,8 @@ TODO:
 -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
     -   *Exploratory Data Analysis* (1977) [^Tukey1977]
--   File-drawer effect = Look-Elsewhere Effect (LEE)
+-   Look-Elsewhere Effect (LEE)
+    -   AKA File-drawer effect
 -   Stopping rules
     -   validation dataset
     -   statistical issues, violates the likelihood principle
