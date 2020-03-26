@@ -614,9 +614,19 @@ Natural language processing (NLP)
 Reinforcement learning (RL)
 
 
+### Theoretical machine learning
+
+-   No free lunch theorem
+-   Relationship to statistical mechanics [^Bahri2020]
+-   Relationship to gauge theory
+
+[^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
+
+
 ### Auto-science
 
--   AutoML and AutoScience
+-   NAS and AutoML
+-   AutoScience
 -   "The frontier of simulation-based inference" [^Cranmer2019]
 -   "Learning new physics from a machine" [^DAgnolo2019]
 -   "Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry." [^Asch2018]
