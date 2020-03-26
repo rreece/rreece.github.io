@@ -13,6 +13,7 @@ Berger, J.O. (2003). Could Fisher, Jeffreys and Neyman have agreed on testing? *
 Birnbaum, A. (1962). On the foundations of statistical inference. *Journal of the American Statistical Association*, 57, 269--326.
 Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenological Research*, 5(4), 513--32. 
 Carnap, R. (1947). Probability as a guide in life. *Journal of Philosophy*, 44(6), 141--48.
+Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation. *Natural Language Engineering*, 25(6), 753--767.
 Cousins, R.D. (2018). Lectures on statistics in theory: Prelude to statistics in practice. https://arxiv.org/abs/1807.05996
 Cowan, G. (1998). *Statistical Data Analysis*. Clarendon Press.
 Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). Asymptotic formulae for likelihood-based tests of new physics. *European Physical Journal C*, 71, 1544. https://arxiv.org/abs/1007.1727

@@ -611,11 +611,12 @@ Natural language processing (NLP)
 -   Sutskever
 -   Review by Stahlberg [^Stahlberg2019]
 -   Rationalism and empiricism in artificial intellegence:
-    [Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation.](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291)
--   Note NLP has implications to the philosophy of language and realism
+    A survey of 25 years of evaluation [in NLP]. [^Church2019]
+-   Note that NLP has implications to the philosophy of language and realism
     -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
     -   See also: [Implications for the realism debate](#implications-for-the-realism-debate) below.
 
+[^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
 
