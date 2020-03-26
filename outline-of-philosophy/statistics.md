@@ -447,6 +447,7 @@ TODO:
     -   statistical issues, violates the likelihood principle
 -   "Data science"
     -   Data collection, quality, analysis, archival, and reinterpretation
+    -   RECAST
 
 [^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
 
@@ -601,7 +602,9 @@ Computer Vision (CV)
 
 Natural language processing (NLP)
 
--   Stahlberg [^Stahlberg2019]
+-   RNNs and LSTMs
+-   Sutskever
+-   Review by Stahlberg [^Stahlberg2019]
 -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/).
 -   Rationalism and empiricism in artificial intellegence:
     [Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation.](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291)
@@ -625,7 +628,7 @@ Reinforcement learning (RL)
 
 ### AutoML
 
--   NAS and AutoML
+-   Neural Architecture Search (NAS) and AutoML
 -   AutoScience
 -   "The frontier of simulation-based inference" [^Cranmer2019]
 -   "Learning new physics from a machine" [^DAgnolo2019]
