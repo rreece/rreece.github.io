@@ -608,7 +608,7 @@ Computer Vision (CV)
 Natural language processing (NLP)
 
 -   RNNs and LSTMs
--   Sutskever
+-   Sutskever seq2seq [^Sutskever2014]
 -   Review by Stahlberg [^Stahlberg2019]
 -   Rationalism and empiricism in artificial intellegence:
     A survey of 25 years of evaluation [in NLP]. [^Church2019]
@@ -619,6 +619,7 @@ Natural language processing (NLP)
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
+[^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
 
 
 #### Reinforcement learning
@@ -635,16 +636,26 @@ Reinforcement learning (RL)
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
 
 
-### AutoML
+### Automation
 
--   Neural Architecture Search (NAS) and AutoML
--   Surrogate models
-    -   "The frontier of simulation-based inference" [^Cranmer2019]
--   AutoScience
-    -   "Learning new physics from a machine" [^DAgnolo2019]
-    -   "Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry." [^Asch2018]
-        -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
-    -   "The End of Theory: The data deluge makes the scientific method obsolete." [^Anderson2008]
+#### Surrogate models
+
+-   "The frontier of simulation-based inference" [^Cranmer2019]
+
+
+#### AutoML
+
+-   Neural Architecture Search (NAS)
+-   AutoML frameworks
+
+
+#### AutoScience
+
+-   Automated discovery
+-   "Learning new physics from a machine" [^DAgnolo2019]
+-   "Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry." [^Asch2018]
+    -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
+-   "The End of Theory: The data deluge makes the scientific method obsolete." [^Anderson2008]
 
 ![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis [@Asch_2018_Big_data_and_extreme_scale_computing_Pathways]. ](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
 

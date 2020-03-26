@@ -79,6 +79,7 @@ Sellars, W. (1964). Induction as vindication. *Philosophy of Science*, 31, 197--
 Sinervo, P. (2002). Signal significance in particle physics. In Whalley, M.R. & Lyons, L. (Eds.), *Proceedings of the Conference on Advanced Statistical Techniques in Particle Physics*. Durham, UK: Institute of Particle Physics Phenomenology. https://arxiv.org/abs/hep-ex/0208005v1
 Sinervo, P. (2003). Definition and treatment of systematic uncertainties in high energy physics and astrophysics. In Lyons, L., & Mount, R., & Reitmeyer, R. (Eds.), *Proceedings of the Conference on Statistical Problems in Particle Physics, Astrophysics, and Cosmology (PhyStat2003)* (pp. 122--129). Stanford Linear Accelerator Center. https://www.slac.stanford.edu/econf/C030908/papers/TUAT004.pdf
 Stahlberg, F. (2019). Neural machine translation: A review. https://arxiv.org/abs/1912.02047
+Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning with neural networks. *Advances in Neural Information Processing Systems*, 2014, 3104--3112. https://arxiv.org/abs/1409.3215
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
 Tukey, J.W. (1977). *Exploratory Data Analysis*. Pearson.
