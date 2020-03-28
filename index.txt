@@ -38,10 +38,27 @@ Read more about my [research here](research/). Get my r&eacute;sum&eacute; or CV
 News
 --------------------------------------------------------------------------------
 
+-   May 2019: Collaborators at Cerebras and I publish a new normalization
+    technique, OnlineNorm, for training deep neural networks with small batch sizes
+    ([arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
+-   April 2018: I join Cerebras Systems as a machine learning engineer.
+
 <div class="clickmore"><a id="link:news-more" class="closed" onclick="toggle_more('news-more')">Old news</a></div>
 <div id="news-more" class="more">
-
+-   November 2014:
+    I am awarded a 6 month fellowship, US ATLAS Scholar,
+    to be at Lawrence Berkeley National Laboratory (LBL) in Berkeley, CA,
+    continuing collaboration with the ATLAS Experiment.
+-   July 2013: I start a postdoctoral fellowship with the
+    Santa Cruz Institute for Particle Physics (SCIPP)
+    at UC Santa Cruz.
+-   July 2013: I defended my PhD at Penn.
+-   On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214)
+    and [CMS](https://arxiv.org/abs/1207.7235)
+    experiments both announce the discovery of a new particle consistent with
+    the standard model Higgs boson.
 </div> <!-- end clickmore -->
+
 
 Contact
 --------------------------------------------------------------------------------
