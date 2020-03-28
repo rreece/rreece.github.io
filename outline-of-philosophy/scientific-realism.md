@@ -72,9 +72,13 @@ Stealing from encyclopedia.com:
 ![Scientific realism vs anti-realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism)).](img/phil-of-science-v02.png "My figure on scientific realism vs anti-realism"){#fig:phil-of-science}
 
 -   Naive realism.  Why would I doubt the world I see is real?
+-   Many philosophers in that Early Modern Period had threads of Idealism (wikipedia: reality itself is incorporeal or experiential at its core). *e.g.* George Berkeley, Kant, Friedrich Hegel, Immanuel Kant (1724-1804)
 -   Skepticism
 -   Descartes' demon
--   Putnam Brain in a vat[^Putnam-1981]
+-   Putnam Brain in a vat [^Putnam1981]
+-   "Here is one hand" - Moore [^Moore1925]
+-   Challenges to metaphysical realism [^Khlentzos2011].
+-   Contemporary skepticism [^Pritchard2004]
 -   The Matrix
 -   Bostrom - The Simulation Argument
 -   Am I a more advanced civilization's tamagotchi?
@@ -84,6 +88,10 @@ Stealing from encyclopedia.com:
 
 >   Just 'cause you feel it, doesn't mean it's there. - Radiohead
 
+[^Khlentzos2011]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
+[^Moore1925]: @Moore_1925_A_defense_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
+[^Pritchard2004]: @Pritchard_2004_Contemporary_skepticism\.
+[^Putnam1981]: @Putnam_1981_Reason_Truth_and_History\.
 [^Schopenhauer-Schrodinger]: Schr&ouml;dinger quoting Schopenhauer in "Mind and Matter".
 
 
@@ -1152,7 +1160,6 @@ Click to show links
 [^Popper-1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
 [^Kuhn-1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
 [^van-Fraassen-1980]: @vanFraassen_1980_The_Scientific_Image\.
-[^Putnam-1981]: @Putnam_1981_Reason_Truth_and_History\.
 [^Putnam-1982-1]: Putnam, H. (1982). Three Kinds of Scientific Realism.
 [^Putnam-1982-2]: Putnam, H. (1982). Why There Isn't a Ready-Made World.
 [^Fine-1984-1]: Fine, A. (1984). The Natural Ontological Attitude.

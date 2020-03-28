@@ -120,6 +120,31 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
 >   may deliver a final verdict, as in this domain there is as yet no standard 
 >   weight and measure to distinguish sound knowledge from shallow talk. [^Kant1783]
 
+Quine:
+
+>   At this point let me say that I shall not be impressed by protests that I am
+>   using inductive generalizations, Darwin's and others, to justify induction,
+>   and thus reasoning in a circle. The reason I shall not be impressed by this
+>   is that my position is a naturalistic one;
+>   I see philosophy not as an *a priori* propaedeutic or groundwork for science,
+>   but as continuous with science. I see philosophy and science as in the same
+>   boat---a boat which, to revert to Neurath's figure as I so often do,
+>   we can rebuild only at sea while staying afloat in it. There is no external
+>   vantage point, no first philosophy. All scientific findings, all scientific
+>   conjectures that are at present plausible, are therefore in my view as welcome
+>   for use in philosophy as elsewhere. [^Quine1969pX]
+
+More Quine:
+
+>   ... I also expressed, at the beginning, my unswerving belief in external
+>   things---people, nerve endings, sticks, stones. This I reaffirm. I
+>   believe also, if less affirmly, in atoms and electrons, and in
+>   classes. Now how is all this robust realism to be reconciled with the
+>   barren scene that I have just been depicting? **The answer is
+>   naturalism: the recognition that it is within science itself, and not
+>   some prior philosophy, that reality is properly to be identified
+>   and described.** [^Quine1981pX]
+
 Opening lines to *ETMG*:
 
 >   This is a polemical book. One of its main contentions is that contemporary analytic 
@@ -129,6 +154,8 @@ Opening lines to *ETMG*:
 
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
+[^Quine1969pX]: @Quine_1969_Natural_kinds\, p. TODO.
+[^Quine1981pX]: @Quine_1981_Theories_and_Things\, p. TODO. (bold added)
 
 
 ### Reductionism
@@ -258,12 +285,13 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   [The Case Against Reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/) [^Gefter2016]
     -   [The magical thinking of guys who love logic](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
     -   [Scientists Must Challenge What Makes Studies Scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific) [^PrescodWeinstein2017]
-
+    -   [A Disease of Scienceyness](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953) [^Thomas2015]
 
 [^Gefter2016]: @Gefter_2016_The_Case_Against_Reality\.
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
 [^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_Must_Challenge_What_Makes_Studies\.
+[^Thomas2015]: @Thomas_2015_A_Disease_of_Scienceyness\.
 
 
 #### Rebutals
@@ -277,12 +305,15 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   [Philosophy Returns to the Real World](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) [^Sartwell2015]
     -   [Why I no longer identify as a feminist](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/) [^Pluckrose2016]
     -   [How French "intellectuals" ruined the west: Postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) [^Pluckrose2017]
--   Post-fact politics
+-   Anti-dogma
+    -   [No, Science is not Faith-Based](https://medium.com/starts-with-a-bang/no-science-is-not-faith-based-ddc9be25efba)[^Siegel2016]
+-   Facing post-fact politics
     -   [Why We're Post-fact](https://granta.com/why-were-post-fact/) [^Pomerantsev2016]
     -   [America's First Postmodern President](https://newrepublic.com/article/143730/americas-first-postmodern-president) [^Heer2017]
     -   [Daniel Dennett: 'I begrudge every hour I have to spend worrying about politics'](https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview) [^Cadwalladr2017]
     -   [Has Trump Stolen Philosophy's Critical Tools?](https://www.nytimes.com/2017/04/17/opinion/has-trump-stolen-philosophys-critical-tools.html) [^Williams2017]
--   ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) [^Leah2018]
+    -   ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) [^Leah2018]
+-   Relationship to SJW vs IDW battles
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
@@ -294,6 +325,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 [^Pomerantsev2016]: @Pomerantsev_2016_Why_Were_Post_fact\.
 [^Rosenberg2011]: @Rosenberg_2011_Why_I_am_a_naturalist\. 
 [^Sartwell2015]: @Sartwell_2015_Philosophy_returns_to_the_real_world\. 
+[^Siegel2016]: @Siegel_2016_No_Science_is_not_Faith_Based\.
 [^Sokal1996]: @Sokal_1996_A_Physicist_Experiments_With_Cultural_Studies\,
     @Sokal_1996_Transgressing_the_Boundaries_Towards\,
     @Sokal_1998_Fashionable_Nonsense_Postmodern_Intellectuals\.
