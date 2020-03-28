@@ -204,18 +204,22 @@ Verification theory of meaning: All statements that can't be empirically verifie
 -   anti-realist
 -   Auguste Comte
 -   Comte and Mill
--   Wittgenstein
--   @Wittgenstein_1922_Tractatus_Logico_Philosophicus\. *Tractatus Logico-Philosophicus*.
 -   Ernst Mach
--   The Vienna Circle
--   Ayer, Carnap, Neurath, Wittgenstein, Frege, von Neuman, Hilbert
--   @Ayer_1952_Language_truth_and_logic\. *Language, Truth, and Logic*.
+-   Gottlob Frege, Bertrand Russell, Afred North Whitehead, George
+    Edward Moore. Ludwig Wittgenstein *Principia Mathematica*.
+-   Wittgenstein, *Tractatus Logico-Philosophicus*. [^Wittgenstein1922]
+-   Logical positivism, Vienna circle[^Murzi2004], Moritz Schlick,
+    Rudolf Carnap, Kurt G&ouml;del, Otto Neurath, and others.
+-   A.J. Ayer[^Ayer1936].
+-   Logical empiricism - Creathe[^Creathe].
+-   verificationism, nominalism, quietism
+-   von Neuman, Hilbert
 -   Hans Reichenbach (1891-1953) and the Berlin Circle
 -   International Encyclopedia of Unified Science
--   verificationism, nominalism, quietism
--   G&#246;del
--   Russell, 
--   *The Logical Structure of the World* [^Carnap1928]
+
+Some Carnap works:
+
+-   *The Logical Structure of the World* (*Der Logische Aufbau der Welt*) [^Carnap1928]
 -   Scheinproblem = Pseudo-problem
 -   *The Logical Syntax of Language* [^Carnap1937]
     -   LSL in a nutshell [^Fowler2010]
@@ -223,11 +227,15 @@ Verification theory of meaning: All statements that can't be empirically verifie
 -   Carnap's "ESO" [^Carnap1950]
 -   Carnap's "Logical Foundations of Science" [^Carnap1955]
 
+[^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
 [^Carnap1937]: @Carnap_1937_Logical_Syntax_of_Language\.
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
+[^Creathe2011]: @Creathe_2011_Logical_empiricism\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
+[^Murzi2004]: @Murzi_2004_Vienna_circle\.
+[^Wittgenstein1922]: @Wittgenstein_1922_Tractatus_Logico_Philosophicus\. 
 
 Positivism is a philosophy of science and epistemology that roughly defends a
 qualified empiricism, that the scientific method is the only route to knowledge,

@@ -428,7 +428,14 @@ Peirce:
 
 ### Is there a universal scientific method?
 
--   Feynman
+Newton:
+
+>   In experimental philosophy, propositions gathered from phenomena by induction
+>   should be considered exactly or very nearly true not withstanding any contrary
+>   hypothesis, until yet other phenomena make such propositions either more exact
+>   or liable to exceptions. [^NewtonpX]
+
+Feynman:
 
 >   [S]cience is a method of finding things out. This method is based on
 >   the principle that observation is the judge of whether something is
@@ -472,6 +479,7 @@ Peirce:
 [^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
 [^Hempel1948]: @Hempel_1948_Studies_in_the_logic_of_explanation\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^NewtonpX]: @Newton_1999_The_Principia_Mathematical_Principles_of_Natural\, p. TODO.
 
 
 ### Scientific knowledge and realism

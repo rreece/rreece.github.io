@@ -282,11 +282,13 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   [America's First Postmodern President](https://newrepublic.com/article/143730/americas-first-postmodern-president) [^Heer2017]
     -   [Daniel Dennett: 'I begrudge every hour I have to spend worrying about politics'](https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview) [^Cadwalladr2017]
     -   [Has Trump Stolen Philosophy's Critical Tools?](https://www.nytimes.com/2017/04/17/opinion/has-trump-stolen-philosophys-critical-tools.html) [^Williams2017]
+-   ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) [^Leah2018]
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
 [^Heer2017]: @Heer_2017_Americas_First_Postmodern_President\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 [^Pluckrose2016]: @Pluckrose_2016_Why_I_No_Longer_Identify_as_a_Feminist\.
 [^Pluckrose2017]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
 [^Pomerantsev2016]: @Pomerantsev_2016_Why_Were_Post_fact\.
@@ -470,6 +472,7 @@ Click to show links
 -   [Quine, W.V. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Reductionism](https://en.wikipedia.org/wiki/Reductionism)
 -   [Rorty, Richard (1931-2007)](https://en.wikipedia.org/wiki/Richard_Rorty)
+-   [Science wars](https://en.wikipedia.org/wiki/Science_wars)
 -   [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair)
 -   [Species problem](https://en.wikipedia.org/wiki/Species_problem)
 -   [Thales of Miletus (624-546 BCE)](https://en.wikipedia.org/wiki/Thales_of_Miletus)

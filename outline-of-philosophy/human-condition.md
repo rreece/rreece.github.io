@@ -64,6 +64,7 @@ Branches of Buddhism:
 
 See also:
 
+-   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
 -   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 
 
@@ -262,6 +263,7 @@ Click to show links
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
+-   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
 -   [Lucretius (c. 99-55 BCE)](https://en.wikipedia.org/wiki/Lucretius)
 -   [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness)
     -   [Anapanasati](https://en.wikipedia.org/wiki/Anapanasati)
