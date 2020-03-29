@@ -88,7 +88,7 @@ Maudlin gives clear naturalist attitude at the start of *The Metaphysics within 
 >   and the philosopher's proper task is the interpretation and elucidation
 >   of those theories. In particular, when choosing the fundamental posits
 >   of one's ontology, one must look to scientific practice rather than to
->   philosophical prejudice. [^Maudlin2007p1]:
+>   philosophical prejudice. [^Maudlin2007p1]
 
 [^Jacobs2002]: @Jacobs_2002_Naturalism\. 
 [^Maddy2007p1]: @Maddy_2007_Second_Philosophy, p. 1.
@@ -160,7 +160,7 @@ More Quine:
 >   barren scene that I have just been depicting? **The answer is
 >   naturalism: the recognition that it is within science itself, and not
 >   some prior philosophy, that reality is properly to be identified
->   and described.** [^Quine1981pX]
+>   and described.** [^Quine1981p21]
 
 Opening lines to *ETMG*:
 
@@ -172,7 +172,7 @@ Opening lines to *ETMG*:
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
 [^Quine1969pX]: @Quine_1969_Natural_kinds\, p. TODO.
-[^Quine1981pX]: @Quine_1981_Theories_and_Things\, p. TODO. (bold added)
+[^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21. (bold added)
 
 
 ### Reductionism
@@ -229,13 +229,21 @@ Part of metaphysical naturalism.
 -   *Natural Kinds* [^Quine1969]
 -   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
 
-[^Quine1969]: @Quine_1969_Natural_kinds\.
-[^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
-
+>   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
+>   and it is these and no dim proxies that science is all about. Now how is such
+>   robust realism to be reconciled with what we have just been through? The answer
+>   is naturalism: the recognition that it is within science itself, and not in
+>   some prior philosophy, that reality is properly to be identified and
+>   described.  [^Quine1981p474]
 
 See the [Outline on scientific realism](scientific-realism.html).
 
 See the [Outline on philosophy of mathematics](math.html#naturalism).
+
+[^Quine1969]: @Quine_1969_Natural_kinds\.
+[^Quine1981p474]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
+    found in @Quine_1981_Theories_and_Things, p. 21.
+[^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
 
 ### Rejection of the supernatural
@@ -257,12 +265,6 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 
 ![W.V. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
 
->   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
->   and it is these and no dim proxies that science is all about. Now how is such
->   robust realism to be reconciled with what we have just been through? The answer
->   is naturalism: the recognition that it is within science itself, and not in
->   some prior philosophy, that reality is properly to be identified and
->   described.  [^Quine-1981]
 
 -   methodological naturalism
 -   What are the limits of science?
@@ -273,8 +275,6 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
     -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
 
 [^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
-[^Quine-1981]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
-    found in @Quine_1981_Theories_and_Things, p. 21.
 [^Wilson1998]: @Wilson_1998_Consilience\.
 
 
