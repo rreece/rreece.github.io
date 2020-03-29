@@ -19,9 +19,29 @@ Issues and positions
 
 Sellars:
 
->   The aim of philosophy, abstractly formulated, is to understand how things
->   in the broadest possible sense of the term hang together in the broadest
->   possible sense of the term.  [^Sellars1963p1]
+>   The aim of philosophy, abstractly formulated, is to understand how
+>   things in the broadest possible sense of the term hang together in the
+>   broadest possible sense of the term. Under 'things in the broadest
+>   possible sense' I include such radically different items as not only
+>   'cabbages and kings', but numbers and duties, possibilities and finger
+>   snaps, aesthetic experience and death. To achieve success in philosophy
+>   would be, to use a contemporary turn of phrase, to 'know one's way
+>   around' with respect to all these things... [^Sellars1963p1]
+
+TODO: Manifest image and scientific image - Sellars
+
+Sellars:
+
+>   Philosophy in an important sense has no special subject-matter which
+>   stands to it as other subject-matters stand to other special disciplines.
+>   If philosophers did have such a special subject-matter, they could turn it
+>   over to a new group of specialists as they have turned other special
+>   subject-matters to non-philosophers over the past 2500 years, first with
+>   mathematics, more recently psychology and sociology, and, currently,
+>   certain aspects of theoretical linguistics. What is characteristic of
+>   philosophy is not a special subject-matter, but the aim of knowing one's
+>   way around with respect to the subject-matters of all the special
+>   disciplines. [^SellarsTODO]
 
 Maddy defines naturalism:
 
@@ -30,7 +50,7 @@ Maddy defines naturalism:
 >   To qualify as unnaturalistic, a contemporary thinker has to insist,
 >   for example, that epistemology is an a priori discipline with nothing to
 >   learn from empirical psychology or that metaphysical intuitions show
->   quantum mechanics to be false.  [^Maddy-2007-1]
+>   quantum mechanics to be false.  [^Maddy2007p1]
 
 >   So our inquirer will continue her investigation of the world in her familiar
 >   ways, despite her encounter with Descartes and his meditator. She will ask
@@ -48,7 +68,7 @@ Maddy defines naturalism:
 >   by appeal to its resources. For Descartes's meditator, philosophy comes
 >   first; for our inquirer, it comes second---hence 'Second Philosophy'
 >   as opposed to 'First'. Our Character now has a name: she is the
->   Second Philosopher.  [^Maddy-2007-2]
+>   Second Philosopher.  [^Maddy2007p18]
 
 Jacobs:
 
@@ -60,25 +80,22 @@ Naturalism could be defined as a support for philosophy that is filtered for
 plausibility given the information from science[^Ladyman2007].
 See the [Outline on the science method](scientific-method.html#is-there-a-universal-scientific-method).
 
->   There is an enormous gap between so-called analytic philosophy which broadly agrees
->   that there is something special about science and scientific method, and tries to
->   pin down exactly what it is, and the modern continental tradition which is deeply
->   suspicious of science and its claims to truth and certainty, and generally
->   espouses a cultural relativism that derives from Nietzsche and goes all the way
->   to the postmodern extremes of Derrida and his ilk. There is also the social
->   constructivism that sees scientific facts as mere 'social constructions' and is a
->   direct offshoot of the continental relativism. But the analytic tradition itself
->   divides sharply between instrumentalism and realism, the former seeing theories
->   in physics as mathematical 'black boxes' linking empirical input with empirical
->   output, while the latter seeks to go behind the purely observational data, and
->   reveal something at least of the hidden 'theoretical' processes that lie behind
->   and explain the observational regularities. [^Redhead1999p34]
+Maudlin gives clear naturalist attitude at the start of *The Metaphysics within Physics*
+
+>   metaphysics, insofar as it is concerned with the natural world,
+>   can do no better than to reflect on physics.
+>   Physical theories provide us with the best handle we have on what there is,
+>   and the philosopher's proper task is the interpretation and elucidation
+>   of those theories. In particular, when choosing the fundamental posits
+>   of one's ontology, one must look to scientific practice rather than to
+>   philosophical prejudice. [^Maudlin2007p1]:
 
 [^Jacobs2002]: @Jacobs_2002_Naturalism\. 
-[^Maddy-2007-1]: @Maddy_2007_Second_Philosophy, p. 1.
-[^Maddy-2007-2]: @Maddy_2007_Second_Philosophy, p. 18--19.
-[^Redhead1999p34]: @Redhead_1999_Quantum_field_theory_and_the_philosopher\, p. 34.
+[^Maddy2007p1]: @Maddy_2007_Second_Philosophy, p. 1.
+[^Maddy2007p18]: @Maddy_2007_Second_Philosophy, p. 18--19.
+[^Maudlin2007p1]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 1.
 [^Sellars1963p1]: @Sellars_1963_Philosophy_and_the_scientific_image_of_man\, p. 1.
+[^SellarsTODO]: TODO.
 
 
 ### Rejection of *a priori* metaphysics

@@ -29,6 +29,7 @@ Issues and positions
 
 ### Consequentialism
 
+-   Epicurus
 -   Bentham
 -   Mill
 -   Game theory

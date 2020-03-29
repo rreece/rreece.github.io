@@ -202,6 +202,21 @@ but we have no ontological commitments to them.
 -   [Wikipedia](https://en.wikipedia.org/wiki/Instrumentalism): "Initially a novel perspective introduced by Pierre Duhem in 1906, instrumentalism is largely the prevailing theory that underpins the practice of physicists today." [^Torretti1999]
 -   Later Wittgenstein in *PI*. See [Postpositivism](#postpositivism), below.
 
+>   There is an enormous gap between so-called analytic philosophy which broadly agrees
+>   that there is something special about science and scientific method, and tries to
+>   pin down exactly what it is, and the modern continental tradition which is deeply
+>   suspicious of science and its claims to truth and certainty, and generally
+>   espouses a cultural relativism that derives from Nietzsche and goes all the way
+>   to the postmodern extremes of Derrida and his ilk. There is also the social
+>   constructivism that sees scientific facts as mere 'social constructions' and is a
+>   direct offshoot of the continental relativism. But the analytic tradition itself
+>   divides sharply between instrumentalism and realism, the former seeing theories
+>   in physics as mathematical 'black boxes' linking empirical input with empirical
+>   output, while the latter seeks to go behind the purely observational data, and
+>   reveal something at least of the hidden 'theoretical' processes that lie behind
+>   and explain the observational regularities. [^Redhead1999p34]
+
+[^Redhead1999p34]: @Redhead_1999_Quantum_field_theory_and_the_philosopher\, p. 34.
 [^Torretti1999]: @Torretti_1999_The_Philosophy_of_Physics\, p. 242--243.
 
 
