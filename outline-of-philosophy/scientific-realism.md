@@ -119,6 +119,8 @@ Stealing from encyclopedia.com:
 
 ### Scientific realism
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/philosophy?src=hash&amp;ref_src=twsrc%5Etfw">#philosophy</a> in figures: scientific realism vs anti-realism (<a href="https://twitter.com/hashtag/MoveNaturalism?src=hash&amp;ref_src=twsrc%5Etfw">#MoveNaturalism</a>) <a href="http://t.co/Q9XXhVzyrU">http://t.co/Q9XXhVzyrU</a> <a href="http://t.co/w7bMYN0PpD">pic.twitter.com/w7bMYN0PpD</a></p>&mdash; Ryan Reece (&#64;RyanDavidReece) <a href="https://twitter.com/RyanDavidReece/status/490317638418309120?ref_src=twsrc%5Etfw">July 19, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Some attempts at definitions:
 
 Science makes real progress in describing real features of the world.
@@ -152,9 +154,6 @@ Science makes real progress in describing real features of the world.
 -   See discussion of the Science Wars in [Criticisms of naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism)
 -   TODO: work through the challenges presented in [these videos](https://www.youtube.com/playlist?list=PLz0n_SjOttTenxXXdML7fOu1og3D9LaME).
 -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1/4 Essentialism is a far worse sin than scientism.<a href="https://twitter.com/hashtag/PhilSci?src=hash">#PhilSci</a> <a href="https://twitter.com/hashtag/scientism?src=hash">#scientism</a> <a href="https://twitter.com/hashtag/PessimisticMetaInduction?src=hash">#PessimisticMetaInduction</a></p>&mdash; Ryan Reece (&#64;RyanDavidReece) <a href="https://twitter.com/RyanDavidReece/status/771828745028055040">September 2, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 >   At first blush it seems to us that the theories last only a day
 >   and that ruins upon ruins accumulate.
