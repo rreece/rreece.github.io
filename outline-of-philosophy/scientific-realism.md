@@ -119,7 +119,13 @@ Stealing from encyclopedia.com:
 
 ### Scientific realism
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/philosophy?src=hash&amp;ref_src=twsrc%5Etfw">#philosophy</a> in figures: scientific realism vs anti-realism (<a href="https://twitter.com/hashtag/MoveNaturalism?src=hash&amp;ref_src=twsrc%5Etfw">#MoveNaturalism</a>) <a href="http://t.co/Q9XXhVzyrU">http://t.co/Q9XXhVzyrU</a> <a href="http://t.co/w7bMYN0PpD">pic.twitter.com/w7bMYN0PpD</a></p>&mdash; Ryan Reece (&#64;RyanDavidReece) <a href="https://twitter.com/RyanDavidReece/status/490317638418309120?ref_src=twsrc%5Etfw">July 19, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">
+<a href="https://twitter.com/hashtag/philosophy?src=hash&amp;ref_src=twsrc%5Etfw">#philosophy</a> in figures: scientific realism vs anti-realism (<a href="https://twitter.com/hashtag/MoveNaturalism?src=hash&amp;ref_src=twsrc%5Etfw">#MoveNaturalism</a>) <a href="http://t.co/Q9XXhVzyrU">http://t.co/Q9XXhVzyrU</a> <a href="http://t.co/w7bMYN0PpD">pic.twitter.com/w7bMYN0PpD</a></p>&mdash; Ryan Reece (&#64;RyanDavidReece) <a href="https://twitter.com/RyanDavidReece/status/490317638418309120?ref_src=twsrc%5Etfw">July 19, 2014</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
 Some attempts at definitions:
 
