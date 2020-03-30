@@ -233,8 +233,8 @@ Verification theory of meaning: All statements that can't be empirically verifie
 -   Wittgenstein, *Tractatus Logico-Philosophicus*. [^Wittgenstein1922]
 -   Logical positivism, Vienna circle[^Murzi2004], Moritz Schlick,
     Rudolf Carnap, Kurt G&ouml;del, Otto Neurath, and others.
--   A.J. Ayer[^Ayer1936].
--   Logical empiricism - Creathe[^Creathe].
+-   A.J. Ayer [^Ayer1936]
+-   Logical empiricism - Creathe [^Creathe2011]
 -   verificationism, nominalism, quietism
 -   von Neuman, Hilbert
 -   Hans Reichenbach (1891-1953) and the Berlin Circle
