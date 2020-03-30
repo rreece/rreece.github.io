@@ -352,8 +352,10 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 
 #### Counter rebutals
 
+
 -   [Stop Blaming Postmodernism for Post-Truth Politics](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845) [^Perrin2017]
 -   [Here's What Critics Say About That Big New Hoax On Gender Studies](https://www.buzzfeednews.com/article/virginiahughes/grievance-studies-sokal-hoax)
+-   Kim, Z. (2019). [The Logic Fetishists](https://blog.usejournal.com/the-logic-fetishists-464226cb3141).
 
 [^Perrin2017]: @Perrin_2017_Stop_Blaming_Postmodernism_for_Post_Truth\.
 
