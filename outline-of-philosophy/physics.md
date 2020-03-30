@@ -123,7 +123,7 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 -   Drossel [^Drossel2015]
 -   My quora answer: [What is currently the best explanation for how and why the quantum wave function collapses?](https://www.quora.com/What-is-currently-the-best-explanation-for-how-and-why-the-quantum-wave-function-collapses/answer/Ryan-Reece)
 
-[^Drossel2015]: @Drossel_2015_On_the_relation_between_the_second_law
+[^Drossel2015]: @Drossel_2015_On_the_relation_between_the_second_law\, p. 51--2.
 [^Giulini1996]: @Giulini_1996_Decoherence_and_the_Appearance_of_a_Classical\.
 
 
