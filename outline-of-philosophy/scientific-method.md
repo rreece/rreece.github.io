@@ -256,7 +256,20 @@ Important synthesizers:
 -   Gillian Russell [^Russell2008]
 -   Cory Juhl [^Juhl2009]
 
+>   Sometimes one speaks of logically necessary truths instead of analytic truths
+>   and of logically contingent truths instead of synthetic truths,
+>   to be distinguished from physically necessary truths (truths which physically
+>   could not be otherwise, true in all physically possible worlds). The
+>   distinction between necessary and contingent truth is a metaphysical one,
+>   to be distinguished from the epistemological distinction
+>   between a priori and a posteriori truths. Although
+>   these---the metaphysical and the epistemological---are certainly different
+>   distinctions, it was controversial whether they coincide in extension,
+>   that is, whether all and only necessary truths are a priori and all and only
+>   contingent truths are a posteriori. [^deSwart2018p141]
+
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
+[^deSwart2018p141]: @deSwart_2018_Philosophical_and_Mathematical_Logic\, p. 141--2.
 [^Kant1996pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
 [^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1990]: @Quine_1990_Dear_Carnap_Dear_van_The_Quine_Carnap\.

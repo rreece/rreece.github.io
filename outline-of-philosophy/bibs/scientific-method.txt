@@ -4,6 +4,7 @@ Carnap, R. (1952). *The Continuum of Inductive Methods*. University of Chicago P
 Carnap, R. (1966). The aim of inductive logic. In *Studies in Logic and the Foundations of Mathematics Vol. 44* (pp. 303--318). Elsevier.
 Carnap, R. (1973). Notes on probability and induction. *Synthese*, 25, 269--298.
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
+de Swart, H. (2018). *Philosophical and Mathematical Logic*. Springer.
 Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/abduction/
 Doyle, A.C. (1890). *The Sign of the Four*.
 Feynman, R.P. (1998). *The Meaning of It All*. Addison-Wesley.

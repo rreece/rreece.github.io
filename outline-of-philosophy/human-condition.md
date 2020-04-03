@@ -65,6 +65,8 @@ Branches of Buddhism:
 See also:
 
 -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
+-   Buddhism and Stoicism
+-   Buddhism and Pyrrhonism
 -   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 
 
