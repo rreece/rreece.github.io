@@ -379,7 +379,7 @@ and the wonderful self-correcting nature of ampliative inference:
 [^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
 [^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
     @Reichenbach_1940_On_the_justification_of_induction\.
-[^Vickers2014]: @Vickers_2014_The_problem_of_induction (emphasis mine).
+[^Vickers2014]: @Vickers_2014_The_problem_of_induction (emphasis added).
 
 
 #### Statistics as a solution to the problem of induction
