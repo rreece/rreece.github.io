@@ -571,7 +571,7 @@ TODO:
 
 -   "A gentle introduction to information geometry" [^Smith2019]
 -   "An elementary introduction to information geometry" [^Nielsen2018]
--   *Information Geometry and_Its Applications* [^Amari2016]
+-   *Information Geometry and Its Applications* [^Amari2016]
 -   "A geometric formulation of Occam's razor for inference of parametric distributions" [^Balasubramanian1996a]
 -   "Statistical inference, Occam's Razor and statistical mechanics on the space of probability distributions" [^Balasubramanian1996b]
 -   *Geometric Modeling in Probability and Statistics* [^Calin2014]
