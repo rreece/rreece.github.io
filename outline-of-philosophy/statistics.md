@@ -574,11 +574,16 @@ TODO:
 -   *Information_Geometry_and_Its_Applications* [^Amari2016]
 -   "A geometric formulation of Occam's razor for inference of parametric distributions" [^Balasubramanian1996a]
 -   "Statistical inference, Occam's Razor and statistical mechanics on the space of probability distributions" [^Balasubramanian1996b]
+-   *Geometric_Modeling_in_Probability_and_Statistics* [^Calin2014]
 -   Cranmer
+-   "Geometric understanding of deep learning" [^Lei2018]
+-   Cohen
 
 [^Amari2016]: @Amari_2016_Information_Geometry_and_Its_Applications\.
 [^Balasubramanian1996a]: @Balasubramanian_1996_A_geometric_formulation_of_Occams_razor\.
 [^Balasubramanian1996b]: @Balasubramanian_1996_Statistical_inference_Occams_razor\.
+[^Calin2014]: @Calin_2014_Geometric_Modeling_in_Probability_and_Statistics\.
+[^Lei2018]: @Lei_2018_Geometric_understanding_of_deep_learning
 [^Nielsen2018]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.
 [^Smith2019]: @Smith_2019_A_gentle_introduction_to_information_geometry\.
 
