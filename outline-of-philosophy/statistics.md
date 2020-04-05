@@ -569,12 +569,18 @@ TODO:
 
 ### Information geometry
 
--   Balasubramanian, V. (1996). A geometric formulation of Occam's razor for inference
-    of parametric distributions. [^Balasubramanian1996]
+-   "A gentle introduction to information geometry" [^Smith2019]
+-   "An elementary introduction to information geometry" [^Nielsen2018]
+-   *Information_Geometry_and_Its_Applications* [^Amari2016]
+-   "A geometric formulation of Occam's razor for inference of parametric distributions" [^Balasubramanian1996a]
+-   "Statistical inference, Occam's Razor and statistical mechanics on the space of probability distributions" [^Balasubramanian1996b]
 -   Cranmer
 
-[^Balasubramanian1996]: @Balasubramanian_1996_A_geometric_formulation_of_Occams_razor
-    and @Balasubramanian_1996_Statistical_inference_Occams_razor\.
+[^Amari2016]: @Amari_2016_Information_Geometry_and_Its_Applications\.
+[^Balasubramanian1996a]: @Balasubramanian_1996_A_geometric_formulation_of_Occams_razor\.
+[^Balasubramanian1996b]: @Balasubramanian_1996_Statistical_inference_Occams_razor\.
+[^Nielsen2018]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.
+[^Smith2019]: @Smith_2019_A_gentle_introduction_to_information_geometry\.
 
 
 ### Machine learning
