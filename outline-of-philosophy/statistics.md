@@ -259,6 +259,7 @@ of the distribution.
 -   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
 -   estimators
 -   regression
+-   Accuracy vs precision [^Cowan1998pX]
 
 
 #### Bias and variance
@@ -302,8 +303,8 @@ For an unbiased estimator, the MSE is the variance of the estimator.
 
 TODO:
 
--   Accuracy vs precision [^Cowan1998pX]
 -   Bias and variance trade-off
+-   MSE and model capacity
 -   Note the new deep learning view [^Belkin2019]
 
 [^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
@@ -468,11 +469,20 @@ TODO:
 -   Criticisms:
     -   Evans [^Evans2013]
     -   Mayo [^Mayo2014]
+    -   Mayo: [The Law of Likelihood and Error Statistics](https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/)
 -   Gandenberger
     -   "A new proof of the likelihood principle" [^Gandenberger2015]
     -   [gandenberger.org/research](http://gandenberger.org/research/)
     -   [Do frequentist methods violate the likelihood principle?](http://gandenberger.org/2014/04/28/do-frequentist-methods-violate-lp/)
 -   [Likelihoodist statistics](https://en.wikipedia.org/wiki/Likelihoodist_statistics)
+
+>   Likelihoods are vital to all statistical accounts, but they are often
+>   misunderstood because the data are fixed and the hypothesis varies.
+>   Likelihoods of hypotheses should not be confused with their probabilities.
+>   ...
+>   [T]he same phenomenon may be perfectly predicted or explained by two rival
+>   theories; so both theories are equally likely on the data, even though they
+>   cannot both be true. [^Mayo2019]
 
 [^Berger1988]: @Berger_1988_The_Likelihood_Principle\.
 [^Evans2013]: @Evans_2013_What_does_the_proof_of_Birnbaums_theorem_prove\.
@@ -480,6 +490,7 @@ TODO:
 [^Gandenberger2015]: @Gandenberger_2015_A_new_proof_of_the_likelihood_principle\.
 [^Hacking1965]: @Hacking_1965_Logic_of_Statistical_Inference\.
 [^Mayo2014]: @Mayo_2014_On_the_Birnbaum_Argument_for_the_Strong_Likelihood\.
+[^Mayo2019]: Mayo, D.G. (2019). [The Law of Likelihood and Error Statistics](https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/).
 
 
 ### "Statistics Wars"
