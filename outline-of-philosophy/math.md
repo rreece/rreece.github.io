@@ -426,6 +426,7 @@ Click to show links
 -   [Unsolved problems in mathematics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_mathematics)
 -   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
 -   [Weierstrass, Karl (1815-1897)](https://en.wikipedia.org/wiki/Karl_Weierstrass)
+-   [When a white horse is not a horse](https://en.wikipedia.org/wiki/When_a_white_horse_is_not_a_horse)
 -   [Zeroth-order logic](https://en.wikipedia.org/wiki/Zeroth-order_logic)
 
 ### Others

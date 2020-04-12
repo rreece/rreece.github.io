@@ -86,9 +86,19 @@ Stealing from encyclopedia.com:
 
 >   The world extended in space and time is but our representation. [^Schopenhauer-Schrodinger]
 
+>   *On Exactitude in Science*
+>
+>   ... In that Empire, the Art of Cartography attained such Perfection that the map of a single Province occupied the entirety of a City, and the map of the Empire, the entirety of a Province. In time, those Unconscionable Maps no longer satisfied, and the Cartographers Guilds struck a Map of the Empire whose size was that of the Empire, and which coincided point for point with it. The following Generations, who were not so fond of the Study of Cartography as their Forebears had been, saw that that vast Map was Useless, and not without some Pitilessness was it, that they delivered it up to the Inclemencies of Sun and Winters. In the Deserts of the West, still today, there are Tattered Ruins of that Map, inhabited by Animals and Beggars; in all the Land there is no other Relic of the Disciplines of Geography.
+>
+>   ---Su&aacute;rez Miranda, *Viajes de varones prudentes*, Libro IV, Cap. XLV, L&eacute;rida, 1658 [^Borges1998]
+
+>   A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness. [^Korzybski1933p58]
+
 >   Just 'cause you feel it, doesn't mean it's there. - Radiohead
 
+[^Borges1998]: @Borges_1998_Collected_Fictions\, p. 325.
 [^Khlentzos2011]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
+[^Korzybski1933p58]: @Korzybski_1933_Science_and_Sanity\, p. 58.
 [^Moore1925]: @Moore_1925_A_defense_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
 [^Pritchard2004]: @Pritchard_2004_Contemporary_skepticism\.
 [^Putnam1981]: @Putnam_1981_Reason_Truth_and_History\.
@@ -998,9 +1008,11 @@ Click to show links
 -   [Scientific Progress](http://plato.stanford.edu/entries/scientific-progress/)
 -   [Scientific Realism](http://plato.stanford.edu/entries/scientific-realism/)
 -   [Scientific Reduction](http://plato.stanford.edu/entries/scientific-reduction/)
+-   [Scientific Representation](https://plato.stanford.edu/entries/scientific-representation/)
 -   [Scientific Revolutions](http://plato.stanford.edu/entries/scientific-revolutions/)
 -   [Sellars, Wilfrid (1912-1989)](http://plato.stanford.edu/entries/sellars/)
 -   [Social Dimensions of Scientific Knowledge](http://plato.stanford.edu/entries/scientific-knowledge-social/)
+-   [Structure of Scientific Theories](https://plato.stanford.edu/entries/structure-scientific-theories/)
 -   [Structural Realism](http://plato.stanford.edu/entries/structural-realism/)
 -   [Structuralism in Physics](https://plato.stanford.edu/entries/physics-structuralism/)
 -   [Supervenience](https://plato.stanford.edu/entries/supervenience/)
