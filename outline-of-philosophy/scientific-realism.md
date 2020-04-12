@@ -83,10 +83,11 @@ Stealing from encyclopedia.com:
 -   Bostrom - The Simulation Argument
 -   Am I a more advanced civilization's tamagotchi?
 -   Distinguish Anti-realism from non-realism
+-   The map and the territory
 
 >   The world extended in space and time is but our representation. [^Schopenhauer-Schrodinger]
 
->   *On Exactitude in Science*
+>   **On Exactitude in Science**
 >
 >   ... In that Empire, the Art of Cartography attained such Perfection that the map of a single Province occupied the entirety of a City, and the map of the Empire, the entirety of a Province. In time, those Unconscionable Maps no longer satisfied, and the Cartographers Guilds struck a Map of the Empire whose size was that of the Empire, and which coincided point for point with it. The following Generations, who were not so fond of the Study of Cartography as their Forebears had been, saw that that vast Map was Useless, and not without some Pitilessness was it, that they delivered it up to the Inclemencies of Sun and Winters. In the Deserts of the West, still today, there are Tattered Ruins of that Map, inhabited by Animals and Beggars; in all the Land there is no other Relic of the Disciplines of Geography.
 >
@@ -94,7 +95,7 @@ Stealing from encyclopedia.com:
 
 >   A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness. [^Korzybski1933p58]
 
->   Just 'cause you feel it, doesn't mean it's there. - Radiohead
+>   Just 'cause you feel it, doesn't mean it's there. [^Radiohead2003]
 
 [^Borges1998]: @Borges_1998_Collected_Fictions\, p. 325.
 [^Khlentzos2011]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
@@ -102,6 +103,7 @@ Stealing from encyclopedia.com:
 [^Moore1925]: @Moore_1925_A_defense_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
 [^Pritchard2004]: @Pritchard_2004_Contemporary_skepticism\.
 [^Putnam1981]: @Putnam_1981_Reason_Truth_and_History\.
+[^Radiohead2003]: Radiohead. (2003). Song: "There There" on the album *Hail to the Thief*.
 [^Schopenhauer-Schrodinger]: Schr&ouml;dinger quoting Schopenhauer in "Mind and Matter".
 
 
