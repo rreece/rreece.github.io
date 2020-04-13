@@ -85,7 +85,7 @@ Stealing from encyclopedia.com:
 -   Distinguish Anti-realism from non-realism
 -   The map and the territory
 
-Schopenhauer-Schr&ouml;dinger:
+Schr&ouml;dinger quoting Schopenhauer:
 
 >   The world extended in space and time is but our representation. [^Schopenhauer-Schrodinger]
 
