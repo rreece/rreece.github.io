@@ -246,8 +246,10 @@ Verification theory of meaning: All statements that can't be empirically verifie
 -   Comte and Mill
 -   Ernst Mach
 -   Gottlob Frege, Bertrand Russell, Afred North Whitehead, George
-    Edward Moore. Ludwig Wittgenstein *Principia Mathematica*.
+    Edward Moore. *Principia Mathematica*.
 -   Wittgenstein, *Tractatus Logico-Philosophicus*. [^Wittgenstein1922]
+    -   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
+    -   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
     -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018) [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
 -   Logical positivism, Vienna circle[^Murzi2004], Moritz Schlick,
     Rudolf Carnap, Kurt G&ouml;del, Otto Neurath, and others.
