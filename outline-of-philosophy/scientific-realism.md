@@ -247,7 +247,7 @@ Verification theory of meaning: All statements that can't be empirically verifie
 -   Ernst Mach
 -   Gottlob Frege, Bertrand Russell, Afred North Whitehead, George
     Edward Moore. *Principia Mathematica*.
--   Wittgenstein, *Tractatus Logico-Philosophicus*. [^Wittgenstein1922]
+-   Wittgenstein, *Tractatus Logico-Philosophicus*. [^Wittgenstein1921]
     -   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
     -   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
     -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
@@ -278,7 +278,7 @@ Some Carnap works:
 [^Creathe2011]: @Creathe_2011_Logical_empiricism\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\.
-[^Wittgenstein1922]: @Wittgenstein_1922_Tractatus_Logico_Philosophicus\. 
+[^Wittgenstein1921]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
 
 Positivism is a philosophy of science and epistemology that roughly defends a
 qualified empiricism, that the scientific method is the only route to knowledge,

@@ -186,7 +186,7 @@ Also compare with the model of levels in @Oppenheim_1958_Unity_of_science_as_a_w
 >   constituent parts, and into those propositions which completely
 >   describe the complexes. [^Wittgenstein1922L20201]
 
-[^Wittgenstein1922L20201]:@Wittgenstein_1922_Tractatus_Logico_Philosophicus\, line 2.0201.
+[^Wittgenstein1922L20201]:@Wittgenstein_1961_Tractatus_Logico_Philosophicus\, line 2.0201.
 
 Alex Rosenberg is a mad dog against emergence. Video:
 [Alex Rosenberg interviewed for *Why Are We Here?*](https://www.whyarewehere.tv/people/alex-rosenberg/)
