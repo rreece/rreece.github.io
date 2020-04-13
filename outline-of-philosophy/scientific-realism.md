@@ -363,6 +363,8 @@ and constraining real structures in nature.
 
 Comte on the unknowability of the composition of stars:
 
+Comte:
+
 >   On the subject of stars, all investigations which are not ultimately reducible
 >   to simple visual observations are ... necessarily denied to us. While we can
 >   conceive of the possibility of determining their shapes, their sizes, and their
@@ -372,6 +374,8 @@ Comte on the unknowability of the composition of stars:
 >   power, we shall not at all be able to determine their chemical composition
 >   or even their density... I regard any notion concerning the true mean
 >   temperature of the various stars as forever denied to us. [^Comte1835stars]
+
+(He was wrong!)
 
 [^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
     Translation of passage taken from: <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
