@@ -201,7 +201,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 -   Weisberg [^Weisberg2019]
 
 [^Cousins2018]: @Cousins_2018_Lectures_on_statistics_in_theory_Prelude\.
-[^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
+[^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\. 
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
 [^Stuart2010]: @Stuart_2010_Kendalls_Advanced_Theory_of_Statistics_Vol_2A\.
@@ -307,7 +307,7 @@ TODO:
 -   MSE and model capacity
 -   Note the new deep learning view [^Belkin2019]
 
-[^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\, p. X. 
+[^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\, p. X. 
 [^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
 
 
@@ -479,7 +479,7 @@ O'Hagan:
 >   likelihood principle whereas classical inference does not.
 >   Classical procedures regularly violate the likelihood principle
 >   or one or more of the other axioms of good inference.
->   There are no such arguments in favour of classical inference. [^OHagan1994]
+>   There are no such arguments in favour of classical inference. [^OHagan2010]
 
 -   Criticisms:
     -   Evans [^Evans2013]
@@ -506,7 +506,7 @@ Mayo:
 [^Edwards1974]: @Edwards_1974_The_history_of_likelihood\.
 [^Gandenberger2015]: @Gandenberger_2015_A_new_proof_of_the_likelihood_principle\.
 [^Hacking1965]: @Hacking_1965_Logic_of_Statistical_Inference\.
-[^OHagan1994]: @OHagan_1994_Kendalls_Advanced_Theory_of_Statistics_Vol_2B\, p. 17--18\.
+[^OHagan2010]: @OHagan_2010_Kendalls_Advanced_Theory_of_Statistics_Vol_2B\, p. 17--18\.
 [^Mayo2014]: @Mayo_2014_On_the_Birnbaum_Argument_for_the_Strong_Likelihood\.
 [^Mayo2019]: Mayo, D.G. (2019). [The Law of Likelihood and Error Statistics](https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/).
 
@@ -765,7 +765,7 @@ Annotated bibliography
 
 ### Cowan, G. (1998). *Statistical Data Analysis*.
 
--   @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics
+-   @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data
 
 #### My thoughts
 
