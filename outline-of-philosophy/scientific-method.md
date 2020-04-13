@@ -543,8 +543,10 @@ Models of science
     and [confirmatory data analysis](https://en.wikipedia.org/wiki/Confirmatory_data_analysis)
     -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   See the [Outline of philosophy of statistics](http://rreece.github.io/outline-of-philosophy/statistics.html#exploratory-data-analysis)
--   Error-catching filters[^Ladyman2007], community, honesty, openness
-    -   Ladyman, Mayo
+-   Error-catching filters
+    -   Ladyman: Error-catching filters [^Ladyman2007]
+    -   community, honesty, openness
+    -   Mayo: Error statistics
 -   Not a seven-step program
     -   Evidence based, anti-conspiracy, parsimony
     -   Scientism
