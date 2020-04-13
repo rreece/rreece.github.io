@@ -226,7 +226,7 @@ Other outreach talks
 -   Site navigation:
 -   [<i class="fas fa-home"></i>&nbsp;&nbsp;home](../)             
 -   [<i class="fas fa-coffee" style="font-size:16px;"></i>&nbsp;&nbsp;essays](../essays/)
--   [<i class="far fa-file-alt" style="font-size:20px;"></i>&nbsp;&nbsp;&nbsp;publications](publications/)
--   [<i class="fas fa-atom" style="font-size:20px;"></i>&nbsp;&nbsp;&nbsp;research](research/)
--   [<i class="far fa-save" style="font-size:20px;"></i>&nbsp;&nbsp;&nbsp;software](sw/)
+-   [<i class="far fa-file-alt" style="font-size:20px;"></i>&nbsp;&nbsp;&nbsp;publications](../publications/)
+-   [<i class="fas fa-atom" style="font-size:20px;"></i>&nbsp;&nbsp;&nbsp;research](../research/)
+-   [<i class="far fa-save" style="font-size:20px;"></i>&nbsp;&nbsp;&nbsp;software](../sw/)
 </div>
