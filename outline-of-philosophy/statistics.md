@@ -548,6 +548,9 @@ TODO:
     -   [An argument against likelihoodist methods as genuine alternatives to bayesian and frequentist methods](http://gandenberger.org/2013/10/21/against-likelihoodist-methods/)
     -   "Why I am not a likelihoodist" [^Gandenberger2016]
 
+![The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference ([gandenberger.org/research/](http://gandenberger.org/research/)).](img/gandenberger-thesis-venn-diagram.png){#fig:gandenberger-thesis-venn-diagram}
+
+
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
 [^Gandenberger2016]: @Gandenberger_2016_Why_I_am_not_a_likelihoodist\.
