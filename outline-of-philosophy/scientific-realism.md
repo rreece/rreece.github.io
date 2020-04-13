@@ -509,6 +509,8 @@ Science has identified real patterns, relationships, and structures
 -   *Scientific Metaphysics* [^Ross2013]
 -   contrast with Bueno's structural empiricism
 
+Poincar&eacute;:
+
 >   [W]hat is objective must be common to many minds and consequently transmissible from one to the other. ...
 >   [P]ure quality ... is intransmissible... . But it is not the same with relations...
 >   From this point of view, what is objective is ... only pure relation. [^Poincare2014]
