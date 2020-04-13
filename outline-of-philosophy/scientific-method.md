@@ -232,9 +232,9 @@ Important synthesizers:
 
 -   Locke
     -   *An Essay Concerning Human Understanding* (1689)
--   Kant in his *Critique of Pure Reason* (1781):
+-   Kant
 
-Kant:
+Kant in his *Critique of Pure Reason* (1781):
 
 >   In all judgments in which we think the relation of a subject to the predicate...
 >   this relation is possible in two ways. Either the predicate B belongs to the
@@ -272,6 +272,8 @@ de Swart:
 >   distinctions, it was controversial whether they coincide in extension,
 >   that is, whether all and only necessary truths are a priori and all and only
 >   contingent truths are a posteriori. [^deSwart2018p141]
+
+TODO: 2x2 figure *a priori--a posteriori* vs analytic--synthetic.
 
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^deSwart2018p141]: @deSwart_2018_Philosophical_and_Mathematical_Logic\, p. 141--2.
