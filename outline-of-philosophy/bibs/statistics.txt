@@ -92,6 +92,7 @@ Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally p
 Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482.
 Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.
 Wasserstein, R.L., & Lazar, N.A. (2016). The ASA's statement on p-values: Context, process, and purpose. *American Statistician*, 70, 129--133.
+Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. https://ssrn.com/abstract=3509737 [Available at SSRN 3509737]
 Weintraub, R. (1995). What was Hume's contribution to the problem of induction? *The Philosophical Quarterly*, 45, 460--470.
 Weisberg, J. (2019). *Odds & Ends: Introducing Probability & Decision with a Visual Emphasis*. https://jonathanweisberg.org/vip/
 Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62.

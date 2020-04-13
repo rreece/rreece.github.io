@@ -613,6 +613,17 @@ TODO:
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
 
 
+#### Deep learning
+
+-   "Review: Deep learning" [^LeCun2015]
+-   *Deep Learning* [^Goodfellow2016]
+-   "The explanation game: A formal framework for interpretable machine learning" [^Watson2019]
+
+[^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
+[^LeCun2015]: @LeCun_2015_Deep_learning\.
+[^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
+
+
 #### Computer Vision
 
 Computer Vision (CV)
@@ -621,11 +632,6 @@ Computer Vision (CV)
 -   LeCun: LeNet-5
 -   Ciresan: MCDNN
 -   Krizhevsky: AlexNet
--   Review: Deep learning [^LeCun2015]
--   *Deep Learning* [^Goodfellow2016]
-
-[^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
-[^LeCun2015]: @LeCun_2015_Deep_learning\.
 
 
 #### Natural language processing

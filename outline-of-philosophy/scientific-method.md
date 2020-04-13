@@ -447,7 +447,7 @@ Peirce:
 >   but one is that theories are often quite complex and difficult to work with.
 >   So a scientist may build a simplified model, containing significant
 >   idealizations that allow the scientist to ignore certain factors,
->   for example, and [more] easily relate the theory to observations.
+>   for example, and [more] easily relate the theory to observations. [^French2007p81]
 
 [^French2007p81]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. 81.
 
