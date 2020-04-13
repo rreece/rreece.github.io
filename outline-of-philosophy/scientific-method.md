@@ -540,7 +540,7 @@ Models of science:
 -   Pragmatic model
     -   C.S. Peirce
 -   Normal vs revolutionary science
-    -   Thomas Kuhn
+    -   Thomas Kuhn [^Kuhn1962]
 -   Distinction between [exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
     and [confirmatory data analysis](https://en.wikipedia.org/wiki/Confirmatory_data_analysis)
     -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
@@ -557,6 +557,7 @@ Models of science:
 [^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
 [^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
 [^Hempel1948]: @Hempel_1948_Studies_in_the_logic_of_explanation\.
+[^Kuhn1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^NewtonpX]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\, p. TODO.
 
