@@ -193,7 +193,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 
 #### Pedagogy
 
--   Kendall [^Kendall1946]
+-   Kendall [^Stuart2010]
 -   James [^James2006]
 -   Cousins [^Cousins2018]
 -   Cowan [^Cowan1998]
@@ -204,7 +204,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_Statistics\. 
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
-[^Kendall1946]: @Kendall_1946_The_Advanced_Theory_of_Statistics_VolII\.
+[^Stuart2010]: @Stuart_2010_Kendalls_Advanced_Theory_of_Statistics_Vol_2A\.
 [^Weisberg2019]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\.
 
 
@@ -608,12 +608,13 @@ TODO:
 -   *Geometric Modeling in Probability and Statistics* [^Calin2014]
 -   Cranmer
 -   "Geometric understanding of deep learning" [^Lei2018]
--   Cohen
+-   Cohen [^Cohen2016]
 
 [^Amari2016]: @Amari_2016_Information_Geometry_and_Its_Applications\.
 [^Balasubramanian1996a]: @Balasubramanian_1996_A_geometric_formulation_of_Occams_razor\.
 [^Balasubramanian1996b]: @Balasubramanian_1996_Statistical_inference_Occams_razor\.
 [^Calin2014]: @Calin_2014_Geometric_Modeling_in_Probability_and_Statistics\.
+[^Cohen2016]: @Cohen_2016_Group_equivariant_convolutional_networks\.
 [^Lei2018]: @Lei_2018_Geometric_understanding_of_deep_learning
 [^Nielsen2018]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.
 [^Smith2019]: @Smith_2019_A_gentle_introduction_to_information_geometry\.

@@ -16,6 +16,7 @@ Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistic
 Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenological Research*, 5(4), 513--32. 
 Carnap, R. (1947). Probability as a guide in life. *Journal of Philosophy*, 44(6), 141--48.
 Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation. *Natural Language Engineering*, 25(6), 753--767.
+Cohen, T. & Welling, M. (2016). Group equivariant convolutional networks. *Proceedings of International Conference on Machine Learning 2016* (pp. 2990--2999). http://proceedings.mlr.press/v48/cohenc16.pdf
 Cousins, R.D. (2018). Lectures on statistics in theory: Prelude to statistics in practice. https://arxiv.org/abs/1807.05996
 Cowan, G. (1998). *Statistical Data Analysis*. Clarendon Press.
 Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). Asymptotic formulae for likelihood-based tests of new physics. *European Physical Journal C*, 71, 1544. https://arxiv.org/abs/1007.1727
@@ -85,6 +86,8 @@ Sinervo, P. (2002). Signal significance in particle physics. In Whalley, M.R. & 
 Sinervo, P. (2003). Definition and treatment of systematic uncertainties in high energy physics and astrophysics. In Lyons, L., & Mount, R., & Reitmeyer, R. (Eds.), *Proceedings of the Conference on Statistical Problems in Particle Physics, Astrophysics, and Cosmology (PhyStat2003)* (pp. 122--129). Stanford Linear Accelerator Center. https://www.slac.stanford.edu/econf/C030908/papers/TUAT004.pdf
 Smith, L. (2019). A gentle introduction to information geometry. http://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html [September 27, 2019]
 Stahlberg, F. (2019). Neural machine translation: A review. https://arxiv.org/abs/1912.02047
+Stuart, A., Ord, K., & Arnold, S. (2010). *Kendall's Advanced Theory of Statistics, Vol 2A: Classical Inference and the Linear Model*. Wiley.
+O'Hagan, A. (1994). *Kendall's Advanced Theory of Statistics, Vol 2B: Bayesian Inference*. Wiley.
 Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning with neural networks. *Advances in Neural Information Processing Systems*, 2014, 3104--3112. https://arxiv.org/abs/1409.3215
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
