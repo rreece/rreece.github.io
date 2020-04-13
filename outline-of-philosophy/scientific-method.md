@@ -539,6 +539,8 @@ Models of science:
     -   Karl Popper
 -   Pragmatic model
     -   C.S. Peirce
+-   Normal vs revolutionary science
+    -   Thomas Kuhn
 -   Distinction between [exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
     and [confirmatory data analysis](https://en.wikipedia.org/wiki/Confirmatory_data_analysis)
     -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
