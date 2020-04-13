@@ -441,6 +441,8 @@ Peirce:
 
 ### Models in science
 
+French:
+
 >   [S]cientist *don't* simply deduce experimental/observational consequences;
 >   they construct models that 'mediate' between theories and the observations.
 >   There are a number of reasons why scientists will proceed in this way
@@ -448,6 +450,8 @@ Peirce:
 >   So a scientist may build a simplified model, containing significant
 >   idealizations that allow the scientist to ignore certain factors,
 >   for example, and [more] easily relate the theory to observations. [^French2007p81]
+
+Frigg:
 
 >   Morgan and Morrison (1999) rally around the idea that models are instruments
 >   that mediate between theories and the world. Models are "autonomous agents"
@@ -499,6 +503,8 @@ Feynman:
 >   That is the principle of science. If there is an exception to any rule,
 >   and it can be proved by observation, that rule is wrong. [^Feynman1998p15]
 
+Feynman:
+
 >   There are in science a number of technical consequences that follow from
 >   the principle of observation as judge. For example, the observation
 >   cannot be rough. You have to be very careful. There may have been a
@@ -545,6 +551,8 @@ Models of science
 -   Gettier cases.
 -   Feynman
 
+Feynman:
+
 >   All scientific knowledge is uncertain...
 >   [W]hat we call scientific knowledge today is a body of statements of
 >   varying degrees of certainty. Some of them are most unsure. Some of
@@ -560,6 +568,8 @@ Models of science
 ![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g)).](img/knowledge.png){#fig:knowledge-jtb-g}
 
 The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*
+
+Russell:
 
 >   You're walking by a clock that you've always known
 >   to be accurate in the past. You glance up at it and see that it reads
