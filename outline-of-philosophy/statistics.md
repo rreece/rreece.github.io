@@ -466,7 +466,8 @@ TODO:
         and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic).  [^Birnbaum1962]
     -   Hacking identified the "law of likelihood". [^Hacking1965]
 -   Berger & Wolpert. (1988). *The Likelihood Principle* [^Berger1988]
--   O'Hagan:
+
+O'Hagan:
 
 >   The first key argument in favour of the Bayesian approach can be called the
 >   axiomatic argument. We can formulate systems of axioms of good inference,
@@ -489,6 +490,8 @@ TODO:
     -   [gandenberger.org/research](http://gandenberger.org/research/)
     -   [Do frequentist methods violate the likelihood principle?](http://gandenberger.org/2014/04/28/do-frequentist-methods-violate-lp/)
 -   [Likelihoodist statistics](https://en.wikipedia.org/wiki/Likelihoodist_statistics)
+
+Mayo:
 
 >   Likelihoods are vital to all statistical accounts, but they are often
 >   misunderstood because the data are fixed and the hypothesis varies.
