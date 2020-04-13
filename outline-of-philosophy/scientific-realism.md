@@ -380,7 +380,6 @@ Comte on the unknowability of the composition of stars:
 
 See also:
 
--   [A.J. Ayer on Logical Positivism and Its Legacy (1976)](https://www.youtube.com/watch?v=nG0EWNezFl4&feature=youtu.be&t=2040)
 -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism) - scientific realism vs anti-realism
 -   [positivists.org/blog/movements](http://positivists.org/blog/movements)
 
@@ -408,11 +407,13 @@ Popper:
 
 >   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963]
 
-[^Popper1963]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. XXX.
-
 The "death" of positivism:
 
--   anti-positivism, post-structuralism, postmodernism (continental)
+-   anti-positivism, Kuhn, Popper
+-   post-structuralism, postmodernism (continental)
+-   Ayer, A.J. 
+
+>   The most important defect was that nearly all of it was false. [^Ayer1978]
 
 Later Wittgenstein:
 
@@ -427,6 +428,9 @@ Later Wittgenstein:
 Wittgenstein in *PI*:
 
 >   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
+
+[^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
+[^Popper1963]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. XXX.
 
 
 ### Pragmatism
@@ -986,6 +990,7 @@ Click to show links
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
 -   [Analysis](http://plato.stanford.edu/entries/analysis/)
 -   [Analytic/Synthetic Distinction](http://plato.stanford.edu/entries/analytic-synthetic/)
+-   [Ayer, Alfred Jules (1910-1989)](https://plato.stanford.edu/entries/ayer/)
 -   [Carnap, Rudolf (1891-1970)](https://plato.stanford.edu/entries/carnap/)
 -   [Causal Models](https://plato.stanford.edu/entries/causal-models/)
 -   [Causal Processes](http://plato.stanford.edu/entries/causation-process/)
