@@ -411,6 +411,8 @@ Peirce:
 
 -   [Holmesian fallacy](https://rationalwiki.org/wiki/Holmesian_fallacy)
 
+Arthur Conan Doyle:
+
 >   [W]hen you have eliminated the impossible, whatever remains, however improbable,
 >   must be the truth.  [^Doyle1890]
 
