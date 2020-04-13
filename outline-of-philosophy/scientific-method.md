@@ -366,7 +366,7 @@ Peirce:
 >   self-correcting nature of the ampliative inference would enable us,
 >   even if they did exist, to detect and make allowance for them. [^Peirce1883p176]
 
--   Dewey:
+Dewey:
 
 >   The methods by which generalizations are arrived at have received the
 >   name "induction"; the methods by which already existing generalizations
@@ -526,7 +526,7 @@ Feynman:
 >   and then recheck them, to be sure that you understand what all the
 >   conditions are and that you did not misinterpret what you did. [^Feynman1998p17]
 
-Models of science
+Models of science:
 
 -   Hypothetico-deductive model
 -   Positivism, verificationism
