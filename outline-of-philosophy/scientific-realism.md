@@ -120,7 +120,7 @@ Radiohead:
 -   laws of nature
 -   Humean vs Non-humean :: regularity vs necessitarianism
 -   Donald Davidson
--   David Lewis and Humean supervenience:
+-   David Lewis on Humean supervenience:
 
 >   Humean supervenience is named in honor of the great denier of necessary
 >   connections. It is the doctrine that all there is to the world is a vast
