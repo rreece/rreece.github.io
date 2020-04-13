@@ -468,10 +468,16 @@ Peirce:
 
 -   "Surrogative Reasoning Condition" [^Frigg2017]
 -   ["What is the difference between a model and a theory?"](https://physics.stackexchange.com/questions/187967/what-is-the-difference-between-a-model-and-a-theory) - physics.stackexchange.com
+-   "A comparison of the meaning and uses of models in mathematics and the empirical sciences" [^Suppes1961]
+-   "What is a scientific theory?" [^Suppes1967]
+-   *Models as Mediators* [^Morgan1999]
 
 [^French2007p81]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. 81.
 [^Frigg2017]: @Frigg_2017_Models_and_representation\.
 [^Frigg2020]: @Frigg_2020_Models_in_science\.
+[^Morgan1999]: @Morgan_1999_Models_as_Mediators\.
+[^Suppes1961]: @Suppes_1961_A_comparison_of_the_meaning_and_uses_of_models\.
+[^Suppes1967]: @Suppes_1967_What_is_a_scientific_theory\.
 
 
 ### Is there a universal scientific method?

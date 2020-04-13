@@ -16,6 +16,7 @@ Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed
 Juhl, C. & Loomis, E. (2009). *Analyticity*. Routledge.
 Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1781)]
 Mill, J.S. (1843). *A System of Logic*. New York: Harper and Brothers.
+Morgan, M.S. & Morrison, M. (1999). *Models as Mediators*. Cambridge University Press.
 Newton, I. (2016). *The Principia: Mathematical Principles of Natural Philosophy* (I. Bernard Cohen and A. Whitman and J. Budenz, Trans.). University of California Press. [(Originally published in 1687)]
 Russell, B. (2009). *Human Knowledge: Its Scope and Limits*. Routledge.
 Russell, G. (2008). *Truth in Virtue of Meaning: A defence of the analytic/synthetic distinction*. Oxford University Press.
@@ -24,4 +25,6 @@ Quine, W.V. (1951). Two dogmas of empiricism. *The Philosophical Review*, 60, 20
 Quine, W.V. & Carnap, R. (1990). *Dear Carnap, Dear van: The Quine-Carnap Correspondence and Related Work* (Richard Creath, Ed.). Univ of California Press.
 Sabra, A.I. (1978). An eleventh-century refutation of Ptolemy's planetary theory. *Studia Copernicana*, 16, 117--131.
 {Sextus Empiricus}. (1933). *Outlines of Pyrrhonism* (R.G. Bury, Trans.). London: W. Heinemann.
+Suppes, P. (1961). A comparison of the meaning and uses of models in mathematics and the empirical sciences. In *The Concept and the Role of the Model in Mathematics and Natural and Social Sciences* (pp. 163--177). Springer, Dordrecht.
+Suppes, P. (1967). What is a scientific theory? In Morgenbesser, S. (Ed.) *Philosophy of Science Today* (pp. 55-67). Basic Books.
 Vickers, J. (2014). The problem of induction. *Stanford Encyclopedia of Philosophy*. https://stanford.library.sydney.edu.au/archives/sum2016/entries/induction-problem/
