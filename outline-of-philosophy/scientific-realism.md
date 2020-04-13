@@ -413,6 +413,8 @@ The "death" of positivism:
 -   post-structuralism, postmodernism (continental)
 -   Ayer, A.J. 
 
+Ayer:
+
 >   The most important defect was that nearly all of it was false. [^Ayer1978]
 
 Later Wittgenstein:
