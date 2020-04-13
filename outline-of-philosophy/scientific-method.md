@@ -449,7 +449,29 @@ Peirce:
 >   idealizations that allow the scientist to ignore certain factors,
 >   for example, and [more] easily relate the theory to observations. [^French2007p81]
 
+>   Morgan and Morrison (1999) rally around the idea that models are instruments
+>   that mediate between theories and the world. Models are "autonomous agents"
+>   in that they are independent from both theories and their target systems,
+>   and it is this independence that allows them to mediate between the two.
+>   Theories do not provide us with algorithms for the construction of a model;
+>   they are not "vending machines" into which one can insert a problem and a
+>   model pops out (Cartwright 1999). The construction of a model often requires
+>   detailed knowledge about materials, approximation schemes, and the setup,
+>   and these are not provided by the corresponding theory. Furthermore,
+>   the inner workings of a model are often driven by a number of different
+>   theories working cooperatively. In contemporary climate modeling,
+>   for instance, elements of different theories---among them fluid dynamics,
+>   thermodynamics, electromagnetism---are put to work cooperatively.
+>   What delivers the results is not the stringent application of one theory,
+>   but the voices of different theories when put to use in chorus with each
+>   other in one model. [^Frigg2020]
+
+-   "Surrogative Reasoning Condition" [^Frigg2017]
+-   ["What is the difference between a 'model' and a 'theory'?"](https://physics.stackexchange.com/questions/187967/what-is-the-difference-between-a-model-and-a-theory) - physics.stackexchange.com
+
 [^French2007p81]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. 81.
+[^Frigg2017]: @Frigg_2017_Models_and_representation\.
+[^Frigg2020]: @Frigg_2020_Models_in_science\.
 
 
 ### Is there a universal scientific method?
