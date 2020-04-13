@@ -1,4 +1,4 @@
- Scientific realism
+Scientific realism
 ================================================================================
 
 Can we claim to know anything about reality?
@@ -31,6 +31,8 @@ three following ideas:
     claims beyond what is verifiable.  This was the view of the positivistists.
 -   A loosely, if ill-defined, woo-woo word in which a mystic, guru, or metaphysician
     may claim to specialize.
+
+van Inwagen:
 
 >   The word 'metaphysics' is derived from a collective title of the fourteen books by
 >   Aristotle that we currently think of as making up Aristotle's *Metaphysics*.
@@ -151,8 +153,12 @@ Some attempts at definitions:
 
 Science makes real progress in describing real features of the world.
 
+Chakravartty:
+
 >   To a very rough, first approximation, realism is the view that our best scientific theories
 >   correctly describe both observable and unobservable parts of the world. [^Chakravartty2007]
+
+Chakravartty:
 
 >   Scientific realism is a positive epistemic attitude towards the content of our
 >   best theories and models, recommending belief in both observable and unobservable
@@ -181,6 +187,8 @@ Science makes real progress in describing real features of the world.
 -   TODO: work through the challenges presented in [these videos](https://www.youtube.com/playlist?list=PLz0n_SjOttTenxXXdML7fOu1og3D9LaME).
 -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
 
+Poincar&eacute;:
+
 >   At first blush it seems to us that the theories last only a day
 >   and that ruins upon ruins accumulate.
 >   Today the theories are born, tomorrow they are the fashion,
@@ -190,11 +198,17 @@ Science makes real progress in describing real features of the world.
 
 TODO: find the page number for above Poincar&eacute; quote.
 
+Rovelli:
+
 >   Our arguments have to be about the world we experience,
 >   not about a world made of paper. [^Rovelli2003]
 
+Einstein:
+
 >   As far as the laws of mathematics refer to reality, they are not certain;
 >   and as far as they are certain, they do not refer to reality. [^Einstein1922]
+
+Schumm:
 
 >   There is a difference, however, between working crossword puzzles and the pursuit of
 >   higher mathematics. In the case of mathematics, you don't triumph over the capricious
@@ -387,6 +401,8 @@ A metatheoretical stance that critiques and amends positivism. While positivists
     -   inscrutability of reference
 -   Thomas Kuhn (1922-1996)
     -   paradigm shifts
+
+Popper:
 
 >   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963]
 
