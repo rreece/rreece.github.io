@@ -537,8 +537,12 @@ I found the above quotes in a talk by Arthur Fine:
 ### Feminist epistemology
 
 -   Situated knowers
--   Feminist standpoint theory
--   intersectionality
+-   Standpoint theory
+-   Intersectionality
+-   Decolonizing science
+    -   Prescod-Weinstein, Chanda. (2015). [Decolonising Science Reading List](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
+    -   Roy, Rohan Deb. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
+-   Martha Nussbaum
 
 
 ### Critical realism
