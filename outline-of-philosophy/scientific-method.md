@@ -233,6 +233,8 @@ Important synthesizers:
     -   *An Essay Concerning Human Understanding* (1689)
 -   Kant in his *Critique of Pure Reason* (1781):
 
+Kant:
+
 >   In all judgments in which we think the relation of a subject to the predicate...
 >   this relation is possible in two ways. Either the predicate B belongs to the
 >   subject A as something that is (covertly) contained in this concept A;
@@ -255,6 +257,8 @@ Important synthesizers:
 -   Carnap vs Quine [^Quine1990]
 -   Gillian Russell [^Russell2008]
 -   Cory Juhl [^Juhl2009]
+
+de Swart:
 
 >   Sometimes one speaks of logically necessary truths instead of analytic truths
 >   and of logically contingent truths instead of synthetic truths,
@@ -308,6 +312,8 @@ Sextus Empiricus:
     -   *A System of Logic* (1843) [^Mill1843]
 -   Peirce
 
+Vickers:
+
 >   [I]n Peirce's phrase, inductions are _ampliative_. Induction can amplify and
 >   generalize our experience, broaden and deepen our empirical knowledge.
 >   Deduction on the other hand is explicative. Deduction orders and
@@ -315,6 +321,8 @@ Sextus Empiricus:
 
 Peirce on _merely_ the denial of any major failures of induction
 and the wonderful self-correcting nature of ampliative inference:
+
+Peirce:
 
 >   I maintain that it has been shown that the modes of inference in question are
 >   necessarily valid, whatever the constitution of the universe, so long as it
