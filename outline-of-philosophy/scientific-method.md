@@ -479,6 +479,8 @@ Feynman:
 >   and then recheck them, to be sure that you understand what all the
 >   conditions are and that you did not misinterpret what you did. [^Feynman1998p17]
 
+Models of science
+
 -   Hypothetico-deductive model
 -   Positivism, verificationism
     -   Auguste Comte, Ernst Mach, David Hilbert, Rudolf Carnap
