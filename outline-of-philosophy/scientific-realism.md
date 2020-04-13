@@ -363,8 +363,6 @@ and constraining real structures in nature.
 
 Comte on the unknowability of the composition of stars:
 
-Comte:
-
 >   On the subject of stars, all investigations which are not ultimately reducible
 >   to simple visual observations are ... necessarily denied to us. While we can
 >   conceive of the possibility of determining their shapes, their sizes, and their
