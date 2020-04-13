@@ -85,7 +85,11 @@ Stealing from encyclopedia.com:
 -   Distinguish Anti-realism from non-realism
 -   The map and the territory
 
+Schopenhauer-Schr&ouml;dinger:
+
 >   The world extended in space and time is but our representation. [^Schopenhauer-Schrodinger]
+
+Borges:
 
 >   **On Exactitude in Science**
 >
@@ -93,7 +97,11 @@ Stealing from encyclopedia.com:
 >
 >   ---Su&aacute;rez Miranda, *Viajes de varones prudentes*, Libro IV, Cap. XLV, L&eacute;rida, 1658 [^Borges1998]
 
+Korzybski:
+
 >   A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness. [^Korzybski1933p58]
+
+Radiohead:
 
 >   Just 'cause you feel it, doesn't mean it's there. [^Radiohead2003]
 
