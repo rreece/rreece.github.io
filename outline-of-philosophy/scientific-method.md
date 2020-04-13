@@ -467,7 +467,7 @@ Peirce:
 >   other in one model. [^Frigg2020]
 
 -   "Surrogative Reasoning Condition" [^Frigg2017]
--   ["What is the difference between a 'model' and a 'theory'?"](https://physics.stackexchange.com/questions/187967/what-is-the-difference-between-a-model-and-a-theory) - physics.stackexchange.com
+-   ["What is the difference between a model and a theory?"](https://physics.stackexchange.com/questions/187967/what-is-the-difference-between-a-model-and-a-theory) - physics.stackexchange.com
 
 [^French2007p81]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. 81.
 [^Frigg2017]: @Frigg_2017_Models_and_representation\.
