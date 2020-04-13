@@ -239,12 +239,15 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 #### Non-perturbative features
 
+-   Holonomy
 -   Sphalerons
 -   Instanton
+
 
 #### Higher gauge theory
 
 -   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
+-   Fiber bundles
 
 
 #### Supersymmetry
@@ -566,6 +569,7 @@ Click to show links
 -   [Hilbert space](http://en.wikipedia.org/wiki/Hilbert_space)
 -   [Holographic principle](http://en.wikipedia.org/wiki/Holographic_principle)
 -   [Holomovement](https://en.wikipedia.org/wiki/Holomovement)
+-   [Holonomy](https://en.wikipedia.org/wiki/Holonomy)
 -   [Kaluza-Klein theory](https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory)
 -   [Kochen-Specker Theorem](https://en.wikipedia.org/wiki/Kochen%E2%80%93Specker_theorem)
 -   [Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM_model)
