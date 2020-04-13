@@ -178,6 +178,7 @@ Issues and positions
 
 #### Modern statistics
 
+-   [Pearson, Karl (1857-1936)](https://en.wikipedia.org/wiki/Karl_Pearson)
 -   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
 -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
@@ -941,6 +942,7 @@ Click to show links
 -   [Parmenides](https://en.wikipedia.org/wiki/Parmenides)
 -   [Pauli, Wolfgang (1900-1958)](https://en.wikipedia.org/wiki/Wolfgang_Pauli)
 -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
+-   [Pearson, Karl (1857-1936)](https://en.wikipedia.org/wiki/Karl_Pearson)
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 -   [Phlogiston theory](http://en.wikipedia.org/wiki/Phlogiston_theory)
 -   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
