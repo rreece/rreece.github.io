@@ -787,6 +787,7 @@ Click to show links
 -   [Newton, Isaac (1642-1727)](http://plato.stanford.edu/entries/newton/)
 -   [Newton's Philosophy](http://plato.stanford.edu/entries/newton-philosophy/)
 -   [Newton's *Philosophiae Naturalis Principia Mathematica*](http://plato.stanford.edu/entries/newton-principia/)
+-   [Ockham, William of (1287-1347)](https://plato.stanford.edu/entries/ockham/)
 -   [Parmenides](http://plato.stanford.edu/entries/parmenides/)
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
 -   [Principle of Sufficient Reason](http://plato.stanford.edu/entries/sufficient-reason/)

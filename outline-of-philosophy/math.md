@@ -152,6 +152,7 @@ Reid 1996, p. 150.
 ### Nominalism
 
 -   Antirealist
+-   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   *Science Without Numbers* [^Field1980]
 -   Bueno [^Bueno2013]
 
@@ -307,6 +308,7 @@ Click to show links
 -   [Nominalism in Metaphysics](http://plato.stanford.edu/entries/nominalism-metaphysics/)
 -   [Nominalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/nominalism-mathematics/)
 -   [Non-Deductive Methods in Mathematics](http://plato.stanford.edu/entries/mathematics-nondeductive/)
+-   [Ockham, William of (1287-1347)](https://plato.stanford.edu/entries/ockham/)
 -   [Platonism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/platonism-mathematics/)
 -   [Platonism in Metaphysics](http://plato.stanford.edu/entries/platonism/)
 -   [Principia Mathematica](http://plato.stanford.edu/entries/principia-mathematica/)
@@ -402,6 +404,7 @@ Click to show links
 -   [Natural number](http://en.wikipedia.org/wiki/Natural_number)
 -   [Newton, Isaac (1642-1726/7)](https://en.wikipedia.org/wiki/Isaac_Newton)
 -   [Noether, Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
+-   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
 -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy)
 -   [Platonic realism](https://en.wikipedia.org/wiki/Platonic_realism)
