@@ -466,6 +466,20 @@ TODO:
         and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic).  [^Birnbaum1962]
     -   Hacking identified the "law of likelihood". [^Hacking1965]
 -   Berger & Wolpert. (1988). *The Likelihood Principle* [^Berger1988]
+-   O'Hagan:
+
+>   The first key argument in favour of the Bayesian approach can be called the
+>   axiomatic argument. We can formulate systems of axioms of good inference,
+>   and under some persuasive axiom systems it can be proved that Bayesian inference
+>   is a consequence of adopting any of these systems...
+>   If one adopts two principles known as ancillarity and sufficiency principles,
+>   then under some statement of these principles it follows that one must adopt
+>   another known as the likelihood principle. Bayesian inference conforms to the
+>   likelihood principle whereas classical inference does not.
+>   Classical procedures regularly violate the likelihood principle
+>   or one or more of the other axioms of good inference.
+>   There are no such arguments in favour of classical inference. [^OHagan1994]
+
 -   Criticisms:
     -   Evans [^Evans2013]
     -   Mayo [^Mayo2014]
@@ -489,6 +503,7 @@ TODO:
 [^Edwards1974]: @Edwards_1974_The_history_of_likelihood\.
 [^Gandenberger2015]: @Gandenberger_2015_A_new_proof_of_the_likelihood_principle\.
 [^Hacking1965]: @Hacking_1965_Logic_of_Statistical_Inference\.
+[^OHagan1994]: @OHagan_1994_Kendalls_Advanced_Theory_of_Statistics_Vol_2B\, p. 17--18\.
 [^Mayo2014]: @Mayo_2014_On_the_Birnbaum_Argument_for_the_Strong_Likelihood\.
 [^Mayo2019]: Mayo, D.G. (2019). [The Law of Likelihood and Error Statistics](https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/).
 

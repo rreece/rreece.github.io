@@ -65,6 +65,7 @@ Mayo, D.G. (2018). *Statistical Inference as Severe Testing: How to Get Beyond t
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
 Neyman, J., & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
 Nielsen, F. (2018). An elementary introduction to information geometry. https://arxiv.org/abs/1808.08271
+O'Hagan, A. (1994). *Kendall's Advanced Theory of Statistics, Vol 2B: Bayesian Inference*. London: Arnold.
 Peirce, C.S. (1883). *Studies in Logic*. Boston: Little, Brown, and Co.
 Perone, C.S. (2018). NLP word representations and the Wittgenstein philosophy of language. http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/
 Rao, C.R. (1945). Information and the accuracy attainable in the estimation of statistical parameters. *Bulletin of the Calcutta Mathematical Society*, 37, 81--91.
