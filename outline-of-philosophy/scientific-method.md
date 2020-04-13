@@ -382,29 +382,7 @@ and the wonderful self-correcting nature of ampliative inference:
 [^Vickers2014]: @Vickers_2014_The_problem_of_induction (emphasis added).
 
 
-#### Statistics as a solution to the problem of induction
-
--   Weisberg [^Weisberg2019appD] - nope
--   Salmon [^Salmon1963]
--   Good [^Good1988]
--   Hacking [^Hacking2001]
--   Huber [^Huber2007]
--   See also:
-    -   [Outline of philosophy of statistics](statistics.html#problem-of-induction)
-    -   Note the further discussion of Humeanism and laws of nature in
-        the [Outline on scientific realism](scientific-realism.html#humeanism).
-
-[^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
-[^Huber2007]: @Huber_2007_Confirmation_and_induction\.
-[^Good1988]: @Good_1988_The_interface_between_statistics_and_philosophy\.
-[^Salmon1963]: @Salmon_1963_On_vindicating_induction\,
-    @Salmon_1966_The_Foundations_of_Scientific_Inference\,
-    @Salmon_1967_Carnaps_inductive_logic\,
-    @Salmon_1991_Hans_Reichenbachs_vindication_of_induction\.
-[^Weisberg2019appD]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, Appendix D\.
-
-
-### Abduction
+#### Abduction
 
 -   Peirce
 -   Douven [^Douven2011]
@@ -437,6 +415,41 @@ Peirce:
 >   must be the truth.  [^Doyle1890]
 
 [^Doyle1890]: @Doyle_1890_The_Sign_of_the_Four\, ch. 6.
+
+
+#### Statistics as a solution to the problem of induction
+
+-   Weisberg [^Weisberg2019appD] - nope
+-   Salmon [^Salmon1963]
+-   Good [^Good1988]
+-   Hacking [^Hacking2001]
+-   Huber [^Huber2007]
+-   See also:
+    -   [Outline of philosophy of statistics](statistics.html#problem-of-induction)
+    -   Note the further discussion of Humeanism and laws of nature in
+        the [Outline on scientific realism](scientific-realism.html#humeanism).
+
+[^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
+[^Huber2007]: @Huber_2007_Confirmation_and_induction\.
+[^Good1988]: @Good_1988_The_interface_between_statistics_and_philosophy\.
+[^Salmon1963]: @Salmon_1963_On_vindicating_induction\,
+    @Salmon_1966_The_Foundations_of_Scientific_Inference\,
+    @Salmon_1967_Carnaps_inductive_logic\,
+    @Salmon_1991_Hans_Reichenbachs_vindication_of_induction\.
+[^Weisberg2019appD]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, Appendix D\.
+
+
+### Models in science
+
+>   [S]cientist *don't* simply deduce experimental/observational consequences;
+>   they construct models that 'mediate' between theories and the observations.
+>   There are a number of reasons why scientists will proceed in this way
+>   but one is that theories are often quite complex and difficult to work with.
+>   So a scientist may build a simplified model, containing significant
+>   idealizations that allow the scientist to ignore certain factors,
+>   for example, and [more] easily relate the theory to observations.
+
+[^French2007p81]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. 81.
 
 
 ### Is there a universal scientific method?
