@@ -250,7 +250,7 @@ Verification theory of meaning: All statements that can't be empirically verifie
 -   Wittgenstein, *Tractatus Logico-Philosophicus*. [^Wittgenstein1922]
     -   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
     -   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
-    -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018) [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
+    -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
 -   Logical positivism, Vienna circle[^Murzi2004], Moritz Schlick,
     Rudolf Carnap, Kurt G&ouml;del, Otto Neurath, and others.
 -   A.J. Ayer [^Ayer1936]
@@ -1191,7 +1191,7 @@ Click to show links
 -   [Mumford, Stephen (2015). Relations All The Way Down? (Against) Ontic Structural Realism](https://www.youtube.com/watch?v=4EeOhf1GG-M)
 -   [Hicks, S. (2018). Explaining Postmodernism In 2018](https://www.youtube.com/watch?v=-BGbHG63x8w)
 -   [Brassier, Ray. (2013). The Myth of the Given: Nominalism, Naturalism & Materialism](https://www.youtube.com/watch?v=dI5MZ2kBK9M)
--   [Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018) The Young Wittgenstein,](https://www.youtube.com/watch?v=fE4dDqUTnaA)
+-   [Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). The Young Wittgenstein,](https://www.youtube.com/watch?v=fE4dDqUTnaA)
 
 
 [^Quine-1951]: @Quine_1951_Two_dogmas_of_empiricism\.
