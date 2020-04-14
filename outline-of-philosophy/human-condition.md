@@ -93,7 +93,9 @@ See also:
 
 >   O for God's sake      
 >   they are connected       
->   underneath
+>   underneath [^Rukeyser1976]
+
+[^Rukeyser1976]: @Rukeyser_1976_Islands\.
 
 #### Mortality
 
