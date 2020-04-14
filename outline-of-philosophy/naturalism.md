@@ -312,20 +312,27 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   Gefter, A. (2016). [The case against reality.](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/) *The Atlantic*. [^Gefter2016]
     -   Konnikova, M. (2012). [The magical thinking of guys who love logic.](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
     -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific.](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific) *American Scientist*. [^PrescodWeinstein2017]
-    -   Thomas. (2015). [A disease of scienceyness.](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953) [^Thomas2015]
+    -   Thomas, B. (2015). [A disease of scienceyness.](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953) [^Thomas2015]
 
 [^Gefter2016]: @Gefter_2016_The_case_against_reality\.
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
 [^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_must_challenge_what_makes_studies\.
-[^Thomas2015]: @Thomas_2015_A_Disease_of_Scienceyness\.
+[^Thomas2015]: @Thomas_2015_A_disease_of_scienceyness\.
 
 
 #### Rebutals
 
--   *Fear of Knowledge* [^Boghossian2006]
--   *Every Thing Must Go* [^Ladyman2007]
--   [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) [^Rosenberg2011]
+-   Defenses of naturalism:
+    -   *Every Thing Must Go* [^Ladyman2007]
+    -   Rosenberg, A. [Why I am a naturalist.](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) *New York Times*. [^Rosenberg2011]
+-   Criticisms of postmodernism:
+    -   *Fear of Knowledge* [^Boghossian2006]
+    -   Sartwell, C. (2015). [Philosophy returns to the real world.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) *New York Times*. [^Sartwell2015]
+    -   Pluckrose, H. (2016). [Why I no longer identify as a feminist.](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/) *Areo Magazine*. [^Pluckrose2016]
+    -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017]
+-   Anti-dogma
+    -   Siegel, E. (2016). [No, science is not faith-based](https://medium.com/starts-with-a-bang/no-science-is-not-faith-based-ddc9be25efba)[^Siegel2016]
 -   Sokal affair [^Sokal1996]
     -   Weinberg: "Sokal's Hoax"[^Weinberg1996]
 -   [Grievance Studies Affair](https://en.wikipedia.org/wiki/Grievance_studies_affair) AKA "Sokal squared"
@@ -333,49 +340,43 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   Beauchamp, Z. (2018). [The controversy around hoax studies in critical theory, explained.](https://www.vox.com/2018/10/15/17951492/grievance-studies-sokal-squared-hoax) *Vox*.
     -   Pluckrose, H., Lindsay, J.A., & Boghossian, P. (2018). [Academic grievance studies and the corruption of scholarship.](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/) *Areo Magazine*.
     -   [Grievance Studies Hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax) - rationalwiki.org
--   Criticisms of postmodernism:
-    -   [Philosophy returns to the real world](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) [^Sartwell2015]
-    -   [Why I no longer identify as a feminist](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/) [^Pluckrose2016]
-    -   [How French "intellectuals" ruined the west: Postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) [^Pluckrose2017]
--   Anti-dogma
-    -   [No, Science is not Faith-Based](https://medium.com/starts-with-a-bang/no-science-is-not-faith-based-ddc9be25efba)[^Siegel2016]
 -   Facing post-fact politics
-    -   [Why We're Post-fact](https://granta.com/why-were-post-fact/) [^Pomerantsev2016]
-    -   [America's First Postmodern President](https://newrepublic.com/article/143730/americas-first-postmodern-president) [^Heer2017]
-    -   [Daniel Dennett: 'I begrudge every hour I have to spend worrying about politics'](https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview) [^Cadwalladr2017]
-    -   [Has Trump Stolen Philosophy's Critical Tools?](https://www.nytimes.com/2017/04/17/opinion/has-trump-stolen-philosophys-critical-tools.html) [^Williams2017]
-    -   ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) [^Leah2018]
+    -   Pomerantsev, P. (2016). [Why we're post-fact.](https://granta.com/why-were-post-fact/) *Granta*. [^Pomerantsev2016]
+    -   Heer, J. (2017). [America's first postmodern president.](https://newrepublic.com/article/143730/americas-first-postmodern-president) *The New Republic*. [^Heer2017]
+    -   Cadwalladr, C. (2017). [Daniel Dennett: I begrudge every hour I have to spend worrying about politics.](https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview) *The Guardian*. [^Cadwalladr2017]
+    -   Williams, C. (2017). [Has Trump stolen philosophy's critical tools?](https://www.nytimes.com/2017/04/17/opinion/has-trump-stolen-philosophys-critical-tools.html) *The New York Times*. [^Williams2017]
+    -   Leah, R. (2018). ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer.](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) *Salon*. [^Leah2018]
 -   Relationship to SJW vs IDW battles
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
-[^Heer2017]: @Heer_2017_Americas_First_Postmodern_President\.
+[^Heer2017]: @Heer_2017_Americas_first_postmodern_president\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
-[^Pluckrose2016]: @Pluckrose_2016_Why_I_No_Longer_Identify_as_a_Feminist\.
+[^Pluckrose2016]: @Pluckrose_2016_Why_I_no_longer_identify_as_a_feminist\.
 [^Pluckrose2017]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
-[^Pomerantsev2016]: @Pomerantsev_2016_Why_Were_Post_fact\.
+[^Pomerantsev2016]: @Pomerantsev_2016_Why_were_post_fact\.
 [^Rosenberg2011]: @Rosenberg_2011_Why_I_am_a_naturalist\. 
 [^Sartwell2015]: @Sartwell_2015_Philosophy_returns_to_the_real_world\. 
-[^Siegel2016]: @Siegel_2016_No_Science_is_not_Faith_Based\.
-[^Sokal1996]: @Sokal_1996_A_Physicist_Experiments_With_Cultural_Studies\,
+[^Siegel2016]: @Siegel_2016_No_science_is_not_faith_based\.
+[^Sokal1996]: @Sokal_1996_A_physicist_experiments_with_cultural_studies\,
     @Sokal_1996_Transgressing_the_Boundaries_Towards\,
     @Sokal_1998_Fashionable_Nonsense_Postmodern_Intellectuals\.
 [^Weinberg1996]: @Weinberg_1996_Sokals_Hoax\.
-[^Williams2017]: @Williams_2017_Has_Trump_Stolen_Philosophys_Critical_Tools\.
+[^Williams2017]: @Williams_2017_Has_Trump_stolen_philosophys_critical_tools\.
 
 
 #### Counter rebutals
 
 -   Defenses of postmodernism:
-    -   [Stop Blaming Postmodernism for Post-Truth Politics](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845) [^Perrin2017]
+    -   Perrin, A. J. (2017). [Stop blaming postmodernism for post-truth politics.](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845) *The Chronicle of Higher Education*. [^Perrin2017]
 -   Criticisms of the Grievance Studies Hoax
     -   Hughes, V. & Aldhous, P. (2018). [Here's what critics say about that big new hoax on gender studies.](https://www.buzzfeednews.com/article/virginiahughes/grievance-studies-sokal-hoax)
     -   Egginton, W. (2018). [What the 'Grievance Studies' Hoax really shows.](https://www.nytimes.com/2018/10/06/opinion/grievance-studies-hoax.html) *New York Times*.
 -   Criticisms of scientism:
     -   Kim, Z. (2019). [The logic fetishists.](https://blog.usejournal.com/the-logic-fetishists-464226cb3141)
 
-[^Perrin2017]: @Perrin_2017_Stop_Blaming_Postmodernism_for_Post_Truth\.
+[^Perrin2017]: @Perrin_2017_Stop_blaming_postmodernism_for_post_truth\.
 
 
 My thoughts
