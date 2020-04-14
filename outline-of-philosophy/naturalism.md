@@ -305,13 +305,11 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 -   "The Science Wars"
     -   Kofman, A. (2018). [Bruno Latour, the post-truth philosopher, mounts a defense of science.](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html) *New York Times*.
 -   Tautological:
-    -   Of course science (scientia) is the domain of all knowledge.
+    -   Of course science (scientia) is the domain of all knowledge if the tent is large enough.
     -   TODO: Perhaps this line can be found in the work of Pigliucci?
+-   Epistemic pessimism
+    -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality.](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/) *The Atlantic*. [^Gefter2016]
 -   Descoping the success/objectivity of science:
-    -   Konnikova, M. (2012). [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) *Scientific American Blogs*. [^Konnikova2012]
-    -   Gefter, A. (2016). [The case against reality.](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/) *The Atlantic*. [^Gefter2016]
-    -   Konnikova, M. (2012). [The magical thinking of guys who love logic.](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
-    -   Thomas, B. (2015). [A disease of scienceyness.](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953) [^Thomas2015]
     -   Prescod-Weinstein, Chanda. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
     -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific.](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific) *American Scientist*. [^PrescodWeinstein2017]
     -   Roy, Rohan Deb. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
@@ -319,10 +317,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   Davies, P. (2007). [Taking science on faith.](https://www.nytimes.com/2007/11/24/opinion/24davies.html) *New York Times Opinion*.
 
 [^Gefter2016]: @Gefter_2016_The_case_against_reality\.
-[^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
-[^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
 [^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_must_challenge_what_makes_studies\.
-[^Thomas2015]: @Thomas_2015_A_disease_of_scienceyness\.
 
 
 #### Rebutals
@@ -354,6 +349,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   Williams, C. (2017). [Has Trump stolen philosophy's critical tools?](https://www.nytimes.com/2017/04/17/opinion/has-trump-stolen-philosophys-critical-tools.html) *The New York Times*. [^Williams2017]
     -   Leah, R. (2018). ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer.](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) *Salon*. [^Leah2018]
 -   Relationship to SJW vs IDW battles
+    -   "Logic bros"
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
@@ -384,9 +380,15 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   Hughes, V. & Aldhous, P. (2018). [Here's what critics say about that big new hoax on gender studies.](https://www.buzzfeednews.com/article/virginiahughes/grievance-studies-sokal-hoax)
     -   Egginton, W. (2018). [What the 'Grievance Studies' Hoax really shows.](https://www.nytimes.com/2018/10/06/opinion/grievance-studies-hoax.html) *New York Times*.
 -   Criticisms of scientism:
+    -   Thomas, B. (2015). [A disease of scienceyness.](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953) [^Thomas2015]
+    -   Konnikova, M. (2012). [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) *Scientific American Blogs*. [^Konnikova2012]
+    -   McCrea, A. (2019). [The magical thinking of guys who love logic.](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
     -   Kim, Z. (2019). [The logic fetishists.](https://blog.usejournal.com/the-logic-fetishists-464226cb3141)
 
+[^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
+[^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
 [^Perrin2017]: @Perrin_2017_Stop_blaming_postmodernism_for_post_truth\.
+[^Thomas2015]: @Thomas_2015_A_disease_of_scienceyness\.
 
 
 My thoughts
