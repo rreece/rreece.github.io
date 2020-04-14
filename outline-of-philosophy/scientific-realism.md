@@ -474,10 +474,10 @@ Wittgenstein in *PI*:
     -   Ryan: Resonating, going viral, does not indicate that it's true or good for progress.
     -   Ryan: I've been wanting to write an essay in this vein for years, and this author is better equipped to explain postmodernism than I. This argument could still be further buttressed with a brief history of the Enlightenment carrying empiricism and liberalism. Today there are still empiricist / naturalist / structuralist / realist / pragmatist ways of viewing the world that reject relativism and recognize some objectivity in the truth of claims about the world, be them descriptive or normative. There are better more accurate ways of describing the world and what one should do than others.
     -   Ryan: It also irritates me that so many people are introduced to continental philosophy, including postmodernism, as if that's the end of philosophy.
--   Hicks:
+-   Criticism:
+    -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011-1]
     -   Video: [Explaining Postmodernism In 2018 - Stephen Hicks](https://www.youtube.com/watch?v=-BGbHG63x8w)
-    -   Hicks, S.R.C. (2011). *Explaining Postmodernism*. [^Hicks2011-1]
-    -   [Hicks, S. (2010). Why Kant is the turning point.](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/)
+    -   Hicks, S. (2010). [Why Kant is the turning point.](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/)
 -   See also [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism).
 
 [^Hicks2011-1]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
