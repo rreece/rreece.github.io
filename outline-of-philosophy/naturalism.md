@@ -309,12 +309,12 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     (Perhaps this line can be found in the work of Pigliucci?)
 -   Descoping the success/objectivity of science:
     -   [Humanities aren't a science. Stop treating them like one](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) [^Konnikova2012]
-    -   [The Case Against Reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/) [^Gefter2016]
-    -   [The magical thinking of guys who love logic](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
-    -   [Scientists must challenge what makes studies scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific) [^PrescodWeinstein2017]
-    -   [A Disease of Scienceyness](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953) [^Thomas2015]
+    -   Gefter, A. (2016). [The case against reality.](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/) *The Atlantic*. [^Gefter2016]
+    -   Konnikova, M. (2012). [The magical thinking of guys who love logic.](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
+    -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific.](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific) *American Scientist*. [^PrescodWeinstein2017]
+    -   Thomas. (2015). [A disease of scienceyness.](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953) [^Thomas2015]
 
-[^Gefter2016]: @Gefter_2016_The_Case_Against_Reality\.
+[^Gefter2016]: @Gefter_2016_The_case_against_reality\.
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
 [^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_must_challenge_what_makes_studies\.
@@ -328,14 +328,13 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 -   [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) [^Rosenberg2011]
 -   Sokal affair [^Sokal1996]
     -   Weinberg: "Sokal's Hoax"[^Weinberg1996]
--   [Grievance studies affair](https://en.wikipedia.org/wiki/Grievance_studies_affair) AKA "Sokal squared"
-    -   [Mounk, Y. (2018). What an audacious hoax reveals about academia. *The Atlantic*.](https://www.theatlantic.com/ideas/archive/2018/10/new-sokal-hoax/572212/)
-    -   [Beauchamp, Z. (2018). The controversy around hoax studies in critical theory, explained. *Vox*.](https://www.vox.com/2018/10/15/17951492/grievance-studies-sokal-squared-hoax)
-    -   [Pluckrose, H., Lindsay, J.A., & Boghossian, P. (2018). Academic grievance studies and the corruption of scholarship. *Areo Magazine*.](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/)
-    -   [Egginton, W. (2018). What the 'Grievance Studies' Hoax really shows. *New York Times*.](https://www.nytimes.com/2018/10/06/opinion/grievance-studies-hoax.html)
-    -   [Grievance studies hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax) - rationalwiki.org
+-   [Grievance Studies Affair](https://en.wikipedia.org/wiki/Grievance_studies_affair) AKA "Sokal squared"
+    -   Mounk, Y. (2018). [What an audacious hoax reveals about academia.](https://www.theatlantic.com/ideas/archive/2018/10/new-sokal-hoax/572212/) *The Atlantic*.
+    -   Beauchamp, Z. (2018). [The controversy around hoax studies in critical theory, explained.](https://www.vox.com/2018/10/15/17951492/grievance-studies-sokal-squared-hoax) *Vox*.
+    -   Pluckrose, H., Lindsay, J.A., & Boghossian, P. (2018). [Academic grievance studies and the corruption of scholarship.](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/) *Areo Magazine*.
+    -   [Grievance Studies Hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax) - rationalwiki.org
 -   Criticisms of postmodernism:
-    -   [Philosophy Returns to the Real World](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) [^Sartwell2015]
+    -   [Philosophy returns to the real world](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) [^Sartwell2015]
     -   [Why I no longer identify as a feminist](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/) [^Pluckrose2016]
     -   [How French "intellectuals" ruined the west: Postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) [^Pluckrose2017]
 -   Anti-dogma
@@ -368,10 +367,13 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 
 #### Counter rebutals
 
-
--   [Stop Blaming Postmodernism for Post-Truth Politics](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845) [^Perrin2017]
--   [Here's What Critics Say About That Big New Hoax On Gender Studies](https://www.buzzfeednews.com/article/virginiahughes/grievance-studies-sokal-hoax)
--   Kim, Z. (2019). [The Logic Fetishists](https://blog.usejournal.com/the-logic-fetishists-464226cb3141).
+-   Defenses of postmodernism:
+    -   [Stop Blaming Postmodernism for Post-Truth Politics](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845) [^Perrin2017]
+-   Criticisms of the Grievance Studies Hoax
+    -   Hughes, V. & Aldhous, P. (2018). [Here's what critics say about that big new hoax on gender studies.](https://www.buzzfeednews.com/article/virginiahughes/grievance-studies-sokal-hoax)
+    -   Egginton, W. (2018). [What the 'Grievance Studies' Hoax really shows.](https://www.nytimes.com/2018/10/06/opinion/grievance-studies-hoax.html) *New York Times*.
+-   Criticisms of scientism:
+    -   Kim, Z. (2019). [The logic fetishists.](https://blog.usejournal.com/the-logic-fetishists-464226cb3141)
 
 [^Perrin2017]: @Perrin_2017_Stop_Blaming_Postmodernism_for_Post_Truth\.
 
