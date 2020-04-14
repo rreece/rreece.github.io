@@ -125,14 +125,15 @@ C.S. Lewis' translation[^Lewis1955] of lines from Lucretius' *De rerum natura*:
 
 ### Existentialism
 
+-   Nietzsche
+-   Heidegger
+    -   Dasein
 -   Sartre
     -   Existentialism
     -   Authenticity
     -   Bad faith
 -   Camus
     -   The Absurd
--   Heidegger
-    -   Dasein
 
 
 ### Nihilism
