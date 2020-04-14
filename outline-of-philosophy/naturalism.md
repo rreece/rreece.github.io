@@ -395,6 +395,15 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 [^Thomas2015]: @Thomas_2015_A_disease_of_scienceyness\.
 
 
+### Other meta-philosophies
+
+-   Worldview/Weltanschauung
+-   dualism, religion, mysticism
+-   theology
+-   evangelism
+-   See also the [Outline on the human condition](human-condition.html)
+
+
 My thoughts
 --------------------------------------------------------------------------------
 
@@ -564,6 +573,7 @@ Click to show links
 -   [Thales of Miletus (624-546 BCE)](https://en.wikipedia.org/wiki/Thales_of_Miletus)
 -   [Unity of Science](https://en.wikipedia.org/wiki/Unity_of_science)
 -   [Unsolved problems in philosophy, List of](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_philosophy)
+-   [Worldview](https://en.wikipedia.org/wiki/Worldview)
 
 ### Others
 
