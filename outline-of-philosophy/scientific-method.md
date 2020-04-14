@@ -311,6 +311,13 @@ Sextus Empiricus:
 
 #### Inductive logic
 
+Newton:
+
+>   In experimental philosophy, propositions gathered from phenomena by induction
+>   should be considered exactly or very nearly true not withstanding any contrary
+>   hypothesis, until yet other phenomena make such propositions either more exact
+>   or liable to exceptions. [^NewtonpX]
+
 -   Mill
     -   *A System of Logic* (1843) [^Mill1843]
 -   Peirce
@@ -499,12 +506,7 @@ Frigg:
 
 ### Is there a universal scientific method?
 
-Newton:
-
->   In experimental philosophy, propositions gathered from phenomena by induction
->   should be considered exactly or very nearly true not withstanding any contrary
->   hypothesis, until yet other phenomena make such propositions either more exact
->   or liable to exceptions. [^NewtonpX]
+#### A first pass
 
 Feynman:
 
@@ -526,7 +528,10 @@ Feynman:
 >   and then recheck them, to be sure that you understand what all the
 >   conditions are and that you did not misinterpret what you did. [^Feynman1998p17]
 
-Models of science:
+[^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
+[^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
+
+#### Models of science
 
 -   Hypothetico-deductive model
 -   Positivism, verificationism
@@ -554,8 +559,6 @@ Models of science:
     -   Scientism
     -   See the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
 
-[^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
-[^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
 [^Hempel1948]: @Hempel_1948_Studies_in_the_logic_of_explanation\.
 [^Kuhn1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
