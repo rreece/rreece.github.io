@@ -391,8 +391,9 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   Kim, Z. (2019). [The logic fetishists.](https://blog.usejournal.com/the-logic-fetishists-464226cb3141)
 -   Relationship to SJW vs IDW battles
     -   "Logic bros"
-    -   Realists, independent of politics, find themselves in the company of
-        traditional-values conservatives in the rejection of naive postmodernism.
+    -   Realists, independent of politics, often find themselves in the company
+        of traditional-values conservatives in the rejection of naive
+        postmodernism.
 
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
@@ -403,10 +404,17 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 ### Other worldviews
 
 -   Worldview/Weltanschauung
--   other meta-philosophies
--   dualism, religion, mysticism
--   theology
--   evangelism
+-   Other meta-philosophies
+-   Dualism, religion, mysticism
+-   Theology
+-   Evangelism
+-   Lots can be learned from other worldviews without 100% agreement.
+    -   Presocratics/Stoicism
+    -   Buddhism
+    -   Continental philosophy
+    -   Existentialism
+    -   Native american philosophy
+    -   Etc.
 -   See also the [Outline on the human condition](human-condition.html)
 
 
