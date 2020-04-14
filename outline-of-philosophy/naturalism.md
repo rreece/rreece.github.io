@@ -308,7 +308,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 -   Tautological: Of course science (scientia) is the domain of all knowledge.
     (Perhaps this line can be found in the work of Pigliucci?)
 -   Descoping the success/objectivity of science:
-    -   [Humanities aren't a science. Stop treating them like one](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) [^Konnikova2012]
+    -   Konnikova, M. (2012). [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) *Scientific American Blogs*. [^Konnikova2012]
     -   Gefter, A. (2016). [The case against reality.](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/) *The Atlantic*. [^Gefter2016]
     -   Konnikova, M. (2012). [The magical thinking of guys who love logic.](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
     -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific.](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific) *American Scientist*. [^PrescodWeinstein2017]
