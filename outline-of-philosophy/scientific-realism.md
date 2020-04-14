@@ -477,6 +477,7 @@ Wittgenstein in *PI*:
     -   Video: [Explaining Postmodernism In 2018 - Stephen Hicks](https://www.youtube.com/watch?v=-BGbHG63x8w)
     -   Hicks, S.R.C. (2011). *Explaining_Postmodernism*. [^Hicks2011-1]
     -   [Hicks, S. (2010). Why Kant is the turning point.](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/)
+-   See also [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism).
 
 [^Hicks2011-1]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
 [^Pluckrose2017-1]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
