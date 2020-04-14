@@ -456,6 +456,7 @@ Wittgenstein in *PI*:
 ### Postmodernism
 
 -   anti-realist, relativism
+-   "Man is the measure of all things" - Protagoras
 -   Incommensurability
 -   Conventionalism
 -   Postmodernism
