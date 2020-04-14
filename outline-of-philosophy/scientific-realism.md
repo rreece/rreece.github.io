@@ -469,7 +469,7 @@ Wittgenstein in *PI*:
     -   Paul Feyerabend (1924-1994)
     -   Larry  Laudan (b. 1941)
 -   Epistemological anarchism
-    -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017]
+    -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017-1]
     -   Ryan: Resonating, going viral, does not indicate that it's true or good for progress.
     -   Ryan: I've been wanting to write an essay in this vein for years, and this author is better equipped to explain postmodernism than I. This argument could still be further buttressed with a brief history of the Enlightenment carrying empiricism and liberalism. Today there are still empiricist / naturalist / structuralist / realist / pragmatist ways of viewing the world that reject relativism and recognize some objectivity in the truth of claims about the world, be them descriptive or normative. There are better more accurate ways of describing the world and what one should do than others.
     -   Ryan: It also irritates me that so many people are introduced to continental philosophy, including postmodernism, as if that's the end of philosophy.
