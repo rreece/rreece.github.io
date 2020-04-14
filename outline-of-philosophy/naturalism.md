@@ -313,6 +313,8 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   Konnikova, M. (2012). [The magical thinking of guys who love logic.](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
     -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific.](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific) *American Scientist*. [^PrescodWeinstein2017]
     -   Thomas, B. (2015). [A disease of scienceyness.](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953) [^Thomas2015]
+-   Science takes faith
+    -   Davies, P. (2007). [Taking science on faith.](https://www.nytimes.com/2007/11/24/opinion/24davies.html) *New York Times Opinion*.
 
 [^Gefter2016]: @Gefter_2016_The_case_against_reality\.
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
@@ -332,7 +334,8 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   Pluckrose, H. (2016). [Why I no longer identify as a feminist.](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/) *Areo Magazine*. [^Pluckrose2016]
     -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017]
 -   Anti-dogma
-    -   Siegel, E. (2016). [No, science is not faith-based](https://medium.com/starts-with-a-bang/no-science-is-not-faith-based-ddc9be25efba)[^Siegel2016]
+    -   Harris, S. (2007). [Response to Paul C. Davies.](https://samharris.org/response-to-paul-c-davies/)
+    -   Siegel, E. (2016). [No, science is not faith-based.](https://medium.com/starts-with-a-bang/no-science-is-not-faith-based-ddc9be25efba) [^Siegel2016]
 -   Sokal affair [^Sokal1996]
     -   Weinberg: "Sokal's Hoax"[^Weinberg1996]
 -   [Grievance Studies Affair](https://en.wikipedia.org/wiki/Grievance_studies_affair) AKA "Sokal squared"
