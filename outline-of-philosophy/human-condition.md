@@ -126,11 +126,18 @@ C.S. Lewis' translation[^Lewis1955] of lines from Lucretius' *De rerum natura*:
 ### Existentialism
 
 -   Sartre
+    -   Existentialism
+    -   Authenticity
+    -   Bad faith
 -   Camus
+    -   The Absurd
+-   Heidegger
+    -   Dasein
 
 
 ### Nihilism
 
+-   Nietzsche
 -   @Brassier_2007_Nihil_Unbound
 
 
@@ -219,6 +226,7 @@ Click to show links
 -   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
 -   [Existentialist aesthetics](http://plato.stanford.edu/entries/aesthetics-existentialist/)
 -   [Friendship](https://plato.stanford.edu/entries/friendship/)
+-   [Heidegger, Martin (1889-1976)](https://plato.stanford.edu/entries/heidegger/)
 -   [Japanese Philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)
 -   [Japanese Confucian Philosophy](https://plato.stanford.edu/entries/japanese-confucian/)
 -   [Lucretius (c. 99-55 BCE)](https://plato.stanford.edu/entries/lucretius/)
@@ -236,6 +244,7 @@ Click to show links
 -   [Epictetus (55-135)](http://www.iep.utm.edu/epictetu/)
 -   [Egoism](http://www.iep.utm.edu/egoism/)
 -   [Existentialism](http://www.iep.utm.edu/existent/)
+-   [Heidegger, Martin (1889-1976)](https://www.iep.utm.edu/heidegge/)
 -   [Nihilism](http://www.iep.utm.edu/nihilism/)
 -   [Stoicism](http://www.iep.utm.edu/stoicism/)
 -   [Stoic Ethics](http://www.iep.utm.edu/stoiceth/)
@@ -259,6 +268,7 @@ Click to show links
         -   [Zen](https://en.wikipedia.org/wiki/Zen)
 -   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation)
 -   [Camus, Albert (1913-1960)](https://en.wikipedia.org/wiki/Albert_Camus)
+-   [Dasein](https://en.wikipedia.org/wiki/Dasein)
 -   [*De rerum natura*](https://en.wikipedia.org/wiki/De_rerum_natura)
 -   [Ego death](https://en.wikipedia.org/wiki/Ego_death)
 -   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
