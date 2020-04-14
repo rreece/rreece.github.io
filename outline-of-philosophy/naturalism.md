@@ -330,7 +330,8 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   Rosenberg, A. [Why I am a naturalist.](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) *New York Times*. [^Rosenberg2011]
     -   Mallon, R. (2019). [Naturalistic approaches to social construction.](https://plato.stanford.edu/entries/social-construction-naturalistic/) *Stanford Encyclopedia of Philosophy*. 
 -   Criticisms of postmodernism:
-    -   *Fear of Knowledge* [^Boghossian2006]
+    -   Hicks, S.R.C. (2011). *Explaining_Postmodernism*. [^Hicks2011]
+    -   Boghossian, P. (2006). *Fear of Knowledge*. [^Boghossian2006]
     -   Sartwell, C. (2015). [Philosophy returns to the real world.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) *New York Times*. [^Sartwell2015]
     -   Pluckrose, H. (2016). [Why I no longer identify as a feminist.](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/) *Areo Magazine*. [^Pluckrose2016]
     -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017]
@@ -355,6 +356,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
 [^Heer2017]: @Heer_2017_Americas_first_postmodern_president\.
+[^Hicks2011]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 [^Pluckrose2016]: @Pluckrose_2016_Why_I_no_longer_identify_as_a_feminist\.
