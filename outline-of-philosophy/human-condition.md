@@ -123,6 +123,11 @@ C.S. Lewis' translation[^Lewis1955] of lines from Lucretius' *De rerum natura*:
 -   [Summary of Lucretius' *De rerum natura* by M. McGoodwin](https://www.mcgoodwin.net/pages/otherbooks/tlc_rerumnatura.html)
 
 
+#### Religion as a natural phenomena
+
+TODO
+
+
 ### Existentialism
 
 -   Nietzsche
