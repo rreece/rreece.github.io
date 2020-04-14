@@ -304,8 +304,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 
 #### Attacks
 
--   Postmodernism, Social construction
-    -   "Man is the measure of all things" - Protagoras
+-   Postmodernism and social construction
     -   Gorton, W.A. (2010). [The philosophy of social science: Criticisms of naturalism.](http://www.iep.utm.edu/soc-sci/#H2) *Internet Encyclopedia of Philosophy*.
 -   "The Science Wars"
     -   Kofman, A. (2018). [Bruno Latour, the post-truth philosopher, mounts a defense of science.](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html) *New York Times*.
