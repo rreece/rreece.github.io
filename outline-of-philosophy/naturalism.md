@@ -413,7 +413,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   Buddhism
     -   Continental philosophy
     -   Existentialism
-    -   Native american philosophy
+    -   Native American philosophy
     -   Etc.
 -   See also the [Outline on the human condition](human-condition.html)
 
