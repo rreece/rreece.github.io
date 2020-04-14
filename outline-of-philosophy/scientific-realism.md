@@ -69,9 +69,9 @@ Stealing from encyclopedia.com:
 >   matter, space, and time.
 
 
-### Realism and anti-realism
+### Realism and antirealism
 
-![Scientific realism vs anti-realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism)).](img/phil-of-science-v02.png "My figure on scientific realism vs anti-realism"){#fig:phil-of-science}
+![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism)).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
 
 -   Naive realism.  Why would I doubt the world I see is real?
 -   Many philosophers in that Early Modern Period had threads of Idealism (wikipedia: reality itself is incorporeal or experiential at its core). *e.g.* George Berkeley, Kant, Friedrich Hegel, Immanuel Kant (1724-1804)
@@ -236,7 +236,7 @@ Schumm:
 Theoretical concepts may have use in predicting observations,
 but we have no ontological commitments to them.
 
--   anti-realist
+-   antirealist
 -   Duhem
 -   [Wikipedia](https://en.wikipedia.org/wiki/Instrumentalism): "Initially a novel perspective introduced by Pierre Duhem in 1906, instrumentalism is largely the prevailing theory that underpins the practice of physicists today." [^Torretti1999]
 -   Later Wittgenstein in *PI*. See [Postpositivism](#postpositivism), below.
@@ -265,7 +265,7 @@ Redhead:
 
 Verification theory of meaning: All statements that can't be empirically verified are meaningless.
 
--   anti-realist
+-   antirealist
 -   Auguste Comte
 -   Comte and Mill
 -   Ernst Mach
@@ -332,7 +332,7 @@ Note any differences between:
 -   logical positivism - Vienna Circle
 -   logical empiricism - Reichenbach's preferred term[^Reichenbach], Berlin Circle
 
-This means that positivism is generally seen to imply anti-realist views of science and mathematics, preferring as Carnap says in _Empiricism, Semantics, and Ontology_:
+This means that positivism is generally seen to imply antirealist views of science and mathematics, preferring as Carnap says in _Empiricism, Semantics, and Ontology_:
 
 >   Empiricists are in general rather suspicious with respect to any kind of abstract 
 >   entities like properties, classes, relations, numbers, propositions, etc. 
@@ -345,7 +345,7 @@ This means that positivism is generally seen to imply anti-realist views of scie
 [^Reichenbach]: [www.newworldencyclopedia.org/entry/Hans_Reichenbach](http://www.newworldencyclopedia.org/entry/Hans_Reichenbach)
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 
-Positivists have instrumentalist (anti-realist) views about the models science
+Positivists have instrumentalist (antirealist) views about the models science
 produces, given that they are constructed from abstractions and involve the
 epistemological limitations of induction and theory change. As a qualified sort
 of empiricism that supports the primacy of the scientific method, positivism
@@ -381,7 +381,7 @@ Comte on the unknowability of the composition of stars:
 
 See also:
 
--   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism) - scientific realism vs anti-realism
+-   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism) - scientific realism vs antirealism
 -   [positivists.org/blog/movements](http://positivists.org/blog/movements)
 
 Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
@@ -438,7 +438,7 @@ Wittgenstein in *PI*:
 
 ### Pragmatism
 
--   anti-realist
+-   antirealist
 -   Charles Sanders Peirce (1839-1914)
 -   William James (1842-1910)
 -   John Dewey (1859-1952)
@@ -455,7 +455,7 @@ Wittgenstein in *PI*:
 
 ### Postmodernism
 
--   anti-realist, relativism
+-   antirealist, relativism
 -   "Man is the measure of all things" - Protagoras
 -   Incommensurability
 -   Conventionalism
@@ -489,7 +489,7 @@ Wittgenstein in *PI*:
 Science aims to give us theories that are empirically adequate,
 but does not justify metaphysical claims about reality.
 
--   anti-realist
+-   antirealist
 -   van Fraassen, Bueno
 -   van Fraassen's "Arguments Concerning Scientific Realism"[^van-Fraassen-1980]
 -   Unlike positivism/instrumentalism, theories should be taken literally.
@@ -1138,6 +1138,7 @@ Click to show links
 ### Wikipedia
 
 -   [Analytic-synthetic distinction](https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction)
+-   [Anti-realism](https://en.wikipedia.org/wiki/Anti-realism)
 -   [Berlin Circle](http://en.wikipedia.org/wiki/Berlin_Circle)
 -   [Carnap, Rudolf (1891-1970)](http://en.wikipedia.org/wiki/Rudolf_Carnap)
 -   [Commensurability](http://en.wikipedia.org/wiki/Commensurability_(philosophy_of_science))
