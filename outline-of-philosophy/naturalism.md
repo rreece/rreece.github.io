@@ -395,9 +395,10 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 [^Thomas2015]: @Thomas_2015_A_disease_of_scienceyness\.
 
 
-### Other meta-philosophies
+### Other worldviews
 
 -   Worldview/Weltanschauung
+-   other meta-philosophies
 -   dualism, religion, mysticism
 -   theology
 -   evangelism
