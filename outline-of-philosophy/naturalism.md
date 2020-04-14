@@ -350,8 +350,6 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   Cadwalladr, C. (2017). [Daniel Dennett: I begrudge every hour I have to spend worrying about politics.](https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview) *The Guardian*. [^Cadwalladr2017]
     -   Williams, C. (2017). [Has Trump stolen philosophy's critical tools?](https://www.nytimes.com/2017/04/17/opinion/has-trump-stolen-philosophys-critical-tools.html) *The New York Times*. [^Williams2017]
     -   Leah, R. (2018). ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer.](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) *Salon*. [^Leah2018]
--   Relationship to SJW vs IDW battles
-    -   "Logic bros"
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
@@ -386,6 +384,8 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   Konnikova, M. (2012). [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) *Scientific American Blogs*. [^Konnikova2012]
     -   McCrea, A. (2019). [The magical thinking of guys who love logic.](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
     -   Kim, Z. (2019). [The logic fetishists.](https://blog.usejournal.com/the-logic-fetishists-464226cb3141)
+-   Relationship to SJW vs IDW battles
+    -   "Logic bros"
 
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
