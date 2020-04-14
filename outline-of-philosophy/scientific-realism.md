@@ -263,6 +263,14 @@ Redhead:
 
 ### Positivism
 
+<center>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Orthodox logical positivism:<br>1) only verifiable statements re meaningful;<br>2) all legitimate statements are translatable to observational language (different interpretations); <br>3) unity of science (different interpretations). 1/X</p>&mdash; panu raatikainen (&commm;panuraatikainen)
+<a href="https://twitter.com/panuraatikainen/status/1246111315401244676?ref_src=twsrc%5Etfw">April 3, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
 Verification theory of meaning: All statements that can't be empirically verified are meaningless.
 
 -   antirealist
