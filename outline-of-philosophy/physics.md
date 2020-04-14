@@ -301,6 +301,14 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   $\Lambda$+CMD Cosmological Standard Model
 
 
+### Fine-tuning
+
+-   Fine-tuning
+-   Anthropic principle
+-   Relationship to evolution
+-   [Richard Dawkins and Steven Weinberg Discuss Science and Religion](https://www.youtube.com/watch?v=EGL8SesIo6Y)
+
+
 ### Complexity
 
 -   nonlinear systems
@@ -333,14 +341,6 @@ Thermodynamics, statistical mechanics, renormalization.
 -   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) - Sean Carroll
 
 ![Sean on the entailment of everyday life by physics.](img/sean-entailment.jpg)
-
-
-### Fine-tuning
-
--   Fine-tuning
--   Anthropic principle
--   Relationship to evolution
--   [Richard Dawkins and Steven Weinberg Discuss Science and Religion](https://www.youtube.com/watch?v=EGL8SesIo6Y)
 
 
 My thoughts
