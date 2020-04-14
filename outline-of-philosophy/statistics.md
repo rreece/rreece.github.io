@@ -591,7 +591,7 @@ Mayo:
 -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   Mayo
-    -   ["Les stats, c'est moi": We take that step here! (Adopt our fav word or phil stat!)(iii)](https://errorstatistics.com/2019/12/13/les-stats-cest-moi-we-take-that-step-here-adopt-our-fav-word-or-phil-stat/)
+    -   ["Les stats, c'est moi": We take that step here!](https://errorstatistics.com/2019/12/13/les-stats-cest-moi-we-take-that-step-here-adopt-our-fav-word-or-phil-stat/)
 -   Vox: [What a nerdy debate about p-values shows about science--and how to fix it](https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005)
 -   Karen Kafadar: [The Year in Review ... And More to Come](https://magazine.amstat.org/blog/2019/12/01/kk_dec2019/)
 
@@ -661,12 +661,14 @@ Computer Vision (CV)
 Natural language processing (NLP)
 
 -   RNNs and LSTMs
+    -   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
 -   Sutskever seq2seq [^Sutskever2014]
 -   Review by Stahlberg [^Stahlberg2019]
 -   Rationalism and empiricism in artificial intellegence:
     A survey of 25 years of evaluation [in NLP]. [^Church2019]
 
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
+[^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
 [^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
 
