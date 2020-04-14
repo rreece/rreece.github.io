@@ -473,11 +473,11 @@ French:
 
 Model the theory:
 
-$$ T(\theta_k, \psi_m) \rightarrow M(X_i, \theta_k, \nu_\ell) $$
+$$ T(\theta_k, \psi_m) \rightarrow M(X_i | \theta_k, \nu_\ell) $$
 
 Fit the data to make inferences on the theory:
 
-$$ \{X_i\}_j \rightarrow M(X_{ij}, \hat{\theta}_k, \hat{\nu}_\ell) \rightarrow T(\hat{\theta}_k, \psi_m) $$
+$$ \{X_i\}_j \rightarrow M(X_{ij} | \hat{\theta}_k, \hat{\nu}_\ell) \rightarrow T(\hat{\theta}_k, \psi_m) $$
 
 Frigg:
 
