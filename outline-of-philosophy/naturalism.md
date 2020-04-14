@@ -82,7 +82,7 @@ See the [Outline on the science method](scientific-method.html#is-there-a-univer
 
 Maudlin gives clear naturalist attitude at the start of *The Metaphysics within Physics*
 
->   metaphysics, insofar as it is concerned with the natural world,
+>   [M]etaphysics, insofar as it is concerned with the natural world,
 >   can do no better than to reflect on physics.
 >   Physical theories provide us with the best handle we have on what there is,
 >   and the philosopher's proper task is the interpretation and elucidation
@@ -153,14 +153,14 @@ Quine:
 
 More Quine:
 
->   ... I also expressed, at the beginning, my unswerving belief in external
+>   I also expressed, at the beginning, my unswerving belief in external
 >   things---people, nerve endings, sticks, stones. This I reaffirm. I
 >   believe also, if less affirmly, in atoms and electrons, and in
 >   classes. Now how is all this robust realism to be reconciled with the
->   barren scene that I have just been depicting? **The answer is
+>   barren scene that I have just been depicting? *The answer is
 >   naturalism: the recognition that it is within science itself, and not
 >   some prior philosophy, that reality is properly to be identified
->   and described.** [^Quine1981p21]
+>   and described.* [^Quine1981p21]
 
 Opening lines to *ETMG*:
 
@@ -172,7 +172,7 @@ Opening lines to *ETMG*:
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
 [^Quine1969pX]: @Quine_1969_Natural_kinds\, p. TODO.
-[^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21. (bold added)
+[^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21. (emphasis added)
 
 
 ### Reductionism
