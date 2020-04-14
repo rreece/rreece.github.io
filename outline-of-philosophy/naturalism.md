@@ -20,6 +20,8 @@ Issues and positions
 
 ### What is naturalism?
 
+-   Natural philosophy
+
 Sellars:
 
 >   The aim of philosophy, abstractly formulated, is to understand how
@@ -85,7 +87,7 @@ Naturalism could be defined as a support for philosophy that is filtered for
 plausibility given the information from science[^Ladyman2007].
 See the [Outline on the science method](scientific-method.html#is-there-a-universal-scientific-method).
 
-Maudlin gives clear naturalist attitude at the start of *The Metaphysics within Physics*
+Maudlin gives clear naturalist attitude at the start of *The Metaphysics within Physics*:
 
 >   [M]etaphysics, insofar as it is concerned with the natural world,
 >   can do no better than to reflect on physics.
