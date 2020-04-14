@@ -269,14 +269,15 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 
 -   usually a pejorative
 -   methodological naturalism
--   What are the limits of science?
--   Are there other ways of knowing?
+    -   What are the limits of science?
+    -   Are there other ways of knowing?
 -   Unity of knowledge
--   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
+    -   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
 -   Is there any unique project left for metaphysics?
     -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
--   Rosenberg: *The Atheist's Guide to Reality* [^Rosenberg2011AGR]
--   Lawhead: "My Scientism" [^Lawhead20016]
+-   honorific reinterpretation
+    -   Rosenberg: *The Atheist's Guide to Reality* [^Rosenberg2011AGR]
+    -   Lawhead: "My Scientism" [^Lawhead20016]
 
 [^Lawhead20016]: @Lawhead_2016_My_Scientism\.
 [^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
