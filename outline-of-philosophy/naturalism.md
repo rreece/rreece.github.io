@@ -301,10 +301,9 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 
 -   Postmodernism, Social construction
     -   "Man is the measure of all things" - Protagoras
-    -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/) - SEP
-    -   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2) - IEP
+    -   Gorton, W.A. (2010). [The philosophy of social science: Criticisms of naturalism.](http://www.iep.utm.edu/soc-sci/#H2) *Internet Encyclopedia of Philosophy*.
 -   "The Science Wars"
-    -   [Bruno Latour, the Post-Truth Philosopher, Mounts a Defense of Science](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html) - nytimes
+    -   Kofman, A. (2018). [Bruno Latour, the post-truth philosopher, mounts a defense of science.](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html) *New York Times*.
 -   Tautological:
     -   Of course science (scientia) is the domain of all knowledge.
     -   TODO: Perhaps this line can be found in the work of Pigliucci?
@@ -329,6 +328,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 -   Defenses of naturalism:
     -   *Every Thing Must Go* [^Ladyman2007]
     -   Rosenberg, A. [Why I am a naturalist.](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) *New York Times*. [^Rosenberg2011]
+    -   Mallon, R. (2019). [Naturalistic approaches to social construction.](https://plato.stanford.edu/entries/social-construction-naturalistic/) *Stanford Encyclopedia of Philosophy*. 
 -   Criticisms of postmodernism:
     -   *Fear of Knowledge* [^Boghossian2006]
     -   Sartwell, C. (2015). [Philosophy returns to the real world.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) *New York Times*. [^Sartwell2015]
