@@ -475,7 +475,7 @@ Wittgenstein in *PI*:
     -   Ryan: It also irritates me that so many people are introduced to continental philosophy, including postmodernism, as if that's the end of philosophy.
 -   Hicks:
     -   Video: [Explaining Postmodernism In 2018 - Stephen Hicks](https://www.youtube.com/watch?v=-BGbHG63x8w)
-    -   Hicks, S.R.C. (2011). *Explaining_Postmodernism*. [^Hicks2011-1]
+    -   Hicks, S.R.C. (2011). *Explaining Postmodernism*. [^Hicks2011-1]
     -   [Hicks, S. (2010). Why Kant is the turning point.](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/)
 -   See also [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism).
 
