@@ -9,6 +9,9 @@ Regardless of how one views the realism debate
 naturalism shows a provocative, unifying way of viewing the projects of
 philosophy and science.
 
+Here we also discuss additional meta-philosophical issues
+and other worldviews in constrast to naturalism.
+
 <!-- PAGETOC -->
 
 
