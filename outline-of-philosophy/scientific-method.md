@@ -471,6 +471,14 @@ French:
 >   idealizations that allow the scientist to ignore certain factors,
 >   for example, and [more] easily relate the theory to observations. [^French2007p81]
 
+Model the theory:
+
+$$ T(\theta_k, \psi_m) \rightarrow M(X_i, \theta_k, \nu_\ell) $$
+
+Fit the data to make inferences on the theory:
+
+$$ \{X_i\}_j \rightarrow M(X_{ij}, \hat{\theta}_k, \hat{\nu}_\ell) \rightarrow T(\hat{\theta}_k, \psi_m) $$
+
 Frigg:
 
 >   Morgan and Morrison (1999) rally around the idea that models are instruments
