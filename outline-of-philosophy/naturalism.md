@@ -290,7 +290,7 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 
 ### Moral naturalism
 
-Part of metaphysical naturalism.
+TODO.
 
 See the [Outline on ethics](ethics.html#moral-naturalism).
 
