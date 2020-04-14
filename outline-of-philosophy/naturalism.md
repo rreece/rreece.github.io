@@ -309,13 +309,13 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   [Humanities aren't a science. Stop treating them like one](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) [^Konnikova2012]
     -   [The Case Against Reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/) [^Gefter2016]
     -   [The magical thinking of guys who love logic](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
-    -   [Scientists Must Challenge What Makes Studies Scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific) [^PrescodWeinstein2017]
+    -   [Scientists must challenge what makes studies scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific) [^PrescodWeinstein2017]
     -   [A Disease of Scienceyness](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953) [^Thomas2015]
 
 [^Gefter2016]: @Gefter_2016_The_Case_Against_Reality\.
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
-[^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_Must_Challenge_What_Makes_Studies\.
+[^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_must_challenge_what_makes_studies\.
 [^Thomas2015]: @Thomas_2015_A_Disease_of_Scienceyness\.
 
 
