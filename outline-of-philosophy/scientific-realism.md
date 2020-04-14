@@ -547,8 +547,9 @@ I found the above quotes in a talk by Arthur Fine:
 -   Standpoint theory
 -   Intersectionality
 -   Decolonizing science
-    -   Prescod-Weinstein, Chanda. (2015). [Decolonising Science Reading List](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
+    -   Prescod-Weinstein, Chanda. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
     -   Roy, Rohan Deb. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
+-   See also [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism).
 
 
 ### Critical realism
