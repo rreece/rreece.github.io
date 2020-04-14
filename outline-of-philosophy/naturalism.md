@@ -229,6 +229,8 @@ Part of metaphysical naturalism.
 -   *Natural Kinds* [^Quine1969]
 -   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
 
+Quine:
+
 >   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
 >   and it is these and no dim proxies that science is all about. Now how is such
 >   robust realism to be reconciled with what we have just been through? The answer
