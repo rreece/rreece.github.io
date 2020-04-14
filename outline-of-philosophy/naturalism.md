@@ -375,7 +375,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 #### Counter rebutals
 
 -   Defenses of postmodernism:
-    -   [McManus, M. (2018). A review of *Explaining Postmodernism* by Stephen Hicks.](https://areomagazine.com/2018/10/17/a-review-of-explaining-postmodernism-by-stephen-hicks/comment-page-1/) *Areo Magazine*.
+    -   McManus, M. (2018). [A review of *Explaining Postmodernism* by Stephen Hicks.](https://areomagazine.com/2018/10/17/a-review-of-explaining-postmodernism-by-stephen-hicks/comment-page-1/) *Areo Magazine*.
     -   Video: [Cuck Philosophy: A Critique of Stephen Hicks' "Explaining Postmodernism"](https://www.youtube.com/watch?v=EHtvTGaPzF4)
     -   Perrin, A. J. (2017). [Stop blaming postmodernism for post-truth politics.](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845) *The Chronicle of Higher Education*. [^Perrin2017]
 -   Criticisms of the Grievance Studies Hoax
