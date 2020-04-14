@@ -126,8 +126,8 @@ C.S. Lewis' translation[^Lewis1955] of lines from Lucretius' *De rerum natura*:
 #### Euthyphro dilemma
 
 -   [Euthyphro dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
--   God commands it because it is right?
--   Or, it is right because God commands it?
+    -   God commands it because it is right?
+    -   Or, it is right because God commands it?
 -   [Maudlin, T. (2014). Greer-Heard Point-Counterpoint Forum in Faith and Culture.](https://www.youtube.com/watch?v=HmQ6xh4jCPc)
 
 Maudlin:
