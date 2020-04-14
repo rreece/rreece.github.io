@@ -129,7 +129,7 @@ are central to many of our cultural and politcal divisions.
 
 TODO: pick-up writing here.
 
--   Feynman
+Feynman:
 
 >   We are all sad when we think of the wondrous potentialities that human
 >   beings seem to have and when we contrast these potentialities with the

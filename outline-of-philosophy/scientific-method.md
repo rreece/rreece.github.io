@@ -548,7 +548,7 @@ Models of science:
 -   Error-catching filters
     -   Ladyman: Error-catching filters [^Ladyman2007]
     -   community, honesty, openness
-    -   Mayo: Error statistics
+    -   Mayo: Error statistics [^Mayo2011]
 -   Not a seven-step program
     -   Evidence based, anti-conspiracy, parsimony
     -   Scientism
@@ -559,6 +559,7 @@ Models of science:
 [^Hempel1948]: @Hempel_1948_Studies_in_the_logic_of_explanation\.
 [^Kuhn1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^NewtonpX]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\, p. TODO.
 
 
