@@ -30,6 +30,8 @@ Sellars:
 
 TODO: Manifest image and scientific image - Sellars
 
+-   Sellars, W. (1963). "Philosophy and the scientific image of man" in @Sellars_1963_Science_Perception_and_Reality
+
 Sellars:
 
 >   Philosophy in an important sense has no special subject-matter which
@@ -94,7 +96,7 @@ Maudlin gives clear naturalist attitude at the start of *The Metaphysics within 
 [^Maddy2007p1]: @Maddy_2007_Second_Philosophy, p. 1.
 [^Maddy2007p18]: @Maddy_2007_Second_Philosophy, p. 18--19.
 [^Maudlin2007p1]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 1.
-[^Sellars1963p1]: @Sellars_1963_Philosophy_and_the_scientific_image_of_man\, p. 1.
+[^Sellars1963p1]: @Sellars_1963_Science_Perception_and_Reality\, p. 1.
 [^SellarsTODO]: TODO.
 
 
@@ -326,6 +328,12 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 -   [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) [^Rosenberg2011]
 -   Sokal affair [^Sokal1996]
     -   Weinberg: "Sokal's Hoax"[^Weinberg1996]
+-   [Grievance studies affair](https://en.wikipedia.org/wiki/Grievance_studies_affair) AKA "Sokal squared"
+    -   [Mounk, Y. (2018). What an audacious hoax reveals about academia. *The Atlantic*.](https://www.theatlantic.com/ideas/archive/2018/10/new-sokal-hoax/572212/)
+    -   [Beauchamp, Z. (2018). The controversy around hoax studies in critical theory, explained. *Vox*.](https://www.vox.com/2018/10/15/17951492/grievance-studies-sokal-squared-hoax)
+    -   [Pluckrose, H., Lindsay, J.A., & Boghossian, P. (2018). Academic grievance studies and the corruption of scholarship. *Areo Magazine*.](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/)
+    -   [Egginton, W. (2018). What the 'Grievance Studies' Hoax really shows. *New York Times*.](https://www.nytimes.com/2018/10/06/opinion/grievance-studies-hoax.html)
+    -   [Grievance studies hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax) - rationalwiki.org
 -   Criticisms of postmodernism:
     -   [Philosophy Returns to the Real World](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) [^Sartwell2015]
     -   [Why I no longer identify as a feminist](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/) [^Pluckrose2016]
@@ -442,9 +450,9 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Sellars, W. (1963). *Empircism and Philosophy of Mind*.
+### Sellars, W. (1963). "Empircism and Philosophy of Mind".
 
--   @Sellars_1963_Empircism_and_philosophy_of_mind
+-   @Sellars_1963_Science_Perception_and_Reality
 
 #### My thoughts
 
