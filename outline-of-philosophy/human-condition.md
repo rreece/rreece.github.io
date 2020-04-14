@@ -123,6 +123,19 @@ C.S. Lewis' translation[^Lewis1955] of lines from Lucretius' *De rerum natura*:
 -   [Summary of Lucretius' *De rerum natura* by M. McGoodwin](https://www.mcgoodwin.net/pages/otherbooks/tlc_rerumnatura.html)
 
 
+#### Euthyphro dilemma
+
+-   [Euthyphro dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
+-   God commands it because it is right?
+-   Or, it is right because God commands it?
+-   [Maudlin, T. (2014). Greer-Heard Point-Counterpoint Forum in Faith and Culture.](https://www.youtube.com/watch?v=HmQ6xh4jCPc)
+
+Maudlin:
+
+>   Seek the truth with an open mind. And it's worthwhile reflecting
+>   what a truth-seeking enterprise looks like.
+
+
 #### Religion as a natural phenomena
 
 TODO
@@ -281,6 +294,7 @@ Click to show links
 -   [Ego death](https://en.wikipedia.org/wiki/Ego_death)
 -   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
+-   [Euthyphro dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
 -   [Heidegger, Martin (1889-1976)](https://en.wikipedia.org/wiki/Martin_Heidegger)
