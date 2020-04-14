@@ -336,8 +336,9 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 -   Anti-dogma
     -   Harris, S. (2007). [Response to Paul C. Davies.](https://samharris.org/response-to-paul-c-davies/)
     -   Siegel, E. (2016). [No, science is not faith-based.](https://medium.com/starts-with-a-bang/no-science-is-not-faith-based-ddc9be25efba) [^Siegel2016]
--   Sokal affair [^Sokal1996]
-    -   Weinberg: "Sokal's Hoax"[^Weinberg1996]
+-   Sokal Affair
+    -   Sokal [^Sokal1996]
+    -   Weinberg, S. (1996). [Sokal's Hoax.](https://physics.nyu.edu/faculty/sokal/weinberg.html) *The New York Review of Books*. [^Weinberg1996]
 -   [Grievance Studies Affair](https://en.wikipedia.org/wiki/Grievance_studies_affair) AKA "Sokal squared"
     -   Mounk, Y. (2018). [What an audacious hoax reveals about academia.](https://www.theatlantic.com/ideas/archive/2018/10/new-sokal-hoax/572212/) *The Atlantic*.
     -   Beauchamp, Z. (2018). [The controversy around hoax studies in critical theory, explained.](https://www.vox.com/2018/10/15/17951492/grievance-studies-sokal-squared-hoax) *Vox*.
