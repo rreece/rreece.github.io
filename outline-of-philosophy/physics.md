@@ -57,6 +57,7 @@ Issues and positions
 
 ### Quantum mechanics
 
+-   Traditionally focus on NRQM [^Ney2013]
 -   Hilbert spaces.  Wigner's theorem.  The Born rule.
 -   Wave-particle duality misconceptions.  Fields are more fundamental than particles.
 -   The measurement problem.  Decoherence.  The Born rule again.
@@ -76,6 +77,9 @@ Issues and positions
 >   you are now defending.
 
 -- from a letter in Appendix B of Feyerabend's *Against Method*
+
+[^Ney2013]: @Ney_2013_The_Wave_Function_Essays_on_the_metaphysics\.
+
 
 #### Foundations of QM:
 
