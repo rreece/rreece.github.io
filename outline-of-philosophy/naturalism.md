@@ -267,6 +267,7 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 
 ![W.V. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
 
+-   usually a pejorative
 -   methodological naturalism
 -   What are the limits of science?
 -   Are there other ways of knowing?
