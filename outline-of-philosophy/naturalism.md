@@ -299,14 +299,15 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 
 #### Attacks
 
--   "Man is the measure of all things" - Protagoras
 -   Postmodernism, Social construction
+    -   "Man is the measure of all things" - Protagoras
+    -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/) - SEP
+    -   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2) - IEP
 -   "The Science Wars"
     -   [Bruno Latour, the Post-Truth Philosopher, Mounts a Defense of Science](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html) - nytimes
--   [The Philosophy of Social Science](http://www.iep.utm.edu/soc-sci/) - [Criticisms of Naturalism](http://www.iep.utm.edu/soc-sci/#H2) - IEP
--   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/) - SEP
--   Tautological: Of course science (scientia) is the domain of all knowledge.
-    (Perhaps this line can be found in the work of Pigliucci?)
+-   Tautological:
+    -   Of course science (scientia) is the domain of all knowledge.
+    -   TODO: Perhaps this line can be found in the work of Pigliucci?
 -   Descoping the success/objectivity of science:
     -   Konnikova, M. (2012). [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) *Scientific American Blogs*. [^Konnikova2012]
     -   Gefter, A. (2016). [The case against reality.](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/) *The Atlantic*. [^Gefter2016]
