@@ -113,10 +113,10 @@ See also:
 
 #### The problem of evil
 
-C.S. Lewis' translation[^Lewis1955] of lines from Lucretius' *De rerum natura*:
+C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 
 >   Had God designed the world, it would not be       
->   A world so frail and faulty as we see.
+>   A world so frail and faulty as we see. [^Lewis1955]
 
 [^Lewis1955]: @Lewis_1955_Surprised_by_Joy\, p. 65.
 
