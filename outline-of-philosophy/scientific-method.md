@@ -407,10 +407,13 @@ Dewey:
 -   Ockham, parsimony
 -   Karl Popper
 -   Inference to the best explanation 
--   Natural kinds, abstraction
+-   Quine: Natural kinds, abstraction
+-   Bhaskar
 -   Convergence
 
-[^Douven2011]: @Douven_2011_Abduction\.
+Wikipedia:
+
+>    R. Bhaskar also offers a practical solution to the problem. He argues that the problem of induction only arises if we deny the possibility of a reason for the predicate, located in the enduring nature of something. For example, we know that all emeralds are green, not because we have only ever seen green emeralds, but because the chemical make-up of emeralds insists that they must be green. If we were to change that structure, they would not be green. For instance, emeralds are a kind of green beryl, made green by trace amounts of chromium and sometimes vanadium. Without these trace elements, the gems would be colourless. [^Bhaskar2008pX]
 
 Wikipedia:
 
@@ -424,9 +427,6 @@ Peirce:
 >   But if A were true, C would be a matter of course,          
 >   Hence, there is reason to suspect that A is true. [^WikipediaAbductiveReasoning2]
 
-[^WikipediaAbductiveReasoning1]: <https://en.wikipedia.org/wiki/Abductive_reasoning>
-[^WikipediaAbductiveReasoning2]: Ibid.
-
 -   [Holmesian fallacy](https://rationalwiki.org/wiki/Holmesian_fallacy)
 
 Arthur Conan Doyle:
@@ -434,7 +434,11 @@ Arthur Conan Doyle:
 >   [W]hen you have eliminated the impossible, whatever remains, however improbable,
 >   must be the truth.  [^Doyle1890]
 
+[^Bhaskar2008pX]: @Bhaskar_2008_A_Realist_Theory_of_Science\.
+[^Douven2011]: @Douven_2011_Abduction\.
 [^Doyle1890]: @Doyle_1890_The_Sign_of_the_Four\, ch. 6.
+[^WikipediaAbductiveReasoning1]: <https://en.wikipedia.org/wiki/Abductive_reasoning>
+[^WikipediaAbductiveReasoning2]: Ibid.
 
 
 #### Statistics as a solution to the problem of induction
