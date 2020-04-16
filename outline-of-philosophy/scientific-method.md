@@ -480,8 +480,8 @@ Fit the model to the data to make inferences on the theory:
 $$
     \{X_i\}_j
     \longrightarrow M(X_{ij} | \theta_k, \nu_\ell)
-    \longrightarrow \hat{\theta}_k \pm \sigma_{\theta_k} , \hat{\nu}_\ell \pm \sigma_{\theta_\ell}
-    \longrightarrow T(\hat{\theta}_k \pm \sigma_{\theta_k}, \psi_m)
+    \longrightarrow \hat{\theta}_k \pm \sigma_{\hat{\theta}_k} , \hat{\nu}_\ell \pm \sigma_{\hat{\nu}_\ell}
+    \longrightarrow T(\hat{\theta}_k \pm \sigma_{\hat{\theta}_k}, \psi_m)
 $$
 
 Frigg:
