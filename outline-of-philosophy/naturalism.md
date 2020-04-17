@@ -448,6 +448,14 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
         of traditional-values conservatives in the rejection of naive
         postmodernism.
 
+<center>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">For future reference <a href="https://t.co/n9nr5C6dRn">pic.twitter.com/n9nr5C6dRn</a></p>&mdash; Liam Bright (&comm;lastpositivist)
+<a href="https://twitter.com/lastpositivist/status/1250923132082368512?ref_src=twsrc%5Etfw">April 16, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
 [^Perrin2017]: @Perrin_2017_Stop_blaming_postmodernism_for_post_truth\.
