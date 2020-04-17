@@ -20,6 +20,8 @@ Issues and positions
 
 ### What is naturalism?
 
+#### First pass
+
 -   Natural philosophy
 
 Sellars:
@@ -57,7 +59,7 @@ Maddy defines naturalism:
 >   To qualify as unnaturalistic, a contemporary thinker has to insist,
 >   for example, that epistemology is an a priori discipline with nothing to
 >   learn from empirical psychology or that metaphysical intuitions show
->   quantum mechanics to be false.  [^Maddy2007p1]
+
 
 >   So our inquirer will continue her investigation of the world in her familiar
 >   ways, despite her encounter with Descartes and his meditator. She will ask
@@ -97,12 +99,65 @@ Maudlin gives clear naturalist attitude at the start of *The Metaphysics within 
 >   of one's ontology, one must look to scientific practice rather than to
 >   philosophical prejudice. [^Maudlin2007p1]
 
+Papineau:
+
+>   The term "naturalism" has no very precise meaning in contemporary philosophy.
+>   Its current usage derives from debates in America in the first half of the last century.
+>   The self-proclaimed "naturalists" from that period included John Dewey, Ernest Nagel,
+>   Sidney Hook and Roy Wood Sellars. These philosophers aimed to ally philosophy
+>   more closely with science. They urged that reality is exhausted by nature,
+>   containing nothing "supernatural", and that the scientific method should
+>   be used to investigate all areas of reality, including the "human spirit"
+>   (Krikorian 1944, Kim 2003).
+
+>   So understood, "naturalism" is not a particularly informative term as
+>   applied to contemporary philosophers. The great majority of contemporary
+>   philosophers would happily accept naturalism as just characterized---that is,
+>   they would both reject "supernatural" entities, and allow that science is
+>   a possible route (if not necessarily the only one) to important truths about
+>   the "human spirit".
+
 [^Jacobs2002]: @Jacobs_2002_Naturalism\. 
 [^Maddy2007p1]: @Maddy_2007_Second_Philosophy, p. 1.
 [^Maddy2007p18]: @Maddy_2007_Second_Philosophy, p. 18--19.
 [^Maudlin2007p1]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 1.
+[^Papineau2007]: @Papineau_2007_Naturalism\.
 [^Sellars1963p1]: @Sellars_1963_Science_Perception_and_Reality\, p. 1.
 [^SellarsTODO]: TODO.
+
+
+#### Second pass
+
+A very diverse set of thinkers are often characterized as naturalists or aligned
+with naturalism, at the expense of much clarity in the term, but naturalism
+generally consists of varying degrees of either or both:
+
+1.  ***epistemological/methodological naturalism*** - an epistemic respect for
+    science and empiricism;
+    a methodological commitment to the
+    [scientific method](http://rreece.github.io/outline-of-philosophy/scientific-method.html)
+    of justifying empirical claims as a route to knowledge,
+    if not the chief or perhaps (with a sufficiently broad definition)
+    the only route to knowledge.
+    *Science should be guiding in what we claim to know*.
+2.  ***ontological naturalism*** - has a variety of claims and interpretations,
+    but they center on the premise that if we have any claim to what there is,
+    it better be informed by and consistent with science.
+    It often involves a skepticism of *a priori* metaphysics
+    (statements about what there is that come prior to empirical information),
+    and sometimes has further qualified ontological commitments to the products of science,
+    which concerns the debate of [scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html).
+    Another claim associated with ontological naturalism and closely
+    related to epistemological naturalism is a rejection of ontologies to which we
+    do not have demonstrable, access *i.e.* supernatural entities,
+    which can be seen as a claim to a type of monism as opposed to dualism about ontology.
+    There is *one* (natural) world.
+    At the least, it is a claim that
+    *science should be guiding in what we claim there is*.
+
+Methodological vs ontological naturalism.
+
+Sean Carroll: "There is *one* (natural) world."
 
 
 ### Rejection of *a priori* metaphysics
@@ -272,7 +327,6 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 
 ### Scientism
 
-![W.V. Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
 
 -   Usually a pejorative
     -   TODO: find examples

@@ -66,7 +66,8 @@ Mayo, D.G. & Spanos, A. (2011). Error statistics. In *Philosophy of Statistics* 
 Mayo, D.G. (2014). On the Birnbaum Argument for the Strong Likelihood Principle, *Statistical Science*, 29, 227--266.
 Mayo, D.G. (2018). *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*. Cambridge University Press.
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
-Neyman, J., & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
+Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
+Neyman, J. (1957). "Inductive behavior" as a basic concept of philosophy of science. *Revue de l'Institut International de Statistique*, 25, 7--22.
 Nielsen, F. (2018). An elementary introduction to information geometry. https://arxiv.org/abs/1808.08271
 O'Hagan, A. (2010). *Kendall's Advanced Theory of Statistics, Vol 2B: Bayesian Inference*. Wiley.
 Peirce, C.S. (1883). *Studies in Logic*. Boston: Little, Brown, and Co.

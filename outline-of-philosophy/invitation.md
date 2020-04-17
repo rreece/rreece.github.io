@@ -62,37 +62,14 @@ What is naturalism?
 --------------------------------------------------------------------------------
 
 *[Naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)*
-is a unifying view of philosophy and science.
+is a unifying view of philosophy and science that will be a key theme
+throughout these outlines.
 It is an attitude about how philosophy should be done (a meta-philosophy)
 and about how philosophy relates to science.
 Naturalists see philosophy and science to have a common territory of concerns;
 philosophy is continuous with science.
 
-A very diverse set of thinkers are often characterized as naturalists or aligned
-with naturalism, at the expense of much clarity in the term, but naturalism
-generally consists of varying degrees of either or both:
-
-1.  ***epistemological naturalism*** - an epistemic respect for science and empiricism;
-    a methodological commitment to
-    the [scientific method](http://rreece.github.io/outline-of-philosophy/scientific-method.html)
-    of justifying empirical claims as a route to knowledge,
-    if not the chief or perhaps (with a sufficiently broad definition)
-    the only route to knowledge.
-    *Science should be guiding in what we claim to know*.
-2.  ***ontological naturalism*** - has a variety of claims and interpretations,
-    but they center on the premise that if we have any claim to what there is,
-    it better be informed by and consistent with science.
-    It often involves a skepticism of *a priori* metaphysics
-    (statements about what there is that come prior to empirical information),
-    and sometimes has further qualified ontological commitments to the products of science,
-    which concerns the debate of [scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html).
-    Another claim associated with ontological naturalism and closely
-    related to epistemological naturalism is a rejection of ontologies to which we
-    do not have demonstrable, access *i.e.* supernatural entities,
-    which can be seen as a claim to a type of monism as opposed to dualism about ontology.
-    There is *one* (natural) world.
-    At the least, it is a claim that
-    *science should be guiding in what we claim there is*.
+![Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
 
 At its simplest, perhaps naturalism
 can be summarized as a rejection of *a priori* speculation
