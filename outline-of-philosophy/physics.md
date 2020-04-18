@@ -275,6 +275,12 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 ### The standard model of particle physics
 
+![The total action of the physics of the standard model 
+    together with general relativity as presented by [Sean Carroll on his blog](http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/).
+    In this all encompassing equation, fermions are the quanta of the $\psi$ fields and
+    bosons are the quanta of the $g$, $A$, and $\Phi$ fields.
+    ](img/carroll-standard-model-action.jpg)
+
 -   GWS electroweak theory: SU(2) $\times$ U(1)
 -   QCD: SU(3)
 -   Nima Arkani-Hamed doing particle physics *a priori*: ["Why is there a Macroscopic Universe?"](https://www.youtube.com/watch?v=F2Fxt_yCrcc)

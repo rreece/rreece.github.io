@@ -84,6 +84,7 @@ See also:
 -   We are animals
 -   We are evolved
 -   We are from a lineage
+-   Andrews on Terrence Deacon's hierarchic transitions [^Andrews2018]
 
 ![[Blood by David S. Goodsell (2000)](http://mgl.scripps.edu/people/goodsell/illustration/public).](img/Goodsell-blood.jpg){#fig:Goodsell-blood}
 
@@ -95,7 +96,25 @@ See also:
 >   they are connected       
 >   underneath [^Rukeyser1976]
 
+[^Andrews2018]: @Andrews_2018_Does_natural_selection_explain_why_you_exist\.
 [^Rukeyser1976]: @Rukeyser_1976_Islands\.
+
+
+#### Evolution of vision
+
+>   Water is strongly absorbing at most of the wavelengths in the electromagnetic
+>   spectrum, but it has a narrow window of transparency which includes the visible
+>   spectrum. The span of the absorption spectrum shown is from wavelengths on the
+>   order of a kilometer down to about the size of a proton, about 10--15 meters.
+>   It doesn't absorb in the wavelength range of visible light,
+>   roughly 400--700 nm, because there is no physical mechanism which produces
+>   transitions in that region---it is too energetic for the vibrations of the
+>   water molecule and below the energies needed to cause electronic transitions. [^Nave2016]
+
+![Light absorbtion in water and the blackbody spectrum. [^Nave2016]](img/light-absorbtion-in-water.png){#fig:light-absorbtion-in-water}
+
+[^Nave2016]: @Nave_2016_Transparency_of_water_in_the_visible_range\.
+
 
 #### Mortality
 
