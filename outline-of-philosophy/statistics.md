@@ -638,9 +638,13 @@ Mayo:
 #### Deep learning
 
 -   "Review: Deep learning" [^LeCun2015]
+-   Lower to higher level representations [^Bengio2009]
 -   *Deep Learning* [^Goodfellow2016]
 -   "The explanation game: A formal framework for interpretable machine learning" [^Watson2019]
 
+![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
+
+[^Bengio2009]: @Bengio_2009_Learning_deep_architectures_for_AI\.
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
 [^LeCun2015]: @LeCun_2015_Deep_learning\.
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.

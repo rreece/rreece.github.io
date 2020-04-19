@@ -7,6 +7,7 @@ Bahri, Y., Kadmon, J., Pennington, J., Schoenholz, S.S., Sohl-Dickstein, J., & G
 Balasubramanian, V. (1996). A geometric formulation of Occam's razor for inference of parametric distributions. https://arxiv.org/abs/adap-org/9601001
 Balasubramanian, V. (1996). Statistical inference, Occam's razor and statistical mechanics on the space of probability distributions. https://arxiv.org/abs/cond-mat/9601030
 Belkin, M., Hsu, D., Ma, S., & Mandal, S. (2019). Reconciling modern machine-learning practice and the classical bias-variance trade-off. *Proceedings of the National Academy of Sciences*, 116(32), 15849--15854. https://arxiv.org/abs/1812.11118
+Bengio, Y. (2009). Learning deep architectures for AI. *Foundations and Trends in Machine Learning*, 2(1), 1--127.
 Benjamin, D.J. et al. (2017). Redefine statistical significance. *PsyArXiv*. https://psyarxiv.com/mky9j/ [July 22, 2017]
 Bensusan, H. (2000). Is machine learning experimental philosophy of science? In *ECAI2000 Workshop notes on scientific Reasoning in Artificial Intelligence and the Philosophy of Science* (pp. 9--14).
 Berger, J.O. & Wolpert, R.L. (1988). *The Likelihood Principle* (2nd ed.). Haywood, CA: The Institute of Mathematical Statistics.
