@@ -70,6 +70,8 @@ Weinberg:
 >   This did not occur to the early Greeks, or to many of their successors,
 >   for a very simple reason: *they had never seen it done*. [^Weinberg2015p13]
 
+TODO: on removing Aristotle's teleology from physics.
+
 [^Weinberg2015p7]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 7.
 [^Weinberg2015p11]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 11.
 [^Weinberg2015p13]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 13.
