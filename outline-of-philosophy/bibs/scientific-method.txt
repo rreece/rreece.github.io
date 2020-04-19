@@ -29,3 +29,4 @@ Sabra, A.I. (1978). An eleventh-century refutation of Ptolemy's planetary theory
 Suppes, P. (1961). A comparison of the meaning and uses of models in mathematics and the empirical sciences. In *The Concept and the Role of the Model in Mathematics and Natural and Social Sciences* (pp. 163--177). Springer, Dordrecht.
 Suppes, P. (1967). What is a scientific theory? In Morgenbesser, S. (Ed.) *Philosophy of Science Today* (pp. 55-67). Basic Books.
 Vickers, J. (2014). The problem of induction. *Stanford Encyclopedia of Philosophy*. https://stanford.library.sydney.edu.au/archives/sum2016/entries/induction-problem/
+Weinberg, S. (2015). *To Explain The World: The discovery of modern science*. Harper.

@@ -49,6 +49,32 @@ Issues and positions
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 
+Weinberg:
+
+>   Like modern scientists, these early Greeks were willing to look beneath
+>   the surface appearance of the world, pursuing knowledge about a deeper
+>   level of reality. The matter of the world does not appear at first glance
+>   as if it is all made of water, or air, or earth, or fire, or all four
+>   together, or even atoms. [^Weinberg2015p7]
+
+>   Nevertheless, I think one should not overemphasize the modern aspects
+>   of Archaic or Greek science. There is an important feature of modern
+>   science that is almost completely missing in all the thinkers I have
+>   mentioned, from Thales to Plato: none of them attempted to verify or
+>   even (aside perhaps from Zeno) seriously to justify their speculations.
+>   In reading their writings, one continually wants to ask, "How do you know?"
+>   This is just as true of Democritus as of others. Nowhere in the fragments
+>   of his books that survive do we see any effort to show that matter
+>   really is composed of atoms. [^Weinberg2015p11]
+
+>   This did not occur to the early Greeks, or to many of their successors,
+>   for a very simple reason: *they had never seen it done*. [^Weinberg2015p13]
+
+[^Weinberg2015p7]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 7.
+[^Weinberg2015p11]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 11.
+[^Weinberg2015p13]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 13.
+
+
 #### The Middle Ages
 
 -   [Islamic Golden Age](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
