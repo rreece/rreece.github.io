@@ -128,6 +128,23 @@ More:
 [^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
 
 
+### Nominalism
+
+-   Antirealist
+-   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
+-   medieval nominalism
+-   positivism, Carnap, ESO
+-   *Science Without Numbers* [^Field1980]
+-   Bueno [^Bueno2013]
+
+Antisthenes:
+
+>   A horse I can see, but horsehood I cannot see.
+
+[^Bueno2013]: @Bueno_2013_Nominalism_in_the_philosophy_of_mathematics\.
+[^Field1980]: @Field_1980_Science_Without_Numbers\.
+
+
 ### Logicism
 
 -   Formalism
@@ -182,21 +199,6 @@ Reid 1996, p. 150.
 ### Fictionalism
 
 -   Antirealist
-
-
-### Nominalism
-
--   Antirealist
--   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
--   *Science Without Numbers* [^Field1980]
--   Bueno [^Bueno2013]
-
-Antisthenes:
-
->   A horse I can see, but horsehood I cannot see.
-
-[^Bueno2013]: @Bueno_2013_Nominalism_in_the_philosophy_of_mathematics\.
-[^Field1980]: @Field_1980_Science_Without_Numbers\.
 
 
 ### Structuralism
