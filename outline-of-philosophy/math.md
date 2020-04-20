@@ -158,6 +158,7 @@ Antisthenes:
 -   Formalism
 -   Antirealist, Positivism
 -   Frege, Russell, Whitehead
+-   Russsell expresses support for the platonic "universals" [^Russell1912p91]
 -   Wigner [^Wigner1960]
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
 
@@ -187,6 +188,7 @@ Hilbert:
     >   numerical equations. Of course, Hilbert's proposed system never gets its consistency proof either. 
     >   Oh well.
 
+[^Russell1912p91]: @Russell_1912_The_Problems_of_Philosophy\, p. 91--118.
 [^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.
 [^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
 
