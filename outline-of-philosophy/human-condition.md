@@ -111,7 +111,7 @@ See also:
 >   transitions in that region---it is too energetic for the vibrations of the
 >   water molecule and below the energies needed to cause electronic transitions. [^Nave2016]
 
-![Light absorbtion in water and the blackbody spectrum. [^Nave2016]](img/light-absorbtion-in-water.png){#fig:light-absorbtion-in-water}
+![Light absorbtion in water and the blackbody spectrum for the approximate temperature of the Sun. [^Nave2016]](img/light-absorbtion-in-water.png){#fig:light-absorbtion-in-water}
 
 [^Nave2016]: @Nave_2016_Transparency_of_water_in_the_visible_range\.
 
