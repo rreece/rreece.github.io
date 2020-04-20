@@ -151,6 +151,9 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
     -   Or, it is right because God commands it?
 -   Maudlin, T. (2014). [Cosmology, theology, and meaning.](https://www.youtube.com/watch?v=HmQ6xh4jCPc) Talk at the *Greer-Heard Point-Counterpoint Forum in Faith and Culture*.
 
+
+#### Epistemic humility
+
 Maudlin:
 
 >   Seek the truth with an open mind. And it's worthwhile reflecting
@@ -165,6 +168,7 @@ TODO
 ### Existentialism
 
 -   Nietzsche
+    -   "God is dead"
 -   Heidegger
     -   Dasein
 -   Sartre
