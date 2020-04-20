@@ -181,6 +181,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
         -   On the "probable error" of a coefficient of correlation deduced from a small sample [^Fisher1921] - definition of *likelihood*
         -   *The Lady Tasting Tea* [^Salsburg2001]
 -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
+    -   biography by Reid [^Reid1998]
 -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
@@ -190,6 +191,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 [^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
 [^Fisher1915]: @Fisher_1915_Frequency_distribution_of_the_values\.
 [^Fisher1921]: @Fisher_1921_On_the_probable_error_of_a_coefficient\.
+[^Reid1998]: @Reid_1998_Neyman\.
 [^Salsburg2001]: @Salsburg_2001_The_Lady_Tasting_Tea\.
 
 

@@ -86,6 +86,14 @@ G&ouml;del, Kurt (1906-1978)
 
 From Wikipedia:
 
+G&ouml;del showed for that any formal system *S* powerful enough to represent arithmetic,
+there is a theorem *G* which is true but the system is unable to prove.
+*G* could be added as an additional axiom to the system in place of a proof.
+However this would create a new system *S'* with its own unprovable true theorem *G'*,
+and so on.
+
+From Wikipedia:
+
 -   The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an "effective procedure" (e.g., a computer program, but it could be any sort of algorithm) is capable of proving all truths about the relations of the natural numbers.
 -   The second incompleteness theorem, an extension of the first, shows that such a system cannot demonstrate its own consistency.
     Sufficiently strong proof theories cannot prove their own consistency (provided that they are in fact consistent).
@@ -191,9 +199,10 @@ Hilbert:
 
 Hilbert: 
 
->   Taking the Principle of the Excluded Middle from the mathematician ... is the same as ... prohibiting the boxer the use of his fists.
+>   Taking the Principle of the Excluded Middle from the mathematician ...
+>   is the same as ... prohibiting the boxer the use of his fists. [^Reid1996p149]
 
-Reid 1996, p. 150.
+[^Reid1996p149]: @Reid_1996_Hilbert\, p. 149.
 
 
 ### Fictionalism
