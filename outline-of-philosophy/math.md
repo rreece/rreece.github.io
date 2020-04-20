@@ -79,7 +79,7 @@ Issues and positions
 -   Carnap
 
 
-### Incompleteness
+#### Incompleteness
 
 G&ouml;del, Kurt (1906-1978)
 
@@ -94,8 +94,9 @@ From Wikipedia:
 
 More:
 
--   von Neumann
+-   Von Neumann recognized the importance first.
 -   G&ouml;del was a platonist, a (religious) realist.
+-   Discuss how incompleteness is overblown in overly epistemically defeatist ways.
 
 
 ### Pythagoreanism
