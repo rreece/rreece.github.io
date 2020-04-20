@@ -434,6 +434,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
     -   McManus, M. (2018). [A review of *Explaining Postmodernism* by Stephen Hicks.](https://areomagazine.com/2018/10/17/a-review-of-explaining-postmodernism-by-stephen-hicks/comment-page-1/) *Areo Magazine*.
     -   Video: [Cuck Philosophy: A Critique of Stephen Hicks' "Explaining Postmodernism"](https://www.youtube.com/watch?v=EHtvTGaPzF4)
     -   Perrin, A. J. (2017). [Stop blaming postmodernism for post-truth politics.](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845) *The Chronicle of Higher Education*. [^Perrin2017]
+    -   [Myth and mayhem: A leftist critique of Jordan Peterson](https://areomagazine.com/2020/04/19/myth-and-mayhem-a-leftist-critique-of-jordan-peterson/) [^McManus2020]
 -   Criticisms of the Grievance Studies Hoax
     -   Hughes, V. & Aldhous, P. (2018). [Here's what critics say about that big new hoax on gender studies.](https://www.buzzfeednews.com/article/virginiahughes/grievance-studies-sokal-hoax)
     -   Egginton, W. (2018). [What the 'Grievance Studies' Hoax really shows.](https://www.nytimes.com/2018/10/06/opinion/grievance-studies-hoax.html) *New York Times*.
@@ -458,6 +459,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
+[^McManus2020]: @McManus_2020_Myth_and_mayhem_A_leftist_critique_of_Jordan\.
 [^Perrin2017]: @Perrin_2017_Stop_blaming_postmodernism_for_post_truth\.
 [^Thomas2015]: @Thomas_2015_A_disease_of_scienceyness\.
 

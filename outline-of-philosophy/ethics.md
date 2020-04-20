@@ -93,7 +93,7 @@ TODO
 
 -   Feudalism
 -   Mercantilism
--   Capitalism
+-   Capitalism/Liberalism
 -   Marxism
 -   Socialism
 -   Libertarianism
