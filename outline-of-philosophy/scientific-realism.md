@@ -71,7 +71,7 @@ Stealing from encyclopedia.com:
 
 ### Realism and antirealism
 
-![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism)).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
+![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120)).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
 
 -   Naive realism.  Why would I doubt the world I see is real?
 -   Many philosophers in that Early Modern Period had threads of Idealism (wikipedia: reality itself is incorporeal or experiential at its core). *e.g.* George Berkeley, Kant, Friedrich Hegel, Immanuel Kant (1724-1804)
@@ -140,14 +140,6 @@ Radiohead:
 
 
 ### Scientific realism
-
-<center>
-<blockquote class="twitter-tweet">
-<p lang="en" dir="ltr">
-<a href="https://twitter.com/hashtag/philosophy?src=hash&amp;ref_src=twsrc%5Etfw">#philosophy</a> in figures: scientific realism vs anti-realism (<a href="https://twitter.com/hashtag/MoveNaturalism?src=hash&amp;ref_src=twsrc%5Etfw">#MoveNaturalism</a>) <a href="http://t.co/Q9XXhVzyrU">http://t.co/Q9XXhVzyrU</a> <a href="http://t.co/w7bMYN0PpD">pic.twitter.com/w7bMYN0PpD</a></p>&mdash; Ryan Reece (&#64;RyanDavidReece) <a href="https://twitter.com/RyanDavidReece/status/490317638418309120?ref_src=twsrc%5Etfw">July 19, 2014</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
 
 Some attempts at definitions:
 

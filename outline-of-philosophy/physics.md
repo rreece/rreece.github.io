@@ -279,7 +279,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
     together with general relativity as presented by [Sean Carroll on his blog](http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/).
     In this all encompassing equation, fermions are the quanta of the $\psi$ fields and
     bosons are the quanta of the $g$, $A$, and $\Phi$ fields.
-    ](img/carroll-standard-model-action.jpg)
+    ](img/carroll-standard-model-action.jpg){#fig:carroll-standard-model-action}
 
 -   GWS electroweak theory: SU(2) $\times$ U(1)
 -   QCD: SU(3)
