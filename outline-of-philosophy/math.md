@@ -100,31 +100,39 @@ More:
 -   Discuss how incompleteness is overblown in overly epistemically defeatist ways.
 
 
-### Pythagoreanism
-
--   Radical realism
--   Neopythagoreanism: Tegmark. (2008). "The mathmatical universe". [^Tegmark2008]
-    -   Mathematical Universe Hypothesis (MUH)
-
-[^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
-
-
 ### Platonism
 
+#### Pythagoreanism
+
+-   Radical realism
+
+
+#### Plato
+
 -   Realist
+-   Theory of the forms
 -   The Academy (387 BCE - 529 CE): "Let no one ignorant of geometry enter"
 -   Mathematics is descriptive of a real but trans-empirical realm.
 -   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
 
+
+#### Contemporary platonism
+
+-   Neopythagoreanism: Tegmark. (2008). "The mathmatical universe". [^Tegmark2008]
+    -   Mathematical Universe Hypothesis (MUH)
+
 ![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
 
 ![A visual proof that $\sum_{k=1}^{\infty} \frac{1}{4^k} = \frac{1}{3}$.](img/visual-proof-geometric-series-sum-to-third.jpg)
+
+[^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
 
 
 ### Logicism
 
 -   Formalism
 -   Antirealist, Positivism
+-   Frege, Russell, Whitehead
 -   Wigner [^Wigner1960]
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
 
