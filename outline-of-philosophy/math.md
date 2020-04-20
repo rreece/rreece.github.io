@@ -158,6 +158,10 @@ Reid 1996, p. 150.
 -   *Science Without Numbers* [^Field1980]
 -   Bueno [^Bueno2013]
 
+Antisthenes:
+
+>   A horse I can see, but horsehood I cannot see.
+
 [^Bueno2013]: @Bueno_2013_Nominalism_in_the_philosophy_of_mathematics\.
 [^Field1980]: @Field_1980_Science_Without_Numbers\.
 

@@ -327,11 +327,14 @@ Click to show links
     -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
 -   [Nietzsche, Friedrich (1844-1900)](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
 -   [Nihilism](http://en.wikipedia.org/wiki/Nihilism)
+-   [Neostoicism](https://en.wikipedia.org/wiki/Neostoicism)
 -   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
 -   [Sartre, Jean-Paul (1905-1980)](https://en.wikipedia.org/wiki/Jean-Paul_Sartre)
 -   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 -   [Seneca (4 BCE - 65 CE)](https://en.wikipedia.org/wiki/Seneca_the_Younger)
 -   [Stirner, Max (1806-1856)](https://en.wikipedia.org/wiki/Max_Stirner)
+-   [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
+-   [Stoicism, Modern](https://en.wikipedia.org/wiki/Modern_Stoicism)
 -   [Tillich, Paul (1886-1965)](https://en.wikipedia.org/wiki/Paul_Tillich)
 
 ### Others
