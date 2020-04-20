@@ -19,10 +19,24 @@ Issues and positions
 
 ### Logic
 
--   Ancient logic and Aristotle 
--   *Modus ponens*, *modus tollens*, Affirming the consequent, Proof by contrapositive
--   Frege, Gottlob (1848-1925)
--   first-order and second-order logic
+-   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
+    -   logico-deductive method founded by Euclid's *Elements*
+-   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
+    -   founded logic
+    -   [Square of opposition](https://en.wikipedia.org/wiki/Square_of_opposition)
+    -   *Modus ponens*, *modus tollens*, Affirming the consequent, Proof by contrapositive
+-   [Frege, Gottlob (1848-1925)](https://en.wikipedia.org/wiki/Gottlob_Frege)
+-   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
+    -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
+    -   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+    -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+    -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
+-   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
+    -   quantification
+    -   domain of discourse
+    -   consistency, validity, completeness, soundness, expressivity
+-   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
+    -   extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
 -   Gillian Russell [^Russell2015]
 
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
@@ -32,10 +46,17 @@ Issues and positions
 
 -   roots from Babylonians
 -   Kronecker, Leopold (1823-1891)
+-   [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
+    -   [&Eacute;variste Galois (1811-1832))](https://en.wikipedia.org/wiki/%C3%89variste_Galois)
+    -   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
+-   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
+-   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
+-   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
 
 
 ### Analysis
 
+-   Geometry and Descartes
 -   Newton, Isaac (1642-1726/7)
 -   Leibniz, Gottfried Wilhelm (1646-1716)
 -   Euler, Leonhard (1707-1783)
@@ -45,12 +66,14 @@ Issues and positions
 -   Stokes, George (1819-1903)
 -   Struggles with the continuum[^Baez-2016].
 -   Differential forms
+-   Geometry and the [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
 
 [^Baez-2016]: @Baez_2016_Struggles_with_the_continuum\.
 
 
 ### Model theory
 
+-   [Model theory](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Model_theory)
 -   Wilfrid Hodges
 -   Language
 -   Carnap
@@ -375,6 +398,7 @@ Click to show links
 ### Wikipedia
 
 -   [Affirming the consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)
+-   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
 -   [Brouwer, L.E.J. (1881-1966)](https://en.wikipedia.org/wiki/L._E._J._Brouwer)
 -   [Cantor, Georg (1845-1918)](https://en.wikipedia.org/wiki/Georg_Cantor)
@@ -385,13 +409,16 @@ Click to show links
 -   [Continuum hypothesis](http://en.wikipedia.org/wiki/Continuum_hypothesis)
 -   [Deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning)
 -   [Diagonal lemma](http://en.wikipedia.org/wiki/Diagonal_lemma)
+-   [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
 -   [Ethnomathematics](http://en.wikipedia.org/wiki/Ethnomathematics)
+-   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
 -   [Euler, Leonhard (1707-1783)](https://en.wikipedia.org/wiki/Leonhard_Euler)
 -   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
 -   [Frege, Gottlob (1848-1925)](http://en.wikipedia.org/wiki/Gottlob_Frege)
 -   [Gauss, Carl Friedrich (1777-1855)](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)
 -   [Gentzen's consistency proof](http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof)
 -   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+-   [G&ouml;del's completeness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
 -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 -   [Hilbert, David (1862-1943)](https://en.wikipedia.org/wiki/David_Hilbert)
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
@@ -399,7 +426,9 @@ Click to show links
 -   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
 -   [Kronecker, Leopold (1823-1891)](https://en.wikipedia.org/wiki/Leopold_Kronecker)
 -   [Kripke, Saul (b. 1940)](https://en.wikipedia.org/wiki/Saul_Kripke)
+-   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
 -   [Law of excluded middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)
+-   [Logic](https://en.wikipedia.org/wiki/Logic)
 -   [Logicism](http://en.wikipedia.org/wiki/Logicism)
 -   [L&ouml;wenheim-Skolem theorem](https://en.wikipedia.org/wiki/L%C3%B6wenheim%E2%80%93Skolem_theorem)
 -   [Mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction)
@@ -419,11 +448,14 @@ Click to show links
 -   [Problem of universals](https://en.wikipedia.org/wiki/Problem_of_universals)
 -   [Proof by contrapositive](https://en.wikipedia.org/wiki/Proof_by_contrapositive)
 -   [Propositional calculus](https://en.wikipedia.org/wiki/Propositional_calculus)
+-   [*Principia Mathematica* (1910)](https://en.wikipedia.org/wiki/Principia_Mathematica)
 -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
 -   [Pythagoreanism](https://en.wikipedia.org/wiki/Pythagoreanism)
 -   [Rule of inference](https://en.wikipedia.org/wiki/Rule_of_inference)
 -   [Russell, Bertrand (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell)
+-   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
 -   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
+-   [Square of opposition](https://en.wikipedia.org/wiki/Square_of_opposition)
 -   [Stokes, George (1819-1903)](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet)
 -   [Tarski, Alfred (1901-1983)](https://en.wikipedia.org/wiki/Alfred_Tarski)
 -   [Tarski's undefinability theorem](https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem)
@@ -436,7 +468,9 @@ Click to show links
 -   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
 -   [Weierstrass, Karl (1815-1897)](https://en.wikipedia.org/wiki/Karl_Weierstrass)
 -   [When a white horse is not a horse](https://en.wikipedia.org/wiki/When_a_white_horse_is_not_a_horse)
+-   [Whitehead, Alfred North (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
 -   [Zeroth-order logic](https://en.wikipedia.org/wiki/Zeroth-order_logic)
+-   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
 
 ### Others
 
