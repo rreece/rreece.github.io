@@ -569,9 +569,17 @@ Mayo:
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
 
 
-### P-value controversy
+### Replication crisis
+
+#### Introduction
 
 -   "Why most published research findings are false" [^Ioannidis2005]
+
+[^Ioannidis2005]: @Ioannidis_2005_Why_most_published_research_findings_are_false\.
+
+
+#### P-value controversy
+
 -   ASA statement on $p$-values [^Wasserstein2016]
 -   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]
 -   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
@@ -599,7 +607,6 @@ Mayo:
 
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
-[^Ioannidis2005]: @Ioannidis_2005_Why_most_published_research_findings_are_false\.
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
 
 
@@ -948,6 +955,7 @@ Click to show links
 -   [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
 -   [P-value](https://en.wikipedia.org/wiki/P-value)
 -   [Rao, C.R. (b. 1920)](https://en.wikipedia.org/wiki/C._R._Rao)
+-   [Replication crisis](https://en.wikipedia.org/wiki/Replication_crisis)
 -   [Savage, Leonard Jimmie (1917-1971)](https://en.wikipedia.org/wiki/Leonard_Jimmie_Savage)
 -   [Solomonoff, Ray (1926-2009)](https://en.wikipedia.org/wiki/Ray_Solomonoff)
 -   [Solomonoff's theory of inductive inference](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference)
