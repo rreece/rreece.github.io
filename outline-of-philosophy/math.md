@@ -94,7 +94,7 @@ From Wikipedia:
 
 More:
 
--   Von Neumann recognized the importance first.
+-   von Neumann recognized the importance first.
 -   G&ouml;del was a platonist, a (religious) realist.
 -   Discuss how incompleteness is overblown in overly epistemically defeatist ways.
 
