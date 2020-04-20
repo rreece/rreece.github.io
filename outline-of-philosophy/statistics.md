@@ -153,6 +153,8 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 >   better, more satisfactory, safer or more advantageous. [^Bernoulli1713]
 
 -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
+-   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
+    -   rule of succssion, bayesian
 -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
 -   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
 -   [Venn, John (1834-1923)](https://en.wikipedia.org/wiki/John_Venn)
