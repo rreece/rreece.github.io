@@ -82,8 +82,8 @@ See also:
 #### Darwinism
 
 -   We are animals
--   We are evolved
 -   We are from a lineage
+-   We are evolved
 -   Andrews on Terrence Deacon's hierarchic transitions [^Andrews2018]
 
 ![[Blood by David S. Goodsell (2000)](http://mgl.scripps.edu/people/goodsell/illustration/public).](img/Goodsell-blood.jpg){#fig:Goodsell-blood}
@@ -137,12 +137,10 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 >   Had God designed the world, it would not be       
 >   A world so frail and faulty as we see. [^Lewis1955]
 
+-   *God is Not Great* [^Hitchens2007]
+
+[^Hitchens2007]: @Hitchens_2007_God_is_Not_Great_How_religion_poisons_everything\.
 [^Lewis1955]: @Lewis_1955_Surprised_by_Joy\, p. 65.
-
-#### Physicalism
-
--   [Summary of Lucretius' *De rerum natura* by M. McGoodwin](https://www.mcgoodwin.net/pages/otherbooks/tlc_rerumnatura.html)
-
 
 #### Euthyphro dilemma
 
@@ -150,6 +148,11 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
     -   God commands it because it is right?
     -   Or, it is right because God commands it?
 -   Maudlin, T. (2014). [Cosmology, theology, and meaning.](https://www.youtube.com/watch?v=HmQ6xh4jCPc) Talk at the *Greer-Heard Point-Counterpoint Forum in Faith and Culture*.
+
+
+#### Physicalism
+
+-   [Summary of Lucretius' *De rerum natura* by M. McGoodwin](https://www.mcgoodwin.net/pages/otherbooks/tlc_rerumnatura.html)
 
 
 #### Epistemic humility
@@ -162,7 +165,7 @@ Maudlin:
 
 #### Religion as a natural phenomena
 
-TODO
+-   Dennett
 
 
 ### Existentialism
