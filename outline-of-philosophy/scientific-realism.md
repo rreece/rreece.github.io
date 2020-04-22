@@ -474,7 +474,7 @@ Wittgenstein in *PI*:
     -   Ryan: Resonating, going viral, does not indicate that it's true or good for progress.
     -   Ryan: I've been wanting to write an essay in this vein for years, and this author is better equipped to explain postmodernism than I. This argument could still be further buttressed with a brief history of the Enlightenment carrying empiricism and liberalism. Today there are still empiricist / naturalist / structuralist / realist / pragmatist ways of viewing the world that reject relativism and recognize some objectivity in the truth of claims about the world, be them descriptive or normative. There are better more accurate ways of describing the world and what one should do than others.
     -   Ryan: It also irritates me that so many people are introduced to continental philosophy, including postmodernism, as if that's the end of philosophy.
--   Criticism:
+-   Criticisms of postmodernism:
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011-1]
     -   Video: [Explaining Postmodernism In 2018 - Stephen Hicks](https://www.youtube.com/watch?v=-BGbHG63x8w)
     -   Hicks, S. (2010). [Why Kant is the turning point.](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/)
@@ -490,8 +490,8 @@ Science aims to give us theories that are empirically adequate,
 but does not justify metaphysical claims about reality.
 
 -   antirealist
--   van Fraassen, Bueno
 -   van Fraassen's "Arguments Concerning Scientific Realism"[^van-Fraassen-1980]
+-   van Fraassen and Bueno
 -   Unlike positivism/instrumentalism, theories should be taken literally.
 
 ![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories)).](img/true-vs-literal-theories.png){#fig:true-vs-literal-theories}
