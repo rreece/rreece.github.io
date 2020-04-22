@@ -106,6 +106,8 @@ More:
 -   von Neumann recognized the importance first.
 -   G&ouml;del was a platonist, a (religious) realist.
 -   Discuss how incompleteness is overblown in overly epistemically defeatist ways.
+-   Seely, R.A. [G&ouml;del on the net.](http://www.math.mcgill.ca/rags/JAC/124/godel.html)
+-   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/) - IEP
 
 
 ### Platonism
@@ -399,7 +401,7 @@ Click to show links
 -   [Game Theory](http://www.iep.utm.edu/game-th/)
 -   [Indispensability Argument in the Philosophy of Mathematics](http://www.iep.utm.edu/indimath/)
 -   [Infinite](http://www.iep.utm.edu/infinite/)
--   [Poincar&eacute;, Jules Henri (1854-1912)](http://www.iep.utm.edu/poincare/)
+-   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/)
 -   [Mathematical Platonism](http://www.iep.utm.edu/mathplat/)
 -   [Mathematical Structuralism](http://www.iep.utm.edu/m-struct/)
 -   [Modal Metaphysics](http://www.iep.utm.edu/mod-meta/)
@@ -410,6 +412,7 @@ Click to show links
 -   [Platonism, mathematical](http://www.iep.utm.edu/mathplat/)
 -   [Platonism, middle](http://www.iep.utm.edu/midplato/)
 -   [Plato's Academy (387 BCE - 529 CE)](http://www.iep.utm.edu/academy/)
+-   [Poincar&eacute;, Jules Henri (1854-1912)](http://www.iep.utm.edu/poincare/)
 -   [Poincar&eacute;'s Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)
 -   [Process Philosophy](http://www.iep.utm.edu/processp/)
 -   [Pythagoras (570-495 BCE)](http://www.iep.utm.edu/pythagor/)
@@ -516,5 +519,3 @@ Click to show links
 </div>
 
 <!-- REFERENCES -->
-
-
