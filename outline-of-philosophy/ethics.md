@@ -55,6 +55,7 @@ Issues and positions
 -   Ethical naturalism
     -   See the outline on [Naturalism](naturalism.html#ethical-naturalism).
 -   Murdoch, Iris. (1999). *The Sovereignty of Good*.
+-   Plato: [*Minos*](https://en.wikipedia.org/wiki/Minos_(dialogue))
 
 
 ### Moral naturalism

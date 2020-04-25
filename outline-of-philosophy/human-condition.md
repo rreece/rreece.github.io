@@ -132,6 +132,11 @@ See also:
 
 ### (A)theism
 
+#### Apologetics
+
+-   Plato, *Laws*, Book 10, on the nontheism of Democritus.
+
+
 #### Pascal's Wager
 
 -   Responses to Pascal's Wager [^Weisberg2019ch14_5]
