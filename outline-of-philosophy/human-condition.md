@@ -85,22 +85,24 @@ See also:
 -   We are from a lineage
 -   We are evolved
 -   Andrews on Terrence Deacon's hierarchic transitions [^Andrews2018]
+-   [Drew Berry: Animations of unseeable biology](https://www.youtube.com/watch?v=WFCvkkDSfIU)
+-   We are all related
 
 ![[Blood by David S. Goodsell (2000)](http://mgl.scripps.edu/people/goodsell/illustration/public).](img/Goodsell-blood.jpg){#fig:Goodsell-blood}
 
--   [Drew Berry: Animations of unseeable biology](https://www.youtube.com/watch?v=WFCvkkDSfIU)
-
-"Islands" by Muriel Rukeyser
+"Islands" by Muriel Rukeyser [^Rukeyser1976]
 
 >   O for God's sake      
 >   they are connected       
->   underneath [^Rukeyser1976]
+>   underneath
 
 [^Andrews2018]: @Andrews_2018_Does_natural_selection_explain_why_you_exist\.
 [^Rukeyser1976]: @Rukeyser_1976_Islands\.
 
 
 #### Evolution of vision
+
+-   We are adapted certain ways for certain environmental reasons.
 
 >   Water is strongly absorbing at most of the wavelengths in the electromagnetic
 >   spectrum, but it has a narrow window of transparency which includes the visible
@@ -142,6 +144,7 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 [^Hitchens2007]: @Hitchens_2007_God_is_Not_Great_How_religion_poisons_everything\.
 [^Lewis1955]: @Lewis_1955_Surprised_by_Joy\, p. 65.
 
+
 #### Euthyphro dilemma
 
 -   [Euthyphro dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
@@ -153,7 +156,12 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 #### Physicalism
 
 -   [Summary of Lucretius' *De rerum natura* by M. McGoodwin](https://www.mcgoodwin.net/pages/otherbooks/tlc_rerumnatura.html)
--   No teleology
+    -   Greenblatt, S. (2011). *The Swerve*. [^Greenblatt2011]
+    -   Greenblatt, S. (2011). The answer man. [^Greenblatt2011ny]
+    -   No teleology
+
+[^Greenblatt2011]: @Greenblatt_2011_The_Swerve_How_the_World_Became_Modern\.
+[^Greenblatt2011ny]: @Greenblatt_2011_The_answer_man_An_ancient_poem_was_rediscovered\.
 
 
 #### Epistemic humility
@@ -294,6 +302,7 @@ Click to show links
 -   [Egoism](http://www.iep.utm.edu/egoism/)
 -   [Existentialism](http://www.iep.utm.edu/existent/)
 -   [Heidegger, Martin (1889-1976)](https://www.iep.utm.edu/heidegge/)
+-   [Lucretius (c. 99-55 BCE)](https://www.iep.utm.edu/lucretiu/)
 -   [Nihilism](http://www.iep.utm.edu/nihilism/)
 -   [Sartre, Jean-Paul (1905-1980): Existentialism](https://www.iep.utm.edu/sartre-ex/)
 -   [Stoicism](http://www.iep.utm.edu/stoicism/)
@@ -320,6 +329,7 @@ Click to show links
 -   [Camus, Albert (1913-1960)](https://en.wikipedia.org/wiki/Albert_Camus)
 -   [Dasein](https://en.wikipedia.org/wiki/Dasein)
 -   [*De rerum natura*](https://en.wikipedia.org/wiki/De_rerum_natura)
+-   [*De rerum natura*, List of English translations](https://en.wikipedia.org/wiki/List_of_English_translations_of_De_rerum_natura)
 -   [Ego death](https://en.wikipedia.org/wiki/Ego_death)
 -   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)

@@ -48,6 +48,9 @@ Issues and positions
     -    logico-deductive method founded by Euclid's *Elements*
 -   [Archimedes (c. 287 - c. 212) BCE](https://en.wikipedia.org/wiki/Archimedes)
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
+    -   Estimated the circumference of the Earth to be 50 times the distance between Alexandria and Syene,
+        which was pretty acurate as it is actually 47.9 times! [^Weinberg2015p76]
+    Eratosthenes concluded the circumference to be 50 times that distance (when it is actually 47.9 times the distance)
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 
 Weinberg:
@@ -71,11 +74,15 @@ Weinberg:
 >   This did not occur to the early Greeks, or to many of their successors,
 >   for a very simple reason: *they had never seen it done*. [^Weinberg2015p13]
 
-TODO: on removing Aristotle's teleology from physics.
+-   TODO: on removing Aristotle's teleology from physics.
+-   Review of *To Explain the World* [^Davis2015]
+[^Davis2015]: Davis, Nicola. (2015). To Explain the World review. *The Guardian*. https://www.theguardian.com/books/2015/feb/22/to-explain-the-world-steven-weinberg-history-great-thinkers. TODO: find better ref.
+
 
 [^Weinberg2015p7]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 7.
 [^Weinberg2015p11]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 11.
 [^Weinberg2015p13]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 13.
+[^Weinberg2015p76]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 76.
 
 
 #### The Middle Ages
