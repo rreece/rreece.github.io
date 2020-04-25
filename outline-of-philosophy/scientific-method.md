@@ -268,8 +268,8 @@ Weinberg:
 
 #### Development of calculus
 
-![Leibniz's notation of integration and differentiation summarized in the
-    margin of his notes in 1675
+![Leibniz's notation of integration (*summa*) and differentiation (*differentia*)
+    summarized in the margin of his notes in 1675
     (photo by [S. Wolfram](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
      of notes in the Leibniz-Archiv in Hanover, Germany).
     ](img/leibniz-1675-summa-and-diff.jpg){#fig:leibniz-1675-summa-and-diff}
@@ -289,7 +289,7 @@ Weinberg:
     -   Leibniz first used his intergral sign, $\int$, in publication in         
         Leibniz, G.W. (1686). De geometria recondita et analysi indivisibilium atque infinitorum. *Acta Eruditorum*.
     -   Wolfram, S. (2013). [Dropping in on Gottfried Leibniz](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/).
--   Aldrich, John. [Earliest uses of symbols of calculus](http://jeff560.tripod.com/calculus.html).
+-   Aldrich, John. (?). [Earliest uses of symbols of calculus](http://jeff560.tripod.com/calculus.html).
 -   [Leibniz-Newton calculus controversy](https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy)
     -   Wikipedia: In 1849, C. I. Gerhardt, while going through Leibniz's manuscripts, found extracts from Newton's "De analysi per aequationes numero terminorum infinitas".
     -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
@@ -1107,6 +1107,8 @@ Click to show links
 -   [Scientism](http://rationalwiki.org/wiki/Scientism) - RationalWiki.org
 -   [Newton's Flaming Laser Sword](https://philosophynow.org/issues/46/Newtons_Flaming_Laser_Sword) - Mike Alder, Philosophy Now
 -   [The African Enlightenment: The highest ideals of Locke, Hume and Kant were first proposed more than a century earlier by an Ethiopian in a cave](https://aeon.co/essays/yacob-and-amo-africas-precursors-to-locke-hume-and-kant)
+-   Aldrich, John. (?). [Earliest uses of symbols of calculus](http://jeff560.tripod.com/calculus.html).
+-   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
 
 </div>
 
