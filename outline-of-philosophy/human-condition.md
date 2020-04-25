@@ -175,7 +175,9 @@ Maudlin:
 
 #### Religion as a natural phenomena
 
--   Dennett
+-   *Breaking the Spell: Religion as a natural phenomenon* [^Dennett2006]
+
+[^Dennett2006]: @Dennett_2006_Breaking_the_Spell_Religion_as_a_natural\.
 
 
 ### Existentialism
