@@ -81,12 +81,13 @@ See also:
 
 #### Darwinism
 
--   We are animals
--   We are from a lineage
--   We are evolved
+-   We are animals.
+-   We are from a lineage.
+-   We are all related.
+-   We are evolved.
+-   We are complex.
 -   Andrews on Terrence Deacon's hierarchic transitions [^Andrews2018]
 -   [Drew Berry: Animations of unseeable biology](https://www.youtube.com/watch?v=WFCvkkDSfIU)
--   We are all related
 
 ![[Blood by David S. Goodsell (2000)](http://mgl.scripps.edu/people/goodsell/illustration/public).](img/Goodsell-blood.jpg){#fig:Goodsell-blood}
 

@@ -50,7 +50,6 @@ Issues and positions
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
     -   Estimated the circumference of the Earth to be 50 times the distance between Alexandria and Syene,
         which was pretty acurate as it is actually 47.9 times! [^Weinberg2015p76]
-    Eratosthenes concluded the circumference to be 50 times that distance (when it is actually 47.9 times the distance)
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 
 Weinberg:
@@ -76,9 +75,8 @@ Weinberg:
 
 -   TODO: on removing Aristotle's teleology from physics.
 -   Review of *To Explain the World* [^Davis2015]
-[^Davis2015]: Davis, Nicola. (2015). To Explain the World review. *The Guardian*. https://www.theguardian.com/books/2015/feb/22/to-explain-the-world-steven-weinberg-history-great-thinkers. TODO: find better ref.
 
-
+[^Davis2015]: @Davis_2015_To_Explain_the_World_review\.
 [^Weinberg2015p7]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 7.
 [^Weinberg2015p11]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 11.
 [^Weinberg2015p13]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 13.
@@ -340,6 +338,8 @@ Sextus Empiricus:
     -   Humeanism
     -   Weintraub [^Weintraub1995]
 -   Russell's inductive turkey
+    -   TODO: find Russell ref
+    -   Note discussion by French
 
 [^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. X.
 [^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
@@ -559,7 +559,7 @@ Frigg:
 
 ### Is there a universal scientific method?
 
-#### A first pass
+#### First pass
 
 Feynman:
 
@@ -595,10 +595,12 @@ Feynman:
     -   Logical empiricism
 -   Falsification, deductivism
     -   Karl Popper
+    -   *The Logic of Scientific Discovery* [^Popper1959]
 -   Pragmatic model
     -   C.S. Peirce
 -   Normal vs revolutionary science
-    -   Thomas Kuhn [^Kuhn1962]
+    -   Thomas Kuhn
+    -   *The Structure of Scientific Revolutions* [^Kuhn1962]
 -   Distinction between [exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
     and [confirmatory data analysis](https://en.wikipedia.org/wiki/Confirmatory_data_analysis)
     -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
@@ -617,6 +619,7 @@ Feynman:
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^NewtonpX]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\, p. TODO.
+[^Popper1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
 
 
 ### Scientific knowledge and realism
