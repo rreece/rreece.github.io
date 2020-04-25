@@ -1156,6 +1156,7 @@ Click to show links
 -   [Feyerabend, Paul (1924-1994)](https://en.wikipedia.org/wiki/Paul_Feyerabend)
 -   [Goodman, Nelson (1906-1998)](https://en.wikipedia.org/wiki/Nelson_Goodman)
 -   [Hanson, Norwood Russell (1924-1967)](https://en.wikipedia.org/wiki/Norwood_Russell_Hanson)
+-   [Hypotheses non fingo](https://en.wikipedia.org/wiki/Hypotheses_non_fingo)
 -   [Indeterminacy of translation](http://en.wikipedia.org/wiki/Indeterminacy_of_translation)
 -   [Inductivism](https://en.wikipedia.org/wiki/Inductivism)
 -   [Internal-external distinction](https://en.wikipedia.org/wiki/Internal%E2%80%93external_distinction)

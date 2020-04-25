@@ -128,6 +128,7 @@ Weinberg:
 
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
 -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
+-   [Barrow, Isaac (1630-1677)](https://en.wikipedia.org/wiki/Isaac_Barrow)
 -   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
     -   corpuscules
 -   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
@@ -230,20 +231,22 @@ Weinberg:
 -   *a priori* vs *a posteriori*
 -   Skepticism
 -   Lead to the Age of Enlightenment
--   Development of calculus
 
-Early empiricists:
+
+#### Early empiricists
 
 -   Francis Bacon (1561-1626)
 -   Thomas Hobbes (1588-1679)
 
-Rationalists:
+
+#### Rationalists
 
 -   Ren&eacute; Descartes (1596-1650)
 -   Baruch Spinoza (1632-1677)
 -   Gottfried Wilhelm Leibniz (1646-1716)
 
-British empiricists:
+
+#### British empiricists
 
 -   John Locke (1632-1704)
 -   George Berkeley (1685-1753)
@@ -251,7 +254,8 @@ British empiricists:
 
 ![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig:mandik-2016-11-1-eyeballs}
 
-Important synthesizers:
+
+#### Important synthesizers
 
 -   Isaac Newton (1642-1727)
     -   *The Principia* (1687) [^Newton2016]
@@ -260,6 +264,27 @@ Important synthesizers:
 
 [^Kant1996]: @Kant_1996_Critique_of_Pure_Reason\. 
 [^Newton2016]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\.
+
+
+#### Development of calculus
+
+-   James Gregory (1638-1675) 
+-   Isaac Barrow (1630-1677)
+    -   Fundamental theorem of calculus in
+        Proposition 11, Lecture 10, of his *Lectiones Geometricae*, published in 1670.
+-   Isaac Newton (1642-1727)
+    -   Newton claimed to have the ideas of calculus in the mid 1660s.
+    -   In 1669, Newton wrote an article on infinite series with ideas leading to calculus: "De analysi per aequationes numero terminorum infinitas", which wasn't published until 1711, 42 years later.
+    -   *Philosophi&aelig; Naturalis Principia Mathematica* (1687)
+-   Gottfried Wilhelm Leibniz (1646-1716)
+    -   Leibniz first used $dx$ in publication in        
+        Leibniz, G.W. (1684). Nova methodus pro maximis et minimis. *Acta Eruditorum*.
+    -   Leibniz first used his intergral sign, $\int$, in publication in         
+        Leibniz, G.W. (1686). De geometria recondita et analysi indivisibilium atque infinitorum. *Acta Eruditorum*.
+    -   Wolfram, S. (2013). [Dropping in on Gottfried Leibniz](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/).
+-   [Leibniz-Newton calculus controversy](https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy)
+    -   Wikipedia: In 1849, C. I. Gerhardt, while going through Leibniz's manuscripts, found extracts from Newton's "De analysi per aequationes numero terminorum infinitas"
+    -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
 
 
 ### Analytic/synthetic distinction
@@ -990,6 +1015,7 @@ Click to show links
 -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
 -   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
 -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
+-   [Leibniz-Newton calculus controversy](https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy)
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
 -   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
@@ -1014,6 +1040,7 @@ Click to show links
 -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
 -   [Pearson, Karl (1857-1936)](https://en.wikipedia.org/wiki/Karl_Pearson)
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
+-   [*Philosophi&aelig; Naturalis Principia Mathematica* (1687)](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
 -   [Phlogiston theory](http://en.wikipedia.org/wiki/Phlogiston_theory)
 -   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
