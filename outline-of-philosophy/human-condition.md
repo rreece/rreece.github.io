@@ -73,8 +73,8 @@ See also:
 ### Romanticism
 
 -   [romanticism](https://en.wikipedia.org/wiki/Romanticism)
--   late 18th through 19th centuries
--   focus on emotion
+    -   late 18th through 19th centuries
+    -   focus on emotion
 -   criticism:
     -   Alain de Botton
         -   The School of Life: [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w)

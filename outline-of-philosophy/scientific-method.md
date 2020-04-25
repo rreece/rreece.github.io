@@ -19,6 +19,10 @@ Issues and positions
 
 ### History of science
 
+In this first section, we will briefly outline chronologically highlights in
+the development of science, after which there are sections focusing on topics
+in the epistemology of science.
+
 ![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig:timeline-of-major-philosophers-since-1200}
 
 #### Antiquity
