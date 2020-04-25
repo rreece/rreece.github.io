@@ -268,6 +268,13 @@ Weinberg:
 
 #### Development of calculus
 
+![Leibniz's notation of integration and differentiation summarized in the
+    margin of his notes in 1675
+    (photo by [S. Wolfram](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
+     of notes in the Leibniz-Archiv in Hanover, Germany).
+    ](img/leibniz-1675-summa-and-diff.jpg){#fig:leibniz-1675-summa-and-diff}
+
+
 -   James Gregory (1638-1675) 
 -   Isaac Barrow (1630-1677)
     -   Fundamental theorem of calculus in
@@ -282,6 +289,7 @@ Weinberg:
     -   Leibniz first used his intergral sign, $\int$, in publication in         
         Leibniz, G.W. (1686). De geometria recondita et analysi indivisibilium atque infinitorum. *Acta Eruditorum*.
     -   Wolfram, S. (2013). [Dropping in on Gottfried Leibniz](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/).
+-   Aldrich, John. [Earliest uses of symbols of calculus](http://jeff560.tripod.com/calculus.html).
 -   [Leibniz-Newton calculus controversy](https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy)
     -   Wikipedia: In 1849, C. I. Gerhardt, while going through Leibniz's manuscripts, found extracts from Newton's "De analysi per aequationes numero terminorum infinitas"
     -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
