@@ -72,7 +72,8 @@ See also:
 
 ### Romanticism
 
--   19th century
+-   [romanticism](https://en.wikipedia.org/wiki/Romanticism)
+-   late 18th through 19th centuries
 -   focus on emotion
 -   criticism:
     -   Alain de Botton
