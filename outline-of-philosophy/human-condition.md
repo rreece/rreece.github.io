@@ -162,6 +162,8 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
     -   God commands it because it is right?
     -   Or, it is right because God commands it?
 -   Maudlin, T. (2014). [Cosmology, theology, and meaning.](https://www.youtube.com/watch?v=HmQ6xh4jCPc) Talk at the *Greer-Heard Point-Counterpoint Forum in Faith and Culture*.
+-   Replies:
+    -   Plato, *Laws*, Book 10
 
 
 #### Physicalism
