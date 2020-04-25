@@ -72,9 +72,13 @@ See also:
 
 ### Romanticism
 
+-   19th century
 -   focus on emotion
 -   criticism:
     -   Alain de Botton
+        -   The School of Life: [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w)
+        -   Alain de Botton [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
+        -   Alain de Botton [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
 
 
 ### Biology
