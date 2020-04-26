@@ -145,35 +145,12 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 -   Field definition
 -   Coleman-Mandula theorem [^Coleman1967]
--   [Fiber bundles in physics](https://ncatlab.org/nlab/show/fiber+bundles+in+physics)
-    -   Fiber bundles embody two central principles of modern physics:
-        1.  the principle of locality
-        2.  the gauge principle.
--   Healey on the Aharonov-Bohm effect [^Healey2007ch2]
--   Maudlin on fiber bundles
+-   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification)
+-   CPT theorem
 
->   If we adopt the metaphysics of the fiber bundle to represent chromodynamics,
->   then we must reject the notion that quark color is a universal, or that there are
->   color tropes which can be duplicates, or that quarks are parts of 'natural sets'
->   which include all and only the quarks of the same color, for there is no fact
->   about whether any two quarks are the same color or different. Further, we must
->   reject the notion that there is any metaphysically pure relation of comparison
->   between quarks at different points, since the only comparisons available are
->   necessarily dependent on the existence of a continuous path in space-time
->   connecting the points. So it seems that there are no color properties and no
->   metaphysically pure internal relations between quarks. [^Maudlin2007p96]
-
->   But if one asks whether, in this picture, the electromagnetic field is a
->   substance or an instance of a universal or a trope, or some combination of
->   these, none of the options seems very useful. If the electromagnetic field
->   is a connection on a fiber bundle, then one understands what it is by studying
->   fiber bundles directly, not by trying to translate modern mathematics into
->   archaic philosophical terminology. [^Maudlin2007p101]
-
-[^Healey2007ch2]: @Healey_2007_Gauging_Whats_Real\, ch. 2-4.
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
-[^Maudlin2007p96]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 96.
-[^Maudlin2007p101]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 101.
+
+
 
 #### Foundations
 
@@ -274,20 +251,47 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 ### Exotics in quantum field theory
 
+#### Higher gauge theory
+
+-   [Fiber bundles in physics](https://ncatlab.org/nlab/show/fiber+bundles+in+physics)
+    -   Fiber bundles embody two central principles of modern physics:
+        1.  the principle of locality
+        2.  the gauge principle.
+-   Healey on the Aharonov-Bohm effect [^Healey2007ch2]
+-   Holonomy
+-   Maudlin on fiber bundles
+-   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
+
+>   If we adopt the metaphysics of the fiber bundle to represent chromodynamics,
+>   then we must reject the notion that quark color is a universal, or that there are
+>   color tropes which can be duplicates, or that quarks are parts of 'natural sets'
+>   which include all and only the quarks of the same color, for there is no fact
+>   about whether any two quarks are the same color or different. Further, we must
+>   reject the notion that there is any metaphysically pure relation of comparison
+>   between quarks at different points, since the only comparisons available are
+>   necessarily dependent on the existence of a continuous path in space-time
+>   connecting the points. So it seems that there are no color properties and no
+>   metaphysically pure internal relations between quarks. [^Maudlin2007p96]
+
+>   But if one asks whether, in this picture, the electromagnetic field is a
+>   substance or an instance of a universal or a trope, or some combination of
+>   these, none of the options seems very useful. If the electromagnetic field
+>   is a connection on a fiber bundle, then one understands what it is by studying
+>   fiber bundles directly, not by trying to translate modern mathematics into
+>   archaic philosophical terminology. [^Maudlin2007p101]
+
+[^Healey2007ch2]: @Healey_2007_Gauging_Whats_Real\, ch. 2-4.
+[^Maudlin2007p96]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 96.
+[^Maudlin2007p101]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 101.
+
+
 #### Non-perturbative features
 
--   Holonomy
 -   Sphalerons
 -   Instanton
 -   Shifman [^Shifman2012]
 
 [^Shifman2012]: @Shifman_2012_Advanced_Topics_in_Quantum_Field_Theory_A_lecture\.
-
-
-#### Higher gauge theory
-
--   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
--   Fiber bundles
 
 
 #### Supersymmetry
