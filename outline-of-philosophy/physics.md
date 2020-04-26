@@ -233,6 +233,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Earman and Fraser's analysis [^Earman2006]
 -   Klaczynski's analysis [^Klaczynski2016]
 -   *Local Quantum Physics* [^Haag1992]
+-   Duncan [^Duncan2012]
 
 <center>
 <blockquote class="twitter-tweet">
@@ -256,6 +257,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 </center>
 
 [^Bain2000]: @Bain_2000_Against_particlefield_duality_Asymptotic\.
+[^Duncan2012]: @Duncan_2012_Conceptual_Framework_of_Quantum_Field_Theory\.
 [^Earman2006]: @Earman_2006_Haags_theorem_and_its_implications\.
 [^Haag1955]: @Haag_1955_On_quantum_field_theories\.
 [^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
