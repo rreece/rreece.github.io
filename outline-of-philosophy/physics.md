@@ -344,8 +344,8 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Quantum gravity
 
 ![Two-loop renormalization group evolution of the inverse gauge couplings, $\alpha^{-1}$,
-    in the Standard Model (dashed lines) and the Minimal Supersymmetric Standard Model
-    MSSM (solid lines). In the MSSM case, the sparticle masses are treated as a common
+    in the Standard Model (dashed lines) and the MSSM (solid lines).
+    In the MSSM case, the sparticle masses are treated as a common
     threshold varied between 750 GeV (blue) and 2.5 TeV (red). [^Martin2016p66]
     ](img/martin-running-of-the-couplings.png){#fig:martin-running-of-the-couplings}
 
