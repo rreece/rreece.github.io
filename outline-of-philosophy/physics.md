@@ -112,7 +112,7 @@ $$ \langle x | n \rangle = \psi_{n}(x) $$
 
 -   Schr&ouml;dinger Equation
 
-$$ i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle $$
+$$ \partial_{t} \: |\psi\rangle = -i \hbar \: \hat{H} \: |\psi\rangle $$
 
 $$ i \hbar \: \partial_{t} \: \hat{U}(t) \: |\psi\rangle = \hat{H} \: \hat{U}(t) \: |\psi\rangle $$
 
@@ -151,7 +151,6 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
 
 
-
 #### Foundations
 
 -   Peskin and Schroeder
@@ -165,9 +164,11 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 [^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
 
+
 #### Spin-statistics theorem
 
 -   Spin-statistics theorem - Pauli
+
 
 #### Scattering
 
@@ -178,8 +179,11 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Dyson series
 -   LSZ reduction formula [^Lehmann1955]
 -   Feynman diagrams and Feynman rules
+-   Martin [^Martin2018]
 
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
+[^Martin2018]: @Martin_2018_Phenomenology_of_particle_physics\.
+
 
 #### Renormalization
 
@@ -298,9 +302,11 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 -   Haag-&#321;opusza&#324;ski-Sohnius theorem [^Haag1975]
 -   [Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/)
+-   Martin [^Martin2016]
 -   [Ellis, J. (2020). The Higgs, supersymmetry and all that. *CERN Courier*. January 10, 2020.](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/)
 
 [^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries\.
+[^Martin2016]: @Martin_2016_A_supersymmetry_primer\.
 
 
 ### Interpretations of quantum mechanics
@@ -333,8 +339,17 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Running of the couplings
 -   Grand unification
 -   Supersymmetry
+-   Minimal Supersymmetric Standard Model (MSSM)
 -   Strong $CP$ problem
 -   Quantum gravity
+
+![Two-loop renormalization group evolution of the inverse gauge couplings, $\alpha^{-1}$,
+    in the Standard Model (dashed lines) and the Minimal Supersymmetric Standard Model
+    MSSM (solid lines). In the MSSM case, the sparticle masses are treated as a common
+    threshold varied between 750 GeV (blue) and 2.5 TeV (red). [^Martin2016p66]
+    ](img/martin-running-of-the-couplings.png){#fig:martin-running-of-the-couplings}
+
+[^Martin2016p66]: @Martin_2016_A_supersymmetry_primer\, p. 66.
 
 
 ### Cosmology
