@@ -206,24 +206,31 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 #### Renormalization
 
+-   Dyson [^Dyson1949]
 -   Wilson
 -   Huggett and Weingard [^Huggett1995]
+-   Goldenfeld [^Goldenfeld1992]
 -   Butterfield [^Butterfield2014]
 -   Butterfield [^Butterfield2015]
-
+ 
+[^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
+[^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
 [^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
 [^Butterfield2014]: @Butterfield_2014_Reduction_emergence_and_renormalization\.
 [^Butterfield2015]: @Butterfield_2015_Renormalization_for_philosophers\.
+
 
 #### Effective field theory
 
 -   Huggett and Weingard, again [^Huggett1995]
 -   Weinberg [^Weinberg1997]
 -   Bain [^Bain2013]
+-   Preskill, J. (2013). [We are all Wilsonians now](https://quantumfrontiers.com/2013/06/18/we-are-all-wilsonians-now/).
 
 [^Bain2013]: @Bain_2013_Effective_field_theories and
     @Bain_2013_Emergence_in_effective_field_theories\.
 [^Weinberg1997]: @Weinberg_1996_What_is_quantum_field_theory_and_what_did_we\.
+
 
 #### Haag's theorem
 
@@ -272,6 +279,9 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Holonomy
 -   Sphalerons
 -   Instanton
+-   Shifman [^Shifman2012]
+
+[^Shifman2012]: @Shifman_2012_Advanced_Topics_in_Quantum_Field_Theory_A_lecture\.
 
 
 #### Higher gauge theory

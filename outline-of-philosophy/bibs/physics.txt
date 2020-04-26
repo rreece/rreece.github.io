@@ -7,9 +7,11 @@ Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaph
 Coleman, S. & Mandula, J. (1967). All possible symmetries of the S matrix. *Physical Review*, 159(5), 1251--1256.
 Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. In Falkenburg, B. & Morrison, M. (Eds.) *Why More is Different: Philosophical issues in condensed matter physics and complex systems* (pp. 41--54). Springer.
 Duncan, A. (2012). *Conceptual Framework of Quantum Field Theory*. Oxford University Press.
+Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. *Physical Review*, 75(11), 1736.
 Earman, J., & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. *Erkenntnis*, 64(3), 305--344.
 Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? *Physical Review*, 47, 777--780.
 Giulini, D., Joos, E., Kiefer, C., Kupsch, J., Stamatescu, I. & Zeh, H.D. (1996). *Decoherence and the Appearance of a Classical World in Quantum Theory*. Springer.
+Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. Perseus Books.
 Haag, R. (1955). On quantum field theories. *Det Kongelige Danske Videnskabernes Selakab*, 29.
 Haag, R., \L{}opusza\'{n}ski, J. T., & Sohnius, M. (1975). All possible generators of supersymmetries of the S-matrix. *Nuclear Physics B*, 88(2), 257--274.
 Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. Springer.
@@ -25,5 +27,6 @@ Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum st
 Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(2), 57--99.
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24). Oxford University Press.
 Seidewitz, E. (2017). Avoiding Haag's Theorem with Parameterized Quantum Field Theory. *Foundations of Physics*, 47(3), 355--374.
+Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.
 't Hooft, G. (2007). Lie Groups in Physics. http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf
 Weinberg, S. (1996). What is quantum field theory, and what did we think it is? *Conceptual foundations of quantum field theory: Proceedings, Symposium and Workshop, Boston, USA, March 1-3, 1996*. http://arxiv.org/abs/hep-th/9702027

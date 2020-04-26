@@ -649,6 +649,7 @@ Feynman:
     -   Mayo: Error statistics [^Mayo2011]
 -   Not a seven-step program
     -   Evidence based, anti-conspiracy, parsimony
+    -   Madsen, M.E. (2017). [The real core of the scientific method and why we should trust it](http://notebook.madsenlab.org/essays/2017/06/23/core-scientific-method.html).
     -   Scientism
     -   See the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
 
