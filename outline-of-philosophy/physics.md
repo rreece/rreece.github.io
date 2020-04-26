@@ -232,10 +232,33 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Bain [^Bain2000]
 -   Earman and Fraser's analysis [^Earman2006]
 -   Klaczynski's analysis [^Klaczynski2016]
+-   *Local Quantum Physics* [^Haag1992]
+
+<center>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">I have really fallen into a rabbit hole over Haag&#39;s theorem. 
+<a href="https://twitter.com/hashtag/HaagsTheorem?src=hash&amp;ref_src=twsrc%5Etfw">#HaagsTheorem</a> 
+<a href="https://twitter.com/hashtag/philsci?src=hash&amp;ref_src=twsrc%5Etfw">#philsci</a> 
+<a href="https://twitter.com/hashtag/philqft?src=hash&amp;ref_src=twsrc%5Etfw">#philqft</a> 
+<a href="https://t.co/6DhBpnWPKQ">pic.twitter.com/6DhBpnWPKQ</a></p>&mdash; Ryan Reece (&commm;RyanDavidReece) 
+<a href="https://twitter.com/RyanDavidReece/status/908051901219971072?ref_src=twsrc%5Etfw">September 13, 2017</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
+<center>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">You all weren&#39;t much help on Haag&#39;s theorem.<br>Duncan, A. (2012). Conceptual Framework of QFT. Oxford. p. 359. 
+<a href="https://t.co/NIHgfNh7s6">pic.twitter.com/NIHgfNh7s6</a></p>&mdash; Ryan Reece (&commm;RyanDavidReece)
+<a href="https://twitter.com/RyanDavidReece/status/910703819515871233?ref_src=twsrc%5Etfw">September 21, 2017</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
 [^Bain2000]: @Bain_2000_Against_particlefield_duality_Asymptotic\.
 [^Earman2006]: @Earman_2006_Haags_theorem_and_its_implications\.
 [^Haag1955]: @Haag_1955_On_quantum_field_theories\.
+[^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
 [^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
 
