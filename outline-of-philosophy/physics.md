@@ -361,9 +361,11 @@ TODO
 TODO
 
 
-#### PRB theorem
+#### PBR theorem
 
-TODO
+-   PBR [^Pusey2012]
+
+[^Pusey2012]: @Pusey_2012_On_the_reality_of_the_quantum_state\.
 
 
 ### The standard model of particle physics
