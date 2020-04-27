@@ -326,7 +326,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Haag-&#321;opusza&#324;ski-Sohnius theorem [^Haag1975]
 -   [Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/)
 -   Martin [^Martin2016]
--   [Ellis, J. (2020). The Higgs, supersymmetry and all that. *CERN Courier*. January 10, 2020.](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/)
+-   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
 
 [^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries\.
 [^Martin2016]: @Martin_2016_A_supersymmetry_primer\.
@@ -411,7 +411,7 @@ TODO
 -   Fine-tuning
 -   Anthropic principle
 -   Relationship to evolution
--   [Richard Dawkins and Steven Weinberg Discuss Science and Religion](https://www.youtube.com/watch?v=EGL8SesIo6Y)
+-   [Richard Dawkins and Steven Weinberg discuss science and religion](https://www.youtube.com/watch?v=EGL8SesIo6Y)
 
 
 ### Complexity

@@ -288,6 +288,7 @@ Alex Rosenberg is a mad dog against emergence. Video:
 
 Part of metaphysical naturalism.
 
+-   Plato: *Phaedrus* 265e
 -   *Natural Kinds* [^Quine1969]
 -   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
 

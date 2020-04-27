@@ -139,6 +139,37 @@ More:
 -   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/) - IEP
 
 
+### Unification programs
+
+-   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
+-   [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
+-   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
+
+Yanofsky, N.S. (2016). Why mathematics works so well:
+
+>   When you have two distinct fields of mathematics and they are shown to be
+>   intimately related in a way that results of one field can be used to get
+>   results of another field, you have a type of unification. An example of
+>   such unification is monstrous moonshine. This subject describes the
+>   shocking connection between the monster group and modular functions.
+>   Another example is the Langlands program which connects Galois groups
+>   in algebraic number theory to automorphic forms and representation theory
+>   of algebraic groups. The Erlangen program can also be seen as a way of
+>   unifying different types of geometries using group theory. In all these
+>   examples of unifications, there is a function (or an isomorphism) from
+>   the domain of discourse of one field to the domain of discourse of another
+>   field. The symmetries of one field (the true mathematical statements) will
+>   than map to symmetries of the other field. Category theory is an entire
+>   branch of mathematics that was created to describe such unifications. The
+>   founders of category theory invented a language that was based on algebraic
+>   topology, which is a branch of mathematics that unifies algebra and
+>   topology. Category theory is now used in many areas to show that seemingly
+>   different parts of mathematics (and physics and theoretical computer science)
+>   are closely related. [^Aguirre2016p153]
+
+[^Aguirre2016]: @Aguirre_2016_Trick_Or_Truth_The_mysterious_connection_between\, p. 153.
+
+
 ### Platonism
 
 #### Pythagoreanism
