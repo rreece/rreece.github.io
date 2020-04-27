@@ -519,6 +519,7 @@ Click to show links
 -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
 -   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
 -   [Square of opposition](https://en.wikipedia.org/wiki/Square_of_opposition)
+-   [Sporadic group](https://en.wikipedia.org/wiki/Sporadic_group)
 -   [Stokes, George (1819-1903)](https://en.wikipedia.org/wiki/Sir_George_Stokes,_1st_Baronet)
 -   [Tarski, Alfred (1901-1983)](https://en.wikipedia.org/wiki/Alfred_Tarski)
 -   [Tarski's undefinability theorem](https://en.wikipedia.org/wiki/Tarski%27s_undefinability_theorem)
