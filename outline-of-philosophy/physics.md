@@ -382,8 +382,9 @@ TODO
 -   TODO: find ref that GRW is empirical
 
 
-#### $\psi$-epistemic interpretations
+#### Epistemic interpretations
 
+-   $\psi$-epistemic interpretations
 -   quantum Bayesianism (QBism)
 
 
