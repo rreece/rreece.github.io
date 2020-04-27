@@ -213,7 +213,7 @@ Plato:
 >   Meno: Somehow, Socrates, I think that what you say is right.
 >
 >   Socrates: I think so too, Meno. I do not insist that my argument is right
->   in all othere respects, but I would contend at all costs both in word
+>   in all other respects, but I would contend at all costs both in word
 >   and in deed as far as I could that we will be better men, braver,
 >   less idle, if we believe that one must search for the things one
 >   does not know, rather than if we believe that it is not possible
