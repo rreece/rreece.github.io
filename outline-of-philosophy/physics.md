@@ -361,9 +361,9 @@ TODO
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
 
 
-#### de Broglie-Bohm mechanics
+#### Bohmian mechanics
 
-TODO
+-   de Broglie-Bohm
 
 
 #### Everettian interpretation
