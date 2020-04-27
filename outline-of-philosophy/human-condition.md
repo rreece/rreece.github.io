@@ -207,6 +207,20 @@ Maudlin:
 >   Seek the truth with an open mind. And it's worthwhile reflecting
 >   what a truth-seeking enterprise looks like.
 
+Plato:
+
+>   Meno: Somehow, Socrates, I think that what you say is right.
+>
+>   Socrates: I think so too, Meno. I do not insist that my argument is right
+>   in all othere respects, but I would contend at all costs both in word
+>   and in deed as far as I could that we will be better men, braver,
+>   less idle, if we believe that one must search for the things one
+>   does not know, rather than if we believe that it is not possible
+>   to find out what we do not know and that we must not look for
+>   it. [^Meno86c]
+
+[^Meno86c]: *Meno* 86c, @Cooper_1997_Plato_Complete_works\, p. 886.
+
 
 #### Religion as a natural phenomena
 

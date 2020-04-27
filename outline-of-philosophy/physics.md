@@ -110,9 +110,11 @@ $$ \hat{U}(x^{\mu}) = e^{ -i \: \hat{P}_\mu \: x^\mu } $$
 
 $$ \langle x | n \rangle = \psi_{n}(x) $$
 
--   Schr&ouml;dinger Equation
+-   Schr&ouml;dinger equation:
 
 $$ \partial_{t} \: |\psi\rangle = -i \hbar \: \hat{H} \: |\psi\rangle $$
+
+-   Heisenberg picture:
 
 $$ i \hbar \: \partial_{t} \: \hat{U}(t) \: |\psi\rangle = \hat{H} \: \hat{U}(t) \: |\psi\rangle $$
 
@@ -147,7 +149,6 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Coleman-Mandula theorem [^Coleman1967]
 -   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification)
 -   CPT theorem
--   LQFT vs AQFT (Wallace)
 
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
 
@@ -158,10 +159,23 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   David Tong
 -   Weinberg
 -   No "2nd quantization"
--   AQFT vs LQFT
 -   Redhead [^Redhead1982]
 -   Redhead [^Redhead1988]
+-   AQFT vs LQFT
+-   *Local Quantum Physics* [^Haag1992]
 
+>   Rudolf [Haag] is not satisfied by a notion of local observables relying
+>   plainly on space and time. Instead he wishes to base the theory on concepts
+>   related to individual processes. This attitude seems to me to move towards a
+>   basic "algebra of procedures", pointing towards a theory of (non-commutative)
+>   space-time. I know that, coming from a very different angle, Alain Connes
+>   also believes the ultimate algebra of basic physics to be a discrete algebra
+>   of elements standing for experimental procedures---following the idea 
+>   that the spatial notions man acquires in his cradle are less basic than
+>   his procedures at [particle] accelerators. [^Kastler2003p6]
+
+[^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
+[^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
 [^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
 
@@ -220,7 +234,6 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Haag's theorem [^Haag1955]
     -   The interaction picture does not exist in interacting relativistic QFT.
     -   States in the free theory are unitarily inequivalent to those in interacting relativistic QFT.
-    -   *Local Quantum Physics* [^Haag1992]
 -   Discussion:
     -   Malament [^Malament1996]
     -   Teller [^Teller1997p115]
@@ -258,7 +271,6 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 [^Duncan2012]: @Duncan_2012_Conceptual_Framework_of_Quantum_Field_Theory\.
 [^Earman2006]: @Earman_2006_Haags_theorem_and_its_implications\.
 [^Haag1955]: @Haag_1955_On_quantum_field_theories\.
-[^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
 [^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
 [^Teller1997p115]: @Teller_1997_An_Interpretive_Introduction_to_Quantum_Field\, p. 115.

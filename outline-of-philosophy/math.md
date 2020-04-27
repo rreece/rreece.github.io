@@ -170,15 +170,18 @@ More:
 ### Nominalism
 
 -   Antirealist
+
+Antisthenes:
+
+>   A horse I can see, but horsehood I cannot see.
+
+-   Plato: "Third Man Argument" in *Parmenides*
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   medieval nominalism
 -   positivism, Carnap, ESO
 -   *Science Without Numbers* [^Field1980]
 -   Bueno [^Bueno2013]
 
-Antisthenes:
-
->   A horse I can see, but horsehood I cannot see.
 
 [^Bueno2013]: @Bueno_2013_Nominalism_in_the_philosophy_of_mathematics\.
 [^Field1980]: @Field_1980_Science_Without_Numbers\.
@@ -392,6 +395,7 @@ Click to show links
 -   [Nominalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/nominalism-mathematics/)
 -   [Non-Deductive Methods in Mathematics](http://plato.stanford.edu/entries/mathematics-nondeductive/)
 -   [Ockham, William of (1287-1347)](https://plato.stanford.edu/entries/ockham/)
+-   [Plato's *Parmenides*](https://plato.stanford.edu/entries/plato-parmenides/)
 -   [Platonism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/platonism-mathematics/)
 -   [Platonism in Metaphysics](http://plato.stanford.edu/entries/platonism/)
 -   [Principia Mathematica](http://plato.stanford.edu/entries/principia-mathematica/)
@@ -492,6 +496,8 @@ Click to show links
 -   [Metamathematics](https://en.wikipedia.org/wiki/Metamathematics)
 -   [Modus ponens](https://en.wikipedia.org/wiki/Modus_ponens)
 -   [Modus tollens](https://en.wikipedia.org/wiki/Modus_tollens)
+-   [Monster group](https://en.wikipedia.org/wiki/Monster_group)
+-   [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)
 -   [Natural number](http://en.wikipedia.org/wiki/Natural_number)
 -   [Newton, Isaac (1642-1726/7)](https://en.wikipedia.org/wiki/Isaac_Newton)
 -   [Noether, Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
@@ -507,6 +513,7 @@ Click to show links
 -   [*Principia Mathematica* (1910)](https://en.wikipedia.org/wiki/Principia_Mathematica)
 -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
 -   [Pythagoreanism](https://en.wikipedia.org/wiki/Pythagoreanism)
+-   [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis)
 -   [Rule of inference](https://en.wikipedia.org/wiki/Rule_of_inference)
 -   [Russell, Bertrand (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell)
 -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
