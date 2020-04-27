@@ -68,21 +68,6 @@ Issues and positions
 -   Wave-particle duality misconceptions.  Fields are more fundamental than particles.
 -   The measurement problem.  Decoherence.  The Born rule again.
 -   Decoherence brings quantum logic to classical logic.
--   Bell's inequality
--   PBR theorem. Wikipedia: Either the quantum state corresponds to a physically
-    real object and is not merely a statistical tool, or else all quantum states,
-    including non-entangled ones, can communicate by action at a distance. 
--   Gisin's Theorem
-
->   The withdrawal of philosophy into a "professional" shell of its own has had 
->   disastrous consequences. The younger generation of physicists, the Feynmans,
->   the Schwingers, etc., may be very bright; they may be more intelligent than
->   their predecessors, than Bohr, Einstein, Schr&ouml;dinger, Boltzmann, 
->   Mach and so on. But they are uncivilized savages, they lack in philosophical 
->   depth---and this is the fault of the very same idea of professionalism which
->   you are now defending.
-
--- from a letter in Appendix B of Feyerabend's *Against Method*
 
 [^Ney2013]: @Ney_2013_The_Wave_Function_Essays_on_the_metaphysics\.
 
@@ -344,6 +329,17 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 ### Interpretations of quantum mechanics
 
+>   The withdrawal of philosophy into a "professional" shell of its own has had 
+>   disastrous consequences. The younger generation of physicists, the Feynmans,
+>   the Schwingers, etc., may be very bright; they may be more intelligent than
+>   their predecessors, than Bohr, Einstein, Schr&ouml;dinger, Boltzmann, 
+>   Mach and so on. But they are uncivilized savages, they lack in philosophical 
+>   depth---and this is the fault of the very same idea of professionalism which
+>   you are now defending.
+
+-- from a letter in Appendix B of Feyerabend's *Against Method*
+
+
 #### EPR paradox
 
 TODO
@@ -391,6 +387,10 @@ TODO
 #### PBR theorem
 
 -   PBR [^Pusey2012]
+-   Wikipedia: Either the quantum state corresponds to a physically
+    real object and is not merely a statistical tool, or else all quantum states,
+    including non-entangled ones, can communicate by action at a distance. 
+-   Gisin's Theorem
 
 [^Pusey2012]: @Pusey_2012_On_the_reality_of_the_quantum_state\.
 
