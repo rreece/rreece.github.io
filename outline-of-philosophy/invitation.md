@@ -118,6 +118,7 @@ Sagan:
 >   is going to blowup in our faces.
 >   I mean---who is running the science and technology in a democracy
 >   if the people don't know anything about it? ...
+>
 >   Science is more than a body of knowledge; it's a way of thinking---a
 >   way of skeptically interrogating the universe with a fine
 >   understanding of human fallibility.
