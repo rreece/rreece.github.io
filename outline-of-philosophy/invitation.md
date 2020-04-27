@@ -102,7 +102,7 @@ to cure diseases, to re-engineer the world and ourselves...
 
 At the same time, basic disagreements about the nature of science and
 its implications for a worldview
-are central to many of our cultural and politcal divisions.
+are central to many of our cultural and political divisions.
 
 TODO: pick-up writing here.
 
@@ -118,7 +118,7 @@ Feynman:
 >   the same as they were in the past. At some time people thought that the
 >   potential that people had was not developed because everyone was
 >   ignorant and that education was the solution to the problem, that if
->   all people were educated, we could perhaps all be Voltaires. But it
+>   all people were educated, we could perhaps all be Voltaire's. But it
 >   turns out that falsehood and evil can be taught as easily as good.
 >   Education is a great power, but it can work either way. I have heard it
 >   said that the communication between nations should lead to an
@@ -128,27 +128,44 @@ Feynman:
 >   propaganda as well as real and valuable information. Communication is
 >   a strong force, also, but either for good or evil. [^Feynman1998p31]
 
--   [Carl Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w) [^Rose1996]
+-   [Carl Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w)
 -   [Why Do Many Reasonable People Doubt Science?](https://www.nationalgeographic.com/magazine/2015/03/science-doubters-climate-change-vaccinations-gmos/) [^Achenbach2015]
 -   ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) [^Leah2018]
 
-[^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. 
-[^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
-[^Rose1996]: @Rose_1996_Carl_Sagan_discusses_Demon_Haunted_World\.
-[^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
+Sagan:
+
+>   We've arranged a society based on science and technology in which
+>   nobody understands anything about science and technology.
+>   And this combustible mixture of ignorance and power, sooner or later,
+>   is going to blowup in our faces.
+>   I mean---who is running the science and technology in a democracy
+>   if the people don't know anything about it? ...
+>   Science is more than a body of knowledge; it's a way of thinking---a
+>   way of skeptically interrogating the universe with a fine
+>   understanding of human fallibility.
+>   If we are not able to ask skeptical questions---to
+>   interrogate those who tell us that something is true---to
+>   be skeptical of those in authority---then
+>   we're up for grabs for the next charlatan, political or religious,
+>   who comes ambling along. [^Rose1996]
 
 Who do I want to reach with this argument?
 
 -   Anyone interested in the engagement of science and philosophy.
 -   Skeptics of science and anti-naturalists of one form or another that see science
     as just one of many competing claims to knowledge.
--   Allies in illucidating the demarcation of what science is,
+-   Allies in elucidating the demarcation of what science is,
     and what sorts of claims it justifies.
 -   Can this be accessible and interesting to both academic and lay audiences?
 
 I hope that is enough of an invitation to catch your interest.
 In the next section, we will survey the history of science and
 examine what can be said of the "[scientific method](scientific-method.html)."
+
+[^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. 
+[^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
+[^Rose1996]: @Rose_1996_Carl_Sagan_discusses_Demon_Haunted_World\.
+[^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 
 
 <!-- REFERENCES -->

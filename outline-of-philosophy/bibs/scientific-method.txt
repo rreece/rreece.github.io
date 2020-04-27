@@ -9,6 +9,7 @@ de Swart, H. (2018). *Philosophical and Mathematical Logic*. Springer.
 Davis, N. (2015). To Explain the World review. *The Guardian*. https://www.theguardian.com/books/2015/feb/22/to-explain-the-world-steven-weinberg-history-great-thinkers [February 21, 2015]
 Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/abduction/
 Doyle, A.C. (1890). *The Sign of the Four*.
+Feyerabend, P. (1974). *Against Method*. Verso.
 Feynman, R.P. (1998). *The Meaning of It All*. Addison-Wesley.
 French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
 Frigg, R. & Nguyen, J. (2017). Models and representation. In *Springer Handbook of Model-Based Science* (pp. 49--102). Springer.

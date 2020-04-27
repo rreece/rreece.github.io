@@ -26,6 +26,7 @@ starting with [rationalism vs empiricism](#rationalism-vs-empiricism).
 
 ![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig:timeline-of-major-philosophers-since-1200}
 
+
 #### Antiquity
 
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
@@ -106,6 +107,7 @@ Weinberg:
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
     -   Ockham's razor as a hint at parsimony and abduction
 
+
 #### Early Modern Period
 
 -   [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
@@ -129,6 +131,7 @@ Weinberg:
     -   No teleology. Matter plenum, vorticies.
     -   *Meditations on First Philosophy* (1641) [^Descartes2008]
 
+
 #### The Age of Enlightenment
 
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
@@ -147,6 +150,7 @@ Weinberg:
     -   *An Enquiry Concerning Human Understanding* (1748) [^Hume2007]
 -   [Kant, Immanuel (1724-1804)](https://en.wikipedia.org/wiki/Immanuel_Kant)
     -   *Critique of Pure Reason* (1781) [^Kant1996]
+
 
 #### Canonical classical physics
 
@@ -169,6 +173,7 @@ Weinberg:
 -   [Gibbs, Josiah Willard (1839-1903)](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs)
 -   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 
+
 #### "Scientists"
 
 -   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
@@ -184,6 +189,7 @@ Weinberg:
 -   [Pasteur, Louis (1822-1895)](https://en.wikipedia.org/wiki/Louis_Pasteur)
 -   [Ladd-Franklin, Christine (1847-1930)](https://en.wikipedia.org/wiki/Christine_Ladd-Franklin)
 -   [Discovery of Neptune (1846)](https://en.wikipedia.org/wiki/Discovery_of_Neptune)
+
 
 #### Biological evolution
 
@@ -594,7 +600,15 @@ Feynman:
 [^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
 [^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
 
-#### Models of science
+
+#### No: There is no unified "scientific method"
+
+-   *Against Method* [^Feyerabend1974]
+
+[^Feyerabend1974]: @Feyerabend_1974_Against_Method\.
+
+
+#### Yes: Models of science
 
 -   Hypothetico-deductive model
 -   Positivism, verificationism
