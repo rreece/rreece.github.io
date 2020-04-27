@@ -19,8 +19,6 @@ Issues and positions
 
 ### Risk
 
-TODO.
-
 -   Anthropic bias [^Bostrom2002]
 
 [^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
@@ -40,7 +38,9 @@ TODO.
 
 ### Artificial intelligence
 
-TODO.
+-   Russell & Norvig [^Russell1995]
+
+[^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 
 
 My thoughts

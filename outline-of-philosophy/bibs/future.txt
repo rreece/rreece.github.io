@@ -1,5 +1,6 @@
 Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. Routledge.
 Bostrom, N. (2003). Are you living in a computer simulation? *Philosophical Quarterly*, 53, 243--255.
 Bostrom, N. (2011). A patch for the simulation argument. *Analysis*, 71, 54--61*.
+Russell, S. & Norvig, P. (1995). *Artificial Intelligence: A modern approach* (3rd ed.). Pearson.
 Urban, T. (2015). The AI Revolution: The Road to Superintelligence. https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
 Vinge, V. (1993). The Coming Technological Singularity. https://edoras.sdsu.edu/~vinge/misc/singularity.html

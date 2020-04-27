@@ -87,6 +87,7 @@ Branches of Buddhism:
 
 See also:
 
+-   [The Middle Path](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
 -   Buddhism and Stoicism
 -   Buddhism and Pyrrhonism
@@ -100,9 +101,9 @@ See also:
     -   focus on emotion
 -   criticism:
     -   Alain de Botton
-        -   The School of Life: [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w)
-        -   Alain de Botton [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
-        -   Alain de Botton [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
+        -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
+        -   [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
+        -   [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
 
 
 ### Biology
@@ -392,6 +393,7 @@ Click to show links
 -   [Heidegger, Martin (1889-1976)](https://en.wikipedia.org/wiki/Martin_Heidegger)
 -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
 -   [Lucretius (c. 99-55 BCE)](https://en.wikipedia.org/wiki/Lucretius)
+-   [Middle Path](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness)
     -   [Anapanasati](https://en.wikipedia.org/wiki/Anapanasati)
     -   [Satipatthana](https://en.wikipedia.org/wiki/Satipatthana)
