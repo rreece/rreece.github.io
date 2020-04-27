@@ -32,6 +32,11 @@ Issues and positions
     -   [Hamilton, William Rowan (1805-1865)](http://en.wikipedia.org/wiki/William_Rowan_Hamilton)
     -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
     -   [Noether, Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
+-   Classical mechanics
+-   Electrodynamics
+-   *The Feynman Lectures on Physics* [^Feynman1963]
+
+[^Feynman1963]: @Feynman_1963_The_Feynman_Lectures_on_Physics_Volume_I\.
 
 
 ### Statistical physics
@@ -149,8 +154,10 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Coleman-Mandula theorem [^Coleman1967]
 -   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification)
 -   CPT theorem
+-   Feynman's Nobel Lecture on QED [^Feynman1965]
 
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
+[^Feynman1965]: @Feynman_1965_The_Development_of_the_Space_Time_View_of_Quantum\.
 
 
 #### Foundations
@@ -351,6 +358,11 @@ Interpretations:
 
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
 
+-   *Something Deeply Hidden* [^Carroll2019]
+
+[^Carroll2019]: @Carroll_2019_Something_Deeply_Hidden\.
+
+
 #### EPR paradox
 
 TODO
@@ -401,7 +413,23 @@ TODO
 [^Martin2016p66]: @Martin_2016_A_supersymmetry_primer\, p. 66.
 
 
-### Cosmology
+#### Criticisms
+
+-   *Farewell to Reality* [^Baggott2013]
+
+[^Baggott2013]: @Baggott_2013_Farewell_to_Reality_How_modern_physics_has\.
+
+
+### Gravity and cosmology
+
+#### General relativity
+
+-   *Spacetime and Geometry* [^Carroll2004]
+
+[^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
+
+
+#### Cosmology
 
 -   Big bang
 -   Dark matter
@@ -465,6 +493,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 -   gravity: from aether to not to fabric
 -   Sean Carroll QM: what there is, is more than we can see.
+-   Reece, R. (2017). [Quora: What is currently the best explanation for how and why the quantum wave function collapses?](https://www.quora.com/What-is-currently-the-best-explanation-for-how-and-why-the-quantum-wave-function-collapses/answer/Ryan-Reece)
 
 
 Annotated bibliography

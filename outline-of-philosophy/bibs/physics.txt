@@ -1,15 +1,20 @@
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
+Baggott, J. (2013). *Farewell to Reality: How modern physics has betrayed the search for scientific truth*. Pegasus Books.
 Bain, J. (2000). Against particle/field duality: Asymptotic particle states and interpolating fields in interacting QFT, or Who's afraid of Haag's theorem? *Erkenntnis*, 53(3), 375--406.
 Bain, J. (2013). Effective field theories. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 224--254). Oxford University Press.
 Bain, J. (2013). Emergence in effective field theories. *European Journal for Philosophy of Science*, 3(3), 257--273.
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
 Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
+Carroll, S. (2004). *Spacetime and Geometry*. Addison Wesley.
+Carroll, S. (2019). *Something Deeply Hidden*. Dutton.
 Coleman, S. & Mandula, J. (1967). All possible symmetries of the S matrix. *Physical Review*, 159(5), 1251--1256.
 Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. In Falkenburg, B. & Morrison, M. (Eds.) *Why More is Different: Philosophical issues in condensed matter physics and complex systems* (pp. 41--54). Springer.
 Duncan, A. (2012). *Conceptual Framework of Quantum Field Theory*. Oxford University Press.
 Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. *Physical Review*, 75(11), 1736.
 Earman, J., & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. *Erkenntnis*, 64(3), 305--344.
 Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? *Physical Review*, 47, 777--780.
+Feynman, R.P. (1963). *The Feynman Lectures on Physics, Volume I*. California Institute of Technology. http://www.feynmanlectures.caltech.edu/I_03.html
+Feynman, R.P. (1965). The Development of the Space-Time View of Quantum Electrodynamics. Nobel Lecture, December 11, 1965. http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html
 Giulini, D., Joos, E., Kiefer, C., Kupsch, J., Stamatescu, I. & Zeh, H.D. (1996). *Decoherence and the Appearance of a Classical World in Quantum Theory*. Springer.
 Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. Perseus Books.
 Haag, R. (1955). On quantum field theories. *Det Kongelige Danske Videnskabernes Selakab*, 29.
