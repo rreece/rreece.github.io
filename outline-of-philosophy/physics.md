@@ -324,7 +324,10 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 #### Supersymmetry
 
 -   Haag-&#321;opusza&#324;ski-Sohnius theorem [^Haag1975]
--   [Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/)
+-   Deligne's theorem on tensor categories
+    -   [Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/) - physicsforums.com
+    -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - ncatlab.org
+    -   [supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - ncatlab.org
 -   Martin [^Martin2016]
 -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
 

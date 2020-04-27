@@ -167,7 +167,7 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 >   different parts of mathematics (and physics and theoretical computer science)
 >   are closely related. [^Aguirre2016p153]
 
-[^Aguirre2016]: @Aguirre_2016_Trick_Or_Truth_The_mysterious_connection_between\, p. 153.
+[^Aguirre2016p153]: @Aguirre_2016_Trick_Or_Truth_The_mysterious_connection_between\, p. 153.
 
 
 ### Platonism
