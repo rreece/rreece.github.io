@@ -147,6 +147,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Coleman-Mandula theorem [^Coleman1967]
 -   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification)
 -   CPT theorem
+-   LQFT vs AQFT (Wallace)
 
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
 
@@ -217,16 +218,20 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 #### Haag's theorem
 
 -   Haag's theorem [^Haag1955]
-    -   The interaction picture does not exist in interacting QFT.
--   Malament [^Malament1996]
--   Bain [^Bain2000]
--   Earman and Fraser's analysis [^Earman2006]
--   Klaczynski's analysis [^Klaczynski2016]
--   *Local Quantum Physics* [^Haag1992]
--   Teller [^Teller1997p115]
--   Duncan [^Duncan2012]
--   QFT requires an ultraviolet regulator (a cutoff, a lattice),
-    and Haag's theorem does not apply when the regulator is in place.
+    -   The interaction picture does not exist in interacting relativistic QFT.
+    -   States in the free theory are unitarily inequivalent to those in interacting relativistic QFT.
+    -   *Local Quantum Physics* [^Haag1992]
+-   Discussion:
+    -   Malament [^Malament1996]
+    -   Teller [^Teller1997p115]
+    -   Earman and Fraser's analysis [^Earman2006]
+    -   Klaczynski's analysis [^Klaczynski2016]
+-   Resolution:
+    -   Bain [^Bain2000]
+    -   Duncan [^Duncan2012]
+    -   Wallace
+    -   QFT requires an ultraviolet regulator (a cutoff, a lattice),
+        and Haag's theorem does not apply when the regulator is in place.
 
 <center>
 <blockquote class="twitter-tweet">
