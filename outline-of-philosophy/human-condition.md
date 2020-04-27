@@ -28,6 +28,29 @@ Issues and positions
 >   Humans migrated to the Americas about 15,000 years ago in the Upper
 >   Paleolithic. [^WikiAncientHistory]
 
+Feynman:
+
+>   We are all sad when we think of the wondrous potentialities that human
+>   beings seem to have and when we contrast these potentialities with the
+>   small accomplishments that we have. Again and again people have thought
+>   that we could do much better. People in the past had, in the nightmare
+>   of their times, dreams for the future, and we of their future have,
+>   although many of those dreams have been surpassed, to a large extent
+>   the same dreams. The hopes for the future today are in a great measure
+>   the same as they were in the past. At some time people thought that the
+>   potential that people had was not developed because everyone was
+>   ignorant and that education was the solution to the problem, that if
+>   all people were educated, we could perhaps all be Voltaire's. But it
+>   turns out that falsehood and evil can be taught as easily as good.
+>   Education is a great power, but it can work either way. I have heard it
+>   said that the communication between nations should lead to an
+>   understanding and thus a solution to the problem of developing the
+>   potentialities of man. But the means of communication can be channeled
+>   and choked. What is communicated can be lies as well as truth,
+>   propaganda as well as real and valuable information. Communication is
+>   a strong force, also, but either for good or evil. [^Feynman1998p31]
+
+[^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
 [^WikiAncientHistory]: [en.wikipedia.org/wiki/Ancient_history](https://en.wikipedia.org/wiki/Ancient_history)
 
 
