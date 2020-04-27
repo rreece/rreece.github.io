@@ -236,6 +236,7 @@ Weinberg:
 -   *a priori* vs *a posteriori*
 -   Skepticism
 -   Lead to the Age of Enlightenment
+-   Development of calculus
 
 
 #### Early empiricists
@@ -269,35 +270,6 @@ Weinberg:
 
 [^Kant1996]: @Kant_1996_Critique_of_Pure_Reason\. 
 [^Newton2016]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\.
-
-
-#### Development of calculus
-
-![Leibniz's notation of integration (*summa*) and differentiation (*differentia*)
-    summarized in the margin of his notes in 1675
-    (photo by [S. Wolfram](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
-     of notes in the Leibniz-Archiv in Hanover, Germany).
-    ](img/leibniz-1675-summa-and-diff.jpg){#fig:leibniz-1675-summa-and-diff}
-
-
--   James Gregory (1638-1675) 
--   Isaac Barrow (1630-1677)
-    -   Fundamental theorem of calculus in
-        Proposition 11, Lecture 10, of his *Lectiones Geometricae*, published in 1670.
--   Isaac Newton (1642-1727)
-    -   Newton claimed to have the ideas of calculus in the mid 1660s.
-    -   In 1669, Newton wrote an article on infinite series with ideas leading to calculus: "De analysi per aequationes numero terminorum infinitas", which wasn't published until 1711, 42 years later.
-    -   *Philosophi&aelig; Naturalis Principia Mathematica* (1687)
--   Gottfried Wilhelm Leibniz (1646-1716)
-    -   Leibniz first used $dx$ in publication in        
-        Leibniz, G.W. (1684). Nova methodus pro maximis et minimis. *Acta Eruditorum*.
-    -   Leibniz first used his intergral sign, $\int$, in publication in         
-        Leibniz, G.W. (1686). De geometria recondita et analysi indivisibilium atque infinitorum. *Acta Eruditorum*.
-    -   Wolfram, S. (2013). [Dropping in on Gottfried Leibniz](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/).
--   Aldrich, John. (?). [Earliest uses of symbols of calculus](http://jeff560.tripod.com/calculus.html).
--   [Leibniz-Newton calculus controversy](https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy)
-    -   Wikipedia: In 1849, C. I. Gerhardt, while going through Leibniz's manuscripts, found extracts from Newton's "De analysi per aequationes numero terminorum infinitas".
-    -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
 
 
 ### Analytic/synthetic distinction
