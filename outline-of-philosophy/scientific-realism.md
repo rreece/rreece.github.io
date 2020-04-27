@@ -217,6 +217,8 @@ Schumm:
 >   mathematics and natural science far exceeds the self-contained boundaries
 >   within which it was first developed. [^Schumm2004]
 
+-   Putnam: No miracles argument
+
 [^Poincare2014]: @Poincare_2014_The_Foundations_of_Science_Science\.
 [^Rovelli2003]: @Rovelli_2003_A_dialog_on_quantum_gravity\, p. 5.
 [^Einstein1922]: @Einstein_1922_Geometry_and_Experience\.
