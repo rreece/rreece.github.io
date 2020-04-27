@@ -178,6 +178,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 -   Vaccuum bubble cancelation
 -   Dyson series
 -   LSZ reduction formula [^Lehmann1955]
+-   Haag-Ruelle scattering theory
 -   Feynman diagrams and Feynman rules
 -   Martin [^Martin2018]
 
@@ -216,12 +217,16 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 #### Haag's theorem
 
 -   Haag's theorem [^Haag1955]
+    -   The interaction picture does not exist in interacting QFT.
 -   Malament [^Malament1996]
 -   Bain [^Bain2000]
 -   Earman and Fraser's analysis [^Earman2006]
 -   Klaczynski's analysis [^Klaczynski2016]
 -   *Local Quantum Physics* [^Haag1992]
+-   Teller [^Teller1997p115]
 -   Duncan [^Duncan2012]
+-   QFT requires an ultraviolet regulator (a cutoff, a lattice),
+    and Haag's theorem does not apply when the regulator is in place.
 
 <center>
 <blockquote class="twitter-tweet">
@@ -251,6 +256,7 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 [^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
 [^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
+[^Teller1997p115]: @Teller_1997_An_Interpretive_Introduction_to_Quantum_Field\, p. 115.
 
 
 ### Exotics in quantum field theory
@@ -648,7 +654,7 @@ Click to show links
 -   [Little hierarchy problem](https://en.wikipedia.org/wiki/Little_hierarchy_problem)
 -   [Locality, Principle of](https://en.wikipedia.org/wiki/Principle_of_locality)
 -   [Local hidden variable theory](https://en.wikipedia.org/wiki/Local_hidden_variable_theory)
--   [Local quantum field theory](https://en.wikipedia.org/wiki/Local_quantum_field_theory)
+-   [Local (algebraic) quantum field theory](https://en.wikipedia.org/wiki/Local_quantum_field_theory)
 -   [Loopholes in Bell test experiments](https://en.wikipedia.org/wiki/Loopholes_in_Bell_test_experiments)
 -   [Mach's principle](https://en.wikipedia.org/wiki/Mach%27s_principle)
 -   [Measurement in quantum mechanics](https://en.wikipedia.org/wiki/Measurement_in_quantum_mechanics)
