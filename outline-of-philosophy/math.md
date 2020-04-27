@@ -80,7 +80,6 @@ Issues and positions
      of notes in the Leibniz-Archiv in Hanover, Germany).
     ](img/leibniz-1675-summa-and-diff.jpg){#fig:leibniz-1675-summa-and-diff}
 
-
 -   James Gregory (1638-1675) 
 -   Isaac Barrow (1630-1677)
     -   Fundamental theorem of calculus in
@@ -190,6 +189,7 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 
 -   Neopythagoreanism: Tegmark. (2008). "The mathmatical universe". [^Tegmark2008]
     -   Mathematical Universe Hypothesis (MUH)
+-   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
 
 ![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
 
