@@ -191,7 +191,8 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 
 #### Physicalism
 
--   [Summary of Lucretius' *De rerum natura* by M. McGoodwin](https://www.mcgoodwin.net/pages/otherbooks/tlc_rerumnatura.html)
+-   Lucretius
+    -   [Summary of Lucretius' *De rerum natura* by M. McGoodwin](https://www.mcgoodwin.net/pages/otherbooks/tlc_rerumnatura.html)
     -   Greenblatt, S. (2011). *The Swerve*. [^Greenblatt2011]
     -   Greenblatt, S. (2011). The answer man. [^Greenblatt2011ny]
     -   No teleology
