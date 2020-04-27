@@ -317,12 +317,33 @@ Jim Al-Khalili tells the story of the greatest scientific discovery ever - that 
 
 ### Interpretations of quantum mechanics
 
+Interpretations:
+
 -   Copenhagen
 -   de Broglie-Bohm
 -   Everett
--   others
+-   GRW
+-   quantum Bayesianism (QBism)
+-   $\psi$-epistemic
+-   relational quantum mechanics
+-   transactional quantum mechanics
+-   ...
 
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
+
+#### EPR paradox
+
+TODO
+
+
+#### Bell's theorem
+
+TODO
+
+
+#### PRB theorem
+
+TODO
 
 
 ### The standard model of particle physics
