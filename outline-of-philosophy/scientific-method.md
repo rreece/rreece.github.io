@@ -531,11 +531,11 @@ French:
 
 Model the theory:
 
-$$ \text{Theory} \longrightarrow \text{Model} $$
+$$ \text{Theory} + \text{Modeling} \longrightarrow \text{Model} $$
 
 Fit the model to the data to make inferences on the theory:
 
-$$ \text{Data} \longrightarrow \text{Model} \longrightarrow \text{Theory(improved)} $$
+$$ \text{Model} + \text{Data} + \text{Statistical Analysis} \longrightarrow \text{Model(improved)} \longrightarrow \text{Theory(improved)} $$
 
 
 #### Models represent theories
