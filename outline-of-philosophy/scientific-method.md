@@ -642,24 +642,10 @@ Feynman:
 >   and then recheck them, to be sure that you understand what all the
 >   conditions are and that you did not misinterpret what you did. [^Feynman1998p17]
 
+-   TODO: model of science taught in high schools---form a hypothesis etc.
+
 [^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
 [^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
-
-
-#### No: There is no unified "scientific method"
-
--   *Against Method* [^Feyerabend1974]
--   McComas
-    -   Ten myths of science: Reexamining what we think about the nature of science [^McComas1996]
-    -   The principal elements of the nature of science: Dispelling myths [^McComas2002]
-    -   Seeking historical examples to illustrate key aspects of the nature of science [^McComas2008]
--   Allain: What's wrong with the scientific method? [^Allain2013]
-
-[^Allain2013]: @Allain_2013_Whats_wrong_with_the_scientific_method\.
-[^Feyerabend1974]: @Feyerabend_1974_Against_Method\.
-[^McComas1996]: @McComas_1996_Ten_myths_of_science_Reexamining_what_we_think_we\.
-[^McComas2002]: @McComas_2002_The_principal_elements_of_the_nature_of_science\.
-[^McComas2008]: @McComas_2008_Seeking_historical_examples_to_illustrate_key\.
 
 
 #### Yes: Models of science
@@ -699,6 +685,22 @@ Feynman:
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^NewtonpX]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\, p. TODO.
 [^Popper1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
+
+
+#### No: There is no unified "scientific method"
+
+-   *Against Method* [^Feyerabend1974]
+-   McComas
+    -   Ten myths of science: Reexamining what we think about the nature of science [^McComas1996]
+    -   The principal elements of the nature of science: Dispelling myths [^McComas2002]
+    -   Seeking historical examples to illustrate key aspects of the nature of science [^McComas2008]
+-   Allain: What's wrong with the scientific method? [^Allain2013]
+
+[^Allain2013]: @Allain_2013_Whats_wrong_with_the_scientific_method\.
+[^Feyerabend1974]: @Feyerabend_1974_Against_Method\.
+[^McComas1996]: @McComas_1996_Ten_myths_of_science_Reexamining_what_we_think_we\.
+[^McComas2002]: @McComas_2002_The_principal_elements_of_the_nature_of_science\.
+[^McComas2008]: @McComas_2008_Seeking_historical_examples_to_illustrate_key\.
 
 
 ### Scientific knowledge and realism

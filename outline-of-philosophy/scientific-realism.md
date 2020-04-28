@@ -391,7 +391,7 @@ Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/
 
 ### Postpositivism
 
-A metatheoretical stance that critiques and amends positivism. While positivists believe that the researcher and the researched person are independent of each other, postpositivists accept that theories, background, knowledge and values of the researcher can influence what is observed. They believe that human knowledge is based not on unchallengeable, rock-solid foundations, but rather upon human conjectures.
+Various reactions to positivism.
 
 -   Karl Popper (1902-1994)
     -   *falsifiability* over *verifiability*
