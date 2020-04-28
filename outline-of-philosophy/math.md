@@ -46,8 +46,10 @@ Issues and positions
 
 -   roots from Babylonians
 -   Kronecker, Leopold (1823-1891)
+-   arithmetic vs abstract algebra
 -   [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
     -   [&Eacute;variste Galois (1811-1832))](https://en.wikipedia.org/wiki/%C3%89variste_Galois)
+    -   [Sophus Lie (1842-1899)](https://en.wikipedia.org/wiki/Sophus_Lie)
     -   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
 -   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
 -   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
@@ -505,6 +507,8 @@ Click to show links
 -   [Euler, Leonhard (1707-1783)](https://en.wikipedia.org/wiki/Leonhard_Euler)
 -   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
 -   [Frege, Gottlob (1848-1925)](http://en.wikipedia.org/wiki/Gottlob_Frege)
+-   [Galois, &Eacute;variste (1811-1832))](https://en.wikipedia.org/wiki/%C3%89variste_Galois)
+-   [Lie, Sophus (1842-1899)](https://en.wikipedia.org/wiki/Sophus_Lie)
 -   [Gauss, Carl Friedrich (1777-1855)](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)
 -   [Gentzen's consistency proof](http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof)
 -   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
