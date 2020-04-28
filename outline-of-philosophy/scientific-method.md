@@ -519,8 +519,6 @@ Arthur Conan Doyle:
 
 #### What's a model?
 
-#### Models represent theories
-
 French:
 
 >   [S]cientist *don't* simply deduce experimental/observational consequences;
@@ -530,6 +528,17 @@ French:
 >   So a scientist may build a simplified model, containing significant
 >   idealizations that allow the scientist to ignore certain factors,
 >   for example, and [more] easily relate the theory to observations. [^French2007p81]
+
+Model the theory:
+
+$$ \text{Theory} \longrightarrow \text{Model} $$
+
+Fit the model to the data to make inferences on the theory:
+
+$$ \text{Data} \longrightarrow \text{Model} \longrightarrow \text{Theory(improved)} $$
+
+
+#### Models represent theories
 
 Model the theory:
 
@@ -579,6 +588,7 @@ Frigg:
 -   The issue is purely semantic. The important point of the above discussion
     is that a model stands-in as a representative of a theory
     that can be compared with the data.
+-   TODO: find good example refs
 
 [^French2007p81]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. 81.
 [^Frigg2017]: @Frigg_2017_Models_and_representation\.
