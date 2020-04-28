@@ -448,7 +448,7 @@ TODO:
     -   [Invariant mass distribution of jet pairs produced in association with a $W$ boson in $p\bar{p}$ collisions at $\sqrt{s}$ = 1.96 TeV](https://www-cdf.fnal.gov/physics/ewk/2011/wjj/7_3.html)
     -   Dorigo, T. (2011). [The jet energy scale as an explanation of the CDF signal](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886).
 
-![Demonstration of sensitivity to the jet energy scale for an alleged excess in $Wjj$ by [Dorigo, T. (2011)](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886).](img/AnimatedDijet.gif){#fig:AnimatedDijet}
+![Demonstration of sensitivity to the jet energy scale for an alleged excess in $Wjj$ by [Tommaso Dorigo (2011)](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886).](img/AnimatedDijet.gif){#fig:AnimatedDijet}
 
 
 ### Exploratory data analysis
