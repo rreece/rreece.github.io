@@ -39,6 +39,8 @@ Issues and positions
 ### Artificial intelligence
 
 -   Russell & Norvig [^Russell1995]
+-   Video: Carroll, S. & Russell, S. (2020). [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
+-   Russell: AI gives us the Midas touch
 
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 

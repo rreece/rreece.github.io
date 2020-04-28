@@ -650,9 +650,11 @@ Feynman:
 ### Scientific knowledge and realism
 
 -   Knowledge = JTB-G. Plato.
+    -   TODO: finde ref
+-   Gettier cases
+    -   TODO: finde ref
 -   Systematic uncertainties.  Failed justification.
--   Gettier cases.
--   Feynman
+    -   TODO: discussion by me
 
 Feynman:
 
@@ -661,12 +663,12 @@ Feynman:
 >   varying degrees of certainty. Some of them are most unsure. Some of
 >   them nearly sure; but none of them is certain. [^Feynman1998p26]
 
+TODO sort out:
+
 -   Hume on the problem of induction and the uniformity of nature.
 -   Uniformitarianism: Unless we have a collective and/or non-local conspiracies,
     we can probablistically justify assumptions of uniformity.
 -   Ontological implications of science.
--   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
--   See the [Outline on scientific realism](scientific-realism.html).
 
 ![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g)).](img/knowledge.png){#fig:knowledge-jtb-g}
 
@@ -679,6 +681,11 @@ Russell:
 >   five o'clock; on the basis of this you believe that it's five o'clock.
 >   Your belief is justified, and as it happens it is five o'clock.
 >   But unbeknownst to you, the clock stopped exactly twelve hours ago. [^Russell2009]
+
+See also:
+
+-   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
+-   See the [Outline on scientific realism](scientific-realism.html).
 
 [^Feynman1998p26]: @Feynman_1998_The_Meaning_of_It_All\, p. 26--27.
 [^Russell2009]: @Russell_2009_Human_Knowledge_Its_Scope_and_Limits\.
