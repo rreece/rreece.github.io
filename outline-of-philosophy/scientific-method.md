@@ -703,10 +703,12 @@ Feynman:
 
 ### Scientific knowledge and realism
 
--   Knowledge = JTB-G. Plato.
-    -   TODO: finde ref
+-   Definition of knowledge
+    -   Plato: Knowledge = Justified True Belief (JTB)
+    -   TODO: find ref
 -   Gettier cases
-    -   TODO: finde ref
+    -   Knowledge = JTB - G
+    -   TODO: find ref
 -   Systematic uncertainties.  Failed justification.
     -   TODO: discussion by me
 
