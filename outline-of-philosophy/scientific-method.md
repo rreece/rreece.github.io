@@ -517,6 +517,10 @@ Arthur Conan Doyle:
 
 ### Models in science
 
+#### What's a model?
+
+#### Models represent theories
+
 French:
 
 >   [S]cientist *don't* simply deduce experimental/observational consequences;
@@ -564,6 +568,17 @@ Frigg:
 -   "A comparison of the meaning and uses of models in mathematics and the empirical sciences" [^Suppes1961]
 -   "What is a scientific theory?" [^Suppes1967]
 -   *Models as Mediators* [^Morgan1999]
+
+
+#### Digression: Physicists have semantic objections
+
+-   TODO: explain
+-   HEP theorists especially
+-   HEP theorists often use "theory" to mean "theoretical framework": quantum field theory, yang-mills theory, string theory, etc.
+-   "Model building" in HEP means piecing together a particular theory, a "model", using a "theory" (theoretical framework).
+-   The issue is purely semantic. The important point of the above discussion
+    is that a model stands-in as a representative of a theory
+    that can be compared with the data.
 
 [^French2007p81]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. 81.
 [^Frigg2017]: @Frigg_2017_Models_and_representation\.
