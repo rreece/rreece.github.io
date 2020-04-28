@@ -729,9 +729,7 @@ Feynman:
 >   varying degrees of certainty. Some of them are most unsure. Some of
 >   them nearly sure; but none of them is certain. [^Feynman1998p26]
 
-The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*
-
-Russell:
+The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*. Russell:
 
 >   You're walking by a clock that you've always known
 >   to be accurate in the past. You glance up at it and see that it reads
