@@ -436,9 +436,19 @@ TODO:
 -   Profiling and the profile likelihood
     -   Importance of Wald and Cowan _et al_.
 
+![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties)).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
+
 [^Sinervo2013]: @Sinervo_2003_Definition_and_treatment_of_systematic\.
 
-![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties)).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
+
+#### Examples of poor estimates of systematic uncertanties
+
+-   CDF $Wjj$ bump
+    -   Phys.Rev.Lett.106:171801 (2011) / [arxiv:1104.0699](https://arxiv.org/abs/1104.0699)
+    -   [Invariant mass distribution of jet pairs produced in association with a $W$ boson in $p\bar{p}$ collisions at $\sqrt{s}$ = 1.96 TeV](https://www-cdf.fnal.gov/physics/ewk/2011/wjj/7_3.html)
+    -   Dorigo, T. (2011). [The jet energy scale as an explanation of the CDF signal](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886).
+
+![Demonstration of sensitivity to the jet energy scale for an alleged excess in $Wjj$ by [Dorigo, T. (2011)](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886).](img/AnimatedDijet.gif){#fig:AnimatedDijet}
 
 
 ### Exploratory data analysis
