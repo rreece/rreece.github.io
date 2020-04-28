@@ -712,12 +712,7 @@ Feynman:
 -   Systematic uncertainties.  Failed justification.
     -   TODO: discussion by me
 
-Feynman:
-
->   All scientific knowledge is uncertain...
->   [W]hat we call scientific knowledge today is a body of statements of
->   varying degrees of certainty. Some of them are most unsure. Some of
->   them nearly sure; but none of them is certain. [^Feynman1998p26]
+![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g)).](img/knowledge.png){#fig:knowledge-jtb-g}
 
 TODO sort out:
 
@@ -725,8 +720,14 @@ TODO sort out:
 -   Uniformitarianism: Unless we have a collective and/or non-local conspiracies,
     we can probablistically justify assumptions of uniformity.
 -   Ontological implications of science.
+-   Falibility
 
-![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g)).](img/knowledge.png){#fig:knowledge-jtb-g}
+Feynman:
+
+>   All scientific knowledge is uncertain...
+>   [W]hat we call scientific knowledge today is a body of statements of
+>   varying degrees of certainty. Some of them are most unsure. Some of
+>   them nearly sure; but none of them is certain. [^Feynman1998p26]
 
 The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*
 
