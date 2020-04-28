@@ -280,9 +280,15 @@ Weinberg:
 
 ### Analytic/synthetic distinction
 
+#### Definitions
+
 -   Locke
     -   *An Essay Concerning Human Understanding* (1689)
 -   Kant
+    -   *Critique of Pure Reason* (1781)
+-   Carnap
+    -   Empiricism semantics and ontology [^Carnap1950a]
+    -   internal vs external questions
 
 Kant in his *Critique of Pure Reason* (1781):
 
@@ -303,11 +309,21 @@ Kant in his *Critique of Pure Reason* (1781):
 >   thought in that concept at all and could not have been extracted from it
 >   by any dissection. [^Kant1996pB10]
 
--   Carnap: "Empiricism semantics and ontology" [^Carnap1950a]
--   Quine: "Two dogmas of empiricism" [^Quine1951]
--   Carnap vs Quine [^Quine1990]
+TODO: 2x2 figure *a priori--a posteriori* vs analytic--synthetic.
+
+[^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
+[^Kant1996pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
+
+
+#### Discussion
+
+-   Stearns, P. (2020). [Epistemology: A priori vs. a posteriori, analytic vs. synthetic, necessary vs. contingent](https://lucidphilosophy.com/1019-2/).
+    -   relationship to necessity and contingency
+    -   Kripke
+-   de Swart
 -   Gillian Russell [^Russell2008]
 -   Cory Juhl [^Juhl2009]
+-   Weatherson [^Weatherson2017]
 
 de Swart:
 
@@ -323,15 +339,19 @@ de Swart:
 >   that is, whether all and only necessary truths are a priori and all and only
 >   contingent truths are a posteriori. [^deSwart2018p141]
 
-TODO: 2x2 figure *a priori--a posteriori* vs analytic--synthetic.
-
-[^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^deSwart2018p141]: @deSwart_2018_Philosophical_and_Mathematical_Logic\, p. 141--2.
-[^Kant1996pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
-[^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
-[^Quine1990]: @Quine_1990_Dear_Carnap_Dear_van_The_Quine_Carnap\.
 [^Juhl2009]: @Juhl_2009_Analyticity\.
 [^Russell2008]: @Russell_2008_Truth_in_Virtue_of_Meaning_A_defence\.
+[^Weatherson2017]: @Weatherson_2017_Analytic_synthetic_and_a_priori_a_posteriori\.
+
+
+#### Criticisms
+
+-   Quine: "Two dogmas of empiricism" [^Quine1951]
+-   Carnap vs Quine [^Quine1990]
+
+[^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
+[^Quine1990]: @Quine_1990_Dear_Carnap_Dear_van_The_Quine_Carnap\.
 
 
 ### Induction
@@ -629,8 +649,12 @@ Feynman:
 #### No: There is no unified "scientific method"
 
 -   *Against Method* [^Feyerabend1974]
+-   McComas [^McComas2002]
+-   Allain [^Allain2013]
 
+[^Allain2013]: @Allain_2013_Whats_wrong_with_the_scientific_method\.
 [^Feyerabend1974]: @Feyerabend_1974_Against_Method\.
+[^McComas2002]: @McComas_2002_The_principal_elements_of_the_nature_of_science\.
 
 
 #### Yes: Models of science
@@ -872,22 +896,23 @@ Click to show links
 ### SEP
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
--   [Analysis of Knowledge](http://plato.stanford.edu/entries/knowledge-analysis/)
--   [Ancient Atomism](https://plato.stanford.edu/entries/atomism-ancient/)
--   [Aristotle's Metaphysics](http://plato.stanford.edu/entries/aristotle-metaphysics/)
+-   [Analysis of knowledge](http://plato.stanford.edu/entries/knowledge-analysis/)
+-   [Analytic/synthetic distinction](https://plato.stanford.edu/entries/analytic-synthetic/)
+-   [Ancient atomism](https://plato.stanford.edu/entries/atomism-ancient/)
+-   [Aristotle's metaphysics](http://plato.stanford.edu/entries/aristotle-metaphysics/)
 -   [Bacon, Francis (1561-1626)](http://plato.stanford.edu/entries/francis-bacon/)
--   [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
+-   [Bayesian epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
 -   [Berkeley, George (1685-1753)](http://plato.stanford.edu/entries/berkeley/)
--   [Coherentist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-coherence/)
+-   [Coherentist theories of epistemic justification](http://plato.stanford.edu/entries/justep-coherence/)
 -   [Democritus (460-370 BCE)](http://plato.stanford.edu/entries/democritus/)
 -   [Descartes, Ren&eacute; (1596-1650)](http://plato.stanford.edu/entries/descartes/)
 -   [Descartes' Epistemology](http://plato.stanford.edu/entries/descartes-epistemology/)
--   [Epistemological Problems of Perception](http://plato.stanford.edu/entries/perception-episprob/)
--   [Epistemological Problems of Testimony](http://plato.stanford.edu/entries/testimony-episprob/)
+-   [Epistemological problems of perception](http://plato.stanford.edu/entries/perception-episprob/)
+-   [Epistemological problems of testimony](http://plato.stanford.edu/entries/testimony-episprob/)
 -   [Epistemology](http://plato.stanford.edu/entries/epistemology/)
--   [Formal Epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
--   [Foundationalist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-foundational/)
--   [Galileo Galilei](http://plato.stanford.edu/entries/galileo/)
+-   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
+-   [Foundationalist theories of epistemic justification](http://plato.stanford.edu/entries/justep-foundational/)
+-   [Galileo Galilei (1564-1642)](http://plato.stanford.edu/entries/galileo/)
 -   [Gassendi, Pierre (1592-1655)](http://plato.stanford.edu/entries/gassendi/)
 -   [Hobbes, Thomas (1588-1679)](http://plato.stanford.edu/entries/hobbes/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
@@ -935,23 +960,23 @@ Click to show links
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
 -   [Democritus (460-370 BCE)](http://www.iep.utm.edu/democrit/)
 -   [Epistemology](http://www.iep.utm.edu/epistemo/)
--   [Epistemology of Testimony](http://www.iep.utm.edu/ep-testi/)
--   [Explanation, Theories of](http://www.iep.utm.edu/explanat/)
--   [Gettier Problems](http://www.iep.utm.edu/gettier/)
+-   [Epistemology of testimony](http://www.iep.utm.edu/ep-testi/)
+-   [Explanation](http://www.iep.utm.edu/explanat/)
+-   [Gettier problems](http://www.iep.utm.edu/gettier/)
 -   [Hempel, Carl Gustav (1905-1997)](http://www.iep.utm.edu/hempel/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Ibn Sina (980-1037)](http://www.iep.utm.edu/avicenna/)
 -   [Locke, John (1632-1704)](http://www.iep.utm.edu/locke/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
--   [Naturalistic Epistemology](http://www.iep.utm.edu/nat-epis/)
+-   [Naturalistic epistemology](http://www.iep.utm.edu/nat-epis/)
 -   [Parmenides](http://www.iep.utm.edu/parmenid/)
 -   [Peirce, Charles Sanders (1839-1914): Logic](http://www.iep.utm.edu/peir-log/)
--   [Popper, Karl (1902-1994) : Philosophy of Science](http://www.iep.utm.edu/pop-sci/)
+-   [Popper, Karl (1902-1994): Philosophy of Science](http://www.iep.utm.edu/pop-sci/)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](http://www.iep.utm.edu/plato/)
 -   [Plato's Academy (387 BCE - 529 CE)](http://www.iep.utm.edu/academy/)
 -   [Pythagoras (570-495 BCE)](http://www.iep.utm.edu/pythagor/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
--   [Safety Condition for Knowledge, The](http://www.iep.utm.edu/safety-c/)
+-   [Safety condition for knowledge](http://www.iep.utm.edu/safety-c/)
 -   [Simplicity in the philosophy of science](http://www.iep.utm.edu/simplici/)
 -   [Skepticism, Ancient Greek](http://www.iep.utm.edu/skepanci/)
 -   [Skepticism, Contemporary](http://www.iep.utm.edu/skepcont/)
@@ -965,7 +990,9 @@ Click to show links
 -   [Academy of Gondishapur](https://en.wikipedia.org/wiki/Academy_of_Gondishapur)
 -   [Alhazen AKA Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen)
 -   [Amp&egrave;re, Andr&eacute;-Marie (1775-1836)](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re)
+-   [Analytic/synthetic distinction](https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction)
 -   [Ancient higher-learning institutions](https://en.wikipedia.org/wiki/Ancient_higher-learning_institutions)
+-   [A priori and a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
 -   [Archimedes (c. 287 - c. 212) BCE](https://en.wikipedia.org/wiki/Archimedes)
 -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
 -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
@@ -1133,9 +1160,8 @@ Click to show links
 -   [The African Enlightenment: The highest ideals of Locke, Hume and Kant were first proposed more than a century earlier by an Ethiopian in a cave](https://aeon.co/essays/yacob-and-amo-africas-precursors-to-locke-hume-and-kant)
 -   Aldrich, John. (?). [Earliest uses of symbols of calculus](http://jeff560.tripod.com/calculus.html).
 -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
+-   Stearns, P. (2020). [Epistemology: A priori vs. a posteriori, analytic vs. synthetic, necessary vs. contingent](https://lucidphilosophy.com/1019-2/).
 
 </div>
 
 <!-- REFERENCES -->
-
-

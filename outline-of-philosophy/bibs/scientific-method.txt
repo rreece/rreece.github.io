@@ -1,3 +1,4 @@
+Allain, R. (2013). What's wrong with the scientific method? *Wired*. https://www.wired.com/2013/04/whats-wrong-with-the-scientific-method/ [April 1, 2013]
 Bhaskar, R. (2008). *A Realist Theory of Science*. Routledge.
 Carnap, R. (1945). On inductive logic. *Philosophy of Science*, 12, 72--97.
 Carnap, R. (1950). *Logical Foundations of Probability*. University of Chicago Press.
@@ -18,6 +19,7 @@ Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philo
 Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
 Juhl, C. & Loomis, E. (2009). *Analyticity*. Routledge.
 Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1781)]
+McComas, W.F. (2002). The principal elements of the nature of science: Dispelling the myths. In McComas, W.F. (Ed.) *The Nature of Science in Science Education* (pp. 53--70). Springer Netherlands.
 Mill, J.S. (1843). *A System of Logic*. New York: Harper and Brothers.
 Morgan, M.S. & Morrison, M. (1999). *Models as Mediators*. Cambridge University Press.
 Newton, I. (2016). *The Principia: Mathematical Principles of Natural Philosophy* (I. Bernard Cohen and A. Whitman and J. Budenz, Trans.). University of California Press. [(Originally published in 1687)]
@@ -32,4 +34,5 @@ Sabra, A.I. (1978). An eleventh-century refutation of Ptolemy's planetary theory
 Suppes, P. (1961). A comparison of the meaning and uses of models in mathematics and the empirical sciences. In *The Concept and the Role of the Model in Mathematics and Natural and Social Sciences* (pp. 163--177). Springer, Dordrecht.
 Suppes, P. (1967). What is a scientific theory? In Morgenbesser, S. (Ed.) *Philosophy of Science Today* (pp. 55-67). Basic Books.
 Vickers, J. (2014). The problem of induction. *Stanford Encyclopedia of Philosophy*. https://stanford.library.sydney.edu.au/archives/sum2016/entries/induction-problem/
+Weatherson, B. (2017). Analytic-synthetic and a priori-a posteriori. In Cappelen, H., Gendler, T.S., & Hawthorne, J. (Eds.) *The Oxford Handbook of Philosophical Methodology* (pp. 231--248). Oxford University Press.
 Weinberg, S. (2015). *To Explain The World: The discovery of modern science*. Harper.
