@@ -359,6 +359,7 @@ See also:
 -   [positivists.org/blog/movements](http://positivists.org/blog/movements)
 
 Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
+
 [^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
     Translation of passage taken from:           
     <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
