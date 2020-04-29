@@ -26,6 +26,11 @@ starting with [rationalism vs empiricism](#rationalism-vs-empiricism).
 
 ![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig:timeline-of-major-philosophers-since-1200}
 
+<div class="clickmore"><a id="link:history_of_science" class="closed" onclick="toggle_more('history_of_science')">
+Click to show the paltry outline of the history of science
+</a></div>
+<div id="history_of_science" class="more">
+
 
 #### Antiquity
 
@@ -283,6 +288,8 @@ Weinberg:
 
 [^Kant1996]: @Kant_1996_Critique_of_Pure_Reason\. 
 [^Newton2016]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\.
+
+</div>
 
 
 ### Analytic/synthetic distinction
