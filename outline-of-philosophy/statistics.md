@@ -887,6 +887,7 @@ Click to show links
 
 ### IEP
 
+-   [Carnap, Rudolf (1891-1970)](http://www.iep.utm.edu/carnap/)
 -   [Epistemology](http://www.iep.utm.edu/epistemo/)
 -   [Hempel, Carl Gustav (1905-1997)](http://www.iep.utm.edu/hempel/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
@@ -914,6 +915,7 @@ Click to show links
 -   [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
 -   [Birnbaum, Allan (1923-1976)](https://en.wikipedia.org/wiki/Allan_Birnbaum)
 -   [Bootstrapping](http://en.wikipedia.org/wiki/Bootstrapping_(statistics))
+-   [Carnap, Rudolf (1891-1970)](http://en.wikipedia.org/wiki/Rudolf_Carnap)
 -   [Confidence interval](https://en.wikipedia.org/wiki/Confidence_interval)
 -   [Cosmic variance](https://en.wikipedia.org/wiki/Cosmic_variance)
 -   [Cram&eacute;r-Rao bound](http://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound)

@@ -911,6 +911,7 @@ Click to show links
 -   [Bacon, Francis (1561-1626)](http://plato.stanford.edu/entries/francis-bacon/)
 -   [Bayesian epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
 -   [Berkeley, George (1685-1753)](http://plato.stanford.edu/entries/berkeley/)
+-   [Carnap, Rudolf (1891-1970)](https://plato.stanford.edu/entries/carnap/)
 -   [Coherentist theories of epistemic justification](http://plato.stanford.edu/entries/justep-coherence/)
 -   [Democritus (460-370 BCE)](http://plato.stanford.edu/entries/democritus/)
 -   [Descartes, Ren&eacute; (1596-1650)](http://plato.stanford.edu/entries/descartes/)
@@ -965,6 +966,7 @@ Click to show links
 
 -   [A priori and a posteriori](https://www.iep.utm.edu/apriori/)
 -   [Berkeley, George (1685-1753)](http://www.iep.utm.edu/berkeley/)
+-   [Carnap, Rudolf (1891-1970)](http://www.iep.utm.edu/carnap/)
 -   [Contemporary Metaphilosophy](http://www.iep.utm.edu/con-meta/)
 -   [Democritus (460-370 BCE)](http://www.iep.utm.edu/democrit/)
 -   [Epistemology](http://www.iep.utm.edu/epistemo/)
@@ -1015,6 +1017,7 @@ Click to show links
 -   [Bootstrapping](http://en.wikipedia.org/wiki/Bootstrapping_(statistics))
 -   [Born, Max (1882-1970)](https://en.wikipedia.org/wiki/Max_Born)
 -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
+-   [Carnap, Rudolf (1891-1970)](http://en.wikipedia.org/wiki/Rudolf_Carnap)
 -   [Carnot, Nicolas L&eacute;onard Sadi (1796-1832)](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot)
 -   [Cartesian doubt](http://en.wikipedia.org/wiki/Cartesian_doubt)
 -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
