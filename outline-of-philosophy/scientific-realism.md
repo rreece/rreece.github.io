@@ -257,6 +257,8 @@ Redhead:
 
 ### Positivism
 
+#### Theses
+
 <center>
 <blockquote class="twitter-tweet">
 <p lang="en" dir="ltr">Orthodox logical positivism:<br>1) only verifiable statements re meaningful;<br>2) all legitimate statements are translatable to observational language (different interpretations); <br>3) unity of science (different interpretations). 1/X</p>&mdash; panu raatikainen (&commm;panuraatikainen)
@@ -265,48 +267,14 @@ Redhead:
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
-Verification theory of meaning: All statements that can't be empirically verified are meaningless.
+1.  Hume's fork, the analytic/synthetic distinction
+2.  Verification theory of meaning: the meaning of a proposition is the means to verify it.
+    All statements that cannot be empirically verified in principle are meaningless.
+3.  Carnap's principle of tolerance
+4.  Unity of science
 
 -   antirealist
--   Auguste Comte
--   Comte and Mill
--   Ernst Mach
--   Gottlob Frege, Bertrand Russell, Afred North Whitehead, George
-    Edward Moore. *Principia Mathematica*.
--   Wittgenstein, *Tractatus Logico-Philosophicus*. [^Wittgenstein1921]
-    -   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
-    -   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
-    -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
--   Logical positivism, Vienna circle[^Murzi2004], Moritz Schlick,
-    Rudolf Carnap, Kurt G&ouml;del, Otto Neurath, and others.
--   A.J. Ayer [^Ayer1936]
--   Schlipp [^Schlipp1963]
--   Logical empiricism - Creathe [^Creathe2011]
--   verificationism, nominalism, quietism
--   von Neuman, Hilbert
--   Hans Reichenbach (1891-1953) and the Berlin Circle
--   International Encyclopedia of Unified Science
-
-Some Carnap works:
-
--   *The Logical Structure of the World* (*Der Logische Aufbau der Welt*) [^Carnap1928]
--   Scheinproblem = Pseudo-problem
--   *The Logical Syntax of Language* [^Carnap1937]
-    -   LSL in a nutshell [^Fowler2010]
-    -   "talk of meaning should in any case be eschewed in favor of talk of syntax" - [SEP](https://plato.stanford.edu/entries/carnap/syntax.html)
--   Carnap's "ESO" [^Carnap1950]
--   Carnap's "Logical Foundations of Science" [^Carnap1955]
-
-[^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
-[^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
-[^Carnap1937]: @Carnap_1937_Logical_Syntax_of_Language\.
-[^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
-[^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
-[^Creathe2011]: @Creathe_2011_Logical_empiricism\.
-[^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
-[^Murzi2004]: @Murzi_2004_Vienna_circle\.
-[^Schlipp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
-[^Wittgenstein1921]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
+-   nominalism
 
 Positivism is a philosophy of science and epistemology that roughly defends a
 qualified empiricism, that the scientific method is the only route to knowledge,
@@ -315,26 +283,9 @@ Positivism is strongly eliminative about metaphysics and claims that many
 metaphysical questions and positions are not open or false, but meaningless
 because of their lack of attachment to empirically demonstrable things or effects.
 
-Russell:
-
->   Modern analytical empiricism [...] differs from that of Locke, Berkeley, and Hume 
->   by its incorporation of mathematics and its development of a powerful logical 
->   technique. It is thus able, in regard to certain problems, to achieve definite 
->   answers, which have the quality of science rather than of philosophy. It has 
->   the advantage, in comparison with the philosophies of the system-builders, of 
->   being able to tackle its problems one at a time, instead of having to invent
->   at one stroke a block theory of the whole universe. Its methods, in this respect, 
->   resemble those of science. [^Russell1945p834]
-
 Google:
 
 >   Logical positivism: a form of positivism, developed by members of the Vienna Circle, that considers that the only meaningful philosophical problems are those that can be solved by logical analysis.
-
-Note any differences between:
-
--   positivism - Comte, Mach
--   logical positivism - Vienna Circle
--   logical empiricism - Reichenbach's preferred term[^Reichenbach], Berlin Circle
 
 This means that positivism is generally seen to imply antirealist views of science and mathematics, preferring as Carnap says in _Empiricism, Semantics, and Ontology_:
 
@@ -344,10 +295,6 @@ This means that positivism is generally seen to imply antirealist views of scien
 >   As far as possible they try to avoid any reference to abstract entities and to 
 >   restrict themselves to what is sometimes called a nominalistic language, i.e.,
 >   one not containing such references. [^Carnap1950p1]
-
-[^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
-[^Reichenbach]: [www.newworldencyclopedia.org/entry/Hans_Reichenbach](http://www.newworldencyclopedia.org/entry/Hans_Reichenbach)
-[^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 
 Positivists have instrumentalist (antirealist) views about the models science
 produces, given that they are constructed from abstractions and involve the
@@ -365,6 +312,22 @@ instead realists about science, math, and/or ethics, for example following
 a version of structural realism about the discoveries from science, capturing
 and constraining real structures in nature.
 
+[^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
+
+
+#### Early positivism
+
+-   Auguste Comte
+-   Comte and Mill
+-   Ernst Mach
+-   Gottlob Frege, Bertrand Russell, Afred North Whitehead, George
+    Edward Moore. *Principia Mathematica*.
+-   Wittgenstein, *Tractatus Logico-Philosophicus*. [^Wittgenstein1921]
+    -   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
+    -   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
+    -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
+-   quietism
+
 Comte on the unknowability of the composition of stars:
 
 >   On the subject of stars, all investigations which are not ultimately reducible
@@ -379,9 +342,16 @@ Comte on the unknowability of the composition of stars:
 
 (He was wrong!)
 
-[^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
-    Translation of passage taken from:           
-    <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
+Russell:
+
+>   Modern analytical empiricism [...] differs from that of Locke, Berkeley, and Hume 
+>   by its incorporation of mathematics and its development of a powerful logical 
+>   technique. It is thus able, in regard to certain problems, to achieve definite 
+>   answers, which have the quality of science rather than of philosophy. It has 
+>   the advantage, in comparison with the philosophies of the system-builders, of 
+>   being able to tackle its problems one at a time, instead of having to invent
+>   at one stroke a block theory of the whole universe. Its methods, in this respect, 
+>   resemble those of science. [^Russell1945p834]
 
 See also:
 
@@ -389,6 +359,64 @@ See also:
 -   [positivists.org/blog/movements](http://positivists.org/blog/movements)
 
 Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
+[^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
+    Translation of passage taken from:           
+    <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
+[^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
+[^Wittgenstein1921]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
+
+
+#### Logical positivism and the Vienna Circle
+
+-   Vienna circle [^Murzi2004]
+    -   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Otto Neurath, and others.
+-   A.J. Ayer [^Ayer1936]
+-   Schlipp [^Schlipp1963]
+-   von Neuman, Hilbert
+
+[^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
+[^Murzi2004]: @Murzi_2004_Vienna_circle\.
+[^Schlipp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
+
+
+#### Logical empiricism and the Berlin Circle
+
+-   Logical empiricism - Creathe [^Creathe2011]
+-   Hans Reichenbach (1891-1953) and the Berlin Circle
+-   International Encyclopedia of Unified Science
+
+TODO: Note any differences between:
+
+-   positivism - Comte, Mach
+-   logical positivism - Vienna Circle
+-   logical empiricism - Reichenbach's preferred term[^Reichenbach], Berlin Circle
+
+[^Creathe2011]: @Creathe_2011_Logical_empiricism\.
+[^Reichenbach]: [www.newworldencyclopedia.org/entry/Hans_Reichenbach](http://www.newworldencyclopedia.org/entry/Hans_Reichenbach)
+
+
+#### Later positivism
+
+-   Carnap and Reichenbach move to the US
+-   Positivism affects the structure of education and law
+-   Connection to the projects of Dewey and pragmatism
+-   Neopositivism
+
+Some Carnap works:
+
+-   *The Logical Structure of the World* (*Der Logische Aufbau der Welt*) [^Carnap1928]
+-   Scheinproblem = Pseudo-problem
+-   *The Logical Syntax of Language* [^Carnap1937]
+    -   LSL in a nutshell [^Fowler2010]
+    -   "talk of meaning should in any case be eschewed in favor of talk of syntax" - [SEP](https://plato.stanford.edu/entries/carnap/syntax.html)
+-   Carnap's "ESO" [^Carnap1950]
+-   Carnap's "Logical Foundations of Science" [^Carnap1955]
+
+[^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
+[^Carnap1937]: @Carnap_1937_Logical_Syntax_of_Language\.
+[^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
+[^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
+[^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 
 
 ### Postpositivism
