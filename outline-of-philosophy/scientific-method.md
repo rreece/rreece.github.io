@@ -289,7 +289,7 @@ Weinberg:
 [^Kant1996]: @Kant_1996_Critique_of_Pure_Reason\. 
 [^Newton2016]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\.
 
-</div>
+</div> <!-- end history_of_science -->
 
 
 ### Analytic/synthetic distinction
