@@ -107,6 +107,8 @@ Weinberg:
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
     -   Ockham's razor as a hint at parsimony and abduction
 
+[^Sabra1978]: @Sabra_1978_An_eleventh_century_refutation_of_Ptolemys\, p. 121--2.
+
 
 #### Early Modern Period
 
@@ -130,6 +132,8 @@ Weinberg:
 -   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
     -   No teleology. Matter plenum, vorticies.
     -   *Meditations on First Philosophy* (1641) [^Descartes2008]
+
+[^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
 
 
 #### The Age of Enlightenment
@@ -202,6 +206,9 @@ Weinberg:
 
 ![The great tree of life. Larger version: [here](img/great-tree-of-life-large.png). Source:[here](https://visual.ly/community/infographic/science/great-tree-life).](img/great-tree-of-life.png){#fig:great-tree-of-life}
 
+[^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
+
+
 #### Modern physics
 
 -   [Mach, Ernst (1838-1916)](https://en.wikipedia.org/wiki/Ernst_Mach)
@@ -230,9 +237,9 @@ Weinberg:
 -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
 -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
 
-[^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
-[^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
-[^Sabra1978]: @Sabra_1978_An_eleventh_century_refutation_of_Ptolemys\, p. 121--2.
+#### Computer science
+
+-   TODO
 
 
 ### Rationalism vs empiricism
