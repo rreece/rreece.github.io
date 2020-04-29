@@ -251,10 +251,10 @@ Weinberg:
 
 ### Rationalism vs empiricism
 
--   Early modern philosophy, coming out of scholasticism
+-   Early modern philosophy, coming out of medieval scholasticism
 -   Debates over the foundations of epistemology
--   *a priori* vs *a posteriori*
 -   Skepticism
+-   *a priori* vs *a posteriori*
 -   Lead to the Age of Enlightenment
 -   Development of calculus
 
@@ -262,7 +262,9 @@ Weinberg:
 #### Early empiricists
 
 -   Francis Bacon (1561-1626)
+-   Galileo Galilei (1564-1642)
 -   Thomas Hobbes (1588-1679)
+-   Robert Boyle (1627-1691)
 
 
 #### Rationalists
