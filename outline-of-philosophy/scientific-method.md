@@ -36,8 +36,8 @@ Click to show the paltry outline of the history of science
 
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
 -   [Thales of Miletus (c. 624/623-548/545 BCE)](https://en.wikipedia.org/wiki/Thales_of_Miletus)
+    -   "first philosopher"
 -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
-    -   first philosopher
     -   radical mathematical realist
 -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
     -   Chinese, not part of the Ionian Enlightenment, but contemporary with it
