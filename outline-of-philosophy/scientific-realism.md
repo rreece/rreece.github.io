@@ -280,6 +280,7 @@ Verification theory of meaning: All statements that can't be empirically verifie
 -   Logical positivism, Vienna circle[^Murzi2004], Moritz Schlick,
     Rudolf Carnap, Kurt G&ouml;del, Otto Neurath, and others.
 -   A.J. Ayer [^Ayer1936]
+-   Schlipp [^Schlipp1963]
 -   Logical empiricism - Creathe [^Creathe2011]
 -   verificationism, nominalism, quietism
 -   von Neuman, Hilbert
@@ -304,6 +305,7 @@ Some Carnap works:
 [^Creathe2011]: @Creathe_2011_Logical_empiricism\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\.
+[^Schlipp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 [^Wittgenstein1921]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
 
 Positivism is a philosophy of science and epistemology that roughly defends a
