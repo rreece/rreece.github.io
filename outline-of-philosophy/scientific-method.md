@@ -485,7 +485,7 @@ Dewey:
 
 Wikipedia:
 
->    R. Bhaskar also offers a practical solution to the problem. He argues that the problem of induction only arises if we deny the possibility of a reason for the predicate, located in the enduring nature of something. For example, we know that all emeralds are green, not because we have only ever seen green emeralds, but because the chemical make-up of emeralds insists that they must be green. If we were to change that structure, they would not be green. For instance, emeralds are a kind of green beryl, made green by trace amounts of chromium and sometimes vanadium. Without these trace elements, the gems would be colourless. [^Bhaskar2008pX]
+>    Bhaskar also offers a practical solution to the problem. He argues that the problem of induction only arises if we deny the possibility of a reason for the predicate, located in the enduring nature of something. For example, we know that all emeralds are green, not because we have only ever seen green emeralds, but because the chemical make-up of emeralds insists that they must be green. If we were to change that structure, they would not be green. For instance, emeralds are a kind of green beryl, made green by trace amounts of chromium and sometimes vanadium. Without these trace elements, the gems would be colourless. [^Bhaskar2008pX]
 
 Wikipedia:
 
@@ -642,7 +642,7 @@ Feynman:
 >   and then recheck them, to be sure that you understand what all the
 >   conditions are and that you did not misinterpret what you did. [^Feynman1998p17]
 
--   TODO: model of science taught in high schools---form a hypothesis etc.
+-   TODO: model of science taught in high schools---form a hypothesis, etc.
 
 [^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
 [^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.

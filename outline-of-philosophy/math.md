@@ -38,6 +38,8 @@ Issues and positions
 -   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
     -   extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
 -   Gillian Russell [^Russell2015]
+-   TODO: basic examples in propositional logic
+
 
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
 
