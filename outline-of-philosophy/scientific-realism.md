@@ -402,6 +402,7 @@ TODO: Note any differences between:
 -   Positivism affects the structure of education and law
 -   Connection to the projects of Dewey and pragmatism
 -   Neopositivism
+-   Ladyman & Ross [^Ladyman2007pX]
 
 Some Carnap works:
 
@@ -418,6 +419,7 @@ Some Carnap works:
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
+[^Ladyman2007pX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO.
 
 
 ### Postpositivism
@@ -429,7 +431,7 @@ Various reactions to positivism.
     -   a turn towards realism
     -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
 -   Willard Van Orman Quine (1908-2000)
-    -   Quine's "Two Dogmas"[^Quine-1951]
+    -   Quine's "Two Dogmas of Empiricism" [^Quine1951]
         1.  analytic-synthetic distinction
         2.  reductionism (verification theory of meaning)
     -   Duhem-Quine thesis
@@ -439,7 +441,7 @@ Various reactions to positivism.
 
 Popper:
 
->   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963]
+>   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963pX]
 
 The "death" of positivism:
 
@@ -465,8 +467,11 @@ Wittgenstein in *PI*:
 
 >   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
 
+TODO: discuss Kant's claim that there will never be a Newton for a blade of grass.
+
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
-[^Popper1963]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. XXX.
+[^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
+[^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
 
 
 ### Pragmatism
@@ -523,7 +528,7 @@ Science aims to give us theories that are empirically adequate,
 but does not justify metaphysical claims about reality.
 
 -   antirealist
--   van Fraassen's "Arguments Concerning Scientific Realism"[^van-Fraassen-1980]
+-   van Fraassen's "Arguments Concerning Scientific Realism" [^vanFraassen1980]
 -   van Fraassen and Bueno
 -   Unlike positivism/instrumentalism, theories should be taken literally.
 
@@ -537,6 +542,7 @@ but does not justify metaphysical claims about reality.
 [^Healey2007p114]: @Healey_2007_Gauging_Whats_Real\, p. 114--116.
 [^Hennig2010]: @Hennig_2010_Mathematical_models_and_reality_A_constructivist\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
+[^vanFraassen1980]: @vanFraassen_1980_The_Scientific_Image\.
 
 
 ### Structural realism
@@ -552,8 +558,8 @@ Science has identified real patterns, relationships, and structures
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)
--   *Every Thing Must Go* [^Ladyman-Ross-2009]
--   *How science tracks truth* [^Psillos-1999]
+-   *Every Thing Must Go* [^Ladyman2009]
+-   *How science tracks truth* [^Psillos1999]
 -   Everything you always wanted to know about structural realism but were afraid to ask [^Frigg2011]
 -   *Scientific Metaphysics* [^Ross2013]
 -   contrast with Bueno's structural empiricism
@@ -572,6 +578,8 @@ I found the above quotes in a talk by Arthur Fine:
     -   Wikipedia: "Inverse problems are some of the most important mathematical problems in science and mathematics because they tell us about parameters that we cannot directly observe."
 
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
+[^Psillos1999]: @Psillos_1999_Scientific_Realism_How_Science_Tracks_Truth\.
+[^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
 
@@ -627,6 +635,7 @@ Questions:
     be interpretable?  What would that mean?
 -   Maybe scientism is really the same thing positivism re-branded;
     similarly, naturalism is empiricism re-branded.
+
 
 ### My defense of realism
 
@@ -1210,6 +1219,7 @@ Click to show links
 -   [Metaphysics](http://en.wikipedia.org/wiki/Metaphysics)
 -   [Meta-ontology](https://en.wikipedia.org/wiki/Meta-ontology)
 -   [Natural Ontological Attitude](http://en.wikipedia.org/wiki/Natural_Ontological_Attitude)
+-   [New riddle of induction](https://en.wikipedia.org/wiki/New_riddle_of_induction)
 -   [Object-oriented ontology](http://en.wikipedia.org/wiki/Object-oriented_ontology)
 -   [Paradigm](http://en.wikipedia.org/wiki/Paradigm)
 -   [Pragmatism](http://en.wikipedia.org/wiki/Pragmatism)
@@ -1220,6 +1230,7 @@ Click to show links
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 -   [Picture theory of language](https://en.wikipedia.org/wiki/Picture_theory_of_language)
 -   [Platonic realism](https://en.wikipedia.org/wiki/Platonic_realism)
+-   [Plato's beard](https://en.wikipedia.org/wiki/Plato%27s_beard)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Positivism](http://en.wikipedia.org/wiki/Positivism)
 -   [Positivism Dispute](http://en.wikipedia.org/wiki/Positivism_dispute)
@@ -1278,10 +1289,8 @@ Click to show links
 -   [Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). The Young Wittgenstein,](https://www.youtube.com/watch?v=fE4dDqUTnaA)
 
 
-[^Quine-1951]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Popper-1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
 [^Kuhn-1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
-[^van-Fraassen-1980]: @vanFraassen_1980_The_Scientific_Image\.
 [^Putnam-1982-1]: Putnam, H. (1982). Three Kinds of Scientific Realism.
 [^Putnam-1982-2]: Putnam, H. (1982). Why There Isn't a Ready-Made World.
 [^Fine-1984-1]: Fine, A. (1984). The Natural Ontological Attitude.
@@ -1292,7 +1301,6 @@ Click to show links
 [^Dennett-1991]: Dennett, D. (1991). Real Patterns.
 [^Ladyman-1998]: Ladyman, J. (1998). What is Structural Realism?
 [^Bueno-1999]: Bueno, O. (1999). What is Structural Empiricism?
-[^Psillos-1999]: @Psillos_1999_Scientific_Realism_How_Science_Tracks_Truth\.
 [^Psillos-2000]: Psillos, S. (2000). The Present State of the Scientific Realism Debate.
 [^Chang-2001]: Chang, H. (2001). Realism Beyond Footstamping.
 [^van-Fraassen-2001]: van Fraassen, B. (2001). Constructive Empiricism Now.
@@ -1301,7 +1309,6 @@ Click to show links
 [^Bueno-2008]: Bueno, O. (2008). Structural Realism, Scientific Change, and Partial Structures.
 [^Bain-2009]: Bain, J. (2009). Towards Structural Realism.
 [^Psillos-2009]: Psillos, S. (2009). On Reichenbach's argument for scientific realism.
-[^Ladyman-Ross-2009]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Psillos-2010]: Psillos, S. (2010). Scientific Realism: Between Platonism and Nominalism.
 [^Frigg-Votsis-2011]: Frigg, R. & Votsis, I. (2011). Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
 [^Mizrahi-2012]: Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
@@ -1311,5 +1318,3 @@ Click to show links
 </div>
 
 <!-- REFERENCES -->
-
-
