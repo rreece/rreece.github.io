@@ -109,6 +109,24 @@ See also:
         -   [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
         -   [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
 
+### Comparitive studies
+
+-   *The Perennial Philosophy*
+    -   Huxley [^Huxley1945]
+-   McEvilley [^McEvilley2002]
+
+In defending esoteric knowledge [^EsotericKnowledge], Huxley's view are decidedly not naturalistic:
+
+>   If one is not oneself a sage or saint, the best thing one can do, in the
+>   field of metaphysics, is to study the works of those who were, and who,
+>   because they had modified their merely human mode of being,
+>   were capable of a more than merely human kind and amount of knowledge. [^Huxley1945p5]
+
+[^EsotericKnowledge]: See discussion of non-naturalistic "esoteric knowledge" in the [Outline on naturalism](naturalism.html#what-is-naturalism)
+[^Huxley1945]: @Huxley_1945_The_Perennial_Philosophy\.
+[^Huxley1945p5]: @Huxley_1945_The_Perennial_Philosophy\, p. 5--6.
+[^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.
+
 
 ### Biology
 
