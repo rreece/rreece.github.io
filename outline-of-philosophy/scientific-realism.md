@@ -457,7 +457,7 @@ Later Wittgenstein:
 
 -   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
 -   Ordinary language philosophy
--   Instrumentalist and somewhat pragmatist
+-   Instrumentalist and pragmatist
 -   An imprtant project is to understand the differences between early (*TLP*)
     and late (*PI*) Wittgenstein. It is quite the about-face.
     -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world
@@ -466,8 +466,6 @@ Later Wittgenstein:
 Wittgenstein in *PI*:
 
 >   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
-
-TODO: discuss Kant's claim that there will never be a Newton for a blade of grass.
 
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
 [^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
@@ -558,7 +556,7 @@ Science has identified real patterns, relationships, and structures
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)
--   *Every Thing Must Go* [^Ladyman2009]
+-   *Every Thing Must Go* [^Ladyman2007]
 -   *How science tracks truth* [^Psillos1999]
 -   Everything you always wanted to know about structural realism but were afraid to ask [^Frigg2011]
 -   *Scientific Metaphysics* [^Ross2013]

@@ -288,7 +288,13 @@ Weinberg:
 -   Isaac Newton (1642-1727)
     -   *The Principia* (1687) [^Newton2016]
 -   Immanuel Kant (1724-1804)
+    -   "Answering the question: What is Enlightenment?"
+        -   *Sapere aude* ("Dare to be wise")
     -   *Critique of Pure Reason* (1781) [^Kant1996]
+    -   *Metaphysical Foundations of Natural Science* (1786)
+    -   *Critique of Judgment* (1790)
+        -   "It is absurd to hope that another Newton will arise in the future who will make comprehensible to us the production of a blade of grass according to natural laws"
+        -   He was wrong!
 
 [^Kant1996]: @Kant_1996_Critique_of_Pure_Reason\. 
 [^Newton2016]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\.
