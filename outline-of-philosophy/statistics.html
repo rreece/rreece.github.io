@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Tue Apr 28, 2020" />
+  <meta name="date" content="Fri May 01, 2020" />
   <title>Philosophy of statistics - Ryan&#8217;s Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#8217;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -66,61 +66,61 @@
 <div id="mainbody">
 <div id="pagecontainer">
 
-<h1 id="philosophy-of-statistics">Philosophy of statistics</h1>
+<h1 id="philosophy-of-statistics"><span class="header-section-number">1</span> Philosophy of statistics</h1>
 <p>Statistics are <em>way</em> important in addressing the problem of induction.</p>
 <h3 id="contents" class="unnumbered">Contents</h3>
 <ol style="list-style-type: decimal">
-<li><a href="statistics.html#issues-and-positions">Issues and positions</a>
+<li><a href="statistics.html#issues-and-positions"><span class="header-section-number">1.1</span> Issues and positions</a>
 <ol style="list-style-type: decimal">
-<li><a href="statistics.html#problem-of-induction">Problem of induction</a></li>
-<li><a href="statistics.html#probability-and-its-related-concepts">Probability and its related concepts</a></li>
-<li><a href="statistics.html#foundations-of-statistics">Foundations of statistics</a></li>
-<li><a href="statistics.html#statistical-models">Statistical models</a></li>
-<li><a href="statistics.html#point-estimation-and-confidence-intervals">Point estimation and confidence intervals</a></li>
-<li><a href="statistics.html#statistical-hypothesis-testing">Statistical hypothesis testing</a></li>
-<li><a href="statistics.html#systematic-uncertainties">Systematic uncertainties</a></li>
-<li><a href="statistics.html#exploratory-data-analysis">Exploratory data analysis</a></li>
-<li><a href="statistics.html#likelihood-principle">Likelihood principle</a></li>
-<li><a href="statistics.html#statistics-wars">&#8220;Statistics Wars&#8221;</a></li>
-<li><a href="statistics.html#replication-crisis">Replication crisis</a></li>
-<li><a href="statistics.html#information-geometry">Information geometry</a></li>
-<li><a href="statistics.html#machine-learning">Machine learning</a></li>
-<li><a href="statistics.html#theoretical-machine-learning">Theoretical machine learning</a></li>
-<li><a href="statistics.html#automation">Automation</a></li>
-<li><a href="statistics.html#implications-for-the-realism-debate">Implications for the realism debate</a></li>
+<li><a href="statistics.html#problem-of-induction"><span class="header-section-number">1.1.1</span> Problem of induction</a></li>
+<li><a href="statistics.html#probability-and-its-related-concepts"><span class="header-section-number">1.1.2</span> Probability and its related concepts</a></li>
+<li><a href="statistics.html#foundations-of-statistics"><span class="header-section-number">1.1.3</span> Foundations of statistics</a></li>
+<li><a href="statistics.html#statistical-models"><span class="header-section-number">1.1.4</span> Statistical models</a></li>
+<li><a href="statistics.html#point-estimation-and-confidence-intervals"><span class="header-section-number">1.1.5</span> Point estimation and confidence intervals</a></li>
+<li><a href="statistics.html#statistical-hypothesis-testing"><span class="header-section-number">1.1.6</span> Statistical hypothesis testing</a></li>
+<li><a href="statistics.html#systematic-uncertainties"><span class="header-section-number">1.1.7</span> Systematic uncertainties</a></li>
+<li><a href="statistics.html#exploratory-data-analysis"><span class="header-section-number">1.1.8</span> Exploratory data analysis</a></li>
+<li><a href="statistics.html#likelihood-principle"><span class="header-section-number">1.1.9</span> Likelihood principle</a></li>
+<li><a href="statistics.html#statistics-wars"><span class="header-section-number">1.1.10</span> &#8220;Statistics Wars&#8221;</a></li>
+<li><a href="statistics.html#replication-crisis"><span class="header-section-number">1.1.11</span> Replication crisis</a></li>
+<li><a href="statistics.html#information-geometry"><span class="header-section-number">1.1.12</span> Information geometry</a></li>
+<li><a href="statistics.html#machine-learning"><span class="header-section-number">1.1.13</span> Machine learning</a></li>
+<li><a href="statistics.html#theoretical-machine-learning"><span class="header-section-number">1.1.14</span> Theoretical machine learning</a></li>
+<li><a href="statistics.html#automation"><span class="header-section-number">1.1.15</span> Automation</a></li>
+<li><a href="statistics.html#implications-for-the-realism-debate"><span class="header-section-number">1.1.16</span> Implications for the realism debate</a></li>
 </ol></li>
-<li><a href="statistics.html#my-thoughts">My thoughts</a></li>
-<li><a href="statistics.html#annotated-bibliography">Annotated bibliography</a>
+<li><a href="statistics.html#my-thoughts"><span class="header-section-number">1.2</span> My thoughts</a></li>
+<li><a href="statistics.html#annotated-bibliography"><span class="header-section-number">1.3</span> Annotated bibliography</a>
 <ol style="list-style-type: decimal">
-<li><a href="statistics.html#mayo-d.g.-1996.-error-and-the-growth-of-experimental-knowledge.">Mayo, D.G. (1996). <em>Error and the Growth of Experimental Knowledge</em>.</a></li>
-<li><a href="statistics.html#cowan-g.-1998.-statistical-data-analysis.">Cowan, G. (1998). <em>Statistical Data Analysis</em>.</a></li>
-<li><a href="statistics.html#james-f.-2006.-statistical-methods-in-experimental-physics.">James, F. (2006). <em>Statistical Methods in Experimental Physics</em>.</a></li>
-<li><a href="statistics.html#cowan-g.-et-al.-2011.-asymptotic-formulae-for-likelihood-based-tests-of-new-physics.">Cowan, G. <em>et al.</em> (2011). Asymptotic formulae for likelihood-based tests of new physics.</a></li>
-<li><a href="statistics.html#atlas-collaboration.-2012.-combined-search-for-the-standard-model-higgs-boson.">ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson.</a></li>
-<li><a href="statistics.html#cranmer-k-2015.-practical-statistics-for-the-lhc.">Cranmer, K (2015). Practical statistics for the LHC.</a></li>
-<li><a href="statistics.html#more-articles-to-do">More articles to do</a></li>
+<li><a href="statistics.html#mayo-d.g.-1996.-error-and-the-growth-of-experimental-knowledge."><span class="header-section-number">1.3.1</span> Mayo, D.G. (1996). <em>Error and the Growth of Experimental Knowledge</em>.</a></li>
+<li><a href="statistics.html#cowan-g.-1998.-statistical-data-analysis."><span class="header-section-number">1.3.2</span> Cowan, G. (1998). <em>Statistical Data Analysis</em>.</a></li>
+<li><a href="statistics.html#james-f.-2006.-statistical-methods-in-experimental-physics."><span class="header-section-number">1.3.3</span> James, F. (2006). <em>Statistical Methods in Experimental Physics</em>.</a></li>
+<li><a href="statistics.html#cowan-g.-et-al.-2011.-asymptotic-formulae-for-likelihood-based-tests-of-new-physics."><span class="header-section-number">1.3.4</span> Cowan, G. <em>et al.</em> (2011). Asymptotic formulae for likelihood-based tests of new physics.</a></li>
+<li><a href="statistics.html#atlas-collaboration.-2012.-combined-search-for-the-standard-model-higgs-boson."><span class="header-section-number">1.3.5</span> ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson.</a></li>
+<li><a href="statistics.html#cranmer-k-2015.-practical-statistics-for-the-lhc."><span class="header-section-number">1.3.6</span> Cranmer, K (2015). Practical statistics for the LHC.</a></li>
+<li><a href="statistics.html#more-articles-to-do"><span class="header-section-number">1.3.7</span> More articles to do</a></li>
 </ol></li>
-<li><a href="statistics.html#links-and-encyclopedia-articles">Links and encyclopedia articles</a>
+<li><a href="statistics.html#links-and-encyclopedia-articles"><span class="header-section-number">1.4</span> Links and encyclopedia articles</a>
 <ol style="list-style-type: decimal">
-<li><a href="statistics.html#sep">SEP</a></li>
-<li><a href="statistics.html#iep">IEP</a></li>
-<li><a href="statistics.html#scholarpedia">Scholarpedia</a></li>
-<li><a href="statistics.html#wikipedia">Wikipedia</a></li>
-<li><a href="statistics.html#others">Others</a></li>
+<li><a href="statistics.html#sep"><span class="header-section-number">1.4</span> SEP</a></li>
+<li><a href="statistics.html#iep"><span class="header-section-number">1.4</span> IEP</a></li>
+<li><a href="statistics.html#scholarpedia"><span class="header-section-number">1.4</span> Scholarpedia</a></li>
+<li><a href="statistics.html#wikipedia"><span class="header-section-number">1.4</span> Wikipedia</a></li>
+<li><a href="statistics.html#others"><span class="header-section-number">1.4</span> Others</a></li>
 </ol></li>
 <li><a href="statistics.html#references">References</a></li>
 </ol>
-<h2 id="issues-and-positions">Issues and positions</h2>
-<h3 id="problem-of-induction">Problem of induction</h3>
+<h2 id="issues-and-positions"><span class="header-section-number">1.1</span> Issues and positions</h2>
+<h3 id="problem-of-induction"><span class="header-section-number">1.1.1</span> Problem of induction</h3>
 <p>See the <a href="scientific-method.html#induction">Outline of the scientific method</a></p>
-<h3 id="probability-and-its-related-concepts">Probability and its related concepts</h3>
-<h4 id="probability">Probability</h4>
+<h3 id="probability-and-its-related-concepts"><span class="header-section-number">1.1.2</span> Probability and its related concepts</h3>
+<h4 id="probability"><span class="header-section-number">1.1.2.1</span> Probability</h4>
 <p>Probability is of epistemic interest, being in some sense a measure of inductive confidence.</p>
 <ul>
 <li>Kolmogorov</li>
 <li>Carnap: &#8220;Probability as a guide in life&#8221;<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a></li>
 </ul>
-<h4 id="expectation-and-variance">Expectation and variance</h4>
+<h4 id="expectation-and-variance"><span class="header-section-number">1.1.2.2</span> Expectation and variance</h4>
 <p>Expectation:</p>
 <p><span class="math display">\[ \mathrm{E}(y) \equiv \int dx \: P(x) \: y(x) \label{eq:expectation} \]</span></p>
 <p>Expectation values can be approximated with a partial sum over some data or monte carol sample:</p>
@@ -155,13 +155,13 @@
 <p>which is bounded: <span class="math inline">\(-1 \leq \mathrm{Cor}(x_i, x_j) \leq 1\)</span>.</p>
 <p>The covariance of two random vectors is given by</p>
 <p><span class="math display">\[ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\top}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\top} \label{eq:covariance_matrix_vectors} \]</span></p>
-<h4 id="uncertainty">Uncertainty</h4>
+<h4 id="uncertainty"><span class="header-section-number">1.1.2.3</span> Uncertainty</h4>
 <ul>
 <li>Quantiles</li>
 <li>Practice of standard error</li>
 <li>Uncertainty quantification</li>
 </ul>
-<h4 id="bayes-theorem">Bayes&#8217; theorem</h4>
+<h4 id="bayes-theorem"><span class="header-section-number">1.1.2.4</span> Bayes&#8217; theorem</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Thomas_Bayes">Bayes, Thomas (1701-1761)</a></li>
 <li>Bayes&#8217; theorem</li>
@@ -171,7 +171,7 @@
 <li>Extended version of Bayes theorem</li>
 <li>Example of conditioning with medical diagnostics</li>
 </ul>
-<h4 id="likelihood-and-frequentist-vs-bayesian-probability">Likelihood and frequentist vs bayesian probability</h4>
+<h4 id="likelihood-and-frequentist-vs-bayesian-probability"><span class="header-section-number">1.1.2.5</span> Likelihood and frequentist vs bayesian probability</h4>
 <ul>
 <li>frequentist vs bayesian probability</li>
 <li>Weisberg: <a href="https://jonathanweisberg.org/vip/two-schools.html">&#8220;Two Schools&#8221;</a><a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a></li>
@@ -198,8 +198,8 @@
 </ul></li>
 <li>We will return to the frequentist vs bayesian debate in the section on the <a href="#statistics-wars">&#8220;Statistics Wars&#8221;</a>.</li>
 </ul>
-<h3 id="foundations-of-statistics">Foundations of statistics</h3>
-<h4 id="early-investigators">Early investigators</h4>
+<h3 id="foundations-of-statistics"><span class="header-section-number">1.1.3</span> Foundations of statistics</h3>
+<h4 id="early-investigators"><span class="header-section-number">1.1.3.1</span> Early investigators</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/John_Graunt">Graunt, John (1620-1674)</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Jacob_Bernoulli">Bernoulli, Jacob (1655-1705)</a>
@@ -226,7 +226,7 @@
 <li><em>The Logic of Chance</em> (1866)<a href="#fn9" class="footnoteRef" id="fnref9"><sup>9</sup></a></li>
 </ul></li>
 </ul>
-<h4 id="foundations-of-modern-statistics">Foundations of modern statistics</h4>
+<h4 id="foundations-of-modern-statistics"><span class="header-section-number">1.1.3.2</span> Foundations of modern statistics</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Charles_Sanders_Peirce">Peirce, Charles Sanders (1839-1914)</a>
 <ul>
@@ -257,7 +257,7 @@
 <li>objective (non-informative) Jeffreys priors</li>
 </ul></li>
 </ul>
-<h4 id="pedagogy">Pedagogy</h4>
+<h4 id="pedagogy"><span class="header-section-number">1.1.3.3</span> Pedagogy</h4>
 <ul>
 <li>Kendall<a href="#fn16" class="footnoteRef" id="fnref16"><sup>16</sup></a></li>
 <li>James<a href="#fn17" class="footnoteRef" id="fnref17"><sup>17</sup></a></li>
@@ -266,14 +266,14 @@
 <li>Cranmer<a href="#fn20" class="footnoteRef" id="fnref20"><sup>20</sup></a></li>
 <li>Weisberg<a href="#fn21" class="footnoteRef" id="fnref21"><sup>21</sup></a></li>
 </ul>
-<h3 id="statistical-models">Statistical models</h3>
-<h4 id="parametric-models">Parametric models</h4>
+<h3 id="statistical-models"><span class="header-section-number">1.1.4</span> Statistical models</h3>
+<h4 id="parametric-models"><span class="header-section-number">1.1.4.1</span> Parametric models</h4>
 <ul>
 <li>Data: <span class="math inline">\(x_i\)</span></li>
 <li>Parameters: <span class="math inline">\(\theta_j\)</span></li>
 <li>Model: <span class="math inline">\(f(\vec{x} ; \vec{\theta})\)</span></li>
 </ul>
-<h4 id="canonical-distributions">Canonical distributions</h4>
+<h4 id="canonical-distributions"><span class="header-section-number">1.1.4.2</span> Canonical distributions</h4>
 <ul>
 <li>Bernoulli distribution</li>
 <li>Binomial distribution</li>
@@ -290,7 +290,7 @@
 <li>Univariate distribution relationships<a href="#fn22" class="footnoteRef" id="fnref22"><sup>22</sup></a></li>
 <li>TODO: add fig</li>
 </ul>
-<h4 id="mixture-models">Mixture models</h4>
+<h4 id="mixture-models"><span class="header-section-number">1.1.4.3</span> Mixture models</h4>
 <ul>
 <li>Gaussian mixture models (GMM)</li>
 <li>Marked poisson
@@ -299,15 +299,15 @@
 <li>HistFactory<a href="#fn23" class="footnoteRef" id="fnref23"><sup>23</sup></a></li>
 </ul></li>
 </ul>
-<h3 id="point-estimation-and-confidence-intervals">Point estimation and confidence intervals</h3>
-<h4 id="inverse-problems">Inverse problems</h4>
+<h3 id="point-estimation-and-confidence-intervals"><span class="header-section-number">1.1.5</span> Point estimation and confidence intervals</h3>
+<h4 id="inverse-problems"><span class="header-section-number">1.1.5.1</span> Inverse problems</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Inverse_problem">Inverse problem</a></li>
 <li>estimators</li>
 <li>regression</li>
 <li>Accuracy vs precision<a href="#fn24" class="footnoteRef" id="fnref24"><sup>24</sup></a></li>
 </ul>
-<h4 id="bias-and-variance">Bias and variance</h4>
+<h4 id="bias-and-variance"><span class="header-section-number">1.1.5.2</span> Bias and variance</h4>
 <p>The bias of an estimator, <span class="math inline">\(\hat\theta\)</span>, is defined as</p>
 <p><span class="math display">\[ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}(\hat{\theta} - \theta) = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} \]</span></p>
 <p>The mean squared error (MSE) of an estimator has a similar formula to variance (eq.&#160;<span class="math inline">\(\eqref{eq:variance}\)</span>) except that instead of quantifying the square of the difference of the estimator and its expected value, the MSE uses the square of the difference of the estimator and the true parameter:</p>
@@ -333,7 +333,7 @@
 <li>MSE and model capacity</li>
 <li>Note the new deep learning view<a href="#fn25" class="footnoteRef" id="fnref25"><sup>25</sup></a></li>
 </ul>
-<h4 id="maximum-likelihood-estimation">Maximum likelihood estimation</h4>
+<h4 id="maximum-likelihood-estimation"><span class="header-section-number">1.1.5.3</span> Maximum likelihood estimation</h4>
 <p>A maximum likelihood estimator (MLE) was first used by Fisher<a href="#fn26" class="footnoteRef" id="fnref26"><sup>26</sup></a></p>
 <p><span class="math display">\[\hat{\theta} \equiv \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: L(\theta) \label{eq:mle} \]</span></p>
 <p>Maximizing <span class="math inline">\(\mathrm{log} \: L(\theta)\)</span> is equivalent to maximizing <span class="math inline">\(L(\theta)\)</span>, and the former is more convenient because for data that are independent and identically distributed (<em>i.i.d.</em>) the joint likelihood can be factored into a product of individual measurements:</p>
@@ -350,7 +350,7 @@
 <li>Ordinary Least Squares (OLS)</li>
 <li>interpretation</li>
 </ul>
-<h4 id="variance-of-mles">Variance of MLEs</h4>
+<h4 id="variance-of-mles"><span class="header-section-number">1.1.5.4</span> Variance of MLEs</h4>
 <ul>
 <li>Taylor expansion of a likelihood near its maximum</li>
 <li>Analytic variance of gaussian likelihoods: <span class="math inline">\(\chi^2\)</span></li>
@@ -373,7 +373,7 @@
 <li>Explain if/why the Neyman construction would be needed for point estimation.</li>
 </ul></li>
 </ul>
-<h4 id="bayesian-credibility-intervals">Bayesian credibility intervals</h4>
+<h4 id="bayesian-credibility-intervals"><span class="header-section-number">1.1.5.5</span> Bayesian credibility intervals</h4>
 <ul>
 <li>defined, MAP</li>
 <li>prior sensitivity
@@ -390,7 +390,7 @@
 <li>Some HEP fit</li>
 </ul></li>
 </ul>
-<h3 id="statistical-hypothesis-testing">Statistical hypothesis testing</h3>
+<h3 id="statistical-hypothesis-testing"><span class="header-section-number">1.1.6</span> Statistical hypothesis testing</h3>
 <ul>
 <li>Null hypothesis significance testing (NHST)
 <ul>
@@ -435,7 +435,7 @@
 <li>New physics</li>
 </ul></li>
 </ul>
-<h3 id="systematic-uncertainties">Systematic uncertainties</h3>
+<h3 id="systematic-uncertainties"><span class="header-section-number">1.1.7</span> Systematic uncertainties</h3>
 <ul>
 <li>Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekka Sinervo (PhyStat2003)<a href="#fn38" class="footnoteRef" id="fnref38"><sup>38</sup></a></li>
 <li>Not to be confused with type-1 and type-2 errors in Neyman-Pearson theory</li>
@@ -448,7 +448,7 @@
 <img src="img/systematic-uncertainties-sinervo.png" alt="Figure 1: Classification of measurement uncertainties (philosophy-in-figures.tumblr.com)." id="fig:systematic-uncertainties-sinervo" />
 <p class="caption">Figure 1: Classification of measurement uncertainties (<a href="http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties">philosophy-in-figures.tumblr.com</a>).</p>
 </div>
-<h4 id="examples-of-poor-estimates-of-systematic-uncertanties">Examples of poor estimates of systematic uncertanties</h4>
+<h4 id="examples-of-poor-estimates-of-systematic-uncertanties"><span class="header-section-number">1.1.7.1</span> Examples of poor estimates of systematic uncertanties</h4>
 <ul>
 <li>CDF <span class="math inline">\(Wjj\)</span> bump
 <ul>
@@ -461,7 +461,7 @@
 <img src="img/AnimatedDijet.gif" alt="Figure 2: Demonstration of sensitivity to the jet energy scale for an alleged excess in Wjj by Tommaso Dorigo (2011)." id="fig:AnimatedDijet" />
 <p class="caption">Figure 2: Demonstration of sensitivity to the jet energy scale for an alleged excess in <span class="math inline">\(Wjj\)</span> by <a href="https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886">Tommaso Dorigo (2011)</a>.</p>
 </div>
-<h3 id="exploratory-data-analysis">Exploratory data analysis</h3>
+<h3 id="exploratory-data-analysis"><span class="header-section-number">1.1.8</span> Exploratory data analysis</h3>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/John_Tukey">Tukey, John (1915-2000)</a>
 <ul>
@@ -483,7 +483,7 @@
 <li>RECAST</li>
 </ul></li>
 </ul>
-<h3 id="likelihood-principle">Likelihood principle</h3>
+<h3 id="likelihood-principle"><span class="header-section-number">1.1.9</span> Likelihood principle</h3>
 <ul>
 <li><a href="http://en.wikipedia.org/wiki/Likelihood_principle">Likelihood principle</a></li>
 <li>The likelihood principle is the proposition that, given a statistical model and a data sample, all the evidence relevant to model parameters is contained in the likelihood function.</li>
@@ -517,7 +517,7 @@
 <blockquote>
 <p>Likelihoods are vital to all statistical accounts, but they are often misunderstood because the data are fixed and the hypothesis varies. Likelihoods of hypotheses should not be confused with their probabilities. &#8230; [T]he same phenomenon may be perfectly predicted or explained by two rival theories; so both theories are equally likely on the data, even though they cannot both be true.<a href="#fn48" class="footnoteRef" id="fnref48"><sup>48</sup></a></p>
 </blockquote>
-<h3 id="statistics-wars">&#8220;Statistics Wars&#8221;</h3>
+<h3 id="statistics-wars"><span class="header-section-number">1.1.10</span> &#8220;Statistics Wars&#8221;</h3>
 <ul>
 <li>Carnap
 <ul>
@@ -575,12 +575,12 @@
 <img src="img/gandenberger-thesis-venn-diagram.png" alt="Figure 3: The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference (gandenberger.org/research/)." id="fig:gandenberger-thesis-venn-diagram" />
 <p class="caption">Figure 3: The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference (<a href="http://gandenberger.org/research/">gandenberger.org/research/</a>).</p>
 </div>
-<h3 id="replication-crisis">Replication crisis</h3>
-<h4 id="introduction">Introduction</h4>
+<h3 id="replication-crisis"><span class="header-section-number">1.1.11</span> Replication crisis</h3>
+<h4 id="introduction"><span class="header-section-number">1.1.11.1</span> Introduction</h4>
 <ul>
 <li>&#8220;Why most published research findings are false&#8221;<a href="#fn60" class="footnoteRef" id="fnref60"><sup>60</sup></a></li>
 </ul>
-<h4 id="p-value-controversy">P-value controversy</h4>
+<h4 id="p-value-controversy"><span class="header-section-number">1.1.11.2</span> P-value controversy</h4>
 <ul>
 <li>ASA statement on <span class="math inline">\(p\)</span>-values<a href="#fn61" class="footnoteRef" id="fnref61"><sup>61</sup></a></li>
 <li><a href="http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375">Big names in statistics want to shake up much-maligned P value</a><a href="#fn62" class="footnoteRef" id="fnref62"><sup>62</sup></a></li>
@@ -603,7 +603,7 @@
 <li>Vox: <a href="https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005">What a nerdy debate about p-values shows about science&#8211;and how to fix it</a></li>
 <li>Karen Kafadar: <a href="https://magazine.amstat.org/blog/2019/12/01/kk_dec2019/">The Year in Review &#8230; And More to Come</a></li>
 </ul>
-<h3 id="information-geometry">Information geometry</h3>
+<h3 id="information-geometry"><span class="header-section-number">1.1.12</span> Information geometry</h3>
 <ul>
 <li>&#8220;A gentle introduction to information geometry&#8221;<a href="#fn64" class="footnoteRef" id="fnref64"><sup>64</sup></a></li>
 <li>&#8220;An elementary introduction to information geometry&#8221;<a href="#fn65" class="footnoteRef" id="fnref65"><sup>65</sup></a></li>
@@ -615,8 +615,8 @@
 <li>&#8220;Geometric understanding of deep learning&#8221;<a href="#fn70" class="footnoteRef" id="fnref70"><sup>70</sup></a></li>
 <li>Cohen<a href="#fn71" class="footnoteRef" id="fnref71"><sup>71</sup></a></li>
 </ul>
-<h3 id="machine-learning">Machine learning</h3>
-<h4 id="classical">Classical</h4>
+<h3 id="machine-learning"><span class="header-section-number">1.1.13</span> Machine learning</h3>
+<h4 id="classical"><span class="header-section-number">1.1.13.1</span> Classical</h4>
 <ul>
 <li>classification vs regression</li>
 <li>supervised and unsupervised learning
@@ -625,7 +625,7 @@
 </ul></li>
 <li>Hastie, Tibshirani, &amp; Friedman<a href="#fn72" class="footnoteRef" id="fnref72"><sup>72</sup></a></li>
 </ul>
-<h4 id="deep-learning">Deep learning</h4>
+<h4 id="deep-learning"><span class="header-section-number">1.1.13.2</span> Deep learning</h4>
 <ul>
 <li>&#8220;Review: Deep learning&#8221;<a href="#fn73" class="footnoteRef" id="fnref73"><sup>73</sup></a></li>
 <li>Lower to higher level representations<a href="#fn74" class="footnoteRef" id="fnref74"><sup>74</sup></a></li>
@@ -636,7 +636,7 @@
 <img src="img/bengio-raw-to-higher-rep.png" alt="Figure 4: Raw input image is transformed into gradually higher levels of representation." id="fig:bengio-raw-to-higher-rep" />
 <p class="caption">Figure 4: Raw input image is transformed into gradually higher levels of representation.<a href="#fn77" class="footnoteRef" id="fnref77"><sup>77</sup></a></p>
 </div>
-<h4 id="computer-vision">Computer Vision</h4>
+<h4 id="computer-vision"><span class="header-section-number">1.1.13.3</span> Computer Vision</h4>
 <p>Computer Vision (CV)</p>
 <ul>
 <li>Fukushima: neocognitron</li>
@@ -644,7 +644,7 @@
 <li>Ciresan: MCDNN</li>
 <li>Krizhevsky: AlexNet</li>
 </ul>
-<h4 id="natural-language-processing">Natural language processing</h4>
+<h4 id="natural-language-processing"><span class="header-section-number">1.1.13.4</span> Natural language processing</h4>
 <p>Natural language processing (NLP)</p>
 <ul>
 <li>RNNs and LSTMs
@@ -655,25 +655,25 @@
 <li>Review by Stahlberg<a href="#fn80" class="footnoteRef" id="fnref80"><sup>80</sup></a></li>
 <li>Rationalism and empiricism in artificial intellegence: A survey of 25 years of evaluation [in NLP].<a href="#fn81" class="footnoteRef" id="fnref81"><sup>81</sup></a></li>
 </ul>
-<h4 id="reinforcement-learning">Reinforcement learning</h4>
+<h4 id="reinforcement-learning"><span class="header-section-number">1.1.13.5</span> Reinforcement learning</h4>
 <p>Reinforcement learning (RL)</p>
-<h3 id="theoretical-machine-learning">Theoretical machine learning</h3>
+<h3 id="theoretical-machine-learning"><span class="header-section-number">1.1.14</span> Theoretical machine learning</h3>
 <ul>
 <li>No free lunch theorem</li>
 <li>Relationship to statistical mechanics<a href="#fn82" class="footnoteRef" id="fnref82"><sup>82</sup></a></li>
 <li>Relationship to gauge theory</li>
 </ul>
-<h3 id="automation">Automation</h3>
-<h4 id="surrogate-models">Surrogate models</h4>
+<h3 id="automation"><span class="header-section-number">1.1.15</span> Automation</h3>
+<h4 id="surrogate-models"><span class="header-section-number">1.1.15.1</span> Surrogate models</h4>
 <ul>
 <li>&#8220;The frontier of simulation-based inference&#8221;<a href="#fn83" class="footnoteRef" id="fnref83"><sup>83</sup></a></li>
 </ul>
-<h4 id="automl">AutoML</h4>
+<h4 id="automl"><span class="header-section-number">1.1.15.2</span> AutoML</h4>
 <ul>
 <li>Neural Architecture Search (NAS)</li>
 <li>AutoML frameworks</li>
 </ul>
-<h4 id="autoscience">AutoScience</h4>
+<h4 id="autoscience"><span class="header-section-number">1.1.15.3</span> AutoScience</h4>
 <ul>
 <li>Automated discovery</li>
 <li>&#8220;Learning new physics from a machine&#8221;<a href="#fn84" class="footnoteRef" id="fnref84"><sup>84</sup></a></li>
@@ -687,7 +687,7 @@
 <img src="img/BDEC-scientific-method.png" alt="Figure 5: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis (Asch, M. et al., 2018)." id="fig:BDEC-scientific-method" />
 <p class="caption">Figure 5: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis <span class="citation">(Asch, M. et al., 2018)</span>.</p>
 </div>
-<h3 id="implications-for-the-realism-debate">Implications for the realism debate</h3>
+<h3 id="implications-for-the-realism-debate"><span class="header-section-number">1.1.16</span> Implications for the realism debate</h3>
 <ul>
 <li>Korb<a href="#fn87" class="footnoteRef" id="fnref87"><sup>87</sup></a></li>
 <li>Williamson<a href="#fn88" class="footnoteRef" id="fnref88"><sup>88</sup></a></li>
@@ -698,7 +698,7 @@
 </ul></li>
 <li>See the <a href="scientific-realism.html">Outline on scientific realism</a></li>
 </ul>
-<h2 id="my-thoughts">My thoughts</h2>
+<h2 id="my-thoughts"><span class="header-section-number">1.2</span> My thoughts</h2>
 <p>My docs:</p>
 <ul>
 <li><a href="http://rreece.github.io/publications/pdf/2009.Reece.Derivation-of-the-Cramer-Rao-Bound.pdf">Derivation of the Cram&#233;r-Rao Bound</a></li>
@@ -709,74 +709,74 @@
 <li><a href="http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf">Primer on statistics: MLE, confidence intervals, and hypothesis testing</a></li>
 </ul>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<h2 id="annotated-bibliography">Annotated bibliography</h2>
-<h3 id="mayo-d.g.-1996.-error-and-the-growth-of-experimental-knowledge.">Mayo, D.G. (1996). <em>Error and the Growth of Experimental Knowledge</em>.</h3>
+<h2 id="annotated-bibliography"><span class="header-section-number">1.3</span> Annotated bibliography</h2>
+<h3 id="mayo-d.g.-1996.-error-and-the-growth-of-experimental-knowledge."><span class="header-section-number">1.3.1</span> Mayo, D.G. (1996). <em>Error and the Growth of Experimental Knowledge</em>.</h3>
 <ul>
 <li><span class="citation">Mayo (1996)</span></li>
 </ul>
-<h4 id="my-thoughts-1">My thoughts</h4>
+<h4 id="my-thoughts-1"><span class="header-section-number">1.3.1.1</span> My thoughts</h4>
 <ul>
 <li>TODO</li>
 </ul>
 <hr />
-<h3 id="cowan-g.-1998.-statistical-data-analysis.">Cowan, G. (1998). <em>Statistical Data Analysis</em>.</h3>
+<h3 id="cowan-g.-1998.-statistical-data-analysis."><span class="header-section-number">1.3.2</span> Cowan, G. (1998). <em>Statistical Data Analysis</em>.</h3>
 <ul>
 <li><span class="citation">Cowan (1998)</span> and <span class="citation">Cowan (2016)</span></li>
 </ul>
-<h4 id="my-thoughts-2">My thoughts</h4>
+<h4 id="my-thoughts-2"><span class="header-section-number">1.3.2.1</span> My thoughts</h4>
 <ul>
 <li>TODO</li>
 </ul>
 <hr />
-<h3 id="james-f.-2006.-statistical-methods-in-experimental-physics.">James, F. (2006). <em>Statistical Methods in Experimental Physics</em>.</h3>
+<h3 id="james-f.-2006.-statistical-methods-in-experimental-physics."><span class="header-section-number">1.3.3</span> James, F. (2006). <em>Statistical Methods in Experimental Physics</em>.</h3>
 <ul>
 <li><span class="citation">James (2006)</span></li>
 </ul>
-<h4 id="my-thoughts-3">My thoughts</h4>
+<h4 id="my-thoughts-3"><span class="header-section-number">1.3.3.1</span> My thoughts</h4>
 <ul>
 <li>TODO</li>
 </ul>
 <hr />
-<h3 id="cowan-g.-et-al.-2011.-asymptotic-formulae-for-likelihood-based-tests-of-new-physics.">Cowan, G. <em>et al.</em> (2011). Asymptotic formulae for likelihood-based tests of new physics.</h3>
+<h3 id="cowan-g.-et-al.-2011.-asymptotic-formulae-for-likelihood-based-tests-of-new-physics."><span class="header-section-number">1.3.4</span> Cowan, G. <em>et al.</em> (2011). Asymptotic formulae for likelihood-based tests of new physics.</h3>
 <ul>
 <li><span class="citation">Cowan et al. (2011)</span></li>
 <li>Glen Cowan, Kyle Cranmer, Eilam Gross, Ofer Vitells</li>
 </ul>
-<h4 id="my-thoughts-4">My thoughts</h4>
+<h4 id="my-thoughts-4"><span class="header-section-number">1.3.4.1</span> My thoughts</h4>
 <ul>
 <li>TODO</li>
 </ul>
 <hr />
-<h3 id="atlas-collaboration.-2012.-combined-search-for-the-standard-model-higgs-boson.">ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson.</h3>
+<h3 id="atlas-collaboration.-2012.-combined-search-for-the-standard-model-higgs-boson."><span class="header-section-number">1.3.5</span> ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson.</h3>
 <ul>
 <li><span class="citation">ATLAS Collaboration (2012)</span></li>
 <li><a href="http://arxiv.org/abs/1207.0319">arxiv:1207.0319</a></li>
 </ul>
-<h4 id="my-thoughts-5">My thoughts</h4>
+<h4 id="my-thoughts-5"><span class="header-section-number">1.3.5.1</span> My thoughts</h4>
 <ul>
 <li>TODO</li>
 </ul>
 <hr />
-<h3 id="cranmer-k-2015.-practical-statistics-for-the-lhc.">Cranmer, K (2015). Practical statistics for the LHC.</h3>
+<h3 id="cranmer-k-2015.-practical-statistics-for-the-lhc."><span class="header-section-number">1.3.6</span> Cranmer, K (2015). Practical statistics for the LHC.</h3>
 <ul>
 <li><span class="citation">Cranmer (2015)</span></li>
 </ul>
-<h4 id="my-thoughts-6">My thoughts</h4>
+<h4 id="my-thoughts-6"><span class="header-section-number">1.3.6.1</span> My thoughts</h4>
 <ul>
 <li>TODO</li>
 </ul>
 <hr />
-<h3 id="more-articles-to-do">More articles to do</h3>
+<h3 id="more-articles-to-do"><span class="header-section-number">1.3.7</span> More articles to do</h3>
 <ul>
 <li><em>All of Statistics</em><a href="#fn91" class="footnoteRef" id="fnref91"><sup>91</sup></a></li>
 <li><em>The Foundations of Statistics</em><a href="#fn92" class="footnoteRef" id="fnref92"><sup>92</sup></a></li>
 </ul>
-<h2 id="links-and-encyclopedia-articles">Links and encyclopedia articles</h2>
+<h2 id="links-and-encyclopedia-articles"><span class="header-section-number">1.4</span> Links and encyclopedia articles</h2>
 <div class="clickmore">
 <a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')"> Click to show links </a>
 </div>
 <div id="encyclopedia_articles" class="more">
-<h3 id="sep">SEP</h3>
+<h3 id="sep"><span class="header-section-number">1.4</span> SEP</h3>
 <ul>
 <li><a href="http://plato.stanford.edu/entries/abduction/">Abduction</a></li>
 <li><a href="http://plato.stanford.edu/entries/knowledge-analysis/">Analysis of Knowledge</a></li>
@@ -802,7 +802,7 @@
 <li><a href="http://plato.stanford.edu/entries/scientific-explanation/">Scientific Explanation</a></li>
 <li><a href="http://plato.stanford.edu/entries/statistics/">Statistics, Philosophy of</a></li>
 </ul>
-<h3 id="iep">IEP</h3>
+<h3 id="iep"><span class="header-section-number">1.4</span> IEP</h3>
 <ul>
 <li><a href="http://www.iep.utm.edu/carnap/">Carnap, Rudolf (1891-1970)</a></li>
 <li><a href="http://www.iep.utm.edu/epistemo/">Epistemology</a></li>
@@ -816,12 +816,12 @@
 <li><a href="http://www.iep.utm.edu/simplici/">Simplicity in the philosophy of science</a></li>
 <li><a href="http://www.iep.utm.edu/ockham/">William of Ockham (1280-1349)</a></li>
 </ul>
-<h3 id="scholarpedia">Scholarpedia</h3>
+<h3 id="scholarpedia"><span class="header-section-number">1.4</span> Scholarpedia</h3>
 <ul>
 <li><a href="http://www.scholarpedia.org/article/Algorithmic_probability">Algorithmic probability</a></li>
 <li><a href="http://www.scholarpedia.org/article/Universal_search">Universal search</a></li>
 </ul>
-<h3 id="wikipedia">Wikipedia</h3>
+<h3 id="wikipedia"><span class="header-section-number">1.4</span> Wikipedia</h3>
 <ul>
 <li><a href="http://en.wikipedia.org/wiki/Abductive_reasoning">Abductive reasoning</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Algorithmic_information_theory">Algorithmic information theory</a></li>
@@ -913,7 +913,7 @@
 <li><a href="https://en.wikipedia.org/wiki/Samuel_S._Wilks">Wilks, S.S. (1906-1964)</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Wilks%27_theorem">Wilks&#8217;s theorem</a></li>
 </ul>
-<h3 id="others">Others</h3>
+<h3 id="others"><span class="header-section-number">1.4</span> Others</h3>
 <ul>
 <li><a href="http://people.idsia.ch/~juergen/deep-learning-miraculous-year-1990-1991.html">Deep Learning: Our Miraculous Year 1990-1991</a> - Schmidhuber</li>
 <li><a href="http://errorstatistics.com/">errorstatistics.com</a> - Deborah Mayo&#8217;s blog</li>
@@ -1309,7 +1309,7 @@
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Tue Apr 28, 2020</p>
+    <p>Fri May 01, 2020</p>
   </div>
   <div class="license">
     <p>&#169; 2014-2020 Ryan Reece. All rights reserved.</p>
