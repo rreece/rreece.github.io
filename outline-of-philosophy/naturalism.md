@@ -155,9 +155,39 @@ generally consists of varying degrees of either or both:
     At the least, it is a claim that
     *science should be guiding in what we claim there is*.
 
-Methodological vs ontological naturalism.
+Also:
 
-Sean Carroll: "There is *one* (natural) world."
+-   Methodological vs ontological naturalism.
+-   Sean Carroll: "There is *one* (natural) world."
+
+
+#### History
+
+-   Discussion by McEvilley [^McEvilley2002p325]
+-   Archilochus
+-   Thales
+-   Anaximander
+-   Xenophanes
+
+Riepe on the characteristics of naturalism in Indian thought:
+
+>   1.  The naturalist accepts sense experience as the most important avenue of knowledge.
+>   2.  The naturalist believes that knowledge is not esoteric, innate, or intuitive (mystical).
+>   3.  The naturalist believes that the external world, of which man is an integral part, is objective
+>       and hence not "his idea" but an existent apart from his, your, or anyone's consciousness.
+>   4.  The naturalist believes that hte world minifests order and regularity and that,
+>       contrary to some opinion, this does not exclude human responsibility.
+>       This order cannot be changed merely by thought, magic, sacrifice, or prayer,
+>       but requires an actual manipulation of the external world in some physical way.
+>   5.  The naturalist rejects supernatural teleology. The direction of the world is
+>       caused by the world itself.
+>   6.  The naturalist is humanistic. Man is not simply a mirror of deity or the absolute
+>       but a biological existent whose goal it is to do what is proper to man.
+>       What is proper to man is discovered in a naturalistic context by the
+>       moral philosopher. [^Riepe1961pX]
+
+[^McEvilley2002p325]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 325--333.
+[^Riepe1961pX]: @Riepe_1961_The_Naturalistic_Traddition_in_Indian_Thought\, p. TODO.
 
 
 ### Rejection of *a priori* metaphysics
@@ -237,6 +267,15 @@ Opening lines to *ETMG*:
 [^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21. (emphasis added)
 
 
+### Monism and physicalism
+
+-   Parmenides
+-   Materialism/physicalism/functionalism
+-   Alyssa Ney
+-   Part of methodological naturalism, but also a result of empirical confirmation.
+-   See the [Outline on Philosophy of mind](mind.html).
+
+
 ### Reductionism
 
 ![The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013)
@@ -273,15 +312,6 @@ Alex Rosenberg is a mad dog against emergence. Video:
 
 [^Morris2019]: @Morris_2019_Physicalism_Deconstructed_Levels_of_reality\.
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
-
-
-### Monism and physicalism
-
--   Parmenides
--   Materialism/physicalism/functionalism
--   Alyssa Ney
--   Part of methodological naturalism, but also a result of empirical confirmation.
--   See the [Outline on Philosophy of mind](mind.html).
 
 
 ### Natural kinds

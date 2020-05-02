@@ -92,6 +92,10 @@ See also:
 -   Buddhism and Stoicism
 -   Buddhism and Pyrrhonism
 -   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
+-   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
+    -   See McEvilley [^McEvilley2002p327]
+
+[^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
 
 ### Romanticism
