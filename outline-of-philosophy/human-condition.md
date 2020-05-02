@@ -88,10 +88,6 @@ Branches of Buddhism:
 See also:
 
 -   [The Middle Path](https://en.wikipedia.org/wiki/Middle_Way)
--   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
--   Buddhism and Stoicism
--   Buddhism and Pyrrhonism
--   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
     -   See McEvilley [^McEvilley2002p327]
 
@@ -109,13 +105,23 @@ See also:
         -   [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
         -   [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
 
+
 ### Comparitive studies
 
+-   Buddhism and Geek philosophy
+    -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
+    -   Buddhism and Stoicism
+    -   Buddhism and Pyrrhonism
+    -   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
+-   McEvilley [^McEvilley2002]
+-   "Silk road philosophy"
+    -   Daniel Estrada
 -   *The Perennial Philosophy*
     -   Huxley [^Huxley1945]
--   McEvilley [^McEvilley2002]
+    -   TODO: criticism
 
-In defending esoteric knowledge [^EsotericKnowledge], Huxley's view are decidedly not naturalistic:
+In defending esoteric knowledge [^EsotericKnowledge], Huxley's views are
+decidedly not naturalistic:
 
 >   If one is not oneself a sage or saint, the best thing one can do, in the
 >   field of metaphysics, is to study the works of those who were, and who,
