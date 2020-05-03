@@ -251,6 +251,8 @@ Weinberg:
 
 ### Rationalism vs empiricism
 
+#### Introduction
+
 -   Early modern philosophy, coming out of medieval scholasticism
 -   Debates over the foundations of epistemology
 -   Skepticism
