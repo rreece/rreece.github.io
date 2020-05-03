@@ -56,12 +56,15 @@ Issues and positions
 -   Noether's theorem
 -   group theory [^tHooft2007]
 -   *Physics from Symmetry* [^Schwichtenberg2015]
+-   Wigner-stone theorems as cornerstone's of QM (Ovrut)
 
 [^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^tHooft2007]: @tHooft_2007_Lie_Groups_in_Physics\.
 
 
 ### Quantum mechanics
+
+#### Introduction
 
 -   Traditionally focus on NRQM [^Ney2013]
 -   Hilbert spaces.  Wigner's theorem.  The Born rule.
@@ -72,7 +75,17 @@ Issues and positions
 [^Ney2013]: @Ney_2013_The_Wave_Function_Essays_on_the_metaphysics\.
 
 
-#### Foundations of QM:
+#### History
+
+-   Planck
+-   Einstein
+-   Bohr
+-   Heisenberg
+-   Schr&ouml;dinger
+-   Born
+
+
+#### Foundations of QM
 
 -   Hilbert spaces:
 
@@ -94,7 +107,7 @@ conserved under that transformation.
 
 $$ \hat{U}(x^{\mu}) = e^{ -i \: \hat{P}_\mu \: x^\mu } $$
 
-#### Secondary properties of QM:
+#### Secondary properties of QM
 
 -   Wave function:
 
@@ -122,13 +135,6 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 
 [^Drossel2015]: @Drossel_2015_On_the_relation_between_the_second_law\, p. 51--2.
 [^Giulini1996]: @Giulini_1996_Decoherence_and_the_Appearance_of_a_Classical\.
-
-
-#### "Atom" (2009) BBC documentary
-
-Jim Al-Khalili tells the story of the greatest scientific discovery ever - that everything is made of atoms.
-
--   [watch the 3 episodes](http://topdocumentaryfilms.com/atom-tim/)
 
 
 ### Quantum field theory
@@ -843,6 +849,7 @@ Click to show links
 
 ### Videos
 
+-   Al-Khalili, J. (2009). ["Atom" BBC documentary](http://topdocumentaryfilms.com/atom-tim/) (3 episodes)
 -   Carroll, S. (2013). [Particles, Fields and The Future of Physics.](https://www.youtube.com/watch?v=gEKSpZPByD0)
 -   Carroll, S. (2019). [Something Deeply Hidden - talk at Google.](https://www.youtube.com/watch?v=F6FR08VylO4)
 -   Kuhn, R.L. (2020). [Closer To Truth: What's Strong Emergence?](https://www.youtube.com/watch?v=zkffv2nVF64)
