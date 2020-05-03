@@ -55,18 +55,28 @@ Feynman:
 
 ### Abrahamism
 
--   [Judaism](https://en.wikipedia.org/wiki/Judaism) (7th century BCE)
--   [Christianity](https://en.wikipedia.org/wiki/Christianity) (1st century CE)
--   [Islam](https://en.wikipedia.org/wiki/Islam) (7th century CE)
+-   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
+-   [Abraham](https://en.wikipedia.org/wiki/Abraham)
+-   [Judaism](https://en.wikipedia.org/wiki/Judaism) (began 7th century BCE)
+-   [Christianity](https://en.wikipedia.org/wiki/Christianity) (began 1st century CE)
+-   [Islam](https://en.wikipedia.org/wiki/Islam) (began 7th century CE)
+-   [Catholicism](https://en.wikipedia.org/wiki/Catholicism)
+-   [Protestantism](https://en.wikipedia.org/wiki/Protestantism)
+-   [Evangelicalism](https://en.wikipedia.org/wiki/Evangelicalism)
 
 
 ### Buddhism
+
+-   [Buddhism](https://en.wikipedia.org/wiki/Buddhism) (began between 6th and 4th centuries BCE)
+-   [Gautama Buddha (c. 5th to 4th century BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
+-   [Middle Path](https://en.wikipedia.org/wiki/Middle_Way)
+-   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
+    -   See McEvilley [^McEvilley2002p327]
 
 Branches of Buddhism:
 
 -   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
     -   Pali: "The School of the Elders"
-    -   [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)
     -   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
     -   [Samyutta Ni&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
     -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
@@ -81,16 +91,16 @@ Branches of Buddhism:
     -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
     -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
 
-See also:
-
--   [The Middle Path](https://en.wikipedia.org/wiki/Middle_Way)
--   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
-    -   See McEvilley [^McEvilley2002p327]
-
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
 
 ### Stoicism
+
+-   [Stoicism](https://en.wikipedia.org/wiki/Stoicism) (began 3rd century BCE)
+
+TODO: primary writers
+
+Thesis (Pigliucci?):
 
 -   We don't control what happens, we control how we respond.
 -   In any situation we face, we have an opportunity to practice virtue.
@@ -101,8 +111,8 @@ See also:
 
 --Epictetus, Discourses, Book II, ch. 17
 
--   Pigliucci[^Pigliucci2017]
--   Seneca[^Seneca1997]
+-   Pigliucci [^Pigliucci2017]
+-   Seneca [^Seneca1997]
 -   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
 
 [^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic\.
@@ -433,7 +443,7 @@ Click to show links
 -   [Euthyphro dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
--   [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)
+-   [Gautama Buddha (c. 5th to 4th century BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
 -   [Heidegger, Martin (1889-1976)](https://en.wikipedia.org/wiki/Martin_Heidegger)
 -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
 -   [Lucretius (c. 99-55 BCE)](https://en.wikipedia.org/wiki/Lucretius)
