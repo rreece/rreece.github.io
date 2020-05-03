@@ -53,24 +53,11 @@ Feynman:
 [^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
 [^WikiAncientHistory]: [en.wikipedia.org/wiki/Ancient_history](https://en.wikipedia.org/wiki/Ancient_history)
 
+### Abrahamism
 
-### Stoicism
-
--   We don't control what happens, we control how we respond.
--   In any situation we face, we have an opportunity to practice virtue.
--   Focus on the steps in-the-moment, not the whole goal.
--   One should be indifferent about the outcome?
-
->   It is impossible for a man to learn what he thinks he already knows.
-
---Epictetus, Discourses, Book II, ch. 17
-
--   Pigliucci[^Pigliucci2017]
--   Seneca[^Seneca1997]
--   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
-
-[^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic\.
-[^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.
+-   [Judaism](https://en.wikipedia.org/wiki/Judaism) (7th century BCE)
+-   [Christianity](https://en.wikipedia.org/wiki/Christianity) (1st century CE)
+-   [Islam](https://en.wikipedia.org/wiki/Islam) (7th century CE)
 
 
 ### Buddhism
@@ -101,6 +88,25 @@ See also:
     -   See McEvilley [^McEvilley2002p327]
 
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
+
+
+### Stoicism
+
+-   We don't control what happens, we control how we respond.
+-   In any situation we face, we have an opportunity to practice virtue.
+-   Focus on the steps in-the-moment, not the whole goal.
+-   One should be indifferent about the outcome?
+
+>   It is impossible for a man to learn what he thinks he already knows.
+
+--Epictetus, Discourses, Book II, ch. 17
+
+-   Pigliucci[^Pigliucci2017]
+-   Seneca[^Seneca1997]
+-   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
+
+[^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic\.
+[^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.
 
 
 ### Romanticism
@@ -420,6 +426,7 @@ Click to show links
 -   [*De rerum natura*](https://en.wikipedia.org/wiki/De_rerum_natura)
 -   [*De rerum natura*, List of English translations](https://en.wikipedia.org/wiki/List_of_English_translations_of_De_rerum_natura)
 -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
+-   [Eastern religions](https://en.wikipedia.org/wiki/Eastern_religions)
 -   [Ego death](https://en.wikipedia.org/wiki/Ego_death)
 -   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
@@ -455,6 +462,7 @@ Click to show links
 -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
 -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
 -   [Zen](https://en.wikipedia.org/wiki/Zen)
+-   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
 
 ### Others
 
