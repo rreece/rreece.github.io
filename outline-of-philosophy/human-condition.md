@@ -88,7 +88,9 @@ Feynman:
 
 ### Abrahamism
 
--   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
+-   [Zoroaster](https://en.wikipedia.org/wiki/Zoroaster) (lived between c. 1,500 and 1000 BCE)
+-   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism) - official religion of Ancient Persia from the 6th century BCE to the 7th century CE
+    -   first monotheism
 -   [Abraham](https://en.wikipedia.org/wiki/Abraham)
 -   [Judaism](https://en.wikipedia.org/wiki/Judaism) (began 7th century BCE)
 -   [Christianity](https://en.wikipedia.org/wiki/Christianity) (began 1st century CE)
@@ -101,6 +103,14 @@ Feynman:
 ### Hinduism
 
 -   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
+-   [Vedic period](https://en.wikipedia.org/wiki/Vedic_period) (c. 1,500--500 BCE)
+-   [Vedas](https://en.wikipedia.org/wiki/Vedas)
+    -   [Rigveda](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700--1,100 BCE)
+    -   Samaveda, Yajurveda, Atharvaveda
+-   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
+-   "Hindu synthesis" started to develop between 500 BCE and 300 CE
+-   [Dharma](https://en.wikipedia.org/wiki/Dharma)
+-   [Nirvana](https://en.wikipedia.org/wiki/Nirvana)
 
 
 ### Buddhism
@@ -131,20 +141,28 @@ Branches of Buddhism:
 
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
+
 ### Other religions
 
 #### East asian
 
--   [Taoism](https://en.wikipedia.org/wiki/Taoism)
+-   [Confucius (551-479 BCE)](https://en.wikipedia.org/wiki/Confucius)
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
+-   [Taoism](https://en.wikipedia.org/wiki/Taoism) (began c. 4th century BCE)
 -   [Shinto](https://en.wikipedia.org/wiki/Shinto)
+    -   [Yayoi period (300 BCE - 300 CE)](https://en.wikipedia.org/wiki/Yayoi_period)
+    -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.
 
 
 #### Dharmic
 
--   [Dharma](https://en.wikipedia.org/wiki/Dharma)
+-   along with Hinduism and Buddhism
+-   All Dharmic religions originated in India
 -   [Jainism](https://en.wikipedia.org/wiki/Jainism)
--   [Sikhism](https://en.wikipedia.org/wiki/Sikhism)
+    -   [Parshvanatha (c. 800/700 - 700/600 BCE)](https://en.wikipedia.org/wiki/Parshvanatha) - 23th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
+    -   [Mahavira (c. 540 - 468 BCE)](https://en.wikipedia.org/wiki/Mahaviraswami) - 24th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
+-   [Sikhism](https://en.wikipedia.org/wiki/Sikhism) (began at the end of the 15th century CE)
+    -   [Guru Nanak (1469-1539 CE)](https://en.wikipedia.org/wiki/Guru_Nanak)
 
 
 ### Stoicism
@@ -491,6 +509,7 @@ Click to show links
 -   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation)
 -   [Camus, Albert (1913-1960)](https://en.wikipedia.org/wiki/Albert_Camus)
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
+-   [Confucius (551-479 BCE)](https://en.wikipedia.org/wiki/Confucius)
 -   [Dasein](https://en.wikipedia.org/wiki/Dasein)
 -   [*De rerum natura*](https://en.wikipedia.org/wiki/De_rerum_natura)
 -   [*De rerum natura*, List of English translations](https://en.wikipedia.org/wiki/List_of_English_translations_of_De_rerum_natura)
