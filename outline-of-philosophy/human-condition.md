@@ -78,15 +78,15 @@ Branches of Buddhism:
 -   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
     -   Pali: "The School of the Elders"
     -   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
-    -   [Samyutta Ni&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
+    -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
     -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
 -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
     -   Sanskrit: "The Great Vehicle"
     -   Mah&amacr;y&amacr;na tradition is the largest major tradition of Buddhism existing today
     -   [Zen](https://en.wikipedia.org/wiki/Zen)
 -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
-    -   some consider a separate branch or sub-branch of Mah&amacr;y&amacr;na
-    -   developed in medieval period in India and spread to Tibet, Bhutan, and East Asia.
+    -   Some consider a separate branch or sub-branch of Mah&amacr;y&amacr;na
+    -   Developed in medieval period in India and spread to Tibet, Bhutan, and east Asia.
     -   [Tantra](https://en.wikipedia.org/wiki/Tantra)
     -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
     -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
@@ -100,7 +100,7 @@ Branches of Buddhism:
 
 TODO: primary writers
 
-Thesis (Pigliucci?):
+Theses (Pigliucci?):
 
 -   We don't control what happens, we control how we respond.
 -   In any situation we face, we have an opportunity to practice virtue.
@@ -121,19 +121,22 @@ Thesis (Pigliucci?):
 
 ### Romanticism
 
--   [romanticism](https://en.wikipedia.org/wiki/Romanticism)
+-   [Romanticism](https://en.wikipedia.org/wiki/Romanticism)
     -   late 18th through 19th centuries
     -   focus on emotion
--   criticism:
-    -   Alain de Botton
-        -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
-        -   [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
-        -   [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
+
+
+#### Criticism:
+
+-   Alain de Botton
+    -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
+    -   [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
+    -   [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
 
 
 ### Comparitive studies
 
--   Buddhism and Geek philosophy
+-   Buddhism and Greek philosophy
     -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
     -   Buddhism and Stoicism
     -   Buddhism and Pyrrhonism
