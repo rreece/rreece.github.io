@@ -85,7 +85,7 @@ Branches of Buddhism:
     -   Mah&amacr;y&amacr;na tradition is the largest major tradition of Buddhism existing today
     -   [Zen](https://en.wikipedia.org/wiki/Zen)
 -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
-    -   a separate branch Mah&amacr;y&amacr;na
+    -   some consider a separate branch or sub-branch of Mah&amacr;y&amacr;na
     -   developed in medieval period in India and spread to Tibet, Bhutan, and East Asia.
     -   [Tantra](https://en.wikipedia.org/wiki/Tantra)
     -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
@@ -145,7 +145,7 @@ Thesis (Pigliucci?):
     -   Huxley [^Huxley1945]
     -   TODO: criticism
 
-In defending esoteric knowledge [^EsotericKnowledge], Huxley's views are
+In defending esoteric knowledge [^EsotericKnowledge] Huxley's views are
 decidedly not naturalistic:
 
 >   If one is not oneself a sage or saint, the best thing one can do, in the
