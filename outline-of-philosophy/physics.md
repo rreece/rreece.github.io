@@ -56,7 +56,7 @@ Issues and positions
 -   Noether's theorem
 -   group theory [^tHooft2007]
 -   *Physics from Symmetry* [^Schwichtenberg2015]
--   Wigner-stone theorems as cornerstone's of QM (Ovrut)
+-   Wigner-stone theorems as cornerstones of QM (Ovrut)
 
 [^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^tHooft2007]: @tHooft_2007_Lie_Groups_in_Physics\.
