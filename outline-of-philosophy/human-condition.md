@@ -28,6 +28,32 @@ Issues and positions
 >   Humans migrated to the Americas about 15,000 years ago in the Upper
 >   Paleolithic. [^WikiAncientHistory]
 
+[First civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilization):
+
+-   [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) ([Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt) and [Mesopotamia](https://en.wikipedia.org/wiki/Mesoamerica))
+    -   First [Natufian](https://en.wikipedia.org/wiki/Natufian_culture) sedentary settlements by 10,000 BCE
+    -   [G&ouml;bekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe) built between c. 10,000 and 8,000 BCE
+    -   [Sumer](https://en.wikipedia.org/wiki/Sumer) settled between c. 5,500 and 4,000 BCE
+    -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing begins c. 3,200 BCE
+    -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing also begins c. 3,200 BCE
+    -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334 to 2,154 BCE)
+    -   [Babylonia](https://en.wikipedia.org/wiki/Babylonia) - [Babylon](https://en.wikipedia.org/wiki/Babylon) settled c. 2,300 BCE
+-   [Ancient India](https://en.wikipedia.org/wiki/History_of_India)
+    -   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3,300 to 1,300 BCE)
+    -   [Harappa](https://en.wikipedia.org/wiki/Harappa)  settled c. 2,600 BCE
+    -   [Mohenjo-daro](https://en.wikipedia.org/wiki/Mohenjo-daro) settled c. 2,500 BCE
+    -   [Indus script](https://en.wikipedia.org/wiki/Indus_script) (c. 3,500 to 1,900 BCE) - still not deciphered today!
+    -   [Vedic Sanskrit](https://en.wikipedia.org/wiki/Vedic_Sanskrit) writing begins c. 2,000 BCE
+-   [Ancient China](https://en.wikipedia.org/wiki/History_of_China)
+    -   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (2,070--1,600 BCE)
+    -   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1,250 BCE)
+-   [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica)
+    -   [Norte Chico](https://en.wikipedia.org/wiki/Norte_Chico_civilization) (c. 3,500 to 1,800 BCE)
+    -   [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga) settled c. 3,500 BCE
+    -   [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (c. 1,600 to 400 BCE)
+    -   [Olmec hieroglyphs](https://en.wikipedia.org/wiki/Olmec_hieroglyphs) possibly as early as 900 BCE
+    -   [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block) with Olmec hieroglyphs possibly as early as c. 1,000 BCE
+
 Feynman:
 
 >   We are all sad when we think of the wondrous potentialities that human
@@ -63,6 +89,11 @@ Feynman:
 -   [Catholicism](https://en.wikipedia.org/wiki/Catholicism)
 -   [Protestantism](https://en.wikipedia.org/wiki/Protestantism)
 -   [Evangelicalism](https://en.wikipedia.org/wiki/Evangelicalism)
+
+
+### Hinduism
+
+-   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
 
 
 ### Buddhism
@@ -449,6 +480,8 @@ Click to show links
 -   [Gautama Buddha (c. 5th to 4th century BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
 -   [Heidegger, Martin (1889-1976)](https://en.wikipedia.org/wiki/Martin_Heidegger)
 -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
+-   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
+-   [Languages by first written accounts, List of](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
 -   [Lucretius (c. 99-55 BCE)](https://en.wikipedia.org/wiki/Lucretius)
 -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
 -   [Middle Path](https://en.wikipedia.org/wiki/Middle_Way)
