@@ -1,6 +1,8 @@
 The human condition
 ================================================================================
 
+What are we?
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -129,8 +131,25 @@ Branches of Buddhism:
 
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
+### Other religions
+
+#### East asian
+
+-   [Taoism](https://en.wikipedia.org/wiki/Taoism)
+-   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
+-   [Shinto](https://en.wikipedia.org/wiki/Shinto)
+
+
+#### Dharmic
+
+-   [Dharma](https://en.wikipedia.org/wiki/Dharma)
+-   [Jainism](https://en.wikipedia.org/wiki/Jainism)
+-   [Sikhism](https://en.wikipedia.org/wiki/Sikhism)
+
 
 ### Stoicism
+
+Not a religion.
 
 -   [Stoicism](https://en.wikipedia.org/wiki/Stoicism) (began 3rd century BCE)
 
@@ -471,9 +490,11 @@ Click to show links
     -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
 -   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation)
 -   [Camus, Albert (1913-1960)](https://en.wikipedia.org/wiki/Albert_Camus)
+-   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
 -   [Dasein](https://en.wikipedia.org/wiki/Dasein)
 -   [*De rerum natura*](https://en.wikipedia.org/wiki/De_rerum_natura)
 -   [*De rerum natura*, List of English translations](https://en.wikipedia.org/wiki/List_of_English_translations_of_De_rerum_natura)
+-   [Dharma](https://en.wikipedia.org/wiki/Dharma)
 -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
 -   [Eastern religions](https://en.wikipedia.org/wiki/Eastern_religions)
 -   [Ego death](https://en.wikipedia.org/wiki/Ego_death)
@@ -503,10 +524,12 @@ Click to show links
 -   [Satipatthana](https://en.wikipedia.org/wiki/Satipatthana)
 -   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 -   [Seneca (4 BCE - 65 CE)](https://en.wikipedia.org/wiki/Seneca_the_Younger)
+-   [Shinto](https://en.wikipedia.org/wiki/Shinto)
 -   [Stirner, Max (1806-1856)](https://en.wikipedia.org/wiki/Max_Stirner)
 -   [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
 -   [Stoicism, Modern](https://en.wikipedia.org/wiki/Modern_Stoicism)
 -   [Tantra](https://en.wikipedia.org/wiki/Tantra)
+-   [Taoism](https://en.wikipedia.org/wiki/Taoism)
 -   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
 -   [Tillich, Paul (1886-1965)](https://en.wikipedia.org/wiki/Paul_Tillich)
@@ -514,10 +537,6 @@ Click to show links
 -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
 -   [Zen](https://en.wikipedia.org/wiki/Zen)
 -   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
-
-### Others
-
--   TODO
 
 ### Videos
 

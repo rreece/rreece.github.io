@@ -1,14 +1,16 @@
 Philosophy of mathematics
 ================================================================================
 
-Here we dig into issues of what is abstraction.
+These next several outlines deal with philosophy of certain
+specialized topics, starting with this one on the philosophy of mathematics.
+Here we dig into issues of what is _abstraction_.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+First we survey the following branches of mathematics:
+logic, algebra, analysis, model theory.
+Then we discuss unification programs across branches.
+Followed by sections on positions in philosophy of mathematics,
+in particular dealing with the realism/antirealism or platonism/nominalism
+debate.
 
 
 <!-- PAGETOC -->
