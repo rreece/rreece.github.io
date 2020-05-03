@@ -36,8 +36,11 @@ Issues and positions
     -   [Sumer](https://en.wikipedia.org/wiki/Sumer) settled between c. 5,500 and 4,000 BCE
     -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing begins c. 3,200 BCE
     -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing also begins c. 3,200 BCE
+    -   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2800 and 2500 BCE
     -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334 to 2,154 BCE)
     -   [Babylonia](https://en.wikipedia.org/wiki/Babylonia) - [Babylon](https://en.wikipedia.org/wiki/Babylon) settled c. 2,300 BCE
+    -   [Royal Road](https://en.wikipedia.org/wiki/Royal_Road) rebuilt by [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) c. 500 BCE
+    -   [Herodotus](https://en.wikipedia.org/wiki/Herodotus) (c. 484--425 BCE) - "Father of history" 
 -   [Ancient India](https://en.wikipedia.org/wiki/History_of_India)
     -   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3,300 to 1,300 BCE)
     -   [Harappa](https://en.wikipedia.org/wiki/Harappa)  settled c. 2,600 BCE
@@ -47,6 +50,7 @@ Issues and positions
 -   [Ancient China](https://en.wikipedia.org/wiki/History_of_China)
     -   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (2,070--1,600 BCE)
     -   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1,250 BCE)
+    -   [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) (c. 200 BCE)
 -   [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica)
     -   [Norte Chico](https://en.wikipedia.org/wiki/Norte_Chico_civilization) (c. 3,500 to 1,800 BCE)
     -   [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga) settled c. 3,500 BCE
