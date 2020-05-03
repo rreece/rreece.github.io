@@ -81,6 +81,8 @@ Branches of Buddhism:
     -   Pali: "The School of the Elders"
     -   [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha)
     -   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
+    -   [Samyutta Ni&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
+    -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
 -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
     -   Sanskrit: "The Great Vehicle"
     -   Mah&amacr;y&amacr;na tradition is the largest major tradition of Buddhism existing today
