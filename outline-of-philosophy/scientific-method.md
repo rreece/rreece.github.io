@@ -61,6 +61,7 @@ Click to show the paltry outline of the history of science
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
     -   Estimated the circumference of the Earth to be 50 times the distance between Alexandria and Syene,
         which was pretty acurate as it is actually 47.9 times! [^Weinberg2015p76]
+-   [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism) (between c. 200 and 100 BCE)
 -   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
 
 Weinberg:

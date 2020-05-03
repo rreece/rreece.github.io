@@ -48,7 +48,8 @@ Issues and positions
     -   [Indus script](https://en.wikipedia.org/wiki/Indus_script) (c. 3,500 to 1,900 BCE) - still not deciphered today!
     -   [Vedic Sanskrit](https://en.wikipedia.org/wiki/Vedic_Sanskrit) writing begins c. 2,000 BCE
 -   [Ancient China](https://en.wikipedia.org/wiki/History_of_China)
-    -   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (2,070--1,600 BCE)
+    -   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (c. 2,070--1,600 BCE) - no direct records
+    -   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1,600--1046 BCE)
     -   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1,250 BCE)
     -   [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) (c. 200 BCE)
 -   [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica)
