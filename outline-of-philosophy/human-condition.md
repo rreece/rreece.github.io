@@ -194,17 +194,6 @@ Feynman:
 
 ### Other religions
 
-#### East asian
-
--   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
-    -   [Confucius (551-479 BCE)](https://en.wikipedia.org/wiki/Confucius)
--   [Taoism](https://en.wikipedia.org/wiki/Taoism) (began c. 4th century BCE)
--   [Shinto](https://en.wikipedia.org/wiki/Shinto)
-    -   [Yayoi period (300 BCE - 300 CE)](https://en.wikipedia.org/wiki/Yayoi_period) - neolithic Japan
-    -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.
-    -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
-
-
 #### Dharmic
 
 -   along with Hinduism and Buddhism
@@ -214,6 +203,17 @@ Feynman:
     -   [Mahavira (c. 540 - 468 BCE)](https://en.wikipedia.org/wiki/Mahaviraswami) - 24th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
 -   [Sikhism](https://en.wikipedia.org/wiki/Sikhism) (began at the end of the 15th century CE)
     -   [Guru Nanak (1469-1539 CE)](https://en.wikipedia.org/wiki/Guru_Nanak)
+
+
+#### East asian
+
+-   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
+    -   [Confucius (551-479 BCE)](https://en.wikipedia.org/wiki/Confucius)
+-   [Taoism](https://en.wikipedia.org/wiki/Taoism) (began c. 4th century BCE)
+-   [Shinto](https://en.wikipedia.org/wiki/Shinto)
+    -   [Yayoi period (300 BCE - 300 CE)](https://en.wikipedia.org/wiki/Yayoi_period) - neolithic Japan
+    -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.
+    -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
 
 
 ### Stoicism
@@ -251,21 +251,6 @@ Theses (Pigliucci?):
 [^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.
 
 
-### Romanticism
-
--   [Romanticism](https://en.wikipedia.org/wiki/Romanticism)
-    -   late 18th through 19th centuries
-    -   focus on emotion
-
-
-#### Criticism
-
--   Alain de Botton
-    -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
-    -   [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
-    -   [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
-
-
 ### Comparitive studies
 
 -   Buddhism and Greek philosophy
@@ -292,6 +277,21 @@ decidedly not naturalistic:
 [^Huxley1945]: @Huxley_1945_The_Perennial_Philosophy\.
 [^Huxley1945p5]: @Huxley_1945_The_Perennial_Philosophy\, p. 5--6.
 [^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.
+
+
+### Romanticism
+
+-   [Romanticism](https://en.wikipedia.org/wiki/Romanticism)
+    -   late 18th through 19th centuries
+    -   focus on emotion
+
+
+#### Criticism
+
+-   Alain de Botton
+    -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
+    -   [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
+    -   [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
 
 
 ### Biology
