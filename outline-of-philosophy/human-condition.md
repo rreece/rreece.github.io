@@ -142,12 +142,14 @@ Feynman:
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   Epstein, R. (2004). [Resources for the Study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
 
-#### Doctrines common to all branches
+#### Common doctrines
 
 -   Buddhism is generally considered to be n&amacr;stika.
 -   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
+-   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
+-   [Duhkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha) - suffering
 -   TODO: add to and organize doctrines
 
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.

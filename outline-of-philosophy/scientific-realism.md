@@ -439,6 +439,12 @@ Various reactions to positivism.
 -   Thomas Kuhn (1922-1996)
     -   paradigm shifts
 
+>   Among the developments that led to the revival of metaphysical theorizing
+>   were Quine's attack on the analytic-synthetic distinction, which was
+>   generally taken to undermine Carnap's distinction between existence
+>   questions internal to a framework and those external to
+>   it. [^WikipediaMetaphysics]
+
 Popper:
 
 >   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963pX]
@@ -470,6 +476,8 @@ Wittgenstein in *PI*:
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
 [^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
 [^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
+[^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
+    which also cites @Yablo_1998_Does_ontology_rest_on_a_mistake\.
 
 
 ### Pragmatism
