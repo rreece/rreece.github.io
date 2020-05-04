@@ -126,6 +126,8 @@ Feynman:
 
 ### Buddhism
 
+#### Introduction
+
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism) (began between 6th and 4th centuries BCE)
 -   [Siddhartha Gautama Buddha (c. 563 BCE to 483 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
 -   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
@@ -135,7 +137,7 @@ Feynman:
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   Epstein, R. (2004). [Resources for the Study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
 
-Doctrines:
+#### Doctrines common to all branches
 
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
     -   See McEvilley [^McEvilley2002p327]
@@ -214,7 +216,9 @@ Doctrines:
 
 ### Stoicism
 
--   [Stoicism](https://en.wikipedia.org/wiki/Stoicism) (began 3rd century BCE)
+#### History
+
+-   [Stoicism](https://en.wikipedia.org/wiki/Stoicism) (began in the 3rd century BCE)
 -   [Zeno of Citium (c. 334-262 BCE)](https://en.wikipedia.org/wiki/Zeno_of_Citium)
 -   [Cleanthes (c. 330-230 BCE)](https://en.wikipedia.org/wiki/Cleanthes)
 -   [Chrysippus (c. 279-206 BCE)](https://en.wikipedia.org/wiki/Chrysippus)
@@ -222,6 +226,9 @@ Doctrines:
 -   [Epictetus (c. 50-135 CE)](https://en.wikipedia.org/wiki/Epictetus)
 -   [Marcus Aurelius (121-180 CE)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 -   Contemporary Stoicism
+
+
+#### Theses
 
 Theses (Pigliucci?):
 
@@ -249,7 +256,7 @@ Theses (Pigliucci?):
     -   focus on emotion
 
 
-#### Criticism:
+#### Criticism
 
 -   Alain de Botton
     -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
