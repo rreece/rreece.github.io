@@ -445,6 +445,10 @@ Various reactions to positivism.
 >   questions internal to a framework and those external to
 >   it. [^WikipediaMetaphysics]
 
+-   Does ontology rest on a mistake? [^Yablo1998]
+
+[^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
+
 Popper:
 
 >   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963pX]
