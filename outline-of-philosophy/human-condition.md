@@ -39,15 +39,15 @@ Issues and positions
     -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing begins c. 3,200 BCE
     -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing also begins c. 3,200 BCE
     -   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2800 and 2500 BCE
-    -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334 to 2,154 BCE)
+    -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334--2,154 BCE)
     -   [Babylonia](https://en.wikipedia.org/wiki/Babylonia) - [Babylon](https://en.wikipedia.org/wiki/Babylon) settled c. 2,300 BCE
     -   [Royal Road](https://en.wikipedia.org/wiki/Royal_Road) rebuilt by [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) c. 500 BCE
     -   [Herodotus](https://en.wikipedia.org/wiki/Herodotus) (c. 484--425 BCE) - "Father of history" 
 -   [Ancient India](https://en.wikipedia.org/wiki/History_of_India)
-    -   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3,300 to 1,300 BCE)
+    -   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3,300--1,300 BCE)
     -   [Harappa](https://en.wikipedia.org/wiki/Harappa)  settled c. 2,600 BCE
     -   [Mohenjo-daro](https://en.wikipedia.org/wiki/Mohenjo-daro) settled c. 2,500 BCE
-    -   [Indus script](https://en.wikipedia.org/wiki/Indus_script) (c. 3,500 to 1,900 BCE) - still not deciphered today!
+    -   [Indus script](https://en.wikipedia.org/wiki/Indus_script) (c. 3,500--1,900 BCE) - still not deciphered today!
     -   [Vedic Sanskrit](https://en.wikipedia.org/wiki/Vedic_Sanskrit) writing begins c. 2,000 BCE
 -   [Ancient China](https://en.wikipedia.org/wiki/History_of_China)
     -   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (c. 2,070--1,600 BCE) - no direct records
@@ -55,9 +55,9 @@ Issues and positions
     -   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1,250 BCE)
     -   [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) (c. 200 BCE)
 -   [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica)
-    -   [Norte Chico](https://en.wikipedia.org/wiki/Norte_Chico_civilization) (c. 3,500 to 1,800 BCE)
+    -   [Norte Chico](https://en.wikipedia.org/wiki/Norte_Chico_civilization) (c. 3,500--1,800 BCE)
     -   [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga) settled c. 3,500 BCE
-    -   [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (c. 1,600 to 400 BCE)
+    -   [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (c. 1,600--400 BCE)
     -   [Olmec hieroglyphs](https://en.wikipedia.org/wiki/Olmec_hieroglyphs) possibly as early as 900 BCE
     -   [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block) with Olmec hieroglyphs possibly as early as c. 1,000 BCE
 
@@ -154,8 +154,8 @@ Branches of Buddhism:
 
 #### East asian
 
--   [Confucius (551-479 BCE)](https://en.wikipedia.org/wiki/Confucius)
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
+    -   [Confucius (551-479 BCE)](https://en.wikipedia.org/wiki/Confucius)
 -   [Taoism](https://en.wikipedia.org/wiki/Taoism) (began c. 4th century BCE)
 -   [Shinto](https://en.wikipedia.org/wiki/Shinto)
     -   [Yayoi period (300 BCE - 300 CE)](https://en.wikipedia.org/wiki/Yayoi_period) - neolithic Japan
