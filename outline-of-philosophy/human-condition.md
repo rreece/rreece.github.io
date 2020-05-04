@@ -125,10 +125,13 @@ Feynman:
 ### Buddhism
 
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism) (began between 6th and 4th centuries BCE)
--   [Gautama Buddha (c. 5th to 4th century BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
--   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya)
+-   [Siddhartha Gautama Buddha (c. 563 BCE to 483 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
+-   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
+-   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
+-   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
 -   [Ashoka (c. 304-232 BCE)](https://en.wikipedia.org/wiki/Ashoka)
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
+-   Epstein, R. (2004). [Resources for the Study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
 
 Doctrines:
 
@@ -137,6 +140,7 @@ Doctrines:
 -   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
 -   [Middle Path](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
+-   TODO: add to and organize doctrines
 
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
@@ -208,12 +212,14 @@ Doctrines:
 
 ### Stoicism
 
-
 -   [Stoicism](https://en.wikipedia.org/wiki/Stoicism) (began 3rd century BCE)
--   Not a religion.
 -   [Zeno of Citium (c. 334-262 BCE)](https://en.wikipedia.org/wiki/Zeno_of_Citium)
-
-TODO: primary writers
+-   [Cleanthes (c. 330-230 BCE)](https://en.wikipedia.org/wiki/Cleanthes)
+-   [Chrysippus (c. 279-206 BCE)](https://en.wikipedia.org/wiki/Chrysippus)
+-   [Seneca (4 BCE - 65 CE)](https://en.wikipedia.org/wiki/Seneca_the_Younger)
+-   [Epictetus (c. 50-135 CE)](https://en.wikipedia.org/wiki/Epictetus)
+-   [Marcus Aurelius (121-180 CE)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
+-   Contemporary Stoicism
 
 Theses (Pigliucci?):
 
@@ -227,7 +233,7 @@ Theses (Pigliucci?):
 --Epictetus, Discourses, Book II, ch. 17
 
 -   Pigliucci [^Pigliucci2017]
--   Seneca [^Seneca1997]
+-   *On the Shortness of Life* [^Seneca1997]
 -   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
 
 [^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic\.
@@ -414,6 +420,7 @@ Plato:
     -   Bad faith
 -   Camus
     -   The Absurd
+-   Modernism
 
 
 ### Nihilism
@@ -565,7 +572,7 @@ Click to show links
 -   [Euthyphro dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
--   [Gautama Buddha (c. 5th to 4th century BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
+-   [Gautama Buddha (c. 563 BCE to 483 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
 -   [Heidegger, Martin (1889-1976)](https://en.wikipedia.org/wiki/Martin_Heidegger)
 -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
 -   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
