@@ -135,9 +135,9 @@ Feynman:
 
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism) (began between 6th and 4th centuries BCE)
 -   [Siddhartha Gautama Buddha (c. 563-483 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
--   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
--   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
--   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
+    -   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
+    -   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
+    -   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
 -   [Ashoka (c. 304-232 BCE)](https://en.wikipedia.org/wiki/Ashoka)
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   Epstein, R. (2004). [Resources for the Study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
