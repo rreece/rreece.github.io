@@ -117,9 +117,9 @@ Feynman:
 ### Hinduism
 
 -   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
--   [Vedic period](https://en.wikipedia.org/wiki/Vedic_period) (c. 1,500--500 BCE)
+-   [Vedic period](https://en.wikipedia.org/wiki/Vedic_period) (c. 1,500-500 BCE)
 -   [Vedas](https://en.wikipedia.org/wiki/Vedas)
-    -   [Rigveda](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700--1,100 BCE)
+    -   [Rigveda](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700-1,100 BCE)
     -   Samaveda, Yajurveda, Atharvaveda
 -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
 -   "Hindu synthesis" started to develop between 500 BCE and 300 CE
