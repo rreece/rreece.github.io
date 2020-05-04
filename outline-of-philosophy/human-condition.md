@@ -150,6 +150,9 @@ Feynman:
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
 
+![Map of the main modern Buddhist sects ([source:Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png)).](img/Buddhist-sects.png){#fig:Buddhist-sects}
+
+
 #### Therav&amacr;da Buddhism
 
 -   [Therav&amacr;da Buddhism](https://en.wikipedia.org/wiki/Theravada)
@@ -198,7 +201,7 @@ Feynman:
 #### Dharmic
 
 -   along with Hinduism and Buddhism
--   All Dharmic religions originated in India
+-   All Dharmic religions originated in India.
 -   [Jainism](https://en.wikipedia.org/wiki/Jainism)
     -   [Parshvanatha (c. 800/700 - 700/600 BCE)](https://en.wikipedia.org/wiki/Parshvanatha) - 23th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
     -   [Mahavira (c. 540 - 468 BCE)](https://en.wikipedia.org/wiki/Mahaviraswami) - 24th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
