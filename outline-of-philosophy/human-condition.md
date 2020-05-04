@@ -99,6 +99,8 @@ Feynman:
 -   [Origins of Judaism](https://en.wikipedia.org/wiki/Origins_of_Judaism)
 -   [Christianity](https://en.wikipedia.org/wiki/Christianity) (began 1st century CE)
 -   [Islam](https://en.wikipedia.org/wiki/Islam) (began 7th century CE)
+-   [Muhammad (c. 570-632 CE)](https://en.wikipedia.org/wiki/Muhammad)
+-   [Maimonides (c. 1135-1204 CE)](https://en.wikipedia.org/wiki/Maimonides)
 -   [Catholicism](https://en.wikipedia.org/wiki/Catholicism)
 -   [Protestantism](https://en.wikipedia.org/wiki/Protestantism)
 -   [Evangelicalism](https://en.wikipedia.org/wiki/Evangelicalism)
