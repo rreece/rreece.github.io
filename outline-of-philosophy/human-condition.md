@@ -88,9 +88,10 @@ Feynman:
 
 ### Abrahamism
 
--   [Zoroaster](https://en.wikipedia.org/wiki/Zoroaster) (lived between c. 1,500 and 1000 BCE)
--   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism) - official religion of Ancient Persia from the 6th century BCE to the 7th century CE
+-   [Zoroaster](https://en.wikipedia.org/wiki/Zoroaster) (lived between c. 1,500 and 1,000 BCE)
+-   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
     -   first monotheism
+    -   official religion of Ancient Persia from the 6th century BCE to the 7th century CE
 -   [Abraham](https://en.wikipedia.org/wiki/Abraham)
 -   [Judaism](https://en.wikipedia.org/wiki/Judaism) (began 7th century BCE)
 -   [Christianity](https://en.wikipedia.org/wiki/Christianity) (began 1st century CE)
@@ -98,6 +99,13 @@ Feynman:
 -   [Catholicism](https://en.wikipedia.org/wiki/Catholicism)
 -   [Protestantism](https://en.wikipedia.org/wiki/Protestantism)
 -   [Evangelicalism](https://en.wikipedia.org/wiki/Evangelicalism)
+
+>   The Abraham story cannot be definitively related to any specific time,
+>   and it is widely agreed that the patriarchal age, along with the exodus
+>   and the period of the judges, is a late literary construct that does not
+>   relate to any period in actual history. [^McNutt1999]
+
+[^McNutt1999]: @McNutt_1999_Reconstructing_the_Society_of_Ancient_Israel\, p. 41--42.
 
 
 ### Hinduism
@@ -150,7 +158,7 @@ Branches of Buddhism:
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
 -   [Taoism](https://en.wikipedia.org/wiki/Taoism) (began c. 4th century BCE)
 -   [Shinto](https://en.wikipedia.org/wiki/Shinto)
-    -   [Yayoi period (300 BCE - 300 CE)](https://en.wikipedia.org/wiki/Yayoi_period)
+    -   [Yayoi period (300 BCE - 300 CE)](https://en.wikipedia.org/wiki/Yayoi_period) - neolithic Japan
     -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.
 
 
@@ -167,9 +175,10 @@ Branches of Buddhism:
 
 ### Stoicism
 
-Not a religion.
 
 -   [Stoicism](https://en.wikipedia.org/wiki/Stoicism) (began 3rd century BCE)
+-   Not a religion.
+-   [Zeno of Citium (c. 334-262 BCE)](https://en.wikipedia.org/wiki/Zeno_of_Citium)
 
 TODO: primary writers
 
@@ -555,6 +564,7 @@ Click to show links
 -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
 -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
 -   [Zen](https://en.wikipedia.org/wiki/Zen)
+-   [Zeno of Citium (c. 334-262 BCE)](https://en.wikipedia.org/wiki/Zeno_of_Citium)
 -   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
 
 ### Videos
