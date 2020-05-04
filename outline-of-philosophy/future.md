@@ -20,6 +20,7 @@ Issues and positions
 ### Risk
 
 -   Anthropic bias [^Bostrom2002]
+-   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
 
 [^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
 
@@ -28,6 +29,7 @@ Issues and positions
 
 -   The Coming Technological Singularity [^Vinge1993]
 -   Simulation argument [^Bostrom2003] and patch [^Bostrom2011]
+-   [Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 -   The AI Revolution: The Road to Superintelligence [^WaitButWhy2015]
 
 [^Bostrom2003]: @Bostrom_2003_Are_you_living_in_a_computer_simulation\.
@@ -110,6 +112,9 @@ Click to show links
 ### IEP
 
 ### Wikipedia
+
+-   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
+-   [Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 
 ### Others
 

@@ -155,7 +155,7 @@ Feynman:
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
 
-![Map of the main modern Buddhist sects (2013, [source:Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png)).](img/Buddhist-sects.png){#fig:Buddhist-sects}
+![Map of the main modern Buddhist sects (2013, [Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png)).](img/Buddhist-sects.png){#fig:Buddhist-sects}
 
 
 #### Therav&amacr;da Buddhism
