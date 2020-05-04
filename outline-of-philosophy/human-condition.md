@@ -94,7 +94,8 @@ Feynman:
 -   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
     -   first monotheism
     -   official religion of Ancient Persia from the 6th century BCE to the 7th century CE
--   [Abraham](https://en.wikipedia.org/wiki/Abraham)
+-   [Abraham](https://en.wikipedia.org/wiki/Abraham) - considered mythical
+-   [Moses](https://en.wikipedia.org/wiki/Moses) - considered mythical
 -   [Judaism](https://en.wikipedia.org/wiki/Judaism) (began 7th century BCE)
 -   [Origins of Judaism](https://en.wikipedia.org/wiki/Origins_of_Judaism)
 -   [Christianity](https://en.wikipedia.org/wiki/Christianity) (began 1st century CE)
@@ -122,6 +123,8 @@ Feynman:
 -   "Hindu synthesis" started to develop between 500 BCE and 300 CE
 -   [Dharma](https://en.wikipedia.org/wiki/Dharma)
 -   [Nirvana](https://en.wikipedia.org/wiki/Nirvana)
+-   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
+    -   See McEvilley [^McEvilley2002p327]
 
 
 ### Buddhism
@@ -139,8 +142,7 @@ Feynman:
 
 #### Doctrines common to all branches
 
--   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
-    -   See McEvilley [^McEvilley2002p327]
+-   Buddhism is generally considered to be n&amacr;stika
 -   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
 -   [Middle Path](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
