@@ -142,9 +142,9 @@ Feynman:
 
 #### Doctrines common to all branches
 
--   Buddhism is generally considered to be n&amacr;stika
+-   Buddhism is generally considered to be n&amacr;stika.
 -   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
--   [Middle Path](https://en.wikipedia.org/wiki/Middle_Way)
+-   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   TODO: add to and organize doctrines
 
@@ -590,7 +590,7 @@ Click to show links
 -   [Languages by first written accounts, List of](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
 -   [Lucretius (c. 99-55 BCE)](https://en.wikipedia.org/wiki/Lucretius)
 -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
--   [Middle Path](https://en.wikipedia.org/wiki/Middle_Way)
+-   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness)
     -   [Anapanasati](https://en.wikipedia.org/wiki/Anapanasati)
     -   [Satipatthana](https://en.wikipedia.org/wiki/Satipatthana)
