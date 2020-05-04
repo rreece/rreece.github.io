@@ -94,6 +94,7 @@ Feynman:
     -   official religion of Ancient Persia from the 6th century BCE to the 7th century CE
 -   [Abraham](https://en.wikipedia.org/wiki/Abraham)
 -   [Judaism](https://en.wikipedia.org/wiki/Judaism) (began 7th century BCE)
+-   [Origins of Judaism](https://en.wikipedia.org/wiki/Origins_of_Judaism)
 -   [Christianity](https://en.wikipedia.org/wiki/Christianity) (began 1st century CE)
 -   [Islam](https://en.wikipedia.org/wiki/Islam) (began 7th century CE)
 -   [Catholicism](https://en.wikipedia.org/wiki/Catholicism)
@@ -125,29 +126,60 @@ Feynman:
 
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism) (began between 6th and 4th centuries BCE)
 -   [Gautama Buddha (c. 5th to 4th century BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
--   [Middle Path](https://en.wikipedia.org/wiki/Middle_Way)
+-   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya)
+-   [Ashoka (c. 304-232 BCE)](https://en.wikipedia.org/wiki/Ashoka)
+-   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
+
+Doctrines:
+
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
     -   See McEvilley [^McEvilley2002p327]
-
-Branches of Buddhism:
-
--   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
-    -   Pali: "The School of the Elders"
-    -   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
-    -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
-    -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
--   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
-    -   Sanskrit: "The Great Vehicle"
-    -   Mah&amacr;y&amacr;na tradition is the largest major tradition of Buddhism existing today
-    -   [Zen](https://en.wikipedia.org/wiki/Zen)
--   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
-    -   Some consider a separate branch or sub-branch of Mah&amacr;y&amacr;na
-    -   Developed in medieval period in India and spread to Tibet, Bhutan, and east Asia.
-    -   [Tantra](https://en.wikipedia.org/wiki/Tantra)
-    -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
-    -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
+-   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
+-   [Middle Path](https://en.wikipedia.org/wiki/Middle_Way)
+-   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
+
+
+#### Therav&amacr;da Buddhism
+
+-   [Therav&amacr;da Buddhism](https://en.wikipedia.org/wiki/Theravada)
+-   Pali: "The School of the Elders"
+-   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline.
+-   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
+-   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
+-   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
+-   [Vipassan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
+-   [Vipassan&amacr; movement](https://en.wikipedia.org/wiki/Vipassana_movement)
+
+
+#### Mah&amacr;y&amacr;na Buddhism
+
+-   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
+-   Sanskrit: "The Great Vehicle"
+-   Mah&amacr;y&amacr;na tradition is the largest major tradition of Buddhism existing today.
+-   Mah&amacr;y&amacr;na Buddhists teach that enlightenment can be attained in a single lifetime, and this can be accomplished even by a layperson.
+-   Doctrines:
+    -   &Sacute;&umacr;nyav&amacr;da AKA Madhyamaka - "the emptiness theory"
+    -   Vija&ntilde;&amacr;nav&amacr;da - "the doctrine of consciousness"
+    -   Tath&amacr;gatagarbha - "the doctrine of Buddha nature"
+-   [Lotus Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra)
+-   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
+-   [Zen](https://en.wikipedia.org/wiki/Zen)
+    -   Began in China as "Ch&aacute;n" in the [Tang Dynasty (618-907 CE)](https://en.wikipedia.org/wiki/Tang_Dynasty)
+    -   Introduced in Japan in 12th century CE and later romanized as "Zen"
+
+
+#### Vajray&amacr;na Buddhism
+
+-   [Vajray&amacr;na Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
+-   Some consider a separate branch or sub-branch of Mah&amacr;y&amacr;na
+-   Developed in medieval period in India and spread to Tibet, Bhutan, and east Asia.
+-   Adds esoteric teachings to the Mah&amacr;y&amacr;na tradition.
+-   [Tantra](https://en.wikipedia.org/wiki/Tantra)
+-   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
+-   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
+
 
 
 ### Other religions
@@ -160,6 +192,7 @@ Branches of Buddhism:
 -   [Shinto](https://en.wikipedia.org/wiki/Shinto)
     -   [Yayoi period (300 BCE - 300 CE)](https://en.wikipedia.org/wiki/Yayoi_period) - neolithic Japan
     -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.
+    -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
 
 
 #### Dharmic
@@ -507,6 +540,7 @@ Click to show links
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
 -   [Anapanasati](https://en.wikipedia.org/wiki/Anapanasati)
 -   [Ancient history](https://en.wikipedia.org/wiki/Ancient_history)
+-   [Ashoka (c. 304-232 BCE)](https://en.wikipedia.org/wiki/Ashoka)
 -   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
 -   [Aurelius, Marcus (121-180)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 -   [Bad faith](https://en.wikipedia.org/wiki/Bad_faith)
