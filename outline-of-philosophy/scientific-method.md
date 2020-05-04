@@ -39,6 +39,8 @@ Click to show the paltry outline of the history of science
     -   "first philosopher"
 -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
     -   radical mathematical realist
+-   [Herodotus (c. 484-425 BCE)](https://en.wikipedia.org/wiki/Herodotus) - "Father of history" 
+-   [Thucydides (c. 460-400 BCE)](https://en.wikipedia.org/wiki/Thucydides) - "Father of scientific history" 
 -   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
     -   Chinese, not part of the Ionian Enlightenment, but contemporary with it
     -   skepticism, anti-dogmatism

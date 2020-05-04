@@ -44,7 +44,6 @@ Issues and positions
     -   [Hammurabi (c. 1810-1750 BCE)](https://en.wikipedia.org/wiki/Hammurabi)
     -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1754 BCE)
     -   [Royal Road](https://en.wikipedia.org/wiki/Royal_Road) rebuilt by [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) c. 500 BCE
-    -   [Herodotus](https://en.wikipedia.org/wiki/Herodotus) (c. 484--425 BCE) - "Father of history" 
 -   [Ancient India](https://en.wikipedia.org/wiki/History_of_India)
     -   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3,300--1,300 BCE)
     -   [Harappa](https://en.wikipedia.org/wiki/Harappa)  settled c. 2,600 BCE
@@ -132,7 +131,7 @@ Feynman:
 #### Introduction
 
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism) (began between 6th and 4th centuries BCE)
--   [Siddhartha Gautama Buddha (c. 563 BCE to 483 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
+-   [Siddhartha Gautama Buddha (c. 563-483 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
 -   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
 -   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
 -   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
