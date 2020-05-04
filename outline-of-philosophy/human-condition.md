@@ -183,7 +183,7 @@ Feynman:
 #### Vajray&amacr;na Buddhism
 
 -   [Vajray&amacr;na Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
--   Some consider a separate branch or sub-branch of Mah&amacr;y&amacr;na
+-   Some consider Vajray&amacr;na a separate branch or sub-branch of Mah&amacr;y&amacr;na Buddhism.
 -   Developed in medieval period in India and spread to Tibet, Bhutan, and east Asia.
 -   Adds esoteric teachings to the Mah&amacr;y&amacr;na tradition.
 -   [Tantra](https://en.wikipedia.org/wiki/Tantra)
