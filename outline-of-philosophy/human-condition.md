@@ -160,6 +160,8 @@ Feynman:
 -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
 -   [Vipassan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
 -   [Vipassan&amacr; movement](https://en.wikipedia.org/wiki/Vipassana_movement)
+    -   branch of modern Burmese Therav&amacr;da Buddhism with widespread popularity since the 1950s
+    -   popularized Buddhism in the United States
 
 
 #### Mah&amacr;y&amacr;na Buddhism
