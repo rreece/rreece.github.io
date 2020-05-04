@@ -41,6 +41,8 @@ Issues and positions
     -   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2800 and 2500 BCE
     -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334--2,154 BCE)
     -   [Babylonia](https://en.wikipedia.org/wiki/Babylonia) - [Babylon](https://en.wikipedia.org/wiki/Babylon) settled c. 2,300 BCE
+    -   [Hammurabi (c. 1810-1750 BCE)](https://en.wikipedia.org/wiki/Hammurabi)
+    -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1754 BCE)
     -   [Royal Road](https://en.wikipedia.org/wiki/Royal_Road) rebuilt by [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) c. 500 BCE
     -   [Herodotus](https://en.wikipedia.org/wiki/Herodotus) (c. 484--425 BCE) - "Father of history" 
 -   [Ancient India](https://en.wikipedia.org/wiki/History_of_India)
