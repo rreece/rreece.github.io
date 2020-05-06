@@ -19,6 +19,9 @@ Issues and positions
 
 ### Human history
 
+
+![Map of migrations of early homo sapiens ([ancient.eu](https://www.ancient.eu/article/1070/early-human-migration/), 2017).](img/early-human-migration.png){#fig:early-human-migration}
+
 >   The early human migrations
 >   in the Lower Paleolithic saw Homo erectus spread across Eurasia 1.8 million
 >   years ago. The controlled use of fire first occurred 800,000 years ago in the
@@ -172,7 +175,7 @@ Others:
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [Buddhist modernism](https://en.wikipedia.org/wiki/Buddhist_modernism)
 -   [Buddhist texts](https://en.wikipedia.org/wiki/Buddhist_texts)
--   Epstein, R. (2004). [Resources for the Study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
+-   Epstein, R. (2004). [Resources for the study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
 
 
 #### Common doctrines
@@ -199,7 +202,7 @@ Others:
 -   [Anicca](https://en.wikipedia.org/wiki/Anicca) - impermanence
 
 
-![Map of the main modern Buddhist sects (2013, [Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png)).](img/Buddhist-sects.png){#fig:Buddhist-sects}
+![Map of the main modern Buddhist sects ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
 
 
 #### Therav&amacr;da Buddhism
