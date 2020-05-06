@@ -118,17 +118,42 @@ Feynman:
 
 ### Hinduism
 
+#### Introduction
+
 -   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
 -   [Vedic period](https://en.wikipedia.org/wiki/Vedic_period) (c. 1,500-500 BCE)
+
+Texts:
+
 -   [Vedas](https://en.wikipedia.org/wiki/Vedas)
     -   [Rigveda](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700-1,100 BCE)
     -   Samaveda, Yajurveda, Atharvaveda
 -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
 -   "Hindu synthesis" started to develop between 500 BCE and 300 CE
--   [Dharma](https://en.wikipedia.org/wiki/Dharma)
+
+
+#### Common doctrines
+
+[Purus&amacr;rtha](https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha) - the four proper aims of human life:
+
+-   [Dharma](https://en.wikipedia.org/wiki/Dharma) - ethics/duties/righteousness
+-   [Artha](https://en.wikipedia.org/wiki/Artha) - purpose/prosperity/work
+-   [Kama](https://en.wikipedia.org/wiki/Kama) -  desires/passions 
+-   [Moksha](https://en.wikipedia.org/wiki/Moksha) - liberation/salvation
+
+Others:
+
+-   [Karma](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
+-   [Dhyana](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism) - meditation
+-   [&Amacr;tman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) - self/soul
 -   [Nirvana](https://en.wikipedia.org/wiki/Nirvana)
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
     -   See McEvilley [^McEvilley2002p327]
+-   Six &amacr;stika (orthodox) schools: Ny&amacr;y&aacute; Vai&sacute;esika, S&amacr;mkhya, [Yoga](https://en.wikipedia.org/wiki/Yoga), M&imacr;m&amacr;ms&amacr;, and Ved&amacr;nta
+-   Four n&amacr;stika (heterodox) schools: [Buddhism](https://en.wikipedia.org/wiki/Buddhism), [Jainism](https://en.wikipedia.org/wiki/Jainism), [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka), [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
+-   [Hindu atheism](https://en.wikipedia.org/wiki/Hindu_atheism)
+
+[^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
 
 ### Buddhism
@@ -144,17 +169,28 @@ Feynman:
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   Epstein, R. (2004). [Resources for the Study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
 
+Texts:
+
+-   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
+
+
 #### Common doctrines
 
 -   Buddhism is generally considered to be n&amacr;stika.
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
--   [Duhkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha) - suffering
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
+-   [Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths)
+-   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
+-   [Arhat](https://en.wikipedia.org/wiki/Arhat)
 -   TODO: add to and organize doctrines
 
-[^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
+[Three marks of existence](https://en.wikipedia.org/wiki/Three_marks_of_existence):
+
+-   [Duhkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha) - suffering
+-   [Anatta](https://en.wikipedia.org/wiki/Anatta) - no self
+-   [Anicca](https://en.wikipedia.org/wiki/Anicca) - impermanence
 
 
 ![Map of the main modern Buddhist sects (2013, [Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png)).](img/Buddhist-sects.png){#fig:Buddhist-sects}
@@ -189,6 +225,10 @@ Feynman:
 -   [Zen](https://en.wikipedia.org/wiki/Zen)
     -   Began in China as "Ch&aacute;n" in the [Tang Dynasty (618-907 CE)](https://en.wikipedia.org/wiki/Tang_Dynasty)
     -   Introduced in Japan in 12th century CE and later romanized as "Zen"
+
+Texts:
+
+-   [Heart Sutra](https://en.wikipedia.org/wiki/Heart_Sutra)
 
 
 #### Vajray&amacr;na Buddhism
@@ -265,6 +305,7 @@ Theses (Pigliucci?):
 ### Comparitive studies
 
 -   Buddhism and Greek philosophy
+    -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
     -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
     -   Buddhism and Stoicism
     -   Buddhism and Pyrrhonism
@@ -542,6 +583,7 @@ Click to show links
 -   [Lucretius (c. 99-55 BCE)](https://plato.stanford.edu/entries/lucretius/)
 -   [Meaning of Life, The](http://plato.stanford.edu/entries/life-meaning/)
 -   [Nietzsche, Friedrich (1844-1900)](http://plato.stanford.edu/entries/nietzsche/)
+-   [Pyrrho (c. 360-270 BCE)](https://plato.stanford.edu/entries/pyrrho/)
 -   [Religious Experience](https://plato.stanford.edu/entries/religious-experience/)
 -   [Sartre, Jean-Paul (1905-1980)](https://plato.stanford.edu/entries/sartre/)
 -   [Seneca (4 BCE - 65 CE)](http://plato.stanford.edu/entries/seneca/)
@@ -569,24 +611,32 @@ Click to show links
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
 -   [Anapanasati](https://en.wikipedia.org/wiki/Anapanasati)
 -   [Ancient history](https://en.wikipedia.org/wiki/Ancient_history)
+-   [Arhat](https://en.wikipedia.org/wiki/Arhat)
+-   [Artha](https://en.wikipedia.org/wiki/Artha)
 -   [Ashoka (c. 304-232 BCE)](https://en.wikipedia.org/wiki/Ashoka)
 -   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
+-   [Atheism, Hindu](https://en.wikipedia.org/wiki/Hindu_atheism)
 -   [Aurelius, Marcus (121-180)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 -   [Bad faith](https://en.wikipedia.org/wiki/Bad_faith)
 -   [Bad faith (existentialism)](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))
+-   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism)
     -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
     -   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
     -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
+-   [Buddhism in the United States](https://en.wikipedia.org/wiki/Buddhism_in_the_United_States)
 -   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation)
 -   [Camus, Albert (1913-1960)](https://en.wikipedia.org/wiki/Albert_Camus)
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
 -   [Confucius (551-479 BCE)](https://en.wikipedia.org/wiki/Confucius)
 -   [Dasein](https://en.wikipedia.org/wiki/Dasein)
+-   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [*De rerum natura*](https://en.wikipedia.org/wiki/De_rerum_natura)
 -   [*De rerum natura*, List of English translations](https://en.wikipedia.org/wiki/List_of_English_translations_of_De_rerum_natura)
 -   [Dharma](https://en.wikipedia.org/wiki/Dharma)
+-   [Dhyana](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism)
 -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
+-   [Engaged Buddhism](https://en.wikipedia.org/wiki/Engaged_Buddhism)
 -   [Eastern religions](https://en.wikipedia.org/wiki/Eastern_religions)
 -   [Ego death](https://en.wikipedia.org/wiki/Ego_death)
 -   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
@@ -594,23 +644,36 @@ Click to show links
 -   [Euthyphro dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
+-   [Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths)
 -   [Gautama Buddha (c. 563 BCE to 483 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
+-   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
+-   [Heart Sutra](https://en.wikipedia.org/wiki/Heart_Sutra)
 -   [Heidegger, Martin (1889-1976)](https://en.wikipedia.org/wiki/Martin_Heidegger)
 -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
 -   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
+-   [Kama](https://en.wikipedia.org/wiki/Kama)
+-   [Karma](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
 -   [Languages by first written accounts, List of](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
 -   [Lucretius (c. 99-55 BCE)](https://en.wikipedia.org/wiki/Lucretius)
 -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
+-   [Metacognition](https://en.wikipedia.org/wiki/Metacognition)
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness)
     -   [Anapanasati](https://en.wikipedia.org/wiki/Anapanasati)
     -   [Satipatthana](https://en.wikipedia.org/wiki/Satipatthana)
     -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
+-   [Moksha](https://en.wikipedia.org/wiki/Moksha)
+-   [Neostoicism](https://en.wikipedia.org/wiki/Neostoicism)
 -   [Nietzsche, Friedrich (1844-1900)](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
 -   [Nihilism](http://en.wikipedia.org/wiki/Nihilism)
--   [Neostoicism](https://en.wikipedia.org/wiki/Neostoicism)
+-   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
+-   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da)
+-   [Purus&amacr;rtha](https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha)
+-   [Pyrrho (c. 360-270 BCE)](https://en.wikipedia.org/wiki/Pyrrho)
+-   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
 -   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
+-   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism))
 -   [Sartre, Jean-Paul (1905-1980)](https://en.wikipedia.org/wiki/Jean-Paul_Sartre)
 -   [Satipatthana](https://en.wikipedia.org/wiki/Satipatthana)
 -   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
@@ -626,6 +689,7 @@ Click to show links
 -   [Tillich, Paul (1886-1965)](https://en.wikipedia.org/wiki/Paul_Tillich)
 -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
 -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
+-   [Xenophanes (c. 570-475 BCE)](https://en.wikipedia.org/wiki/Xenophanes)
 -   [Zen](https://en.wikipedia.org/wiki/Zen)
 -   [Zeno of Citium (c. 334-262 BCE)](https://en.wikipedia.org/wiki/Zeno_of_Citium)
 -   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
