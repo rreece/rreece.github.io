@@ -174,6 +174,9 @@ Others:
 -   [Ashoka (c. 304-232 BCE)](https://en.wikipedia.org/wiki/Ashoka)
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [Buddhist modernism](https://en.wikipedia.org/wiki/Buddhist_modernism)
+
+Texts:
+
 -   [Buddhist texts](https://en.wikipedia.org/wiki/Buddhist_texts)
 -   Epstein, R. (2004). [Resources for the study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
 
