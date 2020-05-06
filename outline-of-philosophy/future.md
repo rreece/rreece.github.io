@@ -115,6 +115,7 @@ Click to show links
 
 -   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
 -   [Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
+-   [*The Limits to Growth* (1972)](https://en.wikipedia.org/wiki/The_Limits_to_Growth)
 
 ### Others
 
