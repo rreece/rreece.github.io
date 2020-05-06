@@ -102,6 +102,7 @@ Feynman:
 -   [Islam](https://en.wikipedia.org/wiki/Islam) (began 7th century CE)
 -   [Augustine of Hippo (354-430 CE)](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
 -   [Muhammad (c. 570-632 CE)](https://en.wikipedia.org/wiki/Muhammad)
+-   [East-West Schism (1054 CE)](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism)
 -   [Maimonides (c. 1135-1204 CE)](https://en.wikipedia.org/wiki/Maimonides)
 -   [Thomas Aquinas (1225-1274 CE)](https://en.wikipedia.org/wiki/Thomas_Aquinas)
 -   [Catholicism](https://en.wikipedia.org/wiki/Catholicism)
@@ -143,10 +144,10 @@ Texts:
 
 Others:
 
--   [Karma](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
--   [Dhyana](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism) - meditation
+-   [Karma in Hinduism](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
+-   Karma as a solution to the [problem of evil in Hinduism](https://en.wikipedia.org/wiki/Problem_of_evil_in_Hinduism)
+-   [Dhyana in Hinduism](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism) - meditation
 -   [&Amacr;tman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) - self/soul
--   [Nirvana](https://en.wikipedia.org/wiki/Nirvana)
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
     -   See McEvilley [^McEvilley2002p327]
 -   Six &amacr;stika (orthodox) schools: Ny&amacr;y&aacute; Vai&sacute;esika, S&amacr;mkhya, [Yoga](https://en.wikipedia.org/wiki/Yoga), M&imacr;m&amacr;ms&amacr;, and Ved&amacr;nta
@@ -165,13 +166,12 @@ Others:
     -   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
     -   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
     -   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
+-   [Devadatta](https://en.wikipedia.org/wiki/Devadatta)
 -   [Ashoka (c. 304-232 BCE)](https://en.wikipedia.org/wiki/Ashoka)
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
+-   [Buddhist modernism](https://en.wikipedia.org/wiki/Buddhist_modernism)
+-   [Buddhist texts](https://en.wikipedia.org/wiki/Buddhist_texts)
 -   Epstein, R. (2004). [Resources for the Study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
-
-Texts:
-
--   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
 
 
 #### Common doctrines
@@ -179,11 +179,16 @@ Texts:
 -   Buddhism is generally considered to be n&amacr;stika.
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
+-   [Nirvana](https://en.wikipedia.org/wiki/Nirvana) - liberation from Sams&amacr;ra like Moksha
+-   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation)
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
 -   [Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths)
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Arhat](https://en.wikipedia.org/wiki/Arhat)
+-   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
+-   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)
+-   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
 -   TODO: add to and organize doctrines
 
 [Three marks of existence](https://en.wikipedia.org/wiki/Three_marks_of_existence):
@@ -201,13 +206,23 @@ Texts:
 -   [Therav&amacr;da Buddhism](https://en.wikipedia.org/wiki/Theravada)
 -   Pali: "The School of the Elders"
 -   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline.
--   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
--   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
--   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
+-   [Third Buddhist council (c. 250 BCE)](https://en.wikipedia.org/wiki/Third_Buddhist_council)
+
+Doctrines:
+
 -   [Vipassan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
 -   [Vipassan&amacr; movement](https://en.wikipedia.org/wiki/Vipassana_movement)
     -   branch of modern Burmese Therav&amacr;da Buddhism with widespread popularity since the 1950s
     -   popularized Buddhism in the United States
+-   [Acinteyya](https://en.wikipedia.org/wiki/Acinteyya) - the four imponderable or incomprehensible issues
+-   Jh&amacr;nas - states of meditation. See [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism).
+
+Texts:
+
+-   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
+-   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
+-   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
+-   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
 
 
 #### Mah&amacr;y&amacr;na Buddhism
@@ -216,19 +231,22 @@ Texts:
 -   Sanskrit: "The Great Vehicle"
 -   Mah&amacr;y&amacr;na tradition is the largest major tradition of Buddhism existing today.
 -   Mah&amacr;y&amacr;na Buddhists teach that enlightenment can be attained in a single lifetime, and this can be accomplished even by a layperson.
--   Doctrines:
-    -   &Sacute;&umacr;nyav&amacr;da AKA Madhyamaka - "the emptiness theory"
-    -   Vija&ntilde;&amacr;nav&amacr;da - "the doctrine of consciousness"
-    -   Tath&amacr;gatagarbha - "the doctrine of Buddha nature"
--   [Lotus Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra)
+-   [Mah&amacr;deva](https://en.wikipedia.org/wiki/Mahadeva_(Buddhism))
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
 -   [Zen](https://en.wikipedia.org/wiki/Zen)
     -   Began in China as "Ch&aacute;n" in the [Tang Dynasty (618-907 CE)](https://en.wikipedia.org/wiki/Tang_Dynasty)
     -   Introduced in Japan in 12th century CE and later romanized as "Zen"
 
+Doctrines:
+
+-   &Sacute;&umacr;nyav&amacr;da AKA Madhyamaka - "the emptiness theory"
+-   Vija&ntilde;&amacr;nav&amacr;da - "the doctrine of consciousness"
+-   Tath&amacr;gatagarbha - "the doctrine of Buddha nature"
+
 Texts:
 
 -   [Heart Sutra](https://en.wikipedia.org/wiki/Heart_Sutra)
+-   [Lotus Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra)
 
 
 #### Vajray&amacr;na Buddhism
@@ -306,6 +324,7 @@ Theses (Pigliucci?):
 
 -   Buddhism and Greek philosophy
     -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
+    -   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
     -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
     -   Buddhism and Stoicism
     -   Buddhism and Pyrrhonism
@@ -633,8 +652,10 @@ Click to show links
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [*De rerum natura*](https://en.wikipedia.org/wiki/De_rerum_natura)
 -   [*De rerum natura*, List of English translations](https://en.wikipedia.org/wiki/List_of_English_translations_of_De_rerum_natura)
+-   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
 -   [Dharma](https://en.wikipedia.org/wiki/Dharma)
--   [Dhyana](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism)
+-   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)
+-   [Dhyana in Hinduism](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism)
 -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
 -   [Engaged Buddhism](https://en.wikipedia.org/wiki/Engaged_Buddhism)
 -   [Eastern religions](https://en.wikipedia.org/wiki/Eastern_religions)
@@ -652,7 +673,8 @@ Click to show links
 -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
 -   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
 -   [Kama](https://en.wikipedia.org/wiki/Kama)
--   [Karma](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
+-   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
+-   [Karma in Hinduism](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
 -   [Languages by first written accounts, List of](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
 -   [Lucretius (c. 99-55 BCE)](https://en.wikipedia.org/wiki/Lucretius)
 -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
