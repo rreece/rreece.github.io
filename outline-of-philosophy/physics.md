@@ -398,6 +398,8 @@ TODO
 -   Wikipedia: Either the quantum state corresponds to a physically
     real object and is not merely a statistical tool, or else all quantum states,
     including non-entangled ones, can communicate by action at a distance. 
+-   Leifer, M.S. (2011). [Can the quantum state be interpreted statistically?](https://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/)
+-   Leifer, M.S. & Spekkens, R.W. (2011). [Towards a formulation of quantum theory as a causally neutral theory of bayesian inference.](https://arxiv.org/abs/1107.5849)
 -   Gisin's Theorem
 
 [^Pusey2012]: @Pusey_2012_On_the_reality_of_the_quantum_state\.

@@ -106,6 +106,7 @@ Feynman:
 -   [Maimonides (c. 1135-1204 CE)](https://en.wikipedia.org/wiki/Maimonides)
 -   [Thomas Aquinas (1225-1274 CE)](https://en.wikipedia.org/wiki/Thomas_Aquinas)
 -   [Catholicism](https://en.wikipedia.org/wiki/Catholicism)
+-   [Protestant Reformation (1517-1521 CE)](https://en.wikipedia.org/wiki/Reformation)
 -   [Protestantism](https://en.wikipedia.org/wiki/Protestantism)
 -   [Evangelicalism](https://en.wikipedia.org/wiki/Evangelicalism)
 
