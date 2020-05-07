@@ -184,14 +184,21 @@ Texts:
 #### Common doctrines
 
 -   Buddhism is generally considered to be n&amacr;stika.
+-   [Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths)
+    1.  Suffering ([dukkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) is part of existence.
+    2.  The causes ([samudaya](https://encyclopediaofbuddhism.org/wiki/Samudaya_sacca)) of suffering (dukkha) are
+        craving ([tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
+        ignorance/delusion ([avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
+        attachment ([lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
+        anger/aversion ([dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
+    3.  Cessation of suffering (dukkha) is liberation (nirvana).
+    4.  The path to the cessation of suffering is [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
 -   [Nirvana](https://en.wikipedia.org/wiki/Nirvana) - liberation from Sams&amacr;ra like Moksha
+-   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation)
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
--   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
--   [Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths)
--   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Arhat](https://en.wikipedia.org/wiki/Arhat)
 -   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)
@@ -201,9 +208,12 @@ Texts:
 [Three marks of existence](https://en.wikipedia.org/wiki/Three_marks_of_existence):
 
 -   [Duhkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha) - suffering
--   [Anatta](https://en.wikipedia.org/wiki/Anatta) - no self
 -   [Anicca](https://en.wikipedia.org/wiki/Anicca) - impermanence
+-   [Anatta](https://en.wikipedia.org/wiki/Anatta) - no self
 
+More:
+
+-   O'Brien, B. (2018). [Buddhist teachings on the self.](https://www.learnreligions.com/self-no-self-whats-a-self-450190)
 
 ![Map of the main modern Buddhist sects ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
 
@@ -246,6 +256,7 @@ Texts:
 
 Doctrines:
 
+-   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
 -   &Sacute;&umacr;nyav&amacr;da AKA Madhyamaka - "the emptiness theory"
 -   Vija&ntilde;&amacr;nav&amacr;da - "the doctrine of consciousness"
 -   Tath&amacr;gatagarbha - "the doctrine of Buddha nature"
