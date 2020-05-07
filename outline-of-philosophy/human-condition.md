@@ -158,6 +158,7 @@ Others:
 -   Six &amacr;stika (orthodox) schools: Ny&amacr;y&aacute; Vai&sacute;esika, S&amacr;mkhya, [Yoga](https://en.wikipedia.org/wiki/Yoga), M&imacr;m&amacr;ms&amacr;, and Ved&amacr;nta
 -   Four n&amacr;stika (heterodox) schools: [Buddhism](https://en.wikipedia.org/wiki/Buddhism), [Jainism](https://en.wikipedia.org/wiki/Jainism), [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka), [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
 -   [Hindu atheism](https://en.wikipedia.org/wiki/Hindu_atheism)
+-   [Kalpa](https://en.wikipedia.org/wiki/Kalpa_(aeon))
 
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
@@ -184,27 +185,12 @@ Texts:
 
 #### Common doctrines
 
--   Buddhism is generally considered to be n&amacr;stika.
--   [Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths)
-    1.  Suffering ([dukkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) is part of existence.
-    2.  The causes ([samudaya](https://encyclopediaofbuddhism.org/wiki/Samudaya_sacca)) of suffering (dukkha) are
-        craving ([tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
-        ignorance/delusion ([avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
-        attachment ([lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
-        anger/aversion ([dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
-    3.  Cessation of suffering (dukkha) is liberation (nirvana).
-    4.  The path to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
+Buddhism is generally considered to be n&amacr;stika.
+
+Important initial concepts:
+
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
--   [Nirvana](https://en.wikipedia.org/wiki/Nirvana) - liberation from Sams&amacr;ra like Moksha
--   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
--   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation)
--   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
--   [Arhat](https://en.wikipedia.org/wiki/Arhat)
--   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
--   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)
--   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
--   TODO: add to and organize doctrines
 
 [Three marks of existence](https://en.wikipedia.org/wiki/Three_marks_of_existence):
 
@@ -212,7 +198,35 @@ Texts:
 -   [Anicca](https://en.wikipedia.org/wiki/Anicca) - impermanence
 -   [Anatta](https://en.wikipedia.org/wiki/Anatta) - no self
 
-More:
+[Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths):
+
+1.  Suffering ([dukkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) is part of existence.
+2.  The causes ([samudaya](https://encyclopediaofbuddhism.org/wiki/Samudaya_sacca)) of suffering (dukkha) are
+    craving ([tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
+    ignorance/delusion ([avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
+    attachment ([lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
+    anger/aversion ([dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
+3.  Cessation of suffering (dukkha) is liberation (nirvana).
+4.  The path to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
+
+[Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation):
+
+-   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
+-   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
+-   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (Pali: bodhi)
+-   [Nirvana](https://en.wikipedia.org/wiki/Nirvana) - liberation from Sams&amacr;ra like Moksha
+-   [Arhat](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana)
+    -   In the Mahayana tradition an Arhat is far along the path of enlightenment but may not have reached full Buddhahood.
+-   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
+
+Other stuff:
+
+-   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
+-   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)
+-   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
+-   [Maitreya](https://en.wikipedia.org/wiki/Maitreya)
+
+More refs:
 
 -   O'Brien, B. (2018). [Buddhist teachings on the self.](https://www.learnreligions.com/self-no-self-whats-a-self-450190)
 -   Harvey, P. (2013). *An Introduction to Buddhism* (2nd ed.). Cambridge University Press.
@@ -240,6 +254,7 @@ Texts:
 
 -   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
     -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
+    -   [Sutta Pitak](https://en.wikipedia.org/wiki/Sutta_Pi%E1%B9%ADaka)
     -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
     -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
 
@@ -251,8 +266,11 @@ Texts:
 -   Mah&amacr;y&amacr;na tradition is the largest major tradition of Buddhism existing today.
 -   Mah&amacr;y&amacr;na Buddhists teach that enlightenment can be attained in a single lifetime, and this can be accomplished even by a layperson.
 -   [Mah&amacr;deva](https://en.wikipedia.org/wiki/Mahadeva_(Buddhism))
+-   [N&amacr;g&amacr;rjuna (c. 150-250 CE)](https://en.wikipedia.org/wiki/Nagarjuna)
+-   [&Amacr;ryadeva (fl. 3rd century CE)](https://en.wikipedia.org/wiki/Aryadeva)
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
--   [Zen](https://en.wikipedia.org/wiki/Zen)
+-   [Chan Buddhism](https://en.wikipedia.org/wiki/Chan_Buddhism)
+-   [Zen Buddhism](https://en.wikipedia.org/wiki/Zen)
     -   Began in China as "Ch&aacute;n" in the [Tang Dynasty (618-907 CE)](https://en.wikipedia.org/wiki/Tang_Dynasty)
     -   Introduced in Japan in 12th century CE and later romanized as "Zen"
 
@@ -649,6 +667,7 @@ Click to show links
 
 -   [Absurdism](http://en.wikipedia.org/wiki/Absurdism)
 -   [Akrasia](https://en.wikipedia.org/wiki/Akrasia)
+-   [&Amacr;ryadeva (fl. 3rd century CE)](https://en.wikipedia.org/wiki/Aryadeva)
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
 -   [Anapanasati](https://en.wikipedia.org/wiki/Anapanasati)
 -   [Ancient history](https://en.wikipedia.org/wiki/Ancient_history)
@@ -680,6 +699,7 @@ Click to show links
 -   [Dhyana in Hinduism](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism)
 -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
 -   [Engaged Buddhism](https://en.wikipedia.org/wiki/Engaged_Buddhism)
+-   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism)
 -   [Eastern religions](https://en.wikipedia.org/wiki/Eastern_religions)
 -   [Ego death](https://en.wikipedia.org/wiki/Ego_death)
 -   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
@@ -707,6 +727,7 @@ Click to show links
     -   [Satipatthana](https://en.wikipedia.org/wiki/Satipatthana)
     -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
 -   [Moksha](https://en.wikipedia.org/wiki/Moksha)
+-   [N&amacr;g&amacr;rjuna (c. 150-250 CE)](https://en.wikipedia.org/wiki/Nagarjuna)
 -   [Neostoicism](https://en.wikipedia.org/wiki/Neostoicism)
 -   [Nietzsche, Friedrich (1844-1900)](https://en.wikipedia.org/wiki/Friedrich_Nietzsche)
 -   [Nihilism](http://en.wikipedia.org/wiki/Nihilism)
