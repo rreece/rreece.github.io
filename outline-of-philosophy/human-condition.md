@@ -167,7 +167,7 @@ Others:
 #### Introduction
 
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism) (began between 6th and 4th centuries BCE)
--   [Siddhartha Gautama Buddha (c. 563-483 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
+-   [Siddhartha Gautama Buddha (c. 480-400 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
     -   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
     -   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
     -   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
@@ -723,6 +723,7 @@ Click to show links
 -   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 -   [Seneca (4 BCE - 65 CE)](https://en.wikipedia.org/wiki/Seneca_the_Younger)
 -   [Shinto](https://en.wikipedia.org/wiki/Shinto)
+-   [Siddhartha Gautama Buddha (c. 480-400 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
 -   [Stirner, Max (1806-1856)](https://en.wikipedia.org/wiki/Max_Stirner)
 -   [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
 -   [Stoicism, Modern](https://en.wikipedia.org/wiki/Modern_Stoicism)
