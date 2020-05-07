@@ -37,6 +37,7 @@ Issues and positions
 
 -   [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) ([Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt) and [Mesopotamia](https://en.wikipedia.org/wiki/Mesoamerica))
     -   First [Natufian](https://en.wikipedia.org/wiki/Natufian_culture) sedentary settlements by 10,000 BCE
+    -   [Pre-Pottery Neolithic A](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A) (c. 12,000-10,800 BCE)
     -   [G&ouml;bekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe) built between c. 10,000 and 8,000 BCE
     -   [Sumer](https://en.wikipedia.org/wiki/Sumer) settled between c. 5,500 and 4,000 BCE
     -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing begins c. 3,200 BCE
@@ -44,7 +45,7 @@ Issues and positions
     -   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2800 and 2500 BCE
     -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334--2,154 BCE)
     -   [Babylonia](https://en.wikipedia.org/wiki/Babylonia) - [Babylon](https://en.wikipedia.org/wiki/Babylon) settled c. 2,300 BCE
-    -   [Hammurabi (c. 1810-1750 BCE)](https://en.wikipedia.org/wiki/Hammurabi)
+    -   [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) (c. 1810-1750 BCE)
     -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1754 BCE)
     -   [Royal Road](https://en.wikipedia.org/wiki/Royal_Road) rebuilt by [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) c. 500 BCE
 -   [Ancient India](https://en.wikipedia.org/wiki/History_of_India)
