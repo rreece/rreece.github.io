@@ -115,8 +115,8 @@ Feynman:
 -   [Evangelicalism](https://en.wikipedia.org/wiki/Evangelicalism)
 
 >   The Abraham story cannot be definitively related to any specific time,
->   and it is widely agreed that the patriarchal age, along with the exodus
->   and the period of the judges, is a late literary construct that does not
+>   and it is widely agreed that the patriarchal age, along with the Exodus
+>   and the period of the Judges, is a late literary construct that does not
 >   relate to any period in actual history. [^McNutt1999]
 
 [^McNutt1999]: @McNutt_1999_Reconstructing_the_Society_of_Ancient_Israel\, p. 41--42.
@@ -215,6 +215,7 @@ Texts:
 More:
 
 -   O'Brien, B. (2018). [Buddhist teachings on the self.](https://www.learnreligions.com/self-no-self-whats-a-self-450190)
+-   Harvey, P. (2013). *An Introduction to Buddhism* (2nd ed.). Cambridge University Press.
 
 ![Map of the main modern Buddhist sects ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
 
