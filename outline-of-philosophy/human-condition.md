@@ -213,7 +213,7 @@ Important initial concepts:
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (Pali: bodhi)
--   [Nirvana](https://en.wikipedia.org/wiki/Nirvana) - liberation from Sams&amacr;ra like Moksha
+-   [Nirvana](https://en.wikipedia.org/wiki/Nirvana) - liberation from sams&amacr;ra like moksha
 -   [Arhat](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana)
     -   In the Mahayana tradition an Arhat is far along the path of enlightenment but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
@@ -304,8 +304,7 @@ Texts:
 
 #### Dharmic
 
--   along with Hinduism and Buddhism
--   All Dharmic religions originated in India.
+-   Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   [Jainism](https://en.wikipedia.org/wiki/Jainism)
     -   [Parshvanatha (c. 800/700 - 700/600 BCE)](https://en.wikipedia.org/wiki/Parshvanatha) - 23th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
     -   [Mahavira (c. 540 - 468 BCE)](https://en.wikipedia.org/wiki/Mahaviraswami) - 24th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
@@ -409,8 +408,8 @@ decidedly not naturalistic:
 #### Darwinism
 
 -   We are animals.
--   We are from a lineage.
 -   We are all related.
+-   We are from a lineage.
 -   We are evolved.
 -   We are complex.
 -   Andrews on Terrence Deacon's hierarchic transitions [^Andrews2018]
