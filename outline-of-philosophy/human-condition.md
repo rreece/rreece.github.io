@@ -193,7 +193,7 @@ Texts:
         attachment ([lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
         anger/aversion ([dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
     3.  Cessation of suffering (dukkha) is liberation (nirvana).
-    4.  The path to the cessation of suffering is [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
+    4.  The path to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
 -   [Nirvana](https://en.wikipedia.org/wiki/Nirvana) - liberation from Sams&amacr;ra like Moksha
