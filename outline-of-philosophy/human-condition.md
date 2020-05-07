@@ -128,6 +128,10 @@ Feynman:
 
 -   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
 -   [Vedic period](https://en.wikipedia.org/wiki/Vedic_period) (c. 1,500-500 BCE)
+-   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
+    -   See McEvilley [^McEvilley2002p327]
+-   Six &amacr;stika (orthodox) schools: Ny&amacr;y&aacute; Vai&sacute;esika, S&amacr;mkhya, [Yoga](https://en.wikipedia.org/wiki/Yoga), M&imacr;m&amacr;ms&amacr;, and Ved&amacr;nta
+-   Four n&amacr;stika (heterodox) schools: [Buddhism](https://en.wikipedia.org/wiki/Buddhism), [Jainism](https://en.wikipedia.org/wiki/Jainism), [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka), [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
 
 Texts:
 
@@ -136,6 +140,8 @@ Texts:
     -   Samaveda, Yajurveda, Atharvaveda
 -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
 -   "Hindu synthesis" started to develop between 500 BCE and 300 CE
+
+[^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
 
 #### Common doctrines
@@ -153,14 +159,8 @@ Others:
 -   Karma as a solution to the [problem of evil in Hinduism](https://en.wikipedia.org/wiki/Problem_of_evil_in_Hinduism)
 -   [Dhyana in Hinduism](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism) - meditation
 -   [&Amacr;tman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) - self/soul
--   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
-    -   See McEvilley [^McEvilley2002p327]
--   Six &amacr;stika (orthodox) schools: Ny&amacr;y&aacute; Vai&sacute;esika, S&amacr;mkhya, [Yoga](https://en.wikipedia.org/wiki/Yoga), M&imacr;m&amacr;ms&amacr;, and Ved&amacr;nta
--   Four n&amacr;stika (heterodox) schools: [Buddhism](https://en.wikipedia.org/wiki/Buddhism), [Jainism](https://en.wikipedia.org/wiki/Jainism), [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka), [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
 -   [Hindu atheism](https://en.wikipedia.org/wiki/Hindu_atheism)
 -   [Kalpa](https://en.wikipedia.org/wiki/Kalpa_(aeon))
-
-[^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
 
 ### Buddhism
