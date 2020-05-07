@@ -238,7 +238,7 @@ More refs:
 -   [Therav&amacr;da Buddhism](https://en.wikipedia.org/wiki/Theravada)
 -   Pali: "The School of the Elders"
 -   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline.
--   [Third Buddhist council (c. 250 BCE)](https://en.wikipedia.org/wiki/Third_Buddhist_council)
+-   [Third Buddhist Council (c. 250 BCE)](https://en.wikipedia.org/wiki/Third_Buddhist_council)
 
 Doctrines:
 
