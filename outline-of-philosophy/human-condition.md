@@ -101,6 +101,7 @@ Feynman:
 -   [Judaism](https://en.wikipedia.org/wiki/Judaism) (began 7th century BCE)
 -   [Origins of Judaism](https://en.wikipedia.org/wiki/Origins_of_Judaism)
 -   [Christianity](https://en.wikipedia.org/wiki/Christianity) (began 1st century CE)
+    -   Breaks distinction between kinship and tribe. Anyone can join.
 -   [Paul the Apostle (c. 5-64 CE)](https://en.wikipedia.org/wiki/Paul_the_Apostle)
 -   [Islam](https://en.wikipedia.org/wiki/Islam) (began 7th century CE)
 -   [Augustine of Hippo (354-430 CE)](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
@@ -237,9 +238,9 @@ Doctrines:
 Texts:
 
 -   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
--   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
--   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
--   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
+    -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
+    -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
+    -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
 
 
 #### Mah&amacr;y&amacr;na Buddhism
@@ -265,6 +266,8 @@ Texts:
 
 -   [Heart Sutra](https://en.wikipedia.org/wiki/Heart_Sutra)
 -   [Lotus Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra)
+-   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) (The Perfection of Wisdom)
+    -   radical non-dualism
 
 
 #### Vajray&amacr;na Buddhism
