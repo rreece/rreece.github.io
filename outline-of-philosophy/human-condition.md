@@ -166,7 +166,10 @@ Others:
 
 ![The Wheel of Dharma ([Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra))
     is an imporant symbol in many Indian religions, in particular in Buddhism
-    where it represents the Noble Eightfold Path.](img/wheel-of-dharma.png){#fig:wheel-of-dharma}
+    where it represents the 
+    [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path).
+    ](img/wheel-of-dharma.png){#fig:wheel-of-dharma}
+
 
 ### Buddhism
 
