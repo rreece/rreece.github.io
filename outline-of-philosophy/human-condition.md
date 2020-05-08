@@ -29,6 +29,9 @@ Issues and positions
 >   Humans migrated to the Americas about 15,000 years ago in the Upper
 >   Paleolithic. [^WikiAncientHistory]
 
+-   [Clovis culture](https://en.wikipedia.org/wiki/Clovis_culture)
+-   [Younger Dryas impact hypothesis](https://en.wikipedia.org/wiki/Younger_Dryas_impact_hypothesis)
+
 [First civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilization):
 
 -   [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) ([Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt) and [Mesopotamia](https://en.wikipedia.org/wiki/Mesoamerica))
@@ -161,6 +164,9 @@ Others:
 -   [Namaste](https://en.wikipedia.org/wiki/Namaste)
 -   TODO: gods
 
+![The Wheel of Dharma ([Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra))
+    is an imporant symbol in many Indian religions, in particular in Buddhism
+    where it represents the Noble Eightfold Path.](img/wheel-of-dharma.png){#fig:wheel-of-dharma}
 
 ### Buddhism
 
@@ -217,8 +223,6 @@ Important initial concepts:
 -   [Arhat](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana)
     -   In the Mahayana tradition an Arhat is far along the path of enlightenment but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
-
-![The Wheel of Dharma representing the Noble Eightfold Path.](img/wheel-of-dharma.png){#fig:wheel-of-dharma}
 
 Other stuff:
 
