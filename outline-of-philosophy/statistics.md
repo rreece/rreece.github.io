@@ -450,6 +450,8 @@ TODO:
 
 ![Demonstration of sensitivity to the jet energy scale for an alleged excess in $Wjj$ by [Tommaso Dorigo (2011)](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886).](img/AnimatedDijet.gif){#fig:AnimatedDijet}
 
+-   Faster-than-light neutrinos.
+
 
 ### Exploratory data analysis
 

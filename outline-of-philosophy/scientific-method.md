@@ -339,6 +339,7 @@ Kant in his *Critique of Pure Reason* (1781):
 TODO: 2x2 figure *a priori--a posteriori* vs analytic--synthetic.
 
 -   Are there synthetic a priori statements?
+    -   Kant thinks so.
 
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Kant1996pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
