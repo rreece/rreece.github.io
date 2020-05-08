@@ -705,6 +705,7 @@ Click to show links
 -   [*De rerum natura*, List of English translations](https://en.wikipedia.org/wiki/List_of_English_translations_of_De_rerum_natura)
 -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
 -   [Dharma](https://en.wikipedia.org/wiki/Dharma)
+-   [Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra)
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)
 -   [Dhyana in Hinduism](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism)
 -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
