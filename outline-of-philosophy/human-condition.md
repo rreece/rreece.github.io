@@ -152,9 +152,9 @@ Texts:
 
 Others:
 
+-   [Dhyana in Hinduism](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism) - meditation
 -   [Karma in Hinduism](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
 -   Karma as a solution to the [problem of evil in Hinduism](https://en.wikipedia.org/wiki/Problem_of_evil_in_Hinduism)
--   [Dhyana in Hinduism](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism) - meditation
 -   [&Amacr;tman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) - self/soul
 -   [Hindu atheism](https://en.wikipedia.org/wiki/Hindu_atheism)
 -   [Kalpa](https://en.wikipedia.org/wiki/Kalpa_(aeon))
@@ -218,10 +218,12 @@ Important initial concepts:
     -   In the Mahayana tradition an Arhat is far along the path of enlightenment but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 
+&nbsp;![](img/dharma-wheel.png)
+
 Other stuff:
 
+-   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
 -   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
--   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)
 -   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
 -   [Maitreya](https://en.wikipedia.org/wiki/Maitreya)
 
