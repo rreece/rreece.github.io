@@ -73,6 +73,10 @@ Issues and positions
     -   [Olmec hieroglyphs](https://en.wikipedia.org/wiki/Olmec_hieroglyphs) possibly as early as 900 BCE
     -   [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block) with Olmec hieroglyphs possibly as early as c. 1,000 BCE
 
+![Map of the world showing approximate centers of origin of agriculture and
+    its spread in prehistory. [^Diamond2003]
+    ](img/spread-of-agriculture.png){#fig:spread-of-agriculture}
+
 Feynman:
 
 >   We are all sad when we think of the wondrous potentialities that human
@@ -95,6 +99,7 @@ Feynman:
 >   propaganda as well as real and valuable information. Communication is
 >   a strong force, also, but either for good or evil. [^Feynman1998p31]
 
+[^Diamond2003]: @Diamond_2003_Farmers_and_their_languages_the_first_expansions\.
 [^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
 [^WikiAncientHistory]: [en.wikipedia.org/wiki/Ancient_history](https://en.wikipedia.org/wiki/Ancient_history)
 
@@ -173,8 +178,8 @@ Others:
 -   TODO: gods
 
 ![The Wheel of Dharma ([Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra))
-    is an imporant symbol in many Indian religions, in particular in Buddhism
-    where it represents the 
+    is an imporant symbol in many dharmic religions,
+    in particular Buddhism where it represents the 
     [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path).
     ](img/wheel-of-dharma.png){#fig:wheel-of-dharma}
 
@@ -242,6 +247,7 @@ Other stuff:
 -   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
 -   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
 -   [Maitreya](https://en.wikipedia.org/wiki/Maitreya)
+-   [&Sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)
 
 More refs:
 
