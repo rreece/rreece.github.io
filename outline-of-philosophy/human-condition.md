@@ -218,7 +218,7 @@ Important initial concepts:
     -   In the Mahayana tradition an Arhat is far along the path of enlightenment but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 
-&nbsp;![](img/dharma-wheel.png)
+![The Wheel of Dharma representing the Noble Eightfold Path.](img/wheel-of-dharma.png){#fig:wheel-of-dharma}
 
 Other stuff:
 
