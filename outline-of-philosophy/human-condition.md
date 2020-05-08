@@ -303,6 +303,7 @@ Doctrines:
 -   &Sacute;&umacr;nyav&amacr;da AKA Madhyamaka - "the emptiness theory"
 -   Vija&ntilde;&amacr;nav&amacr;da - "the doctrine of consciousness"
 -   Tath&amacr;gatagarbha - "the doctrine of Buddha nature"
+-   [Ten suchnesses](https://en.wikipedia.org/wiki/Ten_suchnesses)
 
 Texts:
 
