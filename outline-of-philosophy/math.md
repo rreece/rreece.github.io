@@ -227,14 +227,14 @@ Bayes:
 
 >   It is not the business of a mathematician to show that a straight line or
 >   circle can be drawn, but he tells you what he means by these;
->   & if you understand him, you may proceed further with him; & it would not
->   be to the purpose to object that there is no such thing in nature.
+>   and if you understand him, you may proceed further with him; and it would not
+>   be to the purpose to object that there is no such thing in nature
 >   as a true straight line or perfect circle, for this is none of his
 >   concern: he is not inquiring how things are in matter of fact,
 >   but supposing things to be in a certain way, what are the consequences
->   to be deduced from them. [^Bayes1736]
+>   to be deduced from them. [^Bayes1736p9]
 
-[^Bayes1736]: TODO.
+[^Bayes1736p9]: @Bayes_1736_An_Introduction_to_the_Doctrine_of_Fluxions\, p. 9--10.
 [^Bueno2013]: @Bueno_2013_Nominalism_in_the_philosophy_of_mathematics\.
 [^Field1980]: @Field_1980_Science_Without_Numbers\.
 

@@ -130,13 +130,13 @@ Radiohead:
 >   another. [^Lewis1986pix]
 
 -   *On the Plurality of Worlds* (1986)
-
-[^Lewis1986]: @Lewis_1986_On_the_Plurality_of_Worlds\.
-[^Lewis1986pix]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
-
 -   Emphasize the naturalist revolution within Humean views.
 -   See the [Outline on naturalism](naturalism.html).
 -   Saul Kripke on necessity
+-   Modal logic
+
+[^Lewis1986]: @Lewis_1986_On_the_Plurality_of_Worlds\.
+[^Lewis1986pix]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
 
 
 ### Scientific realism
