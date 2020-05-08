@@ -205,10 +205,10 @@ Important initial concepts:
     ignorance/delusion ([avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
     attachment ([lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
     anger/aversion ([dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
-3.  Cessation of suffering (dukkha) is liberation (nirvana).
-4.  The path to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
+3.  Cessation (nirodha) of suffering (dukkha) is liberation (nirvana).
+4.  The path (magga) to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
 
-[Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation):
+[Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (magga):
 
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
@@ -222,6 +222,7 @@ Important initial concepts:
 
 Other stuff:
 
+-   The three trainings: sila, praj&ntilde;a, and samadhi
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
 -   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
 -   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
@@ -247,7 +248,7 @@ Doctrines:
 -   [Vipassan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
 -   [Vipassan&amacr; movement](https://en.wikipedia.org/wiki/Vipassana_movement)
     -   branch of modern Burmese Therav&amacr;da Buddhism with widespread popularity since the 1950s
-    -   popularized Buddhism in the United States
+    -   popularized Buddhism in the United States??
 -   [Acinteyya](https://en.wikipedia.org/wiki/Acinteyya) - the four imponderable or incomprehensible issues
 -   Jh&amacr;nas - states of meditation. See [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism).
 
