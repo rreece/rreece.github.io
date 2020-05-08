@@ -334,6 +334,15 @@ Texts:
 -   [Seneca (4 BCE - 65 CE)](https://en.wikipedia.org/wiki/Seneca_the_Younger)
 -   [Epictetus (c. 50-135 CE)](https://en.wikipedia.org/wiki/Epictetus)
 -   [Marcus Aurelius (121-180 CE)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
+
+Three historical phases of Stoicism:
+
+1.  Early Stoa, from the founding of the school by Zeno to Antipater.
+2.  Middle Stoa, including Panaetius and Posidonius.
+3.  Late Stoa, including Musonius Rufus, Seneca, Epictetus, and Marcus Aurelius.
+
+-   No complete works survive from the first two phases of Stoicism.
+    Only Roman texts from the Late Stoa survive.
 -   Contemporary Stoicism
 
 
