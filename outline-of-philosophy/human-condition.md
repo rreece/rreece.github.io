@@ -29,8 +29,14 @@ Issues and positions
 >   Humans migrated to the Americas about 15,000 years ago in the Upper
 >   Paleolithic. [^WikiAncientHistory]
 
+[Hunter-gatherers](https://en.wikipedia.org/wiki/Hunter-gatherer):
+
 -   [Clovis culture](https://en.wikipedia.org/wiki/Clovis_culture)
 -   [Younger Dryas impact hypothesis](https://en.wikipedia.org/wiki/Younger_Dryas_impact_hypothesis)
+-   TODO: ...
+
+-   [Mesolithic](https://en.wikipedia.org/wiki/Mesolithic)
+-   [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution)
 
 [First civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilization):
 
@@ -54,6 +60,8 @@ Issues and positions
     -   [Indus script](https://en.wikipedia.org/wiki/Indus_script) (c. 3,500--1,900 BCE) - still not deciphered today!
     -   [Vedic Sanskrit](https://en.wikipedia.org/wiki/Vedic_Sanskrit) writing begins c. 2,000 BCE
 -   [Ancient China](https://en.wikipedia.org/wiki/History_of_China)
+    -   [Neolithic China](https://en.wikipedia.org/wiki/Neolithic_China)
+    -   [Rice domestication](https://en.wikipedia.org/wiki/Rice#Rice_domestication) (11,500--6,200 BCE)
     -   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (c. 2,070--1,600 BCE) - no direct records
     -   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1,600--1046 BCE)
     -   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1,250 BCE)
