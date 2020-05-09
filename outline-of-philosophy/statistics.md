@@ -665,7 +665,7 @@ Mayo:
 -   *Deep Learning* [^Goodfellow2016]
 -   "The explanation game: A formal framework for interpretable machine learning" [^Watson2019]
 -   Deep double descent
-    -   Bias and variance trade-off
+    -   Bias and variance trade-off. See [Bias and variance](#bias-and-variance).
     -   MSE and model capacity
     -   Note the new deep learning view [^Belkin2019]
     -   Deep double descent [^Nakkiran2019]
