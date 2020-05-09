@@ -309,6 +309,7 @@ Alex Rosenberg is a mad dog against emergence. Video:
     -   Morris [^Morris2019]
 -   Fundamentality:
     -   Ney [^Ney2018]
+-   Why "physics is fundamental"
 
 [^Morris2019]: @Morris_2019_Physicalism_Deconstructed_Levels_of_reality\.
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.

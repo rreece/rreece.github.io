@@ -57,7 +57,11 @@ Ioannidis, J.P. (2005). Why most published research findings are false. *PLos Me
 James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
 Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
 Korb, K.B. (2001). Machine learning as philosophy of science. In *Proceedings of the ECML-PKDD-01 Workshop on Machine Learning as Experimental Philosophy of Science*, Freiburg.
+Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ImageNet classification with deep convolutional neural networks. *Advances in Neural Information Processing Systems*, 2012, 1097--1105. https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53. http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf
+#LeCun, Y., Boser, B., Denker, J.S., Henderson, D., Howard, R.E., Hubbard, W., & Jackel, L.D. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1(4), 541--551. http://www.ics.uci.edu/~welling/teaching/273ASpring09/lecun-89e.pdf
+LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1(4), 541--551. http://www.ics.uci.edu/~welling/teaching/273ASpring09/lecun-89e.pdf
+LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. *Proceedings of the IEEE*, 86(11), 2278--2324. http://www.dengfanxin.cn/wp-content/uploads/2016/03/1998Lecun.pdf
 LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436-44.
 Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep learning. https://arxiv.org/abs/1805.10451
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
@@ -67,6 +71,7 @@ Mayo, D.G. & Spanos, A. (2011). Error statistics. In *Philosophy of Statistics* 
 Mayo, D.G. (2014). On the Birnbaum Argument for the Strong Likelihood Principle, *Statistical Science*, 29, 227--266.
 Mayo, D.G. (2018). *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*. Cambridge University Press.
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
+Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. https://arxiv.org/abs/1912.02292
 Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
 Neyman, J. (1957). "Inductive behavior" as a basic concept of philosophy of science. *Revue de l'Institut International de Statistique*, 25, 7--22.
 Nielsen, F. (2018). An elementary introduction to information geometry. https://arxiv.org/abs/1808.08271
@@ -96,6 +101,7 @@ Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning wit
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
 Tukey, J.W. (1977). *Exploratory Data Analysis*. Pearson.
+Vapnik, V., Levin, E., & LeCun, Y. (1994). Measuring the VC-dimension of a learning machine. *Neural Computation*, 6(5), 851--876.
 Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]
 Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482.
 Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.

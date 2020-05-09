@@ -307,12 +307,9 @@ For an unbiased estimator, the MSE is the variance of the estimator.
 
 TODO:
 
--   Bias and variance trade-off
--   MSE and model capacity
--   Note the new deep learning view [^Belkin2019]
+-   Note the new deep learning view. See [Deep learning](#deep-learning).
 
 [^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\, p. X. 
-[^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
 
 
 #### Maximum likelihood estimation
@@ -654,22 +651,34 @@ Mayo:
 -   supervised and unsupervised learning
     -   classification = supervised; clustering = unsupervised
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
+-   VC-dimension [^Vapnik1994]
 
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
+[^Vapnik1994]: @Vapnik_1994_Measuring_the_VC_dimension_of_a_learning_machine\.
 
 
 #### Deep learning
 
+-   backpropigation
 -   "Review: Deep learning" [^LeCun2015]
 -   Lower to higher level representations [^Bengio2009]
 -   *Deep Learning* [^Goodfellow2016]
 -   "The explanation game: A formal framework for interpretable machine learning" [^Watson2019]
+-   Deep double descent
+    -   Bias and variance trade-off
+    -   MSE and model capacity
+    -   Note the new deep learning view [^Belkin2019]
+    -   Deep double descent [^Nakkiran2019]
+    -   [Deep Double Descent](https://openai.com/blog/deep-double-descent/).  *OpenAI Blog*.
+    -   Hubinger, E. (2019). [Understanding "Deep Double Descent".](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent) *LessWrong*.
 
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
 
+[^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
 [^Bengio2009]: @Bengio_2009_Learning_deep_architectures_for_AI\.
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
 [^LeCun2015]: @LeCun_2015_Deep_learning\.
+[^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
 
@@ -678,9 +687,14 @@ Mayo:
 Computer Vision (CV)
 
 -   Fukushima: neocognitron
--   LeCun: LeNet-5
+-   LeCun: OCR with backpropigation [^LeCun1989]
+-   LeCun: LeNet-5 [^LeCun1998]
 -   Ciresan: MCDNN
--   Krizhevsky: AlexNet
+-   Krizhevsky, Sutskever, and Hinton: AlexNet [^Krizhevsky2012]
+
+[^Krizhevsky2012]: @Krizhevsky_2012_ImageNet_classification_with_deep_convolutional\.
+[^LeCun1989]: @LeCun_1989_Backpropagation_applied_to_handwritten_zip_code\.
+[^LeCun1998]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
 
 
 #### Natural language processing
