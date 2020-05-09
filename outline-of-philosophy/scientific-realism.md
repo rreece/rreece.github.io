@@ -561,6 +561,7 @@ Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
 
 -   realist
+-   Plato's injunction in the *Phaedrus* to carve nature at its joints 
 -   early Wittgenstein: picture theory of language/meaning
 -   strucuturalism more generally and structural anthropology: Claude L&eacute;vi-Strauss
 -   Henri Poincar&eacute;

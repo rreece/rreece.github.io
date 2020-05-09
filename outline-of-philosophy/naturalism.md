@@ -39,19 +39,6 @@ TODO: Manifest image and scientific image - Sellars
 
 -   Sellars, W. (1963). "Philosophy and the scientific image of man" in @Sellars_1963_Science_Perception_and_Reality
 
-Sellars:
-
->   Philosophy in an important sense has no special subject-matter which
->   stands to it as other subject-matters stand to other special disciplines.
->   If philosophers did have such a special subject-matter, they could turn it
->   over to a new group of specialists as they have turned other special
->   subject-matters to non-philosophers over the past 2500 years, first with
->   mathematics, more recently psychology and sociology, and, currently,
->   certain aspects of theoretical linguistics. What is characteristic of
->   philosophy is not a special subject-matter, but the aim of knowing one's
->   way around with respect to the subject-matters of all the special
->   disciplines. [^SellarsTODO]
-
 Maddy defines naturalism:
 
 >   These days, as more and more philosophers count themselves as naturalists,
@@ -123,7 +110,6 @@ Papineau:
 [^Maudlin2007p1]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 1.
 [^Papineau2007]: @Papineau_2007_Naturalism\.
 [^Sellars1963p1]: @Sellars_1963_Science_Perception_and_Reality\, p. 1.
-[^SellarsTODO]: TODO.
 
 
 #### Second pass
@@ -188,6 +174,38 @@ Riepe on the characteristics of naturalism in Indian thought:
 
 [^McEvilley2002p325]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 325--333.
 [^Riepe1961pX]: @Riepe_1961_The_Naturalistic_Traddition_in_Indian_Thought\, p. TODO.
+
+
+### Unity of philosophy and science
+
+-   Philosophy and science are continuous in concerns.
+-   Philosophy is the nursury of budding programs that become specialized sciences.
+-   TODO: find more refs.
+
+As Descartes wrote in 1644,
+
+>   [A]ll Philosophy is like a tree, of which Metaphysics is the root,
+>   Physics the trunk, and all the other sciences are the branches that
+>   grow out of this trunk, which are reduced to three principal, namely,
+>   Medicine, Mechanics and Ethics. [^Descartes1644pX]
+
+-   In the boat with Neurath.
+
+Sellars:
+
+>   Philosophy in an important sense has no special subject-matter which
+>   stands to it as other subject-matters stand to other special disciplines.
+>   If philosophers did have such a special subject-matter, they could turn it
+>   over to a new group of specialists as they have turned other special
+>   subject-matters to non-philosophers over the past 2500 years, first with
+>   mathematics, more recently psychology and sociology, and, currently,
+>   certain aspects of theoretical linguistics. What is characteristic of
+>   philosophy is not a special subject-matter, but the aim of knowing one's
+>   way around with respect to the subject-matters of all the special
+>   disciplines. [^SellarsTODO]
+
+[^Descartes1644pX]: TODO.
+[^SellarsTODO]: TODO.
 
 
 ### Rejection of *a priori* metaphysics
@@ -304,6 +322,7 @@ Alex Rosenberg is a mad dog against emergence. Video:
     written in 1666 [@Leibniz_1989_Dissertatio_de_Arte_Combinatoria, 73].
     TODO: Actually, I haven't found this yet.
     See also @Leibniz_1951_The_Art_of_Discovery, p. 51.
+    Supposedly it is also in Russell's *A Critical Exposition of the Philosophy of Leibniz*.
 
 -   Reductive and non-reductive physicalism
     -   Morris [^Morris2019]
