@@ -388,8 +388,9 @@ TODO:
 Statistical hypothesis testing
 --------------------------------------------------------------------------------
 
-### Null hypothesis significance testing (NHST)
+### Null hypothesis significance testing
 
+-   Null hypothesis significance testing (NHST)
 -   goodness of fit
 -   Fisher
 
@@ -792,11 +793,11 @@ Automation
     -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
 -   "The End of Theory: The data deluge makes the scientific method obsolete." [^Anderson2008]
 
-![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis [@Asch_2018_Big_data_and_extreme_scale_computing_Pathways]. ](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
-
+![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis. [^Asch2018fig]](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
 
 [^Anderson2008]: @Anderson_2008_The_End_of_Theory_The_data_deluge_makes\.
 [^Asch2018]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
+[^Asch2018fig]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
 [^Cranmer2019]: @Cranmer_2019_The_frontier_of_simulation_based_inference\.
 [^DAgnolo2019]: @DAgnolo_2019_Learning_New_Physics_from_a_Machine\.
 
