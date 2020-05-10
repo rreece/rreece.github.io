@@ -18,7 +18,7 @@ and other worldviews in constrast to naturalism.
 What is naturalism?
 --------------------------------------------------------------------------------
 
-#### First pass
+### First pass
 
 -   Natural philosophy
 
@@ -110,7 +110,7 @@ Papineau:
 [^Sellars1963p1]: @Sellars_1963_Science_Perception_and_Reality\, p. 1.
 
 
-#### Second pass
+### Second pass
 
 A very diverse set of thinkers are often characterized as naturalists or aligned
 with naturalism, at the expense of much clarity in the term, but naturalism
@@ -145,7 +145,7 @@ Also:
 -   Sean Carroll: "There is *one* (natural) world."
 
 
-#### History
+### History
 
 -   Discussion by McEvilley [^McEvilley2002p325]
 -   Archilochus
@@ -416,7 +416,7 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 Criticisms of naturalism
 --------------------------------------------------------------------------------
 
-#### Attacks
+### Attacks
 
 -   Postmodernism and social construction
     -   Gorton, W.A. (2010). [The philosophy of social science: Criticisms of naturalism.](http://www.iep.utm.edu/soc-sci/#H2) *Internet Encyclopedia of Philosophy*.
@@ -439,7 +439,7 @@ Criticisms of naturalism
 [^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_must_challenge_what_makes_studies\.
 
 
-#### Rebutals
+### Rebutals
 
 -   Defenses of naturalism:
     -   *Every Thing Must Go* [^Ladyman2007]
@@ -488,7 +488,7 @@ Criticisms of naturalism
 [^Williams2017]: @Williams_2017_Has_Trump_stolen_philosophys_critical_tools\.
 
 
-#### Counter rebutals
+### Counter rebutals
 
 -   Defenses of postmodernism:
     -   McManus, M. (2018). [A review of *Explaining Postmodernism* by Stephen Hicks.](https://areomagazine.com/2018/10/17/a-review-of-explaining-postmodernism-by-stephen-hicks/comment-page-1/) *Areo Magazine*.
