@@ -314,6 +314,7 @@ Click to show links
 -   [Non-Cognitivism in Ethics](http://www.iep.utm.edu/non-cogn/)
 -   [Personal Identity and Ethics](http://plato.stanford.edu/entries/identity-ethics/)
 -   [Ross, William David (1877-1971)](http://www.iep.utm.edu/ross-wd/)
+-   [Russell, Bertrand: Ethics](https://www.iep.utm.edu/russ-eth/)
 -   [Stoic Ethics](http://www.iep.utm.edu/stoiceth/)
 -   [Utilitarianism, Act and Rule](http://www.iep.utm.edu/util-a-r/)
 -   [Victor Kraft (1880-1975)](http://www.iep.utm.edu/kraft/)

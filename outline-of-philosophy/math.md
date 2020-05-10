@@ -253,15 +253,24 @@ Bayes:
 Logicism
 --------------------------------------------------------------------------------
 
+### Introduction
+
+-   Frege
 -   Formalism
--   Antirealist, Positivism
--   Frege, Russell, Whitehead
--   Russsell expresses support for the platonic "universals" [^Russell1912p91]
--   *Principia Mathematica* (1910)
--   Wigner [^Wigner1960]
+-   Bertrand Russell (1872-1970)
+-   Whitehead
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
--   ZFC
--   Wikipedia: ZFC actually does circumvent Russell's paradox by restricting the comprehension axiom to already existing sets by the use of subset axioms.
+
+[^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.
+
+
+### *Principia Mathematica*
+
+-   *Principia Mathematica* (1910)
+-   Russell, Whitehead
+-   Russell's Paradox
+-   Antirealist, Positivism
+-   Russsell expresses support for the platonic "universals" [^Russell1912p91]
 
 Hilbert:
 
@@ -270,7 +279,8 @@ Hilbert:
 >   attuned to the principle of mathematical induction, as does Poincar&eacute;, 
 >   or the primal intuition of Brouwer, or, finally, as do Russell and Whitehead, 
 >   axioms of infinity, reducibility, or completeness, which in fact are actual, 
->   contentual assumptions that cannot be compensated for by consistency proofs. [^Hilbert1967p479]
+>   contentual assumptions that cannot be compensated for by consistency
+>   proofs. [^Hilbert1967p479]
 
 [^Hilbert1967p479]: @Hilbert_1967_The_foundations_of_mathematics\, p. 479.
     Discussion by [Michael J. O'Donnell](http://people.cs.uchicago.edu/~odonnell/OData/Courses/22C:096/Lecture_notes/Hilbert_program.html):
@@ -290,8 +300,13 @@ Hilbert:
     >   Oh well.
 
 [^Russell1912p91]: @Russell_1912_The_Problems_of_Philosophy\, p. 91--118.
-[^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.
-[^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
+
+
+### ZFC
+
+-   ZFC
+-   Wikipedia: ZFC actually does circumvent Russell's paradox by restricting the
+    comprehension axiom to already existing sets by the use of subset axioms.
 
 
 Intuitionism
@@ -327,7 +342,11 @@ Naturalism
 
 -   Realist?
 -   Maddy
+-   Wigner [^Wigner1960]
+-   Indispensability thesis
 -   See the outline on [Naturalism](naturalism.html).
+
+[^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
 
 
 My thoughts
@@ -455,77 +474,78 @@ Click to show links
 -   [Indispensability arguments in the philosophy of mathematics](http://plato.stanford.edu/entries/mathphil-indis/)
 -   [Intuitionism in the philosophy of mathematics](http://plato.stanford.edu/entries/intuitionism/)
 -   [Intuitionistic Logic, Development of](https://plato.stanford.edu/entries/intuitionistic-logic-development/)
--   [Intuitionistic Type Theory](https://plato.stanford.edu/entries/type-theory-intuitionistic/)
+-   [Intuitionistic type theory](https://plato.stanford.edu/entries/type-theory-intuitionistic/)
 -   [Kant's Philosophy of Mathematics](http://plato.stanford.edu/entries/kant-mathematics/)
 -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://plato.stanford.edu/entries/leibniz/)
 -   [Liar Paradox](https://plato.stanford.edu/entries/liar-paradox/)
 -   [Logicism and Neologicism](http://plato.stanford.edu/entries/logicism/)
 -   [Mathematics, Philosophy of](http://plato.stanford.edu/entries/philosophy-mathematics/)
--   [Model Theory](http://plato.stanford.edu/entries/model-theory/)
--   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
+-   [Model theory](http://plato.stanford.edu/entries/model-theory/)
+-   [Naturalism in the philosophy of mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
 -   [Negation](http://plato.stanford.edu/entries/negation/)
--   [Nominalism in Metaphysics](http://plato.stanford.edu/entries/nominalism-metaphysics/)
--   [Nominalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/nominalism-mathematics/)
--   [Non-Deductive Methods in Mathematics](http://plato.stanford.edu/entries/mathematics-nondeductive/)
+-   [Nominalism in metaphysics](http://plato.stanford.edu/entries/nominalism-metaphysics/)
+-   [Nominalism in the philosophy of mathematics](http://plato.stanford.edu/entries/nominalism-mathematics/)
+-   [Non-deductive methods in mathematics](http://plato.stanford.edu/entries/mathematics-nondeductive/)
 -   [Ockham, William of (1287-1347)](https://plato.stanford.edu/entries/ockham/)
 -   [Plato's *Parmenides*](https://plato.stanford.edu/entries/plato-parmenides/)
--   [Platonism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/platonism-mathematics/)
--   [Platonism in Metaphysics](http://plato.stanford.edu/entries/platonism/)
--   [Principia Mathematica](http://plato.stanford.edu/entries/principia-mathematica/)
--   [Proof Theory](http://plato.stanford.edu/entries/proof-theory-development/)
+-   [Platonism in the philosophy of mathematics](http://plato.stanford.edu/entries/platonism-mathematics/)
+-   [Platonism in metaphysics](http://plato.stanford.edu/entries/platonism/)
+-   [*Principia Mathematica* (1910)](http://plato.stanford.edu/entries/principia-mathematica/)
+-   [Proof theory](http://plato.stanford.edu/entries/proof-theory-development/)
 -   [Pythagoras (570-495 BCE)](https://plato.stanford.edu/entries/pythagoras/)
 -   [Pythagoreanism](https://plato.stanford.edu/entries/pythagoreanism/)
 -   [Quantifiers and quantification](https://plato.stanford.edu/entries/quantification/)
--   [Quine's New Foundations](https://plato.stanford.edu/entries/quine-nf/)
+-   [Quine's New Foundations (NF)](https://plato.stanford.edu/entries/quine-nf/)
 -   [Russell, Bertrand (1872-1970)](http://plato.stanford.edu/entries/russell/)
--   [Russell's Logical Atomism](http://plato.stanford.edu/entries/logical-atomism/)
+-   [Russell's logical atomism](http://plato.stanford.edu/entries/logical-atomism/)
 -   [Russell's Paradox](http://plato.stanford.edu/entries/russell-paradox/)
 -   [Self-reference](https://plato.stanford.edu/entries/self-reference/)
+-   [Set theory](https://plato.stanford.edu/entries/set-theory/)
 -   [Skolem's Paradox](https://plato.stanford.edu/entries/paradox-skolem/)
 -   [Tarski, Alfred (1901-1983)](http://plato.stanford.edu/entries/tarski/)
--   [Tarski's Truth Definitions](http://plato.stanford.edu/entries/tarski-truth/)
+-   [Tarski's truth definitions](http://plato.stanford.edu/entries/tarski-truth/)
 -   [Truth](http://plato.stanford.edu/entries/truth/)
--   [Truth, Axiomatic Theories of](http://plato.stanford.edu/entries/truth-axiomatic/)
--   [Truth, Coherence Theory of](http://plato.stanford.edu/entries/truth-coherence/)
--   [Truth, Correspondence Theory of](http://plato.stanford.edu/entries/truth-correspondence/)
--   [Truth, Deflationary Theory of](http://plato.stanford.edu/entries/truth-deflationary/)
+-   [Truth, Axiomatic theories of](http://plato.stanford.edu/entries/truth-axiomatic/)
+-   [Truth, Coherence theory of](http://plato.stanford.edu/entries/truth-coherence/)
+-   [Truth, Correspondence theory of](http://plato.stanford.edu/entries/truth-correspondence/)
+-   [Truth, Deflationary theory of](http://plato.stanford.edu/entries/truth-deflationary/)
 -   [Truth, Logical](http://plato.stanford.edu/entries/logical-truth/)
--   [Truth, Pluralist Theories of](http://plato.stanford.edu/entries/truth-pluralist/)
--   [Truth, Revision Theory of](http://plato.stanford.edu/entries/truth-revision/)
--   [Truth Values](http://plato.stanford.edu/entries/truth-values/)
--   [Type Theory](http://plato.stanford.edu/entries/type-theory/)
--   [Types and Tokens](http://plato.stanford.edu/entries/types-tokens/)
+-   [Truth, Pluralist theories of](http://plato.stanford.edu/entries/truth-pluralist/)
+-   [Truth, Revision theory of](http://plato.stanford.edu/entries/truth-revision/)
+-   [Truth values](http://plato.stanford.edu/entries/truth-values/)
+-   [Type theory](http://plato.stanford.edu/entries/type-theory/)
+-   [Types and tokens](http://plato.stanford.edu/entries/types-tokens/)
 -   [Whitehead, Alfred North (1861-1947)](http://plato.stanford.edu/entries/whitehead/)
--   [Wittgenstein's Philosophy of Mathematics](http://plato.stanford.edu/entries/wittgenstein-mathematics/)
+-   [Wittgenstein's philosophy of mathematics](http://plato.stanford.edu/entries/wittgenstein-mathematics/)
 
 ### IEP
 
--   [Analytic Philosophy](http://www.iep.utm.edu/analytic/)
--   [Applicability of Mathematics](http://www.iep.utm.edu/math-app/)
--   [Fictionalism in the Philosophy of Mathematics](http://www.iep.utm.edu/mathfict/)
+-   [Analytic philosophy](http://www.iep.utm.edu/analytic/)
+-   [Applicability of mathematics](http://www.iep.utm.edu/math-app/)
+-   [Fictionalism in the philosophy of mathematics](http://www.iep.utm.edu/mathfict/)
 -   [Frege, Gottlob (1848-1925)](http://www.iep.utm.edu/frege/)
--   [Game Theory](http://www.iep.utm.edu/game-th/)
--   [Indispensability Argument in the Philosophy of Mathematics](http://www.iep.utm.edu/indimath/)
+-   [Game theory](http://www.iep.utm.edu/game-th/)
+-   [Indispensability argument in the philosophy of mathematics](http://www.iep.utm.edu/indimath/)
 -   [Infinite](http://www.iep.utm.edu/infinite/)
--   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/)
--   [Mathematical Platonism](http://www.iep.utm.edu/mathplat/)
--   [Mathematical Structuralism](http://www.iep.utm.edu/m-struct/)
--   [Modal Metaphysics](http://www.iep.utm.edu/mod-meta/)
+-   [Lucas-Penrose argument about G&ouml;del's theorem](https://www.iep.utm.edu/lp-argue/)
+-   [Mathematical platonism](http://www.iep.utm.edu/mathplat/)
+-   [Mathematical structuralism](http://www.iep.utm.edu/m-struct/)
+-   [Modal metaphysics](http://www.iep.utm.edu/mod-meta/)
 -   [Models](http://www.iep.utm.edu/models/)
--   [Model-Theoretic Conceptions of Logical Consequence](http://www.iep.utm.edu/logcon-m/)
--   [Neo-Platonism](http://www.iep.utm.edu/neoplato/)
+-   [Model-theoretic conceptions of logical consequence](http://www.iep.utm.edu/logcon-m/)
+-   [Neo-platonism](http://www.iep.utm.edu/neoplato/)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](http://www.iep.utm.edu/plato/)
 -   [Platonism, mathematical](http://www.iep.utm.edu/mathplat/)
 -   [Platonism, middle](http://www.iep.utm.edu/midplato/)
 -   [Plato's Academy (387 BCE - 529 CE)](http://www.iep.utm.edu/academy/)
 -   [Poincar&eacute;, Jules Henri (1854-1912)](http://www.iep.utm.edu/poincare/)
--   [Poincar&eacute;'s Philosophy of Mathematics](http://www.iep.utm.edu/poi-math/)
--   [Process Philosophy](http://www.iep.utm.edu/processp/)
+-   [Poincar&eacute;'s philosophy of mathematics](http://www.iep.utm.edu/poi-math/)
+-   [Process philosophy](http://www.iep.utm.edu/processp/)
 -   [Pythagoras (570-495 BCE)](http://www.iep.utm.edu/pythagor/)
--   [Relational Models Theory](http://www.iep.utm.edu/r-models/)
+-   [Relational models theory](http://www.iep.utm.edu/r-models/)
 -   [Russell's Paradox](http://www.iep.utm.edu/par-russ/)
 -   [Universals](http://www.iep.utm.edu/universa/)
--   [Wittgenstein's Later Philosophy of Mathematics](http://www.iep.utm.edu/wittmath/)
+-   [Wittgenstein's later philosophy of mathematics](http://www.iep.utm.edu/wittmath/)
 
 ### Wikipedia
 
@@ -550,6 +570,7 @@ Click to show links
 -   [Frege, Gottlob (1848-1925)](http://en.wikipedia.org/wiki/Gottlob_Frege)
 -   [Galois, &Eacute;variste (1811-1832))](https://en.wikipedia.org/wiki/%C3%89variste_Galois)
 -   [Lie, Sophus (1842-1899)](https://en.wikipedia.org/wiki/Sophus_Lie)
+-   [Logicism](https://en.wikipedia.org/wiki/Logicism)
 -   [Gauss, Carl Friedrich (1777-1855)](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss)
 -   [Gentzen's consistency proof](http://en.wikipedia.org/wiki/Gentzen%27s_consistency_proof)
 -   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
@@ -610,7 +631,8 @@ Click to show links
 -   [When a white horse is not a horse](https://en.wikipedia.org/wiki/When_a_white_horse_is_not_a_horse)
 -   [Whitehead, Alfred North (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
 -   [Zeroth-order logic](https://en.wikipedia.org/wiki/Zeroth-order_logic)
--   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
+-   [Zermelo-Fraenkel set theory (ZFC)](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
+-   [ZFC, List of statements independent of](https://en.wikipedia.org/wiki/List_of_statements_independent_of_ZFC)
 
 ### Others
 
@@ -621,6 +643,7 @@ Click to show links
 -   [Baez, J.C. (2018). Nonstandard Integers as Complex Numbers.](https://johncarlosbaez.wordpress.com/2018/03/03/nonstandard-integers-as-complex-numbers/)
 -   [Baez, J.C. (2018). Insanely Long Proofs.](https://johncarlosbaez.wordpress.com/2012/10/19/insanely-long-proofs/)
 -   [Schwichtenberg, J. (XXXX). Classification of Simple Lie Groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/)
+-   [ZFC](https://ncatlab.org/nlab/show/ZFC) - nLab
 
 ### Videos
 
