@@ -58,7 +58,7 @@ Click to show the paltry outline of the history of science
 -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
 -   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
     -    logico-deductive method founded by Euclid's *Elements*
--   [Archimedes (c. 287 - c. 212) BCE](https://en.wikipedia.org/wiki/Archimedes)
+-   [Archimedes (c. 287-212 BCE)](https://en.wikipedia.org/wiki/Archimedes)
 -   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
     -   Estimated the circumference of the Earth to be 50 times the distance between Alexandria and Syene,
         which was pretty acurate as it is actually 47.9 times! [^Weinberg2015p76]
@@ -1071,7 +1071,7 @@ Click to show links
 -   [Analytic/synthetic distinction](https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction)
 -   [Ancient higher-learning institutions](https://en.wikipedia.org/wiki/Ancient_higher-learning_institutions)
 -   [A priori and a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
--   [Archimedes (c. 287 - c. 212) BCE](https://en.wikipedia.org/wiki/Archimedes)
+-   [Archimedes (c. 287-212 BCE)](https://en.wikipedia.org/wiki/Archimedes)
 -   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
 -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
