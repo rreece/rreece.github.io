@@ -26,7 +26,7 @@ Logic
     -   [Square of opposition](https://en.wikipedia.org/wiki/Square_of_opposition)
     -   *Modus ponens*, *modus tollens*, Affirming the consequent, Proof by contrapositive
 -   [Frege, Gottlob (1848-1925)](https://en.wikipedia.org/wiki/Gottlob_Frege)
--   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [Principia Mathematica](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
+-   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
     -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
     -   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
     -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
@@ -39,7 +39,6 @@ Logic
     -   extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
 -   Gillian Russell [^Russell2015]
 -   TODO: basic examples in propositional logic
-
 
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
 
@@ -260,7 +259,10 @@ Logicism
 -   Bertrand Russell (1872-1970)
 -   Whitehead
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
+-   Antirealist?, relationship with positivism?
+-   Russsell expresses support for the platonic "universals" [^Russell1912p91]
 
+[^Russell1912p91]: @Russell_1912_The_Problems_of_Philosophy\, p. 91--118.
 [^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.
 
 
@@ -269,8 +271,7 @@ Logicism
 -   *Principia Mathematica* (1910)
 -   Russell, Whitehead
 -   Russell's Paradox
--   Antirealist, Positivism
--   Russsell expresses support for the platonic "universals" [^Russell1912p91]
+-   "Failure of PM"
 
 Hilbert:
 
@@ -298,8 +299,6 @@ Hilbert:
     >   furthermore that there is not even a proof that they are consistent with basic
     >   numerical equations. Of course, Hilbert's proposed system never gets its consistency proof either. 
     >   Oh well.
-
-[^Russell1912p91]: @Russell_1912_The_Problems_of_Philosophy\, p. 91--118.
 
 
 ### ZFC

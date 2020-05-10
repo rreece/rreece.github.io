@@ -402,13 +402,13 @@ Sextus Empiricus:
 
 Hume:
 
->   Locke divides all arguments into demonstrative and probable. On this view,
->   we must say that it is only probable that all men must die or that the sun
->   will rise tomorrow, because neither of these can be demonstrated. But to
->   conform our language more to common use, we ought to divide arguments into
->   demonstrations, proofs, and probabilities---by 'proofs' meaning
->   arguments from experience that leave no room for doubt or
->   opposition. [^Hume2007p56]
+>   Locke divides all arguments into demonstrative and probable.
+>   In this view, we must say, that it is only probable that all men must die,
+>   or that the sun will rise tomorrow.
+>   But to conform our language more to common use,
+>   we ought to divide arguments into demonstrations, proofs,
+>   and probabilities---by 'proofs' meaning arguments from experience that
+>   leave no room for doubt or opposition. [^Hume2007p56]
 
 -   Hume and the problem of induction [^Hume2007pXX]
     -   Uniformity of nature
