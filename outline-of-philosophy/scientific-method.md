@@ -779,7 +779,7 @@ Scientific knowledge and realism
 -   Systematic uncertainties.  Failed justification.
     -   TODO: discussion by me
 
-![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g)).](img/knowledge.png){#fig:knowledge-jtb-g}
+![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g), 2014).](img/knowledge.png){#fig:knowledge-jtb-g}
 
 TODO sort out:
 
