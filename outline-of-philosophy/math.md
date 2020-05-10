@@ -85,7 +85,7 @@ Analysis
 
 ![Leibniz's notation of integration (*summa*) and differentiation (*differentia*)
     summarized in the margin of his notes in 1675
-    (photo by [S. Wolfram](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
+    (photo by [S. Wolfram](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/) (2013)
      of notes in the Leibniz-Archiv in Hanover, Germany).
     ](img/leibniz-1675-summa-and-diff.jpg){#fig:leibniz-1675-summa-and-diff}
 
