@@ -408,7 +408,7 @@ Hume:
 >   or that the sun will rise tomorrow.
 >   But to conform our language more to common use,
 >   we ought to divide arguments into demonstrations, proofs,
->   and probabilities---by 'proofs' meaning arguments from experience that
+>   and probabilities---by proofs meaning such arguments from experience as
 >   leave no room for doubt or opposition. [^Hume2007p56]
 
 -   Hume and the problem of induction [^Hume2007pXX]
