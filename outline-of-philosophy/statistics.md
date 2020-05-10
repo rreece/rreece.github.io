@@ -388,45 +388,73 @@ TODO:
 Statistical hypothesis testing
 --------------------------------------------------------------------------------
 
--   Null hypothesis significance testing (NHST)
-    -   goodness of fit
-    -   Fisher:
+### Null hypothesis significance testing (NHST)
+
+-   goodness of fit
+-   Fisher
+
+Fisher:
 
 >   [T]he null hypothesis is never proved or established,
 >   but is possibly disproved, in the course of experimentation. [^Fisher1935p16]
 
--   Neyman-Pearson theory
-    -   probes an alternative hypothesis [^Goodman1999p998]
-    -   Type-1 and type-2 errors
-    -   Power and confidence
-    -   Neyman-Pearson lemma [^Neyman1933]
-    -   Neyman construction
--   $p$-values and significance [^Cowan2012]
-    -   Coverage
-    -   Fisherian vs Neyman-Pearson $p$-values
-    -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
--   Student's $t$-test
-    -   ANOVA
--   Asymptotics
-    -   Wilks [^Wilks1938]
-    -   Pearson $\chi^2$-test
-    -   Wald [^Wald1943]
-    -   Cowan _et al_.[^Cowan2011]
--   Frequentist vs bayesian decision theory [^Murphy2012p197]
--   Examples:
-    -   Difference of two means: $t$-test
-    -   A/B-testing
-    -   New physics
+[^Fisher1935p16]: @Fisher_1935_The_Design_of_Experiments\, p. 16.
 
-[^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
+
+### Neyman-Pearson theory
+
+-   probes an alternative hypothesis [^Goodman1999p998]
+-   Type-1 and type-2 errors
+-   Power and confidence
+-   Neyman-Pearson lemma [^Neyman1933]
+-   Neyman construction
+
+![TODO: ROC explainer. ([Wikimedia](https://commons.wikimedia.org/wiki/File:ROC_curves.svg), 2015).](img/ROC-explainer.png){#fig:ROC-explainer}
+
+[^Goodman1999p998]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 998.
+[^Neyman1933]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
+
+
+### $p$-values and significance
+
+-   $p$-values and significance [^Cowan2012]
+-   Coverage
+-   Fisherian vs Neyman-Pearson $p$-values
+-   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
+
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
 [^Feldman1998]: @Feldman_1998_A_unified_approach_to_the_classical_statistical\.
-[^Fisher1935p16]: @Fisher_1935_The_Design_of_Experiments\, p. 16.
-[^Goodman1999p998]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 998.
-[^Murphy2012p197]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 197.
-[^Neyman1933]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
+
+
+### Student's $t$-test
+
+-   ANOVA
+
+
+### Asymptotics
+
+-   Wilks [^Wilks1938]
+-   Pearson $\chi^2$-test
+-   Wald [^Wald1943]
+-   Cowan _et al_.[^Cowan2011]
+
+[^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 [^Wald1943]: @Wald_1943_Tests_of_statistical_hypotheses_concerning_several\.
 [^Wilks1938]: @Wilks_1938_The_large_sample_distribution_of_the_likelihood\.
+
+
+### Frequentist vs bayesian decision theory
+
+-   Frequentist vs bayesian decision theory [^Murphy2012p197]
+
+[^Murphy2012p197]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 197.
+
+
+### Examples
+
+-   Difference of two means: $t$-test
+-   A/B-testing
+-   New physics
 
 
 Systematic uncertainties
