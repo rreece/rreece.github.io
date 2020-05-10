@@ -261,6 +261,8 @@ Rationalism vs empiricism
 -   Skepticism
 -   *a priori* vs *a posteriori*
 -   Lead to the Age of Enlightenment
+    -   Kant: "Answering the question: What is Enlightenment?"
+        -   *Sapere aude* ("Dare to be wise")
 -   Development of calculus
 
 
@@ -293,8 +295,6 @@ Rationalism vs empiricism
 -   Isaac Newton (1642-1727)
     -   *The Principia* (1687) [^Newton2016]
 -   Immanuel Kant (1724-1804)
-    -   "Answering the question: What is Enlightenment?"
-        -   *Sapere aude* ("Dare to be wise")
     -   *Critique of Pure Reason* (1781) [^Kant1996]
     -   *Metaphysical Foundations of Natural Science* (1786)
     -   *Critique of Judgment* (1790)
