@@ -65,6 +65,7 @@ LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning
 LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436-44.
 Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep learning. https://arxiv.org/abs/1805.10451
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
+MacKay, D.J.C. (2003). *Information Theory, Inference and Learning Algorithms*. Cambridge University Press.
 Mayo, D.G. (1981). In defense of the Neyman-Pearson theory of confidence intervals. *Philosophy of Science*, 48(2), 269--280.
 Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*. Chicago University Press.
 Mayo, D.G. & Spanos, A. (2011). Error statistics. In *Philosophy of Statistics* (pp. 153--198). North-Holland.
@@ -85,6 +86,7 @@ Reichenbach, H. (1940). On the justification of induction. *The Journal of Philo
 Reid, C. (1998). *Neyman*. Springer-Verlag.
 Rice, J.A. (2007). *Mathematical Statistics and Data Analysis* (3rd ed.). Thomson.
 Royall, R. (1997). *Statistical Evidence: A likelihood paradigm*. CRC Press.
+Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533--536.
 Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.
 Salmon, W.C. (1966). *The Foundations of Scientific Inference*. University of Pittsburgh Press.
 Salmon, W. C. (1967). Carnap's inductive logic. *The Journal of Philosophy*, 64, 725--739.

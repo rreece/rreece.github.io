@@ -651,15 +651,17 @@ Mayo:
 -   supervised and unsupervised learning
     -   classification = supervised; clustering = unsupervised
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
+-   *Information Theory Inference and Learning* [^MacKay2003]
 -   VC-dimension [^Vapnik1994]
 
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
+[^MacKay2003]: @MacKay_2003_Information_Theory_Inference_and_Learning\.
 [^Vapnik1994]: @Vapnik_1994_Measuring_the_VC_dimension_of_a_learning_machine\.
 
 
 #### Deep learning
 
--   backpropigation
+-   backpropigation [^Rumelhart1986]
 -   "Review: Deep learning" [^LeCun2015]
 -   Lower to higher level representations [^Bengio2009]
 -   *Deep Learning* [^Goodfellow2016]
@@ -679,6 +681,7 @@ Mayo:
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
 [^LeCun2015]: @LeCun_2015_Deep_learning\.
 [^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
+[^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
 

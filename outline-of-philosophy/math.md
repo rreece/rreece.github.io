@@ -245,8 +245,11 @@ Bayes:
 -   Antirealist, Positivism
 -   Frege, Russell, Whitehead
 -   Russsell expresses support for the platonic "universals" [^Russell1912p91]
+-   *Principia Mathematica* (1910)
 -   Wigner [^Wigner1960]
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
+-   ZFC
+-   Wikipedia: ZFC actually does circumvent Russell's paradox by restricting the comprehension axiom to already existing sets by the use of subset axioms.
 
 Hilbert:
 
