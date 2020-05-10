@@ -287,6 +287,7 @@ Hilbert:
 -   Antirealist
 -   Kronecker's finitism was a forerunner of intuitionism in foundations of mathematics.
 -   L.E.J. Brouwer (1881-1966)
+-   Constructive mathematics
 
 Hilbert: 
 
@@ -309,6 +310,7 @@ Hilbert:
 ### Naturalism
 
 -   Realist?
+-   Maddy
 -   See the outline on [Naturalism](naturalism.html).
 
 
