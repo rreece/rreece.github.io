@@ -269,7 +269,6 @@ Weinberg:
 -   Francis Bacon (1561-1626)
 -   Galileo Galilei (1564-1642)
 -   Thomas Hobbes (1588-1679)
--   Robert Boyle (1627-1691)
 
 
 #### Rationalists
@@ -281,6 +280,7 @@ Weinberg:
 
 #### British empiricists
 
+-   Robert Boyle (1627-1691)
 -   John Locke (1632-1704)
 -   George Berkeley (1685-1753)
 -   David Hume (1711-1776)
