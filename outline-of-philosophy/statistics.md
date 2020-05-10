@@ -671,7 +671,7 @@ Machine learning
 
 ### Deep learning
 
--   backpropigation [^Rumelhart1986]
+-   backpropagation [^Rumelhart1986]
 -   "Review: Deep learning" [^LeCun2015]
 -   Lower to higher level representations [^Bengio2009]
 -   *Deep Learning* [^Goodfellow2016]
@@ -700,7 +700,7 @@ Machine learning
 Computer Vision (CV)
 
 -   Fukushima: neocognitron
--   LeCun: OCR with backpropigation [^LeCun1989]
+-   LeCun: OCR with backpropagation [^LeCun1989]
 -   LeCun: LeNet-5 [^LeCun1998]
 -   Ciresan: MCDNN
 -   Krizhevsky, Sutskever, and Hinton: AlexNet [^Krizhevsky2012]
