@@ -651,7 +651,7 @@ Mayo:
 -   supervised and unsupervised learning
     -   classification = supervised; clustering = unsupervised
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
--   *Information Theory Inference and Learning* [^MacKay2003]
+-   *Information Theory, Inference, and Learning* [^MacKay2003]
 -   VC-dimension [^Vapnik1994]
 
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
