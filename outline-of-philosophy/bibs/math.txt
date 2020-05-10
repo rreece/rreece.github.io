@@ -3,6 +3,7 @@ Baez, J.C. (2016). Struggles with the continuum. https://arxiv.org/abs/1609.0142
 Bayes, T. (1736). *An Introduction to the Doctrine of Fluxions, and a Defence of the Mathematicians Against the Objections of the Author of The Analyst*. London. [(published anonymously)]
 Bueno, O. (2013). Nominalism in the philosophy of mathematics. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/nominalism-mathematics/
 Field, H. (1980). *Science Without Numbers*. Princeton University Press.
+Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G&ouml;del*. W.W. Norton & Co.
 Hilbert, D. (1967). The foundations of mathematics. In J. van Heijenoort (Ed.), *From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1879-1931* (pp. 464--479). Harvard University Press. [From a lecture given by Hilbert in 1927.]
 Reid, C. (1996). *Hilbert*. Copernicus.
 Russell, G. (2015). The justification of the basic laws of logic. *Journal of Philosophical Logic*, 44(6), 793--803.

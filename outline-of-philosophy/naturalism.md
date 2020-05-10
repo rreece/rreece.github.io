@@ -181,12 +181,12 @@ Unity of philosophy and science
 -   Philosophy is the nursury of budding programs that become specialized sciences.
 -   TODO: find more refs.
 
-As Descartes wrote in 1644,
+Descartes (often seen as anti-naturalist, explain, but he) wrote in 1644,
 
->   [A]ll Philosophy is like a tree, of which Metaphysics is the root,
->   Physics the trunk, and all the other sciences are the branches that
->   grow out of this trunk, which are reduced to three principal, namely,
->   Medicine, Mechanics and Ethics. [^Descartes1644pX]
+>   Philosophy as a whole is like a tree; of which the roots are Metaphysics,
+>   the trunk is Physics, and the branches emerging from this trunk are all
+>   the other branches of knowledge. These branches can be reduced to three
+>   principal ones, namely, Medicine, Mechanics, and Ethics. [^Descartes1644pxxiv]
 
 -   In the boat with Neurath.
 
@@ -203,7 +203,7 @@ Sellars:
 >   way around with respect to the subject-matters of all the special
 >   disciplines. [^SellarsTODO]
 
-[^Descartes1644pX]: TODO.
+[^Descartes1644pxxiv]: @Descartes_1982_Principles_of_Philosophy\, p. xxiv.
 [^SellarsTODO]: TODO.
 
 

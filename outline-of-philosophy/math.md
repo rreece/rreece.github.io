@@ -123,6 +123,8 @@ Model theory
 
 G&ouml;del, Kurt (1906-1978)
 
+Goldstein [^Goldstein2005]
+
 From Wikipedia:
 
 G&ouml;del showed for that any formal system *S* powerful enough to represent arithmetic,
@@ -147,6 +149,8 @@ More:
 -   Discuss how incompleteness is overblown in overly epistemically defeatist ways.
 -   Seely, R.A. [G&ouml;del on the net.](http://www.math.mcgill.ca/rags/JAC/124/godel.html)
 -   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/) - IEP
+
+[^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
 
 
 Unification programs
