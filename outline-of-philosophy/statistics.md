@@ -86,9 +86,9 @@ $$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{
 
 ### Uncertainty
 
+-   Propagation of error
 -   Quantiles
--   Practice of standard error
--   Uncertainty quantification
+-   Practice of standard error for uncertainty quantification.
 
 
 ### Bayes' theorem
