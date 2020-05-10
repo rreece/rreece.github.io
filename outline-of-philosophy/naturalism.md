@@ -212,6 +212,8 @@ Sellars:
 
 Metaphysical naturalism.
 
+-   Locke on the rejection of innate ideas.
+
 TODO: While promoting the careful gathering of empirical information,
 naturalism is not against (largely non-empirical) rational pursuits like mathematics.
 Indeed some naturalist may even see logic and mathematics as scientific pursuits
@@ -647,6 +649,7 @@ Click to show links
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
 -   [Quine, W.V. (1908-2000)](http://plato.stanford.edu/entries/quine/)
+-   [Rationalism vs. empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/)
 -   [Unity of Science](http://plato.stanford.edu/entries/scientific-unity/)
 

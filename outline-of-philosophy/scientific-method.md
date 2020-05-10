@@ -399,6 +399,16 @@ Sextus Empiricus:
 >   while if they are to review all, they will be toiling at the impossible, 
 >   since the particulars are infinite and indefinite. [^SextusEmpiricus]
 
+Hume:
+
+>   Locke divides all arguments into demonstrative and probable. On this view,
+>   we must say that it is only probable that all men must die or that the sun
+>   will rise tomorrow, because neither of these can be demonstrated. But to
+>   conform our language more to common use, we ought to divide arguments into
+>   demonstrations, proofs, and probabilities---by 'proofs' meaning
+>   arguments from experience that leave no room for doubt or
+>   opposition. [^Hume1902p46]
+
 -   Hume and the problem of induction [^Hume2007pX]
     -   Uniformity of nature
     -   Humeanism
@@ -406,10 +416,13 @@ Sextus Empiricus:
 -   Russell's inductive turkey
     -   TODO: find Russell ref
     -   Note discussion by French
+-   Ayer
 
+[^Hume1902p46]: First footnote in the essay "On Probability" in @Hume_1902_Enquiries_Concerning_the_Human_Understanding\, p. 46, 
 [^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. X.
 [^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
+
 
 #### Inductive logic
 
@@ -955,6 +968,7 @@ Click to show links
 -   [Analytic/synthetic distinction](https://plato.stanford.edu/entries/analytic-synthetic/)
 -   [Ancient atomism](https://plato.stanford.edu/entries/atomism-ancient/)
 -   [Aristotle's metaphysics](http://plato.stanford.edu/entries/aristotle-metaphysics/)
+-   [Ayer, Alfred Jules (1910-1989)](https://plato.stanford.edu/entries/ayer/)
 -   [Bacon, Francis (1561-1626)](http://plato.stanford.edu/entries/francis-bacon/)
 -   [Bayesian epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
 -   [Berkeley, George (1685-1753)](http://plato.stanford.edu/entries/berkeley/)
@@ -999,7 +1013,7 @@ Click to show links
 -   [Principle of sufficient reason](http://plato.stanford.edu/entries/sufficient-reason/)
 -   [Pythagoras (570-495 BCE)](https://plato.stanford.edu/entries/pythagoras/)
 -   [Pythagoreanism](https://plato.stanford.edu/entries/pythagoreanism/)
--   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
+-   [Rationalism vs. empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Reproducibility of scientific results](https://plato.stanford.edu/entries/scientific-reproducibility/)
 -   [Science and pseudo-science](http://plato.stanford.edu/entries/pseudo-science/)
 -   [Scientific explanation](http://plato.stanford.edu/entries/scientific-explanation/)
