@@ -204,7 +204,7 @@ Weinberg:
 ### Biological evolution
 
 -   [Democritus on the historical development of human communities](https://plato.stanford.edu/entries/democritus/)
--   Hume on humans being animals [^Hume2007]
+-   Hume on humans being animals [^Hume2007pX]
 -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
 -   [Mendel, Gregor (1822-1884)](https://en.wikipedia.org/wiki/Gregor_Mendel)
 -   [Wallace, Alfred Russel (1823-1913)](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace)
@@ -212,7 +212,7 @@ Weinberg:
 
 ![The great tree of life. Larger version: [here](img/great-tree-of-life-large.png). Source:[here](https://visual.ly/community/infographic/science/great-tree-life).](img/great-tree-of-life.png){#fig:great-tree-of-life}
 
-[^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
+[^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
 
 
 ### Modern physics
@@ -410,7 +410,7 @@ Hume:
 >   arguments from experience that leave no room for doubt or
 >   opposition. [^Hume1902p46]
 
--   Hume and the problem of induction [^Hume2007pX]
+-   Hume and the problem of induction [^Hume2007pXX]
     -   Uniformity of nature
     -   Humeanism
     -   Weintraub [^Weintraub1995]
@@ -419,8 +419,8 @@ Hume:
     -   Note discussion by French
 -   Ayer
 
-[^Hume1902p46]: First footnote in the essay "On Probability" in @Hume_1902_Enquiries_Concerning_the_Human_Understanding\, p. 46, 
-[^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. X.
+[^Hume2007p56]: First footnote in the essay "On Probability" in @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 56.
+[^Hume2007pXX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
 [^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 

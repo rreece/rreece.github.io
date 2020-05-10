@@ -191,12 +191,14 @@ Platonism
 ### Pythagoreanism
 
 -   Radical realism
+-   Monism: everything is math.
 
 
 ### Plato
 
 -   Realist
 -   Theory of the forms
+-   Dualism: the world and forms?
 -   The Academy (387 BCE - 529 CE): "Let no one ignorant of geometry enter"
 -   Mathematics is descriptive of a real but trans-empirical realm.
 -   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
@@ -206,6 +208,7 @@ Platonism
 
 -   Neopythagoreanism: Tegmark. (2008). "The mathmatical universe". [^Tegmark2008]
     -   Mathematical Universe Hypothesis (MUH)
+-   Seth Lloyd - the universe is a computer - pythagorean?
 -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
 
 ![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)

@@ -17,9 +17,10 @@ French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
 Frigg, R. & Nguyen, J. (2017). Models and representation. In *Springer Handbook of Model-Based Science* (pp. 49--102). Springer.
 Frigg, R. & Hartmann, S. (2020). Models in science *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/models-science/
 Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135--175.
-Hume, D. (1902). *Enquiries Concerning the Human Understanding and Concerning the Principles of Morals*. Oxford: Clarendon Press. [(Originally published in 1777)]
+#Hume, D. (1902). *Enquiries Concerning the Human Understanding and Concerning the Principles of Morals*. Oxford: Clarendon Press. [(Originally published in 1777)]
 #Hume, D. (1983). *An Enquiry Concerning the Principles of Morals*. Hackett Classics. [(Originally published in 1751)]
-Hume, D. (2007). *An Enquiry Concerning Human Understanding* (Peter Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
+#Hume, D. (1993). *An Enquiry Concerning Human Understanding* (E. Steinberg, Ed.). Hackett. [(Originally published in 1748)]
+Hume, D. (2007). *An Enquiry Concerning Human Understanding* (P. Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
 Juhl, C. & Loomis, E. (2009). *Analyticity*. Routledge.
 Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1781)]
 McComas, W.F. (1996). Ten myths of science: Reexamining what we think we know about the nature of science. *School Science and Mathematics*, 96(1), 10--16.
