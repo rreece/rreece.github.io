@@ -320,13 +320,6 @@ and constraining real structures in nature.
 -   Auguste Comte
 -   Comte and Mill
 -   Ernst Mach
--   Gottlob Frege, Bertrand Russell, Afred North Whitehead, George
-    Edward Moore. *Principia Mathematica*.
--   Wittgenstein, *Tractatus Logico-Philosophicus*. [^Wittgenstein1921]
-    -   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
-    -   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
-    -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
--   quietism
 
 Comte on the unknowability of the composition of stars:
 
@@ -342,28 +335,19 @@ Comte on the unknowability of the composition of stars:
 
 (He was wrong!)
 
-Russell:
-
->   Modern analytical empiricism [...] differs from that of Locke, Berkeley, and Hume 
->   by its incorporation of mathematics and its development of a powerful logical 
->   technique. It is thus able, in regard to certain problems, to achieve definite 
->   answers, which have the quality of science rather than of philosophy. It has 
->   the advantage, in comparison with the philosophies of the system-builders, of 
->   being able to tackle its problems one at a time, instead of having to invent
->   at one stroke a block theory of the whole universe. Its methods, in this respect, 
->   resemble those of science. [^Russell1945p834]
-
-See also:
-
--   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism) - scientific realism vs antirealism
--   [positivists.org/blog/movements](http://positivists.org/blog/movements)
-
-Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
+-   Gottlob Frege
+-   Bertrand Russell & Afred North Whitehead
+-   *Principia Mathematica* (1910)
+-   George Edward Moore
+-   Wittgenstein, *Tractatus Logico-Philosophicus*. [^Wittgenstein1921]
+    -   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
+    -   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
+    -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
+    -   quietism
 
 [^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
     Translation of passage taken from:           
     <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
-[^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 [^Wittgenstein1921]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
 
 
@@ -371,7 +355,8 @@ Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/
 
 -   Vienna circle [^Murzi2004]
     -   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Otto Neurath, and others.
--   A.J. Ayer [^Ayer1936]
+-   A.J. Ayer (1910-1989)
+    -   *Language, Truth, and Logic* (1936) [^Ayer1936]
 -   Schlipp [^Schlipp1963]
 -   von Neuman, Hilbert
 
@@ -398,6 +383,24 @@ TODO: Note any differences between:
 
 #### Later positivism
 
+Russell:
+
+>   Modern analytical empiricism [...] differs from that of Locke, Berkeley, and Hume 
+>   by its incorporation of mathematics and its development of a powerful logical 
+>   technique. It is thus able, in regard to certain problems, to achieve definite 
+>   answers, which have the quality of science rather than of philosophy. It has 
+>   the advantage, in comparison with the philosophies of the system-builders, of 
+>   being able to tackle its problems one at a time, instead of having to invent
+>   at one stroke a block theory of the whole universe. Its methods, in this respect, 
+>   resemble those of science. [^Russell1945p834]
+
+See also:
+
+-   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism) - scientific realism vs antirealism
+-   [positivists.org/blog/movements](http://positivists.org/blog/movements)
+
+Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
+
 -   Carnap and Reichenbach move to the US
 -   Positivism affects the structure of education and law
 -   Connection to the projects of Dewey and pragmatism
@@ -420,6 +423,7 @@ Some Carnap works:
 [^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 [^Ladyman2007pX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO.
+[^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 
 
 ### Postpositivism
