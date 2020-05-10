@@ -70,7 +70,7 @@ Stealing from encyclopedia.com:
 Realism and antirealism
 --------------------------------------------------------------------------------
 
-![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120)).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
+![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
 
 -   Naive realism.  Why would I doubt the world I see is real?
 -   Many philosophers in that Early Modern Period had threads of Idealism (wikipedia: reality itself is incorporeal or experiential at its core). *e.g.* George Berkeley, Kant, Friedrich Hegel, Immanuel Kant (1724-1804)
@@ -553,7 +553,7 @@ but does not justify metaphysical claims about reality.
 -   van Fraassen and Bueno
 -   Unlike positivism/instrumentalism, theories should be taken literally.
 
-![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories)).](img/true-vs-literal-theories.png){#fig:true-vs-literal-theories}
+![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories), 2015).](img/true-vs-literal-theories.png){#fig:true-vs-literal-theories}
 
 -   Healey criticizes van Fraassen's CE [^Healey2007p114]
 -   Hennig:

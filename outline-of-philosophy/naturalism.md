@@ -307,8 +307,8 @@ Leibniz:
 >   to take their pencils in their hands, and say to each other:
 >   *Calculemus*---Let us calculate.[^Leibniz-De-Arte-Combinatoria]
 
-![The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013)
-    [Wikimedia Commons](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png).](img/the-scientific-universe.png){#fig:the-scientific-universe}
+![The scale of the universe mapped to the branches of science and the hierarchy of science.
+    (CC BY-SA 3.0 [Wikimedia](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png), 2013).](img/the-scientific-universe.png){#fig:the-scientific-universe}
 
 Also compare with the model of levels in @Oppenheim_1958_Unity_of_science_as_a_working_hypothesis.
 
@@ -321,7 +321,7 @@ Also compare with the model of levels in @Oppenheim_1958_Unity_of_science_as_a_w
 Alex Rosenberg is a mad dog against emergence. Video:
 [Alex Rosenberg interviewed for *Why Are We Here?*](https://www.whyarewehere.tv/people/alex-rosenberg/)
 
-![Reductionism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism)).](img/reductionism.png){#fig:reductionism}
+![Reductionism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism), 2014).](img/reductionism.png){#fig:reductionism}
 
 -   Reductive and non-reductive physicalism
     -   Morris [^Morris2019]
@@ -375,7 +375,7 @@ Rejection of the supernatural
     -   Not an a priori assumption but an empirical conclusion
     -   Dennett: Naturalism is a method of explaining a magic trick without appealing to magic.
 
-![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism)).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
+![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism), 2015).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
 
 -   The Lewis-Anscombe debate
     -   [The Lewis-Anscombe debate](http://thecslewis-studygroup.org/the-c-s-lewis-study-group/lewis-genre/theology/miracles-2/the-lewisanscombe-debate/)
