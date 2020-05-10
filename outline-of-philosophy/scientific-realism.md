@@ -663,7 +663,7 @@ Questions:
     similarly, naturalism is empiricism re-branded.
 
 
-### My defense of realism
+My defense of realism
 --------------------------------------------------------------------------------
 
 <div class="clickmore"><a id="link:my_defense_of_realism1" class="closed" onclick="toggle_more('my_defense_of_realism1')">
