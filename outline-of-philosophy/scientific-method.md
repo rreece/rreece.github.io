@@ -35,6 +35,7 @@ Click to show the paltry outline of the history of science
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
 -   [Thales of Miletus (c. 624/623-548/545 BCE)](https://en.wikipedia.org/wiki/Thales_of_Miletus)
     -   "first philosopher"
+    -   predicted a solar eclipse in 585 BCE
 -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
     -   radical mathematical realist
 -   [Herodotus (c. 484-425 BCE)](https://en.wikipedia.org/wiki/Herodotus) - "Father of history" 
