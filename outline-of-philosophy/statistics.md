@@ -6,17 +6,16 @@ Statistics are *way* important in addressing the problem of induction.
 <!-- PAGETOC -->
 
 
-Issues and positions
+Problem of induction
 --------------------------------------------------------------------------------
-
-### Problem of induction
 
 See the [Outline of the scientific method](scientific-method.html#induction)
 
 
-### Probability and its related concepts
+Probability and its related concepts
+--------------------------------------------------------------------------------
 
-#### Probability
+### Probability
 
 Probability is of epistemic interest, being in some sense
 a measure of inductive confidence.
@@ -27,7 +26,7 @@ a measure of inductive confidence.
 [^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
 
 
-#### Expectation and variance
+### Expectation and variance
 
 Expectation:
 
@@ -85,14 +84,14 @@ The covariance of two random vectors is given by
 $$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\top}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\top} \label{eq:covariance_matrix_vectors} $$
 
 
-#### Uncertainty
+### Uncertainty
 
 -   Quantiles
 -   Practice of standard error
 -   Uncertainty quantification
 
 
-#### Bayes' theorem
+### Bayes' theorem
 
 -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   Bayes' theorem
@@ -103,7 +102,7 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 -   Example of conditioning with medical diagnostics
 
 
-#### Likelihood and frequentist vs bayesian probability
+### Likelihood and frequentist vs bayesian probability
 
 -   frequentist vs bayesian probability
 -   Weisberg: ["Two Schools"](https://jonathanweisberg.org/vip/two-schools.html) [^Weisberg2019ch15]  
@@ -136,9 +135,10 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 [^Weisberg2019ch15]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, ch. 15\.
 
 
-### Foundations of statistics
+Foundations of statistics
+--------------------------------------------------------------------------------
 
-#### Early investigators
+### Early investigators
 
 -   [Graunt, John (1620-1674)](https://en.wikipedia.org/wiki/John_Graunt)
 -   [Bernoulli, Jacob (1655-1705)](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
@@ -166,7 +166,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 [^Venn1888]: @Venn_1888_The_Logic_of_Chance\.
 
 
-#### Foundations of modern statistics
+### Foundations of modern statistics
 
 -   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
     -   Formulated modern statistics in "Illustrations of the Logic of Science",
@@ -195,7 +195,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 [^Salsburg2001]: @Salsburg_2001_The_Lady_Tasting_Tea\.
 
 
-#### Pedagogy
+### Pedagogy
 
 -   Kendall [^Stuart2010]
 -   James [^James2006]
@@ -212,16 +212,17 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 [^Weisberg2019]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\.
 
 
-### Statistical models
+Statistical models
+--------------------------------------------------------------------------------
 
-#### Parametric models
+### Parametric models
 
 -   Data: $x_i$
 -   Parameters: $\theta_j$
 -   Model: $f(\vec{x} ; \vec{\theta})$
 
 
-#### Canonical distributions
+### Canonical distributions
 
 -   Bernoulli distribution
 -   Binomial distribution
@@ -246,7 +247,7 @@ of the distribution.
 [^Leemis2008]: @Leemis_2008_Univariate_distribution_relationships\.
 
 
-#### Mixture models
+### Mixture models
 
 -   Gaussian mixture models (GMM)
 -   Marked poisson
@@ -256,9 +257,10 @@ of the distribution.
 [^Cranmer2012]: @Cranmer_2012_HistFactory_A_tool_for_creating_statistical\.
 
 
-### Point estimation and confidence intervals
+Point estimation and confidence intervals
+--------------------------------------------------------------------------------
 
-#### Inverse problems
+### Inverse problems
 
 -   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
 -   estimators
@@ -266,7 +268,7 @@ of the distribution.
 -   Accuracy vs precision [^Cowan1998pX]
 
 
-#### Bias and variance
+### Bias and variance
 
 The bias of an estimator, $\hat\theta$, is defined as
 
@@ -312,7 +314,7 @@ TODO:
 [^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\, p. X. 
 
 
-#### Maximum likelihood estimation
+### Maximum likelihood estimation
 
 A maximum likelihood estimator (MLE) was first used by Fisher [^Aldrich1997]
 
@@ -347,7 +349,7 @@ TODO:
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 
 
-#### Variance of MLEs
+### Variance of MLEs
 
 -   Taylor expansion of a likelihood near its maximum
 -   Analytic variance of gaussian likelihoods: $\chi^2$
@@ -369,7 +371,7 @@ TODO:
 [^Rice2007p300]: @Rice_2007_Mathematical_Statistics_and_Data_Analysis\, p. 300--2.
 
 
-#### Bayesian credibility intervals
+### Bayesian credibility intervals
 
 -   defined, MAP
 -   prior sensitivity
@@ -383,7 +385,8 @@ TODO:
     -   Some HEP fit
 
 
-### Statistical hypothesis testing
+Statistical hypothesis testing
+--------------------------------------------------------------------------------
 
 -   Null hypothesis significance testing (NHST)
     -   goodness of fit
@@ -426,7 +429,8 @@ TODO:
 [^Wilks1938]: @Wilks_1938_The_large_sample_distribution_of_the_likelihood\.
 
 
-### Systematic uncertainties
+Systematic uncertainties
+--------------------------------------------------------------------------------
 
 -   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekka Sinervo (PhyStat2003) [^Sinervo2013]
 -   Not to be confused with type-1 and type-2 errors in Neyman-Pearson theory
@@ -438,7 +442,7 @@ TODO:
 [^Sinervo2013]: @Sinervo_2003_Definition_and_treatment_of_systematic\.
 
 
-#### Examples of poor estimates of systematic uncertanties
+### Examples of poor estimates of systematic uncertanties
 
 -   CDF $Wjj$ bump
     -   Phys.Rev.Lett.106:171801 (2011) / [arxiv:1104.0699](https://arxiv.org/abs/1104.0699)
@@ -450,7 +454,8 @@ TODO:
 -   Faster-than-light neutrinos.
 
 
-### Exploratory data analysis
+Exploratory data analysis
+--------------------------------------------------------------------------------
 
 -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
@@ -467,7 +472,8 @@ TODO:
 [^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
 
 
-### Likelihood principle
+Likelihood principle
+--------------------------------------------------------------------------------
 
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
 -   The likelihood principle is the proposition that, given a statistical model and a data sample,
@@ -524,7 +530,8 @@ Mayo:
 [^Mayo2019]: Mayo, D.G. (2019). [The Law of Likelihood and Error Statistics](https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/).
 
 
-### "Statistics Wars"
+"Statistics Wars"
+--------------------------------------------------------------------------------
 
 -   Carnap
     -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
@@ -580,16 +587,17 @@ Mayo:
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
 
 
-### Replication crisis
+Replication crisis
+--------------------------------------------------------------------------------
 
-#### Introduction
+### Introduction
 
 -   "Why most published research findings are false" [^Ioannidis2005]
 
 [^Ioannidis2005]: @Ioannidis_2005_Why_most_published_research_findings_are_false\.
 
 
-#### P-value controversy
+### P-value controversy
 
 -   ASA statement on $p$-values [^Wasserstein2016]
 -   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]
@@ -621,7 +629,8 @@ Mayo:
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
 
 
-### Information geometry
+Information geometry
+--------------------------------------------------------------------------------
 
 -   "A gentle introduction to information geometry" [^Smith2019]
 -   "An elementary introduction to information geometry" [^Nielsen2018]
@@ -643,9 +652,10 @@ Mayo:
 [^Smith2019]: @Smith_2019_A_gentle_introduction_to_information_geometry\.
 
 
-### Machine learning
+Machine learning
+--------------------------------------------------------------------------------
 
-#### Classical
+### Classical
 
 -   classification vs regression
 -   supervised and unsupervised learning
@@ -659,7 +669,7 @@ Mayo:
 [^Vapnik1994]: @Vapnik_1994_Measuring_the_VC_dimension_of_a_learning_machine\.
 
 
-#### Deep learning
+### Deep learning
 
 -   backpropigation [^Rumelhart1986]
 -   "Review: Deep learning" [^LeCun2015]
@@ -685,7 +695,7 @@ Mayo:
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
 
-#### Computer Vision
+### Computer Vision
 
 Computer Vision (CV)
 
@@ -700,7 +710,7 @@ Computer Vision (CV)
 [^LeCun1998]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
 
 
-#### Natural language processing
+### Natural language processing
 
 Natural language processing (NLP)
 
@@ -717,12 +727,13 @@ Natural language processing (NLP)
 [^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
 
 
-#### Reinforcement learning
+### Reinforcement learning
 
 Reinforcement learning (RL)
 
 
-### Theoretical machine learning
+Theoretical machine learning
+--------------------------------------------------------------------------------
 
 -   No free lunch theorem
 -   Relationship to statistical mechanics [^Bahri2020]
@@ -731,20 +742,21 @@ Reinforcement learning (RL)
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
 
 
-### Automation
+Automation
+--------------------------------------------------------------------------------
 
-#### Surrogate models
+### Surrogate models
 
 -   "The frontier of simulation-based inference" [^Cranmer2019]
 
 
-#### AutoML
+### AutoML
 
 -   Neural Architecture Search (NAS)
 -   AutoML frameworks
 
 
-#### AutoScience
+### AutoScience
 
 -   Automated discovery
 -   "Learning new physics from a machine" [^DAgnolo2019]
@@ -761,7 +773,8 @@ Reinforcement learning (RL)
 [^DAgnolo2019]: @DAgnolo_2019_Learning_New_Physics_from_a_Machine\.
 
 
-### Implications for the realism debate
+Implications for the realism debate
+--------------------------------------------------------------------------------
 
 -   Korb [^Korb2001]
 -   Williamson [^Williamson2009]

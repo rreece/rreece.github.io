@@ -14,10 +14,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 <!-- PAGETOC -->
 
 
-Issues and positions
+Classical physics
 --------------------------------------------------------------------------------
-
-### Classical physics
 
 -   History:
     -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
@@ -41,7 +39,8 @@ Issues and positions
 [^Feynman1963]: @Feynman_1963_The_Feynman_Lectures_on_Physics_Volume_I\.
 
 
-### Statistical physics
+Statistical physics
+--------------------------------------------------------------------------------
 
 -   Entropy
 -   Statistical mechanics and thermodynamics
@@ -50,7 +49,8 @@ Issues and positions
 -   See [Emergence](#emergence)
 
 
-### Symmetry-first physics
+Symmetry-first physics
+--------------------------------------------------------------------------------
 
 -   Principle of least action
 -   Canonical dynamics
@@ -64,9 +64,10 @@ Issues and positions
 [^tHooft2007]: @tHooft_2007_Lie_Groups_in_Physics\.
 
 
-### Quantum mechanics
+Quantum mechanics
+--------------------------------------------------------------------------------
 
-#### Introduction
+### Introduction
 
 -   Traditionally focus on NRQM [^Ney2013]
 -   Hilbert spaces.  Wigner's theorem.  The Born rule.
@@ -77,7 +78,7 @@ Issues and positions
 [^Ney2013]: @Ney_2013_The_Wave_Function_Essays_on_the_metaphysics\.
 
 
-#### History
+### History
 
 -   Planck
 -   Einstein
@@ -87,7 +88,7 @@ Issues and positions
 -   Born
 
 
-#### Foundations of QM
+### Foundations of QM
 
 -   Hilbert spaces:
 
@@ -109,7 +110,7 @@ conserved under that transformation.
 
 $$ \hat{U}(x^{\mu}) = e^{ -i \: \hat{P}_\mu \: x^\mu } $$
 
-#### Secondary properties of QM
+### Secondary properties of QM
 
 -   Wave function:
 
@@ -129,7 +130,7 @@ $$ \mathcal{H} = \mathcal{H}_\mathrm{S} \otimes \mathcal{H}_\mathrm{E} $$
 
 $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi; \alpha\rangle $$
 
-#### Decoherence
+### Decoherence
 
 -   *Decoherence and the Appearance of a Classical World in Quantum Theory* [^Giulini1996]
 -   Drossel [^Drossel2015]
@@ -139,9 +140,10 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 [^Giulini1996]: @Giulini_1996_Decoherence_and_the_Appearance_of_a_Classical\.
 
 
-### Quantum field theory
+Quantum field theory
+--------------------------------------------------------------------------------
 
-#### Fields
+### Fields
 
 -   Field definition
 -   Coleman-Mandula theorem [^Coleman1967]
@@ -153,7 +155,7 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 [^Feynman1965]: @Feynman_1965_The_Development_of_the_Space_Time_View_of_Quantum\.
 
 
-#### Foundations
+### Foundations
 
 -   Peskin and Schroeder
 -   David Tong
@@ -180,12 +182,12 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
 
 
-#### Spin-statistics theorem
+### Spin-statistics theorem
 
 -   Spin-statistics theorem - Pauli
 
 
-#### Scattering
+### Scattering
 
 -   Interaction picture
 -   Correlation AKA Green's functions
@@ -201,7 +203,7 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 [^Martin2018]: @Martin_2018_Phenomenology_of_particle_physics\.
 
 
-#### Renormalization
+### Renormalization
 
 -   Dyson [^Dyson1949]
 -   Wilson
@@ -217,7 +219,7 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 [^Butterfield2015]: @Butterfield_2015_Renormalization_for_philosophers\.
 
 
-#### Effective field theory
+### Effective field theory
 
 -   Huggett and Weingard, again [^Huggett1995]
 -   Weinberg [^Weinberg1997]
@@ -229,7 +231,7 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 [^Weinberg1997]: @Weinberg_1996_What_is_quantum_field_theory_and_what_did_we\.
 
 
-#### Haag's theorem
+### Haag's theorem
 
 -   Haag's theorem [^Haag1955]
     -   The interaction picture does not exist in interacting relativistic QFT.
@@ -276,9 +278,10 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 [^Teller1997p115]: @Teller_1997_An_Interpretive_Introduction_to_Quantum_Field\, p. 115.
 
 
-### Exotics in quantum field theory
+Exotics in quantum field theory
+--------------------------------------------------------------------------------
 
-#### Higher gauge theory
+### Higher gauge theory
 
 -   [Fiber bundles in physics](https://ncatlab.org/nlab/show/fiber+bundles+in+physics)
     -   Fiber bundles embody two central principles of modern physics:
@@ -312,7 +315,7 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 [^Maudlin2007p101]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 101.
 
 
-#### Non-perturbative features
+### Non-perturbative features
 
 -   Sphalerons
 -   Instanton
@@ -321,7 +324,7 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 [^Shifman2012]: @Shifman_2012_Advanced_Topics_in_Quantum_Field_Theory_A_lecture\.
 
 
-#### Supersymmetry
+### Supersymmetry
 
 -   Haag-&#321;opusza&#324;ski-Sohnius theorem [^Haag1975]
 -   Deligne's theorem on tensor categories
@@ -335,7 +338,8 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 [^Martin2016]: @Martin_2016_A_supersymmetry_primer\.
 
 
-### Interpretations of quantum mechanics
+Interpretations of quantum mechanics
+--------------------------------------------------------------------------------
 
 >   The withdrawal of philosophy into a "professional" shell of its own has had 
 >   disastrous consequences. The younger generation of physicists, the Feynmans,
@@ -348,29 +352,29 @@ $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi;
 -- from a letter in Appendix B of Feyerabend's *Against Method*
 
 
-#### EPR paradox
+### EPR paradox
 
 TODO
 
 
-#### Bell's theorem
+### Bell's theorem
 
 TODO
 
 
-#### Copenhagen "interpretation"
+### Copenhagen "interpretation"
 
 TODO
 
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
 
 
-#### Bohmian mechanics
+### Bohmian mechanics
 
 -   de Broglie-Bohm
 
 
-#### Everettian interpretation
+### Everettian interpretation
 
 -   Everett
 -   DeWitt
@@ -380,19 +384,19 @@ TODO
 [^Carroll2019]: @Carroll_2019_Something_Deeply_Hidden\.
 
 
-#### Collapse interpretations
+### Collapse interpretations
 
 -   GRW
 -   TODO: find ref that GRW is empirical
 
 
-#### Epistemic interpretations
+### Epistemic interpretations
 
 -   $\psi$-epistemic interpretations
 -   quantum Bayesianism (QBism)
 
 
-#### PBR theorem
+### PBR theorem
 
 -   PBR [^Pusey2012]
 -   Wikipedia: Either the quantum state corresponds to a physically
@@ -405,14 +409,15 @@ TODO
 [^Pusey2012]: @Pusey_2012_On_the_reality_of_the_quantum_state\.
 
 
-#### Other interpretations
+### Other interpretations
 
 -   relational quantum mechanics
 -   transactional quantum mechanics
 -   ...
 
 
-### The standard model of particle physics
+The standard model of particle physics
+--------------------------------------------------------------------------------
 
 ![The total action of the physics of the standard model 
     together with general relativity as presented by [Sean Carroll on his blog](http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/).
@@ -426,7 +431,8 @@ TODO
 -   Nima Arkani-Hamed on [Collider Physics from the Bottom Up](https://www.youtube.com/watch?v=uG8VJb3jRzU)
 
 
-### Beyond the standard model
+Beyond the standard model
+--------------------------------------------------------------------------------
 
 -   Neutrino masses and mixings
 -   Running of the couplings
@@ -445,23 +451,24 @@ TODO
 [^Martin2016p66]: @Martin_2016_A_supersymmetry_primer\, p. 66.
 
 
-#### Criticisms
+### Criticisms
 
 -   *Farewell to Reality* [^Baggott2013]
 
 [^Baggott2013]: @Baggott_2013_Farewell_to_Reality_How_modern_physics_has\.
 
 
-### Gravity and cosmology
+Gravity and cosmology
+--------------------------------------------------------------------------------
 
-#### General relativity
+### General relativity
 
 -   *Spacetime and Geometry* [^Carroll2004]
 
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
 
 
-#### Cosmology
+### Cosmology
 
 -   Big bang
 -   Dark matter
@@ -471,7 +478,8 @@ TODO
 -   $\Lambda$+CMD Cosmological Standard Model
 
 
-### Fine-tuning
+Fine-tuning
+--------------------------------------------------------------------------------
 
 -   Fine-tuning
 -   Anthropic principle
@@ -479,13 +487,15 @@ TODO
 -   [Richard Dawkins and Steven Weinberg discuss science and religion](https://www.youtube.com/watch?v=EGL8SesIo6Y)
 
 
-### Complexity
+Complexity
+--------------------------------------------------------------------------------
 
 -   nonlinear systems
 -   chaos
 
 
-### Emergence
+Emergence
+--------------------------------------------------------------------------------
 
 Thermodynamics, statistical mechanics, renormalization.
 
@@ -502,7 +512,8 @@ Thermodynamics, statistical mechanics, renormalization.
 [^Lisi-2017]: @Lisi_2017_Emergence\.
 
 
-### Bracketing human experience
+Bracketing human experience
+--------------------------------------------------------------------------------
 
 -   Entailment, Reductionism
 -   [Sean Carroll's acceptance speech](https://www.youtube.com/watch?v=40eiycH077A#t=402)

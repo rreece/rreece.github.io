@@ -14,10 +14,8 @@ are discussed in the [Outline on scientific realism](scientific-realism.html).
 <!-- PAGETOC -->
 
 
-Issues and positions
+History of science
 --------------------------------------------------------------------------------
-
-### History of science
 
 In this first section, we briefly outline chronologically highlights in
 the development of science, after which there are sections focusing on topics
@@ -32,7 +30,7 @@ Click to show the paltry outline of the history of science
 <div id="history_of_science" class="more">
 
 
-#### Antiquity
+### Antiquity
 
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
 -   [Thales of Miletus (c. 624/623-548/545 BCE)](https://en.wikipedia.org/wiki/Thales_of_Miletus)
@@ -97,7 +95,7 @@ Weinberg:
 [^Weinberg2015p76]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 76.
 
 
-#### The Middle Ages
+### The Middle Ages
 
 -   [Islamic Golden Age](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
 -   [Academy of Gondishapur](https://en.wikipedia.org/wiki/Academy_of_Gondishapur)
@@ -118,7 +116,7 @@ Weinberg:
 [^Sabra1978]: @Sabra_1978_An_eleventh_century_refutation_of_Ptolemys\, p. 121--2.
 
 
-#### Early Modern Period
+### Early Modern Period
 
 -   [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
 -   [da Vinci, Leonardo (1452-1519)](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
@@ -144,7 +142,7 @@ Weinberg:
 [^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
 
 
-#### The Age of Enlightenment
+### The Age of Enlightenment
 
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
 -   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
@@ -164,7 +162,7 @@ Weinberg:
     -   *Critique of Pure Reason* (1781) [^Kant1996]
 
 
-#### Canonical classical physics
+### Canonical classical physics
 
 -   [Franklin, Benjamin (1706-1790)](https://en.wikipedia.org/wiki/Benjamin_Franklin)
 -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
@@ -186,7 +184,7 @@ Weinberg:
 -   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
 
 
-#### "Scientists"
+### "Scientists"
 
 -   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
     -   atomic theory
@@ -203,7 +201,7 @@ Weinberg:
 -   [Discovery of Neptune (1846)](https://en.wikipedia.org/wiki/Discovery_of_Neptune)
 
 
-#### Biological evolution
+### Biological evolution
 
 -   [Democritus on the historical development of human communities](https://plato.stanford.edu/entries/democritus/)
 -   Hume on humans being animals [^Hume2007]
@@ -217,7 +215,7 @@ Weinberg:
 [^Hume2007]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
 
 
-#### Modern physics
+### Modern physics
 
 -   [Mach, Ernst (1838-1916)](https://en.wikipedia.org/wiki/Ernst_Mach)
 -   [Lorentz, Hendrik (1853-1928)](https://en.wikipedia.org/wiki/Hendrik_Lorentz)
@@ -237,7 +235,7 @@ Weinberg:
 -   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
 -   ...
 
-#### Modern statistics
+### Modern statistics
 
 -   [Pearson, Karl (1857-1936)](https://en.wikipedia.org/wiki/Karl_Pearson)
 -   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
@@ -245,16 +243,17 @@ Weinberg:
 -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
 -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
 
-#### Computer science
+### Computer science
 
 -   TODO
 
 </div> <!-- end history_of_science -->
 
 
-### Rationalism vs empiricism
+Rationalism vs empiricism
+--------------------------------------------------------------------------------
 
-#### Introduction
+### Introduction
 
 -   Early modern philosophy, coming out of medieval scholasticism
 -   Debates over the foundations of epistemology
@@ -264,21 +263,21 @@ Weinberg:
 -   Development of calculus
 
 
-#### Early empiricists
+### Early empiricists
 
 -   Francis Bacon (1561-1626)
 -   Galileo Galilei (1564-1642)
 -   Thomas Hobbes (1588-1679)
 
 
-#### Rationalists
+### Rationalists
 
 -   Ren&eacute; Descartes (1596-1650)
 -   Baruch Spinoza (1632-1677)
 -   Gottfried Wilhelm Leibniz (1646-1716)
 
 
-#### British empiricists
+### British empiricists
 
 -   Robert Boyle (1627-1691)
 -   John Locke (1632-1704)
@@ -288,7 +287,7 @@ Weinberg:
 ![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig:mandik-2016-11-1-eyeballs}
 
 
-#### Important synthesizers
+### Important synthesizers
 
 -   Isaac Newton (1642-1727)
     -   *The Principia* (1687) [^Newton2016]
@@ -305,9 +304,10 @@ Weinberg:
 [^Newton2016]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\.
 
 
-### Analytic/synthetic distinction
+Analytic/synthetic distinction
+--------------------------------------------------------------------------------
 
-#### Definitions
+### Definitions
 
 -   Locke
     -   *An Essay Concerning Human Understanding* (1689)
@@ -345,7 +345,7 @@ TODO: 2x2 figure *a priori--a posteriori* vs analytic--synthetic.
 [^Kant1996pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
 
 
-#### Discussion
+### Discussion
 
 -   Stearns, P. (2020). [Epistemology: A priori vs. a posteriori, analytic vs. synthetic, necessary vs. contingent](https://lucidphilosophy.com/1019-2/).
     -   relationship to necessity and contingency
@@ -375,7 +375,7 @@ de Swart:
 [^Weatherson2017]: @Weatherson_2017_Analytic_synthetic_and_a_priori_a_posteriori\.
 
 
-#### Criticisms
+### Criticisms
 
 -   Quine: "Two dogmas of empiricism" [^Quine1951]
 -   Carnap vs Quine [^Quine1990]
@@ -384,9 +384,10 @@ de Swart:
 [^Quine1990]: @Quine_1990_Dear_Carnap_Dear_van_The_Quine_Carnap\.
 
 
-### Induction
+Induction
+--------------------------------------------------------------------------------
 
-#### Problem of induction
+### Problem of induction
 
 -   How do we infer universals from particulars?
 
@@ -424,7 +425,7 @@ Hume:
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
 
-#### Inductive logic
+### Inductive logic
 
 Newton:
 
@@ -515,7 +516,7 @@ Dewey:
 [^Vickers2014]: @Vickers_2014_The_problem_of_induction (emphasis added).
 
 
-#### Abduction
+### Abduction
 
 -   Peirce
 -   Douven [^Douven2011]
@@ -556,7 +557,7 @@ Arthur Conan Doyle:
 [^WikipediaAbductiveReasoning2]: Ibid.
 
 
-#### Statistics as a solution to the problem of induction
+### Statistics as a solution to the problem of induction
 
 -   Weisberg [^Weisberg2019appD] - nope
 -   Salmon [^Salmon1963]
@@ -578,9 +579,10 @@ Arthur Conan Doyle:
 [^Weisberg2019appD]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, Appendix D\.
 
 
-### Models in science
+Models in science
+--------------------------------------------------------------------------------
 
-#### What's a model?
+### What's a model?
 
 French:
 
@@ -601,7 +603,7 @@ Fit the model to the data to make inferences on the theory:
 $$ \text{Model} + \text{Data} + \text{Statistical Analysis} \longrightarrow \text{Model(improved)} \longrightarrow \text{Theory(improved)} $$
 
 
-#### Models represent theories
+### Models represent theories
 
 Model the theory:
 
@@ -642,7 +644,7 @@ Frigg:
 -   *Models as Mediators* [^Morgan1999]
 
 
-#### Digression: Physicists have semantic objections
+### Digression: Physicists have semantic objections
 
 -   TODO: explain
 -   HEP theorists especially
@@ -661,9 +663,10 @@ Frigg:
 [^Suppes1967]: @Suppes_1967_What_is_a_scientific_theory\.
 
 
-### Is there a universal scientific method?
+Is there a universal scientific method?
+--------------------------------------------------------------------------------
 
-#### First pass
+### First pass
 
 Feynman:
 
@@ -708,7 +711,7 @@ Russell:
 [^Russell1945pX]: TODO: *History of Western Philosophy* (1945).
 
 
-#### Yes: Models of science
+### Yes: Models of science
 
 -   Hypothetico-deductive model
 -   Positivism, verificationism
@@ -747,7 +750,7 @@ Russell:
 [^Popper1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
 
 
-#### No: There is no unified "scientific method"
+### No: There is no unified "scientific method"
 
 -   *Against Method* [^Feyerabend1974]
 -   McComas
@@ -763,7 +766,8 @@ Russell:
 [^McComas2008]: @McComas_2008_Seeking_historical_examples_to_illustrate_key\.
 
 
-### Scientific knowledge and realism
+Scientific knowledge and realism
+--------------------------------------------------------------------------------
 
 -   Definition of knowledge
     -   Plato: Knowledge = Justified True Belief (JTB)
@@ -808,7 +812,8 @@ See also:
 [^Russell2009]: @Russell_2009_Human_Knowledge_Its_Scope_and_Limits\.
 
 
-### Naturalism, monism, and reductionism
+Naturalism, monism, and reductionism
+--------------------------------------------------------------------------------
 
 -   Hume on the problem of induction and the uniformity of nature, again
 -   Monism
@@ -817,7 +822,8 @@ See also:
 -   See the [Outline on naturalism](naturalism.html).
 
 
-### Pseudoscience
+Pseudoscience
+--------------------------------------------------------------------------------
 
 -   The demarcation problem
 -   Bad justification

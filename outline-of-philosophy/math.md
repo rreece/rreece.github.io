@@ -16,10 +16,8 @@ debate.
 <!-- PAGETOC -->
 
 
-Issues and positions
+Logic
 --------------------------------------------------------------------------------
-
-### Logic
 
 -   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
     -   logico-deductive method founded by Euclid's *Elements*
@@ -46,7 +44,8 @@ Issues and positions
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
 
 
-### Algebra
+Algebra
+--------------------------------------------------------------------------------
 
 -   roots from Babylonians
 -   Kronecker, Leopold (1823-1891)
@@ -64,7 +63,8 @@ Issues and positions
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
 
 
-### Analysis
+Analysis
+--------------------------------------------------------------------------------
 
 -   Geometry and Descartes
 -   Newton, Isaac (1642-1726/7)
@@ -82,7 +82,7 @@ Issues and positions
 [^Baez2016]: @Baez_2016_Struggles_with_the_continuum\.
 
 
-#### Development of calculus
+### Development of calculus
 
 ![Leibniz's notation of integration (*summa*) and differentiation (*differentia*)
     summarized in the margin of his notes in 1675
@@ -110,7 +110,8 @@ Issues and positions
     -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
 
 
-### Model theory
+Model theory
+--------------------------------------------------------------------------------
 
 -   [Model theory](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Model_theory)
 -   Wilfrid Hodges
@@ -118,7 +119,7 @@ Issues and positions
 -   Carnap
 
 
-#### Incompleteness
+### Incompleteness
 
 G&ouml;del, Kurt (1906-1978)
 
@@ -148,7 +149,8 @@ More:
 -   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/) - IEP
 
 
-### Unification programs
+Unification programs
+--------------------------------------------------------------------------------
 
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
 -   [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
@@ -179,14 +181,15 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 [^Aguirre2016p153]: Yanofsky (2016) In @Aguirre_2016_Trick_Or_Truth_The_mysterious_connection_between\, p. 153.
 
 
-### Platonism
+Platonism
+--------------------------------------------------------------------------------
 
-#### Pythagoreanism
+### Pythagoreanism
 
 -   Radical realism
 
 
-#### Plato
+### Plato
 
 -   Realist
 -   Theory of the forms
@@ -195,7 +198,7 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 -   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
 
 
-#### Contemporary platonism
+### Contemporary platonism
 
 -   Neopythagoreanism: Tegmark. (2008). "The mathmatical universe". [^Tegmark2008]
     -   Mathematical Universe Hypothesis (MUH)
@@ -208,7 +211,8 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 [^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
 
 
-### Nominalism
+Nominalism
+--------------------------------------------------------------------------------
 
 -   Antirealist
 
@@ -239,7 +243,8 @@ Bayes:
 [^Field1980]: @Field_1980_Science_Without_Numbers\.
 
 
-### Logicism
+Logicism
+--------------------------------------------------------------------------------
 
 -   Formalism
 -   Antirealist, Positivism
@@ -282,7 +287,8 @@ Hilbert:
 [^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
 
 
-### Intuitionism
+Intuitionism
+--------------------------------------------------------------------------------
 
 -   Antirealist
 -   Kronecker's finitism was a forerunner of intuitionism in foundations of mathematics.
@@ -297,17 +303,20 @@ Hilbert:
 [^Reid1996p149]: @Reid_1996_Hilbert\, p. 149.
 
 
-### Fictionalism
+Fictionalism
+--------------------------------------------------------------------------------
 
 -   Antirealist
 
 
-### Structuralism
+Structuralism
+--------------------------------------------------------------------------------
 
 -   Realist
 
 
-### Naturalism
+Naturalism
+--------------------------------------------------------------------------------
 
 -   Realist?
 -   Maddy

@@ -13,23 +13,22 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 <!-- PAGETOC -->
 
 
-Issues and positions
+Virtue ethics
 --------------------------------------------------------------------------------
-
-
-### Virtue ethics
 
 -   See the discussion of [Stoicism](http://rreece.github.io/outline-of-philosophy/human-condition.html#stoicism).
 -   Aristotle
 -   Stoicism
 
 
-### Deontological ethics
+Deontological ethics
+--------------------------------------------------------------------------------
 
 -   Kant
 
 
-### Consequentialism
+Consequentialism
+--------------------------------------------------------------------------------
 
 -   Epicurus
 -   Bentham
@@ -38,7 +37,8 @@ Issues and positions
 -   @Portmore_2011_Commonsense_Consequentialism
 
 
-### Moral antirealism
+Moral antirealism
+--------------------------------------------------------------------------------
 
 -   Emotivism - Hume, A.J. Ayer
 -   Positivism
@@ -47,7 +47,8 @@ Issues and positions
 -   Relativism
 
 
-### Moral realism
+Moral realism
+--------------------------------------------------------------------------------
 
 -   Objectivism
 -   Structuralism
@@ -60,7 +61,8 @@ Issues and positions
 -   Plato: [*Minos*](https://en.wikipedia.org/wiki/Minos_(dialogue))
 
 
-### Moral naturalism
+Moral naturalism
+--------------------------------------------------------------------------------
 
 -   Binmore
 -   game theory
@@ -79,20 +81,23 @@ Issues and positions
 
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 
-### Aesthetics
 
-#### Music theory
+Aesthetics
+--------------------------------------------------------------------------------
+
+### Music theory
 
 TODO
 
-#### Art
+### Art
 
 TODO
 
 -   Semiotics
 
 
-### Political philosophy
+Political philosophy
+--------------------------------------------------------------------------------
 
 -   Feudalism
 -   Mercantilism

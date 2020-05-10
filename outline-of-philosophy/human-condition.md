@@ -10,10 +10,8 @@ comparitive studies, biology, and practical philosophy.
 <!-- PAGETOC -->
 
 
-Issues and positions
+Human history
 --------------------------------------------------------------------------------
-
-### Human history
 
 
 ![Map of migrations of early homo sapiens ([ancient.eu](https://www.ancient.eu/article/1070/early-human-migration/), 2017).](img/early-human-migration.png){#fig:early-human-migration}
@@ -104,7 +102,8 @@ Feynman:
 [^WikiAncientHistory]: [en.wikipedia.org/wiki/Ancient_history](https://en.wikipedia.org/wiki/Ancient_history)
 
 
-### Abrahamism
+Abrahamism
+--------------------------------------------------------------------------------
 
 -   [Zoroaster](https://en.wikipedia.org/wiki/Zoroaster) (lived between c. 1,500 and 1,000 BCE)
 -   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
@@ -136,9 +135,10 @@ Feynman:
 [^McNutt1999]: @McNutt_1999_Reconstructing_the_Society_of_Ancient_Israel\, p. 41--42.
 
 
-### Hinduism
+Hinduism
+--------------------------------------------------------------------------------
 
-#### Introduction
+### Introduction
 
 -   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
 -   [Vedic period](https://en.wikipedia.org/wiki/Vedic_period) (c. 1,500-500 BCE)
@@ -158,7 +158,7 @@ Texts:
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
 
-#### Common doctrines
+### Common doctrines
 
 [Purus&amacr;rtha](https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha) - the four proper aims of human life:
 
@@ -185,9 +185,10 @@ Others:
     ](img/wheel-of-dharma.png){#fig:wheel-of-dharma}
 
 
-### Buddhism
+Buddhism
+--------------------------------------------------------------------------------
 
-#### Introduction
+### Introduction
 
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism) (began between 6th and 4th centuries BCE)
 -   [Siddhartha Gautama Buddha (c. 480-400 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
@@ -205,7 +206,7 @@ Texts:
 -   Epstein, R. (2004). [Resources for the study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
 
 
-#### Common doctrines
+### Common doctrines
 
 Buddhism is generally considered to be n&amacr;stika.
 
@@ -258,7 +259,7 @@ More refs:
 ![Map of the main modern Buddhist sects ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
 
 
-#### Therav&amacr;da Buddhism
+### Therav&amacr;da Buddhism
 
 -   [Therav&amacr;da Buddhism](https://en.wikipedia.org/wiki/Theravada)
 -   Pali: "The School of the Elders"
@@ -283,7 +284,7 @@ Texts:
     -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
 
 
-#### Mah&amacr;y&amacr;na Buddhism
+### Mah&amacr;y&amacr;na Buddhism
 
 -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
 -   Sanskrit: "The Great Vehicle"
@@ -314,7 +315,7 @@ Texts:
     -   radical non-dualism
 
 
-#### Vajray&amacr;na Buddhism
+### Vajray&amacr;na Buddhism
 
 -   [Vajray&amacr;na Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
 -   Some consider Vajray&amacr;na a separate branch or sub-branch of Mah&amacr;y&amacr;na Buddhism.
@@ -326,9 +327,10 @@ Texts:
 
 
 
-### Other religions
+Other religions
+--------------------------------------------------------------------------------
 
-#### Dharmic
+### Dharmic
 
 -   Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   [Jainism](https://en.wikipedia.org/wiki/Jainism)
@@ -338,7 +340,7 @@ Texts:
     -   [Guru Nanak (1469-1539 CE)](https://en.wikipedia.org/wiki/Guru_Nanak)
 
 
-#### East asian
+### East asian
 
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
     -   [Confucius (551-479 BCE)](https://en.wikipedia.org/wiki/Confucius)
@@ -349,9 +351,10 @@ Texts:
     -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
 
 
-### Stoicism
+Stoicism
+--------------------------------------------------------------------------------
 
-#### History
+### History
 
 -   [Stoicism](https://en.wikipedia.org/wiki/Stoicism) (began in the 3rd century BCE)
 -   [Zeno of Citium (c. 334-262 BCE)](https://en.wikipedia.org/wiki/Zeno_of_Citium)
@@ -372,7 +375,7 @@ Three historical phases of Stoicism:
 -   Contemporary Stoicism
 
 
-#### Theses
+### Theses
 
 Theses (Pigliucci?):
 
@@ -393,7 +396,8 @@ Theses (Pigliucci?):
 [^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.
 
 
-### Comparitive studies
+Comparitive studies
+--------------------------------------------------------------------------------
 
 -   Buddhism and Greek philosophy
     -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
@@ -423,14 +427,15 @@ decidedly not naturalistic:
 [^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.
 
 
-### Romanticism
+Romanticism
+--------------------------------------------------------------------------------
 
 -   [Romanticism](https://en.wikipedia.org/wiki/Romanticism)
     -   late 18th through 19th centuries
     -   focus on emotion
 
 
-#### Criticism
+### Criticism
 
 -   Alain de Botton
     -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
@@ -438,9 +443,10 @@ decidedly not naturalistic:
     -   [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
 
 
-### Biology
+Biology
+--------------------------------------------------------------------------------
 
-#### Darwinism
+### Darwinism
 
 -   We are animals.
 -   We are all related.
@@ -462,7 +468,7 @@ decidedly not naturalistic:
 [^Rukeyser1976]: @Rukeyser_1976_Islands\.
 
 
-#### Evolution of vision
+### Evolution of vision
 
 -   We are adapted certain ways for certain environmental reasons.
 
@@ -480,26 +486,27 @@ decidedly not naturalistic:
 [^Nave2016]: @Nave_2016_Transparency_of_water_in_the_visible_range\.
 
 
-#### Mortality
+### Mortality
 
 -   We will die
 -   We have about 3 billion heartbeats: 80 years $\approx 2.5 \times 10^9$ seconds
 
 
-### (A)theism
+(A)theism
+--------------------------------------------------------------------------------
 
-#### Apologetics
+### Apologetics
 
 -   Plato, *Laws*, Book 10, on the nontheism of Democritus.
 
 
-#### Pascal's Wager
+### Pascal's Wager
 
 -   Responses to Pascal's Wager [^Weisberg2019ch14_5]
 
 [^Weisberg2019ch14_5]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, ch. 14, section 5\.
 
-#### The problem of evil
+### The problem of evil
 
 C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 
@@ -512,7 +519,7 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 [^Lewis1955]: @Lewis_1955_Surprised_by_Joy\, p. 65.
 
 
-#### Euthyphro dilemma
+### Euthyphro dilemma
 
 -   [Euthyphro dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
     -   God commands it because it is right?
@@ -522,7 +529,7 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
     -   Plato, *Laws*, Book 10
 
 
-#### Physicalism
+### Physicalism
 
 -   Lucretius
     -   [Summary of Lucretius' *De rerum natura* by M. McGoodwin](https://www.mcgoodwin.net/pages/otherbooks/tlc_rerumnatura.html)
@@ -534,7 +541,7 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 [^Greenblatt2011ny]: @Greenblatt_2011_The_answer_man_An_ancient_poem_was_rediscovered\.
 
 
-#### Epistemic humility
+### Epistemic humility
 
 Maudlin:
 
@@ -556,14 +563,15 @@ Plato:
 [^Meno86c]: *Meno* 86c, @Cooper_1997_Plato_Complete_works\, p. 886.
 
 
-#### Religion as a natural phenomena
+### Religion as a natural phenomena
 
 -   *Breaking the Spell: Religion as a natural phenomenon* [^Dennett2006]
 
 [^Dennett2006]: @Dennett_2006_Breaking_the_Spell_Religion_as_a_natural\.
 
 
-### Existentialism
+Existentialism
+--------------------------------------------------------------------------------
 
 -   Nietzsche
     -   "God is dead"
@@ -578,7 +586,8 @@ Plato:
 -   Modernism
 
 
-### Nihilism
+Nihilism
+--------------------------------------------------------------------------------
 
 -   Nietzsche
 -   @Brassier_2007_Nihil_Unbound

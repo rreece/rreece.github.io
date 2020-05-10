@@ -14,10 +14,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 <!-- PAGETOC -->
 
 
-Issues and positions
+Risk
 --------------------------------------------------------------------------------
-
-### Risk
 
 -   Anthropic bias [^Bostrom2002]
 -   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
@@ -25,7 +23,8 @@ Issues and positions
 [^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
 
 
-### Technological growth
+Technological growth
+--------------------------------------------------------------------------------
 
 -   The Coming Technological Singularity [^Vinge1993]
 -   Simulation argument [^Bostrom2003] and patch [^Bostrom2011]
@@ -38,7 +37,8 @@ Issues and positions
 [^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
 
 
-### Artificial intelligence
+Artificial intelligence
+--------------------------------------------------------------------------------
 
 -   Russell & Norvig [^Russell1995]
 -   Video: Carroll, S. & Russell, S. (2020). [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.

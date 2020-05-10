@@ -15,10 +15,8 @@ and other worldviews in constrast to naturalism.
 <!-- PAGETOC -->
 
 
-Issues and positions
+What is naturalism?
 --------------------------------------------------------------------------------
-
-### What is naturalism?
 
 #### First pass
 
@@ -176,7 +174,8 @@ Riepe on the characteristics of naturalism in Indian thought:
 [^Riepe1961pX]: @Riepe_1961_The_Naturalistic_Traddition_in_Indian_Thought\, p. TODO.
 
 
-### Unity of philosophy and science
+Unity of philosophy and science
+--------------------------------------------------------------------------------
 
 -   Philosophy and science are continuous in concerns.
 -   Philosophy is the nursury of budding programs that become specialized sciences.
@@ -208,7 +207,8 @@ Sellars:
 [^SellarsTODO]: TODO.
 
 
-### Rejection of *a priori* metaphysics
+Rejection of *a priori* metaphysics
+--------------------------------------------------------------------------------
 
 Metaphysical naturalism.
 
@@ -287,7 +287,8 @@ Opening lines to *ETMG*:
 [^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21. (emphasis added)
 
 
-### Monism and physicalism
+Monism and physicalism
+--------------------------------------------------------------------------------
 
 -   Parmenides
 -   Materialism/physicalism/functionalism
@@ -296,7 +297,8 @@ Opening lines to *ETMG*:
 -   See the [Outline on Philosophy of mind](mind.html).
 
 
-### Reductionism
+Reductionism
+--------------------------------------------------------------------------------
 
 ![The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013)
     [Wikimedia Commons](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png).](img/the-scientific-universe.png){#fig:the-scientific-universe}
@@ -336,7 +338,8 @@ Alex Rosenberg is a mad dog against emergence. Video:
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
 
 
-### Natural kinds
+Natural kinds
+--------------------------------------------------------------------------------
 
 Part of metaphysical naturalism.
 
@@ -363,7 +366,8 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
 
-### Rejection of the supernatural
+Rejection of the supernatural
+--------------------------------------------------------------------------------
 
 -   Part of methodological naturalism.
     -   Not an a priori assumption but an empirical conclusion
@@ -378,7 +382,8 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 [^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.
 
 
-### Scientism
+Scientism
+--------------------------------------------------------------------------------
 
 
 -   Usually a pejorative
@@ -400,14 +405,16 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 [^Wilson1998]: @Wilson_1998_Consilience\.
 
 
-### Moral naturalism
+Moral naturalism
+--------------------------------------------------------------------------------
 
 TODO.
 
 See the [Outline on ethics](ethics.html#moral-naturalism).
 
 
-### Criticisms of naturalism
+Criticisms of naturalism
+--------------------------------------------------------------------------------
 
 #### Attacks
 
@@ -517,7 +524,8 @@ See the [Outline on ethics](ethics.html#moral-naturalism).
 [^Thomas2015]: @Thomas_2015_A_disease_of_scienceyness\.
 
 
-### Other worldviews
+Other worldviews
+--------------------------------------------------------------------------------
 
 -   Worldview/Weltanschauung
 -   Other meta-philosophies

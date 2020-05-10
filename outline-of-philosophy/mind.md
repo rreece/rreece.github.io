@@ -14,10 +14,8 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 <!-- PAGETOC -->
 
 
-Issues and positions
+Consciousness
 --------------------------------------------------------------------------------
-
-### Consciousness
 
 -   sentience
 -   phenomenal vs access consciousness
@@ -36,7 +34,8 @@ Issues and positions
 [^Nagel1974]: @Nagel_1974_What_is_it_like_to_be_a_bat\.
 
 
-### Dualism
+Dualism
+--------------------------------------------------------------------------------
 
 -   mind-body problem
 -   Plato
@@ -45,7 +44,8 @@ Issues and positions
 -   Kripke
 
 
-### Physicalism
+Physicalism
+--------------------------------------------------------------------------------
 
 -   Materialism
 -   See the outline on [Naturalism](naturalism.html).
@@ -54,13 +54,15 @@ Issues and positions
 -   Ney
 
 
-### Panpsychism
+Panpsychism
+--------------------------------------------------------------------------------
 
 -   Chalmers
 -   rejection of dualism vs physicalism dichotomy
 
 
-### Free will
+Free will
+--------------------------------------------------------------------------------
 
 -   [Reflections on Free Will](https://www.samharris.org/blog/item/reflections-on-free-will) - Daniel Dennett
 -   [The Marionette's Lament](https://www.samharris.org/blog/item/the-marionettes-lament) - Sam Harris

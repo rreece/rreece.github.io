@@ -13,10 +13,8 @@ discusses the epistemological foundations and limitations of science.
 <!-- PAGETOC -->
 
 
-Issues and positions
+Metaphysics
 --------------------------------------------------------------------------------
-
-### Metaphysics
 
 When one encounters the word "metaphysics", what is usually meant is one of the
 three following ideas:
@@ -69,7 +67,8 @@ Stealing from encyclopedia.com:
 >   matter, space, and time.
 
 
-### Realism and antirealism
+Realism and antirealism
+--------------------------------------------------------------------------------
 
 ![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120)).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
 
@@ -117,7 +116,8 @@ Radiohead:
 [^Schopenhauer-Schrodinger]: Schr&ouml;dinger quoting Schopenhauer in "Mind and Matter".
 
 
-### Humeanism and necessity
+Humeanism and necessity
+--------------------------------------------------------------------------------
 
 -   laws of nature
 -   Humean vs Non-humean :: regularity vs necessitarianism
@@ -139,7 +139,8 @@ Radiohead:
 [^Lewis1986pix]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
 
 
-### Scientific realism
+Scientific realism
+--------------------------------------------------------------------------------
 
 Some attempts at definitions:
 
@@ -225,7 +226,8 @@ Schumm:
 [^Schumm2004]: @Schumm_2004_Deep_Down_Things\, p. 144.
 
 
-### Instrumentalism
+Instrumentalism
+--------------------------------------------------------------------------------
 
 Theoretical concepts may have use in predicting observations,
 but we have no ontological commitments to them.
@@ -255,9 +257,10 @@ Redhead:
 [^Torretti1999]: @Torretti_1999_The_Philosophy_of_Physics\, p. 242--243.
 
 
-### Positivism
+Positivism
+--------------------------------------------------------------------------------
 
-#### Theses
+### Theses
 
 1.  Hume's fork, the analytic/synthetic distinction
 2.  Verification theory of meaning: the meaning of a proposition is the means to verify it.
@@ -315,7 +318,7 @@ and constraining real structures in nature.
 [^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
 
 
-#### Early positivism
+### Early positivism
 
 -   Auguste Comte
 -   Comte and Mill
@@ -351,7 +354,7 @@ Comte on the unknowability of the composition of stars:
 [^Wittgenstein1921]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
 
 
-#### Logical positivism and the Vienna Circle
+### Logical positivism and the Vienna Circle
 
 -   Vienna circle [^Murzi2004]
     -   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Otto Neurath, and others.
@@ -365,7 +368,7 @@ Comte on the unknowability of the composition of stars:
 [^Schlipp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 
 
-#### Logical empiricism and the Berlin Circle
+### Logical empiricism and the Berlin Circle
 
 -   Logical empiricism - Creathe [^Creathe2011]
 -   Hans Reichenbach (1891-1953) and the Berlin Circle
@@ -381,7 +384,7 @@ TODO: Note any differences between:
 [^Reichenbach]: [www.newworldencyclopedia.org/entry/Hans_Reichenbach](http://www.newworldencyclopedia.org/entry/Hans_Reichenbach)
 
 
-#### Later positivism
+### Later positivism
 
 Russell:
 
@@ -426,7 +429,8 @@ Some Carnap works:
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 
 
-### Postpositivism
+Postpositivism
+--------------------------------------------------------------------------------
 
 Various reactions to positivism.
 
@@ -488,7 +492,8 @@ Wittgenstein in *PI*:
     which also cites @Yablo_1998_Does_ontology_rest_on_a_mistake\.
 
 
-### Pragmatism
+Pragmatism
+--------------------------------------------------------------------------------
 
 -   antirealist
 -   Charles Sanders Peirce (1839-1914)
@@ -505,7 +510,8 @@ Wittgenstein in *PI*:
 -   Uniquely American philosophical movement.
 
 
-### Postmodernism
+Postmodernism
+--------------------------------------------------------------------------------
 
 -   antirealist, relativism
 -   "Man is the measure of all things" - Protagoras
@@ -536,7 +542,8 @@ Wittgenstein in *PI*:
 [^Pluckrose2017-1]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
 
 
-### Constructive empiricism
+Constructive empiricism
+--------------------------------------------------------------------------------
 
 Science aims to give us theories that are empirically adequate,
 but does not justify metaphysical claims about reality.
@@ -559,7 +566,8 @@ but does not justify metaphysical claims about reality.
 [^vanFraassen1980]: @vanFraassen_1980_The_Scientific_Image\.
 
 
-### Structural realism
+Structural realism
+--------------------------------------------------------------------------------
 
 Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
@@ -598,7 +606,8 @@ I found the above quotes in a talk by Arthur Fine:
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
 
-### Feminist epistemology
+Feminist epistemology
+--------------------------------------------------------------------------------
 
 -   Situated knowers
 -   Standpoint theory
@@ -609,7 +618,8 @@ I found the above quotes in a talk by Arthur Fine:
 -   See also [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism).
 
 
-### Critical realism
+Critical realism
+--------------------------------------------------------------------------------
 
 Critical realists believe that there are unobservable events which cause the
 observable ones; as such, the social world can be understood only if people
@@ -622,7 +632,8 @@ understand the structures that generate such unobservable events.
 -   The normative importance of climate science.
 
 
-### Active realism
+Active realism
+--------------------------------------------------------------------------------
 
 -   Hasok Chang
 
@@ -653,6 +664,7 @@ Questions:
 
 
 ### My defense of realism
+--------------------------------------------------------------------------------
 
 <div class="clickmore"><a id="link:my_defense_of_realism1" class="closed" onclick="toggle_more('my_defense_of_realism1')">
 1. There is an external world.
