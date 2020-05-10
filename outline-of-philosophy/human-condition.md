@@ -37,25 +37,31 @@ Human history
 
 ### First civilizations
 
--   [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilization):
 
-[First civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilization):
-
--   [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent) ([Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt) and [Mesopotamia](https://en.wikipedia.org/wiki/Mesoamerica))
+-   [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
+    -   [Mesopotamia](Mesopotamia)
     -   First [Natufian](https://en.wikipedia.org/wiki/Natufian_culture) sedentary settlements by 10,000 BCE
     -   [Pre-Pottery Neolithic A](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A) (c. 12,000-10,800 BCE)
     -   [G&ouml;bekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe) built between c. 10,000 and 8,000 BCE
+    -   [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt) - [First Dynasty](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt) (c. 3,150-2,890 BCE)
+    -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing begins c. 3,200 BCE
     -   [Sumer](https://en.wikipedia.org/wiki/Sumer) settled between c. 5,500 and 4,000 BCE
-    -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing begins c. 3,200 BCE
-    -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing also begins c. 3,200 BCE
+    -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing also begins c. 3,200 BCE
     -   [Ancient Crete](https://en.wikipedia.org/wiki/History_of_Crete)
     -   [Minoan civilization](https://en.wikipedia.org/wiki/Minoan_civilization) (c. 2,700-1,100 BCE)
     -   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2800 and 2500 BCE
     -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334--2,154 BCE)
     -   [Babylonia](https://en.wikipedia.org/wiki/Babylonia) - [Babylon](https://en.wikipedia.org/wiki/Babylon) settled c. 2,300 BCE
-    -   [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) (c. 1810-1750 BCE)
-    -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1754 BCE)
+    -   [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) (c. 1,810-1,750 BCE)
+    -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1,754 BCE)
+    -   [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet) (c. 1,050-150 BCE)
+    -   [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) (559-330 BCE)
+    -   [Macedonia](https://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)) (808-168 BCE)
+    -   The works of [Homer](https://en.wikipedia.org/wiki/Homer) were collected and organised in Athens by
+        [Peisistratos](https://en.wikipedia.org/wiki/Peisistratos) in the late sixth century BCE.
     -   [Royal Road](https://en.wikipedia.org/wiki/Royal_Road) rebuilt by [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) c. 500 BCE
+    -   [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) (356-323 BCE)
 -   [Ancient India](https://en.wikipedia.org/wiki/History_of_India)
     -   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3,300--1,300 BCE)
     -   [Harappa](https://en.wikipedia.org/wiki/Harappa)  settled c. 2,600 BCE
@@ -362,12 +368,12 @@ Stoicism
 ### History
 
 -   [Stoicism](https://en.wikipedia.org/wiki/Stoicism) (began in the 3rd century BCE)
--   [Zeno of Citium (c. 334-262 BCE)](https://en.wikipedia.org/wiki/Zeno_of_Citium)
--   [Cleanthes (c. 330-230 BCE)](https://en.wikipedia.org/wiki/Cleanthes)
--   [Chrysippus (c. 279-206 BCE)](https://en.wikipedia.org/wiki/Chrysippus)
--   [Seneca (4 BCE - 65 CE)](https://en.wikipedia.org/wiki/Seneca_the_Younger)
--   [Epictetus (c. 50-135 CE)](https://en.wikipedia.org/wiki/Epictetus)
--   [Marcus Aurelius (121-180 CE)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
+-   [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) (c. 334-262 BCE)
+-   [Cleanthes](https://en.wikipedia.org/wiki/Cleanthes) (c. 330-230 BCE)
+-   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
+-   [Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger) (4 BCE - 65 CE)
+-   [Epictetus](https://en.wikipedia.org/wiki/Epictetus) (c. 50-135 CE)
+-   [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) (121-180 CE)
 
 Three historical phases of Stoicism:
 
@@ -734,6 +740,8 @@ Click to show links
 -   [Buddhism in the United States](https://en.wikipedia.org/wiki/Buddhism_in_the_United_States)
 -   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation)
 -   [Camus, Albert (1913-1960)](https://en.wikipedia.org/wiki/Albert_Camus)
+-   [Chrysippus (c. 279-206 BCE)](https://en.wikipedia.org/wiki/Chrysippus)
+-   [Cleanthes (c. 330-230 BCE)](https://en.wikipedia.org/wiki/Cleanthes)
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
 -   [Confucius (551-479 BCE)](https://en.wikipedia.org/wiki/Confucius)
 -   [Dasein](https://en.wikipedia.org/wiki/Dasein)
@@ -746,9 +754,9 @@ Click to show links
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)
 -   [Dhyana in Hinduism](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism)
 -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
+-   [Eastern religions](https://en.wikipedia.org/wiki/Eastern_religions)
 -   [Engaged Buddhism](https://en.wikipedia.org/wiki/Engaged_Buddhism)
 -   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism)
--   [Eastern religions](https://en.wikipedia.org/wiki/Eastern_religions)
 -   [Ego death](https://en.wikipedia.org/wiki/Ego_death)
 -   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
@@ -768,6 +776,7 @@ Click to show links
 -   [Languages by first written accounts, List of](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
 -   [Lucretius (c. 99-55 BCE)](https://en.wikipedia.org/wiki/Lucretius)
 -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
+-   [Marcus Aurelius (121-180 CE)](https://en.wikipedia.org/wiki/Marcus_Aurelius)
 -   [Metacognition](https://en.wikipedia.org/wiki/Metacognition)
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness)
