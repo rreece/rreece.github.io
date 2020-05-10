@@ -58,8 +58,8 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
     -   [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet) (c. 1,050-150 BCE)
     -   [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) (559-330 BCE)
     -   [Macedonia](https://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)) (808-168 BCE)
-    -   The works of [Homer](https://en.wikipedia.org/wiki/Homer) were collected and organised in Athens by
-        [Peisistratos](https://en.wikipedia.org/wiki/Peisistratos) in the late sixth century BCE.
+    -   The works of [Homer](https://en.wikipedia.org/wiki/Homer) were collected and organized in Athens by
+        [Peisistratos](https://en.wikipedia.org/wiki/Peisistratos) in the late 6th century BCE.
     -   [Royal Road](https://en.wikipedia.org/wiki/Royal_Road) rebuilt by [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) c. 500 BCE
     -   [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) (356-323 BCE)
 -   [Ancient India](https://en.wikipedia.org/wiki/History_of_India)
