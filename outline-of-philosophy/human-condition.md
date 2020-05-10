@@ -13,6 +13,7 @@ comparitive studies, biology, and practical philosophy.
 Human history
 --------------------------------------------------------------------------------
 
+### Early hunter gatherers
 
 ![Map of migrations of early homo sapiens ([ancient.eu](https://www.ancient.eu/article/1070/early-human-migration/), 2017).](img/early-human-migration.png){#fig:early-human-migration}
 
@@ -31,9 +32,11 @@ Human history
 
 -   [Clovis culture](https://en.wikipedia.org/wiki/Clovis_culture)
 -   [Younger Dryas impact hypothesis](https://en.wikipedia.org/wiki/Younger_Dryas_impact_hypothesis)
--   TODO: ...
-
 -   [Mesolithic](https://en.wikipedia.org/wiki/Mesolithic)
+
+
+### First civilizations
+
 -   [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution)
 
 [First civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilization):
