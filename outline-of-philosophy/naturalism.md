@@ -300,6 +300,13 @@ Monism and physicalism
 Reductionism
 --------------------------------------------------------------------------------
 
+Leibniz:
+
+>   If controversies were to arise, there would be no more need of disputation
+>   between two philosophers than between two accountants. For it would suffice
+>   to take their pencils in their hands, and say to each other:
+>   *Calculemus*---Let us calculate.[^Leibniz-De-Arte-Combinatoria]
+
 ![The scale of the universe mapped to the branches of science and the hierarchy of science. CC BY-SA 3.0 (2013)
     [Wikimedia Commons](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png).](img/the-scientific-universe.png){#fig:the-scientific-universe}
 
@@ -316,10 +323,11 @@ Alex Rosenberg is a mad dog against emergence. Video:
 
 ![Reductionism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism)).](img/reductionism.png){#fig:reductionism}
 
->   If controversies were to arise, there would be no more need of disputation
->   between two philosophers than between two accountants. For it would suffice
->   to take their pencils in their hands, and say to each other:
->   *Calculemus*---Let us calculate.[^Leibniz-De-Arte-Combinatoria]
+-   Reductive and non-reductive physicalism
+    -   Morris [^Morris2019]
+-   Fundamentality:
+    -   Ney [^Ney2018]
+-   Why "physics is fundamental"
 
 [^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
     This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,
@@ -327,12 +335,6 @@ Alex Rosenberg is a mad dog against emergence. Video:
     TODO: Actually, I haven't found this yet.
     See also @Leibniz_1951_The_Art_of_Discovery, p. 51.
     Supposedly it is also in Russell's *A Critical Exposition of the Philosophy of Leibniz*.
-
--   Reductive and non-reductive physicalism
-    -   Morris [^Morris2019]
--   Fundamentality:
-    -   Ney [^Ney2018]
--   Why "physics is fundamental"
 
 [^Morris2019]: @Morris_2019_Physicalism_Deconstructed_Levels_of_reality\.
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
