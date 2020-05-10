@@ -341,6 +341,13 @@ Texts:
 Other religions
 --------------------------------------------------------------------------------
 
+### Western
+
+-   [Orphism](https://en.wikipedia.org/wiki/Orphism_(religion)) began 6th century BCE
+-   [Old Norse religion](https://en.wikipedia.org/wiki/Old_Norse_religion)
+-   [Norse mythology](https://en.wikipedia.org/wiki/Norse_mythology)
+
+
 ### Dharmic
 
 -   Along with Hinduism and Buddhism, all dharmic religions originated in India.
@@ -414,8 +421,9 @@ Comparitive studies
     -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
     -   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
     -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
-    -   Buddhism and Stoicism
+    -   Buddhism and Orphism
     -   Buddhism and Pyrrhonism
+    -   Buddhism and Stoicism
     -   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 -   McEvilley [^McEvilley2002]
 -   "Silk road philosophy"
