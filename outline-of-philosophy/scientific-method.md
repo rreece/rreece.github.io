@@ -644,7 +644,7 @@ Frigg:
 -   *Models as Mediators* [^Morgan1999]
 
 
-### Digression: Physicists have semantic objections
+### Digression: Some physicists have semantic differences
 
 -   TODO: explain
 -   HEP theorists especially
