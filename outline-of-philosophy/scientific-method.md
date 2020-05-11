@@ -50,7 +50,7 @@ Click to show the paltry outline of the history of science
 -   [Empedocles](https://en.wikipedia.org/wiki/Empedocles) (c. 494-434 BCE)
     -   theory of the four elements
 -   [Protagoras](https://en.wikipedia.org/wiki/Protagoras) (c. 490-420 BCE)
-    -   major [Sophist](https://en.wikipedia.org/wiki/Sophist) - professional tutor
+    -   major [Sophist](https://en.wikipedia.org/wiki/Sophist) - professional tutor, especially in rhetoric.
 -   [Herodotus](https://en.wikipedia.org/wiki/Herodotus) (c. 484-425 BCE)
     -   "Father of history" 
 -   [Socrates](https://en.wikipedia.org/wiki/Socrates) (c. 470-399 BCE)
