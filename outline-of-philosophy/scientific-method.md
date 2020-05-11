@@ -33,37 +33,42 @@ Click to show the paltry outline of the history of science
 ### Antiquity
 
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
--   [Thales of Miletus (c. 624/623-548/545 BCE)](https://en.wikipedia.org/wiki/Thales_of_Miletus)
+-   [Thales of Miletus](https://en.wikipedia.org/wiki/Thales_of_Miletus) (c. 624/623-548/545 BCE)
     -   "first philosopher"
     -   predicted a solar eclipse in 585 BCE
--   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
+-   [Anaximander](https://en.wikipedia.org/wiki/Anaximander) (c. 610-546 BCE)
+    -   speculated on humans evoluted from fish?
+    -   first to make a map?
+-   [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) (570-495 BCE)
     -   radical mathematical realist
--   [Herodotus (c. 484-425 BCE)](https://en.wikipedia.org/wiki/Herodotus) - "Father of history" 
--   [Thucydides (c. 460-400 BCE)](https://en.wikipedia.org/wiki/Thucydides) - "Father of scientific history" 
--   [Mozi (470-391 BCE)](http://en.wikipedia.org/wiki/Mozi)
+-   [Herodotus](https://en.wikipedia.org/wiki/Herodotus) (c. 484-425 BCE)
+    -   "Father of history" 
+-   [Thucydides](https://en.wikipedia.org/wiki/Thucydides) (c. 460-400 BCE)
+    -   "Father of scientific history" 
+-   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
     -   Chinese, not part of the Ionian Enlightenment, but contemporary with it
     -   skepticism, anti-dogmatism
--   [Democritus (460-370 BCE)](http://en.wikipedia.org/wiki/Democritus)
+-   [Democritus](http://en.wikipedia.org/wiki/Democritus) (460-370 BCE)
     -   atomic theory
--   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
+-   [Plato](https://en.wikipedia.org/wiki/Plato) (428/7 or 424/3 - 348/7 BCE)
     -   revolutionized western thought
     -   epistemology
     -   abstract Platonism
-    -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy) from which we derive academia 
--   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
+    -   [Platonic Academy](https://en.wikipedia.org/wiki/Platonic_Academy) (387 BCE - 529 CE) from which we derive academia 
+-   [Aristotle](http://en.wikipedia.org/wiki/Aristotle) (384-322 BCE)
     -   teleological: things have "natural" purposes or tendencies 
--   [Epicurus (341-270 BCE)](https://en.wikipedia.org/wiki/Epicurus)
+-   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
     -   Emphasized skepticism until something can be demonstrated 
     -   Principle of Multiple Explanations: "if several theories are consistent with the observed data, retain them all"
--   [Aristarchus of Samos (310-230 BCE)](http://en.wikipedia.org/wiki/Aristarchus_of_Samos)
--   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
+-   [Aristarchus of Samos](http://en.wikipedia.org/wiki/Aristarchus_of_Samos) (310-230 BCE)
+-   [Euclid](http://en.wikipedia.org/wiki/Euclid) (fl. 300 BCE)
     -    logico-deductive method founded by Euclid's *Elements*
--   [Archimedes (c. 287-212 BCE)](https://en.wikipedia.org/wiki/Archimedes)
--   [Eratosthenes (276-195/194 BCE)](http://en.wikipedia.org/wiki/Eratosthenes)
+-   [Archimedes](https://en.wikipedia.org/wiki/Archimedes) (c. 287-212 BCE)
+-   [Eratosthenes](http://en.wikipedia.org/wiki/Eratosthenes) (276-195/194 BCE)
     -   Estimated the circumference of the Earth to be 50 times the distance between Alexandria and Syene,
         which was pretty acurate as it is actually 47.9 times! [^Weinberg2015p76]
 -   [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism) (between c. 200 and 100 BCE)
--   [Lucretius (99-55 BCE)](http://en.wikipedia.org/wiki/Lucretius)
+-   [Lucretius](http://en.wikipedia.org/wiki/Lucretius) (99-55 BCE)
 
 Weinberg:
 
@@ -103,15 +108,15 @@ Weinberg:
     -   in what is now Khuzestan Province, Iran
 -   [House of Wisdom](https://en.wikipedia.org/wiki/House_of_Wisdom)
     -   in Abbasid-era Baghdad, Iraq
--   [Ibn Sina (980-1037)](https://en.wikipedia.org/wiki/Avicenna) AKA "Avicenna"
--   [Ibn al-Haytham (965-1040)](http://en.wikipedia.org/wiki/Alhazen) AKA "Alhazen"
+-   [Ibn Sina](https://en.wikipedia.org/wiki/Avicenna) (980-1037) AKA "Avicenna"
+-   [Ibn al-Haytham](http://en.wikipedia.org/wiki/Alhazen) (965-1040) AKA "Alhazen"
     -   *Book of Optics*
     -   intromission over extramission theories of vision
     -   *Doubts Concerning Ptolemy*
     -   "But for a man to imagine a circle in the heavens, and to imagine the planet moving in it does not bring about the planet's motion... And therefore the arrangements assumed by Ptolemy for the five planets are false, and he asserted them knowing them to be false, and there exists for the planets a true arrangement in existing bodies which Ptolemy failed to grasp." [^Sabra1978]
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
--   [Bacon, Roger (1214-1292)](http://en.wikipedia.org/wiki/Roger_Bacon)
--   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
+-   [Roger Bacon](http://en.wikipedia.org/wiki/Roger_Bacon) (1214-1292)
+-   [William of Ockham](http://en.wikipedia.org/wiki/William_of_Ockham) (1287-1347)
     -   Ockham's razor as a hint at parsimony and abduction
 
 [^Sabra1978]: @Sabra_1978_An_eleventh_century_refutation_of_Ptolemys\, p. 121--2.
@@ -120,10 +125,10 @@ Weinberg:
 ### Early Modern Period
 
 -   [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
--   [da Vinci, Leonardo (1452-1519)](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
--   [Copernicus, Nicolaus (1473-1543)](http://en.wikipedia.org/wiki/Copernicus)
--   [Tycho Brahe (1546-1601)](https://en.wikipedia.org/wiki/Tycho_Brahe)
--   [Bacon, Francis (1561-1626)](http://en.wikipedia.org/wiki/Francis_Bacon)
+-   [da Vinci, Leonardo](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) (1452-1519)
+-   [Copernicus, Nicolaus](http://en.wikipedia.org/wiki/Copernicus) (1473-1543)
+-   [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) (1546-1601)
+-   [Bacon, Francis](http://en.wikipedia.org/wiki/Francis_Bacon) (1561-1626)
     -   [Dyson quoting Francis Bacon](https://www.edge.org/conversation/freeman_dyson-progress-in-religion)
     -   [Oxford Essential Quotations: Francis Bacon](https://www.oxfordreference.com/view/10.1093/acref/9780191843730.001.0001/q-oro-ed5-00000644)
     -   "God forbid that we should give out a dream of our own imagination for a pattern of the world."
@@ -132,11 +137,11 @@ Weinberg:
         -   *Novum Organum* (1620) bk. 1, Aphorism 10 (tr. J. Spedding)
     -   "Read not to contradict and confute, nor to believe and take for granted, nor to find talk and discourse, but to weigh and consider."
         -   *Essays* (1625) "Of Studies"
--   [Galileo Galilei (1564-1642)](http://en.wikipedia.org/wiki/Galileo_Galilei)
--   [Johannes Kepler (1571-1630)](https://en.wikipedia.org/wiki/Johannes_Kepler)
--   [Hobbes, Thomas (1588-1679)](http://en.wikipedia.org/wiki/Thomas_Hobbes)
--   [Gassendi, Pierre (1592-1655)](http://en.wikipedia.org/wiki/Pierre_Gassendi)
--   [Descartes, Ren&eacute; (1596-1650)](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+-   [Galileo Galilei](http://en.wikipedia.org/wiki/Galileo_Galilei) (1564-1642)
+-   [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) (1571-1630)
+-   [Hobbes, Thomas](http://en.wikipedia.org/wiki/Thomas_Hobbes) (1588-1679)
+-   [Gassendi, Pierre](http://en.wikipedia.org/wiki/Pierre_Gassendi) (1592-1655)
+-   [Descartes, Ren&eacute;](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) (1596-1650)
     -   No teleology. Matter plenum, vorticies.
     -   *Meditations on First Philosophy* (1641) [^Descartes2008]
 
@@ -146,9 +151,9 @@ Weinberg:
 ### The Age of Enlightenment
 
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
--   [Boyle, Robert (1627-1691)](http://en.wikipedia.org/wiki/Robert_Boyle)
--   [Barrow, Isaac (1630-1677)](https://en.wikipedia.org/wiki/Isaac_Barrow)
--   [Locke, John (1632-1704)](http://en.wikipedia.org/wiki/John_Locke)
+-   [Boyle, Robert](http://en.wikipedia.org/wiki/Robert_Boyle) (1627-1691)
+-   [Barrow, Isaac](https://en.wikipedia.org/wiki/Isaac_Barrow) (1630-1677)
+-   [Locke, John](http://en.wikipedia.org/wiki/John_Locke) (1632-1704)
     -   corpuscules
 -   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
 -   [Hooke, Robert (1635-1703)](https://en.wikipedia.org/wiki/Robert_Hooke)
