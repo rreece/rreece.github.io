@@ -42,7 +42,7 @@ Moral antirealism
 
 Thrasymachus in Plato's *Republic*:
 
->   Listen the, I say justice is nothing other than the advantage of the stronger. [^RepublicI338c]
+>   Listen then, I say justice is nothing other than the advantage of the stronger. [^RepublicI338c]
 
 -   Emotivism - Hume, A.J. Ayer
 -   Positivism
