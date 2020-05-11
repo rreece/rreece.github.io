@@ -192,6 +192,8 @@ Platonism
 -   Radical realism
 -   Monism: everything is math.
 
+![Bronnikov, F. (1869). Pythagoreans celebrate sunrise. ([Wikimedia](https://commons.wikimedia.org/wiki/File:Bronnikov_gimnpifagoreizev.jpg), 2007).](img/Bronnikov-Pythagoreans-celebrate-sunrise.jpg){#fig:Bronnikov-Pythagoreans-celebrate-sunrise}
+
 
 ### Plato
 
