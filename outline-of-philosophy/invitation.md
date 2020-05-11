@@ -81,8 +81,8 @@ but once science is actively producing knowledge,
 naturalism says that the way we should think about the world
 and the new questions we ask about it should be informed by science.
 
-Naturalism has its roots in the [Ionian Enlightenment](http://www.naturalism.org/worldview-naturalism/history-of-naturalism) [^Prado2006].
-From there, it has lasted in various forms to bloom through the scientific revolution.
+Both proto-science and naturalism have roots in the [Ionian Enlightenment](http://www.naturalism.org/worldview-naturalism/history-of-naturalism) [^Prado2006].
+From there, naturalism has lasted in various forms to bloom through the scientific revolution.
 In many philosophical movements and counter-movements,
 elements of naturalism have evolved and been refined.
 Heroes for naturalism include Thales, Democritus, 
