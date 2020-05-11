@@ -19,12 +19,13 @@ debate.
 Logic
 --------------------------------------------------------------------------------
 
--   [Euclid (fl. 300 BCE)](http://en.wikipedia.org/wiki/Euclid)
-    -   logico-deductive method founded by Euclid's *Elements*
--   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
+-   [Aristotle](http://en.wikipedia.org/wiki/Aristotle) (384-322 BCE)
     -   founded logic
     -   [Square of opposition](https://en.wikipedia.org/wiki/Square_of_opposition)
     -   *Modus ponens*, *modus tollens*, Affirming the consequent, Proof by contrapositive
+-   [Euclid](http://en.wikipedia.org/wiki/Euclid) (fl. 300 BCE)
+    -   logico-deductive method founded by Euclid's *Elements*
+-   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
 -   [Frege, Gottlob (1848-1925)](https://en.wikipedia.org/wiki/Gottlob_Frege)
 -   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
     -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)

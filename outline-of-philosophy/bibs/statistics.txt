@@ -17,7 +17,7 @@ Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistic
 Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenological Research*, 5(4), 513--32. 
 Carnap, R. (1947). Probability as a guide in life. *Journal of Philosophy*, 44(6), 141--48.
 Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation. *Natural Language Engineering*, 25(6), 753--767.
-Cohen, T. & Welling, M. (2016). Group equivariant convolutional networks. *Proceedings of International Conference on Machine Learning 2016* (pp. 2990--2999). http://proceedings.mlr.press/v48/cohenc16.pdf
+Cohen, T. & Welling, M. (2016). Group equivariant convolutional networks. *Proceedings of International Conference on Machine Learning*, 2016, 2990--9. http://proceedings.mlr.press/v48/cohenc16.pdf
 Cousins, R.D. (2018). Lectures on statistics in theory: Prelude to statistics in practice. https://arxiv.org/abs/1807.05996
 Cowan, G. (1998). *Statistical Data Analysis*. Clarendon Press.
 Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). Asymptotic formulae for likelihood-based tests of new physics. *European Physical Journal C*, 71, 1544. https://arxiv.org/abs/1007.1727

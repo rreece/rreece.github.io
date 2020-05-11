@@ -375,7 +375,7 @@ TODO:
 
 -   defined, MAP
 -   prior sensitivity
-    -   Betancourt, M. (2018). [Towards A Principled Bayesian Workflow](https://github.com/betanalpha/jupyter_case_studies/blob/master/principled_bayesian_workflow/principled_bayesian_workflow.ipynb) - ipynb
+    -   Betancourt, M. (2018). [Towards a principled Bayesian workflow](https://github.com/betanalpha/jupyter_case_studies/blob/master/principled_bayesian_workflow/principled_bayesian_workflow.ipynb) - ipynb
 -   not invariant to reparametrization in general
 -   Jeffreys priors are
 -   Examples:
@@ -974,6 +974,7 @@ Click to show links
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
 -   [Bayes, Thomas (1701-1761)](https://en.wikipedia.org/wiki/Thomas_Bayes)
 -   [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
+-   [Bernoulli, Jacob (1655-1705)](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
 -   [Birnbaum, Allan (1923-1976)](https://en.wikipedia.org/wiki/Allan_Birnbaum)
 -   [Bootstrapping](http://en.wikipedia.org/wiki/Bootstrapping_(statistics))
 -   [Carnap, Rudolf (1891-1970)](http://en.wikipedia.org/wiki/Rudolf_Carnap)

@@ -64,6 +64,7 @@ Click to show the paltry outline of the history of science
 -   [Euclid](http://en.wikipedia.org/wiki/Euclid) (fl. 300 BCE)
     -    logico-deductive method founded by Euclid's *Elements*
 -   [Archimedes](https://en.wikipedia.org/wiki/Archimedes) (c. 287-212 BCE)
+-   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
 -   [Eratosthenes](http://en.wikipedia.org/wiki/Eratosthenes) (276-195/194 BCE)
     -   Estimated the circumference of the Earth to be 50 times the distance between Alexandria and Syene,
         which was pretty acurate as it is actually 47.9 times! [^Weinberg2015p76]
@@ -124,10 +125,10 @@ Russell:
 >   which should resemble, as far as possible, the state of mind of a
 >   person abandoning opinions which he has hitherto held. Contempt
 >   interferes with the first part of this process, and reverence with the
->   second. [^Russell1923p66]
+>   second. [^Russell1945p66]
 
 [^Davis2015]: @Davis_2015_To_Explain_the_World_review\.
-[^Russell1923p66]: @Russell_2009_Human_Knowledge_Its_Scope_and_Limits, p. 66--67.
+[^Russell1945p66]: @Russell_2003_History_of_Western_Philosophy, p. 66--67.
 [^Weinberg2015p7]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 7.
 [^Weinberg2015p11]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 11.
 [^Weinberg2015p13]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 13.
@@ -748,7 +749,7 @@ Russell:
 
 [^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
 [^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
-[^Russell1945pX]: TODO: *History of Western Philosophy* (1945).
+[^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
 
 
 ### Yes: Models of science
