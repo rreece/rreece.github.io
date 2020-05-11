@@ -57,7 +57,7 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
     -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1,754 BCE)
 -   [Hittites](https://en.wikipedia.org/wiki/Hittites) (c. 1,600-1,178 BCE)
     -   [Late Bronze Age collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) (c. 1,200-1,150 BCE)
--   [Ancient Greece](https://en.wikipedia.org/wiki/Ancient_Greece) (c. 1,200-800 BCE - 600 CE)
+-   [Ancient Greece](https://en.wikipedia.org/wiki/Ancient_Greece) (c. 1,200 BCE - 600 CE)
     -   [Minoan civilization](https://en.wikipedia.org/wiki/Minoan_civilization) - [Ancient Crete](https://en.wikipedia.org/wiki/History_of_Crete) (c. 2,700-1,100 BCE)
     -   [Mycenaean Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) (c. 1,600-1,100 BCE)
     -   [Greek Dark Ages](https://en.wikipedia.org/wiki/Greek_Dark_Ages) (c. 1,100-800 BCE)
