@@ -37,7 +37,7 @@ Click to show the paltry outline of the history of science
     -   "first philosopher"
     -   predicted a solar eclipse in 585 BCE
 -   [Anaximander](https://en.wikipedia.org/wiki/Anaximander) (c. 610-546 BCE)
-    -   speculated on humans evoluted from fish?
+    -   speculated that humans evolved from fish?
     -   first to make a map?
 -   [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) (570-495 BCE)
     -   radical mathematical realist
@@ -97,13 +97,13 @@ Weinberg:
 Russell:
 
 >   The Greeks contributed, it is true, something else which proved of
->   more permanaent value to abstract thought: they discovered
+>   more permanent value to abstract thought: they discovered
 >   mathematics and the art of deductive reasoning. Geometry, in
 >   particular, is a Greek invention, without which modern science would
 >   have been impossible. But in connection with mathematics the
 >   one-sidedness of the Greek genius appears: it reasoned deductively from
 >   what appeared self-evident, not inductively from what had been observed.
->   Its amazing successes in the employment of this methd
+>   Its amazing successes in the employment of this method
 >   misled not only the ancient world, but the greater part of the modern
 >   world also. It has only been very slowly that scientific method, which
 >   seeks to reach principles inductively from observations of particular
@@ -116,7 +116,7 @@ Russell:
 >   the intellectual progress of the last four centuries has a cramping
 >   effect upon modern thought.
 >   
->   There is howerever, a more general argument against revernce,
+>   There is however, a more general argument against reverence,
 >   whether for the Greeks or for anyone else. In studying a philosopher,
 >   the right attitude is neither reverence nor contempt, but first a kind of
 >   hypothetical sympathy, until it is possible to know what it feels like to
@@ -242,6 +242,7 @@ Russell:
 
 ### Biological evolution
 
+-   Anaximander speculated that humans evolved from fish?
 -   [Democritus on the historical development of human communities](https://plato.stanford.edu/entries/democritus/)
 -   Hume on humans being animals [^Hume2007pX]
 -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
