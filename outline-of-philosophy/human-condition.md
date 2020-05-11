@@ -50,17 +50,17 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
     -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing begins c. 3,200 BCE.
 -   [Sumer](https://en.wikipedia.org/wiki/Sumer) was first settled between c. 5,500 and 4,000 BCE.
     -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing also begins c. 3,200 BCE.
-    -   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2800 and 2500 BCE.
-    -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334--2,154 BCE)
+    -   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2,800 and 2,500 BCE.
+    -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334-2,154 BCE)
     -   [Babylonia](https://en.wikipedia.org/wiki/Babylonia) - [Babylon](https://en.wikipedia.org/wiki/Babylon) settled c. 2,300 BCE
     -   [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) (c. 1,810-1,750 BCE)
     -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1,754 BCE)
--   [Hittites](https://en.wikipedia.org/wiki/Hittites) (c. 1600-1178 BCE)
-    -   [Late Bronze Age collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) (c. 1200-1150 BCE)
+-   [Hittites](https://en.wikipedia.org/wiki/Hittites) (c. 1,600-1,178 BCE)
+    -   [Late Bronze Age collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) (c. 1,200-1,150 BCE)
 -   [Ancient Greece](https://en.wikipedia.org/wiki/Ancient_Greece) (c. 1,200-800 BCE - 600 CE)
     -   [Minoan civilization](https://en.wikipedia.org/wiki/Minoan_civilization) - [Ancient Crete](https://en.wikipedia.org/wiki/History_of_Crete) (c. 2,700-1,100 BCE)
     -   [Mycenaean Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) (c. 1,600-1,100 BCE)
-    -   [Greek Dark Ages](https://en.wikipedia.org/wiki/Greek_Dark_Ages) (c. 1100-800 BCE)
+    -   [Greek Dark Ages](https://en.wikipedia.org/wiki/Greek_Dark_Ages) (c. 1,100-800 BCE)
     -   [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet) (c. 1,050-150 BCE)
     -   [Sparta](https://en.wikipedia.org/wiki/Sparta) (c. 900-192 BCE)
     -   [Macedonia](https://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)) (808-168 BCE)
@@ -75,10 +75,10 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
 #### Ancient India
 
 -   [Ancient India](https://en.wikipedia.org/wiki/History_of_India)
--   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3,300--1,300 BCE)
+-   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3,300-1,300 BCE)
 -   [Harappa](https://en.wikipedia.org/wiki/Harappa)  settled c. 2,600 BCE
 -   [Mohenjo-daro](https://en.wikipedia.org/wiki/Mohenjo-daro) settled c. 2,500 BCE
--   [Indus script](https://en.wikipedia.org/wiki/Indus_script) (c. 3,500--1,900 BCE) - still not deciphered today!
+-   [Indus script](https://en.wikipedia.org/wiki/Indus_script) (c. 3,500-1,900 BCE) - still not deciphered today!
 -   [Vedic Sanskrit](https://en.wikipedia.org/wiki/Vedic_Sanskrit) writing begins c. 2,000 BCE
 
 #### Ancient China
@@ -86,17 +86,17 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
 -   [Ancient China](https://en.wikipedia.org/wiki/History_of_China)
 -   [Neolithic China](https://en.wikipedia.org/wiki/Neolithic_China)
 -   [Rice domestication](https://en.wikipedia.org/wiki/Rice#Rice_domestication) (11,500--6,200 BCE)
--   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (c. 2,070--1,600 BCE) - no direct records
--   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1,600--1046 BCE)
+-   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (c. 2,070-1,600 BCE) - no direct records
+-   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1,600-1,046 BCE)
 -   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1,250 BCE)
 -   [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) (c. 200 BCE)
 
 #### Mesoamerica
 
 -   [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica)
--   [Norte Chico](https://en.wikipedia.org/wiki/Norte_Chico_civilization) (c. 3,500--1,800 BCE)
+-   [Norte Chico](https://en.wikipedia.org/wiki/Norte_Chico_civilization) (c. 3,500-1,800 BCE)
 -   [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga) settled c. 3,500 BCE
--   [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (c. 1,600--400 BCE)
+-   [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (c. 1,600-400 BCE)
 -   [Olmec hieroglyphs](https://en.wikipedia.org/wiki/Olmec_hieroglyphs) possibly as early as 900 BCE
 -   [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block) with Olmec hieroglyphs possibly as early as c. 1,000 BCE
 
