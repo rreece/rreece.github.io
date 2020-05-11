@@ -56,6 +56,8 @@ Click to show the paltry outline of the history of science
     -   "Father of scientific history" 
 -   [Democritus](http://en.wikipedia.org/wiki/Democritus) (460-370 BCE)
     -   atomic theory
+-   [Hippocrates](https://en.wikipedia.org/wiki/Hippocrates) (c. 460-370 BCE)
+    -   "Father of medicine"
 -   [Plato](https://en.wikipedia.org/wiki/Plato) (428/7 or 424/3 - 348/7 BCE)
     -   revolutionized western thought
     -   epistemology

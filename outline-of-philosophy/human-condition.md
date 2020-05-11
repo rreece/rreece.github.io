@@ -63,6 +63,8 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
 -   The works of [Homer](https://en.wikipedia.org/wiki/Homer) were collected and organized in Athens by
     [Peisistratos](https://en.wikipedia.org/wiki/Peisistratos) in the late 6th century BCE.
 -   [Royal Road](https://en.wikipedia.org/wiki/Royal_Road) rebuilt by [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) c. 500 BCE
+-   [Pericles](https://en.wikipedia.org/wiki/Pericles) (c. 495-429 BCE)
+-   [Fifth-century Athens](https://en.wikipedia.org/wiki/Fifth-century_Athens)
 -   [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) (356-323 BCE)
 
 #### Ancient India
