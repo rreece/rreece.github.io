@@ -39,6 +39,7 @@ Click to show the paltry outline of the history of science
 -   [Anaximander](https://en.wikipedia.org/wiki/Anaximander) (c. 610-546 BCE)
     -   speculated that humans evolved from fish?
     -   first to make a map?
+-   [Anaximenes](https://en.wikipedia.org/wiki/Anaximenes_of_Miletus) (c. 586-526 BCE)
 -   [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) (570-495 BCE)
     -   radical mathematical realist
 -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
@@ -52,9 +53,9 @@ Click to show the paltry outline of the history of science
 -   [Herodotus](https://en.wikipedia.org/wiki/Herodotus) (c. 484-425 BCE)
     -   "Father of history" 
 -   [Socrates](https://en.wikipedia.org/wiki/Socrates) (c. 470-399 BCE)
-    -   first moral philosopher
+    -   First moral philosopher
     -   Socratic method
-    -   teacher of Plato
+    -   Teacher of Plato and Xenophon
 -   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
     -   Chinese, not part of the Ionian Enlightenment, but contemporary with it
     -   skepticism, anti-dogmatism
@@ -64,6 +65,7 @@ Click to show the paltry outline of the history of science
     -   atomic theory
 -   [Hippocrates](https://en.wikipedia.org/wiki/Hippocrates) (c. 460-370 BCE)
     -   "Father of medicine"
+-   [Xenophon](https://en.wikipedia.org/wiki/Xenophon) (c. 431-354 BCE)
 -   [Plato](https://en.wikipedia.org/wiki/Plato) (428/7 or 424/3 - 348/7 BCE)
     -   revolutionized western thought
     -   epistemology
@@ -71,7 +73,10 @@ Click to show the paltry outline of the history of science
     -   [Platonic Academy](https://en.wikipedia.org/wiki/Platonic_Academy) (387 BCE - 529 CE) from which we derive academia 
     -   "the safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato." [^Whitehead1978pX]
 -   [Aristotle](http://en.wikipedia.org/wiki/Aristotle) (384-322 BCE)
-    -   teleological: things have "natural" purposes or tendencies 
+    -   His writings cover many subjects and have influenced the intellectual lexicon of virtually every field of study.
+    -   Riddled with teleological explanation: things have "natural" purposes or tendencies.
+    -   Founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_(Classical)) (334-86 BCE)
+    -   Tutored [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) beginning in 343 BC
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
     -   Emphasized skepticism until something can be demonstrated 
     -   Principle of Multiple Explanations: "if several theories are consistent with the observed data, retain them all"
