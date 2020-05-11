@@ -114,7 +114,7 @@ Radiohead:
 [^Khlentzos2011]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
 [^Korzybski1933p58]: @Korzybski_1933_Science_and_Sanity\, p. 58.
 [^Moore1925]: @Moore_1925_A_defense_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
-[^RepublicVII514]: *Republic VII* 514-520, @Cooper_1997_Plato_Complete_works\, p. 1132--7.
+[^RepublicVII514]: Plato, *Republic VII* 514-520, @Cooper_1997_Plato_Complete_works\, p. 1132--7.
 [^Pritchard2004]: @Pritchard_2004_Contemporary_skepticism\.
 [^Putnam1981]: @Putnam_1981_Reason_Truth_and_History\.
 [^Radiohead2003]: Radiohead. (2003). Song: "There There" on the album *Hail to the Thief*.
@@ -668,8 +668,7 @@ Questions:
     similarly, naturalism is empiricism re-branded.
 
 
-My defense of realism
---------------------------------------------------------------------------------
+### My defense of realism
 
 <div class="clickmore"><a id="link:my_defense_of_realism1" class="closed" onclick="toggle_more('my_defense_of_realism1')">
 1. There is an external world.

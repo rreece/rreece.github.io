@@ -612,7 +612,7 @@ Plato:
 >   to find out what we do not know and that we must not look for
 >   it. [^Meno86c]
 
-[^Meno86c]: *Meno* 86c, @Cooper_1997_Plato_Complete_works\, p. 886.
+[^Meno86c]: Plato, *Meno* 86c, @Cooper_1997_Plato_Complete_works\, p. 886.
 
 
 ### Religion as a natural phenomena

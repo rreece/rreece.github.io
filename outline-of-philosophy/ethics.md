@@ -50,7 +50,7 @@ Thrasymachus in Plato's *Republic*:
 -   Postmodernism
 -   Relativism
 
-[^RepublicI338c]: *Republic I* 338c, @Cooper_1997_Plato_Complete_works\, p. 983.
+[^RepublicI338c]: Plato, *Republic I* 338c, @Cooper_1997_Plato_Complete_works\, p. 983.
 
 
 Moral realism
