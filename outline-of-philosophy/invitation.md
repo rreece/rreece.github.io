@@ -89,7 +89,7 @@ Heroes for naturalism include Thales, Democritus,
 Epicurus, Lucretius, Newton, Hume, Reichenbach, Sellars, Quine, 
 and many others.
 
-[^Prado2006]: @Prado_2006_Ionian_Enchantment_A_Brief_History_of_Scientific\.
+[^Prado2006]: @Prado_2006_Ionian_enchantment_A_brief_history_of_scientific\.
 
 
 Why should I care?

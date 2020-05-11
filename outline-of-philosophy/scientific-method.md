@@ -33,6 +33,7 @@ Click to show the paltry outline of the history of science
 ### Antiquity
 
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
+    -   "Ionian enchantment: A brief history of scientific naturalism" [^Prado2006-2]
 -   [Thales of Miletus](https://en.wikipedia.org/wiki/Thales_of_Miletus) (c. 624/623-548/545 BCE)
     -   "first philosopher"
     -   predicted a solar eclipse in 585 BCE
@@ -148,6 +149,7 @@ Russell:
 >   second. [^Russell1945p66]
 
 [^Davis2015]: @Davis_2015_To_Explain_the_World_review\.
+[^Prado2006-2]: @Prado_2006_Ionian_enchantment_A_brief_history_of_scientific\.
 [^Russell1945p66]: @Russell_2003_History_of_Western_Philosophy, p. 66--67.
 [^Weinberg2015p7]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 7.
 [^Weinberg2015p11]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 11.
