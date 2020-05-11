@@ -288,7 +288,7 @@ More refs:
 -   [Therav&amacr;da Buddhism](https://en.wikipedia.org/wiki/Theravada)
 -   Pali: "The School of the Elders"
 -   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline.
--   [Third Buddhist Council (c. 250 BCE)](https://en.wikipedia.org/wiki/Third_Buddhist_council)
+-   [Third Buddhist Council](https://en.wikipedia.org/wiki/Third_Buddhist_council) (c. 250 BCE)
 
 Doctrines:
 
@@ -366,7 +366,7 @@ Other religions
 
 -   Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   [Jainism](https://en.wikipedia.org/wiki/Jainism)
-    -   [Parshvanatha (c. 800/700 - 700/600 BCE)](https://en.wikipedia.org/wiki/Parshvanatha) - 23th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
+    -   [Parshvanatha](https://en.wikipedia.org/wiki/Parshvanatha) (c. 800/700 - 700/600 BCE) - 23th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
     -   [Mahavira](https://en.wikipedia.org/wiki/Mahaviraswami) (c. 540 - 468 BCE) - 24th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
 -   [Sikhism](https://en.wikipedia.org/wiki/Sikhism) (began at the end of the 15th century CE)
     -   [Guru Nanak](https://en.wikipedia.org/wiki/Guru_Nanak) (1469-1539 CE)
