@@ -80,9 +80,9 @@ Click to show the paltry outline of the history of science
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
     -   Emphasized skepticism until something can be demonstrated 
     -   Principle of Multiple Explanations: "if several theories are consistent with the observed data, retain them all"
--   [Aristarchus of Samos](http://en.wikipedia.org/wiki/Aristarchus_of_Samos) (310-230 BCE)
 -   [Euclid](http://en.wikipedia.org/wiki/Euclid) (fl. 300 BCE)
     -    logico-deductive method founded by Euclid's *Elements*
+-   [Aristarchus of Samos](http://en.wikipedia.org/wiki/Aristarchus_of_Samos) (310-230 BCE)
 -   [Archimedes](https://en.wikipedia.org/wiki/Archimedes) (c. 287-212 BCE)
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
 -   [Eratosthenes](http://en.wikipedia.org/wiki/Eratosthenes) (276-195/194 BCE)
