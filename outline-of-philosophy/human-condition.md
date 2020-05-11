@@ -408,6 +408,13 @@ Three historical phases of Stoicism:
     Only Roman texts from the Late Stoa survive.
 -   Contemporary Stoicism
 
+Related:
+
+-   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
+-   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
+-   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
+-   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
+
 
 ### Theses
 
