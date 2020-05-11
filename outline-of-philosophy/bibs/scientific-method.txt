@@ -42,3 +42,4 @@ Suppes, P. (1967). What is a scientific theory? In Morgenbesser, S. (Ed.) *Philo
 Vickers, J. (2014). The problem of induction. *Stanford Encyclopedia of Philosophy*. https://stanford.library.sydney.edu.au/archives/sum2016/entries/induction-problem/
 Weatherson, B. (2017). Analytic-synthetic and a priori-a posteriori. In Cappelen, H., Gendler, T.S., & Hawthorne, J. (Eds.) *The Oxford Handbook of Philosophical Methodology* (pp. 231--248). Oxford University Press.
 Weinberg, S. (2015). *To Explain The World: The discovery of modern science*. Harper.
+Whitehead, A.N. (1978). *Process and Reality*. New York: The Free Press.

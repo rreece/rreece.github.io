@@ -51,6 +51,10 @@ Click to show the paltry outline of the history of science
     -   major [Sophist](https://en.wikipedia.org/wiki/Sophist) - professional tutor
 -   [Herodotus](https://en.wikipedia.org/wiki/Herodotus) (c. 484-425 BCE)
     -   "Father of history" 
+-   [Socrates](https://en.wikipedia.org/wiki/Socrates) (c. 470-399 BCE)
+    -   first moral philosopher
+    -   Socratic method
+    -   teacher of Plato
 -   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
     -   Chinese, not part of the Ionian Enlightenment, but contemporary with it
     -   skepticism, anti-dogmatism
@@ -65,6 +69,7 @@ Click to show the paltry outline of the history of science
     -   epistemology
     -   abstract Platonism
     -   [Platonic Academy](https://en.wikipedia.org/wiki/Platonic_Academy) (387 BCE - 529 CE) from which we derive academia 
+    -   "the safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato." [^Whitehead1978pX]
 -   [Aristotle](http://en.wikipedia.org/wiki/Aristotle) (384-322 BCE)
     -   teleological: things have "natural" purposes or tendencies 
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
@@ -143,6 +148,7 @@ Russell:
 [^Weinberg2015p11]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 11.
 [^Weinberg2015p13]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 13.
 [^Weinberg2015p76]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 76.
+[^Whitehead1978pX]: @Whitehead_1978_Process_and_Reality\, p. 39.
 
 
 ### The Middle Ages
