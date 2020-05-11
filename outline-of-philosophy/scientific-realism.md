@@ -70,7 +70,9 @@ Stealing from encyclopedia.com:
 Realism and antirealism
 --------------------------------------------------------------------------------
 
-![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
+-   Plato: Allegory of the Cave. [^RepublicVII514]
+
+![Depiction of the scene in the Allegory of the Cave.](img/allegory-of-the-cave.jpg){#fig:allegory-of-the-cave}
 
 -   Naive realism.  Why would I doubt the world I see is real?
 -   Many philosophers in that Early Modern Period had threads of Idealism (wikipedia: reality itself is incorporeal or experiential at its core). *e.g.* George Berkeley, Kant, Friedrich Hegel, Immanuel Kant (1724-1804)
@@ -85,6 +87,8 @@ Realism and antirealism
 -   Am I a more advanced civilization's tamagotchi?
 -   Distinguish Anti-realism from non-realism
 -   The map and the territory
+
+![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
 
 Schr&ouml;dinger quoting Schopenhauer:
 
@@ -110,6 +114,7 @@ Radiohead:
 [^Khlentzos2011]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
 [^Korzybski1933p58]: @Korzybski_1933_Science_and_Sanity\, p. 58.
 [^Moore1925]: @Moore_1925_A_defense_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
+[^RepublicVII514]: *Republic VII* 514-520, @Cooper_1997_Plato_Complete_works\, p. 1132--7.
 [^Pritchard2004]: @Pritchard_2004_Contemporary_skepticism\.
 [^Putnam1981]: @Putnam_1981_Reason_Truth_and_History\.
 [^Radiohead2003]: Radiohead. (2003). Song: "There There" on the album *Hail to the Thief*.
