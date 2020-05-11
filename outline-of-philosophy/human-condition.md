@@ -39,48 +39,59 @@ Human history
 
 The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilization):
 
+#### Fertile Crescent
+
 -   [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
-    -   [Mesopotamia](Mesopotamia)
-    -   First [Natufian](https://en.wikipedia.org/wiki/Natufian_culture) sedentary settlements by 10,000 BCE
-    -   [Pre-Pottery Neolithic A](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A) (c. 12,000-10,800 BCE)
-    -   [G&ouml;bekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe) built between c. 10,000 and 8,000 BCE
-    -   [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt) - [First Dynasty](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt) (c. 3,150-2,890 BCE)
-    -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing begins c. 3,200 BCE
-    -   [Sumer](https://en.wikipedia.org/wiki/Sumer) settled between c. 5,500 and 4,000 BCE
-    -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing also begins c. 3,200 BCE
-    -   [Ancient Crete](https://en.wikipedia.org/wiki/History_of_Crete)
-    -   [Minoan civilization](https://en.wikipedia.org/wiki/Minoan_civilization) (c. 2,700-1,100 BCE)
-    -   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2800 and 2500 BCE
-    -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334--2,154 BCE)
-    -   [Babylonia](https://en.wikipedia.org/wiki/Babylonia) - [Babylon](https://en.wikipedia.org/wiki/Babylon) settled c. 2,300 BCE
-    -   [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) (c. 1,810-1,750 BCE)
-    -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1,754 BCE)
-    -   [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet) (c. 1,050-150 BCE)
-    -   [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) (559-330 BCE)
-    -   [Macedonia](https://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)) (808-168 BCE)
-    -   The works of [Homer](https://en.wikipedia.org/wiki/Homer) were collected and organized in Athens by
-        [Peisistratos](https://en.wikipedia.org/wiki/Peisistratos) in the late 6th century BCE.
-    -   [Royal Road](https://en.wikipedia.org/wiki/Royal_Road) rebuilt by [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) c. 500 BCE
-    -   [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) (356-323 BCE)
+-   [Mesopotamia](Mesopotamia)
+-   First [Natufian](https://en.wikipedia.org/wiki/Natufian_culture) sedentary settlements by 10,000 BCE
+-   [Pre-Pottery Neolithic A](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A) (c. 12,000-10,800 BCE)
+-   [G&ouml;bekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe) built between c. 10,000 and 8,000 BCE
+-   [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt) - [First Dynasty](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt) (c. 3,150-2,890 BCE)
+-   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing begins c. 3,200 BCE
+-   [Sumer](https://en.wikipedia.org/wiki/Sumer) settled between c. 5,500 and 4,000 BCE
+-   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing also begins c. 3,200 BCE
+-   [Ancient Crete](https://en.wikipedia.org/wiki/History_of_Crete)
+-   [Minoan civilization](https://en.wikipedia.org/wiki/Minoan_civilization) (c. 2,700-1,100 BCE)
+-   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2800 and 2500 BCE
+-   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334--2,154 BCE)
+-   [Babylonia](https://en.wikipedia.org/wiki/Babylonia) - [Babylon](https://en.wikipedia.org/wiki/Babylon) settled c. 2,300 BCE
+-   [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) (c. 1,810-1,750 BCE)
+-   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1,754 BCE)
+-   [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet) (c. 1,050-150 BCE)
+-   [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) (559-330 BCE)
+-   [Macedonia](https://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)) (808-168 BCE)
+-   The works of [Homer](https://en.wikipedia.org/wiki/Homer) were collected and organized in Athens by
+    [Peisistratos](https://en.wikipedia.org/wiki/Peisistratos) in the late 6th century BCE.
+-   [Royal Road](https://en.wikipedia.org/wiki/Royal_Road) rebuilt by [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) c. 500 BCE
+-   [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) (356-323 BCE)
+
+#### Ancient India
+
 -   [Ancient India](https://en.wikipedia.org/wiki/History_of_India)
-    -   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3,300--1,300 BCE)
-    -   [Harappa](https://en.wikipedia.org/wiki/Harappa)  settled c. 2,600 BCE
-    -   [Mohenjo-daro](https://en.wikipedia.org/wiki/Mohenjo-daro) settled c. 2,500 BCE
-    -   [Indus script](https://en.wikipedia.org/wiki/Indus_script) (c. 3,500--1,900 BCE) - still not deciphered today!
-    -   [Vedic Sanskrit](https://en.wikipedia.org/wiki/Vedic_Sanskrit) writing begins c. 2,000 BCE
+-   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3,300--1,300 BCE)
+-   [Harappa](https://en.wikipedia.org/wiki/Harappa)  settled c. 2,600 BCE
+-   [Mohenjo-daro](https://en.wikipedia.org/wiki/Mohenjo-daro) settled c. 2,500 BCE
+-   [Indus script](https://en.wikipedia.org/wiki/Indus_script) (c. 3,500--1,900 BCE) - still not deciphered today!
+-   [Vedic Sanskrit](https://en.wikipedia.org/wiki/Vedic_Sanskrit) writing begins c. 2,000 BCE
+
+#### Ancient China
+
 -   [Ancient China](https://en.wikipedia.org/wiki/History_of_China)
-    -   [Neolithic China](https://en.wikipedia.org/wiki/Neolithic_China)
-    -   [Rice domestication](https://en.wikipedia.org/wiki/Rice#Rice_domestication) (11,500--6,200 BCE)
-    -   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (c. 2,070--1,600 BCE) - no direct records
-    -   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1,600--1046 BCE)
-    -   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1,250 BCE)
-    -   [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) (c. 200 BCE)
+-   [Neolithic China](https://en.wikipedia.org/wiki/Neolithic_China)
+-   [Rice domestication](https://en.wikipedia.org/wiki/Rice#Rice_domestication) (11,500--6,200 BCE)
+-   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (c. 2,070--1,600 BCE) - no direct records
+-   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1,600--1046 BCE)
+-   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1,250 BCE)
+-   [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) (c. 200 BCE)
+
+#### Mesoamerica
+
 -   [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica)
-    -   [Norte Chico](https://en.wikipedia.org/wiki/Norte_Chico_civilization) (c. 3,500--1,800 BCE)
-    -   [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga) settled c. 3,500 BCE
-    -   [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (c. 1,600--400 BCE)
-    -   [Olmec hieroglyphs](https://en.wikipedia.org/wiki/Olmec_hieroglyphs) possibly as early as 900 BCE
-    -   [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block) with Olmec hieroglyphs possibly as early as c. 1,000 BCE
+-   [Norte Chico](https://en.wikipedia.org/wiki/Norte_Chico_civilization) (c. 3,500--1,800 BCE)
+-   [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga) settled c. 3,500 BCE
+-   [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (c. 1,600--400 BCE)
+-   [Olmec hieroglyphs](https://en.wikipedia.org/wiki/Olmec_hieroglyphs) possibly as early as 900 BCE
+-   [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block) with Olmec hieroglyphs possibly as early as c. 1,000 BCE
 
 ![Map of the world showing approximate centers of origin of agriculture and
     its spread in prehistory. [^Diamond2003]
@@ -120,21 +131,23 @@ Abrahamism
 -   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
     -   first monotheism
     -   official religion of Ancient Persia from the 6th century BCE to the 7th century CE
+-   [Israelites](https://en.wikipedia.org/wiki/Israelites)
 -   [Abraham](https://en.wikipedia.org/wiki/Abraham) - considered mythical
 -   [Moses](https://en.wikipedia.org/wiki/Moses) - considered mythical
+-   [Isaiah](https://en.wikipedia.org/wiki/Isaiah) (c. 8th to 7th century BCE)
 -   [Judaism](https://en.wikipedia.org/wiki/Judaism) (began 7th century BCE)
 -   [Origins of Judaism](https://en.wikipedia.org/wiki/Origins_of_Judaism)
 -   [Christianity](https://en.wikipedia.org/wiki/Christianity) (began 1st century CE)
     -   Breaks distinction between kinship and tribe. Anyone can join.
--   [Paul the Apostle (c. 5-64 CE)](https://en.wikipedia.org/wiki/Paul_the_Apostle)
+-   [Paul the Apostle](https://en.wikipedia.org/wiki/Paul_the_Apostle) (c. 5-64 CE)
 -   [Islam](https://en.wikipedia.org/wiki/Islam) (began 7th century CE)
--   [Augustine of Hippo (354-430 CE)](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
--   [Muhammad (c. 570-632 CE)](https://en.wikipedia.org/wiki/Muhammad)
--   [East-West Schism (1054 CE)](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism)
--   [Maimonides (c. 1135-1204 CE)](https://en.wikipedia.org/wiki/Maimonides)
--   [Thomas Aquinas (1225-1274 CE)](https://en.wikipedia.org/wiki/Thomas_Aquinas)
+-   [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (354-430 CE)
+-   [Muhammad](https://en.wikipedia.org/wiki/Muhammad) (c. 570-632 CE)
+-   [East-West Schism](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism) (1054 CE)
+-   [Maimonides](https://en.wikipedia.org/wiki/Maimonides) (c. 1135-1204 CE)
+-   [Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas) (1225-1274 CE)
 -   [Catholicism](https://en.wikipedia.org/wiki/Catholicism)
--   [Protestant Reformation (1517-1521 CE)](https://en.wikipedia.org/wiki/Reformation)
+-   [Protestant Reformation](https://en.wikipedia.org/wiki/Reformation) (1517-1521 CE)
 -   [Protestantism](https://en.wikipedia.org/wiki/Protestantism)
 -   [Evangelicalism](https://en.wikipedia.org/wiki/Evangelicalism)
 
@@ -202,12 +215,12 @@ Buddhism
 ### Introduction
 
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism) (began between 6th and 4th centuries BCE)
--   [Siddhartha Gautama Buddha (c. 480-400 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
+-   [Siddhartha Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha) (c. 480-400 BCE)
     -   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
     -   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
     -   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
 -   [Devadatta](https://en.wikipedia.org/wiki/Devadatta)
--   [Ashoka (c. 304-232 BCE)](https://en.wikipedia.org/wiki/Ashoka)
+-   [Ashoka](https://en.wikipedia.org/wiki/Ashoka) (c. 304-232 BCE)
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [Buddhist modernism](https://en.wikipedia.org/wiki/Buddhist_modernism)
 
@@ -302,12 +315,12 @@ Texts:
 -   Mah&amacr;y&amacr;na tradition is the largest major tradition of Buddhism existing today.
 -   Mah&amacr;y&amacr;na Buddhists teach that enlightenment can be attained in a single lifetime, and this can be accomplished even by a layperson.
 -   [Mah&amacr;deva](https://en.wikipedia.org/wiki/Mahadeva_(Buddhism))
--   [N&amacr;g&amacr;rjuna (c. 150-250 CE)](https://en.wikipedia.org/wiki/Nagarjuna)
--   [&Amacr;ryadeva (fl. 3rd century CE)](https://en.wikipedia.org/wiki/Aryadeva)
+-   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
+-   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
 -   [Chan Buddhism](https://en.wikipedia.org/wiki/Chan_Buddhism)
 -   [Zen Buddhism](https://en.wikipedia.org/wiki/Zen)
-    -   Began in China as "Ch&aacute;n" in the [Tang Dynasty (618-907 CE)](https://en.wikipedia.org/wiki/Tang_Dynasty)
+    -   Began in China as "Ch&aacute;n" in the [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
     -   Introduced in Japan in 12th century CE and later romanized as "Zen"
 
 Doctrines:
@@ -354,18 +367,18 @@ Other religions
 -   Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   [Jainism](https://en.wikipedia.org/wiki/Jainism)
     -   [Parshvanatha (c. 800/700 - 700/600 BCE)](https://en.wikipedia.org/wiki/Parshvanatha) - 23th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
-    -   [Mahavira (c. 540 - 468 BCE)](https://en.wikipedia.org/wiki/Mahaviraswami) - 24th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
+    -   [Mahavira](https://en.wikipedia.org/wiki/Mahaviraswami) (c. 540 - 468 BCE) - 24th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
 -   [Sikhism](https://en.wikipedia.org/wiki/Sikhism) (began at the end of the 15th century CE)
-    -   [Guru Nanak (1469-1539 CE)](https://en.wikipedia.org/wiki/Guru_Nanak)
+    -   [Guru Nanak](https://en.wikipedia.org/wiki/Guru_Nanak) (1469-1539 CE)
 
 
 ### East asian
 
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
-    -   [Confucius (551-479 BCE)](https://en.wikipedia.org/wiki/Confucius)
+    -   [Confucius](https://en.wikipedia.org/wiki/Confucius) (551-479 BCE)
 -   [Taoism](https://en.wikipedia.org/wiki/Taoism) (began c. 4th century BCE)
 -   [Shinto](https://en.wikipedia.org/wiki/Shinto)
-    -   [Yayoi period (300 BCE - 300 CE)](https://en.wikipedia.org/wiki/Yayoi_period) - neolithic Japan
+    -   [Yayoi period](https://en.wikipedia.org/wiki/Yayoi_period) (300 BCE - 300 CE) - neolithic Japan
     -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.
     -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
 
@@ -421,11 +434,11 @@ Comparitive studies
 -   Buddhism and Greek philosophy
     -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
     -   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
-    -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
+    -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
     -   Buddhism and Orphism
     -   Buddhism and Pyrrhonism
     -   Buddhism and Stoicism
-    -   [Schopenhauer, Arthur (1788-1860)](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
+    -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
 -   McEvilley [^McEvilley2002]
 -   "Silk road philosophy"
     -   Daniel Estrada
