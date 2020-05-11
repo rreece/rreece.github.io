@@ -44,6 +44,8 @@ Click to show the paltry outline of the history of science
 -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
 -   [Parmenides](https://en.wikipedia.org/wiki/Parmenides) (b. c. 515 BCE)
 -   [Zeno of Elea](https://en.wikipedia.org/wiki/Zeno_of_Elea) (c. 495-430 BCE)
+-   [Empedocles](https://en.wikipedia.org/wiki/Empedocles) (c. 494-434 BCE)
+    -   theory of the four elements
 -   [Protagoras](https://en.wikipedia.org/wiki/Protagoras) (c. 490-420 BCE)
 -   [Herodotus](https://en.wikipedia.org/wiki/Herodotus) (c. 484-425 BCE)
     -   "Father of history" 
