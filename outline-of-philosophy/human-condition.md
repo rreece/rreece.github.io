@@ -344,6 +344,7 @@ Other religions
 ### Western
 
 -   [Orphism](https://en.wikipedia.org/wiki/Orphism_(religion)) began 6th century BCE
+    -   Lead to Pythagoreanism.
 -   [Old Norse religion](https://en.wikipedia.org/wiki/Old_Norse_religion)
 -   [Norse mythology](https://en.wikipedia.org/wiki/Norse_mythology)
 
