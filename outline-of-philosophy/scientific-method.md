@@ -41,13 +41,17 @@ Click to show the paltry outline of the history of science
     -   first to make a map?
 -   [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) (570-495 BCE)
     -   radical mathematical realist
+-   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
+-   [Parmenides](https://en.wikipedia.org/wiki/Parmenides) (b. c. 515 BCE)
+-   [Zeno of Elea](https://en.wikipedia.org/wiki/Zeno_of_Elea) (c. 495-430 BCE)
+-   [Protagoras](https://en.wikipedia.org/wiki/Protagoras) (c. 490-420 BCE)
 -   [Herodotus](https://en.wikipedia.org/wiki/Herodotus) (c. 484-425 BCE)
     -   "Father of history" 
--   [Thucydides](https://en.wikipedia.org/wiki/Thucydides) (c. 460-400 BCE)
-    -   "Father of scientific history" 
 -   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
     -   Chinese, not part of the Ionian Enlightenment, but contemporary with it
     -   skepticism, anti-dogmatism
+-   [Thucydides](https://en.wikipedia.org/wiki/Thucydides) (c. 460-400 BCE)
+    -   "Father of scientific history" 
 -   [Democritus](http://en.wikipedia.org/wiki/Democritus) (460-370 BCE)
     -   atomic theory
 -   [Plato](https://en.wikipedia.org/wiki/Plato) (428/7 or 424/3 - 348/7 BCE)
