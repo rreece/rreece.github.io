@@ -99,6 +99,9 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
     its spread in prehistory. [^Diamond2003]
     ](img/spread-of-agriculture.png){#fig:spread-of-agriculture}
 
+See also the [Outline on the scientific method](scientific-method.html):
+[History of science](scientific-method.html#history-of-science).
+
 Feynman:
 
 >   We are all sad when we think of the wondrous potentialities that human
