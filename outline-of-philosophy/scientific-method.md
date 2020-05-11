@@ -445,7 +445,7 @@ de Swart:
 -   Carnap vs Quine [^Quine1990]
 
 [^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
-[^Quine1990]: @Quine_1990_Dear_Carnap_Dear_van_The_Quine_Carnap\.
+[^Quine1990]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
 
 
 Induction
