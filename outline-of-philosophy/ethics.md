@@ -40,11 +40,17 @@ Consequentialism
 Moral antirealism
 --------------------------------------------------------------------------------
 
+Thrasymachus in Plato's *Republic*:
+
+>   Listen the, I say justice is nothing other than the advantage of the stronger. [^RepublicI338c]
+
 -   Emotivism - Hume, A.J. Ayer
 -   Positivism
 -   Nihilism
 -   Postmodernism
 -   Relativism
+
+[^RepublicI338c]: *Republic I* 338c, @Cooper_1997_Plato_Complete_works\, p. 983.
 
 
 Moral realism
