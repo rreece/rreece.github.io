@@ -29,7 +29,8 @@ McComas, W.F. (2002). The principal elements of the nature of science: Dispellin
 Mill, J.S. (1843). *A System of Logic*. New York: Harper and Brothers.
 Morgan, M.S. & Morrison, M. (1999). *Models as Mediators*. Cambridge University Press.
 Newton, I. (2016). *The Principia: Mathematical Principles of Natural Philosophy* (I. Bernard Cohen and A. Whitman and J. Budenz, Trans.). University of California Press. [(Originally published in 1687)]
-Russell, B. (2009). *Human Knowledge: Its Scope and Limits*. Routledge.
+Russell, B. (2003). *History of Western Philosophy*. Routledge. [(Originally published in 1946)]
+Russell, B. (2009). *Human Knowledge: Its Scope and Limits*. Routledge. [(Originally published in 1923)]
 Russell, G. (2008). *Truth in Virtue of Meaning: A defence of the analytic/synthetic distinction*. Oxford University Press.
 Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*. Chicago University Press.
 Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson and Co. [(Originally published in 1934 as \emph{Logik der Forschung})]

@@ -94,7 +94,40 @@ Weinberg:
 -   TODO: on removing Aristotle's teleology from physics.
 -   Review of *To Explain the World* [^Davis2015]
 
+Russell:
+
+>   The Greeks contributed, it is true, something else which proved of
+>   more permanaent value to abstract thought: they discovered
+>   mathematics and the art of deductive reasoning. Geometry, in
+>   particular, is a Greek invention, without which modern science would
+>   have been impossible. But in connection with mathematics the
+>   one-sidedness of the Greek genius appears: it reasoned deductively from
+>   what appeared self-evident, not inductively from what had been observed.
+>   Its amazing successes in the employment of this methd
+>   misled not only the ancient world, but the greater part of the modern
+>   world also. It has only been very slowly that scientific method, which
+>   seeks to reach principles inductively from observations of particular
+>   facts, has replaced the Hellenic belief in deduction from luminous
+>   axioms derived from the mind of the philosopher. For this reason,
+>   apart from others, it is a mistake to treat the Greeks with
+>   superstitious reverence. Scientific method, though some few among
+>   them were the first men who had an inkling of it, is, on the whole, alien
+>   to their temper of mind, and the attempt to glorify them by belittling
+>   the intellectual progress of the last four centuries has a cramping
+>   effect upon modern thought.
+>   
+>   There is howerever, a more general argument against revernce,
+>   whether for the Greeks or for anyone else. In studying a philosopher,
+>   the right attitude is neither reverence nor contempt, but first a kind of
+>   hypothetical sympathy, until it is possible to know what it feels like to
+>   believe in his theories, and only then a revival of the critical attitude,
+>   which should resemble, as far as possible, the state of mind of a
+>   person abandoning opinions which he has hitherto held. Contempt
+>   interferes with the first part of this process, and reverence with the
+>   second. [^Russell1923p66]
+
 [^Davis2015]: @Davis_2015_To_Explain_the_World_review\.
+[^Russell1923p66]: @Russell_2009_Human_Knowledge_Its_Scope_and_Limits, p. 66--67.
 [^Weinberg2015p7]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 7.
 [^Weinberg2015p11]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 11.
 [^Weinberg2015p13]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 13.
