@@ -210,7 +210,7 @@ Tought experiment on moral naturalism:
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-### Putnam, H. (2004). The Collapse of the Fact/Value Dichotomy and Other Essays.
+### Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*.
 
 -   @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other
 
@@ -221,7 +221,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Portmore, D. (2011). Commonsense Consequentialism.
+### Portmore, D. (2011). *Commonsense Consequentialism*.
 
 -   @Portmore_2011_Commonsense_Consequentialism
 
