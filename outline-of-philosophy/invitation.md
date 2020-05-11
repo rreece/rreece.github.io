@@ -7,6 +7,8 @@ A place to start in the discussion of philosophy of science and naturalism.
 What is this?
 --------------------------------------------------------------------------------
 
+Welcome to *ROP*!
+
 This site is my working draft of notes from thinking about philosophy.
 While the scope of this project is ambitiously large,
 clearly it cannot pretend to represent *all* of philosophy by any stretch.
@@ -89,7 +91,10 @@ Heroes for naturalism include Thales, Democritus,
 Epicurus, Lucretius, Newton, Hume, Reichenbach, Sellars, Quine, 
 and many others.
 
-[^Prado2006]: @Prado_2006_Ionian_enchantment_A_brief_history_of_scientific\.
+[^Prado2006]: @Prado_2006_Ionian_enchantment_A_brief_history_of_scientific
+    gives a nice introduction to the Ionian Enlightenment.
+    Arguably proto-science appeared independently in some other cultures?
+    If you are an expert in proto-science please contact me.
 
 
 Why should I care?
