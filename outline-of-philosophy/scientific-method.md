@@ -95,30 +95,6 @@ Click to show the paltry outline of the history of science
 -   [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism) (between c. 200 and 100 BCE)
 -   [Lucretius](http://en.wikipedia.org/wiki/Lucretius) (99-55 BCE)
 
-Weinberg:
-
->   Like modern scientists, these early Greeks were willing to look beneath
->   the surface appearance of the world, pursuing knowledge about a deeper
->   level of reality. The matter of the world does not appear at first glance
->   as if it is all made of water, or air, or earth, or fire, or all four
->   together, or even atoms. [^Weinberg2015p7]
-
->   Nevertheless, I think one should not overemphasize the modern aspects
->   of Archaic or Greek science. There is an important feature of modern
->   science that is almost completely missing in all the thinkers I have
->   mentioned, from Thales to Plato: none of them attempted to verify or
->   even (aside perhaps from Zeno) seriously to justify their speculations.
->   In reading their writings, one continually wants to ask, "How do you know?"
->   This is just as true of Democritus as of others. Nowhere in the fragments
->   of his books that survive do we see any effort to show that matter
->   really is composed of atoms. [^Weinberg2015p11]
-
->   This did not occur to the early Greeks, or to many of their successors,
->   for a very simple reason: *they had never seen it done*. [^Weinberg2015p13]
-
--   TODO: on removing Aristotle's teleology from physics.
--   Review of *To Explain the World* [^Davis2015]
-
 Russell:
 
 >   The Greeks contributed, it is true, something else which proved of
@@ -150,6 +126,30 @@ Russell:
 >   person abandoning opinions which he has hitherto held. Contempt
 >   interferes with the first part of this process, and reverence with the
 >   second. [^Russell1945p66]
+
+Weinberg:
+
+>   Like modern scientists, these early Greeks were willing to look beneath
+>   the surface appearance of the world, pursuing knowledge about a deeper
+>   level of reality. The matter of the world does not appear at first glance
+>   as if it is all made of water, or air, or earth, or fire, or all four
+>   together, or even atoms. [^Weinberg2015p7]
+
+>   Nevertheless, I think one should not overemphasize the modern aspects
+>   of Archaic or Greek science. There is an important feature of modern
+>   science that is almost completely missing in all the thinkers I have
+>   mentioned, from Thales to Plato: none of them attempted to verify or
+>   even (aside perhaps from Zeno) seriously to justify their speculations.
+>   In reading their writings, one continually wants to ask, "How do you know?"
+>   This is just as true of Democritus as of others. Nowhere in the fragments
+>   of his books that survive do we see any effort to show that matter
+>   really is composed of atoms. [^Weinberg2015p11]
+
+>   This did not occur to the early Greeks, or to many of their successors,
+>   for a very simple reason: *they had never seen it done*. [^Weinberg2015p13]
+
+-   Review of *To Explain the World* [^Davis2015]
+-   TODO: on removing Aristotle's teleology from physics.
 
 [^Davis2015]: @Davis_2015_To_Explain_the_World_review\.
 [^Prado2006-2]: @Prado_2006_Ionian_enchantment_A_brief_history_of_scientific\.
