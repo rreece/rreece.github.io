@@ -204,6 +204,8 @@ Platonism
 -   The Academy (387 BCE - 529 CE): "Let no one ignorant of geometry enter"
 -   Mathematics is descriptive of a real but trans-empirical realm.
 -   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
+-   Plato perhaps doubts Platonism in *Parmenides*
+-   Aristotle on universals
 
 
 ### Contemporary platonism
