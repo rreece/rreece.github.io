@@ -456,6 +456,7 @@ Comparitive studies
     -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
     -   Buddhism and Orphism
     -   Buddhism and Pyrrhonism
+    -   Buddhism and Plato
     -   Buddhism and Stoicism
     -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
 -   McEvilley [^McEvilley2002]
