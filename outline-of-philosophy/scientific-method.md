@@ -78,6 +78,9 @@ Click to show the paltry outline of the history of science
     -   Riddled with teleological explanation: things have "natural" purposes or tendencies.
     -   Founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_(Classical)) (334-86 BCE)
     -   Tutored [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) beginning in 343 BC
+
+![Raphael (1511) *School of Athens* ([Wikimedia](https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg), 2013).](img/Raphael-School-of-Athens-1511.jpg){#fig:Raphael-School-of-Athens-1511}
+
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
     -   Emphasized skepticism until something can be demonstrated 
     -   Principle of Multiple Explanations: "if several theories are consistent with the observed data, retain them all"
