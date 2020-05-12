@@ -79,7 +79,7 @@ Click to show the paltry outline of the history of science
     -   Founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_(Classical)) (334-86 BCE)
     -   Tutored [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) ages 13-16 beginning in 343 BC.
 
-![Raphael (1511) Detail of *School of Athens* showing Plato and Aristotle ([Wikimedia](https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg), 2013).](img/Raphael-School-of-Athens-1511-detail-Plato-Aristotle.jpg){#fig:Raphael-School-of-Athens-1511-detail-Plato-Aristotle}
+![Raphael (1511) Detail of *School of Athens* showing Plato and Aristotle ([Wikimedia](https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg), 2013).](img/Raphael-School-of-Athens-1511-detail-Plato-Aristotle-mod.jpg){#fig:Raphael-School-of-Athens-1511-detail-Plato-Aristotle}
 
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
     -   Emphasized skepticism until something can be demonstrated 
