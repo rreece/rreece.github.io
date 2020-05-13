@@ -1239,6 +1239,8 @@ Click to show links
 -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
 -   [Neyman-Pearson lemma](http://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma)
 -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
+-   [Neurath, Otto (1882-1945)](https://en.wikipedia.org/wiki/Otto_Neurath)
+-   [Neurath's boat](https://en.wikipedia.org/wiki/Neurath%27s_boat)
 -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   [Outline of science](http://en.wikipedia.org/wiki/Outline_of_science)
 -   [Outline of scientific method](http://en.wikipedia.org/wiki/Outline_of_scientific_method)

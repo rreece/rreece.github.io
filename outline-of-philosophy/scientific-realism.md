@@ -1250,6 +1250,7 @@ Click to show links
 -   [Metaphysics](http://en.wikipedia.org/wiki/Metaphysics)
 -   [Meta-ontology](https://en.wikipedia.org/wiki/Meta-ontology)
 -   [Natural Ontological Attitude](http://en.wikipedia.org/wiki/Natural_Ontological_Attitude)
+-   [Neurath, Otto (1882-1945)](https://en.wikipedia.org/wiki/Otto_Neurath)
 -   [New riddle of induction](https://en.wikipedia.org/wiki/New_riddle_of_induction)
 -   [Object-oriented ontology](http://en.wikipedia.org/wiki/Object-oriented_ontology)
 -   [Paradigm](http://en.wikipedia.org/wiki/Paradigm)
