@@ -82,7 +82,7 @@ Realism and antirealism
 -   "Here is one hand" - Moore [^Moore1925]
 -   Challenges to metaphysical realism [^Khlentzos2011].
 -   Contemporary skepticism [^Pritchard2004]
--   The Matrix
+-   "The Matrix as Metaphysics" [^Chalmers2003]
 -   Bostrom - The Simulation Argument
 -   Am I a more advanced civilization's tamagotchi?
 -   Distinguish Anti-realism from non-realism
@@ -111,6 +111,7 @@ Radiohead:
 >   Just 'cause you feel it, doesn't mean it's there. [^Radiohead2003]
 
 [^Borges1998]: @Borges_1998_Collected_Fictions\, p. 325.
+[^Chalmers2003]: @Chalmers_2003_The_Matrix_as_metaphysics\.
 [^Khlentzos2011]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
 [^Korzybski1933p58]: @Korzybski_1933_Science_and_Sanity\, p. 58.
 [^Moore1925]: @Moore_1925_A_defense_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
