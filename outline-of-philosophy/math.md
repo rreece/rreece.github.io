@@ -153,6 +153,18 @@ More:
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
 
 
+Category theory
+--------------------------------------------------------------------------------
+
+-   Origins
+-   relation to set theory
+-   relation to Russell type theory
+-   HoTT
+-   [post on the Cobordism Hypothesis](https://theoreticalatlas.wordpress.com/2013/04/22/seminar-on-cob-hyp/)
+-   Lurie, J. (2009). On the classification of topological field theories. [0905.0465](https://arxiv.org/abs/0905.0465).
+-   [Jacob Lurie's Home Page](https://www.math.ias.edu/~lurie/)
+
+
 Unification programs
 --------------------------------------------------------------------------------
 
