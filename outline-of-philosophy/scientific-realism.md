@@ -610,7 +610,7 @@ I found the above quotes in a talk by Arthur Fine:
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Psillos1999]: @Psillos_1999_Scientific_Realism_How_Science_Tracks_Truth\.
-[^Redhead2001] @Redhead_2001_The_intelligibility_of_the_universe\.
+[^Redhead2001]: @Redhead_2001_The_intelligibility_of_the_universe\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
 
