@@ -712,6 +712,7 @@ Frigg:
 -   "A comparison of the meaning and uses of models in mathematics and the empirical sciences" [^Suppes1961]
 -   "What is a scientific theory?" [^Suppes1967]
 -   *Models as Mediators* [^Morgan1999]
+-   [NPR: How to make sense of all the COVID-19 projections? A new model combines them.](https://www.npr.org/sections/health-shots/2020/05/13/855038708/combining-different-models-new-coronavirus-projection-shows-110-000-deaths-by-ju)
 
 
 ### Digression: Some physicists have semantic differences

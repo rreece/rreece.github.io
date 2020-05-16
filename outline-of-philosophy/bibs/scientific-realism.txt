@@ -18,6 +18,7 @@ Murzi, M. (2004). Vienna circle. *Internet Encyclopedia of Philosophy*. http://w
 Newton, I. (1999). *The Principia: Mathematical Principles of Natural Philosophy* (I.B. Cohen and A. Whitman, Trans.). University of California Press. [(Originally published in 1687)]
 Popper, K. (1963). *Conjectures and Refutations: The Growth of Scientific Knowledge*. Routledge.
 Redhead, M. (1999). Quantum field theory and the philosopher. In Cao, T.Y. (Ed.) *Conceptual Foundations of Quantum Field Theory* (pp. 34--40). Cambridge University Press.
+Redhead, M. (2001). The intelligibility of the universe. *Royal Institute of Philosophy Supplements*, 48, 73--90.
 Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. Oxford University Press.
 Rovelli, C. (2003). A dialog on quantum gravity. https://arxiv.org/abs/hep-th/0310077
 Russell, B. (1945). *A History of Western Philosophy*. Simon & Schuster.

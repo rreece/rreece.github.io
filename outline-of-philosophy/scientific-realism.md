@@ -589,6 +589,7 @@ Science has identified real patterns, relationships, and structures
     -   Ontic Structural Realism (OSR)
 -   *Every Thing Must Go* [^Ladyman2007]
 -   *How science tracks truth* [^Psillos1999]
+-   Redhead [^Redhead2001]
 -   Everything you always wanted to know about structural realism but were afraid to ask [^Frigg2011]
 -   *Scientific Metaphysics* [^Ross2013]
 -   contrast with Bueno's structural empiricism
@@ -607,8 +608,9 @@ I found the above quotes in a talk by Arthur Fine:
     -   Wikipedia: "Inverse problems are some of the most important mathematical problems in science and mathematics because they tell us about parameters that we cannot directly observe."
 
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
-[^Psillos1999]: @Psillos_1999_Scientific_Realism_How_Science_Tracks_Truth\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Psillos1999]: @Psillos_1999_Scientific_Realism_How_Science_Tracks_Truth\.
+[^Redhead2001] @Redhead_2001_The_intelligibility_of_the_universe\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
 
