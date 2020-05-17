@@ -193,9 +193,7 @@ Poincar&eacute;:
 >   Today the theories are born, tomorrow they are the fashion,
 >   the day after tomorrow they are classic,
 >   the fourth day they are superannuated,
->   and the fifth they are forgotten. [^Poincare2014]
-
-TODO: find the page number for above Poincar&eacute; quote.
+>   and the fifth they are forgotten. [^Poincare1913p351]
 
 Rovelli:
 
@@ -226,7 +224,7 @@ Schumm:
 
 -   Putnam: No miracles argument
 
-[^Poincare2014]: @Poincare_2014_The_Foundations_of_Science_Science\.
+[^Poincare1913p351]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 351.
 [^Rovelli2003]: @Rovelli_2003_A_dialog_on_quantum_gravity\, p. 5.
 [^Einstein1922]: @Einstein_1922_Geometry_and_Experience\.
 [^Schumm2004]: @Schumm_2004_Deep_Down_Things\, p. 144.
@@ -426,12 +424,14 @@ Some Carnap works:
     -   "talk of meaning should in any case be eschewed in favor of talk of syntax" - [SEP](https://plato.stanford.edu/entries/carnap/syntax.html)
 -   Carnap's "ESO" [^Carnap1950]
 -   Carnap's "Logical Foundations of Science" [^Carnap1955]
+-   *The Cambridge Companion to Carnap* [^Friedman2007]
 
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
 [^Carnap1937]: @Carnap_1937_Logical_Syntax_of_Language\.
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
+[^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
 [^Ladyman2007pX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO.
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 
@@ -599,7 +599,7 @@ Poincar&eacute;:
 
 >   [W]hat is objective must be common to many minds and consequently transmissible from one to the other. ...
 >   [P]ure quality ... is intransmissible... . But it is not the same with relations...
->   From this point of view, what is objective is ... only pure relation. [^Poincare2014]
+>   From this point of view, what is objective is ... only pure relation. [^Poincare1913p347]
 
 TODO: find the page number for above Poincar&eacute; quote.
 I found the above quotes in a talk by Arthur Fine:
@@ -610,6 +610,7 @@ I found the above quotes in a talk by Arthur Fine:
 
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Poincare1913p347]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 347--8.
 [^Psillos1999]: @Psillos_1999_Scientific_Realism_How_Science_Tracks_Truth\.
 [^Redhead2001]: @Redhead_2001_The_intelligibility_of_the_universe\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
