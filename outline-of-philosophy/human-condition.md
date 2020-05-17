@@ -450,6 +450,9 @@ Theses (Pigliucci?):
 Comparitive studies
 --------------------------------------------------------------------------------
 
+-   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
+    -   Particularly known for his proposition of the existence of a relationship among European and Indo-Aryan languages, which he coined as Indo-European.
+    -   He suggested Sanskrit, Greek, and Latin languages had a common root.
 -   Buddhism and Greek philosophy
     -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
     -   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
@@ -486,6 +489,17 @@ Romanticism
 -   [Romanticism](https://en.wikipedia.org/wiki/Romanticism)
     -   late 18th through 19th centuries
     -   focus on emotion
+
+William Jones, in his 1772 "Essay on the Arts called Imitative", was one of the
+first to propound an expressive theory of poetry, valorising expression over
+description or imitation:
+
+>   If the arguments, used in this essay, have any weight, it will appear,
+>   that the finest parts of poetry, musick, and painting, are expressive of
+>   the passions...the inferior parts of them are descriptive of natural
+>   objects.
+
+[^Jones2013]: @Jones_2013_The_Works_of_Sir_William_Jones\, p. 379.
 
 
 ### Criticism

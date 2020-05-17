@@ -222,6 +222,7 @@ Weinberg:
     -   *The Principia* (1687)
 -   [Leibniz, Gottfried Wilhelm](http://en.wikipedia.org/wiki/Gottfried_Leibniz) (1646-1716)
 -   [Halley, Edmond](http://en.wikipedia.org/wiki/Edmond_Halley) (1656-1742)
+-   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(mathematician)) (1675-1749)
 -   [Berkeley, George](https://en.wikipedia.org/wiki/George_Berkeley) (1685-1753)
 -   [Hume, David](http://en.wikipedia.org/wiki/David_Hume) (1711-1776)
     -   *An Enquiry Concerning Human Understanding* (1748)

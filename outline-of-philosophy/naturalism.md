@@ -312,11 +312,11 @@ Leibniz:
 
 Also compare with the model of levels in @Oppenheim_1958_Unity_of_science_as_a_working_hypothesis.
 
+Wittgenstein:
+
 >   Every statement about complexes can be analysed into a statement about their
 >   constituent parts, and into those propositions which completely
 >   describe the complexes. [^Wittgenstein1922L20201]
-
-[^Wittgenstein1922L20201]:@Wittgenstein_1961_Tractatus_Logico_Philosophicus\, line 2.0201.
 
 Alex Rosenberg is a mad dog against emergence. Video:
 [Alex Rosenberg interviewed for *Why Are We Here?*](https://www.whyarewehere.tv/people/alex-rosenberg/)
@@ -338,6 +338,7 @@ Alex Rosenberg is a mad dog against emergence. Video:
 
 [^Morris2019]: @Morris_2019_Physicalism_Deconstructed_Levels_of_reality\.
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
+[^Wittgenstein1922L20201]:@Wittgenstein_1961_Tractatus_Logico_Philosophicus\, line 2.0201.
 
 
 Natural kinds
