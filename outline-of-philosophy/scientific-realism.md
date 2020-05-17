@@ -348,7 +348,8 @@ Comte on the unknowability of the composition of stars:
 -   Bertrand Russell & Afred North Whitehead
 -   *Principia Mathematica* (1910)
 -   George Edward Moore
--   Wittgenstein, *Tractatus Logico-Philosophicus*. [^Wittgenstein1921]
+-   Wittgenstein
+    -   *Tractatus Logico-Philosophicus* (1921) [^Wittgenstein1921]
     -   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
     -   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
     -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
