@@ -489,6 +489,8 @@ decidedly not naturalistic:
 Romanticism
 --------------------------------------------------------------------------------
 
+-   Proto-romanticism
+    -   [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) (1712-1778)
 -   [Romanticism](https://en.wikipedia.org/wiki/Romanticism)
     -   late 18th through 19th centuries
     -   focus on emotion
@@ -507,6 +509,8 @@ description or imitation:
 
 ### Criticism
 
+-   [Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade) (1740-1814)
+-   [Camille Paglia](https://en.wikipedia.org/wiki/Camille_Paglia)
 -   Alain de Botton
     -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
     -   [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
@@ -583,6 +587,7 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 >   Had God designed the world, it would not be       
 >   A world so frail and faulty as we see. [^Lewis1955]
 
+-   [Jean Meslier](https://en.wikipedia.org/wiki/Jean_Meslier) (1664-1729)
 -   *God is Not Great* [^Hitchens2007]
 
 [^Hitchens2007]: @Hitchens_2007_God_is_Not_Great_How_religion_poisons_everything\.
@@ -651,6 +656,7 @@ Existentialism
     -   Existentialism
     -   Authenticity
     -   Bad faith
+-   [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir) (1908-1986)
 -   Camus
     -   The Absurd
 -   Modernism
@@ -660,6 +666,7 @@ Nihilism
 --------------------------------------------------------------------------------
 
 -   Nietzsche
+-   [Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade) (1740-1814)
 -   @Brassier_2007_Nihil_Unbound
 
 
@@ -744,6 +751,7 @@ Click to show links
 -   [Chinese Metaphysics](https://plato.stanford.edu/entries/chinese-metaphysics/)
 -   [Chinese Philosophy and Science](https://plato.stanford.edu/entries/chinese-phil-science/)
 -   [Daoism](https://plato.stanford.edu/entries/daoism/)
+-   [de Beauvoir, Simone (1908-1986)](https://plato.stanford.edu/entries/beauvoir/)
 -   [Epictetus (55-135)](http://plato.stanford.edu/entries/epictetus/)
 -   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
 -   [Existentialist aesthetics](http://plato.stanford.edu/entries/aesthetics-existentialist/)
@@ -804,6 +812,7 @@ Click to show links
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
 -   [Confucius (551-479 BCE)](https://en.wikipedia.org/wiki/Confucius)
 -   [Dasein](https://en.wikipedia.org/wiki/Dasein)
+-   [de Beauvoir, Simone (1908-1986)](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [*De rerum natura*](https://en.wikipedia.org/wiki/De_rerum_natura)
 -   [*De rerum natura*, List of English translations](https://en.wikipedia.org/wiki/List_of_English_translations_of_De_rerum_natura)

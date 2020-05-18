@@ -95,6 +95,7 @@ Click to show the paltry outline of the history of science
         which was pretty acurate as it is actually 47.9 times! [^Weinberg2015p76]
 -   [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism) (between c. 200 and 100 BCE)
 -   [Lucretius](http://en.wikipedia.org/wiki/Lucretius) (99-55 BCE)
+-   [Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) (c. 100-170 CE)
 
 Russell:
 
