@@ -51,6 +51,7 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
 -   [Sumer](https://en.wikipedia.org/wiki/Sumer) was first settled between c. 5,500 and 4,000 BCE.
     -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing begins c. 3,200 BCE.
     -   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2,800 and 2,500 BCE.
+    -   [Library of Ashurbanipal](https://en.wikipedia.org/wiki/Library_of_Ashurbanipal) (c. 7th century BCE)
     -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334-2,154 BCE)
     -   [Babylonia](https://en.wikipedia.org/wiki/Babylonia) - [Babylon](https://en.wikipedia.org/wiki/Babylon) settled c. 2,300 BCE
     -   [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) (c. 1,810-1,750 BCE)
@@ -462,7 +463,9 @@ Comparitive studies
     -   Buddhism and Plato, *Phaedo*
     -   Buddhism and Stoicism
     -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
--   McEvilley [^McEvilley2002]
+-   McEvilley
+    -   *The Shape of Ancient Thought* [^McEvilley2002]
+    -   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
 -   "Silk road philosophy"
     -   Daniel Estrada
 -   *The Perennial Philosophy*
