@@ -395,6 +395,10 @@ Other religions
     -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.
     -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
 
+### American
+
+-   TODO
+
 
 Stoicism
 --------------------------------------------------------------------------------
@@ -453,7 +457,7 @@ Comparitive studies
 
 -   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
     -   Particularly known for his proposition of the existence of a relationship among European and Indo-Aryan languages, which he coined as Indo-European.
-    -   He suggested Sanskrit, Greek, and Latin languages had a common root.
+    -   He hypothesized that Sanskrit, Greek, and Latin languages had a common root: [Proto-Indo-European language](https://en.wikipedia.org/wiki/Proto-Indo-European_language).
 -   Buddhism and Greek philosophy
     -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
     -   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
