@@ -489,8 +489,20 @@ Hume:
     -   Note discussion by French
 -   Ayer
 
+Reichenbach:
+
+>   It will appear plausible that this answer was given in the frame of a
+>   theory of probability, though the form of this theory is very different
+>   from what might be expected.
+>   To say that observations of the past aer certain, whereas predictions
+>   are merely probable, is not the ultimate answer to the question of
+>   induction; it is only a sort of intermediate answer, which is incomplete
+>   unless a theory of probability is developed that explains what we should
+>   mean by "probable" and on what ground we can assert probabilities. [^Reichenbach1951p93]
+
 [^Hume2007p56]: First footnote in the essay "On Probability" in @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 56.
 [^Hume2007pXX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
+[^Reichenbach1951p93]: @Reichenbach_1951_The_rise_of_scientific_philosophy\, p. 93-4.
 [^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
@@ -629,6 +641,7 @@ Arthur Conan Doyle:
 
 ### Statistics as a solution to the problem of induction
 
+-   Reichenbach
 -   Weisberg [^Weisberg2019appD] - nope
 -   Salmon [^Salmon1963]
 -   Good [^Good1988]
