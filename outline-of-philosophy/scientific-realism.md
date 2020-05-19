@@ -621,6 +621,7 @@ Science has identified real patterns, relationships, and structures
 -   *Every Thing Must Go* [^Ladyman2007]
 -   *How science tracks truth* [^Psillos1999]
 -   Redhead [^Redhead2001]
+-   *Writing The Book of The World* [^Sider2011]
 -   Everything you always wanted to know about structural realism but were afraid to ask [^Frigg2011]
 -   *Scientific Metaphysics* [^Ross2013]
 -   contrast with Bueno's structural empiricism
@@ -644,6 +645,7 @@ I found the above quotes in a talk by Arthur Fine:
 [^Psillos1999]: @Psillos_1999_Scientific_Realism_How_Science_Tracks_Truth\.
 [^Redhead2001]: @Redhead_2001_The_intelligibility_of_the_universe\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
+[^Sider2011]: @Sider_2011_Writing_the_Book_of_the_World\.
 
 
 Feminist epistemology
