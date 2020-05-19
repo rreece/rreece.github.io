@@ -78,7 +78,7 @@ Realism and antirealism
 -   Many philosophers in that Early Modern Period had threads of Idealism (wikipedia: reality itself is incorporeal or experiential at its core). *e.g.* George Berkeley, Kant, Friedrich Hegel, Immanuel Kant (1724-1804)
 -   Skepticism
 -   Descartes' demon
--   Putnam Brain in a vat [^Putnam1981]
+-   Putnam Brain in a vat [^Putnam1981pX]
 -   "Here is one hand" - Moore [^Moore1925]
 -   Challenges to metaphysical realism [^Khlentzos2011].
 -   Contemporary skepticism [^Pritchard2004]
@@ -87,8 +87,6 @@ Realism and antirealism
 -   Am I a more advanced civilization's tamagotchi?
 -   Distinguish Anti-realism from non-realism
 -   The map and the territory
-
-![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
 
 Schr&ouml;dinger quoting Schopenhauer:
 
@@ -117,7 +115,7 @@ Radiohead:
 [^Moore1925]: @Moore_1925_A_defense_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
 [^RepublicVII514]: Plato, *Republic VII* 514-520, @Cooper_1997_Plato_Complete_works\, p. 1132--7.
 [^Pritchard2004]: @Pritchard_2004_Contemporary_skepticism\.
-[^Putnam1981]: @Putnam_1981_Reason_Truth_and_History\.
+[^Putnam1981pX]: @Putnam_1981_Reason_Truth_and_History\, p. TODO.
 [^Radiohead2003]: Radiohead. (2003). Song: "There There" on the album *Hail to the Thief*.
 [^Schopenhauer-Schrodinger]: Schr&ouml;dinger quoting Schopenhauer in "Mind and Matter".
 
@@ -148,6 +146,8 @@ Humeanism and necessity
 Scientific realism
 --------------------------------------------------------------------------------
 
+### First pass
+
 Some attempts at definitions:
 
 Science makes real progress in describing real features of the world.
@@ -163,19 +163,40 @@ Chakravartty:
 >   best theories and models, recommending belief in both observable and unobservable
 >   aspects of the world described by the sciences. [^Chakravartty2011]
 
-[^Chakravartty2007]: @Chakravartty_2007_A_Metaphysics_for_Scientific_Realism\.
-[^Chakravartty2011]: @Chakravartty_2011_Scientific_realism\.
-
 -   Boyd
 -   Sellars
 -   Chakravartty
 -   Psillos
 
+The primary dichotomy of positions is between forms of scientific realism and instrumentalism.
+
+[^Chakravartty2007]: @Chakravartty_2007_A_Metaphysics_for_Scientific_Realism\.
+[^Chakravartty2011]: @Chakravartty_2011_Scientific_realism\.
+
+
+### No miracles argument
+
+There are older forms of the argument, but Putnam's first phrasing that
+magnified the discussion, when he claims that
+
+>   realism is the only philosophy that doesn't make the success of science a
+>   miracle. [^Putnam1975p73]
+
+-   No Miracles Argument (NMA)
+-   Prediction with science works
+-   [Discovery of Neptune](https://en.wikipedia.org/wiki/Discovery_of_Neptune)
+-   Discovery of Higgs boson
+
 ![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
 
+[^Putnam1975p73]: @Putnam_1975_Mathematics_Matter_and_Method\, p. 73.
 
-**Challenges to Scientific Realism:**
 
+### Challenges to Scientific Realism
+
+![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
+
+-   *Resisting Scientific Realism* [^Wray2018]
 -   Underdetermination; language dependence; Duhem-Quine thesis; the problem of translation
 -   Positivism; Instrumentalism; linguistic frameworks; verificationism
 -   Kuhn, Lakatos, Laudan, Feyerabend
@@ -185,6 +206,7 @@ Chakravartty:
 -   See discussion of the Science Wars in [Criticisms of naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism)
 -   TODO: work through the challenges presented in [these videos](https://www.youtube.com/playlist?list=PLz0n_SjOttTenxXXdML7fOu1og3D9LaME).
 -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
+-   TODO: move some of this discussion to the next section on instrumentalism.
 
 Poincar&eacute;:
 
@@ -222,24 +244,32 @@ Schumm:
 >   mathematics and natural science far exceeds the self-contained boundaries
 >   within which it was first developed. [^Schumm2004]
 
--   Putnam: No miracles argument
-
 [^Poincare1913p351]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 351.
 [^Rovelli2003]: @Rovelli_2003_A_dialog_on_quantum_gravity\, p. 5.
 [^Einstein1922]: @Einstein_1922_Geometry_and_Experience\.
 [^Schumm2004]: @Schumm_2004_Deep_Down_Things\, p. 144.
+[^Wray2018]: @Wray_2018_Resisting_Scientific_Realism\.
 
 
 Instrumentalism
 --------------------------------------------------------------------------------
 
+### First pass
+
 Theoretical concepts may have use in predicting observations,
 but we have no ontological commitments to them.
 
 -   antirealist
+
+
+### History
+
 -   Duhem
 -   [Wikipedia](https://en.wikipedia.org/wiki/Instrumentalism): "Initially a novel perspective introduced by Pierre Duhem in 1906, instrumentalism is largely the prevailing theory that underpins the practice of physicists today." [^Torretti1999]
 -   Later Wittgenstein in *PI*. See [Postpositivism](#postpositivism), below.
+
+
+### Discussion
 
 Redhead:
 
