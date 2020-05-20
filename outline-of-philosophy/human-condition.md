@@ -172,7 +172,7 @@ Abrahamism
 >   relate to any period in actual history. [^McNutt1999]
 
 ![Detail of the [religions tree](https://000024.org/religions_tree/religions_tree_8.html),
-    zoomed around Protestant branches.
+    zoomed around Protestant branches (also discussed [here](https://pierwiastekzla.wordpress.com/worldreligionstree/)).
     ](img/religions-tree-wesley.png){#fig:religions-tree-wesley}
 
 [^McNutt1999]: @McNutt_1999_Reconstructing_the_Society_of_Ancient_Israel\, p. 41--42.
