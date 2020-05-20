@@ -43,6 +43,8 @@ Dualism
 -   G&ouml;del
 -   Kripke
 
+![TODO](img/Descartes-mind-body.png){#fig:Descartes-mind-body}
+
 
 Physicalism
 --------------------------------------------------------------------------------

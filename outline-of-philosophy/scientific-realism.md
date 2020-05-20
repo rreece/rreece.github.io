@@ -184,8 +184,6 @@ magnified the discussion, when he claims that
 >   realism is the only philosophy that doesn't make the success of science a
 >   miracle. [^Putnam1975p73]
 
-![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
-
 -   No Miracles Argument (NMA)
 -   Prediction with science works
 -   Putnam
