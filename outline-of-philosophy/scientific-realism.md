@@ -182,12 +182,14 @@ magnified the discussion, when he claims that
 >   realism is the only philosophy that doesn't make the success of science a
 >   miracle. [^Putnam1975p73]
 
+![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
+
 -   No Miracles Argument (NMA)
 -   Prediction with science works
+-   Putnam
+-   Boyd
 -   [Discovery of Neptune](https://en.wikipedia.org/wiki/Discovery_of_Neptune)
 -   Discovery of Higgs boson
-
-![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
 
 [^Putnam1975p73]: @Putnam_1975_Mathematics_Matter_and_Method\, p. 73.
 
@@ -635,7 +637,8 @@ Poincar&eacute;:
 -   Everything you always wanted to know about structural realism but were afraid to ask [^Frigg2011]
 -   *Scientific Metaphysics* [^Ross2013]
 -   Video: Ladyman, J. (2019). [Natural necessity is just the stuff for Ontic Structural Realism](https://www.youtube.com/watch?v=Ausi6Kt9CTE).
-    -   Natural necessity ~ objective modality
+    -   Natural necessity and objective modality
+    -   Humeanism has objective modality but not natural necessity.
 -   Contrast with Bueno's structural empiricism
 
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
