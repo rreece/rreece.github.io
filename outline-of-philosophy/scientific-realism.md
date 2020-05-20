@@ -87,6 +87,8 @@ Realism and antirealism
 -   Am I a more advanced civilization's tamagotchi?
 -   Distinguish Anti-realism from non-realism
 -   The map and the territory
+-   See also [Challenges to scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html#challenges-to-scientific-realism)
+    in the section on [Scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html) below.
 
 Schr&ouml;dinger quoting Schopenhauer:
 
@@ -198,6 +200,7 @@ magnified the discussion, when he claims that
 
 ![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
 
+-   Khlentzos [^Khlentzos2011-2]
 -   *Resisting Scientific Realism* [^Wray2018]
 -   Underdetermination; language dependence; Duhem-Quine thesis; the problem of translation
 -   Positivism; Instrumentalism; linguistic frameworks; verificationism
@@ -246,6 +249,7 @@ Schumm:
 >   mathematics and natural science far exceeds the self-contained boundaries
 >   within which it was first developed. [^Schumm2004]
 
+[^Khlentzos2011-2]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
 [^Poincare1913p351]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 351.
 [^Rovelli2003]: @Rovelli_2003_A_dialog_on_quantum_gravity\, p. 5.
 [^Einstein1922]: @Einstein_1922_Geometry_and_Experience\.
