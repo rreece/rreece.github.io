@@ -61,6 +61,7 @@ Panpsychism
 
 -   Chalmers
 -   rejection of dualism vs physicalism dichotomy
+-   Conway's "freewill theorem"
 
 
 Free will
