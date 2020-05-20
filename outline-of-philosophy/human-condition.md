@@ -390,6 +390,10 @@ Other religions
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
     -   [Confucius](https://en.wikipedia.org/wiki/Confucius) (551-479 BCE)
 -   [Taoism](https://en.wikipedia.org/wiki/Taoism) (began c. 4th century BCE)
+-   Mohism
+    -   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
+    -   anti-tribal: "impartial caring" or "universal love"
+    -   "We begin with what is near."
 -   [Shinto](https://en.wikipedia.org/wiki/Shinto)
     -   [Yayoi period](https://en.wikipedia.org/wiki/Yayoi_period) (300 BCE - 300 CE) - neolithic Japan
     -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.

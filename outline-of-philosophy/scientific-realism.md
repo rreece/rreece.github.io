@@ -613,7 +613,17 @@ Science has identified real patterns, relationships, and structures
 -   Plato's injunction in the *Phaedrus* to carve nature at its joints 
 -   early Wittgenstein: picture theory of language/meaning
 -   strucuturalism more generally and structural anthropology: Claude L&eacute;vi-Strauss
+-   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
+    -   Wikipedia: "Inverse problems are some of the most important mathematical problems in science and mathematics because they tell us about parameters that we cannot directly observe."
 -   Henri Poincar&eacute;
+
+Poincar&eacute;:
+
+>   [W]hat is objective must be common to many minds and consequently transmissible from one to the other. ...
+>   [P]ure quality ... is intransmissible... . But it is not the same with relations...
+>   From this point of view, what is objective is ... only pure relation. [^Poincare1913p347]
+
+-   I found the above quotes in a talk by Arthur Fine, video: [Structural Realism, Then & Now](https://www.youtube.com/watch?v=0tb4_kFHwO4).
 -   John Worrall
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
@@ -624,20 +634,9 @@ Science has identified real patterns, relationships, and structures
 -   *Writing The Book of The World* [^Sider2011]
 -   Everything you always wanted to know about structural realism but were afraid to ask [^Frigg2011]
 -   *Scientific Metaphysics* [^Ross2013]
--   contrast with Bueno's structural empiricism
-
-Poincar&eacute;:
-
->   [W]hat is objective must be common to many minds and consequently transmissible from one to the other. ...
->   [P]ure quality ... is intransmissible... . But it is not the same with relations...
->   From this point of view, what is objective is ... only pure relation. [^Poincare1913p347]
-
-TODO: find the page number for above Poincar&eacute; quote.
-I found the above quotes in a talk by Arthur Fine:
-[Structural Realism, Then & Now](https://www.youtube.com/watch?v=0tb4_kFHwO4).
-
--   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
-    -   Wikipedia: "Inverse problems are some of the most important mathematical problems in science and mathematics because they tell us about parameters that we cannot directly observe."
+-   Video: Ladyman, J. (2019). [Natural necessity is just the stuff for Ontic Structural Realism](https://www.youtube.com/watch?v=Ausi6Kt9CTE).
+    -   Natural necessity
+-   Contrast with Bueno's structural empiricism
 
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.

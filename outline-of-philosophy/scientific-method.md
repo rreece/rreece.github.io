@@ -333,6 +333,7 @@ Rationalism vs empiricism
     -   Kant: "Answering the question: What is Enlightenment?"
         -   *Sapere aude* ("Dare to be wise")
 -   Development of calculus
+-   TODO: rationalism and empiricism in asia.
 
 
 ### Early empiricists
