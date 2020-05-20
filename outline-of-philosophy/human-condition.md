@@ -164,15 +164,15 @@ Abrahamism
 -   [Protestant Reformation](https://en.wikipedia.org/wiki/Reformation) (1517-1521 CE)
 -   [Protestantism](https://en.wikipedia.org/wiki/Protestantism)
 -   [Evangelicalism](https://en.wikipedia.org/wiki/Evangelicalism)
--   [John Wesley](https://en.wikipedia.org/wiki/John_Wesley) (1703-1791)
+-   [John Wesley](https://en.wikipedia.org/wiki/John_Wesley) (1703-1791 CE)
 
 >   The Abraham story cannot be definitively related to any specific time,
 >   and it is widely agreed that the patriarchal age, along with the Exodus
 >   and the period of the Judges, is a late literary construct that does not
 >   relate to any period in actual history. [^McNutt1999]
 
-![Detail of the [religions tree](https://000024.org/religions_tree/religions_tree_8.html),
-    zoomed around Protestant branches (also discussed [here](https://pierwiastekzla.wordpress.com/worldreligionstree/)).
+![Detail of the ["religions tree"](https://000024.org/religions_tree/religions_tree_8.html),
+    zoomed around some Protestant branches (also discussed [here](https://pierwiastekzla.wordpress.com/worldreligionstree/)).
     ](img/religions-tree-wesley.png){#fig:religions-tree-wesley}
 
 [^McNutt1999]: @McNutt_1999_Reconstructing_the_Society_of_Ancient_Israel\, p. 41--42.
