@@ -635,7 +635,7 @@ Poincar&eacute;:
 -   Everything you always wanted to know about structural realism but were afraid to ask [^Frigg2011]
 -   *Scientific Metaphysics* [^Ross2013]
 -   Video: Ladyman, J. (2019). [Natural necessity is just the stuff for Ontic Structural Realism](https://www.youtube.com/watch?v=Ausi6Kt9CTE).
-    -   Natural necessity
+    -   Natural necessity ~ objective modality
 -   Contrast with Bueno's structural empiricism
 
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
