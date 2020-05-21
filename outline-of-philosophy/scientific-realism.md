@@ -80,6 +80,7 @@ Realism and antirealism
 -   Descartes' demon
 -   Putnam Brain in a vat [^Putnam1981pX]
 -   "Here is one hand" - Moore [^Moore1925]
+-   "On Certainty" - Wittgenstein
 -   Challenges to metaphysical realism [^Khlentzos2011].
 -   Contemporary skepticism [^Pritchard2004]
 -   "The Matrix as Metaphysics" [^Chalmers2003]
