@@ -27,6 +27,7 @@ Logic
     -   logico-deductive method founded by Euclid's *Elements*
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
 -   [Frege, Gottlob (1848-1925)](https://en.wikipedia.org/wiki/Gottlob_Frege)
+    -   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift)
 -   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
     -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
     -   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
@@ -40,6 +41,8 @@ Logic
     -   extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
 -   Gillian Russell [^Russell2015]
 -   TODO: basic examples in propositional logic
+-   Michael Dummett
+-   Graham Priest
 
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
 
@@ -458,6 +461,7 @@ Click to show links
 -   [Dedekind's contributions to the foundations of mathematics](http://plato.stanford.edu/entries/dedekind-foundations/)
 -   [Descartes' mathematics](http://plato.stanford.edu/entries/descartes-mathematics/)
 -   [Diagrams](https://plato.stanford.edu/entries/diagrams/)
+-   [Dialetheism](https://plato.stanford.edu/entries/dialetheism/)
 -   [Epistemology of visual thinking in mathematics](http://plato.stanford.edu/entries/epistemology-visual-thinking/)
 -   [Explanation in mathematics](http://plato.stanford.edu/entries/mathematics-explanation/)
 -   [Fictionalism](http://plato.stanford.edu/entries/fictionalism/)
@@ -554,6 +558,7 @@ Click to show links
 -   [Affirming the consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)
 -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
 -   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
+-   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift)
 -   [Brouwer, L.E.J. (1881-1966)](https://en.wikipedia.org/wiki/L._E._J._Brouwer)
 -   [Cantor, Georg (1845-1918)](https://en.wikipedia.org/wiki/Georg_Cantor)
 -   [Category theory](https://en.wikipedia.org/wiki/Category_theory)

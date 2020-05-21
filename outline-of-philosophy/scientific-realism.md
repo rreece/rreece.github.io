@@ -377,6 +377,7 @@ Comte on the unknowability of the composition of stars:
 (He was wrong!)
 
 -   Gottlob Frege
+    -   Sense and reference
 -   Bertrand Russell & Afred North Whitehead
 -   *Principia Mathematica* (1910)
 -   George Edward Moore
