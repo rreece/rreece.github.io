@@ -392,6 +392,7 @@ Scientism
 
 
 -   Usually a pejorative
+    -   Sorell [^Sorell1991]
     -   TODO: find examples
 -   Methodological naturalism
     -   What are the limits of science?
@@ -407,6 +408,7 @@ Scientism
 [^Lawhead20016]: @Lawhead_2016_My_Scientism\.
 [^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
 [^Rosenberg2011AGR]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
+[^Sorell1991]: @Sorell_1991_Scientism_Philosophy_and_the_Infatuation_with\.
 [^Wilson1998]: @Wilson_1998_Consilience\.
 
 
