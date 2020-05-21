@@ -64,6 +64,15 @@ Panpsychism
 -   Conway's "freewill theorem"
 
 
+Neuroscience
+--------------------------------------------------------------------------------
+
+-   Experimental neuroscience
+    -   Libet experiments
+-   Computational neuroscience
+    -   Blue Brain Project
+
+
 Free will
 --------------------------------------------------------------------------------
 
