@@ -70,30 +70,32 @@ Stealing from encyclopedia.com:
 Realism and antirealism
 --------------------------------------------------------------------------------
 
+### Allegory of the Cave
+
+-   Naive realism.  Why would I doubt the world I see is real?
 -   Plato: Allegory of the Cave. [^RepublicVII514]
 
 ![Depiction of the scene in the Allegory of the Cave.](img/allegory-of-the-cave.jpg){#fig:allegory-of-the-cave}
 
--   Naive realism.  Why would I doubt the world I see is real?
+[^RepublicVII514]: Plato, *Republic VII* 514-520, @Cooper_1997_Plato_Complete_works\, p. 1132--7.
+
+
+### Early modern skepticism
+
 -   Many philosophers in that Early Modern Period had threads of Idealism (wikipedia: reality itself is incorporeal or experiential at its core). *e.g.* George Berkeley, Kant, Friedrich Hegel, Immanuel Kant (1724-1804)
 -   Skepticism
 -   Descartes' demon
--   Putnam Brain in a vat [^Putnam1981pX]
+
+
+### Modern skepticism
+
 -   "Here is one hand" - Moore [^Moore1925]
 -   "On Certainty" - Wittgenstein
--   Challenges to metaphysical realism [^Khlentzos2011].
--   Contemporary skepticism [^Pritchard2004]
--   "The Matrix as Metaphysics" [^Chalmers2003]
--   Bostrom - The Simulation Argument
--   Am I a more advanced civilization's tamagotchi?
--   Distinguish Anti-realism from non-realism
 -   The map and the territory
--   See also [Challenges to scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html#challenges-to-scientific-realism)
-    in the section on [Scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html) below.
 
-Schr&ouml;dinger quoting Schopenhauer:
+Korzybski:
 
->   The world extended in space and time is but our representation. [^Schopenhauer-Schrodinger]
+>   A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness. [^Korzybski1933p58]
 
 Borges:
 
@@ -103,24 +105,37 @@ Borges:
 >
 >   ---Su&aacute;rez Miranda, *Viajes de varones prudentes*, Libro IV, Cap. XLV, L&eacute;rida, 1658 [^Borges1998]
 
-Korzybski:
+Schr&ouml;dinger quoting Schopenhauer:
 
->   A map is not the territory it represents, but, if correct, it has a similar structure to the territory, which accounts for its usefulness. [^Korzybski1933p58]
+>   The world extended in space and time is but our representation. [^Schopenhauer-Schrodinger]
+
+[^Borges1998]: @Borges_1998_Collected_Fictions\, p. 325.
+[^Korzybski1933p58]: @Korzybski_1933_Science_and_Sanity\, p. 58.
+[^Moore1925]: @Moore_1925_A_defense_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
+[^Schopenhauer-Schrodinger]: Schr&ouml;dinger quoting Schopenhauer in "Mind and Matter".
+
+
+### Contemporary skepticism
+
+-   Contemporary skepticism [^Pritchard2004]
+-   Putnam Brain in a vat [^Putnam1981pX]
+-   "The Matrix as Metaphysics" [^Chalmers2003]
+-   Bostrom - The Simulation Argument
+    -   Am I a more advanced civilization's tamagotchi?
+-   Challenges to metaphysical realism [^Khlentzos2011].
+-   Distinguish Anti-realism from non-realism
+-   See also [Challenges to scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html#challenges-to-scientific-realism)
+    in the section on [Scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html) below.
 
 Radiohead:
 
 >   Just 'cause you feel it, doesn't mean it's there. [^Radiohead2003]
 
-[^Borges1998]: @Borges_1998_Collected_Fictions\, p. 325.
 [^Chalmers2003]: @Chalmers_2003_The_Matrix_as_metaphysics\.
 [^Khlentzos2011]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
-[^Korzybski1933p58]: @Korzybski_1933_Science_and_Sanity\, p. 58.
-[^Moore1925]: @Moore_1925_A_defense_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
-[^RepublicVII514]: Plato, *Republic VII* 514-520, @Cooper_1997_Plato_Complete_works\, p. 1132--7.
 [^Pritchard2004]: @Pritchard_2004_Contemporary_skepticism\.
 [^Putnam1981pX]: @Putnam_1981_Reason_Truth_and_History\, p. TODO.
 [^Radiohead2003]: Radiohead. (2003). Song: "There There" on the album *Hail to the Thief*.
-[^Schopenhauer-Schrodinger]: Schr&ouml;dinger quoting Schopenhauer in "Mind and Matter".
 
 
 Humeanism and necessity
@@ -216,15 +231,6 @@ magnified the discussion, when he claims that
 -   TODO: work through the challenges presented in [these videos](https://www.youtube.com/playlist?list=PLz0n_SjOttTenxXXdML7fOu1og3D9LaME).
 -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
 -   TODO: move some of this discussion to the next sections on instrumentalism and postpositivism.
-
-Poincar&eacute;:
-
->   At first blush it seems to us that the theories last only a day
->   and that ruins upon ruins accumulate.
->   Today the theories are born, tomorrow they are the fashion,
->   the day after tomorrow they are classic,
->   the fourth day they are superannuated,
->   and the fifth they are forgotten. [^Poincare1913p351]
 
 Rovelli:
 
@@ -487,9 +493,7 @@ Various reactions to positivism.
 -   Karl Popper (1902-1994)
 -   Willard Van Orman Quine (1908-2000)
 -   Thomas Kuhn (1922-1996)
-    -   paradigm shifts
 -   Imre Lakatos (1922-1974)
-    -   scientific research programmes
 -   Nancy Cartwright (b. 1944)
 
 
@@ -516,13 +520,36 @@ Various reactions to positivism.
 [^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
 
 
+### Theory change
+
+-   Poincar&eacute;:
+-   Thomas Kuhn (1922-1996)
+    -   paradigm shifts
+    -   normal science and revolutionary science
+-   Imre Lakatos (1922-1974)
+    -   scientific research programmes
+-   Larry  Laudan (b. 1941)
+    -   Research traditions
+    -   pessimistic meta-induction
+    -   science cannot be value free
+
+Poincar&eacute;:
+
+>   At first blush it seems to us that the theories last only a day
+>   and that ruins upon ruins accumulate.
+>   Today the theories are born, tomorrow they are the fashion,
+>   the day after tomorrow they are classic,
+>   the fourth day they are superannuated,
+>   and the fifth they are forgotten. [^Poincare1913p351]
+
+
 ### Realist turn
 
+-   Poincar&eacute;:
 -   Karl Popper (1902-1994)
     -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
     -   *falsifiability* over *verifiability*
     -   a turn towards realism
--   science cannot be value free
 
 Popper:
 
@@ -597,7 +624,6 @@ Postmodernism
     -   Thomas Kuhn (1922-1996)
     -   Paul Feyerabend (1924-1994)
         -   Epistemological anarchism
-    -   Larry  Laudan (b. 1941)
     -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017-1]
 -   Criticisms of postmodernism:
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011-1]

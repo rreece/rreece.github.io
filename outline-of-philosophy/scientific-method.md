@@ -1077,6 +1077,7 @@ Click to show links
 -   [Foundationalist theories of epistemic justification](http://plato.stanford.edu/entries/justep-foundational/)
 -   [Galileo Galilei (1564-1642)](http://plato.stanford.edu/entries/galileo/)
 -   [Gassendi, Pierre (1592-1655)](http://plato.stanford.edu/entries/gassendi/)
+-   [Historicist theories of scientific sationality](https://plato.stanford.edu/entries/rationality-historicist/)
 -   [Hobbes, Thomas (1588-1679)](http://plato.stanford.edu/entries/hobbes/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
 -   [Ibn Sina (980-1037)](https://plato.stanford.edu/entries/ibn-sina/)
