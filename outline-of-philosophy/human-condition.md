@@ -28,12 +28,23 @@ Human history
 >   Humans migrated to the Americas about 15,000 years ago in the Upper
 >   Paleolithic. [^WikiAncientHistory]
 
+>   Unlike our species, Neanderthals probably did not need to be good
+>   long-distance runners. Homo sapiens lived on hot, dry African grasslands,
+>   where they hunted by pursuing large animals over long distances until they
+>   collapsed from heat exhaustion. In the cooler regions occupied by
+>   Neanderthals, heat exhaustion would not be a problem, so running long
+>   distances would not have helped them hunt. Instead, they took advantage
+>   of their landscape and ambushed prey. [^Marshall2011]
+
 [Hunter-gatherers](https://en.wikipedia.org/wiki/Hunter-gatherer):
 
+-   [Dolni Vestonice](https://en.wikipedia.org/wiki/Doln%C3%AD_V%C4%9Bstonice_(archaeological_site)) earliest human permanent settlment found (c. 24,000 BCE).
 -   [Clovis culture](https://en.wikipedia.org/wiki/Clovis_culture)
 -   [Younger Dryas impact hypothesis](https://en.wikipedia.org/wiki/Younger_Dryas_impact_hypothesis)
 -   [Mesolithic](https://en.wikipedia.org/wiki/Mesolithic)
 
+[^Marshall2011]: Marshal, M. (2011). [You'd beat a Neanderthal in a race](https://www.newscientist.com/article/mg20927984-700-youd-beat-a-neanderthal-in-a-race/). *New Scientist*. February 2, 2011.
+[^WikiAncientHistory]: [en.wikipedia.org/wiki/Ancient_history](https://en.wikipedia.org/wiki/Ancient_history)
 
 ### First civilizations
 
@@ -136,7 +147,6 @@ Feynman:
 
 [^Diamond2003]: @Diamond_2003_Farmers_and_their_languages_the_first_expansions\.
 [^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
-[^WikiAncientHistory]: [en.wikipedia.org/wiki/Ancient_history](https://en.wikipedia.org/wiki/Ancient_history)
 
 
 Abrahamism
