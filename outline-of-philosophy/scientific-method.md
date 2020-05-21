@@ -826,6 +826,8 @@ Russell:
 -   Not a seven-step program
     -   Evidence based, anti-conspiracy, parsimony
     -   Madsen, M.E. (2017). [The real core of the scientific method and why we should trust it](http://notebook.madsenlab.org/essays/2017/06/23/core-scientific-method.html).
+    -   Nola [^Nola1999]
+    -   Nola & Sankey [^Nola2007]
     -   Scientism
     -   See the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
 
@@ -834,6 +836,8 @@ Russell:
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^NewtonpX]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\, p. TODO.
+[^Nola1999]: @Nola_1999_On_the_possibility_of_a_scientific_theory\.
+[^Nola2007]: @Nola_2007_Theories_of_Scientific_Method\.
 [^Popper1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
 
 
