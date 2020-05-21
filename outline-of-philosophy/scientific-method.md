@@ -495,7 +495,7 @@ Reichenbach:
 >   It will appear plausible that this answer was given in the frame of a
 >   theory of probability, though the form of this theory is very different
 >   from what might be expected.
->   To say that observations of the past aer certain, whereas predictions
+>   To say that observations of the past are certain, whereas predictions
 >   are merely probable, is not the ultimate answer to the question of
 >   induction; it is only a sort of intermediate answer, which is incomplete
 >   unless a theory of probability is developed that explains what we should
