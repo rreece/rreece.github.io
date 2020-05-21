@@ -550,6 +550,7 @@ Poincar&eacute;:
     -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
     -   *falsifiability* over *verifiability*
     -   a turn towards realism
+-   Putnam, NMA
 
 Popper:
 
