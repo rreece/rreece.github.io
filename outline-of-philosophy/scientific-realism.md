@@ -200,16 +200,21 @@ magnified the discussion, when he claims that
 
 -   Khlentzos [^Khlentzos2011-2]
 -   *Resisting Scientific Realism* [^Wray2018]
--   Underdetermination; language dependence; Duhem-Quine thesis; the problem of translation
--   Positivism; Instrumentalism; linguistic frameworks; verificationism
--   Kuhn, Lakatos, Laudan, Feyerabend
--   Scientific revolution; paradigm shift; pessimistic meta-induction
+-   Instrumentalism
+    -   Positivism; linguistic frameworks; principle of tolerance; verificationism
+-   Underdetermination
+    -   language dependence; Duhem-Quine thesis; the problem of translation
+-   Scientific revolution
+    -   normal science and revolutionary science; paradigm shift - Kuhn
+    -   pessimistic meta-induction - Laudan
 -   Social constructivism
--   Epistemological anarchism
+    -   The lore of our forefathers  - Quine
+    -   Research traditions - Laudan
+    -   Epistemological anarchism - Feyerabend
 -   See discussion of the Science Wars in [Criticisms of naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism)
 -   TODO: work through the challenges presented in [these videos](https://www.youtube.com/playlist?list=PLz0n_SjOttTenxXXdML7fOu1og3D9LaME).
 -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
--   TODO: move some of this discussion to the next section on instrumentalism.
+-   TODO: move some of this discussion to the next sections on instrumentalism and postpositivism.
 
 Poincar&eacute;:
 
@@ -474,20 +479,20 @@ Some Carnap works:
 Postpositivism
 --------------------------------------------------------------------------------
 
+### Introduction
+
 Various reactions to positivism.
 
 -   Karl Popper (1902-1994)
-    -   *falsifiability* over *verifiability*
-    -   a turn towards realism
-    -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
 -   Willard Van Orman Quine (1908-2000)
-    -   Quine's "Two Dogmas of Empiricism" [^Quine1951]
-        1.  analytic-synthetic distinction
-        2.  reductionism (verification theory of meaning)
-    -   Duhem-Quine thesis
-    -   inscrutability of reference
 -   Thomas Kuhn (1922-1996)
     -   paradigm shifts
+-   Imre Lakatos (1922-1974)
+    -   scientific research programmes
+-   Nancy Cartwright (b. 1944)
+
+
+### Attack on the analytic-synthetic distinction
 
 >   Among the developments that led to the revival of metaphysical theorizing
 >   were Quine's attack on the analytic-synthetic distinction, which was
@@ -495,28 +500,40 @@ Various reactions to positivism.
 >   questions internal to a framework and those external to
 >   it. [^WikipediaMetaphysics]
 
+-   Quine's "Two Dogmas of Empiricism" [^Quine1951]
+    1.  analytic-synthetic distinction
+    2.  reductionism (verification theory of meaning)
+-   Duhem-Quine thesis
+-   inscrutability of reference
 -   Does ontology rest on a mistake? [^Yablo1998]
+-   See also the longer discussion of the [analytic-synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
+    in the [Outline on the scientific method](scientific-method.html).
 
+[^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
+    which also cites @Yablo_1998_Does_ontology_rest_on_a_mistake\.
+[^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
 [^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
+
+
+### Realist turn
+
+-   Karl Popper (1902-1994)
+    -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
+    -   *falsifiability* over *verifiability*
+    -   a turn towards realism
+-   science cannot be value free
 
 Popper:
 
 >   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963pX]
 
-The "death" of positivism:
+[^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
 
--   anti-positivism, Kuhn, Popper
--   post-structuralism, postmodernism (continental)
--   Ayer, A.J. 
 
-Ayer:
+### Ordinary language philosophy
 
->   The most important defect was that nearly all of it was false. [^Ayer1978]
-
-Later Wittgenstein:
-
+-   Late Wittgenstein
 -   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
--   Ordinary language philosophy
 -   Instrumentalist and pragmatist
 -   An imprtant project is to understand the differences between early (*TLP*)
     and late (*PI*) Wittgenstein. It is quite the about-face.
@@ -527,11 +544,20 @@ Wittgenstein in *PI*:
 
 >   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
 
+TODO: find ref of above quote.
+
+
+### The "death" of positivism
+
+-   anti-positivism, Kuhn, Popper
+-   post-structuralism, postmodernism (continental)
+-   Ayer, A.J. 
+
+Ayer:
+
+>   The most important defect was that nearly all of it was false. [^Ayer1978]
+
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
-[^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
-[^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
-[^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
-    which also cites @Yablo_1998_Does_ontology_rest_on_a_mistake\.
 
 
 Pragmatism
@@ -563,17 +589,15 @@ Postmodernism
     -   Jean-Fran&ccedil;ois Lyotard (1924-1998)
     -   Gilles Deleuze (1925-1995)
     -   Michel Foucault (1926-1984)
+    -   Jean Baudrillard (1929-2007)
     -   Jacques Derrida (1930-2004)
+    -   Richard Rorty (1931-2007)
 -   Social constructivism
     -   Thomas Kuhn (1922-1996)
-    -   Imre Lakatos (1922-1974)
     -   Paul Feyerabend (1924-1994)
+        -   Epistemological anarchism
     -   Larry  Laudan (b. 1941)
--   Epistemological anarchism
     -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017-1]
-    -   Ryan: Resonating, going viral, does not indicate that it's true or good for progress.
-    -   Ryan: I've been wanting to write an essay in this vein for years, and this author is better equipped to explain postmodernism than I. This argument could still be further buttressed with a brief history of the Enlightenment carrying empiricism and liberalism. Today there are still empiricist / naturalist / structuralist / realist / pragmatist ways of viewing the world that reject relativism and recognize some objectivity in the truth of claims about the world, be them descriptive or normative. There are better more accurate ways of describing the world and what one should do than others.
-    -   Ryan: It also irritates me that so many people are introduced to continental philosophy, including postmodernism, as if that's the end of philosophy.
 -   Criticisms of postmodernism:
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011-1]
     -   Video: [Explaining Postmodernism In 2018 - Stephen Hicks](https://www.youtube.com/watch?v=-BGbHG63x8w)
