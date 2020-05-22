@@ -6,7 +6,7 @@ Carnap, R. (2003). *The Logical Structure of the World* (R.A. George, Trans.). C
 Carnap, R. & Schilpp, P. A. (1963). *The Philosophy of Rudolf Carnap*. Cambridge University Press. http://fitelson.org/confirmation/carnap_schilpp_volume.pdf
 Creathe, R. (2011). Logical empiricism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/logical-empiricism/
 Fowler, S. (2010). LSL in a nutshell. https://philarchive.org/archive/FOWLIA
-Hahn, H., Neurath, O., & Carnap, R. (1973). The scientific conception of the world: The Vienna Circle. In *Empiricism and Sociology* (M, Neurath and R.S. Cohen, Eds., pp. 298--318). Dordrecht: Reidel. [(Originally published in German in 1929 as "Wissenschaftliche Weltauffassung: Der Wiener Kreis")]
+Hahn, H., Neurath, O., & Carnap, R. (1973). The scientific conception of the world: The Vienna Circle. In M. Neurath & R.S. Cohen (Eds.) *Empiricism and Sociology* (pp. 298--318). Dordrecht: Reidel. [(Originally published in German in 1929 as "Wissenschaftliche Weltauffassung: Der Wiener Kreis")]
 #Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus* (C.K. Ogden, Trans.). London: Kegan Paul, Trench, Trubner & Co. [(Originally published in German in 1921)]
 Wittgenstein, L. (1961). *Tractatus Logico-Philosophicus* (D.F. Pears and B.F. McGuinness, Trans.). Routledge. [(Originally published in German in 1921)]
 Wittgenstein, L. (2009). *Philosophical Investigations* (4 ed.) (P. Hacker and J. Schulte, Eds. E. Anscombe and P. Hacker, Trans.). Wiley-Blackwell. [(Originally published in 1953)]
