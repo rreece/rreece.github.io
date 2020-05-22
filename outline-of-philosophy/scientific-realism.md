@@ -122,6 +122,7 @@ Schr&ouml;dinger quoting Schopenhauer:
 -   "The Matrix as Metaphysics" [^Chalmers2003]
 -   Bostrom - The Simulation Argument
     -   Am I a more advanced civilization's tamagotchi?
+-   TODO: There's a lot more to antirealism than skepticism about the external world.
 -   Challenges to metaphysical realism [^Khlentzos2011].
 -   Distinguish Anti-realism from non-realism
 -   See also [Challenges to scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html#challenges-to-scientific-realism)

@@ -667,6 +667,14 @@ Plato:
 
 -   *Breaking the Spell: Religion as a natural phenomenon* [^Dennett2006]
 
+
+### Costs of metaphysical confusion
+
+-   Horrific: war, genocide, terrorism
+-   Family strife
+-   Misplaced efforts, wasted time
+-   Harris
+
 [^Dennett2006]: @Dennett_2006_Breaking_the_Spell_Religion_as_a_natural\.
 
 
