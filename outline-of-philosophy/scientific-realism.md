@@ -231,7 +231,7 @@ magnified the discussion, when he claims that
 [^Putnam1975p73]: @Putnam_1975_Mathematics_Matter_and_Method\, p. 73.
 
 
-### Challenges to Scientific Realism
+### Challenges to scientific realism
 
 ![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
 
