@@ -142,6 +142,15 @@ Radiohead:
 Humeanism and necessity
 --------------------------------------------------------------------------------
 
+### Necessitary connections
+
+-   Hume's doctrine of no necessitary connections.
+-   Emphasize the naturalist revolution within Humean views.
+-   See the [Outline on naturalism](naturalism.html).
+
+
+### Laws of nature
+
 -   Laws of nature
 -   Humean vs Non-humean :: regularity vs necessitarianism
 -   *The Concept of Physical Law* [^Swartz2003]
@@ -149,21 +158,27 @@ Humeanism and necessity
 -   Donald Davidson
 -   David Lewis on Humean supervenience:
 
+[^Swartz2003]: @Swartz_2003_The_Concept_of_Physical_Law\.
+[^Swartz2009]: @Swartz_2009_Laws_of_nature\.
+
+
+### Humean supervenience
+
 >   Humean supervenience is named in honor of the great denier of necessary
 >   connections. It is the doctrine that all there is to the world is a vast
 >   mosaic of local matters of particular fact, just one little thing and then
 >   another. [^Lewis1986pix]
 
--   *On the Plurality of Worlds* (1986)
--   Emphasize the naturalist revolution within Humean views.
--   See the [Outline on naturalism](naturalism.html).
+[^Lewis1986pix]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
+
+
+### Modal logic
+
+-   *On the Plurality of Worlds* (1986) [^Lewis1986]
 -   Saul Kripke on necessity
 -   Modal logic
 
 [^Lewis1986]: @Lewis_1986_On_the_Plurality_of_Worlds\.
-[^Lewis1986pix]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
-[^Swartz2003]: @Swartz_2003_The_Concept_of_Physical_Law\.
-[^Swartz2009]: @Swartz_2009_Laws_of_nature\.
 
 
 Scientific realism
