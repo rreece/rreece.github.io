@@ -411,12 +411,16 @@ Comte on the unknowability of the composition of stars:
 
 -   Vienna circle [^Murzi2004]
     -   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Otto Neurath, and others.
+    -   von Neuman, Hilbert, Wittgenstein
+    -   "The scientific conception of the world" - The Vienna Circle's manifesto [^Hahn1973]
 -   A.J. Ayer (1910-1989)
     -   *Language, Truth, and Logic* (1936) [^Ayer1936]
 -   Schlipp [^Schlipp1963]
--   von Neuman, Hilbert
+-   *International Encyclopedia of Unified Science*
+    -   Only the first section *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
+[^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\.
 [^Schlipp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 
@@ -425,7 +429,6 @@ Comte on the unknowability of the composition of stars:
 
 -   Logical empiricism - Creathe [^Creathe2011]
 -   Hans Reichenbach (1891-1953) and the Berlin Circle
--   International Encyclopedia of Unified Science
 
 TODO: Note any differences between:
 
@@ -506,17 +509,19 @@ Various reactions to positivism.
 >   questions internal to a framework and those external to
 >   it. [^WikipediaMetaphysics]
 
--   Quine's "Two Dogmas of Empiricism" [^Quine1951]
+-   Quine's "Two Dogmas of Empiricism" [^Quine1951-2]
     1.  analytic-synthetic distinction
     2.  reductionism (verification theory of meaning)
 -   Duhem-Quine thesis
 -   inscrutability of reference
+-   Quine-Carnap correspondence [^Quine1990-2]
 -   Does ontology rest on a mistake? [^Yablo1998]
 -   See also the longer discussion of the [analytic-synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
     in the [Outline on the scientific method](scientific-method.html).
 
-[^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
+[^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
     which also cites @Yablo_1998_Does_ontology_rest_on_a_mistake\.
+[^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
 [^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
 [^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
 

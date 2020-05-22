@@ -189,6 +189,7 @@ Descartes (often seen as anti-naturalist, explain, but he) wrote in 1644,
 >   principal ones, namely, Medicine, Mechanics, and Ethics. [^Descartes1644pxxiv]
 
 -   In the boat with Neurath.
+-   *International Encyclopedia of Unified Science*
 
 Sellars:
 
