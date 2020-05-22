@@ -155,14 +155,15 @@ Humeanism and necessity
 -   Humean vs Non-humean :: regularity vs necessitarianism
 -   *The Concept of Physical Law* [^Swartz2003]
 -   Was Hume really humean about laws? [^Swartz2009]
--   Donald Davidson
--   David Lewis on Humean supervenience:
 
 [^Swartz2003]: @Swartz_2003_The_Concept_of_Physical_Law\.
 [^Swartz2009]: @Swartz_2009_Laws_of_nature\.
 
 
 ### Humean supervenience
+
+-   Donald Davidson
+-   David Lewis on Humean supervenience:
 
 >   Humean supervenience is named in honor of the great denier of necessary
 >   connections. It is the doctrine that all there is to the world is a vast
