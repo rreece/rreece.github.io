@@ -142,8 +142,10 @@ Radiohead:
 Humeanism and necessity
 --------------------------------------------------------------------------------
 
--   laws of nature
+-   Laws of nature
 -   Humean vs Non-humean :: regularity vs necessitarianism
+-   *The Concept of Physical Law* [^Swartz2003]
+-   Was Hume really humean about laws? [^Swartz2009]
 -   Donald Davidson
 -   David Lewis on Humean supervenience:
 
@@ -160,6 +162,8 @@ Humeanism and necessity
 
 [^Lewis1986]: @Lewis_1986_On_the_Plurality_of_Worlds\.
 [^Lewis1986pix]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
+[^Swartz2003]: @Swartz_2003_The_Concept_of_Physical_Law\.
+[^Swartz2009]: @Swartz_2009_Laws_of_nature\.
 
 
 Scientific realism
@@ -528,15 +532,15 @@ Various reactions to positivism.
 
 ### Theory change
 
--   Poincar&eacute;:
+-   Poincar&eacute;
 -   Thomas Kuhn (1922-1996)
     -   paradigm shifts
     -   normal science and revolutionary science
 -   Imre Lakatos (1922-1974)
     -   scientific research programmes
 -   Larry  Laudan (b. 1941)
-    -   Research traditions
-    -   pessimistic meta-induction
+    -   scientific research traditions
+    -   pessimistic meta-induction (PMI)
     -   science cannot be value free
 
 Poincar&eacute;:
@@ -551,11 +555,12 @@ Poincar&eacute;:
 
 ### Realist turn
 
--   Poincar&eacute;:
+-   a turn towards realism
+-   Poincar&eacute;
+    -   structure
 -   Karl Popper (1902-1994)
     -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
     -   *falsifiability* over *verifiability*
-    -   a turn towards realism
 -   Putnam, NMA
 
 Popper:
