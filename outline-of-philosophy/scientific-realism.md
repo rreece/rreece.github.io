@@ -435,14 +435,12 @@ Comte on the unknowability of the composition of stars:
     -   "The scientific conception of the world" - The Vienna Circle's manifesto [^Hahn1973]
 -   A.J. Ayer (1910-1989)
     -   *Language, Truth, and Logic* (1936) [^Ayer1936]
--   Schlipp [^Schlipp1963]
 -   *International Encyclopedia of Unified Science*
     -   Only the first section *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\.
-[^Schlipp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 
 
 ### Logical empiricism and the Berlin Circle
@@ -493,8 +491,9 @@ Some Carnap works:
 -   *The Logical Syntax of Language* [^Carnap1937]
     -   LSL in a nutshell [^Fowler2010]
     -   "talk of meaning should in any case be eschewed in favor of talk of syntax" - [SEP](https://plato.stanford.edu/entries/carnap/syntax.html)
--   Carnap's "ESO" [^Carnap1950]
--   Carnap's "Logical Foundations of Science" [^Carnap1955]
+-   "Empiricists, semantics, and ontology" [^Carnap1950]
+-   "Logical foundations of science" [^Carnap1955]
+-   *The Philosophy of Rudolf Carnap* AKA the "Schlipp volume" [^Schlipp1963]
 -   *The Cambridge Companion to Carnap* [^Friedman2007]
 
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
@@ -505,6 +504,7 @@ Some Carnap works:
 [^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
 [^Ladyman2007pX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO.
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
+[^Schlipp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 
 
 Postpositivism
