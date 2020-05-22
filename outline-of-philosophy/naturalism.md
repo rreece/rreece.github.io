@@ -454,7 +454,9 @@ Criticisms of naturalism
     -   Rosenberg, A. [Why I am a naturalist.](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) *New York Times*. [^Rosenberg2011]
     -   Mallon, R. (2019). [Naturalistic approaches to social construction.](https://plato.stanford.edu/entries/social-construction-naturalistic/) *Stanford Encyclopedia of Philosophy*. 
 -   Criticisms of postmodernism:
+    -   Hicks, S. (2010). [Why Kant is the turning point.](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/)
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011]
+    -   Video: [Explaining Postmodernism In 2018 - Stephen Hicks](https://www.youtube.com/watch?v=-BGbHG63x8w)
     -   Boghossian, P. (2006). *Fear of Knowledge*. [^Boghossian2006]
     -   Sartwell, C. (2015). [Philosophy returns to the real world.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) *New York Times*. [^Sartwell2015]
     -   Pluckrose, H. (2016). [Why I no longer identify as a feminist.](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/) *Areo Magazine*. [^Pluckrose2016]
