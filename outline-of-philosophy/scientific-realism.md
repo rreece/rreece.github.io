@@ -530,6 +530,7 @@ Various reactions to positivism.
 -   Quine's "Two Dogmas of Empiricism" [^Quine1951-2]
     1.  analytic-synthetic distinction
     2.  reductionism (verification theory of meaning)
+-   Quine: pale gray lore. TODO: find quote.
 -   Duhem-Quine thesis
 -   inscrutability of reference
 -   Quine-Carnap correspondence [^Quine1990-2]
