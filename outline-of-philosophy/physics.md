@@ -359,7 +359,10 @@ TODO
 
 ### Bell's theorem
 
-TODO
+-   TODO
+-   Mermin [^Mermin1985]
+
+[^Mermin1985]: @Mermin_1985_Is_the_moon_there_when_nobody_looks_Reality\.
 
 
 ### Copenhagen "interpretation"
@@ -416,6 +419,15 @@ TODO
 -   relational quantum mechanics
 -   transactional quantum mechanics
 -   ...
+
+
+### Bad takes
+
+-   MIT Technology Review. (2019). [A quantum experiment suggests there's no such thing as objective reality](https://www.technologyreview.com/2019/03/12/136684/a-quantum-experiment-suggests-theres-no-such-thing-as-objective-reality/)
+    -   Proietti [^Proietti2019]
+    -   Weinberg, J. et al. (2019). [Philosophers on a physics experiment that "suggests there's no such thing as objective reality"](http://dailynous.com/2019/03/21/philosophers-physics-experiment-suggests-theres-no-thing-objective-reality/). *Daily Nous*. March 21, 2019.
+
+[^Proietti2019]: @Proietti_2019_Experimental_test_of_local_observer_independence\.
 
 
 The standard model of particle physics
