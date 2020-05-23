@@ -471,18 +471,9 @@ Russell:
 >   at one stroke a block theory of the whole universe. Its methods, in this respect, 
 >   resemble those of science. [^Russell1945p834]
 
-See also:
-
--   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism) - scientific realism vs antirealism
--   [positivists.org/blog/movements](http://positivists.org/blog/movements)
-
-Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
-
--   Carnap and Reichenbach move to the US
+-   Carnap and Reichenbach move to the US.
 -   Positivism affects the structure of education and law
 -   Connection to the projects of Dewey and pragmatism
--   Neopositivism
--   Ladyman & Ross [^Ladyman2007pX]
 
 Some Carnap works:
 
@@ -495,6 +486,13 @@ Some Carnap works:
 -   "Logical foundations of science" [^Carnap1955]
 -   *The Philosophy of Rudolf Carnap* AKA the "Schlipp volume" [^Schlipp1963]
 -   *The Cambridge Companion to Carnap* [^Friedman2007]
+
+Also:
+
+-   Movements in "positivism": [positivists.org/blog/movements](http://positivists.org/blog/movements)
+-   Neopositivism
+-   Ladyman & Ross [^Ladyman2007pX]
+-   Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
 
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
 [^Carnap1937]: @Carnap_1937_Logical_Syntax_of_Language\.
