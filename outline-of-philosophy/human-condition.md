@@ -425,9 +425,10 @@ Other religions
 -   [Daoism](https://en.wikipedia.org/wiki/Daoism) (began c. 4th century BCE)
     -   Dao - unplanned rhythms of the universe called "the way"
     -   struggle between order and chaos
-    -   *Yijing* (also romanized as *I Ching*) - "Book of Changes"  (c. 1,000-300 BCE)
     -   [Wuxing](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)) - "Five Elements"
+    -   *Yijing* (also romanized as *I Ching*) - "Book of Changes"  (c. 900 BCE)
     -   Yijing Studies by Bradford Hatcher at [hermetica.info](https://www.hermetica.info/)
+    -   *Dazhuan* - "The Great Commentary"
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
     -   [Confucius](https://en.wikipedia.org/wiki/Confucius) (551-479 BCE)
     -   Confucius studied the *Yijing*
@@ -442,6 +443,11 @@ Other religions
     -   [Yayoi period](https://en.wikipedia.org/wiki/Yayoi_period) (300 BCE - 300 CE) - neolithic Japan
     -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.
     -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
+
+>   Creating. The greatest fulfillment rewards persistence. [^Yijing]
+
+[^YijingGua01]: *Yijing*, Gua 01.
+
 
 ### American
 
@@ -894,6 +900,7 @@ Click to show links
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
 -   [Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths)
 -   [Gautama Buddha (c. 563 BCE to 483 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
+-   [Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence)
 -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
 -   [Heart Sutra](https://en.wikipedia.org/wiki/Heart_Sutra)
 -   [Heidegger, Martin (1889-1976)](https://en.wikipedia.org/wiki/Martin_Heidegger)
