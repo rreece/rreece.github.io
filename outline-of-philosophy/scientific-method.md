@@ -724,6 +724,7 @@ Frigg:
 >   other in one model. [^Frigg2020]
 
 -   "Surrogative Reasoning Condition" [^Frigg2017]
+-   Hugh Everett's thesis, Appendix II
 -   ["What is the difference between a model and a theory?"](https://physics.stackexchange.com/questions/187967/what-is-the-difference-between-a-model-and-a-theory) - physics.stackexchange.com
 -   "A comparison of the meaning and uses of models in mathematics and the empirical sciences" [^Suppes1961]
 -   "What is a scientific theory?" [^Suppes1967]

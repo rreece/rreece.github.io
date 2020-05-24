@@ -379,12 +379,24 @@ TODO
 
 ### Everettian interpretation
 
+>   A theory containing many _ad hoc_ constants and restrictions,
+>   or many independent hypotheses, in no way impresses us as much
+>   as one which is largely free of arbitrariness. [^Barrett2012p171]
+
 -   Everett
--   DeWitt
+-   DeWitt [^DeWitt1970]
 -   note relationship with decoherence
+-   Barrett [^Barrett2011]
+-   Everett's collected works [^Barrett2012]
+-   Carroll's mad-dog Everettianism [^Carroll2019-2]
 -   *Something Deeply Hidden* [^Carroll2019]
 
+[^Barrett2011]: @Barrett_2011_Everetts_pure_wave_mechanics_and_the_notion\.
+[^Barrett2012p171]: @Barrett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\, p. 171.
+[^Barrett2012]: @Barrett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\.
+[^Carroll2019-2]: @Carroll_2019_Mad_Dog_everettianism_quantum_mechanics_at_its\.
 [^Carroll2019]: @Carroll_2019_Something_Deeply_Hidden\.
+[^DeWitt1970]: @DeWitt_1970_Quantum_mechanics_and_reality\.
 
 
 ### Collapse interpretations

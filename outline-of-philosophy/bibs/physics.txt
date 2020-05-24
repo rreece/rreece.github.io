@@ -3,11 +3,15 @@ Baggott, J. (2013). *Farewell to Reality: How modern physics has betrayed the se
 Bain, J. (2000). Against particle/field duality: Asymptotic particle states and interpolating fields in interacting QFT, or Who's afraid of Haag's theorem? *Erkenntnis*, 53(3), 375--406.
 Bain, J. (2013). Effective field theories. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 224--254). Oxford University Press.
 Bain, J. (2013). Emergence in effective field theories. *European Journal for Philosophy of Science*, 3(3), 257--273.
+Barrett, J.A. & Byrne, P. (2012). *The Everett Interpretation of Quantum Mechanics: Collected Works 1955-1980 with Commentary*.
+Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *European Journal for Philosophy of Science*, 1(2), 277--302.
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
 Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
-Carroll, S. (2004). *Spacetime and Geometry*. Addison Wesley.
-Carroll, S. (2019). *Something Deeply Hidden*. Dutton.
+Carroll, S.M. (2004). *Spacetime and Geometry*. Addison Wesley.
+Carroll, S.M. (2019). *Something Deeply Hidden*. Dutton.
+Carroll, S.M. & Singh, A. (2019). Mad-Dog everettianism: quantum mechanics at its most minimal. In *What is Fundamental?* (pp. 95--104). Springer. https://arxiv.org/abs/1801.08132
 Coleman, S. & Mandula, J. (1967). All possible symmetries of the S matrix. *Physical Review*, 159(5), 1251--1256.
+DeWitt, B.S. (1970). Quantum mechanics and reality. *Physics Today*, 23(9), 30--35.
 Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. In Falkenburg, B. & Morrison, M. (Eds.) *Why More is Different: Philosophical issues in condensed matter physics and complex systems* (pp. 41--54). Springer.
 Duncan, A. (2012). *Conceptual Framework of Quantum Field Theory*. Oxford University Press.
 Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. *Physical Review*, 75(11), 1736.
@@ -38,6 +42,7 @@ Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of 
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24). Oxford University Press.
 Seidewitz, E. (2017). Avoiding Haag's Theorem with Parameterized Quantum Field Theory. *Foundations of Physics*, 47(3), 355--374.
 Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.
+Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, III. https://space.mit.edu/home/tegmark/everett/
 Teller, Paul (1997). *An Interpretive Introduction to Quantum Field Theory*. Princeton University Press.
 't Hooft, G. (2007). Lie Groups in Physics. http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf
 Weinberg, S. (1996). What is quantum field theory, and what did we think it is? *Conceptual foundations of quantum field theory: Proceedings, Symposium and Workshop, Boston, USA, March 1-3, 1996*. http://arxiv.org/abs/hep-th/9702027
