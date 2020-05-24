@@ -701,6 +701,7 @@ Plato:
 ### Religion as a natural phenomena
 
 -   *Breaking the Spell: Religion as a natural phenomenon* [^Dennett2006]
+-   anthropology
 
 
 ### Costs of metaphysical confusion
@@ -708,7 +709,9 @@ Plato:
 -   Horrific: war, genocide, terrorism
 -   Family strife
 -   Misplaced efforts, wasted time
--   Harris
+-   Evil eye
+-   Sam Harris
+-   Xenophanes?, Epicurus, Lucretius
 
 [^Dennett2006]: @Dennett_2006_Breaking_the_Spell_Religion_as_a_natural\.
 
