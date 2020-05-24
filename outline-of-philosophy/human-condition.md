@@ -103,6 +103,7 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
 -   [Neolithic China](https://en.wikipedia.org/wiki/Neolithic_China)
 -   [Rice domestication](https://en.wikipedia.org/wiki/Rice#Rice_domestication) (11,500--6,200 BCE)
 -   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (c. 2,070-1,600 BCE) - no direct records
+-   [Xianren Cave](https://en.wikipedia.org/wiki/Xianren_Cave)
 -   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1,600-1,046 BCE)
 -   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1,250 BCE)
 -   [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) (c. 200 BCE)
@@ -152,24 +153,39 @@ Feynman:
 Abrahamism
 --------------------------------------------------------------------------------
 
--   [Zoroaster](https://en.wikipedia.org/wiki/Zoroaster) (lived between c. 1,500 and 1,000 BCE)
+### Zoroastrianism
+
 -   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
-    -   first monotheism
-    -   official religion of Ancient Persia from the 6th century BCE to the 7th century CE
+-   [Zoroaster](https://en.wikipedia.org/wiki/Zoroaster) (lived between c. 1,500 and 1,000 BCE)
+-   first monotheism
+-   official religion of Ancient Persia from the 6th century BCE to the 7th century CE
+
+
+### Judaism
+
+-   [Judaism](https://en.wikipedia.org/wiki/Judaism) (began 7th century BCE)
+-   [Origins of Judaism](https://en.wikipedia.org/wiki/Origins_of_Judaism)
 -   [Israelites](https://en.wikipedia.org/wiki/Israelites)
 -   [Abraham](https://en.wikipedia.org/wiki/Abraham) - considered mythical
 -   [Moses](https://en.wikipedia.org/wiki/Moses) - considered mythical
 -   [Isaiah](https://en.wikipedia.org/wiki/Isaiah) (c. 8th to 7th century BCE)
--   [Judaism](https://en.wikipedia.org/wiki/Judaism) (began 7th century BCE)
--   [Origins of Judaism](https://en.wikipedia.org/wiki/Origins_of_Judaism)
--   [Christianity](https://en.wikipedia.org/wiki/Christianity) (began 1st century CE)
-    -   Breaks distinction between kinship and tribe. Anyone can join.
--   [Paul the Apostle](https://en.wikipedia.org/wiki/Paul_the_Apostle) (c. 5-64 CE)
--   [Islam](https://en.wikipedia.org/wiki/Islam) (began 7th century CE)
--   [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (354-430 CE)
--   [Muhammad](https://en.wikipedia.org/wiki/Muhammad) (c. 570-632 CE)
--   [East-West Schism](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism) (1054 CE)
 -   [Maimonides](https://en.wikipedia.org/wiki/Maimonides) (c. 1135-1204 CE)
+
+>   The Abraham story cannot be definitively related to any specific time,
+>   and it is widely agreed that the patriarchal age, along with the Exodus
+>   and the period of the Judges, is a late literary construct that does not
+>   relate to any period in actual history. [^McNutt1999]
+
+[^McNutt1999]: @McNutt_1999_Reconstructing_the_Society_of_Ancient_Israel\, p. 41--42.
+
+
+### Christianity
+
+-   [Christianity](https://en.wikipedia.org/wiki/Christianity) (began 1st century CE)
+-   Breaks distinction between kinship and tribe. Anyone can join.
+-   [Paul the Apostle](https://en.wikipedia.org/wiki/Paul_the_Apostle) (c. 5-64 CE)
+-   [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (354-430 CE)
+-   [East-West Schism](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism) (1054 CE)
 -   [Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas) (1225-1274 CE)
 -   [Catholicism](https://en.wikipedia.org/wiki/Catholicism)
 -   [Protestant Reformation](https://en.wikipedia.org/wiki/Reformation) (1517-1521 CE)
@@ -177,16 +193,19 @@ Abrahamism
 -   [Evangelicalism](https://en.wikipedia.org/wiki/Evangelicalism)
 -   [John Wesley](https://en.wikipedia.org/wiki/John_Wesley) (1703-1791 CE)
 
->   The Abraham story cannot be definitively related to any specific time,
->   and it is widely agreed that the patriarchal age, along with the Exodus
->   and the period of the Judges, is a late literary construct that does not
->   relate to any period in actual history. [^McNutt1999]
-
 ![Detail of the ["religions tree"](https://000024.org/religions_tree/religions_tree_8.html),
     zoomed around some Protestant branches (also discussed [here](https://pierwiastekzla.wordpress.com/worldreligionstree/)).
     ](img/religions-tree-wesley.png){#fig:religions-tree-wesley}
 
-[^McNutt1999]: @McNutt_1999_Reconstructing_the_Society_of_Ancient_Israel\, p. 41--42.
+
+### Islam
+
+-   [Islam](https://en.wikipedia.org/wiki/Islam) (began 7th century CE)
+-   [Muhammad](https://en.wikipedia.org/wiki/Muhammad) (c. 570-632 CE)
+-   [Sunni Islam](https://en.wikipedia.org/wiki/Sunni_Islam) - 75-90% of living Muslims
+-   [Shia Islam](https://en.wikipedia.org/wiki/Shia_Islam)
+-   [Sufism](https://en.wikipedia.org/wiki/Sufism)
+-   [Safavid conversion of Iran to Shia Islam](https://en.wikipedia.org/wiki/Safavid_conversion_of_Iran_to_Shia_Islam)
 
 
 Hinduism
@@ -380,7 +399,6 @@ Texts:
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
 
 
-
 Other religions
 --------------------------------------------------------------------------------
 
@@ -404,10 +422,16 @@ Other religions
 
 ### East asian
 
+-   [Daoism](https://en.wikipedia.org/wiki/Daoism) (began c. 4th century BCE)
+    -   Dao - unplanned rhythms of the universe called "the way"
+    -   struggle between order and chaos
+    -   *I Ching* (c. 1,000-300 BCE)
+    -   [Wuxing](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)) - "Five Elements"
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
     -   [Confucius](https://en.wikipedia.org/wiki/Confucius) (551-479 BCE)
--   [Taoism](https://en.wikipedia.org/wiki/Taoism) (began c. 4th century BCE)
--   Mohism
+    -   Confucius studied the *I Ching*
+    -   [Rectification of names](https://en.wikipedia.org/wiki/Rectification_of_names)
+-   [Mohism](https://en.wikipedia.org/wiki/Mohism)
     -   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
     -   anti-tribal: "impartial caring" or "universal love"
     -   "We begin with what is near."

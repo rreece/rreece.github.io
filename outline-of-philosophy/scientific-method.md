@@ -216,19 +216,15 @@ Weinberg:
 -   [Boyle, Robert](http://en.wikipedia.org/wiki/Robert_Boyle) (1627-1691)
 -   [Barrow, Isaac](https://en.wikipedia.org/wiki/Isaac_Barrow) (1630-1677)
 -   [Locke, John](http://en.wikipedia.org/wiki/John_Locke) (1632-1704)
-    -   corpuscules
 -   [Spinoza, Baruch](http://en.wikipedia.org/wiki/Baruch_Spinoza) (1632-1677)
 -   [Hooke, Robert](https://en.wikipedia.org/wiki/Robert_Hooke) (1635-1703)
 -   [Newton, Isaac](http://en.wikipedia.org/wiki/Isaac_Newton) (1642-1727)
-    -   *The Principia* (1687)
 -   [Leibniz, Gottfried Wilhelm](http://en.wikipedia.org/wiki/Gottfried_Leibniz) (1646-1716)
 -   [Halley, Edmond](http://en.wikipedia.org/wiki/Edmond_Halley) (1656-1742)
 -   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(mathematician)) (1675-1749)
 -   [Berkeley, George](https://en.wikipedia.org/wiki/George_Berkeley) (1685-1753)
 -   [Hume, David](http://en.wikipedia.org/wiki/David_Hume) (1711-1776)
-    -   *An Enquiry Concerning Human Understanding* (1748)
 -   [Kant, Immanuel](https://en.wikipedia.org/wiki/Immanuel_Kant) (1724-1804)
-    -   *Critique of Pure Reason* (1781)
 
 
 ### Canonical classical physics
@@ -348,16 +344,24 @@ Rationalism vs empiricism
 -   Ren&eacute; Descartes (1596-1650)
 -   Baruch Spinoza (1632-1677)
 -   Gottfried Wilhelm Leibniz (1646-1716)
+    -   *New Essays on Human Understanding* (1765)
 
 
 ### British empiricists
 
 -   Robert Boyle (1627-1691)
 -   John Locke (1632-1704)
+    -   corpuscules
 -   George Berkeley (1685-1753)
 -   David Hume (1711-1776)
+    -   *An Enquiry Concerning Human Understanding* (1748)
 
 ![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig:mandik-2016-11-1-eyeballs}
+
+>   [W]hatever I write, as soon as I discover it not to be true,
+>   my hand shall be the forwardest to throw it into the fire.
+
+TODO: find the above quote from Locke.
 
 
 ### Important synthesizers
