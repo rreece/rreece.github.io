@@ -718,6 +718,7 @@ Existentialism
 
 -   Nietzsche
     -   "God is dead"
+    -   "the mouth of the first immoralist", *Ecce Homo*
 -   Heidegger
     -   Dasein
 -   Sartre
@@ -944,6 +945,7 @@ Click to show links
 -   [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
 -   [Stoicism, Modern](https://en.wikipedia.org/wiki/Modern_Stoicism)
 -   [*Story of Civilization, The*](https://en.wikipedia.org/wiki/The_Story_of_Civilization)
+-   [Suda](https://en.wikipedia.org/wiki/Suda)
 -   [Tantra](https://en.wikipedia.org/wiki/Tantra)
 -   [Taoism](https://en.wikipedia.org/wiki/Taoism)
 -   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
