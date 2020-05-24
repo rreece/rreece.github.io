@@ -18,20 +18,20 @@ Classical physics
 --------------------------------------------------------------------------------
 
 -   History:
-    -   [Newton, Isaac (1642-1727)](http://en.wikipedia.org/wiki/Isaac_Newton)
-    -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
-    -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://en.wikipedia.org/wiki/Gottfried_Leibniz)
-    -   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
-    -   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
-    -   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
-    -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
-    -   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
-    -   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
-    -   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
+    -   [Newton, Isaac](http://en.wikipedia.org/wiki/Isaac_Newton) (1642-1727)
+    -   [Halley, Edmond](http://en.wikipedia.org/wiki/Edmond_Halley) (1656-1742)
+    -   [Leibniz, Gottfried Wilhelm](http://en.wikipedia.org/wiki/Gottfried_Leibniz) (1646-1716)
+    -   [Euler, Leonhard](http://en.wikipedia.org/wiki/Euler) (1707-1783)
+    -   [Lagrange, Joseph-Louis](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) (1736-1813)
+    -   [Laplace, Pierre-Simon](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) (1749-1827)
+    -   [Gauss, Carl Friedrich](http://en.wikipedia.org/wiki/Gauss) (1777-1855)
+    -   [Fraunhofer, Joseph von](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) (1787-1826)
+    -   [Cauchy, Augustin-Louis](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) (1789-1857)
+    -   [Faraday, Michael](http://en.wikipedia.org/wiki/Michael_Faraday) (1791-1867)
         -   Invented the concept of a *field*
-    -   [Hamilton, William Rowan (1805-1865)](http://en.wikipedia.org/wiki/William_Rowan_Hamilton)
-    -   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
-    -   [Noether, Emmy (1882-1935)](https://en.wikipedia.org/wiki/Emmy_Noether)
+    -   [Hamilton, William Rowan](http://en.wikipedia.org/wiki/William_Rowan_Hamilton) (1805-1865)
+    -   [Maxwell, James Clerk](http://en.wikipedia.org/wiki/James_Clerk_Maxwell) (1831-1879)
+    -   [Noether, Emmy](https://en.wikipedia.org/wiki/Emmy_Noether) (1882-1935)
 -   Classical mechanics
 -   Electrodynamics
 -   *The Feynman Lectures on Physics* [^Feynman1963]
@@ -44,7 +44,7 @@ Statistical physics
 
 -   Entropy
 -   Statistical mechanics and thermodynamics
--   [Boltzmann, Ludwig (1844-1906)](http://en.wikipedia.org/wiki/Ludwig_Boltzmann)
+-   [Boltzmann, Ludwig](http://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906)
 -   The 2nd Law of Thermodynamics said simply: Things tend to happen in ways for which there are many ways to happen like that.
 -   See [Emergence](#emergence)
 
