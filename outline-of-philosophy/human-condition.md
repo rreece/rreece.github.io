@@ -719,6 +719,7 @@ Existentialism
 -   Nietzsche
     -   "God is dead"
     -   "the mouth of the first immoralist", *Ecce Homo*
+    -   "The Death of God and the Death of Morality" [^Leiter2019]
 -   Heidegger
     -   Dasein
 -   Sartre
@@ -729,6 +730,8 @@ Existentialism
 -   Camus
     -   The Absurd
 -   Modernism
+
+[^Leiter2019]: @Leiter_2019_The_Death_of_God_and_the_Death_of_Morality\.
 
 
 Nihilism
