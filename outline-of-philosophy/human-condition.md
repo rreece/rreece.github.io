@@ -426,6 +426,8 @@ Other religions
     -   Dao - unplanned rhythms of the universe called "the way"
     -   struggle between order and chaos
     -   [Wuxing](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)) - "Five Elements"
+    -   *Zhuangzi*
+    -   *Dao De Jing* - Laozi (c. 500 BCE)
     -   *Yijing* (also romanized as *I Ching*) - "Book of Changes"  (c. 900 BCE)
     -   Yijing Studies by Bradford Hatcher at [hermetica.info](https://www.hermetica.info/)
     -   *Dazhuan* - "The Great Commentary"
@@ -444,7 +446,7 @@ Other religions
     -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.
     -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
 
->   Creating. The greatest fulfillment rewards persistence. [^Yijing]
+>   Creating. The greatest fulfillment rewards persistence. [^YijingGua01]
 
 [^YijingGua01]: *Yijing*, Gua 01.
 
