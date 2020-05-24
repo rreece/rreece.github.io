@@ -73,6 +73,7 @@ Realism and antirealism
 ### Allegory of the Cave
 
 -   Naive realism.  Why would I doubt the world I see is real?
+-   Reification fallacy
 -   Plato: Allegory of the Cave. [^RepublicVII514]
 
 ![Depiction of the scene in the Allegory of the Cave.](img/allegory-of-the-cave.jpg){#fig:allegory-of-the-cave}

@@ -425,16 +425,19 @@ Other religions
 -   [Daoism](https://en.wikipedia.org/wiki/Daoism) (began c. 4th century BCE)
     -   Dao - unplanned rhythms of the universe called "the way"
     -   struggle between order and chaos
-    -   *I Ching* (c. 1,000-300 BCE)
+    -   *Yijing* (also romanized as *I Ching*) - "Book of Changes"  (c. 1,000-300 BCE)
     -   [Wuxing](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)) - "Five Elements"
+    -   Yijing Studies by Bradford Hatcher at [hermetica.info](https://www.hermetica.info/)
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
     -   [Confucius](https://en.wikipedia.org/wiki/Confucius) (551-479 BCE)
-    -   Confucius studied the *I Ching*
+    -   Confucius studied the *Yijing*
     -   [Rectification of names](https://en.wikipedia.org/wiki/Rectification_of_names)
 -   [Mohism](https://en.wikipedia.org/wiki/Mohism)
     -   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
     -   anti-tribal: "impartial caring" or "universal love"
     -   "We begin with what is near."
+    -   "Befriending the learned"
+    -   "On the necessity of standards"
 -   [Shinto](https://en.wikipedia.org/wiki/Shinto)
     -   [Yayoi period](https://en.wikipedia.org/wiki/Yayoi_period) (300 BCE - 300 CE) - neolithic Japan
     -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.

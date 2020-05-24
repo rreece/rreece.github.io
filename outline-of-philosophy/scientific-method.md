@@ -798,9 +798,19 @@ Russell:
 >   pretensions, philosophy does not cease to suggest and inspire a way of
 >   life. [^Russell1945pX]
 
+Sagan:
+
+>   Spin more than one hypothesis, think of all the different ways in which
+>   it could be explained. Then think of tests by which you might systematically
+>   disprove each of the alternatives. What survives, the hypothesis that resists
+>   disproof in this Darwinian selection among 'multiple working hypotheses', has a
+>   much better chance of being the right answer than if you had simply run with the
+>   first idea that caught your fancy. [^Sagan1995pX]
+
 [^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
 [^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
 [^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
+[^Sagan1995pX]: HERE, p. TODO.
 
 
 ### Yes: Models of science
