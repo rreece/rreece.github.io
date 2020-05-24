@@ -570,8 +570,8 @@ description or imitation:
 ### Criticism
 
 -   [Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade) (1740-1814)
--   [Camille Paglia](https://en.wikipedia.org/wiki/Camille_Paglia)
--   Alain de Botton
+-   [Camille Paglia](https://en.wikipedia.org/wiki/Camille_Paglia) (b. 1947)
+-   [Alain de Botton](https://en.wikipedia.org/wiki/Alain_de_Botton) (b. 1969)
     -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
     -   [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
     -   [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
