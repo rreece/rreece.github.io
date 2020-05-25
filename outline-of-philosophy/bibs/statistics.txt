@@ -3,6 +3,7 @@ Amari, S. (2016). *Information Geometry and Its Applications*. Springer Japan.
 Anderson, C. (2008). The End of Theory: The data deluge makes the scientific method obsolete. *Wired*. https://www.wired.com/2008/06/pb-theory/ [June 23, 2008.]
 Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. *The International Journal of High Performance Computing Applications*, 32, 435--479.
 ATLAS Collaboration. (2012). Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector. *Physical Review D*, 86, 032003. https://arxiv.org/abs/1207.0319
+{ATLAS Statistics Forum}. (2011). The CLs method: information for conference speakers. http://www.pp.rhul.ac.uk/~cowan/stat/cls/CLsInfo.pdf
 Bahri, Y., Kadmon, J., Pennington, J., Schoenholz, S.S., Sohl-Dickstein, J., & Ganguli1, S. (2020). Statistical mechanics of deep learning. *Annual Review of Condensed Matter Physics*, 11, 501--528.
 Balasubramanian, V. (1996). A geometric formulation of Occam's razor for inference of parametric distributions. https://arxiv.org/abs/adap-org/9601001
 Balasubramanian, V. (1996). Statistical inference, Occam's razor and statistical mechanics on the space of probability distributions. https://arxiv.org/abs/cond-mat/9601030
@@ -54,6 +55,7 @@ Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computa
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
 Ioannidis, J.P. (2005). Why most published research findings are false. *PLos Medicine*, 2(8), 696--701.
 James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
+Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434(2-3), 435--443. https://arxiv.org/abs/hep-ex/9902006
 Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
 Korb, K.B. (2001). Machine learning as philosophy of science. In *Proceedings of the ECML-PKDD-01 Workshop on Machine Learning as Experimental Philosophy of Science*, Freiburg.
 Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ImageNet classification with deep convolutional neural networks. *Advances in Neural Information Processing Systems*, 2012, 1097--1105. https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
@@ -81,6 +83,7 @@ Peirce, C.S. (1883). *Studies in Logic*. Boston: Little, Brown, and Co.
 Perone, C.S. (2018). NLP word representations and the Wittgenstein philosophy of language. http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/
 Rao, C.R. (1945). Information and the accuracy attainable in the estimation of statistical parameters. *Bulletin of the Calcutta Mathematical Society*, 37, 81--91.
 Rao, C.R. (1947). Minimum variance and the estimation of several parameters. In *Mathematical Proceedings of the Cambridge Philosophical Society*, 43, 280--283. Cambridge University Press.
+Read, A.L. (2002). Presentation of search results: the CLs technique. *Journal of Physics G: Nuclear and Particle Physics*, 28(10), 2693. https://indico.cern.ch/event/398949/attachments/799330/1095613/The_CLs_Technique.pdf
 Reichenbach, H. (1938). *Experience and Prediction*. University of Chicago Press.
 Reichenbach, H. (1940). On the justification of induction. *The Journal of Philosophy*, 37, 97--103.
 Reid, C. (1998). *Neyman*. Springer-Verlag.

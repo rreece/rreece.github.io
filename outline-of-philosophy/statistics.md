@@ -412,6 +412,14 @@ Fisher:
 -   Neyman-Pearson lemma [^Neyman1933]
 -   Neyman construction
 
+Neyman-Pearson test statistic:
+
+$$ q_\mathrm{NP} = - 2 \ln \frac{L(H_0)}{L(H_1)} \label{eq:qnp-test-stat} $$
+
+Background-only Neyman-Pearson test statistic:
+
+$$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
+
 ![TODO: ROC explainer. ([Wikimedia](https://commons.wikimedia.org/wiki/File:ROC_curves.svg), 2015).](img/ROC-explainer.png){#fig:ROC-explainer}
 
 [^Goodman1999p998]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 998.
@@ -432,6 +440,18 @@ Fisher:
 ### Student's $t$-test
 
 -   ANOVA
+
+
+### CLs method
+
+-   Conservative coverage; used in particle physics
+-   Junk [^Junk1999]
+-   Read [^Read2002]
+-   ATLAS [^ATLAS2011]
+
+[^ATLAS2011]: @ATLAS_2011_The_CLs_method_information_for_conference\.
+[^Junk1999]: @Junk_1999_Confidence_level_computation_for_combining\.
+[^Read2002]: @Read_2002_Presentation_of_search_results_the_CLs_technique\.
 
 
 ### Asymptotics
