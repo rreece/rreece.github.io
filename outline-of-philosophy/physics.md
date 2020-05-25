@@ -160,11 +160,10 @@ Quantum field theory
 -   Peskin and Schroeder
 -   David Tong
 -   Weinberg
+-   Canonical quantization
 -   No "2nd quantization"
 -   Redhead [^Redhead1982]
 -   Redhead [^Redhead1988]
--   AQFT vs LQFT
--   *Local Quantum Physics* [^Haag1992]
 
 >   Rudolf [Haag] is not satisfied by a notion of local observables relying
 >   plainly on space and time. Instead he wishes to base the theory on concepts
@@ -176,10 +175,25 @@ Quantum field theory
 >   that the spatial notions man acquires in his cradle are less basic than
 >   his procedures at [particle] accelerators. [^Kastler2003p6]
 
-[^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
 [^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
 [^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
+
+
+### Algebraic vs constructive QFT
+
+-   AQFT vs LQFT
+-   *Local Quantum Physics* [^Haag1992]
+-   Wallace
+-   Fraser
+
+[^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
+
+
+### Path intergrals
+
+-   Feynman
+-   Partition functions and generating functionals
 
 
 ### Spin-statistics theorem
@@ -886,6 +900,8 @@ Click to show links
 -   [Quantization](https://ncatlab.org/nlab/show/quantization) - nlab
 -   [What is a gauge?](https://terrytao.wordpress.com/2008/09/27/what-is-a-gauge/) - Terence Tao
 -   [Struggles With the Continuum](https://www.physicsforums.com/insights/struggles-continuum-part-1/) - John Baez
+-   [Kelvin's "Clouds" Speech](https://www.thoughtco.com/kelvins-clouds-speech-2699230)
+
 
 ### Videos
 
