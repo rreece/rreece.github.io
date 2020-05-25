@@ -201,6 +201,7 @@ Foundations of statistics
 -   James [^James2006]
 -   Cousins [^Cousins2018]
 -   Cowan [^Cowan1998]
+-   Lista [^Lista2016]
 -   Cranmer [^Cranmer2015]
 -   Weisberg [^Weisberg2019]
 
@@ -208,6 +209,7 @@ Foundations of statistics
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\. 
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
+[^Lista2016]: @Lista_2016_Statistical_Methods_for_Data_Analysis_in_Particle\.
 [^Stuart2010]: @Stuart_2010_Kendalls_Advanced_Theory_of_Statistics_Vol_2A\.
 [^Weisberg2019]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\.
 

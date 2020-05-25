@@ -63,6 +63,7 @@ LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recogni
 LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. *Proceedings of the IEEE*, 86(11), 2278--2324. http://www.dengfanxin.cn/wp-content/uploads/2016/03/1998Lecun.pdf
 LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436-44.
 Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep learning. https://arxiv.org/abs/1805.10451
+Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
 MacKay, D.J.C. (2003). *Information Theory, Inference, and Learning Algorithms*. Cambridge University Press.
 Mayo, D.G. (1981). In defense of the Neyman-Pearson theory of confidence intervals. *Philosophy of Science*, 48(2), 269--280.
