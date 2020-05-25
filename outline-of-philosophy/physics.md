@@ -110,6 +110,7 @@ conserved under that transformation.
 
 $$ \hat{U}(x^{\mu}) = e^{ -i \: \hat{P}_\mu \: x^\mu } $$
 
+
 ### Secondary properties of QM
 
 -   Wave function:
@@ -151,19 +152,48 @@ Quantum field theory
 -   CPT theorem
 -   Feynman's Nobel Lecture on QED [^Feynman1965]
 
+Pedagogy:
+
+-   Peskin and Schroeder [^Peskin1995]
+-   Zee [^Zee2013]
+-   Schwartz [^Schwartz2014]
+-   David Tong
+
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
 [^Feynman1965]: @Feynman_1965_The_Development_of_the_Space_Time_View_of_Quantum\.
+[^Schwartz2014]: @Schwartz_2014_Quantum_Field_Theory_and_the_Standard_Model\.
+[^Zee2013]: @Zee_2003_Quantum_Field_Theory_in_a_Nutshell\.
 
 
 ### Foundations
 
--   Peskin and Schroeder
--   David Tong
 -   Weinberg
 -   Canonical quantization
 -   No "2nd quantization"
 -   Redhead [^Redhead1982]
 -   Redhead [^Redhead1988]
+-   Canonical vs path integral quantization
+-   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
+
+[^Peskin1995]: @Peskin_1995_An_Introduction_to_Quantum_Field_Theory\.
+[^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
+[^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
+
+
+### Path intergrals
+
+-   Feynman
+-   Partition functions and generating functionals
+
+
+### Algebraic vs constructive QFT
+
+-   AQFT vs LQFT
+-   *Local Quantum Physics* [^Haag1992]
+-   Wallace
+-   Fraser
+
+Kastler:
 
 >   Rudolf [Haag] is not satisfied by a notion of local observables relying
 >   plainly on space and time. Instead he wishes to base the theory on concepts
@@ -175,25 +205,8 @@ Quantum field theory
 >   that the spatial notions man acquires in his cradle are less basic than
 >   his procedures at [particle] accelerators. [^Kastler2003p6]
 
-[^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
-[^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
-[^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
-
-
-### Algebraic vs constructive QFT
-
--   AQFT vs LQFT
--   *Local Quantum Physics* [^Haag1992]
--   Wallace
--   Fraser
-
 [^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
-
-
-### Path intergrals
-
--   Feynman
--   Partition functions and generating functionals
+[^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
 
 
 ### Spin-statistics theorem
@@ -225,12 +238,14 @@ Quantum field theory
 -   Goldenfeld [^Goldenfeld1992]
 -   Butterfield [^Butterfield2014]
 -   Butterfield [^Butterfield2015]
+-   't Hooft [^tHooft1994]
  
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
 [^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
 [^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
 [^Butterfield2014]: @Butterfield_2014_Reduction_emergence_and_renormalization\.
 [^Butterfield2015]: @Butterfield_2015_Renormalization_for_philosophers\.
+[^tHooft1994]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 
 
 ### Effective field theory
@@ -331,11 +346,14 @@ Exotics in quantum field theory
 
 ### Non-perturbative features
 
+-   extended objects
+-   't Hooft [^tHooft1994-2]
 -   Sphalerons
 -   Instanton
 -   Shifman [^Shifman2012]
 
 [^Shifman2012]: @Shifman_2012_Advanced_Topics_in_Quantum_Field_Theory_A_lecture\.
+[^tHooft1994-2]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 
 
 ### Supersymmetry
