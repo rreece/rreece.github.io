@@ -41,6 +41,7 @@ TO DO
 import argparse, sys, time
 import os
 import re
+import unicodedata
 
 ## my modules
 
@@ -81,14 +82,12 @@ def main():
     infiles = ops.infiles
     out = ops.out
 
-#    rep = r'<h([1-6])\s+[^>]*id="([\w\.\-]+)"[^>]*>([^<]+)<\/h[1-6]>'
-    rep = r'\s*<h([1-6])\s+[^>]*id="([\w\.:\-]+)"[^>]*>(.+)<\/h[1-6]>\s*'
+    rep = r'\s*<h([1-6])\s+[^>]*id="([^>]+)">(.+)<\/h[1-6]>\s*'
 
     f_out = open(out, 'w')
 
     if ops.contents:
         f_out.write('### Contents  {.unnumbered}\n')
-#       f_out.write('---------------------------------------------------\n')
         f_out.write('\n')
 
     for fn in infiles:
@@ -101,7 +100,7 @@ def main():
             reo = re.match(rep, line)
             if reo:
                 level   = int(reo.group(1))
-                id      = reo.group(2)
+                id      = clean_unicode(reo.group(2))
                 name    = reo.group(3)
                 alink   = '%s.html' % root
                 if alink == 'index.html':
@@ -132,6 +131,30 @@ def main():
 #------------------------------------------------------------------------------
 # free functions
 #------------------------------------------------------------------------------
+
+def clean_unicode(fn):
+    new_fn = str(fn)
+
+    ## remove extra spaces and convert to '-'
+    new_fn = new_fn.strip()
+    u_new_fn = unicode(new_fn, 'utf-8')
+
+    ## change unicode-hyphen-like characters to ascii
+    u_new_fn = u_new_fn.replace(u'\u2010', '-')
+    u_new_fn = u_new_fn.replace(u'\u2011', '-')
+    u_new_fn = u_new_fn.replace(u'\u2012', '-')
+    u_new_fn = u_new_fn.replace(u'\u2013', '-')
+    u_new_fn = u_new_fn.replace(u'\u2014', '-')
+    u_new_fn = u_new_fn.replace(u'\u2015', '-')
+
+    ## convert unicode to closest ascii for latin-like characters
+    ## punctuation-like characters not switched to ascii above will be lost
+    ## help from: http://stackoverflow.com/questions/1207457/convert-a-unicode-string-to-a-string-in-python-containing-extra-symbols
+    u_new_fn = unicodedata.normalize('NFKD', u_new_fn)
+    u_new_fn = u_new_fn.encode('ascii','ignore')
+    new_fn = str(u_new_fn)
+
+    return new_fn
 
 #______________________________________________________________________________
 def fatal(message=''):
