@@ -289,6 +289,16 @@ Schumm:
 [^Wray2018]: @Wray_2018_Resisting_Scientific_Realism\.
 
 
+### Superseded theories in science
+
+-   [Superseded theories in science](https://en.wikipedia.org/wiki/Superseded_theories_in_science)
+-   Aristotelian physics
+-   Ptolemaic solar system
+-   Phlogiston theory
+-   &eacute;lan vital
+-   relationship to pessimistic meta-induction
+
+
 Instrumentalism
 --------------------------------------------------------------------------------
 
@@ -1417,6 +1427,7 @@ Click to show links
 -   [Structuralism](https://en.wikipedia.org/wiki/Structuralism)
 -   [Structuralism (philosophy of science)](https://en.wikipedia.org/wiki/Structuralism_(philosophy_of_science))
 -   [Substantial Form](http://en.wikipedia.org/wiki/Substantial_form)
+-   [Superseded theories in science](https://en.wikipedia.org/wiki/Superseded_theories_in_science)
 -   [Two Dogmas of Empircism](http://en.wikipedia.org/wiki/Two_Dogmas_of_Empiricism)
 -   [Unsolved problems in philosophy, List of](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_philosophy)
 -   [Vienna Circle](http://en.wikipedia.org/wiki/Vienna_Circle)
