@@ -239,6 +239,9 @@ Kastler:
 -   Butterfield [^Butterfield2014]
 -   Butterfield [^Butterfield2015]
 -   't Hooft [^tHooft1994]
+-   The "renormalization group" isn't a group; it's actually a semigroup.
+    The reason that renormalization produces a semigroup is that a block
+    transformation loses information. 
  
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
 [^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
