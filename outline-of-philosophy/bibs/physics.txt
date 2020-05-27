@@ -27,6 +27,7 @@ Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. Springer.
 Hall, D., & Wightman, A. S. (1957). A theorem on invariant analytic functions with applications to relativistic quantum field theory. I kommission hos Munksgaard.
 Healey, R. (2007). *Gauging What's Real*. Oxford University Press.
 Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. *Synthese*, 102(1), 171--194.
+Kadanoff, L.P. (2013). Theories of matter: Infinities and renormalization. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 109-141). Oxford University Press. https://arxiv.org/abs/1002.2985
 Kastler, D. (2003). Rudolf Haag---Eighty Years. *Communications in Mathematical Physics*, 237, 3--6.
 Klaczynski, L. (2016). Haag's theorem in renormalised quantum field theories. https://arxiv.org/abs/1602.00662
 Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. *Nuovo Cimento*, 1, 205--225.

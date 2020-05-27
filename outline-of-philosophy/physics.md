@@ -241,13 +241,14 @@ Kastler:
 -   't Hooft [^tHooft1994]
 -   The "renormalization group" isn't a group; it's actually a semigroup.
     The reason that renormalization produces a semigroup is that a block
-    transformation loses information. 
+    transformation loses information. [^Kadanoff2013p50]
  
+[^Butterfield2014]: @Butterfield_2014_Reduction_emergence_and_renormalization\.
+[^Butterfield2015]: @Butterfield_2015_Renormalization_for_philosophers\.
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
 [^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
 [^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
-[^Butterfield2014]: @Butterfield_2014_Reduction_emergence_and_renormalization\.
-[^Butterfield2015]: @Butterfield_2015_Renormalization_for_philosophers\.
+[^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50 of arxiv:[1002.2985](https://arxiv.org/abs/1002.2985).
 [^tHooft1994]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 
 
