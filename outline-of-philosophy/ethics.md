@@ -73,6 +73,7 @@ Moral naturalism
 -   Binmore
 -   game theory
     -   Heads-up poker solved [^Bowling2015]
+    -   [Condorcet's jury theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
 -   evolution
     -   @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes
     -   evolution of trust
@@ -330,6 +331,7 @@ Click to show links
 
 -   [Absurdism](http://en.wikipedia.org/wiki/Absurdism)
 -   [Bentham, Jeremy (1748-1832)](https://en.wikipedia.org/wiki/Jeremy_Bentham)
+-   [Condorcet's jury theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
 -   [Consequentialism](http://en.wikipedia.org/wiki/Consequentialism)
 -   [Emotivism](http://en.wikipedia.org/wiki/Emotivism)
 -   [Ethical naturalism](http://en.wikipedia.org/wiki/Ethical_naturalism)
