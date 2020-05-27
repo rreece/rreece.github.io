@@ -173,6 +173,8 @@ Pedagogy:
 -   Redhead [^Redhead1982]
 -   Redhead [^Redhead1988]
 -   Canonical vs path integral quantization
+-   [Reeh-Schlieder theorem](https://en.wikipedia.org/wiki/Reeh%E2%80%93Schlieder_theorem)
+    -   Taj Mahal principle
 -   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
 
 [^Peskin1995]: @Peskin_1995_An_Introduction_to_Quantum_Field_Theory\.
