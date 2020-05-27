@@ -309,6 +309,7 @@ Click to show links
 -   [Game Theory](http://www.iep.utm.edu/game-th/)
 -   [MacIntyre, Alasdair (b. 1929): The Political Philosophy of](http://www.iep.utm.edu/p-macint/)
 -   [Metaethics](http://www.iep.utm.edu/metaethi/)
+-   [Modern morality and ancient ethics](https://www.iep.utm.edu/anci-mod/)
 -   [Moral Egalitarianism](http://www.iep.utm.edu/moral-eg/)
 -   [Moral Epistemology](http://www.iep.utm.edu/mor-epis/)
 -   [Morality and Cognitive Science](http://www.iep.utm.edu/m-cog-sc/)

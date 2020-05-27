@@ -391,7 +391,6 @@ Rejection of the supernatural
 Scientism
 --------------------------------------------------------------------------------
 
-
 -   Usually a pejorative
     -   Sorell [^Sorell1991]
     -   TODO: find examples
@@ -405,7 +404,9 @@ Scientism
     -   Lawhead: "My Scientism" [^Lawhead20016]
 -   Is there any unique project left for metaphysics?
     -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
+-   *Science Unlimited? The Challenges of Scientism* [^Boudry2018]
 
+[^Boudry2018]: @Boudry_2018_Science_Unlimited_The_Challenges_of_Scientism\.
 [^Lawhead20016]: @Lawhead_2016_My_Scientism\.
 [^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
 [^Rosenberg2011AGR]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.

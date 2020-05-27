@@ -479,12 +479,18 @@ Three historical phases of Stoicism:
     Only Roman texts from the Late Stoa survive.
 -   Contemporary Stoicism
 
+![The historical and conceptual relationships among Hellonistic schools
+    of philosophy and how they diverged from the thinking of Socrates. [^Pigliucci2017p224]
+    ](img/Pigliucci-history-of-Hellonistic-schools.jpg){#fig:Pigliucci-history-of-Hellonistic-schools}
+
 Related:
 
 -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
 -   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
 -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
+
+[^Pigliucci2017p224]: @Pigliucci_2017_How_to_be_a_Stoic\, p. 224.
 
 
 ### Theses
@@ -853,6 +859,7 @@ Click to show links
 -   [Existentialism](http://www.iep.utm.edu/existent/)
 -   [Heidegger, Martin (1889-1976)](https://www.iep.utm.edu/heidegge/)
 -   [Lucretius (c. 99-55 BCE)](https://www.iep.utm.edu/lucretiu/)
+-   [Modern morality and ancient ethics](https://www.iep.utm.edu/anci-mod/)
 -   [Nihilism](http://www.iep.utm.edu/nihilism/)
 -   [Sartre, Jean-Paul (1905-1980): Existentialism](https://www.iep.utm.edu/sartre-ex/)
 -   [Stoicism](http://www.iep.utm.edu/stoicism/)
