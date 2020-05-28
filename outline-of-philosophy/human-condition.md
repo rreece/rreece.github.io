@@ -228,6 +228,16 @@ Primary texts:
 -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
 -   "Hindu synthesis" started to develop between 500 BCE and 300 CE
 
+Secondary texts:
+
+-   McEvilley [^McEvilley2002-hinduism]
+
+Other stuff:
+
+-   [Maharishi Mahesh Yogi](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi) (1918-2008)
+-   [John Hagelin](https://en.wikipedia.org/wiki/John_Hagelin) (b. 1954)
+
+[^McEvilley2002-hinduism]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. TODO.
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
 
@@ -282,6 +292,12 @@ Primary texts:
 Secondary texts:
 
 -   Epstein, R. (2004). [Resources for the study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
+-   Harvey [^Harvey2013]
+-   O'Brien, B. (2018). [Buddhist teachings on the self.](https://www.learnreligions.com/self-no-self-whats-a-self-450190)
+-   [buddhistelibrary.org](http://www.buddhistelibrary.org/en/index.php)
+-   [A Bibliography of Buddhism (and Recovery)](https://www.hermetica.info/BuddBib.htm) - hermetica.info
+
+[^Harvey2013]: @Harvey_2013_An_Introduction_to_Buddhism\.
 
 
 ### Common doctrines
@@ -331,11 +347,6 @@ Other stuff:
 -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
     -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
 
-More refs:
-
--   O'Brien, B. (2018). [Buddhist teachings on the self.](https://www.learnreligions.com/self-no-self-whats-a-self-450190)
--   Harvey, P. (2013). *An Introduction to Buddhism* (2nd ed.). Cambridge University Press.
-
 ![Map of the main modern Buddhist sects. Kalmykia in western Russia was cropped out, sorry ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
 
 
@@ -363,6 +374,10 @@ Primary texts:
     -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
     -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
 
+Secondary texts:
+
+-   TODO
+
 
 ### Mah&amacr;y&amacr;na Buddhism
 
@@ -378,6 +393,7 @@ Primary texts:
 -   [Zen Buddhism](https://en.wikipedia.org/wiki/Zen)
     -   Began in China as "Ch&aacute;n" in the [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
     -   Introduced in Japan in 12th century CE and later romanized as "Zen"
+-   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
 
 Doctrines:
 
