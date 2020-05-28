@@ -35,7 +35,7 @@ While the scope of this project is ambitiously large,
 clearly it cannot pretend to represent *all* of philosophy by any stretch.
 This is a meandering of one person through his own thoughts on philosophy,
 a meandering that is primarily western and focused on empiricism,
-although not entirely.
+although not entirely either.
 
 
 Also developing here
