@@ -621,7 +621,6 @@ Biology
 -   We are all related.
 -   We are from a lineage.
 -   We are evolved.
--   We are complex.
 -   Andrews on Terrence Deacon's hierarchic transitions [^Andrews2018]
 
 "Islands" by Muriel Rukeyser [^Rukeyser1976]
@@ -630,15 +629,23 @@ Biology
 >   they are connected       
 >   underneath
 
+[^Andrews2018]: @Andrews_2018_Does_natural_selection_explain_why_you_exist\.
+[^Rukeyser1976]: @Rukeyser_1976_Islands\.
+
+
+### Biochemistry
+
+-   We are complex.
+
 ![[Blood by David S. Goodsell (2000)](http://mgl.scripps.edu/people/goodsell/illustration/public).](img/Goodsell-blood.jpg){#fig:Goodsell-blood}
+
+
+### Genetics
 
 -   DNA
 -   [Drew Berry: Animations of unseeable biology](https://www.youtube.com/watch?v=WFCvkkDSfIU)
 
 ![TODO: caption, from Drew Berry.](img/drew-berry-dna-animation.gif){#fig:drew-berry-dna-animation}
-
-[^Andrews2018]: @Andrews_2018_Does_natural_selection_explain_why_you_exist\.
-[^Rukeyser1976]: @Rukeyser_1976_Islands\.
 
 
 ### Evolution of vision
