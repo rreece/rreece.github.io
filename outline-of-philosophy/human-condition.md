@@ -661,6 +661,17 @@ Biology
 -   We have about 3 billion heartbeats: 80 years $\approx 2.5 \times 10^9$ seconds
 
 
+Psychology
+--------------------------------------------------------------------------------
+
+-   TODO: history
+    -   Freud
+    -   Jung
+    -   Pavlov
+-   [Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+    -   compare with stoicism
+
+
 (A)theism
 --------------------------------------------------------------------------------
 
