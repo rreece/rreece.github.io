@@ -220,7 +220,7 @@ Hinduism
 -   Six &amacr;stika (orthodox) schools: Ny&amacr;y&aacute; Vai&sacute;esika, S&amacr;mkhya, [Yoga](https://en.wikipedia.org/wiki/Yoga), M&imacr;m&amacr;ms&amacr;, and Ved&amacr;nta
 -   Four n&amacr;stika (heterodox) schools: [Buddhism](https://en.wikipedia.org/wiki/Buddhism), [Jainism](https://en.wikipedia.org/wiki/Jainism), [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka), [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
 
-Texts:
+Primary texts:
 
 -   [Vedas](https://en.wikipedia.org/wiki/Vedas)
     -   [Rigveda](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700-1,100 BCE)
@@ -249,6 +249,8 @@ Others:
 -   [Hindu atheism](https://en.wikipedia.org/wiki/Hindu_atheism)
 -   [Kalpa](https://en.wikipedia.org/wiki/Kalpa_(aeon))
 -   [Namaste](https://en.wikipedia.org/wiki/Namaste)
+-   [Pramana](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
+-   [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) - "not duality"
 -   TODO: gods
 
 ![The Wheel of Dharma ([Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra))
@@ -273,9 +275,12 @@ Buddhism
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [Buddhist modernism](https://en.wikipedia.org/wiki/Buddhist_modernism)
 
-Texts:
+Primary texts:
 
 -   [Buddhist texts](https://en.wikipedia.org/wiki/Buddhist_texts)
+
+Secondary texts:
+
 -   Epstein, R. (2004). [Resources for the study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
 
 
@@ -323,6 +328,8 @@ Other stuff:
 -   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
 -   [Maitreya](https://en.wikipedia.org/wiki/Maitreya)
 -   [&Sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)
+-   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
+    -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
 
 More refs:
 
@@ -348,7 +355,7 @@ Doctrines:
 -   [Acinteyya](https://en.wikipedia.org/wiki/Acinteyya) - the four imponderable or incomprehensible issues
 -   Jh&amacr;nas - states of meditation. See [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism).
 
-Texts:
+Primary texts:
 
 -   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
     -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
@@ -380,12 +387,18 @@ Doctrines:
 -   Tath&amacr;gatagarbha - "the doctrine of Buddha nature"
 -   [Ten suchnesses](https://en.wikipedia.org/wiki/Ten_suchnesses)
 
-Texts:
+Primary texts:
 
 -   [Heart Sutra](https://en.wikipedia.org/wiki/Heart_Sutra)
 -   [Lotus Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra)
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) (The Perfection of Wisdom)
     -   radical non-dualism
+
+Secondary texts:
+
+-   Williams [^Williams2009]
+
+[^Williams2009]: @Williams_2009_Mahayana_Buddhism_The_doctrinal_foundations\.
 
 
 ### Vajray&amacr;na Buddhism
@@ -887,6 +900,7 @@ Click to show links
     -   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
     -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
 -   [Buddhism in the United States](https://en.wikipedia.org/wiki/Buddhism_in_the_United_States)
+-   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
 -   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation)
 -   [Camus, Albert (1913-1960)](https://en.wikipedia.org/wiki/Albert_Camus)
 -   [Chrysippus (c. 279-206 BCE)](https://en.wikipedia.org/wiki/Chrysippus)
