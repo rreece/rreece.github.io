@@ -680,6 +680,7 @@ Psychology
     -   Jung
     -   Pavlov
 -   [Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+    -   compare with Buddhism
     -   compare with stoicism
 
 
