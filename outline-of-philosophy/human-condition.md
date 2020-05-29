@@ -617,10 +617,17 @@ Biology
 
 ### Darwinism
 
+"Islands" by Muriel Rukeyser:
+
+>   O for God's sake      
+>   they are connected       
+>   underneath [^Rukeyser1976]
+
 -   We are animals.
 -   We are all related.
 -   We are from a lineage.
 -   We are evolved.
+-   *Darwin's Dangerous Idea* [^Dennett1995]
 -   See also the outline of the history of
     [biological evoluion](http://rreece.github.io/outline-of-philosophy/scientific-method.html#biological-evolution)
     in the [Outline of the scientific method](http://rreece.github.io/outline-of-philosophy/scientific-method.html).
@@ -629,13 +636,8 @@ Biology
 
 -   Andrews on Terrence Deacon's hierarchic transitions [^Andrews2018]
 
-"Islands" by Muriel Rukeyser [^Rukeyser1976]
-
->   O for God's sake      
->   they are connected       
->   underneath
-
 [^Andrews2018]: @Andrews_2018_Does_natural_selection_explain_why_you_exist\.
+[^Dennett1995]: @Dennett_1995_Darwins_Dangerous_Idea_Evolution\.
 [^Rukeyser1976]: @Rukeyser_1976_Islands\.
 
 
@@ -685,9 +687,15 @@ Psychology
     -   Freud
     -   Jung
     -   Pavlov
+    -   ...
 -   [Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
     -   compare with Buddhism
     -   compare with stoicism
+-   Cognitive and psychological stability
+    -   TODO: Has it been shown/argued that forming a semi-coherent and semi-consistant
+        personal metaphysics is necessary/benefitial to cognitive and psychological
+        stability?
+    -   TODO: what does this say about the is-ought problem?
 
 
 (A)theism
