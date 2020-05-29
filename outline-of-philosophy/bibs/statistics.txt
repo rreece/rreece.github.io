@@ -106,6 +106,7 @@ Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning wit
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
 Tukey, J.W. (1977). *Exploratory Data Analysis*. Pearson.
+Udrescu, S. & Tegmark, M. (2020). *Symbolic pregression: Discovering physical laws from raw distorted video. https://arxiv.org/abs/2005.11212
 Vapnik, V., Levin, E., & LeCun, Y. (1994). Measuring the VC-dimension of a learning machine. *Neural Computation*, 6(5), 851--876.
 Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]
 Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482.
