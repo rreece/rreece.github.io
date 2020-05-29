@@ -621,6 +621,12 @@ Biology
 -   We are all related.
 -   We are from a lineage.
 -   We are evolved.
+-   See also the outline of the history of
+    [biological evoluion](http://rreece.github.io/outline-of-philosophy/scientific-method.html#biological-evolution)
+    in the [Outline of the scientific method](http://rreece.github.io/outline-of-philosophy/scientific-method.html).
+
+![The great tree of life. Larger version: [here](img/great-tree-of-life-large.png). Source:[here](https://visual.ly/community/infographic/science/great-tree-life).](img/great-tree-of-life.png){#fig:great-tree-of-life}
+
 -   Andrews on Terrence Deacon's hierarchic transitions [^Andrews2018]
 
 "Islands" by Muriel Rukeyser [^Rukeyser1976]

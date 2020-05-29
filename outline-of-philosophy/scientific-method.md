@@ -276,8 +276,6 @@ Weinberg:
 -   [Wallace, Alfred Russel (1823-1913)](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace)
 -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
 
-![The great tree of life. Larger version: [here](img/great-tree-of-life-large.png). Source:[here](https://visual.ly/community/infographic/science/great-tree-life).](img/great-tree-of-life.png){#fig:great-tree-of-life}
-
 [^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
 
 
