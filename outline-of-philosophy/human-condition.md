@@ -1,7 +1,8 @@
 The human condition
 ================================================================================
 
-What are we? What's the human condition, our orientation, our worldviews?
+What are we? What is the human condition?
+What are our orientations, our worldviews?
 
 This outline discusses human (pre)history, anthropology, religion,
 comparitive studies, biology, psychology, and practical philosophy.
