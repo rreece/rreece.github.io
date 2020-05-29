@@ -776,22 +776,32 @@ Plato:
 Existentialism
 --------------------------------------------------------------------------------
 
--   Nietzsche
+### Proto-existentialist
+
+-   [S&oslash;ren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard) (1813-1855)
+-   [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky) (1821-1881)
+-   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
     -   "God is dead"
     -   "the mouth of the first immoralist", *Ecce Homo*
     -   "The Death of God and the Death of Morality" [^Leiter2019]
--   Heidegger
+-   Modernism
+
+[^Leiter2019]: @Leiter_2019_The_Death_of_God_and_the_Death_of_Morality\.
+
+
+### Existentialist
+
+-   [Martin Heidegger](https://en.wikipedia.org/wiki/Martin_Heidegger) (1889-1976)
     -   Dasein
--   Sartre
+-   [Jean-Paul Sartre](https://en.wikipedia.org/wiki/Jean-Paul_Sartre) (1905-1980)
     -   Existentialism
     -   Authenticity
     -   Bad faith
 -   [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir) (1908-1986)
--   Camus
+-   [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) (1913-1960)
     -   The Absurd
--   Modernism
-
-[^Leiter2019]: @Leiter_2019_The_Death_of_God_and_the_Death_of_Morality\.
+    -   The question of suicide
+    -   Sisyphus
 
 
 Nihilism
@@ -909,6 +919,7 @@ Click to show links
 -   [Egoism](http://www.iep.utm.edu/egoism/)
 -   [Existentialism](http://www.iep.utm.edu/existent/)
 -   [Heidegger, Martin (1889-1976)](https://www.iep.utm.edu/heidegge/)
+-   [Kierkegaard, S&oslash;ren (1813-1855)](https://plato.stanford.edu/entries/kierkegaard/)
 -   [Lucretius (c. 99-55 BCE)](https://www.iep.utm.edu/lucretiu/)
 -   [Modern morality and ancient ethics](https://www.iep.utm.edu/anci-mod/)
 -   [Nihilism](http://www.iep.utm.edu/nihilism/)
@@ -955,6 +966,7 @@ Click to show links
 -   [Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra)
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)
 -   [Dhyana in Hinduism](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism)
+-   [Dostoevsky, Fyodor (1821-1881)](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky)
 -   [Durant, Will (1885-1981)](https://en.wikipedia.org/wiki/Will_Durant)
 -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
 -   [Eastern religions](https://en.wikipedia.org/wiki/Eastern_religions)
@@ -977,6 +989,7 @@ Click to show links
 -   [Kama](https://en.wikipedia.org/wiki/Kama)
 -   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
 -   [Karma in Hinduism](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
+-   [Kierkegaard, S&oslash;ren (1813-1855)](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
 -   [Languages by first written accounts, List of](https://en.wikipedia.org/wiki/List_of_languages_by_first_written_accounts)
 -   [Lucretius (c. 99-55 BCE)](https://en.wikipedia.org/wiki/Lucretius)
 -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
