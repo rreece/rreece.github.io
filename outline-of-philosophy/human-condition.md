@@ -690,7 +690,7 @@ Psychology
     -   ...
 -   [Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
     -   compare with Buddhism
-    -   compare with stoicism
+    -   compare with Stoicism
 -   Cognitive and psychological stability
     -   TODO: Has it been shown/argued that forming a semi-coherent and semi-consistant
         personal metaphysics is necessary/benefitial to cognitive and psychological
@@ -941,7 +941,7 @@ Click to show links
 -   [Nihilism](http://www.iep.utm.edu/nihilism/)
 -   [Sartre, Jean-Paul (1905-1980): Existentialism](https://www.iep.utm.edu/sartre-ex/)
 -   [Stoicism](http://www.iep.utm.edu/stoicism/)
--   [Stoic Ethics](http://www.iep.utm.edu/stoiceth/)
+-   [Stoic ethics](http://www.iep.utm.edu/stoiceth/)
 
 ### Wikipedia
 
