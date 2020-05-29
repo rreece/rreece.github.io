@@ -794,6 +794,7 @@ Existentialism
 
 -   [Martin Heidegger](https://en.wikipedia.org/wiki/Martin_Heidegger) (1889-1976)
     -   Dasein
+-   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
 -   [Jean-Paul Sartre](https://en.wikipedia.org/wiki/Jean-Paul_Sartre) (1905-1980)
     -   Existentialism
     -   Authenticity
