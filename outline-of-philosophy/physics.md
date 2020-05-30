@@ -25,6 +25,8 @@ Theories of matter
 -   ...
 -   [Leucippus](https://en.wikipedia.org/wiki/Leucippus) (fl. 5th century BCE)
 -   [Democritus](https://en.wikipedia.org/wiki/Democritus) (c. 460-370 BCE)
+-   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
+-   [Lucretius](https://en.wikipedia.org/wiki/Lucretius) (c. 99-55 BCE)
 
 Discussion:
 
@@ -45,7 +47,7 @@ Discussion:
 -   Planck, J.J. Thomson, Rutherford, Einstein
 
 
-### Contemporary physics
+### Contemporary views of matter
 
 -   TODO: Brief nod to upcoming sections.
 
@@ -832,6 +834,7 @@ Click to show links
 -   [Entropic gravity](http://en.wikipedia.org/wiki/Entropic_gravity)
 -   [Entropy](http://en.wikipedia.org/wiki/Entropy)
 -   [Entropy, Introduction to](http://en.wikipedia.org/wiki/Introduction_to_entropy)
+-   [Epicurus (341-270 BCE)](https://en.wikipedia.org/wiki/Epicurus)
 -   [Equipartition theorem](https://en.wikipedia.org/wiki/Equipartition_theorem)
 -   [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
 -   [Eternalism (philosophy of time)](https://en.wikipedia.org/wiki/Eternalism_(philosophy_of_time))
@@ -858,16 +861,17 @@ Click to show links
 -   [Holomovement](https://en.wikipedia.org/wiki/Holomovement)
 -   [Holonomy](https://en.wikipedia.org/wiki/Holonomy)
 -   [Kaluza-Klein theory](https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory)
--   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
+-   [Kanada (c. 600-100 BCE)](https://en.wikipedia.org/wiki/Kanada_(philosopher))
 -   [Kochen-Specker Theorem](https://en.wikipedia.org/wiki/Kochen%E2%80%93Specker_theorem)
 -   [Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM_model)
 -   [Landau pole](https://en.wikipedia.org/wiki/Landau_pole)
--   [Leucippus](https://en.wikipedia.org/wiki/Leucippus) (fl. 5th century BCE)
+-   [Leucippus (fl. 5th century BCE)](https://en.wikipedia.org/wiki/Leucippus)
 -   [Little hierarchy problem](https://en.wikipedia.org/wiki/Little_hierarchy_problem)
 -   [Locality, Principle of](https://en.wikipedia.org/wiki/Principle_of_locality)
 -   [Local hidden variable theory](https://en.wikipedia.org/wiki/Local_hidden_variable_theory)
 -   [Local (algebraic) quantum field theory](https://en.wikipedia.org/wiki/Local_quantum_field_theory)
 -   [Loopholes in Bell test experiments](https://en.wikipedia.org/wiki/Loopholes_in_Bell_test_experiments)
+-   [Lucretius (c. 99-55 BCE)](https://en.wikipedia.org/wiki/Lucretius)
 -   [Mach's principle](https://en.wikipedia.org/wiki/Mach%27s_principle)
 -   [Measurement in quantum mechanics](https://en.wikipedia.org/wiki/Measurement_in_quantum_mechanics)
 -   [Measurement problem](http://en.wikipedia.org/wiki/Measurement_problem)
