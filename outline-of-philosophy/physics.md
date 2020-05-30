@@ -14,6 +14,39 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 <!-- PAGETOC -->
 
 
+Theories of matter
+--------------------------------------------------------------------------------
+
+### Ancient elements
+
+-   Empedocles (c. 494-434 BCE)
+    -   theory of the four elements
+
+
+### Ancient atomism
+
+-   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
+-   [Leucippus](https://en.wikipedia.org/wiki/Leucippus) (fl. 5th century BCE)
+-   [Democritus](https://en.wikipedia.org/wiki/Democritus) (c. 460-370 BCE)
+
+Discussion:
+
+-   Weinberg
+-   Nail
+    -   Nail claims that Lecretius was _not_ an atomist,
+        and that translations of Lecretius are colored by readings of his
+        teacher, Epicurus.
+
+
+### Modern atomism
+
+-   Corpuscularianism
+-   Boyle, Newton, Locke, Dalton
+-   ...
+-   Boltzmann
+-   Planck, J.J. Thomson, Rutherford, Einstein
+
+
 Classical physics
 --------------------------------------------------------------------------------
 
@@ -751,6 +784,10 @@ Click to show links
 
 ### Wikipedia
 
+
+
+
+
 -   [AdS/CFT correspondence](http://en.wikipedia.org/wiki/AdS/CFT_correspondence)
 -   [Aharonov-Bohm effect](https://en.wikipedia.org/wiki/Aharonov%E2%80%93Bohm_effect)
 -   [Amp&egrave;re, Andr&eacute;-Marie (1775-1836)](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re)
@@ -783,6 +820,7 @@ Click to show links
 -   [Curie's Principle](https://en.wikipedia.org/wiki/Curie%E2%80%99s_Principle)
 -   [de Broglie, Louis (1892-1987)](https://en.wikipedia.org/wiki/Louis_de_Broglie)
 -   [De Broglie-Bohm theory](http://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory)
+-   [Democritus (c. 460-370 BCE)](https://en.wikipedia.org/wiki/Democritus)
 -   [Determinism](http://en.wikipedia.org/wiki/Determinism)
 -   [Digital philosophy](http://en.wikipedia.org/wiki/Digital_philosophy)
 -   [Digital physics](http://en.wikipedia.org/wiki/Digital_physics)
@@ -819,9 +857,11 @@ Click to show links
 -   [Holomovement](https://en.wikipedia.org/wiki/Holomovement)
 -   [Holonomy](https://en.wikipedia.org/wiki/Holonomy)
 -   [Kaluza-Klein theory](https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory)
+-   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
 -   [Kochen-Specker Theorem](https://en.wikipedia.org/wiki/Kochen%E2%80%93Specker_theorem)
 -   [Lambda-CDM model](https://en.wikipedia.org/wiki/Lambda-CDM_model)
 -   [Landau pole](https://en.wikipedia.org/wiki/Landau_pole)
+-   [Leucippus](https://en.wikipedia.org/wiki/Leucippus) (fl. 5th century BCE)
 -   [Little hierarchy problem](https://en.wikipedia.org/wiki/Little_hierarchy_problem)
 -   [Locality, Principle of](https://en.wikipedia.org/wiki/Principle_of_locality)
 -   [Local hidden variable theory](https://en.wikipedia.org/wiki/Local_hidden_variable_theory)
