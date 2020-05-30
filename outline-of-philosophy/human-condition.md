@@ -442,43 +442,60 @@ Other religions
 
 ### Dharmic
 
--   Along with Hinduism and Buddhism, all dharmic religions originated in India.
+Along with Hinduism and Buddhism, all dharmic religions originated in India.
+
+#### Jainism
+
 -   [Jainism](https://en.wikipedia.org/wiki/Jainism)
-    -   [Parshvanatha](https://en.wikipedia.org/wiki/Parshvanatha) (c. 800/700 - 700/600 BCE) - 23th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
-    -   [Mahavira](https://en.wikipedia.org/wiki/Mahaviraswami) (c. 540 - 468 BCE) - 24th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
+-   [Parshvanatha](https://en.wikipedia.org/wiki/Parshvanatha) (c. 800/700 - 700/600 BCE) - 23th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
+-   [Mahavira](https://en.wikipedia.org/wiki/Mahaviraswami) (c. 540 - 468 BCE) - 24th [tirthankara](https://en.wikipedia.org/wiki/Tirthankara) 
+
+#### Sikhism
+
 -   [Sikhism](https://en.wikipedia.org/wiki/Sikhism) (began at the end of the 15th century CE)
-    -   [Guru Nanak](https://en.wikipedia.org/wiki/Guru_Nanak) (1469-1539 CE)
+-   [Guru Nanak](https://en.wikipedia.org/wiki/Guru_Nanak) (1469-1539 CE)
 
 
 ### East asian
 
--   [Daoism](https://en.wikipedia.org/wiki/Daoism) (began c. 4th century BCE)
-    -   Dao - unplanned rhythms of the universe called "the way"
-    -   struggle between order and chaos
-    -   [Wuxing](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)) - "Five Elements"
-    -   *Zhuangzi*
-    -   *Dao De Jing* - Laozi (c. 500 BCE)
-    -   *Yijing* (also romanized as *I Ching*) - "Book of Changes"  (c. 900 BCE)
-    -   Yijing Studies by Bradford Hatcher at [hermetica.info](https://www.hermetica.info/)
-    -   *Dazhuan* - "The Great Commentary"
--   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
-    -   [Confucius](https://en.wikipedia.org/wiki/Confucius) (551-479 BCE)
-    -   Confucius studied the *Yijing*
-    -   [Rectification of names](https://en.wikipedia.org/wiki/Rectification_of_names)
--   [Mohism](https://en.wikipedia.org/wiki/Mohism)
-    -   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
-    -   anti-tribal: "impartial caring" or "universal love"
-    -   "We begin with what is near."
-    -   "Befriending the learned"
-    -   "On the necessity of standards"
--   [Shinto](https://en.wikipedia.org/wiki/Shinto)
-    -   [Yayoi period](https://en.wikipedia.org/wiki/Yayoi_period) (300 BCE - 300 CE) - neolithic Japan
-    -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.
-    -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
+#### Daoism
 
->   Creating. The greatest fulfillment rewards persistence. [^YijingGua01]
+-   [Daoism](https://en.wikipedia.org/wiki/Daoism) (began c. 4th century BCE)
+-   Dao - unplanned rhythms of the universe called "the way"
+-   struggle between order and chaos
+-   [Wuxing](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)) - "Five Elements"
+-   *Zhuangzi*
+-   *Dao De Jing* - Laozi (c. 500 BCE)
+-   *Yijing* (also romanized as *I Ching*) - "Book of Changes"  (c. 900 BCE)
+-   Yijing Studies by Bradford Hatcher at [hermetica.info](https://www.hermetica.info/)
+-   *Dazhuan* - "The Great Commentary"
+
+>   Creating: The greatest fulfillment rewards persistence. [^YijingGua01]
 
 [^YijingGua01]: *Yijing*, Gua 01.
+
+#### Confucianism
+
+-   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
+-   [Confucius](https://en.wikipedia.org/wiki/Confucius) (551-479 BCE)
+-   Confucius studied the *Yijing*
+-   [Rectification of names](https://en.wikipedia.org/wiki/Rectification_of_names)
+
+#### Mohism
+
+-   [Mohism](https://en.wikipedia.org/wiki/Mohism)
+-   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
+-   anti-tribal: "impartial caring" or "universal love"
+-   "We begin with what is near."
+-   "Befriending the learned"
+-   "On the necessity of standards"
+
+#### Shinto
+
+-   [Shinto](https://en.wikipedia.org/wiki/Shinto)
+-   [Yayoi period](https://en.wikipedia.org/wiki/Yayoi_period) (300 BCE - 300 CE) - neolithic Japan
+-   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.
+-   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
 
 
 ### American
