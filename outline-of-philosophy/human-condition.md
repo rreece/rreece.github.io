@@ -7,6 +7,9 @@ What are our orientations, our worldviews?
 This outline discusses human (pre)history, anthropology, religion,
 comparitive studies, biology, psychology, and practical philosophy.
 
+Here, I am interested in collecting what various traditions say we are as
+humans.
+
 
 <!-- PAGETOC -->
 
@@ -602,11 +605,10 @@ decidedly not naturalistic:
 Romanticism
 --------------------------------------------------------------------------------
 
--   Proto-romanticism
-    -   [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) (1712-1778)
 -   [Romanticism](https://en.wikipedia.org/wiki/Romanticism)
     -   late 18th through 19th centuries
     -   focus on emotion
+-   [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) (1712-1778)
 
 William Jones, in his 1772 "Essay on the Arts called Imitative", was one of the
 first to propound an expressive theory of poetry, valorising expression over
