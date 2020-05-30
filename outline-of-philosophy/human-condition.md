@@ -333,7 +333,7 @@ Important initial concepts:
 [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (magga):
 
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
--   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
+-   [Madhyamaka](https://en.wikipedia.org/wiki/Madhyamaka) - [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (Pali: bodhi)
 -   [Nirvana](https://en.wikipedia.org/wiki/Nirvana) - liberation from sams&amacr;ra like moksha
 -   [Arhat](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana)
@@ -342,6 +342,7 @@ Important initial concepts:
 
 Other stuff:
 
+-   [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy)
 -   The three trainings: sila, praj&ntilde;a, and samadhi
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
 -   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
