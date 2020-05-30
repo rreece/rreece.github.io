@@ -27,6 +27,7 @@ Theories of matter
 -   [Democritus](https://en.wikipedia.org/wiki/Democritus) (c. 460-370 BCE)
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
 -   [Lucretius](https://en.wikipedia.org/wiki/Lucretius) (c. 99-55 BCE)
+    -   *De Rerum Natura* translated by Esolen [^Lucretius1995pX]
 
 Discussion:
 
@@ -35,6 +36,8 @@ Discussion:
     -   Nail claims that Lecretius was _not_ an atomist,
         and that translations of Lecretius are colored by readings of his
         teacher, Epicurus.
+
+[^Lucretius1995pX]: @Lucretius_1995_On_the_Nature_of_Things_De_Rerum_Natura\, p. TODO.
 
 
 ### Modern atomism

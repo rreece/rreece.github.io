@@ -740,13 +740,15 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 ### Physicalism
 
 -   Lucretius
-    -   [Summary of Lucretius' *De rerum natura* by M. McGoodwin](https://www.mcgoodwin.net/pages/otherbooks/tlc_rerumnatura.html)
+    -   *De Rerum Natura* translated by Esolen [^Lucretius1995]
+    -   [Summary of Lucretius' *De Rerum Natura* by M. McGoodwin](https://www.mcgoodwin.net/pages/otherbooks/tlc_rerumnatura.html)
     -   Greenblatt, S. (2011). *The Swerve*. [^Greenblatt2011]
     -   Greenblatt, S. (2011). The answer man. [^Greenblatt2011ny]
     -   No teleology
 
 [^Greenblatt2011]: @Greenblatt_2011_The_Swerve_How_the_World_Became_Modern\.
 [^Greenblatt2011ny]: @Greenblatt_2011_The_answer_man_An_ancient_poem_was_rediscovered\.
+[^Lucretius1995]: @Lucretius_1995_On_the_Nature_of_Things_De_Rerum_Natura\.
 
 
 ### Epistemic humility
