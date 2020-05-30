@@ -17,15 +17,12 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Theories of matter
 --------------------------------------------------------------------------------
 
-### Ancient elements
-
--   Empedocles (c. 494-434 BCE)
-    -   theory of the four elements
-
-
 ### Ancient atomism
 
 -   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
+-   Empedocles (c. 494-434 BCE)
+    -   theory of the four elements
+-   ...
 -   [Leucippus](https://en.wikipedia.org/wiki/Leucippus) (fl. 5th century BCE)
 -   [Democritus](https://en.wikipedia.org/wiki/Democritus) (c. 460-370 BCE)
 
