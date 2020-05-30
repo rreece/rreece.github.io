@@ -73,9 +73,6 @@ Click to show the paltry outline of the history of science
     -   abstract Platonism
     -   [Platonic Academy](https://en.wikipedia.org/wiki/Platonic_Academy) (387 BCE - 529 CE) from which we derive academia 
     -   "the safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato." [^Whitehead1978pX]
-
-![Detail of *School of Athens* by Raphael (1511), showing Plato and Aristotle ([Wikimedia](https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg), 2013).](img/Raphael-School-of-Athens-1511-detail-Plato-Aristotle-mod.jpg){#fig:Raphael-School-of-Athens-1511-detail-Plato-Aristotle}
-
 -   [Aristotle](http://en.wikipedia.org/wiki/Aristotle) (384-322 BCE)
     -   His writings cover many subjects and have influenced the intellectual lexicon of virtually every field of study.
     -   Riddled with teleological explanation: things have "natural" purposes or tendencies.

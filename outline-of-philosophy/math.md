@@ -219,9 +219,14 @@ Platonism
 -   Dualism: the world and forms?
 -   The Academy (387 BCE - 529 CE): "Let no one ignorant of geometry enter"
 -   Mathematics is descriptive of a real but trans-empirical realm.
--   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
 -   Plato perhaps doubts Platonism in *Parmenides*
 -   Aristotle on universals
+
+![Detail of *School of Athens* by Raphael (1511), showing Plato and Aristotle
+    ([Wikimedia](https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg), 2013).
+    ](img/Raphael-School-of-Athens-1511-detail-Plato-Aristotle-mod.jpg){#fig:Raphael-School-of-Athens-1511-detail-Plato-Aristotle}
+
+-   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
 
 
 ### Contemporary platonism
