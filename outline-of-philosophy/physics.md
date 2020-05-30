@@ -40,11 +40,17 @@ Discussion:
 
 ### Modern atomism
 
--   Corpuscularianism
+-   [Corpuscularianism](https://en.wikipedia.org/wiki/Corpuscularianism)
+-   [Atomism](https://en.wikipedia.org/wiki/Atomism)
 -   Boyle, Newton, Locke, Dalton
 -   ...
 -   Boltzmann
 -   Planck, J.J. Thomson, Rutherford, Einstein
+
+
+### Contemporary physics
+
+-   TODO: Brief nod to upcoming sections.
 
 
 Classical physics
@@ -784,13 +790,10 @@ Click to show links
 
 ### Wikipedia
 
-
-
-
-
 -   [AdS/CFT correspondence](http://en.wikipedia.org/wiki/AdS/CFT_correspondence)
 -   [Aharonov-Bohm effect](https://en.wikipedia.org/wiki/Aharonov%E2%80%93Bohm_effect)
 -   [Amp&egrave;re, Andr&eacute;-Marie (1775-1836)](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re)
+-   [Atomism](https://en.wikipedia.org/wiki/Atomism)
 -   [Background independence](http://en.wikipedia.org/wiki/Background_independence)
 -   [Bargmann, Valentine (1908-1989)](https://en.wikipedia.org/wiki/Valentine_Bargmann)
 -   [Bargmann-Wigner equations](https://en.wikipedia.org/wiki/Bargmann%E2%80%93Wigner_equations)
@@ -816,6 +819,7 @@ Click to show links
 -   [Clinamen](https://en.wikipedia.org/wiki/Clinamen)
 -   [Complexity](http://en.wikipedia.org/wiki/Complexity)
 -   [Constructor theory](http://en.wikipedia.org/wiki/Constructor_theory)
+-   [Corpuscularianism](https://en.wikipedia.org/wiki/Corpuscularianism)
 -   [CP violation](https://en.wikipedia.org/wiki/CP_violation)
 -   [Curie's Principle](https://en.wikipedia.org/wiki/Curie%E2%80%99s_Principle)
 -   [de Broglie, Louis (1892-1987)](https://en.wikipedia.org/wiki/Louis_de_Broglie)
