@@ -36,6 +36,7 @@ Discussion:
     -   Nail claims that Lecretius was _not_ an atomist,
         and that translations of Lecretius are colored by readings of his
         teacher, Epicurus.
+    -   Crespo, H. (2018). [Intro to book review of ontology of motion: On the subject of definitions](https://theautarkist.wordpress.com/2018/12/03/intro-to-book-review-of-ontology-of-motion-on-the-subject-of-definitions-physics-lucretius/).
 
 [^Lucretius1995pX]: @Lucretius_1995_On_the_Nature_of_Things_De_Rerum_Natura\, p. TODO.
 

@@ -223,6 +223,7 @@ Hinduism
     -   See McEvilley [^McEvilley2002p327]
 -   Six &amacr;stika (orthodox) schools: Ny&amacr;y&aacute; Vai&sacute;esika, S&amacr;mkhya, [Yoga](https://en.wikipedia.org/wiki/Yoga), M&imacr;m&amacr;ms&amacr;, and Ved&amacr;nta
 -   Four n&amacr;stika (heterodox) schools: [Buddhism](https://en.wikipedia.org/wiki/Buddhism), [Jainism](https://en.wikipedia.org/wiki/Jainism), [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka), [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
+-   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
 
 Primary texts:
 
@@ -230,6 +231,7 @@ Primary texts:
     -   [Rigveda](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700-1,100 BCE)
     -   Samaveda, Yajurveda, Atharvaveda
 -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
+-   [Vaisesika Sutra](https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika_S%C5%ABtra) AKA Kanada Sutra
 -   "Hindu synthesis" started to develop between 500 BCE and 300 CE
 
 Secondary texts:
