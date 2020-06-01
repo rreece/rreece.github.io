@@ -877,7 +877,6 @@ Plato:
 -   Knowledge is power [^RepublicV477]
 -   Perception is _not_ knowledge [^Theaetetus186]
 -   Knowledge = Justified True Belief (JTB)
--   TODO: find ref
 
 >   SOCRATES: Then suppose a jury has been justly persuaded of some matter which
 >   only an eye-witness could know, and which cannot otherwise be
