@@ -133,6 +133,13 @@ Political philosophy
 -   Neoliberalism
 
 
+Protests and (non-)violence
+--------------------------------------------------------------------------------
+
+-   MLK, etc.
+-   Osterweil, V. (2014). [In defense of looting](https://thenewinquiry.com/in-defense-of-looting). August 21, 2014.
+
+
 My thoughts
 --------------------------------------------------------------------------------
 
