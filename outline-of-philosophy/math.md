@@ -226,6 +226,27 @@ Platonism
     ([Wikimedia](https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg), 2013).
     ](img/Raphael-School-of-Athens-1511-detail-Plato-Aristotle-mod.jpg){#fig:Raphael-School-of-Athens-1511-detail-Plato-Aristotle}
 
+>   I think you know that the students of geometry, calculation, and the like
+>   hypothesize the odd and the even, the various figures, the three kinds of
+>   angles, and other things akin to these in each of their investigations,
+>   as if they knew them. They make their hypotheses and don't think it
+>   necessary to give any account of them, either to themselves or to others,
+>   as if they were clear to everyone. And going from these first principles
+>   through the remaining steps, they arrive in full agreement.
+>
+>   I certainly know as much.
+>
+>   Then you also know that, although they use visible figures and make claims
+>   about them, their thought isn't directed to them but to those other
+>   things that they are like. They make claims for the sake of the square
+>   itself and the diagonal itself, not the diagonal they draw, and similarly
+>   with the others. These figures that they make and draw, of which shadows
+>   and reflections in water are images, they now in turn use as images,
+>   in seeking to see those others themselves that one cannot see except
+>   by means of thought. [^RepublicVI510c]
+
+[^RepublicVI510c]: Plato, *Republic VI* 510c, @Cooper_1997_Plato_Complete_works\, p. 1131.
+
 -   [A very platonist math documentary](https://www.youtube.com/watch?v=8gd-gUlBv_s)
 
 
