@@ -628,6 +628,7 @@ description or imitation:
 ### Criticism
 
 -   [Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade) (1740-1814)
+-   [Saul Bellow](https://en.wikipedia.org/wiki/Saul_Bellow) (1915-2005)
 -   [Camille Paglia](https://en.wikipedia.org/wiki/Camille_Paglia) (b. 1947)
 -   [Alain de Botton](https://en.wikipedia.org/wiki/Alain_de_Botton) (b. 1969)
     -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
