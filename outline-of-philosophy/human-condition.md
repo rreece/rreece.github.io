@@ -820,7 +820,10 @@ Existentialism
 ### Proto-existentialist
 
 -   [S&oslash;ren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard) (1813-1855)
+    -   anxiety & subjectivity
 -   [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky) (1821-1881)
+    -   Volkov, A.I. (2011). [Dostoevsky Did Say It: A Response to David E. Cortesi](https://infidels.org/library/modern/andrei_volkov/dostoevsky.html).
+    -   Zizek, S. (2012). [If there is a God, then anything is permitted](https://www.abc.net.au/religion/if-there-is-a-god-then-anything-is-permitted/10100616).
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
     -   "God is dead"
     -   "the mouth of the first immoralist", *Ecce Homo*
@@ -833,6 +836,7 @@ Existentialism
 ### Existentialist
 
 -   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
+    -   *The Courage to Be* (1952)
 -   [Martin Heidegger](https://en.wikipedia.org/wiki/Martin_Heidegger) (1889-1976)
     -   [Thrownness](https://en.wikipedia.org/wiki/Thrownness) - Humans are "thrown [geworfen] into the world"
     -   [Dasein](https://en.wikipedia.org/wiki/Dasein) - being there
@@ -844,6 +848,7 @@ Existentialism
     -   Authenticity
     -   Bad faith
 -   [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir) (1908-1986)
+    -   *The Second Sex* (1949)
 -   [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) (1913-1960)
     -   The Absurd
     -   The question of suicide
