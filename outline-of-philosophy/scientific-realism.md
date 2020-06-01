@@ -78,7 +78,7 @@ Realism and antirealism
 
 ![Depiction of the scene in the Allegory of the Cave.](img/allegory-of-the-cave.jpg){#fig:allegory-of-the-cave}
 
-[^RepublicVII514]: Plato, *Republic VII* 514-520, @Cooper_1997_Plato_Complete_works\, p. 1132--7.
+[^RepublicVII514]: Plato, *Republic VII* 514--520, @Cooper_1997_Plato_Complete_works\, p. 1132--7.
 
 
 ### Early modern skepticism

@@ -66,6 +66,24 @@ Moral realism
 -   Murdoch, Iris. (1999). *The Sovereignty of Good*.
 -   Plato: [*Minos*](https://en.wikipedia.org/wiki/Minos_(dialogue))
 
+>   What about someone who believes in beautiful things, but doesn't believe
+>   in the beautiful itself and isn't able to follow anyone who could lead him
+>   to the knowledge of it? Don't you think he is living in a dream rather than
+>   a wakened state? Isn't this dreaming: whether asleep or awake, to think
+>   that a likeness is not a likeness but rather the thing itself that it is
+>   like?
+>   
+>   I certainly think that someone who does that is dreaming.
+>   
+>   But someone who, to take the opposite case, believes in the beautiful itself,
+>   can see both it and the things that participate in it and doesn't believe that
+>   the participants are it or that it itself is the participants---he is living
+>   in a dream or is he awake?
+>   
+>   He's very much awake. [^RepublicV476c]
+
+[^RepublicV476c]: Plato, *Republic V* 476c, @Cooper_1997_Plato_Complete_works\, p. 1103.
+
 
 Moral naturalism
 --------------------------------------------------------------------------------

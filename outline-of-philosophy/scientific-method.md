@@ -867,27 +867,64 @@ Sagan:
 [^McComas2008]: @McComas_2008_Seeking_historical_examples_to_illustrate_key\.
 
 
-Scientific knowledge and realism
+Knowledge and realism
 --------------------------------------------------------------------------------
 
--   Definition of knowledge
-    -   Plato: Knowledge = Justified True Belief (JTB)
-    -   TODO: find ref
+### Definining knowledge
+
+Plato:
+
+-   Knowledge is power [^RepublicV477]
+-   Perception is _not_ knowledge [^Theaetetus186]
+-   Knowledge = Justified True Belief (JTB)
+-   TODO: find ref
+
+>   SOCRATES: Then suppose a jury has been justly persuaded of some matter which
+>   only an eye-witness could know, and which cannot otherwise be
+>   known; suppose they come to their decision upon hearsay, forming a true
+>   judgment: then they have decided the case without knowledge, but, granted
+>   they did their job well, being correctly persuaded?
+>   
+>   THEAETETUS: Yes, certainly.
+>   
+>   SOCRATES: But, my dear lad, they couldn't have done that if true judgment
+>   is the same thing as knowledge; in that case the best juryman in the world
+>   couldn't form a correct judgment without knowledge. So it seems they must
+>   be different things.
+>   
+>   THEAETETUS: Oh, yes, Socrates, that's just what I once heard a man say;
+>   I had forgotten, but now it's coming back to me. He said that it is true
+>   judgment with an account that is knowledge; true judgment without an
+>   account falls outside of knowledge. And he said that the things of which
+>   there is no account are not knowable (yes, he actually called them that),
+>   while those which have an account are knowable.
+>   
+>   SOCRATES: Very good indeed. [^Theaetetus201b]
+
+![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g), 2014).](img/knowledge.png){#fig:knowledge-jtb-g}
+
+[^RepublicV477]: Plato, *Republic V* 477--8, @Cooper_1997_Plato_Complete_works\, p. 1103--4.
+[^Theaetetus186]: Plato, *Theaetetus* 186--7, @Cooper_1997_Plato_Complete_works\, p. 205--7.
+[^Theaetetus201b]: Plato, *Theaetetus* 201b--d, @Cooper_1997_Plato_Complete_works\, p. 222--3.
+
+
+### Epistemic errors
+
 -   Gettier cases
     -   Knowledge = JTB - G
     -   TODO: find ref
 -   Systematic uncertainties.  Failed justification.
     -   TODO: discussion by me
 
-![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g), 2014).](img/knowledge.png){#fig:knowledge-jtb-g}
+
+### Fallibility
 
 TODO sort out:
 
 -   Hume on the problem of induction and the uniformity of nature.
 -   Uniformitarianism: Unless we have a collective and/or non-local conspiracies,
     we can probablistically justify assumptions of uniformity.
--   Ontological implications of science.
--   Falibility
+-   Fallibility
 
 Feynman:
 
@@ -904,13 +941,19 @@ The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*. Russel
 >   Your belief is justified, and as it happens it is five o'clock.
 >   But unbeknownst to you, the clock stopped exactly twelve hours ago. [^Russell2009]
 
+[^Feynman1998p26]: @Feynman_1998_The_Meaning_of_It_All\, p. 26--27.
+[^Russell2009]: @Russell_2009_Human_Knowledge_Its_Scope_and_Limits\.
+
+
+### Scientific knowledge
+
+-   Ontological implications of science.
+-   Scientific method, community, and body of knowledge.
+
 See also:
 
 -   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
 -   See the [Outline on scientific realism](scientific-realism.html).
-
-[^Feynman1998p26]: @Feynman_1998_The_Meaning_of_It_All\, p. 26--27.
-[^Russell2009]: @Russell_2009_Human_Knowledge_Its_Scope_and_Limits\.
 
 
 Naturalism, monism, and reductionism
@@ -1286,6 +1329,7 @@ Click to show links
 -   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
 -   [Platonic Academy (387 BCE - 529 CE)](https://en.wikipedia.org/wiki/Platonic_Academy)
+-   [Plato's analogy of the divided line](https://en.wikipedia.org/wiki/Analogy_of_the_divided_line)
 -   [Plato's problem](http://en.wikipedia.org/wiki/Plato%27s_Problem) from Noam Chomsky 
 -   [Poincar&eacute;, Henri (1854-1912)](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)

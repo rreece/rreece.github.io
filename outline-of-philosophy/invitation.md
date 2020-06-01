@@ -142,11 +142,23 @@ Who do I want to reach with this argument?
     and what sorts of claims it justifies.
 -   Can this be accessible and interesting to both academic and lay audiences?
 
+>   What if the person who has opinion but not knowledge is angry with
+>   us and disputes the truth of what we are saying? Is there some way to
+>   console him and persuade him gently, while hiding from him that he isn't
+>   in his right mind?
+>   
+>   There must be.
+>   
+>   Consider, then, what we'll say to him. Won't we question him like this?
+>   First, we'll tell him that nobody begrudges him any knowledge he may have
+>   and that we'd be delighted to discover that he knows something. [^RepublicV476e]
+
 I hope that is enough of an invitation to catch your interest.
 In the next section, we will survey the history of science and
 examine what can be said of the "[scientific method](scientific-method.html)."
 
 [^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. 
+[^RepublicV476e]: Plato, *Republic V* 476e, @Cooper_1997_Plato_Complete_works\, p. 1103.
 [^Rose1996]: @Rose_1996_Carl_Sagan_discusses_Demon_Haunted_World\.
 [^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 
