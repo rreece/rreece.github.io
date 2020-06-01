@@ -833,9 +833,13 @@ Existentialism
 
 -   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
 -   [Martin Heidegger](https://en.wikipedia.org/wiki/Martin_Heidegger) (1889-1976)
-    -   Dasein
+    -   [Thrownness](https://en.wikipedia.org/wiki/Thrownness) - Humans are "thrown [geworfen] into the world"
+    -   [Dasein](https://en.wikipedia.org/wiki/Dasein) - being there
+    -   Mitsein - being with
 -   [Jean-Paul Sartre](https://en.wikipedia.org/wiki/Jean-Paul_Sartre) (1905-1980)
-    -   Existentialism
+    -   Existence precedes essence.
+    -   Randomness decides a lot.
+    -   We are often in denial of how radically free we are.
     -   Authenticity
     -   Bad faith
 -   [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir) (1908-1986)
@@ -843,6 +847,7 @@ Existentialism
     -   The Absurd
     -   The question of suicide
     -   Sisyphus
+    -   "To live without appeal"
 
 
 Nihilism
