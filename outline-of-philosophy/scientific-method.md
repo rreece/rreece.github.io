@@ -265,15 +265,10 @@ Weinberg:
 
 ### Biological evolution
 
--   Anaximander speculated that humans evolved from fish?
--   [Democritus on the historical development of human communities](https://plato.stanford.edu/entries/democritus/)
--   Hume on humans being animals [^Hume2007pX]
 -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
 -   [Mendel, Gregor (1822-1884)](https://en.wikipedia.org/wiki/Gregor_Mendel)
 -   [Wallace, Alfred Russel (1823-1913)](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace)
 -   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
-
-[^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
 
 
 ### Modern physics
@@ -595,6 +590,7 @@ Dewey:
 [^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
 [^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
     @Reichenbach_1940_On_the_justification_of_induction\.
+    TODO: Break up and go through these references.
 [^Vickers2014]: @Vickers_2014_The_problem_of_induction (emphasis added).
 
 
@@ -635,13 +631,13 @@ Arthur Conan Doyle:
 [^Bhaskar2008pX]: @Bhaskar_2008_A_Realist_Theory_of_Science\.
 [^Douven2011]: @Douven_2011_Abduction\.
 [^Doyle1890]: @Doyle_1890_The_Sign_of_the_Four\, ch. 6.
-[^WikipediaAbductiveReasoning1]: <https://en.wikipedia.org/wiki/Abductive_reasoning>
+[^WikipediaAbductiveReasoning1]: [en.wikipedia.org/wiki/Abductive_reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)
 [^WikipediaAbductiveReasoning2]: Ibid.
 
 
 ### Statistics as a solution to the problem of induction
 
--   Reichenbach
+-   Reichenbach [^ReichenbachTODO]
 -   Weisberg [^Weisberg2019appD] - nope
 -   Salmon [^Salmon1963]
 -   Good [^Good1988]
@@ -658,10 +654,12 @@ Arthur Conan Doyle:
     TODO: Go through the Howson articles.
 [^Huber2007]: @Huber_2007_Confirmation_and_induction\.
 [^Good1988]: @Good_1988_The_interface_between_statistics_and_philosophy\.
+[^ReichenbachTODO]: TODO: Find Reichenbach references; could use previous ones.
 [^Salmon1963]: @Salmon_1963_On_vindicating_induction\,
     @Salmon_1966_The_Foundations_of_Scientific_Inference\,
     @Salmon_1967_Carnaps_inductive_logic\,
     @Salmon_1991_Hans_Reichenbachs_vindication_of_induction\.
+    TODO: Break up and go through these references.
 [^Weisberg2019appD]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, Appendix D\.
 
 

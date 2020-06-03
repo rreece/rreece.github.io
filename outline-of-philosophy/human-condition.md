@@ -569,44 +569,6 @@ Theses (Pigliucci?):
 [^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.
 
 
-Comparitive studies
---------------------------------------------------------------------------------
-
--   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
-    -   Particularly known for his proposition of the existence of a relationship among European and Indo-Aryan languages, which he coined as Indo-European.
-    -   He hypothesized that Sanskrit, Greek, and Latin languages have a common root: [Proto-Indo-European language](https://en.wikipedia.org/wiki/Proto-Indo-European_language).
--   Buddhism and Greek philosophy
-    -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
-    -   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
-    -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
-    -   Buddhism and Orphism
-    -   Buddhism and Pyrrhonism
-    -   Buddhism and Plato, *Phaedo*
-    -   Buddhism and Stoicism
-    -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
--   McEvilley
-    -   *The Shape of Ancient Thought* [^McEvilley2002]
-    -   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
--   "Silk road philosophy"
-    -   Daniel Estrada
--   *The Perennial Philosophy*
-    -   Huxley [^Huxley1945]
-    -   TODO: criticism
-
-In defending esoteric knowledge [^EsotericKnowledge] Huxley's views are
-decidedly not naturalistic:
-
->   If one is not oneself a sage or saint, the best thing one can do, in the
->   field of metaphysics, is to study the works of those who were, and who,
->   because they had modified their merely human mode of being,
->   were capable of a more than merely human kind and amount of knowledge. [^Huxley1945p5]
-
-[^EsotericKnowledge]: See discussion of non-naturalistic "esoteric knowledge" in the [Outline on naturalism](naturalism.html#what-is-naturalism)
-[^Huxley1945]: @Huxley_1945_The_Perennial_Philosophy\.
-[^Huxley1945p5]: @Huxley_1945_The_Perennial_Philosophy\, p. 5--6.
-[^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.
-
-
 Romanticism
 --------------------------------------------------------------------------------
 
@@ -640,6 +602,49 @@ description or imitation:
     -   [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
 
 
+Comparitive studies
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
+    -   Particularly known for his proposition of the existence of a relationship among European and Indo-Aryan languages, which he coined as Indo-European.
+    -   He hypothesized that Sanskrit, Greek, and Latin languages have a common root: [Proto-Indo-European language](https://en.wikipedia.org/wiki/Proto-Indo-European_language).
+
+
+### Indian and Greek philosophy
+
+-   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
+-   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
+-   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
+-   Buddhism and Orphism
+-   Buddhism and Pyrrhonism
+-   Buddhism and Plato, *Phaedo*
+-   Buddhism and Stoicism
+-   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
+-   McEvilley
+    -   *The Shape of Ancient Thought* [^McEvilley2002]
+    -   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
+-   "Silk road philosophy"
+    -   Daniel Estrada
+-   *The Perennial Philosophy*
+    -   Huxley [^Huxley1945]
+    -   TODO: criticism
+
+In defending esoteric knowledge [^EsotericKnowledge] Huxley's views are
+decidedly not naturalistic:
+
+>   If one is not oneself a sage or saint, the best thing one can do, in the
+>   field of metaphysics, is to study the works of those who were, and who,
+>   because they had modified their merely human mode of being,
+>   were capable of a more than merely human kind and amount of knowledge. [^Huxley1945p5]
+
+[^EsotericKnowledge]: See discussion of non-naturalistic "esoteric knowledge" in the [Outline on naturalism](naturalism.html#what-is-naturalism)
+[^Huxley1945]: @Huxley_1945_The_Perennial_Philosophy\.
+[^Huxley1945p5]: @Huxley_1945_The_Perennial_Philosophy\, p. 5--6.
+[^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.
+
+
 Biology
 --------------------------------------------------------------------------------
 
@@ -651,29 +656,30 @@ Biology
 >   they are connected       
 >   underneath [^Rukeyser1976]
 
+-   Anaximander speculated that humans evolved from fish?
+-   [Democritus on the historical development of human communities](https://plato.stanford.edu/entries/democritus/)
+-   Hume on humans being animals [^Hume2007pX]
+-   [Charles Darwin](http://en.wikipedia.org/wiki/Charles_Darwin) (1809-1882)
+-   [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) (1822-1884)
+-   [Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace) (1823-1913)
+-   [Thomas Henry Huxley](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley) (1825-1895)
+
+![The great tree of life. Larger version: [here](img/great-tree-of-life-large.png). Source:[here](https://visual.ly/community/infographic/science/great-tree-life).](img/great-tree-of-life.png){#fig:great-tree-of-life}
+
 -   We are animals.
 -   We are all related.
 -   We are from a lineage.
 -   We are evolved.
 -   *Darwin's Dangerous Idea* [^Dennett1995]
+-   Andrews on Terrence Deacon's hierarchic transitions [^Andrews2018]
 -   See also the outline of the history of
     [biological evoluion](http://rreece.github.io/outline-of-philosophy/scientific-method.html#biological-evolution)
     in the [Outline of the scientific method](http://rreece.github.io/outline-of-philosophy/scientific-method.html).
 
-![The great tree of life. Larger version: [here](img/great-tree-of-life-large.png). Source:[here](https://visual.ly/community/infographic/science/great-tree-life).](img/great-tree-of-life.png){#fig:great-tree-of-life}
-
--   Andrews on Terrence Deacon's hierarchic transitions [^Andrews2018]
-
 [^Andrews2018]: @Andrews_2018_Does_natural_selection_explain_why_you_exist\.
 [^Dennett1995]: @Dennett_1995_Darwins_Dangerous_Idea_Evolution\.
+[^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
 [^Rukeyser1976]: @Rukeyser_1976_Islands\.
-
-
-### Biochemistry
-
--   We are complex.
-
-![[Blood by David S. Goodsell (2000)](http://mgl.scripps.edu/people/goodsell/illustration/public).](img/Goodsell-blood.jpg){#fig:Goodsell-blood}
 
 
 ### Genetics
@@ -682,6 +688,13 @@ Biology
 -   [Drew Berry: Animations of unseeable biology](https://www.youtube.com/watch?v=WFCvkkDSfIU)
 
 ![TODO: caption, from Drew Berry.](img/drew-berry-dna-animation.gif){#fig:drew-berry-dna-animation}
+
+
+### Biochemistry
+
+-   We are complex.
+
+![[Blood by David S. Goodsell (2000)](http://mgl.scripps.edu/people/goodsell/illustration/public).](img/Goodsell-blood.jpg){#fig:Goodsell-blood}
 
 
 ### Evolution of vision
@@ -706,8 +719,11 @@ Biology
 
 -   We will die.
 -   We have about 3 billion heartbeats: 80 years $\approx 2.5 \times 10^9$ seconds.
--   Kagan
--   Hitchens
+-   Kagan [^Kagan2012]
+-   Hitchens [^Hitchens2012]
+
+[^Hitchens2012]: @Hitchens_2012_Mortality\.
+[^Kagan2012]: @Kagan_2012_Death\.
 
 
 Psychology
@@ -836,6 +852,7 @@ Existentialism
 -   [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky) (1821-1881)
     -   Volkov, A.I. (2011). [Dostoevsky Did Say It: A Response to David E. Cortesi](https://infidels.org/library/modern/andrei_volkov/dostoevsky.html).
     -   Zizek, S. (2012). [If there is a God, then anything is permitted](https://www.abc.net.au/religion/if-there-is-a-god-then-anything-is-permitted/10100616).
+    -   "The Grand Inquisitor" in *The Brothers Karamazov* (1880)
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
     -   "God is dead"
     -   "the mouth of the first immoralist", *Ecce Homo*
@@ -854,9 +871,10 @@ Existentialism
     -   [Dasein](https://en.wikipedia.org/wiki/Dasein) - being there
     -   Mitsein - being with
 -   [Jean-Paul Sartre](https://en.wikipedia.org/wiki/Jean-Paul_Sartre) (1905-1980)
+    -   *L'Existentialisme est un Humanisme* (1946) [^Sartre1946]
     -   Existence precedes essence.
-    -   Randomness decides a lot.
     -   We are often in denial of how radically free we are.
+    -   Randomness decides a lot.
     -   Authenticity
     -   Bad faith
 -   [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir) (1908-1986)
@@ -867,13 +885,17 @@ Existentialism
     -   Sisyphus
     -   "To live without appeal"
 
+[^Sartre1946]: @Sartre_2007_Existentialism_is_a_Humanism\.
+
 
 Nihilism
 --------------------------------------------------------------------------------
 
 -   Nietzsche
 -   [Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade) (1740-1814)
--   @Brassier_2007_Nihil_Unbound
+-   Brassier [^Brassier2007]
+
+[^Brassier2007]: @Brassier_2007_Nihil_Unbound\.
 
 
 My thoughts

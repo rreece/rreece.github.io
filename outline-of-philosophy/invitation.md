@@ -25,6 +25,7 @@ one that is sympathetic to a sense of real progress in science
 and philosophy in general.
 An important central set of ideas in these outlines is philosophical *naturalism*,
 which will be roughly defined below.
+But first...
 
 
 What is philosophy of science?

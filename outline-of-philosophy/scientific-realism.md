@@ -84,7 +84,6 @@ Realism and antirealism
 ### Early modern skepticism
 
 -   Many philosophers in that Early Modern Period had threads of Idealism (wikipedia: reality itself is incorporeal or experiential at its core). *e.g.* George Berkeley, Kant, Friedrich Hegel, Immanuel Kant (1724-1804)
--   Skepticism
 -   Descartes' demon
 
 

@@ -45,15 +45,16 @@ Discussion:
 ### Modern atomism
 
 -   [Corpuscularianism](https://en.wikipedia.org/wiki/Corpuscularianism)
--   [Atomism](https://en.wikipedia.org/wiki/Atomism)
 -   Boyle, Newton, Locke, Dalton
 -   ...
 -   Boltzmann
+-   Modern [Atomism](https://en.wikipedia.org/wiki/Atomism)
 -   Planck, J.J. Thomson, Rutherford, Einstein
 
 
 ### Contemporary views of matter
 
+-   QFT, etc.
 -   TODO: Brief nod to upcoming sections.
 
 
@@ -100,12 +101,33 @@ Pedagogy:
 Statistical physics
 --------------------------------------------------------------------------------
 
--   Entropy
+### Introduction
+
+TODO:
+
+-   The goal of statistical mechanics.
+-   How statistical mechanics can be seen a pure mathematics.
 -   Statistical mechanics and thermodynamics
+-   Entropy
+
+
+### History
+
 -   [Boltzmann, Ludwig](http://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906)
 -   [Maxwell, James Clerk](http://en.wikipedia.org/wiki/James_Clerk_Maxwell) (1831-1879)
 -   [Gibbs, Josiah Willard](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) (1839-1903)
+
+
+### Canonical ensemble 
+
+TODO:
+
+-   Canonical ensemble
 -   The 2nd Law of Thermodynamics said simply: Things tend to happen in ways for which there are many ways to happen like that.
+
+
+### Phase translations
+
 -   Phase transitions
 -   Renormalization
 -   See also [Renormalization](#renormalization)
@@ -228,52 +250,6 @@ Pedagogy:
 [^Zee2013]: @Zee_2003_Quantum_Field_Theory_in_a_Nutshell\.
 
 
-### Foundations
-
--   Weinberg
--   Canonical quantization
--   No "2nd quantization"
--   Redhead [^Redhead1982]
--   Redhead [^Redhead1988]
--   Canonical vs path integral quantization
--   [Reeh-Schlieder theorem](https://en.wikipedia.org/wiki/Reeh%E2%80%93Schlieder_theorem)
-    -   Taj Mahal principle
--   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
-
-[^Peskin1995]: @Peskin_1995_An_Introduction_to_Quantum_Field_Theory\.
-[^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
-[^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
-
-
-### Path intergrals
-
--   Feynman
--   Partition functions and generating functionals
-
-
-### Algebraic vs constructive QFT
-
--   AQFT vs LQFT
--   *Local Quantum Physics* [^Haag1992]
--   Wallace
--   Fraser
-
-Kastler:
-
->   Rudolf [Haag] is not satisfied by a notion of local observables relying
->   plainly on space and time. Instead he wishes to base the theory on concepts
->   related to individual processes. This attitude seems to me to move towards a
->   basic "algebra of procedures", pointing towards a theory of (non-commutative)
->   space-time. I know that, coming from a very different angle, Alain Connes
->   also believes the ultimate algebra of basic physics to be a discrete algebra
->   of elements standing for experimental procedures---following the idea 
->   that the spatial notions man acquires in his cradle are less basic than
->   his procedures at [particle] accelerators. [^Kastler2003p6]
-
-[^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
-[^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
-
-
 ### Spin-statistics theorem
 
 -   Spin-statistics theorem - Pauli
@@ -293,6 +269,13 @@ Kastler:
 
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
 [^Martin2018]: @Martin_2018_Phenomenology_of_particle_physics\.
+
+
+### Path intergrals
+
+-   Feynman
+-   Partition functions and generating functionals
+-   Show this way of deriving the Feynman rules
 
 
 ### Renormalization
@@ -328,6 +311,23 @@ Kastler:
 [^Bain2013]: @Bain_2013_Effective_field_theories and
     @Bain_2013_Emergence_in_effective_field_theories\.
 [^Weinberg1997]: @Weinberg_1996_What_is_quantum_field_theory_and_what_did_we\.
+
+
+### Foundations
+
+-   Weinberg
+-   Canonical quantization
+-   No "2nd quantization"
+-   Redhead [^Redhead1982]
+-   Redhead [^Redhead1988]
+-   Canonical vs path integral quantization
+-   [Reeh-Schlieder theorem](https://en.wikipedia.org/wiki/Reeh%E2%80%93Schlieder_theorem)
+    -   Taj Mahal principle
+-   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
+
+[^Peskin1995]: @Peskin_1995_An_Introduction_to_Quantum_Field_Theory\.
+[^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
+[^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
 
 
 ### Haag's theorem
@@ -375,6 +375,29 @@ Kastler:
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
 [^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
 [^Teller1997p115]: @Teller_1997_An_Interpretive_Introduction_to_Quantum_Field\, p. 115.
+
+
+### Algebraic vs constructive QFT
+
+-   AQFT vs LQFT
+-   *Local Quantum Physics* [^Haag1992]
+-   Wallace
+-   Fraser
+
+Kastler:
+
+>   Rudolf [Haag] is not satisfied by a notion of local observables relying
+>   plainly on space and time. Instead he wishes to base the theory on concepts
+>   related to individual processes. This attitude seems to me to move towards a
+>   basic "algebra of procedures", pointing towards a theory of (non-commutative)
+>   space-time. I know that, coming from a very different angle, Alain Connes
+>   also believes the ultimate algebra of basic physics to be a discrete algebra
+>   of elements standing for experimental procedures---following the idea 
+>   that the spatial notions man acquires in his cradle are less basic than
+>   his procedures at [particle] accelerators. [^Kastler2003p6]
+
+[^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
+[^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
 
 
 Exotics in quantum field theory
