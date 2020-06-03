@@ -36,6 +36,8 @@ Malament, D.B. (1996). In defence of dogma: Why there cannot be a relativistic q
 Martin, S.P. (2016). A supersymmetry primer. https://arxiv.org/abs/hep-ph/9709356 [(First published in 1997)]
 Martin, S.P. (2018). Phenomenology of particle physics. https://www.niu.edu/spmartin/phys686/
 Mermin, N.D. (1985). Is the moon there when nobody looks? Reality and the quantum theory. *Physics Today*, 38(4), 38--47.
+Nail, T. (2018). *Lucretius I: An Ontology of Motion*. Edinburgh University Press.
+Nail, T. (2020). *Lucretius II: An Ethics of Motion*. Edinburgh University Press.
 Ney, A. & Albert, D.Z. (2013). *The Wave Function: Essays on the metaphysics of quantum mechanics*. Oxford University Press.
 Peskin, M.E. & Schroeder, D.V. (1995). *An Introduction to Quantum Field Theory*. Westview Press.
 Proietti, M. et al. (2019). Experimental test of local observer independence. *Science Advances*, 5(9), eaaw9832. https://arxiv.org/abs/1902.05080

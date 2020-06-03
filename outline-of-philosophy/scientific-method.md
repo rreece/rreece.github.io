@@ -645,6 +645,7 @@ Arthur Conan Doyle:
 -   Weisberg [^Weisberg2019appD] - nope
 -   Salmon [^Salmon1963]
 -   Good [^Good1988]
+-   Howson [^HowsonBJPSSpecial]
 -   Hacking [^Hacking2001]
 -   Huber [^Huber2007]
 -   See also:
@@ -653,6 +654,8 @@ Arthur Conan Doyle:
         the [Outline on scientific realism](scientific-realism.html#humeanism).
 
 [^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
+[^HowsonBJPSSpecial]: [thebsps.org/auxhyp/howson/](http://www.thebsps.org/auxhyp/howson/).
+    TODO: Go through the Howson articles.
 [^Huber2007]: @Huber_2007_Confirmation_and_induction\.
 [^Good1988]: @Good_1988_The_interface_between_statistics_and_philosophy\.
 [^Salmon1963]: @Salmon_1963_On_vindicating_induction\,

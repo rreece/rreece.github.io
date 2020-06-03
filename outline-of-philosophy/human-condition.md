@@ -236,6 +236,7 @@ Primary texts:
 
 Secondary texts:
 
+-   Katz & Egenes translation of the Upanishads [^Katz2015]
 -   McEvilley [^McEvilley2002-hinduism]
 
 Other stuff:
@@ -243,6 +244,7 @@ Other stuff:
 -   [Maharishi Mahesh Yogi](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi) (1918-2008)
 -   [John Hagelin](https://en.wikipedia.org/wiki/John_Hagelin) (b. 1954)
 
+[^Katz2015]: @Katz_2015_The_Upanishads_A_New_Translation\.
 [^McEvilley2002-hinduism]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. TODO.
 [^McEvilley2002p327]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 327.
 
@@ -608,6 +610,8 @@ decidedly not naturalistic:
 Romanticism
 --------------------------------------------------------------------------------
 
+### Introduction
+
 -   [Romanticism](https://en.wikipedia.org/wiki/Romanticism)
     -   late 18th through 19th centuries
     -   focus on emotion
@@ -700,21 +704,29 @@ Biology
 
 ### Mortality
 
--   We will die
--   We have about 3 billion heartbeats: 80 years $\approx 2.5 \times 10^9$ seconds
+-   We will die.
+-   We have about 3 billion heartbeats: 80 years $\approx 2.5 \times 10^9$ seconds.
+-   Kagan
+-   Hitchens
 
 
 Psychology
 --------------------------------------------------------------------------------
 
--   TODO: history
-    -   Freud
-    -   Jung
-    -   Pavlov
-    -   ...
+### History
+
+TODO:
+
+-   Freud
+-   Jung
+-   Pavlov
+-   ...
+
+### Cognitive behavioral therapy
+
 -   [Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
-    -   compare with Buddhism
-    -   compare with Stoicism
+-   Compare with Buddhism
+-   Compare with Stoicism
 -   Cognitive and psychological stability
     -   TODO: Has it been shown/argued that forming a semi-coherent and semi-consistant
         personal metaphysics is necessary/benefitial to cognitive and psychological
@@ -817,7 +829,7 @@ Plato:
 Existentialism
 --------------------------------------------------------------------------------
 
-### Proto-existentialist
+### Proto-existentialists
 
 -   [S&oslash;ren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard) (1813-1855)
     -   anxiety & subjectivity
@@ -833,7 +845,7 @@ Existentialism
 [^Leiter2019]: @Leiter_2019_The_Death_of_God_and_the_Death_of_Morality\.
 
 
-### Existentialist
+### Existentialists
 
 -   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
     -   *The Courage to Be* (1952)
@@ -1126,5 +1138,3 @@ Others
 </div>
 
 <!-- REFERENCES -->
-
-
