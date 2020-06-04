@@ -885,6 +885,11 @@ Existentialism
     -   Sisyphus
     -   "To live without appeal"
 
+Artworks:
+
+-   Miller, A. (1949) Play: *Death of a Salesman*.
+-   TODO: more
+
 [^Sartre1946]: @Sartre_2007_Existentialism_is_a_Humanism\.
 
 
@@ -923,7 +928,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Sartre, J.P. (1946). Existentialism is a Humanism.
+### Sartre, J.P. (1946). *Existentialism is a Humanism*.
 
 -   "existence precedes essence"
 -   Refers to Nietzsche's God is dead, therefore we are free.

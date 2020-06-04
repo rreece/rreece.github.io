@@ -24,6 +24,8 @@ starting with [rationalism vs empiricism](#rationalism-vs-empiricism).
 
 ![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig:timeline-of-major-philosophers-since-1200}
 
+_This section is collapsed:_
+
 <div class="clickmore"><a id="link:history_of_science" class="closed" onclick="toggle_more('history_of_science')">
 Click to show the paltry outline of the history of science
 </a></div>
@@ -806,7 +808,7 @@ Sagan:
 [^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
 [^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
 [^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
-[^Sagan1995pX]: HERE, p. TODO.
+[^Sagan1995pX]: TODO, p. TODO.
 
 
 ### Yes: Models of science
