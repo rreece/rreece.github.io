@@ -225,7 +225,7 @@ Hinduism
 -   Four n&amacr;stika (heterodox) schools: [Buddhism](https://en.wikipedia.org/wiki/Buddhism), [Jainism](https://en.wikipedia.org/wiki/Jainism), [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka), [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
 -   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
 
-Primary texts:
+#### Primary texts
 
 -   [Vedas](https://en.wikipedia.org/wiki/Vedas)
     -   [Rigveda](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700-1,100 BCE)
@@ -234,12 +234,12 @@ Primary texts:
 -   [Vaisesika Sutra](https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika_S%C5%ABtra) AKA Kanada Sutra
 -   "Hindu synthesis" started to develop between 500 BCE and 300 CE
 
-Secondary texts:
+#### Secondary texts
 
 -   Katz & Egenes translation of the Upanishads [^Katz2015]
 -   McEvilley [^McEvilley2002-hinduism]
 
-Other stuff:
+#### Other stuff
 
 -   [Maharishi Mahesh Yogi](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi) (1918-2008)
 -   [John Hagelin](https://en.wikipedia.org/wiki/John_Hagelin) (b. 1954)
@@ -293,11 +293,11 @@ Buddhism
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [Buddhist modernism](https://en.wikipedia.org/wiki/Buddhist_modernism)
 
-Primary texts:
+#### Primary texts
 
 -   [Buddhist texts](https://en.wikipedia.org/wiki/Buddhist_texts)
 
-Secondary texts:
+#### Secondary texts
 
 -   Epstein, R. (2004). [Resources for the study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
 -   Harvey [^Harvey2013]
@@ -337,7 +337,7 @@ Important initial concepts:
 [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (magga):
 
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
--   [Madhyamaka](https://en.wikipedia.org/wiki/Madhyamaka) - [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
+-   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (Pali: bodhi)
 -   [Nirvana](https://en.wikipedia.org/wiki/Nirvana) - liberation from sams&amacr;ra like moksha
 -   [Arhat](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana)
@@ -349,12 +349,14 @@ Other stuff:
 -   [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy)
 -   The three trainings: sila, praj&ntilde;a, and samadhi
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
--   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
--   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
--   [Maitreya](https://en.wikipedia.org/wiki/Maitreya)
 -   [&Sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)
+    -   Therav&amacr;da: non-self nature or [Anatta](https://en.wikipedia.org/wiki/Anatta)
+    -   Mah&amacr;y&amacr;na: the emptiness doctrine that all things of empty of intrinsic existence; refuting essentialism.
 -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
     -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
+-   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
+-   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
+-   [Maitreya](https://en.wikipedia.org/wiki/Maitreya) AKA Ajita - regarded as a prophesied future Buddha 
 
 ![Map of the main modern Buddhist sects. Kalmykia in western Russia was cropped out, sorry ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
 
@@ -366,24 +368,32 @@ Other stuff:
 -   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline.
 -   [Third Buddhist Council](https://en.wikipedia.org/wiki/Third_Buddhist_council) (c. 250 BCE)
 
-Doctrines:
+#### Doctrines
 
+-   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
+    1.  Right Understanding
+    2.  Right Intention
+    3.  Right Speech
+    4.  Right Action
+    5.  Right Livelihood
+    6.  Right Effort
+    7.  Right Mindfulness
+    8.  Right Unification
 -   [Vipassan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
--   [Vipassan&amacr; movement](https://en.wikipedia.org/wiki/Vipassana_movement)
+    -   [Vipassan&amacr; movement](https://en.wikipedia.org/wiki/Vipassana_movement)
     -   branch of modern Burmese Therav&amacr;da Buddhism with widespread popularity since the 1950s
-    -   popularized Buddhism in the United States??
 -   [Acinteyya](https://en.wikipedia.org/wiki/Acinteyya) - the four imponderable or incomprehensible issues
 -   Jh&amacr;nas - states of meditation. See [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism).
 
-Primary texts:
+#### Primary texts
 
 -   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
     -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
+        -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
     -   [Sutta Pitak](https://en.wikipedia.org/wiki/Sutta_Pi%E1%B9%ADaka)
-    -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
     -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
 
-Secondary texts:
+#### Secondary texts
 
 -   TODO
 
@@ -394,7 +404,7 @@ Secondary texts:
 -   Sanskrit: "The Great Vehicle"
 -   Mah&amacr;y&amacr;na tradition is the largest major tradition of Buddhism existing today.
 -   Mah&amacr;y&amacr;na Buddhists teach that enlightenment can be attained in a single lifetime, and this can be accomplished even by a layperson.
--   [Mah&amacr;deva](https://en.wikipedia.org/wiki/Mahadeva_(Buddhism))
+-   Mah&amacr;y&amacr;na Buddhism has a lot of doctrinal diversity due to assimilating with Asian cultures, particularly in China and Japan.
 -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
@@ -402,24 +412,37 @@ Secondary texts:
 -   [Zen Buddhism](https://en.wikipedia.org/wiki/Zen)
     -   Began in China as "Ch&aacute;n" in the [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
     -   Introduced in Japan in 12th century CE and later romanized as "Zen"
+-   [Xuanzang](https://en.wikipedia.org/wiki/Xuanzang) (fl. c. 602-664 CE)
 -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
 
-Doctrines:
+#### Doctrines
 
--   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
--   &Sacute;&umacr;nyav&amacr;da AKA Madhyamaka - "the emptiness theory"
+-   [Madhyamaka](https://en.wikipedia.org/wiki/Madhyamaka) - "Middle Way"
+    -   AKA &Sacute;&umacr;nyav&amacr;da - "the emptiness doctrine"
+    -   Founded in N&amacr;g&amacr;rjuna's work [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Root Verses on the Middle Way"
+-   [Tath&amacr;gatagarbha](https://en.wikipedia.org/wiki/Tathagatagarbha) - "the doctrine of Buddha nature"
 -   Vija&ntilde;&amacr;nav&amacr;da - "the doctrine of consciousness"
--   Tath&amacr;gatagarbha - "the doctrine of Buddha nature"
+    -   [Yogachara](https://en.wikipedia.org/wiki/Yogachara) - "Yoga practice"
+-   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
+    -   The Bodhisattva Path
+    -   This path is contrasted with the Noble Eightfold Path,
+        going beyond being an Arhat towards full Buddhahood.
+-   [P&amacr;ramit&amacr;s](https://en.wikipedia.org/wiki/Paramita) - "Six Perfections"
 -   [Ten suchnesses](https://en.wikipedia.org/wiki/Ten_suchnesses)
 
-Primary texts:
+#### Primary texts
 
+-   [Mahayana sutras](https://en.wikipedia.org/wiki/Mahayana_sutras)
+-   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) - "The Perfection of Wisdom"
+    -   radical non-dualism
+    -   P&amacr;ramit&amacr;s - "Six Perfections"
+-   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Root Verses on the Middle Way"
 -   [Heart Sutra](https://en.wikipedia.org/wiki/Heart_Sutra)
 -   [Lotus Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra)
--   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) (The Perfection of Wisdom)
-    -   radical non-dualism
+-   [Diamond Sutra](https://en.wikipedia.org/wiki/Diamond_Sutra)
+-   [Yogacarabhumi-sastra](https://en.wikipedia.org/wiki/Yogacarabhumi-sastra)
 
-Secondary texts:
+#### Secondary texts
 
 -   Williams [^Williams2009]
 

@@ -211,9 +211,9 @@ Sellars:
 Rejection of *a priori* metaphysics
 --------------------------------------------------------------------------------
 
-Metaphysical naturalism.
-
+-   Descartes (non-natural) method
 -   Locke on the rejection of innate ideas.
+-   Metaphysical naturalism.
 
 TODO: While promoting the careful gathering of empirical information,
 naturalism is not against (largely non-empirical) rational pursuits like mathematics.
@@ -653,6 +653,7 @@ Click to show links
 
 ### SEP
 
+-   [Descartes' method](https://plato.stanford.edu/entries/descartes-method/)
 -   [d'Holbach, Baron Paul-Henri Thiry (1723-1789) ](http://plato.stanford.edu/entries/holbach/)
 -   [Fundamentality](https://plato.stanford.edu/entries/fundamentality/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)

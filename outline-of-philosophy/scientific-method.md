@@ -222,6 +222,7 @@ Weinberg:
 -   [Halley, Edmond](http://en.wikipedia.org/wiki/Edmond_Halley) (1656-1742)
 -   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(mathematician)) (1675-1749)
 -   [Berkeley, George](https://en.wikipedia.org/wiki/George_Berkeley) (1685-1753)
+-   [Reid, Thomas](https://en.wikipedia.org/wiki/Thomas_Reid) (1710-1796)
 -   [Hume, David](http://en.wikipedia.org/wiki/David_Hume) (1711-1776)
 -   [Kant, Immanuel](https://en.wikipedia.org/wiki/Immanuel_Kant) (1724-1804)
 
@@ -1167,6 +1168,7 @@ Click to show links
 -   [Pythagoras (570-495 BCE)](https://plato.stanford.edu/entries/pythagoras/)
 -   [Pythagoreanism](https://plato.stanford.edu/entries/pythagoreanism/)
 -   [Rationalism vs. empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
+-   [Reid, Thomas (1710-1796)](https://plato.stanford.edu/entries/reid/)
 -   [Reproducibility of scientific results](https://plato.stanford.edu/entries/scientific-reproducibility/)
 -   [Science and pseudo-science](http://plato.stanford.edu/entries/pseudo-science/)
 -   [Scientific explanation](http://plato.stanford.edu/entries/scientific-explanation/)
@@ -1341,6 +1343,7 @@ Click to show links
 -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
 -   [Pythagoreanism](https://en.wikipedia.org/wiki/Pythagoreanism)
 -   [Razor (philosophy)](https://en.wikipedia.org/wiki/Razor_(philosophy))
+-   [Reid, Thomas (1710-1796)](https://en.wikipedia.org/wiki/Thomas_Reid)
 -   [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
 -   [Russell, Bertrand (1872-1970)](https://en.wikipedia.org/wiki/Bertrand_Russell)
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)

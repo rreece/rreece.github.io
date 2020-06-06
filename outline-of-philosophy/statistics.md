@@ -9,7 +9,25 @@ Statistics are *way* important in addressing the problem of induction.
 Problem of induction
 --------------------------------------------------------------------------------
 
-See the [Outline of the scientific method](scientific-method.html#induction)
+A key issue for the scientific method, as discussed in the previous
+[Outline](scientific-method.html#induction),
+is the problem of
+[induction](scientific-method.html#induction).
+Inductive inferences are used in the scientific method which introduce unique
+avenues of error.
+Compared to deductive inferences, which are sound and necessarily follow
+if an argument is valid and all of its premises obtain,
+inductive inferences can be valid and probably (not certainly) sound, and therefore
+can still result in error in some cases because the support of the argument is
+ultimately probabilistic.
+
+A skeptic may further probe if we are even justified in using the probabilities
+we use in inductive arguments. What is the probability the Sun will rise tomorrow?
+What kind of probabilities are reasonable?
+
+In this Outline, we sketch and explore how the mathematical theory of statistics
+has arisen to wrestle with the problem of induction, and how it equips us with
+careful ways of framing inductive arguments and notions of confidence in them.
 
 
 Probability and its related concepts
@@ -19,6 +37,8 @@ Probability and its related concepts
 
 Probability is of epistemic interest, being in some sense
 a measure of inductive confidence.
+
+TODO:
 
 -   Kolmogorov
 -   Carnap: "Probability as a guide in life" [^Carnap1947]
