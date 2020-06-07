@@ -288,14 +288,20 @@ Buddhism
     -   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
     -   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
     -   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
--   [Devadatta](https://en.wikipedia.org/wiki/Devadatta)
+-   [&Amacr;nanda](https://en.wikipedia.org/wiki/Ananda) - primary attendant of Siddhartha Gautama Buddha
+-   [Devadatta](https://en.wikipedia.org/wiki/Devadatta) - cousin and brother-in-law of Siddhartha Gautama
+-   [Ten Principal Disciples](https://en.wikipedia.org/wiki/Ten_Principal_Disciples)
 -   [Ashoka](https://en.wikipedia.org/wiki/Ashoka) (c. 304-232 BCE)
+-   [Gandh&amacr;ran Buddhist texts](https://en.wikipedia.org/wiki/Gandharan_Buddhist_texts) - oldest yet discovered Buddhist texts (c. first century BCE)
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [Buddhist modernism](https://en.wikipedia.org/wiki/Buddhist_modernism)
 
 #### Primary texts
 
--   [Buddhist texts](https://en.wikipedia.org/wiki/Buddhist_texts)
+[Buddhist texts](https://en.wikipedia.org/wiki/Buddhist_texts):
+
+-   Therav&amacr;da: [Pali Cannon](https://en.wikipedia.org/wiki/Pali Cannon)
+-   Mah&amacr;y&amacr;na: [Mah&amacr;y&amacr;na Sutras](https://en.wikipedia.org/wiki/Mahayana_sutras)
 
 #### Secondary texts
 
@@ -346,17 +352,25 @@ Important initial concepts:
     -   In the Mahayana tradition an Arhat is far along the path of enlightenment but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 
-Other stuff:
+The three trainings:
 
--   [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy)
+1.  silaa - "discipline" or "moral conduct"
+2.  samadhi - "meditation"
+3.  praj&ntilde;a - "wisdom"
+
+[Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy):
+
 -   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
--   The three trainings: sila, praj&ntilde;a, and samadhi
+-   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
+    -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
 -   [&Sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)
     -   Therav&amacr;da: non-self nature or [Anatta](https://en.wikipedia.org/wiki/Anatta)
     -   Mah&amacr;y&amacr;na: the emptiness doctrine that all things of empty of intrinsic existence; refuting essentialism.
--   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
-    -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
+-   [Secular Buddhism](https://en.wikipedia.org/wiki/Secular_Buddhism)
+
+Other stuff:
+
 -   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
 -   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
 -   [Maitreya](https://en.wikipedia.org/wiki/Maitreya) AKA Ajita - regarded as a prophesied future Buddha 
@@ -390,17 +404,23 @@ Other stuff:
 
 #### Primary texts
 
-[Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon):
+[Tripitaka](https://en.wikipedia.org/wiki/Tripitaka) - "The Three Baskets" of the [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon):
 
--   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
-    -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
--   [Sutta Pitak](https://en.wikipedia.org/wiki/Sutta_Pi%E1%B9%ADaka)
--   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
--   [Mah&amacr;parinibb&amacr;na Sutta](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta)
+1.  [Vinaya Pitaka](https://en.wikipedia.org/wiki/Vinaya_Pitaka) - "Basket of Discipline"
+2.  [Sutta Pitaka](https://en.wikipedia.org/wiki/Sutta_Pitaka) - "Basket of Discourse"
+    -   [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya)
+    -   [Mah&amacr;parinibb&amacr;na Sutta](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta)
+    -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya)
+        -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
+    -   [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya)
+    -   [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya)
+        -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
+3.  [Abhidharma Pitaka](https://en.wikipedia.org/wiki/Abhidharma_Pitaka) - "Basket of Higher Doctrine"
+
 
 #### Secondary texts
 
--   TODO
+-   [Access to Insight: Readings in Therav&amacr;da Buddhism](https://www.accesstoinsight.org/)
 
 
 ### Mah&amacr;y&amacr;na Buddhism
@@ -411,6 +431,7 @@ Other stuff:
 -   Mah&amacr;y&amacr;na Buddhists teach that enlightenment can be attained in a single lifetime, and this can be accomplished even by a layperson.
 -   Mah&amacr;y&amacr;na Buddhism has a lot of doctrinal diversity due to assimilating with Asian cultures, particularly in China and Japan.
 -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
+-   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
 -   [Kum&amacr;raj&imacr;va](https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva) (344-413 CE)
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
@@ -450,6 +471,7 @@ Other stuff:
     -   the allegory of the elephant
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;hrdaya](https://en.wikipedia.org/wiki/Heart_Sutra) - "The Heart of the Perfection of Wisdom" AKA "Heart Sutra"
 -   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) - "Sutra on the White Lotus of the Sublime Dharma" AKA "Lotus Sutra"
+-   [Sandhinirmocana Sutra](https://en.wikipedia.org/wiki/Sandhinirmocana_Sutra) - "Nobel Sutra on the Explanation of Profound Secrets"
 -   [Vajracchedik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra](https://en.wikipedia.org/wiki/Diamond_Sutra) - "The Perfection of Wisdom Text that Cuts Like a Thunderbolt" AKA "Diamond Sutra"
     -   Wikipedia: the first creative work with an explicit public domain dedication, as its colophon at the end states that it was created "for universal free distribution."
 -   [Yogacarabhumi-sastra](https://en.wikipedia.org/wiki/Yogacarabhumi-sastra) - "Treatise on the Foundation for Yoga Practitioners"
