@@ -348,7 +348,7 @@ Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%
 [Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths) (satya/sacc&amacr; = truth):
 
 1.  Suffering ([duhkha/dukkha](https://en.wikipedia.org/wiki/Duhkha)) is part of existence.
-2.  The origin/causes ([samudaya-satya/samudaya sacc&amacr;](https://encyclopediaofbuddhism.org/wiki/Samudaya)) of suffering are
+2.  The origins/causes ([samudaya-satya/samudaya sacc&amacr;](https://encyclopediaofbuddhism.org/wiki/Samudaya)) of suffering are
     craving ([trishna/tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
     ignorance/delusion ([avidy&amacr;/avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
     attachment ([r&amacr;ga/lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
@@ -453,7 +453,6 @@ Other stuff:
             -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
 3.  [Abhidharma Pitaka](https://en.wikipedia.org/wiki/Abhidharma_Pitaka) - "Basket of Higher Doctrine"
 
-
 #### Secondary texts
 
 -   [Access to Insight: Readings in Therav&amacr;da Buddhism](https://www.accesstoinsight.org/)
@@ -520,7 +519,7 @@ Other stuff:
 
 #### Secondary texts
 
--   Williams [^Williams2009]
+-   Williams, P. (2009). *Mahayana Buddhism: The doctrinal foundations*. [^Williams2009]
 
 [^Williams2009]: @Williams_2009_Mahayana_Buddhism_The_doctrinal_foundations\.
 
