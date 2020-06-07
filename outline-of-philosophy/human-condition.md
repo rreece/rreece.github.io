@@ -219,20 +219,25 @@ Hinduism
 
 -   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
 -   [Vedic period](https://en.wikipedia.org/wiki/Vedic_period) (c. 1,500-500 BCE)
+-   [Vyasa](https://en.wikipedia.org/wiki/Vyasa) - "Compiler" of the Vedas
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
     -   See McEvilley [^McEvilley2002p327]
 -   Six &amacr;stika (orthodox) schools: Ny&amacr;y&aacute; Vai&sacute;esika, S&amacr;mkhya, [Yoga](https://en.wikipedia.org/wiki/Yoga), M&imacr;m&amacr;ms&amacr;, and Ved&amacr;nta
 -   Four n&amacr;stika (heterodox) schools: [Buddhism](https://en.wikipedia.org/wiki/Buddhism), [Jainism](https://en.wikipedia.org/wiki/Jainism), [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka), [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
 -   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
+-   "Hindu synthesis" started to develop between 500 BCE and 300 CE
 
 #### Primary texts
 
 -   [Vedas](https://en.wikipedia.org/wiki/Vedas)
     -   [Rigveda](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700-1,100 BCE)
     -   Samaveda, Yajurveda, Atharvaveda
--   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
+    -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
+-   [Mahabharata](https://en.wikipedia.org/wiki/Mahabharata) - sometimes called the "Fifth Veda"
+-   [Ramayana](https://en.wikipedia.org/wiki/Ramayana)
+-   [Bhagavad Gita](https://en.wikipedia.org/wiki/Bhagavad_Gita)
 -   [Vaisesika Sutra](https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika_S%C5%ABtra) AKA Kanada Sutra
--   "Hindu synthesis" started to develop between 500 BCE and 300 CE
+-   [Brahma Sutras](https://en.wikipedia.org/wiki/Brahma_Sutras) AKA Vedanta Sutra
 
 #### Secondary texts
 
