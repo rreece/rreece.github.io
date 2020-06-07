@@ -242,7 +242,7 @@ Hinduism
 #### Secondary texts
 
 -   Katz & Egenes translation of the Upanishads [^Katz2015]
--   McEvilley [^McEvilley2002-hinduism]
+-   McEvilley, T. (2002). *The Shape of Ancient Thought: Comparative studies in Greek and Indian philosophies*. [^McEvilley2002-hinduism]
 
 #### Other stuff
 
@@ -469,6 +469,10 @@ Other stuff:
             -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
         -   [Itivuttaka](https://en.wikipedia.org/wiki/Itivuttaka)
 3.  [Abhidharma Pitaka](https://en.wikipedia.org/wiki/Abhidharma_Pitaka) - "Basket of Higher Doctrine"
+
+[Abhidhamma](https://en.wikipedia.org/wiki/Visuddhimagga) - systematic pedagogical presentations:
+
+-   [Visuddhimagga](https://en.wikipedia.org/wiki/Visuddhimagga) by Buddhaghosa
 
 #### Secondary texts
 
