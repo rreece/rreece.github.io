@@ -334,7 +334,7 @@ otherwise usually showing Sanskrit if only one translation is given.
 
 #### Three marks of existence
 
-[Three marks of existence](https://en.wikipedia.org/wiki/Three_marks_of_existence) (Sanskrit/Pali):
+[Three marks of existence](https://en.wikipedia.org/wiki/Three_marks_of_existence):
 
 1.  [duhkha/dukkha](https://en.wikipedia.org/wiki/Duhkha) - suffering
 2.  [anitya/anicc&amacr;](https://en.wikipedia.org/wiki/Anicca) - impermanence
@@ -345,7 +345,7 @@ otherwise usually showing Sanskrit if only one translation is given.
 Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)) and non-self ([an&amacr;tman](https://en.wikipedia.org/wiki/Anatman)):
 
 -   In Therav&amacr;da, focus non-self nature or [anatta](https://en.wikipedia.org/wiki/Anatta).
--   In Mah&amacr;y&amacr;na, &Sacute;&umacr;nyat&amacr; refers the emptiness doctrine that all things are empty of intrinsic existence; refuting essentialism.
+-   In Mah&amacr;y&amacr;na, &sacute;&umacr;nyat&amacr; refers the emptiness doctrine that all things are empty of intrinsic existence; refuting essentialism.
 
 #### Four Noble Truths
 
@@ -422,6 +422,9 @@ Other stuff:
 -   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline.
 -   [Early Buddhist schools](https://en.wikipedia.org/wiki/Early_Buddhist_schools)
 -   [Third Buddhist Council](https://en.wikipedia.org/wiki/Third_Buddhist_council) (c. 250 BCE)
+-   [Vibhajyav&amacr;da](https://en.wikipedia.org/wiki/Vibhajyavada)
+-   [Buddhaghosa](https://en.wikipedia.org/wiki/Buddhaghosa) (c. 5th century CE)
+-   [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi) (b. 1944)
 
 #### Doctrines
 
@@ -437,6 +440,7 @@ Other stuff:
 -   [Vipassan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81) - "special seeing" or "insight"
     -   [Vipassan&amacr; movement](https://en.wikipedia.org/wiki/Vipassana_movement)
     -   branch of modern Burmese Therav&amacr;da Buddhism with widespread popularity since the 1950s
+    -   begat the western "Mindfullness movement"
 -   Jh&amacr;nas - states of meditation. See [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism).
 -   [Acinteyya](https://en.wikipedia.org/wiki/Acinteyya) - the four imponderable or incomprehensible issues
 
@@ -462,6 +466,8 @@ Other stuff:
 #### Secondary texts
 
 -   [Access to Insight: Readings in Therav&amacr;da Buddhism](https://www.accesstoinsight.org/)
+-   Bodhi, Bhikkhu. (1999). [*The Noble Eightfold Path: The Way to the End of Suffering*](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html).
+-   Bodhi, Bhikkhu. (2013). [I teach only suffering and the end of suffering: Nope, Buddha didn't quite say that](https://tricycle.org/magazine/i-teach-only-suffering-and-end-suffering/).
 
 
 ### Mah&amacr;y&amacr;na Buddhism
@@ -470,7 +476,7 @@ Other stuff:
 -   Sanskrit: "The Great Vehicle"
 -   Mah&amacr;y&amacr;na tradition is the largest major tradition of Buddhism existing today.
 -   Mah&amacr;y&amacr;na Buddhists teach that enlightenment can be attained in a single lifetime, and this can be accomplished even by a layperson.
--   Mah&amacr;y&amacr;na Buddhism has a lot of doctrinal diversity due to assimilating with Asian cultures, particularly in China and Japan.
+-   Mah&amacr;y&amacr;na Buddhism has a lot of doctrinal diversity due to assimilating with Asian cultures, particularly in Tibet, China, and Japan.
 -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
 -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
@@ -506,7 +512,7 @@ Other stuff:
 -   [Tath&amacr;gatagarbha](https://en.wikipedia.org/wiki/Tathagatagarbha) - "the doctrine of Buddha nature"
 -   Vija&ntilde;&amacr;nav&amacr;da - "the doctrine of consciousness"
     -   [Yogachara](https://en.wikipedia.org/wiki/Yogachara) - "Yoga practice"
--   [Upaya](https://en.wikipedia.org/wiki/Upaya) - guidance, expedient meants, pedagogy
+-   [Upaya](https://en.wikipedia.org/wiki/Upaya) - guidance, expedient means, pedagogy
 
 #### Primary texts
 
