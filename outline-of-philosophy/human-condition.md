@@ -346,13 +346,13 @@ Important initial concepts:
 3.  Cessation (nirodha/nirodha) of suffering is liberation (nirvana/nibb&amacr;na).
 4.  The path (m&amacr;rga/magga) to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
 
-[Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (magga):
+[Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (m&amacr;rga/magga):
 
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
--   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (Sanskrit & Pali: bodhi)
--   [Nirvana](https://en.wikipedia.org/wiki/Nirvana) - liberation from sams&amacr;ra like moksha
--   [Arhat](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana)
-    -   In the Mahayana tradition an Arhat is far along the path of enlightenment but may not have reached full Buddhahood.
+-   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (bodhi/bodhi)
+-   [Nirvana/nibb&amacr;na](https://en.wikipedia.org/wiki/Nirvana) - liberation from sams&amacr;ra like moksha
+-   [Arhat](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana/nibb&amacr;na)
+    -   In the Mahayana tradition, an Arhat is far along the path of enlightenment (nirvana) but may not have reached full Buddhahood (bodhi).
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 
 Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)) and non-self ([an&amacr;tman](https://en.wikipedia.org/wiki/Anatman)):
@@ -370,6 +370,12 @@ Meditation:
 
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
 
+Refuge in the "Three Jewels":
+
+1.  Buddha: the fully enlightened one
+2.  Dharma: the teachings expounded by the Buddha
+3.  Sangha: the monastic order of Buddhism that practice Dharmas
+
 [Five precepts](https://en.wikipedia.org/wiki/Five_precepts):
 
 1. Abstention from killing
@@ -377,12 +383,6 @@ Meditation:
 3. Abstention from sexual misconduct
 4. Abstention from falsehood
 5. Abstention from intoxication
-
-Refuge in the "Three Jewels":
-
--   Buddha: the fully enlightened one
--   Dharma: the teachings expounded by the Buddha
--   Sangha: the monastic order of Buddhism that practice Dharmas
 
 [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy):
 
