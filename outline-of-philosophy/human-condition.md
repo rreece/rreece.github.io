@@ -264,11 +264,11 @@ Others:
 -   [Karma in Hinduism](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
 -   Karma as a solution to the [problem of evil in Hinduism](https://en.wikipedia.org/wiki/Problem_of_evil_in_Hinduism)
 -   [&Amacr;tman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) - self/soul
--   [Hindu atheism](https://en.wikipedia.org/wiki/Hindu_atheism)
--   [Kalpa](https://en.wikipedia.org/wiki/Kalpa_(aeon))
--   [Namaste](https://en.wikipedia.org/wiki/Namaste)
 -   [Pramana](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
 -   [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) - "not duality"
+-   [Hindu atheism](https://en.wikipedia.org/wiki/Hindu_atheism)
+-   [Kalpa](https://en.wikipedia.org/wiki/Kalpa_(aeon)) - aeon
+-   [Namaste](https://en.wikipedia.org/wiki/Namaste) - Hindu greeting, literally "not I"
 -   TODO: gods
 
 ![The Wheel of Dharma ([Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra))
@@ -477,7 +477,7 @@ Other stuff:
         going beyond being an Arhat towards full Buddhahood.
 -   [Madhyamaka](https://en.wikipedia.org/wiki/Madhyamaka) - "Middle Way"
     -   AKA &Sacute;&umacr;nyav&amacr;da - "the emptiness doctrine"
-    -   Founded in N&amacr;g&amacr;rjuna's work [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Root Verses on the Middle Way"
+    -   Founded in N&amacr;g&amacr;rjuna's work [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Fundamental Verses on the Middle Way"
 -   [P&amacr;ramit&amacr;s](https://en.wikipedia.org/wiki/Paramita) - "Six Perfections"
     1.  D&amacr;na p&amacr;ramit&amacr;: generosity, the attitude of giving
     2.  S&imacr;la p&amacr;ramit&amacr;: virtue, morality, discipline, proper conduct
@@ -497,13 +497,13 @@ Other stuff:
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) - "The Perfection of Wisdom"
     -   radical non-dualism
     -   P&amacr;ramit&amacr;s - "Six Perfections"
+    -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;hrdaya](https://en.wikipedia.org/wiki/Heart_Sutra) - "The Heart of the Perfection of Wisdom" AKA "Heart Sutra"
+    -   [Vajracchedik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra](https://en.wikipedia.org/wiki/Diamond_Sutra) - "The Perfection of Wisdom Text that Cuts Like a Thunderbolt" AKA "Diamond Sutra"
 -   [Mahaparinirvana Sutra](https://en.wikipedia.org/wiki/Mahayana_Mahaparinirvana_Sutra) - "Nirvana Sutra"
     -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
--   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Root Verses on the Middle Way"
--   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;hrdaya](https://en.wikipedia.org/wiki/Heart_Sutra) - "The Heart of the Perfection of Wisdom" AKA "Heart Sutra"
+-   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Fundamental Verses on the Middle Way"
 -   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) - "Sutra on the White Lotus of the Sublime Dharma" AKA "Lotus Sutra"
 -   [Sandhinirmocana Sutra](https://en.wikipedia.org/wiki/Sandhinirmocana_Sutra) - "Nobel Sutra on the Explanation of Profound Secrets"
--   [Vajracchedik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra](https://en.wikipedia.org/wiki/Diamond_Sutra) - "The Perfection of Wisdom Text that Cuts Like a Thunderbolt" AKA "Diamond Sutra"
     -   Wikipedia: the first creative work with an explicit public domain dedication, as its colophon at the end states that it was created "for universal free distribution."
 -   [Yogacarabhumi-sastra](https://en.wikipedia.org/wiki/Yogacarabhumi-sastra) - "Treatise on the Foundation for Yoga Practitioners"
 
