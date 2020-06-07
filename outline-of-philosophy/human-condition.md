@@ -241,6 +241,7 @@ Hinduism
 
 #### Other stuff
 
+-   [Paramahansa Yogananda](https://en.wikipedia.org/wiki/Paramahansa_Yogananda) (1893-1952)
 -   [Maharishi Mahesh Yogi](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi) (1918-2008)
 -   [John Hagelin](https://en.wikipedia.org/wiki/John_Hagelin) (b. 1954)
 
