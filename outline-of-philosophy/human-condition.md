@@ -519,10 +519,12 @@ Other stuff:
 -   Vija&ntilde;&amacr;nav&amacr;da - "the doctrine of consciousness"
     -   [Yogachara](https://en.wikipedia.org/wiki/Yogachara) - "Yoga practice"
 -   [Upaya](https://en.wikipedia.org/wiki/Upaya) - guidance, expedient means, pedagogy
+-   [Two truths doctrine](https://en.wikipedia.org/wiki/Two_truths_doctrine)
+    -   There are two levels of truth (satya): the conventional (samvriti) and the ultimate (param&amacr;rtha).
 
 #### Primary texts
 
--   [Mahayana sutras](https://en.wikipedia.org/wiki/Mahayana_sutras)
+-   Mahayana builds on the Theravada texts, adding the [Mahayana sutras](https://en.wikipedia.org/wiki/Mahayana_sutras).
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) - "The Perfection of Wisdom"
     -   radical non-dualism
     -   P&amacr;ramit&amacr;s - "Six Perfections"
@@ -592,7 +594,7 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   [Guru Nanak](https://en.wikipedia.org/wiki/Guru_Nanak) (1469-1539 CE)
 
 
-### East asian
+### East Asian
 
 #### Daoism
 
@@ -671,6 +673,7 @@ Related:
 -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
 -   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
+-   [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
 -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
 
 [^Pigliucci2017p224]: @Pigliucci_2017_How_to_be_a_Stoic\, p. 224.
@@ -749,6 +752,8 @@ Comparitive studies
 -   Buddhism and Pyrrhonism
 -   Buddhism and Plato, *Phaedo*
 -   Buddhism and Stoicism
+-   Buddhism and Hume: anitya and humeanism
+-   Buddhism and Schopenhauer
 -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
 -   McEvilley
     -   *The Shape of Ancient Thought* [^McEvilley2002]
