@@ -419,7 +419,8 @@ Other stuff:
 
 -   [Therav&amacr;da](https://en.wikipedia.org/wiki/Theravada) is Pali for "The School of the Elders".
 -   Therav&amacr;da Buddhism is the oldest existing branch of Buddhism, deriving from schools in Sri Lanka where much of the Pali Cannon was written.
--   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline.
+-   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline,
+    with particular focus on being rational.
 -   [Early Buddhist schools](https://en.wikipedia.org/wiki/Early_Buddhist_schools)
 -   [Third Buddhist Council](https://en.wikipedia.org/wiki/Third_Buddhist_council) (c. 250 BCE)
 -   [Vibhajyav&amacr;da](https://en.wikipedia.org/wiki/Vibhajyavada)
@@ -477,6 +478,8 @@ Other stuff:
 -   Mah&amacr;y&amacr;na tradition is the largest major tradition of Buddhism existing today.
 -   Mah&amacr;y&amacr;na Buddhists teach that enlightenment can be attained in a single lifetime, and this can be accomplished even by a layperson.
 -   Mah&amacr;y&amacr;na Buddhism has a lot of doctrinal diversity due to assimilating with Asian cultures, particularly in Tibet, China, and Japan.
+-   In contrast with Therav&amacr;da, Mah&amacr;y&amacr;na Buddhism has more focus on devotionals, ritual, and aesthetics,
+    with more monastic hierarchy.
 -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
 -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
@@ -539,10 +542,12 @@ Other stuff:
 
 ### Vajray&amacr;na Buddhism
 
+-   Sanskrit: "Thunderbolt Vehicle"
 -   [Vajray&amacr;na Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
 -   Some consider Vajray&amacr;na a separate branch or sub-branch of Mah&amacr;y&amacr;na Buddhism.
 -   Developed in medieval period in India and spread to Tibet, Bhutan, and east Asia.
 -   Adds esoteric teachings to the Mah&amacr;y&amacr;na tradition.
+-   Focus on one-on-one teaching from a guru.
 -   [Tantra](https://en.wikipedia.org/wiki/Tantra)
 -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
