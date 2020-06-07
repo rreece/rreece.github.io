@@ -299,13 +299,15 @@ Buddhism
 
 #### Secondary texts
 
+-   Kalupahana, D.J. (1992). *A History of Buddhist Philosophy: Continuities and Discontinuities* [^Kalupahana1992]
 -   Epstein, R. (2004). [Resources for the study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
--   Harvey [^Harvey2013]
+-   Harvey, P. (2013). *An Introduction to Buddhism* [^Harvey2013]
 -   O'Brien, B. (2018). [Buddhist teachings on the self.](https://www.learnreligions.com/self-no-self-whats-a-self-450190)
 -   [buddhistelibrary.org](http://www.buddhistelibrary.org/en/index.php)
 -   [A Bibliography of Buddhism (and Recovery)](https://www.hermetica.info/BuddBib.htm) - hermetica.info
 
 [^Harvey2013]: @Harvey_2013_An_Introduction_to_Buddhism\.
+[^Kalupahana1992]: @Kalupahana_1992_A_History_of_Buddhist_Philosophy_Continuities\.
 
 
 ### Common doctrines
@@ -347,6 +349,7 @@ Important initial concepts:
 Other stuff:
 
 -   [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy)
+-   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
 -   The three trainings: sila, praj&ntilde;a, and samadhi
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
 -   [&Sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)
@@ -387,11 +390,13 @@ Other stuff:
 
 #### Primary texts
 
--   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
-    -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
-        -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
-    -   [Sutta Pitak](https://en.wikipedia.org/wiki/Sutta_Pi%E1%B9%ADaka)
-    -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
+[Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon):
+
+-   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Sa%E1%B9%83yutta_Nik%C4%81ya)
+    -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
+-   [Sutta Pitak](https://en.wikipedia.org/wiki/Sutta_Pi%E1%B9%ADaka)
+-   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
+-   [Mah&amacr;parinibb&amacr;na Sutta](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta)
 
 #### Secondary texts
 
@@ -407,13 +412,16 @@ Other stuff:
 -   Mah&amacr;y&amacr;na Buddhism has a lot of doctrinal diversity due to assimilating with Asian cultures, particularly in China and Japan.
 -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
+-   [Kum&amacr;raj&imacr;va](https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva) (344-413 CE)
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
 -   [Chan Buddhism](https://en.wikipedia.org/wiki/Chan_Buddhism)
 -   [Zen Buddhism](https://en.wikipedia.org/wiki/Zen)
     -   Began in China as "Ch&aacute;n" in the [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
     -   Introduced in Japan in 12th century CE and later romanized as "Zen"
+-   [Tiantai](https://en.wikipedia.org/wiki/Tiantai) - "The Lotus School"
 -   [Xuanzang](https://en.wikipedia.org/wiki/Xuanzang) (fl. c. 602-664 CE)
 -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
+-   [David J. Kalupahana](https://en.wikipedia.org/wiki/David_Kalupahana) (1936-2014)
 
 #### Doctrines
 
@@ -428,7 +436,8 @@ Other stuff:
     -   This path is contrasted with the Noble Eightfold Path,
         going beyond being an Arhat towards full Buddhahood.
 -   [P&amacr;ramit&amacr;s](https://en.wikipedia.org/wiki/Paramita) - "Six Perfections"
--   [Ten suchnesses](https://en.wikipedia.org/wiki/Ten_suchnesses)
+-   [Tath&amacr;t&amacr;](https://en.wikipedia.org/wiki/Tathata) - "suchness"
+    -   [Ten suchnesses](https://en.wikipedia.org/wiki/Ten_suchnesses)
 
 #### Primary texts
 
@@ -437,10 +446,13 @@ Other stuff:
     -   radical non-dualism
     -   P&amacr;ramit&amacr;s - "Six Perfections"
 -   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Root Verses on the Middle Way"
--   [Heart Sutra](https://en.wikipedia.org/wiki/Heart_Sutra)
--   [Lotus Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra)
--   [Diamond Sutra](https://en.wikipedia.org/wiki/Diamond_Sutra)
--   [Yogacarabhumi-sastra](https://en.wikipedia.org/wiki/Yogacarabhumi-sastra)
+-   [Mahaparinirvana Sutra](https://en.wikipedia.org/wiki/Mahayana_Mahaparinirvana_Sutra) - "Nirvana Sutra"
+    -   the allegory of the elephant
+-   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;hrdaya](https://en.wikipedia.org/wiki/Heart_Sutra) - "The Heart of the Perfection of Wisdom" AKA "Heart Sutra"
+-   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) - "Sutra on the White Lotus of the Sublime Dharma" AKA "Lotus Sutra"
+-   [Vajracchedik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra](https://en.wikipedia.org/wiki/Diamond_Sutra) - "The Perfection of Wisdom Text that Cuts Like a Thunderbolt" AKA "Diamond Sutra"
+    -   Wikipedia: the first creative work with an explicit public domain dedication, as its colophon at the end states that it was created "for universal free distribution."
+-   [Yogacarabhumi-sastra](https://en.wikipedia.org/wiki/Yogacarabhumi-sastra) - "Treatise on the Foundation for Yoga Practitioners"
 
 #### Secondary texts
 
