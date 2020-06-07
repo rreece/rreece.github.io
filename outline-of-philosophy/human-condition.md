@@ -285,6 +285,7 @@ Buddhism
 
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism) (began between 6th and 4th centuries BCE)
 -   [Siddhartha Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha) (c. 480-400 BCE)
+    -   AKA Shakyamuni Buddha
     -   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
     -   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
     -   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
@@ -320,18 +321,29 @@ Buddhism
 
 Buddhism is generally considered to be n&amacr;stika.
 
-Important initial concepts:
+#### Important initial concepts
 
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
 -   [Sangha](https://en.wikipedia.org/wiki/Sangha) - (monastic) "community"; called _parisa_ if including lay followers.
 
+#### Three marks of existence
+
 [Three marks of existence](https://en.wikipedia.org/wiki/Three_marks_of_existence) (Sanskrit/Pali):
 
--   [Duhkha/Dukkha](https://en.wikipedia.org/wiki/Duhkha) - suffering
--   [Anitya/Anicc&amacr;](https://en.wikipedia.org/wiki/Anicca) - impermanence
--   [An&amacr;tman/Anatt&amacr;](https://en.wikipedia.org/wiki/Anatta) - non-self
+1.  [Duhkha/Dukkha](https://en.wikipedia.org/wiki/Duhkha) - suffering
+2.  [Anitya/Anicc&amacr;](https://en.wikipedia.org/wiki/Anicca) - impermanence
+3.  [An&amacr;tman/Anatt&amacr;](https://en.wikipedia.org/wiki/Anatta) - non-self
+
+#### Emptiness and non-self
+
+Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)) and non-self ([an&amacr;tman](https://en.wikipedia.org/wiki/Anatman)):
+
+-   In Therav&amacr;da, focus non-self nature or [Anatta](https://en.wikipedia.org/wiki/Anatta).
+-   In Mah&amacr;y&amacr;na, &Sacute;&umacr;nyat&amacr; refers the emptiness doctrine that all things are empty of intrinsic existence; refuting essentialism.
+
+#### Four Noble Truths
 
 [Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths) (satya/sacc&amacr; = truth):
 
@@ -346,19 +358,17 @@ Important initial concepts:
 3.  Cessation (nirodha/nirodha) of suffering is liberation (nirvana/nibb&amacr;na).
 4.  The path (m&amacr;rga/magga) to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
 
-[Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (m&amacr;rga/magga):
+-   [SN 56.11](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html)
 
+#### Buddhist paths to liberation
+
+-   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (m&amacr;rga/magga)
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (bodhi/bodhi)
 -   [Nirvana/nibb&amacr;na](https://en.wikipedia.org/wiki/Nirvana) - liberation from sams&amacr;ra like moksha
 -   [Arhat](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana/nibb&amacr;na)
     -   In the Mahayana tradition, an Arhat is far along the path of enlightenment (nirvana) but may not have reached full Buddhahood (bodhi).
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
-
-Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)) and non-self ([an&amacr;tman](https://en.wikipedia.org/wiki/Anatman)):
-
--   In Therav&amacr;da, focus non-self nature or [Anatta](https://en.wikipedia.org/wiki/Anatta).
--   In Mah&amacr;y&amacr;na, &Sacute;&umacr;nyat&amacr; refers the emptiness doctrine that all things are empty of intrinsic existence; refuting essentialism.
 
 The three trainings:
 
@@ -384,8 +394,9 @@ Refuge in the "Three Jewels":
 4. Abstention from falsehood
 5. Abstention from intoxication
 
-[Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy):
+#### Buddhist philosophy
 
+-   [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy)
 -   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
 -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
     -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
