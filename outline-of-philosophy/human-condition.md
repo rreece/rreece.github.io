@@ -358,15 +358,20 @@ The three trainings:
 2.  samadhi - "meditation"
 3.  praj&ntilde;a - "wisdom"
 
+Meditation:
+
+-   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
+
+[&Sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81):
+
+-   Therav&amacr;da: non-self nature or [Anatta](https://en.wikipedia.org/wiki/Anatta)
+-   Mah&amacr;y&amacr;na: the emptiness doctrine that all things of empty of intrinsic existence; refuting essentialism.
+
 [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy):
 
 -   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
 -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
     -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
--   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
--   [&Sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)
-    -   Therav&amacr;da: non-self nature or [Anatta](https://en.wikipedia.org/wiki/Anatta)
-    -   Mah&amacr;y&amacr;na: the emptiness doctrine that all things of empty of intrinsic existence; refuting essentialism.
 -   [Secular Buddhism](https://en.wikipedia.org/wiki/Secular_Buddhism)
 
 Other stuff:
