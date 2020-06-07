@@ -996,8 +996,10 @@ Existentialism
 -   [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) (1913-1960)
     -   The Absurd
     -   The question of suicide
-    -   Sisyphus
     -   "To live without appeal"
+    -   *The Stranger* (1942)
+    -   *The Myth of Sisyphus* (1948)
+    -   *The Fall* (1956)
 
 Artworks:
 
@@ -1054,18 +1056,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Camus, A. (1948). *The Myth of Sisyphus*.
-
--   TODO.
-
-#### My thoughts
-
--   TODO.
-
-
---------------------------------------------------------------------------------
-
-### Camus, A. (1956). *The Fall*.
+### Williams, P. (2009). *Mahayana Buddhism: The doctrinal foundations*.
 
 -   TODO.
 
@@ -1078,6 +1069,8 @@ Annotated bibliography
 
 ### More articles to do
 
+-   Camus, A. (1948). *The Myth of Sisyphus*.
+-   Camus, A. (1956). *The Fall*.
 -   @Peterson_1999_Maps_of_Meaning on Jung
 
 
