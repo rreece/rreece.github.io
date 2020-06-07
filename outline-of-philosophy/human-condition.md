@@ -348,7 +348,7 @@ Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%
 [Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths) (satya/sacc&amacr; = truth):
 
 1.  Suffering ([duhkha/dukkha](https://en.wikipedia.org/wiki/Duhkha)) is part of existence.
-2.  The origins/causes ([samudaya-satya/samudaya sacc&amacr;](https://encyclopediaofbuddhism.org/wiki/Samudaya)) of suffering are
+2.  The origins/causes ([samudaya-satya / samudaya sacc&amacr;](https://encyclopediaofbuddhism.org/wiki/Samudaya)) of suffering are
     craving ([trishna/tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
     ignorance/delusion ([avidy&amacr;/avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
     attachment ([r&amacr;ga/lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
