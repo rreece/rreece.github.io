@@ -651,8 +651,12 @@ Stoicism
 -   [Cleanthes](https://en.wikipedia.org/wiki/Cleanthes) (c. 330-230 BCE)
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
 -   [Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger) (4 BCE - 65 CE)
+    -   *De Brevitate Vitae* (49 CE) - "On the Shortness of Life" [^Seneca1997]
 -   [Epictetus](https://en.wikipedia.org/wiki/Epictetus) (c. 50-135 CE)
+    -   *Discourses* (108 CE)
+    -   *Enchiridion* (125 CE) - "Handbook" 
 -   [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) (121-180 CE)
+    -   *Meditations* (170-180 CE)
 
 Three historical phases of Stoicism:
 
@@ -660,9 +664,10 @@ Three historical phases of Stoicism:
 2.  Middle Stoa, including Panaetius and Posidonius.
 3.  Late Stoa, including Musonius Rufus, Seneca, Epictetus, and Marcus Aurelius.
 
--   No complete works survive from the first two phases of Stoicism.
-    Only Roman texts from the Late Stoa survive.
--   Contemporary Stoicism
+No complete works survive from the first two phases of Stoicism.
+Only Roman texts from the Late Stoa survive.
+
+TODO: Contemporary Stoicism
 
 ![The historical and conceptual relationships among Hellonistic schools
     of philosophy and how they diverged from the thinking of Socrates. [^Pigliucci2017p224]
@@ -693,8 +698,9 @@ Theses (Pigliucci?):
 --Epictetus, Discourses, Book II, ch. 17
 
 -   Pigliucci [^Pigliucci2017]
--   *On the Shortness of Life* [^Seneca1997]
 -   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
+-   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
+-   [Glossary of Stoicism terms](https://en.wikipedia.org/wiki/Glossary_of_Stoicism_terms)
 
 [^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic\.
 [^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.
