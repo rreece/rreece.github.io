@@ -535,6 +535,15 @@ Other stuff:
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
 
 
+### Criticism
+
+>   If rebirth is true, realistically we really have no hope. It is a hope-less doctrine. [^Williams2011]
+
+-   Williams converted to Catholicism! WTF!
+
+[^Williams2011]: @Williams_2011_On_converting_from_Buddhism_to_Catholicism_One\.
+
+
 Other religions
 --------------------------------------------------------------------------------
 
