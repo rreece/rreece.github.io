@@ -354,7 +354,7 @@ Important initial concepts:
 
 The three trainings:
 
-1.  silaa - "discipline" or "moral conduct"
+1.  s&imacr;la - "discipline" or "moral conduct"
 2.  samadhi - "meditation"
 3.  praj&ntilde;a - "wisdom"
 
