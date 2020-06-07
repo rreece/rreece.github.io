@@ -322,50 +322,67 @@ Buddhism is generally considered to be n&amacr;stika.
 
 Important initial concepts:
 
+-   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
+-   [Sangha](https://en.wikipedia.org/wiki/Sangha) - (monastic) "community"; called _parisa_ if including lay followers.
 
-[Three marks of existence](https://en.wikipedia.org/wiki/Three_marks_of_existence):
+[Three marks of existence](https://en.wikipedia.org/wiki/Three_marks_of_existence) (Sanskrit/Pali):
 
--   [Duhkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha) - suffering
--   [Anicca](https://en.wikipedia.org/wiki/Anicca) - impermanence
--   [Anatta](https://en.wikipedia.org/wiki/Anatta) - no self
+-   [Duhkha/Dukkha](https://en.wikipedia.org/wiki/Duhkha) - suffering
+-   [Anitya/Anicc&amacr;](https://en.wikipedia.org/wiki/Anicca) - impermanence
+-   [An&amacr;tman/Anatt&amacr;](https://en.wikipedia.org/wiki/Anatta) - non-self
 
-[Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths):
+[Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths) (satya/sacc&amacr; = truth):
 
-1.  Suffering ([dukkha](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)) is part of existence.
-2.  The causes ([samudaya](https://encyclopediaofbuddhism.org/wiki/Samudaya_sacca)) of suffering (dukkha) are
-    craving ([tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
-    ignorance/delusion ([avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
-    attachment ([lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
-    anger/aversion ([dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
-3.  Cessation (nirodha) of suffering (dukkha) is liberation (nirvana).
-4.  The path (magga) to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
+1.  Suffering ([duhkha/dukkha](https://en.wikipedia.org/wiki/Duhkha)) is part of existence.
+2.  The origin/causes ([samudaya-satya/samudaya sacc&amacr;](https://encyclopediaofbuddhism.org/wiki/Samudaya)) of suffering are
+    craving ([trishna/tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
+    ignorance/delusion ([avidy&amacr;/avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
+    attachment ([r&amacr;ga/lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
+    anger/aversion ([dvesha/dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
+    Dependent origination (prat&imacr;tyasamut&amacr;da/prat&imacr;tyasamutp&amacr;da):
+    all phenomena (dharmas/dhammas) arise in dependence upon other phenomena.
+3.  Cessation (nirodha/nirodha) of suffering is liberation (nirvana/nibb&amacr;na).
+4.  The path (m&amacr;rga/magga) to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
 
 [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (magga):
 
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
--   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
--   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (Pali: bodhi)
+-   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (Sanskrit & Pali: bodhi)
 -   [Nirvana](https://en.wikipedia.org/wiki/Nirvana) - liberation from sams&amacr;ra like moksha
 -   [Arhat](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana)
     -   In the Mahayana tradition an Arhat is far along the path of enlightenment but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 
+Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)) and non-self ([an&amacr;tman](https://en.wikipedia.org/wiki/Anatman)):
+
+-   In Therav&amacr;da, focus non-self nature or [Anatta](https://en.wikipedia.org/wiki/Anatta).
+-   In Mah&amacr;y&amacr;na, &Sacute;&umacr;nyat&amacr; refers the emptiness doctrine that all things are empty of intrinsic existence; refuting essentialism.
+
 The three trainings:
 
-1.  s&imacr;la - "discipline" or "moral conduct"
-2.  samadhi - "meditation"
-3.  praj&ntilde;a - "wisdom"
+1.  S&imacr;la - "discipline" or "moral conduct"
+2.  Samadhi - "meditation"
+3.  Praj&ntilde;a - "wisdom"
 
 Meditation:
 
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
 
-[&Sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81):
+[Five precepts](https://en.wikipedia.org/wiki/Five_precepts):
 
--   Therav&amacr;da: non-self nature or [Anatta](https://en.wikipedia.org/wiki/Anatta)
--   Mah&amacr;y&amacr;na: the emptiness doctrine that all things of empty of intrinsic existence; refuting essentialism.
+1. Abstention from killing
+2. Abstention from theft
+3. Abstention from sexual misconduct
+4. Abstention from falsehood
+5. Abstention from intoxication
+
+Refuge in the "Three Jewels":
+
+-   Buddha: the fully enlightened one
+-   Dharma: the teachings expounded by the Buddha
+-   Sangha: the monastic order of Buddhism that practice Dharmas
 
 [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy):
 
@@ -418,8 +435,11 @@ Other stuff:
     -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya)
         -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
     -   [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya)
+        -   [Kesamutti Sutta](https://en.wikipedia.org/wiki/Kesamutti_Sutta)
     -   [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya)
         -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
+        -   [Ud&amacr;na](https://en.wikipedia.org/wiki/Udana)
+            -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
 3.  [Abhidharma Pitaka](https://en.wikipedia.org/wiki/Abhidharma_Pitaka) - "Basket of Higher Doctrine"
 
 
@@ -451,19 +471,25 @@ Other stuff:
 
 #### Doctrines
 
--   [Madhyamaka](https://en.wikipedia.org/wiki/Madhyamaka) - "Middle Way"
-    -   AKA &Sacute;&umacr;nyav&amacr;da - "the emptiness doctrine"
-    -   Founded in N&amacr;g&amacr;rjuna's work [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Root Verses on the Middle Way"
--   [Tath&amacr;gatagarbha](https://en.wikipedia.org/wiki/Tathagatagarbha) - "the doctrine of Buddha nature"
--   Vija&ntilde;&amacr;nav&amacr;da - "the doctrine of consciousness"
-    -   [Yogachara](https://en.wikipedia.org/wiki/Yogachara) - "Yoga practice"
 -   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
     -   The Bodhisattva Path
     -   This path is contrasted with the Noble Eightfold Path,
         going beyond being an Arhat towards full Buddhahood.
+-   [Madhyamaka](https://en.wikipedia.org/wiki/Madhyamaka) - "Middle Way"
+    -   AKA &Sacute;&umacr;nyav&amacr;da - "the emptiness doctrine"
+    -   Founded in N&amacr;g&amacr;rjuna's work [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Root Verses on the Middle Way"
 -   [P&amacr;ramit&amacr;s](https://en.wikipedia.org/wiki/Paramita) - "Six Perfections"
+    1.  D&amacr;na p&amacr;ramit&amacr;: generosity, the attitude of giving
+    2.  S&imacr;la p&amacr;ramit&amacr;: virtue, morality, discipline, proper conduct
+    3.  Ks&amacr;nti p&amacr;ramit&amacr;: patience, tolerance, forbearance, acceptance, endurance
+    4.  V&imacr;rya p&amacr;ramit&amacr;: energy, diligence, vigor, effort
+    5.  Dhy&amacr;na p&amacr;ramit&amacr;: one-pointed concentration, contemplation
+    6.  Praj&ntilde;a p&amacr;ramit&amacr;: wisdom, insight
 -   [Tath&amacr;t&amacr;](https://en.wikipedia.org/wiki/Tathata) - "suchness"
     -   [Ten suchnesses](https://en.wikipedia.org/wiki/Ten_suchnesses)
+-   [Tath&amacr;gatagarbha](https://en.wikipedia.org/wiki/Tathagatagarbha) - "the doctrine of Buddha nature"
+-   Vija&ntilde;&amacr;nav&amacr;da - "the doctrine of consciousness"
+    -   [Yogachara](https://en.wikipedia.org/wiki/Yogachara) - "Yoga practice"
 
 #### Primary texts
 
@@ -471,9 +497,9 @@ Other stuff:
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) - "The Perfection of Wisdom"
     -   radical non-dualism
     -   P&amacr;ramit&amacr;s - "Six Perfections"
--   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Root Verses on the Middle Way"
 -   [Mahaparinirvana Sutra](https://en.wikipedia.org/wiki/Mahayana_Mahaparinirvana_Sutra) - "Nirvana Sutra"
-    -   the allegory of the elephant
+    -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
+-   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Root Verses on the Middle Way"
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;hrdaya](https://en.wikipedia.org/wiki/Heart_Sutra) - "The Heart of the Perfection of Wisdom" AKA "Heart Sutra"
 -   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) - "Sutra on the White Lotus of the Sublime Dharma" AKA "Lotus Sutra"
 -   [Sandhinirmocana Sutra](https://en.wikipedia.org/wiki/Sandhinirmocana_Sutra) - "Nobel Sutra on the Explanation of Profound Secrets"
@@ -1039,6 +1065,7 @@ Click to show links
 
 ### SEP
 
+-   [Abhidharma](https://plato.stanford.edu/entries/abhidharma/)
 -   [Aurelius, Marcus (121-180)](http://plato.stanford.edu/entries/marcus-aurelius/)
 -   [Authenticity](http://plato.stanford.edu/entries/authenticity/)
 -   [Buddha](http://plato.stanford.edu/entries/buddha/)
@@ -1097,6 +1124,7 @@ Click to show links
 -   [Bad faith](https://en.wikipedia.org/wiki/Bad_faith)
 -   [Bad faith (existentialism)](https://en.wikipedia.org/wiki/Bad_faith_(existentialism))
 -   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
+-   [Blind men and an elephant, The parable of the](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism)
     -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
     -   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
