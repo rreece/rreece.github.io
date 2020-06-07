@@ -353,7 +353,7 @@ Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%
     ignorance/delusion ([avidy&amacr;/avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
     attachment ([r&amacr;ga/lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
     anger/aversion ([dvesha/dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
-    Dependent origination (prat&imacr;tyasamut&amacr;da/prat&imacr;tyasamutp&amacr;da):
+    Dependent origination (prat&imacr;tyasamut&amacr;da / prat&imacr;tyasamutp&amacr;da):
     all phenomena (dharmas/dhammas) arise in dependence upon other phenomena.
 3.  Cessation (nirodha/nirodha) of suffering is liberation (nirvana/nibb&amacr;na).
 4.  The path (m&amacr;rga/magga) to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
