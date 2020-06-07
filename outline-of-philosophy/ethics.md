@@ -139,6 +139,11 @@ Free speech
 -   TODO
 
 
+### Copyright
+
+-   Muller, A.C. (2010). [Wikipedia and the Matter of Accountability](http://www.acmuller.net/wikipedia.html).
+
+
 Protests and (non-)violence
 --------------------------------------------------------------------------------
 

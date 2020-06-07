@@ -289,9 +289,11 @@ Buddhism
     -   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
     -   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
     -   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
--   [&Amacr;nanda](https://en.wikipedia.org/wiki/Ananda) - primary attendant of Siddhartha Gautama Buddha
--   [Devadatta](https://en.wikipedia.org/wiki/Devadatta) - cousin and brother-in-law of Siddhartha Gautama
+-   [Devadatta](https://en.wikipedia.org/wiki/Devadatta) - cousin and brother-in-law of Siddhartha Gautama Buddha
+-   [&Sacute;&amacr;rjputra](https://en.wikipedia.org/wiki/Sarjputra) and [Maudgaly&amacr;yana](https://en.wikipedia.org/wiki/Maudgalyayana) - first two and closest disciples of the Buddha
+-   [&Amacr;nanda](https://en.wikipedia.org/wiki/Ananda) - primary attendant of the Buddha
 -   [Ten Principal Disciples](https://en.wikipedia.org/wiki/Ten_Principal_Disciples)
+-   [Khujjuttara](https://en.wikipedia.org/wiki/Khujjuttara) - one of Buddha's foremost female lay disciples
 -   [Ashoka](https://en.wikipedia.org/wiki/Ashoka) (c. 304-232 BCE)
 -   [Gandh&amacr;ran Buddhist texts](https://en.wikipedia.org/wiki/Gandharan_Buddhist_texts) - oldest yet discovered Buddhist texts (c. first century BCE)
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
@@ -319,10 +321,12 @@ Buddhism
 
 ### Common doctrines
 
-Buddhism is generally considered to be n&amacr;stika.
+_Note:_ Occasionally we will show the Sanskrit/Pali translations of words, in that order,
+otherwise usually showing Sanskrit if only one translation is given.
 
 #### Important initial concepts
 
+-   Buddhism is generally considered to be n&amacr;stika---a heterodox break from Hinduism.
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
@@ -332,15 +336,15 @@ Buddhism is generally considered to be n&amacr;stika.
 
 [Three marks of existence](https://en.wikipedia.org/wiki/Three_marks_of_existence) (Sanskrit/Pali):
 
-1.  [Duhkha/Dukkha](https://en.wikipedia.org/wiki/Duhkha) - suffering
-2.  [Anitya/Anicc&amacr;](https://en.wikipedia.org/wiki/Anicca) - impermanence
-3.  [An&amacr;tman/Anatt&amacr;](https://en.wikipedia.org/wiki/Anatta) - non-self
+1.  [duhkha/dukkha](https://en.wikipedia.org/wiki/Duhkha) - suffering
+2.  [anitya/anicc&amacr;](https://en.wikipedia.org/wiki/Anicca) - impermanence
+3.  [an&amacr;tman/anatt&amacr;](https://en.wikipedia.org/wiki/Anatta) - non-self
 
 #### Emptiness and non-self
 
 Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)) and non-self ([an&amacr;tman](https://en.wikipedia.org/wiki/Anatman)):
 
--   In Therav&amacr;da, focus non-self nature or [Anatta](https://en.wikipedia.org/wiki/Anatta).
+-   In Therav&amacr;da, focus non-self nature or [anatta](https://en.wikipedia.org/wiki/Anatta).
 -   In Mah&amacr;y&amacr;na, &Sacute;&umacr;nyat&amacr; refers the emptiness doctrine that all things are empty of intrinsic existence; refuting essentialism.
 
 #### Four Noble Truths
@@ -413,9 +417,10 @@ Other stuff:
 
 ### Therav&amacr;da Buddhism
 
--   [Therav&amacr;da Buddhism](https://en.wikipedia.org/wiki/Theravada)
--   Pali: "The School of the Elders"
+-   [Therav&amacr;da](https://en.wikipedia.org/wiki/Theravada) is Pali for "The School of the Elders".
+-   Therav&amacr;da Buddhism is the oldest existing branch of Buddhism, deriving from schools in Sri Lanka where much of the Pali Cannon was written.
 -   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline.
+-   [Early Buddhist schools](https://en.wikipedia.org/wiki/Early_Buddhist_schools)
 -   [Third Buddhist Council](https://en.wikipedia.org/wiki/Third_Buddhist_council) (c. 250 BCE)
 
 #### Doctrines
@@ -429,11 +434,11 @@ Other stuff:
     6.  Right Effort
     7.  Right Mindfulness
     8.  Right Unification
--   [Vipassan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
+-   [Vipassan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81) - "special seeing" or "insight"
     -   [Vipassan&amacr; movement](https://en.wikipedia.org/wiki/Vipassana_movement)
     -   branch of modern Burmese Therav&amacr;da Buddhism with widespread popularity since the 1950s
--   [Acinteyya](https://en.wikipedia.org/wiki/Acinteyya) - the four imponderable or incomprehensible issues
 -   Jh&amacr;nas - states of meditation. See [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism).
+-   [Acinteyya](https://en.wikipedia.org/wiki/Acinteyya) - the four imponderable or incomprehensible issues
 
 #### Primary texts
 
@@ -441,16 +446,17 @@ Other stuff:
 
 1.  [Vinaya Pitaka](https://en.wikipedia.org/wiki/Vinaya_Pitaka) - "Basket of Discipline"
 2.  [Sutta Pitaka](https://en.wikipedia.org/wiki/Sutta_Pitaka) - "Basket of Discourse"
-    -   [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya)
-    -   [Mah&amacr;parinibb&amacr;na Sutta](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta)
-    -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya)
+    -   [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN)
+        -   [Mah&amacr;parinibb&amacr;na Sutta](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta)
+    -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN)
         -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
-    -   [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya)
+    -   [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN)
         -   [Kesamutti Sutta](https://en.wikipedia.org/wiki/Kesamutti_Sutta)
-    -   [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya)
+    -   [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN)
         -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
         -   [Ud&amacr;na](https://en.wikipedia.org/wiki/Udana)
             -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
+        -   [Itivuttaka](https://en.wikipedia.org/wiki/Itivuttaka)
 3.  [Abhidharma Pitaka](https://en.wikipedia.org/wiki/Abhidharma_Pitaka) - "Basket of Higher Doctrine"
 
 #### Secondary texts
@@ -500,6 +506,7 @@ Other stuff:
 -   [Tath&amacr;gatagarbha](https://en.wikipedia.org/wiki/Tathagatagarbha) - "the doctrine of Buddha nature"
 -   Vija&ntilde;&amacr;nav&amacr;da - "the doctrine of consciousness"
     -   [Yogachara](https://en.wikipedia.org/wiki/Yogachara) - "Yoga practice"
+-   [Upaya](https://en.wikipedia.org/wiki/Upaya) - guidance, expedient meants, pedagogy
 
 #### Primary texts
 
@@ -511,7 +518,7 @@ Other stuff:
     -   [Vajracchedik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra](https://en.wikipedia.org/wiki/Diamond_Sutra) - "The Perfection of Wisdom Text that Cuts Like a Thunderbolt" AKA "Diamond Sutra"
 -   [Mahaparinirvana Sutra](https://en.wikipedia.org/wiki/Mahayana_Mahaparinirvana_Sutra) - "Nirvana Sutra"
     -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
--   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Fundamental Verses on the Middle Way"
+-   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) (MMK) - "Fundamental Verses on the Middle Way"
 -   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) - "Sutra on the White Lotus of the Sublime Dharma" AKA "Lotus Sutra"
 -   [Sandhinirmocana Sutra](https://en.wikipedia.org/wiki/Sandhinirmocana_Sutra) - "Nobel Sutra on the Explanation of Profound Secrets"
     -   Wikipedia: the first creative work with an explicit public domain dedication, as its colophon at the end states that it was created "for universal free distribution."
