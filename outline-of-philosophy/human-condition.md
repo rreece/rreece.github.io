@@ -569,6 +569,8 @@ Other stuff:
 
 ### Criticism
 
+Paul Williams:
+
 >   If rebirth is true, realistically we really have no hope. It is a hope-less doctrine. [^Williams2011]
 
 -   Williams converted to Catholicism! WTF!
@@ -982,8 +984,9 @@ Plato:
 
 -   Horrific: war, genocide, terrorism
 -   Family strife
+-   Shame, guilt, lack of dignity
 -   Misplaced efforts, wasted time
--   Evil eye
+-   Evil eye, judgment and conflict in society
 -   Sam Harris
 -   Xenophanes?, Epicurus, Lucretius
 
