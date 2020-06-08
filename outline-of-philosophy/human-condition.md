@@ -47,7 +47,7 @@ Human history
 -   [Younger Dryas impact hypothesis](https://en.wikipedia.org/wiki/Younger_Dryas_impact_hypothesis)
 -   [Mesolithic](https://en.wikipedia.org/wiki/Mesolithic)
 
-[^Marshall2011]: Marshal, M. (2011). [You'd beat a Neanderthal in a race](https://www.newscientist.com/article/mg20927984-700-youd-beat-a-neanderthal-in-a-race/). *New Scientist*. February 2, 2011.
+[^Marshall2011]: @Marshal_2011_Youd_beat_a_Neanderthal_in_a_race\.
 [^WikiAncientHistory]: [en.wikipedia.org/wiki/Ancient_history](https://en.wikipedia.org/wiki/Ancient_history)
 
 ### First civilizations
