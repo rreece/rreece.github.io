@@ -246,6 +246,7 @@ Hinduism
 
 #### Other stuff
 
+-   [Carnatic music](https://en.wikipedia.org/wiki/Carnatic_music)
 -   [Paramahansa Yogananda](https://en.wikipedia.org/wiki/Paramahansa_Yogananda) (1893-1952)
 -   [Maharishi Mahesh Yogi](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi) (1918-2008)
 -   [John Hagelin](https://en.wikipedia.org/wiki/John_Hagelin) (b. 1954)
@@ -427,6 +428,10 @@ Other stuff:
 -   Therav&amacr;da Buddhism is the oldest existing branch of Buddhism, deriving from schools in Sri Lanka where much of the Pali Cannon was written.
 -   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline,
     with particular focus on being rational.
+-   Very roughly, today Therav&amacr;da Buddhism is dominately found south-east Asia:
+    Sri Lanka, Burma, Thailand, Laos, and Cambodia;
+    whereas Mah&amacr;y&amacr;na is found in more northern Asia: China, Korea, Japan,
+    Taiwan, Hong Kong, but also Vietnam (see [@fig:Buddhist-sects]).
 -   [Early Buddhist schools](https://en.wikipedia.org/wiki/Early_Buddhist_schools)
 -   [Third Buddhist Council](https://en.wikipedia.org/wiki/Third_Buddhist_council) (c. 250 BCE)
 -   [Vibhajyav&amacr;da](https://en.wikipedia.org/wiki/Vibhajyavada)
@@ -496,17 +501,23 @@ Other stuff:
 -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
 -   [Kum&amacr;raj&imacr;va](https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva) (344-413 CE)
+-   [Buddhism in China](https://en.wikipedia.org/wiki/Buddhism_in_China)
+    -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
+    -   [Chan Buddhism](https://en.wikipedia.org/wiki/Chan_Buddhism) (began 6th century CE)
+    -   [Tiantai](https://en.wikipedia.org/wiki/Tiantai) (began 6th century CE) - "The Lotus School"
+    -   [Xuanzang](https://en.wikipedia.org/wiki/Xuanzang) (fl. c. 602-664 CE)
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
--   [Chan Buddhism](https://en.wikipedia.org/wiki/Chan_Buddhism)
--   [Zen Buddhism](https://en.wikipedia.org/wiki/Zen)
-    -   Began in China as "Ch&aacute;n" in the [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
-    -   Introduced in Japan in 12th century CE and later romanized as "Zen"
-    -   [Zazen](https://en.wikipedia.org/wiki/Zazen) - "seated meditation"
-    -   [K&omacr;an](https://en.wikipedia.org/wiki/Koan)
--   [Tiantai](https://en.wikipedia.org/wiki/Tiantai) - "The Lotus School"
--   [Xuanzang](https://en.wikipedia.org/wiki/Xuanzang) (fl. c. 602-664 CE)
--   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
--   [David J. Kalupahana](https://en.wikipedia.org/wiki/David_Kalupahana) (1936-2014)
+    -   [Tendai](https://en.wikipedia.org/wiki/Tendai) (began 806 CE) - "The Lotus School"
+    -   [J&omacr;do Shinsh&umacr;](https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB) AKA Shin Buddhism AKA "True Pure Land Buddhism"
+        -   [Shinran](https://en.wikipedia.org/wiki/Shinran) (1173-1263)
+    -   [Zen Buddhism](https://en.wikipedia.org/wiki/Zen)
+        -   Began in China as "Ch&aacute;n" in the [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
+        -   Introduced in Japan in 12th century CE and later romanized as "Zen"
+        -   [Zazen](https://en.wikipedia.org/wiki/Zazen) - "seated meditation"
+        -   [K&omacr;an](https://en.wikipedia.org/wiki/Koan)
+-   South-asian support for Mah&amacr;y&amacr;na Buddhism:
+    -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
+    -   [David J. Kalupahana](https://en.wikipedia.org/wiki/David_Kalupahana) (1936-2014)
 
 #### Doctrines
 
