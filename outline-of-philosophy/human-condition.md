@@ -376,9 +376,9 @@ Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%
 -   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (m&amacr;rga/magga)
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (bodhi/bodhi)
--   [Nirvana/nibb&amacr;na](https://en.wikipedia.org/wiki/Nirvana) - liberation (literally "blown out") from sams&amacr;ra, equivalent to moksha
--   [Arhat](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana/nibb&amacr;na)
-    -   In the Mahayana tradition, an Arhat is far along the path of enlightenment (nirvana) but may not have reached full Buddhahood (bodhi).
+-   [nirvana/nibb&amacr;na](https://en.wikipedia.org/wiki/Nirvana) - liberation (literally "blown out") from sams&amacr;ra, equivalent to moksha
+-   [arhat/arahant](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana/nibb&amacr;na)
+    -   In the Mahayana tradition, an arhat is far along the path of enlightenment (nirvana) but may not have reached full Buddhahood (bodhi).
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 
 The three trainings:
@@ -409,8 +409,8 @@ Refuge in the "Three Jewels":
 
 -   [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy)
 -   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
--   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
-    -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
+-   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
+    -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
 -   [Secular Buddhism](https://en.wikipedia.org/wiki/Secular_Buddhism)
 
 Other stuff:
@@ -428,7 +428,9 @@ Other stuff:
 -   Therav&amacr;da Buddhism is the oldest existing branch of Buddhism, deriving from schools in Sri Lanka where much of the Pali Cannon was written.
 -   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline,
     with particular focus on being rational.
--   Very roughly, today Therav&amacr;da Buddhism is dominately found south-east Asia:
+-   The primary goal for a Therav&amacr;dan Buddhist is to become an arhat/arahant,
+    one who has achieved enlightenment (bodhi or nirvana/nibb&amacr;na).
+-   Very roughly, today Therav&amacr;da Buddhism is dominately found in south-east Asia:
     Sri Lanka, Burma, Thailand, Laos, and Cambodia;
     whereas Mah&amacr;y&amacr;na is found in more northern Asia: China, Korea, Japan,
     Taiwan, Hong Kong, but also Vietnam (see [@fig:Buddhist-sects]).
@@ -465,7 +467,7 @@ Other stuff:
     -   [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN)
         -   [Mah&amacr;parinibb&amacr;na Sutta](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta)
     -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN)
-        -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
+        -   [Sabba Sutta](https://suttacentral.net/sn35.23/en/bodhi) or "Discourse on Everything" (SN 35.23)
     -   [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN)
         -   [Kesamutti Sutta](https://en.wikipedia.org/wiki/Kesamutti_Sutta)
         -   [Uttaravipatti Sutta](https://suttacentral.net/an8.8/en/bodhi) - "Uttara on Failing" (AN 8.8)
@@ -497,12 +499,16 @@ Other stuff:
 -   Mah&amacr;y&amacr;na Buddhism has a lot of doctrinal diversity due to assimilating with Asian cultures, particularly in Tibet, China, and Japan.
 -   In contrast with Therav&amacr;da, Mah&amacr;y&amacr;na Buddhism has more focus on devotionals, ritual, aesthetics,
     and monastic hierarchy. Mah&amacr;y&amacr;na Buddhism also has more of a tendency to deify Buddhas.
+-   The primary goal for a Mah&amacr;y&amacr;nan Buddhist is to follow the bodhisattva path
+    to full buddhahood (samyaksambuddhahood) but taking however many reincarnations it takes to teach
+    others the path, bringing them in the Great Vehicle as well.
 -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
 -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
 -   [Kum&amacr;raj&imacr;va](https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva) (344-413 CE)
 -   [Buddhism in China](https://en.wikipedia.org/wiki/Buddhism_in_China)
     -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
+    -   [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
     -   [Chan Buddhism](https://en.wikipedia.org/wiki/Chan_Buddhism) (began 6th century CE)
     -   [Tiantai](https://en.wikipedia.org/wiki/Tiantai) (began 6th century CE) - "The Lotus School"
     -   [Xuanzang](https://en.wikipedia.org/wiki/Xuanzang) (fl. c. 602-664 CE)
@@ -511,24 +517,27 @@ Other stuff:
     -   [J&omacr;do Shinsh&umacr;](https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB) AKA Shin Buddhism AKA "True Pure Land Buddhism"
         -   [Shinran](https://en.wikipedia.org/wiki/Shinran) (1173-1263)
     -   [Zen Buddhism](https://en.wikipedia.org/wiki/Zen)
-        -   Began in China as "Ch&aacute;n" in the [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
+        -   Began in China as "Ch&aacute;n"
         -   Introduced in Japan in 12th century CE and later romanized as "Zen"
         -   [Zazen](https://en.wikipedia.org/wiki/Zazen) - "seated meditation"
         -   [K&omacr;an](https://en.wikipedia.org/wiki/Koan)
 -   South-asian support for Mah&amacr;y&amacr;na Buddhism:
     -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
     -   [David J. Kalupahana](https://en.wikipedia.org/wiki/David_Kalupahana) (1936-2014)
--   [Amit&amacr;bha](https://en.wikipedia.org/wiki/Amit%C4%81bha)
 
 #### Doctrines
 
 -   [Bodhisattva](https://en.wikipedia.org/wiki/Bodhisattva) - any person who is on the path towards Buddhahood.
+    -   A person who is able to reach nirvana but delays doing so out of compassion in order to save suffering beings.
     -   The Bodhisattva Path
     -   This path is contrasted with the Noble Eightfold Path,
-        going beyond being an Arhat towards full Buddhahood.
+        going beyond being an arhat towards full Buddhahood.
+    -   The Three Vehicles: disciples (&sacute;ravakas, literally "hearer"),
+        lone buddhas (pratyekabuddhas), and bodhisattvas.
 -   [Madhyamaka](https://en.wikipedia.org/wiki/Madhyamaka) - "Middle Way"
     -   AKA &Sacute;&umacr;nyav&amacr;da - "the emptiness doctrine"
-    -   Founded in N&amacr;g&amacr;rjuna's work [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Fundamental Verses on the Middle Way"
+    -   Founded in N&amacr;g&amacr;rjuna's work
+        [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Fundamental Verses on the Middle Way"
 -   [P&amacr;ramit&amacr;s](https://en.wikipedia.org/wiki/Paramita) - "Six Perfections"
     1.  D&amacr;na p&amacr;ramit&amacr;: generosity, the attitude of giving
     2.  S&imacr;la p&amacr;ramit&amacr;: virtue, morality, discipline, proper conduct
@@ -544,6 +553,7 @@ Other stuff:
 -   [Upaya](https://en.wikipedia.org/wiki/Upaya) - guidance, expedient means, pedagogy
 -   [Two truths doctrine](https://en.wikipedia.org/wiki/Two_truths_doctrine)
     -   There are two levels of truth (satya): the conventional (samvriti) and the ultimate (param&amacr;rtha).
+-   [Amit&amacr;bha](https://en.wikipedia.org/wiki/Amit%C4%81bha)
 
 #### Primary texts
 
@@ -703,10 +713,15 @@ Only Roman texts from the Late Stoa survive.
     of philosophy and how they diverged from the thinking of Socrates. [^Pigliucci2017p224]
     ](img/Pigliucci-history-of-Hellonistic-schools.jpg){#fig:Pigliucci-history-of-Hellonistic-schools}
 
+TODO: Stoicism's influence on Christianty
+
 TODO: Contemporary Stoicism
 
 Related:
 
+-   [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes) (446-366 BCE)
+-   [Diogenes](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
+-   [Cynicism](https://en.wikipedia.org/wiki/Cynicism_(philosophy))
 -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
 -   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
@@ -732,7 +747,7 @@ Theses (Pigliucci?):
 -   Pigliucci [^Pigliucci2017]
 -   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
--   [Glossary of Stoicism terms](https://en.wikipedia.org/wiki/Glossary_of_Stoicism_terms)
+-   [Glossary of terms in Stoicism](https://en.wikipedia.org/wiki/Glossary_of_Stoicism_terms)
 
 [^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic\.
 [^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.
