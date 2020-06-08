@@ -314,12 +314,12 @@ Buddhism
 
 #### Secondary texts
 
--   Kalupahana, D.J. (1992). *A History of Buddhist Philosophy: Continuities and Discontinuities* [^Kalupahana1992]
+-   Kalupahana, D.J. (1992). *A History of Buddhist Philosophy: Continuities and Discontinuities*. [^Kalupahana1992]
 -   Epstein, R. (2004). [Resources for the study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
--   Harvey, P. (2013). *An Introduction to Buddhism* [^Harvey2013]
+-   Harvey, P. (2013). *An Introduction to Buddhism*. [^Harvey2013]
+-   Hatcher, B. (2013). [A Bibliography of Buddhism (and Recovery)](https://www.hermetica.info/BuddBib.htm). - hermetica.info
 -   O'Brien, B. (2018). [Buddhist teachings on the self.](https://www.learnreligions.com/self-no-self-whats-a-self-450190)
 -   [buddhistelibrary.org](http://www.buddhistelibrary.org/en/index.php)
--   [A Bibliography of Buddhism (and Recovery)](https://www.hermetica.info/BuddBib.htm) - hermetica.info
 
 [^Harvey2013]: @Harvey_2013_An_Introduction_to_Buddhism\.
 [^Kalupahana1992]: @Kalupahana_1992_A_History_of_Buddhist_Philosophy_Continuities\.
@@ -463,6 +463,7 @@ Other stuff:
         -   "Sabba Sutta" or "Discourse on Everything" (SN 35.23)
     -   [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN)
         -   [Kesamutti Sutta](https://en.wikipedia.org/wiki/Kesamutti_Sutta)
+        -   [Uttaravipatti Sutta](https://suttacentral.net/an8.8/en/bodhi) - "Uttara on Failing" (AN 8.8)
     -   [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN)
         -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
         -   [Ud&amacr;na](https://en.wikipedia.org/wiki/Udana)
@@ -477,6 +478,7 @@ Other stuff:
 #### Secondary texts
 
 -   [Access to Insight: Readings in Therav&amacr;da Buddhism](https://www.accesstoinsight.org/)
+-   [SuttaCentral.net](https://suttacentral.net/)
 -   Bodhi, Bhikkhu. (1999). [*The Noble Eightfold Path: The Way to the End of Suffering*](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html).
 -   Bodhi, Bhikkhu. (2013). [I teach only suffering and the end of suffering: Nope, Buddha didn't quite say that](https://tricycle.org/magazine/i-teach-only-suffering-and-end-suffering/).
 
@@ -489,7 +491,7 @@ Other stuff:
 -   Mah&amacr;y&amacr;na Buddhists teach that enlightenment can be attained in a single lifetime, and this can be accomplished even by a layperson.
 -   Mah&amacr;y&amacr;na Buddhism has a lot of doctrinal diversity due to assimilating with Asian cultures, particularly in Tibet, China, and Japan.
 -   In contrast with Therav&amacr;da, Mah&amacr;y&amacr;na Buddhism has more focus on devotionals, ritual, aesthetics,
-    and monastic hierarchy.
+    and monastic hierarchy. Mah&amacr;y&amacr;na Buddhism also has more of a tendency to deify Buddhas.
 -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
 -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
@@ -545,6 +547,7 @@ Other stuff:
 -   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) - "Sutra on the White Lotus of the Sublime Dharma" AKA "Lotus Sutra"
 -   [Sandhinirmocana Sutra](https://en.wikipedia.org/wiki/Sandhinirmocana_Sutra) - "Nobel Sutra on the Explanation of Profound Secrets"
     -   Wikipedia: the first creative work with an explicit public domain dedication, as its colophon at the end states that it was created "for universal free distribution."
+-   [Longer Sukh&amacr;vat&imacr;y&umacr;ha  Sutra](https://en.wikipedia.org/wiki/Longer_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Infinite Life Sutra"
 -   [Yogacarabhumi-sastra](https://en.wikipedia.org/wiki/Yogacarabhumi-sastra) - "Treatise on the Foundation for Yoga Practitioners"
 
 #### Secondary texts
