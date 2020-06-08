@@ -1127,6 +1127,7 @@ Click to show links
 -   [Berkeley, George (1685-1753)](http://plato.stanford.edu/entries/berkeley/)
 -   [Carnap, Rudolf (1891-1970)](https://plato.stanford.edu/entries/carnap/)
 -   [Coherentist theories of epistemic justification](http://plato.stanford.edu/entries/justep-coherence/)
+-   [Confirmation](https://plato.stanford.edu/entries/confirmation/)
 -   [Democritus (460-370 BCE)](http://plato.stanford.edu/entries/democritus/)
 -   [Descartes, Ren&eacute; (1596-1650)](http://plato.stanford.edu/entries/descartes/)
 -   [Descartes' Epistemology](http://plato.stanford.edu/entries/descartes-epistemology/)

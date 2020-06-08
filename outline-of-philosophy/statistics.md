@@ -972,6 +972,7 @@ Click to show links
 -   [Carnap, Rudolf (1891-1970)](https://plato.stanford.edu/entries/carnap/)
 -   [Causal Models](https://plato.stanford.edu/entries/causal-models/)
 -   [Causal Processes](http://plato.stanford.edu/entries/causation-process/)
+-   [Confirmation](https://plato.stanford.edu/entries/confirmation/)
 -   [Dutch Book Arguments](https://plato.stanford.edu/entries/dutch-book/)
 -   [Epistemology](http://plato.stanford.edu/entries/epistemology/)
 -   [Foundationalist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-foundational/)
