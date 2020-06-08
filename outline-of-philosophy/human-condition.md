@@ -333,7 +333,7 @@ otherwise usually showing Sanskrit if only one translation is given.
 #### Important initial concepts
 
 -   Buddhism is generally considered to be n&amacr;stika---a heterodox break from Hinduism.
--   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way)
+-   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) (Madhyam&amacr;pratipada)
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
 -   [Sangha](https://en.wikipedia.org/wiki/Sangha) - (monastic) "community"; called _parisa_ if including lay followers.
@@ -358,7 +358,7 @@ Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%
 [Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths) (satya/sacc&amacr; = truth):
 
 1.  Suffering ([duhkha/dukkha](https://en.wikipedia.org/wiki/Duhkha)) is part of existence.
-2.  The origins/causes ([samudaya-satya / samudaya sacc&amacr;](https://encyclopediaofbuddhism.org/wiki/Samudaya)) of suffering are
+2.  The origins or causes ([samudaya-satya/samudaya sacc&amacr;](https://encyclopediaofbuddhism.org/wiki/Samudaya)) of suffering are
     craving ([trishna/tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
     ignorance/delusion ([avidy&amacr;/avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
     attachment ([r&amacr;ga/lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
@@ -375,7 +375,7 @@ Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%
 -   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (m&amacr;rga/magga)
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (bodhi/bodhi)
--   [Nirvana/nibb&amacr;na](https://en.wikipedia.org/wiki/Nirvana) - liberation from sams&amacr;ra like moksha
+-   [Nirvana/nibb&amacr;na](https://en.wikipedia.org/wiki/Nirvana) - liberation (literally "blown out") from sams&amacr;ra, equivalent to moksha
 -   [Arhat](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana/nibb&amacr;na)
     -   In the Mahayana tradition, an Arhat is far along the path of enlightenment (nirvana) but may not have reached full Buddhahood (bodhi).
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
@@ -678,11 +678,11 @@ Three historical phases of Stoicism:
 No complete works survive from the first two phases of Stoicism.
 Only Roman texts from the Late Stoa survive.
 
-TODO: Contemporary Stoicism
-
 ![The historical and conceptual relationships among Hellonistic schools
     of philosophy and how they diverged from the thinking of Socrates. [^Pigliucci2017p224]
     ](img/Pigliucci-history-of-Hellonistic-schools.jpg){#fig:Pigliucci-history-of-Hellonistic-schools}
+
+TODO: Contemporary Stoicism
 
 Related:
 
