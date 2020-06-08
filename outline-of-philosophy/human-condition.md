@@ -532,7 +532,7 @@ Other stuff:
     -   The Bodhisattva Path
     -   This path is contrasted with the Noble Eightfold Path,
         going beyond being an arhat towards full Buddhahood.
-    -   The Three Vehicles: disciples (&sacute;ravakas, literally "hearer"),
+    -   The Three Vehicles ([y&amacr;nas](https://en.wikipedia.org/wiki/Yana_(Buddhism))): disciples (&sacute;ravakas, literally "hearer"),
         lone buddhas (pratyekabuddhas), and bodhisattvas.
 -   [Madhyamaka](https://en.wikipedia.org/wiki/Madhyamaka) - "Middle Way"
     -   AKA &Sacute;&umacr;nyav&amacr;da - "the emptiness doctrine"
@@ -571,6 +571,8 @@ Other stuff:
     -   "Fundamental Verses on the Middle Way"
 -   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) AKA "Lotus Sutra"
     -   "Sutra on the White Lotus of the Sublime Dharma"
+    -   All three vehicles (yan&amacr;s) are really part of one vehicle to becoming buddhas:
+        [ekay&amacr;na](https://en.wikipedia.org/wiki/Ekay%C4%81na).
 -   [Sandhinirmocana Sutra](https://en.wikipedia.org/wiki/Sandhinirmocana_Sutra)
     -   "Nobel Sutra on the Explanation of Profound Secrets"
     -   Wikipedia: the first creative work with an explicit public domain dedication, as its colophon at the end states that it was created "for universal free distribution."
