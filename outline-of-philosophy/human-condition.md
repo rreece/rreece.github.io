@@ -518,6 +518,7 @@ Other stuff:
 -   South-asian support for Mah&amacr;y&amacr;na Buddhism:
     -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
     -   [David J. Kalupahana](https://en.wikipedia.org/wiki/David_Kalupahana) (1936-2014)
+-   [Amit&amacr;bha](https://en.wikipedia.org/wiki/Amit%C4%81bha)
 
 #### Doctrines
 
@@ -550,15 +551,21 @@ Other stuff:
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) - "The Perfection of Wisdom"
     -   radical non-dualism
     -   P&amacr;ramit&amacr;s - "Six Perfections"
-    -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;hrdaya](https://en.wikipedia.org/wiki/Heart_Sutra) - "The Heart of the Perfection of Wisdom" AKA "Heart Sutra"
-    -   [Vajracchedik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra](https://en.wikipedia.org/wiki/Diamond_Sutra) - "The Perfection of Wisdom Text that Cuts Like a Thunderbolt" AKA "Diamond Sutra"
--   [Mahaparinirvana Sutra](https://en.wikipedia.org/wiki/Mahayana_Mahaparinirvana_Sutra) - "Nirvana Sutra"
+    -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;hrdaya](https://en.wikipedia.org/wiki/Heart_Sutra) AKA "Heart Sutra"
+        -   "The Heart of the Perfection of Wisdom"
+    -   [Vajracchedik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra](https://en.wikipedia.org/wiki/Diamond_Sutra) AKA "Diamond Sutra"
+        -   "The Perfection of Wisdom Text that Cuts Like a Thunderbolt"
+-   [Mahaparinirvana Sutra](https://en.wikipedia.org/wiki/Mahayana_Mahaparinirvana_Sutra) AKA "Nirvana Sutra"
     -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
--   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) (MMK) - "Fundamental Verses on the Middle Way"
--   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) - "Sutra on the White Lotus of the Sublime Dharma" AKA "Lotus Sutra"
--   [Sandhinirmocana Sutra](https://en.wikipedia.org/wiki/Sandhinirmocana_Sutra) - "Nobel Sutra on the Explanation of Profound Secrets"
+-   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) (MMK)
+    -   "Fundamental Verses on the Middle Way"
+-   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) AKA "Lotus Sutra"
+    -   "Sutra on the White Lotus of the Sublime Dharma"
+-   [Sandhinirmocana Sutra](https://en.wikipedia.org/wiki/Sandhinirmocana_Sutra)
+    -   "Nobel Sutra on the Explanation of Profound Secrets"
     -   Wikipedia: the first creative work with an explicit public domain dedication, as its colophon at the end states that it was created "for universal free distribution."
 -   [Longer Sukh&amacr;vat&imacr;y&umacr;ha  Sutra](https://en.wikipedia.org/wiki/Longer_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Infinite Life Sutra"
+-   [Shorter Sukh&amacr;vat&imacr;y&umacr;ha  Sutra](https://en.wikipedia.org/wiki/Shorter_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra)
 -   [Yogacarabhumi-sastra](https://en.wikipedia.org/wiki/Yogacarabhumi-sastra) - "Treatise on the Foundation for Yoga Practitioners"
 
 #### Secondary texts
