@@ -258,6 +258,8 @@ Hinduism
 
 ### Common doctrines
 
+#### Purus&amacr;rtha
+
 [Purus&amacr;rtha](https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha) - the four proper aims of human life:
 
 -   [Dharma](https://en.wikipedia.org/wiki/Dharma) - ethics/duties/righteousness
@@ -265,7 +267,7 @@ Hinduism
 -   [Kama](https://en.wikipedia.org/wiki/Kama) -  desires/passions 
 -   [Moksha](https://en.wikipedia.org/wiki/Moksha) - liberation/salvation
 
-Others:
+#### Others
 
 -   [Dhyana in Hinduism](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism) - meditation
 -   [Karma in Hinduism](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
@@ -276,6 +278,9 @@ Others:
 -   [Hindu atheism](https://en.wikipedia.org/wiki/Hindu_atheism)
 -   [Kalpa](https://en.wikipedia.org/wiki/Kalpa_(aeon)) - aeon
 -   [Namaste](https://en.wikipedia.org/wiki/Namaste) - Hindu greeting, literally "not I"
+
+#### Gods
+
 -   TODO: gods
 
 ![The Wheel of Dharma ([Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra))
@@ -566,7 +571,7 @@ Other stuff:
 -   [Upaya](https://en.wikipedia.org/wiki/Upaya) - guidance, expedient means, pedagogy
 -   [Two truths doctrine](https://en.wikipedia.org/wiki/Two_truths_doctrine)
     -   There are two levels of truth (satya): the conventional (samvriti) and the ultimate (param&amacr;rtha).
--   [Amit&amacr;bha](https://en.wikipedia.org/wiki/Amit%C4%81bha)
+-   [Amit&amacr;bha](https://en.wikipedia.org/wiki/Amit%C4%81bha) AKA Amida - transcendental celestial buddha
 
 #### Primary texts
 
@@ -598,6 +603,7 @@ Other stuff:
 #### Secondary texts
 
 -   Williams, P. (2009). *Mahayana Buddhism: The doctrinal foundations*. [^Williams2009]
+-   [Fundamentals of Jodo Shinshu Buddhism Workbook](https://sites.google.com/view/jodo-shinshu-fundamentals/home) by [Mountain View Buddhist Temple](https://www.mvbuddhisttemple.org/)
 -   [UrbanDharma.org](http://www.urbandharma.org/index6.html) & [kusala.org](http://www.kusala.org/) - resources on Buddhism by Kusala Ratana Karuna
 
 [^Williams2009]: @Williams_2009_Mahayana_Buddhism_The_doctrinal_foundations\.
