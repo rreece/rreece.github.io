@@ -331,6 +331,9 @@ Alex Rosenberg is a mad dog against emergence. Video:
 -   Fundamentality:
     -   Ney [^Ney2018]
 -   Why "physics is fundamental"
+-   Physicalism
+-   Hempel's dilemma
+-   Montero, B. (1999). The Body Problem.
 
 [^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
     This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,

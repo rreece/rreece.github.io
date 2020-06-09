@@ -536,12 +536,17 @@ Other stuff:
 -   South-asian support for Mah&amacr;y&amacr;na Buddhism:
     -   [David J. Kalupahana](https://en.wikipedia.org/wiki/David_Kalupahana) (1936-2014)
 -   [Buddhism in the West](https://en.wikipedia.org/wiki/Buddhism_in_the_West)
+    -   [Buddhism in the United States](https://en.wikipedia.org/wiki/Buddhism_in_the_United_States)
+        -   In 1893, the first J&omacr;do Shinsh&umacr; monks arrived in San Francisco,
+            and they established the Buddhist Missions of North America,
+            later renamed the Buddhist Churches of America (BCA) in 1899.
+        -   [Paul Carus](https://en.wikipedia.org/wiki/Paul_Carus) (1852-1919)
+        -   [Soyen Shaku](https://en.wikipedia.org/wiki/Soyen_Shaku) (1860-1919)
+        -   [Shunry&umacr; Suzuki](https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki) (1904-1971)
     -   [Plum Village Tradition](https://en.wikipedia.org/wiki/Plum_Village_Tradition)
         -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
         -   [Dharma teachers at the Plum Village](https://plumvillage.org/about/dharma-teachers/)
     -   [Engaged Buddhism](https://en.wikipedia.org/wiki/Engaged_Buddhism)
-    -   [Buddhism in the United States](https://en.wikipedia.org/wiki/Buddhism_in_the_United_States)
-    -   [Shunry&umacr; Suzuki](https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki) (1904-1971)
 
 #### Doctrines
 
@@ -826,7 +831,7 @@ Comparitive studies
 -   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
 -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
 -   Buddhism and Orphism
--   Buddhism and Pyrrhonism
+-   [Buddhism and Pyrrhonism](https://en.wikipedia.org/wiki/Similarities_between_Pyrrhonism_and_Buddhism)
 -   Buddhism and Plato, *Phaedo*
 -   Buddhism and Stoicism
 -   Buddhism and Hume: anitya and humeanism
