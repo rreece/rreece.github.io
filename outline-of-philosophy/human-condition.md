@@ -512,9 +512,9 @@ Other stuff:
 -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
 -   [Kum&amacr;raj&imacr;va](https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva) (344-413 CE)
--   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism)
 -   [Buddhism in China](https://en.wikipedia.org/wiki/Buddhism_in_China)
     -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
+    -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism) (introduced in China in 147 CE)
     -   [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
     -   [Chan Buddhism](https://en.wikipedia.org/wiki/Chan_Buddhism) (began 6th century CE)
     -   [Tiantai](https://en.wikipedia.org/wiki/Tiantai) (began 6th century CE) - "The Lotus School"
@@ -529,8 +529,14 @@ Other stuff:
         -   [Zazen](https://en.wikipedia.org/wiki/Zazen) - "seated meditation"
         -   [K&omacr;an](https://en.wikipedia.org/wiki/Koan)
 -   South-asian support for Mah&amacr;y&amacr;na Buddhism:
-    -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
     -   [David J. Kalupahana](https://en.wikipedia.org/wiki/David_Kalupahana) (1936-2014)
+-   [Buddhism in the West](https://en.wikipedia.org/wiki/Buddhism_in_the_West)
+    -   [Plum Village Tradition](https://en.wikipedia.org/wiki/Plum_Village_Tradition)
+        -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
+        -   [Dharma teachers at the Plum Village](https://plumvillage.org/about/dharma-teachers/)
+    -   [Engaged Buddhism](https://en.wikipedia.org/wiki/Engaged_Buddhism)
+    -   [Buddhism in the United States](https://en.wikipedia.org/wiki/Buddhism_in_the_United_States)
+    -   [Shunry&umacr; Suzuki](https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki) (1904-1971)
 
 #### Doctrines
 
@@ -583,9 +589,11 @@ Other stuff:
 -   [Sandhinirmocana Sutra](https://en.wikipedia.org/wiki/Sandhinirmocana_Sutra)
     -   "Nobel Sutra on the Explanation of Profound Secrets"
     -   Wikipedia: the first creative work with an explicit public domain dedication, as its colophon at the end states that it was created "for universal free distribution."
--   [Longer Sukh&amacr;vat&imacr;y&umacr;ha  Sutra](https://en.wikipedia.org/wiki/Longer_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Infinite Life Sutra"
--   [Shorter Sukh&amacr;vat&imacr;y&umacr;ha  Sutra](https://en.wikipedia.org/wiki/Shorter_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra)
 -   [Yogacarabhumi-sastra](https://en.wikipedia.org/wiki/Yogacarabhumi-sastra) - "Treatise on the Foundation for Yoga Practitioners"
+-   Pure Land Sutras
+    -   [Longer Sukh&amacr;vat&imacr;y&umacr;ha  Sutra](https://en.wikipedia.org/wiki/Longer_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Infinite Life Sutra"
+    -   [Amit&amacr;yurdhy&amacr;na Sutra](https://en.wikipedia.org/wiki/Amitayurdhyana_Sutra) - "Contemplation Sutra" 
+    -   [Shorter Sukh&amacr;vat&imacr;y&umacr;ha  Sutra](https://en.wikipedia.org/wiki/Shorter_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Amitabha Sutra"
 
 #### Secondary texts
 
