@@ -320,7 +320,8 @@ Buddhism
 -   Harvey, P. (2013). *An Introduction to Buddhism*. [^Harvey2013]
 -   Hatcher, B. (2013). [A Bibliography of Buddhism (and Recovery)](https://www.hermetica.info/BuddBib.htm). - hermetica.info
 -   O'Brien, B. (2018). [Buddhist teachings on the self.](https://www.learnreligions.com/self-no-self-whats-a-self-450190)
--   [buddhistelibrary.org](http://www.buddhistelibrary.org/en/index.php)
+-   [BPS Online Library](http://www.bps.lk/library.php)
+-   [Buddhist eLibrary.org](http://www.buddhistelibrary.org/en/index.php)
 
 [^Harvey2013]: @Harvey_2013_An_Introduction_to_Buddhism\.
 [^Kalupahana1992]: @Kalupahana_1992_A_History_of_Buddhist_Philosophy_Continuities\.
@@ -377,8 +378,9 @@ Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (bodhi/bodhi)
 -   [nirvana/nibb&amacr;na](https://en.wikipedia.org/wiki/Nirvana) - liberation (literally "blown out") from sams&amacr;ra, equivalent to moksha
--   [arhat/arahant](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (nirvana/nibb&amacr;na)
-    -   In the Mahayana tradition, an arhat is far along the path of enlightenment (nirvana) but may not have reached full Buddhahood (bodhi).
+-   [arhat/arahant](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (bodhi or nirvana/nibb&amacr;na)
+    -   In the Mahayana tradition, an arhat is far along the path of enlightenment (nirvana)
+        but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 
 The three trainings:
@@ -405,6 +407,9 @@ Refuge in the "Three Jewels":
 4. Abstention from falsehood
 5. Abstention from intoxication
 
+-   Bodhi, Bhikkhu. (1981). [*Going for Refuge & Taking the Precepts*](http://www.ibmc-la.org/uploads/1/5/1/0/15104808/goingforrefuge.pdf).
+
+
 #### Buddhist philosophy
 
 -   [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy)
@@ -418,6 +423,7 @@ Other stuff:
 -   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
 -   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
 -   [Maitreya](https://en.wikipedia.org/wiki/Maitreya) AKA Ajita - regarded as a prophesied future Buddha 
+-   [Kusala Ratana Karuna: Dhamma talk on the differences between Theravada and Mahayana](https://www.youtube.com/watch?v=vvjjqQnRmKk)
 
 ![Map of the main modern Buddhist sects. Kalmykia in western Russia was cropped out, sorry ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
 
@@ -481,6 +487,7 @@ Other stuff:
 [Abhidhamma](https://en.wikipedia.org/wiki/Visuddhimagga) - systematic pedagogical presentations:
 
 -   [Visuddhimagga](https://en.wikipedia.org/wiki/Visuddhimagga) by Buddhaghosa
+-   [Selected Theravada Suttas](http://www.ibmc-la.org/buddhist-teachings.html) at IMBC, Los Angeles
 
 #### Secondary texts
 
@@ -503,9 +510,9 @@ Other stuff:
     to full buddhahood (samyaksambuddhahood) but taking however many reincarnations it takes to teach
     others the path, bringing them in the Great Vehicle as well.
 -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
--   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
 -   [Kum&amacr;raj&imacr;va](https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva) (344-413 CE)
+-   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism)
 -   [Buddhism in China](https://en.wikipedia.org/wiki/Buddhism_in_China)
     -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
     -   [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
@@ -583,6 +590,7 @@ Other stuff:
 #### Secondary texts
 
 -   Williams, P. (2009). *Mahayana Buddhism: The doctrinal foundations*. [^Williams2009]
+-   [UrbanDharma.org](http://www.urbandharma.org/index6.html) & [kusala.org](http://www.kusala.org/) - resources on Buddhism by Kusala Ratana Karuna
 
 [^Williams2009]: @Williams_2009_Mahayana_Buddhism_The_doctrinal_foundations\.
 
