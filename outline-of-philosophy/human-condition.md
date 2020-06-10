@@ -642,13 +642,14 @@ Other stuff:
 
 ### Criticism
 
+-   [Navay&amacr;na](https://en.wikipedia.org/wiki/Navayana) - "New Vehicle"
+    -   [B.R. Ambedkar](https://en.wikipedia.org/wiki/B._R._Ambedkar) (1891-1956)
+
 Paul Williams:
 
 >   If rebirth is true, realistically we really have no hope. It is a hope-less doctrine. [^Williams2011]
 
 -   Williams converted to Catholicism! WTF!
--   [Navay&amacr;na](https://en.wikipedia.org/wiki/Navayana) - "New Vehicle"
-    -   [B.R. Ambedkar](https://en.wikipedia.org/wiki/B._R._Ambedkar) (1891-1956)
 
 [^Williams2011]: @Williams_2011_On_converting_from_Buddhism_to_Catholicism_One\.
 
