@@ -443,6 +443,8 @@ Other stuff:
 
 ### Therav&amacr;da Buddhism
 
+#### Introduction
+
 -   [Therav&amacr;da](https://en.wikipedia.org/wiki/Theravada) is Pali for "The School of the Elders".
 -   Therav&amacr;da Buddhism is the oldest existing branch of Buddhism, deriving from schools in Sri Lanka where much of the Pali Cannon was written.
 -   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline,
@@ -453,6 +455,9 @@ Other stuff:
     Sri Lanka, Burma, Thailand, Laos, and Cambodia;
     whereas Mah&amacr;y&amacr;na is found in more northern Asia: China, Korea, Japan,
     Taiwan, Hong Kong, but also Vietnam (see [@fig:Buddhist-sects]).
+
+#### History
+
 -   [Early Buddhist schools](https://en.wikipedia.org/wiki/Early_Buddhist_schools)
 -   [Third Buddhist Council](https://en.wikipedia.org/wiki/Third_Buddhist_council) (c. 250 BCE)
 -   [Vibhajyav&amacr;da](https://en.wikipedia.org/wiki/Vibhajyavada)
@@ -512,6 +517,8 @@ Other stuff:
 
 ### Mah&amacr;y&amacr;na Buddhism
 
+#### Introduction
+
 -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
 -   Sanskrit: "The Great Vehicle"
 -   Mah&amacr;y&amacr;na tradition is the largest major tradition of Buddhism existing today.
@@ -524,6 +531,9 @@ Other stuff:
     others the path, bringing them in the Great Vehicle as well.
 -   Mah&amacr;y&amacr;na, in a somewhat pejorative way, sometimes refer to Therav&amacr;da
     as [Hinay&amacr;na](https://en.wikipedia.org/wiki/Hinayana), "small/deficient vehicle".
+
+#### History
+
 -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
 -   [Kum&amacr;raj&imacr;va](https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva) (344-413 CE)
