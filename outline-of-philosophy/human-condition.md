@@ -298,6 +298,7 @@ Buddhism
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism) (began between 6th and 4th centuries BCE)
 -   [Siddhartha Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha) (c. 480-400 BCE)
     -   AKA Shakyamuni Buddha
+    -   [Four sights](https://en.wikipedia.org/wiki/Four_sights)
     -   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
     -   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
     -   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
@@ -310,6 +311,13 @@ Buddhism
 -   [Gandh&amacr;ran Buddhist texts](https://en.wikipedia.org/wiki/Gandharan_Buddhist_texts) - oldest yet discovered Buddhist texts (c. first century BCE)
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [Buddhist modernism](https://en.wikipedia.org/wiki/Buddhist_modernism)
+
+#### Sects
+
+-   [Therav&amacr;da](https://en.wikipedia.org/wiki/Theravada) - "School of the Elders"
+-   [Mah&amacr;y&amacr;na](https://en.wikipedia.org/wiki/Mahayana) - "Great Vehicle"
+-   [Vajray&amacr;na](https://en.wikipedia.org/wiki/Vajrayana) - "Thunderbolt Vehicle"
+-   [Navay&amacr;na](https://en.wikipedia.org/wiki/Navayana) - "New Vehicle"
 
 #### Primary texts
 
@@ -514,6 +522,8 @@ Other stuff:
 -   The primary goal for a Mah&amacr;y&amacr;nan Buddhist is to follow the bodhisattva path
     to full buddhahood (samyaksambuddhahood) but taking however many reincarnations it takes to teach
     others the path, bringing them in the Great Vehicle as well.
+-   Mah&amacr;y&amacr;na, in a somewhat pejorative way, sometimes refer to Therav&amacr;da
+    as [Hinay&amacr;na](https://en.wikipedia.org/wiki/Hinayana), "small/deficient vehicle".
 -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
 -   [Kum&amacr;raj&imacr;va](https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva) (344-413 CE)
@@ -561,7 +571,7 @@ Other stuff:
     -   AKA &Sacute;&umacr;nyav&amacr;da - "the emptiness doctrine"
     -   Founded in N&amacr;g&amacr;rjuna's work
         [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Fundamental Verses on the Middle Way"
--   [P&amacr;ramit&amacr;s](https://en.wikipedia.org/wiki/Paramita) - "Six Perfections"
+-   Six [P&amacr;ramit&amacr;s](https://en.wikipedia.org/wiki/Paramita) - "Six Perfections"
     1.  D&amacr;na p&amacr;ramit&amacr;: generosity, the attitude of giving
     2.  S&imacr;la p&amacr;ramit&amacr;: virtue, morality, discipline, proper conduct
     3.  Ks&amacr;nti p&amacr;ramit&amacr;: patience, tolerance, forbearance, acceptance, endurance
@@ -583,7 +593,7 @@ Other stuff:
 -   Mahayana builds on the Theravada texts, adding the [Mahayana sutras](https://en.wikipedia.org/wiki/Mahayana_sutras).
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) - "The Perfection of Wisdom"
     -   radical non-dualism
-    -   P&amacr;ramit&amacr;s - "Six Perfections"
+    -   Six P&amacr;ramit&amacr;s - "Six Perfections"
     -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;hrdaya](https://en.wikipedia.org/wiki/Heart_Sutra) AKA "Heart Sutra"
         -   "The Heart of the Perfection of Wisdom"
     -   [Vajracchedik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra](https://en.wikipedia.org/wiki/Diamond_Sutra) AKA "Diamond Sutra"
@@ -617,14 +627,17 @@ Other stuff:
 ### Vajray&amacr;na Buddhism
 
 -   Sanskrit: "Thunderbolt Vehicle"
+-   AKA Tantray&amacr;na
 -   [Vajray&amacr;na Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
 -   Some consider Vajray&amacr;na a separate branch or sub-branch of Mah&amacr;y&amacr;na Buddhism.
 -   Developed in medieval period in India and spread to Tibet, Bhutan, and east Asia.
 -   Adds esoteric teachings to the Mah&amacr;y&amacr;na tradition.
--   Focus on one-on-one teaching from a guru.
--   [Tantra](https://en.wikipedia.org/wiki/Tantra)
--   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen)
+-   Often focuses on one-on-one teaching from a guru.
+-   [Tantra](https://en.wikipedia.org/wiki/Tantra) - esoteric teachings in Hinduism and Buddhism
+    -   literally: "loom, weave, system"
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
+    -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) - "Great Perfection"
+        -   a practice with great emphasis on introspection and meditation
 
 
 ### Criticism
@@ -634,6 +647,8 @@ Paul Williams:
 >   If rebirth is true, realistically we really have no hope. It is a hope-less doctrine. [^Williams2011]
 
 -   Williams converted to Catholicism! WTF!
+-   [Navay&amacr;na](https://en.wikipedia.org/wiki/Navayana) - "New Vehicle"
+    -   [B.R. Ambedkar)](https://en.wikipedia.org/wiki/B._R._Ambedkar)
 
 [^Williams2011]: @Williams_2011_On_converting_from_Buddhism_to_Catholicism_One\.
 
@@ -742,20 +757,22 @@ Only Roman texts from the Late Stoa survive.
     of philosophy and how they diverged from the thinking of Socrates. [^Pigliucci2017p224]
     ](img/Pigliucci-history-of-Hellonistic-schools.jpg){#fig:Pigliucci-history-of-Hellonistic-schools}
 
+Related:
+
+-   [Cynicism](https://en.wikipedia.org/wiki/Cynicism_(philosophy))
+    -   [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes) (446-366 BCE)
+    -   [Diogenes](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
+-   [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
+    -   [Aristippus](https://en.wikipedia.org/wiki/Aristippus) (435-356 BCE)
+    -   [Cyrenaic school](https://en.wikipedia.org/wiki/Cyrenaics)
+    -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
+-   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
+    -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
+    -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
+
 TODO: Stoicism's influence on Christianty
 
 TODO: Contemporary Stoicism
-
-Related:
-
--   [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes) (446-366 BCE)
--   [Diogenes](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
--   [Cynicism](https://en.wikipedia.org/wiki/Cynicism_(philosophy))
--   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
--   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
--   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
--   [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
--   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
 
 [^Pigliucci2017p224]: @Pigliucci_2017_How_to_be_a_Stoic\, p. 224.
 
