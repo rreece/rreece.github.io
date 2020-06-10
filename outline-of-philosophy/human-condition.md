@@ -648,7 +648,7 @@ Paul Williams:
 
 -   Williams converted to Catholicism! WTF!
 -   [Navay&amacr;na](https://en.wikipedia.org/wiki/Navayana) - "New Vehicle"
-    -   [B.R. Ambedkar)](https://en.wikipedia.org/wiki/B._R._Ambedkar)
+    -   [B.R. Ambedkar](https://en.wikipedia.org/wiki/B._R._Ambedkar)
 
 [^Williams2011]: @Williams_2011_On_converting_from_Buddhism_to_Catholicism_One\.
 
