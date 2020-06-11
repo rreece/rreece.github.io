@@ -25,6 +25,10 @@ Deontological ethics
 --------------------------------------------------------------------------------
 
 -   Kant
+-   Rawls
+    -   *A Theory of Justice* [^Rawls1999]
+
+[^Rawls1999]: @Rawls_1999_A_Theory_of_Justice\.
 
 
 Consequentialism
@@ -34,7 +38,13 @@ Consequentialism
 -   Bentham
 -   Mill
 -   Game theory
--   @Portmore_2011_Commonsense_Consequentialism
+-   Binmore
+    -   *Natural Justice* [^Binmore2011]
+-   Portmore
+    -   *Commonsense Consequentialism* [^Portmore2011]
+
+[^Binmore2011]: @Binmore_2011_Natural_Justice\.
+[^Portmore2011]: @Portmore_2011_Commonsense_Consequentialism\.
 
 
 Moral antirealism
@@ -93,9 +103,10 @@ Moral naturalism
     -   Heads-up poker solved [^Bowling2015]
     -   [Condorcet's jury theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
 -   evolution
-    -   @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes
+    -   de Waal [^deWaal1982]
     -   evolution of trust
--   @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other
+-   Putnam
+    -   *The Collapse of the Fact-value Dichotomy and Other Essays* [^Putnam2004]
 -   Michael Shermer and Massimo Pigliucci debate the role of science deriving morality:
     -   [vid](https://www.youtube.com/watch?v=4Qhlp-X3EHA)
     -   [blog 1](http://rationallyspeaking.blogspot.com/2013/01/michael-shermer-on-morality.html)
@@ -105,6 +116,8 @@ Moral naturalism
 -   See also the [Outline on naturalism](naturalism.html#moral-naturalism).
 
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
+[^deWaal1982]: @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes\.
+[^Putnam2004]: @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other\.
 
 
 Aesthetics
