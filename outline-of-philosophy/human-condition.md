@@ -309,6 +309,7 @@ Buddhism
 -   [Khujjuttara](https://en.wikipedia.org/wiki/Khujjuttara) - one of Buddha's foremost female lay disciples
 -   [Ashoka](https://en.wikipedia.org/wiki/Ashoka) (c. 304-232 BCE)
 -   [Gandh&amacr;ran Buddhist texts](https://en.wikipedia.org/wiki/Gandharan_Buddhist_texts) - oldest yet discovered Buddhist texts (c. first century BCE)
+-   [Dign&amacr;ga](https://en.wikipedia.org/wiki/Dign%C4%81ga) (c. 480-540 CE)
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [Buddhist modernism](https://en.wikipedia.org/wiki/Buddhist_modernism)
 
@@ -366,7 +367,9 @@ otherwise usually showing Sanskrit if only one translation is given.
 Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)) and non-self ([an&amacr;tman](https://en.wikipedia.org/wiki/Anatman)):
 
 -   In Therav&amacr;da, focus non-self nature or [anatta](https://en.wikipedia.org/wiki/Anatta).
--   In Mah&amacr;y&amacr;na, &sacute;&umacr;nyat&amacr; refers the emptiness doctrine that all things are empty of intrinsic existence; refuting essentialism.
+-   In Mah&amacr;y&amacr;na, &sacute;&umacr;nyat&amacr; refers the emptiness
+    doctrine that all things are empty of intrinsic existence;
+    refuting essentialism.
 
 #### Four Noble Truths
 
@@ -421,6 +424,7 @@ Refuge in the "Three Jewels":
 5. Abstention from intoxication
 
 -   Bodhi, Bhikkhu. (1981). [*Going for Refuge & Taking the Precepts*](http://www.ibmc-la.org/uploads/1/5/1/0/15104808/goingforrefuge.pdf).
+-   Bodhi, Bhikkhu. (1998). [A Discipline of Sobriety](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_36.html).
 
 
 #### Buddhist philosophy
@@ -429,6 +433,8 @@ Refuge in the "Three Jewels":
 -   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
 -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
     -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
+-   [Buddhist ethics](https://en.wikipedia.org/wiki/Buddhist_ethics)
+-   [Women in Buddhism](https://en.wikipedia.org/wiki/Women_in_Buddhism)
 -   [Secular Buddhism](https://en.wikipedia.org/wiki/Secular_Buddhism)
 
 Other stuff:
@@ -437,6 +443,7 @@ Other stuff:
 -   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
 -   [Maitreya](https://en.wikipedia.org/wiki/Maitreya) AKA Ajita - regarded as a prophesied future Buddha 
 -   [Kusala Ratana Karuna: Dhamma talk on the differences between Theravada and Mahayana](https://www.youtube.com/watch?v=vvjjqQnRmKk)
+-   Payne, R.K. (2002). [Buddhism and Cognitive Science](http://www.shin-ibs.edu/documents/pwj3-4/01PN4.pdf).
 
 ![Map of the main modern Buddhist sects. Kalmykia in western Russia was cropped out, sorry ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
 
@@ -462,7 +469,10 @@ Other stuff:
 -   [Third Buddhist Council](https://en.wikipedia.org/wiki/Third_Buddhist_council) (c. 250 BCE)
 -   [Vibhajyav&amacr;da](https://en.wikipedia.org/wiki/Vibhajyavada)
 -   [Buddhaghosa](https://en.wikipedia.org/wiki/Buddhaghosa) (c. 5th century CE)
+-   [Thai Forest Tradition](https://en.wikipedia.org/wiki/Thai_Forest_Tradition)
 -   [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi) (b. 1944)
+-   [Th&amacr;nissaro Bhikkhu](https://en.wikipedia.org/wiki/%E1%B9%ACh%C4%81nissaro_Bhikkhu) (b. 1949)
+-   [Joseph Goldstein](https://en.wikipedia.org/wiki/Joseph_Goldstein_(writer)) (b. 1944)
 
 #### Doctrines
 
@@ -511,6 +521,7 @@ Other stuff:
 
 -   [Access to Insight: Readings in Therav&amacr;da Buddhism](https://www.accesstoinsight.org/)
 -   [SuttaCentral.net](https://suttacentral.net/)
+-   Thanissaro, Bhikkhu. (1997). [Affirming the Truths of the Heart: The Buddhist teachings on samvega & pasada](https://www.accesstoinsight.org/lib/authors/thanissaro/affirming.html).
 -   Bodhi, Bhikkhu. (1999). [*The Noble Eightfold Path: The Way to the End of Suffering*](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html).
 -   Bodhi, Bhikkhu. (2013). [I teach only suffering and the end of suffering: Nope, Buddha didn't quite say that](https://tricycle.org/magazine/i-teach-only-suffering-and-end-suffering/).
 
@@ -542,6 +553,7 @@ Other stuff:
     -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism) (introduced in China in 147 CE)
     -   [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
     -   [Chan Buddhism](https://en.wikipedia.org/wiki/Chan_Buddhism) (began 6th century CE)
+    -   [Bodhidharma](https://en.wikipedia.org/wiki/Bodhidharma) (c. 5th or 6th century CE)
     -   [Tiantai](https://en.wikipedia.org/wiki/Tiantai) (began 6th century CE) - "The Lotus School"
     -   [Xuanzang](https://en.wikipedia.org/wiki/Xuanzang) (fl. c. 602-664 CE)
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
@@ -553,6 +565,8 @@ Other stuff:
         -   Introduced in Japan in 12th century CE and later romanized as "Zen"
         -   [Zazen](https://en.wikipedia.org/wiki/Zazen) - "seated meditation"
         -   [K&omacr;an](https://en.wikipedia.org/wiki/Koan)
+-   [Korean Buddhism](https://en.wikipedia.org/wiki/Korean_Buddhism)
+        -   [Seon](https://en.wikipedia.org/wiki/Korean_Seon) - "Ch&aacute;n" in Korea
 -   South-asian support for Mah&amacr;y&amacr;na Buddhism:
     -   [David J. Kalupahana](https://en.wikipedia.org/wiki/David_Kalupahana) (1936-2014)
 -   [Buddhism in the West](https://en.wikipedia.org/wiki/Buddhism_in_the_West)
@@ -563,6 +577,7 @@ Other stuff:
         -   [Paul Carus](https://en.wikipedia.org/wiki/Paul_Carus) (1852-1919)
         -   [Soyen Shaku](https://en.wikipedia.org/wiki/Soyen_Shaku) (1860-1919)
         -   [Shunry&umacr; Suzuki](https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki) (1904-1971)
+        -   [Institute of Buddhist Studies](https://www.shin-ibs.edu/about/history/), Berkeley, CA
     -   [Plum Village Tradition](https://en.wikipedia.org/wiki/Plum_Village_Tradition)
         -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
         -   [Dharma teachers at the Plum Village](https://plumvillage.org/about/dharma-teachers/)
@@ -648,6 +663,8 @@ Other stuff:
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
     -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) - "Great Perfection"
         -   a practice with great emphasis on introspection and meditation
+    -   [Bardo Thodol](https://en.wikipedia.org/wiki/Bardo_Thodol)
+    -   Dalai Lama. (1988). [The Real Enemy](https://buddhismnow.com/2019/11/10/the-real-enemy-by-dalai-lama/).
 
 
 ### Criticism
@@ -862,8 +879,10 @@ Comparitive studies
 -   [Buddhism and Pyrrhonism](https://en.wikipedia.org/wiki/Similarities_between_Pyrrhonism_and_Buddhism)
 -   Buddhism and Plato, *Phaedo*
 -   Buddhism and Stoicism
--   Buddhism and Hume: anitya and humeanism
 -   Buddhism and Schopenhauer
+-   Buddhism and empiricism
+    -   Hume: anitya and humeanism
+    -   Two truths doctrine and Sellars: manifest vs scientific image
 -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
 -   McEvilley
     -   *The Shape of Ancient Thought* [^McEvilley2002]

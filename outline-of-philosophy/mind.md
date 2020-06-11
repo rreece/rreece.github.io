@@ -225,6 +225,7 @@ Click to show links
 -   [Physicalism](https://en.wikipedia.org/wiki/Physicalism)
 -   [Reductionism](https://en.wikipedia.org/wiki/Reductionism)
 -   [Unsolved problems in neuroscience, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience)
+-   [Vertiginous question](https://en.wikipedia.org/wiki/Vertiginous_question)
 -   [Zombie, Philosophical](https://en.wikipedia.org/wiki/Philosophical_zombie)
 
 ### Others
