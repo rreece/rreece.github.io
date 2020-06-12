@@ -23,6 +23,7 @@ Consciousness
 -   subconscious
 -   Freud
 -   Jung
+-   Mach [^Mach1914]
 -   Putnam
 -   Nagel [^Nagel1974]
 -   Churchland's
@@ -31,6 +32,7 @@ Consciousness
 
 [^Chalmers1996]: @Chalmers_1996_The_Conscious_Mind_In_Search_of_a_Fundamental\.
 [^Dennett1991]: @Dennett_1991_Consciousness_Explained\.
+[^Mach1914]: @Mach_1914_The_Analysis_of_Sensations_and_the_Relation\.
 [^Nagel1974]: @Nagel_1974_What_is_it_like_to_be_a_bat\.
 
 

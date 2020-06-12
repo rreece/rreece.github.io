@@ -578,8 +578,9 @@ Other stuff:
         -   [Soyen Shaku](https://en.wikipedia.org/wiki/Soyen_Shaku) (1860-1919)
         -   [Shunry&umacr; Suzuki](https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki) (1904-1971)
         -   [Institute of Buddhist Studies](https://www.shin-ibs.edu/about/history/), Berkeley, CA
-    -   [Plum Village Tradition](https://en.wikipedia.org/wiki/Plum_Village_Tradition)
+    -   [Plum Village Tradition](https://en.wikipedia.org/wiki/Plum_Village_Tradition) (founded in France in 1982)
         -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
+        -   [Ch&acirc;n Ph&acirc;p H&utilde;'u](https://plumvillage.org/monastics/dharma-teachers/br-phap-huu/) (b. 1987)
         -   [Dharma teachers at the Plum Village](https://plumvillage.org/about/dharma-teachers/)
     -   [Engaged Buddhism](https://en.wikipedia.org/wiki/Engaged_Buddhism)
 
