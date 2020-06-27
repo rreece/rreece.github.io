@@ -211,8 +211,8 @@ Sellars:
 Rejection of *a priori* metaphysics
 --------------------------------------------------------------------------------
 
--   Descartes (non-natural) method
--   Locke on the rejection of innate ideas.
+-   Descartes' non-natural method
+-   Locke on the rejection of innate ideas
 -   Hume's fork
 -   Metaphysical naturalism
 
