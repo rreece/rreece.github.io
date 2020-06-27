@@ -143,14 +143,14 @@ Who do I want to reach with this argument?
     and what sorts of claims it justifies.
 -   Can this be accessible and interesting to both academic and lay audiences?
 
->   What if the person who has opinion but not knowledge is angry with
+>   Socrates: What if the person who has opinion but not knowledge is angry with
 >   us and disputes the truth of what we are saying? Is there some way to
 >   console him and persuade him gently, while hiding from him that he isn't
 >   in his right mind?
 >   
->   There must be.
+>   Glaucon: There must be.
 >   
->   Consider, then, what we'll say to him. Won't we question him like this?
+>   Socrates: Consider, then, what we'll say to him. Won't we question him like this?
 >   First, we'll tell him that nobody begrudges him any knowledge he may have
 >   and that we'd be delighted to discover that he knows something. [^RepublicV476e]
 
