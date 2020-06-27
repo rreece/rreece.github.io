@@ -29,6 +29,7 @@ Cram\'{e}r, H. (1946). A contribution to the theory of statistical estimation. *
 Cranmer, K. (2015). Practical statistics for the LHC. https://arxiv.org/abs/1503.07622
 Cranmer, K., Brehmer, J., & Louppe, G. (2019). The frontier of simulation-based inference. https://arxiv.org/abs/1911.01429
 Cranmer, K., Shibata, A., Verkerke, W., Moneta, L., & Lewis, G. (2012). HistFactory: A tool for creating statistical models for use with RooFit and RooStats. http://inspirehep.net/record/1236448/ [Technical Report: CERN-OPEN-2012-016]
+Cranmer, M. et al. (2020). Discovering symbolic models from deep learning with inductive biases. https://arxiv.org/abs/2006.11287
 D'Agnolo, R.T. & Wulzer, A. (2019). Learning New Physics from a Machine. *Physical Review D*, 99, 015014. https://arxiv.org/abs/1806.02350
 Dewey, J. (1938). *Logic: The Theory of Inquiry*. New York: Henry Holt and Co.
 Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.

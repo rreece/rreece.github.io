@@ -834,7 +834,9 @@ Automation
 -   "Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry." [^Asch2018]
     -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
 -   "The End of Theory: The data deluge makes the scientific method obsolete." [^Anderson2008]
--   Symbolic pregression: Discovering physical laws from raw distorted video [^Udrescu2020]
+-   "Symbolic pregression: Discovering physical laws from raw distorted video." [^Udrescu2020]
+-   "Discovering symbolic models from deep learning with inductive biases." [^Cranmer2020]
+    -   Video: [Discussion by Yannic Kilcher](https://www.youtube.com/watch?v=LMb5tvW-UoQ)
 
 ![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis. [^Asch2018fig]](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
 
@@ -842,8 +844,10 @@ Automation
 [^Asch2018]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
 [^Asch2018fig]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
 [^Cranmer2019]: @Cranmer_2019_The_frontier_of_simulation_based_inference\.
+[^Cranmer2020]: @Cranmer_2020_Discovering_symbolic_models_from_deep_learning\.
 [^DAgnolo2019]: @DAgnolo_2019_Learning_New_Physics_from_a_Machine\.
 [^Udrescu2020]: @Udrescu_2020_Symbolic_pregression_Discovering_physical_laws\.
+
 
 Implications for the realism debate
 --------------------------------------------------------------------------------

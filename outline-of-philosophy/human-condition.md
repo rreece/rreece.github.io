@@ -430,13 +430,27 @@ Refuge in the "Three Jewels":
 
 #### Buddhist philosophy
 
+Epistemology and metaphysics:
+
 -   [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy)
+-   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
 -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
     -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
+
+Ethics:
+
 -   [Buddhist ethics](https://en.wikipedia.org/wiki/Buddhist_ethics)
 -   [Women in Buddhism](https://en.wikipedia.org/wiki/Women_in_Buddhism)
+
+Atheism:
+
+-   [Irreligion in India](https://en.wikipedia.org/wiki/Irreligion_in_India)
 -   [Secular Buddhism](https://en.wikipedia.org/wiki/Secular_Buddhism)
+-   Brahmaj&amacr;la Sutta - "The all-embracing net of views" ([DN 1](https://www.accesstoinsight.org/tipitaka/dn/dn.01.0.bodh.html))
+-   [Kevatta Sutta](https://en.wikipedia.org/wiki/Kevatta_Sutta) ([DN 11](https://suttacentral.net/dn11/en/sujato))
+-   Tevijja Sutta - "The Three Knowledges" ([DN 13](https://suttacentral.net/dn13/en/sujato))
+-   "Sectarian Tenets" ([AN 3.61](https://suttacentral.net/an3.61/en/sujato))
 
 Other stuff:
 
@@ -549,6 +563,8 @@ Other stuff:
 -   [N&amacr;g&amacr;rjuna](https://en.wikipedia.org/wiki/Nagarjuna) (c. 150-250 CE)
 -   [&Amacr;ryadeva](https://en.wikipedia.org/wiki/Aryadeva) (fl. 3rd century CE)
 -   [Kum&amacr;raj&imacr;va](https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva) (344-413 CE)
+-   [Asanga](https://en.wikipedia.org/wiki/Asanga) (fl. 4th century CE)
+-   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu) (fl. 4th to 5th century CE)
 -   [Buddhism in China](https://en.wikipedia.org/wiki/Buddhism_in_China)
     -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
     -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism) (introduced in China in 147 CE)
@@ -1154,7 +1170,7 @@ Existentialism
 
 Artworks:
 
--   Miller, A. (1949) Play: *Death of a Salesman*.
+-   Miller, A. (1949). *Death of a Salesman*. (a play)
 -   TODO: more
 
 [^Sartre1946]: @Sartre_2007_Existentialism_is_a_Humanism\.
@@ -1261,6 +1277,7 @@ Click to show links
 -   [Seneca (4 BCE - 65 CE)](http://plato.stanford.edu/entries/seneca/)
 -   [Stoicism](http://plato.stanford.edu/entries/stoicism/)
 -   [Suicide](http://plato.stanford.edu/entries/suicide/)
+-   [Vasubandhu](https://plato.stanford.edu/entries/vasubandhu/)
 
 ### IEP
 
@@ -1277,6 +1294,7 @@ Click to show links
 -   [Sartre, Jean-Paul (1905-1980): Existentialism](https://www.iep.utm.edu/sartre-ex/)
 -   [Stoicism](http://www.iep.utm.edu/stoicism/)
 -   [Stoic ethics](http://www.iep.utm.edu/stoiceth/)
+-   [Vasubandhu](https://www.iep.utm.edu/vasubandhu/)
 
 ### Wikipedia
 
@@ -1382,6 +1400,7 @@ Click to show links
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
 -   [Tillich, Paul (1886-1965)](https://en.wikipedia.org/wiki/Paul_Tillich)
 -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
+-   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu)
 -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
 -   [Xenophanes (c. 570-475 BCE)](https://en.wikipedia.org/wiki/Xenophanes)
 -   [Zen](https://en.wikipedia.org/wiki/Zen)

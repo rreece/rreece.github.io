@@ -213,12 +213,19 @@ Rejection of *a priori* metaphysics
 
 -   Descartes (non-natural) method
 -   Locke on the rejection of innate ideas.
--   Metaphysical naturalism.
+-   Hume's fork
+-   Metaphysical naturalism
 
 TODO: While promoting the careful gathering of empirical information,
 naturalism is not against (largely non-empirical) rational pursuits like mathematics.
 Indeed some naturalist may even see logic and mathematics as scientific pursuits
 of *a priori* truths.
+
+>   If we take in our hand any volume; of divinity or school metaphysics,
+>   for instance; let us ask, _Does it contain any abstract reasoning concerning
+>   quantity or number?_ No. _Does it contain any experimental reasoning
+>   concerning matter of fact and existence?_ No. Commit it then to the flames:
+>   for it can contain nothing but sophistry and illusion. [^Hume2007p165]
 
 TODO: Naturalism shares much in common with schools of thought surrounding positivism,
 through its respect for science and skepticism of *a priori* metaphysics,
@@ -282,6 +289,7 @@ Opening lines to *ETMG*:
 >   morally serious people, fails to qualify as part of the enlightened pursuit of 
 >   objective truth, and should be discontinued. [^Ladyman2007pi]
 
+[^Hume2007p165]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 165.
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
 [^Quine1969pX]: @Quine_1969_Natural_kinds\, p. TODO.
