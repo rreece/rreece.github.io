@@ -249,6 +249,7 @@ Hinduism
 -   [Carnatic music](https://en.wikipedia.org/wiki/Carnatic_music)
 -   [Paramahansa Yogananda](https://en.wikipedia.org/wiki/Paramahansa_Yogananda) (1893-1952)
 -   [Maharishi Mahesh Yogi](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi) (1918-2008)
+-   [Huston Smith (1919-2016)](https://en.wikipedia.org/wiki/Huston_Smith)
 -   [John Hagelin](https://en.wikipedia.org/wiki/John_Hagelin) (b. 1954)
 
 [^Katz2015]: @Katz_2015_The_Upanishads_A_New_Translation\.
@@ -890,8 +891,8 @@ Comparitive studies
     -   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
 -   "Silk road philosophy"
     -   Daniel Estrada
--   *The Perennial Philosophy*
-    -   Huxley [^Huxley1945]
+-   [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley) (1894-1963)
+    -   *The Perennial Philosophy* (1945) [^Huxley1945]
     -   TODO: criticism
 
 In defending esoteric knowledge [^EsotericKnowledge] Huxley's views are
@@ -1246,6 +1247,7 @@ Click to show links
 -   [Epictetus (55-135)](http://plato.stanford.edu/entries/epictetus/)
 -   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
 -   [Existentialist aesthetics](http://plato.stanford.edu/entries/aesthetics-existentialist/)
+-   [Forgiveness](https://plato.stanford.edu/entries/forgiveness/)
 -   [Friendship](https://plato.stanford.edu/entries/friendship/)
 -   [Heidegger, Martin (1889-1976)](https://plato.stanford.edu/entries/heidegger/)
 -   [Japanese Philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)
