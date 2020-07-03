@@ -859,12 +859,18 @@ Sagan:
 
 -   *Against Method* [^Feyerabend1974]
 -   McComas
-    -   Ten myths of science: Reexamining what we think about the nature of science [^McComas1996]
-    -   The principal elements of the nature of science: Dispelling myths [^McComas2002]
-    -   Seeking historical examples to illustrate key aspects of the nature of science [^McComas2008]
--   Allain: What's wrong with the scientific method? [^Allain2013]
+    -   "Ten myths of science: Reexamining what we think about the nature of science" [^McComas1996]
+    -   "The principal elements of the nature of science: Dispelling myths" [^McComas2002]
+    -   "Seeking historical examples to illustrate key aspects of the nature of science" [^McComas2008]
+-   Allain
+    -   "What's wrong with the scientific method?" [^Allain2013]
+-   Blachowicz
+    -   "How science textbooks treat the scientific method" [^Blachowicz2009]
+    -   "There is no scientific method" [^Blachowicz2016]
 
 [^Allain2013]: @Allain_2013_Whats_wrong_with_the_scientific_method\.
+[^Blachowicz2009]: @Blachowicz_2009_How_science_textbooks_treat_scientific_method\.
+[^Blachowicz2016]: @Blachowicz_2016_There_is_no_scientific_method\.
 [^Feyerabend1974]: @Feyerabend_1974_Against_Method\.
 [^McComas1996]: @McComas_1996_Ten_myths_of_science_Reexamining_what_we_think_we\.
 [^McComas2002]: @McComas_2002_The_principal_elements_of_the_nature_of_science\.

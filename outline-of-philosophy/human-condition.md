@@ -573,6 +573,7 @@ Other stuff:
     -   [Bodhidharma](https://en.wikipedia.org/wiki/Bodhidharma) (c. 5th or 6th century CE)
     -   [Tiantai](https://en.wikipedia.org/wiki/Tiantai) (began 6th century CE) - "The Lotus School"
     -   [Xuanzang](https://en.wikipedia.org/wiki/Xuanzang) (fl. c. 602-664 CE)
+    -   [Budai](https://en.wikipedia.org/wiki/Budai) - Laughing Buddha (c. 10th century CE)
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
     -   [Tendai](https://en.wikipedia.org/wiki/Tendai) (began 806 CE) - "The Lotus School"
     -   [J&omacr;do Shinsh&umacr;](https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB) AKA Shin Buddhism AKA "True Pure Land Buddhism"
@@ -892,11 +893,14 @@ Comparitive studies
 
 -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
 -   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
+-   [Ancient Greek Skepticism](https://www.iep.utm.edu/skepanci/)
 -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
 -   Buddhism and Orphism
 -   [Buddhism and Pyrrhonism](https://en.wikipedia.org/wiki/Similarities_between_Pyrrhonism_and_Buddhism)
 -   Buddhism and Plato, *Phaedo*
 -   Buddhism and Stoicism
+    -   [Buddhism vs. Stoicism: Compare and Contrast](https://nonzero.org/post/buddhism-stoicism-pigliucci)
+    -   [Stoicism & Buddhism: Lessons, Similarities and Differences](https://dailystoic.com/stoicism-buddhism/)
 -   Buddhism and Schopenhauer
 -   Buddhism and empiricism
     -   Hume: anitya and humeanism

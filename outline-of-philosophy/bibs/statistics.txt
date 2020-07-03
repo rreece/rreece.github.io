@@ -118,3 +118,4 @@ Weintraub, R. (1995). What was Hume's contribution to the problem of induction? 
 Weisberg, J. (2019). *Odds & Ends: Introducing Probability & Decision with a Visual Emphasis*. https://jonathanweisberg.org/vip/
 Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62.
 Williamson, J. (2009). The philosophy of science and its relation to machine learning. In *Scientific Data Mining and Knowledge Discovery* (pp. 77-89). Springer, Berlin, Heidelberg.
+Zech, G. (1995). Comparing statistical data to Monte Carlo simulation--Parameter fitting and unfolding. [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)] https://lib-extopc.kek.jp/preprints/PDF/1995/9508/9508210.pdf

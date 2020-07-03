@@ -610,6 +610,8 @@ Mayo:
 -   David Cox
 -   Ian Hacking
     -   *Logic of Statistical Inference* [^Hacking1965]
+-   Zech
+    -   "Comparing statistical data to Monte Carlo simulation" [^Zech1995]
 -   Richard Royall
     -   *Statistical Evidence: A likelihood paradigm* [^Royall1997]
 -   Jim Berger
@@ -656,6 +658,7 @@ Mayo:
 [^Murphy2012ch6]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, ch. 6.6.
 [^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
+[^Zech1995]: @Zech_1995_Comparing_statistical_data_to_Monte_Carlo\.
 
 
 Replication crisis
