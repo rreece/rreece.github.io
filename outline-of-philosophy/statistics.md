@@ -746,17 +746,20 @@ Machine learning
 ### Deep learning
 
 -   backpropagation [^Rumelhart1986]
--   "Review: Deep learning" [^LeCun2015]
--   Lower to higher level representations [^Bengio2009]
 -   *Deep Learning* [^Goodfellow2016]
--   "The explanation game: A formal framework for interpretable machine learning" [^Watson2019]
+-   Conceptual reviews of deep learning
+    -   Lower to higher level representations [^Bengio2009]
+    -   "Review: Deep learning" [^LeCun2015]
+    -   "Deep learning: A guide for practitioners in the physical sciences" [^Spears2018]
 -   Deep double descent
     -   Bias and variance trade-off. See [Bias and variance](#bias-and-variance).
     -   MSE and model capacity
-    -   Note the new deep learning view [^Belkin2019]
-    -   Deep double descent [^Nakkiran2019]
-    -   [Deep Double Descent](https://openai.com/blog/deep-double-descent/).  *OpenAI Blog*.
-    -   Hubinger, E. (2019). [Understanding "Deep Double Descent".](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent) *LessWrong*.
+    -   "Reconciling modern machine-learning practice and the classical bias-variance trade-off" [^Belkin2019]
+    -   "Deep double descent: Where bigger models and more data hurt" [^Nakkiran2019]
+    -   ["Deep Double Descent"](https://openai.com/blog/deep-double-descent/).  *OpenAI Blog*.
+    -   Hubinger, E. (2019). [Understanding "Deep Double Descent"](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent). *LessWrong*.
+-   Others
+    -   "The explanation game: A formal framework for interpretable machine learning" [^Watson2019]
 
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
 
@@ -766,6 +769,7 @@ Machine learning
 [^LeCun2015]: @LeCun_2015_Deep_learning\.
 [^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
 [^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
+[^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
 
