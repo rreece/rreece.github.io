@@ -1,4 +1,4 @@
-Philosophy of statistics
+hilosophy of statistics
 ================================================================================
 
 Statistics are *way* important in addressing the problem of induction.
@@ -773,7 +773,7 @@ Machine learning
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
 
-### Computer Vision
+### Computer vision
 
 Computer Vision (CV)
 
@@ -786,6 +786,18 @@ Computer Vision (CV)
 [^Krizhevsky2012]: @Krizhevsky_2012_ImageNet_classification_with_deep_convolutional\.
 [^LeCun1989]: @LeCun_1989_Backpropagation_applied_to_handwritten_zip_code\.
 [^LeCun1998]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
+
+
+### Cross entropy loss
+
+-   [Joseph Berkson](https://en.wikipedia.org/wiki/Joseph_Berkson) (1899-1982)
+-   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
+-   [Multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
+-   [Peter Roelants](https://peterroelants.github.io/)
+    -   [Logistic classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-logistic/)
+    -   [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/)
+
+TODO
 
 
 ### Natural language processing

@@ -583,6 +583,7 @@ Other stuff:
         -   Introduced in Japan in 12th century CE and later romanized as "Zen"
         -   [Zazen](https://en.wikipedia.org/wiki/Zazen) - "seated meditation"
         -   [K&omacr;an](https://en.wikipedia.org/wiki/Koan)
+        -   [D&omacr;gen](https://en.wikipedia.org/wiki/D%C5%8Dgen) (1200-1253)
 -   [Korean Buddhism](https://en.wikipedia.org/wiki/Korean_Buddhism)
         -   [Seon](https://en.wikipedia.org/wiki/Korean_Seon) - "Ch&aacute;n" in Korea
 -   South-asian support for Mah&amacr;y&amacr;na Buddhism:
