@@ -763,6 +763,13 @@ TODO: HERE
     -   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
 
 
+### Clustering
+
+-   k-means
+-   Gaussian discriminant analysis
+-   EM algorithm
+
+
 ### Deep learning
 
 -   backpropagation [^Rumelhart1986]
