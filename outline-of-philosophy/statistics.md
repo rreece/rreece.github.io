@@ -727,16 +727,6 @@ Machine learning
 
 ### Logistic regression
 
--   [Joseph Berkson](https://en.wikipedia.org/wiki/Joseph_Berkson) (1899-1982)
--   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
-    -   Harlan, W.S. (2007). [Bounded geometric growth: motivation for the logistic function](http://www.billharlan.com/pub/papers/logistic/logistic.html).
-    -   Heesch, D. [A short intro to logistic regression](http://www.daniel-heesch.com/static/softmax_regression.pdf).
-    -   [Multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
--   [Peter Roelants](https://peterroelants.github.io/)
-    -   [Logistic classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-logistic/)
-    -   [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/)
--   Cross entropy loss
-
 Logistic regression uses the logit function, which is the logarithm of the
 odds---the ratio of the chance of success to failure. (TODO: is it really "odds"?)
 Let $\mu$ be the probability of success in a Bernoulli trial, then
@@ -759,6 +749,18 @@ $$ \vec{x} = (1, x_1, x_2, \ldots, x_n)\trans $$
 $$ \vec{w} = (\beta_0, \beta_1, \beta_2, \ldots, \beta_n)\trans $$
 
 $$ \log\left(\frac{\mu}{1-\mu}\right) = \vec{w}\trans \vec{x} $$
+
+TODO: HERE
+
+-   [Joseph Berkson](https://en.wikipedia.org/wiki/Joseph_Berkson) (1899-1982)
+-   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
+    -   Cross entropy loss
+    -   Harlan, W.S. (2007). [Bounded geometric growth: motivation for the logistic function](http://www.billharlan.com/pub/papers/logistic/logistic.html).
+    -   Heesch, D. [A short intro to logistic regression](http://www.daniel-heesch.com/static/softmax_regression.pdf).
+    -   Roelants, P. (2019). [Logistic classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-logistic/).
+-   [Multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
+    -   Softmax
+    -   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
 
 
 ### Deep learning

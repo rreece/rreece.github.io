@@ -693,21 +693,6 @@
 <li>VC-dimension<a href="#fn70" class="footnoteRef" id="fnref70"><sup>70</sup></a></li>
 </ul>
 <h3 id="logistic-regression">Logistic regression</h3>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Joseph_Berkson">Joseph Berkson</a> (1899-1982)</li>
-<li><a href="https://en.wikipedia.org/wiki/Logistic_regression">Logistic regression</a>
-<ul>
-<li>Harlan, W.S. (2007). <a href="http://www.billharlan.com/pub/papers/logistic/logistic.html">Bounded geometric growth: motivation for the logistic function</a>.</li>
-<li>Heesch, D. <a href="http://www.daniel-heesch.com/static/softmax_regression.pdf">A short intro to logistic regression</a>.</li>
-<li><a href="https://en.wikipedia.org/wiki/Multinomial_logistic_regression">Multinomial logistic regression</a></li>
-</ul></li>
-<li><a href="https://peterroelants.github.io/">Peter Roelants</a>
-<ul>
-<li><a href="https://peterroelants.github.io/posts/cross-entropy-logistic/">Logistic classification with cross-entropy</a></li>
-<li><a href="https://peterroelants.github.io/posts/cross-entropy-softmax/">Softmax classification with cross-entropy</a></li>
-</ul></li>
-<li>Cross entropy loss</li>
-</ul>
 <p>Logistic regression uses the logit function, which is the logarithm of the odds&#8212;the ratio of the chance of success to failure. (TODO: is it really &#8220;odds&#8221;?) Let <span class="math inline">\(\mu\)</span> be the probability of success in a Bernoulli trial, then the logit function is defined as</p>
 <p><span class="math display">\[ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \,. \label{eq:logit} \]</span></p>
 <p>Logistic regression assumes that the logit function, eq.&#160;<span class="math inline">\(\eqref{eq:logit}\)</span>, is a linear function of the explanatory variable, <span class="math inline">\(x\)</span>,</p>
@@ -716,6 +701,22 @@
 <p><span class="math display">\[ \vec{x} = (1, x_1, x_2, \ldots, x_n){^{\mkern-1.5mu\mathsf{T}}}\]</span></p>
 <p><span class="math display">\[ \vec{w} = (\beta_0, \beta_1, \beta_2, \ldots, \beta_n){^{\mkern-1.5mu\mathsf{T}}}\]</span></p>
 <p><span class="math display">\[ \log\left(\frac{\mu}{1-\mu}\right) = \vec{w}{^{\mkern-1.5mu\mathsf{T}}}\vec{x} \]</span></p>
+<p>TODO: HERE</p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Joseph_Berkson">Joseph Berkson</a> (1899-1982)</li>
+<li><a href="https://en.wikipedia.org/wiki/Logistic_regression">Logistic regression</a>
+<ul>
+<li>Cross entropy loss</li>
+<li>Harlan, W.S. (2007). <a href="http://www.billharlan.com/pub/papers/logistic/logistic.html">Bounded geometric growth: motivation for the logistic function</a>.</li>
+<li>Heesch, D. <a href="http://www.daniel-heesch.com/static/softmax_regression.pdf">A short intro to logistic regression</a>.</li>
+<li>Roelants, P. (2019). <a href="https://peterroelants.github.io/posts/cross-entropy-logistic/">Logistic classification with cross-entropy</a>.</li>
+</ul></li>
+<li><a href="https://en.wikipedia.org/wiki/Multinomial_logistic_regression">Multinomial logistic regression</a>
+<ul>
+<li>Softmax</li>
+<li>Roelants, P. (2019). <a href="https://peterroelants.github.io/posts/cross-entropy-softmax/">Softmax classification with cross-entropy</a>.</li>
+</ul></li>
+</ul>
 <h3 id="deep-learning">Deep learning</h3>
 <ul>
 <li>backpropagation<a href="#fn71" class="footnoteRef" id="fnref71"><sup>71</sup></a></li>
