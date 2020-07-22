@@ -1,4 +1,4 @@
-hilosophy of statistics
+Philosophy of statistics
 ================================================================================
 
 Statistics are *way* important in addressing the problem of induction.
@@ -107,6 +107,7 @@ $$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{
 ### Uncertainty
 
 -   Propagation of error
+    -   See Cowan
 -   Quantiles
 -   Practice of standard error for uncertainty quantification.
 
@@ -246,10 +247,14 @@ Statistical models
 
 ### Canonical distributions
 
--   Bernoulli distribution
+#### Bernoulli distribution
+
+$$ \mathrm{Ber}(k; p) = \begin{cases} p & \mathrm{if}\ k = 1 \\ 1-p & \mathrm{if}\ k = 0 \end{cases} \label{eq:bernoulli} $$
+
 -   Binomial distribution
 -   Poisson distribution
--   Normal/Gaussian distribution
+
+#### Normal/Gaussian distribution
 
 $$ N(x \,|\, \mu, \sigma^2) = \frac{1}{\sqrt{2\,\pi\:\sigma^2}} \: \exp\left[\frac{-(x-\mu)^2}{2\,\sigma^2}\right] \label{eq:gaussian} $$
 
@@ -383,8 +388,6 @@ TODO:
 -   Uncertainty of measuring an efficiency
     -   Precision vs recall for classification
     -   Classification and logistic regression
--   TODO:
-    -   Explain if/why the Neyman construction would be needed for point estimation.
 
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
@@ -703,29 +706,6 @@ Replication crisis
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
 
 
-Information geometry
---------------------------------------------------------------------------------
-
--   "A gentle introduction to information geometry" [^Smith2019]
--   "An elementary introduction to information geometry" [^Nielsen2018]
--   *Information Geometry and Its Applications* [^Amari2016]
--   "A geometric formulation of Occam's razor for inference of parametric distributions" [^Balasubramanian1996a]
--   "Statistical inference, Occam's Razor and statistical mechanics on the space of probability distributions" [^Balasubramanian1996b]
--   *Geometric Modeling in Probability and Statistics* [^Calin2014]
--   Cranmer
--   "Geometric understanding of deep learning" [^Lei2018]
--   Cohen [^Cohen2016]
-
-[^Amari2016]: @Amari_2016_Information_Geometry_and_Its_Applications\.
-[^Balasubramanian1996a]: @Balasubramanian_1996_A_geometric_formulation_of_Occams_razor\.
-[^Balasubramanian1996b]: @Balasubramanian_1996_Statistical_inference_Occams_razor\.
-[^Calin2014]: @Calin_2014_Geometric_Modeling_in_Probability_and_Statistics\.
-[^Cohen2016]: @Cohen_2016_Group_equivariant_convolutional_networks\.
-[^Lei2018]: @Lei_2018_Geometric_understanding_of_deep_learning
-[^Nielsen2018]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.
-[^Smith2019]: @Smith_2019_A_gentle_introduction_to_information_geometry\.
-
-
 Machine learning
 --------------------------------------------------------------------------------
 
@@ -741,6 +721,29 @@ Machine learning
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
 [^MacKay2003]: @MacKay_2003_Information_Theory_Inference_and_Learning\.
 [^Vapnik1994]: @Vapnik_1994_Measuring_the_VC_dimension_of_a_learning_machine\.
+
+
+### Logistic regression
+
+-   [Joseph Berkson](https://en.wikipedia.org/wiki/Joseph_Berkson) (1899-1982)
+-   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
+    -   Harlan, W.S. (2007). [Bounded geometric growth: motivation for the logistic function](http://www.billharlan.com/pub/papers/logistic/logistic.html).
+    -   Heesch, D. [A short intro to logistic regression](http://www.daniel-heesch.com/static/softmax_regression.pdf).
+    -   [Multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
+-   [Peter Roelants](https://peterroelants.github.io/)
+    -   [Logistic classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-logistic/)
+    -   [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/)
+-   Cross entropy loss
+
+Logistic regression uses the logit function, which is the logarithm of the
+odds---the ratio of the chance of success to failure.
+
+$$ \mathrm{logit}(p) \equiv \log\left(\frac{p}{1-p}\right) \label{eq:logit} $$
+
+Logistic regression assumes that the logit function, eq.\ $\eqref{eq:logit}$,
+is a linear function of the explanatory variable, $x$.
+
+$$ \mathrm{logit}(p) = \beta_0 + \beta_1 x $$
 
 
 ### Deep learning
@@ -788,18 +791,6 @@ Computer Vision (CV)
 [^LeCun1998]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
 
 
-### Cross entropy loss
-
--   [Joseph Berkson](https://en.wikipedia.org/wiki/Joseph_Berkson) (1899-1982)
--   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
--   [Multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
--   [Peter Roelants](https://peterroelants.github.io/)
-    -   [Logistic classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-logistic/)
-    -   [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/)
-
-TODO
-
-
 ### Natural language processing
 
 Natural language processing (NLP)
@@ -826,10 +817,37 @@ Theoretical machine learning
 --------------------------------------------------------------------------------
 
 -   No free lunch theorem
+    -   Inductive bias
+    -   Yudkowsky, E. (2007). "[Inductive bias](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias)". *LessWrong*.
+    -   Hamilton, L.D. (2014). "[The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms)".
 -   Relationship to statistical mechanics [^Bahri2020]
+    -   Logistic/softmax and Boltzman factors
 -   Relationship to gauge theory
 
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
+
+
+Information geometry
+--------------------------------------------------------------------------------
+
+-   "A gentle introduction to information geometry" [^Smith2019]
+-   "An elementary introduction to information geometry" [^Nielsen2018]
+-   *Information Geometry and Its Applications* [^Amari2016]
+-   "A geometric formulation of Occam's razor for inference of parametric distributions" [^Balasubramanian1996a]
+-   "Statistical inference, Occam's Razor and statistical mechanics on the space of probability distributions" [^Balasubramanian1996b]
+-   *Geometric Modeling in Probability and Statistics* [^Calin2014]
+-   Cranmer
+-   "Geometric understanding of deep learning" [^Lei2018]
+-   Cohen [^Cohen2016]
+
+[^Amari2016]: @Amari_2016_Information_Geometry_and_Its_Applications\.
+[^Balasubramanian1996a]: @Balasubramanian_1996_A_geometric_formulation_of_Occams_razor\.
+[^Balasubramanian1996b]: @Balasubramanian_1996_Statistical_inference_Occams_razor\.
+[^Calin2014]: @Calin_2014_Geometric_Modeling_in_Probability_and_Statistics\.
+[^Cohen2016]: @Cohen_2016_Group_equivariant_convolutional_networks\.
+[^Lei2018]: @Lei_2018_Geometric_understanding_of_deep_learning
+[^Nielsen2018]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.
+[^Smith2019]: @Smith_2019_A_gentle_introduction_to_information_geometry\.
 
 
 Automation
@@ -1138,5 +1156,3 @@ Click to show links
 </div>
 
 <!-- REFERENCES -->
-
-
