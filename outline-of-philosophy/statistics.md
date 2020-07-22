@@ -1,3 +1,5 @@
+\newcommand*{\trans}{^{\mkern-1.5mu\mathsf{T}}}
+
 Philosophy of statistics
 ================================================================================
 
@@ -736,14 +738,27 @@ Machine learning
 -   Cross entropy loss
 
 Logistic regression uses the logit function, which is the logarithm of the
-odds---the ratio of the chance of success to failure.
+odds---the ratio of the chance of success to failure. (TODO: is it really "odds"?)
+Let $\mu$ be the probability of success in a Bernoulli trial, then
+the logit function is defined as
 
-$$ \mathrm{logit}(p) \equiv \log\left(\frac{p}{1-p}\right) \label{eq:logit} $$
+$$ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \,. \label{eq:logit} $$
 
 Logistic regression assumes that the logit function, eq.\ $\eqref{eq:logit}$,
-is a linear function of the explanatory variable, $x$.
+is a linear function of the explanatory variable, $x$,
 
-$$ \mathrm{logit}(p) = \beta_0 + \beta_1 x $$
+$$ \log\left(\frac{\mu}{1-\mu}\right) = \beta_0 + \beta_1 x, $$
+
+where $\beta_0$ and $\beta_1$ are trainable weights.
+This can be generalized to a vector of multiple input variables, $\vec{x}$,
+where the zeroth component the input vector has a 1 prepended to
+conveniently include the bias, $\beta_0$, in a dot product.
+
+$$ \vec{x} = (1, x_1, x_2, \ldots, x_n)\trans $$
+
+$$ \vec{w} = (\beta_0, \beta_1, \beta_2, \ldots, \beta_n)\trans $$
+
+$$ \log\left(\frac{\mu}{1-\mu}\right) = \vec{w}\trans \vec{x} $$
 
 
 ### Deep learning
