@@ -732,12 +732,12 @@ odds---the ratio of the chance of success to failure. (TODO: is it really "odds"
 Let $\mu$ be the probability of success in a Bernoulli trial, then
 the logit function is defined as
 
-$$ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \,. \label{eq:logit} $$
+$$ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \label{eq:logit} $$
 
-Logistic regression assumes that the logit function, eq.\ $\eqref{eq:logit}$,
+Logistic regression assumes that the logit function
 is a linear function of the explanatory variable, $x$,
 
-$$ \log\left(\frac{\mu}{1-\mu}\right) = \beta_0 + \beta_1 x, $$
+$$ \log\left(\frac{\mu}{1-\mu}\right) = \beta_0 + \beta_1 x $$
 
 where $\beta_0$ and $\beta_1$ are trainable weights.
 This can be generalized to a vector of multiple input variables, $\vec{x}$,
@@ -755,24 +755,49 @@ Exponentiating and solving for $\mu$ gives
 
 $$ \frac{\mu}{1-\mu} = e^z $$
 
-$$ \mu \: ( 1 + e^z ) = e^z $$
-
 $$ \mu = \frac{ e^z }{ 1 + e^z } = \frac{ 1 }{ 1 + e^{-z} } $$
 
-This function on the right is called the logistic or sigmoid function.
+This function is called the **logistic or sigmoid function**.
 
 $$ \mathrm{logistic}(z) \equiv \mathrm{sigm}(z) \equiv \frac{ 1 }{ 1 + e^{-z} }  \label{eq:logistic} $$
+
+Therefore,
+
+$$ \mu = \mathrm{sigm}(z) = \mathrm{sigm}(\vec{w}\trans \vec{x}) $$
 
 From a probabilistic point of view, [^Murphy2012p21]
 logistic regression can be derived from doing maximum likelihood
 estimation of a vector of model parameters, $\vec{w}$, in a dot product
 with the input features, $\vec{x}$, and squashed with a logistic
-function that yields the probability of a Bernoulli trial.
+function that yields the probability of a Bernoulli random variable, $y \in \{0, 1\}$.
 
-$$ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y \, | \, \mathrm{sigm}(\vec{w}\trans \vec{x}) ) $$
+\begin{align}
+p(y | \vec{x}, \vec{w})
+    &= \mathrm{Ber}(y | \mu) \nonumber \\
+    &= \mu^y \: (1-\mu)^{(1-y)} \nonumber \\
+\end{align}
 
-TODO HERE: cross entropy loss
+The negative-log likelihood of multiple trials is
 
+\begin{align}
+\mathrm{NLL}
+    &= \sum_i \mathrm{NLL}_i \nonumber \\
+    &= - \sum_i \log p(y_i | \vec{x}_i, \vec{w}) \nonumber \\
+    &= - \sum_i \log\left( \mu(x_i)^{y_i} \: (1-\mu(x_i))^{(1-y_i)} \right) \nonumber \\
+    &= - \sum_i \big( y_i \, \log(\mu(x_i)) + (1-y_i) \log(1-\mu(x_i)) \big) \label{eq:cross_entropy_loss} \\
+\end{align}
+
+which is the **cross entropy loss**.
+
+TODO: Nope, this is still buggy.
+
+If we reparametrize $y$ in favor of a one-hotted version, $t$,
+
+$$ \vec{t} = \begin{cases} (1, 0)\trans & \mathrm{if}\ y = 0 \\ (0, 1)\trans & \mathrm{if}\ y = 1 \end{cases} \label{eq:one_hot_target} $$
+
+then we can write the cross entropy loss in a more compact way
+
+$$ \mathrm{CEL} = - \sum_i  t_i \, \log(\mu(x_i)) \label{eq:one_hot_cross_entropy_loss} $$
 
 -   [Joseph Berkson](https://en.wikipedia.org/wiki/Joseph_Berkson) (1899-1982)
 -   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
@@ -783,6 +808,7 @@ TODO HERE: cross entropy loss
 -   [Multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
     -   Softmax
     -   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
+-   Gradients from backprop through a softmax
 
 [^Murphy2012p21]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 21.
 

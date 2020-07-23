@@ -695,22 +695,40 @@
 </ul>
 <h3 id="logistic-regression">Logistic regression</h3>
 <p>Logistic regression uses the logit function, which is the logarithm of the odds&#8212;the ratio of the chance of success to failure. (TODO: is it really &#8220;odds&#8221;?) Let <span class="math inline">\(\mu\)</span> be the probability of success in a Bernoulli trial, then the logit function is defined as</p>
-<p><span class="math display">\[ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \,. \label{eq:logit} \]</span></p>
-<p>Logistic regression assumes that the logit function, eq.&#160;<span class="math inline">\(\eqref{eq:logit}\)</span>, is a linear function of the explanatory variable, <span class="math inline">\(x\)</span>,</p>
-<p><span class="math display">\[ \log\left(\frac{\mu}{1-\mu}\right) = \beta_0 + \beta_1 x, \]</span></p>
+<p><span class="math display">\[ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \label{eq:logit} \]</span></p>
+<p>Logistic regression assumes that the logit function is a linear function of the explanatory variable, <span class="math inline">\(x\)</span>,</p>
+<p><span class="math display">\[ \log\left(\frac{\mu}{1-\mu}\right) = \beta_0 + \beta_1 x \]</span></p>
 <p>where <span class="math inline">\(\beta_0\)</span> and <span class="math inline">\(\beta_1\)</span> are trainable weights. This can be generalized to a vector of multiple input variables, <span class="math inline">\(\vec{x}\)</span>, where the zeroth component the input vector has a 1 prepended to conveniently include the bias, <span class="math inline">\(\beta_0\)</span>, in a dot product.</p>
 <p><span class="math display">\[ \vec{x} = (1, x_1, x_2, \ldots, x_n){^{\mkern-1.5mu\mathsf{T}}}\]</span></p>
 <p><span class="math display">\[ \vec{w} = (\beta_0, \beta_1, \beta_2, \ldots, \beta_n){^{\mkern-1.5mu\mathsf{T}}}\]</span></p>
 <p><span class="math display">\[ \log\left(\frac{\mu}{1-\mu}\right) = \vec{w}{^{\mkern-1.5mu\mathsf{T}}}\vec{x} \]</span></p>
 <p>For the moment, let <span class="math inline">\(z \equiv \vec{w}{^{\mkern-1.5mu\mathsf{T}}}\vec{x}\)</span>. Exponentiating and solving for <span class="math inline">\(\mu\)</span> gives</p>
 <p><span class="math display">\[ \frac{\mu}{1-\mu} = e^z \]</span></p>
-<p><span class="math display">\[ \mu \: ( 1 + e^z ) = e^z \]</span></p>
 <p><span class="math display">\[ \mu = \frac{ e^z }{ 1 + e^z } = \frac{ 1 }{ 1 + e^{-z} } \]</span></p>
-<p>This function on the right is called the logistic or sigmoid function.</p>
+<p>This function is called the <strong>logistic or sigmoid function</strong>.</p>
 <p><span class="math display">\[ \mathrm{logistic}(z) \equiv \mathrm{sigm}(z) \equiv \frac{ 1 }{ 1 + e^{-z} }  \label{eq:logistic} \]</span></p>
-<p>From a probabilistic point of view,<a href="#fn71" class="footnoteRef" id="fnref71"><sup>71</sup></a> logistic regression can be derived from doing maximum likelihood estimation of a vector of model parameters, <span class="math inline">\(\vec{w}\)</span>, in a dot product with the input features, <span class="math inline">\(\vec{x}\)</span>, and squashed with a logistic function that yields the probability of a Bernoulli trial.</p>
-<p><span class="math display">\[ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y \, | \, \mathrm{sigm}(\vec{w}{^{\mkern-1.5mu\mathsf{T}}}\vec{x}) ) \]</span></p>
-<p>TODO HERE: cross entropy loss</p>
+<p>Therefore,</p>
+<p><span class="math display">\[ \mu = \mathrm{sigm}(z) = \mathrm{sigm}(\vec{w}{^{\mkern-1.5mu\mathsf{T}}}\vec{x}) \]</span></p>
+<p>From a probabilistic point of view,<a href="#fn71" class="footnoteRef" id="fnref71"><sup>71</sup></a> logistic regression can be derived from doing maximum likelihood estimation of a vector of model parameters, <span class="math inline">\(\vec{w}\)</span>, in a dot product with the input features, <span class="math inline">\(\vec{x}\)</span>, and squashed with a logistic function that yields the probability of a Bernoulli random variable, <span class="math inline">\(y \in \{0, 1\}\)</span>.</p>
+<span class="math display">\[\begin{align}
+p(y | \vec{x}, \vec{w})
+    &amp;= \mathrm{Ber}(y | \mu) \nonumber \\
+    &amp;= \mu^y \: (1-\mu)^{(1-y)} \nonumber \\
+\end{align}\]</span>
+<p>The negative-log likelihood of multiple trials is</p>
+<span class="math display">\[\begin{align}
+\mathrm{NLL}
+    &amp;= \sum_i \mathrm{NLL}_i \nonumber \\
+    &amp;= - \sum_i \log p(y_i | \vec{x}_i, \vec{w}) \nonumber \\
+    &amp;= - \sum_i \log\left( \mu(x_i)^{y_i} \: (1-\mu(x_i))^{(1-y_i)} \right) \nonumber \\
+    &amp;= - \sum_i \big( y_i \, \log(\mu(x_i)) + (1-y_i) \log(1-\mu(x_i)) \big) \label{eq:cross_entropy_loss} \\
+\end{align}\]</span>
+<p>which is the <strong>cross entropy loss</strong>.</p>
+<p>TODO: Nope, this is still buggy.</p>
+<p>If we reparametrize <span class="math inline">\(y\)</span> in favor of a one-hotted version, <span class="math inline">\(t\)</span>,</p>
+<p><span class="math display">\[ \vec{t} = \begin{cases} (1, 0){^{\mkern-1.5mu\mathsf{T}}}&amp; \mathrm{if}\ y = 0 \\ (0, 1){^{\mkern-1.5mu\mathsf{T}}}&amp; \mathrm{if}\ y = 1 \end{cases} \label{eq:one_hot_target} \]</span></p>
+<p>then we can write the cross entropy loss in a more compact way</p>
+<p><span class="math display">\[ \mathrm{CEL} = - \sum_i  t_i \, \log(\mu(x_i)) \label{eq:one_hot_cross_entropy_loss} \]</span></p>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Joseph_Berkson">Joseph Berkson</a> (1899-1982)</li>
 <li><a href="https://en.wikipedia.org/wiki/Logistic_regression">Logistic regression</a>
@@ -725,6 +743,7 @@
 <li>Softmax</li>
 <li>Roelants, P. (2019). <a href="https://peterroelants.github.io/posts/cross-entropy-softmax/">Softmax classification with cross-entropy</a>.</li>
 </ul></li>
+<li>Gradients from backprop through a softmax</li>
 </ul>
 <h3 id="clustering">Clustering</h3>
 <ul>
