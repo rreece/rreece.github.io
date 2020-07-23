@@ -110,7 +110,11 @@ $$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{
 
 $$ H(p, q) = \mathrm{E}_{x\sim{}p} \log q(x) \label{eq:cross_entropy} $$
 
+TODO: also discuss the Kullback-Leibler (KL) divergence. [^Goodfellow2016p72]
+
 See also the section on [logistic regression](#logistic-regression).
+
+[^Goodfellow2016p72]: @Goodfellow_2016_Deep_Learning\, p. 72-73.
 
 
 ### Uncertainty
