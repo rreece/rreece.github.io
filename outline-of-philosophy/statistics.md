@@ -791,7 +791,7 @@ which is the **cross entropy loss**.
 
 TODO: Nope, this is still buggy.
 
-If we reparametrize $y$ in favor of a one-hotted version, $t$,
+If we reparametrize the target, $y$, in favor of a one-hotted version, $t$,
 
 $$ \vec{t} = \begin{cases} (1, 0)\trans & \mathrm{if}\ y = 0 \\ (0, 1)\trans & \mathrm{if}\ y = 1 \end{cases} \label{eq:one_hot_target} $$
 

@@ -725,7 +725,7 @@ p(y | \vec{x}, \vec{w})
 \end{align}\]</span>
 <p>which is the <strong>cross entropy loss</strong>.</p>
 <p>TODO: Nope, this is still buggy.</p>
-<p>If we reparametrize <span class="math inline">\(y\)</span> in favor of a one-hotted version, <span class="math inline">\(t\)</span>,</p>
+<p>If we reparametrize the target, <span class="math inline">\(y\)</span>, in favor of a one-hotted version, <span class="math inline">\(t\)</span>,</p>
 <p><span class="math display">\[ \vec{t} = \begin{cases} (1, 0){^{\mkern-1.5mu\mathsf{T}}}&amp; \mathrm{if}\ y = 0 \\ (0, 1){^{\mkern-1.5mu\mathsf{T}}}&amp; \mathrm{if}\ y = 1 \end{cases} \label{eq:one_hot_target} \]</span></p>
 <p>then we can write the cross entropy loss in a more compact way</p>
 <p><span class="math display">\[ \mathrm{CEL} = - \sum_i  t_i \, \log(\mu(x_i)) \label{eq:one_hot_cross_entropy_loss} \]</span></p>
