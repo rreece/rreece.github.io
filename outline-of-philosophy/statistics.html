@@ -701,7 +701,7 @@
 <h3 id="logistic-regression">Logistic regression</h3>
 <p>Logistic regression uses the logit function, which is the logarithm of the odds&#8212;the ratio of the chance of success to failure. (TODO: is it really &#8220;odds&#8221;?) Let <span class="math inline">\(\mu\)</span> be the probability of success in a Bernoulli trial, then the logit function is defined as</p>
 <p><span class="math display">\[ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \label{eq:logit} \]</span></p>
-<p>Logistic regression assumes that the logit function is a linear function of the explanatory variable, <span class="math inline">\(x\)</span>,</p>
+<p>Logistic regression assumes that the logit function is a linear function of the explanatory variable, <span class="math inline">\(x\)</span>.</p>
 <p><span class="math display">\[ \log\left(\frac{\mu}{1-\mu}\right) = \beta_0 + \beta_1 x \]</span></p>
 <p>where <span class="math inline">\(\beta_0\)</span> and <span class="math inline">\(\beta_1\)</span> are trainable weights. (TODO: Why would we assume this?) This can be generalized to a vector of multiple input variables, <span class="math inline">\(\vec{x}\)</span>, where the input vector has a 1 prepended to be its zeroth component in order to conveniently include the bias, <span class="math inline">\(\beta_0\)</span>, in a dot product.</p>
 <p><span class="math display">\[ \vec{x} = (1, x_1, x_2, \ldots, x_n){^{\mkern-1.5mu\mathsf{T}}}\]</span></p>
