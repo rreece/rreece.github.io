@@ -750,7 +750,29 @@ $$ \vec{w} = (\beta_0, \beta_1, \beta_2, \ldots, \beta_n)\trans $$
 
 $$ \log\left(\frac{\mu}{1-\mu}\right) = \vec{w}\trans \vec{x} $$
 
-TODO: HERE
+For the moment, let $z \equiv \vec{w}\trans \vec{x}$.
+Exponentiating and solving for $\mu$ gives
+
+$$ \frac{\mu}{1-\mu} = e^z $$
+
+$$ \mu \: ( 1 + e^z ) = e^z $$
+
+$$ \mu = \frac{ e^z }{ 1 + e^z } = \frac{ 1 }{ 1 + e^{-z} } $$
+
+This function on the right is called the logistic or sigmoid function.
+
+$$ \mathrm{logistic}(z) \equiv \mathrm{sigm}(z) \equiv \frac{ 1 }{ 1 + e^{-z} }  \label{eq:logistic} $$
+
+From a probabilistic point of view, [^Murphy2012p21]
+logistic regression can be derived from doing maximum likelihood
+estimation of a vector of model parameters, $\vec{w}$, in a dot product
+with the input features, $\vec{x}$, and squashed with a logistic
+function that yields the probability of a Bernoulli trial.
+
+$$ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y \, | \, \mathrm{sigm}(\vec{w}\trans \vec{x}) ) $$
+
+TODO HERE: cross entropy loss
+
 
 -   [Joseph Berkson](https://en.wikipedia.org/wiki/Joseph_Berkson) (1899-1982)
 -   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
@@ -761,6 +783,8 @@ TODO: HERE
 -   [Multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
     -   Softmax
     -   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
+
+[^Murphy2012p21]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 21.
 
 
 ### Clustering
