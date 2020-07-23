@@ -108,9 +108,19 @@ $$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{
 
 ### Cross entropy
 
-$$ H(p, q) = \mathrm{E}_{x\sim{}p} \log q(x) \label{eq:cross_entropy} $$
+TODO: discuss the Shannon entropy and Kullback-Leibler (KL) divergence. [^Goodfellow2016p72]
 
-TODO: also discuss the Kullback-Leibler (KL) divergence. [^Goodfellow2016p72]
+Shannon entropy:
+
+$$ H(p) = - \mathrm{E}_{x\sim{}p} \log p(x) \label{eq:shannon_entropy} $$
+
+Kullback-Leibler (KL) divergence:
+
+$$ D_\mathrm{KL}(p, q) = \mathrm{E}_{x\sim{}p} \log \left(\frac{p(x)}{q(x)}\right) = \mathrm{E}_{x\sim{}p}\big( \log p(x) - \log q(x) \big) \label{eq:kl_divergence} $$
+
+Cross entropy:
+
+$$ H(p, q) = - \mathrm{E}_{x\sim{}p} \log q(x) \label{eq:cross_entropy} $$
 
 See also the section on [logistic regression](#logistic-regression).
 
@@ -590,7 +600,7 @@ O'Hagan:
 -   Criticisms:
     -   Evans [^Evans2013]
     -   Mayo [^Mayo2014]
-    -   Mayo: [The Law of Likelihood and Error Statistics](https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/)
+    -   Mayo: [The law of likelihood and error statistics](https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/) [^Mayo2019]
 -   Gandenberger
     -   "A new proof of the likelihood principle" [^Gandenberger2015]
     -   Thesis: [*Two Principles of Evidence and Their Implications for the Philosophy of Scientific Method*](http://d-scholarship.pitt.edu/24634/) (2015)
@@ -615,7 +625,7 @@ Mayo:
 [^Hacking1965]: @Hacking_1965_Logic_of_Statistical_Inference\.
 [^OHagan2010]: @OHagan_2010_Kendalls_Advanced_Theory_of_Statistics_Vol_2B\, p. 17--18\.
 [^Mayo2014]: @Mayo_2014_On_the_Birnbaum_Argument_for_the_Strong_Likelihood\.
-[^Mayo2019]: Mayo, D.G. (2019). [The Law of Likelihood and Error Statistics](https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/).
+[^Mayo2019]: @Mayo_2019_The_law_of_likelihood_and_error_statistics\.
 
 
 "Statistics Wars"
@@ -815,11 +825,13 @@ $$ \mathrm{CEL} = - \sum_i  t_i \, \log(\mu(x_i)) \label{eq:one_hot_cross_entrop
 -   [Multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
     -   Softmax
     -   Softmax is really a soft argmax. TODO: find ref.
+    -   Softmax is not unique. There are other squashing functions. [^Blondel2020]
     -   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
     -   Goodfellow et al. point out that _any_ negative log-likelihood is a cross entropy
         between the training data and the probability distribution predicted by the model. [^Goodfellow2016p129] 
 -   Gradients from backprop through a softmax
 
+[^Blondel2020]: @Blondel_2020_Learning_with_Fenchel_Young_losses\.
 [^Goodfellow2016p129]: @Goodfellow_2016_Deep_Learning\, p. 129.
 [^Murphy2012p21]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 21.
 

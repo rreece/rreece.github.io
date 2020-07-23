@@ -14,6 +14,7 @@ Bensusan, H. (2000). Is machine learning experimental philosophy of science? In 
 Berger, J.O. & Wolpert, R.L. (1988). *The Likelihood Principle* (2nd ed.). Haywood, CA: The Institute of Mathematical Statistics.
 Berger, J.O. (2003). Could Fisher, Jeffreys and Neyman have agreed on testing? *Statistical Science*, 18(1), 1--32.
 Birnbaum, A. (1962). On the foundations of statistical inference. *Journal of the American Statistical Association*, 57, 269--326.
+Blondel, M., Martins, A.F., & Niculae, V. (2020). Learning with Fenchel-Young losses. *Journal of Machine Learning Research*, 21(35), 1--69.
 Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistics*. Springer Switzerland.
 Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenological Research*, 5(4), 513--32. 
 Carnap, R. (1947). Probability as a guide in life. *Journal of Philosophy*, 44(6), 141--48.
@@ -44,7 +45,7 @@ Gandenberger, G. (2015). A new proof of the likelihood principle, *British Journ
 Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 16(7), 1--22.
 Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
-Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. http://www.deeplearningbook.org
 Goodman, N. (1955). *Fact, Fiction, and Forecast*. Harvard University Press.
 Goodman, S.N. (1999). Toward evidence-based medical statistics 1: The P value fallacy. *Annals of Internal Medicine*, 130(12), 995--1004.
 Goodman, S.N. (1999). Toward evidence-based medical statistics 2: The Bayes factor. *Annals of Internal Medicine*, 130(12), 1005--1013.
@@ -74,6 +75,7 @@ Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*. Chicago Uni
 Mayo, D.G. & Spanos, A. (2011). Error statistics. In *Philosophy of Statistics* (pp. 153--198). North-Holland.
 Mayo, D.G. (2014). On the Birnbaum Argument for the Strong Likelihood Principle, *Statistical Science*, 29, 227--266.
 Mayo, D.G. (2018). *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*. Cambridge University Press.
+Mayo, D.G. (2019). The law of likelihood and error statistics. https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
 Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. https://arxiv.org/abs/1912.02292
 Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
@@ -108,15 +110,15 @@ Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning wit
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
 Tukey, J.W. (1977). *Exploratory Data Analysis*. Pearson.
-Udrescu, S. & Tegmark, M. (2020). *Symbolic pregression: Discovering physical laws from raw distorted video. https://arxiv.org/abs/2005.11212
+Udrescu, S. & Tegmark, M. (2020). Symbolic pregression: Discovering physical laws from raw distorted video. https://arxiv.org/abs/2005.11212
 Vapnik, V., Levin, E., & LeCun, Y. (1994). Measuring the VC-dimension of a learning machine. *Neural Computation*, 6(5), 851--876.
 Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]
 Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482.
 Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.
 Wasserstein, R.L., & Lazar, N.A. (2016). The ASA's statement on p-values: Context, process, and purpose. *American Statistician*, 70, 129--133.
-Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. https://ssrn.com/abstract=3509737 [SSRN 3509737]
+Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. *SSRN*, 3509737. https://ssrn.com/abstract=3509737
 Weintraub, R. (1995). What was Hume's contribution to the problem of induction? *The Philosophical Quarterly*, 45, 460--470.
 Weisberg, J. (2019). *Odds & Ends: Introducing Probability & Decision with a Visual Emphasis*. https://jonathanweisberg.org/vip/
 Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62.
 Williamson, J. (2009). The philosophy of science and its relation to machine learning. In *Scientific Data Mining and Knowledge Discovery* (pp. 77-89). Springer, Berlin, Heidelberg.
-Zech, G. (1995). Comparing statistical data to Monte Carlo simulation--Parameter fitting and unfolding. [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)] https://lib-extopc.kek.jp/preprints/PDF/1995/9508/9508210.pdf
+Zech, G. (1995). Comparing statistical data to Monte Carlo simulation--Parameter fitting and unfolding. https://cds.cern.ch/record/284321 [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)]
