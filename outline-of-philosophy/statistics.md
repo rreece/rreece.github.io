@@ -746,7 +746,7 @@ the logit function is defined as
 $$ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \label{eq:logit} $$
 
 Logistic regression assumes that the logit function
-is a linear function of the explanatory variable, $x$.
+is a linear function of the explanatory variable, $x$,
 
 $$ \log\left(\frac{\mu}{1-\mu}\right) = \beta_0 + \beta_1 x $$
 
