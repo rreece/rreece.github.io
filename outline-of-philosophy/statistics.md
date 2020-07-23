@@ -106,6 +106,13 @@ The covariance of two random vectors is given by
 $$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\top}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\top} \label{eq:covariance_matrix_vectors} $$
 
 
+### Cross entropy
+
+$$ H(p, q) = \mathrm{E}_{x\sim{}p} \log q(x) \label{eq:cross_entropy} $$
+
+See also the section on [logistic regression](#logistic-regression).
+
+
 ### Uncertainty
 
 -   Propagation of error
@@ -361,7 +368,7 @@ and taking the log of the product makes it a sum:
 
 $$ \mathrm{log} \: L(\theta) = \sum_i \mathrm{log} \: L(\theta|x_i) = \sum_i \mathrm{log} \: P(x_i|\theta) $$
 
-Maximizing $\mathrm{log} \: L(\theta)$ is also equivalent to minimizing $-\mathrm{log} \: L(\theta)$, the negative-log-likelihoo (NLL). For distributions that are *i.i.d.*,
+Maximizing $\mathrm{log} \: L(\theta)$ is also equivalent to minimizing $-\mathrm{log} \: L(\theta)$, the negative log-likelihoo (NLL). For distributions that are *i.i.d.*,
 
 $$ L = \prod_i L_i $$
 
@@ -740,8 +747,9 @@ is a linear function of the explanatory variable, $x$,
 $$ \log\left(\frac{\mu}{1-\mu}\right) = \beta_0 + \beta_1 x $$
 
 where $\beta_0$ and $\beta_1$ are trainable weights.
+(TODO: Why would we assume this?)
 This can be generalized to a vector of multiple input variables, $\vec{x}$,
-where the zeroth component the input vector has a 1 prepended to
+where the input vector has a 1 prepended to be its zeroth component in order to
 conveniently include the bias, $\beta_0$, in a dot product.
 
 $$ \vec{x} = (1, x_1, x_2, \ldots, x_n)\trans $$
@@ -771,17 +779,12 @@ estimation of a vector of model parameters, $\vec{w}$, in a dot product
 with the input features, $\vec{x}$, and squashed with a logistic
 function that yields the probability of a Bernoulli random variable, $y \in \{0, 1\}$.
 
-\begin{align}
-p(y | \vec{x}, \vec{w})
-    &= \mathrm{Ber}(y | \mu) \nonumber \\
-    &= \mu^y \: (1-\mu)^{(1-y)} \nonumber \\
-\end{align}
+$$ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y | \mu) = \mu^y \: (1-\mu)^{(1-y)} $$
 
-The negative-log likelihood of multiple trials is
+The negative log-likelihood of multiple trials is
 
 \begin{align}
 \mathrm{NLL}
-    &= \sum_i \mathrm{NLL}_i \nonumber \\
     &= - \sum_i \log p(y_i | \vec{x}_i, \vec{w}) \nonumber \\
     &= - \sum_i \log\left( \mu(x_i)^{y_i} \: (1-\mu(x_i))^{(1-y_i)} \right) \nonumber \\
     &= - \sum_i \big( y_i \, \log(\mu(x_i)) + (1-y_i) \log(1-\mu(x_i)) \big) \label{eq:cross_entropy_loss} \\
@@ -807,9 +810,13 @@ $$ \mathrm{CEL} = - \sum_i  t_i \, \log(\mu(x_i)) \label{eq:one_hot_cross_entrop
     -   Roelants, P. (2019). [Logistic classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-logistic/).
 -   [Multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
     -   Softmax
+    -   Softmax is really a soft argmax. TODO: find ref.
     -   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
+    -   Goodfellow et al. point out that _any_ negative log-likelihood is a cross entropy
+        between the training data and the probability distribution predicted by the model. [^Goodfellow2016p129] 
 -   Gradients from backprop through a softmax
 
+[^Goodfellow2016p129]: @Goodfellow_2016_Deep_Learning\, p. 129.
 [^Murphy2012p21]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 21.
 
 
