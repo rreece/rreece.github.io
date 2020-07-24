@@ -11,23 +11,24 @@ Statistics are *way* important in addressing the problem of induction.
 Problem of induction
 --------------------------------------------------------------------------------
 
-A key issue for the scientific method, as discussed in the previous
-[Outline](scientific-method.html#induction),
-is the problem of
-[induction](scientific-method.html#induction).
-Inductive inferences are used in the scientific method which introduce unique
-avenues of error.
+A key issue for the scientific method, as discussed in the
+[previous outline](scientific-method.html#induction),
+is the [problem of induction](scientific-method.html#induction).
+Inductive inferences are used in the scientific method
+to make generalizations from finite data.
+This introduces unique avenues of error not found in purely deductive
+inferences, like in logic and mathematics.
 Compared to deductive inferences, which are sound and necessarily follow
 if an argument is valid and all of its premises obtain,
-inductive inferences can be valid and probably (not certainly) sound, and therefore
-can still result in error in some cases because the support of the argument is
-ultimately probabilistic.
+inductive inferences can be valid and probably (not certainly) sound,
+and therefore can still result in error in some cases because the support of
+the argument is ultimately probabilistic.
 
 A skeptic may further probe if we are even justified in using the probabilities
 we use in inductive arguments. What is the probability the Sun will rise tomorrow?
 What kind of probabilities are reasonable?
 
-In this Outline, we sketch and explore how the mathematical theory of statistics
+In this outline, we sketch and explore how the mathematical theory of statistics
 has arisen to wrestle with the problem of induction, and how it equips us with
 careful ways of framing inductive arguments and notions of confidence in them.
 
@@ -43,6 +44,7 @@ a measure of inductive confidence.
 TODO:
 
 -   Kolmogorov
+-   Probability vs odds: $p/(p+q)$ vs $p/q$
 -   Carnap: "Probability as a guide in life" [^Carnap1947]
 
 [^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
@@ -52,7 +54,7 @@ TODO:
 
 Expectation:
 
-$$ \mathrm{E}(y) \equiv \int dx \: P(x) \: y(x) \label{eq:expectation} $$
+$$ \mathrm{E}(y) \equiv \int dx \: p(x) \: y(x) \label{eq:expectation} $$
 
 Expectation values can be approximated with a partial sum over some data
 or monte carol sample:
@@ -103,7 +105,7 @@ which is bounded: $-1 \leq \mathrm{Cor}(x_i, x_j)  \leq 1$.
 
 The covariance of two random vectors is given by
 
-$$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\top}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\top} \label{eq:covariance_matrix_vectors} $$
+$$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}\trans) - \vec{\mu}_x \: \vec{\mu}_{y}\trans \label{eq:covariance_matrix_vectors} $$
 
 
 ### Cross entropy
@@ -112,15 +114,19 @@ TODO: discuss the Shannon entropy and Kullback-Leibler (KL) divergence. [^Goodfe
 
 Shannon entropy:
 
-$$ H(p) = - \mathrm{E}_{x\sim{}p} \log p(x) \label{eq:shannon_entropy} $$
-
-Kullback-Leibler (KL) divergence:
-
-$$ D_\mathrm{KL}(p, q) = \mathrm{E}_{x\sim{}p} \log \left(\frac{p(x)}{q(x)}\right) = \mathrm{E}_{x\sim{}p}\big( \log p(x) - \log q(x) \big) \label{eq:kl_divergence} $$
+$$ H(p) = - \underset{x\sim{}p}{\mathrm{E}}\big[ \log p(x) \big] \label{eq:shannon_entropy} $$
 
 Cross entropy:
 
-$$ H(p, q) = - \mathrm{E}_{x\sim{}p} \log q(x) \label{eq:cross_entropy} $$
+$$ H(p, q) = - \underset{x\sim{}p}{\mathrm{E}}\big[ \log q(x) \big] \label{eq:cross_entropy} $$
+
+Kullback-Leibler (KL) divergence:
+
+\begin{align}
+D_\mathrm{KL}(p, q)
+    &= \underset{x\sim{}p}{\mathrm{E}}\left[ \log \left(\frac{p(x)}{q(x)}\right) \right] = \underset{x\sim{}p}{\mathrm{E}}\big[ \log p(x) - \log q(x) \big] \label{eq:kl_divergence} \\
+    &= - H(p) + H(p, q) \\
+\end{align}
 
 See also the section on [logistic regression](#logistic-regression).
 
@@ -274,16 +280,24 @@ Statistical models
 
 $$ \mathrm{Ber}(k; p) = \begin{cases} p & \mathrm{if}\ k = 1 \\ 1-p & \mathrm{if}\ k = 0 \end{cases} \label{eq:bernoulli} $$
 
+which can also be written as
+
+$$ \mathrm{Ber}(k; p) = p^k \: (1-p)^{(1-k)} \quad \mathrm{for}\ k \in \{0, 1\} $$
+
+or
+
+$$ \mathrm{Ber}(k; p) = p k + (1-p)(1-k) \quad \mathrm{for}\ k \in \{0, 1\} $$
+
 -   Binomial distribution
 -   Poisson distribution
 
 #### Normal/Gaussian distribution
 
-$$ N(x \,|\, \mu, \sigma^2) = \frac{1}{\sqrt{2\,\pi\:\sigma^2}} \: \exp\left[\frac{-(x-\mu)^2}{2\,\sigma^2}\right] \label{eq:gaussian} $$
+$$ N(x \,|\, \mu, \sigma^2) = \frac{1}{\sqrt{2\,\pi\:\sigma^2}} \: \exp\left(\frac{-(x-\mu)^2}{2\,\sigma^2}\right) \label{eq:gaussian} $$
 
 and in $k$ dimensions:
 
-$$ N(\vec{x} \,|\, \vec{\mu}, \boldsymbol{\Sigma}) = (2 \pi)^{-k/2}\:\left|\boldsymbol{\Sigma}\right|^{-1/2} \: \exp\left[\frac{-1}{2}\:(\vec{x}-\vec{\mu})^{\top}\:\boldsymbol{\Sigma}^{-1}\:(\vec{x}-\vec{\mu})\right] \label{eq:gaussian_k_dim} $$
+$$ N(\vec{x} \,|\, \vec{\mu}, \boldsymbol{\Sigma}) = (2 \pi)^{-k/2}\:\left|\boldsymbol{\Sigma}\right|^{-1/2} \: \exp\left(\frac{-1}{2}\:(\vec{x}-\vec{\mu})\trans \:\boldsymbol{\Sigma}^{-1}\:(\vec{x}-\vec{\mu})\right) \label{eq:gaussian_k_dim} $$
 
 where $\boldsymbol{\Sigma}$ is the covariance matrix
 (defined in [@eq:covariance_matrix_indexed])
@@ -366,7 +380,7 @@ TODO:
 
 ### Maximum likelihood estimation
 
-A maximum likelihood estimator (MLE) was first used by Fisher [^Aldrich1997]
+A maximum likelihood estimator (MLE) was first used by Fisher. [^Aldrich1997]
 
 $$\hat{\theta} \equiv \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: L(\theta) \label{eq:mle} $$
 
@@ -382,11 +396,9 @@ and taking the log of the product makes it a sum:
 
 $$ \mathrm{log} \: L(\theta) = \sum_i \mathrm{log} \: L(\theta|x_i) = \sum_i \mathrm{log} \: P(x_i|\theta) $$
 
-Maximizing $\mathrm{log} \: L(\theta)$ is also equivalent to minimizing $-\mathrm{log} \: L(\theta)$, the negative log-likelihoo (NLL). For distributions that are *i.i.d.*,
+Maximizing $\mathrm{log} \: L(\theta)$ is also equivalent to minimizing $-\mathrm{log} \: L(\theta)$, the negative log-likelihood (NLL). For distributions that are *i.i.d.*,
 
-$$ L = \prod_i L_i $$
-
-$$ - \log L = - \sum_i \log L_i $$
+$$ \mathrm{NLL} \equiv - \log L = - \log \prod_i L_i = - \sum_i \log L_i $$
 
 $$ \Rightarrow \mathrm{NLL} = \sum_i \mathrm{NLL}_i $$
 
@@ -748,10 +760,12 @@ Machine learning
 
 ### Logistic regression
 
-Logistic regression uses the logit function, which is the logarithm of the
-odds---the ratio of the chance of success to failure. (TODO: is it really "odds"?)
-Let $\mu$ be the probability of success in a Bernoulli trial, then
-the logit function is defined as
+TODO: Describe the setup of logistic regression for classification.
+
+Logistic regression uses the **logit function** [^Berkson],
+which is the logarithm of the odds---the ratio of the chance of success to
+failure. Let $\mu$ be the probability of success in a Bernoulli trial,
+then the logit function is defined as
 
 $$ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \label{eq:logit} $$
 
@@ -775,15 +789,18 @@ $$ \log\left(\frac{\mu}{1-\mu}\right) = \vec{w}\trans \vec{x} $$
 For the moment, let $z \equiv \vec{w}\trans \vec{x}$.
 Exponentiating and solving for $\mu$ gives
 
-$$ \frac{\mu}{1-\mu} = e^z $$
-
 $$ \mu = \frac{ e^z }{ 1 + e^z } = \frac{ 1 }{ 1 + e^{-z} } $$
 
 This function is called the **logistic or sigmoid function**.
 
 $$ \mathrm{logistic}(z) \equiv \mathrm{sigm}(z) \equiv \frac{ 1 }{ 1 + e^{-z} }  \label{eq:logistic} $$
 
-Therefore,
+Since we inverted the logit function by solving for $\mu$,
+the inverse of the logit function is the logistic or sigmoid.
+
+$$ \mathrm{logit}^{-1}(z) = \mathrm{logistic}(z) = \mathrm{sigm}(z) $$
+
+And therefore,
 
 $$ \mu = \mathrm{sigm}(z) = \mathrm{sigm}(\vec{w}\trans \vec{x}) $$
 
@@ -816,7 +833,6 @@ then we can write the cross entropy loss in a more compact way
 
 $$ \mathrm{CEL} = - \sum_i  t_i \, \log(\mu(x_i)) \label{eq:one_hot_cross_entropy_loss} $$
 
--   [Joseph Berkson](https://en.wikipedia.org/wiki/Joseph_Berkson) (1899-1982)
 -   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
     -   Cross entropy loss
     -   Harlan, W.S. (2007). [Bounded geometric growth: motivation for the logistic function](http://www.billharlan.com/pub/papers/logistic/logistic.html).
@@ -827,10 +843,11 @@ $$ \mathrm{CEL} = - \sum_i  t_i \, \log(\mu(x_i)) \label{eq:one_hot_cross_entrop
     -   Softmax is really a soft argmax. TODO: find ref.
     -   Softmax is not unique. There are other squashing functions. [^Blondel2020]
     -   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
+    -   Gradients from backprop through a softmax
     -   Goodfellow et al. point out that _any_ negative log-likelihood is a cross entropy
         between the training data and the probability distribution predicted by the model. [^Goodfellow2016p129] 
--   Gradients from backprop through a softmax
 
+[^Berkson]: "Logit" was coined by [Joseph Berkson](https://en.wikipedia.org/wiki/Joseph_Berkson) (1899-1982).
 [^Blondel2020]: @Blondel_2020_Learning_with_Fenchel_Young_losses\.
 [^Goodfellow2016p129]: @Goodfellow_2016_Deep_Learning\, p. 129.
 [^Murphy2012p21]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 21.
@@ -838,7 +855,7 @@ $$ \mathrm{CEL} = - \sum_i  t_i \, \log(\mu(x_i)) \label{eq:one_hot_cross_entrop
 
 ### Clustering
 
--   k-means
+-   $k$-means
 -   Gaussian discriminant analysis
 -   EM algorithm
 
