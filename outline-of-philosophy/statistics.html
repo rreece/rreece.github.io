@@ -730,13 +730,14 @@ D_\mathrm{KL}(p, q)
 <p>And therefore,</p>
 <p><span class="math display">\[ \mu = \mathrm{sigm}(z) = \mathrm{sigm}(\vec{w}{^{\mkern-1.5mu\mathsf{T}}}\vec{x}) \]</span></p>
 <p>From a probabilistic point of view,<a href="#fn74" class="footnoteRef" id="fnref74"><sup>74</sup></a> logistic regression can be derived from doing maximum likelihood estimation of a vector of model parameters, <span class="math inline">\(\vec{w}\)</span>, in a dot product with the input features, <span class="math inline">\(\vec{x}\)</span>, and squashed with a logistic function that yields the probability of a Bernoulli random variable, <span class="math inline">\(y \in \{0, 1\}\)</span>.</p>
-<p><span class="math display">\[ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y | \mu) = \mu^y \: (1-\mu)^{(1-y)} \]</span></p>
+<p><span class="math display">\[ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y | \mu(\vec{x}, \vec{w})) = \mu(\vec{x}, \vec{w})^y \: (1-\mu(\vec{x}, \vec{w}))^{(1-y)} \]</span></p>
 <p>The negative log-likelihood of multiple trials is</p>
 <span class="math display">\[\begin{align}
 \mathrm{NLL}
     &amp;= - \sum_i \log p(y_i | \vec{x}_i, \vec{w}) \nonumber \\
-    &amp;= - \sum_i \log\left( \mu(x_i)^{y_i} \: (1-\mu(x_i))^{(1-y_i)} \right) \nonumber \\
-    &amp;= - \sum_i \big( y_i \, \log(\mu(x_i)) + (1-y_i) \log(1-\mu(x_i)) \big) \label{eq:cross_entropy_loss} \\
+    &amp;= - \sum_i \log\left( \mu(\vec{x}_i, \vec{w})^{y_i} \: (1-\mu(\vec{x}_i, \vec{w}))^{(1-y_i)} \right) \nonumber \\
+    &amp;= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \nonumber \\
+    &amp;= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss} \\
 \end{align}\]</span>
 <p>which is the <strong>cross entropy loss</strong>.</p>
 <p>TODO: Nope, this is still buggy.</p>

@@ -818,7 +818,8 @@ The negative log-likelihood of multiple trials is
 \mathrm{NLL}
     &= - \sum_i \log p(y_i | \vec{x}_i, \vec{w}) \nonumber \\
     &= - \sum_i \log\left( \mu(\vec{x}_i, \vec{w})^{y_i} \: (1-\mu(\vec{x}_i, \vec{w}))^{(1-y_i)} \right) \nonumber \\
-    &= - \sum_i \big( y_i \, \log(\mu(\vec{x}_i, \vec{w})) + (1-y_i) \log(1-\mu(\vec{x}_i, \vec{w})) \big) \label{eq:cross_entropy_loss} \\
+    &= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \nonumber \\
+    &= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss} \\
 \end{align}
 
 which is the **cross entropy loss**.
