@@ -770,11 +770,11 @@ then the logit function is defined as
 $$ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \label{eq:logit} $$
 
 Logistic regression assumes that the logit function
-is a linear function of the explanatory variable, $x$,
+is a linear function of the explanatory variable, $x$.
 
 $$ \log\left(\frac{\mu}{1-\mu}\right) = \beta_0 + \beta_1 x $$
 
-where $\beta_0$ and $\beta_1$ are trainable weights.
+where $\beta_0$ and $\beta_1$ are trainable parameters.
 (TODO: Why would we assume this?)
 This can be generalized to a vector of multiple input variables, $\vec{x}$,
 where the input vector has a 1 prepended to be its zeroth component in order to
@@ -804,11 +804,13 @@ And therefore,
 
 $$ \mu = \mathrm{sigm}(z) = \mathrm{sigm}(\vec{w}\trans \vec{x}) $$
 
+![Logistic regression.](img/logistic-regression.png){#fig:logistic-regression}
+
 From a probabilistic point of view, [^Murphy2012p21]
 logistic regression can be derived from doing maximum likelihood
 estimation of a vector of model parameters, $\vec{w}$, in a dot product
 with the input features, $\vec{x}$, and squashed with a logistic
-function that yields the probability of a Bernoulli random variable, $y \in \{0, 1\}$.
+function that yields the probability, $\mu$, of a Bernoulli random variable, $y \in \{0, 1\}$.
 
 $$ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y | \mu(\vec{x}, \vec{w})) = \mu(\vec{x}, \vec{w})^y \: (1-\mu(\vec{x}, \vec{w}))^{(1-y)} $$
 

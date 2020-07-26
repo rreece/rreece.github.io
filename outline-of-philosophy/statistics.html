@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Thu Jul 23, 2020" />
+  <meta name="date" content="Sat Jul 25, 2020" />
   <title>Philosophy of statistics - Ryan&#8217;s Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#8217;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -715,9 +715,9 @@ D_\mathrm{KL}(p, q)
 <p>TODO: Describe the setup of logistic regression for classification.</p>
 <p>Logistic regression uses the <strong>logit function</strong>,<a href="#fn73" class="footnoteRef" id="fnref73"><sup>73</sup></a> which is the logarithm of the odds&#8212;the ratio of the chance of success to failure. Let <span class="math inline">\(\mu\)</span> be the probability of success in a Bernoulli trial, then the logit function is defined as</p>
 <p><span class="math display">\[ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \label{eq:logit} \]</span></p>
-<p>Logistic regression assumes that the logit function is a linear function of the explanatory variable, <span class="math inline">\(x\)</span>,</p>
+<p>Logistic regression assumes that the logit function is a linear function of the explanatory variable, <span class="math inline">\(x\)</span>.</p>
 <p><span class="math display">\[ \log\left(\frac{\mu}{1-\mu}\right) = \beta_0 + \beta_1 x \]</span></p>
-<p>where <span class="math inline">\(\beta_0\)</span> and <span class="math inline">\(\beta_1\)</span> are trainable weights. (TODO: Why would we assume this?) This can be generalized to a vector of multiple input variables, <span class="math inline">\(\vec{x}\)</span>, where the input vector has a 1 prepended to be its zeroth component in order to conveniently include the bias, <span class="math inline">\(\beta_0\)</span>, in a dot product.</p>
+<p>where <span class="math inline">\(\beta_0\)</span> and <span class="math inline">\(\beta_1\)</span> are trainable parameters. (TODO: Why would we assume this?) This can be generalized to a vector of multiple input variables, <span class="math inline">\(\vec{x}\)</span>, where the input vector has a 1 prepended to be its zeroth component in order to conveniently include the bias, <span class="math inline">\(\beta_0\)</span>, in a dot product.</p>
 <p><span class="math display">\[ \vec{x} = (1, x_1, x_2, \ldots, x_n){^{\mkern-1.5mu\mathsf{T}}}\]</span></p>
 <p><span class="math display">\[ \vec{w} = (\beta_0, \beta_1, \beta_2, \ldots, \beta_n){^{\mkern-1.5mu\mathsf{T}}}\]</span></p>
 <p><span class="math display">\[ \log\left(\frac{\mu}{1-\mu}\right) = \vec{w}{^{\mkern-1.5mu\mathsf{T}}}\vec{x} \]</span></p>
@@ -729,7 +729,11 @@ D_\mathrm{KL}(p, q)
 <p><span class="math display">\[ \mathrm{logit}^{-1}(z) = \mathrm{logistic}(z) = \mathrm{sigm}(z) \]</span></p>
 <p>And therefore,</p>
 <p><span class="math display">\[ \mu = \mathrm{sigm}(z) = \mathrm{sigm}(\vec{w}{^{\mkern-1.5mu\mathsf{T}}}\vec{x}) \]</span></p>
-<p>From a probabilistic point of view,<a href="#fn74" class="footnoteRef" id="fnref74"><sup>74</sup></a> logistic regression can be derived from doing maximum likelihood estimation of a vector of model parameters, <span class="math inline">\(\vec{w}\)</span>, in a dot product with the input features, <span class="math inline">\(\vec{x}\)</span>, and squashed with a logistic function that yields the probability of a Bernoulli random variable, <span class="math inline">\(y \in \{0, 1\}\)</span>.</p>
+<div class="figure">
+<img src="img/logistic-regression.png" alt="Figure 5: Logistic regression." id="fig:logistic-regression" />
+<p class="caption">Figure 5: Logistic regression.</p>
+</div>
+<p>From a probabilistic point of view,<a href="#fn74" class="footnoteRef" id="fnref74"><sup>74</sup></a> logistic regression can be derived from doing maximum likelihood estimation of a vector of model parameters, <span class="math inline">\(\vec{w}\)</span>, in a dot product with the input features, <span class="math inline">\(\vec{x}\)</span>, and squashed with a logistic function that yields the probability, <span class="math inline">\(\mu\)</span>, of a Bernoulli random variable, <span class="math inline">\(y \in \{0, 1\}\)</span>.</p>
 <p><span class="math display">\[ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y | \mu(\vec{x}, \vec{w})) = \mu(\vec{x}, \vec{w})^y \: (1-\mu(\vec{x}, \vec{w}))^{(1-y)} \]</span></p>
 <p>The negative log-likelihood of multiple trials is</p>
 <span class="math display">\[\begin{align}
@@ -794,8 +798,8 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 </ul>
 <div class="figure">
-<img src="img/bengio-raw-to-higher-rep.png" alt="Figure 5: Raw input image is transformed into gradually higher levels of representation." id="fig:bengio-raw-to-higher-rep" />
-<p class="caption">Figure 5: Raw input image is transformed into gradually higher levels of representation.<a href="#fn85" class="footnoteRef" id="fnref85"><sup>85</sup></a></p>
+<img src="img/bengio-raw-to-higher-rep.png" alt="Figure 6: Raw input image is transformed into gradually higher levels of representation." id="fig:bengio-raw-to-higher-rep" />
+<p class="caption">Figure 6: Raw input image is transformed into gradually higher levels of representation.<a href="#fn85" class="footnoteRef" id="fnref85"><sup>85</sup></a></p>
 </div>
 <h3 id="computer-vision">Computer vision</h3>
 <p>Computer Vision (CV)</p>
@@ -871,8 +875,8 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 </ul>
 <div class="figure">
-<img src="img/BDEC-scientific-method.png" alt="Figure 6: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis." id="fig:BDEC-scientific-method" />
-<p class="caption">Figure 6: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.<a href="#fn108" class="footnoteRef" id="fnref108"><sup>108</sup></a></p>
+<img src="img/BDEC-scientific-method.png" alt="Figure 7: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis." id="fig:BDEC-scientific-method" />
+<p class="caption">Figure 7: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.<a href="#fn108" class="footnoteRef" id="fnref108"><sup>108</sup></a></p>
 </div>
 <h2 id="implications-for-the-realism-debate">Implications for the realism debate</h2>
 <ul>
@@ -1571,7 +1575,7 @@ D_\mathrm{KL}(p, q)
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Thu Jul 23, 2020</p>
+    <p>Sat Jul 25, 2020</p>
   </div>
   <div class="license">
     <p>&#169; 2014-2020 Ryan Reece. All rights reserved.</p>
