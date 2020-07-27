@@ -761,6 +761,7 @@ Machine learning
 ### Logistic regression
 
 TODO: Describe the setup of logistic regression for classification.
+Binary classification.
 
 Logistic regression uses the **logit function** [^Berkson],
 which is the logarithm of the odds---the ratio of the chance of success to
@@ -839,6 +840,12 @@ $$ t_{ik} = \begin{cases} 1 & \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i 
 and
 
 $$ \mu_{ik} = \begin{cases} 1-\mu_i & \mathrm{if}\ k = 0 \\ \mu_i & \mathrm{if}\ k =1 \end{cases} $$
+
+This readily generalizes from binary classification to classification over many classes
+as we will discuss more below.
+Note that in the sum over classes, $k$, only one term for the true class contributes.
+
+$$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ik} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss3} $$
 
 -   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
     -   Cross entropy loss

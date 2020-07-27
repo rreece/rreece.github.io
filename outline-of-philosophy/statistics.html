@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Sun Jul 26, 2020" />
+  <meta name="date" content="Mon Jul 27, 2020" />
   <title>Philosophy of statistics - Ryan&#8217;s Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#8217;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -712,7 +712,7 @@ D_\mathrm{KL}(p, q)
 <li>VC-dimension<a href="#fn72" class="footnoteRef" id="fnref72"><sup>72</sup></a></li>
 </ul>
 <h3 id="logistic-regression">Logistic regression</h3>
-<p>TODO: Describe the setup of logistic regression for classification.</p>
+<p>TODO: Describe the setup of logistic regression for classification. Binary classification.</p>
 <p>Logistic regression uses the <strong>logit function</strong>,<a href="#fn73" class="footnoteRef" id="fnref73"><sup>73</sup></a> which is the logarithm of the odds&#8212;the ratio of the chance of success to failure. Let <span class="math inline">\(\mu\)</span> be the probability of success in a Bernoulli trial, then the logit function is defined as</p>
 <p><span class="math display">\[ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \label{eq:logit} \]</span></p>
 <p>Logistic regression assumes that the logit function is a linear function of the explanatory variable, <span class="math inline">\(x\)</span>.</p>
@@ -749,6 +749,8 @@ D_\mathrm{KL}(p, q)
 <p><span class="math display">\[ t_{ik} = \begin{cases} 1 &amp; \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i = 1) \\ 0 &amp; \mathrm{otherwise} \end{cases} \]</span></p>
 <p>and</p>
 <p><span class="math display">\[ \mu_{ik} = \begin{cases} 1-\mu_i &amp; \mathrm{if}\ k = 0 \\ \mu_i &amp; \mathrm{if}\ k =1 \end{cases} \]</span></p>
+<p>This readily generalizes from binary classification to classification over many classes as we will discuss more below. Note that in the sum over classes, <span class="math inline">\(k\)</span>, only one term for the true class contributes.</p>
+<p><span class="math display">\[ \mathrm{CEL} = - \left. \sum_i \log \mu_{ik} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss3} \]</span></p>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Logistic_regression">Logistic regression</a>
 <ul>
@@ -1586,7 +1588,7 @@ D_\mathrm{KL}(p, q)
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Sun Jul 26, 2020</p>
+    <p>Mon Jul 27, 2020</p>
   </div>
   <div class="license">
     <p>&#169; 2014-2020 Ryan Reece. All rights reserved.</p>
