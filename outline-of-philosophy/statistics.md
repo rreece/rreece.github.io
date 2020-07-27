@@ -825,16 +825,20 @@ The negative log-likelihood of multiple trials is
 \end{align}
 
 which is the **cross entropy loss**.
+Note that the first term is non-zero only when the true target is $y_i=1$,
+and similarly the second term is non-zero only when  $y_i=0$.
+Therefore, we can reparametrize the target $y_i$ in favor of $t_{ik}$ that
+is one-hot in an index $k$ over classes.
 
-TODO: Nope, this is still buggy.
+$$ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ik} \, \log \mu_{ik} \big) \label{eq:cross_entropy_loss2} $$
 
-If we reparametrize the target, $y$, in favor of a one-hotted version, $t$,
+where
 
-$$ \vec{t} = \begin{cases} (1, 0)\trans & \mathrm{if}\ y = 0 \\ (0, 1)\trans & \mathrm{if}\ y = 1 \end{cases} \label{eq:one_hot_target} $$
+$$ t_{ik} = \begin{cases} 1 & \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i = 1) \\ 0 & \mathrm{otherwise} \end{cases} $$
 
-then we can write the cross entropy loss in a more compact way
+and
 
-$$ \mathrm{CEL} = - \sum_i  t_i \, \log(\mu(x_i)) \label{eq:one_hot_cross_entropy_loss} $$
+$$ \mu_{ik} = \begin{cases} 1-\mu_i & \mathrm{if}\ k = 0 \\ \mu_i & \mathrm{if}\ k =1 \end{cases} $$
 
 -   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
     -   Cross entropy loss
@@ -858,9 +862,14 @@ $$ \mathrm{CEL} = - \sum_i  t_i \, \log(\mu(x_i)) \label{eq:one_hot_cross_entrop
 
 ### Clustering
 
--   $k$-means
--   Gaussian discriminant analysis
+-   Gaussian Mixture Models (GMMs)
+    -   Gaussian discriminant analysis
+-   Generalized Linear Models (GLMs)
+    -   The Exponential Family of PDFs
+    -   Multinoulli $\mathrm{Cat}(x|\mu)$
+    -   GLMs
 -   EM algorithm
+    -   $k$-means
 
 
 ### Deep learning

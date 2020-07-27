@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Sat Jul 25, 2020" />
+  <meta name="date" content="Sun Jul 26, 2020" />
   <title>Philosophy of statistics - Ryan&#8217;s Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#8217;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -743,12 +743,12 @@ D_\mathrm{KL}(p, q)
     &amp;= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \nonumber \\
     &amp;= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss} \\
 \end{align}\]</span>
-<p>which is the <strong>cross entropy loss</strong>.</p>
-<p>TODO: Nope, this is still buggy.</p>
-<p>If we reparametrize the target, <span class="math inline">\(y\)</span>, in favor of a one-hotted version, <span class="math inline">\(t\)</span>,</p>
-<p><span class="math display">\[ \vec{t} = \begin{cases} (1, 0){^{\mkern-1.5mu\mathsf{T}}}&amp; \mathrm{if}\ y = 0 \\ (0, 1){^{\mkern-1.5mu\mathsf{T}}}&amp; \mathrm{if}\ y = 1 \end{cases} \label{eq:one_hot_target} \]</span></p>
-<p>then we can write the cross entropy loss in a more compact way</p>
-<p><span class="math display">\[ \mathrm{CEL} = - \sum_i  t_i \, \log(\mu(x_i)) \label{eq:one_hot_cross_entropy_loss} \]</span></p>
+<p>which is the <strong>cross entropy loss</strong>. Note that the first term is non-zero only when the true target is <span class="math inline">\(y_i=1\)</span>, and similarly the second term is non-zero only when <span class="math inline">\(y_i=0\)</span>. Therefore, we can reparametrize the target <span class="math inline">\(y_i\)</span> in favor of <span class="math inline">\(t_{ik}\)</span> that is one-hot in an index <span class="math inline">\(k\)</span> over classes.</p>
+<p><span class="math display">\[ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ik} \, \log \mu_{ik} \big) \label{eq:cross_entropy_loss2} \]</span></p>
+<p>where</p>
+<p><span class="math display">\[ t_{ik} = \begin{cases} 1 &amp; \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i = 1) \\ 0 &amp; \mathrm{otherwise} \end{cases} \]</span></p>
+<p>and</p>
+<p><span class="math display">\[ \mu_{ik} = \begin{cases} 1-\mu_i &amp; \mathrm{if}\ k = 0 \\ \mu_i &amp; \mathrm{if}\ k =1 \end{cases} \]</span></p>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Logistic_regression">Logistic regression</a>
 <ul>
@@ -769,9 +769,20 @@ D_\mathrm{KL}(p, q)
 </ul>
 <h3 id="clustering">Clustering</h3>
 <ul>
-<li><span class="math inline">\(k\)</span>-means</li>
+<li>Gaussian Mixture Models (GMMs)
+<ul>
 <li>Gaussian discriminant analysis</li>
-<li>EM algorithm</li>
+</ul></li>
+<li>Generalized Linear Models (GLMs)
+<ul>
+<li>The Exponential Family of PDFs</li>
+<li>Multinoulli <span class="math inline">\(\mathrm{Cat}(x|\mu)\)</span></li>
+<li>GLMs</li>
+</ul></li>
+<li>EM algorithm
+<ul>
+<li><span class="math inline">\(k\)</span>-means</li>
+</ul></li>
 </ul>
 <h3 id="deep-learning">Deep learning</h3>
 <ul>
@@ -1575,7 +1586,7 @@ D_\mathrm{KL}(p, q)
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Sat Jul 25, 2020</p>
+    <p>Sun Jul 26, 2020</p>
   </div>
   <div class="license">
     <p>&#169; 2014-2020 Ryan Reece. All rights reserved.</p>
