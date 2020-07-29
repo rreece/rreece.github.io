@@ -575,9 +575,11 @@ Exploratory data analysis
     -   validation dataset
     -   statistical issues, violates the likelihood principle
 -   "Data science"
+    -   Tukey [^Tukey1962]
     -   Data collection, quality, analysis, archival, and reinterpretation
     -   RECAST
 
+[^Tukey1962]: @Tukey_1962_The_future_of_data_analysis\.
 [^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
 
 
@@ -1140,28 +1142,29 @@ Click to show links
 ### SEP
 
 -   [Abduction](http://plato.stanford.edu/entries/abduction/)
--   [Analysis of Knowledge](http://plato.stanford.edu/entries/knowledge-analysis/)
--   [Bayes' Theorem](https://plato.stanford.edu/entries/bayes-theorem/)
--   [Bayesian Epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
+-   [Analysis of knowledge](http://plato.stanford.edu/entries/knowledge-analysis/)
+-   [Bayes' theorem](https://plato.stanford.edu/entries/bayes-theorem/)
+-   [Bayesian epistemology](https://plato.stanford.edu/entries/epistemology-bayesian/)
 -   [Carnap, Rudolf (1891-1970)](https://plato.stanford.edu/entries/carnap/)
--   [Causal Models](https://plato.stanford.edu/entries/causal-models/)
--   [Causal Processes](http://plato.stanford.edu/entries/causation-process/)
+-   [Causal models](https://plato.stanford.edu/entries/causal-models/)
+-   [Causal processes](http://plato.stanford.edu/entries/causation-process/)
 -   [Confirmation](https://plato.stanford.edu/entries/confirmation/)
--   [Dutch Book Arguments](https://plato.stanford.edu/entries/dutch-book/)
+-   [Dutch book arguments](https://plato.stanford.edu/entries/dutch-book/)
 -   [Epistemology](http://plato.stanford.edu/entries/epistemology/)
 -   [Foundationalist Theories of Epistemic Justification](http://plato.stanford.edu/entries/justep-foundational/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
--   [Identity of Indiscernibles](http://plato.stanford.edu/entries/identity-indiscernible/)
+-   [Identity of indiscernibles](http://plato.stanford.edu/entries/identity-indiscernible/)
 -   [Induction, The problem of](http://plato.stanford.edu/entries/induction-problem/)
 -   [Logic and Probability](https://plato.stanford.edu/entries/logic-probability/)
 -   [Naturalized epistemology](http://plato.stanford.edu/entries/epistemology-naturalized/)
 -   [Peirce, Charles Sanders (1839-1914)](https://plato.stanford.edu/entries/peirce/)
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
--   [Principle of Sufficient Reason](http://plato.stanford.edu/entries/sufficient-reason/)
+-   [Principle of sufficient reason](http://plato.stanford.edu/entries/sufficient-reason/)
 -   [Probability, Interpretations of](https://plato.stanford.edu/entries/probability-interpret/)
--   [Probabilistic Causation](https://plato.stanford.edu/entries/causation-probabilistic/)
+-   [Probabilistic pausation](https://plato.stanford.edu/entries/causation-probabilistic/)
 -   [Reichenbach, Hans (1891-1953)](https://plato.stanford.edu/entries/reichenbach/)
--   [Scientific Explanation](http://plato.stanford.edu/entries/scientific-explanation/)
+-   [Scientific explanation](http://plato.stanford.edu/entries/scientific-explanation/)
+-   [Scientific research and big data](https://plato.stanford.edu/entries/science-big-data/)
 -   [Statistics, Philosophy of](http://plato.stanford.edu/entries/statistics/)
 
 ### IEP
