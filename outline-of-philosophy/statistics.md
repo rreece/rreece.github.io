@@ -563,21 +563,27 @@ Systematic uncertainties
 -   Faster-than-light neutrinos.
 
 
-Exploratory data analysis
+Data science
 --------------------------------------------------------------------------------
 
--   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
-    -   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+-   Data science
+    -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+    -   Tukey [^Tukey1962]
+    -   Data collection, quality, analysis, archival, and reinterpretation
+-   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
     -   *Exploratory Data Analysis* (1977) [^Tukey1977]
 -   Look-Elsewhere Effect (LEE)
     -   AKA File-drawer effect
+    -   TODO: find ref
+-   Noisy data
+    -   real world, mis-labeled, and missing data
+-   Metadata
+    -   conditions data
 -   Stopping rules
     -   validation dataset
     -   statistical issues, violates the likelihood principle
--   "Data science"
-    -   Tukey [^Tukey1962]
-    -   Data collection, quality, analysis, archival, and reinterpretation
-    -   RECAST
+-   Archival and reinterpretation
+    -   RECAST, TODO: find ref
 
 [^Tukey1962]: @Tukey_1962_The_future_of_data_analysis\.
 [^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
@@ -874,7 +880,7 @@ $$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ik} \right|_{k\ \mathrm{is\ such\ th
 -   Gaussian Mixture Models (GMMs)
     -   Gaussian discriminant analysis
 -   Generalized Linear Models (GLMs)
-    -   The Exponential Family of PDFs
+    -   Exponential family of PDFs
     -   Multinoulli $\mathrm{Cat}(x|\mu)$
     -   GLMs
 -   EM algorithm
@@ -932,6 +938,7 @@ Natural language processing (NLP)
 
 -   RNNs and LSTMs
     -   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
+-   Backpropagation through time (BPTT)
 -   Sutskever seq2seq [^Sutskever2014]
 -   Review by Stahlberg [^Stahlberg2019]
 -   Rationalism and empiricism in artificial intellegence:
