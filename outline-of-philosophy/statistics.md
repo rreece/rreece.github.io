@@ -669,6 +669,8 @@ Mayo:
     -   *Statistical Inference as Severe Testing* [^Mayo2018]
     -   [Statistics Wars: Interview with Deborah Mayo](https://blog.apaonline.org/2019/03/07/interview-with-deborah-mayo/) - APA blog
     -   [Review of *SIST* by Prasanta S. Bandyopadhyay](https://ndpr.nd.edu/news/statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/)
+    -   [LSE Research Seminar: Current Controversies in Phil Stat](https://phil-stat-wars.com/2020/05/22/lse-research-seminar-ph500-may-15/) (May 21, 2020)
+        -   [Meeting 5](https://phil-stat-wars.com/2020/06/11/meeting-5-june-18/) (June 18, 2020)
 -   Andrew Gelman
     -   Beyond subjective and objective in statistics [^Gelman2017]
     -   [Confirmationist and falsificationist paradigms of science](https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/) - Sept. 5, 2014
@@ -904,6 +906,7 @@ $$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ik} \right|_{k\ \mathrm{is\ such\ th
     -   Hubinger, E. (2019). [Understanding "Deep Double Descent"](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent). *LessWrong*.
 -   Others
     -   "The explanation game: A formal framework for interpretable machine learning" [^Watson2019]
+-   [AIMyths.com](https://www.aimyths.org/)
 
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
 
