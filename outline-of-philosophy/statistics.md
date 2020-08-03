@@ -291,6 +291,11 @@ $$ \mathrm{Ber}(k; p) = p k + (1-p)(1-k) \quad \mathrm{for}\ k \in \{0, 1\} $$
 -   Binomial distribution
 -   Poisson distribution
 
+TODO: explain, another important relationship is
+
+![Relationships among Bernoulli, binomial, categorical, and multinomial distributions.](img/bernoulli-binomial-multinomial.png){#fig:bernoulli-binomial-multinomial}
+
+
 #### Normal/Gaussian distribution
 
 $$ N(x \,|\, \mu, \sigma^2) = \frac{1}{\sqrt{2\,\pi\:\sigma^2}} \: \exp\left(\frac{-(x-\mu)^2}{2\,\sigma^2}\right) \label{eq:gaussian} $$
@@ -308,10 +313,6 @@ of the distribution.
 -   Univariate distribution relationships
 
 ![Detail of a figure showing relationships among univariate distributions. See the [full figure here](http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf) [^Leemis2008].](img/Leemis-univariate-distribution-relationships.png ){#fig:Leemis-univariate-distribution-relationships}
-
-TODO: explain, another important relationship is
-
-![](img/bernoulli-binomial-multinomial.png)
 
 [^Leemis2008]: @Leemis_2008_Univariate_distribution_relationships\.
 
@@ -778,6 +779,21 @@ Machine learning
 TODO: Describe the setup of logistic regression for classification.
 Binary classification.
 
+From a probabilistic point of view, [^Murphy2012p21]
+logistic regression can be derived from doing maximum likelihood
+with a Bernoulli random variable, $y \in \{0, 1\}$, with a probability
+$\mu$ that $y = 1$.
+The negative log-likelihood of multiple trials is
+
+\begin{align}
+\mathrm{NLL}
+    &= - \sum_i \log p(y_i | \mu) \nonumber \\
+    &= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \nonumber \\
+    &= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss} \\
+\end{align}
+
+----------
+
 Logistic regression uses the **logit function** [^Berkson],
 which is the logarithm of the odds---the ratio of the chance of success to
 failure. Let $\mu$ be the probability of success in a Bernoulli trial,
@@ -843,24 +859,37 @@ The negative log-likelihood of multiple trials is
 which is the **cross entropy loss**.
 Note that the first term is non-zero only when the true target is $y_i=1$,
 and similarly the second term is non-zero only when  $y_i=0$.
-Therefore, we can reparametrize the target $y_i$ in favor of $t_{ik}$ that
+Therefore, we can reparametrize the target $y_i$ in favor of $t_{ki}$ that
 is one-hot in an index $k$ over classes.
 
-$$ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ik} \, \log \mu_{ik} \big) \label{eq:cross_entropy_loss2} $$
+$$ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ki} \, \log \mu_{ki} \big) \label{eq:cross_entropy_loss2} $$
 
 where
 
-$$ t_{ik} = \begin{cases} 1 & \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i = 1) \\ 0 & \mathrm{otherwise} \end{cases} $$
+$$ t_{ki} = \begin{cases} 1 & \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i = 1) \\ 0 & \mathrm{otherwise} \end{cases} $$
 
 and
 
-$$ \mu_{ik} = \begin{cases} 1-\mu_i & \mathrm{if}\ k = 0 \\ \mu_i & \mathrm{if}\ k =1 \end{cases} $$
+$$ \mu_{ki} = \begin{cases} 1-\mu_i & \mathrm{if}\ k = 0 \\ \mu_i & \mathrm{if}\ k =1 \end{cases} $$
 
 This readily generalizes from binary classification to classification over many classes
 as we will discuss more below.
 Note that in the sum over classes, $k$, only one term for the true class contributes.
 
-$$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ik} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss3} $$
+$$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss3} $$
+
+Again, from a probabilistic point of view, we can derive the use of multi-class cross entropy loss
+by starting with the Bernoulli distribution, generalizing it to multiple classes (indexed by $k$) as
+
+$$ p(y_k | \mu) = \mathrm{Cat}(y_k | \mu_k) = \prod_k {\mu_k}^{y_k} \label{eq:categorical_distribution} $$
+
+which is the categorical or multinoulli distribution.
+The negative-log likelihood of multiple independent trials is
+
+$$ \mathrm{NLL} = - \sum_i \log \left(\prod_k {\mu_{ki}}^{y_{ki}}\right) = - \sum_i \sum_k y_{ki} \: \log \mu_{ki} \label{eq:nll_multinomial} $$
+
+Noting again that $y_{ki} = 1$ only when $k$ is the true class, and is 0 otherwise, this simplifies
+to [@eq:cross_entropy_loss3].
 
 -   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
     -   Cross entropy loss
@@ -869,6 +898,7 @@ $$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ik} \right|_{k\ \mathrm{is\ such\ th
     -   Roelants, P. (2019). [Logistic classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-logistic/).
 -   [Multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
     -   Softmax
+    -   McFadden [^McFadden1973]
     -   Softmax is really a soft argmax. TODO: find ref.
     -   Softmax is not unique. There are other squashing functions. [^Blondel2020]
     -   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
@@ -876,21 +906,10 @@ $$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ik} \right|_{k\ \mathrm{is\ such\ th
     -   Goodfellow et al. point out that _any_ negative log-likelihood is a cross entropy
         between the training data and the probability distribution predicted by the model. [^Goodfellow2016p129] 
 
-Again, from a probabilistic point of view, we can derive the use of multi-class cross entropy loss
-by starting with the Bernoulli distribution and to generalize it to multiple classes, (index by $k$), as
-
-$$ p(y_k | \mu) = \mathrm{Cat}(y_k | \mu_k) = \prod_k {\mu_k}^{y_k} \label{eq:categorical_distribution} $$
-
-which is the categorical or multinoulli distribution.
-
-TODO:
-We parameterize the latent variables, $\mu_k$, the probability of each class in a trial,
-
-$$ p(y_k | \vec{x}, \vec{w}) = \mathrm{Cat}(y_k | \mu_k(\vec{x}, \vec{w})) = \prod_k \mu(\vec{x}, \vec{w})^{y_k} $$
-
 [^Berkson]: "Logit" was coined by [Joseph Berkson](https://en.wikipedia.org/wiki/Joseph_Berkson) (1899-1982).
 [^Blondel2020]: @Blondel_2020_Learning_with_Fenchel_Young_losses\.
 [^Goodfellow2016p129]: @Goodfellow_2016_Deep_Learning\, p. 129.
+[^McFadden1973]: @McFadden_1973_Conditional_logit_analysis_of_qualitative_choice\.
 [^Murphy2012p21]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 21.
 
 
