@@ -305,8 +305,13 @@ of the distribution.
 
 -   Central limit theorem
 -   $\chi^2$ distribution
--   Univariate distribution relationships [^Leemis2008]
--   TODO: add fig
+-   Univariate distribution relationships
+
+![Detail of a figure showing relationships among univariate distributions. See the [full figure here](http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf) [^Leemis2008].](img/Leemis-univariate-distribution-relationships.png ){#fig:Leemis-univariate-distribution-relationships}
+
+TODO: explain, another important relationship is
+
+![](img/bernoulli-binomial-multinomial.png)
 
 [^Leemis2008]: @Leemis_2008_Univariate_distribution_relationships\.
 
@@ -563,32 +568,6 @@ Systematic uncertainties
 -   Faster-than-light neutrinos.
 
 
-Data science
---------------------------------------------------------------------------------
-
--   Data science
-    -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
-    -   Tukey [^Tukey1962]
-    -   Data collection, quality, analysis, archival, and reinterpretation
--   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
-    -   *Exploratory Data Analysis* (1977) [^Tukey1977]
--   Look-Elsewhere Effect (LEE)
-    -   AKA File-drawer effect
-    -   TODO: find ref
--   Noisy data
-    -   real world, mis-labeled, and missing data
--   Metadata
-    -   conditions data
--   Stopping rules
-    -   validation dataset
-    -   statistical issues, violates the likelihood principle
--   Archival and reinterpretation
-    -   RECAST, TODO: find ref
-
-[^Tukey1962]: @Tukey_1962_The_future_of_data_analysis\.
-[^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
-
-
 Likelihood principle
 --------------------------------------------------------------------------------
 
@@ -751,6 +730,32 @@ Replication crisis
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
 
 
+Data science
+--------------------------------------------------------------------------------
+
+-   Data science
+    -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+    -   Tukey [^Tukey1962]
+    -   Data collection, quality, analysis, archival, and reinterpretation
+-   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+    -   *Exploratory Data Analysis* (1977) [^Tukey1977]
+-   Look-Elsewhere Effect (LEE)
+    -   AKA File-drawer effect
+    -   TODO: find ref
+-   Noisy data
+    -   real world, mis-labeled, and missing data
+-   Metadata
+    -   conditions data
+-   Stopping rules
+    -   validation dataset
+    -   statistical issues, violates the likelihood principle
+-   Archival and reinterpretation
+    -   RECAST, TODO: find ref
+
+[^Tukey1962]: @Tukey_1962_The_future_of_data_analysis\.
+[^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
+
+
 Machine learning
 --------------------------------------------------------------------------------
 
@@ -870,6 +875,18 @@ $$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ik} \right|_{k\ \mathrm{is\ such\ th
     -   Gradients from backprop through a softmax
     -   Goodfellow et al. point out that _any_ negative log-likelihood is a cross entropy
         between the training data and the probability distribution predicted by the model. [^Goodfellow2016p129] 
+
+Again, from a probabilistic point of view, we can derive the use of multi-class cross entropy loss
+by starting with the Bernoulli distribution and to generalize it to multiple classes, (index by $k$), as
+
+$$ p(y_k | \mu) = \mathrm{Cat}(y_k | \mu_k) = \prod_k {\mu_k}^{y_k} \label{eq:categorical_distribution} $$
+
+which is the categorical or multinoulli distribution.
+
+TODO:
+We parameterize the latent variables, $\mu_k$, the probability of each class in a trial,
+
+$$ p(y_k | \vec{x}, \vec{w}) = \mathrm{Cat}(y_k | \mu_k(\vec{x}, \vec{w})) = \prod_k \mu(\vec{x}, \vec{w})^{y_k} $$
 
 [^Berkson]: "Logit" was coined by [Joseph Berkson](https://en.wikipedia.org/wiki/Joseph_Berkson) (1899-1982).
 [^Blondel2020]: @Blondel_2020_Learning_with_Fenchel_Young_losses\.
@@ -998,15 +1015,17 @@ Information geometry
 Automation
 --------------------------------------------------------------------------------
 
-### Surrogate models
-
--   "The frontier of simulation-based inference" [^Cranmer2019]
-
-
 ### AutoML
 
 -   Neural Architecture Search (NAS)
 -   AutoML frameworks
+
+
+### Surrogate models
+
+-   Autoencoders, latent variables
+-   Physical constratints in loss functions
+-   "The frontier of simulation-based inference" [^Cranmer2019]
 
 
 ### AutoScience

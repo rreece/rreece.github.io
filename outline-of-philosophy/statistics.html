@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Thu Jul 30, 2020" />
+  <meta name="date" content="Sun Aug 02, 2020" />
   <title>Philosophy of statistics - Ryan&#8217;s Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#8217;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -115,7 +115,6 @@
 <ol style="list-style-type: decimal">
 <li><a href="statistics.html#examples-of-poor-estimates-of-systematic-uncertanties">Examples of poor estimates of systematic uncertanties</a></li>
 </ol></li>
-<li><a href="statistics.html#data-science">Data science</a></li>
 <li><a href="statistics.html#likelihood-principle">Likelihood principle</a></li>
 <li><a href="statistics.html#statistics-wars">&#8220;Statistics Wars&#8221;</a></li>
 <li><a href="statistics.html#replication-crisis">Replication crisis</a>
@@ -123,6 +122,7 @@
 <li><a href="statistics.html#introduction">Introduction</a></li>
 <li><a href="statistics.html#p-value-controversy">P-value controversy</a></li>
 </ol></li>
+<li><a href="statistics.html#data-science">Data science</a></li>
 <li><a href="statistics.html#machine-learning">Machine learning</a>
 <ol style="list-style-type: decimal">
 <li><a href="statistics.html#classical">Classical</a></li>
@@ -137,8 +137,8 @@
 <li><a href="statistics.html#information-geometry">Information geometry</a></li>
 <li><a href="statistics.html#automation">Automation</a>
 <ol style="list-style-type: decimal">
-<li><a href="statistics.html#surrogate-models">Surrogate models</a></li>
 <li><a href="statistics.html#automl">AutoML</a></li>
+<li><a href="statistics.html#surrogate-models">Surrogate models</a></li>
 <li><a href="statistics.html#autoscience">AutoScience</a></li>
 </ol></li>
 <li><a href="statistics.html#implications-for-the-realism-debate">Implications for the realism debate</a></li>
@@ -365,9 +365,17 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Central limit theorem</li>
 <li><span class="math inline">\(\chi^2\)</span> distribution</li>
-<li>Univariate distribution relationships<a href="#fn24" class="footnoteRef" id="fnref24"><sup>24</sup></a></li>
-<li>TODO: add fig</li>
+<li>Univariate distribution relationships</li>
 </ul>
+<div class="figure">
+<img src="img/Leemis-univariate-distribution-relationships.png" alt="Figure 1: Detail of a figure showing relationships among univariate distributions. See the full figure here." id="fig:Leemis-univariate-distribution-relationships" />
+<p class="caption">Figure 1: Detail of a figure showing relationships among univariate distributions. See the <a href="http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf">full figure here</a>.<a href="#fn24" class="footnoteRef" id="fnref24"><sup>24</sup></a></p>
+</div>
+<p>TODO: explain, another important relationship is</p>
+<div class="figure">
+<img src="img/bernoulli-binomial-multinomial.png" />
+
+</div>
 <h3 id="mixture-models">Mixture models</h3>
 <ul>
 <li>Gaussian mixture models (GMM)</li>
@@ -485,8 +493,8 @@ D_\mathrm{KL}(p, q)
 <p>Background-only Neyman-Pearson test statistic:</p>
 <p><span class="math display">\[ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} \]</span></p>
 <div class="figure">
-<img src="img/ROC-explainer.png" alt="Figure 1: TODO: ROC explainer. (Wikimedia, 2015)." id="fig:ROC-explainer" />
-<p class="caption">Figure 1: TODO: ROC explainer. (<a href="https://commons.wikimedia.org/wiki/File:ROC_curves.svg">Wikimedia</a>, 2015).</p>
+<img src="img/ROC-explainer.png" alt="Figure 2: TODO: ROC explainer. (Wikimedia, 2015)." id="fig:ROC-explainer" />
+<p class="caption">Figure 2: TODO: ROC explainer. (<a href="https://commons.wikimedia.org/wiki/File:ROC_curves.svg">Wikimedia</a>, 2015).</p>
 </div>
 <h3 id="p-values-and-significance"><span class="math inline">\(p\)</span>-values and significance</h3>
 <ul>
@@ -533,8 +541,8 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 </ul>
 <div class="figure">
-<img src="img/systematic-uncertainties-sinervo.png" alt="Figure 2: Classification of measurement uncertainties (philosophy-in-figures.tumblr.com, 2016)." id="fig:systematic-uncertainties-sinervo" />
-<p class="caption">Figure 2: Classification of measurement uncertainties (<a href="http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties">philosophy-in-figures.tumblr.com</a>, 2016).</p>
+<img src="img/systematic-uncertainties-sinervo.png" alt="Figure 3: Classification of measurement uncertainties (philosophy-in-figures.tumblr.com, 2016)." id="fig:systematic-uncertainties-sinervo" />
+<p class="caption">Figure 3: Classification of measurement uncertainties (<a href="http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties">philosophy-in-figures.tumblr.com</a>, 2016).</p>
 </div>
 <h3 id="examples-of-poor-estimates-of-systematic-uncertanties">Examples of poor estimates of systematic uncertanties</h3>
 <ul>
@@ -546,23 +554,152 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 </ul>
 <div class="figure">
-<img src="img/AnimatedDijet.gif" alt="Figure 3: Demonstration of sensitivity to the jet energy scale for an alleged excess in Wjj by Tommaso Dorigo (2011)." id="fig:AnimatedDijet" />
-<p class="caption">Figure 3: Demonstration of sensitivity to the jet energy scale for an alleged excess in <span class="math inline">\(Wjj\)</span> by <a href="https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886">Tommaso Dorigo (2011)</a>.</p>
+<img src="img/AnimatedDijet.gif" alt="Figure 4: Demonstration of sensitivity to the jet energy scale for an alleged excess in Wjj by Tommaso Dorigo (2011)." id="fig:AnimatedDijet" />
+<p class="caption">Figure 4: Demonstration of sensitivity to the jet energy scale for an alleged excess in <span class="math inline">\(Wjj\)</span> by <a href="https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886">Tommaso Dorigo (2011)</a>.</p>
 </div>
 <ul>
 <li>Faster-than-light neutrinos.</li>
+</ul>
+<h2 id="likelihood-principle">Likelihood principle</h2>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Likelihood_principle">Likelihood principle</a></li>
+<li>The likelihood principle is the proposition that, given a statistical model and a data sample, all the evidence relevant to model parameters is contained in the likelihood function.</li>
+<li>The history of likelihood<a href="#fn43" class="footnoteRef" id="fnref43"><sup>43</sup></a>
+<ul>
+<li>Allan Birnbaum proved that the likelihood principle follows from two more primitive and seemingly reasonable principles, the <a href="https://en.wikipedia.org/wiki/Conditionality_principle">conditionality principle</a> and the <a href="https://en.wikipedia.org/wiki/Sufficient_statistic">sufficiency principle</a>.<a href="#fn44" class="footnoteRef" id="fnref44"><sup>44</sup></a></li>
+<li>Hacking identified the &#8220;law of likelihood&#8221;.<a href="#fn45" class="footnoteRef" id="fnref45"><sup>45</sup></a></li>
+</ul></li>
+<li>Berger &amp; Wolpert. (1988). <em>The Likelihood Principle</em><a href="#fn46" class="footnoteRef" id="fnref46"><sup>46</sup></a></li>
+</ul>
+<p>O&#8217;Hagan:</p>
+<blockquote>
+<p>The first key argument in favour of the Bayesian approach can be called the axiomatic argument. We can formulate systems of axioms of good inference, and under some persuasive axiom systems it can be proved that Bayesian inference is a consequence of adopting any of these systems&#8230; If one adopts two principles known as ancillarity and sufficiency principles, then under some statement of these principles it follows that one must adopt another known as the likelihood principle. Bayesian inference conforms to the likelihood principle whereas classical inference does not. Classical procedures regularly violate the likelihood principle or one or more of the other axioms of good inference. There are no such arguments in favour of classical inference.<a href="#fn47" class="footnoteRef" id="fnref47"><sup>47</sup></a></p>
+</blockquote>
+<ul>
+<li>Criticisms:
+<ul>
+<li>Evans<a href="#fn48" class="footnoteRef" id="fnref48"><sup>48</sup></a></li>
+<li>Mayo<a href="#fn49" class="footnoteRef" id="fnref49"><sup>49</sup></a></li>
+<li>Mayo: <a href="https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/">The law of likelihood and error statistics</a><a href="#fn50" class="footnoteRef" id="fnref50"><sup>50</sup></a></li>
+</ul></li>
+<li>Gandenberger
+<ul>
+<li>&#8220;A new proof of the likelihood principle&#8221;<a href="#fn51" class="footnoteRef" id="fnref51"><sup>51</sup></a></li>
+<li>Thesis: <a href="http://d-scholarship.pitt.edu/24634/"><em>Two Principles of Evidence and Their Implications for the Philosophy of Scientific Method</em></a> (2015)</li>
+<li><a href="http://gandenberger.org/research/">gandenberger.org/research</a></li>
+<li><a href="http://gandenberger.org/2014/04/28/do-frequentist-methods-violate-lp/">Do frequentist methods violate the likelihood principle?</a></li>
+</ul></li>
+<li><a href="https://en.wikipedia.org/wiki/Likelihoodist_statistics">Likelihoodist statistics</a></li>
+</ul>
+<p>Mayo:</p>
+<blockquote>
+<p>Likelihoods are vital to all statistical accounts, but they are often misunderstood because the data are fixed and the hypothesis varies. Likelihoods of hypotheses should not be confused with their probabilities. &#8230; [T]he same phenomenon may be perfectly predicted or explained by two rival theories; so both theories are equally likely on the data, even though they cannot both be true.<a href="#fn52" class="footnoteRef" id="fnref52"><sup>52</sup></a></p>
+</blockquote>
+<h2 id="statistics-wars">&#8220;Statistics Wars&#8221;</h2>
+<ul>
+<li>Carnap
+<ul>
+<li>Sznajder on the alleged evolution of Carnap&#8217;s views of inductive logic<a href="#fn53" class="footnoteRef" id="fnref53"><sup>53</sup></a></li>
+</ul></li>
+<li>David Cox</li>
+<li>Ian Hacking
+<ul>
+<li><em>Logic of Statistical Inference</em><a href="#fn54" class="footnoteRef" id="fnref54"><sup>54</sup></a></li>
+</ul></li>
+<li>Zech
+<ul>
+<li>&#8220;Comparing statistical data to Monte Carlo simulation&#8221;<a href="#fn55" class="footnoteRef" id="fnref55"><sup>55</sup></a></li>
+</ul></li>
+<li>Richard Royall
+<ul>
+<li><em>Statistical Evidence: A likelihood paradigm</em><a href="#fn56" class="footnoteRef" id="fnref56"><sup>56</sup></a></li>
+</ul></li>
+<li>Jim Berger
+<ul>
+<li>&#8220;Could Fisher, Jeffreys, and Neyman have agreed on testing?&#8221;<a href="#fn57" class="footnoteRef" id="fnref57"><sup>57</sup></a></li>
+</ul></li>
+<li>Deborah Mayo
+<ul>
+<li>&#8220;In defense of the Neyman-Pearson theory of confidence intervals&#8221;<a href="#fn58" class="footnoteRef" id="fnref58"><sup>58</sup></a></li>
+<li>Concept of &#8220;Learning from error&#8221; in <em>Error and the Growth of Experimental Knowledge</em><a href="#fn59" class="footnoteRef" id="fnref59"><sup>59</sup></a></li>
+<li>&#8220;Error statistics&#8221;<a href="#fn60" class="footnoteRef" id="fnref60"><sup>60</sup></a></li>
+<li><em>Statistical Inference as Severe Testing</em><a href="#fn61" class="footnoteRef" id="fnref61"><sup>61</sup></a></li>
+<li><a href="https://blog.apaonline.org/2019/03/07/interview-with-deborah-mayo/">Statistics Wars: Interview with Deborah Mayo</a> - APA blog</li>
+<li><a href="https://ndpr.nd.edu/news/statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/">Review of <em>SIST</em> by Prasanta S. Bandyopadhyay</a></li>
+<li><a href="https://phil-stat-wars.com/2020/05/22/lse-research-seminar-ph500-may-15/">LSE Research Seminar: Current Controversies in Phil Stat</a> (May 21, 2020)
+<ul>
+<li><a href="https://phil-stat-wars.com/2020/06/11/meeting-5-june-18/">Meeting 5</a> (June 18, 2020)</li>
+</ul></li>
+</ul></li>
+<li>Andrew Gelman
+<ul>
+<li>Beyond subjective and objective in statistics<a href="#fn62" class="footnoteRef" id="fnref62"><sup>62</sup></a></li>
+<li><a href="https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/">Confirmationist and falsificationist paradigms of science</a> - Sept. 5, 2014</li>
+<li><a href="https://statmodeling.stat.columbia.edu/2019/03/20/retire-statistical-significance-the-discussion/">Retire Statistical Significance: The discussion</a></li>
+<li><a href="https://statmodeling.stat.columbia.edu/2019/09/11/exchange-with-deborah-mayo-on-abandoning-statistical-significance/">Exchange with Deborah Mayo on abandoning statistical significance</a></li>
+<li><a href="https://statmodeling.stat.columbia.edu/2019/04/12/several-reviews-of-deborah-mayos-new-book-statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/">Several reviews of <em>SIST</em></a></li>
+</ul></li>
+<li>Larry Wasserman
+<ul>
+<li><a href="https://normaldeviate.wordpress.com/2012/07/28/statistical-principles/">Statistical Principles?</a></li>
+</ul></li>
+<li>Kevin Murphy
+<ul>
+<li>Pathologies of frequentist statistics<a href="#fn63" class="footnoteRef" id="fnref63"><sup>63</sup></a></li>
+</ul></li>
+<li>Greg Gandenberger
+<ul>
+<li><a href="http://gandenberger.org/2014/07/21/intro-to-statistical-methods/">An introduction to likelihoodist, bayesian, and frequentist methods (1/3)</a></li>
+<li>As Neyman and Pearson put it in their original presentation of the frequentist approach, &#8220;without hoping to know whether each separate hypothesis is true or false, we may search for rules to govern our behavior with regard to them, in the following which we insure that, in the long run of experience, we shall not too often be wrong&#8221; (1933, 291).</li>
+<li><a href="http://gandenberger.org/2014/07/28/intro-to-statistical-methods-2/">An introduction to likelihoodist, bayesian, and frequentist methods (2/3)</a></li>
+<li><a href="http://gandenberger.org/2014/08/26/intro-to-statistical-methods-3/">An introduction to likelihoodist, bayesian, and frequentist methods (3/3)</a></li>
+<li><a href="http://gandenberger.org/2013/10/21/against-likelihoodist-methods/">An argument against likelihoodist methods as genuine alternatives to bayesian and frequentist methods</a></li>
+<li>&#8220;Why I am not a likelihoodist&#8221;<a href="#fn64" class="footnoteRef" id="fnref64"><sup>64</sup></a></li>
+</ul></li>
+</ul>
+<div class="figure">
+<img src="img/gandenberger-thesis-venn-diagram.png" alt="Figure 5: The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference (gandenberger.org/research/, 2015)." id="fig:gandenberger-thesis-venn-diagram" />
+<p class="caption">Figure 5: The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference (<a href="http://gandenberger.org/research/">gandenberger.org/research/</a>, 2015).</p>
+</div>
+<h2 id="replication-crisis">Replication crisis</h2>
+<h3 id="introduction">Introduction</h3>
+<ul>
+<li>&#8220;Why most published research findings are false&#8221;<a href="#fn65" class="footnoteRef" id="fnref65"><sup>65</sup></a></li>
+</ul>
+<h3 id="p-value-controversy">P-value controversy</h3>
+<ul>
+<li>ASA statement on <span class="math inline">\(p\)</span>-values<a href="#fn66" class="footnoteRef" id="fnref66"><sup>66</sup></a></li>
+<li><a href="http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375">Big names in statistics want to shake up much-maligned P value</a><a href="#fn67" class="footnoteRef" id="fnref67"><sup>67</sup></a></li>
+<li><a href="https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/">Hi-Phi Nation, episode 7</a></li>
+<li>Fisher:</li>
+</ul>
+<blockquote>
+<p>[N]o isolated experiment, however significant in itself, can suffice for the experimental demonstration of any natural phenomenon; for the &#8220;one chance in a million&#8221; will undoubtedly occur, with no less and no more than its appropriate frequency, however surprised we may be that it should occur to us. In order to assert that a natural phenomenon is experimentally demonstrable we need, not an isolated record, but a reliable method of procedure. In relation to the test of significance, we may say that a phenomenon is experimentally demonstrable when we know how to conduct an experiment which will rarely fail to give us a statistically significant result.<a href="#fn68" class="footnoteRef" id="fnref68"><sup>68</sup></a></p>
+</blockquote>
+<ul>
+<li>Relationship to the LEE</li>
+<li><a href="https://en.wikipedia.org/wiki/John_Tukey">Tukey, John (1915-2000)</a>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Uncomfortable_science">Uncomfortable science</a></li>
+</ul></li>
+<li>Mayo
+<ul>
+<li><a href="https://errorstatistics.com/2019/12/13/les-stats-cest-moi-we-take-that-step-here-adopt-our-fav-word-or-phil-stat/">&#8220;Les stats, c&#8217;est moi: We take that step here!&#8221;</a></li>
+</ul></li>
+<li>Vox: <a href="https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005">What a nerdy debate about p-values shows about science&#8211;and how to fix it</a></li>
+<li>Karen Kafadar: <a href="https://magazine.amstat.org/blog/2019/12/01/kk_dec2019/">The Year in Review &#8230; And More to Come</a></li>
 </ul>
 <h2 id="data-science">Data science</h2>
 <ul>
 <li>Data science
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/John_Tukey">Tukey, John (1915-2000)</a></li>
-<li>Tukey<a href="#fn43" class="footnoteRef" id="fnref43"><sup>43</sup></a></li>
+<li>Tukey<a href="#fn69" class="footnoteRef" id="fnref69"><sup>69</sup></a></li>
 <li>Data collection, quality, analysis, archival, and reinterpretation</li>
 </ul></li>
 <li><a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis">Exploratory data analysis</a>
 <ul>
-<li><em>Exploratory Data Analysis</em> (1977)<a href="#fn44" class="footnoteRef" id="fnref44"><sup>44</sup></a></li>
+<li><em>Exploratory Data Analysis</em> (1977)<a href="#fn70" class="footnoteRef" id="fnref70"><sup>70</sup></a></li>
 </ul></li>
 <li>Look-Elsewhere Effect (LEE)
 <ul>
@@ -586,135 +723,6 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>RECAST, TODO: find ref</li>
 </ul></li>
-</ul>
-<h2 id="likelihood-principle">Likelihood principle</h2>
-<ul>
-<li><a href="http://en.wikipedia.org/wiki/Likelihood_principle">Likelihood principle</a></li>
-<li>The likelihood principle is the proposition that, given a statistical model and a data sample, all the evidence relevant to model parameters is contained in the likelihood function.</li>
-<li>The history of likelihood<a href="#fn45" class="footnoteRef" id="fnref45"><sup>45</sup></a>
-<ul>
-<li>Allan Birnbaum proved that the likelihood principle follows from two more primitive and seemingly reasonable principles, the <a href="https://en.wikipedia.org/wiki/Conditionality_principle">conditionality principle</a> and the <a href="https://en.wikipedia.org/wiki/Sufficient_statistic">sufficiency principle</a>.<a href="#fn46" class="footnoteRef" id="fnref46"><sup>46</sup></a></li>
-<li>Hacking identified the &#8220;law of likelihood&#8221;.<a href="#fn47" class="footnoteRef" id="fnref47"><sup>47</sup></a></li>
-</ul></li>
-<li>Berger &amp; Wolpert. (1988). <em>The Likelihood Principle</em><a href="#fn48" class="footnoteRef" id="fnref48"><sup>48</sup></a></li>
-</ul>
-<p>O&#8217;Hagan:</p>
-<blockquote>
-<p>The first key argument in favour of the Bayesian approach can be called the axiomatic argument. We can formulate systems of axioms of good inference, and under some persuasive axiom systems it can be proved that Bayesian inference is a consequence of adopting any of these systems&#8230; If one adopts two principles known as ancillarity and sufficiency principles, then under some statement of these principles it follows that one must adopt another known as the likelihood principle. Bayesian inference conforms to the likelihood principle whereas classical inference does not. Classical procedures regularly violate the likelihood principle or one or more of the other axioms of good inference. There are no such arguments in favour of classical inference.<a href="#fn49" class="footnoteRef" id="fnref49"><sup>49</sup></a></p>
-</blockquote>
-<ul>
-<li>Criticisms:
-<ul>
-<li>Evans<a href="#fn50" class="footnoteRef" id="fnref50"><sup>50</sup></a></li>
-<li>Mayo<a href="#fn51" class="footnoteRef" id="fnref51"><sup>51</sup></a></li>
-<li>Mayo: <a href="https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/">The law of likelihood and error statistics</a><a href="#fn52" class="footnoteRef" id="fnref52"><sup>52</sup></a></li>
-</ul></li>
-<li>Gandenberger
-<ul>
-<li>&#8220;A new proof of the likelihood principle&#8221;<a href="#fn53" class="footnoteRef" id="fnref53"><sup>53</sup></a></li>
-<li>Thesis: <a href="http://d-scholarship.pitt.edu/24634/"><em>Two Principles of Evidence and Their Implications for the Philosophy of Scientific Method</em></a> (2015)</li>
-<li><a href="http://gandenberger.org/research/">gandenberger.org/research</a></li>
-<li><a href="http://gandenberger.org/2014/04/28/do-frequentist-methods-violate-lp/">Do frequentist methods violate the likelihood principle?</a></li>
-</ul></li>
-<li><a href="https://en.wikipedia.org/wiki/Likelihoodist_statistics">Likelihoodist statistics</a></li>
-</ul>
-<p>Mayo:</p>
-<blockquote>
-<p>Likelihoods are vital to all statistical accounts, but they are often misunderstood because the data are fixed and the hypothesis varies. Likelihoods of hypotheses should not be confused with their probabilities. &#8230; [T]he same phenomenon may be perfectly predicted or explained by two rival theories; so both theories are equally likely on the data, even though they cannot both be true.<a href="#fn54" class="footnoteRef" id="fnref54"><sup>54</sup></a></p>
-</blockquote>
-<h2 id="statistics-wars">&#8220;Statistics Wars&#8221;</h2>
-<ul>
-<li>Carnap
-<ul>
-<li>Sznajder on the alleged evolution of Carnap&#8217;s views of inductive logic<a href="#fn55" class="footnoteRef" id="fnref55"><sup>55</sup></a></li>
-</ul></li>
-<li>David Cox</li>
-<li>Ian Hacking
-<ul>
-<li><em>Logic of Statistical Inference</em><a href="#fn56" class="footnoteRef" id="fnref56"><sup>56</sup></a></li>
-</ul></li>
-<li>Zech
-<ul>
-<li>&#8220;Comparing statistical data to Monte Carlo simulation&#8221;<a href="#fn57" class="footnoteRef" id="fnref57"><sup>57</sup></a></li>
-</ul></li>
-<li>Richard Royall
-<ul>
-<li><em>Statistical Evidence: A likelihood paradigm</em><a href="#fn58" class="footnoteRef" id="fnref58"><sup>58</sup></a></li>
-</ul></li>
-<li>Jim Berger
-<ul>
-<li>&#8220;Could Fisher, Jeffreys, and Neyman have agreed on testing?&#8221;<a href="#fn59" class="footnoteRef" id="fnref59"><sup>59</sup></a></li>
-</ul></li>
-<li>Deborah Mayo
-<ul>
-<li>&#8220;In defense of the Neyman-Pearson theory of confidence intervals&#8221;<a href="#fn60" class="footnoteRef" id="fnref60"><sup>60</sup></a></li>
-<li>Concept of &#8220;Learning from error&#8221; in <em>Error and the Growth of Experimental Knowledge</em><a href="#fn61" class="footnoteRef" id="fnref61"><sup>61</sup></a></li>
-<li>&#8220;Error statistics&#8221;<a href="#fn62" class="footnoteRef" id="fnref62"><sup>62</sup></a></li>
-<li><em>Statistical Inference as Severe Testing</em><a href="#fn63" class="footnoteRef" id="fnref63"><sup>63</sup></a></li>
-<li><a href="https://blog.apaonline.org/2019/03/07/interview-with-deborah-mayo/">Statistics Wars: Interview with Deborah Mayo</a> - APA blog</li>
-<li><a href="https://ndpr.nd.edu/news/statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/">Review of <em>SIST</em> by Prasanta S. Bandyopadhyay</a></li>
-<li><a href="https://phil-stat-wars.com/2020/05/22/lse-research-seminar-ph500-may-15/">LSE Research Seminar: Current Controversies in Phil Stat</a> (May 21, 2020)
-<ul>
-<li><a href="https://phil-stat-wars.com/2020/06/11/meeting-5-june-18/">Meeting 5</a> (June 18, 2020)</li>
-</ul></li>
-</ul></li>
-<li>Andrew Gelman
-<ul>
-<li>Beyond subjective and objective in statistics<a href="#fn64" class="footnoteRef" id="fnref64"><sup>64</sup></a></li>
-<li><a href="https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/">Confirmationist and falsificationist paradigms of science</a> - Sept. 5, 2014</li>
-<li><a href="https://statmodeling.stat.columbia.edu/2019/03/20/retire-statistical-significance-the-discussion/">Retire Statistical Significance: The discussion</a></li>
-<li><a href="https://statmodeling.stat.columbia.edu/2019/09/11/exchange-with-deborah-mayo-on-abandoning-statistical-significance/">Exchange with Deborah Mayo on abandoning statistical significance</a></li>
-<li><a href="https://statmodeling.stat.columbia.edu/2019/04/12/several-reviews-of-deborah-mayos-new-book-statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/">Several reviews of <em>SIST</em></a></li>
-</ul></li>
-<li>Larry Wasserman
-<ul>
-<li><a href="https://normaldeviate.wordpress.com/2012/07/28/statistical-principles/">Statistical Principles?</a></li>
-</ul></li>
-<li>Kevin Murphy
-<ul>
-<li>Pathologies of frequentist statistics<a href="#fn65" class="footnoteRef" id="fnref65"><sup>65</sup></a></li>
-</ul></li>
-<li>Greg Gandenberger
-<ul>
-<li><a href="http://gandenberger.org/2014/07/21/intro-to-statistical-methods/">An introduction to likelihoodist, bayesian, and frequentist methods (1/3)</a></li>
-<li>As Neyman and Pearson put it in their original presentation of the frequentist approach, &#8220;without hoping to know whether each separate hypothesis is true or false, we may search for rules to govern our behavior with regard to them, in the following which we insure that, in the long run of experience, we shall not too often be wrong&#8221; (1933, 291).</li>
-<li><a href="http://gandenberger.org/2014/07/28/intro-to-statistical-methods-2/">An introduction to likelihoodist, bayesian, and frequentist methods (2/3)</a></li>
-<li><a href="http://gandenberger.org/2014/08/26/intro-to-statistical-methods-3/">An introduction to likelihoodist, bayesian, and frequentist methods (3/3)</a></li>
-<li><a href="http://gandenberger.org/2013/10/21/against-likelihoodist-methods/">An argument against likelihoodist methods as genuine alternatives to bayesian and frequentist methods</a></li>
-<li>&#8220;Why I am not a likelihoodist&#8221;<a href="#fn66" class="footnoteRef" id="fnref66"><sup>66</sup></a></li>
-</ul></li>
-</ul>
-<div class="figure">
-<img src="img/gandenberger-thesis-venn-diagram.png" alt="Figure 4: The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference (gandenberger.org/research/, 2015)." id="fig:gandenberger-thesis-venn-diagram" />
-<p class="caption">Figure 4: The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference (<a href="http://gandenberger.org/research/">gandenberger.org/research/</a>, 2015).</p>
-</div>
-<h2 id="replication-crisis">Replication crisis</h2>
-<h3 id="introduction">Introduction</h3>
-<ul>
-<li>&#8220;Why most published research findings are false&#8221;<a href="#fn67" class="footnoteRef" id="fnref67"><sup>67</sup></a></li>
-</ul>
-<h3 id="p-value-controversy">P-value controversy</h3>
-<ul>
-<li>ASA statement on <span class="math inline">\(p\)</span>-values<a href="#fn68" class="footnoteRef" id="fnref68"><sup>68</sup></a></li>
-<li><a href="http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375">Big names in statistics want to shake up much-maligned P value</a><a href="#fn69" class="footnoteRef" id="fnref69"><sup>69</sup></a></li>
-<li><a href="https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/">Hi-Phi Nation, episode 7</a></li>
-<li>Fisher:</li>
-</ul>
-<blockquote>
-<p>[N]o isolated experiment, however significant in itself, can suffice for the experimental demonstration of any natural phenomenon; for the &#8220;one chance in a million&#8221; will undoubtedly occur, with no less and no more than its appropriate frequency, however surprised we may be that it should occur to us. In order to assert that a natural phenomenon is experimentally demonstrable we need, not an isolated record, but a reliable method of procedure. In relation to the test of significance, we may say that a phenomenon is experimentally demonstrable when we know how to conduct an experiment which will rarely fail to give us a statistically significant result.<a href="#fn70" class="footnoteRef" id="fnref70"><sup>70</sup></a></p>
-</blockquote>
-<ul>
-<li>Relationship to the LEE</li>
-<li><a href="https://en.wikipedia.org/wiki/John_Tukey">Tukey, John (1915-2000)</a>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Uncomfortable_science">Uncomfortable science</a></li>
-</ul></li>
-<li>Mayo
-<ul>
-<li><a href="https://errorstatistics.com/2019/12/13/les-stats-cest-moi-we-take-that-step-here-adopt-our-fav-word-or-phil-stat/">&#8220;Les stats, c&#8217;est moi: We take that step here!&#8221;</a></li>
-</ul></li>
-<li>Vox: <a href="https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005">What a nerdy debate about p-values shows about science&#8211;and how to fix it</a></li>
-<li>Karen Kafadar: <a href="https://magazine.amstat.org/blog/2019/12/01/kk_dec2019/">The Year in Review &#8230; And More to Come</a></li>
 </ul>
 <h2 id="machine-learning">Machine learning</h2>
 <h3 id="classical">Classical</h3>
@@ -747,8 +755,8 @@ D_\mathrm{KL}(p, q)
 <p>And therefore,</p>
 <p><span class="math display">\[ \mu = \mathrm{sigm}(z) = \mathrm{sigm}(\vec{w}{^{\mkern-1.5mu\mathsf{T}}}\vec{x}) \]</span></p>
 <div class="figure">
-<img src="img/logistic-regression.png" alt="Figure 5: Logistic regression." id="fig:logistic-regression" />
-<p class="caption">Figure 5: Logistic regression.</p>
+<img src="img/logistic-regression.png" alt="Figure 6: Logistic regression." id="fig:logistic-regression" />
+<p class="caption">Figure 6: Logistic regression.</p>
 </div>
 <p>From a probabilistic point of view,<a href="#fn75" class="footnoteRef" id="fnref75"><sup>75</sup></a> logistic regression can be derived from doing maximum likelihood estimation of a vector of model parameters, <span class="math inline">\(\vec{w}\)</span>, in a dot product with the input features, <span class="math inline">\(\vec{x}\)</span>, and squashed with a logistic function that yields the probability, <span class="math inline">\(\mu\)</span>, of a Bernoulli random variable, <span class="math inline">\(y \in \{0, 1\}\)</span>.</p>
 <p><span class="math display">\[ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y | \mu(\vec{x}, \vec{w})) = \mu(\vec{x}, \vec{w})^y \: (1-\mu(\vec{x}, \vec{w}))^{(1-y)} \]</span></p>
@@ -786,6 +794,11 @@ D_\mathrm{KL}(p, q)
 <li>Goodfellow et al. point out that <em>any</em> negative log-likelihood is a cross entropy between the training data and the probability distribution predicted by the model.<a href="#fn77" class="footnoteRef" id="fnref77"><sup>77</sup></a></li>
 </ul></li>
 </ul>
+<p>Again, from a probabilistic point of view, we can derive the use of multi-class cross entropy loss by starting with the Bernoulli distribution and to generalize it to multiple classes, (index by <span class="math inline">\(k\)</span>), as</p>
+<p><span class="math display">\[ p(y_k | \mu) = \mathrm{Cat}(y_k | \mu_k) = \prod_k {\mu_k}^{y_k} \label{eq:categorical_distribution} \]</span></p>
+<p>which is the categorical or multinoulli distribution.</p>
+<p>TODO: We parameterize the latent variables, <span class="math inline">\(\mu_k\)</span>, the probability of each class in a trial,</p>
+<p><span class="math display">\[ p(y_k | \vec{x}, \vec{w}) = \mathrm{Cat}(y_k | \mu_k(\vec{x}, \vec{w})) = \prod_k \mu(\vec{x}, \vec{w})^{y_k} \]</span></p>
 <h3 id="clustering">Clustering</h3>
 <ul>
 <li>Gaussian Mixture Models (GMMs)
@@ -829,8 +842,8 @@ D_\mathrm{KL}(p, q)
 <li><a href="https://www.aimyths.org/">AIMyths.com</a></li>
 </ul>
 <div class="figure">
-<img src="img/bengio-raw-to-higher-rep.png" alt="Figure 6: Raw input image is transformed into gradually higher levels of representation." id="fig:bengio-raw-to-higher-rep" />
-<p class="caption">Figure 6: Raw input image is transformed into gradually higher levels of representation.<a href="#fn86" class="footnoteRef" id="fnref86"><sup>86</sup></a></p>
+<img src="img/bengio-raw-to-higher-rep.png" alt="Figure 7: Raw input image is transformed into gradually higher levels of representation." id="fig:bengio-raw-to-higher-rep" />
+<p class="caption">Figure 7: Raw input image is transformed into gradually higher levels of representation.<a href="#fn86" class="footnoteRef" id="fnref86"><sup>86</sup></a></p>
 </div>
 <h3 id="computer-vision">Computer vision</h3>
 <p>Computer Vision (CV)</p>
@@ -882,14 +895,16 @@ D_\mathrm{KL}(p, q)
 <li>Cohen<a href="#fn102" class="footnoteRef" id="fnref102"><sup>102</sup></a></li>
 </ul>
 <h2 id="automation">Automation</h2>
-<h3 id="surrogate-models">Surrogate models</h3>
-<ul>
-<li>&#8220;The frontier of simulation-based inference&#8221;<a href="#fn103" class="footnoteRef" id="fnref103"><sup>103</sup></a></li>
-</ul>
 <h3 id="automl">AutoML</h3>
 <ul>
 <li>Neural Architecture Search (NAS)</li>
 <li>AutoML frameworks</li>
+</ul>
+<h3 id="surrogate-models">Surrogate models</h3>
+<ul>
+<li>Autoencoders, latent variables</li>
+<li>Physical constratints in loss functions</li>
+<li>&#8220;The frontier of simulation-based inference&#8221;<a href="#fn103" class="footnoteRef" id="fnref103"><sup>103</sup></a></li>
 </ul>
 <h3 id="autoscience">AutoScience</h3>
 <ul>
@@ -907,8 +922,8 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 </ul>
 <div class="figure">
-<img src="img/BDEC-scientific-method.png" alt="Figure 7: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis." id="fig:BDEC-scientific-method" />
-<p class="caption">Figure 7: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.<a href="#fn109" class="footnoteRef" id="fnref109"><sup>109</sup></a></p>
+<img src="img/BDEC-scientific-method.png" alt="Figure 8: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis." id="fig:BDEC-scientific-method" />
+<p class="caption">Figure 8: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.<a href="#fn109" class="footnoteRef" id="fnref109"><sup>109</sup></a></p>
 </div>
 <h2 id="implications-for-the-realism-debate">Implications for the realism debate</h2>
 <ul>
@@ -1515,34 +1530,34 @@ D_\mathrm{KL}(p, q)
 <li id="fn40"><p><span class="citation">Cowan, Cranmer, Gross, &amp; Vitells (2011)</span>.<a href="#fnref40">&#8617;</a></p></li>
 <li id="fn41"><p><span class="citation">Murphy (2012)</span>, p.&#160;197.<a href="#fnref41">&#8617;</a></p></li>
 <li id="fn42"><p><span class="citation">Sinervo (2003)</span>.<a href="#fnref42">&#8617;</a></p></li>
-<li id="fn43"><p><span class="citation">Tukey (1962)</span>.<a href="#fnref43">&#8617;</a></p></li>
-<li id="fn44"><p><span class="citation">Tukey (1977)</span>.<a href="#fnref44">&#8617;</a></p></li>
-<li id="fn45"><p><span class="citation">Edwards (1974)</span>.<a href="#fnref45">&#8617;</a></p></li>
-<li id="fn46"><p><span class="citation">Birnbaum (1962)</span>.<a href="#fnref46">&#8617;</a></p></li>
-<li id="fn47"><p><span class="citation">Hacking (1965)</span>.<a href="#fnref47">&#8617;</a></p></li>
-<li id="fn48"><p><span class="citation">Berger &amp; Wolpert (1988)</span>.<a href="#fnref48">&#8617;</a></p></li>
-<li id="fn49"><p><span class="citation">O&#8217;Hagan (2010)</span>, p.&#160;17&#8211;18.<a href="#fnref49">&#8617;</a></p></li>
-<li id="fn50"><p><span class="citation">Evans (2013)</span>.<a href="#fnref50">&#8617;</a></p></li>
-<li id="fn51"><p><span class="citation">Mayo (2014)</span>.<a href="#fnref51">&#8617;</a></p></li>
+<li id="fn43"><p><span class="citation">Edwards (1974)</span>.<a href="#fnref43">&#8617;</a></p></li>
+<li id="fn44"><p><span class="citation">Birnbaum (1962)</span>.<a href="#fnref44">&#8617;</a></p></li>
+<li id="fn45"><p><span class="citation">Hacking (1965)</span>.<a href="#fnref45">&#8617;</a></p></li>
+<li id="fn46"><p><span class="citation">Berger &amp; Wolpert (1988)</span>.<a href="#fnref46">&#8617;</a></p></li>
+<li id="fn47"><p><span class="citation">O&#8217;Hagan (2010)</span>, p.&#160;17&#8211;18.<a href="#fnref47">&#8617;</a></p></li>
+<li id="fn48"><p><span class="citation">Evans (2013)</span>.<a href="#fnref48">&#8617;</a></p></li>
+<li id="fn49"><p><span class="citation">Mayo (2014)</span>.<a href="#fnref49">&#8617;</a></p></li>
+<li id="fn50"><p><span class="citation">Mayo (2019)</span>.<a href="#fnref50">&#8617;</a></p></li>
+<li id="fn51"><p><span class="citation">Gandenberger (2015)</span>.<a href="#fnref51">&#8617;</a></p></li>
 <li id="fn52"><p><span class="citation">Mayo (2019)</span>.<a href="#fnref52">&#8617;</a></p></li>
-<li id="fn53"><p><span class="citation">Gandenberger (2015)</span>.<a href="#fnref53">&#8617;</a></p></li>
-<li id="fn54"><p><span class="citation">Mayo (2019)</span>.<a href="#fnref54">&#8617;</a></p></li>
-<li id="fn55"><p><span class="citation">Sznajder (2018)</span>.<a href="#fnref55">&#8617;</a></p></li>
-<li id="fn56"><p><span class="citation">Hacking (1965)</span>.<a href="#fnref56">&#8617;</a></p></li>
-<li id="fn57"><p><span class="citation">Zech (1995)</span>.<a href="#fnref57">&#8617;</a></p></li>
-<li id="fn58"><p><span class="citation">Royall (1997)</span>.<a href="#fnref58">&#8617;</a></p></li>
-<li id="fn59"><p><span class="citation">Berger (2003)</span>.<a href="#fnref59">&#8617;</a></p></li>
-<li id="fn60"><p><span class="citation">Mayo (1981)</span>.<a href="#fnref60">&#8617;</a></p></li>
-<li id="fn61"><p><span class="citation">Mayo (1996)</span>.<a href="#fnref61">&#8617;</a></p></li>
-<li id="fn62"><p><span class="citation">Mayo &amp; Spanos (2011)</span>.<a href="#fnref62">&#8617;</a></p></li>
-<li id="fn63"><p><span class="citation">Mayo (2018)</span>.<a href="#fnref63">&#8617;</a></p></li>
-<li id="fn64"><p><span class="citation">Gelman &amp; Hennig (2017)</span>.<a href="#fnref64">&#8617;</a></p></li>
-<li id="fn65"><p><span class="citation">Murphy (2012)</span>, ch.&#160;6.6.<a href="#fnref65">&#8617;</a></p></li>
-<li id="fn66"><p><span class="citation">Gandenberger (2016)</span>.<a href="#fnref66">&#8617;</a></p></li>
-<li id="fn67"><p><span class="citation">Ioannidis (2005)</span>.<a href="#fnref67">&#8617;</a></p></li>
-<li id="fn68"><p><span class="citation">Wasserstein &amp; Lazar (2016)</span>.<a href="#fnref68">&#8617;</a></p></li>
-<li id="fn69"><p><span class="citation">Benjamin, D.J. et al. (2017)</span>.<a href="#fnref69">&#8617;</a></p></li>
-<li id="fn70"><p><span class="citation">Fisher (1935)</span>, p.&#160;13&#8211;14.<a href="#fnref70">&#8617;</a></p></li>
+<li id="fn53"><p><span class="citation">Sznajder (2018)</span>.<a href="#fnref53">&#8617;</a></p></li>
+<li id="fn54"><p><span class="citation">Hacking (1965)</span>.<a href="#fnref54">&#8617;</a></p></li>
+<li id="fn55"><p><span class="citation">Zech (1995)</span>.<a href="#fnref55">&#8617;</a></p></li>
+<li id="fn56"><p><span class="citation">Royall (1997)</span>.<a href="#fnref56">&#8617;</a></p></li>
+<li id="fn57"><p><span class="citation">Berger (2003)</span>.<a href="#fnref57">&#8617;</a></p></li>
+<li id="fn58"><p><span class="citation">Mayo (1981)</span>.<a href="#fnref58">&#8617;</a></p></li>
+<li id="fn59"><p><span class="citation">Mayo (1996)</span>.<a href="#fnref59">&#8617;</a></p></li>
+<li id="fn60"><p><span class="citation">Mayo &amp; Spanos (2011)</span>.<a href="#fnref60">&#8617;</a></p></li>
+<li id="fn61"><p><span class="citation">Mayo (2018)</span>.<a href="#fnref61">&#8617;</a></p></li>
+<li id="fn62"><p><span class="citation">Gelman &amp; Hennig (2017)</span>.<a href="#fnref62">&#8617;</a></p></li>
+<li id="fn63"><p><span class="citation">Murphy (2012)</span>, ch.&#160;6.6.<a href="#fnref63">&#8617;</a></p></li>
+<li id="fn64"><p><span class="citation">Gandenberger (2016)</span>.<a href="#fnref64">&#8617;</a></p></li>
+<li id="fn65"><p><span class="citation">Ioannidis (2005)</span>.<a href="#fnref65">&#8617;</a></p></li>
+<li id="fn66"><p><span class="citation">Wasserstein &amp; Lazar (2016)</span>.<a href="#fnref66">&#8617;</a></p></li>
+<li id="fn67"><p><span class="citation">Benjamin, D.J. et al. (2017)</span>.<a href="#fnref67">&#8617;</a></p></li>
+<li id="fn68"><p><span class="citation">Fisher (1935)</span>, p.&#160;13&#8211;14.<a href="#fnref68">&#8617;</a></p></li>
+<li id="fn69"><p><span class="citation">Tukey (1962)</span>.<a href="#fnref69">&#8617;</a></p></li>
+<li id="fn70"><p><span class="citation">Tukey (1977)</span>.<a href="#fnref70">&#8617;</a></p></li>
 <li id="fn71"><p><span class="citation">Hastie, Tibshirani, &amp; Friedman (2009)</span>.<a href="#fnref71">&#8617;</a></p></li>
 <li id="fn72"><p><span class="citation">MacKay (2003)</span>.<a href="#fnref72">&#8617;</a></p></li>
 <li id="fn73"><p><span class="citation">Vapnik, Levin, &amp; LeCun (1994)</span>.<a href="#fnref73">&#8617;</a></p></li>
@@ -1612,7 +1627,7 @@ D_\mathrm{KL}(p, q)
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Thu Jul 30, 2020</p>
+    <p>Sun Aug 02, 2020</p>
   </div>
   <div class="license">
     <p>&#169; 2014-2020 Ryan Reece. All rights reserved.</p>
