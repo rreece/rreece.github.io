@@ -253,15 +253,35 @@ magnified the discussion, when he claims that
 -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
 -   TODO: move some of this discussion to the next sections on instrumentalism and postpositivism.
 
-Rovelli:
-
->   Our arguments have to be about the world we experience,
->   not about a world made of paper. [^Rovelli2003]
-
 Einstein:
 
 >   As far as the laws of mathematics refer to reality, they are not certain;
 >   and as far as they are certain, they do not refer to reality. [^Einstein1922]
+
+[^Khlentzos2011-2]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
+[^Poincare1913p351]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 351.
+[^Einstein1922]: @Einstein_1922_Geometry_and_Experience\.
+[^Wray2018]: @Wray_2018_Resisting_Scientific_Realism\.
+
+
+### Superseded theories in science
+
+-   [Superseded theories in science](https://en.wikipedia.org/wiki/Superseded_theories_in_science)
+-   Aristotelian physics
+-   Ptolemaic solar system
+-   Phlogiston theory
+-   &eacute;lan vital
+-   relationship to pessimistic meta-induction
+
+
+### Realist rebutals
+
+-   [Frost-Arnold, G. (2020). One way to test scientific realism. *Obscure and Confused Ideas* (blog).](http://obscureandconfused.blogspot.com/2020/08/one-way-to-test-scientific-realism.html)
+
+Rovelli:
+
+>   Our arguments have to be about the world we experience,
+>   not about a world made of paper. [^Rovelli2003]
 
 Schumm:
 
@@ -280,22 +300,8 @@ Schumm:
 >   mathematics and natural science far exceeds the self-contained boundaries
 >   within which it was first developed. [^Schumm2004]
 
-[^Khlentzos2011-2]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
-[^Poincare1913p351]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 351.
 [^Rovelli2003]: @Rovelli_2003_A_dialog_on_quantum_gravity\, p. 5.
-[^Einstein1922]: @Einstein_1922_Geometry_and_Experience\.
 [^Schumm2004]: @Schumm_2004_Deep_Down_Things\, p. 144.
-[^Wray2018]: @Wray_2018_Resisting_Scientific_Realism\.
-
-
-### Superseded theories in science
-
--   [Superseded theories in science](https://en.wikipedia.org/wiki/Superseded_theories_in_science)
--   Aristotelian physics
--   Ptolemaic solar system
--   Phlogiston theory
--   &eacute;lan vital
--   relationship to pessimistic meta-induction
 
 
 Instrumentalism
