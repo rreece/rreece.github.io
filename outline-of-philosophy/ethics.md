@@ -19,6 +19,7 @@ Virtue ethics
 -   See the discussion of [Stoicism](http://rreece.github.io/outline-of-philosophy/human-condition.html#stoicism).
 -   Aristotle
 -   Stoicism
+-   Philippa Foot (1920-2010)
 
 
 Deontological ethics
@@ -162,6 +163,21 @@ Protests and (non-)violence
 
 -   MLK, etc.
 -   Osterweil, V. (2014). [In defense of looting](https://thenewinquiry.com/in-defense-of-looting). August 21, 2014.
+
+
+Regret
+--------------------------------------------------------------------------------
+
+-   Thoreau
+-   Marino, G. (2016). [What's the use of regret?](https://www.nytimes.com/2016/11/13/opinion/whats-the-use-of-regret.html)
+-   Pigliucci, M. (2016). [What's the point of regret?](https://howtobeastoic.wordpress.com/2016/11/25/whats-the-point-of-regret/)
+-   Danaher, J. (2019). [The wisdom of regret and the fallacy of regret minimisation](https://philosophicaldisquisitions.blogspot.com/2019/01/the-wisdom-of-regret-and-fallacy-of.html).
+
+
+Forgiveness
+--------------------------------------------------------------------------------
+
+-   TODO
 
 
 My thoughts
@@ -309,6 +325,7 @@ Click to show links
 -   [Evolutionary Game Theory](http://plato.stanford.edu/entries/game-evolutionary/)
 -   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
 -   [Fitting Attitude Theories of Value](http://plato.stanford.edu/entries/fitting-attitude-theories/)
+-   [Foot, Philippa (1920-2010)](https://plato.stanford.edu/entries/philippa-foot/)
 -   [Game Theory and Ethics](http://plato.stanford.edu/entries/game-ethics/)
 -   [Grounds of Moral Status](http://plato.stanford.edu/entries/grounds-moral-status/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)

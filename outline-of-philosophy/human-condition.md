@@ -814,6 +814,7 @@ Related:
     -   [Aristippus](https://en.wikipedia.org/wiki/Aristippus) (435-356 BCE)
     -   [Cyrenaic school](https://en.wikipedia.org/wiki/Cyrenaics)
     -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
+    -   Pigliucci, M. (2019). [Epic battles in practical ethics: Stoicism vs Epicureanism](https://medium.com/stoicism-philosophy-as-a-way-of-life/epic-battles-in-practical-ethics-stoicism-vs-epicureanism-dc124e8dc9).
 -   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
     -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
     -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
