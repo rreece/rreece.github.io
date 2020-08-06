@@ -106,7 +106,7 @@ Statistical physics
 TODO:
 
 -   The goal of statistical mechanics.
--   How statistical mechanics can be seen a pure mathematics.
+-   How statistical mechanics can be seen as pure mathematics.
 -   Statistical mechanics and thermodynamics
 -   Entropy
 

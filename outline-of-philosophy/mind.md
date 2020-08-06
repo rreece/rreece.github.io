@@ -54,7 +54,9 @@ Physicalism
 -   Materialism
 -   See the outline on [Naturalism](naturalism.html).
 -   Descartes and Elisabeth, Princess of Bohemia
+-   Marx
 -   Churchland's
+-   Nail
 -   Ney
 
 
@@ -100,7 +102,7 @@ Annotated bibliography
 --------------------------------------------------------------------------------
 
 
-### Nagel, T. (1974). What Is it Like to Be a Bat?
+### Nagel, T. (1974). What is it like to be a bat?
 
 -   @Nagel_1974_What_is_it_like_to_be_a_bat
 
@@ -111,7 +113,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Dennett, D. (1991). Consciousness Explained.
+### Dennett, D. (1991). *Consciousness Explained*.
 
 -   @Dennett_1991_Consciousness_Explained
 
@@ -122,7 +124,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Chalmers, D. (1996). The Conscious Mind: In Search of a Fundamental Theory.
+### Chalmers, D. (1996). *The Conscious Mind: In Search of a Fundamental Theory*.
 
 -   @Chalmers_1996_The_Conscious_Mind_In_Search_of_a_Fundamental
 
@@ -133,7 +135,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Kurzweil, R. (2012). How to Create a Mind.
+### Kurzweil, R. (2012). *How to Create a Mind*.
 
 -   @Kurzweil_2012_How_to_Create_a_Mind
 

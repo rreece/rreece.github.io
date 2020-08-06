@@ -71,7 +71,8 @@ Moral realism
 -   Structuralism
 -   Game/decision theory, again
 -   "The problem of what to do next" - David Deutsch ([yt](https://www.youtube.com/watch?v=J21QuHrIqXg), [txt](http://www.bretthall.org/david-deutsch--sam-harris.html))
--   Victor Kraft (1880-1975) - the positivist with ethics!
+-   Victor Kraft (1880-1975)
+    -   The positivist with ethics!
 -   Ethical naturalism
     -   See the outline on [Naturalism](naturalism.html#ethical-naturalism).
 -   Murdoch, Iris. (1999). *The Sovereignty of Good*.
