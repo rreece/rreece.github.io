@@ -48,7 +48,7 @@ Schwartz, M.D. (2014). *Quantum Field Theory and the Standard Model*. Cambridge 
 Seidewitz, E. (2017). Avoiding Haag's Theorem with Parameterized Quantum Field Theory. *Foundations of Physics*, 47(3), 355--374.
 Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.
 Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, III. https://space.mit.edu/home/tegmark/everett/
-Teller, Paul (1997). *An Interpretive Introduction to Quantum Field Theory*. Princeton University Press.
+Teller, P. (1997). *An Interpretive Introduction to Quantum Field Theory*. Princeton University Press.
 't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. World Scientific.
 't Hooft, G. (2007). Lie Groups in Physics. http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf
 Tong, D. (2006). Lectures on Quantum Field Theory. https://www.damtp.cam.ac.uk/user/tong/qft.html
