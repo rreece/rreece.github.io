@@ -242,12 +242,17 @@ Pedagogy:
 -   Peskin and Schroeder [^Peskin1995]
 -   Zee [^Zee2013]
 -   Schwartz [^Schwartz2014]
--   David Tong
+-   David Tong [^Tong2006]
+-   Zeidler, vol 1 [^Zeidler2007], 2 [^Zeidler2008], and 3 [^Zeidler2011]
 
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
 [^Feynman1965]: @Feynman_1965_The_Development_of_the_Space_Time_View_of_Quantum\.
 [^Schwartz2014]: @Schwartz_2014_Quantum_Field_Theory_and_the_Standard_Model\.
+[^Tong2006]: @Tong_2006_Lectures_on_Quantum_Field_Theory\.
 [^Zee2013]: @Zee_2003_Quantum_Field_Theory_in_a_Nutshell\.
+[^Zeidler2007]: @Zeidler_2007_Quantum_field_theory_I_Basics_in_mathematics\.
+[^Zeidler2008]: @Zeidler_2008_Quantum_field_theory_II_Quantum_electrodynamics\.
+[^Zeidler2011]: @Zeidler_2011_Quantum_Field_Theory_III_Gauge_theory_Vol3\.
 
 
 ### Spin-statistics theorem
