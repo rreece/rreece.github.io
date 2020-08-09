@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Sat Aug 08, 2020" />
+  <meta name="date" content="Sun Aug 09, 2020" />
   <title>Philosophy of statistics - Ryan&#8217;s Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#8217;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -745,6 +745,14 @@ D_\mathrm{KL}(p, q)
     &amp;= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \nonumber \\
     &amp;= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss} \\
 \end{align}\]</span>
+<p>which is the <strong>cross entropy loss</strong>. Note that the first term is non-zero only when the true target is <span class="math inline">\(y_i=1\)</span>, and similarly the second term is non-zero only when <span class="math inline">\(y_i=0\)</span>. Therefore, we can reparametrize the target <span class="math inline">\(y_i\)</span> in favor of <span class="math inline">\(t_{ki}\)</span> that is one-hot in an index <span class="math inline">\(k\)</span> over classes.</p>
+<p><span class="math display">\[ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ki} \, \log \mu_{ki} \big) \label{eq:cross_entropy_loss2} \]</span></p>
+<p>where</p>
+<p><span class="math display">\[ t_{ki} = \delta_{k{y_i}} = \begin{cases} 1 &amp; \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i = 1) \\ 0 &amp; \mathrm{otherwise} \end{cases} \]</span></p>
+<p>and</p>
+<p><span class="math display">\[ \mu_{ki} = \begin{cases} 1-\mu_i &amp; \mathrm{if}\ k = 0 \\ \mu_i &amp; \mathrm{if}\ k =1 \end{cases} \]</span></p>
+<p>This readily generalizes from binary classification to classification over many classes, where now we have an activation, <span class="math inline">\(\mu_k\)</span>, for each class. In the sum over classes, <span class="math inline">\(k\)</span>, only one term for the true class contributes (Note: &#8220;label smoothing&#8221; is a regularization technique that smears the activation over other labels).</p>
+<p><span class="math display">\[ \mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss3} \]</span></p>
 <hr />
 <p>Logistic regression uses the <strong>logit function</strong>,<a href="#fn75" class="footnoteRef" id="fnref75"><sup>75</sup></a> which is the logarithm of the odds&#8212;the ratio of the chance of success to failure. Let <span class="math inline">\(\mu\)</span> be the probability of success in a Bernoulli trial, then the logit function is defined as</p>
 <p><span class="math display">\[ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \label{eq:logit} \]</span></p>
@@ -774,7 +782,7 @@ D_\mathrm{KL}(p, q)
     &amp;= - \sum_i \log p(y_i | \vec{x}_i, \vec{w}) \nonumber \\
     &amp;= - \sum_i \log\left( \mu(\vec{x}_i, \vec{w})^{y_i} \: (1-\mu(\vec{x}_i, \vec{w}))^{(1-y_i)} \right) \nonumber \\
     &amp;= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \nonumber \\
-    &amp;= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss} \\
+    &amp;= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big)
 \end{align}\]</span>
 <p>which is the <strong>cross entropy loss</strong>. Note that the first term is non-zero only when the true target is <span class="math inline">\(y_i=1\)</span>, and similarly the second term is non-zero only when <span class="math inline">\(y_i=0\)</span>. Therefore, we can reparametrize the target <span class="math inline">\(y_i\)</span> in favor of <span class="math inline">\(t_{ki}\)</span> that is one-hot in an index <span class="math inline">\(k\)</span> over classes.</p>
 <p><span class="math display">\[ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ki} \, \log \mu_{ki} \big) \label{eq:cross_entropy_loss2} \]</span></p>
@@ -1641,7 +1649,7 @@ D_\mathrm{KL}(p, q)
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Sat Aug 08, 2020</p>
+    <p>Sun Aug 09, 2020</p>
   </div>
   <div class="license">
     <p>&#169; 2014-2020 Ryan Reece. All rights reserved.</p>

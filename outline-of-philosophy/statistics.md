@@ -792,6 +792,30 @@ The negative log-likelihood of multiple trials is
     &= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss} \\
 \end{align}
 
+which is the **cross entropy loss**.
+Note that the first term is non-zero only when the true target is $y_i=1$,
+and similarly the second term is non-zero only when  $y_i=0$.
+Therefore, we can reparametrize the target $y_i$ in favor of $t_{ki}$ that
+is one-hot in an index $k$ over classes.
+
+$$ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ki} \, \log \mu_{ki} \big) \label{eq:cross_entropy_loss2} $$
+
+where
+
+$$ t_{ki} = \delta_{k{y_i}} = \begin{cases} 1 & \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i = 1) \\ 0 & \mathrm{otherwise} \end{cases} $$
+
+and
+
+$$ \mu_{ki} = \begin{cases} 1-\mu_i & \mathrm{if}\ k = 0 \\ \mu_i & \mathrm{if}\ k =1 \end{cases} $$
+
+This readily generalizes from binary classification to classification over many classes,
+where now we have an activation, $\mu_k$, for each class.
+In the sum over classes, $k$, only one term for the true class contributes
+(Note: "label smoothing" is a regularization technique that smears the activation
+over other labels).
+
+$$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss3} $$
+
 ----------
 
 Logistic regression uses the **logit function** [^Berkson],
@@ -853,7 +877,7 @@ The negative log-likelihood of multiple trials is
     &= - \sum_i \log p(y_i | \vec{x}_i, \vec{w}) \nonumber \\
     &= - \sum_i \log\left( \mu(\vec{x}_i, \vec{w})^{y_i} \: (1-\mu(\vec{x}_i, \vec{w}))^{(1-y_i)} \right) \nonumber \\
     &= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \nonumber \\
-    &= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss} \\
+    &= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big)
 \end{align}
 
 which is the **cross entropy loss**.
