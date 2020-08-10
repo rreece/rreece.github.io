@@ -795,26 +795,17 @@ The negative log-likelihood of multiple trials is
 which is the **cross entropy loss**.
 Note that the first term is non-zero only when the true target is $y_i=1$,
 and similarly the second term is non-zero only when  $y_i=0$.
-Therefore, we can reparametrize the target $y_i$ in favor of $t_{ki}$ that
-is one-hot in an index $k$ over classes.
+Let us reparametrize the problem in terms of multiple Bernoulli means, $\mu_k$,
+where we constrain the total mean probability over classes to be normalized
+by defining $\mu_2 = 1 - \mu_1$ and $y_2 = 1 - y_1$, then
 
-$$ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ki} \, \log \mu_{ki} \big) \label{eq:cross_entropy_loss2} $$
-
-where
-
-$$ t_{ki} = \delta_{k{y_i}} = \begin{cases} 1 & \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i = 1) \\ 0 & \mathrm{otherwise} \end{cases} $$
-
-and
-
-$$ \mu_{ki} = \begin{cases} 1-\mu_i & \mathrm{if}\ k = 0 \\ \mu_i & \mathrm{if}\ k =1 \end{cases} $$
+$$ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( y_{ki} \, \log \mu_{ki} \big) \label{eq:cross_entropy_loss2} $$
 
 This readily generalizes from binary classification to classification over many classes,
 where now we have an activation, $\mu_k$, for each class.
-In the sum over classes, $k$, only one term for the true class contributes
-(Note: "label smoothing" is a regularization technique that smears the activation
-over other labels).
+In the sum over classes, $k$, only one term for the true class contributes [^NoteLabelSmoothing]
 
-$$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss3} $$
+$$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_{ki}=1} \label{eq:cross_entropy_loss3} $$
 
 ----------
 
@@ -935,6 +926,8 @@ to [@eq:cross_entropy_loss3].
 [^Goodfellow2016p129]: @Goodfellow_2016_Deep_Learning\, p. 129.
 [^McFadden1973]: @McFadden_1973_Conditional_logit_analysis_of_qualitative_choice\.
 [^Murphy2012p21]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 21.
+[^NoteLabelSmoothing]: Note: _Label smoothing_ is a regularization technique that smears the
+    activation over other labels, but we don't do that here.
 
 
 ### Clustering
