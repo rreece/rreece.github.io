@@ -179,7 +179,8 @@ Regret
 Forgiveness
 --------------------------------------------------------------------------------
 
--   TODO
+-   Everett L. Worthington Jr.
+-   Wade, N. (2020). [Forgive and be free](https://aeon.co/essays/forgiveness-therapy-can-free-you-from-the-hurts-of-the-past).
 
 
 My thoughts
