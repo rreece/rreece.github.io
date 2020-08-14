@@ -45,8 +45,6 @@ van Inwagen:
 >   they had mastered "the physical ones", the books about nature or the natural
 >   world. [^vanInwagen2014]
 
-[^vanInwagen2014]: @vanInwagen_2014_Metaphysics\.
-
 Stealing from encyclopedia.com:
 
 >   In medieval and modern philosophy "metaphysics" has also been taken to mean the study
@@ -65,6 +63,11 @@ Stealing from encyclopedia.com:
 >   thing, property, event; the distinctions between particulars and universals,
 >   individuals and classes; the nature of relations, change, causation; and the nature of mind,
 >   matter, space, and time.
+
+-   Timothy Williamson, T. (2020). [What is metaphysics?](https://www.thebritishacademy.ac.uk/blog/what-is-metaphysics/)
+
+[^vanInwagen2014]: @vanInwagen_2014_Metaphysics\.
+
 
 
 Realism and antirealism
