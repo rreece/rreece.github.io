@@ -154,6 +154,12 @@ Feynman:
 [^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
 
 
+### Industrial Revolution
+
+-   Muehlhauser, L. (2017). [Three wild speculations from amateur quantitative macrohistory](http://lukemuehlhauser.com/three-wild-speculations-from-amateur-quantitative-macrohistory/).
+-   Muehlhauser, L. (2017). [How big a deal was the Industrial Revolution?](http://lukemuehlhauser.com/industrial-revolution/)
+
+
 Abrahamism
 --------------------------------------------------------------------------------
 
@@ -243,6 +249,7 @@ Hinduism
 
 -   Katz & Egenes translation of the Upanishads [^Katz2015]
 -   McEvilley, T. (2002). *The Shape of Ancient Thought: Comparative studies in Greek and Indian philosophies*. [^McEvilley2002-hinduism]
+-   Muehlhauser, L. (2010). [Ancient Indian Philosophy: A Painless Introduction Ancient Indian Philosophy](http://lukemuehlhauser.com/ancient-indian-philosophy-a-painless-introduction/).
 
 #### Other stuff
 
