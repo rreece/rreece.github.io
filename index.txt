@@ -21,10 +21,12 @@ Get my r&eacute;sum&eacute; or CV:
 News
 --------------------------------------------------------------------------------
 
+-   Nov 2019: [Cerebras reveals its first product at Supercomputering 2019: the poweful CS-1 computer for AI](https://www.cerebras.net/a-successful-week-for-cerebras-at-supercomputing-2019/).
+-   Aug 2019: [Cerebras reveals its Wafer Scale Engine (WSE) at HotChips 2019](https://www.cerebras.net/wafer-scale-deep-learning-hot-chips-2019-presentation/). 
 -   May 2019: Collaborators at Cerebras and I publish a new normalization
     technique, OnlineNorm, for training deep neural networks with small batch sizes
     ([arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
--   April 2018: I join Cerebras Systems as a machine learning engineer.
+-   Apr 2018: I join Cerebras Systems as a machine learning engineer.
 
 <div class="clickmore"><a id="link:news-more" class="closed" onclick="toggle_more('news-more')">Old news</a></div>
 <div id="news-more" class="more">
