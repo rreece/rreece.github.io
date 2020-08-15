@@ -26,7 +26,7 @@ News
 -   May 2019: Collaborators at Cerebras and I publish a new normalization
     technique, OnlineNorm, for training deep neural networks with small batch sizes
     ([arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
--   Apr 2018: I join Cerebras Systems as a machine learning engineer.
+-   Apr 2018: I join [Cerebras Systems](https://www.cerebras.net/) as a machine learning engineer.
 
 <div class="clickmore"><a id="link:news-more" class="closed" onclick="toggle_more('news-more')">Old news</a></div>
 <div id="news-more" class="more">
