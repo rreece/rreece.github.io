@@ -2,13 +2,37 @@
 ### Research interests
 
 -   High-performance computing
--   Data science and visualization
 -   Machine learning: deep neural nets, anomaly detection
+-   Large-scale language modeling
+-   Data science and visualization
 -   Statistical inference
--   Searches for new physics
+-   Searches for new physics (GUTs & SUSY)
 -   Measuring properties of the Higgs boson
--   Hadronic tau reconstruction and identification
+-   Reconstruction and identification of hadronic decays of tau leptons
 -   Philosophy of science and science communication
+
+Previously as a graduate student at Penn,
+working with [ATLAS Experiment](https://atlas.cern/)
+at [CERN](https://home.cern/),
+I helped commission the Transition Radiation Tracker (TRT),
+a sub-detector of the ATLAS tracker,
+during the start-up of the Large Hadron Collider (LHC) in 2009-2012.
+On July 4 of 2012, the 
+[ATLAS](https://arxiv.org/abs/1207.7214) and 
+[CMS](https://arxiv.org/abs/1207.7235) experiments both 
+[announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
+a key to explaining electroweak symmetry breaking in the
+[Standard Model](https://en.wikipedia.org/wiki/Standard_Model)
+of particle physics.
+
+I continued to work in the ATLAS Experiment as a postdoc at the
+[Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/),
+I've spent 10 years romping through datasets from ATLAS,
+learning how to explore and model large, multidimentional datasets.
+I have a knack for [developing data analysis frameworks](http://rreece.github.io/sw/)
+and an eye for technical detail and [good scholarship](http://rreece.github.io/publications/).
+I am passionate about using scientific techniques to solve important problems
+and about how technologies extend our reach.
 
 ![A display of a $pp$ &rarr; $tt$ &rarr; $bb\mu\tau$ event in ATLAS in 2011.](img/ATLAS-ttbar-tau.png)
 
@@ -33,6 +57,7 @@ reconstruction and other classification problems.
 
 ### Current projects I am focused on
 
+-   Large-scale language modeling
 -   Deep learning performance
 -   Hyperparameter optimization
 -   Understanding techniques for clustering and anomaly detection

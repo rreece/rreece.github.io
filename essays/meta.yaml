@@ -4,7 +4,7 @@ output: essays
 title: 'Essays by Ryan Reece'
 titleshort: 'Essays by Ryan Reece'
 #subtitle: 'This is the subtitle'
-authorshort: Ryan Reece
+authorshort: '[Ryan Reece](http://rreece.github.io/)'
 author1: Ryan Reece
 email1: ryan.reece@cern.ch
 homepage1: http://rreece.github.io/

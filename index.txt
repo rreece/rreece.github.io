@@ -7,29 +7,12 @@ Hi!  I'm Ryan.
 I am a former postdoctoral researcher at the [Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/),
 who worked with the [ATLAS experiment](https://atlas.cern/) at [CERN](http://home.cern/).
 
-I have experience in data science, pattern recognition, statistical modeling,
-statistical inference, petabyte data reduction, and machine learning.
+I have experience in deep learning, large-scale language modeling,
+machine learning, pattern recognition, statistical modeling,
+data science, and petabyte data reduction.
 
-Previously as a graduate student at Penn,
-also with ATLAS, I helped commission the Transition Radiation Tracker (TRT),
-a sub-detector of the ATLAS tracker,
-during the start-up of the Large Hadron Collider (LHC) in 2009-2012.
-On July 4 of 2012, the 
-[ATLAS](https://arxiv.org/abs/1207.7214) and 
-[CMS](https://arxiv.org/abs/1207.7235) experiments both 
-[announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
-a key to explaining electroweak symmetry breaking in the
-[Standard Model](https://en.wikipedia.org/wiki/Standard_Model)
-of particle physics.
-
-I've spent 10 years romping through datasets from ATLAS,
-learning how to explore and model large, multidimentional datasets.
-I have a knack for [developing data analysis frameworks](http://rreece.github.io/sw/)
-and an eye for technical detail and [good scholarship](http://rreece.github.io/publications/).
-I am passionate about using scientific techniques to solve important problems
-and about how technologies extend our reach.
-
-Read more about my [research here](research/). Get my r&eacute;sum&eacute; or CV:
+Read more about [my research here](research/).        
+Get my r&eacute;sum&eacute; or CV:
 
 -   brief r&eacute;sum&eacute;: <i class="far fa-file" style="font-size:20px;"></i> [html](../docs/Ryan-Reece-resume.html), <i class="far fa-file-pdf" style="font-size:20px;"></i> [pdf](../docs/Ryan-Reece-resume.pdf)
 -   full academic curriculum vitae: <i class="far fa-file" style="font-size:20px;"></i> [html](../docs/Ryan-Reece-cv.html), <i class="far fa-file-pdf" style="font-size:20px;"></i> [pdf](../docs/Ryan-Reece-cv.pdf)
