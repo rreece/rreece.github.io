@@ -21,12 +21,12 @@ Get my r&eacute;sum&eacute; or CV:
 News
 --------------------------------------------------------------------------------
 
--   Nov 2019: [Cerebras reveals its first product at Supercomputering 2019: the poweful CS-1 computer for AI](https://www.cerebras.net/a-successful-week-for-cerebras-at-supercomputing-2019/).
--   Aug 2019: [Cerebras reveals its Wafer Scale Engine (WSE) at HotChips 2019](https://www.cerebras.net/wafer-scale-deep-learning-hot-chips-2019-presentation/). 
--   May 2019: Collaborators at Cerebras and I publish a new normalization
+-   Nov 2019: [Cerebras revealed its first product at Supercomputering 2019: the poweful CS-1 computer for AI](https://www.cerebras.net/a-successful-week-for-cerebras-at-supercomputing-2019/).
+-   Aug 2019: [Cerebras revealed its Wafer Scale Engine (WSE) at HotChips 2019](https://www.cerebras.net/wafer-scale-deep-learning-hot-chips-2019-presentation/). 
+-   May 2019: Collaborators at Cerebras and I published a new normalization
     technique, OnlineNorm, for training deep neural networks with small batch sizes
     ([arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
--   Apr 2018: I join [Cerebras Systems](https://www.cerebras.net/) as a machine learning engineer.
+-   Apr 2018: I joined [Cerebras Systems](https://www.cerebras.net/) as a machine learning engineer.
 
 <div class="clickmore"><a id="link:news-more" class="closed" onclick="toggle_more('news-more')">Old news</a></div>
 <div id="news-more" class="more">
@@ -34,7 +34,7 @@ News
     I am awarded a 6 month fellowship, US ATLAS Scholar,
     to be at Lawrence Berkeley National Laboratory (LBL) in Berkeley, CA,
     continuing collaboration with the ATLAS Experiment.
--   July 2013: I start a postdoctoral fellowship with the
+-   July 2013: I started a postdoctoral fellowship with the
     Santa Cruz Institute for Particle Physics (SCIPP)
     at UC Santa Cruz.
 -   July 2013: I defended my PhD at Penn.
