@@ -64,7 +64,7 @@ Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ImageNet classification wi
 Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53. http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf
 #LeCun, Y., Boser, B., Denker, J.S., Henderson, D., Howard, R.E., Hubbard, W., & Jackel, L.D. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1(4), 541--551. http://www.ics.uci.edu/~welling/teaching/273ASpring09/lecun-89e.pdf
 LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1(4), 541--551. http://www.ics.uci.edu/~welling/teaching/273ASpring09/lecun-89e.pdf
-LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. *Proceedings of the IEEE*, 86(11), 2278--2324. http://www.dengfanxin.cn/wp-content/uploads/2016/03/1998Lecun.pdf
+LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. *Proceedings of the IEEE*, 86(11), 2278--2324. http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
 LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436-44.
 Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep learning. https://arxiv.org/abs/1805.10451
 Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
