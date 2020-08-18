@@ -539,6 +539,12 @@ Criticisms of naturalism
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
+-   Culture wars
+    -   2 + 2 = 5 Twitter controversy
+        -   <https://twitter.com/kareem_carr/status/1288991602069970946>
+        -   <https://twitter.com/EpiEllie/status/1291744508376383488>
+        -   <https://twitter.com/kareem_carr/status/1295765400236498949>
+
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
 [^McManus2020]: @McManus_2020_Myth_and_mayhem_A_leftist_critique_of_Jordan\.
