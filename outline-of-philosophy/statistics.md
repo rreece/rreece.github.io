@@ -961,7 +961,7 @@ to [@eq:cross_entropy_loss3].
     -   Hubinger, E. (2019). [Understanding "Deep Double Descent"](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent). *LessWrong*.
 -   Others
     -   "The explanation game: A formal framework for interpretable machine learning" [^Watson2019]
--   [AIMyths.com](https://www.aimyths.org/)
+    -   [AIMyths.com](https://www.aimyths.org/)
 
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
 
@@ -1016,15 +1016,26 @@ Reinforcement learning (RL)
 Theoretical machine learning
 --------------------------------------------------------------------------------
 
--   No free lunch theorem
-    -   Inductive bias
-    -   Yudkowsky, E. (2007). "[Inductive bias](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias)". *LessWrong*.
-    -   Hamilton, L.D. (2014). "[The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms)".
--   Relationship to statistical mechanics [^Bahri2020]
-    -   Logistic/softmax and Boltzman factors
--   Relationship to gauge theory
+### No free lunch theorem
+
+-   Inductive bias
+-   Yudkowsky, E. (2007). "[Inductive bias](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias)". *LessWrong*.
+-   Hamilton, L.D. (2014). "[The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms)".
+
+
+### ML's relationship to statistical mechanics
+
+-   Logistic/softmax and Boltzman factors
+-   Bahri [^Bahri2020]
+-   Halverson [^Halverson2020]
 
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
+[^Halverson2020]: @Halverson_2020_Neural_networks_and_quantum_field_theory\.
+
+
+### ML's relationship to gauge theory
+
+-   Cohen
 
 
 Information geometry
