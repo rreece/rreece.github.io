@@ -1010,7 +1010,9 @@ Natural language processing (NLP)
 
 ### Reinforcement learning
 
-Reinforcement learning (RL)
+-   Sutton & Barto [^Sutton2018]
+
+[^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
 
 
 Theoretical machine learning

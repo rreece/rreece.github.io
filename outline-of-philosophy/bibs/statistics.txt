@@ -109,6 +109,7 @@ Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the phys
 Stahlberg, F. (2019). Neural machine translation: A review. https://arxiv.org/abs/1912.02047
 Stuart, A., Ord, K., & Arnold, S. (2010). *Kendall's Advanced Theory of Statistics, Vol 2A: Classical Inference and the Linear Model*. Wiley.
 Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning with neural networks. *Advances in Neural Information Processing Systems*, 2014, 3104--3112. https://arxiv.org/abs/1409.3215
+Sutton, R.S., & Barto, A.G. (2018). *Reinforcement Learning*. MIT Press.
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
 Tukey, J.W. (1962). The future of data analysis. *The Annals of Mathematical Statistics*, 33(1), 1--67.
