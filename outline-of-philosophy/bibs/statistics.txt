@@ -54,7 +54,7 @@ Hacking, I. (1971). Jacques Bernoulli's Art of conjecturing. *The British Journa
 Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambridge University Press.
 Halverson, J., Maiti, A., & Stoner, K. (2020). Neural networks and quantum field theory. https://arxiv.org/abs/2008.08601
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
-Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation, 9(8), 1735--1780.
+Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation*, 9(8), 1735--1780.
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
 Ioannidis, J.P. (2005). Why most published research findings are false. *PLos Medicine*, 2(8), 696--701.
 James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
