@@ -64,8 +64,10 @@ Stealing from encyclopedia.com:
 >   individuals and classes; the nature of relations, change, causation; and the nature of mind,
 >   matter, space, and time.
 
--   Timothy Williamson, T. (2020). [What is metaphysics?](https://www.thebritishacademy.ac.uk/blog/what-is-metaphysics/)
+-   Quine, W.V.O. (1948). On what there is. [^Quine1948]
+-   Williamson, T. (2020). [What is metaphysics?](https://www.thebritishacademy.ac.uk/blog/what-is-metaphysics/)
 
+[^Quine1948]: @Quine_1948_On_what_there_is\.
 [^vanInwagen2014]: @vanInwagen_2014_Metaphysics\.
 
 
@@ -432,8 +434,8 @@ Comte on the unknowability of the composition of stars:
 
 (He was wrong!)
 
--   Gottlob Frege
-    -   Sense and reference
+-   Gottlob Frege (1848-1925)
+    -   Sense and reference (1892)
 -   Bertrand Russell & Afred North Whitehead
 -   *Principia Mathematica* (1910)
 -   George Edward Moore
@@ -1233,6 +1235,7 @@ Click to show links
 -   [Eliminative Materialism](http://plato.stanford.edu/entries/materialism-eliminative/)
 -   [Feyerabend, Paul (1924-1994)](http://plato.stanford.edu/entries/feyerabend/)
 -   [Feminist Epistemology and Philosophy of Science](https://plato.stanford.edu/entries/feminism-epistemology/)
+-   [Frege, Gottlob (1848-1925)](https://plato.stanford.edu/entries/frege/)
 -   [Fundamentality](https://plato.stanford.edu/entries/fundamentality/)
 -   [Goodman, Nelson (1906-1998)](https://plato.stanford.edu/entries/goodman/)
 -   [Historicist Theories of Scientific Rationality](http://plato.stanford.edu/entries/rationality-historicist/)

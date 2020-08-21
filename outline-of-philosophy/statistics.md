@@ -542,6 +542,8 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 -   Difference of two means: $t$-test
 -   A/B-testing
 -   New physics
+    -   [Slides by Me, Ryan Reece: "ATLAS, data reduction, and epistemology"](http://rreece.github.io/talks/pdf/2016-11-29-RReece-ATLAS-Epistemology.pdf)
+    -   [Talk by Tommaso Dorigo: "Frequentist Statistics, the Particle Physicists' Way"](https://www.youtube.com/watch?v=NA5u5X23QLo)
 
 
 Systematic uncertainties
