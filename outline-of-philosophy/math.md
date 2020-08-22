@@ -54,13 +54,15 @@ Algebra
 -   Kronecker, Leopold (1823-1891)
 -   arithmetic vs abstract algebra
 -   [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
-    -   [&Eacute;variste Galois (1811-1832))](https://en.wikipedia.org/wiki/%C3%89variste_Galois)
+    -   [&Eacute;variste Galois (1811-1832)](https://en.wikipedia.org/wiki/%C3%89variste_Galois)
     -   [Sporadic group](https://en.wikipedia.org/wiki/Sporadic_group)
     -   [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups)
-    -   there are 26 sporadic simple groups (27 if you count the Tits group)
+    -   Elwes, R. (2006). [An enormous theorem: the classification of finite simple groups](https://plus.maths.org/content/enormous-theorem-classification-finite-simple-groups).
+    -   YouTube 3Blue1Brown: [Group theory and why I love 808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000,000](https://www.youtube.com/watch?v=mH0oCDa74tE).
+    -   There are 26 sporadic simple groups (27 if you count the Tits group)
 -   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
     -   [Sophus Lie (1842-1899)](https://en.wikipedia.org/wiki/Sophus_Lie)
-    -   [Schwichtenberg, J. (XXXX). Classification of Simple Lie Groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/)
+    -   [Schwichtenberg, J. (XXXX). Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
 -   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
 -   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
