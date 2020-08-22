@@ -1195,6 +1195,7 @@ Nihilism
 -   Nietzsche
 -   [Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade) (1740-1814)
 -   Brassier [^Brassier2007]
+-   Dahl, R. (2017). [Optimistic nihilism](https://tinyclouds.org/optimistic_nihilism/).
 
 [^Brassier2007]: @Brassier_2007_Nihil_Unbound\.
 
