@@ -942,6 +942,9 @@ to [@eq:cross_entropy_loss3].
     -   GLMs
 -   EM algorithm
     -   $k$-means
+-   [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
+    -   [Stein's paradox](https://en.wikipedia.org/wiki/Stein%27s_example)
+    -   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
 
 
 ### Deep learning

@@ -785,6 +785,7 @@ Click to show links
 -   [Measurement in Quantum Theory](http://plato.stanford.edu/entries/qt-measurement/)
 -   [Philosophical Issues in Quantum Theory](http://plato.stanford.edu/entries/qt-issues/)
 -   [Poincar&eacute;, Henri (1854-1912)](https://plato.stanford.edu/entries/poincare/)
+-   [Quantum-Bayesian and Pragmatist Views of Quantum Theory](https://plato.stanford.edu/entries/quantum-bayesian/)
 -   [Quantum Entanglement and Information](http://plato.stanford.edu/entries/qt-entangle/)
 -   [Quantum Field Theory](http://plato.stanford.edu/entries/quantum-field-theory/)
 -   [Quantum Field Theory, History of](http://plato.stanford.edu/entries/quantum-field-theory/qft-history.html)

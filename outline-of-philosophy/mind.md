@@ -58,6 +58,11 @@ Physicalism
 -   Churchland's
 -   Nail
 -   Ney
+-   Sean Carroll on QFT and experimental high energy physics ruling out
+    the role of any newphysics in the functioning of the brain.
+    -   <https://twitter.com/RyanDavidReece/status/1285682311112122370>
+    -   [YouTube: Is there free will? | David Eagleman and Lex Fridman](https://www.youtube.com/watch?v=8f92iPYmiGY&t=298)
+    -   See also: [Bracketing human experience](physics.html#bracketing-human-experience)
 
 
 Panpsychism
