@@ -1092,6 +1092,8 @@ Automation
 -   "Symbolic pregression: Discovering physical laws from raw distorted video." [^Udrescu2020]
 -   "Discovering symbolic models from deep learning with inductive biases." [^Cranmer2020]
     -   Video: [Discussion by Yannic Kilcher](https://www.youtube.com/watch?v=LMb5tvW-UoQ)
+-   See also: [Artificial intelligence](http://rreece.github.io/outline-of-philosophy/future.html#artificial-intelligence)
+    in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
 
 ![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis. [^Asch2018fig]](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
 

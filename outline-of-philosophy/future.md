@@ -31,6 +31,8 @@ Technological growth
 -   Simulation argument [^Bostrom2003] and patch [^Bostrom2011]
 -   [Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 -   The AI Revolution: The Road to Superintelligence [^WaitButWhy2015]
+-   See also: [Industrial Revolution](human-condition.html#industrial-revolution)
+    in the [Outline on the human condition](human-condition.html).
 
 [^Bostrom2003]: @Bostrom_2003_Are_you_living_in_a_computer_simulation\.
 [^Bostrom2011]: @Bostrom_2011_A_patch_for_the_simulation_argument\.
@@ -44,6 +46,8 @@ Artificial intelligence
 -   Russell & Norvig [^Russell1995]
 -   Video: Carroll, S. & Russell, S. (2020). [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
 -   Russell: AI gives us the Midas touch
+-   See also: [Machine learning](http://rreece.github.io/outline-of-philosophy/statistics.html#machine-learning)
+    in the [Outline on the philosophy of statistics](http://rreece.github.io/outline-of-philosophy/statistics.html).
 
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 

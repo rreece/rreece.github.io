@@ -158,6 +158,8 @@ Feynman:
 
 -   Muehlhauser, L. (2017). [Three wild speculations from amateur quantitative macrohistory](http://lukemuehlhauser.com/three-wild-speculations-from-amateur-quantitative-macrohistory/).
 -   Muehlhauser, L. (2017). [How big a deal was the Industrial Revolution?](http://lukemuehlhauser.com/industrial-revolution/)
+-   See also: [Technological growth](http://rreece.github.io/outline-of-philosophy/future.html#technological-growth)
+    in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
 
 
 Abrahamism
