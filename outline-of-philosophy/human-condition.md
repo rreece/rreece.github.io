@@ -1293,6 +1293,7 @@ Click to show links
 -   [Seneca (4 BCE - 65 CE)](http://plato.stanford.edu/entries/seneca/)
 -   [Stoicism](http://plato.stanford.edu/entries/stoicism/)
 -   [Suicide](http://plato.stanford.edu/entries/suicide/)
+-   [Two truths doctrine](https://plato.stanford.edu/entries/twotruths-india/)
 -   [Vasubandhu](https://plato.stanford.edu/entries/vasubandhu/)
 
 ### IEP
@@ -1373,6 +1374,7 @@ Click to show links
 -   [Heidegger, Martin (1889-1976)](https://en.wikipedia.org/wiki/Martin_Heidegger)
 -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
 -   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
+-   [Impermanence](https://en.wikipedia.org/wiki/Impermanence)
 -   [Kama](https://en.wikipedia.org/wiki/Kama)
 -   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
 -   [Karma in Hinduism](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
@@ -1417,6 +1419,7 @@ Click to show links
 -   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
 -   [Tillich, Paul (1886-1965)](https://en.wikipedia.org/wiki/Paul_Tillich)
+-   [Two truths doctrine](https://en.wikipedia.org/wiki/Two_truths_doctrine)
 -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
 -   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu)
 -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
