@@ -359,9 +359,9 @@ otherwise usually showing Sanskrit if only one translation is given.
 #### Important initial concepts
 
 -   Buddhism is generally considered to be n&amacr;stika---a heterodox break from Hinduism.
--   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) (Madhyam&amacr;pratipada)
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
+-   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) (Madhyam&amacr;pratipada)
 -   [Sangha](https://en.wikipedia.org/wiki/Sangha) - (monastic) "community"; called _parisa_ if including lay followers.
 
 #### Three marks of existence
@@ -595,9 +595,15 @@ Other stuff:
         -   [D&omacr;gen](https://en.wikipedia.org/wiki/D%C5%8Dgen) (1200-1253)
 -   [Korean Buddhism](https://en.wikipedia.org/wiki/Korean_Buddhism)
         -   [Seon](https://en.wikipedia.org/wiki/Korean_Seon) - "Ch&aacute;n" in Korea
--   South-asian support for Mah&amacr;y&amacr;na Buddhism:
+-   Mah&amacr;y&amacr;na Buddhism in southern Asia:
     -   [David J. Kalupahana](https://en.wikipedia.org/wiki/David_Kalupahana) (1936-2014)
 -   [Buddhism in the West](https://en.wikipedia.org/wiki/Buddhism_in_the_West)
+    -   [&Eacute;tienne Lamotte](https://en.wikipedia.org/wiki/%C3%89tienne_Lamotte) (1903-1983)
+    -   [Plum Village Tradition](https://en.wikipedia.org/wiki/Plum_Village_Tradition) (founded in France in 1982)
+        -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
+        -   [Engaged Buddhism](https://en.wikipedia.org/wiki/Engaged_Buddhism)
+        -   [Ch&acirc;n Ph&acirc;p H&utilde;'u](https://plumvillage.org/monastics/dharma-teachers/br-phap-huu/) (b. 1987)
+        -   [Dharma teachers at the Plum Village](https://plumvillage.org/about/dharma-teachers/)
     -   [Buddhism in the United States](https://en.wikipedia.org/wiki/Buddhism_in_the_United_States)
         -   In 1893, the first J&omacr;do Shinsh&umacr; monks arrived in San Francisco,
             and they established the Buddhist Missions of North America,
@@ -605,12 +611,8 @@ Other stuff:
         -   [Paul Carus](https://en.wikipedia.org/wiki/Paul_Carus) (1852-1919)
         -   [Soyen Shaku](https://en.wikipedia.org/wiki/Soyen_Shaku) (1860-1919)
         -   [Shunry&umacr; Suzuki](https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki) (1904-1971)
+        -   [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) (1915-1973)
         -   [Institute of Buddhist Studies](https://www.shin-ibs.edu/about/history/), Berkeley, CA
-    -   [Plum Village Tradition](https://en.wikipedia.org/wiki/Plum_Village_Tradition) (founded in France in 1982)
-        -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
-        -   [Ch&acirc;n Ph&acirc;p H&utilde;'u](https://plumvillage.org/monastics/dharma-teachers/br-phap-huu/) (b. 1987)
-        -   [Dharma teachers at the Plum Village](https://plumvillage.org/about/dharma-teachers/)
-    -   [Engaged Buddhism](https://en.wikipedia.org/wiki/Engaged_Buddhism)
 
 #### Doctrines
 
@@ -934,7 +936,7 @@ decidedly not naturalistic:
 >   because they had modified their merely human mode of being,
 >   were capable of a more than merely human kind and amount of knowledge. [^Huxley1945p5]
 
-[^EsotericKnowledge]: See discussion of non-naturalistic "esoteric knowledge" in the [Outline on naturalism](naturalism.html#what-is-naturalism)
+[^EsotericKnowledge]: See discussion of non-naturalistic "esoteric knowledge" in the [Outline on naturalism](naturalism.html#what-is-naturalism).
 [^Huxley1945]: @Huxley_1945_The_Perennial_Philosophy\.
 [^Huxley1945p5]: @Huxley_1945_The_Perennial_Philosophy\, p. 5--6.
 [^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.
@@ -1016,6 +1018,7 @@ Biology
 -   We have about 3 billion heartbeats: 80 years $\approx 2.5 \times 10^9$ seconds.
 -   Kagan [^Kagan2012]
 -   Hitchens [^Hitchens2012]
+-   See also: [Terror management theory](human-condition.html#terror-management-theory).
 
 [^Hitchens2012]: @Hitchens_2012_Mortality\.
 [^Kagan2012]: @Kagan_2012_Death\.
@@ -1033,6 +1036,7 @@ TODO:
 -   Pavlov
 -   ...
 
+
 ### Cognitive behavioral therapy
 
 -   [Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
@@ -1043,6 +1047,13 @@ TODO:
         personal metaphysics is necessary/benefitial to cognitive and psychological
         stability?
     -   TODO: what does this say about the is-ought problem?
+
+
+### Terror management theory
+
+-   Terror management theory (TMT)
+-   Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski
+-   See also: [Mortality](human-condition.html#mortality).
 
 
 (A)theism
