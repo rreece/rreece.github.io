@@ -312,8 +312,10 @@ Logicism
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
 -   Antirealist?, relationship with positivism?
 -   Russsell expresses support for the platonic "universals" [^Russell1912p91]
+-   Shapiro [^Shapiro2000]
 
 [^Russell1912p91]: @Russell_1912_The_Problems_of_Philosophy\, p. 91--118.
+[^Shapiro2000]: @Shapiro_2000_Thinking_about_Mathematics_The_Philosophy\.
 [^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.
 
 
