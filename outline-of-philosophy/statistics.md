@@ -254,6 +254,7 @@ Foundations of statistics
 -   Cowan [^Cowan1998]
 -   Lista [^Lista2016]
 -   Cranmer [^Cranmer2015]
+-   Cranmer, K. (2020). [Statistics and Data Science](https://cranmer.github.io/stats-ds-book/intro.html).
 -   Weisberg [^Weisberg2019]
 
 [^Cousins2018]: @Cousins_2018_Lectures_on_statistics_in_theory_Prelude\.
