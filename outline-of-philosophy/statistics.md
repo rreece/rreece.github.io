@@ -236,6 +236,7 @@ Foundations of statistics
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
 -   [Jeffreys, Harold](https://en.wikipedia.org/wiki/Harold_Jeffreys) (1891-1989)
     -   objective (non-informative) Jeffreys priors
+-   Glivenko-Cantelli-theorem
 
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
 [^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.

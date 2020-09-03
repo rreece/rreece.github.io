@@ -56,6 +56,7 @@ Physicalism
 -   Descartes and Elisabeth, Princess of Bohemia
 -   Marx
 -   Churchland's
+-   Montero [^Montero1999]
 -   Nail
 -   Ney
 -   Sean Carroll on QFT and experimental high energy physics ruling out
@@ -63,6 +64,8 @@ Physicalism
     -   <https://twitter.com/RyanDavidReece/status/1285682311112122370>
     -   [YouTube: Is there free will? | David Eagleman and Lex Fridman](https://www.youtube.com/watch?v=8f92iPYmiGY&t=298)
     -   See also: [Bracketing human experience](physics.html#bracketing-human-experience)
+
+[^Montero1999]: @Montero_1999_The_Body_Problem\.
 
 
 Panpsychism

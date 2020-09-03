@@ -582,6 +582,7 @@ Dewey:
     -   *The Continuum of Inductive Methods* [^Carnap1952]
     -   "The aim of inductive logic" [^Carnap1966]
     -   "Notes on probability and induction" [^Carnap1973]
+-   Note that philosophical induction is not [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
 
 [^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
 [^Carnap1950b]: @Carnap_1950_Logical_Foundations_of_Probability\.
@@ -815,24 +816,32 @@ Sagan:
 ### Yes: Models of science
 
 -   Hypothetico-deductive model
+    -   Nola & Sankey [^Nola2007pX]
 -   Positivism, verificationism
     -   Auguste Comte, Ernst Mach, David Hilbert, Rudolf Carnap
 -   Deductive-nomological model
     -   Hempel, C.G. & Oppenheim, P. (1948): "Studies in the logic of explanation" [^Hempel1948]
     -   Covering law model
     -   Logical empiricism
+    -   See French [^French2007pX]
 -   Falsification, deductivism
     -   Karl Popper
     -   *The Logic of Scientific Discovery* [^Popper1959]
 -   Pragmatic model
     -   C.S. Peirce
+    -   Nola & Sankey [^Nola2007pXX]
 -   Normal vs revolutionary science
     -   Thomas Kuhn
     -   *The Structure of Scientific Revolutions* [^Kuhn1962]
+    -   Paradigm shifts
+-   Lakatos: Scientific Research Programs (SRPs)
+-   Laudan: normative naturalism.
 -   Distinction between [exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
     and [confirmatory data analysis](https://en.wikipedia.org/wiki/Confirmatory_data_analysis)
     -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   See the [Outline of philosophy of statistics](http://rreece.github.io/outline-of-philosophy/statistics.html#exploratory-data-analysis)
+-   Bayesian methodology
+    -   TODO
 -   Error-catching filters
     -   Ladyman: Error-catching filters [^Ladyman2007]
     -   community, honesty, openness
@@ -841,23 +850,35 @@ Sagan:
     -   Evidence based, anti-conspiracy, parsimony
     -   Madsen, M.E. (2017). [The real core of the scientific method and why we should trust it](http://notebook.madsenlab.org/essays/2017/06/23/core-scientific-method.html).
     -   Nola [^Nola1999]
-    -   Nola & Sankey [^Nola2007]
-    -   Scientism
+    -   Nola & Sankey [^Nola2007pXXX]
+-   Scientism
+    -   Scientism: Scientific methods and meta-methods are universally applicable (in principle).
     -   See the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
 
+[^French2007pX]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. TODO.
 [^Hempel1948]: @Hempel_1948_Studies_in_the_logic_of_explanation\.
 [^Kuhn1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^NewtonpX]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\, p. TODO.
 [^Nola1999]: @Nola_1999_On_the_possibility_of_a_scientific_theory\.
-[^Nola2007]: @Nola_2007_Theories_of_Scientific_Method\.
+[^Nola2007pX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
+[^Nola2007pXX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
+[^Nola2007pXXX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
 [^Popper1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
 
 
 ### No: There is no unified "scientific method"
 
--   *Against Method* [^Feyerabend1974]
+-   Kuhn
+    -   Paradigm shifts as a kind of pessimism
+    -   Incommensurability: the language and theories of different paradigms cannot be translated into one another or rationally evaluated against one another.
+    -   Later Kuhn is more nuanced. [^Nola2007p6]
+-   Feyerabend
+    -   "Anything goes"
+    -   *Against Method* [^Feyerabend1974]
+    -   Like Kuhn, later Feyerabend is more nuanced.
+    -   Nola and Sankey argue that in later writings Feyerabend backtracked. [^Nola2007p5]
 -   McComas
     -   "Ten myths of science: Reexamining what we think about the nature of science" [^McComas1996]
     -   "The principal elements of the nature of science: Dispelling myths" [^McComas2002]
@@ -875,6 +896,8 @@ Sagan:
 [^McComas1996]: @McComas_1996_Ten_myths_of_science_Reexamining_what_we_think_we\.
 [^McComas2002]: @McComas_2002_The_principal_elements_of_the_nature_of_science\.
 [^McComas2008]: @McComas_2008_Seeking_historical_examples_to_illustrate_key\.
+[^Nola2007p5]: @Nola_2007_Theories_of_Scientific_Method\, p. 5.
+[^Nola2007p6]: @Nola_2007_Theories_of_Scientific_Method\, p. 6.
 
 
 Knowledge and realism
