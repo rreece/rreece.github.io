@@ -282,6 +282,7 @@ Weinberg:
 -   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
 -   [Hilbert, David (1862-1943)](https://en.wikipedia.org/wiki/David_Hilbert)
 -   [Curie, Marie (1867-1934)](https://en.wikipedia.org/wiki/Marie_Curie)
+-   [Rutherford, Ernest (1871-1937)](https://en.wikipedia.org/wiki/Ernest_Rutherford)
 -   [Einstein, Albert (1879-1955)](https://en.wikipedia.org/wiki/Albert_Einstein)
 -   [Born, Max (1882-1970)](https://en.wikipedia.org/wiki/Max_Born)
 -   [Bohr, Niels (1885-1962)](https://en.wikipedia.org/wiki/Niels_Bohr)
@@ -292,15 +293,18 @@ Weinberg:
 -   [Jordan, Pascual (1902-1980)](https://en.wikipedia.org/wiki/Pascual_Jordan)
 -   [Dirac, Paul (1902-1984)](https://en.wikipedia.org/wiki/Paul_Dirac)
 -   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
--   ...
+
 
 ### Modern statistics
 
+-   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
 -   [Pearson, Karl (1857-1936)](https://en.wikipedia.org/wiki/Karl_Pearson)
 -   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
 -   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
 -   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
 -   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
+-   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+
 
 ### Computer science
 
