@@ -337,7 +337,12 @@ Point estimation and confidence intervals
 -   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
 -   estimators
 -   regression
--   Accuracy vs precision [^Cowan1998pX]
+    -   Accuracy vs precision [^Cowan1998pX]
+-   classification
+    -   Precision vs recall
+    -   Recall is sensitivity
+    -   Sensitivity vs specificity
+    -   Accuracy
 
 
 ### Bias and variance
@@ -430,12 +435,12 @@ TODO:
 -   Variance of MLEs by the method of $\Delta\chi^2$ or $\Delta{}L$
     -   Invariance of likelihoods to reparametrization
 -   Uncertainty of measuring an efficiency
-    -   Precision vs recall for classification
-    -   Classification and logistic regression
     -   Normal/Gaussian/Wald interval
     -   Clopper-Pearson interval [^Clopper1934]
     -   [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(statistics)) [^Hanley1983]
     -   Review by Brown, Cai, & DasGupta [^Brown2001]
+    -   Precision vs recall for classification, again
+    -   Classification and logistic regression
 
 [^Brown2001]: @Brown_2001_Interval_estimation_for_a_binomial_proportion\.
 [^Clopper1934]: @Clopper_1934_The_use_of_confidence_or_fiducial_limits\.
