@@ -414,7 +414,7 @@ TODO:
 
 -   Least squares from MLE of gaussian models: $\chi^2$
 -   Ordinary Least Squares (OLS)
--   interpretation
+-   Geometric interpretation
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 
@@ -423,6 +423,7 @@ TODO:
 
 -   Taylor expansion of a likelihood near its maximum
 -   Analytic variance of gaussian likelihoods: $\chi^2$
+    -   Wald approximation
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
     -   for unbiased and efficient estimators
     -   proof in Rice [^Rice2007p300]
@@ -431,7 +432,12 @@ TODO:
 -   Uncertainty of measuring an efficiency
     -   Precision vs recall for classification
     -   Classification and logistic regression
+    -   Normal/Gaussian/Wald interval
+    -   Clopper-Pearson interval [^Clopper1934]
+    -   Review by Brown, Cai, & DasGupta [^Brown2001]
 
+[^Brown2001]: @Brown_2001_Interval_estimation_for_a_binomial_proportion\.
+[^Clopper1934]: @Clopper_1934_The_use_of_confidence_or_fiducial_limits\.
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
     @Rao_1945_Information_and_the_accuracy_attainable\, and
