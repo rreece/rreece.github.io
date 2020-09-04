@@ -512,6 +512,7 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 ### Student's $t$-test
 
 -   ANOVA
+-   A/B-testing
 
 
 ### CLs method
