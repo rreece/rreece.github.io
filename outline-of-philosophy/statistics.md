@@ -434,6 +434,7 @@ TODO:
     -   Classification and logistic regression
     -   Normal/Gaussian/Wald interval
     -   Clopper-Pearson interval [^Clopper1934]
+    -   [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(statistics)) [^Hanley1983]
     -   Review by Brown, Cai, & DasGupta [^Brown2001]
 
 [^Brown2001]: @Brown_2001_Interval_estimation_for_a_binomial_proportion\.
@@ -442,6 +443,7 @@ TODO:
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
     @Rao_1945_Information_and_the_accuracy_attainable\, and
     @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
+[^Hanley1983]: @Hanley_1983_If_nothing_goes_wrong_is_everything_all_right\.
 [^Rice2007p300]: @Rice_2007_Mathematical_Statistics_and_Data_Analysis\, p. 300--2.
 
 
@@ -1347,6 +1349,7 @@ Click to show links
 -   [P-value](https://en.wikipedia.org/wiki/P-value)
 -   [Rao, C.R. (b. 1920)](https://en.wikipedia.org/wiki/C._R._Rao)
 -   [Replication crisis](https://en.wikipedia.org/wiki/Replication_crisis)
+-   [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(statistics))
 -   [Savage, Leonard Jimmie (1917-1971)](https://en.wikipedia.org/wiki/Leonard_Jimmie_Savage)
 -   [Solomonoff, Ray (1926-2009)](https://en.wikipedia.org/wiki/Ray_Solomonoff)
 -   [Solomonoff's theory of inductive inference](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference)

@@ -55,6 +55,7 @@ Hacking, I. (1965). *Logic of Statistical Inference*. Cambridge University Press
 Hacking, I. (1971). Jacques Bernoulli's Art of conjecturing. *The British Journal for the Philosophy of Science*, 22, 209--229.
 Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambridge University Press.
 Halverson, J., Maiti, A., & Stoner, K. (2020). Neural networks and quantum field theory. https://arxiv.org/abs/2008.08601
+Hanley, J.A. & Lippman-Hand, A. (1983). If nothing goes wrong, is everything all right?: Interpreting zero numerators. *JAMA*, 249(13), 1743--1745.
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
 Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation*, 9(8), 1735--1780.
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
