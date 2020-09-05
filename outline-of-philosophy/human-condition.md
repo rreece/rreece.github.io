@@ -680,6 +680,11 @@ Other stuff:
 [^Williams2009]: @Williams_2009_Mahayana_Buddhism_The_doctrinal_foundations\.
 
 
+![*Blind monks examining an elephant*, an ukiyo-e print by Hanabusa Itcho (1652-1724)
+    (source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Blind_monks_examining_an_elephant.jpg)).
+    ](img/Hanabusa-Blind-monks-examining-an-elephant.jpg){#fig:Hanabusa-Blind-monks-examining-an-elephant}
+
+
 ### Vajray&amacr;na Buddhism
 
 -   Sanskrit: "Thunderbolt Vehicle"
