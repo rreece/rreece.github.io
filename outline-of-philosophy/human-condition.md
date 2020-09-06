@@ -752,9 +752,9 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   Dao - unplanned rhythms of the universe called "the way"
 -   struggle between order and chaos
 -   [Wuxing](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)) - "Five Elements"
--   *Zhuangzi*
--   *Dao De Jing* - Laozi (c. 500 BCE)
 -   *Yijing* (also romanized as *I Ching*) - "Book of Changes"  (c. 900 BCE)
+-   *Dao De Jing* - Laozi (c. 500 BCE)
+-   *Zhuangzi* - Zhuang Zhou (c. 369-286 BCE)
 -   Yijing Studies by Bradford Hatcher at [hermetica.info](https://www.hermetica.info/)
 -   *Dazhuan* - "The Great Commentary"
 
