@@ -530,9 +530,11 @@ Other stuff:
     -   [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN)
         -   [Mah&amacr;parinibb&amacr;na Sutta](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta)
     -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN)
+        -   [Kacc&amacr;nagotta Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) - "On Right View" (SN 12.15)
         -   [Sabba Sutta](https://suttacentral.net/sn35.23/en/bodhi) or "Discourse on Everything" (SN 35.23)
     -   [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN)
-        -   [Kesamutti Sutta](https://en.wikipedia.org/wiki/Kesamutti_Sutta)
+        -   [Kesamutti Sutta](https://en.wikipedia.org/wiki/Kesamutti_Sutta) ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html))
+        -   [Arakenanusasani Sutta](https://www.accesstoinsight.org/tipitaka/an/an07/an07.070.than.html) - On the finiteness and shortness of life (AN 7.70)
         -   [Uttaravipatti Sutta](https://suttacentral.net/an8.8/en/bodhi) - "Uttara on Failing" (AN 8.8)
     -   [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN)
         -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
@@ -577,6 +579,8 @@ Online Suttas:
     others the path, bringing them in the Great Vehicle as well.
 -   Mah&amacr;y&amacr;na, in a somewhat pejorative way, sometimes refer to Therav&amacr;da
     as [Hinay&amacr;na](https://en.wikipedia.org/wiki/Hinayana), "small/deficient vehicle".
+
+![Nagarjuna (source: [www.tsemrinpoche.com](https://www.tsemrinpoche.com/tsem-tulku-rinpoche/downloads/buddha-images.html?keyfilter=nagarjuna&submit=Filter)).](img/nagarjuna-detail.jpg)
 
 #### History
 
@@ -669,6 +673,7 @@ Online Suttas:
     -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
 -   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) (MMK)
     -   *Fundamental Verses on the Middle Way* [^Nagarjuna1995]
+    -   Nagarjuna cites and follows themes in [Kacc&amacr;nagotta Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) - "On Right View" (SN 12.15).
 -   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) AKA "Lotus Sutra"
     -   "Sutra on the White Lotus of the Sublime Dharma"
     -   All three vehicles (yan&amacr;s) are really part of one vehicle to becoming buddhas:
@@ -924,22 +929,31 @@ Comparitive studies
 
 -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
     -   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
+    -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
     -   [Ancient Greek Skepticism](https://www.iep.utm.edu/skepanci/)
     -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
     -   McEvilley, T. (2002). *The Shape of Ancient Thought* [^McEvilley2002]
     -   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
     -   Daniel Estrada: "Silk road philosophy"
--   Buddhism and Orphism
 -   [Buddhism and Pyrrhonism](https://en.wikipedia.org/wiki/Similarities_between_Pyrrhonism_and_Buddhism)
+    -   [Pyrrho (c. 360-270 BCE)](https://en.wikipedia.org/wiki/Pyrrho)
+-   Buddhism and Orphism
 -   Buddhism and Plato, *Phaedo*
+    -   TODO: Plato believed in reincarnation.
 -   Buddhism and Stoicism
     -   [Buddhism vs. Stoicism: Compare and Contrast](https://nonzero.org/post/buddhism-stoicism-pigliucci)
     -   [Stoicism & Buddhism: Lessons, Similarities and Differences](https://dailystoic.com/stoicism-buddhism/)
+
+
+### Indian and modern western philosophy
+
 -   Buddhism and Schopenhauer
     -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
 -   Buddhism and empiricism
     -   Hume: anitya and humeanism
-    -   Two truths doctrine and Sellars: manifest vs scientific image
+    -   Two truths doctrine
+        -   Kant: phenomena vs noumena
+        -   Sellars: manifest vs scientific image
 
 [^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.
 
@@ -1041,10 +1055,13 @@ Biology
 
 -   We will die.
 -   We have about 3 billion heartbeats: 80 years $\approx 2.5 \times 10^9$ seconds.
+-   [Arakenanusasani Sutta](https://www.accesstoinsight.org/tipitaka/an/an07/an07.070.than.html) - On the finiteness and shortness of life (AN 7.70)
+    -   See also Bodhi. [^Bodhi2005p206]
 -   Kagan [^Kagan2012]
 -   Hitchens [^Hitchens2012]
 -   See also: [Terror management theory](human-condition.html#terror-management-theory).
 
+[^Bodhi2005p206]: @Bodhi_2005_In_the_Buddhas_Words_An_anthology_of_discourses\, p. 206--7.
 [^Hitchens2012]: @Hitchens_2012_Mortality\.
 [^Kagan2012]: @Kagan_2012_Death\.
 
@@ -1265,7 +1282,7 @@ Annotated bibliography
 
 ### Sartre, J.P. (1946). *Existentialism is a Humanism*.
 
--   "existence precedes essence"
+-   "Existence precedes essence"
 -   Refers to Nietzsche's God is dead, therefore we are free.
 
 #### My thoughts
