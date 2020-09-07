@@ -1213,8 +1213,6 @@ Existentialism
 
 ### Existentialists
 
--   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
-    -   *The Courage to Be* (1952)
 -   [Martin Heidegger](https://en.wikipedia.org/wiki/Martin_Heidegger) (1889-1976)
     -   [Thrownness](https://en.wikipedia.org/wiki/Thrownness) - Humans are "thrown [geworfen] into the world"
     -   [Dasein](https://en.wikipedia.org/wiki/Dasein) - being there
@@ -1235,6 +1233,8 @@ Existentialism
     -   *The Stranger* (1942)
     -   *The Myth of Sisyphus* (1948)
     -   *The Fall* (1956)
+-   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
+    -   *The Courage to Be* (1952)
 
 Artworks:
 
