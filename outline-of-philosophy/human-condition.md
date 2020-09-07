@@ -291,7 +291,10 @@ Hinduism
 
 #### Gods
 
--   TODO: gods
+-   The Trimurti:
+    -   Brahma
+    -   Vishnu
+    -   Shiva
 
 ![The Wheel of Dharma ([Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra))
     is an imporant symbol in many dharmic religions,
