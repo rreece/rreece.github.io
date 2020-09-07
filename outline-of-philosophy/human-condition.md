@@ -293,8 +293,10 @@ Hinduism
 
 -   The Trimurti:
     -   Brahma
-    -   Vishnu
+    -   [Vishnu](https://en.wikipedia.org/wiki/Vishnu)
     -   Shiva
+-   Others:
+    -   [Ganesha](https://en.wikipedia.org/wiki/Ganesha)
 
 ![The Wheel of Dharma ([Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra))
     is an imporant symbol in many dharmic religions,
@@ -921,9 +923,12 @@ Comparitive studies
 ### Indian and Greek philosophy
 
 -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
--   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
--   [Ancient Greek Skepticism](https://www.iep.utm.edu/skepanci/)
--   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
+    -   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
+    -   [Ancient Greek Skepticism](https://www.iep.utm.edu/skepanci/)
+    -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
+    -   McEvilley, T. (2002). *The Shape of Ancient Thought* [^McEvilley2002]
+    -   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
+    -   Daniel Estrada: "Silk road philosophy"
 -   Buddhism and Orphism
 -   [Buddhism and Pyrrhonism](https://en.wikipedia.org/wiki/Similarities_between_Pyrrhonism_and_Buddhism)
 -   Buddhism and Plato, *Phaedo*
@@ -931,18 +936,23 @@ Comparitive studies
     -   [Buddhism vs. Stoicism: Compare and Contrast](https://nonzero.org/post/buddhism-stoicism-pigliucci)
     -   [Stoicism & Buddhism: Lessons, Similarities and Differences](https://dailystoic.com/stoicism-buddhism/)
 -   Buddhism and Schopenhauer
+    -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
 -   Buddhism and empiricism
     -   Hume: anitya and humeanism
     -   Two truths doctrine and Sellars: manifest vs scientific image
--   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
--   McEvilley
-    -   *The Shape of Ancient Thought* [^McEvilley2002]
-    -   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
--   "Silk road philosophy"
-    -   Daniel Estrada
+
+[^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.
+
+
+### Perennial philosophy
+
 -   [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley) (1894-1963)
     -   *The Perennial Philosophy* (1945) [^Huxley1945]
     -   TODO: criticism
+-   [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil) (1909-1943)
+-   [Joseph Campbell](https://en.wikipedia.org/wiki/Joseph_Campbell) (1904-1987)
+-   [Perennial philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy)
+-   [Syncretism](https://en.wikipedia.org/wiki/Syncretism)
 
 In defending esoteric knowledge [^EsotericKnowledge] Huxley's views are
 decidedly not naturalistic:
@@ -955,7 +965,6 @@ decidedly not naturalistic:
 [^EsotericKnowledge]: See discussion of non-naturalistic "esoteric knowledge" in the [Outline on naturalism](naturalism.html#what-is-naturalism).
 [^Huxley1945]: @Huxley_1945_The_Perennial_Philosophy\.
 [^Huxley1945p5]: @Huxley_1945_The_Perennial_Philosophy\, p. 5--6.
-[^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.
 
 
 Biology
