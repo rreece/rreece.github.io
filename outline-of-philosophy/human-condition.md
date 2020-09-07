@@ -241,6 +241,7 @@ Hinduism
     -   [Rigveda](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700-1,100 BCE)
     -   Samaveda, Yajurveda, Atharvaveda
     -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
+    -   Katz & Egenes translation of the Upanishads [^Katz2015]
 -   [Mahabharata](https://en.wikipedia.org/wiki/Mahabharata) - sometimes called the "Fifth Veda"
 -   [Ramayana](https://en.wikipedia.org/wiki/Ramayana)
 -   [Bhagavad Gita](https://en.wikipedia.org/wiki/Bhagavad_Gita)
@@ -249,13 +250,11 @@ Hinduism
 
 #### Secondary texts
 
--   Katz & Egenes translation of the Upanishads [^Katz2015]
 -   McEvilley, T. (2002). *The Shape of Ancient Thought: Comparative studies in Greek and Indian philosophies*. [^McEvilley2002-hinduism]
 -   Muehlhauser, L. (2010). [Ancient Indian Philosophy: A Painless Introduction Ancient Indian Philosophy](http://lukemuehlhauser.com/ancient-indian-philosophy-a-painless-introduction/).
 
-#### Other stuff
+#### Some people
 
--   [Carnatic music](https://en.wikipedia.org/wiki/Carnatic_music)
 -   [Paramahansa Yogananda](https://en.wikipedia.org/wiki/Paramahansa_Yogananda) (1893-1952)
 -   [Maharishi Mahesh Yogi](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi) (1918-2008)
 -   [Huston Smith (1919-2016)](https://en.wikipedia.org/wiki/Huston_Smith)
@@ -288,6 +287,7 @@ Hinduism
 -   [Hindu atheism](https://en.wikipedia.org/wiki/Hindu_atheism)
 -   [Kalpa](https://en.wikipedia.org/wiki/Kalpa_(aeon)) - aeon
 -   [Namaste](https://en.wikipedia.org/wiki/Namaste) - Hindu greeting, literally "not I"
+-   [Carnatic music](https://en.wikipedia.org/wiki/Carnatic_music)
 
 #### Gods
 
@@ -433,8 +433,8 @@ Refuge in the "Three Jewels":
 4. Abstention from falsehood
 5. Abstention from intoxication
 
--   Bodhi, Bhikkhu. (1981). [*Going for Refuge & Taking the Precepts*](http://www.ibmc-la.org/uploads/1/5/1/0/15104808/goingforrefuge.pdf).
--   Bodhi, Bhikkhu. (1998). [A Discipline of Sobriety](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_36.html).
+-   Bodhi. (1981). [*Going for Refuge & Taking the Precepts*](http://www.ibmc-la.org/uploads/1/5/1/0/15104808/goingforrefuge.pdf).
+-   Bodhi. (1998). [A Discipline of Sobriety](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_36.html).
 
 
 #### Buddhist philosophy
@@ -495,7 +495,7 @@ Other stuff:
 -   [Buddhaghosa](https://en.wikipedia.org/wiki/Buddhaghosa) (c. 5th century CE)
 -   [Thai Forest Tradition](https://en.wikipedia.org/wiki/Thai_Forest_Tradition)
 -   [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi) (b. 1944)
--   [Th&amacr;nissaro Bhikkhu](https://en.wikipedia.org/wiki/%E1%B9%ACh%C4%81nissaro_Bhikkhu) (b. 1949)
+-   [Bhikkhu Th&amacr;nissaro](https://en.wikipedia.org/wiki/%E1%B9%ACh%C4%81nissaro_Bhikkhu) (b. 1949)
 -   [Joseph Goldstein](https://en.wikipedia.org/wiki/Joseph_Goldstein_(writer)) (b. 1944)
 
 #### Doctrines
@@ -532,22 +532,28 @@ Other stuff:
     -   [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN)
         -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
         -   [Ud&amacr;na](https://en.wikipedia.org/wiki/Udana)
-            -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
+            -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) ([Ud 6.4](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.6.04.than.html))
         -   [Itivuttaka](https://en.wikipedia.org/wiki/Itivuttaka)
 3.  [Abhidharma Pitaka](https://en.wikipedia.org/wiki/Abhidharma_Pitaka) - "Basket of Higher Doctrine"
 
 [Abhidhamma](https://en.wikipedia.org/wiki/Visuddhimagga) - systematic pedagogical presentations:
 
 -   [Visuddhimagga](https://en.wikipedia.org/wiki/Visuddhimagga) by Buddhaghosa
+
+Online Suttas:
+
+-   [Access to Insight: Readings in Therav&amacr;da Buddhism](https://www.accesstoinsight.org/)
+-   [SuttaCentral.net](https://suttacentral.net/)
 -   [Selected Theravada Suttas](http://www.ibmc-la.org/buddhist-teachings.html) at IMBC, Los Angeles
 
 #### Secondary texts
 
--   [Access to Insight: Readings in Therav&amacr;da Buddhism](https://www.accesstoinsight.org/)
--   [SuttaCentral.net](https://suttacentral.net/)
--   Thanissaro, Bhikkhu. (1997). [Affirming the Truths of the Heart: The Buddhist teachings on samvega & pasada](https://www.accesstoinsight.org/lib/authors/thanissaro/affirming.html).
--   Bodhi, Bhikkhu. (1999). [*The Noble Eightfold Path: The Way to the End of Suffering*](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html).
--   Bodhi, Bhikkhu. (2013). [I teach only suffering and the end of suffering: Nope, Buddha didn't quite say that](https://tricycle.org/magazine/i-teach-only-suffering-and-end-suffering/).
+-   Bodhi. (2005). *In the Buddha's Words: An anthology of discourses from the Pali Canon*. [^Bodhi2005]
+-   Thanissaro. (1997). [Affirming the Truths of the Heart: The Buddhist teachings on samvega & pasada](https://www.accesstoinsight.org/lib/authors/thanissaro/affirming.html).
+-   Bodhi. (1999). [*The Noble Eightfold Path: The Way to the End of Suffering*](https://www.accesstoinsight.org/lib/authors/bodhi/waytoend.html).
+-   Bodhi. (2013). [I teach only suffering and the end of suffering: Nope, Buddha didn't quite say that](https://tricycle.org/magazine/i-teach-only-suffering-and-end-suffering/).
+
+[^Bodhi2005]: @Bodhi_2005_In_the_Buddhas_Words_An_anthology_of_discourses\.
 
 
 ### Mah&amacr;y&amacr;na Buddhism
@@ -657,7 +663,7 @@ Other stuff:
 -   [Mahaparinirvana Sutra](https://en.wikipedia.org/wiki/Mahayana_Mahaparinirvana_Sutra) AKA "Nirvana Sutra"
     -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
 -   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) (MMK)
-    -   "Fundamental Verses on the Middle Way"
+    -   *Fundamental Verses on the Middle Way* [^Nagarjuna1995]
 -   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) AKA "Lotus Sutra"
     -   "Sutra on the White Lotus of the Sublime Dharma"
     -   All three vehicles (yan&amacr;s) are really part of one vehicle to becoming buddhas:
@@ -670,6 +676,8 @@ Other stuff:
     -   [Longer Sukh&amacr;vat&imacr;y&umacr;ha  Sutra](https://en.wikipedia.org/wiki/Longer_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Infinite Life Sutra"
     -   [Amit&amacr;yurdhy&amacr;na Sutra](https://en.wikipedia.org/wiki/Amitayurdhyana_Sutra) - "Contemplation Sutra" 
     -   [Shorter Sukh&amacr;vat&imacr;y&umacr;ha  Sutra](https://en.wikipedia.org/wiki/Shorter_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Amitabha Sutra"
+
+[^Nagarjuna1995]: @Nagarjuna_1995_The_Fundamental_Wisdom_of_the_Middle_Way\.
 
 #### Secondary texts
 
