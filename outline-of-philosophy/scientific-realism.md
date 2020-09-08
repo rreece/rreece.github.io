@@ -530,116 +530,6 @@ Also:
 [^Schlipp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 
 
-Postpositivism
---------------------------------------------------------------------------------
-
-### Introduction
-
-Various reactions to positivism.
-
--   Karl Popper (1902-1994)
--   Willard Van Orman Quine (1908-2000)
--   Thomas Kuhn (1922-1996)
--   Imre Lakatos (1922-1974)
--   Nancy Cartwright (b. 1944)
-
-
-### Attack on the analytic-synthetic distinction
-
->   Among the developments that led to the revival of metaphysical theorizing
->   were Quine's attack on the analytic-synthetic distinction, which was
->   generally taken to undermine Carnap's distinction between existence
->   questions internal to a framework and those external to
->   it. [^WikipediaMetaphysics]
-
--   Quine's "Two Dogmas of Empiricism" [^Quine1951-2]
-    1.  analytic-synthetic distinction
-    2.  reductionism (verification theory of meaning)
--   Quine: pale gray lore. TODO: find quote.
--   Duhem-Quine thesis
--   inscrutability of reference
--   Quine-Carnap correspondence [^Quine1990-2]
--   Does ontology rest on a mistake? [^Yablo1998]
--   See also the longer discussion of the [analytic-synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
-    in the [Outline on the scientific method](scientific-method.html).
-
-[^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
-    which also cites @Yablo_1998_Does_ontology_rest_on_a_mistake\.
-[^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
-[^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
-[^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
-
-
-### Theory change
-
--   Poincar&eacute;
--   Thomas Kuhn (1922-1996)
-    -   paradigm shifts
-    -   normal science and revolutionary science
--   Imre Lakatos (1922-1974)
-    -   scientific research programmes
--   Larry  Laudan (b. 1941)
-    -   scientific research traditions
-    -   pessimistic meta-induction (PMI)
-    -   science cannot be value free
-
-Poincar&eacute;:
-
->   At first blush it seems to us that the theories last only a day
->   and that ruins upon ruins accumulate.
->   Today the theories are born, tomorrow they are the fashion,
->   the day after tomorrow they are classic,
->   the fourth day they are superannuated,
->   and the fifth they are forgotten. [^Poincare1913p351]
-
-
-### Realist turn
-
--   a turn towards realism
--   Poincar&eacute;
-    -   structure
--   Karl Popper (1902-1994)
-    -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
-    -   *falsifiability* over *verifiability*
--   Putnam, NMA
-
-Popper:
-
->   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963pX]
-
-[^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
-
-
-### Ordinary language philosophy
-
--   Late Wittgenstein
--   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
--   Instrumentalist and pragmatist
--   An imprtant project is to understand the differences between early (*TLP*)
-    and late (*PI*) Wittgenstein. It is quite the about-face.
-    -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world
-    -   PI: The meaning of a word is its use.
-
-Wittgenstein in *PI*:
-
->   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
-
-TODO: find ref of above quote.
-
-
-### The "death" of positivism
-
--   anti-positivism, Kuhn, Popper
--   post-structuralism, postmodernism (continental)
--   Ayer, A.J. 
-
-Ayer:
-
->   The most important defect was that nearly all of it was false. [^Ayer1978]
-
-[^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
-
-
 Pragmatism
 --------------------------------------------------------------------------------
 
@@ -683,6 +573,116 @@ Postmodernism
 
 [^Hicks2011-1]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
 [^Pluckrose2017-1]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
+
+
+Postpositivism
+--------------------------------------------------------------------------------
+
+### Introduction
+
+Various reactions to positivism.
+
+-   Karl Popper (1902-1994)
+-   Willard Van Orman Quine (1908-2000)
+-   Thomas Kuhn (1922-1996)
+-   Imre Lakatos (1922-1974)
+-   Nancy Cartwright (b. 1944)
+
+
+### Attack on the analytic-synthetic distinction
+
+>   Among the developments that led to the revival of metaphysical theorizing
+>   were Quine's attack on the analytic-synthetic distinction, which was
+>   generally taken to undermine Carnap's distinction between existence
+>   questions internal to a framework and those external to
+>   it. [^WikipediaMetaphysics]
+
+-   Quine's "Two Dogmas of Empiricism" [^Quine1951-2]
+    1.  analytic-synthetic distinction
+    2.  reductionism (verification theory of meaning)
+-   Quine: pale gray lore. TODO: find quote.
+-   Duhem-Quine thesis
+-   inscrutability of reference
+-   Quine-Carnap correspondence [^Quine1990-2]
+-   Does ontology rest on a mistake? [^Yablo1998]
+-   See also the longer discussion of the [analytic-synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
+    in the [Outline on the scientific method](scientific-method.html).
+
+[^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
+    which also cites @Yablo_1998_Does_ontology_rest_on_a_mistake\.
+[^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
+[^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
+[^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
+
+
+### Ordinary language philosophy
+
+-   Late Wittgenstein
+-   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
+-   Instrumentalist and pragmatist
+-   An imprtant project is to understand the differences between early (*TLP*)
+    and late (*PI*) Wittgenstein. It is quite the about-face.
+    -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world
+    -   PI: The meaning of a word is its use.
+
+Wittgenstein in *PI*:
+
+>   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
+
+TODO: find ref of above quote.
+
+
+### Theory change
+
+-   Poincar&eacute;
+-   Thomas Kuhn (1922-1996)
+    -   paradigm shifts
+    -   normal science and revolutionary science
+-   Imre Lakatos (1922-1974)
+    -   scientific research programmes
+-   Larry  Laudan (b. 1941)
+    -   scientific research traditions
+    -   pessimistic meta-induction (PMI)
+    -   science cannot be value free
+
+Poincar&eacute;:
+
+>   At first blush it seems to us that the theories last only a day
+>   and that ruins upon ruins accumulate.
+>   Today the theories are born, tomorrow they are the fashion,
+>   the day after tomorrow they are classic,
+>   the fourth day they are superannuated,
+>   and the fifth they are forgotten. [^Poincare1913p351]
+
+
+### The "death" of positivism
+
+-   anti-positivism, Kuhn, Popper
+-   post-structuralism, postmodernism (continental)
+-   Ayer, A.J. 
+
+Ayer:
+
+>   The most important defect was that nearly all of it was false. [^Ayer1978]
+
+[^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
+
+
+### Realist turn
+
+-   a turn towards realism
+-   Poincar&eacute;
+    -   structure
+-   Karl Popper (1902-1994)
+    -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
+    -   *falsifiability* over *verifiability*
+-   Putnam, NMA
+
+Popper:
+
+>   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963pX]
+
+[^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
 
 
 Constructive empiricism
