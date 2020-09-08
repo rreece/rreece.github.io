@@ -677,6 +677,7 @@ Bracketing human experience
     for the FFRF's the emperor has no clothes award.
 -   ["Quantum Field Theory and the Limits of Knowledge"](http://www.preposterousuniverse.com/blog/2015/04/21/quantum-field-theory-and-the-limits-of-knowledge/) - Sean Carroll
 -   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) - Sean Carroll
+-   [The Nature of Reality: A Dialogue Between a Buddhist Scholar and a Theoretical Physicist -- Sean Carroll and Alan Wallace](https://www.youtube.com/watch?v=pLbSlC0Pucw)
 
 ![Sean on the entailment of everyday life by physics.](img/sean-entailment.jpg)
 
