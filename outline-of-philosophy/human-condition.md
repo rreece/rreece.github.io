@@ -473,6 +473,12 @@ Other stuff:
 -   [Maitreya](https://en.wikipedia.org/wiki/Maitreya) AKA Ajita - regarded as a prophesied future Buddha 
 -   [Kusala Ratana Karuna: Dhamma talk on the differences between Theravada and Mahayana](https://www.youtube.com/watch?v=vvjjqQnRmKk)
 -   Payne, R.K. (2002). [Buddhism and Cognitive Science](http://www.shin-ibs.edu/documents/pwj3-4/01PN4.pdf).
+-   Harris [^Harris2014]
+-   Wright [^Wright2017]
+
+[^Harris2014]: @Harris_2014_Waking_Up_A_Guide_to_Spirituality_Without\.
+[^Wright2017]: @Wright_2017_Why_Buddhism_is_True_The_Science_and_Philosophy\.
+
 
 ![Map of the main modern Buddhist sects. Kalmykia in western Russia was cropped out, sorry ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
 
