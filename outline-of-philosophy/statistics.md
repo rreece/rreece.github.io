@@ -961,6 +961,8 @@ to [@eq:cross_entropy_loss3].
 -   [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
     -   [Stein's paradox](https://en.wikipedia.org/wiki/Stein%27s_example)
     -   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
+-   [Topological data analysis](https://en.wikipedia.org/wiki/Topological_data_analysis)
+    -   Dindin, M. (2018). [TDA To Rule Them All: ToMATo Clustering](https://towardsdatascience.com/tda-to-rule-them-all-tomato-clustering-878e03394a1).
 
 
 ### Deep learning

@@ -731,6 +731,7 @@ Online Suttas:
 
 -   [Navay&amacr;na](https://en.wikipedia.org/wiki/Navayana) - "New Vehicle"
     -   [B.R. Ambedkar](https://en.wikipedia.org/wiki/B._R._Ambedkar) (1891-1956)
+-   Horgan, J. (2003). [Buddhist Retreat Why I gave up on finding my religion](https://slate.com/culture/2003/02/why-i-ditched-buddhism.html).
 
 Paul Williams:
 
