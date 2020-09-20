@@ -658,7 +658,7 @@ Thermodynamics, statistical mechanics, renormalization.
 -   Anderson, P.W. (1972). More is different. [^Anderson-1972]
 -   Lisi, A.G. (2017). [Emergence](https://www.edge.org/response-detail/27149). [^Lisi-2017]
 -   Bain
--   Jard&oecute;n, R. (2020). [Emergence](https://philosophytweet.blogspot.com/2020/04/emergence.html).
+-   Jard&oacute;n, R. (2020). [Emergence](https://philosophytweet.blogspot.com/2020/04/emergence.html).
 -   Views on reductionism
     -   [Mariam Thalos - 3:AM Magazine interview](https://www.3ammagazine.com/3am/multi-scale-existentialist-freedoms/)
 -   [Closer To Truth: What's Strong Emergence?](https://www.youtube.com/watch?v=zkffv2nVF64)

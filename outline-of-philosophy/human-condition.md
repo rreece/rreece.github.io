@@ -869,6 +869,11 @@ TODO: Contemporary Stoicism
 
 ### Theses
 
+1.  Dichotomy of control
+2.  The obstacle is the way
+3.  Reflection
+4.  Preferred indifferents
+
 Theses (Pigliucci?):
 
 -   We don't control what happens, we control how we respond.
@@ -1086,9 +1091,14 @@ TODO:
 -   ...
 
 
+### Neurobiology
+
+-   Dopamine and anticipation
+
+
 ### Cognitive behavioral therapy
 
--   [Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+-   [Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT)
 -   Compare with Buddhism
 -   Compare with Stoicism
 -   Cognitive and psychological stability
