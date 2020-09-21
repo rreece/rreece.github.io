@@ -341,6 +341,7 @@ Alex Rosenberg is a mad dog against emergence. Video:
 -   Why "physics is fundamental"
 -   Physicalism
 -   Hempel's dilemma
+-   [Robert Sapolsky (2010) lecture: Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo)
 
 [^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
     This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,
