@@ -1,9 +1,10 @@
 
 ### Research interests
 
--   High-performance computing
--   Machine learning: deep neural nets, anomaly detection
+-   Deep learning, both natural language and vision
 -   Large-scale language modeling
+-   Normalization in deep neural nets
+-   High-performance computing
 -   Data science and visualization
 -   Statistical inference
 -   Searches for new physics (GUTs & SUSY)
@@ -59,6 +60,7 @@ reconstruction and other classification problems.
 
 -   Large-scale language modeling
 -   Deep learning performance
+-   Sparsity in deep neural nets
 -   Hyperparameter optimization
 -   Understanding techniques for clustering and anomaly detection
 
@@ -78,6 +80,10 @@ reconstruction and other classification problems.
 -   Research in applications of deep learning (CNNs) for particle identification
     ($e/\gamma/\pi$) with ILC-CLIC simulation data
     [[1807.02876](https://arxiv.org/abs/1807.02876)]
+-   Development of a new type of normalization layer for training neural networks,
+    [OnlineNorm](https://github.com/Cerebras/online-normalization),
+    that can functionally replace BatchNorm and be used with batch size = 1.
+    [[1905.05894](https://arxiv.org/abs/1905.05894)]
 
 
 ### Curriculum Vitae
