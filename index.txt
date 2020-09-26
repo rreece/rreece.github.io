@@ -14,8 +14,8 @@ data science, and petabyte data reduction.
 Read more about [my research here](research/).        
 Get my r&eacute;sum&eacute; or CV:
 
--   brief r&eacute;sum&eacute;: <i class="far fa-file" style="font-size:20px;"></i> [html](../docs/Ryan-Reece-resume.html), <i class="far fa-file-pdf" style="font-size:20px;"></i> [pdf](../docs/Ryan-Reece-resume.pdf)
--   full academic curriculum vitae: <i class="far fa-file" style="font-size:20px;"></i> [html](../docs/Ryan-Reece-cv.html), <i class="far fa-file-pdf" style="font-size:20px;"></i> [pdf](../docs/Ryan-Reece-cv.pdf)
+-   brief r&eacute;sum&eacute;: [<i class="far fa-file" style="font-size:20px;"></i>&nbsp;html](../docs/Ryan-Reece-resume.html), [<i class="far fa-file-pdf" style="font-size:20px;"></i>&nbsp;pdf](../docs/Ryan-Reece-resume.pdf)
+-   full academic curriculum vitae: [<i class="far fa-file" style="font-size:20px;"></i>&nbsp;html](../docs/Ryan-Reece-cv.html), [<i class="far fa-file-pdf" style="font-size:20px;"></i>&nbsp;pdf](../docs/Ryan-Reece-cv.pdf)
 
 
 News
