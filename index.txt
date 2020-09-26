@@ -10,6 +10,8 @@ who worked with the [ATLAS experiment](https://atlas.cern/) at [CERN](http://hom
 I have experience in deep learning, large-scale language modeling,
 machine learning, pattern recognition, statistical modeling,
 data science, and petabyte data reduction.
+I am passionate about using scientific techniques to solve important
+problems and about how technologies extend our reach.
 
 Read more about [my research here](research/).        
 Get my r&eacute;sum&eacute; or CV:
@@ -30,7 +32,7 @@ News
 
 <div class="clickmore"><a id="link:news-more" class="closed" onclick="toggle_more('news-more')">Old news</a></div>
 <div id="news-more" class="more">
--   November 2014:
+-   Nov 2014:
     I am awarded a 6 month fellowship, US ATLAS Scholar,
     to be at Lawrence Berkeley National Laboratory (LBL) in Berkeley, CA,
     continuing collaboration with the ATLAS Experiment.
