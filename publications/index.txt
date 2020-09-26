@@ -34,8 +34,6 @@ Machine learning publications
 Ph.D. thesis
 -------------------------------------------------------------------------------
 
-<a href="../docs/CERN-THESIS-2013-075.pdf"><img class="floatright" src="img/ryans-thesis-300.jpg" title="A search for new physics in high-mass ditau events in the ATLAS detector"/></a>
-
 *A search for new physics in high-mass ditau events in the ATLAS detector*       
 July 2013
 
