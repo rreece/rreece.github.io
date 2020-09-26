@@ -198,12 +198,13 @@ Abrahamism
 -   [Paul the Apostle](https://en.wikipedia.org/wiki/Paul_the_Apostle) (c. 5-64 CE)
 -   [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (354-430 CE)
 -   [East-West Schism](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism) (1054 CE)
--   [Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas) (1225-1274 CE)
+-   [Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas) (1225-1274)
 -   [Catholicism](https://en.wikipedia.org/wiki/Catholicism)
--   [Protestant Reformation](https://en.wikipedia.org/wiki/Reformation) (1517-1521 CE)
+-   [Martin Luther](https://en.wikipedia.org/wiki/Martin_Luther) (1482-1546)
+-   [Protestant Reformation](https://en.wikipedia.org/wiki/Reformation) (1517-1521)
 -   [Protestantism](https://en.wikipedia.org/wiki/Protestantism)
 -   [Evangelicalism](https://en.wikipedia.org/wiki/Evangelicalism)
--   [John Wesley](https://en.wikipedia.org/wiki/John_Wesley) (1703-1791 CE)
+-   [John Wesley](https://en.wikipedia.org/wiki/John_Wesley) (1703-1791)
 
 ![Detail of the ["religions tree"](https://000024.org/religions_tree/religions_tree_8.html),
     zoomed around some Protestant branches (also discussed [here](https://pierwiastekzla.wordpress.com/worldreligionstree/)).
@@ -215,9 +216,9 @@ Abrahamism
 -   [Islam](https://en.wikipedia.org/wiki/Islam) (began 7th century CE)
 -   [Muhammad](https://en.wikipedia.org/wiki/Muhammad) (c. 570-632 CE)
 -   [Sunni Islam](https://en.wikipedia.org/wiki/Sunni_Islam) - 75-90% of living Muslims
--   [Shia Islam](https://en.wikipedia.org/wiki/Shia_Islam)
--   [Sufism](https://en.wikipedia.org/wiki/Sufism)
--   [Safavid conversion of Iran to Shia Islam](https://en.wikipedia.org/wiki/Safavid_conversion_of_Iran_to_Shia_Islam)
+-   [Shia Islam](https://en.wikipedia.org/wiki/Shia_Islam) - mainly in Iran and Iraq
+    -   [Safavid conversion of Iran to Shia Islam](https://en.wikipedia.org/wiki/Safavid_conversion_of_Iran_to_Shia_Islam)
+-   [Sufism](https://en.wikipedia.org/wiki/Sufism) - Islamic mysticism
 
 
 Hinduism
@@ -257,7 +258,7 @@ Hinduism
 
 -   [Paramahansa Yogananda](https://en.wikipedia.org/wiki/Paramahansa_Yogananda) (1893-1952)
 -   [Maharishi Mahesh Yogi](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi) (1918-2008)
--   [Huston Smith (1919-2016)](https://en.wikipedia.org/wiki/Huston_Smith)
+-   [Huston Smith](https://en.wikipedia.org/wiki/Huston_Smith) (1919-2016)
 -   [John Hagelin](https://en.wikipedia.org/wiki/John_Hagelin) (b. 1954)
 
 [^Katz2015]: @Katz_2015_The_Upanishads_A_New_Translation\.
@@ -725,6 +726,7 @@ Online Suttas:
         -   a practice with great emphasis on introspection and meditation
     -   [Bardo Thodol](https://en.wikipedia.org/wiki/Bardo_Thodol)
     -   Dalai Lama. (1988). [The Real Enemy](https://buddhismnow.com/2019/11/10/the-real-enemy-by-dalai-lama/).
+    -   [Richard Davidson](https://en.wikipedia.org/wiki/Richard_Davidson) (b. 1951)
 
 
 ### Criticism

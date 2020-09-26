@@ -15,8 +15,20 @@ Some pedagogical notes
 R&eacute;sum&eacute; and CV
 -------------------------------------------------------------------------------
 
--   My brief r&eacute;sum&eacute;: <i class="far fa-file" style="font-size:20px;"></i> [html](../docs/Ryan-Reece-resume.html), <i class="far fa-file-pdf" style="font-size:20px;"></i> [pdf](../docs/Ryan-Reece-resume.pdf)
--   My full academic curriculum vitae: <i class="far fa-file" style="font-size:20px;"></i> [html](../docs/Ryan-Reece-cv.html), <i class="far fa-file-pdf" style="font-size:20px;"></i> [pdf](../docs/Ryan-Reece-cv.pdf)
+-   My brief r&eacute;sum&eacute;: [<i class="far fa-file" style="font-size:20px;"></i>&nbsp;html](../docs/Ryan-Reece-resume.html), [<i class="far fa-file-pdf" style="font-size:20px;"></i>&nbsp;pdf](../docs/Ryan-Reece-resume.pdf)
+-   My full academic curriculum vitae: [<i class="far fa-file" style="font-size:20px;"></i>&nbsp;html](../docs/Ryan-Reece-cv.html), [<i class="far fa-file-pdf" style="font-size:20px;"></i>&nbsp;pdf](../docs/Ryan-Reece-cv.pdf)
+
+
+Machine learning publications
+-------------------------------------------------------------------------------
+
+1.  Chiley, V. *et al*. (2019). Online Normalization for Training Neural Networks.
+    [arxiv:1905.05894](https://arxiv.org/abs/1905.05894).
+    May 15, 2019.
+
+1.  Albertsson, K. *et al*. (2018). Machine Learning in High Energy Physics Community White Paper.
+    [arxiv:1807.02876](https://arxiv.org/abs/1807.02876). 
+    July 8, 2018.
 
 
 Ph.D. thesis
@@ -35,18 +47,6 @@ at *&radic;s* = 7 TeV,
 and searching for new physics in high-mass ditau events.
 You can [download my thesis here](../docs/CERN-THESIS-2013-075.pdf)
 or find it at CDS as [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836).
-
-
-Machine learning publications
--------------------------------------------------------------------------------
-
-1.  Chiley, V. *et al*. (2019). Online Normalization for Training Neural Networks.
-    [arxiv:1905.05894](https://arxiv.org/abs/1905.05894).
-    May 15, 2019.
-
-1.  Albertsson, K. *et al*. (2018). Machine Learning in High Energy Physics Community White Paper.
-    [arxiv:1807.02876](https://arxiv.org/abs/1807.02876). 
-    July 8, 2018.
 
 
 ATLAS publications

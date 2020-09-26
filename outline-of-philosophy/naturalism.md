@@ -449,9 +449,11 @@ Criticisms of naturalism
     -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality.](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/) *The Atlantic*. [^Gefter2016]
 -   Decolonising science
     -   Descoping the success/objectivity of science
-    -   Prescod-Weinstein, Chanda. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
+    -   Prescod-Weinstein, C. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
     -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific.](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific) *American Scientist*. [^PrescodWeinstein2017]
-    -   Roy, Rohan Deb. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
+    -   Roy, R.D. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
+-   Decolonising philosophy
+    -   Alpert, A. (2020). [Philosophy's systemic racism](https://aeon.co/essays/racism-is-baked-into-the-structure-of-dialectical-philosophy).
 -   Science takes faith
     -   Davies, P. (2007). [Taking science on faith.](https://www.nytimes.com/2007/11/24/opinion/24davies.html) *New York Times Opinion*.
 
