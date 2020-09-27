@@ -834,6 +834,8 @@ Stoicism
     -   *Enchiridion* (125 CE) - "Handbook" 
 -   [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) (121-180 CE)
     -   *Meditations* (170-180 CE)
+    -   [Antonine_Plague](https://en.wikipedia.org/wiki/Antonine_Plague) (165-180 CE)
+    -   Mac Suibhne [^MacSuibhne2009]
 
 Three historical phases of Stoicism:
 
@@ -848,25 +850,27 @@ Only Roman texts from the Late Stoa survive.
     of philosophy and how they diverged from the thinking of Socrates. [^Pigliucci2017p224]
     ](img/Pigliucci-history-of-Hellonistic-schools.jpg){#fig:Pigliucci-history-of-Hellonistic-schools}
 
-Related:
-
--   [Cynicism](https://en.wikipedia.org/wiki/Cynicism_(philosophy))
-    -   [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes) (446-366 BCE)
-    -   [Diogenes](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
--   [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
-    -   [Aristippus](https://en.wikipedia.org/wiki/Aristippus) (435-356 BCE)
-    -   [Cyrenaic school](https://en.wikipedia.org/wiki/Cyrenaics)
-    -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
-    -   Pigliucci, M. (2019). [Epic battles in practical ethics: Stoicism vs Epicureanism](https://medium.com/stoicism-philosophy-as-a-way-of-life/epic-battles-in-practical-ethics-stoicism-vs-epicureanism-dc124e8dc9).
--   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
-    -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
-    -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
-
 TODO: Stoicism's influence on Christianty
+
+-   [Neostoicism](https://en.wikipedia.org/wiki/Neostoicism)
 
 TODO: Contemporary Stoicism
 
+-   Former United States Secretary of Defense
+    [James Mattis](https://en.wikipedia.org/wiki/Jim_Mattis) (b. 1950)
+    carried his own personal copy of *Meditations* throughout his
+    deployments as a Marine Corps officer in the Persian Gulf,
+    Afghanistan, and Iraq. [^Ricks2006]
+-   United States President [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (b. 1946)
+    said that *Meditations* is his favorite book. [^Kellogg2009]
+-   Pigliucci [^Pigliucci2017]
+
+[^Ricks2006]: @Ricks_2006_Fiasco\.
+[^Kellogg2009]: @Kellogg_2009_An_American_reader_Bill_Clinton\.
+[^MacSuibhne2009]: @Mac_2009_Wrestle_to_be_the_man_philosophy_wished_to_make\.
+[^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic\.
 [^Pigliucci2017p224]: @Pigliucci_2017_How_to_be_a_Stoic\, p. 224.
+[^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.
 
 
 ### Theses
@@ -881,19 +885,40 @@ Theses (Pigliucci?):
 -   We don't control what happens, we control how we respond.
 -   In any situation we face, we have an opportunity to practice virtue.
 -   Focus on the steps in-the-moment, not the whole goal.
--   One should be indifferent about the outcome?
+-   One should be indifferent about the outcome.
 
 >   It is impossible for a man to learn what he thinks he already knows.
 
 --Epictetus, Discourses, Book II, ch. 17
 
--   Pigliucci [^Pigliucci2017]
 -   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 -   [Glossary of terms in Stoicism](https://en.wikipedia.org/wiki/Glossary_of_Stoicism_terms)
+-   [Reflective practice](https://en.wikipedia.org/wiki/Reflective_practice)
 
-[^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic\.
-[^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.
+
+### Related movements
+
+-   [Cynicism](https://en.wikipedia.org/wiki/Cynicism_(philosophy))
+    -   [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes) (446-366 BCE)
+    -   [Diogenes](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
+-   [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
+    -   [Aristippus](https://en.wikipedia.org/wiki/Aristippus) (435-356 BCE)
+    -   [Cyrenaic school](https://en.wikipedia.org/wiki/Cyrenaics)
+    -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
+    -   Pigliucci, M. (2019). [Epic battles in practical ethics: Stoicism vs Epicureanism](https://medium.com/stoicism-philosophy-as-a-way-of-life/epic-battles-in-practical-ethics-stoicism-vs-epicureanism-dc124e8dc9). [^Pigliucci2019]
+-   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
+    -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
+    -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
+
+[^Pigliucci2019]: @Pigliucci_2019_Epic_battles_in_practical_ethics_Stoicism_vs\.
+
+
+### Criticism
+
+-   Russell on *Meditations* [^Russell1945p248]
+
+[^Russell1945p248]: @Russell_1945_A_History_of_Western_Philosophy\, pp. 248--56.
 
 
 Romanticism
