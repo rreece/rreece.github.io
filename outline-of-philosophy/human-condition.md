@@ -831,7 +831,8 @@ Stoicism
     -   *De Brevitate Vitae* (49 CE) - "On the Shortness of Life" [^Seneca1997]
 -   [Epictetus](https://en.wikipedia.org/wiki/Epictetus) (c. 50-135 CE)
     -   *Discourses* (108 CE)
-    -   *Enchiridion* (125 CE) - "Handbook" 
+    -   *Enchiridion* (125 CE) - "Handbook"
+    -   Both of theses works were recorded by Epictetus' pupil [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) (c. 86/89-146/160 CE)
 -   [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) (121-180 CE)
     -   *Meditations* (170-180 CE)
     -   [Antonine_Plague](https://en.wikipedia.org/wiki/Antonine_Plague) (165-180 CE)
