@@ -890,6 +890,7 @@ My personal summary of the most important Stoic theses:
     -   Be mindful of what is and what is not in your control.
     -   If something outside of your control causes you anxiety,
         you should try accept it and cast the anxiety asside.
+    -   We don't control what happens, we control how we respond.
 2.  The obstacle is the way
     -   If the cause of your anxiety is within your control,
         then the best (and really only good) solution is to face it.
@@ -913,13 +914,6 @@ My personal summary of the most important Stoic theses:
 >   and treat the rest in accordance with its nature.
 
 --Epictetus, *Discourses*, I, 1, 17
-
-Theses (Pigliucci?):
-
--   We don't control what happens, we control how we respond.
--   In any situation we face, we have an opportunity to practice virtue.
--   Focus on the steps in-the-moment, not the whole goal.
--   One should be indifferent about the outcome.
 
 More:
 
