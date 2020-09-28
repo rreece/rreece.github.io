@@ -931,10 +931,10 @@ More:
 
 Stoic vitues:
 
--   Wisdom (*phronesis*)
 -   Courage (*andreia*)
 -   Justice (*dikaiosyne*)
 -   Temperance (*sophrosyne*)
+-   Wisdom (*phronesis*)
 
 Stoic terms:
 
