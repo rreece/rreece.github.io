@@ -886,44 +886,51 @@ Only Roman texts from the Late Stoa survive.
 
 My personal summary of the most important Stoic theses:
 
-1.  Dichotomy of control
-    -   Be mindful of what is and what is not in your control.
-    -   If something outside of your control causes you anxiety,
-        you should try accept it and cast the anxiety asside.
-    -   We don't control what happens, we control how we respond.
-2.  The obstacle is the way
-    -   If the cause of your anxiety is within your control,
-        then the best (and really only good) solution is to face it.
-    -   We underestimate what stresses we can face.
-    -   In any circumstance, we have an opportunity to practice virtue,
-        the be excellent.
-3.  Reflection
-    -   Wise decisions come from patience and discernment.
-    -   Mindfulness, temperance, journaling, and focusing on what
-        you can do will bring about the best solutions you can.
-4.  Preferred indifferents
-    -   Health, wealth, and success are natural to prefer, but they
-        are not necessary for living a good life.
-    -   We can have aspirations and goals, but on the onset we must
-        be ready for failure. Much is out of our control.
-    -   Our goal should be to do the best we can, not to have the best outcome.
-    -   Everything is impermanent. We are mortal.
-        We will take nothing or nonone with us beyond death.
+#### 1. Dichotomy of control
+
+-   Be mindful of what is and what is not in your control.
+-   If something outside of your control causes you anxiety,
+    you should try accept it and cast the anxiety asside.
+-   We don't control what happens; we control how we respond.
 
 >   What should we do then? Make the best use of what is in our power,
 >   and treat the rest in accordance with its nature.
 
 --Epictetus, *Discourses*, I, 1, 17
 
-More:
+#### 2. The obstacle is the way
+
+-   If the cause of your anxiety is within your control,
+    then the best (and really only good) solution is to face it.
+-   We underestimate what stresses we can face.
+-   In any circumstance, we have an opportunity to practice virtue,
+    the be excellent.
+
+#### 3. Reflection
+
+-   Wise decisions come from patience and discernment.
+-   Mindfulness, temperance, journaling, and focusing on what
+    you can do will bring about the best solutions you can.
 
 >   It is impossible for a man to learn what he thinks he already knows.
 
 --Epictetus, *Discourses*, II, 17
 
+#### 4. Preferred indifferents
+
+-   Health, wealth, and success are natural to prefer, but they
+    are not necessary for living a good life.
+-   We can have aspirations and goals, but on the onset we must
+    be ready for failure. Much is out of our control.
+-   Our goal should be to do the best we can, not to have the best outcome.
+-   Everything is impermanent. We are mortal.
+    We will take nothing or nonone with us beyond death.
+
+More:
+
 -   TODO: virtue ethics
 
-Stoic vitues:
+Stoic virtues:
 
 -   Courage (*andreia*)
 -   Justice (*dikaiosyne*)
