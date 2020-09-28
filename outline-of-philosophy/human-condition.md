@@ -824,21 +824,24 @@ Stoicism
 ### History
 
 -   [Stoicism](https://en.wikipedia.org/wiki/Stoicism) (began in the 3rd century BCE)
+    -   A stoa is an ancient Greek public covered walkway.
 -   [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) (c. 334-262 BCE)
 -   [Cleanthes](https://en.wikipedia.org/wiki/Cleanthes) (c. 330-230 BCE)
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
 -   [Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger) (4 BCE - 65 CE)
     -   *De Brevitate Vitae* (49 CE) - "On the Shortness of Life" [^Seneca1997]
+-   [Musonius Rufus](https://en.wikipedia.org/wiki/Gaius_Musonius_Rufus) (c. 25-100 CE)
 -   [Epictetus](https://en.wikipedia.org/wiki/Epictetus) (c. 50-135 CE)
     -   *Discourses* (108 CE)
     -   *Enchiridion* (125 CE) - "Handbook"
     -   Both of theses works were recorded by Epictetus' pupil [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) (c. 86/89-146/160 CE)
 -   [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) (121-180 CE)
     -   *Meditations* (170-180 CE)
-    -   [Antonine_Plague](https://en.wikipedia.org/wiki/Antonine_Plague) (165-180 CE)
+    -   [Antonine Plague](https://en.wikipedia.org/wiki/Antonine_Plague) (165-180 CE)
     -   Mac Suibhne [^MacSuibhne2009]
 
-Three historical phases of Stoicism:
+
+#### Three historical phases of Stoicism
 
 1.  Early Stoa, from the founding of the school by Zeno to Antipater.
 2.  Middle Stoa, including Panaetius and Posidonius.
@@ -851,11 +854,15 @@ Only Roman texts from the Late Stoa survive.
     of philosophy and how they diverged from the thinking of Socrates. [^Pigliucci2017p224]
     ](img/Pigliucci-history-of-Hellonistic-schools.jpg){#fig:Pigliucci-history-of-Hellonistic-schools}
 
-TODO: Stoicism's influence on Christianty
 
+#### Stoicism's influence on Christianty
+
+-   Pigliucci claims Paul was influenced by Seneca and the Stoics
 -   [Neostoicism](https://en.wikipedia.org/wiki/Neostoicism)
+-   Spinoza
 
-TODO: Contemporary Stoicism
+
+#### Contemporary Stoicism
 
 -   Former United States Secretary of Defense
     [James Mattis](https://en.wikipedia.org/wiki/Jim_Mattis) (b. 1950)
@@ -864,22 +871,30 @@ TODO: Contemporary Stoicism
     Afghanistan, and Iraq. [^Ricks2006]
 -   United States President [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (b. 1946)
     said that *Meditations* is his favorite book. [^Kellogg2009]
--   Pigliucci [^Pigliucci2017]
+-   Pigliucci, M. (2015). Talk: [Stoicism 101](https://www.youtube.com/watch?v=seLLJP3H1FU).
+-   Pigliucci, M. (2017). *How to be a Stoic: Using Ancient Philosophy to Live a Modern Life*. [^Pigliucci2017]
 
 [^Ricks2006]: @Ricks_2006_Fiasco\.
 [^Kellogg2009]: @Kellogg_2009_An_American_reader_Bill_Clinton\.
 [^MacSuibhne2009]: @Mac_2009_Wrestle_to_be_the_man_philosophy_wished_to_make\.
-[^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic\.
-[^Pigliucci2017p224]: @Pigliucci_2017_How_to_be_a_Stoic\, p. 224.
+[^Pigliucci2017]: @Pigliucci_2017_How_to_be_a_Stoic_Using_Ancient_Philosophy\.
+[^Pigliucci2017p224]: @Pigliucci_2017_How_to_be_a_Stoic_Using_Ancient_Philosophy\, p. 224.
 [^Seneca1997]: @Seneca_1997_On_the_Shortness_of_Life\.
 
 
 ### Theses
 
+My personal summary of the most important Stoic theses:
+
 1.  Dichotomy of control
 2.  The obstacle is the way
 3.  Reflection
 4.  Preferred indifferents
+
+>   What should we do then? Make the best use of what is in our power,
+>   and treat the rest in accordance with its nature.
+
+--Epictetus, *Discourses*, I, 1, 17
 
 Theses (Pigliucci?):
 
@@ -888,14 +903,31 @@ Theses (Pigliucci?):
 -   Focus on the steps in-the-moment, not the whole goal.
 -   One should be indifferent about the outcome.
 
+More:
+
 >   It is impossible for a man to learn what he thinks he already knows.
 
---Epictetus, Discourses, Book II, ch. 17
+--Epictetus, *Discourses*, II, 17
+
+-   TODO: virtue ethics
+
+Stoic vitues:
+
+-   Wisdom (*phronesis*)
+-   Courage (*andreia*)
+-   Justice (*dikaiosyne*)
+-   Temperance (*sophrosyne*)
+
+Stoic terms:
 
 -   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 -   [Glossary of terms in Stoicism](https://en.wikipedia.org/wiki/Glossary_of_Stoicism_terms)
+
+Other stuff:
+
 -   [Reflective practice](https://en.wikipedia.org/wiki/Reflective_practice)
+-   [Cognitive behavioral therapy (CBT)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
 
 
 ### Related movements
@@ -911,6 +943,7 @@ Theses (Pigliucci?):
 -   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
     -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
     -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
+-   See also: [Indian and Greek philosophy](#indian-and-greek-philosophy)
 
 [^Pigliucci2019]: @Pigliucci_2019_Epic_battles_in_practical_ethics_Stoicism_vs\.
 
