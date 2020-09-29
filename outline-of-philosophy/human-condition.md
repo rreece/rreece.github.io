@@ -128,6 +128,16 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
 See also the [Outline on the scientific method](scientific-method.html):
 [History of science](scientific-method.html#history-of-science).
 
+[^Diamond2003]: @Diamond_2003_Farmers_and_their_languages_the_first_expansions\.
+
+
+### Industrial Revolution
+
+-   Muehlhauser, L. (2017). [Three wild speculations from amateur quantitative macrohistory](http://lukemuehlhauser.com/three-wild-speculations-from-amateur-quantitative-macrohistory/).
+-   Muehlhauser, L. (2017). [How big a deal was the Industrial Revolution?](http://lukemuehlhauser.com/industrial-revolution/)
+-   See also: [Technological growth](http://rreece.github.io/outline-of-philosophy/future.html#technological-growth)
+    in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
+
 Feynman:
 
 >   We are all sad when we think of the wondrous potentialities that human
@@ -150,16 +160,7 @@ Feynman:
 >   propaganda as well as real and valuable information. Communication is
 >   a strong force, also, but either for good or evil. [^Feynman1998p31]
 
-[^Diamond2003]: @Diamond_2003_Farmers_and_their_languages_the_first_expansions\.
 [^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
-
-
-### Industrial Revolution
-
--   Muehlhauser, L. (2017). [Three wild speculations from amateur quantitative macrohistory](http://lukemuehlhauser.com/three-wild-speculations-from-amateur-quantitative-macrohistory/).
--   Muehlhauser, L. (2017). [How big a deal was the Industrial Revolution?](http://lukemuehlhauser.com/industrial-revolution/)
--   See also: [Technological growth](http://rreece.github.io/outline-of-philosophy/future.html#technological-growth)
-    in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
 
 
 Abrahamism
@@ -890,7 +891,7 @@ My personal summary of the most important Stoic theses:
 
 -   Be mindful of what is and what is not in your control.
 -   If something outside of your control causes you anxiety,
-    you should try accept it and cast the anxiety asside.
+    you should try accept it and cast the anxiety aside.
 -   We don't control what happens; we control how we respond.
 
 >   What should we do then? Make the best use of what is in our power,
