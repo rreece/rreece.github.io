@@ -1022,6 +1022,7 @@ Natural language processing (NLP)
 -   Review by Stahlberg [^Stahlberg2019]
 -   Rationalism and empiricism in artificial intellegence:
     A survey of 25 years of evaluation [in NLP]. [^Church2019]
+-   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
 
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.

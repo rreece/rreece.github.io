@@ -829,24 +829,32 @@ Stoicism
 -   [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) (c. 334-262 BCE)
 -   [Cleanthes](https://en.wikipedia.org/wiki/Cleanthes) (c. 330-230 BCE)
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
--   [Seneca](https://en.wikipedia.org/wiki/Seneca_the_Younger) (4 BCE - 65 CE)
+-   [Seneca (the Younger)](https://en.wikipedia.org/wiki/Seneca_the_Younger) (4 BCE - 65 CE)
+    -   Roman statesman and later tutor to Emperor Nero
     -   *De Brevitate Vitae* (49 CE) - "On the Shortness of Life" [^Seneca1997]
 -   [Musonius Rufus](https://en.wikipedia.org/wiki/Gaius_Musonius_Rufus) (c. 25-100 CE)
+    -   Teacher of Epictetus
+    -   Both men and women should study philosophy in pursuit of living a virtuous life.
 -   [Epictetus](https://en.wikipedia.org/wiki/Epictetus) (c. 50-135 CE)
+    -   Slave turned teacher
     -   *Discourses* (108 CE)
-    -   *Enchiridion* (125 CE) - "Handbook"
+    -   *Handbook* (125 CE) - (*Enchiridion*)
     -   Both of theses works were recorded by Epictetus' pupil [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) (c. 86/89-146/160 CE)
+    -   Translation by Hard [^Epictetus2014]
 -   [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) (121-180 CE)
+    -   Last "good" emperor of Rome
     -   *Meditations* (170-180 CE)
     -   [Antonine Plague](https://en.wikipedia.org/wiki/Antonine_Plague) (165-180 CE)
     -   Mac Suibhne [^MacSuibhne2009]
 
+[^Epictetus2014]: @Epictetus_2014_Discourses_Fragments_Handbook\.
+
 
 #### Three historical phases of Stoicism
 
-1.  Early Stoa, from the founding of the school by Zeno to Antipater.
-2.  Middle Stoa, including Panaetius and Posidonius.
-3.  Late Stoa, including Musonius Rufus, Seneca, Epictetus, and Marcus Aurelius.
+1.  Early Stoa from the founding of the school by Zeno to Antipater.
+2.  Middle Stoa including Panaetius and Posidonius.
+3.  Late Stoa including Seneca, Musonius Rufus, Epictetus, and Marcus Aurelius.
 
 No complete works survive from the first two phases of Stoicism.
 Only Roman texts from the Late Stoa survive.
@@ -861,6 +869,7 @@ Only Roman texts from the Late Stoa survive.
 -   Pigliucci claims Paul was influenced by Seneca and the Stoics
 -   [Neostoicism](https://en.wikipedia.org/wiki/Neostoicism)
 -   Spinoza
+-   Nietzsche
 
 
 #### Contemporary Stoicism
@@ -897,7 +906,21 @@ My personal summary of the most important Stoic theses:
 >   What should we do then? Make the best use of what is in our power,
 >   and treat the rest in accordance with its nature.
 
---Epictetus, *Discourses*, I, 1, 17
+--Epictetus, *Discourses*, 1.1.17
+
+>   Materials are indifferent, but the use that one makes of them is by
+>   no means indifferent. How, then, can one preserve firmness and
+>   calmness of mind, and at the same time the attentiveness that saves
+>   us from careless and thoughtless action? By following the example of
+>   those who play at dice. The counters are indifferent, the dice are
+>   indifferent. How can I know in what way the throw will fall? But to
+>   be attentive and skilful in making use of whatever does fall, that
+>   is now my task. And so likewise, my principal task in life is this:
+>   to distinguish between things, and establish a division between them
+>   and say, "External things are not within my power; choice is within
+>   my power."
+
+--Epictetus, *Discourses*, 2.5.1-4
 
 #### 2. The obstacle is the way
 
@@ -913,9 +936,11 @@ My personal summary of the most important Stoic theses:
 -   Mindfulness, temperance, journaling, and focusing on what
     you can do will bring about the best solutions you can.
 
->   It is impossible for a man to learn what he thinks he already knows.
+>   What is the first task for someone who is practicing philosophy?
+>   To rid himself of presumption: for it is impossible for anyone to
+>   set out to learn what he thinks he already knows.
 
---Epictetus, *Discourses*, II, 17
+--Epictetus, *Discourses*, 2.17.1
 
 #### 4. Preferred indifferents
 
@@ -941,14 +966,18 @@ Stoic virtues:
 Stoic terms:
 
 -   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
+-   [Ekpyrosis](https://en.wikipedia.org/wiki/Ekpyrosis)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
--   [Premeditatio malorum](https://dailystoic.com/premeditatio-malorum/)
 -   [Glossary of terms in Stoicism](https://en.wikipedia.org/wiki/Glossary_of_Stoicism_terms)
 
 Other stuff:
 
+-   [Amor fati](https://en.wikipedia.org/wiki/Amor_fati)
+-   [Eternal return](https://en.wikipedia.org/wiki/Eternal_return)
+-   [Premeditatio malorum](https://dailystoic.com/premeditatio-malorum/)
 -   [Reflective practice](https://en.wikipedia.org/wiki/Reflective_practice)
 -   [Cognitive behavioral therapy (CBT)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+-   See also: [Cognitive behavioral therapy](#cognitive-behavioral-therapy) in the section on [psychology](#psychology).
 
 
 ### Related movements
@@ -957,6 +986,7 @@ Other stuff:
     -   [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes) (446-366 BCE)
     -   [Diogenes](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
 -   [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
+    -   *Discourses* 2.20
     -   [Aristippus](https://en.wikipedia.org/wiki/Aristippus) (435-356 BCE)
     -   [Cyrenaic school](https://en.wikipedia.org/wiki/Cyrenaics)
     -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
@@ -1032,6 +1062,7 @@ Comparitive studies
 -   [Buddhism and Pyrrhonism](https://en.wikipedia.org/wiki/Similarities_between_Pyrrhonism_and_Buddhism)
     -   [Pyrrho (c. 360-270 BCE)](https://en.wikipedia.org/wiki/Pyrrho)
 -   Buddhism and Orphism
+    -   [Empedocles](https://en.wikipedia.org/wiki/Empedocles) (c. 494-434 BCE)
 -   Buddhism and Plato, *Phaedo*
     -   TODO: Plato believed in reincarnation.
 -   Buddhism and Stoicism
@@ -1182,7 +1213,9 @@ TODO:
 
 -   [Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT)
 -   Compare with Buddhism
+    -   See also: [Buddhism](#buddhism)
 -   Compare with Stoicism
+    -   See also: [Stoicism](#stoicism)
 -   Cognitive and psychological stability
     -   TODO: Has it been shown/argued that forming a semi-coherent and semi-consistant
         personal metaphysics is necessary/benefitial to cognitive and psychological

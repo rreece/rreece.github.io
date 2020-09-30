@@ -115,9 +115,25 @@ Moral naturalism
     -   [blog 2](http://rationallyspeaking.blogspot.com/2013/02/towards-science-of-morality-reply-to.html)
     -   [blog 3](http://rationallyspeaking.blogspot.com/2013/02/toward-science-of-morality-annotated.html)
     -   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
+-   Patricia Churchland
+
+>   Our moral behavior, while more complex than the social behavior of other 
+>   animals, is similar in that it represents our attempt to manage well in the
+>   existing social ecology. ... from the perspective of neuroscience and brain
+>   evolution, the routine rejection of scientific approaches to moral behavior
+>   based on Hume's warning against deriving ought from is seems unfortunate,
+>   especially as the warning is limited to deductive inferences. ...
+>   The truth seems to be that values rooted in the circuitry for
+>   caring---for well-being of self, offspring, mates, kin,
+>   and others---shape social reasoning about many issues:
+>   conflict resolutions, keeping the peace, defense, trade, resource
+>   distribution, and many other aspects of social life in all its vast
+>   richness. [^Churchland2011p7]
+
 -   See also the [Outline on naturalism](naturalism.html#moral-naturalism).
 
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
+[^Churchland2011p7]: @Churchland_2011_What_Neuroscience_Tells_Us_About_Morality\.
 [^deWaal1982]: @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes\.
 [^Putnam2004]: @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other\.
 
@@ -400,6 +416,7 @@ Click to show links
 
 -   [Absurdism](http://en.wikipedia.org/wiki/Absurdism)
 -   [Bentham, Jeremy (1748-1832)](https://en.wikipedia.org/wiki/Jeremy_Bentham)
+-   [Big Book thought experiment](https://en.wikipedia.org/wiki/Big_Book_(thought_experiment))
 -   [Condorcet's jury theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
 -   [Consequentialism](http://en.wikipedia.org/wiki/Consequentialism)
 -   [Emotivism](http://en.wikipedia.org/wiki/Emotivism)
@@ -410,6 +427,7 @@ Click to show links
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
+-   [Fact-value distinction](https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction)
 -   [Is-ought problem](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
 -   [Kingmaker scenario](https://en.wikipedia.org/wiki/Kingmaker_scenario)
 -   [Legal positivism](https://en.wikipedia.org/wiki/Legal_positivism)
