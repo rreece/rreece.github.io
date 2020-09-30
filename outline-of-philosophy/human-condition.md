@@ -950,8 +950,12 @@ My personal summary of the most important Stoic theses:
 -   We can have aspirations and goals, but on the onset we must
     be ready for failure. Much is out of our control.
 -   Our goal should be to do the best we can, not to have the best outcome.
+
+#### 5. Time is our most precious resource
+
+-   TODO
 -   Everything is impermanent. We are mortal.
-    We will take nothing or nonone with us beyond death.
+    We will take nothing or no one with us beyond death.
 
 More:
 
@@ -987,10 +991,10 @@ Other stuff:
     -   [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes) (446-366 BCE)
     -   [Diogenes](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
 -   [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
-    -   *Discourses* 2.20
     -   [Aristippus](https://en.wikipedia.org/wiki/Aristippus) (435-356 BCE)
     -   [Cyrenaic school](https://en.wikipedia.org/wiki/Cyrenaics)
     -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
+    -   *Discourses* 2.20
     -   Pigliucci, M. (2019). [Epic battles in practical ethics: Stoicism vs Epicureanism](https://medium.com/stoicism-philosophy-as-a-way-of-life/epic-battles-in-practical-ethics-stoicism-vs-epicureanism-dc124e8dc9). [^Pigliucci2019]
 -   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
     -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
