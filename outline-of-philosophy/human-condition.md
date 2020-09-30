@@ -832,7 +832,7 @@ Stoicism
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
 -   [Seneca (the Younger)](https://en.wikipedia.org/wiki/Seneca_the_Younger) (4 BCE - 65 CE)
     -   Roman statesman and later tutor to Emperor Nero
-    -   *De Brevitate Vitae* (49 CE) - "On the Shortness of Life" [^Seneca1997]
+    -   *On the Shortness of Life* (49 CE) - (*De Brevitate Vitae*) [^Seneca1997]
 -   [Musonius Rufus](https://en.wikipedia.org/wiki/Gaius_Musonius_Rufus) (c. 25-100 CE)
     -   Teacher of Epictetus
     -   Both men and women should study philosophy in pursuit of living a virtuous life.
