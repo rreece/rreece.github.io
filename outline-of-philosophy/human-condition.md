@@ -825,7 +825,8 @@ Stoicism
 ### History
 
 -   [Stoicism](https://en.wikipedia.org/wiki/Stoicism) (began in the 3rd century BCE)
-    -   A stoa is an ancient Greek public covered walkway.
+    -   A stoa is an ancient Greek public covered walkway. Stoicism originally got
+        its name from being a philosophy discussed out in public.
 -   [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) (c. 334-262 BCE)
 -   [Cleanthes](https://en.wikipedia.org/wiki/Cleanthes) (c. 330-230 BCE)
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
@@ -903,8 +904,8 @@ My personal summary of the most important Stoic theses:
     you should try accept it and cast the anxiety aside.
 -   We don't control what happens; we control how we respond.
 
->   What should we do then? Make the best use of what is in our power,
->   and treat the rest in accordance with its nature.
+>   What are we to do, then? To make the best of what lies within our
+>   power, and deal with everything else as it comes.
 
 --Epictetus, *Discourses*, 1.1.17
 
