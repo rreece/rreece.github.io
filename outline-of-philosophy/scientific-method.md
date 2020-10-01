@@ -175,6 +175,7 @@ Weinberg:
     -   intromission over extramission theories of vision
     -   *Doubts Concerning Ptolemy*
     -   "But for a man to imagine a circle in the heavens, and to imagine the planet moving in it does not bring about the planet's motion... And therefore the arrangements assumed by Ptolemy for the five planets are false, and he asserted them knowing them to be false, and there exists for the planets a true arrangement in existing bodies which Ptolemy failed to grasp." [^Sabra1978]
+-   [Reconquest of Toledo](https://en.wikipedia.org/wiki/History_of_Toledo,_Spain#Medieval_Toledo_after_the_Reconquest) (1085)
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
 -   [Roger Bacon](http://en.wikipedia.org/wiki/Roger_Bacon) (1214-1292)
 -   [William of Ockham](http://en.wikipedia.org/wiki/William_of_Ockham) (1287-1347)

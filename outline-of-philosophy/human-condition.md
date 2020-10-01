@@ -1077,7 +1077,8 @@ Comparitive studies
 -   [Buddhism and Pyrrhonism](https://en.wikipedia.org/wiki/Similarities_between_Pyrrhonism_and_Buddhism)
 -   [Pyrrho (c. 360-270 BCE)](https://en.wikipedia.org/wiki/Pyrrho)
 -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) and [Anaxarchus](https://en.wikipedia.org/wiki/Anaxarchus)
-    travelled with Alexander the Great on his exploration of the East and went as far as India
+    travelled with [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)
+    on his conquest/exploration of the East and went as far as India
     where they were exposed to Buddhist philosophy.
 
 ![Campaign of Alexander the Great into the East (334-323 BCE). Larger version: [here](img/campaign-of-alexander-large.jpg).
