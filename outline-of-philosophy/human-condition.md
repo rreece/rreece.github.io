@@ -988,7 +988,7 @@ Other stuff:
 
 ### Related movements
 
-#### Cynicism_
+#### Cynicism
 
 -   [Cynicism](https://en.wikipedia.org/wiki/Cynicism_(philosophy))
 -   [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes) (446-366 BCE)
