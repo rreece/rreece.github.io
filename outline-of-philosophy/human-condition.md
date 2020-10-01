@@ -995,7 +995,8 @@ Other stuff:
     -   [Aristippus](https://en.wikipedia.org/wiki/Aristippus) (435-356 BCE)
     -   [Cyrenaic school](https://en.wikipedia.org/wiki/Cyrenaics)
     -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
-    -   *Discourses* 2.20
+    -   [Lucretius](https://en.wikipedia.org/wiki/Lucretius) (c. 99-55 BCE)
+    -   Epictetus, *Discourses*, 2.20
     -   Pigliucci, M. (2019). [Epic battles in practical ethics: Stoicism vs Epicureanism](https://medium.com/stoicism-philosophy-as-a-way-of-life/epic-battles-in-practical-ethics-stoicism-vs-epicureanism-dc124e8dc9). [^Pigliucci2019]
 -   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
     -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
