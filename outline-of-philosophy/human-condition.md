@@ -477,6 +477,7 @@ Other stuff:
 -   Payne, R.K. (2002). [Buddhism and Cognitive Science](http://www.shin-ibs.edu/documents/pwj3-4/01PN4.pdf).
 -   Harris [^Harris2014]
 -   Wright [^Wright2017]
+-   Wright, R. (2017). [Buddhism is more 'Western' thatn you think](https://www.nytimes.com/2017/11/06/opinion/buddhism-western-philosophy.html). *New York Times*.
 
 [^Harris2014]: @Harris_2014_Waking_Up_A_Guide_to_Spirituality_Without\.
 [^Wright2017]: @Wright_2017_Why_Buddhism_is_True_The_Science_and_Philosophy\.
@@ -999,6 +1000,9 @@ Other stuff:
 -   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
     -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
     -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
+-   [Academic skepticism](https://en.wikipedia.org/wiki/Academic_skepticism)
+    -   [Arcesilaus](https://en.wikipedia.org/wiki/Arcesilaus) (c. 316/5-241/0 BCE)
+    -   Plato's *Phaedo* 64--67
 -   See also: [Indian and Greek philosophy](#indian-and-greek-philosophy)
 
 [^Pigliucci2019]: @Pigliucci_2019_Epic_battles_in_practical_ethics_Stoicism_vs\.
@@ -1056,23 +1060,41 @@ Comparitive studies
 
 ### Indian and Greek philosophy
 
--   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
-    -   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
-    -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
-    -   [Ancient Greek Skepticism](https://www.iep.utm.edu/skepanci/)
-    -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
-    -   McEvilley, T. (2002). *The Shape of Ancient Thought* [^McEvilley2002]
-    -   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
-    -   Daniel Estrada: "Silk road philosophy"
+#### Greco-Buddhism
+
+-    [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
+-   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
+-   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
+-   [Ancient Greek Skepticism](https://www.iep.utm.edu/skepanci/)
+-   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
+-   McEvilley, T. (2002). *The Shape of Ancient Thought* [^McEvilley2002]
+-   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
+-   Daniel Estrada: "Silk road philosophy"
+
+#### Buddhism and Pyrrhonism
+
 -   [Buddhism and Pyrrhonism](https://en.wikipedia.org/wiki/Similarities_between_Pyrrhonism_and_Buddhism)
-    -   [Pyrrho (c. 360-270 BCE)](https://en.wikipedia.org/wiki/Pyrrho)
--   Buddhism and Orphism
-    -   [Empedocles](https://en.wikipedia.org/wiki/Empedocles) (c. 494-434 BCE)
--   Buddhism and Plato, *Phaedo*
-    -   TODO: Plato believed in reincarnation.
--   Buddhism and Stoicism
-    -   [Buddhism vs. Stoicism: Compare and Contrast](https://nonzero.org/post/buddhism-stoicism-pigliucci)
-    -   [Stoicism & Buddhism: Lessons, Similarities and Differences](https://dailystoic.com/stoicism-buddhism/)
+-   [Pyrrho (c. 360-270 BCE)](https://en.wikipedia.org/wiki/Pyrrho)
+-   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) and [Anaxarchus](https://en.wikipedia.org/wiki/Anaxarchus)
+    travelled with Alexander the Great on his exploration of the East and went as far as India
+    where they were exposed to Buddhist philosophy.
+
+![Campaign of Alexander the Great into the East (334-323 BCE). Larger version: [here](img/campaign-of-alexander-large.jpg).
+    (source:[Wikipedia](https://commons.wikimedia.org/wiki/File:MacedonEmpire.jpg))
+    ](img/campaign-of-alexander.jpg){#fig:campaign-of-alexander}
+
+#### Buddhism and Orphism
+
+-   [Empedocles](https://en.wikipedia.org/wiki/Empedocles) (c. 494-434 BCE)
+
+#### Buddhism and Plato, *Phaedo*
+
+-   TODO: Plato believed in reincarnation.
+
+#### Buddhism and Stoicism
+
+-   [Buddhism vs. Stoicism: Compare and Contrast](https://nonzero.org/post/buddhism-stoicism-pigliucci)
+-   [Stoicism & Buddhism: Lessons, Similarities and Differences](https://dailystoic.com/stoicism-buddhism/)
 
 
 ### Indian and modern western philosophy
