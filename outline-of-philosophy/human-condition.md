@@ -988,23 +988,35 @@ Other stuff:
 
 ### Related movements
 
+#### Cynicism_
+
 -   [Cynicism](https://en.wikipedia.org/wiki/Cynicism_(philosophy))
-    -   [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes) (446-366 BCE)
-    -   [Diogenes](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
+-   [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes) (446-366 BCE)
+-   [Diogenes](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
+
+#### Epicureanism
+
 -   [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
-    -   [Aristippus](https://en.wikipedia.org/wiki/Aristippus) (435-356 BCE)
-    -   [Cyrenaic school](https://en.wikipedia.org/wiki/Cyrenaics)
-    -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
-    -   [Lucretius](https://en.wikipedia.org/wiki/Lucretius) (c. 99-55 BCE)
-    -   Epictetus, *Discourses*, 2.20
-    -   Pigliucci, M. (2019). [Epic battles in practical ethics: Stoicism vs Epicureanism](https://medium.com/stoicism-philosophy-as-a-way-of-life/epic-battles-in-practical-ethics-stoicism-vs-epicureanism-dc124e8dc9). [^Pigliucci2019]
+-   [Aristippus](https://en.wikipedia.org/wiki/Aristippus) (435-356 BCE)
+-   [Cyrenaic school](https://en.wikipedia.org/wiki/Cyrenaics)
+-   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
+-   [Lucretius](https://en.wikipedia.org/wiki/Lucretius) (c. 99-55 BCE)
+-   Epictetus, *Discourses*, 2.20
+-   Pigliucci, M. (2019). [Epic battles in practical ethics: Stoicism vs Epicureanism](https://medium.com/stoicism-philosophy-as-a-way-of-life/epic-battles-in-practical-ethics-stoicism-vs-epicureanism-dc124e8dc9). [^Pigliucci2019]
+
+#### Pyrrhonism
+
 -   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
-    -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
-    -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
+-   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
+-   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
+
+#### Academic skepticism
+
 -   [Academic skepticism](https://en.wikipedia.org/wiki/Academic_skepticism)
-    -   [Arcesilaus](https://en.wikipedia.org/wiki/Arcesilaus) (c. 316/5-241/0 BCE)
-    -   Plato's *Phaedo* 64--67
--   See also: [Indian and Greek philosophy](#indian-and-greek-philosophy)
+-   [Arcesilaus](https://en.wikipedia.org/wiki/Arcesilaus) (c. 316/5-241/0 BCE)
+-   Plato's *Phaedo* 64--67
+
+See also: [Indian and Greek philosophy](#indian-and-greek-philosophy)
 
 [^Pigliucci2019]: @Pigliucci_2019_Epic_battles_in_practical_ethics_Stoicism_vs\.
 
