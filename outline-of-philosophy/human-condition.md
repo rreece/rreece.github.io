@@ -477,7 +477,7 @@ Other stuff:
 -   Payne, R.K. (2002). [Buddhism and Cognitive Science](http://www.shin-ibs.edu/documents/pwj3-4/01PN4.pdf).
 -   Harris [^Harris2014]
 -   Wright [^Wright2017]
--   Wright, R. (2017). [Buddhism is more 'Western' thatn you think](https://www.nytimes.com/2017/11/06/opinion/buddhism-western-philosophy.html). *New York Times*.
+-   Wright, R. (2017). [Buddhism is more 'Western' than you think](https://www.nytimes.com/2017/11/06/opinion/buddhism-western-philosophy.html). *New York Times*.
 
 [^Harris2014]: @Harris_2014_Waking_Up_A_Guide_to_Spirituality_Without\.
 [^Wright2017]: @Wright_2017_Why_Buddhism_is_True_The_Science_and_Philosophy\.
@@ -1013,6 +1013,7 @@ Other stuff:
 #### Academic skepticism
 
 -   [Academic skepticism](https://en.wikipedia.org/wiki/Academic_skepticism)
+-   [Ancient skepticism](https://plato.stanford.edu/entries/skepticism-ancient/)
 -   [Arcesilaus](https://en.wikipedia.org/wiki/Arcesilaus) (c. 316/5-241/0 BCE)
 -   Plato's *Phaedo* 64--67
 
@@ -1496,6 +1497,7 @@ Click to show links
 ### SEP
 
 -   [Abhidharma](https://plato.stanford.edu/entries/abhidharma/)
+-   [Ancient skepticism](https://plato.stanford.edu/entries/skepticism-ancient/)
 -   [Aurelius, Marcus (121-180)](http://plato.stanford.edu/entries/marcus-aurelius/)
 -   [Authenticity](http://plato.stanford.edu/entries/authenticity/)
 -   [Buddha](http://plato.stanford.edu/entries/buddha/)
