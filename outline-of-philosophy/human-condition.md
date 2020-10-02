@@ -1101,9 +1101,10 @@ Comparitive studies
 
 -   [Empedocles](https://en.wikipedia.org/wiki/Empedocles) (c. 494-434 BCE)
 
-#### Buddhism and Plato, *Phaedo*
+#### Buddhism and Plato
 
 -   TODO: Plato believed in reincarnation.
+-   *Phaedo*
 
 #### Buddhism and Stoicism
 

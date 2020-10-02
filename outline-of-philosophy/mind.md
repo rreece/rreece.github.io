@@ -86,6 +86,12 @@ Neuroscience
     -   Blue Brain Project
 
 
+### Language
+
+-   Sapir-Whorf hypothesis AKA [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity)
+-   [Washoe the chimpanzee](https://en.wikipedia.org/wiki/Washoe_(chimpanzee))
+
+
 Free will
 --------------------------------------------------------------------------------
 
