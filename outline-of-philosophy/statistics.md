@@ -654,6 +654,8 @@ Mayo:
 -   David Cox
 -   Ian Hacking
     -   *Logic of Statistical Inference* [^Hacking1965]
+-   Neyman
+    -   "Frequentist probability and frequentist statistics" [^Neyman1977]
 -   Zech
     -   "Comparing statistical data to Monte Carlo simulation" [^Zech1995]
 -   Richard Royall
@@ -663,6 +665,7 @@ Mayo:
 -   Deborah Mayo
     -   "In defense of the Neyman-Pearson theory of confidence intervals" [^Mayo1981]
     -   Concept of "Learning from error" in *Error and the Growth of Experimental Knowledge* [^Mayo1996]
+    -   "Severe testing as a basic concept in a Neyman-Pearson philosophy of induction" [^Mayo2006]
     -   "Error statistics" [^Mayo2011]
     -   *Statistical Inference as Severe Testing* [^Mayo2018]
     -   [Statistics Wars: Interview with Deborah Mayo](https://blog.apaonline.org/2019/03/07/interview-with-deborah-mayo/) - APA blog
@@ -699,9 +702,11 @@ Mayo:
 [^Gelman2017]: @Gelman_2017_Beyond_subjective_and_objective_in_statistics\.
 [^Mayo1981]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
+[^Mayo2006]: @Mayo_2006_Severe_testing_as_a_basic_concept_in_a_Neyman_\.
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
 [^Murphy2012ch6]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, ch. 6.6.
+[^Neyman1977]: @Neyman_1977_Frequentist_probability_and_frequentist\.
 [^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
 [^Zech1995]: @Zech_1995_Comparing_statistical_data_to_Monte_Carlo\.
