@@ -1092,6 +1092,7 @@ Comparitive studies
     travelled with [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)
     on his conquest/exploration of the East and went as far as India
     where they were exposed to Buddhist philosophy.
+-   [Gymnosophists](https://en.wikipedia.org/wiki/Gymnosophists)
 
 ![Campaign of Alexander the Great into the East (334-323 BCE). Larger version: [here](img/campaign-of-alexander-large.jpg).
     (source:[Wikipedia](https://commons.wikimedia.org/wiki/File:MacedonEmpire.jpg))
