@@ -1283,7 +1283,7 @@ TODO:
 -   See also: [Mortality](human-condition.html#mortality).
 
 
-(A)theism
+Atheism
 --------------------------------------------------------------------------------
 
 ### Apologetics
