@@ -1190,6 +1190,7 @@ Biology
 
 ### Mass extinctions
 
+-   [Luis Walter Alvarez](https://en.wikipedia.org/wiki/Luis_Walter_Alvarez) (1911-1988)
 -   Raup & Sepkoski (1982) [^Raup1982]
 
 [^Raup1982]: @Raup_1982_Mass_extinctions_in_the_marine_fossil_record\.
