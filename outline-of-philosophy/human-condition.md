@@ -1109,20 +1109,19 @@ Comparitive studies
 
 #### Greco-Buddhism
 
--    [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
 -   [Ancient Greece--Ancient India relations](https://en.wikipedia.org/wiki/Ancient_Greece%E2%80%93Ancient_India_relations)
--   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
--   [Ancient Greek Skepticism](https://www.iep.utm.edu/skepanci/)
--   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
--   McEvilley, T. (2002). *The Shape of Ancient Thought* [^McEvilley2002]
--   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
--   Daniel Estrada: "Silk road philosophy"
--   [socrethics.com: Indian sources of Hellenistic ethics](https://socrethics.com/Folder2/Hellenism-Buddhism.htm)
--   [Diogenes of Sinope](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
-    -   Diogenes is speculated by McEvilley to have met Black Sea shamans who had previously
+    -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
+    -   McEvilley, T. (2002). *The Shape of Ancient Thought* [^McEvilley2002]
+    -   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
+    -   Daniel Estrada: "Silk road philosophy"
+    -   [socrethics.com: Indian sources of Hellenistic ethics](https://socrethics.com/Folder2/Hellenism-Buddhism.htm)
+    -   [Diogenes of Sinope](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
+        is speculated by McEvilley to have met Black Sea shamans who had previously
         met Indian ascetics, and Diogenes brought Indian ascetic practices to Greece. [^McEvilley2002p10]
     -   McEvilley also notes a story recorded by Eusebius quoting Aristoxenus
         that [Socrates was visited in Athens by an Indian yogi](https://varnam.org/2012/11/the-yogi-who-met-socrates/).
+-    [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
+    -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
 
 [^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.
 [^McEvilley2002p10]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 10.
@@ -1140,13 +1139,14 @@ Comparitive studies
 
 #### Buddhism and Pyrrhonism
 
--   [Buddhism and Pyrrhonism](https://en.wikipedia.org/wiki/Similarities_between_Pyrrhonism_and_Buddhism)
 -   [Pyrrho (c. 360-270 BCE)](https://en.wikipedia.org/wiki/Pyrrho)
 -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) and [Anaxarchus](https://en.wikipedia.org/wiki/Anaxarchus)
     travelled with [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)
     on his conquest/exploration of the East and went as far as India
     where they were exposed to Buddhist philosophy.
 -   [Gymnosophists](https://en.wikipedia.org/wiki/Gymnosophists)
+-   [Ancient Greek Skepticism](https://www.iep.utm.edu/skepanci/)
+-   [Buddhism and Pyrrhonism](https://en.wikipedia.org/wiki/Similarities_between_Pyrrhonism_and_Buddhism)
 
 ![Campaign of Alexander the Great into the East (334-323 BCE). Larger version: [here](img/campaign-of-alexander-large.jpg).
     (source:[Wikipedia](https://commons.wikimedia.org/wiki/File:MacedonEmpire.jpg))
