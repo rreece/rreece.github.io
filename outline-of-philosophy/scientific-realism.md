@@ -218,24 +218,6 @@ The primary dichotomy of positions is between forms of scientific realism and in
 [^Chakravartty2011]: @Chakravartty_2011_Scientific_realism\.
 
 
-### No miracles argument
-
-There are older forms of the argument, but Putnam's first phrasing that
-magnified the discussion, when he claims that
-
->   realism is the only philosophy that doesn't make the success of science a
->   miracle. [^Putnam1975p73]
-
--   No Miracles Argument (NMA)
--   Prediction with science works
--   Putnam
--   Boyd
--   [Discovery of Neptune](https://en.wikipedia.org/wiki/Discovery_of_Neptune)
--   Discovery of Higgs boson
-
-[^Putnam1975p73]: @Putnam_1975_Mathematics_Matter_and_Method\, p. 73.
-
-
 ### Challenges to scientific realism
 
 ![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
@@ -307,6 +289,24 @@ Schumm:
 
 [^Rovelli2003]: @Rovelli_2003_A_dialog_on_quantum_gravity\, p. 5.
 [^Schumm2004]: @Schumm_2004_Deep_Down_Things\, p. 144.
+
+
+### No miracles argument
+
+There are older forms of the argument, but Putnam's first phrasing that
+magnified the discussion, when he claims that
+
+>   realism is the only philosophy that doesn't make the success of science a
+>   miracle. [^Putnam1975p73]
+
+-   No Miracles Argument (NMA)
+-   Prediction with science works
+-   Putnam
+-   Boyd
+-   [Discovery of Neptune](https://en.wikipedia.org/wiki/Discovery_of_Neptune)
+-   Discovery of Higgs boson
+
+[^Putnam1975p73]: @Putnam_1975_Mathematics_Matter_and_Method\, p. 73.
 
 
 Instrumentalism
@@ -416,9 +416,8 @@ and constraining real structures in nature.
 
 ### Early positivism
 
--   Auguste Comte
+#### Auguste Comte
 -   Comte and Mill
--   Ernst Mach
 
 Comte on the unknowability of the composition of stars:
 
@@ -434,21 +433,41 @@ Comte on the unknowability of the composition of stars:
 
 (He was wrong!)
 
+#### Ernst Mach
+
+-   TODO
+
+
+#### Wittgenstein
+
 -   Gottlob Frege (1848-1925)
     -   Sense and reference (1892)
 -   Bertrand Russell & Afred North Whitehead
--   *Principia Mathematica* (1910)
+    -   *Principia Mathematica* (1910)
 -   George Edward Moore
 -   Wittgenstein
-    -   *Tractatus Logico-Philosophicus* (1921) [^Wittgenstein1921]
-    -   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
-    -   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
-    -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
-    -   quietism
+
+>   *Tractatus Logico-Philosophicus*, the only philosophy book that Wittgenstein
+>   published during his lifetime. It claimed to solve all the major problems
+>   of philosophy and was held in especially high esteem by the anti-metaphysical
+>   logical positivists. The Tractatus is based on the idea that philosophical
+>   problems arise from misunderstandings of the logic of language, and it tries
+>   to show what this logic is. Wittgenstein's later work, principally his
+>   *Philosophical Investigations*, shares this concern with logic and language,
+>   but takes a different, less technical, approach to philosophical problems.
+>   This book helped to inspire so-called ordinary language philosophy. [^Richter2004]
+
+-   *Tractatus Logico-Philosophicus* (1921) [^Wittgenstein1921]
+-   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
+-   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
+-   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
+-   quietism
+-   See also: [Ordinary language philosophy](#ordinary-language-philosophy)
 
 [^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
     Translation of passage taken from:           
     <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
+[^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\.
 [^Wittgenstein1921]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
 
 
@@ -1306,6 +1325,7 @@ Click to show links
 -   [Unity of Science](http://plato.stanford.edu/entries/scientific-unity/)
 -   [Universals, The Medieval Problem of](https://plato.stanford.edu/entries/universals-medieval/)
 -   [Vienna Circle](http://plato.stanford.edu/entries/vienna-circle/)
+-   [Wittgenstein, Ludwig. (1889-1951)](https://plato.stanford.edu/entries/wittgenstein/)
 
 ### IEP
 

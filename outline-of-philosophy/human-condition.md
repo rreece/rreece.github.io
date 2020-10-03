@@ -241,6 +241,8 @@ Hinduism
 
 -   [Vedas](https://en.wikipedia.org/wiki/Vedas)
     -   [Rigveda](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700-1,100 BCE)
+        -   Oldest known Vedic Sanskrit text.
+        -   Orally transmitted since the 2nd millennium BCE.
     -   Samaveda, Yajurveda, Atharvaveda
     -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
     -   Katz & Egenes translation of the Upanishads [^Katz2015]
@@ -751,8 +753,17 @@ Other religions
 
 ### Western
 
+#### Greco-Roman
+
 -   [Orphism](https://en.wikipedia.org/wiki/Orphism_(religion)) began 6th century BCE
     -   Lead to Pythagoreanism.
+-   [Pythagoreanism](https://en.wikipedia.org/wiki/Pythagoreanism)
+-   [Dionysian Mysteries](https://en.wikipedia.org/wiki/Dionysian_Mysteries)
+-   [Eleusinian Mysteries](https://en.wikipedia.org/wiki/Eleusinian_Mysteries)
+-   [Decline of Greco-Roman polytheism](https://en.wikipedia.org/wiki/Decline_of_Greco-Roman_polytheism)
+
+#### Norse
+
 -   [Old Norse religion](https://en.wikipedia.org/wiki/Old_Norse_religion)
 -   [Norse mythology](https://en.wikipedia.org/wiki/Norse_mythology)
 
