@@ -1367,6 +1367,7 @@ Psychology:
 
 -   [Robert Sapolsky's lecture on the biological underpinnings of religiosity](https://www.youtube.com/watch?v=4WwAQqWUkpI)
 -   [Atheist and Stanford biologist Robert Sapolsky explains how religious beliefs reduce stress](http://www.openculture.com/2017/11/atheist-stanford-biologist-robert-sapolsky-explains-how-religious-beliefs-reduce-stress.html)
+-   [Jerusalem syndrome](https://en.wikipedia.org/wiki/Jerusalem_syndrome)
 
 
 ### Costs of metaphysical confusion
