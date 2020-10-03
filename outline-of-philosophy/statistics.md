@@ -746,11 +746,13 @@ Replication crisis
     -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   Mayo
     -   ["Les stats, c'est moi: We take that step here!"](https://errorstatistics.com/2019/12/13/les-stats-cest-moi-we-take-that-step-here-adopt-our-fav-word-or-phil-stat/)
+    -   "Significance tests: Vitiated or vindicated by the replication crisis in psychology?" [^Mayo2020]
 -   Vox: [What a nerdy debate about p-values shows about science--and how to fix it](https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005)
 -   Karen Kafadar: [The Year in Review ... And More to Come](https://magazine.amstat.org/blog/2019/12/01/kk_dec2019/)
 
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
+[^Mayo2020]: @Mayo_2020_Significance_tests_Vitiated_or_vindicated_by\.
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
 
 

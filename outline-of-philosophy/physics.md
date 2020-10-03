@@ -627,10 +627,16 @@ Gravity and cosmology
 ### Cosmology
 
 -   Big bang
+    -   Alexander Friedmann solves the Einstein field equations for an expanding universe in 1922.
+    -   Edwin Hubble discovered that our galaxy is one of many in 1923.
+    -   Georges Lema&icirc;tre independently solved the Einstein field equations in 1927.
+    -   Edwin Hubble observationally confirmed the expansion of the universe in 1929.
+    -   Arno Penzias and Robert Wilson discovered the cosmic background radiation (CMB) in 1964.
+-   Inflation
+    -   Proposed by Alan Guth in 1979.
 -   Dark matter
 -   [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster)
 -   "A direct empirical proof of the existence of dark matter" [astro-ph/0608407](http://arxiv.org/abs/astro-ph/0608407)
--   Inflation
 -   $\Lambda$+CMD Cosmological Standard Model
 
 

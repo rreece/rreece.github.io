@@ -1015,7 +1015,7 @@ Other stuff:
 -   [Academic skepticism](https://en.wikipedia.org/wiki/Academic_skepticism)
 -   [Ancient skepticism](https://plato.stanford.edu/entries/skepticism-ancient/)
 -   [Arcesilaus](https://en.wikipedia.org/wiki/Arcesilaus) (c. 316/5-241/0 BCE)
--   Plato's *Phaedo* 64--67
+-   Plato, *Phaedo*, 64--67
 
 See also: [Indian and Greek philosophy](#indian-and-greek-philosophy)
 
@@ -1084,6 +1084,7 @@ Comparitive studies
 -   McEvilley, T. (2002). *The Shape of Ancient Thought* [^McEvilley2002]
 -   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
 -   Daniel Estrada: "Silk road philosophy"
+-   [socrethics.com: Indian sources of Hellenistic ethics](https://socrethics.com/Folder2/Hellenism-Buddhism.htm)
 
 #### Buddhism and Pyrrhonism
 
@@ -1185,6 +1186,13 @@ Biology
 [^Dennett1995]: @Dennett_1995_Darwins_Dangerous_Idea_Evolution\.
 [^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
 [^Rukeyser1976]: @Rukeyser_1976_Islands\.
+
+
+### Mass extinctions
+
+-   Raup & Sepkoski (1982) [^Raup1982]
+
+[^Raup1982]: @Raup_1982_Mass_extinctions_in_the_marine_fossil_record\.
 
 
 ### Genetics
@@ -1350,8 +1358,14 @@ Plato:
 
 ### Religion as a natural phenomena
 
+Anthropology:
+
 -   *Breaking the Spell: Religion as a natural phenomenon* [^Dennett2006]
--   anthropology
+
+Psychology:
+
+-   [Robert Sapolsky's lecture on the biological underpinnings of religiosity](https://www.youtube.com/watch?v=4WwAQqWUkpI)
+-   [Atheist and Stanford biologist Robert Sapolsky explains how religious beliefs reduce stress](http://www.openculture.com/2017/11/atheist-stanford-biologist-robert-sapolsky-explains-how-religious-beliefs-reduce-stress.html)
 
 
 ### Costs of metaphysical confusion
@@ -1525,9 +1539,11 @@ Click to show links
 -   [Suicide](http://plato.stanford.edu/entries/suicide/)
 -   [Two truths doctrine](https://plato.stanford.edu/entries/twotruths-india/)
 -   [Vasubandhu](https://plato.stanford.edu/entries/vasubandhu/)
+-   [Zeno of Elea](https://plato.stanford.edu/entries/zeno-elea/)
 
 ### IEP
 
+-   [Ancient Greek Skepticism](https://iep.utm.edu/skepanci/)
 -   [Aurelius, Marcus (121-180)](http://www.iep.utm.edu/marcus/)
 -   [Buddha](http://www.iep.utm.edu/buddha/)
 -   [Epictetus (55-135)](http://www.iep.utm.edu/epictetu/)
@@ -1657,6 +1673,11 @@ Click to show links
 -   [Zen](https://en.wikipedia.org/wiki/Zen)
 -   [Zeno of Citium (c. 334-262 BCE)](https://en.wikipedia.org/wiki/Zeno_of_Citium)
 -   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
+
+### Others
+
+-   [socrethics.com: A Socratic examination of the Buddhist truths](https://www.socrethics.com/)
+-   [Zeno of Citium (c. 334-262 BCE)](https://www.ancient.eu/Zeno_of_Citium/) - ancient.eu
 
 ### Videos
 
