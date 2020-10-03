@@ -1736,6 +1736,7 @@ Click to show links
 -   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu)
 -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
 -   [Xenophanes (c. 570-478 BCE)](https://en.wikipedia.org/wiki/Xenophanes)
+-   [Xenophon (c. 431-354 BCE)](https://en.wikipedia.org/wiki/Xenophon)
 -   [Zen](https://en.wikipedia.org/wiki/Zen)
 -   [Zeno of Citium (c. 334-262 BCE)](https://en.wikipedia.org/wiki/Zeno_of_Citium)
 -   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)

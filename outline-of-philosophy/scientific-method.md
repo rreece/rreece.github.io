@@ -43,6 +43,7 @@ Click to show the paltry outline of the history of science
     -   speculated that humans evolved from fish?
     -   first to make a map?
 -   [Anaximenes](https://en.wikipedia.org/wiki/Anaximenes_of_Miletus) (c. 586-526 BCE)
+-   [Xenophanes](https://en.wikipedia.org/wiki/Xenophanes) (c. 570-478 BCE)
 -   [Pythagoras](https://en.wikipedia.org/wiki/Pythagoras) (570-495 BCE)
     -   radical mathematical realist
 -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
@@ -84,6 +85,7 @@ Click to show the paltry outline of the history of science
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
     -   Emphasized skepticism until something can be demonstrated 
     -   Principle of Multiple Explanations: "if several theories are consistent with the observed data, retain them all"
+-   [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) (c. 334-262 BCE)
 -   [Euclid](http://en.wikipedia.org/wiki/Euclid) (fl. 300 BCE)
     -    logico-deductive method founded by Euclid's *Elements*
 -   [Aristarchus of Samos](http://en.wikipedia.org/wiki/Aristarchus_of_Samos) (310-230 BCE)
@@ -1418,6 +1420,8 @@ Click to show links
 -   [Volta, Alessandro (1745-1827)](https://en.wikipedia.org/wiki/Alessandro_Volta)
 -   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
 -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
+-   [Xenophanes (c. 570-478 BCE)](https://en.wikipedia.org/wiki/Xenophanes)
+-   [Xenophon (c. 431-354 BCE)](https://en.wikipedia.org/wiki/Xenophon)
 
 ### Others
 
