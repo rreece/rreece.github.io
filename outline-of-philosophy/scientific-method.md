@@ -377,7 +377,7 @@ TODO: find the above quote from Locke.
 [^Newton2016]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\.
 
 
-Analytic-synthetic distinction
+Analytic/synthetic distinction
 --------------------------------------------------------------------------------
 
 ### Definitions
@@ -409,14 +409,14 @@ Kant in his *Critique of Pure Reason* (1781):
 >   thought in that concept at all and could not have been extracted from it
 >   by any dissection. [^Kant1996pB10]
 
-TODO: 2x2 figure *a priori--a posteriori* vs analytic--synthetic.
+TODO: 2x2 figure *a priori/a posteriori* vs analytic/synthetic.
 
 -   Are there synthetic a priori statements?
     -   Kant thinks so.
 
 See also:
 
--   [Attack on the analytic-synthetic distinction](scientific-realism.html#attack-on-the-analytic-synthetic-distinction)
+-   [Attack on the analytic/synthetic distinction](scientific-realism.html#attack-on-the-analyticsynthetic-distinction)
     in the discussion of [Postpositivism](scientific-realism.html#positivism).
 
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.

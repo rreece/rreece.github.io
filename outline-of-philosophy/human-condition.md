@@ -197,6 +197,7 @@ Abrahamism
 -   [Christianity](https://en.wikipedia.org/wiki/Christianity) (began 1st century CE)
 -   Breaks distinction between kinship and tribe. Anyone can join.
 -   [Paul the Apostle](https://en.wikipedia.org/wiki/Paul_the_Apostle) (c. 5-64 CE)
+-   [Eusebius](https://en.wikipedia.org/wiki/Eusebius) (c. 260/5 - 339/340 CE)
 -   [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (354-430 CE)
 -   [East-West Schism](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism) (1054 CE)
 -   [Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas) (1225-1274)
@@ -301,6 +302,7 @@ Hinduism
     -   Shiva
 -   Others:
     -   [Ganesha](https://en.wikipedia.org/wiki/Ganesha)
+    -   [Indra](https://en.wikipedia.org/wiki/Indra)
 
 ![The Wheel of Dharma ([Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra))
     is an imporant symbol in many dharmic religions,
@@ -760,6 +762,7 @@ Other religions
 -   [Pythagoreanism](https://en.wikipedia.org/wiki/Pythagoreanism)
 -   [Dionysian Mysteries](https://en.wikipedia.org/wiki/Dionysian_Mysteries)
 -   [Eleusinian Mysteries](https://en.wikipedia.org/wiki/Eleusinian_Mysteries)
+    -   Brian Muraresku
 -   [Decline of Greco-Roman polytheism](https://en.wikipedia.org/wiki/Decline_of_Greco-Roman_polytheism)
 
 #### Norse
@@ -840,8 +843,15 @@ Stoicism
     -   A stoa is an ancient Greek public covered walkway. Stoicism originally got
         its name from being a philosophy discussed out in public.
 -   [Zeno of Citium](https://en.wikipedia.org/wiki/Zeno_of_Citium) (c. 334-262 BCE)
+    -   He was a wealthy merchant, who on a voyage from Phoenicia to Peiraeus,
+        was shipwrecked. After surving he read Xenophon's *Memorabilia* about Socrates,
+        and Zeno devoted himself to studying philosophy.
+    -   He studied under the Cynic [Crates of Thebes](https://en.wikipedia.org/wiki/Crates_of_Thebes).
+    -   Founder of the Stoic school of philosophy in Athens c. 300 BCE.
 -   [Cleanthes](https://en.wikipedia.org/wiki/Cleanthes) (c. 330-230 BCE)
+    -   Successor to Zeno of Citium as the second head the Stoic school in Athens.
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
+    -   Studied under Cleanthes and became the third head of the Stoic school in Athens.
 -   [Seneca (the Younger)](https://en.wikipedia.org/wiki/Seneca_the_Younger) (4 BCE - 65 CE)
     -   Roman statesman and later tutor to Emperor Nero
     -   *On the Shortness of Life* (49 CE) - (*De Brevitate Vitae*) [^Seneca1997]
@@ -999,11 +1009,16 @@ Other stuff:
 
 ### Related movements
 
+![Another reconstruction of the influence of Socrates on Hellonistic schools of philosophy
+    (source: [socrethics.com](https://socrethics.com/Folder2/Hellenism-Buddhism.htm)).
+    ](img/influence-of-socrates.jpg){#fig:influence-of-socrates}
+
 #### Cynicism
 
 -   [Cynicism](https://en.wikipedia.org/wiki/Cynicism_(philosophy))
 -   [Antisthenes](https://en.wikipedia.org/wiki/Antisthenes) (446-366 BCE)
--   [Diogenes](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
+-   [Diogenes of Sinope](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
+-   [Crates of Thebes](https://en.wikipedia.org/wiki/Crates_of_Thebes) (c. 365-285 BCE)
 
 #### Epicureanism
 
@@ -1014,12 +1029,23 @@ Other stuff:
 -   [Lucretius](https://en.wikipedia.org/wiki/Lucretius) (c. 99-55 BCE)
 -   Epictetus, *Discourses*, 2.20
 -   Pigliucci, M. (2019). [Epic battles in practical ethics: Stoicism vs Epicureanism](https://medium.com/stoicism-philosophy-as-a-way-of-life/epic-battles-in-practical-ethics-stoicism-vs-epicureanism-dc124e8dc9). [^Pigliucci2019]
+-   TODO: Compare and contrast Epicureanism and Stoicism.
+
+[^Pigliucci2019]: @Pigliucci_2019_Epic_battles_in_practical_ethics_Stoicism_vs\.
 
 #### Pyrrhonism
 
 -   [Pyrrhonism](https://en.wikipedia.org/wiki/Pyrrhonism)
 -   [Pyrrho](https://en.wikipedia.org/wiki/Pyrrho) (c. 360-270 BCE)
+-   If Pyrrho returned in 323 BCE from traveling with Alexander the Great
+    in his campaign into the East for 11 years, he would have been about 37 years old,
+    and Zeno would have been about 11 years old, being born about the year of the
+    start of the campaign, c. 334 BCE.
+-   Pyrrho was influened by Buddhism when he was in India.
+-   TODO: Did Zeno of Citium ever meet Pyrrho or Timon of Phlius?
+-   [Timon of Phlius](https://en.wikipedia.org/wiki/Timon_of_Phlius) (c. 320-235 BCE)
 -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
+-   See also: [Indian and Greek philosophy](#indian-and-greek-philosophy)
 
 #### Academic skepticism
 
@@ -1027,10 +1053,6 @@ Other stuff:
 -   [Ancient skepticism](https://plato.stanford.edu/entries/skepticism-ancient/)
 -   [Arcesilaus](https://en.wikipedia.org/wiki/Arcesilaus) (c. 316/5-241/0 BCE)
 -   Plato, *Phaedo*, 64--67
-
-See also: [Indian and Greek philosophy](#indian-and-greek-philosophy)
-
-[^Pigliucci2019]: @Pigliucci_2019_Epic_battles_in_practical_ethics_Stoicism_vs\.
 
 
 ### Criticism
@@ -1096,6 +1118,25 @@ Comparitive studies
 -   Video: [Thomas McEvilley on *The Shape of Ancient Thought*](https://www.youtube.com/watch?v=8HAiTfOSP_w).
 -   Daniel Estrada: "Silk road philosophy"
 -   [socrethics.com: Indian sources of Hellenistic ethics](https://socrethics.com/Folder2/Hellenism-Buddhism.htm)
+-   [Diogenes of Sinope](https://en.wikipedia.org/wiki/Diogenes) (412-323 BCE)
+    -   Diogenes is speculated by McEvilley to have met Black Sea shamans who had previously
+        met Indian ascetics, and Diogenes brought Indian ascetic practices to Greece. [^McEvilley2002p10]
+    -   McEvilley also notes a story recorded by Eusebius quoting Aristoxenus
+        that [Socrates was visited in Athens by an Indian yogi](https://varnam.org/2012/11/the-yogi-who-met-socrates/).
+
+[^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.
+[^McEvilley2002p10]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 10.
+
+
+#### Buddhism and Orphism
+
+-   [Empedocles](https://en.wikipedia.org/wiki/Empedocles) (c. 494-434 BCE)
+
+#### Buddhism and Plato
+
+-   [Plato (428/7 or 424/3 - 348/7 BCE)](https://plato.stanford.edu/entries/plato/)
+-   TODO: Plato believed in reincarnation.
+-   *Phaedo*
 
 #### Buddhism and Pyrrhonism
 
@@ -1110,15 +1151,6 @@ Comparitive studies
 ![Campaign of Alexander the Great into the East (334-323 BCE). Larger version: [here](img/campaign-of-alexander-large.jpg).
     (source:[Wikipedia](https://commons.wikimedia.org/wiki/File:MacedonEmpire.jpg))
     ](img/campaign-of-alexander.jpg){#fig:campaign-of-alexander}
-
-#### Buddhism and Orphism
-
--   [Empedocles](https://en.wikipedia.org/wiki/Empedocles) (c. 494-434 BCE)
-
-#### Buddhism and Plato
-
--   TODO: Plato believed in reincarnation.
--   *Phaedo*
 
 #### Buddhism and Stoicism
 
@@ -1136,8 +1168,6 @@ Comparitive studies
         -   Kant: phenomena vs noumena
         -   Sellars: manifest vs scientific image
 
-[^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.
-
 
 ### Perennial philosophy
 
@@ -1149,6 +1179,10 @@ Comparitive studies
 -   [Perennial philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy)
 -   [Syncretism](https://en.wikipedia.org/wiki/Syncretism)
 
+[^Huxley1945]: @Huxley_1945_The_Perennial_Philosophy\.
+
+#### Criticism
+
 In defending esoteric knowledge [^EsotericKnowledge] Huxley's views are
 decidedly not naturalistic:
 
@@ -1158,7 +1192,6 @@ decidedly not naturalistic:
 >   were capable of a more than merely human kind and amount of knowledge. [^Huxley1945p5]
 
 [^EsotericKnowledge]: See discussion of non-naturalistic "esoteric knowledge" in the [Outline on naturalism](naturalism.html#what-is-naturalism).
-[^Huxley1945]: @Huxley_1945_The_Perennial_Philosophy\.
 [^Huxley1945p5]: @Huxley_1945_The_Perennial_Philosophy\, p. 5--6.
 
 
@@ -1380,6 +1413,8 @@ Psychology:
 -   [Atheist and Stanford biologist Robert Sapolsky explains how religious beliefs reduce stress](http://www.openculture.com/2017/11/atheist-stanford-biologist-robert-sapolsky-explains-how-religious-beliefs-reduce-stress.html)
 -   [Jerusalem syndrome](https://en.wikipedia.org/wiki/Jerusalem_syndrome)
 
+[^Dennett2006]: @Dennett_2006_Breaking_the_Spell_Religion_as_a_natural\.
+
 
 ### Costs of metaphysical confusion
 
@@ -1388,10 +1423,21 @@ Psychology:
 -   Shame, guilt, lack of dignity
 -   Misplaced efforts, wasted time
 -   Evil eye, judgment and conflict in society
+-   Xenophanes
+-   Epicurus
+-   Lucretius
 -   Sam Harris
--   Xenophanes?, Epicurus, Lucretius
 
-[^Dennett2006]: @Dennett_2006_Breaking_the_Spell_Religion_as_a_natural\.
+>   But if cattle or lions had hands, so as to paint with their hands and
+>   produce works of art as men do, they would paint their gods and give
+>   them bodies in form like their own---horses like horses, cattle like cattle. [^XenophanesB15]
+
+>   Ethiopians make their gods black and snub-nosed;
+>   Thracians that theirs red-haired and with blue eyes;
+>   so also they conceive the spirits of the gods to be like themselves. [^XenophanesB16]
+
+[^XenophanesB15]: Xenophanes, *Fragment B15*, <https://iep.utm.edu/xenoph/>
+[^XenophanesB16]: Xenophanes, *Fragment B16*, <https://plato.stanford.edu/entries/xenophanes/>
 
 
 Existentialism
@@ -1544,6 +1590,7 @@ Click to show links
 -   [Lucretius (c. 99-55 BCE)](https://plato.stanford.edu/entries/lucretius/)
 -   [Meaning of Life, The](http://plato.stanford.edu/entries/life-meaning/)
 -   [Nietzsche, Friedrich (1844-1900)](http://plato.stanford.edu/entries/nietzsche/)
+-   [Plato (428/7 or 424/3 - 348/7 BCE)](https://plato.stanford.edu/entries/plato/)
 -   [Pyrrho (c. 360-270 BCE)](https://plato.stanford.edu/entries/pyrrho/)
 -   [Religious Experience](https://plato.stanford.edu/entries/religious-experience/)
 -   [Sartre, Jean-Paul (1905-1980)](https://plato.stanford.edu/entries/sartre/)
@@ -1552,6 +1599,7 @@ Click to show links
 -   [Suicide](http://plato.stanford.edu/entries/suicide/)
 -   [Two truths doctrine](https://plato.stanford.edu/entries/twotruths-india/)
 -   [Vasubandhu](https://plato.stanford.edu/entries/vasubandhu/)
+-   [Xenophanes (c. 570-478 BCE)](https://plato.stanford.edu/entries/xenophanes/)
 -   [Zeno of Elea](https://plato.stanford.edu/entries/zeno-elea/)
 
 ### IEP
@@ -1567,10 +1615,13 @@ Click to show links
 -   [Lucretius (c. 99-55 BCE)](https://www.iep.utm.edu/lucretiu/)
 -   [Modern morality and ancient ethics](https://www.iep.utm.edu/anci-mod/)
 -   [Nihilism](http://www.iep.utm.edu/nihilism/)
+-   [Plato (428/7 or 424/3 - 348/7 BCE)](http://www.iep.utm.edu/plato/)
+-   [Pyrrho (c. 360-270 BCE)](https://iep.utm.edu/pyrrho/)
 -   [Sartre, Jean-Paul (1905-1980): Existentialism](https://www.iep.utm.edu/sartre-ex/)
 -   [Stoicism](http://www.iep.utm.edu/stoicism/)
 -   [Stoic ethics](http://www.iep.utm.edu/stoiceth/)
 -   [Vasubandhu](https://www.iep.utm.edu/vasubandhu/)
+-   [Xenophanes (c. 570-478 BCE)](https://iep.utm.edu/xenoph/)
 
 ### Wikipedia
 
@@ -1655,6 +1706,7 @@ Click to show links
 -   [Nihilism](http://en.wikipedia.org/wiki/Nihilism)
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
+-   [Plato (428/7 or 424/3 - 348/7 BCE)](https://en.wikipedia.org/wiki/Plato)
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da)
 -   [Purus&amacr;rtha](https://en.wikipedia.org/wiki/Puru%E1%B9%A3%C4%81rtha)
 -   [Pyrrho (c. 360-270 BCE)](https://en.wikipedia.org/wiki/Pyrrho)
@@ -1678,11 +1730,12 @@ Click to show links
 -   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
 -   [Tillich, Paul (1886-1965)](https://en.wikipedia.org/wiki/Paul_Tillich)
+-   [Timon of Phlius (c. 320-235 BCE)](https://en.wikipedia.org/wiki/Timon_of_Phlius)
 -   [Two truths doctrine](https://en.wikipedia.org/wiki/Two_truths_doctrine)
 -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
 -   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu)
 -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
--   [Xenophanes (c. 570-475 BCE)](https://en.wikipedia.org/wiki/Xenophanes)
+-   [Xenophanes (c. 570-478 BCE)](https://en.wikipedia.org/wiki/Xenophanes)
 -   [Zen](https://en.wikipedia.org/wiki/Zen)
 -   [Zeno of Citium (c. 334-262 BCE)](https://en.wikipedia.org/wiki/Zeno_of_Citium)
 -   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)

@@ -417,7 +417,6 @@ and constraining real structures in nature.
 ### Early positivism
 
 #### Auguste Comte
--   Comte and Mill
 
 Comte on the unknowability of the composition of stars:
 
@@ -433,10 +432,11 @@ Comte on the unknowability of the composition of stars:
 
 (He was wrong!)
 
+-   Comte and Mill
+
 #### Ernst Mach
 
 -   TODO
-
 
 #### Wittgenstein
 
@@ -535,6 +535,7 @@ Also:
 
 -   Movements in "positivism": [positivists.org/blog/movements](http://positivists.org/blog/movements)
 -   Neopositivism
+-   Richard Creathe
 -   Ladyman & Ross [^Ladyman2007pX]
 -   Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
 
@@ -608,23 +609,23 @@ Various reactions to positivism.
 -   Nancy Cartwright (b. 1944)
 
 
-### Attack on the analytic-synthetic distinction
+### Attack on the analytic/synthetic distinction
 
 >   Among the developments that led to the revival of metaphysical theorizing
->   were Quine's attack on the analytic-synthetic distinction, which was
+>   were Quine's attack on the analytic/synthetic distinction, which was
 >   generally taken to undermine Carnap's distinction between existence
 >   questions internal to a framework and those external to
 >   it. [^WikipediaMetaphysics]
 
 -   Quine's "Two Dogmas of Empiricism" [^Quine1951-2]
-    1.  analytic-synthetic distinction
+    1.  analytic/synthetic distinction
     2.  reductionism (verification theory of meaning)
 -   Quine: pale gray lore. TODO: find quote.
 -   Duhem-Quine thesis
 -   inscrutability of reference
 -   Quine-Carnap correspondence [^Quine1990-2]
 -   Does ontology rest on a mistake? [^Yablo1998]
--   See also the longer discussion of the [analytic-synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
+-   See also the longer discussion of the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
     in the [Outline on the scientific method](scientific-method.html).
 
 [^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
