@@ -277,11 +277,10 @@ Antisthenes:
 >   A horse I can see, but horsehood I cannot see.
 
 -   Plato: "Third Man Argument" in *Parmenides*
--   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 -   medieval nominalism
--   positivism, Carnap, ESO
--   *Science Without Numbers* [^Field1980]
--   Bueno [^Bueno2013]
+    -   [Medieval Problem of Universals](https://plato.stanford.edu/entries/universals-medieval/)
+    -   [Roscellinus (c. 1050 - c. 1125)](https://en.wikipedia.org/wiki/Roscellinus)
+    -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
 
 Bayes:
 
@@ -294,11 +293,21 @@ Bayes:
 >   but supposing things to be in a certain way, what are the consequences
 >   to be deduced from them. [^Bayes1736p9]
 
--   John Burgess
+Johwn Stuart Mill:
+
+>   Nominalists, who, repudiating Universal Substances, held that
+>   there is nothing general except names. [^Mill1877]
+
+-   positivism, Carnap, ESO
+-   Field: *Science Without Numbers* [^Field2016]
+-   John Burgess [^Burgess1983]
+-   Bueno [^Bueno2013]
 
 [^Bayes1736p9]: @Bayes_1736_An_Introduction_to_the_Doctrine_of_Fluxions\, p. 9--10.
 [^Bueno2013]: @Bueno_2013_Nominalism_in_the_philosophy_of_mathematics\.
-[^Field1980]: @Field_1980_Science_Without_Numbers\.
+[^Burgess1983]: @Burgess_1983_Why_I_am_not_a_nominalist\.
+[^Field2016]: @Field_2016_Science_Without_Numbers\.
+[^Mill1877]: @Mill_1877_An_Examination_of_Sir_William_Hamiltons\.
 
 
 Logicism
@@ -446,7 +455,7 @@ Annotated bibliography
 
 ### Field, H. (1980). *Science Without Numbers*.
 
--   @Field_1980_Science_Without_Numbers
+-   @Field_2016_Science_Without_Numbers
 
 #### My thoughts
 
