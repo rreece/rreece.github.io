@@ -456,7 +456,7 @@ Wittgenstein studied with and was influenced by
 >   *Tractatus Logico-Philosophicus*, the only philosophy book that Wittgenstein
 >   published during his lifetime. It claimed to solve all the major problems
 >   of philosophy and was held in especially high esteem by the anti-metaphysical
->   logical positivists. The Tractatus is based on the idea that philosophical
+>   logical positivists. The *Tractatus* is based on the idea that philosophical
 >   problems arise from misunderstandings of the logic of language, and it tries
 >   to show what this logic is. Wittgenstein's later work, principally his
 >   *Philosophical Investigations*, shares this concern with logic and language,
