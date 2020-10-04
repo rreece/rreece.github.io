@@ -475,9 +475,12 @@ Wittgenstein studied with and was influenced by
         While Wittgenstein had relations with them, he never participated in the meetings
         lead by Schlick. (TODO:ref)
     -   TODO: While the *Tractatus* does focus on verifiability as an anti-metaphysical
-        criterion, it appears to me that Wittgenstein's early views of structure ultimately
-        follow some kind of platonism. Was he maybe a realist? No, his early views seem to
-        follow logicism, and later he transitioned to a constructivism.
+        criterion, it doesn't seem that he ever identified with positivism.
+    -   TODO: Most consider Wittgenstein's early views to follow a kind of logicism
+        that is ultimately anti-realist; but to me, there appears to be an interpretation
+        of that Wittgenstein's early views of structure that ultimately
+        follow some kind of platonism, the correspondence theory of truth, and a sense
+        of realism. 
     -   "Some Remarks on Logical Form" [^Wittgenstein1929]
 -   Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
