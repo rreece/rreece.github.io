@@ -356,21 +356,7 @@ Redhead:
 Positivism
 --------------------------------------------------------------------------------
 
-### Theses
-
-1.  Hume's fork, the analytic/synthetic distinction
-2.  Verification theory of meaning: the meaning of a proposition is the means to verify it.
-    All statements that cannot be empirically verified in principle are meaningless.
-3.  Carnap's principle of tolerance
-4.  Unity of science
-
-<center>
-<blockquote class="twitter-tweet">
-<p lang="en" dir="ltr">Orthodox logical positivism:<br>1) only verifiable statements re meaningful;<br>2) all legitimate statements are translatable to observational language (different interpretations); <br>3) unity of science (different interpretations). 1/X</p>&mdash; panu raatikainen (&commm;panuraatikainen)
-<a href="https://twitter.com/panuraatikainen/status/1246111315401244676?ref_src=twsrc%5Etfw">April 3, 2020</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
+### Introduction
 
 -   antirealist
 -   nominalism
@@ -412,6 +398,27 @@ a version of structural realism about the discoveries from science, capturing
 and constraining real structures in nature.
 
 [^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
+
+
+### Theses
+
+1.  Hume's fork, the analytic/synthetic distinction
+2.  Verification theory of meaning: the meaning of a proposition is the means to verify it.
+    All statements that cannot be empirically verified in principle are meaningless.
+    -   Scheinproblem = Pseudo-problem
+3.  Carnap's principle of tolerance
+    -   Principle of tolerance [^Leitgeb2020H]
+4.  Unity of science
+
+<center>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Orthodox logical positivism:<br>1) only verifiable statements re meaningful;<br>2) all legitimate statements are translatable to observational language (different interpretations); <br>3) unity of science (different interpretations). 1/X</p>&mdash; panu raatikainen (&commm;panuraatikainen)
+<a href="https://twitter.com/panuraatikainen/status/1246111315401244676?ref_src=twsrc%5Etfw">April 3, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
+[^Leitgeb2020H]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html).
 
 
 ### Early positivism
@@ -463,26 +470,30 @@ Wittgenstein studied with and was influenced by
 >   but takes a different, less technical, approach to philosophical problems.
 >   This book helped to inspire so-called ordinary language philosophy. [^Richter2004]
 
--   *Tractatus Logico-Philosophicus* (1922) [^Wittgenstein1922]
-    -   The picture theory of meaning
+*Tractatus Logico-Philosophicus* (1922) [^Wittgenstein1922]
+
+-   The picture theory of meaning
     -   Correspondence theory of truth?
-    -   Logical atomism
-    -   Verifiability or quietism
-    -   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
-    -   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
-    -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
-    -   Wittgenstein's *Tractatus* was read by and greatly influenced The Vienna Circle.
-        While Wittgenstein had relations with them, he never participated in the meetings
-        lead by Schlick. (TODO:ref)
-    -   TODO: While the *Tractatus* does focus on verifiability as an anti-metaphysical
-        criterion, it doesn't seem that he ever identified with positivism.
-    -   TODO: Most consider Wittgenstein's early views to follow a kind of logicism
-        that is ultimately anti-realist; but to me, there appears to be an interpretation
-        of that Wittgenstein's early views of structure that ultimately
-        follow some kind of platonism, the correspondence theory of truth, and a sense
-        of realism. 
-    -   "Some Remarks on Logical Form" [^Wittgenstein1929]
--   Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
+-   Logical atomism
+    -   Analyticity
+-   Verifiability and quietism
+    -   Anti-metaphysics that impressed the logical postivists
+-   [C.K. Ogden & F.P. Ramsey translation](https://web.archive.org/web/20200726065157/http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
+-   [D.F. Pears & B.F. McGuinness translation](https://web.archive.org/web/20200228040145/http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
+-   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
+-   Wittgenstein's *Tractatus* was read by and greatly influenced The Vienna Circle.
+    While Wittgenstein had relations with them, he never participated in the meetings
+    lead by Schlick. (TODO:ref)
+-   TODO: While the *Tractatus* does focus on verifiability as an anti-metaphysical
+    criterion, it doesn't seem that he ever identified with positivism.
+-   TODO: Most consider Wittgenstein's early views to follow a kind of logicism
+    that is ultimately anti-realist; but to me, there appears to be an interpretation
+    of that Wittgenstein's early views of structure that ultimately
+    follow some kind of platonism, the correspondence theory of truth, and a sense
+    of realism. 
+-   "Some Remarks on Logical Form" [^Wittgenstein1929]
+
+Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\.
 [^Wittgenstein1922]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
@@ -492,16 +503,18 @@ Wittgenstein studied with and was influenced by
 ### Logical positivism and the Vienna Circle
 
 -   Vienna circle [^Murzi2004]
-    -   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Otto Neurath, and others.
-    -   von Neuman, Hilbert, Wittgenstein
-    -   "The scientific conception of the world" - The Vienna Circle's manifesto [^Hahn1973]
--   A.J. Ayer (1910-1989)
-    -   *Language, Truth, and Logic* (1936) [^Ayer1936]
+-   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924 to 1936.
+-   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Victor Kraft, Otto Neurath, Friedrich Waismann, and others.
+-   Ludwig Wittgenstein and Karl Popper corresponded with the circle but did not attend.
+-   "The scientific conception of the world" (1929) - The Vienna Circle's manifesto [^Hahn1973]
+-   Carnap: *The Logical Structure of the World* (1928) - (*Der Logische Aufbau der Welt*) [^Carnap1928]
+-   A.J. Ayer (1910-1989): *Language, Truth, and Logic* (1936) [^Ayer1936]
 -   *International Encyclopedia of Unified Science*
     -   Only the first section *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
 -   The murder of Schlick in 1936 by a former student put an end to the Vienna Circle in Austria.
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
+[^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\.
 
@@ -523,6 +536,26 @@ TODO: Note any differences between:
 
 ### Later positivism
 
+-   Carnap emigrated to the United States in 1935.
+-   Carnap: "Testibility and Meaning" (1936-7) [^Carnap1937]
+    -   Argued to replace verification with confirmation.
+    -   Carnap spent many years trying to develop a theory of degree of confirmation
+        but was never able to satisfactorily formulate a model. [^Murzi2001]
+-   Reichenbach emigrated to the US in TODO.
+-   Positivism affects the structure of education and law
+-   Connection to the projects of Dewey and pragmatism
+
+Some Carnap works:
+
+-   *The Logical Syntax of Language* (1937) [^Carnap1937LSL]
+    -   Fowler: "LSL in a nutshell" [^Fowler2010]
+    -   Leitgeb & Carus: "talk of meaning should in any case be eschewed in favor of talk of syntax" [^Leitgeb2020G]
+-   "Empiricists, semantics, and ontology" [^Carnap1950]
+-   "Logical foundations of science" [^Carnap1955]
+-   *The Philosophy of Rudolf Carnap* AKA the "Schlipp volume" [^Schlipp1963]
+-   *The Cambridge Companion to Carnap* [^Friedman2007]
+-   Leitgeb, H. & Carus, A. (2020). [Rudolf Carnap](https://plato.stanford.edu/entries/carnap/index.html). *SEP*. [^Leitgeb2020]
+
 Russell:
 
 >   Modern analytical empiricism [...] differs from that of Locke, Berkeley, and Hume 
@@ -534,22 +567,6 @@ Russell:
 >   at one stroke a block theory of the whole universe. Its methods, in this respect, 
 >   resemble those of science. [^Russell1945p834]
 
--   Carnap and Reichenbach move to the US.
--   Positivism affects the structure of education and law
--   Connection to the projects of Dewey and pragmatism
-
-Some Carnap works:
-
--   *The Logical Structure of the World* (*Der Logische Aufbau der Welt*) [^Carnap1928]
--   Scheinproblem = Pseudo-problem
--   *The Logical Syntax of Language* [^Carnap1937]
-    -   LSL in a nutshell [^Fowler2010]
-    -   "talk of meaning should in any case be eschewed in favor of talk of syntax" - [SEP](https://plato.stanford.edu/entries/carnap/syntax.html)
--   "Empiricists, semantics, and ontology" [^Carnap1950]
--   "Logical foundations of science" [^Carnap1955]
--   *The Philosophy of Rudolf Carnap* AKA the "Schlipp volume" [^Schlipp1963]
--   *The Cambridge Companion to Carnap* [^Friedman2007]
-
 Also:
 
 -   Movements in "positivism": [positivists.org/blog/movements](http://positivists.org/blog/movements)
@@ -558,13 +575,16 @@ Also:
 -   Ladyman & Ross [^Ladyman2007pX]
 -   Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
 
-[^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
-[^Carnap1937]: @Carnap_1937_Logical_Syntax_of_Language\.
+[^Carnap1937]: @Carnap_1936_Testability_and_meaning and @Carnap_1937_Testability_and_meaning_continued\.
+[^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 [^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
 [^Ladyman2007pX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO.
+[^Leitgeb2020]: @Leitgeb_2020_Rudolf_Carnap\.
+[^Leitgeb2020G]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement G: Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html).
+[^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\.
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 [^Schlipp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 
@@ -703,6 +723,8 @@ Poincar&eacute;:
 Ayer:
 
 >   The most important defect was that nearly all of it was false. [^Ayer1978]
+
+-   Hempel: Raven paradox
 
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
 
@@ -1462,6 +1484,7 @@ Click to show links
 -   [Quine, W.V. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Quine's paradox](http://en.wikipedia.org/wiki/Quine%27s_paradox)
 -   [Radical empiricism](http://en.wikipedia.org/wiki/Radical_empiricism)
+-   [Raven paradox](https://en.wikipedia.org/wiki/Raven_paradox)
 -   [Realism, Philosophical](http://en.wikipedia.org/wiki/Philosophical_realism)
 -   [Reichenbach, Hans (1891-1953)](http://en.wikipedia.org/wiki/Hans_Reichenbach)
 -   [Rorty, Richard (1931-2007)](https://en.wikipedia.org/wiki/Richard_Rorty)
