@@ -73,6 +73,7 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
     -   [Library of Ashurbanipal](https://en.wikipedia.org/wiki/Library_of_Ashurbanipal) (c. 7th century BCE)
 -   [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt) - [First Dynasty](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt) (c. 3,150-2,890 BCE)
     -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing begins c. 3,200 BCE.
+-   [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) (c. 2,500-539 BCE)
 -   [Hittites](https://en.wikipedia.org/wiki/Hittites) (c. 1,600-1,178 BCE)
     -   [Late Bronze Age collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) (c. 1,200-1,150 BCE)
 -   [Ancient Greece](https://en.wikipedia.org/wiki/Ancient_Greece) (c. 1,200 BCE - 600 CE)
