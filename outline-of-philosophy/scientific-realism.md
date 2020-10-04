@@ -434,18 +434,24 @@ Comte on the unknowability of the composition of stars:
 
 -   Comte and Mill
 
+[^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
+    Translation of passage taken from:           
+    <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
+
+
 #### Ernst Mach
 
 -   TODO
 
 #### Wittgenstein
 
+Wittgenstein studied with and was influenced by
+
 -   Gottlob Frege (1848-1925)
     -   Sense and reference (1892)
 -   Bertrand Russell & Afred North Whitehead
     -   *Principia Mathematica* (1910)
 -   George Edward Moore
--   Wittgenstein
 
 >   *Tractatus Logico-Philosophicus*, the only philosophy book that Wittgenstein
 >   published during his lifetime. It claimed to solve all the major problems
@@ -457,18 +463,27 @@ Comte on the unknowability of the composition of stars:
 >   but takes a different, less technical, approach to philosophical problems.
 >   This book helped to inspire so-called ordinary language philosophy. [^Richter2004]
 
--   *Tractatus Logico-Philosophicus* (1921) [^Wittgenstein1921]
--   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
--   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
--   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
--   quietism
--   See also: [Ordinary language philosophy](#ordinary-language-philosophy)
+-   *Tractatus Logico-Philosophicus* (1922) [^Wittgenstein1922]
+    -   The picture theory of meaning
+    -   Correspondence theory of truth?
+    -   Logical atomism
+    -   Verifiability or quietism
+    -   [C.K. Ogden & F.P. Ramsey translation](http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
+    -   [D.F. Pears & B.F. McGuinness translation](http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
+    -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
+    -   Wittgenstein's *Tractatus* was read by and greatly influenced The Vienna Circle.
+        While Wittgenstein had relations with them, he never participated in the meetings
+        lead by Schlick. (TODO:ref)
+    -   TODO: While the *Tractatus* does focus on verifiability as an anti-metaphysical
+        criterion, it appears to me that Wittgenstein's early views of structure ultimately
+        follow some kind of platonism. Was he maybe a realist? No, his early views seem to
+        follow logicism, and later he transitioned to a constructivism.
+    -   "Some Remarks on Logical Form" [^Wittgenstein1929]
+-   Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
-[^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
-    Translation of passage taken from:           
-    <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\.
-[^Wittgenstein1921]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
+[^Wittgenstein1922]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
+[^Wittgenstein1929]: @Wittgenstein_1929_Some_remarks_on_logical_form\.
 
 
 ### Logical positivism and the Vienna Circle
@@ -481,6 +496,7 @@ Comte on the unknowability of the composition of stars:
     -   *Language, Truth, and Logic* (1936) [^Ayer1936]
 -   *International Encyclopedia of Unified Science*
     -   Only the first section *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
+-   The murder of Schlick in 1936 by a former student put an end to the Vienna Circle in Austria.
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
@@ -886,7 +902,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-### Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*.
+### Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus*.
 
 -   TODO: The meaning of language is a picture of affairs.
 

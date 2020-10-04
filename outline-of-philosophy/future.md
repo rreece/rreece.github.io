@@ -43,6 +43,7 @@ Technological growth
 Artificial intelligence
 --------------------------------------------------------------------------------
 
+-   Feynman, R. (1985). Talk: [Can Machines Think?](https://www.youtube.com/watch?v=ipRvjS7q1DI)
 -   Russell & Norvig [^Russell1995]
 -   Video: Carroll, S. & Russell, S. (2020). [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
 -   Russell: AI gives us the Midas touch

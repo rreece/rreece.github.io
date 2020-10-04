@@ -669,6 +669,7 @@ Click to show links
 -   [Weierstrass, Karl (1815-1897)](https://en.wikipedia.org/wiki/Karl_Weierstrass)
 -   [When a white horse is not a horse](https://en.wikipedia.org/wiki/When_a_white_horse_is_not_a_horse)
 -   [Whitehead, Alfred North (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
+-   [Wittgenstein's philosophy of mathematics](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein%27s_philosophy_of_mathematics)
 -   [Zeroth-order logic](https://en.wikipedia.org/wiki/Zeroth-order_logic)
 -   [Zermelo-Fraenkel set theory (ZFC)](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
 -   [ZFC, List of statements independent of](https://en.wikipedia.org/wiki/List_of_statements_independent_of_ZFC)
