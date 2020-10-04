@@ -160,6 +160,7 @@ Political philosophy
 -   Capitalism/Liberalism
 -   Marxism
 -   Socialism
+    -   Video: [Ted Turner asks Carl Sagan if he is a socialist](https://www.youtube.com/watch?v=rDK2chgNPZM)
 -   Libertarianism
 -   Neoliberalism
 

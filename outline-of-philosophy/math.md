@@ -306,15 +306,19 @@ Logicism
 
 ### Introduction
 
--   Frege
--   Formalism
+-   A program to derive all or part of mathematics from logic.
+-   Gottlob Frege
+-   Richard Dedekind
+-   Giuseppe Peano
 -   Bertrand Russell (1872-1970)
 -   Whitehead
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
 -   Antirealist?, relationship with positivism?
+-   "On Denoting" [^Russell1905]
 -   Russsell expresses support for the platonic "universals" [^Russell1912p91]
 -   Shapiro [^Shapiro2000]
 
+[^Russell1905]: @Russell_1905_On_Denoting\.
 [^Russell1912p91]: @Russell_1912_The_Problems_of_Philosophy\, p. 91--118.
 [^Shapiro2000]: @Shapiro_2000_Thinking_about_Mathematics_The_Philosophy\.
 [^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.
@@ -366,7 +370,8 @@ Intuitionism
 --------------------------------------------------------------------------------
 
 -   Antirealist
--   Kronecker's finitism was a forerunner of intuitionism in foundations of mathematics.
+-   Leopold Kronecker's finitism was a forerunner of intuitionism in foundations of mathematics.
+-   Kronecker: "God made the integers, all else is the work of man".
 -   L.E.J. Brouwer (1881-1966)
 -   Constructive mathematics
 

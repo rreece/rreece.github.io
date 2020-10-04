@@ -185,6 +185,8 @@ Abrahamism
 -   [Isaiah](https://en.wikipedia.org/wiki/Isaiah) (c. 8th to 7th century BCE)
 -   [Maimonides](https://en.wikipedia.org/wiki/Maimonides) (c. 1135-1204 CE)
 
+#### Criticism
+
 >   The Abraham story cannot be definitively related to any specific time,
 >   and it is widely agreed that the patriarchal age, along with the Exodus
 >   and the period of the Judges, is a late literary construct that does not
@@ -212,6 +214,12 @@ Abrahamism
 ![Detail of the ["religions tree"](https://000024.org/religions_tree/religions_tree_8.html),
     zoomed around some Protestant branches (also discussed [here](https://pierwiastekzla.wordpress.com/worldreligionstree/)).
     ](img/religions-tree-wesley.png){#fig:religions-tree-wesley}
+
+#### Criticism
+
+-   [Criticism of Jesus](https://en.wikipedia.org/wiki/Criticism_of_Jesus)
+-   Celsus. (c. 175 CE). [*The True Word*](https://en.wikipedia.org/wiki/The_True_Word).
+-   Porphyry. (c. 234-305 CE). [*Against the Christians*](https://en.wikipedia.org/wiki/Porphyry_(philosopher)).
 
 
 ### Islam
