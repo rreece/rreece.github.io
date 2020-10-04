@@ -165,6 +165,7 @@ Category theory
 -   Origins
 -   relation to set theory
 -   relation to Russell type theory
+-   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
 -   HoTT
 -   [post on the Cobordism Hypothesis](https://theoreticalatlas.wordpress.com/2013/04/22/seminar-on-cob-hyp/)
 -   Lurie, J. (2009). On the classification of topological field theories. [0905.0465](https://arxiv.org/abs/0905.0465).

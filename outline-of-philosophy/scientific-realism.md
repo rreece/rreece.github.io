@@ -659,10 +659,10 @@ Various reactions to positivism.
 -   Late Wittgenstein
 -   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
 -   Instrumentalist and pragmatist
--   An imprtant project is to understand the differences between early (*TLP*)
+-   An important project is to understand the differences between early (*TLP*)
     and late (*PI*) Wittgenstein. It is quite the about-face.
-    -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world
-    -   PI: The meaning of a word is its use.
+    -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
+    -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
 
 Wittgenstein in *PI*:
 
@@ -734,6 +734,7 @@ but does not justify metaphysical claims about reality.
 -   van Fraassen's "Arguments Concerning Scientific Realism" [^vanFraassen1980]
 -   van Fraassen and Bueno
 -   Unlike positivism/instrumentalism, theories should be taken literally.
+-   TODO: Some inspiration from Wittgenstein and what else?
 
 ![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories), 2015).](img/true-vs-literal-theories.png){#fig:true-vs-literal-theories}
 

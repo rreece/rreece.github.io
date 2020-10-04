@@ -416,11 +416,6 @@ TODO: 2x2 figure *a priori/a posteriori* vs analytic/synthetic.
 -   Are there synthetic a priori statements?
     -   Kant thinks so.
 
-See also:
-
--   [Attack on the analytic/synthetic distinction](scientific-realism.html#attack-on-the-analyticsynthetic-distinction)
-    in the discussion of [Postpositivism](scientific-realism.html#positivism).
-
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Kant1996pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
 
@@ -459,6 +454,11 @@ de Swart:
 
 -   Quine: "Two dogmas of empiricism" [^Quine1951]
 -   Carnap vs Quine [^Quine1990]
+
+See also:
+
+-   [Attack on the analytic/synthetic distinction](scientific-realism.html#attack-on-the-analyticsynthetic-distinction)
+    in the discussion of [Postpositivism](scientific-realism.html#positivism).
 
 [^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1990]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
