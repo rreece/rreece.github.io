@@ -856,6 +856,10 @@ Stoicism
 -   [Seneca (the Younger)](https://en.wikipedia.org/wiki/Seneca_the_Younger) (4 BCE - 65 CE)
     -   Roman statesman and later tutor to Emperor Nero
     -   *On the Shortness of Life* (49 CE) - (*De Brevitate Vitae*) [^Seneca1997]
+    -   *Letters from a Stoic* (65 CE)
+        -   Collection of 124 letters addressed to [Lucilius](https://en.wikipedia.org/wiki/Lucilius_Junior)
+    -   His influence over Nero declined with time, and in 65 CE
+        he was forced to take his own life.
 -   [Musonius Rufus](https://en.wikipedia.org/wiki/Gaius_Musonius_Rufus) (c. 25-100 CE)
     -   Teacher of Epictetus
     -   Both men and women should study philosophy in pursuit of living a virtuous life.
