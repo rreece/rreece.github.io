@@ -491,7 +491,7 @@ Wittgenstein studied with and was influenced by
     of that Wittgenstein's early views of structure that ultimately
     follow some kind of platonism, the correspondence theory of truth, and a sense
     of realism. 
--   "Some Remarks on Logical Form" [^Wittgenstein1929]
+-   "Some Remarks on Logical Form" (1929) [^Wittgenstein1929]
 
 Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
