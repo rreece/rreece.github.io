@@ -521,14 +521,16 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 
 ### Logical empiricism and the Berlin Circle
 
+-   Hans Reichenbach (1891-1953)
+-   In 1928, Reichenbach founded the Berlin Circle, which was called *Die Gesellschaft für empirische Philosophie* (*Society for Empirical Philosophy*).
+-   Carl Gustav Hempel, Richard von Mises, David Hilbert, and Kurt Grelling
 -   Logical empiricism - Creathe [^Creathe2011]
--   Hans Reichenbach (1891-1953) and the Berlin Circle
 
 TODO: Note any differences between:
 
 -   positivism - Comte, Mach
 -   logical positivism - Vienna Circle
--   logical empiricism - Reichenbach's preferred term[^Reichenbach], Berlin Circle
+-   logical empiricism - Reichenbach's preferred term [^Reichenbach]
 
 [^Creathe2011]: @Creathe_2011_Logical_empiricism\.
 [^Reichenbach]: [www.newworldencyclopedia.org/entry/Hans_Reichenbach](http://www.newworldencyclopedia.org/entry/Hans_Reichenbach)
@@ -536,14 +538,15 @@ TODO: Note any differences between:
 
 ### Later positivism
 
--   Carnap emigrated to the United States in 1935.
+-   Carnap emigrated to the United States in 1935 and became a professor at the University of Chicago.
 -   Carnap: "Testibility and Meaning" (1936-7) [^Carnap1937]
     -   Argued to replace verification with confirmation.
     -   Carnap spent many years trying to develop a theory of degree of confirmation
         but was never able to satisfactorily formulate a model. [^Murzi2001]
--   Reichenbach emigrated to the US in TODO.
--   Positivism affects the structure of education and law
--   Connection to the projects of Dewey and pragmatism
+-   Reichenbach emigrated to the US in 1938 and became a professor at UCLA.
+-   Carnap joined UCLA in 1954, the year after Reichenbach died.
+-   TODO: Positivism affects the structure of education and law
+-   TODO: Connection to the projects of Dewey and pragmatism
 
 Some Carnap works:
 
@@ -566,6 +569,10 @@ Russell:
 >   being able to tackle its problems one at a time, instead of having to invent
 >   at one stroke a block theory of the whole universe. Its methods, in this respect, 
 >   resemble those of science. [^Russell1945p834]
+
+Reichenbach:
+
+-   *The Rise of Scientific Philosophy* (1951)
 
 Also:
 
