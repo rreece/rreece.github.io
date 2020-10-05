@@ -326,6 +326,9 @@ Logicism
 -   "On Denoting" [^Russell1905]
 -   Russsell expresses support for the platonic "universals" [^Russell1912p91]
 -   Shapiro [^Shapiro2000]
+-   Neo-logicism
+-   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
+-   [Frege's theorem](https://en.wikipedia.org/wiki/Frege%27s_theorem)
 
 [^Russell1905]: @Russell_1905_On_Denoting\.
 [^Russell1912p91]: @Russell_1912_The_Problems_of_Philosophy\, p. 91--118.
@@ -573,6 +576,7 @@ Click to show links
 
 -   [Analytic philosophy](http://www.iep.utm.edu/analytic/)
 -   [Applicability of mathematics](http://www.iep.utm.edu/math-app/)
+-   [Dummett, Michael (1925-2011)](https://iep.utm.edu/dummett/)
 -   [Fictionalism in the philosophy of mathematics](http://www.iep.utm.edu/mathfict/)
 -   [Frege, Gottlob (1848-1925)](http://www.iep.utm.edu/frege/)
 -   [Game theory](http://www.iep.utm.edu/game-th/)
@@ -621,6 +625,7 @@ Click to show links
 -   [Euler, Leonhard (1707-1783)](https://en.wikipedia.org/wiki/Leonhard_Euler)
 -   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
 -   [Frege, Gottlob (1848-1925)](http://en.wikipedia.org/wiki/Gottlob_Frege)
+-   [Frege's theorem](https://en.wikipedia.org/wiki/Frege%27s_theorem)
 -   [Galois, &Eacute;variste (1811-1832))](https://en.wikipedia.org/wiki/%C3%89variste_Galois)
 -   [Lie, Sophus (1842-1899)](https://en.wikipedia.org/wiki/Sophus_Lie)
 -   [Logicism](https://en.wikipedia.org/wiki/Logicism)
@@ -632,6 +637,7 @@ Click to show links
 -   [Hilbert, David (1862-1943)](https://en.wikipedia.org/wiki/David_Hilbert)
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
 -   [History of algebra](https://en.wikipedia.org/wiki/History_of_algebra)
+-   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
 -   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
 -   [Kronecker, Leopold (1823-1891)](https://en.wikipedia.org/wiki/Leopold_Kronecker)
 -   [Kripke, Saul (b. 1940)](https://en.wikipedia.org/wiki/Saul_Kripke)
