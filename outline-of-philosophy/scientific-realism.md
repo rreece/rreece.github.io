@@ -30,6 +30,10 @@ three following ideas:
 -   A loosely, if ill-defined, woo-woo word in which a mystic, guru, or metaphysician
     may claim to specialize.
 
+Russell:
+
+>   [T]he attempt to conceive the world as a whole by means of thought.
+
 van Inwagen:
 
 >   The word 'metaphysics' is derived from a collective title of the fourteen books by

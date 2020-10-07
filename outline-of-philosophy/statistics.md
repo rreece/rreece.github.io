@@ -990,6 +990,10 @@ to [@eq:cross_entropy_loss3].
 -   Others
     -   "The explanation game: A formal framework for interpretable machine learning" [^Watson2019]
     -   [AIMyths.com](https://www.aimyths.org/)
+-   Graphical tensor notation
+    -   [Penrose graphical notation](https://en.wikipedia.org/wiki/Penrose_graphical_notation)
+    -   Predrag Cvitanovic
+    -   [Matrices as Tensor Network Diagrams](https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams)
 
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
 
