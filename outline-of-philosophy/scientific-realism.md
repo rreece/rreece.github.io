@@ -420,6 +420,24 @@ of empiricism that supports the primacy of the scientific method, positivism
 is sometimes equated with scientism (often derogatorily) if one takes it to
 claim that science is the only way to attain knowledge.
 
+>   If we say, as was frequently said of old, that metaphysics is the theory
+>   of "true being", of "reality in itself", of "transcendent being" this
+>   obviously implies a (contradictory), spurious, lesser, apparent
+>   being; as has indeed been assumed by all metaphysicians since the time
+>   of Plato and the Eleatics. This apparent being is the realm of
+>   "appearances", and while the true transcendent reality is to be reached
+>   only with difficulty, by the efforts of the metaphysician, the special
+>   sciences have to do exclusively with appearances which are perfectly
+>   accessible to them. The contrast in cognizability of these two "modes
+>   of being" is then explained by the fact that the appearances are
+>   immediately known, "given", to us, while metaphysical reality must be
+>   inferred from them in some roundabout manner. And thus we seem
+>   to arrive at a fundemental concept of the positivists, for they always
+>   speak of the "given", and usually formulate their fundamental principle
+>   in the proposition that the philosopher as well as the scientist must
+>   always remain within the given, that to go beyond it, as the metaphysician
+>   attempts, is impossible or senseless. [^Schlick1948p479]
+
 In a more general sense, positivism is aligned with naturalism, the
 meta-philosophy that roughly says that science should inform and bootstrap
 our philosophical claims. Naturalists, having a more broadly aligned and
@@ -430,6 +448,8 @@ a version of structural realism about the discoveries from science, capturing
 and constraining real structures in nature.
 
 [^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
+[^Schlick1948p479]: @Schlick_1948_Positivism_and_realism\, p. 479.
+
 
 ### Theses
 
@@ -456,6 +476,9 @@ and constraining real structures in nature.
 
 #### Auguste Comte
 
+-   Comte coined "positivism"
+-   Comte and Mill
+
 Comte on the unknowability of the composition of stars:
 
 >   On the subject of stars, all investigations which are not ultimately reducible
@@ -470,12 +493,9 @@ Comte on the unknowability of the composition of stars:
 
 (He was wrong!)
 
--   Comte and Mill
-
 [^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
     Translation of passage taken from:           
     <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
-
 
 #### Ernst Mach
 
@@ -483,10 +503,11 @@ Comte on the unknowability of the composition of stars:
 
 #### Wittgenstein
 
-Wittgenstein studied with and was influenced by
-
 -   Gottlob Frege (1848-1925)
     -   Sense and reference (1892)
+
+Wittgenstein studied with, was influenced by, and influenced:
+
 -   Bertrand Russell & Afred North Whitehead
     -   *Principia Mathematica* (1910)
 -   George Edward Moore
@@ -583,6 +604,7 @@ Reichenbach on probability:
         but was never able to satisfactorily formulate a model. [^Murzi2001]
 -   Reichenbach emigrated to the US in 1938 and became a professor at UCLA.
 -   Carnap joined UCLA in 1954, the year after Reichenbach died.
+-   TODO: Quine on how huge Carnap's influence is. [^Quine1990-3]
 -   TODO: Positivism affects the structure of education and law
 -   TODO: Connection to the projects of Dewey and pragmatism
 
@@ -596,6 +618,17 @@ Some Carnap works:
 -   *The Philosophy of Rudolf Carnap* AKA the "Schlipp volume" [^Schlipp1963]
 -   *The Cambridge Companion to Carnap* [^Friedman2007]
 -   Leitgeb, H. & Carus, A. (2020). [Rudolf Carnap](https://plato.stanford.edu/entries/carnap/index.html). *SEP*. [^Leitgeb2020]
+
+Russell:
+
+>   Modern analytical empiricism [...] differs from that of Locke, Berkeley, and Hume 
+>   by its incorporation of mathematics and its development of a powerful logical 
+>   technique. It is thus able, in regard to certain problems, to achieve definite 
+>   answers, which have the quality of science rather than of philosophy. It has 
+>   the advantage, in comparison with the philosophies of the system-builders, of 
+>   being able to tackle its problems one at a time, instead of having to invent
+>   at one stroke a block theory of the whole universe. Its methods, in this respect, 
+>   resemble those of science. [^Russell1945p834]
 
 On logical empiricism and Reichenbach at UCLA:
 
@@ -625,17 +658,6 @@ Reichenbach:
 
 -   *The Rise of Scientific Philosophy* (1951)
 
-Russell:
-
->   Modern analytical empiricism [...] differs from that of Locke, Berkeley, and Hume 
->   by its incorporation of mathematics and its development of a powerful logical 
->   technique. It is thus able, in regard to certain problems, to achieve definite 
->   answers, which have the quality of science rather than of philosophy. It has 
->   the advantage, in comparison with the philosophies of the system-builders, of 
->   being able to tackle its problems one at a time, instead of having to invent
->   at one stroke a block theory of the whole universe. Its methods, in this respect, 
->   resemble those of science. [^Russell1945p834]
-
 Also:
 
 -   Movements in "positivism": [positivists.org/blog/movements](http://positivists.org/blog/movements)
@@ -655,6 +677,7 @@ Also:
 [^Leitgeb2020G]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement G: Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html).
 [^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
+[^Quine1990-3]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\, p. TODO.
 [^Schlipp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 
 
@@ -791,6 +814,8 @@ Poincar&eacute;:
 
 -   anti-positivism, Kuhn, Popper
 -   post-structuralism, postmodernism (continental)
+-   In 1967 John Passmore reported that: "Logical positivism, then,
+    is dead, or as dead as a philosophical movement ever becomes." [^Passmore1967]
 -   Ayer, A.J. 
 
 Ayer:
@@ -800,6 +825,8 @@ Ayer:
 -   Hempel: Raven paradox
 
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
+[^Passmore1967]: @Passmore_1967_Logical_positivism and 
+    @Creathe_2011_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
 
 
 ### Realist turn
