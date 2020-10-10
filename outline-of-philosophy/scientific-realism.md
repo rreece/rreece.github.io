@@ -471,6 +471,12 @@ and constraining real structures in nature.
 
 [^Leitgeb2020H]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html).
 
+Schlick:
+
+>   The fundamental principle of the positivist then seems to run: "Only the given is real". [^Schlick1948p480]
+
+[^Schlick1948p480]: @Schlick_1948_Positivism_and_realism\, p. 480\.
+
 
 ### Early positivism
 
