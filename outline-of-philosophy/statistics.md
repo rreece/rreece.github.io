@@ -1053,9 +1053,12 @@ Theoretical machine learning
 
 ### No free lunch theorem
 
+-   David Wolpert
 -   Inductive bias
 -   Yudkowsky, E. (2007). "[Inductive bias](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias)". *LessWrong*.
 -   Hamilton, L.D. (2014). "[The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms)".
+-   Wolpert, D. (2018). [Why do computers use so much energy?](https://blogs.scientificamerican.com/observations/why-do-computers-use-so-much-energy/)
+-   [Sante Fe Institute: Thermodynamics of Computation](https://centre.santafe.edu/thermocomp/Santa_Fe_Institute_Collaboration_Platform:Thermodynamics_of_Computation_Wiki)
 
 
 ### ML's relationship to statistical mechanics
