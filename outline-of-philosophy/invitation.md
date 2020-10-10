@@ -110,13 +110,8 @@ At the same time, basic disagreements about the nature of science and
 its implications for a worldview
 are central to many of our cultural and political divisions.
 
-TODO: pick-up writing here.
-
--   [Carl Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w)
--   [Why Do Many Reasonable People Doubt Science?](https://www.nationalgeographic.com/magazine/2015/03/science-doubters-climate-change-vaccinations-gmos/) [^Achenbach2015]
--   ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) [^Leah2018]
-
-Sagan:
+See [Carl Sagan discussing *Demon Haunted World* with Charlie Rose](https://www.youtube.com/watch?v=U8HEwO-2L4w),
+where he says:
 
 >   We've arranged a society based on science and technology in which
 >   nobody understands anything about science and technology.
@@ -133,6 +128,12 @@ Sagan:
 >   be skeptical of those in authority---then
 >   we're up for grabs for the next charlatan, political or religious,
 >   who comes ambling along. [^Rose1996]
+
+[Why do many reasonable people doubt science?](https://www.nationalgeographic.com/magazine/2015/03/science-doubters-climate-change-vaccinations-gmos/) [^Achenbach2015]
+In these outlines, I want to arm us with some reasoned and thoughly referenced arguments
+so that when faced with epistemological cynicism like:
+["How do you separate fact and opinion?" -- Rudy Giuliani](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/), [^Leah2018]
+we'll have something of substance to say.
 
 Who do I want to reach with this argument?
 
