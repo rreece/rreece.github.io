@@ -135,15 +135,6 @@ so that when faced with epistemological cynicism like:
 ["How do you separate fact and opinion?" -- Rudy Giuliani](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/), [^Leah2018]
 we'll have something of substance to say.
 
-Who do I want to reach with this argument?
-
--   Anyone interested in the engagement of science and philosophy.
--   Skeptics of science and anti-naturalists of one form or another that see science
-    as just one of many competing claims to knowledge.
--   Allies in elucidating the demarcation of what science is,
-    and what sorts of claims it justifies.
--   Can this be accessible and interesting to both academic and lay audiences?
-
 >   Socrates: What if the person who has opinion but not knowledge is angry with
 >   us and disputes the truth of what we are saying? Is there some way to
 >   console him and persuade him gently, while hiding from him that he isn't
@@ -154,6 +145,15 @@ Who do I want to reach with this argument?
 >   Socrates: Consider, then, what we'll say to him. Won't we question him like this?
 >   First, we'll tell him that nobody begrudges him any knowledge he may have
 >   and that we'd be delighted to discover that he knows something. [^RepublicV476e]
+
+Who do I want to reach with this argument?
+
+-   Anyone interested in the engagement of science and philosophy.
+-   Skeptics of science and anti-naturalists of one form or another that see science
+    as just one of many competing claims to knowledge.
+-   Allies in elucidating the demarcation of what science is,
+    and what sorts of claims it justifies.
+-   Can this be accessible and interesting to both academic and lay audiences?
 
 I hope that is enough of an invitation to catch your interest.
 In the next section, we will survey the history of science and
