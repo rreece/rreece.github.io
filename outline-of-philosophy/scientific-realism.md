@@ -209,7 +209,7 @@ Chakravartty:
 
 >   Scientific realism is a positive epistemic attitude towards the content of our
 >   best theories and models, recommending belief in both observable and unobservable
->   aspects of the world described by the sciences. [^Chakravartty2011]
+>   aspects of the world described by the sciences. [^Chakravartty2017]
 
 -   Boyd
 -   Sellars
@@ -219,7 +219,7 @@ Chakravartty:
 The primary dichotomy of positions is between forms of scientific realism and instrumentalism.
 
 [^Chakravartty2007]: @Chakravartty_2007_A_Metaphysics_for_Scientific_Realism\.
-[^Chakravartty2011]: @Chakravartty_2011_Scientific_realism\.
+[^Chakravartty2017]: @Chakravartty_2017_Scientific_realism\. <https://plato.stanford.edu/entries/scientific-realism/>
 
 
 ### Challenges to scientific realism
@@ -374,9 +374,37 @@ because of their lack of attachment to empirically demonstrable things or effect
 
 Google:
 
->   Logical positivism: a form of positivism, developed by members of the Vienna Circle, that considers that the only meaningful philosophical problems are those that can be solved by logical analysis.
+>   Logical positivism: a form of positivism, developed by members of the
+>   Vienna Circle, that considers that the only meaningful philosophical
+>   problems are those that can be solved by logical analysis.
 
-This means that positivism is generally seen to imply antirealist views of science and mathematics, preferring as Carnap says in _Empiricism, Semantics, and Ontology_:
+Chakravartty:
+
+>   According to the best known, traditional form of instrumentalism, terms
+>   for unobservables have no meaning all by themselves; construed literally,
+>   statements involving them are not even candidates for truth or falsity
+>   (cf. a more recent proposal in Rowbottom 2011). The most influential
+>   advocates of this view were the logical empiricists (or logical positivists),
+>   including Carnap and Hempel, famously associated with the Vienna Circle
+>   group of philosophers and scientists as well as important contributors
+>   elsewhere. In order to rationalize the ubiquitous use of terms which might
+>   otherwise be taken to refer to unobservables in scientific discourse, they
+>   adopted a non-literal semantics according to which these terms acquire
+>   meaning by being associated with terms for observables (for example,
+>   "electron" might mean "white streak in a cloud chamber"), or with
+>   demonstrable laboratory procedures (a view called "operationalism").
+>   Insuperable difficulties with this semantics led ultimately
+>   (in large measure) to the demise of logical empiricism and the growth of
+>   realism. The contrast here is not merely in semantics and epistemology: a
+>   number of logical empiricists also held the neo-Kantian view that
+>   ontological questions "external" to the frameworks for knowledge
+>   represented by theories are also meaningless (the choice of a framework is
+>   made solely on pragmatic grounds), thereby rejecting the metaphysical
+>   dimension of realism (as in Carnap 1950). [^Chakravartty2017]
+
+This means that positivism is generally seen to imply antirealist views of
+science and mathematics, preferring as Carnap says in
+"Empiricism, Semantics, and Ontology":
 
 >   Empiricists are in general rather suspicious with respect to any kind of abstract 
 >   entities like properties, classes, relations, numbers, propositions, etc. 
@@ -402,7 +430,6 @@ a version of structural realism about the discoveries from science, capturing
 and constraining real structures in nature.
 
 [^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
-
 
 ### Theses
 
@@ -464,7 +491,7 @@ Wittgenstein studied with and was influenced by
     -   *Principia Mathematica* (1910)
 -   George Edward Moore
 
->   *Tractatus Logico-Philosophicus*, the only philosophy book that Wittgenstein
+>   *Tractatus Logico-Philosophicus* [is] the only philosophy book that Wittgenstein
 >   published during his lifetime. It claimed to solve all the major problems
 >   of philosophy and was held in especially high esteem by the anti-metaphysical
 >   logical positivists. The *Tractatus* is based on the idea that philosophical
@@ -499,7 +526,7 @@ Wittgenstein studied with and was influenced by
 
 Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
-[^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\.
+[^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\. <https://iep.utm.edu/wittgens/>
 [^Wittgenstein1922]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
 [^Wittgenstein1929]: @Wittgenstein_1929_Some_remarks_on_logical_form\.
 
@@ -515,12 +542,14 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   A.J. Ayer (1910-1989): *Language, Truth, and Logic* (1936) [^Ayer1936]
 -   *International Encyclopedia of Unified Science*
     -   Only the first section *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
+-   Schlick & Rynin. (1948). "Positivism and realism" [^Schlick1948]
 -   The murder of Schlick in 1936 by a former student put an end to the Vienna Circle in Austria.
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
-[^Murzi2004]: @Murzi_2004_Vienna_circle\.
+[^Murzi2004]: @Murzi_2004_Vienna_circle\. <https://iep.utm.edu/viennacr/>
+[^Schlick1948]: @Schlick_1948_Positivism_and_realism\.
 
 
 ### Logical empiricism and the Berlin Circle
@@ -536,7 +565,12 @@ TODO: Note any differences between:
 -   logical positivism - Vienna Circle
 -   logical empiricism - Reichenbach's preferred term [^Reichenbach]
 
-[^Creathe2011]: @Creathe_2011_Logical_empiricism\.
+Reichenbach on probability:
+
+>   locates the probability objectively "out in nature" so to speak,
+>   and this comports well with Reichenbach's scientific realism. [^Creathe2011]
+
+[^Creathe2011]: @Creathe_2011_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Reichenbach]: [www.newworldencyclopedia.org/entry/Hans_Reichenbach](http://www.newworldencyclopedia.org/entry/Hans_Reichenbach)
 
 
@@ -563,6 +597,34 @@ Some Carnap works:
 -   *The Cambridge Companion to Carnap* [^Friedman2007]
 -   Leitgeb, H. & Carus, A. (2020). [Rudolf Carnap](https://plato.stanford.edu/entries/carnap/index.html). *SEP*. [^Leitgeb2020]
 
+On logical empiricism and Reichenbach at UCLA:
+
+>   Part of the movement's legacy lies in contemporary philosophy of science.
+>   In the US nearly all philosophers of science can trace their academic
+>   lineages to Reichenbach. Most were either his students or students of his
+>   students and so on. His scientific realism inspired a generation of
+>   philosophers, even those clearly outside the movement. Even the reaction
+>   against various forms of realism that have appeared in recent decades have
+>   roots in the logical empiricist movement. Moreover, philosophers of science
+>   are expected to know a great deal of the science about which they
+>   philosophize and to be cautious in telling practicing scientists what
+>   concepts they may or may not use. In these respects and others contemporary
+>   philosophers promote a kind of naturalism, and by so doing they follow
+>   both the precept and the example of the logical empiricists. [^Creathe2011]
+
+and
+
+>   Among his many students were Hempel, Putnam, and W. Salmon, and so almost
+>   all philosophy of science in the US can trace its academic lineage to
+>   Reichenbach. Though interested in social and educational reform, he worked
+>   primarily in philosophy of physics. He developed and defended a frequency
+>   theory of probability, and emphasized both scientific realism and the
+>   importance of causality and causal laws. [^Creathe2011]
+
+Reichenbach:
+
+-   *The Rise of Scientific Philosophy* (1951)
+
 Russell:
 
 >   Modern analytical empiricism [...] differs from that of Locke, Berkeley, and Hume 
@@ -573,10 +635,6 @@ Russell:
 >   being able to tackle its problems one at a time, instead of having to invent
 >   at one stroke a block theory of the whole universe. Its methods, in this respect, 
 >   resemble those of science. [^Russell1945p834]
-
-Reichenbach:
-
--   *The Rise of Scientific Philosophy* (1951)
 
 Also:
 
@@ -595,7 +653,7 @@ Also:
 [^Ladyman2007pX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO.
 [^Leitgeb2020]: @Leitgeb_2020_Rudolf_Carnap\.
 [^Leitgeb2020G]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement G: Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html).
-[^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\.
+[^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 [^Schlipp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 
@@ -657,6 +715,10 @@ Various reactions to positivism.
 -   Thomas Kuhn (1922-1996)
 -   Imre Lakatos (1922-1974)
 -   Nancy Cartwright (b. 1944)
+
+TODO: Khanna [^Khanna2018]
+
+[^Khanna2018]: @Khanna_2018_Positivism_and_realism\.
 
 
 ### Attack on the analytic/synthetic distinction
@@ -745,9 +807,11 @@ Ayer:
 -   a turn towards realism
 -   Poincar&eacute;
     -   structure
+-   Reichenbach
 -   Karl Popper (1902-1994)
     -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
     -   *falsifiability* over *verifiability*
+-   Sellars
 -   Putnam, NMA
 
 Popper:
