@@ -420,6 +420,20 @@ TODO: 2x2 figure *a priori/a posteriori* vs analytic/synthetic.
 [^Kant1996pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
 
 
+### Criticisms
+
+-   Quine: "Two dogmas of empiricism" [^Quine1951]
+-   Carnap vs Quine [^Quine1990]
+
+See also:
+
+-   [Attack on the analytic/synthetic distinction](scientific-realism.html#attack-on-the-analyticsynthetic-distinction)
+    in the discussion of [Postpositivism](scientific-realism.html#positivism).
+
+[^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
+[^Quine1990]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
+
+
 ### Discussion
 
 -   Stearns, P. (2020). [Epistemology: A priori vs. a posteriori, analytic vs. synthetic, necessary vs. contingent](https://lucidphilosophy.com/1019-2/).
@@ -448,20 +462,6 @@ de Swart:
 [^Juhl2009]: @Juhl_2009_Analyticity\.
 [^Russell2008]: @Russell_2008_Truth_in_Virtue_of_Meaning_A_defence\.
 [^Weatherson2017]: @Weatherson_2017_Analytic_synthetic_and_a_priori_a_posteriori\.
-
-
-### Criticisms
-
--   Quine: "Two dogmas of empiricism" [^Quine1951]
--   Carnap vs Quine [^Quine1990]
-
-See also:
-
--   [Attack on the analytic/synthetic distinction](scientific-realism.html#attack-on-the-analyticsynthetic-distinction)
-    in the discussion of [Postpositivism](scientific-realism.html#positivism).
-
-[^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
-[^Quine1990]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
 
 
 Induction

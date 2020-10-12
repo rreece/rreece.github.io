@@ -910,12 +910,12 @@ Only Roman texts from the Late Stoa survive.
 
 #### Contemporary Stoicism
 
--   Former United States Secretary of Defense
+-   Former US Secretary of Defense
     [James Mattis](https://en.wikipedia.org/wiki/Jim_Mattis) (b. 1950)
     carried his own personal copy of *Meditations* throughout his
     deployments as a Marine Corps officer in the Persian Gulf,
     Afghanistan, and Iraq. [^Ricks2006]
--   United States President [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (b. 1946)
+-   US President [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (b. 1946)
     said that *Meditations* is his favorite book. [^Kellogg2009]
 -   Pigliucci, M. (2015). Talk: [Stoicism 101](https://www.youtube.com/watch?v=seLLJP3H1FU).
 -   Pigliucci, M. (2017). *How to be a Stoic: Using Ancient Philosophy to Live a Modern Life*. [^Pigliucci2017]
