@@ -88,9 +88,9 @@ Both proto-science and naturalism have roots in the [Ionian Enlightenment](http:
 From there, naturalism has lasted in various forms to bloom through the scientific revolution.
 In many philosophical movements and counter-movements,
 elements of naturalism have evolved and been refined.
-Heroes for naturalism include Thales, Democritus, 
-Epicurus, Lucretius, Newton, Hume, Reichenbach, Sellars, Quine, 
-and many others.
+Heroes for naturalism include Thales, Democritus, Epicurus,
+Lucretius, Isaac Newton, David Hume, Hans Reichenbach, Rudolf Carnap,
+W.V.O. Quine, Wilfrid Sellars, and many others.
 
 [^Prado2006]: @Prado_2006_Ionian_enchantment_A_brief_history_of_scientific
     gives a nice introduction to the Ionian Enlightenment.
@@ -135,6 +135,10 @@ so that when faced with epistemological cynicism like:
 ["How do you separate fact and opinion?" -- Rudy Giuliani](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/), [^Leah2018]
 we'll have something of substance to say.
 
+On the other hand, in reviewing various arguments in the philosophy of science,
+we will see that it is far from trivial to say what knowledge and science are
+and what they are not. We are interested in good arguments, not dogmas.
+
 >   Socrates: What if the person who has opinion but not knowledge is angry with
 >   us and disputes the truth of what we are saying? Is there some way to
 >   console him and persuade him gently, while hiding from him that he isn't
@@ -153,7 +157,7 @@ Who do I want to reach with this argument?
     as just one of many competing claims to knowledge.
 -   Allies in elucidating the demarcation of what science is,
     and what sorts of claims it justifies.
--   Can this be accessible and interesting to both academic and lay audiences?
+-   Can this be accessible and interesting to both academic and popular audiences?
 
 I hope that is enough of an invitation to catch your interest.
 In the next section, we will survey the history of science and
