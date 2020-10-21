@@ -978,6 +978,15 @@ My personal summary of the most important Stoic theses:
 
 --Epictetus, *Discourses*, 2.17.1
 
+>   Men seek retreats for themselves, houses in the country, seashores,
+>   mountains, and you also tend to desire such things very much.
+>   But this is alltogether a mark of the most common sort of men,
+>   for it is in your power to retire into yourself whenever you
+>   shall choose. For nowhere either with more quiet or more freedom
+>   from trouble does a man retire than into his own soul.
+
+--Marcus Aurelius, *Meditations*, 4.3
+
 #### 4. Preferred indifferents
 
 -   Health, wealth, and success are natural to prefer, but they
@@ -991,6 +1000,20 @@ My personal summary of the most important Stoic theses:
 -   TODO
 -   Everything is impermanent. We are mortal.
     We will take nothing or no one with us beyond death.
+
+>   Often think of the rapidity with which things pass by and disappear,
+>   both the things that are and the things which are produced.
+>   For substance is like a river in a continual flow,
+>   and the activities of things are in constant change,
+>   and the causes of work in infinite varieties;
+>   and there is hardly anything which stands still.
+>   And consider this which is near to you,
+>   this boundless abyss of the past and of the future in which all things
+>   disappear. How then is he not a fool who is puffed up with such things
+>   or plagued about them and makes himself miserable?
+>   For they vex him only for a time, and indeed for a time that is short.
+
+--Marcus Aurelius, *Meditations*, 5.23
 
 More:
 
