@@ -218,8 +218,12 @@ Chakravartty:
 
 The primary dichotomy of positions is between forms of scientific realism and instrumentalism.
 
+>   Correspondence theories which treat truth as a relation between language
+>   and reality are the only theories of truth compatible with realism. [^Sankey2001]
+
 [^Chakravartty2007]: @Chakravartty_2007_A_Metaphysics_for_Scientific_Realism\.
 [^Chakravartty2017]: @Chakravartty_2017_Scientific_realism\. <https://plato.stanford.edu/entries/scientific-realism/>
+[^Sankey2001]: @Sankey_2001_Scientific_realism_An_elaboration_and_a_defence\, p. 37.
 
 
 ### Challenges to scientific realism

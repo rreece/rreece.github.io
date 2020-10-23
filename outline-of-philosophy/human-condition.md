@@ -964,7 +964,13 @@ My personal summary of the most important Stoic theses:
     then the best (and really only good) solution is to face it.
 -   We underestimate what stresses we can face.
 -   In any circumstance, we have an opportunity to practice virtue,
-    the be excellent.
+    to be excellent.
+
+>   The mind adapts and converts to its own purposes the obstacle to our
+>   acting. The impediment to action advances action. What stands in the
+>   way becomes the way.
+
+--Marcus Aurelius, *Meditations*, 5.20 (Ryan Holiday version)
 
 #### 3. Reflection
 

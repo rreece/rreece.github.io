@@ -152,6 +152,7 @@ Weinberg:
 >   for a very simple reason: *they had never seen it done*. [^Weinberg2015p13]
 
 -   Review of *To Explain the World* [^Davis2015]
+-   Hoyningen-Huene, P. (2020). [Beyond Kuhn and Feyerabend: After the fourth stage of philosophy of science](https://iai.tv/articles/beyond-feyerabend-and-kuhn-auid-1644).
 -   TODO: on removing Aristotle's teleology from physics.
 
 [^Davis2015]: @Davis_2015_To_Explain_the_World_review\.
@@ -679,94 +680,6 @@ Arthur Conan Doyle:
 [^Weisberg2019appD]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, Appendix D\.
 
 
-Models in science
---------------------------------------------------------------------------------
-
--   TODO1: *priority section to finish*
-
-### What's a model?
-
-French:
-
->   [S]cientist *don't* simply deduce experimental/observational consequences;
->   they construct models that 'mediate' between theories and the observations.
->   There are a number of reasons why scientists will proceed in this way
->   but one is that theories are often quite complex and difficult to work with.
->   So a scientist may build a simplified model, containing significant
->   idealizations that allow the scientist to ignore certain factors,
->   for example, and [more] easily relate the theory to observations. [^French2007p81]
-
-Model the theory:
-
-$$ \text{Theory} + \text{Modeling} \longrightarrow \text{Model} $$
-
-Fit the model to the data to make inferences on the theory:
-
-$$ \text{Model} + \text{Data} + \text{Statistical Analysis} \longrightarrow \text{Model(improved)} \longrightarrow \text{Theory(improved)} $$
-
-
-### Models represent theories
-
-Model the theory:
-
-$$ T(\theta_k, \psi_m) \longrightarrow M(X_i | \theta_k, \nu_\ell) $$
-
-Fit the model to the data to make inferences on the theory:
-
-$$
-    \{X_i\}_j
-    \longrightarrow M(X_{ij} | \theta_k, \nu_\ell)
-    \longrightarrow \hat{\theta}_k \pm \sigma_{\hat{\theta}_k} , \hat{\nu}_\ell \pm \sigma_{\hat{\nu}_\ell}
-    \longrightarrow T(\hat{\theta}_k \pm \sigma_{\hat{\theta}_k}, \psi_m)
-$$
-
-Frigg:
-
->   Morgan and Morrison (1999) rally around the idea that models are instruments
->   that mediate between theories and the world. Models are "autonomous agents"
->   in that they are independent from both theories and their target systems,
->   and it is this independence that allows them to mediate between the two.
->   Theories do not provide us with algorithms for the construction of a model;
->   they are not "vending machines" into which one can insert a problem and a
->   model pops out (Cartwright 1999). The construction of a model often requires
->   detailed knowledge about materials, approximation schemes, and the setup,
->   and these are not provided by the corresponding theory. Furthermore,
->   the inner workings of a model are often driven by a number of different
->   theories working cooperatively. In contemporary climate modeling,
->   for instance, elements of different theories---among them fluid dynamics,
->   thermodynamics, electromagnetism---are put to work cooperatively.
->   What delivers the results is not the stringent application of one theory,
->   but the voices of different theories when put to use in chorus with each
->   other in one model. [^Frigg2020]
-
--   "Surrogative Reasoning Condition" [^Frigg2017]
--   Hugh Everett's thesis, Appendix II
--   ["What is the difference between a model and a theory?"](https://physics.stackexchange.com/questions/187967/what-is-the-difference-between-a-model-and-a-theory) - physics.stackexchange.com
--   "A comparison of the meaning and uses of models in mathematics and the empirical sciences" [^Suppes1961]
--   "What is a scientific theory?" [^Suppes1967]
--   *Models as Mediators* [^Morgan1999]
--   [NPR: How to make sense of all the COVID-19 projections? A new model combines them.](https://www.npr.org/sections/health-shots/2020/05/13/855038708/combining-different-models-new-coronavirus-projection-shows-110-000-deaths-by-ju)
-
-
-### Digression: Some physicists have semantic differences
-
--   TODO: explain
--   HEP theorists especially
--   HEP theorists often use "theory" to mean "theoretical framework": quantum field theory, yang-mills theory, string theory, etc.
--   "Model building" in HEP means piecing together a particular theory, a "model", using a "theory" (theoretical framework).
--   The issue is purely semantic. The important point of the above discussion
-    is that a model stands-in as a representative of a theory
-    that can be compared with the data.
--   TODO: find good example refs
-
-[^French2007p81]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. 81.
-[^Frigg2017]: @Frigg_2017_Models_and_representation\.
-[^Frigg2020]: @Frigg_2020_Models_in_science\.
-[^Morgan1999]: @Morgan_1999_Models_as_Mediators\.
-[^Suppes1961]: @Suppes_1961_A_comparison_of_the_meaning_and_uses_of_models\.
-[^Suppes1967]: @Suppes_1967_What_is_a_scientific_theory\.
-
-
 Is there a universal scientific method?
 --------------------------------------------------------------------------------
 
@@ -910,6 +823,94 @@ Sagan:
 [^McComas2008]: @McComas_2008_Seeking_historical_examples_to_illustrate_key\.
 [^Nola2007p5]: @Nola_2007_Theories_of_Scientific_Method\, p. 5.
 [^Nola2007p6]: @Nola_2007_Theories_of_Scientific_Method\, p. 6.
+
+
+Models in science
+--------------------------------------------------------------------------------
+
+-   TODO1: *priority section to finish*
+
+### What's a model?
+
+French:
+
+>   [S]cientist *don't* simply deduce experimental/observational consequences;
+>   they construct models that 'mediate' between theories and the observations.
+>   There are a number of reasons why scientists will proceed in this way
+>   but one is that theories are often quite complex and difficult to work with.
+>   So a scientist may build a simplified model, containing significant
+>   idealizations that allow the scientist to ignore certain factors,
+>   for example, and [more] easily relate the theory to observations. [^French2007p81]
+
+Model the theory:
+
+$$ \text{Theory} + \text{Modeling} \longrightarrow \text{Model} $$
+
+Fit the model to the data to make inferences on the theory:
+
+$$ \text{Model} + \text{Data} + \text{Statistical Analysis} \longrightarrow \text{Model(improved)} \longrightarrow \text{Theory(improved)} $$
+
+
+### Models represent theories
+
+Model the theory:
+
+$$ T(\theta_k, \psi_m) \longrightarrow M(X_i | \theta_k, \nu_\ell) $$
+
+Fit the model to the data to make inferences on the theory:
+
+$$
+    \{X_i\}_j
+    \longrightarrow M(X_{ij} | \theta_k, \nu_\ell)
+    \longrightarrow \hat{\theta}_k \pm \sigma_{\hat{\theta}_k} , \hat{\nu}_\ell \pm \sigma_{\hat{\nu}_\ell}
+    \longrightarrow T(\hat{\theta}_k \pm \sigma_{\hat{\theta}_k}, \psi_m)
+$$
+
+Frigg:
+
+>   Morgan and Morrison (1999) rally around the idea that models are instruments
+>   that mediate between theories and the world. Models are "autonomous agents"
+>   in that they are independent from both theories and their target systems,
+>   and it is this independence that allows them to mediate between the two.
+>   Theories do not provide us with algorithms for the construction of a model;
+>   they are not "vending machines" into which one can insert a problem and a
+>   model pops out (Cartwright 1999). The construction of a model often requires
+>   detailed knowledge about materials, approximation schemes, and the setup,
+>   and these are not provided by the corresponding theory. Furthermore,
+>   the inner workings of a model are often driven by a number of different
+>   theories working cooperatively. In contemporary climate modeling,
+>   for instance, elements of different theories---among them fluid dynamics,
+>   thermodynamics, electromagnetism---are put to work cooperatively.
+>   What delivers the results is not the stringent application of one theory,
+>   but the voices of different theories when put to use in chorus with each
+>   other in one model. [^Frigg2020]
+
+-   "Surrogative Reasoning Condition" [^Frigg2017]
+-   Hugh Everett's thesis, Appendix II
+-   ["What is the difference between a model and a theory?"](https://physics.stackexchange.com/questions/187967/what-is-the-difference-between-a-model-and-a-theory) - physics.stackexchange.com
+-   "A comparison of the meaning and uses of models in mathematics and the empirical sciences" [^Suppes1961]
+-   "What is a scientific theory?" [^Suppes1967]
+-   *Models as Mediators* [^Morgan1999]
+-   [NPR: How to make sense of all the COVID-19 projections? A new model combines them.](https://www.npr.org/sections/health-shots/2020/05/13/855038708/combining-different-models-new-coronavirus-projection-shows-110-000-deaths-by-ju)
+
+
+### Digression: Some physicists have semantic differences
+
+-   TODO: explain
+-   HEP theorists especially
+-   HEP theorists often use "theory" to mean "theoretical framework": quantum field theory, yang-mills theory, string theory, etc.
+-   "Model building" in HEP means piecing together a particular theory, a "model", using a "theory" (theoretical framework).
+-   The issue is purely semantic. The important point of the above discussion
+    is that a model stands-in as a representative of a theory
+    that can be compared with the data.
+-   TODO: find good example refs
+
+[^French2007p81]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. 81.
+[^Frigg2017]: @Frigg_2017_Models_and_representation\.
+[^Frigg2020]: @Frigg_2020_Models_in_science\.
+[^Morgan1999]: @Morgan_1999_Models_as_Mediators\.
+[^Suppes1961]: @Suppes_1961_A_comparison_of_the_meaning_and_uses_of_models\.
+[^Suppes1967]: @Suppes_1967_What_is_a_scientific_theory\.
 
 
 Knowledge and realism
