@@ -54,13 +54,12 @@ Contact
 
 -   email: <img class="email" src="img/my-email.png" alt="my email address"/>
 -   cell: +1-817-888-7010
--   skype: ryan.reece
 
 
 ### My web presence elsewhere
 
 -   my blogs
-    -   [statisticalsignificance.net](http://statisticalsignificance.net/) -- my blog (still trying to get this going)
+    -   [essays](essays/)         
     -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/) -- my micro-blog on philosophy using only figures
 -   my professional and social media
     -   [github.com/rreece](https://github.com/rreece)

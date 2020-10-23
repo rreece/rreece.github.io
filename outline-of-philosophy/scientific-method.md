@@ -958,6 +958,7 @@ Plato:
 -   Gettier cases
     -   Knowledge = JTB - G
     -   TODO: find ref
+-   Internalism vs externalism
 -   Systematic uncertainties.  Failed justification.
     -   TODO: discussion by me
 
@@ -1186,6 +1187,7 @@ Click to show links
 -   [Ibn Sina (980-1037)](https://plato.stanford.edu/entries/ibn-sina/)
 -   [Identity of Indiscernibles](http://plato.stanford.edu/entries/identity-indiscernible/)
 -   [Induction, The problem of](http://plato.stanford.edu/entries/induction-problem/)
+-   [Internalist vs. externalist conceptions of epistemic justification](https://plato.stanford.edu/entries/justep-intext/)
 -   [Kant, Immanuel (1724-1804)](http://plato.stanford.edu/entries/kant/)
 -   [Kant's account of reason](http://plato.stanford.edu/entries/kant-reason/)
 -   [Kant's critique of metaphysics](http://plato.stanford.edu/entries/kant-metaphysics/)
@@ -1235,6 +1237,7 @@ Click to show links
 -   [Hempel, Carl Gustav (1905-1997)](http://www.iep.utm.edu/hempel/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Ibn Sina (980-1037)](http://www.iep.utm.edu/avicenna/)
+-   [Internalism and externalism in epistemology](https://iep.utm.edu/int-ext/)
 -   [Locke, John (1632-1704)](http://www.iep.utm.edu/locke/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)
 -   [Naturalistic epistemology](http://www.iep.utm.edu/nat-epis/)
