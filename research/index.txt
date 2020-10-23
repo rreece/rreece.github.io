@@ -47,13 +47,14 @@ and severe statistical hypothesis testing.
 
 ![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png "Experiment &rarr; data acquisition &rarr; reconstruction &rarr; analysis &rarr; inference")
 
-My research has primarily focused on supporting and optimizing the reconstruction
+In physics, my research has primarily focused on supporting and optimizing the reconstruction
 of hadronic tau decays, and searching for exotic new physics in ditau and diphoton events,
 including for signs of grand unified theories and supersymmetry.
 
-More recently, 
-my research has transitioned to using deep learning techniques for particle physics
-reconstruction and other classification problems.
+Since about 2015, following the deep learning revolution,
+I've been trying to learn everything I can about deep learning.
+I've worked in computer vision, large-scale language modeling,
+and machine translation.
 
 
 ### Current projects I am focused on
