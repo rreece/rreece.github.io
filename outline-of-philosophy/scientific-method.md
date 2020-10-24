@@ -511,6 +511,8 @@ Reichenbach:
 >   unless a theory of probability is developed that explains what we should
 >   mean by "probable" and on what ground we can assert probabilities. [^Reichenbach1951p93]
 
+-   Hempel: Raven paradox
+
 [^Hume2007p56]: First footnote in the essay "On Probability" in @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 56.
 [^Hume2007pXX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
 [^Reichenbach1951p93]: @Reichenbach_1951_The_rise_of_scientific_philosophy\, p. 93-4.
@@ -596,6 +598,7 @@ Dewey:
     -   "The aim of inductive logic" [^Carnap1966]
     -   "Notes on probability and induction" [^Carnap1973]
 -   Note that philosophical induction is not [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
+-   Sankey [^Sankey2008p79]
 
 [^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
 [^Carnap1950b]: @Carnap_1950_Logical_Foundations_of_Probability\.
@@ -608,6 +611,7 @@ Dewey:
 [^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
     @Reichenbach_1940_On_the_justification_of_induction\.
     TODO: Break up and go through these references.
+[^Sankey2008p79]: @Sankey_2008_Scientific_Realism_and_the_Rationality_of_Science\, p. 79.
 [^Vickers2014]: @Vickers_2014_The_problem_of_induction (emphasis added).
 
 

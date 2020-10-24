@@ -240,6 +240,7 @@ The primary dichotomy of positions is between forms of scientific realism and in
 
 -   Khlentzos [^Khlentzos2011-2]
 -   *Resisting Scientific Realism* [^Wray2018]
+-   The problem of induction. See also: [The problem of induction](scientific-method.html#problem-of-induction)
 -   Instrumentalism
     -   Positivism; linguistic frameworks; principle of tolerance; verificationism
 -   Underdetermination
@@ -251,6 +252,7 @@ The primary dichotomy of positions is between forms of scientific realism and in
     -   The lore of our forefathers  - Quine
     -   Research traditions - Laudan
     -   Epistemological anarchism - Feyerabend
+-   See also: [Superseded theories in science](#superseded-theories-in-science)
 -   See discussion of the Science Wars in [Criticisms of naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism)
 -   TODO: work through the challenges presented in [these videos](https://www.youtube.com/playlist?list=PLz0n_SjOttTenxXXdML7fOu1og3D9LaME).
 -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
@@ -265,16 +267,6 @@ Einstein:
 [^Poincare1913p351]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 351.
 [^Einstein1922]: @Einstein_1922_Geometry_and_Experience\.
 [^Wray2018]: @Wray_2018_Resisting_Scientific_Realism\.
-
-
-### Superseded theories in science
-
--   [Superseded theories in science](https://en.wikipedia.org/wiki/Superseded_theories_in_science)
--   Aristotelian physics
--   Ptolemaic solar system
--   Phlogiston theory
--   &eacute;lan vital
--   relationship to pessimistic meta-induction
 
 
 ### Realist rebutals
@@ -724,17 +716,13 @@ Postmodernism
 -   "Man is the measure of all things" - Protagoras
 -   Incommensurability
 -   Conventionalism
--   Postmodernism
-    -   Jean-Fran&ccedil;ois Lyotard (1924-1998)
-    -   Gilles Deleuze (1925-1995)
-    -   Michel Foucault (1926-1984)
-    -   Jean Baudrillard (1929-2007)
-    -   Jacques Derrida (1930-2004)
-    -   Richard Rorty (1931-2007)
 -   Social constructivism
-    -   Thomas Kuhn (1922-1996)
-    -   Paul Feyerabend (1924-1994)
-        -   Epistemological anarchism
+-   Jean-Fran&ccedil;ois Lyotard (1924-1998)
+-   Gilles Deleuze (1925-1995)
+-   Michel Foucault (1926-1984)
+-   Jean Baudrillard (1929-2007)
+-   Jacques Derrida (1930-2004)
+-   Richard Rorty (1931-2007)
 -   Criticisms of postmodernism:
     -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017-1]
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011-1]
@@ -812,12 +800,21 @@ TODO: find ref of above quote.
 -   Thomas Kuhn (1922-1996)
     -   paradigm shifts
     -   normal science and revolutionary science
+    -   Incommensurability
+    -   Sankey [^Sankey1997]
 -   Imre Lakatos (1922-1974)
     -   scientific research programmes
 -   Larry  Laudan (b. 1941)
     -   scientific research traditions
     -   pessimistic meta-induction (PMI)
     -   science cannot be value free
+-   Paul Feyerabend (1924-1994)
+    -   Epistemological anarchism
+
+[^Sankey1997]: @Sankey_1997_Rationality_Relativism_and_Incommensurability\.
+
+
+### Superseded theories in science
 
 Poincar&eacute;:
 
@@ -827,6 +824,13 @@ Poincar&eacute;:
 >   the day after tomorrow they are classic,
 >   the fourth day they are superannuated,
 >   and the fifth they are forgotten. [^Poincare1913p351]
+
+-   [Superseded theories in science](https://en.wikipedia.org/wiki/Superseded_theories_in_science)
+-   Aristotelian physics
+-   Ptolemaic solar system
+-   Phlogiston theory
+-   &eacute;lan vital
+-   relationship to pessimistic meta-induction
 
 
 ### The "death" of positivism
@@ -840,8 +844,6 @@ Poincar&eacute;:
 Ayer:
 
 >   The most important defect was that nearly all of it was false. [^Ayer1978]
-
--   Hempel: Raven paradox
 
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
 [^Passmore1967]: @Passmore_1967_Logical_positivism and 
@@ -859,12 +861,33 @@ Ayer:
     -   *falsifiability* over *verifiability*
 -   Sellars
 -   Putnam, NMA
+-   Sankey [^Sankey2015]
 
 Popper:
 
 >   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963pX]
 
 [^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
+[^Sankey2015]: @Sankey_2015_Realism_progress_and_the_historical_turn\.
+
+Sankey:
+
+>   *The Causal-Theoretic Reply to Incommensurability*
+>
+>   Assuming the causal theory of reference, one might reply to the
+>   incommensurability thesis somewhat as follows. The meaning, in the
+>   sense of 'sense', of scientific terms may well vary in the course of
+>   theoretical change. However, it does not follow that reference must also
+>   vary as a result of such change of meaning. For reference is not
+>   determined by sense, but by causal chains which link the present use of
+>   terms with initial baptisms at which their reference was fixed. So
+>   reference does not vary with the changes of descriptive content which
+>   occur during theoretical change. Hence, reference is held constant across
+>   theoretical transitions, and theories may be compared by means of reference.
+>   Thus, there is no referential discontinuity, no incomparability of content,
+>   and no incommensurability. [^Sankey2008p66]
+
+[^Sankey2008p66]: @Sankey_2008_Scientific_Realism_and_the_Rationality_of_Science\, p. 66.
 
 
 Constructive empiricism
