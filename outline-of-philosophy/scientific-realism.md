@@ -862,6 +862,9 @@ Ayer:
 -   Sellars
 -   Putnam, NMA
 -   Sankey [^Sankey2015]
+-   Talk by Sankey: [Scepticism, Relativism and Naturalistic Particularism](https://www.youtube.com/watch?v=QyEFaJf_Dyo)
+    -   Chisholm's particularism: start with what is uncontroversially known.
+        Justify epistemic standards second. It's ok to question beg.
 
 Popper:
 
