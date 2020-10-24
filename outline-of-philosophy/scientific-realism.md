@@ -79,6 +79,13 @@ Stealing from encyclopedia.com:
 Realism and antirealism
 --------------------------------------------------------------------------------
 
+### Ancient skepticism
+
+-   Pyrrhonism
+-   [Agrippa's trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
+-   [Meno's paradox](https://en.wikipedia.org/wiki/Meno#Meno's_paradox)
+
+
 ### Allegory of the Cave
 
 -   Naive realism.  Why would I doubt the world I see is real?
@@ -136,6 +143,7 @@ Schr&ouml;dinger quoting Schopenhauer:
 -   Distinguish Anti-realism from non-realism
 -   See also [Challenges to scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html#challenges-to-scientific-realism)
     in the section on [Scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html) below.
+    -   Chisholm *The Problem of Criterion*
 
 Radiohead:
 
@@ -744,12 +752,13 @@ Postpositivism
 Various reactions to positivism.
 
 -   Karl Popper (1902-1994)
+    -   [Critical rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
+    -   *The Myth of the Framework* (1994)
 -   Willard Van Orman Quine (1908-2000)
 -   Thomas Kuhn (1922-1996)
 -   Imre Lakatos (1922-1974)
 -   Nancy Cartwright (b. 1944)
-
-TODO: Khanna [^Khanna2018]
+-   TODO: Khanna [^Khanna2018]
 
 [^Khanna2018]: @Khanna_2018_Positivism_and_realism\.
 
@@ -949,10 +958,13 @@ observable ones; as such, the social world can be understood only if people
 understand the structures that generate such unobservable events.
 
 -   realist
--   Roy Wood Sellars, Wilfrid Sellars
+-   Roy Wood Sellars
+-   Wilfrid Sellars
+    -   The Myth of the Given
 -   Roy Bhaskar
 -   Freely emphasizes the political implications of scientific realism.
 -   The normative importance of climate science.
+-   Howard Sankey?
 
 
 Active realism
@@ -1400,6 +1412,7 @@ Click to show links
 -   [Causal Models](https://plato.stanford.edu/entries/causal-models/)
 -   [Causal Processes](http://plato.stanford.edu/entries/causation-process/)
 -   [Challenges to Metaphysical Realism](http://plato.stanford.edu/entries/realism-sem-challenge/)
+-   [Chisholm, Roderick (1916-1999)](https://plato.stanford.edu/entries/chisholm/)
 -   [Comte, Auguste (1798-1857)](http://plato.stanford.edu/entries/comte/)
 -   [Computer Simulations in Science](http://plato.stanford.edu/entries/simulations-science/)
 -   [Constructive Empiricism](http://plato.stanford.edu/entries/constructive-empiricism/)
@@ -1534,6 +1547,7 @@ Click to show links
 -   [Anti-realism](https://en.wikipedia.org/wiki/Anti-realism)
 -   [Berlin Circle](http://en.wikipedia.org/wiki/Berlin_Circle)
 -   [Carnap, Rudolf (1891-1970)](http://en.wikipedia.org/wiki/Rudolf_Carnap)
+-   [Chisholm, Roderick (1916-1999)](https://en.wikipedia.org/wiki/Roderick_Chisholm)
 -   [Commensurability](http://en.wikipedia.org/wiki/Commensurability_(philosophy_of_science))
 -   [Confirmation holism](http://en.wikipedia.org/wiki/Confirmation_holism)
 -   [Constructive empiricism](https://en.wikipedia.org/wiki/Constructive_empiricism)
@@ -1591,6 +1605,7 @@ Click to show links
 -   [Pragmaticism](http://en.wikipedia.org/wiki/Pragmaticism)
 -   [Pragmatism](http://en.wikipedia.org/wiki/Pragmatism)
 -   [Private language argument](https://en.wikipedia.org/wiki/Private_language_argument)
+-   [Problem of the Criterion](https://iep.utm.edu/criterio/)
 -   [Progress, Philosophical](https://en.wikipedia.org/wiki/Philosophical_progress)
 -   [Putnam, Hilary (b. 1926)](https://en.wikipedia.org/wiki/Hilary_Putnam)
 -   [Quine, W.V. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
