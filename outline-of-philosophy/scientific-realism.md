@@ -226,18 +226,30 @@ Chakravartty:
 -   Sellars
 -   Chakravartty
 -   Psillos
+-   Sankey
 
-The primary dichotomy of positions is between forms of scientific realism and instrumentalism.
+Sankey:
 
 >   Correspondence theories which treat truth as a relation between language
 >   and reality are the only theories of truth compatible with realism. [^Sankey2001]
 
+>   The realist aim for science is to discover the truth, or the approximate truth,
+>   or the truth with some associated degree of error, about not only the observable
+>   aspects of the world but also its unobservable aspects. Associated with this is the
+>   elimination of error, or its minimization, while truth is maximized.
+>   While the pursuit of science may increase our ability to control the environment,
+>   or to predict observable phenomena, these are secondary pursuits compared with
+>   the realist's aim of acquiring (approximately) true theories. [^Sankey2007p338]
+
 [^Chakravartty2007]: @Chakravartty_2007_A_Metaphysics_for_Scientific_Realism\.
 [^Chakravartty2017]: @Chakravartty_2017_Scientific_realism\. <https://plato.stanford.edu/entries/scientific-realism/>
 [^Sankey2001]: @Sankey_2001_Scientific_realism_An_elaboration_and_a_defence\, p. 37.
+[^Sankey2007p338]: @Nola_2007_Theories_of_Scientific_Method\, p. 338.
 
 
 ### Challenges to scientific realism
+
+The primary dichotomy of positions is between forms of scientific realism and instrumentalism.
 
 ![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
 
@@ -514,8 +526,9 @@ Comte on the unknowability of the composition of stars:
 
 -   TODO
 
-#### Wittgenstein
+#### Ludwig Wittgenstein
 
+-   Ludwig Wittgenstein (1889-1951)
 -   Gottlob Frege (1848-1925)
     -   Sense and reference (1892)
 
@@ -703,23 +716,40 @@ with strong contrasts to positivism that were developing around it:
 Pragmatism
 --------------------------------------------------------------------------------
 
+### Introduction
+
 -   antirealist
--   Charles Sanders Peirce (1839-1914)
--   William James (1842-1910)
--   John Dewey (1859-1952)
--   later Wittgenstein
--   Rorty and Putnam
--   Quine
--   Dennett
 -   Our confidence comes in continuous amounts.
     We might as well act as if a claim with a certain confidence
     is real, however, we really deny realism.
 -   Meaning is rooted in use.
 -   Uniquely American philosophical movement.
 
+### Charles Sanders Peirce
+
+-   Charles Sanders Peirce (1839-1914)
+
+### John Dewey
+
+-   John Dewey (1859-1952)
+
+More:
+
+-   William James (1842-1910)
+-   John Dewey (1859-1952)
+-   Later work of Ludwig Wittgenstein (1889-1951)
+-   Rorty and Putnam
+-   Quine
+
+### Daniel C. Dennett
+
+-   Daniel C. Dennett (b. 1942)
+
 
 Postmodernism
 --------------------------------------------------------------------------------
+
+### Introduction
 
 -   antirealist, relativism
 -   "Man is the measure of all things" - Protagoras
@@ -786,23 +816,6 @@ Various reactions to positivism.
 [^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
 
 
-### Ordinary language philosophy
-
--   Late Wittgenstein
--   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
--   Instrumentalist and pragmatist
--   An important project is to understand the differences between early (*TLP*)
-    and late (*PI*) Wittgenstein. It is quite the about-face.
-    -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
-    -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
-
-Wittgenstein in *PI*:
-
->   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
-
-TODO: find ref of above quote.
-
-
 ### Theory change
 
 -   Poincar&eacute;
@@ -840,6 +853,23 @@ Poincar&eacute;:
 -   Phlogiston theory
 -   &eacute;lan vital
 -   relationship to pessimistic meta-induction
+
+
+### Ordinary language philosophy
+
+-   Late Wittgenstein
+-   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
+-   Instrumentalist and pragmatist
+-   An important project is to understand the differences between early (*TLP*)
+    and late (*PI*) Wittgenstein. It is quite the about-face.
+    -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
+    -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
+
+Wittgenstein in *PI*:
+
+>   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
+
+TODO: find ref of above quote.
 
 
 ### The "death" of positivism
@@ -905,26 +935,37 @@ Sankey:
 Constructive empiricism
 --------------------------------------------------------------------------------
 
+### Introduction
+
 Science aims to give us theories that are empirically adequate,
 but does not justify metaphysical claims about reality.
 
 -   antirealist
--   van Fraassen's "Arguments Concerning Scientific Realism" [^vanFraassen1980]
--   van Fraassen and Bueno
+
+### van Fraassen
+
+-   *The Scientific Image*
+    -   van Fraassen's "Arguments Concerning Scientific Realism" [^vanFraassen1980]
 -   Unlike positivism/instrumentalism, theories should be taken literally.
 -   TODO: Some inspiration from Wittgenstein and what else?
+-   Healey criticizes van Fraassen's CE [^Healey2007p114]
 
 ![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories), 2015).](img/true-vs-literal-theories.png){#fig:true-vs-literal-theories}
 
--   Healey criticizes van Fraassen's CE [^Healey2007p114]
--   Hennig:
-    -   "Mathematical models and reality: A constructivist perspective" [^Hennig2010]
-    -   "What are the true clusters?" [^Hennig2015]
-
 [^Healey2007p114]: @Healey_2007_Gauging_Whats_Real\, p. 114--116.
+[^vanFraassen1980]: @vanFraassen_1980_The_Scientific_Image\.
+
+### Bueno
+
+-   TODO
+
+### Hennig
+
+-   "Mathematical models and reality: A constructivist perspective" [^Hennig2010]
+-   "What are the true clusters?" [^Hennig2015]
+
 [^Hennig2010]: @Hennig_2010_Mathematical_models_and_reality_A_constructivist\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
-[^vanFraassen1980]: @vanFraassen_1980_The_Scientific_Image\.
 
 
 Structural realism

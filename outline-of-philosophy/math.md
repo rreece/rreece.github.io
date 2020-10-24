@@ -66,6 +66,7 @@ Algebra
 -   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
 -   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
+-   [Universal algebra](https://en.wikipedia.org/wiki/Universal_algebra)
 
 
 Analysis
