@@ -119,10 +119,17 @@ Analysis
 Model theory
 --------------------------------------------------------------------------------
 
--   [Model theory](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Model_theory)
+-   Wikipedia: [Model theory](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Model_theory)
+    -   model theory = universal algebra + logic
+    -   model theory = algebraic geometry - fields
+-   SEP: [Model theory](https://plato.stanford.edu/entries/model-theory/)
+    -   Model theory is the study of the interpretation of any language, formal or natural, by means of set-theoretic structures, with Alfred Tarski's truth definition as a paradigm.
+-   William Rowan Hamilton
+-   Alfred North Whitehead, *A Treatise on Universal Algebra* (1898)
 -   Wilfrid Hodges
 -   Language
 -   Carnap
+-   Traski
 
 
 ### Incompleteness
