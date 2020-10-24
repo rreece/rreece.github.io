@@ -164,8 +164,11 @@ Feynman:
 [^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
 
 
-Abrahamism
+Proto-Indo-European mythology
 --------------------------------------------------------------------------------
+
+-   [Proto-Indo-European mythology](https://en.wikipedia.org/wiki/Proto-Indo-European_mythology)
+-   [Kurgan hypothesis](https://en.wikipedia.org/wiki/Kurgan_hypothesis)
 
 ### Zoroastrianism
 
@@ -174,6 +177,9 @@ Abrahamism
 -   first monotheism
 -   official religion of Ancient Persia from the 6th century BCE to the 7th century CE
 
+
+Abrahamism
+--------------------------------------------------------------------------------
 
 ### Judaism
 
@@ -1145,6 +1151,7 @@ Comparitive studies
 -   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
     -   Particularly known for his proposition of the existence of a relationship among European and Indo-Aryan languages, which he coined as Indo-European.
     -   He hypothesized that Sanskrit, Greek, and Latin languages have a common root: [Proto-Indo-European language](https://en.wikipedia.org/wiki/Proto-Indo-European_language).
+-   [Max M&uuml;ller](https://en.wikipedia.org/wiki/Max_M%C3%BCller) (1823-1900)
 
 
 ### Indian and Greek philosophy
