@@ -679,6 +679,12 @@ Also:
 -   Ladyman & Ross [^Ladyman2007pX]
 -   Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
 
+Later we will discuss [postpositivism](#postpositivism), which refers to
+a collection of reactions to the movement of positivism.
+But first, we will examine two other important movements in philosophy
+with strong contrasts to positivism that were developing around it:
+[pragmatism](#pragmatism) and [postmodernism](#postmodernism).
+
 [^Carnap1937]: @Carnap_1936_Testability_and_meaning and @Carnap_1937_Testability_and_meaning_continued\.
 [^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
