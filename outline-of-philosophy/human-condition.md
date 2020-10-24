@@ -1486,6 +1486,8 @@ Psychology:
 -   Lucretius
 -   Sam Harris
 
+Xenophanes:
+
 >   But if cattle or lions had hands, so as to paint with their hands and
 >   produce works of art as men do, they would paint their gods and give
 >   them bodies in form like their own---horses like horses, cattle like cattle. [^XenophanesB15]

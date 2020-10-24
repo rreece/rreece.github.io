@@ -377,6 +377,8 @@ See the [Outline on scientific realism](scientific-realism.html).
 
 See the [Outline on philosophy of mathematics](math.html#naturalism).
 
+![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism), 2015).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
+
 [^Quine1969]: @Quine_1969_Natural_kinds\.
 [^Quine1981p474]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
     found in @Quine_1981_Theories_and_Things, p. 21.
@@ -389,12 +391,10 @@ Rejection of the supernatural
 -   Part of methodological naturalism.
     -   Not an a priori assumption but an empirical conclusion
     -   Dennett: Naturalism is a method of explaining a magic trick without appealing to magic.
-
-![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism), 2015).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
-
 -   The Lewis-Anscombe debate
     -   [The Lewis-Anscombe debate](http://thecslewis-studygroup.org/the-c-s-lewis-study-group/lewis-genre/theology/miracles-2/the-lewisanscombe-debate/)
     -   The rewrite of chapter 3 in *Miracles* [^Lewis1947]
+-   See also: [Atheism](human-condition.html#atheism)
 
 [^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.
 
