@@ -121,6 +121,7 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
 -   [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (c. 1,600-400 BCE)
 -   [Olmec hieroglyphs](https://en.wikipedia.org/wiki/Olmec_hieroglyphs) possibly as early as 900 BCE
 -   [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block) with Olmec hieroglyphs possibly as early as c. 1,000 BCE
+-   See also: [American religions](#american).
 
 ![Map of the world showing approximate centers of the six independent origins
     of agriculture and its spread in prehistory. [^Diamond2003]
@@ -849,6 +850,7 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   [Aztec philosophy](https://en.wikipedia.org/wiki/Aztec_philosophy)
 -   [Aztec religion](https://en.wikipedia.org/wiki/Aztec_religion)
 -   Tl&amacrloc - Aztec god of rain.
+-   [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) (1769-1859)
 
 
 
