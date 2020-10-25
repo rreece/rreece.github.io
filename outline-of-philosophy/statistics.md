@@ -782,10 +782,10 @@ Data science
 [^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
 
 
-Machine learning
+Classical machine learning
 --------------------------------------------------------------------------------
 
-### Classical
+### Introduction
 
 -   classification vs regression
 -   supervised and unsupervised learning
@@ -972,42 +972,74 @@ to [@eq:cross_entropy_loss3].
     -   Dindin, M. (2018). [TDA To Rule Them All: ToMATo Clustering](https://towardsdatascience.com/tda-to-rule-them-all-tomato-clustering-878e03394a1).
 
 
-### Deep learning
+Deep learning
+--------------------------------------------------------------------------------
 
--   backpropagation [^Rumelhart1986]
--   *Deep Learning* [^Goodfellow2016]
+### Introduction
+
 -   Conceptual reviews of deep learning
     -   Lower to higher level representations [^Bengio2009]
-    -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
     -   "Review: Deep learning" [^LeCun2015]
+    -   *Deep Learning* [^Goodfellow2016]
+-   Backpropagation
+    -   Rumelhart [^Rumelhart1986]
+-   Pratical guides
+    -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
     -   Hao, L. et al. (2017). [Visualizing the loss landscape of neural nets](https://arxiv.org/abs/1712.09913).
     -   "Deep learning: A guide for practitioners in the physical sciences" [^Spears2018]
--   Deep double descent
-    -   Bias and variance trade-off. See [Bias and variance](#bias-and-variance).
-    -   MSE and model capacity
-    -   "Reconciling modern machine-learning practice and the classical bias-variance trade-off" [^Belkin2019]
-    -   "Deep double descent: Where bigger models and more data hurt" [^Nakkiran2019]
-    -   ["Deep Double Descent"](https://openai.com/blog/deep-double-descent/).  *OpenAI Blog*.
-    -   Hubinger, E. (2019). [Understanding "Deep Double Descent"](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent). *LessWrong*.
 -   Others
     -   "The explanation game: A formal framework for interpretable machine learning" [^Watson2019]
     -   [AIMyths.com](https://www.aimyths.org/)
--   Graphical tensor notation
-    -   [Penrose graphical notation](https://en.wikipedia.org/wiki/Penrose_graphical_notation)
-    -   Predrag Cvitanovic
-    -   [Matrices as Tensor Network Diagrams](https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams)
+
 
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
 
-[^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
 [^Bengio2009]: @Bengio_2009_Learning_deep_architectures_for_AI\.
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
 [^LeCun2015]: @LeCun_2015_Deep_learning\.
-[^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
 [^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
 [^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
+
+### Deep double descent
+
+-   Bias and variance trade-off. See [Bias and variance](#bias-and-variance).
+-   MSE and model capacity
+-   "Reconciling modern machine-learning practice and the classical bias-variance trade-off" [^Belkin2019]
+-   "Deep double descent: Where bigger models and more data hurt" [^Nakkiran2019]
+-   ["Deep Double Descent"](https://openai.com/blog/deep-double-descent/).  *OpenAI Blog*.
+-   Hubinger, E. (2019). [Understanding "Deep Double Descent"](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent). *LessWrong*.
+
+[^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
+[^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
+
+
+### Batch size vs learning rate
+
+Papers:
+
+1.  Keskar, N.S. et al. (2016). [On large-batch training for deep learning: Generalization gap and sharp minima](https://arxiv.org/abs/1609.04836).
+2.  Hoffer, E. et al. (2017). [Train longer, generalize better: closing the generalization gap in large batch training of neural networks](https://arxiv.org/abs/1705.08741).
+3.  Goyal, P. et al. (2017). [Accurate large minibatch SGD: Training ImageNet in 1 hour](https://arxiv.org/abs/1706.02677).
+4.  You, Y. et al. (2017).  [Large batch training of convolutional networks](https://arxiv.org/abs/1708.03888).
+5.  You, Y. et al. (2017). [ImageNet training in minutes](https://arxiv.org/abs/1709.05011).
+6.  Jastrzebski, S. (2018). [Three factors influencing minima in SGD](https://arxiv.org/abs/1711.04623).
+7.  Smith, S.L. (2018). [Don't decay the learning rate, increase the batch size](https://arxiv.org/abs/1711.00489).
+8.  Masters, D. & Luschi, C. (2018). [Revisiting small batch training for deep neural networks](https://arxiv.org/abs/1804.07612).
+9.  Lin, T. et al. (2020). [Don't use large mini-batches, use local SGD](https://arxiv.org/abs/1808.07217).
+10. Golmant, N. et al. (2018). [On the computational inefficiency of large batch sizes for stochastic gradient descent](https://arxiv.org/abs/1811.12941).
+11. McCandlish, S. et al. (2018). [An empirical model of large-batch training](https://arxiv.org/abs/1812.06162).
+12. Jastrzebski, S. et al. (2018). [Width of minima reached by stochastic gradient descent is influenced by learning rate to batch size ratio](https://link.springer.com/chapter/10.1007/978-3-030-01424-7_39).
+13. You, Y. et al. (2019). [Large-batch training for LSTM and beyond](https://arxiv.org/abs/1901.08256).
+14. You, Y. et al. (2019). [Large batch optimization for deep learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962).
+15. Zhang, G. et al. (2019). [Which algorithmic choices matter at which batch sizes? Insights from a Noisy Quadratic Model](https://arxiv.org/abs/1907.04164).
+16. Jastrzebski, S. et al. (2020). [The break-even point on optimization trajectories of deep neural networks](https://arxiv.org/abs/2002.09572).
+
+Blogs:
+
+-   Shen, K. (2018). [Effect of batch size on training dynamics](https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e).
+-   Chang, D. (2020). [Effect of batch size on neural net training](https://medium.com/deep-learning-experiments/effect-of-batch-size-on-neural-net-training-c5ae8516e57).
 
 ### Computer vision
 
@@ -1018,6 +1050,8 @@ Computer Vision (CV)
 -   LeCun: LeNet-5 [^LeCun1998]
 -   Ciresan: MCDNN
 -   Krizhevsky, Sutskever, and Hinton: AlexNet [^Krizhevsky2012]
+-   VGG
+-   ResNet
 
 [^Krizhevsky2012]: @Krizhevsky_2012_ImageNet_classification_with_deep_convolutional\.
 [^LeCun1989]: @LeCun_1989_Backpropagation_applied_to_handwritten_zip_code\.
@@ -1035,7 +1069,9 @@ Natural language processing (NLP)
 -   Review by Stahlberg [^Stahlberg2019]
 -   Rationalism and empiricism in artificial intellegence:
     A survey of 25 years of evaluation [in NLP]. [^Church2019]
+-   Transformer
 -   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
+-   GPT-1, 2, 3
 
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
@@ -1045,6 +1081,7 @@ Natural language processing (NLP)
 
 ### Reinforcement learning
 
+-   AlphaGo
 -   Sutton & Barto [^Sutton2018]
 
 [^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
@@ -1061,6 +1098,13 @@ Theoretical machine learning
 -   Hamilton, L.D. (2014). "[The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms)".
 -   Wolpert, D. (2018). [Why do computers use so much energy?](https://blogs.scientificamerican.com/observations/why-do-computers-use-so-much-energy/)
 -   [Sante Fe Institute: Thermodynamics of Computation](https://centre.santafe.edu/thermocomp/Santa_Fe_Institute_Collaboration_Platform:Thermodynamics_of_Computation_Wiki)
+
+
+###  Graphical tensor notation
+
+-   [Penrose graphical notation](https://en.wikipedia.org/wiki/Penrose_graphical_notation)
+-   Predrag Cvitanovic
+-   [Matrices as Tensor Network Diagrams](https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams)
 
 
 ### ML's relationship to statistical mechanics

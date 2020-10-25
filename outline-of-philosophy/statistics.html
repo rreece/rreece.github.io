@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Sat Oct 24, 2020" />
+  <meta name="date" content="Sun Oct 25, 2020" />
   <title>Philosophy of statistics - Ryan&#8217;s Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#8217;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -123,12 +123,17 @@
 <li><a href="statistics.html#p-value-controversy">P-value controversy</a></li>
 </ol></li>
 <li><a href="statistics.html#data-science">Data science</a></li>
-<li><a href="statistics.html#machine-learning">Machine learning</a>
+<li><a href="statistics.html#classical-machine-learning">Classical machine learning</a>
 <ol style="list-style-type: decimal">
-<li><a href="statistics.html#classical">Classical</a></li>
+<li><a href="statistics.html#introduction-1">Introduction</a></li>
 <li><a href="statistics.html#logistic-regression">Logistic regression</a></li>
 <li><a href="statistics.html#clustering">Clustering</a></li>
-<li><a href="statistics.html#deep-learning">Deep learning</a></li>
+</ol></li>
+<li><a href="statistics.html#deep-learning">Deep learning</a>
+<ol style="list-style-type: decimal">
+<li><a href="statistics.html#introduction-2">Introduction</a></li>
+<li><a href="statistics.html#deep-double-descent">Deep double descent</a></li>
+<li><a href="statistics.html#batch-size-vs-learning-rate">Batch size vs learning rate</a></li>
 <li><a href="statistics.html#computer-vision">Computer vision</a></li>
 <li><a href="statistics.html#natural-language-processing">Natural language processing</a></li>
 <li><a href="statistics.html#reinforcement-learning">Reinforcement learning</a></li>
@@ -136,6 +141,7 @@
 <li><a href="statistics.html#theoretical-machine-learning">Theoretical machine learning</a>
 <ol style="list-style-type: decimal">
 <li><a href="statistics.html#no-free-lunch-theorem">No free lunch theorem</a></li>
+<li><a href="statistics.html#graphical-tensor-notation">Graphical tensor notation</a></li>
 <li><a href="statistics.html#mls-relationship-to-statistical-mechanics">ML&#8217;s relationship to statistical mechanics</a></li>
 <li><a href="statistics.html#mls-relationship-to-gauge-theory">ML&#8217;s relationship to gauge theory</a></li>
 </ol></li>
@@ -758,8 +764,8 @@ D_\mathrm{KL}(p, q)
 <li>RECAST, TODO: find ref</li>
 </ul></li>
 </ul>
-<h2 id="machine-learning">Machine learning</h2>
-<h3 id="classical">Classical</h3>
+<h2 id="classical-machine-learning">Classical machine learning</h2>
+<h3 id="introduction-1">Introduction</h3>
 <ul>
 <li>classification vs regression</li>
 <li>supervised and unsupervised learning
@@ -872,43 +878,69 @@ D_\mathrm{KL}(p, q)
 <li>Dindin, M. (2018). <a href="https://towardsdatascience.com/tda-to-rule-them-all-tomato-clustering-878e03394a1">TDA To Rule Them All: ToMATo Clustering</a>.</li>
 </ul></li>
 </ul>
-<h3 id="deep-learning">Deep learning</h3>
+<h2 id="deep-learning">Deep learning</h2>
+<h3 id="introduction-2">Introduction</h3>
 <ul>
-<li>backpropagation<a href="#fn87" class="footnoteRef" id="fnref87"><sup>87</sup></a></li>
-<li><em>Deep Learning</em><a href="#fn88" class="footnoteRef" id="fnref88"><sup>88</sup></a></li>
 <li>Conceptual reviews of deep learning
 <ul>
-<li>Lower to higher level representations<a href="#fn89" class="footnoteRef" id="fnref89"><sup>89</sup></a></li>
+<li>Lower to higher level representations<a href="#fn87" class="footnoteRef" id="fnref87"><sup>87</sup></a></li>
+<li>&#8220;Review: Deep learning&#8221;<a href="#fn88" class="footnoteRef" id="fnref88"><sup>88</sup></a></li>
+<li><em>Deep Learning</em><a href="#fn89" class="footnoteRef" id="fnref89"><sup>89</sup></a></li>
+</ul></li>
+<li>Backpropagation
+<ul>
+<li>Rumelhart<a href="#fn90" class="footnoteRef" id="fnref90"><sup>90</sup></a></li>
+</ul></li>
+<li>Pratical guides
+<ul>
 <li>Bengio, Y. (2012). <a href="https://arxiv.org/abs/1206.5533">Practical recommendations for gradient-based training of deep architectures</a>.</li>
-<li>&#8220;Review: Deep learning&#8221;<a href="#fn90" class="footnoteRef" id="fnref90"><sup>90</sup></a></li>
 <li>Hao, L. et al. (2017). <a href="https://arxiv.org/abs/1712.09913">Visualizing the loss landscape of neural nets</a>.</li>
 <li>&#8220;Deep learning: A guide for practitioners in the physical sciences&#8221;<a href="#fn91" class="footnoteRef" id="fnref91"><sup>91</sup></a></li>
 </ul></li>
-<li>Deep double descent
-<ul>
-<li>Bias and variance trade-off. See <a href="#bias-and-variance">Bias and variance</a>.</li>
-<li>MSE and model capacity</li>
-<li>&#8220;Reconciling modern machine-learning practice and the classical bias-variance trade-off&#8221;<a href="#fn92" class="footnoteRef" id="fnref92"><sup>92</sup></a></li>
-<li>&#8220;Deep double descent: Where bigger models and more data hurt&#8221;<a href="#fn93" class="footnoteRef" id="fnref93"><sup>93</sup></a></li>
-<li><a href="https://openai.com/blog/deep-double-descent/">&#8220;Deep Double Descent&#8221;</a>. <em>OpenAI Blog</em>.</li>
-<li>Hubinger, E. (2019). <a href="https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent">Understanding &#8220;Deep Double Descent&#8221;</a>. <em>LessWrong</em>.</li>
-</ul></li>
 <li>Others
 <ul>
-<li>&#8220;The explanation game: A formal framework for interpretable machine learning&#8221;<a href="#fn94" class="footnoteRef" id="fnref94"><sup>94</sup></a></li>
+<li>&#8220;The explanation game: A formal framework for interpretable machine learning&#8221;<a href="#fn92" class="footnoteRef" id="fnref92"><sup>92</sup></a></li>
 <li><a href="https://www.aimyths.org/">AIMyths.com</a></li>
-</ul></li>
-<li>Graphical tensor notation
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Penrose_graphical_notation">Penrose graphical notation</a></li>
-<li>Predrag Cvitanovic</li>
-<li><a href="https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams">Matrices as Tensor Network Diagrams</a></li>
 </ul></li>
 </ul>
 <div class="figure">
 <img src="img/bengio-raw-to-higher-rep.png" alt="Figure 8: Raw input image is transformed into gradually higher levels of representation." id="fig:bengio-raw-to-higher-rep" />
-<p class="caption">Figure 8: Raw input image is transformed into gradually higher levels of representation.<a href="#fn95" class="footnoteRef" id="fnref95"><sup>95</sup></a></p>
+<p class="caption">Figure 8: Raw input image is transformed into gradually higher levels of representation.<a href="#fn93" class="footnoteRef" id="fnref93"><sup>93</sup></a></p>
 </div>
+<h3 id="deep-double-descent">Deep double descent</h3>
+<ul>
+<li>Bias and variance trade-off. See <a href="#bias-and-variance">Bias and variance</a>.</li>
+<li>MSE and model capacity</li>
+<li>&#8220;Reconciling modern machine-learning practice and the classical bias-variance trade-off&#8221;<a href="#fn94" class="footnoteRef" id="fnref94"><sup>94</sup></a></li>
+<li>&#8220;Deep double descent: Where bigger models and more data hurt&#8221;<a href="#fn95" class="footnoteRef" id="fnref95"><sup>95</sup></a></li>
+<li><a href="https://openai.com/blog/deep-double-descent/">&#8220;Deep Double Descent&#8221;</a>. <em>OpenAI Blog</em>.</li>
+<li>Hubinger, E. (2019). <a href="https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent">Understanding &#8220;Deep Double Descent&#8221;</a>. <em>LessWrong</em>.</li>
+</ul>
+<h3 id="batch-size-vs-learning-rate">Batch size vs learning rate</h3>
+<p>Papers:</p>
+<ol style="list-style-type: decimal">
+<li>Keskar, N.S. et al. (2016). <a href="https://arxiv.org/abs/1609.04836">On large-batch training for deep learning: Generalization gap and sharp minima</a>.</li>
+<li>Hoffer, E. et al. (2017). <a href="https://arxiv.org/abs/1705.08741">Train longer, generalize better: closing the generalization gap in large batch training of neural networks</a>.</li>
+<li>Goyal, P. et al. (2017). <a href="https://arxiv.org/abs/1706.02677">Accurate large minibatch SGD: Training ImageNet in 1 hour</a>.</li>
+<li>You, Y. et al. (2017). <a href="https://arxiv.org/abs/1708.03888">Large batch training of convolutional networks</a>.</li>
+<li>You, Y. et al. (2017). <a href="https://arxiv.org/abs/1709.05011">ImageNet training in minutes</a>.</li>
+<li>Jastrzebski, S. (2018). <a href="https://arxiv.org/abs/1711.04623">Three factors influencing minima in SGD</a>.</li>
+<li>Smith, S.L. (2018). <a href="https://arxiv.org/abs/1711.00489">Don&#8217;t decay the learning rate, increase the batch size</a>.</li>
+<li>Masters, D. &amp; Luschi, C. (2018). <a href="https://arxiv.org/abs/1804.07612">Revisiting small batch training for deep neural networks</a>.</li>
+<li>Lin, T. et al. (2020). <a href="https://arxiv.org/abs/1808.07217">Don&#8217;t use large mini-batches, use local SGD</a>.</li>
+<li>Golmant, N. et al. (2018). <a href="https://arxiv.org/abs/1811.12941">On the computational inefficiency of large batch sizes for stochastic gradient descent</a>.</li>
+<li>McCandlish, S. et al. (2018). <a href="https://arxiv.org/abs/1812.06162">An empirical model of large-batch training</a>.</li>
+<li>Jastrzebski, S. et al. (2018). <a href="https://link.springer.com/chapter/10.1007/978-3-030-01424-7_39">Width of minima reached by stochastic gradient descent is influenced by learning rate to batch size ratio</a>.</li>
+<li>You, Y. et al. (2019). <a href="https://arxiv.org/abs/1901.08256">Large-batch training for LSTM and beyond</a>.</li>
+<li>You, Y. et al. (2019). <a href="https://arxiv.org/abs/1904.00962">Large batch optimization for deep learning: Training BERT in 76 minutes</a>.</li>
+<li>Zhang, G. et al. (2019). <a href="https://arxiv.org/abs/1907.04164">Which algorithmic choices matter at which batch sizes? Insights from a Noisy Quadratic Model</a>.</li>
+<li>Jastrzebski, S. et al. (2020). <a href="https://arxiv.org/abs/2002.09572">The break-even point on optimization trajectories of deep neural networks</a>.</li>
+</ol>
+<p>Blogs:</p>
+<ul>
+<li>Shen, K. (2018). <a href="https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e">Effect of batch size on training dynamics</a>.</li>
+<li>Chang, D. (2020). <a href="https://medium.com/deep-learning-experiments/effect-of-batch-size-on-neural-net-training-c5ae8516e57">Effect of batch size on neural net training</a>.</li>
+</ul>
 <h3 id="computer-vision">Computer vision</h3>
 <p>Computer Vision (CV)</p>
 <ul>
@@ -917,6 +949,8 @@ D_\mathrm{KL}(p, q)
 <li>LeCun: LeNet-5<a href="#fn97" class="footnoteRef" id="fnref97"><sup>97</sup></a></li>
 <li>Ciresan: MCDNN</li>
 <li>Krizhevsky, Sutskever, and Hinton: AlexNet<a href="#fn98" class="footnoteRef" id="fnref98"><sup>98</sup></a></li>
+<li>VGG</li>
+<li>ResNet</li>
 </ul>
 <h3 id="natural-language-processing">Natural language processing</h3>
 <p>Natural language processing (NLP)</p>
@@ -929,10 +963,13 @@ D_\mathrm{KL}(p, q)
 <li>Sutskever seq2seq<a href="#fn100" class="footnoteRef" id="fnref100"><sup>100</sup></a></li>
 <li>Review by Stahlberg<a href="#fn101" class="footnoteRef" id="fnref101"><sup>101</sup></a></li>
 <li>Rationalism and empiricism in artificial intellegence: A survey of 25 years of evaluation [in NLP].<a href="#fn102" class="footnoteRef" id="fnref102"><sup>102</sup></a></li>
+<li>Transformer</li>
 <li>Horev, R. (2018). <a href="https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270">BERT Explained: State of the art language model for NLP</a>.</li>
+<li>GPT-1, 2, 3</li>
 </ul>
 <h3 id="reinforcement-learning">Reinforcement learning</h3>
 <ul>
+<li>AlphaGo</li>
 <li>Sutton &amp; Barto<a href="#fn103" class="footnoteRef" id="fnref103"><sup>103</sup></a></li>
 </ul>
 <h2 id="theoretical-machine-learning">Theoretical machine learning</h2>
@@ -944,6 +981,12 @@ D_\mathrm{KL}(p, q)
 <li>Hamilton, L.D. (2014). &#8220;<a href="http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms">The inductive biases of various machine learning algorithms</a>&#8221;.</li>
 <li>Wolpert, D. (2018). <a href="https://blogs.scientificamerican.com/observations/why-do-computers-use-so-much-energy/">Why do computers use so much energy?</a></li>
 <li><a href="https://centre.santafe.edu/thermocomp/Santa_Fe_Institute_Collaboration_Platform:Thermodynamics_of_Computation_Wiki">Sante Fe Institute: Thermodynamics of Computation</a></li>
+</ul>
+<h3 id="graphical-tensor-notation">Graphical tensor notation</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Penrose_graphical_notation">Penrose graphical notation</a></li>
+<li>Predrag Cvitanovic</li>
+<li><a href="https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams">Matrices as Tensor Network Diagrams</a></li>
 </ul>
 <h3 id="mls-relationship-to-statistical-mechanics">ML&#8217;s relationship to statistical mechanics</h3>
 <ul>
@@ -1676,15 +1719,15 @@ D_\mathrm{KL}(p, q)
 <li id="fn84"><p><span class="citation">McFadden &amp; Zarembka (1973)</span>.<a href="#fnref84">&#8617;</a></p></li>
 <li id="fn85"><p><span class="citation">Blondel, Martins, &amp; Niculae (2020)</span>.<a href="#fnref85">&#8617;</a></p></li>
 <li id="fn86"><p><span class="citation">Goodfellow et al. (2016)</span>, p.&#160;129.<a href="#fnref86">&#8617;</a></p></li>
-<li id="fn87"><p><span class="citation">Rumelhart, Hinton, &amp; Williams (1986)</span>.<a href="#fnref87">&#8617;</a></p></li>
-<li id="fn88"><p><span class="citation">Goodfellow et al. (2016)</span>.<a href="#fnref88">&#8617;</a></p></li>
-<li id="fn89"><p><span class="citation">Bengio (2009)</span>.<a href="#fnref89">&#8617;</a></p></li>
-<li id="fn90"><p><span class="citation">LeCun, Bengio, &amp; Hinton (2015)</span>.<a href="#fnref90">&#8617;</a></p></li>
+<li id="fn87"><p><span class="citation">Bengio (2009)</span>.<a href="#fnref87">&#8617;</a></p></li>
+<li id="fn88"><p><span class="citation">LeCun, Bengio, &amp; Hinton (2015)</span>.<a href="#fnref88">&#8617;</a></p></li>
+<li id="fn89"><p><span class="citation">Goodfellow et al. (2016)</span>.<a href="#fnref89">&#8617;</a></p></li>
+<li id="fn90"><p><span class="citation">Rumelhart, Hinton, &amp; Williams (1986)</span>.<a href="#fnref90">&#8617;</a></p></li>
 <li id="fn91"><p><span class="citation">Spears, B.K. et al. (2018)</span>.<a href="#fnref91">&#8617;</a></p></li>
-<li id="fn92"><p><span class="citation">Belkin, Hsu, Ma, &amp; Mandal (2019)</span>.<a href="#fnref92">&#8617;</a></p></li>
-<li id="fn93"><p><span class="citation">Nakkiran, P. et al. (2019)</span>.<a href="#fnref93">&#8617;</a></p></li>
-<li id="fn94"><p><span class="citation">Watson &amp; Floridi (2019)</span>.<a href="#fnref94">&#8617;</a></p></li>
-<li id="fn95"><p><span class="citation">Bengio (2009)</span>.<a href="#fnref95">&#8617;</a></p></li>
+<li id="fn92"><p><span class="citation">Watson &amp; Floridi (2019)</span>.<a href="#fnref92">&#8617;</a></p></li>
+<li id="fn93"><p><span class="citation">Bengio (2009)</span>.<a href="#fnref93">&#8617;</a></p></li>
+<li id="fn94"><p><span class="citation">Belkin, Hsu, Ma, &amp; Mandal (2019)</span>.<a href="#fnref94">&#8617;</a></p></li>
+<li id="fn95"><p><span class="citation">Nakkiran, P. et al. (2019)</span>.<a href="#fnref95">&#8617;</a></p></li>
 <li id="fn96"><p><span class="citation">LeCun, Y. et al. (1989)</span>.<a href="#fnref96">&#8617;</a></p></li>
 <li id="fn97"><p><span class="citation">LeCun, Bottou, Bengio, &amp; Haffner (1998)</span>.<a href="#fnref97">&#8617;</a></p></li>
 <li id="fn98"><p><span class="citation">Krizhevsky, Sutskever, &amp; Hinton (2012)</span>.<a href="#fnref98">&#8617;</a></p></li>
@@ -1740,7 +1783,7 @@ D_\mathrm{KL}(p, q)
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Sat Oct 24, 2020</p>
+    <p>Sun Oct 25, 2020</p>
   </div>
   <div class="license">
     <p>&#169; 2014-2020 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>
