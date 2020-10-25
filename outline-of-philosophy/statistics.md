@@ -978,7 +978,9 @@ to [@eq:cross_entropy_loss3].
 -   *Deep Learning* [^Goodfellow2016]
 -   Conceptual reviews of deep learning
     -   Lower to higher level representations [^Bengio2009]
+    -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
     -   "Review: Deep learning" [^LeCun2015]
+    -   Hao, L. et al. (2017). [Visualizing the loss landscape of neural nets](https://arxiv.org/abs/1712.09913).
     -   "Deep learning: A guide for practitioners in the physical sciences" [^Spears2018]
 -   Deep double descent
     -   Bias and variance trade-off. See [Bias and variance](#bias-and-variance).
