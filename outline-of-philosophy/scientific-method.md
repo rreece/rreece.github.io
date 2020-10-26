@@ -648,6 +648,15 @@ Peirce:
 
 -   [Holmesian fallacy](https://rationalwiki.org/wiki/Holmesian_fallacy)
 
+Schurz:
+
+>   *General schema of abduction* (or inference to the best explanation, IBE)       
+>   *Premise 1*: A (singular or general) fact *E*, in need of explanation.        
+>   *Premise 2*: Background knowledge *K*, which implies for some hypothesis *H* that
+>       *H* is a sufficiently plausible explanation for *E*.            
+>   ---        
+>   *Abductive conjecture*: *H* is true. [^Schurz2019p3]
+
 Arthur Conan Doyle:
 
 >   [W]hen you have eliminated the impossible, whatever remains, however improbable,
@@ -656,6 +665,7 @@ Arthur Conan Doyle:
 [^Bhaskar2008pX]: @Bhaskar_2008_A_Realist_Theory_of_Science\.
 [^Douven2011]: @Douven_2011_Abduction\.
 [^Doyle1890]: @Doyle_1890_The_Sign_of_the_Four\, ch. 6.
+[^Schurz2019p3]: @Schurz_2019_Humes_Problem_Solved_The_opptimality_of_meta_\, p. 3.
 [^WikipediaAbductiveReasoning1]: [en.wikipedia.org/wiki/Abductive_reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)
 [^WikipediaAbductiveReasoning2]: Ibid.
 
