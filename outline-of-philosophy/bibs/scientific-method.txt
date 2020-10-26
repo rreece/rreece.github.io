@@ -42,6 +42,7 @@ Quine, W.V.O. (1951). Two dogmas of empiricism. *The Philosophical Review*, 60, 
 Quine, W.V.O. & Carnap, R. (1990). *Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work* (Richard Creath, Ed.). University of California Press.
 Sabra, A.I. (1978). An eleventh-century refutation of Ptolemy's planetary theory. *Studia Copernicana*, 16, 117--131.
 Sagan, C. (1995). *The Demon-Haunted World: Science as a Candle in the Dark*. Random House.
+Schurz, G. (2019). *Hume's Problem Solved: The opptimality of meta-induction*. MIT Press.
 {Sextus Empiricus}. (1933). *Outlines of Pyrrhonism* (R.G. Bury, Trans.). London: W. Heinemann.
 Suppes, P. (1961). A comparison of the meaning and uses of models in mathematics and the empirical sciences. In *The Concept and the Role of the Model in Mathematics and Natural and Social Sciences* (pp. 163--177). Springer, Dordrecht.
 Suppes, P. (1967). What is a scientific theory? In Morgenbesser, S. (Ed.) *Philosophy of Science Today* (pp. 55-67). Basic Books.

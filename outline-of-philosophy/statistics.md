@@ -1029,12 +1029,14 @@ Papers:
 8.  Masters, D. & Luschi, C. (2018). [Revisiting small batch training for deep neural networks](https://arxiv.org/abs/1804.07612).
 9.  Lin, T. et al. (2020). [Don't use large mini-batches, use local SGD](https://arxiv.org/abs/1808.07217).
 10. Golmant, N. et al. (2018). [On the computational inefficiency of large batch sizes for stochastic gradient descent](https://arxiv.org/abs/1811.12941).
-11. McCandlish, S. et al. (2018). [An empirical model of large-batch training](https://arxiv.org/abs/1812.06162).
-12. Jastrzebski, S. et al. (2018). [Width of minima reached by stochastic gradient descent is influenced by learning rate to batch size ratio](https://link.springer.com/chapter/10.1007/978-3-030-01424-7_39).
-13. You, Y. et al. (2019). [Large-batch training for LSTM and beyond](https://arxiv.org/abs/1901.08256).
-14. You, Y. et al. (2019). [Large batch optimization for deep learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962).
-15. Zhang, G. et al. (2019). [Which algorithmic choices matter at which batch sizes? Insights from a Noisy Quadratic Model](https://arxiv.org/abs/1907.04164).
-16. Jastrzebski, S. et al. (2020). [The break-even point on optimization trajectories of deep neural networks](https://arxiv.org/abs/2002.09572).
+11. Arora, S. et al. (2018). [A convergence analysis of gradient descent for deep linear neural networks](https://arxiv.org/abs/1810.02281).
+12. McCandlish, S. et al. (2018). [An empirical model of large-batch training](https://arxiv.org/abs/1812.06162).
+13. Jastrzebski, S. et al. (2018). [Width of minima reached by stochastic gradient descent is influenced by learning rate to batch size ratio](https://link.springer.com/chapter/10.1007/978-3-030-01424-7_39).
+14. You, Y. et al. (2019). [Large-batch training for LSTM and beyond](https://arxiv.org/abs/1901.08256).
+15. You, Y. et al. (2019). [Large batch optimization for deep learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962).
+16. Zhang, G. et al. (2019). [Which algorithmic choices matter at which batch sizes? Insights from a Noisy Quadratic Model](https://arxiv.org/abs/1907.04164).
+17. Li, Y., Wei, C., & Ma, T. (2019). [Towards explaining the regularization effect of initial large learning rate in training neural networks](https://arxiv.org/abs/1907.04595).
+18. Jastrzebski, S. et al. (2020). [The break-even point on optimization trajectories of deep neural networks](https://arxiv.org/abs/2002.09572).
 
 Blogs:
 
@@ -1107,7 +1109,7 @@ Theoretical machine learning
 -   [Matrices as Tensor Network Diagrams](https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams)
 
 
-### ML's relationship to statistical mechanics
+### Relationship to statistical mechanics
 
 -   Logistic/softmax and Boltzman factors
 -   Bahri [^Bahri2020]
@@ -1117,7 +1119,7 @@ Theoretical machine learning
 [^Halverson2020]: @Halverson_2020_Neural_networks_and_quantum_field_theory\.
 
 
-### ML's relationship to gauge theory
+### Relationship to gauge theory
 
 -   Cohen
 

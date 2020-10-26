@@ -498,6 +498,7 @@ Hume:
 -   Russell's inductive turkey
     -   TODO: find Russell ref
     -   Note discussion by French
+-   Goodman: New riddle of induction (grue)
 -   Ayer
 
 Reichenbach:
@@ -512,10 +513,12 @@ Reichenbach:
 >   mean by "probable" and on what ground we can assert probabilities. [^Reichenbach1951p93]
 
 -   Hempel: Raven paradox
+-   Schurz: *Hume's Problem Solved The opptimality of meta-induction* [^Schurz2019]
 
 [^Hume2007p56]: First footnote in the essay "On Probability" in @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 56.
 [^Hume2007pXX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
 [^Reichenbach1951p93]: @Reichenbach_1951_The_rise_of_scientific_philosophy\, p. 93-4.
+[^Schurz2019]: @Schurz_2019_Humes_Problem_Solved_The_opptimality_of_meta_\.
 [^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
