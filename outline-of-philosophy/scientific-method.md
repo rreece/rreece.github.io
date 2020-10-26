@@ -646,8 +646,6 @@ Peirce:
 >   But if A were true, C would be a matter of course,          
 >   Hence, there is reason to suspect that A is true. [^WikipediaAbductiveReasoning2]
 
--   [Holmesian fallacy](https://rationalwiki.org/wiki/Holmesian_fallacy)
-
 Schurz:
 
 >   *General schema of abduction* (or inference to the best explanation, IBE)       
@@ -661,6 +659,8 @@ Arthur Conan Doyle:
 
 >   [W]hen you have eliminated the impossible, whatever remains, however improbable,
 >   must be the truth.  [^Doyle1890]
+
+-   [Holmesian fallacy](https://rationalwiki.org/wiki/Holmesian_fallacy)
 
 [^Bhaskar2008pX]: @Bhaskar_2008_A_Realist_Theory_of_Science\.
 [^Douven2011]: @Douven_2011_Abduction\.
