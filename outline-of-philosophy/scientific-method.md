@@ -513,7 +513,7 @@ Reichenbach:
 >   mean by "probable" and on what ground we can assert probabilities. [^Reichenbach1951p93]
 
 -   Hempel: Raven paradox
--   Earnshaw, E. (2017). How I solved Hume's problem and why nobody will believe me. *Philosophy Now*.
+-   Earnshaw, E. (2017). [How I solved Hume's problem and why nobody will believe me](https://philosophynow.org/issues/119/How_I_Solved_Humes_Problem_and_Why_Nobody_Will_Believe_Me). *Philosophy Now*.
 -   Schurz, G. (2019). *Hume's Problem Solved: The opptimality of meta-induction*. [^Schurz2019]
 
 [^Hume2007p56]: First footnote in the essay "On Probability" in @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 56.
