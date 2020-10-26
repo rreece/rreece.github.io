@@ -495,11 +495,15 @@ Hume:
     -   Uniformity of nature
     -   Humeanism
     -   Weintraub [^Weintraub1995]
+-   Mill on the uniformity of nature
 -   Russell's inductive turkey
     -   TODO: find Russell ref
     -   Note discussion by French
 -   Goodman: New riddle of induction (grue)
 -   Ayer
+-   Hempel: Raven paradox
+-   Reichenbach
+-   Carnap on confirmation
 
 Reichenbach:
 
@@ -512,14 +516,9 @@ Reichenbach:
 >   unless a theory of probability is developed that explains what we should
 >   mean by "probable" and on what ground we can assert probabilities. [^Reichenbach1951p93]
 
--   Hempel: Raven paradox
--   Earnshaw, E. (2017). [How I solved Hume's problem and why nobody will believe me](https://philosophynow.org/issues/119/How_I_Solved_Humes_Problem_and_Why_Nobody_Will_Believe_Me). *Philosophy Now*.
--   Schurz, G. (2019). *Hume's Problem Solved: The opptimality of meta-induction*. [^Schurz2019]
-
 [^Hume2007p56]: First footnote in the essay "On Probability" in @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 56.
 [^Hume2007pXX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
 [^Reichenbach1951p93]: @Reichenbach_1951_The_rise_of_scientific_philosophy\, p. 93-4.
-[^Schurz2019]: @Schurz_2019_Humes_Problem_Solved_The_opptimality_of_meta_\.
 [^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
@@ -696,6 +695,14 @@ Arthur Conan Doyle:
     @Salmon_1991_Hans_Reichenbachs_vindication_of_induction\.
     TODO: Break up and go through these references.
 [^Weisberg2019appD]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, Appendix D\.
+
+
+### Meta-induction as a solution to the problem of induction
+
+-   Earnshaw, E. (2017). [How I solved Hume's problem and why nobody will believe me](https://philosophynow.org/issues/119/How_I_Solved_Humes_Problem_and_Why_Nobody_Will_Believe_Me). *Philosophy Now*.
+-   Schurz, G. (2019). *Hume's Problem Solved: The opptimality of meta-induction*. [^Schurz2019]
+
+[^Schurz2019]: @Schurz_2019_Humes_Problem_Solved_The_opptimality_of_meta_\.
 
 
 Is there a universal scientific method?

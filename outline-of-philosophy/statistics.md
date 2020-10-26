@@ -1043,6 +1043,26 @@ Blogs:
 -   Shen, K. (2018). [Effect of batch size on training dynamics](https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e).
 -   Chang, D. (2020). [Effect of batch size on neural net training](https://medium.com/deep-learning-experiments/effect-of-batch-size-on-neural-net-training-c5ae8516e57).
 
+
+### Regularization
+
+Regularization = any change we make to the training algorithm in order to reduce the generalization error but not the training error. [^Mishra2020]
+
+Most common regularizations:
+
+-   L2 Regularization
+-   L1 Regularization
+-   Data Augmentation
+-   Dropout
+-   Early Stopping
+
+Papers:
+
+-   Loshchilov, I. & Hutter, F. (2019). [Decoupled weight decay regularization](https://arxiv.org/abs/1711.05101).
+
+[^Mishra2020]: Mishra, D. (2020). [Weight Decay == L2 Regularization?](https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd)
+
+
 ### Computer vision
 
 Computer Vision (CV)
@@ -1100,6 +1120,7 @@ Theoretical machine learning
 -   Hamilton, L.D. (2014). "[The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms)".
 -   Wolpert, D. (2018). [Why do computers use so much energy?](https://blogs.scientificamerican.com/observations/why-do-computers-use-so-much-energy/)
 -   [Sante Fe Institute: Thermodynamics of Computation](https://centre.santafe.edu/thermocomp/Santa_Fe_Institute_Collaboration_Platform:Thermodynamics_of_Computation_Wiki)
+-   Gerhard Schurz
 
 
 ###  Graphical tensor notation
