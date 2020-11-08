@@ -596,6 +596,7 @@ Beyond the standard model
 -   Supersymmetry
 -   Minimal Supersymmetric Standard Model (MSSM)
 -   Strong $CP$ problem
+-   Axions
 -   Quantum gravity
 
 ![Two-loop renormalization group evolution of the inverse gauge couplings, $\alpha^{-1}$,
@@ -619,24 +620,33 @@ Gravity and cosmology
 
 ### General relativity
 
+-   *Gravitation*
 -   *Spacetime and Geometry* [^Carroll2004]
 
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
 
 
-### Cosmology
+### Big bang model
 
--   Big bang
-    -   Alexander Friedmann solves the Einstein field equations for an expanding universe in 1922.
-    -   Edwin Hubble discovered that our galaxy is one of many in 1923.
-    -   Georges Lema&icirc;tre independently solved the Einstein field equations in 1927.
-    -   Edwin Hubble observationally confirmed the expansion of the universe in 1929.
-    -   Arno Penzias and Robert Wilson discovered the cosmic background radiation (CMB) in 1964.
--   Inflation
-    -   Proposed by Alan Guth in 1979.
--   Dark matter
+-   Alexander Friedmann solves the Einstein field equations for an expanding universe in 1922.
+-   Edwin Hubble discovered that our galaxy is one of many in 1923.
+-   Georges Lema&icirc;tre independently solved the Einstein field equations in 1927.
+-   Edwin Hubble observationally confirmed the expansion of the universe in 1929.
+-   Arno Penzias and Robert Wilson discovered the cosmic background radiation (CMB) in 1964.
+
+
+### Dark matter
+
 -   [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster)
 -   "A direct empirical proof of the existence of dark matter" [astro-ph/0608407](http://arxiv.org/abs/astro-ph/0608407)
+
+
+### Inflation
+
+-   Proposed by Alan Guth in 1979.
+-   Dark energy
+    -   Vaccuum energy
+    -   Inflaton field and slow-roll inflation
 -   $\Lambda$+CMD Cosmological Standard Model
 
 
@@ -649,19 +659,13 @@ Fine-tuning
 -   [Richard Dawkins and Steven Weinberg discuss science and religion](https://www.youtube.com/watch?v=EGL8SesIo6Y)
 
 
-Complexity
+Complexity and emergence
 --------------------------------------------------------------------------------
 
 -   nonlinear systems
--   chaos
+    -   chaos
 -   [Universality](https://en.wikipedia.org/wiki/Universality_(dynamical_systems))
-
-
-Emergence
---------------------------------------------------------------------------------
-
-Thermodynamics, statistical mechanics, renormalization.
-
+-   Thermodynamics, statistical mechanics, renormalization.
 -   Anderson, P.W. (1972). More is different. [^Anderson-1972]
 -   Lisi, A.G. (2017). [Emergence](https://www.edge.org/response-detail/27149). [^Lisi-2017]
 -   Bain
