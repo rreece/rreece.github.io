@@ -565,14 +565,20 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 Systematic uncertainties
 --------------------------------------------------------------------------------
 
+### Sinervo classification
+
 -   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekka Sinervo (PhyStat2003) [^Sinervo2013]
 -   Not to be confused with type-1 and type-2 errors in Neyman-Pearson theory
--   Profiling and the profile likelihood
-    -   Importance of Wald and Cowan _et al_.
 
 ![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties), 2016).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
 
 [^Sinervo2013]: @Sinervo_2003_Definition_and_treatment_of_systematic\.
+
+
+### Profile likelihoods
+
+-   Profiling and the profile likelihood
+    -   Importance of Wald and Cowan _et al_.
 
 
 ### Examples of poor estimates of systematic uncertanties
@@ -585,6 +591,35 @@ Systematic uncertainties
 ![Demonstration of sensitivity to the jet energy scale for an alleged excess in $Wjj$ by [Tommaso Dorigo (2011)](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886).](img/AnimatedDijet.gif){#fig:AnimatedDijet}
 
 -   Faster-than-light neutrinos.
+-   BICEP2 claimed evidence of B-modes in the CMB as evidence of cosmic inflation without accounting for cosmic dust.
+
+
+Exploratory data analysis
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+    -   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
+    -   *Exploratory Data Analysis* (1977) [^Tukey1977]
+
+[^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
+
+
+### Look-elsewhere effect
+
+-   Look-elsewhere effect (LEE)
+    -   AKA File-drawer effect
+-   Stopping rules
+    -   validation dataset
+    -   statistical issues, violates the likelihood principle
+
+
+### Archiving and data science
+
+-   "Data science"
+    -   Data collection, quality, analysis, archival, and reinterpretation
+    -   RECAST
 
 
 Likelihood principle
@@ -754,32 +789,6 @@ Replication crisis
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
 [^Mayo2020]: @Mayo_2020_Significance_tests_Vitiated_or_vindicated_by\.
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
-
-
-Data science
---------------------------------------------------------------------------------
-
--   Data science
-    -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
-    -   Tukey [^Tukey1962]
-    -   Data collection, quality, analysis, archival, and reinterpretation
--   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
-    -   *Exploratory Data Analysis* (1977) [^Tukey1977]
--   Look-Elsewhere Effect (LEE)
-    -   AKA File-drawer effect
-    -   TODO: find ref
--   Noisy data
-    -   real world, mis-labeled, and missing data
--   Metadata
-    -   conditions data
--   Stopping rules
-    -   validation dataset
-    -   statistical issues, violates the likelihood principle
--   Archival and reinterpretation
-    -   RECAST, TODO: find ref
-
-[^Tukey1962]: @Tukey_1962_The_future_of_data_analysis\.
-[^Tukey1977]: @Tukey_1977_Exploratory_Data_Analysis\.
 
 
 Classical machine learning
@@ -1148,24 +1157,37 @@ Theoretical machine learning
 Information geometry
 --------------------------------------------------------------------------------
 
+### Introduction
+
 -   "A gentle introduction to information geometry" [^Smith2019]
 -   "An elementary introduction to information geometry" [^Nielsen2018]
 -   *Information Geometry and Its Applications* [^Amari2016]
+
+[^Amari2016]: @Amari_2016_Information_Geometry_and_Its_Applications\.
+[^Nielsen2018]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.
+[^Smith2019]: @Smith_2019_A_gentle_introduction_to_information_geometry\.
+
+
+### Geometric understanding of classical statistics
+
 -   "A geometric formulation of Occam's razor for inference of parametric distributions" [^Balasubramanian1996a]
 -   "Statistical inference, Occam's Razor and statistical mechanics on the space of probability distributions" [^Balasubramanian1996b]
 -   *Geometric Modeling in Probability and Statistics* [^Calin2014]
 -   Cranmer
--   "Geometric understanding of deep learning" [^Lei2018]
--   Cohen [^Cohen2016]
 
-[^Amari2016]: @Amari_2016_Information_Geometry_and_Its_Applications\.
 [^Balasubramanian1996a]: @Balasubramanian_1996_A_geometric_formulation_of_Occams_razor\.
 [^Balasubramanian1996b]: @Balasubramanian_1996_Statistical_inference_Occams_razor\.
 [^Calin2014]: @Calin_2014_Geometric_Modeling_in_Probability_and_Statistics\.
+
+
+### Geometric understanding of deep learning
+
+-   "Geometric understanding of deep learning" [^Lei2018]
+-   Cohen [^Cohen2016]
+-   Gao, Y. & Chaudhari, P. (2020). [An information-geometric distance on the space of tasks](https://arxiv.org/abs/2011.00613).
+
 [^Cohen2016]: @Cohen_2016_Group_equivariant_convolutional_networks\.
 [^Lei2018]: @Lei_2018_Geometric_understanding_of_deep_learning
-[^Nielsen2018]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.
-[^Smith2019]: @Smith_2019_A_gentle_introduction_to_information_geometry\.
 
 
 Automation
