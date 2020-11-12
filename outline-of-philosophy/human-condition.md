@@ -1385,15 +1385,6 @@ TODO:
 -   See also: [Mortality](human-condition.html#mortality).
 
 
-### Compassion
-
--   Forgiveness
--   Kristin Neff - [Self-compassion](https://self-compassion.org/the-three-elements-of-self-compassion-2/).
--   Serena Chen. (2018). [Give Yourself a Break: The Power of Self-Compassion](https://hbr.org/2018/09/give-yourself-a-break-the-power-of-self-compassion).
--   Growth mindset
--   Compassion in Buddhism
-
-
 Atheism
 --------------------------------------------------------------------------------
 

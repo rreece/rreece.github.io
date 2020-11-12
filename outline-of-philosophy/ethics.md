@@ -193,11 +193,17 @@ Regret
 -   Malesic, J. (2020). [Je regrette tout: Does moral growth demand regret?](https://hedgehogreview.com/issues/monsters/articles/je-regrette-tout)
 
 
-Forgiveness
+Compassion
 --------------------------------------------------------------------------------
 
+-   Forgiveness
 -   Everett L. Worthington Jr.
 -   Wade, N. (2020). [Forgive and be free](https://aeon.co/essays/forgiveness-therapy-can-free-you-from-the-hurts-of-the-past).
+-   Kristin Neff - [Self-compassion](https://self-compassion.org/the-three-elements-of-self-compassion-2/).
+-   Serena Chen. (2018). [Give Yourself a Break: The Power of Self-Compassion](https://hbr.org/2018/09/give-yourself-a-break-the-power-of-self-compassion).
+-   Growth mindset
+-   Compassion in Buddhism
+-   Compassion in Schopenhauer's *On the Basis of Morality*
 
 
 My thoughts
