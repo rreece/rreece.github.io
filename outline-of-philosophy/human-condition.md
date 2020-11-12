@@ -771,6 +771,10 @@ Other religions
 
 ### Western
 
+#### Egyptian
+
+-   TODO
+
 #### Greco-Roman
 
 -   [Orphism](https://en.wikipedia.org/wiki/Orphism_(religion)) began 6th century BCE
@@ -849,7 +853,7 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 
 -   [Aztec philosophy](https://en.wikipedia.org/wiki/Aztec_philosophy)
 -   [Aztec religion](https://en.wikipedia.org/wiki/Aztec_religion)
--   Tl&amacrloc - Aztec god of rain.
+-   Tl&amacr;loc - Aztec god of rain.
 -   [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) (1769-1859)
 
 
