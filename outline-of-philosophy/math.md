@@ -19,6 +19,13 @@ debate.
 Logic
 --------------------------------------------------------------------------------
 
+### Introduction
+
+TODO
+
+
+### History
+
 -   [Aristotle](http://en.wikipedia.org/wiki/Aristotle) (384-322 BCE)
     -   founded logic
     -   [Square of opposition](https://en.wikipedia.org/wiki/Square_of_opposition)
@@ -33,22 +40,51 @@ Logic
     -   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
     -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
     -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
--   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
-    -   quantification
-    -   domain of discourse
-    -   consistency, validity, completeness, soundness, expressivity
--   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
-    -   extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
--   Gillian Russell [^Russell2015]
+
+### Propositional logic
+
+-   AKA propositional calculus and zeroth-order logic
 -   TODO: basic examples in propositional logic
+
+
+### First-order logic
+
+-   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
+-   AKA predicate logic
+-   quantification
+-   domain of discourse
+-   consistency, validity, completeness, soundness, expressivity
+
+### Second-order logic
+
+-   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
+-   extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
 -   Michael Dummett
--   Graham Priest
+-   Gillian Russell [^Russell2015]
+-   Higher-order logics, type theory
+-   See also: [Model theory](#model-theory)
 
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
 
 
+### Alternative logics
+
+-   Liar paradox
+-   Paraconsistent logic
+-   Law of No Contradiction (LNC)
+-   Dialetheism
+-   Graham Priest
+
+
 Algebra
 --------------------------------------------------------------------------------
+
+### Introduction
+
+TODO
+
+
+### History
 
 -   roots from Babylonians
 -   Kronecker, Leopold (1823-1891)
@@ -71,6 +107,13 @@ Algebra
 
 Analysis
 --------------------------------------------------------------------------------
+
+### Introduction
+
+TODO
+
+
+### History
 
 -   Geometry and Descartes
 -   Newton, Isaac (1642-1726/7)
@@ -119,6 +162,8 @@ Analysis
 
 Model theory
 --------------------------------------------------------------------------------
+
+### Introduction
 
 -   Wikipedia: [Model theory](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Model_theory)
     -   model theory = universal algebra + logic
@@ -549,6 +594,7 @@ Click to show links
 -   [Nominalism in the philosophy of mathematics](http://plato.stanford.edu/entries/nominalism-mathematics/)
 -   [Non-deductive methods in mathematics](http://plato.stanford.edu/entries/mathematics-nondeductive/)
 -   [Ockham, William of (1287-1347)](https://plato.stanford.edu/entries/ockham/)
+-   [Paraconsistent logic](https://plato.stanford.edu/entries/logic-paraconsistent/)
 -   [Plato's *Parmenides*](https://plato.stanford.edu/entries/plato-parmenides/)
 -   [Platonism in the philosophy of mathematics](http://plato.stanford.edu/entries/platonism-mathematics/)
 -   [Platonism in metaphysics](http://plato.stanford.edu/entries/platonism/)

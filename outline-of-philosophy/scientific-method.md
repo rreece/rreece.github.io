@@ -190,10 +190,10 @@ Weinberg:
 ### Early Modern Period
 
 -   [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
--   [da Vinci, Leonardo](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) (1452-1519)
--   [Copernicus, Nicolaus](http://en.wikipedia.org/wiki/Copernicus) (1473-1543)
+-   [Leonhard da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) (1452-1519)
+-   [Nicolaus Copernicus](http://en.wikipedia.org/wiki/Copernicus) (1473-1543)
 -   [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) (1546-1601)
--   [Bacon, Francis](http://en.wikipedia.org/wiki/Francis_Bacon) (1561-1626)
+-   [Francis Bacon](http://en.wikipedia.org/wiki/Francis_Bacon) (1561-1626)
     -   [Dyson quoting Francis Bacon](https://www.edge.org/conversation/freeman_dyson-progress-in-religion)
     -   [Oxford Essential Quotations: Francis Bacon](https://www.oxfordreference.com/view/10.1093/acref/9780191843730.001.0001/q-oro-ed5-00000644)
     -   "God forbid that we should give out a dream of our own imagination for a pattern of the world."
@@ -204,9 +204,9 @@ Weinberg:
         -   *Essays* (1625) "Of Studies"
 -   [Galileo Galilei](http://en.wikipedia.org/wiki/Galileo_Galilei) (1564-1642)
 -   [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) (1571-1630)
--   [Hobbes, Thomas](http://en.wikipedia.org/wiki/Thomas_Hobbes) (1588-1679)
--   [Gassendi, Pierre](http://en.wikipedia.org/wiki/Pierre_Gassendi) (1592-1655)
--   [Descartes, Ren&eacute;](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) (1596-1650)
+-   [Thomas Hobbes](http://en.wikipedia.org/wiki/Thomas_Hobbes) (1588-1679)
+-   [Pierre Gassendi](http://en.wikipedia.org/wiki/Pierre_Gassendi) (1592-1655)
+-   [Ren&eacute; Descartes](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) (1596-1650)
     -   No teleology. Matter plenum, vorticies.
     -   *Meditations on First Philosophy* (1641) [^Descartes2008]
 

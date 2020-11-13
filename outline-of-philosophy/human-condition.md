@@ -1556,8 +1556,9 @@ Artworks:
 Nihilism
 --------------------------------------------------------------------------------
 
--   Nietzsche
 -   [Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade) (1740-1814)
+-   [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
+-   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
 -   Brassier [^Brassier2007]
 -   Dahl, R. (2017). [Optimistic nihilism](https://tinyclouds.org/optimistic_nihilism/).
 

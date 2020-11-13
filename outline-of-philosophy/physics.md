@@ -137,16 +137,28 @@ TODO:
 Symmetry-first physics
 --------------------------------------------------------------------------------
 
+### Curie's principle
+
+-   "The symmetries of the causes are to be found in the effects."
+-   Counting degrees of freedom
+
+
+### Noether's theorem
+
 -   Principle of least action
 -   Canonical dynamics
--   Curie's principle
--   Noether's theorem
 -   group theory [^tHooft2007]
 -   *Physics from Symmetry* [^Schwichtenberg2015]
--   Wigner-stone theorems as cornerstones of QM (Ovrut)
 
 [^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^tHooft2007]: @tHooft_2007_Lie_Groups_in_Physics\.
+
+
+### Wigner-Stone theorems
+
+-   Wigner-Stone theorems as cornerstones of QM (Ovrut)
+-   Wigner's classification
+-   See also: [Quantum field theory](#quantum-field-theory)
 
 
 Quantum mechanics
@@ -236,6 +248,7 @@ Quantum field theory
 -   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification)
 -   CPT theorem
 -   Feynman's Nobel Lecture on QED [^Feynman1965]
+-   Wolchover, N. (2020). [What is a particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 
 Pedagogy:
 
