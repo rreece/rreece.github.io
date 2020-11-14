@@ -1465,6 +1465,7 @@ Click to show links
 -   Aldrich, John. (?). [Earliest uses of symbols of calculus](http://jeff560.tripod.com/calculus.html).
 -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
 -   Stearns, P. (2020). [Epistemology: A priori vs. a posteriori, analytic vs. synthetic, necessary vs. contingent](https://lucidphilosophy.com/1019-2/).
+-   Suber, P. (2003). [Guide to Philosophy on the Internet](http://legacy.earlham.edu/~peters/philinks.htm).
 
 </div>
 

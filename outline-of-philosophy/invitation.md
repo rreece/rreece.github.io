@@ -139,6 +139,10 @@ On the other hand, in reviewing various arguments in the philosophy of science,
 we will see that it is far from trivial to say what knowledge and science are
 and what they are not. We are interested in good arguments, not dogmas.
 
+Philosophy, at its Socratic best, is as much about listening as it is
+about forming arguments. These outlines will be as much about collecting
+criticisms of positions as they will be about any position itself.
+
 >   Socrates: What if the person who has opinion but not knowledge is angry with
 >   us and disputes the truth of what we are saying? Is there some way to
 >   console him and persuade him gently, while hiding from him that he isn't

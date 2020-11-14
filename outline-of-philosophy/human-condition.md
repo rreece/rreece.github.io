@@ -432,7 +432,7 @@ Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%
 -   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (bodhi/bodhi)
 -   [nirvana/nibb&amacr;na](https://en.wikipedia.org/wiki/Nirvana) - liberation (literally "blown out") from sams&amacr;ra, equivalent to moksha
 -   [arhat/arahant](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (bodhi or nirvana/nibb&amacr;na)
-    -   In the Mahayana tradition, an arhat is far along the path of enlightenment (nirvana)
+    -   In the Mah&amacr;y&amacr;na tradition, an arhat is far along the path of enlightenment (nirvana)
         but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 
@@ -493,7 +493,7 @@ Other stuff:
 -   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
 -   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
 -   [Maitreya](https://en.wikipedia.org/wiki/Maitreya) AKA Ajita - regarded as a prophesied future Buddha 
--   [Kusala Ratana Karuna: Dhamma talk on the differences between Theravada and Mahayana](https://www.youtube.com/watch?v=vvjjqQnRmKk)
+-   [Kusala Ratana Karuna: Dhamma talk on the differences between Therav&amacr;da and Mah&amacr;y&amacr;na](https://www.youtube.com/watch?v=vvjjqQnRmKk)
 -   Payne, R.K. (2002). [Buddhism and Cognitive Science](http://www.shin-ibs.edu/documents/pwj3-4/01PN4.pdf).
 -   Harris [^Harris2014]
 -   Wright [^Wright2017]
@@ -514,6 +514,7 @@ Other stuff:
 -   Therav&amacr;da Buddhism is the oldest existing branch of Buddhism, deriving from schools in Sri Lanka where much of the Pali Cannon was written.
 -   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline,
     with particular focus on being rational.
+-   Therav&amacr;da rejects the authenticity of the Mah&amacr;y&amacr;na sutras and do not see them as reliable sources.
 -   The primary goal for a Therav&amacr;dan Buddhist is to become an arhat/arahant,
     one who has achieved enlightenment (bodhi or nirvana/nibb&amacr;na).
 -   Very roughly, today Therav&amacr;da Buddhism is dominately found in south-east Asia:
@@ -580,7 +581,7 @@ Online Suttas:
 
 -   [Access to Insight: Readings in Therav&amacr;da Buddhism](https://www.accesstoinsight.org/)
 -   [SuttaCentral.net](https://suttacentral.net/)
--   [Selected Theravada Suttas](http://www.ibmc-la.org/buddhist-teachings.html) at IMBC, Los Angeles
+-   [Selected Therav&amacr;da Suttas](http://www.ibmc-la.org/buddhist-teachings.html) at IMBC, Los Angeles
 
 #### Secondary texts
 
@@ -609,7 +610,7 @@ Online Suttas:
 -   Mah&amacr;y&amacr;na, in a somewhat pejorative way, sometimes refer to Therav&amacr;da
     as [Hinay&amacr;na](https://en.wikipedia.org/wiki/Hinayana), "small/deficient vehicle".
 
-![Nagarjuna (source: [www.tsemrinpoche.com](https://www.tsemrinpoche.com/tsem-tulku-rinpoche/downloads/buddha-images.html?keyfilter=nagarjuna&submit=Filter)).](img/nagarjuna-detail.jpg)
+![N&amacr;g&amacr;rjuna (source: [www.tsemrinpoche.com](https://www.tsemrinpoche.com/tsem-tulku-rinpoche/downloads/buddha-images.html?keyfilter=nagarjuna&submit=Filter)).](img/nagarjuna-detail.jpg)
 
 #### History
 
@@ -670,7 +671,7 @@ Online Suttas:
 -   [Madhyamaka](https://en.wikipedia.org/wiki/Madhyamaka) - "Middle Way"
     -   AKA &Sacute;&umacr;nyav&amacr;da - "the emptiness doctrine"
     -   Founded in N&amacr;g&amacr;rjuna's work
-        [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - "Fundamental Verses on the Middle Way"
+        [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) - *Fundamental Verses on the Middle Way*
 -   Six [P&amacr;ramit&amacr;s](https://en.wikipedia.org/wiki/Paramita) - "Six Perfections"
     1.  D&amacr;na p&amacr;ramit&amacr;: generosity, the attitude of giving
     2.  S&imacr;la p&amacr;ramit&amacr;: virtue, morality, discipline, proper conduct
@@ -690,7 +691,7 @@ Online Suttas:
 
 #### Primary texts
 
--   Mahayana builds on the Theravada texts, adding the [Mahayana sutras](https://en.wikipedia.org/wiki/Mahayana_sutras).
+-   Mah&amacr;y&amacr;na builds on the Therav&amacr;da texts, adding the [Mah&amacr;y&amacr;na sutras](https://en.wikipedia.org/wiki/Mahayana_sutras).
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) - "The Perfection of Wisdom"
     -   radical non-dualism
     -   Six P&amacr;ramit&amacr;s - "Six Perfections"
@@ -701,8 +702,8 @@ Online Suttas:
 -   [Mahaparinirvana Sutra](https://en.wikipedia.org/wiki/Mahayana_Mahaparinirvana_Sutra) AKA "Nirvana Sutra"
     -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
 -   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) (MMK)
-    -   *Fundamental Verses on the Middle Way* [^Nagarjuna1995]
-    -   Nagarjuna cites and follows themes in [Kacc&amacr;nagotta Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) - "On Right View" (SN 12.15).
+    -   *Fundamental Verses on the Middle Way* by N&amacr;g&amacr;rjuna [^Nagarjuna1995]
+    -   N&amacr;g&amacr;rjuna cites and follows themes in [Kacc&amacr;nagotta Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) - "On Right View" (SN 12.15).
 -   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) AKA "Lotus Sutra"
     -   "Sutra on the White Lotus of the Sublime Dharma"
     -   All three vehicles (yan&amacr;s) are really part of one vehicle to becoming buddhas:
@@ -720,7 +721,7 @@ Online Suttas:
 
 #### Secondary texts
 
--   Williams, P. (2009). *Mahayana Buddhism: The doctrinal foundations*. [^Williams2009]
+-   Williams, P. (2009). *Mah&amacr;y&amacr;na Buddhism: The doctrinal foundations*. [^Williams2009]
 -   [Fundamentals of Jodo Shinshu Buddhism Workbook](https://sites.google.com/view/jodo-shinshu-fundamentals/home) by [Mountain View Buddhist Temple](https://www.mvbuddhisttemple.org/)
 -   [UrbanDharma.org](http://www.urbandharma.org/index6.html) & [kusala.org](http://www.kusala.org/) - resources on Buddhism by Kusala Ratana Karuna
 
@@ -749,6 +750,11 @@ Online Suttas:
     -   [Bardo Thodol](https://en.wikipedia.org/wiki/Bardo_Thodol)
     -   Dalai Lama. (1988). [The Real Enemy](https://buddhismnow.com/2019/11/10/the-real-enemy-by-dalai-lama/).
     -   [Richard Davidson](https://en.wikipedia.org/wiki/Richard_Davidson) (b. 1951)
+    -   [Jay L. Garfield](https://jaygarfield.org/in-press/) (b. 1955)
+        -   Translator of N&amacr;g&amacr;rjuna's *Fundamental Verses on the Middle Way* [^Nagarjuna1995Garfield]
+        -   Garfield, J.L. & Van Norden, B.W. (2016). [If philosophy won't diversify, let's call it what it really is](https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html). *New York Times Opinion*.
+
+[^Nagarjuna1995Garfield]: @Nagarjuna_1995_The_Fundamental_Wisdom_of_the_Middle_Way\.
 
 
 ### Criticism
@@ -853,7 +859,7 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 
 -   [Aztec philosophy](https://en.wikipedia.org/wiki/Aztec_philosophy)
 -   [Aztec religion](https://en.wikipedia.org/wiki/Aztec_religion)
--   Tl&amacr;loc - Aztec god of rain.
+-   Tl&amacr;loc - Aztec god of rain
 -   [Alexander von Humboldt](https://en.wikipedia.org/wiki/Alexander_von_Humboldt) (1769-1859)
 
 
@@ -1220,6 +1226,8 @@ Comparitive studies
 
 -   Buddhism and Schopenhauer
     -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
+    -   Kerns, T. [Lecture notes on Schopenhauer and Buddhism](http://philosophycourse.info/lecsite/lec-schop-budd.html).
+    -   Young, J. [Arthur Schopenhauer: The first European Buddhist](https://www.the-tls.co.uk/articles/arthur-schopenhauer-footnotes-to-plato/)
 -   Buddhism and empiricism
     -   Hume: anitya and humeanism
     -   Two truths doctrine
@@ -1602,7 +1610,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Williams, P. (2009). *Mahayana Buddhism: The doctrinal foundations*.
+### Williams, P. (2009). *Mah&amacr;y&amacr;na Buddhism: The doctrinal foundations*.
 
 -   TODO.
 
@@ -1704,8 +1712,8 @@ Click to show links
 -   [Blind men and an elephant, The parable of the](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism)
     -   [Mah&amacr;y&amacr;na Buddhism](https://en.wikipedia.org/wiki/Mahayana)
-    -   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
-    -   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
+    -   [Therav&amacr;da Buddhism](https://en.wikipedia.org/wiki/Theravada)
+    -   [Vajray&amacr;na Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
 -   [Buddhism in the United States](https://en.wikipedia.org/wiki/Buddhism_in_the_United_States)
 -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
 -   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation)
@@ -1788,12 +1796,12 @@ Click to show links
 -   [Tantra](https://en.wikipedia.org/wiki/Tantra)
 -   [Taoism](https://en.wikipedia.org/wiki/Taoism)
 -   [Terror management theory](https://en.wikipedia.org/wiki/Terror_management_theory)
--   [Theravada Buddhism](https://en.wikipedia.org/wiki/Theravada)
+-   [Therav&amacr;da Buddhism](https://en.wikipedia.org/wiki/Theravada)
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
 -   [Tillich, Paul (1886-1965)](https://en.wikipedia.org/wiki/Paul_Tillich)
 -   [Timon of Phlius (c. 320-235 BCE)](https://en.wikipedia.org/wiki/Timon_of_Phlius)
 -   [Two truths doctrine](https://en.wikipedia.org/wiki/Two_truths_doctrine)
--   [Vajrayana Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
+-   [Vajray&amacr;na Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
 -   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu)
 -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
 -   [Xenophanes (c. 570-478 BCE)](https://en.wikipedia.org/wiki/Xenophanes)
