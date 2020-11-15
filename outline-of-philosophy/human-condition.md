@@ -504,9 +504,10 @@ Other stuff:
 [^Wright2017]: @Wright_2017_Why_Buddhism_is_True_The_Science_and_Philosophy\.
 
 
-![Map of the spread of Buddhism in Asia (source: [Talk by Graham Priest](https://www.youtube.com/watch?v=V-P3j3S2beA), 2018).](img/map-of-spread-of-buddhism.jpg){#fig:map-of-spread-of-buddhism}
+![Map of the spread of Buddhism in Asia, first begining ~ 5th century BCE, spreading to the south as Therav&amacr;da Buddhism,
+    and into China and Tibet as Mah&amacr;y&amacr;na Buddhism (source: [Talk by Graham Priest](https://www.youtube.com/watch?v=V-P3j3S2beA), 2018).](img/map-of-spread-of-buddhism.jpg){#fig:map-of-spread-of-buddhism}
 
-![Map of the main modern Buddhist sects. Kalmykia in western Russia was cropped out, sorry ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
+![Map of the main modern Buddhist sects today. Kalmykia in western Russia was cropped out, sorry ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
 
 
 ### Therav&amacr;da Buddhism

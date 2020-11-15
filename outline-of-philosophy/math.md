@@ -438,6 +438,7 @@ Intuitionism
 -   Leopold Kronecker's finitism was a forerunner of intuitionism in foundations of mathematics.
 -   Kronecker: "God made the integers, all else is the work of man".
 -   L.E.J. Brouwer (1881-1966)
+    -   L.E.J. Brouwer, L.E.J. (1908). Unreliability of the logical principles. Translation: [1511.01113](https://arxiv.org/abs/1511.01113)
 -   Constructive mathematics
 
 Hilbert: 
@@ -630,6 +631,7 @@ Click to show links
 
 -   [Analytic philosophy](http://www.iep.utm.edu/analytic/)
 -   [Applicability of mathematics](http://www.iep.utm.edu/math-app/)
+-   [Constructive mathematics](https://iep.utm.edu/con-math/)
 -   [Dummett, Michael (1925-2011)](https://iep.utm.edu/dummett/)
 -   [Fictionalism in the philosophy of mathematics](http://www.iep.utm.edu/mathfict/)
 -   [Frege, Gottlob (1848-1925)](http://www.iep.utm.edu/frege/)
