@@ -1574,6 +1574,20 @@ Nihilism
     -   *Nihil Unbound: Enlightenment and Extinction* [^Brassier2007]
 -   Dahl, R. (2017). [Optimistic nihilism](https://tinyclouds.org/optimistic_nihilism/).
 
+Carl Sagan discussing Nietzsche:
+
+>   In *The Genealogy of Morals*, Friedrich Nietzsche, as so many before and
+>   after, decries the 'unbroken progress in the self-belittling of man'
+>   brought about by the scientific revolution. Nietzsche mourns the loss of
+>   'man's belief in his dignity, his uniqueness, his irreplaceability in the
+>   scheme of existence'. For me, it is far better to grasp the Universe as it
+>   really is than to persist in delusion, however satisfying and reassuring.
+>   Which attitude is better geared for our long-term survival? Which gives us
+>   more leverage on our future? And if our naive self-confidence is a little
+>   undermined in the process, is that altogether such a loss? Is there not
+>   cause to welcome it as a maturing and character-building experience? [^Sagan1996p16]
+
+[^Sagan1996p16]: @Sagan_1997_The_Demon_Haunted_World_Science_as_a_Candle\, p. 16.
 [^Brassier2007]: @Brassier_2007_Nihil_Unbound_Enlightenment_and_Extinction\.
 
 

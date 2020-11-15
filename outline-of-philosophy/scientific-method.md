@@ -755,12 +755,12 @@ Sagan:
 >   disprove each of the alternatives. What survives, the hypothesis that resists
 >   disproof in this Darwinian selection among 'multiple working hypotheses', has a
 >   much better chance of being the right answer than if you had simply run with the
->   first idea that caught your fancy. [^Sagan1995pX]
+>   first idea that caught your fancy. [^Sagan1995p197]
 
 [^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
 [^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
 [^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
-[^Sagan1995pX]: TODO, p. TODO.
+[^Sagan1995p197]: @Sagan_1997_The_Demon_Haunted_World_Science_as_a_Candle\, p. 197.
 
 
 ### Yes: Models of science

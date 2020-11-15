@@ -169,7 +169,8 @@ examine what can be said of the "[scientific method](scientific-method.html)."
 
 [^Achenbach2015]: @Achenbach_2015_Why_do_many_reasonable_people_doubt_science\. 
 [^RepublicV476e]: Plato, *Republic V* 476e, @Cooper_1997_Plato_Complete_works\, p. 1103.
-[^Rose1996]: @Rose_1996_Carl_Sagan_discusses_Demon_Haunted_World\.
+[^Rose1996]: @Rose_1996_Carl_Sagan_discusses_Demon_Haunted_World and
+    @Sagan_1997_The_Demon_Haunted_World_Science_as_a_Candle\.
 [^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 
 
