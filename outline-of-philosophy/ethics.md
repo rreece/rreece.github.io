@@ -435,6 +435,7 @@ Click to show links
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
 -   [Existential nihilism](http://en.wikipedia.org/wiki/Existential_nihilism)
 -   [Fact-value distinction](https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction)
+-   [Good reasons approach](https://en.wikipedia.org/wiki/Good_reasons_approach)
 -   [Is-ought problem](http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
 -   [Kingmaker scenario](https://en.wikipedia.org/wiki/Kingmaker_scenario)
 -   [Legal positivism](https://en.wikipedia.org/wiki/Legal_positivism)
