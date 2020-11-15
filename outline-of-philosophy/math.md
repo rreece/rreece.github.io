@@ -16,66 +16,6 @@ debate.
 <!-- PAGETOC -->
 
 
-Logic
---------------------------------------------------------------------------------
-
-### Introduction
-
-TODO
-
-
-### History
-
--   [Aristotle](http://en.wikipedia.org/wiki/Aristotle) (384-322 BCE)
-    -   founded logic
-    -   [Square of opposition](https://en.wikipedia.org/wiki/Square_of_opposition)
-    -   *Modus ponens*, *modus tollens*, Affirming the consequent, Proof by contrapositive
--   [Euclid](http://en.wikipedia.org/wiki/Euclid) (fl. 300 BCE)
-    -   logico-deductive method founded by Euclid's *Elements*
--   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
--   [Frege, Gottlob (1848-1925)](https://en.wikipedia.org/wiki/Gottlob_Frege)
-    -   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift)
--   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
-    -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
-    -   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
-    -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
-    -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
-
-### Propositional logic
-
--   AKA propositional calculus and zeroth-order logic
--   TODO: basic examples in propositional logic
-
-
-### First-order logic
-
--   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
--   AKA predicate logic
--   quantification
--   domain of discourse
--   consistency, validity, completeness, soundness, expressivity
-
-### Second-order logic
-
--   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
--   extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
--   Michael Dummett
--   Gillian Russell [^Russell2015]
--   Higher-order logics, type theory
--   See also: [Model theory](#model-theory)
-
-[^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
-
-
-### Alternative logics
-
--   Liar paradox
--   Paraconsistent logic
--   Law of No Contradiction (LNC)
--   Dialetheism
--   Graham Priest
-
-
 Algebra
 --------------------------------------------------------------------------------
 
@@ -158,6 +98,66 @@ TODO
 -   [Leibniz-Newton calculus controversy](https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy)
     -   Wikipedia: In 1849, C. I. Gerhardt, while going through Leibniz's manuscripts, found extracts from Newton's "De analysi per aequationes numero terminorum infinitas".
     -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
+
+
+Logic
+--------------------------------------------------------------------------------
+
+### Introduction
+
+TODO
+
+
+### History
+
+-   [Aristotle](http://en.wikipedia.org/wiki/Aristotle) (384-322 BCE)
+    -   founded logic
+    -   [Square of opposition](https://en.wikipedia.org/wiki/Square_of_opposition)
+    -   *Modus ponens*, *modus tollens*, Affirming the consequent, Proof by contrapositive
+-   [Euclid](http://en.wikipedia.org/wiki/Euclid) (fl. 300 BCE)
+    -   logico-deductive method founded by Euclid's *Elements*
+-   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
+-   [Frege, Gottlob (1848-1925)](https://en.wikipedia.org/wiki/Gottlob_Frege)
+    -   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift)
+-   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
+    -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
+    -   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+    -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+    -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
+
+### Propositional logic
+
+-   AKA propositional calculus and zeroth-order logic
+-   TODO: basic examples in propositional logic
+
+
+### First-order logic
+
+-   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
+-   AKA predicate logic
+-   quantification
+-   domain of discourse
+-   consistency, validity, completeness, soundness, expressivity
+
+### Second-order logic
+
+-   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
+-   extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
+-   Michael Dummett
+-   Gillian Russell [^Russell2015]
+-   Higher-order logics, type theory
+-   See also: [Model theory](#model-theory)
+
+[^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
+
+
+### Alternative logics
+
+-   Liar paradox
+-   Paraconsistent logic
+-   Law of No Contradiction (LNC)
+-   Dialetheism
+-   Graham Priest
 
 
 Model theory

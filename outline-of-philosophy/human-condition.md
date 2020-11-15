@@ -220,7 +220,7 @@ Abrahamism
 
 ![Detail of the ["religions tree"](https://000024.org/religions_tree/religions_tree_8.html),
     zoomed around some Protestant branches (also discussed [here](https://pierwiastekzla.wordpress.com/worldreligionstree/)).
-    ](img/religions-tree-wesley.png){#fig:religions-tree-wesley}
+    ](img/religions-tree-wesley.jpg){#fig:religions-tree-wesley}
 
 #### Criticism
 
@@ -503,6 +503,8 @@ Other stuff:
 [^Harris2014]: @Harris_2014_Waking_Up_A_Guide_to_Spirituality_Without\.
 [^Wright2017]: @Wright_2017_Why_Buddhism_is_True_The_Science_and_Philosophy\.
 
+
+![Map of the spread of Buddhism in Asia (source: [Talk by Graham Priest](https://www.youtube.com/watch?v=V-P3j3S2beA), 2018).](img/map-of-spread-of-buddhism.jpg){#fig:map-of-spread-of-buddhism}
 
 ![Map of the main modern Buddhist sects. Kalmykia in western Russia was cropped out, sorry ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
 
