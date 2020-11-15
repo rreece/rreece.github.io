@@ -9,8 +9,8 @@ What is this?
 
 Welcome to *ROP*!
 
-This site is my working draft of notes from thinking about philosophy.
-While the scope of this project is ambitiously large,
+This site is my working draft of notes from reading and thinking about
+philosophy. While the scope of this project is ambitiously large,
 clearly it cannot pretend to represent *all* of philosophy by any stretch.
 This is a meandering of one person through his own thoughts on philosophy,
 a meandering that is primarily western and focused on empiricism,
@@ -154,7 +154,7 @@ criticisms of positions as they will be about any position itself.
 >   First, we'll tell him that nobody begrudges him any knowledge he may have
 >   and that we'd be delighted to discover that he knows something. [^RepublicV476e]
 
-Who do I want to reach with this argument?
+Who do I want to reach with this project?
 
 -   Anyone interested in the engagement of science and philosophy.
 -   Skeptics of science and anti-naturalists of one form or another that see science

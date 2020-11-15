@@ -388,6 +388,7 @@ otherwise usually showing Sanskrit if only one translation is given.
 -   Buddhism is generally considered to be n&amacr;stika---a heterodox break from Hinduism.
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
+-   [Samvega](https://en.wikipedia.org/wiki/Sa%E1%B9%83vega) - sense of shock, dismay, and spiritual urgency to reach liberation and escape the suffering of samsara
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) (Madhyam&amacr;pratipada)
 -   [Sangha](https://en.wikipedia.org/wiki/Sangha) - (monastic) "community"; called _parisa_ if including lay followers.
 
@@ -761,7 +762,7 @@ Online Suttas:
 
 -   [Navay&amacr;na](https://en.wikipedia.org/wiki/Navayana) - "New Vehicle"
     -   [B.R. Ambedkar](https://en.wikipedia.org/wiki/B._R._Ambedkar) (1891-1956)
--   Horgan, J. (2003). [Buddhist Retreat Why I gave up on finding my religion](https://slate.com/culture/2003/02/why-i-ditched-buddhism.html).
+-   Horgan, J. (2003). [Buddhist Retreat: Why I gave up on finding my religion](https://slate.com/culture/2003/02/why-i-ditched-buddhism.html).
 
 Paul Williams:
 
@@ -1345,8 +1346,11 @@ Biology
 -   We have about 3 billion heartbeats: 80 years $\approx 2.5 \times 10^9$ seconds.
 -   [Arakenanusasani Sutta](https://www.accesstoinsight.org/tipitaka/an/an07/an07.070.than.html) - On the finiteness and shortness of life (AN 7.70)
     -   See also Bodhi. [^Bodhi2005p206]
--   Kagan [^Kagan2012]
--   Hitchens [^Hitchens2012]
+-   Shelly Kagan
+    -   [Talks: Lectures on Death](https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
+    -   *Death* [^Kagan2012]
+-   Christopher Hitchens
+    -   *Mortality* [^Hitchens2012]
 -   See also: [Terror management theory](human-condition.html#terror-management-theory).
 
 [^Bodhi2005p206]: @Bodhi_2005_In_the_Buddhas_Words_An_anthology_of_discourses\, p. 206--7.
@@ -1469,6 +1473,20 @@ Plato:
 
 ### Religion as a natural phenomena
 
+Xenophanes:
+
+>   But if cattle or lions had hands, so as to paint with their hands and
+>   produce works of art as men do, they would paint their gods and give
+>   them bodies in form like their own---horses like horses, cattle like cattle. [^XenophanesB15]
+
+>   Ethiopians make their gods black and snub-nosed;
+>   Thracians that theirs red-haired and with blue eyes;
+>   so also they conceive the spirits of the gods to be like themselves. [^XenophanesB16]
+
+[^Dennett2006]: @Dennett_2006_Breaking_the_Spell_Religion_as_a_natural\.
+[^XenophanesB15]: Xenophanes, *Fragment B15*, <https://iep.utm.edu/xenoph/>
+[^XenophanesB16]: Xenophanes, *Fragment B16*, <https://plato.stanford.edu/entries/xenophanes/>
+
 Anthropology:
 
 -   *Breaking the Spell: Religion as a natural phenomenon* [^Dennett2006]
@@ -1478,8 +1496,6 @@ Psychology:
 -   [Robert Sapolsky's lecture on the biological underpinnings of religiosity](https://www.youtube.com/watch?v=4WwAQqWUkpI)
 -   [Atheist and Stanford biologist Robert Sapolsky explains how religious beliefs reduce stress](http://www.openculture.com/2017/11/atheist-stanford-biologist-robert-sapolsky-explains-how-religious-beliefs-reduce-stress.html)
 -   [Jerusalem syndrome](https://en.wikipedia.org/wiki/Jerusalem_syndrome)
-
-[^Dennett2006]: @Dennett_2006_Breaking_the_Spell_Religion_as_a_natural\.
 
 
 ### Costs of metaphysical confusion
@@ -1493,19 +1509,6 @@ Psychology:
 -   Epicurus
 -   Lucretius
 -   Sam Harris
-
-Xenophanes:
-
->   But if cattle or lions had hands, so as to paint with their hands and
->   produce works of art as men do, they would paint their gods and give
->   them bodies in form like their own---horses like horses, cattle like cattle. [^XenophanesB15]
-
->   Ethiopians make their gods black and snub-nosed;
->   Thracians that theirs red-haired and with blue eyes;
->   so also they conceive the spirits of the gods to be like themselves. [^XenophanesB16]
-
-[^XenophanesB15]: Xenophanes, *Fragment B15*, <https://iep.utm.edu/xenoph/>
-[^XenophanesB16]: Xenophanes, *Fragment B16*, <https://plato.stanford.edu/entries/xenophanes/>
 
 
 Existentialism
@@ -1567,10 +1570,11 @@ Nihilism
 -   [Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade) (1740-1814)
 -   [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
--   Brassier [^Brassier2007]
+-   Ray Brassier (b. 1965)
+    -   *Nihil Unbound: Enlightenment and Extinction* [^Brassier2007]
 -   Dahl, R. (2017). [Optimistic nihilism](https://tinyclouds.org/optimistic_nihilism/).
 
-[^Brassier2007]: @Brassier_2007_Nihil_Unbound\.
+[^Brassier2007]: @Brassier_2007_Nihil_Unbound_Enlightenment_and_Extinction\.
 
 
 My thoughts
