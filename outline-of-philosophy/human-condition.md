@@ -194,11 +194,28 @@ Abrahamism
 
 #### Criticism
 
+McNutt:
+
 >   The Abraham story cannot be definitively related to any specific time,
 >   and it is widely agreed that the patriarchal age, along with the Exodus
 >   and the period of the Judges, is a late literary construct that does not
 >   relate to any period in actual history. [^McNutt1999]
 
+Sperling, S.D. [Were the Jews Slaves in Egypt?](https://reformjudaism.org/were-jews-slaves-egypt):
+
+>   In short, the biblical writers invented the idea that the Israelites lived
+>   in Egypt in order to impel them to maintain their distinctiveness in Canaan.
+>   And the story of servitude in Egypt is an allegory of servitude to Egypt.
+>   Our ancestors, among others, did perform forced labor for Egyptian
+>   taskmasters, but they were never slaves in Egypt.
+
+Moore & Kelle:
+
+>   The majority of current scholars believe that the historicity of the
+>   Egyptian sojourn, exodus, and wilderness wandering that the Bible
+>   remembers cannot be demonstrated by historical methods. [^Moore2011]
+
+[^Moore2011]: @Moore_2011_Biblical_History_and_Israels_Past_The_Changing\, p. 91.
 [^McNutt1999]: @McNutt_1999_Reconstructing_the_Society_of_Ancient_Israel\, p. 41--42.
 
 
@@ -265,7 +282,7 @@ Hinduism
         -   Orally transmitted since the 2nd millennium BCE.
     -   Samaveda, Yajurveda, Atharvaveda
     -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
-    -   Katz & Egenes translation of the Upanishads [^Katz2015]
+        -   Katz & Egenes translation [^Katz2015]
 -   [Mahabharata](https://en.wikipedia.org/wiki/Mahabharata) - sometimes called the "Fifth Veda"
 -   [Ramayana](https://en.wikipedia.org/wiki/Ramayana)
 -   [Bhagavad Gita](https://en.wikipedia.org/wiki/Bhagavad_Gita)
@@ -343,6 +360,7 @@ Buddhism
     -   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon
     -   [Kushinagar](https://en.wikipedia.org/wiki/Kushinagar) - place of the Buddha's death
 -   [Devadatta](https://en.wikipedia.org/wiki/Devadatta) - cousin and brother-in-law of Siddhartha Gautama Buddha
+    -   Tries to kill Shakyamuni Buddha mutiple times and take over the Sangha.
 -   [&Sacute;&amacr;rjputra](https://en.wikipedia.org/wiki/Sarjputra) and [Maudgaly&amacr;yana](https://en.wikipedia.org/wiki/Maudgalyayana) - first two and closest disciples of the Buddha
 -   [&Amacr;nanda](https://en.wikipedia.org/wiki/Ananda) - primary attendant of the Buddha
 -   [Ten Principal Disciples](https://en.wikipedia.org/wiki/Ten_Principal_Disciples)
@@ -390,9 +408,7 @@ otherwise usually showing Sanskrit if only one translation is given.
 #### Important initial concepts
 
 -   Buddhism is generally considered to be n&amacr;stika---a heterodox break from Hinduism.
--   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
-    -   Dependent origination (prat&imacr;tyasamut&amacr;da / prat&imacr;tyasamutp&amacr;da):
-        all phenomena (dharmas/dhammas) arise in dependence upon other phenomena.
+-   [Prat&imacr;tyasamut&amacr;da/prat&imacr;tyasamutp&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination: all phenomena (dharmas/dhammas) arise in dependence upon other phenomena.
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
 -   [Samvega](https://en.wikipedia.org/wiki/Sa%E1%B9%83vega) - sense of shock, dismay, and spiritual urgency to reach liberation and escape the suffering of samsara
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) (Madhyam&amacr;pratipada)
@@ -407,14 +423,11 @@ otherwise usually showing Sanskrit if only one translation is given.
 2.  [anitya/anicc&amacr;](https://en.wikipedia.org/wiki/Anicca) - impermanence
 3.  [an&amacr;tman/anatt&amacr;](https://en.wikipedia.org/wiki/Anatta) - non-self
 
-
-#### Emptiness and non-self
-
-Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)) and non-self ([an&amacr;tman](https://en.wikipedia.org/wiki/Anatman)):
+Emptiness ([&sacute;&umacr;nyat&amacr;/su&ntilde;&ntilde;at&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%ABnyat%C4%81)) and non-self ([an&amacr;tman/anatta](https://en.wikipedia.org/wiki/Anatman)):
 
 -   In Therav&amacr;da, focus non-self nature or [anatta](https://en.wikipedia.org/wiki/Anatta).
 -   In Mah&amacr;y&amacr;na, &sacute;&umacr;nyat&amacr; refers the emptiness
-    doctrine that all things are empty of intrinsic existence;
+    doctrine that all things are empty of intrinsic existence,
     refuting essentialism.
 
 
@@ -437,11 +450,11 @@ Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%
 likens the Four Noble Truths to a medical diagnosis of the human condition:
 
 1.  Illness: Life is full of suffering (duhkha).
-2.  Cause: Suffering is caused my attachment and aversion (trsn&amacr;).
+2.  Cause: Suffering is caused by attachment and aversion (trsn&amacr;).
 3.  Prognosis: Get rid of trsn&amacr; and you get rid of duhkha.
 4.  Treatment: Noble Eightfold Path
 
-[Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
+[Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path):
 
 1.  Right Understanding
 2.  Right Intention
@@ -451,6 +464,42 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 6.  Right Effort
 7.  Right Mindfulness
 8.  Right Unification
+
+
+#### Refuge in the Three Jewels
+
+1.  Buddha: the fully enlightened one
+2.  Dharma: the teachings expounded by the Buddha
+3.  Sangha: the monastic order of Buddhism that practice Dharmas
+
+-   Going for refuge - [Dhammapada, 188-192](https://www.accesstoinsight.org/lib/authors/thanissaro/refuge.html)
+-   Abhisanda Sutta: Eight Rewards including the Three Jewels and Five Precepts ([AN 8.39](https://www.accesstoinsight.org/tipitaka/an/an08/an08.039.than.html))
+
+
+#### Five Precepts
+
+[Five precepts](https://en.wikipedia.org/wiki/Five_precepts):
+
+1. Abstention from killing
+2. Abstention from theft
+3. Abstention from sexual misconduct
+4. Abstention from falsehood
+5. Abstention from intoxication
+
+-   Dhammapada, 246-7
+-   Bodhi. (1981). [*Going for Refuge & Taking the Precepts*](http://www.ibmc-la.org/uploads/1/5/1/0/15104808/goingforrefuge.pdf).
+-   Bodhi. (1998). [A Discipline of Sobriety](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_36.html).
+
+
+#### The three trainings
+
+1.  S&imacr;la - "discipline" or "moral conduct"
+2.  Samadhi - "meditation"
+3.  Praj&ntilde;a - "wisdom"
+
+Meditation:
+
+-   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
 
 
 #### Buddhist paths to liberation
@@ -465,38 +514,6 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 
 
-#### The three trainings
-
-1.  S&imacr;la - "discipline" or "moral conduct"
-2.  Samadhi - "meditation"
-3.  Praj&ntilde;a - "wisdom"
-
-Meditation:
-
--   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
-
-
-#### Refuge in the "Three Jewels"
-
-1.  Buddha: the fully enlightened one
-2.  Dharma: the teachings expounded by the Buddha
-3.  Sangha: the monastic order of Buddhism that practice Dharmas
-
-
-#### Five precepts
-
-[Five precepts](https://en.wikipedia.org/wiki/Five_precepts):
-
-1. Abstention from killing
-2. Abstention from theft
-3. Abstention from sexual misconduct
-4. Abstention from falsehood
-5. Abstention from intoxication
-
--   Bodhi. (1981). [*Going for Refuge & Taking the Precepts*](http://www.ibmc-la.org/uploads/1/5/1/0/15104808/goingforrefuge.pdf).
--   Bodhi. (1998). [A Discipline of Sobriety](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_36.html).
-
-
 #### Buddhist philosophy
 
 Epistemology and metaphysics:
@@ -507,11 +524,13 @@ Epistemology and metaphysics:
 -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
     -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
     -   Kalama Sutta ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html))
+    -   [Graham Priest: Lectures on Buddhism and Science](https://www.youtube.com/watch?v=V-P3j3S2beA&list=PLKuMaHOvHA4rag4t-jjdbeDdye5nb0rlF&ab_channel=PhilosophyattheUniversityofEdinburgh)
 
 Ethics:
 
 -   [Buddhist ethics](https://en.wikipedia.org/wiki/Buddhist_ethics)
 -   [Women in Buddhism](https://en.wikipedia.org/wiki/Women_in_Buddhism)
+-   [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) (nonviolence)
 
 Atheism:
 
@@ -549,8 +568,8 @@ Other stuff:
 
 -   [Therav&amacr;da](https://en.wikipedia.org/wiki/Theravada) is Pali for "The School of the Elders".
 -   Therav&amacr;da Buddhism is the oldest existing branch of Buddhism, deriving from schools in Sri Lanka where much of the Pali Cannon was written.
--   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative in matters of doctrine and monastic discipline,
-    with particular focus on being rational.
+-   In contrast to Mah&amacr;y&amacr;na and Vajray&amacr;na, Therav&amacr;da tends to be conservative
+    in matters of doctrine and monastic discipline, with particular focus on being rational.
 -   Therav&amacr;da rejects the authenticity of the Mah&amacr;y&amacr;na sutras and do not see them as reliable sources.
 -   The primary goal for a Therav&amacr;dan Buddhist is to become an arhat/arahant,
     one who has achieved enlightenment (bodhi or nirvana/nibb&amacr;na).
@@ -1727,7 +1746,7 @@ Click to show links
 -   [Stoicism](http://plato.stanford.edu/entries/stoicism/)
 -   [Suicide](http://plato.stanford.edu/entries/suicide/)
 -   [Two truths doctrine](https://plato.stanford.edu/entries/twotruths-india/)
--   [Vasubandhu](https://plato.stanford.edu/entries/vasubandhu/)
+-   [Vasubandhu](https://plato.stanford.edu/entries/vasubandhu/) (fl. 4th to 5th century CE)
 -   [Xenophanes (c. 570-478 BCE)](https://plato.stanford.edu/entries/xenophanes/)
 -   [Zeno of Elea](https://plato.stanford.edu/entries/zeno-elea/)
 
@@ -1749,7 +1768,7 @@ Click to show links
 -   [Sartre, Jean-Paul (1905-1980): Existentialism](https://www.iep.utm.edu/sartre-ex/)
 -   [Stoicism](http://www.iep.utm.edu/stoicism/)
 -   [Stoic ethics](http://www.iep.utm.edu/stoiceth/)
--   [Vasubandhu](https://www.iep.utm.edu/vasubandhu/)
+-   [Vasubandhu](https://www.iep.utm.edu/vasubandhu/) (fl. 4th to 5th century CE)
 -   [Xenophanes (c. 570-478 BCE)](https://iep.utm.edu/xenoph/)
 
 ### Wikipedia
@@ -1862,7 +1881,7 @@ Click to show links
 -   [Timon of Phlius (c. 320-235 BCE)](https://en.wikipedia.org/wiki/Timon_of_Phlius)
 -   [Two truths doctrine](https://en.wikipedia.org/wiki/Two_truths_doctrine)
 -   [Vajray&amacr;na Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
--   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu)
+-   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu) (fl. 4th to 5th century CE)
 -   [Vipassanan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81)
 -   [Xenophanes (c. 570-478 BCE)](https://en.wikipedia.org/wiki/Xenophanes)
 -   [Xenophon (c. 431-354 BCE)](https://en.wikipedia.org/wiki/Xenophon)
