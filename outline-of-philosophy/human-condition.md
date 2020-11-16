@@ -386,14 +386,18 @@ Buddhism
 _Note:_ Occasionally we will show the Sanskrit/Pali translations of words, in that order,
 otherwise usually showing Sanskrit if only one translation is given.
 
+
 #### Important initial concepts
 
 -   Buddhism is generally considered to be n&amacr;stika---a heterodox break from Hinduism.
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
+    -   Dependent origination (prat&imacr;tyasamut&amacr;da / prat&imacr;tyasamutp&amacr;da):
+        all phenomena (dharmas/dhammas) arise in dependence upon other phenomena.
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
 -   [Samvega](https://en.wikipedia.org/wiki/Sa%E1%B9%83vega) - sense of shock, dismay, and spiritual urgency to reach liberation and escape the suffering of samsara
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) (Madhyam&amacr;pratipada)
 -   [Sangha](https://en.wikipedia.org/wiki/Sangha) - (monastic) "community"; called _parisa_ if including lay followers.
+
 
 #### Three marks of existence
 
@@ -402,6 +406,7 @@ otherwise usually showing Sanskrit if only one translation is given.
 1.  [duhkha/dukkha](https://en.wikipedia.org/wiki/Duhkha) - suffering
 2.  [anitya/anicc&amacr;](https://en.wikipedia.org/wiki/Anicca) - impermanence
 3.  [an&amacr;tman/anatt&amacr;](https://en.wikipedia.org/wiki/Anatta) - non-self
+
 
 #### Emptiness and non-self
 
@@ -412,22 +417,41 @@ Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%
     doctrine that all things are empty of intrinsic existence;
     refuting essentialism.
 
+
 #### Four Noble Truths
 
 [Four Noble Truths](https://en.wikipedia.org/wiki/Four_Noble_Truths) (satya/sacc&amacr; = truth):
 
 1.  Suffering ([duhkha/dukkha](https://en.wikipedia.org/wiki/Duhkha)) is part of existence.
-2.  The origins or causes ([samudaya-satya/samudaya sacc&amacr;](https://encyclopediaofbuddhism.org/wiki/Samudaya)) of suffering are
-    craving ([trishna/tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
+2.  The origins or causes ([samudaya/samudaya](https://encyclopediaofbuddhism.org/wiki/Samudaya)) of suffering are
+    craving ([trsn&amacr;(trishna)/tanha](https://encyclopediaofbuddhism.org/wiki/Tanha)),
     ignorance/delusion ([avidy&amacr;/avijja](https://encyclopediaofbuddhism.org/wiki/Avidya)), 
     attachment ([r&amacr;ga/lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
     anger/aversion ([dvesha/dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
-    Dependent origination (prat&imacr;tyasamut&amacr;da / prat&imacr;tyasamutp&amacr;da):
-    all phenomena (dharmas/dhammas) arise in dependence upon other phenomena.
 3.  Cessation (nirodha/nirodha) of suffering is liberation (nirvana/nibb&amacr;na).
 4.  The path (m&amacr;rga/magga) to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
 
 -   [SN 56.11](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html)
+
+[Graham Priest](https://www.youtube.com/watch?v=DFzF9RlYEz4)
+likens the Four Noble Truths to a medical diagnosis of the human condition:
+
+1.  Illness: Life is full of suffering (duhkha).
+2.  Cause: Suffering is caused my attachment and aversion (trsn&amacr;).
+3.  Prognosis: Get rid of trsn&amacr; and you get rid of duhkha.
+4.  Treatment: Noble Eightfold Path
+
+[Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
+
+1.  Right Understanding
+2.  Right Intention
+3.  Right Speech
+4.  Right Action
+5.  Right Livelihood
+6.  Right Effort
+7.  Right Mindfulness
+8.  Right Unification
+
 
 #### Buddhist paths to liberation
 
@@ -440,7 +464,8 @@ Emptiness ([&sacute;&umacr;nyat&amacr;](https://en.wikipedia.org/wiki/%C5%9A%C5%
         but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 
-The three trainings:
+
+#### The three trainings
 
 1.  S&imacr;la - "discipline" or "moral conduct"
 2.  Samadhi - "meditation"
@@ -450,11 +475,15 @@ Meditation:
 
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism) - meditation
 
-Refuge in the "Three Jewels":
+
+#### Refuge in the "Three Jewels"
 
 1.  Buddha: the fully enlightened one
 2.  Dharma: the teachings expounded by the Buddha
 3.  Sangha: the monastic order of Buddhism that practice Dharmas
+
+
+#### Five precepts
 
 [Five precepts](https://en.wikipedia.org/wiki/Five_precepts):
 
@@ -542,15 +571,7 @@ Other stuff:
 
 #### Doctrines
 
--   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
-    1.  Right Understanding
-    2.  Right Intention
-    3.  Right Speech
-    4.  Right Action
-    5.  Right Livelihood
-    6.  Right Effort
-    7.  Right Mindfulness
-    8.  Right Unification
+-   Focus on the Noble Eightfold Path
 -   [Vipassan&amacr;](https://en.wikipedia.org/wiki/Vipassan%C4%81) - "special seeing" or "insight"
     -   [Vipassan&amacr; movement](https://en.wikipedia.org/wiki/Vipassana_movement)
     -   branch of modern Burmese Therav&amacr;da Buddhism with widespread popularity since the 1950s
