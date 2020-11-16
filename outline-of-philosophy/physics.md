@@ -423,7 +423,7 @@ Exotics in quantum field theory
 
 ### Higher gauge theory
 
--   [Fiber bundles in physics](https://ncatlab.org/nlab/show/fiber+bundles+in+physics)
+-   [Fiber bundles in physics](https://ncatlab.org/nlab/show/fiber+bundles+in+physics) - nLab
     -   Fiber bundles embody two central principles of modern physics:
         1.  the principle of locality
         2.  the gauge principle.
@@ -431,6 +431,7 @@ Exotics in quantum field theory
 -   Holonomy
 -   Maudlin on fiber bundles
 -   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
+-   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos) - nLab
 
 >   If we adopt the metaphysics of the fiber bundle to represent chromodynamics,
 >   then we must reject the notion that quark color is a universal, or that there are

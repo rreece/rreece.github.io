@@ -186,6 +186,7 @@ Model theory
 -   Language
 -   Carnap
 -   Traski
+-   [model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
 
 
 ### Incompleteness
@@ -228,6 +229,7 @@ Category theory
 -   Origins
 -   relation to set theory
 -   relation to Russell type theory
+-   [category theory](https://ncatlab.org/nlab/show/category+theory) - nLab
 -   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
 -   HoTT
 -   [post on the Cobordism Hypothesis](https://theoreticalatlas.wordpress.com/2013/04/22/seminar-on-cob-hyp/)
