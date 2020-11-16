@@ -623,7 +623,8 @@ Beyond the standard model
 
 ### Criticisms
 
--   *Farewell to Reality* [^Baggott2013]
+-   Baggot, J. (2013). *Farewell to Reality* [^Baggott2013]
+-   Sabine Hossenfelder
 
 [^Baggott2013]: @Baggott_2013_Farewell_to_Reality_How_modern_physics_has\.
 
