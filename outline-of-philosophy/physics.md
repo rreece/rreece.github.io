@@ -263,8 +263,8 @@ Pedagogy:
 [^Schwartz2014]: @Schwartz_2014_Quantum_Field_Theory_and_the_Standard_Model\.
 [^Tong2006]: @Tong_2006_Lectures_on_Quantum_Field_Theory\.
 [^Zee2013]: @Zee_2003_Quantum_Field_Theory_in_a_Nutshell\.
-[^Zeidler2007]: @Zeidler_2007_Quantum_field_theory_I_Basics_in_mathematics\.
-[^Zeidler2008]: @Zeidler_2008_Quantum_field_theory_II_Quantum_electrodynamics\.
+[^Zeidler2007]: @Zeidler_2007_Quantum_Field_Theory_I_Basics_in_mathematics\.
+[^Zeidler2008]: @Zeidler_2008_Quantum_Field_Theory_II_Quantum_electrodynamics\.
 [^Zeidler2011]: @Zeidler_2011_Quantum_Field_Theory_III_Gauge_theory_Vol3\.
 
 
