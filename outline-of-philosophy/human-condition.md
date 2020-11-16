@@ -1528,10 +1528,10 @@ Existentialism
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
     -   "God is dead"
     -   "the mouth of the first immoralist", *Ecce Homo*
-    -   "The Death of God and the Death of Morality" [^Leiter2019]
--   Modernism
+    -   Leiter, B. (2019). The death of God and the death of morality. [^Leiter2019]
+-   Modernism and alienation
 
-[^Leiter2019]: @Leiter_2019_The_Death_of_God_and_the_Death_of_Morality\.
+[^Leiter2019]: @Leiter_2019_The_death_of_God_and_the_death_of_morality\.
 
 
 ### Existentialists
@@ -1574,11 +1574,16 @@ Nihilism
 -   [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
     -   *On the Fourfold Root of the Principle of Sufficient Reason* (1813) [^SchopenhauerFFR]
     -   *The World as Will and Representation*, Vol. 1 (1818), Vol. 2 (1844) [^SchopenhauerWWR]
+    -   Pessimism
+    -   Buddhism
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
+    -   *Thus Spoke Zarathustra* (1883)
+    -   *Beyond Good and Evil* (1886)
+    -   *On the Genealogy of Morality* (1887)
+    -   *Ecce Homo* (1888; first published in 1908)
 -   Ray Brassier (b. 1965)
     -   *Nihil Unbound: Enlightenment and Extinction* [^Brassier2007]
 -   Dahl, R. (2017). [Optimistic nihilism](https://tinyclouds.org/optimistic_nihilism/).
--   [Dadaism](https://en.wikipedia.org/wiki/Dada)
 
 Carl Sagan discussing Nietzsche:
 
@@ -1592,6 +1597,10 @@ Carl Sagan discussing Nietzsche:
 >   more leverage on our future? And if our naive self-confidence is a little
 >   undermined in the process, is that altogether such a loss? Is there not
 >   cause to welcome it as a maturing and character-building experience? [^Sagan1996p16]
+
+Artworks:
+
+-   [Dadaism](https://en.wikipedia.org/wiki/Dada)
 
 [^Sagan1996p16]: @Sagan_1997_The_Demon_Haunted_World_Science_as_a_Candle\, p. 16.
 [^SchopenhauerFFR]: @Schopenhauer_2015_On_the_Fourfold_Root_of_the_Principle\.

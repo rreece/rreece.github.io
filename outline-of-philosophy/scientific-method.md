@@ -1027,30 +1027,36 @@ The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*. Russel
 
 ### Scientific knowledge
 
--   Ontological implications of science.
--   Scientific method, community, and body of knowledge.
+-   Scientific method, community, and body of knowledge
+-   Naturalism
+    -   Hume on the problem of induction and the uniformity of nature, again
+    -   Monism
+    -   Reductionism
+-   Ontological implications of science
+    -   Positivism
+    -   Realism
+-   Criticism: scientism
+    -   Are there other ways of knowing?
 
 See also:
 
 -   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
 -   See the [Outline on scientific realism](scientific-realism.html).
-
-
-Naturalism, monism, and reductionism
---------------------------------------------------------------------------------
-
--   Hume on the problem of induction and the uniformity of nature, again
--   Monism
--   Parmenides
--   Reductionism
 -   See the [Outline on naturalism](naturalism.html).
 
 
 Pseudoscience
 --------------------------------------------------------------------------------
 
--   The demarcation problem
--   Bad justification
+### The demarcation problem
+
+-   TODO
+-   Poor quality science vs pseudoscience
+
+
+### Bullshit
+
+-   TODO
 -   [James Ladyman on Pseudoscience and Bullshit](https://www.youtube.com/watch?v=32ZaTKa2IRg)
 
 
