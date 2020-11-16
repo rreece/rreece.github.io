@@ -105,7 +105,10 @@ Logic
 
 ### Introduction
 
-TODO
+-   TODO
+-   Teller, P. (1989). *A Modern Formal Logic Primer* [^Teller1989]
+
+[^Teller1989]: @Teller_1989_A_Modern_Formal_Logic_Primer\.
 
 
 ### History
@@ -139,16 +142,23 @@ TODO
 -   domain of discourse
 -   consistency, validity, completeness, soundness, expressivity
 
+
 ### Second-order logic
 
 -   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
 -   extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
 -   Michael Dummett
--   Gillian Russell [^Russell2015]
+-   Setwart Shapiro
+    -   *Foundations without Foundationalism: A Case for Second-Order Logic* (1991) [^Shapiro1991]
+-   Gillian Russell
+    -   "The justification of the basic laws of logic" [^Russell2015]
 -   Higher-order logics, type theory
+    -   Russell's theory of types
+    -   Alonzo Church's lambda calculus
 -   See also: [Model theory](#model-theory)
 
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
+[^Shapiro1991]: @Shapiro_1991_Foundations_without_Foundationalism_A_Case\.
 
 
 ### Alternative logics
@@ -363,6 +373,39 @@ Johwn Stuart Mill:
 [^Mill1877]: @Mill_1877_An_Examination_of_Sir_William_Hamiltons\.
 
 
+Formalism
+--------------------------------------------------------------------------------
+
+-   Hilbert
+
+Hilbert:
+
+>   Mathematics is a presuppositionless science. To found it I do not need God, 
+>   as does Kronecker, or the assumption of a special faculty of our understanding 
+>   attuned to the principle of mathematical induction, as does Poincar&eacute;, 
+>   or the primal intuition of Brouwer, or, finally, as do Russell and Whitehead, 
+>   axioms of infinity, reducibility, or completeness, which in fact are actual, 
+>   contentual assumptions that cannot be compensated for by consistency
+>   proofs. [^Hilbert1967p479]
+
+[^Hilbert1967p479]: @Hilbert_1967_The_foundations_of_mathematics\, p. 479.
+    Discussion by [Michael J. O'Donnell](http://people.cs.uchicago.edu/~odonnell/OData/Courses/22C:096/Lecture_notes/Hilbert_program.html):
+
+    >   Well, the tone sounds like hubris again, but this is actually a relatively modest claim, 
+    >   and largely substantiated by events. Mathematics may arguably be understood as the 
+    >   science of forms, which have an objective quality independent of individual beliefs.
+    >   What is missing here is the claim that a single formal system may embrace all of mathematics
+    >   at once, and that we may prove that it contains no error. Notice that Hilbert objects to the 
+    >   "actual, contentual assumptions" of Russell and Whitehead. 
+    >   But, recall that Hilbert claims to treat numerical equations contentually, and even seems 
+    >   to regard that as a virtue. It is not the mere contentual quality of Russell's and 
+    >   Whitehead's assumptions that Hilbert objects to, but the fact that each particular 
+    >   assumptions is not verifiable by a single computation or finite observation, and 
+    >   furthermore that there is not even a proof that they are consistent with basic
+    >   numerical equations. Of course, Hilbert's proposed system never gets its consistency proof either. 
+    >   Oh well.
+
+
 Logicism
 --------------------------------------------------------------------------------
 
@@ -395,33 +438,6 @@ Logicism
 -   Russell, Whitehead
 -   Russell's Paradox
 -   "Failure of PM"
-
-Hilbert:
-
->   Mathematics is a presuppositionless science. To found it I do not need God, 
->   as does Kronecker, or the assumption of a special faculty of our understanding 
->   attuned to the principle of mathematical induction, as does Poincar&eacute;, 
->   or the primal intuition of Brouwer, or, finally, as do Russell and Whitehead, 
->   axioms of infinity, reducibility, or completeness, which in fact are actual, 
->   contentual assumptions that cannot be compensated for by consistency
->   proofs. [^Hilbert1967p479]
-
-[^Hilbert1967p479]: @Hilbert_1967_The_foundations_of_mathematics\, p. 479.
-    Discussion by [Michael J. O'Donnell](http://people.cs.uchicago.edu/~odonnell/OData/Courses/22C:096/Lecture_notes/Hilbert_program.html):
-
-    >   Well, the tone sounds like hubris again, but this is actually a relatively modest claim, 
-    >   and largely substantiated by events. Mathematics may arguably be understood as the 
-    >   science of forms, which have an objective quality independent of individual beliefs.
-    >   What is missing here is the claim that a single formal system may embrace all of mathematics
-    >   at once, and that we may prove that it contains no error. Notice that Hilbert objects to the 
-    >   "actual, contentual assumptions" of Russell and Whitehead. 
-    >   But, recall that Hilbert claims to treat numerical equations contentually, and even seems 
-    >   to regard that as a virtue. It is not the mere contentual quality of Russell's and 
-    >   Whitehead's assumptions that Hilbert objects to, but the fact that each particular 
-    >   assumptions is not verifiable by a single computation or finite observation, and 
-    >   furthermore that there is not even a proof that they are consistent with basic
-    >   numerical equations. Of course, Hilbert's proposed system never gets its consistency proof either. 
-    >   Oh well.
 
 
 ### ZFC
@@ -608,6 +624,7 @@ Click to show links
 -   [Russell, Bertrand (1872-1970)](http://plato.stanford.edu/entries/russell/)
 -   [Russell's logical atomism](http://plato.stanford.edu/entries/logical-atomism/)
 -   [Russell's Paradox](http://plato.stanford.edu/entries/russell-paradox/)
+-   [Second-order and higher-order logic](https://plato.stanford.edu/entries/logic-higher-order/)
 -   [Self-reference](https://plato.stanford.edu/entries/self-reference/)
 -   [Set theory](https://plato.stanford.edu/entries/set-theory/)
 -   [Skolem's Paradox](https://plato.stanford.edu/entries/paradox-skolem/)
