@@ -1572,8 +1572,8 @@ Nihilism
 
 -   [Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade) (1740-1814)
 -   [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
-    -   *On the Fourfold Root of the Principle of Sufficient Reason* (1813)
-    -   *The World as Will and Representation*, Vol. 1 (1818), Vol. 2 (1844)
+    -   *On the Fourfold Root of the Principle of Sufficient Reason* (1813) [^SchopenhauerFFR]
+    -   *The World as Will and Representation*, Vol. 1 (1818), Vol. 2 (1844) [^SchopenhauerWWR]
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
 -   Ray Brassier (b. 1965)
     -   *Nihil Unbound: Enlightenment and Extinction* [^Brassier2007]
