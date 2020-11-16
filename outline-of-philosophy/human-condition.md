@@ -227,6 +227,9 @@ Abrahamism
 -   [Criticism of Jesus](https://en.wikipedia.org/wiki/Criticism_of_Jesus)
 -   Celsus. (c. 175 CE). [*The True Word*](https://en.wikipedia.org/wiki/The_True_Word).
 -   Porphyry. (c. 234-305 CE). [*Against the Christians*](https://en.wikipedia.org/wiki/Porphyry_(philosopher)).
+-   *Skeptic's Annotated Bible* [^Wells2013]
+
+[^Wells2013]: @Wells_2013_Skeptics_Annotated_Bible\.
 
 
 ### Islam
