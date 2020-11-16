@@ -240,9 +240,11 @@ Category theory
 Unification programs
 --------------------------------------------------------------------------------
 
+-   *Principia Mathematica*
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
 -   [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
+-   Category theory
 
 Yanofsky, N.S. (2016). Why mathematics works so well:
 

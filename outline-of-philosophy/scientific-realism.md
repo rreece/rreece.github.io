@@ -202,6 +202,50 @@ Humeanism and necessity
 [^Lewis1986]: @Lewis_1986_On_the_Plurality_of_Worlds\.
 
 
+Instrumentalism
+--------------------------------------------------------------------------------
+
+### First pass
+
+Theoretical concepts may have use in predicting observations,
+but we have no ontological commitments to them.
+
+-   antirealist
+
+
+### History
+
+-   Duhem
+-   [Wikipedia](https://en.wikipedia.org/wiki/Instrumentalism): "Initially a novel perspective introduced by Pierre Duhem in 1906, instrumentalism is largely the prevailing theory that underpins the practice of physicists today." [^Torretti1999]
+-   Later Wittgenstein in *PI*. See [Postpositivism](#postpositivism), below.
+
+[^Torretti1999]: @Torretti_1999_The_Philosophy_of_Physics\, p. 242--243.
+
+
+### Discussion
+
+-   Barrett [^Barrett2004]
+
+Redhead:
+
+>   There is an enormous gap between so-called analytic philosophy which broadly agrees
+>   that there is something special about science and scientific method, and tries to
+>   pin down exactly what it is, and the modern continental tradition which is deeply
+>   suspicious of science and its claims to truth and certainty, and generally
+>   espouses a cultural relativism that derives from Nietzsche and goes all the way
+>   to the postmodern extremes of Derrida and his ilk. There is also the social
+>   constructivism that sees scientific facts as mere 'social constructions' and is a
+>   direct offshoot of the continental relativism. But the analytic tradition itself
+>   divides sharply between instrumentalism and realism, the former seeing theories
+>   in physics as mathematical 'black boxes' linking empirical input with empirical
+>   output, while the latter seeks to go behind the purely observational data, and
+>   reveal something at least of the hidden 'theoretical' processes that lie behind
+>   and explain the observational regularities. [^Redhead1999p34]
+
+[^Barrett2004]: @Barrett_2004_On_the_cognitive_status_of_our_best_physical\.
+[^Redhead1999p34]: @Redhead_1999_Quantum_field_theory_and_the_philosopher\, p. 34.
+
+
 Scientific realism
 --------------------------------------------------------------------------------
 
@@ -330,50 +374,6 @@ magnified the discussion, when he claims that
 -   Discovery of Higgs boson
 
 [^Putnam1975p73]: @Putnam_1975_Mathematics_Matter_and_Method\, p. 73.
-
-
-Instrumentalism
---------------------------------------------------------------------------------
-
-### First pass
-
-Theoretical concepts may have use in predicting observations,
-but we have no ontological commitments to them.
-
--   antirealist
-
-
-### History
-
--   Duhem
--   [Wikipedia](https://en.wikipedia.org/wiki/Instrumentalism): "Initially a novel perspective introduced by Pierre Duhem in 1906, instrumentalism is largely the prevailing theory that underpins the practice of physicists today." [^Torretti1999]
--   Later Wittgenstein in *PI*. See [Postpositivism](#postpositivism), below.
-
-[^Torretti1999]: @Torretti_1999_The_Philosophy_of_Physics\, p. 242--243.
-
-
-### Discussion
-
--   Barrett [^Barrett2004]
-
-Redhead:
-
->   There is an enormous gap between so-called analytic philosophy which broadly agrees
->   that there is something special about science and scientific method, and tries to
->   pin down exactly what it is, and the modern continental tradition which is deeply
->   suspicious of science and its claims to truth and certainty, and generally
->   espouses a cultural relativism that derives from Nietzsche and goes all the way
->   to the postmodern extremes of Derrida and his ilk. There is also the social
->   constructivism that sees scientific facts as mere 'social constructions' and is a
->   direct offshoot of the continental relativism. But the analytic tradition itself
->   divides sharply between instrumentalism and realism, the former seeing theories
->   in physics as mathematical 'black boxes' linking empirical input with empirical
->   output, while the latter seeks to go behind the purely observational data, and
->   reveal something at least of the hidden 'theoretical' processes that lie behind
->   and explain the observational regularities. [^Redhead1999p34]
-
-[^Barrett2004]: @Barrett_2004_On_the_cognitive_status_of_our_best_physical\.
-[^Redhead1999p34]: @Redhead_1999_Quantum_field_theory_and_the_philosopher\, p. 34.
 
 
 Positivism
