@@ -1144,6 +1144,7 @@ Theoretical machine learning
 -   Logistic/softmax and Boltzman factors
 -   Bahri [^Bahri2020]
 -   Halverson [^Halverson2020]
+-   Canatar, A., Bordelon, B., & Pehlevan, C. [Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks](https://arxiv.org/abs/2006.13198).
 
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
 [^Halverson2020]: @Halverson_2020_Neural_networks_and_quantum_field_theory\.

@@ -100,6 +100,16 @@ TODO
     -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
 
 
+### Differential geometry
+
+-   Leonhard Euler (1707-1783)
+-   William Rowan Hamilton (1805-1865)
+-   George Stokes (1819-1903)
+-   Josiah Willard Gibbs (1839-1903)
+-   &Eacute;lie Cartan (1869-1951)
+-   W.V.D. Hodge (1903-1975)
+
+
 Logic
 --------------------------------------------------------------------------------
 

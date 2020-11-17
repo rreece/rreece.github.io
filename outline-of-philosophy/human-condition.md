@@ -816,6 +816,7 @@ Paul Williams:
 >   If rebirth is true, realistically we really have no hope. It is a hope-less doctrine. [^Williams2011]
 
 -   Williams converted to Catholicism! WTF!
+-   Where is there room for ambition in Buddhism?
 
 [^Williams2011]: @Williams_2011_On_converting_from_Buddhism_to_Catholicism_One\.
 

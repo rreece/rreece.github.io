@@ -205,6 +205,11 @@ Humeanism and necessity
 Instrumentalism
 --------------------------------------------------------------------------------
 
+With realism and antirealism being one of the oldest dichotomies of positions
+in philosophy, a way of classifying the tension in more recent philosophy is
+between *instrumentalism* and *scientific realism*, each with many varieties.
+First let's look at instrumentalism.
+
 ### First pass
 
 Theoretical concepts may have use in predicting observations,
@@ -326,6 +331,25 @@ Einstein:
 [^Poincare1913p351]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 351.
 [^Einstein1922]: @Einstein_1922_Geometry_and_Experience\.
 [^Wray2018]: @Wray_2018_Resisting_Scientific_Realism\.
+
+
+### Superseded theories in science
+
+Poincar&eacute;:
+
+>   At first blush it seems to us that the theories last only a day
+>   and that ruins upon ruins accumulate.
+>   Today the theories are born, tomorrow they are the fashion,
+>   the day after tomorrow they are classic,
+>   the fourth day they are superannuated,
+>   and the fifth they are forgotten. [^Poincare1913p351]
+
+-   [Superseded theories in science](https://en.wikipedia.org/wiki/Superseded_theories_in_science)
+-   Aristotelian physics
+-   Ptolemaic solar system
+-   Phlogiston theory
+-   &eacute;lan vital
+-   relationship to pessimistic meta-induction
 
 
 ### Realist rebutals
@@ -725,24 +749,16 @@ Pragmatism
 -   Meaning is rooted in use.
 -   Uniquely American philosophical movement.
 
-### Charles Sanders Peirce
+People:
 
 -   Charles Sanders Peirce (1839-1914)
-
-### John Dewey
-
--   John Dewey (1859-1952)
-
-More:
-
 -   William James (1842-1910)
 -   John Dewey (1859-1952)
 -   Later work of Ludwig Wittgenstein (1889-1951)
+-   Richard Rorty (1931-2007)
+-   Hilary Putnam (1926-2016)
 -   Rorty and Putnam
--   Quine
-
-### Daniel C. Dennett
-
+-   Willard Van Orman Quine (1908-2000)
 -   Daniel C. Dennett (b. 1942)
 
 
@@ -752,20 +768,30 @@ Postmodernism
 ### Introduction
 
 -   antirealist, relativism
--   "Man is the measure of all things" - Protagoras
--   Incommensurability
 -   Conventionalism
 -   Social constructivism
+-   Incommensurability, impossibility of translation
+-   Relativism was previously clearly defended by the ancient Greek sophists
+    -   "Man is the measure of all things" - Protagoras
+    -   Gorgias
+
+People:
+
 -   Jean-Fran&ccedil;ois Lyotard (1924-1998)
 -   Gilles Deleuze (1925-1995)
 -   Michel Foucault (1926-1984)
 -   Jean Baudrillard (1929-2007)
 -   Jacques Derrida (1930-2004)
 -   Richard Rorty (1931-2007)
+
+
+### Criticism
+
 -   Criticisms of postmodernism:
     -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017-1]
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011-1]
-    -   See also [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism).
+    -   See also [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism)
+        in the [Outline on naturalism](naturalism.html).
 
 [^Hicks2011-1]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
 [^Pluckrose2017-1]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
@@ -834,25 +860,6 @@ Various reactions to positivism.
     -   Epistemological anarchism
 
 [^Sankey1997]: @Sankey_1997_Rationality_Relativism_and_Incommensurability\.
-
-
-### Superseded theories in science
-
-Poincar&eacute;:
-
->   At first blush it seems to us that the theories last only a day
->   and that ruins upon ruins accumulate.
->   Today the theories are born, tomorrow they are the fashion,
->   the day after tomorrow they are classic,
->   the fourth day they are superannuated,
->   and the fifth they are forgotten. [^Poincare1913p351]
-
--   [Superseded theories in science](https://en.wikipedia.org/wiki/Superseded_theories_in_science)
--   Aristotelian physics
--   Ptolemaic solar system
--   Phlogiston theory
--   &eacute;lan vital
--   relationship to pessimistic meta-induction
 
 
 ### Ordinary language philosophy
@@ -942,30 +949,34 @@ but does not justify metaphysical claims about reality.
 
 -   antirealist
 
-### van Fraassen
+Bas van Fraassen (b. 1941):
 
 -   *The Scientific Image*
     -   van Fraassen's "Arguments Concerning Scientific Realism" [^vanFraassen1980]
 -   Unlike positivism/instrumentalism, theories should be taken literally.
 -   TODO: Some inspiration from Wittgenstein and what else?
--   Healey criticizes van Fraassen's CE [^Healey2007p114]
 
 ![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories), 2015).](img/true-vs-literal-theories.png){#fig:true-vs-literal-theories}
 
-[^Healey2007p114]: @Healey_2007_Gauging_Whats_Real\, p. 114--116.
-[^vanFraassen1980]: @vanFraassen_1980_The_Scientific_Image\.
+Otavio Bueno:
 
-### Bueno
+-   Structural empiricism
 
--   TODO
-
-### Hennig
+Christian Hennig:
 
 -   "Mathematical models and reality: A constructivist perspective" [^Hennig2010]
 -   "What are the true clusters?" [^Hennig2015]
 
 [^Hennig2010]: @Hennig_2010_Mathematical_models_and_reality_A_constructivist\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
+[^vanFraassen1980]: @vanFraassen_1980_The_Scientific_Image\.
+
+
+### Criticism
+
+-   Healey criticizes van Fraassen's CE [^Healey2007p114]
+
+[^Healey2007p114]: @Healey_2007_Gauging_Whats_Real\, p. 114--116.
 
 
 Structural realism
@@ -1683,7 +1694,7 @@ Click to show links
 -   [Private language argument](https://en.wikipedia.org/wiki/Private_language_argument)
 -   [Problem of the Criterion](https://iep.utm.edu/criterio/)
 -   [Progress, Philosophical](https://en.wikipedia.org/wiki/Philosophical_progress)
--   [Putnam, Hilary (b. 1926)](https://en.wikipedia.org/wiki/Hilary_Putnam)
+-   [Putnam, Hilary (1926-2016)](https://en.wikipedia.org/wiki/Hilary_Putnam)
 -   [Quine, W.V. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Quine's paradox](http://en.wikipedia.org/wiki/Quine%27s_paradox)
 -   [Radical empiricism](http://en.wikipedia.org/wiki/Radical_empiricism)
