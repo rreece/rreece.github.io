@@ -491,7 +491,7 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 -   Bodhi. (1998). [A Discipline of Sobriety](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_36.html).
 
 
-#### The three trainings
+#### The Three Trainings
 
 1.  S&imacr;la - "discipline" or "moral conduct"
 2.  Samadhi - "meditation"
