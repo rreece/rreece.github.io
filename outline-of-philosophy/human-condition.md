@@ -442,7 +442,7 @@ Emptiness ([&sacute;&umacr;nyat&amacr;/su&ntilde;&ntilde;at&amacr;](https://en.w
     attachment ([r&amacr;ga/lobha](https://encyclopediaofbuddhism.org/wiki/Raga)), and
     anger/aversion ([dvesha/dosa](https://encyclopediaofbuddhism.org/wiki/Dvesha)).
 3.  Cessation (nirodha/nirodha) of suffering is liberation (nirvana/nibb&amacr;na).
-4.  The path (m&amacr;rga/magga) to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path).
+4.  The path (m&amacr;rga/magga) to the cessation of suffering is the [Noble Eightfold Path](https://encyclopediaofbuddhism.org/wiki/Noble_Eightfold_Path) (&amacr;ry&amacr;st&amacr;ngam&amacr;rga/ariy&amacr;tthangikamagga).
 
 -   [SN 56.11](https://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html)
 
