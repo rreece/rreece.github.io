@@ -269,7 +269,7 @@ Hinduism
 -   [Vyasa](https://en.wikipedia.org/wiki/Vyasa) - "Compiler" of the Vedas
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
     -   See McEvilley [^McEvilley2002p327]
--   Six &amacr;stika (orthodox) schools: Ny&amacr;y&aacute; Vai&sacute;esika, S&amacr;mkhya, [Yoga](https://en.wikipedia.org/wiki/Yoga), M&imacr;m&amacr;ms&amacr;, and Ved&amacr;nta
+-   Six &amacr;stika (orthodox) schools: Ny&amacr;y&aacute;, Vai&sacute;esika, S&amacr;mkhya, [Yoga](https://en.wikipedia.org/wiki/Yoga), M&imacr;m&amacr;ms&amacr;, and Ved&amacr;nta
 -   Four n&amacr;stika (heterodox) schools: [Buddhism](https://en.wikipedia.org/wiki/Buddhism), [Jainism](https://en.wikipedia.org/wiki/Jainism), [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka), [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
 -   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
 -   "Hindu synthesis" started to develop between 500 BCE and 300 CE
@@ -353,6 +353,11 @@ Buddhism
 ### Introduction
 
 -   [Buddhism](https://en.wikipedia.org/wiki/Buddhism) (began between 6th and 4th centuries BCE)
+-   Buddhism is considered to be n&amacr;stika---a heterodox break from Hinduism.
+    The most important ways that Buddhism breaks with Hinduism are:
+    -   An&amacr;tman: rejection of the &amacr;tman; there are no souls.
+    -   Atheism: there is no creator god. There may be more mundane deities but they are impermanent.
+    -   Egalitarianism: rejection of the Hindu caste system.
 -   [Siddhartha Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha) (c. 480-400 BCE)
     -   AKA Shakyamuni Buddha
     -   [Four sights](https://en.wikipedia.org/wiki/Four_sights)
@@ -407,7 +412,6 @@ otherwise usually showing Sanskrit if only one translation is given.
 
 #### Important initial concepts
 
--   Buddhism is generally considered to be n&amacr;stika---a heterodox break from Hinduism.
 -   [Prat&imacr;tyasamut&amacr;da/prat&imacr;tyasamutp&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination: all phenomena (dharmas/dhammas) arise in dependence upon other phenomena.
 -   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
 -   [Samvega](https://en.wikipedia.org/wiki/Sa%E1%B9%83vega) - sense of shock, dismay, and spiritual urgency to reach liberation and escape the suffering of samsara
@@ -524,7 +528,6 @@ Epistemology and metaphysics:
 -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
     -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
     -   Kalama Sutta ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html))
-    -   [Graham Priest: Lectures on Buddhism and Science](https://www.youtube.com/watch?v=V-P3j3S2beA&list=PLKuMaHOvHA4rag4t-jjdbeDdye5nb0rlF&ab_channel=PhilosophyattheUniversityofEdinburgh)
 
 Ethics:
 
@@ -539,7 +542,32 @@ Atheism:
 -   Brahmaj&amacr;la Sutta - "The all-embracing net of views" ([DN 1](https://www.accesstoinsight.org/tipitaka/dn/dn.01.0.bodh.html))
 -   [Kevatta Sutta](https://en.wikipedia.org/wiki/Kevatta_Sutta) ([DN 11](https://suttacentral.net/dn11/en/sujato))
 -   Tevijja Sutta - "The Three Knowledges" ([DN 13](https://suttacentral.net/dn13/en/sujato))
+
+>   "So it seems that none of the brahmins have seen Brahm&amacr; with their
+>   own eyes, and not even the ancient hermits claimed to know where he is.
+>   Yet the brahmins proficient in the three Vedas say: 'We teach the path
+>   to the company of that which we neither know nor see. This is the only
+>   straight path, the direct route that leads someone who practices it to
+>   the company of Brahm&amacr;.'
+>   
+>   What do you think, V&amacr;settha? This being so, doesn't their
+>   statement turn out to have no demonstrable basis?"
+>
+>   "Clearly that's the case, Master Gotama."
+>   
+>   "Good, V&amacr;settha. For it is impossible that they should teach the
+>   path to that which they neither know nor see.
+>   
+>   Suppose there was a queue of blind men, each holding the one in front:
+>   the first one does not see, the middle one does not see, and the last
+>   one does not see. In the same way, it seems to me that the brahmins'
+>   statement turns out to be comparable to a queue of blind men: the first
+>   one does not see, the middle one does not see, and the last one does not
+>   see. Their statement turns out to be a joke---mere words, void and
+>   hollow." (From [DN 13](https://suttacentral.net/dn13/en/sujato))
+
 -   "Sectarian Tenets" ([AN 3.61](https://suttacentral.net/an3.61/en/sujato))
+-   Hayes. (1988). Principled atheism in the Buddhist scholastic tradition [^Hayes1988]
 
 Other stuff:
 
@@ -552,6 +580,7 @@ Other stuff:
 -   Wright [^Wright2017]
 -   Wright, R. (2017). [Buddhism is more 'Western' than you think](https://www.nytimes.com/2017/11/06/opinion/buddhism-western-philosophy.html). *New York Times*.
 
+[^Hayes1988]: @Hayes_1988_Principled_atheism_in_the_Buddhist_scholastic\.
 [^Harris2014]: @Harris_2014_Waking_Up_A_Guide_to_Spirituality_Without\.
 [^Wright2017]: @Wright_2017_Why_Buddhism_is_True_The_Science_and_Philosophy\.
 
@@ -605,16 +634,17 @@ Other stuff:
 
 1.  [Vinaya Pitaka](https://en.wikipedia.org/wiki/Vinaya_Pitaka) - "Basket of Discipline"
 2.  [Sutta Pitaka](https://en.wikipedia.org/wiki/Sutta_Pitaka) - "Basket of Discourse"
-    -   [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN)
+    1.  [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN) - "collection of long discourses"
         -   [Mah&amacr;parinibb&amacr;na Sutta](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta)
-    -   [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN)
+    2.  Majjhima Nik&amacr;ya - "collection of middle-length discourses"
+    3.  [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN) - "collection of connected discourses"
         -   [Kacc&amacr;nagotta Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) - "On Right View" (SN 12.15)
         -   [Sabba Sutta](https://suttacentral.net/sn35.23/en/bodhi) or "Discourse on Everything" (SN 35.23)
-    -   [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN)
+    4.  [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN) - "collection of numerical discourses"
         -   [Kesamutti Sutta](https://en.wikipedia.org/wiki/Kesamutti_Sutta) ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html))
         -   [Arakenanusasani Sutta](https://www.accesstoinsight.org/tipitaka/an/an07/an07.070.than.html) - On the finiteness and shortness of life (AN 7.70)
         -   [Uttaravipatti Sutta](https://suttacentral.net/an8.8/en/bodhi) - "Uttara on Failing" (AN 8.8)
-    -   [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN)
+    5.  [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN) - "minor collection"
         -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
         -   [Ud&amacr;na](https://en.wikipedia.org/wiki/Udana)
             -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) ([Ud 6.4](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.6.04.than.html))
@@ -1276,19 +1306,19 @@ Comparitive studies
 -   Buddhism and Schopenhauer
     -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
     -   Kerns, T. [Lecture notes on Schopenhauer and Buddhism](http://philosophycourse.info/lecsite/lec-schop-budd.html).
-    -   Young, J. [Arthur Schopenhauer: The first European Buddhist](https://www.the-tls.co.uk/articles/arthur-schopenhauer-footnotes-to-plato/)
+    -   Young, J. [Arthur Schopenhauer: The first European Buddhist](https://www.the-tls.co.uk/articles/arthur-schopenhauer-footnotes-to-plato/).
 -   Buddhism and empiricism
     -   Hume: anitya and humeanism
     -   Two truths doctrine
         -   Kant: phenomena vs noumena
         -   Sellars: manifest vs scientific image
+    -   [Graham Priest: Lectures on Buddhism and Science](https://www.youtube.com/watch?v=V-P3j3S2beA&list=PLKuMaHOvHA4rag4t-jjdbeDdye5nb0rlF&ab_channel=PhilosophyattheUniversityofEdinburgh)
 
 
 ### Perennial philosophy
 
 -   [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley) (1894-1963)
     -   *The Perennial Philosophy* (1945) [^Huxley1945]
-    -   TODO: criticism
 -   [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil) (1909-1943)
 -   [Joseph Campbell](https://en.wikipedia.org/wiki/Joseph_Campbell) (1904-1987)
 -   [Perennial philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy)
@@ -1384,6 +1414,8 @@ Biology
 >   water molecule and below the energies needed to cause electronic transitions. [^Nave2016]
 
 ![Light absorbtion in water and the blackbody spectrum for the approximate temperature of the Sun ([hyperphysics.phy-astr.gsu.edu](http://hyperphysics.phy-astr.gsu.edu/hbase/Chemical/watabs.html), 2016).](img/light-absorbtion-in-water.png){#fig:light-absorbtion-in-water}
+
+TODO: Find Dawkins on multiple instances of convergent evolution of eyes.
 
 [^Nave2016]: @Nave_2016_Transparency_of_water_in_the_visible_range\.
 
@@ -1516,6 +1548,8 @@ Plato:
 >   to find out what we do not know and that we must not look for
 >   it. [^Meno86c]
 
+-   Plato's *Apology*
+
 [^Meno86c]: Plato, *Meno* 86c, @Cooper_1997_Plato_Complete_works\, p. 886.
 
 
@@ -1585,13 +1619,17 @@ Existentialism
     -   [Thrownness](https://en.wikipedia.org/wiki/Thrownness) - Humans are "thrown [geworfen] into the world"
     -   [Dasein](https://en.wikipedia.org/wiki/Dasein) - being there
     -   Mitsein - being with
+    -   *Being and Time* (1927)
 -   [Jean-Paul Sartre](https://en.wikipedia.org/wiki/Jean-Paul_Sartre) (1905-1980)
-    -   *L'Existentialisme est un Humanisme* (1946) [^Sartre1946]
     -   Existence precedes essence.
     -   We are often in denial of how radically free we are.
     -   Randomness decides a lot.
     -   Authenticity
     -   Bad faith
+    -   *Nausea* / *La naus&eacute;e* (1938)
+    -   *Being and Nothingness* / *L'&ecirc;tre et le n&eacute;ant* (1943)
+    -   *No Exit* / *Huis clos* (1944)
+    -   *L'Existentialisme est un Humanisme* (1946) [^Sartre1946]
 -   [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir) (1908-1986)
     -   *The Second Sex* (1949)
 -   [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) (1913-1960)
@@ -1604,12 +1642,13 @@ Existentialism
 -   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
     -   *The Courage to Be* (1952)
 
-Artworks:
+[^Sartre1946]: @Sartre_2007_Existentialism_is_a_Humanism\.
+
+
+### Artworks
 
 -   Miller, A. (1949). *Death of a Salesman*. (a play)
 -   TODO: more
-
-[^Sartre1946]: @Sartre_2007_Existentialism_is_a_Humanism\.
 
 
 Nihilism
@@ -1643,14 +1682,15 @@ Carl Sagan discussing Nietzsche:
 >   undermined in the process, is that altogether such a loss? Is there not
 >   cause to welcome it as a maturing and character-building experience? [^Sagan1996p16]
 
-Artworks:
-
--   [Dadaism](https://en.wikipedia.org/wiki/Dada)
-
 [^Sagan1996p16]: @Sagan_1997_The_Demon_Haunted_World_Science_as_a_Candle\, p. 16.
 [^SchopenhauerFFR]: @Schopenhauer_2015_On_the_Fourfold_Root_of_the_Principle\.
 [^SchopenhauerWWR]: @Schopenhauer_2014_The_World_as_Will_and_Representation_Vol1_and_2\.
 [^Brassier2007]: @Brassier_2007_Nihil_Unbound_Enlightenment_and_Extinction\.
+
+
+### Artworks
+
+-   [Dadaism](https://en.wikipedia.org/wiki/Dada)
 
 
 My thoughts

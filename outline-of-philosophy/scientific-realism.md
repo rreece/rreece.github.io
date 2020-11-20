@@ -87,6 +87,7 @@ Realism and antirealism
 -   Pyrrhonism
 -   [Agrippa's trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
 -   [Meno's paradox](https://en.wikipedia.org/wiki/Meno#Meno's_paradox)
+-   Plato's *Apology*
 
 
 ### Allegory of the Cave
