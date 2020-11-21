@@ -149,7 +149,9 @@ Symmetry-first physics
 -   Canonical dynamics
 -   group theory [^tHooft2007]
 -   *Physics from Symmetry* [^Schwichtenberg2015]
+-   Goyal, P. (2020). Derivation of classical mechanics in an energetic framework via conservation and relativity. [^Goyal2020]
 
+[^Goyal2020]: @Goyal_2020_Derivation_of_classical_mechanics_in_an_energetic\.
 [^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^tHooft2007]: @tHooft_2007_Lie_Groups_in_Physics\.
 

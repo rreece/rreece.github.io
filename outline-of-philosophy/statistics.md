@@ -622,8 +622,15 @@ Exploratory data analysis
     -   RECAST
 
 
-Likelihood principle
+"Statistics Wars"
 --------------------------------------------------------------------------------
+
+### Introduction
+
+-   TODO
+
+
+### Likelihood principle
 
 -   [Likelihood principle](http://en.wikipedia.org/wiki/Likelihood_principle)
 -   The likelihood principle is the proposition that, given a statistical model and a data sample,
@@ -681,8 +688,7 @@ Mayo:
 [^Mayo2019]: @Mayo_2019_The_law_of_likelihood_and_error_statistics\.
 
 
-"Statistics Wars"
---------------------------------------------------------------------------------
+### Discussion
 
 -   Carnap
     -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
@@ -1121,15 +1127,22 @@ Natural language processing (NLP)
 Theoretical machine learning
 --------------------------------------------------------------------------------
 
-### No free lunch theorem
+### Algorithmic information theory
 
--   David Wolpert
+-   Solomonoff
+
+### No free lunch theorems
+
+-   David Wolpert and William G. Macready
+    -   No free lunch theorems for search (1995)
+    -   No free lunch theorems for optimization (1997) [^Wolpert1997]
 -   Inductive bias
--   Yudkowsky, E. (2007). "[Inductive bias](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias)". *LessWrong*.
--   Hamilton, L.D. (2014). "[The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms)".
--   Wolpert, D. (2018). [Why do computers use so much energy?](https://blogs.scientificamerican.com/observations/why-do-computers-use-so-much-energy/)
--   [Sante Fe Institute: Thermodynamics of Computation](https://centre.santafe.edu/thermocomp/Santa_Fe_Institute_Collaboration_Platform:Thermodynamics_of_Computation_Wiki)
+    -   Yudkowsky, E. (2007). [Inductive bias](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias). *LessWrong*.
+    -   [Ugly duckling theorem](https://en.wikipedia.org/wiki/Ugly_duckling_theorem)
+    -   Hamilton, L.D. (2014). [The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms).
 -   Gerhard Schurz
+
+[^Wolpert1997]: @Wolpert_1997_No_free_lunch_theorems_for_optimization\.
 
 
 ###  Graphical tensor notation
@@ -1153,6 +1166,12 @@ Theoretical machine learning
 ### Relationship to gauge theory
 
 -   Cohen
+
+
+### Thermodynamics of computation
+
+-   Wolpert, D. (2018). [Why do computers use so much energy?](https://blogs.scientificamerican.com/observations/why-do-computers-use-so-much-energy/)
+-   [Sante Fe Institute: Thermodynamics of Computation](https://centre.santafe.edu/thermocomp/Santa_Fe_Institute_Collaboration_Platform:Thermodynamics_of_Computation_Wiki)
 
 
 Information geometry

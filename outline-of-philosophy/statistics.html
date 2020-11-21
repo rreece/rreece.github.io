@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Thu Nov 19, 2020" />
+  <meta name="date" content="Sat Nov 21, 2020" />
   <title>Philosophy of statistics - Ryan&#8217;s Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#8217;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -123,22 +123,26 @@
 <li><a href="statistics.html#look-elsewhere-effect">Look-elsewhere effect</a></li>
 <li><a href="statistics.html#archiving-and-data-science">Archiving and data science</a></li>
 </ol></li>
-<li><a href="statistics.html#likelihood-principle">Likelihood principle</a></li>
-<li><a href="statistics.html#statistics-wars">&#8220;Statistics Wars&#8221;</a></li>
-<li><a href="statistics.html#replication-crisis">Replication crisis</a>
+<li><a href="statistics.html#statistics-wars">&#8220;Statistics Wars&#8221;</a>
 <ol style="list-style-type: decimal">
 <li><a href="statistics.html#introduction-1">Introduction</a></li>
+<li><a href="statistics.html#likelihood-principle">Likelihood principle</a></li>
+<li><a href="statistics.html#discussion">Discussion</a></li>
+</ol></li>
+<li><a href="statistics.html#replication-crisis">Replication crisis</a>
+<ol style="list-style-type: decimal">
+<li><a href="statistics.html#introduction-2">Introduction</a></li>
 <li><a href="statistics.html#p-value-controversy">P-value controversy</a></li>
 </ol></li>
 <li><a href="statistics.html#classical-machine-learning">Classical machine learning</a>
 <ol style="list-style-type: decimal">
-<li><a href="statistics.html#introduction-2">Introduction</a></li>
+<li><a href="statistics.html#introduction-3">Introduction</a></li>
 <li><a href="statistics.html#logistic-regression">Logistic regression</a></li>
 <li><a href="statistics.html#clustering">Clustering</a></li>
 </ol></li>
 <li><a href="statistics.html#deep-learning">Deep learning</a>
 <ol style="list-style-type: decimal">
-<li><a href="statistics.html#introduction-3">Introduction</a></li>
+<li><a href="statistics.html#introduction-4">Introduction</a></li>
 <li><a href="statistics.html#deep-double-descent">Deep double descent</a></li>
 <li><a href="statistics.html#batch-size-vs-learning-rate">Batch size vs learning rate</a></li>
 <li><a href="statistics.html#regularization">Regularization</a></li>
@@ -148,14 +152,16 @@
 </ol></li>
 <li><a href="statistics.html#theoretical-machine-learning">Theoretical machine learning</a>
 <ol style="list-style-type: decimal">
-<li><a href="statistics.html#no-free-lunch-theorem">No free lunch theorem</a></li>
+<li><a href="statistics.html#algorithmic-information-theory">Algorithmic information theory</a></li>
+<li><a href="statistics.html#no-free-lunch-theorems">No free lunch theorems</a></li>
 <li><a href="statistics.html#graphical-tensor-notation">Graphical tensor notation</a></li>
 <li><a href="statistics.html#relationship-to-statistical-mechanics">Relationship to statistical mechanics</a></li>
 <li><a href="statistics.html#relationship-to-gauge-theory">Relationship to gauge theory</a></li>
+<li><a href="statistics.html#thermodynamics-of-computation">Thermodynamics of computation</a></li>
 </ol></li>
 <li><a href="statistics.html#information-geometry">Information geometry</a>
 <ol style="list-style-type: decimal">
-<li><a href="statistics.html#introduction-4">Introduction</a></li>
+<li><a href="statistics.html#introduction-5">Introduction</a></li>
 <li><a href="statistics.html#geometric-understanding-of-classical-statistics">Geometric understanding of classical statistics</a></li>
 <li><a href="statistics.html#geometric-understanding-of-deep-learning">Geometric understanding of deep learning</a></li>
 </ol></li>
@@ -641,7 +647,12 @@ D_\mathrm{KL}(p, q)
 <li>RECAST</li>
 </ul></li>
 </ul>
-<h2 id="likelihood-principle">Likelihood principle</h2>
+<h2 id="statistics-wars">&#8220;Statistics Wars&#8221;</h2>
+<h3 id="introduction-1">Introduction</h3>
+<ul>
+<li>TODO</li>
+</ul>
+<h3 id="likelihood-principle">Likelihood principle</h3>
 <ul>
 <li><a href="http://en.wikipedia.org/wiki/Likelihood_principle">Likelihood principle</a></li>
 <li>The likelihood principle is the proposition that, given a statistical model and a data sample, all the evidence relevant to model parameters is contained in the likelihood function.</li>
@@ -676,7 +687,7 @@ D_\mathrm{KL}(p, q)
 <blockquote>
 <p>Likelihoods are vital to all statistical accounts, but they are often misunderstood because the data are fixed and the hypothesis varies. Likelihoods of hypotheses should not be confused with their probabilities. &#8230; [T]he same phenomenon may be perfectly predicted or explained by two rival theories; so both theories are equally likely on the data, even though they cannot both be true.<a href="#fn56" class="footnoteRef" id="fnref56"><sup>56</sup></a></p>
 </blockquote>
-<h2 id="statistics-wars">&#8220;Statistics Wars&#8221;</h2>
+<h3 id="discussion">Discussion</h3>
 <ul>
 <li>Carnap
 <ul>
@@ -748,7 +759,7 @@ D_\mathrm{KL}(p, q)
 <p class="caption">Figure 6: The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference (<a href="http://gandenberger.org/research/">gandenberger.org/research/</a>, 2015).</p>
 </div>
 <h2 id="replication-crisis">Replication crisis</h2>
-<h3 id="introduction-1">Introduction</h3>
+<h3 id="introduction-2">Introduction</h3>
 <ul>
 <li>&#8220;Why most published research findings are false&#8221;<a href="#fn71" class="footnoteRef" id="fnref71"><sup>71</sup></a></li>
 </ul>
@@ -777,7 +788,7 @@ D_\mathrm{KL}(p, q)
 <li>Karen Kafadar: <a href="https://magazine.amstat.org/blog/2019/12/01/kk_dec2019/">The Year in Review &#8230; And More to Come</a></li>
 </ul>
 <h2 id="classical-machine-learning">Classical machine learning</h2>
-<h3 id="introduction-2">Introduction</h3>
+<h3 id="introduction-3">Introduction</h3>
 <ul>
 <li>classification vs regression</li>
 <li>supervised and unsupervised learning
@@ -891,7 +902,7 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 </ul>
 <h2 id="deep-learning">Deep learning</h2>
-<h3 id="introduction-3">Introduction</h3>
+<h3 id="introduction-4">Introduction</h3>
 <ul>
 <li>Conceptual reviews of deep learning
 <ul>
@@ -1001,14 +1012,23 @@ D_\mathrm{KL}(p, q)
 <li>Sutton &amp; Barto<a href="#fn103" class="footnoteRef" id="fnref103"><sup>103</sup></a></li>
 </ul>
 <h2 id="theoretical-machine-learning">Theoretical machine learning</h2>
-<h3 id="no-free-lunch-theorem">No free lunch theorem</h3>
+<h3 id="algorithmic-information-theory">Algorithmic information theory</h3>
 <ul>
-<li>David Wolpert</li>
-<li>Inductive bias</li>
-<li>Yudkowsky, E. (2007). &#8220;<a href="https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias">Inductive bias</a>&#8221;. <em>LessWrong</em>.</li>
-<li>Hamilton, L.D. (2014). &#8220;<a href="http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms">The inductive biases of various machine learning algorithms</a>&#8221;.</li>
-<li>Wolpert, D. (2018). <a href="https://blogs.scientificamerican.com/observations/why-do-computers-use-so-much-energy/">Why do computers use so much energy?</a></li>
-<li><a href="https://centre.santafe.edu/thermocomp/Santa_Fe_Institute_Collaboration_Platform:Thermodynamics_of_Computation_Wiki">Sante Fe Institute: Thermodynamics of Computation</a></li>
+<li>Solomonoff</li>
+</ul>
+<h3 id="no-free-lunch-theorems">No free lunch theorems</h3>
+<ul>
+<li>David Wolpert and William G. Macready
+<ul>
+<li>No free lunch theorems for search (1995)</li>
+<li>No free lunch theorems for optimization (1997)<a href="#fn104" class="footnoteRef" id="fnref104"><sup>104</sup></a></li>
+</ul></li>
+<li>Inductive bias
+<ul>
+<li>Yudkowsky, E. (2007). <a href="https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias">Inductive bias</a>. <em>LessWrong</em>.</li>
+<li><a href="https://en.wikipedia.org/wiki/Ugly_duckling_theorem">Ugly duckling theorem</a></li>
+<li>Hamilton, L.D. (2014). <a href="http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms">The inductive biases of various machine learning algorithms</a>.</li>
+</ul></li>
 <li>Gerhard Schurz</li>
 </ul>
 <h3 id="graphical-tensor-notation">Graphical tensor notation</h3>
@@ -1020,32 +1040,37 @@ D_\mathrm{KL}(p, q)
 <h3 id="relationship-to-statistical-mechanics">Relationship to statistical mechanics</h3>
 <ul>
 <li>Logistic/softmax and Boltzman factors</li>
-<li>Bahri<a href="#fn104" class="footnoteRef" id="fnref104"><sup>104</sup></a></li>
-<li>Halverson<a href="#fn105" class="footnoteRef" id="fnref105"><sup>105</sup></a></li>
+<li>Bahri<a href="#fn105" class="footnoteRef" id="fnref105"><sup>105</sup></a></li>
+<li>Halverson<a href="#fn106" class="footnoteRef" id="fnref106"><sup>106</sup></a></li>
 <li>Canatar, A., Bordelon, B., &amp; Pehlevan, C. <a href="https://arxiv.org/abs/2006.13198">Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks</a>.</li>
 </ul>
 <h3 id="relationship-to-gauge-theory">Relationship to gauge theory</h3>
 <ul>
 <li>Cohen</li>
 </ul>
-<h2 id="information-geometry">Information geometry</h2>
-<h3 id="introduction-4">Introduction</h3>
+<h3 id="thermodynamics-of-computation">Thermodynamics of computation</h3>
 <ul>
-<li>&#8220;A gentle introduction to information geometry&#8221;<a href="#fn106" class="footnoteRef" id="fnref106"><sup>106</sup></a></li>
-<li>&#8220;An elementary introduction to information geometry&#8221;<a href="#fn107" class="footnoteRef" id="fnref107"><sup>107</sup></a></li>
-<li><em>Information Geometry and Its Applications</em><a href="#fn108" class="footnoteRef" id="fnref108"><sup>108</sup></a></li>
+<li>Wolpert, D. (2018). <a href="https://blogs.scientificamerican.com/observations/why-do-computers-use-so-much-energy/">Why do computers use so much energy?</a></li>
+<li><a href="https://centre.santafe.edu/thermocomp/Santa_Fe_Institute_Collaboration_Platform:Thermodynamics_of_Computation_Wiki">Sante Fe Institute: Thermodynamics of Computation</a></li>
+</ul>
+<h2 id="information-geometry">Information geometry</h2>
+<h3 id="introduction-5">Introduction</h3>
+<ul>
+<li>&#8220;A gentle introduction to information geometry&#8221;<a href="#fn107" class="footnoteRef" id="fnref107"><sup>107</sup></a></li>
+<li>&#8220;An elementary introduction to information geometry&#8221;<a href="#fn108" class="footnoteRef" id="fnref108"><sup>108</sup></a></li>
+<li><em>Information Geometry and Its Applications</em><a href="#fn109" class="footnoteRef" id="fnref109"><sup>109</sup></a></li>
 </ul>
 <h3 id="geometric-understanding-of-classical-statistics">Geometric understanding of classical statistics</h3>
 <ul>
-<li>&#8220;A geometric formulation of Occam&#8217;s razor for inference of parametric distributions&#8221;<a href="#fn109" class="footnoteRef" id="fnref109"><sup>109</sup></a></li>
-<li>&#8220;Statistical inference, Occam&#8217;s Razor and statistical mechanics on the space of probability distributions&#8221;<a href="#fn110" class="footnoteRef" id="fnref110"><sup>110</sup></a></li>
-<li><em>Geometric Modeling in Probability and Statistics</em><a href="#fn111" class="footnoteRef" id="fnref111"><sup>111</sup></a></li>
+<li>&#8220;A geometric formulation of Occam&#8217;s razor for inference of parametric distributions&#8221;<a href="#fn110" class="footnoteRef" id="fnref110"><sup>110</sup></a></li>
+<li>&#8220;Statistical inference, Occam&#8217;s Razor and statistical mechanics on the space of probability distributions&#8221;<a href="#fn111" class="footnoteRef" id="fnref111"><sup>111</sup></a></li>
+<li><em>Geometric Modeling in Probability and Statistics</em><a href="#fn112" class="footnoteRef" id="fnref112"><sup>112</sup></a></li>
 <li>Cranmer</li>
 </ul>
 <h3 id="geometric-understanding-of-deep-learning">Geometric understanding of deep learning</h3>
 <ul>
-<li>&#8220;Geometric understanding of deep learning&#8221;<a href="#fn112" class="footnoteRef" id="fnref112"><sup>112</sup></a></li>
-<li>Cohen<a href="#fn113" class="footnoteRef" id="fnref113"><sup>113</sup></a></li>
+<li>&#8220;Geometric understanding of deep learning&#8221;<a href="#fn113" class="footnoteRef" id="fnref113"><sup>113</sup></a></li>
+<li>Cohen<a href="#fn114" class="footnoteRef" id="fnref114"><sup>114</sup></a></li>
 <li>Gao, Y. &amp; Chaudhari, P. (2020). <a href="https://arxiv.org/abs/2011.00613">An information-geometric distance on the space of tasks</a>.</li>
 </ul>
 <h2 id="automation">Automation</h2>
@@ -1058,19 +1083,19 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Autoencoders, latent variables</li>
 <li>Physical constratints in loss functions</li>
-<li>&#8220;The frontier of simulation-based inference&#8221;<a href="#fn114" class="footnoteRef" id="fnref114"><sup>114</sup></a></li>
+<li>&#8220;The frontier of simulation-based inference&#8221;<a href="#fn115" class="footnoteRef" id="fnref115"><sup>115</sup></a></li>
 </ul>
 <h3 id="autoscience">AutoScience</h3>
 <ul>
 <li>Automated discovery</li>
-<li>&#8220;Learning new physics from a machine&#8221;<a href="#fn115" class="footnoteRef" id="fnref115"><sup>115</sup></a></li>
-<li>&#8220;Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry.&#8221;<a href="#fn116" class="footnoteRef" id="fnref116"><sup>116</sup></a>
+<li>&#8220;Learning new physics from a machine&#8221;<a href="#fn116" class="footnoteRef" id="fnref116"><sup>116</sup></a></li>
+<li>&#8220;Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry.&#8221;<a href="#fn117" class="footnoteRef" id="fnref117"><sup>117</sup></a>
 <ul>
 <li>Note that this description of abduction is missing that it is normative (i.e. &#8220;best-fit&#8221;).</li>
 </ul></li>
-<li>&#8220;The End of Theory: The data deluge makes the scientific method obsolete.&#8221;<a href="#fn117" class="footnoteRef" id="fnref117"><sup>117</sup></a></li>
-<li>&#8220;Symbolic pregression: Discovering physical laws from raw distorted video.&#8221;<a href="#fn118" class="footnoteRef" id="fnref118"><sup>118</sup></a></li>
-<li>&#8220;Discovering symbolic models from deep learning with inductive biases.&#8221;<a href="#fn119" class="footnoteRef" id="fnref119"><sup>119</sup></a>
+<li>&#8220;The End of Theory: The data deluge makes the scientific method obsolete.&#8221;<a href="#fn118" class="footnoteRef" id="fnref118"><sup>118</sup></a></li>
+<li>&#8220;Symbolic pregression: Discovering physical laws from raw distorted video.&#8221;<a href="#fn119" class="footnoteRef" id="fnref119"><sup>119</sup></a></li>
+<li>&#8220;Discovering symbolic models from deep learning with inductive biases.&#8221;<a href="#fn120" class="footnoteRef" id="fnref120"><sup>120</sup></a>
 <ul>
 <li>Video: <a href="https://www.youtube.com/watch?v=LMb5tvW-UoQ">Discussion by Yannic Kilcher</a></li>
 </ul></li>
@@ -1078,16 +1103,16 @@ D_\mathrm{KL}(p, q)
 </ul>
 <div class="figure">
 <img src="img/BDEC-scientific-method.png" alt="Figure 9: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis." id="fig:BDEC-scientific-method" />
-<p class="caption">Figure 9: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.<a href="#fn120" class="footnoteRef" id="fnref120"><sup>120</sup></a></p>
+<p class="caption">Figure 9: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.<a href="#fn121" class="footnoteRef" id="fnref121"><sup>121</sup></a></p>
 </div>
 <h2 id="implications-for-the-realism-debate">Implications for the realism debate</h2>
 <ul>
-<li>Korb<a href="#fn121" class="footnoteRef" id="fnref121"><sup>121</sup></a></li>
-<li>Williamson<a href="#fn122" class="footnoteRef" id="fnref122"><sup>122</sup></a></li>
-<li>Bensusan<a href="#fn123" class="footnoteRef" id="fnref123"><sup>123</sup></a></li>
+<li>Korb<a href="#fn122" class="footnoteRef" id="fnref122"><sup>122</sup></a></li>
+<li>Williamson<a href="#fn123" class="footnoteRef" id="fnref123"><sup>123</sup></a></li>
+<li>Bensusan<a href="#fn124" class="footnoteRef" id="fnref124"><sup>124</sup></a></li>
 <li>Note that NLP has implications to the philosophy of language and realism
 <ul>
-<li><a href="http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/">NLP word representations and the Wittgenstein philosophy of language</a>.<a href="#fn124" class="footnoteRef" id="fnref124"><sup>124</sup></a></li>
+<li><a href="http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/">NLP word representations and the Wittgenstein philosophy of language</a>.<a href="#fn125" class="footnoteRef" id="fnref125"><sup>125</sup></a></li>
 </ul></li>
 <li>See the <a href="scientific-realism.html">Outline on scientific realism</a></li>
 </ul>
@@ -1161,8 +1186,8 @@ D_\mathrm{KL}(p, q)
 <hr />
 <h3 id="more-articles-to-do">More articles to do</h3>
 <ul>
-<li><em>All of Statistics</em><a href="#fn125" class="footnoteRef" id="fnref125"><sup>125</sup></a></li>
-<li><em>The Foundations of Statistics</em><a href="#fn126" class="footnoteRef" id="fnref126"><sup>126</sup></a></li>
+<li><em>All of Statistics</em><a href="#fn126" class="footnoteRef" id="fnref126"><sup>126</sup></a></li>
+<li><em>The Foundations of Statistics</em><a href="#fn127" class="footnoteRef" id="fnref127"><sup>127</sup></a></li>
 </ul>
 <h2 id="links-and-encyclopedia-articles">Links and encyclopedia articles</h2>
 <div class="clickmore">
@@ -1661,6 +1686,9 @@ D_\mathrm{KL}(p, q)
 <div id="ref-Williamson_2009_The_philosophy_of_science_and_its_relation">
 <p>Williamson, J. (2009). The philosophy of science and its relation to machine learning. In <em>Scientific Data Mining and Knowledge Discovery</em> (pp. 77&#8211;89). Springer, Berlin, Heidelberg.</p>
 </div>
+<div id="ref-Wolpert_1997_No_free_lunch_theorems_for_optimization">
+<p>Wolpert, D. H. &amp; Macready, W. G. (1997). No free lunch theorems for optimization. <em>IEEE Transactions on Evolutionary Computation</em>, <em>1</em>, 67&#8211;82.</p>
+</div>
 <div id="ref-Zech_1995_Comparing_statistical_data_to_Monte_Carlo">
 <p>Zech, G. (1995). Comparing statistical data to Monte Carlo simulation: Parameter fitting and unfolding. (DESY-95-113). Deutsches Elektronen-Synchrotron (DESY). <a href="https://cds.cern.ch/record/284321" class="uri">https://cds.cern.ch/record/284321</a></p>
 </div>
@@ -1771,29 +1799,30 @@ D_\mathrm{KL}(p, q)
 <li id="fn101"><p><span class="citation">Stahlberg (2019)</span>.<a href="#fnref101">&#8617;</a></p></li>
 <li id="fn102"><p><span class="citation">Church &amp; Hestness (2019)</span>.<a href="#fnref102">&#8617;</a></p></li>
 <li id="fn103"><p><span class="citation">Sutton &amp; Barto (2018)</span>.<a href="#fnref103">&#8617;</a></p></li>
-<li id="fn104"><p><span class="citation">Bahri, Y. et al. (2020)</span>.<a href="#fnref104">&#8617;</a></p></li>
-<li id="fn105"><p><span class="citation">Halverson, Maiti, &amp; Stoner (2020)</span>.<a href="#fnref105">&#8617;</a></p></li>
-<li id="fn106"><p><span class="citation">Smith (2019)</span>.<a href="#fnref106">&#8617;</a></p></li>
-<li id="fn107"><p><span class="citation">Nielsen (2018)</span>.<a href="#fnref107">&#8617;</a></p></li>
-<li id="fn108"><p><span class="citation">Amari (2016)</span>.<a href="#fnref108">&#8617;</a></p></li>
-<li id="fn109"><p><span class="citation">Balasubramanian (1996a)</span>.<a href="#fnref109">&#8617;</a></p></li>
-<li id="fn110"><p><span class="citation">Balasubramanian (1996b)</span>.<a href="#fnref110">&#8617;</a></p></li>
-<li id="fn111"><p><span class="citation">Calin &amp; Udriste (2014)</span>.<a href="#fnref111">&#8617;</a></p></li>
-<li id="fn112"><p><span class="citation">Lei, Luo, Yau, &amp; Gu (2018)</span><a href="#fnref112">&#8617;</a></p></li>
-<li id="fn113"><p><span class="citation">Cohen &amp; Welling (2016)</span>.<a href="#fnref113">&#8617;</a></p></li>
-<li id="fn114"><p><span class="citation">Cranmer, Brehmer, &amp; Louppe (2019)</span>.<a href="#fnref114">&#8617;</a></p></li>
-<li id="fn115"><p><span class="citation">D&#8217;Agnolo &amp; Wulzer (2019)</span>.<a href="#fnref115">&#8617;</a></p></li>
-<li id="fn116"><p><span class="citation">Asch, M. et al. (2018)</span>.<a href="#fnref116">&#8617;</a></p></li>
-<li id="fn117"><p><span class="citation">Anderson (2008)</span>.<a href="#fnref117">&#8617;</a></p></li>
-<li id="fn118"><p><span class="citation">Udrescu &amp; Tegmark (2020)</span>.<a href="#fnref118">&#8617;</a></p></li>
-<li id="fn119"><p><span class="citation">Cranmer, M. et al. (2020)</span>.<a href="#fnref119">&#8617;</a></p></li>
-<li id="fn120"><p><span class="citation">Asch, M. et al. (2018)</span>.<a href="#fnref120">&#8617;</a></p></li>
-<li id="fn121"><p><span class="citation">Korb (2001)</span>.<a href="#fnref121">&#8617;</a></p></li>
-<li id="fn122"><p><span class="citation">Williamson (2009)</span>.<a href="#fnref122">&#8617;</a></p></li>
-<li id="fn123"><p><span class="citation">Bensusan (2000)</span>.<a href="#fnref123">&#8617;</a></p></li>
-<li id="fn124"><p><span class="citation">Perone (2018)</span>.<a href="#fnref124">&#8617;</a></p></li>
-<li id="fn125"><p><span class="citation">Wasserman (2003)</span>.<a href="#fnref125">&#8617;</a></p></li>
-<li id="fn126"><p><span class="citation">Savage (1954)</span>.<a href="#fnref126">&#8617;</a></p></li>
+<li id="fn104"><p><span class="citation">D. H. Wolpert &amp; Macready (1997)</span>.<a href="#fnref104">&#8617;</a></p></li>
+<li id="fn105"><p><span class="citation">Bahri, Y. et al. (2020)</span>.<a href="#fnref105">&#8617;</a></p></li>
+<li id="fn106"><p><span class="citation">Halverson, Maiti, &amp; Stoner (2020)</span>.<a href="#fnref106">&#8617;</a></p></li>
+<li id="fn107"><p><span class="citation">Smith (2019)</span>.<a href="#fnref107">&#8617;</a></p></li>
+<li id="fn108"><p><span class="citation">Nielsen (2018)</span>.<a href="#fnref108">&#8617;</a></p></li>
+<li id="fn109"><p><span class="citation">Amari (2016)</span>.<a href="#fnref109">&#8617;</a></p></li>
+<li id="fn110"><p><span class="citation">Balasubramanian (1996a)</span>.<a href="#fnref110">&#8617;</a></p></li>
+<li id="fn111"><p><span class="citation">Balasubramanian (1996b)</span>.<a href="#fnref111">&#8617;</a></p></li>
+<li id="fn112"><p><span class="citation">Calin &amp; Udriste (2014)</span>.<a href="#fnref112">&#8617;</a></p></li>
+<li id="fn113"><p><span class="citation">Lei, Luo, Yau, &amp; Gu (2018)</span><a href="#fnref113">&#8617;</a></p></li>
+<li id="fn114"><p><span class="citation">Cohen &amp; Welling (2016)</span>.<a href="#fnref114">&#8617;</a></p></li>
+<li id="fn115"><p><span class="citation">Cranmer, Brehmer, &amp; Louppe (2019)</span>.<a href="#fnref115">&#8617;</a></p></li>
+<li id="fn116"><p><span class="citation">D&#8217;Agnolo &amp; Wulzer (2019)</span>.<a href="#fnref116">&#8617;</a></p></li>
+<li id="fn117"><p><span class="citation">Asch, M. et al. (2018)</span>.<a href="#fnref117">&#8617;</a></p></li>
+<li id="fn118"><p><span class="citation">Anderson (2008)</span>.<a href="#fnref118">&#8617;</a></p></li>
+<li id="fn119"><p><span class="citation">Udrescu &amp; Tegmark (2020)</span>.<a href="#fnref119">&#8617;</a></p></li>
+<li id="fn120"><p><span class="citation">Cranmer, M. et al. (2020)</span>.<a href="#fnref120">&#8617;</a></p></li>
+<li id="fn121"><p><span class="citation">Asch, M. et al. (2018)</span>.<a href="#fnref121">&#8617;</a></p></li>
+<li id="fn122"><p><span class="citation">Korb (2001)</span>.<a href="#fnref122">&#8617;</a></p></li>
+<li id="fn123"><p><span class="citation">Williamson (2009)</span>.<a href="#fnref123">&#8617;</a></p></li>
+<li id="fn124"><p><span class="citation">Bensusan (2000)</span>.<a href="#fnref124">&#8617;</a></p></li>
+<li id="fn125"><p><span class="citation">Perone (2018)</span>.<a href="#fnref125">&#8617;</a></p></li>
+<li id="fn126"><p><span class="citation">Wasserman (2003)</span>.<a href="#fnref126">&#8617;</a></p></li>
+<li id="fn127"><p><span class="citation">Savage (1954)</span>.<a href="#fnref127">&#8617;</a></p></li>
 </ol>
 </div>
 
@@ -1818,7 +1847,7 @@ D_\mathrm{KL}(p, q)
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Thu Nov 19, 2020</p>
+    <p>Sat Nov 21, 2020</p>
   </div>
   <div class="license">
     <p>&#169; 2014-2020 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>
