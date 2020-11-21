@@ -970,8 +970,14 @@ to [@eq:cross_entropy_loss3].
     activation over other labels, but we don't do that here.
 
 
+### Decision trees
+
+-   TODO
+
+
 ### Clustering
 
+-   unsupervised
 -   Gaussian Mixture Models (GMMs)
     -   Gaussian discriminant analysis
 -   Generalized Linear Models (GLMs)
