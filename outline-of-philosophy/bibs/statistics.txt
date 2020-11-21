@@ -21,7 +21,8 @@ Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenolog
 Carnap, R. (1947). Probability as a guide in life. *Journal of Philosophy*, 44(6), 141--48.
 Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation. *Natural Language Engineering*, 25(6), 753--767.
 Clopper, C.J. & Pearson, E.S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, 26(4), 404--413.
-Cohen, T. & Welling, M. (2016). Group equivariant convolutional networks. *Proceedings of International Conference on Machine Learning*, 2016, 2990--9. http://proceedings.mlr.press/v48/cohenc16.pdf
+Cohen, T.S. & Welling, M. (2016). Group equivariant convolutional networks. *Proceedings of International Conference on Machine Learning*, 2016, 2990--9. http://proceedings.mlr.press/v48/cohenc16.pdf
+Cohen, T.S., Weiler, M., Kicanaoglu, B., & Welling, M. (2019). Gauge equivariant convolutional networks and the icosahedral CNN. https://arxiv.org/abs/1902.04615
 Cousins, R.D. (2018). Lectures on statistics in theory: Prelude to statistics in practice. https://arxiv.org/abs/1807.05996
 Cowan, G. (1998). *Statistical Data Analysis*. Clarendon Press.
 Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). Asymptotic formulae for likelihood-based tests of new physics. *European Physical Journal C*, 71, 1544. https://arxiv.org/abs/1007.1727

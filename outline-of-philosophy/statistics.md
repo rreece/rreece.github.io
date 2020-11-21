@@ -1181,7 +1181,12 @@ Theoretical machine learning
 
 ### Relationship to gauge theory
 
--   Cohen
+-   Cohen & Welling. (2016). Group equivariant convolutional networks. [^Cohen2016]
+-   Gauge equivariant convolutional networks and the icosahedral CNN (2019) [^Cohen2019]
+-   Pavlus, J. (2020). [An idea from physics helps AI see in higher dimensions](https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/).
+
+[^Cohen2016]: @Cohen_2016_Group_equivariant_convolutional_networks\.
+[^Cohen2019]: @Cohen_2019_Gauge_equivariant_convolutional_networks\.
 
 
 ### Thermodynamics of computation
@@ -1219,10 +1224,8 @@ Information geometry
 ### Geometric understanding of deep learning
 
 -   "Geometric understanding of deep learning" [^Lei2018]
--   Cohen [^Cohen2016]
 -   Gao, Y. & Chaudhari, P. (2020). [An information-geometric distance on the space of tasks](https://arxiv.org/abs/2011.00613).
 
-[^Cohen2016]: @Cohen_2016_Group_equivariant_convolutional_networks\.
 [^Lei2018]: @Lei_2018_Geometric_understanding_of_deep_learning
 
 
