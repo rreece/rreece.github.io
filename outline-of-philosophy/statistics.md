@@ -588,7 +588,7 @@ Systematic uncertainties
     -   [Invariant mass distribution of jet pairs produced in association with a $W$ boson in $p\bar{p}$ collisions at $\sqrt{s}$ = 1.96 TeV](https://www-cdf.fnal.gov/physics/ewk/2011/wjj/7_3.html)
     -   Dorigo, T. (2011). [The jet energy scale as an explanation of the CDF signal](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886).
 
-![Demonstration of sensitivity to the jet energy scale for an alleged excess in $Wjj$ by [Tommaso Dorigo (2011)](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886).](img/AnimatedDijet.gif){#fig:AnimatedDijet}
+![Demonstration of sensitivity to the jet energy scale for an alleged excess in $Wjj$ by [Tommaso Dorigo (2011)](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886) (see also: [GIF](img/AnimatedDijet.gif)).](img/cdf-wjj.png){#fig:cdf-wjj}
 
 -   Faster-than-light neutrinos.
 -   BICEP2 claimed evidence of B-modes in the CMB as evidence of cosmic inflation without accounting for cosmic dust.
@@ -1145,6 +1145,7 @@ Theoretical machine learning
 
 -   David Wolpert and William G. Macready
     -   No free lunch theorems for search (1995)
+    -   The lack of a priori distinctions between learning algorithms (1996) [^Wolpert1996]
     -   No free lunch theorems for optimization (1997) [^Wolpert1997]
     -   McDermott, J. (2019). [When and why metaheuristics researchers can ignore "No Free Lunch" theorems](https://arxiv.org/abs/1906.03280).
 -   Blogs:
@@ -1157,7 +1158,9 @@ Theoretical machine learning
     -   [Ugly duckling theorem](https://en.wikipedia.org/wiki/Ugly_duckling_theorem)
     -   Hamilton, L.D. (2014). [The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms).
 -   Gerhard Schurz
+    -   See also: [Meta-induction as a solution to the problem of induction](scientific-method.html#meta-induction-as-a-solution-to-the-problem-of-induction)
 
+[^Wolpert1996]: @Wolpert_1996_The_lack_of_a_priori_distinctions_between_learning\.
 [^Wolpert1997]: @Wolpert_1997_No_free_lunch_theorems_for_optimization\.
 
 
