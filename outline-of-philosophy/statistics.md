@@ -1129,7 +1129,11 @@ Theoretical machine learning
 
 ### Algorithmic information theory
 
--   Solomonoff
+-   Ray Solomonoff (1926-2009)
+-   Solomonoff induction
+    -   Naturally formalizes Occam's razor
+    -   Incomputable
+
 
 ### No free lunch theorems
 
