@@ -132,4 +132,5 @@ Weisberg, J. (2019). *Odds & Ends: Introducing Probability & Decision with a Vis
 Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62.
 Williamson, J. (2009). The philosophy of science and its relation to machine learning. In *Scientific Data Mining and Knowledge Discovery* (pp. 77-89). Springer, Berlin, Heidelberg.
 Wolpert, D.H. & Macready, W.G. (1997). No free lunch theorems for optimization. *IEEE Transactions on Evolutionary Computation*, 1, 67--82.
+Wolpert, D.H. (1996). The lack of a priori distinctions between learning algorithms. *Neural Computation*, 8, 1341--1390.
 Zech, G. (1995). Comparing statistical data to Monte Carlo simulation: Parameter fitting and unfolding. https://cds.cern.ch/record/284321 [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)]

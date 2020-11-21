@@ -1146,6 +1146,12 @@ Theoretical machine learning
 -   David Wolpert and William G. Macready
     -   No free lunch theorems for search (1995)
     -   No free lunch theorems for optimization (1997) [^Wolpert1997]
+    -   McDermott, J. (2019). [When and why metaheuristics researchers can ignore "No Free Lunch" theorems](https://arxiv.org/abs/1906.03280).
+-   Blogs:
+    -   Fedden, L. (2017). [The no free lunch theorem](https://medium.com/@LeonFedden/the-no-free-lunch-theorem-62ae2c3ed10c).
+    -   Lokesh, M. (2020). [The intuition behind the no free lunch theorem](https://towardsdatascience.com/intuitions-behind-no-free-lunch-theorem-1d160f754513).
+    -   Mueller, A. (2019). [Don't cite the no free lunch theorem](https://peekaboo-vision.blogspot.com/2019/07/dont-cite-no-free-lunch-theorem.html).
+
 -   Inductive bias
     -   Yudkowsky, E. (2007). [Inductive bias](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias). *LessWrong*.
     -   [Ugly duckling theorem](https://en.wikipedia.org/wiki/Ugly_duckling_theorem)
