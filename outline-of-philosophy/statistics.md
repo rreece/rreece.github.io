@@ -856,20 +856,6 @@ Note that in the sum over classes, $k$, only one term for the true class contrib
 
 $$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss2} $$
 
-Again, from a probabilistic point of view, we can derive the use of multi-class cross entropy loss
-by starting with the Bernoulli distribution, generalizing it to multiple classes (indexed by $k$) as
-
-$$ p(y_k | \mu) = \mathrm{Cat}(y_k | \mu_k) = \prod_k {\mu_k}^{y_k} \label{eq:categorical_distribution} $$
-
-which is the categorical or multinoulli distribution.
-The negative-log likelihood of multiple independent trials is
-
-$$ \mathrm{NLL} = - \sum_i \log \left(\prod_k {\mu_{ki}}^{y_{ki}}\right) = - \sum_i \sum_k y_{ki} \: \log \mu_{ki} \label{eq:nll_multinomial} $$
-
-Noting again that $y_{ki} = 1$ only when $k$ is the true class, and is 0 otherwise, this simplifies
-to [@eq:cross_entropy_loss2].
-
-
 Logistic regression uses the **logit function** [^Berkson],
 which is the logarithm of the odds---the ratio of the chance of success to
 failure. Let $\mu$ be the probability of success in a Bernoulli trial,
@@ -914,28 +900,48 @@ $$ \mu = \mathrm{sigm}(z) = \mathrm{sigm}(\vec{w}\trans \vec{x}) $$
 
 ![Logistic regression.](img/logistic-regression.png){#fig:logistic-regression}
 
+See also:
+
 -   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
-    -   Cross entropy loss
-    -   Harlan, W.S. (2007). [Bounded geometric growth: motivation for the logistic function](http://www.billharlan.com/pub/papers/logistic/logistic.html).
-    -   Heesch, D. [A short intro to logistic regression](http://www.daniel-heesch.com/static/softmax_regression.pdf).
-    -   Roelants, P. (2019). [Logistic classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-logistic/).
--   [Multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
-    -   Softmax
-    -   McFadden [^McFadden1973]
-    -   Softmax is really a soft argmax. TODO: find ref.
-    -   Softmax is not unique. There are other squashing functions. [^Blondel2020]
-    -   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
-    -   Gradients from backprop through a softmax
-    -   Goodfellow et al. point out that _any_ negative log-likelihood is a cross entropy
-        between the training data and the probability distribution predicted by the model. [^Goodfellow2016p129] 
+-   Harlan, W.S. (2007). [Bounded geometric growth: motivation for the logistic function](http://www.billharlan.com/pub/papers/logistic/logistic.html).
+-   Heesch, D. [A short intro to logistic regression](http://www.daniel-heesch.com/static/softmax_regression.pdf).
+-   Roelants, P. (2019). [Logistic classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-logistic/).
 
 [^Berkson]: "Logit" was coined by [Joseph Berkson](https://en.wikipedia.org/wiki/Joseph_Berkson) (1899-1982).
-[^Blondel2020]: @Blondel_2020_Learning_with_Fenchel_Young_losses\.
 [^Goodfellow2016p129]: @Goodfellow_2016_Deep_Learning\, p. 129.
-[^McFadden1973]: @McFadden_1973_Conditional_logit_analysis_of_qualitative_choice\.
 [^Murphy2012p21]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 21.
 [^NoteLabelSmoothing]: Note: _Label smoothing_ is a regularization technique that smears the
     activation over other labels, but we don't do that here.
+
+
+### Softmax regression
+
+Again, from a probabilistic point of view, we can derive the use of multi-class cross entropy loss
+by starting with the Bernoulli distribution, generalizing it to multiple classes (indexed by $k$) as
+
+$$ p(y_k | \mu) = \mathrm{Cat}(y_k | \mu_k) = \prod_k {\mu_k}^{y_k} \label{eq:categorical_distribution} $$
+
+which is the categorical or multinoulli distribution.
+The negative-log likelihood of multiple independent trials is
+
+$$ \mathrm{NLL} = - \sum_i \log \left(\prod_k {\mu_{ki}}^{y_{ki}}\right) = - \sum_i \sum_k y_{ki} \: \log \mu_{ki} \label{eq:nll_multinomial} $$
+
+Noting again that $y_{ki} = 1$ only when $k$ is the true class, and is 0 otherwise, this simplifies
+to [@eq:cross_entropy_loss2].
+
+See also:
+
+-   [Multinomial logistic regression](https://en.wikipedia.org/wiki/Multinomial_logistic_regression)
+-   McFadden [^McFadden1973]
+-   Softmax is really a soft argmax. TODO: find ref.
+-   Softmax is not unique. There are other squashing functions. [^Blondel2020]
+-   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
+-   Gradients from backprop through a softmax
+-   Goodfellow et al. point out that _any_ negative log-likelihood is a cross entropy
+    between the training data and the probability distribution predicted by the model. [^Goodfellow2016p129] 
+
+[^McFadden1973]: @McFadden_1973_Conditional_logit_analysis_of_qualitative_choice\.
+[^Blondel2020]: @Blondel_2020_Learning_with_Fenchel_Young_losses\.
 
 
 ### Decision trees
@@ -1078,24 +1084,27 @@ Natural language processing (NLP)
     -   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
 -   Backpropagation through time (BPTT)
 -   Sutskever seq2seq [^Sutskever2014]
--   GNMT
+-   Bahdanau attention [^Bahdanau2015] and GNMT [^Wu2016]
 -   Review by Stahlberg [^Stahlberg2019]
 -   Rationalism and empiricism in artificial intellegence:
     A survey of 25 years of evaluation [in NLP]. [^Church2019]
--   Transformer
+-   Transformer [^Vaswani2017]
 -   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
 -   GPT-1, 2, 3
 
+[^Bahdanau2015]: @Bahdanau_2015_Neural_machine_translation_by_jointly_learning\.
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
 [^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
+[^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.
+[^Wu2016]: @Wu_2016_Googles_neural_machine_translation_system\.
 
 
 ### Reinforcement learning
 
--   AlphaGo
 -   Sutton & Barto [^Sutton2018]
+-   AlphaGo
 
 [^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
 
@@ -1146,7 +1155,7 @@ Theoretical machine learning
 -   Logistic/softmax and Boltzman factors
 -   Bahri [^Bahri2020]
 -   Halverson [^Halverson2020]
--   Canatar, A., Bordelon, B., & Pehlevan, C. [Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks](https://arxiv.org/abs/2006.13198).
+-   Canatar, A., Bordelon, B., & Pehlevan, C. (2020). [Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks](https://arxiv.org/abs/2006.13198).
 
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
 [^Halverson2020]: @Halverson_2020_Neural_networks_and_quantum_field_theory\.
