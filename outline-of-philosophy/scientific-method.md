@@ -849,6 +849,8 @@ Sagan:
     -   Madsen, M.E. (2017). [The real core of the scientific method and why we should trust it](http://notebook.madsenlab.org/essays/2017/06/23/core-scientific-method.html).
     -   Nola [^Nola1999]
     -   Nola & Sankey [^Nola2007pXXX]
+-   Schurz
+    -   New foundationalist epistemology [^Schurz2019pX]
 -   Scientism
     -   Scientism: Scientific methods and meta-methods are universally applicable (in principle).
     -   See the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
@@ -857,6 +859,7 @@ Sagan:
 [^Nola2007p5]: @Nola_2007_Theories_of_Scientific_Method\, p. 5.
 [^Nola2007p6]: @Nola_2007_Theories_of_Scientific_Method\, p. 6.
 [^Nola2007pXXX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
+[^Schurz2019pX]: @Schurz_2019_Humes_Problem_Solved_The_opptimality_of_meta_\, p. X.
 
 
 Models in science
