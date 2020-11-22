@@ -59,6 +59,7 @@ Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambri
 Halverson, J., Maiti, A., & Stoner, K. (2020). Neural networks and quantum field theory. https://arxiv.org/abs/2008.08601
 Hanley, J.A. & Lippman-Hand, A. (1983). If nothing goes wrong, is everything all right?: Interpreting zero numerators. *JAMA*, 249(13), 1743--1745.
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
+He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image recognition. https://arxiv.org/abs/1512.03385
 Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation*, 9(8), 1735--1780.
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
 Ioannidis, J.P. (2005). Why most published research findings are false. *PLOS Medicine*, 2(8), 696--701.
@@ -110,6 +111,7 @@ Salmon, W.C. (1991). Hans Reichenbach's vindication of induction. *Erkenntnis*, 
 Salsburg, D. (2001). *The Lady Tasting Tea*. Holt.
 Savage, L.J. (1954). *The Foundations of Statistics*. John Wiley & Sons.
 Sellars, W. (1964). Induction as vindication. *Philosophy of Science*, 31, 197--231.
+Simonyan, K. & Zisserman, A. (2014). Very deep convolutional networks for large-scale image recognition. https://arxiv.org/abs/1409.1556
 Sinervo, P. (2002). Signal significance in particle physics. In Whalley, M.R. & Lyons, L. (Eds.), *Proceedings of the Conference on Advanced Statistical Techniques in Particle Physics*. Durham, UK: Institute of Particle Physics Phenomenology. https://arxiv.org/abs/hep-ex/0208005v1
 Sinervo, P. (2003). Definition and treatment of systematic uncertainties in high energy physics and astrophysics. In Lyons, L., & Mount, R., & Reitmeyer, R. (Eds.), *Proceedings of the Conference on Statistical Problems in Particle Physics, Astrophysics, and Cosmology (PhyStat2003)* (pp. 122--129). Stanford Linear Accelerator Center. https://www.slac.stanford.edu/econf/C030908/papers/TUAT004.pdf
 Smith, L. (2019). A gentle introduction to information geometry. http://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html [September 27, 2019]
