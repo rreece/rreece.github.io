@@ -1065,13 +1065,14 @@ Computer Vision (CV)
 -   Fukushima: neocognitron [^Fukushima1982]
 -   LeCun: OCR with backpropagation [^LeCun1989]
 -   LeCun: LeNet-5 [^LeCun1998]
--   Ciresan: MCDNN
+-   Ciresan: MCDNN [^Ciresan2012]
 -   Krizhevsky, Sutskever, and Hinton: AlexNet [^Krizhevsky2012]
 -   VGG [^Simonyan2014]
 -   ResNet [^He2015]
 -   MobileNet [^Howard2017]
 -   EfficientNet [^Tan2019]
 
+[^Ciresan2012]: @Ciresan_2012_Multi_column_deep_neural_network_for_traffic_sign\.
 [^Fukushima1982]: @Fukushima_1982_Neocognitron_A_new_algorithm_for_pattern\.
 [^He2015]: @He_2015_Deep_residual_learning_for_image_recognition\.
 [^Howard2017]: @Howard_2017_MobileNets_Efficient_convolutional_neural\.
@@ -1129,7 +1130,7 @@ Theoretical machine learning
 ### No free lunch theorems
 
 -   David Wolpert and William G. Macready
-    -   No free lunch theorems for search (1995)
+    -   No free lunch theorems for search (1995) [^Wolpert1995]
     -   The lack of a priori distinctions between learning algorithms (1996) [^Wolpert1996]
     -   No free lunch theorems for optimization (1997) [^Wolpert1997]
     -   McDermott, J. (2019). [When and why metaheuristics researchers can ignore "No Free Lunch" theorems](https://arxiv.org/abs/1906.03280).
@@ -1145,6 +1146,7 @@ Theoretical machine learning
 -   Gerhard Schurz
     -   See also: [Meta-induction as a solution to the problem of induction](scientific-method.html#meta-induction-as-a-solution-to-the-problem-of-induction)
 
+[^Wolpert1995]: @Wolpert_1995_No_free_lunch_theorems_for_search\.
 [^Wolpert1996]: @Wolpert_1996_The_lack_of_a_priori_distinctions_between_learning\.
 [^Wolpert1997]: @Wolpert_1997_No_free_lunch_theorems_for_optimization\.
 
