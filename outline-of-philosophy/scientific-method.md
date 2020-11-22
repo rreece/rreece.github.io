@@ -491,6 +491,14 @@ Hume:
 >   and probabilities---by proofs meaning such arguments from experience as
 >   leave no room for doubt or opposition. [^Hume2007p56]
 
+Hume:
+
+>   Even after the observation of the frequent conjunction of objects,
+>   we have no reason to draw any inference concerning any object beyond those
+>   of which we have had experience.
+
+--  David Hume, in A Treatise of Human Nature, Book I, part 3, Section 12.
+
 -   Hume and the problem of induction [^Hume2007pXX]
     -   Uniformity of nature
     -   Humeanism
