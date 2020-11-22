@@ -1062,20 +1062,24 @@ Papers:
 
 Computer Vision (CV)
 
--   Fukushima: neocognitron
+-   Fukushima: neocognitron [^Fukushima1982]
 -   LeCun: OCR with backpropagation [^LeCun1989]
 -   LeCun: LeNet-5 [^LeCun1998]
 -   Ciresan: MCDNN
 -   Krizhevsky, Sutskever, and Hinton: AlexNet [^Krizhevsky2012]
 -   VGG [^Simonyan2014]
 -   ResNet [^He2015]
--   EfficientNet, MobileNet
+-   MobileNet [^Howard2017]
+-   EfficientNet [^Tan2019]
 
-[^He2015]: HERE
+[^Fukushima1982]: @Fukushima_1982_Neocognitron_A_new_algorithm_for_pattern\.
+[^He2015]: @He_2015_Deep_residual_learning_for_image_recognition\.
+[^Howard2017]: @Howard_2017_MobileNets_Efficient_convolutional_neural\.
 [^Krizhevsky2012]: @Krizhevsky_2012_ImageNet_classification_with_deep_convolutional\.
 [^LeCun1989]: @LeCun_1989_Backpropagation_applied_to_handwritten_zip_code\.
 [^LeCun1998]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
 [^Simonyan2014]: @Simonyan_2014_Very_deep_convolutional_networks_for_large_scale\.
+[^Tan2019]: @Tan_2019_EfficientNet_Rethinking_model_scaling\.
 
 
 ### Natural language processing
