@@ -1002,6 +1002,7 @@ Poincar&eacute;:
 
 -   I found the above quotes in a talk by Arthur Fine, video: [Structural Realism, Then & Now](https://www.youtube.com/watch?v=0tb4_kFHwO4).
 -   John Worrall
+-   Dennett, D. (1991). Real Patterns.
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)

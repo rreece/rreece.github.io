@@ -816,38 +816,59 @@ Classical machine learning
 
 ### Logistic regression
 
-TODO: Describe the setup of logistic regression for classification.
-Binary classification.
-
 From a probabilistic point of view, [^Murphy2012p21]
 logistic regression can be derived from doing maximum likelihood
-with a Bernoulli random variable, $y \in \{0, 1\}$, with a probability
-$\mu$ that $y = 1$.
+estimation of a vector of model parameters, $\vec{w}$, in a dot product
+with the input features, $\vec{x}$, and squashed with a logistic
+function that yields the probability, $\mu$, of a Bernoulli random variable, $y \in \{0, 1\}$.
+
+$$ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y | \mu(\vec{x}, \vec{w})) = \mu(\vec{x}, \vec{w})^y \: (1-\mu(\vec{x}, \vec{w}))^{(1-y)} $$
+
 The negative log-likelihood of multiple trials is
 
 \begin{align}
 \mathrm{NLL}
-    &= - \sum_i \log p(y_i | \mu) \nonumber \\
+    &= - \sum_i \log p(y_i | \vec{x}_i, \vec{w}) \nonumber \\
+    &= - \sum_i \log\left( \mu(\vec{x}_i, \vec{w})^{y_i} \: (1-\mu(\vec{x}_i, \vec{w}))^{(1-y_i)} \right) \nonumber \\
     &= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \nonumber \\
-    &= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss} \\
+    &= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss0}
 \end{align}
 
 which is the **cross entropy loss**.
 Note that the first term is non-zero only when the true target is $y_i=1$,
-and similarly the second term is non-zero only when  $y_i=0$.
-Let us reparametrize the problem in terms of multiple Bernoulli means, $\mu_k$,
-where we constrain the total mean probability over classes to be normalized
-by defining $\mu_2 = 1 - \mu_1$ and $y_2 = 1 - y_1$, then
+and similarly the second term is non-zero only when  $y_i=0$. [^NoteLabelSmoothing]
+Therefore, we can reparametrize the target $y_i$ in favor of $t_{ki}$ that
+is one-hot in an index $k$ over classes.
 
-$$ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( y_{ki} \, \log \mu_{ki} \big) \label{eq:cross_entropy_loss2} $$
+$$ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ki} \, \log \mu_{ki} \big) \label{eq:cross_entropy_loss1} $$
 
-This readily generalizes from binary classification to classification over many classes,
-where now we have an activation, $\mu_k$, for each class.
-In the sum over classes, $k$, only one term for the true class contributes [^NoteLabelSmoothing]
+where
 
-$$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_{ki}=1} \label{eq:cross_entropy_loss3} $$
+$$ t_{ki} = \begin{cases} 1 & \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i = 1) \\ 0 & \mathrm{otherwise} \end{cases} $$
 
-----------
+and
+
+$$ \mu_{ki} = \begin{cases} 1-\mu_i & \mathrm{if}\ k = 0 \\ \mu_i & \mathrm{if}\ k =1 \end{cases} $$
+
+This readily generalizes from binary classification to classification over many classes
+as we will discuss more below.
+Note that in the sum over classes, $k$, only one term for the true class contributes.
+
+$$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss2} $$
+
+Again, from a probabilistic point of view, we can derive the use of multi-class cross entropy loss
+by starting with the Bernoulli distribution, generalizing it to multiple classes (indexed by $k$) as
+
+$$ p(y_k | \mu) = \mathrm{Cat}(y_k | \mu_k) = \prod_k {\mu_k}^{y_k} \label{eq:categorical_distribution} $$
+
+which is the categorical or multinoulli distribution.
+The negative-log likelihood of multiple independent trials is
+
+$$ \mathrm{NLL} = - \sum_i \log \left(\prod_k {\mu_{ki}}^{y_{ki}}\right) = - \sum_i \sum_k y_{ki} \: \log \mu_{ki} \label{eq:nll_multinomial} $$
+
+Noting again that $y_{ki} = 1$ only when $k$ is the true class, and is 0 otherwise, this simplifies
+to [@eq:cross_entropy_loss2].
+
 
 Logistic regression uses the **logit function** [^Berkson],
 which is the logarithm of the odds---the ratio of the chance of success to
@@ -892,59 +913,6 @@ And therefore,
 $$ \mu = \mathrm{sigm}(z) = \mathrm{sigm}(\vec{w}\trans \vec{x}) $$
 
 ![Logistic regression.](img/logistic-regression.png){#fig:logistic-regression}
-
-From a probabilistic point of view, [^Murphy2012p21]
-logistic regression can be derived from doing maximum likelihood
-estimation of a vector of model parameters, $\vec{w}$, in a dot product
-with the input features, $\vec{x}$, and squashed with a logistic
-function that yields the probability, $\mu$, of a Bernoulli random variable, $y \in \{0, 1\}$.
-
-$$ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y | \mu(\vec{x}, \vec{w})) = \mu(\vec{x}, \vec{w})^y \: (1-\mu(\vec{x}, \vec{w}))^{(1-y)} $$
-
-The negative log-likelihood of multiple trials is
-
-\begin{align}
-\mathrm{NLL}
-    &= - \sum_i \log p(y_i | \vec{x}_i, \vec{w}) \nonumber \\
-    &= - \sum_i \log\left( \mu(\vec{x}_i, \vec{w})^{y_i} \: (1-\mu(\vec{x}_i, \vec{w}))^{(1-y_i)} \right) \nonumber \\
-    &= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \nonumber \\
-    &= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big)
-\end{align}
-
-which is the **cross entropy loss**.
-Note that the first term is non-zero only when the true target is $y_i=1$,
-and similarly the second term is non-zero only when  $y_i=0$.
-Therefore, we can reparametrize the target $y_i$ in favor of $t_{ki}$ that
-is one-hot in an index $k$ over classes.
-
-$$ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ki} \, \log \mu_{ki} \big) \label{eq:cross_entropy_loss2} $$
-
-where
-
-$$ t_{ki} = \begin{cases} 1 & \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i = 1) \\ 0 & \mathrm{otherwise} \end{cases} $$
-
-and
-
-$$ \mu_{ki} = \begin{cases} 1-\mu_i & \mathrm{if}\ k = 0 \\ \mu_i & \mathrm{if}\ k =1 \end{cases} $$
-
-This readily generalizes from binary classification to classification over many classes
-as we will discuss more below.
-Note that in the sum over classes, $k$, only one term for the true class contributes.
-
-$$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss3} $$
-
-Again, from a probabilistic point of view, we can derive the use of multi-class cross entropy loss
-by starting with the Bernoulli distribution, generalizing it to multiple classes (indexed by $k$) as
-
-$$ p(y_k | \mu) = \mathrm{Cat}(y_k | \mu_k) = \prod_k {\mu_k}^{y_k} \label{eq:categorical_distribution} $$
-
-which is the categorical or multinoulli distribution.
-The negative-log likelihood of multiple independent trials is
-
-$$ \mathrm{NLL} = - \sum_i \log \left(\prod_k {\mu_{ki}}^{y_{ki}}\right) = - \sum_i \sum_k y_{ki} \: \log \mu_{ki} \label{eq:nll_multinomial} $$
-
-Noting again that $y_{ki} = 1$ only when $k$ is the true class, and is 0 otherwise, this simplifies
-to [@eq:cross_entropy_loss3].
 
 -   [Logistic regression](https://en.wikipedia.org/wiki/Logistic_regression)
     -   Cross entropy loss
@@ -1095,6 +1063,7 @@ Computer Vision (CV)
 -   Krizhevsky, Sutskever, and Hinton: AlexNet [^Krizhevsky2012]
 -   VGG
 -   ResNet
+-   EfficientNet, MobileNet
 
 [^Krizhevsky2012]: @Krizhevsky_2012_ImageNet_classification_with_deep_convolutional\.
 [^LeCun1989]: @LeCun_1989_Backpropagation_applied_to_handwritten_zip_code\.
@@ -1109,6 +1078,7 @@ Natural language processing (NLP)
     -   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
 -   Backpropagation through time (BPTT)
 -   Sutskever seq2seq [^Sutskever2014]
+-   GNMT
 -   Review by Stahlberg [^Stahlberg2019]
 -   Rationalism and empiricism in artificial intellegence:
     A survey of 25 years of evaluation [in NLP]. [^Church2019]
