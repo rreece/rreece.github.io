@@ -1165,14 +1165,35 @@ Other stuff:
 #### Epicureanism
 
 -   [Epicureanism](https://en.wikipedia.org/wiki/Epicureanism)
+-   [Hedonism](https://en.wikipedia.org/wiki/Hedonism)
 -   [Aristippus](https://en.wikipedia.org/wiki/Aristippus) (435-356 BCE)
 -   [Cyrenaic school](https://en.wikipedia.org/wiki/Cyrenaics)
+    -   [Hegesias of Cyrene](https://en.wikipedia.org/wiki/Hegesias_of_Cyrene) (fl. 290 BCE)
+        -   was probably influenced by the teachings of the Buddhist missionaries to Cyrene and Alexandria
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
+    -   Founded his "Garden" in Athens
+    -   "Stranger, you would do good to stay a while, for here the highest good is pleasure."
+    -   Following Democritus: Everything is made of atoms in a void.
 -   [Lucretius](https://en.wikipedia.org/wiki/Lucretius) (c. 99-55 BCE)
--   Epictetus, *Discourses*, 2.20
--   Pigliucci, M. (2019). [Epic battles in practical ethics: Stoicism vs Epicureanism](https://medium.com/stoicism-philosophy-as-a-way-of-life/epic-battles-in-practical-ethics-stoicism-vs-epicureanism-dc124e8dc9). [^Pigliucci2019]
+    -   *On The Nature of Things*
 -   TODO: Compare and contrast Epicureanism and Stoicism.
+    -   Epictetus, *Discourses*, 2.20
+    -   Pigliucci, M. (2019). [Epic battles in practical ethics: Stoicism vs Epicureanism](https://medium.com/stoicism-philosophy-as-a-way-of-life/epic-battles-in-practical-ethics-stoicism-vs-epicureanism-dc124e8dc9). [^Pigliucci2019]
 
+>   [T]he virtues for Epicurus are all purely instrumental goods---that is,
+>   they are valuable solely for the sake of the happiness that they can bring
+>   oneself, not for their own sake. Epicurus says that all of the virtues are
+>   ultimately forms of prudence, of calculating what is in one's own best
+>   interest. In this, Epicurus goes against the majority of Greek ethical
+>   theorists, such as the Stoics, who identify happiness with virtue, and
+>   Aristotle, who identifies happiness with a life of virtuous activity.
+>   Epicurus thinks that natural science and philosophy itself also are
+>   instrumental goods. Natural science is needed in order to give mechanistic
+>   explanations of natural phenomena and thus dispel the fear of the gods,
+>   while philosophy helps to show us the natural limits of our desires and
+>   to dispel the fear of death. [^OKeefe]
+
+[^OKeefe]: O'Keefe, T. [Epicurus](https://plato.stanford.edu/entries/epicurus). *Internet Encyclopedia of Philosophy*.
 [^Pigliucci2019]: @Pigliucci_2019_Epic_battles_in_practical_ethics_Stoicism_vs\.
 
 #### Pyrrhonism
@@ -1263,6 +1284,7 @@ Comparitive studies
         met Indian ascetics, and Diogenes brought Indian ascetic practices to Greece. [^McEvilley2002p10]
     -   McEvilley also notes a story recorded by Eusebius quoting Aristoxenus
         that [Socrates was visited in Athens by an Indian yogi](https://varnam.org/2012/11/the-yogi-who-met-socrates/).
+    -   TODO: Hegesias of Cyrene
 -    [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
     -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
 
@@ -1769,10 +1791,12 @@ Click to show links
 -   [Daoism](https://plato.stanford.edu/entries/daoism/)
 -   [de Beauvoir, Simone (1908-1986)](https://plato.stanford.edu/entries/beauvoir/)
 -   [Epictetus (55-135)](http://plato.stanford.edu/entries/epictetus/)
+-   [Epicurus (341-270 BCE)](https://plato.stanford.edu/entries/epicurus/)
 -   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
 -   [Existentialist aesthetics](http://plato.stanford.edu/entries/aesthetics-existentialist/)
 -   [Forgiveness](https://plato.stanford.edu/entries/forgiveness/)
 -   [Friendship](https://plato.stanford.edu/entries/friendship/)
+-   [Hedonism](https://plato.stanford.edu/entries/hedonism/)
 -   [Heidegger, Martin (1889-1976)](https://plato.stanford.edu/entries/heidegger/)
 -   [Japanese Philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)
 -   [Japanese Confucian Philosophy](https://plato.stanford.edu/entries/japanese-confucian/)
@@ -1797,8 +1821,10 @@ Click to show links
 -   [Aurelius, Marcus (121-180)](http://www.iep.utm.edu/marcus/)
 -   [Buddha](http://www.iep.utm.edu/buddha/)
 -   [Epictetus (55-135)](http://www.iep.utm.edu/epictetu/)
+-   [Epicurus (341-270 BCE)](https://iep.utm.edu/epicur/)
 -   [Egoism](http://www.iep.utm.edu/egoism/)
 -   [Existentialism](http://www.iep.utm.edu/existent/)
+-   [Hedonism](https://iep.utm.edu/hedonism/)
 -   [Heidegger, Martin (1889-1976)](https://www.iep.utm.edu/heidegge/)
 -   [Kierkegaard, S&oslash;ren (1813-1855)](https://plato.stanford.edu/entries/kierkegaard/)
 -   [Lucretius (c. 99-55 BCE)](https://www.iep.utm.edu/lucretiu/)
@@ -1860,6 +1886,7 @@ Click to show links
 -   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism)
 -   [Ego death](https://en.wikipedia.org/wiki/Ego_death)
 -   [Epictetus (55-135)](https://en.wikipedia.org/wiki/Epictetus)
+-   [Epicurus (341-270 BCE)](https://en.wikipedia.org/wiki/Epicurus)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
 -   [Euthyphro dilemma](https://en.wikipedia.org/wiki/Euthyphro_dilemma)
 -   [Existentialism](http://en.wikipedia.org/wiki/Existentialism)
@@ -1870,6 +1897,8 @@ Click to show links
 -   [Great Divergence](https://en.wikipedia.org/wiki/Great_Divergence)
 -   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
 -   [Heart Sutra](https://en.wikipedia.org/wiki/Heart_Sutra)
+-   [Hedonism](https://en.wikipedia.org/wiki/Hedonism)
+-   [Hegesias of Cyrene (fl. 290 BCE)](https://en.wikipedia.org/wiki/Hegesias_of_Cyrene)
 -   [Heidegger, Martin (1889-1976)](https://en.wikipedia.org/wiki/Martin_Heidegger)
 -   [Heraclitus (c. 535-475 BCE)](https://en.wikipedia.org/wiki/Heraclitus)
 -   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)

@@ -159,7 +159,7 @@ Riepe on the characteristics of naturalism in Indian thought:
 >   2.  The naturalist believes that knowledge is not esoteric, innate, or intuitive (mystical).
 >   3.  The naturalist believes that the external world, of which man is an integral part, is objective
 >       and hence not "his idea" but an existent apart from his, your, or anyone's consciousness.
->   4.  The naturalist believes that hte world minifests order and regularity and that,
+>   4.  The naturalist believes that the world minifests order and regularity and that,
 >       contrary to some opinion, this does not exclude human responsibility.
 >       This order cannot be changed merely by thought, magic, sacrifice, or prayer,
 >       but requires an actual manipulation of the external world in some physical way.
@@ -303,6 +303,7 @@ Monism and physicalism
 -   Materialism/physicalism/functionalism
 -   Alyssa Ney
 -   Part of methodological naturalism, but also a result of empirical confirmation.
+-   Limits on deviations in $\alpha_\mathrm{EM}$
 -   See the [Outline on Philosophy of mind](mind.html).
 
 ![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
