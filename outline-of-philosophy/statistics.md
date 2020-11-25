@@ -1085,7 +1085,7 @@ Computer Vision (CV)
 
 ### Natural language processing
 
-Natural language processing (NLP)
+Natural Language Processing (NLP)
 
 -   RNNs and LSTMs
     -   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
@@ -1096,12 +1096,19 @@ Natural language processing (NLP)
 -   Rationalism and empiricism in artificial intellegence:
     A survey of 25 years of evaluation [in NLP]. [^Church2019]
 -   Transformer [^Vaswani2017]
+-   BERT [^Devlin2018]
 -   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
--   GPT-1, 2, 3
+-   ALBERT [^Lan2019]
+-   GPT-1 [^Radford2018], 2 [^Radford2019], 3 [^Brown2020]
 
 [^Bahdanau2015]: @Bahdanau_2015_Neural_machine_translation_by_jointly_learning\.
+[^Brown2020]: @Brown_2020_Language_models_are_few_shot_learners\.
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
+[^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
+[^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
+[^Radford2018]: @Radford_2018_Improving_language_understanding_by_generative\.
+[^Radford2019]: @Radford_2019_Language_models_are_unsupervised_multitask\.
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
 [^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
 [^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.
