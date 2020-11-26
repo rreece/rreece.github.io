@@ -1558,12 +1558,12 @@ Maudlin:
 >   Seek the truth with an open mind. And it's worthwhile reflecting
 >   what a truth-seeking enterprise looks like.
 
-Plato:
+Plato, *Apology*:
 
 >   This man among you, mortals, is wisest who, like Socrates, understands
->   that his wisdom is worthless.
+>   that his wisdom is worthless. [^Apology23b]
 
-Plato:
+Plato, *Meno*:
 
 >   Meno: Somehow, Socrates, I think that what you say is right.
 >
