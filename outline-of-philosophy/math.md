@@ -138,10 +138,20 @@ Logic
     -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
     -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
 
+
 ### Propositional logic
 
 -   AKA propositional calculus and zeroth-order logic
 -   TODO: basic examples in propositional logic
+
+
+### Set theory
+
+-   Membership: Axiom of extensionality
+-   Axiom of unrestricted comprehension and Naive Set Theory
+-   Russell's paradox
+-   Axiom schema of specification AKA Axiom of restricted comprehension
+-   Zermelo-Fraenkel set theory + Axiom of choice (ZFC)
 
 
 ### First-order logic
@@ -197,6 +207,8 @@ Model theory
 -   Carnap
 -   Traski
 -   [model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
+-   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
+    -   See also: [Formal epistemology](scientific-method.html#formal-epistemology)
 
 
 ### Incompleteness
@@ -255,6 +267,7 @@ Unification programs
 -   [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
 -   Category theory
+    -   [Univalent foundations](https://en.wikipedia.org/wiki/Univalent_foundations)
 
 Yanofsky, N.S. (2016). Why mathematics works so well:
 
@@ -599,6 +612,7 @@ Click to show links
 -   [Fictionalism](http://plato.stanford.edu/entries/fictionalism/)
 -   [Fictionalism in the philosophy of mathematics](http://plato.stanford.edu/entries/fictionalism-mathematics/)
 -   [First-order model theory](https://plato.stanford.edu/entries/modeltheory-fo/)
+-   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
 -   [Frege, Gottlob (1848-1925)](http://plato.stanford.edu/entries/frege/)
 -   [Frege-Hilbert controversy](http://plato.stanford.edu/entries/frege-hilbert/)
 -   [Frege's theorem and foundations for arithmetic](http://plato.stanford.edu/entries/frege-theorem/)

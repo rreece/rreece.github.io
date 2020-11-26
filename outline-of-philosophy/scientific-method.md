@@ -383,15 +383,14 @@ TODO: find the above quote from Locke.
 Analytic/synthetic distinction
 --------------------------------------------------------------------------------
 
-### Definitions
+### Introduction
 
 -   Locke
     -   *An Essay Concerning Human Understanding* (1689)
 -   Kant
     -   *Critique of Pure Reason* (1781)
--   Carnap
-    -   Empiricism semantics and ontology [^Carnap1950a]
-    -   internal vs external questions
+    -   TODO: 2x2 figure *a priori/a posteriori* vs analytic/synthetic.
+    -   Are there synthetic a priori statements? Kant thinks so.
 
 Kant in his *Critique of Pure Reason* (1781):
 
@@ -412,13 +411,21 @@ Kant in his *Critique of Pure Reason* (1781):
 >   thought in that concept at all and could not have been extracted from it
 >   by any dissection. [^Kant1996pB10]
 
-TODO: 2x2 figure *a priori/a posteriori* vs analytic/synthetic.
-
--   Are there synthetic a priori statements?
-    -   Kant thinks so.
+-   Carnap
+    -   Empiricism semantics and ontology [^Carnap1950a]
+    -   internal vs external questions
+-   Papineau
+    -   *Philosophical Devices* (2012) [^Papineau2012]
 
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Kant1996pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
+[^Papineau2012]: @Papineau_2012_Philosophical_Devices_Proofs_Probabilities\.
+
+
+### Formal epistemology
+
+-   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology)
+-   See also: [Model theory](math.html#model-theory)
 
 
 ### Criticisms
@@ -1270,6 +1277,7 @@ Click to show links
 -   [Scientific explanation](http://plato.stanford.edu/entries/scientific-explanation/)
 -   [Scientific method](http://plato.stanford.edu/entries/scientific-method/)
 -   [Skepticism](http://plato.stanford.edu/entries/skepticism/)
+-   [Socrates (469-399 BCE)](https://plato.stanford.edu/entries/socrates/)
 -   [Spinoza, Baruch (1632-1677)](http://plato.stanford.edu/entries/spinoza/)
 -   [Statistics, Philosophy of](http://plato.stanford.edu/entries/statistics/)
 -   [Thought experiments](http://plato.stanford.edu/entries/thought-experiment/)
@@ -1303,6 +1311,7 @@ Click to show links
 -   [Simplicity in the philosophy of science](http://www.iep.utm.edu/simplici/)
 -   [Skepticism, Ancient Greek](http://www.iep.utm.edu/skepanci/)
 -   [Skepticism, Contemporary](http://www.iep.utm.edu/skepcont/)
+-   [Socrates (469-399 BCE)](https://iep.utm.edu/socrates/)
 -   [Spinoza, Baruch (1632-1677): Metaphysics](http://www.iep.utm.edu/spinoz-m/)
 -   [Thales of Miletus (c. 624/623-548/545 BCE)](https://www.iep.utm.edu/thales/)
 -   [William of Ockham (1280-1349)](http://www.iep.utm.edu/ockham/)
@@ -1451,6 +1460,7 @@ Click to show links
 -   [Scientific method](http://en.wikipedia.org/wiki/Scientific_method)
 -   [Scientism](http://en.wikipedia.org/wiki/Scientism)
 -   [Skepticism, Philosophical](http://en.wikipedia.org/wiki/Philosophical_skepticism)
+-   [Socrates (469-399 BCE)](https://en.wikipedia.org/wiki/Socrates)
 -   [Somerville, Mary (1780-1729)](https://en.wikipedia.org/wiki/Mary_Somerville)
 -   [Spinoza, Baruch (1632-1677)](http://en.wikipedia.org/wiki/Baruch_Spinoza)
 -   [Statistical classification](http://en.wikipedia.org/wiki/Statistical_classification)

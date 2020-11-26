@@ -1560,6 +1560,11 @@ Maudlin:
 
 Plato:
 
+>   This man among you, mortals, is wisest who, like Socrates, understands
+>   that his wisdom is worthless.
+
+Plato:
+
 >   Meno: Somehow, Socrates, I think that what you say is right.
 >
 >   Socrates: I think so too, Meno. I do not insist that my argument is right
@@ -1570,8 +1575,7 @@ Plato:
 >   to find out what we do not know and that we must not look for
 >   it. [^Meno86c]
 
--   Plato's *Apology*
-
+[^Apology23b]: Plato, *Apology* 23b, @Cooper_1997_Plato_Complete_works\, p. 22.
 [^Meno86c]: Plato, *Meno* 86c, @Cooper_1997_Plato_Complete_works\, p. 886.
 
 
@@ -1808,6 +1812,7 @@ Click to show links
 -   [Religious Experience](https://plato.stanford.edu/entries/religious-experience/)
 -   [Sartre, Jean-Paul (1905-1980)](https://plato.stanford.edu/entries/sartre/)
 -   [Seneca (4 BCE - 65 CE)](http://plato.stanford.edu/entries/seneca/)
+-   [Socrates (469-399 BCE)](https://plato.stanford.edu/entries/socrates/)
 -   [Stoicism](http://plato.stanford.edu/entries/stoicism/)
 -   [Suicide](http://plato.stanford.edu/entries/suicide/)
 -   [Two truths doctrine](https://plato.stanford.edu/entries/twotruths-india/)
@@ -1833,6 +1838,7 @@ Click to show links
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](http://www.iep.utm.edu/plato/)
 -   [Pyrrho (c. 360-270 BCE)](https://iep.utm.edu/pyrrho/)
 -   [Sartre, Jean-Paul (1905-1980): Existentialism](https://www.iep.utm.edu/sartre-ex/)
+-   [Socrates (469-399 BCE)](https://iep.utm.edu/socrates/)
 -   [Stoicism](http://www.iep.utm.edu/stoicism/)
 -   [Stoic ethics](http://www.iep.utm.edu/stoiceth/)
 -   [Vasubandhu](https://www.iep.utm.edu/vasubandhu/) (fl. 4th to 5th century CE)
@@ -1937,6 +1943,7 @@ Click to show links
 -   [Seneca (4 BCE - 65 CE)](https://en.wikipedia.org/wiki/Seneca_the_Younger)
 -   [Shinto](https://en.wikipedia.org/wiki/Shinto)
 -   [Siddhartha Gautama Buddha (c. 480-400 BCE)](https://en.wikipedia.org/wiki/Gautama_Buddha)
+-   [Socrates (469-399 BCE)](https://en.wikipedia.org/wiki/Socrates)
 -   [Stirner, Max (1806-1856)](https://en.wikipedia.org/wiki/Max_Stirner)
 -   [Stoicism](https://en.wikipedia.org/wiki/Stoicism)
 -   [Stoicism, Modern](https://en.wikipedia.org/wiki/Modern_Stoicism)
