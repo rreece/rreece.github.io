@@ -131,7 +131,7 @@ Logic
     -   logico-deductive method founded by Euclid's *Elements*
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
 -   [Frege, Gottlob (1848-1925)](https://en.wikipedia.org/wiki/Gottlob_Frege)
-    -   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift)
+    -   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift) (1879)
 -   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
     -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
     -   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
@@ -158,15 +158,16 @@ Logic
 
 -   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
 -   AKA predicate logic
--   quantification
 -   domain of discourse
+-   quantification
 -   consistency, validity, completeness, soundness, expressivity
 
 
 ### Second-order logic
 
 -   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
--   extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
+-   Includes relation variables in addition to object variables and allows quantification over both.
+    -   Extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
 -   Michael Dummett
 -   Setwart Shapiro
     -   *Foundations without Foundationalism: A Case for Second-Order Logic* (1991) [^Shapiro1991]

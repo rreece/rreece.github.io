@@ -387,6 +387,7 @@ Analytic/synthetic distinction
 
 -   Locke
     -   *An Essay Concerning Human Understanding* (1689)
+-   Hume's fork
 -   Kant
     -   *Critique of Pure Reason* (1781)
     -   TODO: 2x2 figure *a priori/a posteriori* vs analytic/synthetic.
@@ -425,7 +426,13 @@ Kant in his *Critique of Pure Reason* (1781):
 ### Formal epistemology
 
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology)
--   See also: [Model theory](math.html#model-theory)
+-   *Introduction to Formal Philosophy* (2018) [^Hansson2018]
+-   *The Open Handbook of Formal Epistemology* (2019) [^Pettigrew2019]
+-   See also: [Logic](math.html#logic) and [Model theory](math.html#model-theory)
+-   See also: [Positivism](scientific-realism.html#positivism)
+
+[^Hansson2018]: @Hansson_2018_Introduction_to_Formal_Philosophy\.
+[^Pettigrew2019]: @Pettigrew_2019_The_Open_Handbook_of_Formal_Epistemology\.
 
 
 ### Criticisms
@@ -518,22 +525,9 @@ Hume:
 -   Ayer
 -   Hempel: Raven paradox
 -   Reichenbach
--   Carnap on confirmation
-
-Reichenbach:
-
->   It will appear plausible that this answer was given in the frame of a
->   theory of probability, though the form of this theory is very different
->   from what might be expected.
->   To say that observations of the past are certain, whereas predictions
->   are merely probable, is not the ultimate answer to the question of
->   induction; it is only a sort of intermediate answer, which is incomplete
->   unless a theory of probability is developed that explains what we should
->   mean by "probable" and on what ground we can assert probabilities. [^Reichenbach1951p93]
 
 [^Hume2007p56]: First footnote in the essay "On Probability" in @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 56.
 [^Hume2007pXX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
-[^Reichenbach1951p93]: @Reichenbach_1951_The_rise_of_scientific_philosophy\, p. 93-4.
 [^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
@@ -609,15 +603,31 @@ Dewey:
 >   are employed have received the name "deduction." [^Dewey1938p419]
 
 -   Reichenbach [^Reichenbach1938]
+
+Reichenbach:
+
+>   It will appear plausible that this answer was given in the frame of a
+>   theory of probability, though the form of this theory is very different
+>   from what might be expected.
+>   To say that observations of the past are certain, whereas predictions
+>   are merely probable, is not the ultimate answer to the question of
+>   induction; it is only a sort of intermediate answer, which is incomplete
+>   unless a theory of probability is developed that explains what we should
+>   mean by "probable" and on what ground we can assert probabilities. [^Reichenbach1951p93]
+
 -   Carnap
     -   "On inductive logic" [^Carnap1945a]
     -   *Logical Foundations of Probability* [^Carnap1950b]
     -   *The Continuum of Inductive Methods* [^Carnap1952]
     -   "The aim of inductive logic" [^Carnap1966]
     -   "Notes on probability and induction" [^Carnap1973]
+-   Bayesian updating
+    -   See also: [Bayes' theorem](statistics.html#bayes-theorem)
+    -   Aumann's agreement theorem [^Aumann1976]
 -   Note that philosophical induction is not [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
 -   Sankey [^Sankey2008p79]
 
+[^Aumann1976]: @Aumann_1976_Agreeing_to_disagree\.
 [^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
 [^Carnap1950b]: @Carnap_1950_Logical_Foundations_of_Probability\.
 [^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
@@ -629,6 +639,7 @@ Dewey:
 [^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
     @Reichenbach_1940_On_the_justification_of_induction\.
     TODO: Break up and go through these references.
+[^Reichenbach1951p93]: @Reichenbach_1951_The_rise_of_scientific_philosophy\, p. 93-4.
 [^Sankey2008p79]: @Sankey_2008_Scientific_Realism_and_the_Rationality_of_Science\, p. 79.
 [^Vickers2014]: @Vickers_2014_The_problem_of_induction (emphasis added).
 

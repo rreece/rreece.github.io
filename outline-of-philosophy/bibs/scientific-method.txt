@@ -1,4 +1,5 @@
 Allain, R. (2013). What's wrong with the scientific method? *Wired*. https://www.wired.com/2013/04/whats-wrong-with-the-scientific-method/ [April 1, 2013]
+Aumann, R.J. (1976). Agreeing to disagree. *The Annals of Statistics*, 4(6), 1236--9.
 Bhaskar, R. (2008). *A Realist Theory of Science*. Routledge.
 Blachowicz, J. (2009). How science textbooks treat scientific method: A philosopher's perspective. *The British Journal for the Philosophy of Science*, 60(2), 303--344.
 Blachowicz, J. (2016). There is no scientific method. *The New York Times*. https://www.nytimes.com/2016/07/04/opinion/there-is-no-scientific-method.html [July 4, 2016]
@@ -17,6 +18,7 @@ Feynman, R.P. (1998). *The Meaning of It All*. Addison-Wesley.
 French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
 Frigg, R. & Nguyen, J. (2017). Models and representation. In *Springer Handbook of Model-Based Science* (pp. 49--102). Springer.
 Frigg, R. & Hartmann, S. (2020). Models in science *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/models-science/
+Hansson, S.O. & Hendricks, V.F. (2018). *Introduction to Formal Philosophy*. Springer.
 Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135--175.
 #Hume, D. (1902). *Enquiries Concerning the Human Understanding and Concerning the Principles of Morals*. Oxford: Clarendon Press. [(Originally published in 1777)]
 #Hume, D. (1983). *An Enquiry Concerning the Principles of Morals*. Hackett Classics. [(Originally published in 1751)]
@@ -36,6 +38,7 @@ Russell, B. (2003). *History of Western Philosophy*. Routledge. [(Originally pub
 Russell, B. (2009). *Human Knowledge: Its Scope and Limits*. Routledge. [(Originally published in 1923)]
 Russell, G. (2008). *Truth in Virtue of Meaning: A defence of the analytic/synthetic distinction*. Oxford University Press.
 Papineau, D. (2012). *Philosophical Devices: Proofs, Probabilities, Possibilities, and Sets*. Oxford University Press.
+Pettigrew, R. & Weisberg, J. (2019). *The Open Handbook of Formal Epistemology*. PhilPapers. https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf
 Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*. Chicago University Press.
 Popper, K. (1959). *The Logic of Scientific Discovery*. Hutchinson and Co. [(Originally published in 1934 as \emph{Logik der Forschung})]
 Prado, I. (2006). Ionian enchantment: A brief history of scientific naturalism. http://www.naturalism.org/worldview-naturalism/history-of-naturalism

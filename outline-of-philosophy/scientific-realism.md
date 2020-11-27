@@ -813,7 +813,9 @@ Various reactions to positivism.
 -   Imre Lakatos (1922-1974)
 -   Nancy Cartwright (b. 1944)
 -   TODO: Khanna [^Khanna2018]
+-   de Swart [^deSwart2018p351]
 
+[^deSwart2018p351]: @deSwart_2018_Philosophical_and_Mathematical_Logic\, p. 351--3.
 [^Khanna2018]: @Khanna_2018_Positivism_and_realism\.
 
 
