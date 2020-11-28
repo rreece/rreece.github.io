@@ -115,9 +115,10 @@ Logic
 
 ### Introduction
 
--   TODO
 -   Teller, P. (1989). *A Modern Formal Logic Primer* [^Teller1989]
+-   *The Open Logic Text* (as of 2020) [^OpenLogicText]
 
+[^OpenLogicText]: @Open_2020_The_Open_Logic_Text\.
 [^Teller1989]: @Teller_1989_A_Modern_Formal_Logic_Primer\.
 
 
@@ -161,6 +162,7 @@ Logic
 -   domain of discourse
 -   quantification
 -   consistency, validity, completeness, soundness, expressivity
+-   G&ouml;del's completeness theorem
 
 
 ### Second-order logic
@@ -168,16 +170,19 @@ Logic
 -   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
 -   Includes relation variables in addition to object variables and allows quantification over both.
     -   Extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
+-   The power set can be written in terms of second-order logic.
+    -   This second-order expressibility of the power-set operation permits the simulation of higher-order logic within second order. [^Enderton2009]
+-   Higher-order logics, type theory
+    -   Russell's theory of types
+    -   Alonzo Church's lambda calculus
 -   Michael Dummett
 -   Setwart Shapiro
     -   *Foundations without Foundationalism: A Case for Second-Order Logic* (1991) [^Shapiro1991]
 -   Gillian Russell
     -   "The justification of the basic laws of logic" [^Russell2015]
--   Higher-order logics, type theory
-    -   Russell's theory of types
-    -   Alonzo Church's lambda calculus
 -   See also: [Model theory](#model-theory)
 
+[^Enderton2009]: @Enderton_2009_Second_order_and_higher_order_logic\.
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
 [^Shapiro1991]: @Shapiro_1991_Foundations_without_Foundationalism_A_Case\.
 
@@ -234,6 +239,12 @@ From Wikipedia:
 -   G&ouml;del's second incompleteness theorem also implies that a theory T1 satisfying the technical conditions outlined above cannot prove the consistency of any theory T2 that proves the consistency of T1. This is because such a theory T1 can prove that if T2 proves the consistency of T1, then T1 is in fact consistent. For the claim that T1 is consistent has form "for all numbers n, n has the decidable property of not being a code for a proof of contradiction in T1". If T1 were in fact inconsistent, then T2 would prove for some n that n is the code of a contradiction in T1. But if T2 also proved that T1 is consistent (that is, that there is no such n), then it would itself be inconsistent. This reasoning can be formalized in T1 to show that if T2 is consistent, then T1 is consistent. Since, by second incompleteness theorem, T1 does not prove its consistency, it cannot prove the consistency of T2 either.
 -   The corollary also indicates the epistemological relevance of the second incompleteness theorem. It would actually provide no interesting information if a theory T proved its consistency. This is because inconsistent theories prove everything, including their consistency. Thus a consistency proof of T in T would give us no clue as to whether T really is consistent; no doubts about the consistency of T would be resolved by such a consistency proof. The interest in consistency proofs lies in the possibility of proving the consistency of a theory T in some theory T' that is in some sense less doubtful than T itself, for example weaker than T. For many naturally occurring theories T and T', such as T = Zermelo-Fraenkel set theory and T' = primitive recursive arithmetic, the consistency of T' is provable in T, and thus T' can't prove the consistency of T by the above corollary of the second incompleteness theorem.
 -   The second incompleteness theorem does not rule out consistency proofs altogether, only consistency proofs that could be formalized in the theory that is proved consistent. For example, Gerhard Gentzen proved the consistency of Peano arithmetic (PA) in a different theory that includes an axiom asserting that the ordinal called $\varepsilon_0$ is wellfounded; see Gentzen's consistency proof. Gentzen's theorem spurred the development of ordinal analysis in proof theory.
+
+Related:
+
+-   Tarski's undefinability theorem on the formal undefinability of truth
+-   Church's proof that Hilbert's Entscheidungsproblem is unsolvable
+-   Turing's theorem that there is no algorithm to solve the halting problem
 
 More:
 
