@@ -148,6 +148,7 @@ Logic
         where all of the premises are true, the conclusion is always true.
     -   An argument is **sound** iff it is valid and all of its premises are true.
 -   TODO: basic examples in propositional logic
+-   Use-mention distinction: P vs 'P'
 
 
 ### Set theory
