@@ -143,6 +143,10 @@ Logic
 ### Propositional logic
 
 -   AKA propositional calculus and zeroth-order logic
+-   Validity and soundness:
+    -   An argument is **valid** iff for any assignment of the free truth values in the argument
+        where all of the premises are true, the conclusion is always true.
+    -   An argument is **sound** iff it is valid and all of its premises are true.
 -   TODO: basic examples in propositional logic
 
 
@@ -212,9 +216,12 @@ Model theory
 -   Language
 -   Carnap
 -   Traski
+-   Button & Walsh [^Button2018]
 -   [model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
     -   See also: [Formal epistemology](scientific-method.html#formal-epistemology)
+
+[^Button2018]: @Button_2018_Philosophy_and_Model_Theory\.
 
 
 ### Incompleteness
@@ -400,6 +407,9 @@ Johwn Stuart Mill:
 >   Nominalists, who, repudiating Universal Substances, held that
 >   there is nothing general except names. [^Mill1877]
 
+Field: Abstract platonic entities, were they to exist, could not
+interact causally with the world. [^Field1980]
+
 -   positivism, Carnap, ESO
 -   Field: *Science Without Numbers* [^Field2016]
 -   John Burgess [^Burgess1983]
@@ -407,6 +417,7 @@ Johwn Stuart Mill:
 
 [^Bayes1736p9]: @Bayes_1736_An_Introduction_to_the_Doctrine_of_Fluxions\, p. 9--10.
 [^Bueno2013]: @Bueno_2013_Nominalism_in_the_philosophy_of_mathematics\.
+[^Field1989p]: @Field_1989_Realism_Mathematics_and_Modality\, p. 68. TODO: Get exact quote.
 [^Burgess1983]: @Burgess_1983_Why_I_am_not_a_nominalist\.
 [^Field2016]: @Field_2016_Science_Without_Numbers\.
 [^Mill1877]: @Mill_1877_An_Examination_of_Sir_William_Hamiltons\.
@@ -522,18 +533,35 @@ Naturalism
 --------------------------------------------------------------------------------
 
 -   Realist?
+-   Unreliability effectiveness
+    -   Wigner [^Wigner1960]
+    -   Putnam [^Putnam1975]
+    -   Hamming [^Hamming1980]
+    -   Tegmark
+-   Quine-Putnam indispensability thesis
+    -   Quine
+    -   Putnam [^Putnam1975MMM]
+
+Putnam:
+
+>   [Q]uantification over mathematical entities is indispensable for science...;
+>   therefore we should accept such quantification; but this commits us to
+>   accepting the existence of the mathematical entities in question. [^Putnam1971p57]
+
 -   Maddy
--   Wigner [^Wigner1960]
--   Indispensability thesis
 -   See the outline on [Naturalism](naturalism.html).
 
+[^Hamming1980]: @Hamming_1980_The_Unreasonable_Effectiveness_of_Mathematics\.
+[^Putnam1971p57]: @Putnam_1971_Philosophy_of_Logic\, p. 57.
+[^Putnam1975]: @Putnam_1975_What_is_mathematical_truth\.
+[^Putnam1975MMM]: @Putnam_1975_Mathematics_Matter_and_Method\, p. TODO\.
 [^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
 
 
 My thoughts
 --------------------------------------------------------------------------------
 
--   What would happen if you asked an Alien to solve a Rubik's cube?
+-   What would happen if you asked an alien to solve a Rubik's cube?
 
 
 Annotated bibliography
