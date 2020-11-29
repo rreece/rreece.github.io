@@ -117,6 +117,7 @@ Logic
 
 -   Teller, P. (1989). *A Modern Formal Logic Primer* [^Teller1989]
 -   *The Open Logic Text* (as of 2020) [^OpenLogicText]
+-   [logicinaction.org](http://www.logicinaction.org/)
 
 [^OpenLogicText]: @Open_2020_The_Open_Logic_Text\.
 [^Teller1989]: @Teller_1989_A_Modern_Formal_Logic_Primer\.
