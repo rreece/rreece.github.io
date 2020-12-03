@@ -1020,7 +1020,7 @@ Papers:
 4.  You, Y. et al. (2017).  [Large batch training of convolutional networks](https://arxiv.org/abs/1708.03888).
 5.  You, Y. et al. (2017). [ImageNet training in minutes](https://arxiv.org/abs/1709.05011).
 6.  Jastrzebski, S. (2018). [Three factors influencing minima in SGD](https://arxiv.org/abs/1711.04623).
-7.  Smith, S.L. (2018). [Don't decay the learning rate, increase the batch size](https://arxiv.org/abs/1711.00489).
+7.  Smith, S.L. et al. (2018). [Don't decay the learning rate, increase the batch size](https://arxiv.org/abs/1711.00489).
 8.  Masters, D. & Luschi, C. (2018). [Revisiting small batch training for deep neural networks](https://arxiv.org/abs/1804.07612).
 9.  Lin, T. et al. (2020). [Don't use large mini-batches, use local SGD](https://arxiv.org/abs/1808.07217).
 10. Golmant, N. et al. (2018). [On the computational inefficiency of large batch sizes for stochastic gradient descent](https://arxiv.org/abs/1811.12941).

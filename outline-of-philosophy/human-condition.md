@@ -1832,6 +1832,7 @@ Click to show links
 -   [Existentialism](http://www.iep.utm.edu/existent/)
 -   [Hedonism](https://iep.utm.edu/hedonism/)
 -   [Heidegger, Martin (1889-1976)](https://www.iep.utm.edu/heidegge/)
+-   [Introspection](https://iep.utm.edu/introspe/)
 -   [Kierkegaard, S&oslash;ren (1813-1855)](https://plato.stanford.edu/entries/kierkegaard/)
 -   [Lucretius (c. 99-55 BCE)](https://www.iep.utm.edu/lucretiu/)
 -   [Modern morality and ancient ethics](https://www.iep.utm.edu/anci-mod/)

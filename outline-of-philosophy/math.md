@@ -145,11 +145,15 @@ Logic
 
 -   AKA propositional calculus and zeroth-order logic
 -   Validity and soundness:
-    -   An argument is **valid** iff for any assignment of the free truth values in the argument
+    -   An argument is **valid** iff for any assignment of the truth values in the argument
         where all of the premises are true, the conclusion is always true.
     -   An argument is **sound** iff it is valid and all of its premises are true.
 -   TODO: basic examples in propositional logic
--   Use-mention distinction: P vs 'P'
+-   Use-mention distinction: P vs 'P' vs Quine quotes
+
+Material implication:
+
+$$ P \rightarrow Q \vdash \lnot P \lor Q $$
 
 
 ### Set theory
@@ -167,7 +171,7 @@ Logic
 -   AKA predicate logic
 -   domain of discourse
 -   quantification
--   consistency, validity, completeness, soundness, expressivity
+-   consistency, completeness, expressivity
 -   G&ouml;del's completeness theorem
 
 
