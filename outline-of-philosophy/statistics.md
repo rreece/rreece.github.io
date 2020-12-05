@@ -562,16 +562,18 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
     -   [Talk by Tommaso Dorigo: "Frequentist Statistics, the Particle Physicists' Way"](https://www.youtube.com/watch?v=NA5u5X23QLo)
 
 
-Systematic uncertainties
+Uncertainty quantification
 --------------------------------------------------------------------------------
 
-### Sinervo classification
+### Sinervo classification of systematic uncertainties
 
 -   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekka Sinervo (PhyStat2003) [^Sinervo2013]
 -   Not to be confused with type-1 and type-2 errors in Neyman-Pearson theory
+-   Caldeira & Nord [^Caldeira2020]
 
 ![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties), 2016).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
 
+[^Caldeira2020]: @Caldeira_2020_Deeply_uncertain_comparing_methods_of_uncertainty\.
 [^Sinervo2013]: @Sinervo_2003_Definition_and_treatment_of_systematic\.
 
 
@@ -579,10 +581,12 @@ Systematic uncertainties
 
 -   Profiling and the profile likelihood
     -   Importance of Wald and Cowan _et al_.
+    -   hybrid Bayesian-frequentist method
 
 
 ### Examples of poor estimates of systematic uncertanties
 
+-   Unaccounted-for effects
 -   CDF $Wjj$ bump
     -   Phys.Rev.Lett.106:171801 (2011) / [arxiv:1104.0699](https://arxiv.org/abs/1104.0699)
     -   [Invariant mass distribution of jet pairs produced in association with a $W$ boson in $p\bar{p}$ collisions at $\sqrt{s}$ = 1.96 TeV](https://www-cdf.fnal.gov/physics/ewk/2011/wjj/7_3.html)
@@ -1054,7 +1058,9 @@ Most common regularizations:
 Papers:
 
 -   Loshchilov, I. & Hutter, F. (2019). [Decoupled weight decay regularization](https://arxiv.org/abs/1711.05101).
+-   A group theoretic framework for data augmentation [^Chen2020]
 
+[^Chen2020]: @Chen_2020_A_group_theoretic_framework_for_data_augmentation\.
 [^Mishra2020]: Mishra, D. (2020). [Weight Decay == L2 Regularization?](https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd)
 
 

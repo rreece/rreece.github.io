@@ -17,9 +17,11 @@ Berger, J.O. (2003). Could Fisher, Jeffreys and Neyman have agreed on testing? *
 Birnbaum, A. (1962). On the foundations of statistical inference. *Journal of the American Statistical Association*, 57, 269--326.
 Blondel, M., Martins, A.F., & Niculae, V. (2020). Learning with Fenchel-Young losses. *Journal of Machine Learning Research*, 21(35), 1--69.
 Brown, L.D., Cai, T.T., & DasGupta, A. (2001). Interval estimation for a binomial proportion. *Statistical Science*, 16(2), 101--133. https://projecteuclid.org/euclid.ss/1009213286
+Caldeira, J. & Nord, B. (2020). Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms. *Machine Learning: Science and Technology*, 2, 015002. https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3
 Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistics*. Springer Switzerland.
 Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenological Research*, 5(4), 513--32. 
 Carnap, R. (1947). Probability as a guide in life. *Journal of Philosophy*, 44(6), 141--48.
+Chen, S., Dobriban, E., & Lee, J.H. (2020). A group-theoretic framework for data augmentation. https://arxiv.org/abs/1907.10905
 Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation. *Natural Language Engineering*, 25(6), 753--767.
 Ciresan, D., Meier, U. Masci, J. & Schmidhuber, J. (2012). Multi-column deep neural network for traffic sign classification. *Neural Networks*, 32, 333--338. https://arxiv.org/abs/1202.2745
 Clopper, C.J. & Pearson, E.S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, 26(4), 404--413.
