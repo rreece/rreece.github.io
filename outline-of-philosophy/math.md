@@ -414,7 +414,7 @@ Johwn Stuart Mill:
 >   there is nothing general except names. [^Mill1877]
 
 Field: Abstract platonic entities, were they to exist, could not
-interact causally with the world. [^Field1980]
+interact causally with the world. [^Field1989p68]
 
 -   positivism, Carnap, ESO
 -   Field: *Science Without Numbers* [^Field2016]
@@ -423,7 +423,7 @@ interact causally with the world. [^Field1980]
 
 [^Bayes1736p9]: @Bayes_1736_An_Introduction_to_the_Doctrine_of_Fluxions\, p. 9--10.
 [^Bueno2013]: @Bueno_2013_Nominalism_in_the_philosophy_of_mathematics\.
-[^Field1989p]: @Field_1989_Realism_Mathematics_and_Modality\, p. 68. TODO: Get exact quote.
+[^Field1989p68]: @Field_1989_Realism_Mathematics_and_Modality\, p. 68. TODO: Get exact quote.
 [^Burgess1983]: @Burgess_1983_Why_I_am_not_a_nominalist\.
 [^Field2016]: @Field_2016_Science_Without_Numbers\.
 [^Mill1877]: @Mill_1877_An_Examination_of_Sir_William_Hamiltons\.
