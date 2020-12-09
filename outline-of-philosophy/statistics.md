@@ -633,6 +633,11 @@ Exploratory data analysis
 
 -   TODO
 
+![From Kruschke. [^Kruschke2018fig1]](img/Kruschke-bayes-freq-grid.png){#fig:Kruschke-bayes-freq-grid}
+
+
+[^Kruschke2018fig1]: @Kruschke_2018_The_Bayesian_New_Statistics_Hypothesis_testing\.
+
 
 ### Likelihood principle
 
@@ -738,6 +743,7 @@ Mayo:
     -   [An introduction to likelihoodist, bayesian, and frequentist methods (3/3)](http://gandenberger.org/2014/08/26/intro-to-statistical-methods-3/)
     -   [An argument against likelihoodist methods as genuine alternatives to bayesian and frequentist methods](http://gandenberger.org/2013/10/21/against-likelihoodist-methods/)
     -   "Why I am not a likelihoodist" [^Gandenberger2016]
+-   Kruschke & Liddel [^Kruschke2018]
 
 ![The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference ([gandenberger.org/research/](http://gandenberger.org/research/), 2015).](img/gandenberger-thesis-venn-diagram.png){#fig:gandenberger-thesis-venn-diagram}
 
@@ -745,6 +751,7 @@ Mayo:
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
 [^Gandenberger2016]: @Gandenberger_2016_Why_I_am_not_a_likelihoodist\.
 [^Gelman2017]: @Gelman_2017_Beyond_subjective_and_objective_in_statistics\.
+[^Kruschke2018]: @Kruschke_2018_The_Bayesian_New_Statistics_Hypothesis_testing\.
 [^Mayo1981]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
 [^Mayo2006]: @Mayo_2006_Severe_testing_as_a_basic_concept_in_a_Neyman_\.
