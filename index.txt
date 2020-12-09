@@ -10,6 +10,7 @@ who worked with the [ATLAS experiment](https://atlas.cern/) at [CERN](http://hom
 I have experience in deep learning, large-scale language modeling,
 machine learning, pattern recognition, statistical modeling,
 data science, and petabyte data reduction.
+
 I am passionate about using scientific techniques to solve important
 problems and about how technologies extend our reach.
 
