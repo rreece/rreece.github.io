@@ -176,7 +176,9 @@ Humeanism and necessity
 -   Humean vs Non-humean :: regularity vs necessitarianism
 -   *The Concept of Physical Law* [^Swartz2003]
 -   Was Hume really humean about laws? [^Swartz2009]
+-   Humean laws and explanation [^Loewer2019]
 
+[^Loewer2019]: @Loewer_2019_Humean_laws_and_explanation\.
 [^Swartz2003]: @Swartz_2003_The_Concept_of_Physical_Law\.
 [^Swartz2009]: @Swartz_2009_Laws_of_nature\.
 

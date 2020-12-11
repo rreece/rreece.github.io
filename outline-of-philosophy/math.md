@@ -433,6 +433,7 @@ Formalism
 --------------------------------------------------------------------------------
 
 -   Hilbert
+-   Antirealist?
 
 Hilbert:
 
@@ -468,15 +469,21 @@ Logicism
 ### Introduction
 
 -   A program to derive all or part of mathematics from logic.
--   Gottlob Frege
--   Richard Dedekind
--   Giuseppe Peano
+-   Richard Dedekind (1831-1916)
+-   Gottlob Frege (1848-1925)
+    -   All mathematical structures can be constructed from sets and natural numbers.
+    -   Natural numbers can be constructed from sets.
+    -   The properties of sets can be reduced to logic. Sets are the extensions of arbitrary conditions.
+-   Giuseppe Peano (1858-1932)
 -   Bertrand Russell (1872-1970)
--   Whitehead
--   Review article on the philosophy of math by Snapper [^Snapper1979]
--   Antirealist?, relationship with positivism?
+-   Alfred North Whitehead (1861-1947)
+-   [Ernst Zermelo](https://en.wikipedia.org/wiki/Ernst_Zermelo) (1871-1953)
+    -   Sets are _not_ simply the extensions of arbitrary conditions. Some conditions have no corresponding set.
+-   Realist?
+-   Relationship with positivism?
 -   "On Denoting" [^Russell1905]
 -   Russsell expresses support for the platonic "universals" [^Russell1912p91]
+-   Review article on the philosophy of math by Snapper [^Snapper1979]
 -   Shapiro [^Shapiro2000]
 -   Neo-logicism
 -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
@@ -839,6 +846,7 @@ Click to show links
 -   [Whitehead, Alfred North (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead)
 -   [Wittgenstein's philosophy of mathematics](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein%27s_philosophy_of_mathematics)
 -   [Zeroth-order logic](https://en.wikipedia.org/wiki/Zeroth-order_logic)
+-   [Zermelo, Ernst (1871-1953)](https://en.wikipedia.org/wiki/Ernst_Zermelo)
 -   [Zermelo-Fraenkel set theory (ZFC)](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
 -   [ZFC, List of statements independent of](https://en.wikipedia.org/wiki/List_of_statements_independent_of_ZFC)
 
