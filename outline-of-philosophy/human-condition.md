@@ -931,6 +931,8 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   [Shinto](https://en.wikipedia.org/wiki/Shinto)
 -   [Yayoi period](https://en.wikipedia.org/wiki/Yayoi_period) (300 BCE - 300 CE) - neolithic Japan
 -   In the late 6th century CE the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism.
+-   [Inari &Omacr;kami](https://en.wikipedia.org/wiki/Inari_%C5%8Ckami)
+-   [Meiji era](https://en.wikipedia.org/wiki/Meiji_(era))
 -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
 
 

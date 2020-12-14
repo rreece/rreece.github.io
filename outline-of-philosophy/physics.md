@@ -637,8 +637,15 @@ Beyond the standard model
 Gravity and cosmology
 --------------------------------------------------------------------------------
 
+### Special relativity
+
+-   Minkowski, Lorentz, Einstein, Poincar&eacute;
+-   Einstein, A. (1905). On the Electrodynamics of Moving Bodies.
+
+
 ### General relativity
 
+-   Grossmann, M. & Einstein, A. (1913). Outline of a generalized theory of relativity and of a theory of gravitation.
 -   *Gravitation*
 -   *Spacetime and Geometry* [^Carroll2004]
 
@@ -667,6 +674,12 @@ Gravity and cosmology
     -   Vaccuum energy
     -   Inflaton field and slow-roll inflation
 -   $\Lambda$+CMD Cosmological Standard Model
+
+
+### Alternative theories of gravity
+
+-   Einstein-Cartan theory
+-   Entropic gravity
 
 
 Fine-tuning
