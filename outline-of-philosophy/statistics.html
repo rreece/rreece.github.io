@@ -948,27 +948,28 @@ D_\mathrm{KL}(p, q)
 <blockquote>
 <p>[L]arge-batch methods tend to converge to sharp minimizers of the training and testing functions&#8212;and as is well known&#8212;sharp minima lead to poorer generalization. In contrast, small-batch methods consistently converge to flat minimizers, and our experiments support a commonly held view that this is due to the inherent noise in the gradient estimation.</p>
 </blockquote></li>
-<li>Hoffer, E. et al. (2017). <a href="https://arxiv.org/abs/1705.08741">Train longer, generalize better: closing the generalization gap in large batch training of neural networks</a>.
+<li><p>Hoffer, E. et al. (2017). <a href="https://arxiv.org/abs/1705.08741">Train longer, generalize better: closing the generalization gap in large batch training of neural networks</a>.</p>
 <ul>
 <li><span class="math inline">\(\eta \propto \sqrt{m}\)</span></li>
 </ul></li>
-<li>Goyal, P. et al. (2017). <a href="https://arxiv.org/abs/1706.02677">Accurate large minibatch SGD: Training ImageNet in 1 hour</a>.
+<li><p>Goyal, P. et al. (2017). <a href="https://arxiv.org/abs/1706.02677">Accurate large minibatch SGD: Training ImageNet in 1 hour</a>.</p>
 <ul>
 <li><span class="math inline">\(\eta \propto m\)</span></li>
 </ul></li>
-<li>You, Y. et al. (2017). <a href="https://arxiv.org/abs/1708.03888">Large batch training of convolutional networks</a>.
+<li><p>You, Y. et al. (2017). <a href="https://arxiv.org/abs/1708.03888">Large batch training of convolutional networks</a>.</p>
 <ul>
 <li>Layer-wise Adaptive Rate Scaling (LARS)</li>
 </ul></li>
-<li>You, Y. et al. (2017). <a href="https://arxiv.org/abs/1709.05011">ImageNet training in minutes</a>.
+<li><p>You, Y. et al. (2017). <a href="https://arxiv.org/abs/1709.05011">ImageNet training in minutes</a>.</p>
 <ul>
 <li>Layer-wise Adaptive Rate Scaling (LARS)</li>
 </ul></li>
-<li>Jastrzebski, S. (2018). <a href="https://arxiv.org/abs/1711.04623">Three factors influencing minima in SGD</a>.
+<li><p>Jastrzebski, S. (2018). <a href="https://arxiv.org/abs/1711.04623">Three factors influencing minima in SGD</a>.</p>
 <ul>
 <li><span class="math inline">\(\eta \propto m\)</span></li>
 </ul></li>
-<li>Smith, S.L. et al. (2018). <a href="https://arxiv.org/abs/1711.00489">Don&#8217;t decay the learning rate, increase the batch size</a>.
+<li><p>Smith, S.L. &amp; Le, Q.V. (2018). <a href="https://arxiv.org/abs/1710.06451">A Bayesian Perspective on Generalization and Stochastic Gradient Descent</a>.</p></li>
+<li><p>Smith, S.L. et al. (2018). <a href="https://arxiv.org/abs/1711.00489">Don&#8217;t decay the learning rate, increase the batch size</a>.</p>
 <ul>
 <li><span class="math inline">\(m \propto \eta\)</span></li>
 </ul></li>
@@ -978,7 +979,7 @@ D_\mathrm{KL}(p, q)
 <p>On the other hand, as shown in Hoffer et al. (2017), when <span class="math inline">\(m \ll M\)</span>, the covariance matrix of the weight update <span class="math inline">\(\mathrm{Cov(\eta \Delta\theta)}\)</span> scales linearly with the quantity <span class="math inline">\(\eta^2/m\)</span>.</p>
 <p>This implies that, adopting the linear scaling rule, an increase in the batch size would also result in a linear increase in the covariance matrix of the weight update <span class="math inline">\(\eta \Delta\theta\)</span>. Conversely, to keep the scaling of the covariance of the weight update vector <span class="math inline">\(\eta \Delta\theta\)</span> constant would require scaling <span class="math inline">\(\eta\)</span> with the square root of the batch size <span class="math inline">\(m\)</span> (Krizhevsky, 2014; Hoffer et al., 2017).</p>
 </blockquote></li>
-<li>Lin, T. et al. (2020). <a href="https://arxiv.org/abs/1808.07217">Don&#8217;t use large mini-batches, use local SGD</a>.
+<li><p>Lin, T. et al. (2020). <a href="https://arxiv.org/abs/1808.07217">Don&#8217;t use large mini-batches, use local SGD</a>.</p>
 <ul>
 <li>Post-local SGD</li>
 </ul></li>
@@ -986,7 +987,7 @@ D_\mathrm{KL}(p, q)
 <blockquote>
 <p>Scaling the learning rate as <span class="math inline">\(\eta \propto \sqrt{m}\)</span> attempts to keep the weight increment length statistics constant, but the distance between SGD iterates is governed more by properties of the objective function than the ratio of learning rate to batch size. This rule has also been found to be empirically sub-optimal in various problem domains. &#8230; There does not seem to be a simple training heuristic to improve large batch performance in general.</p>
 </blockquote></li>
-<li>McCandlish, S. et al. (2018). <a href="https://arxiv.org/abs/1812.06162">An empirical model of large-batch training</a>.
+<li><p>McCandlish, S. et al. (2018). <a href="https://arxiv.org/abs/1812.06162">An empirical model of large-batch training</a>.</p>
 <ul>
 <li>Critical batch size</li>
 </ul></li>
@@ -1017,14 +1018,15 @@ D_\mathrm{KL}(p, q)
 <blockquote>
 <p>Consistent with the empirical results of Shallue et al. (2018), each optimizer shows two distinct regimes: a small-batch (stochastic) regime with perfect linear scaling, and a large-batch (deterministic) regime insensitive to batch size. We call the phase transition between these regimes the critical batch size.</p>
 </blockquote>
-<ol start="17" style="list-style-type: decimal">
+<ol start="18" style="list-style-type: decimal">
 <li>Li, Y., Wei, C., &amp; Ma, T. (2019). <a href="https://arxiv.org/abs/1907.04595">Towards explaining the regularization effect of initial large learning rate in training neural networks</a>.</li>
 </ol>
 <blockquote>
 <p>Our analysis reveals that more SGD noise, or larger learning rate, biases the model towards learning &#8220;generalizing&#8221; kernels rather than &#8220;memorizing&#8221; kernels.</p>
 </blockquote>
-<ol start="18" style="list-style-type: decimal">
-<li>Jastrzebski, S. et al. (2020). <a href="https://arxiv.org/abs/2002.09572">The break-even point on optimization trajectories of deep neural networks</a>.</li>
+<ol start="19" style="list-style-type: decimal">
+<li><p>Kaplan, J. et al. (2020). <a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a>.</p></li>
+<li><p>Jastrzebski, S. et al. (2020). <a href="https://arxiv.org/abs/2002.09572">The break-even point on optimization trajectories of deep neural networks</a>.</p></li>
 </ol>
 <p>Blogs:</p>
 <ul>

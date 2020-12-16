@@ -1035,18 +1035,32 @@ Papers:
     >   inherent noise in the gradient estimation.
 
 2.  Hoffer, E. et al. (2017). [Train longer, generalize better: closing the generalization gap in large batch training of neural networks](https://arxiv.org/abs/1705.08741).
+
     -   $\eta \propto \sqrt{m}$
+
 3.  Goyal, P. et al. (2017). [Accurate large minibatch SGD: Training ImageNet in 1 hour](https://arxiv.org/abs/1706.02677).
+
     -   $\eta \propto m$
+
 4.  You, Y. et al. (2017).  [Large batch training of convolutional networks](https://arxiv.org/abs/1708.03888).
+
     -   Layer-wise Adaptive Rate Scaling (LARS)
+
 5.  You, Y. et al. (2017). [ImageNet training in minutes](https://arxiv.org/abs/1709.05011).
+
     -   Layer-wise Adaptive Rate Scaling (LARS)
+
 6.  Jastrzebski, S. (2018). [Three factors influencing minima in SGD](https://arxiv.org/abs/1711.04623).
+
     -   $\eta \propto m$
-7.  Smith, S.L. et al. (2018). [Don't decay the learning rate, increase the batch size](https://arxiv.org/abs/1711.00489).
+
+7.  Smith, S.L. & Le, Q.V. (2018). [A Bayesian Perspective on Generalization and Stochastic Gradient Descent](https://arxiv.org/abs/1710.06451).
+
+8.  Smith, S.L. et al. (2018). [Don't decay the learning rate, increase the batch size](https://arxiv.org/abs/1711.00489).
+
     -   $m \propto \eta$
-8.  Masters, D. & Luschi, C. (2018). [Revisiting small batch training for deep neural networks](https://arxiv.org/abs/1804.07612).
+
+9.  Masters, D. & Luschi, C. (2018). [Revisiting small batch training for deep neural networks](https://arxiv.org/abs/1804.07612).
 
     >   This linear scaling rule has been widely adopted, e.g., in Krizhevsky (2014), Chen et al. (2016),
     >   Bottou et al. (2016), Smith et al. (2017) and Jastrzebski et al. (2017).
@@ -1059,9 +1073,11 @@ Papers:
     >   Conversely, to keep the scaling of the covariance of the weight update vector $\eta \Delta\theta$
     >   constant would require scaling $\eta$ with the square root of the batch size $m$ (Krizhevsky, 2014; Hoffer et al., 2017).
 
-9.  Lin, T. et al. (2020). [Don't use large mini-batches, use local SGD](https://arxiv.org/abs/1808.07217).
+10.  Lin, T. et al. (2020). [Don't use large mini-batches, use local SGD](https://arxiv.org/abs/1808.07217).
+
     -   Post-local SGD
-10. Golmant, N. et al. (2018). [On the computational inefficiency of large batch sizes for stochastic gradient descent](https://arxiv.org/abs/1811.12941).
+
+11. Golmant, N. et al. (2018). [On the computational inefficiency of large batch sizes for stochastic gradient descent](https://arxiv.org/abs/1811.12941).
 
     >   Scaling the learning rate as $\eta \propto \sqrt{m}$ attempts to keep the weight
     >   increment length statistics constant, but the distance between SGD iterates is governed more
@@ -1070,9 +1086,11 @@ Papers:
     >   ...
     >   There does not seem to be a simple training heuristic to improve large batch performance in general.
 
-11. McCandlish, S. et al. (2018). [An empirical model of large-batch training](https://arxiv.org/abs/1812.06162).
+12. McCandlish, S. et al. (2018). [An empirical model of large-batch training](https://arxiv.org/abs/1812.06162).
+
     -   Critical batch size
-12. Shallue, C.J. et al. (2018). [Measuring the effects of data parallelism on neural network training](https://arxiv.org/abs/1811.03600).
+
+13. Shallue, C.J. et al. (2018). [Measuring the effects of data parallelism on neural network training](https://arxiv.org/abs/1811.03600).
 
     >   In all cases, as the batch size grows, there is an initial period of
     >   perfect scaling ($b$-fold benefit, indicated with a dashed line on the plots) where the steps
@@ -1081,12 +1099,12 @@ Papers:
     >   a regime of maximal data parallelism where additional parallelism provides no benefit
     >   whatsoever.
 
-13. Jastrzebski, S. et al. (2018). [Width of minima reached by stochastic gradient descent is influenced by learning rate to batch size ratio](https://link.springer.com/chapter/10.1007/978-3-030-01424-7_39).
+14. Jastrzebski, S. et al. (2018). [Width of minima reached by stochastic gradient descent is influenced by learning rate to batch size ratio](https://link.springer.com/chapter/10.1007/978-3-030-01424-7_39).
     -   $\eta \propto m$
 
     >   We show this experimentally in Fig. 5, where similar learning dynamics and final performance can be observed when simultaneously multiplying the learning rate and batch size by a factor up to a certain limit.
 
-14. You, Y. et al. (2019). [Large-batch training for LSTM and beyond](https://arxiv.org/abs/1901.08256).
+15. You, Y. et al. (2019). [Large-batch training for LSTM and beyond](https://arxiv.org/abs/1901.08256).
 
     -   Warmup and use $\eta \propto m$
 
@@ -1096,23 +1114,26 @@ Papers:
     >   For the GNMT application (Seq2Seq) with LSTM, we are able to scale the batch size by a factor
     >   of 16 without losing accuracy and without tuning the hyper-parameters mentioned above.
 
-15. You, Y. et al. (2019). [Large batch optimization for deep learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962).
+16. You, Y. et al. (2019). [Large batch optimization for deep learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962).
 
     -   LARS and LAMB
 
-16. Zhang, G. et al. (2019). [Which algorithmic choices matter at which batch sizes? Insights from a Noisy Quadratic Model](https://arxiv.org/abs/1907.04164).
+17. Zhang, G. et al. (2019). [Which algorithmic choices matter at which batch sizes? Insights from a Noisy Quadratic Model](https://arxiv.org/abs/1907.04164).
 
 >   Consistent with the empirical results of Shallue et al. (2018), each optimizer shows two distinct
 >   regimes: a small-batch (stochastic) regime with perfect linear scaling, and a large-batch (deterministic)
 >   regime insensitive to batch size. We call the phase transition between these regimes the critical batch
 >   size.
 
-17. Li, Y., Wei, C., & Ma, T. (2019). [Towards explaining the regularization effect of initial large learning rate in training neural networks](https://arxiv.org/abs/1907.04595).
+18. Li, Y., Wei, C., & Ma, T. (2019). [Towards explaining the regularization effect of initial large learning rate in training neural networks](https://arxiv.org/abs/1907.04595).
 
 >   Our analysis reveals that more SGD noise, or larger learning rate, biases the model towards learning
 >   "generalizing" kernels rather than "memorizing" kernels.
 
-18. Jastrzebski, S. et al. (2020). [The break-even point on optimization trajectories of deep neural networks](https://arxiv.org/abs/2002.09572).
+19. Kaplan, J. et al. (2020). [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361).
+
+20. Jastrzebski, S. et al. (2020). [The break-even point on optimization trajectories of deep neural networks](https://arxiv.org/abs/2002.09572).
+
 
 Blogs:
 
