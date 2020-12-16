@@ -43,6 +43,10 @@ Consequentialism
     -   *Natural Justice* [^Binmore2011]
 -   Portmore
     -   *Commonsense Consequentialism* [^Portmore2011]
+-   Effective Altruism
+    -   Peter Singer
+    -   Toby Ord
+    -   William MacAskill
 
 [^Binmore2011]: @Binmore_2011_Natural_Justice\.
 [^Portmore2011]: @Portmore_2011_Commonsense_Consequentialism\.
@@ -130,12 +134,20 @@ Moral naturalism
 >   distribution, and many other aspects of social life in all its vast
 >   richness. [^Churchland2011p7]
 
+-   Video: Sisyphus55 (2020). [The Zen Neuroscientist: A guide to Sam Harris](https://www.youtube.com/watch?v=UaTE4ZxzLdA).
+    -   Ethical realism and naturalism
 -   See also the [Outline on naturalism](naturalism.html#moral-naturalism).
 
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 [^Churchland2011p7]: @Churchland_2011_What_Neuroscience_Tells_Us_About_Morality\.
 [^deWaal1982]: @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes\.
 [^Putnam2004]: @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other\.
+
+
+### Criticism
+
+-   G.E. Moore's [Open-question argument](https://en.wikipedia.org/wiki/Open-question_argument)
+-   [Moore's Moral Philosophy](https://plato.stanford.edu/entries/moore-moral/)
 
 
 Aesthetics
@@ -204,6 +216,7 @@ Compassion
 -   Growth mindset
 -   Compassion in Buddhism
 -   Compassion in Schopenhauer's *On the Basis of Morality*
+-   Rand being against compassion.
 
 
 My thoughts

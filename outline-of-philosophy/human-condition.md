@@ -534,6 +534,7 @@ Ethics:
 -   [Buddhist ethics](https://en.wikipedia.org/wiki/Buddhist_ethics)
 -   [Women in Buddhism](https://en.wikipedia.org/wiki/Women_in_Buddhism)
 -   [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) (nonviolence)
+-   See also: [Compassion](ethics.html#compassion) in the [Outline on Ethics](ethics.html).
 
 Atheism:
 
@@ -1482,6 +1483,18 @@ TODO:
 ### Neurobiology
 
 -   Dopamine and anticipation
+
+
+### Depression
+
+-   "The bright side of being blue" [^Andrews2009]
+-   Analytic Rumination Hypothesis (ARH)
+-   Lehrer, J. (2010). [Depression's Upside](https://www.nytimes.com/2010/02/28/magazine/28depression-t.html). *New York Times Magazine*.
+-   Moss, S. (2016). [Analytical rumination hypothesis](https://www.sicotests.com/psyarticle.asp?id=355).
+-   [Evolutionary approaches to depression](https://en.wikipedia.org/wiki/Evolutionary_approaches_to_depression)
+-   See also: [Regret](ethics.html#regret) in the [Outline on Ethics](ethics.html).
+
+[^Andrews2009]: @Andrews_2009_The_bright_side_of_being_blue_Depression_as\.
 
 
 ### Cognitive behavioral therapy
