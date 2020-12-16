@@ -913,6 +913,8 @@ Fit the model to the data to make inferences on the theory:
 
 $$ \text{Model} + \text{Data} + \text{Statistical Analysis} \longrightarrow \text{Model(improved)} \longrightarrow \text{Theory(improved)} $$
 
+[^French2007p81]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. 81.
+
 
 ### Models represent theories
 
@@ -948,6 +950,7 @@ Frigg:
 >   but the voices of different theories when put to use in chorus with each
 >   other in one model. [^Frigg2020]
 
+-   "All models are wrong [, but some are useful]." [^Box1976]
 -   "Surrogative Reasoning Condition" [^Frigg2017]
 -   Hugh Everett's thesis, Appendix II
 -   ["What is the difference between a model and a theory?"](https://physics.stackexchange.com/questions/187967/what-is-the-difference-between-a-model-and-a-theory) - physics.stackexchange.com
@@ -955,6 +958,13 @@ Frigg:
 -   "What is a scientific theory?" [^Suppes1967]
 -   *Models as Mediators* [^Morgan1999]
 -   [NPR: How to make sense of all the COVID-19 projections? A new model combines them.](https://www.npr.org/sections/health-shots/2020/05/13/855038708/combining-different-models-new-coronavirus-projection-shows-110-000-deaths-by-ju)
+
+[^Box1976]: @Box_1976_Science_and_statistics\.
+[^Frigg2017]: @Frigg_2017_Models_and_representation\.
+[^Frigg2020]: @Frigg_2020_Models_in_science\.
+[^Morgan1999]: @Morgan_1999_Models_as_Mediators\.
+[^Suppes1961]: @Suppes_1961_A_comparison_of_the_meaning_and_uses_of_models\.
+[^Suppes1967]: @Suppes_1967_What_is_a_scientific_theory\.
 
 
 ### Digression: Some physicists have semantic differences
@@ -967,13 +977,6 @@ Frigg:
     is that a model stands-in as a representative of a theory
     that can be compared with the data.
 -   TODO: find good example refs
-
-[^French2007p81]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. 81.
-[^Frigg2017]: @Frigg_2017_Models_and_representation\.
-[^Frigg2020]: @Frigg_2020_Models_in_science\.
-[^Morgan1999]: @Morgan_1999_Models_as_Mediators\.
-[^Suppes1961]: @Suppes_1961_A_comparison_of_the_meaning_and_uses_of_models\.
-[^Suppes1967]: @Suppes_1967_What_is_a_scientific_theory\.
 
 
 Knowledge and realism

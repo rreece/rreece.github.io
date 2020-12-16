@@ -3,6 +3,7 @@ Aumann, R.J. (1976). Agreeing to disagree. *The Annals of Statistics*, 4(6), 123
 Bhaskar, R. (2008). *A Realist Theory of Science*. Routledge.
 Blachowicz, J. (2009). How science textbooks treat scientific method: A philosopher's perspective. *The British Journal for the Philosophy of Science*, 60(2), 303--344.
 Blachowicz, J. (2016). There is no scientific method. *The New York Times*. https://www.nytimes.com/2016/07/04/opinion/there-is-no-scientific-method.html [July 4, 2016]
+Box, G.E.P. (1976). Science and statistics. *Journal of the American Statistical Association*, 71(356), 791--799.
 Carnap, R. (1945). On inductive logic. *Philosophy of Science*, 12, 72--97.
 Carnap, R. (1950). *Logical Foundations of Probability*. University of Chicago Press.
 Carnap, R. (1952). *The Continuum of Inductive Methods*. University of Chicago Press.

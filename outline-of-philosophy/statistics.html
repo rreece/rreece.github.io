@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Tue Dec 15, 2020" />
+  <meta name="date" content="Wed Dec 16, 2020" />
   <title>Philosophy of statistics - Ryan&#8217;s Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#8217;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -146,8 +146,8 @@
 <ol style="list-style-type: decimal">
 <li><a href="statistics.html#introduction-4">Introduction</a></li>
 <li><a href="statistics.html#deep-double-descent">Deep double descent</a></li>
-<li><a href="statistics.html#batch-size-vs-learning-rate">Batch size vs learning rate</a></li>
 <li><a href="statistics.html#regularization">Regularization</a></li>
+<li><a href="statistics.html#batch-size-vs-learning-rate">Batch size vs learning rate</a></li>
 <li><a href="statistics.html#computer-vision">Computer vision</a></li>
 <li><a href="statistics.html#natural-language-processing">Natural language processing</a></li>
 <li><a href="statistics.html#reinforcement-learning">Reinforcement learning</a></li>
@@ -941,6 +941,21 @@ D_\mathrm{KL}(p, q)
 <li><a href="https://openai.com/blog/deep-double-descent/">&#8220;Deep Double Descent&#8221;</a>. <em>OpenAI Blog</em>.</li>
 <li>Hubinger, E. (2019). <a href="https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent">Understanding &#8220;Deep Double Descent&#8221;</a>. <em>LessWrong</em>.</li>
 </ul>
+<h3 id="regularization">Regularization</h3>
+<p>Regularization = any change we make to the training algorithm in order to reduce the generalization error but not the training error.<a href="#fn97" class="footnoteRef" id="fnref97"><sup>97</sup></a></p>
+<p>Most common regularizations:</p>
+<ul>
+<li>L2 Regularization</li>
+<li>L1 Regularization</li>
+<li>Data Augmentation</li>
+<li>Dropout</li>
+<li>Early Stopping</li>
+</ul>
+<p>Papers:</p>
+<ul>
+<li>Loshchilov, I. &amp; Hutter, F. (2019). <a href="https://arxiv.org/abs/1711.05101">Decoupled weight decay regularization</a>.</li>
+<li>A group theoretic framework for data augmentation<a href="#fn98" class="footnoteRef" id="fnref98"><sup>98</sup></a></li>
+</ul>
 <h3 id="batch-size-vs-learning-rate">Batch size vs learning rate</h3>
 <p>Papers:</p>
 <ol style="list-style-type: decimal">
@@ -1032,21 +1047,6 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Shen, K. (2018). <a href="https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e">Effect of batch size on training dynamics</a>.</li>
 <li>Chang, D. (2020). <a href="https://medium.com/deep-learning-experiments/effect-of-batch-size-on-neural-net-training-c5ae8516e57">Effect of batch size on neural net training</a>.</li>
-</ul>
-<h3 id="regularization">Regularization</h3>
-<p>Regularization = any change we make to the training algorithm in order to reduce the generalization error but not the training error.<a href="#fn97" class="footnoteRef" id="fnref97"><sup>97</sup></a></p>
-<p>Most common regularizations:</p>
-<ul>
-<li>L2 Regularization</li>
-<li>L1 Regularization</li>
-<li>Data Augmentation</li>
-<li>Dropout</li>
-<li>Early Stopping</li>
-</ul>
-<p>Papers:</p>
-<ul>
-<li>Loshchilov, I. &amp; Hutter, F. (2019). <a href="https://arxiv.org/abs/1711.05101">Decoupled weight decay regularization</a>.</li>
-<li>A group theoretic framework for data augmentation<a href="#fn98" class="footnoteRef" id="fnref98"><sup>98</sup></a></li>
 </ul>
 <h3 id="computer-vision">Computer vision</h3>
 <p>Computer Vision (CV)</p>
@@ -2020,7 +2020,7 @@ D_\mathrm{KL}(p, q)
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Tue Dec 15, 2020</p>
+    <p>Wed Dec 16, 2020</p>
   </div>
   <div class="license">
     <p>&#169; 2014-2020 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>

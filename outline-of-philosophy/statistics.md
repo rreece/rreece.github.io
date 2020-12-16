@@ -1022,6 +1022,27 @@ Deep learning
 [^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
 
 
+### Regularization
+
+Regularization = any change we make to the training algorithm in order to reduce the generalization error but not the training error. [^Mishra2020]
+
+Most common regularizations:
+
+-   L2 Regularization
+-   L1 Regularization
+-   Data Augmentation
+-   Dropout
+-   Early Stopping
+
+Papers:
+
+-   Loshchilov, I. & Hutter, F. (2019). [Decoupled weight decay regularization](https://arxiv.org/abs/1711.05101).
+-   A group theoretic framework for data augmentation [^Chen2020]
+
+[^Chen2020]: @Chen_2020_A_group_theoretic_framework_for_data_augmentation\.
+[^Mishra2020]: Mishra, D. (2020). [Weight Decay == L2 Regularization?](https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd)
+
+
 ### Batch size vs learning rate
 
 Papers:
@@ -1139,27 +1160,6 @@ Blogs:
 
 -   Shen, K. (2018). [Effect of batch size on training dynamics](https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e).
 -   Chang, D. (2020). [Effect of batch size on neural net training](https://medium.com/deep-learning-experiments/effect-of-batch-size-on-neural-net-training-c5ae8516e57).
-
-
-### Regularization
-
-Regularization = any change we make to the training algorithm in order to reduce the generalization error but not the training error. [^Mishra2020]
-
-Most common regularizations:
-
--   L2 Regularization
--   L1 Regularization
--   Data Augmentation
--   Dropout
--   Early Stopping
-
-Papers:
-
--   Loshchilov, I. & Hutter, F. (2019). [Decoupled weight decay regularization](https://arxiv.org/abs/1711.05101).
--   A group theoretic framework for data augmentation [^Chen2020]
-
-[^Chen2020]: @Chen_2020_A_group_theoretic_framework_for_data_augmentation\.
-[^Mishra2020]: Mishra, D. (2020). [Weight Decay == L2 Regularization?](https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd)
 
 
 ### Computer vision
