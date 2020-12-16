@@ -1170,6 +1170,8 @@ Computer Vision (CV)
 
 Natural Language Processing (NLP)
 
+-   Firth (1957)? "You shall know a word by the company it keeps"
+-   word2vec
 -   RNNs and LSTMs
     -   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
 -   Backpropagation through time (BPTT)
