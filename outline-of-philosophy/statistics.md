@@ -1193,8 +1193,15 @@ Natural Language Processing (NLP)
 
 -   Firth (1957)? "You shall know a word by the company it keeps"
 -   word2vec
+    -   Mikolov [^Mikolov2013]
+    -   Julia Bazi&nacute;ska
+    -   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
+    -   Migdal, P. (2017). [king - man + woman is queen; but why?](https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html)
+    -   Ethayarajh, K. (2019). [Word embedding analogies: Understanding King - Man + Woman = Queen](https://kawine.github.io/blog/nlp/2019/06/21/word-analogies.html).
+    -   Allen, C. (2019). [''Analogies Explained'' ... Explained](https://carl-allen.github.io/nlp/2019/07/01/explaining-analogies-explained.html).
 -   RNNs and LSTMs
     -   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
+    -   Olah, C. (2015). [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
 -   Backpropagation through time (BPTT)
 -   Sutskever seq2seq [^Sutskever2014]
 -   Bahdanau attention [^Bahdanau2015] and GNMT [^Wu2016]
@@ -1213,6 +1220,8 @@ Natural Language Processing (NLP)
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
+[^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations and
+    @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\.
 [^Radford2018]: @Radford_2018_Improving_language_understanding_by_generative\.
 [^Radford2019]: @Radford_2019_Language_models_are_unsupervised_multitask\.
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.

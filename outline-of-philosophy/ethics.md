@@ -203,6 +203,7 @@ Regret
 -   Pigliucci, M. (2016). [What's the point of regret?](https://howtobeastoic.wordpress.com/2016/11/25/whats-the-point-of-regret/)
 -   Danaher, J. (2019). [The wisdom of regret and the fallacy of regret minimisation](https://philosophicaldisquisitions.blogspot.com/2019/01/the-wisdom-of-regret-and-fallacy-of.html).
 -   Malesic, J. (2020). [Je regrette tout: Does moral growth demand regret?](https://hedgehogreview.com/issues/monsters/articles/je-regrette-tout)
+-   See also: [Depression](human-condition.html#depression) in the [Outline on the human condition](human-condition.html).
 
 
 Compassion

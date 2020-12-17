@@ -94,6 +94,8 @@ Mayo, D.G. (2018). *Statistical Inference as Severe Testing: How to Get Beyond t
 Mayo, D.G. (2019). The law of likelihood and error statistics. https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/
 Mayo, D.G. (2020). Significance tests: Vitiated or vindicated by the replication crisis in psychology? *Review of Philosophy and Psychology*, 99, 1-20. [(forthcoming)]
 McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). Academic Press: New York.
+Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
+Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
 Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. https://arxiv.org/abs/1912.02292
 Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.

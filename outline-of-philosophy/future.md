@@ -47,9 +47,15 @@ Artificial intelligence
 -   Russell & Norvig [^Russell1995]
 -   Video: Carroll, S. & Russell, S. (2020). [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
 -   Russell: AI gives us the Midas touch
+-   Jeremy Howard warning about the abilities of models like GPT-2:  
+
+>   We have the technology to totally fill Twitter, email, and the web up with reasonable-sounding,
+>   context-appropriate prose, which would drown out all other speech and be impossible to filter. [^Vincent2019]
+
 -   See also: [Machine learning](http://rreece.github.io/outline-of-philosophy/statistics.html#machine-learning)
     in the [Outline on the philosophy of statistics](http://rreece.github.io/outline-of-philosophy/statistics.html).
 
+[^Vincent2019]: Vincent, J. (2019). [OpenAI's new multitalented AI writes, translates, and slanders: A step forward in AI text-generation that also spells trouble](https://www.theverge.com/2019/2/14/18224704/ai-machine-learning-language-models-read-write-openai-gpt2).
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 
 
