@@ -1189,8 +1189,7 @@ Computer Vision (CV)
 
 ### Natural language processing
 
-Natural Language Processing (NLP)
-
+-   Natural Language Processing (NLP)
 -   Firth (1957)? "You shall know a word by the company it keeps"
 -   word2vec
     -   Mikolov [^Mikolov2013]
@@ -1203,16 +1202,19 @@ Natural Language Processing (NLP)
     -   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
     -   Olah, C. (2015). [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
 -   Backpropagation through time (BPTT)
--   Sutskever seq2seq [^Sutskever2014]
--   Bahdanau attention [^Bahdanau2015] and GNMT [^Wu2016]
--   Review by Stahlberg [^Stahlberg2019]
--   Rationalism and empiricism in artificial intellegence:
-    A survey of 25 years of evaluation [in NLP]. [^Church2019]
--   Transformer [^Vaswani2017]
--   BERT [^Devlin2018]
--   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
--   ALBERT [^Lan2019]
--   GPT-1 [^Radford2018], 2 [^Radford2019], 3 [^Brown2020]
+-   Neural Machine Translation (NMT)
+    -   Sutskever seq2seq [^Sutskever2014]
+    -   Bahdanau attention [^Bahdanau2015] and GNMT [^Wu2016]
+    -   Review by Stahlberg [^Stahlberg2019]
+-   Scaling laws in NLP
+    -   Rationalism and empiricism in artificial intellegence:
+        A survey of 25 years of evaluation [in NLP]. [^Church2019]
+-   Attention and Transformers
+    -   Transformer [^Vaswani2017]
+    -   BERT [^Devlin2018]
+    -   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
+    -   ALBERT [^Lan2019]
+    -   GPT-1 [^Radford2018], 2 [^Radford2019], 3 [^Brown2020]
 
 [^Bahdanau2015]: @Bahdanau_2015_Neural_machine_translation_by_jointly_learning\.
 [^Brown2020]: @Brown_2020_Language_models_are_few_shot_learners\.
