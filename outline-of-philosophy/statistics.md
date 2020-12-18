@@ -1197,7 +1197,7 @@ Computer Vision (CV)
     -   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
     -   Migdal, P. (2017). [king - man + woman is queen; but why?](https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html)
     -   Ethayarajh, K. (2019). [Word embedding analogies: Understanding King - Man + Woman = Queen](https://kawine.github.io/blog/nlp/2019/06/21/word-analogies.html).
-    -   Allen, C. (2019). [''Analogies Explained'' ... Explained](https://carl-allen.github.io/nlp/2019/07/01/explaining-analogies-explained.html).
+    -   Allen, C. (2019). ["Analogies Explained" ... Explained](https://carl-allen.github.io/nlp/2019/07/01/explaining-analogies-explained.html).
 -   RNNs and LSTMs
     -   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
     -   Olah, C. (2015). [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
@@ -1215,11 +1215,18 @@ Computer Vision (CV)
     -   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
     -   ALBERT [^Lan2019]
     -   GPT-1 [^Radford2018], 2 [^Radford2019], 3 [^Brown2020]
+    -   DeepMind's blog posts for more details: [AlphaFold1](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery),
+        [AlphaFold2](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).
+        Slides from the CASP14 conference are publicly available [here](https://predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf).
+    -   SE(3)-Transformers [^Fuchs2020] and [blog post](https://fabianfuchsml.github.io/alphafold2/).
+
+![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block}
 
 [^Bahdanau2015]: @Bahdanau_2015_Neural_machine_translation_by_jointly_learning\.
 [^Brown2020]: @Brown_2020_Language_models_are_few_shot_learners\.
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
+[^Fuchs2020]: @Fuchs_2020_SE3_Transformers_3D_roto_translation\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations and

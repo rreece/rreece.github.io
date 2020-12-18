@@ -905,6 +905,23 @@ French:
 >   idealizations that allow the scientist to ignore certain factors,
 >   for example, and [more] easily relate the theory to observations. [^French2007p81]
 
+Holm:
+
+>   Fermat's principle (that the light ray passing from one point to another in an
+>   optical medium takes the path of stationary optical length) is complementary to
+>   Huygens' principle (that a later wave front emerges as the envelope of wavelets
+>   emitted from the present wave front). Both principles are only models of reality,
+>   but they are models in the best sense. Both are transcendent fabrications that
+>   intuited the results of a later, more fundamental principle (Maxwell's equations)
+>   and gave accurate predictions at the level of physical perception in their time.
+>   Without being the full truth by being physically tenable themselves, they
+>   fulfilled the tasks for which they were developed and they laid the foundations
+>   for more fundamental theories. Light rays do not exist and points along a
+>   light wave do not emit light. However, both principles work quite well in the
+>   design of optical instruments! In addition, both principles are still interesting
+>   now as the mathematical definitions of rays and wave fronts, respectively,
+>   although neither fully represents the physical principles of optics. [^Holm2011Ipxvi]
+
 Model the theory:
 
 $$ \text{Theory} + \text{Modeling} \longrightarrow \text{Model} $$
@@ -914,6 +931,7 @@ Fit the model to the data to make inferences on the theory:
 $$ \text{Model} + \text{Data} + \text{Statistical Analysis} \longrightarrow \text{Model(improved)} \longrightarrow \text{Theory(improved)} $$
 
 [^French2007p81]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. 81.
+[^Holm2011Ipxvi]: @Holm_2011_Geometric_Mechanics_Part_I_Dynamics\, p. xvi.
 
 
 ### Models represent theories

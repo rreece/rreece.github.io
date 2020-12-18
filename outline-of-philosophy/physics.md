@@ -80,8 +80,11 @@ History:
 Pedagogy:
 
 -   *The Feynman Lectures on Physics* [^Feynman1963]
+-   Holm's *Geometric Mechanics* [^Holm2011]
 
 [^Feynman1963]: @Feynman_1963_The_Feynman_Lectures_on_Physics_Volume_I\.
+[^Holm2011]: @Holm_2011_Geometric_Mechanics_Part_I_Dynamics and
+    @Holm_2011_Geometric_Mechanics_Part_II_Rotating\.
 
 
 ### Electrodynamics
