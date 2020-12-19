@@ -4,8 +4,7 @@ Invitation
 A place to start in the discussion of philosophy of science and naturalism.
 
 
-What is this?
---------------------------------------------------------------------------------
+### What is this?
 
 Welcome to *ROP*!
 
@@ -28,8 +27,7 @@ which will be roughly defined below.
 But first...
 
 
-What is philosophy of science?
---------------------------------------------------------------------------------
+### What is philosophy of science?
 
 Philosophy of science may sound like a rather dry and esoteric topic,
 but its concerns have implications as radical as delineating
@@ -61,8 +59,7 @@ what science is, what understanding it brings,
 and what its implications are.
 
 
-What is naturalism?
---------------------------------------------------------------------------------
+### What is naturalism?
 
 *[Naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)*
 is a unifying view of philosophy and science that will be a key theme
@@ -98,8 +95,7 @@ W.V.O. Quine, Wilfrid Sellars, and many others.
     If you are an expert in the origins of science, please contact me.
 
 
-Why should I care?
---------------------------------------------------------------------------------
+### Why should I care?
 
 We live in a time where science has clear leverage on shaping our future.
 Science enables the technologies that drive our economies.
@@ -154,12 +150,22 @@ criticisms of positions as they will be about any position itself.
 >   First, we'll tell him that nobody begrudges him any knowledge he may have
 >   and that we'd be delighted to discover that he knows something. [^RepublicV476e]
 
-Who do I want to reach with this project?
+
+### Who do I want to reach with this project?
+
+This project may never be polished enough to be pedagogical.
+The primary purpose of these pages are to collect and organize references
+of what I've been personally studying.
+If you come along for any part of the ride, that's great.
+Please let me know: 
+[&commat;RyanDavidReece](https://twitter.com/RyanDavidReece).
+
+Who might find this interesting?
 
 -   Anyone interested in the engagement of science and philosophy.
 -   Skeptics of science and anti-naturalists of one form or another that see science
     as just one of many competing claims to knowledge.
--   Allies in elucidating the demarcation of what science is,
+-   Collaborators in elucidating the demarcation of what science is,
     and what sorts of claims it justifies.
 -   Can this be accessible and interesting to both academic and popular audiences?
 
