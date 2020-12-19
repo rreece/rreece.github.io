@@ -7,7 +7,7 @@ Contents
 
 All the following are in flux and development:
 
-1.  [Invitation to scientific philosophy](invitation.html) -- a place to start in the discussion of philosophy of science and naturalism.
+1.  [Invitation to scientific philosophy](invitation.html) -- start here.
 1.  [The scientific method](scientific-method.html) -- the key to epistemology.
 1.  [Philosophy of statistics](statistics.html)  -- the details behind a justified epistemology.
 1.  [Scientific realism](scientific-realism.html) -- the key to metaphysics.
