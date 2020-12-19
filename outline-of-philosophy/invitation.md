@@ -154,9 +154,9 @@ criticisms of positions as they will be about any position itself.
 ### Who do I want to reach with this project?
 
 This project may never be polished enough to be pedagogical.
-The primary purpose of these pages are to collect and organize references
+The primary purpose of these pages is to collect and organize references
 of what I've been personally studying.
-If you come along for any part of the ride, that's great.
+If you come along for any part of the ride and find any of this useful, that's great.
 Please let me know by leaving a comment bellow or on twitter:
 [&commat;RyanDavidReece](https://twitter.com/RyanDavidReece).
 
