@@ -176,6 +176,11 @@ Political philosophy
 -   Libertarianism
 -   Neoliberalism
 
+>   Everyone of us has been warmed by fires we did not build.
+>   Everyone of us has drank from wells we did not dig. [^Shields20202]
+
+[^Shields20202]: Shields, M. (2020). [The last night of Mark Shields on the PBS News Hour](https://www.youtube.com/watch?v=a1MKG_3jC9g&ab_channel=PBSNewsHour).
+
 
 Free speech 
 --------------------------------------------------------------------------------
