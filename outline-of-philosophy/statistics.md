@@ -1241,9 +1241,23 @@ Computer Vision (CV)
 
 ### Reinforcement learning
 
+-   Reinforcement Learning (RL)
 -   Sutton & Barto [^Sutton2018]
--   AlphaGo
+-   Q-learning and DQN
+    -   The Bellman equation [^Bellman1952]
+    -   AlphaGo Lee [^Silver2016AlphaGoLee] &rarr; AlphaGo Zero [^Silver2017AlphaGoZero] &rarr; AlphaZero [^Silver2017AlphaZero]
+    -   [OpenAI Five (masters Dota2)](https://openai.com/blog/openai-five/)
+    -   [AlphaStar masters StarCraftII](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
+-   Counterfactual Regret Minimization (CRM)
+    -   Libratus
+    -   Pluribus
+        -   [No limit: AI poker bot is first to beat professionals at multiplayer game](https://www.nature.com/articles/d41586-019-02156-9)
+        -   Brown, N. (2019). [Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/).
 
+[^Bellman1952]: @Bellman_1952_On_the_theory_of_dynamic_programming\.
+[^Silver2016AlphaGoLee]: @Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks\.
+[^Silver2017AlphaGoZero]: @Silver_2017_Mastering_the_game_of_Go_without_human_knowledge\.
+[^Silver2017AlphaZero]: @Silver_2017_Mastering_chess_and_shogi_by_self_play_with\.
 [^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
 
 
