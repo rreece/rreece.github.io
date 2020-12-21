@@ -22,6 +22,7 @@ Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold
 Brown, L.D., Cai, T.T., & DasGupta, A. (2001). Interval estimation for a binomial proportion. *Statistical Science*, 16(2), 101--133. https://projecteuclid.org/euclid.ss/1009213286
 Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2018). Deep counterfactual regret minimization. https://arxiv.org/abs/1811.00164
 Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. *Science*, 359, 418--424.
+Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. *Proceedings of the AAAI Conference on Artificial Intelligence*, 33, 1829--1836. https://arxiv.org/abs/1809.04040
 Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. *Science*, 365, 885--890.
 Caldeira, J. & Nord, B. (2020). Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms. *Machine Learning: Science and Technology*, 2, 015002. https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3
 Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistics*. Springer Switzerland.

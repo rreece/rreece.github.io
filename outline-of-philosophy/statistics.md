@@ -1256,6 +1256,7 @@ Computer Vision (CV)
     -   Libratus
         -   Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2018). Deep counterfactual regret minimization. [^Brown2018DCRM]
         -   Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. [^Brown2018]
+        -   Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. [^Brown2019SIIG]
     -   Pluribus
         -   Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. [^Brown2019]
         -   Brown, N. (2019). [Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/).
@@ -1266,6 +1267,7 @@ Computer Vision (CV)
 [^Brown2018DCRM]: @Brown_2018_Deep_counterfactual_regret_minimization\.
 [^Brown2018]: @Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker\.
 [^Brown2019]: @Brown_2019_Superhuman_AI_for_multiplayer_poker\.
+[^Brown2019SIIG]: @Brown_2019_Solving_imperfect_information_games_via_discounted\.
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 [^Moravik2017]: @Moravik_2017_Deepstack_Expert_level_artificial_intelligence\.
 [^Silver2016AlphaGoLee]: @Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks\.
