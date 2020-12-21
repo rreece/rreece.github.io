@@ -1251,6 +1251,7 @@ Computer Vision (CV)
     -   [AlphaStar masters StarCraftII](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
 -   Counterfactual Regret Minimization (CRM or CFR, MCCFR)
     -   Previous stuff
+        -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
         -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. [^Bowling2015]
         -   Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. [^Moravcik2017]
     -   Libratus
@@ -1274,6 +1275,7 @@ Computer Vision (CV)
 [^Silver2017AlphaGoZero]: @Silver_2017_Mastering_the_game_of_Go_without_human_knowledge\.
 [^Silver2017AlphaZero]: @Silver_2017_Mastering_chess_and_shogi_by_self_play_with\.
 [^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
+[^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.
 
 
 Theoretical machine learning
