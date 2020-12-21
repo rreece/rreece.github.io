@@ -1252,7 +1252,7 @@ Computer Vision (CV)
 -   Counterfactual Regret Minimization (CRM or CFR, MCCFR)
     -   Previous stuff
         -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. [^Bowling2015]
-        -   Moravik, M. et al. (2017). Deepstack: Expert-level artificial intelligence in heads-up no-limit poker. [^Moravik2017]
+        -   Moravcik, M. et al. (2017). Deepstack: Expert-level artificial intelligence in heads-up no-limit poker. [^Moravcik2017]
     -   Libratus
         -   Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2018). Deep counterfactual regret minimization. [^Brown2018DCRM]
         -   Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. [^Brown2018]
@@ -1269,7 +1269,7 @@ Computer Vision (CV)
 [^Brown2019]: @Brown_2019_Superhuman_AI_for_multiplayer_poker\.
 [^Brown2019SIIG]: @Brown_2019_Solving_imperfect_information_games_via_discounted\.
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
-[^Moravik2017]: @Moravik_2017_Deepstack_Expert_level_artificial_intelligence\.
+[^Moravcik2017]: @Moravcik_2017_Deepstack_Expert_level_artificial_intelligence\.
 [^Silver2016AlphaGoLee]: @Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks\.
 [^Silver2017AlphaGoZero]: @Silver_2017_Mastering_the_game_of_Go_without_human_knowledge\.
 [^Silver2017AlphaZero]: @Silver_2017_Mastering_chess_and_shogi_by_self_play_with\.
