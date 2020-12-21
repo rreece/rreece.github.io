@@ -1249,7 +1249,7 @@ Computer Vision (CV)
     -   AlphaGo Lee [^Silver2016AlphaGoLee] &rarr; AlphaGo Zero [^Silver2017AlphaGoZero] &rarr; AlphaZero [^Silver2017AlphaZero]
     -   [OpenAI Five (masters Dota2)](https://openai.com/blog/openai-five/)
     -   [AlphaStar masters StarCraftII](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
--   Counterfactual Regret Minimization (CRM)
+-   Counterfactual Regret Minimization (CRM or CFR, MCCFR)
     -   Previous stuff
         -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. [^Bowling2015]
         -   Moravik, M. et al. (2017). Deepstack: Expert-level artificial intelligence in heads-up no-limit poker. [^Moravik2017]
