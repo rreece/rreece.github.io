@@ -1243,18 +1243,31 @@ Computer Vision (CV)
 
 -   Reinforcement Learning (RL)
 -   Sutton & Barto [^Sutton2018]
+-   Deep Reinforcement Learning: A Brief Survey [^Arulkumaran2017]
 -   Q-learning and DQN
     -   The Bellman equation [^Bellman1952]
     -   AlphaGo Lee [^Silver2016AlphaGoLee] &rarr; AlphaGo Zero [^Silver2017AlphaGoZero] &rarr; AlphaZero [^Silver2017AlphaZero]
     -   [OpenAI Five (masters Dota2)](https://openai.com/blog/openai-five/)
     -   [AlphaStar masters StarCraftII](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
 -   Counterfactual Regret Minimization (CRM)
+    -   Previous stuff
+        -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. [^Bowling2015]
+        -   Moravik, M. et al. (2017). Deepstack: Expert-level artificial intelligence in heads-up no-limit poker. [^Moravik2017]
     -   Libratus
+        -   Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2018). Deep counterfactual regret minimization. [^Brown2018DCRM]
+        -   Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. [^Brown2018]
     -   Pluribus
-        -   [No limit: AI poker bot is first to beat professionals at multiplayer game](https://www.nature.com/articles/d41586-019-02156-9)
+        -   Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. [^Brown2019]
         -   Brown, N. (2019). [Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/).
+        -   [No limit: AI poker bot is first to beat professionals at multiplayer game](https://www.nature.com/articles/d41586-019-02156-9)
 
+[^Arulkumaran2017]: @Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey\.
 [^Bellman1952]: @Bellman_1952_On_the_theory_of_dynamic_programming\.
+[^Brown2018DCRM]: @Brown_2018_Deep_counterfactual_regret_minimization\.
+[^Brown2018]: @Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker\.
+[^Brown2019]: @Brown_2019_Superhuman_AI_for_multiplayer_poker\.
+[^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
+[^Moravik2017]: @Moravik_2017_Deepstack_Expert_level_artificial_intelligence\.
 [^Silver2016AlphaGoLee]: @Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks\.
 [^Silver2017AlphaGoZero]: @Silver_2017_Mastering_the_game_of_Go_without_human_knowledge\.
 [^Silver2017AlphaZero]: @Silver_2017_Mastering_chess_and_shogi_by_self_play_with\.
