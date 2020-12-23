@@ -1214,7 +1214,7 @@ Computer Vision (CV)
     -   BERT [^Devlin2018]
     -   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
     -   ALBERT [^Lan2019]
-    -   GPT-1 [^Radford2018], 2 [^Radford2019], 3 [^Brown2020]
+    -   GPT-1 [^Radford2018], 2 [^Radford2019], 3 [^Brown2020GPT3]
     -   DeepMind's blog posts for more details: [AlphaFold1](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery),
         [AlphaFold2](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).
         Slides from the CASP14 conference are publicly available [here](https://predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf).
@@ -1223,7 +1223,7 @@ Computer Vision (CV)
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block}
 
 [^Bahdanau2015]: @Bahdanau_2015_Neural_machine_translation_by_jointly_learning\.
-[^Brown2020]: @Brown_2020_Language_models_are_few_shot_learners\.
+[^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Fuchs2020]: @Fuchs_2020_SE3_Transformers_3D_roto_translation\.
@@ -1250,7 +1250,7 @@ Computer Vision (CV)
     -   [OpenAI Five (masters Dota2)](https://openai.com/blog/openai-five/)
     -   [AlphaStar masters StarCraftII](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
 -   Counterfactual Regret Minimization (CRM or CFR, MCCFR)
-    -   Previous stuff
+    -   Earlier poker work
         -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
         -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. [^Bowling2015]
         -   Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. [^Moravcik2017]
@@ -1262,6 +1262,9 @@ Computer Vision (CV)
         -   Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. [^Brown2019]
         -   Brown, N. (2019). [Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/).
         -   [No limit: AI poker bot is first to beat professionals at multiplayer game](https://www.nature.com/articles/d41586-019-02156-9)
+    -   ReBeL
+        -   Brown, N. et al. (2020). Combining deep reinforcement learning and search. [^Brown2020]
+        -   [ReBeL: A general game-playing AI bot that excels at poker and more](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/)
 
 [^Arulkumaran2017]: @Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey\.
 [^Bellman1952]: @Bellman_1952_On_the_theory_of_dynamic_programming\.
@@ -1270,6 +1273,7 @@ Computer Vision (CV)
 [^Brown2019]: @Brown_2019_Superhuman_AI_for_multiplayer_poker\.
 [^Brown2019SIIG]: @Brown_2019_Solving_imperfect_information_games_via_discounted\.
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
+[^Brown2020]: @Brown_2020_Combining_deep_reinforcement_learning_and_search\.
 [^Moravcik2017]: @Moravcik_2017_DeepStack_Expert_level_artificial_intelligence\.
 [^Silver2016AlphaGoLee]: @Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks\.
 [^Silver2017AlphaGoZero]: @Silver_2017_Mastering_the_game_of_Go_without_human_knowledge\.

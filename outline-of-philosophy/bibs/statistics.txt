@@ -24,12 +24,13 @@ Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2018). Deep counterfactual regr
 Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. *Science*, 359, 418--424.
 Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. *Proceedings of the AAAI Conference on Artificial Intelligence*, 33, 1829--1836. https://arxiv.org/abs/1809.04040
 Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. *Science*, 365, 885--890.
+Brown, N., Bakhtin, A., Lerer, A., & Gong, Q. (2020). Combining deep reinforcement learning and search for imperfect-information games. https://arxiv.org/abs/2007.13544
 Caldeira, J. & Nord, B. (2020). Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms. *Machine Learning: Science and Technology*, 2, 015002. https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3
 Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistics*. Springer Switzerland.
 Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenological Research*, 5(4), 513--32. 
 Carnap, R. (1947). Probability as a guide in life. *Journal of Philosophy*, 44(6), 141--48.
 Chen, S., Dobriban, E., & Lee, J.H. (2020). A group-theoretic framework for data augmentation. https://arxiv.org/abs/1907.10905
-Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation. *Natural Language Engineering*, 25(6), 753--767.
+Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation. *Natural Language Engineering*, 25(6), 753--767. https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291
 Ciresan, D., Meier, U. Masci, J. & Schmidhuber, J. (2012). Multi-column deep neural network for traffic sign classification. *Neural Networks*, 32, 333--338. https://arxiv.org/abs/1202.2745
 Clopper, C.J. & Pearson, E.S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, 26(4), 404--413.
 Cohen, T.S. & Welling, M. (2016). Group equivariant convolutional networks. *Proceedings of International Conference on Machine Learning*, 2016, 2990--9. http://proceedings.mlr.press/v48/cohenc16.pdf
@@ -141,7 +142,7 @@ Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the phys
 Stahlberg, F. (2019). Neural machine translation: A review. https://arxiv.org/abs/1912.02047
 Stuart, A., Ord, K., & Arnold, S. (2010). *Kendall's Advanced Theory of Statistics, Vol 2A: Classical Inference and the Linear Model*. Wiley.
 Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning with neural networks. *Advances in Neural Information Processing Systems*, 2014, 3104--3112. https://arxiv.org/abs/1409.3215
-Sutton, R.S., & Barto, A.G. (2018). *Reinforcement Learning*. MIT Press.
+Sutton, R.S., & Barto, A.G. (2018). *Reinforcement Learning* (2nd ed.). MIT Press.
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Tan, M. & Le, Q.V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. https://arxiv.org/abs/1905.11946
 Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
