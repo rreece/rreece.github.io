@@ -1318,7 +1318,7 @@ Computer Vision (CV)
 -   ReBeL
     -   Brown, N. et al. (2020). Combining deep reinforcement learning and search. [^Brown2020]
     -   [ReBeL: A general game-playing AI bot that excels at poker and more](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/)
-    -   YouTube by Brown: [Combining reep reinforcement learning and search for imperfect-information games](https://www.youtube.com/watch?v=mCldyXOYNok).
+    -   YouTube by Brown: [Combining deep reinforcement learning and search for imperfect-information games](https://www.youtube.com/watch?v=mCldyXOYNok).
 
 [^Brown2018Libratus]: @Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker\.
 [^Brown2019Pluribus]: @Brown_2019_Superhuman_AI_for_multiplayer_poker\.
