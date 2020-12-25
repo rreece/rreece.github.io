@@ -20,10 +20,10 @@ Birnbaum, A. (1962). On the foundations of statistical inference. *Journal of th
 Blondel, M., Martins, A.F., & Niculae, V. (2020). Learning with Fenchel-Young losses. *Journal of Machine Learning Research*, 21(35), 1--69.
 Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. *Science*, 347, 145--149. http://science.sciencemag.org/content/347/6218/145
 Brown, L.D., Cai, T.T., & DasGupta, A. (2001). Interval estimation for a binomial proportion. *Statistical Science*, 16(2), 101--133. https://projecteuclid.org/euclid.ss/1009213286
-Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2018). Deep counterfactual regret minimization. https://arxiv.org/abs/1811.00164
 Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. *Science*, 359, 418--424.
 Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. *Proceedings of the AAAI Conference on Artificial Intelligence*, 33, 1829--1836. https://arxiv.org/abs/1809.04040
 Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. *Science*, 365, 885--890.
+Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). Deep counterfactual regret minimization. https://arxiv.org/abs/1811.00164
 Brown, N., Bakhtin, A., Lerer, A., & Gong, Q. (2020). Combining deep reinforcement learning and search for imperfect-information games. https://arxiv.org/abs/2007.13544
 Caldeira, J. & Nord, B. (2020). Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms. *Machine Learning: Science and Technology*, 2, 015002. https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3
 Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistics*. Springer Switzerland.
@@ -74,6 +74,7 @@ Halverson, J., Maiti, A., & Stoner, K. (2020). Neural networks and quantum field
 Hanley, J.A. & Lippman-Hand, A. (1983). If nothing goes wrong, is everything all right?: Interpreting zero numerators. *JAMA*, 249(13), 1743--1745.
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
 He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image recognition. https://arxiv.org/abs/1512.03385
+Heinrich, J. & Silver, D. (2016). Deep reinforcement learning from self-play in imperfect-information games. https://arxiv.org/abs/1603.01121
 Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation*, 9(8), 1735--1780.
 Howard, A.G. et al. (2017). MobileNets: Efficient convolutional neural networks for mobile vision applications. https://arxiv.org/abs/1704.04861
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
@@ -85,6 +86,7 @@ Korb, K.B. (2001). Machine learning as philosophy of science. In *Proceedings of
 Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ImageNet classification with deep convolutional neural networks. *Advances in Neural Information Processing Systems*, 2012, 1097--1105. https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 Kruschke, J.K. & Liddell, T.M. (2018). The Bayesian New Statistics: Hypothesis testing, estimation, meta-analysis, and power analysis from a Bayesian perspective. *Psychonomic Bulletin & Review*, 25, 178--206. https://link.springer.com/article/10.3758/s13423-016-1221-4
 Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R. (2019). ALBERT: A lite BERT for self-supervised learning of language representations. https://arxiv.org/abs/1909.11942
+Lanctot, M., Waugh, K., Zinkevich, M., & Bowling, M. (2009). Monte Carlo sampling for regret minimization in extensive games. *Advances in Neural Information Processing Systems*, 22, 1078--1086.
 Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53. http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf
 #LeCun, Y., Boser, B., Denker, J.S., Henderson, D., Howard, R.E., Hubbard, W., & Jackel, L.D. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1(4), 541--551. http://www.ics.uci.edu/~welling/teaching/273ASpring09/lecun-89e.pdf
 LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1(4), 541--551. http://www.ics.uci.edu/~welling/teaching/273ASpring09/lecun-89e.pdf
@@ -108,6 +110,7 @@ Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuou
 Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. *Science*, 356, 508--513. https://arxiv.org/abs/1701.01724
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
 Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. https://arxiv.org/abs/1912.02292
+Neller, T.W. & Lanctot, M. (2013). An introduction to counterfactual regret minimization. *Proceedings of Model AI Assignments*, 11. http://cs.gettysburg.edu/~tneller/modelai/2013/cfr/cfr.pdf
 Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
 Neyman, J. (1957). "Inductive behavior" as a basic concept of philosophy of science. *Revue de l'Institut International de Statistique*, 25, 7--22.
 Neyman, J. (1977). Frequentist probability and frequentist statistics. *Synthese*, 36(1), 97--131.

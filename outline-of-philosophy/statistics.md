@@ -1244,42 +1244,68 @@ Computer Vision (CV)
 -   Reinforcement Learning (RL)
 -   Sutton & Barto [^Sutton2018]
 -   Deep Reinforcement Learning: A Brief Survey [^Arulkumaran2017]
--   Q-learning and DQN
-    -   The Bellman equation [^Bellman1952]
-    -   AlphaGo Lee [^Silver2016AlphaGoLee] &rarr; AlphaGo Zero [^Silver2017AlphaGoZero] &rarr; AlphaZero [^Silver2017AlphaZero]
-    -   [OpenAI Five (masters Dota2)](https://openai.com/blog/openai-five/)
-    -   [AlphaStar masters StarCraftII](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
--   Counterfactual Regret Minimization (CRM or CFR, MCCFR)
-    -   Earlier poker work
-        -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
-        -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. [^Bowling2015]
-        -   Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. [^Moravcik2017]
-    -   Libratus
-        -   Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2018). Deep counterfactual regret minimization. [^Brown2018DCRM]
-        -   Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. [^Brown2018]
-        -   Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. [^Brown2019SIIG]
-    -   Pluribus
-        -   Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. [^Brown2019]
-        -   Brown, N. (2019). [Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/).
-        -   [No limit: AI poker bot is first to beat professionals at multiplayer game](https://www.nature.com/articles/d41586-019-02156-9)
-    -   ReBeL
-        -   Brown, N. et al. (2020). Combining deep reinforcement learning and search. [^Brown2020]
-        -   [ReBeL: A general game-playing AI bot that excels at poker and more](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/)
 
 [^Arulkumaran2017]: @Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey\.
+[^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
+
+#### Q-learning
+
+-   Q-learning and DQN
+-   The Bellman equation [^Bellman1952]
+-   AlphaGo Lee [^Silver2016AlphaGoLee] &rarr; AlphaGo Zero [^Silver2017AlphaGoZero] &rarr; AlphaZero [^Silver2017AlphaZero]
+-   [OpenAI Five (masters Dota2)](https://openai.com/blog/openai-five/)
+-   [AlphaStar masters StarCraftII](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
+-   Heinrich & Silver. (2016). Deep reinforcement learning from self play in imperfect-information games. [^Heinrich2016]
+
 [^Bellman1952]: @Bellman_1952_On_the_theory_of_dynamic_programming\.
-[^Brown2018DCRM]: @Brown_2018_Deep_counterfactual_regret_minimization\.
-[^Brown2018]: @Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker\.
-[^Brown2019]: @Brown_2019_Superhuman_AI_for_multiplayer_poker\.
+[^Silver2016AlphaGoLee]: @Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks\.
+[^Silver2017AlphaGoZero]: @Silver_2017_Mastering_the_game_of_Go_without_human_knowledge\.
+[^Silver2017AlphaZero]: @Silver_2017_Mastering_chess_and_shogi_by_self_play_with\.
+[^Heinrich2016]: @Heinrich_2016_Deep_reinforcement_learning_from_self_play\.
+
+
+#### Counterfactual regret minimization
+
+-   Counterfactual Regret Minimization (CFR)
+-   CFR differs from traditional RL algorithms in that it does not try to maximize expected return. Instead, it minimizes exploitability.
+-   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
+-   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
+    -   Counterfactual Regret Minimization (MCCFR)
+-   Neller, T.W. & Lanctot, M. (2013). An introduction to counterfactual regret minimization. [^Neller2013]
+
+[^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
+[^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.
+[^Neller2013]: @Neller_2013_An_introduction_to_counterfactual_regret\.
+
+
+#### Solving poker
+
+-   Earlier poker work
+    -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. [^Bowling2015]
+        -   CFR+
+    -   Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. [^Moravcik2017]
+-   Libratus
+    -   Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. [^Brown2018Libratus]
+        -   bet and card abstraction
+        -   MCCFR used to find a solution of the abstracted game: blueprint
+    -   Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. [^Brown2019SIIG]
+    -   Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). Deep counterfactual regret minimization. [^Brown2019DCRM]
+-   Pluribus
+    -   Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. [^Brown2019Pluribus]
+    -   Brown, N. (2019). [Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/).
+    -   [No limit: AI poker bot is first to beat professionals at multiplayer game](https://www.nature.com/articles/d41586-019-02156-9)
+-   ReBeL
+    -   Brown, N. et al. (2020). Combining deep reinforcement learning and search. [^Brown2020]
+    -   [ReBeL: A general game-playing AI bot that excels at poker and more](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/)
+    -   YouTube by Brown: [Combining reep reinforcement learning and search for imperfect-information games](https://www.youtube.com/watch?v=mCldyXOYNok).
+
+[^Brown2018Libratus]: @Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker\.
+[^Brown2019Pluribus]: @Brown_2019_Superhuman_AI_for_multiplayer_poker\.
+[^Brown2019DCRM]: @Brown_2019_Deep_counterfactual_regret_minimization\.
 [^Brown2019SIIG]: @Brown_2019_Solving_imperfect_information_games_via_discounted\.
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 [^Brown2020]: @Brown_2020_Combining_deep_reinforcement_learning_and_search\.
 [^Moravcik2017]: @Moravcik_2017_DeepStack_Expert_level_artificial_intelligence\.
-[^Silver2016AlphaGoLee]: @Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks\.
-[^Silver2017AlphaGoZero]: @Silver_2017_Mastering_the_game_of_Go_without_human_knowledge\.
-[^Silver2017AlphaZero]: @Silver_2017_Mastering_chess_and_shogi_by_self_play_with\.
-[^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
-[^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.
 
 
 Theoretical machine learning
