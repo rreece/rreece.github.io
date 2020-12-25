@@ -1253,7 +1253,7 @@ Computer Vision (CV)
 -   Q-learning and DQN
 -   The Bellman equation [^Bellman1952]
 -   AlphaGo Lee [^Silver2016AlphaGoLee] &rarr; AlphaGo Zero [^Silver2017AlphaGoZero] &rarr; AlphaZero [^Silver2017AlphaZero]
--   [OpenAI Five (masters Dota2)](https://openai.com/blog/openai-five/)
+-   [OpenAI Five masters Dota2](https://openai.com/blog/openai-five/)
 -   [AlphaStar masters StarCraftII](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
 -   Heinrich & Silver. (2016). Deep reinforcement learning from self play in imperfect-information games. [^Heinrich2016]
 
