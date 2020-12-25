@@ -107,6 +107,8 @@ Mayo, D.G. (2020). Significance tests: Vitiated or vindicated by the replication
 McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). Academic Press: New York.
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
+Mnih, V. et al. (2013). Playing Atari with deep reinforcement learning. https://arxiv.org/abs/1312.5602
+Mnih, V. et al. (2015). Human-level control through deep reinforcement learning. *Nature*, 518(7540), 529--533. http://files.davidqiu.com//research/nature14236.pdf
 Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. *Science*, 356, 508--513. https://arxiv.org/abs/1701.01724
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
 Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. https://arxiv.org/abs/1912.02292

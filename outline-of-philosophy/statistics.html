@@ -1110,56 +1110,68 @@ D_\mathrm{KL}(p, q)
 <li>Reinforcement Learning (RL)</li>
 <li>Sutton &amp; Barto<a href="#fn122" class="footnoteRef" id="fnref122"><sup>122</sup></a></li>
 <li>Deep Reinforcement Learning: A Brief Survey<a href="#fn123" class="footnoteRef" id="fnref123"><sup>123</sup></a></li>
+<li><a href="https://spinningup.openai.com/en/latest/spinningup/keypapers.html">List by OpenAI of key RL papers</a></li>
 </ul>
 <h4 id="q-learning">Q-learning</h4>
 <ul>
 <li>Q-learning and DQN</li>
+<li>Uses the Markov Decision Process (MDP) framework</li>
 <li>The Bellman equation<a href="#fn124" class="footnoteRef" id="fnref124"><sup>124</sup></a></li>
-<li>AlphaGo Lee<a href="#fn125" class="footnoteRef" id="fnref125"><sup>125</sup></a> &#8594; AlphaGo Zero<a href="#fn126" class="footnoteRef" id="fnref126"><sup>126</sup></a> &#8594; AlphaZero<a href="#fn127" class="footnoteRef" id="fnref127"><sup>127</sup></a></li>
+<li>Q-learning is a values-based learning algorithm. Value based algorithms updates the value function based on an equation (particularly Bellman equation). Whereas the other type, policy-based estimates the value function with a greedy policy obtained from the last policy improvement (<a href="https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c">source:towardsdatascience.com</a>).</li>
+<li>DQN masters Atari<a href="#fn125" class="footnoteRef" id="fnref125"><sup>125</sup></a></li>
+<li>Heinrich &amp; Silver. (2016). Deep reinforcement learning from self play in imperfect-information games.<a href="#fn126" class="footnoteRef" id="fnref126"><sup>126</sup></a></li>
+</ul>
+<h4 id="alphazero">AlphaZero</h4>
+<ul>
+<li>AlphaGo Lee<a href="#fn127" class="footnoteRef" id="fnref127"><sup>127</sup></a> &#8594; AlphaGo Zero<a href="#fn128" class="footnoteRef" id="fnref128"><sup>128</sup></a> &#8594; AlphaZero<a href="#fn129" class="footnoteRef" id="fnref129"><sup>129</sup></a></li>
 <li><a href="https://openai.com/blog/openai-five/">OpenAI Five masters Dota2</a></li>
 <li><a href="https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii">AlphaStar masters StarCraftII</a></li>
-<li>Heinrich &amp; Silver. (2016). Deep reinforcement learning from self play in imperfect-information games.<a href="#fn128" class="footnoteRef" id="fnref128"><sup>128</sup></a></li>
+<li>AlphaZero
+<ul>
+<li><span class="math inline">\(\pi(a|s)\)</span> and <span class="math inline">\(V(s)\)</span></li>
+<li>Monte Carlo Tree Search (MCTS)</li>
+</ul></li>
 </ul>
 <h4 id="counterfactual-regret-minimization">Counterfactual regret minimization</h4>
 <ul>
 <li>Counterfactual Regret Minimization (CFR)</li>
-<li>CFR differs from traditional RL algorithms in that it does not try to maximize expected return. Instead, it minimizes exploitability.</li>
-<li>Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). Regret minimization in games with incomplete information.<a href="#fn129" class="footnoteRef" id="fnref129"><sup>129</sup></a></li>
-<li>Lanctot, M. (2009). Monte Carlo sampling for regret minimization.<a href="#fn130" class="footnoteRef" id="fnref130"><sup>130</sup></a>
+<li>CFR differs from traditional RL algorithms in that it does not try to maximize expected return. Instead, it minimizes exploitability (<a href="https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization">source: Quora</a>).</li>
+<li>Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). Regret minimization in games with incomplete information.<a href="#fn130" class="footnoteRef" id="fnref130"><sup>130</sup></a></li>
+<li>Lanctot, M. (2009). Monte Carlo sampling for regret minimization.<a href="#fn131" class="footnoteRef" id="fnref131"><sup>131</sup></a>
 <ul>
 <li>Counterfactual Regret Minimization (MCCFR)</li>
 </ul></li>
-<li>Neller, T.W. &amp; Lanctot, M. (2013). An introduction to counterfactual regret minimization.<a href="#fn131" class="footnoteRef" id="fnref131"><sup>131</sup></a></li>
+<li>Neller, T.W. &amp; Lanctot, M. (2013). An introduction to counterfactual regret minimization.<a href="#fn132" class="footnoteRef" id="fnref132"><sup>132</sup></a></li>
 </ul>
 <h4 id="solving-poker">Solving poker</h4>
 <ul>
 <li>Earlier poker work
 <ul>
-<li>Bowling, M., Burch, N., Johanson, M., &amp; Tammelin, O. (2015). Heads-up limit hold&#8217;em poker is solved.<a href="#fn132" class="footnoteRef" id="fnref132"><sup>132</sup></a>
+<li>Bowling, M., Burch, N., Johanson, M., &amp; Tammelin, O. (2015). Heads-up limit hold&#8217;em poker is solved.<a href="#fn133" class="footnoteRef" id="fnref133"><sup>133</sup></a>
 <ul>
 <li>CFR+</li>
 </ul></li>
-<li>Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker.<a href="#fn133" class="footnoteRef" id="fnref133"><sup>133</sup></a></li>
+<li>Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker.<a href="#fn134" class="footnoteRef" id="fnref134"><sup>134</sup></a></li>
 </ul></li>
 <li>Libratus
 <ul>
-<li>Brown, N. &amp; Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals.<a href="#fn134" class="footnoteRef" id="fnref134"><sup>134</sup></a>
+<li>Brown, N. &amp; Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals.<a href="#fn135" class="footnoteRef" id="fnref135"><sup>135</sup></a>
 <ul>
 <li>bet and card abstraction</li>
 <li>MCCFR used to find a solution of the abstracted game: blueprint</li>
 </ul></li>
-<li>Brown, N. &amp; Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization.<a href="#fn135" class="footnoteRef" id="fnref135"><sup>135</sup></a></li>
-<li>Brown, N., Lerer, A., Gross, S., &amp; Sandholm, T. (2019). Deep counterfactual regret minimization.<a href="#fn136" class="footnoteRef" id="fnref136"><sup>136</sup></a></li>
+<li>Brown, N. &amp; Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization.<a href="#fn136" class="footnoteRef" id="fnref136"><sup>136</sup></a></li>
+<li>Brown, N., Lerer, A., Gross, S., &amp; Sandholm, T. (2019). Deep counterfactual regret minimization.<a href="#fn137" class="footnoteRef" id="fnref137"><sup>137</sup></a></li>
 </ul></li>
 <li>Pluribus
 <ul>
-<li>Brown, N. &amp; Sandholm, T. (2019). Superhuman AI for multiplayer poker.<a href="#fn137" class="footnoteRef" id="fnref137"><sup>137</sup></a></li>
+<li>Brown, N. &amp; Sandholm, T. (2019). Superhuman AI for multiplayer poker.<a href="#fn138" class="footnoteRef" id="fnref138"><sup>138</sup></a></li>
 <li>Brown, N. (2019). <a href="https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/">Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker</a>.</li>
 <li><a href="https://www.nature.com/articles/d41586-019-02156-9">No limit: AI poker bot is first to beat professionals at multiplayer game</a></li>
 </ul></li>
 <li>ReBeL
 <ul>
-<li>Brown, N. et al. (2020). Combining deep reinforcement learning and search.<a href="#fn138" class="footnoteRef" id="fnref138"><sup>138</sup></a></li>
+<li>Brown, N. et al. (2020). Combining deep reinforcement learning and search.<a href="#fn139" class="footnoteRef" id="fnref139"><sup>139</sup></a></li>
 <li><a href="https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/">ReBeL: A general game-playing AI bot that excels at poker and more</a></li>
 <li>YouTube by Brown: <a href="https://www.youtube.com/watch?v=mCldyXOYNok">Combining reep reinforcement learning and search for imperfect-information games</a>.</li>
 </ul></li>
@@ -1178,9 +1190,9 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>David Wolpert and William G. Macready
 <ul>
-<li>No free lunch theorems for search (1995)<a href="#fn139" class="footnoteRef" id="fnref139"><sup>139</sup></a></li>
-<li>The lack of a priori distinctions between learning algorithms (1996)<a href="#fn140" class="footnoteRef" id="fnref140"><sup>140</sup></a></li>
-<li>No free lunch theorems for optimization (1997)<a href="#fn141" class="footnoteRef" id="fnref141"><sup>141</sup></a></li>
+<li>No free lunch theorems for search (1995)<a href="#fn140" class="footnoteRef" id="fnref140"><sup>140</sup></a></li>
+<li>The lack of a priori distinctions between learning algorithms (1996)<a href="#fn141" class="footnoteRef" id="fnref141"><sup>141</sup></a></li>
+<li>No free lunch theorems for optimization (1997)<a href="#fn142" class="footnoteRef" id="fnref142"><sup>142</sup></a></li>
 <li>McDermott, J. (2019). <a href="https://arxiv.org/abs/1906.03280">When and why metaheuristics researchers can ignore &#8220;No Free Lunch&#8221; theorems</a>.</li>
 </ul></li>
 <li>Blogs:
@@ -1209,14 +1221,14 @@ D_\mathrm{KL}(p, q)
 <h3 id="relationship-to-statistical-mechanics">Relationship to statistical mechanics</h3>
 <ul>
 <li>Logistic/softmax and Boltzman factors</li>
-<li>Bahri<a href="#fn142" class="footnoteRef" id="fnref142"><sup>142</sup></a></li>
-<li>Halverson<a href="#fn143" class="footnoteRef" id="fnref143"><sup>143</sup></a></li>
+<li>Bahri<a href="#fn143" class="footnoteRef" id="fnref143"><sup>143</sup></a></li>
+<li>Halverson<a href="#fn144" class="footnoteRef" id="fnref144"><sup>144</sup></a></li>
 <li>Canatar, A., Bordelon, B., &amp; Pehlevan, C. (2020). <a href="https://arxiv.org/abs/2006.13198">Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks</a>.</li>
 </ul>
 <h3 id="relationship-to-gauge-theory">Relationship to gauge theory</h3>
 <ul>
-<li>Cohen &amp; Welling. (2016). Group equivariant convolutional networks.<a href="#fn144" class="footnoteRef" id="fnref144"><sup>144</sup></a></li>
-<li>Gauge equivariant convolutional networks and the icosahedral CNN (2019)<a href="#fn145" class="footnoteRef" id="fnref145"><sup>145</sup></a></li>
+<li>Cohen &amp; Welling. (2016). Group equivariant convolutional networks.<a href="#fn145" class="footnoteRef" id="fnref145"><sup>145</sup></a></li>
+<li>Gauge equivariant convolutional networks and the icosahedral CNN (2019)<a href="#fn146" class="footnoteRef" id="fnref146"><sup>146</sup></a></li>
 <li>Pavlus, J. (2020). <a href="https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/">An idea from physics helps AI see in higher dimensions</a>.</li>
 </ul>
 <h3 id="thermodynamics-of-computation">Thermodynamics of computation</h3>
@@ -1227,20 +1239,20 @@ D_\mathrm{KL}(p, q)
 <h2 id="information-geometry">Information geometry</h2>
 <h3 id="introduction-5">Introduction</h3>
 <ul>
-<li>&#8220;A gentle introduction to information geometry&#8221;<a href="#fn146" class="footnoteRef" id="fnref146"><sup>146</sup></a></li>
-<li>&#8220;An elementary introduction to information geometry&#8221;<a href="#fn147" class="footnoteRef" id="fnref147"><sup>147</sup></a></li>
-<li><em>Information Geometry and Its Applications</em><a href="#fn148" class="footnoteRef" id="fnref148"><sup>148</sup></a></li>
+<li>&#8220;A gentle introduction to information geometry&#8221;<a href="#fn147" class="footnoteRef" id="fnref147"><sup>147</sup></a></li>
+<li>&#8220;An elementary introduction to information geometry&#8221;<a href="#fn148" class="footnoteRef" id="fnref148"><sup>148</sup></a></li>
+<li><em>Information Geometry and Its Applications</em><a href="#fn149" class="footnoteRef" id="fnref149"><sup>149</sup></a></li>
 </ul>
 <h3 id="geometric-understanding-of-classical-statistics">Geometric understanding of classical statistics</h3>
 <ul>
-<li>&#8220;A geometric formulation of Occam&#8217;s razor for inference of parametric distributions&#8221;<a href="#fn149" class="footnoteRef" id="fnref149"><sup>149</sup></a></li>
-<li>&#8220;Statistical inference, Occam&#8217;s Razor and statistical mechanics on the space of probability distributions&#8221;<a href="#fn150" class="footnoteRef" id="fnref150"><sup>150</sup></a></li>
-<li><em>Geometric Modeling in Probability and Statistics</em><a href="#fn151" class="footnoteRef" id="fnref151"><sup>151</sup></a></li>
+<li>&#8220;A geometric formulation of Occam&#8217;s razor for inference of parametric distributions&#8221;<a href="#fn150" class="footnoteRef" id="fnref150"><sup>150</sup></a></li>
+<li>&#8220;Statistical inference, Occam&#8217;s Razor and statistical mechanics on the space of probability distributions&#8221;<a href="#fn151" class="footnoteRef" id="fnref151"><sup>151</sup></a></li>
+<li><em>Geometric Modeling in Probability and Statistics</em><a href="#fn152" class="footnoteRef" id="fnref152"><sup>152</sup></a></li>
 <li>Cranmer</li>
 </ul>
 <h3 id="geometric-understanding-of-deep-learning">Geometric understanding of deep learning</h3>
 <ul>
-<li>&#8220;Geometric understanding of deep learning&#8221;<a href="#fn152" class="footnoteRef" id="fnref152"><sup>152</sup></a></li>
+<li>&#8220;Geometric understanding of deep learning&#8221;<a href="#fn153" class="footnoteRef" id="fnref153"><sup>153</sup></a></li>
 <li>Gao, Y. &amp; Chaudhari, P. (2020). <a href="https://arxiv.org/abs/2011.00613">An information-geometric distance on the space of tasks</a>.</li>
 </ul>
 <h2 id="automation">Automation</h2>
@@ -1253,19 +1265,19 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Autoencoders, latent variables</li>
 <li>Physical constratints in loss functions</li>
-<li>&#8220;The frontier of simulation-based inference&#8221;<a href="#fn153" class="footnoteRef" id="fnref153"><sup>153</sup></a></li>
+<li>&#8220;The frontier of simulation-based inference&#8221;<a href="#fn154" class="footnoteRef" id="fnref154"><sup>154</sup></a></li>
 </ul>
 <h3 id="autoscience">AutoScience</h3>
 <ul>
 <li>Automated discovery</li>
-<li>&#8220;Learning new physics from a machine&#8221;<a href="#fn154" class="footnoteRef" id="fnref154"><sup>154</sup></a></li>
-<li>&#8220;Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry.&#8221;<a href="#fn155" class="footnoteRef" id="fnref155"><sup>155</sup></a>
+<li>&#8220;Learning new physics from a machine&#8221;<a href="#fn155" class="footnoteRef" id="fnref155"><sup>155</sup></a></li>
+<li>&#8220;Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry.&#8221;<a href="#fn156" class="footnoteRef" id="fnref156"><sup>156</sup></a>
 <ul>
 <li>Note that this description of abduction is missing that it is normative (i.e. &#8220;best-fit&#8221;).</li>
 </ul></li>
-<li>&#8220;The End of Theory: The data deluge makes the scientific method obsolete.&#8221;<a href="#fn156" class="footnoteRef" id="fnref156"><sup>156</sup></a></li>
-<li>&#8220;Symbolic pregression: Discovering physical laws from raw distorted video.&#8221;<a href="#fn157" class="footnoteRef" id="fnref157"><sup>157</sup></a></li>
-<li>&#8220;Discovering symbolic models from deep learning with inductive biases.&#8221;<a href="#fn158" class="footnoteRef" id="fnref158"><sup>158</sup></a>
+<li>&#8220;The End of Theory: The data deluge makes the scientific method obsolete.&#8221;<a href="#fn157" class="footnoteRef" id="fnref157"><sup>157</sup></a></li>
+<li>&#8220;Symbolic pregression: Discovering physical laws from raw distorted video.&#8221;<a href="#fn158" class="footnoteRef" id="fnref158"><sup>158</sup></a></li>
+<li>&#8220;Discovering symbolic models from deep learning with inductive biases.&#8221;<a href="#fn159" class="footnoteRef" id="fnref159"><sup>159</sup></a>
 <ul>
 <li>Video: <a href="https://www.youtube.com/watch?v=LMb5tvW-UoQ">Discussion by Yannic Kilcher</a></li>
 </ul></li>
@@ -1273,16 +1285,16 @@ D_\mathrm{KL}(p, q)
 </ul>
 <div class="figure">
 <img src="img/BDEC-scientific-method.png" alt="Figure 11: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis." id="fig:BDEC-scientific-method" />
-<p class="caption">Figure 11: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.<a href="#fn159" class="footnoteRef" id="fnref159"><sup>159</sup></a></p>
+<p class="caption">Figure 11: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.<a href="#fn160" class="footnoteRef" id="fnref160"><sup>160</sup></a></p>
 </div>
 <h2 id="implications-for-the-realism-debate">Implications for the realism debate</h2>
 <ul>
-<li>Korb<a href="#fn160" class="footnoteRef" id="fnref160"><sup>160</sup></a></li>
-<li>Williamson<a href="#fn161" class="footnoteRef" id="fnref161"><sup>161</sup></a></li>
-<li>Bensusan<a href="#fn162" class="footnoteRef" id="fnref162"><sup>162</sup></a></li>
+<li>Korb<a href="#fn161" class="footnoteRef" id="fnref161"><sup>161</sup></a></li>
+<li>Williamson<a href="#fn162" class="footnoteRef" id="fnref162"><sup>162</sup></a></li>
+<li>Bensusan<a href="#fn163" class="footnoteRef" id="fnref163"><sup>163</sup></a></li>
 <li>Note that NLP has implications to the philosophy of language and realism
 <ul>
-<li><a href="http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/">NLP word representations and the Wittgenstein philosophy of language</a>.<a href="#fn163" class="footnoteRef" id="fnref163"><sup>163</sup></a></li>
+<li><a href="http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/">NLP word representations and the Wittgenstein philosophy of language</a>.<a href="#fn164" class="footnoteRef" id="fnref164"><sup>164</sup></a></li>
 </ul></li>
 <li>See the <a href="scientific-realism.html">Outline on scientific realism</a></li>
 </ul>
@@ -1356,8 +1368,8 @@ D_\mathrm{KL}(p, q)
 <hr />
 <h3 id="more-articles-to-do">More articles to do</h3>
 <ul>
-<li><em>All of Statistics</em><a href="#fn164" class="footnoteRef" id="fnref164"><sup>164</sup></a></li>
-<li><em>The Foundations of Statistics</em><a href="#fn165" class="footnoteRef" id="fnref165"><sup>165</sup></a></li>
+<li><em>All of Statistics</em><a href="#fn165" class="footnoteRef" id="fnref165"><sup>165</sup></a></li>
+<li><em>The Foundations of Statistics</em><a href="#fn166" class="footnoteRef" id="fnref166"><sup>166</sup></a></li>
 </ul>
 <h2 id="links-and-encyclopedia-articles">Links and encyclopedia articles</h2>
 <div class="clickmore">
@@ -1821,6 +1833,12 @@ D_\mathrm{KL}(p, q)
 <div id="ref-Mikolov_2013_Linguistic_regularities_in_continuous_space_word">
 <p>Mikolov, T., Yih, W. T., &amp; Zweig, G. (2013). Linguistic regularities in continuous space word representations. NAACL HLT 2013. <a href="https://www.aclweb.org/anthology/N13-1090.pdf" class="uri">https://www.aclweb.org/anthology/N13-1090.pdf</a></p>
 </div>
+<div id="ref-Mnih_2013_Playing_Atari_with_deep_reinforcement_learning">
+<p>Mnih, V. et al. (2013). Playing Atari with deep reinforcement learning. <a href="https://arxiv.org/abs/1312.5602" class="uri">https://arxiv.org/abs/1312.5602</a></p>
+</div>
+<div id="ref-Mnih_2015_Human_level_control_through_deep_reinforcement">
+<p>&#8212;&#8212;&#8212;. (2015). Human-level control through deep reinforcement learning. <em>Nature</em>, <em>518</em>, 529&#8211;533. <a href="http://files.davidqiu.com//research/nature14236.pdf" class="uri">http://files.davidqiu.com//research/nature14236.pdf</a></p>
+</div>
 <div id="ref-Moravcik_2017_DeepStack_Expert_level_artificial_intelligence">
 <p>Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. <em>Science</em>, <em>356</em>, 508&#8211;513. <a href="https://arxiv.org/abs/1701.01724" class="uri">https://arxiv.org/abs/1701.01724</a></p>
 </div>
@@ -2108,47 +2126,48 @@ D_\mathrm{KL}(p, q)
 <li id="fn122"><p><span class="citation">Sutton &amp; Barto (2018)</span>.<a href="#fnref122">&#8617;</a></p></li>
 <li id="fn123"><p><span class="citation">Arulkumaran, Deisenroth, Brundage, &amp; Bharath (2017)</span>.<a href="#fnref123">&#8617;</a></p></li>
 <li id="fn124"><p><span class="citation">Bellman (1952)</span>.<a href="#fnref124">&#8617;</a></p></li>
-<li id="fn125"><p><span class="citation">Silver, D. et al. (2016)</span>.<a href="#fnref125">&#8617;</a></p></li>
-<li id="fn126"><p><span class="citation">Silver, D. et al. (2017b)</span>.<a href="#fnref126">&#8617;</a></p></li>
-<li id="fn127"><p><span class="citation">Silver, D. et al. (2017a)</span>.<a href="#fnref127">&#8617;</a></p></li>
-<li id="fn128"><p><span class="citation">Heinrich &amp; Silver (2016)</span>.<a href="#fnref128">&#8617;</a></p></li>
-<li id="fn129"><p><span class="citation">Zinkevich, Johanson, Bowling, &amp; Piccione (2007)</span>.<a href="#fnref129">&#8617;</a></p></li>
-<li id="fn130"><p><span class="citation">Lanctot, Waugh, Zinkevich, &amp; Bowling (2009)</span>.<a href="#fnref130">&#8617;</a></p></li>
-<li id="fn131"><p><span class="citation">Neller &amp; Lanctot (2013)</span>.<a href="#fnref131">&#8617;</a></p></li>
-<li id="fn132"><p><span class="citation">Bowling, Burch, Johanson, &amp; Tammelin (2015)</span>.<a href="#fnref132">&#8617;</a></p></li>
-<li id="fn133"><p><span class="citation">Moravcik, M. et al. (2017)</span>.<a href="#fnref133">&#8617;</a></p></li>
-<li id="fn134"><p><span class="citation">N. Brown &amp; Sandholm (2018)</span>.<a href="#fnref134">&#8617;</a></p></li>
-<li id="fn135"><p><span class="citation">N. Brown &amp; Sandholm (2019a)</span>.<a href="#fnref135">&#8617;</a></p></li>
-<li id="fn136"><p><span class="citation">N. Brown, Lerer, Gross, &amp; Sandholm (2019)</span>.<a href="#fnref136">&#8617;</a></p></li>
-<li id="fn137"><p><span class="citation">N. Brown &amp; Sandholm (2019b)</span>.<a href="#fnref137">&#8617;</a></p></li>
-<li id="fn138"><p><span class="citation">N. Brown, Bakhtin, Lerer, &amp; Gong (2020)</span>.<a href="#fnref138">&#8617;</a></p></li>
-<li id="fn139"><p><span class="citation">D. H. Wolpert &amp; Macready (1995)</span>.<a href="#fnref139">&#8617;</a></p></li>
-<li id="fn140"><p><span class="citation">D. H. Wolpert (1996)</span>.<a href="#fnref140">&#8617;</a></p></li>
-<li id="fn141"><p><span class="citation">D. H. Wolpert &amp; Macready (1997)</span>.<a href="#fnref141">&#8617;</a></p></li>
-<li id="fn142"><p><span class="citation">Bahri, Y. et al. (2020)</span>.<a href="#fnref142">&#8617;</a></p></li>
-<li id="fn143"><p><span class="citation">Halverson, Maiti, &amp; Stoner (2020)</span>.<a href="#fnref143">&#8617;</a></p></li>
-<li id="fn144"><p><span class="citation">Cohen &amp; Welling (2016)</span>.<a href="#fnref144">&#8617;</a></p></li>
-<li id="fn145"><p><span class="citation">Cohen, Weiler, Kicanaoglu, &amp; Welling (2019)</span>.<a href="#fnref145">&#8617;</a></p></li>
-<li id="fn146"><p><span class="citation">Smith (2019)</span>.<a href="#fnref146">&#8617;</a></p></li>
-<li id="fn147"><p><span class="citation">Nielsen (2018)</span>.<a href="#fnref147">&#8617;</a></p></li>
-<li id="fn148"><p><span class="citation">Amari (2016)</span>.<a href="#fnref148">&#8617;</a></p></li>
-<li id="fn149"><p><span class="citation">Balasubramanian (1996a)</span>.<a href="#fnref149">&#8617;</a></p></li>
-<li id="fn150"><p><span class="citation">Balasubramanian (1996b)</span>.<a href="#fnref150">&#8617;</a></p></li>
-<li id="fn151"><p><span class="citation">Calin &amp; Udriste (2014)</span>.<a href="#fnref151">&#8617;</a></p></li>
-<li id="fn152"><p><span class="citation">Lei, Luo, Yau, &amp; Gu (2018)</span><a href="#fnref152">&#8617;</a></p></li>
-<li id="fn153"><p><span class="citation">Cranmer, Brehmer, &amp; Louppe (2019)</span>.<a href="#fnref153">&#8617;</a></p></li>
-<li id="fn154"><p><span class="citation">D&#8217;Agnolo &amp; Wulzer (2019)</span>.<a href="#fnref154">&#8617;</a></p></li>
-<li id="fn155"><p><span class="citation">Asch, M. et al. (2018)</span>.<a href="#fnref155">&#8617;</a></p></li>
-<li id="fn156"><p><span class="citation">Anderson (2008)</span>.<a href="#fnref156">&#8617;</a></p></li>
-<li id="fn157"><p><span class="citation">Udrescu &amp; Tegmark (2020)</span>.<a href="#fnref157">&#8617;</a></p></li>
-<li id="fn158"><p><span class="citation">Cranmer, M. et al. (2020)</span>.<a href="#fnref158">&#8617;</a></p></li>
-<li id="fn159"><p><span class="citation">Asch, M. et al. (2018)</span>.<a href="#fnref159">&#8617;</a></p></li>
-<li id="fn160"><p><span class="citation">Korb (2001)</span>.<a href="#fnref160">&#8617;</a></p></li>
-<li id="fn161"><p><span class="citation">Williamson (2009)</span>.<a href="#fnref161">&#8617;</a></p></li>
-<li id="fn162"><p><span class="citation">Bensusan (2000)</span>.<a href="#fnref162">&#8617;</a></p></li>
-<li id="fn163"><p><span class="citation">Perone (2018)</span>.<a href="#fnref163">&#8617;</a></p></li>
-<li id="fn164"><p><span class="citation">Wasserman (2003)</span>.<a href="#fnref164">&#8617;</a></p></li>
-<li id="fn165"><p><span class="citation">Savage (1954)</span>.<a href="#fnref165">&#8617;</a></p></li>
+<li id="fn125"><p><span class="citation">Mnih, V. et al. (2013)</span> and <span class="citation">Mnih, V. et al. (2015)</span>.<a href="#fnref125">&#8617;</a></p></li>
+<li id="fn126"><p><span class="citation">Heinrich &amp; Silver (2016)</span>.<a href="#fnref126">&#8617;</a></p></li>
+<li id="fn127"><p><span class="citation">Silver, D. et al. (2016)</span>.<a href="#fnref127">&#8617;</a></p></li>
+<li id="fn128"><p><span class="citation">Silver, D. et al. (2017b)</span>.<a href="#fnref128">&#8617;</a></p></li>
+<li id="fn129"><p><span class="citation">Silver, D. et al. (2017a)</span>.<a href="#fnref129">&#8617;</a></p></li>
+<li id="fn130"><p><span class="citation">Zinkevich, Johanson, Bowling, &amp; Piccione (2007)</span>.<a href="#fnref130">&#8617;</a></p></li>
+<li id="fn131"><p><span class="citation">Lanctot, Waugh, Zinkevich, &amp; Bowling (2009)</span>.<a href="#fnref131">&#8617;</a></p></li>
+<li id="fn132"><p><span class="citation">Neller &amp; Lanctot (2013)</span>.<a href="#fnref132">&#8617;</a></p></li>
+<li id="fn133"><p><span class="citation">Bowling, Burch, Johanson, &amp; Tammelin (2015)</span>.<a href="#fnref133">&#8617;</a></p></li>
+<li id="fn134"><p><span class="citation">Moravcik, M. et al. (2017)</span>.<a href="#fnref134">&#8617;</a></p></li>
+<li id="fn135"><p><span class="citation">N. Brown &amp; Sandholm (2018)</span>.<a href="#fnref135">&#8617;</a></p></li>
+<li id="fn136"><p><span class="citation">N. Brown &amp; Sandholm (2019a)</span>.<a href="#fnref136">&#8617;</a></p></li>
+<li id="fn137"><p><span class="citation">N. Brown, Lerer, Gross, &amp; Sandholm (2019)</span>.<a href="#fnref137">&#8617;</a></p></li>
+<li id="fn138"><p><span class="citation">N. Brown &amp; Sandholm (2019b)</span>.<a href="#fnref138">&#8617;</a></p></li>
+<li id="fn139"><p><span class="citation">N. Brown, Bakhtin, Lerer, &amp; Gong (2020)</span>.<a href="#fnref139">&#8617;</a></p></li>
+<li id="fn140"><p><span class="citation">D. H. Wolpert &amp; Macready (1995)</span>.<a href="#fnref140">&#8617;</a></p></li>
+<li id="fn141"><p><span class="citation">D. H. Wolpert (1996)</span>.<a href="#fnref141">&#8617;</a></p></li>
+<li id="fn142"><p><span class="citation">D. H. Wolpert &amp; Macready (1997)</span>.<a href="#fnref142">&#8617;</a></p></li>
+<li id="fn143"><p><span class="citation">Bahri, Y. et al. (2020)</span>.<a href="#fnref143">&#8617;</a></p></li>
+<li id="fn144"><p><span class="citation">Halverson, Maiti, &amp; Stoner (2020)</span>.<a href="#fnref144">&#8617;</a></p></li>
+<li id="fn145"><p><span class="citation">Cohen &amp; Welling (2016)</span>.<a href="#fnref145">&#8617;</a></p></li>
+<li id="fn146"><p><span class="citation">Cohen, Weiler, Kicanaoglu, &amp; Welling (2019)</span>.<a href="#fnref146">&#8617;</a></p></li>
+<li id="fn147"><p><span class="citation">Smith (2019)</span>.<a href="#fnref147">&#8617;</a></p></li>
+<li id="fn148"><p><span class="citation">Nielsen (2018)</span>.<a href="#fnref148">&#8617;</a></p></li>
+<li id="fn149"><p><span class="citation">Amari (2016)</span>.<a href="#fnref149">&#8617;</a></p></li>
+<li id="fn150"><p><span class="citation">Balasubramanian (1996a)</span>.<a href="#fnref150">&#8617;</a></p></li>
+<li id="fn151"><p><span class="citation">Balasubramanian (1996b)</span>.<a href="#fnref151">&#8617;</a></p></li>
+<li id="fn152"><p><span class="citation">Calin &amp; Udriste (2014)</span>.<a href="#fnref152">&#8617;</a></p></li>
+<li id="fn153"><p><span class="citation">Lei, Luo, Yau, &amp; Gu (2018)</span><a href="#fnref153">&#8617;</a></p></li>
+<li id="fn154"><p><span class="citation">Cranmer, Brehmer, &amp; Louppe (2019)</span>.<a href="#fnref154">&#8617;</a></p></li>
+<li id="fn155"><p><span class="citation">D&#8217;Agnolo &amp; Wulzer (2019)</span>.<a href="#fnref155">&#8617;</a></p></li>
+<li id="fn156"><p><span class="citation">Asch, M. et al. (2018)</span>.<a href="#fnref156">&#8617;</a></p></li>
+<li id="fn157"><p><span class="citation">Anderson (2008)</span>.<a href="#fnref157">&#8617;</a></p></li>
+<li id="fn158"><p><span class="citation">Udrescu &amp; Tegmark (2020)</span>.<a href="#fnref158">&#8617;</a></p></li>
+<li id="fn159"><p><span class="citation">Cranmer, M. et al. (2020)</span>.<a href="#fnref159">&#8617;</a></p></li>
+<li id="fn160"><p><span class="citation">Asch, M. et al. (2018)</span>.<a href="#fnref160">&#8617;</a></p></li>
+<li id="fn161"><p><span class="citation">Korb (2001)</span>.<a href="#fnref161">&#8617;</a></p></li>
+<li id="fn162"><p><span class="citation">Williamson (2009)</span>.<a href="#fnref162">&#8617;</a></p></li>
+<li id="fn163"><p><span class="citation">Bensusan (2000)</span>.<a href="#fnref163">&#8617;</a></p></li>
+<li id="fn164"><p><span class="citation">Perone (2018)</span>.<a href="#fnref164">&#8617;</a></p></li>
+<li id="fn165"><p><span class="citation">Wasserman (2003)</span>.<a href="#fnref165">&#8617;</a></p></li>
+<li id="fn166"><p><span class="citation">Savage (1954)</span>.<a href="#fnref166">&#8617;</a></p></li>
 </ol>
 </div>
 

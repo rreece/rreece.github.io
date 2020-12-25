@@ -1244,30 +1244,51 @@ Computer Vision (CV)
 -   Reinforcement Learning (RL)
 -   Sutton & Barto [^Sutton2018]
 -   Deep Reinforcement Learning: A Brief Survey [^Arulkumaran2017]
+-   [List by OpenAI of key RL papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
 [^Arulkumaran2017]: @Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey\.
 [^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
 
+
 #### Q-learning
 
 -   Q-learning and DQN
+-   Uses the Markov Decision Process (MDP) framework
 -   The Bellman equation [^Bellman1952]
--   AlphaGo Lee [^Silver2016AlphaGoLee] &rarr; AlphaGo Zero [^Silver2017AlphaGoZero] &rarr; AlphaZero [^Silver2017AlphaZero]
--   [OpenAI Five masters Dota2](https://openai.com/blog/openai-five/)
--   [AlphaStar masters StarCraftII](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
+-   Q-learning is a values-based learning algorithm. Value based algorithms
+    updates the value function based on an equation (particularly Bellman equation).
+    Whereas the other type, policy-based estimates the value function with a
+    greedy policy obtained from the last policy improvement
+    ([source:towardsdatascience.com](https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c)). 
+-   DQN masters Atari [^Mnih2013]
 -   Heinrich & Silver. (2016). Deep reinforcement learning from self play in imperfect-information games. [^Heinrich2016]
 
 [^Bellman1952]: @Bellman_1952_On_the_theory_of_dynamic_programming\.
+[^Heinrich2016]: @Heinrich_2016_Deep_reinforcement_learning_from_self_play\.
+[^Mnih2013]: @Mnih_2013_Playing_Atari_with_deep_reinforcement_learning and
+    @Mnih_2015_Human_level_control_through_deep_reinforcement\.
+
+
+#### AlphaZero
+
+-   AlphaGo Lee [^Silver2016AlphaGoLee] &rarr; AlphaGo Zero [^Silver2017AlphaGoZero] &rarr; AlphaZero [^Silver2017AlphaZero]
+-   [OpenAI Five masters Dota2](https://openai.com/blog/openai-five/)
+-   [AlphaStar masters StarCraftII](https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii)
+-   AlphaZero
+    -   $\pi(a|s)$ and $V(s)$
+    -   Monte Carlo Tree Search (MCTS)
+
 [^Silver2016AlphaGoLee]: @Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks\.
 [^Silver2017AlphaGoZero]: @Silver_2017_Mastering_the_game_of_Go_without_human_knowledge\.
 [^Silver2017AlphaZero]: @Silver_2017_Mastering_chess_and_shogi_by_self_play_with\.
-[^Heinrich2016]: @Heinrich_2016_Deep_reinforcement_learning_from_self_play\.
 
 
 #### Counterfactual regret minimization
 
 -   Counterfactual Regret Minimization (CFR)
--   CFR differs from traditional RL algorithms in that it does not try to maximize expected return. Instead, it minimizes exploitability.
+-   CFR differs from traditional RL algorithms in that it does not try to
+    maximize expected return. Instead, it minimizes exploitability
+    ([source: Quora](https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization)).
 -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
 -   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
     -   Counterfactual Regret Minimization (MCCFR)
