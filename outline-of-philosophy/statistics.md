@@ -1259,7 +1259,7 @@ Computer Vision (CV)
     updates the value function based on an equation (particularly Bellman equation).
     Whereas the other type, policy-based estimates the value function with a
     greedy policy obtained from the last policy improvement
-    ([source:towardsdatascience.com](https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c)). 
+    ([source: towardsdatascience.com](https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c)). 
 -   DQN masters Atari [^Mnih2013]
 -   Heinrich & Silver. (2016). Deep reinforcement learning from self play in imperfect-information games. [^Heinrich2016]
 
@@ -1287,7 +1287,7 @@ Computer Vision (CV)
 
 -   Counterfactual Regret Minimization (CFR)
 -   CFR differs from traditional RL algorithms in that it does not try to
-    maximize expected return. Instead, it minimizes exploitability
+    maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games
     ([source: Quora](https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization)).
 -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
 -   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
