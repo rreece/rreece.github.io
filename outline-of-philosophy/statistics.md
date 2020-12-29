@@ -990,6 +990,8 @@ Deep learning
     -   *Deep Learning* [^Goodfellow2016]
 -   Backpropagation
     -   Rumelhart [^Rumelhart1986]
+    -   See Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html)
+    -   Schmidhuber: [Who Invented Backpropagation?](http://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 -   Pratical guides
     -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
     -   Hao, L. et al. (2017). [Visualizing the loss landscape of neural nets](https://arxiv.org/abs/1712.09913).
@@ -1245,6 +1247,7 @@ Computer Vision (CV)
 -   Sutton & Barto [^Sutton2018]
 -   Deep Reinforcement Learning: A Brief Survey [^Arulkumaran2017]
 -   [List by OpenAI of key RL papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+-   [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB&ab_channel=DeepMind)
 
 [^Arulkumaran2017]: @Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey\.
 [^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
