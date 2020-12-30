@@ -1542,6 +1542,7 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 >   A world so frail and faulty as we see. [^Lewis1955]
 
 -   [Jean Meslier](https://en.wikipedia.org/wiki/Jean_Meslier) (1664-1729)
+-   J.L. Mackie
 -   *God is Not Great* [^Hitchens2007]
 
 [^Hitchens2007]: @Hitchens_2007_God_is_Not_Great_How_religion_poisons_everything\.
@@ -1714,6 +1715,7 @@ Nihilism
     -   *Ecce Homo* (1888; first published in 1908)
 -   Ray Brassier (b. 1965)
     -   *Nihil Unbound: Enlightenment and Extinction* [^Brassier2007]
+-   Danaher, J. (2015). [Understanding nihilism: What if nothing matters?](https://philosophicaldisquisitions.blogspot.com/2015/12/understanding-nihilism-what-if-nothing.html)
 -   Dahl, R. (2017). [Optimistic nihilism](https://tinyclouds.org/optimistic_nihilism/).
 
 Carl Sagan discussing Nietzsche:

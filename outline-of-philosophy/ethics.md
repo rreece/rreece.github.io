@@ -3,12 +3,13 @@ Ethics
 
 What should we do? What is normative?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
+>   What may a man do and not be ashamed of it? He may not do nothing surely,
+>   for straightaway he is dubbed Dolittle---aye!
+>   christens himself first---and reasonably, for he was first to duck.
+>   But let him do something, is he the less a Dolittle?
+>   Is it actually something done, or not rather something undone? [^Thoreau5Mar1838]
+
+[^Thoreau5Mar1838]: *The Journal* of Henry David Thoreau, March 5, 1838.
 
 <!-- PAGETOC -->
 
@@ -55,6 +56,10 @@ Consequentialism
 Moral antirealism
 --------------------------------------------------------------------------------
 
+-   The previous three sections are about ethics; the next three are about
+    meta-ethics.
+-   Cognitivism and non-cognitivism
+
 Thrasymachus in Plato's *Republic*:
 
 >   Listen then, I say justice is nothing other than the advantage of the stronger. [^RepublicI338c]
@@ -81,6 +86,7 @@ Moral realism
     -   See the outline on [Naturalism](naturalism.html#ethical-naturalism).
 -   Murdoch, Iris. (1999). *The Sovereignty of Good*.
 -   Plato: [*Minos*](https://en.wikipedia.org/wiki/Minos_(dialogue))
+-   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
 
 >   What about someone who believes in beautiful things, but doesn't believe
 >   in the beautiful itself and isn't able to follow anyone who could lead him
@@ -150,20 +156,6 @@ Moral naturalism
 -   [Moore's Moral Philosophy](https://plato.stanford.edu/entries/moore-moral/)
 
 
-Aesthetics
---------------------------------------------------------------------------------
-
-### Music theory
-
-TODO
-
-### Art
-
-TODO
-
--   Semiotics
-
-
 Political philosophy
 --------------------------------------------------------------------------------
 
@@ -203,12 +195,19 @@ Protests and (non-)violence
 Regret
 --------------------------------------------------------------------------------
 
--   Thoreau
+Thoreau:
+
+>   Make the most of your regrets; never smother your sorrow, but tend
+>   and cherish it till it comes to have a separate and integral interest.
+>   To regret deeply is to live afresh. [^Thoreau13Nov1839]
+
 -   Marino, G. (2016). [What's the use of regret?](https://www.nytimes.com/2016/11/13/opinion/whats-the-use-of-regret.html)
 -   Pigliucci, M. (2016). [What's the point of regret?](https://howtobeastoic.wordpress.com/2016/11/25/whats-the-point-of-regret/)
 -   Danaher, J. (2019). [The wisdom of regret and the fallacy of regret minimisation](https://philosophicaldisquisitions.blogspot.com/2019/01/the-wisdom-of-regret-and-fallacy-of.html).
 -   Malesic, J. (2020). [Je regrette tout: Does moral growth demand regret?](https://hedgehogreview.com/issues/monsters/articles/je-regrette-tout)
 -   See also: [Depression](human-condition.html#depression) in the [Outline on the human condition](human-condition.html).
+
+[^Thoreau13Nov1839]: *The Journal* of Henry David Thoreau, November 13, 1839.
 
 
 Compassion
@@ -223,6 +222,22 @@ Compassion
 -   Compassion in Buddhism
 -   Compassion in Schopenhauer's *On the Basis of Morality*
 -   Rand being against compassion.
+
+
+Aesthetics
+--------------------------------------------------------------------------------
+
+### Music theory
+
+-   TODO
+-   Pythagoras on music
+
+
+### Art
+
+-   TODO
+-   Semiotics
+
 
 
 My thoughts
@@ -255,59 +270,13 @@ Sean's reply:
 > <http://www.preposterousuniverse.com/blog/2011/01/31/morality-health-and-science/>
 > <https://www.youtube.com/watch?v=4HCUAR1vH_M>
 
-
-Drafting a reply
-
-TODO
+TODO: Drafting a reply.
 
 I know I'm a consequentialist and a moral realist, but those are broad categories.
 
-<!---
-
-This sounds legit to me so far:
-[Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
-
-    i'm trying to understand the space of ethical positions
-    and really find my ism
-    Sent at 2:08 PM on Sunday
-    me:  i'm a consequentialist, but thats a broad category
-    Sent at 2:10 PM on Sunday
-    me:  and i dont completely eliminate deontological justifications,
-    they just arent primary
-    the conequences are primary in defining whats good
-    but then we make norms that are good general rules to optimize
-    the consequences
-    like dont kill
-    dont lie
-    and those norms are what gets honorific
-    and thats why people want to use honor or similar deontological reasons
-    but they are secondary, emergent rules of thumb
-    and basically i think the best strategy is that people live their maxims
-    and try to be honorable
-    like satisfying a contract with society
-    but in the end, the point is to have good consequences
-    so thats the balance of means and ends
-    these ideas sound like what Scalon's Contractualism
-    but in addition to that
-    i'm a moral realist
-    cause i think the truths are true like math is true
-    and a moral pragmatist
-    cause i think our morality in practice evolves and does improve
-    with investigation like science does
-    Sent at 2:16 PM on Sunday
-    me:  awesome
-    https://www.youtube.com/watch?v=vVb2zSMRRUU&index=6&list=PLrxfgDEc2NxYQuZ5T6CSdS8uafdh0kmDL
-    don ross gets it
-    and stay with it till dennett says that he's a consequentialist,
-    but not a naive one at ~7m
-    Sent at 2:50 PM on Sunday
-    me:  https://www.youtube.com/watch?v=gj2zx1kEjKM
-
--->
-
 There's no unified or received view of the fact/value, descriptive/normative divide since Hume. But that doesn't mean there aren't naturalistic philosophers that deny the dichotomy, i.e., would support the idea roughly that there is a scientific way of discussing and determining what is better. Health and nutrition seem like obvious plausible examples, really any reasoned strategy is normative: it tells one what one should do given what is known. In this sense many naturalists are aligned with game theoretic reasoning about what we should do.
 
-Tought experiment on moral naturalism:
+Thought experiment on moral naturalism:
 
 -   Agree that chess (or poker) has better and worse play
 -   Add another task to the competition: do laundry while playing,
