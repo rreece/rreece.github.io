@@ -1543,10 +1543,13 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 
 -   [Jean Meslier](https://en.wikipedia.org/wiki/Jean_Meslier) (1664-1729)
 -   J.L. Mackie
--   *God is Not Great* [^Hitchens2007]
+    -   *The Miracle of Theism* (1983) [^Mackie1983]
+-   Christopher Hitchens
+    -   *God is Not Great* (2007) [^Hitchens2007]
 
 [^Hitchens2007]: @Hitchens_2007_God_is_Not_Great_How_religion_poisons_everything\.
 [^Lewis1955]: @Lewis_1955_Surprised_by_Joy\, p. 65.
+[^Mackie1983]: @Mackie_1983_The_Miracle_of_Theism_Arguments_for_and_against\.
 
 
 ### Euthyphro dilemma

@@ -64,11 +64,16 @@ Thrasymachus in Plato's *Republic*:
 
 >   Listen then, I say justice is nothing other than the advantage of the stronger. [^RepublicI338c]
 
--   Emotivism - Hume, A.J. Ayer
--   Positivism
--   Nihilism
--   Postmodernism
+-   Emotivism
+    -   Hume, A.J. Ayer
+    -   Positivism
 -   Relativism
+-   Nihilism
+    -   Friedrich Nietzsche
+    -   J.L. Mackie
+        -   *Ethics: Inventing Right and Wrong* (1977)
+            -   Argument from queerness
+-   Postmodernism
 
 [^RepublicI338c]: Plato, *Republic I* 338c, @Cooper_1997_Plato_Complete_works\, p. 983.
 
