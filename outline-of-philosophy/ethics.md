@@ -213,6 +213,7 @@ Thoreau:
 -   See also: [Depression](human-condition.html#depression) in the [Outline on the human condition](human-condition.html).
 
 [^Thoreau13Nov1839]: *The Journal* of Henry David Thoreau, November 13, 1839.
+    (What the hell did Thoreau know about regret at age 22?)
 
 
 Compassion
