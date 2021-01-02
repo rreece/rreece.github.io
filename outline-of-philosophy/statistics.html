@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Wed Dec 30, 2020" />
+  <meta name="date" content="Sat Jan 02, 2021" />
   <title>Philosophy of statistics - Ryan&#8217;s Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#8217;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -1113,7 +1113,8 @@ D_\mathrm{KL}(p, q)
 <li>Sutton &amp; Barto<a href="#fn122" class="footnoteRef" id="fnref122"><sup>122</sup></a></li>
 <li>Deep Reinforcement Learning: A Brief Survey<a href="#fn123" class="footnoteRef" id="fnref123"><sup>123</sup></a></li>
 <li><a href="https://spinningup.openai.com/en/latest/spinningup/keypapers.html">List by OpenAI of key RL papers</a></li>
-<li><a href="https://www.youtube.com/watch?v=2pWv7GOvuf0&amp;list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB&amp;ab_channel=DeepMind">RL Course by David Silver</a></li>
+<li><a href="https://www.youtube.com/watch?v=2pWv7GOvuf0&amp;list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB&amp;ab_channel=DeepMind">RL course by David Silver</a></li>
+<li><a href="https://www.youtube.com/watch?v=FgzM3zpZ55o&amp;list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&amp;ab_channel=stanfordonline">RL course by Emma Brunskill</a></li>
 </ul>
 <h4 id="q-learning">Q-learning</h4>
 <ul>
@@ -1122,11 +1123,10 @@ D_\mathrm{KL}(p, q)
 <li>The Bellman equation<a href="#fn124" class="footnoteRef" id="fnref124"><sup>124</sup></a></li>
 <li>Q-learning is a values-based learning algorithm. Value based algorithms updates the value function based on an equation (particularly Bellman equation). Whereas the other type, policy-based estimates the value function with a greedy policy obtained from the last policy improvement (<a href="https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c">source: towardsdatascience.com</a>).</li>
 <li>DQN masters Atari<a href="#fn125" class="footnoteRef" id="fnref125"><sup>125</sup></a></li>
-<li>Heinrich &amp; Silver. (2016). Deep reinforcement learning from self play in imperfect-information games.<a href="#fn126" class="footnoteRef" id="fnref126"><sup>126</sup></a></li>
 </ul>
 <h4 id="alphazero">AlphaZero</h4>
 <ul>
-<li>AlphaGo Lee<a href="#fn127" class="footnoteRef" id="fnref127"><sup>127</sup></a> &#8594; AlphaGo Zero<a href="#fn128" class="footnoteRef" id="fnref128"><sup>128</sup></a> &#8594; AlphaZero<a href="#fn129" class="footnoteRef" id="fnref129"><sup>129</sup></a></li>
+<li>AlphaGo Lee<a href="#fn126" class="footnoteRef" id="fnref126"><sup>126</sup></a> &#8594; AlphaGo Zero<a href="#fn127" class="footnoteRef" id="fnref127"><sup>127</sup></a> &#8594; AlphaZero<a href="#fn128" class="footnoteRef" id="fnref128"><sup>128</sup></a></li>
 <li><a href="https://openai.com/blog/openai-five/">OpenAI Five masters Dota2</a></li>
 <li><a href="https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii">AlphaStar masters StarCraftII</a></li>
 <li>AlphaZero
@@ -1139,20 +1139,24 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Counterfactual Regret Minimization (CFR)</li>
 <li>CFR differs from traditional RL algorithms in that it does not try to maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games (<a href="https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization">source: Quora</a>).</li>
-<li>Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). Regret minimization in games with incomplete information.<a href="#fn130" class="footnoteRef" id="fnref130"><sup>130</sup></a></li>
-<li>Lanctot, M. (2009). Monte Carlo sampling for regret minimization.<a href="#fn131" class="footnoteRef" id="fnref131"><sup>131</sup></a>
+<li>Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). Regret minimization in games with incomplete information.<a href="#fn129" class="footnoteRef" id="fnref129"><sup>129</sup></a></li>
+<li>Lanctot, M. (2009). Monte Carlo sampling for regret minimization.<a href="#fn130" class="footnoteRef" id="fnref130"><sup>130</sup></a>
 <ul>
 <li>Counterfactual Regret Minimization (MCCFR)</li>
 </ul></li>
-<li>Neller, T.W. &amp; Lanctot, M. (2013). An introduction to counterfactual regret minimization.<a href="#fn132" class="footnoteRef" id="fnref132"><sup>132</sup></a></li>
+<li>Neller, T.W. &amp; Lanctot, M. (2013). An introduction to counterfactual regret minimization.<a href="#fn131" class="footnoteRef" id="fnref131"><sup>131</sup></a></li>
 </ul>
 <h4 id="solving-poker">Solving poker</h4>
 <ul>
 <li>Earlier poker work
 <ul>
-<li>Bowling, M., Burch, N., Johanson, M., &amp; Tammelin, O. (2015). Heads-up limit hold&#8217;em poker is solved.<a href="#fn133" class="footnoteRef" id="fnref133"><sup>133</sup></a>
+<li>Bowling, M., Burch, N., Johanson, M., &amp; Tammelin, O. (2015). Heads-up limit hold&#8217;em poker is solved.<a href="#fn132" class="footnoteRef" id="fnref132"><sup>132</sup></a>
 <ul>
 <li>CFR+</li>
+</ul></li>
+<li>Heinrich &amp; Silver. (2016). Deep reinforcement learning from self play in imperfect-information games.<a href="#fn133" class="footnoteRef" id="fnref133"><sup>133</sup></a>
+<ul>
+<li>Q-learning</li>
 </ul></li>
 <li>Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker.<a href="#fn134" class="footnoteRef" id="fnref134"><sup>134</sup></a></li>
 </ul></li>
@@ -2130,14 +2134,14 @@ D_\mathrm{KL}(p, q)
 <li id="fn123"><p><span class="citation">Arulkumaran, Deisenroth, Brundage, &amp; Bharath (2017)</span>.<a href="#fnref123">&#8617;</a></p></li>
 <li id="fn124"><p><span class="citation">Bellman (1952)</span>.<a href="#fnref124">&#8617;</a></p></li>
 <li id="fn125"><p><span class="citation">Mnih, V. et al. (2013)</span> and <span class="citation">Mnih, V. et al. (2015)</span>.<a href="#fnref125">&#8617;</a></p></li>
-<li id="fn126"><p><span class="citation">Heinrich &amp; Silver (2016)</span>.<a href="#fnref126">&#8617;</a></p></li>
-<li id="fn127"><p><span class="citation">Silver, D. et al. (2016)</span>.<a href="#fnref127">&#8617;</a></p></li>
-<li id="fn128"><p><span class="citation">Silver, D. et al. (2017b)</span>.<a href="#fnref128">&#8617;</a></p></li>
-<li id="fn129"><p><span class="citation">Silver, D. et al. (2017a)</span>.<a href="#fnref129">&#8617;</a></p></li>
-<li id="fn130"><p><span class="citation">Zinkevich, Johanson, Bowling, &amp; Piccione (2007)</span>.<a href="#fnref130">&#8617;</a></p></li>
-<li id="fn131"><p><span class="citation">Lanctot, Waugh, Zinkevich, &amp; Bowling (2009)</span>.<a href="#fnref131">&#8617;</a></p></li>
-<li id="fn132"><p><span class="citation">Neller &amp; Lanctot (2013)</span>.<a href="#fnref132">&#8617;</a></p></li>
-<li id="fn133"><p><span class="citation">Bowling, Burch, Johanson, &amp; Tammelin (2015)</span>.<a href="#fnref133">&#8617;</a></p></li>
+<li id="fn126"><p><span class="citation">Silver, D. et al. (2016)</span>.<a href="#fnref126">&#8617;</a></p></li>
+<li id="fn127"><p><span class="citation">Silver, D. et al. (2017b)</span>.<a href="#fnref127">&#8617;</a></p></li>
+<li id="fn128"><p><span class="citation">Silver, D. et al. (2017a)</span>.<a href="#fnref128">&#8617;</a></p></li>
+<li id="fn129"><p><span class="citation">Zinkevich, Johanson, Bowling, &amp; Piccione (2007)</span>.<a href="#fnref129">&#8617;</a></p></li>
+<li id="fn130"><p><span class="citation">Lanctot, Waugh, Zinkevich, &amp; Bowling (2009)</span>.<a href="#fnref130">&#8617;</a></p></li>
+<li id="fn131"><p><span class="citation">Neller &amp; Lanctot (2013)</span>.<a href="#fnref131">&#8617;</a></p></li>
+<li id="fn132"><p><span class="citation">Bowling, Burch, Johanson, &amp; Tammelin (2015)</span>.<a href="#fnref132">&#8617;</a></p></li>
+<li id="fn133"><p><span class="citation">Heinrich &amp; Silver (2016)</span>.<a href="#fnref133">&#8617;</a></p></li>
 <li id="fn134"><p><span class="citation">Moravcik, M. et al. (2017)</span>.<a href="#fnref134">&#8617;</a></p></li>
 <li id="fn135"><p><span class="citation">N. Brown &amp; Sandholm (2018)</span>.<a href="#fnref135">&#8617;</a></p></li>
 <li id="fn136"><p><span class="citation">N. Brown &amp; Sandholm (2019a)</span>.<a href="#fnref136">&#8617;</a></p></li>
@@ -2195,10 +2199,10 @@ D_\mathrm{KL}(p, q)
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Wed Dec 30, 2020</p>
+    <p>Sat Jan 02, 2021</p>
   </div>
   <div class="license">
-    <p>&#169; 2014-2020 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>
+    <p>&#169; 2014-2021 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>
     <p>Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.</p>
   </div>
   <div style="clear:both;"></div>

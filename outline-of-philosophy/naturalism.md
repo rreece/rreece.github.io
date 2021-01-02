@@ -188,6 +188,23 @@ Descartes (often seen as anti-naturalist, explain, but he) wrote in 1644,
 >   the other branches of knowledge. These branches can be reduced to three
 >   principal ones, namely, Medicine, Mechanics, and Ethics. [^Descartes1644pxxiv]
 
+Russell:
+
+>   In the welter of conflicting fanaticisms, one of the few unifying forces is
+>   scientific truthfulness, by which I mean the habit of basing our beliefs
+>   upon observations and inferences as impersonal, and as much divested of
+>   local and temperamental bias, as is possible for human beings. To have
+>   insisted upon the introduction of this virtue into philosophy, and to have
+>   invented a powerful method by which it can be rendered fruitful, are the
+>   chief merits of the philosophical school of which I am a member. The habit
+>   of careful veracity acquired in the practice of this philosophical method
+>   can be extended to the whole sphere of human activity, producing, wherever
+>   it exists, a lessening of fanaticism with an increasing capacity of
+>   sympathy and mutual understanding. In abandoning a part of its dogmatic
+>   pretensions, philosophy does not cease to suggest and inspire a way of
+>   life. [^Russell1945pX]
+
+-   Lugg, A. (2006). Russell as a precursor of Quine. [^Lugg2006]
 -   In the boat with Neurath.
 -   *International Encyclopedia of Unified Science*
 
@@ -205,6 +222,8 @@ Sellars:
 >   disciplines. [^SellarsTODO]
 
 [^Descartes1644pxxiv]: @Descartes_1982_Principles_of_Philosophy\, p. xxiv.
+[^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
+[^Lugg2006]: @Lugg_2006_Russell_as_a_precursor_of_Quine\.
 [^SellarsTODO]: TODO.
 
 
@@ -527,7 +546,7 @@ Criticisms of naturalism
     -   Thomas, B. (2015). [A disease of scienceyness.](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953) [^Thomas2015]
     -   Konnikova, M. (2012). [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) *Scientific American Blogs*. [^Konnikova2012]
     -   McCrea, A. (2019). [The magical thinking of guys who love logic.](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
-    -   Kim, Z. (2019). [The logic fetishists.](https://blog.usejournal.com/the-logic-fetishists-464226cb3141)
+    -   Shifrel, Z. (2019). [The logic fetishists.](https://blog.usejournal.com/the-logic-fetishists-464226cb3141)
 -   Relationship to SJW vs IDW battles
     -   "Logic bros"
     -   Realists, independent of politics, often find themselves in the company
@@ -587,7 +606,7 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
-### Quine, W.V. (1969). Epistemology Naturalized.
+### Quine, W.V.O. (1969). Epistemology Naturalized.
 
 -   TODO
 
@@ -598,7 +617,7 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Quine, W.V. (1969). Natural Kinds.
+### Quine, W.V.O. (1969). Natural Kinds.
 
 -   TODO
 
@@ -688,7 +707,7 @@ Click to show links
 -   [Naturalism in Legal Philosophy](http://plato.stanford.edu/entries/lawphil-naturalism/)
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
--   [Quine, W.V. (1908-2000)](http://plato.stanford.edu/entries/quine/)
+-   [Quine, W.V.O. (1908-2000)](http://plato.stanford.edu/entries/quine/)
 -   [Rationalism vs. empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/)
 -   [Unity of Science](http://plato.stanford.edu/entries/scientific-unity/)
@@ -735,7 +754,7 @@ Click to show links
 -   [Physicalism](http://en.wikipedia.org/wiki/Physicalism)
 -   [Protagoras (490-420 BCE)](https://en.wikipedia.org/wiki/Protagoras)
 -   [Postmodernism](https://en.wikipedia.org/wiki/Postmodernism)
--   [Quine, W.V. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
+-   [Quine, W.V.O. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Reductionism](https://en.wikipedia.org/wiki/Reductionism)
 -   [Rorty, Richard (1931-2007)](https://en.wikipedia.org/wiki/Richard_Rorty)
 -   [Science wars](https://en.wikipedia.org/wiki/Science_wars)

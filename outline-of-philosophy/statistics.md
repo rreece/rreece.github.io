@@ -1247,7 +1247,8 @@ Computer Vision (CV)
 -   Sutton & Barto [^Sutton2018]
 -   Deep Reinforcement Learning: A Brief Survey [^Arulkumaran2017]
 -   [List by OpenAI of key RL papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
--   [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB&ab_channel=DeepMind)
+-   [RL course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB&ab_channel=DeepMind)
+-   [RL course by Emma Brunskill](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&ab_channel=stanfordonline)
 
 [^Arulkumaran2017]: @Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey\.
 [^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
@@ -1264,10 +1265,8 @@ Computer Vision (CV)
     greedy policy obtained from the last policy improvement
     ([source: towardsdatascience.com](https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c)). 
 -   DQN masters Atari [^Mnih2013]
--   Heinrich & Silver. (2016). Deep reinforcement learning from self play in imperfect-information games. [^Heinrich2016]
 
 [^Bellman1952]: @Bellman_1952_On_the_theory_of_dynamic_programming\.
-[^Heinrich2016]: @Heinrich_2016_Deep_reinforcement_learning_from_self_play\.
 [^Mnih2013]: @Mnih_2013_Playing_Atari_with_deep_reinforcement_learning and
     @Mnih_2015_Human_level_control_through_deep_reinforcement\.
 
@@ -1307,6 +1306,8 @@ Computer Vision (CV)
 -   Earlier poker work
     -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. [^Bowling2015]
         -   CFR+
+    -   Heinrich & Silver. (2016). Deep reinforcement learning from self play in imperfect-information games. [^Heinrich2016]
+        -   Q-learning
     -   Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. [^Moravcik2017]
 -   Libratus
     -   Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. [^Brown2018Libratus]
@@ -1329,6 +1330,7 @@ Computer Vision (CV)
 [^Brown2019SIIG]: @Brown_2019_Solving_imperfect_information_games_via_discounted\.
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 [^Brown2020]: @Brown_2020_Combining_deep_reinforcement_learning_and_search\.
+[^Heinrich2016]: @Heinrich_2016_Deep_reinforcement_learning_from_self_play\.
 [^Moravcik2017]: @Moravcik_2017_DeepStack_Expert_level_artificial_intelligence\.
 
 

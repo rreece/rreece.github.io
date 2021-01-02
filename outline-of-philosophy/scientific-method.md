@@ -758,22 +758,6 @@ Feynman:
 
 -   TODO: model of science taught in high schools---form a hypothesis, etc.
 
-Russell:
-
->   In the welter of conflicting fanaticisms, one of the few unifying forces is
->   scientific truthfulness, by which I mean the habit of basing our beliefs
->   upon observations and inferences as impersonal, and as much divested of
->   local and temperamental bias, as is possible for human beings. To have
->   insisted upon the introduction of this virtue into philosophy, and to have
->   invented a powerful method by which it can be rendered fruitful, are the
->   chief merits of the philosophical school of which I am a member. The habit
->   of careful veracity acquired in the practice of this philosophical method
->   can be extended to the whole sphere of human activity, producing, wherever
->   it exists, a lessening of fanaticism with an increasing capacity of
->   sympathy and mutual understanding. In abandoning a part of its dogmatic
->   pretensions, philosophy does not cease to suggest and inspire a way of
->   life. [^Russell1945pX]
-
 Sagan:
 
 >   Spin more than one hypothesis, think of all the different ways in which
@@ -785,7 +769,6 @@ Sagan:
 
 [^Feynman1998p15]: @Feynman_1998_The_Meaning_of_It_All\, p. 15--16.
 [^Feynman1998p17]: @Feynman_1998_The_Meaning_of_It_All\, p. 17.
-[^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
 [^Sagan1995p197]: @Sagan_1997_The_Demon_Haunted_World_Science_as_a_Candle\, p. 197.
 
 
