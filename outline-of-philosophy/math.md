@@ -293,6 +293,7 @@ Unification programs
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
 -   Category theory
     -   [Univalent foundations](https://en.wikipedia.org/wiki/Univalent_foundations)
+    -   [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html)
 
 Yanofsky, N.S. (2016). Why mathematics works so well:
 
