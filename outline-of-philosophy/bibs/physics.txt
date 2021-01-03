@@ -22,6 +22,7 @@ Feynman, R.P. (1965). The Development of the Space-Time View of Quantum Electrod
 Giulini, D., Joos, E., Kiefer, C., Kupsch, J., Stamatescu, I. & Zeh, H.D. (1996). *Decoherence and the Appearance of a Classical World in Quantum Theory*. Springer.
 Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. Perseus Books.
 Goyal, P. (2020). Derivation of classical mechanics in an energetic framework via conservation and relativity. *Foundations of Physics*, 50, 1426--1479.
+Georgi, H. & Glashow, S.L. (1974). Unity of all elementary-particle forces. *Physical Review Letters*, 32, 438--441. http://pcbat1.mi.infn.it/~battist/astrop/su5.pdf
 Haag, R. (1955). On quantum field theories. *Det Kongelige Danske Videnskabernes Selakab*, 29.
 Haag, R., \L{}opusza\'{n}ski, J. T., & Sohnius, M. (1975). All possible generators of supersymmetries of the S-matrix. *Nuclear Physics B*, 88(2), 257--274.
 Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. Springer.
@@ -40,6 +41,7 @@ Mermin, N.D. (1985). Is the moon there when nobody looks? Reality and the quantu
 Nail, T. (2018). *Lucretius I: An Ontology of Motion*. Edinburgh University Press.
 Nail, T. (2020). *Lucretius II: An Ethics of Motion*. Edinburgh University Press.
 Ney, A. & Albert, D.Z. (2013). *The Wave Function: Essays on the metaphysics of quantum mechanics*. Oxford University Press.
+Pati, J.C. & Salam, A. (1974). Lepton number as the fourth color. *Physical Review D*, 10, 275--289. https://pdfs.semanticscholar.org/21fb/f9d49acf3e3f07098ca686ae4058c38dbd03.pdf
 Peskin, M.E. & Schroeder, D.V. (1995). *An Introduction to Quantum Field Theory*. Westview Press.
 Proietti, M. et al. (2019). Experimental test of local observer independence. *Science Advances*, 5(9), eaaw9832. https://arxiv.org/abs/1902.05080
 Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8, 476. https://arxiv.org/abs/1111.3328
@@ -49,6 +51,7 @@ Schwartz, M.D. (2014). *Quantum Field Theory and the Standard Model*. Cambridge 
 Seidewitz, E. (2017). Avoiding Haag's Theorem with Parameterized Quantum Field Theory. *Foundations of Physics*, 47(3), 355--374.
 Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.
 Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, III. https://space.mit.edu/home/tegmark/everett/
+Slansky, R. (1981). Group theory for unified model building. *Physics Reports*, 79, 1--128. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1581&rep=rep1&type=pdf
 Teller, P. (1997). *An Interpretive Introduction to Quantum Field Theory*. Princeton University Press.
 't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. World Scientific.
 't Hooft, G. (2007). Lie Groups in Physics. http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf

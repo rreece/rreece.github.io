@@ -470,6 +470,7 @@ Exotics in quantum field theory
 -   Sphalerons
 -   Instanton
 -   Shifman [^Shifman2012]
+-   Q-balls
 
 [^Shifman2012]: @Shifman_2012_Advanced_Topics_in_Quantum_Field_Theory_A_lecture\.
 [^tHooft1994-2]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
@@ -484,6 +485,7 @@ Exotics in quantum field theory
     -   [supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - ncatlab.org
 -   Martin [^Martin2016]
 -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
+-   See also: [Grand unification](physics.html#grand-unification)
 
 [^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries\.
 [^Martin2016]: @Martin_2016_A_supersymmetry_primer\.
@@ -606,18 +608,42 @@ The standard model of particle physics
 -   QCD: SU(3)
 -   Nima Arkani-Hamed doing particle physics *a priori*: ["Why is there a Macroscopic Universe?"](https://www.youtube.com/watch?v=F2Fxt_yCrcc)
 -   Nima Arkani-Hamed on [Collider Physics from the Bottom Up](https://www.youtube.com/watch?v=uG8VJb3jRzU)
+-   On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214) and [CMS](https://arxiv.org/abs/1207.7235)
+    experiments both [announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
+    a key to explaining electroweak symmetry breaking in the Standard Model of particle physics.
 
 
 Beyond the standard model
 --------------------------------------------------------------------------------
 
+### Neutrinos
+
 -   Neutrino masses and mixings
--   Running of the couplings
--   Grand unification
--   Supersymmetry
--   Minimal Supersymmetric Standard Model (MSSM)
+
+
+### Ad hoc structures
+
+-   Why SU(3) $\times$ SU(2) $\times$ U(1)?
 -   Strong $CP$ problem
--   Axions
+    -   Axions
+-   Matter-antimatter asymmetry
+-   3 generations
+-   Hierarchy problem(s)
+-   Dark matter and dark energy
+    -   See also: [Dark matter](physics.html#dark-matter)
+    -   See also: [Dark energy](physics.html#dark-energy)
+
+
+### Grand unification
+
+-   Running of the couplings
+-   Supersymmetry
+    -   See also: [Supersymmetry](physics.html#supersymmetry)
+    -   Minimal Supersymmetric Standard Model (MSSM)
+-   Grand Unified Theories (GUTs)
+    -   Pati & Salam [^Pati1974]
+    -   Georgi & Glashow [^Glashow1974]
+    -   Slansky [^Slansky1981]
 -   Quantum gravity
 
 ![Two-loop renormalization group evolution of the inverse gauge couplings, $\alpha^{-1}$,
@@ -626,13 +652,17 @@ Beyond the standard model
     threshold varied between 750 GeV (blue) and 2.5 TeV (red). [^Martin2016p66]
     ](img/martin-running-of-the-couplings.png){#fig:martin-running-of-the-couplings}
 
+[^Glashow1974]: @Georgi_1974_Unity_of_all_elementary_particle_forces\.
 [^Martin2016p66]: @Martin_2016_A_supersymmetry_primer\, p. 66.
+[^Pati1974]: @Pati_1974_Lepton_number_as_the_fourth_color\.
+[^Slansky1981]: @Slansky_1981_Group_theory_for_unified_model_building\.
 
 
-### Criticisms
+### Future colliders and criticisms
 
 -   Baggot, J. (2013). *Farewell to Reality* [^Baggott2013]
--   Sabine Hossenfelder
+-   CERN. (2020). [Press Release: Particle physicists update strategy for the future of the field in Europe](https://home.cern/news/news/physics/particle-physicists-update-strategy-future-field-europe). ("FCC")
+-   Hossenfelder, S. (2020). [The world doesn't need a new gigantic particle collider](https://www.scientificamerican.com/article/the-world-doesnt-need-a-new-gigantic-particle-collider/).
 
 [^Baggott2013]: @Baggott_2013_Farewell_to_Reality_How_modern_physics_has\.
 
