@@ -3,7 +3,7 @@
 output: doc
 title: 'Ryan Reece, Ph.D.'
 titleshort: 'Ryan Reece, Ph.D.'
-subtitle: 'Data scientist / machine learning engineer / physicist'
+subtitle: 'Physicist / machine learning scientist'
 #subtitle: 'Postdoctoral Fellow<br/> Santa Cruz Institute for Particle Physics'
 authorshort: 'Ryan Reece'
 #author1: Ryan Reece
@@ -36,7 +36,7 @@ date: \today
 #docid: EXAMPLE-DOC-000 # arXiv:1606.09150 # ATLAS-COM-PHYS-2010-200
 draft: false
 #license: ''
-license: '&copy; 2013-2020 [Ryan Reece](http://rreece.github.io/). All rights reserved.'
+license: '&copy; 2013-2021 [Ryan Reece](http://rreece.github.io/). All rights reserved.'
 #license: '<span class="copy-left">&copy;</span> 2014-2018 Ryan Reece. Licensed for sharing under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).'
 dorefs: false
 submitted: ''
