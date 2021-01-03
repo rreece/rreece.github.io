@@ -1247,6 +1247,7 @@ Computer Vision (CV)
 -   Sutton & Barto [^Sutton2018]
 -   Deep Reinforcement Learning: A Brief Survey [^Arulkumaran2017]
 -   [List by OpenAI of key RL papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+-   [List of game AI codes by DATA Lab](https://github.com/datamllab/awesome-game-ai)
 -   [RL course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB&ab_channel=DeepMind)
 -   [RL course by Emma Brunskill](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&ab_channel=stanfordonline)
 
