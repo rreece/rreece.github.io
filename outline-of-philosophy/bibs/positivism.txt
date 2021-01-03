@@ -15,5 +15,5 @@ Murzi, M. (2001). Rudolf Carnap (1891-1970). *Internet Encyclopedia of Philosoph
 Passmore, J. (1967). Logical positivism. In P. Edwards (Ed.) *The Encyclopedia of Philosophy, Volume 5* (pp. 52--57). New York: Macmillan.
 Schlick, M. & Rynin, D. (1948). Positivism and realism. *Synthese*, 7, 478-505.
 #Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus* (C.K. Ogden, Trans.). London: Kegan Paul, Trench, Trubner & Co. [(Originally published in German in 1921)]
-Wittgenstein, L. (1961). *Tractatus Logico-Philosophicus* (D.F. Pears and B.F. McGuinness, Trans.). Routledge. [(Originally published in German in 1921)]
+Wittgenstein, L. (1961). *Tractatus Logico-Philosophicus* (D.F. Pears and B.F. McGuinness, Trans.). Routledge. https://people.umass.edu/klement/tlp/tlp.html [(Originally published in German in 1921)]
 Wittgenstein, L. (2009). *Philosophical Investigations* (4 ed.) (P. Hacker and J. Schulte, Eds. E. Anscombe and P. Hacker, Trans.). Wiley-Blackwell. [(Originally published in 1953)]
