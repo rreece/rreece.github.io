@@ -283,11 +283,14 @@ Hinduism
     -   Samaveda, Yajurveda, Atharvaveda
     -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
         -   Katz & Egenes translation [^Katz2015]
--   [Mahabharata](https://en.wikipedia.org/wiki/Mahabharata) - sometimes called the "Fifth Veda"
--   [Ramayana](https://en.wikipedia.org/wiki/Ramayana)
--   [Bhagavad Gita](https://en.wikipedia.org/wiki/Bhagavad_Gita)
--   [Vaisesika Sutra](https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika_S%C5%ABtra) AKA Kanada Sutra
--   [Brahma Sutras](https://en.wikipedia.org/wiki/Brahma_Sutras) AKA Vedanta Sutra
+        -   Schopenhauer: "the most profitable and elevating reading which... is possible in the world".
+-   [Mahabharata](https://en.wikipedia.org/wiki/Mahabharata) - sometimes called the "Fifth Veda" (c. 300 BCE - 300 CE)
+    -   [Bhagavad Gita](https://en.wikipedia.org/wiki/Bhagavad_Gita) (c. 200-100 BCE)
+-   [Ramayana](https://en.wikipedia.org/wiki/Ramayana) (c. 700-400 BCE)
+-   [Vaisesika Sutra](https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika_S%C5%ABtra) AKA Kanada Sutra (c. 600-100 BCE)
+    -   Atomism
+    -   Discusses epistemology (pramana) involving perception, inference, and knowledge.
+-   [Brahma Sutras](https://en.wikipedia.org/wiki/Brahma_Sutras) AKA Vedanta Sutra (c. 400-450 CE)
 
 #### Secondary texts
 
@@ -360,6 +363,7 @@ Buddhism
     -   Egalitarianism: rejection of the Hindu caste system.
 -   [Siddhartha Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha) (c. 480-400 BCE)
     -   AKA Shakyamuni Buddha
+    -   Of the [Shakya clan](https://en.wikipedia.org/wiki/Shakya), son of [Queen Maya](https://en.wikipedia.org/wiki/Maya_(mother_of_the_Buddha))
     -   [Four sights](https://en.wikipedia.org/wiki/Four_sights)
     -   [Bodh Gaya](https://en.wikipedia.org/wiki/Bodh_Gaya) - place the Buddha attained enlightenment
     -   [Sarnath](https://en.wikipedia.org/wiki/Sarnath) - place of the Buddha's first sermon

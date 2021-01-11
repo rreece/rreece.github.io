@@ -313,7 +313,6 @@ Pedagogy:
 -   The "renormalization group" isn't a group; it's actually a semigroup.
     The reason that renormalization produces a semigroup is that a block
     transformation loses information. [^Kadanoff2013p50]
--   Kim, Z. (2020). [Let's Study (Renormalization)](https://pathintegralsalesman.blogspot.com/2020/05/lets-study-renormalization.html). May 31, 2020.
  
 [^Butterfield2014]: @Butterfield_2014_Reduction_emergence_and_renormalization\.
 [^Butterfield2015]: @Butterfield_2015_Renormalization_for_philosophers\.
@@ -439,6 +438,8 @@ Exotics in quantum field theory
 -   Topological QFT (QFT)
     -   [cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
     -   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos) - nLab
+
+Maudlin:
 
 >   If we adopt the metaphysics of the fiber bundle to represent chromodynamics,
 >   then we must reject the notion that quark color is a universal, or that there are

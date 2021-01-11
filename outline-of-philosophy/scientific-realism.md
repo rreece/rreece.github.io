@@ -555,9 +555,9 @@ Comte on the unknowability of the composition of stars:
 
 #### Ludwig Wittgenstein
 
--   Ludwig Wittgenstein (1889-1951)
 -   Gottlob Frege (1848-1925)
     -   Sense and reference (1892)
+-   Ludwig Wittgenstein (1889-1951)
 
 Wittgenstein studied with, was influenced by, and influenced:
 
