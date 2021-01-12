@@ -86,10 +86,12 @@ Neuroscience
     -   Blue Brain Project
 
 
-### Language
+Language
+--------------------------------------------------------------------------------
 
 -   Sapir-Whorf hypothesis AKA [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity)
 -   [Washoe the chimpanzee](https://en.wikipedia.org/wiki/Washoe_(chimpanzee))
+-   McCarthy, C. (2017). [The Kekul&eacute; Problem](https://nautil.us/issue/47/consciousness/the-kekul-problem).
 
 
 Free will
