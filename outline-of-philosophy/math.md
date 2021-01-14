@@ -7,8 +7,8 @@ Here we dig into issues of what is _abstraction_.
 
 First we survey the following branches of mathematics:
 logic, algebra, analysis, model theory.
-Then we discuss unification programs across branches.
-Followed by sections on positions in philosophy of mathematics,
+Then we discuss unification programs across branches,
+followed by sections on positions in philosophy of mathematics,
 in particular dealing with the realism/antirealism or platonism/nominalism
 debate.
 
@@ -375,6 +375,7 @@ Platonism
     -   Mathematical Universe Hypothesis (MUH)
 -   Seth Lloyd - the universe is a computer - pythagorean?
 -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
+-   [Proofs without words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
 
 ![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
 
