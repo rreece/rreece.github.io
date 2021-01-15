@@ -85,6 +85,8 @@ Neuroscience
 -   Computational neuroscience
     -   Blue Brain Project
 
+![Kahn, Fritz. (1939). [What goes on in our heads when we see a car and say 'car'](https://www.amazon.com/Fritz-Kahn-Uta-Thilo-Debschitz/dp/3836548402).](img/fritz-kahn-what-happens-in-our-heads.jpg){#fig:fritz-kahn-what-happens-in-our-heads}
+
 
 Language
 --------------------------------------------------------------------------------
