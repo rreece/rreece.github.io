@@ -221,10 +221,14 @@ Sellars:
 >   way around with respect to the subject-matters of all the special
 >   disciplines. [^SellarsTODO]
 
+-   Unity of knowledge
+    -   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
+
 [^Descartes1644pxxiv]: @Descartes_1982_Principles_of_Philosophy\, p. xxiv.
 [^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
 [^Lugg2006]: @Lugg_2006_Russell_as_a_precursor_of_Quine\.
 [^SellarsTODO]: TODO.
+[^Wilson1998]: @Wilson_1998_Consilience\.
 
 
 Rejection of *a priori* metaphysics
@@ -313,6 +317,25 @@ Opening lines to *ETMG*:
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
 [^Quine1969pX]: @Quine_1969_Natural_kinds\, p. TODO.
 [^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21. (emphasis added)
+
+
+### Analytic/continental divide
+
+-   Counter-Enlightenment
+    -   G.W.F. Hegel (1770-1831)
+    -   Criticism of Kant
+-   Cassirer-Heidegger debate
+    -   Heidegger, M. (1929). What is metaphysics? [^Heidegger1929]
+    -   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932]
+    -   Luchte, J. (2007). [Martin Heidegger and Rudolf Carnap: Radical Phenomenology, Logical Positivism and the Roots of the Continental/Analytic Divide](https://luchte.wordpress.com/martin-heidegger-and-rudolf-carnap-radical-phenomenology-logical-positivism-and-the-roots-of-the-continentalanalytic-divide/).
+    -   Dresser, S. (2020). [Does philosophy reside in the unsayable or should it care only for precision? Carnap, Heidegger and the great divergence](https://aeon.co/essays/heidegger-v-carnap-how-logic-took-issue-with-metaphysics).
+    -   Friedman, M. (2000). *A Parting of the Ways: Carnap, Cassirer, and Heidegger*. [^Friedman2000]
+    -   Friedman, M. (2002). Carnap, Cassirer, and Heidegger: The Davos disputation and twentieth century philosophy. [^Friedman2002]
+
+[^Carnap1932]: @Carnap_1932_The_elimination_of_metaphysics_through_logical\.
+[^Friedman2000]: @Friedman_2000_A_Parting_of_the_Ways_Carnap_Cassirer\.
+[^Friedman2002]: @Friedman_2002_Carnap_Cassirer_and_Heidegger_The_Davos\.
+[^Heidegger1929]: @Heidegger_1929_What_is_metaphysics\.
 
 
 Monism and physicalism
@@ -428,8 +451,6 @@ Scientism
 -   Methodological naturalism
     -   What are the limits of science?
     -   Are there other ways of knowing?
--   Unity of knowledge
-    -   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
 -   Honorific reinterpretation
     -   Rosenberg: *The Atheist's Guide to Reality* [^Rosenberg2011AGR]
     -   Lawhead: "My Scientism" [^Lawhead20016]
@@ -442,7 +463,6 @@ Scientism
 [^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
 [^Rosenberg2011AGR]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
 [^Sorell1991]: @Sorell_1991_Scientism_Philosophy_and_the_Infatuation_with\.
-[^Wilson1998]: @Wilson_1998_Consilience\.
 
 
 Moral naturalism
@@ -561,11 +581,19 @@ Criticisms of naturalism
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
--   Culture wars
-    -   2 + 2 = 5 Twitter controversy
-        -   <https://twitter.com/kareem_carr/status/1288991602069970946>
-        -   <https://twitter.com/EpiEllie/status/1291744508376383488>
-        -   <https://twitter.com/kareem_carr/status/1295765400236498949>
+
+### Culture wars
+
+-   2 + 2 = 5 Twitter controversy
+    -   <https://twitter.com/kareem_carr/status/1288991602069970946>
+    -   <https://twitter.com/EpiEllie/status/1291744508376383488>
+    -   <https://twitter.com/kareem_carr/status/1295765400236498949>
+-   The Trans Divide
+    -   Flaherty, C. (2019). [The Trans Divide](https://www.insidehighered.com/news/2019/07/19/divide-over-scholarly-debate-over-gender-identity-rages).
+    -   Bermudez, J.L. et al. (2019). [Philosophers Should Not Be Sanctioned Over Their Positions on Sex and Gender](https://www.insidehighered.com/views/2019/07/22/philosophers-should-not-be-sanctioned-their-positions-sex-and-gender-opinion).
+    -   Alcoff, L. et al. (2019). [On Philosophical Scholarship of Gender: A Response to "12 Leading Scholars"](https://blog.apaonline.org/2019/08/07/on-philosophical-scholarship-of-gender-a-response-to-12-leading-scholars/).
+    -   Bettcher, T.M. et al. (2021). [Open Letter Concerning Transphobia in Philosophy](https://sites.google.com/view/trans-phil-letter/).
+    -   Jacobson, D. et al. (2021). [Open Letter Concerning Academic Freedom](https://sites.google.com/view/open-letter-stock-freedom/).
 
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.

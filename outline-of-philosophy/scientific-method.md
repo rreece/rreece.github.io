@@ -626,6 +626,7 @@ Reichenbach:
     -   Aumann's agreement theorem [^Aumann1976]
 -   Note that philosophical induction is not [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
 -   Sankey [^Sankey2008p79]
+-   Vickers, J.M. (2013). [Oxford Bibliography on Inductive Reasoning](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0171.xml).
 
 [^Aumann1976]: @Aumann_1976_Agreeing_to_disagree\.
 [^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
