@@ -1333,12 +1333,16 @@ Comparitive studies
 -   [Stoicism & Buddhism: Lessons, Similarities and Differences](https://dailystoic.com/stoicism-buddhism/)
 
 
-### Indian and modern western philosophy
+### Eastern and modern western philosophy
 
 -   Buddhism and Schopenhauer
     -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
     -   Kerns, T. [Lecture notes on Schopenhauer and Buddhism](http://philosophycourse.info/lecsite/lec-schop-budd.html).
     -   Young, J. [Arthur Schopenhauer: The first European Buddhist](https://www.the-tls.co.uk/articles/arthur-schopenhauer-footnotes-to-plato/).
+-   Buddhism and continental philosophy
+    -   The Kyoto School
+    -   Heidegger and Keiji Nishitani
+    -   Parkes, G. (2011). Heidegger and Japanese fascism: An unsubstantiated connection. [^Parkes2011]
 -   Buddhism and empiricism
     -   Hume: anitya and humeanism
     -   Two truths doctrine
@@ -1348,6 +1352,7 @@ Comparitive studies
 -   *The Eastern Origins of Western Civlisation* [^Hobson2004]
 
 [^Hobson2004]: @Hobson_2004_The_Eastern_Origins_of_Western_Civlisation\.
+[^Parkes2011]: @Parkes_2011_Heidegger_and_Japanese_fascism_An_unsubstantiated\.
 
 
 ### Perennial philosophy
