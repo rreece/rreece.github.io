@@ -327,14 +327,16 @@ Opening lines to *ETMG*:
 -   Cassirer-Heidegger debate
     -   Heidegger, M. (1929). What is metaphysics? [^Heidegger1929]
     -   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932]
-    -   Luchte, J. (2007). [Martin Heidegger and Rudolf Carnap: Radical Phenomenology, Logical Positivism and the Roots of the Continental/Analytic Divide](https://luchte.wordpress.com/martin-heidegger-and-rudolf-carnap-radical-phenomenology-logical-positivism-and-the-roots-of-the-continentalanalytic-divide/).
-    -   Dresser, S. (2020). [Does philosophy reside in the unsayable or should it care only for precision? Carnap, Heidegger and the great divergence](https://aeon.co/essays/heidegger-v-carnap-how-logic-took-issue-with-metaphysics).
     -   Friedman, M. (2000). *A Parting of the Ways: Carnap, Cassirer, and Heidegger*. [^Friedman2000]
     -   Friedman, M. (2002). Carnap, Cassirer, and Heidegger: The Davos disputation and twentieth century philosophy. [^Friedman2002]
+    -   Gabriel, G. (2003). Carnap's "Elimination of metaphysics through logical analysis of language". [^Gabriel2003]
+    -   Luchte, J. (2007). [Martin Heidegger and Rudolf Carnap: Radical Phenomenology, Logical Positivism and the Roots of the Continental/Analytic Divide](https://luchte.wordpress.com/martin-heidegger-and-rudolf-carnap-radical-phenomenology-logical-positivism-and-the-roots-of-the-continentalanalytic-divide/).
+    -   Dresser, S. (2020). [Does philosophy reside in the unsayable or should it care only for precision? Carnap, Heidegger and the great divergence](https://aeon.co/essays/heidegger-v-carnap-how-logic-took-issue-with-metaphysics).
 
 [^Carnap1932]: @Carnap_1932_The_elimination_of_metaphysics_through_logical\.
 [^Friedman2000]: @Friedman_2000_A_Parting_of_the_Ways_Carnap_Cassirer\.
 [^Friedman2002]: @Friedman_2002_Carnap_Cassirer_and_Heidegger_The_Davos\.
+[^Gabriel2003]: @Gabriel_2003_Carnaps_Elimination_of_metaphysics_through\.
 [^Heidegger1929]: @Heidegger_1929_What_is_metaphysics\.
 
 
@@ -404,7 +406,7 @@ Natural kinds
 Part of metaphysical naturalism.
 
 -   Plato: *Phaedrus* 265e
--   *Natural Kinds* [^Quine1969]
+-   Quine, W.V.O. (1969). Natural kinds. [^Quine1969]
 -   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
 
 Quine:
