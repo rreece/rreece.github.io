@@ -608,6 +608,8 @@ Criticisms of naturalism
     -   Alcoff, L. et al. (2019). [On Philosophical Scholarship of Gender: A Response to "12 Leading Scholars"](https://blog.apaonline.org/2019/08/07/on-philosophical-scholarship-of-gender-a-response-to-12-leading-scholars/).
     -   Bettcher, T.M. et al. (2021). [Open Letter Concerning Transphobia in Philosophy](https://sites.google.com/view/trans-phil-letter/).
     -   Jacobson, D. et al. (2021). [Open Letter Concerning Academic Freedom](https://sites.google.com/view/open-letter-stock-freedom/).
+    -   Stock, K. (2021). [The sinister attempts to silence gender critical academics](https://www.spectator.co.uk/article/the-sinister-attempts-to-silence-gender-critical-academics).
+    -   Stock, K. (2021). [I refuse to be bullied into silence](https://www.dailymail.co.uk/news/article-9155659/I-refuse-bullied-silence-PROFESSOR-KATHLEEN-STOCK.html).
 
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.

@@ -488,8 +488,16 @@ Maudlin:
 -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
 -   See also: [Grand unification](physics.html#grand-unification)
 
+Urs Schreiber:
+
+>   not just that local spacetime supersymmetry is one possibility to have
+>   sensible particle content under Wigner classification, but that the class of
+>   (algebraic) super-groups precisely exhausts the moduli space of possible
+>   consistent local spacetime symmetry groups. [^Schreiber2016]
+
 [^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries\.
 [^Martin2016]: @Martin_2016_A_supersymmetry_primer\.
+[^Schreiber2016]: Schreiber, U. (2016). [Learn about supersymmetry and Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/).
 
 
 Interpretations of quantum mechanics
@@ -732,8 +740,9 @@ Complexity and emergence
     -   chaos
 -   [Universality](https://en.wikipedia.org/wiki/Universality_(dynamical_systems))
 -   Thermodynamics, statistical mechanics, renormalization.
--   Anderson, P.W. (1972). More is different. [^Anderson-1972]
--   Lisi, A.G. (2017). [Emergence](https://www.edge.org/response-detail/27149). [^Lisi-2017]
+-   Anderson, P.W. (1972). More is different. [^Anderson1972p393]
+-   Bedau, M. (1997). Weak emergence.
+-   Lisi, A.G. (2017). [Emergence](https://www.edge.org/response-detail/27149). [^Lisi2017]
 -   Bain
 -   Jard&oacute;n, R. (2020). [Emergence](https://philosophytweet.blogspot.com/2020/04/emergence.html).
 -   Views on reductionism
@@ -742,8 +751,18 @@ Complexity and emergence
     -   George F. R. Ellis vs Barry Loewer
 -   See also the [Outline on naturalism](naturalism.html#reductionism)
 
-[^Anderson-1972]: @Anderson_1972_More_is_different\.
-[^Lisi-2017]: @Lisi_2017_Emergence\.
+Anderson:
+
+>   The ability to reduce everything to simple fundamental laws does not imply
+>   the ability to start from those laws and reconstruct the universe.
+>   The constructionist hypothesis breaks down when confronted with the twin
+>   difficulties of scale and complexity. At each level of complexity entirely
+>   new properties appear. Psychology is not applied biology, nor is biology
+>   applied chemistry. We can now see that the whole becomes not merely more,
+>   but very different from the sum of its parts.
+
+[^Anderson1972p393]: @Anderson_1972_More_is_different\, p. 393.
+[^Lisi2017]: @Lisi_2017_Emergence\.
 
 
 Bracketing human experience
