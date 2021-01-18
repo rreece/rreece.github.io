@@ -177,6 +177,8 @@ Riepe on the characteristics of naturalism in Indian thought:
 Unity of philosophy and science
 --------------------------------------------------------------------------------
 
+### Continuity
+
 -   Philosophy and science are continuous in concerns.
 -   Philosophy is the nursury of budding programs that become specialized sciences.
 -   TODO: find more refs.
@@ -221,41 +223,34 @@ Sellars:
 >   way around with respect to the subject-matters of all the special
 >   disciplines. [^SellarsTODO]
 
--   Unity of knowledge
-    -   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
-
 [^Descartes1644pxxiv]: @Descartes_1982_Principles_of_Philosophy\, p. xxiv.
 [^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
 [^Lugg2006]: @Lugg_2006_Russell_as_a_precursor_of_Quine\.
 [^SellarsTODO]: TODO.
+
+
+### Consilience
+
+-   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
+-   Unity of knowledge
+
 [^Wilson1998]: @Wilson_1998_Consilience\.
 
 
 Rejection of *a priori* metaphysics
 --------------------------------------------------------------------------------
 
+### Early modern
+
 -   Descartes' non-natural method
 -   Locke on the rejection of innate ideas
 -   Hume's fork
--   Metaphysical naturalism
-
-TODO: While promoting the careful gathering of empirical information,
-naturalism is not against (largely non-empirical) rational pursuits like mathematics.
-Indeed some naturalist may even see logic and mathematics as scientific pursuits
-of *a priori* truths.
 
 >   If we take in our hand any volume; of divinity or school metaphysics,
 >   for instance; let us ask, _Does it contain any abstract reasoning concerning
 >   quantity or number?_ No. _Does it contain any experimental reasoning
 >   concerning matter of fact and existence?_ No. Commit it then to the flames:
 >   for it can contain nothing but sophistry and illusion. [^Hume2007p165]
-
-TODO: Naturalism shares much in common with schools of thought surrounding positivism,
-through its respect for science and skepticism of *a priori* metaphysics,
-but naturalism is a more general distinction,
-being a more much longer thread throughout the history of philosophy and science.
-
-![A version of the "distracted boyfriend meme" maligning  *a priori* metaphysics.](img/distracted-boyfriend-meme-intuitions-data.png){#fig:distracted-boyfriend-meme-intuitions-data}
 
 Kant in his *Prolegomena to Any Future Metaphysics*:
 
@@ -279,6 +274,42 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
 >   reputation here, where everybody, however ignorant in other matters, 
 >   may deliver a final verdict, as in this domain there is as yet no standard 
 >   weight and measure to distinguish sound knowledge from shallow talk. [^Kant1783]
+
+
+### Analytic/continental divide
+
+-   Counter-Enlightenment
+    -   G.W.F. Hegel (1770-1831)
+    -   Criticism of Kant
+-   Cassirer-Heidegger debate
+    -   Heidegger, M. (1929). What is metaphysics? [^Heidegger1929]
+    -   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932]
+    -   Friedman, M. (2000). *A Parting of the Ways: Carnap, Cassirer, and Heidegger*. [^Friedman2000]
+    -   Friedman, M. (2002). Carnap, Cassirer, and Heidegger: The Davos disputation and twentieth century philosophy. [^Friedman2002]
+    -   Gabriel, G. (2003). Carnap's "Elimination of metaphysics through logical analysis of language". [^Gabriel2003]
+    -   Luchte, J. (2007). [Martin Heidegger and Rudolf Carnap: Radical Phenomenology, Logical Positivism and the Roots of the Continental/Analytic Divide](https://luchte.wordpress.com/martin-heidegger-and-rudolf-carnap-radical-phenomenology-logical-positivism-and-the-roots-of-the-continentalanalytic-divide/).
+    -   Dresser, S. (2020). [Does philosophy reside in the unsayable or should it care only for precision? Carnap, Heidegger and the great divergence](https://aeon.co/essays/heidegger-v-carnap-how-logic-took-issue-with-metaphysics).
+
+[^Carnap1932]: @Carnap_1932_The_elimination_of_metaphysics_through_logical\.
+[^Friedman2000]: @Friedman_2000_A_Parting_of_the_Ways_Carnap_Cassirer\.
+[^Friedman2002]: @Friedman_2002_Carnap_Cassirer_and_Heidegger_The_Davos\.
+[^Gabriel2003]: @Gabriel_2003_Carnaps_Elimination_of_metaphysics_through\.
+[^Heidegger1929]: @Heidegger_1929_What_is_metaphysics\.
+
+
+### Metaphysical naturalism
+
+TODO: While promoting the careful gathering of empirical information,
+naturalism is not against (largely non-empirical) rational pursuits like mathematics.
+Indeed some naturalist may even see logic and mathematics as scientific pursuits
+of *a priori* truths.
+
+TODO: Naturalism shares much in common with schools of thought surrounding positivism,
+through its respect for science and skepticism of *a priori* metaphysics,
+but naturalism is a more general distinction,
+being a more much longer thread throughout the history of philosophy and science.
+
+![A version of the "distracted boyfriend meme" maligning  *a priori* metaphysics.](img/distracted-boyfriend-meme-intuitions-data.png){#fig:distracted-boyfriend-meme-intuitions-data}
 
 Quine:
 
@@ -312,32 +343,13 @@ Opening lines to *ETMG*:
 >   morally serious people, fails to qualify as part of the enlightened pursuit of 
 >   objective truth, and should be discontinued. [^Ladyman2007pi]
 
+-   TODO: Maddy
+
 [^Hume2007p165]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 165.
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
 [^Quine1969pX]: @Quine_1969_Natural_kinds\, p. TODO.
 [^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21. (emphasis added)
-
-
-### Analytic/continental divide
-
--   Counter-Enlightenment
-    -   G.W.F. Hegel (1770-1831)
-    -   Criticism of Kant
--   Cassirer-Heidegger debate
-    -   Heidegger, M. (1929). What is metaphysics? [^Heidegger1929]
-    -   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932]
-    -   Friedman, M. (2000). *A Parting of the Ways: Carnap, Cassirer, and Heidegger*. [^Friedman2000]
-    -   Friedman, M. (2002). Carnap, Cassirer, and Heidegger: The Davos disputation and twentieth century philosophy. [^Friedman2002]
-    -   Gabriel, G. (2003). Carnap's "Elimination of metaphysics through logical analysis of language". [^Gabriel2003]
-    -   Luchte, J. (2007). [Martin Heidegger and Rudolf Carnap: Radical Phenomenology, Logical Positivism and the Roots of the Continental/Analytic Divide](https://luchte.wordpress.com/martin-heidegger-and-rudolf-carnap-radical-phenomenology-logical-positivism-and-the-roots-of-the-continentalanalytic-divide/).
-    -   Dresser, S. (2020). [Does philosophy reside in the unsayable or should it care only for precision? Carnap, Heidegger and the great divergence](https://aeon.co/essays/heidegger-v-carnap-how-logic-took-issue-with-metaphysics).
-
-[^Carnap1932]: @Carnap_1932_The_elimination_of_metaphysics_through_logical\.
-[^Friedman2000]: @Friedman_2000_A_Parting_of_the_Ways_Carnap_Cassirer\.
-[^Friedman2002]: @Friedman_2002_Carnap_Cassirer_and_Heidegger_The_Davos\.
-[^Gabriel2003]: @Gabriel_2003_Carnaps_Elimination_of_metaphysics_through\.
-[^Heidegger1929]: @Heidegger_1929_What_is_metaphysics\.
 
 
 Monism and physicalism
