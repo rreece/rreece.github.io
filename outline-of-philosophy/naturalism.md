@@ -126,7 +126,7 @@ generally consists of varying degrees of either or both:
     if not the chief or perhaps (with a sufficiently broad definition)
     the only route to knowledge.
     *Science should be guiding in what we claim to know*.
-2.  ***ontological naturalism*** - has a variety of claims and interpretations,
+2.  ***metaphysical/ontological naturalism*** - has a variety of claims and interpretations,
     but they center on the premise that if we have any claim to what there is,
     it better be informed by and consistent with science.
     It often involves a skepticism of *a priori* metaphysics
@@ -461,24 +461,38 @@ Rejection of the supernatural
 Scientism
 --------------------------------------------------------------------------------
 
--   Usually a pejorative
-    -   Sorell [^Sorell1991]
-    -   TODO: find examples
--   Methodological naturalism
-    -   What are the limits of science?
-    -   Are there other ways of knowing?
--   Honorific reinterpretation
-    -   Rosenberg: *The Atheist's Guide to Reality* [^Rosenberg2011AGR]
-    -   Lawhead: "My Scientism" [^Lawhead20016]
--   Is there any unique project left for metaphysics?
-    -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
+### As a pejorative
+
+-   Sorell [^Sorell1991]
 -   *Science Unlimited? The Challenges of Scientism* [^Boudry2018]
+-   TODO: find examples
 
 [^Boudry2018]: @Boudry_2018_Science_Unlimited_The_Challenges_of_Scientism\.
-[^Lawhead20016]: @Lawhead_2016_My_Scientism\.
-[^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
-[^Rosenberg2011AGR]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
 [^Sorell1991]: @Sorell_1991_Scientism_Philosophy_and_the_Infatuation_with\.
+
+
+### Honorific reinterpretation
+
+-   Rosenberg: *The Atheist's Guide to Reality* [^Rosenberg2011AGR]
+-   Glymour, C. (2011). [Manifesto on positivism](https://web.archive.org/web/20190430005518/http://choiceandinference.com/2011/12/23/in-light-of-some-recent-discussion-over-at-new-apps-i-bring-you-clark-glymours-manifesto/)
+    -   Nelson Goodman: "There are two kinds of people in the world: the logical positivists and the god-damned English professors."
+    -   "Carnap was the grandfather of artificial intelligence: his students, Walter Pitts and Herbert Simon, were among the fathers."
+-   Lawhead: "My Scientism" [^Lawhead20016]
+
+[^Lawhead20016]: @Lawhead_2016_My_Scientism\.
+[^Rosenberg2011AGR]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
+
+
+### Other ways of knowing
+
+-   Methodological naturalism
+-   What are the limits of science?
+-   Are there other ways of knowing?
+-   See also: [Is there a universal scientific method?](file:///Users/reece/at-github/rreece.github.io/outline-of-philosophy/scientific-method.html#is-there-a-universal-scientific-method)
+-   Is there any unique project left for metaphysics?
+    -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
+
+[^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
 
 
 Moral naturalism

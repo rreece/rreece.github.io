@@ -91,9 +91,26 @@ Neuroscience
 Language
 --------------------------------------------------------------------------------
 
+### Origin of language
+
+-   [Origin of language](https://en.wikipedia.org/wiki/Origin_of_language)
 -   Sapir-Whorf hypothesis AKA [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity)
--   [Washoe the chimpanzee](https://en.wikipedia.org/wiki/Washoe_(chimpanzee))
+-   Hurlburt, R.T. (2011). [Not everyone conducts inner speech](https://www.psychologytoday.com/gb/blog/pristine-inner-experience/201110/not-everyone-conducts-inner-speech).
+-   Grzankowski, A. (2015). Not all attitudes are propositional. [^Grzankowski2015]
 -   McCarthy, C. (2017). [The Kekul&eacute; Problem](https://nautil.us/issue/47/consciousness/the-kekul-problem).
+    -   "the unconscious is a machine for operating an animal."
+
+[^Grzankowski2015]: @Grzankowski_2015_Not_all_attitudes_are_propositional\.
+
+
+### Animal cognition
+
+-   Davidson, D. (1982). Rational animals. [^Davidson1982]
+-   [Clever Hans](https://en.wikipedia.org/wiki/Clever_Hans)
+-   [Washoe the chimpanzee](https://en.wikipedia.org/wiki/Washoe_(chimpanzee))
+-   Pianalto, M. (2012). [Thoughts, propositions, and animals](http://mpianalto.blogspot.com/2012/07/thoughts-propositions-and-animals.html).
+
+[^Davidson1982]: @Davidson_1982_Rational_animals\.
 
 
 Free will

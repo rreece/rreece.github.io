@@ -41,7 +41,6 @@ Consequentialism
 -   Mill
 -   Game theory
 -   Binmore
-    -   *Natural Justice* [^Binmore2011]
 -   Portmore
     -   *Commonsense Consequentialism* [^Portmore2011]
 -   Effective Altruism
@@ -49,7 +48,6 @@ Consequentialism
     -   Toby Ord
     -   William MacAskill
 
-[^Binmore2011]: @Binmore_2011_Natural_Justice\.
 [^Portmore2011]: @Portmore_2011_Commonsense_Consequentialism\.
 
 
@@ -115,21 +113,10 @@ Moral realism
 Moral naturalism
 --------------------------------------------------------------------------------
 
--   Binmore
--   game theory
-    -   Heads-up poker solved [^Bowling2015]
-    -   [Condorcet's jury theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
--   evolution
-    -   de Waal [^deWaal1982]
-    -   evolution of trust
--   Putnam
-    -   *The Collapse of the Fact-value Dichotomy and Other Essays* [^Putnam2004]
--   Michael Shermer and Massimo Pigliucci debate the role of science deriving morality:
-    -   [vid](https://www.youtube.com/watch?v=4Qhlp-X3EHA)
-    -   [blog 1](http://rationallyspeaking.blogspot.com/2013/01/michael-shermer-on-morality.html)
-    -   [blog 2](http://rationallyspeaking.blogspot.com/2013/02/towards-science-of-morality-reply-to.html)
-    -   [blog 3](http://rationallyspeaking.blogspot.com/2013/02/toward-science-of-morality-annotated.html)
-    -   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
+### Evolution of morals
+
+-   de Waal [^deWaal1982]
+-   evolution of trust
 -   Patricia Churchland
 
 >   Our moral behavior, while more complex than the social behavior of other 
@@ -145,14 +132,47 @@ Moral naturalism
 >   distribution, and many other aspects of social life in all its vast
 >   richness. [^Churchland2011p7]
 
--   Video: Sisyphus55 (2020). [The Zen Neuroscientist: A guide to Sam Harris](https://www.youtube.com/watch?v=UaTE4ZxzLdA).
-    -   Ethical realism and naturalism
--   See also the [Outline on naturalism](naturalism.html#moral-naturalism).
+-   Michael Shermer and Massimo Pigliucci debate the role of science deriving morality:
+    -   [vid](https://www.youtube.com/watch?v=4Qhlp-X3EHA)
+    -   [blog 1](http://rationallyspeaking.blogspot.com/2013/01/michael-shermer-on-morality.html)
+    -   [blog 2](http://rationallyspeaking.blogspot.com/2013/02/towards-science-of-morality-reply-to.html)
+    -   [blog 3](http://rationallyspeaking.blogspot.com/2013/02/toward-science-of-morality-annotated.html)
+    -   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
 
-[^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 [^Churchland2011p7]: @Churchland_2011_What_Neuroscience_Tells_Us_About_Morality\.
 [^deWaal1982]: @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes\.
+
+
+### Game theory
+
+-   Binmore
+-   *Natural Justice* [^Binmore2011]
+-   Heads-up poker solved [^Bowling2015]
+-   [Condorcet's jury theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
+
+[^Binmore2011]: @Binmore_2011_Natural_Justice\.
+[^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 [^Putnam2004]: @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other\.
+
+
+### Science of morality
+
+-   Sam Harris
+    -   *The Moral Landscape: How science can determine human values* [^Harris2010]
+    -   Video: Sisyphus55 (2020). [The Zen Neuroscientist: A guide to Sam Harris](https://www.youtube.com/watch?v=UaTE4ZxzLdA).
+    -   Ethical realism and naturalism
+    -   Review: Atran, S. (2011). [Sam Harris's guide to nearly everything](https://nationalinterest.org/bookreview/sam-harriss-guide-nearly-everything-4893?nopaging=1).
+    -   Review: Blackford, R. (2011). [Sam Harris' *The Moral Landscape*](http://jetpress.org/v21/blackford3.htm).
+    -   Review: Orr, H.A. (2011). [The science of right and wrong](https://web.archive.org/web/20121025081501/http://www.nybooks.com/articles/archives/2011/may/12/science-right-and-wrong/?pagination=false).
+    -   Harris, S. (2011). [A response to critics](https://www.huffpost.com/entry/a-response-to-critics_b_815742).
+    -   Harris, S., Blackford, R., & Born, R. (2014). [The moral landscape challenge: The winning essay](https://samharris.org/the-moral-landscape-challenge/).
+-   Putnam
+    -   *The Collapse of the Fact-value Dichotomy and Other Essays* [^Putnam2004]
+-   economics
+    -   Don Ross?
+-   See also the [Outline on naturalism](naturalism.html#moral-naturalism).
+
+[^Harris2010]: @Harris_2010_The_Moral_Landscape_How_science_can_determine\.
 
 
 ### Criticism
