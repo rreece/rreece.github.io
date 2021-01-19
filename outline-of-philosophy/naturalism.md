@@ -37,6 +37,8 @@ TODO: Manifest image and scientific image - Sellars
 
 -   Sellars, W. (1963). "Philosophy and the scientific image of man" in @Sellars_1963_Science_Perception_and_Reality
 
+![Comic by [Abstruse Goose](https://abstrusegoose.com/275).](img/all_i_see_are_equations.png){#fig:all-i-see-are-equations .tallimg}
+
 Maddy defines naturalism:
 
 >   These days, as more and more philosophers count themselves as naturalists,
