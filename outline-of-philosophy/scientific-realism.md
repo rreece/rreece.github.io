@@ -891,6 +891,7 @@ TODO: find ref of above quote.
 -   In 1967 John Passmore reported that: "Logical positivism, then,
     is dead, or as dead as a philosophical movement ever becomes." [^Passmore1967]
 -   Ayer, A.J. 
+-   Whetsell & Shields. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 
 Ayer:
 
@@ -899,6 +900,7 @@ Ayer:
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
 [^Passmore1967]: @Passmore_1967_Logical_positivism and 
     @Creathe_2011_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Whetsell2013]: @Whetsell_2013_The_dynamics_of_positivism_in_the_study_of_public\.
 
 
 ### Realist turn
