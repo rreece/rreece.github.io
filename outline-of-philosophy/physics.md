@@ -731,6 +731,7 @@ Fine-tuning
 -   Anthropic principle
 -   Relationship to evolution
 -   [Richard Dawkins and Steven Weinberg discuss science and religion](https://www.youtube.com/watch?v=EGL8SesIo6Y)
+-   Meta-stability of the Higgs vaccuum in $m_t$ vs $m_H$
 
 
 Complexity and emergence
@@ -771,7 +772,7 @@ Bracketing human experience
 -   entailment, reductionism
 -   crossing symmetry in QFT
 -   Carroll, S. (2013). Talk: [Poetic Naturalism](https://www.youtube.com/watch?v=xv0mKsO2goA).
--   Carroll, S. (2014). Talk: [Has science refuted religion?](https://www.youtube.com/watch?v=40eiycH077A#t=402).
+-   Carroll, S. (2014). Talk: [Has science refuted religion?](https://www.youtube.com/watch?v=40eiycH077A#t=402)
     Acceptance speech for the FFRF's the emperor has no clothes award.
 -   Carroll, S. (2015). [Quantum field theory and the limits of knowledge](http://www.preposterousuniverse.com/blog/2015/04/21/quantum-field-theory-and-the-limits-of-knowledge/).
 -   Carroll, S. & Wallace, A. (2017). Talk: [The Nature of Reality: A Dialogue Between a Buddhist Scholar and a Theoretical Physicist](https://www.youtube.com/watch?v=pLbSlC0Pucw).

@@ -313,7 +313,7 @@ being a more much longer thread throughout the history of philosophy and science
 
 ![A version of the "distracted boyfriend meme" maligning  *a priori* metaphysics.](img/distracted-boyfriend-meme-intuitions-data.png){#fig:distracted-boyfriend-meme-intuitions-data}
 
-Quine:
+Quine in "Natural kinds":
 
 >   At this point let me say that I shall not be impressed by protests that I am
 >   using inductive generalizations, Darwin's and others, to justify induction,
@@ -350,7 +350,7 @@ Opening lines to *ETMG*:
 [^Hume2007p165]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 165.
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
-[^Quine1969pX]: @Quine_1969_Natural_kinds\, p. TODO.
+[^Quine1969pX]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, p. TODO.
 [^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21. (emphasis added)
 
 
@@ -420,7 +420,8 @@ Natural kinds
 Part of metaphysical naturalism.
 
 -   Plato: *Phaedrus* 265e
--   Quine, W.V.O. (1969). Natural kinds. [^Quine1969]
+-   Quine, W.V.O. (1969). Ontological relativity. [^Quine1969p26]
+-   Quine, W.V.O. (1969). Natural kinds. [^Quine1969p114]
 -   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
 
 Quine:
@@ -438,7 +439,8 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 
 ![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism), 2015).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
 
-[^Quine1969]: @Quine_1969_Natural_kinds\.
+[^Quine1969p26]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 26--68.
+[^Quine1969p114]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 114--138.
 [^Quine1981p474]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
     found in @Quine_1981_Theories_and_Things, p. 21.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
