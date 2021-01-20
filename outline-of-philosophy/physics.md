@@ -768,12 +768,14 @@ Anderson:
 Bracketing human experience
 --------------------------------------------------------------------------------
 
--   Entailment, Reductionism
--   [Sean Carroll's acceptance speech](https://www.youtube.com/watch?v=40eiycH077A#t=402)
-    for the FFRF's the emperor has no clothes award.
--   ["Quantum Field Theory and the Limits of Knowledge"](http://www.preposterousuniverse.com/blog/2015/04/21/quantum-field-theory-and-the-limits-of-knowledge/) - Sean Carroll
--   ["Poetic Naturalism"](https://www.youtube.com/watch?v=xv0mKsO2goA) - Sean Carroll
--   [The Nature of Reality: A Dialogue Between a Buddhist Scholar and a Theoretical Physicist -- Sean Carroll and Alan Wallace](https://www.youtube.com/watch?v=pLbSlC0Pucw)
+-   entailment, reductionism
+-   crossing symmetry in QFT
+-   Carroll, S. (2013). Talk: [Poetic Naturalism](https://www.youtube.com/watch?v=xv0mKsO2goA).
+-   Carroll, S. (2014). Talk: [Has science refuted religion?](https://www.youtube.com/watch?v=40eiycH077A#t=402).
+    Acceptance speech for the FFRF's the emperor has no clothes award.
+-   Carroll, S. (2015). [Quantum field theory and the limits of knowledge](http://www.preposterousuniverse.com/blog/2015/04/21/quantum-field-theory-and-the-limits-of-knowledge/).
+-   Carroll, S. & Wallace, A. (2017). Talk: [The Nature of Reality: A Dialogue Between a Buddhist Scholar and a Theoretical Physicist](https://www.youtube.com/watch?v=pLbSlC0Pucw).
+-   Carroll, S. (2021). [The quantum field theory on which the everyday world supervenes](https://philpapers.org/rec/CARTQF-5).
 
 ![Sean on the entailment of everyday life by physics.](img/sean-entailment.jpg)
 
