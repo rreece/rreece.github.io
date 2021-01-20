@@ -234,6 +234,7 @@ Sellars:
 ### Consilience
 
 -   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
+-   Convergence of evidence
 -   Unity of knowledge
 
 [^Wilson1998]: @Wilson_1998_Consilience\.
@@ -346,12 +347,14 @@ Opening lines to *ETMG*:
 >   objective truth, and should be discontinued. [^Ladyman2007pi]
 
 -   TODO: Maddy
+-   See also: [Natural kinds](#natural-kinds)
 
 [^Hume2007p165]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 165.
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
 [^Quine1969pX]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, p. TODO.
-[^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21. (emphasis added)
+[^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21 (emphasis added).
+    A similar quote can be found in @Quine_1981_Reply_to_Stroud, p. 474.
 
 
 Monism and physicalism
@@ -423,15 +426,6 @@ Part of metaphysical naturalism.
 -   Quine, W.V.O. (1969). Ontological relativity. [^Quine1969p26]
 -   Quine, W.V.O. (1969). Natural kinds. [^Quine1969p114]
 -   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
-
-Quine:
-
->   Yet people, sticks, stones, electrons, and molecules are real indeed, on my view,
->   and it is these and no dim proxies that science is all about. Now how is such
->   robust realism to be reconciled with what we have just been through? The answer
->   is naturalism: the recognition that it is within science itself, and not in
->   some prior philosophy, that reality is properly to be identified and
->   described.  [^Quine1981p474]
 
 See the [Outline on scientific realism](scientific-realism.html).
 
