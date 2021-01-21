@@ -615,11 +615,11 @@ Criticisms of naturalism
     -   <https://twitter.com/EpiEllie/status/1291744508376383488>
     -   <https://twitter.com/kareem_carr/status/1295765400236498949>
 -   The Trans Divide
-    -   Flaherty, C. (2019). [The Trans Divide](https://www.insidehighered.com/news/2019/07/19/divide-over-scholarly-debate-over-gender-identity-rages).
-    -   Bermudez, J.L. et al. (2019). [Philosophers Should Not Be Sanctioned Over Their Positions on Sex and Gender](https://www.insidehighered.com/views/2019/07/22/philosophers-should-not-be-sanctioned-their-positions-sex-and-gender-opinion).
-    -   Alcoff, L. et al. (2019). [On Philosophical Scholarship of Gender: A Response to "12 Leading Scholars"](https://blog.apaonline.org/2019/08/07/on-philosophical-scholarship-of-gender-a-response-to-12-leading-scholars/).
-    -   Bettcher, T.M. et al. (2021). [Open Letter Concerning Transphobia in Philosophy](https://sites.google.com/view/trans-phil-letter/).
-    -   Jacobson, D. et al. (2021). [Open Letter Concerning Academic Freedom](https://sites.google.com/view/open-letter-stock-freedom/).
+    -   Flaherty, C. (2019). [The trans divide](https://www.insidehighered.com/news/2019/07/19/divide-over-scholarly-debate-over-gender-identity-rages).
+    -   Bermudez, J.L. et al. (2019). [Philosophers should not be sanctioned over their positions on sex and gender](https://www.insidehighered.com/views/2019/07/22/philosophers-should-not-be-sanctioned-their-positions-sex-and-gender-opinion).
+    -   Alcoff, L. et al. (2019). [On philosophical scholarship of gender: A response to "12 Leading Scholars"](https://blog.apaonline.org/2019/08/07/on-philosophical-scholarship-of-gender-a-response-to-12-leading-scholars/).
+    -   Bettcher, T.M. et al. (2021). [Open letter concerning transphobia in philosophy](https://sites.google.com/view/trans-phil-letter/).
+    -   Jacobson, D. et al. (2021). [Open letter concerning academic freedom](https://sites.google.com/view/open-letter-stock-freedom/).
     -   Stock, K. (2021). [The sinister attempts to silence gender critical academics](https://www.spectator.co.uk/article/the-sinister-attempts-to-silence-gender-critical-academics).
     -   Stock, K. (2021). [I refuse to be bullied into silence](https://www.dailymail.co.uk/news/article-9155659/I-refuse-bullied-silence-PROFESSOR-KATHLEEN-STOCK.html).
 

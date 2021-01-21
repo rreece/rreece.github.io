@@ -558,6 +558,7 @@ Comte on the unknowability of the composition of stars:
 -   Gottlob Frege (1848-1925)
     -   Sense and reference (1892)
 -   Ludwig Wittgenstein (1889-1951)
+-   [The linguistic turn](https://en.wikipedia.org/wiki/Linguistic_turn)
 
 Wittgenstein studied with, was influenced by, and influenced:
 
@@ -609,7 +610,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 
 -   Vienna circle [^Murzi2004]
 -   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924 to 1936.
--   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Victor Kraft, Otto Neurath, Friedrich Waismann, and others.
+-   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Victor Kraft, Otto Neurath, Friedrich Waismann, Gustav Bergmann, and others.
 -   Ludwig Wittgenstein and Karl Popper corresponded with the circle but did not attend.
 -   "The scientific conception of the world" (1929) - The Vienna Circle's manifesto [^Hahn1973]
 -   Carnap: *The Logical Structure of the World* (1928) - (*Der Logische Aufbau der Welt*) [^Carnap1928]
@@ -841,7 +842,6 @@ Various reactions to positivism.
     in the [Outline on the scientific method](scientific-method.html).
 
 [^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
-    which also cites @Yablo_1998_Does_ontology_rest_on_a_mistake\.
 [^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
 [^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
 [^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
@@ -876,12 +876,16 @@ Various reactions to positivism.
     and late (*PI*) Wittgenstein. It is quite the about-face.
     -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
     -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
+-   Rorty
+    -   Wittgenstein, Heidegger, and the reification of language. [^Rorty1991]
 
 Wittgenstein in *PI*:
 
 >   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
 
 TODO: find ref of above quote.
+
+[^Rorty1991]: @Rorty_1991_Wittgenstein_Heidegger_and_the_reification\.
 
 
 ### The "death" of positivism
@@ -891,7 +895,7 @@ TODO: find ref of above quote.
 -   In 1967 John Passmore reported that: "Logical positivism, then,
     is dead, or as dead as a philosophical movement ever becomes." [^Passmore1967]
 -   Ayer, A.J. 
--   Whetsell & Shields. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
+-   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 
 Ayer:
 
@@ -1551,6 +1555,7 @@ Click to show links
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
 -   [Pragmatism](http://plato.stanford.edu/entries/pragmatism/)
 -   [Private language](https://plato.stanford.edu/entries/private-language/)
+-   [Propositions](https://plato.stanford.edu/entries/propositions/)
 -   [Quine, W.V. (1908-2000)](http://plato.stanford.edu/entries/quine/)
 -   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Realism](http://plato.stanford.edu/entries/realism/)
@@ -1671,6 +1676,7 @@ Click to show links
 -   [Laudan, Larry (b. 1941)](https://en.wikipedia.org/wiki/Larry_Laudan)
 -   [Lewis, David (1941-2001)](https://en.wikipedia.org/wiki/David_Lewis_(philosopher))
 -   [L&eacute;vi-Strauss, Claude (1908-2009)](https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss)
+-   [Linguistic turn](https://en.wikipedia.org/wiki/Linguistic_turn)
 -   [Logical positivism](http://en.wikipedia.org/wiki/Logical_positivism)
 -   [Mach, Ernst (1838-1916)](http://en.wikipedia.org/wiki/Ernst_Mach)
 -   [Map-territory relation](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)

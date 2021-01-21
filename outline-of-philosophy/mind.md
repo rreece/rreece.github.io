@@ -80,10 +80,22 @@ Panpsychism
 Neuroscience
 --------------------------------------------------------------------------------
 
--   Experimental neuroscience
-    -   Libet experiments
--   Computational neuroscience
-    -   Blue Brain Project
+### Theoretical neuroscience
+
+-   [Free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle), active inference
+-   Karl Friston
+
+
+### Experimental neuroscience
+
+-   TODO
+-   Libet experiments
+
+
+### Computational neuroscience
+
+-   Blue Brain Project
+-   Neuromorphic computing
 
 ![Kahn, Fritz. (1939). [What goes on in our heads when we see a car and say 'car'](https://www.amazon.com/Fritz-Kahn-Uta-Thilo-Debschitz/dp/3836548402).](img/fritz-kahn-what-happens-in-our-heads.jpg){#fig:fritz-kahn-what-happens-in-our-heads}
 
@@ -94,6 +106,7 @@ Language
 ### Origin of language
 
 -   [Origin of language](https://en.wikipedia.org/wiki/Origin_of_language)
+-   [Language of thought hypothesis](https://plato.stanford.edu/entries/language-thought/)
 -   Sapir-Whorf hypothesis AKA [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity)
 -   Hurlburt, R.T. (2011). [Not everyone conducts inner speech](https://www.psychologytoday.com/gb/blog/pristine-inner-experience/201110/not-everyone-conducts-inner-speech).
 -   Grzankowski, A. (2015). Not all attitudes are propositional. [^Grzankowski2015]
@@ -208,6 +221,7 @@ Click to show links
 -   [Fichte, Johann Gottlieb (1762-1814)](https://plato.stanford.edu/entries/johann-fichte/)
 -   [Frame Problem](http://plato.stanford.edu/entries/frame-problem/)
 -   [Functionalism](http://plato.stanford.edu/entries/functionalism/)
+-   [Language of thought hypothesis](https://plato.stanford.edu/entries/language-thought/)
 -   [Mental Causation](http://plato.stanford.edu/entries/mental-causation/)
 -   [Mental Representation](http://plato.stanford.edu/entries/mental-representation/)
 -   [Mind in Indian Buddhist Philosophy](http://plato.stanford.edu/entries/mind-indian-buddhism/)
