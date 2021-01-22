@@ -240,6 +240,14 @@ Sellars:
 [^Wilson1998]: @Wilson_1998_Consilience\.
 
 
+### Progress
+
+-   Does philosophy make any progress?
+-   Does science make any progress?
+-   Philosophy as a nursury for budding sciences.
+-   Callard, A. (2018). [How philosophy makes progress](https://dailynous.com/2018/05/27/how-philosophy-makes-progress-agnes-callard/).
+
+
 Rejection of *a priori* metaphysics
 --------------------------------------------------------------------------------
 
@@ -360,9 +368,11 @@ Opening lines to *ETMG*:
 Monism and physicalism
 --------------------------------------------------------------------------------
 
+### Introduction
+
 -   Parmenides
--   Materialism/physicalism/functionalism
--   Alyssa Ney
+-   Materialism, physicalism, functionalism
+-   Alyssa Ney on dualism, physicalism, neutral monism
 -   Part of methodological naturalism, but also a result of empirical confirmation.
 -   Limits on deviations in $\alpha_\mathrm{EM}$
 -   See the [Outline on Philosophy of mind](mind.html).
@@ -370,8 +380,15 @@ Monism and physicalism
 ![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
 
 
+### Criticism
+
+-   TODO
+
+
 Reductionism
 --------------------------------------------------------------------------------
+
+### Introduction
 
 Leibniz:
 
@@ -411,14 +428,20 @@ Alex Rosenberg is a mad dog against emergence. Video:
     TODO: Actually, I haven't found this yet.
     See also @Leibniz_1951_The_Art_of_Discovery, p. 51.
     Supposedly it is also in Russell's *A Critical Exposition of the Philosophy of Leibniz*.
-
 [^Morris2019]: @Morris_2019_Physicalism_Deconstructed_Levels_of_reality\.
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
 [^Wittgenstein1922L20201]:@Wittgenstein_1961_Tractatus_Logico_Philosophicus\, line 2.0201.
 
 
+### Criticism
+
+-   TODO
+
+
 Natural kinds
 --------------------------------------------------------------------------------
+
+### Introduction
 
 Part of metaphysical naturalism.
 
@@ -440,8 +463,16 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
 
+### Criticism
+
+-   TODO
+-   See also: [Nominalism](math.html#nominalism)
+
+
 Rejection of the supernatural
 --------------------------------------------------------------------------------
+
+### Introduction
 
 -   Part of methodological naturalism.
     -   Not an a priori assumption but an empirical conclusion
@@ -452,6 +483,11 @@ Rejection of the supernatural
 -   See also: [Atheism](human-condition.html#atheism)
 
 [^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.
+
+
+### Criticism
+
+-   TODO
 
 
 Scientism
@@ -639,7 +675,8 @@ Other worldviews
 -   Theology
 -   Evangelism
 -   Lots can be learned from other worldviews without 100% agreement.
-    -   Presocratics/Stoicism
+    -   Presocratics
+    -   Stoicism
     -   Buddhism
     -   Continental philosophy
     -   Existentialism
@@ -762,9 +799,11 @@ Click to show links
 -   [Naturalism](http://plato.stanford.edu/entries/naturalism/)
 -   [Naturalism in Legal Philosophy](http://plato.stanford.edu/entries/lawphil-naturalism/)
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
+-   [Neutral monism](https://plato.stanford.edu/entries/neutral-monism/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
 -   [Quine, W.V.O. (1908-2000)](http://plato.stanford.edu/entries/quine/)
 -   [Rationalism vs. empiricism](https://plato.stanford.edu/entries/rationalism-empiricism/)
+-   [Russellian monism](https://plato.stanford.edu/entries/russellian-monism/)
 -   [Social Construction, Naturalistic Approaches](https://plato.stanford.edu/entries/social-construction-naturalistic/)
 -   [Unity of Science](http://plato.stanford.edu/entries/scientific-unity/)
 

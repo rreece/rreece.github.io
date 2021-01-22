@@ -48,6 +48,14 @@ Dualism
 ![TODO](img/Descartes-mind-body.png){#fig:Descartes-mind-body}
 
 
+Idealism
+--------------------------------------------------------------------------------
+
+-   Berkeley
+-   Heidegger
+-   [Markus Gabriel equates German idealism with realism](https://www.youtube.com/watch?v=_TjK5sWvKJs) (3 mins)
+
+
 Physicalism
 --------------------------------------------------------------------------------
 

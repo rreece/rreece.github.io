@@ -764,6 +764,7 @@ People:
 -   Rorty and Putnam
 -   Willard Van Orman Quine (1908-2000)
 -   Daniel C. Dennett (b. 1942)
+-   Robert Brandom (b. 1950)
 
 
 Postmodernism
