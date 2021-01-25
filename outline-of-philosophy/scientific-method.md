@@ -329,7 +329,7 @@ Rationalism vs empiricism
 -   Lead to the Age of Enlightenment
     -   Kant: "Answering the question: What is Enlightenment?"
         -   *Sapere aude* ("Dare to be wise")
--   Development of calculus
+-   [Development of calculus](math.html#development-of-calculus)
 -   TODO: rationalism and empiricism in Asia.
 
 

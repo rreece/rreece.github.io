@@ -1580,6 +1580,7 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
     -   Greenblatt, S. (2011). *The Swerve*. [^Greenblatt2011]
     -   Greenblatt, S. (2011). The answer man. [^Greenblatt2011ny]
     -   No teleology
+-   See also: [Monism and physicalism](naturalism.html#monism-and-physicalism).
 
 [^Greenblatt2011]: @Greenblatt_2011_The_Swerve_How_the_World_Became_Modern\.
 [^Greenblatt2011ny]: @Greenblatt_2011_The_answer_man_An_ancient_poem_was_rediscovered\.
@@ -1638,17 +1639,9 @@ Maudlin:
 
 ### Religion as a natural phenomena
 
-Anthropology:
+_Anthropology_
 
 -   Xenophanes
--   Hume, D. (1757). *The Natural History of Religion*.
--   Dennett, D.C. (2006). *Breaking the Spell: Religion as a natural phenomenon*. [^Dennett2006]
-
-Psychology:
-
--   [Robert Sapolsky's lecture on the biological underpinnings of religiosity](https://www.youtube.com/watch?v=4WwAQqWUkpI)
--   [Atheist and Stanford biologist Robert Sapolsky explains how religious beliefs reduce stress](http://www.openculture.com/2017/11/atheist-stanford-biologist-robert-sapolsky-explains-how-religious-beliefs-reduce-stress.html)
--   [Jerusalem syndrome](https://en.wikipedia.org/wiki/Jerusalem_syndrome)
 
 Xenophanes:
 
@@ -1660,6 +1653,8 @@ Xenophanes:
 >   Thracians that theirs red-haired and with blue eyes;
 >   so also they conceive the spirits of the gods to be like themselves. [^XenophanesB16]
 
+-   Hume, D. (1757). *The Natural History of Religion*.
+
 Hume:
 
 >   Survey most nations and most ages. Examine the religious principles, which have,
@@ -1667,6 +1662,14 @@ Hume:
 >   any thing but sick men's dreams. Or perhaps will regard them more as the playsome
 >   whimsies of monkeys in human shape, than the serious, positive, dogmatical
 >   assertions of a being who dignifies himself with the name of rational. [^HumeNHRp184]
+
+-   Dennett, D.C. (2006). *Breaking the Spell: Religion as a natural phenomenon*. [^Dennett2006]
+
+_Psychology_
+
+-   [Robert Sapolsky's lecture on the biological underpinnings of religiosity](https://www.youtube.com/watch?v=4WwAQqWUkpI)
+-   [Atheist and Stanford biologist Robert Sapolsky explains how religious beliefs reduce stress](http://www.openculture.com/2017/11/atheist-stanford-biologist-robert-sapolsky-explains-how-religious-beliefs-reduce-stress.html)
+-   [Jerusalem syndrome](https://en.wikipedia.org/wiki/Jerusalem_syndrome)
 
 [^Dennett2006]: @Dennett_2006_Breaking_the_Spell_Religion_as_a_natural\.
 [^HumeNHRp184]: @Hume_2007_The_Natural_History_of_Religion\, p. 184.
