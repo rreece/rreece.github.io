@@ -57,11 +57,6 @@ Moral antirealism
 -   The previous three sections are about ethics; the next three are about
     meta-ethics.
 -   Cognitivism and non-cognitivism
-
-Thrasymachus in Plato's *Republic*:
-
->   Listen then, I say justice is nothing other than the advantage of the stronger. [^RepublicI338c]
-
 -   Emotivism
     -   Hume, A.J. Ayer
     -   Positivism
@@ -73,6 +68,22 @@ Thrasymachus in Plato's *Republic*:
             -   Argument from queerness
 -   Postmodernism
 
+Thrasymachus in Plato's *Republic*:
+
+>   Listen then, I say justice is nothing other than the advantage of the
+>   stronger. [^RepublicI338c]
+
+Hume:
+
+>   Morals and criticism are not so properly objects of the understanding as
+>   of taste and sentiment. Beauty, whether moral or natural, is felt, more
+>   properly than perceived. Or if we reason concerning it, and endeavour to
+>   fix its standard, we regard a new fact, to wit, the general taste of mankind,
+>   or some such fact, which may be the object of reasoning and
+>   enquiry. [^Hume2007p120morals]
+
+[^Hume2007p120morals]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
+    Section XII, p. 120.
 [^RepublicI338c]: Plato, *Republic I* 338c, @Cooper_1997_Plato_Complete_works\, p. 983.
 
 
@@ -187,6 +198,7 @@ Political philosophy
 -   Feudalism
 -   Mercantilism
 -   Capitalism/Liberalism
+    -   Hayek, F. (1945). The use of knowledge in society. [^Hayek1945]
 -   Marxism
 -   Socialism
     -   Video: [Ted Turner asks Carl Sagan if he is a socialist](https://www.youtube.com/watch?v=rDK2chgNPZM)
@@ -196,6 +208,7 @@ Political philosophy
 >   Every one of us has been warmed by fires we did not build.
 >   Every one of us has drank from wells we did not dig. [^Shields2020]
 
+[^Hayek1945]: @Hayek_1945_The_use_of_knowledge_in_society\.
 [^Shields2020]: Shields, M. (2020). [The last night of Mark Shields on the PBS News Hour](https://www.youtube.com/watch?v=a1MKG_3jC9g&ab_channel=PBSNewsHour).
 
 
@@ -271,6 +284,11 @@ Aesthetics
 
 -   TODO
 -   Semiotics
+
+
+### Taste
+
+-   Hume, D. (1757). [*Of the Standard of Taste*](https://courses.lumenlearning.com/suny-classicreadings/chapter/david-hume-on-opinion-and-taste/).
 
 
 
@@ -377,7 +395,8 @@ Click to show links
 -   [Game Theory and Ethics](http://plato.stanford.edu/entries/game-ethics/)
 -   [Grounds of Moral Status](http://plato.stanford.edu/entries/grounds-moral-status/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
--   [Hume's Moral Philosophy](http://plato.stanford.edu/entries/hume-moral/)
+-   [Hume's aesthetics](https://plato.stanford.edu/entries/hume-aesthetics/)
+-   [Hume's moral philosophy](http://plato.stanford.edu/entries/hume-moral/)
 -   [Identity politics](https://plato.stanford.edu/entries/identity-politics/)
 -   [Legal Positivism](http://plato.stanford.edu/entries/legal-positivism/)
 -   [Metaethics](http://plato.stanford.edu/entries/metaethics/)

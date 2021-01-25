@@ -255,13 +255,7 @@ Rejection of *a priori* metaphysics
 
 -   Descartes' non-natural method
 -   Locke on the rejection of innate ideas
--   Hume's fork
-
->   If we take in our hand any volume; of divinity or school metaphysics,
->   for instance; let us ask, _Does it contain any abstract reasoning concerning
->   quantity or number?_ No. _Does it contain any experimental reasoning
->   concerning matter of fact and existence?_ No. Commit it then to the flames:
->   for it can contain nothing but sophistry and illusion. [^Hume2007p165]
+-   Hume's fork, again. See: [Analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction).
 
 Kant in his *Prolegomena to Any Future Metaphysics*:
 
@@ -357,7 +351,6 @@ Opening lines to *ETMG*:
 -   TODO: Maddy
 -   See also: [Natural kinds](#natural-kinds)
 
-[^Hume2007p165]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 165.
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
 [^Quine1969pX]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, p. TODO.
@@ -485,6 +478,11 @@ Rejection of the supernatural
 [^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.
 
 
+### Miracles
+
+-   See also: [Atheism](human-condition.html#atheism).
+
+
 ### Criticism
 
 -   TODO
@@ -506,7 +504,7 @@ Scientism
 ### Honorific reinterpretation
 
 -   Rosenberg: *The Atheist's Guide to Reality* [^Rosenberg2011AGR]
--   Glymour, C. (2011). [Manifesto on positivism](https://web.archive.org/web/20190430005518/http://choiceandinference.com/2011/12/23/in-light-of-some-recent-discussion-over-at-new-apps-i-bring-you-clark-glymours-manifesto/)
+-   Glymour, C. (2011). [Manifesto on positivism](https://web.archive.org/web/20190430005518/http://choiceandinference.com/2011/12/23/in-light-of-some-recent-discussion-over-at-new-apps-i-bring-you-clark-glymours-manifesto/).
     -   Nelson Goodman: "There are two kinds of people in the world: the logical positivists and the god-damned English professors."
     -   "Carnap was the grandfather of artificial intelligence: his students, Walter Pitts and Herbert Simon, were among the fathers."
 -   Lawhead: "My Scientism" [^Lawhead20016]

@@ -21,6 +21,8 @@ Consciousness
 -   phenomenal vs access consciousness
 -   embodiment
 -   subconscious
+-   Hume
+    -   bundle theory: *A Treatise of Human Nature*, Book I.iv, section 6 
 -   Freud
 -   Jung
 -   Mach [^Mach1914]

@@ -330,7 +330,7 @@ Rationalism vs empiricism
     -   Kant: "Answering the question: What is Enlightenment?"
         -   *Sapere aude* ("Dare to be wise")
 -   Development of calculus
--   TODO: rationalism and empiricism in asia.
+-   TODO: rationalism and empiricism in Asia.
 
 
 ### Early empiricists
@@ -347,6 +347,8 @@ Rationalism vs empiricism
 -   Gottfried Wilhelm Leibniz (1646-1716)
     -   *New Essays on Human Understanding* (1765)
 
+![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig:mandik-2016-11-1-eyeballs}
+
 
 ### British empiricists
 
@@ -357,12 +359,26 @@ Rationalism vs empiricism
 -   David Hume (1711-1776)
     -   *An Enquiry Concerning Human Understanding* (1748)
 
-![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig:mandik-2016-11-1-eyeballs}
-
 >   [W]hatever I write, as soon as I discover it not to be true,
 >   my hand shall be the forwardest to throw it into the fire.
 
 TODO: find the above quote from Locke.
+
+Hume:
+
+>   [S]cepticism, when more moderate, may be understood in a very reasonable sense,
+>   and is a necessary preparative to the study of philosophy, by preserving a
+>   proper impartiality in our judgments, and weaning our mind from all those
+>   prejudices, which we may have imbibed from education or rash opinion.
+>   To begin with clear and self-evident principles, to advance by timorous and
+>   sure steps, to review frequently our conclusions, and examine accurately all
+>   their consequences; though by these means we shall make both a slow and a
+>   short progress in our systems; are the only methods, by which we can ever
+>   hope to reach truth, and attain a proper stability and certainty in our
+>   determinations. [^Hume2007p109]
+
+[^Hume2007p109]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
+    Section XII, pp. 109--110.
 
 
 ### Important synthesizers
@@ -392,6 +408,22 @@ Analytic/synthetic distinction
     -   *Critique of Pure Reason* (1781)
     -   TODO: 2x2 figure *a priori/a posteriori* vs analytic/synthetic.
     -   Are there synthetic a priori statements? Kant thinks so.
+-   Carnap
+    -   Empiricism semantics and ontology [^Carnap1950a]
+    -   internal vs external questions
+-   Kripe
+    -   Claims there are *a posteriori* necessary truths in *Naming and Necessity* (1980).
+-   Papineau
+    -   *Philosophical Devices* (2012) [^Papineau2012]
+
+Hume: 
+
+>   When we run over libraries, persuaded of these principles, what havoc must we make?
+>   If we take in our hand any volume; of divinity or school metaphysics,
+>   for instance; let us ask, _Does it contain any abstract reasoning concerning
+>   quantity or number?_ No. _Does it contain any experimental reasoning
+>   concerning matter of fact and existence?_ No. Commit it then to the flames:
+>   for it can contain nothing but sophistry and illusion. [^Hume2007p120flames]
 
 Kant in his *Critique of Pure Reason* (1781):
 
@@ -412,13 +444,9 @@ Kant in his *Critique of Pure Reason* (1781):
 >   thought in that concept at all and could not have been extracted from it
 >   by any dissection. [^Kant1996pB10]
 
--   Carnap
-    -   Empiricism semantics and ontology [^Carnap1950a]
-    -   internal vs external questions
--   Papineau
-    -   *Philosophical Devices* (2012) [^Papineau2012]
-
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
+[^Hume2007p120flames]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
+    Section XII, p. 120.
 [^Kant1996pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
 [^Papineau2012]: @Papineau_2012_Philosophical_Devices_Proofs_Probabilities\.
 

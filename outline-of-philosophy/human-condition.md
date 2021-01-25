@@ -1586,12 +1586,15 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 [^Lucretius1995]: @Lucretius_1995_On_the_Nature_of_Things_De_Rerum_Natura\.
 
 
+### Miracles
+
+-   Hume: Bailey, A. & O'Brien, D. (2014). *Hume's Critique of Religion: 'Sick Men's Dreams'*. [^Bailey2014]
+-   See also: [Rejection of the supernatural](naturalism.html#rejection-of-the-supernatural)
+
+[^Bailey2014]: @Bailey_2014_Humes_Critique_of_Religion_Sick_Mens_Dreams\.
+
+
 ### Epistemic humility
-
-Maudlin:
-
->   Seek the truth with an open mind. And it's worthwhile reflecting
->   what a truth-seeking enterprise looks like.
 
 Plato, *Apology*:
 
@@ -1610,11 +1613,42 @@ Plato, *Meno*:
 >   to find out what we do not know and that we must not look for
 >   it. [^Meno86c]
 
+Hume:
+
+>   There is a great difference between historical facts and speculative opinions;
+>   nor is the knowledge of the one propagated in the same manner with that of the
+>   other. An historical fact, while it passes by oral tradition from eye-witnesses
+>   and contemporaries, is disguised in every successive narration, and may at last
+>   retain but very small, if any, resemblance of the original truth, on which it
+>   was founded. The frail memories of men, their love of exaggeration, their
+>   supine carelessness; these principles, if not corrected by books and writing,
+>   soon pervert the account of historical events; where argument or reasoning has
+>   little or no place, nor can ever recal the truth, which has once escaped those
+>   narrations. [^HumeNHRpart1]
+
+Maudlin:
+
+>   Seek the truth with an open mind. And it's worthwhile reflecting
+>   what a truth-seeking enterprise looks like.
+
 [^Apology23b]: Plato, *Apology* 23b, @Cooper_1997_Plato_Complete_works\, p. 22.
+[^HumeNHRpart1]: @Hume_2007_The_Natural_History_of_Religion\, part 1, ([N 1.8, Bea 36](https://davidhume.org/texts/n/1)).
 [^Meno86c]: Plato, *Meno* 86c, @Cooper_1997_Plato_Complete_works\, p. 886.
 
 
 ### Religion as a natural phenomena
+
+Anthropology:
+
+-   Xenophanes
+-   Hume, D. (1757). *The Natural History of Religion*.
+-   Dennett, D.C. (2006). *Breaking the Spell: Religion as a natural phenomenon*. [^Dennett2006]
+
+Psychology:
+
+-   [Robert Sapolsky's lecture on the biological underpinnings of religiosity](https://www.youtube.com/watch?v=4WwAQqWUkpI)
+-   [Atheist and Stanford biologist Robert Sapolsky explains how religious beliefs reduce stress](http://www.openculture.com/2017/11/atheist-stanford-biologist-robert-sapolsky-explains-how-religious-beliefs-reduce-stress.html)
+-   [Jerusalem syndrome](https://en.wikipedia.org/wiki/Jerusalem_syndrome)
 
 Xenophanes:
 
@@ -1626,19 +1660,18 @@ Xenophanes:
 >   Thracians that theirs red-haired and with blue eyes;
 >   so also they conceive the spirits of the gods to be like themselves. [^XenophanesB16]
 
+Hume:
+
+>   Survey most nations and most ages. Examine the religious principles, which have,
+>   in fact, prevailed in the world. You will scarcely be persuaded, that they are
+>   any thing but sick men's dreams. Or perhaps will regard them more as the playsome
+>   whimsies of monkeys in human shape, than the serious, positive, dogmatical
+>   assertions of a being who dignifies himself with the name of rational. [^HumeNHRp184]
+
 [^Dennett2006]: @Dennett_2006_Breaking_the_Spell_Religion_as_a_natural\.
+[^HumeNHRp184]: @Hume_2007_The_Natural_History_of_Religion\, p. 184.
 [^XenophanesB15]: Xenophanes, *Fragment B15*, <https://iep.utm.edu/xenoph/>
 [^XenophanesB16]: Xenophanes, *Fragment B16*, <https://plato.stanford.edu/entries/xenophanes/>
-
-Anthropology:
-
--   *Breaking the Spell: Religion as a natural phenomenon* [^Dennett2006]
-
-Psychology:
-
--   [Robert Sapolsky's lecture on the biological underpinnings of religiosity](https://www.youtube.com/watch?v=4WwAQqWUkpI)
--   [Atheist and Stanford biologist Robert Sapolsky explains how religious beliefs reduce stress](http://www.openculture.com/2017/11/atheist-stanford-biologist-robert-sapolsky-explains-how-religious-beliefs-reduce-stress.html)
--   [Jerusalem syndrome](https://en.wikipedia.org/wiki/Jerusalem_syndrome)
 
 
 ### Costs of metaphysical confusion
@@ -1838,6 +1871,8 @@ Click to show links
 -   [Friendship](https://plato.stanford.edu/entries/friendship/)
 -   [Hedonism](https://plato.stanford.edu/entries/hedonism/)
 -   [Heidegger, Martin (1889-1976)](https://plato.stanford.edu/entries/heidegger/)
+-   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
+-   [Hume on religion](https://plato.stanford.edu/entries/hume-religion/)
 -   [Japanese Philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)
 -   [Japanese Confucian Philosophy](https://plato.stanford.edu/entries/japanese-confucian/)
 -   [Lucretius (c. 99-55 BCE)](https://plato.stanford.edu/entries/lucretius/)
