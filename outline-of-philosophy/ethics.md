@@ -205,11 +205,21 @@ Political philosophy
 -   Libertarianism
 -   Neoliberalism
 
+Shields:
+
 >   Every one of us has been warmed by fires we did not build.
 >   Every one of us has drank from wells we did not dig. [^Shields2020]
 
+Solzhenitsyn:
+
+>   If only there were evil people somewhere insidiously committing evil deeds,
+>   and it were necessary only to separate them from the rest of us and destroy
+>   them. But the line dividing good and evil cuts through the heart of every
+>   human being. And who is willing to destroy a piece of his own heart? [^SolzhenitsynGApart1ch4]
+
 [^Hayek1945]: @Hayek_1945_The_use_of_knowledge_in_society\.
 [^Shields2020]: Shields, M. (2020). [The last night of Mark Shields on the PBS News Hour](https://www.youtube.com/watch?v=a1MKG_3jC9g&ab_channel=PBSNewsHour).
+[^SolzhenitsynGApart1ch4]: Solzhenitsyn, A. *The Gulag Archipelago*, Part 1, Ch. 4.
 
 
 Free speech 

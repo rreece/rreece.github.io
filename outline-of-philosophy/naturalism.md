@@ -233,6 +233,8 @@ Sellars:
 
 ### Consilience
 
+-   William Whewell (1794-1866)
+    -   *Philosophy of the Inductive Sciences* (1840)
 -   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
 -   Convergence of evidence
 -   Unity of knowledge
@@ -649,6 +651,10 @@ Criticisms of naturalism
     -   <https://twitter.com/EpiEllie/status/1291744508376383488>
     -   <https://twitter.com/kareem_carr/status/1295765400236498949>
 -   The Trans Divide
+    -   Chappell, S.G. & Lawford-Smith, H. (2018). [Transgender: a dialogue](https://aeon.co/essays/transgender-identities-a-conversation-between-two-philosophers).
+    -   Lawford-Smith, H. & Marshall, R. (2019). [Thinking about climate change, global justice, and trans](https://www.3-16am.co.uk/articles/thinking-about-climate-change-global-justice-and-trans).
+        -   [Richard Marshall resigned](https://leiterreports.typepad.com/blog/2019/03/3am-magazines-radical-chic-motto-whatever-it-is-were-agianst-it-turns-out-to-be-bullocks.html)
+            from 3AM Magazine because they withdrew the above interview.
     -   Flaherty, C. (2019). [The trans divide](https://www.insidehighered.com/news/2019/07/19/divide-over-scholarly-debate-over-gender-identity-rages).
     -   Bermudez, J.L. et al. (2019). [Philosophers should not be sanctioned over their positions on sex and gender](https://www.insidehighered.com/views/2019/07/22/philosophers-should-not-be-sanctioned-their-positions-sex-and-gender-opinion).
     -   Alcoff, L. et al. (2019). [On philosophical scholarship of gender: A response to "12 Leading Scholars"](https://blog.apaonline.org/2019/08/07/on-philosophical-scholarship-of-gender-a-response-to-12-leading-scholars/).

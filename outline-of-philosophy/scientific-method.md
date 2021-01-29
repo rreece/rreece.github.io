@@ -513,6 +513,7 @@ Induction
 ### Problem of induction
 
 -   How do we infer universals from particulars?
+-   Fallacy: hasty generalization
 
 Sextus Empiricus:
 
@@ -569,9 +570,12 @@ Newton:
 >   hypothesis, until yet other phenomena make such propositions either more exact
 >   or liable to exceptions. [^NewtonpX]
 
--   Mill
+-   William Whewell (1794-1866)
+    -   *Philosophy of the Inductive Sciences* (1840)
+    -   Discussed in Aronson [^Aronson2007]
+-   John Stuart Mill (1806-1873)
     -   *A System of Logic* (1843) [^Mill1843]
--   Peirce
+-   Charles S. Peircea (1839-1914)
 
 Vickers:
 
@@ -656,6 +660,7 @@ Reichenbach:
 -   Sankey [^Sankey2008p79]
 -   Vickers, J.M. (2013). [Oxford Bibliography on Inductive Reasoning](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0171.xml).
 
+[^Aronson2007]: @Aronson_2007_Evidence_Based_Technical_Analysis\, p. 128.
 [^Aumann1976]: @Aumann_1976_Agreeing_to_disagree\.
 [^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
 [^Carnap1950b]: @Carnap_1950_Logical_Foundations_of_Probability\.

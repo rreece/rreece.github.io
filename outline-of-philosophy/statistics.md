@@ -1452,6 +1452,7 @@ Automation
 -   Autoencoders, latent variables
 -   Physical constratints in loss functions
 -   "The frontier of simulation-based inference" [^Cranmer2019]
+-   Howard, J.N. (2021). [Foundations of a fast, data-driven, machine-learned simulator](https://arxiv.org/abs/2101.08944).
 
 
 ### AutoScience
