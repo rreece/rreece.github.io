@@ -879,6 +879,7 @@ Various reactions to positivism.
     -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
 -   Rorty
     -   Wittgenstein, Heidegger, and the reification of language. [^Rorty1991]
+    -   "Obsession with this image of something deeply hidden"
 
 Wittgenstein in *PI*:
 
