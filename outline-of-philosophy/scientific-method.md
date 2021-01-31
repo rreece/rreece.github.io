@@ -346,6 +346,7 @@ Rationalism vs empiricism
 -   Baruch Spinoza (1632-1677)
 -   Gottfried Wilhelm Leibniz (1646-1716)
     -   *New Essays on Human Understanding* (1765)
+    -   necessary truths
 
 ![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig:mandik-2016-11-1-eyeballs}
 
@@ -355,6 +356,10 @@ Rationalism vs empiricism
 -   Robert Boyle (1627-1691)
 -   John Locke (1632-1704)
     -   corpuscules
+    -   *An Essay Concerning Human Understanding* (1689)
+    -   criticism of innate ideas
+    -   primary and secondary qualities
+    -   *tabula rasa* - "blank slate"
 -   George Berkeley (1685-1753)
 -   David Hume (1711-1776)
     -   *An Enquiry Concerning Human Understanding* (1748)
@@ -404,12 +409,13 @@ Analytic/synthetic distinction
 -   Locke
     -   *An Essay Concerning Human Understanding* (1689)
 -   Hume's fork
+    -   Dicker, G. (1991). Hume's fork revisited. [^Dicker1991]
 -   Kant
     -   *Critique of Pure Reason* (1781)
     -   TODO: 2x2 figure *a priori/a posteriori* vs analytic/synthetic.
     -   Are there synthetic a priori statements? Kant thinks so.
 -   Carnap
-    -   Empiricism semantics and ontology [^Carnap1950a]
+    -   Empiricism, semantics, and ontology [^Carnap1950a]
     -   internal vs external questions
 -   Kripe
     -   Claims there are *a posteriori* necessary truths in *Naming and Necessity* (1980).
@@ -445,6 +451,7 @@ Kant in his *Critique of Pure Reason* (1781):
 >   by any dissection. [^Kant1996pB10]
 
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
+[^Dicker1991]: @Dicker_1991_Humes_fork_revisited\.
 [^Hume2007p120flames]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
     Section XII, p. 120.
 [^Kant1996pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
@@ -550,15 +557,25 @@ Hume:
 -   Russell's inductive turkey
     -   TODO: find Russell ref
     -   Note discussion by French
--   Goodman: New riddle of induction (grue)
 -   Ayer
--   Hempel: Raven paradox
--   Reichenbach
 
+Dewey:
+
+>   The methods by which generalizations are arrived at have received the
+>   name "induction"; the methods by which already existing generalizations
+>   are employed have received the name "deduction." [^Dewey1938p419]
+
+[^Dewey1938p419]: @Dewey_1938_Logic_The_Theory_of_Inquiry\, p. 419.
 [^Hume2007p56]: First footnote in the essay "On Probability" in @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 56.
 [^Hume2007pXX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
 [^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
+
+
+### Challenges
+
+-   Goodman: New riddle of induction (grue)
+-   Hempel: [Raven paradox](https://en.wikipedia.org/wiki/Raven_paradox)
 
 
 ### Inductive logic
@@ -570,12 +587,46 @@ Newton:
 >   hypothesis, until yet other phenomena make such propositions either more exact
 >   or liable to exceptions. [^NewtonpX]
 
+-   Thomas Bayes (1701-1761)
+-   Richard Price (1723-1791)
 -   William Whewell (1794-1866)
     -   *Philosophy of the Inductive Sciences* (1840)
     -   Discussed in Aronson [^Aronson2007]
 -   John Stuart Mill (1806-1873)
     -   *A System of Logic* (1843) [^Mill1843]
--   Charles S. Peircea (1839-1914)
+-   Charles S. Peirce (1839-1914)
+
+Price knew the work of Bayes well. Concerning Bayes'
+"An Essay towards Solving a Problem in the Doctrine of Chances" (1763),
+    
+>   It was on this essay, and on an Appendix which Price himself authored,
+>   that Price drew in fashioning his critique of Hume's "Of Miracles".
+>   In *Four Dissertations*, Price gives a reference to Bayes' paper.
+>   But it is doubtful that Hume read the paper, and even if he had it
+>   is even more doubtful that Hume would have understood it because he
+>   was unfamiliar with the technical developments in the probability calculus.
+>   
+>   Is it then fair to use this apparatus as part of a critique of Hume's
+>   argument against miracles? My answer is an unqualified yes. In the
+>   Abstract to the *Treatise*, Hume endorses Leibniz's complaint that
+>   various authors, including Locke, are
+>   "too concise when they treat of probabilities, and those other measures
+>   of evidence on which life and action intirely depend, and which are our
+>   guides even in most of our philosophical speculations."
+>   The Abstract announces that
+>   "The author of the treatise of human nature seems to have been sensible
+>   of this defect in these philosophers, and has endeavoured, as much as
+>   he can, to supply it" (T 647).
+>   Of course, by "probabilities" Hume did not have in mind reasoning that
+>   proceeds by proving and applying theorems of the probability calculus.
+>   But ignorance of the apparatus is no excuse since, for example, before
+>   the end of the seventeenth century, there were published attempts to
+>   apply the probability calculus to some of the questions at issue in
+>   Hume's essay, such as the effect of multiple witnesses.
+>   A number of Hume's contemporaries, such as Price, understood Hume's
+>   claims as being about quantifiable degrees of belief or credibility,
+>   the quantification being subject to the constraints of the probability
+>   calculus. [^Earman2000p25]
 
 Vickers:
 
@@ -628,12 +679,6 @@ Peirce:
 >   self-correcting nature of the ampliative inference would enable us,
 >   even if they did exist, to detect and make allowance for them. [^Peirce1883p176]
 
-Dewey:
-
->   The methods by which generalizations are arrived at have received the
->   name "induction"; the methods by which already existing generalizations
->   are employed have received the name "deduction." [^Dewey1938p419]
-
 -   Reichenbach [^Reichenbach1938]
 
 Reichenbach:
@@ -667,7 +712,7 @@ Reichenbach:
 [^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
 [^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
-[^Dewey1938p419]: @Dewey_1938_Logic_The_Theory_of_Inquiry\, p. 419.
+[^Earman2000p25]: @Earman_2000_Humes_Abject_Failure_The_argument_against\, p. 25.
 [^Mill1843]: @Mill_1843_A_System_of_Logic\.
 [^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
 [^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and

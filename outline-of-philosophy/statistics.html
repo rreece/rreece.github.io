@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Fri Jan 29, 2021" />
+  <meta name="date" content="Sun Jan 31, 2021" />
   <title>Philosophy of statistics - Ryan&#8217;s Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#8217;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -285,21 +285,15 @@ D_\mathrm{KL}(p, q)
 <li>Likelihood</li>
 </ul>
 <p><span class="math display">\[ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} \]</span></p>
-<ul>
-<li>Cranmer</li>
-</ul>
+<p>Cranmer:</p>
 <blockquote>
 <p>Bayes&#8217;s theorem is a theorem, so there&#8217;s no debating it. It is not the case that Frequentists dispute whether Bayes&#8217;s theorem is true. The debate is whether the necessary probabilities exist in the first place. If one can define the joint probability <span class="math inline">\(P (A, B)\)</span> in a frequentist way, then a Frequentist is perfectly happy using Bayes theorem. Thus, the debate starts at the very definition of probability.<a href="#fn4" class="footnoteRef" id="fnref4"><sup>4</sup></a></p>
 </blockquote>
+<p>Neyman:</p>
+<blockquote>
+<p>Without hoping to know whether each separate hypothesis is true or false, we may search for rules to govern our behaviour with regard to them, in following which we insure that, in the long run of experience, we shall not be too often wrong.<a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a></p>
+</blockquote>
 <ul>
-<li>Carnap
-<ul>
-<li>&#8220;The two concepts of probability&#8221;<a href="#fn5" class="footnoteRef" id="fnref5"><sup>5</sup></a></li>
-</ul></li>
-<li>Royall
-<ul>
-<li>&#8220;What do these data say?&#8221;<a href="#fn6" class="footnoteRef" id="fnref6"><sup>6</sup></a></li>
-</ul></li>
 <li>We will return to the frequentist vs bayesian debate in the section on the <a href="#statistics-wars">&#8220;Statistics Wars&#8221;</a>.</li>
 </ul>
 <h2 id="foundations-of-statistics">Foundations of statistics</h2>
@@ -309,13 +303,13 @@ D_\mathrm{KL}(p, q)
 <li><a href="https://en.wikipedia.org/wiki/Jacob_Bernoulli">Bernoulli, Jacob</a> (1655-1705)
 <ul>
 <li><em>Ars Conjectandi</em> (1713, posthumous)</li>
-<li>First modern phrasing of the problem of parameter estimation<a href="#fn7" class="footnoteRef" id="fnref7"><sup>7</sup></a></li>
-<li>See Hacking<a href="#fn8" class="footnoteRef" id="fnref8"><sup>8</sup></a></li>
+<li>First modern phrasing of the problem of parameter estimation<a href="#fn6" class="footnoteRef" id="fnref6"><sup>6</sup></a></li>
+<li>See Hacking<a href="#fn7" class="footnoteRef" id="fnref7"><sup>7</sup></a></li>
 <li>Early vision of decision theory:</li>
 </ul></li>
 </ul>
 <blockquote>
-<p>The art of measuring, as precisely as possible, probabilities of things, with the goal that we would be able always to choose or follow in our judgments and actions that course, which will have been determined to be better, more satisfactory, safer or more advantageous.<a href="#fn9" class="footnoteRef" id="fnref9"><sup>9</sup></a></p>
+<p>The art of measuring, as precisely as possible, probabilities of things, with the goal that we would be able always to choose or follow in our judgments and actions that course, which will have been determined to be better, more satisfactory, safer or more advantageous.<a href="#fn8" class="footnoteRef" id="fnref8"><sup>8</sup></a></p>
 </blockquote>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Thomas_Bayes">Bayes, Thomas</a> (1701-1761)</li>
@@ -327,14 +321,14 @@ D_\mathrm{KL}(p, q)
 <li><a href="https://en.wikipedia.org/wiki/John_Stuart_Mill">Mill, John Stuart</a> (1806-1873)</li>
 <li><a href="https://en.wikipedia.org/wiki/John_Venn">Venn, John</a> (1834-1923)
 <ul>
-<li><em>The Logic of Chance</em> (1866)<a href="#fn10" class="footnoteRef" id="fnref10"><sup>10</sup></a></li>
+<li><em>The Logic of Chance</em> (1866)<a href="#fn9" class="footnoteRef" id="fnref9"><sup>9</sup></a></li>
 </ul></li>
 </ul>
 <h3 id="foundations-of-modern-statistics">Foundations of modern statistics</h3>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Charles_Sanders_Peirce">Peirce, Charles Sanders</a> (1839-1914)
 <ul>
-<li>Formulated modern statistics in &#8220;Illustrations of the Logic of Science&#8221;, a series published in <em>Popular Science Monthly</em> (1877-1878), and also &#8220;A Theory of Probable Inference&#8221; in <em>Studies in Logic</em> (1883).<a href="#fn11" class="footnoteRef" id="fnref11"><sup>11</sup></a></li>
+<li>Formulated modern statistics in &#8220;Illustrations of the Logic of Science&#8221;, a series published in <em>Popular Science Monthly</em> (1877-1878), and also &#8220;A Theory of Probable Inference&#8221; in <em>Studies in Logic</em> (1883).<a href="#fn10" class="footnoteRef" id="fnref10"><sup>10</sup></a></li>
 <li>With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).</li>
 </ul></li>
 <li><a href="https://en.wikipedia.org/wiki/Karl_Pearson">Pearson, Karl</a> (1857-1936)</li>
@@ -342,15 +336,15 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Fisher significance of the null hypothesis (<span class="math inline">\(p\)</span>-values)
 <ul>
-<li>On an absolute criterion for fitting frequency curves.<a href="#fn12" class="footnoteRef" id="fnref12"><sup>12</sup></a></li>
-<li>Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population.<a href="#fn13" class="footnoteRef" id="fnref13"><sup>13</sup></a></li>
-<li>On the &#8220;probable error&#8221; of a coefficient of correlation deduced from a small sample<a href="#fn14" class="footnoteRef" id="fnref14"><sup>14</sup></a> - definition of <em>likelihood</em></li>
-<li><em>The Lady Tasting Tea</em><a href="#fn15" class="footnoteRef" id="fnref15"><sup>15</sup></a></li>
+<li>On an absolute criterion for fitting frequency curves.<a href="#fn11" class="footnoteRef" id="fnref11"><sup>11</sup></a></li>
+<li>Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population.<a href="#fn12" class="footnoteRef" id="fnref12"><sup>12</sup></a></li>
+<li>On the &#8220;probable error&#8221; of a coefficient of correlation deduced from a small sample<a href="#fn13" class="footnoteRef" id="fnref13"><sup>13</sup></a> - definition of <em>likelihood</em></li>
+<li><em>The Lady Tasting Tea</em><a href="#fn14" class="footnoteRef" id="fnref14"><sup>14</sup></a></li>
 </ul></li>
 </ul></li>
 <li><a href="https://en.wikipedia.org/wiki/Jerzy_Neyman">Neyman, Jerzy</a> (1894-1981)
 <ul>
-<li>biography by Reid<a href="#fn16" class="footnoteRef" id="fnref16"><sup>16</sup></a></li>
+<li>biography by Reid<a href="#fn15" class="footnoteRef" id="fnref15"><sup>15</sup></a></li>
 </ul></li>
 <li><a href="https://en.wikipedia.org/wiki/Egon_Pearson">Pearson, Egon</a> (1895-1980)
 <ul>
@@ -364,14 +358,14 @@ D_\mathrm{KL}(p, q)
 </ul>
 <h3 id="pedagogy">Pedagogy</h3>
 <ul>
-<li>Kendall<a href="#fn17" class="footnoteRef" id="fnref17"><sup>17</sup></a></li>
-<li>James<a href="#fn18" class="footnoteRef" id="fnref18"><sup>18</sup></a></li>
-<li>Cousins<a href="#fn19" class="footnoteRef" id="fnref19"><sup>19</sup></a></li>
-<li>Cowan<a href="#fn20" class="footnoteRef" id="fnref20"><sup>20</sup></a></li>
-<li>Lista<a href="#fn21" class="footnoteRef" id="fnref21"><sup>21</sup></a></li>
-<li>Cranmer<a href="#fn22" class="footnoteRef" id="fnref22"><sup>22</sup></a></li>
+<li>Kendall<a href="#fn16" class="footnoteRef" id="fnref16"><sup>16</sup></a></li>
+<li>James<a href="#fn17" class="footnoteRef" id="fnref17"><sup>17</sup></a></li>
+<li>Cousins<a href="#fn18" class="footnoteRef" id="fnref18"><sup>18</sup></a></li>
+<li>Cowan<a href="#fn19" class="footnoteRef" id="fnref19"><sup>19</sup></a></li>
+<li>Lista<a href="#fn20" class="footnoteRef" id="fnref20"><sup>20</sup></a></li>
+<li>Cranmer<a href="#fn21" class="footnoteRef" id="fnref21"><sup>21</sup></a></li>
 <li>Cranmer, K. (2020). <a href="https://cranmer.github.io/stats-ds-book/intro.html">Statistics and Data Science</a>.</li>
-<li>Weisberg<a href="#fn23" class="footnoteRef" id="fnref23"><sup>23</sup></a></li>
+<li>Weisberg<a href="#fn22" class="footnoteRef" id="fnref22"><sup>22</sup></a></li>
 </ul>
 <h2 id="statistical-models">Statistical models</h2>
 <h3 id="parametric-models">Parametric models</h3>
@@ -408,7 +402,7 @@ D_\mathrm{KL}(p, q)
 </ul>
 <div class="figure">
 <img src="img/Leemis-univariate-distribution-relationships.png" alt="Figure 2: Detail of a figure showing relationships among univariate distributions. See the full figure here." id="fig:Leemis-univariate-distribution-relationships" />
-<p class="caption">Figure 2: Detail of a figure showing relationships among univariate distributions. See the <a href="http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf">full figure here</a>.<a href="#fn24" class="footnoteRef" id="fnref24"><sup>24</sup></a></p>
+<p class="caption">Figure 2: Detail of a figure showing relationships among univariate distributions. See the <a href="http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf">full figure here</a>.<a href="#fn23" class="footnoteRef" id="fnref23"><sup>23</sup></a></p>
 </div>
 <h3 id="mixture-models">Mixture models</h3>
 <ul>
@@ -416,7 +410,7 @@ D_\mathrm{KL}(p, q)
 <li>Marked poisson
 <ul>
 <li><a href="https://scikit-hep.org/pyhf/intro.html">pyhf model description</a></li>
-<li>HistFactory<a href="#fn25" class="footnoteRef" id="fnref25"><sup>25</sup></a></li>
+<li>HistFactory<a href="#fn24" class="footnoteRef" id="fnref24"><sup>24</sup></a></li>
 </ul></li>
 </ul>
 <h2 id="point-estimation-and-confidence-intervals">Point estimation and confidence intervals</h2>
@@ -426,7 +420,7 @@ D_\mathrm{KL}(p, q)
 <li>estimators</li>
 <li>regression
 <ul>
-<li>Accuracy vs precision<a href="#fn26" class="footnoteRef" id="fnref26"><sup>26</sup></a></li>
+<li>Accuracy vs precision<a href="#fn25" class="footnoteRef" id="fnref25"><sup>25</sup></a></li>
 </ul></li>
 <li>classification
 <ul>
@@ -461,7 +455,7 @@ D_\mathrm{KL}(p, q)
 <li>Note the new deep learning view. See <a href="#deep-learning">Deep learning</a>.</li>
 </ul>
 <h3 id="maximum-likelihood-estimation">Maximum likelihood estimation</h3>
-<p>A maximum likelihood estimator (MLE) was first used by Fisher.<a href="#fn27" class="footnoteRef" id="fnref27"><sup>27</sup></a></p>
+<p>A maximum likelihood estimator (MLE) was first used by Fisher.<a href="#fn26" class="footnoteRef" id="fnref26"><sup>26</sup></a></p>
 <p><span class="math display">\[\hat{\theta} \equiv \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: L(\theta) \label{eq:mle} \]</span></p>
 <p>Maximizing <span class="math inline">\(\mathrm{log} \: L(\theta)\)</span> is equivalent to maximizing <span class="math inline">\(L(\theta)\)</span>, and the former is more convenient because for data that are independent and identically distributed (<em>i.i.d.</em>) the joint likelihood can be factored into a product of individual measurements:</p>
 <p><span class="math display">\[ L(\theta) = \prod_i L(\theta|x_i) = \prod_i P(x_i|\theta) \]</span></p>
@@ -483,10 +477,10 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Wald approximation</li>
 </ul></li>
-<li>Cram&#233;r-Rao bound<a href="#fn28" class="footnoteRef" id="fnref28"><sup>28</sup></a>
+<li>Cram&#233;r-Rao bound<a href="#fn27" class="footnoteRef" id="fnref27"><sup>27</sup></a>
 <ul>
 <li>for unbiased and efficient estimators</li>
-<li>proof in Rice<a href="#fn29" class="footnoteRef" id="fnref29"><sup>29</sup></a></li>
+<li>proof in Rice<a href="#fn28" class="footnoteRef" id="fnref28"><sup>28</sup></a></li>
 </ul></li>
 <li>Variance of MLEs by the method of <span class="math inline">\(\Delta\chi^2\)</span> or <span class="math inline">\(\Delta{}L\)</span>
 <ul>
@@ -495,9 +489,9 @@ D_\mathrm{KL}(p, q)
 <li>Uncertainty of measuring an efficiency
 <ul>
 <li>Normal/Gaussian/Wald interval</li>
-<li>Clopper-Pearson interval<a href="#fn30" class="footnoteRef" id="fnref30"><sup>30</sup></a></li>
-<li><a href="https://en.wikipedia.org/wiki/Rule_of_three_(statistics)">Rule of three</a><a href="#fn31" class="footnoteRef" id="fnref31"><sup>31</sup></a></li>
-<li>Review by Brown, Cai, &amp; DasGupta<a href="#fn32" class="footnoteRef" id="fnref32"><sup>32</sup></a></li>
+<li>Clopper-Pearson interval<a href="#fn29" class="footnoteRef" id="fnref29"><sup>29</sup></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rule_of_three_(statistics)">Rule of three</a><a href="#fn30" class="footnoteRef" id="fnref30"><sup>30</sup></a></li>
+<li>Review by Brown, Cai, &amp; DasGupta<a href="#fn31" class="footnoteRef" id="fnref31"><sup>31</sup></a></li>
 <li>Precision vs recall for classification, again</li>
 <li>Classification and logistic regression</li>
 </ul></li>
@@ -528,14 +522,14 @@ D_\mathrm{KL}(p, q)
 </ul>
 <p>Fisher:</p>
 <blockquote>
-<p>[T]he null hypothesis is never proved or established, but is possibly disproved, in the course of experimentation.<a href="#fn33" class="footnoteRef" id="fnref33"><sup>33</sup></a></p>
+<p>[T]he null hypothesis is never proved or established, but is possibly disproved, in the course of experimentation.<a href="#fn32" class="footnoteRef" id="fnref32"><sup>32</sup></a></p>
 </blockquote>
 <h3 id="neyman-pearson-theory">Neyman-Pearson theory</h3>
 <ul>
-<li>probes an alternative hypothesis<a href="#fn34" class="footnoteRef" id="fnref34"><sup>34</sup></a></li>
+<li>probes an alternative hypothesis<a href="#fn33" class="footnoteRef" id="fnref33"><sup>33</sup></a></li>
 <li>Type-1 and type-2 errors</li>
 <li>Power and confidence</li>
-<li>Neyman-Pearson lemma<a href="#fn35" class="footnoteRef" id="fnref35"><sup>35</sup></a></li>
+<li>Neyman-Pearson lemma<a href="#fn34" class="footnoteRef" id="fnref34"><sup>34</sup></a></li>
 <li>Neyman construction</li>
 </ul>
 <p>Neyman-Pearson test statistic:</p>
@@ -548,10 +542,10 @@ D_\mathrm{KL}(p, q)
 </div>
 <h3 id="p-values-and-significance"><span class="math inline">\(p\)</span>-values and significance</h3>
 <ul>
-<li><span class="math inline">\(p\)</span>-values and significance<a href="#fn36" class="footnoteRef" id="fnref36"><sup>36</sup></a></li>
+<li><span class="math inline">\(p\)</span>-values and significance<a href="#fn35" class="footnoteRef" id="fnref35"><sup>35</sup></a></li>
 <li>Coverage</li>
 <li>Fisherian vs Neyman-Pearson <span class="math inline">\(p\)</span>-values</li>
-<li>Flip-flopping and Feldman-Cousins confidence intervals<a href="#fn37" class="footnoteRef" id="fnref37"><sup>37</sup></a></li>
+<li>Flip-flopping and Feldman-Cousins confidence intervals<a href="#fn36" class="footnoteRef" id="fnref36"><sup>36</sup></a></li>
 </ul>
 <h3 id="students-t-test">Student&#8217;s <span class="math inline">\(t\)</span>-test</h3>
 <ul>
@@ -561,20 +555,20 @@ D_\mathrm{KL}(p, q)
 <h3 id="cls-method">CLs method</h3>
 <ul>
 <li>Conservative coverage; used in particle physics</li>
-<li>Junk<a href="#fn38" class="footnoteRef" id="fnref38"><sup>38</sup></a></li>
-<li>Read<a href="#fn39" class="footnoteRef" id="fnref39"><sup>39</sup></a></li>
-<li>ATLAS<a href="#fn40" class="footnoteRef" id="fnref40"><sup>40</sup></a></li>
+<li>Junk<a href="#fn37" class="footnoteRef" id="fnref37"><sup>37</sup></a></li>
+<li>Read<a href="#fn38" class="footnoteRef" id="fnref38"><sup>38</sup></a></li>
+<li>ATLAS<a href="#fn39" class="footnoteRef" id="fnref39"><sup>39</sup></a></li>
 </ul>
 <h3 id="asymptotics">Asymptotics</h3>
 <ul>
-<li>Wilks<a href="#fn41" class="footnoteRef" id="fnref41"><sup>41</sup></a></li>
+<li>Wilks<a href="#fn40" class="footnoteRef" id="fnref40"><sup>40</sup></a></li>
 <li>Pearson <span class="math inline">\(\chi^2\)</span>-test</li>
-<li>Wald<a href="#fn42" class="footnoteRef" id="fnref42"><sup>42</sup></a></li>
-<li>Cowan <em>et al</em>.<a href="#fn43" class="footnoteRef" id="fnref43"><sup>43</sup></a></li>
+<li>Wald<a href="#fn41" class="footnoteRef" id="fnref41"><sup>41</sup></a></li>
+<li>Cowan <em>et al</em>.<a href="#fn42" class="footnoteRef" id="fnref42"><sup>42</sup></a></li>
 </ul>
 <h3 id="frequentist-vs-bayesian-decision-theory">Frequentist vs bayesian decision theory</h3>
 <ul>
-<li>Frequentist vs bayesian decision theory<a href="#fn44" class="footnoteRef" id="fnref44"><sup>44</sup></a></li>
+<li>Frequentist vs bayesian decision theory<a href="#fn43" class="footnoteRef" id="fnref43"><sup>43</sup></a></li>
 </ul>
 <h3 id="examples">Examples</h3>
 <ul>
@@ -589,9 +583,9 @@ D_\mathrm{KL}(p, q)
 <h2 id="uncertainty-quantification">Uncertainty quantification</h2>
 <h3 id="sinervo-classification-of-systematic-uncertainties">Sinervo classification of systematic uncertainties</h3>
 <ul>
-<li>Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekka Sinervo (PhyStat2003)<a href="#fn45" class="footnoteRef" id="fnref45"><sup>45</sup></a></li>
+<li>Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekka Sinervo (PhyStat2003)<a href="#fn44" class="footnoteRef" id="fnref44"><sup>44</sup></a></li>
 <li>Not to be confused with type-1 and type-2 errors in Neyman-Pearson theory</li>
-<li>Caldeira &amp; Nord<a href="#fn46" class="footnoteRef" id="fnref46"><sup>46</sup></a></li>
+<li>Caldeira &amp; Nord<a href="#fn45" class="footnoteRef" id="fnref45"><sup>45</sup></a></li>
 </ul>
 <div class="figure">
 <img src="img/systematic-uncertainties-sinervo.png" alt="Figure 4: Classification of measurement uncertainties (philosophy-in-figures.tumblr.com, 2016)." id="fig:systematic-uncertainties-sinervo" />
@@ -629,7 +623,7 @@ D_\mathrm{KL}(p, q)
 <li><a href="https://en.wikipedia.org/wiki/John_Tukey">Tukey, John (1915-2000)</a>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Exploratory_data_analysis">Exploratory data analysis</a></li>
-<li><em>Exploratory Data Analysis</em> (1977)<a href="#fn47" class="footnoteRef" id="fnref47"><sup>47</sup></a></li>
+<li><em>Exploratory Data Analysis</em> (1977)<a href="#fn46" class="footnoteRef" id="fnref46"><sup>46</sup></a></li>
 </ul></li>
 </ul>
 <h3 id="look-elsewhere-effect">Look-elsewhere effect</h3>
@@ -655,37 +649,45 @@ D_\mathrm{KL}(p, q)
 <h2 id="statistics-wars">&#8220;Statistics Wars&#8221;</h2>
 <h3 id="introduction-1">Introduction</h3>
 <ul>
-<li>TODO</li>
+<li>Kruschke</li>
+<li>Carnap
+<ul>
+<li>&#8220;The two concepts of probability&#8221;<a href="#fn47" class="footnoteRef" id="fnref47"><sup>47</sup></a></li>
+</ul></li>
+<li>Royall
+<ul>
+<li>&#8220;What do these data say?&#8221;<a href="#fn48" class="footnoteRef" id="fnref48"><sup>48</sup></a></li>
+</ul></li>
 </ul>
 <div class="figure">
 <img src="img/Kruschke-bayes-freq-grid.png" alt="Figure 6: From Kruschke." id="fig:Kruschke-bayes-freq-grid" />
-<p class="caption">Figure 6: From Kruschke.<a href="#fn48" class="footnoteRef" id="fnref48"><sup>48</sup></a></p>
+<p class="caption">Figure 6: From Kruschke.<a href="#fn49" class="footnoteRef" id="fnref49"><sup>49</sup></a></p>
 </div>
 <h3 id="likelihood-principle">Likelihood principle</h3>
 <ul>
 <li><a href="http://en.wikipedia.org/wiki/Likelihood_principle">Likelihood principle</a></li>
 <li>The likelihood principle is the proposition that, given a statistical model and a data sample, all the evidence relevant to model parameters is contained in the likelihood function.</li>
-<li>The history of likelihood<a href="#fn49" class="footnoteRef" id="fnref49"><sup>49</sup></a>
+<li>The history of likelihood<a href="#fn50" class="footnoteRef" id="fnref50"><sup>50</sup></a>
 <ul>
-<li>Allan Birnbaum proved that the likelihood principle follows from two more primitive and seemingly reasonable principles, the <a href="https://en.wikipedia.org/wiki/Conditionality_principle">conditionality principle</a> and the <a href="https://en.wikipedia.org/wiki/Sufficient_statistic">sufficiency principle</a>.<a href="#fn50" class="footnoteRef" id="fnref50"><sup>50</sup></a></li>
-<li>Hacking identified the &#8220;law of likelihood&#8221;.<a href="#fn51" class="footnoteRef" id="fnref51"><sup>51</sup></a></li>
+<li>Allan Birnbaum proved that the likelihood principle follows from two more primitive and seemingly reasonable principles, the <a href="https://en.wikipedia.org/wiki/Conditionality_principle">conditionality principle</a> and the <a href="https://en.wikipedia.org/wiki/Sufficient_statistic">sufficiency principle</a>.<a href="#fn51" class="footnoteRef" id="fnref51"><sup>51</sup></a></li>
+<li>Hacking identified the &#8220;law of likelihood&#8221;.<a href="#fn52" class="footnoteRef" id="fnref52"><sup>52</sup></a></li>
 </ul></li>
-<li>Berger &amp; Wolpert. (1988). <em>The Likelihood Principle</em><a href="#fn52" class="footnoteRef" id="fnref52"><sup>52</sup></a></li>
+<li>Berger &amp; Wolpert. (1988). <em>The Likelihood Principle</em><a href="#fn53" class="footnoteRef" id="fnref53"><sup>53</sup></a></li>
 </ul>
 <p>O&#8217;Hagan:</p>
 <blockquote>
-<p>The first key argument in favour of the Bayesian approach can be called the axiomatic argument. We can formulate systems of axioms of good inference, and under some persuasive axiom systems it can be proved that Bayesian inference is a consequence of adopting any of these systems&#8230; If one adopts two principles known as ancillarity and sufficiency principles, then under some statement of these principles it follows that one must adopt another known as the likelihood principle. Bayesian inference conforms to the likelihood principle whereas classical inference does not. Classical procedures regularly violate the likelihood principle or one or more of the other axioms of good inference. There are no such arguments in favour of classical inference.<a href="#fn53" class="footnoteRef" id="fnref53"><sup>53</sup></a></p>
+<p>The first key argument in favour of the Bayesian approach can be called the axiomatic argument. We can formulate systems of axioms of good inference, and under some persuasive axiom systems it can be proved that Bayesian inference is a consequence of adopting any of these systems&#8230; If one adopts two principles known as ancillarity and sufficiency principles, then under some statement of these principles it follows that one must adopt another known as the likelihood principle. Bayesian inference conforms to the likelihood principle whereas classical inference does not. Classical procedures regularly violate the likelihood principle or one or more of the other axioms of good inference. There are no such arguments in favour of classical inference.<a href="#fn54" class="footnoteRef" id="fnref54"><sup>54</sup></a></p>
 </blockquote>
 <ul>
 <li>Criticisms:
 <ul>
-<li>Evans<a href="#fn54" class="footnoteRef" id="fnref54"><sup>54</sup></a></li>
-<li>Mayo<a href="#fn55" class="footnoteRef" id="fnref55"><sup>55</sup></a></li>
-<li>Mayo: <a href="https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/">The law of likelihood and error statistics</a><a href="#fn56" class="footnoteRef" id="fnref56"><sup>56</sup></a></li>
+<li>Evans<a href="#fn55" class="footnoteRef" id="fnref55"><sup>55</sup></a></li>
+<li>Mayo<a href="#fn56" class="footnoteRef" id="fnref56"><sup>56</sup></a></li>
+<li>Mayo: <a href="https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/">The law of likelihood and error statistics</a><a href="#fn57" class="footnoteRef" id="fnref57"><sup>57</sup></a></li>
 </ul></li>
 <li>Gandenberger
 <ul>
-<li>&#8220;A new proof of the likelihood principle&#8221;<a href="#fn57" class="footnoteRef" id="fnref57"><sup>57</sup></a></li>
+<li>&#8220;A new proof of the likelihood principle&#8221;<a href="#fn58" class="footnoteRef" id="fnref58"><sup>58</sup></a></li>
 <li>Thesis: <a href="http://d-scholarship.pitt.edu/24634/"><em>Two Principles of Evidence and Their Implications for the Philosophy of Scientific Method</em></a> (2015)</li>
 <li><a href="http://gandenberger.org/research/">gandenberger.org/research</a></li>
 <li><a href="http://gandenberger.org/2014/04/28/do-frequentist-methods-violate-lp/">Do frequentist methods violate the likelihood principle?</a></li>
@@ -694,42 +696,42 @@ D_\mathrm{KL}(p, q)
 </ul>
 <p>Mayo:</p>
 <blockquote>
-<p>Likelihoods are vital to all statistical accounts, but they are often misunderstood because the data are fixed and the hypothesis varies. Likelihoods of hypotheses should not be confused with their probabilities. &#8230; [T]he same phenomenon may be perfectly predicted or explained by two rival theories; so both theories are equally likely on the data, even though they cannot both be true.<a href="#fn58" class="footnoteRef" id="fnref58"><sup>58</sup></a></p>
+<p>Likelihoods are vital to all statistical accounts, but they are often misunderstood because the data are fixed and the hypothesis varies. Likelihoods of hypotheses should not be confused with their probabilities. &#8230; [T]he same phenomenon may be perfectly predicted or explained by two rival theories; so both theories are equally likely on the data, even though they cannot both be true.<a href="#fn59" class="footnoteRef" id="fnref59"><sup>59</sup></a></p>
 </blockquote>
 <h3 id="discussion">Discussion</h3>
 <ul>
 <li>Carnap
 <ul>
-<li>Sznajder on the alleged evolution of Carnap&#8217;s views of inductive logic<a href="#fn59" class="footnoteRef" id="fnref59"><sup>59</sup></a></li>
+<li>Sznajder on the alleged evolution of Carnap&#8217;s views of inductive logic<a href="#fn60" class="footnoteRef" id="fnref60"><sup>60</sup></a></li>
 </ul></li>
 <li>David Cox</li>
 <li>Ian Hacking
 <ul>
-<li><em>Logic of Statistical Inference</em><a href="#fn60" class="footnoteRef" id="fnref60"><sup>60</sup></a></li>
+<li><em>Logic of Statistical Inference</em><a href="#fn61" class="footnoteRef" id="fnref61"><sup>61</sup></a></li>
 </ul></li>
 <li>Neyman
 <ul>
-<li>&#8220;Frequentist probability and frequentist statistics&#8221;<a href="#fn61" class="footnoteRef" id="fnref61"><sup>61</sup></a></li>
+<li>&#8220;Frequentist probability and frequentist statistics&#8221;<a href="#fn62" class="footnoteRef" id="fnref62"><sup>62</sup></a></li>
 </ul></li>
 <li>Zech
 <ul>
-<li>&#8220;Comparing statistical data to Monte Carlo simulation&#8221;<a href="#fn62" class="footnoteRef" id="fnref62"><sup>62</sup></a></li>
+<li>&#8220;Comparing statistical data to Monte Carlo simulation&#8221;<a href="#fn63" class="footnoteRef" id="fnref63"><sup>63</sup></a></li>
 </ul></li>
 <li>Richard Royall
 <ul>
-<li><em>Statistical Evidence: A likelihood paradigm</em><a href="#fn63" class="footnoteRef" id="fnref63"><sup>63</sup></a></li>
+<li><em>Statistical Evidence: A likelihood paradigm</em><a href="#fn64" class="footnoteRef" id="fnref64"><sup>64</sup></a></li>
 </ul></li>
 <li>Jim Berger
 <ul>
-<li>&#8220;Could Fisher, Jeffreys, and Neyman have agreed on testing?&#8221;<a href="#fn64" class="footnoteRef" id="fnref64"><sup>64</sup></a></li>
+<li>&#8220;Could Fisher, Jeffreys, and Neyman have agreed on testing?&#8221;<a href="#fn65" class="footnoteRef" id="fnref65"><sup>65</sup></a></li>
 </ul></li>
 <li>Deborah Mayo
 <ul>
-<li>&#8220;In defense of the Neyman-Pearson theory of confidence intervals&#8221;<a href="#fn65" class="footnoteRef" id="fnref65"><sup>65</sup></a></li>
-<li>Concept of &#8220;Learning from error&#8221; in <em>Error and the Growth of Experimental Knowledge</em><a href="#fn66" class="footnoteRef" id="fnref66"><sup>66</sup></a></li>
-<li>&#8220;Severe testing as a basic concept in a Neyman-Pearson philosophy of induction&#8221;<a href="#fn67" class="footnoteRef" id="fnref67"><sup>67</sup></a></li>
-<li>&#8220;Error statistics&#8221;<a href="#fn68" class="footnoteRef" id="fnref68"><sup>68</sup></a></li>
-<li><em>Statistical Inference as Severe Testing</em><a href="#fn69" class="footnoteRef" id="fnref69"><sup>69</sup></a></li>
+<li>&#8220;In defense of the Neyman-Pearson theory of confidence intervals&#8221;<a href="#fn66" class="footnoteRef" id="fnref66"><sup>66</sup></a></li>
+<li>Concept of &#8220;Learning from error&#8221; in <em>Error and the Growth of Experimental Knowledge</em><a href="#fn67" class="footnoteRef" id="fnref67"><sup>67</sup></a></li>
+<li>&#8220;Severe testing as a basic concept in a Neyman-Pearson philosophy of induction&#8221;<a href="#fn68" class="footnoteRef" id="fnref68"><sup>68</sup></a></li>
+<li>&#8220;Error statistics&#8221;<a href="#fn69" class="footnoteRef" id="fnref69"><sup>69</sup></a></li>
+<li><em>Statistical Inference as Severe Testing</em><a href="#fn70" class="footnoteRef" id="fnref70"><sup>70</sup></a></li>
 <li><a href="https://blog.apaonline.org/2019/03/07/interview-with-deborah-mayo/">Statistics Wars: Interview with Deborah Mayo</a> - APA blog</li>
 <li><a href="https://ndpr.nd.edu/news/statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/">Review of <em>SIST</em> by Prasanta S. Bandyopadhyay</a></li>
 <li><a href="https://phil-stat-wars.com/2020/05/22/lse-research-seminar-ph500-may-15/">LSE Research Seminar: Current Controversies in Phil Stat</a> (May 21, 2020)
@@ -739,7 +741,7 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 <li>Andrew Gelman
 <ul>
-<li>Beyond subjective and objective in statistics<a href="#fn70" class="footnoteRef" id="fnref70"><sup>70</sup></a></li>
+<li>Beyond subjective and objective in statistics<a href="#fn71" class="footnoteRef" id="fnref71"><sup>71</sup></a></li>
 <li><a href="https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/">Confirmationist and falsificationist paradigms of science</a> - Sept. 5, 2014</li>
 <li><a href="https://statmodeling.stat.columbia.edu/2019/03/20/retire-statistical-significance-the-discussion/">Retire Statistical Significance: The discussion</a></li>
 <li><a href="https://statmodeling.stat.columbia.edu/2019/09/11/exchange-with-deborah-mayo-on-abandoning-statistical-significance/">Exchange with Deborah Mayo on abandoning statistical significance</a></li>
@@ -751,7 +753,7 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 <li>Kevin Murphy
 <ul>
-<li>Pathologies of frequentist statistics<a href="#fn71" class="footnoteRef" id="fnref71"><sup>71</sup></a></li>
+<li>Pathologies of frequentist statistics<a href="#fn72" class="footnoteRef" id="fnref72"><sup>72</sup></a></li>
 </ul></li>
 <li>Greg Gandenberger
 <ul>
@@ -760,9 +762,9 @@ D_\mathrm{KL}(p, q)
 <li><a href="http://gandenberger.org/2014/07/28/intro-to-statistical-methods-2/">An introduction to likelihoodist, bayesian, and frequentist methods (2/3)</a></li>
 <li><a href="http://gandenberger.org/2014/08/26/intro-to-statistical-methods-3/">An introduction to likelihoodist, bayesian, and frequentist methods (3/3)</a></li>
 <li><a href="http://gandenberger.org/2013/10/21/against-likelihoodist-methods/">An argument against likelihoodist methods as genuine alternatives to bayesian and frequentist methods</a></li>
-<li>&#8220;Why I am not a likelihoodist&#8221;<a href="#fn72" class="footnoteRef" id="fnref72"><sup>72</sup></a></li>
+<li>&#8220;Why I am not a likelihoodist&#8221;<a href="#fn73" class="footnoteRef" id="fnref73"><sup>73</sup></a></li>
 </ul></li>
-<li>Kruschke &amp; Liddel<a href="#fn73" class="footnoteRef" id="fnref73"><sup>73</sup></a></li>
+<li>Kruschke &amp; Liddel<a href="#fn74" class="footnoteRef" id="fnref74"><sup>74</sup></a></li>
 </ul>
 <div class="figure">
 <img src="img/gandenberger-thesis-venn-diagram.png" alt="Figure 7: The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference (gandenberger.org/research/, 2015)." id="fig:gandenberger-thesis-venn-diagram" />
@@ -771,17 +773,17 @@ D_\mathrm{KL}(p, q)
 <h2 id="replication-crisis">Replication crisis</h2>
 <h3 id="introduction-2">Introduction</h3>
 <ul>
-<li>&#8220;Why most published research findings are false&#8221;<a href="#fn74" class="footnoteRef" id="fnref74"><sup>74</sup></a></li>
+<li>&#8220;Why most published research findings are false&#8221;<a href="#fn75" class="footnoteRef" id="fnref75"><sup>75</sup></a></li>
 </ul>
 <h3 id="p-value-controversy">P-value controversy</h3>
 <ul>
-<li>ASA statement on <span class="math inline">\(p\)</span>-values<a href="#fn75" class="footnoteRef" id="fnref75"><sup>75</sup></a></li>
-<li><a href="http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375">Big names in statistics want to shake up much-maligned P value</a><a href="#fn76" class="footnoteRef" id="fnref76"><sup>76</sup></a></li>
+<li>ASA statement on <span class="math inline">\(p\)</span>-values<a href="#fn76" class="footnoteRef" id="fnref76"><sup>76</sup></a></li>
+<li><a href="http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375">Big names in statistics want to shake up much-maligned P value</a><a href="#fn77" class="footnoteRef" id="fnref77"><sup>77</sup></a></li>
 <li><a href="https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/">Hi-Phi Nation, episode 7</a></li>
 <li>Fisher:</li>
 </ul>
 <blockquote>
-<p>[N]o isolated experiment, however significant in itself, can suffice for the experimental demonstration of any natural phenomenon; for the &#8220;one chance in a million&#8221; will undoubtedly occur, with no less and no more than its appropriate frequency, however surprised we may be that it should occur to us. In order to assert that a natural phenomenon is experimentally demonstrable we need, not an isolated record, but a reliable method of procedure. In relation to the test of significance, we may say that a phenomenon is experimentally demonstrable when we know how to conduct an experiment which will rarely fail to give us a statistically significant result.<a href="#fn77" class="footnoteRef" id="fnref77"><sup>77</sup></a></p>
+<p>[N]o isolated experiment, however significant in itself, can suffice for the experimental demonstration of any natural phenomenon; for the &#8220;one chance in a million&#8221; will undoubtedly occur, with no less and no more than its appropriate frequency, however surprised we may be that it should occur to us. In order to assert that a natural phenomenon is experimentally demonstrable we need, not an isolated record, but a reliable method of procedure. In relation to the test of significance, we may say that a phenomenon is experimentally demonstrable when we know how to conduct an experiment which will rarely fail to give us a statistically significant result.<a href="#fn78" class="footnoteRef" id="fnref78"><sup>78</sup></a></p>
 </blockquote>
 <ul>
 <li>Relationship to the LEE</li>
@@ -792,7 +794,7 @@ D_\mathrm{KL}(p, q)
 <li>Mayo
 <ul>
 <li><a href="https://errorstatistics.com/2019/12/13/les-stats-cest-moi-we-take-that-step-here-adopt-our-fav-word-or-phil-stat/">&#8220;Les stats, c&#8217;est moi: We take that step here!&#8221;</a></li>
-<li>&#8220;Significance tests: Vitiated or vindicated by the replication crisis in psychology?&#8221;<a href="#fn78" class="footnoteRef" id="fnref78"><sup>78</sup></a></li>
+<li>&#8220;Significance tests: Vitiated or vindicated by the replication crisis in psychology?&#8221;<a href="#fn79" class="footnoteRef" id="fnref79"><sup>79</sup></a></li>
 </ul></li>
 <li>Vox: <a href="https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005">What a nerdy debate about p-values shows about science&#8211;and how to fix it</a></li>
 <li>Karen Kafadar: <a href="https://magazine.amstat.org/blog/2019/12/01/kk_dec2019/">The Year in Review &#8230; And More to Come</a></li>
@@ -806,12 +808,12 @@ D_\mathrm{KL}(p, q)
 <li>classification = supervised; clustering = unsupervised</li>
 </ul></li>
 <li><a href="https://en.wikipedia.org/wiki/Arthur_Samuel">Arthur Samuel</a> (1901-1990)</li>
-<li>Hastie, Tibshirani, &amp; Friedman<a href="#fn79" class="footnoteRef" id="fnref79"><sup>79</sup></a></li>
-<li><em>Information Theory, Inference, and Learning</em><a href="#fn80" class="footnoteRef" id="fnref80"><sup>80</sup></a></li>
-<li>VC-dimension<a href="#fn81" class="footnoteRef" id="fnref81"><sup>81</sup></a></li>
+<li>Hastie, Tibshirani, &amp; Friedman<a href="#fn80" class="footnoteRef" id="fnref80"><sup>80</sup></a></li>
+<li><em>Information Theory, Inference, and Learning</em><a href="#fn81" class="footnoteRef" id="fnref81"><sup>81</sup></a></li>
+<li>VC-dimension<a href="#fn82" class="footnoteRef" id="fnref82"><sup>82</sup></a></li>
 </ul>
 <h3 id="logistic-regression">Logistic regression</h3>
-<p>From a probabilistic point of view,<a href="#fn82" class="footnoteRef" id="fnref82"><sup>82</sup></a> logistic regression can be derived from doing maximum likelihood estimation of a vector of model parameters, <span class="math inline">\(\vec{w}\)</span>, in a dot product with the input features, <span class="math inline">\(\vec{x}\)</span>, and squashed with a logistic function that yields the probability, <span class="math inline">\(\mu\)</span>, of a Bernoulli random variable, <span class="math inline">\(y \in \{0, 1\}\)</span>.</p>
+<p>From a probabilistic point of view,<a href="#fn83" class="footnoteRef" id="fnref83"><sup>83</sup></a> logistic regression can be derived from doing maximum likelihood estimation of a vector of model parameters, <span class="math inline">\(\vec{w}\)</span>, in a dot product with the input features, <span class="math inline">\(\vec{x}\)</span>, and squashed with a logistic function that yields the probability, <span class="math inline">\(\mu\)</span>, of a Bernoulli random variable, <span class="math inline">\(y \in \{0, 1\}\)</span>.</p>
 <p><span class="math display">\[ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y | \mu(\vec{x}, \vec{w})) = \mu(\vec{x}, \vec{w})^y \: (1-\mu(\vec{x}, \vec{w}))^{(1-y)} \]</span></p>
 <p>The negative log-likelihood of multiple trials is</p>
 <span class="math display">\[\begin{align}
@@ -821,7 +823,7 @@ D_\mathrm{KL}(p, q)
     &amp;= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \nonumber \\
     &amp;= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss0}
 \end{align}\]</span>
-<p>which is the <strong>cross entropy loss</strong>. Note that the first term is non-zero only when the true target is <span class="math inline">\(y_i=1\)</span>, and similarly the second term is non-zero only when <span class="math inline">\(y_i=0\)</span>.<a href="#fn83" class="footnoteRef" id="fnref83"><sup>83</sup></a> Therefore, we can reparametrize the target <span class="math inline">\(y_i\)</span> in favor of <span class="math inline">\(t_{ki}\)</span> that is one-hot in an index <span class="math inline">\(k\)</span> over classes.</p>
+<p>which is the <strong>cross entropy loss</strong>. Note that the first term is non-zero only when the true target is <span class="math inline">\(y_i=1\)</span>, and similarly the second term is non-zero only when <span class="math inline">\(y_i=0\)</span>.<a href="#fn84" class="footnoteRef" id="fnref84"><sup>84</sup></a> Therefore, we can reparametrize the target <span class="math inline">\(y_i\)</span> in favor of <span class="math inline">\(t_{ki}\)</span> that is one-hot in an index <span class="math inline">\(k\)</span> over classes.</p>
 <p><span class="math display">\[ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ki} \, \log \mu_{ki} \big) \label{eq:cross_entropy_loss1} \]</span></p>
 <p>where</p>
 <p><span class="math display">\[ t_{ki} = \begin{cases} 1 &amp; \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i = 1) \\ 0 &amp; \mathrm{otherwise} \end{cases} \]</span></p>
@@ -829,7 +831,7 @@ D_\mathrm{KL}(p, q)
 <p><span class="math display">\[ \mu_{ki} = \begin{cases} 1-\mu_i &amp; \mathrm{if}\ k = 0 \\ \mu_i &amp; \mathrm{if}\ k =1 \end{cases} \]</span></p>
 <p>This readily generalizes from binary classification to classification over many classes as we will discuss more below. Note that in the sum over classes, <span class="math inline">\(k\)</span>, only one term for the true class contributes.</p>
 <p><span class="math display">\[ \mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss2} \]</span></p>
-<p>Logistic regression uses the <strong>logit function</strong>,<a href="#fn84" class="footnoteRef" id="fnref84"><sup>84</sup></a> which is the logarithm of the odds&#8212;the ratio of the chance of success to failure. Let <span class="math inline">\(\mu\)</span> be the probability of success in a Bernoulli trial, then the logit function is defined as</p>
+<p>Logistic regression uses the <strong>logit function</strong>,<a href="#fn85" class="footnoteRef" id="fnref85"><sup>85</sup></a> which is the logarithm of the odds&#8212;the ratio of the chance of success to failure. Let <span class="math inline">\(\mu\)</span> be the probability of success in a Bernoulli trial, then the logit function is defined as</p>
 <p><span class="math display">\[ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \label{eq:logit} \]</span></p>
 <p>Logistic regression assumes that the logit function is a linear function of the explanatory variable, <span class="math inline">\(x\)</span>.</p>
 <p><span class="math display">\[ \log\left(\frac{\mu}{1-\mu}\right) = \beta_0 + \beta_1 x \]</span></p>
@@ -865,12 +867,12 @@ D_\mathrm{KL}(p, q)
 <p>See also:</p>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Multinomial_logistic_regression">Multinomial logistic regression</a></li>
-<li>McFadden<a href="#fn85" class="footnoteRef" id="fnref85"><sup>85</sup></a></li>
+<li>McFadden<a href="#fn86" class="footnoteRef" id="fnref86"><sup>86</sup></a></li>
 <li>Softmax is really a soft argmax. TODO: find ref.</li>
-<li>Softmax is not unique. There are other squashing functions.<a href="#fn86" class="footnoteRef" id="fnref86"><sup>86</sup></a></li>
+<li>Softmax is not unique. There are other squashing functions.<a href="#fn87" class="footnoteRef" id="fnref87"><sup>87</sup></a></li>
 <li>Roelants, P. (2019). <a href="https://peterroelants.github.io/posts/cross-entropy-softmax/">Softmax classification with cross-entropy</a>.</li>
 <li>Gradients from backprop through a softmax</li>
-<li>Goodfellow et al. point out that <em>any</em> negative log-likelihood is a cross entropy between the training data and the probability distribution predicted by the model.<a href="#fn87" class="footnoteRef" id="fnref87"><sup>87</sup></a></li>
+<li>Goodfellow et al. point out that <em>any</em> negative log-likelihood is a cross entropy between the training data and the probability distribution predicted by the model.<a href="#fn88" class="footnoteRef" id="fnref88"><sup>88</sup></a></li>
 </ul>
 <h3 id="decision-trees">Decision trees</h3>
 <ul>
@@ -908,13 +910,13 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Conceptual reviews of deep learning
 <ul>
-<li>Lower to higher level representations<a href="#fn88" class="footnoteRef" id="fnref88"><sup>88</sup></a></li>
-<li>&#8220;Review: Deep learning&#8221;<a href="#fn89" class="footnoteRef" id="fnref89"><sup>89</sup></a></li>
-<li><em>Deep Learning</em><a href="#fn90" class="footnoteRef" id="fnref90"><sup>90</sup></a></li>
+<li>Lower to higher level representations<a href="#fn89" class="footnoteRef" id="fnref89"><sup>89</sup></a></li>
+<li>&#8220;Review: Deep learning&#8221;<a href="#fn90" class="footnoteRef" id="fnref90"><sup>90</sup></a></li>
+<li><em>Deep Learning</em><a href="#fn91" class="footnoteRef" id="fnref91"><sup>91</sup></a></li>
 </ul></li>
 <li>Backpropagation
 <ul>
-<li>Rumelhart<a href="#fn91" class="footnoteRef" id="fnref91"><sup>91</sup></a></li>
+<li>Rumelhart<a href="#fn92" class="footnoteRef" id="fnref92"><sup>92</sup></a></li>
 <li>See Schmidhuber&#8217;s <a href="http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html">Critique of Honda Prize for Dr.&#160;Hinton</a></li>
 <li>Schmidhuber: <a href="http://people.idsia.ch/~juergen/who-invented-backpropagation.html">Who Invented Backpropagation?</a></li>
 </ul></li>
@@ -922,29 +924,29 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Bengio, Y. (2012). <a href="https://arxiv.org/abs/1206.5533">Practical recommendations for gradient-based training of deep architectures</a>.</li>
 <li>Hao, L. et al. (2017). <a href="https://arxiv.org/abs/1712.09913">Visualizing the loss landscape of neural nets</a>.</li>
-<li>&#8220;Deep learning: A guide for practitioners in the physical sciences&#8221;<a href="#fn92" class="footnoteRef" id="fnref92"><sup>92</sup></a></li>
+<li>&#8220;Deep learning: A guide for practitioners in the physical sciences&#8221;<a href="#fn93" class="footnoteRef" id="fnref93"><sup>93</sup></a></li>
 </ul></li>
 <li>Others
 <ul>
-<li>&#8220;The explanation game: A formal framework for interpretable machine learning&#8221;<a href="#fn93" class="footnoteRef" id="fnref93"><sup>93</sup></a></li>
+<li>&#8220;The explanation game: A formal framework for interpretable machine learning&#8221;<a href="#fn94" class="footnoteRef" id="fnref94"><sup>94</sup></a></li>
 <li><a href="https://www.aimyths.org/">AIMyths.com</a></li>
 </ul></li>
 </ul>
 <div class="figure">
 <img src="img/bengio-raw-to-higher-rep.png" alt="Figure 9: Raw input image is transformed into gradually higher levels of representation." id="fig:bengio-raw-to-higher-rep" />
-<p class="caption">Figure 9: Raw input image is transformed into gradually higher levels of representation.<a href="#fn94" class="footnoteRef" id="fnref94"><sup>94</sup></a></p>
+<p class="caption">Figure 9: Raw input image is transformed into gradually higher levels of representation.<a href="#fn95" class="footnoteRef" id="fnref95"><sup>95</sup></a></p>
 </div>
 <h3 id="deep-double-descent">Deep double descent</h3>
 <ul>
 <li>Bias and variance trade-off. See <a href="#bias-and-variance">Bias and variance</a>.</li>
 <li>MSE and model capacity</li>
-<li>&#8220;Reconciling modern machine-learning practice and the classical bias-variance trade-off&#8221;<a href="#fn95" class="footnoteRef" id="fnref95"><sup>95</sup></a></li>
-<li>&#8220;Deep double descent: Where bigger models and more data hurt&#8221;<a href="#fn96" class="footnoteRef" id="fnref96"><sup>96</sup></a></li>
+<li>&#8220;Reconciling modern machine-learning practice and the classical bias-variance trade-off&#8221;<a href="#fn96" class="footnoteRef" id="fnref96"><sup>96</sup></a></li>
+<li>&#8220;Deep double descent: Where bigger models and more data hurt&#8221;<a href="#fn97" class="footnoteRef" id="fnref97"><sup>97</sup></a></li>
 <li><a href="https://openai.com/blog/deep-double-descent/">&#8220;Deep Double Descent&#8221;</a>. <em>OpenAI Blog</em>.</li>
 <li>Hubinger, E. (2019). <a href="https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent">Understanding &#8220;Deep Double Descent&#8221;</a>. <em>LessWrong</em>.</li>
 </ul>
 <h3 id="regularization">Regularization</h3>
-<p>Regularization = any change we make to the training algorithm in order to reduce the generalization error but not the training error.<a href="#fn97" class="footnoteRef" id="fnref97"><sup>97</sup></a></p>
+<p>Regularization = any change we make to the training algorithm in order to reduce the generalization error but not the training error.<a href="#fn98" class="footnoteRef" id="fnref98"><sup>98</sup></a></p>
 <p>Most common regularizations:</p>
 <ul>
 <li>L2 Regularization</li>
@@ -956,7 +958,7 @@ D_\mathrm{KL}(p, q)
 <p>Papers:</p>
 <ul>
 <li>Loshchilov, I. &amp; Hutter, F. (2019). <a href="https://arxiv.org/abs/1711.05101">Decoupled weight decay regularization</a>.</li>
-<li>A group theoretic framework for data augmentation<a href="#fn98" class="footnoteRef" id="fnref98"><sup>98</sup></a></li>
+<li>A group theoretic framework for data augmentation<a href="#fn99" class="footnoteRef" id="fnref99"><sup>99</sup></a></li>
 </ul>
 <h3 id="batch-size-vs-learning-rate">Batch size vs learning rate</h3>
 <p>Papers:</p>
@@ -1053,15 +1055,15 @@ D_\mathrm{KL}(p, q)
 <h3 id="computer-vision">Computer vision</h3>
 <p>Computer Vision (CV)</p>
 <ul>
-<li>Fukushima: neocognitron<a href="#fn99" class="footnoteRef" id="fnref99"><sup>99</sup></a></li>
-<li>LeCun: OCR with backpropagation<a href="#fn100" class="footnoteRef" id="fnref100"><sup>100</sup></a></li>
-<li>LeCun: LeNet-5<a href="#fn101" class="footnoteRef" id="fnref101"><sup>101</sup></a></li>
-<li>Ciresan: MCDNN<a href="#fn102" class="footnoteRef" id="fnref102"><sup>102</sup></a></li>
-<li>Krizhevsky, Sutskever, and Hinton: AlexNet<a href="#fn103" class="footnoteRef" id="fnref103"><sup>103</sup></a></li>
-<li>VGG<a href="#fn104" class="footnoteRef" id="fnref104"><sup>104</sup></a></li>
-<li>ResNet<a href="#fn105" class="footnoteRef" id="fnref105"><sup>105</sup></a></li>
-<li>MobileNet<a href="#fn106" class="footnoteRef" id="fnref106"><sup>106</sup></a></li>
-<li>EfficientNet<a href="#fn107" class="footnoteRef" id="fnref107"><sup>107</sup></a></li>
+<li>Fukushima: neocognitron<a href="#fn100" class="footnoteRef" id="fnref100"><sup>100</sup></a></li>
+<li>LeCun: OCR with backpropagation<a href="#fn101" class="footnoteRef" id="fnref101"><sup>101</sup></a></li>
+<li>LeCun: LeNet-5<a href="#fn102" class="footnoteRef" id="fnref102"><sup>102</sup></a></li>
+<li>Ciresan: MCDNN<a href="#fn103" class="footnoteRef" id="fnref103"><sup>103</sup></a></li>
+<li>Krizhevsky, Sutskever, and Hinton: AlexNet<a href="#fn104" class="footnoteRef" id="fnref104"><sup>104</sup></a></li>
+<li>VGG<a href="#fn105" class="footnoteRef" id="fnref105"><sup>105</sup></a></li>
+<li>ResNet<a href="#fn106" class="footnoteRef" id="fnref106"><sup>106</sup></a></li>
+<li>MobileNet<a href="#fn107" class="footnoteRef" id="fnref107"><sup>107</sup></a></li>
+<li>EfficientNet<a href="#fn108" class="footnoteRef" id="fnref108"><sup>108</sup></a></li>
 </ul>
 <h3 id="natural-language-processing">Natural language processing</h3>
 <ul>
@@ -1069,7 +1071,7 @@ D_\mathrm{KL}(p, q)
 <li>Firth (1957)? &#8220;You shall know a word by the company it keeps&#8221;</li>
 <li>word2vec
 <ul>
-<li>Mikolov<a href="#fn108" class="footnoteRef" id="fnref108"><sup>108</sup></a></li>
+<li>Mikolov<a href="#fn109" class="footnoteRef" id="fnref109"><sup>109</sup></a></li>
 <li>Julia Bazi&#324;ska</li>
 <li>Olah, C. (2014). <a href="https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/">Deep learning, NLP, and representations</a>.</li>
 <li>Migdal, P. (2017). <a href="https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html">king - man + woman is queen; but why?</a></li>
@@ -1078,29 +1080,29 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 <li>RNNs and LSTMs
 <ul>
-<li>Hochreiter, S. &amp; Schmidhuber, J. (1997). Long short-term memory.<a href="#fn109" class="footnoteRef" id="fnref109"><sup>109</sup></a></li>
+<li>Hochreiter, S. &amp; Schmidhuber, J. (1997). Long short-term memory.<a href="#fn110" class="footnoteRef" id="fnref110"><sup>110</sup></a></li>
 <li>Olah, C. (2015). <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs/">Understanding LSTM networks</a>.</li>
 </ul></li>
 <li>Backpropagation through time (BPTT)</li>
 <li>Neural Machine Translation (NMT)
 <ul>
-<li>Sutskever seq2seq<a href="#fn110" class="footnoteRef" id="fnref110"><sup>110</sup></a></li>
-<li>Bahdanau attention<a href="#fn111" class="footnoteRef" id="fnref111"><sup>111</sup></a> and GNMT<a href="#fn112" class="footnoteRef" id="fnref112"><sup>112</sup></a></li>
-<li>Review by Stahlberg<a href="#fn113" class="footnoteRef" id="fnref113"><sup>113</sup></a></li>
+<li>Sutskever seq2seq<a href="#fn111" class="footnoteRef" id="fnref111"><sup>111</sup></a></li>
+<li>Bahdanau attention<a href="#fn112" class="footnoteRef" id="fnref112"><sup>112</sup></a> and GNMT<a href="#fn113" class="footnoteRef" id="fnref113"><sup>113</sup></a></li>
+<li>Review by Stahlberg<a href="#fn114" class="footnoteRef" id="fnref114"><sup>114</sup></a></li>
 </ul></li>
 <li>Scaling laws in NLP
 <ul>
-<li>Rationalism and empiricism in artificial intellegence: A survey of 25 years of evaluation [in NLP].<a href="#fn114" class="footnoteRef" id="fnref114"><sup>114</sup></a></li>
+<li>Rationalism and empiricism in artificial intellegence: A survey of 25 years of evaluation [in NLP].<a href="#fn115" class="footnoteRef" id="fnref115"><sup>115</sup></a></li>
 </ul></li>
 <li>Attention and Transformers
 <ul>
-<li>Transformer<a href="#fn115" class="footnoteRef" id="fnref115"><sup>115</sup></a></li>
-<li>BERT<a href="#fn116" class="footnoteRef" id="fnref116"><sup>116</sup></a></li>
+<li>Transformer<a href="#fn116" class="footnoteRef" id="fnref116"><sup>116</sup></a></li>
+<li>BERT<a href="#fn117" class="footnoteRef" id="fnref117"><sup>117</sup></a></li>
 <li>Horev, R. (2018). <a href="https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270">BERT Explained: State of the art language model for NLP</a>.</li>
-<li>ALBERT<a href="#fn117" class="footnoteRef" id="fnref117"><sup>117</sup></a></li>
-<li>GPT-1,<a href="#fn118" class="footnoteRef" id="fnref118"><sup>118</sup></a> 2,<a href="#fn119" class="footnoteRef" id="fnref119"><sup>119</sup></a> 3<a href="#fn120" class="footnoteRef" id="fnref120"><sup>120</sup></a></li>
+<li>ALBERT<a href="#fn118" class="footnoteRef" id="fnref118"><sup>118</sup></a></li>
+<li>GPT-1,<a href="#fn119" class="footnoteRef" id="fnref119"><sup>119</sup></a> 2,<a href="#fn120" class="footnoteRef" id="fnref120"><sup>120</sup></a> 3<a href="#fn121" class="footnoteRef" id="fnref121"><sup>121</sup></a></li>
 <li>DeepMind&#8217;s blog posts for more details: <a href="https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery">AlphaFold1</a>, <a href="https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology">AlphaFold2</a>. Slides from the CASP14 conference are publicly available <a href="https://predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf">here</a>.</li>
-<li>SE(3)-Transformers<a href="#fn121" class="footnoteRef" id="fnref121"><sup>121</sup></a> and <a href="https://fabianfuchsml.github.io/alphafold2/">blog post</a>.</li>
+<li>SE(3)-Transformers<a href="#fn122" class="footnoteRef" id="fnref122"><sup>122</sup></a> and <a href="https://fabianfuchsml.github.io/alphafold2/">blog post</a>.</li>
 </ul></li>
 </ul>
 <div class="figure">
@@ -1110,8 +1112,8 @@ D_\mathrm{KL}(p, q)
 <h3 id="reinforcement-learning">Reinforcement learning</h3>
 <ul>
 <li>Reinforcement Learning (RL)</li>
-<li>Sutton &amp; Barto<a href="#fn122" class="footnoteRef" id="fnref122"><sup>122</sup></a></li>
-<li>Deep Reinforcement Learning: A Brief Survey<a href="#fn123" class="footnoteRef" id="fnref123"><sup>123</sup></a></li>
+<li>Sutton &amp; Barto<a href="#fn123" class="footnoteRef" id="fnref123"><sup>123</sup></a></li>
+<li>Deep Reinforcement Learning: A Brief Survey<a href="#fn124" class="footnoteRef" id="fnref124"><sup>124</sup></a></li>
 <li><a href="https://spinningup.openai.com/en/latest/spinningup/keypapers.html">List by OpenAI of key RL papers</a></li>
 <li><a href="https://github.com/datamllab/awesome-game-ai">List of game AI codes by DATA Lab</a></li>
 <li><a href="https://www.youtube.com/watch?v=2pWv7GOvuf0&amp;list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB&amp;ab_channel=DeepMind">RL course by David Silver</a></li>
@@ -1121,13 +1123,13 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Q-learning and DQN</li>
 <li>Uses the Markov Decision Process (MDP) framework</li>
-<li>The Bellman equation<a href="#fn124" class="footnoteRef" id="fnref124"><sup>124</sup></a></li>
+<li>The Bellman equation<a href="#fn125" class="footnoteRef" id="fnref125"><sup>125</sup></a></li>
 <li>Q-learning is a values-based learning algorithm. Value based algorithms updates the value function based on an equation (particularly Bellman equation). Whereas the other type, policy-based estimates the value function with a greedy policy obtained from the last policy improvement (<a href="https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c">source: towardsdatascience.com</a>).</li>
-<li>DQN masters Atari<a href="#fn125" class="footnoteRef" id="fnref125"><sup>125</sup></a></li>
+<li>DQN masters Atari<a href="#fn126" class="footnoteRef" id="fnref126"><sup>126</sup></a></li>
 </ul>
 <h4 id="alphazero">AlphaZero</h4>
 <ul>
-<li>AlphaGo Lee<a href="#fn126" class="footnoteRef" id="fnref126"><sup>126</sup></a> &#8594; AlphaGo Zero<a href="#fn127" class="footnoteRef" id="fnref127"><sup>127</sup></a> &#8594; AlphaZero<a href="#fn128" class="footnoteRef" id="fnref128"><sup>128</sup></a></li>
+<li>AlphaGo Lee<a href="#fn127" class="footnoteRef" id="fnref127"><sup>127</sup></a> &#8594; AlphaGo Zero<a href="#fn128" class="footnoteRef" id="fnref128"><sup>128</sup></a> &#8594; AlphaZero<a href="#fn129" class="footnoteRef" id="fnref129"><sup>129</sup></a></li>
 <li><a href="https://openai.com/blog/openai-five/">OpenAI Five masters Dota2</a></li>
 <li><a href="https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii">AlphaStar masters StarCraftII</a></li>
 <li>AlphaZero
@@ -1140,46 +1142,46 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Counterfactual Regret Minimization (CFR)</li>
 <li>CFR differs from traditional RL algorithms in that it does not try to maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games (<a href="https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization">source: Quora</a>).</li>
-<li>Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). Regret minimization in games with incomplete information.<a href="#fn129" class="footnoteRef" id="fnref129"><sup>129</sup></a></li>
-<li>Lanctot, M. (2009). Monte Carlo sampling for regret minimization.<a href="#fn130" class="footnoteRef" id="fnref130"><sup>130</sup></a>
+<li>Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). Regret minimization in games with incomplete information.<a href="#fn130" class="footnoteRef" id="fnref130"><sup>130</sup></a></li>
+<li>Lanctot, M. (2009). Monte Carlo sampling for regret minimization.<a href="#fn131" class="footnoteRef" id="fnref131"><sup>131</sup></a>
 <ul>
 <li>Counterfactual Regret Minimization (MCCFR)</li>
 </ul></li>
-<li>Neller, T.W. &amp; Lanctot, M. (2013). An introduction to counterfactual regret minimization.<a href="#fn131" class="footnoteRef" id="fnref131"><sup>131</sup></a></li>
+<li>Neller, T.W. &amp; Lanctot, M. (2013). An introduction to counterfactual regret minimization.<a href="#fn132" class="footnoteRef" id="fnref132"><sup>132</sup></a></li>
 </ul>
 <h4 id="solving-poker">Solving poker</h4>
 <ul>
 <li>Earlier poker work
 <ul>
-<li>Bowling, M., Burch, N., Johanson, M., &amp; Tammelin, O. (2015). Heads-up limit hold&#8217;em poker is solved.<a href="#fn132" class="footnoteRef" id="fnref132"><sup>132</sup></a>
+<li>Bowling, M., Burch, N., Johanson, M., &amp; Tammelin, O. (2015). Heads-up limit hold&#8217;em poker is solved.<a href="#fn133" class="footnoteRef" id="fnref133"><sup>133</sup></a>
 <ul>
 <li>CFR+</li>
 </ul></li>
-<li>Heinrich &amp; Silver. (2016). Deep reinforcement learning from self play in imperfect-information games.<a href="#fn133" class="footnoteRef" id="fnref133"><sup>133</sup></a>
+<li>Heinrich &amp; Silver. (2016). Deep reinforcement learning from self play in imperfect-information games.<a href="#fn134" class="footnoteRef" id="fnref134"><sup>134</sup></a>
 <ul>
 <li>Q-learning</li>
 </ul></li>
-<li>Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker.<a href="#fn134" class="footnoteRef" id="fnref134"><sup>134</sup></a></li>
+<li>Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker.<a href="#fn135" class="footnoteRef" id="fnref135"><sup>135</sup></a></li>
 </ul></li>
 <li>Libratus
 <ul>
-<li>Brown, N. &amp; Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals.<a href="#fn135" class="footnoteRef" id="fnref135"><sup>135</sup></a>
+<li>Brown, N. &amp; Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals.<a href="#fn136" class="footnoteRef" id="fnref136"><sup>136</sup></a>
 <ul>
 <li>bet and card abstraction</li>
 <li>MCCFR used to find a solution of the abstracted game: blueprint</li>
 </ul></li>
-<li>Brown, N. &amp; Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization.<a href="#fn136" class="footnoteRef" id="fnref136"><sup>136</sup></a></li>
-<li>Brown, N., Lerer, A., Gross, S., &amp; Sandholm, T. (2019). Deep counterfactual regret minimization.<a href="#fn137" class="footnoteRef" id="fnref137"><sup>137</sup></a></li>
+<li>Brown, N. &amp; Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization.<a href="#fn137" class="footnoteRef" id="fnref137"><sup>137</sup></a></li>
+<li>Brown, N., Lerer, A., Gross, S., &amp; Sandholm, T. (2019). Deep counterfactual regret minimization.<a href="#fn138" class="footnoteRef" id="fnref138"><sup>138</sup></a></li>
 </ul></li>
 <li>Pluribus
 <ul>
-<li>Brown, N. &amp; Sandholm, T. (2019). Superhuman AI for multiplayer poker.<a href="#fn138" class="footnoteRef" id="fnref138"><sup>138</sup></a></li>
+<li>Brown, N. &amp; Sandholm, T. (2019). Superhuman AI for multiplayer poker.<a href="#fn139" class="footnoteRef" id="fnref139"><sup>139</sup></a></li>
 <li>Brown, N. (2019). <a href="https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/">Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker</a>.</li>
 <li><a href="https://www.nature.com/articles/d41586-019-02156-9">No limit: AI poker bot is first to beat professionals at multiplayer game</a></li>
 </ul></li>
 <li>ReBeL
 <ul>
-<li>Brown, N. et al. (2020). Combining deep reinforcement learning and search.<a href="#fn139" class="footnoteRef" id="fnref139"><sup>139</sup></a></li>
+<li>Brown, N. et al. (2020). Combining deep reinforcement learning and search.<a href="#fn140" class="footnoteRef" id="fnref140"><sup>140</sup></a></li>
 <li><a href="https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/">ReBeL: A general game-playing AI bot that excels at poker and more</a></li>
 <li>YouTube by Brown: <a href="https://www.youtube.com/watch?v=mCldyXOYNok">Combining deep reinforcement learning and search for imperfect-information games</a>.</li>
 </ul></li>
@@ -1198,9 +1200,9 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>David Wolpert and William G. Macready
 <ul>
-<li>No free lunch theorems for search (1995)<a href="#fn140" class="footnoteRef" id="fnref140"><sup>140</sup></a></li>
-<li>The lack of a priori distinctions between learning algorithms (1996)<a href="#fn141" class="footnoteRef" id="fnref141"><sup>141</sup></a></li>
-<li>No free lunch theorems for optimization (1997)<a href="#fn142" class="footnoteRef" id="fnref142"><sup>142</sup></a></li>
+<li>No free lunch theorems for search (1995)<a href="#fn141" class="footnoteRef" id="fnref141"><sup>141</sup></a></li>
+<li>The lack of a priori distinctions between learning algorithms (1996)<a href="#fn142" class="footnoteRef" id="fnref142"><sup>142</sup></a></li>
+<li>No free lunch theorems for optimization (1997)<a href="#fn143" class="footnoteRef" id="fnref143"><sup>143</sup></a></li>
 <li>McDermott, J. (2019). <a href="https://arxiv.org/abs/1906.03280">When and why metaheuristics researchers can ignore &#8220;No Free Lunch&#8221; theorems</a>.</li>
 </ul></li>
 <li>Blogs:
@@ -1229,14 +1231,14 @@ D_\mathrm{KL}(p, q)
 <h3 id="relationship-to-statistical-mechanics">Relationship to statistical mechanics</h3>
 <ul>
 <li>Logistic/softmax and Boltzman factors</li>
-<li>Bahri<a href="#fn143" class="footnoteRef" id="fnref143"><sup>143</sup></a></li>
-<li>Halverson<a href="#fn144" class="footnoteRef" id="fnref144"><sup>144</sup></a></li>
+<li>Bahri<a href="#fn144" class="footnoteRef" id="fnref144"><sup>144</sup></a></li>
+<li>Halverson<a href="#fn145" class="footnoteRef" id="fnref145"><sup>145</sup></a></li>
 <li>Canatar, A., Bordelon, B., &amp; Pehlevan, C. (2020). <a href="https://arxiv.org/abs/2006.13198">Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks</a>.</li>
 </ul>
 <h3 id="relationship-to-gauge-theory">Relationship to gauge theory</h3>
 <ul>
-<li>Cohen &amp; Welling. (2016). Group equivariant convolutional networks.<a href="#fn145" class="footnoteRef" id="fnref145"><sup>145</sup></a></li>
-<li>Gauge equivariant convolutional networks and the icosahedral CNN (2019)<a href="#fn146" class="footnoteRef" id="fnref146"><sup>146</sup></a></li>
+<li>Cohen &amp; Welling. (2016). Group equivariant convolutional networks.<a href="#fn146" class="footnoteRef" id="fnref146"><sup>146</sup></a></li>
+<li>Gauge equivariant convolutional networks and the icosahedral CNN (2019)<a href="#fn147" class="footnoteRef" id="fnref147"><sup>147</sup></a></li>
 <li>Pavlus, J. (2020). <a href="https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/">An idea from physics helps AI see in higher dimensions</a>.</li>
 </ul>
 <h3 id="thermodynamics-of-computation">Thermodynamics of computation</h3>
@@ -1247,20 +1249,20 @@ D_\mathrm{KL}(p, q)
 <h2 id="information-geometry">Information geometry</h2>
 <h3 id="introduction-5">Introduction</h3>
 <ul>
-<li>&#8220;A gentle introduction to information geometry&#8221;<a href="#fn147" class="footnoteRef" id="fnref147"><sup>147</sup></a></li>
-<li>&#8220;An elementary introduction to information geometry&#8221;<a href="#fn148" class="footnoteRef" id="fnref148"><sup>148</sup></a></li>
-<li><em>Information Geometry and Its Applications</em><a href="#fn149" class="footnoteRef" id="fnref149"><sup>149</sup></a></li>
+<li>&#8220;A gentle introduction to information geometry&#8221;<a href="#fn148" class="footnoteRef" id="fnref148"><sup>148</sup></a></li>
+<li>&#8220;An elementary introduction to information geometry&#8221;<a href="#fn149" class="footnoteRef" id="fnref149"><sup>149</sup></a></li>
+<li><em>Information Geometry and Its Applications</em><a href="#fn150" class="footnoteRef" id="fnref150"><sup>150</sup></a></li>
 </ul>
 <h3 id="geometric-understanding-of-classical-statistics">Geometric understanding of classical statistics</h3>
 <ul>
-<li>&#8220;A geometric formulation of Occam&#8217;s razor for inference of parametric distributions&#8221;<a href="#fn150" class="footnoteRef" id="fnref150"><sup>150</sup></a></li>
-<li>&#8220;Statistical inference, Occam&#8217;s Razor and statistical mechanics on the space of probability distributions&#8221;<a href="#fn151" class="footnoteRef" id="fnref151"><sup>151</sup></a></li>
-<li><em>Geometric Modeling in Probability and Statistics</em><a href="#fn152" class="footnoteRef" id="fnref152"><sup>152</sup></a></li>
+<li>&#8220;A geometric formulation of Occam&#8217;s razor for inference of parametric distributions&#8221;<a href="#fn151" class="footnoteRef" id="fnref151"><sup>151</sup></a></li>
+<li>&#8220;Statistical inference, Occam&#8217;s Razor and statistical mechanics on the space of probability distributions&#8221;<a href="#fn152" class="footnoteRef" id="fnref152"><sup>152</sup></a></li>
+<li><em>Geometric Modeling in Probability and Statistics</em><a href="#fn153" class="footnoteRef" id="fnref153"><sup>153</sup></a></li>
 <li>Cranmer</li>
 </ul>
 <h3 id="geometric-understanding-of-deep-learning">Geometric understanding of deep learning</h3>
 <ul>
-<li>&#8220;Geometric understanding of deep learning&#8221;<a href="#fn153" class="footnoteRef" id="fnref153"><sup>153</sup></a></li>
+<li>&#8220;Geometric understanding of deep learning&#8221;<a href="#fn154" class="footnoteRef" id="fnref154"><sup>154</sup></a></li>
 <li>Gao, Y. &amp; Chaudhari, P. (2020). <a href="https://arxiv.org/abs/2011.00613">An information-geometric distance on the space of tasks</a>.</li>
 </ul>
 <h2 id="automation">Automation</h2>
@@ -1273,20 +1275,20 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Autoencoders, latent variables</li>
 <li>Physical constratints in loss functions</li>
-<li>&#8220;The frontier of simulation-based inference&#8221;<a href="#fn154" class="footnoteRef" id="fnref154"><sup>154</sup></a></li>
+<li>&#8220;The frontier of simulation-based inference&#8221;<a href="#fn155" class="footnoteRef" id="fnref155"><sup>155</sup></a></li>
 <li>Howard, J.N. (2021). <a href="https://arxiv.org/abs/2101.08944">Foundations of a fast, data-driven, machine-learned simulator</a>.</li>
 </ul>
 <h3 id="autoscience">AutoScience</h3>
 <ul>
 <li>Automated discovery</li>
-<li>&#8220;Learning new physics from a machine&#8221;<a href="#fn155" class="footnoteRef" id="fnref155"><sup>155</sup></a></li>
-<li>&#8220;Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry.&#8221;<a href="#fn156" class="footnoteRef" id="fnref156"><sup>156</sup></a>
+<li>&#8220;Learning new physics from a machine&#8221;<a href="#fn156" class="footnoteRef" id="fnref156"><sup>156</sup></a></li>
+<li>&#8220;Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry.&#8221;<a href="#fn157" class="footnoteRef" id="fnref157"><sup>157</sup></a>
 <ul>
 <li>Note that this description of abduction is missing that it is normative (i.e. &#8220;best-fit&#8221;).</li>
 </ul></li>
-<li>&#8220;The End of Theory: The data deluge makes the scientific method obsolete.&#8221;<a href="#fn157" class="footnoteRef" id="fnref157"><sup>157</sup></a></li>
-<li>&#8220;Symbolic pregression: Discovering physical laws from raw distorted video.&#8221;<a href="#fn158" class="footnoteRef" id="fnref158"><sup>158</sup></a></li>
-<li>&#8220;Discovering symbolic models from deep learning with inductive biases.&#8221;<a href="#fn159" class="footnoteRef" id="fnref159"><sup>159</sup></a>
+<li>&#8220;The End of Theory: The data deluge makes the scientific method obsolete.&#8221;<a href="#fn158" class="footnoteRef" id="fnref158"><sup>158</sup></a></li>
+<li>&#8220;Symbolic pregression: Discovering physical laws from raw distorted video.&#8221;<a href="#fn159" class="footnoteRef" id="fnref159"><sup>159</sup></a></li>
+<li>&#8220;Discovering symbolic models from deep learning with inductive biases.&#8221;<a href="#fn160" class="footnoteRef" id="fnref160"><sup>160</sup></a>
 <ul>
 <li>Video: <a href="https://www.youtube.com/watch?v=LMb5tvW-UoQ">Discussion by Yannic Kilcher</a></li>
 </ul></li>
@@ -1294,16 +1296,16 @@ D_\mathrm{KL}(p, q)
 </ul>
 <div class="figure">
 <img src="img/BDEC-scientific-method.png" alt="Figure 11: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis." id="fig:BDEC-scientific-method" />
-<p class="caption">Figure 11: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.<a href="#fn160" class="footnoteRef" id="fnref160"><sup>160</sup></a></p>
+<p class="caption">Figure 11: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.<a href="#fn161" class="footnoteRef" id="fnref161"><sup>161</sup></a></p>
 </div>
 <h2 id="implications-for-the-realism-debate">Implications for the realism debate</h2>
 <ul>
-<li>Korb<a href="#fn161" class="footnoteRef" id="fnref161"><sup>161</sup></a></li>
-<li>Williamson<a href="#fn162" class="footnoteRef" id="fnref162"><sup>162</sup></a></li>
-<li>Bensusan<a href="#fn163" class="footnoteRef" id="fnref163"><sup>163</sup></a></li>
+<li>Korb<a href="#fn162" class="footnoteRef" id="fnref162"><sup>162</sup></a></li>
+<li>Williamson<a href="#fn163" class="footnoteRef" id="fnref163"><sup>163</sup></a></li>
+<li>Bensusan<a href="#fn164" class="footnoteRef" id="fnref164"><sup>164</sup></a></li>
 <li>Note that NLP has implications to the philosophy of language and realism
 <ul>
-<li><a href="http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/">NLP word representations and the Wittgenstein philosophy of language</a>.<a href="#fn164" class="footnoteRef" id="fnref164"><sup>164</sup></a></li>
+<li><a href="http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/">NLP word representations and the Wittgenstein philosophy of language</a>.<a href="#fn165" class="footnoteRef" id="fnref165"><sup>165</sup></a></li>
 </ul></li>
 <li>See the <a href="scientific-realism.html">Outline on scientific realism</a></li>
 </ul>
@@ -1377,8 +1379,8 @@ D_\mathrm{KL}(p, q)
 <hr />
 <h3 id="more-articles-to-do">More articles to do</h3>
 <ul>
-<li><em>All of Statistics</em><a href="#fn165" class="footnoteRef" id="fnref165"><sup>165</sup></a></li>
-<li><em>The Foundations of Statistics</em><a href="#fn166" class="footnoteRef" id="fnref166"><sup>166</sup></a></li>
+<li><em>All of Statistics</em><a href="#fn166" class="footnoteRef" id="fnref166"><sup>166</sup></a></li>
+<li><em>The Foundations of Statistics</em><a href="#fn167" class="footnoteRef" id="fnref167"><sup>167</sup></a></li>
 </ul>
 <h2 id="links-and-encyclopedia-articles">Links and encyclopedia articles</h2>
 <div class="clickmore">
@@ -2015,168 +2017,169 @@ D_\mathrm{KL}(p, q)
 <li id="fn2"><p><span class="citation">Goodfellow, Bengio, &amp; Courville (2016)</span>, p.&#160;72-73.<a href="#fnref2">&#8617;</a></p></li>
 <li id="fn3"><p><span class="citation">Weisberg (2019)</span>, ch.&#160;15.<a href="#fnref3">&#8617;</a></p></li>
 <li id="fn4"><p><span class="citation">Cranmer (2015)</span>, p.&#160;6.<a href="#fnref4">&#8617;</a></p></li>
-<li id="fn5"><p><span class="citation">Carnap (1945)</span>.<a href="#fnref5">&#8617;</a></p></li>
-<li id="fn6"><p><span class="citation">Royall (1997)</span>, p.&#160;171&#8211;2.<a href="#fnref6">&#8617;</a></p></li>
-<li id="fn7"><p><span class="citation">Edwards (1974)</span>, p.&#160;9.<a href="#fnref7">&#8617;</a></p></li>
-<li id="fn8"><p><span class="citation">Hacking (1971)</span>.<a href="#fnref8">&#8617;</a></p></li>
-<li id="fn9"><p>Bernoulli, J. (1713). <em>Ars Conjectandi</em>, Chapter II, Part IV, defining the art of conjecture [<a href="https://en.wikiquote.org/wiki/Jacob_Bernoulli">wikiquote</a>].<a href="#fnref9">&#8617;</a></p></li>
-<li id="fn10"><p><span class="citation">Venn (1888)</span>.<a href="#fnref10">&#8617;</a></p></li>
-<li id="fn11"><p><span class="citation">Peirce (1883)</span>, p.&#160;126&#8211;181.<a href="#fnref11">&#8617;</a></p></li>
-<li id="fn12"><p><span class="citation">Fisher (1912)</span>.<a href="#fnref12">&#8617;</a></p></li>
-<li id="fn13"><p><span class="citation">Fisher (1915)</span>.<a href="#fnref13">&#8617;</a></p></li>
-<li id="fn14"><p><span class="citation">Fisher (1921)</span>.<a href="#fnref14">&#8617;</a></p></li>
-<li id="fn15"><p><span class="citation">Salsburg (2001)</span>.<a href="#fnref15">&#8617;</a></p></li>
-<li id="fn16"><p><span class="citation">Reid (1998)</span>.<a href="#fnref16">&#8617;</a></p></li>
-<li id="fn17"><p><span class="citation">Stuart, Ord, &amp; Arnold (2010)</span>.<a href="#fnref17">&#8617;</a></p></li>
-<li id="fn18"><p><span class="citation">James (2006)</span>.<a href="#fnref18">&#8617;</a></p></li>
-<li id="fn19"><p><span class="citation">Cousins (2018)</span>.<a href="#fnref19">&#8617;</a></p></li>
-<li id="fn20"><p><span class="citation">Cowan (1998)</span> and <span class="citation">Cowan (2016)</span>.<a href="#fnref20">&#8617;</a></p></li>
-<li id="fn21"><p><span class="citation">Lista (2016)</span>.<a href="#fnref21">&#8617;</a></p></li>
-<li id="fn22"><p><span class="citation">Cranmer (2015)</span>.<a href="#fnref22">&#8617;</a></p></li>
-<li id="fn23"><p><span class="citation">Weisberg (2019)</span>.<a href="#fnref23">&#8617;</a></p></li>
-<li id="fn24"><p><span class="citation">Leemis &amp; McQueston (2008)</span>.<a href="#fnref24">&#8617;</a></p></li>
-<li id="fn25"><p><span class="citation">Cranmer, K. et al. (2012)</span>.<a href="#fnref25">&#8617;</a></p></li>
-<li id="fn26"><p><span class="citation">Cowan (1998)</span> and <span class="citation">Cowan (2016)</span>, p.&#160;X.<a href="#fnref26">&#8617;</a></p></li>
-<li id="fn27"><p><span class="citation">Aldrich (1997)</span>.<a href="#fnref27">&#8617;</a></p></li>
-<li id="fn28"><p><span class="citation">Fr&#233;chet (1943)</span>, <span class="citation">Cram&#233;r (1946)</span>, <span class="citation">Rao (1945)</span>, and <span class="citation">Rao (1947)</span>.<a href="#fnref28">&#8617;</a></p></li>
-<li id="fn29"><p><span class="citation">Rice (2007)</span>, p.&#160;300&#8211;2.<a href="#fnref29">&#8617;</a></p></li>
-<li id="fn30"><p><span class="citation">Clopper &amp; Pearson (1934)</span>.<a href="#fnref30">&#8617;</a></p></li>
-<li id="fn31"><p><span class="citation">Hanley &amp; Lippman-Hand (1983)</span>.<a href="#fnref31">&#8617;</a></p></li>
-<li id="fn32"><p><span class="citation">L. D. Brown, Cai, &amp; DasGupta (2001)</span>.<a href="#fnref32">&#8617;</a></p></li>
-<li id="fn33"><p><span class="citation">Fisher (1935)</span>, p.&#160;16.<a href="#fnref33">&#8617;</a></p></li>
-<li id="fn34"><p><span class="citation">Goodman (1999)</span>. p.&#160;998.<a href="#fnref34">&#8617;</a></p></li>
-<li id="fn35"><p><span class="citation">Neyman &amp; Pearson (1933)</span>.<a href="#fnref35">&#8617;</a></p></li>
-<li id="fn36"><p><span class="citation">Sinervo (2002)</span> and <span class="citation">Cowan (2012)</span>.<a href="#fnref36">&#8617;</a></p></li>
-<li id="fn37"><p><span class="citation">Feldman &amp; Cousins (1998)</span>.<a href="#fnref37">&#8617;</a></p></li>
-<li id="fn38"><p><span class="citation">Junk (1999)</span>.<a href="#fnref38">&#8617;</a></p></li>
-<li id="fn39"><p><span class="citation">Read (2002)</span>.<a href="#fnref39">&#8617;</a></p></li>
-<li id="fn40"><p><span class="citation">ATLAS Statistics Forum (2011)</span>.<a href="#fnref40">&#8617;</a></p></li>
-<li id="fn41"><p><span class="citation">Wilks (1938)</span>.<a href="#fnref41">&#8617;</a></p></li>
-<li id="fn42"><p><span class="citation">Wald (1943)</span>.<a href="#fnref42">&#8617;</a></p></li>
-<li id="fn43"><p><span class="citation">Cowan, Cranmer, Gross, &amp; Vitells (2011)</span>.<a href="#fnref43">&#8617;</a></p></li>
-<li id="fn44"><p><span class="citation">Murphy (2012)</span>, p.&#160;197.<a href="#fnref44">&#8617;</a></p></li>
-<li id="fn45"><p><span class="citation">Sinervo (2003)</span>.<a href="#fnref45">&#8617;</a></p></li>
-<li id="fn46"><p><span class="citation">Caldeira &amp; Nord (2020)</span>.<a href="#fnref46">&#8617;</a></p></li>
-<li id="fn47"><p><span class="citation">Tukey (1977)</span>.<a href="#fnref47">&#8617;</a></p></li>
-<li id="fn48"><p><span class="citation">Kruschke &amp; Liddell (2018)</span>.<a href="#fnref48">&#8617;</a></p></li>
-<li id="fn49"><p><span class="citation">Edwards (1974)</span>.<a href="#fnref49">&#8617;</a></p></li>
-<li id="fn50"><p><span class="citation">Birnbaum (1962)</span>.<a href="#fnref50">&#8617;</a></p></li>
-<li id="fn51"><p><span class="citation">Hacking (1965)</span>.<a href="#fnref51">&#8617;</a></p></li>
-<li id="fn52"><p><span class="citation">Berger &amp; Wolpert (1988)</span>.<a href="#fnref52">&#8617;</a></p></li>
-<li id="fn53"><p><span class="citation">O&#8217;Hagan (2010)</span>, p.&#160;17&#8211;18.<a href="#fnref53">&#8617;</a></p></li>
-<li id="fn54"><p><span class="citation">Evans (2013)</span>.<a href="#fnref54">&#8617;</a></p></li>
-<li id="fn55"><p><span class="citation">Mayo (2014)</span>.<a href="#fnref55">&#8617;</a></p></li>
-<li id="fn56"><p><span class="citation">Mayo (2019)</span>.<a href="#fnref56">&#8617;</a></p></li>
-<li id="fn57"><p><span class="citation">Gandenberger (2015)</span>.<a href="#fnref57">&#8617;</a></p></li>
-<li id="fn58"><p><span class="citation">Mayo (2019)</span>.<a href="#fnref58">&#8617;</a></p></li>
-<li id="fn59"><p><span class="citation">Sznajder (2018)</span>.<a href="#fnref59">&#8617;</a></p></li>
-<li id="fn60"><p><span class="citation">Hacking (1965)</span>.<a href="#fnref60">&#8617;</a></p></li>
-<li id="fn61"><p><span class="citation">Neyman (1977)</span>.<a href="#fnref61">&#8617;</a></p></li>
-<li id="fn62"><p><span class="citation">Zech (1995)</span>.<a href="#fnref62">&#8617;</a></p></li>
-<li id="fn63"><p><span class="citation">Royall (1997)</span>.<a href="#fnref63">&#8617;</a></p></li>
-<li id="fn64"><p><span class="citation">Berger (2003)</span>.<a href="#fnref64">&#8617;</a></p></li>
-<li id="fn65"><p><span class="citation">Mayo (1981)</span>.<a href="#fnref65">&#8617;</a></p></li>
-<li id="fn66"><p><span class="citation">Mayo (1996)</span>.<a href="#fnref66">&#8617;</a></p></li>
-<li id="fn67"><p><span class="citation">Mayo &amp; Spanos (2006)</span>.<a href="#fnref67">&#8617;</a></p></li>
-<li id="fn68"><p><span class="citation">Mayo &amp; Spanos (2011)</span>.<a href="#fnref68">&#8617;</a></p></li>
-<li id="fn69"><p><span class="citation">Mayo (2018)</span>.<a href="#fnref69">&#8617;</a></p></li>
-<li id="fn70"><p><span class="citation">Gelman &amp; Hennig (2017)</span>.<a href="#fnref70">&#8617;</a></p></li>
-<li id="fn71"><p><span class="citation">Murphy (2012)</span>, ch.&#160;6.6.<a href="#fnref71">&#8617;</a></p></li>
-<li id="fn72"><p><span class="citation">Gandenberger (2016)</span>.<a href="#fnref72">&#8617;</a></p></li>
-<li id="fn73"><p><span class="citation">Kruschke &amp; Liddell (2018)</span>.<a href="#fnref73">&#8617;</a></p></li>
-<li id="fn74"><p><span class="citation">Ioannidis (2005)</span>.<a href="#fnref74">&#8617;</a></p></li>
-<li id="fn75"><p><span class="citation">Wasserstein &amp; Lazar (2016)</span>.<a href="#fnref75">&#8617;</a></p></li>
-<li id="fn76"><p><span class="citation">Benjamin, D.J. et al. (2017)</span>.<a href="#fnref76">&#8617;</a></p></li>
-<li id="fn77"><p><span class="citation">Fisher (1935)</span>, p.&#160;13&#8211;14.<a href="#fnref77">&#8617;</a></p></li>
-<li id="fn78"><p><span class="citation">Mayo (2020)</span>.<a href="#fnref78">&#8617;</a></p></li>
-<li id="fn79"><p><span class="citation">Hastie, Tibshirani, &amp; Friedman (2009)</span>.<a href="#fnref79">&#8617;</a></p></li>
-<li id="fn80"><p><span class="citation">MacKay (2003)</span>.<a href="#fnref80">&#8617;</a></p></li>
-<li id="fn81"><p><span class="citation">Vapnik, Levin, &amp; LeCun (1994)</span>.<a href="#fnref81">&#8617;</a></p></li>
-<li id="fn82"><p><span class="citation">Murphy (2012)</span>, p.&#160;21.<a href="#fnref82">&#8617;</a></p></li>
-<li id="fn83"><p>Note: <em>Label smoothing</em> is a regularization technique that smears the activation over other labels, but we don&#8217;t do that here.<a href="#fnref83">&#8617;</a></p></li>
-<li id="fn84"><p>&#8220;Logit&#8221; was coined by <a href="https://en.wikipedia.org/wiki/Joseph_Berkson">Joseph Berkson</a> (1899-1982).<a href="#fnref84">&#8617;</a></p></li>
-<li id="fn85"><p><span class="citation">McFadden &amp; Zarembka (1973)</span>.<a href="#fnref85">&#8617;</a></p></li>
-<li id="fn86"><p><span class="citation">Blondel, Martins, &amp; Niculae (2020)</span>.<a href="#fnref86">&#8617;</a></p></li>
-<li id="fn87"><p><span class="citation">Goodfellow et al. (2016)</span>, p.&#160;129.<a href="#fnref87">&#8617;</a></p></li>
-<li id="fn88"><p><span class="citation">Bengio (2009)</span>.<a href="#fnref88">&#8617;</a></p></li>
-<li id="fn89"><p><span class="citation">LeCun, Bengio, &amp; Hinton (2015)</span>.<a href="#fnref89">&#8617;</a></p></li>
-<li id="fn90"><p><span class="citation">Goodfellow et al. (2016)</span>.<a href="#fnref90">&#8617;</a></p></li>
-<li id="fn91"><p><span class="citation">Rumelhart, Hinton, &amp; Williams (1986)</span>.<a href="#fnref91">&#8617;</a></p></li>
-<li id="fn92"><p><span class="citation">Spears, B.K. et al. (2018)</span>.<a href="#fnref92">&#8617;</a></p></li>
-<li id="fn93"><p><span class="citation">Watson &amp; Floridi (2019)</span>.<a href="#fnref93">&#8617;</a></p></li>
-<li id="fn94"><p><span class="citation">Bengio (2009)</span>.<a href="#fnref94">&#8617;</a></p></li>
-<li id="fn95"><p><span class="citation">Belkin, Hsu, Ma, &amp; Mandal (2019)</span>.<a href="#fnref95">&#8617;</a></p></li>
-<li id="fn96"><p><span class="citation">Nakkiran, P. et al. (2019)</span>.<a href="#fnref96">&#8617;</a></p></li>
-<li id="fn97"><p>Mishra, D. (2020). <a href="https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd">Weight Decay == L2 Regularization?</a><a href="#fnref97">&#8617;</a></p></li>
-<li id="fn98"><p><span class="citation">S. Chen, Dobriban, &amp; Lee (2020)</span>.<a href="#fnref98">&#8617;</a></p></li>
-<li id="fn99"><p><span class="citation">Fukushima &amp; Miyake (1982)</span>.<a href="#fnref99">&#8617;</a></p></li>
-<li id="fn100"><p><span class="citation">LeCun, Y. et al. (1989)</span>.<a href="#fnref100">&#8617;</a></p></li>
-<li id="fn101"><p><span class="citation">LeCun, Bottou, Bengio, &amp; Haffner (1998)</span>.<a href="#fnref101">&#8617;</a></p></li>
-<li id="fn102"><p><span class="citation">Ciresan, Meier, Masci, &amp; Schmidhuber (2012)</span>.<a href="#fnref102">&#8617;</a></p></li>
-<li id="fn103"><p><span class="citation">Krizhevsky, Sutskever, &amp; Hinton (2012)</span>.<a href="#fnref103">&#8617;</a></p></li>
-<li id="fn104"><p><span class="citation">Simonyan &amp; Zisserman (2014)</span>.<a href="#fnref104">&#8617;</a></p></li>
-<li id="fn105"><p><span class="citation">He, Zhang, Ren, &amp; Sun (2015)</span>.<a href="#fnref105">&#8617;</a></p></li>
-<li id="fn106"><p><span class="citation">Howard, A.G. et al. (2017)</span>.<a href="#fnref106">&#8617;</a></p></li>
-<li id="fn107"><p><span class="citation">Tan &amp; Le (2019)</span>.<a href="#fnref107">&#8617;</a></p></li>
-<li id="fn108"><p><span class="citation">Mikolov, Chen, Corrado, &amp; Dean (2013)</span> and <span class="citation">Mikolov, Yih, &amp; Zweig (2013)</span>.<a href="#fnref108">&#8617;</a></p></li>
-<li id="fn109"><p><span class="citation">Hochreiter &amp; Schmidhuber (1997)</span>.<a href="#fnref109">&#8617;</a></p></li>
-<li id="fn110"><p><span class="citation">Sutskever, Vinyals, &amp; Le (2014)</span>.<a href="#fnref110">&#8617;</a></p></li>
-<li id="fn111"><p><span class="citation">Bahdanau, Cho, &amp; Bengio (2015)</span>.<a href="#fnref111">&#8617;</a></p></li>
-<li id="fn112"><p><span class="citation">Wu, Y. et al. (2016)</span>.<a href="#fnref112">&#8617;</a></p></li>
-<li id="fn113"><p><span class="citation">Stahlberg (2019)</span>.<a href="#fnref113">&#8617;</a></p></li>
-<li id="fn114"><p><span class="citation">Church &amp; Hestness (2019)</span>.<a href="#fnref114">&#8617;</a></p></li>
-<li id="fn115"><p><span class="citation">Vaswani, A. et al. (2017)</span>.<a href="#fnref115">&#8617;</a></p></li>
-<li id="fn116"><p><span class="citation">Devlin, Chang, Lee, &amp; Toutanova (2018)</span>.<a href="#fnref116">&#8617;</a></p></li>
-<li id="fn117"><p><span class="citation">Lan, Z. et al. (2019)</span>.<a href="#fnref117">&#8617;</a></p></li>
-<li id="fn118"><p><span class="citation">Radford, Narasimhan, Salimans, &amp; Sutskever (2018)</span>.<a href="#fnref118">&#8617;</a></p></li>
-<li id="fn119"><p><span class="citation">Radford, A. et al. (2019)</span>.<a href="#fnref119">&#8617;</a></p></li>
-<li id="fn120"><p><span class="citation">Brown, T.B. et al. (2020)</span>.<a href="#fnref120">&#8617;</a></p></li>
-<li id="fn121"><p><span class="citation">Fuchs, Worrall, Fischer, &amp; Welling (2020)</span>.<a href="#fnref121">&#8617;</a></p></li>
-<li id="fn122"><p><span class="citation">Sutton &amp; Barto (2018)</span>.<a href="#fnref122">&#8617;</a></p></li>
-<li id="fn123"><p><span class="citation">Arulkumaran, Deisenroth, Brundage, &amp; Bharath (2017)</span>.<a href="#fnref123">&#8617;</a></p></li>
-<li id="fn124"><p><span class="citation">Bellman (1952)</span>.<a href="#fnref124">&#8617;</a></p></li>
-<li id="fn125"><p><span class="citation">Mnih, V. et al. (2013)</span> and <span class="citation">Mnih, V. et al. (2015)</span>.<a href="#fnref125">&#8617;</a></p></li>
-<li id="fn126"><p><span class="citation">Silver, D. et al. (2016)</span>.<a href="#fnref126">&#8617;</a></p></li>
-<li id="fn127"><p><span class="citation">Silver, D. et al. (2017b)</span>.<a href="#fnref127">&#8617;</a></p></li>
-<li id="fn128"><p><span class="citation">Silver, D. et al. (2017a)</span>.<a href="#fnref128">&#8617;</a></p></li>
-<li id="fn129"><p><span class="citation">Zinkevich, Johanson, Bowling, &amp; Piccione (2007)</span>.<a href="#fnref129">&#8617;</a></p></li>
-<li id="fn130"><p><span class="citation">Lanctot, Waugh, Zinkevich, &amp; Bowling (2009)</span>.<a href="#fnref130">&#8617;</a></p></li>
-<li id="fn131"><p><span class="citation">Neller &amp; Lanctot (2013)</span>.<a href="#fnref131">&#8617;</a></p></li>
-<li id="fn132"><p><span class="citation">Bowling, Burch, Johanson, &amp; Tammelin (2015)</span>.<a href="#fnref132">&#8617;</a></p></li>
-<li id="fn133"><p><span class="citation">Heinrich &amp; Silver (2016)</span>.<a href="#fnref133">&#8617;</a></p></li>
-<li id="fn134"><p><span class="citation">Moravcik, M. et al. (2017)</span>.<a href="#fnref134">&#8617;</a></p></li>
-<li id="fn135"><p><span class="citation">N. Brown &amp; Sandholm (2018)</span>.<a href="#fnref135">&#8617;</a></p></li>
-<li id="fn136"><p><span class="citation">N. Brown &amp; Sandholm (2019a)</span>.<a href="#fnref136">&#8617;</a></p></li>
-<li id="fn137"><p><span class="citation">N. Brown, Lerer, Gross, &amp; Sandholm (2019)</span>.<a href="#fnref137">&#8617;</a></p></li>
-<li id="fn138"><p><span class="citation">N. Brown &amp; Sandholm (2019b)</span>.<a href="#fnref138">&#8617;</a></p></li>
-<li id="fn139"><p><span class="citation">N. Brown, Bakhtin, Lerer, &amp; Gong (2020)</span>.<a href="#fnref139">&#8617;</a></p></li>
-<li id="fn140"><p><span class="citation">D. H. Wolpert &amp; Macready (1995)</span>.<a href="#fnref140">&#8617;</a></p></li>
-<li id="fn141"><p><span class="citation">D. H. Wolpert (1996)</span>.<a href="#fnref141">&#8617;</a></p></li>
-<li id="fn142"><p><span class="citation">D. H. Wolpert &amp; Macready (1997)</span>.<a href="#fnref142">&#8617;</a></p></li>
-<li id="fn143"><p><span class="citation">Bahri, Y. et al. (2020)</span>.<a href="#fnref143">&#8617;</a></p></li>
-<li id="fn144"><p><span class="citation">Halverson, Maiti, &amp; Stoner (2020)</span>.<a href="#fnref144">&#8617;</a></p></li>
-<li id="fn145"><p><span class="citation">Cohen &amp; Welling (2016)</span>.<a href="#fnref145">&#8617;</a></p></li>
-<li id="fn146"><p><span class="citation">Cohen, Weiler, Kicanaoglu, &amp; Welling (2019)</span>.<a href="#fnref146">&#8617;</a></p></li>
-<li id="fn147"><p><span class="citation">Smith (2019)</span>.<a href="#fnref147">&#8617;</a></p></li>
-<li id="fn148"><p><span class="citation">Nielsen (2018)</span>.<a href="#fnref148">&#8617;</a></p></li>
-<li id="fn149"><p><span class="citation">Amari (2016)</span>.<a href="#fnref149">&#8617;</a></p></li>
-<li id="fn150"><p><span class="citation">Balasubramanian (1996a)</span>.<a href="#fnref150">&#8617;</a></p></li>
-<li id="fn151"><p><span class="citation">Balasubramanian (1996b)</span>.<a href="#fnref151">&#8617;</a></p></li>
-<li id="fn152"><p><span class="citation">Calin &amp; Udriste (2014)</span>.<a href="#fnref152">&#8617;</a></p></li>
-<li id="fn153"><p><span class="citation">Lei, Luo, Yau, &amp; Gu (2018)</span><a href="#fnref153">&#8617;</a></p></li>
-<li id="fn154"><p><span class="citation">Cranmer, Brehmer, &amp; Louppe (2019)</span>.<a href="#fnref154">&#8617;</a></p></li>
-<li id="fn155"><p><span class="citation">D&#8217;Agnolo &amp; Wulzer (2019)</span>.<a href="#fnref155">&#8617;</a></p></li>
-<li id="fn156"><p><span class="citation">Asch, M. et al. (2018)</span>.<a href="#fnref156">&#8617;</a></p></li>
-<li id="fn157"><p><span class="citation">Anderson (2008)</span>.<a href="#fnref157">&#8617;</a></p></li>
-<li id="fn158"><p><span class="citation">Udrescu &amp; Tegmark (2020)</span>.<a href="#fnref158">&#8617;</a></p></li>
-<li id="fn159"><p><span class="citation">Cranmer, M. et al. (2020)</span>.<a href="#fnref159">&#8617;</a></p></li>
-<li id="fn160"><p><span class="citation">Asch, M. et al. (2018)</span>.<a href="#fnref160">&#8617;</a></p></li>
-<li id="fn161"><p><span class="citation">Korb (2001)</span>.<a href="#fnref161">&#8617;</a></p></li>
-<li id="fn162"><p><span class="citation">Williamson (2009)</span>.<a href="#fnref162">&#8617;</a></p></li>
-<li id="fn163"><p><span class="citation">Bensusan (2000)</span>.<a href="#fnref163">&#8617;</a></p></li>
-<li id="fn164"><p><span class="citation">Perone (2018)</span>.<a href="#fnref164">&#8617;</a></p></li>
-<li id="fn165"><p><span class="citation">Wasserman (2003)</span>.<a href="#fnref165">&#8617;</a></p></li>
-<li id="fn166"><p><span class="citation">Savage (1954)</span>.<a href="#fnref166">&#8617;</a></p></li>
+<li id="fn5"><p><span class="citation">Neyman &amp; Pearson (1933)</span>.<a href="#fnref5">&#8617;</a></p></li>
+<li id="fn6"><p><span class="citation">Edwards (1974)</span>, p.&#160;9.<a href="#fnref6">&#8617;</a></p></li>
+<li id="fn7"><p><span class="citation">Hacking (1971)</span>.<a href="#fnref7">&#8617;</a></p></li>
+<li id="fn8"><p>Bernoulli, J. (1713). <em>Ars Conjectandi</em>, Chapter II, Part IV, defining the art of conjecture [<a href="https://en.wikiquote.org/wiki/Jacob_Bernoulli">wikiquote</a>].<a href="#fnref8">&#8617;</a></p></li>
+<li id="fn9"><p><span class="citation">Venn (1888)</span>.<a href="#fnref9">&#8617;</a></p></li>
+<li id="fn10"><p><span class="citation">Peirce (1883)</span>, p.&#160;126&#8211;181.<a href="#fnref10">&#8617;</a></p></li>
+<li id="fn11"><p><span class="citation">Fisher (1912)</span>.<a href="#fnref11">&#8617;</a></p></li>
+<li id="fn12"><p><span class="citation">Fisher (1915)</span>.<a href="#fnref12">&#8617;</a></p></li>
+<li id="fn13"><p><span class="citation">Fisher (1921)</span>.<a href="#fnref13">&#8617;</a></p></li>
+<li id="fn14"><p><span class="citation">Salsburg (2001)</span>.<a href="#fnref14">&#8617;</a></p></li>
+<li id="fn15"><p><span class="citation">Reid (1998)</span>.<a href="#fnref15">&#8617;</a></p></li>
+<li id="fn16"><p><span class="citation">Stuart, Ord, &amp; Arnold (2010)</span>.<a href="#fnref16">&#8617;</a></p></li>
+<li id="fn17"><p><span class="citation">James (2006)</span>.<a href="#fnref17">&#8617;</a></p></li>
+<li id="fn18"><p><span class="citation">Cousins (2018)</span>.<a href="#fnref18">&#8617;</a></p></li>
+<li id="fn19"><p><span class="citation">Cowan (1998)</span> and <span class="citation">Cowan (2016)</span>.<a href="#fnref19">&#8617;</a></p></li>
+<li id="fn20"><p><span class="citation">Lista (2016)</span>.<a href="#fnref20">&#8617;</a></p></li>
+<li id="fn21"><p><span class="citation">Cranmer (2015)</span>.<a href="#fnref21">&#8617;</a></p></li>
+<li id="fn22"><p><span class="citation">Weisberg (2019)</span>.<a href="#fnref22">&#8617;</a></p></li>
+<li id="fn23"><p><span class="citation">Leemis &amp; McQueston (2008)</span>.<a href="#fnref23">&#8617;</a></p></li>
+<li id="fn24"><p><span class="citation">Cranmer, K. et al. (2012)</span>.<a href="#fnref24">&#8617;</a></p></li>
+<li id="fn25"><p><span class="citation">Cowan (1998)</span> and <span class="citation">Cowan (2016)</span>, p.&#160;X.<a href="#fnref25">&#8617;</a></p></li>
+<li id="fn26"><p><span class="citation">Aldrich (1997)</span>.<a href="#fnref26">&#8617;</a></p></li>
+<li id="fn27"><p><span class="citation">Fr&#233;chet (1943)</span>, <span class="citation">Cram&#233;r (1946)</span>, <span class="citation">Rao (1945)</span>, and <span class="citation">Rao (1947)</span>.<a href="#fnref27">&#8617;</a></p></li>
+<li id="fn28"><p><span class="citation">Rice (2007)</span>, p.&#160;300&#8211;2.<a href="#fnref28">&#8617;</a></p></li>
+<li id="fn29"><p><span class="citation">Clopper &amp; Pearson (1934)</span>.<a href="#fnref29">&#8617;</a></p></li>
+<li id="fn30"><p><span class="citation">Hanley &amp; Lippman-Hand (1983)</span>.<a href="#fnref30">&#8617;</a></p></li>
+<li id="fn31"><p><span class="citation">L. D. Brown, Cai, &amp; DasGupta (2001)</span>.<a href="#fnref31">&#8617;</a></p></li>
+<li id="fn32"><p><span class="citation">Fisher (1935)</span>, p.&#160;16.<a href="#fnref32">&#8617;</a></p></li>
+<li id="fn33"><p><span class="citation">Goodman (1999)</span>. p.&#160;998.<a href="#fnref33">&#8617;</a></p></li>
+<li id="fn34"><p><span class="citation">Neyman &amp; Pearson (1933)</span>.<a href="#fnref34">&#8617;</a></p></li>
+<li id="fn35"><p><span class="citation">Sinervo (2002)</span> and <span class="citation">Cowan (2012)</span>.<a href="#fnref35">&#8617;</a></p></li>
+<li id="fn36"><p><span class="citation">Feldman &amp; Cousins (1998)</span>.<a href="#fnref36">&#8617;</a></p></li>
+<li id="fn37"><p><span class="citation">Junk (1999)</span>.<a href="#fnref37">&#8617;</a></p></li>
+<li id="fn38"><p><span class="citation">Read (2002)</span>.<a href="#fnref38">&#8617;</a></p></li>
+<li id="fn39"><p><span class="citation">ATLAS Statistics Forum (2011)</span>.<a href="#fnref39">&#8617;</a></p></li>
+<li id="fn40"><p><span class="citation">Wilks (1938)</span>.<a href="#fnref40">&#8617;</a></p></li>
+<li id="fn41"><p><span class="citation">Wald (1943)</span>.<a href="#fnref41">&#8617;</a></p></li>
+<li id="fn42"><p><span class="citation">Cowan, Cranmer, Gross, &amp; Vitells (2011)</span>.<a href="#fnref42">&#8617;</a></p></li>
+<li id="fn43"><p><span class="citation">Murphy (2012)</span>, p.&#160;197.<a href="#fnref43">&#8617;</a></p></li>
+<li id="fn44"><p><span class="citation">Sinervo (2003)</span>.<a href="#fnref44">&#8617;</a></p></li>
+<li id="fn45"><p><span class="citation">Caldeira &amp; Nord (2020)</span>.<a href="#fnref45">&#8617;</a></p></li>
+<li id="fn46"><p><span class="citation">Tukey (1977)</span>.<a href="#fnref46">&#8617;</a></p></li>
+<li id="fn47"><p><span class="citation">Carnap (1945)</span>.<a href="#fnref47">&#8617;</a></p></li>
+<li id="fn48"><p><span class="citation">Royall (1997)</span>, p.&#160;171&#8211;2.<a href="#fnref48">&#8617;</a></p></li>
+<li id="fn49"><p><span class="citation">Kruschke &amp; Liddell (2018)</span>.<a href="#fnref49">&#8617;</a></p></li>
+<li id="fn50"><p><span class="citation">Edwards (1974)</span>.<a href="#fnref50">&#8617;</a></p></li>
+<li id="fn51"><p><span class="citation">Birnbaum (1962)</span>.<a href="#fnref51">&#8617;</a></p></li>
+<li id="fn52"><p><span class="citation">Hacking (1965)</span>.<a href="#fnref52">&#8617;</a></p></li>
+<li id="fn53"><p><span class="citation">Berger &amp; Wolpert (1988)</span>.<a href="#fnref53">&#8617;</a></p></li>
+<li id="fn54"><p><span class="citation">O&#8217;Hagan (2010)</span>, p.&#160;17&#8211;18.<a href="#fnref54">&#8617;</a></p></li>
+<li id="fn55"><p><span class="citation">Evans (2013)</span>.<a href="#fnref55">&#8617;</a></p></li>
+<li id="fn56"><p><span class="citation">Mayo (2014)</span>.<a href="#fnref56">&#8617;</a></p></li>
+<li id="fn57"><p><span class="citation">Mayo (2019)</span>.<a href="#fnref57">&#8617;</a></p></li>
+<li id="fn58"><p><span class="citation">Gandenberger (2015)</span>.<a href="#fnref58">&#8617;</a></p></li>
+<li id="fn59"><p><span class="citation">Mayo (2019)</span>.<a href="#fnref59">&#8617;</a></p></li>
+<li id="fn60"><p><span class="citation">Sznajder (2018)</span>.<a href="#fnref60">&#8617;</a></p></li>
+<li id="fn61"><p><span class="citation">Hacking (1965)</span>.<a href="#fnref61">&#8617;</a></p></li>
+<li id="fn62"><p><span class="citation">Neyman (1977)</span>.<a href="#fnref62">&#8617;</a></p></li>
+<li id="fn63"><p><span class="citation">Zech (1995)</span>.<a href="#fnref63">&#8617;</a></p></li>
+<li id="fn64"><p><span class="citation">Royall (1997)</span>.<a href="#fnref64">&#8617;</a></p></li>
+<li id="fn65"><p><span class="citation">Berger (2003)</span>.<a href="#fnref65">&#8617;</a></p></li>
+<li id="fn66"><p><span class="citation">Mayo (1981)</span>.<a href="#fnref66">&#8617;</a></p></li>
+<li id="fn67"><p><span class="citation">Mayo (1996)</span>.<a href="#fnref67">&#8617;</a></p></li>
+<li id="fn68"><p><span class="citation">Mayo &amp; Spanos (2006)</span>.<a href="#fnref68">&#8617;</a></p></li>
+<li id="fn69"><p><span class="citation">Mayo &amp; Spanos (2011)</span>.<a href="#fnref69">&#8617;</a></p></li>
+<li id="fn70"><p><span class="citation">Mayo (2018)</span>.<a href="#fnref70">&#8617;</a></p></li>
+<li id="fn71"><p><span class="citation">Gelman &amp; Hennig (2017)</span>.<a href="#fnref71">&#8617;</a></p></li>
+<li id="fn72"><p><span class="citation">Murphy (2012)</span>, ch.&#160;6.6.<a href="#fnref72">&#8617;</a></p></li>
+<li id="fn73"><p><span class="citation">Gandenberger (2016)</span>.<a href="#fnref73">&#8617;</a></p></li>
+<li id="fn74"><p><span class="citation">Kruschke &amp; Liddell (2018)</span>.<a href="#fnref74">&#8617;</a></p></li>
+<li id="fn75"><p><span class="citation">Ioannidis (2005)</span>.<a href="#fnref75">&#8617;</a></p></li>
+<li id="fn76"><p><span class="citation">Wasserstein &amp; Lazar (2016)</span>.<a href="#fnref76">&#8617;</a></p></li>
+<li id="fn77"><p><span class="citation">Benjamin, D.J. et al. (2017)</span>.<a href="#fnref77">&#8617;</a></p></li>
+<li id="fn78"><p><span class="citation">Fisher (1935)</span>, p.&#160;13&#8211;14.<a href="#fnref78">&#8617;</a></p></li>
+<li id="fn79"><p><span class="citation">Mayo (2020)</span>.<a href="#fnref79">&#8617;</a></p></li>
+<li id="fn80"><p><span class="citation">Hastie, Tibshirani, &amp; Friedman (2009)</span>.<a href="#fnref80">&#8617;</a></p></li>
+<li id="fn81"><p><span class="citation">MacKay (2003)</span>.<a href="#fnref81">&#8617;</a></p></li>
+<li id="fn82"><p><span class="citation">Vapnik, Levin, &amp; LeCun (1994)</span>.<a href="#fnref82">&#8617;</a></p></li>
+<li id="fn83"><p><span class="citation">Murphy (2012)</span>, p.&#160;21.<a href="#fnref83">&#8617;</a></p></li>
+<li id="fn84"><p>Note: <em>Label smoothing</em> is a regularization technique that smears the activation over other labels, but we don&#8217;t do that here.<a href="#fnref84">&#8617;</a></p></li>
+<li id="fn85"><p>&#8220;Logit&#8221; was coined by <a href="https://en.wikipedia.org/wiki/Joseph_Berkson">Joseph Berkson</a> (1899-1982).<a href="#fnref85">&#8617;</a></p></li>
+<li id="fn86"><p><span class="citation">McFadden &amp; Zarembka (1973)</span>.<a href="#fnref86">&#8617;</a></p></li>
+<li id="fn87"><p><span class="citation">Blondel, Martins, &amp; Niculae (2020)</span>.<a href="#fnref87">&#8617;</a></p></li>
+<li id="fn88"><p><span class="citation">Goodfellow et al. (2016)</span>, p.&#160;129.<a href="#fnref88">&#8617;</a></p></li>
+<li id="fn89"><p><span class="citation">Bengio (2009)</span>.<a href="#fnref89">&#8617;</a></p></li>
+<li id="fn90"><p><span class="citation">LeCun, Bengio, &amp; Hinton (2015)</span>.<a href="#fnref90">&#8617;</a></p></li>
+<li id="fn91"><p><span class="citation">Goodfellow et al. (2016)</span>.<a href="#fnref91">&#8617;</a></p></li>
+<li id="fn92"><p><span class="citation">Rumelhart, Hinton, &amp; Williams (1986)</span>.<a href="#fnref92">&#8617;</a></p></li>
+<li id="fn93"><p><span class="citation">Spears, B.K. et al. (2018)</span>.<a href="#fnref93">&#8617;</a></p></li>
+<li id="fn94"><p><span class="citation">Watson &amp; Floridi (2019)</span>.<a href="#fnref94">&#8617;</a></p></li>
+<li id="fn95"><p><span class="citation">Bengio (2009)</span>.<a href="#fnref95">&#8617;</a></p></li>
+<li id="fn96"><p><span class="citation">Belkin, Hsu, Ma, &amp; Mandal (2019)</span>.<a href="#fnref96">&#8617;</a></p></li>
+<li id="fn97"><p><span class="citation">Nakkiran, P. et al. (2019)</span>.<a href="#fnref97">&#8617;</a></p></li>
+<li id="fn98"><p>Mishra, D. (2020). <a href="https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd">Weight Decay == L2 Regularization?</a><a href="#fnref98">&#8617;</a></p></li>
+<li id="fn99"><p><span class="citation">S. Chen, Dobriban, &amp; Lee (2020)</span>.<a href="#fnref99">&#8617;</a></p></li>
+<li id="fn100"><p><span class="citation">Fukushima &amp; Miyake (1982)</span>.<a href="#fnref100">&#8617;</a></p></li>
+<li id="fn101"><p><span class="citation">LeCun, Y. et al. (1989)</span>.<a href="#fnref101">&#8617;</a></p></li>
+<li id="fn102"><p><span class="citation">LeCun, Bottou, Bengio, &amp; Haffner (1998)</span>.<a href="#fnref102">&#8617;</a></p></li>
+<li id="fn103"><p><span class="citation">Ciresan, Meier, Masci, &amp; Schmidhuber (2012)</span>.<a href="#fnref103">&#8617;</a></p></li>
+<li id="fn104"><p><span class="citation">Krizhevsky, Sutskever, &amp; Hinton (2012)</span>.<a href="#fnref104">&#8617;</a></p></li>
+<li id="fn105"><p><span class="citation">Simonyan &amp; Zisserman (2014)</span>.<a href="#fnref105">&#8617;</a></p></li>
+<li id="fn106"><p><span class="citation">He, Zhang, Ren, &amp; Sun (2015)</span>.<a href="#fnref106">&#8617;</a></p></li>
+<li id="fn107"><p><span class="citation">Howard, A.G. et al. (2017)</span>.<a href="#fnref107">&#8617;</a></p></li>
+<li id="fn108"><p><span class="citation">Tan &amp; Le (2019)</span>.<a href="#fnref108">&#8617;</a></p></li>
+<li id="fn109"><p><span class="citation">Mikolov, Chen, Corrado, &amp; Dean (2013)</span> and <span class="citation">Mikolov, Yih, &amp; Zweig (2013)</span>.<a href="#fnref109">&#8617;</a></p></li>
+<li id="fn110"><p><span class="citation">Hochreiter &amp; Schmidhuber (1997)</span>.<a href="#fnref110">&#8617;</a></p></li>
+<li id="fn111"><p><span class="citation">Sutskever, Vinyals, &amp; Le (2014)</span>.<a href="#fnref111">&#8617;</a></p></li>
+<li id="fn112"><p><span class="citation">Bahdanau, Cho, &amp; Bengio (2015)</span>.<a href="#fnref112">&#8617;</a></p></li>
+<li id="fn113"><p><span class="citation">Wu, Y. et al. (2016)</span>.<a href="#fnref113">&#8617;</a></p></li>
+<li id="fn114"><p><span class="citation">Stahlberg (2019)</span>.<a href="#fnref114">&#8617;</a></p></li>
+<li id="fn115"><p><span class="citation">Church &amp; Hestness (2019)</span>.<a href="#fnref115">&#8617;</a></p></li>
+<li id="fn116"><p><span class="citation">Vaswani, A. et al. (2017)</span>.<a href="#fnref116">&#8617;</a></p></li>
+<li id="fn117"><p><span class="citation">Devlin, Chang, Lee, &amp; Toutanova (2018)</span>.<a href="#fnref117">&#8617;</a></p></li>
+<li id="fn118"><p><span class="citation">Lan, Z. et al. (2019)</span>.<a href="#fnref118">&#8617;</a></p></li>
+<li id="fn119"><p><span class="citation">Radford, Narasimhan, Salimans, &amp; Sutskever (2018)</span>.<a href="#fnref119">&#8617;</a></p></li>
+<li id="fn120"><p><span class="citation">Radford, A. et al. (2019)</span>.<a href="#fnref120">&#8617;</a></p></li>
+<li id="fn121"><p><span class="citation">Brown, T.B. et al. (2020)</span>.<a href="#fnref121">&#8617;</a></p></li>
+<li id="fn122"><p><span class="citation">Fuchs, Worrall, Fischer, &amp; Welling (2020)</span>.<a href="#fnref122">&#8617;</a></p></li>
+<li id="fn123"><p><span class="citation">Sutton &amp; Barto (2018)</span>.<a href="#fnref123">&#8617;</a></p></li>
+<li id="fn124"><p><span class="citation">Arulkumaran, Deisenroth, Brundage, &amp; Bharath (2017)</span>.<a href="#fnref124">&#8617;</a></p></li>
+<li id="fn125"><p><span class="citation">Bellman (1952)</span>.<a href="#fnref125">&#8617;</a></p></li>
+<li id="fn126"><p><span class="citation">Mnih, V. et al. (2013)</span> and <span class="citation">Mnih, V. et al. (2015)</span>.<a href="#fnref126">&#8617;</a></p></li>
+<li id="fn127"><p><span class="citation">Silver, D. et al. (2016)</span>.<a href="#fnref127">&#8617;</a></p></li>
+<li id="fn128"><p><span class="citation">Silver, D. et al. (2017b)</span>.<a href="#fnref128">&#8617;</a></p></li>
+<li id="fn129"><p><span class="citation">Silver, D. et al. (2017a)</span>.<a href="#fnref129">&#8617;</a></p></li>
+<li id="fn130"><p><span class="citation">Zinkevich, Johanson, Bowling, &amp; Piccione (2007)</span>.<a href="#fnref130">&#8617;</a></p></li>
+<li id="fn131"><p><span class="citation">Lanctot, Waugh, Zinkevich, &amp; Bowling (2009)</span>.<a href="#fnref131">&#8617;</a></p></li>
+<li id="fn132"><p><span class="citation">Neller &amp; Lanctot (2013)</span>.<a href="#fnref132">&#8617;</a></p></li>
+<li id="fn133"><p><span class="citation">Bowling, Burch, Johanson, &amp; Tammelin (2015)</span>.<a href="#fnref133">&#8617;</a></p></li>
+<li id="fn134"><p><span class="citation">Heinrich &amp; Silver (2016)</span>.<a href="#fnref134">&#8617;</a></p></li>
+<li id="fn135"><p><span class="citation">Moravcik, M. et al. (2017)</span>.<a href="#fnref135">&#8617;</a></p></li>
+<li id="fn136"><p><span class="citation">N. Brown &amp; Sandholm (2018)</span>.<a href="#fnref136">&#8617;</a></p></li>
+<li id="fn137"><p><span class="citation">N. Brown &amp; Sandholm (2019a)</span>.<a href="#fnref137">&#8617;</a></p></li>
+<li id="fn138"><p><span class="citation">N. Brown, Lerer, Gross, &amp; Sandholm (2019)</span>.<a href="#fnref138">&#8617;</a></p></li>
+<li id="fn139"><p><span class="citation">N. Brown &amp; Sandholm (2019b)</span>.<a href="#fnref139">&#8617;</a></p></li>
+<li id="fn140"><p><span class="citation">N. Brown, Bakhtin, Lerer, &amp; Gong (2020)</span>.<a href="#fnref140">&#8617;</a></p></li>
+<li id="fn141"><p><span class="citation">D. H. Wolpert &amp; Macready (1995)</span>.<a href="#fnref141">&#8617;</a></p></li>
+<li id="fn142"><p><span class="citation">D. H. Wolpert (1996)</span>.<a href="#fnref142">&#8617;</a></p></li>
+<li id="fn143"><p><span class="citation">D. H. Wolpert &amp; Macready (1997)</span>.<a href="#fnref143">&#8617;</a></p></li>
+<li id="fn144"><p><span class="citation">Bahri, Y. et al. (2020)</span>.<a href="#fnref144">&#8617;</a></p></li>
+<li id="fn145"><p><span class="citation">Halverson, Maiti, &amp; Stoner (2020)</span>.<a href="#fnref145">&#8617;</a></p></li>
+<li id="fn146"><p><span class="citation">Cohen &amp; Welling (2016)</span>.<a href="#fnref146">&#8617;</a></p></li>
+<li id="fn147"><p><span class="citation">Cohen, Weiler, Kicanaoglu, &amp; Welling (2019)</span>.<a href="#fnref147">&#8617;</a></p></li>
+<li id="fn148"><p><span class="citation">Smith (2019)</span>.<a href="#fnref148">&#8617;</a></p></li>
+<li id="fn149"><p><span class="citation">Nielsen (2018)</span>.<a href="#fnref149">&#8617;</a></p></li>
+<li id="fn150"><p><span class="citation">Amari (2016)</span>.<a href="#fnref150">&#8617;</a></p></li>
+<li id="fn151"><p><span class="citation">Balasubramanian (1996a)</span>.<a href="#fnref151">&#8617;</a></p></li>
+<li id="fn152"><p><span class="citation">Balasubramanian (1996b)</span>.<a href="#fnref152">&#8617;</a></p></li>
+<li id="fn153"><p><span class="citation">Calin &amp; Udriste (2014)</span>.<a href="#fnref153">&#8617;</a></p></li>
+<li id="fn154"><p><span class="citation">Lei, Luo, Yau, &amp; Gu (2018)</span><a href="#fnref154">&#8617;</a></p></li>
+<li id="fn155"><p><span class="citation">Cranmer, Brehmer, &amp; Louppe (2019)</span>.<a href="#fnref155">&#8617;</a></p></li>
+<li id="fn156"><p><span class="citation">D&#8217;Agnolo &amp; Wulzer (2019)</span>.<a href="#fnref156">&#8617;</a></p></li>
+<li id="fn157"><p><span class="citation">Asch, M. et al. (2018)</span>.<a href="#fnref157">&#8617;</a></p></li>
+<li id="fn158"><p><span class="citation">Anderson (2008)</span>.<a href="#fnref158">&#8617;</a></p></li>
+<li id="fn159"><p><span class="citation">Udrescu &amp; Tegmark (2020)</span>.<a href="#fnref159">&#8617;</a></p></li>
+<li id="fn160"><p><span class="citation">Cranmer, M. et al. (2020)</span>.<a href="#fnref160">&#8617;</a></p></li>
+<li id="fn161"><p><span class="citation">Asch, M. et al. (2018)</span>.<a href="#fnref161">&#8617;</a></p></li>
+<li id="fn162"><p><span class="citation">Korb (2001)</span>.<a href="#fnref162">&#8617;</a></p></li>
+<li id="fn163"><p><span class="citation">Williamson (2009)</span>.<a href="#fnref163">&#8617;</a></p></li>
+<li id="fn164"><p><span class="citation">Bensusan (2000)</span>.<a href="#fnref164">&#8617;</a></p></li>
+<li id="fn165"><p><span class="citation">Perone (2018)</span>.<a href="#fnref165">&#8617;</a></p></li>
+<li id="fn166"><p><span class="citation">Wasserman (2003)</span>.<a href="#fnref166">&#8617;</a></p></li>
+<li id="fn167"><p><span class="citation">Savage (1954)</span>.<a href="#fnref167">&#8617;</a></p></li>
 </ol>
 </div>
 
@@ -2201,7 +2204,7 @@ D_\mathrm{KL}(p, q)
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Fri Jan 29, 2021</p>
+    <p>Sun Jan 31, 2021</p>
   </div>
   <div class="license">
     <p>&#169; 2014-2021 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>

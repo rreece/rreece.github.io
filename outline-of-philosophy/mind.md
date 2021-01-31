@@ -100,6 +100,8 @@ Neuroscience
 
 -   TODO
 -   Libet experiments
+-   Markram, H. et al. (2017). [Blue Brain team discovers a multi-dimensional universe in brain networks](https://blog.frontiersin.org/2017/06/12/blue-brain-team-discovers-a-multi-dimensional-universe-in-brain-networks/).
+-   Markram, H. et al. (2020). [New evidence for innate knowledge](https://actu.epfl.ch/news/new-evidence-for-innate-knowledge-3/).
 
 
 ### Computational neuroscience
@@ -112,6 +114,13 @@ Neuroscience
 
 Language
 --------------------------------------------------------------------------------
+
+### Universal grammar
+
+-   Noam Chomsky
+-   innatism
+-   TODO: criticism
+
 
 ### Origin of language
 

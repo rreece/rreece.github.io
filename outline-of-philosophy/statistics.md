@@ -163,7 +163,7 @@ $$ P(H|D) = P(D|H) \: P(H) \: / \: P(D) \label{eq:bayes_theorem_hd} $$
 
 $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 
--   Cranmer
+Cranmer:
 
 >   Bayes's theorem is a theorem, so there's no debating it. It is not the case that
 >   Frequentists dispute whether Bayes's theorem is true. The debate is whether the
@@ -172,15 +172,19 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 >   happy using Bayes theorem. Thus, the debate starts at the very definition of
 >   probability. [^Cranmer2015p6]
 
--   Carnap
-    -   "The two concepts of probability" [^Carnap1945b]
--   Royall
-    -   "What do these data say?" [^Royall1997p171]
+Neyman:
+
+>   Without hoping to know whether each separate hypothesis is true or false,
+>   we may search for rules to govern our behaviour with regard to them,
+>   in following which we insure that, in the long run of experience,
+>   we shall not be too often wrong. [^Neyman1933longrun]
+
 -   We will return to the frequentist vs bayesian debate in the section on the
     ["Statistics Wars"](#statistics-wars).
 
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Cranmer2015p6]: @Cranmer_2015_Practical_statistics_for_the_LHC\, p. 6.
+[^Neyman1933longrun]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
 [^Royall1997p171]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\, p. 171--2.
 [^Weisberg2019ch15]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, ch. 15\.
 
@@ -631,10 +635,13 @@ Exploratory data analysis
 
 ### Introduction
 
--   TODO
+-   Kruschke
+-   Carnap
+    -   "The two concepts of probability" [^Carnap1945b]
+-   Royall
+    -   "What do these data say?" [^Royall1997p171]
 
 ![From Kruschke. [^Kruschke2018fig1]](img/Kruschke-bayes-freq-grid.png){#fig:Kruschke-bayes-freq-grid}
-
 
 [^Kruschke2018fig1]: @Kruschke_2018_The_Bayesian_New_Statistics_Hypothesis_testing\.
 

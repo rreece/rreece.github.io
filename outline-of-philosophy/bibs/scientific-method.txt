@@ -10,11 +10,13 @@ Carnap, R. (1950). *Logical Foundations of Probability*. University of Chicago P
 Carnap, R. (1952). *The Continuum of Inductive Methods*. University of Chicago Press.
 Carnap, R. (1966). The aim of inductive logic. In *Studies in Logic and the Foundations of Mathematics Vol. 44* (pp. 303--318). Elsevier.
 Carnap, R. (1973). Notes on probability and induction. *Synthese*, 25, 269--298.
+Davis, N. (2015). To Explain the World review. *The Guardian*. https://www.theguardian.com/books/2015/feb/22/to-explain-the-world-steven-weinberg-history-great-thinkers [February 21, 2015]
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
 de Swart, H. (2018). *Philosophical and Mathematical Logic*. Springer.
-Davis, N. (2015). To Explain the World review. *The Guardian*. https://www.theguardian.com/books/2015/feb/22/to-explain-the-world-steven-weinberg-history-great-thinkers [February 21, 2015]
+Dicker, G. (1991). Hume's fork revisited. *History of Philosophy Quarterly*, 8, 327--342.
 Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/abduction/
 Doyle, A.C. (1890). *The Sign of the Four*.
+Earman, J. (2000). *Hume's Abject Failure: The argument against miracles*. Oxford University Press.
 Feyerabend, P. (1974). *Against Method*. Verso.
 Feynman, R.P. (1998). *The Meaning of It All*. Addison-Wesley.
 French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
