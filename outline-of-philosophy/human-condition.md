@@ -702,6 +702,7 @@ Online Suttas:
 -   [Kum&amacr;raj&imacr;va](https://en.wikipedia.org/wiki/Kum%C4%81raj%C4%ABva) (344-413 CE)
 -   [Asanga](https://en.wikipedia.org/wiki/Asanga) (fl. 4th century CE)
 -   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu) (fl. 4th to 5th century CE)
+-   [Dign&amacr;ga](https://en.wikipedia.org/wiki/Dign%C4%81ga) (c. 480--540 CE)
 -   [Buddhism in China](https://en.wikipedia.org/wiki/Buddhism_in_China)
     -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
     -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism) (introduced in China in 147 CE)
