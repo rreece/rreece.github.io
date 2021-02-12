@@ -1245,6 +1245,8 @@ Romanticism
     -   late 18th through 19th centuries
     -   focus on emotion
 -   [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) (1712-1778)
+-   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
+    -   See: [Comparitive studies](#comparitive-studies)
 
 William Jones, in his 1772 "Essay on the Arts called Imitative", was one of the
 first to propound an expressive theory of poetry, valorising expression over
@@ -1733,10 +1735,10 @@ Existentialism
 -   [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) (1913-1960)
     -   The Absurd
     -   The question of suicide
-    -   "To live without appeal"
-    -   *The Stranger* (1942)
-    -   *The Myth of Sisyphus* (1948)
-    -   *The Fall* (1956)
+    -   To live without appeal
+    -   *The Stranger* / *L'&Eacute;tranger* (1942)
+    -   *The Myth of Sisyphus* / *Le Mythe de Sisyphe* (1948)
+    -   *The Fall* / *La Chute* (1956)
 -   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
     -   *The Courage to Be* (1952)
 
