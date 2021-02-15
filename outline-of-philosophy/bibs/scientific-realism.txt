@@ -8,8 +8,12 @@ Borges, J.L. (1998). *Collected Fictions* (A. Hurley, Trans.). Penguin Group.
 Chakravartty, A. (2007). *A Metaphysics for Scientific Realism*. Cambridge University Press.
 Chakravartty, A. (2017). Scientific realism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/scientific-realism/
 Chalmers, D. (2003). The Matrix as metaphysics. http://consc.net/papers/matrix.html
+Clarke, K.A. & Primo, D.M. (2004). The theoretical implications of the empirical implications of theoretical models. [Paper presented at the Annual Meeting of the American Political Science Association, September 2004, Chicago.]
 Comte, A. (1835). *Cours de la Philosophie Positive*. 
+Fetzer, J. (2017). Carl Hempel. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/hempel
 Friedman, M. & Creath, R. (2007). *The Cambridge Companion to Carnap*. Cambridge University Press.
+Hempel, C.G. (1950). Problems and changes in the empiricist criterion of meaning. *Revue Internationale de Philosophie*, 4, 41--63.
+Hempel, C.G. (1974). Formulation and formalization of scientific theories. In  Suppe, F. (Ed.). *The Structure of Scientific Theories*. University of Illinois Press.
 Hennig, C. (2010). Mathematical models and reality: A constructivist perspective. *Foundations of Science*, 15(1), 29--48.
 Hennig, C. (2015). What are the true clusters? *Pattern Recognition Letters*, 64, 53--62.
 Khanna, P. (2018). Positivism and realism. In Liamputtong, P. (Ed.) *Handbook of Research Methods in Health Social Sciences*. Springer.
@@ -37,6 +41,7 @@ Sankey, H. (2008). *Scientific Realism and the Rationality of Science*. Ashgate.
 Sankey, H. (2015). Realism, progress, and the historical turn. *Foundations of Science*, 22, 201--214.
 Schumm, B.A. (2004). *Deep Down Things*. Johns Hopkins University Press.
 Sider, T. (2011). *Writing the Book of the World*. Oxford University Press.
+Suppe, F. (2000). Understanding scientific theories: An assessment of developments, 1969-1998. *Philosophy of Science*, 67, 102--115.
 Swartz, N. (2003). *The Concept of Physical Law* (2nd ed.). http://www.sfu.ca/~swartz/physical-law/
 Swartz, N. (2009). Laws of nature. *International Encyclopedia of Philosophy*. http://www.iep.utm.edu/lawofnat/
 Torretti, R. (1999). *The Philosophy of Physics*. Cambridge University Press.

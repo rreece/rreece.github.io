@@ -143,8 +143,10 @@ generally consists of varying degrees of either or both:
 
 Also:
 
--   Methodological vs ontological naturalism.
+-   Methodological vs ontological naturalism. [^Jenkins2016]
 -   Sean Carroll: "There is *one* (natural) world."
+
+[^Jenkins2016]: @Jenkins_2016_Epistemological_naturalisms\.
 
 
 ### History

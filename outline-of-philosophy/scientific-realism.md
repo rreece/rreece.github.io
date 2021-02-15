@@ -521,6 +521,19 @@ Schlick:
 
 >   The fundamental principle of the positivist then seems to run: "Only the given is real". [^Schlick1948p480]
 
+Fetzer:
+
+>   From an historical perspective, logical positivism represents a linguistic
+>   version of the empiricist epistemology of David Hume (1711--76).
+>   It refines his crucial distinctions of "relations between ideas"
+>   and "matters of fact" by redefining them relative to a language $L$
+>   as sentences that are analytic-in-$L$ and synthetic-in-$L$, respectively.
+>   His condition that significant ideas are those which can be traced back
+>   to impressions in experience that gave rise to them now became the claim
+>   that synthetic sentences have to be justified by derivability from finite
+>   classes of observation sentences. [^Fetzer2017]
+
+[^Fetzer2017]: @Fetzer_2017_Carl_Hempel\.
 [^Schlick1948p480]: @Schlick_1948_Positivism_and_realism\, p. 480\.
 
 
@@ -897,15 +910,29 @@ TODO: find ref of above quote.
 -   In 1967 John Passmore reported that: "Logical positivism, then,
     is dead, or as dead as a philosophical movement ever becomes." [^Passmore1967]
 -   Ayer, A.J. 
+-   Hemple (1950) [^Hemple1950]
+-   Suppe (2000): Death of positivism was a talk by Carl Hempel on March 26, 1969. [^Suppe2000]
+    -   "Formulation and formalization of scientific theories" [^Hempel1974]
+-   Clarke & Primo (2004)
 -   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
+
+Clarke & Primo:
+
+>   Following Suppe (2000), we date the demise of logical positivism to
+>   March 26, 1969---opening night of the Illinois Symposium on the
+>   Structure of Scientific Theories. [^Clarke2004]
 
 Ayer:
 
 >   The most important defect was that nearly all of it was false. [^Ayer1978]
 
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
+[^Clarke2004]: @Clarke_2004_The_theoretical_implications_of_the_empirical\.
+[^Hemple1950]: @Hempel_1950_Problems_and_changes_in_the_empiricist_criterion\.
+[^Hempel1974]: @Hempel_1974_Formulation_and_formalization_of_scientific\.
 [^Passmore1967]: @Passmore_1967_Logical_positivism and 
     @Creathe_2011_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Suppe2000]: @Suppe_2000_Understanding_scientific_theories_An_assessment\.
 [^Whetsell2013]: @Whetsell_2013_The_dynamics_of_positivism_in_the_study_of_public\.
 
 
@@ -1526,6 +1553,7 @@ Click to show links
 -   [Frege, Gottlob (1848-1925)](https://plato.stanford.edu/entries/frege/)
 -   [Fundamentality](https://plato.stanford.edu/entries/fundamentality/)
 -   [Goodman, Nelson (1906-1998)](https://plato.stanford.edu/entries/goodman/)
+-   [Hempel, Carl (1905-1997)](https://plato.stanford.edu/entries/hempel/)
 -   [Historicist Theories of Scientific Rationality](http://plato.stanford.edu/entries/rationality-historicist/)
 -   [Identity](http://plato.stanford.edu/entries/identity/)
 -   [Identity of Indiscernibles](http://plato.stanford.edu/entries/identity-indiscernible/)
@@ -1612,6 +1640,7 @@ Click to show links
 -   [Evidence](http://www.iep.utm.edu/evidence/)
 -   [Explanation, Theories of](http://www.iep.utm.edu/explanat/)
 -   [Feminist Standpoint Theory](https://www.iep.utm.edu/fem-stan/)
+-   [Hempel, Carl (1905-1997)](https://iep.utm.edu/hempel/)
 -   [Internalism and Externalism in the Philosophy of Mind and Language](http://www.iep.utm.edu/int-ex-ml/)
 -   [Laws of Nature](http://www.iep.utm.edu/lawofnat/)
 -   [Mathematical Structuralism](http://www.iep.utm.edu/m-struct/)

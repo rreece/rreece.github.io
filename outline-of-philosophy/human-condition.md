@@ -1731,7 +1731,8 @@ Existentialism
     -   *No Exit* / *Huis clos* (1944)
     -   *L'Existentialisme est un Humanisme* (1946) [^Sartre1946]
 -   [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir) (1908-1986)
-    -   *The Second Sex* (1949)
+    -   *The Second Sex* / *Le Deuxi&egrave;me Sex* (1949)
+        -   starting point of [second-wave feminism](https://en.wikipedia.org/wiki/Second-wave_feminism)
 -   [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) (1913-1960)
     -   The Absurd
     -   The question of suicide
