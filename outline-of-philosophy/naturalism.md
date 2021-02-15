@@ -143,7 +143,8 @@ generally consists of varying degrees of either or both:
 
 Also:
 
--   Methodological vs ontological naturalism. [^Jenkins2016]
+-   Methodological vs ontological naturalism
+-   Jenkins [^Jenkins2016]
 -   Sean Carroll: "There is *one* (natural) world."
 
 [^Jenkins2016]: @Jenkins_2016_Epistemological_naturalisms\.
@@ -479,6 +480,12 @@ Rejection of the supernatural
     -   The rewrite of chapter 3 in *Miracles* [^Lewis1947]
 -   See also: [Atheism](human-condition.html#atheism)
 
+Jenkins says naturalism is
+
+>   the view that a broadly scientific world-view is correct, and there exists
+>   nothing supernatural or otherwise spooky. [^Jenkins2014]
+
+[^Jenkins2014]: @Jenkins_2014_Naturalism_and_norms_of_inference\.
 [^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.
 
 

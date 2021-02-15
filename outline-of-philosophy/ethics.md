@@ -91,6 +91,8 @@ Moral realism
 --------------------------------------------------------------------------------
 
 -   Objectivism
+-   Contectualism
+    -   Bj&ouml;rnsson & Finlay (2010) [^Bjornsson2010]
 -   Structuralism
 -   Game/decision theory, again
 -   "The problem of what to do next" - David Deutsch ([yt](https://www.youtube.com/watch?v=J21QuHrIqXg), [txt](http://www.bretthall.org/david-deutsch--sam-harris.html))
@@ -118,6 +120,7 @@ Moral realism
 >   
 >   He's very much awake. [^RepublicV476c]
 
+[^Bjornsson2010]: @Bjornsson_2010_Metaethical_contextualism_defended\.
 [^RepublicV476c]: Plato, *Republic V* 476c, @Cooper_1997_Plato_Complete_works\, p. 1103.
 
 

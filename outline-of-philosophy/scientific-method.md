@@ -1094,6 +1094,28 @@ Plato:
 
 ![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g), 2014).](img/knowledge.png){#fig:knowledge-jtb-g}
 
+Ichikawa & Jenkins:
+
+>   The standard analysis of knowledge says that for any subject $S$ and any
+>   proposition $p$, the following are individually necessary and jointly
+>   sufficient conditions for $S$ knows that $p$:
+>   
+>   1. $p$
+>   2. $S$ believes that $p$
+>   3. $S$ is justified in believing that $p$.
+>   
+>   Precursors of this view are sometimes attributed to Plato, who says in the
+>   *Men*o that knowledge is distinguished from mere true belief in being
+>   'tied down', so that it cannot easily escape or be lost as mere true belief
+>   can. Views more closely resembling the above formulation of the JTB analysis
+>   are attributed by Edmund Gettier to Roderick Chisholm and A. J. Ayer.
+>   Neither of those authors phrased their conditions for knowledge exactly
+>   this way. The now-usual formulation, in terms of justification, is so in
+>   large part because of Gettier (1963). [^Ichikawa2017]
+
+TODO: find part in *Meno*.
+
+[^Ichikawa2017]: @Ichikawa_2017_On_putting_knowledge_first\.
 [^RepublicV477]: Plato, *Republic V* 477--8, @Cooper_1997_Plato_Complete_works\, p. 1103--4.
 [^Theaetetus186]: Plato, *Theaetetus* 186--7, @Cooper_1997_Plato_Complete_works\, p. 205--7.
 [^Theaetetus201b]: Plato, *Theaetetus* 201b--d, @Cooper_1997_Plato_Complete_works\, p. 222--3.
@@ -1103,10 +1125,14 @@ Plato:
 
 -   Gettier cases
     -   Knowledge = JTB - G
-    -   TODO: find ref
+    -   Gettier (1963) [^Gettier1963]
+    -   Clark, M. (1963). Knowledge and grounds: A comment on Mr. Gettier's paper. [^Clark1963]
 -   Internalism vs externalism
 -   Systematic uncertainties.  Failed justification.
     -   TODO: discussion by me
+
+[^Clark1963]: @Clark_1963_Knowledge_and_grounds_A_comment_on_MrGettiers\.
+[^Gettier1963]: @Gettier_1963_Is_justified_true_belief_knowledge\.
 
 
 ### Fallibility

@@ -10,6 +10,7 @@ Carnap, R. (1950). *Logical Foundations of Probability*. University of Chicago P
 Carnap, R. (1952). *The Continuum of Inductive Methods*. University of Chicago Press.
 Carnap, R. (1966). The aim of inductive logic. In *Studies in Logic and the Foundations of Mathematics Vol. 44* (pp. 303--318). Elsevier.
 Carnap, R. (1973). Notes on probability and induction. *Synthese*, 25, 269--298.
+Clark, M. (1963). Knowledge and grounds: A comment on Mr. Gettier's paper. *Analysis*, 24, 46--48.
 Davis, N. (2015). To Explain the World review. *The Guardian*. https://www.theguardian.com/books/2015/feb/22/to-explain-the-world-steven-weinberg-history-great-thinkers [February 21, 2015]
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
 de Swart, H. (2018). *Philosophical and Mathematical Logic*. Springer.
@@ -22,17 +23,19 @@ Feynman, R.P. (1998). *The Meaning of It All*. Addison-Wesley.
 French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
 Frigg, R. & Nguyen, J. (2017). Models and representation. In *Springer Handbook of Model-Based Science* (pp. 49--102). Springer.
 Frigg, R. & Hartmann, S. (2020). Models in science *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/models-science/
+Gettier, E.L. (1963). Is justified true belief knowledge? *Analysis*, 23, 121--3.
 Hansson, S.O. & Hendricks, V.F. (2018). *Introduction to Formal Philosophy*. Springer.
 Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135--175.
 #Hume, D. (1902). *Enquiries Concerning the Human Understanding and Concerning the Principles of Morals*. Oxford: Clarendon Press. [(Originally published in 1777)]
 #Hume, D. (1983). *An Enquiry Concerning the Principles of Morals*. Hackett Classics. [(Originally published in 1751)]
 #Hume, D. (1993). *An Enquiry Concerning Human Understanding* (E. Steinberg, Ed.). Hackett. [(Originally published in 1748)]
 Hume, D. (2007). *An Enquiry Concerning Human Understanding* (P. Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
+Ichikawa, J. & Jenkins, C. (2017). On putting knowledge 'first'. In Carter, J.A. (Ed.), *Knowledge First: Approaches in epistemology and mind* (pp. 113--130). Oxford University Press.
 Juhl, C. & Loomis, E. (2009). *Analyticity*. Routledge.
 Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1781)]
 McComas, W.F. (1996). Ten myths of science: Reexamining what we think we know about the nature of science. *School Science and Mathematics*, 96(1), 10--16.
 McComas, W.F. (2008). Seeking historical examples to illustrate key aspects of the nature of science. *Science & Education*, 17(2-3), 249--263.
-McComas, W.F. (2002). The principal elements of the nature of science: Dispelling the myths. In McComas, W.F. (Ed.) *The Nature of Science in Science Education* (pp. 53--70). Springer Netherlands.
+McComas, W.F. (2002). The principal elements of the nature of science: Dispelling the myths. In McComas, W.F. (Ed.), *The Nature of Science in Science Education* (pp. 53--70). Springer Netherlands.
 Mill, J.S. (1843). *A System of Logic*. New York: Harper and Brothers.
 Morgan, M.S. & Morrison, M. (1999). *Models as Mediators*. Cambridge University Press.
 Newton, I. (2016). *The Principia: Mathematical Principles of Natural Philosophy* (I. Bernard Cohen and A. Whitman and J. Budenz, Trans.). University of California Press. [(Originally published in 1687)]

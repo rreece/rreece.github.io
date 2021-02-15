@@ -913,7 +913,7 @@ TODO: find ref of above quote.
 -   Hemple (1950) [^Hemple1950]
 -   Suppe (2000): Death of positivism was a talk by Carl Hempel on March 26, 1969. [^Suppe2000]
     -   "Formulation and formalization of scientific theories" [^Hempel1974]
--   Clarke & Primo (2004)
+    -   Clarke & Primo (2004)
 -   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 
 Clarke & Primo:
@@ -1124,6 +1124,8 @@ Questions:
     be interpretable?  What would that mean?
 -   Maybe scientism is really the same thing positivism re-branded;
     similarly, naturalism is empiricism re-branded.
+
+Slides for my talk: [Machine learning and realism](http://rreece.github.io/talks/pdf/2017-03-16-RReece-Machine-learning-and-realism.pdf) (2017)
 
 
 ### My defense of realism
