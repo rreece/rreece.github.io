@@ -1,4 +1,9 @@
 
+## positivism
+Friedman, M. (1999). *Reconsidering Logical Positivism*. Cambridge University Press.
+
+
+##--------------------------------------------------
 
 ## intermittent fasting
 Halberg, N. et al. (2005). Effect of intermittent fasting and refeeding on insulin action in healthy men. *Journal of Applied Physiology*, 99, 2128--2136. <https://www.ncbi.nlm.nih.gov/pubmed/16051710>

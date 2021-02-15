@@ -541,7 +541,7 @@ Fetzer:
 
 #### Auguste Comte
 
--   Comte coined "positivism"
+-   Auguste Comte ((1798-1857) coined "positivism"
 -   Comte and Mill
 
 Comte on the unknowability of the composition of stars:
@@ -625,8 +625,12 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924 to 1936.
 -   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Victor Kraft, Otto Neurath, Friedrich Waismann, Gustav Bergmann, and others.
 -   Ludwig Wittgenstein and Karl Popper corresponded with the circle but did not attend.
--   "The scientific conception of the world" (1929) - The Vienna Circle's manifesto [^Hahn1973]
+-   Wissenschaftliche Weltauffassung: Der Wiener Kreis - Scientific Worldview: The Vienna Circle (1929) [^Hahn1973]
+    -   The Vienna Circle's manifesto
 -   Carnap: *The Logical Structure of the World* (1928) - (*Der Logische Aufbau der Welt*) [^Carnap1928]
+-   In 1930 the Vienna Circle and the Berlin Circle took over the journal *Annalen der Philosophie*
+    and made it the main journal of logical empiricism under the title *Erkenntnis*,
+    edited by Carnap and Reichenbach.
 -   A.J. Ayer (1910-1989): *Language, Truth, and Logic* (1936) [^Ayer1936]
 -   *International Encyclopedia of Unified Science*
     -   Only the first section *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
@@ -913,7 +917,7 @@ TODO: find ref of above quote.
 -   Hemple (1950) [^Hemple1950]
 -   Suppe (2000): Death of positivism was a talk by Carl Hempel on March 26, 1969. [^Suppe2000]
     -   "Formulation and formalization of scientific theories" [^Hempel1974]
-    -   Clarke & Primo (2004)
+    -   Clarke & Primo (2004) [^Clarke2004]
 -   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 
 Clarke & Primo:
@@ -926,8 +930,24 @@ Ayer:
 
 >   The most important defect was that nearly all of it was false. [^Ayer1978]
 
+Much ado is made about positivism being "dead", but its influence is still
+promenent over philosophy and the structure of societies.
+
+Friedman:
+
+>   Carnap's influence, in particular, also extended much further: to the
+>   widespread application of logical and mathematical methods to philosophical
+>   problems more generally, especially in semantics and the philosophy of
+>   language. Indeed, as is well known, the ideas of the logical positivists
+>   exerted a very substantial influence well beyond the boundaries of
+>   professional philosophy, particularly in psychology and the social sciences.
+>   It is not too much to say, therefore, that twentieth-century intellectual life
+>   would be simply uncrecognizable without the deep and pervasive current of
+>   logical positivist thought. [^Friedman1999pxii]
+
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
 [^Clarke2004]: @Clarke_2004_The_theoretical_implications_of_the_empirical\.
+[^Friedman1999pxii]: @Friedman_1999_Reconsidering_Logical_Positivism\, p. xii.
 [^Hemple1950]: @Hempel_1950_Problems_and_changes_in_the_empiricist_criterion\.
 [^Hempel1974]: @Hempel_1974_Formulation_and_formalization_of_scientific\.
 [^Passmore1967]: @Passmore_1967_Logical_positivism and 
