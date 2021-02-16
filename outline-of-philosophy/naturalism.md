@@ -86,6 +86,15 @@ Maudlin gives clear naturalist attitude at the start of *The Metaphysics within 
 >   of one's ontology, one must look to scientific practice rather than to
 >   philosophical prejudice. [^Maudlin2007p1]
 
+Ladyman & Ross:
+
+>   According to the account we will give, science tells us many surprising
+>   things, but it does not impugn the everyday status of objects like tables
+>   and baseballs. These are, we will argue, aspects of the world with sufficient
+>   cohesion at our scale that a group of cognitive systems with practically
+>   motivated interest in tracking them would sort them into types for book-keeping
+>   purposes. [^Ladyman2007p5]
+
 Papineau:
 
 >   The term "naturalism" has no very precise meaning in contemporary philosophy.
@@ -105,6 +114,7 @@ Papineau:
 >   the "human spirit".
 
 [^Jacobs2002]: @Jacobs_2002_Naturalism\. 
+[^Ladyman2007p5]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 5.
 [^Maddy2007p1]: @Maddy_2007_Second_Philosophy, p. 1.
 [^Maddy2007p18]: @Maddy_2007_Second_Philosophy, p. 18--19.
 [^Maudlin2007p1]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 1.

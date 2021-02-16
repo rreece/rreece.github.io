@@ -681,6 +681,7 @@ Gravity and cosmology
 
 ### Special relativity
 
+-   Mach's principle
 -   Minkowski, Lorentz, Einstein, Poincar&eacute;
 -   Einstein, A. (1905). On the Electrodynamics of Moving Bodies.
 

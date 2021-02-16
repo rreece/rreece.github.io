@@ -3,7 +3,6 @@ Invitation
 
 A place to start in the discussion of philosophy of science and naturalism.
 
-
 ### What is this?
 
 Welcome to *ROP*!
@@ -153,6 +152,9 @@ criticisms of positions as they will be about any position itself.
 
 ### Who do I want to reach with this project?
 
+>   The Vienna Circle aims at making contact with those similarly oriented and
+>   at influencing those who stand further off. [^VCManifesto1929]
+
 This project may never be polished enough to be pedagogical.
 The primary purpose of these pages is to collect and organize references
 of what I've been personally studying.
@@ -178,6 +180,7 @@ examine what can be said of the "[scientific method](scientific-method.html)."
 [^Rose1996]: @Rose_1996_Carl_Sagan_discusses_Demon_Haunted_World and
     @Sagan_1997_The_Demon_Haunted_World_Science_as_a_Candle\.
 [^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
+[^VCManifesto1929]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 
 
 <!-- REFERENCES -->

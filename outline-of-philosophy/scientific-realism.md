@@ -541,7 +541,7 @@ Fetzer:
 
 #### Auguste Comte
 
--   Auguste Comte ((1798-1857) coined "positivism"
+-   Auguste Comte (1798-1857) coined "positivism"
 -   Comte and Mill
 
 Comte on the unknowability of the composition of stars:
@@ -564,7 +564,9 @@ Comte on the unknowability of the composition of stars:
 
 #### Ernst Mach
 
--   TODO
+-   Ernst Mach (1838-1916)
+-   Richard Avenarius (1843-1896)
+-   empirio-criticism
 
 #### Ludwig Wittgenstein
 
@@ -620,6 +622,12 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 
 
 ### Logical positivism and the Vienna Circle
+
+![Left: The entrance to the Mathematical Seminar at the University of Vienna,
+  at Boltzmanngasse 5, the meeting place of the Vienna Circle during their
+  regular Thursday meetings.
+  Right: The Vienna Circle's manifesto, Wissenschaftliche Weltauffassung: Der Wiener Kreis (1929).
+](img/vienna-circle-seminar-and-manifesto.jpg){#fig:vienna-circle-seminar-and-manifesto}
 
 -   Vienna circle [^Murzi2004]
 -   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924 to 1936.

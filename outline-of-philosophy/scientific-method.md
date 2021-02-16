@@ -272,6 +272,7 @@ Weinberg:
 
 ### Biological evolution
 
+-   [Darwin, Erasmus (1731-1802)](https://en.wikipedia.org/wiki/Erasmus_Darwin)
 -   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
 -   [Mendel, Gregor (1822-1884)](https://en.wikipedia.org/wiki/Gregor_Mendel)
 -   [Wallace, Alfred Russel (1823-1913)](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace)
