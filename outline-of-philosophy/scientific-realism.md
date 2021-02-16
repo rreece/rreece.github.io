@@ -629,7 +629,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
   Right: The Vienna Circle's manifesto, Wissenschaftliche Weltauffassung: Der Wiener Kreis (1929).
 ](img/vienna-circle-seminar-and-manifesto.jpg){#fig:vienna-circle-seminar-and-manifesto}
 
--   Vienna circle [^Murzi2004]
+-   Vienna Circle [^Murzi2004]
 -   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924 to 1936.
 -   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Victor Kraft, Otto Neurath, Friedrich Waismann, Gustav Bergmann, and others.
 -   Ludwig Wittgenstein and Karl Popper corresponded with the circle but did not attend.
