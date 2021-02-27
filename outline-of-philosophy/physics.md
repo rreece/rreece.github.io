@@ -722,6 +722,7 @@ Gravity and cosmology
 ### Alternative theories of gravity
 
 -   Einstein-Cartan theory
+-   Modified Newtonian dynamics (MOND)
 -   Entropic gravity
 
 
