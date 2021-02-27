@@ -37,7 +37,7 @@ TODO: Manifest image and scientific image - Sellars
 
 -   Sellars, W. (1963). "Philosophy and the scientific image of man" in @Sellars_1963_Science_Perception_and_Reality
 
-![Comic by [Abstruse Goose](https://abstrusegoose.com/275).](img/all_i_see_are_equations.png){#fig:all-i-see-are-equations .tallimg}
+![Comic by [Abstruse Goose](https://abstrusegoose.com/275).](img/all_i_see_are_equations.png){#fig:all-i-see-are-equations}
 
 Maddy defines naturalism:
 
@@ -364,7 +364,7 @@ Opening lines to *ETMG*:
 >   objective truth, and should be discontinued. [^Ladyman2007pi]
 
 -   TODO: Maddy
--   See also: [Natural kinds](#natural-kinds)
+-   See also: [Natural kinds](#natural-kinds).
 
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
@@ -373,17 +373,24 @@ Opening lines to *ETMG*:
     A similar quote can be found in @Quine_1981_Reply_to_Stroud, p. 474.
 
 
-Monism and physicalism
+Physicalism
 --------------------------------------------------------------------------------
 
 ### Introduction
 
+-   Physicalism and monism
 -   Parmenides
 -   Materialism, physicalism, functionalism
 -   Alyssa Ney on dualism, physicalism, neutral monism
+-   See also: [Physicalism](mind.html#physicalism) in the [Outline on Philosophy of Mind](mind.html).
+
+
+### Uniformity of nature
+
 -   Part of methodological naturalism, but also a result of empirical confirmation.
 -   Limits on deviations in $\alpha_\mathrm{EM}$
--   See the [Outline on Philosophy of mind](mind.html).
+-   See also: [Bracketing human experience](physics.html#bracketing-human-experience)
+    in the [Outline on Philosophy of Physics](physics.html).
 
 ![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
 
@@ -514,11 +521,20 @@ Scientism
 
 ### As a pejorative
 
+Schopenhauer:
+
+>   Mere experience is no more a substitute for thinking than reading is. Pure
+>   empiricism is related to thinking as eating is to digestion and assimilation.
+>   When empiricism boasts that it alone has, through its discoveries, advanced
+>   human knowledge, it is as if the mouth should boast that it alone keeps the
+>   body alive. [^SchopenhauerThinking7]
+
 -   Sorell [^Sorell1991]
 -   *Science Unlimited? The Challenges of Scientism* [^Boudry2018]
 -   TODO: find examples
 
 [^Boudry2018]: @Boudry_2018_Science_Unlimited_The_Challenges_of_Scientism\.
+[^SchopenhauerThinking7]: @Schopenhauer_2014_Essays_and_Aphorisms\, On thinking for yourself, section 7.
 [^Sorell1991]: @Sorell_1991_Scientism_Philosophy_and_the_Infatuation_with\.
 
 
@@ -669,6 +685,7 @@ Criticisms of naturalism
     -   <https://twitter.com/kareem_carr/status/1288991602069970946>
     -   <https://twitter.com/EpiEllie/status/1291744508376383488>
     -   <https://twitter.com/kareem_carr/status/1295765400236498949>
+    -   [equitablemath.org](https://equitablemath.org/)
 -   The Trans Divide
     -   Chappell, S.G. & Lawford-Smith, H. (2018). [Transgender: a dialogue](https://aeon.co/essays/transgender-identities-a-conversation-between-two-philosophers).
     -   Lawford-Smith, H. & Marshall, R. (2019). [Thinking about climate change, global justice, and trans](https://www.3-16am.co.uk/articles/thinking-about-climate-change-global-justice-and-trans).

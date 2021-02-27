@@ -1247,6 +1247,7 @@ Romanticism
 -   [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) (1712-1778)
 -   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
     -   See: [Comparitive studies](#comparitive-studies)
+-   [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) (1749-1832)
 
 William Jones, in his 1772 "Essay on the Arts called Imitative", was one of the
 first to propound an expressive theory of poetry, valorising expression over
@@ -1733,6 +1734,8 @@ Existentialism
 -   [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir) (1908-1986)
     -   *The Second Sex* / *Le Deuxi&egrave;me Sex* (1949)
         -   starting point of [second-wave feminism](https://en.wikipedia.org/wiki/Second-wave_feminism)
+        -   TODO: referencing Schopenhauer?
+        -   See also: [Feminism](ethics.html#feminism)
 -   [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) (1913-1960)
     -   The Absurd
     -   The question of suicide

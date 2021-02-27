@@ -250,6 +250,17 @@ Protests and (non-)violence
 -   Osterweil, V. (2014). [In defense of looting](https://thenewinquiry.com/in-defense-of-looting). August 21, 2014.
 
 
+Feminism
+--------------------------------------------------------------------------------
+
+Waves:
+
+1.  Women's suffrage movements (19th and early 20th centuries)
+2.  Women's liberation movement (1960s-1980s)
+3.  Third wave (1990s-2012)
+4.  Fourth wave (2012-present)
+
+
 Regret
 --------------------------------------------------------------------------------
 
@@ -282,6 +293,7 @@ Compassion
 -   Compassion in Buddhism
 -   Compassion in Schopenhauer's *On the Basis of Morality*
 -   Rand being against compassion.
+-   Limits of compassion.
 
 
 Aesthetics
