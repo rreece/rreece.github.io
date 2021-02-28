@@ -607,6 +607,13 @@ TODO
 The standard model of particle physics
 --------------------------------------------------------------------------------
 
+-   SU(3) $\times$ SU(2) $\times$ U(1)
+-   Higgs mechanism
+-   Three generations of fermions
+-   Cabibbo angle
+-   CP violation
+-   CKM matrix
+
 ![The total action of the physics of the standard model 
     together with general relativity as presented by [Sean Carroll on his blog](http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/).
     In this all encompassing equation, fermions are the quanta of the $\psi$ fields and
@@ -628,6 +635,7 @@ Beyond the standard model
 ### Neutrinos
 
 -   Neutrino masses and mixings
+-   PMNS matrix
 
 
 ### Ad hoc structures
@@ -683,7 +691,7 @@ Gravity and cosmology
 
 -   Mach's principle
 -   Minkowski, Lorentz, Einstein, Poincar&eacute;
--   Einstein, A. (1905). On the Electrodynamics of Moving Bodies.
+-   Einstein, A. (1905). On the electrodynamics of moving bodies.
 
 
 ### General relativity

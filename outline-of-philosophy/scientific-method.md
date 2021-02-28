@@ -521,6 +521,7 @@ Induction
 ### Problem of induction
 
 -   How do we infer universals from particulars?
+-   Past performance is no guarantee of future results.
 -   Fallacy: hasty generalization
 
 Sextus Empiricus:
