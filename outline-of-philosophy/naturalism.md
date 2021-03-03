@@ -261,6 +261,9 @@ Sellars:
 -   Does science make any progress?
 -   Philosophy as a nursury for budding sciences.
 -   Callard, A. (2018). [How philosophy makes progress](https://dailynous.com/2018/05/27/how-philosophy-makes-progress-agnes-callard/).
+-   Priest, G. (2020). Philosophy and its history: An essay in the philosophy of philosophy. [^Priest2020]
+
+[^Priest2020]: @Priest_2020_Philosophy_and_its_history_An_essay\.
 
 
 Rejection of *a priori* metaphysics
@@ -450,7 +453,10 @@ Alex Rosenberg is a mad dog against emergence. Video:
 
 ### Criticism
 
--   TODO
+>   There are, indeed, things that cannot be put into words.
+>   They *make themselves manifest*. They are what is mystical. [^WittgensteinTLP_6_522]
+
+[^WittgensteinTLP_6_522]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\, 6.522.
 
 
 Natural kinds
@@ -480,8 +486,11 @@ See the [Outline on philosophy of mathematics](math.html#naturalism).
 
 ### Criticism
 
--   TODO
--   See also: [Nominalism](math.html#nominalism)
+-   Hennig: "What are the true clusters?"
+-   See also:
+    -   [Clustering](statistics.html#clustering) in the [Outline on statistics](statistics.html)
+    -   [Constructive empiricism](scientific-realism.html#constructive-empiricism) in the [Outline on scientific realism](scientific-realism.html)
+    -   [Nominalism](math.html#nominalism) in the [Outline on mathematics](math.html).
 
 
 Rejection of the supernatural
