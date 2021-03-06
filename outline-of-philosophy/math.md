@@ -647,6 +647,7 @@ Click to show links
 ### SEP
 
 -   [Algebra](https://plato.stanford.edu/entries/algebra/)
+-   [Algebra of logic](https://plato.stanford.edu/entries/algebra-logic-tradition/)
 -   [Alternative axiomatic set theories](https://plato.stanford.edu/entries/settheory-alternative/)
 -   [Analysis](http://plato.stanford.edu/entries/analysis/)
 -   [Analytic/synthetic distinction](http://plato.stanford.edu/entries/analytic-synthetic/)

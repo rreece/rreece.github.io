@@ -34,6 +34,7 @@ Click to show the paltry outline of the history of science
 
 ### Antiquity
 
+-   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 700-100 BCE)
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
     -   "Ionian enchantment: A brief history of scientific naturalism" [^Prado2006-2]
 -   [Thales of Miletus](https://en.wikipedia.org/wiki/Thales_of_Miletus) (c. 624/623-548/545 BCE)
@@ -233,24 +234,24 @@ Weinberg:
 
 ### Canonical classical physics
 
--   [Franklin, Benjamin (1706-1790)](https://en.wikipedia.org/wiki/Benjamin_Franklin)
--   [Euler, Leonhard (1707-1783)](http://en.wikipedia.org/wiki/Euler)
--   [Lagrange, Joseph-Louis (1736-1813)](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange)
--   [Volta, Alessandro (1745-1827)](https://en.wikipedia.org/wiki/Alessandro_Volta)
--   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
--   [Amp&egrave;re, Andr&eacute;-Marie (1775-1836)](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re)
--   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
--   [Poisson, Sim&eacute;on Denis (1781-1840)](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson)
--   [Fraunhofer, Joseph von (1787-1826)](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer)
--   [Cauchy, Augustin-Louis (1789-1857)](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy)
--   [Faraday, Michael (1791-1867)](http://en.wikipedia.org/wiki/Michael_Faraday)
--   [Carnot, Nicolas L&eacute;onard Sadi (1796-1832)](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot)
--   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
--   [Hamilton, William Rowan (1805-1865))](https://en.wikipedia.org/wiki/William_Rowan_Hamilton)
--   [Kelvin, William Thomson (1824-1907)](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin)
--   [Maxwell, James Clerk (1831-1879)](http://en.wikipedia.org/wiki/James_Clerk_Maxwell)
--   [Gibbs, Josiah Willard (1839-1903)](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs)
--   [Boltzmann, Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
+-   [Benjamin Franklin](https://en.wikipedia.org/wiki/Benjamin_Franklin) (1706-1790)
+-   [Leonhard Euler](http://en.wikipedia.org/wiki/Euler) (1707-1783)
+-   [Joseph-Louis Lagrange](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) (1736-1813)
+-   [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) (1745-1827)
+-   [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) (1749-1827)
+-   [Andr&eacute;-Marie Amp&egrave;re](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re) (1775-1836)
+-   [Carl Friedrich Gauss](http://en.wikipedia.org/wiki/Gauss) (1777-1855)
+-   [Sim&eacute;on Denis Poisson](https://en.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson) (1781-1840)
+-   [Joseph von Fraunhofer](http://en.wikipedia.org/wiki/Joseph_von_Fraunhofer) (1787-1826)
+-   [Augustin-Louis Cauchy](http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy) (1789-1857)
+-   [Michael Faraday](http://en.wikipedia.org/wiki/Michael_Faraday) (1791-1867)
+-   [Nicolas L&eacute;onard Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot) (1796-1832)
+-   [Carl Gustav Jacob Jacobi](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi) (1804-1851)
+-   [William Rowan Hamilton](https://en.wikipedia.org/wiki/William_Rowan_Hamilton) (1805-1865)
+-   [William Thomson Kelvin](https://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin) (1824-1907)
+-   [James Clerk Maxwell](http://en.wikipedia.org/wiki/James_Clerk_Maxwell) (1831-1879)
+-   [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) (1839-1903)
+-   [Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906)
 
 
 ### "Scientists"

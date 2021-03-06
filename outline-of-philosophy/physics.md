@@ -19,7 +19,7 @@ Theories of matter
 
 ### Ancient atomism
 
--   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
+-   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 700-100 BCE)
 -   Empedocles (c. 494-434 BCE)
     -   theory of the four elements
 -   ...

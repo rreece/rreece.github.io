@@ -515,7 +515,7 @@ and constraining real structures in nature.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
-[^Leitgeb2020H]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html).
+-   [Mauro Murzi's pages on Philosophy of Science: Logical positivism](http://www.murzim.net/LP/LP00.html)
 
 Schlick:
 
@@ -534,6 +534,7 @@ Fetzer:
 >   classes of observation sentences. [^Fetzer2017]
 
 [^Fetzer2017]: @Fetzer_2017_Carl_Hempel\.
+[^Leitgeb2020H]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html).
 [^Schlick1948p480]: @Schlick_1948_Positivism_and_realism\, p. 480\.
 
 
