@@ -152,65 +152,41 @@ Appendix
 
 ### Members of the Vienna Circle
 
-Gustav Bergmann
-
-Rudolf Carnap
-
-Herbert Feigl
-
-Philipp Frank
-
-Kurt Gödel
-
-Hans Hahn
-
-Viktor Kraft
-
-Karl Menger
-
-Marcel Natkin
-
-Otto Neurath
-
-Olga Hahn-Neurath
-
-Theodor Radakovic
-
-Moritz Schlick
-
-Friedrich Waismann
+| Gustav Bergmann
+| Rudolf Carnap
+| Herbert Feigl
+| Philipp Frank
+| Kurt Gödel
+| Hans Hahn
+| Viktor Kraft
+| Karl Menger
+| Marcel Natkin
+| Otto Neurath
+| Olga Hahn-Neurath
+| Theodor Radakovic
+| Moritz Schlick
+| Friedrich Waismann
 
 
 ### Those sympathetic to the Vienna Circle
 
-Walter Dubislav
-
-Josef Frank
-
-Kurt Grelling
-
-Hasso Harlen
-
-E. Kaila
-
-Heinrich Loewy
-
-F. P. Ramsey
-
-Hans Reichenbach
-
-Kurt Reidemeister
-
-Edgar Zilsel
+| Walter Dubislav
+| Josef Frank
+| Kurt Grelling
+| Hasso Harlen
+| E. Kaila
+| Heinrich Loewy
+| F.P. Ramsey
+| Hans Reichenbach
+| Kurt Reidemeister
+| Edgar Zilsel
 
 
 ### Leading representatives of the scientific world-conception
 
-Albert Einstein
-
-Bertrand Russell
-
-Ludwig Wittgenstein
+| Albert Einstein
+| Bertrand Russell
+| Ludwig Wittgenstein
 
 
 [^Note1]: 1929,Bibl. No. 179-Ed.
