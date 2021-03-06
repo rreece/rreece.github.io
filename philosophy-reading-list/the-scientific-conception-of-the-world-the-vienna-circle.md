@@ -49,7 +49,7 @@ These influences from various sides had the result, especially since 1900, that 
 2. Foundations, aims and methods of empirical science (hypotheses in physics, geometry, etc.): Helmholtz, Riemann, Mach, Poincar&eacute;, Enriques, Duhem, BoItzmann, Einstein.
 3. Logistic and its application to reality: Leibniz, Peano, Frege, Schr&ouml;der, Russell, Whitehead, Wittgenstein.
 4. Axiomatics: Pasch, Peano, Vailati, Pieri, Hilbert.
-5. Hedonism and positivist sociology: Epicurus, Hume, Bentham, J. S. Mill, Comte, Feuerbach, Marx, Spencer, Mtiller-Lyer, Popper-Lynkeus, Carl Menger (the elder).
+5. Hedonism and positivist sociology: Epicurus, Hume, Bentham, J. S. Mill, Comte, Feuerbach, Marx, Spencer, M&uuml;ller-Lyer, Popper-Lynkeus, Carl Menger (the elder).
 
 
 ### 1.2 The Circle around Schlick
