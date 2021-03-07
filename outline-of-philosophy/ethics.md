@@ -51,6 +51,14 @@ Consequentialism
 [^Portmore2011]: @Portmore_2011_Commonsense_Consequentialism\.
 
 
+### Criticism
+
+-   The Repugnant Conclusion
+    -   Parfit, D. (1984). *Reasons and Pearson*. [^Parfit1984]
+
+[^Parfit1984]: @Parfit_1984_Reasons_and_Pearson\.
+
+
 Moral antirealism
 --------------------------------------------------------------------------------
 

@@ -820,11 +820,35 @@ People:
 ### Criticism
 
 -   Criticisms of postmodernism:
-    -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017-1]
+    -   Boghossian, P. (2006). *Fear of Knowledge*.
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011-1]
-    -   See also [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism)
+    -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017-1]
+    -   See also: [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism)
         in the [Outline on naturalism](naturalism.html).
 
+Boghossian:
+
+>   Many influential thinkers---Wittgenstein and Rorty included---have suggested
+>   that there are powerful considerations in favor of
+>   a relativistic view of epistemic judgments, arguments which draw on the alleged
+>   existence of alternative epistemic systems and the inevitable norm-circularity
+>   of any justification we might oVer for our own epistemic systems. Although such
+>   arguments may seem initially seductive, they do not ultimately withstand critical
+>   scrutiny. Moreover, there are decisive objections to epistemic relatiism.
+>   It would seem, then, that we have no option but to think that there are absolute,
+>   practice-independent facts about what beliefs it would be most reasonable to
+>   have under fixed evidential conditions.
+>   
+>   It remains a question of considerable importance---and contemporary
+>   interest--whether, given a person's evidence, the epistemic facts always
+>   dictate a *unique* answer to the question what is to be believed or whether
+>   there are cases in which they permit some rational disagreement. So there is
+>   a question about the extent of the epistemic objectivism to which we are
+>   committed. But it looks as though we have every reason to believe that some
+>   version or other of such an objectivist view will be sustainable without
+>   fear of paradox. [^Boghossian2006p109]
+
+[^Boghossian2006p109]: @Boghossian_2006_Fear_of_Knowledge\, p. 109--110.
 [^Hicks2011-1]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
 [^Pluckrose2017-1]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
 

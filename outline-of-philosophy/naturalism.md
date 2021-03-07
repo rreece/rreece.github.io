@@ -570,6 +570,7 @@ Schopenhauer:
     -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
 -   Scruton, R. (2015). Scientism and the humanities. [^Scruton2015]
     -   *Naturwissenschaften* and *Geisteswissenschaften*
+-   Chick Corea. (2020). [Memorizing versus knowing](https://www.youtube.com/watch?v=XI8NiMewmEg).
 
 Scruton:
 
@@ -744,6 +745,7 @@ Other worldviews
 -   Dualism, religion, mysticism
 -   Theology
 -   Evangelism
+-   New Age Movement
 -   Lots can be learned from other worldviews without 100% agreement.
     -   Presocratics
     -   Stoicism
