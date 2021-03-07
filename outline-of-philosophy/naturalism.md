@@ -759,8 +759,8 @@ Other worldviews
 -   Worldview/Weltanschauung
 -   Other meta-philosophies
     -   Dualism, religion, mysticism
-    -   Theology
-    -   Evangelism
+    -   Theology, appologetics
+    -   Evangelism, jihad
     -   New Age Movement
 -   Lots can be learned from other worldviews without 100% agreement.
     -   Presocratics
