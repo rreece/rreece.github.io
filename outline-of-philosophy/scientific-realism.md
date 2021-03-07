@@ -641,6 +641,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
     and made it the main journal of logical empiricism under the title *Erkenntnis*,
     edited by Carnap and Reichenbach.
 -   A.J. Ayer (1910-1989): *Language, Truth, and Logic* (1936) [^Ayer1936]
+    -   Helped the spread of positivism in British academia.
 -   *International Encyclopedia of Unified Science*
     -   Only the first section *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
 -   Schlick & Rynin. (1948). "Positivism and realism" [^Schlick1948]

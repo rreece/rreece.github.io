@@ -10,7 +10,7 @@ Carnap, R. & Schilpp, P. A. (1963). *The Philosophy of Rudolf Carnap*. Cambridge
 Creathe, R. (2011). Logical empiricism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/logical-empiricism/
 Fowler, S. (2010). LSL in a nutshell. https://philarchive.org/archive/FOWLIA
 Friedman, M. (1999). *Reconsidering Logical Positivism*. Cambridge University Press.
-Hahn, H., Neurath, O., & Carnap, R. (1973). The scientific conception of the world: The Vienna Circle. In M. Neurath & R.S. Cohen (Eds.) *Empiricism and Sociology* (pp. 298--318). Dordrecht: Reidel. [(Originally published in German in 1929 as "Wissenschaftliche Weltauffassung: Der Wiener Kreis")]
+Hahn, H., Neurath, O., & Carnap, R. (1973). The scientific conception of the world: The Vienna Circle. In M. Neurath & R.S. Cohen (Eds.) *Empiricism and Sociology* (pp. 298--318). Dordrecht: Reidel. https://www.biostasis.com/pdfs/viennacircle.pdf [(Originally published in German in 1929 as "Wissenschaftliche Weltauffassung: Der Wiener Kreis")]
 Leitgeb, H. & Carus, A. (2020). Rudolf Carnap. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/carnap/index.html
 Murzi, M. (2004). Vienna circle. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/viennacr/
 Murzi, M. (2001). Rudolf Carnap (1891-1970). *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/carnap/

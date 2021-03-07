@@ -189,7 +189,7 @@ Appendix
 | Ludwig Wittgenstein
 
 
-[^Note1]: 1929,Bibl. No. 179-Ed.
+[^Note1]: Wissenschaftliche Weltauffassung: Der Wiener Kreis (unsigned). Her. vom Verein Ernst Mach. (Preface signed by Hans Hahn, Otto Neurath, Rudolf Carnap.) 64 p. Wien, Artur Wolf, 1929.
 
 [^Note2]: The pamplet Wissenschaftliche Weltauffassung, Der Wiener Kreis does not give an author's name on the title page - unless one considers 'Der Wiener Kreis' as author, being printed in smaller type. This pamphlet is the product of teamwork; Neurath did the writing, Hahn and Carnap edited the text with him; other members of the Circle were asked for their comments and contributions. (H. Feigl mentions F. Waismann and himself, see: 'Wiener Kreis in America' in *Perspectives in American History*, 11, 1968). See also H. Neider's remarks in his contribution to our first chapter; he was a witness, as I was myself. (The publisher, Artur Wolf, also published the first colour book of the Social and Economic Museum in Vienna.) Carnap and Hahn's widow gave us their permission to include the pamphlet among Otto Neurath's writings. In fact, the name Wiener Kreis (Vienna Circle) was invented and suggested by Neurath. (See the Neurath-Carnap correspondence in a later volume in this series.) - M.N.
 
