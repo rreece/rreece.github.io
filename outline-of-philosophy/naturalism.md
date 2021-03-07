@@ -367,7 +367,10 @@ Opening lines to *ETMG*:
 >   objective truth, and should be discontinued. [^Ladyman2007pi]
 
 -   TODO: Maddy
--   See also: [Natural kinds](#natural-kinds).
+
+See also:
+
+-   [Natural kinds](#natural-kinds)
 
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
@@ -385,15 +388,21 @@ Physicalism
 -   Parmenides
 -   Materialism, physicalism, functionalism
 -   Alyssa Ney on dualism, physicalism, neutral monism
--   See also: [Physicalism](mind.html#physicalism) in the [Outline on Philosophy of Mind](mind.html).
+
+See also:
+
+-   [Physicalism](mind.html#physicalism) in the [Outline on Philosophy of Mind](mind.html)
 
 
 ### Uniformity of nature
 
 -   Part of methodological naturalism, but also a result of empirical confirmation.
 -   Limits on deviations in $\alpha_\mathrm{EM}$
--   See also: [Bracketing human experience](physics.html#bracketing-human-experience)
-    in the [Outline on Philosophy of Physics](physics.html).
+
+See also:
+
+-   [Bracketing human experience](physics.html#bracketing-human-experience)
+    in the [Outline on Philosophy of Physics](physics.html)
 
 ![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
 
@@ -477,8 +486,8 @@ Part of metaphysical naturalism.
 
 See also:
 
--   [Outline on scientific realism](scientific-realism.html).
--   [Outline on philosophy of mathematics](math.html#naturalism).
+-   [Outline on scientific realism](scientific-realism.html)
+-   [Outline on philosophy of mathematics](math.html#naturalism)
 
 [^Quine1969p26]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 26--68.
 [^Quine1969p114]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 114--138.
@@ -490,10 +499,12 @@ See also:
 ### Criticism
 
 -   Hennig: "What are the true clusters?"
--   See also:
-    -   [Clustering](statistics.html#clustering) in the [Outline on statistics](statistics.html)
-    -   [Constructive empiricism](scientific-realism.html#constructive-empiricism) in the [Outline on scientific realism](scientific-realism.html)
-    -   [Nominalism](math.html#nominalism) in the [Outline on mathematics](math.html).
+
+See also:
+
+-   [Clustering](statistics.html#clustering) in the [Outline on statistics](statistics.html)
+-   [Constructive empiricism](scientific-realism.html#constructive-empiricism) in the [Outline on scientific realism](scientific-realism.html)
+-   [Nominalism](math.html#nominalism) in the [Outline on mathematics](math.html).
 
 
 Rejection of the supernatural
@@ -507,7 +518,10 @@ Rejection of the supernatural
 -   The Lewis-Anscombe debate
     -   [The Lewis-Anscombe debate](http://thecslewis-studygroup.org/the-c-s-lewis-study-group/lewis-genre/theology/miracles-2/the-lewisanscombe-debate/)
     -   The rewrite of chapter 3 in *Miracles* [^Lewis1947]
--   See also: [Atheism](human-condition.html#atheism)
+
+See also:
+
+-   [Atheism](human-condition.html#atheism)
 
 Jenkins says naturalism is
 
@@ -520,7 +534,9 @@ Jenkins says naturalism is
 
 ### Miracles
 
--   See also: [Atheism](human-condition.html#atheism).
+See also:
+
+-   [Atheism](human-condition.html#atheism).
 
 
 ### Criticism
@@ -567,7 +583,6 @@ Schopenhauer:
 -   Methodological naturalism
 -   What are the limits of science?
 -   Are there other ways of knowing?
--   See also: [Is there a universal scientific method?](file:///Users/reece/at-github/rreece.github.io/outline-of-philosophy/scientific-method.html#is-there-a-universal-scientific-method)
 -   Is there any unique project left for metaphysics?
     -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
 -   Scruton, R. (2015). Scientism and the humanities. [^Scruton2015]
@@ -601,6 +616,10 @@ Scruton:
 >   therefore deficient, and ought to be replaced by the study of pigments,
 >   is surely missing the point. There are forms of human understanding that
 >   can be neither reduced to science nor enhanced by it.  [^Scruton2015p140]
+
+See also:
+
+-   [Is there a universal scientific method?](file:///Users/reece/at-github/rreece.github.io/outline-of-philosophy/scientific-method.html#is-there-a-universal-scientific-method)
 
 [^Boghossian2006p2]: @Boghossian_2006_Fear_of_Knowledge\, p. 2.
 [^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
@@ -770,7 +789,10 @@ Other worldviews
     -   Existentialism
     -   Native American philosophy
     -   Etc.
--   See also the [Outline on the human condition](human-condition.html)
+
+See also:
+
+-   [Outline on the human condition](human-condition.html)
 
 
 My thoughts
