@@ -471,11 +471,12 @@ Part of metaphysical naturalism.
 -   Quine, W.V.O. (1969). Natural kinds. [^Quine1969p114]
 -   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
 
-See the [Outline on scientific realism](scientific-realism.html).
-
-See the [Outline on philosophy of mathematics](math.html#naturalism).
-
 ![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism), 2015).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
+
+See also:
+
+-   [Outline on scientific realism](scientific-realism.html).
+-   [Outline on philosophy of mathematics](math.html#naturalism).
 
 [^Quine1969p26]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 26--68.
 [^Quine1969p114]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 114--138.
@@ -567,8 +568,28 @@ Schopenhauer:
 -   See also: [Is there a universal scientific method?](file:///Users/reece/at-github/rreece.github.io/outline-of-philosophy/scientific-method.html#is-there-a-universal-scientific-method)
 -   Is there any unique project left for metaphysics?
     -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
+-   Scruton, R. (2015). Scientism and the humanities. [^Scruton2015]
+    -   *Naturwissenschaften* and *Geisteswissenschaften*
+
+Scruton:
+
+>   In our present circumstances the impression arises that, outside the hard
+>   sciences, just about anything goes, and that the humanities have neither a
+>   method nor a received body of knowledge, it being up to the professor to
+>   decide what to teach in his class. [^Scruton2015p132]
+
+>   Art critics have a discipline, and it is one that involves reasoning and
+>   judgment. It is not a science, and what it describes forms no part of the
+>   physical world, which does not contain Olympia or anything else that you
+>   see in Manet's painting. Yet someone who thought that art criticism is
+>   therefore deficient, and ought to be replaced by the study of pigments,
+>   is surely missing the point. There are forms of human understanding that
+>   can be neither reduced to science nor enhanced by it.  [^Scruton2015p140]
 
 [^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
+[^Scruton2015]: @Scruton_2015_Scientism_and_the_humanities\.
+[^Scruton2015p132]: @Scruton_2015_Scientism_and_the_humanities\, p. 132-3\.
+[^Scruton2015p140]: @Scruton_2015_Scientism_and_the_humanities\, p. 140-1\.
 
 
 Moral naturalism
