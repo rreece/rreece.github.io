@@ -556,7 +556,7 @@ TODO
 [^Barrett2011]: @Barrett_2011_Everetts_pure_wave_mechanics_and_the_notion\.
 [^Barrett2012p171]: @Barrett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\, p. 171.
 [^Barrett2012]: @Barrett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\.
-[^Carroll2019-2]: @Carroll_2019_Mad_Dog_everettianism_quantum_mechanics_at_its\.
+[^Carroll2019-2]: @Carroll_2019_Mad_Dog_Everettianism_Quantum_mechanics_at_its\.
 [^Carroll2019]: @Carroll_2019_Something_Deeply_Hidden\.
 [^DeWitt1970]: @DeWitt_1970_Quantum_mechanics_and_reality\.
 

@@ -832,7 +832,7 @@ Boghossian:
 >   that there are powerful considerations in favor of
 >   a relativistic view of epistemic judgments, arguments which draw on the alleged
 >   existence of alternative epistemic systems and the inevitable norm-circularity
->   of any justification we might oVer for our own epistemic systems. Although such
+>   of any justification we might offer for our own epistemic systems. Although such
 >   arguments may seem initially seductive, they do not ultimately withstand critical
 >   scrutiny. Moreover, there are decisive objections to epistemic relatiism.
 >   It would seem, then, that we have no option but to think that there are absolute,

@@ -139,7 +139,7 @@ Logic
     -   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift) (1879)
 -   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
     -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
-    -   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+-   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
     -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
     -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
 

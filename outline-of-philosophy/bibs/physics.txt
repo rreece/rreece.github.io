@@ -9,7 +9,7 @@ Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal 
 Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
 Carroll, S.M. (2004). *Spacetime and Geometry*. Addison Wesley.
 Carroll, S.M. (2019). *Something Deeply Hidden*. Dutton.
-Carroll, S.M. & Singh, A. (2019). Mad-Dog everettianism: quantum mechanics at its most minimal. In *What is Fundamental?* (pp. 95--104). Springer. https://arxiv.org/abs/1801.08132
+Carroll, S.M. & Singh, A. (2019). Mad-Dog Everettianism: Quantum mechanics at its most minimal. In *What is Fundamental?* (pp. 95--104). Springer. https://arxiv.org/abs/1801.08132
 Coleman, S. & Mandula, J. (1967). All possible symmetries of the S matrix. *Physical Review*, 159(5), 1251--1256.
 DeWitt, B.S. (1970). Quantum mechanics and reality. *Physics Today*, 23(9), 30--35.
 Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. In Falkenburg, B. & Morrison, M. (Eds.) *Why More is Different: Philosophical issues in condensed matter physics and complex systems* (pp. 41--54). Springer.
