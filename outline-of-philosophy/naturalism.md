@@ -453,6 +453,8 @@ Alex Rosenberg is a mad dog against emergence. Video:
 
 ### Criticism
 
+Wittgenstein:
+
 >   There are, indeed, things that cannot be put into words.
 >   They *make themselves manifest*. They are what is mystical. [^WittgensteinTLP_6_522]
 
@@ -572,6 +574,19 @@ Schopenhauer:
     -   *Naturwissenschaften* and *Geisteswissenschaften*
 -   Chick Corea. (2020). [Memorizing versus knowing](https://www.youtube.com/watch?v=XI8NiMewmEg).
 
+Boghossian:
+
+>   Especially within the academy, but also and inevitably to some extent outside
+>   of it, the idea that there are "many equally valid ways of knowing
+>   the world," with science being just one of them, has taken very deep root.
+>   In vast stretches of the humanities and social sciences, this sort of 
+>   "postmodernist relativism" about knowledge has achieved the status of orthodoxy.
+>   I shall call it (as neutrally as possible) the doctrine of
+>   
+>   *Equal Validity:*      
+>   There are many radically different, yet "equally valid" ways of knowing the world,
+>   with science being just one of them. [^Boghossian2006p2]
+
 Scruton:
 
 >   In our present circumstances the impression arises that, outside the hard
@@ -587,6 +602,7 @@ Scruton:
 >   is surely missing the point. There are forms of human understanding that
 >   can be neither reduced to science nor enhanced by it.  [^Scruton2015p140]
 
+[^Boghossian2006p2]: @Boghossian_2006_Fear_of_Knowledge\, p. 2.
 [^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
 [^Scruton2015]: @Scruton_2015_Scientism_and_the_humanities\.
 [^Scruton2015p132]: @Scruton_2015_Scientism_and_the_humanities\, p. 132-3\.
@@ -636,10 +652,10 @@ Criticisms of naturalism
     -   Rosenberg, A. [Why I am a naturalist.](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) *New York Times*. [^Rosenberg2011]
     -   Mallon, R. (2019). [Naturalistic approaches to social construction.](https://plato.stanford.edu/entries/social-construction-naturalistic/) *Stanford Encyclopedia of Philosophy*. 
 -   Criticisms of postmodernism:
+    -   Boghossian, P. (2006). *Fear of Knowledge*. [^Boghossian2006]
     -   Hicks, S. (2010). [Why Kant is the turning point.](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/)
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011]
     -   Video: [Explaining Postmodernism In 2018 - Stephen Hicks](https://www.youtube.com/watch?v=-BGbHG63x8w)
-    -   Boghossian, P. (2006). *Fear of Knowledge*. [^Boghossian2006]
     -   Sartwell, C. (2015). [Philosophy returns to the real world.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) *New York Times*. [^Sartwell2015]
     -   Pluckrose, H. (2016). [Why I no longer identify as a feminist.](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/) *Areo Magazine*. [^Pluckrose2016]
     -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017]
@@ -742,10 +758,10 @@ Other worldviews
 
 -   Worldview/Weltanschauung
 -   Other meta-philosophies
--   Dualism, religion, mysticism
--   Theology
--   Evangelism
--   New Age Movement
+    -   Dualism, religion, mysticism
+    -   Theology
+    -   Evangelism
+    -   New Age Movement
 -   Lots can be learned from other worldviews without 100% agreement.
     -   Presocratics
     -   Stoicism
