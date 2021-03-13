@@ -715,7 +715,10 @@ Gravity and cosmology
 ### Dark matter
 
 -   [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster)
--   "A direct empirical proof of the existence of dark matter" [astro-ph/0608407](http://arxiv.org/abs/astro-ph/0608407)
+    -   "A direct empirical proof of the existence of dark matter" [^Clowe2006]
+-   Galaxy formation
+
+[^Clowe2006]: @Clowe_2006_A_direct_empirical_proof_of_the_existence_of_dark\.
 
 
 ### Inflation
@@ -725,6 +728,10 @@ Gravity and cosmology
     -   Vaccuum energy
     -   Inflaton field and slow-roll inflation
 -   $\Lambda$+CMD Cosmological Standard Model
+
+![How the $\Lambda$-CDM concordance model of cosmology was developed. [^Debono2016f4]](img/concordance-model-LCDM.png){#fig:concordance-model-LCDM}
+
+[^Debono2016f4]: @Debono_2016_General_relativity_and_cosmology_Unsolved\, figure 4.
 
 
 ### Alternative theories of gravity
