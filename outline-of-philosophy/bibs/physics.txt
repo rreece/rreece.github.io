@@ -21,6 +21,8 @@ Earman, J., & Fraser, D. (2006). Haag's theorem and its implications for the fou
 Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? *Physical Review*, 47, 777--780.
 Feynman, R.P. (1963). *The Feynman Lectures on Physics, Volume I*. California Institute of Technology. http://www.feynmanlectures.caltech.edu/I_03.html
 Feynman, R.P. (1965). The Development of the Space-Time View of Quantum Electrodynamics. Nobel Lecture, December 11, 1965. http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html
+Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 1: Development of the Theory and Basic Physical Applications*. Springer.
+Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 2: Black Holes, Cosmology and Introduction to Supergravity*. Springer.
 Giulini, D., Joos, E., Kiefer, C., Kupsch, J., Stamatescu, I. & Zeh, H.D. (1996). *Decoherence and the Appearance of a Classical World in Quantum Theory*. Springer.
 Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. Perseus Books.
 Goyal, P. (2020). Derivation of classical mechanics in an energetic framework via conservation and relativity. *Foundations of Physics*, 50, 1426--1479.

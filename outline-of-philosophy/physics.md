@@ -319,7 +319,7 @@ Pedagogy:
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
 [^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
 [^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
-[^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50 of arxiv:[1002.2985](https://arxiv.org/abs/1002.2985).
+[^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50.
 [^tHooft1994]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 
 
@@ -486,6 +486,7 @@ Maudlin:
     -   [supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - ncatlab.org
 -   Martin [^Martin2016]
 -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
+-   Supergravity reviewed by Fr&egrave; [^Fre2013v2ch6]
 -   See also: [Grand unification](physics.html#grand-unification)
 
 Urs Schreiber:
@@ -495,6 +496,8 @@ Urs Schreiber:
 >   (algebraic) super-groups precisely exhausts the moduli space of possible
 >   consistent local spacetime symmetry groups. [^Schreiber2016]
 
+
+[^Fre2013v2ch6]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 6.
 [^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries\.
 [^Martin2016]: @Martin_2016_A_supersymmetry_primer\.
 [^Schreiber2016]: Schreiber, U. (2016). [Learn about supersymmetry and Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/).
@@ -710,6 +713,9 @@ Gravity and cosmology
 -   Georges Lema&icirc;tre independently solved the Einstein field equations in 1927.
 -   Edwin Hubble observationally confirmed the expansion of the universe in 1929.
 -   Arno Penzias and Robert Wilson discovered the cosmic background radiation (CMB) in 1964.
+-   See history reviewed by Fr&egrave; [^Fre2013v2ch4]
+
+[^Fre2013v2ch4]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 4.
 
 
 ### Dark matter
@@ -717,6 +723,9 @@ Gravity and cosmology
 -   [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster)
     -   "A direct empirical proof of the existence of dark matter" [^Clowe2006]
 -   Galaxy formation
+    -   Millennium Simulation
+-   WIMP Miracle
+    -   Disfavored by LHC thus far.
 
 [^Clowe2006]: @Clowe_2006_A_direct_empirical_proof_of_the_existence_of_dark\.
 
@@ -727,7 +736,7 @@ Gravity and cosmology
 -   Dark energy
     -   Vaccuum energy
     -   Inflaton field and slow-roll inflation
--   $\Lambda$+CMD Cosmological Standard Model
+-   $\Lambda$-CDM Cosmological Standard Model
 
 ![How the $\Lambda$-CDM concordance model of cosmology was developed. [^Debono2016f4]](img/concordance-model-LCDM.png){#fig:concordance-model-LCDM}
 
