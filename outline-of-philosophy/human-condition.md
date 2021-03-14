@@ -280,9 +280,13 @@ Hinduism
     -   [Rigveda](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700-1,100 BCE)
         -   Oldest known Vedic Sanskrit text.
         -   Orally transmitted since the 2nd millennium BCE.
-    -   Samaveda, Yajurveda, Atharvaveda
-    -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - earliest probably from 6th century BCE
+    -   Samaveda
+    -   Yajurveda
+    -   Atharvaveda
+    -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - most recent parts, last chapters of the Vedas
+        -   earliest probably from 6th century BCE
         -   Katz & Egenes translation [^Katz2015]
+        -   [Vedanta](https://en.wikipedia.org/wiki/Vedanta) - Hindu school of philosophy that studies the Upanishads
         -   Schopenhauer: "the most profitable and elevating reading which... is possible in the world".
 -   [Mahabharata](https://en.wikipedia.org/wiki/Mahabharata) - sometimes called the "Fifth Veda" (c. 300 BCE - 300 CE)
     -   [Bhagavad Gita](https://en.wikipedia.org/wiki/Bhagavad_Gita) (c. 200-100 BCE)

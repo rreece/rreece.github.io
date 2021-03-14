@@ -254,6 +254,8 @@ Free speech
 Protests and (non-)violence
 --------------------------------------------------------------------------------
 
+-   [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) - Indian principle of nonviolence
+    -   [Satyagraha](https://en.wikipedia.org/wiki/Satyagraha) - "holding firmly to truth", coined by [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)
 -   MLK, etc.
 -   Osterweil, V. (2014). [In defense of looting](https://thenewinquiry.com/in-defense-of-looting). August 21, 2014.
 
