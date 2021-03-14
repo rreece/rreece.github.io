@@ -111,7 +111,7 @@ TODO
 -   W.V.D. Hodge (1903-1975)
 -   Chern-Simons
 -   TODO: review by Fr&egrave; [^Fre2013v1ch2]
-    -   manifold, tangen and cotangent spaces, vector bundle, fiber bundle
+    -   manifold, tangent and cotangent spaces, vector bundle, fiber bundle
 
 [^Fre2013v1ch2]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_1\, ch. 2.
 
