@@ -379,10 +379,13 @@ Platonism
 
 ### Contemporary platonism
 
+-   Quine's "reluctant platonism"
+    -   Indispensability argument
 -   Neopythagoreanism: Tegmark. (2008). "The mathmatical universe". [^Tegmark2008]
     -   Mathematical Universe Hypothesis (MUH)
 -   Seth Lloyd - the universe is a computer - pythagorean?
 -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
+-   Carroll, S. (2021). [Mindscape 127: Justin Clarke-Doane on Mathematics, Morality, Objectivity, and Reality](https://www.youtube.com/watch?v=3tvfq8ehHOk).
 -   [Proofs without words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
 
 ![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)

@@ -343,6 +343,9 @@ Hinduism
     -   Brahma
     -   [Vishnu](https://en.wikipedia.org/wiki/Vishnu)
     -   Shiva
+
+![Shiva statue at CERN, near Building 40, [a gift from India](https://www.sanskritimagazine.com/vedic_science/shivas-cosmic-dance-nataraj-at-cern/).](img/cern-shiva.jpg){#fig:cern-shiva}
+
 -   Others:
     -   [Ganesha](https://en.wikipedia.org/wiki/Ganesha)
     -   [Indra](https://en.wikipedia.org/wiki/Indra)
@@ -945,7 +948,7 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   [Meiji era](https://en.wikipedia.org/wiki/Meiji_(era))
 -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
 
-![Statues of kitsune (foxes) at Fushimi Inari-taisha (Ryan Reece, 2018).](img/kitsune-fushimi-inari.png)
+![Statues of kitsune (foxes) at Fushimi Inari-taisha (photo: Ryan Reece, 2018).](img/kitsune-fushimi-inari.png)
 
 
 ### American
@@ -1251,7 +1254,11 @@ Romanticism
 -   [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) (1712-1778)
 -   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
     -   See: [Comparitive studies](#comparitive-studies)
--   [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) (1749-1832)
+-   [*Sturm und Drang*](https://en.wikipedia.org/wiki/Sturm_und_Drang) - "storm and drive"
+    -   Proto-romantic movement in German literature and music that occurred between the late 1760s through the early 1780s.
+    -   [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) (1749-1832)
+    -   Haydn and Mozart
+-   [Weimar Classicism](https://en.wikipedia.org/wiki/Weimar_Classicism)
 
 William Jones, in his 1772 "Essay on the Arts called Imitative", was one of the
 first to propound an expressive theory of poetry, valorising expression over
@@ -1757,6 +1764,8 @@ Existentialism
 
 -   Miller, A. (1949). *Death of a Salesman*. (a play)
 -   TODO: more
+
+![*The Scream*, Edvard Munch, 1893.](img/1893.Munch.The-Scream.png){#fig:1893.Munch.The-Scream}
 
 
 Nihilism

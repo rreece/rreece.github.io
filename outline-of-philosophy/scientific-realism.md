@@ -1144,6 +1144,7 @@ understand the structures that generate such unobservable events.
 -   Roy Wood Sellars
 -   Wilfrid Sellars
     -   The Myth of the Given
+    -   Sheff, N. (2021). [Wilfrid Sellars, sensory experience and the 'Myth of the Given'](https://psyche.co/ideas/wilfrid-sellars-sensory-experience-and-the-myth-of-the-given).
 -   Roy Bhaskar
 -   Freely emphasizes the political implications of scientific realism.
 -   The normative importance of climate science.

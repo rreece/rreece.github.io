@@ -435,7 +435,7 @@ Exotics in quantum field theory
 -   Holonomy
 -   Maudlin on fiber bundles
 -   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
--   Topological QFT (QFT)
+-   Topological QFT (TQFT)
     -   [cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
     -   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos) - nLab
 
