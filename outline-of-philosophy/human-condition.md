@@ -1254,7 +1254,7 @@ Romanticism
 -   [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) (1712-1778)
 -   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
     -   See: [Comparitive studies](#comparitive-studies)
--   [*Sturm und Drang*](https://en.wikipedia.org/wiki/Sturm_und_Drang) - "storm and drive"
+-   [*Sturm und Drang*](https://en.wikipedia.org/wiki/Sturm_und_Drang) - "Storm and Drive"
     -   Proto-romantic movement in German literature and music that occurred between the late 1760s through the early 1780s.
     -   [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) (1749-1832)
     -   Haydn and Mozart

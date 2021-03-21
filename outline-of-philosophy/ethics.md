@@ -112,6 +112,8 @@ Moral realism
 -   Plato: [*Minos*](https://en.wikipedia.org/wiki/Minos_(dialogue))
 -   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
 
+Plato:
+
 >   What about someone who believes in beautiful things, but doesn't believe
 >   in the beautiful itself and isn't able to follow anyone who could lead him
 >   to the knowledge of it? Don't you think he is living in a dream rather than
@@ -140,6 +142,8 @@ Moral naturalism
 -   de Waal [^deWaal1982]
 -   evolution of trust
 -   Patricia Churchland
+
+Churchland:
 
 >   Our moral behavior, while more complex than the social behavior of other 
 >   animals, is similar in that it represents our attempt to manage well in the
