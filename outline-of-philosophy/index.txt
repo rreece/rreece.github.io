@@ -7,11 +7,11 @@ Contents
 
 All the following are in flux and development:
 
-1.  [Invitation to scientific philosophy](invitation.html) -- start here.
-1.  [The scientific method](scientific-method.html) -- the key to epistemology.
-1.  [Philosophy of statistics](statistics.html)  -- the details behind a justified epistemology.
-1.  [Scientific realism](scientific-realism.html) -- the key to metaphysics.
-1.  [Naturalism](naturalism.html) -- a metaphilosophy that says science should bootstrap philosophy.
+1.  [Invitation to scientific philosophy](invitation.html) -- Start here.
+1.  [The scientific method](scientific-method.html) -- The key to epistemology.
+1.  [Philosophy of statistics](statistics.html)  -- The details behind a justified epistemology.
+1.  [Scientific realism](scientific-realism.html) -- The key to metaphysics.
+1.  [Naturalism](naturalism.html) -- A metaphilosophy that says science should bootstrap philosophy.
 1.  [Philosophy of mathematics](math.html) -- What is abstraction?
 1.  [Philosophy of physics](physics.html) -- What are good theories of the world?
 1.  [Philosophy of mind](mind.html) -- What is consciousness?
