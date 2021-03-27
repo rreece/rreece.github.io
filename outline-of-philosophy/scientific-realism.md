@@ -780,6 +780,7 @@ Pragmatism
     is real, however, we really deny realism.
 -   Meaning is rooted in use.
 -   Uniquely American philosophical movement.
+-   [Pragmatic theory of truth](https://plato.stanford.edu/entries/truth-pragmatic/)
 
 People:
 
@@ -1641,10 +1642,12 @@ Click to show links
 -   [Ontological Dependence](http://plato.stanford.edu/entries/dependence-ontological/)
 -   [Peirce, Charles Sanders (1839-1914)](http://plato.stanford.edu/entries/peirce/)
 -   [Popper, Karl (1902-1994)](http://plato.stanford.edu/entries/popper/)
+-   [Pragmatic theory of truth](https://plato.stanford.edu/entries/truth-pragmatic/)
 -   [Pragmatism](http://plato.stanford.edu/entries/pragmatism/)
 -   [Private language](https://plato.stanford.edu/entries/private-language/)
 -   [Propositions](https://plato.stanford.edu/entries/propositions/)
 -   [Quine, W.V. (1908-2000)](http://plato.stanford.edu/entries/quine/)
+-   [Ramsey, Frank (1903-1930)](https://plato.stanford.edu/entries/ramsey/)
 -   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Realism](http://plato.stanford.edu/entries/realism/)
 -   [Rorty, Richard (1931-2007)](http://plato.stanford.edu/entries/rorty/)
@@ -1847,32 +1850,6 @@ Click to show links
 -   [Brassier, Ray. (2013). The Myth of the Given: Nominalism, Naturalism & Materialism](https://www.youtube.com/watch?v=dI5MZ2kBK9M)
 -   [Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). The Young Wittgenstein,](https://www.youtube.com/watch?v=fE4dDqUTnaA)
 
-
-[^Popper-1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
-[^Kuhn-1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
-[^Putnam-1982-1]: Putnam, H. (1982). Three Kinds of Scientific Realism.
-[^Putnam-1982-2]: Putnam, H. (1982). Why There Isn't a Ready-Made World.
-[^Fine-1984-1]: Fine, A. (1984). The Natural Ontological Attitude.
-[^Fine-1984-2]: Fine, A. (1984). And Not Anti-Realism Either.
-[^Musgrave-1989]: Musgrave, A. (1989). Noah's Ark Fine for Realism.
-[^Worrall-1989]: Worrall, J. (1989). Structural Realism: The Best of Both Worlds?
-[^Laudan-1990]: Laudan, L. (1990). Demystifying Underdetermination.
-[^Dennett-1991]: Dennett, D. (1991). Real Patterns.
-[^Ladyman-1998]: Ladyman, J. (1998). What is Structural Realism?
-[^Bueno-1999]: Bueno, O. (1999). What is Structural Empiricism?
-[^Psillos-2000]: Psillos, S. (2000). The Present State of the Scientific Realism Debate.
-[^Chang-2001]: Chang, H. (2001). Realism Beyond Footstamping.
-[^van-Fraassen-2001]: van Fraassen, B. (2001). Constructive Empiricism Now.
-[^Hacking-2006]: Hacking, I. (2006). Natural Kinds.
-[^Psillos-2007]: Psillos, S. (2007). Choosing the Realist Framework.
-[^Bueno-2008]: Bueno, O. (2008). Structural Realism, Scientific Change, and Partial Structures.
-[^Bain-2009]: Bain, J. (2009). Towards Structural Realism.
-[^Psillos-2009]: Psillos, S. (2009). On Reichenbach's argument for scientific realism.
-[^Psillos-2010]: Psillos, S. (2010). Scientific Realism: Between Platonism and Nominalism.
-[^Frigg-Votsis-2011]: Frigg, R. & Votsis, I. (2011). Everything You Always Wanted to Know About Structural Realism But Were Afraid to Ask.
-[^Mizrahi-2012]: Mizrahi, M. (2012). Pessimistic Induction: A Bad Argument Gone Too Far.
-[^Psillos-2012]: Psillos, S. (2012). One Cannot Be a Little Bit Realist: Putnam and van Fraassen.
-[^Tegmark-2014]: Tegmark, M. (2014). Our Mathematical Universe: My Quest for the Ultimate Nature of Reality.
 
 </div>
 

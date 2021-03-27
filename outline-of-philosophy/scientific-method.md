@@ -345,6 +345,7 @@ Rationalism vs empiricism
 ### Rationalists
 
 -   Ren&eacute; Descartes (1596-1650)
+    -   [Descartes' method](https://plato.stanford.edu/entries/descartes-method/)
 -   Baruch Spinoza (1632-1677)
 -   Gottfried Wilhelm Leibniz (1646-1716)
     -   *New Essays on Human Understanding* (1765)
@@ -1354,7 +1355,8 @@ Click to show links
 -   [Confirmation](https://plato.stanford.edu/entries/confirmation/)
 -   [Democritus (460-370 BCE)](http://plato.stanford.edu/entries/democritus/)
 -   [Descartes, Ren&eacute; (1596-1650)](http://plato.stanford.edu/entries/descartes/)
--   [Descartes' Epistemology](http://plato.stanford.edu/entries/descartes-epistemology/)
+-   [Descartes' epistemology](http://plato.stanford.edu/entries/descartes-epistemology/)
+-   [Descartes' method](https://plato.stanford.edu/entries/descartes-method/)
 -   [Epistemological problems of perception](http://plato.stanford.edu/entries/perception-episprob/)
 -   [Epistemological problems of testimony](http://plato.stanford.edu/entries/testimony-episprob/)
 -   [Epistemology](http://plato.stanford.edu/entries/epistemology/)
@@ -1364,6 +1366,7 @@ Click to show links
 -   [Gassendi, Pierre (1592-1655)](http://plato.stanford.edu/entries/gassendi/)
 -   [Historicist theories of scientific sationality](https://plato.stanford.edu/entries/rationality-historicist/)
 -   [Hobbes, Thomas (1588-1679)](http://plato.stanford.edu/entries/hobbes/)
+-   [Hobbes' philosophy of science](https://plato.stanford.edu/entries/hobbes-science/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
 -   [Ibn Sina (980-1037)](https://plato.stanford.edu/entries/ibn-sina/)
 -   [Identity of Indiscernibles](http://plato.stanford.edu/entries/identity-indiscernible/)

@@ -1,4 +1,4 @@
-\newcommand*{\trans}{^{\mkern-1.5mu\mathsf{T}}}
+\newcommand*{\trans}{^{\mathsf{T}}}
 
 Philosophy of statistics
 ================================================================================
@@ -628,6 +628,7 @@ Exploratory data analysis
 -   "Data science"
     -   Data collection, quality, analysis, archival, and reinterpretation
     -   RECAST
+-   [Scientific research and big data](https://plato.stanford.edu/entries/science-big-data/)
 
 
 "Statistics Wars"
@@ -1058,94 +1059,84 @@ Papers:
 
 1.  Keskar, N.S. et al. (2016). [On large-batch training for deep learning: Generalization gap and sharp minima](https://arxiv.org/abs/1609.04836).
 
-    >   [L]arge-batch methods tend to converge to sharp minimizers of the training and testing
-    >   functions---and as is well known---sharp minima lead to poorer generalization.
-    >   In contrast, small-batch methods consistently converge to flat minimizers,
-    >   and our experiments support a commonly held view that this is due to the
-    >   inherent noise in the gradient estimation.
+>   [L]arge-batch methods tend to converge to sharp minimizers of the training and testing
+>   functions---and as is well known---sharp minima lead to poorer generalization.
+>   In contrast, small-batch methods consistently converge to flat minimizers,
+>   and our experiments support a commonly held view that this is due to the
+>   inherent noise in the gradient estimation.
 
 2.  Hoffer, E. et al. (2017). [Train longer, generalize better: closing the generalization gap in large batch training of neural networks](https://arxiv.org/abs/1705.08741).
-
     -   $\eta \propto \sqrt{m}$
 
 3.  Goyal, P. et al. (2017). [Accurate large minibatch SGD: Training ImageNet in 1 hour](https://arxiv.org/abs/1706.02677).
-
     -   $\eta \propto m$
 
 4.  You, Y. et al. (2017).  [Large batch training of convolutional networks](https://arxiv.org/abs/1708.03888).
-
     -   Layer-wise Adaptive Rate Scaling (LARS)
 
 5.  You, Y. et al. (2017). [ImageNet training in minutes](https://arxiv.org/abs/1709.05011).
-
     -   Layer-wise Adaptive Rate Scaling (LARS)
 
 6.  Jastrzebski, S. (2018). [Three factors influencing minima in SGD](https://arxiv.org/abs/1711.04623).
-
     -   $\eta \propto m$
 
 7.  Smith, S.L. & Le, Q.V. (2018). [A Bayesian Perspective on Generalization and Stochastic Gradient Descent](https://arxiv.org/abs/1710.06451).
 
 8.  Smith, S.L. et al. (2018). [Don't decay the learning rate, increase the batch size](https://arxiv.org/abs/1711.00489).
-
     -   $m \propto \eta$
 
 9.  Masters, D. & Luschi, C. (2018). [Revisiting small batch training for deep neural networks](https://arxiv.org/abs/1804.07612).
 
-    >   This linear scaling rule has been widely adopted, e.g., in Krizhevsky (2014), Chen et al. (2016),
-    >   Bottou et al. (2016), Smith et al. (2017) and Jastrzebski et al. (2017).
-    >   
-    >   On the other hand, as shown in Hoffer et al. (2017), when $m \ll M$, the covariance matrix of the
-    >   weight update $\mathrm{Cov(\eta \Delta\theta)}$ scales linearly with the quantity $\eta^2/m$.
-    >   
-    >   This implies that, adopting the linear scaling rule, an increase in the batch size would 
-    >   also result in a linear increase in the covariance matrix of the weight update $\eta \Delta\theta$.
-    >   Conversely, to keep the scaling of the covariance of the weight update vector $\eta \Delta\theta$
-    >   constant would require scaling $\eta$ with the square root of the batch size $m$ (Krizhevsky, 2014; Hoffer et al., 2017).
+>   This linear scaling rule has been widely adopted, e.g., in Krizhevsky (2014), Chen et al. (2016),
+>   Bottou et al. (2016), Smith et al. (2017) and Jastrzebski et al. (2017).
+>   
+>   On the other hand, as shown in Hoffer et al. (2017), when $m \ll M$, the covariance matrix of the
+>   weight update $\mathrm{Cov(\eta \Delta\theta)}$ scales linearly with the quantity $\eta^2/m$.
+>   
+>   This implies that, adopting the linear scaling rule, an increase in the batch size would 
+>   also result in a linear increase in the covariance matrix of the weight update $\eta \Delta\theta$.
+>   Conversely, to keep the scaling of the covariance of the weight update vector $\eta \Delta\theta$
+>   constant would require scaling $\eta$ with the square root of the batch size $m$ (Krizhevsky, 2014; Hoffer et al., 2017).
 
-10.  Lin, T. et al. (2020). [Don't use large mini-batches, use local SGD](https://arxiv.org/abs/1808.07217).
-
-    -   Post-local SGD
+10.  Lin, T. et al. (2020). [Don't use large mini-batches, use local SGD](https://arxiv.org/abs/1808.07217).        
+    -   Post-local SGD.
 
 11. Golmant, N. et al. (2018). [On the computational inefficiency of large batch sizes for stochastic gradient descent](https://arxiv.org/abs/1811.12941).
 
-    >   Scaling the learning rate as $\eta \propto \sqrt{m}$ attempts to keep the weight
-    >   increment length statistics constant, but the distance between SGD iterates is governed more
-    >   by properties of the objective function than the ratio of learning rate to batch size.
-    >   This rule has also been found to be empirically sub-optimal in various problem domains.
-    >   ...
-    >   There does not seem to be a simple training heuristic to improve large batch performance in general.
+>   Scaling the learning rate as $\eta \propto \sqrt{m}$ attempts to keep the weight
+>   increment length statistics constant, but the distance between SGD iterates is governed more
+>   by properties of the objective function than the ratio of learning rate to batch size.
+>   This rule has also been found to be empirically sub-optimal in various problem domains.
+>   ...
+>   There does not seem to be a simple training heuristic to improve large batch performance in general.
 
 12. McCandlish, S. et al. (2018). [An empirical model of large-batch training](https://arxiv.org/abs/1812.06162).
-
     -   Critical batch size
 
 13. Shallue, C.J. et al. (2018). [Measuring the effects of data parallelism on neural network training](https://arxiv.org/abs/1811.03600).
 
-    >   In all cases, as the batch size grows, there is an initial period of
-    >   perfect scaling ($b$-fold benefit, indicated with a dashed line on the plots) where the steps
-    >   needed to achieve the error goal halves for each doubling of the batch size. However, for
-    >   all problems, this is followed by a region of diminishing returns that eventually leads to
-    >   a regime of maximal data parallelism where additional parallelism provides no benefit
-    >   whatsoever.
+>   In all cases, as the batch size grows, there is an initial period of
+>   perfect scaling ($b$-fold benefit, indicated with a dashed line on the plots) where the steps
+>   needed to achieve the error goal halves for each doubling of the batch size. However, for
+>   all problems, this is followed by a region of diminishing returns that eventually leads to
+>   a regime of maximal data parallelism where additional parallelism provides no benefit
+>   whatsoever.
 
 14. Jastrzebski, S. et al. (2018). [Width of minima reached by stochastic gradient descent is influenced by learning rate to batch size ratio](https://link.springer.com/chapter/10.1007/978-3-030-01424-7_39).
     -   $\eta \propto m$
 
-    >   We show this experimentally in Fig. 5, where similar learning dynamics and final performance can be observed when simultaneously multiplying the learning rate and batch size by a factor up to a certain limit.
+>   We show this experimentally in Fig. 5, where similar learning dynamics and final performance can be observed when simultaneously multiplying the learning rate and batch size by a factor up to a certain limit.
 
 15. You, Y. et al. (2019). [Large-batch training for LSTM and beyond](https://arxiv.org/abs/1901.08256).
-
     -   Warmup and use $\eta \propto m$
 
-    >   [W]e propose linear-epoch gradual-warmup approach in this paper. We call
-    >   this approach Leg-Warmup (LEGW). LEGW enables a Sqrt Scaling scheme in practice and as a
-    >   result we achieve much better performance than the previous Linear Scaling learning rate scheme.
-    >   For the GNMT application (Seq2Seq) with LSTM, we are able to scale the batch size by a factor
-    >   of 16 without losing accuracy and without tuning the hyper-parameters mentioned above.
+>   [W]e propose linear-epoch gradual-warmup approach in this paper. We call
+>   this approach Leg-Warmup (LEGW). LEGW enables a Sqrt Scaling scheme in practice and as a
+>   result we achieve much better performance than the previous Linear Scaling learning rate scheme.
+>   For the GNMT application (Seq2Seq) with LSTM, we are able to scale the batch size by a factor
+>   of 16 without losing accuracy and without tuning the hyper-parameters mentioned above.
 
 16. You, Y. et al. (2019). [Large batch optimization for deep learning: Training BERT in 76 minutes](https://arxiv.org/abs/1904.00962).
-
     -   LARS and LAMB
 
 17. Zhang, G. et al. (2019). [Which algorithmic choices matter at which batch sizes? Insights from a Noisy Quadratic Model](https://arxiv.org/abs/1907.04164).

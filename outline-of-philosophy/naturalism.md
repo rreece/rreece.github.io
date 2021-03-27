@@ -46,7 +46,7 @@ Maddy defines naturalism:
 >   To qualify as unnaturalistic, a contemporary thinker has to insist,
 >   for example, that epistemology is an a priori discipline with nothing to
 >   learn from empirical psychology or that metaphysical intuitions show
-
+>   quantum mechanics to be false.  [^Maddy2007p1]
 
 >   So our inquirer will continue her investigation of the world in her familiar
 >   ways, despite her encounter with Descartes and his meditator. She will ask
@@ -104,14 +104,14 @@ Papineau:
 >   more closely with science. They urged that reality is exhausted by nature,
 >   containing nothing "supernatural", and that the scientific method should
 >   be used to investigate all areas of reality, including the "human spirit"
->   (Krikorian 1944, Kim 2003).
-
+>   (Krikorian 1944, Kim 2003). 
+>
 >   So understood, "naturalism" is not a particularly informative term as
 >   applied to contemporary philosophers. The great majority of contemporary
 >   philosophers would happily accept naturalism as just characterized---that is,
 >   they would both reject "supernatural" entities, and allow that science is
 >   a possible route (if not necessarily the only one) to important truths about
->   the "human spirit".
+>   the "human spirit". [^Papineau2007]
 
 [^Jacobs2002]: @Jacobs_2002_Naturalism\. 
 [^Ladyman2007p5]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 5.
@@ -491,8 +491,6 @@ See also:
 
 [^Quine1969p26]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 26--68.
 [^Quine1969p114]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 114--138.
-[^Quine1981p474]: @Quine_1981_Reply_to_Stroud, p. 474. A similar quote can be
-    found in @Quine_1981_Theories_and_Things, p. 21.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
 
@@ -587,6 +585,7 @@ Schopenhauer:
     -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
 -   Scruton, R. (2015). Scientism and the humanities. [^Scruton2015]
     -   *Naturwissenschaften* and *Geisteswissenschaften*
+-   [Feminist perspectives on argumentation](https://plato.stanford.edu/entries/feminism-argumentation/)
 -   Chick Corea. (2020). [Memorizing versus knowing](https://www.youtube.com/watch?v=XI8NiMewmEg).
 
 Boghossian:

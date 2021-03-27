@@ -576,7 +576,7 @@ Atheism:
 >   statement turns out to be comparable to a queue of blind men: the first
 >   one does not see, the middle one does not see, and the last one does not
 >   see. Their statement turns out to be a joke---mere words, void and
->   hollow." (From [DN 13](https://suttacentral.net/dn13/en/sujato))
+>   hollow." ([DN 13](https://suttacentral.net/dn13/en/sujato))
 
 -   "Sectarian Tenets" ([AN 3.61](https://suttacentral.net/an3.61/en/sujato))
 -   Hayes. (1988). Principled atheism in the Buddhist scholastic tradition [^Hayes1988]
@@ -729,6 +729,7 @@ Online Suttas:
         -   [Zazen](https://en.wikipedia.org/wiki/Zazen) - "seated meditation"
         -   [K&omacr;an](https://en.wikipedia.org/wiki/Koan)
         -   [D&omacr;gen](https://en.wikipedia.org/wiki/D%C5%8Dgen) (1200-1253)
+    -   SEP: [Japanese philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)
 -   [Korean Buddhism](https://en.wikipedia.org/wiki/Korean_Buddhism)
         -   [Seon](https://en.wikipedia.org/wiki/Korean_Seon) - "Ch&aacute;n" in Korea
 -   Mah&amacr;y&amacr;na Buddhism in southern Asia:
@@ -929,6 +930,9 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   [Confucius](https://en.wikipedia.org/wiki/Confucius) (551-479 BCE)
 -   Confucius studied the *Yijing*
 -   [Rectification of names](https://en.wikipedia.org/wiki/Rectification_of_names)
+
+>   By nature, men are nearly alike; by practice, they get to be wide apart.
+
 
 #### Mohism
 
@@ -1267,7 +1271,7 @@ description or imitation:
 >   If the arguments, used in this essay, have any weight, it will appear,
 >   that the finest parts of poetry, musick, and painting, are expressive of
 >   the passions...the inferior parts of them are descriptive of natural
->   objects.
+>   objects. [^Jones2013]
 
 [^Jones2013]: @Jones_2013_The_Works_of_Sir_William_Jones\, p. 379.
 
@@ -1487,7 +1491,9 @@ TODO: Find Dawkins on multiple instances of convergent evolution of eyes.
     -   *Death* [^Kagan2012]
 -   Christopher Hitchens
     -   *Mortality* [^Hitchens2012]
--   See also: [Terror management theory](human-condition.html#terror-management-theory).
+-   [Cancer](https://plato.stanford.edu/entries/cancer/)
+-   See also:
+    -   [Terror management theory](human-condition.html#terror-management-theory).
 
 [^Bodhi2005p206]: @Bodhi_2005_In_the_Buddhas_Words_An_anthology_of_discourses\, p. 206--7.
 [^Hitchens2012]: @Hitchens_2012_Mortality\.
@@ -1882,6 +1888,7 @@ Click to show links
 -   [Authenticity](http://plato.stanford.edu/entries/authenticity/)
 -   [Buddha](http://plato.stanford.edu/entries/buddha/)
 -   [Camus, Albert (1913-1960)](http://plato.stanford.edu/entries/camus/)
+-   [Cancer](https://plato.stanford.edu/entries/cancer/)
 -   [Chinese Metaphysics](https://plato.stanford.edu/entries/chinese-metaphysics/)
 -   [Chinese Philosophy and Science](https://plato.stanford.edu/entries/chinese-phil-science/)
 -   [Daoism](https://plato.stanford.edu/entries/daoism/)
@@ -1894,10 +1901,11 @@ Click to show links
 -   [Friendship](https://plato.stanford.edu/entries/friendship/)
 -   [Hedonism](https://plato.stanford.edu/entries/hedonism/)
 -   [Heidegger, Martin (1889-1976)](https://plato.stanford.edu/entries/heidegger/)
+-   [Human nature](https://plato.stanford.edu/entries/human-nature/)
 -   [Hume, David (1711-1776)](http://plato.stanford.edu/entries/hume/)
 -   [Hume on religion](https://plato.stanford.edu/entries/hume-religion/)
--   [Japanese Philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)
--   [Japanese Confucian Philosophy](https://plato.stanford.edu/entries/japanese-confucian/)
+-   [Japanese philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)
+-   [Japanese Confucian philosophy](https://plato.stanford.edu/entries/japanese-confucian/)
 -   [Lucretius (c. 99-55 BCE)](https://plato.stanford.edu/entries/lucretius/)
 -   [Meaning of Life, The](http://plato.stanford.edu/entries/life-meaning/)
 -   [Nietzsche, Friedrich (1844-1900)](http://plato.stanford.edu/entries/nietzsche/)

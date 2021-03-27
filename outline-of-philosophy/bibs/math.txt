@@ -13,6 +13,7 @@ Hardy, G.H. (1940). *A Mathematician's Apology*. Cambridge University Press.
 Hilbert, D. (1967). The foundations of mathematics. In J. van Heijenoort (Ed.), *From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1879-1931* (pp. 464--479). Harvard University Press. [From a lecture given by Hilbert in 1927.]
 Holm, D.D. (2011). *Geometric Mechanics - Part I: Dynamics And Symmetry* (2nd ed.). Imperial College Press.
 Holm, D.D. (2011). *Geometric Mechanics - Part II: Rotating, Translating, and Rolling* (2nd ed.). Imperial College Press.
+MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction*. Routledge.
 Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
 Putnam, H. (1971). *Philosophy of Logic*. New York: Harper & Row.
 Putnam, H. (1975). What is mathematical truth? *Historia Mathematica*, 2(4), 529--543.

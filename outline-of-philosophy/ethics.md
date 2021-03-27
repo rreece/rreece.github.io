@@ -171,6 +171,7 @@ Churchland:
 
 ### Game theory
 
+-   [Logics for analyzing games](https://plato.stanford.edu/entries/logics-for-games/)
 -   Binmore
 -   *Natural Justice* [^Binmore2011]
 -   Heads-up poker solved [^Bowling2015]
@@ -274,6 +275,8 @@ Waves:
 3.  Third wave (1990s-2012)
 4.  Fourth wave (2012-present)
 
+-   [Feminist perspectives on argumentation](https://plato.stanford.edu/entries/feminism-argumentation/)
+
 
 Regret
 --------------------------------------------------------------------------------
@@ -308,6 +311,13 @@ Compassion
 -   Compassion in Schopenhauer's *On the Basis of Morality*
 -   Rand being against compassion.
 -   Limits of compassion.
+
+
+Ecology
+--------------------------------------------------------------------------------
+
+-   Scalability
+-   [Climate justice](https://plato.stanford.edu/entries/justice-climate/)
 
 
 Aesthetics
@@ -419,6 +429,7 @@ Click to show links
 ### SEP
 
 -   [Aristotle's Ethics](http://plato.stanford.edu/entries/aristotle-ethics/) - eudaimonia
+-   [Climate justice](https://plato.stanford.edu/entries/justice-climate/)
 -   [Civic Humanism](http://plato.stanford.edu/entries/humanism-civic/)
 -   [Consequentialism](http://plato.stanford.edu/entries/consequentialism/)
 -   [Constructivism in Metaethics](https://plato.stanford.edu/entries/constructivism-metaethics/)
@@ -430,6 +441,7 @@ Click to show links
 -   [Evolutionary Game Theory](http://plato.stanford.edu/entries/game-evolutionary/)
 -   [Existentialism](http://plato.stanford.edu/entries/existentialism/)
 -   [Fitting Attitude Theories of Value](http://plato.stanford.edu/entries/fitting-attitude-theories/)
+-   [Feminist perspectives on argumentation](https://plato.stanford.edu/entries/feminism-argumentation/)
 -   [Foot, Philippa (1920-2010)](https://plato.stanford.edu/entries/philippa-foot/)
 -   [Game Theory and Ethics](http://plato.stanford.edu/entries/game-ethics/)
 -   [Grounds of Moral Status](http://plato.stanford.edu/entries/grounds-moral-status/)
@@ -438,6 +450,7 @@ Click to show links
 -   [Hume's moral philosophy](http://plato.stanford.edu/entries/hume-moral/)
 -   [Identity politics](https://plato.stanford.edu/entries/identity-politics/)
 -   [Legal Positivism](http://plato.stanford.edu/entries/legal-positivism/)
+-   [Logics for analyzing games](https://plato.stanford.edu/entries/logics-for-games/)
 -   [Metaethics](http://plato.stanford.edu/entries/metaethics/)
 -   [Moore's Moral Philosophy](http://plato.stanford.edu/entries/moore-moral/)
 -   [Moral Anti-Realism](http://plato.stanford.edu/entries/moral-anti-realism/)
@@ -463,6 +476,7 @@ Click to show links
 -   [Reasons for Action: Justification vs. Explanation](http://plato.stanford.edu/entries/reasons-just-vs-expl/)
 -   [Repugnant Conclusion, The](http://plato.stanford.edu/entries/repugnant-conclusion/)
 -   [Russell's Moral Philosophy](http://plato.stanford.edu/entries/russell-moral/)
+-   [Socialism](https://plato.stanford.edu/entries/socialism/)
 -   [Torture](http://plato.stanford.edu/entries/torture/)
 -   [Utilitarianism, The History of](http://plato.stanford.edu/entries/utilitarianism-history/)
 -   [Value Theory](http://plato.stanford.edu/entries/value-theory/)
