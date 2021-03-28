@@ -7,7 +7,7 @@ Getting started
 Checking-out the template
 -------------------------------------------------------------------------------
 
-Check out `markdown-memo` with a [simple git command](http://rogerdudler.github.io/git-guide/),
+Check out markdown-memo with a [simple git command](http://rogerdudler.github.io/git-guide/),
 like:
 
     git clone https://github.com/rreece/markdown-memo.git
@@ -15,11 +15,11 @@ like:
 Some basic instructions are given in the [README.md](https://github.com/rreece/markdown-memo/blob/master/README.md).
 They are expanded on here.
 
-Basically, once you have cloned `markdown-memo`, if you satisfy its requirements
+Basically, once you have cloned markdown-memo, if you satisfy its requirements
 you should be able to call `make` and receive reasonable html output,
 and call `make pdf` and receive a reasonable pdf.
 
-Feel free to rename `markdown-memo` as whatever is suitable to your project,
+Feel free to rename markdown-memo as whatever is suitable to your project,
 and delete the example `*.md` files.
 
 
@@ -27,42 +27,64 @@ Requirements
 -------------------------------------------------------------------------------
 
 -   make
--   LaTeX (texlive)
--   cabal
--   pandoc
+-   LaTeX (texlive/mactex)
 -   python
+-   pandoc
+-   [pandoc-citeproc](https://github.com/lierdakil/pandoc-crossref)
+-   pandoc-crossref
+-   matplotlib (for pagecount and wordcount plots)
+-	xpdf (pdfinfo command for pagecount)
 
-On my Mac laptop (OS X, 10.8), I installed any missing dependencies through
-[macports](https://www.macports.org/).
-You can probably use [Fink](http://www.finkproject.org/),
-or [Homebrew](http://brew.sh/),
-or whatever, instead if you like.
+First, if you are on a Mac, you should install
+[Xcode](https://developer.apple.com/xcode/)
+through the Apple app store to get `make` and basic build utilities.
+Then you should install [homebrew](http://brew.sh/)
+for package management[^MacPackageManagers].
 
-After installing [macports](https://www.macports.org/) or whatever,
-maybe you need to do something like the following to install
-missing dependencies.
+[^MacPackageManagers]:  On my Mac, I used to install the missing dependencies
+    through [macports](https://www.macports.org/),
+    but beginning with OS 10.11, I started using [homebrew](http://brew.sh/).
+
+Some basic requirements I had to install with homebrew
+were the following, and I got [pip](https://pip.readthedocs.io/en/stable/installing/)
+and used it to install somethings:
+
+    brew install wget
+    brew install xpdf
+    sudo python get-pip.py 
+    sudo pip install scipy
+    sudo pip install matplotlib
+    sudo pip install pandas
+
+Then, with homebrew, the main packages to install are
+
+    brew cask install mactex
+    brew install pandoc
+    brew install pandoc-citeproc
+    brew install pandoc-crossref
+
+Instead of homebrew, some years ago, I was using *[macports](https://www.macports.org/)*.
+
+<div class="clickmore"><a id="link:macports1" class="closed" onclick="toggle_more('macports1')">Click for details on using macports</a></div>
+<div id="macports1" class="more">
+
+Using macports, I installed
 
     sudo port selfupdate
-    sudo port install python27
-    sudo port select python python27
-    sudo port install py27-matplotlib
     sudo port install texlive-latex texlive-latex-recommended texlive-latex-extra texlive-math-extra
-    sudo port install hs-cabal-install
     sudo port install pandoc
-
-I've also had to install `pandoc-crossref`, and I think I had to install `pandoc-citeproc`.
-In the case of [pandoc-crossref](https://github.com/lierdakil/pandoc-crossref), you simply
-do this to install:
-
+    sudo port install hs-cabal-install
     cabal update
-    cabal install pandoc-crossref
+    cabal install pandoc-citeproc pandoc-crossref
+
+</div> <!-- end clickmore -->
 
 If something doesn't work for you, please let me know!
 I'll do my best improve the documentation and make
 the software more robust as time allows.
 Contact me at:
 
-<img class="email" src="img/my_email.png" alt="my email address"/>
+<img class="email" src="img/my-email.png" alt="my email address"/>
 
 Please let me know if you have success or failure testing
 this on different systems.
@@ -131,7 +153,7 @@ In addition to writing the basic `md` files for your project, you need to write
 a metadata file: `meta.yaml`.  See the example metadata there.
 
 Then you can build your document.
-A lot of the inner-workings of `markdown-memo` are done in the `Makefile`.
+A lot of the inner-workings of markdown-memo are done in the `Makefile`.
 
 -   Call `make` or `make html` to generate valid xhtml. For example, [this document](http://rreece.github.io/sw/markdown-memo/).
 -   Call `make pdf` to generate a pdf document. For example, [this document](http://rreece.github.io/sw/markdown-memo/example.pdf).
@@ -139,7 +161,7 @@ A lot of the inner-workings of `markdown-memo` are done in the `Makefile`.
 -   Call `make realclean` to additionally delete the output html and pdf files.
 
 I use an image of my email to hide it from text crawlers.
-Please replace `img/my_email.png` with a screenshot of your
+Please replace `img/my-email.png` with a screenshot of your
 email address instead of mine,
 or just remove the use of the image in `meta.yaml`.
 

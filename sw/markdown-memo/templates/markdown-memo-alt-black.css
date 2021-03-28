@@ -75,30 +75,6 @@ div.preline {
     line-height: 22px;
 }
 
-/* hang indents on references */
-/* bibliography from md -> html */
-div.references p {
-    margin: 0;
-    padding-left: 36px ;
-    text-indent: -36px ;
-    text-align: left;
-}
-
-/* bibliography from md -> total doc.html */
-h1[id="references"] ~ div p {
-    margin: 0;
-    padding-left: 36px ;
-    text-indent: -36px ;
-    text-align: left;
-}
-
-/* bibliography from md -> mds -> html */
-h1[id="bibliography"] ~ p, h2[id="bibliography"] ~ p, h1[id="references"] ~ p, h2[id="references"] ~ p {
-    margin: 0;
-    padding-left: 36px ;
-    text-indent: -36px ;
-    text-align: left;
-}
 
 /* links ---------------------------------------------------------- */
 a {
@@ -122,7 +98,7 @@ div#site_header {
     background: black;
     font-size: 24px;
     font-weight: bold;
-    color: #CCCCCC;
+    color: #cccccc;
     /* set same as .block class bellow */
     display:block;
     clear: both;
@@ -135,13 +111,13 @@ div#site_header {
 
 div#site_header a {
     text-decoration: none;
-    color: #CCCCCC;
+    color: #cccccc;
 }
 
 div#site_footer {
     background: black;
     font-size: 16px;
-    color: #CCCCCC;
+    color: #cccccc;
     /* set same as .block class bellow */
     display:block;
     clear: both;
@@ -191,11 +167,11 @@ h1 {
     margin-top: 0;
     margin-bottom: 24px;
 }
-h2 {
+h2, h3 {
     margin-top: 48px;
     margin-bottom: 24px;
 }
-h3, h4, h5 {
+h4, h5 {
     margin-top: 24px;
     margin-bottom: 24px;
 }
@@ -210,7 +186,7 @@ h3 {
     font-size: 28px;
 }
 h4 {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
 }
 h5 {
@@ -218,7 +194,7 @@ h5 {
     font-style: italic;
 }
 h1, h2, h3 {
-    color: #000000;
+    color: black;
     font-weight: normal;
 }
 
@@ -279,8 +255,10 @@ blockquote {
     text-align: justify;
 }
 blockquote p {
+/*
     font-family: Verdana, Helvetica, Arial, sans-serif;
-    font-size: 14px;
+*/
+    font-size: 15px;
 }
 div.line-block {
     margin-top: 16px;
@@ -412,18 +390,18 @@ div.nav a:hover {
 }
 
 /* footnotes -------------------------------------------------- */
-a.footnoteRef {
+a.footnote-ref {
     position:relative;
     font-size: 16px;
     text-decoration: none;
 }
-a.footnoteRef:before {
+a.footnote-ref:before {
     content: "\00a0[";
 }
-a.footnoteRef:after {
+a.footnote-ref:after {
     content: "]";
 }
-a.footnoteRef sup {
+a.footnote-ref sup {
     vertical-align: baseline;
 }
 
@@ -515,6 +493,13 @@ a.footnoteRef sup {
     line-height: 15px;
 }
 
+/* hang indents on references */
+.csl-entry
+{
+    padding-left: 36px;
+    text-indent: -36px;
+}
+
 
 /* click for more ---------------------------------------------------- */
 /* To use, in your md, do 
@@ -530,7 +515,7 @@ div.clickmore a
 {
     margin-top: 16px;
     margin-bottom: 16px;
-    font-weight: bold;
+/*    font-weight: bold; */
     font-size: 24px;
     cursor: pointer;
     color: #444444;

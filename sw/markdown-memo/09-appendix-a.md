@@ -29,13 +29,13 @@ If you add multiple appendices, perhaps you want to separate them from the main 
 Special files
 -------------------------------------------------------------------------------
 
-There are a few special files that help steer the execution of `markdown-memo`
+There are a few special files that help steer the execution of markdown-memo
 or are otherwise exceptional.
 
 Documentation:
 
 -   `README.md` - Please empty this file and adapt it to your project.
--   `VERSIONS` - Documents the chronology of `markdown-memo` versions.  Feel free to delete or adapt this to your project.
+-   `VERSIONS.md` - Documents the chronology of markdown-memo versions.  Feel free to delete or adapt this to your project.
 
 Primary files edited by the user:
 
@@ -46,7 +46,7 @@ Optional files:
 
 -   `index.[md,txt]` - The top-level, root file of your project. By default, if `index.txt` is missing,
     a table of contents is generated for `index.md`, otherwise (the user-written) `index.txt`
-    is copied to be the `index.md`.
+    is copied to be the `index.md`. *You should not write* `index.md`.
 -   `bib_index.md` - Call `make bib_index.md` to generate this file. It is to help incoorporate citations
     into your document by being an automatically generated list of the references, with footnotes,
     created from the available bibliography files in `bibs/`.
@@ -62,7 +62,7 @@ Disqus integration
 -------------------------------------------------------------------------------
 
 You can choose to append a comments section at the end of your html.
-Just register a user name and the site name with [disqus.com](disqus.com).
+Just register a user name and the site name with [disqus.com](https://disqus.com/).
 Then in the `meta.yaml`, set your `disqus_shortname`:
 
     disqus_shortname: 'my-sites-disqus-name'

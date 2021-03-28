@@ -3,7 +3,7 @@ Mathematical expressions
 
 <!-- PAGETOC -->
 
-Typestting math
+Typesetting math
 -------------------------------------------------------------------------------
 
 You can do latex inline like this:
@@ -12,26 +12,32 @@ You can do latex inline like this:
 
 Euler's formula is remarkable: $e^{i\pi} + 1 = 0$.
 
-Just use the latex equation environment directly.
+You can use `$$` to make an equation block like this:
+
+    $$ \frac{\partial \rho}{\partial t} + \nabla \cdot \vec{j} = 0 \,. \label{eq:continuity} $$
+
+$$ \frac{\partial \rho}{\partial t} + \nabla \cdot \vec{j} = 0 \,. \label{eq:continuity} $$
+
+The latex equation environment can be used directly.
 Stokes' theorem is pretty cool:
 
-    \begin{equation} \label{eq:stokes}
+    \begin{equation}
         \int_{\partial\Omega} \omega = \int_{\Omega} \mathrm{d}\omega \,.
+        \label{eq:stokes}
     \end{equation}
 
-\begin{equation} \label{eq:stokes}
+\begin{equation}
     \int_{\partial\Omega} \omega = \int_{\Omega} \mathrm{d}\omega \,.
+    \label{eq:stokes}
 \end{equation}
 
-You can also refer to labeled equations, such as eq.\ $\eqref{eq:stokes}$,
+You can also refer to labeled equations, such as [@eq:stokes],
 with the syntax:
 
-    ... such as eq.\ $\eqref{eq:stokes}$,
-
-Note that `\ ` makes a non-breaking space.
+    ... such as [@eq:stokes],
 
 The `align` environment can also be used.
-Maxwell's equations $\eqref{eq:maxwell}$ are also tough to beat:
+Maxwell's equations, [@eq:maxwell], are also tough to beat:
 
     \begin{align}
         \nabla \cdot  \vec{E} &= \rho \nonumber \\
@@ -56,11 +62,12 @@ but to render the math in html, we use [MathJax](https://www.mathjax.org/).
 Our html template includes the following code
 to ask MathJax to render it and number the equations:
 
+    $if(mathjax)$
     <!--- MathJax stuff -->
-    <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+    <script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
     </script>
-
+    $endif$
 
 

@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -8,13 +8,17 @@
 $for(authorshort)$
   <meta name="author" content="$authorshort$" />
 $endfor$
-$if(date-meta)$
-  <meta name="date" content="$date-meta$" />
+$if(date_meta)$
+  <meta name="date" content="$date_meta$" />
 $endif$
 $if(page_title)$
   <title>$page_title$ - $doc_title$</title>
 $else$
+$if(titleshort)$
+  <title>$titleshort$</title>
+$else$
   <title>$title$</title>
+$endif$
 $endif$
 $if(description)$
   <meta name="description" content="$description$" />
@@ -23,8 +27,15 @@ $if(keywords)$
   <meta name="keywords" content="$keywords$" />
 $endif$
 $for(css)$
-  <link rel="stylesheet" type="text/css" href="$css$"/>
+  <link rel="stylesheet" type="text/css" href="$css$" />
 $endfor$
+$if(favicon)$
+  <link rel="icon" type="image/png" href="$favicon$" />
+$endif$
+$if(thumbnail)$
+  <link rel="image_src" type="image/png" href="$thumbnail$" />
+  <meta property="og:image" content="$thumbnail$" />
+$endif$
 
 $if(google_analytics_tracking_id)$
 <!--- Google Analytics Tracking stuff  -->
@@ -63,12 +74,12 @@ $endif$
 
 <body>
 
-<!---
+<hr/>
+<!--
 <div id="site_header">
 </div>
 -->
 
-<hr/>
 <!--
 <div id="beforebody">
 $for(include-before)$
@@ -78,9 +89,12 @@ $endfor$
 -->
 
 <div id="mainbody">
+<div id="pagecontainer">
 
 <!--- NOTE: h1 already included. Start writing index.md with an h2 -->
+$if(title)$
 <h1>$title$</h1>
+$endif$
 
 $if(subtitle)$
 <p class="subtitle">$subtitle$</p>
@@ -97,11 +111,18 @@ $endif$
 $if(abstract)$
 <div class="abstract">
 $abstract$
+
+$if(keywords)$
+<p><i>Keywords:</i>
+$keywords$
+</p>
+$endif$
 </div>
 $endif$
 
 $body$
 
+</div> <!-- end pagecontainer -->
 </div> <!-- end mainbody -->
 
 <!--
@@ -114,20 +135,18 @@ $endfor$
 
 <div id="site_footer">
   <div class="signature">
-    <i>$authorshort$</i><br/>
-$if(email)$
-    $email$<br/>
-$endif$
-    $date-meta$
+    <p><i>$authorshort$</i></p>
+    $if(email)$<p>$email$</p>$endif$
+    <p>$date_meta$</p>
   </div>
   <div class="license">
-    $if(license)$ $license$<br/> $endif$
-    Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.
+    $if(license)$<p>$license$</p>$endif$
+    <p>Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.</p>
   </div>
   <div style="clear:both;"></div>
 </div>
 
-$if(disqus)$
+$if(disqus_shortname)$
 <!-- disqus stuff -->
 <div id="disqus_stuff">
 <div id="disqus_thread"></div>

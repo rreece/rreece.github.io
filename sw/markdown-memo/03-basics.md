@@ -7,23 +7,23 @@ A further reference on Markdown syntax by its creator is
 
 <!-- PAGETOC -->
 
-Sections
+Sections {#sec:sections}
 -------------------------------------------------------------------------------
 
 Are markded like this:
 
-    Section title {#sec:put-section-label-here}
+    Section title {#sec:put-optional-section-label-here}
     ===============================================================================
 
-    Sub-section title
+    Sub-section title {#sec:put-optional-sub-section-label-here}
     -------------------------------------------------------------------------------
 
 
 Or marked like this:
 
-    # Section title {#sec:put-section-label-here}
+    # Section title {#sec:put-optional-section-label-here}
 
-    ## Sub-section title
+    ## Sub-section title {#sec:put-optional-sub-section-label-here}
  
     ### Sub-sub-section title
 
@@ -65,7 +65,7 @@ Lists {#sec:lists}
 1.  Relativists
 
 
-Blocks
+Blocks {#sec:blocks}
 -------------------------------------------------------------------------------
 
 The following is a **quote block**. 
@@ -82,7 +82,7 @@ The following is a **quote block**.
 
 A **code block** (used throughout these examples) is just indented with 4 spaces, like this:
 
-        def shortBubbleSort(alist):
+        def bubble_sort(alist):
             exchanges = True
             passnum = len(alist)-1
             while passnum > 0 and exchanges:
@@ -96,12 +96,12 @@ A **code block** (used throughout these examples) is just indented with 4 spaces
                passnum = passnum-1
     
         alist=[20,30,40,90,50,60,70,80,100,110]
-        shortBubbleSort(alist)
+        bubble_sort(alist)
         print(alist)
 
 which makes:
 
-    def shortBubbleSort(alist):
+    def bubble_sort(alist):
         exchanges = True
         passnum = len(alist)-1
         while passnum > 0 and exchanges:
@@ -115,7 +115,7 @@ which makes:
            passnum = passnum-1
     
     alist=[20,30,40,90,50,60,70,80,100,110]
-    shortBubbleSort(alist)
+    bubble_sort(alist)
     print(alist)
 
 Maybe you want to refer to **code inline** like this with backticks:
@@ -154,7 +154,7 @@ A **horizontal rule** can be made by just writing some number of dashes:
 Boom.
 
 
-Fonts
+Fonts {#sec:fonts}
 -------------------------------------------------------------------------------
 
     -   *This is emphasis.*
@@ -175,43 +175,58 @@ produces:
 -   __This is bold *and* emphasis.__
 -   ~~This is struck-out.~~
 
-Don't do this. These will work in LaTeX (\LaTeX) but may not in html.
+Don't do these. These will work in LaTeX (\LaTeX) but may not in html.
 
     -   \textsf{This should be Sans.}
     -   \textsc{This Should BE SMALL caps.}
     -   $\textsf{This works though!}$
     -   $\textsc{But this does not!}$
 
-produces:
 
--   \textsf{This should be Sans.}
--   \textsc{This Should BE SMALL caps.}
--   $\textsf{This works though!}$
--   $\textsc{But this does not!}$
-
-
-Links
+Links and labels {#sec:links-and-labels}
 -------------------------------------------------------------------------------
 
-URLs are done like this:
+Links to URLs are done like this:
 
     [Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)
 
 [Lorem ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum)
 
+or used directly like this:
+
+    <https://www.google.com>
+
+<https://www.google.com>
+
 When referring to labeled sections/figures/tables,
 you do not include the literal word "Section", "Figure", or "Table",
-which will be included for you, *but for equations you do* (tell me otherwise?).
-These prefixes are configurable in the `meta.yaml` file.
+which will be included for you.
+These prefixes/words are configurable in the `meta.yaml` file.
 
 Refer to labeled things like this:
 
--   for sections: `[@sec:footnotes]`    
-    [@sec:footnotes]
--   for figures: `[@fig:scientific_universe]`    
--   for tables: `[@tbl:atlas_channels]`    
--   for equations: `eq.\ $\eqref{eq:stokes}$`    
+-   **for sections:** `See [@sec:footnotes] on footnotes.`     
+    See [@sec:footnotes] on footnotes.
+-   **for figures:** `[@fig:scientific_universe] motivates the unity of science.`         
+    [@fig:scientific_universe] motivates the unity of science.
+-   **for tables:** `Numbers are in [@tbl:atlas_channels].`        
+    Numbers are in [@tbl:atlas_channels].
+-   **for equations:** `The generalized Stokes' theorem, [@eq:stokes], is rad.`          
+    The generalized Stokes' theorem, [@eq:stokes], is rad.
 
+TODO: The above references to labels on other pages unfortunately don't work in html,
+but they work in latex/pdf.
+
+You can refer to multiple lables like [@sec:sections;@sec:lists;@sec:blocks] like this:
+
+    [@sec:sections;@sec:lists;@sec:blocks]
+
+Automatic grouping into a range doesn't seem to be working (for latex, but does for html),
+so you can also try refer to [Sections @sec:sections]--[-@sec:blocks]
+in some versions like this:
+
+    [Sections @sec:sections]--[-@sec:blocks]
+    
 
 Footnotes {#sec:footnotes}
 -------------------------------------------------------------------------------
@@ -228,7 +243,8 @@ produces:
 
 Here's how you do a footnote[^SomeSpecialNote].
 
-[^SomeSpecialNote]: Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque.
+[^SomeSpecialNote]: 
+    Lorem ipsum dolor sit amet, duo ut putant verear, nam ut brute utroque.
     Officiis qualisque conceptam te duo, eu vim soluta numquam, has ut aliquip
     accusamus. Probo aliquam pri id. Mutat singulis ad vis, eam euismod pertinax
     an, ea tale volumus vel. At porro soleat est. Debet facilis admodum an sed,

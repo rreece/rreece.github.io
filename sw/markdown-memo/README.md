@@ -24,14 +24,14 @@ This same document compiled to a pdf can be found here:
 Author
 ----------------------------------
 
-Ryan Reece <ryan.reece@cern.ch>     
+Ryan Reece <ryan.reece@gmail.com>     
 Created: July 29, 2014
 
 
 License
 ----------------------------------
 
-Copyleft 2014-2016 Ryan Reece     
+Copyleft 2014-2019 Ryan Reece     
 License: GPL <http://www.gnu.org/licenses/gpl.html>
 
 
@@ -39,37 +39,54 @@ Requirements
 ----------------------------------
 
 -   make
--   LaTeX (texlive)
--   cabal
--   pandoc
+-   LaTeX (texlive/mactex)
 -   python
+-   pandoc
+-   [pandoc-citeproc](https://github.com/lierdakil/pandoc-crossref)
+-   pandoc-crossref
+-   matplotlib (for pagecount and wordcount plots)
+-	xpdf (pdfinfo command for pagecount)
 
-On my Mac laptop, I installed any missing dependencies through
-[macports](https://www.macports.org/).
+On my Mac, I used to install the missing dependencies through
+[macports](https://www.macports.org/),
+but beginning with OS 10.11, I started using
+[homebrew](http://brew.sh/).
 
-After installing [macports](https://www.macports.org/),
-maybe you need to do something like the following to install
-missing dependencies.
+First, if you are on a Mac, you should install
+[Xcode](https://developer.apple.com/xcode/)
+through the Apple app store to get `make` and basic build utilities.
+
+Some basic requirements I had to install with *homebrew*
+were the following, and I got [pip](https://pip.readthedocs.io/en/stable/installing/)
+and used it to install somethings:
+
+    brew install wget
+    brew install xpdf
+    sudo python get-pip.py 
+    sudo pip install scipy
+    sudo pip install matplotlib
+    sudo pip install pandas
+
+Then, with *homebrew*, the main packages to install are
+
+    brew cask install mactex
+    brew install pandoc
+    brew install pandoc-citeproc
+    brew install pandoc-crossref
+
+Instead of homebrew, some years ago, with *macports* I installed
 
     sudo port selfupdate
-    sudo port install python27
-    sudo port select python python27
-    sudo port install py27-matplotlib
     sudo port install texlive-latex texlive-latex-recommended texlive-latex-extra texlive-math-extra
-    sudo port install hs-cabal-install
     sudo port install pandoc
-
-I've also had to install `pandoc-crossref`, and I think I had to install `pandoc-citeproc`.
-In the case of [pandoc-crossref](https://github.com/lierdakil/pandoc-crossref), you simply
-do this to install:
-
+    sudo port install hs-cabal-install
     cabal update
-    cabal install pandoc-crossref
+    cabal install pandoc-citeproc pandoc-crossref
 
 If something doesn't work for you, please let me know!
 I'll do my best improve the documentation and make
 the software more robust as time allows.
-Contact me at: <ryan.reece@cern.ch>
+Contact me at: <ryan.reece@gmail.com>
 
 
 Features
@@ -140,7 +157,7 @@ Getting started
 -   Call `make realclean` to additionally delete the output html and pdf files.
 
 I use an image of my email to hide it from text crawlers.
-Please replace `img/my_email.png` with a screenshot of your
+Please replace `img/my-email.png` with a screenshot of your
 email address instead of mine,
 or just remove the use of the image in `meta.yaml`.
 
@@ -155,13 +172,13 @@ See: [pages.github.com](https://pages.github.com/).
 Special files
 ----------------------------------
 
-There are a few special files that help steer the execution of `markdown-memo`
+There are a few special files that help steer the execution of markdown-memo
 or are otherwise exceptional.
 
 Documentation:
 
 -   `README.md` - This file.  Please empty this file and adapt it to your project.
--   `VERSIONS` - Documents the chronology of `markdown-memo` versions.  Feel free to delete or adapt this to your project.
+-   `VERSIONS.md` - Documents the chronology of markdown-memo versions.  Feel free to delete or adapt this to your project.
 
 Primary files edited by the user:
 
@@ -192,6 +209,13 @@ Just register a user name and the site name with [disqus.com](disqus.com).
 Then in the `meta.yaml`, set `disqus: true`, and set your `disqus_shortname`.
 
 
+More info
+----------------------------------
+
+The documentation in this README is expanded on in the markdown-memo example:   
+[rreece.github.io/sw/markdown-memo](http://rreece.github.io/sw/markdown-memo)
+
+
 Word count
 ----------------------------------
 
@@ -213,14 +237,22 @@ Wish list / TODOs
 -   ~~Find and replace such that LaTeX figures use pdf figures while html uses raster png/jpg.~~
 -   ~~Optionally make a TOC automatically in the html.~~
 -   ~~Make links to previous and next sections (if they exist) in the navigation box in the html.~~
--   ~~Finish the basic documentation in the `markdown-memo` example document.~~
+-   ~~Finish the basic documentation in the markdown-memo example document.~~
+-   ~~Make a template that works with [REVTeX](https://journals.aps.org/revtex).~~
+-   ~~Make a template that works with [JHEP](https://jhep.sissa.it/jhep/help/JHEP_TeXclass.jsp).~~
+-   ~~Hack equation references to be done the same as figure and table references. `[@eq:stokes]` &rarr; `eq.\ $\eqref{eq:stokes}$`~~
+-   ~~PlotTable float~~
+-   Allow tables to be given as csv files.
+-   Fix TOC spacing issues with REVTeX.
+-   Fix Author issues with JHEP.
 -   Make the use of tmp files more robust.
 -   Test and explain the installation and requirements better on different systems.
 -   Fix TOC issues when calling `make ohtml`.
 -   Explain `make html` vs `make ohtml` in the documentation.
 -   Get tables to be normal `\begin{table}[bph]` instead of the `longtable` environment.
+-   References to labels on other pages unfortunately don't work in html.
 
-See the version history: [VERSIONS](VERSIONS)
+See the version history: [VERSIONS.md](VERSIONS.md)
 
 
 See also
@@ -234,5 +266,4 @@ See also
 -   [commonmark.org](http://commonmark.org/)
 -   [scholarlymarkdown.com](http://scholarlymarkdown.com/)
 -   [github.com/lierdakil/pandoc-crossref](https://github.com/lierdakil/pandoc-crossref)
-
 
