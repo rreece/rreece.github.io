@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 NAME
     name.py - short description
@@ -33,38 +33,10 @@ TO DO
 2011-06-15
 """
 
-#------------------------------------------------------------------------------
-# imports
-#------------------------------------------------------------------------------
-
-## std
 import argparse, sys, time
 import os
 import re
 import glob
-
-import pandas as pd
-import matplotlib
-matplotlib.use("Agg") # suppress the python rocketship icon popup
-import matplotlib.pyplot as plt
-
-# print(plt.style.available) # [u'dark_background', u'bmh', u'grayscale', u'ggplot', u'fivethirtyeight']
-plt.style.use('seaborn-deep')
-plt.rcParams['legend.numpoints'] = 1
-#plt.rcParams['axes.xmargin'] = 0.1
-#plt.rcParams['axes.ymargin'] = 0.1
-#plt.rcParams['figure.figsize'] = (15, 5)
-
-## my modules
-
-## local modules
-
-
-#------------------------------------------------------------------------------
-# globals
-#------------------------------------------------------------------------------
-timestamp = time.strftime('%Y-%m-%d-%Hh%M')
-GeV = 1000.
 
 
 #------------------------------------------------------------------------------
@@ -91,6 +63,7 @@ def main():
     rep_eq = r'\[@eq:(\w+)\]'
     rep_pt = r'PlotTable: (.+)$'
     rep_empty = r'\s*$'
+    rep_comment = r'//(.+)$'
 
     for fn in infiles:
         root, ext = os.path.splitext(fn)
@@ -113,10 +86,6 @@ def main():
 
             newline = line
 
-            ## $\sqrt{s}$
-            newline = newline.replace(r'$\sqrt{s}$', '&radic;s')
-
-            ## PlotTable
             if pt_part > 0: # parsing PlotTable
                 cached_lines.append(newline)
 
@@ -139,13 +108,16 @@ def main():
                 ## transform [@eq:maxwell] to eq.\ $\eqref{eq:maxwell}$
                 reo = re.search(rep_eq, newline)
                 if reo:
-                    if newline.count('`[@eq:'): # skip inline `[@eq:
+                    if newline.count('`[@eq:'): # skip inline verbatim `[@eq:
                         pass
                     else:
                         eqlabel = reo.group(1)
                         oldword = reo.group(0)
                         newword = 'eq.\\ $\\eqref{eq:%s}$' % eqlabel
                         newline = newline.replace(oldword, newword)
+
+                if re.match(rep_comment, newline):
+                    continue
 
                 ## starting to parse PlotTable
                 if re.match(rep_pt, newline):
@@ -266,6 +238,27 @@ def transform_PlotTable(lines):
             else:
                 table_data[columns[ix]].append( x )
 
+    out_lines = make_PlotTable(columns, table_data, label)
+    out_lines.extend(caption_lines)
+    out_lines.extend(table_lines)
+    return out_lines
+
+
+#______________________________________________________________________________
+def make_PlotTable(columns, table_data, label):
+
+    import pandas as pd
+    import matplotlib
+    matplotlib.use("Agg") # suppress the python rocketship icon popup
+    import matplotlib.pyplot as plt
+    
+    # print(plt.style.available) # [u'dark_background', u'bmh', u'grayscale', u'ggplot', u'fivethirtyeight']
+    plt.style.use('seaborn-deep')
+    plt.rcParams['legend.numpoints'] = 1
+    #plt.rcParams['axes.xmargin'] = 0.1
+    #plt.rcParams['axes.ymargin'] = 0.1
+    #plt.rcParams['figure.figsize'] = (15, 5)
+
     out_lines = list()
 
     ## make  plot
@@ -280,9 +273,6 @@ def transform_PlotTable(lines):
         cap = 'A plot of [@tbl:%s].' % label
         out_lines.append('![%s](img/%s.png){#fig:%s}\n\n' % (cap, label, label))
 
-    out_lines.extend(caption_lines)
-    out_lines.extend(table_lines)
-
     return out_lines
 
 
@@ -294,7 +284,7 @@ def fatal(message=''):
 #______________________________________________________________________________
 def tprint(s, log=None):
     line = '[%s] %s' % (time.strftime('%Y-%m-%d:%H:%M:%S'), s)
-    print line
+    print(line)
     if log:
         log.write(line + '\n')
         log.flush()
@@ -302,5 +292,3 @@ def tprint(s, log=None):
 
 #------------------------------------------------------------------------------
 if __name__ == '__main__': main()
-
-# EOF
