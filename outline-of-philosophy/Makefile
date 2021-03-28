@@ -12,21 +12,25 @@
 
 export TEXINPUTS := .//:./templates//:./tex//:${TEXINPUTS}
 
-OUTPUT := $(shell cat meta.yaml | grep output | awk '{split($$0,a,":"); print a[2]}' | xargs)
+doc_title := $(shell grep '^title:' meta.yaml | head -n1 | sed -e 's/title:\s*//' -e 's/^"//' -e 's/"$$//')
+page_title = $(shell head -n10 $< | grep -v -e '^$$' | head -n1)
+OUTPUT := $(shell grep '^output:' meta.yaml | head -n1 | awk '{ print $$2}')
 DOREFS := $(filter $(shell cat meta.yaml | grep ^dorefs | awk '{split($$0,a,":"); print a[2]}' | xargs),true)
 
 ifeq ($(DOREFS), true)
 HTML_DEPS := bibs/mybib.bib
 PDF_DEPS := bibs/mybib.bib
-OPS_FULLPDF := templates/refs_tex.md templates/backmatter.md
-OPS_FULLHTML := templates/refs.md templates/backmatter.md
-OPS_SECTION := templates/refs_subsection.md templates/backmatter.md
+BACKMATTER_PDF := templates/refs_tex.md templates/backmatter.md
+BACKMATTER_FULL_HTML := templates/refs.md templates/backmatter.md
+BACKMATTER_HTML := templates/refs_subsection.md templates/backmatter.md
+BIBLIO_OPTIONS := --filter pandoc-crossref --bibliography=bibs/mybib.bib --citeproc
 else
 HTML_DEPS := 
 PDF_DEPS := 
-OPS_FULLPDF := templates/backmatter.md
-OPS_FULLHTML := templates/backmatter.md
-OPS_SECTION := templates/backmatter.md
+BACKMATTER_PDF := templates/backmatter.md
+BACKMATTER_FULL_HTML := templates/backmatter.md
+BACKMATTER_HTML := templates/backmatter.md
+BIBLIO_OPTIONS :=
 endif
 
 
@@ -93,7 +97,8 @@ index.html: index.mdp meta.yaml
 		--standalone \
 		--variable=date-meta:"$(DATE)" \
 		--template=./templates/index_template.html \
-		-o $@ $< meta.yaml
+		--mathjax \
+		-o $@ $< meta.yaml > /dev/null 2>&1
 	@python scripts/transform_html.py $@
 	$(PRINT) "make $@ done."
 
@@ -108,115 +113,62 @@ $(OUTPUT).html: order.txt $(MDP_FILES) $(HTML_DEPS) meta.yaml
 		--variable=date-meta:"$(DATE)" \
 		--template=./templates/index_template.html \
 		--mathjax \
+		--citeproc \
 		--bibliography=bibs/mybib.bib \
 		--filter pandoc-crossref \
-		--citeproc \
-		-o $@ $(MDP_FILES_ORDERED) $(OPS_FULLHTML) meta.yaml
+		-o $@ $(MDP_FILES_ORDERED) $(BACKMATTER_FULL_HTML) meta.yaml > pandoc.log 2>&1
 	@python scripts/transform_html.py $@
 	$(PRINT) "make $@ done."
 
 ## create html
 %.html: %.mdp order.txt $(HTML_DEPS) meta.yaml
+	$(PRINT) "make $@ start"
 	@pandoc \
 		-f markdown+smart \
 		-t html \
 		--ascii \
 		--standalone \
+		--variable=date-meta:"$(DATE)" \
+		--variable=page_title:"$(page_title)" \
+		--variable=doc_title:"$(doc_title)" \
 		--template=./templates/outline_template.html \
-		-o $@.tmp $< meta.yaml
-	@rm -f meta.yaml.tmp
-	@grep -E '(^\.\.\.)' -v meta.yaml | grep -v -e '^$$' >> meta.yaml.tmp
-	@echo "# ---------------------------------------------------" >> meta.yaml.tmp
-	@echo `cat $@.tmp | grep -E "<title.*>(.*?)</title>" | sed 's/<title.*>\(.*\)<\/title>/doc_title: "\1"/'` >> meta.yaml.tmp
-	@echo `cat $@.tmp | grep -E "<h1.*>(.*?)</h1>" | head -n1 | sed 's/<h1.*>\(.*\)<\/h1>/page_title: "\1"/'` >> meta.yaml.tmp
-	@echo '...\n' >> meta.yaml.tmp
-	@if [ "$(DOREFS)" = "true" ] && grep --quiet REFERENCES $< ; \
-	then \
-		pandoc \
-			-f markdown+smart \
-			-t html \
-			--ascii \
-			--standalone \
-			--variable=date-meta:"$(DATE)" \
-			--template=./templates/outline_template.html \
-			--mathjax \
-			--bibliography=bibs/mybib.bib \
-			--filter pandoc-crossref \
-			--citeproc \
-			-o $@ $< $(OPS_SECTION) meta.yaml.tmp ; \
-	else \
-		pandoc \
-			-f markdown+smart \
-			-t html \
-			--ascii \
-			--standalone \
-			--variable=date-meta:"$(DATE)" \
-			--template=./templates/outline_template.html \
-			--mathjax \
-			--filter pandoc-crossref \
-			-o $@ $< templates/backmatter.md meta.yaml.tmp ; \
-	fi
-	@rm -f meta.yaml.tmp $@.tmp
+		--mathjax \
+		--filter pandoc-crossref \
+		$(BIBLIO_OPTIONS) -o $@ $< $(BACKMATTER_HTML) meta.yaml > pandoc.log 2>&1
 	@python scripts/transform_html.py $@
 	$(PRINT) "make $@ done."
 
 ## create the pdf from tex
 %.pdf: %.tex
-	@pdflatex -interaction=nonstopmode $< &> latex.log
-	@pdflatex -interaction=nonstopmode $< &> latex.log
+	@pdflatex -interaction=nonstopmode $< > latex.log 2>&1
+	@pdflatex -interaction=nonstopmode $< > latex.log 2>&1
+	@pdflatex -interaction=nonstopmode $< > latex.log 2>&1
 	$(PRINT) "make $@ done."
 
+## DEBUG
 ## create tex with references replaced and bibliography created
 $(OUTPUT).tex: order.txt $(MDP_FILES) $(PDF_DEPS) meta.yaml
-	@if [ "$(DOREFS)" = "true" ] ; \
-	then \
-		pandoc \
-			-f markdown+smart \
-			-t latex \
-			--ascii \
-			--standalone \
-			--template=templates/default_template.tex \
-			--filter pandoc-crossref \
-			--bibliography=bibs/mybib.bib \
-			--citeproc \
-			-o $@ $(MDP_FILES_ORDERED) $(OPS_FULLPDF) meta.yaml ; \
-	else \
-		pandoc \
-			-f markdown+smart \
-			-t latex \
-			--ascii \
-			--standalone \
-			--template=templates/default_template.tex \
-			--filter pandoc-crossref \
-			-o $@ $(MDP_FILES_ORDERED) $(OPS_FULLPDF) meta.yaml ; \
-	fi
+	@pandoc \
+		-f markdown+smart \
+		-t latex \
+		--ascii \
+		--standalone \
+		--template=templates/default_template.tex \
+		--filter pandoc-crossref \
+		$(BIBLIO_OPTIONS) -o $@ $(MDP_FILES_ORDERED) $(BACKMATTER_PDF) meta.yaml
 	@python scripts/transform_tex.py $@
 	$(PRINT) "make $@ done."
 
 ## create the tex for a section
 %.tex: %.md $(PDF_DEPS) meta.yaml
-	@if [ "$(DOREFS)" = "true" ] ; \
-	then \
-		pandoc \
-			-f markdown+smart \
-			-t latex \
-			--ascii \
-			--standalone \
-			--template=templates/default_template.tex \
-			--filter pandoc-crossref \
-			--bibliography=bibs/mybib.bib \
-			--citeproc \
-			-o $@ $< $(OPS_SECTION) meta.yaml ; \
-	else \
-		pandoc \
-			-f markdown+smart \
-			-t latex \
-			--ascii \
-			--standalone \
-			--template=templates/default_template.tex \
-			--filter pandoc-crossref \
-			-o $@ $< $(OPS_SECTION) meta.yaml ; \
-	fi
+	@pandoc \
+		-f markdown+smart \
+		-t latex \
+		--ascii \
+		--standalone \
+		--template=templates/default_template.tex \
+		--filter pandoc-crossref \
+		$(BIBLIO_OPTIONS) -o $@ $< $(BACKMATTER_HTML) meta.yaml ; \
 	@python scripts/transform_tex.py $@
 	$(PRINT) "make $@ done."
 
