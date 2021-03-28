@@ -509,7 +509,7 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 [^Neyman1933]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
 
 
-### $p$-values and significance
+### *p*-values and significance
 
 -   $p$-values and significance [^Cowan2012]
 -   Coverage
@@ -520,7 +520,7 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 [^Feldman1998]: @Feldman_1998_A_unified_approach_to_the_classical_statistical\.
 
 
-### Student's $t$-test
+### Student's *t*-test
 
 -   ANOVA
 -   A/B-testing
