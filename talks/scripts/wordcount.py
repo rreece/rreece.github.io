@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """
 NAME
     wordcount.py - short description
@@ -33,10 +33,6 @@ TO DO
 2016-08-02
 """
 
-#------------------------------------------------------------------------------
-# imports
-#------------------------------------------------------------------------------
-
 ## std
 import argparse, sys, time
 import pandas as pd
@@ -44,20 +40,12 @@ import matplotlib
 matplotlib.use("Agg") # suppress the python rocketship icon popup
 import matplotlib.pyplot as plt
 
+
 # print(plt.style.available) # [u'dark_background', u'bmh', u'grayscale', u'ggplot', u'fivethirtyeight']
-plt.style.use('fivethirtyeight')
+#plt.style.use('fivethirtyeight')
+plt.style.use('seaborn-deep')
+plt.rcParams['legend.numpoints'] = 1
 plt.rcParams['figure.figsize'] = (15, 5)
-
-## my modules
-
-## local modules
-
-
-#------------------------------------------------------------------------------
-# globals
-#------------------------------------------------------------------------------
-timestamp = time.strftime('%Y-%m-%d-%Hh%M')
-GeV = 1000.
 
 
 #------------------------------------------------------------------------------
@@ -116,23 +104,23 @@ def main():
     ax = df['Words'].plot(marker='o',markersize=8)
 #    ax.set_xlabel("Date")
     ax.set_xlabel("")
-    ax.set_ylabel("Words")
+    ax.set_ylabel("Words", fontsize=22)
     fig = ax.get_figure()
     fig.savefig('words.png')
     plt.close()
 
-    print '%i words, %i written today' % (last_words, last_words-prev_words)
+    print('%i words, %i written today' % (last_words, last_words-prev_words))
 
     ## make pages plot
     ax = df['Pages'].plot(marker='o',markersize=8)
 #    ax.set_xlabel("Date")
     ax.set_xlabel("")
-    ax.set_ylabel("Pages")
+    ax.set_ylabel("Pages", fontsize=22)
     fig = ax.get_figure()
     fig.savefig('pages.png')
     plt.close()
 
-    print '%i pages, %i written today' % (last_pages, last_pages-prev_pages)
+    print('%i pages, %i written today' % (last_pages, last_pages-prev_pages))
 
 
 #------------------------------------------------------------------------------
@@ -147,7 +135,7 @@ def fatal(message=''):
 #______________________________________________________________________________
 def tprint(s, log=None):
     line = '[%s] %s' % (time.strftime('%Y-%m-%d:%H:%M:%S'), s)
-    print line
+    print(line)
     if log:
         log.write(line + '\n')
         log.flush()
@@ -155,5 +143,3 @@ def tprint(s, log=None):
 
 #------------------------------------------------------------------------------
 if __name__ == '__main__': main()
-
-# EOF
