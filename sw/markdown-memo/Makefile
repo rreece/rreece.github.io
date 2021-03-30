@@ -23,7 +23,7 @@ PDF_DEPS := bibs/mybib.bib
 BACKMATTER_PDF := templates/refs_tex.md templates/backmatter.md
 BACKMATTER_FULL_HTML := templates/refs.md templates/backmatter.md
 BACKMATTER_HTML := templates/refs_subsection.md templates/backmatter.md
-BIBLIO_OPTIONS := --filter pandoc-crossref --bibliography=bibs/mybib.bib --citeproc
+BIBLIO_OPTIONS := --bibliography=bibs/mybib.bib --citeproc
 else
 HTML_DEPS := 
 PDF_DEPS := 
@@ -79,12 +79,12 @@ wordcount: wordcount/words.png
 	$(PRINT) "make $@ done."
 
 ## if it exists, copy index.txt to index.md, otherwise make index.md
-index.md: $(MD_FILES)
+index.md: $(MD_FILES_ORDERED)
 	@if [ -f index.txt ]; \
 	then \
 		cp index.txt $@ ; \
 	else \
-		python scripts/make_index_md.py -c --out=$@ $(MD_FILES) ; \
+		python scripts/make_index_md.py -c --out=$@ $(MD_FILES_ORDERED) ; \
 	fi
 	$(PRINT) "make $@ done."
 
