@@ -1,7 +1,7 @@
-\newcommand*{\trans}{^{\mathsf{T}}}
-
 Philosophy of statistics
 ================================================================================
+
+\newcommand*{\trans}{^{\mathsf{T}}}
 
 Statistics are *way* important in addressing the problem of induction.
 
@@ -996,6 +996,7 @@ Deep learning
     -   Lower to higher level representations [^Bengio2009]
     -   "Review: Deep learning" [^LeCun2015]
     -   *Deep Learning* [^Goodfellow2016]
+    -   "The AI Index 2021 Annual Report" [^Zhang2021]
 -   Backpropagation
     -   Rumelhart [^Rumelhart1986]
     -   See Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html)
@@ -1008,7 +1009,6 @@ Deep learning
     -   "The explanation game: A formal framework for interpretable machine learning" [^Watson2019]
     -   [AIMyths.com](https://www.aimyths.org/)
 
-
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
 
 [^Bengio2009]: @Bengio_2009_Learning_deep_architectures_for_AI\.
@@ -1017,6 +1017,7 @@ Deep learning
 [^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
 [^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
+[^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.
 
 
 ### Deep double descent

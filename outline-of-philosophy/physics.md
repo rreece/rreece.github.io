@@ -45,9 +45,12 @@ Discussion:
 ### Modern atomism
 
 -   [Corpuscularianism](https://en.wikipedia.org/wiki/Corpuscularianism)
+-   [Isaac Beeckman](https://en.wikipedia.org/wiki/Isaac_Beeckman) (1588-1637)
+-   [Ren&eacute; Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) (1596-1650)
 -   Boyle, Newton, Locke, Dalton
 -   ...
 -   Boltzmann
+-   [Johannes Diderik van der Waals](https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals) (1837-1923)
 -   Modern [Atomism](https://en.wikipedia.org/wiki/Atomism)
 -   Planck, J.J. Thomson, Rutherford, Einstein
 
@@ -553,6 +556,7 @@ TODO
 -   note relationship with decoherence
 -   Barrett [^Barrett2011]
 -   Everett's collected works [^Barrett2012]
+-   Wallace, *The Emergent Multiverse* [^Wallace2012]
 -   Carroll's mad-dog Everettianism [^Carroll2019-2]
 -   *Something Deeply Hidden* [^Carroll2019]
 
@@ -562,6 +566,7 @@ TODO
 [^Carroll2019-2]: @Carroll_2019_Mad_Dog_Everettianism_Quantum_mechanics_at_its\.
 [^Carroll2019]: @Carroll_2019_Something_Deeply_Hidden\.
 [^DeWitt1970]: @DeWitt_1970_Quantum_mechanics_and_reality\.
+[^Wallace2012]:_@Wallace_2012_The_Emergent_Multiverse\.
 
 
 ### Collapse interpretations
@@ -704,6 +709,13 @@ Gravity and cosmology
 -   *Spacetime and Geometry* [^Carroll2004]
 
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
+
+
+### Newtonian gravity
+
+-   History of Newton and calculus.
+-   Newtonian gravity is the right law to conserve gravitational force flux in three dimensions.
+-   Derive Newtonian gravity as the low-velocity, low-curavature limit of GR.
 
 
 ### Big bang model
@@ -979,6 +991,7 @@ Click to show links
 -   [Background independence](http://en.wikipedia.org/wiki/Background_independence)
 -   [Bargmann, Valentine (1908-1989)](https://en.wikipedia.org/wiki/Valentine_Bargmann)
 -   [Bargmann-Wigner equations](https://en.wikipedia.org/wiki/Bargmann%E2%80%93Wigner_equations)
+-   [Beeckman, Isaac (1588-1637)](https://en.wikipedia.org/wiki/Isaac_Beeckman)
 -   [Bell's theorem](http://en.wikipedia.org/wiki/Bell%27s_theorem)
 -   [Bekenstein bound](https://en.wikipedia.org/wiki/Bekenstein_bound)
 -   [Black hole information paradox](http://en.wikipedia.org/wiki/Black_hole_information_paradox)
@@ -1007,6 +1020,7 @@ Click to show links
 -   [de Broglie, Louis (1892-1987)](https://en.wikipedia.org/wiki/Louis_de_Broglie)
 -   [De Broglie-Bohm theory](http://en.wikipedia.org/wiki/De_Broglie%E2%80%93Bohm_theory)
 -   [Democritus (c. 460-370 BCE)](https://en.wikipedia.org/wiki/Democritus)
+-   [Descartes, Ren&eacute; (1596-1650)](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 -   [Determinism](http://en.wikipedia.org/wiki/Determinism)
 -   [Digital philosophy](http://en.wikipedia.org/wiki/Digital_philosophy)
 -   [Digital physics](http://en.wikipedia.org/wiki/Digital_physics)
@@ -1113,6 +1127,7 @@ Click to show links
 -   [Universality](https://en.wikipedia.org/wiki/Universality_(dynamical_systems))
 -   [Unruh effect](https://en.wikipedia.org/wiki/Unruh_effect)
 -   [Unsolved problems in physics, List of](http://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
+-   [van der Waals, Johannes Diderik](https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals) (1837-1923)
 -   [Volta, Alessandro (1745-1827)](https://en.wikipedia.org/wiki/Alessandro_Volta)
 -   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
 -   [Wave function](http://en.wikipedia.org/wiki/Wave_function)

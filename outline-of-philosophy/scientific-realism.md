@@ -347,16 +347,24 @@ Poincar&eacute;:
 >   the fourth day they are superannuated,
 >   and the fifth they are forgotten. [^Poincare1913p351]
 
--   [Superseded theories in science](https://en.wikipedia.org/wiki/Superseded_theories_in_science)
 -   Aristotelian physics
 -   Ptolemaic solar system
 -   Phlogiston theory
 -   &eacute;lan vital
+-   Newtonian gravity
+-   Galilean relativity
+
+Also:
+
+-   [Superseded theories in science](https://en.wikipedia.org/wiki/Superseded_theories_in_science) - wikipedia
 -   relationship to pessimistic meta-induction
 
 
 ### Realist rebutals
 
+-   Note that some "superseded theories" are the correct theory at some coarse-grained or renormalized scale or regime,
+    e.g. Newtonian gravity is the correct low-energy limiting theory of general relativity.
+    See: [Newtonian gravity](physics.html#newtonian-gravity).
 -   [Frost-Arnold, G. (2020). One way to test scientific realism. *Obscure and Confused Ideas* (blog).](http://obscureandconfused.blogspot.com/2020/08/one-way-to-test-scientific-realism.html)
 
 Rovelli:
@@ -515,6 +523,22 @@ and constraining real structures in nature.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
+TODO: list thesis from the Vienna Circle manifesto.
+
+>   Neatness and clarity are striven for, and dark distances and unfathomable depths
+>   rejected. In science there are no ‘depths’ there is surface everywhere: all experience
+>   forms a complex network, which cannot always be surveyed and, can often be grasped
+>   only in parts. Everything is accessible to man; and man is the measure of all things.
+>   Here is an affinity with the Sophists, not with the Platonists; with the Epicureans, not
+>   with the Pythagoreans; with all those who stand for earthly being and the here and
+>   now. The scientific world-conception knows no unsolvable riddle. Clarification of the
+>   traditional philosophical problems leads us partly to unmask them as pseudo-problems,
+>   and partly to transform them into empirical problems and thereby subject them to the
+>   judgment of experimental science. The task of philosophical work lies in this
+>   clarification of problems and assertions, not in the propounding of special
+>   ‘philosophical’ pronouncements. The method of this clarification is that of logical
+>   analysis. [^Hahn1973Sec2]
+
 -   [Mauro Murzi's pages on Philosophy of Science: Logical positivism](http://www.murzim.net/LP/LP00.html)
 
 Schlick:
@@ -534,6 +558,7 @@ Fetzer:
 >   classes of observation sentences. [^Fetzer2017]
 
 [^Fetzer2017]: @Fetzer_2017_Carl_Hempel\.
+[^Hahn1973Sec2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 2.
 [^Leitgeb2020H]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html).
 [^Schlick1948p480]: @Schlick_1948_Positivism_and_realism\, p. 480\.
 

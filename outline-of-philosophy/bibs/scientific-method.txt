@@ -12,6 +12,7 @@ Carnap, R. (1966). The aim of inductive logic. In *Studies in Logic and the Foun
 Carnap, R. (1973). Notes on probability and induction. *Synthese*, 25, 269--298.
 Clark, M. (1963). Knowledge and grounds: A comment on Mr. Gettier's paper. *Analysis*, 24, 46--48.
 Davis, N. (2015). To Explain the World review. *The Guardian*. https://www.theguardian.com/books/2015/feb/22/to-explain-the-world-steven-weinberg-history-great-thinkers [February 21, 2015]
+Descartes, R. (1996). *Oeuvres de Descartes, 11 volumes* (C. Adam & P. Tannery, Eds.). Paris: Vrin. http://philosophyfaculty.ucsd.edu/faculty/ctolley/texts/descartes.html
 Descartes, R. (2008). *Meditations on First Philosophy* (M. Moriarty, Trans.). Oxford University Press. [(Originally published in 1641)]
 de Swart, H. (2018). *Philosophical and Mathematical Logic*. Springer.
 Dicker, G. (1991). Hume's fork revisited. *History of Philosophy Quarterly*, 8, 327--342.

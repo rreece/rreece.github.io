@@ -208,10 +208,8 @@ Weinberg:
 -   [Thomas Hobbes](http://en.wikipedia.org/wiki/Thomas_Hobbes) (1588-1679)
 -   [Pierre Gassendi](http://en.wikipedia.org/wiki/Pierre_Gassendi) (1592-1655)
 -   [Ren&eacute; Descartes](http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) (1596-1650)
+    -   Father of analytic geometry and modern philosophy
     -   No teleology. Matter plenum, vorticies.
-    -   *Meditations on First Philosophy* (1641) [^Descartes2008]
-
-[^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
 
 
 ### The Age of Enlightenment
@@ -345,6 +343,12 @@ Rationalism vs empiricism
 ### Rationalists
 
 -   Ren&eacute; Descartes (1596-1650)
+    -   *Discourse on the Method* (1637)
+        -   "je pense, donc je suis."
+    -   *Meditations on First Philosophy* (1641) [^Descartes2008]
+        -   "ego sum, ego existo."
+    -   *Principles of Philosophy* (1644)
+        -   "ego cogito, ergo sum"
     -   [Descartes' method](https://plato.stanford.edu/entries/descartes-method/)
 -   Baruch Spinoza (1632-1677)
 -   Gottfried Wilhelm Leibniz (1646-1716)
@@ -352,6 +356,8 @@ Rationalism vs empiricism
     -   necessary truths
 
 ![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig:mandik-2016-11-1-eyeballs}
+
+[^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
 
 
 ### British empiricists
@@ -1098,6 +1104,17 @@ Plato:
 
 ![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g), 2014).](img/knowledge.png){#fig:knowledge-jtb-g}
 
+In his unfinished work, *Rules* [^DescartesRule2], Descartes defines “science” (scientia) in Rule 2 as
+
+>   *Omnis scientia est cognitio certa et evidens*.          
+>   All (scientific) knowledge is certain and evident cognition.
+
+In the same section, Descartes' boldy declares to reject probable knowledge
+for only what is perfectly certain:
+
+>   we reject all [...] merely probable cognition and resolve to believe
+>   only what is perfectly known and incapable of being doubted.
+
 Ichikawa & Jenkins:
 
 >   The standard analysis of knowledge says that for any subject $S$ and any
@@ -1119,6 +1136,7 @@ Ichikawa & Jenkins:
 
 TODO: find part in *Meno*.
 
+[^DescartesRule2]: @Descartes_1996_Oeuvres_de_Descartes_11_volumes\, vol. 10, p. 362.
 [^Ichikawa2017]: @Ichikawa_2017_On_putting_knowledge_first\.
 [^RepublicV477]: Plato, *Republic V* 477--8, @Cooper_1997_Plato_Complete_works\, p. 1103--4.
 [^Theaetetus186]: Plato, *Theaetetus* 186--7, @Cooper_1997_Plato_Complete_works\, p. 205--7.
