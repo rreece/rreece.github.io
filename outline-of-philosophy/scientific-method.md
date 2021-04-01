@@ -472,8 +472,9 @@ Kant in his *Critique of Pure Reason* (1781):
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology)
 -   *Introduction to Formal Philosophy* (2018) [^Hansson2018]
 -   *The Open Handbook of Formal Epistemology* (2019) [^Pettigrew2019]
--   See also: [Logic](math.html#logic) and [Model theory](math.html#model-theory)
--   See also: [Positivism](scientific-realism.html#positivism)
+-   See also:
+    -   [Logic](math.html#logic) and [Model theory](math.html#model-theory)
+    -   [Positivism](scientific-realism.html#positivism)
 
 [^Hansson2018]: @Hansson_2018_Introduction_to_Formal_Philosophy\.
 [^Pettigrew2019]: @Pettigrew_2019_The_Open_Handbook_of_Formal_Epistemology\.

@@ -996,7 +996,6 @@ Deep learning
     -   Lower to higher level representations [^Bengio2009]
     -   "Review: Deep learning" [^LeCun2015]
     -   *Deep Learning* [^Goodfellow2016]
-    -   "The AI Index 2021 Annual Report" [^Zhang2021]
 -   Backpropagation
     -   Rumelhart [^Rumelhart1986]
     -   See Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html)
@@ -1017,7 +1016,6 @@ Deep learning
 [^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
 [^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
-[^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.
 
 
 ### Deep double descent

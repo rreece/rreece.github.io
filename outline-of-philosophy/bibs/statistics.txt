@@ -170,7 +170,6 @@ Wolpert, D.H. & Macready, W.G. (1995). No free lunch theorems for search. [Techn
 Wolpert, D.H. & Macready, W.G. (1997). No free lunch theorems for optimization. *IEEE Transactions on Evolutionary Computation*, 1, 67--82.
 Wu, Y. et al. (2016). Google's neural machine translation system: Bridging the gap between human and machine translation. https://arxiv.org/abs/1409.0473
 Zech, G. (1995). Comparing statistical data to Monte Carlo simulation: Parameter fitting and unfolding. https://cds.cern.ch/record/284321 [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)]
-Zhang, D. et al. (2021). The AI Index 2021 Annual Report. Human-Centered Artificial Intelligence, Stanford University. https://arxiv.org/abs/2103.06312
 Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. *Advances in Neural Information Processing Systems*, 20, 1729--1736.
 
 
