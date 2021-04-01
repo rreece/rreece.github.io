@@ -350,7 +350,7 @@ Poincar&eacute;:
 -   Aristotelian physics
 -   Ptolemaic solar system
 -   Phlogiston theory
--   &eacute;lan vital
+-   &Eacute;lan vital
 -   Newtonian gravity
 -   Galilean relativity
 

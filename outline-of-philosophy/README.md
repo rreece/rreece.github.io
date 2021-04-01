@@ -15,5 +15,3 @@ Word count
 ![Page count over time.](wordcount/pages.png)
 
 ![Word count over time.](wordcount/words.png)
-
-

@@ -988,5 +988,3 @@ Click to show links
 </div>
 
 <!-- REFERENCES -->
-
-
