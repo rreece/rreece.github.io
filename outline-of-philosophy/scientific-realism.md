@@ -365,6 +365,7 @@ Also:
 -   Note that some "superseded theories" are the correct theory at some coarse-grained or renormalized scale or regime,
     e.g. Newtonian gravity is the correct low-energy limiting theory of general relativity.
     See: [Newtonian gravity](physics.html#newtonian-gravity).
+-   See also the discussion of [effective field theory](physics.html#effective-field-theory).
 -   [Frost-Arnold, G. (2020). One way to test scientific realism. *Obscure and Confused Ideas* (blog).](http://obscureandconfused.blogspot.com/2020/08/one-way-to-test-scientific-realism.html)
 
 Rovelli:

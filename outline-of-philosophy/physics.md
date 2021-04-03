@@ -328,14 +328,17 @@ Pedagogy:
 
 ### Effective field theory
 
+-   Effective field theory (EFT)
 -   Huggett and Weingard, again [^Huggett1995]
 -   Weinberg [^Weinberg1997]
 -   Bain [^Bain2013]
 -   Preskill, J. (2013). [We are all Wilsonians now](https://quantumfrontiers.com/2013/06/18/we-are-all-wilsonians-now/).
+-   Porter Williams [^Williams2019]
 
 [^Bain2013]: @Bain_2013_Effective_field_theories and
     @Bain_2013_Emergence_in_effective_field_theories\.
 [^Weinberg1997]: @Weinberg_1996_What_is_quantum_field_theory_and_what_did_we\.
+[^Williams2019]: @Williams_2019_Scientific_realism_made_effective\.
 
 
 ### Foundations

@@ -1223,7 +1223,6 @@ Computer Vision (CV)
     -   DeepMind's blog posts for more details: [AlphaFold1](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery),
         [AlphaFold2](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).
         Slides from the CASP14 conference are publicly available [here](https://predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf).
-    -   SE(3)-Transformers [^Fuchs2020] and [blog post](https://fabianfuchsml.github.io/alphafold2/).
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block}
 
@@ -1231,7 +1230,6 @@ Computer Vision (CV)
 [^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
-[^Fuchs2020]: @Fuchs_2020_SE3_Transformers_3D_roto_translation\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations and
@@ -1367,6 +1365,7 @@ Theoretical machine learning
 -   Gerhard Schurz
     -   See also: [Meta-induction as a solution to the problem of induction](scientific-method.html#meta-induction-as-a-solution-to-the-problem-of-induction)
 -   Dan A. Roberts. (2021). [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
+    -   See also: [Unreasonable effectiveness](math.html#unreasonable-effectiveness)
 
 >   From an algorithmic complexity standpoint it is somewhat
 >   miraculous that we can compress our huge look-up table of experiment/outcome into such
@@ -1403,9 +1402,11 @@ Theoretical machine learning
 -   Cohen & Welling. (2016). Group equivariant convolutional networks. [^Cohen2016]
 -   Gauge equivariant convolutional networks and the icosahedral CNN (2019) [^Cohen2019]
 -   Pavlus, J. (2020). [An idea from physics helps AI see in higher dimensions](https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/).
+-   SE(3)-Transformers [^Fuchs2020] and [blog post](https://fabianfuchsml.github.io/alphafold2/).
 
 [^Cohen2016]: @Cohen_2016_Group_equivariant_convolutional_networks\.
 [^Cohen2019]: @Cohen_2019_Gauge_equivariant_convolutional_networks\.
+[^Fuchs2020]: @Fuchs_2020_SE3_Transformers_3D_roto_translation\.
 
 
 ### Thermodynamics of computation

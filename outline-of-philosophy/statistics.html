@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Fri Apr 02, 2021" />
+  <meta name="date" content="Sat Apr 03, 2021" />
   <title>Philosophy of statistics - Ryan's Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#x2019;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -1112,7 +1112,6 @@ D_\mathrm{KL}(p, q)
 <li>ALBERT<a href="#fn118" class="footnote-ref" id="fnref118" role="doc-noteref"><sup>118</sup></a></li>
 <li>GPT-1,<a href="#fn119" class="footnote-ref" id="fnref119" role="doc-noteref"><sup>119</sup></a> 2,<a href="#fn120" class="footnote-ref" id="fnref120" role="doc-noteref"><sup>120</sup></a> 3<a href="#fn121" class="footnote-ref" id="fnref121" role="doc-noteref"><sup>121</sup></a></li>
 <li>DeepMind&#x2019;s blog posts for more details: <a href="https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery">AlphaFold1</a>, <a href="https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology">AlphaFold2</a>. Slides from the CASP14 conference are publicly available <a href="https://predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf">here</a>.</li>
-<li>SE(3)-Transformers<a href="#fn122" class="footnote-ref" id="fnref122" role="doc-noteref"><sup>122</sup></a> and <a href="https://fabianfuchsml.github.io/alphafold2/">blog post</a>.</li>
 </ul></li>
 </ul>
 <figure>
@@ -1121,8 +1120,8 @@ D_\mathrm{KL}(p, q)
 <h3 id="reinforcement-learning">Reinforcement learning</h3>
 <ul>
 <li>Reinforcement Learning (RL)</li>
-<li>Sutton &amp; Barto<a href="#fn123" class="footnote-ref" id="fnref123" role="doc-noteref"><sup>123</sup></a></li>
-<li>Deep Reinforcement Learning: A Brief Survey<a href="#fn124" class="footnote-ref" id="fnref124" role="doc-noteref"><sup>124</sup></a></li>
+<li>Sutton &amp; Barto<a href="#fn122" class="footnote-ref" id="fnref122" role="doc-noteref"><sup>122</sup></a></li>
+<li>Deep Reinforcement Learning: A Brief Survey<a href="#fn123" class="footnote-ref" id="fnref123" role="doc-noteref"><sup>123</sup></a></li>
 <li><a href="https://spinningup.openai.com/en/latest/spinningup/keypapers.html">List by OpenAI of key RL papers</a></li>
 <li><a href="https://github.com/datamllab/awesome-game-ai">List of game AI codes by DATA Lab</a></li>
 <li><a href="https://www.youtube.com/watch?v=2pWv7GOvuf0&amp;list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB&amp;ab_channel=DeepMind">RL course by David Silver</a></li>
@@ -1132,13 +1131,13 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Q-learning and DQN</li>
 <li>Uses the Markov Decision Process (MDP) framework</li>
-<li>The Bellman equation<a href="#fn125" class="footnote-ref" id="fnref125" role="doc-noteref"><sup>125</sup></a></li>
+<li>The Bellman equation<a href="#fn124" class="footnote-ref" id="fnref124" role="doc-noteref"><sup>124</sup></a></li>
 <li>Q-learning is a values-based learning algorithm. Value based algorithms updates the value function based on an equation (particularly Bellman equation). Whereas the other type, policy-based estimates the value function with a greedy policy obtained from the last policy improvement (<a href="https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c">source: towardsdatascience.com</a>).</li>
-<li>DQN masters Atari<a href="#fn126" class="footnote-ref" id="fnref126" role="doc-noteref"><sup>126</sup></a></li>
+<li>DQN masters Atari<a href="#fn125" class="footnote-ref" id="fnref125" role="doc-noteref"><sup>125</sup></a></li>
 </ul>
 <h4 id="alphazero">AlphaZero</h4>
 <ul>
-<li>AlphaGo Lee<a href="#fn127" class="footnote-ref" id="fnref127" role="doc-noteref"><sup>127</sup></a> &#x2192; AlphaGo Zero<a href="#fn128" class="footnote-ref" id="fnref128" role="doc-noteref"><sup>128</sup></a> &#x2192; AlphaZero<a href="#fn129" class="footnote-ref" id="fnref129" role="doc-noteref"><sup>129</sup></a></li>
+<li>AlphaGo Lee<a href="#fn126" class="footnote-ref" id="fnref126" role="doc-noteref"><sup>126</sup></a> &#x2192; AlphaGo Zero<a href="#fn127" class="footnote-ref" id="fnref127" role="doc-noteref"><sup>127</sup></a> &#x2192; AlphaZero<a href="#fn128" class="footnote-ref" id="fnref128" role="doc-noteref"><sup>128</sup></a></li>
 <li><a href="https://openai.com/blog/openai-five/">OpenAI Five masters Dota2</a></li>
 <li><a href="https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii">AlphaStar masters StarCraftII</a></li>
 <li>AlphaZero
@@ -1151,46 +1150,46 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Counterfactual Regret Minimization (CFR)</li>
 <li>CFR differs from traditional RL algorithms in that it does not try to maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games (<a href="https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization">source: Quora</a>).</li>
-<li>Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). Regret minimization in games with incomplete information.<a href="#fn130" class="footnote-ref" id="fnref130" role="doc-noteref"><sup>130</sup></a></li>
-<li>Lanctot, M. (2009). Monte Carlo sampling for regret minimization.<a href="#fn131" class="footnote-ref" id="fnref131" role="doc-noteref"><sup>131</sup></a>
+<li>Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). Regret minimization in games with incomplete information.<a href="#fn129" class="footnote-ref" id="fnref129" role="doc-noteref"><sup>129</sup></a></li>
+<li>Lanctot, M. (2009). Monte Carlo sampling for regret minimization.<a href="#fn130" class="footnote-ref" id="fnref130" role="doc-noteref"><sup>130</sup></a>
 <ul>
 <li>Counterfactual Regret Minimization (MCCFR)</li>
 </ul></li>
-<li>Neller, T.W. &amp; Lanctot, M. (2013). An introduction to counterfactual regret minimization.<a href="#fn132" class="footnote-ref" id="fnref132" role="doc-noteref"><sup>132</sup></a></li>
+<li>Neller, T.W. &amp; Lanctot, M. (2013). An introduction to counterfactual regret minimization.<a href="#fn131" class="footnote-ref" id="fnref131" role="doc-noteref"><sup>131</sup></a></li>
 </ul>
 <h4 id="solving-poker">Solving poker</h4>
 <ul>
 <li>Earlier poker work
 <ul>
-<li>Bowling, M., Burch, N., Johanson, M., &amp; Tammelin, O. (2015). Heads-up limit hold&#x2019;em poker is solved.<a href="#fn133" class="footnote-ref" id="fnref133" role="doc-noteref"><sup>133</sup></a>
+<li>Bowling, M., Burch, N., Johanson, M., &amp; Tammelin, O. (2015). Heads-up limit hold&#x2019;em poker is solved.<a href="#fn132" class="footnote-ref" id="fnref132" role="doc-noteref"><sup>132</sup></a>
 <ul>
 <li>CFR+</li>
 </ul></li>
-<li>Heinrich &amp; Silver. (2016). Deep reinforcement learning from self play in imperfect-information games.<a href="#fn134" class="footnote-ref" id="fnref134" role="doc-noteref"><sup>134</sup></a>
+<li>Heinrich &amp; Silver. (2016). Deep reinforcement learning from self play in imperfect-information games.<a href="#fn133" class="footnote-ref" id="fnref133" role="doc-noteref"><sup>133</sup></a>
 <ul>
 <li>Q-learning</li>
 </ul></li>
-<li>Moravcik, M. et al.&#xA0;(2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker.<a href="#fn135" class="footnote-ref" id="fnref135" role="doc-noteref"><sup>135</sup></a></li>
+<li>Moravcik, M. et al.&#xA0;(2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker.<a href="#fn134" class="footnote-ref" id="fnref134" role="doc-noteref"><sup>134</sup></a></li>
 </ul></li>
 <li>Libratus
 <ul>
-<li>Brown, N. &amp; Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals.<a href="#fn136" class="footnote-ref" id="fnref136" role="doc-noteref"><sup>136</sup></a>
+<li>Brown, N. &amp; Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals.<a href="#fn135" class="footnote-ref" id="fnref135" role="doc-noteref"><sup>135</sup></a>
 <ul>
 <li>bet and card abstraction</li>
 <li>MCCFR used to find a solution of the abstracted game: blueprint</li>
 </ul></li>
-<li>Brown, N. &amp; Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization.<a href="#fn137" class="footnote-ref" id="fnref137" role="doc-noteref"><sup>137</sup></a></li>
-<li>Brown, N., Lerer, A., Gross, S., &amp; Sandholm, T. (2019). Deep counterfactual regret minimization.<a href="#fn138" class="footnote-ref" id="fnref138" role="doc-noteref"><sup>138</sup></a></li>
+<li>Brown, N. &amp; Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization.<a href="#fn136" class="footnote-ref" id="fnref136" role="doc-noteref"><sup>136</sup></a></li>
+<li>Brown, N., Lerer, A., Gross, S., &amp; Sandholm, T. (2019). Deep counterfactual regret minimization.<a href="#fn137" class="footnote-ref" id="fnref137" role="doc-noteref"><sup>137</sup></a></li>
 </ul></li>
 <li>Pluribus
 <ul>
-<li>Brown, N. &amp; Sandholm, T. (2019). Superhuman AI for multiplayer poker.<a href="#fn139" class="footnote-ref" id="fnref139" role="doc-noteref"><sup>139</sup></a></li>
+<li>Brown, N. &amp; Sandholm, T. (2019). Superhuman AI for multiplayer poker.<a href="#fn138" class="footnote-ref" id="fnref138" role="doc-noteref"><sup>138</sup></a></li>
 <li>Brown, N. (2019). <a href="https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/">Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker</a>.</li>
 <li><a href="https://www.nature.com/articles/d41586-019-02156-9">No limit: AI poker bot is first to beat professionals at multiplayer game</a></li>
 </ul></li>
 <li>ReBeL
 <ul>
-<li>Brown, N. et al.&#xA0;(2020). Combining deep reinforcement learning and search.<a href="#fn140" class="footnote-ref" id="fnref140" role="doc-noteref"><sup>140</sup></a></li>
+<li>Brown, N. et al.&#xA0;(2020). Combining deep reinforcement learning and search.<a href="#fn139" class="footnote-ref" id="fnref139" role="doc-noteref"><sup>139</sup></a></li>
 <li><a href="https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/">ReBeL: A general game-playing AI bot that excels at poker and more</a></li>
 <li>YouTube by Brown: <a href="https://www.youtube.com/watch?v=mCldyXOYNok">Combining deep reinforcement learning and search for imperfect-information games</a>.</li>
 </ul></li>
@@ -1209,9 +1208,9 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>David Wolpert and William G. Macready
 <ul>
-<li>No free lunch theorems for search (1995)<a href="#fn141" class="footnote-ref" id="fnref141" role="doc-noteref"><sup>141</sup></a></li>
-<li>The lack of a priori distinctions between learning algorithms (1996)<a href="#fn142" class="footnote-ref" id="fnref142" role="doc-noteref"><sup>142</sup></a></li>
-<li>No free lunch theorems for optimization (1997)<a href="#fn143" class="footnote-ref" id="fnref143" role="doc-noteref"><sup>143</sup></a></li>
+<li>No free lunch theorems for search (1995)<a href="#fn140" class="footnote-ref" id="fnref140" role="doc-noteref"><sup>140</sup></a></li>
+<li>The lack of a priori distinctions between learning algorithms (1996)<a href="#fn141" class="footnote-ref" id="fnref141" role="doc-noteref"><sup>141</sup></a></li>
+<li>No free lunch theorems for optimization (1997)<a href="#fn142" class="footnote-ref" id="fnref142" role="doc-noteref"><sup>142</sup></a></li>
 <li>McDermott, J. (2019). <a href="https://arxiv.org/abs/1906.03280">When and why metaheuristics researchers can ignore &#x201C;No Free Lunch&#x201D; theorems</a>.</li>
 </ul></li>
 <li>Blogs:
@@ -1230,10 +1229,13 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>See also: <a href="scientific-method.html#meta-induction-as-a-solution-to-the-problem-of-induction">Meta-induction as a solution to the problem of induction</a></li>
 </ul></li>
-<li>Dan A. Roberts. (2021). <a href="https://arxiv.org/abs/2104.00008">Why is AI hard and Physics simple?</a><a href="#fn144" class="footnote-ref" id="fnref144" role="doc-noteref"><sup>144</sup></a></li>
+<li>Dan A. Roberts. (2021). <a href="https://arxiv.org/abs/2104.00008">Why is AI hard and Physics simple?</a><a href="#fn143" class="footnote-ref" id="fnref143" role="doc-noteref"><sup>143</sup></a>
+<ul>
+<li>See also: <a href="math.html#unreasonable-effectiveness">Unreasonable effectiveness</a></li>
+</ul></li>
 </ul>
 <blockquote>
-<p>From an algorithmic complexity standpoint it is somewhat miraculous that we can compress our huge look-up table of experiment/outcome into such an efficient description. In many senses, this type of compression is precisely what we mean when we say that physics enables us to understand a given phenomenon.<a href="#fn145" class="footnote-ref" id="fnref145" role="doc-noteref"><sup>145</sup></a></p>
+<p>From an algorithmic complexity standpoint it is somewhat miraculous that we can compress our huge look-up table of experiment/outcome into such an efficient description. In many senses, this type of compression is precisely what we mean when we say that physics enables us to understand a given phenomenon.<a href="#fn144" class="footnote-ref" id="fnref144" role="doc-noteref"><sup>144</sup></a></p>
 </blockquote>
 <h3 id="graphical-tensor-notation">Graphical tensor notation</h3>
 <ul>
@@ -1244,15 +1246,16 @@ D_\mathrm{KL}(p, q)
 <h3 id="relationship-to-statistical-mechanics">Relationship to statistical mechanics</h3>
 <ul>
 <li>Logistic/softmax and Boltzman factors</li>
-<li>Bahri<a href="#fn146" class="footnote-ref" id="fnref146" role="doc-noteref"><sup>146</sup></a></li>
-<li>Halverson<a href="#fn147" class="footnote-ref" id="fnref147" role="doc-noteref"><sup>147</sup></a></li>
+<li>Bahri<a href="#fn145" class="footnote-ref" id="fnref145" role="doc-noteref"><sup>145</sup></a></li>
+<li>Halverson<a href="#fn146" class="footnote-ref" id="fnref146" role="doc-noteref"><sup>146</sup></a></li>
 <li>Canatar, A., Bordelon, B., &amp; Pehlevan, C. (2020). <a href="https://arxiv.org/abs/2006.13198">Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks</a>.</li>
 </ul>
 <h3 id="relationship-to-gauge-theory">Relationship to gauge theory</h3>
 <ul>
-<li>Cohen &amp; Welling. (2016). Group equivariant convolutional networks.<a href="#fn148" class="footnote-ref" id="fnref148" role="doc-noteref"><sup>148</sup></a></li>
-<li>Gauge equivariant convolutional networks and the icosahedral CNN (2019)<a href="#fn149" class="footnote-ref" id="fnref149" role="doc-noteref"><sup>149</sup></a></li>
+<li>Cohen &amp; Welling. (2016). Group equivariant convolutional networks.<a href="#fn147" class="footnote-ref" id="fnref147" role="doc-noteref"><sup>147</sup></a></li>
+<li>Gauge equivariant convolutional networks and the icosahedral CNN (2019)<a href="#fn148" class="footnote-ref" id="fnref148" role="doc-noteref"><sup>148</sup></a></li>
 <li>Pavlus, J. (2020). <a href="https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/">An idea from physics helps AI see in higher dimensions</a>.</li>
+<li>SE(3)-Transformers<a href="#fn149" class="footnote-ref" id="fnref149" role="doc-noteref"><sup>149</sup></a> and <a href="https://fabianfuchsml.github.io/alphafold2/">blog post</a>.</li>
 </ul>
 <h3 id="thermodynamics-of-computation">Thermodynamics of computation</h3>
 <ul>
@@ -2149,34 +2152,34 @@ Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). <span class
 <li id="fn119" role="doc-endnote"><p><span class="citation" data-cites="Radford_2018_Improving_language_understanding_by_generative">Radford, Narasimhan, Salimans, &amp; Sutskever (2018)</span>.<a href="#fnref119" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn120" role="doc-endnote"><p><span class="citation" data-cites="Radford_2019_Language_models_are_unsupervised_multitask">Radford, A. et al. (2019)</span>.<a href="#fnref120" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn121" role="doc-endnote"><p><span class="citation" data-cites="Brown_2020_Language_models_are_few_shot_learners">Brown, T.B. et al. (2020)</span>.<a href="#fnref121" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn122" role="doc-endnote"><p><span class="citation" data-cites="Fuchs_2020_SE3_Transformers_3D_roto_translation">Fuchs, Worrall, Fischer, &amp; Welling (2020)</span>.<a href="#fnref122" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn123" role="doc-endnote"><p><span class="citation" data-cites="Sutton_2018_Reinforcement_Learning">Sutton &amp; Barto (2018)</span>.<a href="#fnref123" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn124" role="doc-endnote"><p><span class="citation" data-cites="Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey">Arulkumaran, Deisenroth, Brundage, &amp; Bharath (2017)</span>.<a href="#fnref124" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn125" role="doc-endnote"><p><span class="citation" data-cites="Bellman_1952_On_the_theory_of_dynamic_programming">Bellman (1952)</span>.<a href="#fnref125" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn126" role="doc-endnote"><p><span class="citation" data-cites="Mnih_2013_Playing_Atari_with_deep_reinforcement_learning">Mnih, V. et al. (2013)</span> and <span class="citation" data-cites="Mnih_2015_Human_level_control_through_deep_reinforcement">Mnih, V. et al. (2015)</span>.<a href="#fnref126" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn127" role="doc-endnote"><p><span class="citation" data-cites="Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks">Silver, D. et al. (2016)</span>.<a href="#fnref127" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn128" role="doc-endnote"><p><span class="citation" data-cites="Silver_2017_Mastering_the_game_of_Go_without_human_knowledge">Silver, D. et al. (2017b)</span>.<a href="#fnref128" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn129" role="doc-endnote"><p><span class="citation" data-cites="Silver_2017_Mastering_chess_and_shogi_by_self_play_with">Silver, D. et al. (2017a)</span>.<a href="#fnref129" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn130" role="doc-endnote"><p><span class="citation" data-cites="Zinkevich_2007_Regret_minimization_in_games_with_incomplete">Zinkevich, Johanson, Bowling, &amp; Piccione (2007)</span>.<a href="#fnref130" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn131" role="doc-endnote"><p><span class="citation" data-cites="Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization">Lanctot, Waugh, Zinkevich, &amp; Bowling (2009)</span>.<a href="#fnref131" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn132" role="doc-endnote"><p><span class="citation" data-cites="Neller_2013_An_introduction_to_counterfactual_regret">Neller &amp; Lanctot (2013)</span>.<a href="#fnref132" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn133" role="doc-endnote"><p><span class="citation" data-cites="Bowling_2015_Heads_up_limit_holdem_poker_is_solved">Bowling, Burch, Johanson, &amp; Tammelin (2015)</span>.<a href="#fnref133" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn134" role="doc-endnote"><p><span class="citation" data-cites="Heinrich_2016_Deep_reinforcement_learning_from_self_play">Heinrich &amp; Silver (2016)</span>.<a href="#fnref134" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn135" role="doc-endnote"><p><span class="citation" data-cites="Moravcik_2017_DeepStack_Expert_level_artificial_intelligence">Moravcik, M. et al. (2017)</span>.<a href="#fnref135" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn136" role="doc-endnote"><p><span class="citation" data-cites="Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker">N. Brown &amp; Sandholm (2018)</span>.<a href="#fnref136" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn137" role="doc-endnote"><p><span class="citation" data-cites="Brown_2019_Solving_imperfect_information_games_via_discounted">N. Brown &amp; Sandholm (2019a)</span>.<a href="#fnref137" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn138" role="doc-endnote"><p><span class="citation" data-cites="Brown_2019_Deep_counterfactual_regret_minimization">N. Brown, Lerer, Gross, &amp; Sandholm (2019)</span>.<a href="#fnref138" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn139" role="doc-endnote"><p><span class="citation" data-cites="Brown_2019_Superhuman_AI_for_multiplayer_poker">N. Brown &amp; Sandholm (2019b)</span>.<a href="#fnref139" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn140" role="doc-endnote"><p><span class="citation" data-cites="Brown_2020_Combining_deep_reinforcement_learning_and_search">N. Brown, Bakhtin, Lerer, &amp; Gong (2020)</span>.<a href="#fnref140" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn141" role="doc-endnote"><p><span class="citation" data-cites="Wolpert_1995_No_free_lunch_theorems_for_search">Wolpert &amp; Macready (1995)</span>.<a href="#fnref141" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn142" role="doc-endnote"><p><span class="citation" data-cites="Wolpert_1996_The_lack_of_a_priori_distinctions_between_learning">Wolpert (1996)</span>.<a href="#fnref142" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn143" role="doc-endnote"><p><span class="citation" data-cites="Wolpert_1997_No_free_lunch_theorems_for_optimization">Wolpert &amp; Macready (1997)</span>.<a href="#fnref143" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn144" role="doc-endnote"><p><span class="citation" data-cites="Roberts_2021_Why_is_AI_hard_and_physics_simple">Roberts (2021)</span>.<a href="#fnref144" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn145" role="doc-endnote"><p><span class="citation" data-cites="Roberts_2021_Why_is_AI_hard_and_physics_simple">Roberts (2021)</span>, p.&#xA0;7.<a href="#fnref145" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn146" role="doc-endnote"><p><span class="citation" data-cites="Bahri_2020_Statistical_mechanics_of_deep_learning">Bahri, Y. et al. (2020)</span>.<a href="#fnref146" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn147" role="doc-endnote"><p><span class="citation" data-cites="Halverson_2020_Neural_networks_and_quantum_field_theory">Halverson, Maiti, &amp; Stoner (2020)</span>.<a href="#fnref147" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn148" role="doc-endnote"><p><span class="citation" data-cites="Cohen_2016_Group_equivariant_convolutional_networks">Cohen &amp; Welling (2016)</span>.<a href="#fnref148" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn149" role="doc-endnote"><p><span class="citation" data-cites="Cohen_2019_Gauge_equivariant_convolutional_networks">Cohen, Weiler, Kicanaoglu, &amp; Welling (2019)</span>.<a href="#fnref149" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn122" role="doc-endnote"><p><span class="citation" data-cites="Sutton_2018_Reinforcement_Learning">Sutton &amp; Barto (2018)</span>.<a href="#fnref122" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn123" role="doc-endnote"><p><span class="citation" data-cites="Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey">Arulkumaran, Deisenroth, Brundage, &amp; Bharath (2017)</span>.<a href="#fnref123" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn124" role="doc-endnote"><p><span class="citation" data-cites="Bellman_1952_On_the_theory_of_dynamic_programming">Bellman (1952)</span>.<a href="#fnref124" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn125" role="doc-endnote"><p><span class="citation" data-cites="Mnih_2013_Playing_Atari_with_deep_reinforcement_learning">Mnih, V. et al. (2013)</span> and <span class="citation" data-cites="Mnih_2015_Human_level_control_through_deep_reinforcement">Mnih, V. et al. (2015)</span>.<a href="#fnref125" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn126" role="doc-endnote"><p><span class="citation" data-cites="Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks">Silver, D. et al. (2016)</span>.<a href="#fnref126" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn127" role="doc-endnote"><p><span class="citation" data-cites="Silver_2017_Mastering_the_game_of_Go_without_human_knowledge">Silver, D. et al. (2017b)</span>.<a href="#fnref127" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn128" role="doc-endnote"><p><span class="citation" data-cites="Silver_2017_Mastering_chess_and_shogi_by_self_play_with">Silver, D. et al. (2017a)</span>.<a href="#fnref128" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn129" role="doc-endnote"><p><span class="citation" data-cites="Zinkevich_2007_Regret_minimization_in_games_with_incomplete">Zinkevich, Johanson, Bowling, &amp; Piccione (2007)</span>.<a href="#fnref129" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn130" role="doc-endnote"><p><span class="citation" data-cites="Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization">Lanctot, Waugh, Zinkevich, &amp; Bowling (2009)</span>.<a href="#fnref130" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn131" role="doc-endnote"><p><span class="citation" data-cites="Neller_2013_An_introduction_to_counterfactual_regret">Neller &amp; Lanctot (2013)</span>.<a href="#fnref131" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn132" role="doc-endnote"><p><span class="citation" data-cites="Bowling_2015_Heads_up_limit_holdem_poker_is_solved">Bowling, Burch, Johanson, &amp; Tammelin (2015)</span>.<a href="#fnref132" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn133" role="doc-endnote"><p><span class="citation" data-cites="Heinrich_2016_Deep_reinforcement_learning_from_self_play">Heinrich &amp; Silver (2016)</span>.<a href="#fnref133" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn134" role="doc-endnote"><p><span class="citation" data-cites="Moravcik_2017_DeepStack_Expert_level_artificial_intelligence">Moravcik, M. et al. (2017)</span>.<a href="#fnref134" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn135" role="doc-endnote"><p><span class="citation" data-cites="Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker">N. Brown &amp; Sandholm (2018)</span>.<a href="#fnref135" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn136" role="doc-endnote"><p><span class="citation" data-cites="Brown_2019_Solving_imperfect_information_games_via_discounted">N. Brown &amp; Sandholm (2019a)</span>.<a href="#fnref136" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn137" role="doc-endnote"><p><span class="citation" data-cites="Brown_2019_Deep_counterfactual_regret_minimization">N. Brown, Lerer, Gross, &amp; Sandholm (2019)</span>.<a href="#fnref137" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn138" role="doc-endnote"><p><span class="citation" data-cites="Brown_2019_Superhuman_AI_for_multiplayer_poker">N. Brown &amp; Sandholm (2019b)</span>.<a href="#fnref138" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn139" role="doc-endnote"><p><span class="citation" data-cites="Brown_2020_Combining_deep_reinforcement_learning_and_search">N. Brown, Bakhtin, Lerer, &amp; Gong (2020)</span>.<a href="#fnref139" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn140" role="doc-endnote"><p><span class="citation" data-cites="Wolpert_1995_No_free_lunch_theorems_for_search">Wolpert &amp; Macready (1995)</span>.<a href="#fnref140" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn141" role="doc-endnote"><p><span class="citation" data-cites="Wolpert_1996_The_lack_of_a_priori_distinctions_between_learning">Wolpert (1996)</span>.<a href="#fnref141" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn142" role="doc-endnote"><p><span class="citation" data-cites="Wolpert_1997_No_free_lunch_theorems_for_optimization">Wolpert &amp; Macready (1997)</span>.<a href="#fnref142" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn143" role="doc-endnote"><p><span class="citation" data-cites="Roberts_2021_Why_is_AI_hard_and_physics_simple">Roberts (2021)</span>.<a href="#fnref143" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn144" role="doc-endnote"><p><span class="citation" data-cites="Roberts_2021_Why_is_AI_hard_and_physics_simple">Roberts (2021)</span>, p.&#xA0;7.<a href="#fnref144" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn145" role="doc-endnote"><p><span class="citation" data-cites="Bahri_2020_Statistical_mechanics_of_deep_learning">Bahri, Y. et al. (2020)</span>.<a href="#fnref145" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn146" role="doc-endnote"><p><span class="citation" data-cites="Halverson_2020_Neural_networks_and_quantum_field_theory">Halverson, Maiti, &amp; Stoner (2020)</span>.<a href="#fnref146" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn147" role="doc-endnote"><p><span class="citation" data-cites="Cohen_2016_Group_equivariant_convolutional_networks">Cohen &amp; Welling (2016)</span>.<a href="#fnref147" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn148" role="doc-endnote"><p><span class="citation" data-cites="Cohen_2019_Gauge_equivariant_convolutional_networks">Cohen, Weiler, Kicanaoglu, &amp; Welling (2019)</span>.<a href="#fnref148" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn149" role="doc-endnote"><p><span class="citation" data-cites="Fuchs_2020_SE3_Transformers_3D_roto_translation">Fuchs, Worrall, Fischer, &amp; Welling (2020)</span>.<a href="#fnref149" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn150" role="doc-endnote"><p><span class="citation" data-cites="Smith_2019_A_gentle_introduction_to_information_geometry">Smith (2019)</span>.<a href="#fnref150" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn151" role="doc-endnote"><p><span class="citation" data-cites="Nielsen_2018_An_elementary_introduction_to_information_geometry">Nielsen (2018)</span>.<a href="#fnref151" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn152" role="doc-endnote"><p><span class="citation" data-cites="Amari_2016_Information_Geometry_and_Its_Applications">Amari (2016)</span>.<a href="#fnref152" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
@@ -2221,7 +2224,7 @@ Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). <span class
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Fri Apr 02, 2021</p>
+    <p>Sat Apr 03, 2021</p>
   </div>
   <div class="license">
     <p>&#xA9; 2014-2021 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>

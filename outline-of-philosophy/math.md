@@ -560,15 +560,26 @@ Structuralism
 Naturalism
 --------------------------------------------------------------------------------
 
--   Realist?
--   Unreliability effectiveness
-    -   Wigner [^Wigner1960]
-    -   Putnam [^Putnam1975]
-    -   Hamming [^Hamming1980]
-    -   Tegmark
--   Quine-Putnam indispensability thesis
-    -   Quine
-    -   Putnam [^Putnam1975MMM]
+### Unreasonable effectiveness
+
+-   Wigner [^Wigner1960]
+-   Putnam [^Putnam1975]
+-   Hamming [^Hamming1980]
+-   Tegmark: MUH
+-   Zee: Physics uses simple Lie groups
+-   Dan A. Roberts. (2021). [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
+    -   See also: [No free lunch theorems](statistics.html#no-free-lunch-theorems)
+
+[^Hamming1980]: @Hamming_1980_The_Unreasonable_Effectiveness_of_Mathematics\.
+[^Putnam1975]: @Putnam_1975_What_is_mathematical_truth\.
+[^Roberts2021]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.
+[^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
+
+
+### Quine-Putnam indispensability thesis
+
+-   Quine
+-   Putnam [^Putnam1975MMM]
 
 Putnam:
 
@@ -576,14 +587,14 @@ Putnam:
 >   therefore we should accept such quantification; but this commits us to
 >   accepting the existence of the mathematical entities in question. [^Putnam1971p57]
 
--   Maddy
--   See the outline on [Naturalism](naturalism.html).
-
-[^Hamming1980]: @Hamming_1980_The_Unreasonable_Effectiveness_of_Mathematics\.
 [^Putnam1971p57]: @Putnam_1971_Philosophy_of_Logic\, p. 57.
-[^Putnam1975]: @Putnam_1975_What_is_mathematical_truth\.
 [^Putnam1975MMM]: @Putnam_1975_Mathematics_Matter_and_Method\, p. TODO\.
-[^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
+
+
+### Mathematical naturalism
+-   Maddy
+-   Realist?
+-   See the outline on [Naturalism](naturalism.html).
 
 
 My thoughts
