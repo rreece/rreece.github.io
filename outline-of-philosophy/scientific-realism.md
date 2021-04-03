@@ -1088,6 +1088,7 @@ Christian Hennig:
 
 -   "Mathematical models and reality: A constructivist perspective" [^Hennig2010]
 -   "What are the true clusters?" [^Hennig2015]
+    -   See also: [clustering](statistics.html#clustering)
 
 [^Hennig2010]: @Hennig_2010_Mathematical_models_and_reality_A_constructivist\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.

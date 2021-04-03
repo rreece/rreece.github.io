@@ -991,6 +991,13 @@ See also:
     -   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
 -   [Topological data analysis](https://en.wikipedia.org/wiki/Topological_data_analysis)
     -   Dindin, M. (2018). [TDA To Rule Them All: ToMATo Clustering](https://towardsdatascience.com/tda-to-rule-them-all-tomato-clustering-878e03394a1).
+-   Relationship of clustering and autoencoding
+    -   Batson et al. (2021). [Topological obstructions to autoencoding](https://arxiv.org/abs/2102.08380). [^Batson2021]
+-   "What are the true clusters?" [^Hennig2015]
+    -   See also: [constructive-empiricism](scientific-realism.html#constructive-empiricism)
+
+[^Batson2021]: @Batson_2021_Topological_obstructions_to_autoencoding\.
+[^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
 
 
 Deep learning

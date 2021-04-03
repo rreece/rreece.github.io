@@ -9,6 +9,7 @@ Bahdanau, D., Cho, K. & Bengio, Y. (2015). Neural machine translation by jointly
 Bahri, Y., Kadmon, J., Pennington, J., Schoenholz, S.S., Sohl-Dickstein, J., & Ganguli1, S. (2020). Statistical mechanics of deep learning. *Annual Review of Condensed Matter Physics*, 11, 501--528.
 Balasubramanian, V. (1996). A geometric formulation of Occam's razor for inference of parametric distributions. https://arxiv.org/abs/adap-org/9601001
 Balasubramanian, V. (1996). Statistical inference, Occam's razor and statistical mechanics on the space of probability distributions. https://arxiv.org/abs/cond-mat/9601030
+Batson, J., Haaf, C.G., Kahn, Y., & Roberts, D.A. (2021). Topological obstructions to autoencoding. https://arxiv.org/abs/2102.08380
 Belkin, M., Hsu, D., Ma, S., & Mandal, S. (2019). Reconciling modern machine-learning practice and the classical bias-variance trade-off. *Proceedings of the National Academy of Sciences*, 116(32), 15849--15854. https://arxiv.org/abs/1812.11118
 Bellman, R. (1952). On the theory of dynamic programming. *PNAS*, 38, 716--719.
 Bengio, Y. (2009). Learning deep architectures for AI. *Foundations and Trends in Machine Learning*, 2(1), 1--127.
