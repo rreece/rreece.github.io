@@ -112,6 +112,22 @@ Neuroscience
 ![Kahn, Fritz. (1939). [What goes on in our heads when we see a car and say 'car'](https://www.amazon.com/Fritz-Kahn-Uta-Thilo-Debschitz/dp/3836548402).](img/fritz-kahn-what-happens-in-our-heads.jpg){#fig:fritz-kahn-what-happens-in-our-heads}
 
 
+Artificial intelligence
+--------------------------------------------------------------------------------
+
+-   TODO
+-   See also:
+    -   [Deep learning](statistics.html#deep-learning)
+    -   [Artificial intelligence](future.html#artificial-intelligence)
+
+
+### Criticism
+
+-   John Searle - Chinese room argument
+-   Hubert Dreyfus
+-   TODO: counter-criticism
+
+
 Language
 --------------------------------------------------------------------------------
 

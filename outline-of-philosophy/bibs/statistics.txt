@@ -127,6 +127,7 @@ Reichenbach, H. (1938). *Experience and Prediction*. University of Chicago Press
 Reichenbach, H. (1940). On the justification of induction. *The Journal of Philosophy*, 37, 97--103.
 Reid, C. (1998). *Neyman*. Springer-Verlag.
 Rice, J.A. (2007). *Mathematical Statistics and Data Analysis* (3rd ed.). Thomson.
+Roberts, D.A. (2021). Why is AI hard and physics simple? https://arxiv.org/abs/2104.00008
 Royall, R. (1997). *Statistical Evidence: A likelihood paradigm*. CRC Press.
 Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533--536.
 Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.
@@ -176,5 +177,4 @@ Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimiza
 Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf [(Paper on the GPT model by OpenAI)] 
 Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf [(Paper on the GPT-2 model by OpenAI)] 
 Brown, T.B. et al. (2020). Language models are few-shot learners. https://arxiv.org/abs/2005.14165 [(Paper on the GPT-3 model by OpenAI)] 
-
 

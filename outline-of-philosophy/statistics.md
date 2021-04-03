@@ -258,8 +258,14 @@ Foundations of statistics
 -   Cowan [^Cowan1998]
 -   Lista [^Lista2016]
 -   Cranmer [^Cranmer2015]
--   Cranmer, K. (2020). [Statistics and Data Science](https://cranmer.github.io/stats-ds-book/intro.html).
+-   Cranmer, K. (2020). [*Statistics and Data Science*](https://cranmer.github.io/stats-ds-book/intro.html).
 -   Weisberg [^Weisberg2019]
+-   Cosma Shalizi's notes on
+    -   [probability theory](http://bactra.org/notebooks/probability.html)
+    -   [statistics](http://bactra.org/notebooks/statistics.html)
+    -   [teaching statistics](http://bactra.org/notebooks/teaching-statistics.html)
+    -   [information geometry](http://bactra.org/notebooks/info-geo.html)
+    -   [*Advanced Data Analysis from an Elementary Point of View*](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 
 [^Cousins2018]: @Cousins_2018_Lectures_on_statistics_in_theory_Prelude\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\. 
@@ -1354,14 +1360,21 @@ Theoretical machine learning
     -   Fedden, L. (2017). [The no free lunch theorem](https://medium.com/@LeonFedden/the-no-free-lunch-theorem-62ae2c3ed10c).
     -   Lokesh, M. (2020). [The intuition behind the no free lunch theorem](https://towardsdatascience.com/intuitions-behind-no-free-lunch-theorem-1d160f754513).
     -   Mueller, A. (2019). [Don't cite the no free lunch theorem](https://peekaboo-vision.blogspot.com/2019/07/dont-cite-no-free-lunch-theorem.html).
-
 -   Inductive bias
     -   Yudkowsky, E. (2007). [Inductive bias](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias). *LessWrong*.
     -   [Ugly duckling theorem](https://en.wikipedia.org/wiki/Ugly_duckling_theorem)
     -   Hamilton, L.D. (2014). [The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms).
 -   Gerhard Schurz
     -   See also: [Meta-induction as a solution to the problem of induction](scientific-method.html#meta-induction-as-a-solution-to-the-problem-of-induction)
+-   Dan A. Roberts. (2021). [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
 
+>   From an algorithmic complexity standpoint it is somewhat
+>   miraculous that we can compress our huge look-up table of experiment/outcome into such
+>   an efficient description. In many senses, this type of compression is precisely what we
+>   mean when we say that physics enables us to understand a given phenomenon. [^Roberts2021p7]
+
+[^Roberts2021]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.
+[^Roberts2021p7]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\, p. 7.
 [^Wolpert1995]: @Wolpert_1995_No_free_lunch_theorems_for_search\.
 [^Wolpert1996]: @Wolpert_1996_The_lack_of_a_priori_distinctions_between_learning\.
 [^Wolpert1997]: @Wolpert_1997_No_free_lunch_theorems_for_optimization\.

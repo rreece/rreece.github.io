@@ -17,9 +17,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Risk
 --------------------------------------------------------------------------------
 
+-   Bertrand Russell. (1924). [Icarus, or the future of science](http://bactra.org/Icarus.html).
+-   [*The Limits to Growth* (1972)](https://en.wikipedia.org/wiki/The_Limits_to_Growth)
 -   Anthropic bias [^Bostrom2002]
 -   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
--   [*The Limits to Growth* (1972)](https://en.wikipedia.org/wiki/The_Limits_to_Growth)
 
 [^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
 
