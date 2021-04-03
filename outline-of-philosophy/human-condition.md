@@ -837,10 +837,15 @@ Online Suttas:
 -   [Tantra](https://en.wikipedia.org/wiki/Tantra) - esoteric teachings in Hinduism and Buddhism
     -   literally: "loom, weave, system"
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
+    -   [B&ouml;n](https://en.wikipedia.org/wiki/Bon)
+    -   [Nyingma](https://en.wikipedia.org/wiki/Nyingma)
     -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) - "Great Perfection"
         -   a practice with great emphasis on introspection and meditation
-    -   [Bardo Thodol](https://en.wikipedia.org/wiki/Bardo_Thodol)
-    -   Dalai Lama. (1988). [The Real Enemy](https://buddhismnow.com/2019/11/10/the-real-enemy-by-dalai-lama/).
+    -   [*Bardo Thodol*](https://en.wikipedia.org/wiki/Bardo_Thodol)
+    -   [Lhasa](https://en.wikipedia.org/wiki/Lhasa)
+    -   [Dalai Lama](https://en.wikipedia.org/wiki/Dalai_Lama)
+        -   [14th Dalai Lama](https://en.wikipedia.org/wiki/14th_Dalai_Lama)
+        -   14th Dalai Lama. (1988). [The Real Enemy](https://buddhismnow.com/2019/11/10/the-real-enemy-by-dalai-lama/).
     -   [Richard Davidson](https://en.wikipedia.org/wiki/Richard_Davidson) (b. 1951)
     -   [Jay L. Garfield](https://jaygarfield.org/in-press/) (b. 1955)
         -   Translator of N&amacr;g&amacr;rjuna's *Fundamental Verses on the Middle Way* [^Nagarjuna1995Garfield]
