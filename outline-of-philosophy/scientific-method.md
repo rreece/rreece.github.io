@@ -373,11 +373,6 @@ Rationalism vs empiricism
 -   David Hume (1711-1776)
     -   *An Enquiry Concerning Human Understanding* (1748)
 
->   [W]hatever I write, as soon as I discover it not to be true,
->   my hand shall be the forwardest to throw it into the fire.
-
-TODO: find the above quote from Locke.
-
 Hume:
 
 >   [S]cepticism, when more moderate, may be understood in a very reasonable sense,
