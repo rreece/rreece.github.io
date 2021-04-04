@@ -54,28 +54,28 @@ TODO:
 
 Expectation:
 
-$$ \mathrm{E}(y) \equiv \int dx \: p(x) \: y(x) \label{eq:expectation} $$
+$$ \mathbb{E}(y) \equiv \int dx \: p(x) \: y(x) \label{eq:expectation} $$
 
 Expectation values can be approximated with a partial sum over some data
 or monte carol sample:
 
-$$ \mathrm{E}(y) \approx \frac{1}{n} \sum_s^n y(x_s) \label{eq:expectation_sum} $$
+$$ \mathbb{E}(y) \approx \frac{1}{n} \sum_s^n y(x_s) \label{eq:expectation_sum} $$
 
 The variance of a random variable, $y$, is defined as
 
 \begin{align}
-    \mathrm{Var}(y) &\equiv \mathrm{E}((y - \mathrm{E}(y))^2) \nonumber \\
-    &= \mathrm{E}(y^2 - 2 \: y \: \mathrm{E}(y) + \mathrm{E}(y)^2) \nonumber \\
-    &= \mathrm{E}(y^2) - 2 \: \mathrm{E}(y) \: \mathrm{E}(y) + \mathrm{E}(y)^2 \nonumber \\
-    &= \mathrm{E}(y^2) - \mathrm{E}(y)^2 \label{eq:variance}
+    \mathrm{Var}(y) &\equiv \mathbb{E}((y - \mathbb{E}(y))^2) \nonumber \\
+    &= \mathbb{E}(y^2 - 2 \: y \: \mathbb{E}(y) + \mathbb{E}(y)^2) \nonumber \\
+    &= \mathbb{E}(y^2) - 2 \: \mathbb{E}(y) \: \mathbb{E}(y) + \mathbb{E}(y)^2 \nonumber \\
+    &= \mathbb{E}(y^2) - \mathbb{E}(y)^2 \label{eq:variance}
 \end{align}
 
 The covariance matrix, $\boldsymbol{V}$, of random variables $x_i$ is
 
 \begin{align}
-    V_{ij} &= \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] \nonumber \\
-           &= \mathrm{E}(x_i \: x_{j} - \mu_i \: x_j - x_i \: \mu_j + \mu_i \: \mu_j ) \nonumber \\
-           &= \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_j \label{eq:covariance_matrix_indexed}
+    V_{ij} &= \mathrm{Cov}(x_i, x_j) \equiv \mathbb{E}[(x_i - \mathbb{E}(x_i)) \: (x_j - \mathbb{E}(x_j))] \nonumber \\
+           &= \mathbb{E}(x_i \: x_{j} - \mu_i \: x_j - x_i \: \mu_j + \mu_i \: \mu_j ) \nonumber \\
+           &= \mathbb{E}(x_i \: x_{j}) - \mu_i \: \mu_j \label{eq:covariance_matrix_indexed}
 \end{align}
 
 \begin{equation}
@@ -105,7 +105,7 @@ which is bounded: $-1 \leq \mathrm{Cor}(x_i, x_j)  \leq 1$.
 
 The covariance of two random vectors is given by
 
-$$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}\trans) - \vec{\mu}_x \: \vec{\mu}_{y}\trans \label{eq:covariance_matrix_vectors} $$
+$$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathbb{E}(\vec{x} \: \vec{y}\trans) - \vec{\mu}_x \: \vec{\mu}_{y}\trans \label{eq:covariance_matrix_vectors} $$
 
 
 ### Cross entropy
@@ -114,17 +114,17 @@ TODO: discuss the Shannon entropy and Kullback-Leibler (KL) divergence. [^Goodfe
 
 Shannon entropy:
 
-$$ H(p) = - \underset{x\sim{}p}{\mathrm{E}}\big[ \log p(x) \big] \label{eq:shannon_entropy} $$
+$$ H(p) = - \underset{x\sim{}p}{\mathbb{E}}\big[ \log p(x) \big] \label{eq:shannon_entropy} $$
 
 Cross entropy:
 
-$$ H(p, q) = - \underset{x\sim{}p}{\mathrm{E}}\big[ \log q(x) \big] \label{eq:cross_entropy} $$
+$$ H(p, q) = - \underset{x\sim{}p}{\mathbb{E}}\big[ \log q(x) \big] \label{eq:cross_entropy} $$
 
 Kullback-Leibler (KL) divergence:
 
 \begin{align}
 D_\mathrm{KL}(p, q)
-    &= \underset{x\sim{}p}{\mathrm{E}}\left[ \log \left(\frac{p(x)}{q(x)}\right) \right] = \underset{x\sim{}p}{\mathrm{E}}\big[ \log p(x) - \log q(x) \big] \label{eq:kl_divergence} \\
+    &= \underset{x\sim{}p}{\mathbb{E}}\left[ \log \left(\frac{p(x)}{q(x)}\right) \right] = \underset{x\sim{}p}{\mathbb{E}}\big[ \log p(x) - \log q(x) \big] \label{eq:kl_divergence} \\
     &= - H(p) + H(p, q) \\
 \end{align}
 
@@ -359,7 +359,7 @@ Point estimation and confidence intervals
 
 The bias of an estimator, $\hat\theta$, is defined as
 
-$$ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}(\hat{\theta} - \theta) = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} $$
+$$ \mathrm{Bias}(\hat{\theta}) \equiv \mathbb{E}(\hat{\theta} - \theta) = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} $$
 
 The mean squared error (MSE) of an estimator has a similar formula to variance
 ([@eq:variance])
@@ -367,25 +367,25 @@ except that instead of quantifying the square of the difference of the estimator
 and its expected value, the MSE uses the square of the difference of the estimator
 and the true parameter:
 
-$$ \mathrm{MSE}(\hat{\theta}) \equiv \mathrm{E}((\hat{\theta} - \theta)^2) \label{eq:mse} $$
+$$ \mathrm{MSE}(\hat{\theta}) \equiv \mathbb{E}((\hat{\theta} - \theta)^2) \label{eq:mse} $$
 
 The MSE of an estimator can be related
 to its bias and its variance by the following proof:
 
 \begin{align}
-    \mathrm{MSE}(\hat{\theta}) &= \mathrm{E}(\hat{\theta}^2 - 2 \: \hat{\theta} \: \theta + \theta^2) \nonumber \\
-    &= \mathrm{E}(\hat{\theta}^2) - 2 \: \mathrm{E}(\hat{\theta}) \: \theta + \theta^2
+    \mathrm{MSE}(\hat{\theta}) &= \mathbb{E}(\hat{\theta}^2 - 2 \: \hat{\theta} \: \theta + \theta^2) \nonumber \\
+    &= \mathbb{E}(\hat{\theta}^2) - 2 \: \mathbb{E}(\hat{\theta}) \: \theta + \theta^2
 \end{align}
 
 noting that
 
-$$ \mathrm{Var}(\hat{\theta}) = \mathrm{E}(\hat{\theta}^2) - \mathrm{E}(\hat{\theta})^2 $$
+$$ \mathrm{Var}(\hat{\theta}) = \mathbb{E}(\hat{\theta}^2) - \mathbb{E}(\hat{\theta})^2 $$
 
 and
 
 \begin{align}
-    \mathrm{Bias}(\hat{\theta})^2 &= \mathrm{E}(\hat{\theta} - \theta)^2 \nonumber \\
-    &= \mathrm{E}(\hat{\theta})^2 - 2 \: \mathrm{E}(\hat{\theta}) \: \theta + \theta^2
+    \mathrm{Bias}(\hat{\theta})^2 &= \mathbb{E}(\hat{\theta} - \theta)^2 \nonumber \\
+    &= \mathbb{E}(\hat{\theta})^2 - 2 \: \mathbb{E}(\hat{\theta}) \: \theta + \theta^2
 \end{align}
 
 we see that MSE is equivalent to

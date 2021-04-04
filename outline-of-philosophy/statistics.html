@@ -210,21 +210,21 @@
 </ul>
 <h3 id="expectation-and-variance">Expectation and variance</h3>
 <p>Expectation:</p>
-<p><span class="math display">\[ \mathrm{E}(y) \equiv \int dx \: p(x) \: y(x) \label{eq:expectation} \]</span></p>
+<p><span class="math display">\[ \mathbb{E}(y) \equiv \int dx \: p(x) \: y(x) \label{eq:expectation} \]</span></p>
 <p>Expectation values can be approximated with a partial sum over some data or monte carol sample:</p>
-<p><span class="math display">\[ \mathrm{E}(y) \approx \frac{1}{n} \sum_s^n y(x_s) \label{eq:expectation_sum} \]</span></p>
+<p><span class="math display">\[ \mathbb{E}(y) \approx \frac{1}{n} \sum_s^n y(x_s) \label{eq:expectation_sum} \]</span></p>
 <p>The variance of a random variable, <span class="math inline">\(y\)</span>, is defined as</p>
 <p><span class="math display">\[\begin{align}
-    \mathrm{Var}(y) &amp;\equiv \mathrm{E}((y - \mathrm{E}(y))^2) \nonumber \\
-    &amp;= \mathrm{E}(y^2 - 2 \: y \: \mathrm{E}(y) + \mathrm{E}(y)^2) \nonumber \\
-    &amp;= \mathrm{E}(y^2) - 2 \: \mathrm{E}(y) \: \mathrm{E}(y) + \mathrm{E}(y)^2 \nonumber \\
-    &amp;= \mathrm{E}(y^2) - \mathrm{E}(y)^2 \label{eq:variance}
+    \mathrm{Var}(y) &amp;\equiv \mathbb{E}((y - \mathbb{E}(y))^2) \nonumber \\
+    &amp;= \mathbb{E}(y^2 - 2 \: y \: \mathbb{E}(y) + \mathbb{E}(y)^2) \nonumber \\
+    &amp;= \mathbb{E}(y^2) - 2 \: \mathbb{E}(y) \: \mathbb{E}(y) + \mathbb{E}(y)^2 \nonumber \\
+    &amp;= \mathbb{E}(y^2) - \mathbb{E}(y)^2 \label{eq:variance}
 \end{align}\]</span></p>
 <p>The covariance matrix, <span class="math inline">\(\boldsymbol{V}\)</span>, of random variables <span class="math inline">\(x_i\)</span> is</p>
 <p><span class="math display">\[\begin{align}
-    V_{ij} &amp;= \mathrm{Cov}(x_i, x_j) \equiv \mathrm{E}[(x_i - \mathrm{E}(x_i)) \: (x_j - \mathrm{E}(x_j))] \nonumber \\
-           &amp;= \mathrm{E}(x_i \: x_{j} - \mu_i \: x_j - x_i \: \mu_j + \mu_i \: \mu_j ) \nonumber \\
-           &amp;= \mathrm{E}(x_i \: x_{j}) - \mu_i \: \mu_j \label{eq:covariance_matrix_indexed}
+    V_{ij} &amp;= \mathrm{Cov}(x_i, x_j) \equiv \mathbb{E}[(x_i - \mathbb{E}(x_i)) \: (x_j - \mathbb{E}(x_j))] \nonumber \\
+           &amp;= \mathbb{E}(x_i \: x_{j} - \mu_i \: x_j - x_i \: \mu_j + \mu_i \: \mu_j ) \nonumber \\
+           &amp;= \mathbb{E}(x_i \: x_{j}) - \mu_i \: \mu_j \label{eq:covariance_matrix_indexed}
 \end{align}\]</span></p>
 <p><span class="math display">\[\begin{equation}
 \boldsymbol{V} = 
@@ -242,17 +242,17 @@
 <p><span class="math display">\[ \mathrm{Cor}(x_i, x_j) \equiv \frac{ \mathrm{Cov}(x_i, x_j) }{ \sqrt{ \mathrm{Var}(x_i) \: \mathrm{Var}(x_j)  }  } \label{eq:correlation_matrix} \]</span></p>
 <p>which is bounded: <span class="math inline">\(-1 \leq \mathrm{Cor}(x_i, x_j) \leq 1\)</span>.</p>
 <p>The covariance of two random vectors is given by</p>
-<p><span class="math display">\[ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathrm{E}(\vec{x} \: \vec{y}^{\mathsf{T}}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\mathsf{T}}\label{eq:covariance_matrix_vectors} \]</span></p>
+<p><span class="math display">\[ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathbb{E}(\vec{x} \: \vec{y}^{\mathsf{T}}) - \vec{\mu}_x \: \vec{\mu}_{y}^{\mathsf{T}}\label{eq:covariance_matrix_vectors} \]</span></p>
 <h3 id="cross-entropy">Cross entropy</h3>
 <p>TODO: discuss the Shannon entropy and Kullback-Leibler (KL) divergence.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
 <p>Shannon entropy:</p>
-<p><span class="math display">\[ H(p) = - \underset{x\sim{}p}{\mathrm{E}}\big[ \log p(x) \big] \label{eq:shannon_entropy} \]</span></p>
+<p><span class="math display">\[ H(p) = - \underset{x\sim{}p}{\mathbb{E}}\big[ \log p(x) \big] \label{eq:shannon_entropy} \]</span></p>
 <p>Cross entropy:</p>
-<p><span class="math display">\[ H(p, q) = - \underset{x\sim{}p}{\mathrm{E}}\big[ \log q(x) \big] \label{eq:cross_entropy} \]</span></p>
+<p><span class="math display">\[ H(p, q) = - \underset{x\sim{}p}{\mathbb{E}}\big[ \log q(x) \big] \label{eq:cross_entropy} \]</span></p>
 <p>Kullback-Leibler (KL) divergence:</p>
 <p><span class="math display">\[\begin{align}
 D_\mathrm{KL}(p, q)
-    &amp;= \underset{x\sim{}p}{\mathrm{E}}\left[ \log \left(\frac{p(x)}{q(x)}\right) \right] = \underset{x\sim{}p}{\mathrm{E}}\big[ \log p(x) - \log q(x) \big] \label{eq:kl_divergence} \\
+    &amp;= \underset{x\sim{}p}{\mathbb{E}}\left[ \log \left(\frac{p(x)}{q(x)}\right) \right] = \underset{x\sim{}p}{\mathbb{E}}\big[ \log p(x) - \log q(x) \big] \label{eq:kl_divergence} \\
     &amp;= - H(p) + H(p, q) \\
 \end{align}\]</span></p>
 <p>See also the section on <a href="#logistic-regression">logistic regression</a>.</p>
@@ -438,20 +438,20 @@ D_\mathrm{KL}(p, q)
 </ul>
 <h3 id="bias-and-variance">Bias and variance</h3>
 <p>The bias of an estimator, <span class="math inline">\(\hat\theta\)</span>, is defined as</p>
-<p><span class="math display">\[ \mathrm{Bias}(\hat{\theta}) \equiv \mathrm{E}(\hat{\theta} - \theta) = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} \]</span></p>
+<p><span class="math display">\[ \mathrm{Bias}(\hat{\theta}) \equiv \mathbb{E}(\hat{\theta} - \theta) = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} \]</span></p>
 <p>The mean squared error (MSE) of an estimator has a similar formula to variance (eq.&#xA0;<span class="math inline">\(\eqref{eq:variance}\)</span>) except that instead of quantifying the square of the difference of the estimator and its expected value, the MSE uses the square of the difference of the estimator and the true parameter:</p>
-<p><span class="math display">\[ \mathrm{MSE}(\hat{\theta}) \equiv \mathrm{E}((\hat{\theta} - \theta)^2) \label{eq:mse} \]</span></p>
+<p><span class="math display">\[ \mathrm{MSE}(\hat{\theta}) \equiv \mathbb{E}((\hat{\theta} - \theta)^2) \label{eq:mse} \]</span></p>
 <p>The MSE of an estimator can be related to its bias and its variance by the following proof:</p>
 <p><span class="math display">\[\begin{align}
-    \mathrm{MSE}(\hat{\theta}) &amp;= \mathrm{E}(\hat{\theta}^2 - 2 \: \hat{\theta} \: \theta + \theta^2) \nonumber \\
-    &amp;= \mathrm{E}(\hat{\theta}^2) - 2 \: \mathrm{E}(\hat{\theta}) \: \theta + \theta^2
+    \mathrm{MSE}(\hat{\theta}) &amp;= \mathbb{E}(\hat{\theta}^2 - 2 \: \hat{\theta} \: \theta + \theta^2) \nonumber \\
+    &amp;= \mathbb{E}(\hat{\theta}^2) - 2 \: \mathbb{E}(\hat{\theta}) \: \theta + \theta^2
 \end{align}\]</span></p>
 <p>noting that</p>
-<p><span class="math display">\[ \mathrm{Var}(\hat{\theta}) = \mathrm{E}(\hat{\theta}^2) - \mathrm{E}(\hat{\theta})^2 \]</span></p>
+<p><span class="math display">\[ \mathrm{Var}(\hat{\theta}) = \mathbb{E}(\hat{\theta}^2) - \mathbb{E}(\hat{\theta})^2 \]</span></p>
 <p>and</p>
 <p><span class="math display">\[\begin{align}
-    \mathrm{Bias}(\hat{\theta})^2 &amp;= \mathrm{E}(\hat{\theta} - \theta)^2 \nonumber \\
-    &amp;= \mathrm{E}(\hat{\theta})^2 - 2 \: \mathrm{E}(\hat{\theta}) \: \theta + \theta^2
+    \mathrm{Bias}(\hat{\theta})^2 &amp;= \mathbb{E}(\hat{\theta} - \theta)^2 \nonumber \\
+    &amp;= \mathbb{E}(\hat{\theta})^2 - 2 \: \mathbb{E}(\hat{\theta}) \: \theta + \theta^2
 \end{align}\]</span></p>
 <p>we see that MSE is equivalent to</p>
 <p><span class="math display">\[ \mathrm{MSE}(\hat{\theta}) = \mathrm{Var}(\hat{\theta}) + \mathrm{Bias}(\hat{\theta})^2 \label{eq:mse_variance_bias} \]</span></p>
