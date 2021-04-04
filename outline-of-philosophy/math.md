@@ -37,6 +37,8 @@ TODO
     -   YouTube 3Blue1Brown: [Group theory and why I love       
         808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000,000](https://www.youtube.com/watch?v=mH0oCDa74tE).
     -   There are 26 sporadic simple groups (27 if you count the Tits group)
+    -   [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)
+    -   [Richard Borcherds](https://en.wikipedia.org/wiki/Richard_Borcherds) (b. 1959)
 -   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
     -   [Sophus Lie (1842-1899)](https://en.wikipedia.org/wiki/Sophus_Lie)
     -   [Schwichtenberg, J. (XXXX). Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
