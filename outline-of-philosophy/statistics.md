@@ -994,7 +994,7 @@ See also:
 -   Relationship of clustering and autoencoding
     -   Batson et al. (2021). [Topological obstructions to autoencoding](https://arxiv.org/abs/2102.08380). [^Batson2021]
 -   "What are the true clusters?" [^Hennig2015]
-    -   See also: [constructive-empiricism](scientific-realism.html#constructive-empiricism)
+    -   See also: [constructive empiricism](scientific-realism.html#constructive-empiricism)
 
 [^Batson2021]: @Batson_2021_Topological_obstructions_to_autoencoding\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.

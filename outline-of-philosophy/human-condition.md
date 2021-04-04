@@ -1618,7 +1618,20 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 -   Hume: Bailey, A. & O'Brien, D. (2014). *Hume's Critique of Religion: 'Sick Men's Dreams'*. [^Bailey2014]
 -   See also: [Rejection of the supernatural](naturalism.html#rejection-of-the-supernatural)
 
+John Irving:
+
+>   I’m not religious.
+>   In writing *A Prayer for Owen Meany*, I asked myself a fairly straightforward
+>   question—namely, what would it take to make a believer out of me? The answer
+>   is that I would have to meet someone like Owen Meany. If I'd had Johnny
+>   Wheelwright's experience in that novel, I would probably be a believer too.
+>   But I haven't had that experience—I only imagined it.
+>
+>   All novels (for me) begin with a kind of, "What if" and take flight
+>   from there. [^Irving2009]
+
 [^Bailey2014]: @Bailey_2014_Humes_Critique_of_Religion_Sick_Mens_Dreams\.
+[^Irving2009]: @Moore_2009_John_Irving_on_religion_sports_and_Owen_Mean\.
 
 
 ### Epistemic humility
