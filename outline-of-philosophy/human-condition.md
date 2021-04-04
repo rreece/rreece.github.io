@@ -1631,7 +1631,7 @@ John Irving:
 >   from there. [^Irving2009]
 
 [^Bailey2014]: @Bailey_2014_Humes_Critique_of_Religion_Sick_Mens_Dreams\.
-[^Irving2009]: @Moore_2009_John_Irving_on_religion_sports_and_Owen_Mean\.
+[^Irving2009]: @Moore_2009_John_Irving_on_religion_sports_and_Owen_Meany\.
 
 
 ### Epistemic humility
