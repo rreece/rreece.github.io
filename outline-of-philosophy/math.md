@@ -27,7 +27,7 @@ TODO
 ### History
 
 -   roots from Babylonians
--   Kronecker, Leopold (1823-1891)
+-   Leopold Kronecker (1823-1891)
 -   arithmetic vs abstract algebra
 -   [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
     -   [&Eacute;variste Galois (1811-1832)](https://en.wikipedia.org/wiki/%C3%89variste_Galois)
@@ -59,14 +59,14 @@ TODO
 ### History
 
 -   Geometry and Descartes
--   Newton, Isaac (1642-1726/7)
--   Leibniz, Gottfried Wilhelm (1646-1716)
--   Euler, Leonhard (1707-1783)
--   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
--   Gauss, Carl Friedrich (1777-1855)
--   Cauchy, Augustin-Louis (1789-1857)
--   Weierstrass, Karl (1815-1897)
--   Stokes, George (1819-1903)
+-   Isaac Newton (1642-1726/7)
+-   Gottfried Wilhelm Leibniz (1646-1716)
+-   Leonhard Euler (1707-1783)
+-   [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) (1749-1827)
+-   Carl Friedrich Gauss (1777-1855)
+-   Augustin-Louis Cauchy (1789-1857)
+-   Karl Weierstrass (1815-1897)
+-   George Stokes (1819-1903)
 -   Struggles with the continuum [^Baez2016]
 -   Differential forms
 -   Geometry and the [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
@@ -606,22 +606,6 @@ My thoughts
 
 
 Annotated bibliography
---------------------------------------------------------------------------------
-
-### Carnap, R. (1950). Empiricism, Semantics, and Ontology.
-
--   @Carnap_1950_Empiricism_semantics_and_ontology
-
-#### 1. The problem of abstract entities
-
--   Empiricists tend to prefer to restrict themselves to
-    *nominalistic language* -- without containing references to abstract entities.
-
-#### My thoughts
-
--   TODO.
--   The map is not the territory (Jorge Luis Borges).
-
 --------------------------------------------------------------------------------
 
 ### Wigner, E.P. (1960). The Unreasonable Effectiveness of Mathematics in the Natural Sciences.

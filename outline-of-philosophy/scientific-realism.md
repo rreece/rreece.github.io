@@ -1382,6 +1382,7 @@ Annotated bibliography
     within the internal language,
     to do *abduction to natural kinds* in the external world.
     To deny the likely success of that abduction is to plead that there is a conspiracy.
+-   The map is not the territory (Jorge Luis Borges).
 
 
 --------------------------------------------------------------------------------
