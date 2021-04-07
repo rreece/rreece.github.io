@@ -354,6 +354,7 @@ Rationalism vs empiricism
 -   Gottfried Wilhelm Leibniz (1646-1716)
     -   *New Essays on Human Understanding* (1765)
     -   necessary truths
+-   Christian Wolff (1679-1754)
 
 ![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig:mandik-2016-11-1-eyeballs}
 
@@ -1625,6 +1626,7 @@ Click to show links
 -   [Volta, Alessandro (1745-1827)](https://en.wikipedia.org/wiki/Alessandro_Volta)
 -   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
 -   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
+-   [Wolff, Christian (1679-1754)](https://en.wikipedia.org/wiki/Christian_Wolff_(philosopher))
 -   [Xenophanes (c. 570-478 BCE)](https://en.wikipedia.org/wiki/Xenophanes)
 -   [Xenophon (c. 431-354 BCE)](https://en.wikipedia.org/wiki/Xenophon)
 
