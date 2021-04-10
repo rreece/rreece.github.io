@@ -788,7 +788,7 @@ Replication crisis
 [^Ioannidis2005]: @Ioannidis_2005_Why_most_published_research_findings_are_false\.
 
 
-### P-value controversy
+### *p*-value controversy
 
 -   ASA statement on $p$-values [^Wasserstein2016]
 -   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]
@@ -1371,7 +1371,7 @@ Theoretical machine learning
     -   Hamilton, L.D. (2014). [The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms).
 -   Gerhard Schurz
     -   See also: [Meta-induction as a solution to the problem of induction](scientific-method.html#meta-induction-as-a-solution-to-the-problem-of-induction)
--   Dan A. Roberts. (2021). [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
+-   Dan A. Roberts. (2021). [Why is AI hard and physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
     -   See also: [Unreasonable effectiveness](math.html#unreasonable-effectiveness)
 
 >   From an algorithmic complexity standpoint it is somewhat
