@@ -7,6 +7,7 @@ Barrett, J.A. & Byrne, P. (2012). *The Everett Interpretation of Quantum Mechani
 Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *European Journal for Philosophy of Science*, 1(2), 277--302.
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
 Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
+Capdevilla, R., Curtin, D., Kahn, Y., & Krnjaic, G. (2021). A no-lose theorem for discovering the new physics of $(g−2)_\mu$ at muon colliders. https://arxiv.org/abs/2101.10334
 Carroll, S.M. (2004). *Spacetime and Geometry*. Addison Wesley.
 Carroll, S.M. (2019). *Something Deeply Hidden*. Dutton.
 Carroll, S.M. & Singh, A. (2019). Mad-Dog Everettianism: Quantum mechanics at its most minimal. In *What is Fundamental?* (pp. 95--104). Springer. https://arxiv.org/abs/1801.08132

@@ -669,10 +669,14 @@ The standard model of particle physics
 Beyond the standard model
 --------------------------------------------------------------------------------
 
-### Neutrinos
+-   Beyond the standard model (BSM)
+
+
+### Neutrino masses
 
 -   Neutrino masses and mixings
--   PMNS matrix
+-   PMNS matrix and CP-violation
+-   Are neutrinos Marojana or Dirac fermions?
 
 
 ### Ad hoc structures
@@ -710,6 +714,13 @@ Beyond the standard model
 [^Martin2016p66]: @Martin_2016_A_supersymmetry_primer\, p. 66.
 [^Pati1974]: @Pati_1974_Lepton_number_as_the_fourth_color\.
 [^Slansky1981]: @Slansky_1981_Group_theory_for_unified_model_building\.
+
+### g-2
+
+-   Muon g-2
+-   A no-lose theorem for discovering the new physics of $(g−2)_\mu$ at muon colliders [^Capdevilla2021]
+
+[^Capdevilla2021]: @Capdevilla_2021_A_no_lose_theorem_for_discovering_the_new_physics\.
 
 
 ### Future colliders and criticisms
