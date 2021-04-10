@@ -16,6 +16,7 @@ Debono, I. & Smoot, G.F. (2016). General relativity and cosmology: Unsolved ques
 DeWitt, B.S. (1970). Quantum mechanics and reality. *Physics Today*, 23(9), 30--35.
 Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. In Falkenburg, B. & Morrison, M. (Eds.) *Why More is Different: Philosophical issues in condensed matter physics and complex systems* (pp. 41--54). Springer.
 Duncan, A. (2012). *Conceptual Framework of Quantum Field Theory*. Oxford University Press.
+Dutailly, J.C. (2014). Particles and Fields. https://hal.archives-ouvertes.fr/hal-00933043
 Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. *Physical Review*, 75(11), 1736.
 Earman, J., & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. *Erkenntnis*, 64(3), 305--344.
 Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? *Physical Review*, 47, 777--780.

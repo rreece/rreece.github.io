@@ -236,6 +236,12 @@ $$ \mathcal{H} = \mathcal{H}_\mathrm{S} \otimes \mathcal{H}_\mathrm{E} $$
 
 $$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi; \alpha\rangle $$
 
+See Dutailly [^Dutailly2014p11], for example, for a demonstration
+that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
+
+[^Dutailly2014p11]: @Dutailly_2014_Particles_and_Fields\, p. 11--13.
+
+
 ### Decoherence
 
 -   *Decoherence and the Appearance of a Classical World in Quantum Theory* [^Giulini1996]
@@ -252,6 +258,7 @@ Quantum field theory
 ### Fields
 
 -   Field definition
+-   Faraday intro
 -   Coleman-Mandula theorem [^Coleman1967]
 -   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification)
 -   CPT theorem
@@ -274,6 +281,24 @@ Pedagogy:
 [^Zeidler2007]: @Zeidler_2007_Quantum_Field_Theory_I_Basics_in_mathematics\.
 [^Zeidler2008]: @Zeidler_2008_Quantum_Field_Theory_II_Quantum_electrodynamics\.
 [^Zeidler2011]: @Zeidler_2011_Quantum_Field_Theory_III_Gauge_theory_Vol3\.
+
+
+### Spin
+
+-   [Spinor](https://en.wikipedia.org/wiki/Spinor)
+    -   SU(2) double covers SO(3)
+    -   [Belt trick](https://en.wikipedia.org/wiki/Plate_trick)
+    -   [Orientation entanglement](https://en.wikipedia.org/wiki/Orientation_entanglement)
+    -   Spatial vectors alone are not sufficient to describe fully the properties of rotations in space.
+
+Michael Atiyah:
+
+>   No one fully understands spinors. Their algebra is formally understood but
+>   their general significance is mysterious. In some sense they describe the
+>   "square root" of geometry and, just as understanding the square root of -1
+>   took centuries, the same might be true of spinors. [^Dutailly2014p37]
+
+[^Dutailly2014p37]: @Dutailly_2014_Particles_and_Fields\, p. 37.
 
 
 ### Spin-statistics theorem
@@ -442,6 +467,7 @@ Exotics in quantum field theory
 -   Maudlin on fiber bundles
 -   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
 -   Topological QFT (TQFT)
+    -   Simon Donaldson and Edward Witten
     -   [cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
     -   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos) - nLab
 
