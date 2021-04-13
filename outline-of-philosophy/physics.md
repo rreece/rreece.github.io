@@ -290,6 +290,7 @@ Pedagogy:
     -   [Belt trick](https://en.wikipedia.org/wiki/Plate_trick)
     -   [Orientation entanglement](https://en.wikipedia.org/wiki/Orientation_entanglement)
     -   Spatial vectors alone are not sufficient to describe fully the properties of rotations in space.
+-   Peskin [^Peskin1994]
 
 Michael Atiyah:
 
@@ -299,6 +300,7 @@ Michael Atiyah:
 >   took centuries, the same might be true of spinors. [^Dutailly2014p37]
 
 [^Dutailly2014p37]: @Dutailly_2014_Particles_and_Fields\, p. 37.
+[^Peskin1994]: @Peskin_1994_Spin_Mass_and_Symmetry\.
 
 
 ### Spin-statistics theorem

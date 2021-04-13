@@ -1454,8 +1454,9 @@ Biology
 
 -   DNA
 -   [Drew Berry: Animations of unseeable biology](https://www.youtube.com/watch?v=WFCvkkDSfIU)
+-   Epigenetics
 
-![TODO: caption, from Drew Berry.](img/drew-berry-dna-animation.gif){#fig:drew-berry-dna-animation}
+![Animation by Drew Berry of DNA replication, where a helicase enzyme unzips DNA, and DNA polymerase synthesizes new strands by complimentary nucleotides.](img/drew-berry-dna-animation.gif){#fig:drew-berry-dna-animation}
 
 
 ### Biochemistry

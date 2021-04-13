@@ -61,7 +61,7 @@ Fr\'{e}chet, M. (1943).  Sur l'extension de certaines \'{e}valuations statistiqu
 Fuchs, F.B., Worrall, D.E., Fischer, V., & Welling, M. (2020). SE(3)-Transformers: 3D roto-translation equivariant attention networks. https://arxiv.org/abs/2006.10503
 Fukushima, K. & Miyake, S. (1982). Neocognitron: A new algorithm for pattern recognition tolerant of deformations and shifts in position. *Pattern Recognition*, 15, 455--469.
 Gandenberger, G. (2015). A new proof of the likelihood principle, *British Journal for the Philosophy of Science*, 66, 475--503.
-Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 16(7), 1--22.
+Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 16(7), 1--22. https://quod.lib.umich.edu/p/phimp/3521354.0016.007/--why-i-am-not-a-likelihoodist
 Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. http://www.deeplearningbook.org
@@ -104,7 +104,7 @@ Mayo, D.G. & Spanos, A. (2011). Error statistics. In *Philosophy of Statistics* 
 Mayo, D.G. (2014). On the Birnbaum Argument for the Strong Likelihood Principle, *Statistical Science*, 29, 227--266.
 Mayo, D.G. (2018). *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*. Cambridge University Press.
 Mayo, D.G. (2019). The law of likelihood and error statistics. https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/
-Mayo, D.G. (2020). Significance tests: Vitiated or vindicated by the replication crisis in psychology? *Review of Philosophy and Psychology*, 99, 1-20. [(forthcoming)]
+Mayo, D.G. (2021). Significance tests: Vitiated or vindicated by the replication crisis in psychology? *Review of Philosophy and Psychology*, 12, 101--121. https://link.springer.com/article/10.1007/s13164-020-00501-w
 McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). Academic Press: New York.
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
@@ -129,6 +129,7 @@ Reichenbach, H. (1940). On the justification of induction. *The Journal of Philo
 Reid, C. (1998). *Neyman*. Springer-Verlag.
 Rice, J.A. (2007). *Mathematical Statistics and Data Analysis* (3rd ed.). Thomson.
 Roberts, D.A. (2021). Why is AI hard and physics simple? https://arxiv.org/abs/2104.00008
+Roberts, D.A., Yaida, S., & Hanin, B. (2021). *The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*. Cambridge University Press. [(Forthcoming)]
 Royall, R. (1997). *Statistical Evidence: A likelihood paradigm*. CRC Press.
 Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533--536.
 Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.

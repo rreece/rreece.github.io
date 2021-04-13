@@ -680,15 +680,16 @@ O'Hagan:
 >   or one or more of the other axioms of good inference.
 >   There are no such arguments in favour of classical inference. [^OHagan2010]
 
--   Criticisms:
-    -   Evans [^Evans2013]
-    -   Mayo [^Mayo2014]
-    -   Mayo: [The law of likelihood and error statistics](https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/) [^Mayo2019]
 -   Gandenberger
     -   "A new proof of the likelihood principle" [^Gandenberger2015]
     -   Thesis: [*Two Principles of Evidence and Their Implications for the Philosophy of Scientific Method*](http://d-scholarship.pitt.edu/24634/) (2015)
     -   [gandenberger.org/research](http://gandenberger.org/research/)
     -   [Do frequentist methods violate the likelihood principle?](http://gandenberger.org/2014/04/28/do-frequentist-methods-violate-lp/)
+-   Criticisms:
+    -   Evans [^Evans2013]
+    -   Mayo [^Mayo2014]
+    -   Mayo: [The law of likelihood and error statistics](https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/) [^Mayo2019]
+    -   [Mayo’s response to Hennig and Gandenberger](https://errorstatistics.com/2013/02/11/u-phil-mayos-response-to-hennig-and-gandenberger/)
 -   [Likelihoodist statistics](https://en.wikipedia.org/wiki/Likelihoodist_statistics)
 
 Mayo:
@@ -812,13 +813,13 @@ Replication crisis
     -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   Mayo
     -   ["Les stats, c'est moi: We take that step here!"](https://errorstatistics.com/2019/12/13/les-stats-cest-moi-we-take-that-step-here-adopt-our-fav-word-or-phil-stat/)
-    -   "Significance tests: Vitiated or vindicated by the replication crisis in psychology?" [^Mayo2020]
+    -   "Significance tests: Vitiated or vindicated by the replication crisis in psychology?" [^Mayo2021]
 -   Vox: [What a nerdy debate about p-values shows about science--and how to fix it](https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005)
 -   Karen Kafadar: [The Year in Review ... And More to Come](https://magazine.amstat.org/blog/2019/12/01/kk_dec2019/)
 
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
-[^Mayo2020]: @Mayo_2020_Significance_tests_Vitiated_or_vindicated_by\.
+[^Mayo2021]: @Mayo_2021_Significance_tests_Vitiated_or_vindicated_by\.
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
 
 
@@ -1009,6 +1010,7 @@ Deep learning
     -   Lower to higher level representations [^Bengio2009]
     -   "Review: Deep learning" [^LeCun2015]
     -   *Deep Learning* [^Goodfellow2016]
+    -   Sutton, R. (2019). [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 -   Backpropagation
     -   Rumelhart [^Rumelhart1986]
     -   See Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html)
@@ -1399,9 +1401,11 @@ Theoretical machine learning
 -   Bahri [^Bahri2020]
 -   Halverson [^Halverson2020]
 -   Canatar, A., Bordelon, B., & Pehlevan, C. (2020). [Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks](https://arxiv.org/abs/2006.13198).
+-   Roberts, Yaida, & Hanin, *The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*. Forthcoming from Cambridge University Press. [^Roberts2021PDLT]
 
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
 [^Halverson2020]: @Halverson_2020_Neural_networks_and_quantum_field_theory\.
+[^Roberts2021PDLT]: @Roberts_2021_The_Principles_of_Deep_Learning_Theory\.
 
 
 ### Relationship to gauge theory
