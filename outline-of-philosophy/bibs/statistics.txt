@@ -54,8 +54,9 @@ Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Re
 Evans, M. (2013). What does the proof of Birnbaum's theorem prove? https://arxiv.org/abs/1302.5468
 Fisher, R.A. (1912). On an absolute criterion for fitting frequency curves. *Statistical Science*, 12(1), 39--41.
 Fisher, R.A. (1915). Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. *Biometrika*, 10(4), 507--521.
-Fisher, R. A. (1921). On the "probable error" of a coefficient of correlation deduced from a small sample. *Metron*, 1, 1--32.
+Fisher, R.A. (1921). On the "probable error" of a coefficient of correlation deduced from a small sample. *Metron*, 1, 1--32.
 Fisher, R.A. (1935). *The Design of Experiments*. Hafner.
+Fisher, R.A. (1955). Statistical methods and scientific induction. *Journal of the Royal Statistical Society, Series B*, 17, 69--78.
 Feldman, G.J., & Cousins, R.D. (1998). A unified approach to the classical statistical analysis of small signals. *Physical Review D*, 57, 3873. https://arxiv.org/abs/physics/9711021
 Fr\'{e}chet, M. (1943).  Sur l'extension de certaines \'{e}valuations statistiques au cas de petits \'{e}chantillons. *Revue de l'Institut International de Statistique*, 11, 182--205.
 Fuchs, F.B., Worrall, D.E., Fischer, V., & Welling, M. (2020). SE(3)-Transformers: 3D roto-translation equivariant attention networks. https://arxiv.org/abs/2006.10503
