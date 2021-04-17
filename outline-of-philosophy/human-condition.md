@@ -1016,7 +1016,7 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   [Meiji era](https://en.wikipedia.org/wiki/Meiji_(era))
 -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
 
-![Statues of kitsune (foxes) at Fushimi Inari-taisha (photo: Ryan Reece, 2018).](img/kitsune-fushimi-inari.png){#fig:kitsune-fushimi-inari}
+![Statues of kitsune (foxes) at Fushimi Inari-taisha (photo by Ryan Reece, 2018).](img/kitsune-fushimi-inari.png){#fig:kitsune-fushimi-inari}
 
 
 ### American
