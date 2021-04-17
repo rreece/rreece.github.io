@@ -332,7 +332,7 @@ Hinduism
 -   [&Amacr;tman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) - self/soul
 -   [Pramana](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
 -   [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) - "not duality"
--   [Hindu atheism](https://en.wikipedia.org/wiki/Hindu_atheism)
+-   [Hindu atheism](https://en.wikipedia.org/wiki/Hindu_atheism) - [Ch&amacr;rv&amacr;ka/Lokayata](https://en.wikipedia.org/wiki/Charvaka)
 -   [Kalpa](https://en.wikipedia.org/wiki/Kalpa_(aeon)) - aeon
 -   [Namaste](https://en.wikipedia.org/wiki/Namaste) - Hindu greeting, literally "not I"
 -   [Carnatic music](https://en.wikipedia.org/wiki/Carnatic_music)

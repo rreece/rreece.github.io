@@ -29,7 +29,15 @@ Deontological ethics
 -   Kant
 -   Rawls
     -   *A Theory of Justice* [^Rawls1999]
+    -   Reflective equilibrium
 
+Kant:
+
+>   Nothing in the world---indeed nothing even beyond the world---can possibly
+>   be conceived which could be called good without qualification except a
+>   *good will*. [^Kant1785s1]
+
+[^Kant1785s1]: Kant, I. (1785). *Groundwork of the Metaphysic of Morals*, &sect; 1.
 [^Rawls1999]: @Rawls_1999_A_Theory_of_Justice\.
 
 
@@ -108,7 +116,8 @@ Moral realism
 -   Game/decision theory, again
     -   Binmore
     -   "The problem of what to do next" - David Deutsch ([yt](https://www.youtube.com/watch?v=J21QuHrIqXg), [txt](http://www.bretthall.org/david-deutsch--sam-harris.html))
--   Ethical naturalism
+-   Ethical/moral naturalism
+    -   See below: [Moral naturalism](#moral-naturalism)
     -   See the outline on [Naturalism](naturalism.html#ethical-naturalism).
 -   Murdoch, Iris. (1999). *The Sovereignty of Good*.
 -   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
@@ -197,6 +206,7 @@ Churchland:
 -   Putnam
     -   *The Collapse of the Fact-value Dichotomy and Other Essays* [^Putnam2004]
 -   economics
+    -   Amartya Sen?
     -   Don Ross?
 -   See also the [Outline on naturalism](naturalism.html#moral-naturalism).
 
