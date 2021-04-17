@@ -759,7 +759,7 @@ Online Suttas:
 -   Mah&amacr;y&amacr;na, in a somewhat pejorative way, sometimes refer to Therav&amacr;da
     as [Hinay&amacr;na](https://en.wikipedia.org/wiki/Hinayana), "small/deficient vehicle".
 
-![N&amacr;g&amacr;rjuna (source: [www.tsemrinpoche.com](https://www.tsemrinpoche.com/tsem-tulku-rinpoche/downloads/buddha-images.html?keyfilter=nagarjuna&submit=Filter)).](img/nagarjuna-detail.jpg)
+![N&amacr;g&amacr;rjuna (source: [www.tsemrinpoche.com](https://www.tsemrinpoche.com/tsem-tulku-rinpoche/downloads/buddha-images.html?keyfilter=nagarjuna&submit=Filter)).](img/nagarjuna-detail.jpg){#fig:nagarjuna-detail.jpg}
 
 #### History
 
@@ -1016,7 +1016,7 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   [Meiji era](https://en.wikipedia.org/wiki/Meiji_(era))
 -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
 
-![Statues of kitsune (foxes) at Fushimi Inari-taisha (photo: Ryan Reece, 2018).](img/kitsune-fushimi-inari.png)
+![Statues of kitsune (foxes) at Fushimi Inari-taisha (photo: Ryan Reece, 2018).](img/kitsune-fushimi-inari.png){#fig:kitsune-fushimi-inari}
 
 
 ### American

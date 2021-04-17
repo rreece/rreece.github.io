@@ -331,6 +331,8 @@ Rationalism vs empiricism
         -   *Sapere aude* ("Dare to be wise")
 -   [Development of calculus](math.html#development-of-calculus)
 -   TODO: rationalism and empiricism in Asia.
+    -   See also: [Indian empiricism](human-condition.html#indian-empiricism)
+        and [Pramana](human-condition.html#pramana).
 
 
 ### Early empiricists
