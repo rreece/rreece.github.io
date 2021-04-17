@@ -21,6 +21,7 @@ Risk
 -   [*The Limits to Growth* (1972)](https://en.wikipedia.org/wiki/The_Limits_to_Growth)
 -   Anthropic bias [^Bostrom2002]
 -   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
+-   Existential threats
 
 [^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
 
@@ -57,9 +58,17 @@ Artificial intelligence
 -   See also: [Machine learning](http://rreece.github.io/outline-of-philosophy/statistics.html#machine-learning)
     in the [Outline on the philosophy of statistics](http://rreece.github.io/outline-of-philosophy/statistics.html).
 
-[^Vincent2019]: Vincent, J. (2019). [OpenAI's new multitalented AI writes, translates, and slanders: A step forward in AI text-generation that also spells trouble](https://www.theverge.com/2019/2/14/18224704/ai-machine-learning-language-models-read-write-openai-gpt2).
+[^Vincent2019]: @Vincent_2019_OpenAIs_new_multitalented_AI_writes_translates\.
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 [^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.
+
+
+Transhumanism
+--------------------------------------------------------------------------------
+
+-   The fable of the dragon-tyrant [^Bostrom2005]
+
+[^Bostrom2005]: @Bostrom_2005_The_fable_of_the_dragon_tyrant\.
 
 
 My thoughts

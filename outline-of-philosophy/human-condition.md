@@ -275,10 +275,10 @@ Hinduism
         -   forms the theoretical foundation that influenced Yoga
     2.  [Yoga](https://en.wikipedia.org/wiki/Yoga)
         -   emphasizes a personal god ([Ishvara](https://en.wikipedia.org/wiki/Ishvara))
-    3.  [Vaisheshika](https://en.wikipedia.org/wiki/Vaisheshika)
-        -   naturalist school
-    4.  [Ny&amacr;ya](https://en.wikipedia.org/wiki/Nyaya)
+    3.  [Ny&amacr;ya](https://en.wikipedia.org/wiki/Nyaya)
         -   direct realism and logic
+    4.  [Vaisheshika](https://en.wikipedia.org/wiki/Vaisheshika)
+        -   naturalist school
     5.  [M&imacr;m&amacr;ms&amacr;](https://en.wikipedia.org/wiki/M%C4%ABm%C4%81%E1%B9%83s%C4%81)
         -   emphasized hermeneutics and exegesis
         -   started philology
@@ -286,11 +286,17 @@ Hinduism
         -   studies the Upanishads, the most recent parts of the Vedas
         -   most developed and best-known of the Hindu schools
 -   Four n&amacr;stika (heterodox) schools
-    1.  [Buddhism](https://en.wikipedia.org/wiki/Buddhism)
+    1.  [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka) (now declined)
     2.  [Jainism](https://en.wikipedia.org/wiki/Jainism)
-    3.  [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka) (now declined)
-    4.  [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika) (now declined)
+    3.  [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika) (now declined)
+    4.  [Buddhism](https://en.wikipedia.org/wiki/Buddhism)
 -   "Hindu synthesis" started to develop between 500 BCE and 300 CE
+-   Today, Ved&amacr;nta and Yoga schools are most influentail in Hunduism,
+    which has divided into four major [denominations](https://en.wikipedia.org/wiki/Hindu_denominations):
+    1.  [Vaishnavism](https://en.wikipedia.org/wiki/Vaishnavism)
+    2.  [Shaivism](https://en.wikipedia.org/wiki/Shaivism)
+    3.  [Shaktism](https://en.wikipedia.org/wiki/Shaktism)
+    4.  [Smartism](https://en.wikipedia.org/wiki/Smarta_tradition)
 
 
 #### Primary texts
@@ -311,6 +317,7 @@ Hinduism
     -   [Bhagavad Gita](https://en.wikipedia.org/wiki/Bhagavad_Gita) (c. 200-100 BCE)
 -   [Ramayana](https://en.wikipedia.org/wiki/Ramayana) (c. 700-400 BCE)
 -   [Vaisesika Sutra](https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika_S%C5%ABtra) AKA Kanada Sutra (c. 600-100 BCE)
+    -   authored by [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
     -   particularity vs universality
     -   atomism
 -   [Ny&amacr;ya S&umacr;tras](https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras) (c. 600-100 BCE)
@@ -373,18 +380,19 @@ Others:
 
 #### Indian empiricism
 
--   [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
-    -   first Hindu atomists
--   [Vaisheshika](https://en.wikipedia.org/wiki/Vaisheshika)
-    -   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
-    -   adopted the atomism of &Amacr;j&imacr;vika
 -   [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka)
     -   materialist, aethist, skeptic
     -   like Hume, points out that induction is falible
     -   similar to Epicureanism in hedonic ethics
     -   worldhistory.org: [Charvaka](https://www.worldhistory.org/Charvaka/)
+-   [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
+    -   first Hindu atomists
+    -   *niyati* (fate) - doctrine of absolute determinism; no free will
 -   [Ny&amacr;ya](https://en.wikipedia.org/wiki/Nyaya)
     -   formalizes logic of inference
+-   [Vaisheshika](https://en.wikipedia.org/wiki/Vaisheshika)
+    -   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
+    -   adopted the atomism of &Amacr;j&imacr;vika
 
 
 #### Others
