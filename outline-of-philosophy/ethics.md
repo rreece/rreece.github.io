@@ -98,18 +98,19 @@ Hume:
 Moral realism
 --------------------------------------------------------------------------------
 
--   Objectivism
--   Contectualism
-    -   Bj&ouml;rnsson & Finlay (2010) [^Bjornsson2010]
--   Structuralism
--   Game/decision theory, again
--   "The problem of what to do next" - David Deutsch ([yt](https://www.youtube.com/watch?v=J21QuHrIqXg), [txt](http://www.bretthall.org/david-deutsch--sam-harris.html))
+-   Plato: [*Minos*](https://en.wikipedia.org/wiki/Minos_(dialogue))
 -   Victor Kraft (1880-1975)
     -   The positivist with ethics!
+-   Rand's Objectivism
+-   Structuralism
+-   Contectualism
+    -   Bj&ouml;rnsson & Finlay (2010) [^Bjornsson2010]
+-   Game/decision theory, again
+    -   Binmore
+    -   "The problem of what to do next" - David Deutsch ([yt](https://www.youtube.com/watch?v=J21QuHrIqXg), [txt](http://www.bretthall.org/david-deutsch--sam-harris.html))
 -   Ethical naturalism
     -   See the outline on [Naturalism](naturalism.html#ethical-naturalism).
 -   Murdoch, Iris. (1999). *The Sovereignty of Good*.
--   Plato: [*Minos*](https://en.wikipedia.org/wiki/Minos_(dialogue))
 -   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
 
 Plato:
