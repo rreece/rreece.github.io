@@ -269,10 +269,29 @@ Hinduism
 -   [Vyasa](https://en.wikipedia.org/wiki/Vyasa) - "Compiler" of the Vedas
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
     -   See McEvilley [^McEvilley2002p327]
--   Six &amacr;stika (orthodox) schools: Ny&amacr;y&aacute;, Vai&sacute;esika, S&amacr;mkhya, [Yoga](https://en.wikipedia.org/wiki/Yoga), M&imacr;m&amacr;ms&amacr;, and Ved&amacr;nta
--   Four n&amacr;stika (heterodox) schools: [Buddhism](https://en.wikipedia.org/wiki/Buddhism), [Jainism](https://en.wikipedia.org/wiki/Jainism), [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka), [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
--   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
+-   Six &amacr;stika (orthodox) schools or [darsanas](https://en.wikipedia.org/wiki/Hindu_philosophy) (philosophies):
+    1.  [S&amacr;mkhya](https://en.wikipedia.org/wiki/Samkhya)
+        -   oldest school, starting in 1st millennium BCE
+        -   forms the theoretical foundation that influenced Yoga
+    2.  [Yoga](https://en.wikipedia.org/wiki/Yoga)
+        -   emphasizes a personal god ([Ishvara](https://en.wikipedia.org/wiki/Ishvara))
+    3.  [Vaisheshika](https://en.wikipedia.org/wiki/Vaisheshika)
+        -   naturalist school
+    4.  [Ny&amacr;ya](https://en.wikipedia.org/wiki/Nyaya)
+        -   direct realism and logic
+    5.  [M&imacr;m&amacr;ms&amacr;](https://en.wikipedia.org/wiki/M%C4%ABm%C4%81%E1%B9%83s%C4%81)
+        -   emphasized hermeneutics and exegesis
+        -   started philology
+    6.  [Ved&amacr;nta](https://en.wikipedia.org/wiki/Vedanta)
+        -   studies the Upanishads, the most recent parts of the Vedas
+        -   most developed and best-known of the Hindu schools
+-   Four n&amacr;stika (heterodox) schools
+    1.  [Buddhism](https://en.wikipedia.org/wiki/Buddhism)
+    2.  [Jainism](https://en.wikipedia.org/wiki/Jainism)
+    3.  [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka) (now declined)
+    4.  [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika) (now declined)
 -   "Hindu synthesis" started to develop between 500 BCE and 300 CE
+
 
 #### Primary texts
 
@@ -292,9 +311,13 @@ Hinduism
     -   [Bhagavad Gita](https://en.wikipedia.org/wiki/Bhagavad_Gita) (c. 200-100 BCE)
 -   [Ramayana](https://en.wikipedia.org/wiki/Ramayana) (c. 700-400 BCE)
 -   [Vaisesika Sutra](https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika_S%C5%ABtra) AKA Kanada Sutra (c. 600-100 BCE)
-    -   Atomism
-    -   Discusses epistemology (pramana) involving perception, inference, and knowledge.
+    -   particularity vs universality
+    -   atomism
+-   [Ny&amacr;ya S&umacr;tras](https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras) (c. 600-100 BCE)
+    -   discusses epistemology (pramana) that is empiricist, involving perception, inference, and knowledge
+    -   names fives steps in logical inference
 -   [Brahma Sutras](https://en.wikipedia.org/wiki/Brahma_Sutras) AKA Vedanta Sutra (c. 400-450 CE)
+
 
 #### Secondary texts
 
@@ -303,6 +326,7 @@ Hinduism
 
 #### Some people
 
+-   [Swami Vivekananda](https://en.wikipedia.org/wiki/Swami_Vivekananda) (1863-1902)
 -   [Paramahansa Yogananda](https://en.wikipedia.org/wiki/Paramahansa_Yogananda) (1893-1952)
 -   [Maharishi Mahesh Yogi](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi) (1918-2008)
 -   [Huston Smith](https://en.wikipedia.org/wiki/Huston_Smith) (1919-2016)
@@ -324,31 +348,58 @@ Hinduism
 -   [Kama](https://en.wikipedia.org/wiki/Kama) -  desires/passions 
 -   [Moksha](https://en.wikipedia.org/wiki/Moksha) - liberation/salvation
 
-#### Others
-
--   [Dhyana in Hinduism](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism) - meditation
--   [Karma in Hinduism](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
--   Karma as a solution to the [problem of evil in Hinduism](https://en.wikipedia.org/wiki/Problem_of_evil_in_Hinduism)
--   [&Amacr;tman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) - self/soul
--   [Pramana](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
--   [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) - "not duality"
--   [Hindu atheism](https://en.wikipedia.org/wiki/Hindu_atheism) - [Ch&amacr;rv&amacr;ka/Lokayata](https://en.wikipedia.org/wiki/Charvaka)
--   [Kalpa](https://en.wikipedia.org/wiki/Kalpa_(aeon)) - aeon
--   [Namaste](https://en.wikipedia.org/wiki/Namaste) - Hindu greeting, literally "not I"
--   [Carnatic music](https://en.wikipedia.org/wiki/Carnatic_music)
 
 #### Gods
 
--   The Trimurti:
-    -   Brahma
-    -   [Vishnu](https://en.wikipedia.org/wiki/Vishnu)
-    -   Shiva
+The Trimurti:
+
+-   Brahma
+-   [Vishnu](https://en.wikipedia.org/wiki/Vishnu)
+-   Shiva
 
 ![Shiva statue at CERN, near Building 40, [a gift from India](https://www.sanskritimagazine.com/vedic_science/shivas-cosmic-dance-nataraj-at-cern/).](img/cern-shiva.jpg){#fig:cern-shiva}
 
--   Others:
-    -   [Ganesha](https://en.wikipedia.org/wiki/Ganesha)
-    -   [Indra](https://en.wikipedia.org/wiki/Indra)
+Others:
+
+-   [Ganesha](https://en.wikipedia.org/wiki/Ganesha)
+-   [Indra](https://en.wikipedia.org/wiki/Indra)
+
+
+#### Pramana
+
+-   [Pramana](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
+-   Indian empistemology
+
+
+#### Indian empiricism
+
+-   [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
+    -   first Hindu atomists
+-   [Vaisheshika](https://en.wikipedia.org/wiki/Vaisheshika)
+    -   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
+    -   adopted the atomism of &Amacr;j&imacr;vika
+-   [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka)
+    -   materialist, aethist, skeptic
+    -   like Hume, points out that induction is falible
+    -   similar to Epicureanism in hedonic ethics
+    -   worldhistory.org: [Charvaka](https://www.worldhistory.org/Charvaka/)
+-   [Ny&amacr;ya](https://en.wikipedia.org/wiki/Nyaya)
+    -   formalizes logic of inference
+
+
+#### Others
+
+-   [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) - "not duality"
+-   [Asana](https://en.wikipedia.org/wiki/Asana) - a body posture in Yoga
+-   [&Amacr;tman](https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)) - self/soul
+-   [Atheism in Hinduism](https://en.wikipedia.org/wiki/Hindu_atheism) - [Ch&amacr;rv&amacr;ka/Lokayata](https://en.wikipedia.org/wiki/Charvaka)
+-   [Carnatic music](https://en.wikipedia.org/wiki/Carnatic_music)
+-   [Dhyana](https://en.wikipedia.org/wiki/Dhyana_in_Hinduism) - meditation
+-   [Hatha yoga](https://en.wikipedia.org/wiki/Hatha_yoga)
+-   [Kalpa](https://en.wikipedia.org/wiki/Kalpa_(aeon)) - aeon
+-   [Karma](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
+    -   Karma as a solution to the [problem of evil in Hinduism](https://en.wikipedia.org/wiki/Problem_of_evil_in_Hinduism)
+-   [Namaste](https://en.wikipedia.org/wiki/Namaste) - Hindu greeting, literally "not I"
 
 ![The Wheel of Dharma ([Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra))
     is an imporant symbol in many dharmic religions,

@@ -556,6 +556,7 @@ Hume:
 
 --  David Hume, in A Treatise of Human Nature, Book I, part 3, Section 12.
 
+-   [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka) - ancient Indian philosophy
 -   Hume and the problem of induction [^Hume2007pXX]
     -   Uniformity of nature
     -   Humeanism

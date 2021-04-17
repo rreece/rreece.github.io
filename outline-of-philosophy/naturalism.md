@@ -185,6 +185,8 @@ Riepe on the characteristics of naturalism in Indian thought:
 >       What is proper to man is discovered in a naturalistic context by the
 >       moral philosopher. [^Riepe1961pX]
 
+-   See also: [Indian empiricism](human-condition.html#indian-empiricism)
+
 [^McEvilley2002p325]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 325--333.
 [^Riepe1961pX]: @Riepe_1961_The_Naturalistic_Traddition_in_Indian_Thought\, p. TODO.
 
