@@ -256,12 +256,12 @@ Foundations of statistics
 
 -   Kendall [^Stuart2010]
 -   James [^James2006]
--   Cousins [^Cousins2018]
 -   Cowan [^Cowan1998]
--   Lista [^Lista2016]
 -   Cranmer [^Cranmer2015]
--   Cranmer, K. (2020). [*Statistics and Data Science*](https://cranmer.github.io/stats-ds-book/intro.html).
+-   Lista [^Lista2016]
+-   Cousins [^Cousins2018]
 -   Weisberg [^Weisberg2019]
+-   Cranmer, K. (2020). [*Statistics and Data Science*](https://cranmer.github.io/stats-ds-book/intro.html).
 -   Cosma Shalizi's notes on
     -   [probability theory](http://bactra.org/notebooks/probability.html)
     -   [statistics](http://bactra.org/notebooks/statistics.html)
