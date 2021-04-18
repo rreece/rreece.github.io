@@ -646,6 +646,9 @@ TODO
 The standard model of particle physics
 --------------------------------------------------------------------------------
 
+### A model of leptons
+
+-   A model of leptons (1967)
 -   SU(3) $\times$ SU(2) $\times$ U(1)
 -   Higgs mechanism
 -   Three generations of fermions

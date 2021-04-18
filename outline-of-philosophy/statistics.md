@@ -1012,10 +1012,10 @@ Deep learning
     -   Lower to higher level representations [^Bengio2009]
     -   "Review: Deep learning" [^LeCun2015]
     -   *Deep Learning* [^Goodfellow2016]
-    -   Sutton, R. (2019). [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+    -   Sutton, R. (2019). [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
 -   Backpropagation
     -   Rumelhart [^Rumelhart1986]
-    -   See Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html)
+    -   Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html)
     -   Schmidhuber: [Who Invented Backpropagation?](http://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 -   Pratical guides
     -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
