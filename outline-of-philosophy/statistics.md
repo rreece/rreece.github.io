@@ -1235,7 +1235,7 @@ Computer Vision (CV)
         [AlphaFold2](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).
         Slides from the CASP14 conference are publicly available [here](https://predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf).
 
-![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block}
+![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
 [^Bahdanau2015]: @Bahdanau_2015_Neural_machine_translation_by_jointly_learning\.
 [^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
@@ -1481,6 +1481,8 @@ Automation
 
 -   Neural Architecture Search (NAS)
 -   AutoML frameworks
+-   RL-driven NAS
+-   learned sparsity
 
 
 ### Surrogate models
