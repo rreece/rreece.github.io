@@ -646,16 +646,28 @@ TODO
 The standard model of particle physics
 --------------------------------------------------------------------------------
 
+### Mixing
+
+-   Cabibbo angle (1963)
+-   CP violation
+-   CKM matrix
+
+
+### Higgs mechanism
+
+-   Higgs mechanism (1964)
+
+
 ### A model of leptons
 
 -   A model of leptons (1967)
-    -   Weinberg - Model physicst [^Chalmers2017]
+-   Weinberg - Model physicst [^Chalmers2017]
+
+
+### More
+
 -   SU(3) $\times$ SU(2) $\times$ U(1)
--   Higgs mechanism
 -   Three generations of fermions
--   Cabibbo angle
--   CP violation
--   CKM matrix
 
 ![The total action of the physics of the standard model 
     together with general relativity as presented by [Sean Carroll on his blog](http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/).
