@@ -649,6 +649,7 @@ The standard model of particle physics
 ### A model of leptons
 
 -   A model of leptons (1967)
+    -   Weinberg - Model physicst [^Chalmers2017]
 -   SU(3) $\times$ SU(2) $\times$ U(1)
 -   Higgs mechanism
 -   Three generations of fermions
@@ -669,6 +670,8 @@ The standard model of particle physics
 -   On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214) and [CMS](https://arxiv.org/abs/1207.7235)
     experiments both [announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
     a key to explaining electroweak symmetry breaking in the Standard Model of particle physics.
+
+[^Chalmers2017]: @Chalmers_2017_Model_physicist\.
 
 
 Beyond the standard model
