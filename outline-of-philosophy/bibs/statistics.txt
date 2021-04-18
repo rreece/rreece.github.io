@@ -79,6 +79,7 @@ He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image r
 Heinrich, J. & Silver, D. (2016). Deep reinforcement learning from self-play in imperfect-information games. https://arxiv.org/abs/1603.01121
 Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation*, 9(8), 1735--1780.
 Howard, A.G. et al. (2017). MobileNets: Efficient convolutional neural networks for mobile vision applications. https://arxiv.org/abs/1704.04861
+Howard, J.N., Mandt, S., Whiteson, D., & Yang, Y. (2021). Foundations of a fast, data-driven, machine-learned simulator. https://arxiv.org/abs/2101.08944
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
 Ioannidis, J.P. (2005). Why most published research findings are false. *PLOS Medicine*, 2(8), 696--701.
 James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
@@ -124,6 +125,8 @@ Peirce, C.S. (1883). *Studies in Logic*. Boston: Little, Brown, and Co.
 Perone, C.S. (2018). NLP word representations and the Wittgenstein philosophy of language. http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/
 Rao, C.R. (1945). Information and the accuracy attainable in the estimation of statistical parameters. *Bulletin of the Calcutta Mathematical Society*, 37, 81--91.
 Rao, C.R. (1947). Minimum variance and the estimation of several parameters. In *Mathematical Proceedings of the Cambridge Philosophical Society*, 43, 280--283. Cambridge University Press.
+Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part I): Data-driven solutions of nonlinear partial differential equations. https://arxiv.org/abs/1711.10561
+Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part II): Data-driven discovery of nonlinear partial differential equations. https://arxiv.org/abs/1711.10566
 Read, A.L. (2002). Presentation of search results: the CLs technique. *Journal of Physics G: Nuclear and Particle Physics*, 28(10), 2693. https://indico.cern.ch/event/398949/attachments/799330/1095613/The_CLs_Technique.pdf
 Reichenbach, H. (1938). *Experience and Prediction*. University of Chicago Press.
 Reichenbach, H. (1940). On the justification of induction. *The Journal of Philosophy*, 37, 97--103.

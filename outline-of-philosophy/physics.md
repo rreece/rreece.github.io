@@ -656,18 +656,31 @@ The standard model of particle physics
 ### Higgs mechanism
 
 -   Higgs mechanism (1964)
+-   On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214) and [CMS](https://arxiv.org/abs/1207.7235)
+    experiments both [announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
+    a key to explaining electroweak symmetry breaking in the Standard Model of particle physics.
 
 
 ### A model of leptons
 
 -   A model of leptons (1967)
+-   GWS electroweak theory: SU(2) $\times$ U(1)
 -   Weinberg - Model physicst [^Chalmers2017]
 
 
-### More
+### Quantum chromodynamics
 
+-   QCD: SU(3)
 -   SU(3) $\times$ SU(2) $\times$ U(1)
--   Three generations of fermions
+-   asymptotic freedom
+
+
+### Three generations of fermions
+
+-   discovery of charm: "November revolution"
+-   discovery of bottom
+-   discovery of tau
+-   discovery of top
 
 ![The total action of the physics of the standard model 
     together with general relativity as presented by [Sean Carroll on his blog](http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/).
@@ -675,13 +688,10 @@ The standard model of particle physics
     bosons are the quanta of the $g$, $A$, and $\Phi$ fields.
     ](img/carroll-standard-model-action.jpg){#fig:carroll-standard-model-action}
 
--   GWS electroweak theory: SU(2) $\times$ U(1)
--   QCD: SU(3)
+More:
+
 -   Nima Arkani-Hamed doing particle physics *a priori*: ["Why is there a Macroscopic Universe?"](https://www.youtube.com/watch?v=F2Fxt_yCrcc)
 -   Nima Arkani-Hamed on [Collider Physics from the Bottom Up](https://www.youtube.com/watch?v=uG8VJb3jRzU)
--   On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214) and [CMS](https://arxiv.org/abs/1207.7235)
-    experiments both [announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
-    a key to explaining electroweak symmetry breaking in the Standard Model of particle physics.
 
 [^Chalmers2017]: @Chalmers_2017_Model_physicist\.
 

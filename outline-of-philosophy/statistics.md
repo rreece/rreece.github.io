@@ -771,7 +771,7 @@ Mayo:
 [^Kruschke2018]: @Kruschke_2018_The_Bayesian_New_Statistics_Hypothesis_testing\.
 [^Mayo1981]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
-[^Mayo2006]: @Mayo_2006_Severe_testing_as_a_basic_concept_in_a_Neyman_\.
+[^Mayo2006]: @Mayo_2006_Severe_testing_as_a_basic_concept_in_a_Neyman\.
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
 [^Murphy2012ch6]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, ch. 6.6.
@@ -1378,11 +1378,23 @@ Theoretical machine learning
 -   Dan A. Roberts. (2021). [Why is AI hard and physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
     -   See also: [Unreasonable effectiveness](math.html#unreasonable-effectiveness)
 
->   From an algorithmic complexity standpoint it is somewhat
->   miraculous that we can compress our huge look-up table of experiment/outcome into such
->   an efficient description. In many senses, this type of compression is precisely what we
->   mean when we say that physics enables us to understand a given phenomenon. [^Roberts2021p7]
+Raissi et al.:
 
+>   encoding such structured information into a learning
+>   algorithm results in amplifying the information content of the data
+>   that the algorithm sees, enabling it to quickly steer itself towards
+>   the right solution and generalize well even when only a few training
+>   examples are available. [^Raissi2017Ip2]
+
+Roberts:
+
+>   From an algorithmic complexity standpoint it is somewhat
+>   miraculous that we can compress our huge look-up table of experiment/outcome
+>   into such an efficient description. In many senses, this type of compression
+>   is precisely what we mean when we say that physics enables us to understand
+>   a given phenomenon. [^Roberts2021p7]
+
+[^Raissi2017Ip2]: @Raissi_2017_Physics_informed_deep_learning_Part_I_Data\, p. 2.
 [^Roberts2021]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.
 [^Roberts2021p7]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\, p. 7.
 [^Wolpert1995]: @Wolpert_1995_No_free_lunch_theorems_for_search\.
@@ -1475,19 +1487,25 @@ Automation
 
 -   Autoencoders, latent variables
 -   Physical constratints in loss functions
--   "The frontier of simulation-based inference" [^Cranmer2019]
--   Howard, J.N. (2021). [Foundations of a fast, data-driven, machine-learned simulator](https://arxiv.org/abs/2101.08944).
+-   Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). [Physics informed deep learning (Part I)](https://arxiv.org/abs/1711.10561) and [(Part II)](https://arxiv.org/abs/1711.10566). [^Raissi2017IandII]
+-   Cranmer, K., Brehmer, J., & Louppe, G. (2019). [The frontier of simulation-based inference](https://arxiv.org/abs/1911.01429). [^Cranmer2019]
+-   Howard, J.N. et al. (2021). [Foundations of a fast, data-driven, machine-learned simulator](https://arxiv.org/abs/2101.08944). [^Howard2021]
+
+[^Cranmer2019]: @Cranmer_2019_The_frontier_of_simulation_based_inference\.
+[^Howard2021]: @Howard_2021_Foundations_of_a_fast_data_driven_machine\.
+[^Raissi2017IandII]: @Raissi_2017_Physics_informed_deep_learning_Part_I_Data and 
+    @Raissi_2017_Physics_informed_deep_learning_Part_II_Data\.
 
 
 ### AutoScience
 
 -   Automated discovery
--   "Learning new physics from a machine" [^DAgnolo2019]
--   "Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry." [^Asch2018]
+-   D’Agnolo, R.T. & Wulzer, A. (2019). [Learning New Physics from a Machine](https://arxiv.org/abs/1806.02350). [^DAgnolo2019]
+-   Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. [^Asch2018]
     -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
--   "The End of Theory: The data deluge makes the scientific method obsolete." [^Anderson2008]
--   "Symbolic pregression: Discovering physical laws from raw distorted video." [^Udrescu2020]
--   "Discovering symbolic models from deep learning with inductive biases." [^Cranmer2020]
+-   Anderson, C. (2008). [The End of Theory: The data deluge makes the scientific method obsolete](https://www.wired.com/2008/06/pb-theory/). [^Anderson2008]
+-   Udrescu, S. & Tegmark, M. (2020). [Symbolic pregression: Discovering physical laws from raw distorted video](https://arxiv.org/abs/2005.11212). [^Udrescu2020]
+-   Cranmer, M. et al. (2020). [Discovering symbolic models from deep learning with inductive biases](https://arxiv.org/abs/2006.11287). [^Cranmer2020]
     -   Video: [Discussion by Yannic Kilcher](https://www.youtube.com/watch?v=LMb5tvW-UoQ)
 -   See also: [Artificial intelligence](http://rreece.github.io/outline-of-philosophy/future.html#artificial-intelligence)
     in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
@@ -1497,7 +1515,6 @@ Automation
 [^Anderson2008]: @Anderson_2008_The_End_of_Theory_The_data_deluge_makes\.
 [^Asch2018]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
 [^Asch2018fig]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
-[^Cranmer2019]: @Cranmer_2019_The_frontier_of_simulation_based_inference\.
 [^Cranmer2020]: @Cranmer_2020_Discovering_symbolic_models_from_deep_learning\.
 [^DAgnolo2019]: @DAgnolo_2019_Learning_New_Physics_from_a_Machine\.
 [^Udrescu2020]: @Udrescu_2020_Symbolic_pregression_Discovering_physical_laws\.
