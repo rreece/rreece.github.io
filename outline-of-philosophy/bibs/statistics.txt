@@ -161,6 +161,7 @@ Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
 Tukey, J.W. (1962). The future of data analysis. *The Annals of Mathematical Statistics*, 33(1), 1--67.
 Tukey, J.W. (1977). *Exploratory Data Analysis*. Pearson.
 Udrescu, S. & Tegmark, M. (2020). Symbolic pregression: Discovering physical laws from raw distorted video. https://arxiv.org/abs/2005.11212
+van Handel, R. (2016). Probability in High Dimensions. https://web.math.princeton.edu/~rvan/APC550.pdf
 Vapnik, V., Levin, E., & LeCun, Y. (1994). Measuring the VC-dimension of a learning machine. *Neural Computation*, 6(5), 851--876.
 Vaswani, A. et al. (2017). Attention is all you need. *Advances in Neural Information Processing Systems*, 2017, 5998--6008. https://arxiv.org/abs/1706.03762
 Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]

@@ -189,6 +189,16 @@ Neyman:
 [^Weisberg2019ch15]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, ch. 15\.
 
 
+### Curse of dimensionality
+
+-   [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
+-   [Stein's paradox](https://en.wikipedia.org/wiki/Stein%27s_example)
+-   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
+-   Probability in High Dimensions [^vanHandel2016]
+
+[^vanHandel2016]: @vanHandel_2016_Probability_in_High_Dimensions\.
+
+
 Foundations of statistics
 --------------------------------------------------------------------------------
 
@@ -398,6 +408,7 @@ For an unbiased estimator, the MSE is the variance of the estimator.
 
 TODO:
 
+-   Note the discussion of the bias-variance tradeoff by [Cranmer](http://theoryandpractice.org/stats-ds-book/statistics/bias-variance.html).
 -   Note the new deep learning view. See [Deep learning](#deep-learning).
 
 [^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\, p. X. 
@@ -552,6 +563,8 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 -   Pearson $\chi^2$-test
 -   Wald [^Wald1943]
 -   Cowan _et al_.[^Cowan2011]
+    -   Wald approximation
+    -   Asimov dataset
 
 [^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 [^Wald1943]: @Wald_1943_Tests_of_statistical_hypotheses_concerning_several\.
@@ -989,15 +1002,13 @@ See also:
     -   GLMs
 -   EM algorithm
     -   $k$-means
--   [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
-    -   [Stein's paradox](https://en.wikipedia.org/wiki/Stein%27s_example)
-    -   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
 -   [Topological data analysis](https://en.wikipedia.org/wiki/Topological_data_analysis)
     -   Dindin, M. (2018). [TDA To Rule Them All: ToMATo Clustering](https://towardsdatascience.com/tda-to-rule-them-all-tomato-clustering-878e03394a1).
 -   Relationship of clustering and autoencoding
     -   Batson et al. (2021). [Topological obstructions to autoencoding](https://arxiv.org/abs/2102.08380). [^Batson2021]
 -   "What are the true clusters?" [^Hennig2015]
     -   See also: [constructive empiricism](scientific-realism.html#constructive-empiricism)
+-   See also: [Curse of dimensionality](#curse-of-dimensionality)
 
 [^Batson2021]: @Batson_2021_Topological_obstructions_to_autoencoding\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
@@ -1548,14 +1559,8 @@ My docs:
 My talks:
 
 -   [Likelihood functions for supersymmetric observables](http://rreece.github.io/talks/pdf/2009-09-29-RReece-Likelihood-functions-for-SUSY.pdf)
+-   [Machine learning and realism](http://rreece.github.io/talks/pdf/2017-03-16-RReece-Machine-learning-and-realism.pdf)
 -   [Primer on statistics: MLE, confidence intervals, and hypothesis testing](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 Annotated bibliography
