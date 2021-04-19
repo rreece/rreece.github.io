@@ -1308,7 +1308,7 @@ Computer Vision (CV)
 
 [^Silver2016AlphaGoLee]: @Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks\.
 [^Silver2017AlphaGoZero]: @Silver_2017_Mastering_the_game_of_Go_without_human_knowledge\.
-[^Silver2017AlphaZero]: @Silver_2017_Mastering_chess_and_shogi_by_self_play_with\.
+[^Silver2017AlphaZero]: @Silver_2017_Mastering_chess_and_shogi_by_self_play\.
 
 
 #### Counterfactual regret minimization

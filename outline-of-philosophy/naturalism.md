@@ -563,7 +563,7 @@ Schopenhauer:
 
 [^Boudry2018]: @Boudry_2018_Science_Unlimited_The_Challenges_of_Scientism\.
 [^SchopenhauerThinking7]: @Schopenhauer_2014_Essays_and_Aphorisms\, On thinking for yourself, section 7.
-[^Sorell1991]: @Sorell_1991_Scientism_Philosophy_and_the_Infatuation_with\.
+[^Sorell1991]: @Sorell_1991_Scientism_Philosophy_and_the_Infatuation\.
 
 
 ### Honorific reinterpretation
