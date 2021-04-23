@@ -5,6 +5,7 @@ Bain, J. (2013). Effective field theories. In Batterman, R. (Ed.), *The Oxford H
 Bain, J. (2013). Emergence in effective field theories. *European Journal for Philosophy of Science*, 3(3), 257--273.
 Barrett, J.A. & Byrne, P. (2012). *The Everett Interpretation of Quantum Mechanics: Collected Works 1955-1980 with Commentary*.
 Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *European Journal for Philosophy of Science*, 1(2), 277--302.
+Becker, A. (2018). *What is Real? The unfinished quest for the meaning of quantum physics*. Basic Books.
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
 Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
 Capdevilla, R., Curtin, D., Kahn, Y., & Krnjaic, G. (2021). A no-lose theorem for discovering the new physics of $(g−2)_\mu$ at muon colliders. https://arxiv.org/abs/2101.10334
@@ -55,6 +56,7 @@ Proietti, M. et al. (2019). Experimental test of local observer independence. *S
 Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8, 476. https://arxiv.org/abs/1111.3328
 Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(2), 57--99.
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24). Oxford University Press.
+Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. *Philosophical Studies*. https://link.springer.com/article/10.1007%2Fs11098-021-01634-z
 Schwartz, M.D. (2014). *Quantum Field Theory and the Standard Model*. Cambridge University Press.
 Seidewitz, E. (2017). Avoiding Haag's Theorem with Parameterized Quantum Field Theory. *Foundations of Physics*, 47(3), 355--374.
 Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.

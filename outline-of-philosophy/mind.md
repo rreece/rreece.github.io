@@ -50,6 +50,13 @@ Dualism
 ![TODO](img/Descartes-mind-body.png){#fig:Descartes-mind-body}
 
 
+### Criticism
+
+-   Gilbert Ryle
+    -   "the dogma of the Ghost in the Machine"
+    -   *The Concept of Mind* (1949)
+
+
 Idealism
 --------------------------------------------------------------------------------
 

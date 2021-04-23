@@ -194,10 +194,10 @@ Neyman:
 -   [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
 -   [Stein's paradox](https://en.wikipedia.org/wiki/Stein%27s_example)
 -   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
--   Probability in High Dimensions [^vanHandel2016]
+-   Probability in high dimensions [^vanHandel2016]
 -   *High-Dimensional Probability:An introduction with applications in data science* [^Vershynin2018]
 
-[^vanHandel2016]: @vanHandel_2016_Probability_in_High_Dimensions\.
+[^vanHandel2016]: @vanHandel_2016_Probability_in_high_dimensions\.
 [^Vershynin2018]: @Vershynin_2018_High_Dimensional_ProbabilityAn_introduction\.
 
 

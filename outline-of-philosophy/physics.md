@@ -166,7 +166,10 @@ Symmetry-first physics
 
 -   Wigner-Stone theorems as cornerstones of QM (Ovrut)
 -   Wigner's classification
+-   Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. [^Schroeren2021]
 -   See also: [Quantum field theory](#quantum-field-theory)
+
+[^Schroeren2021]: @Schroeren_2021_Symmetry_fundamentalism_in_quantum_mechanics\.
 
 
 Quantum mechanics
@@ -566,9 +569,11 @@ TODO
 
 ### Copenhagen "interpretation"
 
-TODO
+-   Becker, A. (2018). *What is Real?* [^Becker2018]
 
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
+
+[^Becker2018]: @Becker_2018_What_is_Real_The_unfinished_quest_for_the_meaning\.
 
 
 ### Bohmian mechanics

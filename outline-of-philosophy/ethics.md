@@ -330,6 +330,7 @@ Ecology
 
 -   Scalability
 -   [Climate justice](https://plato.stanford.edu/entries/justice-climate/)
+-   Hatcher, B. (2019). [Carrying capacity - Our wickedest problem](https://www.hermetica.info/CarryingCapacity.html).
 
 
 Aesthetics

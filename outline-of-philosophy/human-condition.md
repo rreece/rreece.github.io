@@ -111,6 +111,7 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
 -   [Xianren Cave](https://en.wikipedia.org/wiki/Xianren_Cave)
 -   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1,600-1,046 BCE)
 -   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1,250 BCE)
+-   [Hundred Schools of Thought](https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought)
 -   [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) (c. 200 BCE)
 
 #### Mesoamerica
@@ -290,7 +291,7 @@ Hinduism
     2.  [Jainism](https://en.wikipedia.org/wiki/Jainism)
     3.  [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika) (now declined)
     4.  [Buddhism](https://en.wikipedia.org/wiki/Buddhism)
--   "Hindu synthesis" started to develop between 500 BCE and 300 CE
+-   The "Hindu synthesis" started to develop between 500 BCE and 300 CE.
 -   Today, Ved&amacr;nta and Yoga schools are most influentail in Hunduism,
     which has divided into four major [denominations](https://en.wikipedia.org/wiki/Hindu_denominations):
     1.  [Vaishnavism](https://en.wikipedia.org/wiki/Vaishnavism)
@@ -975,13 +976,20 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 #### Daoism
 
 -   [Daoism](https://en.wikipedia.org/wiki/Daoism) (began c. 4th century BCE)
--   Dao - unplanned rhythms of the universe called "the way"
--   struggle between order and chaos
+    -   Also romanized as Taoism.
+    -   Dao - unplanned rhythms of the universe called "the way"
+    -   struggle between order and chaos
+-   [Feng shui](https://en.wikipedia.org/wiki/Feng_shui)
+-   [Qi](https://en.wikipedia.org/wiki/Qi)
 -   [Wuxing](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)) - "Five Elements"
+
+Works:
+
 -   *Yijing* (also romanized as *I Ching*) - "Book of Changes"  (c. 900 BCE)
+    -   Yijing Studies by Bradford Hatcher at [hermetica.info](https://www.hermetica.info/)
+    -   SEP: [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
 -   *Dao De Jing* - Laozi (c. 500 BCE)
 -   *Zhuangzi* - Zhuang Zhou (c. 369-286 BCE)
--   Yijing Studies by Bradford Hatcher at [hermetica.info](https://www.hermetica.info/)
 -   *Dazhuan* - "The Great Commentary"
 
 >   Creating: The greatest fulfillment rewards persistence. [^YijingGua01]
@@ -1967,8 +1975,9 @@ Click to show links
 -   [Buddha](http://plato.stanford.edu/entries/buddha/)
 -   [Camus, Albert (1913-1960)](http://plato.stanford.edu/entries/camus/)
 -   [Cancer](https://plato.stanford.edu/entries/cancer/)
--   [Chinese Metaphysics](https://plato.stanford.edu/entries/chinese-metaphysics/)
--   [Chinese Philosophy and Science](https://plato.stanford.edu/entries/chinese-phil-science/)
+-   [Chinese metaphysics](https://plato.stanford.edu/entries/chinese-metaphysics/)
+-   [Chinese philosophy and science](https://plato.stanford.edu/entries/chinese-phil-science/)
+-   [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
 -   [Daoism](https://plato.stanford.edu/entries/daoism/)
 -   [de Beauvoir, Simone (1908-1986)](https://plato.stanford.edu/entries/beauvoir/)
 -   [Epictetus (55-135)](http://plato.stanford.edu/entries/epictetus/)
