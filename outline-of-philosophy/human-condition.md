@@ -1327,6 +1327,7 @@ Romanticism
 -   [Romanticism](https://en.wikipedia.org/wiki/Romanticism)
     -   late 18th through 19th centuries
     -   focus on emotion
+    -   [Nobel savage](https://en.wikipedia.org/wiki/Noble_savage)
 -   [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) (1712-1778)
 -   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
     -   See: [Comparitive studies](#comparitive-studies)
