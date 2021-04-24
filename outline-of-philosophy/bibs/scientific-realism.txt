@@ -15,7 +15,7 @@ Friedman, M. & Creath, R. (2007). *The Cambridge Companion to Carnap*. Cambridge
 Hempel, C.G. (1950). Problems and changes in the empiricist criterion of meaning. *Revue Internationale de Philosophie*, 4, 41--63.
 Hempel, C.G. (1974). Formulation and formalization of scientific theories. In  Suppe, F. (Ed.). *The Structure of Scientific Theories*. University of Illinois Press.
 Hennig, C. (2010). Mathematical models and reality: A constructivist perspective. *Foundations of Science*, 15(1), 29--48.
-Hennig, C. (2015). What are the true clusters? *Pattern Recognition Letters*, 64, 53--62.
+Hennig, C. (2015). What are the true clusters? *Pattern Recognition Letters*, 64, 53--62. https://arxiv.org/abs/1502.02555
 Khanna, P. (2018). Positivism and realism. In Liamputtong, P. (Ed.) *Handbook of Research Methods in Health Social Sciences*. Springer.
 Korzybski, A. (1933). *Science and Sanity*. New York: The Science Press Printing Co.
 Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalised*. Oxford University Press.

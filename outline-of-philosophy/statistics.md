@@ -1010,7 +1010,9 @@ See also:
     -   Batson et al. (2021). [Topological obstructions to autoencoding](https://arxiv.org/abs/2102.08380). [^Batson2021]
 -   "What are the true clusters?" [^Hennig2015]
     -   See also: [constructive empiricism](scientific-realism.html#constructive-empiricism)
--   See also: [Curse of dimensionality](#curse-of-dimensionality)
+-   [Clustering high-dimensional data](https://en.wikipedia.org/wiki/Clustering_high-dimensional_data)
+    -   [*t*-distributed stochastic neighbor embedding (t-SNE)](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
+    -   See also: [Curse of dimensionality](#curse-of-dimensionality)
 
 [^Batson2021]: @Batson_2021_Topological_obstructions_to_autoencoding\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
@@ -1269,6 +1271,8 @@ Computer Vision (CV)
 ### Reinforcement learning
 
 -   Reinforcement Learning (RL)
+    -   [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+    -   [Bellman equation](https://en.wikipedia.org/wiki/Bellman_equation)
 -   Sutton & Barto [^Sutton2018]
 -   Deep Reinforcement Learning: A Brief Survey [^Arulkumaran2017]
 -   [List by OpenAI of key RL papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
