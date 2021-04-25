@@ -110,7 +110,7 @@ Realism and antirealism
 ### Modern skepticism
 
 -   "Here is one hand" - Moore [^Moore1925]
--   "On Certainty" - Wittgenstein
+-   *On Certainty* - Wittgenstein [^Wittgenstein1969]
 -   The map and the territory
 
 Korzybski:
@@ -133,6 +133,7 @@ Schr&ouml;dinger quoting Schopenhauer:
 [^Korzybski1933p58]: @Korzybski_1933_Science_and_Sanity\, p. 58.
 [^Moore1925]: @Moore_1925_A_defense_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
 [^Schopenhauer-Schrodinger]: Schr&ouml;dinger quoting Schopenhauer in "Mind and Matter".
+[^Wittgenstein1969]: @Wittgenstein_1969_On_Certainty\.
 
 
 ### Contemporary skepticism

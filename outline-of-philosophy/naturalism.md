@@ -37,7 +37,7 @@ TODO: Manifest image and scientific image - Sellars
 
 -   Sellars, W. (1963). "Philosophy and the scientific image of man" in @Sellars_1963_Science_Perception_and_Reality
 
-![Comic by [Abstruse Goose](https://abstrusegoose.com/275).](img/all_i_see_are_equations.png){#fig:all-i-see-are-equations}
+![Comic by [Abstruse Goose](https://abstrusegoose.com/275).](img/all_i_see_are_equations.png){#fig:all-i-see-are-equations .tallimg}
 
 Maddy defines naturalism:
 
@@ -399,6 +399,7 @@ See also:
 ### Uniformity of nature
 
 -   Part of methodological naturalism, but also a result of empirical confirmation.
+-   TODO: find ref for Cox's art, that stars have standard spectra.
 -   Limits on deviations in $\alpha_\mathrm{EM}$
 
 See also:

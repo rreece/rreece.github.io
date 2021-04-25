@@ -46,5 +46,6 @@ Swartz, N. (2003). *The Concept of Physical Law* (2nd ed.). http://www.sfu.ca/~s
 Swartz, N. (2009). Laws of nature. *International Encyclopedia of Philosophy*. http://www.iep.utm.edu/lawofnat/
 Torretti, R. (1999). *The Philosophy of Physics*. Cambridge University Press.
 Wittgenstein, L. (1929). Some remarks on logical form. *Proceedings of the Aristotelian Society Supplementary Volumes*, 9, 162--171.
+Wittgenstein, L. (1969). *On Certainty*. Oxford: Basil Blackwell.
 Wray, K. B. (2018). *Resisting Scientific Realism*. Cambridge University Press.
 Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? *Aristotelian Society Supplementary Volume*, 72, 229--262.
