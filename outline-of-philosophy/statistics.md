@@ -8,8 +8,10 @@ Statistics are *way* important in addressing the problem of induction.
 <!-- PAGETOC -->
 
 
-Problem of induction
+Introduction to the foundations of statistics
 --------------------------------------------------------------------------------
+
+### Problem of induction
 
 A key issue for the scientific method, as discussed in the
 [previous outline](scientific-method.html#induction),
@@ -33,13 +35,10 @@ has arisen to wrestle with the problem of induction, and how it equips us with
 careful ways of framing inductive arguments and notions of confidence in them.
 
 
-Foundations of statistics
---------------------------------------------------------------------------------
-
 ### Early investigators
 
--   [Graunt, John](https://en.wikipedia.org/wiki/John_Graunt) (1620-1674)
--   [Bernoulli, Jacob](https://en.wikipedia.org/wiki/Jacob_Bernoulli) (1655-1705)
+-   [John Graunt](https://en.wikipedia.org/wiki/John_Graunt) (1620-1674)
+-   [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli) (1655-1705)
     -   *Ars Conjectandi* (1713, posthumous)
     -   First modern phrasing of the problem of parameter estimation [^Edwards1974p9]
     -   See Hacking [^Hacking1971]
@@ -50,12 +49,12 @@ Foundations of statistics
 >   judgments and actions that course, which will have been determined to be
 >   better, more satisfactory, safer or more advantageous. [^Bernoulli1713]
 
--   [Bayes, Thomas](https://en.wikipedia.org/wiki/Thomas_Bayes) (1701-1761)
--   [Laplace, Pierre-Simon](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) (1749-1827)
-    -   rule of succssion, bayesian
--   [Gauss, Carl Friedrich](http://en.wikipedia.org/wiki/Gauss) (1777-1855)
--   [Mill, John Stuart](https://en.wikipedia.org/wiki/John_Stuart_Mill) (1806-1873)
--   [Venn, John](https://en.wikipedia.org/wiki/John_Venn) (1834-1923)
+-   [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes) (1701-1761)
+-   [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) (1749-1827)
+    -   The rule of succssion, bayesian
+-   [Carl Friedrich Gauss](http://en.wikipedia.org/wiki/Gauss) (1777-1855)
+-   [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) (1806-1873)
+-   [John Venn](https://en.wikipedia.org/wiki/John_Venn) (1834-1923)
     -   *The Logic of Chance* (1866) [^Venn1888]
 
 [^Bernoulli1713]: Bernoulli, J. (1713). *Ars Conjectandi*, Chapter II, Part IV, defining the art of conjecture [[wikiquote](https://en.wikiquote.org/wiki/Jacob_Bernoulli)].
@@ -66,26 +65,27 @@ Foundations of statistics
 
 ### Foundations of modern statistics
 
--   [Peirce, Charles Sanders](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) (1839-1914)
+-   [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) (1839-1914)
     -   Formulated modern statistics in "Illustrations of the Logic of Science",
         a series published in *Popular Science Monthly* (1877-1878),
         and also "A Theory of Probable Inference" in *Studies in Logic* (1883). [^Peirce1883]
     -   With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).
--   [Pearson, Karl](https://en.wikipedia.org/wiki/Karl_Pearson) (1857-1936)
--   [Fisher, Ronald](https://en.wikipedia.org/wiki/Ronald_Fisher) (1890-1972)
+-   [Karl Pearson](https://en.wikipedia.org/wiki/Karl_Pearson) (1857-1936)
+-   [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) (1890-1972)
     -   Fisher significance of the null hypothesis ($p$-values)
         -   On an absolute criterion for fitting frequency curves. [^Fisher1912]
         -   Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. [^Fisher1915]
         -   On the "probable error" of a coefficient of correlation deduced from a small sample [^Fisher1921] - definition of *likelihood*
         -   Statistical methods and scientific induction [^Fisher1955]
         -   *The Lady Tasting Tea* [^Salsburg2001]
--   [Neyman, Jerzy](https://en.wikipedia.org/wiki/Jerzy_Neyman) (1894-1981)
+-   [Jerzy Neyman](https://en.wikipedia.org/wiki/Jerzy_Neyman) (1894-1981)
     -   biography by Reid [^Reid1998]
--   [Pearson, Egon](https://en.wikipedia.org/wiki/Egon_Pearson) (1895-1980)
+-   [Egon Pearson](https://en.wikipedia.org/wiki/Egon_Pearson) (1895-1980)
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
--   [Jeffreys, Harold](https://en.wikipedia.org/wiki/Harold_Jeffreys) (1891-1989)
+-   [Harold Jeffreys](https://en.wikipedia.org/wiki/Harold_Jeffreys) (1891-1989)
     -   objective (non-informative) Jeffreys priors
--   Glivenko-Cantelli-theorem
+-   Central limit theorem
+-   Glivenko-Cantelli theorem
 
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
 [^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.

@@ -70,9 +70,9 @@
 <p>Statistics are <em>way</em> important in addressing the problem of induction.</p>
 <h3 class="unnumbered" id="contents">Contents</h3>
 <ol type="1">
-<li><a href="statistics.html#problem-of-induction">Problem of induction</a></li>
-<li><a href="statistics.html#foundations-of-statistics">Foundations of statistics</a>
+<li><a href="statistics.html#introduction-to-the-foundations-of-statistics">Introduction to the foundations of statistics</a>
 <ol type="1">
+<li><a href="statistics.html#problem-of-induction">Problem of induction</a></li>
 <li><a href="statistics.html#early-investigators">Early investigators</a></li>
 <li><a href="statistics.html#foundations-of-modern-statistics">Foundations of modern statistics</a></li>
 <li><a href="statistics.html#pedagogy">Pedagogy</a></li>
@@ -198,15 +198,15 @@
 </ol></li>
 <li><a href="statistics.html#references">References</a></li>
 </ol>
-<h2 id="problem-of-induction">Problem of induction</h2>
+<h2 id="introduction-to-the-foundations-of-statistics">Introduction to the foundations of statistics</h2>
+<h3 id="problem-of-induction">Problem of induction</h3>
 <p>A key issue for the scientific method, as discussed in the <a href="scientific-method.html#induction">previous outline</a>, is the <a href="scientific-method.html#induction">problem of induction</a>. Inductive inferences are used in the scientific method to make generalizations from finite data. This introduces unique avenues of error not found in purely deductive inferences, like in logic and mathematics. Compared to deductive inferences, which are sound and necessarily follow if an argument is valid and all of its premises obtain, inductive inferences can be valid and probably (not certainly) sound, and therefore can still result in error in some cases because the support of the argument is ultimately probabilistic.</p>
 <p>A skeptic may further probe if we are even justified in using the probabilities we use in inductive arguments. What is the probability the Sun will rise tomorrow? What kind of probabilities are reasonable?</p>
 <p>In this outline, we sketch and explore how the mathematical theory of statistics has arisen to wrestle with the problem of induction, and how it equips us with careful ways of framing inductive arguments and notions of confidence in them.</p>
-<h2 id="foundations-of-statistics">Foundations of statistics</h2>
 <h3 id="early-investigators">Early investigators</h3>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/John_Graunt">Graunt, John</a> (1620-1674)</li>
-<li><a href="https://en.wikipedia.org/wiki/Jacob_Bernoulli">Bernoulli, Jacob</a> (1655-1705)
+<li><a href="https://en.wikipedia.org/wiki/John_Graunt">John Graunt</a> (1620-1674)</li>
+<li><a href="https://en.wikipedia.org/wiki/Jacob_Bernoulli">Jacob Bernoulli</a> (1655-1705)
 <ul>
 <li><em>Ars Conjectandi</em> (1713, posthumous)</li>
 <li>First modern phrasing of the problem of parameter estimation<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></li>
@@ -218,27 +218,27 @@
 <p>The art of measuring, as precisely as possible, probabilities of things, with the goal that we would be able always to choose or follow in our judgments and actions that course, which will have been determined to be better, more satisfactory, safer or more advantageous.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
 </blockquote>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Thomas_Bayes">Bayes, Thomas</a> (1701-1761)</li>
-<li><a href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace">Laplace, Pierre-Simon</a> (1749-1827)
+<li><a href="https://en.wikipedia.org/wiki/Thomas_Bayes">Thomas Bayes</a> (1701-1761)</li>
+<li><a href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace">Pierre-Simon Laplace</a> (1749-1827)
 <ul>
-<li>rule of succssion, bayesian</li>
+<li>The rule of succssion, bayesian</li>
 </ul></li>
-<li><a href="http://en.wikipedia.org/wiki/Gauss">Gauss, Carl Friedrich</a> (1777-1855)</li>
-<li><a href="https://en.wikipedia.org/wiki/John_Stuart_Mill">Mill, John Stuart</a> (1806-1873)</li>
-<li><a href="https://en.wikipedia.org/wiki/John_Venn">Venn, John</a> (1834-1923)
+<li><a href="http://en.wikipedia.org/wiki/Gauss">Carl Friedrich Gauss</a> (1777-1855)</li>
+<li><a href="https://en.wikipedia.org/wiki/John_Stuart_Mill">John Stuart Mill</a> (1806-1873)</li>
+<li><a href="https://en.wikipedia.org/wiki/John_Venn">John Venn</a> (1834-1923)
 <ul>
 <li><em>The Logic of Chance</em> (1866)<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></li>
 </ul></li>
 </ul>
 <h3 id="foundations-of-modern-statistics">Foundations of modern statistics</h3>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Charles_Sanders_Peirce">Peirce, Charles Sanders</a> (1839-1914)
+<li><a href="https://en.wikipedia.org/wiki/Charles_Sanders_Peirce">Charles Sanders Peirce</a> (1839-1914)
 <ul>
 <li>Formulated modern statistics in &#x201C;Illustrations of the Logic of Science,&#x201D; a series published in <em>Popular Science Monthly</em> (1877-1878), and also &#x201C;A Theory of Probable Inference&#x201D; in <em>Studies in Logic</em> (1883).<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></li>
 <li>With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).</li>
 </ul></li>
-<li><a href="https://en.wikipedia.org/wiki/Karl_Pearson">Pearson, Karl</a> (1857-1936)</li>
-<li><a href="https://en.wikipedia.org/wiki/Ronald_Fisher">Fisher, Ronald</a> (1890-1972)
+<li><a href="https://en.wikipedia.org/wiki/Karl_Pearson">Karl Pearson</a> (1857-1936)</li>
+<li><a href="https://en.wikipedia.org/wiki/Ronald_Fisher">Ronald Fisher</a> (1890-1972)
 <ul>
 <li>Fisher significance of the null hypothesis (<span class="math inline">\(p\)</span>-values)
 <ul>
@@ -249,19 +249,20 @@
 <li><em>The Lady Tasting Tea</em><a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a></li>
 </ul></li>
 </ul></li>
-<li><a href="https://en.wikipedia.org/wiki/Jerzy_Neyman">Neyman, Jerzy</a> (1894-1981)
+<li><a href="https://en.wikipedia.org/wiki/Jerzy_Neyman">Jerzy Neyman</a> (1894-1981)
 <ul>
 <li>biography by Reid<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a></li>
 </ul></li>
-<li><a href="https://en.wikipedia.org/wiki/Egon_Pearson">Pearson, Egon</a> (1895-1980)
+<li><a href="https://en.wikipedia.org/wiki/Egon_Pearson">Egon Pearson</a> (1895-1980)
 <ul>
 <li>Neyman-Pearson confidence intervals with fixed error probabilities (also <span class="math inline">\(p\)</span>-values but considering two hypotheses involves two types of errors)</li>
 </ul></li>
-<li><a href="https://en.wikipedia.org/wiki/Harold_Jeffreys">Jeffreys, Harold</a> (1891-1989)
+<li><a href="https://en.wikipedia.org/wiki/Harold_Jeffreys">Harold Jeffreys</a> (1891-1989)
 <ul>
 <li>objective (non-informative) Jeffreys priors</li>
 </ul></li>
-<li>Glivenko-Cantelli-theorem</li>
+<li>Central limit theorem</li>
+<li>Glivenko-Cantelli theorem</li>
 </ul>
 <h3 id="pedagogy">Pedagogy</h3>
 <ul>
