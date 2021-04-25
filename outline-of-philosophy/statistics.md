@@ -103,6 +103,7 @@ careful ways of framing inductive arguments and notions of confidence in them.
 -   Cowan [^Cowan1998]
 -   Cranmer [^Cranmer2015]
 -   Lista [^Lista2016]
+-   Cox [^Cox2006]
 -   Cousins [^Cousins2018]
 -   Weisberg [^Weisberg2019]
 -   Cranmer, K. (2020). [*Statistics and Data Science*](https://cranmer.github.io/stats-ds-book/intro.html).
@@ -114,7 +115,8 @@ careful ways of framing inductive arguments and notions of confidence in them.
     -   [*Advanced Data Analysis from an Elementary Point of View*](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 
 [^Cousins2018]: @Cousins_2018_Lectures_on_statistics_in_theory_Prelude\.
-[^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\. 
+[^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\.
+[^Cox2006]: @Cox_2006_Principles_of_Statistical_Inference\.
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
 [^Lista2016]: @Lista_2016_Statistical_Methods_for_Data_Analysis_in_Particle\.
@@ -796,6 +798,8 @@ Mayo:
     -   [An introduction to likelihoodist, bayesian, and frequentist methods (3/3)](http://gandenberger.org/2014/08/26/intro-to-statistical-methods-3/)
     -   [An argument against likelihoodist methods as genuine alternatives to bayesian and frequentist methods](http://gandenberger.org/2013/10/21/against-likelihoodist-methods/)
     -   "Why I am not a likelihoodist" [^Gandenberger2016]
+-   Jon Wakefield
+    -   *Bayesian and Frequentist Regression Methods* [^Wakefield2013]
 -   Efron & Hastie
     -   "Flaws in Frequentist Inference" [^Efron2016p30]
 -   Kruschke & Liddel [^Kruschke2018]
@@ -817,6 +821,7 @@ Mayo:
 [^Neyman1977]: @Neyman_1977_Frequentist_probability_and_frequentist\.
 [^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
+[^Wakefield2013]: @Wakefield_2013_Bayesian_and_Frequentist_Regression_Methods\, ch. 4.
 [^Zech1995]: @Zech_1995_Comparing_statistical_data_to_Monte_Carlo\.
 
 

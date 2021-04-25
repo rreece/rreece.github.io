@@ -43,6 +43,7 @@ Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). Asymptotic formulae for
 Cowan, G. (2012). Discovery sensitivity for a counting experiment with background uncertainty. https://www.pp.rhul.ac.uk/~cowan/stat/notes/medsigNote.pdf
 #Cowan, G. (2016). Statistics. In C. Patrignani \emph{et al}. (Particle Data Group), \emph{Chinese Physics C}, \emph{40}, 100001. \url{http://pdg.lbl.gov/2016/reviews/rpp2016-rev-statistics.pdf}
 Cowan, G. (2016). Statistics. In C. Patrignani et al. (Particle Data Group), *Chinese Physics C*, 40, 100001. http://pdg.lbl.gov/2016/reviews/rpp2016-rev-statistics.pdf
+Cox, D.R. (2006). *Principles of Statistical Inference*. Cambridge University Press.
 Cram\'{e}r, H. (1946). A contribution to the theory of statistical estimation. *Skandinavisk Aktuarietidskrift*, 29, 85--94.
 Cranmer, K. (2015). Practical statistics for the LHC. https://arxiv.org/abs/1503.07622
 Cranmer, K., Brehmer, J., & Louppe, G. (2019). The frontier of simulation-based inference. https://arxiv.org/abs/1911.01429
@@ -168,6 +169,7 @@ Vapnik, V., Levin, E., & LeCun, Y. (1994). Measuring the VC-dimension of a learn
 Vaswani, A. et al. (2017). Attention is all you need. *Advances in Neural Information Processing Systems*, 2017, 5998--6008. https://arxiv.org/abs/1706.03762
 Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]
 Vershynin, R. (2018). *High-Dimensional Probability:An introduction with applications in data science*. Cambridge University Press.
+Wakefield, J. (2013). *Bayesian and Frequentist Regression Methods*. Springer.
 Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482.
 Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.
 Wasserstein, R.L., & Lazar, N.A. (2016). The ASA's statement on p-values: Context, process, and purpose. *American Statistician*, 70, 129--133.
@@ -187,4 +189,3 @@ Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimiza
 Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf [(Paper on the GPT model by OpenAI)] 
 Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf [(Paper on the GPT-2 model by OpenAI)] 
 Brown, T.B. et al. (2020). Language models are few-shot learners. https://arxiv.org/abs/2005.14165 [(Paper on the GPT-3 model by OpenAI)] 
-
