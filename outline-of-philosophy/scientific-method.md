@@ -1069,7 +1069,7 @@ Frigg:
 -   TODO: find good example refs
 
 
-Knowledge and realism
+Knowledge
 --------------------------------------------------------------------------------
 
 ### Definining knowledge
@@ -1145,19 +1145,7 @@ TODO: find part in *Meno*.
 
 ### Epistemic errors
 
--   Gettier cases
-    -   Knowledge = JTB - G
-    -   Gettier (1963) [^Gettier1963]
-    -   Clark, M. (1963). Knowledge and grounds: A comment on Mr. Gettier's paper. [^Clark1963]
--   Internalism vs externalism
--   Systematic uncertainties.  Failed justification.
-    -   TODO: discussion by me
-
-[^Clark1963]: @Clark_1963_Knowledge_and_grounds_A_comment_on_MrGettiers\.
-[^Gettier1963]: @Gettier_1963_Is_justified_true_belief_knowledge\.
-
-
-### Fallibility
+#### Fallibility
 
 TODO sort out:
 
@@ -1183,6 +1171,29 @@ The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*. Russel
 
 [^Feynman1998p26]: @Feynman_1998_The_Meaning_of_It_All\, p. 26--27.
 [^Russell2009]: @Russell_2009_Human_Knowledge_Its_Scope_and_Limits\.
+
+
+#### Gettier cases
+
+-   Knowledge = JTB - G
+-   Gettier (1963) [^Gettier1963]
+-   Clark, M. (1963). Knowledge and grounds: A comment on Mr. Gettier's paper. [^Clark1963]
+
+[^Clark1963]: @Clark_1963_Knowledge_and_grounds_A_comment_on_MrGettiers\.
+[^Gettier1963]: @Gettier_1963_Is_justified_true_belief_knowledge\.
+
+
+#### Internalism vs externalism
+
+-   TODO?
+
+
+#### Systematic uncertainties
+
+-   Failed justification
+-   Mayo on error statistics and severe testing
+-   TODO: discussion by me
+-   See also: [Sinervo classification of systematic uncertainties](#sinervo-classification-of-systematic-uncertainties)
 
 
 ### Scientific knowledge
