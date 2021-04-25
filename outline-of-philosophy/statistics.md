@@ -343,11 +343,18 @@ the pdf of which is modeled by a function, $f(x_i ; \theta_j)$ with parameters, 
 In a statistical [inverse problem](https://en.wikipedia.org/wiki/Inverse_problem),
 the goal is to infer values of the model parameters, $\theta_j$
 given some finite set of data, $\{x_i\}$ sampled from a probability density,
-$f(x_i; \theta_j)$ that models the data reasonably well.
+$f(x_i; \theta_j)$ that models the data reasonably well [^NoteClass3].
 
 -   Estimators
 -   Regression
 -   Accuracy vs precision [^Cowan1998pX]
+
+[^NoteClass3]: This assumption that the model models the data "reasonably" well
+    reflects that to the degree required by your analysis, the important features
+    of the data match well within the systematic uncertainties parametrized within
+    the model.  If the model is incomplete because it is missing an important
+    feature of the data, then this is the "*ugly*" (class-3) error in the
+    [Sinervo classification of systematic uncertainties](#sinervo-classification-of-systematic-uncertainties).
 
 
 ### Bias and variance
