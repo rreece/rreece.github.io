@@ -1419,6 +1419,14 @@ Roberts:
 [^Wolpert1997]: @Wolpert_1997_No_free_lunch_theorems_for_optimization\.
 
 
+###  Graphical tensor notation
+
+-   [Penrose graphical notation](https://en.wikipedia.org/wiki/Penrose_graphical_notation)
+-   Predrag Cvitanovic
+-   [Matrices as Tensor Network Diagrams](https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams)
+-   Multi-layer perceptions
+
+
 ### Universal approximation theorem
 
 -   Multi-layer perceptions with two or more layers are universal
@@ -1428,20 +1436,13 @@ Roberts:
 [^Bishop2006p230]: @Bishop_2006_Pattern_Recognition_and_Machine_Learning\, p. 230.
 
 
-###  Graphical tensor notation
-
--   [Penrose graphical notation](https://en.wikipedia.org/wiki/Penrose_graphical_notation)
--   Predrag Cvitanovic
--   [Matrices as Tensor Network Diagrams](https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams)
-
-
 ### Relationship to statistical mechanics
 
 -   Logistic/softmax and Boltzman factors
 -   Bahri [^Bahri2020]
 -   Halverson [^Halverson2020]
 -   Canatar, A., Bordelon, B., & Pehlevan, C. (2020). [Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks](https://arxiv.org/abs/2006.13198).
--   Roberts, Yaida, & Hanin, *The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*. Forthcoming from Cambridge University Press. [^Roberts2021PDLT]
+-   Roberts, Yaida, & Hanin. (2021). *The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*. Forthcoming from Cambridge University Press. [^Roberts2021PDLT]
 
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
 [^Halverson2020]: @Halverson_2020_Neural_networks_and_quantum_field_theory\.
