@@ -504,8 +504,6 @@ Logicism
 -   Russsell expresses support for the platonic "universals" [^Russell1912p91]
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
 -   Shapiro [^Shapiro2000]
--   Neo-logicism
-    -   Linsky & Zalta [^Linsky2006]
 -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
 -   [Frege's theorem](https://en.wikipedia.org/wiki/Frege%27s_theorem)
 
@@ -529,6 +527,11 @@ Logicism
 -   ZFC
 -   Wikipedia: ZFC actually does circumvent Russell's paradox by restricting the
     comprehension axiom to already existing sets by the use of subset axioms.
+
+
+### Neologicism
+
+-   What is Neologicism? [^Linsky2006]
 
 
 Intuitionism
