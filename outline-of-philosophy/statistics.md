@@ -1419,6 +1419,15 @@ Roberts:
 [^Wolpert1997]: @Wolpert_1997_No_free_lunch_theorems_for_optimization\.
 
 
+### Universal approximation theorem
+
+-   Multi-layer perceptions with two or more layers are universal
+    approximators.  [^Bishop2006p230]
+-   Seemed slow the interest in deeper networks?
+
+[^Bishop2006p230]: @Bishop_2006_Pattern_Recognition_and_Machine_Learning\, p. 230.
+
+
 ###  Graphical tensor notation
 
 -   [Penrose graphical notation](https://en.wikipedia.org/wiki/Penrose_graphical_notation)
