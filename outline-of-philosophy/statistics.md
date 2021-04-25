@@ -338,8 +338,6 @@ Point estimation and confidence intervals
 
 ### Inverse problems
 
--   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
-
 Recall that in the context of parametric models of data, $x_i$
 the pdf of which is modeled by a function, $f(x_i ; \theta_j)$ with parameters, $\theta_j$.
 In a statistical [inverse problem](https://en.wikipedia.org/wiki/Inverse_problem),
@@ -347,8 +345,8 @@ the goal is to infer values of the model parameters, $\theta_j$
 given some finite set of data, $\{x_i\}$ sampled from a probability density,
 $f(x_i; \theta_j)$ that models the data reasonably well.
 
--   estimators
--   regression
+-   Estimators
+-   Regression
 -   Accuracy vs precision [^Cowan1998pX]
 
 
