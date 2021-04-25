@@ -475,6 +475,8 @@ Exotics in quantum field theory
     -   Simon Donaldson and Edward Witten
     -   [cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
     -   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos) - nLab
+-   See also: [differential geometry](math.html#differential-geometry) in the outline
+    on [mathematics](math.html).
 
 Maudlin:
 

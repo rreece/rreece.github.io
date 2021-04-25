@@ -28,6 +28,7 @@ Consciousness
 -   Mach [^Mach1914]
 -   Putnam
 -   Nagel [^Nagel1974]
+-   Searle: a biological process like digestion
 -   Churchland's
 -   Dennett [^Dennett1991]
 -   Chalmers [^Chalmers1996]
@@ -99,13 +100,14 @@ Neuroscience
 
 ### Theoretical neuroscience
 
--   [Free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle), active inference
--   Karl Friston
+-   active inference
+    -   [Free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle)
+    -   Karl Friston
+    -   Mel Andrews
 
 
 ### Experimental neuroscience
 
--   TODO
 -   Libet experiments
 -   Markram, H. et al. (2017). [Blue Brain team discovers a multi-dimensional universe in brain networks](https://blog.frontiersin.org/2017/06/12/blue-brain-team-discovers-a-multi-dimensional-universe-in-brain-networks/).
 -   Markram, H. et al. (2020). [New evidence for innate knowledge](https://actu.epfl.ch/news/new-evidence-for-innate-knowledge-3/).
@@ -122,15 +124,13 @@ Neuroscience
 Artificial intelligence
 --------------------------------------------------------------------------------
 
--   TODO
 -   See also:
     -   [Deep learning](statistics.html#deep-learning)
     -   [Artificial intelligence](future.html#artificial-intelligence)
 
-
 ### Criticism
 
--   John Searle - Chinese room argument
+-   John Searle - [Chinese room argument](https://en.wikipedia.org/wiki/Chinese_room)
 -   Hubert Dreyfus
 -   TODO: counter-criticism
 

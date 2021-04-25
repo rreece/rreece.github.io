@@ -114,8 +114,10 @@ TODO
 -   Chern-Simons
 -   TODO: review by Fr&egrave; [^Fre2013v1ch2]
     -   manifold, tangent and cotangent spaces, vector bundle, fiber bundle
+-   Introduction to connections on principal fibre bundles [^Way2010]
 
 [^Fre2013v1ch2]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_1\, ch. 2.
+[^Way2010]: @Way_2010_Introduction_to_connections_on_principal_fibre\.
 
 
 Logic
@@ -503,9 +505,11 @@ Logicism
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
 -   Shapiro [^Shapiro2000]
 -   Neo-logicism
+    -   Linsky & Zalta [^Linsky2006]
 -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
 -   [Frege's theorem](https://en.wikipedia.org/wiki/Frege%27s_theorem)
 
+[^Linsky2006]: @Linsky_2006_What_is_Neologicism\.
 [^Russell1905]: @Russell_1905_On_Denoting\.
 [^Russell1912p91]: @Russell_1912_The_Problems_of_Philosophy\, p. 91--118.
 [^Shapiro2000]: @Shapiro_2000_Thinking_about_Mathematics_The_Philosophy\.
