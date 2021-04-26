@@ -5,7 +5,7 @@ This outline discusses the history of science,
 the definition of the scientific method,
 its central role in founding a scientific epistemology,
 the demarcation of science from pseudoscience,
-and other *epistemological* topics concerning the methods
+and other _**epistemological**_ topics concerning the methods
 and philosophy of science. 
 The metaphysical implications of science
 are discussed in the [Outline on scientific realism](scientific-realism.html).
@@ -1183,17 +1183,17 @@ The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*. Russel
 [^Gettier1963]: @Gettier_1963_Is_justified_true_belief_knowledge\.
 
 
-#### Internalism vs externalism
-
--   TODO?
-
-
 #### Systematic uncertainties
 
 -   Failed justification
 -   Mayo on error statistics and severe testing
 -   TODO: discussion by me
 -   See also: [Sinervo classification of systematic uncertainties](#sinervo-classification-of-systematic-uncertainties)
+
+
+#### Internalism vs externalism
+
+-   TODO?
 
 
 ### Scientific knowledge

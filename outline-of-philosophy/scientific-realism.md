@@ -4,7 +4,7 @@ Scientific realism
 Can we claim to know anything about reality?
 Is it a goal of science to describe reality?
 Does science make any progress at describing reality?
-This outline focuses on the issues of *metaphysical* progress
+This outline focuses on the issues of _**metaphysical**_ progress
 from science, while the 
 [Outline on the scientific method](scientific-method.html)
 discusses the epistemological foundations and limitations of science.
