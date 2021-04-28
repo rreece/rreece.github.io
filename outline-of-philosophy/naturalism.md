@@ -465,11 +465,14 @@ Alex Rosenberg is a mad dog against emergence. Video:
 
 ### Criticism
 
+-   Schweber, S.S. (1993). The ebb and flow of reductionism. [^Schweber1993]
+
 Wittgenstein:
 
 >   There are, indeed, things that cannot be put into words.
 >   They *make themselves manifest*. They are what is mystical. [^WittgensteinTLP_6_522]
 
+[^Schweber1993]: @Schweber_1993_The_ebb_and_flow_of_of_reductionism\.
 [^WittgensteinTLP_6_522]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\, 6.522.
 
 
@@ -516,6 +519,9 @@ Rejection of the supernatural
 -   Part of methodological naturalism.
     -   Not an a priori assumption but an empirical conclusion
     -   Dennett: Naturalism is a method of explaining a magic trick without appealing to magic.
+-   How to define magic and what it could be.
+    -   Aleister Crowley: Magick "is the Science and Art of causing change to occur in conformity with Will."
+    -   To the degree you can control the physical world, naturalists would call this "technology".
 -   The Lewis-Anscombe debate
     -   [The Lewis-Anscombe debate](http://thecslewis-studygroup.org/the-c-s-lewis-study-group/lewis-genre/theology/miracles-2/the-lewisanscombe-debate/)
     -   The rewrite of chapter 3 in *Miracles* [^Lewis1947]
@@ -750,6 +756,7 @@ Criticisms of naturalism
 
 ### Culture wars
 
+-   The Two Cultures
 -   2 + 2 = 5 Twitter controversy
     -   <https://twitter.com/kareem_carr/status/1288991602069970946>
     -   <https://twitter.com/EpiEllie/status/1291744508376383488>
@@ -767,6 +774,8 @@ Criticisms of naturalism
     -   Jacobson, D. et al. (2021). [Open letter concerning academic freedom](https://sites.google.com/view/open-letter-stock-freedom/).
     -   Stock, K. (2021). [The sinister attempts to silence gender critical academics](https://www.spectator.co.uk/article/the-sinister-attempts-to-silence-gender-critical-academics).
     -   Stock, K. (2021). [I refuse to be bullied into silence](https://www.dailymail.co.uk/news/article-9155659/I-refuse-bullied-silence-PROFESSOR-KATHLEEN-STOCK.html).
+-   Diversity in philosophy
+    -   Gross, D.A. (2021). [Peter Singer is committed to controversial ideas](https://www.newyorker.com/culture/the-new-yorker-interview/peter-singer-is-committed-to-controversial-ideas). *The New Yorker*. April 25, 2021.
 
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.

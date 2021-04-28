@@ -58,6 +58,7 @@ Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of 
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24). Oxford University Press.
 Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. *Philosophical Studies*. https://link.springer.com/article/10.1007%2Fs11098-021-01634-z
 Schwartz, M.D. (2014). *Quantum Field Theory and the Standard Model*. Cambridge University Press.
+Schweber, S.S. (1993). The ebb and flow of of reductionism. In Brown, L.M. (Ed.) *Renormalization: From Lorentz to Landau (and Beyond)* (pp. 155-166). Springer-Verlag.
 Seidewitz, E. (2017). Avoiding Haag's Theorem with Parameterized Quantum Field Theory. *Foundations of Physics*, 47(3), 355--374.
 Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.
 Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, III. https://space.mit.edu/home/tegmark/everett/

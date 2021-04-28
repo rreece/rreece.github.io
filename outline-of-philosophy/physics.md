@@ -866,7 +866,8 @@ Complexity and emergence
     -   [Mariam Thalos - 3:AM Magazine interview](https://www.3ammagazine.com/3am/multi-scale-existentialist-freedoms/)
 -   [Closer To Truth: What's Strong Emergence?](https://www.youtube.com/watch?v=zkffv2nVF64)
     -   George F. R. Ellis vs Barry Loewer
--   See also the [Outline on naturalism](naturalism.html#reductionism)
+-   See also the [Reductionism](naturalism.html#reductionism) in the
+    [Outline on naturalism](naturalism.html#reductionism).
 
 Anderson:
 
