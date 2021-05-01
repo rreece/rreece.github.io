@@ -217,19 +217,19 @@ Weinberg:
 ### The Age of Enlightenment
 
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
--   [Boyle, Robert](http://en.wikipedia.org/wiki/Robert_Boyle) (1627-1691)
--   [Barrow, Isaac](https://en.wikipedia.org/wiki/Isaac_Barrow) (1630-1677)
--   [Locke, John](http://en.wikipedia.org/wiki/John_Locke) (1632-1704)
--   [Spinoza, Baruch](http://en.wikipedia.org/wiki/Baruch_Spinoza) (1632-1677)
--   [Hooke, Robert](https://en.wikipedia.org/wiki/Robert_Hooke) (1635-1703)
--   [Newton, Isaac](http://en.wikipedia.org/wiki/Isaac_Newton) (1642-1727)
--   [Leibniz, Gottfried Wilhelm](http://en.wikipedia.org/wiki/Gottfried_Leibniz) (1646-1716)
--   [Halley, Edmond](http://en.wikipedia.org/wiki/Edmond_Halley) (1656-1742)
+-   [Robert Boyle](http://en.wikipedia.org/wiki/Robert_Boyle) (1627-1691)
+-   [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow) (1630-1677)
+-   [John Locke](http://en.wikipedia.org/wiki/John_Locke) (1632-1704)
+-   [Baruch Spinoza](http://en.wikipedia.org/wiki/Baruch_Spinoza) (1632-1677)
+-   [Robert Hooke](https://en.wikipedia.org/wiki/Robert_Hooke) (1635-1703)
+-   [Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton) (1642-1727)
+-   [Gottfried Wilhelm Leibniz](http://en.wikipedia.org/wiki/Gottfried_Leibniz) (1646-1716)
+-   [Edmond Halley](http://en.wikipedia.org/wiki/Edmond_Halley) (1656-1742)
 -   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(mathematician)) (1675-1749)
--   [Berkeley, George](https://en.wikipedia.org/wiki/George_Berkeley) (1685-1753)
--   [Reid, Thomas](https://en.wikipedia.org/wiki/Thomas_Reid) (1710-1796)
--   [Hume, David](http://en.wikipedia.org/wiki/David_Hume) (1711-1776)
--   [Kant, Immanuel](https://en.wikipedia.org/wiki/Immanuel_Kant) (1724-1804)
+-   [George Berkeley](https://en.wikipedia.org/wiki/George_Berkeley) (1685-1753)
+-   [Thomas Reid](https://en.wikipedia.org/wiki/Thomas_Reid) (1710-1796)
+-   [David Hume](http://en.wikipedia.org/wiki/David_Hume) (1711-1776)
+-   [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant) (1724-1804)
 
 
 ### Canonical classical physics
@@ -256,28 +256,28 @@ Weinberg:
 
 ### "Scientists"
 
--   [Dalton, John (1766-1844)](https://en.wikipedia.org/wiki/John_Dalton)
+-   [John Daltonn](https://en.wikipedia.org/wiki/John_Dalton) (1766-1844)
     -   atomic theory
--   [Somerville, Mary (1780-1872)](https://en.wikipedia.org/wiki/Mary_Somerville)
+-   [Mary Somerville](https://en.wikipedia.org/wiki/Mary_Somerville) (1780-1872)
     -   *On the Connexion of the Physical Sciences* (1834)
--   [Babbage, Charles (1791-1871)](https://en.wikipedia.org/wiki/Charles_Babbage)
--   [Herschel, John (1792-1871)](https://en.wikipedia.org/wiki/John_Herschel)
+-   [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) (1791-1871)
+-   [John Herschel](https://en.wikipedia.org/wiki/John_Herschel) (1792-1871)
     -   *Preliminary Discourse* (1831)
--   [Whewell, William (1794-1866)](http://en.wikipedia.org/wiki/William_Whewell)
+-   [William Whewell](http://en.wikipedia.org/wiki/William_Whewell) (1794-1866)
     -   Coined the term "scientist" (previously natural philosopher)
--   [Mill, John Stuart (1806-1873)](https://en.wikipedia.org/wiki/John_Stuart_Mill)
--   [Pasteur, Louis (1822-1895)](https://en.wikipedia.org/wiki/Louis_Pasteur)
--   [Ladd-Franklin, Christine (1847-1930)](https://en.wikipedia.org/wiki/Christine_Ladd-Franklin)
--   [Discovery of Neptune (1846)](https://en.wikipedia.org/wiki/Discovery_of_Neptune)
+-   [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) (1806-1873)
+-   [Louis Pasteur](https://en.wikipedia.org/wiki/Louis_Pasteur) (1822-1895)
+-   [Christine Ladd-Franklin](https://en.wikipedia.org/wiki/Christine_Ladd-Franklin) (1847-1930)
+-   [Discovery of Neptune](https://en.wikipedia.org/wiki/Discovery_of_Neptune) (1846)
 
 
 ### Biological evolution
 
--   [Darwin, Erasmus (1731-1802)](https://en.wikipedia.org/wiki/Erasmus_Darwin)
--   [Darwin, Charles (1809-1882)](http://en.wikipedia.org/wiki/Charles_Darwin)
--   [Mendel, Gregor (1822-1884)](https://en.wikipedia.org/wiki/Gregor_Mendel)
--   [Wallace, Alfred Russel (1823-1913)](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace)
--   [Huxley, Thomas Henry (1825-1895)](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley)
+-   [Erasmus Darwin](https://en.wikipedia.org/wiki/Erasmus_Darwin) (1731-1802)
+-   [Charles Darwin](http://en.wikipedia.org/wiki/Charles_Darwin) (1809-1882)
+-   [Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel) (1822-1884)
+-   [Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace) (1823-1913)
+-   [Thomas Henry Huxley](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley) (1825-1895)
 
 
 ### Modern physics
