@@ -215,6 +215,7 @@ Churchland:
 
 ### Criticism
 
+-   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
 -   G.E. Moore's [Open-question argument](https://en.wikipedia.org/wiki/Open-question_argument)
 -   [Moore's Moral Philosophy](https://plato.stanford.edu/entries/moore-moral/)
 

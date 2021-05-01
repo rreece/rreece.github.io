@@ -527,14 +527,14 @@ Rejection of the supernatural
     -   [The Lewis-Anscombe debate](http://thecslewis-studygroup.org/the-c-s-lewis-study-group/lewis-genre/theology/miracles-2/the-lewisanscombe-debate/)
     -   The rewrite of chapter 3 in *Miracles* [^Lewis1947]
 
-See also:
-
--   [Atheism](human-condition.html#atheism)
-
 Jenkins says naturalism is
 
 >   the view that a broadly scientific world-view is correct, and there exists
 >   nothing supernatural or otherwise spooky. [^Jenkins2014]
+
+See also:
+
+-   [Atheism](human-condition.html#atheism)
 
 [^Jenkins2014]: @Jenkins_2014_Naturalism_and_norms_of_inference\.
 [^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.

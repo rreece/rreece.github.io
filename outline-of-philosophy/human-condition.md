@@ -71,6 +71,7 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
     -   [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) (c. 1,810-1,750 BCE)
     -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1,754 BCE)
     -   [Library of Ashurbanipal](https://en.wikipedia.org/wiki/Library_of_Ashurbanipal) (c. 7th century BCE)
+    -   [*Epic of Gilgamesh*](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh)
 -   [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt) - [First Dynasty](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt) (c. 3,150-2,890 BCE)
     -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing begins c. 3,200 BCE.
 -   [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) (c. 2,500-539 BCE)
@@ -1362,6 +1363,7 @@ Me: And then there was hip hop.
 
 -   [Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade) (1740-1814)
 -   [Isaiah Berlin](https://en.wikipedia.org/wiki/Isaiah_Berlin) (1909-1997)
+    -   *The Roots of Romanticism* (1965)
 -   [Saul Bellow](https://en.wikipedia.org/wiki/Saul_Bellow) (1915-2005)
 -   [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (b. 1933)
 -   [Camille Paglia](https://en.wikipedia.org/wiki/Camille_Paglia) (b. 1947)
