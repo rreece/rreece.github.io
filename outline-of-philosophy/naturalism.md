@@ -303,9 +303,10 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
 
 ### Analytic/continental divide
 
--   Counter-Enlightenment
+-   [Counter-Enlightenment](https://en.wikipedia.org/wiki/Counter-Enlightenment)
     -   G.W.F. Hegel (1770-1831)
     -   Criticism of Kant
+    -   Berlin, I. (1973). "The Counter-Enlightenment".
 -   Cassirer-Heidegger debate
     -   Heidegger, M. (1929). What is metaphysics? [^Heidegger1929]
     -   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932]

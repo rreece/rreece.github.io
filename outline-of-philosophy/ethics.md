@@ -222,31 +222,48 @@ Churchland:
 Political philosophy
 --------------------------------------------------------------------------------
 
+### Capitalism
+
 -   Feudalism
 -   Mercantilism
--   Capitalism/Liberalism
+-   Liberalism
+    -   J.S. Mill
     -   Hayek, F. (1945). The use of knowledge in society. [^Hayek1945]
--   Marxism
--   Socialism
-    -   Video: [Ted Turner asks Carl Sagan if he is a socialist](https://www.youtube.com/watch?v=rDK2chgNPZM)
 -   Libertarianism
 -   Neoliberalism
 
-Shields:
 
->   Every one of us has been warmed by fires we did not build.
->   Every one of us has drank from wells we did not dig. [^Shields2020]
+### Marxism
+
+-   Karl Marx and Friedrich Engels
+
+*Criticism*
 
 Solzhenitsyn:
 
 >   If only there were evil people somewhere insidiously committing evil deeds,
 >   and it were necessary only to separate them from the rest of us and destroy
 >   them. But the line dividing good and evil cuts through the heart of every
->   human being. And who is willing to destroy a piece of his own heart? [^SolzhenitsynGApart1ch4]
+>   human being. And who is willing to destroy a piece of his own
+>   heart? [^SolzhenitsynGApart1ch4]
+
+-   Berlin, I. (1994). A message to the twenty first century. [^Berlin1994]
+
+[^Berlin1994]: @Berlin_1994_A_message_to_the_twenty_first_century\.
+[^SolzhenitsynGApart1ch4]: Solzhenitsyn, A. *The Gulag Archipelago*, Part 1, Ch. 4.
+
+
+### Socialism
+
+-   Video: [Ted Turner asks Carl Sagan if he is a socialist](https://www.youtube.com/watch?v=rDK2chgNPZM)
+
+Shields:
+
+>   Every one of us has been warmed by fires we did not build.
+>   Every one of us has drank from wells we did not dig. [^Shields2020]
 
 [^Hayek1945]: @Hayek_1945_The_use_of_knowledge_in_society\.
 [^Shields2020]: Shields, M. (2020). [The last night of Mark Shields on the PBS News Hour](https://www.youtube.com/watch?v=a1MKG_3jC9g&ab_channel=PBSNewsHour).
-[^SolzhenitsynGApart1ch4]: Solzhenitsyn, A. *The Gulag Archipelago*, Part 1, Ch. 4.
 
 
 Free speech 

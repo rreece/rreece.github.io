@@ -1346,12 +1346,22 @@ description or imitation:
 >   the passions...the inferior parts of them are descriptive of natural
 >   objects. [^Jones2013]
 
+Berlin:
+
+>   The importance of romanticism is that it is the largest recent
+>   movement to transform the lives and the thought of the Western
+>   world. [^Berlin1999p1]
+
+Me: And then there was hip hop.
+
+[^Berlin1999p1]: @Berlin_1999_The_Roots_of_Romanticism\, p. 1.
 [^Jones2013]: @Jones_2013_The_Works_of_Sir_William_Jones\, p. 379.
 
 
 ### Criticism
 
 -   [Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade) (1740-1814)
+-   [Isaiah Berlin](https://en.wikipedia.org/wiki/Isaiah_Berlin) (1909-1997)
 -   [Saul Bellow](https://en.wikipedia.org/wiki/Saul_Bellow) (1915-2005)
 -   [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (b. 1933)
 -   [Camille Paglia](https://en.wikipedia.org/wiki/Camille_Paglia) (b. 1947)
