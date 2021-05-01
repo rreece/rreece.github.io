@@ -179,6 +179,8 @@ Weinberg:
     -   First to demonstrate the success of the intromission theory over the extramission theory of vision.
     -   *Doubts Concerning Ptolemy*
     -   "But for a man to imagine a circle in the heavens, and to imagine the planet moving in it does not bring about the planet's motion... And therefore the arrangements assumed by Ptolemy for the five planets are false, and he asserted them knowing them to be false, and there exists for the planets a true arrangement in existing bodies which Ptolemy failed to grasp." [^Sabra1978]
+    -   "Ibn al-Haytham was an early proponent of the concept that a hypothesis must be supported by experiments based on confirmable procedures or mathematical evidence—an early pioneer in the scientific method five centuries before Renaissance scientists." - Wikipedia
+    -   [The first true scientist](http://news.bbc.co.uk/2/hi/science/nature/7810846.stm) - By Jim Al-Khalili
 -   [Reconquest of Toledo](https://en.wikipedia.org/wiki/History_of_Toledo,_Spain#Medieval_Toledo_after_the_Reconquest) (1085)
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
 -   [Roger Bacon](http://en.wikipedia.org/wiki/Roger_Bacon) (1214-1292)

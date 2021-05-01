@@ -37,6 +37,7 @@ careful ways of framing inductive arguments and notions of confidence in them.
 
 ### Early investigators
 
+-   "Ibn al-Haytham was an early proponent of the concept that a hypothesis must be supported by experiments based on confirmable procedures or mathematical evidence—an early pioneer in the scientific method five centuries before Renaissance scientists." - Wikipedia
 -   [John Graunt](https://en.wikipedia.org/wiki/John_Graunt) (1620-1674)
 -   [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli) (1655-1705)
     -   *Ars Conjectandi* (1713, posthumous)
@@ -1270,6 +1271,7 @@ Computer Vision (CV)
 -   Scaling laws in NLP
     -   Rationalism and empiricism in artificial intellegence:
         A survey of 25 years of evaluation [in NLP]. [^Church2019]
+    -   Kaplan, J. et al. (2020). [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361). [^Kaplan2020]
 -   Attention and Transformers
     -   Transformer [^Vaswani2017]
     -   BERT [^Devlin2018]
@@ -1287,6 +1289,7 @@ Computer Vision (CV)
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
+[^Kaplan2020]: @Kaplan_2020_Scaling_laws_for_neural_language_models\.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations and
     @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\.
@@ -1527,7 +1530,9 @@ Information geometry
 
 -   "Geometric understanding of deep learning" [^Lei2018]
 -   Gao, Y. & Chaudhari, P. (2020). [An information-geometric distance on the space of tasks](https://arxiv.org/abs/2011.00613).
+-   Bronstein, M.M. et al. (2021). [Geometric deep learning: Grids, groups, graphs, geodesics, and gauges](https://arxiv.org/abs/2104.13478). [^Bronstein2021]
 
+[^Bronstein2021]: @Bronstein_2021_Geometric_deep_learning_Grids_groups_graphs\.
 [^Lei2018]: @Lei_2018_Geometric_understanding_of_deep_learning
 
 

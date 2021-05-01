@@ -166,10 +166,12 @@ Symmetry-first physics
 
 -   Wigner-Stone theorems as cornerstones of QM (Ovrut)
 -   Wigner's classification
+-   Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. [^Schweber1961]
 -   Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. [^Schroeren2021]
 -   See also: [Quantum field theory](#quantum-field-theory)
 
 [^Schroeren2021]: @Schroeren_2021_Symmetry_fundamentalism_in_quantum_mechanics\.
+[^Schweber1961]: @Schweber_1961_An_Introduction_to_Relativistic_Quantum_Field\, p. TODO.
 
 
 Quantum mechanics
@@ -194,6 +196,11 @@ Quantum mechanics
 -   Heisenberg
 -   Schr&ouml;dinger
 -   Born
+
+
+### Hydrogen atom
+
+-   TODO
 
 
 ### Foundations of QM
@@ -253,6 +260,12 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 
 [^Drossel2015]: @Drossel_2015_On_the_relation_between_the_second_law\, p. 51--2.
 [^Giulini1996]: @Giulini_1996_Decoherence_and_the_Appearance_of_a_Classical\.
+
+### Quantum chemistry
+
+-   Cao et al. (2019). Physical origin of chemical periodicities. [^Cao2019]
+
+[^Cao2019]: @Cao_2019_Physical_origin_of_chemical_periodicities\.
 
 
 Quantum field theory
