@@ -697,6 +697,7 @@ Click to show links
 -   [Identity theory of truth](http://plato.stanford.edu/entries/truth-identity/)
 -   [Inconsistent tathematics](http://plato.stanford.edu/entries/mathematics-inconsistent/)
 -   [Indispensability arguments in the philosophy of mathematics](http://plato.stanford.edu/entries/mathphil-indis/)
+-   [Infinity](https://plato.stanford.edu/entries/infinity/)
 -   [Intuitionism in the philosophy of mathematics](http://plato.stanford.edu/entries/intuitionism/)
 -   [Intuitionistic Logic, Development of](https://plato.stanford.edu/entries/intuitionistic-logic-development/)
 -   [Intuitionistic type theory](https://plato.stanford.edu/entries/type-theory-intuitionistic/)
