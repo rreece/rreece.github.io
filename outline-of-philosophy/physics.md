@@ -488,6 +488,7 @@ Exotics in quantum field theory
     -   Simon Donaldson and Edward Witten
     -   [cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
     -   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos) - nLab
+    -   Baez, J.C. & Stay, M. (2009). [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) [^Baez2009]
 -   See also: [differential geometry](math.html#differential-geometry) in the outline
     on [mathematics](math.html).
 
@@ -511,6 +512,7 @@ Maudlin:
 >   fiber bundles directly, not by trying to translate modern mathematics into
 >   archaic philosophical terminology. [^Maudlin2007p101]
 
+[^Baez2009]: @Baez_2009_Physics_Topology_Logic_and_Computation\.
 [^Healey2007ch2]: @Healey_2007_Gauging_Whats_Real\, ch. 2-4.
 [^Maudlin2007p96]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 96.
 [^Maudlin2007p101]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 101.

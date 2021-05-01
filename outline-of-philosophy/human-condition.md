@@ -1337,6 +1337,7 @@ Romanticism
     -   [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) (1749-1832)
     -   Haydn and Mozart
 -   [Weimar Classicism](https://en.wikipedia.org/wiki/Weimar_Classicism)
+-   [William Blake](https://en.wikipedia.org/wiki/William_Blake) (1757-1827)
 
 William Jones, in his 1772 "Essay on the Arts called Imitative", was one of the
 first to propound an expressive theory of poetry, valorising expression over

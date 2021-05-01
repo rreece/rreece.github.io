@@ -1,4 +1,5 @@
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
+Baez, J.C. & Stay, M. (2009). Physics, Topology, Logic and Computation: A Rosetta Stone. https://arxiv.org/abs/0903.0340
 Baggott, J. (2013). *Farewell to Reality: How modern physics has betrayed the search for scientific truth*. Pegasus Books.
 Bain, J. (2000). Against particle/field duality: Asymptotic particle states and interpolating fields in interacting QFT, or Who's afraid of Haag's theorem? *Erkenntnis*, 53(3), 375--406.
 Bain, J. (2013). Effective field theories. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 224--254). Oxford University Press.
