@@ -183,7 +183,7 @@ Quantum mechanics
 -   Hilbert spaces.  Wigner's theorem.  The Born rule.
 -   Wave-particle duality misconceptions.  Fields are more fundamental than particles.
 -   The measurement problem.  Decoherence.  The Born rule again.
--   Decoherence brings quantum logic to classical logic.
+-   Decoherence brings quantum logic to classical logic?
 
 [^Ney2013]: @Ney_2013_The_Wave_Function_Essays_on_the_metaphysics\.
 
@@ -254,12 +254,17 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 
 ### Decoherence
 
--   *Decoherence and the Appearance of a Classical World in Quantum Theory* [^Giulini1996]
+-   *Decoherence and the Appearance of a Classical World in Quantum Theory* [^Joos2003]
+-   Decoherence times from various scatterings [^Tegmark1993]
 -   Drossel [^Drossel2015]
 -   My quora answer: [What is currently the best explanation for how and why the quantum wave function collapses?](https://www.quora.com/What-is-currently-the-best-explanation-for-how-and-why-the-quantum-wave-function-collapses/answer/Ryan-Reece)
+-   Decoherence and Everett's interpretation
+    -   See also:[Everettian interpretation](#everettian-interpretation)
 
 [^Drossel2015]: @Drossel_2015_On_the_relation_between_the_second_law\, p. 51--2.
-[^Giulini1996]: @Giulini_1996_Decoherence_and_the_Appearance_of_a_Classical\.
+[^Joos2003]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\.
+[^Tegmark1993]: @Tegmark_1993_Apparent_wave_function_collapse_caused\.
+
 
 ### Quantum chemistry
 
@@ -280,6 +285,26 @@ Quantum field theory
 -   CPT theorem
 -   Feynman's Nobel Lecture on QED [^Feynman1965]
 -   Wolchover, N. (2020). [What is a particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
+-   Wave-particle duality
+
+Baez, Segal, & Zhou:
+
+>   Quantum field theory is quintessentially the algebra and analysis of
+>   infinite-dimensional dynamical systems, as constrained by quantum
+>   phenomenology, causality, and symmetry. Although it has a clear-cut
+>   central goal, that of the realistic description of particle production
+>   and annihilation in terms of the localized interactions of fields in
+>   space-time, it is clear from this description that it is a multifaceted
+>   subject. [^Baez1992p1]
+
+Baez, Segal, & Zhou on wave-particle duality:
+
+>   The treatment of the dynamics of quantum systems turns out to be naturally
+>   undertaken in terms of field rather than particle concepts, by virtue of
+>   the local character of relativistic interactions. In mathematical terms,
+>   the *field* is diagonalizcd in the functional integration representation,
+>   just as the *particle numbers* are diagonalized in the tensor product
+>   representation. [^Baez1992p59]
 
 Pedagogy:
 
@@ -289,8 +314,11 @@ Pedagogy:
 -   David Tong [^Tong2006]
 -   Zeidler, vol 1 [^Zeidler2007], 2 [^Zeidler2008], and 3 [^Zeidler2011]
 
+[^Baez1992p1]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 1.
+[^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
 [^Feynman1965]: @Feynman_1965_The_Development_of_the_Space_Time_View_of_Quantum\.
+[^Peskin1995]: @Peskin_1995_An_Introduction_to_Quantum_Field_Theory\.
 [^Schwartz2014]: @Schwartz_2014_Quantum_Field_Theory_and_the_Standard_Model\.
 [^Tong2006]: @Tong_2006_Lectures_on_Quantum_Field_Theory\.
 [^Zee2013]: @Zee_2003_Quantum_Field_Theory_in_a_Nutshell\.
@@ -307,6 +335,7 @@ Pedagogy:
     -   [Orientation entanglement](https://en.wikipedia.org/wiki/Orientation_entanglement)
     -   Spatial vectors alone are not sufficient to describe fully the properties of rotations in space.
 -   Peskin [^Peskin1994]
+-   Sebens [^Sebens2019]
 
 Michael Atiyah:
 
@@ -317,9 +346,10 @@ Michael Atiyah:
 
 [^Dutailly2014p37]: @Dutailly_2014_Particles_and_Fields\, p. 37.
 [^Peskin1994]: @Peskin_1994_Spin_Mass_and_Symmetry\.
+[^Sebens2019]: @Sebens_2019_How_electrons_spin\.
 
 
-### Spin-statistics theorem
+#### Spin-statistics theorem
 
 -   Spin-statistics theorem - Pauli
 
@@ -335,9 +365,11 @@ Michael Atiyah:
 -   Haag-Ruelle scattering theory
 -   Feynman diagrams and Feynman rules
 -   Martin [^Martin2018]
+-   My notes: Reece, R. (2007). Quantum Field Theory: An Introduction. [^Reece2007]
 
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
 [^Martin2018]: @Martin_2018_Phenomenology_of_particle_physics\.
+[^Reece2007]: @Reece_2007_Quantum_Field_Theory_An_Introduction\.
 
 
 ### Path intergrals
@@ -396,9 +428,32 @@ Michael Atiyah:
     -   Taj Mahal principle
 -   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
 
-[^Peskin1995]: @Peskin_1995_An_Introduction_to_Quantum_Field_Theory\.
 [^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
+
+
+#### Algebraic vs constructive QFT
+
+-   AQFT vs LQFT
+-   *Local Quantum Physics* [^Haag1992]
+-   Wallace
+-   Fraser
+
+Kastler:
+
+>   Rudolf [Haag] is not satisfied by a notion of local observables relying
+>   plainly on space and time. Instead he wishes to base the theory on concepts
+>   related to individual processes. This attitude seems to me to move towards a
+>   basic "algebra of procedures", pointing towards a theory of (non-commutative)
+>   space-time. I know that, coming from a very different angle, Alain Connes
+>   also believes the ultimate algebra of basic physics to be a discrete algebra
+>   of elements standing for experimental procedures---following the idea 
+>   that the spatial notions man acquires in his cradle are less basic than
+>   his procedures at [particle] accelerators. [^Kastler2003p6]
+
+[^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
+[^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
+
 
 
 ### Haag's theorem
@@ -447,28 +502,6 @@ Michael Atiyah:
 [^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
 [^Teller1997p115]: @Teller_1997_An_Interpretive_Introduction_to_Quantum_Field\, p. 115.
 
-
-### Algebraic vs constructive QFT
-
--   AQFT vs LQFT
--   *Local Quantum Physics* [^Haag1992]
--   Wallace
--   Fraser
-
-Kastler:
-
->   Rudolf [Haag] is not satisfied by a notion of local observables relying
->   plainly on space and time. Instead he wishes to base the theory on concepts
->   related to individual processes. This attitude seems to me to move towards a
->   basic "algebra of procedures", pointing towards a theory of (non-commutative)
->   space-time. I know that, coming from a very different angle, Alain Connes
->   also believes the ultimate algebra of basic physics to be a discrete algebra
->   of elements standing for experimental procedures---following the idea 
->   that the spatial notions man acquires in his cradle are less basic than
->   his procedures at [particle] accelerators. [^Kastler2003p6]
-
-[^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
-[^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
 
 
 Exotics in quantum field theory
@@ -570,10 +603,14 @@ Interpretations of quantum mechanics
 
 -- from a letter in Appendix B of Feyerabend's *Against Method*
 
+### Measurement problem
+
+-   Penrose: $U$ and $R$ operators
+
 
 ### EPR paradox
 
-TODO
+-   TODO
 
 
 ### Bell's theorem
@@ -604,7 +641,7 @@ TODO
 >   or many independent hypotheses, in no way impresses us as much
 >   as one which is largely free of arbitrariness. [^Barrett2012p171]
 
--   Everett
+-   Hugh Everett III
 -   DeWitt [^DeWitt1970]
 -   note relationship with decoherence
 -   Barrett [^Barrett2011]
@@ -612,6 +649,28 @@ TODO
 -   Wallace, *The Emergent Multiverse* [^Wallace2012]
 -   Carroll's mad-dog Everettianism [^Carroll2019-2]
 -   *Something Deeply Hidden* [^Carroll2019]
+-   Everett's later influence on the theory of decoherence
+
+>   A way out of this dilemma [the measurement problem]
+>   within quantum mechanical concepts requires
+>   one of two possibilities: a modification of the Schr&ouml;dinger equation that
+>   explicitly describes a collapse (also called "spontaneous localization"),
+>   or an Everett type interpretation, in which all measurement outcomes are
+>   assumed to exist in one formal superposition, but to be *perceived*
+>   separately as a consequence of their dynamical autonomy resulting from
+>   decoherence. While this latter suggestion has been called "extravagant" (as it
+>   requires myriads of co-existing quasi-classical "worlds"), it is similar in prin-
+>   ciple to the conventional (though nontrivial) assumption, made tacitly in all
+>   classical descriptions of observation, that consciousness is *localized* in certain
+>   semi-stable and sufficiently complex *subsystems* (such as human brains or
+>   parts thereof) of a much larger external world. Occam's razor, often applied
+>   to the "other worlds", is a dangerous instrument: philosophers of the past
+>   used it to deny the existence of the interior of stars or of the back side of the
+>   moon, for example. So it appears worth mentioning at this point that
+>   environmental decoherence, derived by tracing out unobserved variables from a
+>   universal wave function, readily describes precisely the apparently observed
+>   "quantum jumps" or "collapse events" (as will be discussed in great detail in
+>   various parts of this book). [^Joos2003p22]
 
 [^Barrett2011]: @Barrett_2011_Everetts_pure_wave_mechanics_and_the_notion\.
 [^Barrett2012p171]: @Barrett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\, p. 171.
@@ -619,7 +678,8 @@ TODO
 [^Carroll2019-2]: @Carroll_2019_Mad_Dog_Everettianism_Quantum_mechanics_at_its\.
 [^Carroll2019]: @Carroll_2019_Something_Deeply_Hidden\.
 [^DeWitt1970]: @DeWitt_1970_Quantum_mechanics_and_reality\.
-[^Wallace2012]:_@Wallace_2012_The_Emergent_Multiverse\.
+[^Joos2003p22]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\, p. 22.
+[^Wallace2012]: @Wallace_2012_The_Emergent_Multiverse\.
 
 
 ### Collapse interpretations
@@ -957,9 +1017,9 @@ Annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Giulini, D., E. Joos, C. Kiefer, J. Kupsch, I.O. Stamatescu, & H. Zeh (1996). *Decoherence and the Appearance of a Classical World in Quantum Theory*.
+### Joos, E., Zeh, H.D., Kiefer, C., Kupsch, J., Stamatescu, I.O. (2003). *Decoherence and the Appearance of a Classical World in Quantum Theory*.
 
--   @Giulini_1996_Decoherence_and_the_Appearance_of_a_Classical
+-   @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\.
 
 #### My thoughts
 

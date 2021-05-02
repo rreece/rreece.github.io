@@ -630,6 +630,9 @@ def clean_citation(s):
         new_s = new_s[:-4]
         new_s_lower = new_s.lower()
     ## chop-off prepositions
+    if new_s_lower.endswith('_by'):
+        new_s = new_s[:-3]
+        new_s_lower = new_s.lower()
     if new_s_lower.endswith('_for'):
         new_s = new_s[:-4]
         new_s_lower = new_s.lower()
