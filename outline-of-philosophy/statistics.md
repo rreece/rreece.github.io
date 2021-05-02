@@ -435,9 +435,10 @@ TODO:
 
 -   Least squares from MLE of gaussian models: $\chi^2$
 -   Ordinary Least Squares (OLS)
--   Geometric interpretation
+-   Geometric interpretation [^Murphy2012p222]
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
+[^Murphy2012p222]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 222.
 
 
 ### Variance of MLEs
@@ -1464,7 +1465,7 @@ Roberts:
 
 -   Multi-layer perceptions with two or more layers are universal
     approximators.  [^Bishop2006p230]
--   Seemed slow the interest in deeper networks?
+-   Seemed to slow the interest in deeper networks?
 
 [^Bishop2006p230]: @Bishop_2006_Pattern_Recognition_and_Machine_Learning\, p. 230.
 

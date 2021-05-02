@@ -1915,6 +1915,7 @@ Carl Sagan discussing Nietzsche:
 ### Artworks
 
 -   [Dadaism](https://en.wikipedia.org/wiki/Dada)
+-   [Dynamite](https://frostplace.org/dynamite-by-anders-carlson-wee/) - poem by Anders Carlson-Wee
 
 
 My thoughts
