@@ -822,6 +822,11 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
+Click to show annotated bibliography
+</a></div>
+<div id="annotated_bibliography" class="more">
+
 ### Quine, W.V.O. (1969). Epistemology Naturalized.
 
 -   TODO
@@ -896,6 +901,8 @@ Annotated bibliography
 ### More articles to do
 
 -   @Putnam_2016_Naturalism_Realism_and_Normativity\.
+
+</div>
 
 
 Links and encyclopedia articles

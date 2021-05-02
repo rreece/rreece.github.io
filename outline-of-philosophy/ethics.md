@@ -423,6 +423,11 @@ Thought experiment on moral naturalism:
 Annotated bibliography
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
+Click to show annotated bibliography
+</a></div>
+<div id="annotated_bibliography" class="more">
+
 ### Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*.
 
 -   @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other
@@ -448,6 +453,8 @@ Annotated bibliography
 ### More articles to do
 
 -   TODO
+
+</div>
 
 
 Links and encyclopedia articles

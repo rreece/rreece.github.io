@@ -85,6 +85,11 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
+Click to show annotated bibliography
+</a></div>
+<div id="annotated_bibliography" class="more">
+
 ### Bostrom, N. (2002). Anthropic Bias: Observation selection effects in science and philosophy.
 
 -   TODO.
@@ -121,6 +126,8 @@ Annotated bibliography
 ### More articles to do
 
 -   TODO.
+
+</div>
 
 
 Links and encyclopedia articles

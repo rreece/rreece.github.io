@@ -868,7 +868,7 @@ Replication crisis
 
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
-[^Mayo2021]: @Mayo_2021_Significance_tests_Vitiated_or_vindicated_by\.
+[^Mayo2021]: @Mayo_2021_Significance_tests_Vitiated_or_vindicated\.
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
 
 
@@ -1618,6 +1618,11 @@ My talks:
 Annotated bibliography
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
+Click to show annotated bibliography
+</a></div>
+<div id="annotated_bibliography" class="more">
+
 ### Mayo, D.G. (1996). *Error and the Growth of Experimental Knowledge*.
 
 -   @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge
@@ -1687,6 +1692,8 @@ Annotated bibliography
 
 [^Savage1954]: @Savage_1954_The_Foundations_of_Statistics\.
 [^Wasserman2003]: @Wasserman_2003_All_of_Statistics_A_Concise_Course_in_Statistical\.
+
+</div>
 
 
 Links and encyclopedia articles

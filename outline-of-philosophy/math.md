@@ -615,6 +615,11 @@ My thoughts
 Annotated bibliography
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
+Click to show annotated bibliography
+</a></div>
+<div id="annotated_bibliography" class="more">
+
 ### Wigner, E.P. (1960). The Unreasonable Effectiveness of Mathematics in the Natural Sciences.
 
 -   @Wigner_1960_The_unreasonable_effectiveness_of_mathematics
@@ -648,6 +653,8 @@ Annotated bibliography
 ### More articles to do
 
 -   TODO.
+
+</div>
 
 
 Links and encyclopedia articles

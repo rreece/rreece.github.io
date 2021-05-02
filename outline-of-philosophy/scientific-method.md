@@ -1247,6 +1247,11 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
+Click to show annotated bibliography
+</a></div>
+<div id="annotated_bibliography" class="more">
+
 ### Hume, D. (1748). *An Enquiry Concerning Human Understanding*.
 
 -   @Hume_2007_An_Enquiry_Concerning_Human_Understanding
@@ -1360,6 +1365,8 @@ TODO:
 ### More articles to do
 
 -   TODO.
+
+</div>
 
 
 Links and encyclopedia articles

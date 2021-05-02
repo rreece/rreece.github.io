@@ -259,6 +259,7 @@ Moore & Kelle:
 -   [Shia Islam](https://en.wikipedia.org/wiki/Shia_Islam) - mainly in Iran and Iraq
     -   [Safavid conversion of Iran to Shia Islam](https://en.wikipedia.org/wiki/Safavid_conversion_of_Iran_to_Shia_Islam)
 -   [Sufism](https://en.wikipedia.org/wiki/Sufism) - Islamic mysticism
+    -   [George Gurdjieff](https://en.wikipedia.org/wiki/George_Gurdjieff) (d. 1949)
 
 
 Hinduism
@@ -986,8 +987,9 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 
 Works:
 
--   *Yijing* (also romanized as *I Ching*)
+-   *Yijing* (also romanized as *I Ching*) - *Book of Changes*
     -   *Zhouyi* - The original of *Changes* (1100-800 BCE)
+    -   64 hexagrams, *Gua*
     -   *Yijing* - The *Changes* with the additional *Ten Wings*
     -   Yijing Studies by Bradford Hatcher at [hermetica.info](https://www.hermetica.info/)
     -   SEP: [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
@@ -995,10 +997,10 @@ Works:
 -   *Zhuangzi* - Zhuang Zhou (c. 369-286 BCE)
 -   *Dazhuan* - "The Great Commentary"
 
->   &#19904; Creating        
+>   <span style="font-size:2em">&#19904;</span> Creating        
 >   The greatest fulfillment rewards persistence. [^YijingGua01]
 
->   &#19914; Interplay       
+>   <span style="font-size:2em">&#19914;</span> Interplay       
 >   Smallness departs, greatness arrives         
 >   Promise and fulfillment. [^YijingGua11]
 
@@ -1010,6 +1012,7 @@ Works:
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
 -   [Confucius](https://en.wikipedia.org/wiki/Confucius) (551-479 BCE)
 -   Confucius studied the *Yijing*
+-   [*Analects*](https://en.wikipedia.org/wiki/Analects) (c. 500-200 BCE)
 -   [Rectification of names](https://en.wikipedia.org/wiki/Rectification_of_names)
 
 >   By nature, men are nearly alike; by practice, they get to be wide apart.
@@ -1940,6 +1943,11 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
+Click to show annotated bibliography
+</a></div>
+<div id="annotated_bibliography" class="more">
+
 ### Camus, A. (1942). *The Stranger*.
 
 -   TODO.
@@ -1979,6 +1987,8 @@ Annotated bibliography
 -   Camus, A. (1948). *The Myth of Sisyphus*.
 -   Camus, A. (1956). *The Fall*.
 -   @Peterson_1999_Maps_of_Meaning on Jung
+
+</div>
 
 
 Links and encyclopedia articles

@@ -730,7 +730,8 @@ The standard model of particle physics
 
 ### History of particle physics
 
--   [Rolf Wideroe](https://en.wikipedia.org/wiki/Rolf_Wider%C3%B8e) (1902-1996)
+-   [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) (1871-1937)
+-   [Rolf Wider&oslash;e](https://en.wikipedia.org/wiki/Rolf_Wider%C3%B8e) (1902-1996)
 -   [Ernest Lawrence](https://en.wikipedia.org/wiki/Ernest_Lawrence) (1901-1958)
 -   [Particle accelerator](https://en.wikipedia.org/wiki/Particle_accelerator)
 -   [Particle physics](https://en.wikipedia.org/wiki/Particle_physics)
@@ -738,6 +739,7 @@ The standard model of particle physics
 -   [SLAC National Accelerator Laboratory](https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory)
 -   [$J/\psi$ meson](https://en.wikipedia.org/wiki/J/psi_meson) - "November Revolution" in particle physics (1974)
 -   [European Organization for Nuclear Research (CERN)](https://en.wikipedia.org/wiki/CERN)
+-   [Carlo Rubbia](https://en.wikipedia.org/wiki/Carlo_Rubbia) (b. 1934)
 -   [Fermilab](https://en.wikipedia.org/wiki/Fermilab)
 
 
@@ -996,6 +998,11 @@ My thoughts
 Annotated bibliography
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
+Click to show annotated bibliography
+</a></div>
+<div id="annotated_bibliography" class="more">
+
 ### Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?
 
 -   @Einstein_1935_Can_quantum_mechanical_description_of_physical
@@ -1057,6 +1064,8 @@ Annotated bibliography
 
 -   [Aaronson, S. (2015). "Bell inequality violation finally done right."](http://www.scottaaronson.com/blog/?p=2464)
 -   [Hensen, B. et al. (2015). "Experimental loophole-free violation of a Bell inequality using entangled electron spins separated by 1.3 km."](http://arxiv.org/abs/1508.05949)
+
+</div>
 
 
 Links and encyclopedia articles

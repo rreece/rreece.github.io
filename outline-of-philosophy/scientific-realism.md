@@ -1267,6 +1267,11 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Annotated bibliography
 --------------------------------------------------------------------------------
 
+<div class="clickmore"><a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
+Click to show annotated bibliography
+</a></div>
+<div id="annotated_bibliography" class="more">
+
 ### Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus*.
 
 -   TODO: The meaning of language is a picture of affairs.
@@ -1608,6 +1613,8 @@ Annotated bibliography
 -   Ross, D., Ladyman, J., & Kincaid, H. (2013). Scientific Metaphysics.
 -   French, S. (2014). The Structure of the World: Metaphysics and Representation.
 -   Tegmark, M. (2014). Our Mathematical Universe: My Quest for the Ultimate Nature of Reality.
+
+</div>
 
 
 Links and encyclopedia articles
