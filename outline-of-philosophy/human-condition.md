@@ -986,16 +986,24 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 
 Works:
 
--   *Yijing* (also romanized as *I Ching*) - "Book of Changes"  (c. 900 BCE)
+-   *Yijing* (also romanized as *I Ching*)
+    -   *Zhouyi* - The original of *Changes* (1100-800 BCE)
+    -   *Yijing* - The *Changes* with the additional *Ten Wings*
     -   Yijing Studies by Bradford Hatcher at [hermetica.info](https://www.hermetica.info/)
     -   SEP: [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
 -   *Dao De Jing* - Laozi (c. 500 BCE)
 -   *Zhuangzi* - Zhuang Zhou (c. 369-286 BCE)
 -   *Dazhuan* - "The Great Commentary"
 
->   Creating: The greatest fulfillment rewards persistence. [^YijingGua01]
+>   &#19904; Creating        
+>   The greatest fulfillment rewards persistence. [^YijingGua01]
+
+>   &#19914; Interplay       
+>   Smallness departs, greatness arrives         
+>   Promise and fulfillment. [^YijingGua11]
 
 [^YijingGua01]: *Yijing*, Gua 01.
+[^YijingGua11]: *Yijing*, Gua 11.
 
 #### Confucianism
 
