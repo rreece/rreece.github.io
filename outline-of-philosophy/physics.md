@@ -728,6 +728,19 @@ Interpretations of quantum mechanics
 The standard model of particle physics
 --------------------------------------------------------------------------------
 
+### History of particle physics
+
+-   [Rolf Wideroe](https://en.wikipedia.org/wiki/Rolf_Wider%C3%B8e) (1902-1996)
+-   [Ernest Lawrence](https://en.wikipedia.org/wiki/Ernest_Lawrence) (1901-1958)
+-   [Particle accelerator](https://en.wikipedia.org/wiki/Particle_accelerator)
+-   [Particle physics](https://en.wikipedia.org/wiki/Particle_physics)
+-   [Brookhaven National Laboratory](https://en.wikipedia.org/wiki/Brookhaven_National_Laboratory)
+-   [SLAC National Accelerator Laboratory](https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory)
+-   [$J/\psi$ meson](https://en.wikipedia.org/wiki/J/psi_meson) - "November Revolution" in particle physics (1974)
+-   [European Organization for Nuclear Research (CERN)](https://en.wikipedia.org/wiki/CERN)
+-   [Fermilab](https://en.wikipedia.org/wiki/Fermilab)
+
+
 ### Mixing
 
 -   Cabibbo angle (1963)
