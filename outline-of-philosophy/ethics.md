@@ -505,6 +505,7 @@ Click to show links
 -   [Moral Responsibility](http://plato.stanford.edu/entries/moral-responsibility/)
 -   [Moral Sentimentalism](http://plato.stanford.edu/entries/moral-sentimentalism/)
 -   [Moral Skepticism](http://plato.stanford.edu/entries/skepticism-moral/)
+-   [Music, Philosophy of](https://plato.stanford.edu/entries/music/)
 -   [Natural Law Tradition in Ethics](http://plato.stanford.edu/entries/natural-law-ethics/)
 -   [Naturalism in Legal Philosophy](http://plato.stanford.edu/entries/lawphil-naturalism/)
 -   [Naturalistic Approaches to Social Construction](https://plato.stanford.edu/entries/social-construction-naturalistic/)

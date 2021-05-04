@@ -1,3 +1,4 @@
+Aaronson, S. (2011). Why philosophers should care about computational complexity. https://arxiv.org/abs/1108.1791
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
 Baez, J.C., Segal, I., & Zhou, Z. (1992). *Introduction to Algebraic and Constructive Quantum Field Theory*. Princeton University Press. https://math.ucr.edu/home/baez/bsz.html
 Baez, J.C. & Stay, M. (2009). Physics, Topology, Logic and Computation: A Rosetta Stone. https://arxiv.org/abs/0903.0340

@@ -273,6 +273,13 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 [^Cao2019]: @Cao_2019_Physical_origin_of_chemical_periodicities\.
 
 
+### Quantum computing
+
+-   Aaronson, S. (2011). Why philosophers should care about computational complexity. [^Aaronson2011]
+
+[^Aaronson2011]: @Aaronson_2011_Why_philosophers_should_care_about_computational\.
+
+
 Quantum field theory
 --------------------------------------------------------------------------------
 
@@ -572,6 +579,8 @@ Maudlin:
     -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - ncatlab.org
     -   [supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - ncatlab.org
 -   Martin [^Martin2016]
+-   The supersymmetry algebra is a graded Lie algebra which closes under a
+    combination of commutation and anti-commutation relations.
 -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
 -   Supergravity reviewed by Fr&egrave; [^Fre2013v2ch6]
 -   See also: [Grand unification](physics.html#grand-unification)
