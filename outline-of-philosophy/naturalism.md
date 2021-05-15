@@ -253,6 +253,8 @@ Sellars:
 -   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
 -   Convergence of evidence
 -   Unity of knowledge
+-   The Canberra Plan
+    -   See SEP: [Naturalism](https://plato.stanford.edu/entries/naturalism/)
 
 [^Wilson1998]: @Wilson_1998_Consilience\.
 
@@ -541,6 +543,10 @@ See also:
 
 
 ### Miracles
+
+-   Hume - "Of Miracles"
+-   Scott Aaronson. (2001). [Letter to James Randi](https://www.scottaaronson.com/writings/randi.html)
+    -   *The Low Kolmogorov Complexity (LKC) Principle*: Under any reasonable encoding, the universe has low Kolmogorov complexity.
 
 See also:
 

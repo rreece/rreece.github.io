@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Sun May 02, 2021" />
+  <meta name="date" content="Sat May 08, 2021" />
   <title>Philosophy of physics - Ryan's Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#x2019;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -246,6 +246,12 @@
 <li><a href="http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy">Cauchy, Augustin-Louis</a> (1789-1857)</li>
 <li><a href="http://en.wikipedia.org/wiki/William_Rowan_Hamilton">Hamilton, William Rowan</a> (1805-1865)</li>
 <li><a href="https://en.wikipedia.org/wiki/Emmy_Noether">Noether, Emmy</a> (1882-1935)</li>
+</ul>
+<p>Lagrangian mechanics:</p>
+<ul>
+<li>TODO: explain</li>
+<li>Complaint about explanations of the Lagrangian:<br />
+Howe, A.R. (2020). <a href="https://sciencemeetsfiction.com/2020/07/04/why-does-the-lagrangian-equal-t-v/">Why does the Lagrangian equal T-V?</a></li>
 </ul>
 <p>Pedagogy:</p>
 <ul>
@@ -548,6 +554,22 @@ You all weren't much help on Haag's theorem.<br>Duncan, A. (2012). Conceptual Fr
 </center>
 <h2 id="exotics-in-quantum-field-theory">Exotics in quantum field theory</h2>
 <h3 id="higher-gauge-theory">Higher gauge theory</h3>
+<h4 id="aharanov-bohm-effect">Aharanov-Bohm effect</h4>
+<ul>
+<li>Healey on the Aharonov-Bohm effect<a href="#fn56" class="footnote-ref" id="fnref56" role="doc-noteref"><sup>56</sup></a></li>
+<li>Holonomy</li>
+<li>Falling cats</li>
+</ul>
+<p>Wikipedia discussion in the <a href="https://ncatlab.org/nlab/show/fiber+bundles+in+physics">magnetic moment</a> article:</p>
+<blockquote>
+<p>A gauge theory like electromagnetism is defined by a gauge field, which associates a group element to each path in space time. For infinitesimal paths, the group element is close to the identity, while for longer paths the group element is the successive product of the infinitesimal group elements along the way.</p>
+<p>In electrodynamics, the group is <span class="math inline">\(U(1)\)</span>, unit complex numbers under multiplication. For infinitesimal paths, the group element is <span class="math inline">\(1 + i\,A_\mu\,dx^\mu\)</span> which implies that for finite paths parametrized by <span class="math inline">\(s\)</span>, the group element is:</p>
+<p><span class="math inline">\(\prod _{s}\left(1+i\,e\,A_\mu\,\frac{dx^\mu}{ds}\,ds\right) = \exp\left(i\,e\int A\cdot dx\right) \,.\)</span></p>
+<p>The map from paths to group elements is called the Wilson loop or the holonomy, and for a <span class="math inline">\(U(1)\)</span> gauge group it is the phase factor which the wavefunction of a charged particle acquires as it traverses the path. For a loop:</p>
+<p><span class="math inline">\(e\oint_{\partial D}A\cdot dx = e\int_{D}(\nabla \times A)\,dS = e\int_{D}B\,dS \,.\)</span></p>
+<p>So that the phase a charged particle gets when going in a loop is the magnetic flux through the loop. When a small solenoid has a magnetic flux, there are interference fringes for charged particles which go around the solenoid, or around different sides of the solenoid, which reveal its presence.</p>
+</blockquote>
+<h4 id="fiber-bundles">Fiber bundles</h4>
 <ul>
 <li><a href="https://ncatlab.org/nlab/show/fiber+bundles+in+physics">Fiber bundles in physics</a> - nLab
 <ul>
@@ -557,26 +579,25 @@ You all weren't much help on Haag's theorem.<br>Duncan, A. (2012). Conceptual Fr
 <li>the gauge principle.</li>
 </ol></li>
 </ul></li>
-<li>Healey on the Aharonov-Bohm effect<a href="#fn56" class="footnote-ref" id="fnref56" role="doc-noteref"><sup>56</sup></a></li>
-<li>Holonomy</li>
 <li>Maudlin on fiber bundles</li>
 <li><a href="https://ncatlab.org/nlab/show/higher+gauge+field">Higher gauge field</a> - nLab</li>
-<li>Topological QFT (TQFT)
-<ul>
-<li>Simon Donaldson and Edward Witten</li>
-<li><a href="https://ncatlab.org/nlab/show/cobordism+hypothesis">cobordism hypothesis</a> - nLab</li>
-<li>Schreiber, U. (2020). <a href="https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos">Differential cohomology in a cohesive <span class="math inline">\(\infty\)</span>-topos</a> - nLab</li>
-<li>Baez, J.C. &amp; Stay, M. (2009). <a href="https://arxiv.org/abs/0903.0340">Physics, Topology, Logic and Computation: A Rosetta Stone</a><a href="#fn57" class="footnote-ref" id="fnref57" role="doc-noteref"><sup>57</sup></a></li>
-</ul></li>
-<li>See also: <a href="math.html#differential-geometry">differential geometry</a> in the outline on <a href="math.html">mathematics</a>.</li>
 </ul>
 <p>Maudlin:</p>
 <blockquote>
-<p>If we adopt the metaphysics of the fiber bundle to represent chromodynamics, then we must reject the notion that quark color is a universal, or that there are color tropes which can be duplicates, or that quarks are parts of &#x2018;natural sets&#x2019; which include all and only the quarks of the same color, for there is no fact about whether any two quarks are the same color or different. Further, we must reject the notion that there is any metaphysically pure relation of comparison between quarks at different points, since the only comparisons available are necessarily dependent on the existence of a continuous path in space-time connecting the points. So it seems that there are no color properties and no metaphysically pure internal relations between quarks.<a href="#fn58" class="footnote-ref" id="fnref58" role="doc-noteref"><sup>58</sup></a></p>
+<p>If we adopt the metaphysics of the fiber bundle to represent chromodynamics, then we must reject the notion that quark color is a universal, or that there are color tropes which can be duplicates, or that quarks are parts of &#x2018;natural sets&#x2019; which include all and only the quarks of the same color, for there is no fact about whether any two quarks are the same color or different. Further, we must reject the notion that there is any metaphysically pure relation of comparison between quarks at different points, since the only comparisons available are necessarily dependent on the existence of a continuous path in space-time connecting the points. So it seems that there are no color properties and no metaphysically pure internal relations between quarks.<a href="#fn57" class="footnote-ref" id="fnref57" role="doc-noteref"><sup>57</sup></a></p>
 </blockquote>
 <blockquote>
-<p>But if one asks whether, in this picture, the electromagnetic field is a substance or an instance of a universal or a trope, or some combination of these, none of the options seems very useful. If the electromagnetic field is a connection on a fiber bundle, then one understands what it is by studying fiber bundles directly, not by trying to translate modern mathematics into archaic philosophical terminology.<a href="#fn59" class="footnote-ref" id="fnref59" role="doc-noteref"><sup>59</sup></a></p>
+<p>But if one asks whether, in this picture, the electromagnetic field is a substance or an instance of a universal or a trope, or some combination of these, none of the options seems very useful. If the electromagnetic field is a connection on a fiber bundle, then one understands what it is by studying fiber bundles directly, not by trying to translate modern mathematics into archaic philosophical terminology.<a href="#fn58" class="footnote-ref" id="fnref58" role="doc-noteref"><sup>58</sup></a></p>
 </blockquote>
+<h4 id="topological-qft">Topological QFT</h4>
+<ul>
+<li>Topological QFT (TQFT)</li>
+<li>Simon Donaldson and Edward Witten</li>
+<li><a href="https://ncatlab.org/nlab/show/cobordism+hypothesis">cobordism hypothesis</a> - nLab</li>
+<li>Schreiber, U. (2020). <a href="https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos">Differential cohomology in a cohesive <span class="math inline">\(\infty\)</span>-topos</a> - nLab</li>
+<li>Baez, J.C. &amp; Stay, M. (2009). <a href="https://arxiv.org/abs/0903.0340">Physics, Topology, Logic and Computation: A Rosetta Stone</a><a href="#fn59" class="footnote-ref" id="fnref59" role="doc-noteref"><sup>59</sup></a></li>
+<li>See also: <a href="math.html#differential-geometry">differential geometry</a> in the outline on <a href="math.html">mathematics</a>.</li>
+</ul>
 <h3 id="non-perturbative-features">Non-perturbative features</h3>
 <ul>
 <li>extended objects</li>
@@ -588,18 +609,34 @@ You all weren't much help on Haag's theorem.<br>Duncan, A. (2012). Conceptual Fr
 </ul>
 <h3 id="supersymmetry">Supersymmetry</h3>
 <ul>
-<li>Haag-&#x141;opusza&#x144;ski-Sohnius theorem<a href="#fn62" class="footnote-ref" id="fnref62" role="doc-noteref"><sup>62</sup></a></li>
+<li>Graded Lie algebras
+<ul>
+<li><span class="math inline">\(\mathbb{Z}/2\mathbb{Z}\)</span></li>
+<li>The supersymmetry algebra is a graded Lie algebra which closes under a combination of commutation and anti-commutation relations.</li>
+</ul></li>
+<li>Haag-&#x141;opusza&#x144;ski-Sohnius theorem<a href="#fn62" class="footnote-ref" id="fnref62" role="doc-noteref"><sup>62</sup></a>
+<ul>
+<li>The unique loop-hole in the Coleman-Mandula theorem</li>
+</ul></li>
 <li>Deligne&#x2019;s theorem on tensor categories
 <ul>
 <li><a href="https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/">Deligne&#x2019;s theorem</a> - physicsforums.com</li>
 <li><a href="https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories">Deligne&#x2019;s theorem on tensor categories</a> - ncatlab.org</li>
 <li><a href="https://ncatlab.org/nlab/show/supersymmetry">supersymmetry</a> - ncatlab.org</li>
 </ul></li>
-<li>Martin<a href="#fn63" class="footnote-ref" id="fnref63" role="doc-noteref"><sup>63</sup></a></li>
-<li>The supersymmetry algebra is a graded Lie algebra which closes under a combination of commutation and anti-commutation relations.</li>
-<li>Ellis, J. (2020). <a href="https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/">The Higgs, supersymmetry and all that</a>. <em>CERN Courier</em>. January 10, 2020.</li>
-<li>Supergravity reviewed by Fr&#xE8;<a href="#fn64" class="footnote-ref" id="fnref64" role="doc-noteref"><sup>64</sup></a></li>
+<li>SUSY GUTs
+<ul>
 <li>See also: <a href="physics.html#grand-unification">Grand unification</a></li>
+</ul></li>
+<li>Supergravity
+<ul>
+<li>Reviewed by Fr&#xE8;<a href="#fn63" class="footnote-ref" id="fnref63" role="doc-noteref"><sup>63</sup></a></li>
+</ul></li>
+<li>Pedagogy
+<ul>
+<li>Ellis, J. (2020). <a href="https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/">The Higgs, supersymmetry and all that</a>. <em>CERN Courier</em>. January 10, 2020.</li>
+<li>Martin<a href="#fn64" class="footnote-ref" id="fnref64" role="doc-noteref"><sup>64</sup></a></li>
+</ul></li>
 </ul>
 <p>Urs Schreiber:</p>
 <blockquote>
@@ -837,6 +874,7 @@ You all weren't much help on Haag's theorem.<br>Duncan, A. (2012). Conceptual Fr
 <ul>
 <li>Disfavored by LHC thus far.</li>
 </ul></li>
+<li>Howe, A.R. (2019). <a href="https://sciencemeetsfiction.com/nonfiction-essays/the-dark-matter-flowchart-annotated/">The dark matter flowchart, annotated</a>.</li>
 </ul>
 <h3 id="inflation">Inflation</h3>
 <ul>
@@ -1556,14 +1594,14 @@ Zeidler, E. (2007). <em><span class="nocase">Quantum Field Theory I: Basics in m
 <li id="fn54" role="doc-endnote"><p><span class="citation" data-cites="Bain_2000_Against_particlefield_duality_Asymptotic">Bain (2000)</span>.<a href="#fnref54" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn55" role="doc-endnote"><p><span class="citation" data-cites="Duncan_2012_Conceptual_Framework_of_Quantum_Field_Theory">Duncan (2012)</span>.<a href="#fnref55" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn56" role="doc-endnote"><p><span class="citation" data-cites="Healey_2007_Gauging_Whats_Real">Healey (2007)</span>, ch.&#xA0;2-4.<a href="#fnref56" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn57" role="doc-endnote"><p><span class="citation" data-cites="Baez_2009_Physics_Topology_Logic_and_Computation">Baez &amp; Stay (2009)</span>.<a href="#fnref57" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn58" role="doc-endnote"><p><span class="citation" data-cites="Maudlin_2007_The_Metaphysics_Within_Physics">Maudlin (2007)</span>, p.&#xA0;96.<a href="#fnref58" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn59" role="doc-endnote"><p><span class="citation" data-cites="Maudlin_2007_The_Metaphysics_Within_Physics">Maudlin (2007)</span>, p.&#xA0;101.<a href="#fnref59" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn57" role="doc-endnote"><p><span class="citation" data-cites="Maudlin_2007_The_Metaphysics_Within_Physics">Maudlin (2007)</span>, p.&#xA0;96.<a href="#fnref57" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn58" role="doc-endnote"><p><span class="citation" data-cites="Maudlin_2007_The_Metaphysics_Within_Physics">Maudlin (2007)</span>, p.&#xA0;101.<a href="#fnref58" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn59" role="doc-endnote"><p><span class="citation" data-cites="Baez_2009_Physics_Topology_Logic_and_Computation">Baez &amp; Stay (2009)</span>.<a href="#fnref59" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn60" role="doc-endnote"><p><span class="citation" data-cites="tHooft_1994_Under_the_Spell_of_the_Gauge_Principle">&#x2019;t Hooft (1994)</span>.<a href="#fnref60" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn61" role="doc-endnote"><p><span class="citation" data-cites="Shifman_2012_Advanced_Topics_in_Quantum_Field_Theory_A_lecture">Shifman (2012)</span>.<a href="#fnref61" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn62" role="doc-endnote"><p><span class="citation" data-cites="Haag_1975_All_possible_generators_of_supersymmetries">Haag, &#x141;opusza&#x144;ski, &amp; Sohnius (1975)</span>.<a href="#fnref62" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn63" role="doc-endnote"><p><span class="citation" data-cites="Martin_2016_A_supersymmetry_primer">Martin (2016)</span>.<a href="#fnref63" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn64" role="doc-endnote"><p><span class="citation" data-cites="Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black">Fr&#xE8; (2013)</span>, ch.&#xA0;6.<a href="#fnref64" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn63" role="doc-endnote"><p><span class="citation" data-cites="Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black">Fr&#xE8; (2013)</span>, ch.&#xA0;6.<a href="#fnref63" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn64" role="doc-endnote"><p><span class="citation" data-cites="Martin_2016_A_supersymmetry_primer">Martin (2016)</span>.<a href="#fnref64" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn65" role="doc-endnote"><p>Schreiber, U. (2016). <a href="https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/">Learn about supersymmetry and Deligne&#x2019;s theorem</a>.<a href="#fnref65" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn66" role="doc-endnote"><p><span class="citation" data-cites="Mermin_1985_Is_the_moon_there_when_nobody_looks_Reality">Mermin (1985)</span>.<a href="#fnref66" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn67" role="doc-endnote"><p><span class="citation" data-cites="Becker_2018_What_is_Real_The_unfinished_quest_for_the_meaning">Becker (2018)</span>.<a href="#fnref67" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
@@ -1614,7 +1652,7 @@ Zeidler, E. (2007). <em><span class="nocase">Quantum Field Theory I: Basics in m
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Sun May 02, 2021</p>
+    <p>Sat May 08, 2021</p>
   </div>
   <div class="license">
     <p>&#xA9; 2014-2021 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>

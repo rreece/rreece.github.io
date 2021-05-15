@@ -217,6 +217,7 @@ Weinberg:
 ### The Age of Enlightenment
 
 -   [The Age of Enlightenment](http://en.wikipedia.org/wiki/Age_of_Enlightenment)
+-   [Preliminary Discourse to the *Encyclopedia* of Diderot](https://en.wikipedia.org/wiki/Preliminary_Discourse_to_the_Encyclopedia_of_Diderot)
 -   [Robert Boyle](http://en.wikipedia.org/wiki/Robert_Boyle) (1627-1691)
 -   [Isaac Barrow](https://en.wikipedia.org/wiki/Isaac_Barrow) (1630-1677)
 -   [John Locke](http://en.wikipedia.org/wiki/John_Locke) (1632-1704)
@@ -229,6 +230,8 @@ Weinberg:
 -   [George Berkeley](https://en.wikipedia.org/wiki/George_Berkeley) (1685-1753)
 -   [Thomas Reid](https://en.wikipedia.org/wiki/Thomas_Reid) (1710-1796)
 -   [David Hume](http://en.wikipedia.org/wiki/David_Hume) (1711-1776)
+-   [Denis Diderot](https://en.wikipedia.org/wiki/Denis_Diderot) (1713-1784)
+-   [Jean le Rond d'Alembert](https://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert) (1717-1783)
 -   [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant) (1724-1804)
 
 
@@ -256,7 +259,7 @@ Weinberg:
 
 ### "Scientists"
 
--   [John Daltonn](https://en.wikipedia.org/wiki/John_Dalton) (1766-1844)
+-   [John Dalton](https://en.wikipedia.org/wiki/John_Dalton) (1766-1844)
     -   atomic theory
 -   [Mary Somerville](https://en.wikipedia.org/wiki/Mary_Somerville) (1780-1872)
     -   *On the Connexion of the Physical Sciences* (1834)

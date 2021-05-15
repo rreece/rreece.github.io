@@ -23,7 +23,8 @@ Lewis, D. (1986). *On the Plurality of Worlds*. Oxford: Blackwell.
 Loewer, B. (2019). Humean laws and explanation. *Principia: an international journal of epistemology*, 23, 373--385.
 Newton, I. (1999). *The Principia: Mathematical Principles of Natural Philosophy* (I.B. Cohen and A. Whitman, Trans.). University of California Press. [(Originally published in 1687)]
 Poincar\'{e}, H. (1913). *The Foundations of Science: Science and hypothesis, the value of science, science and method* (G.B. Halstead, Trans.). Cambridge: Cambridge University Press. [(Originally published in 1905)]
-Popper, K. (1963). *Conjectures and Refutations: The Growth of Scientific Knowledge*. Routledge.
+Popper, K.R. (1953). A note on Berkeley as precursor of Mach. *The British Journal for the Philosophy of Science*, 4, 26--36.
+Popper, K.R. (1963). *Conjectures and Refutations: The Growth of Scientific Knowledge*. Routledge.
 Putnam, H. (1975). *Mathematics, Matter, and Method*. Cambridge University Press.
 Quine, W.V.O. (1948). On what there is. *Review of Metaphysics*, 21--38.
 Redhead, M. (1999). Quantum field theory and the philosopher. In Cao, T.Y. (Ed.) *Conceptual Foundations of Quantum Field Theory* (pp. 34--40). Cambridge University Press.

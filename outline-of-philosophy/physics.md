@@ -80,6 +80,12 @@ History:
 -   [Hamilton, William Rowan](http://en.wikipedia.org/wiki/William_Rowan_Hamilton) (1805-1865)
 -   [Noether, Emmy](https://en.wikipedia.org/wiki/Emmy_Noether) (1882-1935)
 
+Lagrangian mechanics:
+
+-   TODO: explain
+-   Complaint about explanations of the Lagrangian:      
+    Howe, A.R. (2020). [Why does the Lagrangian equal T-V?](https://sciencemeetsfiction.com/2020/07/04/why-does-the-lagrangian-equal-t-v/)
+
 Pedagogy:
 
 -   *The Feynman Lectures on Physics* [^Feynman1963]
@@ -516,21 +522,35 @@ Exotics in quantum field theory
 
 ### Higher gauge theory
 
+#### Aharanov-Bohm effect
+
+-   Healey on the Aharonov-Bohm effect [^Healey2007ch2]
+-   Holonomy
+-   Falling cats
+
+Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fiber+bundles+in+physics) article:
+
+>   A gauge theory like electromagnetism is defined by a gauge field, which associates a group element to each path in space time. For infinitesimal paths, the group element is close to the identity, while for longer paths the group element is the successive product of the infinitesimal group elements along the way.
+>   
+>   In electrodynamics, the group is $U(1)$, unit complex numbers under multiplication. For infinitesimal paths, the group element is $1 + i\,A_\mu\,dx^\mu$ which implies that for finite paths parametrized by $s$, the group element is:
+>   
+>   $\prod _{s}\left(1+i\,e\,A_\mu\,\frac{dx^\mu}{ds}\,ds\right) = \exp\left(i\,e\int A\cdot dx\right) \,.$
+>   
+>   The map from paths to group elements is called the Wilson loop or the holonomy, and for a $U(1)$ gauge group it is the phase factor which the wavefunction of a charged particle acquires as it traverses the path. For a loop:
+>   
+>   $e\oint_{\partial D}A\cdot dx = e\int_{D}(\nabla \times A)\,dS = e\int_{D}B\,dS \,.$
+>   
+>   So that the phase a charged particle gets when going in a loop is the magnetic flux through the loop. When a small solenoid has a magnetic flux, there are interference fringes for charged particles which go around the solenoid, or around different sides of the solenoid, which reveal its presence.
+
+
+#### Fiber bundles
+
 -   [Fiber bundles in physics](https://ncatlab.org/nlab/show/fiber+bundles+in+physics) - nLab
     -   Fiber bundles embody two central principles of modern physics:
         1.  the principle of locality
         2.  the gauge principle.
--   Healey on the Aharonov-Bohm effect [^Healey2007ch2]
--   Holonomy
 -   Maudlin on fiber bundles
 -   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
--   Topological QFT (TQFT)
-    -   Simon Donaldson and Edward Witten
-    -   [cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
-    -   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos) - nLab
-    -   Baez, J.C. & Stay, M. (2009). [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) [^Baez2009]
--   See also: [differential geometry](math.html#differential-geometry) in the outline
-    on [mathematics](math.html).
 
 Maudlin:
 
@@ -552,10 +572,22 @@ Maudlin:
 >   fiber bundles directly, not by trying to translate modern mathematics into
 >   archaic philosophical terminology. [^Maudlin2007p101]
 
-[^Baez2009]: @Baez_2009_Physics_Topology_Logic_and_Computation\.
-[^Healey2007ch2]: @Healey_2007_Gauging_Whats_Real\, ch. 2-4.
 [^Maudlin2007p96]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 96.
 [^Maudlin2007p101]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 101.
+
+
+#### Topological QFT
+
+-   Topological QFT (TQFT)
+-   Simon Donaldson and Edward Witten
+-   [cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
+-   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos) - nLab
+-   Baez, J.C. & Stay, M. (2009). [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) [^Baez2009]
+-   See also: [differential geometry](math.html#differential-geometry) in the outline
+    on [mathematics](math.html).
+
+[^Baez2009]: @Baez_2009_Physics_Topology_Logic_and_Computation\.
+[^Healey2007ch2]: @Healey_2007_Gauging_Whats_Real\, ch. 2-4.
 
 
 ### Non-perturbative features
@@ -573,17 +605,23 @@ Maudlin:
 
 ### Supersymmetry
 
+-   Graded Lie algebras
+    -   $\mathbb{Z}/2\mathbb{Z}$
+    -   The supersymmetry algebra is a graded Lie algebra which closes under a
+        combination of commutation and anti-commutation relations.
 -   Haag-&#321;opusza&#324;ski-Sohnius theorem [^Haag1975]
+    -   The unique loop-hole in the Coleman-Mandula theorem
 -   Deligne's theorem on tensor categories
     -   [Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/) - physicsforums.com
     -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - ncatlab.org
     -   [supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - ncatlab.org
--   Martin [^Martin2016]
--   The supersymmetry algebra is a graded Lie algebra which closes under a
-    combination of commutation and anti-commutation relations.
--   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
--   Supergravity reviewed by Fr&egrave; [^Fre2013v2ch6]
--   See also: [Grand unification](physics.html#grand-unification)
+-   SUSY GUTs
+    -   See also: [Grand unification](physics.html#grand-unification)
+-   Supergravity
+    -   Reviewed by Fr&egrave; [^Fre2013v2ch6]
+-   Pedagogy
+    -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
+    -   Martin [^Martin2016]
 
 Urs Schreiber:
 
@@ -914,6 +952,7 @@ Gravity and cosmology
     -   Millennium Simulation
 -   WIMP Miracle
     -   Disfavored by LHC thus far.
+-   Howe, A.R. (2019). [The dark matter flowchart, annotated](https://sciencemeetsfiction.com/nonfiction-essays/the-dark-matter-flowchart-annotated/).
 
 [^Clowe2006]: @Clowe_2006_A_direct_empirical_proof_of_the_existence_of_dark\.
 

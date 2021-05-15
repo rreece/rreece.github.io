@@ -570,6 +570,7 @@ Fetzer:
 #### Auguste Comte
 
 -   Auguste Comte (1798-1857) coined "positivism"
+    -   [Massimiliano Simons' Twitter thread on Comte](https://twitter.com/MassSimons/status/1389914000503283713)
 -   Comte and Mill
 
 Comte on the unknowability of the composition of stars:
@@ -590,11 +591,16 @@ Comte on the unknowability of the composition of stars:
     Translation of passage taken from:           
     <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
 
+
 #### Ernst Mach
 
 -   Ernst Mach (1838-1916)
 -   Richard Avenarius (1843-1896)
 -   empirio-criticism
+-   Popper, K.R. (1953). A note on Berkeley as precursor of Mach. [^Popper1953]
+
+[^Popper1953]: @Popper_1953_A_note_on_Berkeley_as_precursor_of_Mach\.
+
 
 #### Ludwig Wittgenstein
 
