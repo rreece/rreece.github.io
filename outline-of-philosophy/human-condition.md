@@ -1240,6 +1240,7 @@ Stoic virtues:
 
 Stoic terms:
 
+-   [Apatheia](https://en.wikipedia.org/wiki/Apatheia)
 -   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
 -   [Ekpyrosis](https://en.wikipedia.org/wiki/Ekpyrosis)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)

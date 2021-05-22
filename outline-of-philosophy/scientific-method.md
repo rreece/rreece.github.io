@@ -1120,6 +1120,8 @@ for only what is perfectly certain:
 >   we reject all [...] merely probable cognition and resolve to believe
 >   only what is perfectly known and incapable of being doubted.
 
+-   Robert Nozick. (1981). *Philosophical Explanations*.
+
 Ichikawa & Jenkins:
 
 >   The standard analysis of knowledge says that for any subject $S$ and any

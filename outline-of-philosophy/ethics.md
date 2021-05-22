@@ -29,6 +29,7 @@ Deontological ethics
 -   Kant
 -   Rawls
     -   *A Theory of Justice* [^Rawls1999]
+    -   The original position
     -   Reflective equilibrium
 
 Kant:
@@ -248,6 +249,8 @@ Solzhenitsyn:
 >   human being. And who is willing to destroy a piece of his own
 >   heart? [^SolzhenitsynGApart1ch4]
 
+-   von Mises, L. (1920). *Economic Calculation in the Socialist Commonwealth*.
+    -   [Economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem)
 -   Berlin, I. (1994). A message to the twenty first century. [^Berlin1994]
 
 [^Berlin1994]: @Berlin_1994_A_message_to_the_twenty_first_century\.
@@ -359,6 +362,8 @@ Aesthetics
 
 -   TODO
 -   Pythagoras on music
+-   Twelve-tone equal temperment: $2^{1/12} \approx 1.05946$
+-   George Russell. (1953). [*Lydian Chromatic Concept of Tonal Organization*](https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization).
 
 
 ### Art
