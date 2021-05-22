@@ -73,7 +73,7 @@ Jacobs:
 >   a distinctively a priori project of theorizing.  [^Jacobs2002]
 
 Naturalism could be defined as a support for philosophy that is filtered for
-plausibility given the information from science[^Ladyman2007].
+plausibility given the information from science[^Ladyman2007pX].
 See the [Outline on the science method](scientific-method.html#is-there-a-universal-scientific-method).
 
 Maudlin gives clear naturalist attitude at the start of *The Metaphysics within Physics*:
@@ -85,15 +85,6 @@ Maudlin gives clear naturalist attitude at the start of *The Metaphysics within 
 >   of those theories. In particular, when choosing the fundamental posits
 >   of one's ontology, one must look to scientific practice rather than to
 >   philosophical prejudice. [^Maudlin2007p1]
-
-Ladyman & Ross:
-
->   According to the account we will give, science tells us many surprising
->   things, but it does not impugn the everyday status of objects like tables
->   and baseballs. These are, we will argue, aspects of the world with sufficient
->   cohesion at our scale that a group of cognitive systems with practically
->   motivated interest in tracking them would sort them into types for book-keeping
->   purposes. [^Ladyman2007p5]
 
 Papineau:
 
@@ -114,7 +105,7 @@ Papineau:
 >   the "human spirit". [^Papineau2007]
 
 [^Jacobs2002]: @Jacobs_2002_Naturalism\. 
-[^Ladyman2007p5]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 5.
+[^Ladyman2007pX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO (find error correcting filters).
 [^Maddy2007p1]: @Maddy_2007_Second_Philosophy, p. 1.
 [^Maddy2007p18]: @Maddy_2007_Second_Philosophy, p. 18--19.
 [^Maudlin2007p1]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 1.
@@ -256,6 +247,16 @@ Sellars:
 -   The Canberra Plan
     -   See SEP: [Naturalism](https://plato.stanford.edu/entries/naturalism/)
 
+>   The scientific world conception is characterised not so much by theses of its own, but
+>   rather by its basic attitude, its points of view and direction of research. The goal ahead
+>   is *unified science*. The endeavour is to link and harmonise the achievements of individual
+>   investigators in their various fields of science. From this aim follows the emphasis
+>   on *collective efforts*, and also the emphasis on what can be grasped intersubjectively;
+>   from this springs the search for a neutral system of formulae, for a symbolism freed
+>   from the slag of historical languages; and also the search for a total system of
+>   concepts. [^VCManifesto1929s2]
+
+[^VCManifesto1929s2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect; 2.
 [^Wilson1998]: @Wilson_1998_Consilience\.
 
 
@@ -493,11 +494,21 @@ Part of metaphysical naturalism.
 
 ![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism), 2015).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
 
+Ladyman & Ross:
+
+>   According to the account we will give, science tells us many surprising
+>   things, but it does not impugn the everyday status of objects like tables
+>   and baseballs. These are, we will argue, aspects of the world with sufficient
+>   cohesion at our scale that a group of cognitive systems with practically
+>   motivated interest in tracking them would sort them into types for book-keeping
+>   purposes. [^Ladyman2007p5]
+
 See also:
 
 -   [Outline on scientific realism](scientific-realism.html)
 -   [Outline on philosophy of mathematics](math.html#naturalism)
 
+[^Ladyman2007p5]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 5.
 [^Quine1969p26]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 26--68.
 [^Quine1969p114]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 114--138.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
