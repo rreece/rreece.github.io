@@ -540,20 +540,11 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 -   $p$-values and significance [^Cowan2012]
 -   Coverage
 -   Fisherian vs Neyman-Pearson $p$-values
--   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
 
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
-[^Feldman1998]: @Feldman_1998_A_unified_approach_to_the_classical_statistical\.
 
 
-### Student's *t*-test
-
--   Student's *t*-test
--   ANOVA
--   A/B-testing
-
-
-### CLs method
+#### CLs method
 
 -   Conservative coverage; used in particle physics
 -   Junk [^Junk1999]
@@ -563,6 +554,15 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 [^ATLAS2011]: @ATLAS_2011_The_CLs_method_information_for_conference\.
 [^Junk1999]: @Junk_1999_Confidence_level_computation_for_combining\.
 [^Read2002]: @Read_2002_Presentation_of_search_results_the_CLs_technique\.
+
+
+#### More
+
+-   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
+-   Criteria for projected discovery and exclusion sensitivities of counting experiments [^Bhattiprolu2020]
+
+[^Bhattiprolu2020]: @Bhattiprolu_2020_Criteria_for_projected_discovery_and_exclusion\.
+[^Feldman1998]: @Feldman_1998_A_unified_approach_to_the_classical_statistical\.
 
 
 ### Asymptotics
@@ -577,6 +577,13 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 [^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 [^Wald1943]: @Wald_1943_Tests_of_statistical_hypotheses_concerning_several\.
 [^Wilks1938]: @Wilks_1938_The_large_sample_distribution_of_the_likelihood\.
+
+
+### Student's *t*-test
+
+-   Student's *t*-test
+-   ANOVA
+-   A/B-testing
 
 
 ### Frequentist vs bayesian decision theory

@@ -17,6 +17,7 @@ Benjamin, D.J. et al. (2017). Redefine statistical significance. *PsyArXiv*. htt
 Bensusan, H. (2000). Is machine learning experimental philosophy of science? In *ECAI2000 Workshop notes on scientific Reasoning in Artificial Intelligence and the Philosophy of Science* (pp. 9--14).
 Berger, J.O. & Wolpert, R.L. (1988). *The Likelihood Principle* (2nd ed.). Haywood, CA: The Institute of Mathematical Statistics.
 Berger, J.O. (2003). Could Fisher, Jeffreys and Neyman have agreed on testing? *Statistical Science*, 18(1), 1--32.
+Bhattiprolu, P.N., Martin, S.P., & Wells, J.D. (2020). Criteria for projected discovery and exclusion sensitivities of counting experiments. https://arxiv.org/abs/2009.07249
 Birnbaum, A. (1962). On the foundations of statistical inference. *Journal of the American Statistical Association*, 57, 269--326.
 Bishop, C.M. (2006). *Pattern Recognition and Machine Learning*. Springer. 
 Blondel, M., Martins, A.F., & Niculae, V. (2020). Learning with Fenchel-Young losses. *Journal of Machine Learning Research*, 21(35), 1--69.

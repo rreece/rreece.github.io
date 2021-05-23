@@ -508,6 +508,10 @@ Formalism
 
 Hilbert:
 
+>   We must know. We shall know.
+
+Hilbert:
+
 >   Mathematics is a presuppositionless science. To found it I do not need God, 
 >   as does Kronecker, or the assumption of a special faculty of our understanding 
 >   attuned to the principle of mathematical induction, as does Poincar&eacute;, 
@@ -515,6 +519,14 @@ Hilbert:
 >   axioms of infinity, reducibility, or completeness, which in fact are actual, 
 >   contentual assumptions that cannot be compensated for by consistency
 >   proofs. [^Hilbert1967p479]
+
+-   Video: Veritasium - [You can't prove everything that's true](https://www.youtube.com/watch?v=HeQX2HjkcNo)
+
+Hilbert wanted math to be
+
+-   ~Complete~
+-   Consistent?
+-   ~Decidable~
 
 [^Hilbert1967p479]: @Hilbert_1967_The_foundations_of_mathematics\, p. 479.
     Discussion by [Michael J. O'Donnell](http://people.cs.uchicago.edu/~odonnell/OData/Courses/22C:096/Lecture_notes/Hilbert_program.html):

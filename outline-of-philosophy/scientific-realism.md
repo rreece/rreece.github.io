@@ -680,12 +680,14 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
     -   Only the first section *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
 -   Schlick & Rynin. (1948). "Positivism and realism" [^Schlick1948]
 -   The murder of Schlick in 1936 by a former student put an end to the Vienna Circle in Austria.
+-   Stadler. F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. [^Stadler2015]
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\. <https://iep.utm.edu/viennacr/>
 [^Schlick1948]: @Schlick_1948_Positivism_and_realism\.
+[^Stadler2015]: @Stadler_2015_The_Vienna_Circle_Studies_in_the_origins\.
 
 
 ### Logical empiricism and the Berlin Circle
