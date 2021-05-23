@@ -56,7 +56,7 @@ Ney, A. & Albert, D.Z. (2013). *The Wave Function: Essays on the metaphysics of 
 Pati, J.C. & Salam, A. (1974). Lepton number as the fourth color. *Physical Review D*, 10, 275--289. https://pdfs.semanticscholar.org/21fb/f9d49acf3e3f07098ca686ae4058c38dbd03.pdf
 Peskin, M.E. (1994). Spin, Mass, and Symmetry. https://arxiv.org/abs/hep-ph/9405255
 Peskin, M.E. & Schroeder, D.V. (1995). *An Introduction to Quantum Field Theory*. Westview Press.
-Proietti, M. et al. (2019). Experimental test of local observer independence. *Science Advances*, 5(9), eaaw9832. https://arxiv.org/abs/1902.05080
+Proietti, M. et al. (2019). Experimental test of local observer independence. *Science Advances*, 5, 9832. https://arxiv.org/abs/1902.05080
 Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8, 476. https://arxiv.org/abs/1111.3328
 Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(2), 57--99.
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24). Oxford University Press.

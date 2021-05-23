@@ -275,11 +275,18 @@ Chakravartty:
 >   best theories and models, recommending belief in both observable and unobservable
 >   aspects of the world described by the sciences. [^Chakravartty2017]
 
+-   Helmholtz
 -   Boyd
 -   Sellars
 -   Chakravartty
 -   Psillos
 -   Sankey
+
+Helmholtz:
+
+>   What Helmholtz then asserted, in his classic essay “On the Facts of Perception,” is that the inference to a hypostasized reality lying behind the appearances goes beyond what is warranted by the lawfulness obtaining among appearances. Indeed, all localizations of objects in space are really nothing more than the discovery of the lawfulness of the connections obtaining among our motions and our perceptions. The difference between what is genuinely perceived and its realistic interpretation is just the difference between the regularities in our perceptions and the hypothesis of enduring, substantial sources of the perceived regularities (Helmholtz 1977, 138–140). [^Oberdan2013]
+
+[^Oberdan2013]: Oberdan, T. (2013). [Moritz Schlick, *Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/schlick/). 
 
 Sankey:
 
@@ -475,6 +482,8 @@ epistemological limitations of induction and theory change. As a qualified sort
 of empiricism that supports the primacy of the scientific method, positivism
 is sometimes equated with scientism (often derogatorily) if one takes it to
 claim that science is the only way to attain knowledge.
+
+Schlick:
 
 >   If we say, as was frequently said of old, that metaphysics is the theory
 >   of "true being", of "reality in itself", of "transcendent being" this
@@ -674,11 +683,13 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   In 1930 the Vienna Circle and the Berlin Circle took over the journal *Annalen der Philosophie*
     and made it the main journal of logical empiricism under the title *Erkenntnis*,
     edited by Carnap and Reichenbach.
--   A.J. Ayer (1910-1989): *Language, Truth, and Logic* (1936) [^Ayer1936]
+-   A.J. Ayer (1910-1989):
+    -   Ayer, A.J. (1936). *Language, Truth, and Logic*. [^Ayer1936]
     -   Helped the spread of positivism in British academia.
 -   *International Encyclopedia of Unified Science*
     -   Only the first section *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
--   Schlick & Rynin. (1948). "Positivism and realism" [^Schlick1948]
+-   Schlick, M. (1925). *General Theory of Knowledge*. [^Schlick1974]
+-   Schlick, M. & Rynin, D. (1948). Positivism and realism. [^Schlick1948]
 -   The murder of Schlick in 1936 by a former student put an end to the Vienna Circle in Austria.
 -   Stadler. F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. [^Stadler2015]
 
@@ -687,6 +698,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\. <https://iep.utm.edu/viennacr/>
 [^Schlick1948]: @Schlick_1948_Positivism_and_realism\.
+[^Schlick1974]: @Schlick_1974_General_Theory_of_Knowledge\.
 [^Stadler2015]: @Stadler_2015_The_Vienna_Circle_Studies_in_the_origins\.
 
 
@@ -1696,6 +1708,7 @@ Click to show links
 -   [Realism](http://plato.stanford.edu/entries/realism/)
 -   [Rorty, Richard (1931-2007)](http://plato.stanford.edu/entries/rorty/)
 -   [Russell, Bertrand (1872-1970)](https://plato.stanford.edu/entries/russell/)
+-   [Schlick, Moritz (1882-1936)](https://plato.stanford.edu/entries/schlick/)
 -   [Scientific Discovery](http://plato.stanford.edu/entries/scientific-discovery/)
 -   [Scientific Explanation](http://plato.stanford.edu/entries/scientific-explanation/)
 -   [Scientific Objectivity](http://plato.stanford.edu/entries/scientific-objectivity/)
