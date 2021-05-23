@@ -692,6 +692,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   Schlick, M. & Rynin, D. (1948). Positivism and realism. [^Schlick1948]
 -   The murder of Schlick in 1936 by a former student put an end to the Vienna Circle in Austria.
 -   Stadler. F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. [^Stadler2015]
+-   Cat, J. (2017). [How Viennese scientists fought the dogma, propaganda and prejudice of the 1930s](https://www.nature.com/articles/d41586-017-07819-z) - Review of Sigmund, K. (2017). *Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science*.
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
