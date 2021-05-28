@@ -308,6 +308,7 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
 
 -   [Counter-Enlightenment](https://en.wikipedia.org/wiki/Counter-Enlightenment)
     -   G.W.F. Hegel (1770-1831)
+    -   Martin Heidegger (1889-1976)
     -   Criticism of Kant
     -   Berlin, I. (1973). "The Counter-Enlightenment".
 -   Cassirer-Heidegger debate

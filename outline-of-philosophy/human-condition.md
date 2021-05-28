@@ -1850,6 +1850,16 @@ Existentialism
     -   [Dasein](https://en.wikipedia.org/wiki/Dasein) - being there
     -   Mitsein - being with
     -   *Being and Time* (1927)
+    -   Bright, L.K. (2016). [Metalogic Against Heideggarian Naziism](http://sootyempiric.blogspot.com/2016/10/metalogic-against-heideggarian-naziism.html).
+
+Bertrand Russell:
+
+>   Highly eccentric in its terminology, his philosophy is extremely obscure.
+>   One cannot help suspecting that language is here running riot. An
+>   interesting point in his speculations is the insistence that nothingness
+>   is something positive. As with much else in Existentialism, this is a
+>   psychological observation made to pass for logic. [^Russell1989p303]
+
 -   [Jean-Paul Sartre](https://en.wikipedia.org/wiki/Jean-Paul_Sartre) (1905-1980)
     -   Existence precedes essence.
     -   We are often in denial of how radically free we are.
@@ -1875,6 +1885,7 @@ Existentialism
 -   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
     -   *The Courage to Be* (1952)
 
+[^Russell1989p303]: HERE
 [^Sartre1946]: @Sartre_2007_Existentialism_is_a_Humanism\.
 
 

@@ -45,6 +45,8 @@ Kant:
 Consequentialism
 --------------------------------------------------------------------------------
 
+### Introduction
+
 -   Epicurus
 -   Bentham
 -   Mill
@@ -52,18 +54,30 @@ Consequentialism
 -   Binmore
 -   Portmore
     -   *Commonsense Consequentialism* [^Portmore2011]
--   Effective Altruism
-    -   Peter Singer
-    -   Toby Ord
-    -   William MacAskill
 
 [^Portmore2011]: @Portmore_2011_Commonsense_Consequentialism\.
+
+
+### Hedonism
+
+-   Epicurianism
+-   De Quincey, T. (1821). *Confessions of an English Opium-Eater*.
+-   Hunter S. Thompson
+
+
+### Effective altruism
+
+-   Peter Singer
+-   Toby Ord
+-   William MacAskill
 
 
 ### Criticism
 
 -   The Repugnant Conclusion
     -   Parfit, D. (1984). *Reasons and Pearson*. [^Parfit1984]
+-   The experience machine
+    -   Nozick, R. (1974). *Anarchy, State, and Utopia*.
 
 [^Parfit1984]: @Parfit_1984_Reasons_and_Pearson\.
 
@@ -206,13 +220,18 @@ Churchland:
     -   Harris, S., Blackford, R., & Born, R. (2014). [The moral landscape challenge: The winning essay](https://samharris.org/the-moral-landscape-challenge/).
 -   Putnam
     -   *The Collapse of the Fact-value Dichotomy and Other Essays* [^Putnam2004]
--   economics
-    -   Amartya Sen?
-    -   Don Ross?
 -   See also the [Outline on naturalism](naturalism.html#moral-naturalism).
 
 [^Harris2010]: @Harris_2010_The_Moral_Landscape_How_science_can_determine\.
 
+### Economics
+
+-   [Harry Markowitz](https://en.wikipedia.org/wiki/Harry_Markowitz) (b. 1927)
+    -   [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
+-   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
+    -   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+-   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
+-   Don Ross
 
 ### Criticism
 
@@ -229,7 +248,9 @@ Political philosophy
 -   Feudalism
 -   Mercantilism
 -   Liberalism
-    -   J.S. Mill
+    -   [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) (1806-1873)
+    -   [Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises) (1881-1973)
+    -   [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek) (1899-1992)
     -   Hayek, F. (1945). The use of knowledge in society. [^Hayek1945]
 -   Libertarianism
 -   Neoliberalism
@@ -239,7 +260,7 @@ Political philosophy
 
 -   Karl Marx and Friedrich Engels
 
-*Criticism*
+#### Criticism
 
 Solzhenitsyn:
 
@@ -307,7 +328,8 @@ Waves:
 3.  Third wave (1990s-2012)
 4.  Fourth wave (2012-present)
 
--   [Feminist perspectives on argumentation](https://plato.stanford.edu/entries/feminism-argumentation/)
+-   See also:
+    -   [Feminist epistemology](scientific-realism.html#feminist-epistemology)
 
 
 Regret

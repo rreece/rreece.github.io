@@ -836,10 +836,13 @@ People:
 -   William James (1842-1910)
 -   John Dewey (1859-1952)
 -   Later work of Ludwig Wittgenstein (1889-1951)
+-   Wilfrid Sellars (1921-1989)
 -   Richard Rorty (1931-2007)
 -   Hilary Putnam (1926-2016)
 -   Rorty and Putnam
 -   Willard Van Orman Quine (1908-2000)
+-   Ruth Millikan (b. 1933)
+-   Paul Churchland (b. 1942)
 -   Daniel C. Dennett (b. 1942)
 -   Robert Brandom (b. 1950)
 
@@ -1180,7 +1183,10 @@ Feminist epistemology
 -   Decolonizing science
     -   Prescod-Weinstein, Chanda. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
     -   Roy, Rohan Deb. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
--   See also [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism).
+-   [Feminist perspectives on argumentation](https://plato.stanford.edu/entries/feminism-argumentation/)
+-   See also:
+    -   [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism)
+    -   [Feminism in the Outline on ethics](ethics.html#feminism)
 
 
 Critical realism
