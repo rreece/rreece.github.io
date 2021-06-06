@@ -668,24 +668,27 @@ Criticisms of naturalism
 
 ### Attacks
 
+-   [Naturalistic fallacy](https://en.wikipedia.org/wiki/Naturalistic_fallacy)
+    -   Introduced by Moore, G.E. (1903). *Principia Ethica*.
+    -   See also: [Criticism of moral naturalism](ethics.html#criticism-1) in the [Outline on ethics](ethics.html)
 -   Postmodernism and social construction
-    -   Gorton, W.A. (2010). [The philosophy of social science: Criticisms of naturalism.](http://www.iep.utm.edu/soc-sci/#H2) *Internet Encyclopedia of Philosophy*.
+    -   Gorton, W.A. (2010). [The philosophy of social science: Criticisms of naturalism](http://www.iep.utm.edu/soc-sci/#H2). *Internet Encyclopedia of Philosophy*.
 -   "The Science Wars"
-    -   Kofman, A. (2018). [Bruno Latour, the post-truth philosopher, mounts a defense of science.](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html) *New York Times*.
+    -   Kofman, A. (2018). [Bruno Latour, the post-truth philosopher, mounts a defense of science](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html). *New York Times*.
 -   Tautological:
     -   Of course science (scientia) is the domain of all knowledge if the tent is large enough.
     -   TODO: Perhaps this line can be found in the work of Pigliucci?
 -   Epistemic pessimism
-    -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality.](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/) *The Atlantic*. [^Gefter2016]
+    -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/). *The Atlantic*. [^Gefter2016]
 -   Decolonising science
     -   Descoping the success/objectivity of science
     -   Prescod-Weinstein, C. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
-    -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific.](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific) *American Scientist*. [^PrescodWeinstein2017]
+    -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific). *American Scientist*. [^PrescodWeinstein2017]
     -   Roy, R.D. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
 -   Decolonising philosophy
     -   Alpert, A. (2020). [Philosophy's systemic racism](https://aeon.co/essays/racism-is-baked-into-the-structure-of-dialectical-philosophy).
 -   Science takes faith
-    -   Davies, P. (2007). [Taking science on faith.](https://www.nytimes.com/2007/11/24/opinion/24davies.html) *New York Times Opinion*.
+    -   Davies, P. (2007). [Taking science on faith](https://www.nytimes.com/2007/11/24/opinion/24davies.html). *New York Times Opinion*.
 
 [^Gefter2016]: @Gefter_2016_The_case_against_reality\.
 [^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_must_challenge_what_makes_studies\.
@@ -695,33 +698,33 @@ Criticisms of naturalism
 
 -   Defenses of naturalism:
     -   *Every Thing Must Go* [^Ladyman2007]
-    -   Rosenberg, A. [Why I am a naturalist.](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/) *New York Times*. [^Rosenberg2011]
-    -   Mallon, R. (2019). [Naturalistic approaches to social construction.](https://plato.stanford.edu/entries/social-construction-naturalistic/) *Stanford Encyclopedia of Philosophy*. 
+    -   Rosenberg, A. [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/). *New York Times*. [^Rosenberg2011]
+    -   Mallon, R. (2019). [Naturalistic approaches to social construction](https://plato.stanford.edu/entries/social-construction-naturalistic/). *Stanford Encyclopedia of Philosophy*. 
 -   Criticisms of postmodernism:
     -   Boghossian, P. (2006). *Fear of Knowledge*. [^Boghossian2006]
-    -   Hicks, S. (2010). [Why Kant is the turning point.](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/)
+    -   Hicks, S. (2010). [Why Kant is the turning point](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/).
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011]
     -   Video: [Explaining Postmodernism In 2018 - Stephen Hicks](https://www.youtube.com/watch?v=-BGbHG63x8w)
-    -   Sartwell, C. (2015). [Philosophy returns to the real world.](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/) *New York Times*. [^Sartwell2015]
-    -   Pluckrose, H. (2016). [Why I no longer identify as a feminist.](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/) *Areo Magazine*. [^Pluckrose2016]
-    -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017]
+    -   Sartwell, C. (2015). [Philosophy returns to the real world](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/). *New York Times*. [^Sartwell2015]
+    -   Pluckrose, H. (2016). [Why I no longer identify as a feminist](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/). *Areo*. [^Pluckrose2016]
+    -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/). *Areo*. [^Pluckrose2017]
 -   Anti-dogma
-    -   Harris, S. (2007). [Response to Paul C. Davies.](https://samharris.org/response-to-paul-c-davies/)
-    -   Siegel, E. (2016). [No, science is not faith-based.](https://medium.com/starts-with-a-bang/no-science-is-not-faith-based-ddc9be25efba) [^Siegel2016]
+    -   Harris, S. (2007). [Response to Paul C. Davies](https://samharris.org/response-to-paul-c-davies/).
+    -   Siegel, E. (2016). [No, science is not faith-based](https://medium.com/starts-with-a-bang/no-science-is-not-faith-based-ddc9be25efba). [^Siegel2016]
 -   Sokal Affair
     -   Sokal [^Sokal1996]
-    -   Weinberg, S. (1996). [Sokal's Hoax.](https://physics.nyu.edu/faculty/sokal/weinberg.html) *The New York Review of Books*. [^Weinberg1996]
+    -   Weinberg, S. (1996). [Sokal's Hoax](https://physics.nyu.edu/faculty/sokal/weinberg.html). *The New York Review of Books*. [^Weinberg1996]
 -   [Grievance Studies Affair](https://en.wikipedia.org/wiki/Grievance_studies_affair) AKA "Sokal squared"
-    -   Mounk, Y. (2018). [What an audacious hoax reveals about academia.](https://www.theatlantic.com/ideas/archive/2018/10/new-sokal-hoax/572212/) *The Atlantic*.
-    -   Beauchamp, Z. (2018). [The controversy around hoax studies in critical theory, explained.](https://www.vox.com/2018/10/15/17951492/grievance-studies-sokal-squared-hoax) *Vox*.
-    -   Pluckrose, H., Lindsay, J.A., & Boghossian, P. (2018). [Academic grievance studies and the corruption of scholarship.](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/) *Areo Magazine*.
+    -   Mounk, Y. (2018). [What an audacious hoax reveals about academia](https://www.theatlantic.com/ideas/archive/2018/10/new-sokal-hoax/572212/). *The Atlantic*.
+    -   Beauchamp, Z. (2018). [The controversy around hoax studies in critical theory, explained](https://www.vox.com/2018/10/15/17951492/grievance-studies-sokal-squared-hoax). *Vox*.
+    -   Pluckrose, H., Lindsay, J.A., & Boghossian, P. (2018). [Academic grievance studies and the corruption of scholarship](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/). *Areo*.
     -   [Grievance Studies Hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax) - rationalwiki.org
 -   Facing post-fact politics
-    -   Pomerantsev, P. (2016). [Why we're post-fact.](https://granta.com/why-were-post-fact/) *Granta*. [^Pomerantsev2016]
-    -   Heer, J. (2017). [America's first postmodern president.](https://newrepublic.com/article/143730/americas-first-postmodern-president) *The New Republic*. [^Heer2017]
-    -   Cadwalladr, C. (2017). [Daniel Dennett: I begrudge every hour I have to spend worrying about politics.](https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview) *The Guardian*. [^Cadwalladr2017]
+    -   Pomerantsev, P. (2016). [Why we're post-fact](https://granta.com/why-were-post-fact/). *Granta*. [^Pomerantsev2016]
+    -   Heer, J. (2017). [America's first postmodern president](https://newrepublic.com/article/143730/americas-first-postmodern-president). *The New Republic*. [^Heer2017]
+    -   Cadwalladr, C. (2017). [Daniel Dennett: I begrudge every hour I have to spend worrying about politics](https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview). *The Guardian*. [^Cadwalladr2017]
     -   Williams, C. (2017). [Has Trump stolen philosophy's critical tools?](https://www.nytimes.com/2017/04/17/opinion/has-trump-stolen-philosophys-critical-tools.html) *The New York Times*. [^Williams2017]
-    -   Leah, R. (2018). ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer.](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/) *Salon*. [^Leah2018]
+    -   Leah, R. (2018). ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/). *Salon*. [^Leah2018]
     -   Friedersdorf, C. (2018). [Why can't people hear what Jordan Peterson is saying?](https://www.theatlantic.com/politics/archive/2018/01/putting-monsterpaint-onjordan-peterson/550859/). *The Atlantic*.
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
@@ -746,18 +749,21 @@ Criticisms of naturalism
 ### Counter rebutals
 
 -   Defenses of postmodernism:
-    -   McManus, M. (2018). [A review of *Explaining Postmodernism* by Stephen Hicks.](https://areomagazine.com/2018/10/17/a-review-of-explaining-postmodernism-by-stephen-hicks/comment-page-1/) *Areo Magazine*.
+    -   McManus, M. (2018). [A review of *Explaining Postmodernism* by Stephen Hicks](https://areomagazine.com/2018/10/17/a-review-of-explaining-postmodernism-by-stephen-hicks/comment-page-1/). *Areo*.
     -   Video: [Cuck Philosophy: A Critique of Stephen Hicks' "Explaining Postmodernism"](https://www.youtube.com/watch?v=EHtvTGaPzF4)
-    -   Perrin, A. J. (2017). [Stop blaming postmodernism for post-truth politics.](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845) *The Chronicle of Higher Education*. [^Perrin2017]
-    -   [Myth and mayhem: A leftist critique of Jordan Peterson](https://areomagazine.com/2020/04/19/myth-and-mayhem-a-leftist-critique-of-jordan-peterson/) [^McManus2020]
+    -   Perrin, A. J. (2017). [Stop blaming postmodernism for post-truth politics](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845). *The Chronicle of Higher Education*. [^Perrin2017]
+    -   McManus, M. (2020). [Myth and mayhem: A leftist critique of Jordan Peterson](https://areomagazine.com/2020/04/19/myth-and-mayhem-a-leftist-critique-of-jordan-peterson/). *Areo*. [^McManus2020]
 -   Criticisms of the Grievance Studies Hoax
-    -   Hughes, V. & Aldhous, P. (2018). [Here's what critics say about that big new hoax on gender studies.](https://www.buzzfeednews.com/article/virginiahughes/grievance-studies-sokal-hoax)
-    -   Egginton, W. (2018). [What the 'Grievance Studies' Hoax really shows.](https://www.nytimes.com/2018/10/06/opinion/grievance-studies-hoax.html) *New York Times*.
+    -   Hughes, V. & Aldhous, P. (2018). [Here's what critics say about that big new hoax on gender studies](https://www.buzzfeednews.com/article/virginiahughes/grievance-studies-sokal-hoax).
+    -   Egginton, W. (2018). [What the 'Grievance Studies' Hoax really shows](https://www.nytimes.com/2018/10/06/opinion/grievance-studies-hoax.html). *New York Times*.
 -   Criticisms of scientism:
-    -   Thomas, B. (2015). [A disease of scienceyness.](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953) [^Thomas2015]
-    -   Konnikova, M. (2012). [Humanities aren't a science. Stop treating them like one.](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/) *Scientific American Blogs*. [^Konnikova2012]
-    -   McCrea, A. (2019). [The magical thinking of guys who love logic.](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic) [^McCrea2019]
-    -   Shifrel, Z. (2019). [The logic fetishists.](https://blog.usejournal.com/the-logic-fetishists-464226cb3141)
+    -   Thomas, B. (2015). [A disease of scienceyness](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953). [^Thomas2015]
+    -   Konnikova, M. (2012). [Humanities aren't a science. Stop treating them like one](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/). *Scientific American Blogs*. [^Konnikova2012]
+    -   McCrea, A. (2019). [The magical thinking of guys who love logic](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic). [^McCrea2019]
+    -   Shifrel, Z. (2019). [The logic fetishists](https://blog.usejournal.com/the-logic-fetishists-464226cb3141).
+    -   Dang, H. & Bright, L.K. (2021). [How to make sense of contradictory science papers](https://nautil.us/issue/100/outsiders/how-to-make-sense-of-contradictory-science-papers). *Nautilus*.
+-   Criticisms of New Atheism:
+    -   Torres, P. (2021). [Godless grifters: How the New Atheists merged with the far right](https://www.salon.com/2021/06/05/how-the-new-atheists-merged-with-the-far-right-a-story-of-intellectual-grift-and-abject-surrender/). *Salon*.
 -   Relationship to SJW vs IDW battles
     -   "Logic bros"
     -   Realists, independent of politics, often find themselves in the company
@@ -1018,7 +1024,7 @@ Click to show links
 
 ### Videos
 
--   [Arkani-Hamed, Nima. (2016). The morality of fundamental physics.](https://www.youtube.com/watch?v=iWTbWIDNTDU)
+-   [Arkani-Hamed, Nima. (2016). The morality of fundamental physics](https://www.youtube.com/watch?v=iWTbWIDNTDU).
 -   [Dennett, Daniel C. (2016). Ontology, science, and the evolution of the manifest image?](https://www.youtube.com/watch?v=GcVKxeKFCHE)
 -   [Dennett, Daniel C. (2017). From Bacteria to Bach and Back: The Evolution of Minds](https://www.youtube.com/watch?v=IZefk4gzQt4)
 -   [Williamson, Timothy. (2016). What is Naturalism?](https://www.youtube.com/watch?v=33qfCWesE1E)

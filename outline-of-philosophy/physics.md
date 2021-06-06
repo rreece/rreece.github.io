@@ -274,6 +274,7 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 
 ### Quantum chemistry
 
+-   Density functional theory
 -   Cao et al. (2019). Physical origin of chemical periodicities. [^Cao2019]
 
 [^Cao2019]: @Cao_2019_Physical_origin_of_chemical_periodicities\.

@@ -259,6 +259,8 @@ Moore & Kelle:
 -   [Shia Islam](https://en.wikipedia.org/wiki/Shia_Islam) - mainly in Iran and Iraq
     -   [Safavid conversion of Iran to Shia Islam](https://en.wikipedia.org/wiki/Safavid_conversion_of_Iran_to_Shia_Islam)
 -   [Sufism](https://en.wikipedia.org/wiki/Sufism) - Islamic mysticism
+    -   [Hazrat Babajan](https://en.wikipedia.org/wiki/Hazrat_Babajan) (d. 1931)
+    -   [Meher Baba](https://en.wikipedia.org/wiki/Meher_Baba) (1894-1969)
     -   [George Gurdjieff](https://en.wikipedia.org/wiki/George_Gurdjieff) (d. 1949)
 
 
@@ -1885,7 +1887,7 @@ Bertrand Russell:
 -   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
     -   *The Courage to Be* (1952)
 
-[^Russell1989p303]: HERE
+[^Russell1989p303]: @Russell_1989_Wisdom_of_the_West\, p. 303.
 [^Sartre1946]: @Sartre_2007_Existentialism_is_a_Humanism\.
 
 

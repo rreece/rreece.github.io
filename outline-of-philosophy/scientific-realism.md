@@ -981,6 +981,9 @@ Various reactions to positivism.
     and late (*PI*) Wittgenstein. It is quite the about-face.
     -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
     -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
+
+-   PI:
+    -   duck-rabbit; "seeing that" vs "seeing as"
 -   Rorty
     -   Wittgenstein, Heidegger, and the reification of language. [^Rorty1991]
     -   "Obsession with this image of something deeply hidden"
