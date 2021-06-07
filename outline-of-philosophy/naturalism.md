@@ -762,6 +762,20 @@ Criticisms of naturalism
     -   McCrea, A. (2019). [The magical thinking of guys who love logic](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic). [^McCrea2019]
     -   Shifrel, Z. (2019). [The logic fetishists](https://blog.usejournal.com/the-logic-fetishists-464226cb3141).
     -   Dang, H. & Bright, L.K. (2021). [How to make sense of contradictory science papers](https://nautil.us/issue/100/outsiders/how-to-make-sense-of-contradictory-science-papers). *Nautilus*.
+
+Dang & Bright:
+
+>   Fortunately, these norms of assertion don’t constrain science. We rightly
+>   tolerate the fact that it is, essentially, what you could politely call
+>   guesswork. Researchers must constantly be open to nature surprising them,
+>   and spread out over conceptual space, exploring whatever may be found. The
+>   trouble is that the general social esteem in which people hold science
+>   makes it natural for them to make an unhelpful assumption.
+>   That if scientific claims differ from the sort of claims each of us make
+>   every day, it is because the scientific ones have a better standing—better
+>   checked, have more evidence behind them, carry greater weight than our
+>   everyday assertions. [^Dang2021]
+
 -   Criticisms of New Atheism:
     -   Torres, P. (2021). [Godless grifters: How the New Atheists merged with the far right](https://www.salon.com/2021/06/05/how-the-new-atheists-merged-with-the-far-right-a-story-of-intellectual-grift-and-abject-surrender/). *Salon*.
 -   Relationship to SJW vs IDW battles
@@ -777,6 +791,8 @@ Criticisms of naturalism
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
+
+[^Dang2021]: @Dang_2021_How_to_make_sense_of_contradictory_science_papers\.
 
 
 ### Culture wars
