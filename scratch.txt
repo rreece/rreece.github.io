@@ -1,4 +1,22 @@
 
+<div class="clickmore"><a id="link:news-more" class="closed" onclick="toggle_more('news-more')">Old news</a></div>
+<div id="news-more" class="more">
+-   Nov 2014:
+    I am awarded a 6 month fellowship, US ATLAS Scholar,
+    to be at Lawrence Berkeley National Laboratory (LBL) in Berkeley, CA,
+    continuing collaboration with the ATLAS Experiment.
+-   July 2013: I started a postdoctoral fellowship with the
+    Santa Cruz Institute for Particle Physics (SCIPP)
+    at UC Santa Cruz.
+-   July 2013: I defended my PhD at Penn.
+-   On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214)
+    and [CMS](https://arxiv.org/abs/1207.7235)
+    experiments both announce the discovery of a new particle consistent with
+    the standard model Higgs boson.
+</div> <!-- end clickmore -->
+
+--------------------------------------------------------------------------------
+
 -   skype: ryan.reece
 -   [statisticalsignificance.net](http://statisticalsignificance.net/) -- my blog (still trying to get this going)
 

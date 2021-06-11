@@ -673,7 +673,9 @@ Criticisms of naturalism
     -   See also: [Criticism of moral naturalism](ethics.html#criticism-1) in the [Outline on ethics](ethics.html)
 -   Postmodernism and social construction
     -   Gorton, W.A. (2010). [The philosophy of social science: Criticisms of naturalism](http://www.iep.utm.edu/soc-sci/#H2). *Internet Encyclopedia of Philosophy*.
--   "The Science Wars"
+-   ["Science Wars"](https://en.wikipedia.org/wiki/Science_wars)
+    -   1996 "Science Wars" issue of *Social Text*, 46. Duke University Press.
+    -   Henriques, G. (2012). [Revisiting the Science Wars: Toward a scientific humanistic worldview](https://www.psychologytoday.com/us/blog/theory-knowledge/201206/revisiting-the-science-wars). *Psychology Today*.
     -   Kofman, A. (2018). [Bruno Latour, the post-truth philosopher, mounts a defense of science](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html). *New York Times*.
 -   Tautological:
     -   Of course science (scientia) is the domain of all knowledge if the tent is large enough.
@@ -696,6 +698,11 @@ Criticisms of naturalism
 
 ### Rebutals
 
+-   ["Science Wars"](https://en.wikipedia.org/wiki/Science_wars)
+    -   Paul R. Gross and Norman Levitt. (1994). *Higher Superstition: The Academic Left and Its Quarrels With Science*.
+-   [Sokal Affair](https://en.wikipedia.org/wiki/Sokal_affair)
+    -   Sokal [^Sokal1996]
+    -   Weinberg, S. (1996). [Sokal's Hoax](https://physics.nyu.edu/faculty/sokal/weinberg.html). *The New York Review of Books*. [^Weinberg1996]
 -   Defenses of naturalism:
     -   *Every Thing Must Go* [^Ladyman2007]
     -   Rosenberg, A. [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/). *New York Times*. [^Rosenberg2011]
@@ -711,9 +718,6 @@ Criticisms of naturalism
 -   Anti-dogma
     -   Harris, S. (2007). [Response to Paul C. Davies](https://samharris.org/response-to-paul-c-davies/).
     -   Siegel, E. (2016). [No, science is not faith-based](https://medium.com/starts-with-a-bang/no-science-is-not-faith-based-ddc9be25efba). [^Siegel2016]
--   Sokal Affair
-    -   Sokal [^Sokal1996]
-    -   Weinberg, S. (1996). [Sokal's Hoax](https://physics.nyu.edu/faculty/sokal/weinberg.html). *The New York Review of Books*. [^Weinberg1996]
 -   [Grievance Studies Affair](https://en.wikipedia.org/wiki/Grievance_studies_affair) AKA "Sokal squared"
     -   Mounk, Y. (2018). [What an audacious hoax reveals about academia](https://www.theatlantic.com/ideas/archive/2018/10/new-sokal-hoax/572212/). *The Atlantic*.
     -   Beauchamp, Z. (2018). [The controversy around hoax studies in critical theory, explained](https://www.vox.com/2018/10/15/17951492/grievance-studies-sokal-squared-hoax). *Vox*.
@@ -751,7 +755,7 @@ Criticisms of naturalism
 -   Defenses of postmodernism:
     -   McManus, M. (2018). [A review of *Explaining Postmodernism* by Stephen Hicks](https://areomagazine.com/2018/10/17/a-review-of-explaining-postmodernism-by-stephen-hicks/comment-page-1/). *Areo*.
     -   Video: [Cuck Philosophy: A Critique of Stephen Hicks' "Explaining Postmodernism"](https://www.youtube.com/watch?v=EHtvTGaPzF4)
-    -   Perrin, A. J. (2017). [Stop blaming postmodernism for post-truth politics](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845). *The Chronicle of Higher Education*. [^Perrin2017]
+    -   Perrin, A.J. (2017). [Stop blaming postmodernism for post-truth politics](http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845). *The Chronicle of Higher Education*. [^Perrin2017]
     -   McManus, M. (2020). [Myth and mayhem: A leftist critique of Jordan Peterson](https://areomagazine.com/2020/04/19/myth-and-mayhem-a-leftist-critique-of-jordan-peterson/). *Areo*. [^McManus2020]
 -   Criticisms of the Grievance Studies Hoax
     -   Hughes, V. & Aldhous, P. (2018). [Here's what critics say about that big new hoax on gender studies](https://www.buzzfeednews.com/article/virginiahughes/grievance-studies-sokal-hoax).
@@ -780,9 +784,11 @@ Dang & Bright:
     -   Torres, P. (2021). [Godless grifters: How the New Atheists merged with the far right](https://www.salon.com/2021/06/05/how-the-new-atheists-merged-with-the-far-right-a-story-of-intellectual-grift-and-abject-surrender/). *Salon*.
 -   Relationship to SJW vs IDW battles
     -   "Logic bros"
-    -   Realists, independent of politics, often find themselves in the company
+    -   Realists (platonists), independent of politics, often find themselves in the company
         of traditional-values conservatives in the rejection of naive
         postmodernism.
+    -   L.K. Bright [claims](https://twitter.com/lastpositivist/status/1250945854590124036)
+        that the SJW vs IDW divide is a recasting of nominalism vs platonism.
 
 <center>
 <blockquote class="twitter-tweet">
@@ -798,6 +804,7 @@ Dang & Bright:
 ### Culture wars
 
 -   The Two Cultures
+    -   C.P. Snow
 -   2 + 2 = 5 Twitter controversy
     -   <https://twitter.com/kareem_carr/status/1288991602069970946>
     -   <https://twitter.com/EpiEllie/status/1291744508376383488>

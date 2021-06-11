@@ -30,9 +30,6 @@ News
     technique, OnlineNorm, for training deep neural networks with small batch sizes
     ([arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
 -   Apr 2018: I joined [Cerebras Systems](https://www.cerebras.net/) as a machine learning engineer.
-
-<div class="clickmore"><a id="link:news-more" class="closed" onclick="toggle_more('news-more')">Old news</a></div>
-<div id="news-more" class="more">
 -   Nov 2014:
     I am awarded a 6 month fellowship, US ATLAS Scholar,
     to be at Lawrence Berkeley National Laboratory (LBL) in Berkeley, CA,
@@ -45,7 +42,6 @@ News
     and [CMS](https://arxiv.org/abs/1207.7235)
     experiments both announce the discovery of a new particle consistent with
     the standard model Higgs boson.
-</div> <!-- end clickmore -->
 
 
 Contact
