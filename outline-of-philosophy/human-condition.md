@@ -1377,15 +1377,18 @@ Me: And then there was hip hop.
 ### Criticism
 
 -   [Marquis de Sade](https://en.wikipedia.org/wiki/Marquis_de_Sade) (1740-1814)
+    -   *Philosophy in the Bedroom* (1795)
 -   [Isaiah Berlin](https://en.wikipedia.org/wiki/Isaiah_Berlin) (1909-1997)
     -   *The Roots of Romanticism* (1965)
 -   [Saul Bellow](https://en.wikipedia.org/wiki/Saul_Bellow) (1915-2005)
--   [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (b. 1933)
 -   [Camille Paglia](https://en.wikipedia.org/wiki/Camille_Paglia) (b. 1947)
+    -   *Sexual Personae* (1990)
 -   [Alain de Botton](https://en.wikipedia.org/wiki/Alain_de_Botton) (b. 1969)
     -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
     -   [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
     -   [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
+-   See also:
+    -   [Nihilism](#nihilism)
 
 
 Comparitive studies
@@ -1940,7 +1943,35 @@ Carl Sagan discussing Nietzsche:
 ### Artworks
 
 -   [Dadaism](https://en.wikipedia.org/wiki/Dada)
+-   [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (b. 1933)
 -   [Dynamite](https://frostplace.org/dynamite-by-anders-carlson-wee/) - poem by Anders Carlson-Wee
+
+>   The way of the transgressor is hard. God made this
+>   world, but he didnt make it to suit everbody, did he?
+>   
+>   I dont believe he much had me in mind.
+>   
+>   Aye, said the old man. But where does a man come by his notions.
+>   What world's he seen that he liked better?
+>   
+>   I can think of better places and better ways.
+>   
+>   Can ye make it be?
+>   
+>   No.
+>   
+>   No. It's a mystery. A man's at odds to know his mind cause his mind is aught he has to know it
+>   with. He can know his heart, but he dont want to. Rightly so. Best not to look in there. It aint
+>   the heart of a creature that is bound in the way that God has set for it. You can find meanness in
+>   the least of creatures, but when God made man the devil was at his elbow. A creature that can
+>   do anything. Make a machine. And a machine to make the machine. And evil that can run itself
+>   a thousand years, no need to tend it. You believe that?
+>   
+>   I dont know.
+>   
+>   Believe that. [^McCarthy1985ch2]
+
+[^McCarthy1985ch2]: McCarthy, C. (1985). *Blood Meridian*, ch. 2.
 
 
 My thoughts
