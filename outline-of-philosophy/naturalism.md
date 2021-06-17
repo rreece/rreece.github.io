@@ -435,7 +435,8 @@ Leibniz:
 ![The scale of the universe mapped to the branches of science and the hierarchy of science.
     (CC BY-SA 3.0 [Wikimedia](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png), 2013).](img/the-scientific-universe.png){#fig:the-scientific-universe}
 
-Also compare with the model of levels in @Oppenheim_1958_Unity_of_science_as_a_working_hypothesis.
+-   Compare with the model of levels in @Oppenheim_1958_Unity_of_science_as_a_working_hypothesis.
+-   [The Metaphysical Unity of Science Project](https://metascience.xyz/the-project) at U. of Bristol
 
 Wittgenstein:
 
