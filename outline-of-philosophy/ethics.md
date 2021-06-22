@@ -63,6 +63,7 @@ Consequentialism
 -   Epicurianism
 -   De Quincey, T. (1821). *Confessions of an English Opium-Eater*.
 -   Hunter S. Thompson
+-   Christopher Hitchens. (2003). [Living proof](https://www.vanityfair.com/news/2003/03/hitchens-200303). *Vanity Fair*.
 
 
 ### Effective altruism
@@ -297,9 +298,13 @@ Shields:
 Free speech 
 --------------------------------------------------------------------------------
 
-### Motivation
+### Introduction
 
--   TODO
+-   John Milton. (1644). [*Areopagitica*](https://en.wikipedia.org/wiki/Areopagitica).
+-   [First Amendment to the United States Constitution](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution) (1791)
+-   [Oliver Wendell Holmes Jr.](https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes_Jr.) (1841-1935)
+-   Christopher Hitchens. (2006). [Talk on free speech](https://www.youtube.com/watch?v=olefVguutfo) at University of Toronto's Hart House Debating Club.
+    -   "Don't take refuge in the false security of concensus."
 
 
 ### Hate speech

@@ -1234,8 +1234,7 @@ Blogs:
 
 ### Computer vision
 
-Computer Vision (CV)
-
+-   Computer Vision (CV)
 -   Fukushima: neocognitron [^Fukushima1982]
 -   LeCun: OCR with backpropagation [^LeCun1989]
 -   LeCun: LeNet-5 [^LeCun1998]
@@ -1483,7 +1482,8 @@ Roberts:
 -   Bahri [^Bahri2020]
 -   Halverson [^Halverson2020]
 -   Canatar, A., Bordelon, B., & Pehlevan, C. (2020). [Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks](https://arxiv.org/abs/2006.13198).
--   Roberts, Yaida, & Hanin. (2021). *The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*. Forthcoming from Cambridge University Press. [^Roberts2021PDLT]
+-   Roberts, Yaida, & Hanin. (2021). *The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*. [^Roberts2021PDLT]
+    -   Introduced in [Facebook AI's blog](https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/)
 
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
 [^Halverson2020]: @Halverson_2020_Neural_networks_and_quantum_field_theory\.

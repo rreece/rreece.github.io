@@ -139,7 +139,7 @@ Reichenbach, H. (1940). On the justification of induction. *The Journal of Philo
 Reid, C. (1998). *Neyman*. Springer-Verlag.
 Rice, J.A. (2007). *Mathematical Statistics and Data Analysis* (3rd ed.). Thomson.
 Roberts, D.A. (2021). Why is AI hard and physics simple? https://arxiv.org/abs/2104.00008
-Roberts, D.A., Yaida, S., & Hanin, B. (2021). *The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*. Cambridge University Press. [(Forthcoming)]
+Roberts, D.A., Yaida, S., & Hanin, B. (2021). *The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*. Cambridge University Press. https://deeplearningtheory.com/PDLT.pdf
 Royall, R. (1997). *Statistical Evidence: A likelihood paradigm*. CRC Press.
 Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533--536.
 Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.
