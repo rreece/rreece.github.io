@@ -434,12 +434,10 @@ $$ \Rightarrow \mathrm{NLL} = \sum_i \mathrm{NLL}_i $$
 TODO:
 
 -   Reference Kendall
--   Karhunen-Loeve eigenvalue problems in cosmology: How should we tackle large data sets? [^Tegmark1997]
 -   Least squares from MLE of gaussian models: $\chi^2$
 -   Ordinary Least Squares (OLS)
 -   Geometric interpretation [^Murphy2012p222]
 
-[^Tegmark1997]: @Tegmark_1997_Karhunen_Loeve_eigenvalue_problems_in_cosmology\.
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 [^Murphy2012p222]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 222.
 
@@ -452,14 +450,22 @@ TODO:
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
     -   for unbiased and efficient estimators
     -   proof in Rice [^Rice2007p300]
--   Variance of MLEs by the method of $\Delta\chi^2$ or $\Delta{}L$
+-  [Fisher information matrix](https://en.wikipedia.org/wiki/Fisher_information)
+    -   "is the key part of the proof of Wilks' theorem, which allows confidence region estimates for maximum likelihood estimation (for those conditions for which it applies) without needing the Likelihood Principle."
+-   Variance of MLEs
+    -   [Wilks's theorem](https://en.wikipedia.org/wiki/Wilks%27_theorem)
+    -   Method of $\Delta\chi^2$ or $\Delta{}L$
     -   Invariance of likelihoods to reparametrization (TODO: James)
+    -   Frequentist confidence intervals (e.g. at 95% CL)
+    -   See slides for my talk: [Primer on statistics: MLE, Confidence Intervals, and Hypothesis Testing](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf)
+    -   Karhunen-Lo&egrave;ve eigenvalue problems in cosmology: How should we tackle large data sets? [^Tegmark1997]
 
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
     @Rao_1945_Information_and_the_accuracy_attainable\, and
     @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
 [^Rice2007p300]: @Rice_2007_Mathematical_Statistics_and_Data_Analysis\, p. 300--2.
+[^Tegmark1997]: @Tegmark_1997_Karhunen_Loeve_eigenvalue_problems_in_cosmology\.
 
 
 ### Bayesian credibility intervals
