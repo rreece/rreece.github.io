@@ -163,6 +163,7 @@ Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning wit
 Sutton, R.S., & Barto, A.G. (2018). *Reinforcement Learning* (2nd ed.). MIT Press.
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Tan, M. & Le, Q.V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. https://arxiv.org/abs/1905.11946
+Tegmark, M., Taylor, A.N., & Heavens, A.F. (1997). Karhunen-Loeve eigenvalue problems in cosmology: How should we tackle large data sets? *The Astrophysical Journal*, 480, 22--35. https://arxiv.org/abs/astro-ph/9603021
 Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
 Tukey, J.W. (1962). The future of data analysis. *The Annals of Mathematical Statistics*, 33(1), 1--67.
 Tukey, J.W. (1977). *Exploratory Data Analysis*. Pearson.

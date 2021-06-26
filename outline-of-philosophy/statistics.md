@@ -433,10 +433,13 @@ $$ \Rightarrow \mathrm{NLL} = \sum_i \mathrm{NLL}_i $$
 
 TODO:
 
+-   Reference Kendall
+-   Karhunen-Loeve eigenvalue problems in cosmology: How should we tackle large data sets? [^Tegmark1997]
 -   Least squares from MLE of gaussian models: $\chi^2$
 -   Ordinary Least Squares (OLS)
 -   Geometric interpretation [^Murphy2012p222]
 
+[^Tegmark1997]: @Tegmark_1997_Karhunen_Loeve_eigenvalue_problems_in_cosmology\.
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 [^Murphy2012p222]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 222.
 
@@ -714,7 +717,7 @@ Neyman:
         the [conditionality principle](https://en.wikipedia.org/wiki/Conditionality_principle)
         and the [sufficiency principle](https://en.wikipedia.org/wiki/Sufficient_statistic).  [^Birnbaum1962]
     -   Hacking identified the "law of likelihood". [^Hacking1965]
--   Berger & Wolpert. (1988). *The Likelihood Principle* [^Berger1988]
+-   Berger & Wolpert. (1988). *The Likelihood Principle*. [^Berger1988]
 
 O'Hagan:
 

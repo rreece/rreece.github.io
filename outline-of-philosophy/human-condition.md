@@ -901,6 +901,7 @@ Online Suttas:
 -   [Tantra](https://en.wikipedia.org/wiki/Tantra) - esoteric teachings in Hinduism and Buddhism
     -   literally: "loom, weave, system"
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
+    -   [Padmasambh&amacr;va](https://en.wikipedia.org/wiki/Padmasambh%C4%81va) (fl. 767)
     -   [B&ouml;n](https://en.wikipedia.org/wiki/Bon)
     -   [Nyingma](https://en.wikipedia.org/wiki/Nyingma)
     -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) - "Great Perfection"
