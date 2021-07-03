@@ -19,6 +19,9 @@ Human history
 
 ### Early hunter gatherers
 
+-   [Human history](https://en.wikipedia.org/wiki/Human_history)
+-   [Behavioral modernity](https://en.wikipedia.org/wiki/Behavioral_modernity)
+
 ![Map of migrations of early homo sapiens ([ancient.eu](https://www.ancient.eu/article/1070/early-human-migration/), 2017).](img/early-human-migration.png){#fig:early-human-migration}
 
 >   The early human migrations
@@ -52,7 +55,15 @@ Human history
 
 ### First civilizations
 
-The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilization):
+![Map showing the approximate centers of the six independent origins
+    of agriculture and its spread in prehistory. [^Diamond2003]
+    ](img/spread-of-agriculture.png){#fig:spread-of-agriculture}
+
+The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+marks the start of agriculture, animal husbandry,
+and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilization).
+
+[^Diamond2003]: @Diamond_2003_Farmers_and_their_languages_the_first_expansions\.
 
 #### Fertile Crescent
 
@@ -125,22 +136,16 @@ The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) a
 -   [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block) with Olmec hieroglyphs possibly as early as c. 1,000 BCE
 -   See also: [American religions](#american).
 
-![Map of the world showing approximate centers of the six independent origins
-    of agriculture and its spread in prehistory. [^Diamond2003]
-    ](img/spread-of-agriculture.png){#fig:spread-of-agriculture}
-
-See also the [Outline on the scientific method](scientific-method.html):
-[History of science](scientific-method.html#history-of-science).
-
-[^Diamond2003]: @Diamond_2003_Farmers_and_their_languages_the_first_expansions\.
-
 
 ### Industrial Revolution
 
 -   Muehlhauser, L. (2017). [Three wild speculations from amateur quantitative macrohistory](http://lukemuehlhauser.com/three-wild-speculations-from-amateur-quantitative-macrohistory/).
 -   Muehlhauser, L. (2017). [How big a deal was the Industrial Revolution?](http://lukemuehlhauser.com/industrial-revolution/)
--   See also: [Technological growth](http://rreece.github.io/outline-of-philosophy/future.html#technological-growth)
-    in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
+-   See also:
+    -   [History of science](scientific-method.html#history-of-science)
+        in the [Outline on the scientific method](scientific-method.html).
+    -   [Technological growth](future.html#technological-growth)
+        in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
 
 Feynman:
 
@@ -386,8 +391,8 @@ Others:
 #### Indian empiricism
 
 -   [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka)
-    -   materialist, aethist, skeptic
-    -   like Hume, points out that induction is falible
+    -   materialist, atheist, skeptic
+    -   like Hume, points out that induction is fallible
     -   similar to Epicureanism in hedonic ethics
     -   worldhistory.org: [Charvaka](https://www.worldhistory.org/Charvaka/)
 -   [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika)
@@ -942,7 +947,9 @@ Other religions
 
 #### Egyptian
 
--   TODO
+-   [Prehistoric Egypt](https://en.wikipedia.org/wiki/Prehistoric_Egypt)
+-   [Ancient Egyptian religion](https://en.wikipedia.org/wiki/Ancient_Egyptian_religion)
+
 
 #### Greco-Roman
 
@@ -1397,10 +1404,14 @@ Comparitive studies
 
 ### Introduction
 
+-   [Engelbert Kaempfer](https://en.wikipedia.org/wiki/Engelbert_Kaempfer) (1651-1716)
 -   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
     -   Particularly known for his proposition of the existence of a relationship among European and Indo-Aryan languages, which he coined as Indo-European.
     -   He hypothesized that Sanskrit, Greek, and Latin languages have a common root: [Proto-Indo-European language](https://en.wikipedia.org/wiki/Proto-Indo-European_language).
+-   [Philipp Franz von Siebold](https://en.wikipedia.org/wiki/Philipp_Franz_von_Siebold) (1796-1866)
+-   [Lewis H. Morgan](https://en.wikipedia.org/wiki/Lewis_H._Morgan) (1818-1881)
 -   [Max M&uuml;ller](https://en.wikipedia.org/wiki/Max_M%C3%BCller) (1823-1900)
+-   [Edward Burnett Tylor](https://en.wikipedia.org/wiki/Edward_Burnett_Tylor) (1832-1917)
 
 
 ### Indian and Greek philosophy

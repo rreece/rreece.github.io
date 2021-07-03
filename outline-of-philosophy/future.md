@@ -22,6 +22,11 @@ Risk
 -   Anthropic bias [^Bostrom2002]
 -   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
 -   Existential threats
+    -   Climate change
+    -   WMDs
+    -   ...
+-   See also:
+    -   [Ecology](ethics.html#ecology) in the [Outline on Ethics](ethics.html).
 
 [^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
 
