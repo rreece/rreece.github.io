@@ -497,7 +497,7 @@ TODO:
 Statistical classification
 --------------------------------------------------------------------------------
 
--   classification
+-   Classification
     -   Precision vs recall
     -   Recall is sensitivity
     -   Sensitivity vs specificity
@@ -578,12 +578,10 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 [^Read2002]: @Read_2002_Presentation_of_search_results_the_CLs_technique\.
 
 
-#### More
+#### Flip-flopping
 
 -   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
--   Criteria for projected discovery and exclusion sensitivities of counting experiments [^Bhattiprolu2020]
 
-[^Bhattiprolu2020]: @Bhattiprolu_2020_Criteria_for_projected_discovery_and_exclusion\.
 [^Feldman1998]: @Feldman_1998_A_unified_approach_to_the_classical_statistical\.
 
 
@@ -595,7 +593,9 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 -   Cowan _et al_.[^Cowan2011]
     -   Wald approximation
     -   Asimov dataset
+-   Criteria for projected discovery and exclusion sensitivities of counting experiments [^Bhattiprolu2020]
 
+[^Bhattiprolu2020]: @Bhattiprolu_2020_Criteria_for_projected_discovery_and_exclusion\.
 [^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 [^Wald1943]: @Wald_1943_Tests_of_statistical_hypotheses_concerning_several\.
 [^Wilks1938]: @Wilks_1938_The_large_sample_distribution_of_the_likelihood\.

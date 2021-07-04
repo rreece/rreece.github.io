@@ -98,6 +98,8 @@ Click to show the paltry outline of the history of science
 -   [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism) (between c. 200 and 100 BCE)
 -   [Lucretius](http://en.wikipedia.org/wiki/Lucretius) (99-55 BCE)
 -   [Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) (c. 100-170 CE)
+-   See also:
+    -   [Human history](human-condition.html#human-history) in the [Outline on the human condition](human-condition.html#human-history).
 
 Russell:
 
