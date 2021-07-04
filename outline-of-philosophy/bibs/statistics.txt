@@ -14,6 +14,7 @@ Belkin, M., Hsu, D., Ma, S., & Mandal, S. (2019). Reconciling modern machine-lea
 Bellman, R. (1952). On the theory of dynamic programming. *PNAS*, 38, 716--719.
 Bengio, Y. (2009). Learning deep architectures for AI. *Foundations and Trends in Machine Learning*, 2(1), 1--127.
 Benjamin, D.J. et al. (2017). Redefine statistical significance. *PsyArXiv*. https://psyarxiv.com/mky9j/ [July 22, 2017]
+Benjamini, Y. et al. (2021). The ASA president's taks force statement on statistical significance and replicability. *Annals of Applied Statistics*, 16, 1--2. https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/ [Forthcoming]
 Bensusan, H. (2000). Is machine learning experimental philosophy of science? In *ECAI2000 Workshop notes on scientific Reasoning in Artificial Intelligence and the Philosophy of Science* (pp. 9--14).
 Berger, J.O. & Wolpert, R.L. (1988). *The Likelihood Principle* (2nd ed.). Haywood, CA: The Institute of Mathematical Statistics.
 Berger, J.O. (2003). Could Fisher, Jeffreys and Neyman have agreed on testing? *Statistical Science*, 18(1), 1--32.
@@ -57,6 +58,7 @@ Dewey, J. (1938). *Logic: The Theory of Inquiry*. New York: Henry Holt and Co.
 Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.
 Efron, B. & Hastie, T. (2016). *Computer Age Statistical Inference: Algorithms, evidence, and data science*. Cambridge University Press.
 Evans, M. (2013). What does the proof of Birnbaum's theorem prove? https://arxiv.org/abs/1302.5468
+Fienberg, S.E. (2006). When did Bayesian inference become "Bayesian"? *Bayesian Analysis*, 1, 1--40. https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full
 Fisher, R.A. (1912). On an absolute criterion for fitting frequency curves. *Statistical Science*, 12(1), 39--41.
 Fisher, R.A. (1915). Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. *Biometrika*, 10(4), 507--521.
 Fisher, R.A. (1921). On the "probable error" of a coefficient of correlation deduced from a small sample. *Metron*, 1, 1--32.

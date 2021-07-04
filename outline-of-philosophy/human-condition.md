@@ -1251,9 +1251,17 @@ Stoic virtues:
 Stoic terms:
 
 -   [Apatheia](https://en.wikipedia.org/wiki/Apatheia)
+-   Apopro&ecirc;gmena - dispreferred things. Morally indifferent but naturally undesirable things, such as illness. Opposite of pro&ecirc;gmena.
 -   [Ataraxia](https://en.wikipedia.org/wiki/Ataraxia)
+-   Cosmopolis
+-   Dogma - principle established by reason and experience.
+-   Doxa - belief, opinion.
 -   [Ekpyrosis](https://en.wikipedia.org/wiki/Ekpyrosis)
 -   [Eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia)
+-   Logos
+-   [Oikei&ocirc;sis](https://en.wikipedia.org/wiki/Oikei%C3%B4sis)
+-   Pathos
+-   Pro&ecirc;gmena - preferred things. Morally indifferent but naturally desirable things, such as health. Opposite of apopro&ecirc;gmena.
 -   [Glossary of terms in Stoicism](https://en.wikipedia.org/wiki/Glossary_of_Stoicism_terms)
 
 Other stuff:
@@ -1263,7 +1271,10 @@ Other stuff:
 -   [Premeditatio malorum](https://dailystoic.com/premeditatio-malorum/)
 -   [Reflective practice](https://en.wikipedia.org/wiki/Reflective_practice)
 -   [Cognitive behavioral therapy (CBT)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
--   See also: [Cognitive behavioral therapy](#cognitive-behavioral-therapy) in the section on [psychology](#psychology).
+-   Pigliucci, M. (2018). [Stoicism and relationships: three models](https://howtobeastoic.wordpress.com/2018/06/14/stoicism-and-relationships-three-models/).
+-   See also:
+    -   [Buddhism and Stoicism](#buddhism-and-stoicism) in the section on [Comparitive studies](#comparitive-studies).
+    -   [Cognitive behavioral therapy](#cognitive-behavioral-therapy) in the section on [psychology](#psychology).
 
 
 ### Related movements

@@ -348,6 +348,10 @@ the goal is to infer values of the model parameters, $\theta_j$
 given some finite set of data, $\{x_i\}$ sampled from a probability density,
 $f(x_i; \theta_j)$ that models the data reasonably well [^NoteClass3].
 
+-   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
+    -   [Inverse probability](https://en.wikipedia.org/wiki/Inverse_probability) (Fisher)
+    -   [Statistical inference](https://en.wikipedia.org/wiki/Statistical_inference)
+    -   See also: [Structural realism](scientific-realism.html#structural-realism)
 -   Estimators
 -   Regression
 -   Accuracy vs precision [^Cowan1998pX]
@@ -470,16 +474,24 @@ TODO:
 
 ### Bayesian credibility intervals
 
--   defined, MAP
--   prior sensitivity
+-   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem) to find a posterior probability distribution.
+    -   Fienberg, S.E. (2006). [When did Bayesian inference become "Bayesian"?](https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full) [^Fienberg2006]
+-   Maximum a posteriori estimation (MAP)
+-   Prior sensitivity
     -   Betancourt, M. (2018). [Towards a principled Bayesian workflow](https://github.com/betanalpha/jupyter_case_studies/blob/master/principled_bayesian_workflow/principled_bayesian_workflow.ipynb) - ipynb
--   not invariant to reparametrization in general
--   Jeffreys priors are
--   Examples:
-    -   Some sample mean
-    -   Measuring efficiency 
-    -   Bayesian lighthouse
-    -   Some HEP fit
+-   Not invariant to reparametrization in general
+    -   Jeffreys priors are
+    -   TODO: James
+
+[^Fienberg2006]: @Fienberg_2006_When_did_Bayesian_inference_become_Bayesian\.
+
+
+### Examples
+
+-   Some sample mean
+-   Measuring efficiency 
+-   Bayesian lighthouse
+-   Some HEP fit
 
 
 Statistical classification
@@ -498,7 +510,8 @@ Statistical classification
     -   Precision vs recall for classification, again
     -   Classification and logistic regression
 -   See also:
-    -   [Logistic regression](#logistic-regression) in the section on [Classical machine learning](#classical-machine-learning)
+    -   [Logistic regression](#logistic-regression) in the section on [Classical machine learning](#classical-machine-learning).
+    -   [Clustering](#clustering) in the section on [Classical machine learning](#classical-machine-learning).
 
 [^Brown2001]: @Brown_2001_Interval_estimation_for_a_binomial_proportion\.
 [^Clopper1934]: @Clopper_1934_The_use_of_confidence_or_fiducial_limits\.
@@ -879,10 +892,21 @@ Replication crisis
 -   Mayo
     -   ["Les stats, c'est moi: We take that step here!"](https://errorstatistics.com/2019/12/13/les-stats-cest-moi-we-take-that-step-here-adopt-our-fav-word-or-phil-stat/)
     -   "Significance tests: Vitiated or vindicated by the replication crisis in psychology?" [^Mayo2021]
+    -   [At long last! The ASA President’s Task Force Statement on Statistical Significance and Replicability](https://errorstatistics.com/2021/06/20/at-long-last-the-asa-presidents-task-force-statement-on-statistical-significance-and-replicability/)
 -   Vox: [What a nerdy debate about p-values shows about science--and how to fix it](https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005)
 -   Karen Kafadar: [The Year in Review ... And More to Come](https://magazine.amstat.org/blog/2019/12/01/kk_dec2019/)
 
+From "The ASA president's task force statement on statistical significance and replicability":
+
+>   *P*-values are valid statistical measures that provide convenient conventions
+>   for communicating the uncertainty inherent in quantitative results. Indeed,
+>   *P*-values and significance tests are among the most studied and best
+>   understood statistical procedures in the statistics literature. They are
+>   important tools that have advanced science through their proper
+>   application. [^Benjamini2021]
+
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
+[^Benjamini2021]: @Benjamini_2021_The_ASA_presidents_taks_force_statement_on\, p. 1.
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
 [^Mayo2021]: @Mayo_2021_Significance_tests_Vitiated_or_vindicated\.
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
