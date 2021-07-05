@@ -176,13 +176,13 @@ Vaswani, A. et al. (2017). Attention is all you need. *Advances in Neural Inform
 Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]
 Vershynin, R. (2018). *High-Dimensional Probability:An introduction with applications in data science*. Cambridge University Press.
 Wakefield, J. (2013). *Bayesian and Frequentist Regression Methods*. Springer.
-Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482.
+Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482. https://www.ams.org/journals/tran/1943-054-03/S0002-9947-1943-0012401-3/S0002-9947-1943-0012401-3.pdf
 Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.
 Wasserstein, R.L., & Lazar, N.A. (2016). The ASA's statement on p-values: Context, process, and purpose. *American Statistician*, 70, 129--133.
 Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. *SSRN*, 3509737. https://ssrn.com/abstract=3509737
 Weintraub, R. (1995). What was Hume's contribution to the problem of induction? *The Philosophical Quarterly*, 45, 460--470.
 Weisberg, J. (2019). *Odds & Ends: Introducing Probability & Decision with a Visual Emphasis*. https://jonathanweisberg.org/vip/
-Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62.
+Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62. https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-9/issue-1/The-Large-Sample-Distribution-of-the-Likelihood-Ratio-for-Testing/10.1214/aoms/1177732360.full
 Williamson, J. (2009). The philosophy of science and its relation to machine learning. In *Scientific Data Mining and Knowledge Discovery* (pp. 77-89). Springer, Berlin, Heidelberg.
 Wolpert, D.H. (1996). The lack of a priori distinctions between learning algorithms. *Neural Computation*, 8, 1341--1390.
 Wolpert, D.H. & Macready, W.G. (1995). No free lunch theorems for search. [Technical Report SFI-TR-95-02-010, Santa Fe Institute]

@@ -1028,6 +1028,12 @@ $$
     \longrightarrow T(\hat{\theta}_k \pm \sigma_{\hat{\theta}_k}, \psi_m)
 $$
 
+Cox:
+
+>   The very word *model* implies idealization of the real system and, except just
+>   possibly in the more esoteric parts of modern physics ...
+>   it hardly makes sense to talk of a model being true. [^Cox2006p84]
+
 Frigg:
 
 >   Morgan and Morrison (1999) rally around the idea that models are instruments
@@ -1057,6 +1063,7 @@ Frigg:
 -   [NPR: How to make sense of all the COVID-19 projections? A new model combines them.](https://www.npr.org/sections/health-shots/2020/05/13/855038708/combining-different-models-new-coronavirus-projection-shows-110-000-deaths-by-ju)
 
 [^Box1976]: @Box_1976_Science_and_statistics\.
+[^Cox2006p84]: @Cox_2006_Principles_of_Statistical_Inference\, p. 84.
 [^Frigg2017]: @Frigg_2017_Models_and_representation\.
 [^Frigg2020]: @Frigg_2020_Models_in_science\.
 [^Morgan1999]: @Morgan_1999_Models_as_Mediators\.

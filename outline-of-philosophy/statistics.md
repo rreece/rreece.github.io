@@ -440,17 +440,18 @@ TODO:
 -   Reference Kendall
 -   Least squares from MLE of gaussian models: $\chi^2$
 -   Ordinary Least Squares (OLS)
--   Geometric interpretation [^Murphy2012p222]
+-   Geometric interpretation
+    -   Cox [^Cox2006p11]
+    -   Murphy [^Murphy2012p222]
 
 [^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
+[^Cox2006p11]: @Cox_2006_Principles_of_Statistical_Inference\, p. 11.
 [^Murphy2012p222]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 222.
 
 
 ### Variance of MLEs
 
 -   Taylor expansion of a likelihood near its maximum
--   Analytic variance of gaussian likelihoods: $\chi^2$
-    -   Wald approximation
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
     -   for unbiased and efficient estimators
     -   proof in Rice [^Rice2007p300]
@@ -458,11 +459,18 @@ TODO:
     -   "is the key part of the proof of Wilks' theorem, which allows confidence region estimates for maximum likelihood estimation (for those conditions for which it applies) without needing the Likelihood Principle."
 -   Variance of MLEs
     -   [Wilks's theorem](https://en.wikipedia.org/wiki/Wilks%27_theorem)
+    -   See also: [Asymptotics](#asymptotics)
     -   Method of $\Delta\chi^2$ or $\Delta{}L$
     -   Invariance of likelihoods to reparametrization (TODO: James)
     -   Frequentist confidence intervals (e.g. at 95% CL)
     -   See slides for my talk: [Primer on statistics: MLE, Confidence Intervals, and Hypothesis Testing](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf)
     -   Karhunen-Lo&egrave;ve eigenvalue problems in cosmology: How should we tackle large data sets? [^Tegmark1997]
+    -   Poisson error bars
+        -   Gaussian approximation: $\sqrt{n}$
+        -   [Wilson-Hilferty approximation](https://www.johndcook.com/blog/wilson_hilferty/)
+    -   Binomial error bars
+        -   Error on efficiency or proportion
+        -   See: [Statistical classification](#statistical-classification)
 
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
@@ -503,8 +511,13 @@ Statistical classification
     -   Sensitivity vs specificity
     -   Accuracy
 -   Uncertainty of measuring an efficiency
+    -   [Binomial proportion confidence interval](https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval)
     -   Normal/Gaussian/Wald interval
+        -   [Derivation of the Wald interval](https://math.stackexchange.com/questions/1448233/the-derivation-of-the-wald-interval)
+    -   Wilson score interval
     -   Clopper-Pearson interval [^Clopper1934]
+    -   Agresti-Coull interval
+        -   [The modified Wald method for computing the confidence interval of a proportion](https://www.graphpad.com/support/faq/the-modified-wald-method-for-computing-the-confidence-interval-of-a-proportion/)
     -   [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(statistics)) [^Hanley1983]
     -   Review by Brown, Cai, & DasGupta [^Brown2001]
     -   Precision vs recall for classification, again
@@ -542,6 +555,7 @@ Fisher:
 -   Power and confidence
 -   Neyman-Pearson lemma [^Neyman1933]
 -   Neyman construction
+-   Likelihood ratio
 
 Neyman-Pearson test statistic:
 
@@ -550,6 +564,14 @@ $$ q_\mathrm{NP} = - 2 \ln \frac{L(H_0)}{L(H_1)} \label{eq:qnp-test-stat} $$
 Background-only Neyman-Pearson test statistic:
 
 $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
+
+Profile likelihood ratio:
+
+$$ \lambda(\mu) = \frac{ L(\mu, \hat{\hat{\theta}}) }{ L(\hat{\mu}, \hat{\theta}) } \label{eq:profile-llh-ratio} $$
+
+where $\hat{\theta}$ is the (unconditional) maximum-likelihood estimator that maximizes $L$,
+while $\hat{\hat{\theta}}$ is the conditional maximum-likelihood estimator that maximizes $L$ for a specified $\mu$,
+and $\theta$ as a vector includes all parameters of interest and nuisance parameters.
 
 ![TODO: ROC explainer. ([Wikimedia](https://commons.wikimedia.org/wiki/File:ROC_curves.svg), 2015).](img/ROC-explainer.png){#fig:ROC-explainer}
 
@@ -563,6 +585,25 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 -   Coverage
 -   Fisherian vs Neyman-Pearson $p$-values
 
+Cowan _et al._ define a $p$-value as
+
+>   a probability, under assumption of $H$, of finding data of equal or
+>   greater incompatibility with the predictions of $H$. [^Cowan2011p2]
+
+Also:
+
+>   It should be emphasized that in an actual scientific context,
+>   rejecting the background-only hypothesis in a statistical sense is
+>   only part of discovering a new phenomenon. One’s degree of belief
+>   that a new process is present will depend in general on other factors
+>   as well, such as the plausibility of the new signal hypothesis and the
+>   degree to which it can describe the data. Here, however, we only
+>   consider the task of determining the $p$-value of the background-only
+>   hypothesis; if it is found below a specified threshold, we regard
+>   this as “discovery”. [^Cowan2011p3]
+
+[^Cowan2011p2]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\, p. 2--3.
+[^Cowan2011p3]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\, p. 3.
 [^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
 
 
@@ -587,13 +628,25 @@ $$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
 
 ### Asymptotics
 
--   Wilks [^Wilks1938]
--   Pearson $\chi^2$-test
--   Wald [^Wald1943]
--   Cowan _et al_.[^Cowan2011]
+-   Analytic variance of the likelihood-ratio of gaussians: $\chi^2$
+    -   Wilks [^Wilks1938]
+        -   Under the null hypothesis, $-2 \ln(\lambda) \sim \chi^{2}_{k}$,
+            where $k$, the degrees of freedom for the $\chi^{2}$ distribution
+            is the number of parameters of interest (including signal strength)
+            in the signal model but not in the null hypothesis background model.
+    -   Wald [^Wald1943]
+        -   Wald generalized the work of Wilks for the case of testing some
+            nonzero signal for exclusion, showing
+            $-2 \ln(\lambda) \approx (\hat{\theta} - \theta)\trans V^{-1} (\hat{\theta} - \theta) \sim \mathrm{noncentral}\:\chi^{2}_{k}$.
+        -   In the simplest case where there is only one parameter of interest
+            (the signal strength, $\mu$), then
+            $-2 \ln(\lambda) \approx \frac{ (\hat{\mu} - \mu)^{2} }{ \sigma^2 }  \sim \mathrm{noncentral}\:\chi^{2}_{1}$.
+    -   Pearson $\chi^2$-test
+-   Cowan _et al._[^Cowan2011]
     -   Wald approximation
     -   Asimov dataset
 -   Criteria for projected discovery and exclusion sensitivities of counting experiments [^Bhattiprolu2020]
+    -   [github.com/prudhvibhattiprolu/Zstats](https://github.com/prudhvibhattiprolu/Zstats)
 
 [^Bhattiprolu2020]: @Bhattiprolu_2020_Criteria_for_projected_discovery_and_exclusion\.
 [^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
@@ -1316,6 +1369,7 @@ Blogs:
     -   Transformer [^Vaswani2017]
     -   BERT [^Devlin2018]
     -   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
+    -   Video: [How to get meaning from text with language model BERT](https://www.youtube.com/watch?v=-9vVhYEXeyQ&ab_channel=Peltarion).
     -   ALBERT [^Lan2019]
     -   GPT-1 [^Radford2018], 2 [^Radford2019], 3 [^Brown2020GPT3]
     -   DeepMind's blog posts for more details: [AlphaFold1](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery),
