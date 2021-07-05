@@ -246,7 +246,10 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 
 ### Likelihood and frequentist vs bayesian probability
 
--   frequentist vs bayesian probability
+-   Frequentist vs bayesian probability
+-   Frequentism grew out of theories of statistical sampling error.
+-   Bayesianism grew out of what used to be called "inverse probability".
+    -   Fienberg, S.E. (2006). [When did Bayesian inference become "Bayesian"?](https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full) [^Fienberg2006]
 -   Weisberg: ["Two Schools"](https://jonathanweisberg.org/vip/two-schools.html) [^Weisberg2019ch15]  
 
 $$ P(H|D) = P(D|H) \: P(H) \: / \: P(D) \label{eq:bayes_theorem_hd} $$
@@ -258,6 +261,7 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 -   We will return to the frequentist vs bayesian debate in the section on the
     ["Statistics Wars"](#statistics-wars).
 
+[^Fienberg2006]: @Fienberg_2006_When_did_Bayesian_inference_become_Bayesian\.
 [^Weisberg2019ch15]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, ch. 15\.
 
 
@@ -408,7 +412,7 @@ TODO:
 -   Note the discussion of the bias-variance tradeoff by [Cranmer](http://theoryandpractice.org/stats-ds-book/statistics/bias-variance.html).
 -   Note the new deep learning view. See [Deep learning](#deep-learning).
 
-[^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\, p. X. 
+[^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\, p. TODO. 
 
 
 ### Maximum likelihood estimation
@@ -483,15 +487,13 @@ TODO:
 ### Bayesian credibility intervals
 
 -   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem) to find a posterior probability distribution.
-    -   Fienberg, S.E. (2006). [When did Bayesian inference become "Bayesian"?](https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full) [^Fienberg2006]
+    -   See also: [Likelihood and frequentist vs bayesian probability](#likelihood-and-frequentist-vs-bayesian-probability)
 -   Maximum a posteriori estimation (MAP)
 -   Prior sensitivity
     -   Betancourt, M. (2018). [Towards a principled Bayesian workflow](https://github.com/betanalpha/jupyter_case_studies/blob/master/principled_bayesian_workflow/principled_bayesian_workflow.ipynb) - ipynb
 -   Not invariant to reparametrization in general
     -   Jeffreys priors are
     -   TODO: James
-
-[^Fienberg2006]: @Fienberg_2006_When_did_Bayesian_inference_become_Bayesian\.
 
 
 ### Examples

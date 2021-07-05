@@ -27,21 +27,33 @@ TODO
 ### History
 
 -   roots from Babylonians
--   Leopold Kronecker (1823-1891)
+-   [&Eacute;variste Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois) (1811-1832)
+-   [Leopold Kronecker](https://en.wikipedia.org/wiki/Leopold_Kronecker) (1823-1891)
 -   arithmetic vs abstract algebra
+
+
+### Finite groups
+
 -   [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
-    -   [&Eacute;variste Galois (1811-1832)](https://en.wikipedia.org/wiki/%C3%89variste_Galois)
-    -   [Sporadic group](https://en.wikipedia.org/wiki/Sporadic_group)
-    -   [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups)
-    -   Elwes, R. (2006). [An enormous theorem: the classification of finite simple groups](https://plus.maths.org/content/enormous-theorem-classification-finite-simple-groups).
-    -   YouTube 3Blue1Brown: [Group theory and why I love       
-        808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000,000](https://www.youtube.com/watch?v=mH0oCDa74tE).
-    -   There are 26 sporadic simple groups (27 if you count the Tits group)
-    -   [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)
-    -   [Richard Borcherds](https://en.wikipedia.org/wiki/Richard_Borcherds) (b. 1959)
+-   [Sporadic group](https://en.wikipedia.org/wiki/Sporadic_group)
+-   [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups)
+-   Elwes, R. (2006). [An enormous theorem: the classification of finite simple groups](https://plus.maths.org/content/enormous-theorem-classification-finite-simple-groups).
+-   There are 26 sporadic simple groups (27 if you count the Tits group).
+-   YouTube 3Blue1Brown: [Group theory and why I love       
+    808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000,000](https://www.youtube.com/watch?v=mH0oCDa74tE).
+-   [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)
+-   [Richard Borcherds](https://en.wikipedia.org/wiki/Richard_Borcherds) (b. 1959)
+
+
+### Lie groups
+
 -   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
-    -   [Sophus Lie (1842-1899)](https://en.wikipedia.org/wiki/Sophus_Lie)
-    -   [Schwichtenberg, J. (XXXX). Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
+-   [Sophus Lie (1842-1899)](https://en.wikipedia.org/wiki/Sophus_Lie)
+-   [Schwichtenberg, J. (XXXX). Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
+
+
+### More
+
 -   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
 -   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
@@ -293,8 +305,8 @@ Category theory
 -   [category theory](https://ncatlab.org/nlab/show/category+theory) - nLab
 -   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
 -   HoTT
--   [post on the Cobordism Hypothesis](https://theoreticalatlas.wordpress.com/2013/04/22/seminar-on-cob-hyp/)
--   Lurie, J. (2009). On the classification of topological field theories. [0905.0465](https://arxiv.org/abs/0905.0465).
+-   Morton, J. (2013). [Blog on the Cobordism Hypothesis](https://theoreticalatlas.wordpress.com/2013/04/22/seminar-on-cob-hyp/).
+-   Lurie, J. (2009). [On the classification of topological field theories](https://arxiv.org/abs/0905.0465).
 -   [Jacob Lurie's Home Page](https://www.math.ias.edu/~lurie/)
 
 

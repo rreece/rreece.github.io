@@ -363,8 +363,13 @@ D_\mathrm{KL}(p, q)
 </ul>
 <h3 id="likelihood-and-frequentist-vs-bayesian-probability">Likelihood and frequentist vs bayesian probability</h3>
 <ul>
-<li>frequentist vs bayesian probability</li>
-<li>Weisberg: <a href="https://jonathanweisberg.org/vip/two-schools.html">&#x201C;Two Schools&#x201D;</a><a href="#fn22" class="footnote-ref" id="fnref22" role="doc-noteref"><sup>22</sup></a></li>
+<li>Frequentist vs bayesian probability</li>
+<li>Frequentism grew out of theories of statistical sampling error.</li>
+<li>Bayesianism grew out of what used to be called &#x201C;inverse probability.&#x201D;
+<ul>
+<li>Fienberg, S.E. (2006). <a href="https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full">When did Bayesian inference become &#x201C;Bayesian?&#x201D;</a><a href="#fn22" class="footnote-ref" id="fnref22" role="doc-noteref"><sup>22</sup></a></li>
+</ul></li>
+<li>Weisberg: <a href="https://jonathanweisberg.org/vip/two-schools.html">&#x201C;Two Schools&#x201D;</a><a href="#fn23" class="footnote-ref" id="fnref23" role="doc-noteref"><sup>23</sup></a></li>
 </ul>
 <p><span class="math display">\[ P(H|D) = P(D|H) \: P(H) \: / \: P(D) \label{eq:bayes_theorem_hd} \]</span></p>
 <ul>
@@ -379,8 +384,8 @@ D_\mathrm{KL}(p, q)
 <li><a href="https://en.wikipedia.org/wiki/Curse_of_dimensionality">Curse of dimensionality</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Stein%27s_example">Stein&#x2019;s paradox</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example">Proof of Stein&#x2019;s example</a></li>
-<li>Probability in high dimensions<a href="#fn23" class="footnote-ref" id="fnref23" role="doc-noteref"><sup>23</sup></a></li>
-<li><em>High-Dimensional Probability:An introduction with applications in data science</em><a href="#fn24" class="footnote-ref" id="fnref24" role="doc-noteref"><sup>24</sup></a></li>
+<li>Probability in high dimensions<a href="#fn24" class="footnote-ref" id="fnref24" role="doc-noteref"><sup>24</sup></a></li>
+<li><em>High-Dimensional Probability:An introduction with applications in data science</em><a href="#fn25" class="footnote-ref" id="fnref25" role="doc-noteref"><sup>25</sup></a></li>
 </ul>
 <h2 id="statistical-models">Statistical models</h2>
 <h3 id="parametric-models">Parametric models</h3>
@@ -415,7 +420,7 @@ D_\mathrm{KL}(p, q)
 <li>Univariate distribution relationships</li>
 </ul>
 <figure>
-<img src="img/Leemis-univariate-distribution-relationships.png" id="fig:Leemis-univariate-distribution-relationships" alt="Figure 2: Detail of a figure showing relationships among univariate distributions. See the full figure here." /><figcaption aria-hidden="true">Figure 2: Detail of a figure showing relationships among univariate distributions. See the <a href="http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf">full figure here</a>.<a href="#fn25" class="footnote-ref" id="fnref25" role="doc-noteref"><sup>25</sup></a></figcaption>
+<img src="img/Leemis-univariate-distribution-relationships.png" id="fig:Leemis-univariate-distribution-relationships" alt="Figure 2: Detail of a figure showing relationships among univariate distributions. See the full figure here." /><figcaption aria-hidden="true">Figure 2: Detail of a figure showing relationships among univariate distributions. See the <a href="http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf">full figure here</a>.<a href="#fn26" class="footnote-ref" id="fnref26" role="doc-noteref"><sup>26</sup></a></figcaption>
 </figure>
 <h3 id="mixture-models">Mixture models</h3>
 <ul>
@@ -423,12 +428,12 @@ D_\mathrm{KL}(p, q)
 <li>Marked poisson
 <ul>
 <li><a href="https://scikit-hep.org/pyhf/intro.html">pyhf model description</a></li>
-<li>HistFactory<a href="#fn26" class="footnote-ref" id="fnref26" role="doc-noteref"><sup>26</sup></a></li>
+<li>HistFactory<a href="#fn27" class="footnote-ref" id="fnref27" role="doc-noteref"><sup>27</sup></a></li>
 </ul></li>
 </ul>
 <h2 id="point-estimation-and-confidence-intervals">Point estimation and confidence intervals</h2>
 <h3 id="inverse-problems">Inverse problems</h3>
-<p>Recall that in the context of parametric models of data, <span class="math inline">\(x_i\)</span> the pdf of which is modeled by a function, <span class="math inline">\(f(x_i ; \theta_j)\)</span> with parameters, <span class="math inline">\(\theta_j\)</span>. In a statistical <a href="https://en.wikipedia.org/wiki/Inverse_problem">inverse problem</a>, the goal is to infer values of the model parameters, <span class="math inline">\(\theta_j\)</span> given some finite set of data, <span class="math inline">\(\{x_i\}\)</span> sampled from a probability density, <span class="math inline">\(f(x_i; \theta_j)\)</span> that models the data reasonably well.<a href="#fn27" class="footnote-ref" id="fnref27" role="doc-noteref"><sup>27</sup></a></p>
+<p>Recall that in the context of parametric models of data, <span class="math inline">\(x_i\)</span> the pdf of which is modeled by a function, <span class="math inline">\(f(x_i ; \theta_j)\)</span> with parameters, <span class="math inline">\(\theta_j\)</span>. In a statistical <a href="https://en.wikipedia.org/wiki/Inverse_problem">inverse problem</a>, the goal is to infer values of the model parameters, <span class="math inline">\(\theta_j\)</span> given some finite set of data, <span class="math inline">\(\{x_i\}\)</span> sampled from a probability density, <span class="math inline">\(f(x_i; \theta_j)\)</span> that models the data reasonably well.<a href="#fn28" class="footnote-ref" id="fnref28" role="doc-noteref"><sup>28</sup></a></p>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Inverse_problem">Inverse problem</a>
 <ul>
@@ -438,7 +443,7 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 <li>Estimators</li>
 <li>Regression</li>
-<li>Accuracy vs precision<a href="#fn28" class="footnote-ref" id="fnref28" role="doc-noteref"><sup>28</sup></a></li>
+<li>Accuracy vs precision<a href="#fn29" class="footnote-ref" id="fnref29" role="doc-noteref"><sup>29</sup></a></li>
 </ul>
 <h3 id="bias-and-variance">Bias and variance</h3>
 <p>The bias of an estimator, <span class="math inline">\(\hat\theta\)</span>, is defined as</p>
@@ -466,7 +471,7 @@ D_\mathrm{KL}(p, q)
 <li>Note the new deep learning view. See <a href="#deep-learning">Deep learning</a>.</li>
 </ul>
 <h3 id="maximum-likelihood-estimation">Maximum likelihood estimation</h3>
-<p>A maximum likelihood estimator (MLE) was first used by Fisher.<a href="#fn29" class="footnote-ref" id="fnref29" role="doc-noteref"><sup>29</sup></a></p>
+<p>A maximum likelihood estimator (MLE) was first used by Fisher.<a href="#fn30" class="footnote-ref" id="fnref30" role="doc-noteref"><sup>30</sup></a></p>
 <p><span class="math display">\[\hat{\theta} \equiv \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: L(\theta) \label{eq:mle} \]</span></p>
 <p>Maximizing <span class="math inline">\(\mathrm{log} \: L(\theta)\)</span> is equivalent to maximizing <span class="math inline">\(L(\theta)\)</span>, and the former is more convenient because for data that are independent and identically distributed (<em>i.i.d.</em>) the joint likelihood can be factored into a product of individual measurements:</p>
 <p><span class="math display">\[ L(\theta) = \prod_i L(\theta|x_i) = \prod_i P(x_i|\theta) \]</span></p>
@@ -482,17 +487,17 @@ D_\mathrm{KL}(p, q)
 <li>Ordinary Least Squares (OLS)</li>
 <li>Geometric interpretation
 <ul>
-<li>Cox<a href="#fn30" class="footnote-ref" id="fnref30" role="doc-noteref"><sup>30</sup></a></li>
-<li>Murphy<a href="#fn31" class="footnote-ref" id="fnref31" role="doc-noteref"><sup>31</sup></a></li>
+<li>Cox<a href="#fn31" class="footnote-ref" id="fnref31" role="doc-noteref"><sup>31</sup></a></li>
+<li>Murphy<a href="#fn32" class="footnote-ref" id="fnref32" role="doc-noteref"><sup>32</sup></a></li>
 </ul></li>
 </ul>
 <h3 id="variance-of-mles">Variance of MLEs</h3>
 <ul>
 <li>Taylor expansion of a likelihood near its maximum</li>
-<li>Cram&#xE9;r-Rao bound<a href="#fn32" class="footnote-ref" id="fnref32" role="doc-noteref"><sup>32</sup></a>
+<li>Cram&#xE9;r-Rao bound<a href="#fn33" class="footnote-ref" id="fnref33" role="doc-noteref"><sup>33</sup></a>
 <ul>
 <li>for unbiased and efficient estimators</li>
-<li>proof in Rice<a href="#fn33" class="footnote-ref" id="fnref33" role="doc-noteref"><sup>33</sup></a></li>
+<li>proof in Rice<a href="#fn34" class="footnote-ref" id="fnref34" role="doc-noteref"><sup>34</sup></a></li>
 </ul></li>
 <li><a href="https://en.wikipedia.org/wiki/Fisher_information">Fisher information matrix</a>
 <ul>
@@ -506,7 +511,7 @@ D_\mathrm{KL}(p, q)
 <li>Invariance of likelihoods to reparametrization (TODO: James)</li>
 <li>Frequentist confidence intervals (e.g.&#xA0;at 95% CL)</li>
 <li>See slides for my talk: <a href="http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf">Primer on statistics: MLE, Confidence Intervals, and Hypothesis Testing</a></li>
-<li>Karhunen-Lo&#xE8;ve eigenvalue problems in cosmology: How should we tackle large data sets?<a href="#fn34" class="footnote-ref" id="fnref34" role="doc-noteref"><sup>34</sup></a></li>
+<li>Karhunen-Lo&#xE8;ve eigenvalue problems in cosmology: How should we tackle large data sets?<a href="#fn35" class="footnote-ref" id="fnref35" role="doc-noteref"><sup>35</sup></a></li>
 <li>Poisson error bars
 <ul>
 <li>Gaussian approximation: <span class="math inline">\(\sqrt{n}\)</span></li>
@@ -523,7 +528,7 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Inverse_problem">Inverse problem</a> to find a posterior probability distribution.
 <ul>
-<li>Fienberg, S.E. (2006). <a href="https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full">When did Bayesian inference become &#x201C;Bayesian?&#x201D;</a><a href="#fn35" class="footnote-ref" id="fnref35" role="doc-noteref"><sup>35</sup></a></li>
+<li>See also: <a href="#likelihood-and-frequentist-vs-bayesian-probability">Likelihood and frequentist vs bayesian probability</a></li>
 </ul></li>
 <li>Maximum a posteriori estimation (MAP)</li>
 <li>Prior sensitivity
@@ -2261,20 +2266,20 @@ Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). <span class
 <li id="fn19" role="doc-endnote"><p><span class="citation" data-cites="Weisberg_2019_Odds__Ends_Introducing_Probability__Decision">Weisberg (2019)</span>.<a href="#fnref19" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn20" role="doc-endnote"><p><span class="citation" data-cites="Carnap_1947_Probability_as_a_guide_in_life">Carnap (1947)</span>.<a href="#fnref20" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn21" role="doc-endnote"><p><span class="citation" data-cites="Goodfellow_2016_Deep_Learning">Goodfellow, Bengio, &amp; Courville (2016)</span>, p.&#xA0;72-73.<a href="#fnref21" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn22" role="doc-endnote"><p><span class="citation" data-cites="Weisberg_2019_Odds__Ends_Introducing_Probability__Decision">Weisberg (2019)</span>, ch.&#xA0;15.<a href="#fnref22" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn23" role="doc-endnote"><p><span class="citation" data-cites="vanHandel_2016_Probability_in_high_dimensions">van Handel (2016)</span>.<a href="#fnref23" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn24" role="doc-endnote"><p><span class="citation" data-cites="Vershynin_2018_High_Dimensional_ProbabilityAn_introduction">Vershynin (2018)</span>.<a href="#fnref24" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn25" role="doc-endnote"><p><span class="citation" data-cites="Leemis_2008_Univariate_distribution_relationships">Leemis &amp; McQueston (2008)</span>.<a href="#fnref25" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn26" role="doc-endnote"><p><span class="citation" data-cites="Cranmer_2012_HistFactory_A_tool_for_creating_statistical">Cranmer, K. et al. (2012)</span>.<a href="#fnref26" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn27" role="doc-endnote"><p>This assumption that the model models the data &#x201C;reasonably&#x201D; well reflects that to the degree required by your analysis, the important features of the data match well within the systematic uncertainties parametrized within the model. If the model is incomplete because it is missing an important feature of the data, then this is the &#x201C;<em>ugly</em>&#x201D; (class-3) error in the <a href="#sinervo-classification-of-systematic-uncertainties">Sinervo classification of systematic uncertainties</a>.<a href="#fnref27" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn28" role="doc-endnote"><p><span class="citation" data-cites="Cowan_1998_Statistical_Data_Analysis">Cowan (1998)</span> and <span class="citation" data-cites="Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data">Cowan (2016)</span>, p.&#xA0;X.<a href="#fnref28" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn29" role="doc-endnote"><p><span class="citation" data-cites="Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood">Aldrich (1997)</span>.<a href="#fnref29" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn30" role="doc-endnote"><p><span class="citation" data-cites="Cox_2006_Principles_of_Statistical_Inference">Cox (2006)</span>, p.&#xA0;11.<a href="#fnref30" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn31" role="doc-endnote"><p><span class="citation" data-cites="Murphy_2012_Machine_Learning_A_probabilistic_perspective">Murphy (2012)</span>, p.&#xA0;222.<a href="#fnref31" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn32" role="doc-endnote"><p><span class="citation" data-cites="Frechet_1943_Sur_lextension_de_certaines_evaluations">Fr&#xE9;chet (1943)</span>, <span class="citation" data-cites="Cramer_1946_A_contribution_to_the_theory_of_statistical">Cram&#xE9;r (1946)</span>, <span class="citation" data-cites="Rao_1945_Information_and_the_accuracy_attainable">Rao (1945)</span>, and <span class="citation" data-cites="Rao_1947_Minimum_variance_and_the_estimation_of_several">Rao (1947)</span>.<a href="#fnref32" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn33" role="doc-endnote"><p><span class="citation" data-cites="Rice_2007_Mathematical_Statistics_and_Data_Analysis">Rice (2007)</span>, p.&#xA0;300&#x2013;2.<a href="#fnref33" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn34" role="doc-endnote"><p><span class="citation" data-cites="Tegmark_1997_Karhunen_Loeve_eigenvalue_problems_in_cosmology">Tegmark, Taylor, &amp; Heavens (1997)</span>.<a href="#fnref34" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn35" role="doc-endnote"><p><span class="citation" data-cites="Fienberg_2006_When_did_Bayesian_inference_become_Bayesian">Fienberg (2006)</span>.<a href="#fnref35" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn22" role="doc-endnote"><p><span class="citation" data-cites="Fienberg_2006_When_did_Bayesian_inference_become_Bayesian">Fienberg (2006)</span>.<a href="#fnref22" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn23" role="doc-endnote"><p><span class="citation" data-cites="Weisberg_2019_Odds__Ends_Introducing_Probability__Decision">Weisberg (2019)</span>, ch.&#xA0;15.<a href="#fnref23" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn24" role="doc-endnote"><p><span class="citation" data-cites="vanHandel_2016_Probability_in_high_dimensions">van Handel (2016)</span>.<a href="#fnref24" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn25" role="doc-endnote"><p><span class="citation" data-cites="Vershynin_2018_High_Dimensional_ProbabilityAn_introduction">Vershynin (2018)</span>.<a href="#fnref25" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn26" role="doc-endnote"><p><span class="citation" data-cites="Leemis_2008_Univariate_distribution_relationships">Leemis &amp; McQueston (2008)</span>.<a href="#fnref26" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn27" role="doc-endnote"><p><span class="citation" data-cites="Cranmer_2012_HistFactory_A_tool_for_creating_statistical">Cranmer, K. et al. (2012)</span>.<a href="#fnref27" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn28" role="doc-endnote"><p>This assumption that the model models the data &#x201C;reasonably&#x201D; well reflects that to the degree required by your analysis, the important features of the data match well within the systematic uncertainties parametrized within the model. If the model is incomplete because it is missing an important feature of the data, then this is the &#x201C;<em>ugly</em>&#x201D; (class-3) error in the <a href="#sinervo-classification-of-systematic-uncertainties">Sinervo classification of systematic uncertainties</a>.<a href="#fnref28" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn29" role="doc-endnote"><p><span class="citation" data-cites="Cowan_1998_Statistical_Data_Analysis">Cowan (1998)</span> and <span class="citation" data-cites="Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data">Cowan (2016)</span>, p.&#xA0;TODO.<a href="#fnref29" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn30" role="doc-endnote"><p><span class="citation" data-cites="Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood">Aldrich (1997)</span>.<a href="#fnref30" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn31" role="doc-endnote"><p><span class="citation" data-cites="Cox_2006_Principles_of_Statistical_Inference">Cox (2006)</span>, p.&#xA0;11.<a href="#fnref31" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn32" role="doc-endnote"><p><span class="citation" data-cites="Murphy_2012_Machine_Learning_A_probabilistic_perspective">Murphy (2012)</span>, p.&#xA0;222.<a href="#fnref32" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn33" role="doc-endnote"><p><span class="citation" data-cites="Frechet_1943_Sur_lextension_de_certaines_evaluations">Fr&#xE9;chet (1943)</span>, <span class="citation" data-cites="Cramer_1946_A_contribution_to_the_theory_of_statistical">Cram&#xE9;r (1946)</span>, <span class="citation" data-cites="Rao_1945_Information_and_the_accuracy_attainable">Rao (1945)</span>, and <span class="citation" data-cites="Rao_1947_Minimum_variance_and_the_estimation_of_several">Rao (1947)</span>.<a href="#fnref33" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn34" role="doc-endnote"><p><span class="citation" data-cites="Rice_2007_Mathematical_Statistics_and_Data_Analysis">Rice (2007)</span>, p.&#xA0;300&#x2013;2.<a href="#fnref34" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn35" role="doc-endnote"><p><span class="citation" data-cites="Tegmark_1997_Karhunen_Loeve_eigenvalue_problems_in_cosmology">Tegmark, Taylor, &amp; Heavens (1997)</span>.<a href="#fnref35" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn36" role="doc-endnote"><p><span class="citation" data-cites="Clopper_1934_The_use_of_confidence_or_fiducial_limits">Clopper &amp; Pearson (1934)</span>.<a href="#fnref36" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn37" role="doc-endnote"><p><span class="citation" data-cites="Hanley_1983_If_nothing_goes_wrong_is_everything_all_right">Hanley &amp; Lippman-Hand (1983)</span>.<a href="#fnref37" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn38" role="doc-endnote"><p><span class="citation" data-cites="Brown_2001_Interval_estimation_for_a_binomial_proportion">L. D. Brown, Cai, &amp; DasGupta (2001)</span>.<a href="#fnref38" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>

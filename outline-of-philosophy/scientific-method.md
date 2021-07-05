@@ -606,6 +606,7 @@ Newton:
 
 -   Thomas Bayes (1701-1761)
 -   Richard Price (1723-1791)
+-   Pierre-Simon Laplace (1749-1827)
 -   William Whewell (1794-1866)
     -   *Philosophy of the Inductive Sciences* (1840)
     -   Discussed in Aronson [^Aronson2007]
