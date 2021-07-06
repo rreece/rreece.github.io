@@ -124,9 +124,10 @@ Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in h
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
 Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. https://arxiv.org/abs/1912.02292
 Neller, T.W. & Lanctot, M. (2013). An introduction to counterfactual regret minimization. *Proceedings of Model AI Assignments*, 11. http://cs.gettysburg.edu/~tneller/modelai/2013/cfr/cfr.pdf
-Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
+Neyman, J. (1955). The problem of inductive inference. *Communications on Pure and Applied Mathematics*, 8, 13--45.
 Neyman, J. (1957). "Inductive behavior" as a basic concept of philosophy of science. *Revue de l'Institut International de Statistique*, 25, 7--22.
 Neyman, J. (1977). Frequentist probability and frequentist statistics. *Synthese*, 36(1), 97--131.
+Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
 Nielsen, F. (2018). An elementary introduction to information geometry. https://arxiv.org/abs/1808.08271
 O'Hagan, A. (2010). *Kendall's Advanced Theory of Statistics, Vol 2B: Bayesian Inference*. Wiley.
 Peirce, C.S. (1883). *Studies in Logic*. Boston: Little, Brown, and Co.

@@ -81,6 +81,7 @@ careful ways of framing inductive arguments and notions of confidence in them.
         -   *The Lady Tasting Tea* [^Salsburg2001]
 -   [Jerzy Neyman](https://en.wikipedia.org/wiki/Jerzy_Neyman) (1894-1981)
     -   biography by Reid [^Reid1998]
+    -   Neyman, J. (1955). The problem of inductive inference. [^Neyman1955]
 -   [Egon Pearson](https://en.wikipedia.org/wiki/Egon_Pearson) (1895-1980)
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
 -   [Harold Jeffreys](https://en.wikipedia.org/wiki/Harold_Jeffreys) (1891-1989)
@@ -93,6 +94,7 @@ careful ways of framing inductive arguments and notions of confidence in them.
 [^Fisher1915]: @Fisher_1915_Frequency_distribution_of_the_values\.
 [^Fisher1921]: @Fisher_1921_On_the_probable_error_of_a_coefficient\.
 [^Fisher1955]: @Fisher_1955_Statistical_methods_and_scientific_induction\.
+[^Neyman1955]: @Neyman_1955_The_problem_of_inductive_inference\.
 [^Reid1998]: @Reid_1998_Neyman\.
 [^Salsburg2001]: @Salsburg_2001_The_Lady_Tasting_Tea\.
 
