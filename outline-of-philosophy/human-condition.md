@@ -371,8 +371,8 @@ Hinduism
 The Trimurti:
 
 -   [Brahma](https://en.wikipedia.org/wiki/Brahma)
--   [Vishnu](https://en.wikipedia.org/wiki/Vishnu)
 -   [Shiva](https://en.wikipedia.org/wiki/Shiva)
+-   [Vishnu](https://en.wikipedia.org/wiki/Vishnu)
 
 ![Shiva statue at CERN, near Building 40, [a gift from India](https://www.sanskritimagazine.com/vedic_science/shivas-cosmic-dance-nataraj-at-cern/).](img/cern-shiva.jpg){#fig:cern-shiva}
 
