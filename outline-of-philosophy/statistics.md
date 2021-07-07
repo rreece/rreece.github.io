@@ -66,12 +66,21 @@ careful ways of framing inductive arguments and notions of confidence in them.
 
 ### Foundations of modern statistics
 
+-   [Central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem)
+    -   [De Moivre-Laplace theorem](https://en.wikipedia.org/wiki/De_Moivre%E2%80%93Laplace_theorem) (1738)
+    -   [Glivenko-Cantelli theorem](https://en.wikipedia.org/wiki/Glivenko%E2%80%93Cantelli_theorem) (1933)
 -   [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) (1839-1914)
     -   Formulated modern statistics in "Illustrations of the Logic of Science",
         a series published in *Popular Science Monthly* (1877-1878),
         and also "A Theory of Probable Inference" in *Studies in Logic* (1883). [^Peirce1883]
     -   With a repeated measures design, introduced blinded, controlled randomized experiments (before Fisher).
 -   [Karl Pearson](https://en.wikipedia.org/wiki/Karl_Pearson) (1857-1936)
+    -   [*The Grammar of Science*](https://en.wikipedia.org/wiki/The_Grammar_of_Science) (1892)
+    -   "On the criterion that a given system of deviations..." (1900) [^Pearson1900]
+        -   Proposed testing the validity of hypothesized values by evaluating the chi distance
+            between the hypothesized and the empirically observed values via the $p$-value.
+    -   With Frank Raphael Weldon, he established the journal *Biometrika* in 1902.
+    -   Founded the world's first university statistics department at University College, London in 1911.
 -   [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) (1890-1972)
     -   Fisher significance of the null hypothesis ($p$-values)
         -   On an absolute criterion for fitting frequency curves. [^Fisher1912]
@@ -81,13 +90,14 @@ careful ways of framing inductive arguments and notions of confidence in them.
         -   *The Lady Tasting Tea* [^Salsburg2001]
 -   [Jerzy Neyman](https://en.wikipedia.org/wiki/Jerzy_Neyman) (1894-1981)
     -   biography by Reid [^Reid1998]
-    -   Neyman, J. (1955). The problem of inductive inference. [^Neyman1955]
+    -   Neyman, J. (1955). [The problem of inductive inference](https://errorstatistics.files.wordpress.com/2017/04/neyman-1955-the-problem-of-inductive-inference-searchable.pdf). [^Neyman1955]
+        -   Shows that Neyman read Carnap, but did Carnap read Neyman?
+        -   Discussion: Mayo, D.G. (2014). [Power taboos: Statue of Liberty, Senn, Neyman, Carnap, Severity](https://errorstatistics.com/2014/03/19/power-taboos-statue-of-liberty-senn-neyman-carnap-severity/).
 -   [Egon Pearson](https://en.wikipedia.org/wiki/Egon_Pearson) (1895-1980)
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
 -   [Harold Jeffreys](https://en.wikipedia.org/wiki/Harold_Jeffreys) (1891-1989)
     -   objective (non-informative) Jeffreys priors
--   Central limit theorem
--   Glivenko-Cantelli theorem
+-   [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov) (1903-1987)
 
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
 [^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
@@ -95,6 +105,7 @@ careful ways of framing inductive arguments and notions of confidence in them.
 [^Fisher1921]: @Fisher_1921_On_the_probable_error_of_a_coefficient\.
 [^Fisher1955]: @Fisher_1955_Statistical_methods_and_scientific_induction\.
 [^Neyman1955]: @Neyman_1955_The_problem_of_inductive_inference\.
+[^Pearson1900]: @Pearson_1900_On_the_criterion_that_a_given_system_of_deviations\.
 [^Reid1998]: @Reid_1998_Neyman\.
 [^Salsburg2001]: @Salsburg_2001_The_Lady_Tasting_Tea\.
 
