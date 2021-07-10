@@ -79,11 +79,8 @@ TODO
 -   Augustin-Louis Cauchy (1789-1857)
 -   Karl Weierstrass (1815-1897)
 -   George Stokes (1819-1903)
--   Struggles with the continuum [^Baez2016]
 -   Differential forms
 -   Geometry and the [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
-
-[^Baez2016]: @Baez_2016_Struggles_with_the_continuum\.
 
 
 ### Development of calculus

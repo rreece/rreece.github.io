@@ -300,6 +300,7 @@ Quantum field theory
 -   Feynman's Nobel Lecture on QED [^Feynman1965]
 -   Wolchover, N. (2020). [What is a particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 -   Wave-particle duality
+-   Struggles with the continuum [^Baez2016]
 
 Baez, Segal, & Zhou:
 
@@ -320,6 +321,20 @@ Baez, Segal, & Zhou on wave-particle duality:
 >   just as the *particle numbers* are diagonalized in the tensor product
 >   representation. [^Baez1992p59]
 
+Baez:
+
+>   Nobody has found a fully rigorous formulation of QED, nor has anyone proved
+>   such a thing cannot be found. [^Baez2016p17]
+
+Baez:
+
+>   In practice, quantum field theory is marvelously good for calculating
+>   answers to many physics questions. The answers involve approximations.
+>   These approximations seem to work very well: that is, they answers that match
+>   experiments. Unfortunately we do not fully understand, in a mathematically
+>   rigorous way, what these approximations are supposed to be
+>   approximating. [^Baez2016p18]
+
 Pedagogy:
 
 -   Peskin and Schroeder [^Peskin1995]
@@ -330,6 +345,9 @@ Pedagogy:
 
 [^Baez1992p1]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 1.
 [^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
+[^Baez2016]: @Baez_2016_Struggles_with_the_continuum\.
+[^Baez2016p17]: @Baez_2016_Struggles_with_the_continuum\, p. 17.
+[^Baez2016p18]: @Baez_2016_Struggles_with_the_continuum\, p. 18.
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
 [^Feynman1965]: @Feynman_1965_The_Development_of_the_Space_Time_View_of_Quantum\.
 [^Peskin1995]: @Peskin_1995_An_Introduction_to_Quantum_Field_Theory\.
