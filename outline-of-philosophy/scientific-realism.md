@@ -1871,6 +1871,7 @@ Click to show links
 -   [Quine, W.V. (1908-2000)](http://en.wikipedia.org/wiki/Willard_Van_Orman_Quine)
 -   [Quine's paradox](http://en.wikipedia.org/wiki/Quine%27s_paradox)
 -   [Radical empiricism](http://en.wikipedia.org/wiki/Radical_empiricism)
+-   [Ramsey-Lewis method](https://en.wikipedia.org/wiki/Ramsey%E2%80%93Lewis_method)
 -   [Raven paradox](https://en.wikipedia.org/wiki/Raven_paradox)
 -   [Realism, Philosophical](http://en.wikipedia.org/wiki/Philosophical_realism)
 -   [Reichenbach, Hans (1891-1953)](http://en.wikipedia.org/wiki/Hans_Reichenbach)

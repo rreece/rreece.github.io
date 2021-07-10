@@ -98,6 +98,7 @@ careful ways of framing inductive arguments and notions of confidence in them.
 -   [Harold Jeffreys](https://en.wikipedia.org/wiki/Harold_Jeffreys) (1891-1989)
     -   objective (non-informative) Jeffreys priors
 -   [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov) (1903-1987)
+-   [C.R. Rao](https://en.wikipedia.org/wiki/C._R._Rao) (b. 1920)
 
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
 [^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
