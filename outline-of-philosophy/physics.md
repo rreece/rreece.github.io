@@ -802,6 +802,7 @@ The standard model of particle physics
 -   [Particle accelerator](https://en.wikipedia.org/wiki/Particle_accelerator)
 -   [Particle physics](https://en.wikipedia.org/wiki/Particle_physics)
 -   [Brookhaven National Laboratory](https://en.wikipedia.org/wiki/Brookhaven_National_Laboratory)
+-   [Luis Walter Alvarez](https://en.wikipedia.org/wiki/Luis_Walter_Alvarez) (1911-1988)
 -   [SLAC National Accelerator Laboratory](https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory)
 -   [$J/\psi$ meson](https://en.wikipedia.org/wiki/J/psi_meson) - "November Revolution" in particle physics (1974)
 -   [European Organization for Nuclear Research (CERN)](https://en.wikipedia.org/wiki/CERN)

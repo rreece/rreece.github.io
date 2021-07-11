@@ -1565,8 +1565,11 @@ Biology
 
 ### Mass extinctions
 
+-   [Extinction event](https://en.wikipedia.org/wiki/Extinction_event)
 -   [Luis Walter Alvarez](https://en.wikipedia.org/wiki/Luis_Walter_Alvarez) (1911-1988)
+-   [Alvarez hypothesis](https://en.wikipedia.org/wiki/Alvarez_hypothesis) (1980)
 -   Raup & Sepkoski (1982) [^Raup1982]
+-   [Holocene extinction](https://en.wikipedia.org/wiki/Holocene_extinction)
 
 [^Raup1982]: @Raup_1982_Mass_extinctions_in_the_marine_fossil_record\.
 
