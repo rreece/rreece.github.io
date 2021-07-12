@@ -58,6 +58,7 @@ TODO
 -   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
 -   [Universal algebra](https://en.wikipedia.org/wiki/Universal_algebra)
+-   See also: [Supersymmetry](physics.html#supersymmetry) in the Outline of [physics](physics.html).
 
 
 Analysis

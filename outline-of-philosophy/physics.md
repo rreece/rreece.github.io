@@ -633,7 +633,8 @@ Maudlin:
 -   Deligne's theorem on tensor categories
     -   [Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/) - physicsforums.com
     -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - ncatlab.org
-    -   [supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - ncatlab.org
+    -   [Supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - ncatlab.org
+    -   [Superalgebra](https://en.wikipedia.org/wiki/Superalgebra)
 -   SUSY GUTs
     -   See also: [Grand unification](physics.html#grand-unification)
 -   Supergravity
@@ -668,6 +669,11 @@ Interpretations of quantum mechanics
 >   you are now defending.
 
 -- from a letter in Appendix B of Feyerabend's *Against Method*
+
+-   TODO: Maudlin [^Maudlin2019pX]
+
+[^Maudlin2019pX]: @Maudlin_2019_Philosophy_of_Physics_Quantum_Theory\, p. TODO.
+
 
 ### Measurement problem
 
@@ -934,6 +940,9 @@ Gravity and cosmology
 -   Mach's principle
 -   Minkowski, Lorentz, Einstein, Poincar&eacute;
 -   Einstein, A. (1905). On the electrodynamics of moving bodies.
+-   TODO: Maudlin [^Maudlin2012pX]
+
+[^Maudlin2012pX]: @Maudlin_2012_Philosophy_of_Physics_Space_and_Time\, p. TODO.
 
 
 ### General relativity
@@ -994,6 +1003,7 @@ Gravity and cosmology
 
 -   Einstein-Cartan theory
 -   Modified Newtonian dynamics (MOND)
+    -   TODO: Sabine Hossenfelder
 -   Entropic gravity
 
 
