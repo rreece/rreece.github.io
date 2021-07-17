@@ -83,10 +83,14 @@ careful ways of framing inductive arguments and notions of confidence in them.
     -   Founded the world's first university statistics department at University College, London in 1911.
 -   [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) (1890-1972)
     -   Fisher significance of the null hypothesis ($p$-values)
-        -   On an absolute criterion for fitting frequency curves. [^Fisher1912]
-        -   Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. [^Fisher1915]
-        -   On the "probable error" of a coefficient of correlation deduced from a small sample [^Fisher1921] - definition of *likelihood*
-        -   Statistical methods and scientific induction [^Fisher1955]
+        -   "On an absolute criterion for fitting frequency curves" [^Fisher1912]
+        -   "Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population" [^Fisher1915]
+        -   "On the 'probable error' of a coefficient of correlation deduced from a small sample" [^Fisher1921]
+            -   Definition of *likelihood*
+            -   ANOVA
+        -   *Statistical Methods for Research Workers* (1925)
+        -   *The Design of Experiments* (1935)
+        -   "Statistical methods and scientific induction" [^Fisher1955]
         -   *The Lady Tasting Tea* [^Salsburg2001]
 -   [Jerzy Neyman](https://en.wikipedia.org/wiki/Jerzy_Neyman) (1894-1981)
     -   biography by Reid [^Reid1998]
@@ -275,7 +279,14 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 -   We will return to the frequentist vs bayesian debate in the section on the
     ["Statistics Wars"](#statistics-wars).
 
+>   To appeal to such a result is absurd. Bayes' theorem ought only to be
+>   used where we have in past experience, as for example in the case of
+>   probabilities and other statistical ratios, met with every admissible
+>   value with roughly equal frequency. There is no such experience in
+>   this case. [^Fisher1921p15]
+
 [^Fienberg2006]: @Fienberg_2006_When_did_Bayesian_inference_become_Bayesian\.
+[^Fisher1921p15]: @Fisher_1921_On_the_probable_error_of_a_coefficient\, p. 15.
 [^Weisberg2019ch15]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, ch. 15\.
 
 

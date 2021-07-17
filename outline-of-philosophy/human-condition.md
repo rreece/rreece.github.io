@@ -1969,6 +1969,7 @@ Carl Sagan discussing Nietzsche:
 ### Artworks
 
 -   [Dadaism](https://en.wikipedia.org/wiki/Dada)
+-   [Fancis Bacon](https://artuk.org/discover/artworks/search/actor:bacon-francis-19091992) (1909-1992)
 -   [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (b. 1933)
 -   [Dynamite](https://frostplace.org/dynamite-by-anders-carlson-wee/) - poem by Anders Carlson-Wee
 
