@@ -1936,6 +1936,7 @@ Click to show links
 -   [Popper, Karl (1902-1994)](https://en.wikipedia.org/wiki/Karl_Popper)
 -   [Principle of sufficient reason](https://en.wikipedia.org/wiki/Principle_of_sufficient_reason)
 -   [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)
+-   [Proteus phenomenon](https://en.wikipedia.org/wiki/Proteus_phenomenon)
 -   [P-value](https://en.wikipedia.org/wiki/P-value)
 -   [Rao, C.R. (b. 1920)](https://en.wikipedia.org/wiki/C._R._Rao)
 -   [Replication crisis](https://en.wikipedia.org/wiki/Replication_crisis)

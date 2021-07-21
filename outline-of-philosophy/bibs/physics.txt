@@ -44,6 +44,7 @@ Healey, R. (2007). *Gauging What's Real*. Oxford University Press.
 Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. *Synthese*, 102(1), 171--194.
 Kadanoff, L.P. (2013). Theories of matter: Infinities and renormalization. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 109-141). Oxford University Press. https://arxiv.org/abs/1002.2985
 Kastler, D. (2003). Rudolf Haag---Eighty Years. *Communications in Mathematical Physics*, 237, 3--6.
+Kelvin, L. (1901). Nineteenth century clouds over the dynamical theory of heat and light. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, 2, 1--40.
 Klaczynski, L. (2016). Haag's theorem in renormalised quantum field theories. https://arxiv.org/abs/1602.00662
 Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. *Nuovo Cimento*, 1, 205--225.
 Lisi, A.G. (2017). Emergence. https://www.edge.org/response-detail/27149
@@ -57,6 +58,7 @@ Mermin, N.D. (1985). Is the moon there when nobody looks? Reality and the quantu
 Nail, T. (2018). *Lucretius I: An Ontology of Motion*. Edinburgh University Press.
 Nail, T. (2020). *Lucretius II: An Ethics of Motion*. Edinburgh University Press.
 Ney, A. & Albert, D.Z. (2013). *The Wave Function: Essays on the metaphysics of quantum mechanics*. Oxford University Press.
+Ohanian, H.C. (1986). What is spin? *American Journal of Physics*, 54, 500.
 Pati, J.C. & Salam, A. (1974). Lepton number as the fourth color. *Physical Review D*, 10, 275--289. https://pdfs.semanticscholar.org/21fb/f9d49acf3e3f07098ca686ae4058c38dbd03.pdf
 Peskin, M.E. (1994). Spin, Mass, and Symmetry. https://arxiv.org/abs/hep-ph/9405255
 Peskin, M.E. & Schroeder, D.V. (1995). *An Introduction to Quantum Field Theory*. Westview Press.

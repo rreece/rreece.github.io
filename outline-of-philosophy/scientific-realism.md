@@ -338,6 +338,8 @@ Einstein:
 >   As far as the laws of mathematics refer to reality, they are not certain;
 >   and as far as they are certain, they do not refer to reality. [^Einstein1922]
 
+-   Norton, J.D. (2017). [Einstein on Kant](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/significance_GR_geometry/Einstein_on_Kant.html).
+
 [^Khlentzos2011-2]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
 [^Poincare1913p351]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 351.
 [^Einstein1922]: @Einstein_1922_Geometry_and_Experience\.

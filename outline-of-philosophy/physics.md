@@ -196,12 +196,15 @@ Quantum mechanics
 
 ### History
 
+-   Kelvin, L. (1901). Nineteenth century clouds over the dynamical theory of heat and light.
 -   Planck
 -   Einstein
 -   Bohr
 -   Heisenberg
 -   Schr&ouml;dinger
 -   Born
+
+[^Kelvin1901]: @Kelvin_1901_Nineteenth_century_clouds_over_the_dynamical\.
 
 
 ### Hydrogen atom
@@ -366,6 +369,8 @@ Pedagogy:
     -   [Belt trick](https://en.wikipedia.org/wiki/Plate_trick)
     -   [Orientation entanglement](https://en.wikipedia.org/wiki/Orientation_entanglement)
     -   Spatial vectors alone are not sufficient to describe fully the properties of rotations in space.
+
+-   Ohanian [^Ohanian1986]
 -   Peskin [^Peskin1994]
 -   Sebens [^Sebens2019]
 
@@ -377,6 +382,7 @@ Michael Atiyah:
 >   took centuries, the same might be true of spinors. [^Dutailly2014p37]
 
 [^Dutailly2014p37]: @Dutailly_2014_Particles_and_Fields\, p. 37.
+[^Ohanian1986]: @Ohanian_1986_What_is_spin\.
 [^Peskin1994]: @Peskin_1994_Spin_Mass_and_Symmetry\.
 [^Sebens2019]: @Sebens_2019_How_electrons_spin\.
 
