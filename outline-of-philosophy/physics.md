@@ -333,7 +333,7 @@ Baez:
 
 >   In practice, quantum field theory is marvelously good for calculating
 >   answers to many physics questions. The answers involve approximations.
->   These approximations seem to work very well: that is, they answers that match
+>   These approximations seem to work very well: that is, the answers match
 >   experiments. Unfortunately we do not fully understand, in a mathematically
 >   rigorous way, what these approximations are supposed to be
 >   approximating. [^Baez2016p18]
@@ -839,9 +839,14 @@ The standard model of particle physics
 
 ### A model of leptons
 
--   A model of leptons (1967)
+-   A model of leptons (1967) [^Weinberg1967]
 -   GWS electroweak theory: SU(2) $\times$ U(1)
+-   Weinberg, S. (1979). [Conceptual foundations of the unified theory of weak and electromagnetic interactions](https://www.nobelprize.org/uploads/2018/06/weinberg-lecture.pdf). Nobel Lecture, December 8, 1979. [^Weinberg1979]
 -   Weinberg - Model physicst [^Chalmers2017]
+
+[^Chalmers2017]: @Chalmers_2017_Model_physicist\.
+[^Weinberg1967]: @Weinberg_1967_A_model_of_leptons\.
+[^Weinberg1979]: @Weinberg_1979_Conceptual_foundations_of_the_unified_theory\.
 
 
 ### Quantum chromodynamics
@@ -868,8 +873,6 @@ More:
 
 -   Nima Arkani-Hamed doing particle physics *a priori*: ["Why is there a Macroscopic Universe?"](https://www.youtube.com/watch?v=F2Fxt_yCrcc)
 -   Nima Arkani-Hamed on [Collider Physics from the Bottom Up](https://www.youtube.com/watch?v=uG8VJb3jRzU)
-
-[^Chalmers2017]: @Chalmers_2017_Model_physicist\.
 
 
 Beyond the standard model
@@ -1069,7 +1072,7 @@ Bracketing human experience
 -   Carroll, S. & Wallace, A. (2017). Talk: [The Nature of Reality: A Dialogue Between a Buddhist Scholar and a Theoretical Physicist](https://www.youtube.com/watch?v=pLbSlC0Pucw).
 -   Carroll, S. (2021). [The quantum field theory on which the everyday world supervenes](https://philpapers.org/rec/CARTQF-5).
 
-![Sean on the entailment of everyday life by physics.](img/sean-entailment.jpg)
+![Sean Carroll on the entailment of everyday life by physics.](img/carroll-entailment.jpg){#fig:carroll-entailment}
 
 
 My thoughts
