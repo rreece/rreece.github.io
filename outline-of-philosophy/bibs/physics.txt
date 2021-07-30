@@ -30,6 +30,7 @@ Earman, J., & Fraser, D. (2006). Haag's theorem and its implications for the fou
 Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? *Physical Review*, 47, 777--780.
 Feynman, R.P. (1963). *The Feynman Lectures on Physics, Volume I*. California Institute of Technology. http://www.feynmanlectures.caltech.edu/I_03.html
 Feynman, R.P. (1965). The Development of the Space-Time View of Quantum Electrodynamics. Nobel Lecture, December 11, 1965. http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html
+Feynman, R.P. & Hibbs, A.R. (1965). *Quantum Mechanics and Path Integrals*. Dover. [Emended edition (2005)]
 Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 1: Development of the Theory and Basic Physical Applications*. Springer.
 Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 2: Black Holes, Cosmology and Introduction to Supergravity*. Springer.
 Joos, E., Zeh, H.D., Kiefer, C., Giulini, D.,  Kupsch, J., Stamatescu, I.O. (2003). *Decoherence and the Appearance of a Classical World in Quantum Theory* (2nd ed.). Springer. [(Originally published in 1996)]
@@ -58,10 +59,12 @@ Mermin, N.D. (1985). Is the moon there when nobody looks? Reality and the quantu
 Nail, T. (2018). *Lucretius I: An Ontology of Motion*. Edinburgh University Press.
 Nail, T. (2020). *Lucretius II: An Ethics of Motion*. Edinburgh University Press.
 Ney, A. & Albert, D.Z. (2013). *The Wave Function: Essays on the metaphysics of quantum mechanics*. Oxford University Press.
+{nLab authors}. (2021). Fiber bundles in physics. http://ncatlab.org/nlab/show/fiber%20bundles%20in%20physics
 Ohanian, H.C. (1986). What is spin? *American Journal of Physics*, 54, 500.
 Pati, J.C. & Salam, A. (1974). Lepton number as the fourth color. *Physical Review D*, 10, 275--289. https://pdfs.semanticscholar.org/21fb/f9d49acf3e3f07098ca686ae4058c38dbd03.pdf
 Peskin, M.E. (1994). Spin, Mass, and Symmetry. https://arxiv.org/abs/hep-ph/9405255
 Peskin, M.E. & Schroeder, D.V. (1995). *An Introduction to Quantum Field Theory*. Westview Press.
+Preskill, J. (2018). Quantum computing in the NISQ era and beyond. https://arxiv.org/abs/1801.00862
 Proietti, M. et al. (2019). Experimental test of local observer independence. *Science Advances*, 5, 9832. https://arxiv.org/abs/1902.05080
 Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8, 476. https://arxiv.org/abs/1111.3328
 Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(2), 57--99.

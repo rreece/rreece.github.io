@@ -678,14 +678,15 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924 to 1936.
 -   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Victor Kraft, Otto Neurath, Friedrich Waismann, Gustav Bergmann, and others.
 -   Ludwig Wittgenstein and Karl Popper corresponded with the circle but did not attend.
--   Carnap: *The Logical Structure of the World* (1928) - (*Der Logische Aufbau der Welt*) [^Carnap1928]
+-   Carnap, R. (1928), *The Logical Structure of the World* (*Der Logische Aufbau der Welt*) [^Carnap1928]
+    -   Rational reconstruction
 -   The scientific conception of the world: The Vienna Circle (1929) [^Hahn1973]
     -   Wissenschaftliche Weltauffassung: Der Wiener Kreis
     -   The Vienna Circle's manifesto
 -   In 1930 the Vienna Circle and the Berlin Circle took over the journal *Annalen der Philosophie*
     and made it the main journal of logical empiricism under the title *Erkenntnis*,
     edited by Carnap and Reichenbach.
--   A.J. Ayer (1910-1989):
+-   A.J. Ayer (1910-1989)
     -   Ayer, A.J. (1936). *Language, Truth, and Logic*. [^Ayer1936]
     -   Helped the spread of positivism in British academia.
 -   *International Encyclopedia of Unified Science*

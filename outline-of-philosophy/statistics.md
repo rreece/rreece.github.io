@@ -1518,6 +1518,11 @@ Blogs:
 [^Moravcik2017]: @Moravcik_2017_DeepStack_Expert_level_artificial_intelligence\.
 
 
+### Applications in physics
+
+-   [HEPML-LivingReview: A Living Review of Machine Learning for Particle Physics](https://iml-wg.github.io/HEPML-LivingReview/)
+
+
 Theoretical machine learning
 --------------------------------------------------------------------------------
 

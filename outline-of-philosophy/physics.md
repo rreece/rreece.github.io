@@ -189,8 +189,24 @@ Quantum mechanics
 -   Hilbert spaces.  Wigner's theorem.  The Born rule.
 -   Wave-particle duality misconceptions.  Fields are more fundamental than particles.
 -   The measurement problem.  Decoherence.  The Born rule again.
+-   Uncertainty principle
 -   Decoherence brings quantum logic to classical logic?
 
+Feynman and Hibbs on wave-principle duality:
+
+>   What is remarkable is that this dual use of wave and particle ideas does not
+>   lead to contradictions. This is so only if great care is taken as to what
+>   kind of statements one is permitted to make about the experimental
+>   situation. [^FeynmanHibbs1965p6]
+
+Feynman and Hibbs on the uncertainty principle:
+
+>   Any determination of the alternative taken by a process capable of following
+>   more than one alternative destroys the interference between the
+>   alternatives. [^FeynmanHibbs1965p9]
+
+[^FeynmanHibbs1965p6]: @Feynman_1965_Quantum_Mechanics_and_Path_Integrals\, p. 6.
+[^FeynmanHibbs1965p9]: @Feynman_1965_Quantum_Mechanics_and_Path_Integrals\, p. 9.
 [^Ney2013]: @Ney_2013_The_Wave_Function_Essays_on_the_metaphysics\.
 
 
@@ -209,7 +225,11 @@ Quantum mechanics
 
 ### Hydrogen atom
 
--   TODO
+-   Factorizable in spherical coordinates, leading to solutions as a product
+    of spherical harmonics in ($\theta$, $\phi$) and Laguerre polynomials in $r$.
+-   Fine structure
+-   Lamb shift
+-   Hyperfine structure
 
 
 ### Foundations of QM
@@ -286,8 +306,10 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 ### Quantum computing
 
 -   Aaronson, S. (2011). Why philosophers should care about computational complexity. [^Aaronson2011]
+-   Preskill, J. (2018). [Quantum computing in the NISQ era and beyond](https://arxiv.org/abs/1801.00862). [^Preskill2018]
 
 [^Aaronson2011]: @Aaronson_2011_Why_philosophers_should_care_about_computational\.
+[^Preskill2018]: @Preskill_2018_Quantum_computing_in_the_NISQ_era_and_beyond\.
 
 
 Quantum field theory
@@ -413,8 +435,11 @@ Michael Atiyah:
 ### Path intergrals
 
 -   Feynman
+    -   Feynman and Hibbs (1965) [^FeynmanHibbs1965]
 -   Partition functions and generating functionals
 -   Show this way of deriving the Feynman rules
+
+[^FeynmanHibbs1965]: @Feynman_1965_Quantum_Mechanics_and_Path_Integrals\.
 
 
 ### Renormalization
@@ -574,8 +599,14 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
     -   Fiber bundles embody two central principles of modern physics:
         1.  the principle of locality
         2.  the gauge principle.
+
+>   Bundles are the *global* structure of physical fields and they are irrelevant
+>   only for the crude local and perturbative description of reality. [^nLab2021Fiber]
+
 -   Maudlin on fiber bundles
 -   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
+-   [Ehresmann connection](https://en.wikipedia.org/wiki/Ehresmann_connection)
+-   [Jet bundle](https://en.wikipedia.org/wiki/Jet_bundle)
 
 Maudlin:
 
@@ -599,13 +630,15 @@ Maudlin:
 
 [^Maudlin2007p96]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 96.
 [^Maudlin2007p101]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 101.
+[^nLab2021Fiber]: @nLab_2021_Fiber_bundles_in_physics\.
 
 
 #### Topological QFT
 
 -   Topological QFT (TQFT)
 -   Simon Donaldson and Edward Witten
--   [cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
+-   [Chern–Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
+-   [Cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
 -   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos) - nLab
 -   Baez, J.C. & Stay, M. (2009). [Physics, Topology, Logic and Computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) [^Baez2009]
 -   See also: [differential geometry](math.html#differential-geometry) in the outline
@@ -1043,6 +1076,7 @@ Complexity and emergence
     -   [Mariam Thalos - 3:AM Magazine interview](https://www.3ammagazine.com/3am/multi-scale-existentialist-freedoms/)
 -   [Closer To Truth: What's Strong Emergence?](https://www.youtube.com/watch?v=zkffv2nVF64)
     -   George F. R. Ellis vs Barry Loewer
+-   John, Y.J. (2020). [An emergence reading list](https://yohanjohn.com/axispraxis/an-emergence-reading-list/).
 -   See also the [Reductionism](naturalism.html#reductionism) in the
     [Outline on naturalism](naturalism.html#reductionism).
 
