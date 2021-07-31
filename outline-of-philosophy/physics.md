@@ -110,6 +110,21 @@ Pedagogy:
 -   TODO
 
 
+### Special relativity
+
+-   [Ernst Mach](https://en.wikipedia.org/wiki/Ernst_Mach) (1838-1916)
+    -   Mach's principle
+-   [Hendrik Lorentz](https://en.wikipedia.org/wiki/Hendrik_Lorentz) (1853-1928)
+-   [Henri Poincar&eacute;](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9) (1854-1912)
+-   [Hermann Minkowski](https://en.wikipedia.org/wiki/Hermann_Minkowski) (1864-1909)
+-   [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (1879-1955)
+    -   Einstein, A. (1905). On the electrodynamics of moving bodies. [^Einstein1905]
+-   TODO: Maudlin [^Maudlin2012pX]
+
+[^Einstein1905]: @Einstein_1905_On_the_electrodynamics_of_moving_bodies\.
+[^Maudlin2012pX]: @Maudlin_2012_Philosophy_of_Physics_Space_and_Time\, p. TODO.
+
+
 Statistical physics
 --------------------------------------------------------------------------------
 
@@ -125,9 +140,9 @@ TODO:
 
 ### History
 
--   [Boltzmann, Ludwig](http://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906)
--   [Maxwell, James Clerk](http://en.wikipedia.org/wiki/James_Clerk_Maxwell) (1831-1879)
--   [Gibbs, Josiah Willard](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) (1839-1903)
+-   [Ludwig Boltzmann](http://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906)
+-   [James Clerk Maxwell](http://en.wikipedia.org/wiki/James_Clerk_Maxwell) (1831-1879)
+-   [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) (1839-1903)
 
 
 ### Canonical ensemble 
@@ -142,8 +157,9 @@ TODO:
 
 -   Phase transitions
 -   Renormalization
--   See also [Renormalization](#renormalization)
--   See also [Emergence](#emergence)
+-   See also:
+    -   [Emergence](#emergence)
+    -   [Renormalization](#renormalization)
 
 
 Symmetry-first physics
@@ -977,23 +993,17 @@ Beyond the standard model
 Gravity and cosmology
 --------------------------------------------------------------------------------
 
-### Special relativity
-
--   Mach's principle
--   Minkowski, Lorentz, Einstein, Poincar&eacute;
--   Einstein, A. (1905). On the electrodynamics of moving bodies.
--   TODO: Maudlin [^Maudlin2012pX]
-
-[^Maudlin2012pX]: @Maudlin_2012_Philosophy_of_Physics_Space_and_Time\, p. TODO.
-
-
 ### General relativity
 
--   Grossmann, M. & Einstein, A. (1913). Outline of a generalized theory of relativity and of a theory of gravitation.
--   *Gravitation*
+-   Recall [Special relativity](#special-relativity).
+-   [Bernhard Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) (1826-1866)
+-   Einstein, A. & Grossmann, M. (1913). Outline of a generalized theory of relativity and of a theory of gravitation. [^Einstein1913]
+-   *Gravitation* [^Misner1973]
 -   *Spacetime and Geometry* [^Carroll2004]
 
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
+[^Einstein1913]: @Einstein_1913_Entwurf_einer_verallgemeinerten\.
+[^Misner1973]: @Misner_1973_Gravitation\.
 
 
 ### Newtonian gravity

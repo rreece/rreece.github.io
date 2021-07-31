@@ -247,7 +247,7 @@ Model theory
 -   Carnap
 -   Traski
 -   Button & Walsh [^Button2018]
--   [model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
+-   [Model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
     -   See also: [Formal epistemology](scientific-method.html#formal-epistemology)
 
