@@ -136,10 +136,12 @@ Logic
 ### Introduction
 
 -   Teller, P. (1989). *A Modern Formal Logic Primer* [^Teller1989]
+-   Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard First-Order Logic*. [^Hunter1971]
 -   *The Open Logic Text* (as of 2020) [^OpenLogicText]
 -   MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction.* [^MacFarlane2021]
 -   [logicinaction.org](http://www.logicinaction.org/)
 
+[^Hunter1971]: @Hunter_1971_Metalogic_An_Introduction_to_the_Metatheory\.
 [^MacFarlane2021]: @MacFarlane_2021_Philosophical_Logic_A_contemporary_introduction\.
 [^OpenLogicText]: @Open_2020_The_Open_Logic_Text\.
 [^Teller1989]: @Teller_1989_A_Modern_Formal_Logic_Primer\.
@@ -167,17 +169,35 @@ Logic
 
 ### Propositional logic
 
--   AKA propositional calculus and zeroth-order logic
+-   [Propositional logic](https://en.wikipedia.org/wiki/Propositional_logic)
+    -   AKA propositional calculus and zeroth-order logic
 -   Validity and soundness:
     -   An argument is **valid** iff for any assignment of the truth values in the argument
         where all of the premises are true, the conclusion is always true.
     -   An argument is **sound** iff it is valid and all of its premises are true.
--   TODO: basic examples in propositional logic
--   Use-mention distinction: P vs 'P' vs Quine quotes
+-   [Sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus)
 
-Material implication:
+*Syntactic consequence:*
+
+$$ A \vdash B $$
+
+means that $B$ is logically derivable/provable from $A$.
+
+*Symantic consequence:*
+
+$$ A \models B $$
+
+means that in all possible valuations in which $A$ is true, $B$ is also true.
+One says that $A$ "entails" $B$, or $A$ "models" $B$.
+
+-   TODO: Propositional logic is sound ($\vdash$ implies $\models$) and complete ($\models$ implies $\vdash$).
+
+*Material implication:*
 
 $$ P \rightarrow Q \vdash \lnot P \lor Q $$
+
+-   TODO: basic examples in propositional logic
+-   TODO: Use-mention distinction: P vs 'P' vs Quine quotes
 
 
 ### Set theory
@@ -192,16 +212,21 @@ $$ P \rightarrow Q \vdash \lnot P \lor Q $$
 ### First-order logic
 
 -   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
--   AKA predicate logic
--   domain of discourse
--   quantification
--   consistency, completeness, expressivity
+    -   AKA predicate logic
+    -   Adds (non-logical) predicates and quantification over elements
+    -   Domain of discourse
+-   C.S Peirce was first to distinguish between propositional logic,
+    first-order logic, and second-order logic in 1885. [^Ewald2018]
+-   Consistency, completeness, expressivity
 -   G&ouml;del's completeness theorem
+
+[^Ewald2018]: @Ewald_2018_The_emergence_of_first_order_logic\.
 
 
 ### Second-order logic
 
 -   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
+-   SEP: [Second-order and higher-order logic](https://plato.stanford.edu/entries/logic-higher-order/)
 -   Includes relation variables in addition to object variables and allows quantification over both.
     -   Extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
 -   The power set can be written in terms of second-order logic.
@@ -601,7 +626,7 @@ Naturalism
 -   Dan A. Roberts. (2021). [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
     -   See also: [No free lunch theorems](statistics.html#no-free-lunch-theorems)
 
-[^Hamming1980]: @Hamming_1980_The_Unreasonable_Effectiveness_of_Mathematics\.
+[^Hamming1980]: @Hamming_1980_The_unreasonable_effectiveness_of_mathematics\.
 [^Putnam1975]: @Putnam_1975_What_is_mathematical_truth\.
 [^Roberts2021]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.
 [^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
@@ -709,6 +734,7 @@ Click to show links
 -   [Descartes' mathematics](http://plato.stanford.edu/entries/descartes-mathematics/)
 -   [Diagrams](https://plato.stanford.edu/entries/diagrams/)
 -   [Dialetheism](https://plato.stanford.edu/entries/dialetheism/)
+-   [Emergence of first-order logic](https://plato.stanford.edu/entries/logic-firstorder-emergence/)
 -   [Epistemology of visual thinking in mathematics](http://plato.stanford.edu/entries/epistemology-visual-thinking/)
 -   [Explanation in mathematics](http://plato.stanford.edu/entries/mathematics-explanation/)
 -   [Fictionalism](http://plato.stanford.edu/entries/fictionalism/)
