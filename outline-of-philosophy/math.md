@@ -916,6 +916,7 @@ Click to show links
 -   [Philosophy of mathematics](http://en.wikipedia.org/wiki/Philosophy_of_mathematics)
 -   [Problem of universals](https://en.wikipedia.org/wiki/Problem_of_universals)
 -   [Proof by contrapositive](https://en.wikipedia.org/wiki/Proof_by_contrapositive)
+-   [Proof theory](https://en.wikipedia.org/wiki/Proof_theory)
 -   [Propositional calculus](https://en.wikipedia.org/wiki/Propositional_calculus)
 -   [*Principia Mathematica* (1910)](https://en.wikipedia.org/wiki/Principia_Mathematica)
 -   [Pythagoras (570-495 BCE)](https://en.wikipedia.org/wiki/Pythagoras)
