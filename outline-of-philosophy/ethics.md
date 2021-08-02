@@ -229,6 +229,7 @@ Churchland:
 
 -   [Harry Markowitz](https://en.wikipedia.org/wiki/Harry_Markowitz) (b. 1927)
     -   [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
+    -   [Markowitz model](https://en.wikipedia.org/wiki/Markowitz_model)
 -   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
     -   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
 -   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)

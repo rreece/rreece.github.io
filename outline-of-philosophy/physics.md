@@ -228,7 +228,7 @@ Feynman and Hibbs on the uncertainty principle:
 
 ### History
 
--   Kelvin, L. (1901). Nineteenth century clouds over the dynamical theory of heat and light.
+-   Kelvin, L. (1901). Nineteenth century clouds over the dynamical theory of heat and light. [^Kelvin1901]
 -   Planck
 -   Einstein
 -   Bohr

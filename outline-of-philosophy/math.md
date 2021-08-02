@@ -172,9 +172,9 @@ Logic
 -   [Propositional logic](https://en.wikipedia.org/wiki/Propositional_logic)
     -   AKA propositional calculus and zeroth-order logic
 -   Validity and soundness:
-    -   An argument is **valid** iff for any assignment of the truth values in the argument
+    -   An argument is *valid* iff for any assignment of the truth values in the argument
         where all of the premises are true, the conclusion is always true.
-    -   An argument is **sound** iff it is valid and all of its premises are true.
+    -   An argument is *sound* iff it is valid and all of its premises are true.
 -   [Sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus)
 
 *Syntactic consequence:*
@@ -183,7 +183,7 @@ $$ A \vdash B $$
 
 means that $B$ is logically derivable/provable from $A$.
 
-*Symantic consequence:*
+*Semantic consequence:*
 
 $$ A \models B $$
 
@@ -194,9 +194,28 @@ One says that $A$ "entails" $B$, or $A$ "models" $B$.
 
 *Material implication:*
 
-$$ P \rightarrow Q \vdash \lnot P \lor Q $$
+$$ P \rightarrow Q \equiv \lnot P \lor Q $$
 
--   TODO: basic examples in propositional logic
+Note that $\vdash$, $\models$, and $\equiv$ are all metalogical symbols,
+not part of the rules of logic; they are shorthands.
+
+$\vdash$  means "from which, it is derivable that".          
+$\models$ means "entails that, *i.e.* in every case this is true, that is true (regardless of provability)".           
+$\equiv$ means "is notationally identical to".         
+
+*Modus ponens:*
+
+$$ P \rightarrow Q, P \vdash Q $$
+
+*Modus tollens:*
+
+$$ P \rightarrow Q, \lnot Q \vdash \lnot P $$
+
+*Peirce's law:*
+
+$$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
+
+-   TODO: More basic examples in propositional logic
 -   TODO: Use-mention distinction: P vs 'P' vs Quine quotes
 
 
@@ -218,7 +237,8 @@ $$ P \rightarrow Q \vdash \lnot P \lor Q $$
 -   C.S Peirce was first to distinguish between propositional logic,
     first-order logic, and second-order logic in 1885. [^Ewald2018]
 -   Consistency, completeness, expressivity
--   G&ouml;del's completeness theorem
+-   [G&ouml;del's completeness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
+    -   establishes a correspondence between semantic truth and syntactic provability in first-order logic.
 
 [^Ewald2018]: @Ewald_2018_The_emergence_of_first_order_logic\.
 
