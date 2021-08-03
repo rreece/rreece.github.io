@@ -31,17 +31,22 @@ News
     ([arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
 -   Apr 2018: I joined [Cerebras Systems](https://www.cerebras.net/) as a machine learning engineer.
 -   Nov 2014:
-    I am awarded a 6 month fellowship, US ATLAS Scholar,
+    I am awarded a 6 month fellowship, [US ATLAS Scholar](https://po.usatlas.bnl.gov/programoffice/scholars_2014.php),
     to be at Lawrence Berkeley National Laboratory (LBL) in Berkeley, CA,
     continuing collaboration with the ATLAS Experiment.
 -   July 2013: I started a postdoctoral fellowship with the
-    Santa Cruz Institute for Particle Physics (SCIPP)
+    [Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/)
     at UC Santa Cruz.
 -   July 2013: I defended my PhD at Penn.
 -   On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214)
     and [CMS](https://arxiv.org/abs/1207.7235)
     experiments both announce the discovery of a new particle consistent with
     the standard model Higgs boson.
+-   Jan 2009: I moved to near Geneva, Switerland to work on the
+    [ATLAS experiment](https://atlas.cern/) at [CERN](http://home.cern/).
+-   June 2006: I spent my first summer at CERN, helping comission
+    Transition Radiation Tracker (TRT), a sub-detector within the
+    ATLAS experiment.
 
 
 Contact
