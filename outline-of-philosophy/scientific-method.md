@@ -722,6 +722,8 @@ Reichenbach:
 -   Note that philosophical induction is not [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
 -   Sankey [^Sankey2008p79]
 -   Vickers, J.M. (2013). [Oxford Bibliography on Inductive Reasoning](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0171.xml).
+-   See also:
+    -   [Algorithmic information theory](statistics.html#algorithmic-information-theory)
 
 [^Aronson2007]: @Aronson_2007_Evidence_Based_Technical_Analysis\, p. 128.
 [^Aumann1976]: @Aumann_1976_Agreeing_to_disagree\.
@@ -903,6 +905,8 @@ Sagan:
     -   Ladyman: Error-catching filters [^Ladyman2007]
     -   community, honesty, openness
     -   Mayo: Error statistics [^Mayo2011]
+-   See also:
+    -   [Algorithmic information theory](statistics.html#algorithmic-information-theory)
 
 [^French2007pX]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. TODO.
 [^French2007pX2]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. TODO.

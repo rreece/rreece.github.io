@@ -1532,6 +1532,9 @@ Theoretical machine learning
 -   Solomonoff induction
     -   Naturally formalizes Occam's razor
     -   Incomputable
+-   Rathmanner, S. & Hutter, M. (2011). A philosophical treatise of universal induction. [^Rathmanner2011]
+
+[^Rathmanner2011]: @Rathmanner_2011_A_philosophical_treatise_of_universal_induction\.
 
 
 ### No free lunch theorems
@@ -1549,6 +1552,7 @@ Theoretical machine learning
     -   Yudkowsky, E. (2007). [Inductive bias](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias). *LessWrong*.
     -   [Ugly duckling theorem](https://en.wikipedia.org/wiki/Ugly_duckling_theorem)
     -   Hamilton, L.D. (2014). [The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms).
+    -   Mitchell, T.M. (1990). The need for biases in learning generalizations. [^Mitchell1990]
 -   Gerhard Schurz
     -   See also: [Meta-induction as a solution to the problem of induction](scientific-method.html#meta-induction-as-a-solution-to-the-problem-of-induction)
 -   Dan A. Roberts. (2021). [Why is AI hard and physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
@@ -1570,6 +1574,7 @@ Roberts:
 >   is precisely what we mean when we say that physics enables us to understand
 >   a given phenomenon. [^Roberts2021p7]
 
+[^Mitchell1990]: @Mitchell_1990_The_need_for_biases_in_learning_generalizations\.
 [^Raissi2017Ip2]: @Raissi_2017_Physics_informed_deep_learning_Part_I_Data\, p. 2.
 [^Roberts2021]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.
 [^Roberts2021p7]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\, p. 7.

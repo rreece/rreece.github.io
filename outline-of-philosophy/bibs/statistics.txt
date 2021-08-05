@@ -118,6 +118,7 @@ Mayo, D.G. (2021). Significance tests: Vitiated or vindicated by the replication
 McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). Academic Press: New York.
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
+Mitchell, T.M. (1990). The need for biases in learning generalizations. In *Readings in Machine Learning* (pp. 184-192). San Mateo, CA, USA. http://dml.cs.byu.edu/~cgc/docs/mldm_tools/Reading/Need%20for%20Bias.pdf
 Mnih, V. et al. (2013). Playing Atari with deep reinforcement learning. https://arxiv.org/abs/1312.5602
 Mnih, V. et al. (2015). Human-level control through deep reinforcement learning. *Nature*, 518(7540), 529--533. http://files.davidqiu.com//research/nature14236.pdf
 Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. *Science*, 356, 508--513. https://arxiv.org/abs/1701.01724
@@ -137,6 +138,7 @@ Rao, C.R. (1945). Information and the accuracy attainable in the estimation of s
 Rao, C.R. (1947). Minimum variance and the estimation of several parameters. In *Mathematical Proceedings of the Cambridge Philosophical Society*, 43, 280--283. Cambridge University Press.
 Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part I): Data-driven solutions of nonlinear partial differential equations. https://arxiv.org/abs/1711.10561
 Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part II): Data-driven discovery of nonlinear partial differential equations. https://arxiv.org/abs/1711.10566
+Rathmanner, S. & Hutter, M. (2011). A philosophical treatise of universal induction. *Entropy*, 13, 1076--1136. https://www.mdpi.com/1099-4300/13/6/1076/pdf
 Read, A.L. (2002). Presentation of search results: the CLs technique. *Journal of Physics G: Nuclear and Particle Physics*, 28(10), 2693. https://indico.cern.ch/event/398949/attachments/799330/1095613/The_CLs_Technique.pdf
 Reichenbach, H. (1938). *Experience and Prediction*. University of Chicago Press.
 Reichenbach, H. (1940). On the justification of induction. *The Journal of Philosophy*, 37, 97--103.
