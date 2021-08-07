@@ -513,16 +513,12 @@ Michael Atiyah:
 
 ### Foundations
 
+#### Introduction
+
 -   Weinberg
--   Canonical quantization
--   No "2nd quantization"
--   Redhead [^Redhead1982]
--   Redhead [^Redhead1988]
--   Canonical vs path integral quantization
+-   Struggles with the continuum [^Baez2016]
 -   [Reeh-Schlieder theorem](https://en.wikipedia.org/wiki/Reeh%E2%80%93Schlieder_theorem)
     -   Taj Mahal principle
--   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
--   Struggles with the continuum [^Baez2016]
 
 Baez:
 
@@ -541,6 +537,18 @@ Baez:
 [^Baez2016]: @Baez_2016_Struggles_with_the_continuum\.
 [^Baez2016p17]: @Baez_2016_Struggles_with_the_continuum\, p. 17.
 [^Baez2016p18]: @Baez_2016_Struggles_with_the_continuum\, p. 18.
+
+
+#### Quantization
+
+-   Canonical quantization
+-   Path integral quantization
+-   No "2nd quantization"
+-   Redhead [^Redhead1982]
+-   Redhead [^Redhead1988]
+-   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
+-   Geometric quantization
+
 [^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
 
@@ -568,8 +576,7 @@ Kastler:
 [^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
 
 
-
-### Haag's theorem
+#### Haag's theorem
 
 -   Haag's theorem [^Haag1955]
     -   The interaction picture does not exist in interacting relativistic QFT.
@@ -912,6 +919,8 @@ The standard model of particle physics
 -   Cabibbo angle (1963)
 -   CP violation
 -   CKM matrix
+-   Kaons
+-   B-mesons
 
 
 ### Higgs mechanism
