@@ -333,15 +333,13 @@ Quantum field theory
 
 ### Fields
 
+#### Introduction
+
 -   Field definition
 -   Faraday intro
--   Coleman-Mandula theorem [^Coleman1967]
--   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification)
--   CPT theorem
 -   Feynman's Nobel Lecture on QED [^Feynman1965]
--   Wolchover, N. (2020). [What is a particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
--   Wave-particle duality
--   Struggles with the continuum [^Baez2016]
+-   Weinberg's folk theorem: QFT is the right way to combine Lorentz invariance,
+    quantum mechanics, and the cluster decomposition principle. [^Weinberg1997p8]
 
 Baez, Segal, & Zhou:
 
@@ -353,6 +351,25 @@ Baez, Segal, & Zhou:
 >   space-time, it is clear from this description that it is a multifaceted
 >   subject. [^Baez1992p1]
 
+[^Baez1992p1]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 1.
+[^Feynman1965]: @Feynman_1965_The_Development_of_the_Space_Time_View_of_Quantum\.
+[^Weinberg1997p8]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\, p. 8.
+
+
+#### Wave-particle duality
+
+-   Wolchover, N. (2020). [What is a particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
+
+Weinberg on wave-particle duality:
+
+>   In its mature form, the idea of quantum field theory is that quantum
+>   fields are the basic ingredients of the universe, and particles are
+>   just bundles of energy and momentum of the fields. In a relativistic
+>   theory the wave function is a functional of these fields, not a
+>   function of particle coordinates. Quantum field theory hence led to a
+>   more unified view of nature than the old dualistic interpretation in
+>   terms of both fields and particles. [^Weinberg1997p2]
+
 Baez, Segal, & Zhou on wave-particle duality:
 
 >   The treatment of the dynamics of quantum systems turns out to be naturally
@@ -362,21 +379,21 @@ Baez, Segal, & Zhou on wave-particle duality:
 >   just as the *particle numbers* are diagonalized in the tensor product
 >   representation. [^Baez1992p59]
 
-Baez:
+[^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
+[^Weinberg1997p2]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\, p. 2.
 
->   Nobody has found a fully rigorous formulation of QED, nor has anyone proved
->   such a thing cannot be found. [^Baez2016p17]
 
-Baez:
+#### Symmetry
 
->   In practice, quantum field theory is marvelously good for calculating
->   answers to many physics questions. The answers involve approximations.
->   These approximations seem to work very well: that is, the answers match
->   experiments. Unfortunately we do not fully understand, in a mathematically
->   rigorous way, what these approximations are supposed to be
->   approximating. [^Baez2016p18]
+-   Coleman-Mandula theorem [^Coleman1967]
+-   Again, Noether's theorem
+-   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification)
+-   CPT theorem
 
-Pedagogy:
+[^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
+
+
+#### Pedagogy
 
 -   Peskin and Schroeder [^Peskin1995]
 -   Zee [^Zee2013]
@@ -384,13 +401,6 @@ Pedagogy:
 -   David Tong [^Tong2006]
 -   Zeidler, vol 1 [^Zeidler2007], 2 [^Zeidler2008], and 3 [^Zeidler2011]
 
-[^Baez1992p1]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 1.
-[^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
-[^Baez2016]: @Baez_2016_Struggles_with_the_continuum\.
-[^Baez2016p17]: @Baez_2016_Struggles_with_the_continuum\, p. 17.
-[^Baez2016p18]: @Baez_2016_Struggles_with_the_continuum\, p. 18.
-[^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
-[^Feynman1965]: @Feynman_1965_The_Development_of_the_Space_Time_View_of_Quantum\.
 [^Peskin1995]: @Peskin_1995_An_Introduction_to_Quantum_Field_Theory\.
 [^Schwartz2014]: @Schwartz_2014_Quantum_Field_Theory_and_the_Standard_Model\.
 [^Tong2006]: @Tong_2006_Lectures_on_Quantum_Field_Theory\.
@@ -402,15 +412,24 @@ Pedagogy:
 
 ### Spin
 
--   [Spinor](https://en.wikipedia.org/wiki/Spinor)
-    -   SU(2) double covers SO(3)
-    -   [Belt trick](https://en.wikipedia.org/wiki/Plate_trick)
-    -   [Orientation entanglement](https://en.wikipedia.org/wiki/Orientation_entanglement)
-    -   Spatial vectors alone are not sufficient to describe fully the properties of rotations in space.
+#### Introduction
 
 -   Ohanian [^Ohanian1986]
 -   Peskin [^Peskin1994]
 -   Sebens [^Sebens2019]
+
+[^Ohanian1986]: @Ohanian_1986_What_is_spin\.
+[^Peskin1994]: @Peskin_1994_Spin_Mass_and_Symmetry\.
+[^Sebens2019]: @Sebens_2019_How_electrons_spin\.
+
+
+#### Spinors
+
+-   [Spinor](https://en.wikipedia.org/wiki/Spinor)
+-   SU(2) double covers SO(3)
+-   [Belt trick](https://en.wikipedia.org/wiki/Plate_trick)
+-   [Orientation entanglement](https://en.wikipedia.org/wiki/Orientation_entanglement)
+-   Spatial vectors alone are not sufficient to describe fully the properties of rotations in space.
 
 Michael Atiyah:
 
@@ -420,9 +439,6 @@ Michael Atiyah:
 >   took centuries, the same might be true of spinors. [^Dutailly2014p37]
 
 [^Dutailly2014p37]: @Dutailly_2014_Particles_and_Fields\, p. 37.
-[^Ohanian1986]: @Ohanian_1986_What_is_spin\.
-[^Peskin1994]: @Peskin_1994_Spin_Mass_and_Symmetry\.
-[^Sebens2019]: @Sebens_2019_How_electrons_spin\.
 
 
 #### Spin-statistics theorem
@@ -491,7 +507,7 @@ Michael Atiyah:
 
 [^Bain2013]: @Bain_2013_Effective_field_theories and
     @Bain_2013_Emergence_in_effective_field_theories\.
-[^Weinberg1997]: @Weinberg_1996_What_is_quantum_field_theory_and_what_did_we\.
+[^Weinberg1997]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\.
 [^Williams2019]: @Williams_2019_Scientific_realism_made_effective\.
 
 
@@ -506,7 +522,25 @@ Michael Atiyah:
 -   [Reeh-Schlieder theorem](https://en.wikipedia.org/wiki/Reeh%E2%80%93Schlieder_theorem)
     -   Taj Mahal principle
 -   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
+-   Struggles with the continuum [^Baez2016]
 
+Baez:
+
+>   Nobody has found a fully rigorous formulation of QED, nor has anyone proved
+>   such a thing cannot be found. [^Baez2016p17]
+
+Baez:
+
+>   In practice, quantum field theory is marvelously good for calculating
+>   answers to many physics questions. The answers involve approximations.
+>   These approximations seem to work very well: that is, the answers match
+>   experiments. Unfortunately we do not fully understand, in a mathematically
+>   rigorous way, what these approximations are supposed to be
+>   approximating. [^Baez2016p18]
+
+[^Baez2016]: @Baez_2016_Struggles_with_the_continuum\.
+[^Baez2016p17]: @Baez_2016_Struggles_with_the_continuum\, p. 17.
+[^Baez2016p18]: @Baez_2016_Struggles_with_the_continuum\, p. 18.
 [^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
 

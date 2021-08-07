@@ -365,6 +365,9 @@ Category theory
 ### Homotopy type theory
 
 -   Homotopy type theory (HoTT)
+-   [Intuitionistic type theory](https://en.wikipedia.org/wiki/Intuitionistic_type_theory)
+    -   Per Martin-L&ouml;f (b. 1942)
+-   [Homotopy type theory](https://ncatlab.org/nlab/show/homotopy+type+theory) - nLab
 -   [The Homotopy type theory book](https://homotopytypetheory.org/book/) (2013)
 
 
