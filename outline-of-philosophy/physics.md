@@ -818,7 +818,7 @@ Interpretations of quantum mechanics
 ### Epistemic interpretations
 
 -   $\psi$-epistemic interpretations
--   quantum Bayesianism (QBism)
+-   Quantum Bayesianism (QBism)
 -   Fuchs and Schack
 -   Mermin
 -   Leifer, M.S. & Spekkens, R.W. (2011). [Towards a formulation of quantum theory as a causally neutral theory of bayesian inference.](https://arxiv.org/abs/1107.5849)
@@ -838,8 +838,8 @@ Interpretations of quantum mechanics
 
 ### Other interpretations
 
--   relational quantum mechanics
--   transactional quantum mechanics
+-   Relational quantum mechanics
+-   Transactional quantum mechanics
 -   ...
 
 
@@ -902,15 +902,15 @@ The standard model of particle physics
 
 -   QCD: SU(3)
 -   SU(3) $\times$ SU(2) $\times$ U(1)
--   asymptotic freedom
+-   Asymptotic freedom
 
 
 ### Three generations of fermions
 
--   discovery of charm: "November revolution"
--   discovery of bottom
--   discovery of tau
--   discovery of top
+-   Discovery of charm: "November revolution"
+-   Discovery of bottom
+-   Discovery of tau
+-   Discovery of top
 
 ![The total action of the physics of the standard model 
     together with general relativity as presented by [Sean Carroll on his blog](http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/).
@@ -1021,8 +1021,10 @@ Gravity and cosmology
 -   Edwin Hubble observationally confirmed the expansion of the universe in 1929.
 -   Arno Penzias and Robert Wilson discovered the cosmic background radiation (CMB) in 1964.
 -   See history reviewed by Fr&egrave; [^Fre2013v2ch4]
+-   *The First Three Minutes* [^Weinberg1977]
 
 [^Fre2013v2ch4]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 4.
+[^Weinberg1977]: @Weinberg_1977_The_First_Three_Minutes\.
 
 
 ### Dark matter

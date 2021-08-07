@@ -55,6 +55,7 @@ TODO
 ### More
 
 -   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
+    -   [Hurwitz's theorem](https://en.wikipedia.org/wiki/Hurwitz%27s_theorem_(composition_algebras)): Every normed division algebra is isomorphic to the real numbers, the complex numbers, the quaternions, or the octonions.
 -   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
 -   [Universal algebra](https://en.wikipedia.org/wiki/Universal_algebra)
@@ -343,14 +344,16 @@ Category theory
 --------------------------------------------------------------------------------
 
 -   Origins
--   relation to set theory
--   relation to Russell type theory
--   [category theory](https://ncatlab.org/nlab/show/category+theory) - nLab
+-   Relation to set theory
+-   Relation to Russell type theory
+-   [Category theory](https://ncatlab.org/nlab/show/category+theory) - nLab
 -   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
--   HoTT
--   Morton, J. (2013). [Blog on the Cobordism Hypothesis](https://theoreticalatlas.wordpress.com/2013/04/22/seminar-on-cob-hyp/).
 -   Lurie, J. (2009). [On the classification of topological field theories](https://arxiv.org/abs/0905.0465).
 -   [Jacob Lurie's Home Page](https://www.math.ias.edu/~lurie/)
+-   Morton, J. (2013). [Blog on the Cobordism Hypothesis](https://theoreticalatlas.wordpress.com/2013/04/22/seminar-on-cob-hyp/).
+-   Homotopy type theory (HoTT)
+-   [The Homotopy type theory book](https://homotopytypetheory.org/book/) (2013)
+-   Baez, J. (2021). [Topos theory in a nutshell](https://math.ucr.edu/home/baez/topos.html).
 
 
 Unification programs
@@ -360,8 +363,8 @@ Unification programs
 -   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
 -   [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
--   Category theory
-    -   [Univalent foundations](https://en.wikipedia.org/wiki/Univalent_foundations)
+-   [Univalent foundations](https://en.wikipedia.org/wiki/Univalent_foundations)
+    -   Category theory
     -   [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html)
 
 Yanofsky, N.S. (2016). Why mathematics works so well:

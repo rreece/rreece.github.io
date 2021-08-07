@@ -153,7 +153,7 @@ a measure of inductive confidence.
 
 TODO:
 
--   Kolmogorov
+-   Kolmogorov axioms
 -   Probability vs odds: $p/(p+q)$ vs $p/q$
 -   Carnap: "Probability as a guide in life" [^Carnap1947]
 
@@ -167,7 +167,7 @@ Expectation:
 $$ \mathbb{E}(y) \equiv \int dx \: p(x) \: y(x) \label{eq:expectation} $$
 
 Expectation values can be approximated with a partial sum over some data
-or monte carol sample:
+or Monte Carlo sample:
 
 $$ \mathbb{E}(y) \approx \frac{1}{n} \sum_s^n y(x_s) \label{eq:expectation_sum} $$
 
@@ -1161,7 +1161,9 @@ See also:
 -   Relationship of clustering and autoencoding
     -   Batson et al. (2021). [Topological obstructions to autoencoding](https://arxiv.org/abs/2102.08380). [^Batson2021]
 -   "What are the true clusters?" [^Hennig2015]
-    -   See also: [constructive empiricism](scientific-realism.html#constructive-empiricism)
+    -   See also:
+        -   [Algorithmic information theory](#algorithmic-information-theory)
+        -   [Constructive empiricism](scientific-realism.html#constructive-empiricism)
 -   [Clustering high-dimensional data](https://en.wikipedia.org/wiki/Clustering_high-dimensional_data)
     -   [*t*-distributed stochastic neighbor embedding (t-SNE)](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
     -   See also: [Curse of dimensionality](#curse-of-dimensionality)
