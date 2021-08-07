@@ -1049,6 +1049,11 @@ Works:
 ![Statues of kitsune (foxes) at Fushimi Inari-taisha (photo by Ryan Reece, 2018).](img/kitsune-fushimi-inari.png){#fig:kitsune-fushimi-inari}
 
 
+### African
+
+-   Bryan Van Norden. (2021). [Readings on the Less Commonly Taught Philosophies (LCTP)](http://www.bryanvannorden.com/suggestions-for-further-reading).
+
+
 ### American
 
 -   [Aztec philosophy](https://en.wikipedia.org/wiki/Aztec_philosophy)
@@ -1570,6 +1575,7 @@ Biology
 -   [Alvarez hypothesis](https://en.wikipedia.org/wiki/Alvarez_hypothesis) (1980)
 -   Raup & Sepkoski (1982) [^Raup1982]
 -   [Holocene extinction](https://en.wikipedia.org/wiki/Holocene_extinction)
+-   [Anthropocene](https://en.wikipedia.org/wiki/Anthropocene)
 
 [^Raup1982]: @Raup_1982_Mass_extinctions_in_the_marine_fossil_record\.
 
@@ -1695,6 +1701,7 @@ Atheism
 
 [^Weisberg2019ch14_5]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\, ch. 14, section 5\.
 
+
 ### The problem of evil
 
 C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
@@ -1702,6 +1709,7 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 >   Had God designed the world, it would not be       
 >   A world so frail and faulty as we see. [^Lewis1955]
 
+-   [Theodicy](https://en.wikipedia.org/wiki/Theodicy)
 -   [Jean Meslier](https://en.wikipedia.org/wiki/Jean_Meslier) (1664-1729)
 -   J.L. Mackie
     -   *The Miracle of Theism* (1983) [^Mackie1983]

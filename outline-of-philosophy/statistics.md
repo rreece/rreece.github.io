@@ -1131,6 +1131,9 @@ See also:
 -   McFadden [^McFadden1973]
 -   Softmax is really a soft argmax. TODO: find ref.
 -   Softmax is not unique. There are other squashing functions. [^Blondel2020]
+    -   [Tweet from PreetumNakkiran](https://twitter.com/PreetumNakkiran/status/1422752757920845825)
+    -   [Distributional generalization: A new kind of generalization](https://arxiv.org/abs/2009.08092)
+    -   [Early-stopped neural networks are consistent](https://arxiv.org/abs/2106.05932)
 -   Roelants, P. (2019). [Softmax classification with cross-entropy](https://peterroelants.github.io/posts/cross-entropy-softmax/).
 -   Gradients from backprop through a softmax
 -   Goodfellow et al. point out that _any_ negative log-likelihood is a cross entropy

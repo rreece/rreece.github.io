@@ -905,8 +905,13 @@ Sagan:
     -   Ladyman: Error-catching filters [^Ladyman2007]
     -   community, honesty, openness
     -   Mayo: Error statistics [^Mayo2011]
+-   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013]
+    -   In the introduction, in a rather positivist way, Spivak describes his view that
+        category theory can be used to ground truth in observation.
 -   See also:
     -   [Algorithmic information theory](statistics.html#algorithmic-information-theory)
+
+![Spivak's figure "intended to evoke thoughts of the scientific method". [^Spivak2013p5]](img/Spivak-scientific-method.png){#fig:Spivak-scientific-method}
 
 [^French2007pX]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. TODO.
 [^French2007pX2]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. TODO.
@@ -918,6 +923,8 @@ Sagan:
 [^Nola2007pX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
 [^Nola2007pXX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
 [^Popper1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
+[^Spivak2013]: @Spivak_2013_Category_theory_for_scientists\.
+[^Spivak2013p5]: @Spivak_2013_Category_theory_for_scientists\, p. 5.
 
 
 ### No: There is no unified "scientific method"

@@ -1,7 +1,6 @@
 Aaronson, S. (2011). Why philosophers should care about computational complexity. https://arxiv.org/abs/1108.1791
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
 Baez, J.C., Segal, I., & Zhou, Z. (1992). *Introduction to Algebraic and Constructive Quantum Field Theory*. Princeton University Press. https://math.ucr.edu/home/baez/bsz.html
-Baez, J.C. & Stay, M. (2009). Physics, Topology, Logic and Computation: A Rosetta Stone. https://arxiv.org/abs/0903.0340
 Baez, J.C. (2016). Struggles with the continuum. https://arxiv.org/abs/1609.01421
 Baggott, J. (2013). *Farewell to Reality: How modern physics has betrayed the search for scientific truth*. Pegasus Books.
 Bain, J. (2000). Against particle/field duality: Asymptotic particle states and interpolating fields in interacting QFT, or Who's afraid of Haag's theorem? *Erkenntnis*, 53(3), 375--406.
