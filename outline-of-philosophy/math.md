@@ -343,27 +343,47 @@ More:
 Category theory
 --------------------------------------------------------------------------------
 
--   Origins
--   Relation to set theory
--   Relation to Russell type theory
+### Introduction
+
 -   [Category theory](https://ncatlab.org/nlab/show/category+theory) - nLab
     -   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
     -   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013]
+-   Relation to set theory
+-   Relation to Russell type theory
+-   Univalent foundations
+
+[^Spivak2013]: @Spivak_2013_Category_theory_for_scientists\.
+
+
+### History
+
+-   Samuel Eilenberg (1913-1998) and Saunders Mac Lane (1909-2005)
+-   [Alexander Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck) (1928-2014)
+-   [Bill Lawvere](https://en.wikipedia.org/wiki/William_Lawvere) (b. 1937)
+
+
+### Homotopy type theory
+
 -   Homotopy type theory (HoTT)
-    -   [The Homotopy type theory book](https://homotopytypetheory.org/book/) (2013)
--   The cobordism hypothesis
-    -   [Cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
-    -   Baez, J.C. & Dolan, J. (1995). [Higher‐dimensional algebra and topological quantum field theory](https://arxiv.org/abs/q-alg/9503002). [^Baez1995]
-    -   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340). [^Baez2009]
-    -   Lurie, J. (2009). [On the classification of topological field theories](https://arxiv.org/abs/0905.0465).
-    -   [Jacob Lurie's Home Page](https://www.math.ias.edu/~lurie/)
-    -   Morton, J. (2013). [Blog on the cobordism hypothesis](https://theoreticalatlas.wordpress.com/2013/04/22/seminar-on-cob-hyp/).
--   Topos theory
-    -   Baez, J. (2021). [Topos theory in a nutshell](https://math.ucr.edu/home/baez/topos.html).
+-   [The Homotopy type theory book](https://homotopytypetheory.org/book/) (2013)
+
+
+### Cobordism hypothesis
+
+-   [Cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
+-   Baez, J.C. & Dolan, J. (1995). [Higher‐dimensional algebra and topological quantum field theory](https://arxiv.org/abs/q-alg/9503002). [^Baez1995]
+-   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340). [^Baez2009]
+-   Lurie, J. (2009). [On the classification of topological field theories](https://arxiv.org/abs/0905.0465).
+-   [Jacob Lurie's Home Page](https://www.math.ias.edu/~lurie/)
+-   Morton, J. (2013). [Blog on the cobordism hypothesis](https://theoreticalatlas.wordpress.com/2013/04/22/seminar-on-cob-hyp/).
 
 [^Baez1995]: @Baez_1995_Higher_dimensional_algebra_and_topological_quantum\.
 [^Baez2009]: @Baez_2009_Physics_topology_logic_and_computation\.
-[^Spivak2013]: @Spivak_2013_Category_theory_for_scientists\.
+
+
+### Topos theory
+
+-   Baez, J. (2021). [Topos theory in a nutshell](https://math.ucr.edu/home/baez/topos.html).
 
 
 Unification programs

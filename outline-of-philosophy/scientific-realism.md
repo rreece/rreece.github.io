@@ -319,10 +319,10 @@ The primary dichotomy of positions is between forms of scientific realism and in
 -   Instrumentalism
     -   Positivism; linguistic frameworks; principle of tolerance; verificationism
 -   Underdetermination
-    -   language dependence; Duhem-Quine thesis; the problem of translation
+    -   Language dependence; Duhem-Quine thesis; the problem of translation
 -   Scientific revolution
-    -   normal science and revolutionary science; paradigm shift - Kuhn
-    -   pessimistic meta-induction - Laudan
+    -   Normal science and revolutionary science; paradigm shift - Kuhn
+    -   Pessimistic meta-induction - Laudan
 -   Social constructivism
     -   The lore of our forefathers  - Quine
     -   Research traditions - Laudan
@@ -939,11 +939,11 @@ Various reactions to positivism.
 >   it. [^WikipediaMetaphysics]
 
 -   Quine's "Two Dogmas of Empiricism" [^Quine1951-2]
-    1.  analytic/synthetic distinction
-    2.  reductionism (verification theory of meaning)
+    1.  Analytic/synthetic distinction
+    2.  Reductionism (verification theory of meaning)
 -   Quine: pale gray lore. TODO: find quote.
 -   Duhem-Quine thesis
--   inscrutability of reference
+-   Inscrutability of reference
 -   Quine-Carnap correspondence [^Quine1990-2]
 -   Does ontology rest on a mistake? [^Yablo1998]
 -   See also the longer discussion of the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
