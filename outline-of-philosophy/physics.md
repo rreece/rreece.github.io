@@ -85,6 +85,7 @@ Lagrangian mechanics:
 -   TODO: explain
 -   Complaint about explanations of the Lagrangian:      
     Howe, A.R. (2020). [Why does the Lagrangian equal T-V?](https://sciencemeetsfiction.com/2020/07/04/why-does-the-lagrangian-equal-t-v/)
+-   Relationship to the path-intergral formulation of quantum mechanics.
 
 Pedagogy:
 

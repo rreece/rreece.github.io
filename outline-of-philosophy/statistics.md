@@ -293,7 +293,10 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 ### Curse of dimensionality
 
 -   [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality)
+    -   The volume of the space increases so fast that the available data become sparse.
 -   [Stein's paradox](https://en.wikipedia.org/wiki/Stein%27s_example)
+    -   The ordinary decision rule for estimating the mean of a multivariate Gaussian
+        distribution (with dimensions, $n \geq 3$) is inadmissible under mean squared error risk.
 -   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
 -   Probability in high dimensions [^vanHandel2016]
 -   *High-Dimensional Probability:An introduction with applications in data science* [^Vershynin2018]

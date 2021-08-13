@@ -178,7 +178,7 @@ van Handel, R. (2016). Probability in high dimensions. https://web.math.princeto
 Vapnik, V., Levin, E., & LeCun, Y. (1994). Measuring the VC-dimension of a learning machine. *Neural Computation*, 6(5), 851--876.
 Vaswani, A. et al. (2017). Attention is all you need. *Advances in Neural Information Processing Systems*, 2017, 5998--6008. https://arxiv.org/abs/1706.03762
 Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]
-Vershynin, R. (2018). *High-Dimensional Probability:An introduction with applications in data science*. Cambridge University Press.
+Vershynin, R. (2018). *High-Dimensional Probability:An introduction with applications in data science*. Cambridge University Press. https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf
 Wakefield, J. (2013). *Bayesian and Frequentist Regression Methods*. Springer.
 Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482. https://www.ams.org/journals/tran/1943-054-03/S0002-9947-1943-0012401-3/S0002-9947-1943-0012401-3.pdf
 Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.
