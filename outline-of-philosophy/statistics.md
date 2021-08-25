@@ -1188,6 +1188,7 @@ Deep learning
     -   "Review: Deep learning" [^LeCun2015]
     -   *Deep Learning* [^Goodfellow2016]
     -   Sutton, R. (2019). [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
+    -   Kaplan, J. (2019). [Notes on contemporary machine learning](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf). [^Kaplan2019]
 -   Backpropagation
     -   Rumelhart [^Rumelhart1986]
     -   Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html)
@@ -1204,6 +1205,7 @@ Deep learning
 
 [^Bengio2009]: @Bengio_2009_Learning_deep_architectures_for_AI\.
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
+[^Kaplan2019]: @Kaplan_2019_Notes_on_contemporary_machine_learning\.
 [^LeCun2015]: @LeCun_2015_Deep_learning\.
 [^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
 [^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.

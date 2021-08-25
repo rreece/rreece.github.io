@@ -25,9 +25,9 @@ Blondel, M., Martins, A.F., & Niculae, V. (2020). Learning with Fenchel-Young lo
 Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. *Science*, 347, 145--149. http://science.sciencemag.org/content/347/6218/145
 Bronstein, M.M., Bruna, J., Cohen, T., & Velickovic, P. (2021). Geometric deep learning: Grids, groups, graphs, geodesics, and gauges. https://arxiv.org/abs/2104.13478
 Brown, L.D., Cai, T.T., & DasGupta, A. (2001). Interval estimation for a binomial proportion. *Statistical Science*, 16(2), 101--133. https://projecteuclid.org/euclid.ss/1009213286
-Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. *Science*, 359, 418--424.
+Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. *Science*, 359, 418--424. https://science.sciencemag.org/content/359/6374/418
 Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. *Proceedings of the AAAI Conference on Artificial Intelligence*, 33, 1829--1836. https://arxiv.org/abs/1809.04040
-Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. *Science*, 365, 885--890.
+Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. *Science*, 365, 885--890. https://science.sciencemag.org/content/365/6456/885
 Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). Deep counterfactual regret minimization. https://arxiv.org/abs/1811.00164
 Brown, N., Bakhtin, A., Lerer, A., & Gong, Q. (2020). Combining deep reinforcement learning and search for imperfect-information games. https://arxiv.org/abs/2007.13544
 Caldeira, J. & Nord, B. (2020). Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms. *Machine Learning: Science and Technology*, 2, 015002. https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3
@@ -68,7 +68,7 @@ Feldman, G.J., & Cousins, R.D. (1998). A unified approach to the classical stati
 Fr\'{e}chet, M. (1943).  Sur l'extension de certaines \'{e}valuations statistiques au cas de petits \'{e}chantillons. *Revue de l'Institut International de Statistique*, 11, 182--205.
 Fuchs, F.B., Worrall, D.E., Fischer, V., & Welling, M. (2020). SE(3)-Transformers: 3D roto-translation equivariant attention networks. https://arxiv.org/abs/2006.10503
 Fukushima, K. & Miyake, S. (1982). Neocognitron: A new algorithm for pattern recognition tolerant of deformations and shifts in position. *Pattern Recognition*, 15, 455--469.
-Gandenberger, G. (2015). A new proof of the likelihood principle, *British Journal for the Philosophy of Science*, 66, 475--503.
+Gandenberger, G. (2015). A new proof of the likelihood principle. *British Journal for the Philosophy of Science*, 66, 475--503. https://www.journals.uchicago.edu/doi/abs/10.1093/bjps/axt039
 Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 16(7), 1--22. https://quod.lib.umich.edu/p/phimp/3521354.0016.007/--why-i-am-not-a-likelihoodist
 Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
@@ -91,6 +91,7 @@ Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosop
 Ioannidis, J.P. (2005). Why most published research findings are false. *PLOS Medicine*, 2(8), 696--701.
 James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
 Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434(2-3), 435--443. https://arxiv.org/abs/hep-ex/9902006
+Kaplan, J. et al. (2019). Notes on contemporary machine learning for physicists. https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf
 Kaplan, J. et al. (2020). Scaling laws for neural language models. https://arxiv.org/abs/2001.08361
 Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
 Korb, K.B. (2001). Machine learning as philosophy of science. In *Proceedings of the ECML-PKDD-01 Workshop on Machine Learning as Experimental Philosophy of Science*, Freiburg.
