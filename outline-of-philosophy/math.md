@@ -72,7 +72,8 @@ TODO
 
 ### History
 
--   Geometry and Descartes
+-   Ren&eacute; Descartes (1596-1650)
+    -   Geometry and coordinates
 -   Isaac Newton (1642-1726/7)
 -   Gottfried Wilhelm Leibniz (1646-1716)
 -   Leonhard Euler (1707-1783)
@@ -526,7 +527,7 @@ Johwn Stuart Mill:
 Field: Abstract platonic entities, were they to exist, could not
 interact causally with the world. [^Field1989p68]
 
--   positivism, Carnap, ESO
+-   Positivism, Carnap, ESO
 -   Field: *Science Without Numbers* [^Field2016]
 -   John Burgess [^Burgess1983]
 -   Bueno [^Bueno2013]

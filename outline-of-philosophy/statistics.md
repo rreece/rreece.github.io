@@ -527,8 +527,8 @@ TODO:
 ### Examples
 
 -   Some sample mean
--   Measuring efficiency 
 -   Bayesian lighthouse
+-   [Measuring an efficiency](#uncertainty-on-measuring-an-efficiency)
 -   Some HEP fit
 
 
@@ -543,7 +543,7 @@ Statistical classification
 -   Accuracy
 
 
-### Uncertainty of measuring an efficiency
+### Uncertainty on measuring an efficiency
 
 -   [Binomial proportion confidence interval](https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval)
 -   Normal/Gaussian/Wald interval

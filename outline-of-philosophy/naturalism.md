@@ -935,7 +935,7 @@ Click to show annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Sellars, W. (1963). "Empircism and Philosophy of Mind".
+### Sellars, W. (1963). Empircism and Philosophy of Mind.
 
 -   @Sellars_1963_Science_Perception_and_Reality
 
