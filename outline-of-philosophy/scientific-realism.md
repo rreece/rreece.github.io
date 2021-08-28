@@ -607,7 +607,7 @@ Comte on the unknowability of the composition of stars:
 
 -   Ernst Mach (1838-1916)
 -   Richard Avenarius (1843-1896)
--   empirio-criticism
+-   Empirio-criticism
 -   Popper, K.R. (1953). A note on Berkeley as precursor of Mach. [^Popper1953]
 
 [^Popper1953]: @Popper_1953_A_note_on_Berkeley_as_precursor_of_Mach\.

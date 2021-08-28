@@ -51,6 +51,7 @@ Consequentialism
 -   Bentham
 -   Mill
 -   Game theory
+-   [Von Neumann-Morgenstern utility theorem](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem)
 -   Binmore
 -   Portmore
     -   *Commonsense Consequentialism* [^Portmore2011]
@@ -625,6 +626,7 @@ Click to show links
 -   [Utilitarianism](http://en.wikipedia.org/wiki/Utilitarianism)
 -   [Veil of ignorance](https://en.wikipedia.org/wiki/Veil_of_ignorance)
 -   [Victor Kraft (1880-1975)](https://en.wikipedia.org/wiki/Victor_Kraft)
+-   [Von Neumann-Morgenstern utility theorem](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem)
 
 ### Others
 

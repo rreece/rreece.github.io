@@ -535,23 +535,27 @@ TODO:
 Statistical classification
 --------------------------------------------------------------------------------
 
--   Classification
-    -   Precision vs recall
-    -   Recall is sensitivity
-    -   Sensitivity vs specificity
-    -   Accuracy
--   Uncertainty of measuring an efficiency
-    -   [Binomial proportion confidence interval](https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval)
-    -   Normal/Gaussian/Wald interval
-        -   [Derivation of the Wald interval](https://math.stackexchange.com/questions/1448233/the-derivation-of-the-wald-interval)
-    -   Wilson score interval
-    -   Clopper-Pearson interval [^Clopper1934]
-    -   Agresti-Coull interval
-        -   [The modified Wald method for computing the confidence interval of a proportion](https://www.graphpad.com/support/faq/the-modified-wald-method-for-computing-the-confidence-interval-of-a-proportion/)
-    -   [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(statistics)) [^Hanley1983]
-    -   Review by Brown, Cai, & DasGupta [^Brown2001]
-    -   Precision vs recall for classification, again
-    -   Classification and logistic regression
+### Introduction
+
+-   Precision vs recall
+-   Recall is sensitivity
+-   Sensitivity vs specificity
+-   Accuracy
+
+
+### Uncertainty of measuring an efficiency
+
+-   [Binomial proportion confidence interval](https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval)
+-   Normal/Gaussian/Wald interval
+    -   [Derivation of the Wald interval](https://math.stackexchange.com/questions/1448233/the-derivation-of-the-wald-interval)
+-   Wilson score interval
+-   Clopper-Pearson interval [^Clopper1934]
+-   Agresti-Coull interval
+    -   [The modified Wald method for computing the confidence interval of a proportion](https://www.graphpad.com/support/faq/the-modified-wald-method-for-computing-the-confidence-interval-of-a-proportion/)
+-   [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(statistics)) [^Hanley1983]
+-   Review by Brown, Cai, & DasGupta [^Brown2001]
+-   Precision vs recall for classification, again
+-   Classification and logistic regression
 -   See also:
     -   [Logistic regression](#logistic-regression) in the section on [Classical machine learning](#classical-machine-learning).
     -   [Clustering](#clustering) in the section on [Classical machine learning](#classical-machine-learning).
@@ -559,6 +563,11 @@ Statistical classification
 [^Brown2001]: @Brown_2001_Interval_estimation_for_a_binomial_proportion\.
 [^Clopper1934]: @Clopper_1934_The_use_of_confidence_or_fiducial_limits\.
 [^Hanley1983]: @Hanley_1983_If_nothing_goes_wrong_is_everything_all_right\.
+
+
+### Examples
+
+-   TODO
 
 
 Statistical hypothesis testing
@@ -978,6 +987,7 @@ Replication crisis
     -   [At long last! The ASA President’s Task Force Statement on Statistical Significance and Replicability](https://errorstatistics.com/2021/06/20/at-long-last-the-asa-presidents-task-force-statement-on-statistical-significance-and-replicability/)
 -   Vox: [What a nerdy debate about p-values shows about science--and how to fix it](https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005)
 -   Karen Kafadar: [The Year in Review ... And More to Come](https://magazine.amstat.org/blog/2019/12/01/kk_dec2019/)
+-   [The JASA Reproducibility Guide](https://jasa-acs.github.io/repro-guide/)
 
 From "The ASA president's task force statement on statistical significance and replicability":
 
@@ -989,7 +999,7 @@ From "The ASA president's task force statement on statistical significance and r
 >   application. [^Benjamini2021]
 
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
-[^Benjamini2021]: @Benjamini_2021_The_ASA_presidents_taks_force_statement_on\, p. 1.
+[^Benjamini2021]: @Benjamini_2021_The_ASA_presidents_task_force_statement_on\, p. 1.
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
 [^Mayo2021]: @Mayo_2021_Significance_tests_Vitiated_or_vindicated\.
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
@@ -1165,6 +1175,7 @@ See also:
 -   [Topological data analysis](https://en.wikipedia.org/wiki/Topological_data_analysis)
     -   Dindin, M. (2018). [TDA To Rule Them All: ToMATo Clustering](https://towardsdatascience.com/tda-to-rule-them-all-tomato-clustering-878e03394a1).
 -   Relationship of clustering and autoencoding
+    -   Olah, C. (2014). [Neural networks, manifolds, and topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/).
     -   Batson et al. (2021). [Topological obstructions to autoencoding](https://arxiv.org/abs/2102.08380). [^Batson2021]
 -   "What are the true clusters?" [^Hennig2015]
     -   See also:
@@ -1172,7 +1183,8 @@ See also:
         -   [Constructive empiricism](scientific-realism.html#constructive-empiricism)
 -   [Clustering high-dimensional data](https://en.wikipedia.org/wiki/Clustering_high-dimensional_data)
     -   [*t*-distributed stochastic neighbor embedding (t-SNE)](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
-    -   See also: [Curse of dimensionality](#curse-of-dimensionality)
+    -   See also:
+        -   [Curse of dimensionality](#curse-of-dimensionality)
 
 [^Batson2021]: @Batson_2021_Topological_obstructions_to_autoencoding\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
@@ -1437,6 +1449,8 @@ Blogs:
 -   Reinforcement Learning (RL)
     -   [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
     -   [Bellman equation](https://en.wikipedia.org/wiki/Bellman_equation)
+    -   [Backward induction](https://en.wikipedia.org/wiki/Backward_induction)
+        -   John von Neumann & Oskar Morgenstern. (1944). *Theory of Games and Economic Behavior*.
 -   Sutton & Barto [^Sutton2018]
 -   Deep Reinforcement Learning: A Brief Survey [^Arulkumaran2017]
 -   [List by OpenAI of key RL papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)

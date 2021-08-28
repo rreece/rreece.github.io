@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Tue Aug 24, 2021" />
+  <meta name="date" content="Sat Aug 28, 2021" />
   <title>Philosophy of statistics - Ryan's Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#x2019;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -102,7 +102,12 @@
 <li><a href="statistics.html#bayesian-credibility-intervals">Bayesian credibility intervals</a></li>
 <li><a href="statistics.html#examples">Examples</a></li>
 </ol></li>
-<li><a href="statistics.html#statistical-classification">Statistical classification</a></li>
+<li><a href="statistics.html#statistical-classification">Statistical classification</a>
+<ol type="1">
+<li><a href="statistics.html#introduction">Introduction</a></li>
+<li><a href="statistics.html#uncertainty-of-measuring-an-efficiency">Uncertainty of measuring an efficiency</a></li>
+<li><a href="statistics.html#examples-1">Examples</a></li>
+</ol></li>
 <li><a href="statistics.html#statistical-hypothesis-testing">Statistical hypothesis testing</a>
 <ol type="1">
 <li><a href="statistics.html#null-hypothesis-significance-testing">Null hypothesis significance testing</a></li>
@@ -111,7 +116,7 @@
 <li><a href="statistics.html#asymptotics">Asymptotics</a></li>
 <li><a href="statistics.html#students-t-test">Student&#x2019;s <em>t</em>-test</a></li>
 <li><a href="statistics.html#frequentist-vs-bayesian-decision-theory">Frequentist vs bayesian decision theory</a></li>
-<li><a href="statistics.html#examples-1">Examples</a></li>
+<li><a href="statistics.html#examples-2">Examples</a></li>
 </ol></li>
 <li><a href="statistics.html#uncertainty-quantification">Uncertainty quantification</a>
 <ol type="1">
@@ -121,24 +126,24 @@
 </ol></li>
 <li><a href="statistics.html#exploratory-data-analysis">Exploratory data analysis</a>
 <ol type="1">
-<li><a href="statistics.html#introduction">Introduction</a></li>
+<li><a href="statistics.html#introduction-1">Introduction</a></li>
 <li><a href="statistics.html#look-elsewhere-effect">Look-elsewhere effect</a></li>
 <li><a href="statistics.html#archiving-and-data-science">Archiving and data science</a></li>
 </ol></li>
 <li><a href="statistics.html#statistics-wars">&#x201C;Statistics Wars&#x201D;</a>
 <ol type="1">
-<li><a href="statistics.html#introduction-1">Introduction</a></li>
+<li><a href="statistics.html#introduction-2">Introduction</a></li>
 <li><a href="statistics.html#likelihood-principle">Likelihood principle</a></li>
 <li><a href="statistics.html#discussion">Discussion</a></li>
 </ol></li>
 <li><a href="statistics.html#replication-crisis">Replication crisis</a>
 <ol type="1">
-<li><a href="statistics.html#introduction-2">Introduction</a></li>
+<li><a href="statistics.html#introduction-3">Introduction</a></li>
 <li><a href="statistics.html#p-value-controversy"><em>p</em>-value controversy</a></li>
 </ol></li>
 <li><a href="statistics.html#classical-machine-learning">Classical machine learning</a>
 <ol type="1">
-<li><a href="statistics.html#introduction-3">Introduction</a></li>
+<li><a href="statistics.html#introduction-4">Introduction</a></li>
 <li><a href="statistics.html#logistic-regression">Logistic regression</a></li>
 <li><a href="statistics.html#softmax-regression">Softmax regression</a></li>
 <li><a href="statistics.html#decision-trees">Decision trees</a></li>
@@ -146,7 +151,7 @@
 </ol></li>
 <li><a href="statistics.html#deep-learning">Deep learning</a>
 <ol type="1">
-<li><a href="statistics.html#introduction-4">Introduction</a></li>
+<li><a href="statistics.html#introduction-5">Introduction</a></li>
 <li><a href="statistics.html#deep-double-descent">Deep double descent</a></li>
 <li><a href="statistics.html#regularization">Regularization</a></li>
 <li><a href="statistics.html#batch-size-vs-learning-rate">Batch size vs learning rate</a></li>
@@ -167,7 +172,7 @@
 </ol></li>
 <li><a href="statistics.html#information-geometry">Information geometry</a>
 <ol type="1">
-<li><a href="statistics.html#introduction-5">Introduction</a></li>
+<li><a href="statistics.html#introduction-6">Introduction</a></li>
 <li><a href="statistics.html#geometric-understanding-of-classical-statistics">Geometric understanding of classical statistics</a></li>
 <li><a href="statistics.html#geometric-understanding-of-deep-learning">Geometric understanding of deep learning</a></li>
 </ol></li>
@@ -584,15 +589,14 @@ D_\mathrm{KL}(p, q)
 <li>Some HEP fit</li>
 </ul>
 <h2 id="statistical-classification">Statistical classification</h2>
-<ul>
-<li>Classification
+<h3 id="introduction">Introduction</h3>
 <ul>
 <li>Precision vs recall</li>
 <li>Recall is sensitivity</li>
 <li>Sensitivity vs specificity</li>
 <li>Accuracy</li>
-</ul></li>
-<li>Uncertainty of measuring an efficiency
+</ul>
+<h3 id="uncertainty-of-measuring-an-efficiency">Uncertainty of measuring an efficiency</h3>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Binomial_proportion_confidence_interval">Binomial proportion confidence interval</a></li>
 <li>Normal/Gaussian/Wald interval
@@ -609,12 +613,15 @@ D_\mathrm{KL}(p, q)
 <li>Review by Brown, Cai, &amp; DasGupta<a href="#fn41" class="footnote-ref" id="fnref41" role="doc-noteref"><sup>41</sup></a></li>
 <li>Precision vs recall for classification, again</li>
 <li>Classification and logistic regression</li>
-</ul></li>
 <li>See also:
 <ul>
 <li><a href="#logistic-regression">Logistic regression</a> in the section on <a href="#classical-machine-learning">Classical machine learning</a>.</li>
 <li><a href="#clustering">Clustering</a> in the section on <a href="#classical-machine-learning">Classical machine learning</a>.</li>
 </ul></li>
+</ul>
+<h3 id="examples-1">Examples</h3>
+<ul>
+<li>TODO</li>
 </ul>
 <h2 id="statistical-hypothesis-testing">Statistical hypothesis testing</h2>
 <h3 id="null-hypothesis-significance-testing">Null hypothesis significance testing</h3>
@@ -706,7 +713,7 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Frequentist vs bayesian decision theory<a href="#fn56" class="footnote-ref" id="fnref56" role="doc-noteref"><sup>56</sup></a></li>
 </ul>
-<h3 id="examples-1">Examples</h3>
+<h3 id="examples-2">Examples</h3>
 <ul>
 <li>Difference of two means: <span class="math inline">\(t\)</span>-test</li>
 <li>A/B-testing</li>
@@ -752,7 +759,7 @@ D_\mathrm{KL}(p, q)
 <li>BICEP2 claimed evidence of B-modes in the CMB as evidence of cosmic inflation without accounting for cosmic dust.</li>
 </ul>
 <h2 id="exploratory-data-analysis">Exploratory data analysis</h2>
-<h3 id="introduction">Introduction</h3>
+<h3 id="introduction-1">Introduction</h3>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/John_Tukey">Tukey, John (1915-2000)</a>
 <ul>
@@ -782,7 +789,7 @@ D_\mathrm{KL}(p, q)
 <li><a href="https://plato.stanford.edu/entries/science-big-data/">Scientific research and big data</a></li>
 </ul>
 <h2 id="statistics-wars">&#x201C;Statistics Wars&#x201D;</h2>
-<h3 id="introduction-1">Introduction</h3>
+<h3 id="introduction-2">Introduction</h3>
 <ul>
 <li>Kruschke</li>
 <li>Carnap
@@ -921,7 +928,7 @@ D_\mathrm{KL}(p, q)
 <img src="img/gandenberger-thesis-venn-diagram.png" id="fig:gandenberger-thesis-venn-diagram" alt="Figure 7: The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference (gandenberger.org/research/, 2015)." /><figcaption aria-hidden="true">Figure 7: The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference (<a href="http://gandenberger.org/research/">gandenberger.org/research/</a>, 2015).</figcaption>
 </figure>
 <h2 id="replication-crisis">Replication crisis</h2>
-<h3 id="introduction-2">Introduction</h3>
+<h3 id="introduction-3">Introduction</h3>
 <ul>
 <li>&#x201C;Why most published research findings are false&#x201D;<a href="#fn92" class="footnote-ref" id="fnref92" role="doc-noteref"><sup>92</sup></a></li>
 </ul>
@@ -949,13 +956,14 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 <li>Vox: <a href="https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005">What a nerdy debate about p-values shows about science&#x2013;and how to fix it</a></li>
 <li>Karen Kafadar: <a href="https://magazine.amstat.org/blog/2019/12/01/kk_dec2019/">The Year in Review &#x2026; And More to Come</a></li>
+<li><a href="https://jasa-acs.github.io/repro-guide/">The JASA Reproducibility Guide</a></li>
 </ul>
 <p>From &#x201C;The ASA president&#x2019;s task force statement on statistical significance and replicability&#x201D;:</p>
 <blockquote>
 <p><em>P</em>-values are valid statistical measures that provide convenient conventions for communicating the uncertainty inherent in quantitative results. Indeed, <em>P</em>-values and significance tests are among the most studied and best understood statistical procedures in the statistics literature. They are important tools that have advanced science through their proper application.<a href="#fn97" class="footnote-ref" id="fnref97" role="doc-noteref"><sup>97</sup></a></p>
 </blockquote>
 <h2 id="classical-machine-learning">Classical machine learning</h2>
-<h3 id="introduction-3">Introduction</h3>
+<h3 id="introduction-4">Introduction</h3>
 <ul>
 <li>classification vs regression</li>
 <li>supervised and unsupervised learning
@@ -1060,6 +1068,7 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 <li>Relationship of clustering and autoencoding
 <ul>
+<li>Olah, C. (2014). <a href="https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/">Neural networks, manifolds, and topology</a>.</li>
 <li>Batson et al.&#xA0;(2021). <a href="https://arxiv.org/abs/2102.08380">Topological obstructions to autoencoding</a>.<a href="#fn107" class="footnote-ref" id="fnref107" role="doc-noteref"><sup>107</sup></a></li>
 </ul></li>
 <li>&#x201C;What are the true clusters?&#x201D;<a href="#fn108" class="footnote-ref" id="fnref108" role="doc-noteref"><sup>108</sup></a>
@@ -1073,11 +1082,14 @@ D_\mathrm{KL}(p, q)
 <li><a href="https://en.wikipedia.org/wiki/Clustering_high-dimensional_data">Clustering high-dimensional data</a>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding"><em>t</em>-distributed stochastic neighbor embedding (t-SNE)</a></li>
-<li>See also: <a href="#curse-of-dimensionality">Curse of dimensionality</a></li>
+<li>See also:
+<ul>
+<li><a href="#curse-of-dimensionality">Curse of dimensionality</a></li>
+</ul></li>
 </ul></li>
 </ul>
 <h2 id="deep-learning">Deep learning</h2>
-<h3 id="introduction-4">Introduction</h3>
+<h3 id="introduction-5">Introduction</h3>
 <ul>
 <li>Conceptual reviews of deep learning
 <ul>
@@ -1297,6 +1309,10 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Dynamic_programming">Dynamic programming</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Bellman_equation">Bellman equation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Backward_induction">Backward induction</a>
+<ul>
+<li>John von Neumann &amp; Oskar Morgenstern. (1944). <em>Theory of Games and Economic Behavior</em>.</li>
+</ul></li>
 </ul></li>
 <li>Sutton &amp; Barto<a href="#fn144" class="footnote-ref" id="fnref144" role="doc-noteref"><sup>144</sup></a></li>
 <li>Deep Reinforcement Learning: A Brief Survey<a href="#fn145" class="footnote-ref" id="fnref145" role="doc-noteref"><sup>145</sup></a></li>
@@ -1462,7 +1478,7 @@ D_\mathrm{KL}(p, q)
 <li><a href="https://centre.santafe.edu/thermocomp/Santa_Fe_Institute_Collaboration_Platform:Thermodynamics_of_Computation_Wiki">Sante Fe Institute: Thermodynamics of Computation</a></li>
 </ul>
 <h2 id="information-geometry">Information geometry</h2>
-<h3 id="introduction-5">Introduction</h3>
+<h3 id="introduction-6">Introduction</h3>
 <ul>
 <li>&#x201C;A gentle introduction to information geometry&#x201D;<a href="#fn177" class="footnote-ref" id="fnref177" role="doc-noteref"><sup>177</sup></a></li>
 <li>&#x201C;An elementary introduction to information geometry&#x201D;<a href="#fn178" class="footnote-ref" id="fnref178" role="doc-noteref"><sup>178</sup></a></li>
@@ -1816,8 +1832,8 @@ Bengio, Y. (2009). <span class="nocase">Learning deep architectures for AI.</spa
 <div id="ref-Benjamin_2017_Redefine_statistical_significance" class="csl-entry" role="doc-biblioentry">
 Benjamin, D.J. et al. (2017). <span class="nocase">Redefine statistical significance.</span> <em>PsyArXiv</em>. July 22, 2017. <a href="https://psyarxiv.com/mky9j/">https://psyarxiv.com/mky9j/</a>
 </div>
-<div id="ref-Benjamini_2021_The_ASA_presidents_taks_force_statement_on" class="csl-entry" role="doc-biblioentry">
-Benjamini, Y. et al. (2021). <span class="nocase">The ASA president&#x2019;s taks force statement on statistical significance and replicability.</span> <em>Annals of Applied Statistics</em>, <em><span>16</span></em>, 1&#x2013;2. Forthcoming. <a href="https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/">https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/</a>
+<div id="ref-Benjamini_2021_The_ASA_presidents_task_force_statement_on" class="csl-entry" role="doc-biblioentry">
+Benjamini, Y. et al. (2021). <span class="nocase">The ASA president&#x2019;s task force statement on statistical significance and replicability.</span> <em>Annals of Applied Statistics</em>, <em><span>16</span></em>, 1&#x2013;2. <a href="https://magazine.amstat.org/blog/2021/08/01/task-force-statement-p-value/">https://magazine.amstat.org/blog/2021/08/01/task-force-statement-p-value/</a>
 </div>
 <div id="ref-Bensusan_2000_Is_machine_learning_experimental_philosophy" class="csl-entry" role="doc-biblioentry">
 Bensusan, H. (2000). <span class="nocase">Is machine learning experimental philosophy of science?</span> In <em><span class="nocase">ECAI2000 Workshop notes on scientific Reasoning in Artificial Intelligence and the Philosophy of Science</span></em> (pp. 9&#x2013;14).
@@ -2408,7 +2424,7 @@ Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). <span class
 <li id="fn94" role="doc-endnote"><p><span class="citation" data-cites="Benjamin_2017_Redefine_statistical_significance">Benjamin, D.J. et al. (2017)</span>.<a href="#fnref94" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn95" role="doc-endnote"><p><span class="citation" data-cites="Fisher_1935_The_Design_of_Experiments">Fisher (1935)</span>, p.&#xA0;13&#x2013;14.<a href="#fnref95" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn96" role="doc-endnote"><p><span class="citation" data-cites="Mayo_2021_Significance_tests_Vitiated_or_vindicated">Mayo (2021)</span>.<a href="#fnref96" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn97" role="doc-endnote"><p><span class="citation" data-cites="Benjamini_2021_The_ASA_presidents_taks_force_statement_on">Benjamini, Y. et al. (2021)</span>, p.&#xA0;1.<a href="#fnref97" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn97" role="doc-endnote"><p><span class="citation" data-cites="Benjamini_2021_The_ASA_presidents_task_force_statement_on">Benjamini, Y. et al. (2021)</span>, p.&#xA0;1.<a href="#fnref97" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn98" role="doc-endnote"><p><span class="citation" data-cites="Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining">Hastie, Tibshirani, &amp; Friedman (2009)</span>.<a href="#fnref98" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn99" role="doc-endnote"><p><span class="citation" data-cites="MacKay_2003_Information_Theory_Inference_and_Learning">MacKay (2003)</span>.<a href="#fnref99" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn100" role="doc-endnote"><p><span class="citation" data-cites="Vapnik_1994_Measuring_the_VC_dimension_of_a_learning_machine">Vapnik, Levin, &amp; LeCun (1994)</span>.<a href="#fnref100" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
@@ -2535,7 +2551,7 @@ Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). <span class
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Tue Aug 24, 2021</p>
+    <p>Sat Aug 28, 2021</p>
   </div>
   <div class="license">
     <p>&#xA9; 2014-2021 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>
