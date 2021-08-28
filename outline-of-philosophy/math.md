@@ -503,7 +503,7 @@ Antisthenes:
 >   A horse I can see, but horsehood I cannot see.
 
 -   Plato: "Third Man Argument" in *Parmenides*
--   medieval nominalism
+-   Medieval nominalism
     -   [Medieval Problem of Universals](https://plato.stanford.edu/entries/universals-medieval/)
     -   [Roscellinus (c. 1050 - c. 1125)](https://en.wikipedia.org/wiki/Roscellinus)
     -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
