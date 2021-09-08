@@ -849,6 +849,14 @@ People:
 -   Daniel C. Dennett (b. 1942)
 -   Robert Brandom (b. 1950)
 
+[Max Hodak](https://maxhodak.com/nonfiction/2021/09/03/science.html):
+
+>   Consider the following interpretation of the dichotomy between *science* and
+>   *engineering*: if you can directly see and manipulate the things you're
+>   dealing with, you're doing engineering, and if not---you need to ask
+>   clever indirect questions to get at what you’re really interested
+>   in---you're doing science.
+
 
 Postmodernism
 --------------------------------------------------------------------------------
@@ -1064,6 +1072,7 @@ Friedman:
 -   Talk by Sankey: [Scepticism, Relativism and Naturalistic Particularism](https://www.youtube.com/watch?v=QyEFaJf_Dyo)
     -   Chisholm's particularism: start with what is uncontroversially known.
         Justify epistemic standards second. It's ok to question beg.
+-   Claudia Stancati. (2017). [Umberto Eco: The philosopher of signs](https://booksandideas.net/Umberto-Eco.html).
 
 Popper:
 

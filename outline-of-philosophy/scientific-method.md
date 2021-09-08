@@ -789,7 +789,7 @@ Arthur Conan Doyle:
 [^Bhaskar2008pX]: @Bhaskar_2008_A_Realist_Theory_of_Science\.
 [^Douven2011]: @Douven_2011_Abduction\.
 [^Doyle1890]: @Doyle_1890_The_Sign_of_the_Four\, ch. 6.
-[^Schurz2019p3]: @Schurz_2019_Humes_Problem_Solved_The_opptimality_of_meta\, p. 3.
+[^Schurz2019p3]: @Schurz_2019_Humes_Problem_Solved_The_optimality_of_meta\, p. 3.
 [^WikipediaAbductiveReasoning1]: [en.wikipedia.org/wiki/Abductive_reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning)
 [^WikipediaAbductiveReasoning2]: Ibid.
 
@@ -825,9 +825,9 @@ Arthur Conan Doyle:
 ### Meta-induction as a solution to the problem of induction
 
 -   Earnshaw, E. (2017). [How I solved Hume's problem and why nobody will believe me](https://philosophynow.org/issues/119/How_I_Solved_Humes_Problem_and_Why_Nobody_Will_Believe_Me). *Philosophy Now*.
--   Schurz, G. (2019). *Hume's Problem Solved: The opptimality of meta-induction*. [^Schurz2019]
+-   Schurz, G. (2019). *Hume's Problem Solved: The optimality of meta-induction*. [^Schurz2019]
 
-[^Schurz2019]: @Schurz_2019_Humes_Problem_Solved_The_opptimality_of_meta\.
+[^Schurz2019]: @Schurz_2019_Humes_Problem_Solved_The_optimality_of_meta\.
 
 
 Is there a universal scientific method?
@@ -976,7 +976,7 @@ Sagan:
 [^Nola2007p5]: @Nola_2007_Theories_of_Scientific_Method\, p. 5.
 [^Nola2007p6]: @Nola_2007_Theories_of_Scientific_Method\, p. 6.
 [^Nola2007pXXX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
-[^Schurz2019pX]: @Schurz_2019_Humes_Problem_Solved_The_opptimality_of_meta\, p. X.
+[^Schurz2019pX]: @Schurz_2019_Humes_Problem_Solved_The_optimality_of_meta\, p. X.
 
 
 Models in science

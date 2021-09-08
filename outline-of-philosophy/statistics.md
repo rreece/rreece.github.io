@@ -981,6 +981,8 @@ Replication crisis
 -   Relationship to the LEE
 -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
+-   Wasserman
+    -   [The Higgs boson and the p-value police](https://normaldeviate.wordpress.com/2012/07/11/the-higgs-boson-and-the-p-value-police/)
 -   Mayo
     -   ["Les stats, c'est moi: We take that step here!"](https://errorstatistics.com/2019/12/13/les-stats-cest-moi-we-take-that-step-here-adopt-our-fav-word-or-phil-stat/)
     -   "Significance tests: Vitiated or vindicated by the replication crisis in psychology?" [^Mayo2021]
@@ -1379,6 +1381,8 @@ Blogs:
 -   ResNet [^He2015]
 -   MobileNet [^Howard2017]
 -   EfficientNet [^Tan2019]
+-   Object detection
+    -   neptune.ai. (2021). [Object detection algorithms and libraries](https://neptune.ai/blog/object-detection-algorithms-and-libraries).
 
 [^Ciresan2012]: @Ciresan_2012_Multi_column_deep_neural_network_for_traffic_sign\.
 [^Fukushima1982]: @Fukushima_1982_Neocognitron_A_new_algorithm_for_pattern\.
