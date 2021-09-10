@@ -53,6 +53,7 @@ Cranmer, K., Brehmer, J., & Louppe, G. (2019). The frontier of simulation-based 
 Cranmer, K., Shibata, A., Verkerke, W., Moneta, L., & Lewis, G. (2012). HistFactory: A tool for creating statistical models for use with RooFit and RooStats. http://inspirehep.net/record/1236448/ [Technical Report: CERN-OPEN-2012-016]
 Cranmer, M. et al. (2020). Discovering symbolic models from deep learning with inductive biases. https://arxiv.org/abs/2006.11287
 D'Agnolo, R.T. & Wulzer, A. (2019). Learning New Physics from a Machine. *Physical Review D*, 99, 015014. https://arxiv.org/abs/1806.02350
+Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning. https://arxiv.org/abs/2109.02355
 Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. https://arxiv.org/abs/1810.04805
 Dewey, J. (1938). *Logic: The Theory of Inquiry*. New York: Henry Holt and Co.
 Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.

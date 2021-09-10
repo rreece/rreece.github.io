@@ -1234,8 +1234,10 @@ Deep learning
 -   "Deep double descent: Where bigger models and more data hurt" [^Nakkiran2019]
 -   ["Deep Double Descent"](https://openai.com/blog/deep-double-descent/).  *OpenAI Blog*.
 -   Hubinger, E. (2019). [Understanding "Deep Double Descent"](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent). *LessWrong*.
+-   Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). [A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning](https://arxiv.org/abs/2109.02355). [^Dar2021]
 
 [^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
+[^Dar2021]: @Dar_2021_A_farewell_to_the_bias_variance_tradeoff\.
 [^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
 
 
@@ -1382,7 +1384,7 @@ Blogs:
 -   MobileNet [^Howard2017]
 -   EfficientNet [^Tan2019]
 -   Object detection
-    -   neptune.ai. (2021). [Object detection algorithms and libraries](https://neptune.ai/blog/object-detection-algorithms-and-libraries).
+    -   Neptune.ai. (2021). [Object detection algorithms and libraries](https://neptune.ai/blog/object-detection-algorithms-and-libraries).
 
 [^Ciresan2012]: @Ciresan_2012_Multi_column_deep_neural_network_for_traffic_sign\.
 [^Fukushima1982]: @Fukushima_1982_Neocognitron_A_new_algorithm_for_pattern\.
