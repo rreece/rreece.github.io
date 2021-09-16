@@ -418,6 +418,7 @@ magnified the discussion, when he claims that
 -   Boyd
 -   [Discovery of Neptune](https://en.wikipedia.org/wiki/Discovery_of_Neptune)
 -   Discovery of Higgs boson
+-   [Reliabilist epistemology](https://plato.stanford.edu/entries/reliabilism/)
 
 [^Putnam1975p73]: @Putnam_1975_Mathematics_Matter_and_Method\, p. 73.
 
@@ -741,14 +742,23 @@ Reichenbach on probability:
 -   TODO: Positivism affects the structure of education and law
 -   TODO: Connection to the projects of Dewey and pragmatism
 
-Some Carnap works:
+Carnap on ontology:
 
 -   *The Logical Syntax of Language* (1937) [^Carnap1937LSL]
     -   Fowler: "LSL in a nutshell" [^Fowler2010]
     -   Leitgeb & Carus: "talk of meaning should in any case be eschewed in favor of talk of syntax" [^Leitgeb2020G]
 -   "Empiricists, semantics, and ontology" [^Carnap1950]
+    -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
+    -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
+
+Some more Carnap works:
+
 -   "Logical foundations of science" [^Carnap1955]
--   *The Philosophy of Rudolf Carnap* AKA the "Schlipp volume" [^Schlipp1963]
+
+Discussion:
+
+-   *The Philosophy of Rudolf Carnap* AKA the "Schilpp volume" [^Schilpp1963]
+    -   Paul Arthur Schilpp (1897-1993)
 -   *The Cambridge Companion to Carnap* [^Friedman2007]
 -   Leitgeb, H. & Carus, A. (2020). [Rudolf Carnap](https://plato.stanford.edu/entries/carnap/index.html). *SEP*. [^Leitgeb2020]
 
@@ -812,12 +822,14 @@ with strong contrasts to positivism that were developing around it:
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 [^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
 [^Ladyman2007pX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO.
+[^Lavers2004]: @Lavers_2004_Carnap_semantics_and_ontology\.
+[^Lavers2015]: @Lavers_2015_Carnap_Quine_quantification_and_ontology\.
 [^Leitgeb2020]: @Leitgeb_2020_Rudolf_Carnap\.
 [^Leitgeb2020G]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement G: Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html).
 [^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 [^Quine1990-3]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\, p. TODO.
-[^Schlipp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
+[^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 
 
 Pragmatism
@@ -887,7 +899,8 @@ People:
     -   Boghossian, P. (2006). *Fear of Knowledge*.
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011-1]
     -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017-1]
-    -   See also: [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism)
+-   See also:
+    -   [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism)
         in the [Outline on naturalism](naturalism.html).
 
 Boghossian:
@@ -956,8 +969,12 @@ Various reactions to positivism.
 -   Does ontology rest on a mistake? [^Yablo1998]
 -   See also the longer discussion of the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
     in the [Outline on the scientific method](scientific-method.html).
+-   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
+-   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986]
 
 [^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
+[^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
+[^Quine1986]: @Quine_1986_The_Philosophy_of_WVQuine\.
 [^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
 [^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
 [^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
@@ -1726,6 +1743,7 @@ Click to show links
 -   [Propositions](https://plato.stanford.edu/entries/propositions/)
 -   [Quine, W.V. (1908-2000)](http://plato.stanford.edu/entries/quine/)
 -   [Ramsey, Frank (1903-1930)](https://plato.stanford.edu/entries/ramsey/)
+-   [Reliabilist Epistemology](https://plato.stanford.edu/entries/reliabilism/)
 -   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Realism](http://plato.stanford.edu/entries/realism/)
 -   [Rorty, Richard (1931-2007)](http://plato.stanford.edu/entries/rorty/)

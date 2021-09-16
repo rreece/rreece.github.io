@@ -79,8 +79,9 @@ Consequentialism
 -   The Repugnant Conclusion
     -   Parfit, D. (1984). *Reasons and Pearson*. [^Parfit1984]
 -   The experience machine
-    -   Nozick, R. (1974). *Anarchy, State, and Utopia*.
+    -   Nozick, R. (1974). *Anarchy, State, and Utopia*. [^Nozick2013]
 
+[^Nozick2013]: @Nozick_2013_Anarchy_State_and_Utopia\.
 [^Parfit1984]: @Parfit_1984_Reasons_and_Pearson\.
 
 
@@ -97,7 +98,7 @@ Moral antirealism
 -   Nihilism
     -   Friedrich Nietzsche
     -   J.L. Mackie
-        -   *Ethics: Inventing Right and Wrong* (1977)
+        -   *Ethics: Inventing Right and Wrong* (1977) [^Mackie2007]
             -   Argument from queerness
 -   Postmodernism
 
@@ -117,6 +118,7 @@ Hume:
 
 [^Hume2007p120morals]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
     Section XII, p. 120.
+[^Mackie2007]: @Mackie_2007_Ethics_Inventing_Right_and_Wrong\.
 [^RepublicI338c]: Plato, *Republic I* 338c, @Cooper_1997_Plato_Complete_works\, p. 983.
 
 

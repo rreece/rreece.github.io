@@ -19,6 +19,8 @@ Hennig, C. (2015). What are the true clusters? *Pattern Recognition Letters*, 64
 Khanna, P. (2018). Positivism and realism. In Liamputtong, P. (Ed.) *Handbook of Research Methods in Health Social Sciences*. Springer.
 Korzybski, A. (1933). *Science and Sanity*. New York: The Science Press Printing Co.
 Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalised*. Oxford University Press.
+Lavers, G. (2004). Carnap, semantics and ontology. *Erkenntnis*, 60, 295--316.
+Lavers, G. (2015). Carnap, Quine, quantification and ontology. In *Quantifiers, Quantifiers, and Quantifiers: Themes in logic, metaphysics, and language* (pp. 271--299). Springer.
 Lewis, D. (1986). *On the Plurality of Worlds*. Oxford: Blackwell.
 Loewer, B. (2019). Humean laws and explanation. *Principia: an international journal of epistemology*, 23, 373--385.
 Newton, I. (1999). *The Principia: Mathematical Principles of Natural Philosophy* (I.B. Cohen and A. Whitman, Trans.). University of California Press. [(Originally published in 1687)]
@@ -27,6 +29,8 @@ Popper, K.R. (1953). A note on Berkeley as precursor of Mach. *The British Journ
 Popper, K.R. (1963). *Conjectures and Refutations: The Growth of Scientific Knowledge*. Routledge.
 Putnam, H. (1975). *Mathematics, Matter, and Method*. Cambridge University Press.
 Quine, W.V.O. (1948). On what there is. *Review of Metaphysics*, 21--38.
+Quine, W.V.O. (1963). On simple theories of a complex world. *Synthese*, 15, 103--106.
+Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. Open Court.
 Redhead, M. (1999). Quantum field theory and the philosopher. In Cao, T.Y. (Ed.) *Conceptual Foundations of Quantum Field Theory* (pp. 34--40). Cambridge University Press.
 Redhead, M. (2001). The intelligibility of the universe. *Royal Institute of Philosophy Supplements*, 48, 73--90.
 Reichenbach, H. (1951). The rise of scientific philosophy. University of California Press.

@@ -1199,20 +1199,21 @@ Deep learning
 
 -   Conceptual reviews of deep learning
     -   Lower to higher level representations [^Bengio2009]
-    -   "Review: Deep learning" [^LeCun2015]
+    -   LeCun, Y., Bengio, Y., & Hinton, G. (2015). Review: Deep learning. [^LeCun2015]
     -   *Deep Learning* [^Goodfellow2016]
     -   Sutton, R. (2019). [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
     -   Kaplan, J. (2019). [Notes on contemporary machine learning](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf). [^Kaplan2019]
 -   Backpropagation
     -   Rumelhart [^Rumelhart1986]
-    -   Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html)
-    -   Schmidhuber: [Who Invented Backpropagation?](http://people.idsia.ch/~juergen/who-invented-backpropagation.html)
+    -   Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html).
+    -   Schmidhuber: [Who Invented Backpropagation?](http://people.idsia.ch/~juergen/who-invented-backpropagation.html).
+    -   Scmidhuber: [The most cited neural networks all build on work done in my labs](https://people.idsia.ch/~juergen/most-cited-neural-nets.html).
 -   Pratical guides
     -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
     -   Hao, L. et al. (2017). [Visualizing the loss landscape of neural nets](https://arxiv.org/abs/1712.09913).
-    -   "Deep learning: A guide for practitioners in the physical sciences" [^Spears2018]
+    -   Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. [^Spears2018]
 -   Others
-    -   "The explanation game: A formal framework for interpretable machine learning" [^Watson2019]
+    -   Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. [^Watson2019]
     -   [AIMyths.com](https://www.aimyths.org/)
 
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
@@ -1453,16 +1454,26 @@ Blogs:
 ### Reinforcement learning
 
 -   Reinforcement Learning (RL)
-    -   [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
-    -   [Bellman equation](https://en.wikipedia.org/wiki/Bellman_equation)
-    -   [Backward induction](https://en.wikipedia.org/wiki/Backward_induction)
-        -   John von Neumann & Oskar Morgenstern. (1944). *Theory of Games and Economic Behavior*.
+-   [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+-   [Bellman equation](https://en.wikipedia.org/wiki/Bellman_equation)
+-   [Backward induction](https://en.wikipedia.org/wiki/Backward_induction)
+    -   John von Neumann & Oskar Morgenstern. (1944). *Theory of Games and Economic Behavior*.
+
+Pedagogy:
+
 -   Sutton & Barto [^Sutton2018]
 -   Deep Reinforcement Learning: A Brief Survey [^Arulkumaran2017]
--   [List by OpenAI of key RL papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
--   [List of game AI codes by DATA Lab](https://github.com/datamllab/awesome-game-ai)
+
+Tutorials:
+
 -   [RL course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB&ab_channel=DeepMind)
 -   [RL course by Emma Brunskill](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u&ab_channel=stanfordonline)
+-   [DeepMind Reinforcement Learning Lecture Series 2021](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
+
+More:
+
+-   [List by OpenAI of key RL papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+-   [List of game AI codes by DATA Lab](https://github.com/datamllab/awesome-game-ai)
 
 [^Arulkumaran2017]: @Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey\.
 [^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
@@ -1716,6 +1727,10 @@ Automation
 -   Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). [Physics informed deep learning (Part I)](https://arxiv.org/abs/1711.10561) and [(Part II)](https://arxiv.org/abs/1711.10566). [^Raissi2017IandII]
 -   Cranmer, K., Brehmer, J., & Louppe, G. (2019). [The frontier of simulation-based inference](https://arxiv.org/abs/1911.01429). [^Cranmer2019]
 -   Howard, J.N. et al. (2021). [Foundations of a fast, data-driven, machine-learned simulator](https://arxiv.org/abs/2101.08944). [^Howard2021]
+
+Lectures:
+
+-   Paul Hand. (2020). [Invertible neural networks and inverse problems](https://www.youtube.com/watch?v=IpbeIwSr7r0).
 
 [^Cranmer2019]: @Cranmer_2019_The_frontier_of_simulation_based_inference\.
 [^Howard2021]: @Howard_2021_Foundations_of_a_fast_data_driven_machine\.

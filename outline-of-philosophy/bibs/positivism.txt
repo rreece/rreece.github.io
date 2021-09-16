@@ -6,7 +6,7 @@ Carnap, R. (1936). Testability and meaning. *Philosophy of Science*, 3(4), 419--
 Carnap, R. (1937). Testability and meaning--continued. *Philosophy of Science*, 4(1), 1--40.
 Carnap, R. (1937). *Logical Syntax of Language*. Kegan Paul, Trench, Trubner & Co.
 Carnap, R. (2003). *The Logical Structure of the World* (R.A. George, Trans.). Chicago: Open Court. [(Originally published in 1928 as \emph{Der logische Aufbau der Welt})]
-Carnap, R. & Schilpp, P. A. (1963). *The Philosophy of Rudolf Carnap*. Cambridge University Press. http://fitelson.org/confirmation/carnap_schilpp_volume.pdf
+Carnap, R. & Schilpp, P.A. (1963). *The Philosophy of Rudolf Carnap*. Open Court. http://fitelson.org/confirmation/carnap_schilpp_volume.pdf
 Creathe, R. (2011). Logical empiricism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/logical-empiricism/
 Fowler, S. (2010). LSL in a nutshell. https://philarchive.org/archive/FOWLIA
 Friedman, M. (1999). *Reconsidering Logical Positivism*. Cambridge University Press.

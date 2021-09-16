@@ -287,38 +287,40 @@ Weinberg:
 
 ### Modern physics
 
--   [Mach, Ernst (1838-1916)](https://en.wikipedia.org/wiki/Ernst_Mach)
--   [Lorentz, Hendrik (1853-1928)](https://en.wikipedia.org/wiki/Hendrik_Lorentz)
--   [Poincar&eacute;, Henri (1854-1912)](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9)
--   [Planck, Max (1858-1947)](https://en.wikipedia.org/wiki/Max_Planck)
--   [Hilbert, David (1862-1943)](https://en.wikipedia.org/wiki/David_Hilbert)
--   [Curie, Marie (1867-1934)](https://en.wikipedia.org/wiki/Marie_Curie)
--   [Rutherford, Ernest (1871-1937)](https://en.wikipedia.org/wiki/Ernest_Rutherford)
--   [Einstein, Albert (1879-1955)](https://en.wikipedia.org/wiki/Albert_Einstein)
--   [Born, Max (1882-1970)](https://en.wikipedia.org/wiki/Max_Born)
--   [Bohr, Niels (1885-1962)](https://en.wikipedia.org/wiki/Niels_Bohr)
--   [Schr&ouml;dinger, Edwin (1887-1961)](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger)
--   [de Broglie, Louis (1892-1987)](https://en.wikipedia.org/wiki/Louis_de_Broglie)
--   [Pauli, Wolfgang (1900-1958)](https://en.wikipedia.org/wiki/Wolfgang_Pauli)
--   [Heisenberg, Werner (1901-1976)](https://en.wikipedia.org/wiki/Werner_Heisenberg)
--   [Jordan, Pascual (1902-1980)](https://en.wikipedia.org/wiki/Pascual_Jordan)
--   [Dirac, Paul (1902-1984)](https://en.wikipedia.org/wiki/Paul_Dirac)
--   [von Neumann, John (1903-1957)](https://en.wikipedia.org/wiki/John_von_Neumann)
+-   [Ernst Mach](https://en.wikipedia.org/wiki/Ernst_Mach) (1838-1916)
+-   [Hendrik Lorentz](https://en.wikipedia.org/wiki/Hendrik_Lorentz) (1853-1928)
+-   [Henri Poincar&eacute;](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9) (1854-1912)
+-   [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) (1858-1947)
+-   [David Hilbert](https://en.wikipedia.org/wiki/David_Hilbert) (1862-1943)
+-   [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie) (1867-1934)
+-   [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) (1871-1937)
+-   [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (1879-1955)
+-   [Max Born](https://en.wikipedia.org/wiki/Max_Born) (1882-1970)
+-   [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962)
+-   [Edwin Schr&ouml;dinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger) (1887-1961)
+-   [Louis de Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) (1892-1987)
+-   [Wolfgang Pauli](https://en.wikipedia.org/wiki/Wolfgang_Pauli) (1900-1958)
+-   [Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg) (1901-1976)
+-   [Pascual Jordan](https://en.wikipedia.org/wiki/Pascual_Jordan) (1902-1980)
+-   [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac) (1902-1984)
+-   [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) (1903-1957)
 
 
 ### Modern statistics
 
--   [Peirce, Charles Sanders (1839-1914)](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce)
--   [Pearson, Karl (1857-1936)](https://en.wikipedia.org/wiki/Karl_Pearson)
--   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)
--   [Jeffreys, Harold (1891-1989)](https://en.wikipedia.org/wiki/Harold_Jeffreys)
--   [Neyman, Jerzy (1894-1981)](https://en.wikipedia.org/wiki/Jerzy_Neyman)
--   [Pearson, Egon (1895-1980)](https://en.wikipedia.org/wiki/Egon_Pearson)
--   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+-   [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) (1839-1914)
+-   [Karl Pearson](https://en.wikipedia.org/wiki/Karl_Pearson) (1857-1936)
+-   [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) (1890-1962)
+-   [Harold Jeffreys](https://en.wikipedia.org/wiki/Harold_Jeffreys) (1891-1989)
+-   [Jerzy Neyman](https://en.wikipedia.org/wiki/Jerzy_Neyman) (1894-1981)
+-   [Egon Pearson](https://en.wikipedia.org/wiki/Egon_Pearson) (1895-1980)
+-   [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) (1915-2000)
 
 
 ### Computer science
 
+-   [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) (1791-1871)
+-   [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) (1815-1852)
 -   TODO
 
 </div> <!-- end history_of_science -->

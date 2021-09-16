@@ -485,6 +485,7 @@ Platonism
 -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
 -   Carroll, S. (2021). [Mindscape 127: Justin Clarke-Doane on Mathematics, Morality, Objectivity, and Reality](https://www.youtube.com/watch?v=3tvfq8ehHOk).
 -   [Proofs without words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
+-   [Binomial theorem visualisation](https://en.wikipedia.org/wiki/File:Binomial_theorem_visualisation.svg)
 
 ![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
 

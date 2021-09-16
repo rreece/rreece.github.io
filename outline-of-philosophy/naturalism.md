@@ -147,8 +147,10 @@ Also:
 -   Methodological vs ontological naturalism
 -   Jenkins [^Jenkins2016]
 -   Sean Carroll: "There is *one* (natural) world."
+-   Prasetya, Y. (2021). Methodological naturalism and scientific success. [^Prasetya2021]
 
 [^Jenkins2016]: @Jenkins_2016_Epistemological_naturalisms\.
+[^Prasetya2021]: @Prasetya_2021_Methodological_naturalism_and_scientific_success\.
 
 
 ### History
