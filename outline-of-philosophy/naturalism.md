@@ -560,7 +560,7 @@ See also:
 ### Miracles
 
 -   Hume - "Of Miracles"
--   Scott Aaronson. (2001). [Letter to James Randi](https://www.scottaaronson.com/writings/randi.html)
+-   Scott Aaronson. (2001). [Letter to James Randi](https://www.scottaaronson.com/writings/randi.html).
     -   *The Low Kolmogorov Complexity (LKC) Principle*: Under any reasonable encoding, the universe has low Kolmogorov complexity.
 
 See also:
