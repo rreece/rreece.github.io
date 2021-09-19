@@ -660,8 +660,14 @@ Wittgenstein studied with, was influenced by, and influenced:
     of realism. 
 -   "Some Remarks on Logical Form" (1929) [^Wittgenstein1929]
 
+Wittgenstein's scientific attitude summarized in the Vienna Circle
+manifesto:
+
+>   "What can be said at all, can be said clearly" (Wittgenstein) [^Hahn1973pX]
+
 Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
+[^Hahn1973pX]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, p. X.
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\. <https://iep.utm.edu/wittgens/>
 [^Wittgenstein1922]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
 [^Wittgenstein1929]: @Wittgenstein_1929_Some_remarks_on_logical_form\.
@@ -681,7 +687,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   Ludwig Wittgenstein and Karl Popper corresponded with the circle but did not attend.
 -   Carnap, R. (1928), *The Logical Structure of the World* (*Der Logische Aufbau der Welt*) [^Carnap1928]
     -   Rational reconstruction
--   The scientific conception of the world: The Vienna Circle (1929) [^Hahn1973]
+-   [The scientific conception of the world: The Vienna Circle](http://rreece.github.io/philosophy-reading-list/docs/the-scientific-conception-of-the-world-the-vienna-circle.pdf) (1929) [^Hahn1973]
     -   Wissenschaftliche Weltauffassung: Der Wiener Kreis
     -   The Vienna Circle's manifesto
 -   In 1930 the Vienna Circle and the Berlin Circle took over the journal *Annalen der Philosophie*
