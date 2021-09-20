@@ -69,11 +69,13 @@ Stealing from encyclopedia.com:
 >   matter, space, and time.
 
 -   Quine, W.V.O. (1948). On what there is. [^Quine1948]
+-   Ney, A. (2014). *Metaphysics: An introduction*. [^Ney2014]
 -   Williamson, T. (2020). [What is metaphysics?](https://www.thebritishacademy.ac.uk/blog/what-is-metaphysics/)
 -   [Sense-reference distinction](https://en.wikipedia.org/wiki/Sense_and_reference) - Frege
 -   [Use-mention distinction](https://en.wikipedia.org/wiki/Use%E2%80%93mention_distinction)
     -   [White horse dialog](https://en.wikipedia.org/wiki/When_a_white_horse_is_not_a_horse)
 
+[^Ney2014]: @Ney_2014_Metaphysics_An_introduction\.
 [^Quine1948]: @Quine_1948_On_what_there_is\.
 [^vanInwagen2014]: @vanInwagen_2014_Metaphysics\.
 
