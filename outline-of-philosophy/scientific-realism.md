@@ -16,6 +16,8 @@ discusses the epistemological foundations and limitations of science.
 Metaphysics
 --------------------------------------------------------------------------------
 
+### Introduction
+
 When one encounters the word "metaphysics", what is usually meant is one of the
 three following ideas:
 
@@ -71,6 +73,10 @@ Stealing from encyclopedia.com:
 -   Quine, W.V.O. (1948). On what there is. [^Quine1948]
 -   Ney, A. (2014). *Metaphysics: An introduction*. [^Ney2014]
 -   Williamson, T. (2020). [What is metaphysics?](https://www.thebritishacademy.ac.uk/blog/what-is-metaphysics/)
+
+
+### Conceptual distinctions
+
 -   [Sense-reference distinction](https://en.wikipedia.org/wiki/Sense_and_reference) - Frege
 -   [Use-mention distinction](https://en.wikipedia.org/wiki/Use%E2%80%93mention_distinction)
     -   [White horse dialog](https://en.wikipedia.org/wiki/When_a_white_horse_is_not_a_horse)
@@ -79,6 +85,12 @@ Stealing from encyclopedia.com:
 [^Quine1948]: @Quine_1948_On_what_there_is\.
 [^vanInwagen2014]: @vanInwagen_2014_Metaphysics\.
 
+
+### Criticism
+
+-   Positivism
+-   *Every Thing Must Go*
+-   TODO
 
 
 Realism and antirealism
@@ -148,9 +160,9 @@ Schr&ouml;dinger quoting Schopenhauer:
 -   TODO: There's a lot more to antirealism than skepticism about the external world.
 -   Challenges to metaphysical realism [^Khlentzos2011].
 -   Distinguish Anti-realism from non-realism
--   See also [Challenges to scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html#challenges-to-scientific-realism)
-    in the section on [Scientific realism](http://rreece.github.io/outline-of-philosophy/scientific-realism.html) below.
-    -   Chisholm *The Problem of Criterion*
+-   See also:
+    -   [Definining knowledge](scientific-realism.html#challenges-to-scientific-realism)
+    -   [Challenges to scientific realism](#challenges-to-scientific-realism)
 
 Radiohead:
 
@@ -329,11 +341,13 @@ The primary dichotomy of positions is between forms of scientific realism and in
     -   The lore of our forefathers  - Quine
     -   Research traditions - Laudan
     -   Epistemological anarchism - Feyerabend
--   See also: [Superseded theories in science](#superseded-theories-in-science)
--   See discussion of the Science Wars in [Criticisms of naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism)
--   TODO: work through the challenges presented in [these videos](https://www.youtube.com/playlist?list=PLz0n_SjOttTenxXXdML7fOu1og3D9LaME).
--   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
--   TODO: move some of this discussion to the next sections on instrumentalism and postpositivism.
+-   See also:
+    -   [Superseded theories in science](#superseded-theories-in-science)
+    -   Discussion of the Science Wars in [Criticisms of naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism)
+-   TODO
+    -   TODO: work through the challenges presented in [these videos](https://www.youtube.com/playlist?list=PLz0n_SjOttTenxXXdML7fOu1og3D9LaME).
+    -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
+    -   TODO: move some of this discussion to the next sections on instrumentalism and postpositivism.
 
 Einstein:
 
@@ -853,7 +867,8 @@ Pragmatism
 -   Uniquely American philosophical movement.
 -   [Pragmatic theory of truth](https://plato.stanford.edu/entries/truth-pragmatic/)
 
-People:
+
+### History
 
 -   Charles Sanders Peirce (1839-1914)
 -   William James (1842-1910)
@@ -868,6 +883,8 @@ People:
 -   Paul Churchland (b. 1942)
 -   Daniel C. Dennett (b. 1942)
 -   Robert Brandom (b. 1950)
+
+More:
 
 [Max Hodak](https://maxhodak.com/nonfiction/2021/09/03/science.html):
 
@@ -1170,15 +1187,21 @@ Christian Hennig:
 Structural realism
 --------------------------------------------------------------------------------
 
+### Introduction
+
 Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
 
 -   realist
--   Plato's injunction in the *Phaedrus* to carve nature at its joints 
--   early Wittgenstein: picture theory of language/meaning
--   strucuturalism more generally and structural anthropology: Claude L&eacute;vi-Strauss
 -   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
     -   Wikipedia: "Inverse problems are some of the most important mathematical problems in science and mathematics because they tell us about parameters that we cannot directly observe."
+
+
+### History
+
+-   Plato's injunction in the *Phaedrus* to carve nature at its joints 
+-   Early Wittgenstein: picture theory of language/meaning
+-   Strucuturalism more generally and structural anthropology: Claude L&eacute;vi-Strauss
 -   Henri Poincar&eacute;
 
 Poincar&eacute;:
@@ -1199,6 +1222,9 @@ Poincar&eacute;:
 -   Redhead [^Redhead2001]
 -   *Writing The Book of The World* [^Sider2011]
 -   Everything you always wanted to know about structural realism but were afraid to ask [^Frigg2011]
+
+More:
+
 -   *Scientific Metaphysics* [^Ross2013]
 -   Video: Ladyman, J. (2019). [Natural necessity is just the stuff for Ontic Structural Realism](https://www.youtube.com/watch?v=Ausi6Kt9CTE).
     -   Natural necessity and objective modality
@@ -1824,6 +1850,7 @@ Click to show links
 -   [Popper, Karl (1902-1994) : Philosophy of Science](http://www.iep.utm.edu/pop-sci/)
 -   [Poincar&eacute;, Jules Henri (1854-1912)](http://www.iep.utm.edu/poincare/)
 -   [Pragmatism](http://www.iep.utm.edu/pragmati/)
+-   [Problem of the Criterion](https://iep.utm.edu/criterio/)
 -   [Quine's Philosophy of Science](http://www.iep.utm.edu/quine-sc/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Reichenbach, Hans (1891-1953)](http://www.iep.utm.edu/reichenb/)

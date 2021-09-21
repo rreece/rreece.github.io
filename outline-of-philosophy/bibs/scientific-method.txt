@@ -10,6 +10,7 @@ Carnap, R. (1950). *Logical Foundations of Probability*. University of Chicago P
 Carnap, R. (1952). *The Continuum of Inductive Methods*. University of Chicago Press.
 Carnap, R. (1966). The aim of inductive logic. In *Studies in Logic and the Foundations of Mathematics Vol. 44* (pp. 303--318). Elsevier.
 Carnap, R. (1973). Notes on probability and induction. *Synthese*, 25, 269--298.
+Chisholm, R. (1966). *Theory of Knowledge*. Prentice Hall.
 Clark, M. (1963). Knowledge and grounds: A comment on Mr. Gettier's paper. *Analysis*, 24, 46--48.
 Davis, N. (2015). To Explain the World review. *The Guardian*. https://www.theguardian.com/books/2015/feb/22/to-explain-the-world-steven-weinberg-history-great-thinkers [February 21, 2015]
 Descartes, R. (1996). *Oeuvres de Descartes, 11 volumes* (C. Adam & P. Tannery, Eds.). Paris: Vrin. http://philosophyfaculty.ucsd.edu/faculty/ctolley/texts/descartes.html

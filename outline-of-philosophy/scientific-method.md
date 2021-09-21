@@ -265,7 +265,6 @@ Weinberg:
     -   atomic theory
 -   [Mary Somerville](https://en.wikipedia.org/wiki/Mary_Somerville) (1780-1872)
     -   *On the Connexion of the Physical Sciences* (1834)
--   [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) (1791-1871)
 -   [John Herschel](https://en.wikipedia.org/wiki/John_Herschel) (1792-1871)
     -   *Preliminary Discourse* (1831)
 -   [William Whewell](http://en.wikipedia.org/wiki/William_Whewell) (1794-1866)
@@ -315,6 +314,7 @@ Weinberg:
 -   [Jerzy Neyman](https://en.wikipedia.org/wiki/Jerzy_Neyman) (1894-1981)
 -   [Egon Pearson](https://en.wikipedia.org/wiki/Egon_Pearson) (1895-1980)
 -   [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) (1915-2000)
+-   [C.R. Rao](https://en.wikipedia.org/wiki/C._R._Rao) (b. 1920)
 
 
 ### Computer science
@@ -1132,6 +1132,8 @@ Plato:
 
 ![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g), 2014).](img/knowledge.png){#fig:knowledge-jtb-g}
 
+TODO: find part in *Meno*.
+
 In his unfinished work, *Rules* [^DescartesRule2], Descartes defines “science” (scientia) in Rule 2 as
 
 >   *Omnis scientia est cognitio certa et evidens*.          
@@ -1143,6 +1145,8 @@ for only what is perfectly certain:
 >   we reject all [...] merely probable cognition and resolve to believe
 >   only what is perfectly known and incapable of being doubted.
 
+-   Chisholm, R. (1966). *Theory of Knowledge*. [^Chisholm1966]
+    -   The Problem of Criterion
 -   Robert Nozick. (1981). *Philosophical Explanations*.
 
 Ichikawa & Jenkins:
@@ -1164,8 +1168,7 @@ Ichikawa & Jenkins:
 >   this way. The now-usual formulation, in terms of justification, is so in
 >   large part because of Gettier (1963). [^Ichikawa2017]
 
-TODO: find part in *Meno*.
-
+[^Chisholm1966]: @Chisholm_1966_Theory_of_Knowledge\.
 [^DescartesRule2]: @Descartes_1996_Oeuvres_de_Descartes_11_volumes\, vol. 10, p. 362.
 [^Ichikawa2017]: @Ichikawa_2017_On_putting_knowledge_first\.
 [^RepublicV477]: Plato, *Republic V* 477--8, @Cooper_1997_Plato_Complete_works\, p. 1103--4.
@@ -1494,9 +1497,10 @@ Click to show links
 -   [Naturalistic epistemology](http://www.iep.utm.edu/nat-epis/)
 -   [Parmenides](http://www.iep.utm.edu/parmenid/)
 -   [Peirce, Charles Sanders (1839-1914): Logic](http://www.iep.utm.edu/peir-log/)
--   [Popper, Karl (1902-1994): Philosophy of Science](http://www.iep.utm.edu/pop-sci/)
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](http://www.iep.utm.edu/plato/)
 -   [Plato's Academy (387 BCE - 529 CE)](http://www.iep.utm.edu/academy/)
+-   [Popper, Karl (1902-1994): Philosophy of Science](http://www.iep.utm.edu/pop-sci/)
+-   [Problem of the Criterion](https://iep.utm.edu/criterio/)
 -   [Pythagoras (570-495 BCE)](http://www.iep.utm.edu/pythagor/)
 -   [Reductionism](http://www.iep.utm.edu/red-ism/)
 -   [Safety condition for knowledge](http://www.iep.utm.edu/safety-c/)
