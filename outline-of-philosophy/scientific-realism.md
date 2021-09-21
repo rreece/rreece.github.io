@@ -143,6 +143,8 @@ Schr&ouml;dinger quoting Schopenhauer:
 
 >   The world extended in space and time is but our representation. [^Schopenhauer-Schrodinger]
 
+-   TODO: There's a lot more to antirealism than skepticism about the external world.
+
 [^Borges1998]: @Borges_1998_Collected_Fictions\, p. 325.
 [^Korzybski1933p58]: @Korzybski_1933_Science_and_Sanity\, p. 58.
 [^Moore1925]: @Moore_1925_A_defense_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
@@ -153,15 +155,14 @@ Schr&ouml;dinger quoting Schopenhauer:
 ### Contemporary skepticism
 
 -   Contemporary skepticism [^Pritchard2004]
+-   Challenges to metaphysical realism [^Khlentzos2011].
 -   Putnam Brain in a vat [^Putnam1981pX]
 -   "The Matrix as Metaphysics" [^Chalmers2003]
 -   Bostrom - The Simulation Argument
     -   Am I a more advanced civilization's tamagotchi?
--   TODO: There's a lot more to antirealism than skepticism about the external world.
--   Challenges to metaphysical realism [^Khlentzos2011].
 -   Distinguish Anti-realism from non-realism
 -   See also:
-    -   [Definining knowledge](scientific-realism.html#challenges-to-scientific-realism)
+    -   [Definining knowledge](scientific-method.html#definining-knowledge)
     -   [Challenges to scientific realism](#challenges-to-scientific-realism)
 
 Radiohead:
