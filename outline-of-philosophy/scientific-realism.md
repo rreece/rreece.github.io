@@ -234,7 +234,7 @@ First let's look at instrumentalism.
 Theoretical concepts may have use in predicting observations,
 but we have no ontological commitments to them.
 
--   antirealist
+-   Antirealist
 
 
 ### History
@@ -905,12 +905,13 @@ Postmodernism
 -   Conventionalism
 -   Social constructivism
 -   Incommensurability, impossibility of translation
+
+
+### History
+
 -   Relativism was previously clearly defended by the ancient Greek sophists
     -   "Man is the measure of all things" - Protagoras
     -   Gorgias
-
-People:
-
 -   Jean-Fran&ccedil;ois Lyotard (1924-1998)
 -   Gilles Deleuze (1925-1995)
 -   Michel Foucault (1926-1984)
@@ -1010,16 +1011,16 @@ Various reactions to positivism.
 
 -   Poincar&eacute;
 -   Thomas Kuhn (1922-1996)
-    -   paradigm shifts
-    -   normal science and revolutionary science
+    -   Paradigm shifts
+    -   Normal science and revolutionary science
     -   Incommensurability
     -   Sankey [^Sankey1997]
 -   Imre Lakatos (1922-1974)
-    -   scientific research programmes
+    -   Scientific research programmes
 -   Larry  Laudan (b. 1941)
-    -   scientific research traditions
-    -   pessimistic meta-induction (PMI)
-    -   science cannot be value free
+    -   Scientific research traditions
+    -   Pessimistic meta-induction (PMI)
+    -   Science cannot be value free
 -   Paul Feyerabend (1924-1994)
     -   Epistemological anarchism
 
@@ -1037,7 +1038,7 @@ Various reactions to positivism.
     -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
 
 -   PI:
-    -   duck-rabbit; "seeing that" vs "seeing as"
+    -   Duck-rabbit; "seeing that" vs "seeing as"
 -   Rorty
     -   Wittgenstein, Heidegger, and the reification of language. [^Rorty1991]
     -   "Obsession with this image of something deeply hidden"
@@ -1053,7 +1054,7 @@ TODO: find ref of above quote.
 
 ### The "death" of positivism
 
--   anti-positivism, Kuhn, Popper
+-   Anti-positivism, Kuhn, Popper
 -   post-structuralism, postmodernism (continental)
 -   In 1967 John Passmore reported that: "Logical positivism, then,
     is dead, or as dead as a philosophical movement ever becomes." [^Passmore1967]
@@ -1102,7 +1103,7 @@ Friedman:
 
 ### Realist turn
 
--   a turn towards realism
+-   A turn towards realism
 -   Poincar&eacute;
     -   structure
 -   Reichenbach
@@ -1152,7 +1153,10 @@ Constructive empiricism
 Science aims to give us theories that are empirically adequate,
 but does not justify metaphysical claims about reality.
 
--   antirealist
+-   Antirealist
+
+
+### History
 
 Bas van Fraassen (b. 1941):
 
@@ -1193,7 +1197,7 @@ Structural realism
 Science has identified real patterns, relationships, and structures
 (at least within a regime) in nature.
 
--   realist
+-   Realist
 -   [Inverse problem](https://en.wikipedia.org/wiki/Inverse_problem)
     -   Wikipedia: "Inverse problems are some of the most important mathematical problems in science and mathematics because they tell us about parameters that we cannot directly observe."
 
@@ -1263,7 +1267,7 @@ Critical realists believe that there are unobservable events which cause the
 observable ones; as such, the social world can be understood only if people
 understand the structures that generate such unobservable events.
 
--   realist
+-   Realist
 -   Roy Wood Sellars
 -   Wilfrid Sellars
     -   The Myth of the Given

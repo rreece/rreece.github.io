@@ -38,8 +38,9 @@ Technological growth
 -   Simulation argument [^Bostrom2003] and patch [^Bostrom2011]
 -   [Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 -   The AI Revolution: The Road to Superintelligence [^WaitButWhy2015]
--   See also: [Industrial Revolution](human-condition.html#industrial-revolution)
-    in the [Outline on the human condition](human-condition.html).
+-   See also:
+    -   [Industrial Revolution](human-condition.html#industrial-revolution)
+        in the [Outline on the human condition](human-condition.html).
 
 [^Bostrom2003]: @Bostrom_2003_Are_you_living_in_a_computer_simulation\.
 [^Bostrom2011]: @Bostrom_2011_A_patch_for_the_simulation_argument\.
@@ -60,8 +61,9 @@ Artificial intelligence
 >   context-appropriate prose, which would drown out all other speech and be impossible to filter. [^Vincent2019]
 
 -   "The AI Index 2021 Annual Report" [^Zhang2021]
--   See also: [Machine learning](http://rreece.github.io/outline-of-philosophy/statistics.html#machine-learning)
-    in the [Outline on the philosophy of statistics](http://rreece.github.io/outline-of-philosophy/statistics.html).
+-   See also:
+    -   [Machine learning](statistics.html#machine-learning)
+        in the [Outline on the philosophy of statistics](statistics.html).
 
 [^Vincent2019]: @Vincent_2019_OpenAIs_new_multitalented_AI_writes_translates\.
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
