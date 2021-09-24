@@ -169,7 +169,7 @@ Moral naturalism
 ### Evolution of morals
 
 -   de Waal [^deWaal1982]
--   evolution of trust
+-   Evolution of trust
 -   Patricia Churchland
 
 Churchland:
@@ -242,9 +242,14 @@ Churchland:
 
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
     -   Introduced by Moore, G.E. (1903). *Principia Ethica*.
-    -   See also: [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](naturalism.html)
--   G.E. Moore's [Open-question argument](https://en.wikipedia.org/wiki/Open-question_argument)
--   [Moore's Moral Philosophy](https://plato.stanford.edu/entries/moore-moral/)
+    -   Is/ought divide going back to Hume
+    -   G.E. Moore's [Open-question argument](https://en.wikipedia.org/wiki/Open-question_argument)
+    -   [Moore's Moral Philosophy](https://plato.stanford.edu/entries/moore-moral/)
+    -   Russell, G. (2020). Logic isn't normative. [^Russell2020]
+-   See also:
+    -   [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](naturalism.html)
+
+[^Russell2020]: @Russell_2020_Logic_isnt_normative\.
 
 
 Political philosophy

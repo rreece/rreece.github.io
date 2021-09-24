@@ -98,8 +98,6 @@ Click to show the paltry outline of the history of science
 -   [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism) (between c. 200 and 100 BCE)
 -   [Lucretius](http://en.wikipedia.org/wiki/Lucretius) (99-55 BCE)
 -   [Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) (c. 100-170 CE)
--   See also:
-    -   [Human history](human-condition.html#human-history) in the [Outline on the human condition](human-condition.html#human-history).
 
 Russell:
 
@@ -157,6 +155,10 @@ Weinberg:
 -   Review of *To Explain the World* [^Davis2015]
 -   Hoyningen-Huene, P. (2020). [Beyond Kuhn and Feyerabend: After the fourth stage of philosophy of science](https://iai.tv/articles/beyond-feyerabend-and-kuhn-auid-1644).
 -   TODO: on removing Aristotle's teleology from physics.
+
+See also:
+
+-   [Human history](human-condition.html#human-history) in the [Outline on the human condition](human-condition.html#human-history).
 
 [^Davis2015]: @Davis_2015_To_Explain_the_World_review\.
 [^Prado2006-2]: @Prado_2006_Ionian_enchantment_A_brief_history_of_scientific\.
@@ -338,10 +340,13 @@ Rationalism vs empiricism
 -   Lead to the Age of Enlightenment
     -   Kant: "Answering the question: What is Enlightenment?"
         -   *Sapere aude* ("Dare to be wise")
+-   TODO: Rationalism and empiricism in Asia.
+
+See also:
+
 -   [Development of calculus](math.html#development-of-calculus)
--   TODO: rationalism and empiricism in Asia.
-    -   See also: [Indian empiricism](human-condition.html#indian-empiricism)
-        and [Pramana](human-condition.html#pramana).
+-   [Indian empiricism](human-condition.html#indian-empiricism)
+    and [Pramana](human-condition.html#pramana).
 
 
 ### Early empiricists
@@ -376,11 +381,11 @@ Rationalism vs empiricism
 
 -   Robert Boyle (1627-1691)
 -   John Locke (1632-1704)
-    -   corpuscules
+    -   Corpuscules
     -   *An Essay Concerning Human Understanding* (1689)
-    -   criticism of innate ideas
-    -   primary and secondary qualities
-    -   *tabula rasa* - "blank slate"
+    -   Criticism of innate ideas
+    -   Primary and secondary qualities
+    -   *Tabula rasa* - "blank slate"
 -   George Berkeley (1685-1753)
 -   David Hume (1711-1776)
     -   *An Enquiry Concerning Human Understanding* (1748)
@@ -410,7 +415,8 @@ Hume:
     -   *Critique of Pure Reason* (1781) [^Kant1996]
     -   *Metaphysical Foundations of Natural Science* (1786)
     -   *Critique of Judgment* (1790)
-        -   "It is absurd to hope that another Newton will arise in the future who will make comprehensible to us the production of a blade of grass according to natural laws"
+        -   "It is absurd to hope that another Newton will arise in the future
+            who will make comprehensible to us the production of a blade of grass according to natural laws"
         -   He was wrong!
 
 [^Kant1996]: @Kant_1996_Critique_of_Pure_Reason\. 
@@ -479,9 +485,11 @@ Kant in his *Critique of Pure Reason* (1781):
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology)
 -   *Introduction to Formal Philosophy* (2018) [^Hansson2018]
 -   *The Open Handbook of Formal Epistemology* (2019) [^Pettigrew2019]
--   See also:
-    -   [Logic](math.html#logic) and [Model theory](math.html#model-theory)
-    -   [Positivism](scientific-realism.html#positivism)
+
+See also:
+
+-   [Logic](math.html#logic) and [Model theory](math.html#model-theory)
+-   [Positivism](scientific-realism.html#positivism)
 
 [^Hansson2018]: @Hansson_2018_Introduction_to_Formal_Philosophy\.
 [^Pettigrew2019]: @Pettigrew_2019_The_Open_Handbook_of_Formal_Epistemology\.
@@ -494,8 +502,8 @@ Kant in his *Critique of Pure Reason* (1781):
 
 See also:
 
--   [Attack on the analytic/synthetic distinction](scientific-realism.html#attack-on-the-analyticsynthetic-distinction)
-    in the discussion of [Postpositivism](scientific-realism.html#positivism).
+-   Longer discussion of the [Attack on the analytic/synthetic distinction](scientific-realism.html#attack-on-the-analyticsynthetic-distinction)
+    in the section on [Postpositivism](scientific-realism.html#positivism).
 
 [^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1990]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
@@ -510,6 +518,9 @@ See also:
 -   Gillian Russell [^Russell2008]
 -   Cory Juhl [^Juhl2009]
 -   Weatherson [^Weatherson2017]
+-   TODO: How much of this should be moved to the 
+    longer discussion of the [Attack on the analytic/synthetic distinction](scientific-realism.html#attack-on-the-analyticsynthetic-distinction)
+    in the section on [Postpositivism](scientific-realism.html#positivism)?
 
 de Swart:
 
@@ -724,8 +735,10 @@ Reichenbach:
 -   Note that philosophical induction is not [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
 -   Sankey [^Sankey2008p79]
 -   Vickers, J.M. (2013). [Oxford Bibliography on Inductive Reasoning](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0171.xml).
--   See also:
-    -   [Algorithmic information theory](statistics.html#algorithmic-information-theory)
+
+See also:
+
+-   [Algorithmic information theory](statistics.html#algorithmic-information-theory)
 
 [^Aronson2007]: @Aronson_2007_Evidence_Based_Technical_Analysis\, p. 128.
 [^Aumann1976]: @Aumann_1976_Agreeing_to_disagree\.
@@ -805,10 +818,12 @@ Arthur Conan Doyle:
 -   Howson [^HowsonBJPSSpecial]
 -   Hacking [^Hacking2001]
 -   Huber [^Huber2007]
--   See also:
-    -   [Outline of philosophy of statistics](statistics.html#problem-of-induction)
-    -   Note the further discussion of Humeanism and laws of nature in
-        the [Outline on scientific realism](scientific-realism.html#humeanism).
+
+See also:
+
+-   [Outline of philosophy of statistics](statistics.html#problem-of-induction)
+-   Note the further discussion of Humeanism and laws of nature in
+    the [Outline on scientific realism](scientific-realism.html#humeanism).
 
 [^Hacking2001]: @Hacking_2001_An_Introduction_to_Probability_and_Inductive_Logic\.
 [^HowsonBJPSSpecial]: [thebsps.org/auxhyp/howson/](http://www.thebsps.org/auxhyp/howson/).
@@ -910,10 +925,12 @@ Sagan:
 -   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013]
     -   In the introduction, in a rather positivist way, Spivak describes his view that
         category theory can be used to ground truth in observation.
--   See also:
-    -   [Algorithmic information theory](statistics.html#algorithmic-information-theory)
 
 ![Spivak's figure "intended to evoke thoughts of the scientific method". [^Spivak2013p5]](img/Spivak-scientific-method.png){#fig:Spivak-scientific-method}
+
+See also:
+
+-   [Algorithmic information theory](statistics.html#algorithmic-information-theory)
 
 [^French2007pX]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. TODO.
 [^French2007pX2]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. TODO.
@@ -1221,7 +1238,10 @@ The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*. Russel
 -   Failed justification
 -   Mayo on error statistics and severe testing
 -   TODO: discussion by me
--   See also: [Sinervo classification of systematic uncertainties](#sinervo-classification-of-systematic-uncertainties)
+
+See also:
+
+-   [Sinervo classification of systematic uncertainties](#sinervo-classification-of-systematic-uncertainties)
 
 
 #### Internalism vs externalism

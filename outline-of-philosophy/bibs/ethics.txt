@@ -10,3 +10,4 @@ Parfit, D. (1984). *Reasons and Pearson*. Clarendon Press.
 Portmore, D. (2011). *Commonsense Consequentialism*. Oxford University Press.
 Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*. Harvard University Press.
 Rawls, J. (1999). *A Theory of Justice* (2nd ed.). Harvard University Press. [(First edition published in 1971)]
+Russell, G. (2020). Logic isn't normative. *Inquiry*, 63, 371--388.

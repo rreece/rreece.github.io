@@ -161,13 +161,15 @@ Schr&ouml;dinger quoting Schopenhauer:
 -   Bostrom - The Simulation Argument
     -   Am I a more advanced civilization's tamagotchi?
 -   Distinguish Anti-realism from non-realism
--   See also:
-    -   [Definining knowledge](scientific-method.html#definining-knowledge)
-    -   [Challenges to scientific realism](#challenges-to-scientific-realism)
 
 Radiohead:
 
 >   Just 'cause you feel it, doesn't mean it's there. [^Radiohead2003]
+
+See also:
+
+-   [Definining knowledge](scientific-method.html#definining-knowledge)
+-   [Challenges to scientific realism](#challenges-to-scientific-realism)
 
 [^Chalmers2003]: @Chalmers_2003_The_Matrix_as_metaphysics\.
 [^Khlentzos2011]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
@@ -342,9 +344,6 @@ The primary dichotomy of positions is between forms of scientific realism and in
     -   The lore of our forefathers  - Quine
     -   Research traditions - Laudan
     -   Epistemological anarchism - Feyerabend
--   See also:
-    -   [Superseded theories in science](#superseded-theories-in-science)
-    -   Discussion of the Science Wars in [Criticisms of naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism)
 -   TODO
     -   TODO: work through the challenges presented in [these videos](https://www.youtube.com/playlist?list=PLz0n_SjOttTenxXXdML7fOu1og3D9LaME).
     -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
@@ -356,6 +355,11 @@ Einstein:
 >   and as far as they are certain, they do not refer to reality. [^Einstein1922]
 
 -   Norton, J.D. (2017). [Einstein on Kant](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/significance_GR_geometry/Einstein_on_Kant.html).
+
+See also:
+
+-   [Superseded theories in science](#superseded-theories-in-science)
+-   Discussion of the Science Wars in [Criticisms of naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism)
 
 [^Khlentzos2011-2]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
 [^Poincare1913p351]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 351.
@@ -926,9 +930,6 @@ Postmodernism
     -   Boghossian, P. (2006). *Fear of Knowledge*.
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011-1]
     -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained.](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/) *Areo Magazine*. [^Pluckrose2017-1]
--   See also:
-    -   [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism)
-        in the [Outline on naturalism](naturalism.html).
 
 Boghossian:
 
@@ -951,6 +952,11 @@ Boghossian:
 >   committed. But it looks as though we have every reason to believe that some
 >   version or other of such an objectivist view will be sustainable without
 >   fear of paradox. [^Boghossian2006p109]
+
+See also:
+
+-   [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism)
+    in the [Outline on naturalism](naturalism.html).
 
 [^Boghossian2006p109]: @Boghossian_2006_Fear_of_Knowledge\, p. 109--110.
 [^Hicks2011-1]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
@@ -992,12 +998,15 @@ Various reactions to positivism.
 -   Quine: pale gray lore. TODO: find quote.
 -   Duhem-Quine thesis
 -   Inscrutability of reference
--   Quine-Carnap correspondence [^Quine1990-2]
--   Does ontology rest on a mistake? [^Yablo1998]
--   See also the longer discussion of the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
-    in the [Outline on the scientific method](scientific-method.html).
 -   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
 -   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986]
+-   Quine-Carnap correspondence [^Quine1990-2]
+-   Does ontology rest on a mistake? [^Yablo1998]
+
+See also:
+
+-   The introduction to the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
+    in the [Outline on the scientific method](scientific-method.html).
 
 [^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
@@ -1175,7 +1184,10 @@ Christian Hennig:
 
 -   "Mathematical models and reality: A constructivist perspective" [^Hennig2010]
 -   "What are the true clusters?" [^Hennig2015]
-    -   See also: [clustering](statistics.html#clustering)
+
+See also:
+
+-   [clustering](statistics.html#clustering)
 
 [^Hennig2010]: @Hennig_2010_Mathematical_models_and_reality_A_constructivist\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
@@ -1255,9 +1267,11 @@ Feminist epistemology
     -   Prescod-Weinstein, Chanda. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
     -   Roy, Rohan Deb. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
 -   [Feminist perspectives on argumentation](https://plato.stanford.edu/entries/feminism-argumentation/)
--   See also:
-    -   [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism)
-    -   [Feminism in the Outline on ethics](ethics.html#feminism)
+
+See also:
+
+-   [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism)
+-   [Feminism in the Outline on ethics](ethics.html#feminism)
 
 
 Critical realism
