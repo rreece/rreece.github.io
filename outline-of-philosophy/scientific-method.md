@@ -1265,8 +1265,9 @@ See also:
 See also:
 
 -   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
--   See the [Outline on scientific realism](scientific-realism.html).
--   See the [Outline on naturalism](naturalism.html).
+-   [Outline on scientific realism](scientific-realism.html)
+    -   [Scientific progress](scientific-realism.html#scientific-progress)
+-   [Outline on naturalism](naturalism.html)
 
 
 Pseudoscience
