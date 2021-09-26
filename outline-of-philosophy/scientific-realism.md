@@ -296,14 +296,12 @@ Chakravartty:
 -   Boyd
 -   Sellars
 -   Chakravartty
--   Psillos
+-   Psillos, S. (1999). *Scientific Realism: How science tracks truth*. [^Psillos1999]
 -   Sankey
 
 Helmholtz:
 
 >   What Helmholtz then asserted, in his classic essay “On the Facts of Perception,” is that the inference to a hypostasized reality lying behind the appearances goes beyond what is warranted by the lawfulness obtaining among appearances. Indeed, all localizations of objects in space are really nothing more than the discovery of the lawfulness of the connections obtaining among our motions and our perceptions. The difference between what is genuinely perceived and its realistic interpretation is just the difference between the regularities in our perceptions and the hypothesis of enduring, substantial sources of the perceived regularities (Helmholtz 1977, 138–140). [^Oberdan2013]
-
-[^Oberdan2013]: Oberdan, T. (2013). [Moritz Schlick, *Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/schlick/). 
 
 Sankey:
 
@@ -320,6 +318,8 @@ Sankey:
 
 [^Chakravartty2007]: @Chakravartty_2007_A_Metaphysics_for_Scientific_Realism\.
 [^Chakravartty2017]: @Chakravartty_2017_Scientific_realism\. <https://plato.stanford.edu/entries/scientific-realism/>
+[^Oberdan2013]: Oberdan, T. (2013). [Moritz Schlick, *Stanford Encyclopedia of Philosophy*](https://plato.stanford.edu/entries/schlick/). 
+[^Psillos1999]: @Psillos_1999_Scientific_Realism_How_science_tracks_truth\.
 [^Sankey2001]: @Sankey_2001_Scientific_realism_An_elaboration_and_a_defence\, p. 37.
 [^Sankey2007p338]: @Nola_2007_Theories_of_Scientific_Method\, p. 338.
 
@@ -1235,7 +1235,6 @@ Poincar&eacute;:
     -   Ontic Structural Realism (OSR)
 -   *Every Thing Must Go* [^Ladyman2007]
     -   Rainforest realism: Scale-relative ontology
--   *How science tracks truth* [^Psillos1999]
 -   Redhead [^Redhead2001]
 -   *Writing The Book of The World* [^Sider2011]
 -   Everything you always wanted to know about structural realism but were afraid to ask [^Frigg2011]
@@ -1251,7 +1250,6 @@ More:
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Poincare1913p347]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 347--8.
-[^Psillos1999]: @Psillos_1999_Scientific_Realism_How_Science_Tracks_Truth\.
 [^Redhead2001]: @Redhead_2001_The_intelligibility_of_the_universe\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 [^Sider2011]: @Sider_2011_Writing_the_Book_of_the_World\.
@@ -1705,7 +1703,7 @@ Click to show annotated bibliography
 -   Dennett, D. (1991).  Real Patterns.
 -   Ladyman, J. (1998).  What is Structural Realism?
 -   Bueno, O. (1999).  What is Structural Empiricism?
--   Psillos, S. (1999).  Scientific Realism: How Science Tracks Truth.
+-   Psillos, S. (1999).  *Scientific Realism: How science tracks truth*.
 -   Psillos, S. (2000).  The Present State of the Scientific Realism Debate.
 -   Chang, H. (2001).  Realism Beyond Footstamping.
 -   van Fraassen, B. (2001).  Constructive Empiricism Now.
