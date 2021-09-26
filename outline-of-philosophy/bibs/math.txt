@@ -10,6 +10,7 @@ Ewald, W. (2018). The emergence of first-order logic. *Stanford Encyclopedia of 
 Field, H. (1989). *Realism, Mathematics, and Modality*. Oxford: Blackwell.
 Field, H. (2016). *Science Without Numbers* (2nd ed.). Oxford University Press. [(Originally published in 1980 by Princeton University Press)]
 Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G{\"o}del*. Norton.
+Goodman, N. & Quine, W.V.O. (1947). Steps toward a constructive nominalism. *The Journal of Symbolic Logic*, 12, 105--122.
 Hamming, R. W. (1980). The unreasonable effectiveness of mathematics. *The American Mathematical Monthly*, 87(2), 81--90.
 Hardy, G.H. (1940). *A Mathematician's Apology*. Cambridge University Press.
 Hilbert, D. (1967). The foundations of mathematics. In J. van Heijenoort (Ed.), *From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1879-1931* (pp. 464--479). Harvard University Press. [From a lecture given by Hilbert in 1927.]

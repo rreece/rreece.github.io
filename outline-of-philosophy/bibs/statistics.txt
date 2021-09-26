@@ -56,6 +56,7 @@ D'Agnolo, R.T. & Wulzer, A. (2019). Learning New Physics from a Machine. *Physic
 Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning. https://arxiv.org/abs/2109.02355
 Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. https://arxiv.org/abs/1810.04805
 Dewey, J. (1938). *Logic: The Theory of Inquiry*. New York: Henry Holt and Co.
+Dosovitskiy, A. et al. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. https://arxiv.org/abs/2010.11929
 Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.
 Efron, B. & Hastie, T. (2016). *Computer Age Statistical Inference: Algorithms, evidence, and data science*. Cambridge University Press.
 Evans, M. (2013). What does the proof of Birnbaum's theorem prove? https://arxiv.org/abs/1302.5468
@@ -94,6 +95,7 @@ James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World 
 Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434(2-3), 435--443. https://arxiv.org/abs/hep-ex/9902006
 Kaplan, J. et al. (2019). Notes on contemporary machine learning for physicists. https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf
 Kaplan, J. et al. (2020). Scaling laws for neural language models. https://arxiv.org/abs/2001.08361
+Karniadakis, G.E. et al. (2021). Physics-informed machine learning. *Nature Reviews Physics*, 3, 422--440. https://doi.org/10.1038/s42254-021-00314-5
 Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
 Korb, K.B. (2001). Machine learning as philosophy of science. In *Proceedings of the ECML-PKDD-01 Workshop on Machine Learning as Experimental Philosophy of Science*, Freiburg.
 Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ImageNet classification with deep convolutional neural networks. *Advances in Neural Information Processing Systems*, 2012, 1097--1105. https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
@@ -171,8 +173,10 @@ Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning wit
 Sutton, R.S., & Barto, A.G. (2018). *Reinforcement Learning* (2nd ed.). MIT Press.
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Tan, M. & Le, Q.V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. https://arxiv.org/abs/1905.11946
+Tan, M. & Le, Q.V. (2021). EfficientNetV2: Smaller models and faster training. https://arxiv.org/abs/2104.00298
 Tegmark, M., Taylor, A.N., & Heavens, A.F. (1997). Karhunen-Loeve eigenvalue problems in cosmology: How should we tackle large data sets? *The Astrophysical Journal*, 480, 22--35. https://arxiv.org/abs/astro-ph/9603021
 Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
+Thuerey, N. et al. (2021). Physics-based deep learning. https://arxiv.org/abs/2109.05237
 Tukey, J.W. (1962). The future of data analysis. *The Annals of Mathematical Statistics*, 33(1), 1--67.
 Tukey, J.W. (1977). *Exploratory Data Analysis*. Pearson.
 Udrescu, S. & Tegmark, M. (2020). Symbolic pregression: Discovering physical laws from raw distorted video. https://arxiv.org/abs/2005.11212

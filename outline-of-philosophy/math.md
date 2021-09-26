@@ -479,18 +479,39 @@ Platonism
 
 -   Quine's "reluctant platonism"
     -   Indispensability argument
+    -   Quine, W.V.O. (1948). On what there is. [^Quine1948]
+    -   distinction between *meaning* and *naming*
+
+>   Whatever we say with the help of names can be said in a language which shuns names
+>   altogether. To be assumed as an entity is, purely and simply, to be reckoned as the value of a
+>   variable. In terms of the categories of traditional grammar, this amounts roughly to saying that
+>   to be is to be in the range of reference of a pronoun. Pronouns are the basic media of
+>   reference; nouns might better have been named propronouns. The variables of quantification,
+>   'something', 'nothing', 'everything', range over our whole ontology, whatever it may be; and
+>   we are convicted of a particular ontological presupposition if, and only if, the alleged
+>   presuppositum has to be reckoned among the entities over which our variables range in order
+>   to render one of our affirmations true. [^Quine1948p7]
+
+>   a theory is committed to those and only those entities to which the bound variables of the
+>   theory must be capable of referring in order that the affirmations made in the theory be
+>   true. [^Quine1948p9]
+
 -   Neopythagoreanism: Tegmark. (2008). "The mathmatical universe". [^Tegmark2008]
     -   Mathematical Universe Hypothesis (MUH)
 -   Seth Lloyd - the universe is a computer - pythagorean?
 -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
 -   Carroll, S. (2021). [Mindscape 127: Justin Clarke-Doane on Mathematics, Morality, Objectivity, and Reality](https://www.youtube.com/watch?v=3tvfq8ehHOk).
--   [Proofs without words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
--   [Binomial theorem visualisation](https://en.wikipedia.org/wiki/File:Binomial_theorem_visualisation.svg)
 
 ![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
 
 ![A visual proof that $\sum_{k=1}^{\infty} \frac{1}{4^k} = \frac{1}{3}$.](img/visual-proof-geometric-series-sum-to-third.jpg)
 
+-   [Proofs without words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
+-   [Binomial theorem visualisation](https://en.wikipedia.org/wiki/File:Binomial_theorem_visualisation.svg)
+
+[^Quine1948]: @Quine_1948_On_what_there_is\.
+[^Quine1948p7]: @Quine_1948_On_what_there_is\, p. 7.
+[^Quine1948p9]: @Quine_1948_On_what_there_is\, p. 9.
 [^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
 
 
@@ -529,15 +550,20 @@ Field: Abstract platonic entities, were they to exist, could not
 interact causally with the world. [^Field1989p68]
 
 -   Positivism, Carnap, ESO
+-   Goodman & Quine [^Goodman1947]
 -   Field: *Science Without Numbers* [^Field2016]
 -   John Burgess [^Burgess1983]
 -   Bueno [^Bueno2013]
+
+>   significant in context but naming nothing. [^Goodman1947p105]
 
 [^Bayes1736p9]: @Bayes_1736_An_Introduction_to_the_Doctrine_of_Fluxions\, p. 9--10.
 [^Bueno2013]: @Bueno_2013_Nominalism_in_the_philosophy_of_mathematics\.
 [^Field1989p68]: @Field_1989_Realism_Mathematics_and_Modality\, p. 68. TODO: Get exact quote.
 [^Burgess1983]: @Burgess_1983_Why_I_am_not_a_nominalist\.
 [^Field2016]: @Field_2016_Science_Without_Numbers\.
+[^Goodman1947]: @Goodman_1947_Steps_toward_a_constructive_nominalism\.
+[^Goodman1947p105]: @Goodman_1947_Steps_toward_a_constructive_nominalism\, p. 105.
 [^Mill1877]: @Mill_1877_An_Examination_of_Sir_William_Hamiltons\.
 
 

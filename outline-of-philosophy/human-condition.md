@@ -49,6 +49,7 @@ Human history
 -   [Clovis culture](https://en.wikipedia.org/wiki/Clovis_culture)
 -   [Younger Dryas impact hypothesis](https://en.wikipedia.org/wiki/Younger_Dryas_impact_hypothesis)
 -   [Mesolithic](https://en.wikipedia.org/wiki/Mesolithic)
+-   [Ancient footprints could be oldest traces of humans in the Americas](https://www.nature.com/articles/d41586-021-02597-1) (2021)
 
 [^Marshall2011]: @Marshal_2011_Youd_beat_a_Neanderthal_in_a_race\.
 [^WikiAncientHistory]: [en.wikipedia.org/wiki/Ancient_history](https://en.wikipedia.org/wiki/Ancient_history)
@@ -476,7 +477,7 @@ Buddhism
 -   Epstein, R. (2004). [Resources for the study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
 -   Harvey, P. (2013). *An Introduction to Buddhism*. [^Harvey2013]
 -   Hatcher, B. (2013). [A Bibliography of Buddhism (and Recovery)](https://www.hermetica.info/BuddBib.htm). - hermetica.info
--   O'Brien, B. (2018). [Buddhist teachings on the self.](https://www.learnreligions.com/self-no-self-whats-a-self-450190)
+-   O'Brien, B. (2018). [Buddhist teachings on the self](https://www.learnreligions.com/self-no-self-whats-a-self-450190).
 -   [BPS Online Library](http://www.bps.lk/library.php)
 -   [Buddhist eLibrary.org](http://www.buddhistelibrary.org/en/index.php)
 

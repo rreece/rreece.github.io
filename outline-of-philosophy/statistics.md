@@ -1384,10 +1384,17 @@ Blogs:
 -   ResNet [^He2015]
 -   MobileNet [^Howard2017]
 -   EfficientNet [^Tan2019]
--   Object detection
-    -   Neptune.ai. (2021). [Object detection algorithms and libraries](https://neptune.ai/blog/object-detection-algorithms-and-libraries).
+-   VisionTransformer [^Dosovitskiy2020]
+-   EfficientNetV2 [^Tan2021]
+
+Resources:
+
+-   Neptune.ai. (2021). [Object detection algorithms and libraries](https://neptune.ai/blog/object-detection-algorithms-and-libraries).
+-   [facebookresearch/vissl](https://github.com/facebookresearch/vissl)
+-   [PyTorch Geometric (PyG)](https://pytorch-geometric.readthedocs.io/en/latest/)
 
 [^Ciresan2012]: @Ciresan_2012_Multi_column_deep_neural_network_for_traffic_sign\.
+[^Dosovitskiy2020]: @Dosovitskiy_2020_An_image_is_worth_16x16_words_Transformers\.
 [^Fukushima1982]: @Fukushima_1982_Neocognitron_A_new_algorithm_for_pattern\.
 [^He2015]: @He_2015_Deep_residual_learning_for_image_recognition\.
 [^Howard2017]: @Howard_2017_MobileNets_Efficient_convolutional_neural\.
@@ -1396,6 +1403,7 @@ Blogs:
 [^LeCun1998]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
 [^Simonyan2014]: @Simonyan_2014_Very_deep_convolutional_networks_for_large_scale\.
 [^Tan2019]: @Tan_2019_EfficientNet_Rethinking_model_scaling\.
+[^Tan2021]: @Tan_2021_EfficientNetV2_Smaller_models_and_faster_training\.
 
 
 ### Natural language processing
@@ -1730,7 +1738,10 @@ Automation
 -   Physical constratints in loss functions
 -   Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). [Physics informed deep learning (Part I)](https://arxiv.org/abs/1711.10561) and [(Part II)](https://arxiv.org/abs/1711.10566). [^Raissi2017IandII]
 -   Cranmer, K., Brehmer, J., & Louppe, G. (2019). [The frontier of simulation-based inference](https://arxiv.org/abs/1911.01429). [^Cranmer2019]
+-   Karniadakis, G.E. et al. (2021). Physics-informed machine learning. [^Karniadakis2021]
 -   Howard, J.N. et al. (2021). [Foundations of a fast, data-driven, machine-learned simulator](https://arxiv.org/abs/2101.08944). [^Howard2021]
+-   Thuerey, N. et al. (2021). [Physics-based deep learning](https://arxiv.org/abs/2109.05237). [^Thuerey2021]
+-   [physicsbaseddeeplearning.org](https://physicsbaseddeeplearning.org/intro.html)
 
 Lectures:
 
@@ -1738,8 +1749,10 @@ Lectures:
 
 [^Cranmer2019]: @Cranmer_2019_The_frontier_of_simulation_based_inference\.
 [^Howard2021]: @Howard_2021_Foundations_of_a_fast_data_driven_machine\.
+[^Karniadakis2021]: @Karniadakis_2021_Physics_informed_machine_learning\.
 [^Raissi2017IandII]: @Raissi_2017_Physics_informed_deep_learning_Part_I_Data and 
     @Raissi_2017_Physics_informed_deep_learning_Part_II_Data\.
+[^Thuerey2021]: @Thuerey_2021_Physics_based_deep_learning\.
 
 
 ### AutoScience
