@@ -444,6 +444,18 @@ magnified the discussion, when he claims that
 [^Putnam1975p73]: @Putnam_1975_Mathematics_Matter_and_Method\, p. 73.
 
 
+### Scientific progress
+
+-   The growth of knowledge [^Popper2002pxvii]
+
+See also:
+
+-   [Scientific knowledge](scientific-method.html#scientific-knowledge)
+
+[^Popper2002pxvii]: @Popper_2002_The_Logic_of_Scientific_Discovery\, p. xvii.
+    Preface to first English edition, 1959.
+
+
 Positivism
 --------------------------------------------------------------------------------
 
@@ -545,9 +557,10 @@ and constraining real structures in nature.
 1.  Hume's fork, the analytic/synthetic distinction
 2.  Verification theory of meaning: the meaning of a proposition is the means to verify it.
     All statements that cannot be empirically verified in principle are meaningless.
+    -   AKA the Verification Principle
     -   Scheinproblem = Pseudo-problem
 3.  Carnap's principle of tolerance
-    -   Principle of tolerance [^Leitgeb2020H]
+    -   Principle of Tolerance [^Leitgeb2020H]
 4.  Unity of science
 
 <center>

@@ -902,7 +902,7 @@ Sagan:
     -   French [^French2007pX2]
 -   Falsification, deductivism
     -   Karl Popper
-    -   *The Logic of Scientific Discovery* [^Popper1959]
+    -   *The Logic of Scientific Discovery* [^Popper2002]
 -   Pragmatic model
     -   C.S. Peirce
     -   Nola & Sankey [^Nola2007pXX]
@@ -941,7 +941,7 @@ See also:
 [^NewtonpX]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\, p. TODO.
 [^Nola2007pX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
 [^Nola2007pXX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
-[^Popper1959]: @Popper_1959_The_Logic_of_Scientific_Discovery\.
+[^Popper2002]: @Popper_2002_The_Logic_of_Scientific_Discovery\.
 [^Spivak2013]: @Spivak_2013_Category_theory_for_scientists\.
 [^Spivak2013p5]: @Spivak_2013_Category_theory_for_scientists\, p. 5.
 
