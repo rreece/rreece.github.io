@@ -270,6 +270,10 @@ Sellars:
 -   Callard, A. (2018). [How philosophy makes progress](https://dailynous.com/2018/05/27/how-philosophy-makes-progress-agnes-callard/).
 -   Priest, G. (2020). Philosophy and its history: An essay in the philosophy of philosophy. [^Priest2020]
 
+See also:
+
+-   [Scientific progress](scientific-realism.html#scientific-progress)
+
 [^Priest2020]: @Priest_2020_Philosophy_and_its_history_An_essay\.
 
 

@@ -877,7 +877,7 @@ Pragmatism
 
 ### Introduction
 
--   antirealist
+-   Antirealist
 -   Our confidence comes in continuous amounts.
     We might as well act as if a claim with a certain confidence
     is real, however, we really deny realism.
@@ -918,7 +918,7 @@ Postmodernism
 
 ### Introduction
 
--   antirealist, relativism
+-   Antirealist, relativism
 -   Conventionalism
 -   Social constructivism
 -   Incommensurability, impossibility of translation
@@ -1200,7 +1200,7 @@ Christian Hennig:
 
 See also:
 
--   [clustering](statistics.html#clustering)
+-   [Clustering](statistics.html#clustering)
 
 [^Hennig2010]: @Hennig_2010_Mathematical_models_and_reality_A_constructivist\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.

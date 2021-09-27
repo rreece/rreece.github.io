@@ -1012,9 +1012,9 @@ Classical machine learning
 
 ### Introduction
 
--   classification vs regression
--   supervised and unsupervised learning
-    -   classification = supervised; clustering = unsupervised
+-   Classification vs regression
+-   Supervised and unsupervised learning
+    -   Classification = supervised; clustering = unsupervised
 -   [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel) (1901-1990)
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
 -   *Information Theory, Inference, and Learning* [^MacKay2003]
