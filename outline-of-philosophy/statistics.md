@@ -1573,6 +1573,10 @@ More:
 
 -   [HEPML-LivingReview: A Living Review of Machine Learning for Particle Physics](https://iml-wg.github.io/HEPML-LivingReview/)
 
+See also:
+
+-   [Surrogate models](statistics.html#surrogate-models)
+
 
 Theoretical machine learning
 --------------------------------------------------------------------------------
