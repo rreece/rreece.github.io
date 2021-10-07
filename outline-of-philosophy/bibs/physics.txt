@@ -85,6 +85,7 @@ Tegmark, M. (1993). Apparent wave function collapse caused by scattering. *Found
 Teller, P. (1997). *An Interpretive Introduction to Quantum Field Theory*. Princeton University Press.
 't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. World Scientific.
 't Hooft, G. (2007). Lie Groups in Physics. http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf
+'t Hooft, G. (2021). An unorthodox view on quantum mechanics. https://arxiv.org/abs/2104.03179
 Tong, D. (2006). Lectures on Quantum Field Theory. https://www.damtp.cam.ac.uk/user/tong/qft.html
 Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
 Weinberg, S. (1967). A model of leptons. *Physical Review Letters*, 19, 1264--1266.

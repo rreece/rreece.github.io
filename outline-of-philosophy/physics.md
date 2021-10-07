@@ -884,6 +884,7 @@ Interpretations of quantum mechanics
 
 -   Relational quantum mechanics
 -   Transactional quantum mechanics
+-   TODO: 't Hooft, G. (2021). An unorthodox view on quantum mechanics.
 -   ...
 
 

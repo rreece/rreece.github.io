@@ -393,13 +393,7 @@ Category theory
 Unification programs
 --------------------------------------------------------------------------------
 
--   *Principia Mathematica*
--   [Hilbert's Program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
--   [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
--   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
--   [Univalent foundations](https://en.wikipedia.org/wiki/Univalent_foundations)
-    -   Category theory
-    -   [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html)
+### Introduction
 
 Yanofsky, N.S. (2016). Why mathematics works so well:
 
@@ -424,6 +418,37 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 >   are closely related. [^Aguirre2016p153]
 
 [^Aguirre2016p153]: Yanofsky (2016) In @Aguirre_2016_Trick_Or_Truth_The_mysterious_connection_between\, p. 153.
+
+
+### Hilbert's program
+
+-   [Hilbert's program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
+-   *Principia Mathematica*
+
+See also:
+
+-   [Logicism](#logicism)
+
+
+### Erlangen program
+
+-   [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
+
+
+### Langlands program
+
+-   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
+
+
+### Univalent foundations
+
+-   [Univalent foundations](https://en.wikipedia.org/wiki/Univalent_foundations)
+-   Category theory
+-   [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html)
+
+See also:
+
+-   [Category theory](#category-theory)
 
 
 Platonism
