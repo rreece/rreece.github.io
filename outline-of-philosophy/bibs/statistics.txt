@@ -12,7 +12,7 @@ Balasubramanian, V. (1996). Statistical inference, Occam's razor and statistical
 Batson, J., Haaf, C.G., Kahn, Y., & Roberts, D.A. (2021). Topological obstructions to autoencoding. https://arxiv.org/abs/2102.08380
 Belkin, M., Hsu, D., Ma, S., & Mandal, S. (2019). Reconciling modern machine-learning practice and the classical bias-variance trade-off. *Proceedings of the National Academy of Sciences*, 116(32), 15849--15854. https://arxiv.org/abs/1812.11118
 Bellman, R. (1952). On the theory of dynamic programming. *PNAS*, 38, 716--719.
-Bengio, Y. (2009). Learning deep architectures for AI. *Foundations and Trends in Machine Learning*, 2(1), 1--127.
+Bengio, Y. (2009). Learning deep architectures for AI. *Foundations and Trends in Machine Learning*, 2(1), 1--127. https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf
 Benjamin, D.J. et al. (2017). Redefine statistical significance. *PsyArXiv*. https://psyarxiv.com/mky9j/ [July 22, 2017]
 Benjamini, Y. et al. (2021). The ASA president's task force statement on statistical significance and replicability. *Annals of Applied Statistics*, 16, 1--2. https://magazine.amstat.org/blog/2021/08/01/task-force-statement-p-value/
 Bensusan, H. (2000). Is machine learning experimental philosophy of science? In *ECAI2000 Workshop notes on scientific Reasoning in Artificial Intelligence and the Philosophy of Science* (pp. 9--14).

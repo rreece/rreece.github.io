@@ -98,7 +98,7 @@ and machine translation.
     <i class="far fa-sticky-note" style="font-size:20px;"></i>&nbsp;&nbsp;[Selected talks](../talks/)
 
 
-### Thesis
+### Ph.D. thesis
 
 My graduate research in particle physics was on the reconstruction and identification of
 hadronic tau decays with the ATLAS experiment,
