@@ -884,8 +884,10 @@ Interpretations of quantum mechanics
 
 -   Relational quantum mechanics
 -   Transactional quantum mechanics
--   TODO: 't Hooft, G. (2021). An unorthodox view on quantum mechanics.
+-   't Hooft, G. (2021). An unorthodox view on quantum mechanics. [^tHooft2021]
 -   ...
+
+[^tHooft2021]: @tHooft_2021_An_unorthodox_view_on_quantum_mechanics\.
 
 
 ### Bad takes
