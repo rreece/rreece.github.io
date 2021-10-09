@@ -1717,12 +1717,13 @@ Information geometry
 
 ### Geometric understanding of deep learning
 
--   "Geometric understanding of deep learning" [^Lei2018]
--   Gao, Y. & Chaudhari, P. (2020). [An information-geometric distance on the space of tasks](https://arxiv.org/abs/2011.00613).
+-   Lei, N. et al. (2018). Geometric understanding of deep learning. [^Lei2018]
+-   Gao, Y. & Chaudhari, P. (2020). [An information-geometric distance on the space of tasks](https://arxiv.org/abs/2011.00613). [^Gao2020]
 -   Bronstein, M.M. et al. (2021). [Geometric deep learning: Grids, groups, graphs, geodesics, and gauges](https://arxiv.org/abs/2104.13478). [^Bronstein2021]
 
 [^Bronstein2021]: @Bronstein_2021_Geometric_deep_learning_Grids_groups_graphs\.
-[^Lei2018]: @Lei_2018_Geometric_understanding_of_deep_learning
+[^Gao2020]: @Gao_2020_An_information_geometric_distance\.
+[^Lei2018]: @Lei_2018_Geometric_understanding_of_deep_learning\.
 
 
 Automation
@@ -1785,17 +1786,37 @@ Lectures:
 Implications for the realism debate
 --------------------------------------------------------------------------------
 
+### Introduction
+
 -   Korb [^Korb2001]
 -   Williamson [^Williamson2009]
 -   Bensusan [^Bensusan2000]
--   Note that NLP has implications to the philosophy of language and realism
-    -   [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
--   See the [Outline on scientific realism](scientific-realism.html)
+
+See also:
+
+-   [Outline on scientific realism](scientific-realism.html)
 
 [^Bensusan2000]: @Bensusan_2000_Is_machine_learning_experimental_philosophy\.
 [^Korb2001]: @Korb_2001_Machine_learning_as_philosophy_of_science\.
-[^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
 [^Williamson2009]: @Williamson_2009_The_philosophy_of_science_and_its_relation\.
+
+
+### Word meanings
+
+-   Note that NLP has implications to the philosophy of language and realism
+-   [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
+
+[^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
+
+
+### Real clusters
+
+-   Nope: Hennig
+
+See also:
+
+-   [Clustering](#clustering)
+-   [Natural kinds](naturalism.html#natural-kinds)
 
 
 My thoughts
