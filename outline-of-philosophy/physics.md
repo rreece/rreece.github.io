@@ -710,7 +710,7 @@ Maudlin:
 
 ### Non-perturbative features
 
--   extended objects
+-   Extended objects [^tHooft1978]
 -   't Hooft [^tHooft1994-2]
 -   Sphalerons
 -   Instanton
@@ -718,6 +718,7 @@ Maudlin:
 -   Q-balls
 
 [^Shifman2012]: @Shifman_2012_Advanced_Topics_in_Quantum_Field_Theory_A_lecture\.
+[^tHooft1978]: @tHooft_1978_Extended_objects_in_gauge_field_theories\.
 [^tHooft1994-2]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 
 
