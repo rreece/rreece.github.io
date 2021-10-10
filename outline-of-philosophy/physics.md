@@ -175,6 +175,7 @@ Symmetry-first physics
 
 -   "The symmetries of the causes are to be found in the effects."
 -   Counting degrees of freedom
+-   Totalitarian principle: "Everything not forbidden is compulsory." - Murray Gell-Mann
 
 
 ### Noether's theorem
@@ -393,10 +394,12 @@ Baez, Segal, & Zhou on wave-particle duality:
 
 -   Coleman-Mandula theorem [^Coleman1967]
 -   Again, Noether's theorem
--   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification)
+-   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification) [^WignerClassification]
 -   CPT theorem
 
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
+[^WignerClassification]: @Wigner_1939_On_unitary_representations_of_the_inhomogeneous
+    and @Bargmann_1948_Group_theoretical_discussion_of_relativistic_wave\.
 
 
 #### Pedagogy
