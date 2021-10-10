@@ -32,6 +32,7 @@ Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical descriptio
 Feynman, R.P. (1963). *The Feynman Lectures on Physics, Volume I*. California Institute of Technology. http://www.feynmanlectures.caltech.edu/I_03.html
 Feynman, R.P. (1965). The Development of the Space-Time View of Quantum Electrodynamics. Nobel Lecture, December 11, 1965. http://www.nobelprize.org/nobel_prizes/physics/laureates/1965/feynman-lecture.html
 Feynman, R.P. & Hibbs, A.R. (1965). *Quantum Mechanics and Path Integrals*. Dover. [Emended edition (2005)]
+Frankel, T. (2004). *The Geometry of Physics* (2nd ed.). Cambridge University Press. 
 Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 1: Development of the Theory and Basic Physical Applications*. Springer.
 Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 2: Black Holes, Cosmology and Introduction to Supergravity*. Springer.
 Joos, E., Zeh, H.D., Kiefer, C., Giulini, D.,  Kupsch, J., Stamatescu, I.O. (2003). *Decoherence and the Appearance of a Classical World in Quantum Theory* (2nd ed.). Springer. [(Originally published in 1996)]

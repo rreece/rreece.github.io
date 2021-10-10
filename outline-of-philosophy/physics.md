@@ -146,6 +146,11 @@ TODO:
 -   [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) (1839-1903)
 
 
+### Thermodynamics
+
+-   Denker, J. (2021). [*Modern Thermodynamics*](http://www.av8n.com/physics/thermo/).
+
+
 ### Canonical ensemble 
 
 TODO:
@@ -657,6 +662,7 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
     -   Fiber bundles embody two central principles of modern physics:
         1.  the principle of locality
         2.  the gauge principle.
+-   *The Geometry of Physics* [^Frankel2004]
 
 >   Bundles are the *global* structure of physical fields and they are irrelevant
 >   only for the crude local and perturbative description of reality. [^nLab2021Fiber]
@@ -686,6 +692,7 @@ Maudlin:
 >   fiber bundles directly, not by trying to translate modern mathematics into
 >   archaic philosophical terminology. [^Maudlin2007p101]
 
+[^Frankel2004]: @Frankel_2004_The_Geometry_of_Physics\.
 [^Maudlin2007p96]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 96.
 [^Maudlin2007p101]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 101.
 [^nLab2021Fiber]: @nLab_2021_Fiber_bundles_in_physics\.
@@ -1139,8 +1146,11 @@ Complexity and emergence
 -   [Closer To Truth: What's Strong Emergence?](https://www.youtube.com/watch?v=zkffv2nVF64)
     -   George F. R. Ellis vs Barry Loewer
 -   John, Y.J. (2020). [An emergence reading list](https://yohanjohn.com/axispraxis/an-emergence-reading-list/).
--   See also the [Reductionism](naturalism.html#reductionism) in the
-    [Outline on naturalism](naturalism.html#reductionism).
+
+See also:
+
+-   [Reductionism](naturalism.html#reductionism) in the
+    [Outline on naturalism](naturalism.html#reductionism)
 
 Anderson:
 
