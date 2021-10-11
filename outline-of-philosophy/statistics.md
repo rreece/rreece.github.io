@@ -1722,7 +1722,7 @@ Information geometry
 -   Bronstein, M.M. et al. (2021). [Geometric deep learning: Grids, groups, graphs, geodesics, and gauges](https://arxiv.org/abs/2104.13478). [^Bronstein2021]
 
 [^Bronstein2021]: @Bronstein_2021_Geometric_deep_learning_Grids_groups_graphs\.
-[^Gao2020]: @Gao_2020_An_information_geometric_distance\.
+[^Gao2020]: @Gao_2020_An_information_geometric_distance_on_the_space\.
 [^Lei2018]: @Lei_2018_Geometric_understanding_of_deep_learning\.
 
 
