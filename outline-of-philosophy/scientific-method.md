@@ -841,9 +841,10 @@ See also:
 
 ### Meta-induction as a solution to the problem of induction
 
--   Earnshaw, E. (2017). [How I solved Hume's problem and why nobody will believe me](https://philosophynow.org/issues/119/How_I_Solved_Humes_Problem_and_Why_Nobody_Will_Believe_Me). *Philosophy Now*.
+-   Earnshaw, E. (2017). [How I solved Hume's problem and why nobody will believe me](https://philosophynow.org/issues/119/How_I_Solved_Humes_Problem_and_Why_Nobody_Will_Believe_Me). [^Earnshaw2017]
 -   Schurz, G. (2019). *Hume's Problem Solved: The optimality of meta-induction*. [^Schurz2019]
 
+[^Earnshaw2017]: @Earnshaw_2017_How_I_solved_Humes_problem_and_why_nobody_will\.
 [^Schurz2019]: @Schurz_2019_Humes_Problem_Solved_The_optimality_of_meta\.
 
 
