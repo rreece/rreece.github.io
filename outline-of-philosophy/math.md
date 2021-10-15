@@ -697,7 +697,7 @@ Intuitionism
 -   Leopold Kronecker's finitism was a forerunner of intuitionism in foundations of mathematics.
 -   Kronecker: "God made the integers, all else is the work of man".
 -   L.E.J. Brouwer (1881-1966)
-    -   Brouwer, L.E.J. (1908). Unreliability of the logical principles. Translation: [1511.01113](https://arxiv.org/abs/1511.01113)
+    -   Brouwer, L.E.J. (1908). [Unreliability of the logical principles](https://arxiv.org/abs/1511.01113). [^Brouwer1908]
 -   Constructive mathematics
 
 Hilbert: 
@@ -705,6 +705,7 @@ Hilbert:
 >   Taking the Principle of the Excluded Middle from the mathematician ...
 >   is the same as ... prohibiting the boxer the use of his fists. [^Reid1996p149]
 
+[^Brouwer1908]: @Brouwer_1908_Unreliability_of_the_logical_principles\.
 [^Reid1996p149]: @Reid_1996_Hilbert\, p. 149.
 
 

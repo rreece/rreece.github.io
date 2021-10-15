@@ -224,9 +224,13 @@ Churchland:
     -   Harris, S., Blackford, R., & Born, R. (2014). [The moral landscape challenge: The winning essay](https://samharris.org/the-moral-landscape-challenge/).
 -   Putnam
     -   *The Collapse of the Fact-value Dichotomy and Other Essays* [^Putnam2004]
--   See also the [Outline on naturalism](naturalism.html#moral-naturalism).
+
+See also:
+
+-   [Moral naturalism](naturalism.html#moral-naturalism) in the [Outline on naturalism](naturalism.html#moral-naturalism)
 
 [^Harris2010]: @Harris_2010_The_Moral_Landscape_How_science_can_determine\.
+
 
 ### Economics
 
@@ -238,6 +242,7 @@ Churchland:
 -   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
 -   Don Ross
 
+
 ### Criticism
 
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
@@ -246,8 +251,10 @@ Churchland:
     -   G.E. Moore's [Open-question argument](https://en.wikipedia.org/wiki/Open-question_argument)
     -   [Moore's Moral Philosophy](https://plato.stanford.edu/entries/moore-moral/)
     -   Russell, G. (2020). Logic isn't normative. [^Russell2020]
--   See also:
-    -   [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](naturalism.html)
+
+See also:
+
+-   [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](naturalism.html)
 
 [^Russell2020]: @Russell_2020_Logic_isnt_normative\.
 
@@ -319,6 +326,7 @@ Free speech
 ### Hate speech
 
 -   TODO
+-   [Section 230](https://en.wikipedia.org/wiki/Section_230)
 
 
 ### Copyright
@@ -345,8 +353,9 @@ Waves:
 3.  Third wave (1990s-2012)
 4.  Fourth wave (2012-present)
 
--   See also:
-    -   [Feminist epistemology](scientific-realism.html#feminist-epistemology)
+See also:
+
+-   [Feminist epistemology](scientific-realism.html#feminist-epistemology)
 
 
 Regret
@@ -363,8 +372,10 @@ Thoreau:
 -   Pigliucci, M. (2016). [What's the point of regret?](https://howtobeastoic.wordpress.com/2016/11/25/whats-the-point-of-regret/).
 -   Danaher, J. (2019). [The wisdom of regret and the fallacy of regret minimisation](https://philosophicaldisquisitions.blogspot.com/2019/01/the-wisdom-of-regret-and-fallacy-of.html).
 -   Malesic, J. (2020). [Je regrette tout: Does moral growth demand regret?](https://hedgehogreview.com/issues/monsters/articles/je-regrette-tout).
--   See also: [Depression](human-condition.html#depression) in the [Outline on the human condition](human-condition.html).
-    -   Analytical rumination hypothesis
+
+See also: [Depression](human-condition.html#depression) in the [Outline on the human condition](human-condition.html).
+
+-   Analytical rumination hypothesis
 
 [^Thoreau13Nov1839]: *The Journal* of Henry David Thoreau, November 13, 1839.
     (What the hell did Thoreau know about regret at age 22?)

@@ -52,7 +52,15 @@ Discussion:
 -   Boltzmann
 -   [Johannes Diderik van der Waals](https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals) (1837-1923)
 -   Modern [Atomism](https://en.wikipedia.org/wiki/Atomism)
--   Planck, J.J. Thomson, Rutherford, Einstein
+-   Planck, J.J. Thomson, Rutherford
+-   [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion)
+    -   Einstein [^Einstein1905b]
+    -   Perrin, J. (1913). *Les Atomes*. [^Perrin1913]
+    -   Patterson [^Patterson2007]
+
+[^Einstein1905b]: @Einstein_1905_Uber_die_von_der_molekularkinetischen_theorie\.
+[^Patterson2007]: @Patterson_2007_Jean_Perrin_and_the_triumph_of_the_atomic\.
+[^Perrin1913]: @Perrin_1913_Les_Atomes\.
 
 
 ### Contemporary views of matter
@@ -113,16 +121,23 @@ Pedagogy:
 
 ### Special relativity
 
+History:
+
 -   [Ernst Mach](https://en.wikipedia.org/wiki/Ernst_Mach) (1838-1916)
     -   Mach's principle
 -   [Hendrik Lorentz](https://en.wikipedia.org/wiki/Hendrik_Lorentz) (1853-1928)
 -   [Henri Poincar&eacute;](https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9) (1854-1912)
 -   [Hermann Minkowski](https://en.wikipedia.org/wiki/Hermann_Minkowski) (1864-1909)
 -   [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (1879-1955)
-    -   Einstein, A. (1905). On the electrodynamics of moving bodies. [^Einstein1905]
--   TODO: Maudlin [^Maudlin2012pX]
+    -   Einstein, A. (1905). On the electrodynamics of moving bodies. [^Einstein1905c]
+    -   Einstein, A. (1905). Does the inertia of a body depend upon its energy content? [^Einstein1905d]
 
-[^Einstein1905]: @Einstein_1905_On_the_electrodynamics_of_moving_bodies\.
+Pedagogy:
+
+-   Maudlin [^Maudlin2012pX]
+
+[^Einstein1905c]: @Einstein_1905_Zur_elektrodynamik_bewegter_korper\.
+[^Einstein1905d]: @Einstein_1905_Ist_die_tragheit_eines_korpers_von_seinem\.
 [^Maudlin2012pX]: @Maudlin_2012_Philosophy_of_Physics_Space_and_Time\, p. TODO.
 
 
@@ -163,9 +178,11 @@ TODO:
 
 -   Phase transitions
 -   Renormalization
--   See also:
-    -   [Emergence](#emergence)
-    -   [Renormalization](#renormalization)
+
+See also:
+
+-   [Emergence](#emergence)
+-   [Renormalization](#renormalization)
 
 
 Symmetry-first physics
@@ -197,7 +214,10 @@ Symmetry-first physics
 -   Wigner's classification
 -   Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. [^Schweber1961]
 -   Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. [^Schroeren2021]
--   See also: [Quantum field theory](#quantum-field-theory)
+
+See also:
+
+-   [Quantum field theory](#quantum-field-theory)
 
 [^Schroeren2021]: @Schroeren_2021_Symmetry_fundamentalism_in_quantum_mechanics\.
 [^Schweber1961]: @Schweber_1961_An_Introduction_to_Relativistic_Quantum_Field\, p. TODO.
@@ -311,7 +331,10 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 -   Drossel [^Drossel2015]
 -   My quora answer: [What is currently the best explanation for how and why the quantum wave function collapses?](https://www.quora.com/What-is-currently-the-best-explanation-for-how-and-why-the-quantum-wave-function-collapses/answer/Ryan-Reece)
 -   Decoherence and Everett's interpretation
-    -   See also:[Everettian interpretation](#everettian-interpretation)
+
+See also:
+
+-   [Everettian interpretation](#everettian-interpretation)
 
 [^Drossel2015]: @Drossel_2015_On_the_relation_between_the_second_law\, p. 51--2.
 [^Joos2003]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\.
@@ -359,12 +382,13 @@ Baez, Segal, & Zhou:
 >   subject. [^Baez1992p1]
 
 [^Baez1992p1]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 1.
-[^Feynman1965]: @Feynman_1965_The_Development_of_the_Space_Time_View_of_Quantum\.
+[^Feynman1965]: @Feynman_1965_The_development_of_the_space_time_view_of_quantum\.
 [^Weinberg1997p8]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\, p. 8.
 
 
 #### Wave-particle duality
 
+-   Einstein, A. (1905). On a heuristic point of view about the creation and conversion of light. [^Einstein1905a]
 -   Wolchover, N. (2020). [What is a particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 
 Weinberg on wave-particle duality:
@@ -387,6 +411,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 >   representation. [^Baez1992p59]
 
 [^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
+[^Einstein1905a]: @Einstein_1905_Uber_einen_die_erzeugung_und_verwandlung_des\.
 [^Weinberg1997p2]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\, p. 2.
 
 
@@ -396,8 +421,14 @@ Baez, Segal, & Zhou on wave-particle duality:
 -   Again, Noether's theorem
 -   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification) [^WignerClassification]
 -   CPT theorem
+    -   Bell, J.S. (1955). Time reversal in field theory. [^Bell1955]
+    -   Streater, R. & Wightman, A. (1964). *PCT, spin and statistics, and all that*. [^Streater1964]
+    -   Greaves, H. & Thomas, T. (2012). [The CPT Theorem](https://arxiv.org/abs/1204.4674). [^Greaves2012]
 
+[^Bell1955]: @Bell_1955_Time_reversal_in_field_theory\.
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
+[^Greaves2012]: @Greaves_2012_The_CPT_Theorem\.
+[^Streater1964]: @Streater_1964_PCT_spin_and_statistics_and_all_that\.
 [^WignerClassification]: @Wigner_1939_On_unitary_representations_of_the_inhomogeneous
     and @Bargmann_1948_Group_theoretical_discussion_of_relativistic_wave\.
 
@@ -521,7 +552,7 @@ Michael Atiyah:
 [^Williams2019]: @Williams_2019_Scientific_realism_made_effective\.
 
 
-### Foundations
+### Foundations of QFT
 
 #### Introduction
 
@@ -710,10 +741,12 @@ Maudlin:
 -   [Cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
 -   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos) - nLab
 -   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) [^Baez2009]
--   See also:
-    -   [Category theory](math.html#category-theory)
-    -   [Differential geometry](math.html#differential-geometry) in the outline
-        on [mathematics](math.html).
+
+See also:
+
+-   [Category theory](math.html#category-theory)
+-   [Differential geometry](math.html#differential-geometry) in the outline
+    on [mathematics](math.html).
 
 [^Baez2009]: @Baez_2009_Physics_topology_logic_and_computation\.
 [^Healey2007ch2]: @Healey_2007_Gauging_Whats_Real\, ch. 2-4.
@@ -747,7 +780,6 @@ Maudlin:
     -   [Supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - ncatlab.org
     -   [Superalgebra](https://en.wikipedia.org/wiki/Superalgebra)
 -   SUSY GUTs
-    -   See also: [Grand unification](physics.html#grand-unification)
 -   Supergravity
     -   Reviewed by Fr&egrave; [^Fre2013v2ch6]
 -   Pedagogy
@@ -761,6 +793,9 @@ Urs Schreiber:
 >   (algebraic) super-groups precisely exhausts the moduli space of possible
 >   consistent local spacetime symmetry groups. [^Schreiber2016]
 
+See also:
+
+-   [Grand unification](physics.html#grand-unification)
 
 [^Fre2013v2ch6]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 6.
 [^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries\.
@@ -793,7 +828,9 @@ Interpretations of quantum mechanics
 
 ### EPR paradox
 
--   TODO
+-   Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? [^Einstein1935]
+
+[^Einstein1935]: @Einstein_1935_Can_quantum_mechanical_description_of_physical\.
 
 
 ### Bell's theorem
@@ -932,29 +969,52 @@ The standard model of particle physics
 
 ### Mixing
 
--   Cabibbo angle (1963)
+-   Cabibbo angle (1963) [^Cabibbo1963]
 -   CP violation
 -   CKM matrix
 -   Kaons
 -   B-mesons
 
+[^Cabibbo1963]: @Cabibbo_1963_Unitary_symmetry_and_leptonic_decays\.
+
 
 ### Higgs mechanism
 
--   Higgs mechanism (1964)
--   On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214) and [CMS](https://arxiv.org/abs/1207.7235)
-    experiments both [announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
-    a key to explaining electroweak symmetry breaking in the Standard Model of particle physics.
+In 1964, three groups: Robert Brout and Francois Englert [^Englert1964];
+Peter Higgs [^Higgs1964]; and Gerald Guralnik, Carl R. Hagen, and Tom Kibble [^Guralnik1964],
+independently demonstrated an exception to Goldstone’s theorem,
+showing that Goldstone bosons do not occur when a spontaneously broken symmetry is
+local. Instead, the Goldstone mode provides the third polarization of a massive vector field,
+resulting in massive gauge bosons. The other mode of the original scalar doublet remains as a
+massive spin-zero particle, the Higgs boson. This is the Englert-Brout-Higgs-Guralnik-Hagen-Kibble mechanism,
+or *Higgs mechanism*. In the Standard Model, the Higgs boson also couples
+to the fermions, generating their bare masses.
+
+On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214) [^ATLAS2012] and [CMS](https://arxiv.org/abs/1207.7235) [^CMS2012]
+experiments both [announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
+a key to explaining electroweak symmetry breaking in the Standard Model of particle physics.
+
+[^ATLAS2012]: @ATLAS_2012_Observation_of_a_new_particle_in_the_search\.
+[^CMS2012]: @CMS_2012_Observation_of_a_new_boson_at_a_mass_of_125_GeV\.
+[^Englert1964]: @Englert_1964_Broken_symmetry_and_the_mass_of_gauge_vector\.
+[^Higgs1964]: @Higgs_1964_Broken_symmetries_massless_particles_and_gauge\.
+[^Guralnik1964]: @Guralnik_1964_Global_conservation_laws_and_massless_particles\.
 
 
 ### A model of leptons
 
--   A model of leptons (1967) [^Weinberg1967]
+-   Glashow, S. (1961). Partial symmetries of weak interactions. [^Glashow1961]
+-   Weinberg, S. (1967). A model of leptons. [^Weinberg1967]
+-   Salam, A. & Ward, J.C. (1964). Gauge theory of elementary interactions. [^Salam1964a]
+-   Salam, A. & Ward, J.C. (1964). Electromagnetic and weak interactions.  [^Salam1964b]
 -   GWS electroweak theory: SU(2) $\times$ U(1)
 -   Weinberg, S. (1979). [Conceptual foundations of the unified theory of weak and electromagnetic interactions](https://www.nobelprize.org/uploads/2018/06/weinberg-lecture.pdf). Nobel Lecture, December 8, 1979. [^Weinberg1979]
 -   Weinberg - Model physicst [^Chalmers2017]
 
 [^Chalmers2017]: @Chalmers_2017_Model_physicist\.
+[^Glashow1961]: @Glashow_1961_Partial_symmetries_of_weak_interactions\.
+[^Salam1964a]: @Salam_1964_Gauge_theory_of_elementary_interactions\.
+[^Salam1964b]: @Salam_1964_Electromagnetic_and_weak_interactions\.
 [^Weinberg1967]: @Weinberg_1967_A_model_of_leptons\.
 [^Weinberg1979]: @Weinberg_1979_Conceptual_foundations_of_the_unified_theory\.
 
@@ -996,6 +1056,15 @@ Beyond the standard model
 -   Neutrino masses and mixings
 -   PMNS matrix and CP-violation
 -   Are neutrinos Marojana or Dirac fermions?
+-   LSND anomaly
+    -   LSND: 1996 [^LSND1996] and 2001 [^LSND2001]
+    -   MiniBooNE [^MiniBooNE2018]
+    -   MicroBooNE [^MicroBooNE2021]
+
+[^LSND1996]: @LSND_1996_Evidence_for_neutrino_oscillations_from_muon_decay\.
+[^LSND2001]: @LSND_2001_Evidence_for_neutrino_oscillations_from\.
+[^MiniBooNE2018]: @MiniBooNE_2018_Significant_excess_of_electron_like_events\.
+[^MicroBooNE2021]: @MicroBooNE_2021_Search_for_neutrino_induced_neutral_current\.
 
 
 ### Ad hoc structures
@@ -1007,15 +1076,17 @@ Beyond the standard model
 -   3 generations
 -   Hierarchy problem(s)
 -   Dark matter and dark energy
-    -   See also: [Dark matter](physics.html#dark-matter)
-    -   See also: [Dark energy](physics.html#dark-energy)
+
+See also:
+
+-   [Dark matter](physics.html#dark-matter)
+-   [Dark energy](physics.html#dark-energy)
 
 
 ### Grand unification
 
 -   Running of the couplings
 -   Supersymmetry
-    -   See also: [Supersymmetry](physics.html#supersymmetry)
     -   Minimal Supersymmetric Standard Model (MSSM)
 -   Grand Unified Theories (GUTs)
     -   Pati & Salam [^Pati1974]
@@ -1029,10 +1100,15 @@ Beyond the standard model
     threshold varied between 750 GeV (blue) and 2.5 TeV (red). [^Martin2016p66]
     ](img/martin-running-of-the-couplings.png){#fig:martin-running-of-the-couplings}
 
+See also:
+
+-   [Supersymmetry](physics.html#supersymmetry)
+
 [^Glashow1974]: @Georgi_1974_Unity_of_all_elementary_particle_forces\.
 [^Martin2016p66]: @Martin_2016_A_supersymmetry_primer\, p. 66.
 [^Pati1974]: @Pati_1974_Lepton_number_as_the_fourth_color\.
 [^Slansky1981]: @Slansky_1981_Group_theory_for_unified_model_building\.
+
 
 ### g-2
 
@@ -1044,7 +1120,7 @@ Beyond the standard model
 
 ### Future colliders and criticisms
 
--   Baggot, J. (2013). *Farewell to Reality* [^Baggott2013]
+-   Baggot, J. (2013). *Farewell to Reality*. [^Baggott2013]
 -   CERN. (2020). [Press Release: Particle physicists update strategy for the future of the field in Europe](https://home.cern/news/news/physics/particle-physicists-update-strategy-future-field-europe). ("FCC")
 -   Hossenfelder, S. (2020). [The world doesn't need a new gigantic particle collider](https://www.scientificamerican.com/article/the-world-doesnt-need-a-new-gigantic-particle-collider/).
 
@@ -1059,8 +1135,8 @@ Gravity and cosmology
 -   Recall [Special relativity](#special-relativity).
 -   [Bernhard Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) (1826-1866)
 -   Einstein, A. & Grossmann, M. (1913). Outline of a generalized theory of relativity and of a theory of gravitation. [^Einstein1913]
--   *Gravitation* [^Misner1973]
--   *Spacetime and Geometry* [^Carroll2004]
+-   MTW. (1973). *Gravitation*. [^Misner1973]
+-   Carroll, S. (2004). *Spacetime and Geometry*. [^Carroll2004]
 
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
 [^Einstein1913]: @Einstein_1913_Entwurf_einer_verallgemeinerten\.
@@ -1112,6 +1188,15 @@ Gravity and cosmology
 ![How the $\Lambda$-CDM concordance model of cosmology was developed. [^Debono2016f4]](img/concordance-model-LCDM.png){#fig:concordance-model-LCDM}
 
 [^Debono2016f4]: @Debono_2016_General_relativity_and_cosmology_Unsolved\, figure 4.
+
+
+### Gravitational waves
+
+-   Poincar&eacute;
+-   Einstein
+-   [Hulse–Taylor binary pulsar](https://en.wikipedia.org/wiki/Hulse%E2%80%93Taylor_binary)
+-   LIGO
+-   [Multi-messenger astronomy](https://en.wikipedia.org/wiki/Multi-messenger_astronomy)
 
 
 ### Alternative theories of gravity
