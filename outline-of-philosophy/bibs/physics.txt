@@ -103,6 +103,8 @@ Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. H
 Schweber, S.S. (1993). The ebb and flow of of reductionism. In Brown, L.M. (Ed.) *Renormalization: From Lorentz to Landau (and Beyond)* (pp. 155-166). Springer-Verlag.
 Sebens, C.T. (2019). How electrons spin. *Studies in History and Philosophy of Science Part B*, 68, 40--50. https://arxiv.org/abs/1806.01121
 Seidewitz, E. (2017). Avoiding Haag's Theorem with Parameterized Quantum Field Theory. *Foundations of Physics*, 47(3), 355--374.
+Schreiber, U. (2016). Learn about supersymmetry and Deligne’s theorem. https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/
+Schreiber, U. (2020). Differential cohomology in a cohesive $\infty$-topos. https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos
 Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.
 Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, III. https://space.mit.edu/home/tegmark/everett/
 Slansky, R. (1981). Group theory for unified model building. *Physics Reports*, 79, 1--128. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1581&rep=rep1&type=pdf

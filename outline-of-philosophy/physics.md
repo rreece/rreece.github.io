@@ -739,7 +739,7 @@ Maudlin:
 -   Simon Donaldson and Edward Witten
 -   [Chern–Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
 -   [Cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
--   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos) - nLab
+-   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos). [^Schreiber2020]
 -   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) [^Baez2009]
 
 See also:
@@ -750,6 +750,7 @@ See also:
 
 [^Baez2009]: @Baez_2009_Physics_topology_logic_and_computation\.
 [^Healey2007ch2]: @Healey_2007_Gauging_Whats_Real\, ch. 2-4.
+[^Schreiber2020]: @Schreiber_2020_Differential_cohomology_in_a_cohesive\.
 
 
 ### Non-perturbative features
@@ -800,7 +801,7 @@ See also:
 [^Fre2013v2ch6]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 6.
 [^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries\.
 [^Martin2016]: @Martin_2016_A_supersymmetry_primer\.
-[^Schreiber2016]: Schreiber, U. (2016). [Learn about supersymmetry and Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/).
+[^Schreiber2016]: @Schreiber_2016_Learn_about_supersymmetry_and_Delignes_theorem\.
 
 
 Interpretations of quantum mechanics
