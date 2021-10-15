@@ -1014,7 +1014,7 @@ Various reactions to positivism.
 -   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
 -   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986]
 -   Quine-Carnap correspondence [^Quine1990-2]
--   Does ontology rest on a mistake? [^Yablo1998]
+-   Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? [^Yablo1998]
 
 See also:
 
