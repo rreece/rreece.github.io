@@ -218,6 +218,9 @@ Symmetry-first physics
 
 ### Wigner-Stone theorems
 
+-   Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. [^Wigner1959]
+-   Simon, B. (1976). Quantum dynamics: from automorphism to Hamiltonian. [^Simon1976]
+-   Keller, Papadopoulos, & Reyes-Lega. (2007). On the realization of symmetries in quantum mechanics. [^Keller2007]
 -   Wigner-Stone theorems as cornerstones of QM (Ovrut)
 -   Wigner's classification
 -   Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. [^Schweber1961]
@@ -227,8 +230,11 @@ See also:
 
 -   [Quantum field theory](#quantum-field-theory)
 
+[^Keller2007]: @Keller_2007_On_the_realization_of_symmetries_in_quantum\.
 [^Schroeren2021]: @Schroeren_2021_Symmetry_fundamentalism_in_quantum_mechanics\.
 [^Schweber1961]: @Schweber_1961_An_Introduction_to_Relativistic_Quantum_Field\, p. TODO.
+[^Simon1976]: @Simon_1976_Quantum_dynamics_from_automorphism_to_Hamiltonian\.
+[^Wigner1959]: @Wigner_1959_Group_Theory_and_its_Application_to_the_Quantum\.
 
 
 Quantum mechanics
@@ -467,7 +473,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 -   Sebens [^Sebens2019]
 
 [^Ohanian1986]: @Ohanian_1986_What_is_spin\.
-[^Peskin1994]: @Peskin_1994_Spin_Mass_and_Symmetry\.
+[^Peskin1994]: @Peskin_1994_Spin_mass_and_symmetry\.
 [^Sebens2019]: @Sebens_2019_How_electrons_spin\.
 
 

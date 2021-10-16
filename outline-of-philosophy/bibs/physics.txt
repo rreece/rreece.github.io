@@ -67,6 +67,7 @@ Higgs, P.W. (1964). Broken symmetries, massless particles and gauge fields. *Phy
 Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. *Synthese*, 102(1), 171--194.
 Kadanoff, L.P. (2013). Theories of matter: Infinities and renormalization. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 109-141). Oxford University Press. https://arxiv.org/abs/1002.2985
 Kastler, D. (2003). Rudolf Haag---Eighty Years. *Communications in Mathematical Physics*, 237, 3--6.
+Keller, K.J., Papadopoulos, M.A., & Reyes-Lega, A.F. (2007). On the realization of symmetries in quantum mechanics. https://arxiv.org/abs/0712.0997
 Kelvin, L. (1901). Nineteenth century clouds over the dynamical theory of heat and light. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, 2, 1--40. https://www.equipes.lps.u-psud.fr/Montambaux/histoire-physique/Kelvin-1900.pdf
 Klaczynski, L. (2016). Haag's theorem in renormalised quantum field theories. https://arxiv.org/abs/1602.00662
 Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. *Nuovo Cimento*, 1, 205--225.
@@ -93,7 +94,7 @@ Ohanian, H.C. (1986). What is spin? *American Journal of Physics*, 54, 500.
 Pati, J.C. & Salam, A. (1974). Lepton number as the fourth color. *Physical Review D*, 10, 275--289. https://pdfs.semanticscholar.org/21fb/f9d49acf3e3f07098ca686ae4058c38dbd03.pdf
 Patterson, G. (2007). Jean Perrin and the triumph of the atomic doctrine. *Endeavour*, 31, 50--53.
 Perrin, J. (1913). *Les Atomes*. Paris: Libraire Felix Alcan.
-Peskin, M.E. (1994). Spin, Mass, and Symmetry. https://arxiv.org/abs/hep-ph/9405255
+Peskin, M.E. (1994). Spin, mass, and symmetry. https://arxiv.org/abs/hep-ph/9405255
 Peskin, M.E. & Schroeder, D.V. (1995). *An Introduction to Quantum Field Theory*. Westview Press.
 Preskill, J. (2013). We are all Wilsonians now. https://quantumfrontiers.com/2013/06/18/we-are-all-wilsonians-now/
 Preskill, J. (2018). Quantum computing in the NISQ era and beyond. https://arxiv.org/abs/1801.00862
@@ -116,6 +117,7 @@ Schreiber, U. (2016). Learn about supersymmetry and Deligne’s theorem. https:/
 Schreiber, U. (2020). Differential cohomology in a cohesive $\infty$-topos. https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos
 Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.
 Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, III. https://space.mit.edu/home/tegmark/everett/
+Simon, B. (1976). Quantum dynamics: from automorphism to Hamiltonian. In Lieb, E.H. (Ed.) *Studies in Mathematical Physics: Essays in Honor of Valentine Bargmann* (pp. 327-350). Princeton University Press. http://www.math.caltech.edu/SimonPapers/R12.pdf
 Slansky, R. (1981). Group theory for unified model building. *Physics Reports*, 79, 1--128. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1581&rep=rep1&type=pdf
 Streater, R. & Wightman, A. (1964). *PCT, spin and statistics, and all that*. New York: Benjamin.
 Tegmark, M. (1993). Apparent wave function collapse caused by scattering. *Foundations of Physics Letters*, 6, 571--590. https://arxiv.org/abs/gr-qc/9310032
@@ -133,6 +135,7 @@ Weinberg, S. (1979). Conceptual foundations of the unified theory of weak and el
 Weinberg, S. (1997). What is quantum field theory, and what did we think it is? *Conceptual foundations of quantum field theory: Proceedings, Symposium and Workshop, Boston, USA, March 1-3, 1996*. http://arxiv.org/abs/hep-th/9702027
 Wigner, E.P. (1939). On unitary representations of the inhomogeneous Lorentz group. *Annals of Mathematics*, 40, 149--204.
 Wigner, E.P. (1954). Conservation laws in classical and quantum physics. *Progress of Theoretical Physics*, 11, 437--440. https://academic.oup.com/ptp/article/11/4-5/437/1831457
+Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. Academic Press. [(Originally published in German in 1931)]
 Williams, P. (2019). Scientific realism made effective. *British Journal for the Philosophy of Science*, 70, 209--237. https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axx043
 Zee, A. (2003). *Quantum Field Theory in a Nutshell*. Princeton University Press.
 Zeidler, E. (2007). *Quantum Field Theory I: Basics in mathematics and physics, Vol. 1*. Springer.
