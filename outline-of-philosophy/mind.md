@@ -152,10 +152,11 @@ Language
 -   Sapir-Whorf hypothesis AKA [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity)
 -   Hurlburt, R.T. (2011). [Not everyone conducts inner speech](https://www.psychologytoday.com/gb/blog/pristine-inner-experience/201110/not-everyone-conducts-inner-speech).
 -   Grzankowski, A. (2015). Not all attitudes are propositional. [^Grzankowski2015]
--   McCarthy, C. (2017). [The Kekul&eacute; Problem](https://nautil.us/issue/47/consciousness/the-kekul-problem).
+-   McCarthy, C. (2017). [The Kekul&eacute; Problem](https://nautil.us/issue/47/consciousness/the-kekul-problem). [^McCarthy2017]
     -   "the unconscious is a machine for operating an animal."
 
 [^Grzankowski2015]: @Grzankowski_2015_Not_all_attitudes_are_propositional\.
+[^McCarthy2017]: @McCarthy_2017_The_Kekule_Problem\.
 
 
 ### Animal cognition

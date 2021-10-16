@@ -289,6 +289,8 @@ Feynman and Hibbs on the uncertainty principle:
 -   Heisenberg
 -   Schr&ouml;dinger
 -   Born
+-   von Neumann
+-   Pauli
 
 [^Kelvin1901]: @Kelvin_1901_Nineteenth_century_clouds_over_the_dynamical\.
 
@@ -767,7 +769,7 @@ Maudlin:
 -   [Chern–Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
 -   [Cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
 -   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos). [^Schreiber2020]
--   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340) [^Baez2009]
+-   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340). [^Baez2009]
 
 See also:
 
