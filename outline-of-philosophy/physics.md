@@ -99,6 +99,7 @@ Pedagogy:
 
 -   *The Feynman Lectures on Physics* [^Feynman1963]
 -   Holm's *Geometric Mechanics* [^Holm2011]
+-   't Hooft, G. [How to become a GOOD Theoretical Physicist](https://www.goodtheorist.science/).
 
 [^Feynman1963]: @Feynman_1963_The_Feynman_Lectures_on_Physics_Volume_I\.
 [^Holm2011]: @Holm_2011_Geometric_Mechanics_Part_I_Dynamics and
@@ -164,14 +165,12 @@ TODO:
 ### Thermodynamics
 
 -   Denker, J. (2021). [*Modern Thermodynamics*](http://www.av8n.com/physics/thermo/).
+-   The 2nd Law of Thermodynamics said simply: Things tend to happen in ways for which there are many ways to happen like that.
 
 
 ### Canonical ensemble 
 
-TODO:
-
 -   Canonical ensemble
--   The 2nd Law of Thermodynamics said simply: Things tend to happen in ways for which there are many ways to happen like that.
 
 
 ### Phase translations
@@ -195,17 +194,26 @@ Symmetry-first physics
 -   Totalitarian principle: "Everything not forbidden is compulsory." - Murray Gell-Mann
 
 
-### Noether's theorem
+### Noether's theorems
 
--   Principle of least action
+-   Principle of least action, Lagrangians
 -   Canonical dynamics
--   group theory [^tHooft2007]
+-   Noether, E. (1918). Invariante variationsprobleme. [^Noether1918]
+-   TODO: Noether's first and second theorem.
+-   Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. [^Brading2002]
+-   Baez, J.C. (2018). [Getting to the bottom of Noether’s theorem](https://math.ucr.edu/home/baez/noether/noether_web.pdf). Talk given at [The Philosophy and Physics of Noether’s Theorems](https://philosophy.nd.edu/news/events/noether/). [^Baez2018]
+-   Wigner, E.P. (1954). Conservation laws in classical and quantum physics. [^Wigner1954]
+-   't Hooft, G. (2007). [Lie groups in physics](http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf). [^tHooft2007]
 -   *Physics from Symmetry* [^Schwichtenberg2015]
 -   Goyal, P. (2020). Derivation of classical mechanics in an energetic framework via conservation and relativity. [^Goyal2020]
 
+[^Baez2018]: @Baez_2018_Getting_to_the_bottom_of_Noethers_theorem\.
+[^Brading2002]: @Brading_2002_Which_symmetry_Noether_Weyl_and_conservation\.
 [^Goyal2020]: @Goyal_2020_Derivation_of_classical_mechanics_in_an_energetic\.
+[^Noether1918]: @Noether_1918_Invariante_variationsprobleme\.
 [^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
-[^tHooft2007]: @tHooft_2007_Lie_Groups_in_Physics\.
+[^tHooft2007]: @tHooft_2007_Lie_groups_in_physics\.
+[^Wigner1954]: @Wigner_1954_Conservation_laws_in_classical_and_quantum\.
 
 
 ### Wigner-Stone theorems
@@ -496,11 +504,11 @@ Michael Atiyah:
 -   LSZ reduction formula [^Lehmann1955]
 -   Haag-Ruelle scattering theory
 -   Feynman diagrams and Feynman rules
--   Martin [^Martin2018]
+-   Martin, S.P. (2011). [Phenomenology of particle physics](https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf). [^Martin2011]
 -   My notes: Reece, R. (2007). Quantum Field Theory: An Introduction. [^Reece2007]
 
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
-[^Martin2018]: @Martin_2018_Phenomenology_of_particle_physics\.
+[^Martin2011]: @Martin_2011_Phenomenology_of_particle_physics\.
 [^Reece2007]: @Reece_2007_Quantum_Field_Theory_An_Introduction\.
 
 
@@ -780,12 +788,19 @@ See also:
     -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - ncatlab.org
     -   [Supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - ncatlab.org
     -   [Superalgebra](https://en.wikipedia.org/wiki/Superalgebra)
+-   Minimal Supersymmetric Standard Model (MSSM)
+    -   Dimopoulos, S. & Georgi, H. (1981). Softly broken supersymmetry and SU(5). [^Dimopoulos1981]
+    -   Murayama, H. (2000). [Supersymmetry_phenomenology](https://arxiv.org/abs/hep-ph/0002232). [^Murayama2000]
 -   SUSY GUTs
+    -   Supersymmetry allows unification of the couplings at the GUT scale.
 -   Supergravity
+    -   Supersymmetry as a gauge theory makes gravity arise in a natural way.
+    -   Freedman, D.Z., van Nieuwenhuizen, P., & Ferrara, S. (1976). Progress toward a theory of supergravity. [^Freedman1976]
+    -   van Nieuwenhuizen, P. (1981). Supergravity. [^vanNieuwenhuizen1981]
     -   Reviewed by Fr&egrave; [^Fre2013v2ch6]
 -   Pedagogy
     -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
-    -   Martin [^Martin2016]
+    -   Martin, S.P. (2016). [A supersymmetry primer](https://arxiv.org/abs/hep-ph/9709356). [^Martin2016]
 
 Urs Schreiber:
 
@@ -798,10 +813,14 @@ See also:
 
 -   [Grand unification](physics.html#grand-unification)
 
+[^Dimopoulos1981]: @Dimopoulos_1981_Softly_broken_supersymmetry_and_SU5\.
 [^Fre2013v2ch6]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 6.
+[^Freedman1976]: @Freedman_1976_Progress_toward_a_theory_of_supergravity\.
 [^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries\.
 [^Martin2016]: @Martin_2016_A_supersymmetry_primer\.
+[^Murayama2000]: @Murayama_2000_Supersymmetry_phenomenology\.
 [^Schreiber2016]: @Schreiber_2016_Learn_about_supersymmetry_and_Delignes_theorem\.
+[^vanNieuwenhuizen1981]: @vanNieuwenhuizen_1981_Supergravity\.
 
 
 Interpretations of quantum mechanics
@@ -1010,10 +1029,13 @@ a key to explaining electroweak symmetry breaking in the Standard Model of parti
 -   Salam, A. & Ward, J.C. (1964). Electromagnetic and weak interactions.  [^Salam1964b]
 -   GWS electroweak theory: SU(2) $\times$ U(1)
 -   Weinberg, S. (1979). [Conceptual foundations of the unified theory of weak and electromagnetic interactions](https://www.nobelprize.org/uploads/2018/06/weinberg-lecture.pdf). Nobel Lecture, December 8, 1979. [^Weinberg1979]
+-   UA1 and UA2 Collaborations discovered the $W$ and $Z$ bosons in 1983.
+-   Rubbia, C. (1984). [Experimental observation of the intermediate vector bosons $W^{+}$, $W^{-}$, and $Z^{0}$](https://www.nobelprize.org/uploads/2018/06/rubbia-lecture.pdf). Nobel lecture, December 8, 1984. [^Rubbia1984]
 -   Weinberg - Model physicst [^Chalmers2017]
 
 [^Chalmers2017]: @Chalmers_2017_Model_physicist\.
 [^Glashow1961]: @Glashow_1961_Partial_symmetries_of_weak_interactions\.
+[^Rubbia1984]: @Rubbia_1984_Experimental_observation_of_the_intermediate\.
 [^Salam1964a]: @Salam_1964_Gauge_theory_of_elementary_interactions\.
 [^Salam1964b]: @Salam_1964_Electromagnetic_and_weak_interactions\.
 [^Weinberg1967]: @Weinberg_1967_A_model_of_leptons\.
@@ -1088,11 +1110,11 @@ See also:
 
 -   Running of the couplings
 -   Supersymmetry
-    -   Minimal Supersymmetric Standard Model (MSSM)
 -   Grand Unified Theories (GUTs)
     -   Pati & Salam [^Pati1974]
     -   Georgi & Glashow [^Glashow1974]
     -   Slansky [^Slansky1981]
+    -   Beaz & Huerta [^Baez2009]
 -   Quantum gravity
 
 ![Two-loop renormalization group evolution of the inverse gauge couplings, $\alpha^{-1}$,
@@ -1105,6 +1127,7 @@ See also:
 
 -   [Supersymmetry](physics.html#supersymmetry)
 
+[^Baez2009]: @Baez_2009_The_algebra_of_grand_unified_theories\.
 [^Glashow1974]: @Georgi_1974_Unity_of_all_elementary_particle_forces\.
 [^Martin2016p66]: @Martin_2016_A_supersymmetry_primer\, p. 66.
 [^Pati1974]: @Pati_1974_Lepton_number_as_the_fourth_color\.

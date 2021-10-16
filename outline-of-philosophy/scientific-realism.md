@@ -1259,10 +1259,12 @@ More:
     -   Natural necessity and objective modality
     -   Humeanism has objective modality but not natural necessity.
 -   Contrast with Bueno's structural empiricism
+-   Redhead, M. (1975). Symmetry in intertheory relations. [^Redhead1975]
 
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Poincare1913p347]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 347--8.
+[^Redhead1975]: @Redhead_1975_Symmetry_in_intertheory_relations\.
 [^Redhead2001]: @Redhead_2001_The_intelligibility_of_the_universe\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 [^Sider2011]: @Sider_2011_Writing_the_Book_of_the_World\.
