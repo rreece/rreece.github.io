@@ -220,6 +220,7 @@ Symmetry-first physics
 
 -   Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. [^Wigner1959]
 -   Simon, B. (1976). Quantum dynamics: from automorphism to Hamiltonian. [^Simon1976]
+-   Summers, S.J. (1999). On the Stone-von Neumann uniqueness theorem and its ramifications. [^Summers1999]
 -   Keller, Papadopoulos, & Reyes-Lega. (2007). On the realization of symmetries in quantum mechanics. [^Keller2007]
 -   Wigner-Stone theorems as cornerstones of QM (Ovrut)
 -   Wigner's classification
@@ -234,6 +235,7 @@ See also:
 [^Schroeren2021]: @Schroeren_2021_Symmetry_fundamentalism_in_quantum_mechanics\.
 [^Schweber1961]: @Schweber_1961_An_Introduction_to_Relativistic_Quantum_Field\, p. TODO.
 [^Simon1976]: @Simon_1976_Quantum_dynamics_from_automorphism_to_Hamiltonian\.
+[^Summers1999]: @Summers_1999_On_the_Stone_von_Neumann_uniqueness_theorem\.
 [^Wigner1959]: @Wigner_1959_Group_Theory_and_its_Application_to_the_Quantum\.
 
 

@@ -15,7 +15,7 @@ Barrett, J.A. & Byrne, P. (2012). *The Everett Interpretation of Quantum Mechani
 Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *European Journal for Philosophy of Science*, 1(2), 277--302. https://link.springer.com/article/10.1007/s13194-011-0023-9
 Becker, A. (2018). *What is Real? The unfinished quest for the meaning of quantum physics*. Basic Books.
 Bell, J.S. (1955). Time reversal in field theory. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*, 231, 479--495.
-Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. *Studies in History and Philosophy of Modern Physics*, 33, 3--22. 
+Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. *Studies in History and Philosophy of Modern Physics*, 33, 3--22. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.106&rep=rep1&type=pdf
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
 Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
 Cabibbo, N. (1963). Unitary symmetry and leptonic decays. *Physical Review Letters*, 10, 531--533. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.10.531
@@ -120,6 +120,8 @@ Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, II
 Simon, B. (1976). Quantum dynamics: from automorphism to Hamiltonian. In Lieb, E.H. (Ed.) *Studies in Mathematical Physics: Essays in Honor of Valentine Bargmann* (pp. 327-350). Princeton University Press. http://www.math.caltech.edu/SimonPapers/R12.pdf
 Slansky, R. (1981). Group theory for unified model building. *Physics Reports*, 79, 1--128. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1581&rep=rep1&type=pdf
 Streater, R. & Wightman, A. (1964). *PCT, spin and statistics, and all that*. New York: Benjamin.
+Summers, S.J. (1999). On the Stone-von Neumann uniqueness theorem and its ramifications. In *John von Neumann and the Foundations of Quantum Physics* (pp. 135--152). Budapest: Kluwer.
+Suppe, F. (1974). *The Structure of Scientific Theories*. University of Illinois Press.
 Tegmark, M. (1993). Apparent wave function collapse caused by scattering. *Foundations of Physics Letters*, 6, 571--590. https://arxiv.org/abs/gr-qc/9310032
 Teller, P. (1997). *An Interpretive Introduction to Quantum Field Theory*. Princeton University Press.
 't Hooft, G. (1978). Extended objects in gauge field theories. In Bod, D.H. & Kamal, A.N. (Eds.) *Particles and Fields* (pp. 165-198). New York: Plenum.

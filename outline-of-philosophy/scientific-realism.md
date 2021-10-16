@@ -1132,6 +1132,7 @@ Friedman:
 -   Karl Popper (1902-1994)
     -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
     -   *falsifiability* over *verifiability*
+-   Suppe, F. (1974). *The Structure of Scientific Theories*. [^Suppe1974]
 -   Sellars
 -   Putnam, NMA
 -   Sankey [^Sankey2015]
@@ -1146,6 +1147,7 @@ Popper:
 
 [^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
 [^Sankey2015]: @Sankey_2015_Realism_progress_and_the_historical_turn\.
+[^Suppe1974]: @Suppe_1974_The_Structure_of_Scientific_Theories\.
 
 Sankey:
 
