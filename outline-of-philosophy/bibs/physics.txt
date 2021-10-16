@@ -124,6 +124,7 @@ Summers, S.J. (1999). On the Stone-von Neumann uniqueness theorem and its ramifi
 Suppe, F. (1974). *The Structure of Scientific Theories*. University of Illinois Press.
 Tegmark, M. (1993). Apparent wave function collapse caused by scattering. *Foundations of Physics Letters*, 6, 571--590. https://arxiv.org/abs/gr-qc/9310032
 Teller, P. (1997). *An Interpretive Introduction to Quantum Field Theory*. Princeton University Press.
+Teller, P. (2000). The gauge argument. *Philosophy of Science*. 67, 466--481.
 't Hooft, G. (1978). Extended objects in gauge field theories. In Bod, D.H. & Kamal, A.N. (Eds.) *Particles and Fields* (pp. 165-198). New York: Plenum.
 't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. World Scientific.
 't Hooft, G. (2007). Lie groups in physics. http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf
@@ -135,6 +136,7 @@ Weinberg, S. (1967). A model of leptons. *Physical Review Letters*, 19, 1264--12
 Weinberg, S. (1977). *The First Three Minutes*. Basic Books.
 Weinberg, S. (1979). Conceptual foundations of the unified theory of weak and electromagnetic interactions. https://www.nobelprize.org/uploads/2018/06/weinberg-lecture.pdf [Nobel lecture, December 8, 1979]
 Weinberg, S. (1997). What is quantum field theory, and what did we think it is? *Conceptual foundations of quantum field theory: Proceedings, Symposium and Workshop, Boston, USA, March 1-3, 1996*. http://arxiv.org/abs/hep-th/9702027
+Weyl, H. (1929). Elektron und gravitation. *Zeitschrift f{\"u}r Physik*, 56, 330--352.
 Wigner, E.P. (1939). On unitary representations of the inhomogeneous Lorentz group. *Annals of Mathematics*, 40, 149--204.
 Wigner, E.P. (1954). Conservation laws in classical and quantum physics. *Progress of Theoretical Physics*, 11, 437--440. https://academic.oup.com/ptp/article/11/4-5/437/1831457
 Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. Academic Press. [(Originally published in German in 1931)]

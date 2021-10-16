@@ -216,6 +216,17 @@ Symmetry-first physics
 [^Wigner1954]: @Wigner_1954_Conservation_laws_in_classical_and_quantum\.
 
 
+### Gauge principle
+
+-   Weyl, H. (1929). Elektron und gravitation. [^Weyl1929]
+-   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. [^tHooft1994]
+-   Teller, P. (2000). The gauge argument. [^Teller2000]
+
+[^Teller2000]: @Teller_2000_The_gauge_argument\.
+[^tHooft1994]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
+[^Weyl1929]: @Weyl_1929_Elektron_und_gravitation\.
+
+
 ### Wigner-Stone theorems
 
 -   Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. [^Wigner1959]
@@ -538,7 +549,7 @@ Michael Atiyah:
 -   Goldenfeld [^Goldenfeld1992]
 -   Butterfield [^Butterfield2014]
 -   Butterfield [^Butterfield2015]
--   't Hooft [^tHooft1994]
+-   't Hooft, again [^tHooft1994-2]
 -   The "renormalization group" isn't a group; it's actually a semigroup.
     The reason that renormalization produces a semigroup is that a block
     transformation loses information. [^Kadanoff2013p50]
@@ -549,7 +560,7 @@ Michael Atiyah:
 [^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
 [^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
 [^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50.
-[^tHooft1994]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
+[^tHooft1994-2]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 
 
 ### Effective field theory
