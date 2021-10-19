@@ -1011,6 +1011,8 @@ Various reactions to positivism.
 -   Quine: pale gray lore. TODO: find quote.
 -   Duhem-Quine thesis
 -   Inscrutability of reference
+-   *Word and Object* [^Quine1960]
+    -   Indeterminacy of translation
 -   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
 -   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986]
 -   Quine-Carnap correspondence [^Quine1990-2]
@@ -1022,6 +1024,7 @@ See also:
     in the [Outline on the scientific method](scientific-method.html).
 
 [^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
+[^Quine1960]: @Quine_1960_Word_and_Object\.
 [^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
 [^Quine1986]: @Quine_1986_The_Philosophy_of_WVQuine\.
 [^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
@@ -1235,6 +1238,12 @@ Science has identified real patterns, relationships, and structures
 -   Early Wittgenstein: picture theory of language/meaning
 -   Strucuturalism more generally and structural anthropology: Claude L&eacute;vi-Strauss
 -   Henri Poincar&eacute;
+-   Grover Maxwell coined "structural realism" [^Maxwell1968]
+
+Psillos:
+
+>   Helmholtz-Weyl Principle (HW): Different effects (i.e. percepts) imply different
+>   causes (i.e. stimuli/physical objects). [^HWPrinciple]
 
 Poincar&eacute;:
 
@@ -1243,8 +1252,8 @@ Poincar&eacute;:
 >   From this point of view, what is objective is ... only pure relation. [^Poincare1913p347]
 
 -   I found the above quotes in a talk by Arthur Fine, video: [Structural Realism, Then & Now](https://www.youtube.com/watch?v=0tb4_kFHwO4).
--   John Worrall
--   Dennett, D. (1991). Real Patterns.
+-   John Worrall [^Worrall1989]
+-   Dennett, D. (1991). Real Patterns. [^Dennett1991]
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)
@@ -1252,7 +1261,7 @@ Poincar&eacute;:
     -   Rainforest realism: Scale-relative ontology
 -   Redhead [^Redhead2001]
 -   *Writing The Book of The World* [^Sider2011]
--   Everything you always wanted to know about structural realism but were afraid to ask [^Frigg2011]
+-   Everything you always wanted to know about structural realism but were afraid to ask. [^Frigg2011]
 
 More:
 
@@ -1263,13 +1272,19 @@ More:
 -   Contrast with Bueno's structural empiricism
 -   Redhead, M. (1975). Symmetry in intertheory relations. [^Redhead1975]
 
+[^Dennett1991]: @Dennett_1991_Real_patterns\.
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
+[^HWPrinciple]: @Psillos_2001_Is_structural_realism_possible\, p. 14,
+    @Russell_1992_The_Analysis_of_Matter\, p. 255, and
+    @Frigg_2011_Everything_you_always_wanted_to_know_about\, p. 235.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Maxwell1968]: @Maxwell_1968_Scientific_methodology_and_the_causal_theory\.
 [^Poincare1913p347]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 347--8.
 [^Redhead1975]: @Redhead_1975_Symmetry_in_intertheory_relations\.
 [^Redhead2001]: @Redhead_2001_The_intelligibility_of_the_universe\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 [^Sider2011]: @Sider_2011_Writing_the_Book_of_the_World\.
+[^Worrall1989]: @Worrall_1989_Structural_realism_The_best_of_both_worlds\.
 
 
 Feminist epistemology

@@ -10,8 +10,10 @@ Chakravartty, A. (2017). Scientific realism. *Stanford Encyclopedia of Philosoph
 Chalmers, D. (2003). The Matrix as metaphysics. http://consc.net/papers/matrix.html
 Clarke, K.A. & Primo, D.M. (2004). The theoretical implications of the empirical implications of theoretical models. [Paper presented at the Annual Meeting of the American Political Science Association, September 2004, Chicago.]
 Comte, A. (1835). *Cours de la Philosophie Positive*. 
+Dennett, D.C. (1991). Real patterns. *The Journal of Philosophy*, 88, 27--51. https://web.ics.purdue.edu/~drkelly/DCDRealPatterns1991.pdf
 Fetzer, J. (2017). Carl Hempel. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/hempel
 Friedman, M. & Creath, R. (2007). *The Cambridge Companion to Carnap*. Cambridge University Press.
+Frigg, R., & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask. *European Journal for Philosophy of Science*, 1, 227--276.
 Hempel, C.G. (1950). Problems and changes in the empiricist criterion of meaning. *Revue Internationale de Philosophie*, 4, 41--63.
 Hempel, C.G. (1974). Formulation and formalization of scientific theories. In  Suppe, F. (Ed.). *The Structure of Scientific Theories*. University of Illinois Press.
 Hennig, C. (2010). Mathematical models and reality: A constructivist perspective. *Foundations of Science*, 15(1), 29--48.
@@ -23,14 +25,17 @@ Lavers, G. (2004). Carnap, semantics and ontology. *Erkenntnis*, 60, 295--316.
 Lavers, G. (2015). Carnap, Quine, quantification and ontology. In *Quantifiers, Quantifiers, and Quantifiers: Themes in logic, metaphysics, and language* (pp. 271--299). Springer.
 Lewis, D. (1986). *On the Plurality of Worlds*. Oxford: Blackwell.
 Loewer, B. (2019). Humean laws and explanation. *Principia: an international journal of epistemology*, 23, 373--385.
+Maxwell, G. (1968). Scientific methodology and the causal theory of perception. *Studies in Logic and the Foundations of Mathematics*, 49, 148--177.
 Newton, I. (1999). *The Principia: Mathematical Principles of Natural Philosophy* (I.B. Cohen and A. Whitman, Trans.). University of California Press. [(Originally published in 1687)]
 Ney, A. (2014). *Metaphysics: An introduction*. Routledge.
 Poincar\'{e}, H. (1913). *The Foundations of Science: Science and hypothesis, the value of science, science and method* (G.B. Halstead, Trans.). Cambridge University Press. [(Originally published in 1905)]
 Popper, K.R. (1953). A note on Berkeley as precursor of Mach. *The British Journal for the Philosophy of Science*, 4, 26--36.
 Popper, K.R. (1963). *Conjectures and Refutations: The Growth of Scientific Knowledge*. Routledge.
 Psillos, S. (1999). *Scientific Realism: How science tracks truth*. Routledge.
+Psillos, S. (2001). Is structural realism possible? *Philosophy of Science*, 68, S13--S24.
 Putnam, H. (1975). *Mathematics, Matter, and Method*. Cambridge University Press.
 Quine, W.V.O. (1948). On what there is. *Review of Metaphysics*, 21--38.
+Quine, W.V.O. (1960). *Word and Object*. MIT Press.
 Quine, W.V.O. (1963). On simple theories of a complex world. *Synthese*, 15, 103--106.
 Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. Open Court.
 Redhead, M. (1999). Quantum field theory and the philosopher. In Cao, T.Y. (Ed.) *Conceptual Foundations of Quantum Field Theory* (pp. 34--40). Cambridge University Press.
@@ -40,8 +45,9 @@ Richter, D.J. (2004). Ludwig Wittgenstein. *International Encyclopedia of Philos
 Rorty, R. (1991). Wittgenstein, Heidegger, and the reification of language. In *Essays on Heidegger and Others* (pp. 50--65). Cambridge University Press.
 Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. Oxford University Press.
 Rovelli, C. (2003). A dialog on quantum gravity. https://arxiv.org/abs/hep-th/0310077
-Russell, B. (1945). *A History of Western Philosophy*. Simon & Schuster.
 Russell, B. (1912). *The Problems of Philosophy*. Oxford University Press. [(with Introduction by John Perry 1997)]
+Russell, B. (1992). *The Analysis of Matter*. Routledge. [(Originally published in 1927)]
+Russell, B. (1945). *A History of Western Philosophy*. Simon & Schuster.
 Sankey, H. (1997). *Rationality, Relativism, and Incommensurability*. Ashgate.
 Sankey, H. (2001). Scientific realism: An elaboration and a defence. *Theoria*, 98, 35--54.
 Sankey, H. (2008). *Scientific Realism and the Rationality of Science*. Ashgate.
@@ -52,7 +58,10 @@ Suppe, F. (2000). Understanding scientific theories: An assessment of developmen
 Swartz, N. (2003). *The Concept of Physical Law* (2nd ed.). http://www.sfu.ca/~swartz/physical-law/
 Swartz, N. (2009). Laws of nature. *International Encyclopedia of Philosophy*. http://www.iep.utm.edu/lawofnat/
 Torretti, R. (1999). *The Philosophy of Physics*. Cambridge University Press.
+van Fraassen, B. (1980). *The Scientific Image*. Oxford University Press.
+van Inwagen, P. (2014). Metaphysics. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/metaphysics/
 Wittgenstein, L. (1929). Some remarks on logical form. *Proceedings of the Aristotelian Society Supplementary Volumes*, 9, 162--171.
 Wittgenstein, L. (1969). *On Certainty*. Oxford: Basil Blackwell.
+Worrall, J. (1989). Structural realism: The best of both worlds? *Dialectica*, 43, 99--124.
 Wray, K. B. (2018). *Resisting Scientific Realism*. Cambridge University Press.
 Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? *Aristotelian Society Supplementary Volume*, 72, 229--262.

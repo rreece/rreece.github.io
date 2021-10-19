@@ -51,7 +51,7 @@ rep_article_s = ''.join([r"(?P<author>([^(),.]+(,\s+\w\.(\s*\w\.)?(\s*\w\.)?)?(,
                     r"\s+(?P<title>[^*\[\]]+)[,.]?",
                     r"(?!\s+<?https?://)(\s+\*(?P<journal>[^*]+)\*[,.]?)",
                     r"(\s+\*?(?P<volume>\d+)\*?(\((?P<number>\d+)\))?[,.]?)?",
-                    r"(\s+(?P<pages>(P|p)?\d+-*\d*)[,.]?)?",
+                    r"(\s+(?P<pages>(P|p)?\w?\d+-*\w?\d*)[,.]?)?",
                     r"(\s+(Retrieved\s+from\s+)?<?(?P<url>https?://[^ \t\n\r\f\v<>]+)>?[,.]?)?",
                     r"(\s+\[?(?P<note>[^\[\]]+)\]?\.?)?",
                     ])
