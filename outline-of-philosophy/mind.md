@@ -17,10 +17,10 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Consciousness
 --------------------------------------------------------------------------------
 
--   sentience
--   phenomenal vs access consciousness
--   embodiment
--   subconscious
+-   Sentience
+-   Phenomenal vs access consciousness
+-   Embodiment
+-   Subconscious
 -   Hume
     -   bundle theory: *A Treatise of Human Nature*, Book I.iv, section 6 
 -   Freud
@@ -42,7 +42,7 @@ Consciousness
 Dualism
 --------------------------------------------------------------------------------
 
--   mind-body problem
+-   Mind-body problem
 -   Plato
 -   Descartes 
 -   G&ouml;del
@@ -91,7 +91,7 @@ Panpsychism
 --------------------------------------------------------------------------------
 
 -   Chalmers
--   rejection of dualism vs physicalism dichotomy
+-   Rejection of dualism vs physicalism dichotomy
 -   Conway's "freewill theorem"
 
 
@@ -100,7 +100,7 @@ Neuroscience
 
 ### Theoretical neuroscience
 
--   active inference
+-   Active inference
     -   [Free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle)
     -   Karl Friston
     -   Mel Andrews

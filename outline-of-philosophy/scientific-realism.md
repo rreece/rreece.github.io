@@ -902,7 +902,8 @@ Pragmatism
 -   Daniel C. Dennett (b. 1942)
 -   Robert Brandom (b. 1950)
 
-More:
+
+### Discussion
 
 [Max Hodak](https://maxhodak.com/nonfiction/2021/09/03/science.html):
 
@@ -935,6 +936,11 @@ Postmodernism
 -   Jean Baudrillard (1929-2007)
 -   Jacques Derrida (1930-2004)
 -   Richard Rorty (1931-2007)
+
+
+### Discussion
+
+-   TODO
 
 
 ### Criticism
@@ -1212,6 +1218,11 @@ See also:
 [^vanFraassen1980]: @vanFraassen_1980_The_Scientific_Image\.
 
 
+### Discussion
+
+-   TODO
+
+
 ### Criticism
 
 -   Healey criticizes van Fraassen's CE [^Healey2007p114]
@@ -1239,6 +1250,7 @@ Science has identified real patterns, relationships, and structures
 -   Strucuturalism more generally and structural anthropology: Claude L&eacute;vi-Strauss
 -   Henri Poincar&eacute;
 -   Grover Maxwell coined "structural realism" [^Maxwell1968]
+-   Russell [^Russell1992pX]
 
 Psillos:
 
@@ -1253,6 +1265,10 @@ Poincar&eacute;:
 
 -   I found the above quotes in a talk by Arthur Fine, video: [Structural Realism, Then & Now](https://www.youtube.com/watch?v=0tb4_kFHwO4).
 -   John Worrall [^Worrall1989]
+
+
+### Discussion
+
 -   Dennett, D. (1991). Real Patterns. [^Dennett1991]
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
@@ -1283,20 +1299,37 @@ More:
 [^Redhead1975]: @Redhead_1975_Symmetry_in_intertheory_relations\.
 [^Redhead2001]: @Redhead_2001_The_intelligibility_of_the_universe\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
+[^Russell1992pX]: @Russell_1992_The_Analysis_of_Matter\, p. TODO.
 [^Sider2011]: @Sider_2011_Writing_the_Book_of_the_World\.
 [^Worrall1989]: @Worrall_1989_Structural_realism_The_best_of_both_worlds\.
+
+### Criticism
+
+-   TODO?
 
 
 Feminist epistemology
 --------------------------------------------------------------------------------
 
+### Introduction
+
+-   TODO
+
+
+### History
+
+-   1-4th wave feminism
 -   Situated knowers
 -   Standpoint theory
 -   Intersectionality
+-   [Feminist perspectives on argumentation](https://plato.stanford.edu/entries/feminism-argumentation/)
+
+
+### Discussion
+
 -   Decolonizing science
     -   Prescod-Weinstein, Chanda. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
     -   Roy, Rohan Deb. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
--   [Feminist perspectives on argumentation](https://plato.stanford.edu/entries/feminism-argumentation/)
 
 See also:
 
@@ -1304,8 +1337,15 @@ See also:
 -   [Feminism in the Outline on ethics](ethics.html#feminism)
 
 
+### Criticism
+
+-   TODO?
+
+
 Critical realism
 --------------------------------------------------------------------------------
+
+### Introduction
 
 Critical realists believe that there are unobservable events which cause the
 observable ones; as such, the social world can be understood only if people
@@ -1324,6 +1364,8 @@ understand the structures that generate such unobservable events.
 
 Active realism
 --------------------------------------------------------------------------------
+
+### Introduction
 
 -   Hasok Chang
 
@@ -1602,7 +1644,7 @@ Click to show annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Popper, K. (1959). *The Logic of Scientific Discovery*.
+### Popper, K.R. (1959). *The Logic of Scientific Discovery*.
 
 -   TODO
 

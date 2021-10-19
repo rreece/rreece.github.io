@@ -49,7 +49,7 @@ TODO
 
 -   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
 -   [Sophus Lie (1842-1899)](https://en.wikipedia.org/wiki/Sophus_Lie)
--   [Schwichtenberg, J. (XXXX). Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
+-   Schwichtenberg, J. (2016). [Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
 
 
 ### More
