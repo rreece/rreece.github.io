@@ -1231,12 +1231,14 @@ Deep learning
 
 -   Bias and variance trade-off. See [Bias and variance](#bias-and-variance).
 -   MSE and model capacity
--   "Reconciling modern machine-learning practice and the classical bias-variance trade-off" [^Belkin2019]
--   "Deep double descent: Where bigger models and more data hurt" [^Nakkiran2019]
--   ["Deep Double Descent"](https://openai.com/blog/deep-double-descent/).  *OpenAI Blog*.
+-   Belkin, M., Hsu, D., Ma, S., & Mandal, S. (2019). [Reconciling modern machine-learning practice and the classical bias-variance trade-off](https://arxiv.org/abs/1812.11118). [^Belkin2019]
+-   Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). [Deep double descent: Where bigger models and more data hurt](https://arxiv.org/abs/1912.02292). [^Nakkiran2019]
+    -   [Deep Double Descent](https://openai.com/blog/deep-double-descent/).  *OpenAI Blog*.
 -   Hubinger, E. (2019). [Understanding "Deep Double Descent"](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent). *LessWrong*.
 -   Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). [A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning](https://arxiv.org/abs/2109.02355). [^Dar2021]
+-   Balestriero, R., Pesenti, J., & LeCun, Y. (2021). [Learning in high dimension always amounts to extrapolation](https://arxiv.org/abs/2110.09485). [^Balestriero2021]
 
+[^Balestriero2021]: @Balestriero_2021_Learning_in_high_dimension_always_amounts\.
 [^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
 [^Dar2021]: @Dar_2021_A_farewell_to_the_bias_variance_tradeoff\.
 [^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
@@ -1386,6 +1388,7 @@ Blogs:
 -   EfficientNet [^Tan2019]
 -   VisionTransformer [^Dosovitskiy2020]
 -   EfficientNetV2 [^Tan2021]
+-   gMLP [^Liu2021]
 
 Resources:
 
@@ -1401,6 +1404,7 @@ Resources:
 [^Krizhevsky2012]: @Krizhevsky_2012_ImageNet_classification_with_deep_convolutional\.
 [^LeCun1989]: @LeCun_1989_Backpropagation_applied_to_handwritten_zip_code\.
 [^LeCun1998]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
+[^Liu2021]: @Liu_2021_Pay_attention_to_MLPs\.
 [^Simonyan2014]: @Simonyan_2014_Very_deep_convolutional_networks_for_large_scale\.
 [^Tan2019]: @Tan_2019_EfficientNet_Rethinking_model_scaling\.
 [^Tan2021]: @Tan_2021_EfficientNetV2_Smaller_models_and_faster_training\.

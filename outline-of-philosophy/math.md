@@ -454,6 +454,11 @@ See also:
 Platonism
 --------------------------------------------------------------------------------
 
+### Introduction
+
+-   TODO
+
+
 ### Pythagoreanism
 
 -   Radical realism
@@ -543,7 +548,12 @@ Platonism
 Nominalism
 --------------------------------------------------------------------------------
 
+### Introduction
+
 -   Antirealist
+
+
+### History
 
 Antisthenes:
 
@@ -554,6 +564,7 @@ Antisthenes:
     -   [Medieval Problem of Universals](https://plato.stanford.edu/entries/universals-medieval/)
     -   [Roscellinus (c. 1050 - c. 1125)](https://en.wikipedia.org/wiki/Roscellinus)
     -   [Ockham, William of (1287-1347)](http://en.wikipedia.org/wiki/William_of_Ockham)
+-   Modern nominalism
 
 Bayes:
 
@@ -571,25 +582,30 @@ Johwn Stuart Mill:
 >   Nominalists, who, repudiating Universal Substances, held that
 >   there is nothing general except names. [^Mill1877]
 
+-   Positivism, Carnap, ESO
+-   Goodman & Quine [^Goodman1947]
+
+[^Bayes1736p9]: @Bayes_1736_An_Introduction_to_the_Doctrine_of_Fluxions\, p. 9--10.
+[^Goodman1947]: @Goodman_1947_Steps_toward_a_constructive_nominalism\.
+[^Goodman1947p105]: @Goodman_1947_Steps_toward_a_constructive_nominalism\, p. 105.
+[^Mill1877]: @Mill_1877_An_Examination_of_Sir_William_Hamiltons\.
+
+
+### *Science Without Numbers*
+
 Field: Abstract platonic entities, were they to exist, could not
 interact causally with the world. [^Field1989p68]
 
--   Positivism, Carnap, ESO
--   Goodman & Quine [^Goodman1947]
 -   Field: *Science Without Numbers* [^Field2016]
 -   John Burgess [^Burgess1983]
 -   Bueno [^Bueno2013]
 
 >   significant in context but naming nothing. [^Goodman1947p105]
 
-[^Bayes1736p9]: @Bayes_1736_An_Introduction_to_the_Doctrine_of_Fluxions\, p. 9--10.
 [^Bueno2013]: @Bueno_2013_Nominalism_in_the_philosophy_of_mathematics\.
 [^Field1989p68]: @Field_1989_Realism_Mathematics_and_Modality\, p. 68. TODO: Get exact quote.
 [^Burgess1983]: @Burgess_1983_Why_I_am_not_a_nominalist\.
 [^Field2016]: @Field_2016_Science_Without_Numbers\.
-[^Goodman1947]: @Goodman_1947_Steps_toward_a_constructive_nominalism\.
-[^Goodman1947p105]: @Goodman_1947_Steps_toward_a_constructive_nominalism\, p. 105.
-[^Mill1877]: @Mill_1877_An_Examination_of_Sir_William_Hamiltons\.
 
 
 Logicism

@@ -1269,24 +1269,24 @@ Poincar&eacute;:
 
 ### Discussion
 
--   Dennett, D. (1991). Real Patterns. [^Dennett1991]
+-   Dennett, D. (1991). Real patterns. [^Dennett1991]
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)
--   *Every Thing Must Go* [^Ladyman2007]
+-   Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go*. [^Ladyman2007]
+    -   Polemic against metaphysics.
     -   Rainforest realism: Scale-relative ontology
--   Redhead [^Redhead2001]
--   *Writing The Book of The World* [^Sider2011]
--   Everything you always wanted to know about structural realism but were afraid to ask. [^Frigg2011]
+-   Frigg, R. & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask. [^Frigg2011]
 
 More:
 
--   *Scientific Metaphysics* [^Ross2013]
--   Video: Ladyman, J. (2019). [Natural necessity is just the stuff for Ontic Structural Realism](https://www.youtube.com/watch?v=Ausi6Kt9CTE).
+-   Redhead, M. (1975). Symmetry in intertheory relations. [^Redhead1975]
+-   Redhead, M. (2001). The intelligibility of the universe. [^Redhead2001]
+-   Sider, T. (2011). *Writing The Book of The World*. [^Sider2011]
+-   Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. [^Ross2013]
+-   Ladyman, J. (2019). Video: [Natural necessity is just the stuff for Ontic Structural Realism](https://www.youtube.com/watch?v=Ausi6Kt9CTE).
     -   Natural necessity and objective modality
     -   Humeanism has objective modality but not natural necessity.
--   Contrast with Bueno's structural empiricism
--   Redhead, M. (1975). Symmetry in intertheory relations. [^Redhead1975]
 
 [^Dennett1991]: @Dennett_1991_Real_patterns\.
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
@@ -1305,7 +1305,8 @@ More:
 
 ### Criticism
 
--   TODO?
+-   Contrast with Bueno's structural empiricism
+-   TODO
 
 
 Feminist epistemology

@@ -1,5 +1,6 @@
 Aaronson, S. (2011). Why philosophers should care about computational complexity. https://arxiv.org/abs/1108.1791
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
+Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting processor. *Nature*, 574, 505--510. https://www.nature.com/articles/s41586-019-1666-5
 {ATLAS Collaboration}. (2008). The ATLAS Experiment at the CERN Large Hadron Collider. *Journal of Instrumentation*, 3, 08003. https://cds.cern.ch/record/1129811
 {ATLAS Collaboration}. (2012). Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC. *Physics Letters B*, 716, 1--29. https://arxiv.org/abs/1207.7214
 Baez, J.C., Segal, I., & Zhou, Z. (1992). *Introduction to Algebraic and Constructive Quantum Field Theory*. Princeton University Press. https://math.ucr.edu/home/baez/bsz.html
@@ -16,6 +17,7 @@ Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *E
 Becker, A. (2018). *What is Real? The unfinished quest for the meaning of quantum physics*. Basic Books.
 Bell, J.S. (1955). Time reversal in field theory. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*, 231, 479--495.
 Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. *Studies in History and Philosophy of Modern Physics*, 33, 3--22. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.106&rep=rep1&type=pdf
+Broughton, M. et al. (2020). TensorFlow Quantum: A software framework for quantum machine learning. https://arxiv.org/abs/2003.02989
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
 Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
 Cabibbo, N. (1963). Unitary symmetry and leptonic decays. *Physical Review Letters*, 10, 531--533. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.10.531

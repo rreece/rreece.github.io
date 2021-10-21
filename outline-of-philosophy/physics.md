@@ -382,8 +382,15 @@ See also:
 
 -   Aaronson, S. (2011). Why philosophers should care about computational complexity. [^Aaronson2011]
 -   Preskill, J. (2018). [Quantum computing in the NISQ era and beyond](https://arxiv.org/abs/1801.00862). [^Preskill2018]
+-   Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting processor. [^Arute2019]
+    -   Google AI Blog. (2019). [Quantum supremacy using a programmable superconducting processor](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html).
+-   Broughton, M. et al. (2020). [TensorFlow Quantum: A software framework for quantum machine learning](https://arxiv.org/abs/2003.02989). [^Broughton2020]
+    -   TensorFlow. (2020). [tensorflow.org/quantum](https://www.tensorflow.org/quantum).
+    -   TensorFlow. (2021). [Quantum machine learning concepts](https://www.tensorflow.org/quantum/concepts).
 
 [^Aaronson2011]: @Aaronson_2011_Why_philosophers_should_care_about_computational\.
+[^Arute2019]: @Arute_2019_Quantum_supremacy_using_a_programmable\.
+[^Broughton2020]: @Broughton_2020_TensorFlow_Quantum_A_software_framework\.
 [^Preskill2018]: @Preskill_2018_Quantum_computing_in_the_NISQ_era_and_beyond\.
 
 
