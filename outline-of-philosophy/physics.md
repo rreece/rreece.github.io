@@ -233,7 +233,7 @@ Symmetry-first physics
 -   Simon, B. (1976). Quantum dynamics: from automorphism to Hamiltonian. [^Simon1976]
 -   Summers, S.J. (1999). On the Stone-von Neumann uniqueness theorem and its ramifications. [^Summers1999]
 -   Keller, Papadopoulos, & Reyes-Lega. (2007). On the realization of symmetries in quantum mechanics. [^Keller2007]
--   Wigner-Stone theorems as cornerstones of QM (Ovrut)
+-   Wigner-Stone theorems as cornerstones of QM (Ovrut) [^Reece2007pX1]
 -   Wigner's classification
     -   See also: disucssuion of symmetry in the section on [Fields](physics.html#fields)
 -   Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. [^Schweber1961]
@@ -244,6 +244,7 @@ See also:
 -   [Quantum field theory](#quantum-field-theory)
 
 [^Keller2007]: @Keller_2007_On_the_realization_of_symmetries_in_quantum\.
+[^Reece2007pX1]: @Reece_2007_Quantum_Field_Theory_An_Introduction\, p. X.
 [^Schroeren2021]: @Schroeren_2021_Symmetry_fundamentalism_in_quantum_mechanics\.
 [^Schweber1961]: @Schweber_1961_An_Introduction_to_Relativistic_Quantum_Field\, p. TODO.
 [^Simon1976]: @Simon_1976_Quantum_dynamics_from_automorphism_to_Hamiltonian\.
@@ -941,9 +942,9 @@ Interpretations of quantum mechanics
 -   note relationship with decoherence
 -   Barrett [^Barrett2011]
 -   Everett's collected works [^Barrett2012]
--   Wallace, *The Emergent Multiverse* [^Wallace2012]
+-   Wallace, D. (2012). *The Emergent Multiverse*. [^Wallace2012]
 -   Carroll's mad-dog Everettianism [^Carroll2019-2]
--   *Something Deeply Hidden* [^Carroll2019]
+-   Carroll, S.M. (2019). *Something Deeply Hidden*.[^Carroll2019]
 -   Everett's later influence on the theory of decoherence
 
 >   A way out of this dilemma [the measurement problem]
