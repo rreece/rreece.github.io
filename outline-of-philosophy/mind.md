@@ -81,7 +81,10 @@ Physicalism
     -   <https://twitter.com/RyanDavidReece/status/1285682311112122370>
     -   [YouTube: Is there free will? | David Eagleman and Lex Fridman](https://www.youtube.com/watch?v=8f92iPYmiGY&t=298)
     -   See also: [Bracketing human experience](physics.html#bracketing-human-experience)
--   See also: [Physicalism](naturalism.html#physicalism) in the outline on [Naturalism](naturalism.html).
+
+See also:
+
+-   [Physicalism](naturalism.html#physicalism) in the outline on [Naturalism](naturalism.html).
 
 [^MacFarquhar2014]: @MacFarquhar_2014_Two_Heads_A_marriage_devoted_to_the_mind_body\.
 [^Montero1999]: @Montero_1999_The_Body_Problem\.
@@ -124,9 +127,13 @@ Neuroscience
 Artificial intelligence
 --------------------------------------------------------------------------------
 
--   See also:
-    -   [Deep learning](statistics.html#deep-learning)
-    -   [Artificial intelligence](future.html#artificial-intelligence)
+-   TODO
+
+See also:
+
+-   [Deep learning](statistics.html#deep-learning)
+-   [Artificial intelligence](future.html#artificial-intelligence)
+
 
 ### Criticism
 

@@ -368,10 +368,10 @@ Thoreau:
 >   To regret deeply is to live afresh. [^Thoreau13Nov1839]
 
 -   Chand, S. (2016). [How to handle regret](https://adaa.org/learn-from-us/from-the-experts/blog-posts/consumer/how-handle-regret).
--   Marino, G. (2016). [What's the use of regret?](https://www.nytimes.com/2016/11/13/opinion/whats-the-use-of-regret.html).
--   Pigliucci, M. (2016). [What's the point of regret?](https://howtobeastoic.wordpress.com/2016/11/25/whats-the-point-of-regret/).
+-   Marino, G. (2016). [What's the use of regret?](https://www.nytimes.com/2016/11/13/opinion/whats-the-use-of-regret.html)
+-   Pigliucci, M. (2016). [What's the point of regret?](https://howtobeastoic.wordpress.com/2016/11/25/whats-the-point-of-regret/)
 -   Danaher, J. (2019). [The wisdom of regret and the fallacy of regret minimisation](https://philosophicaldisquisitions.blogspot.com/2019/01/the-wisdom-of-regret-and-fallacy-of.html).
--   Malesic, J. (2020). [Je regrette tout: Does moral growth demand regret?](https://hedgehogreview.com/issues/monsters/articles/je-regrette-tout).
+-   Malesic, J. (2020). [Je regrette tout: Does moral growth demand regret?](https://hedgehogreview.com/issues/monsters/articles/je-regrette-tout)
 
 See also: [Depression](human-condition.html#depression) in the [Outline on the human condition](human-condition.html).
 
