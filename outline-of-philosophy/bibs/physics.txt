@@ -1,4 +1,5 @@
 Aaronson, S. (2011). Why philosophers should care about computational complexity. https://arxiv.org/abs/1108.1791
+Ananthaswamy, A. (2021). This simple experiment could challenge standard quantum theory. *Scientific American*. https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
 Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting processor. *Nature*, 574, 505--510. https://www.nature.com/articles/s41586-019-1666-5
 {ATLAS Collaboration}. (2008). The ATLAS Experiment at the CERN Large Hadron Collider. *Journal of Instrumentation*, 3, 08003. https://cds.cern.ch/record/1129811
@@ -16,6 +17,9 @@ Barrett, J.A. & Byrne, P. (2012). *The Everett Interpretation of Quantum Mechani
 Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *European Journal for Philosophy of Science*, 1(2), 277--302. https://link.springer.com/article/10.1007/s13194-011-0023-9
 Becker, A. (2018). *What is Real? The unfinished quest for the meaning of quantum physics*. Basic Books.
 Bell, J.S. (1955). Time reversal in field theory. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*, 231, 479--495.
+Bell, J.S. (1987). *Speakable and Unspeakable in Quantum Mechanics*. Cambridge University Press.
+Bohm, D. (1952). A suggested interpretation of the quantum theory in terms of 'hidden' variables, I and II. *Physical Review*, 85, 166--193.
+Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. *Physical Review*, 89, 458--466.
 Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. *Studies in History and Philosophy of Modern Physics*, 33, 3--22. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.106&rep=rep1&type=pdf
 Broughton, M. et al. (2020). TensorFlow Quantum: A software framework for quantum machine learning. https://arxiv.org/abs/2003.02989
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
@@ -30,11 +34,16 @@ Chalmers, M. (2017). Model physicist. https://cerncourier.com/a/model-physicist/
 Clowe, D. et al. (2006). A direct empirical proof of the existence of dark matter. *Astrophysical Journal Letters*, 648(2), 109. https://arxiv.org/abs/astro-ph/0608407
 {CMS Collaboration}. (2012). Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC. *Physics Letters B*, 716, 30--61. https://arxiv.org/abs/1207.7235
 Coleman, S. & Mandula, J. (1967). All possible symmetries of the S matrix. *Physical Review*, 159(5), 1251--1256.
+Das, S. & D{\"u}rr, D. (2019). Arrival time distributions of spin-1/2 particles. *Scientific Reports*, 9, 2242. https://www.nature.com/articles/s41598-018-38261-4
 Debono, I. & Smoot, G.F. (2016). General relativity and cosmology: Unsolved questions and future directions. *Universe*, 2, 23. https://arxiv.org/abs/1609.09781
 DeWitt, B.S. (1970). Quantum mechanics and reality. *Physics Today*, 23(9), 30--35. https://physicstoday.scitation.org/doi/10.1063/1.3022331
 Dimopoulos, S. & Georgi, H. (1981). Softly broken supersymmetry and SU(5). *Nuclear Physics B*, 193, 150--162.
 Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. In Falkenburg, B. & Morrison, M. (Eds.) *Why More is Different: Philosophical issues in condensed matter physics and complex systems* (pp. 41--54). Springer.
 Duncan, A. (2012). *Conceptual Framework of Quantum Field Theory*. Oxford University Press.
+D{\"u}rr, D., Goldstein, S., & Zangh{\`i}, N. (1995). Bohmian mechanics as the foundation of quantum mechanics. https://arxiv.org/abs/quant-ph/9511016
+D{\"u}rr, D., Goldstein, S., Tumulka, R., & Zangh{\`i}, N. (2004). Bohmian mechanics and quantum field theory. *Physical Review Letters*, 93, 090402. https://arxiv.org/abs/quant-ph/0303156
+D{\"u}rr, D., Goldstein, S., Tumulka, R., & Zangh{\`i}, N. (2005). Bell-type quantum field theories. *Journal of Physics A*, 38, R1. https://arxiv.org/abs/quant-ph/0407116
+D{\"u}rr, D., Goldstein, S., & Zangh{\`i}, N. (2013). *Quantum Physics Without Quantum Philosophy*. Springer.
 Dutailly, J.C. (2014). Particles and Fields. https://hal.archives-ouvertes.fr/hal-00933043
 Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. *Physical Review*, 75(11), 1736.
 Earman, J., & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. *Erkenntnis*, 64(3), 305--344.
@@ -121,6 +130,7 @@ Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*.
 Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, III. https://space.mit.edu/home/tegmark/everett/
 Simon, B. (1976). Quantum dynamics: from automorphism to Hamiltonian. In Lieb, E.H. (Ed.) *Studies in Mathematical Physics: Essays in Honor of Valentine Bargmann* (pp. 327-350). Princeton University Press. http://www.math.caltech.edu/SimonPapers/R12.pdf
 Slansky, R. (1981). Group theory for unified model building. *Physics Reports*, 79, 1--128. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1581&rep=rep1&type=pdf
+Stopp, F., Ortiz-Guti{\'e}rrez, L., Lehec, H., & Schmidt-Kaler, F. (2021). Single ion thermal wave packet analyzed via time-of-flight detection. *New Journal of Physics*, 23, 063002. https://iopscience.iop.org/article/10.1088/1367-2630/abffc0
 Streater, R. & Wightman, A. (1964). *PCT, spin and statistics, and all that*. New York: Benjamin.
 Summers, S.J. (1999). On the Stone-von Neumann uniqueness theorem and its ramifications. In *John von Neumann and the Foundations of Quantum Physics* (pp. 135--152). Budapest: Kluwer.
 Suppe, F. (1974). *The Structure of Scientific Theories*. University of Illinois Press.
@@ -132,6 +142,7 @@ Teller, P. (2000). The gauge argument. *Philosophy of Science*. 67, 466--481.
 't Hooft, G. (2007). Lie groups in physics. http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf
 't Hooft, G. (2021). An unorthodox view on quantum mechanics. https://arxiv.org/abs/2104.03179
 Tong, D. (2006). Lectures on Quantum Field Theory. https://www.damtp.cam.ac.uk/user/tong/qft.html
+Tumulka, R. (2017). Bohmian mechanics. https://arxiv.org/abs/1704.08017
 van Nieuwenhuizen, P. (1981). Supergravity. *Physics Reports*, 68, 189--398.
 Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
 Weinberg, S. (1967). A model of leptons. *Physical Review Letters*, 19, 1264--1266. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.19.1264

@@ -1,4 +1,5 @@
 Aguirre, A., Foster, B., & Merali, Z. (2016). *Trick Or Truth?: The mysterious connection between physics and mathematics*. Springer.
+Baez, J.C. (2002). The octonions. *Bulletin of the American Mathematical Society*, 39, 145--205. https://arxiv.org/abs/math/0105155
 Baez, J.C. & Dolan, J. (1995). Higher‐dimensional algebra and topological quantum field theory. *Journal of Mathematical Physics*, 36, 6073--6105. https://arxiv.org/abs/q-alg/9503002
 Baez, J.C. & Stay, M. (2009). Physics, topology, logic, and computation: A Rosetta Stone. https://arxiv.org/abs/0903.0340
 Bayes, T. (1736). *An Introduction to the Doctrine of Fluxions, and a Defence of the Mathematicians Against the Objections of the Author of The Analyst*. London. [(published anonymously)]

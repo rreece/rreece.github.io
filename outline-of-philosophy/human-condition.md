@@ -1417,7 +1417,7 @@ Me: And then there was hip hop.
 
 Joni Mitchell:
 
->   It's love's illusions I recall.        
+>   It's love's illusions that I recall.        
 >   I really don't know love at all. [^Mitchell1969]
 
 [^Mitchell1969]: Joni Mitchell. (1969). Song: "Both sides now" on the album *Clouds*.

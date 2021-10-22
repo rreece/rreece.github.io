@@ -55,11 +55,19 @@ TODO
 ### More
 
 -   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
-    -   [Hurwitz's theorem](https://en.wikipedia.org/wiki/Hurwitz%27s_theorem_(composition_algebras)): Every normed division algebra is isomorphic to the real numbers, the complex numbers, the quaternions, or the octonions.
 -   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
 -   [Universal algebra](https://en.wikipedia.org/wiki/Universal_algebra)
--   See also: [Supersymmetry](physics.html#supersymmetry) in the Outline of [physics](physics.html).
+-   [Hurwitz's theorem](https://en.wikipedia.org/wiki/Hurwitz%27s_theorem_(composition_algebras))
+    -   The real numbers, the complex numbers, the quaternions, and the octonions
+        exhaust all the possible normed division algebras.
+    -   Baez, J.C. (2002). [The octonions](https://arxiv.org/abs/math/0105155). [^Baez2002]
+
+See also:
+
+-   [Supersymmetry](physics.html#supersymmetry) in the Outline of [physics](physics.html).
+
+[^Baez2002]: @Baez_2002_The_octonions\.
 
 
 Analysis
@@ -164,7 +172,7 @@ Logic
     -   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift) (1879)
 -   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
     -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
--   [G&ouml;del, Kurt (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+-   [Kurt G&ouml;del (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
     -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
     -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
 

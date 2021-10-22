@@ -199,20 +199,16 @@ Symmetry-first physics
 -   Principle of least action, Lagrangians
 -   Canonical dynamics
 -   Noether, E. (1918). Invariante variationsprobleme. [^Noether1918]
--   TODO: Noether's first and second theorem.
--   Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. [^Brading2002]
--   Baez, J.C. (2018). [Getting to the bottom of Noether’s theorem](https://math.ucr.edu/home/baez/noether/noether_web.pdf). Talk given at [The Philosophy and Physics of Noether’s Theorems](https://philosophy.nd.edu/news/events/noether/). [^Baez2018]
--   Wigner, E.P. (1954). Conservation laws in classical and quantum physics. [^Wigner1954]
--   't Hooft, G. (2007). [Lie groups in physics](http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf). [^tHooft2007]
--   *Physics from Symmetry* [^Schwichtenberg2015]
+    -   TODO: Noether's first and second theorem.
+    -   Wigner, E.P. (1954). Conservation laws in classical and quantum physics. [^Wigner1954]
+    -   Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. [^Brading2002]
+    -   Baez, J.C. (2018). [Getting to the bottom of Noether’s theorem](https://math.ucr.edu/home/baez/noether/noether_web.pdf). Talk given at [The Philosophy and Physics of Noether’s Theorems](https://philosophy.nd.edu/news/events/noether/). [^Baez2018]
 -   Goyal, P. (2020). Derivation of classical mechanics in an energetic framework via conservation and relativity. [^Goyal2020]
 
 [^Baez2018]: @Baez_2018_Getting_to_the_bottom_of_Noethers_theorem\.
 [^Brading2002]: @Brading_2002_Which_symmetry_Noether_Weyl_and_conservation\.
 [^Goyal2020]: @Goyal_2020_Derivation_of_classical_mechanics_in_an_energetic\.
 [^Noether1918]: @Noether_1918_Invariante_variationsprobleme\.
-[^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
-[^tHooft2007]: @tHooft_2007_Lie_groups_in_physics\.
 [^Wigner1954]: @Wigner_1954_Conservation_laws_in_classical_and_quantum\.
 
 
@@ -221,9 +217,13 @@ Symmetry-first physics
 -   Weyl, H. (1929). Elektron und gravitation. [^Weyl1929]
 -   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. [^tHooft1994]
 -   Teller, P. (2000). The gauge argument. [^Teller2000]
+-   't Hooft, G. (2007). [Lie groups in physics](http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf). [^tHooft2007]
+-   *Physics from Symmetry* [^Schwichtenberg2015]
 
+[^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^Teller2000]: @Teller_2000_The_gauge_argument\.
 [^tHooft1994]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
+[^tHooft2007]: @tHooft_2007_Lie_groups_in_physics\.
 [^Weyl1929]: @Weyl_1929_Elektron_und_gravitation\.
 
 
@@ -235,6 +235,7 @@ Symmetry-first physics
 -   Keller, Papadopoulos, & Reyes-Lega. (2007). On the realization of symmetries in quantum mechanics. [^Keller2007]
 -   Wigner-Stone theorems as cornerstones of QM (Ovrut)
 -   Wigner's classification
+    -   See also: disucssuion of symmetry in the section on [Fields](physics.html#fields)
 -   Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. [^Schweber1961]
 -   Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. [^Schroeren2021]
 
@@ -291,6 +292,8 @@ Feynman and Hibbs on the uncertainty principle:
 -   Born
 -   von Neumann
 -   Pauli
+
+![1927 Solvay Conference on Quantum Mechanics (source: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg)).](img/Solvay-conference-1927.jpg){#fig:Solvay-conference-1927}
 
 [^Kelvin1901]: @Kelvin_1901_Nineteenth_century_clouds_over_the_dynamical\.
 
@@ -900,7 +903,31 @@ Interpretations of quantum mechanics
 
 ### Bohmian mechanics
 
--   de Broglie-Bohm
+-   de Broglie-Bohm theory
+-   version of quantum theory discovered by Louis de Broglie in 1927 and rediscovered by David Bohm in 1952.
+-   Bohm, D. (1952). A suggested interpretation of the quantum theory in terms of 'hidden' variables, I and II. [^Bohm1952]
+-   Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. [^Bohm1953]
+-   Bell, J.S. (1987). *Speakable and Unspeakable in Quantum Mechanics*. [^Bell1987]
+-   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (1995). [Bohmian mechanics as the foundation of quantum mechanics](https://arxiv.org/abs/quant-ph/9511016) [^Durr1995]
+-   D&uuml;rr, D., Goldstein, S., Tumulka, R., & Zangh&igrave;, N. (2004). [Bohmian mechanics and quantum field theory](https://arxiv.org/abs/quant-ph/0303156). [^Durr2004]
+-   D&uuml;rr, D., Goldstein, S., Tumulka, R., & Zangh&igrave;, N. (2005). [Bell-type quantum field theories](https://arxiv.org/abs/quant-ph/0407116). [^Durr2005]
+-   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (2013). *Quantum Physics Without Quantum Philosophy*. Springer. [^Durr2013]
+-   Tumulka, R. (2017). [Bohmian_mechanics](https://arxiv.org/abs/1704.08017). [^Tumulka2017]
+-   Das, S. & D&uuml;rr, D. (2019). [Arrival time distributions of spin-1/2 particles](https://www.nature.com/articles/s41598-018-38261-4).
+-   Stopp, F., Ortiz-Guti&eacute;rrez, L., Lehec, H., & Schmidt-Kaler, F. (2021). [Single ion thermal wave packet analyzed via time-of-flight detection](https://iopscience.iop.org/article/10.1088/1367-2630/abffc0). [^Stopp2021]
+-   Ananthaswamy, A. (2021). [This simple experiment could challenge standard quantum theory](https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/). [^Ananthaswamy2021]
+
+[^Ananthaswamy2021]: @Ananthaswamy_2021_This_simple_experiment_could_challenge_standard\.
+[^Bell1987]: @Bell_1987_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
+[^Bohm1952]: @Bohm_1952_A_suggested_interpretation_of_the_quantum_theory\.
+[^Bohm1953]: @Bohm_1953_Proof_that_probability_density_approaches\.
+[^Das2019]: @Das_2019_Arrival_time_distributions_of_spin_12_particles\.
+[^Durr1995]: @Durr_1995_Bohmian_mechanics_as_the_foundation_of_quantum\.
+[^Durr2004]: @Durr_2004_Bohmian_mechanics_and_quantum_field_theory\.
+[^Durr2005]: @Durr_2005_Bell_type_quantum_field_theories\.
+[^Durr2013]: @Durr_2013_Quantum_Physics_Without_Quantum_Philosophy\.
+[^Stopp2021]: @Stopp_2021_Single_ion_thermal_wave_packet_analyzed_via_time\.
+[^Tumulka2017]: @Tumulka_2017_Bohmian_mechanics\.
 
 
 ### Everettian interpretation
@@ -989,7 +1016,7 @@ Interpretations of quantum mechanics
 
 ### Bad takes
 
--   MIT Technology Review. (2019). [A quantum experiment suggests there's no such thing as objective reality](https://www.technologyreview.com/2019/03/12/136684/a-quantum-experiment-suggests-theres-no-such-thing-as-objective-reality/)
+-   MIT Technology Review. (2019). [A quantum experiment suggests there's no such thing as objective reality](https://www.technologyreview.com/2019/03/12/136684/a-quantum-experiment-suggests-theres-no-such-thing-as-objective-reality/).
     -   Proietti [^Proietti2019]
     -   Weinberg, J. et al. (2019). [Philosophers on a physics experiment that "suggests there's no such thing as objective reality"](http://dailynous.com/2019/03/21/philosophers-physics-experiment-suggests-theres-no-thing-objective-reality/). *Daily Nous*. March 21, 2019.
 
