@@ -34,7 +34,7 @@ Popper, K.R. (1963). *Conjectures and Refutations: The Growth of Scientific Know
 Psillos, S. (1999). *Scientific Realism: How science tracks truth*. Routledge.
 Psillos, S. (2001). Is structural realism possible? *Philosophy of Science*, 68, S13--S24.
 Putnam, H. (1975). *Mathematics, Matter, and Method*. Cambridge University Press.
-Quine, W.V.O. (1948). On what there is. *Review of Metaphysics*, 21--38.
+Quine, W.V.O. (1948). On what there is. *Review of Metaphysics*, 2, 21--38.
 Quine, W.V.O. (1960). *Word and Object*. MIT Press.
 Quine, W.V.O. (1963). On simple theories of a complex world. *Synthese*, 15, 103--106.
 Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. Open Court.

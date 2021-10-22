@@ -232,7 +232,7 @@ Symmetry-first physics
 -   Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. [^Wigner1959]
 -   Simon, B. (1976). Quantum dynamics: from automorphism to Hamiltonian. [^Simon1976]
 -   Summers, S.J. (1999). On the Stone-von Neumann uniqueness theorem and its ramifications. [^Summers1999]
--   Keller, Papadopoulos, & Reyes-Lega. (2007). On the realization of symmetries in quantum mechanics. [^Keller2007]
+-   Keller, K.J., Papadopoulos, M.A., & Reyes-Lega, A.F. (2007). [On the realization of symmetries in quantum mechanics](https://arxiv.org/abs/0712.0997). [^Keller2007]
 -   Wigner-Stone theorems as cornerstones of QM (Ovrut) [^Reece2007pX1]
 -   Wigner's classification
     -   See also: disucssuion of symmetry in the section on [Fields](physics.html#fields)
@@ -1216,7 +1216,7 @@ Gravity and cosmology
 -   [Bernhard Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) (1826-1866)
 -   Einstein, A. & Grossmann, M. (1913). Outline of a generalized theory of relativity and of a theory of gravitation. [^Einstein1913]
 -   MTW. (1973). *Gravitation*. [^Misner1973]
--   Carroll, S. (2004). *Spacetime and Geometry*. [^Carroll2004]
+-   Carroll, S.M. (2004). *Spacetime and Geometry*. [^Carroll2004]
 
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
 [^Einstein1913]: @Einstein_1913_Entwurf_einer_verallgemeinerten\.
