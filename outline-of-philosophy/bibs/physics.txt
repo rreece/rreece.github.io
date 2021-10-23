@@ -4,6 +4,7 @@ Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://scien
 Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting processor. *Nature*, 574, 505--510. https://www.nature.com/articles/s41586-019-1666-5
 {ATLAS Collaboration}. (2008). The ATLAS Experiment at the CERN Large Hadron Collider. *Journal of Instrumentation*, 3, 08003. https://cds.cern.ch/record/1129811
 {ATLAS Collaboration}. (2012). Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC. *Physics Letters B*, 716, 1--29. https://arxiv.org/abs/1207.7214
+Bacciagaluppi, G. & Valentini, A. (2009). *Quantum Theory at the Crossroads: Reconsidering the 1927 Solvay Conference*. Cambridge University Press. https://arxiv.org/abs/quant-ph/0609184
 Baez, J.C., Segal, I., & Zhou, Z. (1992). *Introduction to Algebraic and Constructive Quantum Field Theory*. Princeton University Press. https://math.ucr.edu/home/baez/bsz.html
 Baez, J.C. & Huerta, J. (2009). The algebra of grand unified theories. *Bulletin of the American Mathematical Society*, 47, 483--552. https://arxiv.org/abs/0904.1556
 Baez, J.C. (2016). Struggles with the continuum. https://arxiv.org/abs/1609.01421
@@ -62,6 +63,7 @@ Frankel, T. (2004). *The Geometry of Physics* (2nd ed.). Cambridge University Pr
 Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 1: Development of the Theory and Basic Physical Applications*. Springer.
 Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 2: Black Holes, Cosmology and Introduction to Supergravity*. Springer.
 Freedman, D.Z., van Nieuwenhuizen, P., & Ferrara, S. (1976). Progress toward a theory of supergravity. *Physical Review D*, 13, 3214--3218.
+Friedrich, B. (2016). How did the tree of knowledge get its blossom? The rise of physical and theoretical chemistry, with an eye on Berlin and Leipzig. *Angewandte* 55, 5378--5392. https://onlinelibrary.wiley.com/doi/10.1002/anie.201509260
 Joos, E., Zeh, H.D., Kiefer, C., Giulini, D.,  Kupsch, J., Stamatescu, I.O. (2003). *Decoherence and the Appearance of a Classical World in Quantum Theory* (2nd ed.). Springer. [(Originally published in 1996)]
 Georgi, H. & Glashow, S.L. (1974). Unity of all elementary-particle forces. *Physical Review Letters*, 32, 438--441. http://pcbat1.mi.infn.it/~battist/astrop/su5.pdf
 Glashow, S. (1961). Partial symmetries of weak interactions. *Nuclear Physics*, 22, 579--588.

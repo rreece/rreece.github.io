@@ -135,18 +135,16 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
 -   [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (c. 1,600-400 BCE)
 -   [Olmec hieroglyphs](https://en.wikipedia.org/wiki/Olmec_hieroglyphs) possibly as early as 900 BCE
 -   [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block) with Olmec hieroglyphs possibly as early as c. 1,000 BCE
--   See also: [American religions](#american).
+
+See also:
+
+-   [American religions](#american).
 
 
 ### Industrial Revolution
 
 -   Muehlhauser, L. (2017). [Three wild speculations from amateur quantitative macrohistory](http://lukemuehlhauser.com/three-wild-speculations-from-amateur-quantitative-macrohistory/).
 -   Muehlhauser, L. (2017). [How big a deal was the Industrial Revolution?](http://lukemuehlhauser.com/industrial-revolution/)
--   See also:
-    -   [History of science](scientific-method.html#history-of-science)
-        in the [Outline on the scientific method](scientific-method.html).
-    -   [Technological growth](future.html#technological-growth)
-        in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
 
 Feynman:
 
@@ -169,6 +167,13 @@ Feynman:
 >   and choked. What is communicated can be lies as well as truth,
 >   propaganda as well as real and valuable information. Communication is
 >   a strong force, also, but either for good or evil. [^Feynman1998p31]
+
+See also:
+
+-   [History of science](scientific-method.html#history-of-science)
+    in the [Outline on the scientific method](scientific-method.html).
+-   [Technological growth](future.html#technological-growth)
+    in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
 
 [^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
 
@@ -615,7 +620,6 @@ Ethics:
 -   [Buddhist ethics](https://en.wikipedia.org/wiki/Buddhist_ethics)
 -   [Women in Buddhism](https://en.wikipedia.org/wiki/Women_in_Buddhism)
 -   [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) (nonviolence)
--   See also: [Compassion](ethics.html#compassion) in the [Outline on Ethics](ethics.html).
 
 Atheism:
 
@@ -661,6 +665,10 @@ Other stuff:
 -   Harris [^Harris2014]
 -   Wright [^Wright2017]
 -   Wright, R. (2017). [Buddhism is more 'Western' than you think](https://www.nytimes.com/2017/11/06/opinion/buddhism-western-philosophy.html). *New York Times*.
+
+See also:
+
+-   [Compassion](ethics.html#compassion) in the [Outline on Ethics](ethics.html).
 
 [^Hayes1988]: @Hayes_1988_Principled_atheism_in_the_Buddhist_scholastic\.
 [^Harris2014]: @Harris_2014_Waking_Up_A_Guide_to_Spirituality_Without\.
@@ -1278,9 +1286,11 @@ Other stuff:
 -   [Reflective practice](https://en.wikipedia.org/wiki/Reflective_practice)
 -   [Cognitive behavioral therapy (CBT)](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
 -   Pigliucci, M. (2018). [Stoicism and relationships: three models](https://howtobeastoic.wordpress.com/2018/06/14/stoicism-and-relationships-three-models/).
--   See also:
-    -   [Buddhism and Stoicism](#buddhism-and-stoicism) in the section on [Comparitive studies](#comparitive-studies).
-    -   [Cognitive behavioral therapy](#cognitive-behavioral-therapy) in the section on [psychology](#psychology).
+
+See also:
+
+-   [Buddhism and Stoicism](#buddhism-and-stoicism) in the section on [Comparitive studies](#comparitive-studies).
+-   [Cognitive behavioral therapy](#cognitive-behavioral-therapy) in the section on [psychology](#psychology).
 
 
 ### Related movements
@@ -1342,7 +1352,11 @@ Other stuff:
 -   TODO: Did Zeno of Citium ever meet Pyrrho or Timon of Phlius?
 -   [Timon of Phlius](https://en.wikipedia.org/wiki/Timon_of_Phlius) (c. 320-235 BCE)
 -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (160-210 CE)
--   See also: [Indian and Greek philosophy](#indian-and-greek-philosophy)
+
+See also:
+
+-   [Indian and Greek philosophy](#indian-and-greek-philosophy)
+
 
 #### Academic skepticism
 
@@ -1412,13 +1426,15 @@ Me: And then there was hip hop.
     -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
     -   [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
     -   [How romanticism has destroyed love](https://www.youtube.com/watch?v=z_JW2TeeVA4)
--   See also:
-    -   [Nihilism](#nihilism)
 
 Joni Mitchell:
 
 >   It's love's illusions that I recall.        
 >   I really don't know love at all. [^Mitchell1969]
+
+See also:
+
+-   [Nihilism](#nihilism)
 
 [^Mitchell1969]: Joni Mitchell. (1969). Song: "Both sides now" on the album *Clouds*.
 
@@ -1636,8 +1652,10 @@ TODO: Find Dawkins on multiple instances of convergent evolution of eyes.
 -   Christopher Hitchens
     -   *Mortality* [^Hitchens2012]
 -   [Cancer](https://plato.stanford.edu/entries/cancer/)
--   See also:
-    -   [Terror management theory](human-condition.html#terror-management-theory).
+
+See also:
+
+-   [Terror management theory](human-condition.html#terror-management-theory).
 
 [^Bodhi2005p206]: @Bodhi_2005_In_the_Buddhas_Words_An_anthology_of_discourses\, p. 206--7.
 [^Hitchens2012]: @Hitchens_2012_Mortality\.
@@ -1669,7 +1687,10 @@ TODO:
 -   Lehrer, J. (2010). [Depression's Upside](https://www.nytimes.com/2010/02/28/magazine/28depression-t.html). *New York Times Magazine*.
 -   Moss, S. (2016). [Analytical rumination hypothesis](https://www.sicotests.com/psyarticle.asp?id=355).
 -   [Evolutionary approaches to depression](https://en.wikipedia.org/wiki/Evolutionary_approaches_to_depression)
--   See also: [Regret](ethics.html#regret) in the [Outline on Ethics](ethics.html).
+
+See also:
+
+-   [Regret](ethics.html#regret) in the [Outline on Ethics](ethics.html).
 
 [^Andrews2009]: @Andrews_2009_The_bright_side_of_being_blue_Depression_as\.
 
@@ -1692,7 +1713,10 @@ TODO:
 
 -   Terror management theory (TMT)
 -   Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski
--   See also: [Mortality](human-condition.html#mortality).
+
+See also:
+
+-   [Mortality](human-condition.html#mortality).
 
 
 Atheism
@@ -1747,7 +1771,10 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
     -   Greenblatt, S. (2011). *The Swerve*. [^Greenblatt2011]
     -   Greenblatt, S. (2011). The answer man. [^Greenblatt2011ny]
     -   No teleology
--   See also: [Monism and physicalism](naturalism.html#monism-and-physicalism).
+
+See also:
+
+-   [Monism and physicalism](naturalism.html#monism-and-physicalism).
 
 [^Greenblatt2011]: @Greenblatt_2011_The_Swerve_How_the_World_Became_Modern\.
 [^Greenblatt2011ny]: @Greenblatt_2011_The_answer_man_An_ancient_poem_was_rediscovered\.
@@ -1757,7 +1784,6 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 ### Miracles
 
 -   Hume: Bailey, A. & O'Brien, D. (2014). *Hume's Critique of Religion: 'Sick Men's Dreams'*. [^Bailey2014]
--   See also: [Rejection of the supernatural](naturalism.html#rejection-of-the-supernatural)
 
 John Irving:
 
@@ -1770,6 +1796,10 @@ John Irving:
 >
 >   All novels (for me) begin with a kind of, "What if" and take flight
 >   from there. [^Irving2009]
+
+See also:
+
+-   [Rejection of the supernatural](naturalism.html#rejection-of-the-supernatural)
 
 [^Bailey2014]: @Bailey_2014_Humes_Critique_of_Religion_Sick_Mens_Dreams\.
 [^Irving2009]: @Moore_2009_John_Irving_on_religion_sports_and_Owen_Meany\.

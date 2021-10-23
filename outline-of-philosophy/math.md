@@ -278,11 +278,25 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 
 ### Alternative logics
 
+-   Intuitionistic Logic
+    -   Law of excluded middle (LEM): *Tertium non datur*.        
+        $\vdash A \lor \lnot A$
+    -   Intuitionistic logic rejects LEM.
+    -   Constructive mathematics
 -   Liar paradox
 -   Paraconsistent logic
--   Law of No Contradiction (LNC)
--   Dialetheism
--   Graham Priest
+    -   [Principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion)
+    -   *Ex contradictione quodlibet* (ECQ): from a contradiction anything follows.         
+        $A, \lnot A \models B$
+    -   Law of No Contradiction (LNC).            
+        $\models \lnot ( A \land \lnot A )$
+    -   Paraconsistent logics reject ECQ, and may or may not invalidate LNC.
+    -   Priest, G. (1998). What is so bad about contradictions? [^Priest1998]
+    -   Dialetheism rejects LNC.
+    -   Rosario Mart&iacute;nez-Ordaz, M. del. (2020). The ignorance behind inconsistency toleration. [^Rosario2020]
+
+[^Priest1998]: @Priest_1998_What_is_so_bad_about_contradictions\.
+[^Rosario2020]: @Rosario_2020_The_ignorance_behind_inconsistency_toleration\.
 
 
 Model theory
@@ -540,13 +554,18 @@ Platonism
 -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
 -   Carroll, S. (2021). [Mindscape 127: Justin Clarke-Doane on Mathematics, Morality, Objectivity, and Reality](https://www.youtube.com/watch?v=3tvfq8ehHOk).
 
+
+### Visual proofs
+
 ![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
 
 ![A visual proof that $\sum_{k=1}^{\infty} \frac{1}{4^k} = \frac{1}{3}$.](img/visual-proof-geometric-series-sum-to-third.jpg)
 
 -   [Proofs without words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
 -   [Binomial theorem visualisation](https://en.wikipedia.org/wiki/File:Binomial_theorem_visualisation.svg)
+-   Chen, E.K. (2018). [The intrinsic structure of quantum mechanics](http://philsci-archive.pitt.edu/15140/). [^Chen2018]
 
+[^Chen2018]: @Chen_2018_The_intrinsic_structure_of_quantum_mechanics\.
 [^Quine1948]: @Quine_1948_On_what_there_is\.
 [^Quine1948p7]: @Quine_1948_On_what_there_is\, p. 7.
 [^Quine1948p9]: @Quine_1948_On_what_there_is\, p. 9.

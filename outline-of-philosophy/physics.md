@@ -284,18 +284,29 @@ Feynman and Hibbs on the uncertainty principle:
 
 ### History
 
+-   [History of quantum mechanics](https://en.wikipedia.org/wiki/History_of_quantum_mechanics)
 -   Kelvin, L. (1901). Nineteenth century clouds over the dynamical theory of heat and light. [^Kelvin1901]
--   Planck
--   Einstein
--   Bohr
--   Heisenberg
--   Schr&ouml;dinger
--   Born
--   von Neumann
--   Pauli
+-   [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) (1858-1947)
+-   [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (1879-1955)
+-   [Max Born](https://en.wikipedia.org/wiki/Max_Born) (1882-1970)
+-   [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962)
+-   [Erwin Schr&ouml;dinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger) (1887-1961)
+-   [Louis de Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) (1892-1987)
+-   [Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg) (1901-1976)
+-   [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) (1903-1957)
+-   [Wolfgang Pauli](https://en.wikipedia.org/wiki/Wolfgang_Pauli) (1900-1958)
+-   [Pascual Jordan](https://en.wikipedia.org/wiki/Pascual_Jordan) (1902-1980)
+-   [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac) (1902-1984)
+-   [An introduction to the Solvay conferences on physics](https://explore.psl.eu/en/discover/focus/introduction-solvay-conferences-physics) - Universit&eacute; PSL
+-   Bacciagaluppi, G. & Valentini, A. (2009). [*Quantum Theory at the Crossroads: Reconsidering the 1927 Solvay Conference*](https://arxiv.org/abs/quant-ph/0609184). [^Bacciagaluppi2009]
 
 ![1927 Solvay Conference on Quantum Mechanics (source: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg)).](img/Solvay-conference-1927.jpg){#fig:Solvay-conference-1927}
 
+-   [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) (1904-1967)
+-   [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) (1902-1995)
+-   [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (1918-1988)
+
+[^Bacciagaluppi2009]: @Bacciagaluppi_2009_Quantum_Theory_at_the_Crossroads_Reconsidering\.
 [^Kelvin1901]: @Kelvin_1901_Nineteenth_century_clouds_over_the_dynamical\.
 
 
@@ -376,14 +387,17 @@ See also:
 
 ### Quantum chemistry
 
+-   Friedrich, B. (2016). [How did the tree of knowledge get its blossom? The rise of physical and theoretical chemistry, with an eye on Berlin and Leipzig](https://onlinelibrary.wiley.com/doi/10.1002/anie.201509260). [^Friedrich2016]
 -   Density functional theory
 -   Cao et al. (2019). Physical origin of chemical periodicities. [^Cao2019]
 
 [^Cao2019]: @Cao_2019_Physical_origin_of_chemical_periodicities\.
+[^Friedrich2016]: @Friedrich_2016_How_did_the_tree_of_knowledge_get_its_blossom\.
 
 
 ### Quantum computing
 
+-   Feynman
 -   Aaronson, S. (2011). Why philosophers should care about computational complexity. [^Aaronson2011]
 -   Preskill, J. (2018). [Quantum computing in the NISQ era and beyond](https://arxiv.org/abs/1801.00862). [^Preskill2018]
 -   Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting processor. [^Arute2019]

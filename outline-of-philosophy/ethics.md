@@ -373,9 +373,9 @@ Thoreau:
 -   Danaher, J. (2019). [The wisdom of regret and the fallacy of regret minimisation](https://philosophicaldisquisitions.blogspot.com/2019/01/the-wisdom-of-regret-and-fallacy-of.html).
 -   Malesic, J. (2020). [Je regrette tout: Does moral growth demand regret?](https://hedgehogreview.com/issues/monsters/articles/je-regrette-tout)
 
-See also: [Depression](human-condition.html#depression) in the [Outline on the human condition](human-condition.html).
+See also:
 
--   Analytical rumination hypothesis
+-   [Depression](human-condition.html#depression) in the [Outline on the human condition](human-condition.html).
 
 [^Thoreau13Nov1839]: *The Journal* of Henry David Thoreau, November 13, 1839.
     (What the hell did Thoreau know about regret at age 22?)

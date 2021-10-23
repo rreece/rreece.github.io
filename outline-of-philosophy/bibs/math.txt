@@ -7,6 +7,7 @@ Brouwer, L.E.J. (1908). Unreliability of the logical principles. https://arxiv.o
 Bueno, O. (2013). Nominalism in the philosophy of mathematics. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/nominalism-mathematics/
 Burgess, J.P. (1983). Why I am not a nominalist. *Notre Dame Journal of Formal Logic*, 24(1), 93--105.
 Button, T. & Walsh, S. (2018). *Philosophy and Model Theory*. Oxford University Press.
+Chen, E.K. (2018). The intrinsic structure of quantum mechanics. http://philsci-archive.pitt.edu/15140/
 Enderton, H.B. (2009). Second-order and higher-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/archives/sum2019/entries/logic-higher-order/
 Ewald, W. (2018). The emergence of first-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/logic-firstorder-emergence/
 Field, H. (1989). *Realism, Mathematics, and Modality*. Oxford: Blackwell.
@@ -22,9 +23,11 @@ Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard Fir
 Linsky, B. & Zalta, E.N. (2006). What is Neologicism? *The Bulletin of Symbolic Logic*, 12, 60-99. http://mally.stanford.edu/Papers/neologicism2.pdf
 MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction*. Routledge.
 Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
+Priest, G. (1998). What is so bad about contradictions? *Journal of Philosophy*, 95, 410--426. 
 Putnam, H. (1971). *Philosophy of Logic*. New York: Harper & Row.
 Putnam, H. (1975). What is mathematical truth? *Historia Mathematica*, 2(4), 529--543.
 Reid, C. (1996). *Hilbert*. Copernicus.
+Rosario Mart{\'i}nez-Ordaz, M. (2020). The ignorance behind inconsistency toleration. *Synthese*, 198, 8665--8686.
 Russell, B. (1905). On Denoting. *Mind*, 14(56), 479--493.
 Russell, G. (2015). The justification of the basic laws of logic. *Journal of Philosophical Logic*, 44(6), 793--803.
 {Open Logic Project}. (2020). *The Open Logic Text*. https://openlogicproject.org/
