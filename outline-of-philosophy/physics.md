@@ -293,7 +293,6 @@ Feynman and Hibbs on the uncertainty principle:
 -   [Erwin Schr&ouml;dinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger) (1887-1961)
 -   [Louis de Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) (1892-1987)
 -   [Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg) (1901-1976)
--   [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) (1903-1957)
 -   [Wolfgang Pauli](https://en.wikipedia.org/wiki/Wolfgang_Pauli) (1900-1958)
 -   [Pascual Jordan](https://en.wikipedia.org/wiki/Pascual_Jordan) (1902-1980)
 -   [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac) (1902-1984)
@@ -302,12 +301,17 @@ Feynman and Hibbs on the uncertainty principle:
 
 ![1927 Solvay Conference on Quantum Mechanics (source: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg)).](img/Solvay-conference-1927.jpg){#fig:Solvay-conference-1927}
 
+-   [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) (1903-1957)
+    -   *The Mathematical Foundations of Quantum_Mechanics* (1932) [^vonNeumann1955]
+    -   van Hove, L. (1958). Von Neumann's contributions to quantum theory. [^vanHove1958]
 -   [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) (1904-1967)
 -   [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) (1902-1995)
 -   [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (1918-1988)
 
 [^Bacciagaluppi2009]: @Bacciagaluppi_2009_Quantum_Theory_at_the_Crossroads_Reconsidering\.
 [^Kelvin1901]: @Kelvin_1901_Nineteenth_century_clouds_over_the_dynamical\.
+[^vanHove1958]: @vanHove_1958_Von_Neumanns_contributions_to_quantum_theory\.
+[^vonNeumann1955]: @vonNeumann_1955_The_Mathematical_Foundations_of_Quantum_Mechanics\.
 
 
 ### Hydrogen atom

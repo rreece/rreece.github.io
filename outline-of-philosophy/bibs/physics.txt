@@ -145,7 +145,9 @@ Teller, P. (2000). The gauge argument. *Philosophy of Science*. 67, 466--481.
 't Hooft, G. (2021). An unorthodox view on quantum mechanics. https://arxiv.org/abs/2104.03179
 Tong, D. (2006). Lectures on Quantum Field Theory. https://www.damtp.cam.ac.uk/user/tong/qft.html
 Tumulka, R. (2017). Bohmian mechanics. https://arxiv.org/abs/1704.08017
+van Hove, L. (1958). Von Neumann's contributions to quantum theory. *Bulletin of the American Mathematical Society*. 64, 95--100. https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-64/issue-3.P2/Von-Neumanns-contributions-to-quantum-theory/bams/1183522374.full
 van Nieuwenhuizen, P. (1981). Supergravity. *Physics Reports*, 68, 189--398.
+von Neumann, J. (1955). *The Mathematical Foundations of Quantum Mechanics* (R.T. Beyer, Trans.). Princeton University Press. [(Originally published in German in 1932)]
 Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
 Weinberg, S. (1967). A model of leptons. *Physical Review Letters*, 19, 1264--1266. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.19.1264
 Weinberg, S. (1977). *The First Three Minutes*. Basic Books.
