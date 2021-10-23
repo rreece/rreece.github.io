@@ -838,6 +838,14 @@ See also:
     -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - ncatlab.org
     -   [Supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - ncatlab.org
     -   [Superalgebra](https://en.wikipedia.org/wiki/Superalgebra)
+
+Urs Schreiber:
+
+>   not just that local spacetime supersymmetry is one possibility to have
+>   sensible particle content under Wigner classification, but that the class of
+>   (algebraic) super-groups precisely exhausts the moduli space of possible
+>   consistent local spacetime symmetry groups. [^Schreiber2016]
+
 -   Minimal Supersymmetric Standard Model (MSSM)
     -   Dimopoulos, S. & Georgi, H. (1981). Softly broken supersymmetry and SU(5). [^Dimopoulos1981]
     -   Murayama, H. (2000). [Supersymmetry_phenomenology](https://arxiv.org/abs/hep-ph/0002232). [^Murayama2000]
@@ -851,13 +859,6 @@ See also:
 -   Pedagogy
     -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
     -   Martin, S.P. (2016). [A supersymmetry primer](https://arxiv.org/abs/hep-ph/9709356). [^Martin2016]
-
-Urs Schreiber:
-
->   not just that local spacetime supersymmetry is one possibility to have
->   sensible particle content under Wigner classification, but that the class of
->   (algebraic) super-groups precisely exhausts the moduli space of possible
->   consistent local spacetime symmetry groups. [^Schreiber2016]
 
 See also:
 
