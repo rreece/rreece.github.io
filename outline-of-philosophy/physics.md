@@ -189,6 +189,7 @@ Symmetry-first physics
 
 ### Curie's principle
 
+-   Pierre Curie (1859-1906)
 -   "The symmetries of the causes are to be found in the effects."
 -   Counting degrees of freedom
 -   Totalitarian principle: "Everything not forbidden is compulsory." - Murray Gell-Mann
