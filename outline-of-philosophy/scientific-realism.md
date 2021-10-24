@@ -1061,7 +1061,7 @@ See also:
 ### Ordinary language philosophy
 
 -   Late Wittgenstein
--   @Wittgenstein_2009_Philosophical_Investigations\. *Philosophical Investigations*.
+-   *Philosophical Investigations* [^Wittgenstein2009]
 -   Instrumentalist and pragmatist
 -   An important project is to understand the differences between early (*TLP*)
     and late (*PI*) Wittgenstein. It is quite the about-face.
@@ -1071,8 +1071,10 @@ See also:
 -   PI:
     -   Duck-rabbit; "seeing that" vs "seeing as"
 -   Rorty
-    -   Wittgenstein, Heidegger, and the reification of language. [^Rorty1991]
-    -   "Obsession with this image of something deeply hidden"
+    -   Wittgenstein, Heidegger, and the reification of language.
+    -   "Obsession with this image of something deeply hidden" [^Rorty1993p347]
+-   Cavell
+    -   *Must We Mean What We Say?* (1969) [^Cavell2015]
 
 Wittgenstein in *PI*:
 
@@ -1080,7 +1082,9 @@ Wittgenstein in *PI*:
 
 TODO: find ref of above quote.
 
-[^Rorty1991]: @Rorty_1991_Wittgenstein_Heidegger_and_the_reification\.
+[^Cavell2015]: @Cavell_2015_Must_We_Mean_What_We_Say\.
+[^Rorty1993p347]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\, p. 347.
+[^Wittgenstein2009]: @Wittgenstein_2009_Philosophical_Investigations\.
 
 
 ### The "death" of positivism

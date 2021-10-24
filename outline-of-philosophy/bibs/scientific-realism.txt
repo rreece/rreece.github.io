@@ -5,6 +5,7 @@ Barrett, J. (2004). On the cognitive status of our best physical theories. http:
 Bird, A., & Tobin, E. (2015). Natural kinds. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/natural-kinds/
 Boghossian, P. (2006). *Fear of Knowledge*. Oxford University Press.
 Borges, J.L. (1998). *Collected Fictions* (A. Hurley, Trans.). Penguin Group.
+Cavell, S. (2015). *Must We Mean What We Say?* Cambridge University Press. [(Originally published in 1969)]
 Chakravartty, A. (2007). *A Metaphysics for Scientific Realism*. Cambridge University Press.
 Chakravartty, A. (2017). Scientific realism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/scientific-realism/
 Chalmers, D. (2003). The Matrix as metaphysics. http://consc.net/papers/matrix.html
@@ -42,7 +43,8 @@ Redhead, M. (1999). Quantum field theory and the philosopher. In Cao, T.Y. (Ed.)
 Redhead, M. (2001). The intelligibility of the universe. *Royal Institute of Philosophy Supplements*, 48, 73--90.
 Reichenbach, H. (1951). The rise of scientific philosophy. University of California Press.
 Richter, D.J. (2004). Ludwig Wittgenstein. *International Encyclopedia of Philosophy*. https://iep.utm.edu/wittgens/
-Rorty, R. (1991). Wittgenstein, Heidegger, and the reification of language. In *Essays on Heidegger and Others* (pp. 50--65). Cambridge University Press.
+#Rorty, R. (1991). Wittgenstein, Heidegger, and the reification of language. In *Essays on Heidegger and Others* (pp. 50--65). Cambridge University Press.
+Rorty, R. (1993). Wittgenstein, Heidegger, and the reification of language. In Guignonn, C.B. (Ed.) *The Cambridge Companion to Heidegger* (pp. 337--357). Cambridge University Press.
 Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. Oxford University Press.
 Rovelli, C. (2003). A dialog on quantum gravity. https://arxiv.org/abs/hep-th/0310077
 Russell, B. (1912). *The Problems of Philosophy*. Oxford University Press. [(with Introduction by John Perry 1997)]
