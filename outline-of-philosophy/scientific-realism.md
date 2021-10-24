@@ -653,7 +653,8 @@ Comte on the unknowability of the composition of stars:
 -   Gottlob Frege (1848-1925)
     -   Sense and reference (1892)
 -   Ludwig Wittgenstein (1889-1951)
--   [The linguistic turn](https://en.wikipedia.org/wiki/Linguistic_turn)
+    -   [The linguistic turn](https://en.wikipedia.org/wiki/Linguistic_turn)
+    -   [Gustav Bergmann](https://en.wikipedia.org/wiki/Gustav_Bergmann) (1906-1987)
 
 Wittgenstein studied with, was influenced by, and influenced:
 
@@ -839,7 +840,7 @@ and
 
 Reichenbach:
 
--   *The Rise of Scientific Philosophy* (1951)
+-   *The Rise of Scientific Philosophy* (1951) [^Reichenbach1968]
 
 Also:
 
@@ -867,6 +868,7 @@ with strong contrasts to positivism that were developing around it:
 [^Leitgeb2020]: @Leitgeb_2020_Rudolf_Carnap\.
 [^Leitgeb2020G]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement G: Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html).
 [^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
+[^Reichenbach1968]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\.
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 [^Quine1990-3]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\, p. TODO.
 [^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
