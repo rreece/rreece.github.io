@@ -414,6 +414,7 @@ Hume:
 -   Immanuel Kant (1724-1804)
     -   *Critique of Pure Reason* (1781) [^Kant1996]
     -   *Metaphysical Foundations of Natural Science* (1786)
+    -   *Critique of Practical Reason* (1788)
     -   *Critique of Judgment* (1790)
         -   "It is absurd to hope that another Newton will arise in the future
             who will make comprehensible to us the production of a blade of grass according to natural laws"
@@ -497,6 +498,39 @@ See also:
 
 ### Criticisms
 
+Einstein:
+
+>   As far as the laws of mathematics refer to reality, they are not certain;
+>   and as far as they are certain, they do not refer to reality. [^Einstein1922pX]
+
+and
+
+>   I am even of the opinion that this standpoint
+>   [Kant’s system of *a priori* concepts and norms]
+>   cannot be strictly refuted by any scientific development. For, one will
+>   always be able to say that critical philosophers had hitherto erred in
+>   setting up the *a priori* elements and one will always be able to set up
+>   a system of *a priori* elements that does not conflict with a given
+>   physical system. I surely may briefly indicate why I do not find this
+>   standpoint natural. Let a physical theory consist of the parts (elements)
+>   $A$, $B$, $C$, $D$, which together form a logical whole that correctly connects
+>   the pertinent experiments (sensory experiences). Then the tendency is
+>   that less than all four elements, e.g., $A$, $B$, $D$, still say nothing about
+>   the experiences, *without* $C$; no more so $A$, $B$, $C$, without $D$. One is then free
+>   to regard three of these elements, e.g., $A$, $B$, $C$, as *a priori* and only $D$ as
+>   empirically determined. What always remains unsatisfactory in this is the
+>   *arbitrariness* of the choice of elements to be designated as *a priori*, even
+>   disregarding that the theory could be replaced at some point by another
+>   theory that substitutes some of these elements (or all four of them) with
+>   others. One could be of the view, though, that through direct analysis of
+>   human reason, or thought, we would be in a position to recognize elements
+>   that would have to be present in any theory. But most researchers would
+>   probably agree that we lack a method for recognizing such elements, even if
+>   one were inclined to believe in their existence. Or should one imagine that
+>   the search for *a priori* elements was a kind of asymptotic process that
+>   advances along with the development of science? [^Norton2017]
+
+-   Norton, J.D. (2017). [Einstein on Kant](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/significance_GR_geometry/Einstein_on_Kant.html).
 -   Quine: "Two dogmas of empiricism" [^Quine1951]
 -   Carnap vs Quine [^Quine1990]
 
@@ -505,6 +539,8 @@ See also:
 -   Longer discussion of the [Attack on the analytic/synthetic distinction](scientific-realism.html#attack-on-the-analyticsynthetic-distinction)
     in the section on [Postpositivism](scientific-realism.html#positivism).
 
+[^Einstein1922pX]: @Einstein_1922_Geometry_and_Experience\, p. TODO.
+[^Norton2017]: @Norton_2017_Einstein_on_Kant\.
 [^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1990]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
 
@@ -721,7 +757,7 @@ Reichenbach:
 >   are merely probable, is not the ultimate answer to the question of
 >   induction; it is only a sort of intermediate answer, which is incomplete
 >   unless a theory of probability is developed that explains what we should
->   mean by "probable" and on what ground we can assert probabilities. [^Reichenbach1951p93]
+>   mean by "probable" and on what ground we can assert probabilities. [^Reichenbach1968p93]
 
 -   Carnap
     -   "On inductive logic" [^Carnap1945a]
@@ -753,7 +789,7 @@ See also:
 [^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
     @Reichenbach_1940_On_the_justification_of_induction\.
     TODO: Break up and go through these references.
-[^Reichenbach1951p93]: @Reichenbach_1951_The_rise_of_scientific_philosophy\, p. 93-4.
+[^Reichenbach1968p93]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\, p. 93-4.
 [^Sankey2008p79]: @Sankey_2008_Scientific_Realism_and_the_Rationality_of_Science\, p. 79.
 [^Vickers2014]: @Vickers_2014_The_problem_of_induction (emphasis added).
 
@@ -927,6 +963,23 @@ Sagan:
     -   In the introduction, in a rather positivist way, Spivak describes his view that
         category theory can be used to ground truth in observation.
 
+Kant:
+
+>   Whether someone's treatment of the cognitions pertaining to reason's
+>   business does or does not follow the secure path of a
+>   science---this we can soon judge from the result. If, after many
+>   preparations and arrangements have been made, the treatment falters
+>   as soon as it turns to its purpose; or if, in order to reach that
+>   purpose, it repeatedly has to retrace its steps and
+>   enter upon a different path; or, again, if the various collaborators
+>   cannot be brought to agree on the manner in which their common aim is
+>   to be achieved---then we may rest assured that such an endeavor is
+>   still far from having entered upon the secure path of a science,
+>   but is a mere groping about. We shall indeed be rendering a service
+>   to reason if we can possibly discover that path, even if we should
+>   have to give up as futile much that was included in the purpose
+>   which we had previously adopted without deliberation. [^Kant1787pBvii]
+
 ![Spivak's figure "intended to evoke thoughts of the scientific method". [^Spivak2013p5]](img/Spivak-scientific-method.png){#fig:Spivak-scientific-method}
 
 See also:
@@ -936,6 +989,7 @@ See also:
 [^French2007pX]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. TODO.
 [^French2007pX2]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. TODO.
 [^Hempel1948]: @Hempel_1948_Studies_in_the_logic_of_explanation\.
+[^Kant1787pBvii]: @Kant_1996_Critique_of_Pure_Reason\, p. B vii.
 [^Kuhn1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
@@ -1448,6 +1502,7 @@ Click to show links
 -   [Descartes, Ren&eacute; (1596-1650)](http://plato.stanford.edu/entries/descartes/)
 -   [Descartes' epistemology](http://plato.stanford.edu/entries/descartes-epistemology/)
 -   [Descartes' method](https://plato.stanford.edu/entries/descartes-method/)
+-   [Einstein's Philosophy of Science](http://plato.stanford.edu/entries/einstein-philscience/)
 -   [Epistemological problems of perception](http://plato.stanford.edu/entries/perception-episprob/)
 -   [Epistemological problems of testimony](http://plato.stanford.edu/entries/testimony-episprob/)
 -   [Epistemology](http://plato.stanford.edu/entries/epistemology/)

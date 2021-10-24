@@ -349,13 +349,6 @@ The primary dichotomy of positions is between forms of scientific realism and in
     -   And [this](https://www.youtube.com/watch?v=reSApZ0TK_s), [this](https://www.youtube.com/watch?v=xu6kkLJ58Z0), and [this](https://www.youtube.com/watch?v=3EebMeEo91c).
     -   TODO: move some of this discussion to the next sections on instrumentalism and postpositivism.
 
-Einstein:
-
->   As far as the laws of mathematics refer to reality, they are not certain;
->   and as far as they are certain, they do not refer to reality. [^Einstein1922]
-
--   Norton, J.D. (2017). [Einstein on Kant](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/significance_GR_geometry/Einstein_on_Kant.html).
-
 See also:
 
 -   [Superseded theories in science](#superseded-theories-in-science)
@@ -363,7 +356,6 @@ See also:
 
 [^Khlentzos2011-2]: @Khlentzos_2011_Challenges_to_metaphysical_realism\.
 [^Poincare1913p351]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 351.
-[^Einstein1922]: @Einstein_1922_Geometry_and_Experience\.
 [^Wray2018]: @Wray_2018_Resisting_Scientific_Realism\.
 
 
@@ -1832,7 +1824,6 @@ Click to show links
 -   [Constructive Empiricism](http://plato.stanford.edu/entries/constructive-empiricism/)
 -   [Davidson, Donald (1917-2003)](http://plato.stanford.edu/entries/davidson/)
 -   [Duhem, Pierre (1861-1916)](http://plato.stanford.edu/entries/duhem/)
--   [Einstein's Philosophy of Science](http://plato.stanford.edu/entries/einstein-philscience/)
 -   [Eliminative Materialism](http://plato.stanford.edu/entries/materialism-eliminative/)
 -   [Feyerabend, Paul (1924-1994)](http://plato.stanford.edu/entries/feyerabend/)
 -   [Feminist Epistemology and Philosophy of Science](https://plato.stanford.edu/entries/feminism-epistemology/)
