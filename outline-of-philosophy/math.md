@@ -310,7 +310,7 @@ Model theory
 -   SEP: [Model theory](https://plato.stanford.edu/entries/model-theory/)
     -   Model theory is the study of the interpretation of any language, formal or natural, by means of set-theoretic structures, with Alfred Tarski's truth definition as a paradigm.
 -   William Rowan Hamilton
--   Alfred North Whitehead, *A Treatise on Universal Algebra* (1898)
+-   Alfred North Whitehead. (1898). *A Treatise on Universal Algebra*.
 -   Wilfrid Hodges
 -   Language
 -   Carnap

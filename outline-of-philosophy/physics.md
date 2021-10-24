@@ -57,10 +57,12 @@ Discussion:
     -   Einstein [^Einstein1905b]
     -   Perrin, J. (1913). *Les Atomes*. [^Perrin1913]
     -   Patterson [^Patterson2007]
+-   Russell [^Russell1992]
 
 [^Einstein1905b]: @Einstein_1905_Uber_die_von_der_molekularkinetischen_theorie\.
 [^Patterson2007]: @Patterson_2007_Jean_Perrin_and_the_triumph_of_the_atomic\.
 [^Perrin1913]: @Perrin_1913_Les_Atomes\.
+[^Russell1992]: @Russell_1992_The_Analysis_of_Matter\.
 
 
 ### Contemporary views of matter
@@ -258,9 +260,9 @@ Quantum mechanics
 
 ### Introduction
 
--   Traditionally focus on NRQM [^Ney2013]
 -   Hilbert spaces.  Wigner's theorem.  The Born rule.
 -   Wave-particle duality misconceptions.  Fields are more fundamental than particles.
+-   Philosophy of QM traditionally focus on NRQM. [^Ney2013]
 -   The measurement problem.  Decoherence.  The Born rule again.
 -   Uncertainty principle
 -   Decoherence brings quantum logic to classical logic?
