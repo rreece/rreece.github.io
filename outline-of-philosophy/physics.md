@@ -303,7 +303,7 @@ Feynman and Hibbs on the uncertainty principle:
 ![1927 Solvay Conference on Quantum Mechanics (source: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg)).](img/Solvay-conference-1927.jpg){#fig:Solvay-conference-1927}
 
 -   [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) (1903-1957)
-    -   *The Mathematical Foundations of Quantum_Mechanics* (1932) [^vonNeumann1955]
+    -   *The Mathematical Foundations of Quantum Mechanics* (1932) [^vonNeumann1955]
     -   van Hove, L. (1958). Von Neumann's contributions to quantum theory. [^vanHove1958]
 -   [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) (1904-1967)
 -   [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) (1902-1995)
