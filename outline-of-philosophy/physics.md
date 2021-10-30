@@ -583,7 +583,9 @@ Michael Atiyah:
 -   Feynman diagrams and Feynman rules
 -   Martin, S.P. (2011). [Phenomenology of particle physics](https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf). [^Martin2011]
 -   My notes: Reece, R. (2007). Quantum Field Theory: An Introduction. [^Reece2007]
+-   Jaeger, G. (2019). Are virtual particles less real? [^Jaeger2019]
 
+[^Jaeger2019]: @Jaeger_2019_Are_virtual_particles_less_real\.
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
 [^Martin2011]: @Martin_2011_Phenomenology_of_particle_physics\.
 [^Reece2007]: @Reece_2007_Quantum_Field_Theory_An_Introduction\.
