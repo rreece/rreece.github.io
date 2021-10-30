@@ -23,6 +23,7 @@ Bohm, D. (1952). A suggested interpretation of the quantum theory in terms of 'h
 Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. *Physical Review*, 89, 458--466.
 Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. *Studies in History and Philosophy of Modern Physics*, 33, 3--22. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.106&rep=rep1&type=pdf
 Broughton, M. et al. (2020). TensorFlow Quantum: A software framework for quantum machine learning. https://arxiv.org/abs/2003.02989
+Buchholz, D. (1998). Current trends in axiomatic quantum field theory. https://arxiv.org/abs/hep-th/9811233
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
 Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
 Cabibbo, N. (1963). Unitary symmetry and leptonic decays. *Physical Review Letters*, 10, 531--533. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.10.531
@@ -101,6 +102,7 @@ Murayama, H. (2000). Supersymmetry phenomenology. https://arxiv.org/abs/hep-ph/0
 Nail, T. (2018). *Lucretius I: An Ontology of Motion*. Edinburgh University Press.
 Nail, T. (2020). *Lucretius II: An Ethics of Motion*. Edinburgh University Press.
 Ney, A. & Albert, D.Z. (2013). *The Wave Function: Essays on the metaphysics of quantum mechanics*. Oxford University Press.
+Nguyen, T. (2016). The perturbative approach to path integrals: A succinct mathematical treatment. *Journal of Mathematical Physics*, 57, 092301. https://arxiv.org/abs/1505.04809
 {nLab authors}. (2021). Fiber bundles in physics. http://ncatlab.org/nlab/show/fiber%20bundles%20in%20physics
 Noether, E. (1918). Invariante variationsprobleme. *Nachrichten von der Gesellschaft der Wissenschaften zu G{\"o}ttingen, Mathematisch-Physikalische Klasse*, 235--257.
 Ohanian, H.C. (1986). What is spin? *American Journal of Physics*, 54, 500.
@@ -109,6 +111,10 @@ Patterson, G. (2007). Jean Perrin and the triumph of the atomic doctrine. *Endea
 Perrin, J. (1913). *Les Atomes*. Paris: Libraire Felix Alcan.
 Peskin, M.E. (1994). Spin, mass, and symmetry. https://arxiv.org/abs/hep-ph/9405255
 Peskin, M.E. & Schroeder, D.V. (1995). *An Introduction to Quantum Field Theory*. Westview Press.
+{Pierre Auger Collaboration}. (2007). Correlation of the highest-energy cosmic rays with nearby extragalactic objects. *Science*, 318, 938--943.
+{Pierre Auger Collaboration}. (2010). Measurement of the depth of maximum of extensive air showers above 10^{18} eV. *Physical Review Letters*, 104, 091101.
+{Pierre Auger Collaboration}. (2020). Features of the energy spectrum of cosmic rays above $2.5 \times 10^{18}$ eV using the Pierre Auger Observatory. *Physical Review Letters*, 125, 121106. https://arxiv.org/abs/2008.06488
+{Pierre Auger Collaboration}. (2020). Measurement of the cosmic ray energy spectrum above $2.5 \times 10^{18}$ eV using the Pierre Auger Observatory. *Physical Review D*, 102, 062005. https://arxiv.org/abs/2008.06486
 Preskill, J. (2013). We are all Wilsonians now. https://quantumfrontiers.com/2013/06/18/we-are-all-wilsonians-now/
 Preskill, J. (2018). Quantum computing in the NISQ era and beyond. https://arxiv.org/abs/1801.00862
 Proietti, M. et al. (2019). Experimental test of local observer independence. *Science Advances*, 5, 9832. https://arxiv.org/abs/1902.05080
@@ -158,6 +164,7 @@ Wigner, E.P. (1939). On unitary representations of the inhomogeneous Lorentz gro
 Wigner, E.P. (1954). Conservation laws in classical and quantum physics. *Progress of Theoretical Physics*, 11, 437--440. https://academic.oup.com/ptp/article/11/4-5/437/1831457
 Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. Academic Press. [(Originally published in German in 1931)]
 Williams, P. (2019). Scientific realism made effective. *British Journal for the Philosophy of Science*, 70, 209--237. https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axx043
+Yock, P. (2018). Newton's hypotheses on the structure of matter. https://arxiv.org/abs/1807.05486
 Zee, A. (2003). *Quantum Field Theory in a Nutshell*. Princeton University Press.
 Zeidler, E. (2007). *Quantum Field Theory I: Basics in mathematics and physics, Vol. 1*. Springer.
 Zeidler, E. (2008). *Quantum Field Theory II: Quantum electrodynamics, Vol. 2*. Springer.

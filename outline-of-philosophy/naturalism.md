@@ -420,6 +420,10 @@ See also:
 
 ![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
 
+See also:
+
+-   [Uniformity of nature](scientific-method.html#uniformity-of-nature) in the [Outline on the scientific method](scientific-method.html)
+
 
 ### Criticism
 

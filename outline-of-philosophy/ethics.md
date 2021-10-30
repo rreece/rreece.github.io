@@ -17,14 +17,28 @@ What should we do? What is normative?
 Virtue ethics
 --------------------------------------------------------------------------------
 
+### Introduction
+
 -   See the discussion of [Stoicism](http://rreece.github.io/outline-of-philosophy/human-condition.html#stoicism).
 -   Aristotle
 -   Stoicism
 -   Philippa Foot (1920-2010)
 
 
+### Discussion
+
+-   TODO
+
+
+### Criticism
+
+-   TODO
+
+
 Deontological ethics
 --------------------------------------------------------------------------------
+
+### Introduction
 
 -   Kant
 -   Rawls
@@ -40,6 +54,16 @@ Kant:
 
 [^Kant1785s1]: Kant, I. (1785). *Groundwork of the Metaphysic of Morals*, &sect; 1.
 [^Rawls1999]: @Rawls_1999_A_Theory_of_Justice\.
+
+
+### Discussion
+
+-   TODO
+
+
+### Criticism
+
+-   TODO
 
 
 Consequentialism
@@ -88,6 +112,8 @@ Consequentialism
 Moral antirealism
 --------------------------------------------------------------------------------
 
+### Introduction
+
 -   The previous three sections are about ethics; the next three are about
     meta-ethics.
 -   Cognitivism and non-cognitivism
@@ -122,8 +148,25 @@ Hume:
 [^RepublicI338c]: Plato, *Republic I* 338c, @Cooper_1997_Plato_Complete_works\, p. 983.
 
 
+### Is-ought divide
+
+-   TODO
+
+See also:
+
+-   [Naturalistic fallacy](ethics.html#naturalistic-fallacy)
+
+
+### Criticism
+
+-   TODO
+
+
+
 Moral realism
 --------------------------------------------------------------------------------
+
+### Introduction
 
 -   Plato: [*Minos*](https://en.wikipedia.org/wiki/Minos_(dialogue))
 -   Victor Kraft (1880-1975)
@@ -163,8 +206,23 @@ Plato:
 [^RepublicV476c]: Plato, *Republic V* 476c, @Cooper_1997_Plato_Complete_works\, p. 1103.
 
 
+### Discussion
+
+-   TODO
+
+
+### Criticism
+
+-   TODO
+
+
 Moral naturalism
 --------------------------------------------------------------------------------
+
+### Introduction
+
+-   TODO
+
 
 ### Evolution of morals
 
@@ -243,20 +301,29 @@ See also:
 -   Don Ross
 
 
-### Criticism
+### Naturalistic fallacy
 
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
-    -   Introduced by Moore, G.E. (1903). *Principia Ethica*.
-    -   Is/ought divide going back to Hume
-    -   G.E. Moore's [Open-question argument](https://en.wikipedia.org/wiki/Open-question_argument)
-    -   [Moore's Moral Philosophy](https://plato.stanford.edu/entries/moore-moral/)
-    -   Russell, G. (2020). Logic isn't normative. [^Russell2020]
+-   Introduced by Moore, G.E. (1903). *Principia Ethica*.
+-   Is/ought divide going back to Hume
+-   G.E. Moore's [Open-question argument](https://en.wikipedia.org/wiki/Open-question_argument)
+-   [Moore's Moral Philosophy](https://plato.stanford.edu/entries/moore-moral/)
+-   Schurz, G. (1997). *The Is/Ought Problem: An Investigation in Philosophical Logic*. [^Schurz1997]
+-   Schurz, G. (2010). Comments on Restall, Russell, and Vranas. [^Schurz2010a]
+-   Schurz, G. (2010). Non-trivial versions of Hume's is-ought thesis. [^Schurz2010b]
+-   Russell, G. (2020). Logic isn't normative. [^Russell2020]
+-   Russell, G. (2021). How to prove Hume's law. [^Russell2021]
 
 See also:
 
 -   [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](naturalism.html)
+-   [Is-ought divide](ethics.html#is-ought-divide)
 
 [^Russell2020]: @Russell_2020_Logic_isnt_normative\.
+[^Russell2021]: @Russell_2021_How_to_prove_Humes_law\.
+[^Schurz1997]: @Schurz_1997_The_IsOught_Problem_An_Investigation\.
+[^Schurz2010a]: @Schurz_2010_Comments_on_Restall_Russell_and_Vranas\.
+[^Schurz2010b]: @Schurz_2010_Non_trivial_versions_of_Humes_is_ought_thesis\.
 
 
 Political philosophy

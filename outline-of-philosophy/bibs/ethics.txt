@@ -11,3 +11,7 @@ Portmore, D. (2011). *Commonsense Consequentialism*. Oxford University Press.
 Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*. Harvard University Press.
 Rawls, J. (1999). *A Theory of Justice* (2nd ed.). Harvard University Press. [(First edition published in 1971)]
 Russell, G. (2020). Logic isn't normative. *Inquiry*, 63, 371--388.
+Russell, G. (2021). How to prove Hume’s law. *Journal of Philosophical Logic*. [(forthcoming)]
+Schurz, G. (1997). *The Is/Ought Problem: An Investigation in Philosophical Logic*. Dortrecht: Kluwer.
+Schurz, G. (2010). Comments on Restall, Russell, and Vranas. In Pigden, C. (Ed.), *Hume, Is and Ought: New Essays* (pp. 268--271). Palgrave MacMillan.
+Schurz, G. (2010). Non-trivial versions of Hume's is-ought thesis. In Pigden, C. (Ed.), *Hume, Is and Ought: New Essays* (pp. 198--216). Palgrave MacMillan.

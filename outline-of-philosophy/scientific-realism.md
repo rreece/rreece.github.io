@@ -185,7 +185,11 @@ Humeanism and necessity
 
 -   Hume's doctrine of no necessitary connections.
 -   Emphasize the naturalist revolution within Humean views.
--   See the [Outline on naturalism](naturalism.html).
+
+See also:
+
+-   [Problem of induction](scientific-method.html#problem-of-induction)
+-   [Outline on naturalism](naturalism.html)
 
 
 ### Laws of nature

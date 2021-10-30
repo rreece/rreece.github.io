@@ -412,7 +412,9 @@ Hume:
 -   Isaac Newton (1642-1727)
     -   *The Principia* (1687) [^Newton2016]
 -   Immanuel Kant (1724-1804)
-    -   *Critique of Pure Reason* (1781) [^Kant1996]
+    -   *Universal Natural History and Theory of the Heavens* (1755)
+        -   Nebular hypothesis of star and solar system formation
+    -   *Critique of Pure Reason* (1781), 2nd edition in 1787 [^Kant1996]
     -   *Metaphysical Foundations of Natural Science* (1786)
     -   *Critique of Practical Reason* (1788)
     -   *Critique of Judgment* (1790)
@@ -433,18 +435,6 @@ Analytic/synthetic distinction
     -   *An Essay Concerning Human Understanding* (1689)
 -   Hume's fork
     -   Dicker, G. (1991). Hume's fork revisited. [^Dicker1991]
--   Kant
-    -   *Critique of Pure Reason* (1781)
-    -   TODO: 2x2 figure *a priori/a posteriori* vs analytic/synthetic.
-    -   Are there synthetic a priori statements? Kant thinks so.
--   Carnap
-    -   Empiricism, semantics, and ontology [^Carnap1950a]
-    -   internal vs external questions
--   Kripe
-    -   Claims there are *a posteriori* necessary truths in *Naming and Necessity* (1980).
--   Papineau
-    -   *Philosophical Devices* (2012) [^Papineau2012]
-
 Hume: 
 
 >   When we run over libraries, persuaded of these principles, what havoc must we make?
@@ -454,7 +444,12 @@ Hume:
 >   concerning matter of fact and existence?_ No. Commit it then to the flames:
 >   for it can contain nothing but sophistry and illusion. [^Hume2007p120flames]
 
-Kant in his *Critique of Pure Reason* (1781):
+-   Kant
+    -   *Critique of Pure Reason* (1781)
+    -   TODO: 2x2 figure *a priori/a posteriori* vs analytic/synthetic.
+    -   Are there synthetic a priori statements? Kant thinks so.
+
+Kant in his *Critique of Pure Reason* (1787):
 
 >   In all judgments in which we think the relation of a subject to the predicate...
 >   this relation is possible in two ways. Either the predicate B belongs to the
@@ -471,13 +466,34 @@ Kant in his *Critique of Pure Reason* (1781):
 >   Synthetic judgments, on the other hand, could also be called _expansive_.
 >   For they do add to the concept of the subject a predicate that had not been
 >   thought in that concept at all and could not have been extracted from it
->   by any dissection. [^Kant1996pB10]
+>   by any dissection. [^Kant1787pB10]
+
+and
+
+>   logic is a science that provides nothing but a comprehensive
+>   exposition. [^Kant1787pBviii]
+
+and
+
+>   Now the proper problem of pure reason is contained in
+>   this question:              
+>   **How are synthetic judgments possible a priori?** [^Kant1787pB19]
+
+-   Carnap
+    -   Empiricism, semantics, and ontology [^Carnap1950a]
+    -   internal vs external questions
+-   Kripe
+    -   Claims there are *a posteriori* necessary truths in *Naming and Necessity* (1980).
+-   Papineau
+    -   *Philosophical Devices* (2012) [^Papineau2012]
 
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Dicker1991]: @Dicker_1991_Humes_fork_revisited\.
 [^Hume2007p120flames]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
     Section XII, p. 120.
-[^Kant1996pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
+[^Kant1787pBviii]: @Kant_1996_Critique_of_Pure_Reason\, p. Bviii--ix\.
+[^Kant1787pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
+[^Kant1787pB19]: @Kant_1996_Critique_of_Pure_Reason\, p. B19\.
 [^Papineau2012]: @Papineau_2012_Philosophical_Devices_Proofs_Probabilities\.
 
 
@@ -489,6 +505,7 @@ Kant in his *Critique of Pure Reason* (1781):
 
 See also:
 
+-   [Inductive logic](scientific-method.html#inductive-logic)
 -   [Logic](math.html#logic) and [Model theory](math.html#model-theory)
 -   [Positivism](scientific-realism.html#positivism)
 
@@ -615,11 +632,11 @@ Hume:
 --  David Hume, in A Treatise of Human Nature, Book I, part 3, Section 12.
 
 -   [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka) - ancient Indian philosophy
--   Hume and the problem of induction [^Hume2007pXX]
+-   Hume
+    -   Problem of induction [^Hume2007pXX]
     -   Uniformity of nature
     -   Humeanism
     -   Weintraub [^Weintraub1995]
--   Mill on the uniformity of nature
 -   Russell's inductive turkey
     -   TODO: find Russell ref
     -   Note discussion by French
@@ -638,10 +655,26 @@ Dewey:
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
 
-### Challenges
+### Uniformity of nature
 
--   Goodman: New riddle of induction (grue)
--   Hempel: [Raven paradox](https://en.wikipedia.org/wiki/Raven_paradox)
+-   Hume on the uniformity of nature
+-   Uniformitarianism
+-   Lyell, Charles. (1830). *Principles of Geology*.
+-   Mill on the uniformity of nature
+-   Salmon [^Salmon1953]
+-   Gould, S. J. (1965). Is uniformitarianism necessary? [^Gould1965]
+-   TODO: contemporary view
+-   TODO: Science requires some uniformity of nature, e.g. astronomy,
+    but such uniformity is also empirically confirmed.
+    -   Unless we have a collective and/or non-local conspiracies,
+        we can probablistically justify assumptions of uniformity.
+
+See also:
+
+-   [Uniformity of nature](naturalism.html#uniformity-of-nature) in the [Outline on naturalism](naturalism.html)
+
+[^Gould1965]: @Gould_1965_Is_uniformitarianism_necessary\.
+[^Salmon1953]: @Salmon_1953_The_uniformity_of_nature\.
 
 
 ### Inductive logic
@@ -794,6 +827,12 @@ See also:
 [^Vickers2014]: @Vickers_2014_The_problem_of_induction (emphasis added).
 
 
+### Challenges
+
+-   Goodman: New riddle of induction (grue)
+-   Hempel: [Raven paradox](https://en.wikipedia.org/wiki/Raven_paradox)
+
+
 ### Abduction
 
 -   Peirce
@@ -836,6 +875,10 @@ Arthur Conan Doyle:
 >   must be the truth.  [^Doyle1890]
 
 -   [Holmesian fallacy](https://rationalwiki.org/wiki/Holmesian_fallacy)
+
+See also:
+
+-   [Natural kinds](naturalism.html#natural-kinds)
 
 [^Bhaskar2008pX]: @Bhaskar_2008_A_Realist_Theory_of_Science\.
 [^Douven2011]: @Douven_2011_Abduction\.
@@ -933,7 +976,7 @@ Sagan:
 -   Positivism, verificationism
     -   Auguste Comte, Ernst Mach, David Hilbert, Rudolf Carnap
 -   Deductive-nomological model
-    -   Hempel, C.G. & Oppenheim, P. (1948): "Studies in the logic of explanation" [^Hempel1948]
+    -   Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. [^Hempel1948]
     -   Covering law model
     -   Logical empiricism
     -   French [^French2007pX2]
@@ -959,9 +1002,6 @@ Sagan:
     -   Ladyman: Error-catching filters [^Ladyman2007]
     -   community, honesty, openness
     -   Mayo: Error statistics [^Mayo2011]
--   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013]
-    -   In the introduction, in a rather positivist way, Spivak describes his view that
-        category theory can be used to ground truth in observation.
 
 Kant:
 
@@ -979,6 +1019,10 @@ Kant:
 >   to reason if we can possibly discover that path, even if we should
 >   have to give up as futile much that was included in the purpose
 >   which we had previously adopted without deliberation. [^Kant1787pBvii]
+
+-   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013]
+    -   In the introduction, in a rather positivist way, Spivak describes his view that
+        category theory can be used to ground truth in observation.
 
 ![Spivak's figure "intended to evoke thoughts of the scientific method". [^Spivak2013p5]](img/Spivak-scientific-method.png){#fig:Spivak-scientific-method}
 
@@ -1252,11 +1296,6 @@ Ichikawa & Jenkins:
 
 #### Fallibility
 
-TODO sort out:
-
--   Hume on the problem of induction and the uniformity of nature.
--   Uniformitarianism: Unless we have a collective and/or non-local conspiracies,
-    we can probablistically justify assumptions of uniformity.
 -   Fallibility
 
 Feynman:
@@ -1773,9 +1812,11 @@ Click to show links
 -   [Newton's Flaming Laser Sword](https://philosophynow.org/issues/46/Newtons_Flaming_Laser_Sword) - Mike Alder, Philosophy Now
 -   [The African Enlightenment: The highest ideals of Locke, Hume and Kant were first proposed more than a century earlier by an Ethiopian in a cave](https://aeon.co/essays/yacob-and-amo-africas-precursors-to-locke-hume-and-kant)
 -   Aldrich, John. (?). [Earliest uses of symbols of calculus](http://jeff560.tripod.com/calculus.html).
--   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
--   Stearns, P. (2020). [Epistemology: A priori vs. a posteriori, analytic vs. synthetic, necessary vs. contingent](https://lucidphilosophy.com/1019-2/).
 -   Suber, P. (2003). [Guide to Philosophy on the Internet](http://legacy.earlham.edu/~peters/philinks.htm).
+-   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
+-   DeMichele, T. (2017). [A priori-a posteriori, analytic-synthetic, and necessary-contingent distinctions](http://factmyth.com/a-priori-a-posteriori-analytic-synthetic-and-necessary-contingent-distinctions/).
+-   Alsabeh, F. (2018). [Kant, demystified](https://prophemy.com/2018/09/23/kant-demystified/).
+-   Stearns, P. (2020). [Epistemology: A priori vs. a posteriori, analytic vs. synthetic, necessary vs. contingent](https://lucidphilosophy.com/1019-2/).
 
 </div>
 

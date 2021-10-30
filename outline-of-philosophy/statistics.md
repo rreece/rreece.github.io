@@ -34,6 +34,10 @@ In this outline, we sketch and explore how the mathematical theory of statistics
 has arisen to wrestle with the problem of induction, and how it equips us with
 careful ways of framing inductive arguments and notions of confidence in them.
 
+See also:
+
+-   [Statistics as a solution to the problem of induction](scientific-method.html#statistics-as-a-solution-to-the-problem-of-induction)
+
 
 ### Early investigators
 
@@ -748,7 +752,7 @@ Uncertainty quantification
 
 ![Demonstration of sensitivity to the jet energy scale for an alleged excess in $Wjj$ by [Tommaso Dorigo (2011)](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886) (see also: [GIF](img/AnimatedDijet.gif)).](img/cdf-wjj.png){#fig:cdf-wjj}
 
--   Faster-than-light neutrinos.
+-   OPERA. (2011). [Faster-than-light neutrinos](https://arxiv.org/abs/1109.4897v1).
 -   BICEP2 claimed evidence of B-modes in the CMB as evidence of cosmic inflation without accounting for cosmic dust.
 
 

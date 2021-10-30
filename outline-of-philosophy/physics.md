@@ -48,6 +48,7 @@ Discussion:
 -   [Isaac Beeckman](https://en.wikipedia.org/wiki/Isaac_Beeckman) (1588-1637)
 -   [Ren&eacute; Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) (1596-1650)
 -   Boyle, Newton, Locke, Dalton
+-   Yock, P. (2018). [Newton's hypotheses on the structure of matter](https://arxiv.org/abs/1807.05486). [^Yock2018]
 -   ...
 -   Boltzmann
 -   [Johannes Diderik van der Waals](https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals) (1837-1923)
@@ -63,6 +64,7 @@ Discussion:
 [^Patterson2007]: @Patterson_2007_Jean_Perrin_and_the_triumph_of_the_atomic\.
 [^Perrin1913]: @Perrin_1913_Les_Atomes\.
 [^Russell1992]: @Russell_1992_The_Analysis_of_Matter\.
+[^Yock2018]: @Yock_2018_Newtons_hypotheses_on_the_structure_of_matter\.
 
 
 ### Contemporary views of matter
@@ -476,24 +478,6 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Weinberg1997p2]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\, p. 2.
 
 
-#### Symmetry
-
--   Coleman-Mandula theorem [^Coleman1967]
--   Again, Noether's theorem
--   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification) [^WignerClassification]
--   CPT theorem
-    -   Bell, J.S. (1955). Time reversal in field theory. [^Bell1955]
-    -   Streater, R. & Wightman, A. (1964). *PCT, spin and statistics, and all that*. [^Streater1964]
-    -   Greaves, H. & Thomas, T. (2012). [The CPT Theorem](https://arxiv.org/abs/1204.4674). [^Greaves2012]
-
-[^Bell1955]: @Bell_1955_Time_reversal_in_field_theory\.
-[^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
-[^Greaves2012]: @Greaves_2012_The_CPT_Theorem\.
-[^Streater1964]: @Streater_1964_PCT_spin_and_statistics_and_all_that\.
-[^WignerClassification]: @Wigner_1939_On_unitary_representations_of_the_inhomogeneous
-    and @Bargmann_1948_Group_theoretical_discussion_of_relativistic_wave\.
-
-
 #### Pedagogy
 
 -   Peskin and Schroeder [^Peskin1995]
@@ -509,6 +493,46 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Zeidler2007]: @Zeidler_2007_Quantum_Field_Theory_I_Basics_in_mathematics\.
 [^Zeidler2008]: @Zeidler_2008_Quantum_Field_Theory_II_Quantum_electrodynamics\.
 [^Zeidler2011]: @Zeidler_2011_Quantum_Field_Theory_III_Gauge_theory_Vol3\.
+
+
+### Symmetry
+
+#### Introduction
+
+-   TODO
+-   Noether's theorem, again
+-   Wigner-Stone theorems, again
+
+See also:
+
+-   [Wigner-Stone theorems](physics.html#wigner-stone-theorems)
+
+
+#### Coleman-Mandula theorem
+
+-   Coleman-Mandula theorem [^Coleman1967]
+
+[^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
+
+
+#### Wigner's classification
+
+-   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification) [^WignerClassification]
+
+[^WignerClassification]: @Wigner_1939_On_unitary_representations_of_the_inhomogeneous
+    and @Bargmann_1948_Group_theoretical_discussion_of_relativistic_wave\.
+
+
+#### CPT theorem
+
+-   CPT theorem
+-   Bell, J.S. (1955). Time reversal in field theory. [^Bell1955]
+-   Streater, R. & Wightman, A. (1964). *PCT, spin and statistics, and all that*. [^Streater1964]
+-   Greaves, H. & Thomas, T. (2012). [The CPT Theorem](https://arxiv.org/abs/1204.4674). [^Greaves2012]
+
+[^Bell1955]: @Bell_1955_Time_reversal_in_field_theory\.
+[^Greaves2012]: @Greaves_2012_The_CPT_Theorem\.
+[^Streater1964]: @Streater_1964_PCT_spin_and_statistics_and_all_that\.
 
 
 ### Spin
@@ -571,8 +595,10 @@ Michael Atiyah:
     -   Feynman and Hibbs (1965) [^FeynmanHibbs1965]
 -   Partition functions and generating functionals
 -   Show this way of deriving the Feynman rules
+-   Nguyen [^Nguyen2016]
 
 [^FeynmanHibbs1965]: @Feynman_1965_Quantum_Mechanics_and_Path_Integrals\.
+[^Nguyen2016]: @Nguyen_2016_The_perturbative_approach_to_path_integrals\.
 
 
 ### Renormalization
@@ -661,6 +687,7 @@ Baez:
 -   *Local Quantum Physics* [^Haag1992]
 -   Wallace
 -   Fraser
+-   Buchholz [^Buchholz1998]
 
 Kastler:
 
@@ -674,6 +701,7 @@ Kastler:
 >   that the spatial notions man acquires in his cradle are less basic than
 >   his procedures at [particle] accelerators. [^Kastler2003p6]
 
+[^Buchholz1998]: @Buchholz_1998_Current_trends_in_axiomatic_quantum_field_theory\.
 [^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
 [^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
 
@@ -1182,6 +1210,24 @@ See also:
 
 -   [Dark matter](physics.html#dark-matter)
 -   [Dark energy](physics.html#dark-energy)
+
+
+### Experimental anomalies
+
+-   Ultra-high-energy cosmic rays
+    -   [Greisen-Zatsepin-Kuzmin (GZK) limit](https://en.wikipedia.org/wiki/Greisen%E2%80%93Zatsepin%E2%80%93Kuzmin_limit)
+    -   Pierre Auger Collaboration [^PierreAuger]
+-   LSND anomaly, again
+-   PRL. (2016). [Theorists react to the CERN 750 GeV diphoton data](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.116.150001)
+-   Garisto, D. (2018). [The era of anomalies](https://physics.aps.org/articles/v13/79).
+-   Lepton universality at LHCb
+    -   LHCb Collaboration. (2021). [Test of lepton universality in beauty-quark decays](https://arxiv.org/abs/2103.11769).
+    -   LHCb Collaboration. (2021). [Tests of lepton universality using B0→K0Sℓ+ℓ− and B+→K∗+ℓ+ℓ− decays](https://arxiv.org/abs/2110.09501).
+
+[^PierreAuger]: TODO: @Pierre_2007_Correlation_of_the_highest_energy_cosmic_rays\,
+    @Pierre_2010_Measurement_of_the_depth_of_maximum_of_extensive\,
+    @Pierre_2020_Features_of_the_energy_spectrum_of_cosmic_rays\, and
+    @Pierre_2020_Measurement_of_the_cosmic_ray_energy_spectrum.
 
 
 ### Grand unification

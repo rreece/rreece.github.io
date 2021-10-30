@@ -28,6 +28,7 @@ French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
 Frigg, R. & Nguyen, J. (2017). Models and representation. In *Springer Handbook of Model-Based Science* (pp. 49--102). Springer.
 Frigg, R. & Hartmann, S. (2020). Models in science *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/models-science/
 Gettier, E.L. (1963). Is justified true belief knowledge? *Analysis*, 23, 121--3.
+Gould, S.J. (1965). Is uniformitarianism necessary? *American Journal of Science*, 263, 223--228.
 Hansson, S.O. & Hendricks, V.F. (2018). *Introduction to Formal Philosophy*. Springer.
 Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135--175.
 #Hume, D. (1902). *Enquiries Concerning the Human Understanding and Concerning the Principles of Morals*. Oxford: Clarendon Press. [(Originally published in 1777)]
@@ -57,6 +58,7 @@ Prado, I. (2006). Ionian enchantment: A brief history of scientific naturalism. 
 Quine, W.V.O. (1951). Two dogmas of empiricism. *The Philosophical Review*, 60, 20--43.
 Quine, W.V.O. & Carnap, R. (1990). *Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work* (Richard Creath, Ed.). University of California Press.
 Sabra, A.I. (1978). An eleventh-century refutation of Ptolemy's planetary theory. *Studia Copernicana*, 16, 117--131.
+Salmon, W.C. (1953). The uniformity of nature. *Philosophy and Phenomenological Research*, 14, 39--48.
 Schurz, G. (2019). *Hume's Problem Solved: The optimality of meta-induction*. MIT Press.
 {Sextus Empiricus}. (1933). *Outlines of Pyrrhonism* (R.G. Bury, Trans.). London: W. Heinemann.
 Suppes, P. (1961). A comparison of the meaning and uses of models in mathematics and the empirical sciences. In *The Concept and the Role of the Model in Mathematics and Natural and Social Sciences* (pp. 163--177). Springer, Dordrecht.
