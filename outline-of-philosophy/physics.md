@@ -374,7 +374,7 @@ $$ \langle x | n \rangle = \psi_{n}(x) $$
 
 -   Schr&ouml;dinger equation:
 
-$$ \partial_{t} \: |\psi\rangle = -i \hbar \: \hat{H} \: |\psi\rangle $$
+$$ i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle $$
 
 -   Heisenberg picture:
 
