@@ -176,9 +176,9 @@ TODO:
 
 ### History
 
--   [Ludwig Boltzmann](http://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906)
 -   [James Clerk Maxwell](http://en.wikipedia.org/wiki/James_Clerk_Maxwell) (1831-1879)
 -   [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) (1839-1903)
+-   [Ludwig Boltzmann](http://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906)
 
 
 ### Thermodynamics
@@ -363,7 +363,7 @@ The generators of the representation of a transformation in a Hilbert space
 are the operators representing the classical Noether charges that are
 conserved under that transformation.
 
-$$ \hat{U}(x^{\mu}) = e^{ -i \: \hat{P}_\mu \: x^\mu } $$
+$$ \hat{U}(x^{\mu}) = e^{ -i \, \hat{P}_\mu \, x^\mu } $$
 
 
 ### Secondary properties of QM
@@ -384,7 +384,7 @@ $$ i \hbar \: \partial_{t} \: \hat{U}(t) \: |\psi\rangle = \hat{H} \: \hat{U}(t)
 
 $$ \mathcal{H} = \mathcal{H}_\mathrm{S} \otimes \mathcal{H}_\mathrm{E} $$
 
-$$ |\alpha\rangle \otimes |\psi\rangle \rightarrow |\alpha\rangle \otimes |\psi; \alpha\rangle $$
+$$ |\psi\rangle \otimes |\alpha\rangle \rightarrow |\psi; \alpha\rangle \otimes |\alpha\rangle $$
 
 See Dutailly [^Dutailly2014p11], for example, for a demonstration
 that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
@@ -1004,6 +1004,9 @@ Interpretations of quantum mechanics
 >   or many independent hypotheses, in no way impresses us as much
 >   as one which is largely free of arbitrariness. [^Barrett2012p171]
 
+-   Schr&ouml;dinger himself suggested in 1952 that the different terms
+    of a superposition evolving under the Schr&ouml;dinger equation are
+    "not alternatives but all really happen simultaneously" (Wikipedia)
 -   Hugh Everett III
 -   DeWitt [^DeWitt1970]
 -   note relationship with decoherence
@@ -1256,7 +1259,6 @@ See also:
     -   Georgi & Glashow [^Glashow1974]
     -   Slansky [^Slansky1981]
     -   Beaz & Huerta [^Baez2009]
--   Quantum gravity
 
 ![Two-loop renormalization group evolution of the inverse gauge couplings, $\alpha^{-1}$,
     in the Standard Model (dashed lines) and the MSSM (solid lines).
@@ -1290,6 +1292,13 @@ See also:
 -   Hossenfelder, S. (2020). [The world doesn't need a new gigantic particle collider](https://www.scientificamerican.com/article/the-world-doesnt-need-a-new-gigantic-particle-collider/).
 
 [^Baggott2013]: @Baggott_2013_Farewell_to_Reality_How_modern_physics_has\.
+
+
+### Quantum gravity
+
+-   Start of string phenomenology [^Candelas1985]
+
+[^Candelas1985]: @Candelas_1985_Vacuum_configurations_for_superstrings\.
 
 
 Gravity and cosmology

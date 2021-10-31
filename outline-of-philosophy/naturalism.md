@@ -817,7 +817,8 @@ Dang & Bright:
 ### Culture wars
 
 -   The Two Cultures
-    -   C.P. Snow
+    -   C.P. Snow (1959)
+    -   Brockman, J. (1991). [The third culture](https://www.edge.org/conversation/john_brockman-the-third-culture).
 -   2 + 2 = 5 Twitter controversy
     -   <https://twitter.com/kareem_carr/status/1288991602069970946>
     -   <https://twitter.com/EpiEllie/status/1291744508376383488>

@@ -418,11 +418,14 @@ Waves:
 1.  Women's suffrage movements (19th and early 20th centuries)
 2.  Women's liberation movement (1960s-1980s)
 3.  Third wave (1990s-2012)
+    -   Snyder-Hall, R.C. (2010). Third-wave feminism and the defense of "choice". [^SnyderHall2010]
 4.  Fourth wave (2012-present)
 
 See also:
 
 -   [Feminist epistemology](scientific-realism.html#feminist-epistemology)
+
+[^SnyderHall2010]: @Snyder_Hall_2010_Third_wave_feminism_and_the_defense_of_choice\.
 
 
 Regret
