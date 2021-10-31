@@ -113,7 +113,7 @@ Perrin, J. (1913). *Les Atomes*. Paris: Libraire Felix Alcan.
 Peskin, M.E. (1994). Spin, mass, and symmetry. https://arxiv.org/abs/hep-ph/9405255
 Peskin, M.E. & Schroeder, D.V. (1995). *An Introduction to Quantum Field Theory*. Westview Press.
 {Pierre Auger Collaboration}. (2007). Correlation of the highest-energy cosmic rays with nearby extragalactic objects. *Science*, 318, 938--943.
-{Pierre Auger Collaboration}. (2010). Measurement of the depth of maximum of extensive air showers above 10^{18} eV. *Physical Review Letters*, 104, 091101.
+{Pierre Auger Collaboration}. (2010). Measurement of the depth of maximum of extensive air showers above $10^{18}$ eV. *Physical Review Letters*, 104, 091101.
 {Pierre Auger Collaboration}. (2020). Features of the energy spectrum of cosmic rays above $2.5 \times 10^{18}$ eV using the Pierre Auger Observatory. *Physical Review Letters*, 125, 121106. https://arxiv.org/abs/2008.06488
 {Pierre Auger Collaboration}. (2020). Measurement of the cosmic ray energy spectrum above $2.5 \times 10^{18}$ eV using the Pierre Auger Observatory. *Physical Review D*, 102, 062005. https://arxiv.org/abs/2008.06486
 Preskill, J. (2013). We are all Wilsonians now. https://quantumfrontiers.com/2013/06/18/we-are-all-wilsonians-now/
@@ -139,6 +139,7 @@ Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*.
 Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, III. https://space.mit.edu/home/tegmark/everett/
 Simon, B. (1976). Quantum dynamics: from automorphism to Hamiltonian. In Lieb, E.H. (Ed.) *Studies in Mathematical Physics: Essays in Honor of Valentine Bargmann* (pp. 327-350). Princeton University Press. http://www.math.caltech.edu/SimonPapers/R12.pdf
 Slansky, R. (1981). Group theory for unified model building. *Physics Reports*, 79, 1--128. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1581&rep=rep1&type=pdf
+Stein, H. (2021). Physics and philosophy meet: The strange case of Poincar{\'e}. *Foundations of Physics*, 51, 1--24.
 Stopp, F., Ortiz-Guti{\'e}rrez, L., Lehec, H., & Schmidt-Kaler, F. (2021). Single ion thermal wave packet analyzed via time-of-flight detection. *New Journal of Physics*, 23, 063002. https://iopscience.iop.org/article/10.1088/1367-2630/abffc0
 Streater, R. & Wightman, A. (1964). *PCT, spin and statistics, and all that*. New York: Benjamin.
 Summers, S.J. (1999). On the Stone-von Neumann uniqueness theorem and its ramifications. In *John von Neumann and the Foundations of Quantum Physics* (pp. 135--152). Budapest: Kluwer.

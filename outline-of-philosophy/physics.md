@@ -137,6 +137,20 @@ History:
     -   Einstein, A. (1905). On the electrodynamics of moving bodies. [^Einstein1905c]
     -   Einstein, A. (1905). Does the inertia of a body depend upon its energy content? [^Einstein1905d]
 
+Stein:
+
+>   And this is the crucial difference, as I see it, between Poincar&eacute;'s
+>   relation to the special theory of relativity and Einstein’s. Both of them
+>   discovered this theory---and did so independently. So far as its
+>   mathematical structure is concerned, Poincar&eacute;'s grasp of the theory
+>   was in some important respects superior to Einstein's. But Einstein "took
+>   the theory seriously" in the sense that he looked to it for NEW INFORMATION
+>   about the physical world---that is, in Poincar&eacute;'s language, he
+>   regarded it as "fertile": as a source of new "real generalizations"---of
+>   empirically testable consequences. And in doing so, Einstein attributed
+>   physical significance to the basic notions of the theory itself in a way
+>   that Poincar&eacute; did not. [^Stein2021p69]
+
 Pedagogy:
 
 -   Maudlin [^Maudlin2012pX]
@@ -144,6 +158,7 @@ Pedagogy:
 [^Einstein1905c]: @Einstein_1905_Zur_elektrodynamik_bewegter_korper\.
 [^Einstein1905d]: @Einstein_1905_Ist_die_tragheit_eines_korpers_von_seinem\.
 [^Maudlin2012pX]: @Maudlin_2012_Philosophy_of_Physics_Space_and_Time\, p. TODO.
+[^Stein2021p69]: @Stein_2021_Physics_and_philosophy_meet_The_strange_case\, p. 69.
 
 
 Statistical physics
