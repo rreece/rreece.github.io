@@ -3,7 +3,7 @@ Philosophy of mathematics
 
 These next several outlines deal with philosophy of certain
 specialized topics, starting with this one on the philosophy of mathematics.
-Here we dig into issues of what is _abstraction_.
+Here we dig into issues of what is _**abstraction**_.
 
 First we survey the following branches of mathematics:
 logic, algebra, analysis, model theory.

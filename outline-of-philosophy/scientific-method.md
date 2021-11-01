@@ -590,9 +590,18 @@ de Swart:
 >   that is, whether all and only necessary truths are a priori and all and only
 >   contingent truths are a posteriori. [^deSwart2018p141]
 
+Gillian Russell:
+
+>   [O]ur old view of analyticity was based on a naive theory
+>   of meaning, and some Quinean challenges to it were basically right. But
+>   our new theories of meaning will support a new picture of analyticity, one
+>   which---being based on a better theory of meaning---admits of a more
+>   robust defence. [^Russell2008pxi]
+
 [^deSwart2018p141]: @deSwart_2018_Philosophical_and_Mathematical_Logic\, p. 141--2.
 [^Juhl2009]: @Juhl_2009_Analyticity\.
 [^Russell2008]: @Russell_2008_Truth_in_Virtue_of_Meaning_A_defence\.
+[^Russell2008pxi]: @Russell_2008_Truth_in_Virtue_of_Meaning_A_defence\, p. xi.
 [^Weatherson2017]: @Weatherson_2017_Analytic_synthetic_and_a_priori_a_posteriori\.
 
 
