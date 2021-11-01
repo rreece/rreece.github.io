@@ -648,6 +648,7 @@ Comte on the unknowability of the composition of stars:
 
 -   Gottlob Frege (1848-1925)
     -   Sense and reference (1892)
+    -   Frege's context principle: "Only in the context of a sentence do words have meaning" [^Reck2009]
 -   Ludwig Wittgenstein (1889-1951)
     -   [The linguistic turn](https://en.wikipedia.org/wiki/Linguistic_turn)
     -   [Gustav Bergmann](https://en.wikipedia.org/wiki/Gustav_Bergmann) (1906-1987)
@@ -699,6 +700,7 @@ manifesto:
 Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
 [^Hahn1973pX]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, p. X.
+[^Reck2009]: @Reck_1997_Freges_influence_on_Wittgenstein_Reversing\.
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\. <https://iep.utm.edu/wittgens/>
 [^Wittgenstein1922]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
 [^Wittgenstein1929]: @Wittgenstein_1929_Some_remarks_on_logical_form\.
