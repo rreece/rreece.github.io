@@ -145,16 +145,28 @@ Number theory
 
 ### Introduction
 
--   TODO
+-   [Peano axioms](https://en.wikipedia.org/wiki/Peano_axioms)
+-   [Robinson arithmetic](https://en.wikipedia.org/wiki/Robinson_arithmetic)
 
 
 ### Transfinite numbers
 
 -   Anticipated by [Robert Grosseteste](https://plato.stanford.edu/entries/grosseteste/) (ca. 1168-1253)
--   Developed by Georg Cantor in 1895
+-   Developed by [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) (1845-1918) in 1895
+    -   [Cantor's first set theory article](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article)
+    -   Proved that the real numbers are uncountably infinite.
+    -   The cardinalities of $\mathbb{R}$ and $\mathbb{R}^n$ are both $C$.
 -   Ordinal (index) vs cardinal (size) numbers
--   Axiom of choice
--   The continuum hypothesis
+-   [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
+-   [Continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) (CH)
+    -   Paul Cohen showed the CH is undecidable in ZFC (1963).
+
+[Transfinite numbers](https://en.wikipedia.org/wiki/Transfinite_number):
+
+-   $\omega$: the lowest transfinite ordinal number; the order type of the natural numbers.
+-   $\aleph_0$: the first transfinite cardinal number; the cardinality of the natural numbers.
+-   $C$: the cardinality of the continuum of real numbers. $C = 2^{\aleph_0}$.
+-   Under the CH, $C = \aleph_1 = 2^{\aleph_0}$.
 
 
 Logic
@@ -190,8 +202,8 @@ Logic
 -   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
     -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
 -   [Kurt G&ouml;del (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+    -   [G&ouml;del's completeness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
     -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
-    -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
 
 
 ### Propositional logic
@@ -274,7 +286,7 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 -   Axiom of unrestricted comprehension and Naive Set Theory
 -   Russell's paradox
 -   Axiom schema of specification AKA Axiom of restricted comprehension
--   Zermelo-Fraenkel set theory + Axiom of choice (ZFC)
+-   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory) + [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) = ZFC
 
 
 ### First-order logic
@@ -287,7 +299,18 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
     first-order logic, and second-order logic in 1885. [^Ewald2018]
 -   Consistency, completeness, expressivity
 -   [G&ouml;del's completeness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
-    -   establishes a correspondence between semantic truth and syntactic provability in first-order logic.
+    -   Establishes a correspondence between semantic truth and syntactic
+        provability in first-order logic.
+-   No first-order theory has the strength to uniquely describe a
+    structure with an infinite domain, such as the natural numbers or the
+    real line.
+-   In second-order logic, it is possible to define the addition and
+    multiplication operations from the successor operation, but this
+    cannot be done in the more restrictive setting of first-order logic.
+
+See also:
+
+-   [Number theory](#number-theory)
 
 [^Ewald2018]: @Ewald_2018_The_emergence_of_first_order_logic\.
 
@@ -308,7 +331,10 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
     -   *Foundations without Foundationalism: A Case for Second-Order Logic* (1991) [^Shapiro1991]
 -   Gillian Russell
     -   "The justification of the basic laws of logic" [^Russell2015]
--   See also: [Model theory](#model-theory)
+
+See also:
+
+-   [Model theory](#model-theory)
 
 [^Enderton2009]: @Enderton_2009_Second_order_and_higher_order_logic\.
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
@@ -370,24 +396,31 @@ Model theory
 
 ### Incompleteness
 
-G&ouml;del, Kurt (1906-1978)
+-   [G&ouml;del, Kurt](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) (1906-1978)
+-   Goldstein [^Goldstein2005]
 
-Goldstein [^Goldstein2005]
+Fom the SEP:
+
+>   The first incompleteness theorem states that in any consistent formal
+>   system $F$ within which a certain amount of arithmetic can be carried out,
+>   there are statements of the language of $F$ which can neither be proved
+>   nor disproved in $F$. According to the second incompleteness theorem,
+>   such a formal system cannot prove that the system itself is consistent
+>   (assuming it is indeed consistent). [^Raatikainen2020]
 
 From Wikipedia:
 
-G&ouml;del showed for that any formal system *S* powerful enough to represent arithmetic,
-there is a theorem *G* which is true but the system is unable to prove.
-*G* could be added as an additional axiom to the system in place of a proof.
-However this would create a new system *S'* with its own unprovable true theorem *G'*,
-and so on.
-
-From Wikipedia:
-
--   The first incompleteness theorem states that no consistent system of axioms whose theorems can be listed by an "effective procedure" (e.g., a computer program, but it could be any sort of algorithm) is capable of proving all truths about the relations of the natural numbers.
+-   G&ouml;del showed for that any formal system $S$ powerful enough to represent arithmetic,
+    there is a theorem $G$ which is true but the system is unable to prove.
+    $G$ could be added as an additional axiom to the system in place of a proof.
+    However this would create a new system $S'$ with its own unprovable true theorem $G'$,
+    and so on.
+-   The first incompleteness theorem states that no consistent system of axioms whose theorems
+    can be listed by an "effective procedure" (e.g., a computer program, but it could be any
+    sort of algorithm) is capable of proving all truths about the relations of the natural numbers.
 -   The second incompleteness theorem, an extension of the first, shows that such a system cannot demonstrate its own consistency.
     Sufficiently strong proof theories cannot prove their own consistency (provided that they are in fact consistent).
--   G&ouml;del's second incompleteness theorem also implies that a theory T1 satisfying the technical conditions outlined above cannot prove the consistency of any theory T2 that proves the consistency of T1. This is because such a theory T1 can prove that if T2 proves the consistency of T1, then T1 is in fact consistent. For the claim that T1 is consistent has form "for all numbers n, n has the decidable property of not being a code for a proof of contradiction in T1". If T1 were in fact inconsistent, then T2 would prove for some n that n is the code of a contradiction in T1. But if T2 also proved that T1 is consistent (that is, that there is no such n), then it would itself be inconsistent. This reasoning can be formalized in T1 to show that if T2 is consistent, then T1 is consistent. Since, by second incompleteness theorem, T1 does not prove its consistency, it cannot prove the consistency of T2 either.
+-   G&ouml;del's second incompleteness theorem also implies that a theory $T_1$ satisfying the technical conditions outlined above cannot prove the consistency of any theory $T_2$ that proves the consistency of $T_1$. This is because such a theory $T_1$ can prove that if $T_2$ proves the consistency of $T_1$, then $T_1$ is in fact consistent. For the claim that $T_1$ is consistent has form "for all numbers $n$, $n$ has the decidable property of not being a code for a proof of contradiction in $T_1$". If $T_1$ were in fact inconsistent, then $T_2$ would prove for some $n$ that $n$ is the code of a contradiction in $T_1$. But if $T_2$ also proved that $T_1$ is consistent (that is, that there is no such $n$), then it would itself be inconsistent. This reasoning can be formalized in $T_1$ to show that if $T_2$ is consistent, then $T_1$ is consistent. Since, by second incompleteness theorem, $T_1$ does not prove its consistency, it cannot prove the consistency of $T_2$ either.
 -   The corollary also indicates the epistemological relevance of the second incompleteness theorem. It would actually provide no interesting information if a theory T proved its consistency. This is because inconsistent theories prove everything, including their consistency. Thus a consistency proof of T in T would give us no clue as to whether T really is consistent; no doubts about the consistency of T would be resolved by such a consistency proof. The interest in consistency proofs lies in the possibility of proving the consistency of a theory T in some theory T' that is in some sense less doubtful than T itself, for example weaker than T. For many naturally occurring theories T and T', such as T = Zermelo-Fraenkel set theory and T' = primitive recursive arithmetic, the consistency of T' is provable in T, and thus T' can't prove the consistency of T by the above corollary of the second incompleteness theorem.
 -   The second incompleteness theorem does not rule out consistency proofs altogether, only consistency proofs that could be formalized in the theory that is proved consistent. For example, Gerhard Gentzen proved the consistency of Peano arithmetic (PA) in a different theory that includes an axiom asserting that the ordinal called $\varepsilon_0$ is wellfounded; see Gentzen's consistency proof. Gentzen's theorem spurred the development of ordinal analysis in proof theory.
 
@@ -401,11 +434,15 @@ More:
 
 -   von Neumann recognized the importance first.
 -   G&ouml;del was a platonist, a (religious) realist.
+-   Armstrong, S. (2012). [Completeness, incompleteness, and what it all means: first versus second order logic](https://www.lesswrong.com/posts/MLqhJ8eDy5smbtGrf/completeness-incompleteness-and-what-it-all-means-first).
 -   Discuss how incompleteness is overblown in overly epistemically defeatist ways.
+    -   Seems to indicate that no formal system lacks the full context for _everything_.
+        Additional axioms will be appropriate for introducing further contexts.
 -   Seely, R.A. [G&ouml;del on the net.](http://www.math.mcgill.ca/rags/JAC/124/godel.html)
 -   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/) - IEP
 
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
+[^Raatikainen2020]: @Raatikainen_2020_Godels_incompleteness_theorems\.
 
 
 Category theory
@@ -428,6 +465,17 @@ Category theory
 -   Samuel Eilenberg (1913-1998) and Saunders Mac Lane (1909-2005)
 -   [Alexander Grothendieck](https://en.wikipedia.org/wiki/Alexander_Grothendieck) (1928-2014)
 -   [Bill Lawvere](https://en.wikipedia.org/wiki/William_Lawvere) (b. 1937)
+
+Grothendieck:
+
+>   If there is one thing in mathematics that fascinates me more than anything
+>   else (and doubtless always has), it is neither "number" nor "size", but
+>   always form. And among the thousand-and-one faces whereby form
+>   chooses to reveal itself to us, the one that fascinates me more than any
+>   other and continues to fascinate me, is the structure hidden in mathematical
+>   things. [^Grothendieck]
+
+[^Grothendieck]: TODO
 
 
 ### Homotopy type theory
@@ -601,6 +649,8 @@ Platonism
 
 
 ### Visual proofs
+
+![Composite numbers can be arranged into rectangles but prime numbers cannot (source: [Wikimedia](https://en.wikipedia.org/wiki/File:Primes-vs-composites.svg)).](img/primes-vs-composites.png)
 
 ![A visual proof that $\sum_{k=1}^{n} k = (n^2+n)/2$.](img/visual-proof-sum-n.jpg)
 

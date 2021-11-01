@@ -27,6 +27,7 @@ Post, E.L. (1921). Introduction to the general theory of elementary propositions
 Priest, G. (1998). What is so bad about contradictions? *Journal of Philosophy*, 95, 410--426. 
 Putnam, H. (1971). *Philosophy of Logic*. New York: Harper & Row.
 Putnam, H. (1975). What is mathematical truth? *Historia Mathematica*, 2(4), 529--543.
+Raatikainen, P. (2020). G{\"o}del's incompleteness theorems. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/goedel-incompleteness/
 Reid, C. (1996). *Hilbert*. Copernicus.
 Rosario Mart{\'i}nez-Ordaz, M. (2020). The ignorance behind inconsistency toleration. *Synthese*, 198, 8665--8686.
 Russell, B. (1905). On Denoting. *Mind*, 14(56), 479--493.
