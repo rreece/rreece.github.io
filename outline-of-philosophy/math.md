@@ -149,6 +149,15 @@ Number theory
 -   [Robinson arithmetic](https://en.wikipedia.org/wiki/Robinson_arithmetic)
 
 
+### Set theory
+
+-   Membership: Axiom of extensionality
+-   Axiom of unrestricted comprehension and Naive Set Theory
+-   Russell's paradox
+-   Axiom schema of specification AKA Axiom of restricted comprehension
+-   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory) + [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) = ZFC
+
+
 ### Transfinite numbers
 
 -   Anticipated by [Robert Grosseteste](https://plato.stanford.edu/entries/grosseteste/) (ca. 1168-1253)
@@ -278,15 +287,6 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 [^Post1921]: @Post_1921_Introduction_to_the_general_theory_of_elementary\.
 [^Stillwell2004]: @Stillwell_2004_Emil_Post_and_his_anticipation_of_Godel\.
 [^vonFintel2011]: @vonFintel_2011_Conditionals\.
-
-
-### Set theory
-
--   Membership: Axiom of extensionality
--   Axiom of unrestricted comprehension and Naive Set Theory
--   Russell's paradox
--   Axiom schema of specification AKA Axiom of restricted comprehension
--   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory) + [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) = ZFC
 
 
 ### First-order logic

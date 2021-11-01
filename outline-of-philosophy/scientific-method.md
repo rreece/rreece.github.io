@@ -971,6 +971,20 @@ Sagan:
 
 ### Yes: Models of science
 
+-   [Robert Grosseteste](https://en.wikipedia.org/wiki/Robert_Grosseteste) (ca. 1168-1253)
+
+Wikipedia:
+
+>   Grosseteste was the first of the Scholastics to fully understand Aristotle's
+>   vision of the dual path of scientific reasoning: generalising from particular
+>   observations into a universal law, and then back again from universal laws to
+>   prediction of particulars. Grosseteste called this "resolution and composition".
+>   So, for example, looking at the particulars of the moon, it is possible to
+>   arrive at universal laws about nature. Conversely once these universal laws
+>   are understood, it is possible to make predictions and observations about
+>   other objects besides the moon. Grosseteste said further that both paths
+>   should be verified through experimentation to verify the principles involved.
+
 -   Hypothetico-deductive model
     -   French [^French2007pX]
     -   Nola & Sankey [^Nola2007pX]
