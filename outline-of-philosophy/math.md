@@ -535,16 +535,6 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 [^Aguirre2016p153]: Yanofsky (2016) In @Aguirre_2016_Trick_Or_Truth_The_mysterious_connection_between\, p. 153.
 
 
-### Hilbert's program
-
--   [Hilbert's program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
--   *Principia Mathematica*
-
-See also:
-
--   [Logicism](#logicism)
-
-
 ### Erlangen program
 
 -   [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
@@ -564,6 +554,7 @@ See also:
 See also:
 
 -   [Category theory](#category-theory)
+-   [Hilbert's program](#hilberts-program)
 
 
 Platonism
@@ -755,7 +746,6 @@ Logicism
 -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
 -   [Frege's theorem](https://en.wikipedia.org/wiki/Frege%27s_theorem)
 
-[^Linsky2006]: @Linsky_2006_What_is_Neologicism\.
 [^Russell1905]: @Russell_1905_On_Denoting\.
 [^Russell1912p91]: @Russell_1912_The_Problems_of_Philosophy\, p. 91--118.
 [^Shapiro2000]: @Shapiro_2000_Thinking_about_Mathematics_The_Philosophy\.
@@ -779,7 +769,18 @@ Logicism
 
 ### Neologicism
 
--   What is Neologicism? [^Linsky2006]
+-   Linsky, B. & Zalta, E.N. (2006). [What is Neologicism?](http://mally.stanford.edu/Papers/neologicism2.pdf) [^Linsky2006]
+-   [Bob Hale](https://en.wikipedia.org/wiki/Bob_Hale_(philosopher)) (1945-2017)
+-   [Crispin Wright](https://en.wikipedia.org/wiki/Crispin_Wright) (b. 1942)
+
+Linsky & Zalta:
+
+>   Our knowledge of mathematics is to be explained in terms of the faculty
+>   we use to understand language, since that is the only faculty we need to
+>   understand object abstraction. [^Linsky2006p43]
+
+[^Linsky2006]: @Linsky_2006_What_is_Neologicism\.
+[^Linsky2006p43]: @Linsky_2006_What_is_Neologicism\, p. 43.
 
 
 Formalism
@@ -804,12 +805,6 @@ Hilbert:
 
 -   Video: Veritasium - [You can't prove everything that's true](https://www.youtube.com/watch?v=HeQX2HjkcNo)
 
-Hilbert wanted math to be
-
--   ~Complete~
--   Consistent?
--   ~Decidable~
-
 [^Hilbert1967p479]: @Hilbert_1967_The_foundations_of_mathematics\, p. 479.
     Discussion by [Michael J. O'Donnell](http://people.cs.uchicago.edu/~odonnell/OData/Courses/22C:096/Lecture_notes/Hilbert_program.html):
 
@@ -826,6 +821,18 @@ Hilbert wanted math to be
     >   furthermore that there is not even a proof that they are consistent with basic
     >   numerical equations. Of course, Hilbert's proposed system never gets its consistency proof either. 
     >   Oh well.
+
+
+### Hilbert's program
+
+-   [Hilbert's program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
+-   *Principia Mathematica*
+
+Hilbert wanted math to be
+
+-   Consistent?
+-   ~~Complete~~
+-   ~~Decidable~~
 
 
 Intuitionism
