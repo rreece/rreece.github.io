@@ -27,6 +27,7 @@ TODO
 ### History
 
 -   roots from Babylonians
+-   [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano) (1501-1576)
 -   [&Eacute;variste Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois) (1811-1832)
 -   [Leopold Kronecker](https://en.wikipedia.org/wiki/Leopold_Kronecker) (1823-1891)
 -   arithmetic vs abstract algebra
