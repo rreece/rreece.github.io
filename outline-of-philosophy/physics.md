@@ -365,6 +365,13 @@ conserved under that transformation.
 
 $$ \hat{U}(x^{\mu}) = e^{ -i \, \hat{P}_\mu \, x^\mu } $$
 
+-   Somehow, QM is about complex numbers:
+    -   Jordan, P., von Neumann, J., & Wigner, E.P. (1934). On an algebraic generalization of the quantum mechanical formalism. [^Jordan1934]
+    -   Baez, J.C. (2011). [Division algebras and quantum theory](https://arxiv.org/abs/1101.5690). [^Baez2011]
+
+[^Baez2011]: @Baez_2011_Division_algebras_and_quantum_theory\.
+[^Jordan1934]: @Jordan_1934_On_an_algebraic_generalization_of_the_quantum\.
+
 
 ### Secondary properties of QM
 

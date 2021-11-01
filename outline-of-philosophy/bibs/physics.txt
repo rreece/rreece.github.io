@@ -7,6 +7,7 @@ Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting 
 Bacciagaluppi, G. & Valentini, A. (2009). *Quantum Theory at the Crossroads: Reconsidering the 1927 Solvay Conference*. Cambridge University Press. https://arxiv.org/abs/quant-ph/0609184
 Baez, J.C., Segal, I., & Zhou, Z. (1992). *Introduction to Algebraic and Constructive Quantum Field Theory*. Princeton University Press. https://math.ucr.edu/home/baez/bsz.html
 Baez, J.C. & Huerta, J. (2009). The algebra of grand unified theories. *Bulletin of the American Mathematical Society*, 47, 483--552. https://arxiv.org/abs/0904.1556
+Baez, J.C. (2011). Division algebras and quantum theory. *Foundations of Physics*, 42, 819--855. https://arxiv.org/abs/1101.5690
 Baez, J.C. (2016). Struggles with the continuum. https://arxiv.org/abs/1609.01421
 Baez, J.C. (2018). Getting to the bottom of Noether’s theorem. https://math.ucr.edu/home/baez/noether/noether_web.pdf [Talk given at The Philosophy and Physics of Noether’s Theorems, University of Notre Dame, October 6, 2018]
 Baggott, J. (2013). *Farewell to Reality: How modern physics has betrayed the search for scientific truth*. Pegasus Books.
@@ -81,6 +82,7 @@ Healey, R. (2007). *Gauging What's Real*. Oxford University Press.
 Higgs, P.W. (1964). Broken symmetries, massless particles and gauge fields. *Physics Letters*, 13, 508--509. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.508
 Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. *Synthese*, 102(1), 171--194.
 Jaeger, G. (2019). Are virtual particles less real? *Entropy*, 21, 141. https://www.mdpi.com/1099-4300/21/2/141
+Jordan, P., von Neumann, J., & Wigner, E.P. (1934). On an algebraic generalization of the quantum mechanical formalism. *Annals of Mathematics*, 35, 29.
 Kadanoff, L.P. (2013). Theories of matter: Infinities and renormalization. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 109-141). Oxford University Press. https://arxiv.org/abs/1002.2985
 Kastler, D. (2003). Rudolf Haag---Eighty Years. *Communications in Mathematical Physics*, 237, 3--6.
 Keller, K.J., Papadopoulos, M.A., & Reyes-Lega, A.F. (2007). On the realization of symmetries in quantum mechanics. https://arxiv.org/abs/0712.0997
