@@ -23,6 +23,7 @@ Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard Fir
 Linsky, B. & Zalta, E.N. (2006). What is Neologicism? *The Bulletin of Symbolic Logic*, 12, 60-99. http://mally.stanford.edu/Papers/neologicism2.pdf
 MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction*. Routledge.
 Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
+Post, E.L. (1921). Introduction to the general theory of elementary propositions, *American Journal of Mathematics*, 43, 163--185.
 Priest, G. (1998). What is so bad about contradictions? *Journal of Philosophy*, 95, 410--426. 
 Putnam, H. (1971). *Philosophy of Logic*. New York: Harper & Row.
 Putnam, H. (1975). What is mathematical truth? *Historia Mathematica*, 2(4), 529--543.
@@ -35,7 +36,9 @@ Shapiro, S. (1991). *Foundations without Foundationalism: A Case for Second-Orde
 Shapiro, S. (2000). *Thinking about Mathematics: The Philosophy of Mathematics*. Oxford University Press.
 Snapper, E. (1979). The three crises in mathematics: Logicism, intuitionism and formalism. *Mathematics Magazine*, 52, 207--216. https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/1980/0025570x.di021111.02p0048m.pdf
 Spivak, D.I. (2013). Category theory for scientists. https://arxiv.org/abs/1302.6946
+Stillwell, J. (2004). Emil Post and his anticipation of G{\"o}del and Turing. *Mathematics Magazine*, 77, 3--14.
 Tegmark, M. (2008). The mathematical universe. *Foundations of Physics*, 38, 101--150. https://arxiv.org/abs/0704.0646
 Teller, P. (1989). *A Modern Formal Logic Primer*. Prentice Hall. https://tellerprimer.ucdavis.edu/
+von Fintel, K. (2011). Conditionals. https://dspace.mit.edu/handle/1721.1/95781
 Way, R. (2010). Introduction to connections on principal fibre bundles. http://personal.maths.surrey.ac.uk/T.Bridges/GEOMETRIC-PHASE/Connections_intro.pdf
 Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. *Communications on pure and applied mathematics*, 13, 1--14. http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html [Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959]

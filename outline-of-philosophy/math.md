@@ -140,6 +140,23 @@ TODO
 [^Way2010]: @Way_2010_Introduction_to_connections_on_principal_fibre\.
 
 
+Number theory
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   TODO
+
+
+### Transfinite numbers
+
+-   Anticipated by [Robert Grosseteste](https://plato.stanford.edu/entries/grosseteste/) (ca. 1168-1253)
+-   Developed by Georg Cantor in 1895
+-   Ordinal (index) vs cardinal (size) numbers
+-   Axiom of choice
+-   The continuum hypothesis
+
+
 Logic
 --------------------------------------------------------------------------------
 
@@ -200,18 +217,36 @@ $$ A \models B $$
 means that in all possible valuations in which $A$ is true, $B$ is also true.
 One says that $A$ "entails" $B$, or $A$ "models" $B$.
 
--   TODO: Propositional logic is sound ($\vdash$ implies $\models$) and complete ($\models$ implies $\vdash$).
-
-*Material implication:*
-
-$$ P \rightarrow Q \equiv \lnot P \lor Q $$
-
 Note that $\vdash$, $\models$, and $\equiv$ are all metalogical symbols,
 not part of the rules of logic; they are shorthands.
 
 $\vdash$  means "from which, it is derivable that".          
 $\models$ means "entails that, *i.e.* in every case this is true, that is true (regardless of provability)".           
 $\equiv$ means "is notationally identical to".         
+
+Lecture notes on soundness and completeness:
+
+-   [Cornell](https://www.cs.cornell.edu/courses/cs2800/2016sp/lectures/lec39-sound-complete.html)
+-   [Waterloo](https://cs.uwaterloo.ca/~plragde/cs245old/03-propsem.pdf)
+
+A formal system is *sound* if everything that is provable is in fact true,
+i.e. if $A_1, A_2, \ldots A_n \vdash B$, then $A_1, A_2, \ldots A_n \models B$.
+
+A formal system is *complete* if everything that is true has a proof,
+i.e. if $A_1, A_2, \ldots A_n \models B$, then $A_1, A_2, \ldots A_n \vdash B$.
+
+Propositional logic was proven to be sound ($\vdash$ implies $\models$)
+and complete ($\models$ implies $\vdash$) by Emil Post in 1921. [^Post1921]
+
+-   Emil Post and his anticipation of G&ouml;del and Turing [^Stillwell2004]
+
+*Material implication:*
+
+$$ P \rightarrow Q \equiv \lnot P \lor Q $$
+
+-   [Paradoxes of material implication](https://en.wikipedia.org/wiki/Paradoxes_of_material_implication)
+-   [Vacuous truth](https://en.wikipedia.org/wiki/Vacuous_truth)
+-   vonFintel, K. (2011). [Conditionals](https://dspace.mit.edu/handle/1721.1/95781). [^vonFintel2011]
 
 *Modus ponens:*
 
@@ -227,6 +262,10 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 
 -   TODO: More basic examples in propositional logic
 -   TODO: Use-mention distinction: P vs 'P' vs Quine quotes
+
+[^Post1921]: @Post_1921_Introduction_to_the_general_theory_of_elementary\.
+[^Stillwell2004]: @Stillwell_2004_Emil_Post_and_his_anticipation_of_Godel\.
+[^vonFintel2011]: @vonFintel_2011_Conditionals\.
 
 
 ### Set theory
@@ -304,11 +343,16 @@ Model theory
 
 ### Introduction
 
--   Wikipedia: [Model theory](https://en.wikipedia.org/wiki/https://en.wikipedia.org/wiki/Model_theory)
+-   Wikipedia: [Model theory](https://en.wikipedia.org/wiki/Model_theory)
     -   model theory = universal algebra + logic
     -   model theory = algebraic geometry - fields
 -   SEP: [Model theory](https://plato.stanford.edu/entries/model-theory/)
     -   Model theory is the study of the interpretation of any language, formal or natural, by means of set-theoretic structures, with Alfred Tarski's truth definition as a paradigm.
+
+>   *Model theory* is the theory of interpretations of formal languages
+>   (a *model* of a formula of a language is an interpretation of the
+>   language for which the formula comes out true). [^Hunter1971p6]
+
 -   William Rowan Hamilton
 -   Alfred North Whitehead. (1898). *A Treatise on Universal Algebra*.
 -   Wilfrid Hodges
@@ -321,6 +365,7 @@ Model theory
     -   See also: [Formal epistemology](scientific-method.html#formal-epistemology)
 
 [^Button2018]: @Button_2018_Philosophy_and_Model_Theory\.
+[^Hunter1971p6]: @Hunter_1971_Metalogic_An_Introduction_to_the_Metatheory\, p. 6.
 
 
 ### Incompleteness
@@ -901,6 +946,7 @@ Click to show links
 -   [Game Theory](http://plato.stanford.edu/entries/game-theory/)
 -   [G&ouml;del, Kurt (1906-1978)](http://plato.stanford.edu/entries/goedel/)
 -   [G&ouml;del's incompleteness theorems](http://plato.stanford.edu/entries/goedel-incompleteness/)
+-   [Grosseteste, Robert (ca. 1168-1253)](https://plato.stanford.edu/entries/grosseteste/)
 -   [Hilbert's Program](http://plato.stanford.edu/entries/hilbert-program/)
 -   [Identity theory of truth](http://plato.stanford.edu/entries/truth-identity/)
 -   [Inconsistent tathematics](http://plato.stanford.edu/entries/mathematics-inconsistent/)

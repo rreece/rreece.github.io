@@ -187,6 +187,7 @@ See also:
     -   [The first true scientist](http://news.bbc.co.uk/2/hi/science/nature/7810846.stm) - By Jim Al-Khalili
 -   [Reconquest of Toledo](https://en.wikipedia.org/wiki/History_of_Toledo,_Spain#Medieval_Toledo_after_the_Reconquest) (1085)
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
+-   [Robert Grosseteste](https://en.wikipedia.org/wiki/Robert_Grosseteste) (ca. 1168-1253)
 -   [Roger Bacon](http://en.wikipedia.org/wiki/Roger_Bacon) (1214-1292)
 -   [William of Ockham](http://en.wikipedia.org/wiki/William_of_Ockham) (1287-1347)
     -   Ockham's razor as a hint at parsimony and abduction
@@ -1549,6 +1550,7 @@ Click to show links
 -   [Foundationalist theories of epistemic justification](http://plato.stanford.edu/entries/justep-foundational/)
 -   [Galileo Galilei (1564-1642)](http://plato.stanford.edu/entries/galileo/)
 -   [Gassendi, Pierre (1592-1655)](http://plato.stanford.edu/entries/gassendi/)
+-   [Grosseteste, Robert (ca. 1168-1253)](https://plato.stanford.edu/entries/grosseteste/)
 -   [Historicist theories of scientific sationality](https://plato.stanford.edu/entries/rationality-historicist/)
 -   [Hobbes, Thomas (1588-1679)](http://plato.stanford.edu/entries/hobbes/)
 -   [Hobbes' philosophy of science](https://plato.stanford.edu/entries/hobbes-science/)
@@ -1688,6 +1690,7 @@ Click to show links
 -   [Gassendi, Pierre (1592-1655)](http://en.wikipedia.org/wiki/Pierre_Gassendi)
 -   [Gauss, Carl Friedrich (1777-1855)](http://en.wikipedia.org/wiki/Gauss)
 -   [Gettier problem](http://en.wikipedia.org/wiki/Gettier_problem)
+-   [Grosseteste, Robert (ca. 1168-1253)](https://en.wikipedia.org/wiki/Robert_Grosseteste)
 -   [Halley, Edmond (1656-1742)](http://en.wikipedia.org/wiki/Edmond_Halley)
 -   [Hamilton, William Rowan (1805-1865)](http://en.wikipedia.org/wiki/William_Rowan_Hamilton)
 -   [Heisenberg, Werner (1901-1976)](https://en.wikipedia.org/wiki/Werner_Heisenberg)
