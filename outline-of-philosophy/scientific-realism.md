@@ -629,9 +629,12 @@ Comte on the unknowability of the composition of stars:
 
 (He was wrong!)
 
+-   Feigl, H. (1981). The origin and spirit of logical positivism. [^Feigl1981]
+
 [^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
     Translation of passage taken from:           
     <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
+[^Feigl1981]: @Feigl_1981_The_origin_and_spirit_of_logical_positivism\.
 
 
 #### Ernst Mach
@@ -706,6 +709,15 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 [^Wittgenstein1929]: @Wittgenstein_1929_Some_remarks_on_logical_form\.
 
 
+#### Emile Durkheim
+
+-   [&Eacute;mile Durkheim](https://en.wikipedia.org/wiki/%C3%89mile_Durkheim) (1858--1917)
+-   Modern sociology
+-   Houghton, T. (2011). [Does positivism really 'work' in the social sciences?](https://www.e-ir.info/2011/09/26/does-positivism-really-%E2%80%98work%E2%80%99-in-the-social-sciences/) [^Houghton2011]
+
+[^Houghton2011]: @Houghton_2011_Does_positivism_really_work_in_the_social\.
+
+
 ### Logical positivism and the Vienna Circle
 
 ![Left: The entrance to the Mathematical Seminar at the University of Vienna,
@@ -718,7 +730,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924 to 1936.
 -   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Victor Kraft, Otto Neurath, Friedrich Waismann, Gustav Bergmann, and others.
 -   Ludwig Wittgenstein and Karl Popper corresponded with the circle but did not attend.
--   Carnap, R. (1928), *The Logical Structure of the World* (*Der Logische Aufbau der Welt*) [^Carnap1928]
+-   Carnap, R. (1928). *The Logical Structure of the World* (*Der Logische Aufbau der Welt*). [^Carnap1928]
     -   Rational reconstruction
 -   [The scientific conception of the world: The Vienna Circle](http://rreece.github.io/philosophy-reading-list/docs/the-scientific-conception-of-the-world-the-vienna-circle.pdf) (1929) [^Hahn1973]
     -   Wissenschaftliche Weltauffassung: Der Wiener Kreis
@@ -771,10 +783,11 @@ Reichenbach on probability:
 ### Later positivism
 
 -   Carnap emigrated to the United States in 1935 and became a professor at the University of Chicago.
--   Carnap: "Testibility and Meaning" (1936-7) [^Carnap1937]
+-   Carnap, R. (1936). Testability and meaning. [^Carnap1936]
     -   Argued to replace verification with confirmation.
     -   Carnap spent many years trying to develop a theory of degree of confirmation
         but was never able to satisfactorily formulate a model. [^Murzi2001]
+-   Carnap, R. (1937). Testability and meaning---continued. [^Carnap1937]
 -   Reichenbach emigrated to the US in 1938 and became a professor at UCLA.
 -   Carnap joined UCLA in 1954, the year after Reichenbach died.
 -   TODO: Quine on how huge Carnap's influence is. [^Quine1990-3]
@@ -783,16 +796,17 @@ Reichenbach on probability:
 
 Carnap on ontology:
 
--   *The Logical Syntax of Language* (1937) [^Carnap1937LSL]
-    -   Fowler: "LSL in a nutshell" [^Fowler2010]
+-   Carnap, R. (1937). *The Logical Syntax of Language*. [^Carnap1937LSL]
+    -   Fowler, S. (2010). LSL in a nutshell. [^Fowler2010]
     -   Leitgeb & Carus: "talk of meaning should in any case be eschewed in favor of talk of syntax" [^Leitgeb2020G]
--   "Empiricists, semantics, and ontology" [^Carnap1950]
+    -   Blanchette, P. (2013). Talk: [Frege and G&ouml;del on mathematics as syntax](https://www.youtube.com/watch?v=y8yZp-cjR2I).
+-   Carnap, R. (1950). Empiricists, semantics, and ontology. [^Carnap1950]
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
     -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
 
 Some more Carnap works:
 
--   "Logical foundations of science" [^Carnap1955]
+-   Carnap, R. (1955). Logical foundations of science. [^Carnap1955]
 
 Discussion:
 
@@ -854,7 +868,8 @@ But first, we will examine two other important movements in philosophy
 with strong contrasts to positivism that were developing around it:
 [pragmatism](#pragmatism) and [postmodernism](#postmodernism).
 
-[^Carnap1937]: @Carnap_1936_Testability_and_meaning and @Carnap_1937_Testability_and_meaning_continued\.
+[^Carnap1936]: @Carnap_1936_Testability_and_meaning\.
+[^Carnap1937]: @Carnap_1937_Testability_and_meaning_continued\.
 [^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
@@ -890,6 +905,7 @@ Pragmatism
 
 -   Charles Sanders Peirce (1839-1914)
 -   William James (1842-1910)
+    -   The cash value of truth
 -   John Dewey (1859-1952)
 -   Later work of Ludwig Wittgenstein (1889-1951)
 -   Wilfrid Sellars (1921-1989)

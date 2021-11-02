@@ -53,8 +53,9 @@ including for signs of grand unified theories and supersymmetry.
 
 Since about 2015, following the deep learning revolution,
 I've been trying to learn everything I can about deep learning.
-I've worked in computer vision, large-scale language modeling,
-and machine translation.
+I've worked in computer vision,
+machine translation, and
+large-scale language modeling.
 
 
 ### Current projects I am focused on

@@ -389,6 +389,7 @@ See also:
     -   *Tabula rasa* - "blank slate"
 -   George Berkeley (1685-1753)
 -   David Hume (1711-1776)
+    -   *A Treatise of Human Nature* (1740)
     -   *An Enquiry Concerning Human Understanding* (1748)
 
 Hume:
@@ -406,6 +407,7 @@ Hume:
 
 [^Hume2007p109]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
     Section XII, pp. 109--110.
+[^Hume2009]: @Hume_2009_A_Treatise_of_Human_Nature\.
 
 
 ### Important synthesizers

@@ -2,16 +2,18 @@ Ayer, A. J. (1952). *Language, truth and logic* (2 ed.). Dover Publications. [(O
 Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. *Erkenntnis*, 2. https://philpapers.org/archive/TEO.pdf
 Carnap, R. (1950). Empiricism, semantics, and ontology. *Revue Internationale de Philosophie*, 4, 20--40.
 Carnap, R. (1955). The logical foundations of the unity of science. In *International Encyclopedia of Unified Science: Volume I* (pp. 42--62). University of Chicago Press.
-Carnap, R. (1936). Testability and meaning. *Philosophy of Science*, 3(4), 419--471.
-Carnap, R. (1937). Testability and meaning--continued. *Philosophy of Science*, 4(1), 1--40.
+Carnap, R. (1936). Testability and meaning. *Philosophy of Science*, 3, 419--471.
+Carnap, R. (1937). Testability and meaning--continued. *Philosophy of Science*, 4, 1--40.
 Carnap, R. (1937). *Logical Syntax of Language*. Kegan Paul, Trench, Trubner & Co.
 Carnap, R. (2003). *The Logical Structure of the World* (R.A. George, Trans.). Chicago: Open Court. [(Originally published in 1928 as \emph{Der logische Aufbau der Welt})]
 Carnap, R. & Schilpp, P.A. (1963). *The Philosophy of Rudolf Carnap*. Open Court. http://fitelson.org/confirmation/carnap_schilpp_volume.pdf
 Creathe, R. (2011). Logical empiricism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/logical-empiricism/
+Feigl, H. (1981). The origin and spirit of logical positivism. *Inquiries and Provocations*, 21--37.
 Fowler, S. (2010). LSL in a nutshell. https://philarchive.org/archive/FOWLIA
 Friedman, M. (1999). *Reconsidering Logical Positivism*. Cambridge University Press.
 #Hahn, H., Neurath, O., & Carnap, R. (1973). The scientific conception of the world: The Vienna Circle. In M. Neurath & R.S. Cohen (Eds.) *Empiricism and Sociology* (pp. 298--318). Dordrecht: Reidel. https://www.biostasis.com/pdfs/viennacircle.pdf [(Originally published in German in 1929 as "Wissenschaftliche Weltauffassung: Der Wiener Kreis")]
 Hahn, H., Neurath, O., & Carnap, R. (1973). The scientific conception of the world: The Vienna Circle. In M. Neurath & R.S. Cohen (Eds.) *Empiricism and Sociology* (pp. 298--318). Dordrecht: Reidel. http://rreece.github.io/philosophy-reading-list/docs/the-scientific-conception-of-the-world-the-vienna-circle.pdf [(Originally published in German in 1929 as "Wissenschaftliche Weltauffassung: Der Wiener Kreis")]
+Houghton, T. (2011). Does positivism really 'work' in the social sciences? https://www.e-ir.info/2011/09/26/does-positivism-really-%E2%80%98work%E2%80%99-in-the-social-sciences/
 Leitgeb, H. & Carus, A. (2020). Rudolf Carnap. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/carnap/index.html
 Murzi, M. (2004). Vienna circle. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/viennacr/
 Murzi, M. (2001). Rudolf Carnap (1891-1970). *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/carnap/

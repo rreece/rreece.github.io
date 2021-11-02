@@ -459,6 +459,7 @@ Buddhism
 -   [Ashoka](https://en.wikipedia.org/wiki/Ashoka) (c. 304-232 BCE)
 -   [Gandh&amacr;ran Buddhist texts](https://en.wikipedia.org/wiki/Gandharan_Buddhist_texts) - oldest yet discovered Buddhist texts (c. first century BCE)
 -   [Dign&amacr;ga](https://en.wikipedia.org/wiki/Dign%C4%81ga) (c. 480-540 CE)
+    -   Indian philosopher that developed Buddhist logic and empiricism.
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [Buddhist modernism](https://en.wikipedia.org/wiki/Buddhist_modernism)
 
@@ -702,7 +703,9 @@ See also:
 -   [Early Buddhist schools](https://en.wikipedia.org/wiki/Early_Buddhist_schools)
 -   [Third Buddhist Council](https://en.wikipedia.org/wiki/Third_Buddhist_council) (c. 250 BCE)
 -   [Vibhajyav&amacr;da](https://en.wikipedia.org/wiki/Vibhajyavada)
+-   [Anuradhapura Maha Viharaya](https://en.wikipedia.org/wiki/Anuradhapura_Maha_Viharaya)
 -   [Buddhaghosa](https://en.wikipedia.org/wiki/Buddhaghosa) (c. 5th century CE)
+    -   metaphysical idealist
 -   [Thai Forest Tradition](https://en.wikipedia.org/wiki/Thai_Forest_Tradition)
 -   [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi) (b. 1944)
 -   [Bhikkhu Th&amacr;nissaro](https://en.wikipedia.org/wiki/%E1%B9%ACh%C4%81nissaro_Bhikkhu) (b. 1949)
@@ -791,11 +794,13 @@ Online Suttas:
 -   [Buddhism in China](https://en.wikipedia.org/wiki/Buddhism_in_China)
     -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
     -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism) (introduced in China in 147 CE)
-    -   [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
+    -   [Faxian](https://en.wikipedia.org/wiki/Faxian) (c. 337-422 CE)
     -   [Chan Buddhism](https://en.wikipedia.org/wiki/Chan_Buddhism) (began 6th century CE)
     -   [Bodhidharma](https://en.wikipedia.org/wiki/Bodhidharma) (c. 5th or 6th century CE)
     -   [Tiantai](https://en.wikipedia.org/wiki/Tiantai) (began 6th century CE) - "The Lotus School"
     -   [Xuanzang](https://en.wikipedia.org/wiki/Xuanzang) (fl. c. 602-664 CE)
+    -   [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
+    -   [Yijing](https://en.wikipedia.org/wiki/Yijing_(monk)) (635-713 CE)
     -   [Budai](https://en.wikipedia.org/wiki/Budai) - Laughing Buddha (c. 10th century CE)
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
     -   [Tendai](https://en.wikipedia.org/wiki/Tendai) (began 806 CE) - "The Lotus School"
@@ -916,6 +921,7 @@ Online Suttas:
     -   literally: "loom, weave, system"
 -   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
     -   [Padmasambh&amacr;va](https://en.wikipedia.org/wiki/Padmasambh%C4%81va) (fl. 767)
+    -   [Atisa](https://en.wikipedia.org/wiki/Ati%C5%9Ba) (982-1054)
     -   [B&ouml;n](https://en.wikipedia.org/wiki/Bon)
     -   [Nyingma](https://en.wikipedia.org/wiki/Nyingma)
     -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) - "Great Perfection"
