@@ -12,6 +12,9 @@
 -   Reconstruction and identification of hadronic decays of tau leptons
 -   Philosophy of science and science communication
 
+
+### Research history
+
 Previously as a graduate student at Penn,
 working with [ATLAS Experiment](https://atlas.cern/)
 at [CERN](https://home.cern/),
