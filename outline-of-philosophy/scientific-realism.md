@@ -188,8 +188,9 @@ Humeanism and necessity
 
 See also:
 
+-   [Modal logic](math.html#modal-logic)
+-   [Naturalism](naturalism.html)
 -   [Problem of induction](scientific-method.html#problem-of-induction)
--   [Outline on naturalism](naturalism.html)
 
 
 ### Laws of nature
@@ -216,15 +217,6 @@ See also:
 >   another. [^Lewis1986pix]
 
 [^Lewis1986pix]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
-
-
-### Modal logic
-
--   *On the Plurality of Worlds* (1986) [^Lewis1986]
--   Saul Kripke on necessity
--   Modal logic
-
-[^Lewis1986]: @Lewis_1986_On_the_Plurality_of_Worlds\.
 
 
 Instrumentalism
@@ -639,7 +631,7 @@ Comte on the unknowability of the composition of stars:
 
 #### Ernst Mach
 
--   Ernst Mach (1838-1916)
+-   [Ernst Mach](https://en.wikipedia.org/wiki/Ernst_Mach) (1838-1916)
 -   Richard Avenarius (1843-1896)
 -   Empirio-criticism
 -   Popper, K.R. (1953). A note on Berkeley as precursor of Mach. [^Popper1953]
@@ -908,15 +900,26 @@ Pragmatism
     -   The cash value of truth
 -   John Dewey (1859-1952)
 -   Later work of Ludwig Wittgenstein (1889-1951)
--   Wilfrid Sellars (1921-1989)
--   Richard Rorty (1931-2007)
--   Hilary Putnam (1926-2016)
--   Rorty and Putnam
 -   Willard Van Orman Quine (1908-2000)
+-   Wilfrid Sellars (1921-1989)
+    -   Empiricism and the Philosophy of Mind (1956) [^Sellars1963]
+    -   "The myth of the given"
+    -   Only language can work as a foundation for arguments; non-linguistic sensory perceptions are incompatible with language.
+    -   Critic of foundationalist epistemology
+    -   Sheff, N. (2021). [Wilfrid Sellars, sensory experience and the 'Myth of the Given'](https://psyche.co/ideas/wilfrid-sellars-sensory-experience-and-the-myth-of-the-given).
+-   Richard Rorty (1931-2007)
+    -   *The Linguistic Turn* (1967)
+    -   *Philosophy and the Mirror of Nature* (1979)
+    -   Rejection of the representationalist account of knowledge; mirror of nature.
+    -   Ironism
+-   Hilary Putnam (1926-2016)
+    -   Rorty and Putnam
 -   Ruth Millikan (b. 1933)
 -   Paul Churchland (b. 1942)
 -   Daniel C. Dennett (b. 1942)
 -   Robert Brandom (b. 1950)
+
+[^Sellars1963]: @Sellars_1963_Empircism_and_philosophy_of_mind\.
 
 
 ### Discussion
@@ -1097,6 +1100,10 @@ Wittgenstein in *PI*:
 >   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
 
 TODO: find ref of above quote.
+
+See also:
+
+-   [Natural language processing](statistics.html#natural-language-processing)
 
 [^Cavell2015]: @Cavell_2015_Must_We_Mean_What_We_Say\.
 [^Rorty1993p347]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\, p. 347.
@@ -1375,8 +1382,6 @@ understand the structures that generate such unobservable events.
 -   Realist
 -   Roy Wood Sellars
 -   Wilfrid Sellars
-    -   The Myth of the Given
-    -   Sheff, N. (2021). [Wilfrid Sellars, sensory experience and the 'Myth of the Given'](https://psyche.co/ideas/wilfrid-sellars-sensory-experience-and-the-myth-of-the-given).
 -   Roy Bhaskar
 -   Freely emphasizes the political implications of scientific realism.
 -   The normative importance of climate science.
@@ -1512,7 +1517,7 @@ Click to show annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Carnap, R. (1936). *Testibility and Meaning*.
+### Carnap, R. (1936). Testability and Meaning.
 
 -   TODO
 

@@ -240,11 +240,22 @@ Symmetry-first physics
 -   't Hooft, G. (2007). [Lie groups in physics](http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf). [^tHooft2007]
 -   *Physics from Symmetry* [^Schwichtenberg2015]
 
+Weyl:
+
+>   It seems to me that this new principle of gauge invariance, which
+>   follows not from speculation but from experiment, compellingly
+>   indicates that the electromagnetic field is a necessary accompanying
+>   phenomenon, not of gravitation, but of the material wave field
+>   represented by $\psi$. Since gauge invariance includes an arbitrary
+>   function $\lambda$ it has the character of "general" relativity
+>   and can naturally only be understood in that context. [^Weyl1929pX]
+
 [^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^Teller2000]: @Teller_2000_The_gauge_argument\.
 [^tHooft1994]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 [^tHooft2007]: @tHooft_2007_Lie_groups_in_physics\.
 [^Weyl1929]: @Weyl_1929_Elektron_und_gravitation\.
+[^Weyl1929pX]: @Weyl_1929_Elektron_und_gravitation\, p. TODO.
 
 
 ### Wigner-Stone theorems

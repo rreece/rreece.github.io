@@ -370,7 +370,8 @@ See also:
 -   Baruch Spinoza (1632-1677)
 -   Gottfried Wilhelm Leibniz (1646-1716)
     -   *New Essays on Human Understanding* (1765)
-    -   necessary truths
+    -   Universal and necessary truths
+    -   [Leibniz's influence on Kant](https://plato.stanford.edu/entries/kant-leibniz/)
 -   Christian Wolff (1679-1754)
 
 ![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig:mandik-2016-11-1-eyeballs}
@@ -437,7 +438,9 @@ Analytic/synthetic distinction
 -   Locke
     -   *An Essay Concerning Human Understanding* (1689)
 -   Hume's fork
+    -   Relations of ideas vs matters of fact
     -   Dicker, G. (1991). Hume's fork revisited. [^Dicker1991]
+
 Hume: 
 
 >   When we run over libraries, persuaded of these principles, what havoc must we make?
@@ -447,10 +450,24 @@ Hume:
 >   concerning matter of fact and existence?_ No. Commit it then to the flames:
 >   for it can contain nothing but sophistry and illusion. [^Hume2007p120flames]
 
+Table: Kant's division of judgments. {#tbl:kants-division-of-judgements}
+
+|                   | analytic                  |  synthetic             |
+|:------------------|:--------------------------|:-----------------------|
+| **a priori**      | True by definition        | Kant's transcendental  |
+|                   | Hume's relations of ideas |                        |
+|                   |                           |                        |
+|                   |         ---               |        ---             |
+|                   |                           |                        |
+| **a posteriori**  | Impossible                | Empirical              |
+|                   |                           | Hume's matters of fact |
+
 -   Kant
     -   *Critique of Pure Reason* (1781)
-    -   TODO: 2x2 figure *a priori/a posteriori* vs analytic/synthetic.
     -   Are there synthetic a priori statements? Kant thinks so.
+    -   Kant argues that all of pure mathematics is synthetic a priori,
+        even in the simple example "7 + 5 = 12", since the concept of
+        "12" is not contained in the concepts of "7", "5", or "+".
 
 Kant in his *Critique of Pure Reason* (1787):
 
@@ -485,7 +502,7 @@ and
 -   Carnap
     -   Empiricism, semantics, and ontology [^Carnap1950a]
     -   internal vs external questions
--   Kripe
+-   Kripke
     -   Claims there are *a posteriori* necessary truths in *Naming and Necessity* (1980).
 -   Papineau
     -   *Philosophical Devices* (2012) [^Papineau2012]
@@ -615,6 +632,7 @@ Induction
 -   How do we infer universals from particulars?
 -   Past performance is no guarantee of future results.
 -   Fallacy: hasty generalization
+-   Note that philosophical induction is not [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
 
 Sextus Empiricus:
 
@@ -624,6 +642,26 @@ Sextus Empiricus:
 >   particulars omitted in the induction may contravene the universal; 
 >   while if they are to review all, they will be toiling at the impossible, 
 >   since the particulars are infinite and indefinite. [^SextusEmpiricus]
+
+Leibniz:
+
+>   The senses, although they are necessary for all our actual knowledge,
+>   are not sufficient to give us the whole of it, since the senses never
+>   give anything but instances, that is to say particular or individual
+>   truths. Now all the instances which confirm a general truth, however
+>   numerous they may be, are not sufficient to establish the universal
+>   necessity of this same truth, for it does not follow that what happened
+>   before will happen in the same way again... And any one who believed
+>   that [day must follow night] is a necessary and eternal truth which
+>   will last for ever, would likewise be wrong, since we must hold that
+>   the earth and even the sun do not exist of necessity, and that there
+>   may perhaps come a time when that beautiful star and its whole system
+>   will exist no longer, at least in its present form. 
+>   From which it appears that necessary truths, such as we find in pure
+>   mathematics, and particularly in arithmetic and geometry, must have
+>   principles whose proof does not depend on instances, nor consequently
+>   on the testimony of the senses, although without the senses it would
+>   never have occurred to us to think of them. [^Leibniz1996pX]
 
 Hume:
 
@@ -663,6 +701,7 @@ Dewey:
 [^Dewey1938p419]: @Dewey_1938_Logic_The_Theory_of_Inquiry\, p. 419.
 [^Hume2007p56]: First footnote in the essay "On Probability" in @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. 56.
 [^Hume2007pXX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
+[^Leibniz1996pX]: @Leibniz_1996_New_Essays_on_Human_Understanding\, p. TODO.
 [^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
 
@@ -791,7 +830,15 @@ Peirce:
 >   self-correcting nature of the ampliative inference would enable us,
 >   even if they did exist, to detect and make allowance for them. [^Peirce1883p176]
 
--   Reichenbach [^Reichenbach1938]
+-   Carnap
+    -   "On inductive logic" [^Carnap1945a]
+    -   *Logical Foundations of Probability* [^Carnap1950b]
+    -   *The Continuum of Inductive Methods* [^Carnap1952]
+    -   "The aim of inductive logic" [^Carnap1966]
+    -   "Notes on probability and induction" [^Carnap1973]
+-   Reichenbach
+    -   Cross induction
+    -   TODO: Reichenbach [^Reichenbach1938]
 
 Reichenbach:
 
@@ -804,16 +851,10 @@ Reichenbach:
 >   unless a theory of probability is developed that explains what we should
 >   mean by "probable" and on what ground we can assert probabilities. [^Reichenbach1968p93]
 
--   Carnap
-    -   "On inductive logic" [^Carnap1945a]
-    -   *Logical Foundations of Probability* [^Carnap1950b]
-    -   *The Continuum of Inductive Methods* [^Carnap1952]
-    -   "The aim of inductive logic" [^Carnap1966]
-    -   "Notes on probability and induction" [^Carnap1973]
+-   Russell
 -   Bayesian updating
     -   See also: [Bayes' theorem](statistics.html#bayes-theorem)
     -   Aumann's agreement theorem [^Aumann1976]
--   Note that philosophical induction is not [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
 -   Sankey [^Sankey2008p79]
 -   Vickers, J.M. (2013). [Oxford Bibliography on Inductive Reasoning](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0171.xml).
 
@@ -843,6 +884,10 @@ See also:
 
 -   Goodman: New riddle of induction (grue)
 -   Hempel: [Raven paradox](https://en.wikipedia.org/wiki/Raven_paradox)
+
+See also:
+
+-   [Natural kinds](naturalism.html#natural-kinds)
 
 
 ### Abduction
@@ -1589,6 +1634,7 @@ Click to show links
 -   [Kant's critique of metaphysics](http://plato.stanford.edu/entries/kant-metaphysics/)
 -   [Laws of nature](http://plato.stanford.edu/entries/laws-of-nature/)
 -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://plato.stanford.edu/entries/leibniz/)
+-   [Leibniz's influence on Kant](https://plato.stanford.edu/entries/kant-leibniz/)
 -   [Leibniz's philosophy of physics](http://plato.stanford.edu/entries/leibniz-physics/)
 -   [Leibniz's modal metaphysics](http://plato.stanford.edu/entries/leibniz-modal/)
 -   [Locke, John (1632-1704)](http://plato.stanford.edu/entries/locke/)

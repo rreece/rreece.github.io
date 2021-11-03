@@ -285,6 +285,10 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 -   TODO: More basic examples in propositional logic
 -   TODO: Use-mention distinction: P vs 'P' vs Quine quotes
 
+See also:
+
+-   [Modal logic](#modal-logic)
+
 [^Post1921]: @Post_1921_Introduction_to_the_general_theory_of_elementary\.
 [^Stillwell2004]: @Stillwell_2004_Emil_Post_and_his_anticipation_of_Godel\.
 [^vonFintel2011]: @vonFintel_2011_Conditionals\.
@@ -340,6 +344,36 @@ See also:
 [^Enderton2009]: @Enderton_2009_Second_order_and_higher_order_logic\.
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
 [^Shapiro1991]: @Shapiro_1991_Foundations_without_Foundationalism_A_Case\.
+
+
+### Modal logic
+
+-   [C.I. Lewis](https://en.wikipedia.org/wiki/C._I._Lewis) (1883-1964)
+    -   Founded modern modal logic.
+    -   Criticism of material implication. Introduced strict implication. [^Lewis1917]
+    -   Strict implication is not truth-functional. It requires asking
+        about the truth-values that propositions take in worlds other than
+        the actual world.
+-   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (b. 1940)
+-   [David Lewis](https://en.wikipedia.org/wiki/David_Lewis_(philosopher)) (1941-2001)
+    -   *On the Plurality of Worlds* (1986) [^Lewis1986]
+
+$\Box$ means "necessarily". $\Diamond$ means "possibly".
+
+If necessarily $P$, then necessarily necessarily $P$:
+
+$$ \Box P \rightarrow \Box \Box P $$
+
+De Morgan duality:
+
+$$ \Diamond P = \lnot \Box \lnot P $$
+
+$$ \Box P = \lnot \Diamond \lnot P $$
+
+-   [Security logic](https://www.johndcook.com/blog/2018/10/30/modal-logic-security/)
+
+[^Lewis1917]: @Lewis_1917_The_issues_concerning_material_implication\.
+[^Lewis1986]: @Lewis_1986_On_the_Plurality_of_Worlds\.
 
 
 ### Alternative logics
@@ -756,7 +790,8 @@ Logicism
 ### *Principia Mathematica*
 
 -   *Principia Mathematica* (1910)
--   Russell, Whitehead
+-   [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) (1861-1947)
+-   [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) (1872-1970)
 -   Russell's Paradox
 -   "Failure of PM"
 
