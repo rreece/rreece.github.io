@@ -159,6 +159,9 @@ This project may never be polished enough to be pedagogical.
 The primary purpose of these pages is to collect and organize references
 of what I've been personally studying.
 Please explore the references!
+By far, the most valuable thing to be done here, is to click through to the
+references sections of each page, comb through them,
+and to read any of them.
 
 If you come along for any part of the ride and find any of this useful, that's great.
 Please let me know by leaving a comment below or on twitter:

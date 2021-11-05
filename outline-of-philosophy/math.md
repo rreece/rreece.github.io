@@ -66,7 +66,8 @@ TODO
 
 See also:
 
--   [Supersymmetry](physics.html#supersymmetry) in the Outline of [physics](physics.html).
+-   [Foundations of QM](physics.html#foundations-of-qm)
+-   [Supersymmetry](physics.html#supersymmetry) in the Outline of [physics](physics.html)
 
 [^Baez2002]: @Baez_2002_The_octonions\.
 

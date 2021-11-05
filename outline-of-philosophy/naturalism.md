@@ -405,6 +405,7 @@ Physicalism
 See also:
 
 -   [Physicalism](mind.html#physicalism) in the [Outline on Philosophy of Mind](mind.html)
+-   [Physicalism](human-condition.html#physicalism) in the [Outline on the Human Condition](human-condition.html)
 
 
 ### Uniformity of nature

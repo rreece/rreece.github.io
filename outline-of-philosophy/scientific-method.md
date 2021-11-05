@@ -34,7 +34,15 @@ Click to show the paltry outline of the history of science
 
 ### Antiquity
 
+#### Eastern
+
 -   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 700-100 BCE)
+-   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
+    -   skepticism, anti-dogmatism
+
+
+#### Western
+
 -   [Ionian Enlightenment](https://en.wikipedia.org/wiki/Ionian_Enlightenment)
     -   "Ionian enchantment: A brief history of scientific naturalism" [^Prado2006-2]
 -   [Thales of Miletus](https://en.wikipedia.org/wiki/Thales_of_Miletus) (c. 624/623-548/545 BCE)
@@ -61,9 +69,6 @@ Click to show the paltry outline of the history of science
     -   First moral philosopher
     -   Socratic method
     -   Teacher of Plato and Xenophon
--   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
-    -   Chinese, not part of the Ionian Enlightenment, but contemporary with it
-    -   skepticism, anti-dogmatism
 -   [Thucydides](https://en.wikipedia.org/wiki/Thucydides) (c. 460-400 BCE)
     -   "Father of scientific history" 
 -   [Democritus](http://en.wikipedia.org/wiki/Democritus) (460-370 BCE)
@@ -82,7 +87,10 @@ Click to show the paltry outline of the history of science
     -   Riddled with teleological explanation: things have "natural" purposes or tendencies.
     -   Founded the [Lyceum](https://en.wikipedia.org/wiki/Lyceum_(Classical)) (334-86 BCE)
     -   Tutored [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) ages 13-16 beginning in 343 BC.
-
+    -   *Prior Analytics* (c. 350 BCE) - book that founded formal logic
+    -   [Peripatetic school](https://en.wikipedia.org/wiki/Peripatetic_school)
+-   [Theophrastus](https://en.wikipedia.org/wiki/Theophrastus) (c. 371-287 BCE)
+-   [Strato of Lampsacus](https://en.wikipedia.org/wiki/Strato_of_Lampsacus) (c. 335-269 BCE)
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
     -   Emphasized skepticism until something can be demonstrated 
     -   Principle of Multiple Explanations: "if several theories are consistent with the observed data, retain them all"
@@ -177,7 +185,6 @@ See also:
     -   in what is now Khuzestan Province, Iran
 -   [House of Wisdom](https://en.wikipedia.org/wiki/House_of_Wisdom)
     -   in Abbasid-era Baghdad, Iraq
--   [Ibn Sina](https://en.wikipedia.org/wiki/Avicenna) (980-1037) AKA "Avicenna"
 -   [Ibn al-Haytham](http://en.wikipedia.org/wiki/Alhazen) (965-1040) AKA "Alhazen"
     -   *Book of Optics*
     -   First to demonstrate the success of the intromission theory over the extramission theory of vision.
@@ -185,6 +192,7 @@ See also:
     -   "But for a man to imagine a circle in the heavens, and to imagine the planet moving in it does not bring about the planet's motion... And therefore the arrangements assumed by Ptolemy for the five planets are false, and he asserted them knowing them to be false, and there exists for the planets a true arrangement in existing bodies which Ptolemy failed to grasp." [^Sabra1978]
     -   "Ibn al-Haytham was an early proponent of the concept that a hypothesis must be supported by experiments based on confirmable procedures or mathematical evidence—an early pioneer in the scientific method five centuries before Renaissance scientists." - Wikipedia
     -   [The first true scientist](http://news.bbc.co.uk/2/hi/science/nature/7810846.stm) - By Jim Al-Khalili
+-   [Ibn Sina](https://en.wikipedia.org/wiki/Avicenna) (980-1037) AKA "Avicenna"
 -   [Reconquest of Toledo](https://en.wikipedia.org/wiki/History_of_Toledo,_Spain#Medieval_Toledo_after_the_Reconquest) (1085)
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
 -   [Robert Grosseteste](https://en.wikipedia.org/wiki/Robert_Grosseteste) (ca. 1168-1253)
@@ -324,6 +332,10 @@ See also:
 
 -   [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) (1791-1871)
 -   [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) (1815-1852)
+-   [George Boole](https://en.wikipedia.org/wiki/George_Boole) (1815-1864)
+-   [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) (1903-1957)
+-   [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) (1903-1995)
+-   [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) (1912-1954)
 -   TODO
 
 </div> <!-- end history_of_science -->
@@ -452,15 +464,15 @@ Hume:
 
 Table: Kant's division of judgments. {#tbl:kants-division-of-judgements}
 
-|                   | analytic                  |  synthetic             |
-|:------------------|:--------------------------|:-----------------------|
-| **a priori**      | True by definition        | Kant's transcendental  |
-|                   | Hume's relations of ideas |                        |
-|                   |                           |                        |
-|                   |         ---               |        ---             |
-|                   |                           |                        |
-| **a posteriori**  | Impossible                | Empirical              |
-|                   |                           | Hume's matters of fact |
+|                   | analytic                  |         |  synthetic             |
+|:------------------|:--------------------------|---------|:-----------------------|
+| **a priori**      | True by definition        |         | Kant's transcendental  |
+|                   | Hume's relations of ideas |         | ?                      |
+|                   |                           |         |                        |
+|                   |                           |         |                        |
+|                   |                           |         |                        |
+| **a posteriori**  | Impossible                |         | Empirical              |
+|                   | &cross;                   |         | Hume's matters of fact |
 
 -   Kant
     -   *Critique of Pure Reason* (1781)
@@ -526,7 +538,8 @@ and
 See also:
 
 -   [Inductive logic](scientific-method.html#inductive-logic)
--   [Logic](math.html#logic) and [Model theory](math.html#model-theory)
+-   [Logic](math.html#logic)
+-   [Model theory](math.html#model-theory)
 -   [Positivism](scientific-realism.html#positivism)
 
 [^Hansson2018]: @Hansson_2018_Introduction_to_Formal_Philosophy\.

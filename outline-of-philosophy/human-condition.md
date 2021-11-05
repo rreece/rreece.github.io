@@ -1777,11 +1777,20 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
     -   Greenblatt, S. (2011). *The Swerve*. [^Greenblatt2011]
     -   Greenblatt, S. (2011). The answer man. [^Greenblatt2011ny]
     -   No teleology
+-   Arguments for the existence of souls
+    -   Plato - *Phaedo*
+    -   [Ibn Sina](https://en.wikipedia.org/wiki/Avicenna) (980-1037) AKA "Avicenna"
+        -   "[The floating man](https://en.wikipedia.org/wiki/Floating_man)"
+            could attain the concept of being without any sense experience.
+        -   Adamson criticizes that the floating man argument does not prove
+            that the soul is distinct from the body. [^Adamson2015p84]
 
 See also:
 
--   [Monism and physicalism](naturalism.html#monism-and-physicalism).
+-   [Physicalism](naturalism.html#physicalism) in the [Outline on Naturalism](naturalism.html)
+-   [Physicalism](mind.html#physicalism) in the [Outline on Philosophy of Mind](mind.html)
 
+[^Adamson2015p84]: @Adamson_2015_Philosophy_in_the_Islamic_World_A_Very_Short\, p. 84\.
 [^Greenblatt2011]: @Greenblatt_2011_The_Swerve_How_the_World_Became_Modern\.
 [^Greenblatt2011ny]: @Greenblatt_2011_The_answer_man_An_ancient_poem_was_rediscovered\.
 [^Lucretius1995]: @Lucretius_1995_On_the_Nature_of_Things_De_Rerum_Natura\.

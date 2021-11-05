@@ -84,7 +84,8 @@ Physicalism
 
 See also:
 
--   [Physicalism](naturalism.html#physicalism) in the outline on [Naturalism](naturalism.html).
+-   [Physicalism](naturalism.html#physicalism) in the [Outline on Naturalism](naturalism.html)
+-   [Physicalism](human-condition.html#physicalism) in the [Outline on the Human Condition](human-condition.html)
 
 [^MacFarquhar2014]: @MacFarquhar_2014_Two_Heads_A_marriage_devoted_to_the_mind_body\.
 [^Montero1999]: @Montero_1999_The_Body_Problem\.
