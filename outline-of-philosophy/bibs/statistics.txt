@@ -130,6 +130,7 @@ Mnih, V. et al. (2013). Playing Atari with deep reinforcement learning. https://
 Mnih, V. et al. (2015). Human-level control through deep reinforcement learning. *Nature*, 518(7540), 529--533. http://files.davidqiu.com//research/nature14236.pdf
 Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. *Science*, 356, 508--513. https://arxiv.org/abs/1701.01724
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
+Nagarajan, V. (2021). Explaining generalization in deep learning: progress and fundamental limits. https://arxiv.org/abs/2110.08922 [(Ph.D. thesis)]
 Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. https://arxiv.org/abs/1912.02292
 Neller, T.W. & Lanctot, M. (2013). An introduction to counterfactual regret minimization. *Proceedings of Model AI Assignments*, 11. http://cs.gettysburg.edu/~tneller/modelai/2013/cfr/cfr.pdf
 Neyman, J. (1955). The problem of inductive inference. *Communications on Pure and Applied Mathematics*, 8, 13--45. https://errorstatistics.files.wordpress.com/2017/04/neyman-1955-the-problem-of-inductive-inference-searchable.pdf
@@ -208,3 +209,4 @@ Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimiza
 Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf [(Paper on the GPT model by OpenAI)] 
 Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf [(Paper on the GPT-2 model by OpenAI)] 
 Brown, T.B. et al. (2020). Language models are few-shot learners. https://arxiv.org/abs/2005.14165 [(Paper on the GPT-3 model by OpenAI)] 
+

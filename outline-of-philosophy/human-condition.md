@@ -301,6 +301,7 @@ Hinduism
     6.  [Ved&amacr;nta](https://en.wikipedia.org/wiki/Vedanta)
         -   studies the Upanishads, the most recent parts of the Vedas
         -   most developed and best-known of the Hindu schools
+        -   [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) - eldest sub-school
 -   Four n&amacr;stika (heterodox) schools
     1.  [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka) (now declined)
     2.  [Jainism](https://en.wikipedia.org/wiki/Jainism)
@@ -349,6 +350,8 @@ Hinduism
 
 #### Some people
 
+-   [Adi Shankara](https://en.wikipedia.org/wiki/Adi_Shankara) (c. 8th century CE)
+    -   Popularized [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta)
 -   [Swami Vivekananda](https://en.wikipedia.org/wiki/Swami_Vivekananda) (1863-1902)
 -   [Paramahansa Yogananda](https://en.wikipedia.org/wiki/Paramahansa_Yogananda) (1893-1952)
 -   [Maharishi Mahesh Yogi](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi) (1918-2008)
@@ -1341,9 +1344,9 @@ See also:
 >   instrumental goods. Natural science is needed in order to give mechanistic
 >   explanations of natural phenomena and thus dispel the fear of the gods,
 >   while philosophy helps to show us the natural limits of our desires and
->   to dispel the fear of death. [^OKeefe]
+>   to dispel the fear of death. [^OKeefe2001]
 
-[^OKeefe]: O'Keefe, T. [Epicurus](https://plato.stanford.edu/entries/epicurus). *Internet Encyclopedia of Philosophy*.
+[^OKeefe2001]: @OKeefe_2001_Epicurus\.
 [^Pigliucci2019]: @Pigliucci_2019_Epic_battles_in_practical_ethics_Stoicism_vs\.
 
 #### Pyrrhonism
