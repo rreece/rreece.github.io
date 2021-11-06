@@ -281,6 +281,11 @@ Hinduism
 ### Introduction
 
 -   [Hinduism](https://en.wikipedia.org/wiki/Hinduism)
+-   [Brahman](https://en.wikipedia.org/wiki/Brahman) - the unchanging, permanent, highest reality
+
+
+#### History
+
 -   [Vedic period](https://en.wikipedia.org/wiki/Vedic_period) (c. 1,500-500 BCE)
 -   [Vyasa](https://en.wikipedia.org/wiki/Vyasa) - "Compiler" of the Vedas
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
@@ -301,7 +306,9 @@ Hinduism
     6.  [Ved&amacr;nta](https://en.wikipedia.org/wiki/Vedanta)
         -   studies the Upanishads, the most recent parts of the Vedas
         -   most developed and best-known of the Hindu schools
-        -   [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta) - eldest sub-school
+        -   [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta)
+            -   eldest sub-school
+            -   literally "non-duality", a kind of idealism
 -   Four n&amacr;stika (heterodox) schools
     1.  [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka) (now declined)
     2.  [Jainism](https://en.wikipedia.org/wiki/Jainism)
@@ -310,7 +317,11 @@ Hinduism
 -   The "Hindu synthesis" started to develop between 500 BCE and 300 CE.
 -   Today, Ved&amacr;nta and Yoga schools are most influentail in Hunduism,
     which has divided into four major [denominations](https://en.wikipedia.org/wiki/Hindu_denominations):
-    1.  [Vaishnavism](https://en.wikipedia.org/wiki/Vaishnavism)
+    1.  [Vaishnavism](https://en.wikipedia.org/wiki/Vaishnavism) - venerates Krishna especially
+        -   [Chaitanya Mahaprabhu](https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu) (1486-1534)
+        -   [A. C. Bhaktivedanta Swami Prabhupada](https://en.wikipedia.org/wiki/A._C._Bhaktivedanta_Swami_Prabhupada) (1896-1977)
+        -   [Hare Krishna movement](https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness)
+        -   [Hare Krishna mantra](https://en.wikipedia.org/wiki/Hare_Krishna_(mantra))
     2.  [Shaivism](https://en.wikipedia.org/wiki/Shaivism)
     3.  [Shaktism](https://en.wikipedia.org/wiki/Shaktism)
     4.  [Smartism](https://en.wikipedia.org/wiki/Smarta_tradition)
@@ -350,8 +361,12 @@ Hinduism
 
 #### Some people
 
+-   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
 -   [Adi Shankara](https://en.wikipedia.org/wiki/Adi_Shankara) (c. 8th century CE)
     -   Popularized [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta)
+-   [Ramanuja](https://en.wikipedia.org/wiki/Ramanuja) (c. 1017-1137 CE)
+-   [Chaitanya Mahaprabhu](https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu) (1486-1534)
+-   [A. C. Bhaktivedanta Swami Prabhupada](https://en.wikipedia.org/wiki/A._C._Bhaktivedanta_Swami_Prabhupada) (1896-1977)
 -   [Swami Vivekananda](https://en.wikipedia.org/wiki/Swami_Vivekananda) (1863-1902)
 -   [Paramahansa Yogananda](https://en.wikipedia.org/wiki/Paramahansa_Yogananda) (1893-1952)
 -   [Maharishi Mahesh Yogi](https://en.wikipedia.org/wiki/Maharishi_Mahesh_Yogi) (1918-2008)
@@ -382,6 +397,7 @@ The Trimurti:
 -   [Brahma](https://en.wikipedia.org/wiki/Brahma)
 -   [Shiva](https://en.wikipedia.org/wiki/Shiva)
 -   [Vishnu](https://en.wikipedia.org/wiki/Vishnu)
+    -   [Krishna](https://en.wikipedia.org/wiki/Krishna) - the eighth avatar of Vishnu
 
 ![Shiva statue at CERN, near Building 40, [a gift from India](https://www.sanskritimagazine.com/vedic_science/shivas-cosmic-dance-nataraj-at-cern/).](img/cern-shiva.jpg){#fig:cern-shiva}
 
@@ -913,31 +929,55 @@ Online Suttas:
 
 ### Vajray&amacr;na Buddhism
 
+#### Introduction
+
 -   Sanskrit: "Thunderbolt Vehicle"
 -   AKA Tantray&amacr;na
 -   [Vajray&amacr;na Buddhism](https://en.wikipedia.org/wiki/Vajrayana)
+-   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
 -   Some consider Vajray&amacr;na a separate branch or sub-branch of Mah&amacr;y&amacr;na Buddhism.
 -   Developed in medieval period in India and spread to Tibet, Bhutan, and east Asia.
 -   Adds esoteric teachings to the Mah&amacr;y&amacr;na tradition.
 -   Often focuses on one-on-one teaching from a guru.
+
+#### History
+
+-   [History of Tibet](https://en.wikipedia.org/wiki/History_of_Tibet)
+-   [B&ouml;n](https://en.wikipedia.org/wiki/Bon) - the native pre-Buddhist religious tradition of Tibet.
+-   [Padmasambh&amacr;va](https://en.wikipedia.org/wiki/Padmasambh%C4%81va) (fl. 767)
+-   [Nyingma](https://en.wikipedia.org/wiki/Nyingma) - the oldest of the four major schools of Tibetan Buddhism, founded by Padmasambh&amacr;va.
+-   [Atisa](https://en.wikipedia.org/wiki/Ati%C5%9Ba) (982-1054)
+-   [Marpa Lotsawa](https://en.wikipedia.org/wiki/Marpa_Lotsawa) (1012-1097)
+-   [Jetsun Milarepa](https://en.wikipedia.org/wiki/Milarepa) (fl. 1100)
+-   [Kagyu school](https://en.wikipedia.org/wiki/Kagyu)
+-   [Mahamudra](https://en.wikipedia.org/wiki/Mahamudra)
+-   [Lhasa](https://en.wikipedia.org/wiki/Lhasa)
+-   [Dalai Lama](https://en.wikipedia.org/wiki/Dalai_Lama)
+    -   [14th Dalai Lama](https://en.wikipedia.org/wiki/14th_Dalai_Lama)
+    -   14th Dalai Lama. (1988). [The Real Enemy](https://buddhismnow.com/2019/11/10/the-real-enemy-by-dalai-lama/).
+-   [Robert Thurman](https://en.wikipedia.org/wiki/Robert_Thurman) (b. 1941) - the first American Buddhist monk to be ordained in the Tibetan Buddhist tradition (1965).
+-   [Richard Davidson](https://en.wikipedia.org/wiki/Richard_Davidson) (b. 1951)
+-   [Jay L. Garfield](https://jaygarfield.org/in-press/) (b. 1955)
+    -   Translator of N&amacr;g&amacr;rjuna's *Fundamental Verses on the Middle Way* [^Nagarjuna1995Garfield]
+    -   Garfield, J.L. & Van Norden, B.W. (2016). [If philosophy won't diversify, let's call it what it really is](https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html). *New York Times Opinion*.
+
+#### Doctrines
+
+-   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) - "Great Perfection"
+    -   a practice with great emphasis on introspection and meditation
+-   [*Bardo Thodol*](https://en.wikipedia.org/wiki/Bardo_Thodol) - *The Tibetan Book of the Dead*
 -   [Tantra](https://en.wikipedia.org/wiki/Tantra) - esoteric teachings in Hinduism and Buddhism
     -   literally: "loom, weave, system"
--   [Tibetan Buddhism](https://en.wikipedia.org/wiki/Tibetan_Buddhism)
-    -   [Padmasambh&amacr;va](https://en.wikipedia.org/wiki/Padmasambh%C4%81va) (fl. 767)
-    -   [Atisa](https://en.wikipedia.org/wiki/Ati%C5%9Ba) (982-1054)
-    -   [B&ouml;n](https://en.wikipedia.org/wiki/Bon)
-    -   [Nyingma](https://en.wikipedia.org/wiki/Nyingma)
-    -   [Dzogchen](https://en.wikipedia.org/wiki/Dzogchen) - "Great Perfection"
-        -   a practice with great emphasis on introspection and meditation
-    -   [*Bardo Thodol*](https://en.wikipedia.org/wiki/Bardo_Thodol)
-    -   [Lhasa](https://en.wikipedia.org/wiki/Lhasa)
-    -   [Dalai Lama](https://en.wikipedia.org/wiki/Dalai_Lama)
-        -   [14th Dalai Lama](https://en.wikipedia.org/wiki/14th_Dalai_Lama)
-        -   14th Dalai Lama. (1988). [The Real Enemy](https://buddhismnow.com/2019/11/10/the-real-enemy-by-dalai-lama/).
-    -   [Richard Davidson](https://en.wikipedia.org/wiki/Richard_Davidson) (b. 1951)
-    -   [Jay L. Garfield](https://jaygarfield.org/in-press/) (b. 1955)
-        -   Translator of N&amacr;g&amacr;rjuna's *Fundamental Verses on the Middle Way* [^Nagarjuna1995Garfield]
-        -   Garfield, J.L. & Van Norden, B.W. (2016). [If philosophy won't diversify, let's call it what it really is](https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html). *New York Times Opinion*.
+    -   [Mahasiddha](https://en.wikipedia.org/wiki/Mahasiddha)
+-   [Tilopa](https://en.wikipedia.org/wiki/Tilopa) (988-1069)
+    -   [Six Words of Advice](https://en.wikipedia.org/wiki/Tilopa#Six_Precepts_or_Words_of_Advice)
+
+>   1. Don't recall
+>   2. Don't imagine
+>   3. Don't think
+>   4. Don't examine
+>   5. Don't control
+>   6. Rest
 
 [^Nagarjuna1995Garfield]: @Nagarjuna_1995_The_Fundamental_Wisdom_of_the_Middle_Way\.
 

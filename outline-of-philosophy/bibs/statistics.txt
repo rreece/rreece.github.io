@@ -80,6 +80,7 @@ Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. 
 Goodman, N. (1955). *Fact, Fiction, and Forecast*. Harvard University Press.
 Goodman, S.N. (1999). Toward evidence-based medical statistics 1: The P value fallacy. *Annals of Internal Medicine*, 130(12), 995--1004.
 Goodman, S.N. (1999). Toward evidence-based medical statistics 2: The Bayes factor. *Annals of Internal Medicine*, 130(12), 1005--1013.
+Gorard, S. & Gorard, J. (2016). What to do instead of significance testing? Calculating the 'number of counterfactual cases needed to disturb a finding'. *International Journal of Social Research Methodology*, 19, 481--490.
 Hacking, I. (1965). *Logic of Statistical Inference*. Cambridge University Press.
 Hacking, I. (1971). Jacques Bernoulli's Art of conjecturing. *The British Journal for the Philosophy of Science*, 22, 209--229.
 Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambridge University Press.
@@ -87,6 +88,7 @@ Halverson, J., Maiti, A., & Stoner, K. (2020). Neural networks and quantum field
 Hanley, J.A. & Lippman-Hand, A. (1983). If nothing goes wrong, is everything all right?: Interpreting zero numerators. *JAMA*, 249(13), 1743--1745.
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
 He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image recognition. https://arxiv.org/abs/1512.03385
+Heinrich, J. & Lyons, L. (2007). Systematic errors. *Annual Reviews of Nuclear and Particle Science*, 57, 145--169. https://www.annualreviews.org/doi/abs/10.1146/annurev.nucl.57.090506.123052
 Heinrich, J. & Silver, D. (2016). Deep reinforcement learning from self-play in imperfect-information games. https://arxiv.org/abs/1603.01121
 Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation*, 9(8), 1735--1780.
 Howard, A.G. et al. (2017). MobileNets: Efficient convolutional neural networks for mobile vision applications. https://arxiv.org/abs/1704.04861
@@ -112,6 +114,7 @@ LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436-44
 Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep learning. https://arxiv.org/abs/1805.10451
 Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
 Liu, H., Dai, Z., So, D.R., & Le, Q.V. (2021). Pay attention to MLPs. https://arxiv.org/abs/2105.08050
+Lyons, L. (2008). Open statistical issues in particle physics. *The Annals of Applied Statistics*, 2, 887--915. https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-3/Open-statistical-issues-in-Particle-Physics/10.1214/08-AOAS163.full
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
 MacKay, D.J.C. (2003). *Information Theory, Inference, and Learning Algorithms*. Cambridge University Press.
 Mayo, D.G. (1981). In defense of the Neyman-Pearson theory of confidence intervals. *Philosophy of Science*, 48(2), 269--280.
@@ -209,4 +212,3 @@ Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimiza
 Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf [(Paper on the GPT model by OpenAI)] 
 Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf [(Paper on the GPT-2 model by OpenAI)] 
 Brown, T.B. et al. (2020). Language models are few-shot learners. https://arxiv.org/abs/2005.14165 [(Paper on the GPT-3 model by OpenAI)] 
-

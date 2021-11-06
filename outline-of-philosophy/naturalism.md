@@ -505,7 +505,7 @@ Part of metaphysical naturalism.
 -   Quine, W.V.O. (1969). Natural kinds. [^Quine1969p114]
 -   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
 
-![How naturalist climb the ladd to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism), 2015).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
+![How naturalist climb the ladder to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism), 2015).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
 
 Ladyman & Ross:
 

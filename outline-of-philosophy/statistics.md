@@ -725,14 +725,24 @@ Uncertainty quantification
 
 ### Sinervo classification of systematic uncertainties
 
--   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekka Sinervo (PhyStat2003) [^Sinervo2013]
+-   Class-1, class-2, and class-3 systematic uncertanties (good, bad, ugly), Classification by Pekka Sinervo (PhyStat2003) [^Sinervo2003]
 -   Not to be confused with type-1 and type-2 errors in Neyman-Pearson theory
+-   Heinrich, J. & Lyons, L. (2007). Systematic errors. [^Heinrich2007]
 -   Caldeira & Nord [^Caldeira2020]
+
+Lyons:
+
+>   In analyses involving enough data to achieve reasonable statistical
+>   accuracy, considerably more effort is devoted to assessing the
+>   systematic error than to determining the parameter of interest
+>   and its statistical error. [^Lyons2008p890]
 
 ![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties), 2016).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
 
 [^Caldeira2020]: @Caldeira_2020_Deeply_uncertain_comparing_methods_of_uncertainty\.
-[^Sinervo2013]: @Sinervo_2003_Definition_and_treatment_of_systematic\.
+[^Heinrich2007]: @Heinrich_2007_Systematic_errors\.
+[^Lyons2008p890]: @Lyons_2008_Open_statistical_issues_in_particle_physics\, p. 890.
+[^Sinervo2003]: @Sinervo_2003_Definition_and_treatment_of_systematic\.
 
 
 ### Profile likelihoods
@@ -882,6 +892,19 @@ Mayo:
 
 ### Discussion
 
+Lyons:
+
+>   Particle Physicists tend to favor a frequentist method. This is because
+>   we really do consider that our data are representative as samples drawn
+>   according to the model we are using (decay time distributions often are
+>   exponential; the counts in repeated time intervals do follow a Poisson
+>   distribution, etc.), and hence we want to use a statistical approach
+>   that allows the data "to speak for themselves," rather than our analysis
+>   being dominated by our assumptions and beliefs, as embodied in Bayesian
+>   priors. [^Lyons2008p891]
+
+[^Lyons2008p891]: @Lyons_2008_Open_statistical_issues_in_particle_physics\, p. 891.
+
 -   Carnap
     -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
 -   David Cox
@@ -991,6 +1014,7 @@ Replication crisis
     -   ["Les stats, c'est moi: We take that step here!"](https://errorstatistics.com/2019/12/13/les-stats-cest-moi-we-take-that-step-here-adopt-our-fav-word-or-phil-stat/)
     -   "Significance tests: Vitiated or vindicated by the replication crisis in psychology?" [^Mayo2021]
     -   [At long last! The ASA President’s Task Force Statement on Statistical Significance and Replicability](https://errorstatistics.com/2021/06/20/at-long-last-the-asa-presidents-task-force-statement-on-statistical-significance-and-replicability/)
+-   Gorard & Gorard. (2016). What to do instead of significance testing. [^Gorard2016]
 -   Vox: [What a nerdy debate about p-values shows about science--and how to fix it](https://www.vox.com/science-and-health/2017/7/31/16021654/p-values-statistical-significance-redefine-0005)
 -   Karen Kafadar: [The Year in Review ... And More to Come](https://magazine.amstat.org/blog/2019/12/01/kk_dec2019/)
 -   [The JASA Reproducibility Guide](https://jasa-acs.github.io/repro-guide/)
@@ -1007,6 +1031,7 @@ From "The ASA president's task force statement on statistical significance and r
 [^Benjamin2017]: @Benjamin_2017_Redefine_statistical_significance\.
 [^Benjamini2021]: @Benjamini_2021_The_ASA_presidents_task_force_statement_on\, p. 1.
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
+[^Gorard2016]: @Gorard_2016_What_to_do_instead_of_significance_testing\.
 [^Mayo2021]: @Mayo_2021_Significance_tests_Vitiated_or_vindicated\.
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
 
