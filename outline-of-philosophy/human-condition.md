@@ -1018,27 +1018,25 @@ Daoism
 -   [Yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang)
 
 
-### Primary texts
+### Yijing
 
 -   *[Yijing](https://en.wikipedia.org/wiki/I_Ching)* (also romanized as *I Ching*) - *Book of Changes*
-    -   *Zhouyi* - The original of *Changes* (1100-800 BCE)
-    -   [Bagua](https://en.wikipedia.org/wiki/Bagua)- 8 trigrams
-    -   [Gua](https://en.wikipedia.org/wiki/Hexagram_(I_Ching)) - 64 hexagrams
-    -   [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) - traditional ordering of the hexagrams by [King Wen of Zhou](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (1112-1050 BCE).
-        -   [R.S. Cook claims to have decoded the King Wen sequence](https://www.lulu.com/en/us/shop/richard-s-cook/classical-chinese-combinatorics-derivation-of-the-book-of-changes-hexagram-sequence/paperback/product-1k842kd.html?page=1&pageSize=4)
-    -   The binary ordering of the hexagrams (AKA the Fuxi sequence) was discovered by [Shao Yong](https://en.wikipedia.org/wiki/Shao_Yong) (1011-1077 CE).
-    -   *Yijing* - The *Changes* with the additional *Ten Wings* (500–200 BCE) 
-        -   Xici zhuan - "The Great Commentary"
-    -   SEP: [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
-    -   English translations:
-        -   Wilhelm, R. (1950). [*I Ching*](http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html).
-        -   Rutt, R. (2002). *The Book of Changes (Zhouyi)*. [^Rutt2002]
-    -   Marshall, S.J. (2001). *The Mandate of Heaven: Hidden History in the Book of Changes*. [^Marshall2001]
-    -   [Yijing Studies by Bradford Hatcher](https://www.hermetica.info/)
-    -   [Yijing Studies by S.J. Marshall](https://www.biroco.com/yijing/)
-    -   Van Norden, B. (2021). Talk: [Understanding the *Classic of Changes* (*I Ching*)](https://www.youtube.com/watch?v=jNFy6RFU1xk).
--   *[Dao De Jing](https://en.wikipedia.org/wiki/Tao_Te_Ching)* by [Laozi](https://en.wikipedia.org/wiki/Laozi) (c. 500 BCE)
--   *[Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book))* by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou) AKA Zhuangzi (c. 369-286 BCE)
+-   *Zhouyi* - The original of *Changes* (1100-800 BCE)
+-   [Bagua](https://en.wikipedia.org/wiki/Bagua)- 8 trigrams
+-   [Gua](https://en.wikipedia.org/wiki/Hexagram_(I_Ching)) - 64 hexagrams
+-   [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) - traditional ordering of the hexagrams by [King Wen of Zhou](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (1112-1050 BCE).
+    -   [R.S. Cook claims to have decoded the King Wen sequence](https://www.lulu.com/en/us/shop/richard-s-cook/classical-chinese-combinatorics-derivation-of-the-book-of-changes-hexagram-sequence/paperback/product-1k842kd.html?page=1&pageSize=4)
+-   The binary ordering of the hexagrams (AKA the Fuxi sequence) was discovered by [Shao Yong](https://en.wikipedia.org/wiki/Shao_Yong) (1011-1077 CE).
+-   *Yijing* - The *Changes* with the additional *Ten Wings* (500–200 BCE) 
+    -   Xici zhuan - "The Great Commentary"
+-   SEP: [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
+-   English translations:
+    -   Wilhelm, R. (1950). [*I Ching*](http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html).
+    -   Rutt, R. (2002). *The Book of Changes (Zhouyi)*. [^Rutt2002]
+-   Marshall, S.J. (2001). *The Mandate of Heaven: Hidden History in the Book of Changes*. [^Marshall2001]
+-   [Yijing Studies by Bradford Hatcher](https://www.hermetica.info/)
+-   [Yijing Studies by S.J. Marshall](https://www.biroco.com/yijing/)
+-   Van Norden, B. (2021). Talk: [Understanding the *Classic of Changes* (*I Ching*)](https://www.youtube.com/watch?v=jNFy6RFU1xk).
 
 Gua 01:
 
@@ -1055,6 +1053,16 @@ Gua 11:
 [^Rutt2002]: @Rutt_2002_The_Book_of_Changes_Zhouyi\.
 [^YijingGua01]: *Yijing*, Gua 01.
 [^YijingGua11]: *Yijing*, Gua 11.
+
+
+### Dao De Jing
+
+-   *[Dao De Jing](https://en.wikipedia.org/wiki/Tao_Te_Ching)* by [Laozi](https://en.wikipedia.org/wiki/Laozi) (c. 500 BCE)
+
+
+### Zhuangzi
+
+-   *[Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book))* by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou) AKA Zhuangzi (c. 369-286 BCE)
 
 
 Other religions
@@ -1109,7 +1117,7 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   Confucius studied the *Yijing*
 -   Shares a lot with Daoism
 -   [*Analects*](https://en.wikipedia.org/wiki/Analects) (c. 500-200 BCE)
--   [Mencius](https://en.wikipedia.org/wiki/Mencius) (372-289 BCE)
+-   [Mencius](https://en.wikipedia.org/wiki/Mencius) AKA Mengzi (372-289 BCE)
 -   [Dong Zhongshu](https://en.wikipedia.org/wiki/Dong_Zhongshu) (179-104 BCE)
 -   [Rectification of names](https://en.wikipedia.org/wiki/Rectification_of_names)
 -   [Neo-Confucianism](https://en.wikipedia.org/wiki/Neo-Confucianism)
