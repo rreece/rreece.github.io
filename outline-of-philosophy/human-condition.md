@@ -1031,6 +1031,7 @@ Daoism
     -   Xici zhuan - "The Great Commentary"
 -   SEP: [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
 -   English translations:
+    -   [Richard Wilhelm](https://en.wikipedia.org/wiki/Richard_Wilhelm_(sinologist)) (1873-1930)
     -   Wilhelm, R. (1950). [*I Ching*](http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html).
     -   Rutt, R. (2002). *The Book of Changes (Zhouyi)*. [^Rutt2002]
 -   Marshall, S.J. (2001). *The Mandate of Heaven: Hidden History in the Book of Changes*. [^Marshall2001]
