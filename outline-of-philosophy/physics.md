@@ -1260,7 +1260,7 @@ See also:
 -   Garisto, D. (2018). [The era of anomalies](https://physics.aps.org/articles/v13/79).
 -   Lepton universality at LHCb
     -   LHCb Collaboration. (2021). [Test of lepton universality in beauty-quark decays](https://arxiv.org/abs/2103.11769).
-    -   LHCb Collaboration. (2021). [Tests of lepton universality using B0→K0Sℓ+ℓ− and B+→K∗+ℓ+ℓ− decays](https://arxiv.org/abs/2110.09501).
+    -   LHCb Collaboration. (2021). [Tests of lepton universality using $B^{0}\rightarrow{}K^{0}_{S}\ell^{+}\ell^{-}$ and $B^{+}\rightarrow{}K^{*+}\ell^{+}\ell^{-}$ decays](https://arxiv.org/abs/2110.09501).
 
 [^PierreAuger]: TODO: @Pierre_2007_Correlation_of_the_highest_energy_cosmic_rays\,
     @Pierre_2010_Measurement_of_the_depth_of_maximum_of_extensive\,
@@ -1298,7 +1298,7 @@ See also:
 ### g-2
 
 -   Muon g-2
--   A no-lose theorem for discovering the new physics of $(g−2)_\mu$ at muon colliders [^Capdevilla2021]
+-   A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders [^Capdevilla2021]
 
 [^Capdevilla2021]: @Capdevilla_2021_A_no_lose_theorem_for_discovering_the_new_physics\.
 

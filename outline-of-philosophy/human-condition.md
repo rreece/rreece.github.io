@@ -319,7 +319,7 @@ Hinduism
 -   The "Hindu synthesis" started to develop between 500 BCE and 300 CE.
 -   Today, Ved&amacr;nta and Yoga schools are most influentail in Hunduism,
     which has divided into four major [denominations](https://en.wikipedia.org/wiki/Hindu_denominations):
-    1.  [Vaishnavism](https://en.wikipedia.org/wiki/Vaishnavism) - venerates Krishna especially
+    1.  [Vaishnavism](https://en.wikipedia.org/wiki/Vaishnavism) - venerates Vishnu, Krishna especially
         -   [Chaitanya Mahaprabhu](https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu) (1486-1534)
         -   [A. C. Bhaktivedanta Swami Prabhupada](https://en.wikipedia.org/wiki/A._C._Bhaktivedanta_Swami_Prabhupada) (1896-1977)
         -   [Hare Krishna movement](https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness)
@@ -636,6 +636,8 @@ Epistemology and metaphysics:
 -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
     -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
     -   Kalama Sutta ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html))
+-   [Buddhist cosmology](https://en.wikipedia.org/wiki/Buddhist_cosmology)
+-   [Mount Meru](https://en.wikipedia.org/wiki/Mount_Meru)
 
 Ethics:
 
@@ -675,7 +677,7 @@ Atheism:
 >   hollow." ([DN 13](https://suttacentral.net/dn13/en/sujato))
 
 -   "Sectarian Tenets" ([AN 3.61](https://suttacentral.net/an3.61/en/sujato))
--   Hayes. (1988). Principled atheism in the Buddhist scholastic tradition [^Hayes1988]
+-   Hayes. (1988). Principled atheism in the Buddhist scholastic tradition. [^Hayes1988]
 
 Other stuff:
 
@@ -684,8 +686,8 @@ Other stuff:
 -   [Maitreya](https://en.wikipedia.org/wiki/Maitreya) AKA Ajita - regarded as a prophesied future Buddha 
 -   [Kusala Ratana Karuna: Dhamma talk on the differences between Therav&amacr;da and Mah&amacr;y&amacr;na](https://www.youtube.com/watch?v=vvjjqQnRmKk)
 -   Payne, R.K. (2002). [Buddhism and Cognitive Science](http://www.shin-ibs.edu/documents/pwj3-4/01PN4.pdf).
--   Harris [^Harris2014]
--   Wright [^Wright2017]
+-   Harris, S. (2014). *Waking Up: A Guide to Spirituality Without Religion*. [^Harris2014]
+-   Wright, R. (2017). *Why Buddhism is True: The Science and Philosophy of Meditation and Enlightenment*. [^Wright2017]
 -   Wright, R. (2017). [Buddhism is more 'Western' than you think](https://www.nytimes.com/2017/11/06/opinion/buddhism-western-philosophy.html). *New York Times*.
 
 See also:
@@ -764,6 +766,7 @@ See also:
             -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) ([Ud 6.4](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.6.04.than.html))
         -   [Itivuttaka](https://en.wikipedia.org/wiki/Itivuttaka)
 3.  [Abhidharma Pitaka](https://en.wikipedia.org/wiki/Abhidharma_Pitaka) - "Basket of Higher Doctrine"
+    -   [Kath&amacr;vatthu](https://en.wikipedia.org/wiki/Kath%C4%81vatthu) - "Points of Controversy"
 
 [Abhidhamma](https://en.wikipedia.org/wiki/Visuddhimagga) - systematic pedagogical presentations:
 
@@ -1022,13 +1025,13 @@ Daoism
 
 -   *[Yijing](https://en.wikipedia.org/wiki/I_Ching)* (also romanized as *I Ching*) - *Book of Changes*
 -   *Zhouyi* - The original of *Changes* (1100-800 BCE)
--   [Bagua](https://en.wikipedia.org/wiki/Bagua)- 8 trigrams
+-   [Bagua](https://en.wikipedia.org/wiki/Bagua) - 8 trigrams
 -   [Gua](https://en.wikipedia.org/wiki/Hexagram_(I_Ching)) - 64 hexagrams
 -   Sequences (orderings of the guas):
-    -   [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) - traditional ordering of the hexagrams by [King Wen of Zhou](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (1112-1050 BCE).
+    -   [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) - The traditional ordering of the hexagrams by [King Wen of Zhou](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (1112-1050 BCE).
         -   [R.S. Cook claims to have decoded the King Wen sequence](https://www.lulu.com/en/us/shop/richard-s-cook/classical-chinese-combinatorics-derivation-of-the-book-of-changes-hexagram-sequence/paperback/product-1k842kd.html?page=1&pageSize=4).
-    -   The binary ordering of the hexagrams (AKA the Fuxi sequence) was discovered by [Shao Yong](https://en.wikipedia.org/wiki/Shao_Yong) (1011-1077 CE).
--   [More orderings](https://www.laetusinpraesens.org/musings/unknow2.php)
+    -   Fuxi sequence - The binary ordering of the hexagrams discovered by [Shao Yong](https://en.wikipedia.org/wiki/Shao_Yong) (1011-1077 CE).
+    -   [More orderings](https://www.laetusinpraesens.org/musings/unknow2.php)
 -   *Yijing* - The *Changes* with the additional *Ten Wings* (500-200 BCE) 
     -   Xici zhuan - "The Great Commentary"
 -   SEP: [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
@@ -1118,17 +1121,34 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 
 #### Confucianism
 
+*Introduction:*
+
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
 -   [Confucius](https://en.wikipedia.org/wiki/Confucius) (551-479 BCE)
 -   Confucius studied the *Yijing*
--   Shares a lot with Daoism
 -   [*Analects*](https://en.wikipedia.org/wiki/Analects) (c. 500-200 BCE)
 -   [Mencius](https://en.wikipedia.org/wiki/Mencius) AKA Mengzi (372-289 BCE)
 -   [Dong Zhongshu](https://en.wikipedia.org/wiki/Dong_Zhongshu) (179-104 BCE)
--   [Rectification of names](https://en.wikipedia.org/wiki/Rectification_of_names)
 -   [Neo-Confucianism](https://en.wikipedia.org/wiki/Neo-Confucianism)
 -   [Zhou Dunyi](https://en.wikipedia.org/wiki/Zhou_Dunyi) (1017-1073 CE)
 -   [Zhu Xi](https://en.wikipedia.org/wiki/Zhu_Xi) (1130-1200 CE)
+
+*Doctrines:*
+
+-   Focus on cultivating virtue and social harmony
+-   [Junzi](https://en.wikipedia.org/wiki/Junzi) - gentleman, ideal person
+-   [Rectification of names](https://en.wikipedia.org/wiki/Rectification_of_names) - ambition for a realist interpretation of language.
+-   [Four Books](https://en.wikipedia.org/wiki/Four_Books_and_Five_Classics)
+    1. *Great Learning*
+    2. *Doctrine of the Mean*
+    3. *Analects*
+    4. *Mencius*
+-   [Five Classics](https://en.wikipedia.org/wiki/Four_Books_and_Five_Classics#Five_Classics)
+    1. *Classic of Poetry*
+    2. *Book of Documents*
+    3. *Book of Rites*
+    4. *Yijing*
+    5. *Spring and Autumn Annals*
 
 >   By nature, men are nearly alike; by practice, they get to be wide
 >   apart. [^ConfuciusAnalectsCh17]

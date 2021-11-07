@@ -473,7 +473,7 @@ Table: Kant's division of judgments. {#tbl:kants-division-of-judgements}
 |                   |                           |         |                        |
 |                   |                           |         |                        |
 | **a posteriori**  | Impossible                |         | Empirical              |
-|                   | &cross;                   |         | Hume's matters of fact |
+|                   |                           |         | Hume's matters of fact |
 
 -   Kant
     -   *Critique of Pure Reason* (1781)
