@@ -1025,19 +1025,22 @@ Daoism
 -   [Bagua](https://en.wikipedia.org/wiki/Bagua)- 8 trigrams
 -   [Gua](https://en.wikipedia.org/wiki/Hexagram_(I_Ching)) - 64 hexagrams
 -   [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) - traditional ordering of the hexagrams by [King Wen of Zhou](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (1112-1050 BCE).
-    -   [R.S. Cook claims to have decoded the King Wen sequence](https://www.lulu.com/en/us/shop/richard-s-cook/classical-chinese-combinatorics-derivation-of-the-book-of-changes-hexagram-sequence/paperback/product-1k842kd.html?page=1&pageSize=4)
+    -   [R.S. Cook claims to have decoded the King Wen sequence](https://www.lulu.com/en/us/shop/richard-s-cook/classical-chinese-combinatorics-derivation-of-the-book-of-changes-hexagram-sequence/paperback/product-1k842kd.html?page=1&pageSize=4).
 -   The binary ordering of the hexagrams (AKA the Fuxi sequence) was discovered by [Shao Yong](https://en.wikipedia.org/wiki/Shao_Yong) (1011-1077 CE).
--   *Yijing* - The *Changes* with the additional *Ten Wings* (500–200 BCE) 
+-   *Yijing* - The *Changes* with the additional *Ten Wings* (500-200 BCE) 
     -   Xici zhuan - "The Great Commentary"
 -   SEP: [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
--   English translations:
+-   Translations:
     -   [Richard Wilhelm](https://en.wikipedia.org/wiki/Richard_Wilhelm_(sinologist)) (1873-1930)
     -   Wilhelm, R. (1950). [*I Ching*](http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html).
     -   Rutt, R. (2002). *The Book of Changes (Zhouyi)*. [^Rutt2002]
 -   Marshall, S.J. (2001). *The Mandate of Heaven: Hidden History in the Book of Changes*. [^Marshall2001]
 -   [Yijing Studies by Bradford Hatcher](https://www.hermetica.info/)
 -   [Yijing Studies by S.J. Marshall](https://www.biroco.com/yijing/)
+-   Wilhelm, B. (2013). Film: [*Wisdom of Changes: Richard Wilhelm & The I Ching*](https://www.youtube.com/watch?v=ynhg2UuuheU) (Directed by the grandaughter of Richard Wilhelm).
 -   Van Norden, B. (2021). Talk: [Understanding the *Classic of Changes* (*I Ching*)](https://www.youtube.com/watch?v=jNFy6RFU1xk).
+
+![The sixty-four hexagrams of the King Wen sequence.](img/king-wen-sequence.png){#fig:king-wen-sequence}
 
 Gua 01:
 
