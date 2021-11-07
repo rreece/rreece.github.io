@@ -122,12 +122,15 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
 -   [Rice domestication](https://en.wikipedia.org/wiki/Rice#Rice_domestication) (11,500--6,200 BCE)
 -   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (c. 2,070-1,600 BCE) - no direct records
 -   [Xianren Cave](https://en.wikipedia.org/wiki/Xianren_Cave)
--   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1,600-1,046 BCE)
--   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1,250 BCE)
+-   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1600-1046 BCE)
+-   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1250 BCE)
+-   [Zhou dynasty](https://en.wikipedia.org/wiki/Zhou_dynasty) (c. 1046-256 BCE)
 -   [Hundred Schools of Thought](https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought) (c. 600-221 BCE)
 -   [Burning of books and burying of scholars](https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars) (213 BCE)
 -   [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) (c. 200 BCE)
+-   [Qin dynasty](https://en.wikipedia.org/wiki/Qin_dynasty) (221-207 BCE)
 -   [Legalism](https://en.wikipedia.org/wiki/Legalism_(Chinese_philosophy))
+-   [Han dynasty](https://en.wikipedia.org/wiki/Han_dynasty) (202 BCE - 220 CE)
 
 #### Mesoamerica
 
@@ -501,8 +504,9 @@ Buddhism
 #### Secondary texts
 
 -   Kalupahana, D.J. (1992). *A History of Buddhist Philosophy: Continuities and Discontinuities*. [^Kalupahana1992]
--   Epstein, R. (2004). [Resources for the study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
+-   Sadakata, A. (1997). *Buddhist Cosmology: Philosophy and Origins*. [^Sadakata1997]
 -   Harvey, P. (2013). *An Introduction to Buddhism*. [^Harvey2013]
+-   Epstein, R. (2004). [Resources for the study of Buddhism](http://online.sfsu.edu/rone/Buddhism/Buddhism.htm).
 -   Hatcher, B. (2013). [A Bibliography of Buddhism (and Recovery)](https://www.hermetica.info/BuddBib.htm). - hermetica.info
 -   O'Brien, B. (2018). [Buddhist teachings on the self](https://www.learnreligions.com/self-no-self-whats-a-self-450190).
 -   [BPS Online Library](http://www.bps.lk/library.php)
@@ -510,6 +514,7 @@ Buddhism
 
 [^Harvey2013]: @Harvey_2013_An_Introduction_to_Buddhism\.
 [^Kalupahana1992]: @Kalupahana_1992_A_History_of_Buddhist_Philosophy_Continuities\.
+[^Sadakata1997]: @Sadakata_1997_Buddhist_Cosmology_Philosophy_and_Origins\.
 
 
 ### Common doctrines
@@ -825,9 +830,11 @@ Online Suttas:
     -   [Xuanzang](https://en.wikipedia.org/wiki/Xuanzang) (fl. c. 602-664 CE)
     -   [Tang Dynasty](https://en.wikipedia.org/wiki/Tang_Dynasty) (618-907 CE)
     -   [Yijing](https://en.wikipedia.org/wiki/Yijing_(monk)) (635-713 CE)
+    -   [Huichang Persecution of Buddhism](https://en.wikipedia.org/wiki/Huichang_Persecution_of_Buddhism) (841-845)
     -   [Budai](https://en.wikipedia.org/wiki/Budai) - Laughing Buddha (c. 10th century CE)
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
     -   [Tendai](https://en.wikipedia.org/wiki/Tendai) (began 806 CE) - "The Lotus School"
+    -   [Ennin](https://en.wikipedia.org/wiki/Ennin) AKA Jikaku Daishi (794-864)
     -   [J&omacr;do Shinsh&umacr;](https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB) AKA Shin Buddhism AKA "True Pure Land Buddhism"
         -   [Shinran](https://en.wikipedia.org/wiki/Shinran) (1173-1263)
     -   [Zen Buddhism](https://en.wikipedia.org/wiki/Zen)
@@ -838,7 +845,7 @@ Online Suttas:
         -   [D&omacr;gen](https://en.wikipedia.org/wiki/D%C5%8Dgen) (1200-1253)
     -   SEP: [Japanese philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)
 -   [Korean Buddhism](https://en.wikipedia.org/wiki/Korean_Buddhism)
-        -   [Seon](https://en.wikipedia.org/wiki/Korean_Seon) - "Ch&aacute;n" in Korea
+    -   [Seon](https://en.wikipedia.org/wiki/Korean_Seon) - "Ch&aacute;n" in Korea
 -   Mah&amacr;y&amacr;na Buddhism in southern Asia:
     -   [David J. Kalupahana](https://en.wikipedia.org/wiki/David_Kalupahana) (1936-2014)
 -   [Buddhism in the West](https://en.wikipedia.org/wiki/Buddhism_in_the_West)
@@ -960,7 +967,7 @@ Online Suttas:
 -   [Dalai Lama](https://en.wikipedia.org/wiki/Dalai_Lama)
     -   [14th Dalai Lama](https://en.wikipedia.org/wiki/14th_Dalai_Lama)
     -   14th Dalai Lama. (1988). [The Real Enemy](https://buddhismnow.com/2019/11/10/the-real-enemy-by-dalai-lama/).
--   [Robert Thurman](https://en.wikipedia.org/wiki/Robert_Thurman) (b. 1941) - the first American Buddhist monk to be ordained in the Tibetan Buddhist tradition (1965).
+-   [Robert Thurman](https://en.wikipedia.org/wiki/Robert_Thurman) (b. 1941) - the first American monk to be ordained in the Tibetan Buddhist tradition (1965).
 -   [Richard Davidson](https://en.wikipedia.org/wiki/Richard_Davidson) (b. 1951)
 -   [Jay L. Garfield](https://jaygarfield.org/in-press/) (b. 1955)
     -   Translator of N&amacr;g&amacr;rjuna's *Fundamental Verses on the Middle Way* [^Nagarjuna1995Garfield]
@@ -1012,16 +1019,24 @@ Daoism
     -   Also romanized as Taoism.
     -   Dao - unplanned rhythms of the universe called "the way"
     -   struggle between order and chaos
--   [Feng shui](https://en.wikipedia.org/wiki/Feng_shui)
+-   [Laozi](https://en.wikipedia.org/wiki/Laozi) (b. 571 BCE)
+-   [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou) AKA Zhuangzi (c. 369-286 BCE)
+-   [Zou Yan](https://en.wikipedia.org/wiki/Zou_Yan) (305-240 BCE)
+
+Concepts:
+
+-   [Yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang)
 -   [Qi](https://en.wikipedia.org/wiki/Qi)
 -   [Wuxing](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)) - "five phases"
+-   [Feng shui](https://en.wikipedia.org/wiki/Feng_shui)
 -   [Fuxi](https://en.wikipedia.org/wiki/Fuxi)
 -   [Mandate of Heaven](https://en.wikipedia.org/wiki/Mandate_of_Heaven)
--   [Wu wei](https://en.wikipedia.org/wiki/Wu_wei) - inaction
--   [Yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang)
+-   [Wu wei](https://en.wikipedia.org/wiki/Wu_wei) - "inaction"
+-   [Ziran](https://en.wikipedia.org/wiki/Ziran) - "of its own; by itself"
+-   [Taoism and death](https://en.wikipedia.org/wiki/Taoism_and_death)
 
 
-### Yijing
+### *Yijing*
 
 -   *[Yijing](https://en.wikipedia.org/wiki/I_Ching)* (also romanized as *I Ching*) - *Book of Changes*
 -   *Zhouyi* - The original of *Changes* (1100-800 BCE)
@@ -1031,21 +1046,23 @@ Daoism
     -   [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) - The traditional ordering of the hexagrams by [King Wen of Zhou](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (1112-1050 BCE).
         -   [R.S. Cook claims to have decoded the King Wen sequence](https://www.lulu.com/en/us/shop/richard-s-cook/classical-chinese-combinatorics-derivation-of-the-book-of-changes-hexagram-sequence/paperback/product-1k842kd.html?page=1&pageSize=4).
     -   Fuxi sequence - The binary ordering of the hexagrams discovered by [Shao Yong](https://en.wikipedia.org/wiki/Shao_Yong) (1011-1077 CE).
+    -   [Shao Yong diagram that amazed Leibnitz](http://www.russellcottrell.com/blog/ShaoYongScript.htm)
     -   [More orderings](https://www.laetusinpraesens.org/musings/unknow2.php)
 -   *Yijing* - The *Changes* with the additional *Ten Wings* (500-200 BCE) 
     -   Xici zhuan - "The Great Commentary"
--   SEP: [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
+-   SEP: [Chinese philosophy of change (*Yijing*)](https://plato.stanford.edu/entries/chinese-change/)
 -   Translations:
     -   [Richard Wilhelm](https://en.wikipedia.org/wiki/Richard_Wilhelm_(sinologist)) (1873-1930)
     -   Wilhelm, R. (1950). [*I Ching*](http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html).
     -   Rutt, R. (2002). *The Book of Changes (Zhouyi)*. [^Rutt2002]
 -   Marshall, S.J. (2001). *The Mandate of Heaven: Hidden History in the Book of Changes*. [^Marshall2001]
--   [Yijing Studies by Bradford Hatcher](https://www.hermetica.info/)
--   [Yijing Studies by S.J. Marshall](https://www.biroco.com/yijing/)
+-   [*Yijing* studies by Bradford Hatcher](https://www.hermetica.info/)
+-   [*Yijing* studies by S.J. Marshall](https://www.biroco.com/yijing/)
 -   Wilhelm, B. (2013). Film: [*Wisdom of Changes: Richard Wilhelm & The I Ching*](https://www.youtube.com/watch?v=ynhg2UuuheU) (Directed by the grandaughter of Richard Wilhelm).
 -   Van Norden, B. (2021). Talk: [Understanding the *Classic of Changes* (*I Ching*)](https://www.youtube.com/watch?v=jNFy6RFU1xk).
+-   Cottrell, R. - [The Virtual Yarrow Stalks I Ching](http://www.russellcottrell.com/VirtualYarrowStalks/VirtualYarrowStalks.htm).
 
-![The sixty-four hexagrams of the King Wen sequence.](img/king-wen-sequence.png){#fig:king-wen-sequence}
+![The sixty-four hexagrams of the King Wen sequence of the *Yijing*.](img/king-wen-sequence.png){#fig:king-wen-sequence}
 
 Gua 01:
 
@@ -1058,20 +1075,24 @@ Gua 11:
 >   Smallness departs, greatness arrives         
 >   Promise and fulfillment. [^YijingGua11]
 
+See also:
+
+-   Discussion of Leibnitz's studies of Yijing in [Eastern and modern western philosophy](human-condition.html#eastern-and-modern-western-philosophy).
+
 [^Marshall2001]: @Marshall_2001_The_Mandate_of_Heaven_Hidden_History_in_the_Book\.
 [^Rutt2002]: @Rutt_2002_The_Book_of_Changes_Zhouyi\.
 [^YijingGua01]: *Yijing*, Gua 01.
 [^YijingGua11]: *Yijing*, Gua 11.
 
 
-### Dao De Jing
+### *Dao De Jing*
 
--   *[Dao De Jing](https://en.wikipedia.org/wiki/Tao_Te_Ching)* by [Laozi](https://en.wikipedia.org/wiki/Laozi) (c. 500 BCE)
+-   [*Dao De Jing*](https://en.wikipedia.org/wiki/Tao_Te_Ching) by [Laozi](https://en.wikipedia.org/wiki/Laozi) (b. 571 BCE)
 
 
-### Zhuangzi
+### *Zhuangzi*
 
--   *[Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book))* by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou) AKA Zhuangzi (c. 369-286 BCE)
+-   [*Zhuangzi*](https://en.wikipedia.org/wiki/Zhuangzi_(book)) by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou) AKA Zhuangzi (c. 369-286 BCE)
 
 
 Other religions
@@ -1631,8 +1652,10 @@ Comparitive studies
 ### Eastern and modern western philosophy
 
 -   Leibnitz's studies of the *Yijing*
-    -   Nelson [^Nelson2011]
+    -   [Leibnitz's copy of the Shao Yong diagram](https://commons.wikimedia.org/wiki/File:Diagram_of_I_Ching_hexagrams_owned_by_Gottfried_Wilhelm_Leibniz,_1701.jpg) (1701)
     -   Ryan [^Ryan1996]
+    -   Nelson [^Nelson2011]
+    -   Smith [^Smith2012]
 -   Buddhism and Schopenhauer
     -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
     -   Kerns, T. [Lecture notes on Schopenhauer and Buddhism](http://philosophycourse.info/lecsite/lec-schop-budd.html).
@@ -1653,6 +1676,7 @@ Comparitive studies
 [^Nelson2011]: @Nelson_2011_The_Yijing_and_philosophy_From_Leibniz\.
 [^Parkes2011]: @Parkes_2011_Heidegger_and_Japanese_fascism_An_unsubstantiated\.
 [^Ryan1996]: @Ryan_1996_Leibniz_binary_system_and_Shao_Yongs_Yijing\.
+[^Smith2012]: @Smith_2012_How_the_Book_of_Changes_Arrived_in_the_West\.
 
 
 ### Perennial philosophy

@@ -39,6 +39,7 @@ Click to show the paltry outline of the history of science
 -   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 700-100 BCE)
 -   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
     -   skepticism, anti-dogmatism
+-   [Zou Yan](https://en.wikipedia.org/wiki/Zou_Yan) (305-240 BCE)
 
 
 #### Western
