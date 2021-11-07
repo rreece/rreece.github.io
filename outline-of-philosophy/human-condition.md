@@ -1029,7 +1029,6 @@ Daoism
         -   [R.S. Cook claims to have decoded the King Wen sequence](https://www.lulu.com/en/us/shop/richard-s-cook/classical-chinese-combinatorics-derivation-of-the-book-of-changes-hexagram-sequence/paperback/product-1k842kd.html?page=1&pageSize=4).
     -   The binary ordering of the hexagrams (AKA the Fuxi sequence) was discovered by [Shao Yong](https://en.wikipedia.org/wiki/Shao_Yong) (1011-1077 CE).
 -   [More orderings](https://www.laetusinpraesens.org/musings/unknow2.php)
-https://www.laetusinpraesens.org/musings/unknow2.php
 -   *Yijing* - The *Changes* with the additional *Ten Wings* (500-200 BCE) 
     -   Xici zhuan - "The Great Commentary"
 -   SEP: [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
