@@ -1158,6 +1158,7 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 ### African
 
 -   Bryan Van Norden. (2021). [Readings on the Less Commonly Taught Philosophies (LCTP)](http://www.bryanvannorden.com/suggestions-for-further-reading).
+-   [If&aacute;](https://en.wikipedia.org/wiki/If%C3%A1) - Yoruba religion and system of divination
 
 
 ### American
