@@ -1142,7 +1142,7 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 
 #### Confucianism
 
-*Introduction:*
+Introduction:
 
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
 -   [Confucius](https://en.wikipedia.org/wiki/Confucius) (551-479 BCE)
@@ -1154,7 +1154,7 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 -   [Zhou Dunyi](https://en.wikipedia.org/wiki/Zhou_Dunyi) (1017-1073 CE)
 -   [Zhu Xi](https://en.wikipedia.org/wiki/Zhu_Xi) (1130-1200 CE)
 
-*Doctrines:*
+Doctrines:
 
 -   Focus on cultivating virtue and social harmony
 -   [Junzi](https://en.wikipedia.org/wiki/Junzi) - gentleman, ideal person
