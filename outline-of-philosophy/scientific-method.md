@@ -193,6 +193,7 @@ See also:
     -   "Ibn al-Haytham was an early proponent of the concept that a hypothesis must be supported by experiments based on confirmable procedures or mathematical evidence—an early pioneer in the scientific method five centuries before Renaissance scientists." - Wikipedia
     -   [The first true scientist](http://news.bbc.co.uk/2/hi/science/nature/7810846.stm) - By Jim Al-Khalili
 -   [Ibn Sina](https://en.wikipedia.org/wiki/Avicenna) (980-1037) AKA "Avicenna"
+-   [Shen Kuo](https://en.wikipedia.org/wiki/Shen_Kuo) AKA Shen Gua (1031-1095)
 -   [Reconquest of Toledo](https://en.wikipedia.org/wiki/History_of_Toledo,_Spain#Medieval_Toledo_after_the_Reconquest) (1085)
 -   [Scholasticism](http://en.wikipedia.org/wiki/Scholasticism)
 -   [Robert Grosseteste](https://en.wikipedia.org/wiki/Robert_Grosseteste) (ca. 1168-1253)

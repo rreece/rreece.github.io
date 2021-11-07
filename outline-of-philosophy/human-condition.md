@@ -124,8 +124,10 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
 -   [Xianren Cave](https://en.wikipedia.org/wiki/Xianren_Cave)
 -   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1,600-1,046 BCE)
 -   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1,250 BCE)
--   [Hundred Schools of Thought](https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought)
+-   [Hundred Schools of Thought](https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought) (c. 600-221 BCE)
+-   [Burning of books and burying of scholars](https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars) (213 BCE)
 -   [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) (c. 200 BCE)
+-   [Legalism](https://en.wikipedia.org/wiki/Legalism_(Chinese_philosophy))
 
 #### Mesoamerica
 
@@ -998,6 +1000,63 @@ Paul Williams:
 [^Williams2011]: @Williams_2011_On_converting_from_Buddhism_to_Catholicism_One\.
 
 
+Daoism
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   [Daoism](https://en.wikipedia.org/wiki/Daoism) (began c. 4th century BCE)
+    -   Also romanized as Taoism.
+    -   Dao - unplanned rhythms of the universe called "the way"
+    -   struggle between order and chaos
+-   [Feng shui](https://en.wikipedia.org/wiki/Feng_shui)
+-   [Qi](https://en.wikipedia.org/wiki/Qi)
+-   [Wuxing](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)) - "five phases"
+-   [Fuxi](https://en.wikipedia.org/wiki/Fuxi)
+-   [Mandate of Heaven](https://en.wikipedia.org/wiki/Mandate_of_Heaven)
+-   [Wu wei](https://en.wikipedia.org/wiki/Wu_wei) - inaction
+-   [Yin and yang](https://en.wikipedia.org/wiki/Yin_and_yang)
+
+
+### Primary texts
+
+-   *[Yijing](https://en.wikipedia.org/wiki/I_Ching)* (also romanized as *I Ching*) - *Book of Changes*
+    -   *Zhouyi* - The original of *Changes* (1100-800 BCE)
+    -   [Bagua](https://en.wikipedia.org/wiki/Bagua)- 8 trigrams
+    -   [Gua](https://en.wikipedia.org/wiki/Hexagram_(I_Ching)) - 64 hexagrams
+    -   [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) - traditional ordering of the hexagrams by [King Wen of Zhou](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (1112-1050 BCE).
+        -   [R.S. Cook claims to have decoded the King Wen sequence](https://www.lulu.com/en/us/shop/richard-s-cook/classical-chinese-combinatorics-derivation-of-the-book-of-changes-hexagram-sequence/paperback/product-1k842kd.html?page=1&pageSize=4)
+    -   The binary ordering of the hexagrams (AKA the Fuxi sequence) was discovered by [Shao Yong](https://en.wikipedia.org/wiki/Shao_Yong) (1011-1077 CE).
+    -   *Yijing* - The *Changes* with the additional *Ten Wings* (500–200 BCE) 
+        -   Xici zhuan - "The Great Commentary"
+    -   SEP: [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
+    -   English translations:
+        -   Wilhelm, R. (1950). [*I Ching*](http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html).
+        -   Rutt, R. (2002). *The Book of Changes (Zhouyi)*. [^Rutt2002]
+    -   Marshall, S.J. (2001). *The Mandate of Heaven: Hidden History in the Book of Changes*. [^Marshall2001]
+    -   [Yijing Studies by Bradford Hatcher](https://www.hermetica.info/)
+    -   [Yijing Studies by S.J. Marshall](https://www.biroco.com/yijing/)
+    -   Van Norden, B. (2021). Talk: [Understanding the *Classic of Changes* (*I Ching*)](https://www.youtube.com/watch?v=jNFy6RFU1xk).
+-   *[Dao De Jing](https://en.wikipedia.org/wiki/Tao_Te_Ching)* by [Laozi](https://en.wikipedia.org/wiki/Laozi) (c. 500 BCE)
+-   *[Zhuangzi](https://en.wikipedia.org/wiki/Zhuangzi_(book))* by [Zhuang Zhou](https://en.wikipedia.org/wiki/Zhuang_Zhou) AKA Zhuangzi (c. 369-286 BCE)
+
+Gua 01:
+
+>   <span style="font-size:2em">&#19904;</span> Creating        
+>   The greatest fulfillment rewards persistence. [^YijingGua01]
+
+Gua 11:
+
+>   <span style="font-size:2em">&#19914;</span> Interplay       
+>   Smallness departs, greatness arrives         
+>   Promise and fulfillment. [^YijingGua11]
+
+[^Marshall2001]: @Marshall_2001_The_Mandate_of_Heaven_Hidden_History_in_the_Book\.
+[^Rutt2002]: @Rutt_2002_The_Book_of_Changes_Zhouyi\.
+[^YijingGua01]: *Yijing*, Gua 01.
+[^YijingGua11]: *Yijing*, Gua 11.
+
+
 Other religions
 --------------------------------------------------------------------------------
 
@@ -1043,47 +1102,24 @@ Along with Hinduism and Buddhism, all dharmic religions originated in India.
 
 ### East Asian
 
-#### Daoism
-
--   [Daoism](https://en.wikipedia.org/wiki/Daoism) (began c. 4th century BCE)
-    -   Also romanized as Taoism.
-    -   Dao - unplanned rhythms of the universe called "the way"
-    -   struggle between order and chaos
--   [Feng shui](https://en.wikipedia.org/wiki/Feng_shui)
--   [Qi](https://en.wikipedia.org/wiki/Qi)
--   [Wuxing](https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)) - "Five Elements"
-
-Works:
-
--   *Yijing* (also romanized as *I Ching*) - *Book of Changes*
-    -   *Zhouyi* - The original of *Changes* (1100-800 BCE)
-    -   64 hexagrams, *Gua*
-    -   *Yijing* - The *Changes* with the additional *Ten Wings*
-    -   Yijing Studies by Bradford Hatcher at [hermetica.info](https://www.hermetica.info/)
-    -   SEP: [Chinese philosophy of change (Yijing)](https://plato.stanford.edu/entries/chinese-change/)
--   *Dao De Jing* - Laozi (c. 500 BCE)
--   *Zhuangzi* - Zhuang Zhou (c. 369-286 BCE)
--   *Dazhuan* - "The Great Commentary"
-
->   <span style="font-size:2em">&#19904;</span> Creating        
->   The greatest fulfillment rewards persistence. [^YijingGua01]
-
->   <span style="font-size:2em">&#19914;</span> Interplay       
->   Smallness departs, greatness arrives         
->   Promise and fulfillment. [^YijingGua11]
-
-[^YijingGua01]: *Yijing*, Gua 01.
-[^YijingGua11]: *Yijing*, Gua 11.
-
 #### Confucianism
 
 -   [Confucianism](https://en.wikipedia.org/wiki/Confucianism)
 -   [Confucius](https://en.wikipedia.org/wiki/Confucius) (551-479 BCE)
 -   Confucius studied the *Yijing*
+-   Shares a lot with Daoism
 -   [*Analects*](https://en.wikipedia.org/wiki/Analects) (c. 500-200 BCE)
+-   [Mencius](https://en.wikipedia.org/wiki/Mencius) (372-289 BCE)
+-   [Dong Zhongshu](https://en.wikipedia.org/wiki/Dong_Zhongshu) (179-104 BCE)
 -   [Rectification of names](https://en.wikipedia.org/wiki/Rectification_of_names)
+-   [Neo-Confucianism](https://en.wikipedia.org/wiki/Neo-Confucianism)
+-   [Zhou Dunyi](https://en.wikipedia.org/wiki/Zhou_Dunyi) (1017-1073 CE)
+-   [Zhu Xi](https://en.wikipedia.org/wiki/Zhu_Xi) (1130-1200 CE)
 
->   By nature, men are nearly alike; by practice, they get to be wide apart.
+>   By nature, men are nearly alike; by practice, they get to be wide
+>   apart. [^ConfuciusAnalectsCh17]
+
+[^ConfuciusAnalectsCh17]: Confucius, *Analects*, chapter 17.
 
 
 #### Mohism
@@ -1559,6 +1595,9 @@ Comparitive studies
 
 ### Eastern and modern western philosophy
 
+-   Leibnitz's studies of the *Yijing*
+    -   Nelson [^Nelson2011]
+    -   Ryan [^Ryan1996]
 -   Buddhism and Schopenhauer
     -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
     -   Kerns, T. [Lecture notes on Schopenhauer and Buddhism](http://philosophycourse.info/lecsite/lec-schop-budd.html).
@@ -1576,7 +1615,9 @@ Comparitive studies
 -   *The Eastern Origins of Western Civlisation* [^Hobson2004]
 
 [^Hobson2004]: @Hobson_2004_The_Eastern_Origins_of_Western_Civlisation\.
+[^Nelson2011]: @Nelson_2011_The_Yijing_and_philosophy_From_Leibniz\.
 [^Parkes2011]: @Parkes_2011_Heidegger_and_Japanese_fascism_An_unsubstantiated\.
+[^Ryan1996]: @Ryan_1996_Leibniz_binary_system_and_Shao_Yongs_Yijing\.
 
 
 ### Perennial philosophy
