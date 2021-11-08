@@ -75,25 +75,25 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
 -   First [Natufian](https://en.wikipedia.org/wiki/Natufian_culture) sedentary settlements by 10,000 BCE
 -   [Pre-Pottery Neolithic A](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A) (c. 12,000-10,800 BCE)
 -   [G&ouml;bekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe) built between c. 10,000 and 8,000 BCE
--   [Sumer](https://en.wikipedia.org/wiki/Sumer) was first settled between c. 5,500 and 4,000 BCE.
-    -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing begins c. 3,200 BCE.
+-   [Sumer](https://en.wikipedia.org/wiki/Sumer) was first settled between c. 5500 and 4000 BCE.
+    -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing begins c. 3200 BCE.
     -   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2,800 and 2,500 BCE.
-    -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2,334-2,154 BCE)
-    -   [Babylonia](https://en.wikipedia.org/wiki/Babylonia) - [Babylon](https://en.wikipedia.org/wiki/Babylon) settled c. 2,300 BCE
-    -   [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) (c. 1,810-1,750 BCE)
-    -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1,754 BCE)
+    -   [Akkadian Empire](https://en.wikipedia.org/wiki/Akkadian_Empire) (c. 2334-2154 BCE)
+    -   [Babylonia](https://en.wikipedia.org/wiki/Babylonia) - [Babylon](https://en.wikipedia.org/wiki/Babylon) settled c. 2300 BCE
+    -   [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) (c. 1810-1750 BCE)
+    -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1754 BCE)
     -   [Library of Ashurbanipal](https://en.wikipedia.org/wiki/Library_of_Ashurbanipal) (c. 7th century BCE)
-    -   [*Epic of Gilgamesh*](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh)
+    -   [*Epic of Gilgamesh*](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh) (c. 2100-1200 BCE)
 -   [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt) - [First Dynasty](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt) (c. 3,150-2,890 BCE)
-    -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing begins c. 3,200 BCE.
--   [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) (c. 2,500-539 BCE)
--   [Hittites](https://en.wikipedia.org/wiki/Hittites) (c. 1,600-1,178 BCE)
-    -   [Late Bronze Age collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) (c. 1,200-1,150 BCE)
--   [Ancient Greece](https://en.wikipedia.org/wiki/Ancient_Greece) (c. 1,200 BCE - 600 CE)
+    -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing begins c. 3200 BCE.
+-   [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) (c. 2500-539 BCE)
+-   [Hittites](https://en.wikipedia.org/wiki/Hittites) (c. 1600-1178 BCE)
+    -   [Late Bronze Age collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) (c. 1200-1150 BCE)
+-   [Ancient Greece](https://en.wikipedia.org/wiki/Ancient_Greece) (c. 1200 BCE - 600 CE)
     -   [Minoan civilization](https://en.wikipedia.org/wiki/Minoan_civilization) - [Ancient Crete](https://en.wikipedia.org/wiki/History_of_Crete) (c. 2,700-1,100 BCE)
-    -   [Mycenaean Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) (c. 1,600-1,100 BCE)
-    -   [Greek Dark Ages](https://en.wikipedia.org/wiki/Greek_Dark_Ages) (c. 1,100-800 BCE)
-    -   [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet) (c. 1,050-150 BCE)
+    -   [Mycenaean Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) (c. 1600-1100 BCE)
+    -   [Greek Dark Ages](https://en.wikipedia.org/wiki/Greek_Dark_Ages) (c. 1100-800 BCE)
+    -   [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet) (c. 1050-150 BCE)
     -   [Sparta](https://en.wikipedia.org/wiki/Sparta) (c. 900-192 BCE)
     -   [Macedonia](https://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)) (808-168 BCE)
     -   The works of [Homer](https://en.wikipedia.org/wiki/Homer) were collected and organized in Athens by
@@ -109,18 +109,18 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
 #### Ancient India
 
 -   [Ancient India](https://en.wikipedia.org/wiki/History_of_India)
--   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3,300-1,300 BCE)
--   [Harappa](https://en.wikipedia.org/wiki/Harappa)  settled c. 2,600 BCE
--   [Mohenjo-daro](https://en.wikipedia.org/wiki/Mohenjo-daro) settled c. 2,500 BCE
--   [Indus script](https://en.wikipedia.org/wiki/Indus_script) (c. 3,500-1,900 BCE) - still not deciphered today!
--   [Vedic Sanskrit](https://en.wikipedia.org/wiki/Vedic_Sanskrit) writing begins c. 2,000 BCE
+-   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3300-1300 BCE)
+-   [Harappa](https://en.wikipedia.org/wiki/Harappa)  settled c. 2600 BCE
+-   [Mohenjo-daro](https://en.wikipedia.org/wiki/Mohenjo-daro) settled c. 2500 BCE
+-   [Indus script](https://en.wikipedia.org/wiki/Indus_script) (c. 3500-1900 BCE) - still not deciphered today!
+-   [Vedic Sanskrit](https://en.wikipedia.org/wiki/Vedic_Sanskrit) writing begins c. 2000 BCE
 
 #### Ancient China
 
 -   [Ancient China](https://en.wikipedia.org/wiki/History_of_China)
 -   [Neolithic China](https://en.wikipedia.org/wiki/Neolithic_China)
 -   [Rice domestication](https://en.wikipedia.org/wiki/Rice#Rice_domestication) (11,500--6,200 BCE)
--   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (c. 2,070-1,600 BCE) - no direct records
+-   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (c. 2070-1600 BCE) - no direct records
 -   [Xianren Cave](https://en.wikipedia.org/wiki/Xianren_Cave)
 -   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1600-1046 BCE)
 -   [Oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) (c. 1250 BCE)
@@ -138,11 +138,11 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
 #### Mesoamerica
 
 -   [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica)
--   [Norte Chico](https://en.wikipedia.org/wiki/Norte_Chico_civilization) (c. 3,500-1,800 BCE)
--   [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga) settled c. 3,500 BCE
--   [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (c. 1,600-400 BCE)
+-   [Norte Chico](https://en.wikipedia.org/wiki/Norte_Chico_civilization) (c. 3500-1800 BCE)
+-   [Huaricanga](https://en.wikipedia.org/wiki/Huaricanga) settled c. 3500 BCE
+-   [Olmecs](https://en.wikipedia.org/wiki/Olmecs) (c. 1600-400 BCE)
 -   [Olmec hieroglyphs](https://en.wikipedia.org/wiki/Olmec_hieroglyphs) possibly as early as 900 BCE
--   [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block) with Olmec hieroglyphs possibly as early as c. 1,000 BCE
+-   [Cascajal Block](https://en.wikipedia.org/wiki/Cascajal_Block) with Olmec hieroglyphs possibly as early as c. 1000 BCE
 
 See also:
 
@@ -195,7 +195,7 @@ Proto-Indo-European mythology
 ### Zoroastrianism
 
 -   [Zoroastrianism](https://en.wikipedia.org/wiki/Zoroastrianism)
--   [Zoroaster](https://en.wikipedia.org/wiki/Zoroaster) (lived between c. 1,500 and 1,000 BCE)
+-   [Zoroaster](https://en.wikipedia.org/wiki/Zoroaster) (lived between c. 1500 and 1000 BCE)
 -   first monotheism
 -   official religion of Ancient Persia from the 6th century BCE to the 7th century CE
 
