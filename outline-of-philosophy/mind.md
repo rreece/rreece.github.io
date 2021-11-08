@@ -185,6 +185,7 @@ Free will
 -   [Caricaturing free will](http://www.pawelpachniewski.com/mental-contractions/2014/08/caricaturing-free-will/) - Pawel Pachniewski
 -   [Dennett and Harris try to bridge the gap](https://www.youtube.com/watch?v=vFa7vFkVy4g) - Waking Up podcast
 -   [Free will is dead, let's bury it.](http://backreaction.blogspot.ch/2016/01/free-will-is-dead-lets-bury-it.html) - Sabine Hossenfelder
+-   [Sam Harris: Free Will is an Illusion](https://www.youtube.com/watch?v=SYq724zHUTw) - Lex Fridman podcast
 
 
 My thoughts

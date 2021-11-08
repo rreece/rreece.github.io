@@ -1063,7 +1063,7 @@ Concepts:
     -   [More orderings](https://www.laetusinpraesens.org/musings/unknow2.php)
 -   *Yijing* - The *Changes* with the additional *Ten Wings* (500-200 BCE) 
     -   Xici zhuan - "The Great Commentary"
-    -   Many consider Confucius and/or his students as the authors of the Ten Wings
+    -   Many consider Confucius and/or his students as the authors of the Ten Wings.
 -   SEP: [Chinese philosophy of change (*Yijing*)](https://plato.stanford.edu/entries/chinese-change/)
 -   Translations:
     -   [Richard Wilhelm](https://en.wikipedia.org/wiki/Richard_Wilhelm_(sinologist)) (1873-1930)
