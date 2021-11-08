@@ -1046,7 +1046,9 @@ Concepts:
 -   [Bagua](https://en.wikipedia.org/wiki/Bagua) - 8 trigrams
 -   [Gua](https://en.wikipedia.org/wiki/Hexagram_(I_Ching)) - 64 hexagrams
 -   Sequences (orderings of the guas):
-    -   [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) - The traditional ordering of the hexagrams by [King Wen of Zhou](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (1112-1050 BCE).
+    -   [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) - The
+        traditional ordering of the hexagrams by
+        [King Wen of Zhou](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (1112-1050 BCE).
         -   63,  0, 34, 17, 58, 23, 16,  2,
             59, 55, 56,  7, 47, 61,  8,  4,
             38, 25, 48,  3, 37, 41,  1, 32,
@@ -1055,11 +1057,13 @@ Concepts:
             49, 35, 62, 31,  6, 24, 22, 26,
             46, 29, 36,  9, 11, 52, 44, 13,
             27, 54, 19, 50, 51, 12, 42, 21
-    -   Fuxi sequence - The binary ordering of the hexagrams discovered by [Shao Yong](https://en.wikipedia.org/wiki/Shao_Yong) (1011-1077 CE).
+    -   Fuxi sequence - The ascending binary ordering of the hexagrams discovered
+        by [Shao Yong](https://en.wikipedia.org/wiki/Shao_Yong) (1011-1077 CE).
     -   [Shao Yong diagram that amazed Leibnitz](http://www.russellcottrell.com/blog/ShaoYongScript.htm)
     -   [More orderings](https://www.laetusinpraesens.org/musings/unknow2.php)
 -   *Yijing* - The *Changes* with the additional *Ten Wings* (500-200 BCE) 
     -   Xici zhuan - "The Great Commentary"
+    -   Many consider Confucius and/or his students as the authors of the Ten Wings
 -   SEP: [Chinese philosophy of change (*Yijing*)](https://plato.stanford.edu/entries/chinese-change/)
 -   Translations:
     -   [Richard Wilhelm](https://en.wikipedia.org/wiki/Richard_Wilhelm_(sinologist)) (1873-1930)
