@@ -219,6 +219,14 @@ See also:
 [^Lewis1986pix]: @Lewis_1986_Philosophical_Papers_II\, p. ix.
 
 
+Idealism
+--------------------------------------------------------------------------------
+
+-   [George Berkeley](https://en.wikipedia.org/wiki/George_Berkeley) (1685-1753)
+-   [Georg Wilhelm Friedrich Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) (1770-1831)
+-   [J.M.E. McTaggart](https://en.wikipedia.org/wiki/J._M._E._McTaggart) (1866-1925)
+
+
 Instrumentalism
 --------------------------------------------------------------------------------
 
@@ -1985,6 +1993,7 @@ Click to show links
 
 -   [Analytic-synthetic distinction](https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction)
 -   [Anti-realism](https://en.wikipedia.org/wiki/Anti-realism)
+-   [Berkeley, George (1685-1753)](https://en.wikipedia.org/wiki/George_Berkeley)
 -   [Berlin Circle](http://en.wikipedia.org/wiki/Berlin_Circle)
 -   [Carnap, Rudolf (1891-1970)](http://en.wikipedia.org/wiki/Rudolf_Carnap)
 -   [Chisholm, Roderick (1916-1999)](https://en.wikipedia.org/wiki/Roderick_Chisholm)
