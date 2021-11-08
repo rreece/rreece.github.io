@@ -146,7 +146,7 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
 
 See also:
 
--   [American religions](#american).
+-   [American religions](#american)
 
 
 ### Industrial Revolution
@@ -179,9 +179,9 @@ Feynman:
 See also:
 
 -   [History of science](scientific-method.html#history-of-science)
-    in the [Outline on the scientific method](scientific-method.html).
+    in the [Outline on the scientific method](scientific-method.html)
 -   [Technological growth](future.html#technological-growth)
-    in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
+    in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html)
 
 [^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
 
@@ -700,7 +700,7 @@ Other stuff:
 
 See also:
 
--   [Compassion](ethics.html#compassion) in the [Outline on Ethics](ethics.html).
+-   [Compassion](ethics.html#compassion) in the [Outline on Ethics](ethics.html)
 
 [^Hayes1988]: @Hayes_1988_Principled_atheism_in_the_Buddhist_scholastic\.
 [^Harris2014]: @Harris_2014_Waking_Up_A_Guide_to_Spirituality_Without\.
@@ -1036,6 +1036,7 @@ Concepts:
 -   [Mandate of Heaven](https://en.wikipedia.org/wiki/Mandate_of_Heaven)
 -   [Wu wei](https://en.wikipedia.org/wiki/Wu_wei) - "inaction"
 -   [Ziran](https://en.wikipedia.org/wiki/Ziran) - "of its own; by itself"
+-   [Pu](https://en.wikipedia.org/wiki/Pu_(Taoism)) - "unworked wood"
 -   [Taoism and death](https://en.wikipedia.org/wiki/Taoism_and_death)
 
 
@@ -1053,7 +1054,7 @@ Concepts:
             59, 55, 56,  7, 47, 61,  8,  4,
             38, 25, 48,  3, 37, 41,  1, 32,
             39, 57, 33, 30, 18, 45, 14, 28,
-            15, 60, 05, 40, 43, 53, 10, 20,
+            15, 60,  5, 40, 43, 53, 10, 20,
             49, 35, 62, 31,  6, 24, 22, 26,
             46, 29, 36,  9, 11, 52, 44, 13,
             27, 54, 19, 50, 51, 12, 42, 21
@@ -1818,7 +1819,7 @@ TODO: Find Dawkins on multiple instances of convergent evolution of eyes.
 
 See also:
 
--   [Terror management theory](human-condition.html#terror-management-theory).
+-   [Terror management theory](human-condition.html#terror-management-theory)
 
 [^Bodhi2005p206]: @Bodhi_2005_In_the_Buddhas_Words_An_anthology_of_discourses\, p. 206--7.
 [^Hitchens2012]: @Hitchens_2012_Mortality\.
@@ -1879,7 +1880,7 @@ See also:
 
 See also:
 
--   [Mortality](human-condition.html#mortality).
+-   [Mortality](human-condition.html#mortality)
 
 
 Atheism
