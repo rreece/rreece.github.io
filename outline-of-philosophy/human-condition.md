@@ -131,6 +131,9 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
 -   [Qin dynasty](https://en.wikipedia.org/wiki/Qin_dynasty) (221-207 BCE)
 -   [Legalism](https://en.wikipedia.org/wiki/Legalism_(Chinese_philosophy))
 -   [Han dynasty](https://en.wikipedia.org/wiki/Han_dynasty) (202 BCE - 220 CE)
+-   [Sima Tan](https://en.wikipedia.org/wiki/Sima_Tan) (c. 165-110 BCE)
+-   [Sima Qian](https://en.wikipedia.org/wiki/Sima_Qian) (c. 145-86 BCE)
+-   [*Records of the Grand Historian*](https://en.wikipedia.org/wiki/Records_of_the_Grand_Historian) (91 BCE)
 
 #### Mesoamerica
 
