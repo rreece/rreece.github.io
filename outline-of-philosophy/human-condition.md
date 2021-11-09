@@ -1047,8 +1047,8 @@ Concepts:
 -   [Bagua](https://en.wikipedia.org/wiki/Bagua) - 8 trigrams
 -   [Gua](https://en.wikipedia.org/wiki/Hexagram_(I_Ching)) - 64 hexagrams
 -   Sequences (orderings of the guas):
-    -   [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) - The
-        traditional ordering of the hexagrams by
+    -   [King Wen sequence](https://en.wikipedia.org/wiki/King_Wen_sequence) AKA Hou Tian, "after heaven" - 
+        The traditional ordering of the hexagrams by
         [King Wen of Zhou](https://en.wikipedia.org/wiki/King_Wen_of_Zhou) (1112-1050 BCE).
         -   63,  0, 34, 17, 58, 23, 16,  2,
             59, 55, 56,  7, 47, 61,  8,  4,
@@ -1058,8 +1058,8 @@ Concepts:
             49, 35, 62, 31,  6, 24, 22, 26,
             46, 29, 36,  9, 11, 52, 44, 13,
             27, 54, 19, 50, 51, 12, 42, 21
-    -   Fuxi sequence - The ascending binary ordering of the hexagrams discovered
-        by [Shao Yong](https://en.wikipedia.org/wiki/Shao_Yong) (1011-1077 CE).
+    -   Fuxi sequence AKA Xian Tian, "before heaven" - The ascending binary ordering of the hexagrams
+        discovered by [Shao Yong](https://en.wikipedia.org/wiki/Shao_Yong) (1011-1077 CE).
     -   [Shao Yong diagram that amazed Leibnitz](http://www.russellcottrell.com/blog/ShaoYongScript.htm)
     -   [More orderings](https://www.laetusinpraesens.org/musings/unknow2.php)
 -   *Yijing* - The *Changes* with the additional *Ten Wings* (500-200 BCE) 
@@ -1608,6 +1608,7 @@ Comparitive studies
 -   [Lewis H. Morgan](https://en.wikipedia.org/wiki/Lewis_H._Morgan) (1818-1881)
 -   [Max M&uuml;ller](https://en.wikipedia.org/wiki/Max_M%C3%BCller) (1823-1900)
 -   [Edward Burnett Tylor](https://en.wikipedia.org/wiki/Edward_Burnett_Tylor) (1832-1917)
+-   [Joseph Needham](https://en.wikipedia.org/wiki/Joseph_Needham) (1900-1995)
 
 
 ### Indian and Greek philosophy

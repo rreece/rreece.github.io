@@ -157,6 +157,7 @@ a measure of inductive confidence.
 
 TODO:
 
+-   Cardano, G. (1564). *Book on Games of Chance*.
 -   Kolmogorov axioms
 -   Probability vs odds: $p/(p+q)$ vs $p/q$
 -   Carnap: "Probability as a guide in life" [^Carnap1947]
@@ -579,6 +580,7 @@ Statistical hypothesis testing
 
 ### Null hypothesis significance testing
 
+-   Karl Pearson observing how rare sequences of roulette spins are
 -   Null hypothesis significance testing (NHST)
 -   goodness of fit
 -   Fisher
@@ -738,6 +740,8 @@ Lyons:
 >   and its statistical error. [^Lyons2008p890]
 
 ![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties), 2016).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
+
+-   Poincar&eacute;'s three levels of ignorance
 
 [^Caldeira2020]: @Caldeira_2020_Deeply_uncertain_comparing_methods_of_uncertainty\.
 [^Heinrich2007]: @Heinrich_2007_Systematic_errors\.
@@ -2089,6 +2093,7 @@ Click to show links
 -   [Statistics, Philosophy of](https://en.wikipedia.org/wiki/Philosophy_of_statistics)
 -   [Student's t-test](https://en.wikipedia.org/wiki/Student%27s_t-test)
 -   [Systematic error](http://en.wikipedia.org/wiki/Systematic_error)
+-   [Thorp, Edward O. (b. 1932)](https://en.wikipedia.org/wiki/Edward_O._Thorp)
 -   [Trial and error](https://en.wikipedia.org/wiki/Trial_and_error)
 -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
 -   [Type-I and type-II errors](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors)

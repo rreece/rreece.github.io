@@ -40,6 +40,7 @@ Click to show the paltry outline of the history of science
 -   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
     -   skepticism, anti-dogmatism
 -   [Zou Yan](https://en.wikipedia.org/wiki/Zou_Yan) (305-240 BCE)
+-   [The Needham Question](https://en.wikipedia.org/wiki/Science_and_Civilisation_in_China#The_Needham_Question)
 
 
 #### Western

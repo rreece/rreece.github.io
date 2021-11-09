@@ -147,7 +147,7 @@ Schr&ouml;dinger quoting Schopenhauer:
 
 [^Borges1998]: @Borges_1998_Collected_Fictions\, p. 325.
 [^Korzybski1933p58]: @Korzybski_1933_Science_and_Sanity\, p. 58.
-[^Moore1925]: @Moore_1925_A_defense_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
+[^Moore1925]: TODO: split up: @Moore_1903_The_refutation_of_idealism\, @Moore_1925_A_defence_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
 [^Schopenhauer-Schrodinger]: Schr&ouml;dinger quoting Schopenhauer in "Mind and Matter".
 [^Wittgenstein1969]: @Wittgenstein_1969_On_Certainty\.
 
@@ -157,7 +157,7 @@ Schr&ouml;dinger quoting Schopenhauer:
 -   Contemporary skepticism [^Pritchard2004]
 -   Challenges to metaphysical realism [^Khlentzos2011].
 -   Putnam Brain in a vat [^Putnam1981pX]
--   "The Matrix as Metaphysics" [^Chalmers2003]
+-   Chalmers, D. (2003). The Matrix as metaphysics. [^Chalmers2003]
 -   Bostrom - The Simulation Argument
     -   Am I a more advanced civilization's tamagotchi?
 -   Distinguish Anti-realism from non-realism
@@ -222,9 +222,32 @@ See also:
 Idealism
 --------------------------------------------------------------------------------
 
+### Introduction
+
+-   TODO
+
+### History
+
 -   [George Berkeley](https://en.wikipedia.org/wiki/George_Berkeley) (1685-1753)
+-   [Johann Gottlieb Fichte](https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte) (1762-1814)
 -   [Georg Wilhelm Friedrich Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) (1770-1831)
+-   [Friedrich Wilhelm Joseph Schelling](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling) (1775-1854)
+-   [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx) (1818-1883)
 -   [J.M.E. McTaggart](https://en.wikipedia.org/wiki/J._M._E._McTaggart) (1866-1925)
+-   [Benedetto Croce](https://en.wikipedia.org/wiki/Benedetto_Croce) (1866-1952)
+-   [Giovanni Gentile](https://en.wikipedia.org/wiki/Giovanni_Gentile) (1875-1944)
+
+See also:
+
+-   [Buddhism](human-condition.html#buddhism)
+-   [Hinduism](human-condition.html#hinduism)
+
+### Criticism
+
+-   [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
+-   [Analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy)
+-   [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) (1872-1970)
+-   [George Edward Moore](https://en.wikipedia.org/wiki/G._E._Moore) (1873-1958)
 
 
 Instrumentalism
@@ -801,6 +824,7 @@ Carnap on ontology:
     -   Leitgeb & Carus: "talk of meaning should in any case be eschewed in favor of talk of syntax" [^Leitgeb2020G]
     -   Blanchette, P. (2013). Talk: [Frege and G&ouml;del on mathematics as syntax](https://www.youtube.com/watch?v=y8yZp-cjR2I).
 -   Carnap, R. (1950). Empiricists, semantics, and ontology. [^Carnap1950]
+    -   "ESO"
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
     -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
 
@@ -1038,6 +1062,7 @@ Various reactions to positivism.
 >   questions internal to a framework and those external to
 >   it. [^WikipediaMetaphysics]
 
+-   Carnap's internal vs external questions, (ESO), again
 -   Quine's "Two Dogmas of Empiricism" [^Quine1951-2]
     1.  Analytic/synthetic distinction
     2.  Reductionism (verification theory of meaning)
@@ -1051,11 +1076,27 @@ Various reactions to positivism.
 -   Quine-Carnap correspondence [^Quine1990-2]
 -   Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? [^Yablo1998]
 
+Nietzsche:
+
+>   Against positivism, which would stand by the position "There are only facts",
+>   I would say: no, there are precisely no facts, only interpretations.
+>   We can establish no fact "in itself": it is perhaps nonsense to want
+>   such a thing. You say "Everything is subjective": but that is already
+>   an interpretation, the "subject" is not anything given, but something
+>   invented and added, something stuck behind\ldots To the extent that
+>   the word "knowledge" [*Erkenntnis*] has any sense, the world is knowable:
+>   but it is interpretable differently, it has no sense behind it, but
+>   innumerable senses, "perspectivism". It is our needs that interpret the
+>   world: our drives and their to and fro. Every drive is a kind of domination,
+>   every one has its perspective, which it would force on all other drives as
+>   a norm. [^NietzscheNotebook7]
+
 See also:
 
 -   The introduction to the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
     in the [Outline on the scientific method](scientific-method.html).
 
+[^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
 [^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1960]: @Quine_1960_Word_and_Object\.
 [^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
@@ -1867,6 +1908,7 @@ Click to show links
 -   [Goodman, Nelson (1906-1998)](https://plato.stanford.edu/entries/goodman/)
 -   [Hempel, Carl (1905-1997)](https://plato.stanford.edu/entries/hempel/)
 -   [Historicist Theories of Scientific Rationality](http://plato.stanford.edu/entries/rationality-historicist/)
+-   [Idealism](https://plato.stanford.edu/entries/idealism/)
 -   [Identity](http://plato.stanford.edu/entries/identity/)
 -   [Identity of Indiscernibles](http://plato.stanford.edu/entries/identity-indiscernible/)
 -   [Identity, Relative](http://plato.stanford.edu/entries/identity-relative/)
@@ -2033,6 +2075,7 @@ Click to show links
 -   [Metaphilosophy](https://en.wikipedia.org/wiki/Metaphilosophy)
 -   [Metaphysics](http://en.wikipedia.org/wiki/Metaphysics)
 -   [Meta-ontology](https://en.wikipedia.org/wiki/Meta-ontology)
+-   [Moore, George Edward (1873-1958)](https://en.wikipedia.org/wiki/G._E._Moore)
 -   [Natural Ontological Attitude](http://en.wikipedia.org/wiki/Natural_Ontological_Attitude)
 -   [Neurath, Otto (1882-1945)](https://en.wikipedia.org/wiki/Otto_Neurath)
 -   [New riddle of induction](https://en.wikipedia.org/wiki/New_riddle_of_induction)
