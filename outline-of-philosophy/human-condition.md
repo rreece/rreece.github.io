@@ -1196,10 +1196,22 @@ Doctrines:
 
 -   [Mohism](https://en.wikipedia.org/wiki/Mohism)
 -   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
--   anti-tribal: "impartial caring" or "universal love"
+-   Anti-tribal: "impartial caring" or "universal love"
 -   "We begin with what is near."
 -   "Befriending the learned"
 -   "On the necessity of standards"
+
+>   [F]ormulated China's first explicit ethical and political theories
+>   and advanced the world's earliest form of consequentialism, a
+>   remarkably sophisticated version based on a plurality of intrinsic
+>   goods taken as constitutive of collective human welfare. [^Fraser2020]
+
+See also:
+
+-   [Consequentialism](ethics.html#consequentialism)
+
+[^Fraser2020]: @Fraser_2020_Mohism\.
+
 
 #### Shinto
 
@@ -1492,6 +1504,10 @@ See also:
 >   explanations of natural phenomena and thus dispel the fear of the gods,
 >   while philosophy helps to show us the natural limits of our desires and
 >   to dispel the fear of death. [^OKeefe2001]
+
+See also:
+
+-   [Consequentialism](ethics.html#consequentialism)
 
 [^OKeefe2001]: @OKeefe_2001_Epicurus\.
 [^Pigliucci2019]: @Pigliucci_2019_Epic_battles_in_practical_ethics_Stoicism_vs\.

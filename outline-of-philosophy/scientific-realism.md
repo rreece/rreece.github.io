@@ -883,7 +883,7 @@ Also:
 -   Movements in "positivism": [positivists.org/blog/movements](http://positivists.org/blog/movements)
 -   Neopositivism
 -   Richard Creathe
--   Ladyman & Ross [^Ladyman2007pX]
+-   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007pX]
 -   Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
 
 Later we will discuss [postpositivism](#postpositivism), which refers to
@@ -1349,7 +1349,7 @@ Poincar&eacute;:
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)
--   Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go*. [^Ladyman2007]
+-   Ladyman, J., Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007]
     -   Polemic against metaphysics.
     -   Rainforest realism: Scale-relative ontology
 -   Frigg, R. & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask. [^Frigg2011]

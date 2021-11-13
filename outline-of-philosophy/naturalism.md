@@ -9,8 +9,9 @@ Regardless of how one views the realism debate
 naturalism shows a provocative, unifying way of viewing the projects of
 philosophy and science.
 
-Here we also discuss additional _**meta-philosophical**_ issues
-and other worldviews in constrast to naturalism.
+Here we also discuss additional _**meta-philosophical**_ issues,
+other worldviews in constrast to naturalism,
+and the culture wars between worldviews.
 
 <!-- PAGETOC -->
 
@@ -73,7 +74,7 @@ Jacobs:
 >   a distinctively a priori project of theorizing.  [^Jacobs2002]
 
 Naturalism could be defined as a support for philosophy that is filtered for
-plausibility given the information from science[^Ladyman2007pX].
+plausibility given the information from science. [^Ladyman2007pX]
 See the [Outline on the science method](scientific-method.html#is-there-a-universal-scientific-method).
 
 Maudlin gives clear naturalist attitude at the start of *The Metaphysics within Physics*:
@@ -718,7 +719,7 @@ Criticisms of naturalism
     -   Sokal [^Sokal1996]
     -   Weinberg, S. (1996). [Sokal's Hoax](https://physics.nyu.edu/faculty/sokal/weinberg.html). *The New York Review of Books*. [^Weinberg1996]
 -   Defenses of naturalism:
-    -   *Every Thing Must Go* [^Ladyman2007]
+    -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007]
     -   Rosenberg, A. [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/). *New York Times*. [^Rosenberg2011]
     -   Mallon, R. (2019). [Naturalistic approaches to social construction](https://plato.stanford.edu/entries/social-construction-naturalistic/). *Stanford Encyclopedia of Philosophy*. 
 -   Criticisms of postmodernism:
@@ -839,6 +840,9 @@ Dang & Bright:
     -   Stock, K. (2021). [I refuse to be bullied into silence](https://www.dailymail.co.uk/news/article-9155659/I-refuse-bullied-silence-PROFESSOR-KATHLEEN-STOCK.html).
 -   Diversity in philosophy
     -   Gross, D.A. (2021). [Peter Singer is committed to controversial ideas](https://www.newyorker.com/culture/the-new-yorker-interview/peter-singer-is-committed-to-controversial-ideas). *The New Yorker*. April 25, 2021.
+-   Intellectual Dark Web (IDW)
+    -   Weiss, B. (2018). [Meet the Renegades of the Intellectual Dark Web](https://web.archive.org/web/20200131000213/https://www.nytimes.com/2018/05/08/opinion/intellectual-dark-web.html). *The New York Times*.
+    -   Kanelos, P. (2021). [We can't wait for universities to fix themselves. So we're starting a new one.](https://bariweiss.substack.com/p/we-cant-wait-for-universities-to) (Announcement of [The University of Austin](https://www.uaustin.org/).)
 
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.

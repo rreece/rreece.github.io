@@ -80,11 +80,17 @@ Consequentialism
 -   Portmore
     -   *Commonsense Consequentialism* [^Portmore2011]
 
+See also:
+
+-   [Epicureanism](human-condition.html#epicureanism)
+-   [Mohism](human-condition.html#mohism)
+
 [^Portmore2011]: @Portmore_2011_Commonsense_Consequentialism\.
 
 
 ### Hedonism
 
+-   [Yang Zhu](https://en.wikipedia.org/wiki/Yang_Zhu) (440-360 BCE)
 -   Epicurianism
 -   De Quincey, T. (1821). *Confessions of an English Opium-Eater*.
 -   Hunter S. Thompson
@@ -717,6 +723,7 @@ Click to show links
 -   [Veil of ignorance](https://en.wikipedia.org/wiki/Veil_of_ignorance)
 -   [Victor Kraft (1880-1975)](https://en.wikipedia.org/wiki/Victor_Kraft)
 -   [Von Neumann-Morgenstern utility theorem](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem)
+-   [Yang Zhu (440-360 BCE)](https://en.wikipedia.org/wiki/Yang_Zhu)
 
 ### Others
 

@@ -40,6 +40,7 @@ Ichikawa, J. & Jenkins, C. (2017). On putting knowledge 'first'. In Carter, J.A.
 Juhl, C. & Loomis, E. (2009). *Analyticity*. Routledge.
 Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1787)]
 Leibniz, G.W. (1996). *New Essays on Human Understanding* (P. Remnant & J. Bennett, Trans.). New York: Cambridge University Press. [(Originally written in 1704)]
+Lin, J.Y. (1995). The Needham Puzzle: Why the industrial revolution did not originate in China. *Economic Development and Cultural Change*, 43, 269--292.
 McComas, W.F. (1996). Ten myths of science: Reexamining what we think we know about the nature of science. *School Science and Mathematics*, 96(1), 10--16.
 McComas, W.F. (2008). Seeking historical examples to illustrate key aspects of the nature of science. *Science & Education*, 17(2-3), 249--263.
 McComas, W.F. (2002). The principal elements of the nature of science: Dispelling the myths. In McComas, W.F. (Ed.), *The Nature of Science in Science Education* (pp. 53--70). Springer Netherlands.
@@ -63,6 +64,7 @@ Sabra, A.I. (1978). An eleventh-century refutation of Ptolemy's planetary theory
 Salmon, W.C. (1953). The uniformity of nature. *Philosophy and Phenomenological Research*, 14, 39--48.
 Schurz, G. (2019). *Hume's Problem Solved: The optimality of meta-induction*. MIT Press.
 {Sextus Empiricus}. (1933). *Outlines of Pyrrhonism* (R.G. Bury, Trans.). London: W. Heinemann.
+Sivin, N. (1995). Why the scientific revolution did not take place in China---Or didn't it? In Sivin, N. (Ed.), *Science in Ancient China*. Aldershot, Hants: Variorum. http://ccat.sas.upenn.edu/~nsivin/scirev.pdf
 Suppes, P. (1961). A comparison of the meaning and uses of models in mathematics and the empirical sciences. In *The Concept and the Role of the Model in Mathematics and Natural and Social Sciences* (pp. 163--177). Springer, Dordrecht.
 Suppes, P. (1967). What is a scientific theory? In Morgenbesser, S. (Ed.) *Philosophy of Science Today* (pp. 55-67). Basic Books.
 Vickers, J. (2014). The problem of induction. *Stanford Encyclopedia of Philosophy*. https://stanford.library.sydney.edu.au/archives/sum2016/entries/induction-problem/
