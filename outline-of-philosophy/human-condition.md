@@ -153,6 +153,9 @@ See also:
 
 -   Muehlhauser, L. (2017). [Three wild speculations from amateur quantitative macrohistory](http://lukemuehlhauser.com/three-wild-speculations-from-amateur-quantitative-macrohistory/).
 -   Muehlhauser, L. (2017). [How big a deal was the Industrial Revolution?](http://lukemuehlhauser.com/industrial-revolution/)
+-   [The Needham Question](https://en.wikipedia.org/wiki/Science_and_Civilisation_in_China#The_Needham_Question)
+    -   Sivin, N. (1995). [Why the scientific revolution did not take place in China---Or didn't it?](http://ccat.sas.upenn.edu/~nsivin/scirev.pdf) [^Sivin1995]
+    -   Lin, J.Y. (1995). The Needham Puzzle: Why the industrial revolution did not originate in China. [^Lin1995]
 
 Feynman:
 
@@ -184,6 +187,8 @@ See also:
     in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html)
 
 [^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
+[^Lin1995]: @Lin_1995_The_Needham_Puzzle_Why_the_industrial_revolution\.
+[^Sivin1995]: @Sivin_1995_Why_the_scientific_revolution_did_not_take_place\.
 
 
 Proto-Indo-European mythology
@@ -1787,11 +1792,14 @@ Biology
 
 ### Genetics
 
+-   Schr&ouml;dinger, E. (1944). *What Is Life? The Physical Aspect of the Living Cell*. [^Schrodinger1944]
 -   DNA
 -   [Drew Berry: Animations of unseeable biology](https://www.youtube.com/watch?v=WFCvkkDSfIU)
 -   Epigenetics
 
 ![Animation by Drew Berry of DNA replication, where a helicase enzyme unzips DNA, and DNA polymerase synthesizes new strands with complimentary nucleotides.](img/drew-berry-dna-animation.gif){#fig:drew-berry-dna-animation}
+
+[^Schrodinger1944]: @Schrodinger_1944_What_Is_Life_The_Physical_Aspect_of_the_Living\.
 
 
 ### Biochemistry

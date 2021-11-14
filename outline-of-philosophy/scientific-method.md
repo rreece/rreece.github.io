@@ -41,11 +41,10 @@ Click to show the paltry outline of the history of science
     -   skepticism, anti-dogmatism
 -   [Zou Yan](https://en.wikipedia.org/wiki/Zou_Yan) (305-240 BCE)
 -   [The Needham Question](https://en.wikipedia.org/wiki/Science_and_Civilisation_in_China#The_Needham_Question)
-    -   Sivin, N. (1995). [Why the scientific revolution did not take place in China---Or didn't it?](http://ccat.sas.upenn.edu/~nsivin/scirev.pdf) [^Sivin1995]
-    -   Lin, J.Y. (1995). The Needham Puzzle: Why the industrial revolution did not originate in China. [^Lin1995]
 
-[^Lin1995]: @Lin_1995_The_Needham_Puzzle_Why_the_industrial_revolution\.
-[^Sivin1995]: @Sivin_1995_Why_the_scientific_revolution_did_not_take_place\.
+See also:
+
+[Industrial revolution](human-condition.html#industrial-revolution)
 
 
 #### Western

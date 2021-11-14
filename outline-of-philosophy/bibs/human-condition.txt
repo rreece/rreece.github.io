@@ -28,6 +28,7 @@ Katz, V. & Egenes, T. (2015). *The Upanishads: A New Translation*. Penguin.
 Kellogg, C. (2009). An American reader: Bill Clinton, *Los Angeles Times*. https://latimesblogs.latimes.com/jacketcopy/2009/07/america-reads-bill-clinton.html
 Leiter, B. (2019). The death of God and the death of morality. *The Monist*, 102(3), 386--402.
 Lewis, C. S. (1955). *Surprised by Joy*. Harvest.
+Lin, J.Y. (1995). The Needham Puzzle: Why the industrial revolution did not originate in China. *Economic Development and Cultural Change*, 43, 269--292.
 Lucretius (1995). *On the Nature of Things: De Rerum Natura* (A.M. Esolen, Trans.). Johns Hopkins University Press. [(Originally written in the first century BCE)]
 Mackie, J.L. (1983). *The Miracle of Theism: Arguments for and against the existence of God*. Oxford University Press.
 Mac Suibhne, S. (2009). Wrestle to be the man philosophy wished to make you: Marcus Aurelius, reflective practitioner. *Reflective Practice*, 10(4), 429--436.
@@ -53,7 +54,9 @@ Sadakata, A. (1997). *Buddhist Cosmology: Philosophy and Origins* (G. Sekimori, 
 Sartre, J.P. (2007). *Existentialism is a Humanism* (C. Macomber, Trans.). Yale University Press. [(Originally published in 1948 as \emph{L'Existentialisme est un Humanisme})]
 Schopenhauer, A. (2014). *The World as Will and Representation, Vol. 1 and 2* (J. Norman & A. Welchman & C. Janaway, Eds.). Cambridge University Press. [(Originally published as \emph{Die Welt als Wille und Vorstellung}, Vol. 1 in 1818, Vol. 2 in 1844)]
 Schopenhauer, A. (2015). *On the Fourfold Root of the Principle of Sufficient Reason and Other Writings* (D.E. Cartwright & E.E. Erdmann & C. Janaway, Eds.). Cambridge University Press. [(Originally published as Schopenhauer's doctoral dissertation in 1813)]
+Schr{\"o}dinger, E. (1944). *What Is Life? The Physical Aspect of the Living Cell*. Cambridge University Press.
 Seneca. (1997). *On the Shortness of Life* (C.D.N. Costa, Trans.). Penguin Books. [(Originally written in 49 CE and titled \emph{De Brevitate Vitae})]
+Sivin, N. (1995). Why the scientific revolution did not take place in China---Or didn't it? In Sivin, N. (Ed.), *Science in Ancient China*. Aldershot, Hants: Variorum. http://ccat.sas.upenn.edu/~nsivin/scirev.pdf
 Smith, R.J. (2012). How the Book of Changes Arrived in the West. *New England Review*, 33, 25--41. https://scholarship.rice.edu/bitstream/handle/1911/72082/Book-of-Changes.pdf
 Wells, S. (2013). *Skeptic's Annotated Bible*. SAB Books. https://www.skepticsannotatedbible.com/
 Williams, P. (2009). *Mahayana Buddhism: The doctrinal foundations* (2n ed.). Routledge.

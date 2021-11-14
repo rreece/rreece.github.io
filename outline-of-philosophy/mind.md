@@ -58,14 +58,6 @@ Dualism
     -   *The Concept of Mind* (1949)
 
 
-Idealism
---------------------------------------------------------------------------------
-
--   Berkeley
--   Heidegger
--   [Markus Gabriel equates German idealism with realism](https://www.youtube.com/watch?v=_TjK5sWvKJs) (3 mins)
-
-
 Physicalism
 --------------------------------------------------------------------------------
 
@@ -97,6 +89,10 @@ Panpsychism
 -   Chalmers
 -   Rejection of dualism vs physicalism dichotomy
 -   Conway's "freewill theorem"
+
+See also:
+
+-   [Idealism](scientific-realism.html#idealism)
 
 
 Neuroscience

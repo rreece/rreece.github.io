@@ -241,6 +241,13 @@ See also:
 
 -   [Buddhism](human-condition.html#buddhism)
 -   [Hinduism](human-condition.html#hinduism)
+-   [Panpsychism](mind.html#panpsychism)
+
+
+### Discussion
+
+-   [Markus Gabriel equates German idealism with realism](https://www.youtube.com/watch?v=_TjK5sWvKJs) (3 mins)
+
 
 ### Criticism
 
