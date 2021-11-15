@@ -489,7 +489,7 @@ Table: Kant's division of judgments. {#tbl:kants-division-of-judgements}
         even in the simple example "7 + 5 = 12", since the concept of
         "12" is not contained in the concepts of "7", "5", or "+".
     -   Transcendental Deduction of the Categories (TDC)
-    -   [Twitter thread on the CPR by Helen De Cruz](https://twitter.com/Helenreflects/status/1459374260955320320)
+    -   [Twitter thread on the CPR by Helen De Cruz](https://twitter.com/Helenreflects/status/1459374260955320320) - ([threadreadered](https://threadreaderapp.com/thread/1459374260955320320.html))
 
 Kant in his *Critique of Pure Reason* (1787):
 
@@ -522,6 +522,7 @@ and
 >   **How are synthetic judgments possible a priori?** [^Kant1787pB19]
 
 -   Carnap
+    -   In *The Logical Syntax of Language*, Carnap rejects the synthetic a priori. TODO: find ref.
     -   Empiricism, semantics, and ontology [^Carnap1950a]
     -   internal vs external questions
 -   Kripke
