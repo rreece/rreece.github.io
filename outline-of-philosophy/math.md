@@ -157,6 +157,7 @@ Number theory
 -   Axiom of unrestricted comprehension and Naive Set Theory
 -   Russell's paradox
 -   Axiom schema of specification AKA Axiom of restricted comprehension
+-   von Neumann's set theoretical definition of numbers
 -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory) + [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) = ZFC
 
 

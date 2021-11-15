@@ -314,6 +314,7 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
 ### Analytic/continental divide
 
 -   [Counter-Enlightenment](https://en.wikipedia.org/wiki/Counter-Enlightenment)
+    -   [Johann Georg Hamann](https://en.wikipedia.org/wiki/Johann_Georg_Hamann) (1730-1788)
     -   G.W.F. Hegel (1770-1831)
     -   Martin Heidegger (1889-1976)
     -   Criticism of Kant
@@ -326,6 +327,10 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
     -   Gabriel, G. (2003). Carnap's "Elimination of metaphysics through logical analysis of language". [^Gabriel2003]
     -   Luchte, J. (2007). [Martin Heidegger and Rudolf Carnap: Radical Phenomenology, Logical Positivism and the Roots of the Continental/Analytic Divide](https://luchte.wordpress.com/martin-heidegger-and-rudolf-carnap-radical-phenomenology-logical-positivism-and-the-roots-of-the-continentalanalytic-divide/).
     -   Dresser, S. (2020). [Does philosophy reside in the unsayable or should it care only for precision? Carnap, Heidegger and the great divergence](https://aeon.co/essays/heidegger-v-carnap-how-logic-took-issue-with-metaphysics).
+
+See also:
+
+-   [Romanticism](human-condition.html#romanticism)
 
 [^Carnap1932]: @Carnap_1932_The_elimination_of_metaphysics_through_logical\.
 [^Friedman2000]: @Friedman_2000_A_Parting_of_the_Ways_Carnap_Cassirer\.

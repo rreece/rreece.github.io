@@ -438,6 +438,7 @@ Hume:
     -   *Universal Natural History and Theory of the Heavens* (1755)
         -   Nebular hypothesis of star and solar system formation
     -   *Critique of Pure Reason* (1781), 2nd edition in 1787 [^Kant1996]
+    -   *Prolegomena to Any Future Metaphysics* (1783)
     -   *Metaphysical Foundations of Natural Science* (1786)
     -   *Critique of Practical Reason* (1788)
     -   *Critique of Judgment* (1790)
@@ -487,6 +488,8 @@ Table: Kant's division of judgments. {#tbl:kants-division-of-judgements}
     -   Kant argues that all of pure mathematics is synthetic a priori,
         even in the simple example "7 + 5 = 12", since the concept of
         "12" is not contained in the concepts of "7", "5", or "+".
+    -   Transcendental Deduction of the Categories (TDC)
+    -   [Twitter thread on the CPR by Helen De Cruz](https://twitter.com/Helenreflects/status/1459374260955320320)
 
 Kant in his *Critique of Pure Reason* (1787):
 
