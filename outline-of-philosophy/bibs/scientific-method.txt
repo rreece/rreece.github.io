@@ -1,6 +1,7 @@
 Allain, R. (2013). What's wrong with the scientific method? *Wired*. https://www.wired.com/2013/04/whats-wrong-with-the-scientific-method/ [April 1, 2013]
 Aronson, D. (2007). *Evidence-Based Technical Analysis*. John Wiley & Sons.
 Aumann, R.J. (1976). Agreeing to disagree. *The Annals of Statistics*, 4(6), 1236--9.
+Awodey, S. & Carus, A.W. (2007). Carnap's dream: G{\"o}del, Wittgenstein, and Logical Syntax. *Synthese*, 159, 23--45. https://link.springer.com/article/10.1007/s11229-006-9066-4
 Bhaskar, R. (2008). *A Realist Theory of Science*. Routledge.
 Blachowicz, J. (2009). How science textbooks treat scientific method: A philosopher's perspective. *The British Journal for the Philosophy of Science*, 60(2), 303--344.
 Blachowicz, J. (2016). There is no scientific method. *The New York Times*. https://www.nytimes.com/2016/07/04/opinion/there-is-no-scientific-method.html [July 4, 2016]

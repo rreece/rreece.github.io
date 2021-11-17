@@ -13,6 +13,9 @@ Here we also discuss additional _**meta-philosophical**_ issues,
 other worldviews in constrast to naturalism,
 and the culture wars between worldviews.
 
+This could have been called the outline on "Meta-philosophy".
+
+
 <!-- PAGETOC -->
 
 
@@ -461,8 +464,9 @@ Wittgenstein:
 >   constituent parts, and into those propositions which completely
 >   describe the complexes. [^Wittgenstein1922L20201]
 
-Alex Rosenberg is a mad dog against emergence. Video:
-[Alex Rosenberg interviewed for *Why Are We Here?*](https://www.whyarewehere.tv/people/alex-rosenberg/)
+-   Carnap, R. (1934). On the character of philophical problems. [^Carnap1934]
+-   Alex Rosenberg is a mad dog against emergence.
+    Video: [Alex Rosenberg interviewed for *Why Are We Here?*](https://www.whyarewehere.tv/people/alex-rosenberg/)
 
 ![Reductionism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism), 2014).](img/reductionism.png){#fig:reductionism}
 
@@ -475,6 +479,7 @@ Alex Rosenberg is a mad dog against emergence. Video:
 -   Hempel's dilemma
 -   [Robert Sapolsky (2010) lecture: Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo)
 
+[^Carnap1934]: @Carnap_1934_On_the_character_of_philophical_problems\.
 [^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
     This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,
     written in 1666 [@Leibniz_1989_Dissertatio_de_Arte_Combinatoria, 73].

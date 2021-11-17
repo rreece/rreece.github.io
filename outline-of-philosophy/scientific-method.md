@@ -10,6 +10,8 @@ and philosophy of science.
 The metaphysical implications of science
 are discussed in the [Outline on scientific realism](scientific-realism.html).
 
+This could have been called the outline on "Epistemology".
+
 
 <!-- PAGETOC -->
 
@@ -521,23 +523,44 @@ and
 >   this question:              
 >   **How are synthetic judgments possible a priori?** [^Kant1787pB19]
 
--   Carnap
-    -   In *The Logical Syntax of Language*, Carnap rejects the synthetic a priori. TODO: find ref.
-    -   Empiricism, semantics, and ontology [^Carnap1950a]
-    -   internal vs external questions
--   Kripke
-    -   Claims there are *a posteriori* necessary truths in *Naming and Necessity* (1980).
--   Papineau
-    -   *Philosophical Devices* (2012) [^Papineau2012]
+Moore:
 
-[^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
+>   It is a well-known fact in the history of philosophy that necessary
+>   truths in general, but especially those of which it is said that the
+>   opposite is inconceivable, have been commonly supposed to be analytic,
+>   in the sense that the proposition denying them was self-contradictory.
+>   It was in this way, commonly supposed, before Kant, that many truths
+>   could be proved by the law of contradiction alone. [^Moore1903p6]
+
+Vienna Circle manifesto:
+
+>   In such a way logical analysis overcomes not only metaphysics in the proper,
+>   classical sense of the word, especially scholastic metaphysics and that of
+>   the systems of German idealism, but also the hidden metaphysics of Kantian
+>   and modern *apriorism*. The scientific world-conception knows no unconditionally
+>   valid knowledge derived from pure reason, no 'synthetic judgments a priori'
+>   of the kind that lie at the basis of Kantian epistemology and even more of
+>   all pre- and post-Kantian ontology and metaphysics. The judgments of
+>   arithmetic, geometry, and certain fundamental principles of physics,
+>   that Kant took as examples of a priori knowledge will be discussed later.
+>   It is precisely in the rejection of the possibility of synthetic knowledge
+>   a priori that the basic thesis of modern empiricism lies. The scientific
+>   world-conception knows only empirical statements about things of all kinds,
+>   and analytic statements of logic and mathematics. [^Hahn1973Sec2]
+
+See also:
+
+-   [Logical positivism and the Vienna Circle](scientific-realism.html#logical-positivism-and-the-vienna-circle)
+
+[^Carnap1937LSLp182]: @Carnap_1937_Logical_Syntax_of_Language\, p. 182.
 [^Dicker1991]: @Dicker_1991_Humes_fork_revisited\.
+[^Hahn1973Sec2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 2.
 [^Hume2007p120flames]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
     Section XII, p. 120.
 [^Kant1787pBviii]: @Kant_1996_Critique_of_Pure_Reason\, p. Bviii--ix\.
 [^Kant1787pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
 [^Kant1787pB19]: @Kant_1996_Critique_of_Pure_Reason\, p. B19\.
-[^Papineau2012]: @Papineau_2012_Philosophical_Devices_Proofs_Probabilities\.
+[^Moore1903p6]: @Moore_1903_The_refutation_of_idealism\, p. 6--7.
 
 
 ### Formal epistemology
@@ -546,6 +569,29 @@ and
 -   *Introduction to Formal Philosophy* (2018) [^Hansson2018]
 -   *The Open Handbook of Formal Epistemology* (2019) [^Pettigrew2019]
 
+Carnap:
+
+-   In *The Logical Syntax of Language* (*LSL*),           
+    analytic: $L$-valid,            
+    contradictory: $L$-contravalid,          
+    synthetic: $L$-indeterminate. [^Carnap1937LSLp182]
+-   Carnap rejects the synthetic a priori:
+
+>   **Theorem 52.3.** Every logical sentence is $L$-determinate;
+>   *there are no synthetic logical sentences*. [^Carnap1937LSLp184]
+
+-   TODO: Note issues from G&ouml;del. [^Awodey2007]
+-   Empiricism, semantics, and ontology [^Carnap1950a]
+-   internal vs external questions
+
+Kripke:
+
+-   Claims there are *a posteriori* necessary truths in *Naming and Necessity* (1980).
+
+Papineau:
+
+-   *Philosophical Devices* (2012) [^Papineau2012]
+
 See also:
 
 -   [Inductive logic](scientific-method.html#inductive-logic)
@@ -553,8 +599,12 @@ See also:
 -   [Model theory](math.html#model-theory)
 -   [Positivism](scientific-realism.html#positivism)
 
+[^Awodey2007]: @Awodey_2007_Carnaps_dream_Godel_Wittgenstein\.
+[^Carnap1937LSLp184]: @Carnap_1937_Logical_Syntax_of_Language\, p. 184.
+[^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Hansson2018]: @Hansson_2018_Introduction_to_Formal_Philosophy\.
 [^Pettigrew2019]: @Pettigrew_2019_The_Open_Handbook_of_Formal_Epistemology\.
+[^Papineau2012]: @Papineau_2012_Philosophical_Devices_Proofs_Probabilities\.
 
 
 ### Criticisms

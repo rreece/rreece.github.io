@@ -9,6 +9,8 @@ from science, while the
 [Outline on the scientific method](scientific-method.html)
 discusses the epistemological foundations and limitations of science.
 
+This could have been called the outline on "Metaphysics".
+
 
 <!-- PAGETOC -->
 
@@ -255,6 +257,9 @@ See also:
 -   [Analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy)
 -   [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) (1872-1970)
 -   [George Edward Moore](https://en.wikipedia.org/wiki/G._E._Moore) (1873-1958)
+    -   The refutation of idealism (1903) [^Moore1903]
+
+[^Moore1903]: @Moore_1903_The_refutation_of_idealism\.
 
 
 Instrumentalism
@@ -586,7 +591,8 @@ and constraining real structures in nature.
     -   AKA the Verification Principle
     -   Scheinproblem = Pseudo-problem
 3.  Carnap's principle of tolerance
-    -   Principle of Tolerance [^Leitgeb2020H]
+    -   In *LSL* [^Carnap1937LSLp51]
+    -   Leitgeb [^Leitgeb2020H]
 4.  Unity of science
 
 <center>
@@ -631,6 +637,7 @@ Fetzer:
 >   that synthetic sentences have to be justified by derivability from finite
 >   classes of observation sentences. [^Fetzer2017]
 
+[^Carnap1937LSLp51]: @Carnap_1937_Logical_Syntax_of_Language\, p. 51.
 [^Fetzer2017]: @Fetzer_2017_Carl_Hempel\.
 [^Hahn1973Sec2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 2.
 [^Leitgeb2020H]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html).
@@ -768,6 +775,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   In 1930 the Vienna Circle and the Berlin Circle took over the journal *Annalen der Philosophie*
     and made it the main journal of logical empiricism under the title *Erkenntnis*,
     edited by Carnap and Reichenbach.
+-   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932]
 -   A.J. Ayer (1910-1989)
     -   Ayer, A.J. (1936). *Language, Truth, and Logic*. [^Ayer1936]
     -   Helped the spread of positivism in British academia.
@@ -781,6 +789,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
+[^Carnap1932]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\. <https://iep.utm.edu/viennacr/>
 [^Schlick1948]: @Schlick_1948_Positivism_and_realism\.
@@ -824,14 +833,13 @@ Reichenbach on probability:
 -   TODO: Positivism affects the structure of education and law
 -   TODO: Connection to the projects of Dewey and pragmatism
 
-Carnap on ontology:
+#### Carnap on language and ontology
 
--   Carnap, R. (1937). *The Logical Syntax of Language*. [^Carnap1937LSL]
+-   Carnap, R. (1937). *The Logical Syntax of Language*. (*LSL*)[^Carnap1937LSL]
     -   Fowler, S. (2010). LSL in a nutshell. [^Fowler2010]
     -   Leitgeb & Carus: "talk of meaning should in any case be eschewed in favor of talk of syntax" [^Leitgeb2020G]
     -   Blanchette, P. (2013). Talk: [Frege and G&ouml;del on mathematics as syntax](https://www.youtube.com/watch?v=y8yZp-cjR2I).
--   Carnap, R. (1950). Empiricists, semantics, and ontology. [^Carnap1950]
-    -   "ESO"
+-   Carnap, R. (1950). Empiricists, semantics, and ontology. (ESO) [^Carnap1950]
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
     -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
 
@@ -1090,7 +1098,7 @@ Nietzsche:
 >   We can establish no fact "in itself": it is perhaps nonsense to want
 >   such a thing. You say "Everything is subjective": but that is already
 >   an interpretation, the "subject" is not anything given, but something
->   invented and added, something stuck behind\ldots To the extent that
+>   invented and added, something stuck behind... To the extent that
 >   the word "knowledge" [*Erkenntnis*] has any sense, the world is knowable:
 >   but it is interpretable differently, it has no sense behind it, but
 >   innumerable senses, "perspectivism". It is our needs that interpret the
