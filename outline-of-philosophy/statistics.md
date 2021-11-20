@@ -1424,6 +1424,7 @@ Blogs:
 -   VisionTransformer [^Dosovitskiy2020]
 -   EfficientNetV2 [^Tan2021]
 -   gMLP [^Liu2021]
+-   Liu, Y. et al. (2021). [A survey of visual transformers](https://arxiv.org/abs/2111.06091).
 
 Resources:
 

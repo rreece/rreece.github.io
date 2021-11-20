@@ -9,7 +9,7 @@ from science, while the
 [Outline on the scientific method](scientific-method.html)
 discusses the epistemological foundations and limitations of science.
 
-This could have been called the outline on "Metaphysics".
+This could have been called the outline of "Metaphysics".
 
 
 <!-- PAGETOC -->
@@ -843,6 +843,15 @@ Reichenbach on probability:
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
     -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
 
+>   An alleged statement of the reality of the system of entities is a
+>   pseudo-statement without cognitive content. To be sure, we have to face
+>   at this point an important question; but it is a practical, not a
+>   theoretical question; it is the question of whether or not to accept the
+>   new linguistic forms. The acceptance cannot be judged as being either
+>   true or false because it is not an assertion. It can only be judged as
+>   being more or less expedient, fruitful, conducive to the aim for which
+>   the language is intended. [^Carnap1950p7]
+
 Some more Carnap works:
 
 -   Carnap, R. (1955). Logical foundations of science. [^Carnap1955]
@@ -911,6 +920,7 @@ with strong contrasts to positivism that were developing around it:
 [^Carnap1937]: @Carnap_1937_Testability_and_meaning_continued\.
 [^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
+[^Carnap1950p7]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 7.
 [^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 [^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
@@ -1061,6 +1071,7 @@ Various reactions to positivism.
 -   Willard Van Orman Quine (1908-2000)
 -   Thomas Kuhn (1922-1996)
 -   Imre Lakatos (1922-1974)
+-   Hilary Putnam (1926-2016)
 -   Nancy Cartwright (b. 1944)
 -   TODO: Khanna [^Khanna2018]
 -   de Swart [^deSwart2018p351]
@@ -1089,6 +1100,7 @@ Various reactions to positivism.
 -   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
 -   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986]
 -   Quine-Carnap correspondence [^Quine1990-2]
+-   Putnam, H. (1973). Meaning and reference. [^Putnam1973]
 -   Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? [^Yablo1998]
 
 Nietzsche:
@@ -1112,6 +1124,7 @@ See also:
     in the [Outline on the scientific method](scientific-method.html).
 
 [^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
+[^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
 [^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1960]: @Quine_1960_Word_and_Object\.
 [^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
@@ -1234,6 +1247,8 @@ Friedman:
     -   *falsifiability* over *verifiability*
 -   Suppe, F. (1974). *The Structure of Scientific Theories*. [^Suppe1974]
 -   Sellars
+-   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (b. 1940)
+    -   Naming directly; causal theory of names; natural kinds
 -   Putnam, NMA
 -   Sankey [^Sankey2015]
 -   Talk by Sankey: [Scepticism, Relativism and Naturalistic Particularism](https://www.youtube.com/watch?v=QyEFaJf_Dyo)

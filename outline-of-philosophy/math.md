@@ -357,6 +357,8 @@ See also:
         about the truth-values that propositions take in worlds other than
         the actual world.
 -   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (b. 1940)
+    -   Kripke, S.A. (1959). A completeness theorem in modal logic. [^Kripke1959]
+    -   Revives Leibniz's idea that necessity is truth in all possible worlds.
 -   [David Lewis](https://en.wikipedia.org/wiki/David_Lewis_(philosopher)) (1941-2001)
     -   *On the Plurality of Worlds* (1986) [^Lewis1986]
 
@@ -374,6 +376,7 @@ $$ \Box P = \lnot \Diamond \lnot P $$
 
 -   [Security logic](https://www.johndcook.com/blog/2018/10/30/modal-logic-security/)
 
+[^Kripke1959]: @Kripke_1959_A_completeness_theorem_in_modal_logic\.
 [^Lewis1917]: @Lewis_1917_The_issues_concerning_material_implication\.
 [^Lewis1986]: @Lewis_1986_On_the_Plurality_of_Worlds\.
 

@@ -10,7 +10,7 @@ and philosophy of science.
 The metaphysical implications of science
 are discussed in the [Outline on scientific realism](scientific-realism.html).
 
-This could have been called the outline on "Epistemology".
+This could have been called the outline of "Epistemology".
 
 
 <!-- PAGETOC -->
@@ -345,6 +345,8 @@ See also:
 -   [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) (1903-1957)
 -   [Alonzo Church](https://en.wikipedia.org/wiki/Alonzo_Church) (1903-1995)
 -   [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) (1912-1954)
+-   [Konrad Zuse](https://en.wikipedia.org/wiki/Konrad_Zuse) (1910-1995)
+-   [ENIAC](https://en.wikipedia.org/wiki/ENIAC)
 -   TODO
 
 </div> <!-- end history_of_science -->

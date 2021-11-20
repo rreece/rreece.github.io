@@ -189,6 +189,7 @@ Moral realism
     -   See the outline on [Naturalism](naturalism.html#ethical-naturalism).
 -   Murdoch, Iris. (1999). *The Sovereignty of Good*.
 -   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
+    -   Scanlon, T.M. (2000). *What We Owe to Each Other* [^Scanlon2000]
 
 Plato:
 
@@ -210,6 +211,7 @@ Plato:
 
 [^Bjornsson2010]: @Bjornsson_2010_Metaethical_contextualism_defended\.
 [^RepublicV476c]: Plato, *Republic V* 476c, @Cooper_1997_Plato_Complete_works\, p. 1103.
+[^Scanlon2000]: @Scanlon_2000_What_We_Owe_to_Each_Other\.
 
 
 ### Discussion

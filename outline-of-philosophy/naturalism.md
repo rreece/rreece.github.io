@@ -13,7 +13,7 @@ Here we also discuss additional _**meta-philosophical**_ issues,
 other worldviews in constrast to naturalism,
 and the culture wars between worldviews.
 
-This could have been called the outline on "Meta-philosophy".
+This could have been called the outline of "Meta-philosophy".
 
 
 <!-- PAGETOC -->
