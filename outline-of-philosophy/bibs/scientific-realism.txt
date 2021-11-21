@@ -15,6 +15,7 @@ Dennett, D.C. (1991). Real patterns. *The Journal of Philosophy*, 88, 27--51. ht
 Fetzer, J. (2017). Carl Hempel. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/hempel
 Friedman, M. & Creath, R. (2007). *The Cambridge Companion to Carnap*. Cambridge University Press.
 Frigg, R., & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask. *European Journal for Philosophy of Science*, 1, 227--276.
+Grice, H.P. & Strawson, P.F. (1956). In defense of a dogma. *The Philosophical Review*, 65, 141--158.
 Guyer, P. & Horstmann, R. (2021). Idealism. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/idealism/
 Hempel, C.G. (1950). Problems and changes in the empiricist criterion of meaning. *Revue Internationale de Philosophie*, 4, 41--63.
 Hempel, C.G. (1974). Formulation and formalization of scientific theories. In  Suppe, F. (Ed.). *The Structure of Scientific Theories*. University of Illinois Press.

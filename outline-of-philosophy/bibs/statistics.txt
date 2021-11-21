@@ -94,6 +94,7 @@ Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computa
 Howard, A.G. et al. (2017). MobileNets: Efficient convolutional neural networks for mobile vision applications. https://arxiv.org/abs/1704.04861
 Howard, J.N., Mandt, S., Whiteson, D., & Yang, Y. (2021). Foundations of a fast, data-driven, machine-learned simulator. https://arxiv.org/abs/2101.08944
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
+Hutchins, J. (2000). Yehoshua Bar-Hillel: A philosophers' contribution to machine translation.
 Ioannidis, J.P. (2005). Why most published research findings are false. *PLOS Medicine*, 2(8), 696--701.
 James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
 Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434(2-3), 435--443. https://arxiv.org/abs/hep-ex/9902006
@@ -141,6 +142,7 @@ Neyman, J. (1957). "Inductive behavior" as a basic concept of philosophy of scie
 Neyman, J. (1977). Frequentist probability and frequentist statistics. *Synthese*, 36(1), 97--131.
 Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
 Nielsen, F. (2018). An elementary introduction to information geometry. https://arxiv.org/abs/1808.08271
+Nirenburg, S. (1996). Bar Hillel and Machine Translation: Then and Now.
 O'Hagan, A. (2010). *Kendall's Advanced Theory of Statistics, Vol 2B: Bayesian Inference*. Wiley.
 Pearson, K. (1900). On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, 50, 157--175.
 Peirce, C.S. (1883). *Studies in Logic*. Boston: Little, Brown, and Co.

@@ -168,9 +168,16 @@ Number theory
     -   [Cantor's first set theory article](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article)
     -   Proved that the real numbers are uncountably infinite.
     -   The cardinalities of $\mathbb{R}$ and $\mathbb{R}^n$ are both $C$.
+-   [Cantor's theorem](https://en.wikipedia.org/wiki/Cantor%27s_theorem)
+    -   Let $|A| \equiv \mathrm{card}(A)$ denote the cardinality (i.e size) of a set, $A$.
+    -   A power set, $P(A)$, of a set, $A$, is the set of all subsets of $A$.
+    -   The cardinality of a power set is $|P(A)| = 2^{|A|}$
+    -   The cardinality of the natural numbers: $\aleph_0 \equiv |\mathbb{N}|$
+    -   The cardinality of the reals: $C \equiv |\mathbb{R}| = |P(\mathbb{N})| = 2^{|\mathbb{N}|} = 2^{\aleph_0} > \aleph_0$
 -   Ordinal (index) vs cardinal (size) numbers
 -   [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
 -   [Continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) (CH)
+    -   CH: There is no set $S$ such that $\aleph_0 < |S| < \aleph_1$
     -   Paul Cohen showed the CH is undecidable in ZFC (1963).
 
 [Transfinite numbers](https://en.wikipedia.org/wiki/Transfinite_number):
@@ -400,7 +407,12 @@ $$ \Box P = \lnot \Diamond \lnot P $$
     -   Dialetheism rejects LNC.
     -   Rosario Mart&iacute;nez-Ordaz, M. del. (2020). The ignorance behind inconsistency toleration. [^Rosario2020]
 
+Criticism:
+
+-   Quine, W. V. (1986). Philosophy of logic. Harvard University Press. [^Quine1986]
+
 [^Priest1998]: @Priest_1998_What_is_so_bad_about_contradictions\.
+[^Quine1986]: @Quine_1986_Philosophy_of_Logic\.
 [^Rosario2020]: @Rosario_2020_The_ignorance_behind_inconsistency_toleration\.
 
 

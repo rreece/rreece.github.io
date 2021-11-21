@@ -335,7 +335,7 @@ See also:
 
 -   [Romanticism](human-condition.html#romanticism)
 
-[^Carnap1932]: @Carnap_1932_The_elimination_of_metaphysics_through_logical\.
+[^Carnap1932]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
 [^Friedman2000]: @Friedman_2000_A_Parting_of_the_Ways_Carnap_Cassirer\.
 [^Friedman2002]: @Friedman_2002_Carnap_Cassirer_and_Heidegger_The_Davos\.
 [^Gabriel2003]: @Gabriel_2003_Carnaps_Elimination_of_metaphysics_through\.

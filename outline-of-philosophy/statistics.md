@@ -1449,7 +1449,10 @@ Resources:
 ### Natural language processing
 
 -   Natural Language Processing (NLP)
--   Firth (1957)? "You shall know a word by the company it keeps"
+-   History
+    -   Firth (1957)? "You shall know a word by the company it keeps"
+    -   Nirenburg, S. (1996). [Bar Hillel and Machine Translation: Then and Now](https://web.archive.org/web/20120414235847/http://ilit.umbc.edu/SergeiPub/bar-hillel.pdf). [^Nirenburg1996]
+    -   Hutchins, J. (2000). [Yehoshua Bar-Hillel: A philosophers' contribution to machine translation](https://web.archive.org/web/20190702192948/http://www.hutchinsweb.me.uk/Bar-Hillel-2000.pdf). [^Hutchins2000]
 -   word2vec
     -   Mikolov [^Mikolov2013]
     -   Julia Bazi&nacute;ska
@@ -1484,15 +1487,21 @@ Resources:
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
+See also:
+
+-   [Word meanings](statistics.html#word-meanings)
+
 [^Bahdanau2015]: @Bahdanau_2015_Neural_machine_translation_by_jointly_learning\.
 [^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
+[^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
 [^Kaplan2020]: @Kaplan_2020_Scaling_laws_for_neural_language_models\.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations and
     @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\.
+[^Nirenburg1996]: @Nirenburg_1996_Bar_Hillel_and_Machine_Translation_Then_and_Now\.
 [^Radford2018]: @Radford_2018_Improving_language_understanding_by_generative\.
 [^Radford2019]: @Radford_2019_Language_models_are_unsupervised_multitask\.
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
@@ -1845,6 +1854,11 @@ See also:
 
 -   Note that NLP has implications to the philosophy of language and realism
 -   [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
+
+See also:
+
+-   [Natural language processing](statistics.html#natural-language-processing)
+-   [Ordinary language philosophy](scientific-realism.html#ordinary-language-philosophy)
 
 [^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
 

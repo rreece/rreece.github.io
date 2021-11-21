@@ -1094,8 +1094,23 @@ Various reactions to positivism.
     2.  Reductionism (verification theory of meaning)
 -   Quine: pale gray lore. TODO: find quote.
 -   Duhem-Quine thesis
--   Inscrutability of reference
+    -   Claims that a hypothesis can never be tested in isolation.
+    -   Confirmation holism
+    -   Web of belief
+
+Carnap remained optimistic about his views of analyticity, intension,
+and meaning:
+
+>   Bar-Hillel points out that the semantical theory of meaning developed
+>   recently by logicians is free of these drawbacks. He appeals to the
+>   linguists to construct in an analogous way the theory of meaning needed
+>   in their empirical investigations. The present paper indicates the
+>   possibility of such a construction. The fact that the concept of
+>   intension can be applied even to a robot shows that it does not have
+>   the psychologistic character of the traditional concept of meaning. [^Carnap1955]
+
 -   *Word and Object* [^Quine1960]
+    -   Inscrutability of reference
     -   Indeterminacy of translation
 -   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
 -   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986]
@@ -1123,6 +1138,7 @@ See also:
 -   The introduction to the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
     in the [Outline on the scientific method](scientific-method.html).
 
+[^Carnap1955]: @Carnap_1955_Meaning_and_synonymy_in_natural_languages\, p. 46--47, footnote 7.
 [^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
 [^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
 [^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
@@ -1181,6 +1197,7 @@ TODO: find ref of above quote.
 See also:
 
 -   [Natural language processing](statistics.html#natural-language-processing)
+-   [Word meanings](statistics.html#word-meanings)
 
 [^Cavell2015]: @Cavell_2015_Must_We_Mean_What_We_Say\.
 [^Rorty1993p347]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\, p. 347.
