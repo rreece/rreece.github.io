@@ -163,7 +163,8 @@ Number theory
 
 ### Transfinite numbers
 
--   Anticipated by [Robert Grosseteste](https://plato.stanford.edu/entries/grosseteste/) (ca. 1168-1253)
+-   Ordinal (index) vs cardinal (size) numbers
+-   Transfinite numbers were anticipated by [Robert Grosseteste](https://plato.stanford.edu/entries/grosseteste/) (ca. 1168-1253).
 -   Developed by [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) (1845-1918) in 1895
     -   [Cantor's first set theory article](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article)
     -   Proved that the real numbers are uncountably infinite.
@@ -174,7 +175,6 @@ Number theory
     -   The cardinality of a power set is $|P(A)| = 2^{|A|}$
     -   The cardinality of the natural numbers: $\aleph_0 \equiv |\mathbb{N}|$
     -   The cardinality of the reals: $C \equiv |\mathbb{R}| = |P(\mathbb{N})| = 2^{|\mathbb{N}|} = 2^{\aleph_0} > \aleph_0$
--   Ordinal (index) vs cardinal (size) numbers
 -   [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
 -   [Continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) (CH)
     -   CH: There is no set $S$ such that $\aleph_0 < |S| < \aleph_1$
