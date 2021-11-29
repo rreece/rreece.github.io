@@ -1480,6 +1480,7 @@ Resources:
     -   Video: [How to get meaning from text with language model BERT](https://www.youtube.com/watch?v=-9vVhYEXeyQ&ab_channel=Peltarion).
     -   ALBERT [^Lan2019]
     -   GPT-1 [^Radford2018], 2 [^Radford2019], 3 [^Brown2020GPT3]
+    -   Yang, Z. et al. (2019). [XLNet: Generalized autoregressive pretraining for language understanding](https://arxiv.org/abs/1906.08237). [^Yang2019]
     -   DeepMind's blog posts for more details: [AlphaFold1](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery),
         [AlphaFold2](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).
         Slides from the CASP14 conference are publicly available [here](https://predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf).
@@ -1508,6 +1509,7 @@ See also:
 [^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
 [^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.
 [^Wu2016]: @Wu_2016_Googles_neural_machine_translation_system\.
+[^Yang2019]: @Yang_2019_XLNet_Generalized_autoregressive_pretraining\.
 
 
 ### Reinforcement learning

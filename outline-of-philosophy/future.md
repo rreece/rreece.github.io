@@ -61,6 +61,7 @@ Artificial intelligence
 >   We have the technology to totally fill Twitter, email, and the web up with reasonable-sounding,
 >   context-appropriate prose, which would drown out all other speech and be impossible to filter. [^Vincent2019]
 
+-   Gwern. (2020). [The scaling hypothesis](https://www.gwern.net/Scaling-hypothesis#scaling-hypothesis).
 -   "The AI Index 2021 Annual Report" [^Zhang2021]
 -   See also:
     -   [Machine learning](statistics.html#machine-learning)

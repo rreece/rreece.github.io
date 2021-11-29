@@ -207,6 +207,7 @@ Wolpert, D.H. (1996). The lack of a priori distinctions between learning algorit
 Wolpert, D.H. & Macready, W.G. (1995). No free lunch theorems for search. [Technical Report SFI-TR-95-02-010, Santa Fe Institute]
 Wolpert, D.H. & Macready, W.G. (1997). No free lunch theorems for optimization. *IEEE Transactions on Evolutionary Computation*, 1, 67--82.
 Wu, Y. et al. (2016). Google's neural machine translation system: Bridging the gap between human and machine translation. https://arxiv.org/abs/1409.0473
+Yang, Z. et al. (2019). XLNet: Generalized autoregressive pretraining for language understanding. https://arxiv.org/abs/1906.08237
 Zech, G. (1995). Comparing statistical data to Monte Carlo simulation: Parameter fitting and unfolding. https://cds.cern.ch/record/284321 [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)]
 Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. *Advances in Neural Information Processing Systems*, 20, 1729--1736.
 

@@ -1871,8 +1871,8 @@ TODO:
 
 ### Depression
 
--   "The bright side of being blue" [^Andrews2009]
 -   Analytic Rumination Hypothesis (ARH)
+-   Andrews, P.W. & Thomson Jr, J.A. (2009). The bright side of being blue: Depression as an adaptation for analyzing complex problems. [^Andrews2009]
 -   Lehrer, J. (2010). [Depression's Upside](https://www.nytimes.com/2010/02/28/magazine/28depression-t.html). *New York Times Magazine*.
 -   Moss, S. (2016). [Analytical rumination hypothesis](https://www.sicotests.com/psyarticle.asp?id=355).
 -   [Evolutionary approaches to depression](https://en.wikipedia.org/wiki/Evolutionary_approaches_to_depression)
