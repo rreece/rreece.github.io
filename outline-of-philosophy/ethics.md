@@ -424,11 +424,15 @@ Feminism
 Waves:
 
 1.  Women's suffrage movements (19th and early 20th centuries)
+    -   19th Amendment
 2.  Women's liberation movement (1960s-1980s)
     -   de Beauvoir, S. (1949). *The Second Sex*.
+    -   *Roe v. Wade*
 3.  Third wave (1990s-2012)
+    -   In 1991, Anita Hill testified before the Senate Judiciary Committee that Supreme Court nominee Clarence Thomas had sexually harassed her at work.
     -   Snyder-Hall, R.C. (2010). Third-wave feminism and the defense of "choice". [^SnyderHall2010]
 4.  Fourth wave (2012-present)
+    -   #MeToo
 
 See also:
 
@@ -479,6 +483,7 @@ Ecology
 --------------------------------------------------------------------------------
 
 -   Scalability
+-   Vegetarianism/veganism
 -   [Climate justice](https://plato.stanford.edu/entries/justice-climate/)
 -   Hatcher, B. (2019). [Carrying capacity - Our wickedest problem](https://www.hermetica.info/CarryingCapacity.html).
 -   [Hyperobjects](https://en.wikipedia.org/wiki/Timothy_Morton#Hyperobjects) - Timothy Morton
@@ -489,15 +494,14 @@ Aesthetics
 
 ### Music theory
 
--   TODO
 -   Pythagoras on music
 -   Twelve-tone equal temperment: $2^{1/12} \approx 1.05946$
 -   George Russell. (1953). [*Lydian Chromatic Concept of Tonal Organization*](https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization).
+-   [Hemiola](https://en.wikipedia.org/wiki/Hemiola): 3/2
 
 
 ### Art
 
--   TODO
 -   Semiotics
 -   Roger Scruton
 

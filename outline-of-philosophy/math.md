@@ -484,12 +484,19 @@ More:
 -   von Neumann recognized the importance first.
 -   G&ouml;del was a platonist, a (religious) realist.
 -   Armstrong, S. (2012). [Completeness, incompleteness, and what it all means: first versus second order logic](https://www.lesswrong.com/posts/MLqhJ8eDy5smbtGrf/completeness-incompleteness-and-what-it-all-means-first).
+-   Hilbert wanted math to be:
+    -   ~~Complete~~
+    -   Consistent?
+    -   ~~Decidable~~
 -   Discuss how incompleteness is overblown in overly epistemically defeatist ways.
     -   Seems to indicate that no formal system lacks the full context for _everything_.
         Additional axioms will be appropriate for introducing further contexts.
 -   Seely, R.A. [G&ouml;del on the net.](http://www.math.mcgill.ca/rags/JAC/124/godel.html)
 -   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/) - IEP
+-   Video: [Veritasium - Math Has a Fatal Flaw](https://www.youtube.com/watch?v=HeQX2HjkcNo)
+-   Cubitt, Perez-Garcia, & Wolf. (2015). Undecidability of the spectral gap. [^Cubitt2015]
 
+[^Cubitt2015]: @Cubitt_2015_Undecidability_of_the_spectral_gap\.
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
 [^Raatikainen2020]: @Raatikainen_2020_Godels_incompleteness_theorems\.
 
