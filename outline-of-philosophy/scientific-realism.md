@@ -230,6 +230,7 @@ Idealism
 
 ### History
 
+-   [Gorgias](https://en.wikipedia.org/wiki/Gorgias) (483-375 BCE)
 -   [George Berkeley](https://en.wikipedia.org/wiki/George_Berkeley) (1685-1753)
 -   [Johann Gottlieb Fichte](https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte) (1762-1814)
 -   [Georg Wilhelm Friedrich Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) (1770-1831)
@@ -248,6 +249,7 @@ See also:
 
 ### Discussion
 
+-   [Solipsism](https://en.wikipedia.org/wiki/Solipsism)
 -   [Markus Gabriel equates German idealism with realism](https://www.youtube.com/watch?v=_TjK5sWvKJs) (3 mins)
 
 

@@ -89,6 +89,7 @@ Kastler, D. (2003). Rudolf Haag---Eighty Years. *Communications in Mathematical 
 Keller, K.J., Papadopoulos, M.A., & Reyes-Lega, A.F. (2007). On the realization of symmetries in quantum mechanics. https://arxiv.org/abs/0712.0997
 Kelvin, L. (1901). Nineteenth century clouds over the dynamical theory of heat and light. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, 2, 1--40. https://www.equipes.lps.u-psud.fr/Montambaux/histoire-physique/Kelvin-1900.pdf
 Klaczynski, L. (2016). Haag's theorem in renormalised quantum field theories. https://arxiv.org/abs/1602.00662
+Kontsevich, M. & Segal, G. (2021). Wick rotation and the positivity of energy in quantum field theory. https://arxiv.org/abs/2105.10161
 Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. *Nuovo Cimento*, 1, 205--225.
 Lisi, A.G. (2017). Emergence. https://www.edge.org/response-detail/27149
 {LSND Collaboration}. (1996). Evidence for neutrino oscillations from muon decay at rest. *Physical Review C*, 54, 2685--2708. https://arxiv.org/abs/nucl-ex/9605001
@@ -175,3 +176,4 @@ Zee, A. (2003). *Quantum Field Theory in a Nutshell*. Princeton University Press
 Zeidler, E. (2007). *Quantum Field Theory I: Basics in mathematics and physics, Vol. 1*. Springer.
 Zeidler, E. (2008). *Quantum Field Theory II: Quantum electrodynamics, Vol. 2*. Springer.
 Zeidler, E. (2011). *Quantum Field Theory III: Gauge theory, Vol. 3*. Springer.
+{Zyla, P.A. et al. (Particle Data Group)}. (2021). Review of Particle Physics. *Progress of Theoretical and Experimental Physics*, 2020, 083C01. https://pdg.lbl.gov/2021-rev/2021/reviews/contents_sports.html [(and 2021 update)] 

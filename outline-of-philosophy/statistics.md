@@ -1245,6 +1245,7 @@ Deep learning
     -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
     -   Hao, L. et al. (2017). [Visualizing the loss landscape of neural nets](https://arxiv.org/abs/1712.09913).
     -   Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. [^Spears2018]
+    -   Cranmer, K., Seljak, U., & Terao, K. (2021). Machine learning (Review in the PDG). [^Cranmer2021]
 -   Others
     -   Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. [^Watson2019]
     -   [AIMyths.com](https://www.aimyths.org/)
@@ -1252,6 +1253,7 @@ Deep learning
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
 
 [^Bengio2009]: @Bengio_2009_Learning_deep_architectures_for_AI\.
+[^Cranmer2021]: @Cranmer_2021_Machine_learning\.
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
 [^Kaplan2019]: @Kaplan_2019_Notes_on_contemporary_machine_learning\.
 [^LeCun2015]: @LeCun_2015_Deep_learning\.

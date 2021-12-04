@@ -609,6 +609,7 @@ Michael Atiyah:
 -   Interaction picture
 -   Correlation AKA Green's functions
 -   Wick's theorem
+    -   Kontsevich, M. & Segal, G. (2021). [Wick rotation and the positivity of energy in quantum field theory](https://arxiv.org/abs/2105.10161). [^Kontsevich2021]
 -   Vaccuum bubble cancelation
 -   Dyson series
 -   LSZ reduction formula [^Lehmann1955]
@@ -619,6 +620,7 @@ Michael Atiyah:
 -   Jaeger, G. (2019). Are virtual particles less real? [^Jaeger2019]
 
 [^Jaeger2019]: @Jaeger_2019_Are_virtual_particles_less_real\.
+[^Kontsevich2021]: @Kontsevich_2021_Wick_rotation_and_the_positivity_of_energy\.
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
 [^Martin2011]: @Martin_2011_Phenomenology_of_particle_physics\.
 [^Reece2007]: @Reece_2007_Quantum_Field_Theory_An_Introduction\.
@@ -1129,6 +1131,9 @@ The standard model of particle physics
 -   [European Organization for Nuclear Research (CERN)](https://en.wikipedia.org/wiki/CERN)
 -   [Carlo Rubbia](https://en.wikipedia.org/wiki/Carlo_Rubbia) (b. 1934)
 -   [Fermilab](https://en.wikipedia.org/wiki/Fermilab)
+-   Review of Particle Physics [^PDG2021]
+
+[^PDG2021]: @Zyla_2021_Review_of_Particle_Physics\.
 
 
 ### Mixing

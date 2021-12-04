@@ -512,6 +512,7 @@ Category theory
 -   Relation to set theory
 -   Relation to Russell type theory
 -   Univalent foundations
+-   Categories are semigroupoids.
 
 [^Spivak2013]: @Spivak_2013_Category_theory_for_scientists\.
 

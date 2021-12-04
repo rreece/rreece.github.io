@@ -281,6 +281,8 @@ See also:
 
 ### "Scientists"
 
+-   [Henry Cavendish](https://en.wikipedia.org/wiki/Henry_Cavendish) (1731-1810)
+-   [Antoine Lavoisier](https://en.wikipedia.org/wiki/Antoine_Lavoisier) (1743-1794)
 -   [John Dalton](https://en.wikipedia.org/wiki/John_Dalton) (1766-1844)
     -   atomic theory
 -   [Mary Somerville](https://en.wikipedia.org/wiki/Mary_Somerville) (1780-1872)

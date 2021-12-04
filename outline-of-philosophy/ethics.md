@@ -427,9 +427,10 @@ Waves:
     -   19th Amendment
 2.  Women's liberation movement (1960s-1980s)
     -   de Beauvoir, S. (1949). *The Second Sex*.
-    -   *Roe v. Wade*
+    -   *Roe v. Wade* (1973)
 3.  Third wave (1990s-2012)
-    -   In 1991, Anita Hill testified before the Senate Judiciary Committee that Supreme Court nominee Clarence Thomas had sexually harassed her at work.
+    -   In 1991, Anita Hill testified before the Senate Judiciary Committee that
+        Supreme Court nominee Clarence Thomas had sexually harassed her at work.
     -   Snyder-Hall, R.C. (2010). Third-wave feminism and the defense of "choice". [^SnyderHall2010]
 4.  Fourth wave (2012-present)
     -   #MeToo
