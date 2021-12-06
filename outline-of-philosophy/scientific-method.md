@@ -665,6 +665,7 @@ See also:
 -   Stearns, P. (2020). [Epistemology: A priori vs. a posteriori, analytic vs. synthetic, necessary vs. contingent](https://lucidphilosophy.com/1019-2/).
     -   relationship to necessity and contingency
     -   Kripke
+-   Hintikka
 -   de Swart
 -   Gillian Russell [^Russell2008]
 -   Cory Juhl [^Juhl2009]

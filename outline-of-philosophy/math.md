@@ -133,12 +133,15 @@ TODO
 -   Josiah Willard Gibbs (1839-1903)
 -   &Eacute;lie Cartan (1869-1951)
 -   W.V.D. Hodge (1903-1975)
--   Chern-Simons
+-   Stokes' theorem
 -   TODO: review by Fr&egrave; [^Fre2013v1ch2]
     -   manifold, tangent and cotangent spaces, vector bundle, fiber bundle
 -   Introduction to connections on principal fibre bundles [^Way2010]
+-   Varadarajan, V. S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. [^Varadarajan2003]
+-   Chern-Simons theory
 
 [^Fre2013v1ch2]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_1\, ch. 2.
+[^Varadarajan2003]: @Varadarajan_2003_Vector_bundles_and_connections_in_physics\.
 [^Way2010]: @Way_2010_Introduction_to_connections_on_principal_fibre\.
 
 
