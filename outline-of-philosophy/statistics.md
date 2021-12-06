@@ -1244,8 +1244,6 @@ Deep learning
 -   Pratical guides
     -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
     -   Hao, L. et al. (2017). [Visualizing the loss landscape of neural nets](https://arxiv.org/abs/1712.09913).
-    -   Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. [^Spears2018]
-    -   Cranmer, K., Seljak, U., & Terao, K. (2021). Machine learning (Review in the PDG). [^Cranmer2021]
 -   Others
     -   Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. [^Watson2019]
     -   [AIMyths.com](https://www.aimyths.org/)
@@ -1253,12 +1251,10 @@ Deep learning
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
 
 [^Bengio2009]: @Bengio_2009_Learning_deep_architectures_for_AI\.
-[^Cranmer2021]: @Cranmer_2021_Machine_learning\.
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
 [^Kaplan2019]: @Kaplan_2019_Notes_on_contemporary_machine_learning\.
 [^LeCun2015]: @LeCun_2015_Deep_learning\.
 [^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
-[^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
 
@@ -1452,7 +1448,7 @@ Resources:
 
 -   Natural Language Processing (NLP)
 -   History
-    -   Firth (1957)? "You shall know a word by the company it keeps"
+    -   Firth (1957): "You shall know a word by the company it keeps." [^Firth1957]
     -   Nirenburg, S. (1996). [Bar Hillel and Machine Translation: Then and Now](https://web.archive.org/web/20120414235847/http://ilit.umbc.edu/SergeiPub/bar-hillel.pdf). [^Nirenburg1996]
     -   Hutchins, J. (2000). [Yehoshua Bar-Hillel: A philosophers' contribution to machine translation](https://web.archive.org/web/20190702192948/http://www.hutchinsweb.me.uk/Bar-Hillel-2000.pdf). [^Hutchins2000]
 -   word2vec
@@ -1498,6 +1494,7 @@ See also:
 [^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
+[^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
 [^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
 [^Kaplan2020]: @Kaplan_2020_Scaling_laws_for_neural_language_models\.
@@ -1625,10 +1622,15 @@ More:
 ### Applications in physics
 
 -   [HEPML-LivingReview: A Living Review of Machine Learning for Particle Physics](https://iml-wg.github.io/HEPML-LivingReview/)
+-   Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. [^Spears2018]
+-   Cranmer, K., Seljak, U., & Terao, K. (2021). Machine learning (Review in the [PDG](https://pdg.lbl.gov/2021-rev/2021/reviews/contents_sports.html)). [^Cranmer2021]
 
 See also:
 
 -   [Surrogate models](statistics.html#surrogate-models)
+
+[^Cranmer2021]: @Cranmer_2021_Machine_learning\.
+[^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.
 
 
 Theoretical machine learning

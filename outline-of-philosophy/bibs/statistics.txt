@@ -63,6 +63,7 @@ Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Re
 Efron, B. & Hastie, T. (2016). *Computer Age Statistical Inference: Algorithms, evidence, and data science*. Cambridge University Press.
 Evans, M. (2013). What does the proof of Birnbaum's theorem prove? https://arxiv.org/abs/1302.5468
 Fienberg, S.E. (2006). When did Bayesian inference become "Bayesian"? *Bayesian Analysis*, 1, 1--40. https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full
+Firth, J.R. (1957). A synopsis of linguistic theory, 1930-1955. In *Studies in Linguistic Analysis* (pp. 1--31). Oxford: Blackwell.
 Fisher, R.A. (1912). On an absolute criterion for fitting frequency curves. *Statistical Science*, 12(1), 39--41.
 Fisher, R.A. (1915). Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population. *Biometrika*, 10(4), 507--521.
 Fisher, R.A. (1921). On the "probable error" of a coefficient of correlation deduced from a small sample. *Metron*, 1, 1--32.
@@ -127,7 +128,7 @@ Mayo, D.G. (2014). On the Birnbaum Argument for the Strong Likelihood Principle,
 Mayo, D.G. (2018). *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*. Cambridge University Press.
 Mayo, D.G. (2019). The law of likelihood and error statistics. https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/
 Mayo, D.G. (2021). Significance tests: Vitiated or vindicated by the replication crisis in psychology? *Review of Philosophy and Psychology*, 12, 101--121. https://link.springer.com/article/10.1007/s13164-020-00501-w
-McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). Academic Press: New York.
+McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). New York: Academic Press.
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
 Mitchell, T.M. (1990). The need for biases in learning generalizations. In *Readings in Machine Learning* (pp. 184-192). San Mateo, CA, USA. http://dml.cs.byu.edu/~cgc/docs/mldm_tools/Reading/Need%20for%20Bias.pdf
