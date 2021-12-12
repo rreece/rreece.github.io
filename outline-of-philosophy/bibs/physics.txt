@@ -157,6 +157,7 @@ Teller, P. (1997). *An Interpretive Introduction to Quantum Field Theory*. Princ
 Teller, P. (2000). The gauge argument. *Philosophy of Science*. 67, 466--481.
 't Hooft, G. (1978). Extended objects in gauge field theories. In Bod, D.H. & Kamal, A.N. (Eds.) *Particles and Fields* (pp. 165-198). New York: Plenum.
 't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. World Scientific.
+'t Hooft, G. (1999). A confrontation with infinity. https://www.nobelprize.org/prizes/physics/1999/thooft/lecture/ [Nobel Lecture, December 8, 1999]
 't Hooft, G. (2007). Lie groups in physics. http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf
 't Hooft, G. (2021). An unorthodox view on quantum mechanics. https://arxiv.org/abs/2104.03179
 Tong, D. (2006). Lectures on Quantum Field Theory. https://www.damtp.cam.ac.uk/user/tong/qft.html

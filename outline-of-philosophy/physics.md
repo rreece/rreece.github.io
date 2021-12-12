@@ -651,6 +651,7 @@ Michael Atiyah:
 -   Butterfield [^Butterfield2014]
 -   Butterfield [^Butterfield2015]
 -   't Hooft, again [^tHooft1994-2]
+-   't Hooft, G. (1999). A confrontation with infinity (Nobel lecture). [^tHooft1999]
 -   The "renormalization group" isn't a group; it's actually a semigroup.
     The reason that renormalization produces a semigroup is that a block
     transformation loses information. [^Kadanoff2013p50]
@@ -663,6 +664,7 @@ Michael Atiyah:
 [^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
 [^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50.
 [^tHooft1994-2]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
+[^tHooft1999]: @tHooft_1999_A_confrontation_with_infinity\.
 
 
 ### Effective field theory
