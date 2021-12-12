@@ -752,14 +752,6 @@ Hume:
 >   and probabilities---by proofs meaning such arguments from experience as
 >   leave no room for doubt or opposition. [^Hume2007p56]
 
-Hume:
-
->   Even after the observation of the frequent conjunction of objects,
->   we have no reason to draw any inference concerning any object beyond those
->   of which we have had experience.
-
---  David Hume, in A Treatise of Human Nature, Book I, part 3, Section 12.
-
 -   [Ch&amacr;rv&amacr;ka](https://en.wikipedia.org/wiki/Charvaka) - ancient Indian philosophy
 -   Hume
     -   Problem of induction [^Hume2007pXX]
@@ -783,6 +775,22 @@ Dewey:
 [^Leibniz1996pX]: @Leibniz_1996_New_Essays_on_Human_Understanding\, p. TODO.
 [^SextusEmpiricus]: @Sextus_1933_Outlines_of_Pyrrhonism\, p. 283.
 [^Weintraub1995]: @Weintraub_1995_What_was_Humes_contribution_to_the_problem\.
+
+
+### Causation
+
+Hume:
+
+>   Even after the observation of the frequent conjunction of objects,
+>   we have no reason to draw any inference concerning any object beyond those
+>   of which we have had experience.
+
+--  David Hume, in A Treatise of Human Nature, Book I, part 3, Section 12.
+
+-   Bertrand Russell
+-   Nancy Cartwright
+-   Judea Pearl
+-   James Woodward
 
 
 ### Uniformity of nature

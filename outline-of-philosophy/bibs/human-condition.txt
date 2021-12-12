@@ -6,6 +6,7 @@ Berlin, I. (1999). *The Roots of Romanticism*. Princeton University Press. [(Ori
 Berlin, I. (1994). A message to the twenty-first century. http://www.sjpcommunications.org/images/uploads/documents/Isaiah_Berlin.pdf [(Lecture after he received the honorary degree of Doctor of Laws at the University of Toronto)]
 Bodhi. (2005). *In the Buddha's Words: An anthology of discourses from the Pali Canon*. Wisdom Publications.
 Brassier, R. (2007). *Nihil Unbound: Enlightenment and Extinction*. Palgrave Macmillan.
+Camus, A. (1988). *The Stranger* (M. Ward, Trans.). New York: Vintage Books. [(Originally published in 1942 as \emph{L'\'Etranger})]
 Cooper, J.M. & Hutchinson, D.S. (1997). *Plato: Complete works*. Hackett Publishing.
 Dennett, D.C. (1995). *Darwin's Dangerous Idea: Evolution and the meanings of life*. Simon & Schuster.
 Dennett, D.C. (2006). *Breaking the Spell: Religion as a natural phenomenon*. Penguin.
@@ -17,6 +18,8 @@ Greenblatt, S. (2011). The answer man: An ancient poem was rediscovered---and th
 Harris, S. (2014). *Waking Up: A Guide to Spirituality Without Religion*. Simon & Schuster.
 Harvey, P. (2013). *An Introduction to Buddhism* (2nd ed.). Cambridge University Press.
 Hayes, R.P. (1988). Principled atheism in the Buddhist scholastic tradition. *Journal of Indian Philosophy*, 16, 5--28.
+#Heidegger, M. (1966). *Discourse on Thinking* (J.M. Anderson & E.H. Freund). Harper & Row. [(Originally published in 1959 as \emph{Gelassenheit})]
+Heidegger, M. (1966). *Discourse on Thinking* (J.M. Anderson & E.H. Freund, Trans.). New York: Harper & Row. [(Originally published in 1959 as \emph{Gelassenheit})]
 Hitchens, C. (2007). *God is Not Great: How religion poisons everything*. Hachette Book Group.
 Hitchens, C. (2012). *Mortality*. Hachette Book Group.
 Hobson, J.M. (2004). *The Eastern Origins of Western Civlisation*. Cambridge University Press.
@@ -51,6 +54,7 @@ Russell, B. (1989). *Wisdom of the West*. Crescent Books. [(Originally published
 Rutt, R. (2002). *The Book of Changes (Zhouyi)*. Routledge Curzon.
 Ryan, J.A. (1996). Leibniz' binary system and Shao Yong’s "Yijing." *Philosophy East and West*, 46, 59.
 Sadakata, A. (1997). *Buddhist Cosmology: Philosophy and Origins* (G. Sekimori, Trans.). Tokyo: K{\=o}sei Publishing.
+Sartre, J.P. (1964). *Nausea* (L. Alexander, Trans.). New York: New Directions Publishing Co. [(Originally published in 1938 as \emph{La Naus\'ee})]
 Sartre, J.P. (2007). *Existentialism is a Humanism* (C. Macomber, Trans.). Yale University Press. [(Originally published in 1948 as \emph{L'Existentialisme est un Humanisme})]
 Schopenhauer, A. (2014). *The World as Will and Representation, Vol. 1 and 2* (J. Norman & A. Welchman & C. Janaway, Eds.). Cambridge University Press. [(Originally published as \emph{Die Welt als Wille und Vorstellung}, Vol. 1 in 1818, Vol. 2 in 1844)]
 Schopenhauer, A. (2015). *On the Fourfold Root of the Principle of Sufficient Reason and Other Writings* (D.E. Cartwright & E.E. Erdmann & C. Janaway, Eds.). Cambridge University Press. [(Originally published as Schopenhauer's doctoral dissertation in 1813)]

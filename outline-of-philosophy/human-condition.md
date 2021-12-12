@@ -2125,6 +2125,7 @@ Existentialism
     -   [Dasein](https://en.wikipedia.org/wiki/Dasein) - being there
     -   Mitsein - being with
     -   *Being and Time* (1927)
+    -   *Discourse on Thinking* (1959) [^Heidegger1966]
     -   Bright, L.K. (2016). [Metalogic Against Heideggarian Naziism](http://sootyempiric.blogspot.com/2016/10/metalogic-against-heideggarian-naziism.html).
 
 Bertrand Russell:
@@ -2141,7 +2142,7 @@ Bertrand Russell:
     -   Randomness decides a lot.
     -   Authenticity
     -   Bad faith
-    -   *Nausea* / *La naus&eacute;e* (1938)
+    -   *Nausea* / *La naus&eacute;e* (1938) [^Sartre1964]
     -   *Being and Nothingness* / *L'&ecirc;tre et le n&eacute;ant* (1943)
     -   *No Exit* / *Huis clos* (1944)
     -   *L'Existentialisme est un Humanisme* (1946) [^Sartre1946]
@@ -2154,14 +2155,17 @@ Bertrand Russell:
     -   The Absurd
     -   The question of suicide
     -   To live without appeal
-    -   *The Stranger* / *L'&Eacute;tranger* (1942)
+    -   *The Stranger* / *L'&Eacute;tranger* (1942) [^Camus1988]
     -   *The Myth of Sisyphus* / *Le Mythe de Sisyphe* (1948)
     -   *The Fall* / *La Chute* (1956)
 -   [Paul Tillich](https://en.wikipedia.org/wiki/Paul_Tillich) (1886-1965)
     -   *The Courage to Be* (1952)
 
+[^Camus1988]: @Camus_1988_The_Stranger\.
+[^Heidegger1966]: @Heidegger_1966_Discourse_on_Thinking\.
 [^Russell1989p303]: @Russell_1989_Wisdom_of_the_West\, p. 303.
 [^Sartre1946]: @Sartre_2007_Existentialism_is_a_Humanism\.
+[^Sartre1964]: @Sartre_1964_Nausea\.
 
 
 ### Artworks

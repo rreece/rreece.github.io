@@ -869,6 +869,7 @@ Other worldviews
     -   Dualism, religion, mysticism
     -   Theology, appologetics
     -   Evangelism, jihad
+    -   [Fideism](https://en.wikipedia.org/wiki/Fideism)
     -   New Age Movement
 -   Lots can be learned from other worldviews without 100% agreement.
     -   Presocratics

@@ -612,6 +612,8 @@ Michael Atiyah:
     -   Kontsevich, M. & Segal, G. (2021). [Wick rotation and the positivity of energy in quantum field theory](https://arxiv.org/abs/2105.10161). [^Kontsevich2021]
 -   Vaccuum bubble cancelation
 -   Dyson series
+    -   Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. [^Dyson1949]
+    -   Dyson, F.J. (1952). Divergence of perturbation theory in quantum electrodynamics. [^Dyson1952]
 -   LSZ reduction formula [^Lehmann1955]
 -   Haag-Ruelle scattering theory
 -   Feynman diagrams and Feynman rules
@@ -619,6 +621,8 @@ Michael Atiyah:
 -   My notes: Reece, R. (2007). Quantum Field Theory: An Introduction. [^Reece2007]
 -   Jaeger, G. (2019). Are virtual particles less real? [^Jaeger2019]
 
+[^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
+[^Dyson1952]: @Dyson_1952_Divergence_of_perturbation_theory_in_quantum\.
 [^Jaeger2019]: @Jaeger_2019_Are_virtual_particles_less_real\.
 [^Kontsevich2021]: @Kontsevich_2021_Wick_rotation_and_the_positivity_of_energy\.
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
@@ -640,7 +644,7 @@ Michael Atiyah:
 
 ### Renormalization
 
--   Dyson [^Dyson1949]
+-   Dyson
 -   Wilson
 -   Huggett and Weingard [^Huggett1995]
 -   Goldenfeld [^Goldenfeld1992]
@@ -650,10 +654,11 @@ Michael Atiyah:
 -   The "renormalization group" isn't a group; it's actually a semigroup.
     The reason that renormalization produces a semigroup is that a block
     transformation loses information. [^Kadanoff2013p50]
+-   Borcherds, R.E. & Barnard, A. (2002). [Lectures on quantum field theory](https://arxiv.org/abs/math-ph/0204014). [^Borcherds2002]
  
+[^Borcherds2002]: @Borcherds_2002_Lectures_on_quantum_field_theory\.
 [^Butterfield2014]: @Butterfield_2014_Reduction_emergence_and_renormalization\.
 [^Butterfield2015]: @Butterfield_2015_Renormalization_for_philosophers\.
-[^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
 [^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
 [^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
 [^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50.
@@ -1132,6 +1137,7 @@ The standard model of particle physics
 -   [Carlo Rubbia](https://en.wikipedia.org/wiki/Carlo_Rubbia) (b. 1934)
 -   [Fermilab](https://en.wikipedia.org/wiki/Fermilab)
 -   Review of Particle Physics [^PDG2021]
+-   [Physics Problems for the Next Millennium](https://web.archive.org/web/20070527084922/http://feynman.physics.lsa.umich.edu/strings2000/millennium.html)
 
 [^PDG2021]: @Zyla_2021_Review_of_Particle_Physics\.
 
@@ -1334,7 +1340,9 @@ Gravity and cosmology
 -   Einstein, A. & Grossmann, M. (1913). Outline of a generalized theory of relativity and of a theory of gravitation. [^Einstein1913]
 -   MTW. (1973). *Gravitation*. [^Misner1973]
 -   Carroll, S.M. (2004). *Spacetime and Geometry*. [^Carroll2004]
+-   Arntzenius, F. (2012). *Space, Time, and Stuff*. [^Arntzenius2012]
 
+[^Arntzenius2012]: @Arntzenius_2012_Space_Time_and_Stuff\.
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
 [^Einstein1913]: @Einstein_1913_Entwurf_einer_verallgemeinerten\.
 [^Misner1973]: @Misner_1973_Gravitation\.

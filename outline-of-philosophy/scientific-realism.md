@@ -834,6 +834,8 @@ Reichenbach on probability:
 -   TODO: Quine on how huge Carnap's influence is. [^Quine1990-3]
 -   TODO: Positivism affects the structure of education and law
 -   TODO: Connection to the projects of Dewey and pragmatism
+-   [Proof of knowledge](https://en.wikipedia.org/wiki/Proof_of_knowledge) (cryptography)
+
 
 #### Carnap on language and ontology
 
@@ -1273,6 +1275,9 @@ Friedman:
 -   Talk by Sankey: [Scepticism, Relativism and Naturalistic Particularism](https://www.youtube.com/watch?v=QyEFaJf_Dyo)
     -   Chisholm's particularism: start with what is uncontroversially known.
         Justify epistemic standards second. It's ok to question beg.
+-   [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+    -   [Silvio Micali: Lex Fridman podcast](https://www.youtube.com/watch?v=zNdhgOk4-fE&ab_channel=LexFridman) - 1h25+
+    -   Verification and knowledge are different concepts
 -   Claudia Stancati. (2017). [Umberto Eco: The philosopher of signs](https://booksandideas.net/Umberto-Eco.html).
 
 Popper:

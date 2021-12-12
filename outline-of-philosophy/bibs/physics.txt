@@ -1,6 +1,7 @@
 Aaronson, S. (2011). Why philosophers should care about computational complexity. https://arxiv.org/abs/1108.1791
 Ananthaswamy, A. (2021). This simple experiment could challenge standard quantum theory. *Scientific American*. https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
+Arntzenius, F. (2012). *Space, Time, and Stuff*. Oxford University Press.
 Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting processor. *Nature*, 574, 505--510. https://www.nature.com/articles/s41586-019-1666-5
 {ATLAS Collaboration}. (2008). The ATLAS Experiment at the CERN Large Hadron Collider. *Journal of Instrumentation*, 3, 08003. https://cds.cern.ch/record/1129811
 {ATLAS Collaboration}. (2012). Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC. *Physics Letters B*, 716, 1--29. https://arxiv.org/abs/1207.7214
@@ -22,6 +23,7 @@ Bell, J.S. (1955). Time reversal in field theory. *Proceedings of the Royal Soci
 Bell, J.S. (1987). *Speakable and Unspeakable in Quantum Mechanics*. Cambridge University Press.
 Bohm, D. (1952). A suggested interpretation of the quantum theory in terms of 'hidden' variables, I and II. *Physical Review*, 85, 166--193.
 Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. *Physical Review*, 89, 458--466.
+Borcherds, R.E. & Barnard, A. (2002). Lectures on quantum field theory. https://arxiv.org/abs/math-ph/0204014
 Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. *Studies in History and Philosophy of Modern Physics*, 33, 3--22. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.106&rep=rep1&type=pdf
 Broughton, M. et al. (2020). TensorFlow Quantum: A software framework for quantum machine learning. https://arxiv.org/abs/2003.02989
 Buchholz, D. (1998). Current trends in axiomatic quantum field theory. https://arxiv.org/abs/hep-th/9811233
@@ -51,6 +53,7 @@ D{\"u}rr, D., Goldstein, S., Tumulka, R., & Zangh{\`i}, N. (2005). Bell-type qua
 D{\"u}rr, D., Goldstein, S., & Zangh{\`i}, N. (2013). *Quantum Physics Without Quantum Philosophy*. Springer.
 Dutailly, J.C. (2014). Particles and Fields. https://hal.archives-ouvertes.fr/hal-00933043
 Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. *Physical Review*, 75(11), 1736.
+Dyson, F.J. (1952). Divergence of perturbation theory in quantum electrodynamics. *Physical Review*, 85(4), 631.
 Earman, J., & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. *Erkenntnis*, 64(3), 305--344.
 Englert, F. & Brout, R. (1964). Broken symmetry and the mass of gauge vector mesons. *Physical Review Letters*, 13, 321--323. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.321
 #Einstein, A. (1905). On the electrodynamics of moving bodies. *Annalen der Physik*, 322, 891--921. http://www.damtp.cam.ac.uk/user/gold/pdfs/teaching/old_literature/Einstein1905.pdf
