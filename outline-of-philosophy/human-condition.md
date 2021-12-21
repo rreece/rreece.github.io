@@ -120,6 +120,7 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
 -   [Ancient China](https://en.wikipedia.org/wiki/History_of_China)
 -   [Neolithic China](https://en.wikipedia.org/wiki/Neolithic_China)
 -   [Rice domestication](https://en.wikipedia.org/wiki/Rice#Rice_domestication) (11,500--6,200 BCE)
+-   [Hexi Corridor](https://en.wikipedia.org/wiki/Hexi_Corridor)
 -   [Xia dynasty](https://en.wikipedia.org/wiki/Xia_dynasty) (c. 2070-1600 BCE) - no direct records
 -   [Xianren Cave](https://en.wikipedia.org/wiki/Xianren_Cave)
 -   [Shang dynasty](https://en.wikipedia.org/wiki/Shang_dynasty) (c. 1600-1046 BCE)
