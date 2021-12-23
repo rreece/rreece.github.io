@@ -554,12 +554,15 @@ Rejection of the supernatural
 
 ### Introduction
 
--   Part of methodological naturalism.
-    -   Not an a priori assumption but an empirical conclusion
-    -   Dennett: Naturalism is a method of explaining a magic trick without appealing to magic.
 -   How to define magic and what it could be.
     -   Aleister Crowley: Magick "is the Science and Art of causing change to occur in conformity with Will."
     -   To the degree you can control the physical world, naturalists would call this "technology".
+-   Part of methodological naturalism.
+    -   Not an a priori assumption but an empirical conclusion
+    -   Dennett: Naturalism is a method of explaining a magic trick without appealing to magic.
+    -   Rejection of supernatural, magic, and paranormal.
+    -   Blackmore, S.J. (1996). Near-death experiences. [^Blackmore1996]
+    -   Blackmore, S.J. (1997). Probability misjudgment and belief in the paranormal: A newspaper survey [^Blackmore1997]
 -   The Lewis-Anscombe debate
     -   [The Lewis-Anscombe debate](http://thecslewis-studygroup.org/the-c-s-lewis-study-group/lewis-genre/theology/miracles-2/the-lewisanscombe-debate/)
     -   The rewrite of chapter 3 in *Miracles* [^Lewis1947]
@@ -573,6 +576,8 @@ See also:
 
 -   [Atheism](human-condition.html#atheism)
 
+[^Blackmore1996]: @Blackmore_1996_Near_death_experiences\.
+[^Blackmore1997]: @Blackmore_1997_Probability_misjudgment_and_belief\.
 [^Jenkins2014]: @Jenkins_2014_Naturalism_and_norms_of_inference\.
 [^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.
 
