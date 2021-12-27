@@ -1380,6 +1380,13 @@ Plato:
 
 -   Knowledge is power [^RepublicV477]
 -   Perception is _not_ knowledge [^Theaetetus186]
+
+>   I myself do not have the answer when I perplex others, but I am more
+>   perplexed than anyone when I cause perplexity in others. So now I do not
+>   know what virtue is; perhaps you knew before you contacted me, but now you
+>   are certainly like one who does not know. Nevertheless, I want to examine
+>   and seek together with you what it may be. [^Meno80d]
+
 -   Knowledge = Justified True Belief (JTB)
 
 >   SOCRATES: Then suppose a jury has been justly persuaded of some matter which
@@ -1445,6 +1452,7 @@ Ichikawa & Jenkins:
 [^Chisholm1966]: @Chisholm_1966_Theory_of_Knowledge\.
 [^DescartesRule2]: @Descartes_1996_Oeuvres_de_Descartes_11_volumes\, vol. 10, p. 362.
 [^Ichikawa2017]: @Ichikawa_2017_On_putting_knowledge_first\.
+[^Meno80d]: Plato, *Meno* 80d, @Cooper_1997_Plato_Complete_works\, p. 879.
 [^RepublicV477]: Plato, *Republic V* 477--8, @Cooper_1997_Plato_Complete_works\, p. 1103--4.
 [^Theaetetus186]: Plato, *Theaetetus* 186--7, @Cooper_1997_Plato_Complete_works\, p. 205--7.
 [^Theaetetus201b]: Plato, *Theaetetus* 201b--d, @Cooper_1997_Plato_Complete_works\, p. 222--3.

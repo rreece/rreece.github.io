@@ -345,6 +345,16 @@ See also:
     -   *Foundations without Foundationalism: A Case for Second-Order Logic* (1991) [^Shapiro1991]
 -   Gillian Russell
     -   "The justification of the basic laws of logic" [^Russell2015]
+-   Eliezer Yudkowsky
+    -   [Second-Order Logic: The Controversy](https://www.lesswrong.com/posts/SWn4rqdycu83ikfBa/second-order-logic-the-controversy)
+    -   "Second-order logic is sound, in the sense that anything syntactically
+        provable from a set of premises, is true in any model obeying those
+        premises. But second-order logic isn't complete; there are semantic
+        consequences you can't derive. If you take second-order logic at face
+        value, there's no effectively computable way of deriving all the
+        consequences of what you say you 'believe'... which is a major reason
+        some mathematicians are suspicious of second-order logic. What does it
+        mean to believe something whose consequences you can't derive?"
 
 See also:
 
