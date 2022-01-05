@@ -20,6 +20,7 @@ Leitgeb, H. & Carus, A. (2020). Rudolf Carnap. *Stanford Encyclopedia of Philoso
 Murzi, M. (2004). Vienna circle. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/viennacr/
 Murzi, M. (2001). Rudolf Carnap (1891-1970). *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/carnap/
 Passmore, J. (1967). Logical positivism. In P. Edwards (Ed.) *The Encyclopedia of Philosophy, Volume 5* (pp. 52--57). New York: Macmillan.
+Potochnik, A. (2011). A Neurathian conception of the unity of science. *Erkenntnis*, 74(3), 305--319.
 Schlick, M. (1948). Positivism and realism. *Synthese*, 7, 478--505. [(D. Rynin, Trans. Originally published in 1933 in \emph{Erkenntnis}, 3.)]
 Schlick, M. (1974). *General Theory of Knowledge* (A.E. Blumberg, Trans.). Springer-Verlag.  [(Originally published in German in 1921 as \emph{Allgemeine Erkenntnislehre})]
 Stadler, F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. Springer.

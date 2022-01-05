@@ -596,6 +596,7 @@ and constraining real structures in nature.
     -   In *LSL* [^Carnap1937LSLp51]
     -   Leitgeb [^Leitgeb2020H]
 4.  Unity of science
+    -   Potochnik, A. (2011). A Neurathian conception of the unity of science. [^Potochnik2011]
 
 <center>
 <blockquote class="twitter-tweet">
@@ -643,6 +644,7 @@ Fetzer:
 [^Fetzer2017]: @Fetzer_2017_Carl_Hempel\.
 [^Hahn1973Sec2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 2.
 [^Leitgeb2020H]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html).
+[^Potochnik2011]: @Potochnik_2011_A_Neurathian_conception_of_the_unity_of_science\.
 [^Schlick1948p480]: @Schlick_1948_Positivism_and_realism\, p. 480\.
 
 

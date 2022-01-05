@@ -152,8 +152,11 @@ See also:
 
 ### Industrial Revolution
 
--   Muehlhauser, L. (2017). [Three wild speculations from amateur quantitative macrohistory](http://lukemuehlhauser.com/three-wild-speculations-from-amateur-quantitative-macrohistory/).
--   Muehlhauser, L. (2017). [How big a deal was the Industrial Revolution?](http://lukemuehlhauser.com/industrial-revolution/)
+-   [British Agricultural Revolution](https://en.wikipedia.org/wiki/British_Agricultural_Revolution)
+-   [Industrial Revolution](https://en.wikipedia.org/wiki/Industrial_Revolution)
+    -   Muehlhauser, L. (2017). [Three wild speculations from amateur quantitative macrohistory](http://lukemuehlhauser.com/three-wild-speculations-from-amateur-quantitative-macrohistory/).
+    -   Muehlhauser, L. (2017). [How big a deal was the Industrial Revolution?](http://lukemuehlhauser.com/industrial-revolution/)
+-   [Second Industrial Revolution](https://en.wikipedia.org/wiki/Second_Industrial_Revolution)
 -   [The Needham Question](https://en.wikipedia.org/wiki/Science_and_Civilisation_in_China#The_Needham_Question)
     -   Sivin, N. (1995). [Why the scientific revolution did not take place in China---Or didn't it?](http://ccat.sas.upenn.edu/~nsivin/scirev.pdf) [^Sivin1995]
     -   Lin, J.Y. (1995). The Needham Puzzle: Why the industrial revolution did not originate in China. [^Lin1995]
