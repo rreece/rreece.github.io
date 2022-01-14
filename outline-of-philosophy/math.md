@@ -492,6 +492,17 @@ Related:
 -   Church's proof that Hilbert's Entscheidungsproblem is unsolvable
 -   Turing's theorem that there is no algorithm to solve the halting problem
 
+Chaitin:
+
+>   [M]y information-theoretic approach to incompleteness makes incompleteness
+>   appear pervasive and natural. This is because algorithmic information theory
+>   sometimes enables one to measure the information content of a set of axioms
+>   and of a theorem and to deduce that the theorem cannot be obtained from the
+>   axioms because it contains too much information.
+>   
+>   This suggests to me that sometimes to prove more one must assume more, in
+>   other words, that sometimes one must put more in to get more out. [^Atiyah1994p182]
+
 More:
 
 -   von Neumann recognized the importance first.
@@ -505,10 +516,18 @@ More:
     -   Seems to indicate that no formal system lacks the full context for _everything_.
         Additional axioms will be appropriate for introducing further contexts.
 -   Seely, R.A. [G&ouml;del on the net.](http://www.math.mcgill.ca/rags/JAC/124/godel.html)
--   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/) - IEP
 -   Video: [Veritasium - Math Has a Fatal Flaw](https://www.youtube.com/watch?v=HeQX2HjkcNo)
 -   Cubitt, Perez-Garcia, & Wolf. (2015). Undecidability of the spectral gap. [^Cubitt2015]
 
+Relationship to mind:
+
+-   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/) - IEP
+
+See also:
+
+-   [Artificial intelligence](mind.html#artificial-intelligence)
+
+[^Atiyah1994p182]: @Atiyah_1994_Responses_to_Theoretical_Mathematics_Toward\, p. 182.
 [^Cubitt2015]: @Cubitt_2015_Undecidability_of_the_spectral_gap\.
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
 [^Raatikainen2020]: @Raatikainen_2020_Godels_incompleteness_theorems\.

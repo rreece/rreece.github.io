@@ -432,6 +432,7 @@ See also:
 -   Friedrich, B. (2016). [How did the tree of knowledge get its blossom? The rise of physical and theoretical chemistry, with an eye on Berlin and Leipzig](https://onlinelibrary.wiley.com/doi/10.1002/anie.201509260). [^Friedrich2016]
 -   Density functional theory
 -   Cao et al. (2019). Physical origin of chemical periodicities. [^Cao2019]
+-   Cohen, M.L. (2015). [Explaining and predicting the properties of materials using quantum theory](https://www.cambridge.org/core/journals/mrs-bulletin/article/explaining-and-predicting-the-properties-of-materials-using-quantum-theory/0BAF1A2783D41470AAE666F6B916ECE5).
 
 [^Cao2019]: @Cao_2019_Physical_origin_of_chemical_periodicities\.
 [^Friedrich2016]: @Friedrich_2016_How_did_the_tree_of_knowledge_get_its_blossom\.
@@ -1138,7 +1139,7 @@ The standard model of particle physics
 -   [European Organization for Nuclear Research (CERN)](https://en.wikipedia.org/wiki/CERN)
 -   [Carlo Rubbia](https://en.wikipedia.org/wiki/Carlo_Rubbia) (b. 1934)
 -   [Fermilab](https://en.wikipedia.org/wiki/Fermilab)
--   Review of Particle Physics [^PDG2021]
+-   [Review of Particle Physics](https://pdg.lbl.gov/2021/reviews/contents_sports.html) [^PDG2021]
 -   [Physics Problems for the Next Millennium](https://web.archive.org/web/20070527084922/http://feynman.physics.lsa.umich.edu/strings2000/millennium.html)
 
 [^PDG2021]: @Zyla_2021_Review_of_Particle_Physics\.

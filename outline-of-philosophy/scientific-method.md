@@ -1387,6 +1387,9 @@ Plato:
 >   are certainly like one who does not know. Nevertheless, I want to examine
 >   and seek together with you what it may be. [^Meno80d]
 
+-   According to Plato, all knowledge is found through recollection.
+    -   My tweet: [Meno in a nutshell](https://twitter.com/RyanDavidReece/status/1475182905878093826)
+    -   Fraser, Ed. (2012). [Picking a fight with Plato](https://philosophynow.org/issues/90/Picking_A_Fight_With_Plato).
 -   Knowledge = Justified True Belief (JTB)
 
 >   SOCRATES: Then suppose a jury has been justly persuaded of some matter which
@@ -1412,8 +1415,6 @@ Plato:
 >   SOCRATES: Very good indeed. [^Theaetetus201b]
 
 ![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g), 2014).](img/knowledge.png){#fig:knowledge-jtb-g}
-
-TODO: find part in *Meno*.
 
 In his unfinished work, *Rules* [^DescartesRule2], Descartes defines “science” (scientia) in Rule 2 as
 
