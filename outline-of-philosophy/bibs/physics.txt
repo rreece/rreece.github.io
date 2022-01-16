@@ -39,6 +39,7 @@ Carroll, S.M. & Singh, A. (2019). Mad-Dog Everettianism: Quantum mechanics at it
 Chalmers, M. (2017). Model physicist. https://cerncourier.com/a/model-physicist/
 Clowe, D. et al. (2006). A direct empirical proof of the existence of dark matter. *Astrophysical Journal Letters*, 648(2), 109. https://arxiv.org/abs/astro-ph/0608407
 {CMS Collaboration}. (2012). Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC. *Physics Letters B*, 716, 30--61. https://arxiv.org/abs/1207.7235
+Coecke, B. & Kissinger, A. (2017). *Picturing Quantum Processes: A first course in quantum theory and diagrammatic reasoning*. Cambridge University Press.
 Coleman, S. & Mandula, J. (1967). All possible symmetries of the S matrix. *Physical Review*, 159(5), 1251--1256.
 Cubitt, T., Perez-Garcia, D. & Wolf, M. (2015). Undecidability of the spectral gap. *Nature*, 528, 207--211.
 Das, S. & D{\"u}rr, D. (2019). Arrival time distributions of spin-1/2 particles. *Scientific Reports*, 9, 2242. https://www.nature.com/articles/s41598-018-38261-4

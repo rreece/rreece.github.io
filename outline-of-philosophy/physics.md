@@ -442,6 +442,7 @@ See also:
 
 -   Feynman
 -   Aaronson, S. (2011). Why philosophers should care about computational complexity. [^Aaronson2011]
+-   Coecke, B. & Kissinger, A. (2017). *Picturing Quantum Processes: A first course in quantum theory and diagrammatic reasoning*. [^Coecke2017]
 -   Preskill, J. (2018). [Quantum computing in the NISQ era and beyond](https://arxiv.org/abs/1801.00862). [^Preskill2018]
 -   Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting processor. [^Arute2019]
     -   Google AI Blog. (2019). [Quantum supremacy using a programmable superconducting processor](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html).
@@ -452,6 +453,7 @@ See also:
 [^Aaronson2011]: @Aaronson_2011_Why_philosophers_should_care_about_computational\.
 [^Arute2019]: @Arute_2019_Quantum_supremacy_using_a_programmable\.
 [^Broughton2020]: @Broughton_2020_TensorFlow_Quantum_A_software_framework\.
+[^Coecke2017]: @Coecke_2017_Picturing_Quantum_Processes_A_first_course\.
 [^Preskill2018]: @Preskill_2018_Quantum_computing_in_the_NISQ_era_and_beyond\.
 
 
@@ -1443,6 +1445,7 @@ Complexity and emergence
 -   [Closer To Truth: What's Strong Emergence?](https://www.youtube.com/watch?v=zkffv2nVF64)
     -   George F. R. Ellis vs Barry Loewer
 -   John, Y.J. (2020). [An emergence reading list](https://yohanjohn.com/axispraxis/an-emergence-reading-list/).
+    -   [My tweet rebutting anti-reductionism](https://twitter.com/RyanDavidReece/status/1481730862001446917)
 
 See also:
 
