@@ -99,6 +99,7 @@ Lisi, A.G. (2017). Emergence. https://www.edge.org/response-detail/27149
 {LSND Collaboration}. (1996). Evidence for neutrino oscillations from muon decay at rest. *Physical Review C*, 54, 2685--2708. https://arxiv.org/abs/nucl-ex/9605001
 {LSND Collaboration}. (2001). Evidence for neutrino oscillations from the observation of electron anti-neutrinos in a muon anti-neutrino beam. *Physical Review D*, 64, 112007. https://arxiv.org/abs/hep-ex/0104049
 Malament, D.B. (1996). In defence of dogma: Why there cannot be a relativistic quantum mechanics of (localizable) particles. In Clifton, R. (Ed.) *Perspectives on Quantum Reality* (pp. 1--10). Springer.
+Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. *Advances in Theoretical and Mathematical Physics*, 2, 231--252. https://arxiv.org/abs/hep-th/9711200
 Martin, S.P. (2011). Phenomenology of particle physics. https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf
 Martin, S.P. (2016). A supersymmetry primer. https://arxiv.org/abs/hep-ph/9709356 [(First published in 1997)]
 Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.
@@ -112,6 +113,7 @@ Murayama, H. (2000). Supersymmetry phenomenology. https://arxiv.org/abs/hep-ph/0
 Nail, T. (2018). *Lucretius I: An Ontology of Motion*. Edinburgh University Press.
 Nail, T. (2020). *Lucretius II: An Ethics of Motion*. Edinburgh University Press.
 Ney, A. & Albert, D.Z. (2013). *The Wave Function: Essays on the metaphysics of quantum mechanics*. Oxford University Press.
+Ney, A. (2021). From quantum entanglement to spatiotemporal distance. In Christian W{\"u}thrich, Baptiste Le Bihan, & Nick Huggett (eds.), *Philosophy Beyond Spacetime*. Oxford University Press.
 Nguyen, T. (2016). The perturbative approach to path integrals: A succinct mathematical treatment. *Journal of Mathematical Physics*, 57, 092301. https://arxiv.org/abs/1505.04809
 {nLab authors}. (2021). Fiber bundles in physics. http://ncatlab.org/nlab/show/fiber%20bundles%20in%20physics
 Noether, E. (1918). Invariante variationsprobleme. *Nachrichten von der Gesellschaft der Wissenschaften zu G{\"o}ttingen, Mathematisch-Physikalische Klasse*, 235--257.
@@ -134,6 +136,7 @@ Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of 
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24). Oxford University Press.
 Reece, R. (2007). Quantum Field Theory: An Introduction. http://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf
 Rubbia, C. (1984). Experimental observation of the intermediate vector bosons $W^{+}$, $W^{-}$, and $Z^{0}$. https://www.nobelprize.org/uploads/2018/06/rubbia-lecture.pdf [Nobel lecture, December 8, 1984]
+Ryden, B. (2003). *Introduction to Cosmology*. Addison Wesley.
 Salam, A. & Ward, J.C. (1964). Gauge theory of elementary interactions. *Physical Review*, 136, 763--768.
 Salam, A. & Ward, J.C. (1964). Electromagnetic and weak interactions. *Physics Letters*, 13, 168--171.
 Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. *Philosophical Studies*. https://link.springer.com/article/10.1007%2Fs11098-021-01634-z
@@ -176,6 +179,7 @@ Wigner, E.P. (1939). On unitary representations of the inhomogeneous Lorentz gro
 Wigner, E.P. (1954). Conservation laws in classical and quantum physics. *Progress of Theoretical Physics*, 11, 437--440. https://academic.oup.com/ptp/article/11/4-5/437/1831457
 Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. Academic Press. [(Originally published in German in 1931)]
 Williams, P. (2019). Scientific realism made effective. *British Journal for the Philosophy of Science*, 70, 209--237. https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axx043
+Witten, E. (1998). Anti-de Sitter space and holography. *Advances in Theoretical and Mathematical Physics*, 2, 253--291. https://arxiv.org/abs/hep-th/9802150
 Yock, P. (2018). Newton's hypotheses on the structure of matter. https://arxiv.org/abs/1807.05486
 Zee, A. (2003). *Quantum Field Theory in a Nutshell*. Princeton University Press.
 Zeidler, E. (2007). *Quantum Field Theory I: Basics in mathematics and physics, Vol. 1*. Springer.

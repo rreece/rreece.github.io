@@ -728,11 +728,6 @@ Criticisms of naturalism
 
 ### Rebutals
 
--   ["Science Wars"](https://en.wikipedia.org/wiki/Science_wars)
-    -   Paul R. Gross and Norman Levitt. (1994). *Higher Superstition: The Academic Left and Its Quarrels With Science*.
--   [Sokal Affair](https://en.wikipedia.org/wiki/Sokal_affair)
-    -   Sokal [^Sokal1996]
-    -   Weinberg, S. (1996). [Sokal's Hoax](https://physics.nyu.edu/faculty/sokal/weinberg.html). *The New York Review of Books*. [^Weinberg1996]
 -   Defenses of naturalism:
     -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007]
     -   Rosenberg, A. [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/). *New York Times*. [^Rosenberg2011]
@@ -745,14 +740,23 @@ Criticisms of naturalism
     -   Sartwell, C. (2015). [Philosophy returns to the real world](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/). *New York Times*. [^Sartwell2015]
     -   Pluckrose, H. (2016). [Why I no longer identify as a feminist](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/). *Areo*. [^Pluckrose2016]
     -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/). *Areo*. [^Pluckrose2017]
--   Anti-dogma
-    -   Harris, S. (2007). [Response to Paul C. Davies](https://samharris.org/response-to-paul-c-davies/).
-    -   Siegel, E. (2016). [No, science is not faith-based](https://medium.com/starts-with-a-bang/no-science-is-not-faith-based-ddc9be25efba). [^Siegel2016]
--   [Grievance Studies Affair](https://en.wikipedia.org/wiki/Grievance_studies_affair) AKA "Sokal squared"
+-   ["Science Wars"](https://en.wikipedia.org/wiki/Science_wars)
+    -   Paul R. Gross and Norman Levitt. (1994). *Higher Superstition: The Academic Left and Its Quarrels With Science*.
+-   [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair)
+    -   Sokal [^Sokal1996]
+    -   Weinberg, S. (1996). [Sokal's Hoax](https://physics.nyu.edu/faculty/sokal/weinberg.html). *The New York Review of Books*. [^Weinberg1996]
+-   [Grievance studies affair](https://en.wikipedia.org/wiki/Grievance_studies_affair) AKA "Sokal squared"
     -   Mounk, Y. (2018). [What an audacious hoax reveals about academia](https://www.theatlantic.com/ideas/archive/2018/10/new-sokal-hoax/572212/). *The Atlantic*.
     -   Beauchamp, Z. (2018). [The controversy around hoax studies in critical theory, explained](https://www.vox.com/2018/10/15/17951492/grievance-studies-sokal-squared-hoax). *Vox*.
     -   Pluckrose, H., Lindsay, J.A., & Boghossian, P. (2018). [Academic grievance studies and the corruption of scholarship](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/). *Areo*.
-    -   [Grievance Studies Hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax) - rationalwiki.org
+    -   [Grievance studies hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax) - rationalwiki.org
+-   Criticism of diversity and inclusion efforts
+    -   Damore, J. (2017). [Google’s ideological echo chamber](https://s3.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf).
+    -   Lewis, P. (2017). ['I see things differently': James Damore on his autism and the Google memo](https://www.theguardian.com/technology/2017/nov/16/james-damore-google-memo-interview-autism-regrets).
+    -   Peterson, J. (2022). [Why I am no longer a tenured professor at the University of Toronto](https://nationalpost.com/opinion/jordan-peterson-why-i-am-no-longer-a-tenured-professor-at-the-university-of-toronto).
+-   Anti-dogma
+    -   Harris, S. (2007). [Response to Paul C. Davies](https://samharris.org/response-to-paul-c-davies/).
+    -   Siegel, E. (2016). [No, science is not faith-based](https://medium.com/starts-with-a-bang/no-science-is-not-faith-based-ddc9be25efba). [^Siegel2016]
 -   Facing post-fact politics
     -   Pomerantsev, P. (2016). [Why we're post-fact](https://granta.com/why-were-post-fact/). *Granta*. [^Pomerantsev2016]
     -   Heer, J. (2017). [America's first postmodern president](https://newrepublic.com/article/143730/americas-first-postmodern-president). *The New Republic*. [^Heer2017]
@@ -791,8 +795,8 @@ Criticisms of naturalism
     -   Hughes, V. & Aldhous, P. (2018). [Here's what critics say about that big new hoax on gender studies](https://www.buzzfeednews.com/article/virginiahughes/grievance-studies-sokal-hoax).
     -   Egginton, W. (2018). [What the 'Grievance Studies' Hoax really shows](https://www.nytimes.com/2018/10/06/opinion/grievance-studies-hoax.html). *New York Times*.
 -   Criticisms of scientism:
-    -   Thomas, B. (2015). [A disease of scienceyness](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953). [^Thomas2015]
     -   Konnikova, M. (2012). [Humanities aren't a science. Stop treating them like one](http://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/). *Scientific American Blogs*. [^Konnikova2012]
+    -   Thomas, B. (2015). [A disease of scienceyness](https://medium.com/@writingben/a-disease-of-scienceyness-7b5571a34953). [^Thomas2015]
     -   McCrea, A. (2019). [The magical thinking of guys who love logic](https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic). [^McCrea2019]
     -   Shifrel, Z. (2019). [The logic fetishists](https://blog.usejournal.com/the-logic-fetishists-464226cb3141).
     -   Dang, H. & Bright, L.K. (2021). [How to make sense of contradictory science papers](https://nautil.us/issue/100/outsiders/how-to-make-sense-of-contradictory-science-papers). *Nautilus*.

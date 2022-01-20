@@ -127,17 +127,21 @@ TODO
 
 ### Differential geometry
 
--   Leonhard Euler (1707-1783)
--   William Rowan Hamilton (1805-1865)
--   George Stokes (1819-1903)
--   Josiah Willard Gibbs (1839-1903)
--   &Eacute;lie Cartan (1869-1951)
--   W.V.D. Hodge (1903-1975)
--   Stokes' theorem
--   TODO: review by Fr&egrave; [^Fre2013v1ch2]
-    -   manifold, tangent and cotangent spaces, vector bundle, fiber bundle
--   Introduction to connections on principal fibre bundles [^Way2010]
--   Varadarajan, V. S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. [^Varadarajan2003]
+-   History
+    -   Leonhard Euler (1707-1783)
+    -   William Rowan Hamilton (1805-1865)
+    -   George Stokes (1819-1903)
+    -   Josiah Willard Gibbs (1839-1903)
+    -   &Eacute;lie Cartan (1869-1951)
+    -   W.V.D. Hodge (1903-1975)
+-   Vector calculus
+    -   Stokes' theorem
+    -   Tong, D. (2022). [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html).
+-   Differential forms
+    -   Manifold, tangent and cotangent spaces, vector bundle, fiber bundle
+    -   Introduction to connections on principal fibre bundles [^Way2010]
+    -   Review by Fr&egrave; [^Fre2013v1ch2]
+    -   Varadarajan, V. S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. [^Varadarajan2003]
 -   Chern-Simons theory
 
 [^Fre2013v1ch2]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_1\, ch. 2.

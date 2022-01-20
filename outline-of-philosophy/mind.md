@@ -136,6 +136,7 @@ See also:
 
 -   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/) - IEP
 -   John Searle - [Chinese room argument](https://en.wikipedia.org/wiki/Chinese_room)
+    -   [Comic by Dennett](https://ase.tufts.edu/cogstud/assets/searle.jpg)
 -   Hubert Dreyfus
 -   TODO: counter-criticism
 

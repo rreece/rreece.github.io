@@ -935,8 +935,9 @@ Urs Schreiber:
     -   van Nieuwenhuizen, P. (1981). Supergravity. [^vanNieuwenhuizen1981]
     -   Reviewed by Fr&egrave; [^Fre2013v2ch6]
 -   Pedagogy
-    -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
     -   Martin, S.P. (2016). [A supersymmetry primer](https://arxiv.org/abs/hep-ph/9709356). [^Martin2016]
+    -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
+    -   Tong, D. (2022). [Lectures on Supersymmetric Field Theory](https://www.damtp.cam.ac.uk/user/tong/susy.html).
 
 See also:
 
@@ -1331,8 +1332,14 @@ See also:
 ### Quantum gravity
 
 -   Start of string phenomenology [^Candelas1985]
+-   Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. [^Maldacena1998]
+-   Witten, E. (1998). Anti-de Sitter space and holography. [^Witten1998]
+-   Ney, A. (2021). From quantum entanglement to spatiotemporal distance. [^Ney2021]
 
 [^Candelas1985]: @Candelas_1985_Vacuum_configurations_for_superstrings\.
+[^Maldacena1998]: @Maldacena_1998_The_large_N_limit_of_superconformal_field\.
+[^Ney2021]: @Ney_2021_From_quantum_entanglement_to_spatiotemporal\.
+[^Witten1998]: @Witten_1998_Anti_de_Sitter_space_and_holography\.
 
 
 Gravity and cosmology
@@ -1346,11 +1353,14 @@ Gravity and cosmology
 -   MTW. (1973). *Gravitation*. [^Misner1973]
 -   Carroll, S.M. (2004). *Spacetime and Geometry*. [^Carroll2004]
 -   Arntzenius, F. (2012). *Space, Time, and Stuff*. [^Arntzenius2012]
+-   Diffeomorphism invariance, background independence
+-   Ryden, B. (2003). *Introduction to Cosmology*. [^Ryden2003]
 
 [^Arntzenius2012]: @Arntzenius_2012_Space_Time_and_Stuff\.
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
 [^Einstein1913]: @Einstein_1913_Entwurf_einer_verallgemeinerten\.
 [^Misner1973]: @Misner_1973_Gravitation\.
+[^Ryden2003]: @Ryden_2022_Introduction_to_Cosmology\.
 
 
 ### Newtonian gravity
@@ -1369,6 +1379,7 @@ Gravity and cosmology
 -   Arno Penzias and Robert Wilson discovered the cosmic background radiation (CMB) in 1964.
 -   See history reviewed by Fr&egrave; [^Fre2013v2ch4]
 -   *The First Three Minutes* [^Weinberg1977]
+-   Big Bang Nucleosynthesis (BBN)
 
 [^Fre2013v2ch4]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 4.
 [^Weinberg1977]: @Weinberg_1977_The_First_Three_Minutes\.
