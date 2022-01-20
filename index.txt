@@ -44,7 +44,8 @@ News
     the standard model Higgs boson.
 -   Jan 2009: I moved to near Geneva, Switerland to work on the
     [ATLAS experiment](https://atlas.cern/) at [CERN](http://home.cern/).
--   June 2006: I spent my first summer at CERN, helping comission
+-   June 2006: I spent my first summer at CERN,
+    [helping comission](img/ryan-with-endcap-trt-sr1-2006-07.jpg)
     Transition Radiation Tracker (TRT), a sub-detector within the
     ATLAS experiment.
 
