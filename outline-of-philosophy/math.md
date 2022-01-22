@@ -144,6 +144,10 @@ TODO
     -   Varadarajan, V. S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. [^Varadarajan2003]
 -   Chern-Simons theory
 
+See also:
+
+-   [Fiber bundles](physics.html#fiber-bundles)
+
 [^Fre2013v1ch2]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_1\, ch. 2.
 [^Varadarajan2003]: @Varadarajan_2003_Vector_bundles_and_connections_in_physics\.
 [^Way2010]: @Way_2010_Introduction_to_connections_on_principal_fibre\.

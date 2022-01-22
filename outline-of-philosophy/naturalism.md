@@ -247,7 +247,7 @@ Sellars:
 
 -   William Whewell (1794-1866)
     -   *Philosophy of the Inductive Sciences* (1840)
--   Wilson, E.O. (1998). *Consilience*. [^Wilson1998]
+-   Wilson, E.O. (1998). *Consilience: The Unity of Knowledge*. [^Wilson1998]
 -   Convergence of evidence
 -   Unity of knowledge
 -   The Canberra Plan
@@ -263,7 +263,7 @@ Sellars:
 >   concepts. [^VCManifesto1929s2]
 
 [^VCManifesto1929s2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect; 2.
-[^Wilson1998]: @Wilson_1998_Consilience\.
+[^Wilson1998]: @Wilson_1998_Consilience_The_Unity_of_Knowledge\.
 
 
 ### Progress
@@ -838,7 +838,7 @@ Dang & Bright:
 ### Culture wars
 
 -   The Two Cultures
-    -   C.P. Snow (1959)
+    -   Snow, C.P. (1959). *The Two Cultures and the Scientific Revolution*. [^Snow1959]
     -   Brockman, J. (1991). [The third culture](https://www.edge.org/conversation/john_brockman-the-third-culture).
 -   2 + 2 = 5 Twitter controversy
     -   <https://twitter.com/kareem_carr/status/1288991602069970946>
@@ -867,6 +867,7 @@ Dang & Bright:
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.
 [^McManus2020]: @McManus_2020_Myth_and_mayhem_A_leftist_critique_of_Jordan\.
 [^Perrin2017]: @Perrin_2017_Stop_blaming_postmodernism_for_post_truth\.
+[^Snow1959]: @Snow_1959_The_Two_Cultures_and_the_Scientific_Revolution\.
 [^Thomas2015]: @Thomas_2015_A_disease_of_scienceyness\.
 
 

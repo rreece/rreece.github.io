@@ -864,6 +864,10 @@ Maudlin:
 >   fiber bundles directly, not by trying to translate modern mathematics into
 >   archaic philosophical terminology. [^Maudlin2007p101]
 
+See also:
+
+-   [Differential geometry](math.html#differential-geometry)
+
 [^Aharonov1959]: @Aharonov_1959_Significance_of_electromagnetic_potentials\.
 [^Frankel2004]: @Frankel_2004_The_Geometry_of_Physics\.
 [^Maudlin2007p96]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 96.
