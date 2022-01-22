@@ -808,6 +808,7 @@ Exotics in quantum field theory
 
 #### Aharanov-Bohm effect
 
+-   Aharonov, Y. & Bohm, D. (1959). Significance of electromagnetic potentials in quantum theory. [^Aharonov1959]
 -   Healey on the Aharonov-Bohm effect [^Healey2007ch2]
 -   Holonomy
 -   Falling cats
@@ -863,6 +864,7 @@ Maudlin:
 >   fiber bundles directly, not by trying to translate modern mathematics into
 >   archaic philosophical terminology. [^Maudlin2007p101]
 
+[^Aharonov1959]: @Aharonov_1959_Significance_of_electromagnetic_potentials\.
 [^Frankel2004]: @Frankel_2004_The_Geometry_of_Physics\.
 [^Maudlin2007p96]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 96.
 [^Maudlin2007p101]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 101.
@@ -1360,7 +1362,7 @@ Gravity and cosmology
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
 [^Einstein1913]: @Einstein_1913_Entwurf_einer_verallgemeinerten\.
 [^Misner1973]: @Misner_1973_Gravitation\.
-[^Ryden2003]: @Ryden_2022_Introduction_to_Cosmology\.
+[^Ryden2003]: @Ryden_2003_Introduction_to_Cosmology\.
 
 
 ### Newtonian gravity
