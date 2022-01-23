@@ -815,7 +815,7 @@ Exotics in quantum field theory
 -   Aharonov, Y. & Bohm, D. (1959). Significance of electromagnetic potentials in quantum theory. [^Aharonov1959]
 -   Healey on the Aharonov-Bohm effect [^Healey2007ch2]
 -   Holonomy
--   Falling cats
+-   Batterman, R. (2003). Falling cats, parallel parking and polarized light. [^Batterman2003]
 
 Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fiber+bundles+in+physics) article:
 
@@ -873,6 +873,7 @@ See also:
 -   [Differential geometry](math.html#differential-geometry)
 
 [^Aharonov1959]: @Aharonov_1959_Significance_of_electromagnetic_potentials\.
+[^Batterman2003]: @Batterman_2003_Falling_cats_parallel_parking_and_polarized\.
 [^Frankel2004]: @Frankel_2004_The_Geometry_of_Physics\.
 [^Maudlin2007p96]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 96.
 [^Maudlin2007p101]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 101.

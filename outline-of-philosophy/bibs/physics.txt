@@ -20,6 +20,7 @@ Bain, J. (2013). Emergence in effective field theories. *European Journal for Ph
 Bargmann, V. & Wigner, E.P. (1948). Group theoretical discussion of relativistic wave equations. *Proceedings of the National Academy of Sciences*, 34, 211--223.
 Barrett, J.A. & Byrne, P. (2012). *The Everett Interpretation of Quantum Mechanics: Collected Works 1955-1980 with Commentary*. Princeton University Press.
 Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *European Journal for Philosophy of Science*, 1(2), 277--302. https://link.springer.com/article/10.1007/s13194-011-0023-9
+Batterman, R. (2003). Falling cats, parallel parking and polarized light. *Studies in History and Philosophy of Modern Physics*, 34, 527-557. http://philsci-archive.pitt.edu/794/
 Becker, A. (2018). *What is Real? The unfinished quest for the meaning of quantum physics*. Basic Books.
 Bell, J.S. (1955). Time reversal in field theory. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*, 231, 479--495.
 Bell, J.S. (1987). *Speakable and Unspeakable in Quantum Mechanics*. Cambridge University Press.
