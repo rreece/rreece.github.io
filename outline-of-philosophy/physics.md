@@ -238,7 +238,9 @@ Symmetry-first physics
 -   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. [^tHooft1994]
 -   Teller, P. (2000). The gauge argument. [^Teller2000]
 -   't Hooft, G. (2007). [Lie groups in physics](http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf). [^tHooft2007]
+-   Afriat, A. (2013). Weyl's gauge argument. [^Afriat2013]
 -   *Physics from Symmetry* [^Schwichtenberg2015]
+-   Dewar, N. (2019). Sophistication about symmetries. [^Dewar2019]
 
 Weyl:
 
@@ -250,6 +252,8 @@ Weyl:
 >   function $\lambda$ it has the character of "general" relativity
 >   and can naturally only be understood in that context. [^Weyl1929pX]
 
+[^Afriat2013]: @Afriat_2013_Weyls_gauge_argument\.
+[^Dewar2019]: @Dewar_2019_Sophistication_about_symmetries\.
 [^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^Teller2000]: @Teller_2000_The_gauge_argument\.
 [^tHooft1994]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.

@@ -410,6 +410,11 @@ Physicalism
 -   Parmenides
 -   Materialism, physicalism, functionalism
 -   Alyssa Ney on dualism, physicalism, neutral monism
+-   Completeness Thesis:
+    -   "the domain of the physical is causally closed."
+    -   Spurrett, D.J. (1999). *The Completeness of Physics*. [^Spurrett1999]
+    -   Spurrett, D.J. (1999). A note on the completeness of 'physics'. [^Spurrett1999b]
+-   Ney, A. (2021). The fundamentality of physics: Completeness or maximality? [^Ney2021]
 
 See also:
 
@@ -423,21 +428,23 @@ See also:
 -   TODO: find ref for Cox's art, that stars have standard spectra.
 -   Limits on deviations in $\alpha_\mathrm{EM}$
 
-See also:
-
--   [Bracketing human experience](physics.html#bracketing-human-experience)
-    in the [Outline on Philosophy of Physics](physics.html)
-
 ![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
 
 See also:
 
--   [Uniformity of nature](scientific-method.html#uniformity-of-nature) in the [Outline on the scientific method](scientific-method.html)
+-   [Bracketing human experience](physics.html#bracketing-human-experience)
+    in the [Outline on philosophy of physics](physics.html)
+-   [Uniformity of nature](scientific-method.html#uniformity-of-nature)
+    in the [Outline on the scientific method](scientific-method.html)
 
 
 ### Criticism
 
 -   TODO
+
+[^Ney2021]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
+[^Spurrett1999]: @Spurrett_1999_The_Completeness_of_Physics\.
+[^Spurrett1999b]: @Spurrett_1999_A_note_on_the_completeness_of_physics\.
 
 
 Reductionism

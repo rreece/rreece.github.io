@@ -1,4 +1,5 @@
 Aaronson, S. (2011). Why philosophers should care about computational complexity. https://arxiv.org/abs/1108.1791
+Afriat, A. (2013). Weyl's gauge argument. *Foundations of Physics*, 43(5), 699--705. http://philsci-archive.pitt.edu/9597/
 Aharonov, Y. & Bohm, D. (1959). Significance of electromagnetic potentials in the quantum theory. *Physical Review*, 115, 485--491. https://journals.aps.org/pr/abstract/10.1103/PhysRev.115.485
 Ananthaswamy, A. (2021). This simple experiment could challenge standard quantum theory. *Scientific American*. https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
@@ -45,6 +46,7 @@ Coleman, S. & Mandula, J. (1967). All possible symmetries of the S matrix. *Phys
 Cubitt, T., Perez-Garcia, D. & Wolf, M. (2015). Undecidability of the spectral gap. *Nature*, 528, 207--211.
 Das, S. & D{\"u}rr, D. (2019). Arrival time distributions of spin-1/2 particles. *Scientific Reports*, 9, 2242. https://www.nature.com/articles/s41598-018-38261-4
 Debono, I. & Smoot, G.F. (2016). General relativity and cosmology: Unsolved questions and future directions. *Universe*, 2, 23. https://arxiv.org/abs/1609.09781
+Dewar, N. (2019). Sophistication about symmetries. *British Journal for the Philosophy of Science*, 70, 485--521.
 DeWitt, B.S. (1970). Quantum mechanics and reality. *Physics Today*, 23(9), 30--35. https://physicstoday.scitation.org/doi/10.1063/1.3022331
 Dimopoulos, S. & Georgi, H. (1981). Softly broken supersymmetry and SU(5). *Nuclear Physics B*, 193, 150--162.
 Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. In Falkenburg, B. & Morrison, M. (Eds.) *Why More is Different: Philosophical issues in condensed matter physics and complex systems* (pp. 41--54). Springer.

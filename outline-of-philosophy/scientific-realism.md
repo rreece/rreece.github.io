@@ -1098,11 +1098,20 @@ Various reactions to positivism.
 -   Quine's "Two Dogmas of Empiricism" [^Quine1951-2]
     1.  Analytic/synthetic distinction
     2.  Reductionism (verification theory of meaning)
--   Quine: pale gray lore. TODO: find quote.
 -   Duhem-Quine thesis
     -   Claims that a hypothesis can never be tested in isolation.
     -   Confirmation holism
     -   Web of belief
+
+Quine on our pale gray lore:
+
+>   The lore of our fathers is a fabric of sentences. In our hands it develops
+>   and changes, through more or less arbitrary and deliberate revisions and
+>   additions of our own, more or less directly occasioned by the continuing
+>   stimulation of our sense organs. It is a pale grey lore, black with fact and
+>   white with convention. But I have found no substantial reasons for
+>   concluding that there are any quite black threads in it, or any white
+>   ones. [^Quine1960p374]
 
 Carnap remained optimistic about his views of analyticity, intension,
 and meaning:
@@ -1113,7 +1122,7 @@ and meaning:
 >   in their empirical investigations. The present paper indicates the
 >   possibility of such a construction. The fact that the concept of
 >   intension can be applied even to a robot shows that it does not have
->   the psychologistic character of the traditional concept of meaning. [^Carnap1955]
+>   the psychologistic character of the traditional concept of meaning. [^Carnap1955p46]
 
 -   *Word and Object* [^Quine1960]
     -   Inscrutability of reference
@@ -1144,11 +1153,12 @@ See also:
 -   The introduction to the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
     in the [Outline on the scientific method](scientific-method.html).
 
-[^Carnap1955]: @Carnap_1955_Meaning_and_synonymy_in_natural_languages\, p. 46--47, footnote 7.
+[^Carnap1955p46]: @Carnap_1955_Meaning_and_synonymy_in_natural_languages\, p. 46--47, footnote 7.
 [^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
 [^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
 [^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1960]: @Quine_1960_Word_and_Object\.
+[^Quine1960p374]: @Quine_1960_Carnap_and_logical_truth\, p. 374.
 [^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
 [^Quine1986]: @Quine_1986_The_Philosophy_of_WVQuine\.
 [^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
