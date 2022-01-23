@@ -1467,6 +1467,10 @@ Feminist epistemology
 -   Intersectionality
 -   [Feminist perspectives on argumentation](https://plato.stanford.edu/entries/feminism-argumentation/)
 
+See also:
+
+-   [Feminism in the Outline on ethics](ethics.html#feminism)
+
 
 ### Discussion
 
@@ -1477,7 +1481,6 @@ Feminist epistemology
 See also:
 
 -   [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism)
--   [Feminism in the Outline on ethics](ethics.html#feminism)
 
 
 ### Criticism
