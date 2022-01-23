@@ -1284,7 +1284,7 @@ See also:
     -   [Greisen-Zatsepin-Kuzmin (GZK) limit](https://en.wikipedia.org/wiki/Greisen%E2%80%93Zatsepin%E2%80%93Kuzmin_limit)
     -   Pierre Auger Collaboration [^PierreAuger]
 -   LSND anomaly, again
--   PRL. (2016). [Theorists react to the CERN 750 GeV diphoton data](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.116.150001)
+-   PRL. (2016). [Theorists react to the CERN 750 GeV diphoton data](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.116.150001).
 -   Garisto, D. (2018). [The era of anomalies](https://physics.aps.org/articles/v13/79).
 -   Lepton universality at LHCb
     -   LHCb Collaboration. (2021). [Test of lepton universality in beauty-quark decays](https://arxiv.org/abs/2103.11769).
@@ -1365,7 +1365,6 @@ Gravity and cosmology
 -   Carroll, S.M. (2004). *Spacetime and Geometry*. [^Carroll2004]
 -   Arntzenius, F. (2012). *Space, Time, and Stuff*. [^Arntzenius2012]
 -   Diffeomorphism invariance, background independence
--   Ryden, B. (2003). *Introduction to Cosmology*. [^Ryden2003]
 
 [^Arntzenius2012]: @Arntzenius_2012_Space_Time_and_Stuff\.
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
@@ -1390,6 +1389,7 @@ Gravity and cosmology
 -   Arno Penzias and Robert Wilson discovered the cosmic background radiation (CMB) in 1964.
 -   See history reviewed by Fr&egrave; [^Fre2013v2ch4]
 -   *The First Three Minutes* [^Weinberg1977]
+-   Ryden, B. (2003). *Introduction to Cosmology*. [^Ryden2003]
 -   Big Bang Nucleosynthesis (BBN)
 
 [^Fre2013v2ch4]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 4.
