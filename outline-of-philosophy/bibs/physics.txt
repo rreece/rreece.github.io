@@ -26,6 +26,7 @@ Bell, J.S. (1955). Time reversal in field theory. *Proceedings of the Royal Soci
 Bell, J.S. (1987). *Speakable and Unspeakable in Quantum Mechanics*. Cambridge University Press.
 Bohm, D. (1952). A suggested interpretation of the quantum theory in terms of 'hidden' variables, I and II. *Physical Review*, 85, 166--193.
 Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. *Physical Review*, 89, 458--466.
+Bokulich, P. (2011). Hempel's dilemma and domains of physics. *Analysis*, 71, 646--651.
 Borcherds, R.E. & Barnard, A. (2002). Lectures on quantum field theory. https://arxiv.org/abs/math-ph/0204014
 Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. *Studies in History and Philosophy of Modern Physics*, 33, 3--22. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.106&rep=rep1&type=pdf
 Broughton, M. et al. (2020). TensorFlow Quantum: A software framework for quantum machine learning. https://arxiv.org/abs/2003.02989
@@ -169,6 +170,7 @@ Teller, P. (2000). The gauge argument. *Philosophy of Science*. 67, 466--481.
 't Hooft, G. (2007). Lie groups in physics. http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf
 't Hooft, G. (2021). An unorthodox view on quantum mechanics. https://arxiv.org/abs/2104.03179
 Tong, D. (2006). Lectures on Quantum Field Theory. https://www.damtp.cam.ac.uk/user/tong/qft.html
+Tong, D. (2022). Lectures on Supersymmetric Field Theory. https://www.damtp.cam.ac.uk/user/tong/susy.html
 Tumulka, R. (2017). Bohmian mechanics. https://arxiv.org/abs/1704.08017
 van Hove, L. (1958). Von Neumann's contributions to quantum theory. *Bulletin of the American Mathematical Society*. 64, 95--100. https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-64/issue-3.P2/Von-Neumanns-contributions-to-quantum-theory/bams/1183522374.full
 van Nieuwenhuizen, P. (1981). Supergravity. *Physics Reports*, 68, 189--398.

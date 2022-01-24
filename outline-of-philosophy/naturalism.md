@@ -413,7 +413,7 @@ Physicalism
 -   Completeness Thesis:
     -   "the domain of the physical is causally closed."
     -   Spurrett, D.J. (1999). *The Completeness of Physics*. [^Spurrett1999]
-    -   Spurrett, D.J. (1999). A note on the completeness of 'physics'. [^Spurrett1999b]
+    -   Spurrett, D.J. & Papineau, D. (1999). A note on the completeness of 'physics'. [^Spurrett1999b]
 -   Ney, A. (2021). The fundamentality of physics: Completeness or maximality? [^Ney2021]
 
 See also:
@@ -482,8 +482,7 @@ Wittgenstein:
 -   Fundamentality:
     -   Ney [^Ney2018]
 -   Why "physics is fundamental"
--   Physicalism
--   Hempel's dilemma
+-   Physicalism and Hempel's dilemma
 -   [Robert Sapolsky (2010) lecture: Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo)
 
 [^Carnap1934]: @Carnap_1934_On_the_character_of_philophical_problems\.

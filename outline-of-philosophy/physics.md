@@ -948,7 +948,7 @@ Urs Schreiber:
 -   Pedagogy
     -   Martin, S.P. (2016). [A supersymmetry primer](https://arxiv.org/abs/hep-ph/9709356). [^Martin2016]
     -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
-    -   Tong, D. (2022). [Lectures on Supersymmetric Field Theory](https://www.damtp.cam.ac.uk/user/tong/susy.html).
+    -   Tong, D. (2022). [Lectures on Supersymmetric Field Theory](https://www.damtp.cam.ac.uk/user/tong/susy.html). [^Tong2022]
 
 See also:
 
@@ -961,6 +961,7 @@ See also:
 [^Martin2016]: @Martin_2016_A_supersymmetry_primer\.
 [^Murayama2000]: @Murayama_2000_Supersymmetry_phenomenology\.
 [^Schreiber2016]: @Schreiber_2016_Learn_about_supersymmetry_and_Delignes_theorem\.
+[^Tong2022]: @Tong_2022_Lectures_on_Supersymmetric_Field_Theory\.
 [^vanNieuwenhuizen1981]: @vanNieuwenhuizen_1981_Supergravity\.
 
 
@@ -1493,6 +1494,7 @@ Bracketing human experience
 
 -   entailment, reductionism
 -   crossing symmetry in QFT
+-   Bokulich, P. (2011). Hempel's dilemma and domains of physics. [^Bokulich2011]
 -   Carroll, S. (2013). Talk: [Poetic Naturalism](https://www.youtube.com/watch?v=xv0mKsO2goA).
 -   Carroll, S. (2014). Talk: [Has science refuted religion?](https://www.youtube.com/watch?v=40eiycH077A#t=402)
     Acceptance speech for the FFRF's the emperor has no clothes award.
@@ -1501,6 +1503,8 @@ Bracketing human experience
 -   Carroll, S. (2021). [The quantum field theory on which the everyday world supervenes](https://philpapers.org/rec/CARTQF-5).
 
 ![Sean Carroll on the entailment of everyday life by physics.](img/carroll-entailment.jpg){#fig:carroll-entailment}
+
+[^Bokulich2011]: @Bokulich_2011_Hempels_dilemma_and_domains_of_physics\.
 
 
 My thoughts
