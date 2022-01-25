@@ -855,6 +855,7 @@ Online Suttas:
         -   [Zazen](https://en.wikipedia.org/wiki/Zazen) - "seated meditation"
         -   [K&omacr;an](https://en.wikipedia.org/wiki/Koan)
         -   [D&omacr;gen](https://en.wikipedia.org/wiki/D%C5%8Dgen) (1200-1253)
+        -   [S&omacr;t&omacr;](https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D)
     -   SEP: [Japanese philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)
 -   [Korean Buddhism](https://en.wikipedia.org/wiki/Korean_Buddhism)
     -   [Seon](https://en.wikipedia.org/wiki/Korean_Seon) - "Ch&aacute;n" in Korea
@@ -863,7 +864,7 @@ Online Suttas:
 -   [Buddhism in the West](https://en.wikipedia.org/wiki/Buddhism_in_the_West)
     -   [&Eacute;tienne Lamotte](https://en.wikipedia.org/wiki/%C3%89tienne_Lamotte) (1903-1983)
     -   [Plum Village Tradition](https://en.wikipedia.org/wiki/Plum_Village_Tradition) (founded in France in 1982)
-        -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (b. 1926)
+        -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (1926-2022)
         -   [Engaged Buddhism](https://en.wikipedia.org/wiki/Engaged_Buddhism)
         -   [Ch&acirc;n Ph&acirc;p H&utilde;'u](https://plumvillage.org/monastics/dharma-teachers/br-phap-huu/) (b. 1987)
         -   [Dharma teachers at the Plum Village](https://plumvillage.org/about/dharma-teachers/)
@@ -875,6 +876,7 @@ Online Suttas:
         -   [Paul Carus](https://en.wikipedia.org/wiki/Paul_Carus) (1852-1919)
         -   [Soyen Shaku](https://en.wikipedia.org/wiki/Soyen_Shaku) (1860-1919)
         -   [Shunry&umacr; Suzuki](https://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki) (1904-1971)
+        -   [San Francisco Zen Center](https://en.wikipedia.org/wiki/San_Francisco_Zen_Center)
         -   [Alan Watts](https://en.wikipedia.org/wiki/Alan_Watts) (1915-1973)
         -   [Institute of Buddhist Studies](https://www.shin-ibs.edu/about/history/), Berkeley, CA
 
