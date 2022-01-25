@@ -769,7 +769,7 @@ See also:
 2.  [Sutta Pitaka](https://en.wikipedia.org/wiki/Sutta_Pitaka) - "Basket of Discourse"
     1.  [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN) - "collection of long discourses"
         -   [Mah&amacr;parinibb&amacr;na Sutta](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta)
-    2.  Majjhima Nik&amacr;ya - "collection of middle-length discourses"
+    2.  [Majjhima Nik&amacr;ya](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN) - "collection of middle-length discourses"
     3.  [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN) - "collection of connected discourses"
         -   [Kacc&amacr;nagotta Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) - "On Right View" (SN 12.15)
         -   [Sabba Sutta](https://suttacentral.net/sn35.23/en/bodhi) or "Discourse on Everything" (SN 35.23)
@@ -867,6 +867,7 @@ Online Suttas:
         -   [Engaged Buddhism](https://en.wikipedia.org/wiki/Engaged_Buddhism)
         -   [Ch&acirc;n Ph&acirc;p H&utilde;'u](https://plumvillage.org/monastics/dharma-teachers/br-phap-huu/) (b. 1987)
         -   [Dharma teachers at the Plum Village](https://plumvillage.org/about/dharma-teachers/)
+        -   [Forty Tenets of Plum Village](https://orderofinterbeing.org/2016/07/forty-tenets-of-plum-village/)
     -   [Buddhism in the United States](https://en.wikipedia.org/wiki/Buddhism_in_the_United_States)
         -   In 1893, the first J&omacr;do Shinsh&umacr; monks arrived in San Francisco,
             and they established the Buddhist Missions of North America,
@@ -909,6 +910,14 @@ Online Suttas:
 
 #### Primary texts
 
+-   [Five &Amacr;gamas](https://en.wikipedia.org/wiki/%C4%80gama_(Buddhism)) - Chinese translations of the Nik&amacr;yas of the Sutta Pitaka.
+    1.  [D&imacr;rgha &Amacr;gama](https://en.wikipedia.org/wiki/Dirgha_Agama) = [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN)
+    2.  [Madhyama &Amacr;gama](https://en.wikipedia.org/wiki/Madhyama_Agama) = [Majjhima Nik&amacr;ya](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN)
+    3.  [Samyukta &Amacr;gama](https://en.wikipedia.org/wiki/The_Shorter_Chinese_Sa%E1%B9%83yukta_%C4%80gama) = [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN)
+        -   [Discourse on taking refuge in oneself](https://plumvillage.org/library/sutras/discourse-on-taking-refuge-in-oneself/) (Samyukta &Amacr;gama 639, SN 47.14)
+        -   Thich Nhat Hanh's Dhamma talk: [The Island of Self; The Three Dharma Seals](https://sites.google.com/site/tnhdhamma/Home/test-list/the-island-of-self-the-three-dharma-seals).
+    4.  [Ekottara &Amacr;gama](https://en.wikipedia.org/wiki/Ekottara_Agama) = [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN)
+    5.  [Ksudraka &Amacr;gama](https://en.wikipedia.org/wiki/Ksudraka_Agama) = [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN)
 -   Mah&amacr;y&amacr;na builds on the Therav&amacr;da texts, adding the [Mah&amacr;y&amacr;na sutras](https://en.wikipedia.org/wiki/Mahayana_sutras).
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) - "The Perfection of Wisdom"
     -   radical non-dualism
