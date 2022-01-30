@@ -1074,7 +1074,7 @@ Interpretations of quantum mechanics
 
 >   A theory containing many _ad hoc_ constants and restrictions,
 >   or many independent hypotheses, in no way impresses us as much
->   as one which is largely free of arbitrariness. [^Barrett2012p171]
+>   as one which is largely free of arbitrariness. [^Everett2012p171]
 
 -   Schr&ouml;dinger himself suggested in 1952 that the different terms
     of a superposition evolving under the Schr&ouml;dinger equation are
@@ -1115,7 +1115,7 @@ Interpretations of quantum mechanics
 >   various parts of this book). [^Joos2003p22]
 
 [^Barrett2011]: @Barrett_2011_Everetts_pure_wave_mechanics_and_the_notion\.
-[^Barrett2012p171]: @Barrett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\, p. 171.
+[^Everett2012p171]: @Everett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\, p. 171.
 [^Everett1956]: @Everett_1956_Theory_of_the_Universal_Wave_Function\.
 [^Everett1957]: @Everett_1957_Relative_state_formulation_of_quantum_mechanics\.
 [^Everett2012]: @Everett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\.
