@@ -1082,12 +1082,18 @@ Interpretations of quantum mechanics
 -   Hugh Everett, III
     -   Everett, H. (1956). *Theory of the Universal Wave Function*. Ph.D. thesis. [^Everett1956]
     -   Everett, H. (1957). "Relative state" formulation of quantum mechanics. [^Everett1957]
--   Wheeler, J.A. (1957). Assessment of Everett's "relative state" formulation of quantum theory. [^Wheeler1957]
+    -   Wheeler, J.A. (1957). Assessment of Everett's "relative state" formulation of quantum theory. [^Wheeler1957]
+    -   Everett's collected works [^Everett2012]
 -   DeWitt, B. S. (1970). [Quantum mechanics and reality](https://physicstoday.scitation.org/doi/10.1063/1.3022331). [^DeWitt1970]
--   DeWitt, B.S. & Graham, N. (1973). *The Many-Worlds Interpretation of Quantum Mechanics*. Princeton University Press. [^DeWitt1973]
--   note relationship with decoherence
--   Barrett [^Barrett2011]
--   Everett's collected works [^Everett2012]
+-   DeWitt, B.S. & Graham, N. (1973). *The Many-Worlds Interpretation of Quantum Mechanics*. [^DeWitt1973]
+-   Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. [^Barrett2011]
+
+>   It is therefore improper to attribute any less validity or "reality"
+>   to any element of a superposition than any other element, due to this ever
+>   present possibility of obtaining interference effects between the elements.
+>   All elements of a superposition must be regarded as simultaneously
+>   existing. [^Everett2012p150]
+
 -   Wallace, D. (2012). *The Emergent Multiverse*. [^Wallace2012]
 -   Carroll's mad-dog Everettianism [^Carroll2019-2]
 -   Carroll, S.M. (2019). *Something Deeply Hidden*.[^Carroll2019]
@@ -1114,7 +1120,12 @@ Interpretations of quantum mechanics
 >   "quantum jumps" or "collapse events" (as will be discussed in great detail in
 >   various parts of this book). [^Joos2003p22]
 
+See also:
+
+-   [Decoherence](physics.html#decoherence)
+
 [^Barrett2011]: @Barrett_2011_Everetts_pure_wave_mechanics_and_the_notion\.
+[^Everett2012p150]: @Everett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\, p. 150.
 [^Everett2012p171]: @Everett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\, p. 171.
 [^Everett1956]: @Everett_1956_Theory_of_the_Universal_Wave_Function\.
 [^Everett1957]: @Everett_1957_Relative_state_formulation_of_quantum_mechanics\.
