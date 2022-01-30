@@ -419,10 +419,10 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 -   Zurek, W.H. (2003). [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127). [^Zurek2003]
 -   *Decoherence and the Appearance of a Classical World in Quantum Theory* [^Joos2003]
 -   Decoherence times from various scatterings [^Tegmark1993]
--   Drossel [^Drossel2015]
 -   Schlosshauer, M. (2005). [Decoherence, the measurement problem, and interpretations of quantum mechanics](https://arxiv.org/abs/quant-ph/0312059). [^Schlosshauer2005]
 -   My quora answer: [What is currently the best explanation for how and why the quantum wave function collapses?](https://www.quora.com/What-is-currently-the-best-explanation-for-how-and-why-the-quantum-wave-function-collapses/answer/Ryan-Reece)
 -   Decoherence and Everett's interpretation
+-   Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. [^Drossel2015]
 
 See also:
 
@@ -1087,6 +1087,7 @@ Interpretations of quantum mechanics
 -   DeWitt, B. S. (1970). [Quantum mechanics and reality](https://physicstoday.scitation.org/doi/10.1063/1.3022331). [^DeWitt1970]
 -   DeWitt, B.S. & Graham, N. (1973). *The Many-Worlds Interpretation of Quantum Mechanics*. [^DeWitt1973]
 -   Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. [^Barrett2011]
+-   Barrett, J.A. (2016). Quantum worlds. [^Barrett2016]
 
 >   It is therefore improper to attribute any less validity or "reality"
 >   to any element of a superposition than any other element, due to this ever
@@ -1125,6 +1126,7 @@ See also:
 -   [Decoherence](physics.html#decoherence)
 
 [^Barrett2011]: @Barrett_2011_Everetts_pure_wave_mechanics_and_the_notion\.
+[^Barrett2016]: @Barrett_2016_Quantum_Worlds\.
 [^Everett2012p150]: @Everett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\, p. 150.
 [^Everett2012p171]: @Everett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\, p. 171.
 [^Everett1956]: @Everett_1956_Theory_of_the_Universal_Wave_Function\.
