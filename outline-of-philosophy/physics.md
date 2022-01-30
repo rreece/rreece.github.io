@@ -985,22 +985,9 @@ Interpretations of quantum mechanics
 
 ### Measurement problem
 
+-   Schr&ouml;dinger's cat
 -   Penrose: $U$ and $R$ operators
-
-
-### EPR paradox
-
--   Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? [^Einstein1935]
-
-[^Einstein1935]: @Einstein_1935_Can_quantum_mechanical_description_of_physical\.
-
-
-### Bell's theorem
-
--   TODO
--   Mermin [^Mermin1985]
-
-[^Mermin1985]: @Mermin_1985_Is_the_moon_there_when_nobody_looks_Reality\.
+-   Wigner's friend
 
 
 ### Copenhagen "interpretation"
@@ -1010,6 +997,38 @@ Interpretations of quantum mechanics
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
 
 [^Becker2018]: @Becker_2018_What_is_Real_The_unfinished_quest_for_the_meaning\.
+
+
+### EPR paradox
+
+-   Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? [^Einstein1935]
+-   Bohm, D. & Aharonov, Y. (1957). Discussion of experimental proof for the paradox of Einstein, Rosen, and Podolsky. [^Bohm1957]
+-   Mermin, N.D. (1985). Is the moon there when nobody looks? [^Mermin1985]
+
+[^Bohm1957]: @Bohm_1957_Discussion_of_experimental_proof_for_the_paradox\.
+[^Einstein1935]: @Einstein_1935_Can_quantum_mechanical_description_of_physical\.
+[^Mermin1985]: @Mermin_1985_Is_the_moon_there_when_nobody_looks_Reality\.
+
+
+### Bell's theorem
+
+-   Bell, J.S. (1964). On the Einstein Podolsky Rosen Paradox. [^Bell1964]
+-   Bell, J.S. (1966). On the problem of hidden variables in quantum mechanics. [^Bell1966]
+-   Kochen, S. & Specker, E.P. (1967). The problem of hidden variables in quantum mechanics. [^Kochen1967]
+-   Clauser, J., Horne, M., Shimony, A., & Holt, R. (1969). Proposed experiment to test local hidden-variable theories. [^Clauser1969]
+-   *Epistemological Letters*
+-   Aspect experiments (1982)
+-   Gisin's theorem [^Gisin1991]
+-   Maudlin, T. (2014). What Bell did. [^Maudlin2014]
+
+[^Bell1964]: @Bell_1964_On_the_Einstein_Podolsky_Rosen_Paradox\.
+[^Bell1966]: @Bell_1966_On_the_problem_of_hidden_variables_in_quantum\.
+[^Clauser1969]: @Clauser_1969_Proposed_experiment_to_test_local_hidden_variable\.
+[^Gisin1991]: @Gisin_1991_Bells_inequality_holds_for_all_non_product\,
+    @Gisin_1992_Maximal_violation_of_Bells_inequality\, and
+    @Gisin_1999_Bell_inequality_for_arbitrary_many_settings\.
+[^Kochen1967]: @Kochen_1967_The_problem_of_hidden_variables_in_quantum\.
+[^Maudlin2014]: @Maudlin_2014_What_Bell_did\.
 
 
 ### Bohmian mechanics
@@ -1093,29 +1112,48 @@ Interpretations of quantum mechanics
 
 ### Collapse interpretations
 
--   GRW
+-   Ghirardi-Rimini-Weber theory (GRW) [^Ghirardi1986]
 -   TODO: find ref that GRW is empirical
+
+[^Ghirardi1986]: @Ghirardi_1986_Unified_dynamics_for_microscopic_and_macroscopic\.
 
 
 ### Epistemic interpretations
 
 -   $\psi$-epistemic interpretations
 -   Quantum Bayesianism (QBism)
--   Fuchs and Schack
--   Mermin
--   Leifer, M.S. & Spekkens, R.W. (2011). [Towards a formulation of quantum theory as a causally neutral theory of bayesian inference.](https://arxiv.org/abs/1107.5849)
+    -   Caves, C.M., Fuchs, C.A., & Schack, R. (2001). [Quantum probabilities as Bayesian probabilities](https://arxiv.org/abs/quant-ph/0106133). [^Caves2001]
+    -   Fuchs, C.A. (2002). [Quantum mechanics as quantum information (and only a little more)](https://arxiv.org/abs/quant-ph/0205039). [^Fuchs2002]
+    -   Fuchs, C.A. (2010). [QBism, the perimeter of quantum Bayesianism](https://arxiv.org/abs/1003.5209). [^Fuchs2010]
+    -   Fuchs, C.A. & Schack, R. (2013). [Quantum-Bayesian coherence: The no-nonsense version](https://arxiv.org/abs/1301.3274). [Fuchs2013]
+    -   Fuchs, C.A., Mermin, N.D., & Schack, R. (2014). [An introduction to QBism with an application to the locality of quantum mechanics](https://arxiv.org/abs/1311.5253). [^Fuchs2014]
+    -   Fuchs, C.A. & Stacey, B.C. (2016). [QBism: Quantum theory as a hero's handbook](https://arxiv.org/abs/1612.07308). [^Fuchs2016]
+-   Harrigan, N., & Spekkens, R.W. (2010). [Einstein, incompleteness, and the epistemic view of quantum states](https://arxiv.org/abs/0706.2661). [^Harrigan2010]
+-   Leifer, M.S. & Spekkens, R.W. (2013). [Towards a formulation of quantum theory as a causally neutral theory of bayesian inference](https://arxiv.org/abs/1107.5849). [^Leifer2013]
+
+[^Caves2001]: @Caves_2001_Quantum_probabilities_as_Bayesian_probabilities\.
+[^Fuchs2002]: @Fuchs_2002_Quantum_mechanics_as_quantum_information_and_only\.
+[^Fuchs2010]: @Fuchs_2010_QBism_the_perimeter_of_quantum_Bayesianism\.
+[^Fuchs2013]: @Fuchs_2013_Quantum_Bayesian_coherence_The_no_nonsense\.
+[^Fuchs2014]: @Fuchs_2014_An_introduction_to_QBism_with_an_application\.
+[^Fuchs2016]: @Fuchs_2016_QBism_Quantum_theory_as_a_heros_handbook\.
+[^Harrigan2010]: @Harrigan_2010_Einstein_incompleteness_and_the_epistemic_view\.
+[^Leifer2013]: @Leifer_2013_Towards_a_formulation_of_quantum_theory_as\.
 
 
 ### PBR theorem
 
--   PBR [^Pusey2012]
+-   Pusey, M.F., Barrett, J., & Rudolph, T. (2012). [On the reality of the quantum state](https://arxiv.org/abs/1111.3328). [^Pusey2012]
 -   Wikipedia: Either the quantum state corresponds to a physically
     real object and is not merely a statistical tool, or else all quantum states,
     including non-entangled ones, can communicate by action at a distance. 
 -   Leifer, M.S. (2011). [Can the quantum state be interpreted statistically?](https://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/)
--   Gisin's Theorem
+-   Schlosshauer, M., & Fine, A. (2012). [Implications of the Pusey-Barrett-Rudolph quantum no-go theorem](https://arxiv.org/abs/1203.4779). [^Schlosshauer2012]
+-   Nigg, D. et al. (2015). [Can different quantum state vectors correspond to the same physical state? An experimental test](https://arxiv.org/abs/1211.0942). [^Nigg2015]
 
 [^Pusey2012]: @Pusey_2012_On_the_reality_of_the_quantum_state\.
+[^Nigg2015]: @Nigg_2015_Can_different_quantum_state_vectors_correspond\.
+[^Schlosshauer2012]: @Schlosshauer_2012_Implications_of_the_Pusey_Barrett_Rudolph_quantum\.
 
 
 ### Other interpretations

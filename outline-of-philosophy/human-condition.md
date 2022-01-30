@@ -835,6 +835,7 @@ Online Suttas:
 -   [Buddhism in China](https://en.wikipedia.org/wiki/Buddhism_in_China)
     -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
     -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism) (introduced in China in 147 CE)
+    -   [Kang Senghui](https://en.wikipedia.org/wiki/Kang_Senghui) AKA Tang Hoi in Vietnam (d. 280 CE)
     -   [Faxian](https://en.wikipedia.org/wiki/Faxian) (c. 337-422 CE)
     -   [Chan Buddhism](https://en.wikipedia.org/wiki/Chan_Buddhism) (began 6th century CE)
     -   [Bodhidharma](https://en.wikipedia.org/wiki/Bodhidharma) (c. 5th or 6th century CE)
@@ -852,10 +853,12 @@ Online Suttas:
     -   [Zen Buddhism](https://en.wikipedia.org/wiki/Zen)
         -   Began in China as "Ch&aacute;n"
         -   Introduced in Japan in 12th century CE and later romanized as "Zen"
-        -   [Zazen](https://en.wikipedia.org/wiki/Zazen) - "seated meditation"
-        -   [K&omacr;an](https://en.wikipedia.org/wiki/Koan)
         -   [D&omacr;gen](https://en.wikipedia.org/wiki/D%C5%8Dgen) (1200-1253)
-        -   [S&omacr;t&omacr;](https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D)
+        -   Three largest sects of Zen: [S&omacr;t&omacr;](https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D),
+            [Rinzai](https://en.wikipedia.org/wiki/Rinzai_school), and [&Omacr;baku](https://en.wikipedia.org/wiki/%C5%8Cbaku)
+        -   [Zazen](https://en.wikipedia.org/wiki/Zazen) - seated meditation 
+        -   [K&omacr;an](https://en.wikipedia.org/wiki/Koan) - a short story designed to provoke enlightenment
+        -   [Japanese tea ceremony](https://en.wikipedia.org/wiki/Japanese_tea_ceremony)
     -   SEP: [Japanese philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)
 -   [Korean Buddhism](https://en.wikipedia.org/wiki/Korean_Buddhism)
     -   [Seon](https://en.wikipedia.org/wiki/Korean_Seon) - "Ch&aacute;n" in Korea
@@ -913,13 +916,13 @@ Online Suttas:
 #### Primary texts
 
 -   [Five &Amacr;gamas](https://en.wikipedia.org/wiki/%C4%80gama_(Buddhism)) - Chinese translations of the Nik&amacr;yas of the Sutta Pitaka.
-    1.  [D&imacr;rgha &Amacr;gama](https://en.wikipedia.org/wiki/Dirgha_Agama) = [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN)
-    2.  [Madhyama &Amacr;gama](https://en.wikipedia.org/wiki/Madhyama_Agama) = [Majjhima Nik&amacr;ya](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN)
-    3.  [Samyukta &Amacr;gama](https://en.wikipedia.org/wiki/The_Shorter_Chinese_Sa%E1%B9%83yukta_%C4%80gama) = [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN)
-        -   [Discourse on taking refuge in oneself](https://plumvillage.org/library/sutras/discourse-on-taking-refuge-in-oneself/) (Samyukta &Amacr;gama 639, SN 47.14)
+    1.  [D&imacr;rgha &Amacr;gama](https://en.wikipedia.org/wiki/Dirgha_Agama) (DA) = [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN)
+    2.  [Madhyama &Amacr;gama](https://en.wikipedia.org/wiki/Madhyama_Agama) (MA) = [Majjhima Nik&amacr;ya](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN)
+    3.  [Samyukta &Amacr;gama](https://en.wikipedia.org/wiki/The_Shorter_Chinese_Sa%E1%B9%83yukta_%C4%80gama) (SA) = [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN)
+        -   [Discourse on taking refuge in oneself](https://plumvillage.org/library/sutras/discourse-on-taking-refuge-in-oneself/) (SA 639, SN 47.14)
         -   Thich Nhat Hanh's Dhamma talk: [The Island of Self; The Three Dharma Seals](https://sites.google.com/site/tnhdhamma/Home/test-list/the-island-of-self-the-three-dharma-seals).
-    4.  [Ekottara &Amacr;gama](https://en.wikipedia.org/wiki/Ekottara_Agama) = [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN)
-    5.  [Ksudraka &Amacr;gama](https://en.wikipedia.org/wiki/Ksudraka_Agama) = [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN)
+    4.  [Ekottara &Amacr;gama](https://en.wikipedia.org/wiki/Ekottara_Agama) (EA) = [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN)
+    5.  [Ksudraka &Amacr;gama](https://en.wikipedia.org/wiki/Ksudraka_Agama) (KA) = [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN)
 -   Mah&amacr;y&amacr;na builds on the Therav&amacr;da texts, adding the [Mah&amacr;y&amacr;na sutras](https://en.wikipedia.org/wiki/Mahayana_sutras).
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) - "The Perfection of Wisdom"
     -   radical non-dualism
