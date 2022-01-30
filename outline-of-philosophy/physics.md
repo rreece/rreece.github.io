@@ -416,9 +416,11 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 
 ### Decoherence
 
+-   Zurek, W.H. (2003). [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127). [^Zurek2003]
 -   *Decoherence and the Appearance of a Classical World in Quantum Theory* [^Joos2003]
 -   Decoherence times from various scatterings [^Tegmark1993]
 -   Drossel [^Drossel2015]
+-   Schlosshauer, M. (2005). [Decoherence, the measurement problem, and interpretations of quantum mechanics](https://arxiv.org/abs/quant-ph/0312059). [^Schlosshauer2005]
 -   My quora answer: [What is currently the best explanation for how and why the quantum wave function collapses?](https://www.quora.com/What-is-currently-the-best-explanation-for-how-and-why-the-quantum-wave-function-collapses/answer/Ryan-Reece)
 -   Decoherence and Everett's interpretation
 
@@ -428,7 +430,9 @@ See also:
 
 [^Drossel2015]: @Drossel_2015_On_the_relation_between_the_second_law\, p. 51--2.
 [^Joos2003]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\.
+[^Schlosshauer2005]: @Schlosshauer_2005_Decoherence_the_measurement_problem\.
 [^Tegmark1993]: @Tegmark_1993_Apparent_wave_function_collapse_caused\.
+[^Zurek2003]: @Zurek_2003_Decoherence_einselection_and_the_quantum_origins\.
 
 
 ### Quantum chemistry
@@ -989,6 +993,11 @@ Interpretations of quantum mechanics
 -   Schr&ouml;dinger's cat
 -   Penrose: $U$ and $R$ operators
 -   Wigner's friend
+    -   Deutsch, D. (1985). Quantum theory as a universal physical theory. [^Deutsch1985]
+    -   Bong, K.W. et al. (2020). [A strong no-go theorem on the Wigner's friend paradox](https://arxiv.org/abs/1907.05607). [^Bong2020]
+
+[^Bong2020]: @Bong_2020_A_strong_no_go_theorem_on_the_Wigners_friend\.
+[^Deutsch1985]: @Deutsch_1985_Quantum_theory_as_a_universal_physical_theory\.
 
 
 ### Copenhagen "interpretation"
@@ -1070,11 +1079,15 @@ Interpretations of quantum mechanics
 -   Schr&ouml;dinger himself suggested in 1952 that the different terms
     of a superposition evolving under the Schr&ouml;dinger equation are
     "not alternatives but all really happen simultaneously" (Wikipedia)
--   Hugh Everett III
--   DeWitt [^DeWitt1970]
+-   Hugh Everett, III
+    -   Everett, H. (1956). *Theory of the Universal Wave Function*. Ph.D. thesis. [^Everett1956]
+    -   Everett, H. (1957). "Relative state" formulation of quantum mechanics. [^Everett1957]
+-   Wheeler, J.A. (1957). Assessment of Everett's "relative state" formulation of quantum theory. [^Wheeler1957]
+-   DeWitt, B. S. (1970). [Quantum mechanics and reality](https://physicstoday.scitation.org/doi/10.1063/1.3022331). [^DeWitt1970]
+-   DeWitt, B.S. & Graham, N. (1973). *The Many-Worlds Interpretation of Quantum Mechanics*. Princeton University Press. [^DeWitt1973]
 -   note relationship with decoherence
 -   Barrett [^Barrett2011]
--   Everett's collected works [^Barrett2012]
+-   Everett's collected works [^Everett2012]
 -   Wallace, D. (2012). *The Emergent Multiverse*. [^Wallace2012]
 -   Carroll's mad-dog Everettianism [^Carroll2019-2]
 -   Carroll, S.M. (2019). *Something Deeply Hidden*.[^Carroll2019]
@@ -1103,12 +1116,16 @@ Interpretations of quantum mechanics
 
 [^Barrett2011]: @Barrett_2011_Everetts_pure_wave_mechanics_and_the_notion\.
 [^Barrett2012p171]: @Barrett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\, p. 171.
-[^Barrett2012]: @Barrett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\.
+[^Everett1956]: @Everett_1956_Theory_of_the_Universal_Wave_Function\.
+[^Everett1957]: @Everett_1957_Relative_state_formulation_of_quantum_mechanics\.
+[^Everett2012]: @Everett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\.
 [^Carroll2019-2]: @Carroll_2019_Mad_Dog_Everettianism_Quantum_mechanics_at_its\.
 [^Carroll2019]: @Carroll_2019_Something_Deeply_Hidden\.
 [^DeWitt1970]: @DeWitt_1970_Quantum_mechanics_and_reality\.
+[^DeWitt1973]: @DeWitt_1973_The_Many_Worlds_Interpretation_of_Quantum\.
 [^Joos2003p22]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\, p. 22.
 [^Wallace2012]: @Wallace_2012_The_Emergent_Multiverse\.
+[^Wheeler1957]: @Wheeler_1957_Assessment_of_Everetts_relative_state\.
 
 
 ### Collapse interpretations
