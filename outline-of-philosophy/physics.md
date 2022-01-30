@@ -1262,10 +1262,11 @@ a key to explaining electroweak symmetry breaking in the Standard Model of parti
 
 ### Three generations of fermions
 
--   Discovery of charm: "November revolution"
--   Discovery of bottom
--   Discovery of tau
--   Discovery of top
+-   Discovery of charm: "November revolution" at SLAC and BNL (1974)
+-   Discovery of tau at SLAC + LBL (1975)
+-   Discovery of bottom at Fermilab (1977)
+-   Discovery of three neutrino generations from the $Z$ width at LEP (1989)
+-   Discovery of top at Fermilab (1995)
 
 ![The total action of the physics of the standard model 
     together with general relativity as presented by [Sean Carroll on his blog](http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/).
