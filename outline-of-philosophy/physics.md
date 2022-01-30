@@ -565,7 +565,6 @@ See also:
 
 #### CPT theorem
 
--   CPT theorem
 -   Bell, J.S. (1955). Time reversal in field theory. [^Bell1955]
 -   Streater, R. & Wightman, A. (1964). *PCT, spin and statistics, and all that*. [^Streater1964]
 -   Greaves, H. & Thomas, T. (2012). [The CPT Theorem](https://arxiv.org/abs/1204.4674). [^Greaves2012]
@@ -736,8 +735,8 @@ Baez:
 
 -   AQFT vs LQFT
 -   *Local Quantum Physics* [^Haag1992]
--   Wallace
--   Fraser
+-   Wallace [^Wallace2011]
+-   Fraser [^Fraser2011]
 -   Buchholz [^Buchholz1998]
 
 Kastler:
@@ -753,8 +752,10 @@ Kastler:
 >   his procedures at [particle] accelerators. [^Kastler2003p6]
 
 [^Buchholz1998]: @Buchholz_1998_Current_trends_in_axiomatic_quantum_field_theory\.
+[^Fraser2011]: @Fraser_2011_How_to_take_particle_physics_seriously_A_further\.
 [^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
 [^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
+[^Wallace2011]: @Wallace_2011_Taking_particle_physics_seriously_A_critique\.
 
 
 #### Haag's theorem
@@ -1401,7 +1402,7 @@ Gravity and cosmology
 -   Recall [Special relativity](#special-relativity).
 -   [Bernhard Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann) (1826-1866)
 -   Einstein, A. & Grossmann, M. (1913). Outline of a generalized theory of relativity and of a theory of gravitation. [^Einstein1913]
--   MTW. (1973). *Gravitation*. [^Misner1973]
+-   Misner, C.W., Thorne, K.S., & Wheeler, J.A. (1973). *Gravitation*. [^Misner1973]
 -   Carroll, S.M. (2004). *Spacetime and Geometry*. [^Carroll2004]
 -   Arntzenius, F. (2012). *Space, Time, and Stuff*. [^Arntzenius2012]
 -   Diffeomorphism invariance, background independence

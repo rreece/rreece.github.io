@@ -1,7 +1,7 @@
 Ayer, A. J. (1952). *Language, truth and logic* (2 ed.). Dover Publications. [(Originally published in 1946)]
 #Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. *Erkenntnis*, 2. https://philpapers.org/archive/TEO.pdf
 Carnap, R. (1959). The elimination of metaphysics through logical analysis of language. In A.J. Ayer (Ed.) *Logical Positivism* (pp. 60--81). New York: The Free Press. https://philpapers.org/archive/TEO.pdf [(Translated by Arthur Pap; originally published in 1932 as ``{\"U}berwindung der metaphysik durch logische analyse der sprache`` in \emph{Erkenntnis}, 2, 219--241.)]
-Carnap, R. (1950). Empiricism, semantics, and ontology. *Revue Internationale de Philosophie*, 4, 20--40.
+Carnap, R. (1950). Empiricism, semantics, and ontology. *Revue Internationale de Philosophie*, 4, 20--40. https://tu-dresden.de/gsw/phil/iphil/theor/ressourcen/dateien/braeuer/lehre/metameta/Carnap---EmpiricismSemanticsOntology.pdf
 Carnap, R. (1955). The logical foundations of the unity of science. In *International Encyclopedia of Unified Science: Volume I* (pp. 42--62). University of Chicago Press.
 Carnap, R. (1955). Meaning and synonymy in natural languages. *Philosophical Studies*, 6, 33--47.
 Carnap, R. (1936). Testability and meaning. *Philosophy of Science*, 3, 419--471.
