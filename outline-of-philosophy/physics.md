@@ -69,8 +69,14 @@ Discussion:
 
 ### Contemporary views of matter
 
--   QFT, etc.
+-   Quantum field theory
+-   Statistical mechanics and condensed matter physics
 -   TODO: Brief nod to upcoming sections.
+
+See also:
+
+-   [Quantum field theory](#quantum-field-theory)
+-   [Statistical mechanics](#statistical-mechanics)
 
 
 Classical physics
@@ -196,6 +202,7 @@ TODO:
 
 -   Phase transitions
 -   Renormalization
+-   Universality
 
 See also:
 
@@ -321,27 +328,31 @@ Feynman and Hibbs on the uncertainty principle:
 
 -   [History of quantum mechanics](https://en.wikipedia.org/wiki/History_of_quantum_mechanics)
 -   Kelvin, L. (1901). Nineteenth century clouds over the dynamical theory of heat and light. [^Kelvin1901]
+-   [Hendrik Lorentz](https://en.wikipedia.org/wiki/Hendrik_Lorentz) (1853-1928)
 -   [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) (1858-1947)
+-   [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie) (1867-1934)
 -   [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (1879-1955)
 -   [Max Born](https://en.wikipedia.org/wiki/Max_Born) (1882-1970)
 -   [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962)
 -   [Erwin Schr&ouml;dinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger) (1887-1961)
 -   [Louis de Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) (1892-1987)
--   [Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg) (1901-1976)
+-   [Lawrence Bragg](https://en.wikipedia.org/wiki/Lawrence_Bragg) (1890-1971)
 -   [Wolfgang Pauli](https://en.wikipedia.org/wiki/Wolfgang_Pauli) (1900-1958)
--   [Pascual Jordan](https://en.wikipedia.org/wiki/Pascual_Jordan) (1902-1980)
+-   [Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg) (1901-1976)
 -   [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac) (1902-1984)
 -   [An introduction to the Solvay conferences on physics](https://explore.psl.eu/en/discover/focus/introduction-solvay-conferences-physics) - Universit&eacute; PSL
 -   Bacciagaluppi, G. & Valentini, A. (2009). [*Quantum Theory at the Crossroads: Reconsidering the 1927 Solvay Conference*](https://arxiv.org/abs/quant-ph/0609184). [^Bacciagaluppi2009]
+-   [Proceedings of the Solvay conferences on physics](http://www.solvayinstitutes.be/html/solvayconf_physics.html)
 
 ![1927 Solvay Conference on Quantum Mechanics (source: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg)).](img/Solvay-conference-1927.jpg){#fig:Solvay-conference-1927}
 
+-   [Pascual Jordan](https://en.wikipedia.org/wiki/Pascual_Jordan) (1902-1980)
+-   [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) (1902-1995)
 -   [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann) (1903-1957)
     -   *The Mathematical Foundations of Quantum Mechanics* (1932) [^vonNeumann1955]
     -   van Hove, L. (1958). Von Neumann's contributions to quantum theory. [^vanHove1958]
 -   [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) (1904-1967)
--   [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) (1902-1995)
--   [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (1918-1988)
+-   [John Archibald Wheeler](https://en.wikipedia.org/wiki/John_Archibald_Wheeler) (1911-2008)
 
 [^Bacciagaluppi2009]: @Bacciagaluppi_2009_Quantum_Theory_at_the_Crossroads_Reconsidering\.
 [^Kelvin1901]: @Kelvin_1901_Nineteenth_century_clouds_over_the_dynamical\.
@@ -472,8 +483,10 @@ Quantum field theory
 
 #### Introduction
 
--   Field definition
--   Faraday intro
+-   Field definition - Faraday
+-   [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (1918-1988)
+-   [Julian Schwinger](https://en.wikipedia.org/wiki/Julian_Schwinger) (1918-1994)
+-   [Shin'ichir&omacr; Tomonaga](https://en.wikipedia.org/wiki/Shin%27ichir%C5%8D_Tomonaga) (1906-1979)
 -   Feynman's Nobel Lecture on QED [^Feynman1965]
 -   Weinberg's folk theorem: QFT is the right way to combine Lorentz invariance,
     quantum mechanics, and the cluster decomposition principle. [^Weinberg1997p8]
@@ -1156,7 +1169,7 @@ See also:
     -   Caves, C.M., Fuchs, C.A., & Schack, R. (2001). [Quantum probabilities as Bayesian probabilities](https://arxiv.org/abs/quant-ph/0106133). [^Caves2001]
     -   Fuchs, C.A. (2002). [Quantum mechanics as quantum information (and only a little more)](https://arxiv.org/abs/quant-ph/0205039). [^Fuchs2002]
     -   Fuchs, C.A. (2010). [QBism, the perimeter of quantum Bayesianism](https://arxiv.org/abs/1003.5209). [^Fuchs2010]
-    -   Fuchs, C.A. & Schack, R. (2013). [Quantum-Bayesian coherence: The no-nonsense version](https://arxiv.org/abs/1301.3274). [Fuchs2013]
+    -   Fuchs, C.A. & Schack, R. (2013). [Quantum-Bayesian coherence: The no-nonsense version](https://arxiv.org/abs/1301.3274). [^Fuchs2013]
     -   Fuchs, C.A., Mermin, N.D., & Schack, R. (2014). [An introduction to QBism with an application to the locality of quantum mechanics](https://arxiv.org/abs/1311.5253). [^Fuchs2014]
     -   Fuchs, C.A. & Stacey, B.C. (2016). [QBism: Quantum theory as a hero's handbook](https://arxiv.org/abs/1612.07308). [^Fuchs2016]
 -   Harrigan, N., & Spekkens, R.W. (2010). [Einstein, incompleteness, and the epistemic view of quantum states](https://arxiv.org/abs/0706.2661). [^Harrigan2010]
@@ -1252,6 +1265,8 @@ massive spin-zero particle, the Higgs boson. This is the Englert-Brout-Higgs-Gur
 or *Higgs mechanism*. In the Standard Model, the Higgs boson also couples
 to the fermions, generating their bare masses.
 
+Georgi: Is the Higgs real? [^Georgi1999p280]
+
 On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214) [^ATLAS2012] and [CMS](https://arxiv.org/abs/1207.7235) [^CMS2012]
 experiments both [announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
 a key to explaining electroweak symmetry breaking in the Standard Model of particle physics.
@@ -1259,6 +1274,7 @@ a key to explaining electroweak symmetry breaking in the Standard Model of parti
 [^ATLAS2012]: @ATLAS_2012_Observation_of_a_new_particle_in_the_search\.
 [^CMS2012]: @CMS_2012_Observation_of_a_new_boson_at_a_mass_of_125_GeV\.
 [^Englert1964]: @Englert_1964_Broken_symmetry_and_the_mass_of_gauge_vector\.
+[^Georgi1999p280]: @Georgi_1999_Lie_Algebras_in_Particle_Physics\, p. 280.
 [^Higgs1964]: @Higgs_1964_Broken_symmetries_massless_particles_and_gauge\.
 [^Guralnik1964]: @Guralnik_1964_Global_conservation_laws_and_massless_particles\.
 
@@ -1375,6 +1391,7 @@ See also:
     -   Pati & Salam [^Pati1974]
     -   Georgi & Glashow [^Glashow1974]
     -   Slansky [^Slansky1981]
+    -   Georgi, H. (1982). *Lie Algebras in Particle Physics*. [^Georgi1982]
     -   Beaz & Huerta [^Baez2009]
 
 ![Two-loop renormalization group evolution of the inverse gauge couplings, $\alpha^{-1}$,
@@ -1389,6 +1406,7 @@ See also:
 
 [^Baez2009]: @Baez_2009_The_algebra_of_grand_unified_theories\.
 [^Glashow1974]: @Georgi_1974_Unity_of_all_elementary_particle_forces\.
+[^Georgi1982]: @Georgi_1999_Lie_Algebras_in_Particle_Physics\.
 [^Martin2016p66]: @Martin_2016_A_supersymmetry_primer\, p. 66.
 [^Pati1974]: @Pati_1974_Lepton_number_as_the_fourth_color\.
 [^Slansky1981]: @Slansky_1981_Group_theory_for_unified_model_building\.

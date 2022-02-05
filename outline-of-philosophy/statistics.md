@@ -1474,6 +1474,7 @@ Resources:
     -   Transformer [^Vaswani2017]
     -   BERT [^Devlin2018]
     -   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
+    -   Horan, C. (2021). [10 things you need to know about BERT and the transformer architecture that are reshaping the AI landscape](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape).
     -   Video: [What are transformer neural networks?](https://www.youtube.com/watch?v=XSSTuhyAmnI&t=92s&ab_channel=AriSeff)
     -   Video: [How to get meaning from text with language model BERT](https://www.youtube.com/watch?v=-9vVhYEXeyQ&ab_channel=Peltarion).
     -   ALBERT [^Lan2019]

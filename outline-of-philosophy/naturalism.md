@@ -546,13 +546,17 @@ See also:
 
 ### Criticism
 
--   Hennig: "What are the true clusters?"
+-   Hennig, C. (2015). What are the true clusters? [^Hennig2015]
+-   Haslanger, S. (2012). *Resisting Reality: Social Construction and Social Critique*. [^Haslanger2012]
 
 See also:
 
 -   [Clustering](statistics.html#clustering) in the [Outline on statistics](statistics.html)
 -   [Constructive empiricism](scientific-realism.html#constructive-empiricism) in the [Outline on scientific realism](scientific-realism.html)
 -   [Nominalism](math.html#nominalism) in the [Outline on mathematics](math.html).
+
+[^Haslanger2012]: @Haslanger_2012_Resisting_Reality_Social_Construction_and_Social\.
+[^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
 
 
 Rejection of the supernatural

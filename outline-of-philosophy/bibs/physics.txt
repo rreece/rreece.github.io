@@ -95,6 +95,7 @@ Fuchs, C.A., Mermin, N.D., & Schack, R. (2014). An introduction to QBism with an
 Fuchs, C.A. & Schack, R. (2013). Quantum-Bayesian coherence: The no-nonsense version. *Reviews of Modern Physics*, 85, 1693--1715. https://arxiv.org/abs/1301.3274
 Fuchs, C.A. & Stacey, B.C. (2016). QBism: Quantum theory as a hero's handbook. https://arxiv.org/abs/1612.07308
 Joos, E., Zeh, H.D., Kiefer, C., Giulini, D.,  Kupsch, J., Stamatescu, I.O. (2003). *Decoherence and the Appearance of a Classical World in Quantum Theory* (2nd ed.). Springer. [(Originally published in 1996)]
+Georgi, H. (1999). *Lie Algebras in Particle Physics* (2nd ed.). Westview Press. [(Originally published in 1982)]
 Georgi, H. & Glashow, S.L. (1974). Unity of all elementary-particle forces. *Physical Review Letters*, 32, 438--441. http://pcbat1.mi.infn.it/~battist/astrop/su5.pdf
 Ghirardi, G.C., Rimini, A., and Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34, 470--491.
 Gisin, N. (1991). Bell's inequality holds for all non-product states. *Physics Letters A*, 154, 201--202.

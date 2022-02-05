@@ -581,7 +581,10 @@ instead realists about science, math, and/or ethics, for example following
 a version of structural realism about the discoveries from science, capturing
 and constraining real structures in nature.
 
+-    "Positivism and progress" in Solvay 2011 Proceedings [^Heilbron2013]
+
 [^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
+[^Heilbron2013]: @Heilbron_2013_The_first_Solvay_council_A_sort_of_private\, p. 5.
 [^Schlick1948p479]: @Schlick_1948_Positivism_and_realism\, p. 479.
 
 
@@ -1148,6 +1151,8 @@ Nietzsche:
 >   every one has its perspective, which it would force on all other drives as
 >   a norm. [^NietzscheNotebook7]
 
+-   Winburn, A.P. & Clemmons, C.M.J. (2021). [Objectivity is a myth that harms the practice and diversity of forensic science](https://www.sciencedirect.com/science/article/pii/S2589871X21000668). [^Winburn2021]
+
 See also:
 
 -   The introduction to the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
@@ -1162,6 +1167,7 @@ See also:
 [^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
 [^Quine1986]: @Quine_1986_The_Philosophy_of_WVQuine\.
 [^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
+[^Winburn2021]: @Winburn_2021_Objectivity_is_a_myth_that_harms_the_practice\.
 [^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
 [^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
 
