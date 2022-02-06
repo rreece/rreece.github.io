@@ -219,6 +219,15 @@ Symmetry-first physics
 -   "The symmetries of the causes are to be found in the effects."
 -   Counting degrees of freedom
 -   Totalitarian principle: "Everything not forbidden is compulsory." - Murray Gell-Mann
+-   Caulton, A. (2015). [The role of symmetry in the interpretation of physical theories](http://philsci-archive.pitt.edu/11571/). [^Caulton2015]
+-   Caulton, A., & Butterfield, J. (2012). [Symmetries and paraparticles as a motivation for structuralism](https://arxiv.org/abs/1002.3730). [^Caulton2012]
+
+[^Caulton2012]: @Caulton_2012_Symmetries_and_paraparticles_as_a_motivation\.
+[^Caulton2015]: @Caulton_2015_The_role_of_symmetry_in_the_interpretation\.
+
+See also:
+
+-   [Structural realism](#scientific-realism#structural-realism)
 
 
 ### Noether's theorems
@@ -734,9 +743,11 @@ Baez, Segal, & Zhou on wave-particle duality:
 -   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
 -   Lazarovici, D. (2018). [Against fields](https://arxiv.org/abs/1809.00855). [^Lazarovici2018]
 -   Baker, D.J. (2009). [Against field interpretations of quantum field theory](http://philsci-archive.pitt.edu/4350/). [^Baker2009]
+-   Caulton, A. (2018). A persistent particle ontology for quantum field theory. [^Caulton2018]
 
 [^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
 [^Baker2009]: @Baker_2009_Against_field_interpretations_of_quantum_field\.
+[^Caulton2018]: @Caulton_2018_A_persistent_particle_ontology_for_quantum_field\.
 [^Einstein1905a]: @Einstein_1905_Uber_einen_die_erzeugung_und_verwandlung_des\.
 [^Fraser2008]: @Fraser_2008_The_fate_of_particles_in_quantum_field_theories\.
 [^Lazarovici2018]: @Lazarovici_2018_Against_fields\.
@@ -1039,8 +1050,10 @@ Interpretations of quantum mechanics
 -   Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? [^Einstein1935]
 -   Bohm, D. & Aharonov, Y. (1957). Discussion of experimental proof for the paradox of Einstein, Rosen, and Podolsky. [^Bohm1957]
 -   Mermin, N.D. (1985). Is the moon there when nobody looks? [^Mermin1985]
+-   Caulton, A. (2014). [Physical entanglement in permutation-invariant quantum mechanics](https://arxiv.org/abs/1409.0246). [^Caulton2014]
 
 [^Bohm1957]: @Bohm_1957_Discussion_of_experimental_proof_for_the_paradox\.
+[^Caulton2014]: @Caulton_2014_Physical_entanglement_in_permutation_invariant\.
 [^Einstein1935]: @Einstein_1935_Can_quantum_mechanical_description_of_physical\.
 [^Mermin1985]: @Mermin_1985_Is_the_moon_there_when_nobody_looks_Reality\.
 
@@ -1055,7 +1068,9 @@ Interpretations of quantum mechanics
 -   Aspect experiments (1982)
 -   Gisin's theorem [^Gisin1991]
 -   Maudlin, T. (2014). What Bell did. [^Maudlin2014]
+-   Ahmed, A., & Caulton, A. (2014). [Causal decision theory and EPR correlations](http://philsci-archive.pitt.edu/10992/). [^Ahmed2014]
 
+[^Ahmed2014]: @Ahmed_2014_Causal_decision_theory_and_EPR_correlations\.
 [^Bell1964]: @Bell_1964_On_the_Einstein_Podolsky_Rosen_Paradox\.
 [^Bell1966]: @Bell_1966_On_the_problem_of_hidden_variables_in_quantum\.
 [^Clauser1969]: @Clauser_1969_Proposed_experiment_to_test_local_hidden_variable\.
