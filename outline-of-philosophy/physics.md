@@ -1589,8 +1589,8 @@ Complexity and emergence
 
 See also:
 
--   [Reductionism](naturalism.html#reductionism) in the
-    [Outline on naturalism](naturalism.html#reductionism)
+-   [Reductionism](naturalism.html#reductionism)
+    in the [Outline on naturalism](naturalism.html#reductionism)
 
 Anderson:
 
@@ -1623,7 +1623,8 @@ Bracketing human experience
 
 See also:
 
--   [Physicalism](naturalism.html#physicalism) in the Outline on [naturalism](#naturalism.html)
+-   [Physicalism](naturalism.html#physicalism)
+    in the [Outline on naturalism](#naturalism.html)
 
 [^Bokulich2011]: @Bokulich_2011_Hempels_dilemma_and_domains_of_physics\.
 

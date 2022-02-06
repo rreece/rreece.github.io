@@ -334,12 +334,12 @@ Hinduism
 -   The "Hindu synthesis" started to develop between 500 BCE and 300 CE.
 -   Today, Ved&amacr;nta and Yoga schools are most influentail in Hunduism,
     which has divided into four major [denominations](https://en.wikipedia.org/wiki/Hindu_denominations):
-    1.  [Vaishnavism](https://en.wikipedia.org/wiki/Vaishnavism) - venerates Vishnu, Krishna especially
+    1.  [Vaishnavism](https://en.wikipedia.org/wiki/Vaishnavism) - venerates Vishnu as the ultimate deity.
         -   [Chaitanya Mahaprabhu](https://en.wikipedia.org/wiki/Chaitanya_Mahaprabhu) (1486-1534)
         -   [A. C. Bhaktivedanta Swami Prabhupada](https://en.wikipedia.org/wiki/A._C._Bhaktivedanta_Swami_Prabhupada) (1896-1977)
         -   [Hare Krishna movement](https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness)
         -   [Hare Krishna mantra](https://en.wikipedia.org/wiki/Hare_Krishna_(mantra))
-    2.  [Shaivism](https://en.wikipedia.org/wiki/Shaivism)
+    2.  [Shaivism](https://en.wikipedia.org/wiki/Shaivism) - venerates Shiva as the ultimate deity.
     3.  [Shaktism](https://en.wikipedia.org/wiki/Shaktism)
     4.  [Smartism](https://en.wikipedia.org/wiki/Smarta_tradition)
 
@@ -409,18 +409,27 @@ Hinduism
 
 #### Gods
 
-The Trimurti:
+The [Trimurti](https://en.wikipedia.org/wiki/Trimurti):
 
--   [Brahma](https://en.wikipedia.org/wiki/Brahma)
--   [Shiva](https://en.wikipedia.org/wiki/Shiva)
--   [Vishnu](https://en.wikipedia.org/wiki/Vishnu)
+-   [Brahma](https://en.wikipedia.org/wiki/Brahma) - the creator of the universe
+    -   He created himself in a golden egg known as [Hiranyagarbha](https://en.wikipedia.org/wiki/Hiranyagarbha).
+    -   In contemporary Hinduism, he has lesser importance than the other members of the Trimurti.
+-   [Vishnu](https://en.wikipedia.org/wiki/Vishnu) - the preserver
+    -   Restores cosmic order from chaos and protects the Dharma.
+    -   [Rama](https://en.wikipedia.org/wiki/Rama) - the seventh avatar of Vishnu
     -   [Krishna](https://en.wikipedia.org/wiki/Krishna) - the eighth avatar of Vishnu
+-   [Shiva](https://en.wikipedia.org/wiki/Shiva) - the destroyer
+    -   God of destruction, death, time, yoga, meditation, and arts.
 
 ![Shiva statue at CERN, near Building 40, [a gift from India](https://www.sanskritimagazine.com/vedic_science/shivas-cosmic-dance-nataraj-at-cern/).](img/cern-shiva.jpg){#fig:cern-shiva}
 
 Others:
 
+-   [Parvati](https://en.wikipedia.org/wiki/Parvati)
+    -   Goddess of power, nourishment, harmony, devotion, and motherhood.
 -   [Ganesha](https://en.wikipedia.org/wiki/Ganesha)
+    -   God of new beginnings, wisdom, luck, and remover of obstacles.
+    -   Son of Shiva and Parvati.
 -   [Indra](https://en.wikipedia.org/wiki/Indra)
 
 
