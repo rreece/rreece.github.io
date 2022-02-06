@@ -506,35 +506,6 @@ Baez, Segal, & Zhou:
 [^Weinberg1997p8]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\, p. 8.
 
 
-#### Wave-particle duality
-
--   Einstein, A. (1905). On a heuristic point of view about the creation and conversion of light. [^Einstein1905a]
--   Wolchover, N. (2020). [What is a particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
-
-Weinberg on wave-particle duality:
-
->   In its mature form, the idea of quantum field theory is that quantum
->   fields are the basic ingredients of the universe, and particles are
->   just bundles of energy and momentum of the fields. In a relativistic
->   theory the wave function is a functional of these fields, not a
->   function of particle coordinates. Quantum field theory hence led to a
->   more unified view of nature than the old dualistic interpretation in
->   terms of both fields and particles. [^Weinberg1997p2]
-
-Baez, Segal, & Zhou on wave-particle duality:
-
->   The treatment of the dynamics of quantum systems turns out to be naturally
->   undertaken in terms of field rather than particle concepts, by virtue of
->   the local character of relativistic interactions. In mathematical terms,
->   the *field* is diagonalizcd in the functional integration representation,
->   just as the *particle numbers* are diagonalized in the tensor product
->   representation. [^Baez1992p59]
-
-[^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
-[^Einstein1905a]: @Einstein_1905_Uber_einen_die_erzeugung_und_verwandlung_des\.
-[^Weinberg1997p2]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\, p. 2.
-
-
 #### Pedagogy
 
 -   Peskin and Schroeder [^Peskin1995]
@@ -734,45 +705,44 @@ Baez:
 [^Baez2016p18]: @Baez_2016_Struggles_with_the_continuum\, p. 18.
 
 
-#### Quantization
+#### Wave-particle duality
 
--   Canonical quantization
--   Path integral quantization
--   No "2nd quantization"
--   Redhead [^Redhead1982]
--   Redhead [^Redhead1988]
--   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
--   Geometric quantization
+-   Einstein, A. (1905). On a heuristic point of view about the creation and conversion of light. [^Einstein1905a]
+-   Wolchover, N. (2020). [What is a particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 
-[^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
-[^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
+Weinberg on wave-particle duality:
 
+>   In its mature form, the idea of quantum field theory is that quantum
+>   fields are the basic ingredients of the universe, and particles are
+>   just bundles of energy and momentum of the fields. In a relativistic
+>   theory the wave function is a functional of these fields, not a
+>   function of particle coordinates. Quantum field theory hence led to a
+>   more unified view of nature than the old dualistic interpretation in
+>   terms of both fields and particles. [^Weinberg1997p2]
 
-#### Algebraic vs constructive QFT
+Baez, Segal, & Zhou on wave-particle duality:
 
--   AQFT vs LQFT
--   *Local Quantum Physics* [^Haag1992]
--   Wallace [^Wallace2011]
--   Fraser [^Fraser2011]
--   Buchholz [^Buchholz1998]
+>   The treatment of the dynamics of quantum systems turns out to be naturally
+>   undertaken in terms of field rather than particle concepts, by virtue of
+>   the local character of relativistic interactions. In mathematical terms,
+>   the *field* is diagonalizcd in the functional integration representation,
+>   just as the *particle numbers* are diagonalized in the tensor product
+>   representation. [^Baez1992p59]
 
-Kastler:
+-   Fraser, D. (2008). [The fate of 'particles' in quantum field theories with interactions](http://philsci-archive.pitt.edu/4038/). [^Fraser2008]
+-   Pessa, E. (2009). [The concept of particle in quantum field theory](https://arxiv.org/abs/0907.0178). [^Pessa2009]
+-   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
+-   Lazarovici, D. (2018). [Against fields](https://arxiv.org/abs/1809.00855). [^Lazarovici2018]
+-   Baker, D.J. (2009). [Against field interpretations of quantum field theory](http://philsci-archive.pitt.edu/4350/). [^Baker2009]
 
->   Rudolf [Haag] is not satisfied by a notion of local observables relying
->   plainly on space and time. Instead he wishes to base the theory on concepts
->   related to individual processes. This attitude seems to me to move towards a
->   basic "algebra of procedures", pointing towards a theory of (non-commutative)
->   space-time. I know that, coming from a very different angle, Alain Connes
->   also believes the ultimate algebra of basic physics to be a discrete algebra
->   of elements standing for experimental procedures---following the idea 
->   that the spatial notions man acquires in his cradle are less basic than
->   his procedures at [particle] accelerators. [^Kastler2003p6]
-
-[^Buchholz1998]: @Buchholz_1998_Current_trends_in_axiomatic_quantum_field_theory\.
-[^Fraser2011]: @Fraser_2011_How_to_take_particle_physics_seriously_A_further\.
-[^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
-[^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
-[^Wallace2011]: @Wallace_2011_Taking_particle_physics_seriously_A_critique\.
+[^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
+[^Baker2009]: @Baker_2009_Against_field_interpretations_of_quantum_field\.
+[^Einstein1905a]: @Einstein_1905_Uber_einen_die_erzeugung_und_verwandlung_des\.
+[^Fraser2008]: @Fraser_2008_The_fate_of_particles_in_quantum_field_theories\.
+[^Lazarovici2018]: @Lazarovici_2018_Against_fields\.
+[^Myrvold2015]: @Myrvold_2015_What_is_a_wavefunction\.
+[^Pessa2009]: @Pessa_2009_The_concept_of_particle_in_quantum_field_theory\.
+[^Weinberg1997p2]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\, p. 2.
 
 
 #### Haag's theorem
@@ -821,6 +791,46 @@ Kastler:
 [^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
 [^Teller1997p115]: @Teller_1997_An_Interpretive_Introduction_to_Quantum_Field\, p. 115.
 
+
+#### Quantization
+
+-   Canonical quantization
+-   Path integral quantization
+-   No "2nd quantization"
+-   Redhead [^Redhead1982]
+-   Redhead [^Redhead1988]
+-   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
+-   Geometric quantization
+
+[^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
+[^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
+
+
+#### Algebraic vs constructive QFT
+
+-   AQFT vs LQFT
+-   *Local Quantum Physics* [^Haag1992]
+-   Wallace [^Wallace2011]
+-   Fraser [^Fraser2011]
+-   Buchholz [^Buchholz1998]
+
+Kastler:
+
+>   Rudolf [Haag] is not satisfied by a notion of local observables relying
+>   plainly on space and time. Instead he wishes to base the theory on concepts
+>   related to individual processes. This attitude seems to me to move towards a
+>   basic "algebra of procedures", pointing towards a theory of (non-commutative)
+>   space-time. I know that, coming from a very different angle, Alain Connes
+>   also believes the ultimate algebra of basic physics to be a discrete algebra
+>   of elements standing for experimental procedures---following the idea 
+>   that the spatial notions man acquires in his cradle are less basic than
+>   his procedures at [particle] accelerators. [^Kastler2003p6]
+
+[^Buchholz1998]: @Buchholz_1998_Current_trends_in_axiomatic_quantum_field_theory\.
+[^Fraser2011]: @Fraser_2011_How_to_take_particle_physics_seriously_A_further\.
+[^Haag1992]: @Haag_1992_Local_Quantum_Physics_Fields_Particles_Algebras\.
+[^Kastler2003p6]: @Kastler_2003_Rudolf_Haag_Eighty_Years\, p. 6.
+[^Wallace2011]: @Wallace_2011_Taking_particle_physics_seriously_A_critique\.
 
 
 Exotics in quantum field theory
@@ -889,6 +899,7 @@ Maudlin:
 See also:
 
 -   [Differential geometry](math.html#differential-geometry)
+    in the Outline on [mathematics](math.html).
 
 [^Aharonov1959]: @Aharonov_1959_Significance_of_electromagnetic_potentials\.
 [^Batterman2003]: @Batterman_2003_Falling_cats_parallel_parking_and_polarized\.
@@ -910,8 +921,9 @@ See also:
 See also:
 
 -   [Category theory](math.html#category-theory)
--   [Differential geometry](math.html#differential-geometry) in the outline
-    on [mathematics](math.html).
+    in the Outline on [mathematics](math.html).
+-   [Differential geometry](math.html#differential-geometry)
+    in the Outline on [mathematics](math.html).
 
 [^Baez2009]: @Baez_2009_Physics_topology_logic_and_computation\.
 [^Healey2007ch2]: @Healey_2007_Gauging_Whats_Real\, ch. 2-4.
@@ -1494,8 +1506,10 @@ Gravity and cosmology
 -   WIMP Miracle
     -   Disfavored by LHC thus far.
 -   Howe, A.R. (2019). [The dark matter flowchart, annotated](https://sciencemeetsfiction.com/nonfiction-essays/the-dark-matter-flowchart-annotated/).
+-   Martens, N. (2022). [Dark matter realism](https://link.springer.com/article/10.1007/s10701-021-00524-y).
 
 [^Clowe2006]: @Clowe_2006_A_direct_empirical_proof_of_the_existence_of_dark\.
+[^Martens2022]: @Martens_2022_Dark_matter_realism\.
 
 
 ### Inflation

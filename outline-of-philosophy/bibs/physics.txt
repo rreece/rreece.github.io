@@ -17,6 +17,7 @@ Baggott, J. (2013). *Farewell to Reality: How modern physics has betrayed the se
 Bain, J. (2000). Against particle/field duality: Asymptotic particle states and interpolating fields in interacting QFT, or Who's afraid of Haag's theorem? *Erkenntnis*, 53(3), 375--406.
 Bain, J. (2013). Effective field theories. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 224--254). Oxford University Press.
 Bain, J. (2013). Emergence in effective field theories. *European Journal for Philosophy of Science*, 3(3), 257--273.
+Baker, D.J. (2009). Against field interpretations of quantum field theory. *British Journal for the Philosophy of Science*, 60, 585--609. http://philsci-archive.pitt.edu/4350/
 Bargmann, V. & Wigner, E.P. (1948). Group theoretical discussion of relativistic wave equations. *Proceedings of the National Academy of Sciences*, 34, 211--223.
 Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *European Journal for Philosophy of Science*, 1(2), 277--302. https://link.springer.com/article/10.1007/s13194-011-0023-9
 Barrett, J.A. (2016). Quantum Worlds. *Principia: An International Journal of Epistemology*, 20(1), 45--60.
@@ -84,6 +85,7 @@ Feynman, R.P. (1963). *The Feynman Lectures on Physics, Volume I*. California In
 Feynman, R.P. (1965). The development of the space-time view of quantum electrodynamics. https://www.nobelprize.org/prizes/physics/1965/feynman/lecture/ [Nobel Lecture, December 11, 1965]
 Feynman, R.P. & Hibbs, A.R. (1965). *Quantum Mechanics and Path Integrals*. Dover. [Emended edition (2005)]
 Frankel, T. (2004). *The Geometry of Physics* (2nd ed.). Cambridge University Press. 
+Fraser, D. (2008). The fate of 'particles' in quantum field theories with interactions. *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 39(4), 841--859. http://philsci-archive.pitt.edu/4038/
 Fraser, D. (2011). How to take particle physics seriously: A further defence of axiomatic quantum ﬁeld theory. *Studies in History and Philosophy of Modern Physics*, 42, 126--135.
 Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 1: Development of the Theory and Basic Physical Applications*. Springer.
 Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 2: Black Holes, Cosmology and Introduction to Supergravity*. Springer.
@@ -123,6 +125,7 @@ Kelvin, L. (1901). Nineteenth century clouds over the dynamical theory of heat a
 Klaczynski, L. (2016). Haag's theorem in renormalised quantum field theories. https://arxiv.org/abs/1602.00662
 Kochen, S. & Specker, E.P. (1967). The problem of hidden variables in quantum mechanics. *Journal of Mathematics and Mechanics*, 17, 59--87.
 Kontsevich, M. & Segal, G. (2021). Wick rotation and the positivity of energy in quantum field theory. https://arxiv.org/abs/2105.10161
+Lazarovici, D. (2018). Against fields. *European Journal for Philosophy of Science*, 8(2), 145--170. https://arxiv.org/abs/1809.00855
 Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. *Nuovo Cimento*, 1, 205--225.
 Leifer, M.S., & Spekkens, R.W. (2013). Towards a formulation of quantum theory as a causally neutral theory of Bayesian inference. *Physical Review A*, 88(5), 052130. https://arxiv.org/abs/1107.5849
 Lisi, A.G. (2017). Emergence. https://www.edge.org/response-detail/27149
@@ -130,6 +133,7 @@ Lisi, A.G. (2017). Emergence. https://www.edge.org/response-detail/27149
 {LSND Collaboration}. (2001). Evidence for neutrino oscillations from the observation of electron anti-neutrinos in a muon anti-neutrino beam. *Physical Review D*, 64, 112007. https://arxiv.org/abs/hep-ex/0104049
 Malament, D.B. (1996). In defence of dogma: Why there cannot be a relativistic quantum mechanics of (localizable) particles. In Clifton, R. (Ed.) *Perspectives on Quantum Reality* (pp. 1--10). Springer.
 Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. *Advances in Theoretical and Mathematical Physics*, 2, 231--252. https://arxiv.org/abs/hep-th/9711200
+Martens, N. (2022). Dark matter realism. *Foundations of Physics*, 52(1), 1--19. https://link.springer.com/article/10.1007/s10701-021-00524-y
 Martin, S.P. (2011). Phenomenology of particle physics. https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf
 Martin, S.P. (2016). A supersymmetry primer. https://arxiv.org/abs/hep-ph/9709356 [(First published in 1997)]
 Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.
@@ -141,6 +145,7 @@ Mermin, N.D. (1985). Is the moon there when nobody looks? Reality and the quantu
 {MiniBooNE Collaboration}. (2018). Significant excess of electron-like events in the MiniBooNE short-baseline neutrino experiment. *Physical Review Letters*, 121, 221801. https://arxiv.org/abs/1805.12028
 Misner, C.W., Thorne, K.S., & Wheeler, J.A. (1973). *Gravitation*. Freeman and Co. [(Reprinted by Princeton University Press (2017))]
 Murayama, H. (2000). Supersymmetry phenomenology. https://arxiv.org/abs/hep-ph/0002232
+Myrvold, W.C. (2015). What is a wavefunction? *Synthese*, 192(10), 3247--3274. http://philsci-archive.pitt.edu/11117/
 Nail, T. (2018). *Lucretius I: An Ontology of Motion*. Edinburgh University Press.
 Nail, T. (2020). *Lucretius II: An Ethics of Motion*. Edinburgh University Press.
 Ney, A. & Albert, D.Z. (2013). *The Wave Function: Essays on the metaphysics of quantum mechanics*. Oxford University Press.
@@ -155,6 +160,7 @@ Patterson, G. (2007). Jean Perrin and the triumph of the atomic doctrine. *Endea
 Perrin, J. (1913). *Les Atomes*. Paris: Libraire Felix Alcan.
 Peskin, M.E. (1994). Spin, mass, and symmetry. https://arxiv.org/abs/hep-ph/9405255
 Peskin, M.E. & Schroeder, D.V. (1995). *An Introduction to Quantum Field Theory*. Westview Press.
+Pessa, E. (2009). The concept of particle in quantum field theory. https://arxiv.org/abs/0907.0178
 {Pierre Auger Collaboration}. (2007). Correlation of the highest-energy cosmic rays with nearby extragalactic objects. *Science*, 318, 938--943.
 {Pierre Auger Collaboration}. (2010). Measurement of the depth of maximum of extensive air showers above $10^{18}$ eV. *Physical Review Letters*, 104, 091101.
 {Pierre Auger Collaboration}. (2020). Features of the energy spectrum of cosmic rays above $2.5 \times 10^{18}$ eV using the Pierre Auger Observatory. *Physical Review Letters*, 125, 121106. https://arxiv.org/abs/2008.06488

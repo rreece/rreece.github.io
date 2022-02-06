@@ -933,9 +933,13 @@ Hilbert:
 
 Hilbert wanted math to be
 
--   Consistent?
 -   ~~Complete~~
+-   Consistent?
 -   ~~Decidable~~
+
+See also:
+
+-   [Incompleteness](#incompleteness)
 
 
 Intuitionism

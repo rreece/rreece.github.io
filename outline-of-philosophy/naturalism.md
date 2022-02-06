@@ -572,7 +572,7 @@ Rejection of the supernatural
     -   Dennett: Naturalism is a method of explaining a magic trick without appealing to magic.
     -   Rejection of supernatural, magic, and paranormal.
     -   Blackmore, S.J. (1996). Near-death experiences. [^Blackmore1996]
-    -   Blackmore, S.J. (1997). Probability misjudgment and belief in the paranormal: A newspaper survey [^Blackmore1997]
+    -   Blackmore, S.J. (1997). Probability misjudgment and belief in the paranormal: A newspaper survey. [^Blackmore1997]
 -   The Lewis-Anscombe debate
     -   [The Lewis-Anscombe debate](http://thecslewis-studygroup.org/the-c-s-lewis-study-group/lewis-genre/theology/miracles-2/the-lewisanscombe-debate/)
     -   The rewrite of chapter 3 in *Miracles* [^Lewis1947]
@@ -634,11 +634,11 @@ Schopenhauer:
 
 ### Honorific reinterpretation
 
--   Rosenberg: *The Atheist's Guide to Reality* [^Rosenberg2011AGR]
+-   Rosenberg, A. (2011).  *The Atheist's Guide to Reality*. [^Rosenberg2011AGR]
 -   Glymour, C. (2011). [Manifesto on positivism](https://web.archive.org/web/20190430005518/http://choiceandinference.com/2011/12/23/in-light-of-some-recent-discussion-over-at-new-apps-i-bring-you-clark-glymours-manifesto/).
     -   Nelson Goodman: "There are two kinds of people in the world: the logical positivists and the god-damned English professors."
     -   "Carnap was the grandfather of artificial intelligence: his students, Walter Pitts and Herbert Simon, were among the fathers."
--   Lawhead: "My Scientism" [^Lawhead20016]
+-   Lawhead, J. (2016). [My Scientism](https://web.archive.org/web/20160316131553/https://plus.google.com/+JonLawhead/posts/5gkhSHYCCdG). [^Lawhead20016]
 
 [^Lawhead20016]: @Lawhead_2016_My_Scientism\.
 [^Rosenberg2011AGR]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
