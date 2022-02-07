@@ -201,12 +201,20 @@ Logic
 
 ### Introduction
 
--   Teller, P. (1989). *A Modern Formal Logic Primer* [^Teller1989]
--   Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard First-Order Logic*. [^Hunter1971]
--   *The Open Logic Text* (as of 2020) [^OpenLogicText]
--   MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction.* [^MacFarlane2021]
--   [logicinaction.org](http://www.logicinaction.org/)
+Pedagogy:
 
+-   Carnap, R. (1958). *Introduction to Symbolic Logic and its Applications*. [^Carnap1958]
+-   Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard First-Order Logic*. [^Hunter1971]
+-   Teller, P. (1989). *A Modern Formal Logic Primer* [^Teller1989]
+-   Smith, P. (2020). *An Introduction to Formal Logic*.
+-   MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction.* [^MacFarlane2021]
+
+More:
+
+-   [logicinaction.org](http://www.logicinaction.org/)
+-   *The Open Logic Text* (as of 2020) [^OpenLogicText]
+
+[^Carnap1958]: @Carnap_1958_Introduction_to_Symbolic_Logic_and_its\.
 [^Hunter1971]: @Hunter_1971_Metalogic_An_Introduction_to_the_Metatheory\.
 [^MacFarlane2021]: @MacFarlane_2021_Philosophical_Logic_A_contemporary_introduction\.
 [^OpenLogicText]: @Open_2020_The_Open_Logic_Text\.
