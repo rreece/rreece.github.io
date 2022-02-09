@@ -97,6 +97,7 @@ Howard, A.G. et al. (2017). MobileNets: Efficient convolutional neural networks 
 Howard, J.N., Mandt, S., Whiteson, D., & Yang, Y. (2021). Foundations of a fast, data-driven, machine-learned simulator. https://arxiv.org/abs/2101.08944
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
 Hutchins, J. (2000). Yehoshua Bar-Hillel: A philosophers' contribution to machine translation.
+Ingrosso, A. & Goldt, S. (2022). Data-driven emergence of convolutional structure in neural networks. https://arxiv.org/abs/2202.00565
 Ioannidis, J.P. (2005). Why most published research findings are false. *PLOS Medicine*, 2(8), 696--701.
 James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
 Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434(2-3), 435--443. https://arxiv.org/abs/hep-ex/9902006

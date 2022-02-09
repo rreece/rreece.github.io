@@ -1410,6 +1410,14 @@ See also:
     @Pierre_2020_Measurement_of_the_cosmic_ray_energy_spectrum.
 
 
+### g-2
+
+-   Muon g-2
+-   A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders [^Capdevilla2021]
+
+[^Capdevilla2021]: @Capdevilla_2021_A_no_lose_theorem_for_discovering_the_new_physics\.
+
+
 ### Grand unification
 
 -   Running of the couplings
@@ -1439,12 +1447,12 @@ See also:
 [^Slansky1981]: @Slansky_1981_Group_theory_for_unified_model_building\.
 
 
-### g-2
+### Baryogenesis
 
--   Muon g-2
--   A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders [^Capdevilla2021]
+-   Matter-antimatter asymmetry
+-   Dine, M. & Kusenko, A. (2004). [The origin of the matter-antimatter asymmetry](https://arxiv.org/abs/hep-ph/0303065). [^Dine2004]
 
-[^Capdevilla2021]: @Capdevilla_2021_A_no_lose_theorem_for_discovering_the_new_physics\.
+[^Dine2004]: @Dine_2004_The_origin_of_the_matter_antimatter_asymmetry\.
 
 
 ### Future colliders and criticisms

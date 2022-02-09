@@ -156,7 +156,35 @@ Hume:
 
 ### Is-ought divide
 
--   TODO
+-   Hume
+-   Black, M. (1964). The gap between "is" and "should". [^Black1964]
+-   Pigden, C. (2011). [Hume on is and ought](https://philosophynow.org/issues/83/Hume_on_Is_and_Ought).
+
+The end of section 3.1.1 from Hume's *Treatise of Human Nature*,
+"Moral Distinctions Not deriv’d from Reason":
+
+>   In every system of morality, which I have
+>   hitherto met with, I have always remarked, that the
+>   author proceeds for some time in the ordinary way of
+>   reasoning, and establishes the being of a God, or makes
+>   observations concerning human affairs; when of a
+>   sudden I am surprized to find, that instead of the usual
+>   copulations of propositions, is, and is not, I meet with no
+>   proposition that is not connected with an ought, or an
+>   ought not. This change is imperceptible; but is, however,
+>   of the last consequence. For as this ought, or ought not,
+>   expresses some new relation or affirmation, it is
+>   necessary that it should be observed and explained; and
+>   at the same time that a reason should be given, for what
+>   seems altogether inconceivable, how this new relation
+>   can be a deduction from others, which are entirely
+>   different from it. But as authors do not commonly use
+>   this precaution, I shall presume to recommend it to the
+>   readers; and am persuaded, that this small attention
+>   would subvert all the vulgar systems of morality, and let
+>   us see, that the distinction of vice and virtue is not
+>   founded merely on the relations of objects, nor is
+>   perceived by reason. [^Hume2009p715]
 
 See also:
 
@@ -167,6 +195,8 @@ See also:
 
 -   TODO
 
+[^Black1964]: @Black_1964_The_gap_between_is_and_should\.
+[^Hume2009p715]: @Hume_2009_A_Treatise_of_Human_Nature\, p. 715-6.
 
 
 Moral realism
@@ -413,8 +443,9 @@ Protests and (non-)violence
 --------------------------------------------------------------------------------
 
 -   [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) - Indian principle of nonviolence
-    -   [Satyagraha](https://en.wikipedia.org/wiki/Satyagraha) - "holding firmly to truth", coined by [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)
--   MLK, etc.
+    -   [Satyagraha](https://en.wikipedia.org/wiki/Satyagraha) - "holding firmly to truth", coined by Mahatma Gandhi
+-   [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) (1869-1948)
+-   [Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) (1929-1968)
 -   Osterweil, V. (2014). [In defense of looting](https://thenewinquiry.com/in-defense-of-looting). August 21, 2014.
 
 

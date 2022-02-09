@@ -203,21 +203,27 @@ Logic
 
 Pedagogy:
 
--   Carnap, R. (1958). *Introduction to Symbolic Logic and its Applications*. [^Carnap1958]
 -   Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard First-Order Logic*. [^Hunter1971]
 -   Teller, P. (1989). *A Modern Formal Logic Primer* [^Teller1989]
--   Smith, P. (2020). *An Introduction to Formal Logic*.
--   MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction.* [^MacFarlane2021]
+-   Bonevac, D. (2003). *Deduction: Introductory to Symbolic Logic*. [^Bonevac2003]
+-   MacFarlane, J. (2021). *Philosophical Logic: A Contemporary Introduction.* [^MacFarlane2021]
+-   Smith, P. (2020). *An Introduction to Formal Logic*. [^Smith2020]
+-   Smith, P. (2022). *Beginning Mathematical Logic A Study Guide*. [^Smith2022]
+-   [logicmatters.net](https://www.logicmatters.net/)
 
 More:
 
+-   Carnap, R. (1958). *Introduction to Symbolic Logic and its Applications*. [^Carnap1958]
+-   [*The Open Logic Text*](https://openlogicproject.org/) [^OpenLogicText]
 -   [logicinaction.org](http://www.logicinaction.org/)
--   *The Open Logic Text* (as of 2020) [^OpenLogicText]
 
+[^Bonevac2003]: @Bonevac_2003_Deduction_Introductory_to_Symbolic_Logic\.
 [^Carnap1958]: @Carnap_1958_Introduction_to_Symbolic_Logic_and_its\.
 [^Hunter1971]: @Hunter_1971_Metalogic_An_Introduction_to_the_Metatheory\.
 [^MacFarlane2021]: @MacFarlane_2021_Philosophical_Logic_A_contemporary_introduction\.
 [^OpenLogicText]: @Open_2020_The_Open_Logic_Text\.
+[^Smith2020]: @Smith_2020_An_Introduction_to_Formal_Logic\.
+[^Smith2022]: @Smith_2022_Beginning_Mathematical_Logic_A_Study_Guide\.
 [^Teller1989]: @Teller_1989_A_Modern_Formal_Logic_Primer\.
 
 
@@ -293,7 +299,7 @@ $$ P \rightarrow Q \equiv \lnot P \lor Q $$
 
 -   [Paradoxes of material implication](https://en.wikipedia.org/wiki/Paradoxes_of_material_implication)
 -   [Vacuous truth](https://en.wikipedia.org/wiki/Vacuous_truth)
--   vonFintel, K. (2011). [Conditionals](https://dspace.mit.edu/handle/1721.1/95781). [^vonFintel2011]
+-   von Fintel, K. (2011). [Conditionals](https://dspace.mit.edu/handle/1721.1/95781). [^vonFintel2011]
 
 *Modus ponens:*
 
@@ -474,7 +480,7 @@ Model theory
 
 ### Incompleteness
 
--   [G&ouml;del, Kurt](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) (1906-1978)
+-   [Kurt G&ouml;del](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) (1906-1978)
 -   Goldstein [^Goldstein2005]
 
 Fom the SEP:

@@ -1423,6 +1423,7 @@ Blogs:
 -   EfficientNetV2 [^Tan2021]
 -   gMLP [^Liu2021]
 -   Liu, Y. et al. (2021). [A survey of visual transformers](https://arxiv.org/abs/2111.06091).
+-   Ingrosso, A. & Goldt, S. (2022). [Data-driven emergence of convolutional structure in neural networks](https://arxiv.org/abs/2202.00565). [^Ingrosso2022]
 
 Resources:
 
@@ -1435,6 +1436,7 @@ Resources:
 [^Fukushima1982]: @Fukushima_1982_Neocognitron_A_new_algorithm_for_pattern\.
 [^He2015]: @He_2015_Deep_residual_learning_for_image_recognition\.
 [^Howard2017]: @Howard_2017_MobileNets_Efficient_convolutional_neural\.
+[^Ingrosso2022]: @Ingrosso_2022_Data_driven_emergence_of_convolutional_structure\.
 [^Krizhevsky2012]: @Krizhevsky_2012_ImageNet_classification_with_deep_convolutional\.
 [^LeCun1989]: @LeCun_1989_Backpropagation_applied_to_handwritten_zip_code\.
 [^LeCun1998]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
