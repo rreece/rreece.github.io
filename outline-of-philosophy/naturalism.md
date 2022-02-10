@@ -644,13 +644,17 @@ Schopenhauer:
 [^Rosenberg2011AGR]: @Rosenberg_2011_The_Atheists_Guide_to_Reality\.
 
 
-### Other ways of knowing
+### Naturalized metaphysics
 
 -   Methodological naturalism
--   What are the limits of science?
--   Are there other ways of knowing?
 -   Is there any unique project left for metaphysics?
     -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
+-   What are the limits of science?
+
+
+### Other ways of knowing
+
+-   Are there other ways of knowing?
 -   Scruton, R. (2015). Scientism and the humanities. [^Scruton2015]
     -   *Naturwissenschaften* and *Geisteswissenschaften*
 -   [Feminist perspectives on argumentation](https://plato.stanford.edu/entries/feminism-argumentation/)

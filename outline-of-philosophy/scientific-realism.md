@@ -92,25 +92,36 @@ Stealing from encyclopedia.com:
 
 -   Positivism
 -   *Every Thing Must Go*
--   TODO
+
+See also:
+
+-   [Positivism](#positivism)
+-   [Naturalized metaphysics](naturalism.html#naturalized-metaphysics)
+    in the [Outline on naturalism](naturalism.html)
+-   [Other ways of knowing](naturalism.html#other-ways-of-knowing)
+    in the [Outline on naturalism](naturalism.html)
 
 
 Realism and antirealism
 --------------------------------------------------------------------------------
 
+### Introduction
+
+-   Naive realism
+    -   Why would I doubt that the world I see is real?
+    -   Reification fallacy
+
+
 ### Ancient skepticism
 
+-   Plato
+    -   [Meno's paradox](https://en.wikipedia.org/wiki/Meno#Meno's_paradox)
+    -   Plato's *Apology*
+    -   Plato's *Cratylus* - On the correctness of names
+    -   Plato's *Republic* - Allegory of the Cave [^RepublicVII514]
 -   Pyrrhonism
--   [Agrippa's trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
--   [Meno's paradox](https://en.wikipedia.org/wiki/Meno#Meno's_paradox)
--   Plato's *Apology*
-
-
-### Allegory of the Cave
-
--   Naive realism.  Why would I doubt the world I see is real?
--   Reification fallacy
--   Plato: Allegory of the Cave. [^RepublicVII514]
+    -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (c. 160-210 CE) 
+    -   [Agrippa's trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
 
 ![Depiction of the scene in the Allegory of the Cave.](img/allegory-of-the-cave.jpg){#fig:allegory-of-the-cave}
 
@@ -581,10 +592,7 @@ instead realists about science, math, and/or ethics, for example following
 a version of structural realism about the discoveries from science, capturing
 and constraining real structures in nature.
 
--    "Positivism and progress" in Solvay 2011 Proceedings [^Heilbron2013]
-
 [^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
-[^Heilbron2013]: @Heilbron_2013_The_first_Solvay_council_A_sort_of_private\, p. 5.
 [^Schlick1948p479]: @Schlick_1948_Positivism_and_realism\, p. 479.
 
 
@@ -839,7 +847,10 @@ Reichenbach on probability:
 -   TODO: Quine on how huge Carnap's influence is. [^Quine1990-3]
 -   TODO: Positivism affects the structure of education and law
 -   TODO: Connection to the projects of Dewey and pragmatism
+-    "Positivism and progress" in Solvay 2011 Proceedings [^Heilbron2013]
 -   [Proof of knowledge](https://en.wikipedia.org/wiki/Proof_of_knowledge) (cryptography)
+
+[^Heilbron2013]: @Heilbron_2013_The_first_Solvay_council_A_sort_of_private\, p. 5.
 
 
 #### Carnap on language and ontology
