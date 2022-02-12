@@ -31,6 +31,7 @@ Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discoun
 Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. *Science*, 365, 885--890. https://science.sciencemag.org/content/365/6456/885
 Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). Deep counterfactual regret minimization. https://arxiv.org/abs/1811.00164
 Brown, N., Bakhtin, A., Lerer, A., & Gong, Q. (2020). Combining deep reinforcement learning and search for imperfect-information games. https://arxiv.org/abs/2007.13544
+Bubeck, S. & Sellke, M. (2021). A universal law of robustness via isoperimetry. https://arxiv.org/abs/2105.12806
 Caldeira, J. & Nord, B. (2020). Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms. *Machine Learning: Science and Technology*, 2, 015002. https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3
 Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistics*. Springer Switzerland.
 Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenological Research*, 5(4), 513--32. 

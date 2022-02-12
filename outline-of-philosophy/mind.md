@@ -95,22 +95,46 @@ See also:
 -   [Idealism](scientific-realism.html#idealism)
 
 
+Illusionism
+--------------------------------------------------------------------------------
+
+-   Frankish, K. (2016). [Illusionism as a theory of consciousness](https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf). [^Frankish2016]
+-   Dennett, D.C. (2016). [Illusionism as the obvious default theory of consciousness](https://ase.tufts.edu/cogstud/dennett/papers/illusionism.pdf). [^Dennett2016]
+
+[^Dennett2016]: @Dennett_2016_Illusionism_as_the_obvious_default_theory\.
+[^Frankish2016]: @Frankish_2016_Illusionism_as_a_theory_of_consciousness\.
+
+
 Neuroscience
 --------------------------------------------------------------------------------
 
 ### Theoretical neuroscience
 
+-   Connectionism
+    -   Fodor, J.A. & Pylyshyn, Z.W. (1988). Connectionism and cognitive architecture: A critical analysis. [^Fodor1988]
+-   Information integration
+    -   Tononi, G. (2004). [An information integration theory of consciousness](https://link.springer.com/article/10.1186/1471-2202-5-42). [^Tononi2004]
+    -   Tononi, G. (2010). [Information integration: Its relevance to brain function and consciousness](http://www.architalbiol.org/index.php/aib/article/view/148299). [^Tononi2010]
 -   Active inference
     -   [Free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle)
     -   Karl Friston
     -   Mel Andrews
 
+[^Fodor1988]: @Fodor_1988_Connectionism_and_cognitive_architecture\.
+[^Tononi2004]: @Tononi_2004_An_information_integration_theory\.
+[^Tononi2010]: @Tononi_2010_Information_integration_Its_relevance_to_brain\.
+
 
 ### Experimental neuroscience
 
 -   Libet experiments
+-   Tononi, G. & Edelman, G.M. (1998). Consciousness and complexity. [^Tononi1998]
+-   Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. [^Koch2016]
 -   Markram, H. et al. (2017). [Blue Brain team discovers a multi-dimensional universe in brain networks](https://blog.frontiersin.org/2017/06/12/blue-brain-team-discovers-a-multi-dimensional-universe-in-brain-networks/).
 -   Markram, H. et al. (2020). [New evidence for innate knowledge](https://actu.epfl.ch/news/new-evidence-for-innate-knowledge-3/).
+
+[^Tononi1998]: @Tononi_1998_Consciousness_and_complexity\.
+[^Koch2016]: @Koch_2016_Neural_correlates_of_consciousness_Progress\.
 
 
 ### Computational neuroscience
@@ -159,12 +183,14 @@ Language
 
 -   [Origin of language](https://en.wikipedia.org/wiki/Origin_of_language)
 -   [Language of thought hypothesis](https://plato.stanford.edu/entries/language-thought/)
+-   Fodor, J.A. (1975). *The Language of Thought*. [^Fodor1975]
 -   Sapir-Whorf hypothesis AKA [Linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity)
 -   Hurlburt, R.T. (2011). [Not everyone conducts inner speech](https://www.psychologytoday.com/gb/blog/pristine-inner-experience/201110/not-everyone-conducts-inner-speech).
 -   Grzankowski, A. (2015). Not all attitudes are propositional. [^Grzankowski2015]
 -   McCarthy, C. (2017). [The Kekul&eacute; Problem](https://nautil.us/issue/47/consciousness/the-kekul-problem). [^McCarthy2017]
     -   "the unconscious is a machine for operating an animal."
 
+[^Fodor1975]: @Fodor_1975_The_Language_of_Thought\.
 [^Grzankowski2015]: @Grzankowski_2015_Not_all_attitudes_are_propositional\.
 [^McCarthy2017]: @McCarthy_2017_The_Kekule_Problem\.
 
@@ -352,9 +378,10 @@ Click to show links
 
 ### Videos
 
--   [Dennett, Daniel. (2019). Consciousness, Qualia and the "Hard Problem".](https://www.youtube.com/watch?v=LdhHyvOhkCs)
--   [Dennett, Daniel. (2017). From Bacteria to Bach and Back: The Evolution of Minds.](https://www.youtube.com/watch?v=IZefk4gzQt4)
--   [Seth, Anil. (2017). The Neuroscience of Consciousness.](https://www.youtube.com/watch?v=xRel1JKOEbI)
+-   Dennett, Daniel. (2019). [Consciousness, Qualia and the "Hard Problem"](https://www.youtube.com/watch?v=LdhHyvOhkCs).
+-   Dennett, Daniel. (2017). [From Bacteria to Bach and Back: The Evolution of Minds](https://www.youtube.com/watch?v=IZefk4gzQt4).
+-   Seth, Anil. (2017). [The Neuroscience of Consciousness](https://www.youtube.com/watch?v=xRel1JKOEbI).
+-   Seth, Anil. (2021). [Is Reality a Controlled Hallucination?](https://www.youtube.com/watch?v=qXcH26M7PQM)
 
 </div>
 

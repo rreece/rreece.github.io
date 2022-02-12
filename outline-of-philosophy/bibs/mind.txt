@@ -1,10 +1,18 @@
 Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 Davidson, D. (1982). Rational animals. *Dialectica*, 36, 317--327.
 Dennett, D.C. (1991). *Consciousness Explained*. Hachette Book Group.
+Dennett, D.C. (2016). Illusionism as the obvious default theory of consciousness. *Journal of Consciousness Studies*, 23, 65--72. https://ase.tufts.edu/cogstud/dennett/papers/illusionism.pdf
+Fodor, J.A. (1975). *The Language of Thought*. Harvard University Press.
+Fodor, J.A. & Pylyshyn, Z.W. (1988). Connectionism and cognitive architecture: A critical analysis. *Cognition*, 28, 3--71.
+Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23, 11--39. https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf
 Grzankowski, A. (2015). Not all attitudes are propositional. *European Journal of Philosophy*, 23, 374--391.
+Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. *Nature Reviews: Neuroscience*, 17, 307--321.
 Kurzweil, R. (2012). *How to Create a Mind*. Penguin Books.
 MacFarquhar, L. (2014). Two Heads: A marriage devoted to the mind-body problem. *New Yorker*. https://www.newyorker.com/magazine/2007/02/12/two-heads [July 21, 2014]
 Mach, E. (1914). *The Analysis of Sensations and the Relation of the Physical* (C.M. Williams and S. Waterlow, Trans.). Open Court.
 McCarthy, C. (2017). The Kekul{\'e} Problem. *Nautilus*, 47. https://nautil.us/issue/47/consciousness/the-kekul-problem
 Montero, B. (1999). The Body Problem. *Nous*, 33(2), 183--200.
 Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435--450. https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf
+Tononi, G. & Edelman, G.M. (1998). Consciousness and complexity. *Science*, 282, 1846--1851.
+Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5, 1--22. https://link.springer.com/article/10.1186/1471-2202-5-42
+Tononi, G. (2010). Information integration: Its relevance to brain function and consciousness. *Archives Italiennes de Biolaogie*, 148, 299--322. http://www.architalbiol.org/index.php/aib/article/view/148299

@@ -1269,9 +1269,11 @@ Deep learning
 -   Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). [A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning](https://arxiv.org/abs/2109.02355). [^Dar2021]
 -   Balestriero, R., Pesenti, J., & LeCun, Y. (2021). [Learning in high dimension always amounts to extrapolation](https://arxiv.org/abs/2110.09485). [^Balestriero2021]
 -   Nagarajan, V. (2021). [Explaining generalization in deep learning: progress and fundamental limits](https://arxiv.org/abs/2110.08922). [^Nagarajan2021]
+-   Bubeck, S. & Sellke, M. (2021). [A universal law of robustness via isoperimetry](https://arxiv.org/abs/2105.12806). [^Bubeck2021]
 
 [^Balestriero2021]: @Balestriero_2021_Learning_in_high_dimension_always_amounts\.
 [^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
+[^Bubeck2021]: @Bubeck_2021_A_universal_law_of_robustness_via_isoperimetry\.
 [^Dar2021]: @Dar_2021_A_farewell_to_the_bias_variance_tradeoff\.
 [^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
 [^Nagarajan2021]: @Nagarajan_2021_Explaining_generalization_in_deep_learning\.
