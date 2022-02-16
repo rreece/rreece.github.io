@@ -138,6 +138,7 @@ Mnih, V. et al. (2013). Playing Atari with deep reinforcement learning. https://
 Mnih, V. et al. (2015). Human-level control through deep reinforcement learning. *Nature*, 518(7540), 529--533. http://files.davidqiu.com//research/nature14236.pdf
 Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. *Science*, 356, 508--513. https://arxiv.org/abs/1701.01724
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
+Murphy, K.P. (2022). *Probabilistic Machine Learning: An introduction*. MIT Press.
 Nagarajan, V. (2021). Explaining generalization in deep learning: progress and fundamental limits. https://arxiv.org/abs/2110.08922 [(Ph.D. thesis)]
 Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. https://arxiv.org/abs/1912.02292
 Neller, T.W. & Lanctot, M. (2013). An introduction to counterfactual regret minimization. *Proceedings of Model AI Assignments*, 11. http://cs.gettysburg.edu/~tneller/modelai/2013/cfr/cfr.pdf
@@ -148,6 +149,7 @@ Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of
 Nielsen, F. (2018). An elementary introduction to information geometry. https://arxiv.org/abs/1808.08271
 Nirenburg, S. (1996). Bar Hillel and Machine Translation: Then and Now.
 O'Hagan, A. (2010). *Kendall's Advanced Theory of Statistics, Vol 2B: Bayesian Inference*. Wiley.
+Park, N. & Kim, S. (2022). How do vision transformers work? https://arxiv.org/abs/2202.06709
 Pearson, K. (1900). On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, 50, 157--175.
 Peirce, C.S. (1883). *Studies in Logic*. Boston: Little, Brown, and Co.
 Perone, C.S. (2018). NLP word representations and the Wittgenstein philosophy of language. http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/

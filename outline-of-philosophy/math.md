@@ -28,6 +28,8 @@ TODO
 
 -   roots from Babylonians
 -   [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano) (1501-1576)
+-   Carl Friedrich Gauss (1777-1855)
+    -   published a proof of the fundamental theorem of algebra (1797)
 -   [&Eacute;variste Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois) (1811-1832)
 -   [Leopold Kronecker](https://en.wikipedia.org/wiki/Leopold_Kronecker) (1823-1891)
 -   arithmetic vs abstract algebra
@@ -537,6 +539,7 @@ More:
 -   Discuss how incompleteness is overblown in overly epistemically defeatist ways.
     -   Seems to indicate that no formal system lacks the full context for _everything_.
         Additional axioms will be appropriate for introducing further contexts.
+    -   Franz&eacute;n, T. (2005). *G&ouml;del's Theorem: An incomplete guide to its use and abuse*. [^Franzen2005]
 -   Seely, R.A. [G&ouml;del on the net.](http://www.math.mcgill.ca/rags/JAC/124/godel.html)
 -   Video: [Veritasium - Math Has a Fatal Flaw](https://www.youtube.com/watch?v=HeQX2HjkcNo)
 -   Cubitt, Perez-Garcia, & Wolf. (2015). Undecidability of the spectral gap. [^Cubitt2015]
@@ -551,6 +554,7 @@ See also:
 
 [^Atiyah1994p182]: @Atiyah_1994_Responses_to_Theoretical_Mathematics_Toward\, p. 182.
 [^Cubitt2015]: @Cubitt_2015_Undecidability_of_the_spectral_gap\.
+[^Franzen2005]: @Franzen_2005_Godels_Theorem_An_incomplete_guide_to_its\.
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
 [^Raatikainen2020]: @Raatikainen_2020_Godels_incompleteness_theorems\.
 
@@ -886,9 +890,9 @@ Logicism
 
 ### Neologicism
 
--   Linsky, B. & Zalta, E.N. (2006). [What is Neologicism?](http://mally.stanford.edu/Papers/neologicism2.pdf) [^Linsky2006]
--   [Bob Hale](https://en.wikipedia.org/wiki/Bob_Hale_(philosopher)) (1945-2017)
 -   [Crispin Wright](https://en.wikipedia.org/wiki/Crispin_Wright) (b. 1942)
+-   [Bob Hale](https://en.wikipedia.org/wiki/Bob_Hale_(philosopher)) (1945-2017)
+-   Linsky, B. & Zalta, E.N. (2006). [What is Neologicism?](http://mally.stanford.edu/Papers/neologicism2.pdf) [^Linsky2006]
 
 Linsky & Zalta:
 

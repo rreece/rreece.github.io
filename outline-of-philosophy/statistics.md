@@ -42,6 +42,8 @@ See also:
 ### Early investigators
 
 -   "Ibn al-Haytham was an early proponent of the concept that a hypothesis must be supported by experiments based on confirmable procedures or mathematical evidence—an early pioneer in the scientific method five centuries before Renaissance scientists." - Wikipedia
+-   [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano) (1501-1576)
+    -   *Book on Games of Chance* (1564)
 -   [John Graunt](https://en.wikipedia.org/wiki/John_Graunt) (1620-1674)
 -   [Jacob Bernoulli](https://en.wikipedia.org/wiki/Jacob_Bernoulli) (1655-1705)
     -   *Ars Conjectandi* (1713, posthumous)
@@ -157,7 +159,6 @@ a measure of inductive confidence.
 
 TODO:
 
--   Cardano, G. (1564). *Book on Games of Chance*.
 -   Kolmogorov axioms
 -   Probability vs odds: $p/(p+q)$ vs $p/q$
 -   Carnap: "Probability as a guide in life" [^Carnap1947]
@@ -941,7 +942,8 @@ Lyons:
 -   Larry Wasserman
     -   [Statistical Principles?](https://normaldeviate.wordpress.com/2012/07/28/statistical-principles/)
 -   Kevin Murphy
-    -    Pathologies of frequentist statistics [^Murphy2012ch6]
+    -   Pathologies of frequentist statistics [^Murphy2012ch6]
+    -   $p$-values considered harmful [^Murphy2022p195]
 -   Greg Gandenberger
     -   [An introduction to likelihoodist, bayesian, and frequentist methods (1/3)](http://gandenberger.org/2014/07/21/intro-to-statistical-methods/)
     -   As Neyman and Pearson put it in their original presentation of the frequentist approach,
@@ -973,6 +975,7 @@ Lyons:
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
 [^Murphy2012ch6]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, ch. 6.6.
+[^Murphy2022p195]: @Murphy_2022_Probabilistic_Machine_Learning_An_Introduction\, p. 195--198.
 [^Neyman1977]: @Neyman_1977_Frequentist_probability_and_frequentist\.
 [^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
@@ -1426,6 +1429,7 @@ Blogs:
 -   gMLP [^Liu2021]
 -   Liu, Y. et al. (2021). [A survey of visual transformers](https://arxiv.org/abs/2111.06091).
 -   Ingrosso, A. & Goldt, S. (2022). [Data-driven emergence of convolutional structure in neural networks](https://arxiv.org/abs/2202.00565). [^Ingrosso2022]
+-   Park, N. & Kim, S. (2022). [How do vision transformers work?](https://arxiv.org/abs/2202.06709) [^Park2022]
 
 Resources:
 
@@ -1443,6 +1447,7 @@ Resources:
 [^LeCun1989]: @LeCun_1989_Backpropagation_applied_to_handwritten_zip_code\.
 [^LeCun1998]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
 [^Liu2021]: @Liu_2021_Pay_attention_to_MLPs\.
+[^Park2022]: @Park_2022_How_do_vision_transformers_work\.
 [^Simonyan2014]: @Simonyan_2014_Very_deep_convolutional_networks_for_large_scale\.
 [^Tan2019]: @Tan_2019_EfficientNet_Rethinking_model_scaling\.
 [^Tan2021]: @Tan_2021_EfficientNetV2_Smaller_models_and_faster_training\.

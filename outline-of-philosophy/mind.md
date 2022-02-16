@@ -116,11 +116,13 @@ Neuroscience
     -   Tononi, G. (2004). [An information integration theory of consciousness](https://link.springer.com/article/10.1186/1471-2202-5-42). [^Tononi2004]
     -   Tononi, G. (2010). [Information integration: Its relevance to brain function and consciousness](http://www.architalbiol.org/index.php/aib/article/view/148299). [^Tononi2010]
 -   Active inference
-    -   [Free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle)
-    -   Karl Friston
-    -   Mel Andrews
+    -   [Free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle) (FEP)
+    -   Friston, K. (2010). [The free-energy principle: a unified brain theory?](https://www.uab.edu/medicine/cinl/images/KFriston_FreeEnergy_BrainTheory.pdf) [^Friston2010]
+    -   Andrews, M. (2021). [The math is not the territory: navigating the free energy principle](http://philsci-archive.pitt.edu/18974/). [^Andrews2021]
 
+[^Andrews2021]: @Andrews_2021_The_math_is_not_the_territory_navigating_the_free\.
 [^Fodor1988]: @Fodor_1988_Connectionism_and_cognitive_architecture\.
+[^Friston2010]: @Friston_2010_The_free_energy_principle_a_unified_brain_theory\.
 [^Tononi2004]: @Tononi_2004_An_information_integration_theory\.
 [^Tononi2010]: @Tononi_2010_Information_integration_Its_relevance_to_brain\.
 

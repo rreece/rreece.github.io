@@ -503,8 +503,6 @@ Buddhism
 -   [Khujjuttara](https://en.wikipedia.org/wiki/Khujjuttara) - one of Buddha's foremost female lay disciples
 -   [Ashoka](https://en.wikipedia.org/wiki/Ashoka) (c. 304-232 BCE)
 -   [Gandh&amacr;ran Buddhist texts](https://en.wikipedia.org/wiki/Gandharan_Buddhist_texts) - oldest yet discovered Buddhist texts (c. first century BCE)
--   [Dign&amacr;ga](https://en.wikipedia.org/wiki/Dign%C4%81ga) (c. 480-540 CE)
-    -   Indian philosopher that developed Buddhist logic and empiricism.
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [Buddhist modernism](https://en.wikipedia.org/wiki/Buddhist_modernism)
 
@@ -841,6 +839,7 @@ Online Suttas:
 -   [Asanga](https://en.wikipedia.org/wiki/Asanga) (fl. 4th century CE)
 -   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu) (fl. 4th to 5th century CE)
 -   [Dign&amacr;ga](https://en.wikipedia.org/wiki/Dign%C4%81ga) (c. 480--540 CE)
+    -   Indian philosopher that developed Buddhist logic and empiricism.
 -   [Buddhism in China](https://en.wikipedia.org/wiki/Buddhism_in_China)
     -   [Silk Road transmission of Buddhism](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
     -   [Pure Land Buddhism](https://en.wikipedia.org/wiki/Pure_Land_Buddhism) (introduced in China in 147 CE)
@@ -1595,6 +1594,7 @@ Romanticism
     -   Haydn and Mozart
 -   [Weimar Classicism](https://en.wikipedia.org/wiki/Weimar_Classicism)
 -   [William Blake](https://en.wikipedia.org/wiki/William_Blake) (1757-1827)
+-   [Lord Byron](https://en.wikipedia.org/wiki/Lord_Byron) (1788-1824)
 
 William Jones, in his 1772 "Essay on the Arts called Imitative", was one of the
 first to propound an expressive theory of poetry, valorising expression over
@@ -2139,10 +2139,12 @@ Existentialism
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
     -   "God is dead"
     -   "the mouth of the first immoralist", *Ecce Homo*
+    -   Zumbrunnen, J. (2002). "Courage in the face of reality": Nietzsche's admiration for Thucydides. [^Zumbrunnen2002]
     -   Leiter, B. (2019). The death of God and the death of morality. [^Leiter2019]
 -   Modernism and alienation
 
 [^Leiter2019]: @Leiter_2019_The_death_of_God_and_the_death_of_morality\.
+[^Zumbrunnen2002]: @Zumbrunnen_2002_Courage_in_the_face_of_reality_Nietzsches\.
 
 
 ### Existentialists

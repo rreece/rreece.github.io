@@ -15,6 +15,7 @@ I am passionate about using scientific techniques to solve important
 problems and about how technologies extend our reach.
 
 Read more about [my research here](research/).        
+
 Get my r&eacute;sum&eacute; or CV:
 
 -   brief r&eacute;sum&eacute;: [<i class="far fa-file" style="font-size:20px;"></i>&nbsp;html](../docs/Ryan-Reece-resume.html), [<i class="far fa-file-pdf" style="font-size:20px;"></i>&nbsp;pdf](../docs/Ryan-Reece-resume.pdf)

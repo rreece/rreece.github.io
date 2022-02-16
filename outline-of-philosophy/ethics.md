@@ -156,12 +156,12 @@ Hume:
 
 ### Is-ought divide
 
--   Hume
+-   Hume's *Treatise of Human Nature*
 -   Black, M. (1964). The gap between "is" and "should". [^Black1964]
 -   Pigden, C. (2011). [Hume on is and ought](https://philosophynow.org/issues/83/Hume_on_Is_and_Ought).
 
 The end of section 3.1.1 from Hume's *Treatise of Human Nature*,
-"Moral Distinctions Not deriv’d from Reason":
+"Moral distinctions not derived from reason":
 
 >   In every system of morality, which I have
 >   hitherto met with, I have always remarked, that the
@@ -423,6 +423,7 @@ Free speech
 
 -   John Milton. (1644). [*Areopagitica*](https://en.wikipedia.org/wiki/Areopagitica).
 -   [First Amendment to the United States Constitution](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution) (1791)
+-   Orwell, G. (1946). [Why I write](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/).
 -   [Oliver Wendell Holmes Jr.](https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes_Jr.) (1841-1935)
 -   Christopher Hitchens. (2006). [Talk on free speech](https://www.youtube.com/watch?v=olefVguutfo) at University of Toronto's Hart House Debating Club.
     -   "Don't take refuge in the false security of concensus."
@@ -430,7 +431,6 @@ Free speech
 
 ### Hate speech
 
--   TODO
 -   [Section 230](https://en.wikipedia.org/wiki/Section_230)
 
 
