@@ -205,21 +205,7 @@ Moral realism
 ### Introduction
 
 -   Plato: [*Minos*](https://en.wikipedia.org/wiki/Minos_(dialogue))
--   Victor Kraft (1880-1975)
-    -   The positivist with ethics!
--   Rand's Objectivism
--   Structuralism
--   Contectualism
-    -   Bj&ouml;rnsson & Finlay (2010) [^Bjornsson2010]
--   Game/decision theory, again
-    -   Binmore
-    -   "The problem of what to do next" - David Deutsch ([yt](https://www.youtube.com/watch?v=J21QuHrIqXg), [txt](http://www.bretthall.org/david-deutsch--sam-harris.html))
--   Ethical/moral naturalism
-    -   See below: [Moral naturalism](#moral-naturalism)
-    -   See the outline on [Naturalism](naturalism.html#ethical-naturalism).
--   Murdoch, Iris. (1999). *The Sovereignty of Good*.
--   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
-    -   Scanlon, T.M. (2000). *What We Owe to Each Other* [^Scanlon2000]
+-   Objectivity, structure, context, invariance
 
 Plato:
 
@@ -239,14 +225,29 @@ Plato:
 >   
 >   He's very much awake. [^RepublicV476c]
 
-[^Bjornsson2010]: @Bjornsson_2010_Metaethical_contextualism_defended\.
 [^RepublicV476c]: Plato, *Republic V* 476c, @Cooper_1997_Plato_Complete_works\, p. 1103.
-[^Scanlon2000]: @Scanlon_2000_What_We_Owe_to_Each_Other\.
 
 
 ### Discussion
 
--   TODO
+-   Victor Kraft (1880-1975)
+    -   The positivist with ethics!
+-   Rand's Objectivism
+-   Structuralism
+-   Contectualism
+    -   Bj&ouml;rnsson & Finlay (2010) [^Bjornsson2010]
+-   Game/decision theory, again
+    -   Binmore
+    -   "The problem of what to do next" - David Deutsch ([yt](https://www.youtube.com/watch?v=J21QuHrIqXg), [txt](http://www.bretthall.org/david-deutsch--sam-harris.html))
+-   Ethical/moral naturalism
+    -   See below: [Moral naturalism](#moral-naturalism)
+    -   See the outline on [Naturalism](naturalism.html#ethical-naturalism).
+-   Murdoch, Iris. (1999). *The Sovereignty of Good*.
+-   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
+    -   Scanlon, T.M. (2000). *What We Owe to Each Other* [^Scanlon2000]
+
+[^Bjornsson2010]: @Bjornsson_2010_Metaethical_contextualism_defended\.
+[^Scanlon2000]: @Scanlon_2000_What_We_Owe_to_Each_Other\.
 
 
 ### Criticism
