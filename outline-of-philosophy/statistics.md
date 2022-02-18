@@ -493,6 +493,7 @@ TODO:
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
     -   for unbiased and efficient estimators
     -   proof in Rice [^Rice2007p300]
+    -   Cranmer: [Cram&eacute;r-Rao bound](http://theoryandpractice.org/stats-ds-book/statistics/cramer-rao-bound.html)
 -  [Fisher information matrix](https://en.wikipedia.org/wiki/Fisher_information)
     -   "is the key part of the proof of Wilks' theorem, which allows confidence region estimates for maximum likelihood estimation (for those conditions for which it applies) without needing the Likelihood Principle."
 -   Variance of MLEs
@@ -1763,9 +1764,9 @@ Information geometry
 
 ### Introduction
 
--   "A gentle introduction to information geometry" [^Smith2019]
--   "An elementary introduction to information geometry" [^Nielsen2018]
--   *Information Geometry and Its Applications* [^Amari2016]
+-   Smith, L. (2019). [A gentle introduction to information geometry](http://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html). [^Smith2019]
+-   Nielsen, F. (2018). [An elementary introduction to information geometry](https://arxiv.org/abs/1808.08271). [^Nielsen2018]
+-   Amari, S. (2016). *Information Geometry and Its Applications*. [^Amari2016]
 
 [^Amari2016]: @Amari_2016_Information_Geometry_and_Its_Applications\.
 [^Nielsen2018]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.
@@ -1774,10 +1775,10 @@ Information geometry
 
 ### Geometric understanding of classical statistics
 
--   "A geometric formulation of Occam's razor for inference of parametric distributions" [^Balasubramanian1996a]
--   "Statistical inference, Occam's Razor and statistical mechanics on the space of probability distributions" [^Balasubramanian1996b]
--   *Geometric Modeling in Probability and Statistics* [^Calin2014]
--   Cranmer
+-   Balasubramanian, V. (1996). [A geometric formulation of Occam's razor for inference of parametric distributions](https://arxiv.org/abs/adap-org/9601001). [^Balasubramanian1996a]
+-   Balasubramanian, V. (1996). [Statistical inference, Occam's razor and statistical mechanics on the space of probability distributions](https://arxiv.org/abs/cond-mat/9601030). [^Balasubramanian1996b]
+-   Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistics*. [^Calin2014]
+-   Cranmer: [Information geometry](http://theoryandpractice.org/stats-ds-book/statistics/information-geometry.html) (coming soon?)
 
 [^Balasubramanian1996a]: @Balasubramanian_1996_A_geometric_formulation_of_Occams_razor\.
 [^Balasubramanian1996b]: @Balasubramanian_1996_Statistical_inference_Occams_razor\.
