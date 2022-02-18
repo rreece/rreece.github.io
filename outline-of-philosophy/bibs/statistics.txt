@@ -63,6 +63,7 @@ Dosovitskiy, A. et al. (2020). An image is worth 16x16 words: Transformers for i
 Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.
 Efron, B. & Hastie, T. (2016). *Computer Age Statistical Inference: Algorithms, evidence, and data science*. Cambridge University Press.
 Evans, M. (2013). What does the proof of Birnbaum's theorem prove? https://arxiv.org/abs/1302.5468
+Fefferman, C., Mitter, S., & Narayanan, H. (2016). Testing the manifold hypothesis. *Journal of the American Mathematical Society*, 29, 983--1049. https://www.ams.org/journals/jams/2016-29-04/S0894-0347-2016-00852-4/S0894-0347-2016-00852-4.pdf
 Fienberg, S.E. (2006). When did Bayesian inference become "Bayesian"? *Bayesian Analysis*, 1, 1--40. https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full
 Firth, J.R. (1957). A synopsis of linguistic theory, 1930-1955. In *Studies in Linguistic Analysis* (pp. 1--31). Oxford: Blackwell.
 Fisher, R.A. (1912). On an absolute criterion for fitting frequency curves. *Statistical Science*, 12(1), 39--41.
@@ -200,6 +201,7 @@ Vapnik, V., Levin, E., & LeCun, Y. (1994). Measuring the VC-dimension of a learn
 Vaswani, A. et al. (2017). Attention is all you need. *Advances in Neural Information Processing Systems*, 2017, 5998--6008. https://arxiv.org/abs/1706.03762
 Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]
 Vershynin, R. (2018). *High-Dimensional Probability:An introduction with applications in data science*. Cambridge University Press. https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf
+Wainer, H. (2007). The most dangerous equation. *American Scientist*, 95, 249--256. https://sites.stat.washington.edu/people/peter/498.Sp16/Equation.pdf
 Wakefield, J. (2013). *Bayesian and Frequentist Regression Methods*. Springer.
 Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482. https://www.ams.org/journals/tran/1943-054-03/S0002-9947-1943-0012401-3/S0002-9947-1943-0012401-3.pdf
 Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.

@@ -500,6 +500,7 @@ TODO:
     -   [Wilks's theorem](https://en.wikipedia.org/wiki/Wilks%27_theorem)
     -   See also: [Asymptotics](#asymptotics)
     -   Method of $\Delta\chi^2$ or $\Delta{}L$
+    -   Wainer, H. (2007). [The most dangerous equation](https://sites.stat.washington.edu/people/peter/498.Sp16/Equation.pdf). (de Moivre's equation for variance of means) [^Wainer2007]
     -   Invariance of likelihoods to reparametrization (TODO: James)
     -   Frequentist confidence intervals (e.g. at 95% CL)
     -   See slides for my talk: [Primer on statistics: MLE, Confidence Intervals, and Hypothesis Testing](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf)
@@ -517,6 +518,7 @@ TODO:
     @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
 [^Rice2007p300]: @Rice_2007_Mathematical_Statistics_and_Data_Analysis\, p. 300--2.
 [^Tegmark1997]: @Tegmark_1997_Karhunen_Loeve_eigenvalue_problems_in_cosmology\.
+[^Wainer2007]: @Wainer_2007_The_most_dangerous_equation\.
 
 
 ### Bayesian credibility intervals
@@ -1817,12 +1819,16 @@ Automation
 -   Howard, J.N. et al. (2021). [Foundations of a fast, data-driven, machine-learned simulator](https://arxiv.org/abs/2101.08944). [^Howard2021]
 -   Thuerey, N. et al. (2021). [Physics-based deep learning](https://arxiv.org/abs/2109.05237). [^Thuerey2021]
 -   [physicsbaseddeeplearning.org](https://physicsbaseddeeplearning.org/intro.html)
+-   The manifold hypothesis
+-   Olah, C. (2014). [Neural networks, manifolds, and topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/).
+-   Fefferman, C., Mitter, S., & Narayanan, H. (2016). [Testing the manifold hypothesis](https://www.ams.org/journals/jams/2016-29-04/S0894-0347-2016-00852-4/S0894-0347-2016-00852-4.pdf). [^Fefferman2016]
 
 Lectures:
 
 -   Paul Hand. (2020). [Invertible neural networks and inverse problems](https://www.youtube.com/watch?v=IpbeIwSr7r0).
 
 [^Cranmer2019]: @Cranmer_2019_The_frontier_of_simulation_based_inference\.
+[^Fefferman2016]: @Fefferman_2016_Testing_the_manifold_hypothesis\.
 [^Howard2021]: @Howard_2021_Foundations_of_a_fast_data_driven_machine\.
 [^Karniadakis2021]: @Karniadakis_2021_Physics_informed_machine_learning\.
 [^Raissi2017IandII]: @Raissi_2017_Physics_informed_deep_learning_Part_I_Data and 
