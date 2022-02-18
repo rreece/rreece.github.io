@@ -48,6 +48,7 @@ Smith, P. (2022). *Beginning Mathematical Logic: A Study Guide*. https://www.log
 Snapper, E. (1979). The three crises in mathematics: Logicism, intuitionism and formalism. *Mathematics Magazine*, 52, 207--216. https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/1980/0025570x.di021111.02p0048m.pdf
 Spivak, D.I. (2013). Category theory for scientists. https://arxiv.org/abs/1302.6946
 Stillwell, J. (2004). Emil Post and his anticipation of G{\"o}del and Turing. *Mathematics Magazine*, 77, 3--14.
+Tao, T. (2007). Differential forms and integration. https://www.math.ucla.edu/~tao/preprints/forms.pdf
 Tegmark, M. (2008). The mathematical universe. *Foundations of Physics*, 38, 101--150. https://arxiv.org/abs/0704.0646
 Teller, P. (1989). *A Modern Formal Logic Primer*. Prentice Hall. https://tellerprimer.ucdavis.edu/
 Varadarajan, V.S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. In *A Tribute to CS Seshadri* (pp. 502--541). Gurgaon: Hindustan Book Agency.

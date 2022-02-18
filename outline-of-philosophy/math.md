@@ -144,6 +144,7 @@ TODO
     -   Introduction to connections on principal fibre bundles [^Way2010]
     -   Review by Fr&egrave; [^Fre2013v1ch2]
     -   Varadarajan, V. S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. [^Varadarajan2003]
+    -   Tao, T. (2007). [Differential forms and integration](https://www.math.ucla.edu/~tao/preprints/forms.pdf). [^Tao2007]
 -   Chern-Simons theory
 
 See also:
@@ -151,6 +152,7 @@ See also:
 -   [Fiber bundles](physics.html#fiber-bundles)
 
 [^Fre2013v1ch2]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_1\, ch. 2.
+[^Tao2007]: @Tao_2007_Differential_forms_and_integration\.
 [^Varadarajan2003]: @Varadarajan_2003_Vector_bundles_and_connections_in_physics\.
 [^Way2010]: @Way_2010_Introduction_to_connections_on_principal_fibre\.
 

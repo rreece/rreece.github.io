@@ -975,7 +975,7 @@ Lyons:
 [^Mayo2011]: @Mayo_2011_Error_statistics\.
 [^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
 [^Murphy2012ch6]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, ch. 6.6.
-[^Murphy2022p195]: @Murphy_2022_Probabilistic_Machine_Learning_An_Introduction\, p. 195--198.
+[^Murphy2022p195]: @Murphy_2022_Probabilistic_Machine_Learning_An_introduction\, p. 195--198.
 [^Neyman1977]: @Neyman_1977_Frequentist_probability_and_frequentist\.
 [^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
@@ -988,14 +988,15 @@ Replication crisis
 
 ### Introduction
 
--   "Why most published research findings are false" [^Ioannidis2005]
+-   Ioannidis, J.P. (2005). Why most published research findings are false. [^Ioannidis2005]
 
 [^Ioannidis2005]: @Ioannidis_2005_Why_most_published_research_findings_are_false\.
 
 
 ### *p*-value controversy
 
--   ASA statement on $p$-values [^Wasserstein2016]
+-   Wasserstein, R.L. & Lazar, N.A. (2016). The ASA's statement on $p$-values: Context, process, and purpose. [^Wasserstein2016]
+-   Wasserstein, R.L., Allen, L.S., & Lazar, N.A. (2019). Moving to a World Beyond "p<0.05". [^Wasserstein2019]
 -   [Big names in statistics want to shake up much-maligned P value](http://www.nature.com/news/big-names-in-statistics-want-to-shake-up-much-maligned-p-value-1.22375) [^Benjamin2017]
 -   [Hi-Phi Nation, episode 7](https://hiphination.org/episodes/episode-7-hackademics-ii-the-hackers/)
 -   Fisher:
@@ -1041,6 +1042,7 @@ From "The ASA president's task force statement on statistical significance and r
 [^Gorard2016]: @Gorard_2016_What_to_do_instead_of_significance_testing\.
 [^Mayo2021]: @Mayo_2021_Significance_tests_Vitiated_or_vindicated\.
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
+[^Wasserstein2019]: @Wasserstein_2019_Moving_to_a_World_Beyond_p005\.
 
 
 Classical machine learning
@@ -1470,6 +1472,7 @@ Resources:
 -   RNNs and LSTMs
     -   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
     -   Olah, C. (2015). [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
+    -   Karpathy, A. (2015). [The unreasonable effectiveness of recurrent neural networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/).
 -   Backpropagation through time (BPTT)
 -   Neural Machine Translation (NMT)
     -   Sutskever seq2seq [^Sutskever2014]
@@ -1488,6 +1491,7 @@ Resources:
     -   Video: [How to get meaning from text with language model BERT](https://www.youtube.com/watch?v=-9vVhYEXeyQ&ab_channel=Peltarion).
     -   ALBERT [^Lan2019]
     -   GPT-1 [^Radford2018], 2 [^Radford2019], 3 [^Brown2020GPT3]
+    -   Alammar, J. (2019). [The illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/).
     -   Yang, Z. et al. (2019). [XLNet: Generalized autoregressive pretraining for language understanding](https://arxiv.org/abs/1906.08237). [^Yang2019]
     -   DeepMind's blog posts for more details: [AlphaFold1](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery),
         [AlphaFold2](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).

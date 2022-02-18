@@ -109,9 +109,9 @@ See also:
 -   The Repugnant Conclusion
     -   Parfit, D. (1984). *Reasons and Pearson*. [^Parfit1984]
 -   The experience machine
-    -   Nozick, R. (1974). *Anarchy, State, and Utopia*. [^Nozick2013]
+    -   Nozick, R. (1974). *Anarchy, State, and Utopia*. [^Nozick2013pTODO]
 
-[^Nozick2013]: @Nozick_2013_Anarchy_State_and_Utopia\.
+[^Nozick2013pTODO]: @Nozick_2013_Anarchy_State_and_Utopia\, p. TODO.
 [^Parfit1984]: @Parfit_1984_Reasons_and_Pearson\.
 
 
@@ -377,13 +377,25 @@ Political philosophy
     -   [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek) (1899-1992)
     -   Hayek, F. (1945). The use of knowledge in society. [^Hayek1945]
 -   Libertarianism
+    -   Nozick, R. (1974). *Anarchy, State, and Utopia*. [^Nozick2013]
+-   Anarcho-capitalism
+    -   [Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard) (1926-1995)
 -   Neoliberalism
+
+[^Nozick2013]: @Nozick_2013_Anarchy_State_and_Utopia\.
 
 
 ### Marxism
 
 -   Karl Marx and Friedrich Engels
     -   *The Communist Manifesto* (1848)
+    -   The proletariat vs the bourgeoisie
+-   [October Revolution](https://en.wikipedia.org/wiki/October_Revolution) (1917)
+    -   Leon Trotsky (1879-1940)
+-   [Marxism-Leninism](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism)
+    -   Joseph Stalin (1878-1953)
+    -   Mao Zedong (1893-1976)
+
 
 #### Criticism
 

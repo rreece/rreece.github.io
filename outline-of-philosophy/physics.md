@@ -124,6 +124,7 @@ History:
     -   Invented the concept of a *field*
 -   [James Clerk Maxwell](http://en.wikipedia.org/wiki/James_Clerk_Maxwell) (1831-1879)
 -   [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) (1839-1903)
+-   [Oliver Heaviside](https://en.wikipedia.org/wiki/Oliver_Heaviside) (1850-1925)
 
 Pedagogy:
 
@@ -1515,7 +1516,9 @@ Gravity and cosmology
 -   *The First Three Minutes* [^Weinberg1977]
 -   Ryden, B. (2003). *Introduction to Cosmology*. [^Ryden2003]
 -   Big Bang Nucleosynthesis (BBN)
+-   Bahcall, N.A., Ostriker, J.P., Perlmutter, S., & Steinhardt, P.J. (1999). [The cosmic triangle: Revealing the state of the universe](https://arxiv.org/abs/astro-ph/9906463). [^Bahcall1999]
 
+[^Bahcall1999]: @Bahcall_1999_The_cosmic_triangle_Revealing_the_state\.
 [^Fre2013v2ch4]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 4.
 [^Weinberg1977]: @Weinberg_1977_The_First_Three_Minutes\.
 

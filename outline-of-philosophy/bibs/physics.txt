@@ -15,6 +15,7 @@ Baez, J.C. (2011). Division algebras and quantum theory. *Foundations of Physics
 Baez, J.C. (2016). Struggles with the continuum. https://arxiv.org/abs/1609.01421
 Baez, J.C. (2018). Getting to the bottom of Noether’s theorem. https://math.ucr.edu/home/baez/noether/noether_web.pdf [Talk given at The Philosophy and Physics of Noether’s Theorems, University of Notre Dame, October 6, 2018]
 Baggott, J. (2013). *Farewell to Reality: How modern physics has betrayed the search for scientific truth*. Pegasus Books.
+Bahcall, N.A., Ostriker, J.P., Perlmutter, S., & Steinhardt, P.J. (1999). The cosmic triangle: Revealing the state of the universe. *Science*, 284, 1481--8. https://arxiv.org/abs/astro-ph/9906463
 Bain, J. (2000). Against particle/field duality: Asymptotic particle states and interpolating fields in interacting QFT, or Who's afraid of Haag's theorem? *Erkenntnis*, 53(3), 375--406.
 Bain, J. (2013). Effective field theories. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 224--254). Oxford University Press.
 Bain, J. (2013). Emergence in effective field theories. *European Journal for Philosophy of Science*, 3(3), 257--273.

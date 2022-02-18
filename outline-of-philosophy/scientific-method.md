@@ -1429,7 +1429,7 @@ for only what is perfectly certain:
 
 -   Chisholm, R. (1966). *Theory of Knowledge*. [^Chisholm1966]
     -   The Problem of Criterion
--   Robert Nozick. (1981). *Philosophical Explanations*.
+-   Nozick, R. (1981). *Philosophical Explanations*. [^Nozick1981]
 
 Ichikawa & Jenkins:
 
@@ -1454,6 +1454,7 @@ Ichikawa & Jenkins:
 [^DescartesRule2]: @Descartes_1996_Oeuvres_de_Descartes_11_volumes\, vol. 10, p. 362.
 [^Ichikawa2017]: @Ichikawa_2017_On_putting_knowledge_first\.
 [^Meno80d]: Plato, *Meno* 80d, @Cooper_1997_Plato_Complete_works\, p. 879.
+[^Nozick1981]: @Nozick_1981_Philosophical_Explanations\.
 [^RepublicV477]: Plato, *Republic V* 477--8, @Cooper_1997_Plato_Complete_works\, p. 1103--4.
 [^Theaetetus186]: Plato, *Theaetetus* 186--7, @Cooper_1997_Plato_Complete_works\, p. 205--7.
 [^Theaetetus201b]: Plato, *Theaetetus* 201b--d, @Cooper_1997_Plato_Complete_works\, p. 222--3.
