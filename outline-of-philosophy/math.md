@@ -441,7 +441,7 @@ $$ \Box P = \lnot \Diamond \lnot P $$
     -   Paraconsistent logics reject ECQ, and may or may not invalidate LNC.
     -   Priest, G. (1998). What is so bad about contradictions? [^Priest1998]
     -   Dialetheism rejects LNC.
-    -   Rosario Mart&iacute;nez-Ordaz, M. del. (2020). The ignorance behind inconsistency toleration. [^Rosario2020]
+    -   Mart&iacute;nez-Ordaz, M. del R. (2021). The ignorance behind inconsistency toleration. [^MartinezOrdaz2021]
 
 Criticism:
 
@@ -449,7 +449,7 @@ Criticism:
 
 [^Priest1998]: @Priest_1998_What_is_so_bad_about_contradictions\.
 [^Quine1986]: @Quine_1986_Philosophy_of_Logic\.
-[^Rosario2020]: @Rosario_2020_The_ignorance_behind_inconsistency_toleration\.
+[^MartinezOrdaz2021]: @Martinez_Ordaz_2021_The_ignorance_behind_inconsistency_toleration\.
 
 
 Model theory

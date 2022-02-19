@@ -1514,6 +1514,8 @@ See also:
 ### Scientific knowledge
 
 -   Scientific method, community, and body of knowledge
+-   Big data
+    -   Mart&iacute;nez-Ordaz, M. del R. (2021). [Is there anything special about the ignorance involved in big data practices?](http://philsci-archive.pitt.edu/19671/) [^MartinezOrdaz2021]
 -   Naturalism
     -   Hume on the problem of induction and the uniformity of nature, again
     -   Monism
@@ -1530,6 +1532,8 @@ See also:
 -   [Outline on scientific realism](scientific-realism.html)
     -   [Scientific progress](scientific-realism.html#scientific-progress)
 -   [Outline on naturalism](naturalism.html)
+
+[^MartinezOrdaz2021]: @Martinez_Ordaz_2021_Is_there_anything_special_about_the_ignorance\.
 
 
 Pseudoscience

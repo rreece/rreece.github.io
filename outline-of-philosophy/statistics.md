@@ -1877,6 +1877,16 @@ See also:
 [^Williamson2009]: @Williamson_2009_The_philosophy_of_science_and_its_relation\.
 
 
+### Real clusters
+
+-   Nope: Hennig
+
+See also:
+
+-   [Clustering](#clustering)
+-   [Natural kinds](naturalism.html#natural-kinds)
+
+
 ### Word meanings
 
 -   Note that NLP has implications to the philosophy of language and realism
@@ -1888,16 +1898,6 @@ See also:
 -   [Ordinary language philosophy](scientific-realism.html#ordinary-language-philosophy)
 
 [^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
-
-
-### Real clusters
-
--   Nope: Hennig
-
-See also:
-
--   [Clustering](#clustering)
--   [Natural kinds](naturalism.html#natural-kinds)
 
 
 My thoughts

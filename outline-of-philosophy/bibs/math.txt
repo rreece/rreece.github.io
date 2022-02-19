@@ -37,7 +37,7 @@ Putnam, H. (1975). What is mathematical truth? *Historia Mathematica*, 2(4), 529
 Quine, W.V.O. (1986). *Philosophy of Logic* (2nd ed.). Harvard University Press.
 Raatikainen, P. (2020). G{\"o}del's incompleteness theorems. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/goedel-incompleteness/
 Reid, C. (1996). *Hilbert*. Copernicus.
-Rosario Mart{\'i}nez-Ordaz, M. (2020). The ignorance behind inconsistency toleration. *Synthese*, 198, 8665--8686.
+Mart{\'i}nez-Ordaz, M.R. (2021). The ignorance behind inconsistency toleration. *Synthese*, 198, 8665--8686. http://philsci-archive.pitt.edu/19672/
 Russell, B. (1905). On Denoting. *Mind*, 14(56), 479--493.
 Russell, G. (2015). The justification of the basic laws of logic. *Journal of Philosophical Logic*, 44(6), 793--803.
 {Open Logic Project}. (2020). *The Open Logic Text*. https://openlogicproject.org/
