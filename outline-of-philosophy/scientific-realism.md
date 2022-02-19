@@ -1410,6 +1410,7 @@ Science has identified real patterns, relationships, and structures
 -   Henri Poincar&eacute;
 -   Grover Maxwell coined "structural realism" [^Maxwell1968]
 -   Russell [^Russell1992pX]
+-   Nozick, R. (2001). *Invariances*. [^Nozick2001]
 
 Psillos:
 
@@ -1424,6 +1425,14 @@ Poincar&eacute;:
 
 -   I found the above quotes in a talk by Arthur Fine, video: [Structural Realism, Then & Now](https://www.youtube.com/watch?v=0tb4_kFHwO4).
 -   John Worrall [^Worrall1989]
+
+[^HWPrinciple]: @Psillos_2001_Is_structural_realism_possible\, p. 14,
+    @Russell_1992_The_Analysis_of_Matter\, p. 255, and
+    @Frigg_2011_Everything_you_always_wanted_to_know_about\, p. 235.
+[^Maxwell1968]: @Maxwell_1968_Scientific_methodology_and_the_causal_theory\.
+[^Nozick2001]: @Nozick_2001_Invariances\.
+[^Russell1992pX]: @Russell_1992_The_Analysis_of_Matter\, p. TODO.
+[^Worrall1989]: @Worrall_1989_Structural_realism_The_best_of_both_worlds\.
 
 
 ### Discussion
@@ -1449,18 +1458,12 @@ More:
 
 [^Dennett1991]: @Dennett_1991_Real_patterns\.
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
-[^HWPrinciple]: @Psillos_2001_Is_structural_realism_possible\, p. 14,
-    @Russell_1992_The_Analysis_of_Matter\, p. 255, and
-    @Frigg_2011_Everything_you_always_wanted_to_know_about\, p. 235.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
-[^Maxwell1968]: @Maxwell_1968_Scientific_methodology_and_the_causal_theory\.
 [^Poincare1913p347]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 347--8.
 [^Redhead1975]: @Redhead_1975_Symmetry_in_intertheory_relations\.
 [^Redhead2001]: @Redhead_2001_The_intelligibility_of_the_universe\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
-[^Russell1992pX]: @Russell_1992_The_Analysis_of_Matter\, p. TODO.
 [^Sider2011]: @Sider_2011_Writing_the_Book_of_the_World\.
-[^Worrall1989]: @Worrall_1989_Structural_realism_The_best_of_both_worlds\.
 
 ### Criticism
 

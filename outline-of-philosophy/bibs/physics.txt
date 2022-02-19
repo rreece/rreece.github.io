@@ -138,6 +138,7 @@ Leifer, M.S., & Spekkens, R.W. (2013). Towards a formulation of quantum theory a
 Lisi, A.G. (2017). Emergence. https://www.edge.org/response-detail/27149
 {LSND Collaboration}. (1996). Evidence for neutrino oscillations from muon decay at rest. *Physical Review C*, 54, 2685--2708. https://arxiv.org/abs/nucl-ex/9605001
 {LSND Collaboration}. (2001). Evidence for neutrino oscillations from the observation of electron anti-neutrinos in a muon anti-neutrino beam. *Physical Review D*, 64, 112007. https://arxiv.org/abs/hep-ex/0104049
+Lyre, H. (2008). Does the Higgs mechanism exist? *International Studies in the Philosophy of Science*, 22, 119--133. https://arxiv.org/abs/0806.1359
 Malament, D.B. (1996). In defence of dogma: Why there cannot be a relativistic quantum mechanics of (localizable) particles. In Clifton, R. (Ed.) *Perspectives on Quantum Reality* (pp. 1--10). Springer.
 Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. *Advances in Theoretical and Mathematical Physics*, 2, 231--252. https://arxiv.org/abs/hep-th/9711200
 Martens, N. (2022). Dark matter realism. *Foundations of Physics*, 52(1), 1--19. https://link.springer.com/article/10.1007/s10701-021-00524-y

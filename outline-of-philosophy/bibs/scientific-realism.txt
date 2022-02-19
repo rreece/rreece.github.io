@@ -33,6 +33,7 @@ Moore, G.E. (1925). A defence of common sense. In Muirhead, J.H. (Ed.) *Contempo
 Moore, G.E. (1939). Proof of an external world. *Proceedings of the British Academy*, 25, 273--300.
 Newton, I. (1999). *The Principia: Mathematical Principles of Natural Philosophy* (I.B. Cohen and A. Whitman, Trans.). University of California Press. [(Originally published in 1687)]
 Ney, A. (2014). *Metaphysics: An introduction*. Routledge.
+Nozick, R. (2001). *Invariances*. Harvard University Press.
 Poincar\'{e}, H. (1913). *The Foundations of Science: Science and hypothesis, the value of science, science and method* (G.B. Halstead, Trans.). Cambridge University Press. [(Originally published in 1905)]
 Popper, K.R. (1953). A note on Berkeley as precursor of Mach. *The British Journal for the Philosophy of Science*, 4, 26--36.
 Popper, K.R. (1963). *Conjectures and Refutations: The Growth of Scientific Knowledge*. Routledge.

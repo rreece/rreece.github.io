@@ -1293,7 +1293,8 @@ massive spin-zero particle, the Higgs boson. This is the Englert-Brout-Higgs-Gur
 or *Higgs mechanism*. In the Standard Model, the Higgs boson also couples
 to the fermions, generating their bare masses.
 
-Georgi: Is the Higgs real? [^Georgi1999p280]
+-   Georgi: Is the Higgs real? [^Georgi1999p280]
+-   Lyre, H. (2008). [Does the Higgs mechanism exist?](https://arxiv.org/abs/0806.1359)
 
 On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214) [^ATLAS2012] and [CMS](https://arxiv.org/abs/1207.7235) [^CMS2012]
 experiments both [announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
@@ -1303,8 +1304,9 @@ a key to explaining electroweak symmetry breaking in the Standard Model of parti
 [^CMS2012]: @CMS_2012_Observation_of_a_new_boson_at_a_mass_of_125_GeV\.
 [^Englert1964]: @Englert_1964_Broken_symmetry_and_the_mass_of_gauge_vector\.
 [^Georgi1999p280]: @Georgi_1999_Lie_Algebras_in_Particle_Physics\, p. 280.
-[^Higgs1964]: @Higgs_1964_Broken_symmetries_massless_particles_and_gauge\.
 [^Guralnik1964]: @Guralnik_1964_Global_conservation_laws_and_massless_particles\.
+[^Higgs1964]: @Higgs_1964_Broken_symmetries_massless_particles_and_gauge\.
+[^Lyre2008]: @Lyre_2008_Does_the_Higgs_mechanism_exist\.
 
 
 ### A model of leptons
