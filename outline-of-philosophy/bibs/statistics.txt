@@ -103,7 +103,7 @@ Ingrosso, A. & Goldt, S. (2022). Data-driven emergence of convolutional structur
 Ioannidis, J.P. (2005). Why most published research findings are false. *PLOS Medicine*, 2(8), 696--701.
 James, F. & Roos, M. (1975). MINUIT: A system for function minimization and analysis of the parameter errors and corrections. *Computational Physics Communications*, 10, 343--367. https://cds.cern.ch/record/310399
 James, F. (2006). *Statistical Methods in Experimental Particle Physics* (2nd ed.). World Scientific.
-Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434(2-3), 435--443. https://arxiv.org/abs/hep-ex/9902006
+Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434, 435--443. https://arxiv.org/abs/hep-ex/9902006
 Kaplan, J. et al. (2019). Notes on contemporary machine learning for physicists. https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf
 Kaplan, J. et al. (2020). Scaling laws for neural language models. https://arxiv.org/abs/2001.08361
 Karniadakis, G.E. et al. (2021). Physics-informed machine learning. *Nature Reviews Physics*, 3, 422--440. https://doi.org/10.1038/s42254-021-00314-5

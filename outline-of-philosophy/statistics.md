@@ -2140,6 +2140,7 @@ Click to show links
 ### Wikipedia
 
 -   [Abductive reasoning](http://en.wikipedia.org/wiki/Abductive_reasoning)
+-   [Akaike_information_criterion](https://en.wikipedia.org/wiki/Akaike_information_criterion)
 -   [Algorithmic information theory](https://en.wikipedia.org/wiki/Algorithmic_information_theory)
 -   [Algorithmic probability](https://en.wikipedia.org/wiki/Algorithmic_probability)
 -   [Analysis of variance](https://en.wikipedia.org/wiki/Analysis_of_variance)
