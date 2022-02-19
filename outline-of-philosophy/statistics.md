@@ -251,10 +251,45 @@ See also the section on [logistic regression](#logistic-regression).
 
 ### Uncertainty
 
--   Propagation of error
-    -   See Cowan
+#### Quantiles and standard error
+
+TODO:
+
 -   Quantiles
 -   Practice of standard error for uncertainty quantification.
+
+
+#### Propagation of error
+
+Given some vector of random variables, $\vec{x}$, with estimated means, 
+$\vec{\mu}$, and estimated covariance matrix, $\boldsymbol{V}$, suppose we are
+concerned with estimating the variance of some variable, $y$, that is a
+function of $\vec{x}$. The variance of $y$ is given by
+
+$$ \sigma^2_y   = \mathbb{E}(y^2) - \mathbb{E}(y)^2 \,. $$
+
+Taylor expanding $y(\vec{x})$ about $x=\mu$ gives
+
+$$ y(\vec{x}) \approx y(\vec{\mu}) + \left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}} (x_i - \mu_i) \,. $$
+
+Therefore, to first order
+
+$$ \mathbb{E}(y) \approx y(\vec{\mu}) $$
+
+and
+
+\begin{align}
+\mathbb{E}(y^2)
+    &\approx y^2(\vec{\mu}) + 2 \, y(\vec{\mu}) \, \left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}} \mathbb{E}(x_i - \mu_i) \\
+    &+ \mathbb{E}\left[ \left(\left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}}(x_i - \mu_i)\right) \left(\left.\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}}(x_j - \mu_j)\right) \right] \\
+    &= y^2(\vec{\mu}) + \, \left.\frac{\partial y}{\partial x_i}\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}} V_{ij} \\
+\end{align}
+
+TODO: clarify above, then specific examples.
+
+See Cowan. [^Cowan1998p20]
+
+[^Cowan1998p20]: @Cowan_1998_Statistical_Data_Analysis\, p. 20-22.
 
 
 ### Bayes' theorem
@@ -394,6 +429,7 @@ $f(x_i; \theta_j)$ that models the data reasonably well [^NoteClass3].
 -   Regression
 -   Accuracy vs precision [^Cowan1998pX]
 
+[^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\, p. TODO. 
 [^NoteClass3]: This assumption that the model models the data "reasonably" well
     reflects that to the degree required by your analysis, the important features
     of the data match well within the systematic uncertainties parametrized within
@@ -446,8 +482,6 @@ TODO:
 -   Note the discussion of the bias-variance tradeoff by [Cranmer](http://theoryandpractice.org/stats-ds-book/statistics/bias-variance.html).
 -   Note the new deep learning view. See [Deep learning](#deep-learning).
 
-[^Cowan1998pX]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\, p. TODO. 
-
 
 ### Maximum likelihood estimation
 
@@ -469,20 +503,27 @@ $$ \mathrm{log} \: L(\theta) = \sum_i \mathrm{log} \: L(\theta|x_i) = \sum_i \ma
 
 Maximizing $\mathrm{log} \: L(\theta)$ is also equivalent to minimizing $-\mathrm{log} \: L(\theta)$, the negative log-likelihood (NLL). For distributions that are *i.i.d.*,
 
-$$ \mathrm{NLL} \equiv - \log L = - \log \prod_i L_i = - \sum_i \log L_i $$
+$$ \mathrm{NLL} \equiv - \log L = - \log \prod_i L_i = - \sum_i \log L_i = \sum_i \mathrm{NLL}_i $$
 
-$$ \Rightarrow \mathrm{NLL} = \sum_i \mathrm{NLL}_i $$
+[^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 
-TODO:
 
--   Reference Kendall
+#### Invariance of likelihoods under reparametrization
+
+-   Invariance of likelihoods under reparametrization [^James2006p234]
+-   Bayesian posteriors are not invariant.
+
+[^James2006p234]: @James_2006_Statistical_Methods_in_Experimental_Particle\, p. 234.
+
+
+#### Ordinary least squares
+
 -   Least squares from MLE of gaussian models: $\chi^2$
 -   Ordinary Least Squares (OLS)
 -   Geometric interpretation
     -   Cox [^Cox2006p11]
     -   Murphy [^Murphy2012p222]
 
-[^Aldrich1997]: @Aldrich_1997_RAFisher_and_the_making_of_maximum_likelihood\.
 [^Cox2006p11]: @Cox_2006_Principles_of_Statistical_Inference\, p. 11.
 [^Murphy2012p222]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 222.
 
@@ -491,31 +532,44 @@ TODO:
 
 -   Taylor expansion of a likelihood near its maximum
 -   Cram&eacute;r-Rao bound [^Cramer-Rao]
-    -   for unbiased and efficient estimators
-    -   proof in Rice [^Rice2007p300]
+    -   Define efficiency of an estimator.
+    -   Common formula for variance of unbiased and efficient estimators
+    -   Proof in Rice [^Rice2007p300]
     -   Cranmer: [Cram&eacute;r-Rao bound](http://theoryandpractice.org/stats-ds-book/statistics/cramer-rao-bound.html)
+    -   Under some reasonable conditions, one can show that MLEs are efficient and unbiased. TODO: find ref.
 -  [Fisher information matrix](https://en.wikipedia.org/wiki/Fisher_information)
     -   "is the key part of the proof of Wilks' theorem, which allows confidence region estimates for maximum likelihood estimation (for those conditions for which it applies) without needing the Likelihood Principle."
 -   Variance of MLEs
     -   [Wilks's theorem](https://en.wikipedia.org/wiki/Wilks%27_theorem)
     -   See also: [Asymptotics](#asymptotics)
     -   Method of $\Delta\chi^2$ or $\Delta{}L$
-    -   Wainer, H. (2007). [The most dangerous equation](https://sites.stat.washington.edu/people/peter/498.Sp16/Equation.pdf). (de Moivre's equation for variance of means) [^Wainer2007]
-    -   Invariance of likelihoods to reparametrization (TODO: James)
     -   Frequentist confidence intervals (e.g. at 95% CL)
+    -   Cowan [^Cowan1998p130]
+    -   Likelihood need not be Gaussian [^James2006p234again]
+    -   Minos method in particle physics in MINUIT [^James1975]
     -   See slides for my talk: [Primer on statistics: MLE, Confidence Intervals, and Hypothesis Testing](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf)
-    -   Karhunen-Lo&egrave;ve eigenvalue problems in cosmology: How should we tackle large data sets? [^Tegmark1997]
+
+![Transformation of non-parabolic log-likelihood to parabolic (@James_2006_Statistical_Methods_in_Experimental_Particle\, p. 235).](img/DeltaL_nonparabolic.png){#fig:DeltaL_nonparabolic}
+
+-   Common error bars
     -   Poisson error bars
         -   Gaussian approximation: $\sqrt{n}$
         -   [Wilson-Hilferty approximation](https://www.johndcook.com/blog/wilson_hilferty/)
     -   Binomial error bars
         -   Error on efficiency or proportion
         -   See: [Statistical classification](#statistical-classification)
+-   Discussion
+    -   Wainer, H. (2007). [The most dangerous equation](https://sites.stat.washington.edu/people/peter/498.Sp16/Equation.pdf). (de Moivre's equation for variance of means) [^Wainer2007]
+-   Misc
+    -   Karhunen-Lo&egrave;ve eigenvalue problems in cosmology: How should we tackle large data sets? [^Tegmark1997]
 
+[^Cowan1998p130]: @Cowan_1998_Statistical_Data_Analysis\, p. 130-5.
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
     @Rao_1945_Information_and_the_accuracy_attainable\, and
     @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
+[^James2006p234again]: @James_2006_Statistical_Methods_in_Experimental_Particle\, p. 234.
+[^James1975]: @James_1975_MINUIT_A_system_for_function_minimization\.
 [^Rice2007p300]: @Rice_2007_Mathematical_Statistics_and_Data_Analysis\, p. 300--2.
 [^Tegmark1997]: @Tegmark_1997_Karhunen_Loeve_eigenvalue_problems_in_cosmology\.
 [^Wainer2007]: @Wainer_2007_The_most_dangerous_equation\.
@@ -531,25 +585,6 @@ TODO:
 -   Not invariant to reparametrization in general
     -   Jeffreys priors are
     -   TODO: James
-
-
-### Examples
-
--   Some sample mean
--   Bayesian lighthouse
--   [Measuring an efficiency](#uncertainty-on-measuring-an-efficiency)
--   Some HEP fit
-
-
-Statistical classification
---------------------------------------------------------------------------------
-
-### Introduction
-
--   Precision vs recall
--   Recall is sensitivity
--   Sensitivity vs specificity
--   Accuracy
 
 
 ### Uncertainty on measuring an efficiency
@@ -576,7 +611,10 @@ Statistical classification
 
 ### Examples
 
--   TODO
+-   Some sample mean
+-   Bayesian lighthouse
+-   [Measuring an efficiency](#uncertainty-on-measuring-an-efficiency)
+-   Some HEP fit
 
 
 Statistical hypothesis testing
@@ -623,6 +661,10 @@ while $\hat{\hat{\theta}}$ is the conditional maximum-likelihood estimator that 
 and $\theta$ as a vector includes all parameters of interest and nuisance parameters.
 
 ![TODO: ROC explainer. ([Wikimedia](https://commons.wikimedia.org/wiki/File:ROC_curves.svg), 2015).](img/ROC-explainer.png){#fig:ROC-explainer}
+
+See also:
+
+-   [Statistical classification](#statistical-classification)
 
 [^Goodman1999p998]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 998.
 [^Neyman1933]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
@@ -772,6 +814,26 @@ Lyons:
 
 -   OPERA. (2011). [Faster-than-light neutrinos](https://arxiv.org/abs/1109.4897v1).
 -   BICEP2 claimed evidence of B-modes in the CMB as evidence of cosmic inflation without accounting for cosmic dust.
+
+
+Statistical classification
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   Precision vs recall
+-   Recall is sensitivity
+-   Sensitivity vs specificity
+-   Accuracy
+
+
+### Examples
+
+-   TODO
+
+See also:
+
+-   [Decision trees](#decision-trees)
 
 
 Exploratory data analysis
@@ -1242,7 +1304,7 @@ Deep learning
     -   Lower to higher level representations [^Bengio2009]
     -   LeCun, Y., Bengio, Y., & Hinton, G. (2015). Review: Deep learning. [^LeCun2015]
     -   *Deep Learning* [^Goodfellow2016]
-    -   Sutton, R. (2019). [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
+    -   Sutton, R. (2019). [The bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html). [^Sutton2019]
     -   Kaplan, J. (2019). [Notes on contemporary machine learning](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf). [^Kaplan2019]
 -   Backpropagation
     -   Rumelhart [^Rumelhart1986]
@@ -1263,6 +1325,7 @@ Deep learning
 [^Kaplan2019]: @Kaplan_2019_Notes_on_contemporary_machine_learning\.
 [^LeCun2015]: @LeCun_2015_Deep_learning\.
 [^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
+[^Sutton2019]: @Sutton_2019_The_bitter_lesson\.
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
 

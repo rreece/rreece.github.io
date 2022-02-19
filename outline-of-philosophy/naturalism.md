@@ -195,7 +195,7 @@ Unity of philosophy and science
 
 -   Philosophy and science are continuous in concerns.
 -   Philosophy is the nursury of budding programs that become specialized sciences.
--   TODO: find more refs.
+-   Costa, C.F. (2012). Philosophy as a protoscience. [^Costa2012]
 
 Descartes (often seen as anti-naturalist, explain, but he) wrote in 1644,
 
@@ -237,6 +237,7 @@ Sellars:
 >   way around with respect to the subject-matters of all the special
 >   disciplines. [^SellarsTODO]
 
+[^Costa2012]: @Costa_2012_Philosophy_as_a_protoscience\.
 [^Descartes1644pxxiv]: @Descartes_1982_Principles_of_Philosophy\, p. xxiv.
 [^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
 [^Lugg2006]: @Lugg_2006_Russell_as_a_precursor_of_Quine\.

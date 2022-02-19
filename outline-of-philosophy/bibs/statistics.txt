@@ -101,7 +101,8 @@ Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosop
 Hutchins, J. (2000). Yehoshua Bar-Hillel: A philosophers' contribution to machine translation.
 Ingrosso, A. & Goldt, S. (2022). Data-driven emergence of convolutional structure in neural networks. https://arxiv.org/abs/2202.00565
 Ioannidis, J.P. (2005). Why most published research findings are false. *PLOS Medicine*, 2(8), 696--701.
-James, F. (2006). *Statistical Methods in Experimental Particle Physics*. World Scientific.
+James, F. & Roos, M. (1975). MINUIT: A system for function minimization and analysis of the parameter errors and corrections. *Computational Physics Communications*, 10, 343--367. https://cds.cern.ch/record/310399
+James, F. (2006). *Statistical Methods in Experimental Particle Physics* (2nd ed.). World Scientific.
 Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434(2-3), 435--443. https://arxiv.org/abs/hep-ex/9902006
 Kaplan, J. et al. (2019). Notes on contemporary machine learning for physicists. https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf
 Kaplan, J. et al. (2020). Scaling laws for neural language models. https://arxiv.org/abs/2001.08361
@@ -187,6 +188,7 @@ Stahlberg, F. (2019). Neural machine translation: A review. https://arxiv.org/ab
 Stuart, A., Ord, K., & Arnold, S. (2010). *Kendall's Advanced Theory of Statistics, Vol 2A: Classical Inference and the Linear Model*. Wiley.
 Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning with neural networks. *Advances in Neural Information Processing Systems*, 2014, 3104--3112. https://arxiv.org/abs/1409.3215
 Sutton, R.S., & Barto, A.G. (2018). *Reinforcement Learning* (2nd ed.). MIT Press.
+Sutton, R.S. (2019). The bitter lesson. http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Tan, M. & Le, Q.V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. https://arxiv.org/abs/1905.11946
 Tan, M. & Le, Q.V. (2021). EfficientNetV2: Smaller models and faster training. https://arxiv.org/abs/2104.00298
