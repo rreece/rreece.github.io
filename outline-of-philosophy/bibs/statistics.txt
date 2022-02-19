@@ -82,8 +82,8 @@ Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. http://www.deeplearningbook.org
 Goodman, N. (1955). *Fact, Fiction, and Forecast*. Harvard University Press.
-Goodman, S.N. (1999). Toward evidence-based medical statistics 1: The P value fallacy. *Annals of Internal Medicine*, 130(12), 995--1004.
-Goodman, S.N. (1999). Toward evidence-based medical statistics 2: The Bayes factor. *Annals of Internal Medicine*, 130(12), 1005--1013.
+Goodman, S.N. (1999). Toward evidence-based medical statistics 1: The P value fallacy. *Annals of Internal Medicine*, 130(12), 995--1004. https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/goodman1.pdf
+Goodman, S.N. (1999). Toward evidence-based medical statistics 2: The Bayes factor. *Annals of Internal Medicine*, 130(12), 1005--1013. https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/goodman2.pdf
 Gorard, S. & Gorard, J. (2016). What to do instead of significance testing? Calculating the 'number of counterfactual cases needed to disturb a finding'. *International Journal of Social Research Methodology*, 19, 481--490.
 Hacking, I. (1965). *Logic of Statistical Inference*. Cambridge University Press.
 Hacking, I. (1971). Jacques Bernoulli's Art of conjecturing. *The British Journal for the Philosophy of Science*, 22, 209--229.

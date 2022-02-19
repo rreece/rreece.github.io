@@ -756,6 +756,17 @@ Also:
 
 -   Frequentist vs bayesian decision theory [^Murphy2012p197]
 
+Support for using Bayes factors:
+
+>   which properly separates issues of long-run behavior from evidential
+>   strength and allows the integration of background knowledge with
+>   statistical findings. [^Goodman1999p995]
+
+See also:
+
+-   ["Statistics Wars"](#statistics-wars)
+
+[^Goodman1999p995]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 995.
 [^Murphy2012p197]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 197.
 
 
@@ -1028,11 +1039,25 @@ Lyons:
 
 ![The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference ([gandenberger.org/research/](http://gandenberger.org/research/), 2015).](img/gandenberger-thesis-venn-diagram.png){#fig:gandenberger-thesis-venn-diagram}
 
+Goodman:
+
+>   The idea that the $P$ value can play both of these roles is based on a
+>   fallacy: that an event can be viewed simultaneously both from a long-run
+>   and a short-run perspective. In the long-run perspective, which is
+>   error-based and deductive, we group the observed result together with
+>   other outcomes that might have occurred in hypothetical repetitions of
+>   the experiment. In the "short run" perspective, which is evidential and
+>   inductive, we try to evaluate the meaning of the observed result from a
+>   single experiment. If we could combine these perspectives, it would mean
+>   that inductive ends (drawing scientific conclusions) could be served
+>   with purely deductive methods (objective probability calculations). [^Goodman1999p999]
+
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
 [^Efron2016p30]: @Efron_2016_Computer_Age_Statistical_Inference_Algorithms\, p. 30--36.
 [^Gandenberger2016]: @Gandenberger_2016_Why_I_am_not_a_likelihoodist\.
 [^Gelman2017]: @Gelman_2017_Beyond_subjective_and_objective_in_statistics\.
+[^Goodman1999p999]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 999.
 [^Kruschke2018]: @Kruschke_2018_The_Bayesian_New_Statistics_Hypothesis_testing\.
 [^Mayo1981]: @Mayo_1981_In_defense_of_the_Neyman_Pearson_theory\.
 [^Mayo1996]: @Mayo_1996_Error_and_the_Growth_of_Experimental_Knowledge\.
