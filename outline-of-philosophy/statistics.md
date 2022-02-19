@@ -541,7 +541,6 @@ $$ \mathrm{NLL} \equiv - \log L = - \log \prod_i L_i = - \sum_i \log L_i = \sum_
     -   "is the key part of the proof of Wilks' theorem, which allows confidence region estimates for maximum likelihood estimation (for those conditions for which it applies) without needing the Likelihood Principle."
 -   Variance of MLEs
     -   [Wilks's theorem](https://en.wikipedia.org/wiki/Wilks%27_theorem)
-    -   See also: [Asymptotics](#asymptotics)
     -   Method of $\Delta\chi^2$ or $\Delta{}L$
     -   Frequentist confidence intervals (e.g. at 95% CL)
     -   Cowan [^Cowan1998p130]
