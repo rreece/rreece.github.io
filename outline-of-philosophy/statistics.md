@@ -754,6 +754,7 @@ Also:
 ### Frequentist vs bayesian decision theory
 
 -   Frequentist vs bayesian decision theory [^Murphy2012p197]
+-   Goodman, S.N. (1999). [Toward evidence-based medical statistics 2: The Bayes factor](https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/goodman2.pdf). [^Goodman1999b]
 
 Support for using Bayes factors:
 
@@ -766,6 +767,7 @@ See also:
 -   ["Statistics Wars"](#statistics-wars)
 
 [^Goodman1999p995]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 995.
+[^Goodman1999b]: @Goodman_1999_Toward_evidence_based_medical_statistics_2\.
 [^Murphy2012p197]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, p. 197.
 
 
