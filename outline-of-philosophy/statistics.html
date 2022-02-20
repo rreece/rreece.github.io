@@ -403,7 +403,7 @@ D_\mathrm{KL}(p, q)
 <p>and</p>
 <p><span class="math display">\[\begin{align}
 \mathbb{E}(y^2)
-    &amp;\approx y^2(\vec{\mu}) + 2 \, y(\vec{\mu}) \, \left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}} \mathbb{E}(x_i - \mu_i) \\
+    &amp;\approx y^2(\vec{\mu}) + 2 \, y(\vec{\mu}) \, \left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}} \mathbb{E}(x_i - \mu_i) \nonumber \\
     &amp;+ \mathbb{E}\left[ \left(\left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}}(x_i - \mu_i)\right) \left(\left.\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}}(x_j - \mu_j)\right) \right] \\
     &amp;= y^2(\vec{\mu}) + \, \left.\frac{\partial y}{\partial x_i}\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}} V_{ij} \\
 \end{align}\]</span></p>
@@ -551,6 +551,10 @@ D_\mathrm{KL}(p, q)
 <li>Invariance of likelihoods under reparametrization<a href="#fn35" class="footnote-ref" id="fnref35" role="doc-noteref"><sup>35</sup></a></li>
 <li>Bayesian posteriors are not invariant.</li>
 </ul>
+<p>See also:</p>
+<ul>
+<li><a href="#bayesian-credibility-intervals">Bayesian credibility intervals</a></li>
+</ul>
 <h4 id="ordinary-least-squares">Ordinary least squares</h4>
 <ul>
 <li>Least squares from MLE of gaussian models: <span class="math inline">\(\chi^2\)</span></li>
@@ -588,7 +592,7 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 </ul>
 <figure>
-<img src="img/DeltaL_nonparabolic.png" id="fig:DeltaL_nonparabolic" alt="Figure 3: Transformation of non-parabolic log-likelihood to parabolic (James (2006), p.&#xA0;235)." /><figcaption aria-hidden="true">Figure 3: Transformation of non-parabolic log-likelihood to parabolic (<span class="citation" data-cites="James_2006_Statistical_Methods_in_Experimental_Particle">James (2006)</span>, p.&#xA0;235).</figcaption>
+<img src="img/DeltaL_nonparabolic.png" id="fig:DeltaL_nonparabolic" alt="Figure 3: Transformation of non-parabolic log-likelihood to parabolic (source: my slides, recreation of James (2006), p.&#xA0;235)." /><figcaption aria-hidden="true">Figure 3: Transformation of non-parabolic log-likelihood to parabolic (source: <a href="http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf">my slides</a>, recreation of <span class="citation" data-cites="James_2006_Statistical_Methods_in_Experimental_Particle">James (2006)</span>, p.&#xA0;235).</figcaption>
 </figure>
 <ul>
 <li>Common error bars

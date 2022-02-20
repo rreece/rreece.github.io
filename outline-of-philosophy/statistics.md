@@ -280,7 +280,7 @@ and
 
 \begin{align}
 \mathbb{E}(y^2)
-    &\approx y^2(\vec{\mu}) + 2 \, y(\vec{\mu}) \, \left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}} \mathbb{E}(x_i - \mu_i) \\
+    &\approx y^2(\vec{\mu}) + 2 \, y(\vec{\mu}) \, \left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}} \mathbb{E}(x_i - \mu_i) \nonumber \\
     &+ \mathbb{E}\left[ \left(\left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}}(x_i - \mu_i)\right) \left(\left.\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}}(x_j - \mu_j)\right) \right] \\
     &= y^2(\vec{\mu}) + \, \left.\frac{\partial y}{\partial x_i}\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}} V_{ij} \\
 \end{align}
@@ -513,6 +513,10 @@ $$ \mathrm{NLL} \equiv - \log L = - \log \prod_i L_i = - \sum_i \log L_i = \sum_
 -   Invariance of likelihoods under reparametrization [^James2006p234]
 -   Bayesian posteriors are not invariant.
 
+See also:
+
+-   [Bayesian credibility intervals](#bayesian-credibility-intervals)
+
 [^James2006p234]: @James_2006_Statistical_Methods_in_Experimental_Particle\, p. 234.
 
 
@@ -548,7 +552,7 @@ $$ \mathrm{NLL} \equiv - \log L = - \log \prod_i L_i = - \sum_i \log L_i = \sum_
     -   Minos method in particle physics in MINUIT [^James1975]
     -   See slides for my talk: [Primer on statistics: MLE, Confidence Intervals, and Hypothesis Testing](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf)
 
-![Transformation of non-parabolic log-likelihood to parabolic (@James_2006_Statistical_Methods_in_Experimental_Particle\, p. 235).](img/DeltaL_nonparabolic.png){#fig:DeltaL_nonparabolic}
+![Transformation of non-parabolic log-likelihood to parabolic (source: [my slides](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf), recreation of @James_2006_Statistical_Methods_in_Experimental_Particle\, p. 235).](img/DeltaL_nonparabolic.png){#fig:DeltaL_nonparabolic}
 
 -   Common error bars
     -   Poisson error bars
