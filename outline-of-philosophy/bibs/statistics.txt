@@ -118,6 +118,7 @@ LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recogni
 LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. *Proceedings of the IEEE*, 86(11), 2278--2324. http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
 LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436-44.
 Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep learning. https://arxiv.org/abs/1805.10451
+Lista, L. (2016). Practical statistics for particle physicists. https://arxiv.org/abs/1609.04150
 Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
 Liu, H., Dai, Z., So, D.R., & Le, Q.V. (2021). Pay attention to MLPs. https://arxiv.org/abs/2105.08050
 Lyons, L. (2008). Open statistical issues in particle physics. *The Annals of Applied Statistics*, 2, 887--915. https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-3/Open-statistical-issues-in-Particle-Physics/10.1214/08-AOAS163.full

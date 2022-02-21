@@ -127,7 +127,7 @@ See also:
 -   James [^James2006]
 -   Cowan [^Cowan1998]
 -   Cranmer [^Cranmer2015]
--   Lista [^Lista2016]
+-   Lista: book [^Lista2016a], notes [^Lista2016b]
 -   Cox [^Cox2006]
 -   Cousins [^Cousins2018]
 -   Weisberg [^Weisberg2019]
@@ -144,7 +144,8 @@ See also:
 [^Cox2006]: @Cox_2006_Principles_of_Statistical_Inference\.
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
-[^Lista2016]: @Lista_2016_Statistical_Methods_for_Data_Analysis_in_Particle\.
+[^Lista2016a]: @Lista_2016_Statistical_Methods_for_Data_Analysis_in_Particle\.
+[^Lista2016b]: @Lista_2016_Practical_statistics_for_particle_physicists\.
 [^Stuart2010]: @Stuart_2010_Kendalls_Advanced_Theory_of_Statistics_Vol_2A\.
 [^Weisberg2019]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\.
 
@@ -510,8 +511,8 @@ $$ \mathrm{NLL} \equiv - \log L = - \log \prod_i L_i = - \sum_i \log L_i = \sum_
 
 #### Invariance of likelihoods under reparametrization
 
--   Invariance of likelihoods under reparametrization [^James2006p234]
--   Bayesian posteriors are not invariant.
+-   Likelihoods are invariant under reparametrization. [^James2006p234]
+-   Bayesian posteriors are not invariant in general.
 
 See also:
 
@@ -649,11 +650,11 @@ Fisher:
 
 Neyman-Pearson test statistic:
 
-$$ q_\mathrm{NP} = - 2 \ln \frac{L(H_0)}{L(H_1)} \label{eq:qnp-test-stat} $$
+$$ q_\mathrm{NP} = - 2 \ln \frac{L(H_1)}{L(H_0)} \label{eq:qnp-test-stat} $$
 
 Background-only Neyman-Pearson test statistic:
 
-$$ q_\mathrm{0} = - 2 \ln \frac{L(b)}{L(\mu\,s + b)} \label{eq:q0-test-stat} $$
+$$ q_\mathrm{0} = - 2 \ln \frac{L(\mu\,s + b)}{L(b)} \label{eq:q0-test-stat} $$
 
 Profile likelihood ratio:
 
@@ -664,6 +665,16 @@ while $\hat{\hat{\theta}}$ is the conditional maximum-likelihood estimator that 
 and $\theta$ as a vector includes all parameters of interest and nuisance parameters.
 
 ![TODO: ROC explainer. ([Wikimedia](https://commons.wikimedia.org/wiki/File:ROC_curves.svg), 2015).](img/ROC-explainer.png){#fig:ROC-explainer}
+
+Neyman-Pearson lemma:
+
+For a fixed signal efficiency, $1-\alpha$, the selection that corresponds to the lowest
+possible misidentification probability, $\beta$, is given by
+
+$$ \frac{L(H_1)}{L(H_0)} > k_{\alpha} \,, \label{eq:np-lemma} $$
+
+where $k_{\alpha}$ is the cut value required to achieve a type-1 error rate
+of $\alpha$.
 
 See also:
 
