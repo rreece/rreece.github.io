@@ -145,6 +145,7 @@ TODO
     -   Review by Fr&egrave; [^Fre2013v1ch2]
     -   Varadarajan, V. S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. [^Varadarajan2003]
     -   Tao, T. (2007). [Differential forms and integration](https://www.math.ucla.edu/~tao/preprints/forms.pdf). [^Tao2007]
+    -   Sussman, G.J. & Wisdom, J. (2013). [*Functional Differential Geometry*](https://mitpress.mit.edu/books/functional-differential-geometry). [^Sussman2013]
 -   Chern-Simons theory
 
 See also:
@@ -152,6 +153,7 @@ See also:
 -   [Fiber bundles](physics.html#fiber-bundles)
 
 [^Fre2013v1ch2]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_1\, ch. 2.
+[^Sussman2013]: @Sussman_2013_Functional_Differential_Geometry\.
 [^Tao2007]: @Tao_2007_Differential_forms_and_integration\.
 [^Varadarajan2003]: @Varadarajan_2003_Vector_bundles_and_connections_in_physics\.
 [^Way2010]: @Way_2010_Introduction_to_connections_on_principal_fibre\.
@@ -1000,6 +1002,19 @@ Naturalism
 
 ### Unreasonable effectiveness
 
+>   Philosophy is written in that great book which
+>   ever lies before our eyes---I mean the
+>   Universe---but we cannot understand it if we do
+>   not learn the language and grasp the symbols in
+>   which it is written. This book is written in the
+>   mathematical language, and the symbols are
+>   triangles, circles, and other geometrical ﬁgures
+>   without whose help it is impossible to comprehend
+>   a single word of it, without which one wanders in
+>   vain through a dark labyrinth.
+
+-- Galileo Galilei. (1623). *Il Saggiatore (The Assayer)*. [^Drake1957p237]
+
 -   Wigner [^Wigner1960]
 -   Putnam [^Putnam1975]
 -   Hamming [^Hamming1980]
@@ -1008,6 +1023,7 @@ Naturalism
 -   Dan A. Roberts. (2021). [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
     -   See also: [No free lunch theorems](statistics.html#no-free-lunch-theorems)
 
+[^Drake1957p237]: @Drake_1957_Discoveries_and_Opinions_of_Galileo\, p.237-8.
 [^Hamming1980]: @Hamming_1980_The_unreasonable_effectiveness_of_mathematics\.
 [^Putnam1975]: @Putnam_1975_What_is_mathematical_truth\.
 [^Roberts2021]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.

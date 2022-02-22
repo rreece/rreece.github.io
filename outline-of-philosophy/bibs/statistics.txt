@@ -4,6 +4,7 @@ Anderson, C. (2008). The End of Theory: The data deluge makes the scientific met
 Arulkumaran, K., Deisenroth, M.P., Brundage, M., & Bharath, A.A. (2017). Deep Reinforcement Learning: A Brief Survey. *IEEE Signal Processing Magazine*, 34, 26--38.
 Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. *The International Journal of High Performance Computing Applications*, 32, 435--479.
 {ATLAS Collaboration}. (2012). Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector. *Physical Review D*, 86, 032003. https://arxiv.org/abs/1207.0319
+{ATLAS and CMS Collaborations}. (2011). Procedure for the LHC Higgs boson search combination in Summer 2011. http://cds.cern.ch/record/1379837 [CMS-NOTE-2011-005, ATL-PHYS-PUB-2011-11.]
 {ATLAS Statistics Forum}. (2011). The CLs method: information for conference speakers. http://www.pp.rhul.ac.uk/~cowan/stat/cls/CLsInfo.pdf
 Bahdanau, D., Cho, K. & Bengio, Y. (2015). Neural machine translation by jointly learning to align and translate. *International Conference on Learning Representations, 3rd*, 2015. https://arxiv.org/abs/1409.0473
 Bahri, Y., Kadmon, J., Pennington, J., Schoenholz, S.S., Sohl-Dickstein, J., & Ganguli1, S. (2020). Statistical mechanics of deep learning. *Annual Review of Condensed Matter Physics*, 11, 501--528.
@@ -43,8 +44,10 @@ Clopper, C.J. & Pearson, E.S. (1934). The use of confidence or fiducial limits i
 Cohen, T.S. & Welling, M. (2016). Group equivariant convolutional networks. *Proceedings of International Conference on Machine Learning*, 2016, 2990--9. http://proceedings.mlr.press/v48/cohenc16.pdf
 Cohen, T.S., Weiler, M., Kicanaoglu, B., & Welling, M. (2019). Gauge equivariant convolutional networks and the icosahedral CNN. https://arxiv.org/abs/1902.04615
 Cousins, R.D. (2018). Lectures on statistics in theory: Prelude to statistics in practice. https://arxiv.org/abs/1807.05996
+Cousins, R.D. & Highland, V.L. (1992). Incorporating systematic uncertainties into an upper limit. *Nuclear Instruments and Methods in Physics Research Section A*, 320, 331--335. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.193.1581&rep=rep1&type=pdf
 Cowan, G. (1998). *Statistical Data Analysis*. Clarendon Press.
 Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). Asymptotic formulae for likelihood-based tests of new physics. *European Physical Journal C*, 71, 1544. https://arxiv.org/abs/1007.1727
+Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2012). Asymptotic distribution for two-sided tests with lower and upper boundaries on the parameter of interest. https://arxiv.org/abs/1210.6948
 Cowan, G. (2012). Discovery sensitivity for a counting experiment with background uncertainty. https://www.pp.rhul.ac.uk/~cowan/stat/notes/medsigNote.pdf
 #Cowan, G. (2016). Statistics. In C. Patrignani \emph{et al}. (Particle Data Group), \emph{Chinese Physics C}, \emph{40}, 100001. \url{http://pdg.lbl.gov/2016/reviews/rpp2016-rev-statistics.pdf}
 Cowan, G. (2016). Statistics. In C. Patrignani et al. (Particle Data Group), *Chinese Physics C*, 40, 100001. http://pdg.lbl.gov/2016/reviews/rpp2016-rev-statistics.pdf

@@ -552,6 +552,8 @@ See also:
     -   Likelihood need not be Gaussian [^James2006p234again]
     -   Minos method in particle physics in MINUIT [^James1975]
     -   See slides for my talk: [Primer on statistics: MLE, Confidence Intervals, and Hypothesis Testing](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf)
+-   Asymptotics
+    -   Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2012). [Asymptotic distribution for two-sided tests with lower and upper boundaries on the parameter of interest](https://arxiv.org/abs/1210.6948). [^Cowan2012]
 
 ![Transformation of non-parabolic log-likelihood to parabolic (source: [my slides](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf), recreation of @James_2006_Statistical_Methods_in_Experimental_Particle\, p. 235).](img/DeltaL_nonparabolic.png){#fig:DeltaL_nonparabolic}
 
@@ -567,6 +569,7 @@ See also:
 -   Misc
     -   Karhunen-Lo&egrave;ve eigenvalue problems in cosmology: How should we tackle large data sets? [^Tegmark1997]
 
+[^Cowan2012]: @Cowan_2012_Asymptotic_distribution_for_two_sided_tests\.
 [^Cowan1998p130]: @Cowan_1998_Statistical_Data_Analysis\, p. 130-5.
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
@@ -641,32 +644,29 @@ Fisher:
 
 ### Neyman-Pearson theory
 
+#### Introduction
+
 -   probes an alternative hypothesis [^Goodman1999p998]
 -   Type-1 and type-2 errors
 -   Power and confidence
--   Neyman-Pearson lemma [^Neyman1933]
--   Neyman construction
--   Likelihood ratio
-
-Neyman-Pearson test statistic:
-
-$$ q_\mathrm{NP} = - 2 \ln \frac{L(H_1)}{L(H_0)} \label{eq:qnp-test-stat} $$
-
-Background-only Neyman-Pearson test statistic:
-
-$$ q_\mathrm{0} = - 2 \ln \frac{L(\mu\,s + b)}{L(b)} \label{eq:q0-test-stat} $$
-
-Profile likelihood ratio:
-
-$$ \lambda(\mu) = \frac{ L(\mu, \hat{\hat{\theta}}) }{ L(\hat{\mu}, \hat{\theta}) } \label{eq:profile-llh-ratio} $$
-
-where $\hat{\theta}$ is the (unconditional) maximum-likelihood estimator that maximizes $L$,
-while $\hat{\hat{\theta}}$ is the conditional maximum-likelihood estimator that maximizes $L$ for a specified $\mu$,
-and $\theta$ as a vector includes all parameters of interest and nuisance parameters.
+-   Cranmer, K. (2020). [Thumbnail of LHC statistical procedures](http://theoryandpractice.org/stats-ds-book/statistics/lhc_stats_thumbnail.html).
+-   ATLAS and CMS Collaborations. (2011). [Procedure for the LHC Higgs boson search combination in Summer 2011](http://cds.cern.ch/record/1379837). [^ATLAS2011b]
+-   Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). [Asymptotic formulae for likelihood-based tests of new physics](https://arxiv.org/abs/1007.1727). [^Cowan2011again]
 
 ![TODO: ROC explainer. ([Wikimedia](https://commons.wikimedia.org/wiki/File:ROC_curves.svg), 2015).](img/ROC-explainer.png){#fig:ROC-explainer}
 
-Neyman-Pearson lemma:
+See also:
+
+-   [Statistical classification](#statistical-classification)
+
+[^ATLAS2011b]: @ATLAS_2011_Procedure_for_the_LHC_Higgs_boson_search\.
+[^Cowan2011again]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
+[^Goodman1999p998]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 998.
+
+
+#### Neyman-Pearson lemma
+
+Neyman-Pearson lemma: [^Neyman1933]
 
 For a fixed signal efficiency, $1-\alpha$, the selection that corresponds to the lowest
 possible misidentification probability, $\beta$, is given by
@@ -676,17 +676,45 @@ $$ \frac{L(H_1)}{L(H_0)} > k_{\alpha} \,, \label{eq:np-lemma} $$
 where $k_{\alpha}$ is the cut value required to achieve a type-1 error rate
 of $\alpha$.
 
-See also:
+Neyman-Pearson test statistic:
 
--   [Statistical classification](#statistical-classification)
+$$ q_\mathrm{NP} = - 2 \ln \frac{L(H_1)}{L(H_0)} \label{eq:qnp-test-stat} $$
 
-[^Goodman1999p998]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 998.
+
+Profile likelihood ratio:
+
+$$ \lambda(\mu) = \frac{ L(\mu, \hat{\theta}_\mu) }{ L(\hat{\mu}, \hat{\theta}) } \label{eq:profile-llh-ratio} $$
+
+where $\hat{\theta}$ is the (unconditional) maximum-likelihood estimator that maximizes $L$,
+while $\hat{\theta}_\mu$ is the conditional maximum-likelihood estimator that maximizes $L$
+for a specified signal strength, $\mu$,
+and $\theta$ as a vector includes all other parameters of interest and nuisance parameters.
+
 [^Neyman1933]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
+
+
+#### Neyman construction
+
+Cranmer: [Neyman construction](http://theoryandpractice.org/stats-ds-book/statistics/neyman_construction.html).
+
+![Neyman construction for a confidence belt for $\theta$ (source: [K. Cranmer](http://theoryandpractice.org/stats-ds-book/statistics/neyman_construction.html), 2020).](img/neyman-construction.png){#fig:neyman-construction}
+
+TODO: fix
+
+$$ q_\mathrm{0} = - 2 \ln \frac{L(\mu\,s + b)}{L(b)} \label{eq:q0-test-stat} $$
+
+
+#### Flip-flopping
+
+-   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
+
+[^Feldman1998]: @Feldman_1998_A_unified_approach_to_the_classical_statistical\.
+
 
 
 ### *p*-values and significance
 
--   $p$-values and significance [^Cowan2012]
+-   $p$-values and significance [^Cowan2012b]
 -   Coverage
 -   Fisherian vs Neyman-Pearson $p$-values
 
@@ -709,7 +737,13 @@ Also:
 
 [^Cowan2011p2]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\, p. 2--3.
 [^Cowan2011p3]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\, p. 3.
-[^Cowan2012]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
+[^Cowan2012b]: @Sinervo_2002_Signal_significance_in_particle_physics and @Cowan_2012_Discovery_sensitivity_for_a_counting_experiment\.
+
+#### Uppper limits
+
+-   Cousins, R.D. & Highland, V.L. (1992). [Incorporating systematic uncertainties into an upper limit](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.193.1581&rep=rep1&type=pdf). [^Cousins1992]
+
+[^Cousins1992]: @Cousins_1992_Incorporating_systematic_uncertainties_into\.
 
 
 #### CLs method
@@ -722,13 +756,6 @@ Also:
 [^ATLAS2011]: @ATLAS_2011_The_CLs_method_information_for_conference\.
 [^Junk1999]: @Junk_1999_Confidence_level_computation_for_combining\.
 [^Read2002]: @Read_2002_Presentation_of_search_results_the_CLs_technique\.
-
-
-#### Flip-flopping
-
--   Flip-flopping and Feldman-Cousins confidence intervals [^Feldman1998]
-
-[^Feldman1998]: @Feldman_1998_A_unified_approach_to_the_classical_statistical\.
 
 
 ### Asymptotics
@@ -747,9 +774,10 @@ Also:
             (the signal strength, $\mu$), then
             $-2 \ln(\lambda) \approx \frac{ (\hat{\mu} - \mu)^{2} }{ \sigma^2 }  \sim \mathrm{noncentral}\:\chi^{2}_{1}$.
     -   Pearson $\chi^2$-test
--   Cowan _et al._[^Cowan2011]
+-   Cowan _et al._ [^Cowan2011]
     -   Wald approximation
     -   Asimov dataset
+    -   Talk by Armbruster: [Asymptotic formulae](https://indico.cern.ch/event/233551/contributions/493678/attachments/389871/542293/asymptotics_armbruster.pdf) (2013).
 -   Criteria for projected discovery and exclusion sensitivities of counting experiments [^Bhattiprolu2020]
     -   [github.com/prudhvibhattiprolu/Zstats](https://github.com/prudhvibhattiprolu/Zstats)
 
@@ -1345,7 +1373,6 @@ Deep learning
     -   Lower to higher level representations [^Bengio2009]
     -   LeCun, Y., Bengio, Y., & Hinton, G. (2015). Review: Deep learning. [^LeCun2015]
     -   *Deep Learning* [^Goodfellow2016]
-    -   Sutton, R. (2019). [The bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html). [^Sutton2019]
     -   Kaplan, J. (2019). [Notes on contemporary machine learning](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf). [^Kaplan2019]
 -   Backpropagation
     -   Rumelhart [^Rumelhart1986]
@@ -1355,7 +1382,8 @@ Deep learning
 -   Pratical guides
     -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
     -   Hao, L. et al. (2017). [Visualizing the loss landscape of neural nets](https://arxiv.org/abs/1712.09913).
--   Others
+-   Discussion
+    -   Sutton, R. (2019). [The bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html). [^Sutton2019]
     -   Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. [^Watson2019]
     -   [AIMyths.com](https://www.aimyths.org/)
 
