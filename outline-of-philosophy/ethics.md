@@ -391,7 +391,7 @@ Political philosophy
 -   Karl Marx and Friedrich Engels
     -   *The Communist Manifesto* (1848)
     -   The proletariat vs the bourgeoisie
--   [October Revolution](https://en.wikipedia.org/wiki/October_Revolution) (1917)
+-   [October Revolution](https://en.wikipedia.org/wiki/October_Revolution) AKA Bolshevik Revolution (1917)
     -   Leon Trotsky (1879-1940)
 -   [Marxism-Leninism](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism)
     -   Joseph Stalin (1878-1953)

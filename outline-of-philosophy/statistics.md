@@ -701,7 +701,7 @@ Cranmer: [Neyman construction](http://theoryandpractice.org/stats-ds-book/statis
 
 TODO: fix
 
-$$ q_\mathrm{0} = - 2 \ln \frac{L(\mu\,s + b)}{L(b)} \label{eq:q0-test-stat} $$
+$$ q = - 2 \ln \frac{L(\mu\,s + b)}{L(b)} \label{eq:q0-test-stat} $$
 
 
 #### Flip-flopping
