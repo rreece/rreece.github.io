@@ -197,6 +197,14 @@ Unity of philosophy and science
 -   Philosophy is the nursury of budding programs that become specialized sciences.
 -   Costa, C.F. (2012). Philosophy as a protoscience. [^Costa2012]
 
+<center>
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">When issues have sharp and rich answers they get specialized into a science, and philosophy is the nursery of burgeoning sciences.</p>&mdash; Ryan Reece (@RyanDavidReece)
+<a href="https://twitter.com/RyanDavidReece/status/1494536681071919105?ref_src=twsrc%5Etfw">February 18, 2022</a>
+</blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
 Descartes (often seen as anti-naturalist, explain, but he) wrote in 1644,
 
 >   Philosophy as a whole is like a tree; of which the roots are Metaphysics,
