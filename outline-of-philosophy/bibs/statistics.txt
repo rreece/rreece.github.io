@@ -155,9 +155,12 @@ Nielsen, F. (2018). An elementary introduction to information geometry. https://
 Nirenburg, S. (1996). Bar Hillel and Machine Translation: Then and Now.
 O'Hagan, A. (2010). *Kendall's Advanced Theory of Statistics, Vol 2B: Bayesian Inference*. Wiley.
 Park, N. & Kim, S. (2022). How do vision transformers work? https://arxiv.org/abs/2202.06709
+Pearl, J. (2009). Causal inference in statistics: An overview. *Statistics Surveys*, 3, 96--146. https://projecteuclid.org/journals/statistics-surveys/volume-3/issue-none/Causal-inference-in-statistics-An-overview/10.1214/09-SS057.pdf
+Pearl, J. (2018). *The Book of Why: The new science of cause and effect*. Basic Books.
 Pearson, K. (1900). On the criterion that a given system of deviations from the probable in the case of a correlated system of variables is such that it can be reasonably supposed to have arisen from random sampling. *The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science*, 50, 157--175.
 Peirce, C.S. (1883). *Studies in Logic*. Boston: Little, Brown, and Co.
 Perone, C.S. (2018). NLP word representations and the Wittgenstein philosophy of language. http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/
+Peters, J., Janzing, D., & Sch{\:o}lkopf, B. (2017). *Elements of Causal Inference*. MIT Press.
 Rao, C.R. (1945). Information and the accuracy attainable in the estimation of statistical parameters. *Bulletin of the Calcutta Mathematical Society*, 37, 81--91.
 Rao, C.R. (1947). Minimum variance and the estimation of several parameters. In *Mathematical Proceedings of the Cambridge Philosophical Society*, 43, 280--283. Cambridge University Press.
 Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part I): Data-driven solutions of nonlinear partial differential equations. https://arxiv.org/abs/1711.10561

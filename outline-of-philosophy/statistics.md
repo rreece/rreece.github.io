@@ -891,6 +891,31 @@ See also:
 -   [Decision trees](#decision-trees)
 
 
+Causal inference
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   Pearl, J. (2018). *The Book of Why: The new science of cause and effect*. [^Pearl2018]
+
+[^Pearl2018]: @Pearl_2018_The_Book_of_Why_The_new_science_of_cause\.
+
+
+### Causal models
+
+-   Structural Causal Model (SCM)
+-   Pearl, J. (2009). [Causal inference in statistics: An overview](https://projecteuclid.org/journals/statistics-surveys/volume-3/issue-none/Causal-inference-in-statistics-An-overview/10.1214/09-SS057.pdf). [^Pearl2009]
+-   Peters, J., Janzing, D., & Sch&ouml;lkopf, B. (2017). *Elements of Causal Inference*. [^Peters2017]
+
+[^Pearl2009]: @Pearl_2009_Causal_inference_in_statistics_An_overview\.
+[^Peters2017]: @Peters_2017_Elements_of_Causal_Inference\.
+
+
+### Counterfactuals
+
+-   TODO
+
+
 Exploratory data analysis
 --------------------------------------------------------------------------------
 
