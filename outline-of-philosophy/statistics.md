@@ -1926,6 +1926,7 @@ Information geometry
 -   Smith, L. (2019). [A gentle introduction to information geometry](http://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html). [^Smith2019]
 -   Nielsen, F. (2018). [An elementary introduction to information geometry](https://arxiv.org/abs/1808.08271). [^Nielsen2018]
 -   Amari, S. (2016). *Information Geometry and Its Applications*. [^Amari2016]
+-   Geomstats tutorial: [Information geometry](https://geomstats.github.io/notebooks/06_information_geometry.html)
 
 [^Amari2016]: @Amari_2016_Information_Geometry_and_Its_Applications\.
 [^Nielsen2018]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.

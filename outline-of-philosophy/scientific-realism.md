@@ -996,6 +996,16 @@ Pragmatism
 -   Daniel C. Dennett (b. 1942)
 -   Robert Brandom (b. 1950)
 
+Peirce:
+
+>   Hence, the sole object of inquiry settlement of opinion. 
+>   We may fancy that this is not enough for us,
+>   and that we seek not merely an opinion, but a true opinion.
+>   But put this fancy to the test, and it proves groundless;
+>   for as soon as a firm belief is reached we are entirely satisfied,
+>   whether the belief be false or true. [^Peirce1923p16]
+
+[^Peirce1923p16]: @Peirce_1923_Chance_Love_and_Logic\.
 [^Sellars1963]: @Sellars_1963_Empircism_and_philosophy_of_mind\.
 
 
