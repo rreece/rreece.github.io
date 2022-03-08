@@ -148,6 +148,10 @@ Hume:
 >   or some such fact, which may be the object of reasoning and
 >   enquiry. [^Hume2007p120morals]
 
+See also:
+
+-   [Nihilism](human-condition.html#nihilism)
+
 [^Hume2007p120morals]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
     Section XII, p. 120.
 [^Mackie2007]: @Mackie_2007_Ethics_Inventing_Right_and_Wrong\.

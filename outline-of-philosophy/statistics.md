@@ -1653,6 +1653,7 @@ Resources:
     -   GPT-1 [^Radford2018], 2 [^Radford2019], 3 [^Brown2020GPT3]
     -   Alammar, J. (2019). [The illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/).
     -   Yang, Z. et al. (2019). [XLNet: Generalized autoregressive pretraining for language understanding](https://arxiv.org/abs/1906.08237). [^Yang2019]
+    -   Daily Nous: [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/).
     -   DeepMind's blog posts for more details: [AlphaFold1](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery),
         [AlphaFold2](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).
         Slides from the CASP14 conference are publicly available [here](https://predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf).
