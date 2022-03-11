@@ -1595,6 +1595,7 @@ Romanticism
 -   [Weimar Classicism](https://en.wikipedia.org/wiki/Weimar_Classicism)
 -   [William Blake](https://en.wikipedia.org/wiki/William_Blake) (1757-1827)
 -   [Lord Byron](https://en.wikipedia.org/wiki/Lord_Byron) (1788-1824)
+-   [Harold Bloom](https://en.wikipedia.org/wiki/Harold_Bloom) (1930-2019)
 
 William Jones, in his 1772 "Essay on the Arts called Imitative", was one of the
 first to propound an expressive theory of poetry, valorising expression over

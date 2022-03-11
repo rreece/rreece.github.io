@@ -30,7 +30,7 @@ a key to explaining electroweak symmetry breaking in the
 of particle physics.
 
 I continued to work in the ATLAS Experiment as a postdoc at the
-[Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/),
+[Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/).
 I've spent 10 years romping through datasets from ATLAS,
 learning how to explore and model large, multidimentional datasets.
 I have a knack for [developing data analysis frameworks](http://rreece.github.io/sw/)

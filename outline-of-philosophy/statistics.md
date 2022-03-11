@@ -1382,8 +1382,11 @@ See also:
         -   [Constructive empiricism](scientific-realism.html#constructive-empiricism)
 -   [Clustering high-dimensional data](https://en.wikipedia.org/wiki/Clustering_high-dimensional_data)
     -   [*t*-distributed stochastic neighbor embedding (t-SNE)](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
-    -   See also:
-        -   [Curse of dimensionality](#curse-of-dimensionality)
+
+See also:
+
+-   [Curse of dimensionality](#curse-of-dimensionality)
+-   [Surrogate models](#surrogate-models)
 
 [^Batson2021]: @Batson_2021_Topological_obstructions_to_autoencoding\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
@@ -1890,11 +1893,12 @@ Roberts:
 -   Logistic/softmax and Boltzman factors
 -   Bahri [^Bahri2020]
 -   Halverson [^Halverson2020]
--   Canatar, A., Bordelon, B., & Pehlevan, C. (2020). [Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks](https://arxiv.org/abs/2006.13198).
--   Roberts, Yaida, & Hanin. (2021). *The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*. [^Roberts2021PDLT]
+-   Canatar, A., Bordelon, B., & Pehlevan, C. (2020). [Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks](https://arxiv.org/abs/2006.13198). [^Canatar2020]
+-   Roberts, Yaida, & Hanin. (2021). [*The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*](https://deeplearningtheory.com/PDLT.pdf). [^Roberts2021PDLT]
     -   Introduced in [Facebook AI's blog](https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/)
 
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
+[^Canatar2020]: @Canatar_2020_Spectral_bias_and_task_model_alignment_explain\.
 [^Halverson2020]: @Halverson_2020_Neural_networks_and_quantum_field_theory\.
 [^Roberts2021PDLT]: @Roberts_2021_The_Principles_of_Deep_Learning_Theory\.
 
@@ -1971,21 +1975,24 @@ Automation
 ### Surrogate models
 
 -   Autoencoders, latent variables
+    -   The manifold hypothesis
+    -   Olah, C. (2014). [Neural networks, manifolds, and topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/).
+    -   Fefferman, C., Mitter, S., & Narayanan, H. (2016). [Testing the manifold hypothesis](https://www.ams.org/journals/jams/2016-29-04/S0894-0347-2016-00852-4/S0894-0347-2016-00852-4.pdf). [^Fefferman2016]
 -   Physical constratints in loss functions
--   Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). [Physics informed deep learning (Part I)](https://arxiv.org/abs/1711.10561) and [(Part II)](https://arxiv.org/abs/1711.10566). [^Raissi2017IandII]
--   Cranmer, K., Brehmer, J., & Louppe, G. (2019). [The frontier of simulation-based inference](https://arxiv.org/abs/1911.01429). [^Cranmer2019]
--   Karniadakis, G.E. et al. (2021). Physics-informed machine learning. [^Karniadakis2021]
--   Howard, J.N. et al. (2021). [Foundations of a fast, data-driven, machine-learned simulator](https://arxiv.org/abs/2101.08944). [^Howard2021]
--   Thuerey, N. et al. (2021). [Physics-based deep learning](https://arxiv.org/abs/2109.05237). [^Thuerey2021]
--   [physicsbaseddeeplearning.org](https://physicsbaseddeeplearning.org/intro.html)
--   The manifold hypothesis
--   Olah, C. (2014). [Neural networks, manifolds, and topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/).
--   Fefferman, C., Mitter, S., & Narayanan, H. (2016). [Testing the manifold hypothesis](https://www.ams.org/journals/jams/2016-29-04/S0894-0347-2016-00852-4/S0894-0347-2016-00852-4.pdf). [^Fefferman2016]
+    -   Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). [Physics informed deep learning (Part I)](https://arxiv.org/abs/1711.10561) and [(Part II)](https://arxiv.org/abs/1711.10566). [^Raissi2017IandII]
+    -   Karniadakis, G.E. et al. (2021). [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5). [^Karniadakis2021]
+    -   Howard, J.N. et al. (2021). [Foundations of a fast, data-driven, machine-learned simulator](https://arxiv.org/abs/2101.08944). [^Howard2021]
+    -   Thuerey, N. et al. (2021). [Physics-based deep learning](https://arxiv.org/abs/2109.05237). [^Thuerey2021]
+    -   [physicsbaseddeeplearning.org](https://physicsbaseddeeplearning.org/intro.html)
+-   Simulation-based inference
+    -   Cranmer, K., Brehmer, J., & Louppe, G. (2019). [The frontier of simulation-based inference](https://arxiv.org/abs/1911.01429). [^Cranmer2019]
+    -   Baydin, A.G. et al. (2019). [Etalumis: Bringing probabilistic programming to scientific simulators at scale](https://arxiv.org/abs/1907.03382). [^Baydin2019]
 
 Lectures:
 
 -   Paul Hand. (2020). [Invertible neural networks and inverse problems](https://www.youtube.com/watch?v=IpbeIwSr7r0).
 
+[^Baydin2019]: @Baydin_2019_Etalumis_Bringing_probabilistic_programming\.
 [^Cranmer2019]: @Cranmer_2019_The_frontier_of_simulation_based_inference\.
 [^Fefferman2016]: @Fefferman_2016_Testing_the_manifold_hypothesis\.
 [^Howard2021]: @Howard_2021_Foundations_of_a_fast_data_driven_machine\.
@@ -1998,17 +2005,21 @@ Lectures:
 ### AutoScience
 
 -   Automated discovery
--   D’Agnolo, R.T. & Wulzer, A. (2019). [Learning New Physics from a Machine](https://arxiv.org/abs/1806.02350). [^DAgnolo2019]
+-   Anderson, C. (2008). [The End of Theory: The data deluge makes the scientific method obsolete](https://www.wired.com/2008/06/pb-theory/). [^Anderson2008]
+-   Cranmer, K. (2017). [Active sciencing](https://github.com/cranmer/active_sciencing).
 -   Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. [^Asch2018]
     -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
--   Anderson, C. (2008). [The End of Theory: The data deluge makes the scientific method obsolete](https://www.wired.com/2008/06/pb-theory/). [^Anderson2008]
+-   D’Agnolo, R.T. & Wulzer, A. (2019). [Learning New Physics from a Machine](https://arxiv.org/abs/1806.02350). [^DAgnolo2019]
 -   Udrescu, S. & Tegmark, M. (2020). [Symbolic pregression: Discovering physical laws from raw distorted video](https://arxiv.org/abs/2005.11212). [^Udrescu2020]
 -   Cranmer, M. et al. (2020). [Discovering symbolic models from deep learning with inductive biases](https://arxiv.org/abs/2006.11287). [^Cranmer2020]
     -   Video: [Discussion by Yannic Kilcher](https://www.youtube.com/watch?v=LMb5tvW-UoQ)
--   See also: [Artificial intelligence](http://rreece.github.io/outline-of-philosophy/future.html#artificial-intelligence)
-    in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
 
 ![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis. [^Asch2018fig]](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
+
+See also:
+
+-   [Artificial intelligence](http://rreece.github.io/outline-of-philosophy/future.html#artificial-intelligence)
+    in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
 
 [^Anderson2008]: @Anderson_2008_The_End_of_Theory_The_data_deluge_makes\.
 [^Asch2018]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
