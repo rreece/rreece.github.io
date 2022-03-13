@@ -1027,14 +1027,18 @@ Interpretations of quantum mechanics
 
 ### Measurement problem
 
+-   Maudlin, T. (1995). Three measurement problems. [^Maudlin1995]
 -   Schr&ouml;dinger's cat
 -   Penrose: $U$ and $R$ operators
 -   Wigner's friend
     -   Deutsch, D. (1985). Quantum theory as a universal physical theory. [^Deutsch1985]
     -   Bong, K.W. et al. (2020). [A strong no-go theorem on the Wigner's friend paradox](https://arxiv.org/abs/1907.05607). [^Bong2020]
+-   D&uuml;rr, D. & Lazarovici, D. (2020). *Understanding Quantum Mechanics: The World According to Modern Quantum Foundations*. [^Durr2020]
 
 [^Bong2020]: @Bong_2020_A_strong_no_go_theorem_on_the_Wigners_friend\.
 [^Deutsch1985]: @Deutsch_1985_Quantum_theory_as_a_universal_physical_theory\.
+[^Durr2020]: @Durr_2020_Understanding_Quantum_Mechanics_The_World\.
+[^Maudlin1995]: @Maudlin_1995_Three_measurement_problems\.
 
 
 ### Copenhagen "interpretation"

@@ -73,6 +73,7 @@ D{\"u}rr, D., Goldstein, S., & Zangh{\`i}, N. (1995). Bohmian mechanics as the f
 D{\"u}rr, D., Goldstein, S., Tumulka, R., & Zangh{\`i}, N. (2004). Bohmian mechanics and quantum field theory. *Physical Review Letters*, 93, 090402. https://arxiv.org/abs/quant-ph/0303156
 D{\"u}rr, D., Goldstein, S., Tumulka, R., & Zangh{\`i}, N. (2005). Bell-type quantum field theories. *Journal of Physics A*, 38, R1. https://arxiv.org/abs/quant-ph/0407116
 D{\"u}rr, D., Goldstein, S., & Zangh{\`i}, N. (2013). *Quantum Physics Without Quantum Philosophy*. Springer.
+D{\"u}rr, D. & Lazarovici, D. (2020). *Understanding Quantum Mechanics: The World According to Modern Quantum Foundations*. Springer.
 Dutailly, J.C. (2014). Particles and Fields. https://hal.archives-ouvertes.fr/hal-00933043
 Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. *Physical Review*, 75(11), 1736.
 Dyson, F.J. (1952). Divergence of perturbation theory in quantum electrodynamics. *Physical Review*, 85(4), 631.
@@ -144,6 +145,7 @@ Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and
 Martens, N. (2022). Dark matter realism. *Foundations of Physics*, 52(1), 1--19. https://link.springer.com/article/10.1007/s10701-021-00524-y
 Martin, S.P. (2011). Phenomenology of particle physics. https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf
 Martin, S.P. (2016). A supersymmetry primer. https://arxiv.org/abs/hep-ph/9709356 [(First published in 1997)]
+Maudlin, T. (1995). Three measurement problems. *Topoi*, 14, 7--15.
 Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.
 Maudlin, T. (2012). *Philosophy of Physics: Space and Time*. Princeton University Press.
 Maudlin, T. (2014). What Bell did. *Journal of Physics A: Mathematical and Theoretical*, 47, 424010. https://iopscience.iop.org/article/10.1088/1751-8113/47/42/424010/pdf

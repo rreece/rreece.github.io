@@ -898,6 +898,11 @@ Causal inference
 
 -   Pearl, J. (2018). *The Book of Why: The new science of cause and effect*. [^Pearl2018]
 
+See also:
+
+-   [Causation](scientific-method.html#causation)
+-   [Induction](scientific-method.html#induction)
+
 [^Pearl2018]: @Pearl_2018_The_Book_of_Why_The_new_science_of_cause\.
 
 

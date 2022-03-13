@@ -792,6 +792,11 @@ Hume:
 -   Judea Pearl
 -   James Woodward
 
+See also:
+
+-   [Causal inference](statistics.html#causal-inference)
+-   [Induction](#induction)
+
 
 ### Uniformity of nature
 
