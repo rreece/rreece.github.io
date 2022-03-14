@@ -1043,6 +1043,8 @@ Interpretations of quantum mechanics
 
 ### Copenhagen "interpretation"
 
+-   [Niels Bohr (1885-1962)](https://en.wikipedia.org/wiki/Niels_Bohr)
+-   Complementarity
 -   Becker, A. (2018). *What is Real?* [^Becker2018]
 
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
