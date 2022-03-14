@@ -1783,6 +1783,7 @@ More:
         -   MCCFR used to find a solution of the abstracted game: blueprint
     -   Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. [^Brown2019SIIG]
     -   Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). Deep counterfactual regret minimization. [^Brown2019DCRM]
+    -   Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. [^Hart2000]
 -   Pluribus
     -   Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. [^Brown2019Pluribus]
     -   Brown, N. (2019). [Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/).
@@ -1798,6 +1799,7 @@ More:
 [^Brown2019SIIG]: @Brown_2019_Solving_imperfect_information_games_via_discounted\.
 [^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 [^Brown2020]: @Brown_2020_Combining_deep_reinforcement_learning_and_search\.
+[^Hart2000]: @Hart_2000_A_simple_adaptive_procedure_leading_to_correlated\.
 [^Heinrich2016]: @Heinrich_2016_Deep_reinforcement_learning_from_self_play\.
 [^Moravcik2017]: @Moravcik_2017_DeepStack_Expert_level_artificial_intelligence\.
 
