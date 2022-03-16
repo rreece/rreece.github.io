@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Sun Mar 13, 2022" />
+  <meta name="date" content="Tue Mar 15, 2022" />
   <title>Philosophy of statistics - Ryan's Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#x2019;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -1113,10 +1113,17 @@ D_\mathrm{KL}(p, q)
 <li><a href="https://en.wikipedia.org/wiki/Arthur_Samuel">Arthur Samuel</a> (1901-1990)</li>
 <li>Hastie, Tibshirani, &amp; Friedman<a href="#fn121" class="footnote-ref" id="fnref121" role="doc-noteref"><sup>121</sup></a></li>
 <li><em>Information Theory, Inference, and Learning</em><a href="#fn122" class="footnote-ref" id="fnref122" role="doc-noteref"><sup>122</sup></a></li>
-<li>VC-dimension<a href="#fn123" class="footnote-ref" id="fnref123" role="doc-noteref"><sup>123</sup></a></li>
+<li>Murphy, K.P. (2012). <em>Machine Learning: A probabilistic perspective</em>. MIT Press.<a href="#fn123" class="footnote-ref" id="fnref123" role="doc-noteref"><sup>123</sup></a></li>
+<li>Murphy, K.P. (2022). <em>Probabilistic Machine Learning: An introduction</em>. MIT Press.<a href="#fn124" class="footnote-ref" id="fnref124" role="doc-noteref"><sup>124</sup></a></li>
+<li>Shalev-Shwarz, S. &amp; Ben-David, S. (2014). <a href="https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf"><em>Understanding Machine Learning: From Theory to Algorithms</em></a>.<a href="#fn125" class="footnote-ref" id="fnref125" role="doc-noteref"><sup>125</sup></a></li>
+<li>VC-dimension
+<ul>
+<li>Vapnik (1994)<a href="#fn126" class="footnote-ref" id="fnref126" role="doc-noteref"><sup>126</sup></a></li>
+<li>Shalev-Shwarz, S. &amp; Ben-David, S. (2014).<a href="#fn127" class="footnote-ref" id="fnref127" role="doc-noteref"><sup>127</sup></a></li>
+</ul></li>
 </ul>
 <h3 id="logistic-regression">Logistic regression</h3>
-<p>From a probabilistic point of view,<a href="#fn124" class="footnote-ref" id="fnref124" role="doc-noteref"><sup>124</sup></a> logistic regression can be derived from doing maximum likelihood estimation of a vector of model parameters, <span class="math inline">\(\vec{w}\)</span>, in a dot product with the input features, <span class="math inline">\(\vec{x}\)</span>, and squashed with a logistic function that yields the probability, <span class="math inline">\(\mu\)</span>, of a Bernoulli random variable, <span class="math inline">\(y \in \{0, 1\}\)</span>.</p>
+<p>From a probabilistic point of view,<a href="#fn128" class="footnote-ref" id="fnref128" role="doc-noteref"><sup>128</sup></a> logistic regression can be derived from doing maximum likelihood estimation of a vector of model parameters, <span class="math inline">\(\vec{w}\)</span>, in a dot product with the input features, <span class="math inline">\(\vec{x}\)</span>, and squashed with a logistic function that yields the probability, <span class="math inline">\(\mu\)</span>, of a Bernoulli random variable, <span class="math inline">\(y \in \{0, 1\}\)</span>.</p>
 <p><span class="math display">\[ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y | \mu(\vec{x}, \vec{w})) = \mu(\vec{x}, \vec{w})^y \: (1-\mu(\vec{x}, \vec{w}))^{(1-y)} \]</span></p>
 <p>The negative log-likelihood of multiple trials is</p>
 <p><span class="math display">\[\begin{align}
@@ -1126,7 +1133,7 @@ D_\mathrm{KL}(p, q)
     &amp;= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \nonumber \\
     &amp;= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss0}
 \end{align}\]</span></p>
-<p>which is the <strong>cross entropy loss</strong>. Note that the first term is non-zero only when the true target is <span class="math inline">\(y_i=1\)</span>, and similarly the second term is non-zero only when <span class="math inline">\(y_i=0\)</span>.<a href="#fn125" class="footnote-ref" id="fnref125" role="doc-noteref"><sup>125</sup></a> Therefore, we can reparametrize the target <span class="math inline">\(y_i\)</span> in favor of <span class="math inline">\(t_{ki}\)</span> that is one-hot in an index <span class="math inline">\(k\)</span> over classes.</p>
+<p>which is the <strong>cross entropy loss</strong>. Note that the first term is non-zero only when the true target is <span class="math inline">\(y_i=1\)</span>, and similarly the second term is non-zero only when <span class="math inline">\(y_i=0\)</span>.<a href="#fn129" class="footnote-ref" id="fnref129" role="doc-noteref"><sup>129</sup></a> Therefore, we can reparametrize the target <span class="math inline">\(y_i\)</span> in favor of <span class="math inline">\(t_{ki}\)</span> that is one-hot in an index <span class="math inline">\(k\)</span> over classes.</p>
 <p><span class="math display">\[ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ki} \, \log \mu_{ki} \big) \label{eq:cross_entropy_loss1} \]</span></p>
 <p>where</p>
 <p><span class="math display">\[ t_{ki} = \begin{cases} 1 &amp; \mathrm{if}\ (k = y_i = 0)\ \mathrm{or}\ (k = y_i = 1) \\ 0 &amp; \mathrm{otherwise} \end{cases} \]</span></p>
@@ -1134,7 +1141,7 @@ D_\mathrm{KL}(p, q)
 <p><span class="math display">\[ \mu_{ki} = \begin{cases} 1-\mu_i &amp; \mathrm{if}\ k = 0 \\ \mu_i &amp; \mathrm{if}\ k =1 \end{cases} \]</span></p>
 <p>This readily generalizes from binary classification to classification over many classes as we will discuss more below. Note that in the sum over classes, <span class="math inline">\(k\)</span>, only one term for the true class contributes.</p>
 <p><span class="math display">\[ \mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss2} \]</span></p>
-<p>Logistic regression uses the <strong>logit function</strong>,<a href="#fn126" class="footnote-ref" id="fnref126" role="doc-noteref"><sup>126</sup></a> which is the logarithm of the odds&#x2014;the ratio of the chance of success to failure. Let <span class="math inline">\(\mu\)</span> be the probability of success in a Bernoulli trial, then the logit function is defined as</p>
+<p>Logistic regression uses the <strong>logit function</strong>,<a href="#fn130" class="footnote-ref" id="fnref130" role="doc-noteref"><sup>130</sup></a> which is the logarithm of the odds&#x2014;the ratio of the chance of success to failure. Let <span class="math inline">\(\mu\)</span> be the probability of success in a Bernoulli trial, then the logit function is defined as</p>
 <p><span class="math display">\[ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \label{eq:logit} \]</span></p>
 <p>Logistic regression assumes that the logit function is a linear function of the explanatory variable, <span class="math inline">\(x\)</span>.</p>
 <p><span class="math display">\[ \log\left(\frac{\mu}{1-\mu}\right) = \beta_0 + \beta_1 x \]</span></p>
@@ -1169,9 +1176,9 @@ D_\mathrm{KL}(p, q)
 <p>See also:</p>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Multinomial_logistic_regression">Multinomial logistic regression</a></li>
-<li>McFadden<a href="#fn127" class="footnote-ref" id="fnref127" role="doc-noteref"><sup>127</sup></a></li>
+<li>McFadden<a href="#fn131" class="footnote-ref" id="fnref131" role="doc-noteref"><sup>131</sup></a></li>
 <li>Softmax is really a soft argmax. TODO: find ref.</li>
-<li>Softmax is not unique. There are other squashing functions.<a href="#fn128" class="footnote-ref" id="fnref128" role="doc-noteref"><sup>128</sup></a>
+<li>Softmax is not unique. There are other squashing functions.<a href="#fn132" class="footnote-ref" id="fnref132" role="doc-noteref"><sup>132</sup></a>
 <ul>
 <li><a href="https://twitter.com/PreetumNakkiran/status/1422752757920845825">Tweet from PreetumNakkiran</a></li>
 <li><a href="https://arxiv.org/abs/2009.08092">Distributional generalization: A new kind of generalization</a></li>
@@ -1179,7 +1186,7 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 <li>Roelants, P. (2019). <a href="https://peterroelants.github.io/posts/cross-entropy-softmax/">Softmax classification with cross-entropy</a>.</li>
 <li>Gradients from backprop through a softmax</li>
-<li>Goodfellow et al.&#xA0;point out that <em>any</em> negative log-likelihood is a cross entropy between the training data and the probability distribution predicted by the model.<a href="#fn129" class="footnote-ref" id="fnref129" role="doc-noteref"><sup>129</sup></a></li>
+<li>Goodfellow et al.&#xA0;point out that <em>any</em> negative log-likelihood is a cross entropy between the training data and the probability distribution predicted by the model.<a href="#fn133" class="footnote-ref" id="fnref133" role="doc-noteref"><sup>133</sup></a></li>
 </ul>
 <h3 id="decision-trees">Decision trees</h3>
 <ul>
@@ -1209,9 +1216,9 @@ D_\mathrm{KL}(p, q)
 <li>Relationship of clustering and autoencoding
 <ul>
 <li>Olah, C. (2014). <a href="https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/">Neural networks, manifolds, and topology</a>.</li>
-<li>Batson et al.&#xA0;(2021). <a href="https://arxiv.org/abs/2102.08380">Topological obstructions to autoencoding</a>.<a href="#fn130" class="footnote-ref" id="fnref130" role="doc-noteref"><sup>130</sup></a></li>
+<li>Batson et al.&#xA0;(2021). <a href="https://arxiv.org/abs/2102.08380">Topological obstructions to autoencoding</a>.<a href="#fn134" class="footnote-ref" id="fnref134" role="doc-noteref"><sup>134</sup></a></li>
 </ul></li>
-<li>&#x201C;What are the true clusters?&#x201D;<a href="#fn131" class="footnote-ref" id="fnref131" role="doc-noteref"><sup>131</sup></a>
+<li>&#x201C;What are the true clusters?&#x201D;<a href="#fn135" class="footnote-ref" id="fnref135" role="doc-noteref"><sup>135</sup></a>
 <ul>
 <li>See also:
 <ul>
@@ -1234,14 +1241,14 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Conceptual reviews of deep learning
 <ul>
-<li>Lower to higher level representations<a href="#fn132" class="footnote-ref" id="fnref132" role="doc-noteref"><sup>132</sup></a></li>
-<li>LeCun, Y., Bengio, Y., &amp; Hinton, G. (2015). Review: Deep learning.<a href="#fn133" class="footnote-ref" id="fnref133" role="doc-noteref"><sup>133</sup></a></li>
-<li><em>Deep Learning</em><a href="#fn134" class="footnote-ref" id="fnref134" role="doc-noteref"><sup>134</sup></a></li>
-<li>Kaplan, J. (2019). <a href="https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf">Notes on contemporary machine learning</a>.<a href="#fn135" class="footnote-ref" id="fnref135" role="doc-noteref"><sup>135</sup></a></li>
+<li>Lower to higher level representations<a href="#fn136" class="footnote-ref" id="fnref136" role="doc-noteref"><sup>136</sup></a></li>
+<li>LeCun, Y., Bengio, Y., &amp; Hinton, G. (2015). Review: Deep learning.<a href="#fn137" class="footnote-ref" id="fnref137" role="doc-noteref"><sup>137</sup></a></li>
+<li><em>Deep Learning</em><a href="#fn138" class="footnote-ref" id="fnref138" role="doc-noteref"><sup>138</sup></a></li>
+<li>Kaplan, J. (2019). <a href="https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf">Notes on contemporary machine learning</a>.<a href="#fn139" class="footnote-ref" id="fnref139" role="doc-noteref"><sup>139</sup></a></li>
 </ul></li>
 <li>Backpropagation
 <ul>
-<li>Rumelhart<a href="#fn136" class="footnote-ref" id="fnref136" role="doc-noteref"><sup>136</sup></a></li>
+<li>Rumelhart<a href="#fn140" class="footnote-ref" id="fnref140" role="doc-noteref"><sup>140</sup></a></li>
 <li>Schmidhuber&#x2019;s <a href="http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html">Critique of Honda Prize for Dr.&#xA0;Hinton</a>.</li>
 <li>Schmidhuber: <a href="http://people.idsia.ch/~juergen/who-invented-backpropagation.html">Who Invented Backpropagation?</a>.</li>
 <li>Scmidhuber: <a href="https://people.idsia.ch/~juergen/most-cited-neural-nets.html">The most cited neural networks all build on work done in my labs</a>.</li>
@@ -1253,31 +1260,31 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 <li>Discussion
 <ul>
-<li>Sutton, R. (2019). <a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html">The bitter lesson</a>.<a href="#fn137" class="footnote-ref" id="fnref137" role="doc-noteref"><sup>137</sup></a></li>
-<li>Watson, D. &amp; Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning.<a href="#fn138" class="footnote-ref" id="fnref138" role="doc-noteref"><sup>138</sup></a></li>
+<li>Sutton, R. (2019). <a href="http://www.incompleteideas.net/IncIdeas/BitterLesson.html">The bitter lesson</a>.<a href="#fn141" class="footnote-ref" id="fnref141" role="doc-noteref"><sup>141</sup></a></li>
+<li>Watson, D. &amp; Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning.<a href="#fn142" class="footnote-ref" id="fnref142" role="doc-noteref"><sup>142</sup></a></li>
 <li><a href="https://www.aimyths.org/">AIMyths.com</a></li>
 </ul></li>
 </ul>
 <figure>
-<img src="img/bengio-raw-to-higher-rep.png" id="fig:bengio-raw-to-higher-rep" alt="Figure 11: Raw input image is transformed into gradually higher levels of representation." /><figcaption aria-hidden="true">Figure 11: Raw input image is transformed into gradually higher levels of representation.<a href="#fn139" class="footnote-ref" id="fnref139" role="doc-noteref"><sup>139</sup></a></figcaption>
+<img src="img/bengio-raw-to-higher-rep.png" id="fig:bengio-raw-to-higher-rep" alt="Figure 11: Raw input image is transformed into gradually higher levels of representation." /><figcaption aria-hidden="true">Figure 11: Raw input image is transformed into gradually higher levels of representation.<a href="#fn143" class="footnote-ref" id="fnref143" role="doc-noteref"><sup>143</sup></a></figcaption>
 </figure>
 <h3 id="deep-double-descent">Deep double descent</h3>
 <ul>
 <li>Bias and variance trade-off. See <a href="#bias-and-variance">Bias and variance</a>.</li>
 <li>MSE and model capacity</li>
-<li>Belkin, M., Hsu, D., Ma, S., &amp; Mandal, S. (2019). <a href="https://arxiv.org/abs/1812.11118">Reconciling modern machine-learning practice and the classical bias-variance trade-off</a>.<a href="#fn140" class="footnote-ref" id="fnref140" role="doc-noteref"><sup>140</sup></a></li>
-<li>Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., &amp; Sutskever, I. (2019). <a href="https://arxiv.org/abs/1912.02292">Deep double descent: Where bigger models and more data hurt</a>.<a href="#fn141" class="footnote-ref" id="fnref141" role="doc-noteref"><sup>141</sup></a>
+<li>Belkin, M., Hsu, D., Ma, S., &amp; Mandal, S. (2019). <a href="https://arxiv.org/abs/1812.11118">Reconciling modern machine-learning practice and the classical bias-variance trade-off</a>.<a href="#fn144" class="footnote-ref" id="fnref144" role="doc-noteref"><sup>144</sup></a></li>
+<li>Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., &amp; Sutskever, I. (2019). <a href="https://arxiv.org/abs/1912.02292">Deep double descent: Where bigger models and more data hurt</a>.<a href="#fn145" class="footnote-ref" id="fnref145" role="doc-noteref"><sup>145</sup></a>
 <ul>
 <li><a href="https://openai.com/blog/deep-double-descent/">Deep Double Descent</a>. <em>OpenAI Blog</em>.</li>
 </ul></li>
 <li>Hubinger, E. (2019). <a href="https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent">Understanding &#x201C;Deep Double Descent&#x201D;</a>. <em>LessWrong</em>.</li>
-<li>Dar, Y., Muthukumar, V., &amp; Baraniuk, R.G. (2021). <a href="https://arxiv.org/abs/2109.02355">A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning</a>.<a href="#fn142" class="footnote-ref" id="fnref142" role="doc-noteref"><sup>142</sup></a></li>
-<li>Balestriero, R., Pesenti, J., &amp; LeCun, Y. (2021). <a href="https://arxiv.org/abs/2110.09485">Learning in high dimension always amounts to extrapolation</a>.<a href="#fn143" class="footnote-ref" id="fnref143" role="doc-noteref"><sup>143</sup></a></li>
-<li>Nagarajan, V. (2021). <a href="https://arxiv.org/abs/2110.08922">Explaining generalization in deep learning: progress and fundamental limits</a>.<a href="#fn144" class="footnote-ref" id="fnref144" role="doc-noteref"><sup>144</sup></a></li>
-<li>Bubeck, S. &amp; Sellke, M. (2021). <a href="https://arxiv.org/abs/2105.12806">A universal law of robustness via isoperimetry</a>.<a href="#fn145" class="footnote-ref" id="fnref145" role="doc-noteref"><sup>145</sup></a></li>
+<li>Dar, Y., Muthukumar, V., &amp; Baraniuk, R.G. (2021). <a href="https://arxiv.org/abs/2109.02355">A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning</a>.<a href="#fn146" class="footnote-ref" id="fnref146" role="doc-noteref"><sup>146</sup></a></li>
+<li>Balestriero, R., Pesenti, J., &amp; LeCun, Y. (2021). <a href="https://arxiv.org/abs/2110.09485">Learning in high dimension always amounts to extrapolation</a>.<a href="#fn147" class="footnote-ref" id="fnref147" role="doc-noteref"><sup>147</sup></a></li>
+<li>Nagarajan, V. (2021). <a href="https://arxiv.org/abs/2110.08922">Explaining generalization in deep learning: progress and fundamental limits</a>.<a href="#fn148" class="footnote-ref" id="fnref148" role="doc-noteref"><sup>148</sup></a></li>
+<li>Bubeck, S. &amp; Sellke, M. (2021). <a href="https://arxiv.org/abs/2105.12806">A universal law of robustness via isoperimetry</a>.<a href="#fn149" class="footnote-ref" id="fnref149" role="doc-noteref"><sup>149</sup></a></li>
 </ul>
 <h3 id="regularization">Regularization</h3>
-<p>Regularization = any change we make to the training algorithm in order to reduce the generalization error but not the training error.<a href="#fn146" class="footnote-ref" id="fnref146" role="doc-noteref"><sup>146</sup></a></p>
+<p>Regularization = any change we make to the training algorithm in order to reduce the generalization error but not the training error.<a href="#fn150" class="footnote-ref" id="fnref150" role="doc-noteref"><sup>150</sup></a></p>
 <p>Most common regularizations:</p>
 <ul>
 <li>L2 Regularization</li>
@@ -1289,7 +1296,7 @@ D_\mathrm{KL}(p, q)
 <p>Papers:</p>
 <ul>
 <li>Loshchilov, I. &amp; Hutter, F. (2019). <a href="https://arxiv.org/abs/1711.05101">Decoupled weight decay regularization</a>.</li>
-<li>A group theoretic framework for data augmentation<a href="#fn147" class="footnote-ref" id="fnref147" role="doc-noteref"><sup>147</sup></a></li>
+<li>A group theoretic framework for data augmentation<a href="#fn151" class="footnote-ref" id="fnref151" role="doc-noteref"><sup>151</sup></a></li>
 </ul>
 <h3 id="batch-size-vs-learning-rate">Batch size vs learning rate</h3>
 <p>Papers:</p>
@@ -1396,21 +1403,21 @@ D_\mathrm{KL}(p, q)
 <h3 id="computer-vision">Computer vision</h3>
 <ul>
 <li>Computer Vision (CV)</li>
-<li>Fukushima: neocognitron<a href="#fn148" class="footnote-ref" id="fnref148" role="doc-noteref"><sup>148</sup></a></li>
-<li>LeCun: OCR with backpropagation<a href="#fn149" class="footnote-ref" id="fnref149" role="doc-noteref"><sup>149</sup></a></li>
-<li>LeCun: LeNet-5<a href="#fn150" class="footnote-ref" id="fnref150" role="doc-noteref"><sup>150</sup></a></li>
-<li>Ciresan: MCDNN<a href="#fn151" class="footnote-ref" id="fnref151" role="doc-noteref"><sup>151</sup></a></li>
-<li>Krizhevsky, Sutskever, and Hinton: AlexNet<a href="#fn152" class="footnote-ref" id="fnref152" role="doc-noteref"><sup>152</sup></a></li>
-<li>VGG<a href="#fn153" class="footnote-ref" id="fnref153" role="doc-noteref"><sup>153</sup></a></li>
-<li>ResNet<a href="#fn154" class="footnote-ref" id="fnref154" role="doc-noteref"><sup>154</sup></a></li>
-<li>MobileNet<a href="#fn155" class="footnote-ref" id="fnref155" role="doc-noteref"><sup>155</sup></a></li>
-<li>EfficientNet<a href="#fn156" class="footnote-ref" id="fnref156" role="doc-noteref"><sup>156</sup></a></li>
-<li>VisionTransformer<a href="#fn157" class="footnote-ref" id="fnref157" role="doc-noteref"><sup>157</sup></a></li>
-<li>EfficientNetV2<a href="#fn158" class="footnote-ref" id="fnref158" role="doc-noteref"><sup>158</sup></a></li>
-<li>gMLP<a href="#fn159" class="footnote-ref" id="fnref159" role="doc-noteref"><sup>159</sup></a></li>
+<li>Fukushima: neocognitron<a href="#fn152" class="footnote-ref" id="fnref152" role="doc-noteref"><sup>152</sup></a></li>
+<li>LeCun: OCR with backpropagation<a href="#fn153" class="footnote-ref" id="fnref153" role="doc-noteref"><sup>153</sup></a></li>
+<li>LeCun: LeNet-5<a href="#fn154" class="footnote-ref" id="fnref154" role="doc-noteref"><sup>154</sup></a></li>
+<li>Ciresan: MCDNN<a href="#fn155" class="footnote-ref" id="fnref155" role="doc-noteref"><sup>155</sup></a></li>
+<li>Krizhevsky, Sutskever, and Hinton: AlexNet<a href="#fn156" class="footnote-ref" id="fnref156" role="doc-noteref"><sup>156</sup></a></li>
+<li>VGG<a href="#fn157" class="footnote-ref" id="fnref157" role="doc-noteref"><sup>157</sup></a></li>
+<li>ResNet<a href="#fn158" class="footnote-ref" id="fnref158" role="doc-noteref"><sup>158</sup></a></li>
+<li>MobileNet<a href="#fn159" class="footnote-ref" id="fnref159" role="doc-noteref"><sup>159</sup></a></li>
+<li>EfficientNet<a href="#fn160" class="footnote-ref" id="fnref160" role="doc-noteref"><sup>160</sup></a></li>
+<li>VisionTransformer<a href="#fn161" class="footnote-ref" id="fnref161" role="doc-noteref"><sup>161</sup></a></li>
+<li>EfficientNetV2<a href="#fn162" class="footnote-ref" id="fnref162" role="doc-noteref"><sup>162</sup></a></li>
+<li>gMLP<a href="#fn163" class="footnote-ref" id="fnref163" role="doc-noteref"><sup>163</sup></a></li>
 <li>Liu, Y. et al.&#xA0;(2021). <a href="https://arxiv.org/abs/2111.06091">A survey of visual transformers</a>.</li>
-<li>Ingrosso, A. &amp; Goldt, S. (2022). <a href="https://arxiv.org/abs/2202.00565">Data-driven emergence of convolutional structure in neural networks</a>.<a href="#fn160" class="footnote-ref" id="fnref160" role="doc-noteref"><sup>160</sup></a></li>
-<li>Park, N. &amp; Kim, S. (2022). <a href="https://arxiv.org/abs/2202.06709">How do vision transformers work?</a><a href="#fn161" class="footnote-ref" id="fnref161" role="doc-noteref"><sup>161</sup></a></li>
+<li>Ingrosso, A. &amp; Goldt, S. (2022). <a href="https://arxiv.org/abs/2202.00565">Data-driven emergence of convolutional structure in neural networks</a>.<a href="#fn164" class="footnote-ref" id="fnref164" role="doc-noteref"><sup>164</sup></a></li>
+<li>Park, N. &amp; Kim, S. (2022). <a href="https://arxiv.org/abs/2202.06709">How do vision transformers work?</a><a href="#fn165" class="footnote-ref" id="fnref165" role="doc-noteref"><sup>165</sup></a></li>
 </ul>
 <p>Resources:</p>
 <ul>
@@ -1423,13 +1430,13 @@ D_\mathrm{KL}(p, q)
 <li>Natural Language Processing (NLP)</li>
 <li>History
 <ul>
-<li>Firth (1957): &#x201C;You shall know a word by the company it keeps.&#x201D;<a href="#fn162" class="footnote-ref" id="fnref162" role="doc-noteref"><sup>162</sup></a></li>
-<li>Nirenburg, S. (1996). <a href="https://web.archive.org/web/20120414235847/http://ilit.umbc.edu/SergeiPub/bar-hillel.pdf">Bar Hillel and Machine Translation: Then and Now</a>.<a href="#fn163" class="footnote-ref" id="fnref163" role="doc-noteref"><sup>163</sup></a></li>
-<li>Hutchins, J. (2000). <a href="https://web.archive.org/web/20190702192948/http://www.hutchinsweb.me.uk/Bar-Hillel-2000.pdf">Yehoshua Bar-Hillel: A philosophers&#x2019; contribution to machine translation</a>.<a href="#fn164" class="footnote-ref" id="fnref164" role="doc-noteref"><sup>164</sup></a></li>
+<li>Firth (1957): &#x201C;You shall know a word by the company it keeps.&#x201D;<a href="#fn166" class="footnote-ref" id="fnref166" role="doc-noteref"><sup>166</sup></a></li>
+<li>Nirenburg, S. (1996). <a href="https://web.archive.org/web/20120414235847/http://ilit.umbc.edu/SergeiPub/bar-hillel.pdf">Bar Hillel and Machine Translation: Then and Now</a>.<a href="#fn167" class="footnote-ref" id="fnref167" role="doc-noteref"><sup>167</sup></a></li>
+<li>Hutchins, J. (2000). <a href="https://web.archive.org/web/20190702192948/http://www.hutchinsweb.me.uk/Bar-Hillel-2000.pdf">Yehoshua Bar-Hillel: A philosophers&#x2019; contribution to machine translation</a>.<a href="#fn168" class="footnote-ref" id="fnref168" role="doc-noteref"><sup>168</sup></a></li>
 </ul></li>
 <li>word2vec
 <ul>
-<li>Mikolov<a href="#fn165" class="footnote-ref" id="fnref165" role="doc-noteref"><sup>165</sup></a></li>
+<li>Mikolov<a href="#fn169" class="footnote-ref" id="fnref169" role="doc-noteref"><sup>169</sup></a></li>
 <li>Julia Bazi&#x144;ska</li>
 <li>Olah, C. (2014). <a href="https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/">Deep learning, NLP, and representations</a>.</li>
 <li>Migdal, P. (2017). <a href="https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html">king - man + woman is queen; but why?</a></li>
@@ -1438,37 +1445,39 @@ D_\mathrm{KL}(p, q)
 </ul></li>
 <li>RNNs and LSTMs
 <ul>
-<li>Hochreiter, S. &amp; Schmidhuber, J. (1997). Long short-term memory.<a href="#fn166" class="footnote-ref" id="fnref166" role="doc-noteref"><sup>166</sup></a></li>
+<li>Hochreiter, S. &amp; Schmidhuber, J. (1997). Long short-term memory.<a href="#fn170" class="footnote-ref" id="fnref170" role="doc-noteref"><sup>170</sup></a></li>
 <li>Olah, C. (2015). <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs/">Understanding LSTM networks</a>.</li>
 <li>Karpathy, A. (2015). <a href="https://karpathy.github.io/2015/05/21/rnn-effectiveness/">The unreasonable effectiveness of recurrent neural networks</a>.</li>
 </ul></li>
 <li>Backpropagation through time (BPTT)</li>
 <li>Neural Machine Translation (NMT)
 <ul>
-<li>Sutskever seq2seq<a href="#fn167" class="footnote-ref" id="fnref167" role="doc-noteref"><sup>167</sup></a></li>
-<li>Bahdanau attention<a href="#fn168" class="footnote-ref" id="fnref168" role="doc-noteref"><sup>168</sup></a> and GNMT<a href="#fn169" class="footnote-ref" id="fnref169" role="doc-noteref"><sup>169</sup></a></li>
-<li>Review by Stahlberg<a href="#fn170" class="footnote-ref" id="fnref170" role="doc-noteref"><sup>170</sup></a></li>
+<li>Sutskever seq2seq<a href="#fn171" class="footnote-ref" id="fnref171" role="doc-noteref"><sup>171</sup></a></li>
+<li>Bahdanau attention<a href="#fn172" class="footnote-ref" id="fnref172" role="doc-noteref"><sup>172</sup></a> and GNMT<a href="#fn173" class="footnote-ref" id="fnref173" role="doc-noteref"><sup>173</sup></a></li>
+<li>Review by Stahlberg<a href="#fn174" class="footnote-ref" id="fnref174" role="doc-noteref"><sup>174</sup></a></li>
 </ul></li>
 <li>Scaling laws in NLP
 <ul>
-<li>Rationalism and empiricism in artificial intellegence: A survey of 25 years of evaluation [in NLP].<a href="#fn171" class="footnote-ref" id="fnref171" role="doc-noteref"><sup>171</sup></a></li>
-<li>Kaplan, J. et al.&#xA0;(2020). <a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a>.<a href="#fn172" class="footnote-ref" id="fnref172" role="doc-noteref"><sup>172</sup></a></li>
+<li>Rationalism and empiricism in artificial intellegence: A survey of 25 years of evaluation [in NLP].<a href="#fn175" class="footnote-ref" id="fnref175" role="doc-noteref"><sup>175</sup></a></li>
+<li>Kaplan, J. et al.&#xA0;(2020). <a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a>.<a href="#fn176" class="footnote-ref" id="fnref176" role="doc-noteref"><sup>176</sup></a></li>
 </ul></li>
 <li>Attention and Transformers
 <ul>
-<li>Transformer<a href="#fn173" class="footnote-ref" id="fnref173" role="doc-noteref"><sup>173</sup></a></li>
-<li>BERT<a href="#fn174" class="footnote-ref" id="fnref174" role="doc-noteref"><sup>174</sup></a></li>
+<li>Transformer<a href="#fn177" class="footnote-ref" id="fnref177" role="doc-noteref"><sup>177</sup></a></li>
+<li>BERT<a href="#fn178" class="footnote-ref" id="fnref178" role="doc-noteref"><sup>178</sup></a></li>
 <li>Horev, R. (2018). <a href="https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270">BERT Explained: State of the art language model for NLP</a>.</li>
 <li>Horan, C. (2021). <a href="https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape">10 things you need to know about BERT and the transformer architecture that are reshaping the AI landscape</a>.</li>
 <li>Video: <a href="https://www.youtube.com/watch?v=XSSTuhyAmnI&amp;t=92s&amp;ab_channel=AriSeff">What are transformer neural networks?</a></li>
 <li>Video: <a href="https://www.youtube.com/watch?v=-9vVhYEXeyQ&amp;ab_channel=Peltarion">How to get meaning from text with language model BERT</a>.</li>
-<li>ALBERT<a href="#fn175" class="footnote-ref" id="fnref175" role="doc-noteref"><sup>175</sup></a></li>
-<li>GPT-1,<a href="#fn176" class="footnote-ref" id="fnref176" role="doc-noteref"><sup>176</sup></a> 2,<a href="#fn177" class="footnote-ref" id="fnref177" role="doc-noteref"><sup>177</sup></a> 3<a href="#fn178" class="footnote-ref" id="fnref178" role="doc-noteref"><sup>178</sup></a></li>
+<li>ALBERT<a href="#fn179" class="footnote-ref" id="fnref179" role="doc-noteref"><sup>179</sup></a></li>
+<li>GPT-1,<a href="#fn180" class="footnote-ref" id="fnref180" role="doc-noteref"><sup>180</sup></a> 2,<a href="#fn181" class="footnote-ref" id="fnref181" role="doc-noteref"><sup>181</sup></a> 3<a href="#fn182" class="footnote-ref" id="fnref182" role="doc-noteref"><sup>182</sup></a></li>
 <li>Alammar, J. (2019). <a href="https://jalammar.github.io/illustrated-gpt2/">The illustrated GPT-2</a>.</li>
-<li>Yang, Z. et al.&#xA0;(2019). <a href="https://arxiv.org/abs/1906.08237">XLNet: Generalized autoregressive pretraining for language understanding</a>.<a href="#fn179" class="footnote-ref" id="fnref179" role="doc-noteref"><sup>179</sup></a></li>
+<li>Yang, Z. et al.&#xA0;(2019). <a href="https://arxiv.org/abs/1906.08237">XLNet: Generalized autoregressive pretraining for language understanding</a>.<a href="#fn183" class="footnote-ref" id="fnref183" role="doc-noteref"><sup>183</sup></a></li>
 <li>Daily Nous: <a href="https://dailynous.com/2020/07/30/philosophers-gpt-3/">Philosophers On GPT-3</a>.</li>
-<li>DeepMind&#x2019;s blog posts for more details: <a href="https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery">AlphaFold1</a>, <a href="https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology">AlphaFold2</a>. Slides from the CASP14 conference are publicly available <a href="https://predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf">here</a>.</li>
+<li>DeepMind&#x2019;s blog posts for more details: <a href="https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery">AlphaFold1</a>, <a href="https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology">AlphaFold2</a> (2020). Slides from the CASP14 conference are publicly available <a href="https://predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf">here</a>.</li>
 <li>Joshi, C. (2020). <a href="https://graphdeeplearning.github.io/post/transformers-are-gnns/">Transformers are GNNs</a>.</li>
+<li>Lakshmanamoorthy, R. (2020). <a href="https://analyticsindiamag.com/a-complete-learning-path-to-transformers/">A complete learning path to transformers (with guide to 23 architectures)</a>.</li>
+<li>Zaheer, M. et al.&#xA0;(2020). <a href="https://arxiv.org/abs/2007.14062">Big Bird: Transformers for longer sequences</a>.<a href="#fn184" class="footnote-ref" id="fnref184" role="doc-noteref"><sup>184</sup></a></li>
 </ul></li>
 </ul>
 <figure>
@@ -1490,8 +1499,8 @@ D_\mathrm{KL}(p, q)
 </ul>
 <p>Pedagogy:</p>
 <ul>
-<li>Sutton &amp; Barto<a href="#fn180" class="footnote-ref" id="fnref180" role="doc-noteref"><sup>180</sup></a></li>
-<li>Deep Reinforcement Learning: A Brief Survey<a href="#fn181" class="footnote-ref" id="fnref181" role="doc-noteref"><sup>181</sup></a></li>
+<li>Sutton &amp; Barto<a href="#fn185" class="footnote-ref" id="fnref185" role="doc-noteref"><sup>185</sup></a></li>
+<li>Deep Reinforcement Learning: A Brief Survey<a href="#fn186" class="footnote-ref" id="fnref186" role="doc-noteref"><sup>186</sup></a></li>
 </ul>
 <p>Tutorials:</p>
 <ul>
@@ -1508,13 +1517,13 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Q-learning and DQN</li>
 <li>Uses the Markov Decision Process (MDP) framework</li>
-<li>The Bellman equation<a href="#fn182" class="footnote-ref" id="fnref182" role="doc-noteref"><sup>182</sup></a></li>
+<li>The Bellman equation<a href="#fn187" class="footnote-ref" id="fnref187" role="doc-noteref"><sup>187</sup></a></li>
 <li>Q-learning is a values-based learning algorithm. Value based algorithms updates the value function based on an equation (particularly Bellman equation). Whereas the other type, policy-based estimates the value function with a greedy policy obtained from the last policy improvement (<a href="https://towardsdatascience.com/a-beginners-guide-to-q-learning-c3e2a30a653c">source: towardsdatascience.com</a>).</li>
-<li>DQN masters Atari<a href="#fn183" class="footnote-ref" id="fnref183" role="doc-noteref"><sup>183</sup></a></li>
+<li>DQN masters Atari<a href="#fn188" class="footnote-ref" id="fnref188" role="doc-noteref"><sup>188</sup></a></li>
 </ul>
 <h4 id="alphazero">AlphaZero</h4>
 <ul>
-<li>AlphaGo Lee<a href="#fn184" class="footnote-ref" id="fnref184" role="doc-noteref"><sup>184</sup></a> &#x2192; AlphaGo Zero<a href="#fn185" class="footnote-ref" id="fnref185" role="doc-noteref"><sup>185</sup></a> &#x2192; AlphaZero<a href="#fn186" class="footnote-ref" id="fnref186" role="doc-noteref"><sup>186</sup></a></li>
+<li>AlphaGo Lee<a href="#fn189" class="footnote-ref" id="fnref189" role="doc-noteref"><sup>189</sup></a> &#x2192; AlphaGo Zero<a href="#fn190" class="footnote-ref" id="fnref190" role="doc-noteref"><sup>190</sup></a> &#x2192; AlphaZero<a href="#fn191" class="footnote-ref" id="fnref191" role="doc-noteref"><sup>191</sup></a></li>
 <li><a href="https://openai.com/blog/openai-five/">OpenAI Five masters Dota2</a></li>
 <li><a href="https://deepmind.com/blog/article/alphastar-mastering-real-time-strategy-game-starcraft-ii">AlphaStar masters StarCraftII</a></li>
 <li>AlphaZero
@@ -1527,47 +1536,47 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Counterfactual Regret Minimization (CFR)</li>
 <li>CFR differs from traditional RL algorithms in that it does not try to maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games (<a href="https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization">source: Quora</a>).</li>
-<li>Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). Regret minimization in games with incomplete information.<a href="#fn187" class="footnote-ref" id="fnref187" role="doc-noteref"><sup>187</sup></a></li>
-<li>Lanctot, M. (2009). Monte Carlo sampling for regret minimization.<a href="#fn188" class="footnote-ref" id="fnref188" role="doc-noteref"><sup>188</sup></a>
+<li>Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). Regret minimization in games with incomplete information.<a href="#fn192" class="footnote-ref" id="fnref192" role="doc-noteref"><sup>192</sup></a></li>
+<li>Lanctot, M. (2009). Monte Carlo sampling for regret minimization.<a href="#fn193" class="footnote-ref" id="fnref193" role="doc-noteref"><sup>193</sup></a>
 <ul>
 <li>Counterfactual Regret Minimization (MCCFR)</li>
 </ul></li>
-<li>Neller, T.W. &amp; Lanctot, M. (2013). An introduction to counterfactual regret minimization.<a href="#fn189" class="footnote-ref" id="fnref189" role="doc-noteref"><sup>189</sup></a></li>
+<li>Neller, T.W. &amp; Lanctot, M. (2013). An introduction to counterfactual regret minimization.<a href="#fn194" class="footnote-ref" id="fnref194" role="doc-noteref"><sup>194</sup></a></li>
 </ul>
 <h4 id="solving-poker">Solving poker</h4>
 <ul>
 <li>Earlier poker work
 <ul>
-<li>Bowling, M., Burch, N., Johanson, M., &amp; Tammelin, O. (2015). Heads-up limit hold&#x2019;em poker is solved.<a href="#fn190" class="footnote-ref" id="fnref190" role="doc-noteref"><sup>190</sup></a>
+<li>Bowling, M., Burch, N., Johanson, M., &amp; Tammelin, O. (2015). Heads-up limit hold&#x2019;em poker is solved.<a href="#fn195" class="footnote-ref" id="fnref195" role="doc-noteref"><sup>195</sup></a>
 <ul>
 <li>CFR+</li>
 </ul></li>
-<li>Heinrich &amp; Silver. (2016). Deep reinforcement learning from self play in imperfect-information games.<a href="#fn191" class="footnote-ref" id="fnref191" role="doc-noteref"><sup>191</sup></a>
+<li>Heinrich &amp; Silver. (2016). Deep reinforcement learning from self play in imperfect-information games.<a href="#fn196" class="footnote-ref" id="fnref196" role="doc-noteref"><sup>196</sup></a>
 <ul>
 <li>Q-learning</li>
 </ul></li>
-<li>Moravcik, M. et al.&#xA0;(2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker.<a href="#fn192" class="footnote-ref" id="fnref192" role="doc-noteref"><sup>192</sup></a></li>
+<li>Moravcik, M. et al.&#xA0;(2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker.<a href="#fn197" class="footnote-ref" id="fnref197" role="doc-noteref"><sup>197</sup></a></li>
 </ul></li>
 <li>Libratus
 <ul>
-<li>Brown, N. &amp; Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals.<a href="#fn193" class="footnote-ref" id="fnref193" role="doc-noteref"><sup>193</sup></a>
+<li>Brown, N. &amp; Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals.<a href="#fn198" class="footnote-ref" id="fnref198" role="doc-noteref"><sup>198</sup></a>
 <ul>
 <li>bet and card abstraction</li>
 <li>MCCFR used to find a solution of the abstracted game: blueprint</li>
 </ul></li>
-<li>Brown, N. &amp; Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization.<a href="#fn194" class="footnote-ref" id="fnref194" role="doc-noteref"><sup>194</sup></a></li>
-<li>Brown, N., Lerer, A., Gross, S., &amp; Sandholm, T. (2019). Deep counterfactual regret minimization.<a href="#fn195" class="footnote-ref" id="fnref195" role="doc-noteref"><sup>195</sup></a></li>
-<li>Hart, S. &amp; Mas&#x2010;Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium.<a href="#fn196" class="footnote-ref" id="fnref196" role="doc-noteref"><sup>196</sup></a></li>
+<li>Brown, N. &amp; Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization.<a href="#fn199" class="footnote-ref" id="fnref199" role="doc-noteref"><sup>199</sup></a></li>
+<li>Brown, N., Lerer, A., Gross, S., &amp; Sandholm, T. (2019). Deep counterfactual regret minimization.<a href="#fn200" class="footnote-ref" id="fnref200" role="doc-noteref"><sup>200</sup></a></li>
+<li>Hart, S. &amp; Mas&#x2010;Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium.<a href="#fn201" class="footnote-ref" id="fnref201" role="doc-noteref"><sup>201</sup></a></li>
 </ul></li>
 <li>Pluribus
 <ul>
-<li>Brown, N. &amp; Sandholm, T. (2019). Superhuman AI for multiplayer poker.<a href="#fn197" class="footnote-ref" id="fnref197" role="doc-noteref"><sup>197</sup></a></li>
+<li>Brown, N. &amp; Sandholm, T. (2019). Superhuman AI for multiplayer poker.<a href="#fn202" class="footnote-ref" id="fnref202" role="doc-noteref"><sup>202</sup></a></li>
 <li>Brown, N. (2019). <a href="https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/">Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker</a>.</li>
 <li><a href="https://www.nature.com/articles/d41586-019-02156-9">No limit: AI poker bot is first to beat professionals at multiplayer game</a></li>
 </ul></li>
 <li>ReBeL
 <ul>
-<li>Brown, N. et al.&#xA0;(2020). Combining deep reinforcement learning and search.<a href="#fn198" class="footnote-ref" id="fnref198" role="doc-noteref"><sup>198</sup></a></li>
+<li>Brown, N. et al.&#xA0;(2020). Combining deep reinforcement learning and search.<a href="#fn203" class="footnote-ref" id="fnref203" role="doc-noteref"><sup>203</sup></a></li>
 <li><a href="https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/">ReBeL: A general game-playing AI bot that excels at poker and more</a></li>
 <li>YouTube by Brown: <a href="https://www.youtube.com/watch?v=mCldyXOYNok">Combining deep reinforcement learning and search for imperfect-information games</a>.</li>
 </ul></li>
@@ -1575,8 +1584,8 @@ D_\mathrm{KL}(p, q)
 <h3 id="applications-in-physics">Applications in physics</h3>
 <ul>
 <li><a href="https://iml-wg.github.io/HEPML-LivingReview/">HEPML-LivingReview: A Living Review of Machine Learning for Particle Physics</a></li>
-<li>Spears, B.K. et al.&#xA0;(2018). Deep learning: A guide for practitioners in the physical sciences.<a href="#fn199" class="footnote-ref" id="fnref199" role="doc-noteref"><sup>199</sup></a></li>
-<li>Cranmer, K., Seljak, U., &amp; Terao, K. (2021). Machine learning (Review in the <a href="https://pdg.lbl.gov/2021-rev/2021/reviews/contents_sports.html">PDG</a>).<a href="#fn200" class="footnote-ref" id="fnref200" role="doc-noteref"><sup>200</sup></a></li>
+<li>Spears, B.K. et al.&#xA0;(2018). Deep learning: A guide for practitioners in the physical sciences.<a href="#fn204" class="footnote-ref" id="fnref204" role="doc-noteref"><sup>204</sup></a></li>
+<li>Cranmer, K., Seljak, U., &amp; Terao, K. (2021). Machine learning (Review in the <a href="https://pdg.lbl.gov/2021-rev/2021/reviews/contents_sports.html">PDG</a>).<a href="#fn205" class="footnote-ref" id="fnref205" role="doc-noteref"><sup>205</sup></a></li>
 </ul>
 <p>See also:</p>
 <ul>
@@ -1591,16 +1600,17 @@ D_\mathrm{KL}(p, q)
 <li>Naturally formalizes Occam&#x2019;s razor</li>
 <li>Incomputable</li>
 </ul></li>
-<li>Rathmanner, S. &amp; Hutter, M. (2011). A philosophical treatise of universal induction.<a href="#fn201" class="footnote-ref" id="fnref201" role="doc-noteref"><sup>201</sup></a></li>
+<li>Rathmanner, S. &amp; Hutter, M. (2011). A philosophical treatise of universal induction.<a href="#fn206" class="footnote-ref" id="fnref206" role="doc-noteref"><sup>206</sup></a></li>
 </ul>
 <h3 id="no-free-lunch-theorems">No free lunch theorems</h3>
 <ul>
 <li>David Wolpert and William G. Macready
 <ul>
-<li>No free lunch theorems for search (1995)<a href="#fn202" class="footnote-ref" id="fnref202" role="doc-noteref"><sup>202</sup></a></li>
-<li>The lack of a priori distinctions between learning algorithms (1996)<a href="#fn203" class="footnote-ref" id="fnref203" role="doc-noteref"><sup>203</sup></a></li>
-<li>No free lunch theorems for optimization (1997)<a href="#fn204" class="footnote-ref" id="fnref204" role="doc-noteref"><sup>204</sup></a></li>
-<li>McDermott, J. (2019). <a href="https://arxiv.org/abs/1906.03280">When and why metaheuristics researchers can ignore &#x201C;No Free Lunch&#x201D; theorems</a>.</li>
+<li>No free lunch theorems for search (1995)<a href="#fn207" class="footnote-ref" id="fnref207" role="doc-noteref"><sup>207</sup></a></li>
+<li>The lack of a priori distinctions between learning algorithms (1996)<a href="#fn208" class="footnote-ref" id="fnref208" role="doc-noteref"><sup>208</sup></a></li>
+<li>No free lunch theorems for optimization (1997)<a href="#fn209" class="footnote-ref" id="fnref209" role="doc-noteref"><sup>209</sup></a></li>
+<li>Shalev-Shwarz, S. &amp; Ben-David, S. (2014).<a href="#fn210" class="footnote-ref" id="fnref210" role="doc-noteref"><sup>210</sup></a></li>
+<li>McDermott, J. (2019). <a href="https://arxiv.org/abs/1906.03280">When and why metaheuristics researchers can ignore &#x201C;no free lunch&#x201D; theorems</a>.<a href="#fn211" class="footnote-ref" id="fnref211" role="doc-noteref"><sup>211</sup></a></li>
 </ul></li>
 <li>Blogs:
 <ul>
@@ -1613,24 +1623,24 @@ D_\mathrm{KL}(p, q)
 <li>Yudkowsky, E. (2007). <a href="https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias">Inductive bias</a>. <em>LessWrong</em>.</li>
 <li><a href="https://en.wikipedia.org/wiki/Ugly_duckling_theorem">Ugly duckling theorem</a></li>
 <li>Hamilton, L.D. (2014). <a href="http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms">The inductive biases of various machine learning algorithms</a>.</li>
-<li>Mitchell, T.M. (1990). The need for biases in learning generalizations.<a href="#fn205" class="footnote-ref" id="fnref205" role="doc-noteref"><sup>205</sup></a></li>
+<li>Mitchell, T.M. (1980). <a href="http://www.cs.cmu.edu/afs/cs/usr/mitchell/ftp/pubs/NeedForBias_1980.pdf">The need for biases in learning generalizations</a>.<a href="#fn212" class="footnote-ref" id="fnref212" role="doc-noteref"><sup>212</sup></a></li>
 </ul></li>
 <li>Gerhard Schurz
 <ul>
 <li>See also: <a href="scientific-method.html#meta-induction-as-a-solution-to-the-problem-of-induction">Meta-induction as a solution to the problem of induction</a></li>
 </ul></li>
-<li>Dan A. Roberts. (2021). <a href="https://arxiv.org/abs/2104.00008">Why is AI hard and physics simple?</a><a href="#fn206" class="footnote-ref" id="fnref206" role="doc-noteref"><sup>206</sup></a>
+<li>Dan A. Roberts. (2021). <a href="https://arxiv.org/abs/2104.00008">Why is AI hard and physics simple?</a><a href="#fn213" class="footnote-ref" id="fnref213" role="doc-noteref"><sup>213</sup></a>
 <ul>
 <li>See also: <a href="math.html#unreasonable-effectiveness">Unreasonable effectiveness</a></li>
 </ul></li>
 </ul>
 <p>Raissi et al.:</p>
 <blockquote>
-<p>encoding such structured information into a learning algorithm results in amplifying the information content of the data that the algorithm sees, enabling it to quickly steer itself towards the right solution and generalize well even when only a few training examples are available.<a href="#fn207" class="footnote-ref" id="fnref207" role="doc-noteref"><sup>207</sup></a></p>
+<p>encoding such structured information into a learning algorithm results in amplifying the information content of the data that the algorithm sees, enabling it to quickly steer itself towards the right solution and generalize well even when only a few training examples are available.<a href="#fn214" class="footnote-ref" id="fnref214" role="doc-noteref"><sup>214</sup></a></p>
 </blockquote>
 <p>Roberts:</p>
 <blockquote>
-<p>From an algorithmic complexity standpoint it is somewhat miraculous that we can compress our huge look-up table of experiment/outcome into such an efficient description. In many senses, this type of compression is precisely what we mean when we say that physics enables us to understand a given phenomenon.<a href="#fn208" class="footnote-ref" id="fnref208" role="doc-noteref"><sup>208</sup></a></p>
+<p>From an algorithmic complexity standpoint it is somewhat miraculous that we can compress our huge look-up table of experiment/outcome into such an efficient description. In many senses, this type of compression is precisely what we mean when we say that physics enables us to understand a given phenomenon.<a href="#fn215" class="footnote-ref" id="fnref215" role="doc-noteref"><sup>215</sup></a></p>
 </blockquote>
 <h3 id="graphical-tensor-notation">Graphical tensor notation</h3>
 <ul>
@@ -1641,26 +1651,26 @@ D_\mathrm{KL}(p, q)
 </ul>
 <h3 id="universal-approximation-theorem">Universal approximation theorem</h3>
 <ul>
-<li>Multi-layer perceptions with two or more layers are universal approximators.<a href="#fn209" class="footnote-ref" id="fnref209" role="doc-noteref"><sup>209</sup></a></li>
+<li>Multi-layer perceptions with two or more layers are universal approximators.<a href="#fn216" class="footnote-ref" id="fnref216" role="doc-noteref"><sup>216</sup></a></li>
 <li>Seemed to slow the interest in deeper networks?</li>
 </ul>
 <h3 id="relationship-to-statistical-mechanics">Relationship to statistical mechanics</h3>
 <ul>
 <li>Logistic/softmax and Boltzman factors</li>
-<li>Bahri<a href="#fn210" class="footnote-ref" id="fnref210" role="doc-noteref"><sup>210</sup></a></li>
-<li>Halverson<a href="#fn211" class="footnote-ref" id="fnref211" role="doc-noteref"><sup>211</sup></a></li>
-<li>Canatar, A., Bordelon, B., &amp; Pehlevan, C. (2020). <a href="https://arxiv.org/abs/2006.13198">Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks</a>.<a href="#fn212" class="footnote-ref" id="fnref212" role="doc-noteref"><sup>212</sup></a></li>
-<li>Roberts, Yaida, &amp; Hanin. (2021). <a href="https://deeplearningtheory.com/PDLT.pdf"><em>The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks</em></a>.<a href="#fn213" class="footnote-ref" id="fnref213" role="doc-noteref"><sup>213</sup></a>
+<li>Bahri<a href="#fn217" class="footnote-ref" id="fnref217" role="doc-noteref"><sup>217</sup></a></li>
+<li>Halverson<a href="#fn218" class="footnote-ref" id="fnref218" role="doc-noteref"><sup>218</sup></a></li>
+<li>Canatar, A., Bordelon, B., &amp; Pehlevan, C. (2020). <a href="https://arxiv.org/abs/2006.13198">Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks</a>.<a href="#fn219" class="footnote-ref" id="fnref219" role="doc-noteref"><sup>219</sup></a></li>
+<li>Roberts, Yaida, &amp; Hanin. (2021). <a href="https://deeplearningtheory.com/PDLT.pdf"><em>The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks</em></a>.<a href="#fn220" class="footnote-ref" id="fnref220" role="doc-noteref"><sup>220</sup></a>
 <ul>
 <li>Introduced in <a href="https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/">Facebook AI&#x2019;s blog</a></li>
 </ul></li>
 </ul>
 <h3 id="relationship-to-gauge-theory">Relationship to gauge theory</h3>
 <ul>
-<li>Cohen &amp; Welling. (2016). Group equivariant convolutional networks.<a href="#fn214" class="footnote-ref" id="fnref214" role="doc-noteref"><sup>214</sup></a></li>
-<li>Gauge equivariant convolutional networks and the icosahedral CNN (2019)<a href="#fn215" class="footnote-ref" id="fnref215" role="doc-noteref"><sup>215</sup></a></li>
+<li>Cohen &amp; Welling. (2016). Group equivariant convolutional networks.<a href="#fn221" class="footnote-ref" id="fnref221" role="doc-noteref"><sup>221</sup></a></li>
+<li>Gauge equivariant convolutional networks and the icosahedral CNN (2019)<a href="#fn222" class="footnote-ref" id="fnref222" role="doc-noteref"><sup>222</sup></a></li>
 <li>Pavlus, J. (2020). <a href="https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/">An idea from physics helps AI see in higher dimensions</a>.</li>
-<li>SE(3)-Transformers<a href="#fn216" class="footnote-ref" id="fnref216" role="doc-noteref"><sup>216</sup></a> and <a href="https://fabianfuchsml.github.io/alphafold2/">blog post</a>.</li>
+<li>SE(3)-Transformers<a href="#fn223" class="footnote-ref" id="fnref223" role="doc-noteref"><sup>223</sup></a> and <a href="https://fabianfuchsml.github.io/alphafold2/">blog post</a>.</li>
 <li><a href="https://e3nn.org/">e3nn: a modular PyTorch framework for Euclidean neural networks</a></li>
 <li><a href="https://github.com/Chen-Cai-OSU/awesome-equivariant-network">List of papers: Chen-Cai-OSU/awesome-equivariant-network</a></li>
 </ul>
@@ -1672,23 +1682,23 @@ D_\mathrm{KL}(p, q)
 <h2 id="information-geometry">Information geometry</h2>
 <h3 id="introduction-8">Introduction</h3>
 <ul>
-<li>Smith, L. (2019). <a href="http://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html">A gentle introduction to information geometry</a>.<a href="#fn217" class="footnote-ref" id="fnref217" role="doc-noteref"><sup>217</sup></a></li>
-<li>Nielsen, F. (2018). <a href="https://arxiv.org/abs/1808.08271">An elementary introduction to information geometry</a>.<a href="#fn218" class="footnote-ref" id="fnref218" role="doc-noteref"><sup>218</sup></a></li>
-<li>Amari, S. (2016). <em>Information Geometry and Its Applications</em>.<a href="#fn219" class="footnote-ref" id="fnref219" role="doc-noteref"><sup>219</sup></a></li>
+<li>Smith, L. (2019). <a href="http://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html">A gentle introduction to information geometry</a>.<a href="#fn224" class="footnote-ref" id="fnref224" role="doc-noteref"><sup>224</sup></a></li>
+<li>Nielsen, F. (2018). <a href="https://arxiv.org/abs/1808.08271">An elementary introduction to information geometry</a>.<a href="#fn225" class="footnote-ref" id="fnref225" role="doc-noteref"><sup>225</sup></a></li>
+<li>Amari, S. (2016). <em>Information Geometry and Its Applications</em>.<a href="#fn226" class="footnote-ref" id="fnref226" role="doc-noteref"><sup>226</sup></a></li>
 <li>Geomstats tutorial: <a href="https://geomstats.github.io/notebooks/06_information_geometry.html">Information geometry</a></li>
 </ul>
 <h3 id="geometric-understanding-of-classical-statistics">Geometric understanding of classical statistics</h3>
 <ul>
-<li>Balasubramanian, V. (1996). <a href="https://arxiv.org/abs/adap-org/9601001">A geometric formulation of Occam&#x2019;s razor for inference of parametric distributions</a>.<a href="#fn220" class="footnote-ref" id="fnref220" role="doc-noteref"><sup>220</sup></a></li>
-<li>Balasubramanian, V. (1996). <a href="https://arxiv.org/abs/cond-mat/9601030">Statistical inference, Occam&#x2019;s razor and statistical mechanics on the space of probability distributions</a>.<a href="#fn221" class="footnote-ref" id="fnref221" role="doc-noteref"><sup>221</sup></a></li>
-<li>Calin, O. &amp; Udriste, C. (2014). <em>Geometric Modeling in Probability and Statistics</em>.<a href="#fn222" class="footnote-ref" id="fnref222" role="doc-noteref"><sup>222</sup></a></li>
+<li>Balasubramanian, V. (1996). <a href="https://arxiv.org/abs/adap-org/9601001">A geometric formulation of Occam&#x2019;s razor for inference of parametric distributions</a>.<a href="#fn227" class="footnote-ref" id="fnref227" role="doc-noteref"><sup>227</sup></a></li>
+<li>Balasubramanian, V. (1996). <a href="https://arxiv.org/abs/cond-mat/9601030">Statistical inference, Occam&#x2019;s razor and statistical mechanics on the space of probability distributions</a>.<a href="#fn228" class="footnote-ref" id="fnref228" role="doc-noteref"><sup>228</sup></a></li>
+<li>Calin, O. &amp; Udriste, C. (2014). <em>Geometric Modeling in Probability and Statistics</em>.<a href="#fn229" class="footnote-ref" id="fnref229" role="doc-noteref"><sup>229</sup></a></li>
 <li>Cranmer: <a href="http://theoryandpractice.org/stats-ds-book/statistics/information-geometry.html">Information geometry</a> (coming soon?)</li>
 </ul>
 <h3 id="geometric-understanding-of-deep-learning">Geometric understanding of deep learning</h3>
 <ul>
-<li>Lei, N. et al.&#xA0;(2018). Geometric understanding of deep learning.<a href="#fn223" class="footnote-ref" id="fnref223" role="doc-noteref"><sup>223</sup></a></li>
-<li>Gao, Y. &amp; Chaudhari, P. (2020). <a href="https://arxiv.org/abs/2011.00613">An information-geometric distance on the space of tasks</a>.<a href="#fn224" class="footnote-ref" id="fnref224" role="doc-noteref"><sup>224</sup></a></li>
-<li>Bronstein, M.M. et al.&#xA0;(2021). <a href="https://arxiv.org/abs/2104.13478">Geometric deep learning: Grids, groups, graphs, geodesics, and gauges</a>.<a href="#fn225" class="footnote-ref" id="fnref225" role="doc-noteref"><sup>225</sup></a></li>
+<li>Lei, N. et al.&#xA0;(2018). Geometric understanding of deep learning.<a href="#fn230" class="footnote-ref" id="fnref230" role="doc-noteref"><sup>230</sup></a></li>
+<li>Gao, Y. &amp; Chaudhari, P. (2020). <a href="https://arxiv.org/abs/2011.00613">An information-geometric distance on the space of tasks</a>.<a href="#fn231" class="footnote-ref" id="fnref231" role="doc-noteref"><sup>231</sup></a></li>
+<li>Bronstein, M.M. et al.&#xA0;(2021). <a href="https://arxiv.org/abs/2104.13478">Geometric deep learning: Grids, groups, graphs, geodesics, and gauges</a>.<a href="#fn232" class="footnote-ref" id="fnref232" role="doc-noteref"><sup>232</sup></a></li>
 </ul>
 <h2 id="automation">Automation</h2>
 <h3 id="automl">AutoML</h3>
@@ -1704,20 +1714,20 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>The manifold hypothesis</li>
 <li>Olah, C. (2014). <a href="https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/">Neural networks, manifolds, and topology</a>.</li>
-<li>Fefferman, C., Mitter, S., &amp; Narayanan, H. (2016). <a href="https://www.ams.org/journals/jams/2016-29-04/S0894-0347-2016-00852-4/S0894-0347-2016-00852-4.pdf">Testing the manifold hypothesis</a>.<a href="#fn226" class="footnote-ref" id="fnref226" role="doc-noteref"><sup>226</sup></a></li>
+<li>Fefferman, C., Mitter, S., &amp; Narayanan, H. (2016). <a href="https://www.ams.org/journals/jams/2016-29-04/S0894-0347-2016-00852-4/S0894-0347-2016-00852-4.pdf">Testing the manifold hypothesis</a>.<a href="#fn233" class="footnote-ref" id="fnref233" role="doc-noteref"><sup>233</sup></a></li>
 </ul></li>
 <li>Physical constratints in loss functions
 <ul>
-<li>Raissi, M., Perdikaris, P., &amp; Karniadakis, G.E. (2017). <a href="https://arxiv.org/abs/1711.10561">Physics informed deep learning (Part I)</a> and <a href="https://arxiv.org/abs/1711.10566">(Part II)</a>.<a href="#fn227" class="footnote-ref" id="fnref227" role="doc-noteref"><sup>227</sup></a></li>
-<li>Karniadakis, G.E. et al.&#xA0;(2021). <a href="https://www.nature.com/articles/s42254-021-00314-5">Physics-informed machine learning</a>.<a href="#fn228" class="footnote-ref" id="fnref228" role="doc-noteref"><sup>228</sup></a></li>
-<li>Howard, J.N. et al.&#xA0;(2021). <a href="https://arxiv.org/abs/2101.08944">Foundations of a fast, data-driven, machine-learned simulator</a>.<a href="#fn229" class="footnote-ref" id="fnref229" role="doc-noteref"><sup>229</sup></a></li>
-<li>Thuerey, N. et al.&#xA0;(2021). <a href="https://arxiv.org/abs/2109.05237">Physics-based deep learning</a>.<a href="#fn230" class="footnote-ref" id="fnref230" role="doc-noteref"><sup>230</sup></a></li>
+<li>Raissi, M., Perdikaris, P., &amp; Karniadakis, G.E. (2017). <a href="https://arxiv.org/abs/1711.10561">Physics informed deep learning (Part I)</a> and <a href="https://arxiv.org/abs/1711.10566">(Part II)</a>.<a href="#fn234" class="footnote-ref" id="fnref234" role="doc-noteref"><sup>234</sup></a></li>
+<li>Karniadakis, G.E. et al.&#xA0;(2021). <a href="https://www.nature.com/articles/s42254-021-00314-5">Physics-informed machine learning</a>.<a href="#fn235" class="footnote-ref" id="fnref235" role="doc-noteref"><sup>235</sup></a></li>
+<li>Howard, J.N. et al.&#xA0;(2021). <a href="https://arxiv.org/abs/2101.08944">Foundations of a fast, data-driven, machine-learned simulator</a>.<a href="#fn236" class="footnote-ref" id="fnref236" role="doc-noteref"><sup>236</sup></a></li>
+<li>Thuerey, N. et al.&#xA0;(2021). <a href="https://arxiv.org/abs/2109.05237">Physics-based deep learning</a>.<a href="#fn237" class="footnote-ref" id="fnref237" role="doc-noteref"><sup>237</sup></a></li>
 <li><a href="https://physicsbaseddeeplearning.org/intro.html">physicsbaseddeeplearning.org</a></li>
 </ul></li>
 <li>Simulation-based inference
 <ul>
-<li>Cranmer, K., Brehmer, J., &amp; Louppe, G. (2019). <a href="https://arxiv.org/abs/1911.01429">The frontier of simulation-based inference</a>.<a href="#fn231" class="footnote-ref" id="fnref231" role="doc-noteref"><sup>231</sup></a></li>
-<li>Baydin, A.G. et al.&#xA0;(2019). <a href="https://arxiv.org/abs/1907.03382">Etalumis: Bringing probabilistic programming to scientific simulators at scale</a>.<a href="#fn232" class="footnote-ref" id="fnref232" role="doc-noteref"><sup>232</sup></a></li>
+<li>Cranmer, K., Brehmer, J., &amp; Louppe, G. (2019). <a href="https://arxiv.org/abs/1911.01429">The frontier of simulation-based inference</a>.<a href="#fn238" class="footnote-ref" id="fnref238" role="doc-noteref"><sup>238</sup></a></li>
+<li>Baydin, A.G. et al.&#xA0;(2019). <a href="https://arxiv.org/abs/1907.03382">Etalumis: Bringing probabilistic programming to scientific simulators at scale</a>.<a href="#fn239" class="footnote-ref" id="fnref239" role="doc-noteref"><sup>239</sup></a></li>
 </ul></li>
 </ul>
 <p>Lectures:</p>
@@ -1727,21 +1737,21 @@ D_\mathrm{KL}(p, q)
 <h3 id="autoscience">AutoScience</h3>
 <ul>
 <li>Automated discovery</li>
-<li>Anderson, C. (2008). <a href="https://www.wired.com/2008/06/pb-theory/">The End of Theory: The data deluge makes the scientific method obsolete</a>.<a href="#fn233" class="footnote-ref" id="fnref233" role="doc-noteref"><sup>233</sup></a></li>
+<li>Anderson, C. (2008). <a href="https://www.wired.com/2008/06/pb-theory/">The End of Theory: The data deluge makes the scientific method obsolete</a>.<a href="#fn240" class="footnote-ref" id="fnref240" role="doc-noteref"><sup>240</sup></a></li>
 <li>Cranmer, K. (2017). <a href="https://github.com/cranmer/active_sciencing">Active sciencing</a>.</li>
-<li>Asch, M. et al.&#xA0;(2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry.<a href="#fn234" class="footnote-ref" id="fnref234" role="doc-noteref"><sup>234</sup></a>
+<li>Asch, M. et al.&#xA0;(2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry.<a href="#fn241" class="footnote-ref" id="fnref241" role="doc-noteref"><sup>241</sup></a>
 <ul>
 <li>Note that this description of abduction is missing that it is normative (i.e.&#xA0;&#x201C;best-fit&#x201D;).</li>
 </ul></li>
-<li>D&#x2019;Agnolo, R.T. &amp; Wulzer, A. (2019). <a href="https://arxiv.org/abs/1806.02350">Learning New Physics from a Machine</a>.<a href="#fn235" class="footnote-ref" id="fnref235" role="doc-noteref"><sup>235</sup></a></li>
-<li>Udrescu, S. &amp; Tegmark, M. (2020). <a href="https://arxiv.org/abs/2005.11212">Symbolic pregression: Discovering physical laws from raw distorted video</a>.<a href="#fn236" class="footnote-ref" id="fnref236" role="doc-noteref"><sup>236</sup></a></li>
-<li>Cranmer, M. et al.&#xA0;(2020). <a href="https://arxiv.org/abs/2006.11287">Discovering symbolic models from deep learning with inductive biases</a>.<a href="#fn237" class="footnote-ref" id="fnref237" role="doc-noteref"><sup>237</sup></a>
+<li>D&#x2019;Agnolo, R.T. &amp; Wulzer, A. (2019). <a href="https://arxiv.org/abs/1806.02350">Learning New Physics from a Machine</a>.<a href="#fn242" class="footnote-ref" id="fnref242" role="doc-noteref"><sup>242</sup></a></li>
+<li>Udrescu, S. &amp; Tegmark, M. (2020). <a href="https://arxiv.org/abs/2005.11212">Symbolic pregression: Discovering physical laws from raw distorted video</a>.<a href="#fn243" class="footnote-ref" id="fnref243" role="doc-noteref"><sup>243</sup></a></li>
+<li>Cranmer, M. et al.&#xA0;(2020). <a href="https://arxiv.org/abs/2006.11287">Discovering symbolic models from deep learning with inductive biases</a>.<a href="#fn244" class="footnote-ref" id="fnref244" role="doc-noteref"><sup>244</sup></a>
 <ul>
 <li>Video: <a href="https://www.youtube.com/watch?v=LMb5tvW-UoQ">Discussion by Yannic Kilcher</a></li>
 </ul></li>
 </ul>
 <figure>
-<img src="img/BDEC-scientific-method.png" id="fig:BDEC-scientific-method" alt="Figure 13: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis." /><figcaption aria-hidden="true">Figure 13: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.<a href="#fn238" class="footnote-ref" id="fnref238" role="doc-noteref"><sup>238</sup></a></figcaption>
+<img src="img/BDEC-scientific-method.png" id="fig:BDEC-scientific-method" alt="Figure 13: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis." /><figcaption aria-hidden="true">Figure 13: The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis.<a href="#fn245" class="footnote-ref" id="fnref245" role="doc-noteref"><sup>245</sup></a></figcaption>
 </figure>
 <p>See also:</p>
 <ul>
@@ -1750,9 +1760,9 @@ D_\mathrm{KL}(p, q)
 <h2 id="implications-for-the-realism-debate">Implications for the realism debate</h2>
 <h3 id="introduction-9">Introduction</h3>
 <ul>
-<li>Korb<a href="#fn239" class="footnote-ref" id="fnref239" role="doc-noteref"><sup>239</sup></a></li>
-<li>Williamson<a href="#fn240" class="footnote-ref" id="fnref240" role="doc-noteref"><sup>240</sup></a></li>
-<li>Bensusan<a href="#fn241" class="footnote-ref" id="fnref241" role="doc-noteref"><sup>241</sup></a></li>
+<li>Korb<a href="#fn246" class="footnote-ref" id="fnref246" role="doc-noteref"><sup>246</sup></a></li>
+<li>Williamson<a href="#fn247" class="footnote-ref" id="fnref247" role="doc-noteref"><sup>247</sup></a></li>
+<li>Bensusan<a href="#fn248" class="footnote-ref" id="fnref248" role="doc-noteref"><sup>248</sup></a></li>
 </ul>
 <p>See also:</p>
 <ul>
@@ -1770,7 +1780,7 @@ D_\mathrm{KL}(p, q)
 <h3 id="word-meanings">Word meanings</h3>
 <ul>
 <li>Note that NLP has implications to the philosophy of language and realism</li>
-<li><a href="http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/">NLP word representations and the Wittgenstein philosophy of language</a>.<a href="#fn242" class="footnote-ref" id="fnref242" role="doc-noteref"><sup>242</sup></a></li>
+<li><a href="http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/">NLP word representations and the Wittgenstein philosophy of language</a>.<a href="#fn249" class="footnote-ref" id="fnref249" role="doc-noteref"><sup>249</sup></a></li>
 </ul>
 <p>See also:</p>
 <ul>
@@ -1851,8 +1861,8 @@ D_\mathrm{KL}(p, q)
 <hr />
 <h3 id="more-articles-to-do">More articles to do</h3>
 <ul>
-<li><em>All of Statistics</em><a href="#fn243" class="footnote-ref" id="fnref243" role="doc-noteref"><sup>243</sup></a></li>
-<li><em>The Foundations of Statistics</em><a href="#fn244" class="footnote-ref" id="fnref244" role="doc-noteref"><sup>244</sup></a></li>
+<li><em>All of Statistics</em><a href="#fn250" class="footnote-ref" id="fnref250" role="doc-noteref"><sup>250</sup></a></li>
+<li><em>The Foundations of Statistics</em><a href="#fn251" class="footnote-ref" id="fnref251" role="doc-noteref"><sup>251</sup></a></li>
 </ul>
 </div>
 <h2 id="links-and-encyclopedia-articles">Links and encyclopedia articles</h2>
@@ -2422,6 +2432,9 @@ Mayo, D. G. &amp; Spanos, A. (2006). <span class="nocase">Severe testing as a ba
 <div id="ref-Mayo_2011_Error_statistics" class="csl-entry" role="doc-biblioentry">
 &#x2014;&#x2014;&#x2014;. (2011). <span class="nocase">Error statistics</span>. In <em><span class="nocase">Philosophy of Statistics</span></em> (pp. 153&#x2013;198). <span>North-Holland</span>.
 </div>
+<div id="ref-McDermott_2019_When_and_why_metaheuristics_researchers_can_ignore" class="csl-entry" role="doc-biblioentry">
+McDermott, J. (2019). <span class="nocase">When and why metaheuristics researchers can ignore "no free lunch" theorems</span>. <a href="https://arxiv.org/abs/1906.03280">https://arxiv.org/abs/1906.03280</a>
+</div>
 <div id="ref-McFadden_1973_Conditional_logit_analysis_of_qualitative_choice" class="csl-entry" role="doc-biblioentry">
 McFadden, D. &amp; Zarembka, P. (1973). <span class="nocase">Conditional logit analysis of qualitative choice behavior</span>. In <em><span class="nocase">Frontiers in Econometrics</span></em> (pp. 105&#x2013;142). New York: <span>Academic Press</span>.
 </div>
@@ -2431,8 +2444,8 @@ Mikolov, T., Chen, K., Corrado, G., &amp; Dean, J. (2013). <span class="nocase">
 <div id="ref-Mikolov_2013_Linguistic_regularities_in_continuous_space_word" class="csl-entry" role="doc-biblioentry">
 Mikolov, T., Yih, W. T., &amp; Zweig, G. (2013). <span class="nocase">Linguistic regularities in continuous space word representations</span>. NAACL HLT 2013. <a href="https://www.aclweb.org/anthology/N13-1090.pdf">https://www.aclweb.org/anthology/N13-1090.pdf</a>
 </div>
-<div id="ref-Mitchell_1990_The_need_for_biases_in_learning_generalizations" class="csl-entry" role="doc-biblioentry">
-Mitchell, T. M. (1990). <span class="nocase">The need for biases in learning generalizations</span>. In <em><span class="nocase">Readings in Machine Learning</span></em> (pp. 184&#x2013;192). <span>San Mateo, CA, USA</span>. <a href="http://dml.cs.byu.edu/~cgc/docs/mldm_tools/Reading/Need%20for%20Bias.pdf">http://dml.cs.byu.edu/~cgc/docs/mldm_tools/Reading/Need%20for%20Bias.pdf</a>
+<div id="ref-Mitchell_1980_The_need_for_biases_in_learning_generalizations" class="csl-entry" role="doc-biblioentry">
+Mitchell, T. M. (1980). <span class="nocase">The need for biases in learning generalizations</span>. In <em><span class="nocase">Readings in Machine Learning</span></em> (pp. 184&#x2013;192). <span>San Mateo, CA, USA</span>. <a href="http://www.cs.cmu.edu/afs/cs/usr/mitchell/ftp/pubs/NeedForBias_1980.pdf">http://www.cs.cmu.edu/afs/cs/usr/mitchell/ftp/pubs/NeedForBias_1980.pdf</a>
 </div>
 <div id="ref-Mnih_2013_Playing_Atari_with_deep_reinforcement_learning" class="csl-entry" role="doc-biblioentry">
 Mnih, V. et al. (2013). <span class="nocase">Playing Atari with deep reinforcement learning</span>. <a href="https://arxiv.org/abs/1312.5602">https://arxiv.org/abs/1312.5602</a>
@@ -2544,6 +2557,9 @@ Salsburg, D. (2001). <em><span>The Lady Tasting Tea</span></em>. <span>Holt</spa
 </div>
 <div id="ref-Savage_1954_The_Foundations_of_Statistics" class="csl-entry" role="doc-biblioentry">
 Savage, L. J. (1954). <em><span class="nocase">The Foundations of Statistics</span></em>. <span>John Wiley &amp; Sons</span>.
+</div>
+<div id="ref-Shalev_Shwarz_2014_Understanding_Machine_Learning_From_Theory" class="csl-entry" role="doc-biblioentry">
+Shalev-Shwarz, S. &amp; Ben-David, S. (2014). <em><span class="nocase">Understanding Machine Learning: From Theory to Algorithms</span></em>. <span>Cambridge University Press</span>. <a href="https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf">https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf</a>
 </div>
 <div id="ref-Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks" class="csl-entry" role="doc-biblioentry">
 Silver, D. et al. (2016). <span class="nocase">Mastering the game of Go with deep neural networks and tree search.</span> <em>Nature</em>, <em><span>529</span></em>, 484&#x2013;489.
@@ -2664,6 +2680,9 @@ Wu, Y. et al. (2016). <span class="nocase">Google&#x2019;s neural machine transl
 </div>
 <div id="ref-Yang_2019_XLNet_Generalized_autoregressive_pretraining" class="csl-entry" role="doc-biblioentry">
 Yang, Z. et al. (2019). <span class="nocase">XLNet: Generalized autoregressive pretraining for language understanding</span>. <a href="https://arxiv.org/abs/1906.08237">https://arxiv.org/abs/1906.08237</a>
+</div>
+<div id="ref-Zaheer_2020_Big_Bird_Transformers_for_longer_sequences" class="csl-entry" role="doc-biblioentry">
+Zaheer, M. et al. (2020). <span class="nocase">Big Bird: Transformers for longer sequences</span>. <a href="https://arxiv.org/abs/2007.14062">https://arxiv.org/abs/2007.14062</a>
 </div>
 <div id="ref-Zech_1995_Comparing_statistical_data_to_Monte_Carlo" class="csl-entry" role="doc-biblioentry">
 Zech, G. (1995). <span class="nocase">Comparing statistical data to Monte Carlo simulation: Parameter fitting and unfolding</span>. (DESY-95-113). Deutsches Elektronen-Synchrotron (DESY). <a href="https://cds.cern.ch/record/284321">https://cds.cern.ch/record/284321</a>
@@ -2797,128 +2816,135 @@ Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). <span class
 <li id="fn120" role="doc-endnote"><p><span class="citation" data-cites="Benjamini_2021_The_ASA_presidents_task_force_statement_on">Benjamini, Y. et al. (2021)</span>, p.&#xA0;1.<a href="#fnref120" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn121" role="doc-endnote"><p><span class="citation" data-cites="Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining">Hastie, Tibshirani, &amp; Friedman (2009)</span>.<a href="#fnref121" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn122" role="doc-endnote"><p><span class="citation" data-cites="MacKay_2003_Information_Theory_Inference_and_Learning">MacKay (2003)</span>.<a href="#fnref122" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn123" role="doc-endnote"><p><span class="citation" data-cites="Vapnik_1994_Measuring_the_VC_dimension_of_a_learning_machine">Vapnik, Levin, &amp; LeCun (1994)</span>.<a href="#fnref123" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn124" role="doc-endnote"><p><span class="citation" data-cites="Murphy_2012_Machine_Learning_A_probabilistic_perspective">Murphy (2012)</span>, p.&#xA0;21.<a href="#fnref124" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn125" role="doc-endnote"><p>Note: <em>Label smoothing</em> is a regularization technique that smears the activation over other labels, but we don&#x2019;t do that here.<a href="#fnref125" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn126" role="doc-endnote"><p>&#x201C;Logit&#x201D; was coined by <a href="https://en.wikipedia.org/wiki/Joseph_Berkson">Joseph Berkson</a> (1899-1982).<a href="#fnref126" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn127" role="doc-endnote"><p><span class="citation" data-cites="McFadden_1973_Conditional_logit_analysis_of_qualitative_choice">McFadden &amp; Zarembka (1973)</span>.<a href="#fnref127" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn128" role="doc-endnote"><p><span class="citation" data-cites="Blondel_2020_Learning_with_Fenchel_Young_losses">Blondel, Martins, &amp; Niculae (2020)</span>.<a href="#fnref128" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn129" role="doc-endnote"><p><span class="citation" data-cites="Goodfellow_2016_Deep_Learning">Goodfellow et al. (2016)</span>, p.&#xA0;129.<a href="#fnref129" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn130" role="doc-endnote"><p><span class="citation" data-cites="Batson_2021_Topological_obstructions_to_autoencoding">Batson, Haaf, Kahn, &amp; Roberts (2021)</span>.<a href="#fnref130" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn131" role="doc-endnote"><p><span class="citation" data-cites="Hennig_2015_What_are_the_true_clusters">Hennig (2015)</span>.<a href="#fnref131" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn132" role="doc-endnote"><p><span class="citation" data-cites="Bengio_2009_Learning_deep_architectures_for_AI">Bengio (2009)</span>.<a href="#fnref132" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn133" role="doc-endnote"><p><span class="citation" data-cites="LeCun_2015_Deep_learning">LeCun, Bengio, &amp; Hinton (2015)</span>.<a href="#fnref133" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn134" role="doc-endnote"><p><span class="citation" data-cites="Goodfellow_2016_Deep_Learning">Goodfellow et al. (2016)</span>.<a href="#fnref134" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn135" role="doc-endnote"><p><span class="citation" data-cites="Kaplan_2019_Notes_on_contemporary_machine_learning">Kaplan, J. et al. (2019)</span>.<a href="#fnref135" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn136" role="doc-endnote"><p><span class="citation" data-cites="Rumelhart_1986_Learning_representations_by_back_propagating">Rumelhart, Hinton, &amp; Williams (1986)</span>.<a href="#fnref136" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn137" role="doc-endnote"><p><span class="citation" data-cites="Sutton_2019_The_bitter_lesson">Sutton (2019)</span>.<a href="#fnref137" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn138" role="doc-endnote"><p><span class="citation" data-cites="Watson_2019_The_explanation_game_A_formal_framework">Watson &amp; Floridi (2019)</span>.<a href="#fnref138" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn139" role="doc-endnote"><p><span class="citation" data-cites="Bengio_2009_Learning_deep_architectures_for_AI">Bengio (2009)</span>.<a href="#fnref139" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn140" role="doc-endnote"><p><span class="citation" data-cites="Belkin_2019_Reconciling_modern_machine_learning_practice">Belkin, Hsu, Ma, &amp; Mandal (2019)</span>.<a href="#fnref140" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn141" role="doc-endnote"><p><span class="citation" data-cites="Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more">Nakkiran, P. et al. (2019)</span>.<a href="#fnref141" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn142" role="doc-endnote"><p><span class="citation" data-cites="Dar_2021_A_farewell_to_the_bias_variance_tradeoff">Dar, Muthukumar, &amp; Baraniuk (2021)</span>.<a href="#fnref142" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn143" role="doc-endnote"><p><span class="citation" data-cites="Balestriero_2021_Learning_in_high_dimension_always_amounts">Balestriero, Pesenti, &amp; LeCun (2021)</span>.<a href="#fnref143" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn144" role="doc-endnote"><p><span class="citation" data-cites="Nagarajan_2021_Explaining_generalization_in_deep_learning">Nagarajan (2021)</span>.<a href="#fnref144" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn145" role="doc-endnote"><p><span class="citation" data-cites="Bubeck_2021_A_universal_law_of_robustness_via_isoperimetry">Bubeck &amp; Sellke (2021)</span>.<a href="#fnref145" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn146" role="doc-endnote"><p>Mishra, D. (2020). <a href="https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd">Weight Decay == L2 Regularization?</a><a href="#fnref146" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn147" role="doc-endnote"><p><span class="citation" data-cites="Chen_2020_A_group_theoretic_framework_for_data_augmentation">Chen, Dobriban, &amp; Lee (2020)</span>.<a href="#fnref147" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn148" role="doc-endnote"><p><span class="citation" data-cites="Fukushima_1982_Neocognitron_A_new_algorithm_for_pattern">Fukushima &amp; Miyake (1982)</span>.<a href="#fnref148" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn149" role="doc-endnote"><p><span class="citation" data-cites="LeCun_1989_Backpropagation_applied_to_handwritten_zip_code">LeCun, Y. et al. (1989)</span>.<a href="#fnref149" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn150" role="doc-endnote"><p><span class="citation" data-cites="LeCun_1998_Gradient_based_learning_applied_to_document">LeCun, Bottou, Bengio, &amp; Haffner (1998)</span>.<a href="#fnref150" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn151" role="doc-endnote"><p><span class="citation" data-cites="Ciresan_2012_Multi_column_deep_neural_network_for_traffic_sign">Ciresan, Meier, Masci, &amp; Schmidhuber (2012)</span>.<a href="#fnref151" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn152" role="doc-endnote"><p><span class="citation" data-cites="Krizhevsky_2012_ImageNet_classification_with_deep_convolutional">Krizhevsky, Sutskever, &amp; Hinton (2012)</span>.<a href="#fnref152" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn153" role="doc-endnote"><p><span class="citation" data-cites="Simonyan_2014_Very_deep_convolutional_networks_for_large_scale">Simonyan &amp; Zisserman (2014)</span>.<a href="#fnref153" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn154" role="doc-endnote"><p><span class="citation" data-cites="He_2015_Deep_residual_learning_for_image_recognition">He, Zhang, Ren, &amp; Sun (2015)</span>.<a href="#fnref154" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn155" role="doc-endnote"><p><span class="citation" data-cites="Howard_2017_MobileNets_Efficient_convolutional_neural">Howard, A.G. et al. (2017)</span>.<a href="#fnref155" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn156" role="doc-endnote"><p><span class="citation" data-cites="Tan_2019_EfficientNet_Rethinking_model_scaling">Tan &amp; Le (2019)</span>.<a href="#fnref156" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn157" role="doc-endnote"><p><span class="citation" data-cites="Dosovitskiy_2020_An_image_is_worth_16x16_words_Transformers">Dosovitskiy, A. et al. (2020)</span>.<a href="#fnref157" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn158" role="doc-endnote"><p><span class="citation" data-cites="Tan_2021_EfficientNetV2_Smaller_models_and_faster_training">Tan &amp; Le (2021)</span>.<a href="#fnref158" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn159" role="doc-endnote"><p><span class="citation" data-cites="Liu_2021_Pay_attention_to_MLPs">Liu, Dai, So, &amp; Le (2021)</span>.<a href="#fnref159" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn160" role="doc-endnote"><p><span class="citation" data-cites="Ingrosso_2022_Data_driven_emergence_of_convolutional_structure">Ingrosso &amp; Goldt (2022)</span>.<a href="#fnref160" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn161" role="doc-endnote"><p><span class="citation" data-cites="Park_2022_How_do_vision_transformers_work">Park &amp; Kim (2022)</span>.<a href="#fnref161" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn162" role="doc-endnote"><p><span class="citation" data-cites="Firth_1957_A_synopsis_of_linguistic_theory_1930_1955">Firth (1957)</span>.<a href="#fnref162" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn163" role="doc-endnote"><p><span class="citation" data-cites="Nirenburg_1996_Bar_Hillel_and_Machine_Translation_Then_and_Now">Nirenburg (1996)</span>.<a href="#fnref163" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn164" role="doc-endnote"><p><span class="citation" data-cites="Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution">Hutchins (2000)</span>.<a href="#fnref164" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn165" role="doc-endnote"><p><span class="citation" data-cites="Mikolov_2013_Efficient_estimation_of_word_representations">Mikolov, Chen, Corrado, &amp; Dean (2013)</span> and <span class="citation" data-cites="Mikolov_2013_Linguistic_regularities_in_continuous_space_word">Mikolov, Yih, &amp; Zweig (2013)</span>.<a href="#fnref165" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn166" role="doc-endnote"><p><span class="citation" data-cites="Hochreiter_1997_Long_short_term_memory">Hochreiter &amp; Schmidhuber (1997)</span>.<a href="#fnref166" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn167" role="doc-endnote"><p><span class="citation" data-cites="Sutskever_2014_Sequence_to_sequence_learning_with_neural">Sutskever, Vinyals, &amp; Le (2014)</span>.<a href="#fnref167" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn168" role="doc-endnote"><p><span class="citation" data-cites="Bahdanau_2015_Neural_machine_translation_by_jointly_learning">Bahdanau, Cho, &amp; Bengio (2015)</span>.<a href="#fnref168" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn169" role="doc-endnote"><p><span class="citation" data-cites="Wu_2016_Googles_neural_machine_translation_system">Wu, Y. et al. (2016)</span>.<a href="#fnref169" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn170" role="doc-endnote"><p><span class="citation" data-cites="Stahlberg_2019_Neural_machine_translation_A_review">Stahlberg (2019)</span>.<a href="#fnref170" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn171" role="doc-endnote"><p><span class="citation" data-cites="Church_2019_A_survey_of_25_years_of_evaluation">Church &amp; Hestness (2019)</span>.<a href="#fnref171" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn172" role="doc-endnote"><p><span class="citation" data-cites="Kaplan_2020_Scaling_laws_for_neural_language_models">Kaplan, J. et al. (2020)</span>.<a href="#fnref172" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn173" role="doc-endnote"><p><span class="citation" data-cites="Vaswani_2017_Attention_is_all_you_need">Vaswani, A. et al. (2017)</span>.<a href="#fnref173" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn174" role="doc-endnote"><p><span class="citation" data-cites="Devlin_2018_BERT_Pre_training_of_deep_bidirectional">Devlin, Chang, Lee, &amp; Toutanova (2018)</span>.<a href="#fnref174" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn175" role="doc-endnote"><p><span class="citation" data-cites="Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning">Lan, Z. et al. (2019)</span>.<a href="#fnref175" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn176" role="doc-endnote"><p><span class="citation" data-cites="Radford_2018_Improving_language_understanding_by_generative">Radford, Narasimhan, Salimans, &amp; Sutskever (2018)</span>.<a href="#fnref176" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn177" role="doc-endnote"><p><span class="citation" data-cites="Radford_2019_Language_models_are_unsupervised_multitask">Radford, A. et al. (2019)</span>.<a href="#fnref177" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn178" role="doc-endnote"><p><span class="citation" data-cites="Brown_2020_Language_models_are_few_shot_learners">Brown, T.B. et al. (2020)</span>.<a href="#fnref178" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn179" role="doc-endnote"><p><span class="citation" data-cites="Yang_2019_XLNet_Generalized_autoregressive_pretraining">Yang, Z. et al. (2019)</span>.<a href="#fnref179" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn180" role="doc-endnote"><p><span class="citation" data-cites="Sutton_2018_Reinforcement_Learning">Sutton &amp; Barto (2018)</span>.<a href="#fnref180" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn181" role="doc-endnote"><p><span class="citation" data-cites="Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey">Arulkumaran, Deisenroth, Brundage, &amp; Bharath (2017)</span>.<a href="#fnref181" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn182" role="doc-endnote"><p><span class="citation" data-cites="Bellman_1952_On_the_theory_of_dynamic_programming">Bellman (1952)</span>.<a href="#fnref182" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn183" role="doc-endnote"><p><span class="citation" data-cites="Mnih_2013_Playing_Atari_with_deep_reinforcement_learning">Mnih, V. et al. (2013)</span> and <span class="citation" data-cites="Mnih_2015_Human_level_control_through_deep_reinforcement">Mnih, V. et al. (2015)</span>.<a href="#fnref183" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn184" role="doc-endnote"><p><span class="citation" data-cites="Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks">Silver, D. et al. (2016)</span>.<a href="#fnref184" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn185" role="doc-endnote"><p><span class="citation" data-cites="Silver_2017_Mastering_the_game_of_Go_without_human_knowledge">Silver, D. et al. (2017b)</span>.<a href="#fnref185" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn186" role="doc-endnote"><p><span class="citation" data-cites="Silver_2017_Mastering_chess_and_shogi_by_self_play">Silver, D. et al. (2017a)</span>.<a href="#fnref186" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn187" role="doc-endnote"><p><span class="citation" data-cites="Zinkevich_2007_Regret_minimization_in_games_with_incomplete">Zinkevich, Johanson, Bowling, &amp; Piccione (2007)</span>.<a href="#fnref187" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn188" role="doc-endnote"><p><span class="citation" data-cites="Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization">Lanctot, Waugh, Zinkevich, &amp; Bowling (2009)</span>.<a href="#fnref188" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn189" role="doc-endnote"><p><span class="citation" data-cites="Neller_2013_An_introduction_to_counterfactual_regret">Neller &amp; Lanctot (2013)</span>.<a href="#fnref189" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn190" role="doc-endnote"><p><span class="citation" data-cites="Bowling_2015_Heads_up_limit_holdem_poker_is_solved">Bowling, Burch, Johanson, &amp; Tammelin (2015)</span>.<a href="#fnref190" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn191" role="doc-endnote"><p><span class="citation" data-cites="Heinrich_2016_Deep_reinforcement_learning_from_self_play">Heinrich &amp; Silver (2016)</span>.<a href="#fnref191" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn192" role="doc-endnote"><p><span class="citation" data-cites="Moravcik_2017_DeepStack_Expert_level_artificial_intelligence">Moravcik, M. et al. (2017)</span>.<a href="#fnref192" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn193" role="doc-endnote"><p><span class="citation" data-cites="Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker">N. Brown &amp; Sandholm (2018)</span>.<a href="#fnref193" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn194" role="doc-endnote"><p><span class="citation" data-cites="Brown_2019_Solving_imperfect_information_games_via_discounted">N. Brown &amp; Sandholm (2019a)</span>.<a href="#fnref194" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn195" role="doc-endnote"><p><span class="citation" data-cites="Brown_2019_Deep_counterfactual_regret_minimization">N. Brown, Lerer, Gross, &amp; Sandholm (2019)</span>.<a href="#fnref195" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn196" role="doc-endnote"><p><span class="citation" data-cites="Hart_2000_A_simple_adaptive_procedure_leading_to_correlated">Hart &amp; Mas&#x2010;Colell (2000)</span>.<a href="#fnref196" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn197" role="doc-endnote"><p><span class="citation" data-cites="Brown_2019_Superhuman_AI_for_multiplayer_poker">N. Brown &amp; Sandholm (2019b)</span>.<a href="#fnref197" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn198" role="doc-endnote"><p><span class="citation" data-cites="Brown_2020_Combining_deep_reinforcement_learning_and_search">N. Brown, Bakhtin, Lerer, &amp; Gong (2020)</span>.<a href="#fnref198" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn199" role="doc-endnote"><p><span class="citation" data-cites="Spears_2018_Deep_learning_A_guide_for_practitioners">Spears, B.K. et al. (2018)</span>.<a href="#fnref199" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn200" role="doc-endnote"><p><span class="citation" data-cites="Cranmer_2021_Machine_learning">Cranmer, Seljak, &amp; Terao (2021)</span>.<a href="#fnref200" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn201" role="doc-endnote"><p><span class="citation" data-cites="Rathmanner_2011_A_philosophical_treatise_of_universal_induction">Rathmanner &amp; Hutter (2011)</span>.<a href="#fnref201" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn202" role="doc-endnote"><p><span class="citation" data-cites="Wolpert_1995_No_free_lunch_theorems_for_search">Wolpert &amp; Macready (1995)</span>.<a href="#fnref202" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn203" role="doc-endnote"><p><span class="citation" data-cites="Wolpert_1996_The_lack_of_a_priori_distinctions_between_learning">Wolpert (1996)</span>.<a href="#fnref203" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn204" role="doc-endnote"><p><span class="citation" data-cites="Wolpert_1997_No_free_lunch_theorems_for_optimization">Wolpert &amp; Macready (1997)</span>.<a href="#fnref204" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn205" role="doc-endnote"><p><span class="citation" data-cites="Mitchell_1990_The_need_for_biases_in_learning_generalizations">Mitchell (1990)</span>.<a href="#fnref205" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn206" role="doc-endnote"><p><span class="citation" data-cites="Roberts_2021_Why_is_AI_hard_and_physics_simple">Roberts (2021)</span>.<a href="#fnref206" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn207" role="doc-endnote"><p><span class="citation" data-cites="Raissi_2017_Physics_informed_deep_learning_Part_I_Data">Raissi, Perdikaris, &amp; Karniadakis (2017a)</span>, p.&#xA0;2.<a href="#fnref207" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn208" role="doc-endnote"><p><span class="citation" data-cites="Roberts_2021_Why_is_AI_hard_and_physics_simple">Roberts (2021)</span>, p.&#xA0;7.<a href="#fnref208" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn209" role="doc-endnote"><p><span class="citation" data-cites="Bishop_2006_Pattern_Recognition_and_Machine_Learning">Bishop (2006)</span>, p.&#xA0;230.<a href="#fnref209" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn210" role="doc-endnote"><p><span class="citation" data-cites="Bahri_2020_Statistical_mechanics_of_deep_learning">Bahri, Y. et al. (2020)</span>.<a href="#fnref210" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn211" role="doc-endnote"><p><span class="citation" data-cites="Halverson_2020_Neural_networks_and_quantum_field_theory">Halverson, Maiti, &amp; Stoner (2020)</span>.<a href="#fnref211" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn212" role="doc-endnote"><p><span class="citation" data-cites="Canatar_2020_Spectral_bias_and_task_model_alignment_explain">Canatar, Bordelon, &amp; Pehlevan (2020)</span>.<a href="#fnref212" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn213" role="doc-endnote"><p><span class="citation" data-cites="Roberts_2021_The_Principles_of_Deep_Learning_Theory">Roberts, Yaida, &amp; Hanin (2021)</span>.<a href="#fnref213" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn214" role="doc-endnote"><p><span class="citation" data-cites="Cohen_2016_Group_equivariant_convolutional_networks">Cohen &amp; Welling (2016)</span>.<a href="#fnref214" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn215" role="doc-endnote"><p><span class="citation" data-cites="Cohen_2019_Gauge_equivariant_convolutional_networks">Cohen, Weiler, Kicanaoglu, &amp; Welling (2019)</span>.<a href="#fnref215" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn216" role="doc-endnote"><p><span class="citation" data-cites="Fuchs_2020_SE3_Transformers_3D_roto_translation">Fuchs, Worrall, Fischer, &amp; Welling (2020)</span>.<a href="#fnref216" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn217" role="doc-endnote"><p><span class="citation" data-cites="Smith_2019_A_gentle_introduction_to_information_geometry">Smith (2019)</span>.<a href="#fnref217" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn218" role="doc-endnote"><p><span class="citation" data-cites="Nielsen_2018_An_elementary_introduction_to_information_geometry">Nielsen (2018)</span>.<a href="#fnref218" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn219" role="doc-endnote"><p><span class="citation" data-cites="Amari_2016_Information_Geometry_and_Its_Applications">Amari (2016)</span>.<a href="#fnref219" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn220" role="doc-endnote"><p><span class="citation" data-cites="Balasubramanian_1996_A_geometric_formulation_of_Occams_razor">Balasubramanian (1996a)</span>.<a href="#fnref220" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn221" role="doc-endnote"><p><span class="citation" data-cites="Balasubramanian_1996_Statistical_inference_Occams_razor">Balasubramanian (1996b)</span>.<a href="#fnref221" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn222" role="doc-endnote"><p><span class="citation" data-cites="Calin_2014_Geometric_Modeling_in_Probability_and_Statistics">Calin &amp; Udriste (2014)</span>.<a href="#fnref222" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn223" role="doc-endnote"><p><span class="citation" data-cites="Lei_2018_Geometric_understanding_of_deep_learning">Lei, Luo, Yau, &amp; Gu (2018)</span>.<a href="#fnref223" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn224" role="doc-endnote"><p><span class="citation" data-cites="Gao_2020_An_information_geometric_distance_on_the_space">Gao &amp; Chaudhari (2020)</span>.<a href="#fnref224" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn225" role="doc-endnote"><p><span class="citation" data-cites="Bronstein_2021_Geometric_deep_learning_Grids_groups_graphs">Bronstein, Bruna, Cohen, &amp; Velickovic (2021)</span>.<a href="#fnref225" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn226" role="doc-endnote"><p><span class="citation" data-cites="Fefferman_2016_Testing_the_manifold_hypothesis">Fefferman, Mitter, &amp; Narayanan (2016)</span>.<a href="#fnref226" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn227" role="doc-endnote"><p><span class="citation" data-cites="Raissi_2017_Physics_informed_deep_learning_Part_I_Data">Raissi et al. (2017a)</span> and <span class="citation" data-cites="Raissi_2017_Physics_informed_deep_learning_Part_II_Data">Raissi, Perdikaris, &amp; Karniadakis (2017b)</span>.<a href="#fnref227" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn228" role="doc-endnote"><p><span class="citation" data-cites="Karniadakis_2021_Physics_informed_machine_learning">Karniadakis, G.E. et al. (2021)</span>.<a href="#fnref228" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn229" role="doc-endnote"><p><span class="citation" data-cites="Howard_2021_Foundations_of_a_fast_data_driven_machine">Howard, Mandt, Whiteson, &amp; Yang (2021)</span>.<a href="#fnref229" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn230" role="doc-endnote"><p><span class="citation" data-cites="Thuerey_2021_Physics_based_deep_learning">Thuerey, N. et al. (2021)</span>.<a href="#fnref230" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn231" role="doc-endnote"><p><span class="citation" data-cites="Cranmer_2019_The_frontier_of_simulation_based_inference">Cranmer, Brehmer, &amp; Louppe (2019)</span>.<a href="#fnref231" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn232" role="doc-endnote"><p><span class="citation" data-cites="Baydin_2019_Etalumis_Bringing_probabilistic_programming">Baydin, A.G. et al. (2019)</span>.<a href="#fnref232" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn233" role="doc-endnote"><p><span class="citation" data-cites="Anderson_2008_The_End_of_Theory_The_data_deluge_makes">Anderson (2008)</span>.<a href="#fnref233" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn234" role="doc-endnote"><p><span class="citation" data-cites="Asch_2018_Big_data_and_extreme_scale_computing_Pathways">Asch, M. et al. (2018)</span>.<a href="#fnref234" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn235" role="doc-endnote"><p><span class="citation" data-cites="DAgnolo_2019_Learning_New_Physics_from_a_Machine">D&#x2019;Agnolo &amp; Wulzer (2019)</span>.<a href="#fnref235" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn236" role="doc-endnote"><p><span class="citation" data-cites="Udrescu_2020_Symbolic_pregression_Discovering_physical_laws">Udrescu &amp; Tegmark (2020)</span>.<a href="#fnref236" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn237" role="doc-endnote"><p><span class="citation" data-cites="Cranmer_2020_Discovering_symbolic_models_from_deep_learning">Cranmer, M. et al. (2020)</span>.<a href="#fnref237" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn238" role="doc-endnote"><p><span class="citation" data-cites="Asch_2018_Big_data_and_extreme_scale_computing_Pathways">Asch, M. et al. (2018)</span>.<a href="#fnref238" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn239" role="doc-endnote"><p><span class="citation" data-cites="Korb_2001_Machine_learning_as_philosophy_of_science">Korb (2001)</span>.<a href="#fnref239" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn240" role="doc-endnote"><p><span class="citation" data-cites="Williamson_2009_The_philosophy_of_science_and_its_relation">Williamson (2009)</span>.<a href="#fnref240" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn241" role="doc-endnote"><p><span class="citation" data-cites="Bensusan_2000_Is_machine_learning_experimental_philosophy">Bensusan (2000)</span>.<a href="#fnref241" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn242" role="doc-endnote"><p><span class="citation" data-cites="Perone_2018_NLP_word_representations_and_the_Wittgenstein">Perone (2018)</span>.<a href="#fnref242" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn243" role="doc-endnote"><p><span class="citation" data-cites="Wasserman_2003_All_of_Statistics_A_Concise_Course_in_Statistical">Wasserman (2003)</span>.<a href="#fnref243" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn244" role="doc-endnote"><p><span class="citation" data-cites="Savage_1954_The_Foundations_of_Statistics">Savage (1954)</span>.<a href="#fnref244" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn123" role="doc-endnote"><p><span class="citation" data-cites="Murphy_2012_Machine_Learning_A_probabilistic_perspective">Murphy (2012)</span>.<a href="#fnref123" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn124" role="doc-endnote"><p><span class="citation" data-cites="Murphy_2022_Probabilistic_Machine_Learning_An_introduction">Murphy (2022)</span>, p.&#xA0;195&#x2013;198.<a href="#fnref124" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn125" role="doc-endnote"><p><span class="citation" data-cites="Shalev_Shwarz_2014_Understanding_Machine_Learning_From_Theory">Shalev-Shwarz &amp; Ben-David (2014)</span>.<a href="#fnref125" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn126" role="doc-endnote"><p><span class="citation" data-cites="Vapnik_1994_Measuring_the_VC_dimension_of_a_learning_machine">Vapnik, Levin, &amp; LeCun (1994)</span>.<a href="#fnref126" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn127" role="doc-endnote"><p><span class="citation" data-cites="Shalev_Shwarz_2014_Understanding_Machine_Learning_From_Theory">Shalev-Shwarz &amp; Ben-David (2014)</span>, p.&#xA0;67&#x2013;82.<a href="#fnref127" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn128" role="doc-endnote"><p><span class="citation" data-cites="Murphy_2012_Machine_Learning_A_probabilistic_perspective">Murphy (2012)</span>, p.&#xA0;21.<a href="#fnref128" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn129" role="doc-endnote"><p>Note: <em>Label smoothing</em> is a regularization technique that smears the activation over other labels, but we don&#x2019;t do that here.<a href="#fnref129" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn130" role="doc-endnote"><p>&#x201C;Logit&#x201D; was coined by <a href="https://en.wikipedia.org/wiki/Joseph_Berkson">Joseph Berkson</a> (1899-1982).<a href="#fnref130" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn131" role="doc-endnote"><p><span class="citation" data-cites="McFadden_1973_Conditional_logit_analysis_of_qualitative_choice">McFadden &amp; Zarembka (1973)</span>.<a href="#fnref131" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn132" role="doc-endnote"><p><span class="citation" data-cites="Blondel_2020_Learning_with_Fenchel_Young_losses">Blondel, Martins, &amp; Niculae (2020)</span>.<a href="#fnref132" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn133" role="doc-endnote"><p><span class="citation" data-cites="Goodfellow_2016_Deep_Learning">Goodfellow et al. (2016)</span>, p.&#xA0;129.<a href="#fnref133" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn134" role="doc-endnote"><p><span class="citation" data-cites="Batson_2021_Topological_obstructions_to_autoencoding">Batson, Haaf, Kahn, &amp; Roberts (2021)</span>.<a href="#fnref134" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn135" role="doc-endnote"><p><span class="citation" data-cites="Hennig_2015_What_are_the_true_clusters">Hennig (2015)</span>.<a href="#fnref135" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn136" role="doc-endnote"><p><span class="citation" data-cites="Bengio_2009_Learning_deep_architectures_for_AI">Bengio (2009)</span>.<a href="#fnref136" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn137" role="doc-endnote"><p><span class="citation" data-cites="LeCun_2015_Deep_learning">LeCun, Bengio, &amp; Hinton (2015)</span>.<a href="#fnref137" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn138" role="doc-endnote"><p><span class="citation" data-cites="Goodfellow_2016_Deep_Learning">Goodfellow et al. (2016)</span>.<a href="#fnref138" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn139" role="doc-endnote"><p><span class="citation" data-cites="Kaplan_2019_Notes_on_contemporary_machine_learning">Kaplan, J. et al. (2019)</span>.<a href="#fnref139" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn140" role="doc-endnote"><p><span class="citation" data-cites="Rumelhart_1986_Learning_representations_by_back_propagating">Rumelhart, Hinton, &amp; Williams (1986)</span>.<a href="#fnref140" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn141" role="doc-endnote"><p><span class="citation" data-cites="Sutton_2019_The_bitter_lesson">Sutton (2019)</span>.<a href="#fnref141" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn142" role="doc-endnote"><p><span class="citation" data-cites="Watson_2019_The_explanation_game_A_formal_framework">Watson &amp; Floridi (2019)</span>.<a href="#fnref142" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn143" role="doc-endnote"><p><span class="citation" data-cites="Bengio_2009_Learning_deep_architectures_for_AI">Bengio (2009)</span>.<a href="#fnref143" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn144" role="doc-endnote"><p><span class="citation" data-cites="Belkin_2019_Reconciling_modern_machine_learning_practice">Belkin, Hsu, Ma, &amp; Mandal (2019)</span>.<a href="#fnref144" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn145" role="doc-endnote"><p><span class="citation" data-cites="Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more">Nakkiran, P. et al. (2019)</span>.<a href="#fnref145" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn146" role="doc-endnote"><p><span class="citation" data-cites="Dar_2021_A_farewell_to_the_bias_variance_tradeoff">Dar, Muthukumar, &amp; Baraniuk (2021)</span>.<a href="#fnref146" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn147" role="doc-endnote"><p><span class="citation" data-cites="Balestriero_2021_Learning_in_high_dimension_always_amounts">Balestriero, Pesenti, &amp; LeCun (2021)</span>.<a href="#fnref147" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn148" role="doc-endnote"><p><span class="citation" data-cites="Nagarajan_2021_Explaining_generalization_in_deep_learning">Nagarajan (2021)</span>.<a href="#fnref148" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn149" role="doc-endnote"><p><span class="citation" data-cites="Bubeck_2021_A_universal_law_of_robustness_via_isoperimetry">Bubeck &amp; Sellke (2021)</span>.<a href="#fnref149" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn150" role="doc-endnote"><p>Mishra, D. (2020). <a href="https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd">Weight Decay == L2 Regularization?</a><a href="#fnref150" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn151" role="doc-endnote"><p><span class="citation" data-cites="Chen_2020_A_group_theoretic_framework_for_data_augmentation">Chen, Dobriban, &amp; Lee (2020)</span>.<a href="#fnref151" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn152" role="doc-endnote"><p><span class="citation" data-cites="Fukushima_1982_Neocognitron_A_new_algorithm_for_pattern">Fukushima &amp; Miyake (1982)</span>.<a href="#fnref152" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn153" role="doc-endnote"><p><span class="citation" data-cites="LeCun_1989_Backpropagation_applied_to_handwritten_zip_code">LeCun, Y. et al. (1989)</span>.<a href="#fnref153" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn154" role="doc-endnote"><p><span class="citation" data-cites="LeCun_1998_Gradient_based_learning_applied_to_document">LeCun, Bottou, Bengio, &amp; Haffner (1998)</span>.<a href="#fnref154" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn155" role="doc-endnote"><p><span class="citation" data-cites="Ciresan_2012_Multi_column_deep_neural_network_for_traffic_sign">Ciresan, Meier, Masci, &amp; Schmidhuber (2012)</span>.<a href="#fnref155" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn156" role="doc-endnote"><p><span class="citation" data-cites="Krizhevsky_2012_ImageNet_classification_with_deep_convolutional">Krizhevsky, Sutskever, &amp; Hinton (2012)</span>.<a href="#fnref156" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn157" role="doc-endnote"><p><span class="citation" data-cites="Simonyan_2014_Very_deep_convolutional_networks_for_large_scale">Simonyan &amp; Zisserman (2014)</span>.<a href="#fnref157" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn158" role="doc-endnote"><p><span class="citation" data-cites="He_2015_Deep_residual_learning_for_image_recognition">He, Zhang, Ren, &amp; Sun (2015)</span>.<a href="#fnref158" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn159" role="doc-endnote"><p><span class="citation" data-cites="Howard_2017_MobileNets_Efficient_convolutional_neural">Howard, A.G. et al. (2017)</span>.<a href="#fnref159" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn160" role="doc-endnote"><p><span class="citation" data-cites="Tan_2019_EfficientNet_Rethinking_model_scaling">Tan &amp; Le (2019)</span>.<a href="#fnref160" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn161" role="doc-endnote"><p><span class="citation" data-cites="Dosovitskiy_2020_An_image_is_worth_16x16_words_Transformers">Dosovitskiy, A. et al. (2020)</span>.<a href="#fnref161" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn162" role="doc-endnote"><p><span class="citation" data-cites="Tan_2021_EfficientNetV2_Smaller_models_and_faster_training">Tan &amp; Le (2021)</span>.<a href="#fnref162" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn163" role="doc-endnote"><p><span class="citation" data-cites="Liu_2021_Pay_attention_to_MLPs">Liu, Dai, So, &amp; Le (2021)</span>.<a href="#fnref163" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn164" role="doc-endnote"><p><span class="citation" data-cites="Ingrosso_2022_Data_driven_emergence_of_convolutional_structure">Ingrosso &amp; Goldt (2022)</span>.<a href="#fnref164" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn165" role="doc-endnote"><p><span class="citation" data-cites="Park_2022_How_do_vision_transformers_work">Park &amp; Kim (2022)</span>.<a href="#fnref165" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn166" role="doc-endnote"><p><span class="citation" data-cites="Firth_1957_A_synopsis_of_linguistic_theory_1930_1955">Firth (1957)</span>.<a href="#fnref166" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn167" role="doc-endnote"><p><span class="citation" data-cites="Nirenburg_1996_Bar_Hillel_and_Machine_Translation_Then_and_Now">Nirenburg (1996)</span>.<a href="#fnref167" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn168" role="doc-endnote"><p><span class="citation" data-cites="Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution">Hutchins (2000)</span>.<a href="#fnref168" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn169" role="doc-endnote"><p><span class="citation" data-cites="Mikolov_2013_Efficient_estimation_of_word_representations">Mikolov, Chen, Corrado, &amp; Dean (2013)</span> and <span class="citation" data-cites="Mikolov_2013_Linguistic_regularities_in_continuous_space_word">Mikolov, Yih, &amp; Zweig (2013)</span>.<a href="#fnref169" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn170" role="doc-endnote"><p><span class="citation" data-cites="Hochreiter_1997_Long_short_term_memory">Hochreiter &amp; Schmidhuber (1997)</span>.<a href="#fnref170" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn171" role="doc-endnote"><p><span class="citation" data-cites="Sutskever_2014_Sequence_to_sequence_learning_with_neural">Sutskever, Vinyals, &amp; Le (2014)</span>.<a href="#fnref171" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn172" role="doc-endnote"><p><span class="citation" data-cites="Bahdanau_2015_Neural_machine_translation_by_jointly_learning">Bahdanau, Cho, &amp; Bengio (2015)</span>.<a href="#fnref172" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn173" role="doc-endnote"><p><span class="citation" data-cites="Wu_2016_Googles_neural_machine_translation_system">Wu, Y. et al. (2016)</span>.<a href="#fnref173" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn174" role="doc-endnote"><p><span class="citation" data-cites="Stahlberg_2019_Neural_machine_translation_A_review">Stahlberg (2019)</span>.<a href="#fnref174" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn175" role="doc-endnote"><p><span class="citation" data-cites="Church_2019_A_survey_of_25_years_of_evaluation">Church &amp; Hestness (2019)</span>.<a href="#fnref175" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn176" role="doc-endnote"><p><span class="citation" data-cites="Kaplan_2020_Scaling_laws_for_neural_language_models">Kaplan, J. et al. (2020)</span>.<a href="#fnref176" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn177" role="doc-endnote"><p><span class="citation" data-cites="Vaswani_2017_Attention_is_all_you_need">Vaswani, A. et al. (2017)</span>.<a href="#fnref177" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn178" role="doc-endnote"><p><span class="citation" data-cites="Devlin_2018_BERT_Pre_training_of_deep_bidirectional">Devlin, Chang, Lee, &amp; Toutanova (2018)</span>.<a href="#fnref178" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn179" role="doc-endnote"><p><span class="citation" data-cites="Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning">Lan, Z. et al. (2019)</span>.<a href="#fnref179" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn180" role="doc-endnote"><p><span class="citation" data-cites="Radford_2018_Improving_language_understanding_by_generative">Radford, Narasimhan, Salimans, &amp; Sutskever (2018)</span>.<a href="#fnref180" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn181" role="doc-endnote"><p><span class="citation" data-cites="Radford_2019_Language_models_are_unsupervised_multitask">Radford, A. et al. (2019)</span>.<a href="#fnref181" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn182" role="doc-endnote"><p><span class="citation" data-cites="Brown_2020_Language_models_are_few_shot_learners">Brown, T.B. et al. (2020)</span>.<a href="#fnref182" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn183" role="doc-endnote"><p><span class="citation" data-cites="Yang_2019_XLNet_Generalized_autoregressive_pretraining">Yang, Z. et al. (2019)</span>.<a href="#fnref183" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn184" role="doc-endnote"><p><span class="citation" data-cites="Zaheer_2020_Big_Bird_Transformers_for_longer_sequences">Zaheer, M. et al. (2020)</span>.<a href="#fnref184" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn185" role="doc-endnote"><p><span class="citation" data-cites="Sutton_2018_Reinforcement_Learning">Sutton &amp; Barto (2018)</span>.<a href="#fnref185" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn186" role="doc-endnote"><p><span class="citation" data-cites="Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey">Arulkumaran, Deisenroth, Brundage, &amp; Bharath (2017)</span>.<a href="#fnref186" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn187" role="doc-endnote"><p><span class="citation" data-cites="Bellman_1952_On_the_theory_of_dynamic_programming">Bellman (1952)</span>.<a href="#fnref187" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn188" role="doc-endnote"><p><span class="citation" data-cites="Mnih_2013_Playing_Atari_with_deep_reinforcement_learning">Mnih, V. et al. (2013)</span> and <span class="citation" data-cites="Mnih_2015_Human_level_control_through_deep_reinforcement">Mnih, V. et al. (2015)</span>.<a href="#fnref188" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn189" role="doc-endnote"><p><span class="citation" data-cites="Silver_2016_Mastering_the_game_of_Go_with_deep_neural_networks">Silver, D. et al. (2016)</span>.<a href="#fnref189" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn190" role="doc-endnote"><p><span class="citation" data-cites="Silver_2017_Mastering_the_game_of_Go_without_human_knowledge">Silver, D. et al. (2017b)</span>.<a href="#fnref190" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn191" role="doc-endnote"><p><span class="citation" data-cites="Silver_2017_Mastering_chess_and_shogi_by_self_play">Silver, D. et al. (2017a)</span>.<a href="#fnref191" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn192" role="doc-endnote"><p><span class="citation" data-cites="Zinkevich_2007_Regret_minimization_in_games_with_incomplete">Zinkevich, Johanson, Bowling, &amp; Piccione (2007)</span>.<a href="#fnref192" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn193" role="doc-endnote"><p><span class="citation" data-cites="Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization">Lanctot, Waugh, Zinkevich, &amp; Bowling (2009)</span>.<a href="#fnref193" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn194" role="doc-endnote"><p><span class="citation" data-cites="Neller_2013_An_introduction_to_counterfactual_regret">Neller &amp; Lanctot (2013)</span>.<a href="#fnref194" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn195" role="doc-endnote"><p><span class="citation" data-cites="Bowling_2015_Heads_up_limit_holdem_poker_is_solved">Bowling, Burch, Johanson, &amp; Tammelin (2015)</span>.<a href="#fnref195" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn196" role="doc-endnote"><p><span class="citation" data-cites="Heinrich_2016_Deep_reinforcement_learning_from_self_play">Heinrich &amp; Silver (2016)</span>.<a href="#fnref196" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn197" role="doc-endnote"><p><span class="citation" data-cites="Moravcik_2017_DeepStack_Expert_level_artificial_intelligence">Moravcik, M. et al. (2017)</span>.<a href="#fnref197" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn198" role="doc-endnote"><p><span class="citation" data-cites="Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker">N. Brown &amp; Sandholm (2018)</span>.<a href="#fnref198" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn199" role="doc-endnote"><p><span class="citation" data-cites="Brown_2019_Solving_imperfect_information_games_via_discounted">N. Brown &amp; Sandholm (2019a)</span>.<a href="#fnref199" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn200" role="doc-endnote"><p><span class="citation" data-cites="Brown_2019_Deep_counterfactual_regret_minimization">N. Brown, Lerer, Gross, &amp; Sandholm (2019)</span>.<a href="#fnref200" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn201" role="doc-endnote"><p><span class="citation" data-cites="Hart_2000_A_simple_adaptive_procedure_leading_to_correlated">Hart &amp; Mas&#x2010;Colell (2000)</span>.<a href="#fnref201" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn202" role="doc-endnote"><p><span class="citation" data-cites="Brown_2019_Superhuman_AI_for_multiplayer_poker">N. Brown &amp; Sandholm (2019b)</span>.<a href="#fnref202" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn203" role="doc-endnote"><p><span class="citation" data-cites="Brown_2020_Combining_deep_reinforcement_learning_and_search">N. Brown, Bakhtin, Lerer, &amp; Gong (2020)</span>.<a href="#fnref203" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn204" role="doc-endnote"><p><span class="citation" data-cites="Spears_2018_Deep_learning_A_guide_for_practitioners">Spears, B.K. et al. (2018)</span>.<a href="#fnref204" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn205" role="doc-endnote"><p><span class="citation" data-cites="Cranmer_2021_Machine_learning">Cranmer, Seljak, &amp; Terao (2021)</span>.<a href="#fnref205" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn206" role="doc-endnote"><p><span class="citation" data-cites="Rathmanner_2011_A_philosophical_treatise_of_universal_induction">Rathmanner &amp; Hutter (2011)</span>.<a href="#fnref206" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn207" role="doc-endnote"><p><span class="citation" data-cites="Wolpert_1995_No_free_lunch_theorems_for_search">Wolpert &amp; Macready (1995)</span>.<a href="#fnref207" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn208" role="doc-endnote"><p><span class="citation" data-cites="Wolpert_1996_The_lack_of_a_priori_distinctions_between_learning">Wolpert (1996)</span>.<a href="#fnref208" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn209" role="doc-endnote"><p><span class="citation" data-cites="Wolpert_1997_No_free_lunch_theorems_for_optimization">Wolpert &amp; Macready (1997)</span>.<a href="#fnref209" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn210" role="doc-endnote"><p><span class="citation" data-cites="Shalev_Shwarz_2014_Understanding_Machine_Learning_From_Theory">Shalev-Shwarz &amp; Ben-David (2014)</span>, p.&#xA0;60&#x2013;66.<a href="#fnref210" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn211" role="doc-endnote"><p><span class="citation" data-cites="McDermott_2019_When_and_why_metaheuristics_researchers_can_ignore">McDermott (2019)</span>.<a href="#fnref211" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn212" role="doc-endnote"><p><span class="citation" data-cites="Mitchell_1980_The_need_for_biases_in_learning_generalizations">Mitchell (1980)</span>.<a href="#fnref212" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn213" role="doc-endnote"><p><span class="citation" data-cites="Roberts_2021_Why_is_AI_hard_and_physics_simple">Roberts (2021)</span>.<a href="#fnref213" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn214" role="doc-endnote"><p><span class="citation" data-cites="Raissi_2017_Physics_informed_deep_learning_Part_I_Data">Raissi, Perdikaris, &amp; Karniadakis (2017a)</span>, p.&#xA0;2.<a href="#fnref214" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn215" role="doc-endnote"><p><span class="citation" data-cites="Roberts_2021_Why_is_AI_hard_and_physics_simple">Roberts (2021)</span>, p.&#xA0;7.<a href="#fnref215" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn216" role="doc-endnote"><p><span class="citation" data-cites="Bishop_2006_Pattern_Recognition_and_Machine_Learning">Bishop (2006)</span>, p.&#xA0;230.<a href="#fnref216" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn217" role="doc-endnote"><p><span class="citation" data-cites="Bahri_2020_Statistical_mechanics_of_deep_learning">Bahri, Y. et al. (2020)</span>.<a href="#fnref217" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn218" role="doc-endnote"><p><span class="citation" data-cites="Halverson_2020_Neural_networks_and_quantum_field_theory">Halverson, Maiti, &amp; Stoner (2020)</span>.<a href="#fnref218" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn219" role="doc-endnote"><p><span class="citation" data-cites="Canatar_2020_Spectral_bias_and_task_model_alignment_explain">Canatar, Bordelon, &amp; Pehlevan (2020)</span>.<a href="#fnref219" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn220" role="doc-endnote"><p><span class="citation" data-cites="Roberts_2021_The_Principles_of_Deep_Learning_Theory">Roberts, Yaida, &amp; Hanin (2021)</span>.<a href="#fnref220" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn221" role="doc-endnote"><p><span class="citation" data-cites="Cohen_2016_Group_equivariant_convolutional_networks">Cohen &amp; Welling (2016)</span>.<a href="#fnref221" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn222" role="doc-endnote"><p><span class="citation" data-cites="Cohen_2019_Gauge_equivariant_convolutional_networks">Cohen, Weiler, Kicanaoglu, &amp; Welling (2019)</span>.<a href="#fnref222" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn223" role="doc-endnote"><p><span class="citation" data-cites="Fuchs_2020_SE3_Transformers_3D_roto_translation">Fuchs, Worrall, Fischer, &amp; Welling (2020)</span>.<a href="#fnref223" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn224" role="doc-endnote"><p><span class="citation" data-cites="Smith_2019_A_gentle_introduction_to_information_geometry">Smith (2019)</span>.<a href="#fnref224" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn225" role="doc-endnote"><p><span class="citation" data-cites="Nielsen_2018_An_elementary_introduction_to_information_geometry">Nielsen (2018)</span>.<a href="#fnref225" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn226" role="doc-endnote"><p><span class="citation" data-cites="Amari_2016_Information_Geometry_and_Its_Applications">Amari (2016)</span>.<a href="#fnref226" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn227" role="doc-endnote"><p><span class="citation" data-cites="Balasubramanian_1996_A_geometric_formulation_of_Occams_razor">Balasubramanian (1996a)</span>.<a href="#fnref227" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn228" role="doc-endnote"><p><span class="citation" data-cites="Balasubramanian_1996_Statistical_inference_Occams_razor">Balasubramanian (1996b)</span>.<a href="#fnref228" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn229" role="doc-endnote"><p><span class="citation" data-cites="Calin_2014_Geometric_Modeling_in_Probability_and_Statistics">Calin &amp; Udriste (2014)</span>.<a href="#fnref229" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn230" role="doc-endnote"><p><span class="citation" data-cites="Lei_2018_Geometric_understanding_of_deep_learning">Lei, Luo, Yau, &amp; Gu (2018)</span>.<a href="#fnref230" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn231" role="doc-endnote"><p><span class="citation" data-cites="Gao_2020_An_information_geometric_distance_on_the_space">Gao &amp; Chaudhari (2020)</span>.<a href="#fnref231" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn232" role="doc-endnote"><p><span class="citation" data-cites="Bronstein_2021_Geometric_deep_learning_Grids_groups_graphs">Bronstein, Bruna, Cohen, &amp; Velickovic (2021)</span>.<a href="#fnref232" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn233" role="doc-endnote"><p><span class="citation" data-cites="Fefferman_2016_Testing_the_manifold_hypothesis">Fefferman, Mitter, &amp; Narayanan (2016)</span>.<a href="#fnref233" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn234" role="doc-endnote"><p><span class="citation" data-cites="Raissi_2017_Physics_informed_deep_learning_Part_I_Data">Raissi et al. (2017a)</span> and <span class="citation" data-cites="Raissi_2017_Physics_informed_deep_learning_Part_II_Data">Raissi, Perdikaris, &amp; Karniadakis (2017b)</span>.<a href="#fnref234" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn235" role="doc-endnote"><p><span class="citation" data-cites="Karniadakis_2021_Physics_informed_machine_learning">Karniadakis, G.E. et al. (2021)</span>.<a href="#fnref235" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn236" role="doc-endnote"><p><span class="citation" data-cites="Howard_2021_Foundations_of_a_fast_data_driven_machine">Howard, Mandt, Whiteson, &amp; Yang (2021)</span>.<a href="#fnref236" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn237" role="doc-endnote"><p><span class="citation" data-cites="Thuerey_2021_Physics_based_deep_learning">Thuerey, N. et al. (2021)</span>.<a href="#fnref237" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn238" role="doc-endnote"><p><span class="citation" data-cites="Cranmer_2019_The_frontier_of_simulation_based_inference">Cranmer, Brehmer, &amp; Louppe (2019)</span>.<a href="#fnref238" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn239" role="doc-endnote"><p><span class="citation" data-cites="Baydin_2019_Etalumis_Bringing_probabilistic_programming">Baydin, A.G. et al. (2019)</span>.<a href="#fnref239" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn240" role="doc-endnote"><p><span class="citation" data-cites="Anderson_2008_The_End_of_Theory_The_data_deluge_makes">Anderson (2008)</span>.<a href="#fnref240" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn241" role="doc-endnote"><p><span class="citation" data-cites="Asch_2018_Big_data_and_extreme_scale_computing_Pathways">Asch, M. et al. (2018)</span>.<a href="#fnref241" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn242" role="doc-endnote"><p><span class="citation" data-cites="DAgnolo_2019_Learning_New_Physics_from_a_Machine">D&#x2019;Agnolo &amp; Wulzer (2019)</span>.<a href="#fnref242" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn243" role="doc-endnote"><p><span class="citation" data-cites="Udrescu_2020_Symbolic_pregression_Discovering_physical_laws">Udrescu &amp; Tegmark (2020)</span>.<a href="#fnref243" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn244" role="doc-endnote"><p><span class="citation" data-cites="Cranmer_2020_Discovering_symbolic_models_from_deep_learning">Cranmer, M. et al. (2020)</span>.<a href="#fnref244" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn245" role="doc-endnote"><p><span class="citation" data-cites="Asch_2018_Big_data_and_extreme_scale_computing_Pathways">Asch, M. et al. (2018)</span>.<a href="#fnref245" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn246" role="doc-endnote"><p><span class="citation" data-cites="Korb_2001_Machine_learning_as_philosophy_of_science">Korb (2001)</span>.<a href="#fnref246" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn247" role="doc-endnote"><p><span class="citation" data-cites="Williamson_2009_The_philosophy_of_science_and_its_relation">Williamson (2009)</span>.<a href="#fnref247" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn248" role="doc-endnote"><p><span class="citation" data-cites="Bensusan_2000_Is_machine_learning_experimental_philosophy">Bensusan (2000)</span>.<a href="#fnref248" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn249" role="doc-endnote"><p><span class="citation" data-cites="Perone_2018_NLP_word_representations_and_the_Wittgenstein">Perone (2018)</span>.<a href="#fnref249" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn250" role="doc-endnote"><p><span class="citation" data-cites="Wasserman_2003_All_of_Statistics_A_Concise_Course_in_Statistical">Wasserman (2003)</span>.<a href="#fnref250" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn251" role="doc-endnote"><p><span class="citation" data-cites="Savage_1954_The_Foundations_of_Statistics">Savage (1954)</span>.<a href="#fnref251" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 </ol>
 </section>
 
@@ -2943,7 +2969,7 @@ Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). <span class
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Sun Mar 13, 2022</p>
+    <p>Tue Mar 15, 2022</p>
   </div>
   <div class="license">
     <p>&#xA9; 2014-2022 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>

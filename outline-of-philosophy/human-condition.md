@@ -274,8 +274,10 @@ Moore & Kelle:
 -   [Criticism of Jesus](https://en.wikipedia.org/wiki/Criticism_of_Jesus)
 -   Celsus. (c. 175 CE). [*The True Word*](https://en.wikipedia.org/wiki/The_True_Word).
 -   Porphyry. (c. 234-305 CE). [*Against the Christians*](https://en.wikipedia.org/wiki/Porphyry_(philosopher)).
+-   Kaufmann, W.A. (2015). *The Faith of a Heretic*. [^Kaufmann2015]
 -   *Skeptic's Annotated Bible* [^Wells2013]
 
+[^Kaufmann2015]: @Kaufmann_2015_The_Faith_of_a_Heretic\.
 [^Wells2013]: @Wells_2013_Skeptics_Annotated_Bible\.
 
 
@@ -1729,6 +1731,7 @@ Comparitive studies
     -   The Kyoto School
     -   Heidegger and Keiji Nishitani
     -   Parkes, G. (2011). Heidegger and Japanese fascism: An unsubstantiated connection. [^Parkes2011]
+    -   Buddhism and Nietzsche
 -   Buddhism and empiricism
     -   Hume: anitya and humeanism
     -   Two truths doctrine

@@ -33,6 +33,7 @@ Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discoun
 Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. *Science*, 365, 885--890. https://science.sciencemag.org/content/365/6456/885
 Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). Deep counterfactual regret minimization. https://arxiv.org/abs/1811.00164
 Brown, N., Bakhtin, A., Lerer, A., & Gong, Q. (2020). Combining deep reinforcement learning and search for imperfect-information games. https://arxiv.org/abs/2007.13544
+Brown, T.B. et al. (2020). Language models are few-shot learners. https://arxiv.org/abs/2005.14165 [(Paper on the GPT-3 model by OpenAI)] 
 Bubeck, S. & Sellke, M. (2021). A universal law of robustness via isoperimetry. https://arxiv.org/abs/2105.12806
 Caldeira, J. & Nord, B. (2020). Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms. *Machine Learning: Science and Technology*, 2, 015002. https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3
 Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistics*. Springer Switzerland.
@@ -138,10 +139,11 @@ Mayo, D.G. (2014). On the Birnbaum Argument for the Strong Likelihood Principle,
 Mayo, D.G. (2018). *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*. Cambridge University Press.
 Mayo, D.G. (2019). The law of likelihood and error statistics. https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/
 Mayo, D.G. (2021). Significance tests: Vitiated or vindicated by the replication crisis in psychology? *Review of Philosophy and Psychology*, 12, 101--121. https://link.springer.com/article/10.1007/s13164-020-00501-w
+McDermott, J. (2019). When and why metaheuristics researchers can ignore "no free lunch" theorems. https://arxiv.org/abs/1906.03280
 McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). New York: Academic Press.
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
-Mitchell, T.M. (1990). The need for biases in learning generalizations. In *Readings in Machine Learning* (pp. 184-192). San Mateo, CA, USA. http://dml.cs.byu.edu/~cgc/docs/mldm_tools/Reading/Need%20for%20Bias.pdf
+Mitchell, T.M. (1980). The need for biases in learning generalizations. In *Readings in Machine Learning* (pp. 184-192). San Mateo, CA, USA. http://www.cs.cmu.edu/afs/cs/usr/mitchell/ftp/pubs/NeedForBias_1980.pdf
 Mnih, V. et al. (2013). Playing Atari with deep reinforcement learning. https://arxiv.org/abs/1312.5602
 Mnih, V. et al. (2015). Human-level control through deep reinforcement learning. *Nature*, 518(7540), 529--533. http://files.davidqiu.com//research/nature14236.pdf
 Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. *Science*, 356, 508--513. https://arxiv.org/abs/1701.01724
@@ -164,6 +166,8 @@ Pearson, K. (1900). On the criterion that a given system of deviations from the 
 Peirce, C.S. (1883). *Studies in Logic*. Boston: Little, Brown, and Co.
 Perone, C.S. (2018). NLP word representations and the Wittgenstein philosophy of language. http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/
 Peters, J., Janzing, D., & Sch{\:o}lkopf, B. (2017). *Elements of Causal Inference*. MIT Press.
+Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf [(Paper on the GPT model by OpenAI)] 
+Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf [(Paper on the GPT-2 model by OpenAI)] 
 Rao, C.R. (1945). Information and the accuracy attainable in the estimation of statistical parameters. *Bulletin of the Calcutta Mathematical Society*, 37, 81--91.
 Rao, C.R. (1947). Minimum variance and the estimation of several parameters. In *Mathematical Proceedings of the Cambridge Philosophical Society*, 43, 280--283. Cambridge University Press.
 Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part I): Data-driven solutions of nonlinear partial differential equations. https://arxiv.org/abs/1711.10561
@@ -185,6 +189,7 @@ Salmon, W.C. (1991). Hans Reichenbach's vindication of induction. *Erkenntnis*, 
 Salsburg, D. (2001). *The Lady Tasting Tea*. Holt.
 Savage, L.J. (1954). *The Foundations of Statistics*. John Wiley & Sons.
 Sellars, W. (1964). Induction as vindication. *Philosophy of Science*, 31, 197--231.
+Shalev-Shwarz, S. & Ben-David, S. (2014). *Understanding Machine Learning: From Theory to Algorithms*. Cambridge University Press. https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 Silver, D. et al. (2016). Mastering the game of Go with deep neural networks and tree search. *Nature*, 529, 484--489.
 Silver, D. et al. (2017). Mastering the game of Go without human knowledge. *Nature*, 550, 354--359.
 Silver, D. et al. (2017). Mastering chess and shogi by self-play with a general reinforcement learning algorithm. https://arxiv.org/abs/1712.01815
@@ -228,10 +233,6 @@ Wolpert, D.H. & Macready, W.G. (1995). No free lunch theorems for search. [Techn
 Wolpert, D.H. & Macready, W.G. (1997). No free lunch theorems for optimization. *IEEE Transactions on Evolutionary Computation*, 1, 67--82.
 Wu, Y. et al. (2016). Google's neural machine translation system: Bridging the gap between human and machine translation. https://arxiv.org/abs/1409.0473
 Yang, Z. et al. (2019). XLNet: Generalized autoregressive pretraining for language understanding. https://arxiv.org/abs/1906.08237
+Zaheer, M. et al. (2020). Big Bird: Transformers for longer sequences. https://arxiv.org/abs/2007.14062
 Zech, G. (1995). Comparing statistical data to Monte Carlo simulation: Parameter fitting and unfolding. https://cds.cern.ch/record/284321 [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)]
 Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. *Advances in Neural Information Processing Systems*, 20, 1729--1736.
-
-
-Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf [(Paper on the GPT model by OpenAI)] 
-Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf [(Paper on the GPT-2 model by OpenAI)] 
-Brown, T.B. et al. (2020). Language models are few-shot learners. https://arxiv.org/abs/2005.14165 [(Paper on the GPT-3 model by OpenAI)] 

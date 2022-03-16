@@ -1220,10 +1220,19 @@ Classical machine learning
 -   [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel) (1901-1990)
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
 -   *Information Theory, Inference, and Learning* [^MacKay2003]
--   VC-dimension [^Vapnik1994]
+-   Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press. [^Murphy2012]
+-   Murphy, K.P. (2022). *Probabilistic Machine Learning: An introduction*. MIT Press. [^Murphy2022]
+-   Shalev-Shwarz, S. & Ben-David, S. (2014). [*Understanding Machine Learning: From Theory to Algorithms*](https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf). [^ShalevShwarz2014]
+-   VC-dimension
+    -   Vapnik (1994) [^Vapnik1994]
+    -   Shalev-Shwarz, S. & Ben-David, S. (2014). [^ShalevShwarz2014p67]
 
 [^Hastie2009]: @Hastie_2009_The_Elements_of_Statistical_Learning_Data_Mining\.
 [^MacKay2003]: @MacKay_2003_Information_Theory_Inference_and_Learning\.
+[^Murphy2012]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\.
+[^Murphy2022]: @Murphy_2022_Probabilistic_Machine_Learning_An_introduction\, p. 195--198.
+[^ShalevShwarz2014]: @Shalev_Shwarz_2014_Understanding_Machine_Learning_From_Theory\.
+[^ShalevShwarz2014p67]: @Shalev_Shwarz_2014_Understanding_Machine_Learning_From_Theory\, p. 67--82.
 [^Vapnik1994]: @Vapnik_1994_Measuring_the_VC_dimension_of_a_learning_machine\.
 
 
@@ -1663,9 +1672,11 @@ Resources:
     -   Yang, Z. et al. (2019). [XLNet: Generalized autoregressive pretraining for language understanding](https://arxiv.org/abs/1906.08237). [^Yang2019]
     -   Daily Nous: [Philosophers On GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/).
     -   DeepMind's blog posts for more details: [AlphaFold1](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery),
-        [AlphaFold2](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology).
+        [AlphaFold2](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology) (2020).
         Slides from the CASP14 conference are publicly available [here](https://predictioncenter.org/casp14/doc/presentations/2020_12_01_TS_predictor_AlphaFold2.pdf).
     -   Joshi, C. (2020). [Transformers are GNNs](https://graphdeeplearning.github.io/post/transformers-are-gnns/).
+    -   Lakshmanamoorthy, R. (2020). [A complete learning path to transformers (with guide to 23 architectures)](https://analyticsindiamag.com/a-complete-learning-path-to-transformers/).
+    -   Zaheer, M. et al. (2020). [Big Bird: Transformers for longer sequences](https://arxiv.org/abs/2007.14062). [^Zaheer2020]
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
@@ -1692,6 +1703,7 @@ See also:
 [^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.
 [^Wu2016]: @Wu_2016_Googles_neural_machine_translation_system\.
 [^Yang2019]: @Yang_2019_XLNet_Generalized_autoregressive_pretraining\.
+[^Zaheer2020]: @Zaheer_2020_Big_Bird_Transformers_for_longer_sequences\.
 
 
 ### Reinforcement learning
@@ -1838,7 +1850,8 @@ Theoretical machine learning
     -   No free lunch theorems for search (1995) [^Wolpert1995]
     -   The lack of a priori distinctions between learning algorithms (1996) [^Wolpert1996]
     -   No free lunch theorems for optimization (1997) [^Wolpert1997]
-    -   McDermott, J. (2019). [When and why metaheuristics researchers can ignore "No Free Lunch" theorems](https://arxiv.org/abs/1906.03280).
+    -   Shalev-Shwarz, S. & Ben-David, S. (2014). [^ShalevShwarz2014p60]
+    -   McDermott, J. (2019). [When and why metaheuristics researchers can ignore "no free lunch" theorems](https://arxiv.org/abs/1906.03280). [^McDermott2019]
 -   Blogs:
     -   Fedden, L. (2017). [The no free lunch theorem](https://medium.com/@LeonFedden/the-no-free-lunch-theorem-62ae2c3ed10c).
     -   Lokesh, M. (2020). [The intuition behind the no free lunch theorem](https://towardsdatascience.com/intuitions-behind-no-free-lunch-theorem-1d160f754513).
@@ -1847,7 +1860,7 @@ Theoretical machine learning
     -   Yudkowsky, E. (2007). [Inductive bias](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias). *LessWrong*.
     -   [Ugly duckling theorem](https://en.wikipedia.org/wiki/Ugly_duckling_theorem)
     -   Hamilton, L.D. (2014). [The inductive biases of various machine learning algorithms](http://www.lauradhamilton.com/inductive-biases-various-machine-learning-algorithms).
-    -   Mitchell, T.M. (1990). The need for biases in learning generalizations. [^Mitchell1990]
+    -   Mitchell, T.M. (1980). [The need for biases in learning generalizations](http://www.cs.cmu.edu/afs/cs/usr/mitchell/ftp/pubs/NeedForBias_1980.pdf). [^Mitchell1980]
 -   Gerhard Schurz
     -   See also: [Meta-induction as a solution to the problem of induction](scientific-method.html#meta-induction-as-a-solution-to-the-problem-of-induction)
 -   Dan A. Roberts. (2021). [Why is AI hard and physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
@@ -1869,10 +1882,12 @@ Roberts:
 >   is precisely what we mean when we say that physics enables us to understand
 >   a given phenomenon. [^Roberts2021p7]
 
-[^Mitchell1990]: @Mitchell_1990_The_need_for_biases_in_learning_generalizations\.
+[^McDermott2019]: @McDermott_2019_When_and_why_metaheuristics_researchers_can_ignore\.
+[^Mitchell1980]: @Mitchell_1980_The_need_for_biases_in_learning_generalizations\.
 [^Raissi2017Ip2]: @Raissi_2017_Physics_informed_deep_learning_Part_I_Data\, p. 2.
 [^Roberts2021]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.
 [^Roberts2021p7]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\, p. 7.
+[^ShalevShwarz2014p60]: @Shalev_Shwarz_2014_Understanding_Machine_Learning_From_Theory\, p. 60--66.
 [^Wolpert1995]: @Wolpert_1995_No_free_lunch_theorems_for_search\.
 [^Wolpert1996]: @Wolpert_1996_The_lack_of_a_priori_distinctions_between_learning\.
 [^Wolpert1997]: @Wolpert_1997_No_free_lunch_theorems_for_optimization\.
