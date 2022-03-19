@@ -1601,7 +1601,9 @@ Blogs:
 -   Krizhevsky, Sutskever, and Hinton: AlexNet [^Krizhevsky2012]
 -   VGG [^Simonyan2014]
 -   ResNet [^He2015]
+    -   ResNet is performing a forward Euler discretisation of the ODE: $\dot{x} = \sigma(F(x))$. [^Haber2017]
 -   MobileNet [^Howard2017]
+-   Neural ODEs [^Chen2018]
 -   EfficientNet [^Tan2019]
 -   VisionTransformer [^Dosovitskiy2020]
 -   EfficientNetV2 [^Tan2021]
@@ -1616,9 +1618,11 @@ Resources:
 -   [facebookresearch/vissl](https://github.com/facebookresearch/vissl)
 -   [PyTorch Geometric (PyG)](https://pytorch-geometric.readthedocs.io/en/latest/)
 
+[^Chen2018]: @Chen_2018_Neural_ordinary_differential_equations\.
 [^Ciresan2012]: @Ciresan_2012_Multi_column_deep_neural_network_for_traffic_sign\.
 [^Dosovitskiy2020]: @Dosovitskiy_2020_An_image_is_worth_16x16_words_Transformers\.
 [^Fukushima1982]: @Fukushima_1982_Neocognitron_A_new_algorithm_for_pattern\.
+[^Haber2017]: @Haber_2017_Stable_architectures_for_deep_neural_networks\.
 [^He2015]: @He_2015_Deep_residual_learning_for_image_recognition\.
 [^Howard2017]: @Howard_2017_MobileNets_Efficient_convolutional_neural\.
 [^Ingrosso2022]: @Ingrosso_2022_Data_driven_emergence_of_convolutional_structure\.

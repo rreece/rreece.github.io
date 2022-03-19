@@ -172,10 +172,6 @@ Weinberg:
 -   Hoyningen-Huene, P. (2020). [Beyond Kuhn and Feyerabend: After the fourth stage of philosophy of science](https://iai.tv/articles/beyond-feyerabend-and-kuhn-auid-1644).
 -   TODO: on removing Aristotle's teleology from physics.
 
-See also:
-
--   [Human history](human-condition.html#human-history) in the [Outline on the human condition](human-condition.html#human-history).
-
 [^Davis2015]: @Davis_2015_To_Explain_the_World_review\.
 [^Prado2006-2]: @Prado_2006_Ionian_enchantment_A_brief_history_of_scientific\.
 [^Russell1945p66]: @Russell_2003_History_of_Western_Philosophy, p. 66--67.
@@ -184,6 +180,23 @@ See also:
 [^Weinberg2015p13]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 13.
 [^Weinberg2015p76]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 76.
 [^Whitehead1978pX]: @Whitehead_1978_Process_and_Reality\, p. 39.
+
+
+#### American
+
+-   [*Encyclopedia of American Indian Contributions to the World*](https://mexikaresistance.files.wordpress.com/2013/09/american-indian-contributions-to-the-world.pdf) [^Keoke2002]
+
+[^Keoke2002]: @Keoke_2002_Encyclopedia_of_American_Indian_Contributions\.
+
+
+#### African
+
+-   [The African Enlightenment: The highest ideals of Locke, Hume and Kant were first proposed more than a century earlier by an Ethiopian in a cave](https://aeon.co/essays/yacob-and-amo-africas-precursors-to-locke-hume-and-kant)
+
+
+See also:
+
+-   [Human history](human-condition.html#human-history) in the [Outline on the human condition](human-condition.html#human-history).
 
 
 ### The Middle Ages
@@ -1990,7 +2003,6 @@ Click to show links
 -   [Is Hume's fork self-refuting?](http://philosophy.stackexchange.com/questions/7609/is-humes-fork-self-refuting) - Philosophy StackExchange
 -   [Scientism](http://rationalwiki.org/wiki/Scientism) - RationalWiki.org
 -   [Newton's Flaming Laser Sword](https://philosophynow.org/issues/46/Newtons_Flaming_Laser_Sword) - Mike Alder, Philosophy Now
--   [The African Enlightenment: The highest ideals of Locke, Hume and Kant were first proposed more than a century earlier by an Ethiopian in a cave](https://aeon.co/essays/yacob-and-amo-africas-precursors-to-locke-hume-and-kant)
 -   Aldrich, John. (?). [Earliest uses of symbols of calculus](http://jeff560.tripod.com/calculus.html).
 -   Suber, P. (2003). [Guide to Philosophy on the Internet](http://legacy.earlham.edu/~peters/philinks.htm).
 -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)

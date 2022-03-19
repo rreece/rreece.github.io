@@ -254,6 +254,7 @@ Moore & Kelle:
 -   [Christianity](https://en.wikipedia.org/wiki/Christianity) (began 1st century CE)
 -   Breaks distinction between kinship and tribe. Anyone can join.
 -   [Paul the Apostle](https://en.wikipedia.org/wiki/Paul_the_Apostle) (c. 5-64 CE)
+-   [Gnosticism](https://en.wikipedia.org/wiki/Gnosticism)
 -   [Eusebius](https://en.wikipedia.org/wiki/Eusebius) (c. 260/5 - 339/340 CE)
 -   [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (354-430 CE)
 -   [East-West Schism](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism) (1054 CE)

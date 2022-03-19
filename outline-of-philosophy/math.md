@@ -146,12 +146,14 @@ TODO
     -   Varadarajan, V. S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. [^Varadarajan2003]
     -   Tao, T. (2007). [Differential forms and integration](https://www.math.ucla.edu/~tao/preprints/forms.pdf). [^Tao2007]
     -   Sussman, G.J. & Wisdom, J. (2013). [*Functional Differential Geometry*](https://mitpress.mit.edu/books/functional-differential-geometry). [^Sussman2013]
+    -   Bronstein, M.M. et al. (2021). [Geometric deep learning: Grids, groups, graphs, geodesics, and gauges](https://arxiv.org/abs/2104.13478). [^Bronstein2021p56]
 -   Chern-Simons theory
 
 See also:
 
 -   [Fiber bundles](physics.html#fiber-bundles)
 
+[^Bronstein2021p56]: @Bronstein_2021_Geometric_deep_learning_Grids_groups_graphs\, p. 56--60.
 [^Fre2013v1ch2]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_1\, ch. 2.
 [^Sussman2013]: @Sussman_2013_Functional_Differential_Geometry\.
 [^Tao2007]: @Tao_2007_Differential_forms_and_integration\.
