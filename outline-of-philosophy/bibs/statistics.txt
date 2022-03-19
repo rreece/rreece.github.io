@@ -28,6 +28,7 @@ Blondel, M., Martins, A.F., & Niculae, V. (2020). Learning with Fenchel-Young lo
 Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. *Science*, 347, 145--149. http://science.sciencemag.org/content/347/6218/145
 Bronstein, M.M., Bruna, J., Cohen, T., & Velickovic, P. (2021). Geometric deep learning: Grids, groups, graphs, geodesics, and gauges. https://arxiv.org/abs/2104.13478
 Brown, L.D., Cai, T.T., & DasGupta, A. (2001). Interval estimation for a binomial proportion. *Statistical Science*, 16(2), 101--133. https://projecteuclid.org/euclid.ss/1009213286
+Brown, N. (2020). *Equilibrium finding for large adversarial imperfect-information games*. http://www.cs.cmu.edu/~noamb/thesis.pdf [(Ph.D. thesis)]
 Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. *Science*, 359, 418--424. https://science.sciencemag.org/content/359/6374/418
 Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. *Proceedings of the AAAI Conference on Artificial Intelligence*, 33, 1829--1836. https://arxiv.org/abs/1809.04040
 Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. *Science*, 365, 885--890. https://science.sciencemag.org/content/365/6456/885
@@ -151,7 +152,7 @@ Mnih, V. et al. (2015). Human-level control through deep reinforcement learning.
 Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. *Science*, 356, 508--513. https://arxiv.org/abs/1701.01724
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
 Murphy, K.P. (2022). *Probabilistic Machine Learning: An introduction*. MIT Press.
-Nagarajan, V. (2021). Explaining generalization in deep learning: progress and fundamental limits. https://arxiv.org/abs/2110.08922 [(Ph.D. thesis)]
+Nagarajan, V. (2021). *Explaining generalization in deep learning: progress and fundamental limits*. https://arxiv.org/abs/2110.08922 [(Ph.D. thesis)]
 Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. https://arxiv.org/abs/1912.02292
 Neller, T.W. & Lanctot, M. (2013). An introduction to counterfactual regret minimization. *Proceedings of Model AI Assignments*, 11. http://cs.gettysburg.edu/~tneller/modelai/2013/cfr/cfr.pdf
 Neyman, J. (1955). The problem of inductive inference. *Communications on Pure and Applied Mathematics*, 8, 13--45. https://errorstatistics.files.wordpress.com/2017/04/neyman-1955-the-problem-of-inductive-inference-searchable.pdf
