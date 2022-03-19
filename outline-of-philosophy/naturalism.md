@@ -199,7 +199,7 @@ Unity of philosophy and science
 
 <center>
 <blockquote class="twitter-tweet">
-<p lang="en" dir="ltr">When issues have sharp and rich answers they get specialized into a science, and philosophy is the nursery of burgeoning sciences.</p>&mdash; Ryan Reece (@RyanDavidReece)
+<p lang="en" dir="ltr">When issues have sharp and rich answers they get specialized into a science, and philosophy is the nursery of burgeoning sciences.</p>&mdash; Ryan Reece (&commat;RyanDavidReece)
 <a href="https://twitter.com/RyanDavidReece/status/1494536681071919105?ref_src=twsrc%5Etfw">February 18, 2022</a>
 </blockquote> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
