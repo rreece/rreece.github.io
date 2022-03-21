@@ -1777,7 +1777,7 @@ More:
     ([source: Quora](https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization)).
 -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
 -   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
-    -   Counterfactual Regret Minimization (MCCFR)
+    -   Monte Carlo Counterfactual Regret Minimization (MCCFR)
 -   Neller, T.W. & Lanctot, M. (2013). An introduction to counterfactual regret minimization. [^Neller2013]
 
 [^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
@@ -1858,6 +1858,8 @@ Theoretical machine learning
     -   No free lunch theorems for optimization (1997) [^Wolpert1997]
     -   Shalev-Shwarz, S. & Ben-David, S. (2014). [^ShalevShwarz2014p60]
     -   McDermott, J. (2019). [When and why metaheuristics researchers can ignore "no free lunch" theorems](https://arxiv.org/abs/1906.03280). [^McDermott2019]
+    -   Wolpert, D.H. (2007). [Physical limits of inference](https://arxiv.org/abs/0708.1362). [^Wolpert2007]
+    -   Wolpert, D.H. & Kinney, D. (2020). [Noisy deductive reasoning: How humans construct math, and how math constructs universes](https://arxiv.org/abs/2012.08298). [^Wolpert2020]
 -   Blogs:
     -   Fedden, L. (2017). [The no free lunch theorem](https://medium.com/@LeonFedden/the-no-free-lunch-theorem-62ae2c3ed10c).
     -   Lokesh, M. (2020). [The intuition behind the no free lunch theorem](https://towardsdatascience.com/intuitions-behind-no-free-lunch-theorem-1d160f754513).
@@ -1897,6 +1899,8 @@ Roberts:
 [^Wolpert1995]: @Wolpert_1995_No_free_lunch_theorems_for_search\.
 [^Wolpert1996]: @Wolpert_1996_The_lack_of_a_priori_distinctions_between_learning\.
 [^Wolpert1997]: @Wolpert_1997_No_free_lunch_theorems_for_optimization\.
+[^Wolpert2007]: @Wolpert_2007_Physical_limits_of_inference\.
+[^Wolpert2020]: @Wolpert_2020_Noisy_deductive_reasoning_How_humans_construct\.
 
 
 ###  Graphical tensor notation

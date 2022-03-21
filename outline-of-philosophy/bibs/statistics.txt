@@ -232,6 +232,8 @@ Weisberg, J. (2019). *Odds & Ends: Introducing Probability & Decision with a Vis
 Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62. https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-9/issue-1/The-Large-Sample-Distribution-of-the-Likelihood-Ratio-for-Testing/10.1214/aoms/1177732360.full
 Williamson, J. (2009). The philosophy of science and its relation to machine learning. In *Scientific Data Mining and Knowledge Discovery* (pp. 77-89). Springer, Berlin, Heidelberg.
 Wolpert, D.H. (1996). The lack of a priori distinctions between learning algorithms. *Neural Computation*, 8, 1341--1390.
+Wolpert, D.H. (2007). Physical limits of inference. https://arxiv.org/abs/0708.1362
+Wolpert, D.H. & Kinney, D. (2020). Noisy deductive reasoning: How humans construct math, and how math constructs universes. https://arxiv.org/abs/2012.08298
 Wolpert, D.H. & Macready, W.G. (1995). No free lunch theorems for search. [Technical Report SFI-TR-95-02-010, Santa Fe Institute]
 Wolpert, D.H. & Macready, W.G. (1997). No free lunch theorems for optimization. *IEEE Transactions on Evolutionary Computation*, 1, 67--82.
 Wu, Y. et al. (2016). Google's neural machine translation system: Bridging the gap between human and machine translation. https://arxiv.org/abs/1409.0473
