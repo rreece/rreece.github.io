@@ -6,6 +6,7 @@ Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Conver
 {ATLAS Collaboration}. (2012). Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector. *Physical Review D*, 86, 032003. https://arxiv.org/abs/1207.0319
 {ATLAS and CMS Collaborations}. (2011). Procedure for the LHC Higgs boson search combination in Summer 2011. http://cds.cern.ch/record/1379837 [CMS-NOTE-2011-005, ATL-PHYS-PUB-2011-11.]
 {ATLAS Statistics Forum}. (2011). The CLs method: information for conference speakers. http://www.pp.rhul.ac.uk/~cowan/stat/cls/CLsInfo.pdf
+Bach, F. (2022). *Learning Theory from First Principles*. https://www.di.ens.fr/~fbach/ltfp_book.pdf [(Draft)]
 Bahdanau, D., Cho, K. & Bengio, Y. (2015). Neural machine translation by jointly learning to align and translate. *International Conference on Learning Representations, 3rd*, 2015. https://arxiv.org/abs/1409.0473
 Bahri, Y., Kadmon, J., Pennington, J., Schoenholz, S.S., Sohl-Dickstein, J., & Ganguli1, S. (2020). Statistical mechanics of deep learning. *Annual Review of Condensed Matter Physics*, 11, 501--528.
 Balasubramanian, V. (1996). A geometric formulation of Occam's razor for inference of parametric distributions. https://arxiv.org/abs/adap-org/9601001
@@ -131,6 +132,7 @@ Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep le
 Lista, L. (2016). Practical statistics for particle physicists. https://arxiv.org/abs/1609.04150
 Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
 Liu, H., Dai, Z., So, D.R., & Le, Q.V. (2021). Pay attention to MLPs. https://arxiv.org/abs/2105.08050
+Liu, Z., Madhavan, V., & Tegmark, M. (2022). AI Poincare 2.0: Machine learning conservation laws from differential equations. https://arxiv.org/abs/2203.12610
 Lyons, L. (2008). Open statistical issues in particle physics. *The Annals of Applied Statistics*, 2, 887--915. https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-3/Open-statistical-issues-in-Particle-Physics/10.1214/08-AOAS163.full
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
 MacKay, D.J.C. (2003). *Information Theory, Inference, and Learning Algorithms*. Cambridge University Press.
@@ -146,6 +148,7 @@ McDermott, J. (2019). When and why metaheuristics researchers can ignore "no fre
 McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). New York: Academic Press.
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
+Mikolov, T., Sutskever, I., Chen, K., Corrado, G., & Dean, J. (2013). Distributed representations of words and phrases and their compositionality. https://arxiv.org/abs/1310.4546
 Mitchell, T.M. (1980). The need for biases in learning generalizations. In *Readings in Machine Learning* (pp. 184-192). San Mateo, CA, USA. http://www.cs.cmu.edu/afs/cs/usr/mitchell/ftp/pubs/NeedForBias_1980.pdf
 Mnih, V. et al. (2013). Playing Atari with deep reinforcement learning. https://arxiv.org/abs/1312.5602
 Mnih, V. et al. (2015). Human-level control through deep reinforcement learning. *Nature*, 518(7540), 529--533. http://files.davidqiu.com//research/nature14236.pdf
@@ -209,6 +212,7 @@ Sutton, R.S. (2019). The bitter lesson. http://www.incompleteideas.net/IncIdeas/
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Tan, M. & Le, Q.V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. https://arxiv.org/abs/1905.11946
 Tan, M. & Le, Q.V. (2021). EfficientNetV2: Smaller models and faster training. https://arxiv.org/abs/2104.00298
+Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). Efficient transformers: A survey. https://arxiv.org/abs/2009.06732
 Tegmark, M., Taylor, A.N., & Heavens, A.F. (1997). Karhunen-Loeve eigenvalue problems in cosmology: How should we tackle large data sets? *The Astrophysical Journal*, 480, 22--35. https://arxiv.org/abs/astro-ph/9603021
 Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
 Thuerey, N. et al. (2021). Physics-based deep learning. https://arxiv.org/abs/2109.05237

@@ -1452,7 +1452,9 @@ Deep learning
 -   Balestriero, R., Pesenti, J., & LeCun, Y. (2021). [Learning in high dimension always amounts to extrapolation](https://arxiv.org/abs/2110.09485). [^Balestriero2021]
 -   Nagarajan, V. (2021). [Explaining generalization in deep learning: progress and fundamental limits](https://arxiv.org/abs/2110.08922). [^Nagarajan2021]
 -   Bubeck, S. & Sellke, M. (2021). [A universal law of robustness via isoperimetry](https://arxiv.org/abs/2105.12806). [^Bubeck2021]
+-   Bach, F. (2022). [*Learning Theory from First Principles*](https://www.di.ens.fr/~fbach/ltfp_book.pdf). [^Bach2022p225]
 
+[^Bach2022p225]: @Bach_2022_Learning_Theory_from_First_Principles\, p. 225--230.
 [^Balestriero2021]: @Balestriero_2021_Learning_in_high_dimension_always_amounts\.
 [^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
 [^Bubeck2021]: @Bubeck_2021_A_universal_law_of_robustness_via_isoperimetry\.
@@ -1681,6 +1683,7 @@ Resources:
     -   Joshi, C. (2020). [Transformers are GNNs](https://graphdeeplearning.github.io/post/transformers-are-gnns/).
     -   Lakshmanamoorthy, R. (2020). [A complete learning path to transformers (with guide to 23 architectures)](https://analyticsindiamag.com/a-complete-learning-path-to-transformers/).
     -   Zaheer, M. et al. (2020). [Big Bird: Transformers for longer sequences](https://arxiv.org/abs/2007.14062). [^Zaheer2020]
+    -   Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). [Efficient transformers: A survey](https://arxiv.org/abs/2009.06732). [^Tay2022]
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
@@ -1697,13 +1700,15 @@ See also:
 [^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
 [^Kaplan2020]: @Kaplan_2020_Scaling_laws_for_neural_language_models\.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
-[^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations and
-    @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\.
+[^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations\,
+    @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\, and
+    @Mikolov_2013_Distributed_representations_of_words_and_phrases\.
 [^Nirenburg1996]: @Nirenburg_1996_Bar_Hillel_and_Machine_Translation_Then_and_Now\.
 [^Radford2018]: @Radford_2018_Improving_language_understanding_by_generative\.
 [^Radford2019]: @Radford_2019_Language_models_are_unsupervised_multitask\.
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
 [^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
+[^Tay2022]: @Tay_2022_Efficient_transformers_A_survey\.
 [^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.
 [^Wu2016]: @Wu_2016_Googles_neural_machine_translation_system\.
 [^Yang2019]: @Yang_2019_XLNet_Generalized_autoregressive_pretraining\.
@@ -2045,6 +2050,7 @@ Lectures:
 -   Udrescu, S. & Tegmark, M. (2020). [Symbolic pregression: Discovering physical laws from raw distorted video](https://arxiv.org/abs/2005.11212). [^Udrescu2020]
 -   Cranmer, M. et al. (2020). [Discovering symbolic models from deep learning with inductive biases](https://arxiv.org/abs/2006.11287). [^Cranmer2020]
     -   Video: [Discussion by Yannic Kilcher](https://www.youtube.com/watch?v=LMb5tvW-UoQ)
+-   Liu, Z., Madhavan, V., & Tegmark, M. (2022). [AI Poincare 2.0: Machine learning conservation laws from differential equations](https://arxiv.org/abs/2203.12610). [^Liu2022] 
 
 ![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis. [^Asch2018fig]](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
 
@@ -2058,6 +2064,7 @@ See also:
 [^Asch2018fig]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
 [^Cranmer2020]: @Cranmer_2020_Discovering_symbolic_models_from_deep_learning\.
 [^DAgnolo2019]: @DAgnolo_2019_Learning_New_Physics_from_a_Machine\.
+[^Liu2022]: @Liu_2022_AI_Poincare_2\.
 [^Udrescu2020]: @Udrescu_2020_Symbolic_pregression_Discovering_physical_laws\.
 
 

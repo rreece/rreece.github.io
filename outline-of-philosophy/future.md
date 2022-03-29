@@ -67,6 +67,7 @@ Artificial intelligence
 
 -   Gwern. (2020). [The scaling hypothesis](https://www.gwern.net/Scaling-hypothesis#scaling-hypothesis).
 -   "The AI Index 2021 Annual Report" [^Zhang2021]
+-   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/).
 
 See also:
 

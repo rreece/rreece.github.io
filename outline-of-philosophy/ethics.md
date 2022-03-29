@@ -451,9 +451,14 @@ Free speech
 -   [Section 230](https://en.wikipedia.org/wiki/Section_230)
 
 
+### Cancel culture
+
+-   NY Times Editorial Board. (2022). [America has a free speech problem](https://www.nytimes.com/2022/03/18/opinion/cancel-culture-free-speech-poll.html).
+
+
 ### Copyright
 
--   Muller, A.C. (2010). [Wikipedia and the Matter of Accountability](http://www.acmuller.net/wikipedia.html).
+-   Muller, A.C. (2010). [Wikipedia and the matter of accountability](http://www.acmuller.net/wikipedia.html).
 
 
 Protests and (non-)violence

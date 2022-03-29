@@ -579,11 +579,17 @@ Category theory
 -   [Category theory](https://ncatlab.org/nlab/show/category+theory) - nLab
     -   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
     -   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013]
+    -   Fong, B. & Spivak, D.I. (2018). [Seven sketches in compositionality: An invitation to applied category theory](https://arxiv.org/abs/1803.05316). [^Fong2018]
 -   Relation to set theory
 -   Relation to Russell type theory
 -   Univalent foundations
 -   Categories are semigroupoids.
 
+See also:
+
+-   [Univalent foundations](math.html#univalent-foundations)
+
+[^Fong2018]: @Fong_2018_Seven_sketches_in_compositionality_An_invitation\.
 [^Spivak2013]: @Spivak_2013_Category_theory_for_scientists\.
 
 

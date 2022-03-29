@@ -15,6 +15,7 @@ Enderton, H.B. (2009). Second-order and higher-order logic. *Stanford Encycloped
 Ewald, W. (2018). The emergence of first-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/logic-firstorder-emergence/
 Field, H. (1989). *Realism, Mathematics, and Modality*. Oxford: Blackwell.
 Field, H. (2016). *Science Without Numbers* (2nd ed.). Oxford University Press. [(Originally published in 1980 by Princeton University Press)]
+Fong, B. & Spivak, D.I. (2018). Seven sketches in compositionality: An invitation to applied category theory. https://arxiv.org/abs/1803.05316
 Franz\'{e}n, T. (2005). *G{\"o}del's Theorem: An incomplete guide to its use and abuse*. A K Peters.
 Drake, S. (1957). *Discoveries and Opinions of Galileo*. New York: Doubleday and Co.
 Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G{\"o}del*. Norton.
