@@ -653,6 +653,7 @@ Michael Atiyah:
 
 -   Dyson
 -   Wilson
+-   't Hooft, G. (1971). Renormalizable Lagrangians for massive Yang-Mills fields. [^tHooft1971]
 -   Huggett and Weingard [^Huggett1995]
 -   Goldenfeld [^Goldenfeld1992]
 -   Butterfield [^Butterfield2014]
@@ -670,6 +671,7 @@ Michael Atiyah:
 [^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
 [^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
 [^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50.
+[^tHooft1971]: @tHooft_1971_Renormalizable_Lagrangians_for_massive_Yang_Mills\.
 [^tHooft1994-2]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 [^tHooft1999]: @tHooft_1999_A_confrontation_with_infinity\.
 

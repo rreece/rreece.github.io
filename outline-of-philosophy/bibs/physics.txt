@@ -209,6 +209,7 @@ Suppe, F. (1974). *The Structure of Scientific Theories*. University of Illinois
 Tegmark, M. (1993). Apparent wave function collapse caused by scattering. *Foundations of Physics Letters*, 6, 571--590. https://arxiv.org/abs/gr-qc/9310032
 Teller, P. (1997). *An Interpretive Introduction to Quantum Field Theory*. Princeton University Press.
 Teller, P. (2000). The gauge argument. *Philosophy of Science*. 67, 466--481.
+'t Hooft, G. (1971). Renormalizable Lagrangians for massive Yang-Mills fields. Nuclear Physics B, 35, 167--188.
 't Hooft, G. (1978). Extended objects in gauge field theories. In Bod, D.H. & Kamal, A.N. (Eds.) *Particles and Fields* (pp. 165-198). New York: Plenum.
 't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. World Scientific.
 't Hooft, G. (1999). A confrontation with infinity. https://www.nobelprize.org/prizes/physics/1999/thooft/lecture/ [Nobel Lecture, December 8, 1999]
