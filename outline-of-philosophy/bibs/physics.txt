@@ -182,7 +182,7 @@ Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum st
 Redhead, M. (1975). Symmetry in intertheory relations. *Synthese*, 32, 77--112.
 Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(2), 57--99.
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24). Oxford University Press.
-Reece, R. (2007). Quantum Field Theory: An Introduction. http://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf
+Reece, R. (2007). Quantum field theory: An introduction. http://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf
 Rubbia, C. (1984). Experimental observation of the intermediate vector bosons $W^{+}$, $W^{-}$, and $Z^{0}$. https://www.nobelprize.org/uploads/2018/06/rubbia-lecture.pdf [Nobel lecture, December 8, 1984]
 Ryden, B. (2003). *Introduction to Cosmology*. Addison Wesley.
 Salam, A. & Ward, J.C. (1964). Gauge theory of elementary interactions. *Physical Review*, 136, 763--768.
@@ -199,7 +199,7 @@ Schreiber, U. (2016). Learn about supersymmetry and Deligne’s theorem. https:/
 Schreiber, U. (2020). Differential cohomology in a cohesive $\infty$-topos. https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos
 Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.
 Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, III. https://space.mit.edu/home/tegmark/everett/
-Simon, B. (1976). Quantum dynamics: from automorphism to Hamiltonian. In Lieb, E.H. (Ed.) *Studies in Mathematical Physics: Essays in Honor of Valentine Bargmann* (pp. 327-350). Princeton University Press. http://www.math.caltech.edu/SimonPapers/R12.pdf
+Simon, B. (1976). Quantum dynamics: From automorphism to Hamiltonian. In Lieb, E.H. (Ed.) *Studies in Mathematical Physics: Essays in Honor of Valentine Bargmann* (pp. 327-350). Princeton University Press. http://www.math.caltech.edu/SimonPapers/R12.pdf
 Slansky, R. (1981). Group theory for unified model building. *Physics Reports*, 79, 1--128. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1581&rep=rep1&type=pdf
 Stein, H. (2021). Physics and philosophy meet: The strange case of Poincar{\'e}. *Foundations of Physics*, 51, 1--24.
 Stopp, F., Ortiz-Guti{\'e}rrez, L., Lehec, H., & Schmidt-Kaler, F. (2021). Single ion thermal wave packet analyzed via time-of-flight detection. *New Journal of Physics*, 23, 063002. https://iopscience.iop.org/article/10.1088/1367-2630/abffc0
@@ -222,9 +222,12 @@ van Nieuwenhuizen, P. (1981). Supergravity. *Physics Reports*, 68, 189--398.
 von Neumann, J. (1955). *The Mathematical Foundations of Quantum Mechanics* (R.T. Beyer, Trans.). Princeton University Press. [(Originally published in German in 1932)]
 Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum ﬁeld theory. *Studies in History and Philosophy of Modern Physics*, 42, 116--125.
 Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
+Weinberg, S. (1964). Feynman rules for any spin. *Physical Review*, 133, B1318.
+Weinberg, S. (1964). Feynman rules for any spin II: Massless particles. *Physical Review*, 134, B882.
 Weinberg, S. (1967). A model of leptons. *Physical Review Letters*, 19, 1264--1266. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.19.1264
 Weinberg, S. (1977). *The First Three Minutes*. Basic Books.
 Weinberg, S. (1979). Conceptual foundations of the unified theory of weak and electromagnetic interactions. https://www.nobelprize.org/uploads/2018/06/weinberg-lecture.pdf [Nobel lecture, December 8, 1979]
+Weinberg, S. (1997). What is an elementary particle? *Beam Line*, 27, 17--21. https://www.slac.stanford.edu/pubs/beamline/27/1/27-1-weinberg.pdf
 Weinberg, S. (1997). What is quantum field theory, and what did we think it is? *Conceptual foundations of quantum field theory: Proceedings, Symposium and Workshop, Boston, USA, March 1-3, 1996*. http://arxiv.org/abs/hep-th/9702027
 Weyl, H. (1929). Elektron und gravitation. *Zeitschrift f{\"u}r Physik*, 56, 330--352.
 Wheeler, J.A. (1957). Assessment of Everett's "relative state" formulation of quantum theory. *Reviews of Modern Physics*, 29(3), 46--465.

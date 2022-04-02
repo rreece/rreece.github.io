@@ -296,10 +296,10 @@ See also:
 -   [Quantum field theory](#quantum-field-theory)
 
 [^Keller2007]: @Keller_2007_On_the_realization_of_symmetries_in_quantum\.
-[^Reece2007pX1]: @Reece_2007_Quantum_Field_Theory_An_Introduction\, p. X.
+[^Reece2007pX1]: @Reece_2007_Quantum_field_theory_An_introduction\, p. X.
 [^Schroeren2021]: @Schroeren_2021_Symmetry_fundamentalism_in_quantum_mechanics\.
 [^Schweber1961]: @Schweber_1961_An_Introduction_to_Relativistic_Quantum_Field\, p. TODO.
-[^Simon1976]: @Simon_1976_Quantum_dynamics_from_automorphism_to_Hamiltonian\.
+[^Simon1976]: @Simon_1976_Quantum_dynamics_From_automorphism_to_Hamiltonian\.
 [^Summers1999]: @Summers_1999_On_the_Stone_von_Neumann_uniqueness_theorem\.
 [^Wigner1959]: @Wigner_1959_Group_Theory_and_its_Application_to_the_Quantum\.
 
@@ -621,8 +621,9 @@ Michael Atiyah:
 -   LSZ reduction formula [^Lehmann1955]
 -   Haag-Ruelle scattering theory
 -   Feynman diagrams and Feynman rules
+    -   Weinberg, S. (1964). Feynman rules for any spin. [^Weinberg1964]
 -   Martin, S.P. (2011). [Phenomenology of particle physics](https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf). [^Martin2011]
--   My notes: Reece, R. (2007). Quantum Field Theory: An Introduction. [^Reece2007]
+-   My notes: Reece, R. (2007). Quantum field theory: An introduction. [^Reece2007]
 -   Jaeger, G. (2019). Are virtual particles less real? [^Jaeger2019]
 
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
@@ -631,7 +632,9 @@ Michael Atiyah:
 [^Kontsevich2021]: @Kontsevich_2021_Wick_rotation_and_the_positivity_of_energy\.
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
 [^Martin2011]: @Martin_2011_Phenomenology_of_particle_physics\.
-[^Reece2007]: @Reece_2007_Quantum_Field_Theory_An_Introduction\.
+[^Reece2007]: @Reece_2007_Quantum_field_theory_An_introduction\.
+[^Weinberg1964]: @Weinberg_1964_Feynman_rules_for_any_spin and
+    @Weinberg_1964_Feynman_rules_for_any_spin_II_Massless_particles\.
 
 
 ### Path intergrals
@@ -730,6 +733,8 @@ Weinberg on wave-particle duality:
 >   more unified view of nature than the old dualistic interpretation in
 >   terms of both fields and particles. [^Weinberg1997p2]
 
+-   Weinberg, S. (1997). [What is an elementary particle?](https://www.slac.stanford.edu/pubs/beamline/27/1/27-1-weinberg.pdf) [^Weinberg1997a]
+
 Baez, Segal, & Zhou on wave-particle duality:
 
 >   The treatment of the dynamics of quantum systems turns out to be naturally
@@ -755,6 +760,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Myrvold2015]: @Myrvold_2015_What_is_a_wavefunction\.
 [^Pessa2009]: @Pessa_2009_The_concept_of_particle_in_quantum_field_theory\.
 [^Weinberg1997p2]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\, p. 2.
+[^Weinberg1997a]: @Weinberg_1997_What_is_an_elementary_particle\.
 
 
 #### Haag's theorem
@@ -1131,7 +1137,7 @@ Interpretations of quantum mechanics
     -   Everett, H. (1957). "Relative state" formulation of quantum mechanics. [^Everett1957]
     -   Wheeler, J.A. (1957). Assessment of Everett's "relative state" formulation of quantum theory. [^Wheeler1957]
     -   Everett's collected works [^Everett2012]
--   DeWitt, B. S. (1970). [Quantum mechanics and reality](https://physicstoday.scitation.org/doi/10.1063/1.3022331). [^DeWitt1970]
+-   DeWitt, B.S. (1970). [Quantum mechanics and reality](https://physicstoday.scitation.org/doi/10.1063/1.3022331). [^DeWitt1970]
 -   DeWitt, B.S. & Graham, N. (1973). *The Many-Worlds Interpretation of Quantum Mechanics*. [^DeWitt1973]
 -   Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. [^Barrett2011]
 -   Barrett, J.A. (2016). Quantum worlds. [^Barrett2016]

@@ -7,3 +7,4 @@ Urban, T. (2015). The AI Revolution: The Road to Superintelligence. https://wait
 Vincent, J. (2019). OpenAI’s new multitalented AI writes, translates, and slanders: A step forward in AI text-generation that also spells trouble. https://www.theverge.com/2019/2/14/18224704/ai-machine-learning-language-models-read-write-openai-gpt2
 Vinge, V. (1993). The Coming Technological Singularity. https://edoras.sdsu.edu/~vinge/misc/singularity.html
 Zhang, D. et al. (2021). The AI Index 2021 Annual Report. Human-Centered Artificial Intelligence, Stanford University. https://arxiv.org/abs/2103.06312
+Zhang, D. et al. (2022). The AI Index 2022 Annual Report. Human-Centered Artificial Intelligence, Stanford University. https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf

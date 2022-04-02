@@ -66,7 +66,8 @@ Artificial intelligence
 >   context-appropriate prose, which would drown out all other speech and be impossible to filter. [^Vincent2019]
 
 -   Gwern. (2020). [The scaling hypothesis](https://www.gwern.net/Scaling-hypothesis#scaling-hypothesis).
--   "The AI Index 2021 Annual Report" [^Zhang2021]
+-   Zhang, D. et al. (2021). [The AI Index 2022 Annual Report](https://arxiv.org/abs/2103.06312). [^Zhang2021]
+-   Zhang, D. et al. (2022). [The AI Index 2022 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf). [^Zhang2022]
 -   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/).
 
 See also:
@@ -77,6 +78,7 @@ See also:
 [^Vincent2019]: @Vincent_2019_OpenAIs_new_multitalented_AI_writes_translates\.
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 [^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.
+[^Zhang2022]: @Zhang_2022_The_AI_Index_2022_Annual_Report\.
 
 
 Transhumanism

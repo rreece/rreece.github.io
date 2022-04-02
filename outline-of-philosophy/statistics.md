@@ -1593,6 +1593,16 @@ Blogs:
 -   Chang, D. (2020). [Effect of batch size on neural net training](https://medium.com/deep-learning-experiments/effect-of-batch-size-on-neural-net-training-c5ae8516e57).
 
 
+### Normalization
+
+-   BatchNorm
+-   LayerNorm, GroupNorm
+-   OnlineNorm
+-   Kiani, B., Balestriero, R., Lecun, Y., & Lloyd, S. (2022). [projUNN: efficient method for training deep networks with unitary matrices](https://arxiv.org/abs/2203.05483). [^Kiani2022]
+
+[^Kiani2022]: @Kiani_2022_projUNN_efficient_method_for_training_deep\.
+
+
 ### Computer vision
 
 -   Computer Vision (CV)

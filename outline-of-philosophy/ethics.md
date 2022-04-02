@@ -58,7 +58,11 @@ Kant:
 
 ### Discussion
 
--   TODO
+-   Cushman, F. (2013). Action, outcome, and value. [^Cushman2013]
+-   Ayars, A. (2016). Can model-free reinforcement learning explain deontological moral judgments? [^Ayars2016]
+
+[^Ayars2016]: @Ayars_2016_Can_model_free_reinforcement_learning_explain\.
+[^Cushman2013]: @Cushman_2013_Action_outcome_and_value\.
 
 
 ### Criticism
