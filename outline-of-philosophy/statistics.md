@@ -1928,11 +1928,16 @@ Roberts:
 
 ### Universal approximation theorem
 
--   Multi-layer perceptions with two or more layers are universal
-    approximators.  [^Bishop2006p230]
+-   Hornik, K., Stinchcombe, M., & White, H. (1989). [Multilayer feedforward networks are universal approximators](https://cognitivemedium.com/magic_paper/assets/Hornik.pdf).
+-   Lu, Z., Pu, H., Wang, F., Hu, Z., & Wang, L. (2017). [The expressive power of neural networks: A view from the width](https://proceedings.neurips.cc/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf). [^Lu2017]
+-   Ismailov, V. (2020). [A three layer neural network can represent any multivariate function](https://arxiv.org/abs/2012.03016).
+-   Multi-layer perceptions with two or more layers are universal approximators.  [^Bishop2006p230]
 -   Seemed to slow the interest in deeper networks?
 
 [^Bishop2006p230]: @Bishop_2006_Pattern_Recognition_and_Machine_Learning\, p. 230.
+[^Hornik1989]: @Hornik_1989_Multilayer_feedforward_networks_are_universal\.
+[^Ismailov2020]: @Ismailov_2020_A_three_layer_neural_network_can_represent_any\.
+[^Lu2017]: @Lu_2017_The_expressive_power_of_neural_networks_A_view\.
 
 
 ### Relationship to statistical mechanics

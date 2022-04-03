@@ -10,6 +10,7 @@ Bueno, O. (2013). Nominalism in the philosophy of mathematics. *Stanford Encyclo
 Burgess, J.P. (1983). Why I am not a nominalist. *Notre Dame Journal of Formal Logic*, 24(1), 93--105.
 Button, T. & Walsh, S. (2018). *Philosophy and Model Theory*. Oxford University Press.
 Carnap, R. (1958). *Introduction to Symbolic Logic and its Applications*. New York: Dover Publications.
+Carter, N. (2009). *Visual Group Theory*. Mathematical Association of America.
 Chen, E.K. (2018). The intrinsic structure of quantum mechanics. http://philsci-archive.pitt.edu/15140/
 Enderton, H.B. (2009). Second-order and higher-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/archives/sum2019/entries/logic-higher-order/
 Ewald, W. (2018). The emergence of first-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/logic-firstorder-emergence/

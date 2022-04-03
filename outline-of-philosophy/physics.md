@@ -1445,6 +1445,7 @@ See also:
     -   Slansky [^Slansky1981]
     -   Georgi, H. (1982). *Lie Algebras in Particle Physics*. [^Georgi1982]
     -   Beaz & Huerta [^Baez2009]
+    -   Lisi, A.G. (2007). [An exceptionally simple theory of everything](https://arxiv.org/abs/0711.0770). [^Lisi2007]
 
 ![Two-loop renormalization group evolution of the inverse gauge couplings, $\alpha^{-1}$,
     in the Standard Model (dashed lines) and the MSSM (solid lines).
@@ -1459,6 +1460,7 @@ See also:
 [^Baez2009]: @Baez_2009_The_algebra_of_grand_unified_theories\.
 [^Glashow1974]: @Georgi_1974_Unity_of_all_elementary_particle_forces\.
 [^Georgi1982]: @Georgi_1999_Lie_Algebras_in_Particle_Physics\.
+[^Lisi2007]: @Lisi_2007_An_exceptionally_simple_theory_of_everything\.
 [^Martin2016p66]: @Martin_2016_A_supersymmetry_primer\, p. 66.
 [^Pati1974]: @Pati_1974_Lepton_number_as_the_fourth_color\.
 [^Slansky1981]: @Slansky_1981_Group_theory_for_unified_model_building\.

@@ -46,6 +46,9 @@ TODO
     808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000,000](https://www.youtube.com/watch?v=mH0oCDa74tE).
 -   [Monstrous moonshine](https://en.wikipedia.org/wiki/Monstrous_moonshine)
 -   [Richard Borcherds](https://en.wikipedia.org/wiki/Richard_Borcherds) (b. 1959)
+-   Carter, N. (2009). *Visual Group Theory*. [^Carter2009]
+
+[^Carter2009]: @Carter_2009_Visual_Group_Theory\.
 
 
 ### Lie groups

@@ -136,6 +136,7 @@ Kontsevich, M. & Segal, G. (2021). Wick rotation and the positivity of energy in
 Lazarovici, D. (2018). Against fields. *European Journal for Philosophy of Science*, 8(2), 145--170. https://arxiv.org/abs/1809.00855
 Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. *Nuovo Cimento*, 1, 205--225.
 Leifer, M.S., & Spekkens, R.W. (2013). Towards a formulation of quantum theory as a causally neutral theory of Bayesian inference. *Physical Review A*, 88(5), 052130. https://arxiv.org/abs/1107.5849
+Lisi, A.G. (2007). An exceptionally simple theory of everything. https://arxiv.org/abs/0711.0770
 Lisi, A.G. (2017). Emergence. https://www.edge.org/response-detail/27149
 {LSND Collaboration}. (1996). Evidence for neutrino oscillations from muon decay at rest. *Physical Review C*, 54, 2685--2708. https://arxiv.org/abs/nucl-ex/9605001
 {LSND Collaboration}. (2001). Evidence for neutrino oscillations from the observation of electron anti-neutrinos in a muon anti-neutrino beam. *Physical Review D*, 64, 112007. https://arxiv.org/abs/hep-ex/0104049
