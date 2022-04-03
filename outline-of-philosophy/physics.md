@@ -1606,6 +1606,7 @@ Complexity and emergence
 -   Thermodynamics, statistical mechanics, renormalization.
 -   Anderson, P.W. (1972). More is different. [^Anderson1972p393]
 -   Bedau, M. (1997). Weak emergence.
+-   Video: DeDeo, S. (2012). [Lecture 1: Coarse-graining, renormalization & universality](https://www.youtube.com/watch?v=nqbWVoZVOfQ).
 -   Lisi, A.G. (2017). [Emergence](https://www.edge.org/response-detail/27149). [^Lisi2017]
 -   Bain
 -   Jard&oacute;n, R. (2020). [Emergence](https://philosophytweet.blogspot.com/2020/04/emergence.html).
