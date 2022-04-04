@@ -40,7 +40,7 @@ TODO
 -   [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
 -   [Sporadic group](https://en.wikipedia.org/wiki/Sporadic_group)
 -   [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups)
--   Elwes, R. (2006). [An enormous theorem: the classification of finite simple groups](https://plus.maths.org/content/enormous-theorem-classification-finite-simple-groups).
+-   Elwes, R. (2006). [An enormous theorem: The classification of finite simple groups](https://plus.maths.org/content/enormous-theorem-classification-finite-simple-groups).
 -   There are 26 sporadic simple groups (27 if you count the Tits group).
 -   YouTube 3Blue1Brown: [Group theory and why I love       
     808,017,424,794,512,875,886,459,904,961,710,757,005,754,368,000,000,000](https://www.youtube.com/watch?v=mH0oCDa74tE).
