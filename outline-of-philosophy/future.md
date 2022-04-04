@@ -40,7 +40,8 @@ Technological growth
 -   The Coming Technological Singularity [^Vinge1993]
 -   Simulation argument [^Bostrom2003] and patch [^Bostrom2011]
 -   [Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
--   The AI Revolution: The Road to Superintelligence [^WaitButWhy2015]
+-   Urban, T. (2015). [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html). [^WaitButWhy2015]
+-   Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. [^Bostrom2014]
 
 See also:
 
@@ -49,6 +50,7 @@ See also:
 
 [^Bostrom2003]: @Bostrom_2003_Are_you_living_in_a_computer_simulation\.
 [^Bostrom2011]: @Bostrom_2011_A_patch_for_the_simulation_argument\.
+[^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
 [^Vinge1993]: @Vinge_1993_The_Coming_Technological_Singularity\.
 [^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
 
@@ -68,7 +70,7 @@ Artificial intelligence
 -   Gwern. (2020). [The scaling hypothesis](https://www.gwern.net/Scaling-hypothesis#scaling-hypothesis).
 -   Zhang, D. et al. (2021). [The AI Index 2022 Annual Report](https://arxiv.org/abs/2103.06312). [^Zhang2021]
 -   Zhang, D. et al. (2022). [The AI Index 2022 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf). [^Zhang2022]
--   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/).
+-   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 
 See also:
 

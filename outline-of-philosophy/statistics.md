@@ -1879,6 +1879,7 @@ Theoretical machine learning
     -   Fedden, L. (2017). [The no free lunch theorem](https://medium.com/@LeonFedden/the-no-free-lunch-theorem-62ae2c3ed10c).
     -   Lokesh, M. (2020). [The intuition behind the no free lunch theorem](https://towardsdatascience.com/intuitions-behind-no-free-lunch-theorem-1d160f754513).
     -   Mueller, A. (2019). [Don't cite the no free lunch theorem](https://peekaboo-vision.blogspot.com/2019/07/dont-cite-no-free-lunch-theorem.html).
+    -   [Quora answer by Luis Argerich](https://www.quora.com/If-Wolperts-No-free-lunch-theorem-is-true-how-come-most-Kaggle-competitions-winners-use-either-XGBoost-for-structured-data-or-NN-for-unstructured/answer/Luis-Argerich)
 -   Inductive bias
     -   Yudkowsky, E. (2007). [Inductive bias](https://www.lesswrong.com/posts/H59YqogX94z5jb8xx/inductive-bias). *LessWrong*.
     -   [Ugly duckling theorem](https://en.wikipedia.org/wiki/Ugly_duckling_theorem)

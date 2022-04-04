@@ -623,7 +623,7 @@ Michael Atiyah:
 -   Feynman diagrams and Feynman rules
     -   Weinberg, S. (1964). Feynman rules for any spin. [^Weinberg1964]
 -   Martin, S.P. (2011). [Phenomenology of particle physics](https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf). [^Martin2011]
--   My notes: Reece, R. (2007). Quantum field theory: An introduction. [^Reece2007]
+-   My notes: Reece, R. (2007). [Quantum field theory: An introduction](http://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf). [^Reece2007]
 -   Jaeger, G. (2019). Are virtual particles less real? [^Jaeger2019]
 
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.

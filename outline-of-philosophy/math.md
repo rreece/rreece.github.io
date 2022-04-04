@@ -6,7 +6,7 @@ specialized topics, starting with this one on the philosophy of mathematics.
 Here we dig into issues of what is _**abstraction**_.
 
 First we survey the following branches of mathematics:
-logic, algebra, analysis, model theory.
+algebra, analysis, numbers theory, logic, model theory, and category theory.
 Then we discuss unification programs across branches,
 followed by sections on positions in philosophy of mathematics,
 in particular dealing with the realism/antirealism or platonism/nominalism
