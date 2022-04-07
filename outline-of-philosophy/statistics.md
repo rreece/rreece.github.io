@@ -1419,7 +1419,7 @@ Deep learning
 -   Backpropagation
     -   Rumelhart [^Rumelhart1986]
     -   Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html).
-    -   Schmidhuber: [Who Invented Backpropagation?](http://people.idsia.ch/~juergen/who-invented-backpropagation.html).
+    -   Schmidhuber: [Who invented backpropagation?](http://people.idsia.ch/~juergen/who-invented-backpropagation.html)
     -   Scmidhuber: [The most cited neural networks all build on work done in my labs](https://people.idsia.ch/~juergen/most-cited-neural-nets.html).
 -   Pratical guides
     -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).

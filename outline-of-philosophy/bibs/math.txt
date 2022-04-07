@@ -23,7 +23,7 @@ Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G{\"o}del*.
 Goodman, N. & Quine, W.V.O. (1947). Steps toward a constructive nominalism. *The Journal of Symbolic Logic*, 12, 105--122.
 Hamming, R. W. (1980). The unreasonable effectiveness of mathematics. *The American Mathematical Monthly*, 87, 81--90.
 Hardy, G.H. (1940). *A Mathematician's Apology*. Cambridge University Press.
-Hilbert, D. (1967). The foundations of mathematics. In J. van Heijenoort (Ed.), *From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1879-1931* (pp. 464--479). Harvard University Press. [From a lecture given by Hilbert in 1927.]
+Hilbert, D. (1967). The foundations of mathematics. In J. van Heijenoort (Ed.), *From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1879-1931* (pp. 464--479). Harvard University Press. [(From a lecture given by Hilbert in 1927).]
 Holm, D.D. (2011). *Geometric Mechanics - Part I: Dynamics And Symmetry* (2nd ed.). Imperial College Press.
 Holm, D.D. (2011). *Geometric Mechanics - Part II: Rotating, Translating, and Rolling* (2nd ed.). Imperial College Press.
 Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard First-Order Logic*. University of California Press.
@@ -52,6 +52,7 @@ Snapper, E. (1979). The three crises in mathematics: Logicism, intuitionism and 
 Spivak, D.I. (2013). Category theory for scientists. https://arxiv.org/abs/1302.6946
 Stillwell, J. (2004). Emil Post and his anticipation of G{\"o}del and Turing. *Mathematics Magazine*, 77, 3--14.
 Sussman, G.J. & Wisdom, J. (2013). *Functional Differential Geometry*. MIT Press. https://mitpress.mit.edu/books/functional-differential-geometry
+Tait, W.W. (1983). Against intuitionism: Constructive mathematics is part of classical mathematics. *Journal of Philosophical Logic*, 12, 173--195. 
 Tao, T. (2007). Differential forms and integration. https://www.math.ucla.edu/~tao/preprints/forms.pdf
 Tegmark, M. (2008). The mathematical universe. *Foundations of Physics*, 38, 101--150. https://arxiv.org/abs/0704.0646
 Teller, P. (1989). *A Modern Formal Logic Primer*. Prentice Hall. https://tellerprimer.ucdavis.edu/

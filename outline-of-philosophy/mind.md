@@ -132,8 +132,6 @@ Neuroscience
 -   Libet experiments
 -   Tononi, G. & Edelman, G.M. (1998). Consciousness and complexity. [^Tononi1998]
 -   Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. [^Koch2016]
--   Markram, H. et al. (2017). [Blue Brain team discovers a multi-dimensional universe in brain networks](https://blog.frontiersin.org/2017/06/12/blue-brain-team-discovers-a-multi-dimensional-universe-in-brain-networks/).
--   Markram, H. et al. (2020). [New evidence for innate knowledge](https://actu.epfl.ch/news/new-evidence-for-innate-knowledge-3/).
 
 [^Tononi1998]: @Tononi_1998_Consciousness_and_complexity\.
 [^Koch2016]: @Koch_2016_Neural_correlates_of_consciousness_Progress\.
@@ -142,9 +140,14 @@ Neuroscience
 ### Computational neuroscience
 
 -   Blue Brain Project
+    -   Markram, H. et al. (2017). [Blue Brain team discovers a multi-dimensional universe in brain networks](https://blog.frontiersin.org/2017/06/12/blue-brain-team-discovers-a-multi-dimensional-universe-in-brain-networks/).
+    -   Reimann, M.W. et al. (2017). [Cliques of neurons bound into cavities provide a missing link between structure and function](https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full). [^Reimann2017]
+    -   Markram, H. et al. (2020). [New evidence for innate knowledge](https://actu.epfl.ch/news/new-evidence-for-innate-knowledge-3/).
 -   Neuromorphic computing
 
 ![Kahn, Fritz. (1939). [What goes on in our heads when we see a car and say 'car'](https://www.amazon.com/Fritz-Kahn-Uta-Thilo-Debschitz/dp/3836548402).](img/fritz-kahn-what-happens-in-our-heads.jpg){#fig:fritz-kahn-what-happens-in-our-heads}
+
+[^Reimann2017]: @Reimann_2017_Cliques_of_neurons_bound_into_cavities_provide\.
 
 
 Artificial intelligence

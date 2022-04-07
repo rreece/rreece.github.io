@@ -15,6 +15,7 @@ Mach, E. (1914). *The Analysis of Sensations and the Relation of the Physical* (
 McCarthy, C. (2017). The Kekul{\'e} Problem. *Nautilus*, 47. https://nautil.us/issue/47/consciousness/the-kekul-problem
 Montero, B. (1999). The Body Problem. *Nous*, 33(2), 183--200.
 Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435--450. https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf
+Reimann, M.W. et al. (2017). Cliques of neurons bound into cavities provide a missing link between structure and function. *Frontiers in Computational Neuroscience*, 11. https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full
 Tononi, G. & Edelman, G.M. (1998). Consciousness and complexity. *Science*, 282, 1846--1851.
 Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5, 1--22. https://link.springer.com/article/10.1186/1471-2202-5-42
 Tononi, G. (2010). Information integration: Its relevance to brain function and consciousness. *Archives Italiennes de Biolaogie*, 148, 299--322. http://www.architalbiol.org/index.php/aib/article/view/148299

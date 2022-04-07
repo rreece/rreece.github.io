@@ -425,7 +425,7 @@ Solzhenitsyn:
 -   Berlin, I. (1994). A message to the twenty first century. [^Berlin1994]
 
 [^Berlin1994]: @Berlin_1994_A_message_to_the_twenty_first_century\.
-[^SolzhenitsynGApart1ch4]: Solzhenitsyn, A. *The Gulag Archipelago*, Part 1, Ch. 4.
+[^SolzhenitsynGApart1ch4]: @Solzhenitsyn_1974_The_Gulag_Archipelago\, Part 1, Ch. 4.
 
 
 ### Socialism

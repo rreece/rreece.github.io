@@ -561,6 +561,8 @@ Relationship to mind:
 See also:
 
 -   [Artificial intelligence](mind.html#artificial-intelligence)
+-   [Formalism](#formalism)
+-   [Hilbert's program](#hilberts-program)
 
 [^Atiyah1994p182]: @Atiyah_1994_Responses_to_Theoretical_Mathematics_Toward\, p. 182.
 [^Cubitt2015]: @Cubitt_2015_Undecidability_of_the_spectral_gap\.
@@ -698,7 +700,17 @@ Platonism
 
 ### Introduction
 
+>   What has been is what will be,              
+>   and what has been done is what will be done;              
+>   there is nothing new under the sun.              
+>   Is there a thing of which it is said,              
+>   "See, this is new"?              
+>   It has already been,              
+>   in the ages before us. [^Ecclesiastes_1_9]
+
 -   TODO
+
+[^Ecclesiastes_1_9]: *Ecclesiastes* 1:9--10 (NRSV).
 
 
 ### Pythagoreanism
@@ -979,6 +991,8 @@ See also:
 Intuitionism
 --------------------------------------------------------------------------------
 
+### Introduction
+
 -   Antirealist
 -   Leopold Kronecker's finitism was a forerunner of intuitionism in foundations of mathematics.
 -   Kronecker: "God made the integers, all else is the work of man".
@@ -986,13 +1000,20 @@ Intuitionism
     -   Brouwer, L.E.J. (1908). [Unreliability of the logical principles](https://arxiv.org/abs/1511.01113). [^Brouwer1908]
 -   Constructive mathematics
 
+[^Brouwer1908]: @Brouwer_1908_Unreliability_of_the_logical_principles\.
+
+
+### Criticism
+
 Hilbert: 
 
 >   Taking the Principle of the Excluded Middle from the mathematician ...
 >   is the same as ... prohibiting the boxer the use of his fists. [^Reid1996p149]
 
-[^Brouwer1908]: @Brouwer_1908_Unreliability_of_the_logical_principles\.
+-   Tait, W.W. (1983). Against intuitionism: Constructive mathematics is part of classical mathematics. [^Tait1983]
+
 [^Reid1996p149]: @Reid_1996_Hilbert\, p. 149.
+[^Tait1983]: @Tait_1983_Against_intuitionism_Constructive_mathematics_is\.
 
 
 Fictionalism

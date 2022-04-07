@@ -1604,23 +1604,18 @@ Complexity and emergence
     -   chaos
 -   [Universality](https://en.wikipedia.org/wiki/Universality_(dynamical_systems))
 -   Thermodynamics, statistical mechanics, renormalization.
--   Anderson, P.W. (1972). More is different. [^Anderson1972p393]
+-   Anderson, P.W. (1972). More is different.
 -   Bedau, M. (1997). Weak emergence.
--   Video: DeDeo, S. (2012). [Lecture 1: Coarse-graining, renormalization & universality](https://www.youtube.com/watch?v=nqbWVoZVOfQ).
+-   DeDeo, S. (2012). Video: [Lecture 1: Coarse-graining, renormalization & universality](https://www.youtube.com/watch?v=nqbWVoZVOfQ).
 -   Lisi, A.G. (2017). [Emergence](https://www.edge.org/response-detail/27149). [^Lisi2017]
 -   Bain
 -   Jard&oacute;n, R. (2020). [Emergence](https://philosophytweet.blogspot.com/2020/04/emergence.html).
 -   Views on reductionism
     -   [Mariam Thalos - 3:AM Magazine interview](https://www.3ammagazine.com/3am/multi-scale-existentialist-freedoms/)
--   [Closer To Truth: What's Strong Emergence?](https://www.youtube.com/watch?v=zkffv2nVF64)
+-   Video: [Closer To Truth: What's Strong Emergence?](https://www.youtube.com/watch?v=zkffv2nVF64)
     -   George F. R. Ellis vs Barry Loewer
 -   John, Y.J. (2020). [An emergence reading list](https://yohanjohn.com/axispraxis/an-emergence-reading-list/).
     -   [My tweet rebutting anti-reductionism](https://twitter.com/RyanDavidReece/status/1481730862001446917)
-
-See also:
-
--   [Reductionism](naturalism.html#reductionism)
-    in the [Outline on naturalism](naturalism.html#reductionism)
 
 Anderson:
 
@@ -1630,7 +1625,12 @@ Anderson:
 >   difficulties of scale and complexity. At each level of complexity entirely
 >   new properties appear. Psychology is not applied biology, nor is biology
 >   applied chemistry. We can now see that the whole becomes not merely more,
->   but very different from the sum of its parts.
+>   but very different from the sum of its parts. [^Anderson1972p393]
+
+See also:
+
+-   [Reductionism](naturalism.html#reductionism)
+    in the [Outline on naturalism](naturalism.html#reductionism)
 
 [^Anderson1972p393]: @Anderson_1972_More_is_different\, p. 393.
 [^Lisi2017]: @Lisi_2017_Emergence\.
