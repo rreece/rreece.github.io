@@ -460,6 +460,18 @@ Criticism:
 [^MartinezOrdaz2021]: @Martinez_Ordaz_2021_The_ignorance_behind_inconsistency_toleration\.
 
 
+### Proof theory
+
+-   Viteri, S. & DeDeo, S. (2022). [Epistemic phase transitions in mathematical proofs](https://www.sciencedirect.com/science/article/pii/S0010027722001081). [^Viteri2022]
+
+See also:
+
+-   [Logicism](#logicism)
+-   [Formalism](#formalism)
+
+[^Viteri2022]: @Viteri_2022_Epistemic_phase_transitions_in_mathematical\.
+
+
 Model theory
 --------------------------------------------------------------------------------
 

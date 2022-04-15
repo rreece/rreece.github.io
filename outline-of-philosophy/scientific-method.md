@@ -1559,14 +1559,19 @@ Pseudoscience
 
 ### The demarcation problem
 
--   TODO
 -   Poor quality science vs pseudoscience
+-   Pigliucci, M. & Boudry, M. (2013). *Philosophy of Pseudoscience: Reconsidering the Demarcation Problem*. [^Pigliucci2013]
+-   Blancke, S. & Boudry, M. (2022). Pseudoscience as a negative outcome of scientific dialogue: A pragmatic-naturalistic approach to the demarcation problem. [^Blancke2022]
+
+[^Blancke2022]: @Blancke_2022_Pseudoscience_as_a_negative_outcome_of_scientific\.
+[^Pigliucci2013]: @Pigliucci_2013_Philosophy_of_Pseudoscience_Reconsidering\.
 
 
 ### Bullshit
 
 -   TODO
 -   [James Ladyman on Pseudoscience and Bullshit](https://www.youtube.com/watch?v=32ZaTKa2IRg)
+-   Smith, N. (2022). [The two paper rule](https://noahpinion.substack.com/p/the-two-paper-rule).
 
 
 My thoughts

@@ -3,6 +3,7 @@ Aronson, D. (2007). *Evidence-Based Technical Analysis*. John Wiley & Sons.
 Aumann, R.J. (1976). Agreeing to disagree. *The Annals of Statistics*, 4(6), 1236--9.
 Awodey, S. & Carus, A.W. (2007). Carnap's dream: G{\"o}del, Wittgenstein, and Logical Syntax. *Synthese*, 159, 23--45. https://link.springer.com/article/10.1007/s11229-006-9066-4
 Bhaskar, R. (2008). *A Realist Theory of Science*. Routledge.
+Blancke, S. & Boudry, M. (2022). Pseudoscience as a negative outcome of scientific dialogue: A pragmatic-naturalistic approach to the demarcation problem. *International Studies in the Philosophy of Science*. 
 Blachowicz, J. (2009). How science textbooks treat scientific method: A philosopher's perspective. *The British Journal for the Philosophy of Science*, 60(2), 303--344.
 Blachowicz, J. (2016). There is no scientific method. *The New York Times*. https://www.nytimes.com/2016/07/04/opinion/there-is-no-scientific-method.html [July 4, 2016]
 Box, G.E.P. (1976). Science and statistics. *Journal of the American Statistical Association*, 71(356), 791--799.
@@ -59,6 +60,7 @@ Russell, G. (2008). *Truth in Virtue of Meaning: A defence of the analytic/synth
 Papineau, D. (2012). *Philosophical Devices: Proofs, Probabilities, Possibilities, and Sets*. Oxford University Press.
 Pettigrew, R. & Weisberg, J. (2019). *The Open Handbook of Formal Epistemology*. PhilPapers. https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf
 Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*. Chicago University Press.
+Pigliucci, M. & Boudry, M. (2013). *Philosophy of Pseudoscience: Reconsidering the Demarcation Problem*. The University of Chicago Press.
 Popper, K.R. (2002). *The Logic of Scientific Discovery*. Routledge. [(Originally published in 1934 as \emph{Logik der Forschung} and first published in English in 1959)]
 Prado, I. (2006). Ionian enchantment: A brief history of scientific naturalism. http://www.naturalism.org/worldview-naturalism/history-of-naturalism
 Quine, W.V.O. (1951). Two dogmas of empiricism. *The Philosophical Review*, 60, 20--43.
