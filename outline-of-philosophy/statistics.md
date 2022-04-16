@@ -1379,12 +1379,16 @@ See also:
 -   unsupervised
 -   Gaussian Mixture Models (GMMs)
     -   Gaussian discriminant analysis
+    -   $\chi^2$
 -   Generalized Linear Models (GLMs)
     -   Exponential family of PDFs
     -   Multinoulli $\mathrm{Cat}(x|\mu)$
     -   GLMs
 -   EM algorithm
     -   $k$-means
+-   [Clustering high-dimensional data](https://en.wikipedia.org/wiki/Clustering_high-dimensional_data)
+    -   [*t*-distributed stochastic neighbor embedding (t-SNE)](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
+    -   Slonim, N., Atwal, G.S., Tkacik, G. & Bialek, W. (2005). [Information-based clustering](https://arxiv.org/abs/q-bio/0511043). [^Slonim2005]
 -   [Topological data analysis](https://en.wikipedia.org/wiki/Topological_data_analysis)
     -   Dindin, M. (2018). [TDA To Rule Them All: ToMATo Clustering](https://towardsdatascience.com/tda-to-rule-them-all-tomato-clustering-878e03394a1).
 -   Relationship of clustering and autoencoding
@@ -1394,8 +1398,6 @@ See also:
     -   See also:
         -   [Algorithmic information theory](#algorithmic-information-theory)
         -   [Constructive empiricism](scientific-realism.html#constructive-empiricism)
--   [Clustering high-dimensional data](https://en.wikipedia.org/wiki/Clustering_high-dimensional_data)
-    -   [*t*-distributed stochastic neighbor embedding (t-SNE)](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
 
 See also:
 
@@ -1404,6 +1406,7 @@ See also:
 
 [^Batson2021]: @Batson_2021_Topological_obstructions_to_autoencoding\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
+[^Slonim2005]: @Slonim_2005_Information_based_clustering\.
 
 
 Deep learning

@@ -1038,13 +1038,8 @@ Interpretations of quantum mechanics
 -   Maudlin, T. (1995). Three measurement problems. [^Maudlin1995]
 -   Schr&ouml;dinger's cat
 -   Penrose: $U$ and $R$ operators
--   Wigner's friend
-    -   Deutsch, D. (1985). Quantum theory as a universal physical theory. [^Deutsch1985]
-    -   Bong, K.W. et al. (2020). [A strong no-go theorem on the Wigner's friend paradox](https://arxiv.org/abs/1907.05607). [^Bong2020]
 -   D&uuml;rr, D. & Lazarovici, D. (2020). *Understanding Quantum Mechanics: The World According to Modern Quantum Foundations*. [^Durr2020]
 
-[^Bong2020]: @Bong_2020_A_strong_no_go_theorem_on_the_Wigners_friend\.
-[^Deutsch1985]: @Deutsch_1985_Quantum_theory_as_a_universal_physical_theory\.
 [^Durr2020]: @Durr_2020_Understanding_Quantum_Mechanics_The_World\.
 [^Maudlin1995]: @Maudlin_1995_Three_measurement_problems\.
 
@@ -1084,11 +1079,16 @@ Interpretations of quantum mechanics
 -   Gisin's theorem [^Gisin1991]
 -   Maudlin, T. (2014). What Bell did. [^Maudlin2014]
 -   Ahmed, A., & Caulton, A. (2014). [Causal decision theory and EPR correlations](http://philsci-archive.pitt.edu/10992/). [^Ahmed2014]
+-   Wigner's friend
+    -   Deutsch, D. (1985). Quantum theory as a universal physical theory. [^Deutsch1985]
+    -   Bong, K.W. et al. (2020). [A strong no-go theorem on the Wigner's friend paradox](https://arxiv.org/abs/1907.05607). [^Bong2020]
 
 [^Ahmed2014]: @Ahmed_2014_Causal_decision_theory_and_EPR_correlations\.
 [^Bell1964]: @Bell_1964_On_the_Einstein_Podolsky_Rosen_Paradox\.
 [^Bell1966]: @Bell_1966_On_the_problem_of_hidden_variables_in_quantum\.
+[^Bong2020]: @Bong_2020_A_strong_no_go_theorem_on_the_Wigners_friend\.
 [^Clauser1969]: @Clauser_1969_Proposed_experiment_to_test_local_hidden_variable\.
+[^Deutsch1985]: @Deutsch_1985_Quantum_theory_as_a_universal_physical_theory\.
 [^Gisin1991]: @Gisin_1991_Bells_inequality_holds_for_all_non_product\,
     @Gisin_1992_Maximal_violation_of_Bells_inequality\, and
     @Gisin_1999_Bell_inequality_for_arbitrary_many_settings\.

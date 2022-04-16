@@ -33,7 +33,7 @@ Bohm, D. (1952). A suggested interpretation of the quantum theory in terms of 'h
 Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. *Physical Review*, 89, 458--466.
 Bohm, D. & Aharonov, Y. (1957). Discussion of experimental proof for the paradox of Einstein, Rosen, and Podolsky. *Physical Review*, 108, 1070.
 Bokulich, P. (2011). Hempel's dilemma and domains of physics. *Analysis*, 71, 646--651.
-Bong, K.W. et al. (2020). A strong no-go theorem on the Wigner's friend paradox. *Nature Physics*, 27, 1199--1205. https://arxiv.org/abs/1907.05607
+Bong, K.W. et al. (2020). A strong no-go theorem on the Wigner's friend paradox. *Nature Physics*, 16(12), 1199--1205. https://arxiv.org/abs/1907.05607
 Borcherds, R.E. & Barnard, A. (2002). Lectures on quantum field theory. https://arxiv.org/abs/math-ph/0204014
 Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. *Studies in History and Philosophy of Modern Physics*, 33, 3--22. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.106&rep=rep1&type=pdf
 Broughton, M. et al. (2020). TensorFlow Quantum: A software framework for quantum machine learning. https://arxiv.org/abs/2003.02989

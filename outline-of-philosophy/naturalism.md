@@ -880,7 +880,6 @@ Dang & Bright:
     -   Jacobson, D. et al. (2021). [Open letter concerning academic freedom](https://sites.google.com/view/open-letter-stock-freedom/).
     -   Stock, K. (2021). [The sinister attempts to silence gender critical academics](https://www.spectator.co.uk/article/the-sinister-attempts-to-silence-gender-critical-academics).
     -   Stock, K. (2021). [I refuse to be bullied into silence](https://www.dailymail.co.uk/news/article-9155659/I-refuse-bullied-silence-PROFESSOR-KATHLEEN-STOCK.html).
-    -   PR to HoTT book: [Use inclusive language in &sect;1.11](https://github.com/HoTT/book/pull/1101).
 -   Diversity in philosophy
     -   Gross, D.A. (2021). [Peter Singer is committed to controversial ideas](https://www.newyorker.com/culture/the-new-yorker-interview/peter-singer-is-committed-to-controversial-ideas). *The New Yorker*. April 25, 2021.
 -   Intellectual Dark Web (IDW)
