@@ -180,7 +180,8 @@ Language
 ### Universal grammar
 
 -   Noam Chomsky
--   innatism
+    -   innatism
+    -   *Syntactic Structures* (1957)
 -   TODO: criticism
 
 

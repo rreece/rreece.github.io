@@ -509,12 +509,14 @@ Wittgenstein:
 ### Criticism
 
 -   Schweber, S.S. (1993). The ebb and flow of reductionism. [^Schweber1993]
+-   Laughlin, R.B. & Pines, D. (2000). The theory of everything. [^Laughlin2000]
 
 Wittgenstein:
 
 >   There are, indeed, things that cannot be put into words.
 >   They *make themselves manifest*. They are what is mystical. [^WittgensteinTLP_6_522]
 
+[^Laughlin2000]: @Laughlin_2000_The_theory_of_everything\.
 [^Schweber1993]: @Schweber_1993_The_ebb_and_flow_of_of_reductionism\.
 [^WittgensteinTLP_6_522]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\, 6.522.
 
@@ -566,6 +568,13 @@ See also:
 
 [^Haslanger2012]: @Haslanger_2012_Resisting_Reality_Social_Construction_and_Social\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
+
+
+### Discussion
+
+-   Tahko, T.E. (2022). [Natural kinds, mind-independence, and unification principles](https://link.springer.com/article/10.1007/s11229-022-03661-7). [^Tahko2022]
+
+[^Tahko2022]: @Tahko_2022_Natural_kinds_mind_independence_and_unification\.
 
 
 Rejection of the supernatural
