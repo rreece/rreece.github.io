@@ -256,7 +256,7 @@ Plato:
     -   See the outline on [Naturalism](naturalism.html#ethical-naturalism).
 -   Murdoch, Iris. (1999). *The Sovereignty of Good*.
 -   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
-    -   Scanlon, T.M. (2000). *What We Owe to Each Other* [^Scanlon2000]
+    -   Scanlon, T.M. (2000). *What We Owe to Each Other*. [^Scanlon2000]
 
 [^Bjornsson2010]: @Bjornsson_2010_Metaethical_contextualism_defended\.
 [^Scanlon2000]: @Scanlon_2000_What_We_Owe_to_Each_Other\.
@@ -311,7 +311,7 @@ Churchland:
 
 -   [Logics for analyzing games](https://plato.stanford.edu/entries/logics-for-games/)
 -   Binmore
--   *Natural Justice* [^Binmore2011]
+-   *Natural Justice* (2011) [^Binmore2011]
 -   Heads-up poker solved [^Bowling2015]
 -   [Condorcet's jury theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
 
