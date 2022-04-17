@@ -599,11 +599,11 @@ Carnap:
 
 -   TODO: Note issues from G&ouml;del. [^Awodey2007]
 -   Empiricism, semantics, and ontology [^Carnap1950a]
--   internal vs external questions
+    -   Internal vs external questions
 
 Kripke:
 
--   Claims there are *a posteriori* necessary truths in *Naming and Necessity* (1980).
+-   Claims there are *a posteriori* necessary truths in *Naming and Necessity* (1972). [^Kripke1972]
 
 Papineau:
 
@@ -620,6 +620,7 @@ See also:
 [^Carnap1937LSLp184]: @Carnap_1937_Logical_Syntax_of_Language\, p. 184.
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Hansson2018]: @Hansson_2018_Introduction_to_Formal_Philosophy\.
+[^Kripke1972]: @Kripke_1980_Naming_and_Necessity\.
 [^Pettigrew2019]: @Pettigrew_2019_The_Open_Handbook_of_Formal_Epistemology\.
 [^Papineau2012]: @Papineau_2012_Philosophical_Devices_Proofs_Probabilities\.
 

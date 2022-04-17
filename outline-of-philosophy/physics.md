@@ -1382,15 +1382,18 @@ Beyond the standard model
 -   Neutrino masses and mixings
 -   PMNS matrix and CP-violation
 -   Are neutrinos Marojana or Dirac fermions?
+-   Solar neutrino problem
 -   LSND anomaly
     -   LSND: 1996 [^LSND1996] and 2001 [^LSND2001]
     -   MiniBooNE [^MiniBooNE2018]
     -   MicroBooNE [^MicroBooNE2021]
+-   Vitagliano, E., Tamborra, I., & Raffelt, G. (2020). [Grand unified neutrino spectrum at Earth: Sources and spectral components](https://arxiv.org/abs/1910.11878). [^Vitagliano2020]
 
 [^LSND1996]: @LSND_1996_Evidence_for_neutrino_oscillations_from_muon_decay\.
 [^LSND2001]: @LSND_2001_Evidence_for_neutrino_oscillations_from\.
 [^MiniBooNE2018]: @MiniBooNE_2018_Significant_excess_of_electron_like_events\.
 [^MicroBooNE2021]: @MicroBooNE_2021_Search_for_neutrino_induced_neutral_current\.
+[^Vitagliano2020]: @Vitagliano_2020_Grand_unified_neutrino_spectrum_at_Earth_Sources\.
 
 
 ### Ad hoc structures

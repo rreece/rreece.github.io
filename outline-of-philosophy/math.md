@@ -150,7 +150,8 @@ TODO
     -   Tao, T. (2007). [Differential forms and integration](https://www.math.ucla.edu/~tao/preprints/forms.pdf). [^Tao2007]
     -   Sussman, G.J. & Wisdom, J. (2013). [*Functional Differential Geometry*](https://mitpress.mit.edu/books/functional-differential-geometry). [^Sussman2013]
     -   Bronstein, M.M. et al. (2021). [Geometric deep learning: Grids, groups, graphs, geodesics, and gauges](https://arxiv.org/abs/2104.13478). [^Bronstein2021p56]
--   Chern-Simons theory
+-   [De Rham cohomology](https://en.wikipedia.org/wiki/De_Rham_cohomology)
+-   [Chern-Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
 
 See also:
 

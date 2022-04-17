@@ -221,6 +221,7 @@ Tong, D. (2022). Lectures on Supersymmetric Field Theory. https://www.damtp.cam.
 Tumulka, R. (2017). Bohmian mechanics. https://arxiv.org/abs/1704.08017
 van Hove, L. (1958). Von Neumann's contributions to quantum theory. *Bulletin of the American Mathematical Society*. 64, 95--100. https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society-new-series/volume-64/issue-3.P2/Von-Neumanns-contributions-to-quantum-theory/bams/1183522374.full
 van Nieuwenhuizen, P. (1981). Supergravity. *Physics Reports*, 68, 189--398.
+Vitagliano, E., Tamborra, I., & Raffelt, G. (2020). Grand unified neutrino spectrum at Earth: Sources and spectral components. *Reviews of Modern Physics*, 92(4), 045006. https://arxiv.org/abs/1910.11878
 von Neumann, J. (1955). *The Mathematical Foundations of Quantum Mechanics* (R.T. Beyer, Trans.). Princeton University Press. [(Originally published in German in 1932)]
 Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum ﬁeld theory. *Studies in History and Philosophy of Modern Physics*, 42, 116--125.
 Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
