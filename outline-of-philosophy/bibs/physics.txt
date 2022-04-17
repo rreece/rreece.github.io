@@ -25,6 +25,7 @@ Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *E
 Barrett, J.A. (2016). Quantum Worlds. *Principia: An International Journal of Epistemology*, 20(1), 45--60.
 Batterman, R.W. (2003). Falling cats, parallel parking and polarized light. *Studies in History and Philosophy of Modern Physics*, 34, 527-557. http://philsci-archive.pitt.edu/794/
 Becker, A. (2018). *What is Real? The unfinished quest for the meaning of quantum physics*. Basic Books.
+Bedau, M.A. (1997). Weak emergence. *Philosophical Perspectives*, 11, 375--399.
 Bell, J.S. (1955). Time reversal in field theory. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*, 231, 479--495.
 Bell, J.S. (1964). On the Einstein Podolsky Rosen Paradox. *Physics*, 1, 195--200. https://journals.aps.org/ppf/pdf/10.1103/PhysicsPhysiqueFizika.1.195
 Bell, J.S. (1966). On the problem of hidden variables in quantum mechanics. *Reviews of Modern Physics*, 38(3), 447. http://fy.chalmers.se/~delsing/QI/Bell-RMP-66.pdf
@@ -168,6 +169,7 @@ Noether, E. (1918). Invariante variationsprobleme. *Nachrichten von der Gesellsc
 Ohanian, H.C. (1986). What is spin? *American Journal of Physics*, 54, 500.
 Pati, J.C. & Salam, A. (1974). Lepton number as the fourth color. *Physical Review D*, 10, 275--289. https://pdfs.semanticscholar.org/21fb/f9d49acf3e3f07098ca686ae4058c38dbd03.pdf
 Patterson, G. (2007). Jean Perrin and the triumph of the atomic doctrine. *Endeavour*, 31, 50--53.
+Penington, G. (2019). Entanglement wedge reconstruction and the information paradox. https://arxiv.org/abs/1905.08255
 Perrin, J. (1913). *Les Atomes*. Paris: Libraire Felix Alcan.
 Peskin, M.E. (1994). Spin, mass, and symmetry. https://arxiv.org/abs/hep-ph/9405255
 Peskin, M.E. & Schroeder, D.V. (1995). *An Introduction to Quantum Field Theory*. Westview Press.

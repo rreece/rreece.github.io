@@ -1572,6 +1572,13 @@ Gravity and cosmology
 [^Debono2016f4]: @Debono_2016_General_relativity_and_cosmology_Unsolved\, figure 4.
 
 
+### Blackholes
+
+-   Penington, G. (2019). [Entanglement wedge reconstruction and the information paradox](https://arxiv.org/abs/1905.08255). [^Penington2019]
+
+[^Penington2019]: @Penington_2019_Entanglement_wedge_reconstruction\.
+
+
 ### Gravitational waves
 
 -   Poincar&eacute;
@@ -1608,7 +1615,7 @@ Complexity and emergence
 -   [Universality](https://en.wikipedia.org/wiki/Universality_(dynamical_systems))
 -   Thermodynamics, statistical mechanics, renormalization.
 -   Anderson, P.W. (1972). More is different.
--   Bedau, M. (1997). Weak emergence.
+-   Bedau, M.A. (1997). Weak emergence. [^Bedau1997]
 -   DeDeo, S. (2012). Video: [Lecture 1: Coarse-graining, renormalization & universality](https://www.youtube.com/watch?v=nqbWVoZVOfQ).
 -   Lisi, A.G. (2017). [Emergence](https://www.edge.org/response-detail/27149). [^Lisi2017]
 -   Bain
@@ -1636,6 +1643,7 @@ See also:
     in the [Outline on naturalism](naturalism.html#reductionism)
 
 [^Anderson1972p393]: @Anderson_1972_More_is_different\, p. 393.
+[^Bedau1997]: @Bedau_1997_Weak_emergence\.
 [^Lisi2017]: @Lisi_2017_Emergence\.
 
 
