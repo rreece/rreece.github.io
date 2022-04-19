@@ -794,6 +794,7 @@ Criticisms of naturalism
     -   Heer, J. (2017). [America's first postmodern president](https://newrepublic.com/article/143730/americas-first-postmodern-president). *The New Republic*. [^Heer2017]
     -   Cadwalladr, C. (2017). [Daniel Dennett: I begrudge every hour I have to spend worrying about politics](https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview). *The Guardian*. [^Cadwalladr2017]
     -   Williams, C. (2017). [Has Trump stolen philosophy's critical tools?](https://www.nytimes.com/2017/04/17/opinion/has-trump-stolen-philosophys-critical-tools.html) *The New York Times*. [^Williams2017]
+    -   Sartwell, C. (2022). [Truth is real](https://aeon.co/essays/truth-is-real-and-philosophers-must-return-their-attention-to-it). *Aeon*.
     -   Leah, R. (2018). ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/). *Salon*. [^Leah2018]
     -   Friedersdorf, C. (2018). [Why can't people hear what Jordan Peterson is saying?](https://www.theatlantic.com/politics/archive/2018/01/putting-monsterpaint-onjordan-peterson/550859/). *The Atlantic*.
 

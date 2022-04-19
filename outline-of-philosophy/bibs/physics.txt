@@ -197,7 +197,7 @@ Schweber, S.S. (1993). The ebb and flow of of reductionism. In Brown, L.M. (Ed.)
 Sebens, C.T. (2019). How electrons spin. *Studies in History and Philosophy of Science Part B*, 68, 40--50. https://arxiv.org/abs/1806.01121
 Seidewitz, E. (2017). Avoiding Haag's Theorem with Parameterized Quantum Field Theory. *Foundations of Physics*, 47(3), 355--374.
 Schlosshauer, M. (2005). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76, 1267--1305. https://arxiv.org/abs/quant-ph/0312059
-Schlosshauer, M., & Fine, A. (2012). Implications of the Pusey-Barrett-Rudolph quantum no-go theorem. *Physical Review Letters*, 108(26), 260404. https://arxiv.org/abs/1203.4779
+Schlosshauer, M. & Fine, A. (2012). Implications of the Pusey-Barrett-Rudolph quantum no-go theorem. *Physical Review Letters*, 108(26), 260404. https://arxiv.org/abs/1203.4779
 Schreiber, U. (2016). Learn about supersymmetry and Deligne’s theorem. https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/
 Schreiber, U. (2020). Differential cohomology in a cohesive $\infty$-topos. https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos
 Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.
@@ -239,6 +239,7 @@ Wheeler, J.A. (1957). Assessment of Everett's "relative state" formulation of qu
 Wigner, E.P. (1939). On unitary representations of the inhomogeneous Lorentz group. *Annals of Mathematics*, 40, 149--204.
 Wigner, E.P. (1954). Conservation laws in classical and quantum physics. *Progress of Theoretical Physics*, 11, 437--440. https://academic.oup.com/ptp/article/11/4-5/437/1831457
 Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. Academic Press. [(Originally published in German in 1931)]
+Wilhelm, I. (2022). Centering the Everett interpretation. https://philpapers.org/rec/WILCTE-4
 Williams, P. (2019). Scientific realism made effective. *British Journal for the Philosophy of Science*, 70, 209--237. https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axx043
 Witten, E. (1998). Anti-de Sitter space and holography. *Advances in Theoretical and Mathematical Physics*, 2, 253--291. https://arxiv.org/abs/hep-th/9802150
 Yock, P. (2018). Newton's hypotheses on the structure of matter. https://arxiv.org/abs/1807.05486

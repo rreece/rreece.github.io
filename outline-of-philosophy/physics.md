@@ -1154,6 +1154,7 @@ Interpretations of quantum mechanics
 -   Carroll's mad-dog Everettianism [^Carroll2019-2]
 -   Carroll, S.M. (2019). *Something Deeply Hidden*.[^Carroll2019]
 -   Everett's later influence on the theory of decoherence
+-   Wilhelm, I. (2022). [Centering the Everett interpretation](https://philpapers.org/rec/WILCTE-4). [^Wilhelm2022]
 
 >   A way out of this dilemma [the measurement problem]
 >   within quantum mechanical concepts requires
@@ -1194,6 +1195,7 @@ See also:
 [^Joos2003p22]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\, p. 22.
 [^Wallace2012]: @Wallace_2012_The_Emergent_Multiverse\.
 [^Wheeler1957]: @Wheeler_1957_Assessment_of_Everetts_relative_state\.
+[^Wilhelm2022]: @Wilhelm_2022_Centering_the_Everett_Interpretation\.
 
 
 ### Collapse interpretations
@@ -1234,7 +1236,7 @@ See also:
     real object and is not merely a statistical tool, or else all quantum states,
     including non-entangled ones, can communicate by action at a distance. 
 -   Leifer, M.S. (2011). [Can the quantum state be interpreted statistically?](https://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/)
--   Schlosshauer, M., & Fine, A. (2012). [Implications of the Pusey-Barrett-Rudolph quantum no-go theorem](https://arxiv.org/abs/1203.4779). [^Schlosshauer2012]
+-   Schlosshauer, M. & Fine, A. (2012). [Implications of the Pusey-Barrett-Rudolph quantum no-go theorem](https://arxiv.org/abs/1203.4779). [^Schlosshauer2012]
 -   Nigg, D. et al. (2015). [Can different quantum state vectors correspond to the same physical state? An experimental test](https://arxiv.org/abs/1211.0942). [^Nigg2015]
 
 [^Pusey2012]: @Pusey_2012_On_the_reality_of_the_quantum_state\.
@@ -1423,19 +1425,17 @@ See also:
 -   Lepton universality at LHCb
     -   LHCb Collaboration. (2021). [Test of lepton universality in beauty-quark decays](https://arxiv.org/abs/2103.11769).
     -   LHCb Collaboration. (2021). [Tests of lepton universality using $B^{0}\rightarrow{}K^{0}_{S}\ell^{+}\ell^{-}$ and $B^{+}\rightarrow{}K^{*+}\ell^{+}\ell^{-}$ decays](https://arxiv.org/abs/2110.09501).
+-   Muon $g-2$
+    -   A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders [^Capdevilla2021]
+-   $W$ mass
+    -   Conway, J. (2022). [A decade of science and trillions of collisions show the W boson is more massive than expected – a physicist on the team explains what it means for the Standard Model](https://theconversation.com/a-decade-of-science-and-trillions-of-collisions-show-the-w-boson-is-more-massive-than-expected-a-physicist-on-the-team-explains-what-it-means-for-the-standard-model-181028).
+
+[^Capdevilla2021]: @Capdevilla_2021_A_no_lose_theorem_for_discovering_the_new_physics\.
 
 [^PierreAuger]: TODO: @Pierre_2007_Correlation_of_the_highest_energy_cosmic_rays\,
     @Pierre_2010_Measurement_of_the_depth_of_maximum_of_extensive\,
     @Pierre_2020_Features_of_the_energy_spectrum_of_cosmic_rays\, and
     @Pierre_2020_Measurement_of_the_cosmic_ray_energy_spectrum.
-
-
-### g-2
-
--   Muon g-2
--   A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders [^Capdevilla2021]
-
-[^Capdevilla2021]: @Capdevilla_2021_A_no_lose_theorem_for_discovering_the_new_physics\.
 
 
 ### Grand unification
