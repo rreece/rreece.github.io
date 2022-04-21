@@ -153,6 +153,7 @@ McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative ch
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
 Mikolov, T., Sutskever, I., Chen, K., Corrado, G., & Dean, J. (2013). Distributed representations of words and phrases and their compositionality. https://arxiv.org/abs/1310.4546
+Minsky, M. & Papert, S. (1969). *Perceptrons: An Introduction to Computational Geometry*. MIT Press.
 Mitchell, T.M. (1980). The need for biases in learning generalizations. In *Readings in Machine Learning* (pp. 184-192). San Mateo, CA, USA. http://www.cs.cmu.edu/afs/cs/usr/mitchell/ftp/pubs/NeedForBias_1980.pdf
 Mnih, V. et al. (2013). Playing Atari with deep reinforcement learning. https://arxiv.org/abs/1312.5602
 Mnih, V. et al. (2015). Human-level control through deep reinforcement learning. *Nature*, 518(7540), 529--533. http://files.davidqiu.com//research/nature14236.pdf

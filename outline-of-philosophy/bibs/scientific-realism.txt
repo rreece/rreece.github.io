@@ -1,3 +1,4 @@
+Atherton, M. (1996). Lady Mary shepherd's case against George Berkeley. *British Journal for the History of Philosophy*, 4(2), 347--366.
 Ayer, A.J. (1936). *Language, Truth, and Logic*. London: Victor Gollancz Ltd.
 Ayer, A.J. & Magee, B. (1978). Logical positivism and its legacy. *Men of Ideas*. https://www.youtube.com/watch?v=4cnRJGs08hE [(BBC television seires)]
 Baggott, J. (2005). *A Beginners Guide to Reality*. Penguin Group.
@@ -28,6 +29,7 @@ Lavers, G. (2004). Carnap, semantics and ontology. *Erkenntnis*, 60, 295--316.
 Lavers, G. (2015). Carnap, Quine, quantification and ontology. In *Quantifiers, Quantifiers, and Quantifiers: Themes in logic, metaphysics, and language* (pp. 271--299). Springer.
 Loewer, B. (2019). Humean laws and explanation. *Principia: an international journal of epistemology*, 23, 373--385.
 Maxwell, G. (1968). Scientific methodology and the causal theory of perception. *Studies in Logic and the Foundations of Mathematics*, 49, 148--177.
+McRobert, J. (2002). Mary Shepherd's two senses of necessary connection. https://philpapers.org/rec/MCRMST-2
 Moore, G.E. (1903). The refutation of idealism. *Mind*, 12, 433--453.
 Moore, G.E. (1925). A defence of common sense. In Muirhead, J.H. (Ed.) *Contemporary British Philosophy* (pp. 147--170). London: Allen and Unwin.
 Moore, G.E. (1939). Proof of an external world. *Proceedings of the British Academy*, 25, 273--300.

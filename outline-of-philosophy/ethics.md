@@ -547,6 +547,7 @@ Compassion
     -   Rand being against compassion.
 -   Anger
     -   Callard, A. (2020). [The philosophy of anger](https://bostonreview.net/forum/agnes-callard-philosophy-anger/).
+-   Doug Polk interviewing Garrett Adelstein (2021): [Being gentle with yourself](https://www.youtube.com/watch?v=zS-Z2MDtlb8).
 
 
 Ecology

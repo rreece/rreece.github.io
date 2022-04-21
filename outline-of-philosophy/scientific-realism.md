@@ -199,11 +199,17 @@ Humeanism and necessity
 -   Hume's doctrine of no necessitary connections.
 -   Emphasize the naturalist revolution within Humean views.
 
+Criticism:
+
+-   McRobert, J. (2002). [Mary Shepherd's two senses of necessary connection](https://philpapers.org/rec/MCRMST-2). [^McRobert2002]
+
 See also:
 
 -   [Modal logic](math.html#modal-logic)
 -   [Naturalism](naturalism.html)
 -   [Problem of induction](scientific-method.html#problem-of-induction)
+
+[^McRobert2002]: @McRobert_2002_Mary_Shepherds_two_senses_of_necessary_connection\.
 
 
 ### Laws of nature
@@ -266,12 +272,15 @@ See also:
 
 ### Criticism
 
+-   [Mary Shepherd](https://plato.stanford.edu/entries/mary-shepherd/) (1777-1847)
+    -   Atherton, M. (1996). Lady Mary shepherd's case against George Berkeley. [^Atherton1996]
 -   [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
 -   [Analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy)
 -   [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) (1872-1970)
 -   [George Edward Moore](https://en.wikipedia.org/wiki/G._E._Moore) (1873-1958)
     -   The refutation of idealism (1903) [^Moore1903]
 
+[^Atherton1996]: @Atherton_1996_Lady_Mary_shepherds_case_against_George_Berkeley\.
 [^Moore1903]: @Moore_1903_The_refutation_of_idealism\.
 
 
@@ -2057,6 +2066,7 @@ Click to show links
 -   [Scientific Representation](https://plato.stanford.edu/entries/scientific-representation/)
 -   [Scientific Revolutions](http://plato.stanford.edu/entries/scientific-revolutions/)
 -   [Sellars, Wilfrid (1912-1989)](http://plato.stanford.edu/entries/sellars/)
+-   [Shepherd, Mary](https://plato.stanford.edu/entries/mary-shepherd/) (1777-1847)
 -   [Social Dimensions of Scientific Knowledge](http://plato.stanford.edu/entries/scientific-knowledge-social/)
 -   [Structure of Scientific Theories](https://plato.stanford.edu/entries/structure-scientific-theories/)
 -   [Structural Realism](http://plato.stanford.edu/entries/structural-realism/)
