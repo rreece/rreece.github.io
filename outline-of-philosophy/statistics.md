@@ -1892,6 +1892,10 @@ Theoretical machine learning
     -   See also: [Meta-induction as a solution to the problem of induction](scientific-method.html#meta-induction-as-a-solution-to-the-problem-of-induction)
 -   Dan A. Roberts. (2021). [Why is AI hard and physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
     -   See also: [Unreasonable effectiveness](math.html#unreasonable-effectiveness)
+-   More
+    -   Goldreich, O. & Ron, D. (1997). [On universal learning algorithms](https://www.wisdom.weizmann.ac.il/~oded/p_ul.html). [^Goldreich1997]
+    -   Nakkiran, P. (2021). [Turing-universal learners with optimal scaling laws](https://arxiv.org/abs/2111.05321). [^Nakkiran2021]
+    -   Bousquet, O., Hanneke, S., Moran, S., Van Handel, R., & Yehudayoff, A. (2021). [A theory of universal learning](https://dl.acm.org/doi/pdf/10.1145/3406325.3451087). [^Bousquet2021]
 
 Raissi et al.:
 
@@ -1909,8 +1913,11 @@ Roberts:
 >   is precisely what we mean when we say that physics enables us to understand
 >   a given phenomenon. [^Roberts2021p7]
 
+[^Bousquet2021]: @Bousquet_2021_A_theory_of_universal_learning\.
+[^Goldreich1997]: @Goldreich_1997_On_universal_learning_algorithms\.
 [^McDermott2019]: @McDermott_2019_When_and_why_metaheuristics_researchers_can_ignore\.
 [^Mitchell1980]: @Mitchell_1980_The_need_for_biases_in_learning_generalizations\.
+[^Nakkiran2021]: @Nakkiran_2021_Turing_universal_learners_with_optimal_scaling\.
 [^Raissi2017Ip2]: @Raissi_2017_Physics_informed_deep_learning_Part_I_Data\, p. 2.
 [^Roberts2021]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.
 [^Roberts2021p7]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\, p. 7.

@@ -25,6 +25,7 @@ Get my r&eacute;sum&eacute; or CV:
 News
 --------------------------------------------------------------------------------
 
+-   Apr 2022: I co-authored a blog about [Getting started with PyTorch BERT models on the Cerebras CS-2 System](https://cerebras.net/blog/getting-started-with-pytorch-bert-models-on-the-cerebras-cs-2-system/).
 -   Nov 2019: [Cerebras revealed its first product at Supercomputering 2019: the poweful CS-1 computer for AI](https://www.cerebras.net/a-successful-week-for-cerebras-at-supercomputing-2019/). I helped represent Cerebras at its tradeshow booth.
 -   Aug 2019: [Cerebras revealed its Wafer Scale Engine (WSE) at HotChips 2019](https://www.cerebras.net/wafer-scale-deep-learning-hot-chips-2019-presentation/). 
 -   May 2019: Collaborators at Cerebras and I published a new normalization

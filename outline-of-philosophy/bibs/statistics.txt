@@ -26,6 +26,7 @@ Bhattiprolu, P.N., Martin, S.P., & Wells, J.D. (2020). Criteria for projected di
 Birnbaum, A. (1962). On the foundations of statistical inference. *Journal of the American Statistical Association*, 57, 269--326.
 Bishop, C.M. (2006). *Pattern Recognition and Machine Learning*. Springer. 
 Blondel, M., Martins, A.F., & Niculae, V. (2020). Learning with Fenchel-Young losses. *Journal of Machine Learning Research*, 21(35), 1--69.
+Bousquet, O., Hanneke, S., Moran, S., Van Handel, R., & Yehudayoff, A. (2021). A theory of universal learning. In *Proceedings of the 53rd Annual ACM SIGACT Symposium on Theory of Computing* (pp. 532--541). https://dl.acm.org/doi/pdf/10.1145/3406325.3451087
 Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. *Science*, 347, 145--149. http://science.sciencemag.org/content/347/6218/145
 Bronstein, M.M., Bruna, J., Cohen, T., & Velickovic, P. (2021). Geometric deep learning: Grids, groups, graphs, geodesics, and gauges. https://arxiv.org/abs/2104.13478
 Brown, L.D., Cai, T.T., & DasGupta, A. (2001). Interval estimation for a binomial proportion. *Statistical Science*, 16(2), 101--133. https://projecteuclid.org/euclid.ss/1009213286
@@ -88,6 +89,7 @@ Gandenberger, G. (2015). A new proof of the likelihood principle. *British Journ
 Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 16(7), 1--22. https://quod.lib.umich.edu/p/phimp/3521354.0016.007/--why-i-am-not-a-likelihoodist
 Gao, Y. & Chaudhari, P. (2020). An information-geometric distance on the space of tasks. https://arxiv.org/abs/2011.00613
 Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
+Goldreich, O. & Ron, D. (1997). On universal learning algorithms. *Information Processing Letters*, 63(3), 131--136. https://www.wisdom.weizmann.ac.il/~oded/p_ul.html
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. http://www.deeplearningbook.org
 Goodman, N. (1955). *Fact, Fiction, and Forecast*. Harvard University Press.
@@ -161,6 +163,7 @@ Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in h
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
 Murphy, K.P. (2022). *Probabilistic Machine Learning: An introduction*. MIT Press.
 Nagarajan, V. (2021). *Explaining generalization in deep learning: progress and fundamental limits*. https://arxiv.org/abs/2110.08922 [(Ph.D. thesis)]
+Nakkiran, P. (2021). Turing-universal learners with optimal scaling laws. https://arxiv.org/abs/2111.05321
 Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. https://arxiv.org/abs/1912.02292
 Neller, T.W. & Lanctot, M. (2013). An introduction to counterfactual regret minimization. *Proceedings of Model AI Assignments*, 11. http://cs.gettysburg.edu/~tneller/modelai/2013/cfr/cfr.pdf
 Neyman, J. (1955). The problem of inductive inference. *Communications on Pure and Applied Mathematics*, 8, 13--45. https://errorstatistics.files.wordpress.com/2017/04/neyman-1955-the-problem-of-inductive-inference-searchable.pdf
