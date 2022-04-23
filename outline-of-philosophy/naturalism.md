@@ -557,6 +557,7 @@ See also:
 
 ### Criticism
 
+-   Azzouni, J. (2000). *Knowledge and Reference in Empirical Science*. [^Azzouni2000]
 -   Hennig, C. (2015). What are the true clusters? [^Hennig2015]
 -   Haslanger, S. (2012). *Resisting Reality: Social Construction and Social Critique*. [^Haslanger2012]
 
@@ -566,6 +567,7 @@ See also:
 -   [Constructive empiricism](scientific-realism.html#constructive-empiricism) in the [Outline on scientific realism](scientific-realism.html)
 -   [Nominalism](math.html#nominalism) in the [Outline on mathematics](math.html).
 
+[^Azzouni2000]: @Azzouni_2000_Knowledge_and_Reference_in_Empirical_Science\.
 [^Haslanger2012]: @Haslanger_2012_Resisting_Reality_Social_Construction_and_Social\.
 [^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
 
@@ -1007,7 +1009,7 @@ Click to show annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Sellars, W. (1963). Empircism and Philosophy of Mind.
+### Sellars, W. (1963). Empiricism and Philosophy of Mind.
 
 -   @Sellars_1963_Science_Perception_and_Reality
 

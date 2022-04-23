@@ -858,7 +858,13 @@ Johwn Stuart Mill:
 
 -   Positivism, Carnap, ESO
 -   Goodman & Quine [^Goodman1947]
+-   Azzouni, J. (2015). Nominalism, the nonexistence of mathematical objects. [^Azzouni2015]
 
+See also:
+
+-   [Natural kinds](naturalism.html#natural-kinds)
+
+[^Azzouni2015]: @Azzouni_2015_Nominalism_the_nonexistence_of_mathematical\.
 [^Bayes1736p9]: @Bayes_1736_An_Introduction_to_the_Doctrine_of_Fluxions\, p. 9--10.
 [^Goodman1947]: @Goodman_1947_Steps_toward_a_constructive_nominalism\.
 [^Goodman1947p105]: @Goodman_1947_Steps_toward_a_constructive_nominalism\, p. 105.
