@@ -910,10 +910,12 @@ See also:
 
 -   Structural Causal Model (SCM)
 -   Pearl, J. (2009). [Causal inference in statistics: An overview](https://projecteuclid.org/journals/statistics-surveys/volume-3/issue-none/Causal-inference-in-statistics-An-overview/10.1214/09-SS057.pdf). [^Pearl2009]
+-   Robins, J.M. & Wasserman, L. (1999). On the impossibility of inferring causation from association without background knowledge. [^Robins1999]
 -   Peters, J., Janzing, D., & Sch&ouml;lkopf, B. (2017). *Elements of Causal Inference*. [^Peters2017]
 
 [^Pearl2009]: @Pearl_2009_Causal_inference_in_statistics_An_overview\.
 [^Peters2017]: @Peters_2017_Elements_of_Causal_Inference\.
+[^Robins1999]: @Robins_1999_On_the_impossibility_of_inferring_causation_from\.
 
 
 ### Counterfactuals
@@ -2308,7 +2310,7 @@ Click to show links
 -   [Data science](https://en.wikipedia.org/wiki/Data_science)
 -   [Decision theory](https://en.wikipedia.org/wiki/Decision_theory)
 -   [Deductive-nomological model](https://en.wikipedia.org/wiki/Deductive-nomological_model)
--   [Empircism](http://en.wikipedia.org/wiki/Empiricism)
+-   [Empiricism](http://en.wikipedia.org/wiki/Empiricism)
 -   [Epistemology](http://en.wikipedia.org/wiki/Epistemology)
 -   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 -   [Fisher, Ronald (1890-1962)](https://en.wikipedia.org/wiki/Ronald_Fisher)

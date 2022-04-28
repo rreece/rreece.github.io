@@ -1195,7 +1195,7 @@ See also:
 [^Joos2003p22]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\, p. 22.
 [^Wallace2012]: @Wallace_2012_The_Emergent_Multiverse\.
 [^Wheeler1957]: @Wheeler_1957_Assessment_of_Everetts_relative_state\.
-[^Wilhelm2022]: @Wilhelm_2022_Centering_the_Everett_Interpretation\.
+[^Wilhelm2022]: @Wilhelm_2022_Centering_the_Everett_interpretation\.
 
 
 ### Collapse interpretations

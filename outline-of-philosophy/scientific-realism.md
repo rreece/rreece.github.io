@@ -1015,7 +1015,7 @@ Peirce:
 >   whether the belief be false or true. [^Peirce1923p16]
 
 [^Peirce1923p16]: @Peirce_1923_Chance_Love_and_Logic\.
-[^Sellars1963]: @Sellars_1963_Empircism_and_philosophy_of_mind\.
+[^Sellars1963]: @Sellars_1963_Empiricism_and_philosophy_of_mind\.
 
 
 ### Discussion
@@ -1543,6 +1543,9 @@ understand the structures that generate such unobservable events.
 -   Freely emphasizes the political implications of scientific realism.
 -   The normative importance of climate science.
 -   Howard Sankey?
+-   Neuber, M. (2014). [Critical realism in perspective: Remarks on a neglected current in Neo-Kantian epistemology](https://philpapers.org/rec/NEUCRI). [^Neuber2014]
+
+[^Neuber2014]: @Neuber_2014_Critical_realism_in_perspective_Remarks_on\.
 
 
 Active realism
@@ -2052,7 +2055,7 @@ Click to show links
 -   [Quine, W.V. (1908-2000)](http://plato.stanford.edu/entries/quine/)
 -   [Ramsey, Frank (1903-1930)](https://plato.stanford.edu/entries/ramsey/)
 -   [Reliabilist Epistemology](https://plato.stanford.edu/entries/reliabilism/)
--   [Rationalism vs. Empircism](http://plato.stanford.edu/entries/rationalism-empiricism/)
+-   [Rationalism vs. Empiricism](http://plato.stanford.edu/entries/rationalism-empiricism/)
 -   [Realism](http://plato.stanford.edu/entries/realism/)
 -   [Rorty, Richard (1931-2007)](http://plato.stanford.edu/entries/rorty/)
 -   [Russell, Bertrand (1872-1970)](https://plato.stanford.edu/entries/russell/)
@@ -2066,7 +2069,7 @@ Click to show links
 -   [Scientific Representation](https://plato.stanford.edu/entries/scientific-representation/)
 -   [Scientific Revolutions](http://plato.stanford.edu/entries/scientific-revolutions/)
 -   [Sellars, Wilfrid (1912-1989)](http://plato.stanford.edu/entries/sellars/)
--   [Shepherd, Mary](https://plato.stanford.edu/entries/mary-shepherd/) (1777-1847)
+-   [Shepherd, Mary (1777-1847)](https://plato.stanford.edu/entries/mary-shepherd/)
 -   [Social Dimensions of Scientific Knowledge](http://plato.stanford.edu/entries/scientific-knowledge-social/)
 -   [Structure of Scientific Theories](https://plato.stanford.edu/entries/structure-scientific-theories/)
 -   [Structural Realism](http://plato.stanford.edu/entries/structural-realism/)
@@ -2233,7 +2236,7 @@ Click to show links
 -   [Structuralism (philosophy of science)](https://en.wikipedia.org/wiki/Structuralism_(philosophy_of_science))
 -   [Substantial Form](http://en.wikipedia.org/wiki/Substantial_form)
 -   [Superseded theories in science](https://en.wikipedia.org/wiki/Superseded_theories_in_science)
--   [Two Dogmas of Empircism](http://en.wikipedia.org/wiki/Two_Dogmas_of_Empiricism)
+-   [Two Dogmas of Empiricism](http://en.wikipedia.org/wiki/Two_Dogmas_of_Empiricism)
 -   [Unsolved problems in philosophy, List of](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_philosophy)
 -   [Vienna Circle](http://en.wikipedia.org/wiki/Vienna_Circle)
 -   [Wittgenstein, Ludwig (1889-1951)](http://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
