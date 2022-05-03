@@ -640,7 +640,7 @@ TODO: list thesis from the Vienna Circle manifesto.
 >   judgment of experimental science. The task of philosophical work lies in this
 >   clarification of problems and assertions, not in the propounding of special
 >   ‘philosophical’ pronouncements. The method of this clarification is that of logical
->   analysis. [^Hahn1973Sec2]
+>   analysis. [^Hahn1973Sec2b]
 
 -   [Mauro Murzi's pages on Philosophy of Science: Logical positivism](http://www.murzim.net/LP/LP00.html)
 
@@ -662,7 +662,7 @@ Fetzer:
 
 [^Carnap1937LSLp51]: @Carnap_1937_Logical_Syntax_of_Language\, p. 51.
 [^Fetzer2017]: @Fetzer_2017_Carl_Hempel\.
-[^Hahn1973Sec2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 2.
+[^Hahn1973Sec2b]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 2.
 [^Leitgeb2020H]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html).
 [^Potochnik2011]: @Potochnik_2011_A_Neurathian_conception_of_the_unity_of_science\.
 [^Schlick1948p480]: @Schlick_1948_Positivism_and_realism\, p. 480\.

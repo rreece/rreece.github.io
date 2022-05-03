@@ -495,12 +495,15 @@ Model theory
 -   Carnap
 -   Traski
 -   Button & Walsh [^Button2018]
+-   Weiss, W. & D'Mello, C. (2015). [*Fundamentals of Model Theory*](https://www.math.toronto.edu/weiss/model_theory.pdf).
+-   [](https://www.math.toronto.edu/weiss/model_theory.pdf).
 -   [Model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
     -   See also: [Formal epistemology](scientific-method.html#formal-epistemology)
 
 [^Button2018]: @Button_2018_Philosophy_and_Model_Theory\.
 [^Hunter1971p6]: @Hunter_1971_Metalogic_An_Introduction_to_the_Metatheory\, p. 6.
+[^Weiss2015]: @Weiss_2015_Fundamentals_of_Model_Theory\.
 
 
 ### Incompleteness

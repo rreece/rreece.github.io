@@ -428,8 +428,8 @@ See also:
     -   *Tabula rasa* - "blank slate"
 -   George Berkeley (1685-1753)
 -   David Hume (1711-1776)
-    -   *A Treatise of Human Nature* (1740)
-    -   *An Enquiry Concerning Human Understanding* (1748)
+    -   *A Treatise of Human Nature* (1740) [^Hume1740]
+    -   *An Enquiry Concerning Human Understanding* (1748) [^Hume1748]
 
 Hume:
 
@@ -444,9 +444,10 @@ Hume:
 >   hope to reach truth, and attain a proper stability and certainty in our
 >   determinations. [^Hume2007p109]
 
+[^Hume1740]: @Hume_2009_A_Treatise_of_Human_Nature\.
+[^Hume1748]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
 [^Hume2007p109]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
     Section XII, pp. 109--110.
-[^Hume2009]: @Hume_2009_A_Treatise_of_Human_Nature\.
 
 
 ### Important synthesizers
@@ -563,7 +564,7 @@ Vienna Circle manifesto:
 >   It is precisely in the rejection of the possibility of synthetic knowledge
 >   a priori that the basic thesis of modern empiricism lies. The scientific
 >   world-conception knows only empirical statements about things of all kinds,
->   and analytic statements of logic and mathematics. [^Hahn1973Sec2]
+>   and analytic statements of logic and mathematics. [^Hahn1973Sec2a]
 
 See also:
 
@@ -571,7 +572,7 @@ See also:
 
 [^Carnap1937LSLp182]: @Carnap_1937_Logical_Syntax_of_Language\, p. 182.
 [^Dicker1991]: @Dicker_1991_Humes_fork_revisited\.
-[^Hahn1973Sec2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 2.
+[^Hahn1973Sec2a]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 2.
 [^Hume2007p120flames]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
     Section XII, p. 120.
 [^Kant1787pBviii]: @Kant_1996_Critique_of_Pure_Reason\, p. Bviii--ix\.
@@ -1178,7 +1179,7 @@ Wikipedia:
 -   Error-catching filters
     -   Ladyman: Error-catching filters [^Ladyman2007]
     -   community, honesty, openness
-    -   Mayo: Error statistics [^Mayo2011]
+    -   Mayo: Error statistics [^Mayo2011a]
 
 Kant:
 
@@ -1213,7 +1214,7 @@ See also:
 [^Kant1787pBvii]: @Kant_1996_Critique_of_Pure_Reason\, p. B vii.
 [^Kuhn1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
 [^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
-[^Mayo2011]: @Mayo_2011_Error_statistics\.
+[^Mayo2011a]: @Mayo_2011_Error_statistics\.
 [^NewtonpX]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\, p. TODO.
 [^Nola2007pX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
 [^Nola2007pXX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
@@ -1388,6 +1389,8 @@ Frigg:
     is that a model stands-in as a representative of a theory
     that can be compared with the data.
 -   TODO: find good example refs
+-   Hodges, W. (2020). [Models and modelling](https://plato.stanford.edu/entries/model-theory/#Modelling).
+-   [theory](https://ncatlab.org/nlab/show/theory+%28physics%29) - nLab
 
 
 Knowledge

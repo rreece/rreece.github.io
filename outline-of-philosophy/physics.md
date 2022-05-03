@@ -403,9 +403,9 @@ $$ \hat{U}(x^{\mu}) = e^{ -i \, \hat{P}_\mu \, x^\mu } $$
 
 -   Somehow, QM is about complex numbers:
     -   Jordan, P., von Neumann, J., & Wigner, E.P. (1934). On an algebraic generalization of the quantum mechanical formalism. [^Jordan1934]
-    -   Baez, J.C. (2011). [Division algebras and quantum theory](https://arxiv.org/abs/1101.5690). [^Baez2011]
+    -   Baez, J.C. (2011). [Division algebras and quantum theory](https://arxiv.org/abs/1101.5690). [^Baez2011a]
 
-[^Baez2011]: @Baez_2011_Division_algebras_and_quantum_theory\.
+[^Baez2011a]: @Baez_2011_Division_algebras_and_quantum_theory\.
 [^Jordan1934]: @Jordan_1934_On_an_algebraic_generalization_of_the_quantum\.
 
 
@@ -864,6 +864,7 @@ Exotics in quantum field theory
 -   Healey on the Aharonov-Bohm effect [^Healey2007ch2]
 -   Holonomy
 -   Batterman, R. (2003). Falling cats, parallel parking and polarized light. [^Batterman2003]
+-   Maudlin, T. (2018). [Ontological clarity via canonical presentation: Electromagnetism and the Aharonov-Bohm effect](https://www.mdpi.com/1099-4300/20/6/465). [^Maudlin2018]
 
 Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fiber+bundles+in+physics) article:
 
@@ -878,6 +879,11 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
 >   $e\oint_{\partial D}A\cdot dx = e\int_{D}(\nabla \times A)\,dS = e\int_{D}B\,dS \,.$
 >   
 >   So that the phase a charged particle gets when going in a loop is the magnetic flux through the loop. When a small solenoid has a magnetic flux, there are interference fringes for charged particles which go around the solenoid, or around different sides of the solenoid, which reveal its presence.
+
+[^Aharonov1959]: @Aharonov_1959_Significance_of_electromagnetic_potentials\.
+[^Batterman2003]: @Batterman_2003_Falling_cats_parallel_parking_and_polarized\.
+[^Healey2007ch2]: @Healey_2007_Gauging_Whats_Real\, ch. 2-4.
+[^Maudlin2018]: @Maudlin_2018_Ontological_clarity_via_canonical_presentation\.
 
 
 #### Fiber bundles
@@ -894,7 +900,7 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
 -   Maudlin on fiber bundles
 -   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
 -   [Ehresmann connection](https://en.wikipedia.org/wiki/Ehresmann_connection)
--   [Jet bundle](https://en.wikipedia.org/wiki/Jet_bundle)
+-   V&aacute;k&aacute;r, M. (2011). [Principal bundles and gauge theories](https://arxiv.org/abs/2110.06334). [^Vakar2011]
 
 Maudlin:
 
@@ -916,17 +922,21 @@ Maudlin:
 >   fiber bundles directly, not by trying to translate modern mathematics into
 >   archaic philosophical terminology. [^Maudlin2007p101]
 
+-   Baez, J.C. & Schreiber, U. (2005). [Higher gauge theory](https://arxiv.org/abs/math/0511710). [^Baez2005]
+-   Baez, J.C. & Huerta, J. (2011). [An invitation to higher gauge theory](https://arxiv.org/abs/1003.4485). [^Baez2011b]
+
 See also:
 
 -   [Differential geometry](math.html#differential-geometry)
     in the Outline on [mathematics](math.html).
 
-[^Aharonov1959]: @Aharonov_1959_Significance_of_electromagnetic_potentials\.
-[^Batterman2003]: @Batterman_2003_Falling_cats_parallel_parking_and_polarized\.
+[^Baez2005]: @Baez_2005_Higher_gauge_theory\.
+[^Baez2011b]: @Baez_2011_An_invitation_to_higher_gauge_theory\.
 [^Frankel2004]: @Frankel_2004_The_Geometry_of_Physics\.
 [^Maudlin2007p96]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 96.
 [^Maudlin2007p101]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 101.
 [^nLab2021Fiber]: @nLab_2021_Fiber_bundles_in_physics\.
+[^Vakar2011]: @Vakar_2011_Principal_bundles_and_gauge_theories\.
 
 
 #### Topological QFT
@@ -946,7 +956,6 @@ See also:
     in the Outline on [mathematics](math.html).
 
 [^Baez2009]: @Baez_2009_Physics_topology_logic_and_computation\.
-[^Healey2007ch2]: @Healey_2007_Gauging_Whats_Real\, ch. 2-4.
 [^Schreiber2020]: @Schreiber_2020_Differential_cohomology_in_a_cohesive\.
 
 
@@ -1077,6 +1086,7 @@ Interpretations of quantum mechanics
 -   *Epistemological Letters*
 -   Aspect experiments (1982)
 -   Gisin's theorem [^Gisin1991]
+-   La Nouvelle Cuisine [^Bell2004p232]
 -   Maudlin, T. (2014). What Bell did. [^Maudlin2014]
 -   Ahmed, A., & Caulton, A. (2014). [Causal decision theory and EPR correlations](http://philsci-archive.pitt.edu/10992/). [^Ahmed2014]
 -   Wigner's friend
@@ -1086,6 +1096,7 @@ Interpretations of quantum mechanics
 [^Ahmed2014]: @Ahmed_2014_Causal_decision_theory_and_EPR_correlations\.
 [^Bell1964]: @Bell_1964_On_the_Einstein_Podolsky_Rosen_Paradox\.
 [^Bell1966]: @Bell_1966_On_the_problem_of_hidden_variables_in_quantum\.
+[^Bell2004p232]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\, pp. 232--248.
 [^Bong2020]: @Bong_2020_A_strong_no_go_theorem_on_the_Wigners_friend\.
 [^Clauser1969]: @Clauser_1969_Proposed_experiment_to_test_local_hidden_variable\.
 [^Deutsch1985]: @Deutsch_1985_Quantum_theory_as_a_universal_physical_theory\.
@@ -1108,12 +1119,12 @@ Interpretations of quantum mechanics
 -   D&uuml;rr, D., Goldstein, S., Tumulka, R., & Zangh&igrave;, N. (2005). [Bell-type quantum field theories](https://arxiv.org/abs/quant-ph/0407116). [^Durr2005]
 -   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (2013). *Quantum Physics Without Quantum Philosophy*. Springer. [^Durr2013]
 -   Tumulka, R. (2017). [Bohmian_mechanics](https://arxiv.org/abs/1704.08017). [^Tumulka2017]
--   Das, S. & D&uuml;rr, D. (2019). [Arrival time distributions of spin-1/2 particles](https://www.nature.com/articles/s41598-018-38261-4).
+-   Das, S. & D&uuml;rr, D. (2019). [Arrival time distributions of spin-1/2 particles](https://www.nature.com/articles/s41598-018-38261-4). [^Das2019]
 -   Stopp, F., Ortiz-Guti&eacute;rrez, L., Lehec, H., & Schmidt-Kaler, F. (2021). [Single ion thermal wave packet analyzed via time-of-flight detection](https://iopscience.iop.org/article/10.1088/1367-2630/abffc0). [^Stopp2021]
 -   Ananthaswamy, A. (2021). [This simple experiment could challenge standard quantum theory](https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/). [^Ananthaswamy2021]
 
 [^Ananthaswamy2021]: @Ananthaswamy_2021_This_simple_experiment_could_challenge_standard\.
-[^Bell1987]: @Bell_1987_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
+[^Bell1987]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
 [^Bohm1952]: @Bohm_1952_A_suggested_interpretation_of_the_quantum_theory\.
 [^Bohm1953]: @Bohm_1953_Proof_that_probability_density_approaches\.
 [^Das2019]: @Das_2019_Arrival_time_distributions_of_spin_12_particles\.
@@ -1238,6 +1249,7 @@ See also:
 -   Leifer, M.S. (2011). [Can the quantum state be interpreted statistically?](https://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/)
 -   Schlosshauer, M. & Fine, A. (2012). [Implications of the Pusey-Barrett-Rudolph quantum no-go theorem](https://arxiv.org/abs/1203.4779). [^Schlosshauer2012]
 -   Nigg, D. et al. (2015). [Can different quantum state vectors correspond to the same physical state? An experimental test](https://arxiv.org/abs/1211.0942). [^Nigg2015]
+-   Ontological vs nomological interpretations of wavefunctions
 
 [^Pusey2012]: @Pusey_2012_On_the_reality_of_the_quantum_state\.
 [^Nigg2015]: @Nigg_2015_Can_different_quantum_state_vectors_correspond\.
@@ -1249,7 +1261,7 @@ See also:
 -   Relational quantum mechanics
 -   Transactional quantum mechanics
 -   't Hooft, G. (2021). An unorthodox view on quantum mechanics. [^tHooft2021]
--   ...
+-   Chen, E.K. (2022). [The quantum wave function isn't real](https://iai.tv/articles/the-quantum-wave-function-isnt-real-auid-2117).
 
 [^tHooft2021]: @tHooft_2021_An_unorthodox_view_on_quantum_mechanics\.
 
@@ -1310,14 +1322,17 @@ or *Higgs mechanism*. In the Standard Model, the Higgs boson also couples
 to the fermions, generating their bare masses.
 
 -   Georgi: Is the Higgs real? [^Georgi1999p280]
--   Lyre, H. (2008). [Does the Higgs mechanism exist?](https://arxiv.org/abs/0806.1359)
+-   Lyre, H. (2008). [Does the Higgs mechanism exist?](https://arxiv.org/abs/0806.1359) [^Lyre2008]
+-   Cao, T.Y. (2016). The Englert-Brout-Higgs mechanism: An unfinished project. [^Cao2016]
 
-On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214) [^ATLAS2012] and [CMS](https://arxiv.org/abs/1207.7235) [^CMS2012]
+On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214) [^ATLAS2012]
+and [CMS](https://arxiv.org/abs/1207.7235) [^CMS2012]
 experiments both [announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
 a key to explaining electroweak symmetry breaking in the Standard Model of particle physics.
 
 [^ATLAS2012]: @ATLAS_2012_Observation_of_a_new_particle_in_the_search\.
 [^CMS2012]: @CMS_2012_Observation_of_a_new_boson_at_a_mass_of_125_GeV\.
+[^Cao2016]: @Cao_2016_The_Englert_Brout_Higgs_mechanism_An_unfinished\.
 [^Englert1964]: @Englert_1964_Broken_symmetry_and_the_mass_of_gauge_vector\.
 [^Georgi1999p280]: @Georgi_1999_Lie_Algebras_in_Particle_Physics\, p. 280.
 [^Guralnik1964]: @Guralnik_1964_Global_conservation_laws_and_massless_particles\.
@@ -1428,10 +1443,11 @@ See also:
 -   Muon $g-2$
     -   A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders [^Capdevilla2021]
 -   $W$ mass
+    -   CDF Collaboration. (2022). [High-precision measurement of the $W$ boson mass with the CDF II detector](https://www.science.org/doi/10.1126/science.abk1781). [^CDF2022]
     -   Conway, J. (2022). [A decade of science and trillions of collisions show the W boson is more massive than expected – a physicist on the team explains what it means for the Standard Model](https://theconversation.com/a-decade-of-science-and-trillions-of-collisions-show-the-w-boson-is-more-massive-than-expected-a-physicist-on-the-team-explains-what-it-means-for-the-standard-model-181028).
 
 [^Capdevilla2021]: @Capdevilla_2021_A_no_lose_theorem_for_discovering_the_new_physics\.
-
+[^CDF2022]: @CDF_2022_High_precision_measurement_of_the_W_boson_mass\.
 [^PierreAuger]: TODO: @Pierre_2007_Correlation_of_the_highest_energy_cosmic_rays\,
     @Pierre_2010_Measurement_of_the_depth_of_maximum_of_extensive\,
     @Pierre_2020_Features_of_the_energy_spectrum_of_cosmic_rays\, and
@@ -1442,12 +1458,14 @@ See also:
 
 -   Running of the couplings
 -   Supersymmetry
+    -   Baez, J.C. & Huerta, J. (2009). [Division algebras and supersymmetry I](https://arxiv.org/abs/0909.0551). [^Baez2009a]
+    -   Baez, J.C. & Huerta, J. (2010). [Division algebras and supersymmetry II](https://arxiv.org/abs/1003.3436). [^Baez2010]
 -   Grand Unified Theories (GUTs)
     -   Pati & Salam [^Pati1974]
     -   Georgi & Glashow [^Glashow1974]
     -   Slansky [^Slansky1981]
     -   Georgi, H. (1982). *Lie Algebras in Particle Physics*. [^Georgi1982]
-    -   Beaz & Huerta [^Baez2009]
+    -   Baez, J.C. & Huerta, J. (2009). [The algebra of grand unified theories](https://arxiv.org/abs/0904.1556). [^Baez2009b]
     -   Lisi, A.G. (2007). [An exceptionally simple theory of everything](https://arxiv.org/abs/0711.0770). [^Lisi2007]
 
 ![Two-loop renormalization group evolution of the inverse gauge couplings, $\alpha^{-1}$,
@@ -1460,7 +1478,9 @@ See also:
 
 -   [Supersymmetry](physics.html#supersymmetry)
 
-[^Baez2009]: @Baez_2009_The_algebra_of_grand_unified_theories\.
+[^Baez2009a]: @Baez_2009_Division_algebras_and_supersymmetry_I\.
+[^Baez2010]: @Baez_2010_Division_algebras_and_supersymmetry_II\.
+[^Baez2009b]: @Baez_2009_The_algebra_of_grand_unified_theories\.
 [^Glashow1974]: @Georgi_1974_Unity_of_all_elementary_particle_forces\.
 [^Georgi1982]: @Georgi_1999_Lie_Algebras_in_Particle_Physics\.
 [^Lisi2007]: @Lisi_2007_An_exceptionally_simple_theory_of_everything\.
@@ -1553,7 +1573,7 @@ Gravity and cosmology
 -   WIMP Miracle
     -   Disfavored by LHC thus far.
 -   Howe, A.R. (2019). [The dark matter flowchart, annotated](https://sciencemeetsfiction.com/nonfiction-essays/the-dark-matter-flowchart-annotated/).
--   Martens, N. (2022). [Dark matter realism](https://link.springer.com/article/10.1007/s10701-021-00524-y).
+-   Martens, N. (2022). [Dark matter realism](https://link.springer.com/article/10.1007/s10701-021-00524-y). [^Martens2022]
 
 [^Clowe2006]: @Clowe_2006_A_direct_empirical_proof_of_the_existence_of_dark\.
 [^Martens2022]: @Martens_2022_Dark_matter_realism\.
