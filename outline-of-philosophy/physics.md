@@ -897,12 +897,13 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
 >   Bundles are the *global* structure of physical fields and they are irrelevant
 >   only for the crude local and perturbative description of reality. [^nLab2021Fiber]
 
--   Maudlin on fiber bundles
 -   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
--   [Ehresmann connection](https://en.wikipedia.org/wiki/Ehresmann_connection)
+    -   [Principal bundle](https://en.wikipedia.org/wiki/Principal_bundle)
+    -   [Ehresmann connection](https://en.wikipedia.org/wiki/Ehresmann_connection)
+-   Way, R. (2010). [Introduction to connections on principal fibre bundles](http://personal.maths.surrey.ac.uk/T.Bridges/GEOMETRIC-PHASE/Connections_intro.pdf). [^Way2010]
 -   V&aacute;k&aacute;r, M. (2011). [Principal bundles and gauge theories](https://arxiv.org/abs/2110.06334). [^Vakar2011]
 
-Maudlin:
+Maudlin on fiber bundles:
 
 >   If we adopt the metaphysics of the fiber bundle to represent chromodynamics,
 >   then we must reject the notion that quark color is a universal, or that there are
@@ -937,13 +938,14 @@ See also:
 [^Maudlin2007p101]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 101.
 [^nLab2021Fiber]: @nLab_2021_Fiber_bundles_in_physics\.
 [^Vakar2011]: @Vakar_2011_Principal_bundles_and_gauge_theories\.
+[^Way2010]: @Way_2010_Introduction_to_connections_on_principal_fibre\.
 
 
 #### Topological QFT
 
 -   Topological QFT (TQFT)
 -   Simon Donaldson and Edward Witten
--   [Chern–Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
+-   [Chern-Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
 -   [Cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
 -   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos). [^Schreiber2020]
 -   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340). [^Baez2009]

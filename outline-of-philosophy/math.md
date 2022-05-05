@@ -144,7 +144,6 @@ TODO
     -   Tong, D. (2022). [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html).
 -   Differential forms
     -   Manifold, tangent and cotangent spaces, vector bundle, fiber bundle
-    -   Introduction to connections on principal fibre bundles [^Way2010]
     -   Review by Fr&egrave; [^Fre2013v1ch2]
     -   Varadarajan, V. S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. [^Varadarajan2003]
     -   Tao, T. (2007). [Differential forms and integration](https://www.math.ucla.edu/~tao/preprints/forms.pdf). [^Tao2007]
@@ -162,7 +161,6 @@ See also:
 [^Sussman2013]: @Sussman_2013_Functional_Differential_Geometry\.
 [^Tao2007]: @Tao_2007_Differential_forms_and_integration\.
 [^Varadarajan2003]: @Varadarajan_2003_Vector_bundles_and_connections_in_physics\.
-[^Way2010]: @Way_2010_Introduction_to_connections_on_principal_fibre\.
 
 
 Number theory
@@ -495,8 +493,7 @@ Model theory
 -   Carnap
 -   Traski
 -   Button & Walsh [^Button2018]
--   Weiss, W. & D'Mello, C. (2015). [*Fundamentals of Model Theory*](https://www.math.toronto.edu/weiss/model_theory.pdf).
--   [](https://www.math.toronto.edu/weiss/model_theory.pdf).
+-   Weiss, W. & D'Mello, C. (2015). [*Fundamentals of Model Theory*](https://www.math.toronto.edu/weiss/model_theory.pdf). [^Weiss2015]
 -   [Model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
     -   See also: [Formal epistemology](scientific-method.html#formal-epistemology)

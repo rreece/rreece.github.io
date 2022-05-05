@@ -60,6 +60,5 @@ Teller, P. (1989). *A Modern Formal Logic Primer*. Prentice Hall. https://teller
 Varadarajan, V.S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. In *A Tribute to CS Seshadri* (pp. 502--541). Gurgaon: Hindustan Book Agency.
 Viteri, S. & DeDeo, S. (2022). Epistemic phase transitions in mathematical proofs. *Cognition*, 225, 105120. https://www.sciencedirect.com/science/article/pii/S0010027722001081
 von Fintel, K. (2011). Conditionals. https://dspace.mit.edu/handle/1721.1/95781
-Way, R. (2010). Introduction to connections on principal fibre bundles. http://personal.maths.surrey.ac.uk/T.Bridges/GEOMETRIC-PHASE/Connections_intro.pdf
 Weiss, W. & D'Mello, C. (2015). *Fundamentals of Model Theory*. https://www.math.toronto.edu/weiss/model_theory.pdf
 Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. *Communications on pure and applied mathematics*, 13, 1--14. http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html [Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959]
