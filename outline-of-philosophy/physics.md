@@ -684,10 +684,12 @@ Michael Atiyah:
 -   Bain [^Bain2013]
 -   Preskill, J. (2013). [We are all Wilsonians now](https://quantumfrontiers.com/2013/06/18/we-are-all-wilsonians-now/). [^Preskill2013]
 -   Porter Williams [^Williams2019]
+-   Rosaler, J. (2022). [Dogmas of effective field theory: Scheme dependence, fundamental parameters, and the many faces of the Higgs naturalness principle](https://link.springer.com/article/10.1007/s10701-021-00510-4). [^Rosaler2022]
 
 [^Bain2013]: @Bain_2013_Effective_field_theories and
     @Bain_2013_Emergence_in_effective_field_theories\.
 [^Preskill2013]: @Preskill_2013_We_are_all_Wilsonians_now\.
+[^Rosaler2022]: @Rosaler_2022_Dogmas_of_effective_field_theory_Scheme\.
 [^Weinberg1997]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\.
 [^Williams2019]: @Williams_2019_Scientific_realism_made_effective\.
 

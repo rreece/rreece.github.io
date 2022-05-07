@@ -493,6 +493,7 @@ Wittgenstein:
 -   Why "physics is fundamental"
 -   Physicalism and Hempel's dilemma
 -   [Robert Sapolsky (2010) lecture: Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo)
+-   Rosaler, J. (2019). [Reduction as an a posteriori relation](https://www.journals.uchicago.edu/doi/10.1093/bjps/axx026). [^Rosaler2019]
 
 [^Carnap1934]: @Carnap_1934_On_the_character_of_philophical_problems\.
 [^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
@@ -503,6 +504,7 @@ Wittgenstein:
     Supposedly it is also in Russell's *A Critical Exposition of the Philosophy of Leibniz*.
 [^Morris2019]: @Morris_2019_Physicalism_Deconstructed_Levels_of_reality\.
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
+[^Rosaler2019]: @Rosaler_2019_Reduction_as_an_a_posteriori_relation\.
 [^Wittgenstein1922L20201]:@Wittgenstein_1961_Tractatus_Logico_Philosophicus\, line 2.0201.
 
 
