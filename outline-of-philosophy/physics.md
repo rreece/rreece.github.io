@@ -111,6 +111,12 @@ Pedagogy:
 -   Holm's *Geometric Mechanics* [^Holm2011]
 -   't Hooft, G. [How to become a GOOD Theoretical Physicist](https://www.goodtheorist.science/).
 
+Dimensional analysis:
+
+-   Buckingham $\pi$ theorem [^Buckingham1914]
+-   Tao, T. (2012). [A mathematical formalisation of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/).
+
+[^Buckingham1914]: @Buckingham_1914_On_physically_similar_systems_Illustrations\.
 [^Feynman1963]: @Feynman_1963_The_Feynman_Lectures_on_Physics_Volume_I\.
 [^Holm2011]: @Holm_2011_Geometric_Mechanics_Part_I_Dynamics and
     @Holm_2011_Geometric_Mechanics_Part_II_Rotating\.

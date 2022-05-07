@@ -43,6 +43,7 @@ Borcherds, R.E. & Barnard, A. (2002). Lectures on quantum field theory. https://
 Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. *Studies in History and Philosophy of Modern Physics*, 33, 3--22. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.106&rep=rep1&type=pdf
 Broughton, M. et al. (2020). TensorFlow Quantum: A software framework for quantum machine learning. https://arxiv.org/abs/2003.02989
 Buchholz, D. (1998). Current trends in axiomatic quantum field theory. https://arxiv.org/abs/hep-th/9811233
+Buckingham, E. (1914). On physically similar systems; Illustrations of the use of dimensional equations. *Physical Review*, 4(4), 345--376.
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
 Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
 Cabibbo, N. (1963). Unitary symmetry and leptonic decays. *Physical Review Letters*, 10, 531--533. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.10.531
