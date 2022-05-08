@@ -113,13 +113,31 @@ Pedagogy:
 
 Dimensional analysis:
 
--   Buckingham $\pi$ theorem [^Buckingham1914]
 -   Tao, T. (2012). [A mathematical formalisation of dimensional analysis](https://terrytao.wordpress.com/2012/12/29/a-mathematical-formalisation-of-dimensional-analysis/).
+-   Buckingham $\pi$ theorem [^Buckingham1914]
+-   physics.stackexchange.com: [On the dot product of vectors in different vector spaces](https://physics.stackexchange.com/questions/541168/given-two-vectors-with-no-common-point-is-a-dot-product-between-them-possible/541304#541304).
+-   Kasprzak, W., Lysik, B., & Rybaczuk, M. (1990). *Dimensional Analysis in the Identification of Mathematical Models*. [^Kasprzak1990]
+-   Duff, M.J., Okun, L.B., & Veneziano, G. (2001). [Trialogue on the number of fundamental constants](https://arxiv.org/abs/physics/0110060). [^Duff2001]
+-   Janyska, J., Modugno, M., & Vitolo, R. (2007). [Semi-vector spaces and units of measurement](https://arxiv.org/abs/0710.1313). [^Janyska2007]
+-   Zapata-Carratala, C. (2021). [Dimensioned algebra: The mathematics of physical quantities](https://arxiv.org/abs/2108.08703). [^ZapataCarratala2021]
+-   TODO: Dimensional analysis can be formalized with each type of physical
+    dimension having a corresponding vector space in a trivial vector bundle over
+    a spacetime manifold, $M$. Because the bundle projection, $\pi$, is trivial,
+    $\pi: M \times \mathbb{R}^{n_1} \times \mathbb{R}^{n_2} \times \cdots \rightarrow M$,
+    vectors in each vector space can be directly compared.
+
+See also:
+
+-   [Fiber bundles](#fiber-bundles)
 
 [^Buckingham1914]: @Buckingham_1914_On_physically_similar_systems_Illustrations\.
+[^Duff2001]: @Duff_2001_Trialogue_on_the_number_of_fundamental_constants\.
 [^Feynman1963]: @Feynman_1963_The_Feynman_Lectures_on_Physics_Volume_I\.
 [^Holm2011]: @Holm_2011_Geometric_Mechanics_Part_I_Dynamics and
     @Holm_2011_Geometric_Mechanics_Part_II_Rotating\.
+[^Janyska2007]: @Janyska_2007_Semi_vector_spaces_and_units_of_measurement\.
+[^Kasprzak1990]: @Kasprzak_1990_Dimensional_Analysis_in_the_Identification\.
+[^ZapataCarratala2021]: @Zapata_Carratala_2021_Dimensioned_algebra_The_mathematics_of_physical\.
 
 
 ### Electrodynamics
@@ -466,7 +484,7 @@ See also:
 
 -   Friedrich, B. (2016). [How did the tree of knowledge get its blossom? The rise of physical and theoretical chemistry, with an eye on Berlin and Leipzig](https://onlinelibrary.wiley.com/doi/10.1002/anie.201509260). [^Friedrich2016]
 -   Density functional theory
--   Cao et al. (2019). Physical origin of chemical periodicities. [^Cao2019]
+-   Cao, C., Hu, H., Li, J., & Schwarz, W.H.E. (2019). [Physical origin of chemical periodicities in the system of elements](https://www.degruyter.com/document/doi/10.1515/pac-2019-0901/html). [^Cao2019]
 -   Cohen, M.L. (2015). [Explaining and predicting the properties of materials using quantum theory](https://www.cambridge.org/core/journals/mrs-bulletin/article/explaining-and-predicting-the-properties-of-materials-using-quantum-theory/0BAF1A2783D41470AAE666F6B916ECE5).
 
 [^Cao2019]: @Cao_2019_Physical_origin_of_chemical_periodicities\.
@@ -900,6 +918,7 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
     -   Fiber bundles embody two central principles of modern physics:
         1.  the principle of locality
         2.  the gauge principle.
+-   [Vector bundle](https://en.wikipedia.org/wiki/Vector_bundle)
 -   *The Geometry of Physics* [^Frankel2004]
 
 >   Bundles are the *global* structure of physical fields and they are irrelevant

@@ -34,7 +34,7 @@ News
     ([arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
 -   Apr 2018: I joined [Cerebras Systems](https://www.cerebras.net/) as a machine learning engineer.
 -   Nov 2014:
-    I am awarded a 6 month fellowship, [US ATLAS Scholar](https://po.usatlas.bnl.gov/programoffice/scholars_2014.php),
+    I was awarded a 6 month fellowship, [US ATLAS Scholar](https://po.usatlas.bnl.gov/programoffice/scholars_2014.php),
     to be at Lawrence Berkeley National Laboratory (LBL) in Berkeley, CA,
     continuing collaboration with the ATLAS Experiment.
 -   July 2013: I started a postdoctoral fellowship with the
