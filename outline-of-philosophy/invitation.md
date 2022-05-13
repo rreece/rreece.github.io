@@ -127,7 +127,7 @@ where he says:
 [Why do many reasonable people doubt science?](https://www.nationalgeographic.com/magazine/2015/03/science-doubters-climate-change-vaccinations-gmos/) [^Achenbach2015]
 In these outlines, I want to arm us with some reasoned and thoughly referenced arguments
 so that when faced with epistemological cynicism like:
-["How do you separate fact and opinion?" -- Rudy Giuliani](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/), [^Leah2018]
+["How do you separate fact and opinion?" -- Rudy Giuliani](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/), [^Leah2018a]
 we'll have something of substance to say.
 
 On the other hand, in reviewing various arguments in the philosophy of science,
@@ -184,7 +184,7 @@ examine what can be said of the "[scientific method](scientific-method.html)."
 [^RepublicV476e]: Plato, *Republic V* 476e, @Cooper_1997_Plato_Complete_works\, p. 1103.
 [^Rose1996]: @Rose_1996_Carl_Sagan_discusses_Demon_Haunted_World and
     @Sagan_1997_The_Demon_Haunted_World_Science_as_a_Candle\.
-[^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
+[^Leah2018a]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 [^VCManifesto1929]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 
 

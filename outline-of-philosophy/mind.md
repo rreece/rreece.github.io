@@ -30,11 +30,11 @@ Consciousness
 -   Nagel [^Nagel1974]
 -   Searle: a biological process like digestion
 -   Churchland's
--   Dennett [^Dennett1991]
+-   Dennett [^Dennett1991b]
 -   Chalmers [^Chalmers1996]
 
 [^Chalmers1996]: @Chalmers_1996_The_Conscious_Mind_In_Search_of_a_Fundamental\.
-[^Dennett1991]: @Dennett_1991_Consciousness_Explained\.
+[^Dennett1991b]: @Dennett_1991_Consciousness_Explained\.
 [^Mach1914]: @Mach_1914_The_Analysis_of_Sensations_and_the_Relation\.
 [^Nagel1974]: @Nagel_1974_What_is_it_like_to_be_a_bat\.
 
@@ -49,6 +49,8 @@ Dualism
 -   Kripke
 
 ![TODO](img/Descartes-mind-body.png){#fig:Descartes-mind-body}
+
+-   Grego, R. (2022). [Is Western thought marching towards Eastern Idealism?](https://www.essentiafoundation.org/is-western-thought-marching-firmly-towards-eastern-inspired-idealism/reading/)
 
 
 ### Criticism

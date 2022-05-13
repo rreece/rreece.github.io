@@ -1177,7 +1177,7 @@ Wikipedia:
 -   Bayesian methodology
     -   TODO
 -   Error-catching filters
-    -   Ladyman: Error-catching filters [^Ladyman2007]
+    -   Ladyman: Error-catching filters [^Ladyman2007a]
     -   community, honesty, openness
     -   Mayo: Error statistics [^Mayo2011a]
 
@@ -1198,7 +1198,7 @@ Kant:
 >   have to give up as futile much that was included in the purpose
 >   which we had previously adopted without deliberation. [^Kant1787pBvii]
 
--   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013]
+-   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013a]
     -   In the introduction, in a rather positivist way, Spivak describes his view that
         category theory can be used to ground truth in observation.
 
@@ -1213,13 +1213,13 @@ See also:
 [^Hempel1948]: @Hempel_1948_Studies_in_the_logic_of_explanation\.
 [^Kant1787pBvii]: @Kant_1996_Critique_of_Pure_Reason\, p. B vii.
 [^Kuhn1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.
-[^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Ladyman2007a]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Mayo2011a]: @Mayo_2011_Error_statistics\.
 [^NewtonpX]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\, p. TODO.
 [^Nola2007pX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
 [^Nola2007pXX]: @Nola_2007_Theories_of_Scientific_Method\, p. TODO.
 [^Popper2002]: @Popper_2002_The_Logic_of_Scientific_Discovery\.
-[^Spivak2013]: @Spivak_2013_Category_theory_for_scientists\.
+[^Spivak2013a]: @Spivak_2013_Category_theory_for_scientists\.
 [^Spivak2013p5]: @Spivak_2013_Category_theory_for_scientists\, p. 5.
 
 
@@ -1536,8 +1536,6 @@ See also:
 ### Scientific knowledge
 
 -   Scientific method, community, and body of knowledge
--   Big data
-    -   Mart&iacute;nez-Ordaz, M. del R. (2021). [Is there anything special about the ignorance involved in big data practices?](http://philsci-archive.pitt.edu/19671/) [^MartinezOrdaz2021]
 -   Naturalism
     -   Hume on the problem of induction and the uniformity of nature, again
     -   Monism
@@ -1545,8 +1543,13 @@ See also:
 -   Ontological implications of science
     -   Positivism
     -   Realism
+-   Big data
+    -   Mart&iacute;nez-Ordaz, M. del R. (2021). [Is there anything special about the ignorance involved in big data practices?](http://philsci-archive.pitt.edu/19671/) [^MartinezOrdaz2021a]
 -   Criticism: scientism
     -   Are there other ways of knowing?
+-   [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+    -   [Silvio Micali: Lex Fridman podcast](https://www.youtube.com/watch?v=zNdhgOk4-fE&ab_channel=LexFridman) - 1h25+
+    -   Verification and knowledge are different concepts
 
 See also:
 
@@ -1555,7 +1558,7 @@ See also:
     -   [Scientific progress](scientific-realism.html#scientific-progress)
 -   [Outline on naturalism](naturalism.html)
 
-[^MartinezOrdaz2021]: @Martinez_Ordaz_2021_Is_there_anything_special_about_the_ignorance\.
+[^MartinezOrdaz2021a]: @Martinez_Ordaz_2021_Is_there_anything_special_about_the_ignorance\.
 
 
 Pseudoscience

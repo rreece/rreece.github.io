@@ -753,7 +753,7 @@ Also:
 -   Read [^Read2002]
 -   ATLAS [^ATLAS2011]
 
-[^ATLAS2011]: @ATLAS_2011_The_CLs_method_information_for_conference\.
+[^ATLAS2011]: @ATLAS_2011_The_CLs_method_Information_for_conference\.
 [^Junk1999]: @Junk_1999_Confidence_level_computation_for_combining\.
 [^Read2002]: @Read_2002_Presentation_of_search_results_the_CLs_technique\.
 
@@ -1396,7 +1396,7 @@ See also:
 -   Relationship of clustering and autoencoding
     -   Olah, C. (2014). [Neural networks, manifolds, and topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/).
     -   Batson et al. (2021). [Topological obstructions to autoencoding](https://arxiv.org/abs/2102.08380). [^Batson2021]
--   "What are the true clusters?" [^Hennig2015]
+-   "What are the true clusters?" [^Hennig2015a]
     -   See also:
         -   [Algorithmic information theory](#algorithmic-information-theory)
         -   [Constructive empiricism](scientific-realism.html#constructive-empiricism)
@@ -1407,7 +1407,7 @@ See also:
 -   [Surrogate models](#surrogate-models)
 
 [^Batson2021]: @Batson_2021_Topological_obstructions_to_autoencoding\.
-[^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
+[^Hennig2015a]: @Hennig_2015_What_are_the_true_clusters\.
 [^Slonim2005]: @Slonim_2005_Information_based_clustering\.
 
 
@@ -1620,7 +1620,7 @@ Blogs:
 -   ResNet [^He2015]
     -   ResNet is performing a forward Euler discretisation of the ODE: $\dot{x} = \sigma(F(x))$. [^Haber2017]
 -   MobileNet [^Howard2017]
--   Neural ODEs [^Chen2018]
+-   Neural ODEs [^Chen2018a]
 -   EfficientNet [^Tan2019]
 -   VisionTransformer [^Dosovitskiy2020]
 -   EfficientNetV2 [^Tan2021]
@@ -1635,7 +1635,7 @@ Resources:
 -   [facebookresearch/vissl](https://github.com/facebookresearch/vissl)
 -   [PyTorch Geometric (PyG)](https://pytorch-geometric.readthedocs.io/en/latest/)
 
-[^Chen2018]: @Chen_2018_Neural_ordinary_differential_equations\.
+[^Chen2018a]: @Chen_2018_Neural_ordinary_differential_equations\.
 [^Ciresan2012]: @Ciresan_2012_Multi_column_deep_neural_network_for_traffic_sign\.
 [^Dosovitskiy2020]: @Dosovitskiy_2020_An_image_is_worth_16x16_words_Transformers\.
 [^Fukushima1982]: @Fukushima_1982_Neocognitron_A_new_algorithm_for_pattern\.
@@ -1808,7 +1808,7 @@ More:
 #### Solving poker
 
 -   Earlier poker work
-    -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. [^Bowling2015]
+    -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. [^Bowling2015a]
         -   CFR+
     -   Heinrich & Silver. (2016). Deep reinforcement learning from self play in imperfect-information games. [^Heinrich2016]
         -   Q-learning
@@ -1834,7 +1834,7 @@ More:
 [^Brown2019Pluribus]: @Brown_2019_Superhuman_AI_for_multiplayer_poker\.
 [^Brown2019DCRM]: @Brown_2019_Deep_counterfactual_regret_minimization\.
 [^Brown2019SIIG]: @Brown_2019_Solving_imperfect_information_games_via_discounted\.
-[^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
+[^Bowling2015a]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 [^Brown2020]: @Brown_2020_Combining_deep_reinforcement_learning_and_search\.
 [^Brown2020thesis]: @Brown_2020_Equilibrium_finding_for_large_adversarial\.
 [^Hart2000]: @Hart_2000_A_simple_adaptive_procedure_leading_to_correlated\.
@@ -1892,7 +1892,7 @@ Theoretical machine learning
     -   Mitchell, T.M. (1980). [The need for biases in learning generalizations](http://www.cs.cmu.edu/afs/cs/usr/mitchell/ftp/pubs/NeedForBias_1980.pdf). [^Mitchell1980]
 -   Gerhard Schurz
     -   See also: [Meta-induction as a solution to the problem of induction](scientific-method.html#meta-induction-as-a-solution-to-the-problem-of-induction)
--   Dan A. Roberts. (2021). [Why is AI hard and physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
+-   Dan A. Roberts. (2021). [Why is AI hard and physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021a]
     -   See also: [Unreasonable effectiveness](math.html#unreasonable-effectiveness)
 -   More
     -   Goldreich, O. & Ron, D. (1997). [On universal learning algorithms](https://www.wisdom.weizmann.ac.il/~oded/p_ul.html). [^Goldreich1997]
@@ -1921,7 +1921,7 @@ Roberts:
 [^Mitchell1980]: @Mitchell_1980_The_need_for_biases_in_learning_generalizations\.
 [^Nakkiran2021]: @Nakkiran_2021_Turing_universal_learners_with_optimal_scaling\.
 [^Raissi2017Ip2]: @Raissi_2017_Physics_informed_deep_learning_Part_I_Data\, p. 2.
-[^Roberts2021]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.
+[^Roberts2021a]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.
 [^Roberts2021p7]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\, p. 7.
 [^ShalevShwarz2014p60]: @Shalev_Shwarz_2014_Understanding_Machine_Learning_From_Theory\, p. 60--66.
 [^Wolpert1995]: @Wolpert_1995_No_free_lunch_theorems_for_search\.

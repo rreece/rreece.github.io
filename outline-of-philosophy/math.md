@@ -448,15 +448,15 @@ $$ \Box P = \lnot \Diamond \lnot P $$
     -   Paraconsistent logics reject ECQ, and may or may not invalidate LNC.
     -   Priest, G. (1998). What is so bad about contradictions? [^Priest1998]
     -   Dialetheism rejects LNC.
-    -   Mart&iacute;nez-Ordaz, M. del R. (2021). The ignorance behind inconsistency toleration. [^MartinezOrdaz2021]
+    -   Mart&iacute;nez-Ordaz, M. del R. (2021). The ignorance behind inconsistency toleration. [^MartinezOrdaz2021b]
 
 Criticism:
 
--   Quine, W. V. (1986). Philosophy of logic. Harvard University Press. [^Quine1986]
+-   Quine, W. V. (1986). Philosophy of logic. Harvard University Press. [^Quine1986b]
 
 [^Priest1998]: @Priest_1998_What_is_so_bad_about_contradictions\.
-[^Quine1986]: @Quine_1986_Philosophy_of_Logic\.
-[^MartinezOrdaz2021]: @Martinez_Ordaz_2021_The_ignorance_behind_inconsistency_toleration\.
+[^Quine1986b]: @Quine_1986_Philosophy_of_Logic\.
+[^MartinezOrdaz2021b]: @Martinez_Ordaz_2021_The_ignorance_behind_inconsistency_toleration\.
 
 
 ### Proof theory
@@ -596,7 +596,7 @@ Category theory
 
 -   [Category theory](https://ncatlab.org/nlab/show/category+theory) - nLab
     -   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
-    -   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013]
+    -   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013b]
     -   Fong, B. & Spivak, D.I. (2018). [Seven sketches in compositionality: An invitation to applied category theory](https://arxiv.org/abs/1803.05316). [^Fong2018]
 -   Relation to set theory
 -   Relation to Russell type theory
@@ -608,7 +608,7 @@ See also:
 -   [Univalent foundations](math.html#univalent-foundations)
 
 [^Fong2018]: @Fong_2018_Seven_sketches_in_compositionality_An_invitation\.
-[^Spivak2013]: @Spivak_2013_Category_theory_for_scientists\.
+[^Spivak2013b]: @Spivak_2013_Category_theory_for_scientists\.
 
 
 ### History
@@ -642,13 +642,13 @@ Grothendieck:
 
 -   [Cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
 -   Baez, J.C. & Dolan, J. (1995). [Higher‐dimensional algebra and topological quantum field theory](https://arxiv.org/abs/q-alg/9503002). [^Baez1995]
--   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340). [^Baez2009]
+-   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340). [^Baez2009a]
 -   Lurie, J. (2009). [On the classification of topological field theories](https://arxiv.org/abs/0905.0465).
 -   [Jacob Lurie's Home Page](https://www.math.ias.edu/~lurie/)
 -   Morton, J. (2013). [Blog on the cobordism hypothesis](https://theoreticalatlas.wordpress.com/2013/04/22/seminar-on-cob-hyp/).
 
 [^Baez1995]: @Baez_1995_Higher_dimensional_algebra_and_topological_quantum\.
-[^Baez2009]: @Baez_2009_Physics_topology_logic_and_computation\.
+[^Baez2009a]: @Baez_2009_Physics_topology_logic_and_computation\.
 
 
 ### Topos theory
@@ -776,7 +776,7 @@ Platonism
 
 -   Quine's "reluctant platonism"
     -   Indispensability argument
-    -   Quine, W.V.O. (1948). On what there is. [^Quine1948]
+    -   Quine, W.V.O. (1948). On what there is. [^Quine1948b]
     -   distinction between *meaning* and *naming*
 
 >   Whatever we say with the help of names can be said in a language which shuns names
@@ -810,10 +810,10 @@ Platonism
 
 -   [Proofs without words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
 -   [Binomial theorem visualisation](https://en.wikipedia.org/wiki/File:Binomial_theorem_visualisation.svg)
--   Chen, E.K. (2018). [The intrinsic structure of quantum mechanics](http://philsci-archive.pitt.edu/15140/). [^Chen2018]
+-   Chen, E.K. (2018). [The intrinsic structure of quantum mechanics](http://philsci-archive.pitt.edu/15140/). [^Chen2018b]
 
-[^Chen2018]: @Chen_2018_The_intrinsic_structure_of_quantum_mechanics\.
-[^Quine1948]: @Quine_1948_On_what_there_is\.
+[^Chen2018b]: @Chen_2018_The_intrinsic_structure_of_quantum_mechanics\.
+[^Quine1948b]: @Quine_1948_On_what_there_is\.
 [^Quine1948p7]: @Quine_1948_On_what_there_is\, p. 7.
 [^Quine1948p9]: @Quine_1948_On_what_there_is\, p. 9.
 [^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
@@ -1074,13 +1074,13 @@ Naturalism
 -   Hamming [^Hamming1980]
 -   Tegmark: MUH
 -   Zee: Physics uses simple Lie groups
--   Dan A. Roberts. (2021). [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021]
+-   Dan A. Roberts. (2021). [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021b]
     -   See also: [No free lunch theorems](statistics.html#no-free-lunch-theorems)
 
 [^Drake1957p237]: @Drake_1957_Discoveries_and_Opinions_of_Galileo\, p.237-8.
 [^Hamming1980]: @Hamming_1980_The_unreasonable_effectiveness_of_mathematics\.
 [^Putnam1975]: @Putnam_1975_What_is_mathematical_truth\.
-[^Roberts2021]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.
+[^Roberts2021b]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.
 [^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
 
 

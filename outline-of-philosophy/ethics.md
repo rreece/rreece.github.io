@@ -312,11 +312,11 @@ Churchland:
 -   [Logics for analyzing games](https://plato.stanford.edu/entries/logics-for-games/)
 -   Binmore
 -   *Natural Justice* (2011) [^Binmore2011]
--   Heads-up poker solved [^Bowling2015]
+-   Heads-up poker solved [^Bowling2015b]
 -   [Condorcet's jury theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
 
 [^Binmore2011]: @Binmore_2011_Natural_Justice\.
-[^Bowling2015]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
+[^Bowling2015b]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 [^Putnam2004]: @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other\.
 
 
@@ -349,7 +349,9 @@ See also:
 -   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
     -   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
 -   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
--   Don Ross
+-   Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. [^Ross2005]
+
+[^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
 
 
 ### Naturalistic fallacy

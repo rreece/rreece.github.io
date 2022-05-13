@@ -72,7 +72,7 @@ Stealing from encyclopedia.com:
 >   individuals and classes; the nature of relations, change, causation; and the nature of mind,
 >   matter, space, and time.
 
--   Quine, W.V.O. (1948). On what there is. [^Quine1948]
+-   Quine, W.V.O. (1948). On what there is. [^Quine1948a]
 -   Ney, A. (2014). *Metaphysics: An introduction*. [^Ney2014]
 -   Williamson, T. (2020). [What is metaphysics?](https://www.thebritishacademy.ac.uk/blog/what-is-metaphysics/)
 
@@ -84,7 +84,7 @@ Stealing from encyclopedia.com:
     -   [White horse dialog](https://en.wikipedia.org/wiki/When_a_white_horse_is_not_a_horse)
 
 [^Ney2014]: @Ney_2014_Metaphysics_An_introduction\.
-[^Quine1948]: @Quine_1948_On_what_there_is\.
+[^Quine1948a]: @Quine_1948_On_what_there_is\.
 [^vanInwagen2014]: @vanInwagen_2014_Metaphysics\.
 
 
@@ -799,7 +799,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   In 1930 the Vienna Circle and the Berlin Circle took over the journal *Annalen der Philosophie*
     and made it the main journal of logical empiricism under the title *Erkenntnis*,
     edited by Carnap and Reichenbach.
--   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932]
+-   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932a]
 -   A.J. Ayer (1910-1989)
     -   Ayer, A.J. (1936). *Language, Truth, and Logic*. [^Ayer1936]
     -   Helped the spread of positivism in British academia.
@@ -813,7 +813,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
-[^Carnap1932]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
+[^Carnap1932a]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\. <https://iep.utm.edu/viennacr/>
 [^Schlick1948]: @Schlick_1948_Positivism_and_realism\.
@@ -1161,7 +1161,7 @@ and meaning:
     -   Inscrutability of reference
     -   Indeterminacy of translation
 -   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
--   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986]
+-   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986a]
 -   Quine-Carnap correspondence [^Quine1990-2]
 -   Putnam, H. (1973). Meaning and reference. [^Putnam1973]
 -   Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? [^Yablo1998]
@@ -1195,7 +1195,7 @@ See also:
 [^Quine1960]: @Quine_1960_Word_and_Object\.
 [^Quine1960p374]: @Quine_1960_Carnap_and_logical_truth\, p. 374.
 [^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
-[^Quine1986]: @Quine_1986_The_Philosophy_of_WVQuine\.
+[^Quine1986a]: @Quine_1986_The_Philosophy_of_WVQuine\.
 [^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
 [^Winburn2021]: @Winburn_2021_Objectivity_is_a_myth_that_harms_the_practice\.
 [^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
@@ -1323,9 +1323,6 @@ Friedman:
 -   Talk by Sankey: [Scepticism, Relativism and Naturalistic Particularism](https://www.youtube.com/watch?v=QyEFaJf_Dyo)
     -   Chisholm's particularism: start with what is uncontroversially known.
         Justify epistemic standards second. It's ok to question beg.
--   [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
-    -   [Silvio Micali: Lex Fridman podcast](https://www.youtube.com/watch?v=zNdhgOk4-fE&ab_channel=LexFridman) - 1h25+
-    -   Verification and knowledge are different concepts
 -   Claudia Stancati. (2017). [Umberto Eco: The philosopher of signs](https://booksandideas.net/Umberto-Eco.html).
 
 Popper:
@@ -1385,14 +1382,14 @@ Otavio Bueno:
 Christian Hennig:
 
 -   "Mathematical models and reality: A constructivist perspective" [^Hennig2010]
--   "What are the true clusters?" [^Hennig2015]
+-   "What are the true clusters?" [^Hennig2015b]
 
 See also:
 
 -   [Clustering](statistics.html#clustering)
 
 [^Hennig2010]: @Hennig_2010_Mathematical_models_and_reality_A_constructivist\.
-[^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
+[^Hennig2015b]: @Hennig_2015_What_are_the_true_clusters\.
 [^vanFraassen1980]: @vanFraassen_1980_The_Scientific_Image\.
 
 
@@ -1456,11 +1453,11 @@ Poincar&eacute;:
 
 ### Discussion
 
--   Dennett, D. (1991). Real patterns. [^Dennett1991]
+-   Dennett, D. (1991). Real patterns. [^Dennett1991a]
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)
--   Ladyman, J., Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007]
+-   Ladyman, J., Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007b]
     -   Polemic against metaphysics.
     -   Rainforest realism: Scale-relative ontology
 -   Frigg, R. & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask. [^Frigg2011]
@@ -1470,18 +1467,18 @@ More:
 -   Redhead, M. (1975). Symmetry in intertheory relations. [^Redhead1975]
 -   Redhead, M. (2001). The intelligibility of the universe. [^Redhead2001]
 -   Sider, T. (2011). *Writing The Book of The World*. [^Sider2011]
--   Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. [^Ross2013]
+-   Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. [^Ross2013a]
 -   Ladyman, J. (2019). Video: [Natural necessity is just the stuff for Ontic Structural Realism](https://www.youtube.com/watch?v=Ausi6Kt9CTE).
     -   Natural necessity and objective modality
     -   Humeanism has objective modality but not natural necessity.
 
-[^Dennett1991]: @Dennett_1991_Real_patterns\.
+[^Dennett1991a]: @Dennett_1991_Real_patterns\.
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
-[^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Ladyman2007b]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Poincare1913p347]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 347--8.
 [^Redhead1975]: @Redhead_1975_Symmetry_in_intertheory_relations\.
 [^Redhead2001]: @Redhead_2001_The_intelligibility_of_the_universe\.
-[^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
+[^Ross2013a]: @Ross_2013_Scientific_Metaphysics\.
 [^Sider2011]: @Sider_2011_Writing_the_Book_of_the_World\.
 
 ### Criticism

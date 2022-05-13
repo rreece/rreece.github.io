@@ -25,12 +25,15 @@ Risk
     -   Climate change
     -   WMDs
     -   ...
+-   Fermi problem
+    -   Wong, M.L. & Bartlett, S. (2022). [Asymptotic burnout and homeostatic awakening: A possible solution to the Fermi paradox?](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0029)
 
 See also:
 
 -   [Ecology](ethics.html#ecology) in the [Outline on Ethics](ethics.html).
 
 [^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
+[^Wong2022]: @Wong_2022_Asymptotic_burnout_and_homeostatic_awakening\.
 
 
 Technological growth
@@ -68,7 +71,7 @@ Artificial intelligence
 >   context-appropriate prose, which would drown out all other speech and be impossible to filter. [^Vincent2019]
 
 -   Gwern. (2020). [The scaling hypothesis](https://www.gwern.net/Scaling-hypothesis#scaling-hypothesis).
--   Zhang, D. et al. (2021). [The AI Index 2022 Annual Report](https://arxiv.org/abs/2103.06312). [^Zhang2021]
+-   Zhang, D. et al. (2021). [The AI Index 2021 Annual Report](https://arxiv.org/abs/2103.06312). [^Zhang2021]
 -   Zhang, D. et al. (2022). [The AI Index 2022 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf). [^Zhang2022]
 -   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 

@@ -1351,6 +1351,7 @@ Only Roman texts from the Late Stoa survive.
 -   Pigliucci, M. (2015). Talk: [Stoicism 101](https://www.youtube.com/watch?v=seLLJP3H1FU).
 -   Pigliucci, M. (2017). *How to be a Stoic: Using Ancient Philosophy to Live a Modern Life*. [^Pigliucci2017]
 -   Pigliucci, M. (2020). [Stoa Nova](https://massimopigliucci.com/stoa-nova/).
+-   Ryan Holiday
 
 [^Ricks2006]: @Ricks_2006_Fiasco\.
 [^Kellogg2009]: @Kellogg_2009_An_American_reader_Bill_Clinton\.

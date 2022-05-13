@@ -276,7 +276,7 @@ See also:
 ### Gauge principle
 
 -   Weyl, H. (1929). Elektron und gravitation. [^Weyl1929]
--   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. [^tHooft1994]
+-   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. [^tHooft1994a]
 -   Teller, P. (2000). The gauge argument. [^Teller2000]
 -   't Hooft, G. (2007). [Lie groups in physics](http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf). [^tHooft2007]
 -   Afriat, A. (2013). Weyl's gauge argument. [^Afriat2013]
@@ -297,7 +297,7 @@ Weyl:
 [^Dewar2019]: @Dewar_2019_Sophistication_about_symmetries\.
 [^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^Teller2000]: @Teller_2000_The_gauge_argument\.
-[^tHooft1994]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
+[^tHooft1994a]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 [^tHooft2007]: @tHooft_2007_Lie_groups_in_physics\.
 [^Weyl1929]: @Weyl_1929_Elektron_und_gravitation\.
 [^Weyl1929pX]: @Weyl_1929_Elektron_und_gravitation\, p. TODO.
@@ -682,7 +682,7 @@ Michael Atiyah:
 -   Goldenfeld [^Goldenfeld1992]
 -   Butterfield [^Butterfield2014]
 -   Butterfield [^Butterfield2015]
--   't Hooft, again [^tHooft1994-2]
+-   't Hooft, again [^tHooft1994b]
 -   't Hooft, G. (1999). A confrontation with infinity (Nobel lecture). [^tHooft1999]
 -   The "renormalization group" isn't a group; it's actually a semigroup.
     The reason that renormalization produces a semigroup is that a block
@@ -696,7 +696,7 @@ Michael Atiyah:
 [^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
 [^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50.
 [^tHooft1971]: @tHooft_1971_Renormalizable_Lagrangians_for_massive_Yang_Mills\.
-[^tHooft1994-2]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
+[^tHooft1994b]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 [^tHooft1999]: @tHooft_1999_A_confrontation_with_infinity\.
 
 
@@ -975,7 +975,7 @@ See also:
 -   [Chern-Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
 -   [Cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
 -   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos). [^Schreiber2020]
--   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340). [^Baez2009]
+-   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340). [^Baez2009b]
 
 See also:
 
@@ -984,14 +984,14 @@ See also:
 -   [Differential geometry](math.html#differential-geometry)
     in the Outline on [mathematics](math.html).
 
-[^Baez2009]: @Baez_2009_Physics_topology_logic_and_computation\.
+[^Baez2009b]: @Baez_2009_Physics_topology_logic_and_computation\.
 [^Schreiber2020]: @Schreiber_2020_Differential_cohomology_in_a_cohesive\.
 
 
 ### Non-perturbative features
 
 -   Extended objects [^tHooft1978]
--   't Hooft [^tHooft1994-2]
+-   't Hooft [^tHooft1994c]
 -   Sphalerons
 -   Instanton
 -   Shifman [^Shifman2012]
@@ -999,7 +999,7 @@ See also:
 
 [^Shifman2012]: @Shifman_2012_Advanced_Topics_in_Quantum_Field_Theory_A_lecture\.
 [^tHooft1978]: @tHooft_1978_Extended_objects_in_gauge_field_theories\.
-[^tHooft1994-2]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
+[^tHooft1994c]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 
 
 ### Supersymmetry
@@ -1487,14 +1487,14 @@ See also:
 
 -   Running of the couplings
 -   Supersymmetry
-    -   Baez, J.C. & Huerta, J. (2009). [Division algebras and supersymmetry I](https://arxiv.org/abs/0909.0551). [^Baez2009a]
+    -   Baez, J.C. & Huerta, J. (2009). [Division algebras and supersymmetry I](https://arxiv.org/abs/0909.0551). [^Baez2009c]
     -   Baez, J.C. & Huerta, J. (2010). [Division algebras and supersymmetry II](https://arxiv.org/abs/1003.3436). [^Baez2010]
 -   Grand Unified Theories (GUTs)
     -   Pati & Salam [^Pati1974]
     -   Georgi & Glashow [^Glashow1974]
     -   Slansky [^Slansky1981]
     -   Georgi, H. (1982). *Lie Algebras in Particle Physics*. [^Georgi1982]
-    -   Baez, J.C. & Huerta, J. (2009). [The algebra of grand unified theories](https://arxiv.org/abs/0904.1556). [^Baez2009b]
+    -   Baez, J.C. & Huerta, J. (2009). [The algebra of grand unified theories](https://arxiv.org/abs/0904.1556). [^Baez2009d]
     -   Lisi, A.G. (2007). [An exceptionally simple theory of everything](https://arxiv.org/abs/0711.0770). [^Lisi2007]
 
 ![Two-loop renormalization group evolution of the inverse gauge couplings, $\alpha^{-1}$,
@@ -1507,9 +1507,9 @@ See also:
 
 -   [Supersymmetry](physics.html#supersymmetry)
 
-[^Baez2009a]: @Baez_2009_Division_algebras_and_supersymmetry_I\.
+[^Baez2009c]: @Baez_2009_Division_algebras_and_supersymmetry_I\.
 [^Baez2010]: @Baez_2010_Division_algebras_and_supersymmetry_II\.
-[^Baez2009b]: @Baez_2009_The_algebra_of_grand_unified_theories\.
+[^Baez2009d]: @Baez_2009_The_algebra_of_grand_unified_theories\.
 [^Glashow1974]: @Georgi_1974_Unity_of_all_elementary_particle_forces\.
 [^Georgi1982]: @Georgi_1999_Lie_Algebras_in_Particle_Physics\.
 [^Lisi2007]: @Lisi_2007_An_exceptionally_simple_theory_of_everything\.
@@ -1540,11 +1540,11 @@ See also:
 -   Start of string phenomenology [^Candelas1985]
 -   Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. [^Maldacena1998]
 -   Witten, E. (1998). Anti-de Sitter space and holography. [^Witten1998]
--   Ney, A. (2021). From quantum entanglement to spatiotemporal distance. [^Ney2021]
+-   Ney, A. (2021). From quantum entanglement to spatiotemporal distance. [^Ney2021b]
 
 [^Candelas1985]: @Candelas_1985_Vacuum_configurations_for_superstrings\.
 [^Maldacena1998]: @Maldacena_1998_The_large_N_limit_of_superconformal_field\.
-[^Ney2021]: @Ney_2021_From_quantum_entanglement_to_spatiotemporal\.
+[^Ney2021b]: @Ney_2021_From_quantum_entanglement_to_spatiotemporal\.
 [^Witten1998]: @Witten_1998_Anti_de_Sitter_space_and_holography\.
 
 

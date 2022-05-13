@@ -77,7 +77,7 @@ Jacobs:
 >   a distinctively a priori project of theorizing.  [^Jacobs2002]
 
 Naturalism could be defined as a support for philosophy that is filtered for
-plausibility given the information from science. [^Ladyman2007pX]
+plausibility given the information from science. [^Ladyman2007pXX]
 See the [Outline on the science method](scientific-method.html#is-there-a-universal-scientific-method).
 
 Maudlin gives clear naturalist attitude at the start of *The Metaphysics within Physics*:
@@ -109,7 +109,7 @@ Papineau:
 >   the "human spirit". [^Papineau2007]
 
 [^Jacobs2002]: @Jacobs_2002_Naturalism\. 
-[^Ladyman2007pX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO (find error correcting filters).
+[^Ladyman2007pXX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO (find error correcting filters).
 [^Maddy2007p1]: @Maddy_2007_Second_Philosophy, p. 1.
 [^Maddy2007p18]: @Maddy_2007_Second_Philosophy, p. 18--19.
 [^Maudlin2007p1]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 1.
@@ -333,7 +333,7 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
     -   Berlin, I. (1973). "The Counter-Enlightenment".
 -   Cassirer-Heidegger debate
     -   Heidegger, M. (1929). What is metaphysics? [^Heidegger1929]
-    -   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932]
+    -   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932b]
     -   Friedman, M. (2000). *A Parting of the Ways: Carnap, Cassirer, and Heidegger*. [^Friedman2000]
     -   Friedman, M. (2002). Carnap, Cassirer, and Heidegger: The Davos disputation and twentieth century philosophy. [^Friedman2002]
     -   Gabriel, G. (2003). Carnap's "Elimination of metaphysics through logical analysis of language". [^Gabriel2003]
@@ -344,7 +344,7 @@ See also:
 
 -   [Romanticism](human-condition.html#romanticism)
 
-[^Carnap1932]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
+[^Carnap1932b]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
 [^Friedman2000]: @Friedman_2000_A_Parting_of_the_Ways_Carnap_Cassirer\.
 [^Friedman2002]: @Friedman_2002_Carnap_Cassirer_and_Heidegger_The_Davos\.
 [^Gabriel2003]: @Gabriel_2003_Carnaps_Elimination_of_metaphysics_through\.
@@ -423,7 +423,7 @@ Physicalism
     -   "the domain of the physical is causally closed."
     -   Spurrett, D.J. (1999). *The Completeness of Physics*. [^Spurrett1999]
     -   Spurrett, D.J. & Papineau, D. (1999). A note on the completeness of 'physics'. [^Spurrett1999b]
--   Ney, A. (2021). The fundamentality of physics: Completeness or maximality? [^Ney2021]
+-   Ney, A. (2021). The fundamentality of physics: Completeness or maximality? [^Ney2021a]
 
 See also:
 
@@ -451,7 +451,7 @@ See also:
 
 -   TODO
 
-[^Ney2021]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
+[^Ney2021a]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
 [^Spurrett1999]: @Spurrett_1999_The_Completeness_of_Physics\.
 [^Spurrett1999b]: @Spurrett_1999_A_note_on_the_completeness_of_physics\.
 
@@ -533,7 +533,7 @@ Part of metaphysical naturalism.
 -   Plato: *Phaedrus* 265e
 -   Quine, W.V.O. (1969). Ontological relativity. [^Quine1969p26]
 -   Quine, W.V.O. (1969). Natural kinds. [^Quine1969p114]
--   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013]
+-   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013b]
 
 ![How naturalist climb the ladder to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism), 2015).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
 
@@ -554,13 +554,13 @@ See also:
 [^Ladyman2007p5]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 5.
 [^Quine1969p26]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 26--68.
 [^Quine1969p114]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 114--138.
-[^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
+[^Ross2013b]: @Ross_2013_Scientific_Metaphysics\.
 
 
 ### Criticism
 
 -   Azzouni, J. (2000). *Knowledge and Reference in Empirical Science*. [^Azzouni2000]
--   Hennig, C. (2015). What are the true clusters? [^Hennig2015]
+-   Hennig, C. (2015). What are the true clusters? [^Hennig2015c]
 -   Haslanger, S. (2012). *Resisting Reality: Social Construction and Social Critique*. [^Haslanger2012]
 
 See also:
@@ -571,7 +571,7 @@ See also:
 
 [^Azzouni2000]: @Azzouni_2000_Knowledge_and_Reference_in_Empirical_Science\.
 [^Haslanger2012]: @Haslanger_2012_Resisting_Reality_Social_Construction_and_Social\.
-[^Hennig2015]: @Hennig_2015_What_are_the_true_clusters\.
+[^Hennig2015c]: @Hennig_2015_What_are_the_true_clusters\.
 
 
 ### Discussion
@@ -765,7 +765,7 @@ Criticisms of naturalism
 ### Rebutals
 
 -   Defenses of naturalism:
-    -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007]
+    -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007c]
     -   Rosenberg, A. [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/). *New York Times*. [^Rosenberg2011]
     -   Mallon, R. (2019). [Naturalistic approaches to social construction](https://plato.stanford.edu/entries/social-construction-naturalistic/). *Stanford Encyclopedia of Philosophy*. 
 -   Criticisms of postmodernism:
@@ -799,15 +799,15 @@ Criticisms of naturalism
     -   Cadwalladr, C. (2017). [Daniel Dennett: I begrudge every hour I have to spend worrying about politics](https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview). *The Guardian*. [^Cadwalladr2017]
     -   Williams, C. (2017). [Has Trump stolen philosophy's critical tools?](https://www.nytimes.com/2017/04/17/opinion/has-trump-stolen-philosophys-critical-tools.html) *The New York Times*. [^Williams2017]
     -   Sartwell, C. (2022). [Truth is real](https://aeon.co/essays/truth-is-real-and-philosophers-must-return-their-attention-to-it). *Aeon*.
-    -   Leah, R. (2018). ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/). *Salon*. [^Leah2018]
+    -   Leah, R. (2018). ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/). *Salon*. [^Leah2018b]
     -   Friedersdorf, C. (2018). [Why can't people hear what Jordan Peterson is saying?](https://www.theatlantic.com/politics/archive/2018/01/putting-monsterpaint-onjordan-peterson/550859/). *The Atlantic*.
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
 [^Heer2017]: @Heer_2017_Americas_first_postmodern_president\.
 [^Hicks2011]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
-[^Ladyman2007]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
-[^Leah2018]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
+[^Ladyman2007c]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Leah2018b]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 [^Pluckrose2016]: @Pluckrose_2016_Why_I_no_longer_identify_as_a_feminist\.
 [^Pluckrose2017]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
 [^Pomerantsev2016]: @Pomerantsev_2016_Why_were_post_fact\.
