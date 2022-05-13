@@ -26,7 +26,7 @@ Risk
     -   WMDs
     -   ...
 -   Fermi problem
-    -   Wong, M.L. & Bartlett, S. (2022). [Asymptotic burnout and homeostatic awakening: A possible solution to the Fermi paradox?](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0029)
+    -   Wong, M.L. & Bartlett, S. (2022). [Asymptotic burnout and homeostatic awakening: A possible solution to the Fermi paradox?](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0029) [^Wong2022]
 
 See also:
 
