@@ -154,45 +154,6 @@ Neuroscience
 [^Reimann2017]: @Reimann_2017_Cliques_of_neurons_bound_into_cavities_provide\.
 
 
-Artificial intelligence
---------------------------------------------------------------------------------
-
-### Introduction
-
--   TODO
--   Strong vs weak, general vs narrow AI
-
-See also:
-
--   [Deep learning](statistics.html#deep-learning)
--   [Artificial intelligence](future.html#artificial-intelligence)
-
-
-### Criticism
-
--   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/) - IEP
--   John Searle - [Chinese room argument](https://en.wikipedia.org/wiki/Chinese_room)
--   Hubert Dreyfus
-    -   Dreyfus, H.L. (1965). [Alchemy and artificial intelligence](https://www.rand.org/pubs/papers/P3244.html). [^Dreyfus1965]
-    -   Dreyfus, H.L. (1972). *What Computers Can't Do*. [^Dreyfus1972]
-    -   Video: [Being in the World: A tribute to Hubert Dreyfus](https://www.youtube.com/watch?v=PHJQ3IjQfKI).
-    -   Video: [Hubert Dreyfus interview - AI, Heidegger, meaning in the modern world](https://www.youtube.com/watch?v=u_zNHOzDP7w).
-    -   [Hubert Dreyfus's views on artificial intelligence](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence)
-
-See also:
-
--   [Existentialists](human-condition.html#existentialists)
--   [Incompleteness](math.html#incompleteness)
-
-[^Dreyfus1965]: @Dreyfus_1965_Alchemy_and_artificial_intelligence\.
-[^Dreyfus1972]: @Dreyfus_1972_What_Computers_Cant_Do\.
-
-
-### Counter criticism
-
--   [Comic by Dennett](https://ase.tufts.edu/cogstud/assets/searle.jpg)
-
-
 Language
 --------------------------------------------------------------------------------
 
@@ -236,11 +197,50 @@ Free will
 
 -   [Reflections on Free Will](https://www.samharris.org/blog/item/reflections-on-free-will) - Daniel Dennett
 -   [The Marionette's Lament](https://www.samharris.org/blog/item/the-marionettes-lament) - Sam Harris
--   [Caricaturing free will](http://www.pawelpachniewski.com/mental-contractions/2014/08/caricaturing-free-will/) - Pawel Pachniewski
+-   [Caricaturing free will](https://mentalcontractions.com/2014/08/13/caricaturing-free-will/) - Pawel Pachniewski
 -   [Dennett and Harris try to bridge the gap](https://www.youtube.com/watch?v=vFa7vFkVy4g) - Waking Up podcast
 -   [Free will is dead, let's bury it.](http://backreaction.blogspot.ch/2016/01/free-will-is-dead-lets-bury-it.html) - Sabine Hossenfelder
 -   [Sam Harris: Free Will is an Illusion](https://www.youtube.com/watch?v=SYq724zHUTw) - Lex Fridman podcast
 -   [Judea Pearl on the illusion of free will](https://www.youtube.com/watch?v=GVaQ_XxcjJk)
+
+
+Artificial intelligence
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   TODO
+-   Strong vs weak, general vs narrow AI
+
+See also:
+
+-   [Deep learning](statistics.html#deep-learning)
+-   [Artificial intelligence](future.html#artificial-intelligence)
+
+
+### Criticism
+
+-   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/) - IEP
+-   John Searle - [Chinese room argument](https://en.wikipedia.org/wiki/Chinese_room)
+-   Hubert Dreyfus
+    -   Dreyfus, H.L. (1965). [Alchemy and artificial intelligence](https://www.rand.org/pubs/papers/P3244.html). [^Dreyfus1965]
+    -   Dreyfus, H.L. (1972). *What Computers Can't Do*. [^Dreyfus1972]
+    -   Video: [Being in the World: A tribute to Hubert Dreyfus](https://www.youtube.com/watch?v=PHJQ3IjQfKI).
+    -   Video: [Hubert Dreyfus interview - AI, Heidegger, meaning in the modern world](https://www.youtube.com/watch?v=u_zNHOzDP7w).
+    -   [Hubert Dreyfus's views on artificial intelligence](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence)
+
+See also:
+
+-   [Existentialists](human-condition.html#existentialists)
+-   [Incompleteness](math.html#incompleteness)
+
+[^Dreyfus1965]: @Dreyfus_1965_Alchemy_and_artificial_intelligence\.
+[^Dreyfus1972]: @Dreyfus_1972_What_Computers_Cant_Do\.
+
+
+### Counter criticism
+
+-   [Comic by Dennett](https://ase.tufts.edu/cogstud/assets/searle.jpg)
 
 
 My thoughts
