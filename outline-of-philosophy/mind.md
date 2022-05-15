@@ -201,6 +201,7 @@ Language
 -   Noam Chomsky
     -   innatism
     -   *Syntactic Structures* (1957)
+    -   Kantian?
 -   TODO: criticism
 
 

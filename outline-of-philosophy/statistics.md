@@ -1699,6 +1699,8 @@ Resources:
     -   Lakshmanamoorthy, R. (2020). [A complete learning path to transformers (with guide to 23 architectures)](https://analyticsindiamag.com/a-complete-learning-path-to-transformers/).
     -   Zaheer, M. et al. (2020). [Big Bird: Transformers for longer sequences](https://arxiv.org/abs/2007.14062). [^Zaheer2020]
     -   Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). [Efficient transformers: A survey](https://arxiv.org/abs/2009.06732). [^Tay2022]
+-   Textbooks
+    -   Jurafsky, D. & Martin, J.H. (2022). [*Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition*](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf). [^Jurafsky2022]
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
@@ -1713,6 +1715,7 @@ See also:
 [^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
 [^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
+[^Jurafsky2022]: @Jurafsky_2022_Speech_and_Language_Processing_An_introduction\.
 [^Kaplan2020]: @Kaplan_2020_Scaling_laws_for_neural_language_models\.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations\,

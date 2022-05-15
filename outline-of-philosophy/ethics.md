@@ -361,7 +361,7 @@ See also:
 ### Naturalistic fallacy
 
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
--   Introduced by Moore, G.E. (1903). *Principia Ethica*. [^Moore1903]
+-   Introduced by Moore, G.E. (1903). *Principia Ethica*. [^Moore1903b]
 -   Is/ought divide going back to Hume
 -   G.E. Moore's [Open-question argument](https://en.wikipedia.org/wiki/Open-question_argument)
 -   [Moore's Moral Philosophy](https://plato.stanford.edu/entries/moore-moral/)
@@ -376,7 +376,7 @@ See also:
 -   [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](naturalism.html)
 -   [Is-ought divide](ethics.html#is-ought-divide)
 
-[^Moore1903]: @Moore_1988_Principia_Ethica\.
+[^Moore1903b]: @Moore_1988_Principia_Ethica\.
 [^Russell2020]: @Russell_2020_Logic_isnt_normative\.
 [^Russell2021]: @Russell_2021_How_to_prove_Humes_law\.
 [^Schurz1997]: @Schurz_1997_The_IsOught_Problem_An_Investigation\.
