@@ -296,6 +296,7 @@ Churchland:
 >   distribution, and many other aspects of social life in all its vast
 >   richness. [^Churchland2011p7]
 
+-   Skarsaune, K.O. (2009). Darwin and moral realism: Survival of the iffiest. [^Skarsaune2009]
 -   Michael Shermer and Massimo Pigliucci debate the role of science deriving morality:
     -   [vid](https://www.youtube.com/watch?v=4Qhlp-X3EHA)
     -   [blog 1](http://rationallyspeaking.blogspot.com/2013/01/michael-shermer-on-morality.html)
@@ -305,6 +306,7 @@ Churchland:
 
 [^Churchland2011p7]: @Churchland_2011_What_Neuroscience_Tells_Us_About_Morality\.
 [^deWaal1982]: @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes\.
+[^Skarsaune2009]: @Skarsaune_2009_Darwin_and_moral_realism_Survival_of_the_iffiest\.
 
 
 ### Game theory
@@ -346,18 +348,20 @@ See also:
 -   [Harry Markowitz](https://en.wikipedia.org/wiki/Harry_Markowitz) (b. 1927)
     -   [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
     -   [Markowitz model](https://en.wikipedia.org/wiki/Markowitz_model)
+    -   Markowitz, H.M. (1952). Portfolio selection. [^Markowitz1952]
 -   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
     -   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
 -   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
 -   Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. [^Ross2005]
 
+[^Markowitz1952]: @Ross_2000_Dennetts_Philosophy_A_comprehensive_assessment\.
 [^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
 
 
 ### Naturalistic fallacy
 
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
--   Introduced by Moore, G.E. (1903). *Principia Ethica*.
+-   Introduced by Moore, G.E. (1903). *Principia Ethica*. [^Moore1903]
 -   Is/ought divide going back to Hume
 -   G.E. Moore's [Open-question argument](https://en.wikipedia.org/wiki/Open-question_argument)
 -   [Moore's Moral Philosophy](https://plato.stanford.edu/entries/moore-moral/)
@@ -372,6 +376,7 @@ See also:
 -   [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](naturalism.html)
 -   [Is-ought divide](ethics.html#is-ought-divide)
 
+[^Moore1903]: @Moore_1988_Principia_Ethica\.
 [^Russell2020]: @Russell_2020_Logic_isnt_normative\.
 [^Russell2021]: @Russell_2021_How_to_prove_Humes_law\.
 [^Schurz1997]: @Schurz_1997_The_IsOught_Problem_An_Investigation\.
@@ -577,6 +582,9 @@ Aesthetics
 
 -   Semiotics
 -   Roger Scruton
+-   Scruton, R. (2018). Why beauty matters. [^Scruton2018]
+
+[^Scruton2018]: @Scruton_2018_Why_beauty_matters\.
 
 
 ### Taste

@@ -2137,7 +2137,10 @@ Existentialism
 ### Proto-existentialists
 
 -   [S&oslash;ren Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard) (1813-1855)
+    -   *Either/Or* (1843)
+    -   *Two Ages: A Literary Review* (1846)
     -   anxiety & subjectivity
+    -   hedonism & aesthetics
 -   [Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Fyodor_Dostoevsky) (1821-1881)
     -   Volkov, A.I. (2011). [Dostoevsky Did Say It: A Response to David E. Cortesi](https://infidels.org/library/modern/andrei_volkov/dostoevsky.html).
     -   Zizek, S. (2012). [If there is a God, then anything is permitted](https://www.abc.net.au/religion/if-there-is-a-god-then-anything-is-permitted/10100616).
@@ -2162,6 +2165,7 @@ Existentialism
     -   *Being and Time* (1927)
     -   *Discourse on Thinking* (1959) [^Heidegger1966]
     -   Bright, L.K. (2016). [Metalogic Against Heideggarian Naziism](http://sootyempiric.blogspot.com/2016/10/metalogic-against-heideggarian-naziism.html).
+    -   Documentary: [*Being in the World*](https://www.youtube.com/watch?v=fcCRmf_tHW8) (2010).
 
 Bertrand Russell:
 

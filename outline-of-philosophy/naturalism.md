@@ -337,6 +337,7 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
     -   Friedman, M. (2000). *A Parting of the Ways: Carnap, Cassirer, and Heidegger*. [^Friedman2000]
     -   Friedman, M. (2002). Carnap, Cassirer, and Heidegger: The Davos disputation and twentieth century philosophy. [^Friedman2002]
     -   Gabriel, G. (2003). Carnap's "Elimination of metaphysics through logical analysis of language". [^Gabriel2003]
+    -   Kondylis, P. (1997). [Heidegger’s *Being and Time*: A collection of pretentious and vague platitudes](http://www.telospress.com/heideggers-being-and-time-a-collection-of-pretentious-and-vague-platitudes/).
     -   Luchte, J. (2007). [Martin Heidegger and Rudolf Carnap: Radical Phenomenology, Logical Positivism and the Roots of the Continental/Analytic Divide](https://luchte.wordpress.com/martin-heidegger-and-rudolf-carnap-radical-phenomenology-logical-positivism-and-the-roots-of-the-continentalanalytic-divide/).
     -   Dresser, S. (2020). [Does philosophy reside in the unsayable or should it care only for precision? Carnap, Heidegger and the great divergence](https://aeon.co/essays/heidegger-v-carnap-how-logic-took-issue-with-metaphysics).
 

@@ -102,9 +102,11 @@ Illusionism
 
 -   Frankish, K. (2016). [Illusionism as a theory of consciousness](https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf). [^Frankish2016]
 -   Dennett, D.C. (2016). [Illusionism as the obvious default theory of consciousness](https://ase.tufts.edu/cogstud/dennett/papers/illusionism.pdf). [^Dennett2016]
+-   Ross, D. (2000). *Dennett's Philosophy: A comprehensive assessment*. [^Ross2000]
 
 [^Dennett2016]: @Dennett_2016_Illusionism_as_the_obvious_default_theory\.
 [^Frankish2016]: @Frankish_2016_Illusionism_as_a_theory_of_consciousness\.
+[^Ross2000]: @Ross_2000_Dennetts_Philosophy_A_comprehensive_assessment\.
 
 
 Neuroscience
@@ -155,7 +157,10 @@ Neuroscience
 Artificial intelligence
 --------------------------------------------------------------------------------
 
+### Introduction
+
 -   TODO
+-   Strong vs weak, general vs narrow AI
 
 See also:
 
@@ -167,13 +172,25 @@ See also:
 
 -   [Lucas-Penrose Argument about G&ouml;del's Theorem](https://www.iep.utm.edu/lp-argue/) - IEP
 -   John Searle - [Chinese room argument](https://en.wikipedia.org/wiki/Chinese_room)
-    -   [Comic by Dennett](https://ase.tufts.edu/cogstud/assets/searle.jpg)
 -   Hubert Dreyfus
--   TODO: counter-criticism
+    -   Dreyfus, H.L. (1965). [Alchemy and artificial intelligence](https://www.rand.org/pubs/papers/P3244.html). [^Dreyfus1965]
+    -   Dreyfus, H.L. (1972). *What Computers Can't Do*. [^Dreyfus1972]
+    -   Video: [Being in the World: A tribute to Hubert Dreyfus](https://www.youtube.com/watch?v=PHJQ3IjQfKI).
+    -   Video: [Hubert Dreyfus interview - AI, Heidegger, meaning in the modern world](https://www.youtube.com/watch?v=u_zNHOzDP7w).
+    -   [Hubert Dreyfus's views on artificial intelligence](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence)
 
 See also:
 
+-   [Existentialists](human-condition.html#existentialists)
 -   [Incompleteness](math.html#incompleteness)
+
+[^Dreyfus1965]: @Dreyfus_1965_Alchemy_and_artificial_intelligence\.
+[^Dreyfus1972]: @Dreyfus_1972_What_Computers_Cant_Do\.
+
+
+### Counter criticism
+
+-   [Comic by Dennett](https://ase.tufts.edu/cogstud/assets/searle.jpg)
 
 
 Language
@@ -360,6 +377,7 @@ Click to show links
 -   [Charles Whitman](https://en.wikipedia.org/wiki/Charles_Whitman)
 -   [Checker shadow illusion](https://en.wikipedia.org/wiki/Checker_shadow_illusion)
 -   [Consciousness](http://en.wikipedia.org/wiki/Consciousness)
+-   [Dreyfus's views on artificial intelligence](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence)
 -   [Eliminative materialism](https://en.wikipedia.org/wiki/Eliminative_materialism)
 -   [Extended Mind](http://en.wikipedia.org/wiki/The_Extended_Mind)
 -   [Free will](http://en.wikipedia.org/wiki/Free_will)

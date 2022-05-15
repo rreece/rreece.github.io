@@ -89,6 +89,8 @@ See also:
 Transhumanism
 --------------------------------------------------------------------------------
 
+-   Haldane, J.B.S. (1924). [Daedalus; or, Science and the Future](http://bactra.org/Daedalus.html).
+-   Huxley, Julian (1957). [Transhumanism](https://web.archive.org/web/20160625132722/http://www.transhumanism.org/index.php/WTA/more/huxley).
 -   The fable of the dragon-tyrant [^Bostrom2005]
 
 [^Bostrom2005]: @Bostrom_2005_The_fable_of_the_dragon_tyrant\.
