@@ -1,3 +1,4 @@
+Armstrong, S., Sotala, K., & OhEigeartaigh, S. S. (2014). The errors, insights and lessons of famous AI predictions--and what they mean for the future. *Journal of Experimental & Theoretical Artificial Intelligence*, 26(3), 317--342. https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf
 Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. Routledge.
 Bostrom, N. (2003). Are you living in a computer simulation? *Philosophical Quarterly*, 53, 243--255.
 Bostrom, N. (2005). The fable of the dragon-tyrant. *Journal of Medical Ethics*, 31, 273--277. https://www.nickbostrom.com/fable/dragon.html

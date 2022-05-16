@@ -204,7 +204,7 @@ Free will
 -   [Judea Pearl on the illusion of free will](https://www.youtube.com/watch?v=GVaQ_XxcjJk)
 
 
-Artificial intelligence
+Artificial intelligence and mind
 --------------------------------------------------------------------------------
 
 ### Introduction

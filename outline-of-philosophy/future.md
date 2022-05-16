@@ -74,12 +74,15 @@ Artificial intelligence
 -   Zhang, D. et al. (2021). [The AI Index 2021 Annual Report](https://arxiv.org/abs/2103.06312). [^Zhang2021]
 -   Zhang, D. et al. (2022). [The AI Index 2022 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf). [^Zhang2022]
 -   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
+-   Armstrong, S., Sotala, K., & OhEigeartaigh, S. S. (2014). [The errors, insights and lessons of famous AI predictions--and what they mean for the future](https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf). [^Armstrong2014]
 
 See also:
 
--   [Machine learning](statistics.html#machine-learning)
+-   [Deep learning](statistics.html#deep-learning)
     in the [Outline on the philosophy of statistics](statistics.html).
+-   [Artificial intelligence and mind](mind.html#artificial-intelligence-and-mind)
 
+[^Armstrong2014]: @Armstrong_2014_The_errors_insights_and_lessons_of_famous_AI\.
 [^Vincent2019]: @Vincent_2019_OpenAIs_new_multitalented_AI_writes_translates\.
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 [^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.
