@@ -354,7 +354,7 @@ See also:
 -   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
 -   Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. [^Ross2005]
 
-[^Markowitz1952]: @Ross_2000_Dennetts_Philosophy_A_comprehensive_assessment\.
+[^Markowitz1952]: @Markowitz_1952_Portfolio_selection\.
 [^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
 
 
