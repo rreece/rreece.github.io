@@ -437,6 +437,7 @@ Solzhenitsyn:
 
 ### Socialism
 
+-   P&euml;tr Kropotkin. (1880). [An appeal to the young](https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-young).
 -   Video: [Ted Turner asks Carl Sagan if he is a socialist](https://www.youtube.com/watch?v=rDK2chgNPZM)
 
 Shields:
