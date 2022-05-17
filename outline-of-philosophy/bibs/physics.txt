@@ -10,6 +10,7 @@ Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting 
 {ATLAS Collaboration}. (2012). Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC. *Physics Letters B*, 716, 1--29. https://arxiv.org/abs/1207.7214
 Bacciagaluppi, G. & Valentini, A. (2009). *Quantum Theory at the Crossroads: Reconsidering the 1927 Solvay Conference*. Cambridge University Press. https://arxiv.org/abs/quant-ph/0609184
 Baez, J.C., Segal, I., & Zhou, Z. (1992). *Introduction to Algebraic and Constructive Quantum Field Theory*. Princeton University Press. https://math.ucr.edu/home/baez/bsz.html
+Baez, J.C. & Muniain, J.P. (1994). *Gauge Fields, Knots and Gravity*. World Scientific.
 Baez, J.C. & Schreiber, U. (2005). Higher gauge theory. https://arxiv.org/abs/math/0511710
 Baez, J.C. & Huerta, J. (2009). The algebra of grand unified theories. *Bulletin of the American Mathematical Society*, 47, 483--552. https://arxiv.org/abs/0904.1556
 Baez, J.C. & Huerta, J. (2009). Division algebras and supersymmetry I. https://arxiv.org/abs/0909.0551

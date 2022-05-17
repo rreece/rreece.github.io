@@ -45,6 +45,7 @@ Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenolog
 Carnap, R. (1947). Probability as a guide in life. *Journal of Philosophy*, 44(6), 141--48.
 Chen, R.T.Q., Rubanova, Y., Bettencourt, J., & Duvenaud, D. (2018). Neural ordinary differential equations. https://arxiv.org/abs/1806.07366
 Chen, S., Dobriban, E., & Lee, J.H. (2020). A group-theoretic framework for data augmentation. https://arxiv.org/abs/1907.10905
+Chen, T. & Guestrin, C. (2016). Xgboost: A scalable tree boosting system. https://arxiv.org/abs/1603.02754
 Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation. *Natural Language Engineering*, 25(6), 753--767. https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291
 Ciresan, D., Meier, U. Masci, J. & Schmidhuber, J. (2012). Multi-column deep neural network for traffic sign classification. *Neural Networks*, 32, 333--338. https://arxiv.org/abs/1202.2745
 Clopper, C.J. & Pearson, E.S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, 26(4), 404--413.

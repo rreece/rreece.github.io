@@ -363,8 +363,8 @@ See also:
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
 -   Introduced by Moore, G.E. (1903). *Principia Ethica*. [^Moore1903b]
 -   Is/ought divide going back to Hume
--   G.E. Moore's [Open-question argument](https://en.wikipedia.org/wiki/Open-question_argument)
--   [Moore's Moral Philosophy](https://plato.stanford.edu/entries/moore-moral/)
+-   [Moore's open-question argument](https://en.wikipedia.org/wiki/Open-question_argument)
+-   [Moore's moral philosophy](https://plato.stanford.edu/entries/moore-moral/)
 -   Schurz, G. (1997). *The Is/Ought Problem: An Investigation in Philosophical Logic*. [^Schurz1997]
 -   Schurz, G. (2010). Comments on Restall, Russell, and Vranas. [^Schurz2010a]
 -   Schurz, G. (2010). Non-trivial versions of Hume's is-ought thesis. [^Schurz2010b]

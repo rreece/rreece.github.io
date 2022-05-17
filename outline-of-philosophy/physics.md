@@ -919,7 +919,7 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
         1.  the principle of locality
         2.  the gauge principle.
 -   [Vector bundle](https://en.wikipedia.org/wiki/Vector_bundle)
--   *The Geometry of Physics* [^Frankel2004]
+-   Frankel, T. (2004). *The Geometry of Physics*. [^Frankel2004]
 
 >   Bundles are the *global* structure of physical fields and they are irrelevant
 >   only for the crude local and perturbative description of reality. [^nLab2021Fiber]
@@ -950,6 +950,7 @@ Maudlin on fiber bundles:
 >   fiber bundles directly, not by trying to translate modern mathematics into
 >   archaic philosophical terminology. [^Maudlin2007p101]
 
+-   Baez, J.C. & Muniain, J.P. (1994). *Gauge Fields, Knots and Gravity*. [^Baez1994]
 -   Baez, J.C. & Schreiber, U. (2005). [Higher gauge theory](https://arxiv.org/abs/math/0511710). [^Baez2005]
 -   Baez, J.C. & Huerta, J. (2011). [An invitation to higher gauge theory](https://arxiv.org/abs/1003.4485). [^Baez2011b]
 
@@ -958,6 +959,7 @@ See also:
 -   [Differential geometry](math.html#differential-geometry)
     in the Outline on [mathematics](math.html).
 
+[^Baez1994]: @Baez_1994_Gauge_Fields_Knots_and_Gravity\.
 [^Baez2005]: @Baez_2005_Higher_gauge_theory\.
 [^Baez2011b]: @Baez_2011_An_invitation_to_higher_gauge_theory\.
 [^Frankel2004]: @Frankel_2004_The_Geometry_of_Physics\.

@@ -1374,6 +1374,9 @@ See also:
 ### Decision trees
 
 -   TODO
+-   Chen, T. & Guestrin, C. (2016). [Xgboost: A scalable tree boosting system](https://arxiv.org/abs/1603.02754). [^Chen2016]
+
+[^Chen2016]: @Chen_2016_Xgboost_A_scalable_tree_boosting_system\.
 
 
 ### Clustering
