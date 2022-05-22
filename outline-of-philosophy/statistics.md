@@ -1748,6 +1748,7 @@ Pedagogy:
 
 -   Sutton & Barto [^Sutton2018]
 -   Deep Reinforcement Learning: A Brief Survey [^Arulkumaran2017]
+-   Cesa-Bianchi, N. & Lugosi, G. (2006). [*Prediction, Learning, and Games*](https://ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf). [^CesaBianchi2006]
 
 Tutorials:
 
@@ -1761,6 +1762,7 @@ More:
 -   [List of game AI codes by DATA Lab](https://github.com/datamllab/awesome-game-ai)
 
 [^Arulkumaran2017]: @Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey\.
+[^CesaBianchi2006]: @Cesa_Bianchi_2006_Prediction_Learning_and_Games\.
 [^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
 
 
@@ -1805,6 +1807,7 @@ More:
 -   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
     -   Monte Carlo Counterfactual Regret Minimization (MCCFR)
 -   Neller, T.W. & Lanctot, M. (2013). An introduction to counterfactual regret minimization. [^Neller2013]
+-   Czarnog&oacute;rski, K. (2018). [Counterfactual Regret Minimization - the core of poker AI beating professional players](https://int8.io/counterfactual-regret-minimization-for-poker-ai/).
 
 [^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
 [^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.

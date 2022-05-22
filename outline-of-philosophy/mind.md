@@ -42,6 +42,8 @@ Consciousness
 Dualism
 --------------------------------------------------------------------------------
 
+### Introduction
+
 -   Mind-body problem
 -   Plato
 -   Descartes 
@@ -74,12 +76,12 @@ Physicalism
     the role of any newphysics in the functioning of the brain.
     -   <https://twitter.com/RyanDavidReece/status/1285682311112122370>
     -   [YouTube: Is there free will? | David Eagleman and Lex Fridman](https://www.youtube.com/watch?v=8f92iPYmiGY&t=298)
-    -   See also: [Bracketing human experience](physics.html#bracketing-human-experience)
 
 See also:
 
--   [Physicalism](naturalism.html#physicalism) in the [Outline on Naturalism](naturalism.html)
--   [Physicalism](human-condition.html#physicalism) in the [Outline on the Human Condition](human-condition.html)
+-   [Bracketing human experience](physics.html#bracketing-human-experience) in the [Outline on the philosophy of physics](naturalism.html)
+-   [Physicalism](naturalism.html#physicalism) in the [Outline on naturalism](naturalism.html)
+-   [Physicalism](human-condition.html#physicalism) in the [Outline on the human condition](human-condition.html)
 
 [^MacFarquhar2014]: @MacFarquhar_2014_Two_Heads_A_marriage_devoted_to_the_mind_body\.
 [^Montero1999]: @Montero_1999_The_Body_Problem\.
@@ -209,13 +211,15 @@ Artificial intelligence and mind
 
 ### Introduction
 
--   TODO
 -   Strong vs weak, general vs narrow AI
+-   Kurzweil, R. (2012). *How to Create a Mind*. [^Kurzweil2012]
 
 See also:
 
 -   [Deep learning](statistics.html#deep-learning)
 -   [Artificial intelligence](future.html#artificial-intelligence)
+
+[^Kurzweil2012]: @Kurzweil_2012_How_to_Create_a_Mind\.
 
 
 ### Criticism

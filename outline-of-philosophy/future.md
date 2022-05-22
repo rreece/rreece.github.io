@@ -17,20 +17,31 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Risk
 --------------------------------------------------------------------------------
 
--   Bertrand Russell. (1924). [Icarus, or the future of science](http://bactra.org/Icarus.html).
+### Limits to growth
+
 -   [*The Limits to Growth* (1972)](https://en.wikipedia.org/wiki/The_Limits_to_Growth)
--   Anthropic bias [^Bostrom2002]
--   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
--   Existential threats
-    -   Climate change
-    -   WMDs
-    -   ...
--   Fermi problem
-    -   Wong, M.L. & Bartlett, S. (2022). [Asymptotic burnout and homeostatic awakening: A possible solution to the Fermi paradox?](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0029) [^Wong2022]
 
 See also:
 
 -   [Ecology](ethics.html#ecology) in the [Outline on Ethics](ethics.html).
+
+
+### Existential threats
+
+-   Bostrom, N. (2013). [Existential risk prevention as global priority](https://www.existential-risk.org/concept.pdf). [^Bostrom2013]
+-   Climate change
+-   WMDs
+-   ...
+-   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
+
+[^Bostrom2013]: @Bostrom_2013_Existential_risk_prevention_as_global_priority\.
+
+
+### Fermi paradox
+
+-   [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
+    -   Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. [^Bostrom2002]
+    -   Wong, M.L. & Bartlett, S. (2022). [Asymptotic burnout and homeostatic awakening: A possible solution to the Fermi paradox?](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0029) [^Wong2022]
 
 [^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
 [^Wong2022]: @Wong_2022_Asymptotic_burnout_and_homeostatic_awakening\.
@@ -39,38 +50,49 @@ See also:
 Technological growth
 --------------------------------------------------------------------------------
 
--   Feynman: There's plenty of room at the bottom.
--   The Coming Technological Singularity [^Vinge1993]
--   Simulation argument [^Bostrom2003] and patch [^Bostrom2011]
--   [Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
--   Urban, T. (2015). [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html). [^WaitButWhy2015]
+### Future of computing
+
+-   Feynman, R.P. (1959). [There's plenty of room at the bottom](https://calteches.library.caltech.edu/1976/1/1960Bottom.pdf). [^Feynman1959]
+-   Vinge, V. (1993). [The coming technological singularity](https://edoras.sdsu.edu/~vinge/misc/singularity.html). [^Vinge1993]
 -   Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. [^Bostrom2014]
+-   Armstrong, S., Sotala, K., & OhEigeartaigh, S. S. (2014). [The errors, insights and lessons of famous AI predictions--and what they mean for the future](https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf). [^Armstrong2014]
+-   Urban, T. (2015). [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html). [^WaitButWhy2015]
 
 See also:
 
 -   [Industrial Revolution](human-condition.html#industrial-revolution)
     in the [Outline on the human condition](human-condition.html).
 
+[^Armstrong2014]: @Armstrong_2014_The_errors_insights_and_lessons_of_famous_AI\.
+[^Feynman1959]: @Feynman_1959_Theres_plenty_of_room_at_the_bottom\.
+[^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
+[^Vinge1993]: @Vinge_1993_The_coming_technological_singularity\.
+[^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
+
+
+### Future of the internet
+
+-   Clegg, N. (2022). [Making the metaverse: What it is, how it will be built, and why it matters](https://nickclegg.medium.com/making-the-metaverse-what-it-is-how-it-will-be-built-and-why-it-matters-3710f7570b04).
+
+
+### Simulation argument
+
+-   Simulation argument [^Bostrom2003] and patch [^Bostrom2011]
+-   [Simulation hypothesis](https://en.wikipedia.org/wiki/Simulation_hypothesis)
+
 [^Bostrom2003]: @Bostrom_2003_Are_you_living_in_a_computer_simulation\.
 [^Bostrom2011]: @Bostrom_2011_A_patch_for_the_simulation_argument\.
-[^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
-[^Vinge1993]: @Vinge_1993_The_Coming_Technological_Singularity\.
-[^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
 
 
 Artificial intelligence
 --------------------------------------------------------------------------------
 
+### Outlook
+
 -   Feynman, R. (1985). Talk: [Can Machines Think?](https://www.youtube.com/watch?v=ipRvjS7q1DI)
 -   Russell & Norvig [^Russell1995]
 -   Video: Carroll, S. & Russell, S. (2020). [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
     -   Russell: AI gives us the Midas touch
--   Jeremy Howard warning about the abilities of models like GPT-2:  
-
->   We have the technology to totally fill Twitter, email, and the web up with reasonable-sounding,
->   context-appropriate prose, which would drown out all other speech and be impossible to filter. [^Vincent2019]
-
--   Armstrong, S., Sotala, K., & OhEigeartaigh, S. S. (2014). [The errors, insights and lessons of famous AI predictions--and what they mean for the future](https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf). [^Armstrong2014]
 -   Gwern. (2020). [The scaling hypothesis](https://www.gwern.net/Scaling-hypothesis#scaling-hypothesis).
 -   Zhang, D. et al. (2021). [The AI Index 2021 Annual Report](https://arxiv.org/abs/2103.06312). [^Zhang2021]
 -   Zhang, D. et al. (2022). [The AI Index 2022 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf). [^Zhang2022]
@@ -82,19 +104,28 @@ See also:
     in the [Outline on the philosophy of statistics](statistics.html).
 -   [Artificial intelligence and mind](mind.html#artificial-intelligence-and-mind)
 
-[^Armstrong2014]: @Armstrong_2014_The_errors_insights_and_lessons_of_famous_AI\.
-[^Vincent2019]: @Vincent_2019_OpenAIs_new_multitalented_AI_writes_translates\.
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 [^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.
 [^Zhang2022]: @Zhang_2022_The_AI_Index_2022_Annual_Report\.
+
+
+### Risks
+
+-   Jeremy Howard warning about the abilities of models like GPT-2:  
+
+>   We have the technology to totally fill Twitter, email, and the web up with reasonable-sounding,
+>   context-appropriate prose, which would drown out all other speech and be impossible to filter. [^Vincent2019]
+
+[^Vincent2019]: @Vincent_2019_OpenAIs_new_multitalented_AI_writes_translates\.
 
 
 Transhumanism
 --------------------------------------------------------------------------------
 
 -   Haldane, J.B.S. (1924). [Daedalus; or, Science and the Future](http://bactra.org/Daedalus.html).
+-   Russell, B. (1924). [Icarus, or the future of science](http://bactra.org/Icarus.html).
 -   Huxley, Julian (1957). [Transhumanism](https://web.archive.org/web/20160625132722/http://www.transhumanism.org/index.php/WTA/more/huxley).
--   The fable of the dragon-tyrant [^Bostrom2005]
+-   Bostrom, N. (2005). The fable of the dragon-tyrant. [^Bostrom2005]
 
 [^Bostrom2005]: @Bostrom_2005_The_fable_of_the_dragon_tyrant\.
 
