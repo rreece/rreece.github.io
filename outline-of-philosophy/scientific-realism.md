@@ -756,6 +756,14 @@ Wittgenstein studied with, was influenced by, and influenced:
     of realism. 
 -   "Some Remarks on Logical Form" (1929) [^Wittgenstein1929]
 
+Wittgenstein explaining the point of the *Tractatus* in a letter to Russell:
+
+>   The main point is the theory of what can be expressed (*gesagt*) by
+>   propositions---i.e. by language (and, which comes to the same thing,
+>   what can be *thought*) and what can not be expressed by propositions,
+>   but only shown (*gezeigt*); which, I believe, is the cardinal problem
+>   of philosophy. [^Anscombe1959p161]
+
 Wittgenstein's scientific attitude summarized in the Vienna Circle
 manifesto:
 
@@ -763,6 +771,7 @@ manifesto:
 
 Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
+[^Anscombe1959p161]: @Anscombe_1959_An_Introduction_to_Wittgensteins_Tractatus\, p. 161.
 [^Hahn1973pX]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, p. X.
 [^Reck2009]: @Reck_1997_Freges_influence_on_Wittgenstein_Reversing\.
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\. <https://iep.utm.edu/wittgens/>
@@ -1239,6 +1248,7 @@ See also:
     -   "Obsession with this image of something deeply hidden" [^Rorty1993p347]
 -   Cavell
     -   *Must We Mean What We Say?* (1969) [^Cavell2015]
+-   Video: Sugrue, M. (1992). [The Latter Wittgenstein: The Philosophy of Language](https://www.youtube.com/watch?v=X7Rb56kZQSk).
 
 Wittgenstein in *PI*:
 

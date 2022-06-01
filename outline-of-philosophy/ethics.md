@@ -22,6 +22,7 @@ Virtue ethics
 -   See the discussion of [Stoicism](http://rreece.github.io/outline-of-philosophy/human-condition.html#stoicism).
 -   Aristotle
 -   Stoicism
+-   G.E.M. Anscombe (1919-2001)
 -   Philippa Foot (1920-2010)
 
 
@@ -82,6 +83,7 @@ Consequentialism
 -   Epicurus
 -   Bentham
 -   Mill
+-   G.E.M. Anscombe (1919-2001)
 -   Game theory
 -   [Von Neumann-Morgenstern utility theorem](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem)
 -   Binmore

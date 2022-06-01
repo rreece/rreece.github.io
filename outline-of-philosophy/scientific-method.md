@@ -1488,6 +1488,11 @@ Ichikawa & Jenkins:
 
 -   Fallibility
 
+Sophocles:
+
+>   One must learn by doing the thing; though you think you know it,
+>   you have no certainty until you try.
+
 Feynman:
 
 >   All scientific knowledge is uncertain...

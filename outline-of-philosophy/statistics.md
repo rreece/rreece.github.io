@@ -3,7 +3,12 @@ Philosophy of statistics
 
 \newcommand*{\trans}{^{\mathsf{T}}}
 
-Statistics are *way* important in addressing the problem of induction.
+Statistical analysis is very important in addressing the problem of induction.
+Can inductive inference be formalized?
+What are the caveats?
+Can inductive inference be automated?
+How does machine learning work?
+
 
 <!-- PAGETOC -->
 
@@ -1806,7 +1811,7 @@ More:
 -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
 -   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
     -   Monte Carlo Counterfactual Regret Minimization (MCCFR)
--   Neller, T.W. & Lanctot, M. (2013). An introduction to counterfactual regret minimization. [^Neller2013]
+-   Neller, T.W. & Lanctot, M. (2013). [An introduction to counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf). [^Neller2013]
 -   Czarnog&oacute;rski, K. (2018). [Counterfactual Regret Minimization - the core of poker AI beating professional players](https://int8.io/counterfactual-regret-minimization-for-poker-ai/).
 
 [^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
@@ -2295,6 +2300,7 @@ Click to show links
 
 ### Scholarpedia
 
+-   [Algorithmic information theory](http://www.scholarpedia.org/article/Algorithmic_information_theory)
 -   [Algorithmic probability](http://www.scholarpedia.org/article/Algorithmic_probability)
 -   [Universal search](http://www.scholarpedia.org/article/Universal_search)
 

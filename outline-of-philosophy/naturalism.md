@@ -596,9 +596,6 @@ Rejection of the supernatural
     -   Rejection of supernatural, magic, and paranormal.
     -   Blackmore, S.J. (1996). Near-death experiences. [^Blackmore1996]
     -   Blackmore, S.J. (1997). Probability misjudgment and belief in the paranormal: A newspaper survey. [^Blackmore1997]
--   The Lewis-Anscombe debate
-    -   [The Lewis-Anscombe debate](http://thecslewis-studygroup.org/the-c-s-lewis-study-group/lewis-genre/theology/miracles-2/the-lewisanscombe-debate/)
-    -   The rewrite of chapter 3 in *Miracles* [^Lewis1947]
 
 Jenkins says naturalism is
 
@@ -612,12 +609,14 @@ See also:
 [^Blackmore1996]: @Blackmore_1996_Near_death_experiences\.
 [^Blackmore1997]: @Blackmore_1997_Probability_misjudgment_and_belief\.
 [^Jenkins2014]: @Jenkins_2014_Naturalism_and_norms_of_inference\.
-[^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.
 
 
 ### Miracles
 
 -   Hume - "Of Miracles"
+-   The Lewis-Anscombe debate
+    -   [The Lewis-Anscombe debate](http://thecslewis-studygroup.org/the-c-s-lewis-study-group/lewis-genre/theology/miracles-2/the-lewisanscombe-debate/)
+    -   The rewrite of chapter 3 in *Miracles* [^Lewis1947]
 -   Scott Aaronson. (2001). [Letter to James Randi](https://www.scottaaronson.com/writings/randi.html). [^Randi2001]
     -   *The Low Kolmogorov Complexity (LKC) Principle*: Under any reasonable encoding, the universe has low Kolmogorov complexity.
 
@@ -625,6 +624,7 @@ See also:
 
 -   [Atheism](human-condition.html#atheism).
 
+[^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.
 [^Randi2001]: @Aaronson_2001_Letter_to_James_Randi\.
 
 
@@ -748,18 +748,24 @@ Criticisms of naturalism
     -   Of course science (scientia) is the domain of all knowledge if the tent is large enough.
     -   TODO: Perhaps this line can be found in the work of Pigliucci?
 -   Epistemic pessimism
-    -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/). *The Atlantic*. [^Gefter2016]
+    -   TODO
 -   Decolonising science
     -   Descoping the success/objectivity of science
     -   Prescod-Weinstein, C. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
     -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific). *American Scientist*. [^PrescodWeinstein2017]
     -   Roy, R.D. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
+    -   Poskett, J. (2022). *Horizons: The Global Origins of Modern Science*. Mariner Books. [^Poskett2022]
+    -   Dunn, W. (2022). [The myth of the white male scientific genius---and why its time is up](https://www.newstatesman.com/culture/books/book-of-the-day/2022/05/horizons-global-history-science-james-poskett-review).
+    -   Ca&ntilde;izares-Esguerra, J. (2022). [Rethinking the "Western" revolution in science](https://www.science.org/doi/full/10.1126/science.abo5229). [^CanizaresEsguerra2022]
 -   Decolonising philosophy
+    -   Garfield, J.L. & Van Norden, B.W. (2016). [If philosophy won't diversify, let's call it what it really is](https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html). [^Garfield2016a]
     -   Alpert, A. (2020). [Philosophy's systemic racism](https://aeon.co/essays/racism-is-baked-into-the-structure-of-dialectical-philosophy).
 -   Science takes faith
     -   Davies, P. (2007). [Taking science on faith](https://www.nytimes.com/2007/11/24/opinion/24davies.html). *New York Times Opinion*.
 
-[^Gefter2016]: @Gefter_2016_The_case_against_reality\.
+[^CanizaresEsguerra2022]: @Canizares_Esguerra_2022_Rethinking_the_Western_revolution_in_science\.
+[^Garfield2016a]: @Garfield_2016_If_philosophy_wont_diversify_lets_call_it_what\.
+[^Poskett2022]: @Poskett_2022_Horizons_The_Global_Origins_of_Modern_Science\.
 [^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_must_challenge_what_makes_studies\.
 
 
@@ -788,6 +794,7 @@ Criticisms of naturalism
     -   Pluckrose, H., Lindsay, J.A., & Boghossian, P. (2018). [Academic grievance studies and the corruption of scholarship](https://areomagazine.com/2018/10/02/academic-grievance-studies-and-the-corruption-of-scholarship/). *Areo*.
     -   [Grievance studies hoax](https://rationalwiki.org/wiki/Grievance_studies_hoax) - rationalwiki.org
 -   Criticism of diversity and inclusion efforts
+    -   Tampio, N. (2016). [Not all things wise and good are philosophy](https://aeon.co/ideas/not-all-things-wise-and-good-are-philosophy).
     -   Damore, J. (2017). [Google’s ideological echo chamber](https://s3.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf).
     -   Lewis, P. (2017). ['I see things differently': James Damore on his autism and the Google memo](https://www.theguardian.com/technology/2017/nov/16/james-damore-google-memo-interview-autism-regrets).
     -   Peterson, J. (2022). [Why I am no longer a tenured professor at the University of Toronto](https://nationalpost.com/opinion/jordan-peterson-why-i-am-no-longer-a-tenured-professor-at-the-university-of-toronto).

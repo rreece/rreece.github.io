@@ -31,6 +31,7 @@ See also:
 -   Bostrom, N. (2013). [Existential risk prevention as global priority](https://www.existential-risk.org/concept.pdf). [^Bostrom2013]
 -   Climate change
 -   WMDs
+-   Pandemics
 -   ...
 -   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
 
@@ -40,8 +41,8 @@ See also:
 ### Fermi paradox
 
 -   [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
-    -   Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. [^Bostrom2002]
-    -   Wong, M.L. & Bartlett, S. (2022). [Asymptotic burnout and homeostatic awakening: A possible solution to the Fermi paradox?](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0029) [^Wong2022]
+-   Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. [^Bostrom2002]
+-   Wong, M.L. & Bartlett, S. (2022). [Asymptotic burnout and homeostatic awakening: A possible solution to the Fermi paradox?](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0029) [^Wong2022]
 
 [^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
 [^Wong2022]: @Wong_2022_Asymptotic_burnout_and_homeostatic_awakening\.

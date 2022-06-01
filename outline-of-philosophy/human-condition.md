@@ -1008,7 +1008,7 @@ Online Suttas:
 -   [Richard Davidson](https://en.wikipedia.org/wiki/Richard_Davidson) (b. 1951)
 -   [Jay L. Garfield](https://jaygarfield.org/in-press/) (b. 1955)
     -   Translator of N&amacr;g&amacr;rjuna's *Fundamental Verses on the Middle Way* [^Nagarjuna1995Garfield]
-    -   Garfield, J.L. & Van Norden, B.W. (2016). [If philosophy won't diversify, let's call it what it really is](https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html). *New York Times Opinion*.
+    -   Garfield, J.L. & Van Norden, B.W. (2016). [If philosophy won't diversify, let's call it what it really is](https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html). [^Garfield2016b]
 
 #### Doctrines
 
@@ -1028,6 +1028,7 @@ Online Suttas:
 >   5. Don't control
 >   6. Rest
 
+[^Garfield2016b]: @Garfield_2016_If_philosophy_wont_diversify_lets_call_it_what\.
 [^Nagarjuna1995Garfield]: @Nagarjuna_1995_The_Fundamental_Wisdom_of_the_Middle_Way\.
 
 
@@ -1680,7 +1681,7 @@ Comparitive studies
     -   McEvilley also notes a story recorded by Eusebius quoting Aristoxenus
         that [Socrates was visited in Athens by an Indian yogi](https://varnam.org/2012/11/the-yogi-who-met-socrates/).
     -   TODO: Hegesias of Cyrene
--    [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
+-   [Greco-Buddhism](https://en.wikipedia.org/wiki/Greco-Buddhism)
     -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
 
 [^McEvilley2002]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\.

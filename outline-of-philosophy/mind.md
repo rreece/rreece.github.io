@@ -17,7 +17,9 @@ sunt in culpa qui officia deserunt mollit anim id est laborum.
 Consciousness
 --------------------------------------------------------------------------------
 
--   Sentience
+### Introduction
+
+-   Consciousness, sentience, self-awareness, sapience
 -   Phenomenal vs access consciousness
 -   Embodiment
 -   Subconscious
@@ -37,6 +39,16 @@ Consciousness
 [^Dennett1991b]: @Dennett_1991_Consciousness_Explained\.
 [^Mach1914]: @Mach_1914_The_Analysis_of_Sensations_and_the_Relation\.
 [^Nagel1974]: @Nagel_1974_What_is_it_like_to_be_a_bat\.
+
+
+### Perception
+
+-   Is perception veridical?
+-   Mark, J.T., Marion, B.B, & Hoffman, D.D. (2010). [Natural selection and veridical perceptions](http://cogsci.uci.edu/~ddhoff/PerceptualEvolution.pdf). [^Mark2010]
+-   Gefter, A. & Hoffman, D.D. (2016). [The case against reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/). *The Atlantic*. [^Gefter2016]
+
+[^Gefter2016]: @Gefter_2016_The_case_against_reality\.
+[^Mark2010]: @Mark_2010_Natural_selection_and_veridical_perceptions\.
 
 
 Dualism
