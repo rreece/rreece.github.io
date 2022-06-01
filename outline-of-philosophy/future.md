@@ -126,7 +126,7 @@ Transhumanism
 -   Haldane, J.B.S. (1924). [Daedalus; or, Science and the Future](http://bactra.org/Daedalus.html).
 -   Russell, B. (1924). [Icarus, or the future of science](http://bactra.org/Icarus.html).
 -   Huxley, Julian (1957). [Transhumanism](https://web.archive.org/web/20160625132722/http://www.transhumanism.org/index.php/WTA/more/huxley).
--   Bostrom, N. (2005). The fable of the dragon-tyrant. [^Bostrom2005]
+-   Bostrom, N. (2005). [The fable of the dragon-tyrant](https://www.nickbostrom.com/fable/dragon.html). [^Bostrom2005]
 
 [^Bostrom2005]: @Bostrom_2005_The_fable_of_the_dragon_tyrant\.
 
