@@ -91,6 +91,7 @@ TODO
     -   Geometry and coordinates
 -   Isaac Newton (1642-1726/7)
 -   Gottfried Wilhelm Leibniz (1646-1716)
+-   Jacob Bernoulli (1655-1705)
 -   Leonhard Euler (1707-1783)
 -   [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) (1749-1827)
 -   Carl Friedrich Gauss (1777-1855)

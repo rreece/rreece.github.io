@@ -759,7 +759,9 @@ Criticisms of naturalism
     -   Ca&ntilde;izares-Esguerra, J. (2022). [Rethinking the "Western" revolution in science](https://www.science.org/doi/full/10.1126/science.abo5229). [^CanizaresEsguerra2022]
 -   Decolonising philosophy
     -   Garfield, J.L. & Van Norden, B.W. (2016). [If philosophy won't diversify, let's call it what it really is](https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html). [^Garfield2016a]
+    -   Van Norden, B.W. (2017). *Taking Back Philosophy: A Multicultural Manifesto*. [^VanNorden2017]
     -   Alpert, A. (2020). [Philosophy's systemic racism](https://aeon.co/essays/racism-is-baked-into-the-structure-of-dialectical-philosophy).
+    -   Guerrero, A. (2022). [To be a department of philosophy](https://dailynous.com/2022/05/31/to-be-a-department-of-philosophy-guest-post/).
 -   Science takes faith
     -   Davies, P. (2007). [Taking science on faith](https://www.nytimes.com/2007/11/24/opinion/24davies.html). *New York Times Opinion*.
 
@@ -767,6 +769,7 @@ Criticisms of naturalism
 [^Garfield2016a]: @Garfield_2016_If_philosophy_wont_diversify_lets_call_it_what\.
 [^Poskett2022]: @Poskett_2022_Horizons_The_Global_Origins_of_Modern_Science\.
 [^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_must_challenge_what_makes_studies\.
+[^VanNorden2017]: @VanNorden_2017_Taking_Back_Philosophy_A_Multicultural_Manifesto\.
 
 
 ### Rebutals
@@ -797,6 +800,7 @@ Criticisms of naturalism
     -   Tampio, N. (2016). [Not all things wise and good are philosophy](https://aeon.co/ideas/not-all-things-wise-and-good-are-philosophy).
     -   Damore, J. (2017). [Google’s ideological echo chamber](https://s3.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf).
     -   Lewis, P. (2017). ['I see things differently': James Damore on his autism and the Google memo](https://www.theguardian.com/technology/2017/nov/16/james-damore-google-memo-interview-autism-regrets).
+    -   Gross, D.A. (2021). [Peter Singer is committed to controversial ideas](https://www.newyorker.com/culture/the-new-yorker-interview/peter-singer-is-committed-to-controversial-ideas). *The New Yorker*.
     -   Peterson, J. (2022). [Why I am no longer a tenured professor at the University of Toronto](https://nationalpost.com/opinion/jordan-peterson-why-i-am-no-longer-a-tenured-professor-at-the-university-of-toronto).
 -   Anti-dogma
     -   Harris, S. (2007). [Response to Paul C. Davies](https://samharris.org/response-to-paul-c-davies/).
@@ -902,8 +906,6 @@ Dang & Bright:
     -   Jacobson, D. et al. (2021). [Open letter concerning academic freedom](https://sites.google.com/view/open-letter-stock-freedom/).
     -   Stock, K. (2021). [The sinister attempts to silence gender critical academics](https://www.spectator.co.uk/article/the-sinister-attempts-to-silence-gender-critical-academics).
     -   Stock, K. (2021). [I refuse to be bullied into silence](https://www.dailymail.co.uk/news/article-9155659/I-refuse-bullied-silence-PROFESSOR-KATHLEEN-STOCK.html).
--   Diversity in philosophy
-    -   Gross, D.A. (2021). [Peter Singer is committed to controversial ideas](https://www.newyorker.com/culture/the-new-yorker-interview/peter-singer-is-committed-to-controversial-ideas). *The New Yorker*. April 25, 2021.
 -   Intellectual Dark Web (IDW)
     -   Weiss, B. (2018). [Meet the Renegades of the Intellectual Dark Web](https://web.archive.org/web/20200131000213/https://www.nytimes.com/2018/05/08/opinion/intellectual-dark-web.html). *The New York Times*.
     -   Kanelos, P. (2021). [We can't wait for universities to fix themselves. So we're starting a new one.](https://bariweiss.substack.com/p/we-cant-wait-for-universities-to) (Announcement of [The University of Austin](https://www.uaustin.org/).)

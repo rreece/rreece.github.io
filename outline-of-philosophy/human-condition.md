@@ -1127,7 +1127,7 @@ Gua 11:
 
 See also:
 
--   Discussion of Leibnitz's studies of Yijing in [Eastern and modern western philosophy](human-condition.html#eastern-and-modern-western-philosophy).
+-   Discussion of Leibnitz's studies of Yijing in [Eastern and modern western philosophy](human-condition.html#eastern-and-modern-western-philosophy)
 
 [^Marshall2001]: @Marshall_2001_The_Mandate_of_Heaven_Hidden_History_in_the_Book\.
 [^Rutt2002]: @Rutt_2002_The_Book_of_Changes_Zhouyi\.
@@ -1493,8 +1493,8 @@ Other stuff:
 
 See also:
 
--   [Buddhism and Stoicism](#buddhism-and-stoicism) in the section on [Comparitive studies](#comparitive-studies).
--   [Cognitive behavioral therapy](#cognitive-behavioral-therapy) in the section on [psychology](#psychology).
+-   [Buddhism and Stoicism](#buddhism-and-stoicism) in the section on [Comparitive studies](#comparitive-studies)
+-   [Cognitive behavioral therapy](#cognitive-behavioral-therapy) in the section on [psychology](#psychology)
 
 
 ### Related movements
@@ -1913,7 +1913,7 @@ TODO:
 
 See also:
 
--   [Regret](ethics.html#regret) in the [Outline on Ethics](ethics.html).
+-   [Regret](ethics.html#regret) in the [Outline on Ethics](ethics.html)
 
 [^Andrews2009]: @Andrews_2009_The_bright_side_of_being_blue_Depression_as\.
 
