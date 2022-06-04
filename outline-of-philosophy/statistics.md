@@ -1680,6 +1680,7 @@ Resources:
     -   Olah, C. (2015). [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
     -   Karpathy, A. (2015). [The unreasonable effectiveness of recurrent neural networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/).
 -   Backpropagation through time (BPTT)
+    -   Werbos, P.J. (1990). [Backpropagation through time: what it does and how to do it](http://www.werbos.com/Neural/BTT.pdf). [^Werbos1990]
 -   Neural Machine Translation (NMT)
     -   Sutskever seq2seq [^Sutskever2014]
     -   Bahdanau attention [^Bahdanau2015] and GNMT [^Wu2016]
@@ -1688,6 +1689,9 @@ Resources:
     -   Rationalism and empiricism in artificial intellegence:
         A survey of 25 years of evaluation [in NLP]. [^Church2019]
     -   Kaplan, J. et al. (2020). [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361). [^Kaplan2020]
+
+![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/chapter_attention-mechanisms/transformer.html)).](img/transformer.png){#fig:transformer .tallimg}
+
 -   Attention and Transformers
     -   Transformer [^Vaswani2017]
     -   BERT [^Devlin2018]
@@ -1736,6 +1740,7 @@ See also:
 [^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
 [^Tay2022]: @Tay_2022_Efficient_transformers_A_survey\.
 [^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.
+[^Werbos1990]: @Werbos_1990_Backpropagation_through_time_what_it_does_and_how\.
 [^Wu2016]: @Wu_2016_Googles_neural_machine_translation_system\.
 [^Yang2019]: @Yang_2019_XLNet_Generalized_autoregressive_pretraining\.
 [^Zaheer2020]: @Zaheer_2020_Big_Bird_Transformers_for_longer_sequences\.

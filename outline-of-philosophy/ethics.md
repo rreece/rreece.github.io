@@ -345,21 +345,6 @@ See also:
 [^Harris2010]: @Harris_2010_The_Moral_Landscape_How_science_can_determine\.
 
 
-### Economics
-
--   [Harry Markowitz](https://en.wikipedia.org/wiki/Harry_Markowitz) (b. 1927)
-    -   [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
-    -   [Markowitz model](https://en.wikipedia.org/wiki/Markowitz_model)
-    -   Markowitz, H.M. (1952). Portfolio selection. [^Markowitz1952]
--   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
-    -   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
--   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
--   Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. [^Ross2005]
-
-[^Markowitz1952]: @Markowitz_1952_Portfolio_selection\.
-[^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
-
-
 ### Naturalistic fallacy
 
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
@@ -449,6 +434,23 @@ Shields:
 
 [^Hayek1945]: @Hayek_1945_The_use_of_knowledge_in_society\.
 [^Shields2020]: Shields, M. (2020). [The last night of Mark Shields on the PBS News Hour](https://www.youtube.com/watch?v=a1MKG_3jC9g&ab_channel=PBSNewsHour).
+
+
+### Economics
+
+-   [Harry Markowitz](https://en.wikipedia.org/wiki/Harry_Markowitz) (b. 1927)
+    -   [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
+    -   [Markowitz model](https://en.wikipedia.org/wiki/Markowitz_model)
+    -   Markowitz, H.M. (1952). Portfolio selection. [^Markowitz1952]
+-   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
+    -   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+    -   Fama, E. (1970). [Efficient capital markets: A review of theory and empirical work](http://www.e-m-h.org/Fama70.pdf). [^Fama1970]
+-   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
+-   Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. [^Ross2005]
+
+[^Fama1970]: @Fama_1970_Efficient_capital_markets_A_review_of_theory\.
+[^Markowitz1952]: @Markowitz_1952_Portfolio_selection\.
+[^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
 
 
 Free speech 

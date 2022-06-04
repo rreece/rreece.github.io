@@ -6,6 +6,7 @@ Baez, J.C. & Dolan, J. (1995). Higher‐dimensional algebra and topological quan
 Baez, J.C. & Stay, M. (2009). Physics, topology, logic, and computation: A Rosetta Stone. https://arxiv.org/abs/0903.0340
 Bayes, T. (1736). *An Introduction to the Doctrine of Fluxions, and a Defence of the Mathematicians Against the Objections of the Author of The Analyst*. London. [(published anonymously)]
 Bonevac, D. (2003). *Deduction: Introductory to Symbolic Logic* (2nd ed.). Blackwell.
+Bradley, T.D. (2018). What is applied category theory? https://arxiv.org/abs/1809.05923
 Brouwer, L.E.J. (1908). Unreliability of the logical principles. https://arxiv.org/abs/1511.01113
 Bueno, O. (2013). Nominalism in the philosophy of mathematics. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/nominalism-mathematics/
 Burgess, J.P. (1983). Why I am not a nominalist. *Notre Dame Journal of Formal Logic*, 24(1), 93--105.

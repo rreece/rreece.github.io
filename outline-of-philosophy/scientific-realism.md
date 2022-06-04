@@ -1060,6 +1060,7 @@ Postmodernism
 -   Jean Baudrillard (1929-2007)
 -   Jacques Derrida (1930-2004)
 -   Richard Rorty (1931-2007)
+-   [Strong programme](https://en.wikipedia.org/wiki/Strong_programme)
 
 
 ### Discussion

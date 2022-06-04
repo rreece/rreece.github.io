@@ -246,6 +246,7 @@ Wasserstein, R.L., Allen, L.S., & Lazar, N.A. (2019). Moving to a World Beyond "
 Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. *SSRN*, 3509737. https://ssrn.com/abstract=3509737
 Weintraub, R. (1995). What was Hume's contribution to the problem of induction? *The Philosophical Quarterly*, 45, 460--470.
 Weisberg, J. (2019). *Odds & Ends: Introducing Probability & Decision with a Visual Emphasis*. https://jonathanweisberg.org/vip/
+Werbos, P.J. (1990). Backpropagation through time: what it does and how to do it. *Proceedings of the IEEE*, 78(10), 1550--1560. http://www.werbos.com/Neural/BTT.pdf
 Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62. https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-9/issue-1/The-Large-Sample-Distribution-of-the-Likelihood-Ratio-for-Testing/10.1214/aoms/1177732360.full
 Williamson, J. (2009). The philosophy of science and its relation to machine learning. In *Scientific Data Mining and Knowledge Discovery* (pp. 77-89). Springer, Berlin, Heidelberg.
 Wolpert, D.H. (1996). The lack of a priori distinctions between learning algorithms. *Neural Computation*, 8, 1341--1390.

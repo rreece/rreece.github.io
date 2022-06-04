@@ -599,6 +599,7 @@ Category theory
     -   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
     -   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013b]
     -   Fong, B. & Spivak, D.I. (2018). [Seven sketches in compositionality: An invitation to applied category theory](https://arxiv.org/abs/1803.05316). [^Fong2018]
+    -   Bradley, T.D. (2018). [What is applied category theory?](https://arxiv.org/abs/1809.05923) [^Bradley2018]
 -   Relation to set theory
 -   Relation to Russell type theory
 -   Univalent foundations
@@ -608,6 +609,7 @@ See also:
 
 -   [Univalent foundations](math.html#univalent-foundations)
 
+[^Bradley2018]: @Bradley_2018_What_is_applied_category_theory\.
 [^Fong2018]: @Fong_2018_Seven_sketches_in_compositionality_An_invitation\.
 [^Spivak2013b]: @Spivak_2013_Category_theory_for_scientists\.
 
