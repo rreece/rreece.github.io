@@ -1408,6 +1408,7 @@ See also:
     -   See also:
         -   [Algorithmic information theory](#algorithmic-information-theory)
         -   [Constructive empiricism](scientific-realism.html#constructive-empiricism)
+-   Ronen, M., Finder, S.E., & Freifeld, O. (2022). [DeepDPM: Deep clustering with an unknown number of clusters](https://arxiv.org/abs/2203.14309). [^Ronen2022]
 
 See also:
 
@@ -1416,6 +1417,7 @@ See also:
 
 [^Batson2021]: @Batson_2021_Topological_obstructions_to_autoencoding\.
 [^Hennig2015a]: @Hennig_2015_What_are_the_true_clusters\.
+[^Ronen2022]: @Ronen_2022_DeepDPM_Deep_clustering_with_an_unknown_number\.
 [^Slonim2005]: @Slonim_2005_Information_based_clustering\.
 
 
@@ -1711,10 +1713,11 @@ Resources:
     -   Lakshmanamoorthy, R. (2020). [A complete learning path to transformers (with guide to 23 architectures)](https://analyticsindiamag.com/a-complete-learning-path-to-transformers/).
     -   Zaheer, M. et al. (2020). [Big Bird: Transformers for longer sequences](https://arxiv.org/abs/2007.14062). [^Zaheer2020]
     -   Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). [Efficient transformers: A survey](https://arxiv.org/abs/2009.06732). [^Tay2022]
--   Textbooks
-    -   Jurafsky, D. & Martin, J.H. (2022). [*Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition*](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf). [^Jurafsky2022]
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
+
+-   Textbooks
+    -   Jurafsky, D. & Martin, J.H. (2022). [*Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition*](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf). [^Jurafsky2022]
 
 See also:
 
@@ -1813,12 +1816,14 @@ More:
 -   CFR differs from traditional RL algorithms in that it does not try to
     maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games
     ([source: Quora](https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization)).
+-   Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. [^Hart2000]
 -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
 -   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
     -   Monte Carlo Counterfactual Regret Minimization (MCCFR)
 -   Neller, T.W. & Lanctot, M. (2013). [An introduction to counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf). [^Neller2013]
 -   Czarnog&oacute;rski, K. (2018). [Counterfactual Regret Minimization - the core of poker AI beating professional players](https://int8.io/counterfactual-regret-minimization-for-poker-ai/).
 
+[^Hart2000]: @Hart_2000_A_simple_adaptive_procedure_leading_to_correlated\.
 [^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
 [^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.
 [^Neller2013]: @Neller_2013_An_introduction_to_counterfactual_regret\.
@@ -1838,7 +1843,6 @@ More:
         -   MCCFR used to find a solution of the abstracted game: blueprint
     -   Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. [^Brown2019SIIG]
     -   Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). Deep counterfactual regret minimization. [^Brown2019DCRM]
-    -   Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. [^Hart2000]
 -   Pluribus
     -   Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. [^Brown2019Pluribus]
     -   Brown, N. (2019). [Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/).
@@ -1856,7 +1860,6 @@ More:
 [^Bowling2015a]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 [^Brown2020]: @Brown_2020_Combining_deep_reinforcement_learning_and_search\.
 [^Brown2020thesis]: @Brown_2020_Equilibrium_finding_for_large_adversarial\.
-[^Hart2000]: @Hart_2000_A_simple_adaptive_procedure_leading_to_correlated\.
 [^Heinrich2016]: @Heinrich_2016_Deep_reinforcement_learning_from_self_play\.
 [^Moravcik2017]: @Moravcik_2017_DeepStack_Expert_level_artificial_intelligence\.
 
