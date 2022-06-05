@@ -131,6 +131,7 @@ Haag, R. (1955). On quantum field theories. *Matematisk-fysiske Meddelelser*, 29
 Haag, R., \L{}opusza\'{n}ski, J. T., & Sohnius, M. (1975). All possible generators of supersymmetries of the S-matrix. *Nuclear Physics B*, 88(2), 257--274.
 Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. Springer.
 Hall, D., & Wightman, A. S. (1957). A theorem on invariant analytic functions with applications to relativistic quantum field theory. I kommission hos Munksgaard.
+Hamamatsu. (2007). *Photomultiplier Tubes: Basics and Applications* (3rd ed.). Hamamatsu Photonics. https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/etd/PMT_handbook_v3aE.pdf
 Harrigan, N., & Spekkens, R.W. (2010). Einstein, incompleteness, and the epistemic view of quantum states. *Foundations of Physics*, 40(2), 125--157. https://arxiv.org/abs/0706.2661
 Healey, R. (2007). *Gauging What's Real*. Oxford University Press.
 Higgs, P.W. (1964). Broken symmetries, massless particles and gauge fields. *Physics Letters*, 13, 508--509. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.508

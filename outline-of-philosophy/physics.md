@@ -1419,6 +1419,13 @@ More:
 -   Nima Arkani-Hamed on [Collider Physics from the Bottom Up](https://www.youtube.com/watch?v=uG8VJb3jRzU)
 
 
+### Experimental methods
+
+-   Hamamatsu. (2007). [*Photomultiplier Tubes: Basics and Applications*](https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/etd/PMT_handbook_v3aE.pdf). [^Hamamatsu2007]
+
+[^Hamamatsu2007]: @Hamamatsu_2007_Photomultiplier_Tubes_Basics_and_Applications\.
+
+
 Beyond the standard model
 --------------------------------------------------------------------------------
 
