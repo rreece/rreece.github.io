@@ -547,11 +547,16 @@ Ladyman & Ross:
 >   motivated interest in tracking them would sort them into types for book-keeping
 >   purposes. [^Ladyman2007p5]
 
+-   Bird, A., & Tobin, E. (2015). [Natural kinds](http://plato.stanford.edu/entries/natural-kinds/). *SEP*. [^Bird2015]
+-   Bird, A. (2018). [The metaphysics of natural kinds](https://d1wqtxts1xzle7.cloudfront.net/38555439/Metaphysics_Natural_Kinds_final-libre.pdf). [^Bird2018]
+
 See also:
 
 -   [Outline on scientific realism](scientific-realism.html)
 -   [Outline on philosophy of mathematics](math.html#naturalism)
 
+[^Bird2015]: @Bird_2015_Natural_kinds\.
+[^Bird2018]: @Bird_2018_The_metaphysics_of_natural_kinds\.
 [^Ladyman2007p5]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 5.
 [^Quine1969p26]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 26--68.
 [^Quine1969p114]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, pp. 114--138.
