@@ -1694,6 +1694,8 @@ Resources:
 
 ![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/chapter_attention-mechanisms/transformer.html)).](img/transformer.png){#fig:transformer .tallimg}
 
+$$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{d_k}}\right) V \label{eq:attention} $$
+
 -   Attention and Transformers
     -   Transformer [^Vaswani2017]
     -   BERT [^Devlin2018]
