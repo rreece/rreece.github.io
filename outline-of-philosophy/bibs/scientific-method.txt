@@ -33,6 +33,7 @@ Gettier, E.L. (1963). Is justified true belief knowledge? *Analysis*, 23, 121--3
 Gould, S.J. (1965). Is uniformitarianism necessary? *American Journal of Science*, 263, 223--228.
 Hansson, S.O. & Hendricks, V.F. (2018). *Introduction to Formal Philosophy*. Springer.
 Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135--175.
+Hendricks, V.F. (2006). *Mainstream and Formal Epistemology*. Cambridge University Press.
 #Hume, D. (1902). *Enquiries Concerning the Human Understanding and Concerning the Principles of Morals*. Oxford: Clarendon Press. [(Originally published in 1777)]
 #Hume, D. (1983). *An Enquiry Concerning the Principles of Morals*. Hackett Classics. [(Originally published in 1751)]
 #Hume, D. (1993). *An Enquiry Concerning Human Understanding* (E. Steinberg, Ed.). Hackett. [(Originally published in 1748)]

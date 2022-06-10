@@ -584,8 +584,9 @@ See also:
 ### Formal epistemology
 
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology)
--   *Introduction to Formal Philosophy* (2018) [^Hansson2018]
--   *The Open Handbook of Formal Epistemology* (2019) [^Pettigrew2019]
+-   Hendricks, V.F. (2006). *Mainstream and Formal Epistemology*. [^Hendricks2006]
+-   Hansson, S.O. & Hendricks, V.F. (2018). *Introduction to Formal Philosophy*. [^Hansson2018]
+-   Pettigrew, R. & Weisberg, J. (2019). [*The Open Handbook of Formal Epistemology*](https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf). [^Pettigrew2019]
 
 Carnap:
 
@@ -621,6 +622,7 @@ See also:
 [^Carnap1937LSLp184]: @Carnap_1937_Logical_Syntax_of_Language\, p. 184.
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Hansson2018]: @Hansson_2018_Introduction_to_Formal_Philosophy\.
+[^Hendricks2006]: @Hendricks_2006_Mainstream_and_Formal_Epistemology\.
 [^Kripke1972]: @Kripke_1980_Naming_and_Necessity\.
 [^Pettigrew2019]: @Pettigrew_2019_The_Open_Handbook_of_Formal_Epistemology\.
 [^Papineau2012]: @Papineau_2012_Philosophical_Devices_Proofs_Probabilities\.
