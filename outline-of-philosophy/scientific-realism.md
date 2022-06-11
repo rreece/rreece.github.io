@@ -796,6 +796,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
   Right: The Vienna Circle's manifesto, Wissenschaftliche Weltauffassung: Der Wiener Kreis (1929).
 ](img/vienna-circle-seminar-and-manifesto.jpg){#fig:vienna-circle-seminar-and-manifesto}
 
+-   Stadler, F. (1998). [Vienna Circle](https://www.rep.routledge.com/articles/thematic/vienna-circle/v-1.). In *Routledge Encyclopedia of Philosophy*. [^Stadler1998]
 -   Vienna Circle [^Murzi2004]
 -   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924 to 1936.
 -   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Victor Kraft, Otto Neurath, Friedrich Waismann, Gustav Bergmann, and others.
@@ -808,6 +809,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   In 1930 the Vienna Circle and the Berlin Circle took over the journal *Annalen der Philosophie*
     and made it the main journal of logical empiricism under the title *Erkenntnis*,
     edited by Carnap and Reichenbach.
+-   Blumberg, A.E. & Feigl, H. (1931). Logical positivism: A new movement in European philosophy. [^Blumberg1931]
 -   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932a]
 -   A.J. Ayer (1910-1989)
     -   Ayer, A.J. (1936). *Language, Truth, and Logic*. [^Ayer1936]
@@ -821,12 +823,14 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   Cat, J. (2017). [How Viennese scientists fought the dogma, propaganda and prejudice of the 1930s](https://www.nature.com/articles/d41586-017-07819-z) - Review of Sigmund, K. (2017). *Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science*.
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
+[^Blumberg1931]: @Blumberg_1931_Logical_positivism_A_new_movement_in_European\.
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
 [^Carnap1932a]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\. <https://iep.utm.edu/viennacr/>
 [^Schlick1948]: @Schlick_1948_Positivism_and_realism\.
 [^Schlick1974]: @Schlick_1974_General_Theory_of_Knowledge\.
+[^Stadler1998]: @Stadler_1998_Vienna_Circle\.
 [^Stadler2015]: @Stadler_2015_The_Vienna_Circle_Studies_in_the_origins\.
 
 
@@ -1167,6 +1171,13 @@ and meaning:
 >   intension can be applied even to a robot shows that it does not have
 >   the psychologistic character of the traditional concept of meaning. [^Carnap1955p46]
 
+Feigl:
+
+>   The revolt against the dualism of the analytic and the synthetic rests
+>   on a confusion of the logical analysis of (artificially fixed) languages
+>   with the historical investigation of (growing, shifting natural)
+>   languages. [^Feigl1956p7]
+
 -   *Word and Object* [^Quine1960]
     -   Inscrutability of reference
     -   Indeterminacy of translation
@@ -1174,6 +1185,7 @@ and meaning:
 -   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986a]
 -   Quine-Carnap correspondence [^Quine1990-2]
 -   Putnam, H. (1973). Meaning and reference. [^Putnam1973]
+-   Field, H. (1974). Theory change and the indeterminacy of reference. [^Field1974]
 -   Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? [^Yablo1998]
 
 Nietzsche:
@@ -1199,6 +1211,8 @@ See also:
     in the [Outline on the scientific method](scientific-method.html).
 
 [^Carnap1955p46]: @Carnap_1955_Meaning_and_synonymy_in_natural_languages\, p. 46--47, footnote 7.
+[^Feigl1956]: @Feigl_1956_Some_major_issues_and_developments\, p. 7--8.
+[^Field1974]: @Field_1974_Theory_change_and_the_indeterminacy_of_reference\.
 [^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
 [^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
 [^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
@@ -1330,6 +1344,7 @@ Friedman:
 -   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (b. 1940)
     -   Naming directly; causal theory of names; natural kinds
 -   Putnam, NMA
+-   Boyd, R.N. (1983). On the current status of the issue of scientific realism. [^Boyd1983]
 -   Sankey [^Sankey2015]
 -   Talk by Sankey: [Scepticism, Relativism and Naturalistic Particularism](https://www.youtube.com/watch?v=QyEFaJf_Dyo)
     -   Chisholm's particularism: start with what is uncontroversially known.
@@ -1339,10 +1354,6 @@ Friedman:
 Popper:
 
 >   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963pX]
-
-[^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
-[^Sankey2015]: @Sankey_2015_Realism_progress_and_the_historical_turn\.
-[^Suppe1974]: @Suppe_1974_The_Structure_of_Scientific_Theories\.
 
 Sankey:
 
@@ -1361,7 +1372,11 @@ Sankey:
 >   Thus, there is no referential discontinuity, no incomparability of content,
 >   and no incommensurability. [^Sankey2008p66]
 
+[^Boyd1983]: @Boyd_1983_On_the_current_status_of_the_issue_of_scientific\.
+[^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
 [^Sankey2008p66]: @Sankey_2008_Scientific_Realism_and_the_Rationality_of_Science\, p. 66.
+[^Sankey2015]: @Sankey_2015_Realism_progress_and_the_historical_turn\.
+[^Suppe1974]: @Suppe_1974_The_Structure_of_Scientific_Theories\.
 
 
 Constructive empiricism
@@ -2020,8 +2035,9 @@ Click to show links
 -   [Davidson, Donald (1917-2003)](http://plato.stanford.edu/entries/davidson/)
 -   [Duhem, Pierre (1861-1916)](http://plato.stanford.edu/entries/duhem/)
 -   [Eliminative Materialism](http://plato.stanford.edu/entries/materialism-eliminative/)
--   [Feyerabend, Paul (1924-1994)](http://plato.stanford.edu/entries/feyerabend/)
+-   [Feigl, Herbert (1902-1988)](https://plato.stanford.edu/entries/feigl)
 -   [Feminist Epistemology and Philosophy of Science](https://plato.stanford.edu/entries/feminism-epistemology/)
+-   [Feyerabend, Paul (1924-1994)](http://plato.stanford.edu/entries/feyerabend/)
 -   [Frege, Gottlob (1848-1925)](https://plato.stanford.edu/entries/frege/)
 -   [Fundamentality](https://plato.stanford.edu/entries/fundamentality/)
 -   [Goodman, Nelson (1906-1998)](https://plato.stanford.edu/entries/goodman/)

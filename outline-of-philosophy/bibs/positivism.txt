@@ -1,4 +1,5 @@
 Ayer, A. J. (1952). *Language, truth and logic* (2 ed.). Dover Publications. [(Originally published in 1946)]
+Blumberg, A.E. & Feigl, H. (1931). Logical positivism: A new movement in European philosophy. *The Journal of Philosophy*, 28(11), 281.
 #Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. *Erkenntnis*, 2. https://philpapers.org/archive/TEO.pdf
 Carnap, R. (1959). The elimination of metaphysics through logical analysis of language. In A.J. Ayer (Ed.) *Logical Positivism* (pp. 60--81). New York: The Free Press. https://philpapers.org/archive/TEO.pdf [(Translated by Arthur Pap; originally published in 1932 as ``{\"U}berwindung der metaphysik durch logische analyse der sprache`` in \emph{Erkenntnis}, 2, 219--241.)]
 Carnap, R. (1950). Empiricism, semantics, and ontology. *Revue Internationale de Philosophie*, 4, 20--40. https://tu-dresden.de/gsw/phil/iphil/theor/ressourcen/dateien/braeuer/lehre/metameta/Carnap---EmpiricismSemanticsOntology.pdf
@@ -10,6 +11,7 @@ Carnap, R. (1937). *Logical Syntax of Language*. Kegan Paul, Trench, Trubner & C
 Carnap, R. (2003). *The Logical Structure of the World* (R.A. George, Trans.). Chicago: Open Court. [(Originally published in 1928 as \emph{Der logische Aufbau der Welt})]
 Carnap, R. & Schilpp, P.A. (1963). *The Philosophy of Rudolf Carnap*. Open Court. http://fitelson.org/confirmation/carnap_schilpp_volume.pdf
 Creathe, R. (2011). Logical empiricism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/logical-empiricism/
+Feigl, H. (1956). Some major issues and developments in the philosophy of science of logical empiricism. In H. Feigl & M. Scriven (eds.), *The Foundations of Science and the Concepts of Psychology and Psychoanalysis*, (pp. 3--37). Minneapolis: University of Minnesota Press.
 Feigl, H. (1981). The origin and spirit of logical positivism. *Inquiries and Provocations*, 21--37.
 Fowler, S. (2010). LSL in a nutshell. https://philarchive.org/archive/FOWLIA
 Friedman, M. (1999). *Reconsidering Logical Positivism*. Cambridge University Press.
@@ -25,6 +27,7 @@ Potochnik, A. (2011). A Neurathian conception of the unity of science. *Erkenntn
 Quine, W.V.O. (1960). Carnap and logical truth. *Synthese*, 12(4), 350--374.
 Schlick, M. (1948). Positivism and realism. *Synthese*, 7, 478--505. [(D. Rynin, Trans. Originally published in 1933 in \emph{Erkenntnis}, 3.)]
 Schlick, M. (1974). *General Theory of Knowledge* (A.E. Blumberg, Trans.). Springer-Verlag.  [(Originally published in German in 1921 as \emph{Allgemeine Erkenntnislehre})]
+Stadler, F. (1998). Vienna Circle. In *Routledge Encyclopedia of Philosophy*. Taylor and Francis. https://www.rep.routledge.com/articles/thematic/vienna-circle/v-1.
 Stadler, F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. Springer.
 Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration: A brief intellectual history and reappraisal. *Administration & Society*, 47, 416--446.
 #Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus* (C.K. Ogden, Trans.). London: Kegan Paul, Trench, Trubner & Co. [(Originally published in German in 1921)]

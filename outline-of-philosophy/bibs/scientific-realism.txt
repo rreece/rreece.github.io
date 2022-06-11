@@ -6,6 +6,7 @@ Baggott, J. (2005). *A Beginners Guide to Reality*. Penguin Group.
 Barrett, J. (2004). On the cognitive status of our best physical theories. http://faculty.sites.uci.edu/jeffreybarrett/articles/
 Boghossian, P. (2006). *Fear of Knowledge*. Oxford University Press.
 Borges, J.L. (1998). *Collected Fictions* (A. Hurley, Trans.). Penguin Group.
+Boyd, R.N. (1983). On the current status of the issue of scientific realism. *Erkenntnis*, 19, 45--90.
 Cavell, S. (2015). *Must We Mean What We Say?* Cambridge University Press. [(Originally published in 1969)]
 Chakravartty, A. (2007). *A Metaphysics for Scientific Realism*. Cambridge University Press.
 Chakravartty, A. (2017). Scientific realism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/scientific-realism/
@@ -14,6 +15,7 @@ Clarke, K.A. & Primo, D.M. (2004). The theoretical implications of the empirical
 Comte, A. (1835). *Cours de la Philosophie Positive*. 
 Dennett, D.C. (1991). Real patterns. *The Journal of Philosophy*, 88, 27--51. https://web.ics.purdue.edu/~drkelly/DCDRealPatterns1991.pdf
 Fetzer, J. (2017). Carl Hempel. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/hempel
+Field, H. (1974). Theory change and the indeterminacy of reference. *The Journal of Philosophy*, 70(14), 462--481.
 Friedman, M. & Creath, R. (2007). *The Cambridge Companion to Carnap*. Cambridge University Press.
 Frigg, R., & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask. *European Journal for Philosophy of Science*, 1, 227--276.
 Grice, H.P. & Strawson, P.F. (1956). In defense of a dogma. *The Philosophical Review*, 65, 141--158.
