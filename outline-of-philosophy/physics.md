@@ -726,6 +726,7 @@ Michael Atiyah:
 -   Struggles with the continuum [^Baez2016]
 -   [Reeh-Schlieder theorem](https://en.wikipedia.org/wiki/Reeh%E2%80%93Schlieder_theorem)
     -   Taj Mahal principle
+-   Auyang, S.Y. (1995). *How Is Quantum Field Theory Possible?* [^Auyang1995]
 
 Baez:
 
@@ -741,6 +742,7 @@ Baez:
 >   rigorous way, what these approximations are supposed to be
 >   approximating. [^Baez2016p18]
 
+[^Auyang1995]: @Auyang_1995_How_Is_Quantum_Field_Theory_Possible\.
 [^Baez2016]: @Baez_2016_Struggles_with_the_continuum\.
 [^Baez2016p17]: @Baez_2016_Struggles_with_the_continuum\, p. 17.
 [^Baez2016p18]: @Baez_2016_Struggles_with_the_continuum\, p. 18.
@@ -1604,6 +1606,22 @@ Gravity and cosmology
 [^Weinberg1977]: @Weinberg_1977_The_First_Three_Minutes\.
 
 
+### Blackholes
+
+-   Penington, G. (2019). [Entanglement wedge reconstruction and the information paradox](https://arxiv.org/abs/1905.08255). [^Penington2019]
+
+[^Penington2019]: @Penington_2019_Entanglement_wedge_reconstruction\.
+
+
+### Gravitational waves
+
+-   Poincar&eacute;
+-   Einstein
+-   [Hulse–Taylor binary pulsar](https://en.wikipedia.org/wiki/Hulse%E2%80%93Taylor_binary)
+-   LIGO
+-   [Multi-messenger astronomy](https://en.wikipedia.org/wiki/Multi-messenger_astronomy)
+
+
 ### Dark matter
 
 -   [Bullet Cluster](https://en.wikipedia.org/wiki/Bullet_Cluster)
@@ -1630,22 +1648,6 @@ Gravity and cosmology
 ![How the $\Lambda$-CDM concordance model of cosmology was developed. [^Debono2016f4]](img/concordance-model-LCDM.png){#fig:concordance-model-LCDM}
 
 [^Debono2016f4]: @Debono_2016_General_relativity_and_cosmology_Unsolved\, figure 4.
-
-
-### Blackholes
-
--   Penington, G. (2019). [Entanglement wedge reconstruction and the information paradox](https://arxiv.org/abs/1905.08255). [^Penington2019]
-
-[^Penington2019]: @Penington_2019_Entanglement_wedge_reconstruction\.
-
-
-### Gravitational waves
-
--   Poincar&eacute;
--   Einstein
--   [Hulse–Taylor binary pulsar](https://en.wikipedia.org/wiki/Hulse%E2%80%93Taylor_binary)
--   LIGO
--   [Multi-messenger astronomy](https://en.wikipedia.org/wiki/Multi-messenger_astronomy)
 
 
 ### Alternative theories of gravity

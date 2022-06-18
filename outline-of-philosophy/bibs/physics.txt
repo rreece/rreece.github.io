@@ -8,6 +8,7 @@ Arntzenius, F. (2012). *Space, Time, and Stuff*. Oxford University Press.
 Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting processor. *Nature*, 574, 505--510. https://www.nature.com/articles/s41586-019-1666-5
 {ATLAS Collaboration}. (2008). The ATLAS Experiment at the CERN Large Hadron Collider. *Journal of Instrumentation*, 3, 08003. https://cds.cern.ch/record/1129811
 {ATLAS Collaboration}. (2012). Observation of a new particle in the search for the Standard Model Higgs boson with the ATLAS detector at the LHC. *Physics Letters B*, 716, 1--29. https://arxiv.org/abs/1207.7214
+Auyang, S.Y. (1995). *How Is Quantum Field Theory Possible?* Oxford University Press.
 Bacciagaluppi, G. & Valentini, A. (2009). *Quantum Theory at the Crossroads: Reconsidering the 1927 Solvay Conference*. Cambridge University Press. https://arxiv.org/abs/quant-ph/0609184
 Baez, J.C., Segal, I., & Zhou, Z. (1992). *Introduction to Algebraic and Constructive Quantum Field Theory*. Princeton University Press. https://math.ucr.edu/home/baez/bsz.html
 Baez, J.C. & Muniain, J.P. (1994). *Gauge Fields, Knots and Gravity*. World Scientific.
