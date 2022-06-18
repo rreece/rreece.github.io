@@ -683,6 +683,7 @@ Schopenhauer:
 ### Other ways of knowing
 
 -   Are there other ways of knowing?
+-   Feigl, H. (1958). Critique of intuition according to scientific empiricism. [^Feigl1958]
 -   Scruton, R. (2015). Scientism and the humanities. [^Scruton2015]
     -   *Naturwissenschaften* and *Geisteswissenschaften*
 -   [Feminist perspectives on argumentation](https://plato.stanford.edu/entries/feminism-argumentation/)
@@ -721,6 +722,7 @@ See also:
 -   [Is there a universal scientific method?](file:///Users/reece/at-github/rreece.github.io/outline-of-philosophy/scientific-method.html#is-there-a-universal-scientific-method)
 
 [^Boghossian2006p2]: @Boghossian_2006_Fear_of_Knowledge\, p. 2.
+[^Feigl1958]: @Feigl_1958_Critique_of_intuition_according_to_scientific\.
 [^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
 [^Scruton2015]: @Scruton_2015_Scientism_and_the_humanities\.
 [^Scruton2015p132]: @Scruton_2015_Scientism_and_the_humanities\, p. 132-3\.
@@ -869,7 +871,9 @@ Dang & Bright:
 >   everyday assertions. [^Dang2021]
 
 -   Criticisms of New Atheism:
+    -   Scruton, R. (2014). [Humans hunger for the sacred. Why can’t the new atheists understand that?](https://www.spectator.co.uk/article/humans-hunger-for-the-sacred-why-can-t-the-new-atheists-understand-that-).
     -   Torres, P. (2021). [Godless grifters: How the New Atheists merged with the far right](https://www.salon.com/2021/06/05/how-the-new-atheists-merged-with-the-far-right-a-story-of-intellectual-grift-and-abject-surrender/). *Salon*.
+    -   Milbank, S. (2022). [The strange afterlife of New Atheism](https://thecritic.co.uk/the-strange-afterlife-of-new-atheism/).
 -   Relationship to SJW vs IDW battles
     -   "Logic bros"
     -   Realists (platonists), independent of politics, often find themselves in the company

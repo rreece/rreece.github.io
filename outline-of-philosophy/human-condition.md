@@ -1577,6 +1577,7 @@ See also:
 ### Criticism
 
 -   Russell on *Meditations* [^Russell1945p248]
+-   Gruber, H. (2022). [Don’t be stoic: Roman Stoicism’s origins show its perniciousness](https://psyche.co/ideas/dont-be-stoic-roman-stoicisms-origins-show-its-perniciousness).
 
 [^Russell1945p248]: @Russell_1945_A_History_of_Western_Philosophy\, pp. 248--56.
 

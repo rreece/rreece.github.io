@@ -216,6 +216,7 @@ Free will
 -   [Free will is dead, let's bury it.](http://backreaction.blogspot.ch/2016/01/free-will-is-dead-lets-bury-it.html) - Sabine Hossenfelder
 -   [Sam Harris: Free Will is an Illusion](https://www.youtube.com/watch?v=SYq724zHUTw) - Lex Fridman podcast
 -   [Judea Pearl on the illusion of free will](https://www.youtube.com/watch?v=GVaQ_XxcjJk)
+-   Aaronson, S. (2006). Lecture notes: [Free will](https://www.scottaaronson.com/democritus/lec18.html).
 
 
 Artificial intelligence and mind

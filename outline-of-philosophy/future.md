@@ -34,6 +34,7 @@ See also:
 -   Pandemics
 -   ...
 -   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
+-   Hanson, R. (1998). [Critiquing the doomsday argument](https://web.archive.org/web/20050405210231/http://hanson.gmu.edu/nodoom.html).
 
 [^Bostrom2013]: @Bostrom_2013_Existential_risk_prevention_as_global_priority\.
 
@@ -42,9 +43,11 @@ See also:
 
 -   [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
 -   Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. [^Bostrom2002]
+-   Hanson, R., Martin, D., McCarter, C., & Paulson, J. (2021). [If loud aliens explain human earliness, quiet aliens are also rare](https://iopscience.iop.org/article/10.3847/1538-4357/ac2369). [^Hanson2021]
 -   Wong, M.L. & Bartlett, S. (2022). [Asymptotic burnout and homeostatic awakening: A possible solution to the Fermi paradox?](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0029) [^Wong2022]
 
 [^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
+[^Hanson2021]: @Hanson_2021_If_loud_aliens_explain_human_earliness_quiet\.
 [^Wong2022]: @Wong_2022_Asymptotic_burnout_and_homeostatic_awakening\.
 
 

@@ -1339,6 +1339,7 @@ Friedman:
 -   Karl Popper (1902-1994)
     -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
     -   *falsifiability* over *verifiability*
+-   Feigl, H. (1950). Existential hypotheses: Realistic versus phenomenalistic interpretations. [^Feigl1950]
 -   Suppe, F. (1974). *The Structure of Scientific Theories*. [^Suppe1974]
 -   Sellars
 -   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (b. 1940)
@@ -1373,6 +1374,7 @@ Sankey:
 >   and no incommensurability. [^Sankey2008p66]
 
 [^Boyd1983]: @Boyd_1983_On_the_current_status_of_the_issue_of_scientific\.
+[^Feigl1950]: @Feigl_1950_Existential_hypotheses_Realistic_versus\.
 [^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
 [^Sankey2008p66]: @Sankey_2008_Scientific_Realism_and_the_Rationality_of_Science\, p. 66.
 [^Sankey2015]: @Sankey_2015_Realism_progress_and_the_historical_turn\.

@@ -774,6 +774,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 
 -   Fraser, D. (2008). [The fate of 'particles' in quantum field theories with interactions](http://philsci-archive.pitt.edu/4038/). [^Fraser2008]
 -   Pessa, E. (2009). [The concept of particle in quantum field theory](https://arxiv.org/abs/0907.0178). [^Pessa2009]
+-   Duncan, A. (2012). *The Conceptual Framework of Quantum Field Theory*. [^Duncan2012p163]
 -   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
 -   Lazarovici, D. (2018). [Against fields](https://arxiv.org/abs/1809.00855). [^Lazarovici2018]
 -   Baker, D.J. (2009). [Against field interpretations of quantum field theory](http://philsci-archive.pitt.edu/4350/). [^Baker2009]
@@ -782,6 +783,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
 [^Baker2009]: @Baker_2009_Against_field_interpretations_of_quantum_field\.
 [^Caulton2018]: @Caulton_2018_A_persistent_particle_ontology_for_quantum_field\.
+[^Duncan2012p163]: @Duncan_2012_Conceptual_Framework_of_Quantum_Field_Theory\, p. 163--4.
 [^Einstein1905a]: @Einstein_1905_Uber_einen_die_erzeugung_und_verwandlung_des\.
 [^Fraser2008]: @Fraser_2008_The_fate_of_particles_in_quantum_field_theories\.
 [^Lazarovici2018]: @Lazarovici_2018_Against_fields\.
