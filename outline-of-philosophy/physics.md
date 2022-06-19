@@ -678,16 +678,17 @@ Michael Atiyah:
 -   Dyson
 -   Wilson
 -   't Hooft, G. (1971). Renormalizable Lagrangians for massive Yang-Mills fields. [^tHooft1971]
--   Huggett and Weingard [^Huggett1995]
--   Goldenfeld [^Goldenfeld1992]
--   Butterfield [^Butterfield2014]
--   Butterfield [^Butterfield2015]
--   't Hooft, again [^tHooft1994b]
+-   Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. [^Huggett1995]
+-   Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. [^Goldenfeld1992]
+-   Butterfield, J. (2014). [Reduction, emergence, and renormalization](https://arxiv.org/abs/1406.4354v1). [^Butterfield2014]
+-   Butterfield, J., & Bouatta, N. (2015). [Renormalization for philosophers](https://arxiv.org/abs/1406.4532). [^Butterfield2015]
+-   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. (again) [^tHooft1994b]
 -   't Hooft, G. (1999). A confrontation with infinity (Nobel lecture). [^tHooft1999]
 -   The "renormalization group" isn't a group; it's actually a semigroup.
     The reason that renormalization produces a semigroup is that a block
     transformation loses information. [^Kadanoff2013p50]
 -   Borcherds, R.E. & Barnard, A. (2002). [Lectures on quantum field theory](https://arxiv.org/abs/math-ph/0204014). [^Borcherds2002]
+-   Video: [Moving Naturalism Forward, Day 1, Afternoon, 2nd Session: Simon DeDeo on renormalization](https://www.youtube.com/watch?v=-ZYLb7D2bQw).
  
 [^Borcherds2002]: @Borcherds_2002_Lectures_on_quantum_field_theory\.
 [^Butterfield2014]: @Butterfield_2014_Reduction_emergence_and_renormalization\.
@@ -703,15 +704,16 @@ Michael Atiyah:
 ### Effective field theory
 
 -   Effective field theory (EFT)
--   Huggett and Weingard, again [^Huggett1995]
--   Weinberg [^Weinberg1997]
--   Bain [^Bain2013]
+-   Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. (again) [^Huggett1995b]
+-   Weinberg, S. (1997). [What is quantum field theory, and what did we think it is?](http://arxiv.org/abs/hep-th/9702027). [^Weinberg1997]
+-   Bain, J. (2013). Effective field theories. [^Bain2013]
 -   Preskill, J. (2013). [We are all Wilsonians now](https://quantumfrontiers.com/2013/06/18/we-are-all-wilsonians-now/). [^Preskill2013]
--   Porter Williams [^Williams2019]
+-   Williams, P. (2019). [Scientific realism made effective](https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axx043). [^Williams2019]
 -   Rosaler, J. (2022). [Dogmas of effective field theory: Scheme dependence, fundamental parameters, and the many faces of the Higgs naturalness principle](https://link.springer.com/article/10.1007/s10701-021-00510-4). [^Rosaler2022]
 
 [^Bain2013]: @Bain_2013_Effective_field_theories and
     @Bain_2013_Emergence_in_effective_field_theories\.
+[^Huggett1995b]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
 [^Preskill2013]: @Preskill_2013_We_are_all_Wilsonians_now\.
 [^Rosaler2022]: @Rosaler_2022_Dogmas_of_effective_field_theory_Scheme\.
 [^Weinberg1997]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\.
@@ -805,6 +807,7 @@ Baez, Segal, & Zhou on wave-particle duality:
     -   Teller [^Teller1997p115]
     -   Earman and Fraser's analysis [^Earman2006]
     -   Klaczynski's analysis [^Klaczynski2016]
+    -   Ruetsche, L. (2002). Interpreting quantum field theory. [^Ruetsche2002]
 -   Resolution:
     -   Bain [^Bain2000]
     -   Duncan [^Duncan2012]
@@ -839,6 +842,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Haag1955]: @Haag_1955_On_quantum_field_theories\.
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
 [^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
+[^Ruetsche2002]: @Ruetsche_2002_Interpreting_quantum_field_theory\.
 [^Teller1997p115]: @Teller_1997_An_Interpretive_Introduction_to_Quantum_Field\, p. 115.
 
 
@@ -1676,18 +1680,19 @@ Complexity and emergence
     -   chaos
 -   [Universality](https://en.wikipedia.org/wiki/Universality_(dynamical_systems))
 -   Thermodynamics, statistical mechanics, renormalization.
--   Anderson, P.W. (1972). More is different.
+-   Anderson, P.W. (1972). More is different. [^Anderson1972]
 -   Bedau, M.A. (1997). Weak emergence. [^Bedau1997]
 -   DeDeo, S. (2012). Video: [Lecture 1: Coarse-graining, renormalization & universality](https://www.youtube.com/watch?v=nqbWVoZVOfQ).
 -   Lisi, A.G. (2017). [Emergence](https://www.edge.org/response-detail/27149). [^Lisi2017]
 -   Bain
+    -   TODO
 -   Jard&oacute;n, R. (2020). [Emergence](https://philosophytweet.blogspot.com/2020/04/emergence.html).
 -   Views on reductionism
     -   [Mariam Thalos - 3:AM Magazine interview](https://www.3ammagazine.com/3am/multi-scale-existentialist-freedoms/)
 -   Video: [Closer To Truth: What's Strong Emergence?](https://www.youtube.com/watch?v=zkffv2nVF64)
     -   George F. R. Ellis vs Barry Loewer
 -   John, Y.J. (2020). [An emergence reading list](https://yohanjohn.com/axispraxis/an-emergence-reading-list/).
-    -   [My tweet rebutting anti-reductionism](https://twitter.com/RyanDavidReece/status/1481730862001446917)
+    -   [My tweet rebutting some anti-reductionism](https://twitter.com/RyanDavidReece/status/1481730862001446917)
 
 Anderson:
 
@@ -1704,6 +1709,7 @@ See also:
 -   [Reductionism](naturalism.html#reductionism)
     in the [Outline on naturalism](naturalism.html#reductionism)
 
+[^Anderson1972]: @Anderson_1972_More_is_different\.
 [^Anderson1972p393]: @Anderson_1972_More_is_different\, p. 393.
 [^Bedau1997]: @Bedau_1997_Weak_emergence\.
 [^Lisi2017]: @Lisi_2017_Emergence\.
