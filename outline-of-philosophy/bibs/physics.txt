@@ -48,10 +48,11 @@ Broughton, M. et al. (2020). TensorFlow Quantum: A software framework for quantu
 Buchholz, D. (1998). Current trends in axiomatic quantum field theory. https://arxiv.org/abs/hep-th/9811233
 Buckingham, E. (1914). On physically similar systems; Illustrations of the use of dimensional equations. *Physical Review*, 4(4), 345--376.
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
-Butterfield, J., & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
+Butterfield, J. & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
 Cabibbo, N. (1963). Unitary symmetry and leptonic decays. *Physical Review Letters*, 10, 531--533. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.10.531
 Candelas, P., Horowitz, G.T., Strominger, A., & Witten, E. (1985). Vacuum configurations for superstrings. *Nuclear Physics B*, 258, 46--74.
 Cao, C., Hu, H., Li, J., & Schwarz, W.H.E. (2019). Physical origin of chemical periodicities in the system of elements. *Pure and Applied Chemistry*, 91, 1969--1999. https://www.degruyter.com/document/doi/10.1515/pac-2019-0901/html
+Cao, T.Y. (1999). *Conceptual Foundations of Quantum Field Theory*. Cambridge University Press.
 Cao, T.Y. (2016). The Englert-Brout-Higgs mechanism: An unfinished project. *International Journal of Modern Physics A*, 31(35), 1630061. 
 Capdevilla, R., Curtin, D., Kahn, Y., & Krnjaic, G. (2021). A no-lose theorem for discovering the new physics of $(g−2)_\mu$ at muon colliders. https://arxiv.org/abs/2101.10334
 Carroll, S.M. (2004). *Spacetime and Geometry*. Addison Wesley.
@@ -232,6 +233,7 @@ Teller, P. (2000). The gauge argument. *Philosophy of Science*. 67, 466--481.
 't Hooft, G. (1978). Extended objects in gauge field theories. In Bod, D.H. & Kamal, A.N. (Eds.) *Particles and Fields* (pp. 165-198). New York: Plenum.
 't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. World Scientific.
 't Hooft, G. (1999). A confrontation with infinity. https://www.nobelprize.org/prizes/physics/1999/thooft/lecture/ [Nobel Lecture, December 8, 1999]
+'t Hooft, G. (2005). The conceptual basis of quantum field theory. https://dspace.library.uu.nl/bitstream/handle/1874/22670/hooft_05_conceptualbasisofquantumfieldtheory.pdf
 't Hooft, G. (2007). Lie groups in physics. http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf
 't Hooft, G. (2021). An unorthodox view on quantum mechanics. https://arxiv.org/abs/2104.03179
 Tong, D. (2006). Lectures on Quantum Field Theory. https://www.damtp.cam.ac.uk/user/tong/qft.html
@@ -259,6 +261,7 @@ Wigner, E.P. (1954). Conservation laws in classical and quantum physics. *Progre
 Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. Academic Press. [(Originally published in German in 1931)]
 Wilhelm, I. (2022). Centering the Everett interpretation. https://philpapers.org/rec/WILCTE-4
 Williams, P. (2019). Scientific realism made effective. *British Journal for the Philosophy of Science*, 70, 209--237. https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axx043
+Wilson, K. (1974). The renormalization group and the $\varepsilon$ expansion. *Physics Reports*, 12, 75--199.
 Witten, E. (1998). Anti-de Sitter space and holography. *Advances in Theoretical and Mathematical Physics*, 2, 253--291. https://arxiv.org/abs/hep-th/9802150
 Yock, P. (2018). Newton's hypotheses on the structure of matter. https://arxiv.org/abs/1807.05486
 Zapata-Carratala, C. (2021). Dimensioned algebra: The mathematics of physical quantities. https://arxiv.org/abs/2108.08703

@@ -487,6 +487,8 @@ Wittgenstein:
 
 ![Reductionism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism), 2014).](img/reductionism.png){#fig:reductionism}
 
+-   Nagel, E. (1961). *The Structure of Science: Problems in the Logic of Scientific Explanation*. [^Nagel1961]
+-   Nagel, E. (2008). Issues in the logic of reductive explanations. [^Nagel2008]
 -   Reductive and non-reductive physicalism
     -   Morris [^Morris2019]
 -   Fundamentality:
@@ -504,6 +506,8 @@ Wittgenstein:
     See also @Leibniz_1951_The_Art_of_Discovery, p. 51.
     Supposedly it is also in Russell's *A Critical Exposition of the Philosophy of Leibniz*.
 [^Morris2019]: @Morris_2019_Physicalism_Deconstructed_Levels_of_reality\.
+[^Nagel1961]: @Nagel_1961_The_Structure_of_Science_Problems_in_the_Logic\.
+[^Nagel2008]: @Nagel_2008_Issues_in_the_logic_of_reductive_explanations\.
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
 [^Rosaler2019]: @Rosaler_2019_Reduction_as_an_a_posteriori_relation\.
 [^Wittgenstein1922L20201]:@Wittgenstein_1961_Tractatus_Logico_Philosophicus\, line 2.0201.

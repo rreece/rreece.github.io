@@ -547,9 +547,13 @@ Baez, Segal, & Zhou:
 -   Schwartz [^Schwartz2014]
 -   David Tong [^Tong2006]
 -   Zeidler, vol 1 [^Zeidler2007], 2 [^Zeidler2008], and 3 [^Zeidler2011]
+-   Cao, T.Y. (1999). *Conceptual Foundations of Quantum Field Theory*. [^Cao1999]
+-   't Hooft, G. (2005). [The conceptual basis of quantum field theory](https://dspace.library.uu.nl/bitstream/handle/1874/22670/hooft_05_conceptualbasisofquantumfieldtheory.pdf). [^tHooft2005]
 
+[^Cao1999]: @Cao_1999_Conceptual_Foundations_of_Quantum_Field_Theory\.
 [^Peskin1995]: @Peskin_1995_An_Introduction_to_Quantum_Field_Theory\.
 [^Schwartz2014]: @Schwartz_2014_Quantum_Field_Theory_and_the_Standard_Model\.
+[^tHooft2005]: @tHooft_2005_The_conceptual_basis_of_quantum_field_theory\.
 [^Tong2006]: @Tong_2006_Lectures_on_Quantum_Field_Theory\.
 [^Zee2013]: @Zee_2003_Quantum_Field_Theory_in_a_Nutshell\.
 [^Zeidler2007]: @Zeidler_2007_Quantum_Field_Theory_I_Basics_in_mathematics\.
@@ -676,12 +680,13 @@ Michael Atiyah:
 ### Renormalization
 
 -   Dyson
--   Wilson
 -   't Hooft, G. (1971). Renormalizable Lagrangians for massive Yang-Mills fields. [^tHooft1971]
+-   Wilson, K. (1974). The renormalization group and the $\varepsilon$ expansion. [^Wilson1974]
 -   Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. [^Huggett1995]
 -   Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. [^Goldenfeld1992]
 -   Butterfield, J. (2014). [Reduction, emergence, and renormalization](https://arxiv.org/abs/1406.4354v1). [^Butterfield2014]
--   Butterfield, J., & Bouatta, N. (2015). [Renormalization for philosophers](https://arxiv.org/abs/1406.4532). [^Butterfield2015]
+-   Butterfield, J. & Bouatta, N. (2015). [Renormalization for philosophers](https://arxiv.org/abs/1406.4532). [^Butterfield2015]
+    -   Universality is multiple realizability
 -   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. (again) [^tHooft1994b]
 -   't Hooft, G. (1999). A confrontation with infinity (Nobel lecture). [^tHooft1999]
 -   The "renormalization group" isn't a group; it's actually a semigroup.
@@ -699,6 +704,7 @@ Michael Atiyah:
 [^tHooft1971]: @tHooft_1971_Renormalizable_Lagrangians_for_massive_Yang_Mills\.
 [^tHooft1994b]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 [^tHooft1999]: @tHooft_1999_A_confrontation_with_infinity\.
+[^Wilson1974]: @Wilson_1974_The_renormalization_group_and_the_varepsilon\.
 
 
 ### Effective field theory
