@@ -682,7 +682,6 @@ Michael Atiyah:
 -   Dyson
 -   't Hooft, G. (1971). Renormalizable Lagrangians for massive Yang-Mills fields. [^tHooft1971]
 -   Wilson, K. (1974). The renormalization group and the $\varepsilon$ expansion. [^Wilson1974]
--   Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. [^Huggett1995]
 -   Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. [^Goldenfeld1992]
 -   Butterfield, J. (2014). [Reduction, emergence, and renormalization](https://arxiv.org/abs/1406.4354v1). [^Butterfield2014]
 -   Butterfield, J. & Bouatta, N. (2015). [Renormalization for philosophers](https://arxiv.org/abs/1406.4532). [^Butterfield2015]
@@ -699,7 +698,6 @@ Michael Atiyah:
 [^Butterfield2014]: @Butterfield_2014_Reduction_emergence_and_renormalization\.
 [^Butterfield2015]: @Butterfield_2015_Renormalization_for_philosophers\.
 [^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
-[^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
 [^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50.
 [^tHooft1971]: @tHooft_1971_Renormalizable_Lagrangians_for_massive_Yang_Mills\.
 [^tHooft1994b]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
@@ -710,7 +708,7 @@ Michael Atiyah:
 ### Effective field theory
 
 -   Effective field theory (EFT)
--   Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. (again) [^Huggett1995b]
+-   Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. [^Huggett1995]
 -   Weinberg, S. (1997). [What is quantum field theory, and what did we think it is?](http://arxiv.org/abs/hep-th/9702027). [^Weinberg1997]
 -   Bain, J. (2013). Effective field theories. [^Bain2013]
 -   Preskill, J. (2013). [We are all Wilsonians now](https://quantumfrontiers.com/2013/06/18/we-are-all-wilsonians-now/). [^Preskill2013]
@@ -719,7 +717,7 @@ Michael Atiyah:
 
 [^Bain2013]: @Bain_2013_Effective_field_theories and
     @Bain_2013_Emergence_in_effective_field_theories\.
-[^Huggett1995b]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
+[^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
 [^Preskill2013]: @Preskill_2013_We_are_all_Wilsonians_now\.
 [^Rosaler2022]: @Rosaler_2022_Dogmas_of_effective_field_theory_Scheme\.
 [^Weinberg1997]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\.
@@ -1093,9 +1091,11 @@ Interpretations of quantum mechanics
 -   Schr&ouml;dinger's cat
 -   Penrose: $U$ and $R$ operators
 -   D&uuml;rr, D. & Lazarovici, D. (2020). *Understanding Quantum Mechanics: The World According to Modern Quantum Foundations*. [^Durr2020]
+-   Mermin, N.D. (2022). [A note on the quantum measurement problem](https://arxiv.org/abs/2206.10741). [^Mermin2022]
 
 [^Durr2020]: @Durr_2020_Understanding_Quantum_Mechanics_The_World\.
 [^Maudlin1995]: @Maudlin_1995_Three_measurement_problems\.
+[^Mermin2022]: @Mermin_2022_A_note_on_the_quantum_measurement_problem\.
 
 
 ### Copenhagen "interpretation"

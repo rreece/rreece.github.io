@@ -215,7 +215,7 @@ Logic
 Pedagogy:
 
 -   Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard First-Order Logic*. [^Hunter1971]
--   Teller, P. (1989). *A Modern Formal Logic Primer* [^Teller1989]
+-   Teller, P. (1989). *A Modern Formal Logic Primer*. [^Teller1989]
 -   Bonevac, D. (2003). *Deduction: Introductory to Symbolic Logic*. [^Bonevac2003]
 -   MacFarlane, J. (2021). *Philosophical Logic: A Contemporary Introduction.* [^MacFarlane2021]
 -   Smith, P. (2020). *An Introduction to Formal Logic*. [^Smith2020]
