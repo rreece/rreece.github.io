@@ -2109,6 +2109,7 @@ Lectures:
 -   Cranmer, M. et al. (2020). [Discovering symbolic models from deep learning with inductive biases](https://arxiv.org/abs/2006.11287). [^Cranmer2020]
     -   Video: [Discussion by Yannic Kilcher](https://www.youtube.com/watch?v=LMb5tvW-UoQ)
 -   Liu, Z., Madhavan, V., & Tegmark, M. (2022). [AI Poincare 2.0: Machine learning conservation laws from differential equations](https://arxiv.org/abs/2203.12610). [^Liu2022] 
+-   Krenn, M. et al. (2022). [On scientific understanding with artificial intelligence](https://arxiv.org/abs/2204.01467). [^Krenn2022]
 
 ![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis. [^Asch2018fig]](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
 
@@ -2122,6 +2123,7 @@ See also:
 [^Asch2018fig]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
 [^Cranmer2020]: @Cranmer_2020_Discovering_symbolic_models_from_deep_learning\.
 [^DAgnolo2019]: @DAgnolo_2019_Learning_New_Physics_from_a_Machine\.
+[^Krenn2022]: @Krenn_2022_On_scientific_understanding_with_artificial\.
 [^Liu2022]: @Liu_2022_AI_Poincare_2\.
 [^Udrescu2020]: @Udrescu_2020_Symbolic_pregression_Discovering_physical_laws\.
 
