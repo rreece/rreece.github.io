@@ -2212,9 +2212,23 @@ Bertrand Russell:
 ### Artworks
 
 -   Miller, A. (1949). *Death of a Salesman*. (a play)
--   TODO: more
+-   "Citizenship in a Republic" speech by Theodore Roosevelt in 1910
+
+>   It is not the critic who counts; not the man who points out how the
+>   strong man stumbles, or where the doer of deeds could have done them
+>   better. The credit belongs to the man who is actually in the arena,
+>   whose face is marred by dust and sweat and blood; who strives valiantly;
+>   who errs, who comes short again and again, because there is no effort
+>   without error and shortcoming; but who does actually strive to do the
+>   deeds; who knows the great enthusiasms, the great devotions; who spends
+>   himself in a worthy cause; who at the best knows in the end the triumph
+>   of high achievement, and who at the worst, if he fails, at least fails
+>   while daring greatly, so that his place shall never be with those cold
+>   and timid souls who neither know victory nor defeat. [^Roosevelt1910]
 
 ![*The Scream*, Edvard Munch, 1893.](img/1893.Munch.The-Scream.png){#fig:1893.Munch.The-Scream}
+
+[^Roosevelt1910]: "[Citizenship in a Republic](https://www.theodorerooseveltcenter.org/Learn-About-TR/TR-Encyclopedia/Culture-and-Society/Man-in-the-Arena.aspx)" speech by Theodore Roosevelt in 1910.
 
 
 Nihilism
