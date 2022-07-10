@@ -202,6 +202,7 @@ Redhead, M. (1975). Symmetry in intertheory relations. *Synthese*, 32, 77--112.
 Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(2), 57--99.
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24). Oxford University Press.
 Reece, R. (2007). Quantum field theory: An introduction. http://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf
+Romero, G.E. (2015). On the ontology of spacetime: Substantivalism, relationism, eternalism, and emergence. *Foundations of Science*, 22, 141--159.
 Rosaler, J. (2022). Dogmas of effective field theory: Scheme dependence, fundamental parameters, and the many faces of the Higgs naturalness principle. *Foundations of Physics*, 52(1), 1--32. https://link.springer.com/article/10.1007/s10701-021-00510-4
 Ruetsche, L. (2002). Interpreting quantum field theory. *Philosophy of Science*, 69, 348--378.
 Rubbia, C. (1984). Experimental observation of the intermediate vector bosons $W^{+}$, $W^{-}$, and $Z^{0}$. https://www.nobelprize.org/uploads/2018/06/rubbia-lecture.pdf [Nobel lecture, December 8, 1984]

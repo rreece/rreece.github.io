@@ -7,6 +7,8 @@ Blancke, S. & Boudry, M. (2022). Pseudoscience as a negative outcome of scientif
 Blachowicz, J. (2009). How science textbooks treat scientific method: A philosopher's perspective. *The British Journal for the Philosophy of Science*, 60(2), 303--344.
 Blachowicz, J. (2016). There is no scientific method. *The New York Times*. https://www.nytimes.com/2016/07/04/opinion/there-is-no-scientific-method.html [July 4, 2016]
 Box, G.E.P. (1976). Science and statistics. *Journal of the American Statistical Association*, 71(356), 791--799.
+Bunge, M. (1991). What is science? Does it matter to distinguish it from pseudoscience? A reply to my commentators. *New Ideas in Psychology*, 9, 245--283. https://www.hpsst.com/uploads/6/2/9/3/62931075/bunge__1991__science___pseudoscience.pdf
+Bunge, M. (2011). Knowledge: Genuine and bogus. *Science & Education*, 20, 411--438.
 Carnap, R. (1945). On inductive logic. *Philosophy of Science*, 12, 72--97.
 Carnap, R. (1950). *Logical Foundations of Probability*. University of Chicago Press.
 Carnap, R. (1952). *The Continuum of Inductive Methods*. University of Chicago Press.

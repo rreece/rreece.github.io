@@ -245,6 +245,14 @@ Sellars:
 >   way around with respect to the subject-matters of all the special
 >   disciplines. [^SellarsTODO]
 
+Bunge:
+
+>   I believe that a philosophy is spineless without ontology, confused without
+>   semantics, acephalous without epistemology, deaf without ethics, paralytic
+>   without social philosophy, and obsolete without scientific support---and no
+>   philosophy at all with neither. [^Bunge2010pxi]
+
+[^Bunge2010pxi]: @Bunge_2010_Mind_and_Matter_A_Philosophical_Inquiry\, p. xi.
 [^Costa2012]: @Costa_2012_Philosophy_as_a_protoscience\.
 [^Descartes1644pxxiv]: @Descartes_1982_Principles_of_Philosophy\, p. xxiv.
 [^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
@@ -261,6 +269,8 @@ Sellars:
 -   Unity of knowledge
 -   The Canberra Plan
     -   See SEP: [Naturalism](https://plato.stanford.edu/entries/naturalism/)
+
+Viena Circle manifesto:
 
 >   The scientific world conception is characterised not so much by theses of its own, but
 >   rather by its basic attitude, its points of view and direction of research. The goal ahead
@@ -283,10 +293,28 @@ Sellars:
 -   Callard, A. (2018). [How philosophy makes progress](https://dailynous.com/2018/05/27/how-philosophy-makes-progress-agnes-callard/).
 -   Priest, G. (2020). Philosophy and its history: An essay in the philosophy of philosophy. [^Priest2020]
 
+Bunge:
+
+>   Good philosophy is worth doing because it is a vantage point for the study
+>   of anything, whether concrete things or abstract ideas. Indeed, although it may
+>   not see the world, good philosophy helps looking at it-just as bad philosophy
+>   blocks the view of ideas and things, in denying that there are any, or in claiming
+>   that they can be understood without the help of either reason or experience.
+>   
+>   If good philosophy is both valuable and currently in short supply, then it
+>   should be reconstructed. Which materials and tools should be used to rebuild
+>   philosophy? I suggest that the materials-the substance-are provided by sci-
+>   ence and technology, as well as by the history of philosophy; and the tools-the
+>   form-by logic and mathematics. This is, at least, the kind of philosophy I care
+>   for: one capable of tackling interesting philosophical questions in the light of
+>   the best available factual knowledge, and with the help of precision tools forged
+>   by formal science. [^Bunge2001p10]
+
 See also:
 
 -   [Scientific progress](scientific-realism.html#scientific-progress)
 
+[^Bunge2001p10]: @Bunge_2001_Philosophy_in_Crisis_The_Need_for_Reconstruction\, p. 10.
 [^Priest2020]: @Priest_2020_Philosophy_and_its_history_An_essay\.
 
 
@@ -403,6 +431,7 @@ Opening lines to *ETMG*:
 See also:
 
 -   [Natural kinds](#natural-kinds)
+-   [Naturalized metaphysics](#naturalized-metaphysics)
 
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
@@ -430,6 +459,11 @@ See also:
 
 -   [Physicalism](mind.html#physicalism) in the [Outline on Philosophy of Mind](mind.html)
 -   [Physicalism](human-condition.html#physicalism) in the [Outline on the Human Condition](human-condition.html)
+-   [Reductionism](#reductionism)
+
+[^Ney2021a]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
+[^Spurrett1999]: @Spurrett_1999_The_Completeness_of_Physics\.
+[^Spurrett1999b]: @Spurrett_1999_A_note_on_the_completeness_of_physics\.
 
 
 ### Uniformity of nature
@@ -451,10 +485,6 @@ See also:
 ### Criticism
 
 -   TODO
-
-[^Ney2021a]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
-[^Spurrett1999]: @Spurrett_1999_The_Completeness_of_Physics\.
-[^Spurrett1999b]: @Spurrett_1999_A_note_on_the_completeness_of_physics\.
 
 
 Reductionism
@@ -489,15 +519,18 @@ Wittgenstein:
 
 -   Nagel, E. (1961). *The Structure of Science: Problems in the Logic of Scientific Explanation*. [^Nagel1961]
 -   Nagel, E. (2008). Issues in the logic of reductive explanations. [^Nagel2008]
+-   Bunge, M. (1991). The power and limits of reduction. [^Bunge1991]
 -   Reductive and non-reductive physicalism
-    -   Morris [^Morris2019]
--   Fundamentality:
-    -   Ney [^Ney2018]
--   Why "physics is fundamental"
+    -   Morris, K. (2019). *Physicalism Deconstructed: Levels of reality and the mind-body problem*. [^Morris2019]
+-   Fundamentality
+    -   Ney, A. (2018). [The Politics of Fundamentality](https://fqxi.org/community/forum/topic/3095). [^Ney2018]
+    -   Ney, A. (2021). The fundamentality of physics: Completeness or maximality? [^Ney2021b]
+    -   Why "physics is fundamental"
 -   Physicalism and Hempel's dilemma
 -   [Robert Sapolsky (2010) lecture: Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo)
 -   Rosaler, J. (2019). [Reduction as an a posteriori relation](https://www.journals.uchicago.edu/doi/10.1093/bjps/axx026). [^Rosaler2019]
 
+[^Bunge1991]: @Bunge_1991_The_power_and_limits_of_reduction\.
 [^Carnap1934]: @Carnap_1934_On_the_character_of_philophical_problems\.
 [^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
     This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,
@@ -509,6 +542,7 @@ Wittgenstein:
 [^Nagel1961]: @Nagel_1961_The_Structure_of_Science_Problems_in_the_Logic\.
 [^Nagel2008]: @Nagel_2008_Issues_in_the_logic_of_reductive_explanations\.
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
+[^Ney2021b]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
 [^Rosaler2019]: @Rosaler_2019_Reduction_as_an_a_posteriori_relation\.
 [^Wittgenstein1922L20201]:@Wittgenstein_1961_Tractatus_Logico_Philosophicus\, line 2.0201.
 
@@ -551,7 +585,7 @@ Ladyman & Ross:
 >   motivated interest in tracking them would sort them into types for book-keeping
 >   purposes. [^Ladyman2007p5]
 
--   Bird, A., & Tobin, E. (2015). [Natural kinds](http://plato.stanford.edu/entries/natural-kinds/). *SEP*. [^Bird2015]
+-   Bird, A. & Tobin, E. (2015). [Natural kinds](http://plato.stanford.edu/entries/natural-kinds/). *SEP*. [^Bird2015]
 -   Bird, A. (2018). [The metaphysics of natural kinds](https://d1wqtxts1xzle7.cloudfront.net/38555439/Metaphysics_Natural_Kinds_final-libre.pdf). [^Bird2018]
 
 See also:
@@ -631,7 +665,7 @@ See also:
 
 See also:
 
--   [Atheism](human-condition.html#atheism).
+-   [Atheism](human-condition.html#atheism)
 
 [^Lewis1947]: @Lewis_1947_Miracles_A_Preliminary_Study\.
 [^Randi2001]: @Aaronson_2001_Letter_to_James_Randi\.
@@ -639,7 +673,11 @@ See also:
 
 ### Criticism
 
--   TODO
+-   Koons, R.C. (2000). The incompatibility of naturalism and scientific realism. [^Koons2000]
+-   Paul, L.A. (2012). Metaphysics as modeling: the handmaiden’s tale. [^Paul2012]
+
+[^Koons2000]: @Koons_2000_The_incompatibility_of_naturalism_and_scientific\.
+[^Paul2012]: @Paul_2012_Metaphysics_as_modeling_the_handmaidens_tale\.
 
 
 Scientism
@@ -682,6 +720,15 @@ Schopenhauer:
 -   Is there any unique project left for metaphysics?
     -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
 -   What are the limits of science?
+-   Bunge, M. (1971). Is scientific metaphysics possible? [^Bunge1971]
+-   Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. [^Ross2013]
+
+See also:
+
+-   [Metaphysical naturalism](#metaphysical-naturalism)
+
+[^Bunge1971]: @Bunge_1971_Is_scientific_metaphysics_possible\.
+[^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 
 
 ### Other ways of knowing
@@ -775,6 +822,13 @@ Criticisms of naturalism
     -   Guerrero, A. (2022). [To be a department of philosophy](https://dailynous.com/2022/05/31/to-be-a-department-of-philosophy-guest-post/).
 -   Science takes faith
     -   Davies, P. (2007). [Taking science on faith](https://www.nytimes.com/2007/11/24/opinion/24davies.html). *New York Times Opinion*.
+
+See also:
+
+-   [Criticism](naturalism.html#criticism) of Physicalism
+-   [Criticism](naturalism.html#criticism-1) of Reductionism
+-   [Criticism](naturalism.html#criticism-2) of Natural kinds
+-   [Criticism](naturalism.html#criticism-3) of Rejection of the supernatural
 
 [^CanizaresEsguerra2022]: @Canizares_Esguerra_2022_Rethinking_the_Western_revolution_in_science\.
 [^Garfield2016a]: @Garfield_2016_If_philosophy_wont_diversify_lets_call_it_what\.

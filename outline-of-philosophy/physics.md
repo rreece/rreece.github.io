@@ -1616,6 +1616,15 @@ Gravity and cosmology
 [^Weinberg1977]: @Weinberg_1977_The_First_Three_Minutes\.
 
 
+### Spacetime
+
+-   Substantivalism vs relationism
+-   Leibniz, Mach, Barbour
+-   Romero, G.E. (2015). On the ontology of spacetime: Substantivalism, relationism, eternalism, and emergence. [^Romero2015]
+
+[^Romero2015]: @Romero_2015_On_the_ontology_of_spacetime_Substantivalism\.
+
+
 ### Blackholes
 
 -   Penington, G. (2019). [Entanglement wedge reconstruction and the information paradox](https://arxiv.org/abs/1905.08255). [^Penington2019]

@@ -72,6 +72,10 @@ Dualism
 -   Gilbert Ryle
     -   "the dogma of the Ghost in the Machine"
     -   *The Concept of Mind* (1949)
+-   Bunge
+    -   Bunge, M. (2010). *Mind and Matter: A Philosophical Inquiry*. [^Bunge2010]
+
+[^Bunge2010]: @Bunge_2010_Mind_and_Matter_A_Philosophical_Inquiry\.
 
 
 Physicalism

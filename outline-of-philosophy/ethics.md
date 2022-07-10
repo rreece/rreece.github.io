@@ -358,11 +358,24 @@ See also:
 -   Russell, G. (2020). Logic isn't normative. [^Russell2020]
 -   Russell, G. (2021). How to prove Hume's law. [^Russell2021]
 
+Bunge:
+
+>   Still, a gap can be either ditch or abyss. And ditches are not chasms: we may
+>   be able to jump over the former though not over the latter. As a matter of fact, we
+>   bridge the fact-value gap every time we take action to attain a desirable goal. In
+>   other words, action-particularly if well planned-may lead from what is the case
+>   to what ought to be the case. In short, action can bridge the logical gap between
+>   is and ought, in particular between the real and the rational. This platitude has
+>   eluded most if not all value theorists, moral philosophers, and even action
+>   theorists---which is witness to their indifference to the real world of
+>   action. [^Bunge2001p193]
+
 See also:
 
 -   [Criticisms of naturalism](naturalism.html#criticisms-of-naturalism) in the [Outline on naturalism](naturalism.html)
 -   [Is-ought divide](ethics.html#is-ought-divide)
 
+[^Bunge2001p193]: @Bunge_2001_Philosophy_in_Crisis_The_Need_for_Reconstruction\, p. 193.
 [^Moore1903b]: @Moore_1988_Principia_Ethica\.
 [^Russell2020]: @Russell_2020_Logic_isnt_normative\.
 [^Russell2021]: @Russell_2021_How_to_prove_Humes_law\.

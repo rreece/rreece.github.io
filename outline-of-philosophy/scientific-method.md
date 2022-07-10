@@ -1262,8 +1262,8 @@ See also:
 -   Not a seven-step program
     -   Evidence based, anti-conspiracy, parsimony
     -   Madsen, M.E. (2017). [The real core of the scientific method and why we should trust it](http://notebook.madsenlab.org/essays/2017/06/23/core-scientific-method.html).
-    -   Nola [^Nola1999]
-    -   Nola & Sankey [^Nola2007pXXX]
+    -   Nola, R. (1999). On the possibility of a scientific theory of scientific method. [^Nola1999]
+    -   Nola, R. & Sankey, H. (2007). *Theories of Scientific Method*. [^Nola2007pXXX]
 -   Schurz
     -   New foundationalist epistemology [^Schurz2019pX]
 -   Scientism
@@ -1574,10 +1574,14 @@ Pseudoscience
 ### The demarcation problem
 
 -   Poor quality science vs pseudoscience
+-   Bunge, M. (1991). [What is science? Does it matter to distinguish it from pseudoscience? A reply to my commentators](https://www.hpsst.com/uploads/6/2/9/3/62931075/bunge__1991__science___pseudoscience.pdf_). [^Bunge1991]
+-   Bunge, M. (2011). Knowledge: Genuine and bogus. [^Bunge2011]
 -   Pigliucci, M. & Boudry, M. (2013). *Philosophy of Pseudoscience: Reconsidering the Demarcation Problem*. [^Pigliucci2013]
 -   Blancke, S. & Boudry, M. (2022). Pseudoscience as a negative outcome of scientific dialogue: A pragmatic-naturalistic approach to the demarcation problem. [^Blancke2022]
 
 [^Blancke2022]: @Blancke_2022_Pseudoscience_as_a_negative_outcome_of_scientific\.
+[^Bunge1991]: @Bunge_1991_What_is_science_Does_it_matter_to_distinguish_it\.
+[^Bunge2011]: @Bunge_2011_Knowledge_Genuine_and_bogus\.
 [^Pigliucci2013]: @Pigliucci_2013_Philosophy_of_Pseudoscience_Reconsidering\.
 
 

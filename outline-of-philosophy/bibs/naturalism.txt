@@ -1,11 +1,14 @@
 Aaronson, S. (2001). Letter to James Randi. https://www.scottaaronson.com/writings/randi.html
 Azzouni, J. (2000). *Knowledge and Reference in Empirical Science*. Routledge.
 Baggini, J. (2003). *Atheism: A Very Short Introduction*. Oxford University Press.
-Bird, A., & Tobin, E. (2015). Natural kinds. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/natural-kinds/
+Bird, A. & Tobin, E. (2015). Natural kinds. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/natural-kinds/
 Bird, A. (2018). The metaphysics of natural kinds. *Synthese*, 195(4), 1397--1426. https://d1wqtxts1xzle7.cloudfront.net/38555439/Metaphysics_Natural_Kinds_final-libre.pdf
 Blackmore, S.J. (1996). Near-death experiences. *Journal of the Royal Society of Medicine*, 89(2), 73--76.
 Blackmore, S.J. (1997). Probability misjudgment and belief in the paranormal: A newspaper survey. *British Journal of Psychology*, 88(4), 683--689.
 Boudry, M. & Pigliucci, M. (2018). *Science Unlimited? The Challenges of Scientism*. University of Chicago Press.
+Bunge, M. (1971). Is scientific metaphysics possible? *The Journal of Philosophy*, 68, 507--520.
+Bunge, M. (1991). The power and limits of reduction. In E. Agazzi (ed.) *The Problem of Reductionism in Science* (pp. 31-49). Dordrecht: Springer.
+Bunge, M. (2001). *Philosophy in Crisis: The Need for Reconstruction*. Prometheus Books.
 Cadwalladr, C. (2017). Daniel Dennett: I begrudge every hour I have to spend worrying about politics. *The Guardian*. https://www.theguardian.com/science/2017/feb/12/daniel-dennett-politics-bacteria-bach-back-dawkins-trump-interview [February 12, 2017]
 Ca\~{n}izares-Esguerra, J. (2022). Rethinking the "Western" revolution in science. *Science*, 376(6592), 467. https://www.science.org/doi/full/10.1126/science.abo5229
 Carnap, R. (1934). On the character of philophical problems. *Philosophy of Science*, 1, 5--19.
@@ -27,6 +30,7 @@ Jenkins, C. (2016). Epistemological naturalisms. In K. Clark (ed.) *The Blackwel
 Jones, W. (2013). *The Works of Sir William Jones* (Lord Teignmouta, Ed.). Cambridge University Press.
 Kant, I. (1912). *Prolegomena to Any Future Metaphysics* (P. Carus, Trans.). Chicago: Open Court. [(Originally published in 1783 as \emph{Prolegomena zu einer jeden künftigen Metaphysik})]
 Konnikova, M. (2012). Humanities aren't a science. Stop treating them like one. *Scientific American Blogs*. https://blogs.scientificamerican.com/literally-psyched/humanities-arent-a-science-stop-treating-them-like-one/ [August 10, 2012]
+Koons, R.C. (2000). The incompatibility of naturalism and scientific realism. In W.L. Craig & J.P. Moreland (eds.), *Naturalism: A critical analysis*. Routledge.
 Laughlin, R.B. & Pines, D. (2000). The theory of everything. *Proceedings of the National Academy of Sciences*, 97, 28--31.
 Lawhead, J. (2016). My Scientism. https://web.archive.org/web/20160316131553/https://plus.google.com/+JonLawhead/posts/5gkhSHYCCdG [(Post and discussion on Google+)]
 Leah, R. (2018). ``How do you separate fact and opinion?'' Rudy Giuliani mused. Then, Stephen Colbert offered an answer. *Salon*. https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer [May 8, 2018]
@@ -46,6 +50,7 @@ Ney, A. (2019). Are the questions of metaphysics more fundamental than those of 
 Ney, A. (2021). The fundamentality of physics: Completeness or maximality. *Oxford Studies in Metaphysics*, 12, 203. https://philpapers.org/rec/NEYTFO
 Oppenheim, P., & Putnam, H. (1958). Unity of science as a working hypothesis. In H. Feigl et al. (Eds.), *Minnesota Studies in the Philosophy of Science, Vol. II*. Minnesota University Press.
 Papineau, D. (2007). Naturalism. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/naturalism/
+Paul, L.A. (2012). Metaphysics as modeling: the handmaiden’s tale. *Philosophical Studies*, 160, 1--29.
 Perrin, A.J. (2017). Stop blaming postmodernism for post-truth Politics. *The Chronicle of Higher Education*. http://www.chronicle.com/article/Stop-Blaming-Postmodernism-for/240845 [August 4, 2017]
 Pluckrose, H. (2016). Why I no longer identify as a feminist. *Areo*. https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/ [December 26, 2016]
 Pluckrose, H. (2017). How French ``intellectuals'' ruined the west: Postmodernism and its impact, explained. *Areo*. https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/ [March 27, 2017]
@@ -62,6 +67,7 @@ Riepe, D. (1961). *The Naturalistic Traddition in Indian Thought*. University of
 Rosaler, J. (2019). Reduction as an a posteriori relation. *The British Journal for the Philosophy of Science*, 70(1), 269--299. https://www.journals.uchicago.edu/doi/10.1093/bjps/axx026
 Rosenberg, A. (2011). *The Atheist's Guide to Reality*. Norton.
 Rosenberg, A. (2011). Why I am a naturalist. *New York Times*. https://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/ [September 17, 2011]
+Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. Oxford University Press.
 Sartwell, C. (2015). Philosophy returns to the real world. *New York Times*. http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/ [April 13, 2015.]
 Schopenhauer, A. (2014). *Essays and Aphorisms* (R.J. Hollingdale, Trans.). Penguin.
 Scruton, R. (2015). Scientism and the humanities. In R.N. Williams & D.N. Robinson (Eds.), *Scientism: The New Orthodoxy* (pp. 131--146). Bloomsbury.

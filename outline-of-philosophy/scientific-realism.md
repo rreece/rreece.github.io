@@ -1178,6 +1178,7 @@ Feigl:
 >   with the historical investigation of (growing, shifting natural)
 >   languages. [^Feigl1956p7]
 
+-   Grice, H.P. & Strawson, P.F. (1956). In defense of a dogma. [^Grice1956]
 -   *Word and Object* [^Quine1960]
     -   Inscrutability of reference
     -   Indeterminacy of translation
@@ -1213,6 +1214,7 @@ See also:
 [^Carnap1955p46]: @Carnap_1955_Meaning_and_synonymy_in_natural_languages\, p. 46--47, footnote 7.
 [^Feigl1956]: @Feigl_1956_Some_major_issues_and_developments\, p. 7--8.
 [^Field1974]: @Field_1974_Theory_change_and_the_indeterminacy_of_reference\.
+[^Grice1956]: @Grice_1956_In_defense_of_a_dogma\.
 [^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
 [^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
 [^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
@@ -1512,7 +1514,11 @@ More:
 ### Criticism
 
 -   Contrast with Bueno's structural empiricism
--   TODO
+-   Bueno, O. (1999). What is structural empiricism? Scientific change in an empiricist setting. [^Bueno1999]
+-   Bueno, O. (2011). Structural empiricism, again. [^Bueno2011]
+
+[^Bueno1999]: @Bueno_1999_What_is_structural_empiricism_Scientific_change\.
+[^Bueno2011]: @Bueno_2011_Structural_empiricism_again\.
 
 
 Feminist epistemology
