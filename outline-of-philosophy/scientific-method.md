@@ -663,8 +663,8 @@ and
 >   advances along with the development of science? [^Norton2017]
 
 -   Norton, J.D. (2017). [Einstein on Kant](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/significance_GR_geometry/Einstein_on_Kant.html).
--   Quine: "Two dogmas of empiricism" [^Quine1951]
--   Carnap vs Quine [^Quine1990]
+-   Quine, W.V.O. (1951). Two dogmas of empiricism. [^Quine1951]
+-   Quine, W.V.O. & Carnap, R. (1990). *Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work*. [^Quine1990]
 
 See also:
 
@@ -821,7 +821,7 @@ See also:
 -   Uniformitarianism
 -   Lyell, Charles. (1830). *Principles of Geology*.
 -   Mill on the uniformity of nature
--   Salmon [^Salmon1953]
+-   Salmon, W.C. (1953). The uniformity of nature. [^Salmon1953]
 -   Gould, S. J. (1965). Is uniformitarianism necessary? [^Gould1965]
 -   TODO: contemporary view
 -   TODO: Science requires some uniformity of nature, e.g. astronomy,

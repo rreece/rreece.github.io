@@ -1623,6 +1623,7 @@ Gravity and cosmology
 -   Substantivalism vs relationism
 -   Leibniz, Mach, Barbour
 -   Romero, G.E. (2015). On the ontology of spacetime: Substantivalism, relationism, eternalism, and emergence. [^Romero2015]
+-   Video: [A mock debate on time with Julian Barbour and Tim Maudlin](https://www.youtube.com/watch?v=lKIjXJZASCg&ab_channel=FQXi) (2011).
 
 [^Romero2015]: @Romero_2015_On_the_ontology_of_spacetime_Substantivalism\.
 
