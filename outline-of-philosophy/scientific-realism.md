@@ -797,7 +797,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 ](img/vienna-circle-seminar-and-manifesto.jpg){#fig:vienna-circle-seminar-and-manifesto}
 
 -   Stadler, F. (1998). [Vienna Circle](https://www.rep.routledge.com/articles/thematic/vienna-circle/v-1.). In *Routledge Encyclopedia of Philosophy*. [^Stadler1998]
--   Vienna Circle [^Murzi2004]
+-   Murzi, M. (2004). [Vienna Circle](https://iep.utm.edu/viennacr/). In  *Internet Encyclopedia of Philosophy*. [^Murzi2004]
 -   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924 to 1936.
 -   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Victor Kraft, Otto Neurath, Friedrich Waismann, Gustav Bergmann, and others.
 -   Ludwig Wittgenstein and Karl Popper corresponded with the circle but did not attend.
@@ -1321,7 +1321,26 @@ Friedman:
 >   would be simply uncrecognizable without the deep and pervasive current of
 >   logical positivist thought. [^Friedman1999pxii]
 
+Bunge:
+
+>   Logical positivism was progressive compared with the classical positivism
+>   of Ptolemy, Hume, d'Alembert, Compte, John Stuart Mill, and Ernst Mach. It
+>   was even more so by comparison with its contemporary rivals---neo-Thomisism,
+>   neo-Kantianism, intuitionism, dialectical materialism, phenomenology, and
+>   existentialism. However, neo-positivism failed dismally to give a faithful
+>   account of science, whether natural or social. It failed because it
+>   remained anchored to sense-data and to a phenomenalist metaphysics,
+>   overrated the power of induction and underrated that of hypothesis, and
+>   denounced realism and materialism as metaphysical nonsense. Although it
+>   has never been practiced consistently in the advanced natural sciences and
+>   has been criticized by many philosophers, notably Popper (1959 [1935], 1963),
+>   logical positivism remains the tacit philosophy of many scientists.
+>   Regrettably, the anti-positivism fashionable in the metatheory of social
+>   science is often nothing but an excuse for sloppiness and wild
+>   speculation. [^Bunge1996p317]
+
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
+[^Bunge1996p317]: @Bunge_1996_Finding_Philosophy_in_Social_Science\, p. 317.
 [^Clarke2004]: @Clarke_2004_The_theoretical_implications_of_the_empirical\.
 [^Friedman1999pxii]: @Friedman_1999_Reconsidering_Logical_Positivism\, p. xii.
 [^Hemple1950]: @Hempel_1950_Problems_and_changes_in_the_empiricist_criterion\.
