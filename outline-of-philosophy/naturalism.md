@@ -526,7 +526,7 @@ Wittgenstein:
     -   Morris, K. (2019). *Physicalism Deconstructed: Levels of reality and the mind-body problem*. [^Morris2019]
 -   Fundamentality
     -   Ney, A. (2018). [The Politics of Fundamentality](https://fqxi.org/community/forum/topic/3095). [^Ney2018]
-    -   Ney, A. (2021). The fundamentality of physics: Completeness or maximality? [^Ney2021a]
+    -   Ney, A. (2021). The fundamentality of physics: Completeness or maximality? [^Ney2021b]
     -   Why "physics is fundamental"
 -   Physicalism and Hempel's dilemma
 -   [Robert Sapolsky (2010) lecture: Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo)
@@ -544,7 +544,7 @@ Wittgenstein:
 [^Nagel1961]: @Nagel_1961_The_Structure_of_Science_Problems_in_the_Logic\.
 [^Nagel2008]: @Nagel_2008_Issues_in_the_logic_of_reductive_explanations\.
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
-[^Ney2021a]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
+[^Ney2021b]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
 [^Rosaler2019]: @Rosaler_2019_Reduction_as_an_a_posteriori_relation\.
 [^Wittgenstein1922L20201]:@Wittgenstein_1961_Tractatus_Logico_Philosophicus\, line 2.0201.
 

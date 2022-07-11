@@ -1565,11 +1565,11 @@ See also:
 -   Start of string phenomenology [^Candelas1985]
 -   Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. [^Maldacena1998]
 -   Witten, E. (1998). Anti-de Sitter space and holography. [^Witten1998]
--   Ney, A. (2021). From quantum entanglement to spatiotemporal distance. [^Ney2021b]
+-   Ney, A. (2021). From quantum entanglement to spatiotemporal distance. [^Ney2021c]
 
 [^Candelas1985]: @Candelas_1985_Vacuum_configurations_for_superstrings\.
 [^Maldacena1998]: @Maldacena_1998_The_large_N_limit_of_superconformal_field\.
-[^Ney2021b]: @Ney_2021_From_quantum_entanglement_to_spatiotemporal\.
+[^Ney2021c]: @Ney_2021_From_quantum_entanglement_to_spatiotemporal\.
 [^Witten1998]: @Witten_1998_Anti_de_Sitter_space_and_holography\.
 
 
