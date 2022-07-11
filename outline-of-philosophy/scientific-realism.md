@@ -816,7 +816,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
     -   Ayer, A.J. (1936). *Language, Truth, and Logic*. [^Ayer1936]
     -   Helped the spread of positivism in British academia.
 -   *International Encyclopedia of Unified Science*
-    -   Only the first section *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
+    -   Only the first volume of *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
 -   Schlick, M. (1925). *General Theory of Knowledge*. [^Schlick1974]
 -   Schlick, M. & Rynin, D. (1948). Positivism and realism. [^Schlick1948]
 -   The murder of Schlick in 1936 by a former student put an end to the Vienna Circle in Austria.
