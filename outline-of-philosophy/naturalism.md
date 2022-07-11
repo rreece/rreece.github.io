@@ -521,18 +521,18 @@ Wittgenstein:
 
 -   Nagel, E. (1961). *The Structure of Science: Problems in the Logic of Scientific Explanation*. [^Nagel1961]
 -   Nagel, E. (2008). Issues in the logic of reductive explanations. [^Nagel2008]
--   Bunge, M. (1991). The power and limits of reduction. [^Bunge1991]
+-   Bunge, M. (1991). The power and limits of reduction. [^Bunge1991b]
 -   Reductive and non-reductive physicalism
     -   Morris, K. (2019). *Physicalism Deconstructed: Levels of reality and the mind-body problem*. [^Morris2019]
 -   Fundamentality
     -   Ney, A. (2018). [The Politics of Fundamentality](https://fqxi.org/community/forum/topic/3095). [^Ney2018]
-    -   Ney, A. (2021). The fundamentality of physics: Completeness or maximality? [^Ney2021b]
+    -   Ney, A. (2021). The fundamentality of physics: Completeness or maximality? [^Ney2021a]
     -   Why "physics is fundamental"
 -   Physicalism and Hempel's dilemma
 -   [Robert Sapolsky (2010) lecture: Chaos and Reductionism](https://www.youtube.com/watch?v=_njf8jwEGRo)
 -   Rosaler, J. (2019). [Reduction as an a posteriori relation](https://www.journals.uchicago.edu/doi/10.1093/bjps/axx026). [^Rosaler2019]
 
-[^Bunge1991]: @Bunge_1991_The_power_and_limits_of_reduction\.
+[^Bunge1991b]: @Bunge_1991_The_power_and_limits_of_reduction\.
 [^Carnap1934]: @Carnap_1934_On_the_character_of_philophical_problems\.
 [^Leibniz-De-Arte-Combinatoria]: Leibniz has similar quotes in several works.
     This quote is taken from a translation of his first book, *Dissertatio de arte combinatoria*,
@@ -544,7 +544,7 @@ Wittgenstein:
 [^Nagel1961]: @Nagel_1961_The_Structure_of_Science_Problems_in_the_Logic\.
 [^Nagel2008]: @Nagel_2008_Issues_in_the_logic_of_reductive_explanations\.
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
-[^Ney2021b]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
+[^Ney2021a]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
 [^Rosaler2019]: @Rosaler_2019_Reduction_as_an_a_posteriori_relation\.
 [^Wittgenstein1922L20201]:@Wittgenstein_1961_Tractatus_Logico_Philosophicus\, line 2.0201.
 

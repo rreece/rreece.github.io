@@ -1213,7 +1213,7 @@ See also:
     in the [Outline on the scientific method](scientific-method.html).
 
 [^Carnap1955p46]: @Carnap_1955_Meaning_and_synonymy_in_natural_languages\, p. 46--47, footnote 7.
-[^Feigl1956]: @Feigl_1956_Some_major_issues_and_developments\, p. 7--8.
+[^Feigl1956p7]: @Feigl_1956_Some_major_issues_and_developments\, p. 7--8.
 [^Field1974]: @Field_1974_Theory_change_and_the_indeterminacy_of_reference\.
 [^Grice1956]: @Grice_1956_In_defense_of_a_dogma\.
 [^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
