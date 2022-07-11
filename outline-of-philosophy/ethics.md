@@ -518,17 +518,17 @@ Waves:
     -   [Civil Rights Act of 1964](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964)
     -   [Title IX of the Education Amendments of 1972](https://en.wikipedia.org/wiki/Title_IX)
     -   *Roe v. Wade* (1973)
-    -   *Planned Parenthood v. Casey* (1991)
 3.  Third wave (1990s-2012)
     -   [Feminist sex wars](https://en.wikipedia.org/wiki/Feminist_sex_wars)
     -   [Sex-positive feminism](https://en.wikipedia.org/wiki/Sex-positive_feminism)
     -   [Intersectionality](https://en.wikipedia.org/wiki/Intersectionality) (1989)
+    -   *Planned Parenthood v. Casey* (1991)
     -   In 1991, Anita Hill testified before the Senate Judiciary Committee that
         Supreme Court nominee Clarence Thomas had sexually harassed her at work.
     -   Snyder-Hall, R.C. (2010). Third-wave feminism and the defense of "choice". [^SnyderHall2010]
 4.  Fourth wave (2012-present)
     -   Use of social media; #MeToo movement
-    -   LGBTQ; Trans rights activists
+    -   LGBTQ; Trans rights movement
     -   *Dobbs v. Jackson Women's Health Organization* (2022)
 
 See also:
