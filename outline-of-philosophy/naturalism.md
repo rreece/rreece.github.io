@@ -298,18 +298,18 @@ Bunge:
 
 >   Good philosophy is worth doing because it is a vantage point for the study
 >   of anything, whether concrete things or abstract ideas. Indeed, although it may
->   not see the world, good philosophy helps looking at it-just as bad philosophy
+>   not see the world, good philosophy helps looking at it---just as bad philosophy
 >   blocks the view of ideas and things, in denying that there are any, or in claiming
 >   that they can be understood without the help of either reason or experience.
 >   
 >   If good philosophy is both valuable and currently in short supply, then it
 >   should be reconstructed. Which materials and tools should be used to rebuild
->   philosophy? I suggest that the materials-the substance-are provided by sci-
->   ence and technology, as well as by the history of philosophy; and the tools-the
->   form-by logic and mathematics. This is, at least, the kind of philosophy I care
->   for: one capable of tackling interesting philosophical questions in the light of
->   the best available factual knowledge, and with the help of precision tools forged
->   by formal science. [^Bunge2001p10]
+>   philosophy? I suggest that the materials---the substance---are provided by
+>   science and technology, as well as by the history of philosophy; and the
+>   tools---the form---by logic and mathematics. This is, at least, the kind of
+>   philosophy I care for: one capable of tackling interesting philosophical
+>   questions in the light of the best available factual knowledge, and with
+>   the help of precision tools forged by formal science. [^Bunge2001p10]
 
 See also:
 

@@ -503,7 +503,8 @@ magnified the discussion, when he claims that
 
 See also:
 
--   [Scientific knowledge](scientific-method.html#scientific-knowledge)
+-   [Progress](naturalism.html#progress) in the Outline on Naturalism
+-   [Scientific knowledge](scientific-method.html#scientific-knowledge) in the Outline on the Scientific Method
 
 [^Popper2002pxvii]: @Popper_2002_The_Logic_of_Scientific_Discovery\, p. xvii.
     Preface to first English edition, 1959.
@@ -1020,7 +1021,7 @@ Pragmatism
 
 Peirce:
 
->   Hence, the sole object of inquiry settlement of opinion. 
+>   Hence, the sole object of inquiry is the settlement of opinion. 
 >   We may fancy that this is not enough for us,
 >   and that we seek not merely an opinion, but a true opinion.
 >   But put this fancy to the test, and it proves groundless;
