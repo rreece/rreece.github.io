@@ -1377,6 +1377,28 @@ Popper:
 
 >   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963pX]
 
+Bunge:
+
+>   As is well known, conceptual objects have been the undoing of
+>   traditional empiricism as well as of vulgar materialism, for they are
+>   neither distillates of ordinary experiences nor material objects or
+>   properties thereof. To be sure, the empiricist may claim that there
+>   are no conceptual objects aside from mental events. But he cannot
+>   explain how different minds can grasp the same conceptual objects
+>   and why psychology is incapable of accounting for the logical,
+>   mathematicaland semantical properties of constructs. And the
+>   vulgar materialist (nominalist) will likewise discard conceptual
+>   objects and speak instead of linguistic objects---e.g. of terms instead
+>   of concepts and of sentences instead of propositions. But he is unable
+>   to explain the conceptual invariants of linguistic transformations
+>   (e.g. translations) as well as the fact that linguistics presupposes
+>   logic and semantics rather than the other way round. Therefore we
+>   cannot accept either the empiricist or the nominalist reduction
+>   (elimination) of conceptual objects any more than we can admit the
+>   idealist claim that they are ideal beings with an autonomous existence.
+>   We must look for an alternative consistent with both ontological
+>   naturalism and semantical realism. [^Bunge1981p161]
+
 Sankey:
 
 >   *The Causal-Theoretic Reply to Incommensurability*
@@ -1395,6 +1417,7 @@ Sankey:
 >   and no incommensurability. [^Sankey2008p66]
 
 [^Boyd1983]: @Boyd_1983_On_the_current_status_of_the_issue_of_scientific\.
+[^Bunge1981p161]: @Bunge_2012_Evaluating_Philosophies\, p. 161.
 [^Feigl1950]: @Feigl_1950_Existential_hypotheses_Realistic_versus\.
 [^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
 [^Sankey2008p66]: @Sankey_2008_Scientific_Realism_and_the_Rationality_of_Science\, p. 66.

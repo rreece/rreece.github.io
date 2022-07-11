@@ -292,6 +292,7 @@ Viena Circle manifesto:
 -   Philosophy as a nursury for budding sciences.
 -   Callard, A. (2018). [How philosophy makes progress](https://dailynous.com/2018/05/27/how-philosophy-makes-progress-agnes-callard/).
 -   Priest, G. (2020). Philosophy and its history: An essay in the philosophy of philosophy. [^Priest2020]
+-   Bunge, M. (2012). *Evaluating Philosophies*. [^Bunge2012]
 
 Bunge:
 
@@ -315,6 +316,7 @@ See also:
 -   [Scientific progress](scientific-realism.html#scientific-progress)
 
 [^Bunge2001p10]: @Bunge_2001_Philosophy_in_Crisis_The_Need_for_Reconstruction\, p. 10.
+[^Bunge2012]: @Bunge_2012_Evaluating_Philosophies\.
 [^Priest2020]: @Priest_2020_Philosophy_and_its_history_An_essay\.
 
 
