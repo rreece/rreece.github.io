@@ -1368,12 +1368,14 @@ to the fermions, generating their bare masses.
 
 -   Georgi: Is the Higgs real? [^Georgi1999p280]
 -   Lyre, H. (2008). [Does the Higgs mechanism exist?](https://arxiv.org/abs/0806.1359) [^Lyre2008]
--   Cao, T.Y. (2016). The Englert-Brout-Higgs mechanism: An unfinished project. [^Cao2016]
 
 On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214) [^ATLAS2012]
 and [CMS](https://arxiv.org/abs/1207.7235) [^CMS2012]
 experiments both [announced discovering a new particle consistent with the long-sought-after Higgs boson](http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html),
 a key to explaining electroweak symmetry breaking in the Standard Model of particle physics.
+
+-   Cao, T.Y. (2016). The Englert-Brout-Higgs mechanism: An unfinished project. [^Cao2016]
+-   't Hooft, G. (2022). [A triumph for theory](https://cerncourier.com/a/a-triumph-for-theory/).
 
 [^ATLAS2012]: @ATLAS_2012_Observation_of_a_new_particle_in_the_search\.
 [^CMS2012]: @CMS_2012_Observation_of_a_new_boson_at_a_mass_of_125_GeV\.
@@ -1697,6 +1699,8 @@ Complexity and emergence
 -   Thermodynamics, statistical mechanics, renormalization.
 -   Anderson, P.W. (1972). More is different. [^Anderson1972]
 -   Bedau, M.A. (1997). Weak emergence. [^Bedau1997]
+-   Bunge, M. (2001). *Philosophy in Crisis: The Need for Reconstruction*.
+    -   Emergence [^Bunge2001p72]
 -   DeDeo, S. (2012). Video: [Lecture 1: Coarse-graining, renormalization & universality](https://www.youtube.com/watch?v=nqbWVoZVOfQ).
 -   Lisi, A.G. (2017). [Emergence](https://www.edge.org/response-detail/27149). [^Lisi2017]
 -   Bain
@@ -1727,6 +1731,7 @@ See also:
 [^Anderson1972]: @Anderson_1972_More_is_different\.
 [^Anderson1972p393]: @Anderson_1972_More_is_different\, p. 393.
 [^Bedau1997]: @Bedau_1997_Weak_emergence\.
+[^Bunge2001p72]: @Bunge_2001_Philosophy_in_Crisis_The_Need_for_Reconstruction\, p. 72.
 [^Lisi2017]: @Lisi_2017_Emergence\.
 
 

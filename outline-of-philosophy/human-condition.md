@@ -2131,6 +2131,9 @@ _Psychology_
 -   Epicurus
 -   Lucretius
 -   Sam Harris
+-   Mahner, M. & Bunge, M. (1996). [Is religious education compatible with science education?](https://www.hpsst.com/uploads/6/2/9/3/62931075/bunge___mahner__1996__sc.___religion.pdf) [^Mahner1996]
+
+[^Mahner1996]: @Mahner_1996_Is_religious_education_compatible_with_science\.
 
 
 Existentialism
