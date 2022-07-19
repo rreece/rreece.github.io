@@ -1493,7 +1493,7 @@ Other stuff:
 
 See also:
 
--   [Buddhism and Stoicism](#buddhism-and-stoicism) in the section on [Comparitive studies](#comparitive-studies)
+-   [Buddhism and Stoicism](#buddhism-and-stoicism) in the section on [Comparative studies](#comparitive-studies)
 -   [Cognitive behavioral therapy](#cognitive-behavioral-therapy) in the section on [psychology](#psychology)
 
 
@@ -1593,7 +1593,7 @@ Romanticism
     -   [Nobel savage](https://en.wikipedia.org/wiki/Noble_savage)
 -   [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) (1712-1778)
 -   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
-    -   See: [Comparitive studies](#comparitive-studies)
+    -   See: [Comparative studies](#comparitive-studies)
 -   [*Sturm und Drang*](https://en.wikipedia.org/wiki/Sturm_und_Drang) - "Storm and Drive"
     -   Proto-romantic movement in German literature and music that occurred between the late 1760s through the early 1780s.
     -   [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) (1749-1832)
@@ -1650,7 +1650,7 @@ See also:
 [^Mitchell1969]: Joni Mitchell. (1969). Song: "Both sides now" on the album *Clouds*.
 
 
-Comparitive studies
+Comparative studies
 --------------------------------------------------------------------------------
 
 ### Introduction
@@ -1757,6 +1757,7 @@ Comparitive studies
     -   *The Perennial Philosophy* (1945) [^Huxley1945]
 -   [Simone Weil](https://en.wikipedia.org/wiki/Simone_Weil) (1909-1943)
 -   [Joseph Campbell](https://en.wikipedia.org/wiki/Joseph_Campbell) (1904-1987)
+    -   *The Hero with a Thousand Faces* (1949)
 -   [Perennial philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy)
 -   [Syncretism](https://en.wikipedia.org/wiki/Syncretism)
 

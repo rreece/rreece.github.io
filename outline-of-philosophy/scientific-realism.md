@@ -168,7 +168,7 @@ Schr&ouml;dinger quoting Schopenhauer:
 ### Contemporary skepticism
 
 -   Contemporary skepticism [^Pritchard2004]
--   Challenges to metaphysical realism [^Khlentzos2011].
+-   Khlentzos, D. (2011). [Challenges to metaphysical realism](http://plato.stanford.edu/entries/realism-sem-challenge/). *SEP*. [^Khlentzos2011]
 -   Putnam Brain in a vat [^Putnam1981pX]
 -   Chalmers, D. (2003). The Matrix as metaphysics. [^Chalmers2003]
 -   Bostrom - The Simulation Argument
@@ -391,7 +391,7 @@ The primary dichotomy of positions is between forms of scientific realism and in
 
 ![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
 
--   Khlentzos [^Khlentzos2011-2]
+-   Khlentzos, D. (2011). [Challenges to metaphysical realism](http://plato.stanford.edu/entries/realism-sem-challenge/). *SEP*. [^Khlentzos2011-2]
 -   *Resisting Scientific Realism* [^Wray2018]
 -   The problem of induction. See also: [The problem of induction](scientific-method.html#problem-of-induction)
 -   Instrumentalism
@@ -901,6 +901,7 @@ Some more Carnap works:
 
 Discussion:
 
+-   Quine, W.V.O. (1960). Carnap and logical truth. [^Quine1960b]
 -   *The Philosophy of Rudolf Carnap* AKA the "Schilpp volume" [^Schilpp1963]
     -   Paul Arthur Schilpp (1897-1993)
 -   *The Cambridge Companion to Carnap* [^Friedman2007]
@@ -975,6 +976,7 @@ with strong contrasts to positivism that were developing around it:
 [^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
 [^Reichenbach1968]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\.
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
+[^Quine1960b]: @Quine_1960_Carnap_and_logical_truth\.
 [^Quine1990-3]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\, p. TODO.
 [^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 
@@ -1001,6 +1003,7 @@ Pragmatism
 -   John Dewey (1859-1952)
 -   Later work of Ludwig Wittgenstein (1889-1951)
 -   Willard Van Orman Quine (1908-2000)
+    -   Quine, W.V.O. (1936). Truth by convention. [^Quine1936]
 -   Wilfrid Sellars (1921-1989)
     -   Empiricism and the Philosophy of Mind (1956) [^Sellars1963]
     -   "The myth of the given"
@@ -1028,6 +1031,7 @@ Peirce:
 >   for as soon as a firm belief is reached we are entirely satisfied,
 >   whether the belief be false or true. [^Peirce1923p16]
 
+[^Quine1936]: @Quine_1946_Truth_by_convention\.
 [^Peirce1923p16]: @Peirce_1923_Chance_Love_and_Logic\.
 [^Sellars1963]: @Sellars_1963_Empiricism_and_philosophy_of_mind\.
 
@@ -1143,7 +1147,7 @@ Various reactions to positivism.
 >   it. [^WikipediaMetaphysics]
 
 -   Carnap's internal vs external questions, (ESO), again
--   Quine's "Two Dogmas of Empiricism" [^Quine1951-2]
+-   Quine, W.V.O. (1951). Two dogmas of empiricism.  [^Quine1951b]
     1.  Analytic/synthetic distinction
     2.  Reductionism (verification theory of meaning)
 -   Duhem-Quine thesis
@@ -1159,7 +1163,7 @@ Quine on our pale gray lore:
 >   stimulation of our sense organs. It is a pale grey lore, black with fact and
 >   white with convention. But I have found no substantial reasons for
 >   concluding that there are any quite black threads in it, or any white
->   ones. [^Quine1960p374]
+>   ones. [^Quine1960bp374]
 
 Carnap remained optimistic about his views of analyticity, intension,
 and meaning:
@@ -1180,14 +1184,16 @@ Feigl:
 >   languages. [^Feigl1956p7]
 
 -   Grice, H.P. & Strawson, P.F. (1956). In defense of a dogma. [^Grice1956]
--   *Word and Object* [^Quine1960]
+-   *Word and Object* [^Quine1960a]
     -   Inscrutability of reference
     -   Indeterminacy of translation
 -   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
+-   Schuldenfrei, R. (1972). Quine in perspective. [^Schuldenfrei1972]
 -   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986a]
 -   Quine-Carnap correspondence [^Quine1990-2]
 -   Putnam, H. (1973). Meaning and reference. [^Putnam1973]
 -   Field, H. (1974). Theory change and the indeterminacy of reference. [^Field1974]
+-   Quine, W.V.O. (1991). Two dogmas in retrospect. [^Quine1991]
 -   Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? [^Yablo1998]
 
 Nietzsche:
@@ -1206,6 +1212,8 @@ Nietzsche:
 >   a norm. [^NietzscheNotebook7]
 
 -   Winburn, A.P. & Clemmons, C.M.J. (2021). [Objectivity is a myth that harms the practice and diversity of forensic science](https://www.sciencedirect.com/science/article/pii/S2589871X21000668). [^Winburn2021]
+-   Warren, J. (2016). Internal and external questions revisited. [^Warren2016a]
+-   Warren, J. (2016). Revisiting Quine on truth by convention. [^Warren2016b]
 
 See also:
 
@@ -1218,12 +1226,16 @@ See also:
 [^Grice1956]: @Grice_1956_In_defense_of_a_dogma\.
 [^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
 [^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
-[^Quine1951-2]: @Quine_1951_Two_dogmas_of_empiricism\.
-[^Quine1960]: @Quine_1960_Word_and_Object\.
-[^Quine1960p374]: @Quine_1960_Carnap_and_logical_truth\, p. 374.
+[^Quine1951b]: @Quine_1951_Two_dogmas_of_empiricism\.
+[^Quine1960a]: @Quine_1960_Word_and_Object\.
+[^Quine1960bp374]: @Quine_1960_Carnap_and_logical_truth\, p. 374.
 [^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
 [^Quine1986a]: @Quine_1986_The_Philosophy_of_WVQuine\.
 [^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
+[^Quine1991]: @Quine_1991_Two_dogmas_in_retrospect\.
+[^Schuldenfrei1972]: @Schuldenfrei_1972_Quine_in_perspective\.
+[^Warren2016a]: @Warren_2016_Internal_and_external_questions_revisited\.
+[^Warren2016b]: @Warren_2016_Revisiting_Quine_on_truth_by_convention\.
 [^Winburn2021]: @Winburn_2021_Objectivity_is_a_myth_that_harms_the_practice\.
 [^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
 [^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
@@ -1540,6 +1552,7 @@ More:
 -   Redhead, M. (1975). Symmetry in intertheory relations. [^Redhead1975]
 -   Redhead, M. (2001). The intelligibility of the universe. [^Redhead2001]
 -   Sider, T. (2011). *Writing The Book of The World*. [^Sider2011]
+    -   Warren, J. (2016). Sider on the epistemology of structure. [^Warren2016c]
 -   Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. [^Ross2013a]
 -   Ladyman, J. (2019). Video: [Natural necessity is just the stuff for Ontic Structural Realism](https://www.youtube.com/watch?v=Ausi6Kt9CTE).
     -   Natural necessity and objective modality
@@ -1553,6 +1566,8 @@ More:
 [^Redhead2001]: @Redhead_2001_The_intelligibility_of_the_universe\.
 [^Ross2013a]: @Ross_2013_Scientific_Metaphysics\.
 [^Sider2011]: @Sider_2011_Writing_the_Book_of_the_World\.
+[^Warren2016c]: @Warren_2016_Sider_on_the_epistemology_of_structure\.
+
 
 ### Criticism
 

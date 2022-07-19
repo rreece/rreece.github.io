@@ -493,6 +493,7 @@ Free speech
 ### Copyright
 
 -   Muller, A.C. (2010). [Wikipedia and the matter of accountability](http://www.acmuller.net/wikipedia.html).
+-   Ferguson, K. (2015). Video: [Everything is a remix](https://www.youtube.com/watch?v=nJPERZDfyWc).
 
 
 Protests and (non-)violence

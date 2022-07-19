@@ -149,7 +149,7 @@ generally consists of varying degrees of either or both:
 Also:
 
 -   Methodological vs ontological naturalism
--   Jenkins [^Jenkins2016]
+-   Jenkins, C. (2016). Epistemological naturalisms. [^Jenkins2016]
 -   Sean Carroll: "There is *one* (natural) world."
 -   Prasetya, Y. (2021). Methodological naturalism and scientific success. [^Prasetya2021]
 
@@ -243,21 +243,13 @@ Sellars:
 >   certain aspects of theoretical linguistics. What is characteristic of
 >   philosophy is not a special subject-matter, but the aim of knowing one's
 >   way around with respect to the subject-matters of all the special
->   disciplines. [^SellarsTODO]
+>   disciplines. [^Sellars1963p2]
 
-Bunge:
-
->   I believe that a philosophy is spineless without ontology, confused without
->   semantics, acephalous without epistemology, deaf without ethics, paralytic
->   without social philosophy, and obsolete without scientific support---and no
->   philosophy at all with neither. [^Bunge2010pxi]
-
-[^Bunge2010pxi]: @Bunge_2010_Mind_and_Matter_A_Philosophical_Inquiry\, p. xi.
 [^Costa2012]: @Costa_2012_Philosophy_as_a_protoscience\.
 [^Descartes1644pxxiv]: @Descartes_1982_Principles_of_Philosophy\, p. xxiv.
 [^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
 [^Lugg2006]: @Lugg_2006_Russell_as_a_precursor_of_Quine\.
-[^SellarsTODO]: TODO.
+[^Sellars1963p2]: @Sellars_1963_Science_Perception_and_Reality\, p. 2.
 
 
 ### Consilience
@@ -281,6 +273,14 @@ Viena Circle manifesto:
 >   from the slag of historical languages; and also the search for a total system of
 >   concepts. [^VCManifesto1929s2]
 
+Bunge:
+
+>   I believe that a philosophy is spineless without ontology, confused without
+>   semantics, acephalous without epistemology, deaf without ethics, paralytic
+>   without social philosophy, and obsolete without scientific support---and no
+>   philosophy at all with neither. [^Bunge2010pxi]
+
+[^Bunge2010pxi]: @Bunge_2010_Mind_and_Matter_A_Philosophical_Inquiry\, p. xi.
 [^VCManifesto1929s2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect; 2.
 [^Wilson1998]: @Wilson_1998_Consilience_The_Unity_of_Knowledge\.
 
@@ -290,9 +290,9 @@ Viena Circle manifesto:
 -   Does philosophy make any progress?
 -   Does science make any progress?
 -   Philosophy as a nursury for budding sciences.
+-   Bunge, M. (2012). *Evaluating Philosophies*. [^Bunge2012]
 -   Callard, A. (2018). [How philosophy makes progress](https://dailynous.com/2018/05/27/how-philosophy-makes-progress-agnes-callard/).
 -   Priest, G. (2020). Philosophy and its history: An essay in the philosophy of philosophy. [^Priest2020]
--   Bunge, M. (2012). *Evaluating Philosophies*. [^Bunge2012]
 
 Bunge:
 
@@ -360,7 +360,8 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
     -   G.W.F. Hegel (1770-1831)
     -   Martin Heidegger (1889-1976)
     -   Criticism of Kant
-    -   Berlin, I. (1973). "The Counter-Enlightenment".
+    -   Berlin, I. (1973). The Counter-Enlightenment.
+    -   Parekh, B. (2006). *Rethinking Multiculturalism: Cultural Diversity and Political Theory*. [^Parekh2006]
 -   Cassirer-Heidegger debate
     -   Heidegger, M. (1929). What is metaphysics? [^Heidegger1929]
     -   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932b]
@@ -380,6 +381,7 @@ See also:
 [^Friedman2002]: @Friedman_2002_Carnap_Cassirer_and_Heidegger_The_Davos\.
 [^Gabriel2003]: @Gabriel_2003_Carnaps_Elimination_of_metaphysics_through\.
 [^Heidegger1929]: @Heidegger_1929_What_is_metaphysics\.
+[^Parekh2006]: @Parekh_2006_Rethinking_Multiculturalism_Cultural_Diversity\.
 
 
 ### Metaphysical naturalism
@@ -706,6 +708,7 @@ Schopenhauer:
 
 ### Honorific reinterpretation
 
+-   Mario Bunge
 -   Rosenberg, A. (2011).  *The Atheist's Guide to Reality*. [^Rosenberg2011AGR]
 -   Glymour, C. (2011). [Manifesto on positivism](https://web.archive.org/web/20190430005518/http://choiceandinference.com/2011/12/23/in-light-of-some-recent-discussion-over-at-new-apps-i-bring-you-clark-glymours-manifesto/).
     -   Nelson Goodman: "There are two kinds of people in the world: the logical positivists and the god-damned English professors."
@@ -831,6 +834,7 @@ See also:
 -   [Criticism](naturalism.html#criticism-1) of Reductionism
 -   [Criticism](naturalism.html#criticism-2) of Natural kinds
 -   [Criticism](naturalism.html#criticism-3) of Rejection of the supernatural
+-   [Naturalistic-fallacy](ethics.html#naturalistic-fallacy)
 
 [^CanizaresEsguerra2022]: @Canizares_Esguerra_2022_Rethinking_the_Western_revolution_in_science\.
 [^Garfield2016a]: @Garfield_2016_If_philosophy_wont_diversify_lets_call_it_what\.

@@ -355,11 +355,13 @@ See also:
 -   In second-order logic, it is possible to define the addition and
     multiplication operations from the successor operation, but this
     cannot be done in the more restrictive setting of first-order logic.
+-   Awodey, S. & Forssell, H. (2013). First-order logical duality. [^Awodey2013]
 
 See also:
 
 -   [Number theory](#number-theory)
 
+[^Awodey2013]: @Awodey_2013_First_order_logical_duality\.
 [^Ewald2018]: @Ewald_2018_The_emergence_of_first_order_logic\.
 
 
@@ -1052,6 +1054,9 @@ Structuralism
 --------------------------------------------------------------------------------
 
 -   Realist
+-   Awodey, S. (2014). Structuralism, invariance, and univalence. [^Awodey2014]
+
+[^Awodey2014]: @Awodey_2014_Structuralism_invariance_and_univalence\.
 
 
 Naturalism

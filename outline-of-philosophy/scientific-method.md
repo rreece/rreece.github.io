@@ -492,22 +492,22 @@ Hume:
 
 Table: Kant's division of judgments. {#tbl:kants-division-of-judgements}
 
-|                   | analytic                  |         |  synthetic             |
-|:------------------|:--------------------------|---------|:-----------------------|
-| **a priori**      | True by definition        |         | Kant's transcendental  |
-|                   | Hume's relations of ideas |         | ?                      |
-|                   |                           |         |                        |
-|                   |                           |         |                        |
-|                   |                           |         |                        |
-| **a posteriori**  | Impossible                |         | Empirical              |
-|                   |                           |         | Hume's matters of fact |
+|                   | analytic                   |         |  synthetic                |
+|:------------------|:---------------------------|---------|:--------------------------|
+| **a priori**      | True by definition,        |         | Kant's transcendental?    |
+|                   | Hume's relations of ideas  |         | Arithmetic propositions?  |
+|                   |                            |         |                           |
+|                   |                            |         |                           |
+|                   |                            |         |                           |
+| **a posteriori**  | Impossible?                |         | Empirical,                |
+|                   |                            |         | Hume's matters of fact    |
 
 -   Kant
     -   *Critique of Pure Reason* (1781)
     -   Are there synthetic a priori statements? Kant thinks so.
     -   Kant argues that all of pure mathematics is synthetic a priori,
         even in the simple example "7 + 5 = 12", since the concept of
-        "12" is not contained in the concepts of "7", "5", or "+".
+        "12" is not contained in the concepts of "7", "5", or "+". [^Kant1787pB15]
     -   Transcendental Deduction of the Categories (TDC)
     -   [Twitter thread on the CPR by Helen De Cruz](https://twitter.com/Helenreflects/status/1459374260955320320) - ([threadreadered](https://threadreaderapp.com/thread/1459374260955320320.html))
 
@@ -577,6 +577,7 @@ See also:
     Section XII, p. 120.
 [^Kant1787pBviii]: @Kant_1996_Critique_of_Pure_Reason\, p. Bviii--ix\.
 [^Kant1787pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
+[^Kant1787pB15]: @Kant_1996_Critique_of_Pure_Reason\, p. B15--16\.
 [^Kant1787pB19]: @Kant_1996_Critique_of_Pure_Reason\, p. B19\.
 [^Moore1903p6]: @Moore_1903_The_refutation_of_idealism\, p. 6--7.
 
@@ -599,9 +600,9 @@ Carnap:
 >   **Theorem 52.3.** Every logical sentence is $L$-determinate;
 >   *there are no synthetic logical sentences*. [^Carnap1937LSLp184]
 
--   TODO: Note issues from G&ouml;del. [^Awodey2007]
--   Empiricism, semantics, and ontology [^Carnap1950a]
+-   Carnap, R. (1950). [Empiricism, semantics, and ontology](https://tu-dresden.de/gsw/phil/iphil/theor/ressourcen/dateien/braeuer/lehre/metameta/Carnap---EmpiricismSemanticsOntology.pdf). [^Carnap1950a]
     -   Internal vs external questions
+-   Awodey, S. & Carus, A.W. (2007). [Carnap's dream: G&ouml;del, Wittgenstein, and Logical Syntax](https://link.springer.com/content/pdf/10.1007/s11229-006-9066-4.pdf). [^Awodey2007]
 
 Kripke:
 
@@ -663,7 +664,7 @@ and
 >   advances along with the development of science? [^Norton2017]
 
 -   Norton, J.D. (2017). [Einstein on Kant](https://www.pitt.edu/~jdnorton/teaching/HPS_0410/chapters/significance_GR_geometry/Einstein_on_Kant.html).
--   Quine, W.V.O. (1951). Two dogmas of empiricism. [^Quine1951]
+-   Quine, W.V.O. (1951). Two dogmas of empiricism. [^Quine1951a]
 -   Quine, W.V.O. & Carnap, R. (1990). *Dear Carnap, Dear Van: The Quine-Carnap Correspondence and Related Work*. [^Quine1990]
 
 See also:
@@ -673,7 +674,7 @@ See also:
 
 [^Einstein1922pX]: @Einstein_1922_Geometry_and_Experience\, p. TODO.
 [^Norton2017]: @Norton_2017_Einstein_on_Kant\.
-[^Quine1951]: @Quine_1951_Two_dogmas_of_empiricism\.
+[^Quine1951a]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1990]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
 
 
@@ -964,7 +965,7 @@ Reichenbach:
 -   Bayesian updating
     -   See also: [Bayes' theorem](statistics.html#bayes-theorem)
     -   Aumann's agreement theorem [^Aumann1976]
--   Sankey [^Sankey2008p79]
+-   Sankey, H. (2008). *Scientific Realism and the Rationality of Science*. [^Sankey2008p79]
 -   Vickers, J.M. (2013). [Oxford Bibliography on Inductive Reasoning](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0171.xml).
 
 See also:
@@ -1002,7 +1003,7 @@ See also:
 ### Abduction
 
 -   Peirce
--   Douven [^Douven2011]
+-   Douven, I. (2011). [Abduction](http://plato.stanford.edu/entries/abduction/). *SEP*. [^Douven2011]
 -   Ockham, parsimony
 -   Karl Popper
 -   Inference to the best explanation 
