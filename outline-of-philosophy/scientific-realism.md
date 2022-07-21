@@ -91,7 +91,7 @@ Stealing from encyclopedia.com:
 ### Criticism
 
 -   Positivism
--   *Every Thing Must Go*
+-   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007b]
 
 See also:
 
@@ -100,6 +100,8 @@ See also:
     in the [Outline on naturalism](naturalism.html)
 -   [Other ways of knowing](naturalism.html#other-ways-of-knowing)
     in the [Outline on naturalism](naturalism.html)
+
+[^Ladyman2007b]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 
 
 Realism and antirealism
@@ -392,7 +394,7 @@ The primary dichotomy of positions is between forms of scientific realism and in
 ![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
 
 -   Khlentzos, D. (2011). [Challenges to metaphysical realism](http://plato.stanford.edu/entries/realism-sem-challenge/). *SEP*. [^Khlentzos2011-2]
--   *Resisting Scientific Realism* [^Wray2018]
+-   Wray, K.B. (2018). *Resisting Scientific Realism*. [^Wray2018]
 -   The problem of induction. See also: [The problem of induction](scientific-method.html#problem-of-induction)
 -   Instrumentalism
     -   Positivism; linguistic frameworks; principle of tolerance; verificationism
@@ -450,7 +452,7 @@ Also:
     e.g. Newtonian gravity is the correct low-energy limiting theory of general relativity.
     See: [Newtonian gravity](physics.html#newtonian-gravity).
 -   See also the discussion of [effective field theory](physics.html#effective-field-theory).
--   [Frost-Arnold, G. (2020). One way to test scientific realism. *Obscure and Confused Ideas* (blog).](http://obscureandconfused.blogspot.com/2020/08/one-way-to-test-scientific-realism.html)
+-   Frost-Arnold, G. (2020). [One way to test scientific realism](http://obscureandconfused.blogspot.com/2020/08/one-way-to-test-scientific-realism.html). *Obscure and Confused Ideas* (blog).
 
 Rovelli:
 
@@ -652,7 +654,7 @@ Schlick:
 Fetzer:
 
 >   From an historical perspective, logical positivism represents a linguistic
->   version of the empiricist epistemology of David Hume (1711--76).
+>   version of the empiricist epistemology of David Hume (1711-76).
 >   It refines his crucial distinctions of "relations between ideas"
 >   and "matters of fact" by redefining them relative to a language $L$
 >   as sentences that are analytic-in-$L$ and synthetic-in-$L$, respectively.
@@ -782,7 +784,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 
 #### Emile Durkheim
 
--   [&Eacute;mile Durkheim](https://en.wikipedia.org/wiki/%C3%89mile_Durkheim) (1858--1917)
+-   [&Eacute;mile Durkheim](https://en.wikipedia.org/wiki/%C3%89mile_Durkheim) (1858-1917)
 -   Modern sociology
 -   Houghton, T. (2011). [Does positivism really 'work' in the social sciences?](https://www.e-ir.info/2011/09/26/does-positivism-really-%E2%80%98work%E2%80%99-in-the-social-sciences/) [^Houghton2011]
 
@@ -844,9 +846,9 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 
 TODO: Note any differences between:
 
--   positivism - Comte, Mach
--   logical positivism - Vienna Circle
--   logical empiricism - Reichenbach's preferred term [^Reichenbach]
+-   Positivism - Comte, Mach
+-   Logical positivism - Vienna Circle
+-   Logical empiricism - Reichenbach's preferred term [^Reichenbach]
 
 Reichenbach on probability:
 
@@ -870,10 +872,14 @@ Reichenbach on probability:
 -   TODO: Quine on how huge Carnap's influence is. [^Quine1990-3]
 -   TODO: Positivism affects the structure of education and law
 -   TODO: Connection to the projects of Dewey and pragmatism
--    "Positivism and progress" in Solvay 2011 Proceedings [^Heilbron2013]
+-   "Positivism and progress" in Solvay 2011 Proceedings [^Heilbron2013]
+-   Verhaegh, S. (2019). The American reception of logical positivism: First encounters (1929-1932). [^Verhaegh2019]
+-   Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. [^Verhaegh2020]
 -   [Proof of knowledge](https://en.wikipedia.org/wiki/Proof_of_knowledge) (cryptography)
 
 [^Heilbron2013]: @Heilbron_2013_The_first_Solvay_council_A_sort_of_private\, p. 5.
+[^Verhaegh2019]: @Verhaegh_2019_The_American_reception_of_logical_positivism\.
+[^Verhaegh2020]: @Verhaegh_2020_Coming_to_America_Carnap_Reichenbach\.
 
 
 #### Carnap on language and ontology
@@ -944,6 +950,7 @@ and
 
 Reichenbach:
 
+-   *Experience and Prediction* (1938) [^Reichenbach1938]
 -   *The Rise of Scientific Philosophy* (1951) [^Reichenbach1968]
 
 Also:
@@ -975,6 +982,7 @@ with strong contrasts to positivism that were developing around it:
 [^Leitgeb2020G]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement G: Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html).
 [^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
 [^Reichenbach1968]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\.
+[^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction\.
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 [^Quine1960b]: @Quine_1960_Carnap_and_logical_truth\.
 [^Quine1990-3]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\, p. TODO.
@@ -1011,7 +1019,7 @@ Pragmatism
     -   Critic of foundationalist epistemology
     -   Sheff, N. (2021). [Wilfrid Sellars, sensory experience and the 'Myth of the Given'](https://psyche.co/ideas/wilfrid-sellars-sensory-experience-and-the-myth-of-the-given).
 -   Richard Rorty (1931-2007)
-    -   *The Linguistic Turn* (1967)
+    -   *The Linguistic Turn* (1967) [^Rorty1967]
     -   *Philosophy and the Mirror of Nature* (1979)
     -   Rejection of the representationalist account of knowledge; mirror of nature.
     -   Ironism
@@ -1031,8 +1039,9 @@ Peirce:
 >   for as soon as a firm belief is reached we are entirely satisfied,
 >   whether the belief be false or true. [^Peirce1923p16]
 
-[^Quine1936]: @Quine_1946_Truth_by_convention\.
+[^Quine1936]: @Quine_1936_Truth_by_convention\.
 [^Peirce1923p16]: @Peirce_1923_Chance_Love_and_Logic\.
+[^Rorty1967]: @Rorty_1967_The_Linguist_Turn_Recent_Essays_in_Philosophical\.
 [^Sellars1963]: @Sellars_1963_Empiricism_and_philosophy_of_mind\.
 
 
@@ -1542,7 +1551,7 @@ Poincar&eacute;:
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)
--   Ladyman, J., Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007b]
+-   Ladyman, J., Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007c]
     -   Polemic against metaphysics.
     -   Rainforest realism: Scale-relative ontology
 -   Frigg, R. & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask. [^Frigg2011]
@@ -1560,7 +1569,7 @@ More:
 
 [^Dennett1991a]: @Dennett_1991_Real_patterns\.
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
-[^Ladyman2007b]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Ladyman2007c]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Poincare1913p347]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 347--8.
 [^Redhead1975]: @Redhead_1975_Symmetry_in_intertheory_relations\.
 [^Redhead2001]: @Redhead_2001_The_intelligibility_of_the_universe\.

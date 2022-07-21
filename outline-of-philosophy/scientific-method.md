@@ -492,15 +492,15 @@ Hume:
 
 Table: Kant's division of judgments. {#tbl:kants-division-of-judgements}
 
-|                   | analytic                   |         |  synthetic                |
-|:------------------|:---------------------------|---------|:--------------------------|
-| **a priori**      | True by definition,        |         | Kant's transcendental?    |
-|                   | Hume's relations of ideas  |         | Arithmetic propositions?  |
-|                   |                            |         |                           |
-|                   |                            |         |                           |
-|                   |                            |         |                           |
-| **a posteriori**  | Impossible?                |         | Empirical,                |
-|                   |                            |         | Hume's matters of fact    |
+|                   | analytic                   |         |  synthetic                       |
+|:------------------|:---------------------------|---------|:---------------------------------|
+| **a priori**      | True by definition,        |         | Kant: Arithmetic propositions?   |
+|                   | Hume's relations of ideas  |         | Kant: Transcendental deduction?  |
+|                   |                            |         |                                  |
+|                   |                            |         |                                  |
+|                   |                            |         |                                  |
+| **a posteriori**  | Impossible?                |         | Empirical,                       |
+|                   |                            |         | Hume's matters of fact           |
 
 -   Kant
     -   *Critique of Pure Reason* (1781)
@@ -509,6 +509,7 @@ Table: Kant's division of judgments. {#tbl:kants-division-of-judgements}
         even in the simple example "7 + 5 = 12", since the concept of
         "12" is not contained in the concepts of "7", "5", or "+". [^Kant1787pB15]
     -   Transcendental Deduction of the Categories (TDC)
+    -   "No analysis without prior synthesis"
     -   [Twitter thread on the CPR by Helen De Cruz](https://twitter.com/Helenreflects/status/1459374260955320320) - ([threadreadered](https://threadreaderapp.com/thread/1459374260955320320.html))
 
 Kant in his *Critique of Pure Reason* (1787):
@@ -684,10 +685,10 @@ See also:
     -   relationship to necessity and contingency
     -   Kripke
 -   Hintikka
--   de Swart
--   Gillian Russell [^Russell2008]
--   Cory Juhl [^Juhl2009]
--   Weatherson [^Weatherson2017]
+-   Russell, G. (2008). *Truth in Virtue of Meaning: A defence of the analytic/synthetic distinction*. [^Russell2008]
+-   Juhl, C. & Loomis, E. (2009). *Analyticity*. [^Juhl2009]
+-   Weatherson, B. (2017). Analytic-synthetic and a priori-a posteriori. [^Weatherson2017]
+-   de Swart, H. (2018). *Philosophical and Mathematical Logic*. [^deSwart2018]
 -   TODO: How much of this should be moved to the 
     longer discussion of the [Attack on the analytic/synthetic distinction](scientific-realism.html#attack-on-the-analyticsynthetic-distinction)
     in the section on [Postpositivism](scientific-realism.html#positivism)?
@@ -714,6 +715,7 @@ Gillian Russell:
 >   which---being based on a better theory of meaning---admits of a more
 >   robust defence. [^Russell2008pxi]
 
+[^deSwart2018]: @deSwart_2018_Philosophical_and_Mathematical_Logic\.
 [^deSwart2018p141]: @deSwart_2018_Philosophical_and_Mathematical_Logic\, p. 141--2.
 [^Juhl2009]: @Juhl_2009_Analyticity\.
 [^Russell2008]: @Russell_2008_Truth_in_Virtue_of_Meaning_A_defence\.
@@ -1518,7 +1520,7 @@ The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*. Russel
 #### Gettier cases
 
 -   Knowledge = JTB - G
--   Gettier (1963) [^Gettier1963]
+-   Gettier, E.L. (1963). Is justified true belief knowledge? [^Gettier1963]
 -   Clark, M. (1963). Knowledge and grounds: A comment on Mr. Gettier's paper. [^Clark1963]
 
 [^Clark1963]: @Clark_1963_Knowledge_and_grounds_A_comment_on_MrGettiers\.
@@ -1589,7 +1591,6 @@ Pseudoscience
 
 ### Bullshit
 
--   TODO
 -   [James Ladyman on Pseudoscience and Bullshit](https://www.youtube.com/watch?v=32ZaTKa2IRg)
 -   Smith, N. (2022). [The two paper rule](https://noahpinion.substack.com/p/the-two-paper-rule).
 
@@ -1776,6 +1777,7 @@ Click to show links
 -   [Kant, Immanuel (1724-1804)](http://plato.stanford.edu/entries/kant/)
 -   [Kant's account of reason](http://plato.stanford.edu/entries/kant-reason/)
 -   [Kant's critique of metaphysics](http://plato.stanford.edu/entries/kant-metaphysics/)
+-   [Kant's transcendental arguments](https://plato.stanford.edu/entries/kant-transcendental/)
 -   [Laws of nature](http://plato.stanford.edu/entries/laws-of-nature/)
 -   [Leibniz, Gottfried Wilhelm (1646-1716)](http://plato.stanford.edu/entries/leibniz/)
 -   [Leibniz's influence on Kant](https://plato.stanford.edu/entries/kant-leibniz/)

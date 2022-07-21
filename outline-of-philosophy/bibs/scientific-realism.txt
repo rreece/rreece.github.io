@@ -65,6 +65,7 @@ Redhead, M. (1999). Quantum field theory and the philosopher. In Cao, T.Y. (Ed.)
 Redhead, M. (2001). The intelligibility of the universe. *Royal Institute of Philosophy Supplements*, 48, 73--90.
 Reichenbach, H. (1968). *The Rise of Scientific Philosophy*. University of California Press. [(Originally published in 1951)]
 Richter, D.J. (2004). Ludwig Wittgenstein. *International Encyclopedia of Philosophy*. https://iep.utm.edu/wittgens/
+Rorty, R. (1967). *The Linguist Turn: Recent Essays in Philosophical Method*. University of Chicago Press.
 #Rorty, R. (1991). Wittgenstein, Heidegger, and the reification of language. In *Essays on Heidegger and Others* (pp. 50--65). Cambridge University Press.
 Rorty, R. (1993). Wittgenstein, Heidegger, and the reification of language. In Guignonn, C.B. (Ed.) *The Cambridge Companion to Heidegger* (pp. 337--357). Cambridge University Press.
 Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. Oxford University Press.
@@ -85,6 +86,8 @@ Swartz, N. (2009). Laws of nature. *International Encyclopedia of Philosophy*. h
 Torretti, R. (1999). *The Philosophy of Physics*. Cambridge University Press.
 van Fraassen, B. (1980). *The Scientific Image*. Oxford University Press.
 van Inwagen, P. (2014). Metaphysics. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/metaphysics/
+Verhaegh, S. (2019). The American reception of logical positivism: First encounters (1929-1932). *HOPOS: The Journal of the International Society for the History of Philosophy of Science*, 10, 106--142.
+Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. *Journal for the History of Analytical Philosophy*, 8, 1--47. https://jhaponline.org/jhap/article/view/4364
 Warren, J. (2016). Internal and external questions revisited. *The Journal of Philosophy*, 113, 177--209. 
 Warren, J. (2016). Revisiting Quine on truth by convention. *Journal of Philosophical Logic*, 46, 119--139.
 Warren, J. (2016). Sider on the epistemology of structure. *Philosophical Studies*, 173, 2417--2435.
