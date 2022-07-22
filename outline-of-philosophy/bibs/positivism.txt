@@ -1,3 +1,4 @@
+Awodey, S. & Klein, C. (2004). *Carnap Brought Home: The View from Jena*. Open Court.
 Ayer, A. J. (1952). *Language, truth and logic* (2 ed.). Dover Publications. [(Originally published in 1946)]
 Blumberg, A.E. & Feigl, H. (1931). Logical positivism: A new movement in European philosophy. *The Journal of Philosophy*, 28(11), 281.
 #Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. *Erkenntnis*, 2. https://philpapers.org/archive/TEO.pdf
@@ -11,6 +12,7 @@ Carnap, R. (1937). *Logical Syntax of Language*. Kegan Paul, Trench, Trubner & C
 Carnap, R. (2003). *The Logical Structure of the World* (R.A. George, Trans.). Chicago: Open Court. [(Originally published in 1928 as \emph{Der logische Aufbau der Welt})]
 Carnap, R. & Schilpp, P.A. (1963). *The Philosophy of Rudolf Carnap*. Open Court. http://fitelson.org/confirmation/carnap_schilpp_volume.pdf
 Creathe, R. (2011). Logical empiricism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/logical-empiricism/
+Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. Princeton University Press.
 Feigl, H. (1956). Some major issues and developments in the philosophy of science of logical empiricism. In H. Feigl & M. Scriven (eds.), *The Foundations of Science and the Concepts of Psychology and Psychoanalysis*, (pp. 3--37). Minneapolis: University of Minnesota Press.
 Feigl, H. (1981). The origin and spirit of logical positivism. *Inquiries and Provocations*, 21--37.
 Fowler, S. (2010). LSL in a nutshell. https://philarchive.org/archive/FOWLIA

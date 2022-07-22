@@ -9,7 +9,8 @@ from science, while the
 [Outline on the scientific method](scientific-method.html)
 discusses the epistemological foundations and limitations of science.
 
-This could have been called the outline of "Metaphysics".
+This could have been called the outline of "Metaphysics" or
+"The realism debate".
 
 
 <!-- PAGETOC -->
@@ -820,7 +821,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   *International Encyclopedia of Unified Science*
     -   Only the first volume of *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
 -   Schlick, M. (1925). *General Theory of Knowledge*. [^Schlick1974]
--   Schlick, M. & Rynin, D. (1948). Positivism and realism. [^Schlick1948]
+-   Schlick, M. & Rynin, D. (1948). Positivism and realism. (Originally published in 1933). [^Schlick1948]
 -   The murder of Schlick in 1936 by a former student put an end to the Vienna Circle in Austria.
 -   Stadler. F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. [^Stadler2015]
 -   Cat, J. (2017). [How Viennese scientists fought the dogma, propaganda and prejudice of the 1930s](https://www.nature.com/articles/d41586-017-07819-z) - Review of Sigmund, K. (2017). *Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science*.
@@ -961,12 +962,6 @@ Also:
 -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007pX]
 -   Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
 
-Later we will discuss [postpositivism](#postpositivism), which refers to
-a collection of reactions to the movement of positivism.
-But first, we will examine two other important movements in philosophy
-with strong contrasts to positivism that were developing around it:
-[pragmatism](#pragmatism) and [postmodernism](#postmodernism).
-
 [^Carnap1936]: @Carnap_1936_Testability_and_meaning\.
 [^Carnap1937]: @Carnap_1937_Testability_and_meaning_continued\.
 [^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
@@ -987,6 +982,332 @@ with strong contrasts to positivism that were developing around it:
 [^Quine1960b]: @Quine_1960_Carnap_and_logical_truth\.
 [^Quine1990-3]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\, p. TODO.
 [^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
+
+
+Postpositivism
+--------------------------------------------------------------------------------
+
+### Introduction
+
+Various reactions to positivism.
+
+-   Karl Popper (1902-1994)
+    -   [Critical rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
+    -   *The Myth of the Framework* (1994)
+-   Willard Van Orman Quine (1908-2000)
+-   Thomas Kuhn (1922-1996)
+-   Imre Lakatos (1922-1974)
+-   Hilary Putnam (1926-2016)
+-   Nancy Cartwright (b. 1944)
+-   TODO: Khanna [^Khanna2018]
+-   de Swart [^deSwart2018p351]
+
+[^deSwart2018p351]: @deSwart_2018_Philosophical_and_Mathematical_Logic\, p. 351--3.
+[^Khanna2018]: @Khanna_2018_Positivism_and_realism\.
+
+
+### Attack on the analytic/synthetic distinction
+
+>   Among the developments that led to the revival of metaphysical theorizing
+>   were Quine's attack on the analytic/synthetic distinction, which was
+>   generally taken to undermine Carnap's distinction between existence
+>   questions internal to a framework and those external to
+>   it. [^WikipediaMetaphysics]
+
+-   Carnap's internal vs external questions, (ESO), again
+-   Quine, W.V.O. (1951). Two dogmas of empiricism.  [^Quine1951b]
+    1.  Analytic/synthetic distinction
+    2.  Reductionism (verification theory of meaning)
+-   Duhem-Quine thesis
+    -   Claims that a hypothesis can never be tested in isolation.
+    -   Confirmation holism
+    -   Web of belief
+
+Quine on our pale gray lore:
+
+>   The lore of our fathers is a fabric of sentences. In our hands it develops
+>   and changes, through more or less arbitrary and deliberate revisions and
+>   additions of our own, more or less directly occasioned by the continuing
+>   stimulation of our sense organs. It is a pale grey lore, black with fact and
+>   white with convention. But I have found no substantial reasons for
+>   concluding that there are any quite black threads in it, or any white
+>   ones. [^Quine1960bp374]
+
+Carnap remained optimistic about his views of analyticity, intension,
+and meaning:
+
+>   Bar-Hillel points out that the semantical theory of meaning developed
+>   recently by logicians is free of these drawbacks. He appeals to the
+>   linguists to construct in an analogous way the theory of meaning needed
+>   in their empirical investigations. The present paper indicates the
+>   possibility of such a construction. The fact that the concept of
+>   intension can be applied even to a robot shows that it does not have
+>   the psychologistic character of the traditional concept of meaning. [^Carnap1955p46]
+
+Feigl:
+
+>   The revolt against the dualism of the analytic and the synthetic rests
+>   on a confusion of the logical analysis of (artificially fixed) languages
+>   with the historical investigation of (growing, shifting natural)
+>   languages. [^Feigl1956p7]
+
+-   Grice, H.P. & Strawson, P.F. (1956). In defense of a dogma. [^Grice1956]
+-   Quine, W.V.O. (1960). *Word and Object*. [^Quine1960a]
+    -   Inscrutability of reference
+    -   Indeterminacy of translation
+-   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
+-   Schuldenfrei, R. (1972). Quine in perspective. [^Schuldenfrei1972]
+-   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986a]
+-   Quine-Carnap correspondence [^Quine1990-2]
+-   Putnam, H. (1973). Meaning and reference. [^Putnam1973]
+-   Field, H. (1974). Theory change and the indeterminacy of reference. [^Field1974]
+-   Quine, W.V.O. (1991). Two dogmas in retrospect. [^Quine1991]
+-   Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? [^Yablo1998]
+
+Nietzsche:
+
+>   Against positivism, which would stand by the position "There are only facts",
+>   I would say: no, there are precisely no facts, only interpretations.
+>   We can establish no fact "in itself": it is perhaps nonsense to want
+>   such a thing. You say "Everything is subjective": but that is already
+>   an interpretation, the "subject" is not anything given, but something
+>   invented and added, something stuck behind... To the extent that
+>   the word "knowledge" [*Erkenntnis*] has any sense, the world is knowable:
+>   but it is interpretable differently, it has no sense behind it, but
+>   innumerable senses, "perspectivism". It is our needs that interpret the
+>   world: our drives and their to and fro. Every drive is a kind of domination,
+>   every one has its perspective, which it would force on all other drives as
+>   a norm. [^NietzscheNotebook7]
+
+-   Winburn, A.P. & Clemmons, C.M.J. (2021). [Objectivity is a myth that harms the practice and diversity of forensic science](https://www.sciencedirect.com/science/article/pii/S2589871X21000668). [^Winburn2021]
+-   Warren, J. (2016). Internal and external questions revisited. [^Warren2016a]
+-   Warren, J. (2016). Revisiting Quine on truth by convention. [^Warren2016b]
+
+See also:
+
+-   The introduction to the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
+    in the [Outline on the scientific method](scientific-method.html).
+
+[^Carnap1955p46]: @Carnap_1955_Meaning_and_synonymy_in_natural_languages\, p. 46--47, footnote 7.
+[^Feigl1956p7]: @Feigl_1956_Some_major_issues_and_developments\, p. 7--8.
+[^Field1974]: @Field_1974_Theory_change_and_the_indeterminacy_of_reference\.
+[^Grice1956]: @Grice_1956_In_defense_of_a_dogma\.
+[^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
+[^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
+[^Quine1951b]: @Quine_1951_Two_dogmas_of_empiricism\.
+[^Quine1960a]: @Quine_1960_Word_and_Object\.
+[^Quine1960bp374]: @Quine_1960_Carnap_and_logical_truth\, p. 374.
+[^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
+[^Quine1986a]: @Quine_1986_The_Philosophy_of_WVQuine\.
+[^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
+[^Quine1991]: @Quine_1991_Two_dogmas_in_retrospect\.
+[^Schuldenfrei1972]: @Schuldenfrei_1972_Quine_in_perspective\.
+[^Warren2016a]: @Warren_2016_Internal_and_external_questions_revisited\.
+[^Warren2016b]: @Warren_2016_Revisiting_Quine_on_truth_by_convention\.
+[^Winburn2021]: @Winburn_2021_Objectivity_is_a_myth_that_harms_the_practice\.
+[^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
+[^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
+
+
+### Theory change
+
+-   Poincar&eacute;
+-   Thomas Kuhn (1922-1996)
+    -   Paradigm shifts
+    -   Normal science and revolutionary science
+    -   Incommensurability
+    -   Sankey [^Sankey1997]
+-   Imre Lakatos (1922-1974)
+    -   Scientific research programmes
+-   Larry  Laudan (b. 1941)
+    -   Scientific research traditions
+    -   Pessimistic meta-induction (PMI)
+    -   Science cannot be value free
+-   Paul Feyerabend (1924-1994)
+    -   Epistemological anarchism
+
+[^Sankey1997]: @Sankey_1997_Rationality_Relativism_and_Incommensurability\.
+
+
+### Ordinary language philosophy
+
+-   Late Wittgenstein
+-   *Philosophical Investigations* [^Wittgenstein2009]
+-   Instrumentalist and pragmatist
+-   An important project is to understand the differences between early (*TLP*)
+    and late (*PI*) Wittgenstein. It is quite the about-face.
+    -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
+    -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
+
+-   PI:
+    -   Duck-rabbit; "seeing that" vs "seeing as"
+-   Rorty
+    -   Wittgenstein, Heidegger, and the reification of language.
+    -   "Obsession with this image of something deeply hidden" [^Rorty1993p347]
+-   Cavell
+    -   *Must We Mean What We Say?* (1969) [^Cavell2015]
+-   Video: Sugrue, M. (1992). [The Latter Wittgenstein: The Philosophy of Language](https://www.youtube.com/watch?v=X7Rb56kZQSk).
+
+Wittgenstein in *PI*:
+
+>   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
+
+TODO: find ref of above quote.
+
+See also:
+
+-   [Natural language processing](statistics.html#natural-language-processing)
+-   [Word meanings](statistics.html#word-meanings)
+
+[^Cavell2015]: @Cavell_2015_Must_We_Mean_What_We_Say\.
+[^Rorty1993p347]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\, p. 347.
+[^Wittgenstein2009]: @Wittgenstein_2009_Philosophical_Investigations\.
+
+
+### The "death" of positivism
+
+-   Anti-positivism, Kuhn, Popper
+-   post-structuralism, postmodernism (continental)
+-   In 1967 John Passmore reported that: "Logical positivism, then,
+    is dead, or as dead as a philosophical movement ever becomes." [^Passmore1967]
+-   Ayer, A.J. 
+-   Hemple (1950) [^Hemple1950]
+-   Suppe (2000): Death of positivism was a talk by Carl Hempel on March 26, 1969. [^Suppe2000]
+    -   "Formulation and formalization of scientific theories" [^Hempel1974]
+    -   Clarke & Primo (2004) [^Clarke2004]
+-   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
+-   Awodey, S. & Klein, C. (2004). *Carnap Brought Home: The View from Jena*. [^Awodey2004]
+-   Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. [^Edmonds2020]
+
+Clarke & Primo:
+
+>   Following Suppe (2000), we date the demise of logical positivism to
+>   March 26, 1969---opening night of the Illinois Symposium on the
+>   Structure of Scientific Theories. [^Clarke2004]
+
+Ayer:
+
+>   The most important defect was that nearly all of it was false. [^Ayer1978]
+
+Much ado is made about positivism being "dead", but its influence is still
+promenent over philosophy and the structure of societies.
+
+Friedman:
+
+>   Carnap's influence, in particular, also extended much further: to the
+>   widespread application of logical and mathematical methods to philosophical
+>   problems more generally, especially in semantics and the philosophy of
+>   language. Indeed, as is well known, the ideas of the logical positivists
+>   exerted a very substantial influence well beyond the boundaries of
+>   professional philosophy, particularly in psychology and the social sciences.
+>   It is not too much to say, therefore, that twentieth-century intellectual life
+>   would be simply uncrecognizable without the deep and pervasive current of
+>   logical positivist thought. [^Friedman1999pxii]
+
+Bunge:
+
+>   Logical positivism was progressive compared with the classical positivism
+>   of Ptolemy, Hume, d'Alembert, Compte, John Stuart Mill, and Ernst Mach. It
+>   was even more so by comparison with its contemporary rivals---neo-Thomisism,
+>   neo-Kantianism, intuitionism, dialectical materialism, phenomenology, and
+>   existentialism. However, neo-positivism failed dismally to give a faithful
+>   account of science, whether natural or social. It failed because it
+>   remained anchored to sense-data and to a phenomenalist metaphysics,
+>   overrated the power of induction and underrated that of hypothesis, and
+>   denounced realism and materialism as metaphysical nonsense. Although it
+>   has never been practiced consistently in the advanced natural sciences and
+>   has been criticized by many philosophers, notably Popper (1959 [1935], 1963),
+>   logical positivism remains the tacit philosophy of many scientists.
+>   Regrettably, the anti-positivism fashionable in the metatheory of social
+>   science is often nothing but an excuse for sloppiness and wild
+>   speculation. [^Bunge1996p317]
+
+[^Awodey2004]: @Awodey_2004_Carnap_Brought_Home_The_View_from_Jena\.
+[^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
+[^Bunge1996p317]: @Bunge_1996_Finding_Philosophy_in_Social_Science\, p. 317.
+[^Clarke2004]: @Clarke_2004_The_theoretical_implications_of_the_empirical\.
+[^Edmonds2020]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\.
+[^Friedman1999pxii]: @Friedman_1999_Reconsidering_Logical_Positivism\, p. xii.
+[^Hemple1950]: @Hempel_1950_Problems_and_changes_in_the_empiricist_criterion\.
+[^Hempel1974]: @Hempel_1974_Formulation_and_formalization_of_scientific\.
+[^Passmore1967]: @Passmore_1967_Logical_positivism and 
+    @Creathe_2011_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Suppe2000]: @Suppe_2000_Understanding_scientific_theories_An_assessment\.
+[^Whetsell2013]: @Whetsell_2013_The_dynamics_of_positivism_in_the_study_of_public\.
+
+
+### Realist turn
+
+-   A turn towards realism
+-   Poincar&eacute;
+    -   structure
+-   Reichenbach
+-   Karl Popper (1902-1994)
+    -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
+    -   *falsifiability* over *verifiability*
+-   Feigl, H. (1950). Existential hypotheses: Realistic versus phenomenalistic interpretations. [^Feigl1950]
+-   Suppe, F. (1974). *The Structure of Scientific Theories*. [^Suppe1974]
+-   Sellars
+-   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (b. 1940)
+    -   Naming directly; causal theory of names; natural kinds
+-   Putnam, NMA
+-   Boyd, R.N. (1983). On the current status of the issue of scientific realism. [^Boyd1983]
+-   Sankey [^Sankey2015]
+-   Talk by Sankey: [Scepticism, Relativism and Naturalistic Particularism](https://www.youtube.com/watch?v=QyEFaJf_Dyo)
+    -   Chisholm's particularism: start with what is uncontroversially known.
+        Justify epistemic standards second. It's ok to question beg.
+-   Claudia Stancati. (2017). [Umberto Eco: The philosopher of signs](https://booksandideas.net/Umberto-Eco.html).
+
+Popper:
+
+>   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963pX]
+
+Bunge:
+
+>   As is well known, conceptual objects have been the undoing of
+>   traditional empiricism as well as of vulgar materialism, for they are
+>   neither distillates of ordinary experiences nor material objects or
+>   properties thereof. To be sure, the empiricist may claim that there
+>   are no conceptual objects aside from mental events. But he cannot
+>   explain how different minds can grasp the same conceptual objects
+>   and why psychology is incapable of accounting for the logical,
+>   mathematicaland semantical properties of constructs. And the
+>   vulgar materialist (nominalist) will likewise discard conceptual
+>   objects and speak instead of linguistic objects---e.g. of terms instead
+>   of concepts and of sentences instead of propositions. But he is unable
+>   to explain the conceptual invariants of linguistic transformations
+>   (e.g. translations) as well as the fact that linguistics presupposes
+>   logic and semantics rather than the other way round. Therefore we
+>   cannot accept either the empiricist or the nominalist reduction
+>   (elimination) of conceptual objects any more than we can admit the
+>   idealist claim that they are ideal beings with an autonomous existence.
+>   We must look for an alternative consistent with both ontological
+>   naturalism and semantical realism. [^Bunge1981p161]
+
+Sankey:
+
+>   *The Causal-Theoretic Reply to Incommensurability*
+>
+>   Assuming the causal theory of reference, one might reply to the
+>   incommensurability thesis somewhat as follows. The meaning, in the
+>   sense of 'sense', of scientific terms may well vary in the course of
+>   theoretical change. However, it does not follow that reference must also
+>   vary as a result of such change of meaning. For reference is not
+>   determined by sense, but by causal chains which link the present use of
+>   terms with initial baptisms at which their reference was fixed. So
+>   reference does not vary with the changes of descriptive content which
+>   occur during theoretical change. Hence, reference is held constant across
+>   theoretical transitions, and theories may be compared by means of reference.
+>   Thus, there is no referential discontinuity, no incomparability of content,
+>   and no incommensurability. [^Sankey2008p66]
+
+[^Boyd1983]: @Boyd_1983_On_the_current_status_of_the_issue_of_scientific\.
+[^Bunge1981p161]: @Bunge_2012_Evaluating_Philosophies\, p. 161.
+[^Feigl1950]: @Feigl_1950_Existential_hypotheses_Realistic_versus\.
+[^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
+[^Sankey2008p66]: @Sankey_2008_Scientific_Realism_and_the_Rationality_of_Science\, p. 66.
+[^Sankey2015]: @Sankey_2015_Realism_progress_and_the_historical_turn\.
+[^Suppe1974]: @Suppe_1974_The_Structure_of_Scientific_Theories\.
 
 
 Pragmatism
@@ -1123,328 +1444,6 @@ See also:
 [^Boghossian2006p109]: @Boghossian_2006_Fear_of_Knowledge\, p. 109--110.
 [^Hicks2011-1]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
 [^Pluckrose2017-1]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
-
-
-Postpositivism
---------------------------------------------------------------------------------
-
-### Introduction
-
-Various reactions to positivism.
-
--   Karl Popper (1902-1994)
-    -   [Critical rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
-    -   *The Myth of the Framework* (1994)
--   Willard Van Orman Quine (1908-2000)
--   Thomas Kuhn (1922-1996)
--   Imre Lakatos (1922-1974)
--   Hilary Putnam (1926-2016)
--   Nancy Cartwright (b. 1944)
--   TODO: Khanna [^Khanna2018]
--   de Swart [^deSwart2018p351]
-
-[^deSwart2018p351]: @deSwart_2018_Philosophical_and_Mathematical_Logic\, p. 351--3.
-[^Khanna2018]: @Khanna_2018_Positivism_and_realism\.
-
-
-### Attack on the analytic/synthetic distinction
-
->   Among the developments that led to the revival of metaphysical theorizing
->   were Quine's attack on the analytic/synthetic distinction, which was
->   generally taken to undermine Carnap's distinction between existence
->   questions internal to a framework and those external to
->   it. [^WikipediaMetaphysics]
-
--   Carnap's internal vs external questions, (ESO), again
--   Quine, W.V.O. (1951). Two dogmas of empiricism.  [^Quine1951b]
-    1.  Analytic/synthetic distinction
-    2.  Reductionism (verification theory of meaning)
--   Duhem-Quine thesis
-    -   Claims that a hypothesis can never be tested in isolation.
-    -   Confirmation holism
-    -   Web of belief
-
-Quine on our pale gray lore:
-
->   The lore of our fathers is a fabric of sentences. In our hands it develops
->   and changes, through more or less arbitrary and deliberate revisions and
->   additions of our own, more or less directly occasioned by the continuing
->   stimulation of our sense organs. It is a pale grey lore, black with fact and
->   white with convention. But I have found no substantial reasons for
->   concluding that there are any quite black threads in it, or any white
->   ones. [^Quine1960bp374]
-
-Carnap remained optimistic about his views of analyticity, intension,
-and meaning:
-
->   Bar-Hillel points out that the semantical theory of meaning developed
->   recently by logicians is free of these drawbacks. He appeals to the
->   linguists to construct in an analogous way the theory of meaning needed
->   in their empirical investigations. The present paper indicates the
->   possibility of such a construction. The fact that the concept of
->   intension can be applied even to a robot shows that it does not have
->   the psychologistic character of the traditional concept of meaning. [^Carnap1955p46]
-
-Feigl:
-
->   The revolt against the dualism of the analytic and the synthetic rests
->   on a confusion of the logical analysis of (artificially fixed) languages
->   with the historical investigation of (growing, shifting natural)
->   languages. [^Feigl1956p7]
-
--   Grice, H.P. & Strawson, P.F. (1956). In defense of a dogma. [^Grice1956]
--   *Word and Object* [^Quine1960a]
-    -   Inscrutability of reference
-    -   Indeterminacy of translation
--   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
--   Schuldenfrei, R. (1972). Quine in perspective. [^Schuldenfrei1972]
--   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986a]
--   Quine-Carnap correspondence [^Quine1990-2]
--   Putnam, H. (1973). Meaning and reference. [^Putnam1973]
--   Field, H. (1974). Theory change and the indeterminacy of reference. [^Field1974]
--   Quine, W.V.O. (1991). Two dogmas in retrospect. [^Quine1991]
--   Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? [^Yablo1998]
-
-Nietzsche:
-
->   Against positivism, which would stand by the position "There are only facts",
->   I would say: no, there are precisely no facts, only interpretations.
->   We can establish no fact "in itself": it is perhaps nonsense to want
->   such a thing. You say "Everything is subjective": but that is already
->   an interpretation, the "subject" is not anything given, but something
->   invented and added, something stuck behind... To the extent that
->   the word "knowledge" [*Erkenntnis*] has any sense, the world is knowable:
->   but it is interpretable differently, it has no sense behind it, but
->   innumerable senses, "perspectivism". It is our needs that interpret the
->   world: our drives and their to and fro. Every drive is a kind of domination,
->   every one has its perspective, which it would force on all other drives as
->   a norm. [^NietzscheNotebook7]
-
--   Winburn, A.P. & Clemmons, C.M.J. (2021). [Objectivity is a myth that harms the practice and diversity of forensic science](https://www.sciencedirect.com/science/article/pii/S2589871X21000668). [^Winburn2021]
--   Warren, J. (2016). Internal and external questions revisited. [^Warren2016a]
--   Warren, J. (2016). Revisiting Quine on truth by convention. [^Warren2016b]
-
-See also:
-
--   The introduction to the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
-    in the [Outline on the scientific method](scientific-method.html).
-
-[^Carnap1955p46]: @Carnap_1955_Meaning_and_synonymy_in_natural_languages\, p. 46--47, footnote 7.
-[^Feigl1956p7]: @Feigl_1956_Some_major_issues_and_developments\, p. 7--8.
-[^Field1974]: @Field_1974_Theory_change_and_the_indeterminacy_of_reference\.
-[^Grice1956]: @Grice_1956_In_defense_of_a_dogma\.
-[^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
-[^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
-[^Quine1951b]: @Quine_1951_Two_dogmas_of_empiricism\.
-[^Quine1960a]: @Quine_1960_Word_and_Object\.
-[^Quine1960bp374]: @Quine_1960_Carnap_and_logical_truth\, p. 374.
-[^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
-[^Quine1986a]: @Quine_1986_The_Philosophy_of_WVQuine\.
-[^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
-[^Quine1991]: @Quine_1991_Two_dogmas_in_retrospect\.
-[^Schuldenfrei1972]: @Schuldenfrei_1972_Quine_in_perspective\.
-[^Warren2016a]: @Warren_2016_Internal_and_external_questions_revisited\.
-[^Warren2016b]: @Warren_2016_Revisiting_Quine_on_truth_by_convention\.
-[^Winburn2021]: @Winburn_2021_Objectivity_is_a_myth_that_harms_the_practice\.
-[^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
-[^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
-
-
-### Theory change
-
--   Poincar&eacute;
--   Thomas Kuhn (1922-1996)
-    -   Paradigm shifts
-    -   Normal science and revolutionary science
-    -   Incommensurability
-    -   Sankey [^Sankey1997]
--   Imre Lakatos (1922-1974)
-    -   Scientific research programmes
--   Larry  Laudan (b. 1941)
-    -   Scientific research traditions
-    -   Pessimistic meta-induction (PMI)
-    -   Science cannot be value free
--   Paul Feyerabend (1924-1994)
-    -   Epistemological anarchism
-
-[^Sankey1997]: @Sankey_1997_Rationality_Relativism_and_Incommensurability\.
-
-
-### Ordinary language philosophy
-
--   Late Wittgenstein
--   *Philosophical Investigations* [^Wittgenstein2009]
--   Instrumentalist and pragmatist
--   An important project is to understand the differences between early (*TLP*)
-    and late (*PI*) Wittgenstein. It is quite the about-face.
-    -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
-    -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
-
--   PI:
-    -   Duck-rabbit; "seeing that" vs "seeing as"
--   Rorty
-    -   Wittgenstein, Heidegger, and the reification of language.
-    -   "Obsession with this image of something deeply hidden" [^Rorty1993p347]
--   Cavell
-    -   *Must We Mean What We Say?* (1969) [^Cavell2015]
--   Video: Sugrue, M. (1992). [The Latter Wittgenstein: The Philosophy of Language](https://www.youtube.com/watch?v=X7Rb56kZQSk).
-
-Wittgenstein in *PI*:
-
->   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
-
-TODO: find ref of above quote.
-
-See also:
-
--   [Natural language processing](statistics.html#natural-language-processing)
--   [Word meanings](statistics.html#word-meanings)
-
-[^Cavell2015]: @Cavell_2015_Must_We_Mean_What_We_Say\.
-[^Rorty1993p347]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\, p. 347.
-[^Wittgenstein2009]: @Wittgenstein_2009_Philosophical_Investigations\.
-
-
-### The "death" of positivism
-
--   Anti-positivism, Kuhn, Popper
--   post-structuralism, postmodernism (continental)
--   In 1967 John Passmore reported that: "Logical positivism, then,
-    is dead, or as dead as a philosophical movement ever becomes." [^Passmore1967]
--   Ayer, A.J. 
--   Hemple (1950) [^Hemple1950]
--   Suppe (2000): Death of positivism was a talk by Carl Hempel on March 26, 1969. [^Suppe2000]
-    -   "Formulation and formalization of scientific theories" [^Hempel1974]
-    -   Clarke & Primo (2004) [^Clarke2004]
--   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
-
-Clarke & Primo:
-
->   Following Suppe (2000), we date the demise of logical positivism to
->   March 26, 1969---opening night of the Illinois Symposium on the
->   Structure of Scientific Theories. [^Clarke2004]
-
-Ayer:
-
->   The most important defect was that nearly all of it was false. [^Ayer1978]
-
-Much ado is made about positivism being "dead", but its influence is still
-promenent over philosophy and the structure of societies.
-
-Friedman:
-
->   Carnap's influence, in particular, also extended much further: to the
->   widespread application of logical and mathematical methods to philosophical
->   problems more generally, especially in semantics and the philosophy of
->   language. Indeed, as is well known, the ideas of the logical positivists
->   exerted a very substantial influence well beyond the boundaries of
->   professional philosophy, particularly in psychology and the social sciences.
->   It is not too much to say, therefore, that twentieth-century intellectual life
->   would be simply uncrecognizable without the deep and pervasive current of
->   logical positivist thought. [^Friedman1999pxii]
-
-Bunge:
-
->   Logical positivism was progressive compared with the classical positivism
->   of Ptolemy, Hume, d'Alembert, Compte, John Stuart Mill, and Ernst Mach. It
->   was even more so by comparison with its contemporary rivals---neo-Thomisism,
->   neo-Kantianism, intuitionism, dialectical materialism, phenomenology, and
->   existentialism. However, neo-positivism failed dismally to give a faithful
->   account of science, whether natural or social. It failed because it
->   remained anchored to sense-data and to a phenomenalist metaphysics,
->   overrated the power of induction and underrated that of hypothesis, and
->   denounced realism and materialism as metaphysical nonsense. Although it
->   has never been practiced consistently in the advanced natural sciences and
->   has been criticized by many philosophers, notably Popper (1959 [1935], 1963),
->   logical positivism remains the tacit philosophy of many scientists.
->   Regrettably, the anti-positivism fashionable in the metatheory of social
->   science is often nothing but an excuse for sloppiness and wild
->   speculation. [^Bunge1996p317]
-
-[^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
-[^Bunge1996p317]: @Bunge_1996_Finding_Philosophy_in_Social_Science\, p. 317.
-[^Clarke2004]: @Clarke_2004_The_theoretical_implications_of_the_empirical\.
-[^Friedman1999pxii]: @Friedman_1999_Reconsidering_Logical_Positivism\, p. xii.
-[^Hemple1950]: @Hempel_1950_Problems_and_changes_in_the_empiricist_criterion\.
-[^Hempel1974]: @Hempel_1974_Formulation_and_formalization_of_scientific\.
-[^Passmore1967]: @Passmore_1967_Logical_positivism and 
-    @Creathe_2011_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
-[^Suppe2000]: @Suppe_2000_Understanding_scientific_theories_An_assessment\.
-[^Whetsell2013]: @Whetsell_2013_The_dynamics_of_positivism_in_the_study_of_public\.
-
-
-### Realist turn
-
--   A turn towards realism
--   Poincar&eacute;
-    -   structure
--   Reichenbach
--   Karl Popper (1902-1994)
-    -   Popper alleged that instrumentalism reduces basic science to what is merely applied science.
-    -   *falsifiability* over *verifiability*
--   Feigl, H. (1950). Existential hypotheses: Realistic versus phenomenalistic interpretations. [^Feigl1950]
--   Suppe, F. (1974). *The Structure of Scientific Theories*. [^Suppe1974]
--   Sellars
--   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (b. 1940)
-    -   Naming directly; causal theory of names; natural kinds
--   Putnam, NMA
--   Boyd, R.N. (1983). On the current status of the issue of scientific realism. [^Boyd1983]
--   Sankey [^Sankey2015]
--   Talk by Sankey: [Scepticism, Relativism and Naturalistic Particularism](https://www.youtube.com/watch?v=QyEFaJf_Dyo)
-    -   Chisholm's particularism: start with what is uncontroversially known.
-        Justify epistemic standards second. It's ok to question beg.
--   Claudia Stancati. (2017). [Umberto Eco: The philosopher of signs](https://booksandideas.net/Umberto-Eco.html).
-
-Popper:
-
->   Instrumentalism can be formulated as the thesis that scientific theories---the theories of the so-called 'pure' sciences---are nothing but computational rules (or inference rules); of the same character, fundamentally, as the computation rules of the so-called 'applied' sciences. (One might even formulate it as the thesis that "pure" science is a misnomer, and that all science is 'applied'.) Now my reply to instrumentalism consists in showing that there are profound differences between "pure" theories and technological computation rules, and that instrumentalism can give a perfect description of these rules but is quite unable to account for the difference between them and the theories. [^Popper1963pX]
-
-Bunge:
-
->   As is well known, conceptual objects have been the undoing of
->   traditional empiricism as well as of vulgar materialism, for they are
->   neither distillates of ordinary experiences nor material objects or
->   properties thereof. To be sure, the empiricist may claim that there
->   are no conceptual objects aside from mental events. But he cannot
->   explain how different minds can grasp the same conceptual objects
->   and why psychology is incapable of accounting for the logical,
->   mathematicaland semantical properties of constructs. And the
->   vulgar materialist (nominalist) will likewise discard conceptual
->   objects and speak instead of linguistic objects---e.g. of terms instead
->   of concepts and of sentences instead of propositions. But he is unable
->   to explain the conceptual invariants of linguistic transformations
->   (e.g. translations) as well as the fact that linguistics presupposes
->   logic and semantics rather than the other way round. Therefore we
->   cannot accept either the empiricist or the nominalist reduction
->   (elimination) of conceptual objects any more than we can admit the
->   idealist claim that they are ideal beings with an autonomous existence.
->   We must look for an alternative consistent with both ontological
->   naturalism and semantical realism. [^Bunge1981p161]
-
-Sankey:
-
->   *The Causal-Theoretic Reply to Incommensurability*
->
->   Assuming the causal theory of reference, one might reply to the
->   incommensurability thesis somewhat as follows. The meaning, in the
->   sense of 'sense', of scientific terms may well vary in the course of
->   theoretical change. However, it does not follow that reference must also
->   vary as a result of such change of meaning. For reference is not
->   determined by sense, but by causal chains which link the present use of
->   terms with initial baptisms at which their reference was fixed. So
->   reference does not vary with the changes of descriptive content which
->   occur during theoretical change. Hence, reference is held constant across
->   theoretical transitions, and theories may be compared by means of reference.
->   Thus, there is no referential discontinuity, no incomparability of content,
->   and no incommensurability. [^Sankey2008p66]
-
-[^Boyd1983]: @Boyd_1983_On_the_current_status_of_the_issue_of_scientific\.
-[^Bunge1981p161]: @Bunge_2012_Evaluating_Philosophies\, p. 161.
-[^Feigl1950]: @Feigl_1950_Existential_hypotheses_Realistic_versus\.
-[^Popper1963pX]: @Popper_1963_Conjectures_and_Refutations_The_Growth\, p. TODO.
-[^Sankey2008p66]: @Sankey_2008_Scientific_Realism_and_the_Rationality_of_Science\, p. 66.
-[^Sankey2015]: @Sankey_2015_Realism_progress_and_the_historical_turn\.
-[^Suppe1974]: @Suppe_1974_The_Structure_of_Scientific_Theories\.
 
 
 Constructive empiricism
