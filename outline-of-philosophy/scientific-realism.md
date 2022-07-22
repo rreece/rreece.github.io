@@ -843,7 +843,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   Hans Reichenbach (1891-1953)
 -   In 1928, Reichenbach founded the Berlin Circle, which was called *Die Gesellschaft für empirische Philosophie* (*Society for Empirical Philosophy*).
 -   Carl Gustav Hempel, Richard von Mises, David Hilbert, and Kurt Grelling
--   Logical empiricism - Creathe [^Creathe2011]
+-   Logical empiricism - Creath [^Creath2011]
 
 TODO: Note any differences between:
 
@@ -854,9 +854,9 @@ TODO: Note any differences between:
 Reichenbach on probability:
 
 >   locates the probability objectively "out in nature" so to speak,
->   and this comports well with Reichenbach's scientific realism. [^Creathe2011]
+>   and this comports well with Reichenbach's scientific realism. [^Creath2011]
 
-[^Creathe2011]: @Creathe_2011_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Creath2011]: @Creath_2011_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Reichenbach]: [www.newworldencyclopedia.org/entry/Hans_Reichenbach](http://www.newworldencyclopedia.org/entry/Hans_Reichenbach)
 
 
@@ -938,7 +938,7 @@ On logical empiricism and Reichenbach at UCLA:
 >   philosophize and to be cautious in telling practicing scientists what
 >   concepts they may or may not use. In these respects and others contemporary
 >   philosophers promote a kind of naturalism, and by so doing they follow
->   both the precept and the example of the logical empiricists. [^Creathe2011]
+>   both the precept and the example of the logical empiricists. [^Creath2011]
 
 and
 
@@ -947,7 +947,7 @@ and
 >   Reichenbach. Though interested in social and educational reform, he worked
 >   primarily in philosophy of physics. He developed and defended a frequency
 >   theory of probability, and emphasized both scientific realism and the
->   importance of causality and causal laws. [^Creathe2011]
+>   importance of causality and causal laws. [^Creath2011]
 
 Reichenbach:
 
@@ -958,7 +958,7 @@ Also:
 
 -   Movements in "positivism": [positivists.org/blog/movements](http://positivists.org/blog/movements)
 -   Neopositivism
--   Richard Creathe
+-   Richard Creath
 -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007pX]
 -   Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
 
@@ -1175,7 +1175,6 @@ See also:
 -   Suppe (2000): Death of positivism was a talk by Carl Hempel on March 26, 1969. [^Suppe2000]
     -   "Formulation and formalization of scientific theories" [^Hempel1974]
     -   Clarke & Primo (2004) [^Clarke2004]
--   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 -   Awodey, S. & Klein, C. (2004). *Carnap Brought Home: The View from Jena*. [^Awodey2004]
 -   Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. [^Edmonds2020]
 
@@ -1191,6 +1190,8 @@ Ayer:
 
 Much ado is made about positivism being "dead", but its influence is still
 promenent over philosophy and the structure of societies.
+
+-   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 
 Friedman:
 
@@ -1231,7 +1232,7 @@ Bunge:
 [^Hemple1950]: @Hempel_1950_Problems_and_changes_in_the_empiricist_criterion\.
 [^Hempel1974]: @Hempel_1974_Formulation_and_formalization_of_scientific\.
 [^Passmore1967]: @Passmore_1967_Logical_positivism and 
-    @Creathe_2011_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
+    @Creath_2011_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Suppe2000]: @Suppe_2000_Understanding_scientific_theories_An_assessment\.
 [^Whetsell2013]: @Whetsell_2013_The_dynamics_of_positivism_in_the_study_of_public\.
 
