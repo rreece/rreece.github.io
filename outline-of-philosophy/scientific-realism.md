@@ -576,6 +576,17 @@ of empiricism that supports the primacy of the scientific method, positivism
 is sometimes equated with scientism (often derogatorily) if one takes it to
 claim that science is the only way to attain knowledge.
 
+Russell:
+
+>   Modern analytical empiricism [...] differs from that of Locke, Berkeley, and Hume 
+>   by its incorporation of mathematics and its development of a powerful logical 
+>   technique. It is thus able, in regard to certain problems, to achieve definite 
+>   answers, which have the quality of science rather than of philosophy. It has 
+>   the advantage, in comparison with the philosophies of the system-builders, of 
+>   being able to tackle its problems one at a time, instead of having to invent
+>   at one stroke a block theory of the whole universe. Its methods, in this respect, 
+>   resemble those of science. [^Russell1945p834]
+
 Schlick:
 
 >   If we say, as was frequently said of old, that metaphysics is the theory
@@ -606,6 +617,7 @@ a version of structural realism about the discoveries from science, capturing
 and constraining real structures in nature.
 
 [^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
+[^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 [^Schlick1948p479]: @Schlick_1948_Positivism_and_realism\, p. 479.
 
 
@@ -664,6 +676,10 @@ Fetzer:
 >   that synthetic sentences have to be justified by derivability from finite
 >   classes of observation sentences. [^Fetzer2017]
 
+More:
+
+-   Caulton, A. (2014). Lecture notes: [Logical positivism/empiricism](https://adamcaulton.files.wordpress.com/2014/08/lecture21.pdf).
+
 [^Carnap1937LSLp51]: @Carnap_1937_Logical_Syntax_of_Language\, p. 51.
 [^Fetzer2017]: @Fetzer_2017_Carl_Hempel\.
 [^Hahn1973Sec2b]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 2.
@@ -673,6 +689,12 @@ Fetzer:
 
 
 ### Early positivism
+
+#### Bernard Bolzano
+
+-   [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) (1781-1848)
+-   *Wissenschaftslehre (Theory of Science)* (1837)
+
 
 #### Auguste Comte
 
@@ -712,6 +734,16 @@ Comte on the unknowability of the composition of stars:
 [^Popper1953]: @Popper_1953_A_note_on_Berkeley_as_precursor_of_Mach\.
 
 
+#### Franz Brentano
+
+-   [Franz Brentano](https://en.wikipedia.org/wiki/Franz_Brentano) (1838-1917)
+
+
+#### Ludwig Boltzmann
+
+-   [Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906)
+
+
 #### Ludwig Wittgenstein
 
 -   Gottlob Frege (1848-1925)
@@ -742,7 +774,9 @@ Wittgenstein studied with, was influenced by, and influenced:
 -   The picture theory of meaning
     -   Correspondence theory of truth?
 -   Logical atomism
+    -   Russell's interpretation of the *Tractatus*
     -   Analyticity
+    -   Russell, B. (1919). [The philosophy of logical atomism: Lectures 7-8](https://www.jstor.org/stable/pdf/27900748.pdf). [^Russell1919]
 -   Verifiability and quietism
     -   Anti-metaphysics that impressed the logical postivists
 -   [C.K. Ogden & F.P. Ramsey translation](https://web.archive.org/web/20200726065157/http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
@@ -771,14 +805,15 @@ Wittgenstein explaining the point of the *Tractatus* in a letter to Russell:
 Wittgenstein's scientific attitude summarized in the Vienna Circle
 manifesto:
 
->   "What can be said at all, can be said clearly" (Wittgenstein) [^Hahn1973pX]
+>   "What can be said at all, can be said clearly" (Wittgenstein) [^Hahn1973Sec1_2]
 
 Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
 [^Anscombe1959p161]: @Anscombe_1959_An_Introduction_to_Wittgensteins_Tractatus\, p. 161.
-[^Hahn1973pX]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, p. X.
+[^Hahn1973Sec1_2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 1.2.
 [^Reck2009]: @Reck_1997_Freges_influence_on_Wittgenstein_Reversing\.
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\. <https://iep.utm.edu/wittgens/>
+[^Russell1919]: @Russell_1919_The_philosophy_of_logical_atomism_Lectures_7_8\.
 [^Wittgenstein1922]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
 [^Wittgenstein1929]: @Wittgenstein_1929_Some_remarks_on_logical_form\.
 
@@ -792,7 +827,11 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 [^Houghton2011]: @Houghton_2011_Does_positivism_really_work_in_the_social\.
 
 
-### Logical positivism and the Vienna Circle
+### The Vienna Circle
+
+-   Logical positivism/empiricism
+-   The beginning of The Circle was an unnamed gathering in Vienna founded by Hans Hahn in 1907.[^Stadler2015pxx]
+    -   Attened by Philipp Frank, Otto Neurath, and Richard von Mises.
 
 ![Left: The entrance to the Mathematical Seminar at the University of Vienna,
   at Boltzmanngasse 5, the meeting place of the Vienna Circle during their
@@ -800,11 +839,16 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
   Right: The Vienna Circle's manifesto, Wissenschaftliche Weltauffassung: Der Wiener Kreis (1929).
 ](img/vienna-circle-seminar-and-manifesto.jpg){#fig:vienna-circle-seminar-and-manifesto}
 
--   Stadler, F. (1998). [Vienna Circle](https://www.rep.routledge.com/articles/thematic/vienna-circle/v-1.). In *Routledge Encyclopedia of Philosophy*. [^Stadler1998]
--   Murzi, M. (2004). [Vienna Circle](https://iep.utm.edu/viennacr/). In  *Internet Encyclopedia of Philosophy*. [^Murzi2004]
 -   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924 to 1936.
--   Moritz Schlick, Rudolf Carnap, Kurt G&ouml;del, Victor Kraft, Otto Neurath, Friedrich Waismann, Gustav Bergmann, and others.
--   Ludwig Wittgenstein and Karl Popper corresponded with the circle but did not attend.
+    -   Moritz Schlick, Rudolf Carnap, Otto Neurath, Hans Hahn, 
+        Philipp Frank, Friedrich Waismann, Gustav Bergmann,
+        Kurt G&ouml;del, Victor Kraft, and others.
+    -   Ludwig Wittgenstein and Karl Popper corresponded with the circle but did not attend.
+    -   The circle discussed Wittgenstein's *Tractatus Logico Philosophicus* in detail during the years 1925--1927.
+    -   The circle was named by Neurath[^Edmonds2020p90] "The Vienna Circle"
+        when its manifesto was published as a pamplet in 1929 at
+        The First Conference for the Epistemology of the Exact Sciences, in Prague.
+-   Schlick, M. (1925). *General Theory of Knowledge*. [^Schlick1974]
 -   Carnap, R. (1928). *The Logical Structure of the World* (*Der Logische Aufbau der Welt*). [^Carnap1928]
     -   Rational reconstruction
 -   [The scientific conception of the world: The Vienna Circle](http://rreece.github.io/philosophy-reading-list/docs/the-scientific-conception-of-the-world-the-vienna-circle.pdf) (1929) [^Hahn1973]
@@ -813,32 +857,45 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   In 1930 the Vienna Circle and the Berlin Circle took over the journal *Annalen der Philosophie*
     and made it the main journal of logical empiricism under the title *Erkenntnis*,
     edited by Carnap and Reichenbach.
+    -   Schlick, M. (1930). [The turning point in philosophy](http://zolaist.org/wiki/images/7/79/The_Turning_Point_in_Philosophy.pdf). [^Schlick1930]
+    -   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932a]
+    -   Carnap, R. (1932). [On protocol sentences](http://www.ualberta.ca/~francisp/NewPhil448/Carnap1932ProtocolSentences.pdf). [^Carnap1932b]
+    -   Schlick, M. (1933). Positivism and realism. [^Schlick1933]
 -   Blumberg, A.E. & Feigl, H. (1931). Logical positivism: A new movement in European philosophy. [^Blumberg1931]
--   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932a]
 -   A.J. Ayer (1910-1989)
     -   Ayer, A.J. (1936). *Language, Truth, and Logic*. [^Ayer1936]
     -   Helped the spread of positivism in British academia.
--   *International Encyclopedia of Unified Science*
-    -   Only the first volume of *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
--   Schlick, M. (1925). *General Theory of Knowledge*. [^Schlick1974]
--   Schlick, M. & Rynin, D. (1948). Positivism and realism. (Originally published in 1933). [^Schlick1948]
 -   The murder of Schlick in 1936 by a former student put an end to the Vienna Circle in Austria.
--   Stadler. F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. [^Stadler2015]
--   Cat, J. (2017). [How Viennese scientists fought the dogma, propaganda and prejudice of the 1930s](https://www.nature.com/articles/d41586-017-07819-z) - Review of Sigmund, K. (2017). *Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science*.
+
+Reviews:
+
+-   Stadler, F. (1998). [Vienna Circle](https://www.rep.routledge.com/articles/thematic/vienna-circle/v-1.). In *Routledge Encyclopedia of Philosophy*. [^Stadler1998]
+-   Murzi, M. (2004). [Vienna Circle](https://iep.utm.edu/viennacr/). In  *Internet Encyclopedia of Philosophy*. [^Murzi2004]
+-   Stadler, F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. [^Stadler2015]
+-   Sigmund, K. (2017). *Exact thinking in demented times: The Vienna Circle and the epic quest for the foundations of science*. [^Sigmund2017]
+    -   Review: Cat, J. (2017). [How Viennese scientists fought the dogma, propaganda and prejudice of the 1930s](https://www.nature.com/articles/d41586-017-07819-z).
+-   Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. [^Edmonds2020a]
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
 [^Blumberg1931]: @Blumberg_1931_Logical_positivism_A_new_movement_in_European\.
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
 [^Carnap1932a]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
+[^Carnap1932b]: @Carnap_1987_On_protocol_sentences\.
+[^Edmonds2020a]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\.
+[^Edmonds2020p90]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\, p. 90.
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\. <https://iep.utm.edu/viennacr/>
-[^Schlick1948]: @Schlick_1948_Positivism_and_realism\.
+[^Schlick1930]: @Schlick_1959_The_turning_point_in_philosophy\.
+[^Schlick1933]: @Schlick_1948_Positivism_and_realism\.
 [^Schlick1974]: @Schlick_1974_General_Theory_of_Knowledge\.
+[^Sigmund2017]: @Sigmund_2017_Exact_thinking_in_demented_times_The_Vienna\.
 [^Stadler1998]: @Stadler_1998_Vienna_Circle\.
 [^Stadler2015]: @Stadler_2015_The_Vienna_Circle_Studies_in_the_origins\.
+[^Stadler2015pxx]: @Stadler_2015_The_Vienna_Circle_Studies_in_the_origins\, p. xx and
+    @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\, p. 6.
 
 
-### Logical empiricism and the Berlin Circle
+### The Berlin Circle
 
 -   Hans Reichenbach (1891-1953)
 -   In 1928, Reichenbach founded the Berlin Circle, which was called *Die Gesellschaft für empirische Philosophie* (*Society for Empirical Philosophy*).
@@ -868,7 +925,14 @@ Reichenbach on probability:
     -   Carnap spent many years trying to develop a theory of degree of confirmation
         but was never able to satisfactorily formulate a model. [^Murzi2001]
 -   Carnap, R. (1937). Testability and meaning---continued. [^Carnap1937]
+-   *International Encyclopedia of Unified Science*
+    -   Chief editors: Otto Neurath, Rudolf Carnap, and Charles W. Morris
+    -   Only the first volume of *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
+    -   Neurath, O., Carnap, R., & Morris, C.W. (1955). *International Encyclopedia of Unified Science, Vol. 1*. University of Chicago Press. [^Neurath1938]
 -   Reichenbach emigrated to the US in 1938 and became a professor at UCLA.
+-   The Fifth International Congress for the Unity of Science met at Harvard in 1939.
+    -   Two days before the start of the congress, Germany invaded Poland, and Britain and France declared war on Germany.
+    -   Many European attendees didn't return to Europe.
 -   Carnap joined UCLA in 1954, the year after Reichenbach died.
 -   TODO: Quine on how huge Carnap's influence is. [^Quine1990-3]
 -   TODO: Positivism affects the structure of education and law
@@ -878,7 +942,11 @@ Reichenbach on probability:
 -   Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. [^Verhaegh2020]
 -   [Proof of knowledge](https://en.wikipedia.org/wiki/Proof_of_knowledge) (cryptography)
 
+[^Carnap1936]: @Carnap_1936_Testability_and_meaning\.
+[^Carnap1937]: @Carnap_1937_Testability_and_meaning_continued\.
 [^Heilbron2013]: @Heilbron_2013_The_first_Solvay_council_A_sort_of_private\, p. 5.
+[^Neurath1938]: @Neurath_1955_International_Encyclopedia_of_Unified_Science\.
+[^Quine1990-3]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\, p. TODO.
 [^Verhaegh2019]: @Verhaegh_2019_The_American_reception_of_logical_positivism\.
 [^Verhaegh2020]: @Verhaegh_2020_Coming_to_America_Carnap_Reichenbach\.
 
@@ -914,16 +982,21 @@ Discussion:
 -   *The Cambridge Companion to Carnap* [^Friedman2007]
 -   Leitgeb, H. & Carus, A. (2020). [Rudolf Carnap](https://plato.stanford.edu/entries/carnap/index.html). *SEP*. [^Leitgeb2020]
 
-Russell:
+[^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
+[^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
+[^Carnap1950p7]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 7.
+[^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
+[^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
+[^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
+[^Lavers2004]: @Lavers_2004_Carnap_semantics_and_ontology\.
+[^Lavers2015]: @Lavers_2015_Carnap_Quine_quantification_and_ontology\.
+[^Leitgeb2020]: @Leitgeb_2020_Rudolf_Carnap\.
+[^Leitgeb2020G]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement G: Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html).
+[^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
+[^Quine1960b]: @Quine_1960_Carnap_and_logical_truth\.
+[^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 
->   Modern analytical empiricism [...] differs from that of Locke, Berkeley, and Hume 
->   by its incorporation of mathematics and its development of a powerful logical 
->   technique. It is thus able, in regard to certain problems, to achieve definite 
->   answers, which have the quality of science rather than of philosophy. It has 
->   the advantage, in comparison with the philosophies of the system-builders, of 
->   being able to tackle its problems one at a time, instead of having to invent
->   at one stroke a block theory of the whole universe. Its methods, in this respect, 
->   resemble those of science. [^Russell1945p834]
+#### Reichenbach
 
 On logical empiricism and Reichenbach at UCLA:
 
@@ -962,26 +1035,9 @@ Also:
 -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007pX]
 -   Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
 
-[^Carnap1936]: @Carnap_1936_Testability_and_meaning\.
-[^Carnap1937]: @Carnap_1937_Testability_and_meaning_continued\.
-[^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
-[^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
-[^Carnap1950p7]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 7.
-[^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
-[^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
-[^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
 [^Ladyman2007pX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO.
-[^Lavers2004]: @Lavers_2004_Carnap_semantics_and_ontology\.
-[^Lavers2015]: @Lavers_2015_Carnap_Quine_quantification_and_ontology\.
-[^Leitgeb2020]: @Leitgeb_2020_Rudolf_Carnap\.
-[^Leitgeb2020G]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement G: Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html).
-[^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
-[^Reichenbach1968]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\.
 [^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction\.
-[^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
-[^Quine1960b]: @Quine_1960_Carnap_and_logical_truth\.
-[^Quine1990-3]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\, p. TODO.
-[^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
+[^Reichenbach1968]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\.
 
 
 Postpositivism
@@ -1171,12 +1227,12 @@ See also:
 -   In 1967 John Passmore reported that: "Logical positivism, then,
     is dead, or as dead as a philosophical movement ever becomes." [^Passmore1967]
 -   Ayer, A.J. 
--   Hemple (1950) [^Hemple1950]
+-   Hempel, C.G. (1950). Problems and changes in the empiricist criterion of meaning. [^Hemple1950]
 -   Suppe (2000): Death of positivism was a talk by Carl Hempel on March 26, 1969. [^Suppe2000]
     -   "Formulation and formalization of scientific theories" [^Hempel1974]
     -   Clarke & Primo (2004) [^Clarke2004]
 -   Awodey, S. & Klein, C. (2004). *Carnap Brought Home: The View from Jena*. [^Awodey2004]
--   Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. [^Edmonds2020]
+-   Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. [^Edmonds2020b]
 
 Clarke & Primo:
 
@@ -1227,7 +1283,7 @@ Bunge:
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
 [^Bunge1996p317]: @Bunge_1996_Finding_Philosophy_in_Social_Science\, p. 317.
 [^Clarke2004]: @Clarke_2004_The_theoretical_implications_of_the_empirical\.
-[^Edmonds2020]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\.
+[^Edmonds2020b]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\.
 [^Friedman1999pxii]: @Friedman_1999_Reconsidering_Logical_Positivism\, p. xii.
 [^Hemple1950]: @Hempel_1950_Problems_and_changes_in_the_empiricist_criterion\.
 [^Hempel1974]: @Hempel_1974_Formulation_and_formalization_of_scientific\.
@@ -2099,6 +2155,8 @@ Click to show links
 -   [Analysis](http://plato.stanford.edu/entries/analysis/)
 -   [Analytic/Synthetic Distinction](http://plato.stanford.edu/entries/analytic-synthetic/)
 -   [Ayer, Alfred Jules (1910-1989)](https://plato.stanford.edu/entries/ayer/)
+-   [Bolzano, Bernard (1781-1848)](https://plato.stanford.edu/entries/bolzano/)
+-   [Brentano, Franz (1838-1917)](https://plato.stanford.edu/entries/brentano/)
 -   [Carnap, Rudolf (1891-1970)](https://plato.stanford.edu/entries/carnap/)
 -   [Causal Models](https://plato.stanford.edu/entries/causal-models/)
 -   [Causal Processes](http://plato.stanford.edu/entries/causation-process/)
@@ -2158,6 +2216,7 @@ Click to show links
 -   [Realism](http://plato.stanford.edu/entries/realism/)
 -   [Rorty, Richard (1931-2007)](http://plato.stanford.edu/entries/rorty/)
 -   [Russell, Bertrand (1872-1970)](https://plato.stanford.edu/entries/russell/)
+-   [Russell’s Logical Atomism](https://plato.stanford.edu/entries/logical-atomism/)
 -   [Schlick, Moritz (1882-1936)](https://plato.stanford.edu/entries/schlick/)
 -   [Scientific Discovery](http://plato.stanford.edu/entries/scientific-discovery/)
 -   [Scientific Explanation](http://plato.stanford.edu/entries/scientific-explanation/)
@@ -2248,6 +2307,9 @@ Click to show links
 -   [Anti-realism](https://en.wikipedia.org/wiki/Anti-realism)
 -   [Berkeley, George (1685-1753)](https://en.wikipedia.org/wiki/George_Berkeley)
 -   [Berlin Circle](http://en.wikipedia.org/wiki/Berlin_Circle)
+-   [Boltzmann ,Ludwig (1844-1906)](https://en.wikipedia.org/wiki/Ludwig_Boltzmann)
+-   [Bolzano, Bernard (1781-1848)](https://en.wikipedia.org/wiki/Bernard_Bolzano)
+-   [Brentano, Franz (1838-1917)](https://en.wikipedia.org/wiki/Franz_Brentano)
 -   [Carnap, Rudolf (1891-1970)](http://en.wikipedia.org/wiki/Rudolf_Carnap)
 -   [Chisholm, Roderick (1916-1999)](https://en.wikipedia.org/wiki/Roderick_Chisholm)
 -   [Commensurability](http://en.wikipedia.org/wiki/Commensurability_(philosophy_of_science))

@@ -1398,6 +1398,7 @@ a key to explaining electroweak symmetry breaking in the Standard Model of parti
 -   UA1 and UA2 Collaborations discovered the $W$ and $Z$ bosons in 1983.
 -   Rubbia, C. (1984). [Experimental observation of the intermediate vector bosons $W^{+}$, $W^{-}$, and $Z^{0}$](https://www.nobelprize.org/uploads/2018/06/rubbia-lecture.pdf). Nobel lecture, December 8, 1984. [^Rubbia1984]
 -   Weinberg - Model physicst [^Chalmers2017]
+-   Woit, P. (2022). [Glashow interview](https://www.math.columbia.edu/~woit/wordpress/?p=13004).
 
 [^Chalmers2017]: @Chalmers_2017_Model_physicist\.
 [^Glashow1961]: @Glashow_1961_Partial_symmetries_of_weak_interactions\.

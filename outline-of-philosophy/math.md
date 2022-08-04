@@ -510,6 +510,11 @@ Model theory
 
 -   [Kurt G&ouml;del](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) (1906-1978)
 -   Goldstein [^Goldstein2005]
+-   G&ouml;del presented his incompleteness theorems at the
+    Second Conference on the Epistemology of the Exact Sciences
+    in K&ouml;nigsberg September 5-7, 1930.
+-   von Neumann recognized the importance first.
+-   Carnap had warning of G&ouml;del's results the month before. [^Edmonds2020p96]
 
 Fom the SEP:
 
@@ -555,7 +560,6 @@ Chaitin:
 
 More:
 
--   von Neumann recognized the importance first.
 -   G&ouml;del was a platonist, a (religious) realist.
 -   Armstrong, S. (2012). [Completeness, incompleteness, and what it all means: first versus second order logic](https://www.lesswrong.com/posts/MLqhJ8eDy5smbtGrf/completeness-incompleteness-and-what-it-all-means-first).
 -   Hilbert wanted math to be:
@@ -582,6 +586,8 @@ See also:
 
 [^Atiyah1994p182]: @Atiyah_1994_Responses_to_Theoretical_Mathematics_Toward\, p. 182.
 [^Cubitt2015]: @Cubitt_2015_Undecidability_of_the_spectral_gap\.
+[^Edmonds2020p96]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\, p. 96
+    and TODO: Carnap's diary.
 [^Franzen2005]: @Franzen_2005_Godels_Theorem_An_incomplete_guide_to_its\.
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
 [^Raatikainen2020]: @Raatikainen_2020_Godels_incompleteness_theorems\.

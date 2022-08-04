@@ -569,7 +569,7 @@ Vienna Circle manifesto:
 
 See also:
 
--   [Logical positivism and the Vienna Circle](scientific-realism.html#logical-positivism-and-the-vienna-circle)
+-   [The Vienna Circle](scientific-realism.html#the-vienna-circle)
 
 [^Carnap1937LSLp182]: @Carnap_1937_Logical_Syntax_of_Language\, p. 182.
 [^Dicker1991]: @Dicker_1991_Humes_fork_revisited\.
