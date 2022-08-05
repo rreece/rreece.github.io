@@ -1558,6 +1558,7 @@ See also:
 -   Criticism: scientism
     -   Are there other ways of knowing?
 -   [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+    -   [Proof of knowledge](https://en.wikipedia.org/wiki/Proof_of_knowledge) (cryptography)
     -   [Silvio Micali: Lex Fridman podcast](https://www.youtube.com/watch?v=zNdhgOk4-fE&ab_channel=LexFridman) - 1h25+
     -   Verification and knowledge are different concepts
 

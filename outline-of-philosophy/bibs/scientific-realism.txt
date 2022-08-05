@@ -91,7 +91,7 @@ Warren, J. (2016). Internal and external questions revisited. *The Journal of Ph
 Warren, J. (2016). Revisiting Quine on truth by convention. *Journal of Philosophical Logic*, 46, 119--139.
 Warren, J. (2016). Sider on the epistemology of structure. *Philosophical Studies*, 173, 2417--2435.
 Winburn, A.P. & Clemmons, C.M.J. (2021). Objectivity is a myth that harms the practice and diversity of forensic science. *Forensic Science International: Synergy*, 3, 100196. https://www.sciencedirect.com/science/article/pii/S2589871X21000668
-Wittgenstein, L. (1929). Some remarks on logical form. *Proceedings of the Aristotelian Society Supplementary Volumes*, 9, 162--171.
+Wittgenstein, L. (1929). Some remarks on logical form. *Proceedings of the Aristotelian Society Supplementary Volumes*, 9, 162--171. https://academic.oup.com/aristoteliansupp/article/9/1/162/1779966
 Wittgenstein, L. (1969). *On Certainty*. Oxford: Basil Blackwell.
 Worrall, J. (1989). Structural realism: The best of both worlds? *Dialectica*, 43, 99--124.
 Wray, K. B. (2018). *Resisting Scientific Realism*. Cambridge University Press.

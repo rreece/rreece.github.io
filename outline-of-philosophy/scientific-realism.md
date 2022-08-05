@@ -140,7 +140,7 @@ Realism and antirealism
 ### Modern skepticism
 
 -   "Here is one hand" - Moore [^Moore1925]
--   *On Certainty* - Wittgenstein [^Wittgenstein1969]
+-   Wittgenstein, L. (1969). *On Certainty*. [^Wittgenstein1969a]
 -   The map and the territory
 
 Korzybski:
@@ -165,7 +165,7 @@ Schr&ouml;dinger quoting Schopenhauer:
 [^Korzybski1933p58]: @Korzybski_1933_Science_and_Sanity\, p. 58.
 [^Moore1925]: TODO: split up: @Moore_1903_The_refutation_of_idealism\, @Moore_1925_A_defence_of_common_sense\, @Moore_1939_Proof_of_an_external_world\, and @Preston_2005_George_Edward_Moore\.
 [^Schopenhauer-Schrodinger]: Schr&ouml;dinger quoting Schopenhauer in "Mind and Matter".
-[^Wittgenstein1969]: @Wittgenstein_1969_On_Certainty\.
+[^Wittgenstein1969a]: @Wittgenstein_1969_On_Certainty\.
 
 
 ### Contemporary skepticism
@@ -778,7 +778,7 @@ Wittgenstein studied with, was influenced by, and influenced:
     -   Analyticity
     -   Russell, B. (1919). [The philosophy of logical atomism: Lectures 7-8](https://www.jstor.org/stable/pdf/27900748.pdf). [^Russell1919]
 -   Verifiability and quietism
-    -   Anti-metaphysics that impressed the logical postivists
+    -   Anti-metaphysics that impressed the logical positivists
 -   [C.K. Ogden & F.P. Ramsey translation](https://web.archive.org/web/20200726065157/http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
 -   [D.F. Pears & B.F. McGuinness translation](https://web.archive.org/web/20200228040145/http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
 -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
@@ -792,7 +792,10 @@ Wittgenstein studied with, was influenced by, and influenced:
     of that Wittgenstein's early views of structure that ultimately
     follow some kind of platonism, the correspondence theory of truth, and a sense
     of realism. 
--   "Some Remarks on Logical Form" (1929) [^Wittgenstein1929]
+-   Wittgenstein, L. (1929). [Some remarks on logical form](https://academic.oup.com/aristoteliansupp/article/9/1/162/1779966). [^Wittgenstein1929]
+    -   Only academic paper published by Wittgenstein.
+    -   During a period of transition from his early thought in the *Tractatus*
+        and his later thought in *PI*.
 
 Wittgenstein explaining the point of the *Tractatus* in a letter to Russell:
 
@@ -872,7 +875,7 @@ Reviews:
 -   Stadler, F. (1998). [Vienna Circle](https://www.rep.routledge.com/articles/thematic/vienna-circle/v-1.). In *Routledge Encyclopedia of Philosophy*. [^Stadler1998]
 -   Murzi, M. (2004). [Vienna Circle](https://iep.utm.edu/viennacr/). In  *Internet Encyclopedia of Philosophy*. [^Murzi2004]
 -   Stadler, F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. [^Stadler2015]
--   Sigmund, K. (2017). *Exact thinking in demented times: The Vienna Circle and the epic quest for the foundations of science*. [^Sigmund2017]
+-   Sigmund, K. (2017). *Exact Thinking in Demented Times: The Vienna Circle and the epic quest for the foundations of science*. [^Sigmund2017]
     -   Review: Cat, J. (2017). [How Viennese scientists fought the dogma, propaganda and prejudice of the 1930s](https://www.nature.com/articles/d41586-017-07819-z).
 -   Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. [^Edmonds2020a]
 
@@ -888,7 +891,7 @@ Reviews:
 [^Schlick1930]: @Schlick_1959_The_turning_point_in_philosophy\.
 [^Schlick1933]: @Schlick_1948_Positivism_and_realism\.
 [^Schlick1974]: @Schlick_1974_General_Theory_of_Knowledge\.
-[^Sigmund2017]: @Sigmund_2017_Exact_thinking_in_demented_times_The_Vienna\.
+[^Sigmund2017]: @Sigmund_2017_Exact_Thinking_in_Demented_Times_The_Vienna\.
 [^Stadler1998]: @Stadler_1998_Vienna_Circle\.
 [^Stadler2015]: @Stadler_2015_The_Vienna_Circle_Studies_in_the_origins\.
 [^Stadler2015pxx]: @Stadler_2015_The_Vienna_Circle_Studies_in_the_origins\, p. xx and
@@ -900,7 +903,9 @@ Reviews:
 -   Hans Reichenbach (1891-1953)
 -   In 1928, Reichenbach founded the Berlin Circle, which was called *Die Gesellschaft für empirische Philosophie* (*Society for Empirical Philosophy*).
 -   Carl Gustav Hempel, Richard von Mises, David Hilbert, and Kurt Grelling
--   Logical empiricism - Creath [^Creath2011]
+-   Reichenbach, H. (1936). Logistic empiricism in Germany and the present state of its problems. [^Reichenbach1936]
+-   Creath, R. (2017). [Logical empiricism](https://plato.stanford.edu/entries/logical-empiricism). [^Creath2017a]
+-   Milkov, N. (2013). The Berlin Group and the Vienna Circle: Affinities and divergences. [^Milkov2013]
 
 TODO: Note any differences between:
 
@@ -908,13 +913,10 @@ TODO: Note any differences between:
 -   Logical positivism - Vienna Circle
 -   Logical empiricism - Reichenbach's preferred term [^Reichenbach]
 
-Reichenbach on probability:
-
->   locates the probability objectively "out in nature" so to speak,
->   and this comports well with Reichenbach's scientific realism. [^Creath2011]
-
-[^Creath2011]: @Creath_2011_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Creath2017a]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Milkov2013]: @Milkov_2013_The_Berlin_Group_and_the_Vienna_Circle_Affinities\.
 [^Reichenbach]: [www.newworldencyclopedia.org/entry/Hans_Reichenbach](http://www.newworldencyclopedia.org/entry/Hans_Reichenbach)
+[^Reichenbach1936]: @Reichenbach_1936_Logistic_empiricism_in_Germany_and_the_present\.
 
 
 ### Later positivism
@@ -928,26 +930,19 @@ Reichenbach on probability:
 -   *International Encyclopedia of Unified Science*
     -   Chief editors: Otto Neurath, Rudolf Carnap, and Charles W. Morris
     -   Only the first volume of *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
-    -   Neurath, O., Carnap, R., & Morris, C.W. (1955). *International Encyclopedia of Unified Science, Vol. 1*. University of Chicago Press. [^Neurath1938]
+    -   Neurath, O., Carnap, R., & Morris, C.W. (1955). *International Encyclopedia of Unified Science, Vol. 1*. [^Neurath1938]
+-   [Anschluss](https://en.wikipedia.org/wiki/Anschluss): The annexation of Austria by the Third Reich on March 13, 1938.
 -   Reichenbach emigrated to the US in 1938 and became a professor at UCLA.
 -   The Fifth International Congress for the Unity of Science met at Harvard in 1939.
-    -   Two days before the start of the congress, Germany invaded Poland, and Britain and France declared war on Germany.
-    -   Many European attendees didn't return to Europe.
+    -   On September 1, 1939, two days before the start of the congress,
+        Germany invaded Poland, and Britain and France declared war on Germany.
+    -   Many European attendees did not return to Europe.
 -   Carnap joined UCLA in 1954, the year after Reichenbach died.
--   TODO: Quine on how huge Carnap's influence is. [^Quine1990-3]
--   TODO: Positivism affects the structure of education and law
--   TODO: Connection to the projects of Dewey and pragmatism
--   "Positivism and progress" in Solvay 2011 Proceedings [^Heilbron2013]
--   Verhaegh, S. (2019). The American reception of logical positivism: First encounters (1929-1932). [^Verhaegh2019]
 -   Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. [^Verhaegh2020]
--   [Proof of knowledge](https://en.wikipedia.org/wiki/Proof_of_knowledge) (cryptography)
 
 [^Carnap1936]: @Carnap_1936_Testability_and_meaning\.
 [^Carnap1937]: @Carnap_1937_Testability_and_meaning_continued\.
-[^Heilbron2013]: @Heilbron_2013_The_first_Solvay_council_A_sort_of_private\, p. 5.
 [^Neurath1938]: @Neurath_1955_International_Encyclopedia_of_Unified_Science\.
-[^Quine1990-3]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\, p. TODO.
-[^Verhaegh2019]: @Verhaegh_2019_The_American_reception_of_logical_positivism\.
 [^Verhaegh2020]: @Verhaegh_2020_Coming_to_America_Carnap_Reichenbach\.
 
 
@@ -1011,7 +1006,7 @@ On logical empiricism and Reichenbach at UCLA:
 >   philosophize and to be cautious in telling practicing scientists what
 >   concepts they may or may not use. In these respects and others contemporary
 >   philosophers promote a kind of naturalism, and by so doing they follow
->   both the precept and the example of the logical empiricists. [^Creath2011]
+>   both the precept and the example of the logical empiricists. [^Creath2017b]
 
 and
 
@@ -1020,12 +1015,17 @@ and
 >   Reichenbach. Though interested in social and educational reform, he worked
 >   primarily in philosophy of physics. He developed and defended a frequency
 >   theory of probability, and emphasized both scientific realism and the
->   importance of causality and causal laws. [^Creath2011]
+>   importance of causality and causal laws. [^Creath2017c]
 
 Reichenbach:
 
 -   *Experience and Prediction* (1938) [^Reichenbach1938]
 -   *The Rise of Scientific Philosophy* (1951) [^Reichenbach1968]
+
+Reichenbach on probability:
+
+>   locates the probability objectively "out in nature" so to speak,
+>   and this comports well with Reichenbach's scientific realism. [^Creath2017d]
 
 Also:
 
@@ -1035,6 +1035,9 @@ Also:
 -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007pX]
 -   Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
 
+[^Creath2017b]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Creath2017c]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Creath2017d]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Ladyman2007pX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO.
 [^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction\.
 [^Reichenbach1968]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\.
@@ -1188,17 +1191,16 @@ See also:
 ### Ordinary language philosophy
 
 -   Late Wittgenstein
--   *Philosophical Investigations* [^Wittgenstein2009]
 -   Instrumentalist and pragmatist
+-   Wittgenstein, L. (1953). *Philosophical Investigations*. [^Wittgenstein2009]
+    -   Duck-rabbit; "seeing that" vs "seeing as"
 -   An important project is to understand the differences between early (*TLP*)
     and late (*PI*) Wittgenstein. It is quite the about-face.
     -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
     -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
-
--   PI:
-    -   Duck-rabbit; "seeing that" vs "seeing as"
+-   Wittgenstein, L. (1969). *On Certainty*. [^Wittgenstein1969b]
 -   Rorty
-    -   Wittgenstein, Heidegger, and the reification of language.
+    -   Rorty, R. (1993). Wittgenstein, Heidegger, and the reification of language. [^Rorty1993]
     -   "Obsession with this image of something deeply hidden" [^Rorty1993p347]
 -   Cavell
     -   *Must We Mean What We Say?* (1969) [^Cavell2015]
@@ -1216,7 +1218,9 @@ See also:
 -   [Word meanings](statistics.html#word-meanings)
 
 [^Cavell2015]: @Cavell_2015_Must_We_Mean_What_We_Say\.
+[^Rorty1993]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\.
 [^Rorty1993p347]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\, p. 347.
+[^Wittgenstein1969b]: @Wittgenstein_1969_On_Certainty\.
 [^Wittgenstein2009]: @Wittgenstein_2009_Philosophical_Investigations\.
 
 
@@ -1249,18 +1253,6 @@ promenent over philosophy and the structure of societies.
 
 -   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 
-Friedman:
-
->   Carnap's influence, in particular, also extended much further: to the
->   widespread application of logical and mathematical methods to philosophical
->   problems more generally, especially in semantics and the philosophy of
->   language. Indeed, as is well known, the ideas of the logical positivists
->   exerted a very substantial influence well beyond the boundaries of
->   professional philosophy, particularly in psychology and the social sciences.
->   It is not too much to say, therefore, that twentieth-century intellectual life
->   would be simply uncrecognizable without the deep and pervasive current of
->   logical positivist thought. [^Friedman1999pxii]
-
 Bunge:
 
 >   Logical positivism was progressive compared with the classical positivism
@@ -1284,13 +1276,38 @@ Bunge:
 [^Bunge1996p317]: @Bunge_1996_Finding_Philosophy_in_Social_Science\, p. 317.
 [^Clarke2004]: @Clarke_2004_The_theoretical_implications_of_the_empirical\.
 [^Edmonds2020b]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\.
-[^Friedman1999pxii]: @Friedman_1999_Reconsidering_Logical_Positivism\, p. xii.
 [^Hemple1950]: @Hempel_1950_Problems_and_changes_in_the_empiricist_criterion\.
 [^Hempel1974]: @Hempel_1974_Formulation_and_formalization_of_scientific\.
 [^Passmore1967]: @Passmore_1967_Logical_positivism and 
     @Creath_2011_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Suppe2000]: @Suppe_2000_Understanding_scientific_theories_An_assessment\.
 [^Whetsell2013]: @Whetsell_2013_The_dynamics_of_positivism_in_the_study_of_public\.
+
+
+### Lasting influence of positivism
+
+Friedman:
+
+>   Carnap's influence, in particular, also extended much further: to the
+>   widespread application of logical and mathematical methods to philosophical
+>   problems more generally, especially in semantics and the philosophy of
+>   language. Indeed, as is well known, the ideas of the logical positivists
+>   exerted a very substantial influence well beyond the boundaries of
+>   professional philosophy, particularly in psychology and the social sciences.
+>   It is not too much to say, therefore, that twentieth-century intellectual life
+>   would be simply uncrecognizable without the deep and pervasive current of
+>   logical positivist thought. [^Friedman1999pxii]
+
+-   TODO: Quine on how huge Carnap's influence is. [^Quine1990-3]
+-   TODO: Positivism affects the structure of education and law
+-   TODO: Connection to the projects of Dewey and pragmatism
+-   "Positivism and progress" in the Proceedings of the 25th Solvay Conference on Physics (2011) [^Heilbron2013]
+-   Verhaegh, S. (2019). The American reception of logical positivism: First encounters (1929-1932). [^Verhaegh2019]
+
+[^Friedman1999pxii]: @Friedman_1999_Reconsidering_Logical_Positivism\, p. xii.
+[^Heilbron2013]: @Heilbron_2013_The_first_Solvay_council_A_sort_of_private\, p. 5.
+[^Quine1990-3]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\, p. TODO.
+[^Verhaegh2019]: @Verhaegh_2019_The_American_reception_of_logical_positivism\.
 
 
 ### Realist turn
