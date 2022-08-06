@@ -212,6 +212,18 @@ Descartes (often seen as anti-naturalist, explain, but he) wrote in 1644,
 >   the other branches of knowledge. These branches can be reduced to three
 >   principal ones, namely, Medicine, Mechanics, and Ethics. [^Descartes1644pxxiv]
 
+Reichenbach:
+
+>   What unites the members of this group is not the maintenance
+>   of a philosophical "system," but a community of working methods---an 
+>   agreement to treat philosophical problems as scientific problems
+>   whose answers are capable of soliciting universal assent.
+>   Philosophical problems, in other words, do not differ in principle
+>   from problems of the positive sciences. The strength of this group
+>   lies in its common working program and not in a common doctrine---a
+>   program which distinguishes it from philosophical sects, and makes
+>   possible progress in research. [^Reichenbach1936p142]
+
 Russell:
 
 >   In the welter of conflicting fanaticisms, one of the few unifying forces is
@@ -247,6 +259,7 @@ Sellars:
 
 [^Costa2012]: @Costa_2012_Philosophy_as_a_protoscience\.
 [^Descartes1644pxxiv]: @Descartes_1982_Principles_of_Philosophy\, p. xxiv.
+[^Reichenbach1936p142]: @Reichenbach_1936_Logistic_empiricism_in_Germany_and_the_present\, p. 142.
 [^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
 [^Lugg2006]: @Lugg_2006_Russell_as_a_precursor_of_Quine\.
 [^Sellars1963p2]: @Sellars_1963_Science_Perception_and_Reality\, p. 2.

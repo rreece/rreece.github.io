@@ -248,7 +248,7 @@ More:
     -   logico-deductive method founded by Euclid's *Elements*
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
 -   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu) (fl. 4th to 5th century CE)
--   [Dign&amacr;ga](https://en.wikipedia.org/wiki/Dign%C4%81ga) (c. 480--540 CE)
+-   [Dign&amacr;ga](https://en.wikipedia.org/wiki/Dign%C4%81ga) (c. 480-540 CE)
 -   [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) (1839-1914)
 -   [Frege, Gottlob (1848-1925)](https://en.wikipedia.org/wiki/Gottlob_Frege)
     -   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift) (1879)

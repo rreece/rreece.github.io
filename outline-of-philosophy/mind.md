@@ -154,7 +154,9 @@ Neuroscience
 -   Libet experiments
 -   Tononi, G. & Edelman, G.M. (1998). Consciousness and complexity. [^Tononi1998]
 -   Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. [^Koch2016]
+-   Cohen, M.A., Dennett, D.C., & Kanwisher, N. (2016). [What is the bandwidth of perceptual experience?](https://dspace.mit.edu/bitstream/handle/1721.1/112190/nihms769621.pdf). [^Cohen2016b]
 
+[^Cohen2016b]: @Cohen_2016_What_is_the_bandwidth_of_perceptual_experience\.
 [^Tononi1998]: @Tononi_1998_Consciousness_and_complexity\.
 [^Koch2016]: @Koch_2016_Neural_correlates_of_consciousness_Progress\.
 
@@ -345,6 +347,7 @@ Click to show links
 ### SEP
 
 -   [Agency](http://plato.stanford.edu/entries/agency/)
+-   [Attention](https://plato.stanford.edu/entries/attention/)
 -   [Behaviorism](http://plato.stanford.edu/entries/behaviorism/)
 -   [Computational Theory of Mind](http://plato.stanford.edu/entries/computational-mind/)
 -   [Consciousness and Intentionality](https://plato.stanford.edu/entries/consciousness-intentionality/)

@@ -1,6 +1,7 @@
 Andrews, M. (2021). The math is not the territory: Navigating the free energy principle. *Biology & Philosophy*, 36, 1--19. http://philsci-archive.pitt.edu/18974/
 Bunge, M. (2010). *Mind and Matter: A Philosophical Inquiry*. Dordrecht: Springer.
 Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+Cohen, M.A., Dennett, D.C., & Kanwisher, N. (2016). What is the bandwidth of perceptual experience? *Trends in Cognitive Sciences*, 20, 324--335. https://dspace.mit.edu/bitstream/handle/1721.1/112190/nihms769621.pdf
 Davidson, D. (1982). Rational animals. *Dialectica*, 36, 317--327.
 Dennett, D.C. (1991). *Consciousness Explained*. Hachette Book Group.
 Dennett, D.C. (2016). Illusionism as the obvious default theory of consciousness. *Journal of Consciousness Studies*, 23, 65--72. https://ase.tufts.edu/cogstud/dennett/papers/illusionism.pdf

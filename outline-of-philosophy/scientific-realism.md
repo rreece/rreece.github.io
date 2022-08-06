@@ -302,6 +302,11 @@ but we have no ontological commitments to them.
 
 -   Antirealist
 
+See also:
+
+-   [Positivism](#positivism)
+-   [Pragmatism](#pragmatism)
+
 
 ### History
 
@@ -744,13 +749,19 @@ Comte on the unknowability of the composition of stars:
 -   [Ludwig Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906)
 
 
+#### Gottlob Frege
+
+-   [Gottlob Frege](https://en.wikipedia.org/wiki/Begriffsschrift) (1848-1925)
+-   Not exactly positivist, but drove the logicism project that influenced logical positivism.
+-   *Concept-script* (*Begriffsschrift*) (1879)
+-   On sense and reference (&Uuml;ber Sinn und Bedeutung) (1892)
+-   Frege's context principle: "Only in the context of a sentence do words have meaning" [^Reck2009]
+
+
 #### Ludwig Wittgenstein
 
--   Gottlob Frege (1848-1925)
-    -   Sense and reference (1892)
-    -   Frege's context principle: "Only in the context of a sentence do words have meaning" [^Reck2009]
 -   Ludwig Wittgenstein (1889-1951)
-    -   [The linguistic turn](https://en.wikipedia.org/wiki/Linguistic_turn)
+-   [The linguistic turn](https://en.wikipedia.org/wiki/Linguistic_turn)
     -   [Gustav Bergmann](https://en.wikipedia.org/wiki/Gustav_Bergmann) (1906-1987)
 
 Wittgenstein studied with, was influenced by, and influenced:
@@ -758,6 +769,7 @@ Wittgenstein studied with, was influenced by, and influenced:
 -   Bertrand Russell & Afred North Whitehead
     -   *Principia Mathematica* (1910)
 -   George Edward Moore
+-   [Friedrich Waismann](https://en.wikipedia.org/wiki/Friedrich_Waismann) (1896-1959)
 
 >   *Tractatus Logico-Philosophicus* [is] the only philosophy book that Wittgenstein
 >   published during his lifetime. It claimed to solve all the major problems
@@ -835,6 +847,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   Logical positivism/empiricism
 -   The beginning of The Circle was an unnamed gathering in Vienna founded by Hans Hahn in 1907.[^Stadler2015pxx]
     -   Attened by Philipp Frank, Otto Neurath, and Richard von Mises.
+-   Ernst Mach Society
 
 ![Left: The entrance to the Mathematical Seminar at the University of Vienna,
   at Boltzmanngasse 5, the meeting place of the Vienna Circle during their
@@ -844,7 +857,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 
 -   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924 to 1936.
     -   Moritz Schlick, Rudolf Carnap, Otto Neurath, Hans Hahn, 
-        Philipp Frank, Friedrich Waismann, Gustav Bergmann,
+        Herbert Feigl, Philipp Frank, Friedrich Waismann, Gustav Bergmann,
         Kurt G&ouml;del, Victor Kraft, and others.
     -   Ludwig Wittgenstein and Karl Popper corresponded with the circle but did not attend.
     -   The circle discussed Wittgenstein's *Tractatus Logico Philosophicus* in detail during the years 1925--1927.
@@ -854,14 +867,14 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   Schlick, M. (1925). *General Theory of Knowledge*. [^Schlick1974]
 -   Carnap, R. (1928). *The Logical Structure of the World* (*Der Logische Aufbau der Welt*). [^Carnap1928]
     -   Rational reconstruction
--   [The scientific conception of the world: The Vienna Circle](http://rreece.github.io/philosophy-reading-list/docs/the-scientific-conception-of-the-world-the-vienna-circle.pdf) (1929) [^Hahn1973]
+-   Hahn, H., Neurath, O., & Carnap, R. (1929). [The scientific conception of the world: The Vienna Circle](http://rreece.github.io/philosophy-reading-list/docs/the-scientific-conception-of-the-world-the-vienna-circle.pdf). [^Hahn1973]
     -   Wissenschaftliche Weltauffassung: Der Wiener Kreis
     -   The Vienna Circle's manifesto
 -   In 1930 the Vienna Circle and the Berlin Circle took over the journal *Annalen der Philosophie*
     and made it the main journal of logical empiricism under the title *Erkenntnis*,
     edited by Carnap and Reichenbach.
     -   Schlick, M. (1930). [The turning point in philosophy](http://zolaist.org/wiki/images/7/79/The_Turning_Point_in_Philosophy.pdf). [^Schlick1930]
-    -   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932a]
+    -   Carnap, R. (1932). [The elimination of metaphysics through logical analysis of language](https://philpapers.org/archive/TEO.pdf). [^Carnap1932a]
     -   Carnap, R. (1932). [On protocol sentences](http://www.ualberta.ca/~francisp/NewPhil448/Carnap1932ProtocolSentences.pdf). [^Carnap1932b]
     -   Schlick, M. (1933). Positivism and realism. [^Schlick1933]
 -   Blumberg, A.E. & Feigl, H. (1931). Logical positivism: A new movement in European philosophy. [^Blumberg1931]
@@ -877,6 +890,7 @@ Reviews:
 -   Stadler, F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. [^Stadler2015]
 -   Sigmund, K. (2017). *Exact Thinking in Demented Times: The Vienna Circle and the epic quest for the foundations of science*. [^Sigmund2017]
     -   Review: Cat, J. (2017). [How Viennese scientists fought the dogma, propaganda and prejudice of the 1930s](https://www.nature.com/articles/d41586-017-07819-z).
+-   Verhaegh, S. (2019). The American reception of logical positivism: First encounters (1929-1932). [^Verhaegh2019]
 -   Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. [^Edmonds2020a]
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
@@ -896,13 +910,16 @@ Reviews:
 [^Stadler2015]: @Stadler_2015_The_Vienna_Circle_Studies_in_the_origins\.
 [^Stadler2015pxx]: @Stadler_2015_The_Vienna_Circle_Studies_in_the_origins\, p. xx and
     @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\, p. 6.
+[^Verhaegh2019]: @Verhaegh_2019_The_American_reception_of_logical_positivism\.
 
 
 ### The Berlin Circle
 
 -   Hans Reichenbach (1891-1953)
--   In 1928, Reichenbach founded the Berlin Circle, which was called *Die Gesellschaft für empirische Philosophie* (*Society for Empirical Philosophy*).
--   Carl Gustav Hempel, Richard von Mises, David Hilbert, and Kurt Grelling
+-   Originated with Hans Reichenbach's seminars held from October 1926 at the University of Berlin.
+-   In 1928, Reichenbach founded the Berlin Group, which was called *Die Gesellschaft f&uuml;r empirische Philosophie* (*Society for Empirical Philosophy*).
+    -   Walter Dubislav, Alexander Herzberg, Kurt Grelling,
+        Carl Gustav Hempel, Richard von Mises, and David Hilbert.
 -   Reichenbach, H. (1936). Logistic empiricism in Germany and the present state of its problems. [^Reichenbach1936]
 -   Creath, R. (2017). [Logical empiricism](https://plato.stanford.edu/entries/logical-empiricism). [^Creath2017a]
 -   Milkov, N. (2013). The Berlin Group and the Vienna Circle: Affinities and divergences. [^Milkov2013]
@@ -921,7 +938,11 @@ TODO: Note any differences between:
 
 ### Later positivism
 
--   Carnap emigrated to the United States in 1935 and became a professor at the University of Chicago.
+-   In 1933, Adolf Hitler became Chancellor of Germany.
+-   In 1933, Reichenbach moved to Turkey to become chief of the Department of Philosophy
+    at the University at Istanbul.
+-   In 1935, Carnap emigrated to the United States and became a professor
+    at the University of Chicago.
 -   Carnap, R. (1936). Testability and meaning. [^Carnap1936]
     -   Argued to replace verification with confirmation.
     -   Carnap spent many years trying to develop a theory of degree of confirmation
@@ -932,7 +953,7 @@ TODO: Note any differences between:
     -   Only the first volume of *Foundations of the Unity of Science*, in two volumes, was ever published between 1938 and 1969.
     -   Neurath, O., Carnap, R., & Morris, C.W. (1955). *International Encyclopedia of Unified Science, Vol. 1*. [^Neurath1938]
 -   [Anschluss](https://en.wikipedia.org/wiki/Anschluss): The annexation of Austria by the Third Reich on March 13, 1938.
--   Reichenbach emigrated to the US in 1938 and became a professor at UCLA.
+-   In 1938, Reichenbach emigrated to the US and became a professor at UCLA.
 -   The Fifth International Congress for the Unity of Science met at Harvard in 1939.
     -   On September 1, 1939, two days before the start of the congress,
         Germany invaded Poland, and Britain and France declared war on Germany.
@@ -990,6 +1011,7 @@ Discussion:
 [^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
 [^Quine1960b]: @Quine_1960_Carnap_and_logical_truth\.
 [^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
+
 
 #### Reichenbach
 
@@ -1192,8 +1214,14 @@ See also:
 
 -   Late Wittgenstein
 -   Instrumentalist and pragmatist
+-   [Blue and Brown Books](https://en.wikipedia.org/wiki/Blue_and_Brown_Books) (1933-35)
+    -   Lecture notes and notes dictated, mimeographed as a few copies and circulated
+        during Wittgenstein's lifetime.
 -   Wittgenstein, L. (1953). *Philosophical Investigations*. [^Wittgenstein2009]
-    -   Duck-rabbit; "seeing that" vs "seeing as"
+    -   Published posthumously in 1953.
+    -   Edited and translated to English by G.E.M. Anscombe.
+    -   Language games; Meaning as use.
+    -   Duck-rabbit; "seeing that" vs "seeing as".
 -   An important project is to understand the differences between early (*TLP*)
     and late (*PI*) Wittgenstein. It is quite the about-face.
     -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
@@ -1228,10 +1256,10 @@ See also:
 
 -   Anti-positivism, Kuhn, Popper
 -   post-structuralism, postmodernism (continental)
+-   Hempel, C.G. (1950). Problems and changes in the empiricist criterion of meaning. [^Hemple1950]
 -   In 1967 John Passmore reported that: "Logical positivism, then,
     is dead, or as dead as a philosophical movement ever becomes." [^Passmore1967]
 -   Ayer, A.J. 
--   Hempel, C.G. (1950). Problems and changes in the empiricist criterion of meaning. [^Hemple1950]
 -   Suppe (2000): Death of positivism was a talk by Carl Hempel on March 26, 1969. [^Suppe2000]
     -   "Formulation and formalization of scientific theories" [^Hempel1974]
     -   Clarke & Primo (2004) [^Clarke2004]
@@ -1247,11 +1275,6 @@ Clarke & Primo:
 Ayer:
 
 >   The most important defect was that nearly all of it was false. [^Ayer1978]
-
-Much ado is made about positivism being "dead", but its influence is still
-promenent over philosophy and the structure of societies.
-
--   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 
 Bunge:
 
@@ -1279,12 +1302,14 @@ Bunge:
 [^Hemple1950]: @Hempel_1950_Problems_and_changes_in_the_empiricist_criterion\.
 [^Hempel1974]: @Hempel_1974_Formulation_and_formalization_of_scientific\.
 [^Passmore1967]: @Passmore_1967_Logical_positivism and 
-    @Creath_2011_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
+    @Creath_2017_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Suppe2000]: @Suppe_2000_Understanding_scientific_theories_An_assessment\.
-[^Whetsell2013]: @Whetsell_2013_The_dynamics_of_positivism_in_the_study_of_public\.
 
 
 ### Lasting influence of positivism
+
+Much ado is made about positivism being "dead", but its influence is still
+promenent in philosophy, sociology, and public administration.
 
 Friedman:
 
@@ -1300,14 +1325,14 @@ Friedman:
 
 -   TODO: Quine on how huge Carnap's influence is. [^Quine1990-3]
 -   TODO: Positivism affects the structure of education and law
+-   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 -   TODO: Connection to the projects of Dewey and pragmatism
 -   "Positivism and progress" in the Proceedings of the 25th Solvay Conference on Physics (2011) [^Heilbron2013]
--   Verhaegh, S. (2019). The American reception of logical positivism: First encounters (1929-1932). [^Verhaegh2019]
 
 [^Friedman1999pxii]: @Friedman_1999_Reconsidering_Logical_Positivism\, p. xii.
 [^Heilbron2013]: @Heilbron_2013_The_first_Solvay_council_A_sort_of_private\, p. 5.
 [^Quine1990-3]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\, p. TODO.
-[^Verhaegh2019]: @Verhaegh_2019_The_American_reception_of_logical_positivism\.
+[^Whetsell2013]: @Whetsell_2013_The_dynamics_of_positivism_in_the_study_of_public\.
 
 
 ### Realist turn
@@ -1684,6 +1709,7 @@ See also:
 
 ### Discussion
 
+-   Harding, S. (1986). *The Science Question in Feminism*. [^Harding1986]
 -   Decolonizing science
     -   Prescod-Weinstein, Chanda. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
     -   Roy, Rohan Deb. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
@@ -1691,6 +1717,8 @@ See also:
 See also:
 
 -   [Criticisms of naturalism in the Outline on naturalism](naturalism.html#criticisms-of-naturalism)
+
+[^Harding1986]: @Harding_1986_The_Science_Question_in_Feminism\.
 
 
 ### Criticism
