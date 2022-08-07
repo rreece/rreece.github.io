@@ -307,6 +307,16 @@ Bunge:
 -   Callard, A. (2018). [How philosophy makes progress](https://dailynous.com/2018/05/27/how-philosophy-makes-progress-agnes-callard/).
 -   Priest, G. (2020). Philosophy and its history: An essay in the philosophy of philosophy. [^Priest2020]
 
+Carnap:
+
+>   If we allot to the individual in philosophical work as in the special sciences
+>   only a partial task, then we can look with more confidence into the future:
+>   in slow careful construction insight after insight will be won. Each
+>   collaborator contributes only what he can endorse and justify before
+>   the whole body of his co-workers. Thus stone will be carefully added to
+>   stone and a safe building will be erected at which each following
+>   generation can continue to work. [^Carnap1928pxvii]
+
 Bunge:
 
 >   Good philosophy is worth doing because it is a vantage point for the study
@@ -330,6 +340,7 @@ See also:
 
 [^Bunge2001p10]: @Bunge_2001_Philosophy_in_Crisis_The_Need_for_Reconstruction\, p. 10.
 [^Bunge2012]: @Bunge_2012_Evaluating_Philosophies\.
+[^Carnap1928pxvii]: @Carnap_2003_The_Logical_Structure_of_the_World\, p. xvii.
 [^Priest2020]: @Priest_2020_Philosophy_and_its_history_An_essay\.
 
 
@@ -471,6 +482,7 @@ Physicalism
     -   Spurrett, D.J. (1999). *The Completeness of Physics*. [^Spurrett1999]
     -   Spurrett, D.J. & Papineau, D. (1999). A note on the completeness of 'physics'. [^Spurrett1999b]
 -   Ney, A. (2021). The fundamentality of physics: Completeness or maximality? [^Ney2021a]
+-   Principle of Naturalistic Closure (PNC) [^Ladyman2007p37]
 
 See also:
 
@@ -478,6 +490,7 @@ See also:
 -   [Physicalism](human-condition.html#physicalism) in the [Outline on the Human Condition](human-condition.html)
 -   [Reductionism](#reductionism)
 
+[^Ladyman2007p37]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 37.
 [^Ney2021a]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
 [^Spurrett1999]: @Spurrett_1999_The_Completeness_of_Physics\.
 [^Spurrett1999b]: @Spurrett_1999_A_note_on_the_completeness_of_physics\.

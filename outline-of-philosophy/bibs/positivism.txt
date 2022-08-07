@@ -26,9 +26,13 @@ Leitgeb, H. & Carus, A. (2020). Rudolf Carnap. *Stanford Encyclopedia of Philoso
 Milkov, N. (2013). The Berlin Group and the Vienna Circle: Affinities and divergences. In N. Milkov & V. Peckhaus (Eds.) *The Berlin Group and the Philosophy of Logical Empiricism* (pp. 3--32). Springer.
 Murzi, M. (2004). Vienna circle. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/viennacr/
 Murzi, M. (2001). Rudolf Carnap (1891-1970). *Internet Encyclopedia of Philosophy*. https://iep.utm.edu/carnap/
+Neurath, O. (1983). Protocol statements. In R.S. Cohen & M. Neurath (eds.) *Otto Neurath Philosophical Papers, 1913-1946* (pp. 91--99). Dordrecht: Reidel. [(Originally published in 1933)]
+Neurath, O. (1973). Anti-Spengler. In M. Neurath & R.S. Cohen (Eds.) *Empiricism and Sociology* (pp. 158--213). Dordrecht: Reidel. [(Originally published in 1921)]
 Neurath, O., Carnap, R., & Morris, C.W. (1955). *International Encyclopedia of Unified Science, Vol. 1*. University of Chicago Press.
 Passmore, J. (1967). Logical positivism. In P. Edwards (Ed.) *The Encyclopedia of Philosophy, Volume 5* (pp. 52--57). New York: Macmillan.
 Potochnik, A. (2011). A Neurathian conception of the unity of science. *Erkenntnis*, 74(3), 305--319.
+Quine, W.V.O. (1970). Homage to Rudolf Carnap. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1970, XI--LXVI.
+Ramsey, F.P. (1923). Review of Tractatus Logico-Philosophicus by L. Wittgenstein & B. Russell. *Mind*, 32, 465--478.
 Reichenbach, H. (1936). Logistic empiricism in Germany and the present state of its problems. *The Journal of Philosophy*, 33, 141--160.
 Reichenbach, H. (1938). *Experience and Prediction*. University of Chicago Press. https://philpapers.org/archive/REIEAP-2.pdf
 Russell, B. (1919). The philosophy of logical atomism: Lectures 7-8. *The Monist*, 29(3), 345--380. https://www.jstor.org/stable/pdf/27900748.pdf

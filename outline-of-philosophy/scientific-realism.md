@@ -621,7 +621,14 @@ instead realists about science, math, and/or ethics, for example following
 a version of structural realism about the discoveries from science, capturing
 and constraining real structures in nature.
 
+Creath:
+
+>   contemporary philosophers promote a kind of naturalism, and by so doing
+>   they follow both the precept and the example of the logical
+>   empiricists. [^Creath2017a]
+
 [^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
+[^Creath2017a]: @Creath_2017_Logical_empiricism\.
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 [^Schlick1948p479]: @Schlick_1948_Positivism_and_realism\, p. 479.
 
@@ -663,8 +670,6 @@ TODO: list thesis from the Vienna Circle manifesto.
 >   ‘philosophical’ pronouncements. The method of this clarification is that of logical
 >   analysis. [^Hahn1973Sec2b]
 
--   [Mauro Murzi's pages on Philosophy of Science: Logical positivism](http://www.murzim.net/LP/LP00.html)
-
 Schlick:
 
 >   The fundamental principle of the positivist then seems to run: "Only the given is real". [^Schlick1948p480]
@@ -683,6 +688,7 @@ Fetzer:
 
 More:
 
+-   [Mauro Murzi's pages on Philosophy of Science: Logical positivism](http://www.murzim.net/LP/LP00.html)
 -   Caulton, A. (2014). Lecture notes: [Logical positivism/empiricism](https://adamcaulton.files.wordpress.com/2014/08/lecture21.pdf).
 
 [^Carnap1937LSLp51]: @Carnap_1937_Logical_Syntax_of_Language\, p. 51.
@@ -793,6 +799,8 @@ Wittgenstein studied with, was influenced by, and influenced:
     -   Anti-metaphysics that impressed the logical positivists
 -   [C.K. Ogden & F.P. Ramsey translation](https://web.archive.org/web/20200726065157/http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
 -   [D.F. Pears & B.F. McGuinness translation](https://web.archive.org/web/20200228040145/http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
+-   [F.P. Ramsey](https://plato.stanford.edu/entries/ramsey) (1903-1930)
+    -   Ramsey, F.P. (1923). Review of Tractatus Logico-Philosophicus. [^Ramsey1923]
 -   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
 -   Wittgenstein's *Tractatus* was read by and greatly influenced The Vienna Circle.
     While Wittgenstein had relations with them, he never participated in the meetings
@@ -809,6 +817,11 @@ Wittgenstein studied with, was influenced by, and influenced:
     -   During a period of transition from his early thought in the *Tractatus*
         and his later thought in *PI*.
 
+Wittgenstein's scientific attitude summarized in the Vienna Circle
+manifesto:
+
+>   "What can be said at all, can be said clearly" (Wittgenstein) [^Hahn1973Sec1_2]
+
 Wittgenstein explaining the point of the *Tractatus* in a letter to Russell:
 
 >   The main point is the theory of what can be expressed (*gesagt*) by
@@ -817,15 +830,11 @@ Wittgenstein explaining the point of the *Tractatus* in a letter to Russell:
 >   but only shown (*gezeigt*); which, I believe, is the cardinal problem
 >   of philosophy. [^Anscombe1959p161]
 
-Wittgenstein's scientific attitude summarized in the Vienna Circle
-manifesto:
-
->   "What can be said at all, can be said clearly" (Wittgenstein) [^Hahn1973Sec1_2]
-
 Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
 [^Anscombe1959p161]: @Anscombe_1959_An_Introduction_to_Wittgensteins_Tractatus\, p. 161.
 [^Hahn1973Sec1_2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 1.2.
+[^Ramsey1923]: @Ramsey_1923_Review_of_Tractatus_Logico_Philosophicus_by_L\.
 [^Reck2009]: @Reck_1997_Freges_influence_on_Wittgenstein_Reversing\.
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\. <https://iep.utm.edu/wittgens/>
 [^Russell1919]: @Russell_1919_The_philosophy_of_logical_atomism_Lectures_7_8\.
@@ -848,6 +857,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   The beginning of The Circle was an unnamed gathering in Vienna founded by Hans Hahn in 1907.[^Stadler2015pxx]
     -   Attened by Philipp Frank, Otto Neurath, and Richard von Mises.
 -   Ernst Mach Society
+-   Carnap met Reichenbach at the "Erlangen Conference", March 6-13, 1923.
 
 ![Left: The entrance to the Mathematical Seminar at the University of Vienna,
   at Boltzmanngasse 5, the meeting place of the Vienna Circle during their
@@ -855,7 +865,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
   Right: The Vienna Circle's manifesto, Wissenschaftliche Weltauffassung: Der Wiener Kreis (1929).
 ](img/vienna-circle-seminar-and-manifesto.jpg){#fig:vienna-circle-seminar-and-manifesto}
 
--   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924 to 1936.
+-   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924--1936.
     -   Moritz Schlick, Rudolf Carnap, Otto Neurath, Hans Hahn, 
         Herbert Feigl, Philipp Frank, Friedrich Waismann, Gustav Bergmann,
         Kurt G&ouml;del, Victor Kraft, and others.
@@ -865,8 +875,10 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
         when its manifesto was published as a pamplet in 1929 at
         The First Conference for the Epistemology of the Exact Sciences, in Prague.
 -   Schlick, M. (1925). *General Theory of Knowledge*. [^Schlick1974]
+-   In 1926, Carnap arrives in Vienna as a Privatdozent and joins the Vienna Circle.
 -   Carnap, R. (1928). *The Logical Structure of the World* (*Der Logische Aufbau der Welt*). [^Carnap1928]
     -   Rational reconstruction
+    -   Explication
 -   Hahn, H., Neurath, O., & Carnap, R. (1929). [The scientific conception of the world: The Vienna Circle](http://rreece.github.io/philosophy-reading-list/docs/the-scientific-conception-of-the-world-the-vienna-circle.pdf). [^Hahn1973]
     -   Wissenschaftliche Weltauffassung: Der Wiener Kreis
     -   The Vienna Circle's manifesto
@@ -877,7 +889,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
     -   Carnap, R. (1932). [The elimination of metaphysics through logical analysis of language](https://philpapers.org/archive/TEO.pdf). [^Carnap1932a]
     -   Carnap, R. (1932). [On protocol sentences](http://www.ualberta.ca/~francisp/NewPhil448/Carnap1932ProtocolSentences.pdf). [^Carnap1932b]
     -   Schlick, M. (1933). Positivism and realism. [^Schlick1933]
--   Blumberg, A.E. & Feigl, H. (1931). Logical positivism: A new movement in European philosophy. [^Blumberg1931]
+-   Blumberg, A.E. & Feigl, H. (1930). Logical positivism: A new movement in European philosophy. [^Blumberg1931]
 -   A.J. Ayer (1910-1989)
     -   Ayer, A.J. (1936). *Language, Truth, and Logic*. [^Ayer1936]
     -   Helped the spread of positivism in British academia.
@@ -921,7 +933,7 @@ Reviews:
     -   Walter Dubislav, Alexander Herzberg, Kurt Grelling,
         Carl Gustav Hempel, Richard von Mises, and David Hilbert.
 -   Reichenbach, H. (1936). Logistic empiricism in Germany and the present state of its problems. [^Reichenbach1936]
--   Creath, R. (2017). [Logical empiricism](https://plato.stanford.edu/entries/logical-empiricism). [^Creath2017a]
+-   Creath, R. (2017). [Logical empiricism](https://plato.stanford.edu/entries/logical-empiricism). [^Creath2017b]
 -   Milkov, N. (2013). The Berlin Group and the Vienna Circle: Affinities and divergences. [^Milkov2013]
 
 TODO: Note any differences between:
@@ -930,7 +942,7 @@ TODO: Note any differences between:
 -   Logical positivism - Vienna Circle
 -   Logical empiricism - Reichenbach's preferred term [^Reichenbach]
 
-[^Creath2017a]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Creath2017b]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Milkov2013]: @Milkov_2013_The_Berlin_Group_and_the_Vienna_Circle_Affinities\.
 [^Reichenbach]: [www.newworldencyclopedia.org/entry/Hans_Reichenbach](http://www.newworldencyclopedia.org/entry/Hans_Reichenbach)
 [^Reichenbach1936]: @Reichenbach_1936_Logistic_empiricism_in_Germany_and_the_present\.
@@ -954,11 +966,13 @@ TODO: Note any differences between:
     -   Neurath, O., Carnap, R., & Morris, C.W. (1955). *International Encyclopedia of Unified Science, Vol. 1*. [^Neurath1938]
 -   [Anschluss](https://en.wikipedia.org/wiki/Anschluss): The annexation of Austria by the Third Reich on March 13, 1938.
 -   In 1938, Reichenbach emigrated to the US and became a professor at UCLA.
+    -   Hilary Putnam and Wesley Salmon were among Reichenbach's students at UCLA.
 -   The Fifth International Congress for the Unity of Science met at Harvard in 1939.
     -   On September 1, 1939, two days before the start of the congress,
         Germany invaded Poland, and Britain and France declared war on Germany.
     -   Many European attendees did not return to Europe.
 -   Carnap joined UCLA in 1954, the year after Reichenbach died.
+-   Carnap died in 1970.
 -   Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. [^Verhaegh2020]
 
 [^Carnap1936]: @Carnap_1936_Testability_and_meaning\.
@@ -976,6 +990,8 @@ TODO: Note any differences between:
 -   Carnap, R. (1950). Empiricists, semantics, and ontology. (ESO) [^Carnap1950]
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
     -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
+
+Carnap in ESO:
 
 >   An alleged statement of the reality of the system of entities is a
 >   pseudo-statement without cognitive content. To be sure, we have to face
@@ -1013,6 +1029,48 @@ Discussion:
 [^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 
 
+#### Neurath's boat
+
+-   Coherentism
+
+Neurath:
+
+>   Duhem has shown with special emphasis that every statement about any
+>   happening is saturated with hypotheses of all sorts and that these in
+>   the end are derived from our whole world-view. We are like sailors who
+>   on the open sea must reconstruct their ship but are never able to start
+>   afresh from the bottom. Where a beam is taken away a new one must at
+>   once be put there, and for this the rest of the ship is used as support. In
+>   this way, by using the old beams and driftwood, the ship can be shaped
+>   entirely anew, but only by gradual reconstruction. [^Neurath1973p199]
+
+and
+
+>   There is no way to establish fully secured, neat protocol statements as
+>   starting points of the sciences. There is no *tabula rasa*. We are like
+>   sailors who have to rebuild their ship on the open sea, without ever being
+>   able to dismantle it in dry-dock and reconstruct it from the best components.
+>   Only metaphysics can disappear without trace. Imprecise 'verbal clusters'
+>   ['*Ballungen*'] are somehow always part of the ship. If imprecision is
+>   diminished at one place, it may well re-appear at another place to a
+>   stronger degree. [^Neurath1933p92]
+
+Quine:
+
+>   Neurath has likened science to a boat which, if we are to rebuild it, we
+>   must rebuild plank by plank while staying afloat in it. The philosopher
+>   and the scientist are in the same boat. If we improve our understanding
+>   of ordinary talk of physical things, it will not be by reducing that talk
+>   to a more familiar idiom; there is none. It will be by clarifying the
+>   connections, causal or otherwise, between ordinary talk of physical things
+>   and various further matters which in turn we grasp with help of ordinary
+>   talk of physical things. [^Quine1960p3]
+
+[^Neurath1933p92]: @Neurath_1983_Protocol_statements\, p. 92.
+[^Neurath1973p199]: @Neurath_1973_Anti_Spengler\, p. 199.
+[^Quine1960p3]: @Quine_1960_Word_and_Object\, p. 3.
+
+
 #### Reichenbach
 
 On logical empiricism and Reichenbach at UCLA:
@@ -1028,7 +1086,7 @@ On logical empiricism and Reichenbach at UCLA:
 >   philosophize and to be cautious in telling practicing scientists what
 >   concepts they may or may not use. In these respects and others contemporary
 >   philosophers promote a kind of naturalism, and by so doing they follow
->   both the precept and the example of the logical empiricists. [^Creath2017b]
+>   both the precept and the example of the logical empiricists. [^Creath2017c]
 
 and
 
@@ -1037,7 +1095,7 @@ and
 >   Reichenbach. Though interested in social and educational reform, he worked
 >   primarily in philosophy of physics. He developed and defended a frequency
 >   theory of probability, and emphasized both scientific realism and the
->   importance of causality and causal laws. [^Creath2017c]
+>   importance of causality and causal laws. [^Creath2017d]
 
 Reichenbach:
 
@@ -1047,22 +1105,44 @@ Reichenbach:
 Reichenbach on probability:
 
 >   locates the probability objectively "out in nature" so to speak,
->   and this comports well with Reichenbach's scientific realism. [^Creath2017d]
+>   and this comports well with Reichenbach's scientific realism. [^Creath2017e]
+
+-   TODO: later Reichenbach was a scientific realist.
+
+[^Creath2017c]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Creath2017d]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Creath2017e]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction\.
+[^Reichenbach1968]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\.
+
+
+### Neopositivism
+
+-   Friedrich Stadler (b. 1951) - Director of the Vienna Circle Society
+-   Richard Creath (b. 1947) - Editor of the *Quine-Carnap Correspondence* (1990)
+-   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*.
+    -   Self-identify as neo-positivists [^Ladyman2007p303]
+
+Final words of Ladyman and Ross (2007):
+
+>   Of all the main historical positions in philosophy,
+>   the logical positivists and logical empiricists came closest to the insights
+>   we have urged. Over-reactions to their errors have led metaphysicians over
+>   the past few decades into widespread unscientiﬁc and even anti-scientific
+>   intellectual waters. We urge them to come back and rejoin the great epistemic
+>   enterprise of modern civilization. [^Ladyman2007p310]
 
 Also:
 
 -   Movements in "positivism": [positivists.org/blog/movements](http://positivists.org/blog/movements)
--   Neopositivism
--   Richard Creath
--   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007pX]
 -   Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
 
-[^Creath2017b]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
-[^Creath2017c]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
-[^Creath2017d]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
-[^Ladyman2007pX]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. TODO.
-[^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction\.
-[^Reichenbach1968]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\.
+See also:
+
+-   [Lasting influence of positivism](#lasting-influence-of-positivism)
+
+[^Ladyman2007p303]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 303.
+[^Ladyman2007p310]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 310\.
 
 
 Postpositivism
@@ -1139,7 +1219,7 @@ Feigl:
 -   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
 -   Schuldenfrei, R. (1972). Quine in perspective. [^Schuldenfrei1972]
 -   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986a]
--   Quine-Carnap correspondence [^Quine1990-2]
+-   *Quine-Carnap Correspondence* (1990) [^Quine1990-2]
 -   Putnam, H. (1973). Meaning and reference. [^Putnam1973]
 -   Field, H. (1974). Theory change and the indeterminacy of reference. [^Field1974]
 -   Quine, W.V.O. (1991). Two dogmas in retrospect. [^Quine1991]
@@ -1200,12 +1280,12 @@ See also:
     -   Sankey [^Sankey1997]
 -   Imre Lakatos (1922-1974)
     -   Scientific research programmes
+-   Paul Feyerabend (1924-1994)
+    -   Epistemological anarchism
 -   Larry  Laudan (b. 1941)
     -   Scientific research traditions
     -   Pessimistic meta-induction (PMI)
     -   Science cannot be value free
--   Paul Feyerabend (1924-1994)
-    -   Epistemological anarchism
 
 [^Sankey1997]: @Sankey_1997_Rationality_Relativism_and_Incommensurability\.
 
@@ -1323,15 +1403,32 @@ Friedman:
 >   would be simply uncrecognizable without the deep and pervasive current of
 >   logical positivist thought. [^Friedman1999pxii]
 
--   TODO: Quine on how huge Carnap's influence is. [^Quine1990-3]
+Quine:
+
+>   Carnap is a towering figure. I see him as the dominant figure in philosophy
+>   from the 1930's onward, as Russell had been in the decades before. [^Quine1970pxxii]
+
+and
+
+>   Carnap was my greatest teacher...
+>   I was very much his disciple for six years. In later years his views
+>   went on evolving and so did mine, in divergent ways. But even where we
+>   disagreed he was still setting the theme; the line of my thought was largely
+>   determined by problems that I felt his position presented. [^Quine1970pxxiii]
+
 -   TODO: Positivism affects the structure of education and law
 -   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 -   TODO: Connection to the projects of Dewey and pragmatism
 -   "Positivism and progress" in the Proceedings of the 25th Solvay Conference on Physics (2011) [^Heilbron2013]
 
+See also:
+
+-   [Neopositivism](#neopositivism)
+
 [^Friedman1999pxii]: @Friedman_1999_Reconsidering_Logical_Positivism\, p. xii.
 [^Heilbron2013]: @Heilbron_2013_The_first_Solvay_council_A_sort_of_private\, p. 5.
-[^Quine1990-3]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\, p. TODO.
+[^Quine1970pxxii]: @Quine_1970_Homage_to_Rudolf_Carnap\, p. xxii.
+[^Quine1970pxxiii]: @Quine_1970_Homage_to_Rudolf_Carnap\, p. xxiii.
 [^Whetsell2013]: @Whetsell_2013_The_dynamics_of_positivism_in_the_study_of_public\.
 
 
