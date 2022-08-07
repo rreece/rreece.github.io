@@ -477,6 +477,7 @@ Physicalism
 -   Parmenides
 -   Materialism, physicalism, functionalism
 -   Alyssa Ney on dualism, physicalism, neutral monism
+-   Ruja, H. (1957). Are naturalists materialists? [^Ruja1957]
 -   Completeness Thesis:
     -   "the domain of the physical is causally closed."
     -   Spurrett, D.J. (1999). *The Completeness of Physics*. [^Spurrett1999]
@@ -492,6 +493,7 @@ See also:
 
 [^Ladyman2007p37]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 37.
 [^Ney2021a]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
+[^Ruja1957]: @Ruja_1957_Are_naturalists_materialists\.
 [^Spurrett1999]: @Spurrett_1999_The_Completeness_of_Physics\.
 [^Spurrett1999b]: @Spurrett_1999_A_note_on_the_completeness_of_physics\.
 
@@ -751,7 +753,8 @@ Schopenhauer:
 
 -   Methodological naturalism
 -   Is there any unique project left for metaphysics?
-    -   "Are the questions of metaphysics more fundamental than those of science?" [^Ney2019]
+    -   Ney, A. (2019). Are the questions of metaphysics more fundamental than those of science? [^Ney2019]
+    -   Bennett, K. (2015). There is no special problem with metaphysics. [^Bennett2015]
 -   What are the limits of science?
 -   Bunge, M. (1971). Is scientific metaphysics possible? [^Bunge1971]
 -   Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. [^Ross2013]
@@ -760,6 +763,7 @@ See also:
 
 -   [Metaphysical naturalism](#metaphysical-naturalism)
 
+[^Bennett2015]: @Bennett_2015_There_is_no_special_problem_with_metaphysics\.
 [^Bunge1971]: @Bunge_1971_Is_scientific_metaphysics_possible\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
 

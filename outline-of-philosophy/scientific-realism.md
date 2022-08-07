@@ -895,7 +895,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
     -   Helped the spread of positivism in British academia.
 -   The murder of Schlick in 1936 by a former student put an end to the Vienna Circle in Austria.
 
-Reviews:
+Surveys:
 
 -   Stadler, F. (1998). [Vienna Circle](https://www.rep.routledge.com/articles/thematic/vienna-circle/v-1.). In *Routledge Encyclopedia of Philosophy*. [^Stadler1998]
 -   Murzi, M. (2004). [Vienna Circle](https://iep.utm.edu/viennacr/). In  *Internet Encyclopedia of Philosophy*. [^Murzi2004]
@@ -933,6 +933,7 @@ Reviews:
     -   Walter Dubislav, Alexander Herzberg, Kurt Grelling,
         Carl Gustav Hempel, Richard von Mises, and David Hilbert.
 -   Reichenbach, H. (1936). Logistic empiricism in Germany and the present state of its problems. [^Reichenbach1936]
+-   Rescher, N. (2006). The Berlin School of logical empiricism and its legacy. [^Rescher2006]
 -   Creath, R. (2017). [Logical empiricism](https://plato.stanford.edu/entries/logical-empiricism). [^Creath2017b]
 -   Milkov, N. (2013). The Berlin Group and the Vienna Circle: Affinities and divergences. [^Milkov2013]
 
@@ -946,6 +947,7 @@ TODO: Note any differences between:
 [^Milkov2013]: @Milkov_2013_The_Berlin_Group_and_the_Vienna_Circle_Affinities\.
 [^Reichenbach]: [www.newworldencyclopedia.org/entry/Hans_Reichenbach](http://www.newworldencyclopedia.org/entry/Hans_Reichenbach)
 [^Reichenbach1936]: @Reichenbach_1936_Logistic_empiricism_in_Germany_and_the_present\.
+[^Rescher2006]: @Rescher_2006_The_Berlin_School_of_logical_empiricism_and_its\.
 
 
 ### Later positivism
@@ -1108,10 +1110,12 @@ Reichenbach on probability:
 >   and this comports well with Reichenbach's scientific realism. [^Creath2017e]
 
 -   TODO: later Reichenbach was a scientific realist.
+-   Psillos, S. (2011). On Reichenbach's argument for scientific realism. [^Psillos2011]
 
 [^Creath2017c]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Creath2017d]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Creath2017e]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Psillos2011]: @Psillos_2011_On_Reichenbachs_argument_for_scientific_realism\.
 [^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction\.
 [^Reichenbach1968]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\.
 
@@ -1216,12 +1220,12 @@ Feigl:
 -   Quine, W.V.O. (1960). *Word and Object*. [^Quine1960a]
     -   Inscrutability of reference
     -   Indeterminacy of translation
+-   Ruja, H. (1961). The present status of the verifiability criterion. [^Ruja1961]
 -   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
 -   Schuldenfrei, R. (1972). Quine in perspective. [^Schuldenfrei1972]
 -   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986a]
 -   *Quine-Carnap Correspondence* (1990) [^Quine1990-2]
 -   Putnam, H. (1973). Meaning and reference. [^Putnam1973]
--   Field, H. (1974). Theory change and the indeterminacy of reference. [^Field1974]
 -   Quine, W.V.O. (1991). Two dogmas in retrospect. [^Quine1991]
 -   Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? [^Yablo1998]
 
@@ -1251,7 +1255,6 @@ See also:
 
 [^Carnap1955p46]: @Carnap_1955_Meaning_and_synonymy_in_natural_languages\, p. 46--47, footnote 7.
 [^Feigl1956p7]: @Feigl_1956_Some_major_issues_and_developments\, p. 7--8.
-[^Field1974]: @Field_1974_Theory_change_and_the_indeterminacy_of_reference\.
 [^Grice1956]: @Grice_1956_In_defense_of_a_dogma\.
 [^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
 [^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
@@ -1262,6 +1265,7 @@ See also:
 [^Quine1986a]: @Quine_1986_The_Philosophy_of_WVQuine\.
 [^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
 [^Quine1991]: @Quine_1991_Two_dogmas_in_retrospect\.
+[^Ruja1961]: @Ruja_1961_The_present_status_of_the_verifiability_criterion\.
 [^Schuldenfrei1972]: @Schuldenfrei_1972_Quine_in_perspective\.
 [^Warren2016a]: @Warren_2016_Internal_and_external_questions_revisited\.
 [^Warren2016b]: @Warren_2016_Revisiting_Quine_on_truth_by_convention\.
@@ -1286,7 +1290,9 @@ See also:
     -   Scientific research traditions
     -   Pessimistic meta-induction (PMI)
     -   Science cannot be value free
+-   Field, H. (1974). Theory change and the indeterminacy of reference. [^Field1974]
 
+[^Field1974]: @Field_1974_Theory_change_and_the_indeterminacy_of_reference\.
 [^Sankey1997]: @Sankey_1997_Rationality_Relativism_and_Incommensurability\.
 
 

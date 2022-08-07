@@ -31,10 +31,13 @@ Neurath, O. (1973). Anti-Spengler. In M. Neurath & R.S. Cohen (Eds.) *Empiricism
 Neurath, O., Carnap, R., & Morris, C.W. (1955). *International Encyclopedia of Unified Science, Vol. 1*. University of Chicago Press.
 Passmore, J. (1967). Logical positivism. In P. Edwards (Ed.) *The Encyclopedia of Philosophy, Volume 5* (pp. 52--57). New York: Macmillan.
 Potochnik, A. (2011). A Neurathian conception of the unity of science. *Erkenntnis*, 74(3), 305--319.
+Psillos, S. (2011). On Reichenbach's argument for scientific realism. *Synthese*, 181, 23--40.
 Quine, W.V.O. (1970). Homage to Rudolf Carnap. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1970, XI--LXVI.
 Ramsey, F.P. (1923). Review of Tractatus Logico-Philosophicus by L. Wittgenstein & B. Russell. *Mind*, 32, 465--478.
 Reichenbach, H. (1936). Logistic empiricism in Germany and the present state of its problems. *The Journal of Philosophy*, 33, 141--160.
 Reichenbach, H. (1938). *Experience and Prediction*. University of Chicago Press. https://philpapers.org/archive/REIEAP-2.pdf
+Rescher, N. (2006). The Berlin School of logical empiricism and its legacy. *Erkenntnis*, 64, 281--304.
+Ruja, H. (1961). The present status of the verifiability criterion. *Philosophy and Phenomenological Research*, 22, 216--222.
 Russell, B. (1919). The philosophy of logical atomism: Lectures 7-8. *The Monist*, 29(3), 345--380. https://www.jstor.org/stable/pdf/27900748.pdf
 Schlick, M. (1959). The turning point in philosophy. http://zolaist.org/wiki/images/7/79/The_Turning_Point_in_Philosophy.pdf [(D. Rynin, Trans. Originally published in 1933 as Die Wende Der Philosophie. \emph{Erkenntnis}, 1, 4--11.)]
 Schlick, M. (1948). Positivism and realism. *Synthese*, 7, 478--505. [(D. Rynin, Trans. Originally published in 1933 in \emph{Erkenntnis}, 3.)]
