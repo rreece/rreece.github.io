@@ -936,6 +936,7 @@ Surveys:
 -   Rescher, N. (2006). The Berlin School of logical empiricism and its legacy. [^Rescher2006]
 -   Creath, R. (2017). [Logical empiricism](https://plato.stanford.edu/entries/logical-empiricism). [^Creath2017b]
 -   Milkov, N. (2013). The Berlin Group and the Vienna Circle: Affinities and divergences. [^Milkov2013]
+    -   Hempel and his students at the University of Pittsburg are an outgrowth of the Berlin Circle.
 
 TODO: Note any differences between:
 
@@ -1345,7 +1346,7 @@ See also:
 -   Hempel, C.G. (1950). Problems and changes in the empiricist criterion of meaning. [^Hemple1950]
 -   In 1967 John Passmore reported that: "Logical positivism, then,
     is dead, or as dead as a philosophical movement ever becomes." [^Passmore1967]
--   Ayer, A.J. 
+-   A.J. Ayer (1910-1989)
 -   Suppe (2000): Death of positivism was a talk by Carl Hempel on March 26, 1969. [^Suppe2000]
     -   "Formulation and formalization of scientific theories" [^Hempel1974]
     -   Clarke & Primo (2004) [^Clarke2004]
