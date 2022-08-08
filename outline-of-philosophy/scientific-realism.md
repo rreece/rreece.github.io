@@ -890,6 +890,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
     -   Carnap, R. (1932). [On protocol sentences](http://www.ualberta.ca/~francisp/NewPhil448/Carnap1932ProtocolSentences.pdf). [^Carnap1932b]
     -   Schlick, M. (1933). Positivism and realism. [^Schlick1933]
 -   Blumberg, A.E. & Feigl, H. (1930). Logical positivism: A new movement in European philosophy. [^Blumberg1931]
+    -   First survey of logical positivism published in English?
 -   A.J. Ayer (1910-1989)
     -   Ayer, A.J. (1936). *Language, Truth, and Logic*. [^Ayer1936]
     -   Helped the spread of positivism in British academia.
@@ -1035,6 +1036,8 @@ Discussion:
 #### Neurath's boat
 
 -   Coherentism
+-   Anti-foundationalism
+-   Duhem-Quine thesis
 
 Neurath:
 
@@ -1068,6 +1071,10 @@ Quine:
 >   connections, causal or otherwise, between ordinary talk of physical things
 >   and various further matters which in turn we grasp with help of ordinary
 >   talk of physical things. [^Quine1960p3]
+
+See also:
+
+-   [Naturalized metaphysics](naturalism.html#naturalized-metaphysics)
 
 [^Neurath1933p92]: @Neurath_1983_Protocol_statements\, p. 92.
 [^Neurath1973p199]: @Neurath_1973_Anti_Spengler\, p. 199.
@@ -1245,7 +1252,6 @@ Nietzsche:
 >   every one has its perspective, which it would force on all other drives as
 >   a norm. [^NietzscheNotebook7]
 
--   Winburn, A.P. & Clemmons, C.M.J. (2021). [Objectivity is a myth that harms the practice and diversity of forensic science](https://www.sciencedirect.com/science/article/pii/S2589871X21000668). [^Winburn2021]
 -   Warren, J. (2016). Internal and external questions revisited. [^Warren2016a]
 -   Warren, J. (2016). Revisiting Quine on truth by convention. [^Warren2016b]
 
@@ -1270,7 +1276,6 @@ See also:
 [^Schuldenfrei1972]: @Schuldenfrei_1972_Quine_in_perspective\.
 [^Warren2016a]: @Warren_2016_Internal_and_external_questions_revisited\.
 [^Warren2016b]: @Warren_2016_Revisiting_Quine_on_truth_by_convention\.
-[^Winburn2021]: @Winburn_2021_Objectivity_is_a_myth_that_harms_the_practice\.
 [^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
 [^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
 
@@ -1350,7 +1355,6 @@ See also:
 -   Suppe (2000): Death of positivism was a talk by Carl Hempel on March 26, 1969. [^Suppe2000]
     -   "Formulation and formalization of scientific theories" [^Hempel1974]
     -   Clarke & Primo (2004) [^Clarke2004]
--   Awodey, S. & Klein, C. (2004). *Carnap Brought Home: The View from Jena*. [^Awodey2004]
 -   Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. [^Edmonds2020b]
 
 Clarke & Primo:
@@ -1381,7 +1385,6 @@ Bunge:
 >   science is often nothing but an excuse for sloppiness and wild
 >   speculation. [^Bunge1996p317]
 
-[^Awodey2004]: @Awodey_2004_Carnap_Brought_Home_The_View_from_Jena\.
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
 [^Bunge1996p317]: @Bunge_1996_Finding_Philosophy_in_Social_Science\, p. 317.
 [^Clarke2004]: @Clarke_2004_The_theoretical_implications_of_the_empirical\.
@@ -1423,15 +1426,17 @@ and
 >   disagreed he was still setting the theme; the line of my thought was largely
 >   determined by problems that I felt his position presented. [^Quine1970pxxiii]
 
+-   Awodey, S. & Klein, C. (2004). *Carnap Brought Home: The View from Jena*. [^Awodey2004]
 -   TODO: Positivism affects the structure of education and law
 -   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 -   TODO: Connection to the projects of Dewey and pragmatism
--   "Positivism and progress" in the Proceedings of the 25th Solvay Conference on Physics (2011) [^Heilbron2013]
+-   "Positivism and progress" in the *Proceedings of the 25th Solvay Conference on Physics* (2011) [^Heilbron2013]
 
 See also:
 
 -   [Neopositivism](#neopositivism)
 
+[^Awodey2004]: @Awodey_2004_Carnap_Brought_Home_The_View_from_Jena\.
 [^Friedman1999pxii]: @Friedman_1999_Reconsidering_Logical_Positivism\, p. xii.
 [^Heilbron2013]: @Heilbron_2013_The_first_Solvay_council_A_sort_of_private\, p. 5.
 [^Quine1970pxxii]: @Quine_1970_Homage_to_Rudolf_Carnap\, p. xxii.
@@ -2471,7 +2476,7 @@ Click to show links
 -   [Deductive-nomological model](http://en.wikipedia.org/wiki/Deductive-nomological_model)
 -   [Deflationary theory of truth](https://en.wikipedia.org/wiki/Deflationary_theory_of_truth)
 -   [Dewey, John (1859-1952)](https://en.wikipedia.org/wiki/John_Dewey)
--   [Duhem-Quine Thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
+-   [Duhem-Quine thesis](http://en.wikipedia.org/wiki/Duhem%E2%80%93Quine_thesis)
 -   [Essentially contested concept](http://en.wikipedia.org/wiki/Essentially_contested_concept)
 -   [Feyerabend, Paul (1924-1994)](https://en.wikipedia.org/wiki/Paul_Feyerabend)
 -   [Goodman, Nelson (1906-1998)](https://en.wikipedia.org/wiki/Nelson_Goodman)
