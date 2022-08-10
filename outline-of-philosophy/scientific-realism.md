@@ -713,6 +713,21 @@ More:
     -   [Massimiliano Simons' Twitter thread on Comte](https://twitter.com/MassSimons/status/1389914000503283713)
 -   Comte and Mill
 
+J.S. Mill summarizing Comte's positivism:
+
+>   The fundamental doctrine of a true philosophy, according to M. Comte,
+>   and the character by which he defines Positive Philosophy, is the
+>   following:---We have no knowledge of anything but Phaenomena;
+>   and our knowledge of phaenomena is relative, not absolute. We know
+>   not the essence, nor the real mode of production, of any fact, but
+>   only its relations to other facts in the way of succession or of similitude.
+>   These relations are constant; that is, always the same in the same
+>   circumstances. The constant resemblances which link phaenomena together,
+>   and the constant sequences which unite them as antecedent and consequent,
+>   are termed their laws. The laws of phaenomena are all we know respecting
+>   them. Their essential nature, and their ultimate causes, either efficient
+>   or final, are unknown and inscrutable to us. [^Mill1865Part1]
+
 Comte on the unknowability of the composition of stars:
 
 >   On the subject of stars, all investigations which are not ultimately reducible
@@ -728,11 +743,13 @@ Comte on the unknowability of the composition of stars:
 (He was wrong!)
 
 -   Feigl, H. (1981). The origin and spirit of logical positivism. [^Feigl1981]
+-   Later in life, Comte founded the [Religion of Humanity](https://en.wikipedia.org/wiki/Religion_of_Humanity).
 
 [^Comte1835stars]: @Comte_1835_Cours_de_la_Philosophie_Positive\,
     Translation of passage taken from:           
     <https://faculty.virginia.edu/rwoclass/astr1210/comte.html>
 [^Feigl1981]: @Feigl_1981_The_origin_and_spirit_of_logical_positivism\.
+[^Mill1865Part1]: @Mill_1865_Auguste_Comte_and_Positivism, part 1.
 
 
 #### Ernst Mach
@@ -816,6 +833,7 @@ Wittgenstein studied with, was influenced by, and influenced:
     -   Only academic paper published by Wittgenstein.
     -   During a period of transition from his early thought in the *Tractatus*
         and his later thought in *PI*.
+-   Limbeck-Lilienau, C. (2019). Talk: [Sources on Wittgenstein: the Nachlasses of Moritz Schlick, Rudolf Carnap and Friedrich Waismann](https://www.youtube.com/watch?v=VR5q2ugM60E).
 
 Wittgenstein's scientific attitude summarized in the Vienna Circle
 manifesto:
@@ -857,7 +875,11 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   The beginning of The Circle was an unnamed gathering in Vienna founded by Hans Hahn in 1907.[^Stadler2015pxx]
     -   Attened by Philipp Frank, Otto Neurath, and Richard von Mises.
 -   Ernst Mach Society
--   Carnap met Reichenbach at the "Erlangen Conference", March 6-13, 1923.
+-   Carnap
+    -   From 1910--1914, Carnap studied philosophy, physics and mathematics at the universities of Jena and Freiburg.
+    -   Carnap studied mathematical logic under Frege at Jena.
+    -   Carnap met Reichenbach at the "Erlangen Conference", March 6-13, 1923.
+-   WWI lasted from 1914--1918.
 
 ![Left: The entrance to the Mathematical Seminar at the University of Vienna,
   at Boltzmanngasse 5, the meeting place of the Vienna Circle during their
@@ -882,6 +904,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   Hahn, H., Neurath, O., & Carnap, R. (1929). [The scientific conception of the world: The Vienna Circle](http://rreece.github.io/philosophy-reading-list/docs/the-scientific-conception-of-the-world-the-vienna-circle.pdf). [^Hahn1973]
     -   Wissenschaftliche Weltauffassung: Der Wiener Kreis
     -   The Vienna Circle's manifesto
+-   [Cassirer-Heidegger debate in Davos](naturalism.html#cassirer-heidegger-debate) (1929)
 -   In 1930 the Vienna Circle and the Berlin Circle took over the journal *Annalen der Philosophie*
     and made it the main journal of logical empiricism under the title *Erkenntnis*,
     edited by Carnap and Reichenbach.
@@ -1074,6 +1097,7 @@ Quine:
 
 See also:
 
+-   [Duhem-Quine thesis](#duhem-quine-thesis)
 -   [Naturalized metaphysics](naturalism.html#naturalized-metaphysics)
 
 [^Neurath1933p92]: @Neurath_1983_Protocol_statements\, p. 92.
@@ -1191,10 +1215,6 @@ Various reactions to positivism.
 -   Quine, W.V.O. (1951). Two dogmas of empiricism.  [^Quine1951b]
     1.  Analytic/synthetic distinction
     2.  Reductionism (verification theory of meaning)
--   Duhem-Quine thesis
-    -   Claims that a hypothesis can never be tested in isolation.
-    -   Confirmation holism
-    -   Web of belief
 
 Quine on our pale gray lore:
 
@@ -1225,17 +1245,22 @@ Feigl:
 >   languages. [^Feigl1956p7]
 
 -   Grice, H.P. & Strawson, P.F. (1956). In defense of a dogma. [^Grice1956]
+
+[^Feigl1956p7]: @Feigl_1956_Some_major_issues_and_developments\, p. 7--8.
+[^Grice1956]: @Grice_1956_In_defense_of_a_dogma\.
+[^Quine1951b]: @Quine_1951_Two_dogmas_of_empiricism\.
+[^Quine1960bp374]: @Quine_1960_Carnap_and_logical_truth\, p. 374.
+[^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
+
+
+#### Attack on the verification theory of meaning
+
 -   Quine, W.V.O. (1960). *Word and Object*. [^Quine1960a]
     -   Inscrutability of reference
     -   Indeterminacy of translation
 -   Ruja, H. (1961). The present status of the verifiability criterion. [^Ruja1961]
 -   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
--   Schuldenfrei, R. (1972). Quine in perspective. [^Schuldenfrei1972]
--   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986a]
--   *Quine-Carnap Correspondence* (1990) [^Quine1990-2]
 -   Putnam, H. (1973). Meaning and reference. [^Putnam1973]
--   Quine, W.V.O. (1991). Two dogmas in retrospect. [^Quine1991]
--   Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? [^Yablo1998]
 
 Nietzsche:
 
@@ -1252,6 +1277,26 @@ Nietzsche:
 >   every one has its perspective, which it would force on all other drives as
 >   a norm. [^NietzscheNotebook7]
 
+[^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
+[^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
+[^Quine1960a]: @Quine_1960_Word_and_Object\.
+[^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
+[^Ruja1961]: @Ruja_1961_The_present_status_of_the_verifiability_criterion\.
+
+
+#### Duhem-Quine thesis
+
+-   Claims that a hypothesis can never be tested in isolation.
+-   Confirmation holism
+-   Web of belief
+
+More:
+
+-   Schuldenfrei, R. (1972). Quine in perspective. [^Schuldenfrei1972]
+-   Quine, W.V.O., Schilpp, P.A., & Hahn, L.E. (1986). *The Philosophy of W.V. Quine*. [^Quine1986a]
+-   *Quine-Carnap Correspondence* (1990) [^Quine1990-2]
+-   Quine, W.V.O. (1991). Two dogmas in retrospect. [^Quine1991]
+-   Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? [^Yablo1998]
 -   Warren, J. (2016). Internal and external questions revisited. [^Warren2016a]
 -   Warren, J. (2016). Revisiting Quine on truth by convention. [^Warren2016b]
 
@@ -1259,24 +1304,15 @@ See also:
 
 -   The introduction to the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
     in the [Outline on the scientific method](scientific-method.html).
+-   [Neurath's boat](#neuraths-boat)
 
 [^Carnap1955p46]: @Carnap_1955_Meaning_and_synonymy_in_natural_languages\, p. 46--47, footnote 7.
-[^Feigl1956p7]: @Feigl_1956_Some_major_issues_and_developments\, p. 7--8.
-[^Grice1956]: @Grice_1956_In_defense_of_a_dogma\.
-[^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
-[^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
-[^Quine1951b]: @Quine_1951_Two_dogmas_of_empiricism\.
-[^Quine1960a]: @Quine_1960_Word_and_Object\.
-[^Quine1960bp374]: @Quine_1960_Carnap_and_logical_truth\, p. 374.
-[^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
 [^Quine1986a]: @Quine_1986_The_Philosophy_of_WVQuine\.
 [^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
 [^Quine1991]: @Quine_1991_Two_dogmas_in_retrospect\.
-[^Ruja1961]: @Ruja_1961_The_present_status_of_the_verifiability_criterion\.
 [^Schuldenfrei1972]: @Schuldenfrei_1972_Quine_in_perspective\.
 [^Warren2016a]: @Warren_2016_Internal_and_external_questions_revisited\.
 [^Warren2016b]: @Warren_2016_Revisiting_Quine_on_truth_by_convention\.
-[^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
 [^Yablo1998]: @Yablo_1998_Does_ontology_rest_on_a_mistake\.
 
 
@@ -1328,9 +1364,16 @@ See also:
 
 Wittgenstein in *PI*:
 
->   Philosophy is a battle against the bewitchment of our intelligence by means of our language.
+>   Philosophy is a struggle against the bewitchment of our understanding
+>   by the resources of our language. [^Wittgenstein2009Sec109]
 
-TODO: find ref of above quote.
+and
+
+>   *Tractatus Logico-Philosophicus* (4.5): "The general form of
+>   propositions is: This is how things are." --- That is the kind of
+>   proposition one repeats to oneself countless times. One thinks
+>   that one is tracing nature over and over again, and one is merely
+>   tracing round the frame through which we look at it. [^Wittgenstein2009Sec114]
 
 See also:
 
@@ -1342,6 +1385,8 @@ See also:
 [^Rorty1993p347]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\, p. 347.
 [^Wittgenstein1969b]: @Wittgenstein_1969_On_Certainty\.
 [^Wittgenstein2009]: @Wittgenstein_2009_Philosophical_Investigations\.
+[^Wittgenstein2009Sec109]: @Wittgenstein_2009_Philosophical_Investigations\, &sect; 109.
+[^Wittgenstein2009Sec114]: @Wittgenstein_2009_Philosophical_Investigations\, &sect; 114.
 
 
 ### The "death" of positivism
@@ -1669,7 +1714,7 @@ but does not justify metaphysical claims about reality.
 
 Bas van Fraassen (b. 1941):
 
--   *The Scientific Image*
+-   *The Scientific Image* (1980)
     -   van Fraassen's "Arguments Concerning Scientific Realism" [^vanFraassen1980]
 -   Unlike positivism/instrumentalism, theories should be taken literally.
 -   TODO: Some inspiration from Wittgenstein and what else?
@@ -1682,8 +1727,8 @@ Otavio Bueno:
 
 Christian Hennig:
 
--   "Mathematical models and reality: A constructivist perspective" [^Hennig2010]
--   "What are the true clusters?" [^Hennig2015b]
+-   Hennig, C. (2010). Mathematical models and reality: A constructivist perspective. [^Hennig2010]
+-   Hennig, C. (2015). What are the true clusters? [^Hennig2015b]
 
 See also:
 

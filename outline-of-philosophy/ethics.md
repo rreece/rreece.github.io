@@ -274,7 +274,18 @@ Moral naturalism
 
 ### Introduction
 
--   TODO
+Stephen R. Brown:
+
+>   *Ethical naturalism*: Cognitivist ethical theories in which important
+>   ethical norms and evaluations are grounded in natural facts. [^Brown2008p2]
+
+Moral naturalists:
+
+-   Moritz Schlick
+-   Victor Kraft
+-   Sam Harris
+
+[^Brown2008p2]: @Brown_2008_Moral_Virtue_and_Nature_A_defense_of_ethical\.
 
 
 ### Evolution of morals
