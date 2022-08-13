@@ -782,6 +782,7 @@ Hume:
     -   TODO: find Russell ref
     -   Note discussion by French
 -   Ayer
+-   Psillos, S. (2020). [The problem of induction](https://iep.utm.edu/problem-of-induction/). *IEP*.
 
 Dewey:
 
@@ -1158,10 +1159,10 @@ Wikipedia:
     -   Nola & Sankey [^Nola2007pX]
 -   Positivism, verificationism
     -   Auguste Comte, Ernst Mach, David Hilbert, Rudolf Carnap
+    -   Logical empiricism
 -   Deductive-nomological model
     -   Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. [^Hempel1948]
     -   Covering law model
-    -   Logical empiricism
     -   French [^French2007pX2]
 -   Falsification, deductivism
     -   Karl Popper
@@ -1180,7 +1181,7 @@ Wikipedia:
     -   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
     -   See the [Outline of philosophy of statistics](http://rreece.github.io/outline-of-philosophy/statistics.html#exploratory-data-analysis)
 -   Bayesian methodology
-    -   TODO
+    -   Thomas Bayes, Pierre-Simon Laplace, Harold Jeffreys
 -   Error-catching filters
     -   Ladyman: Error-catching filters [^Ladyman2007a]
     -   community, honesty, openness
@@ -1545,6 +1546,7 @@ See also:
 
 ### Scientific knowledge
 
+-   Aristotle: scientific knowledge is to "know the cause on which the fact depends"
 -   Scientific method, community, and body of knowledge
 -   Naturalism
     -   Hume on the problem of induction and the uniformity of nature, again
@@ -1562,6 +1564,23 @@ See also:
     -   [Silvio Micali: Lex Fridman podcast](https://www.youtube.com/watch?v=zNdhgOk4-fE&ab_channel=LexFridman) - 1h25+
     -   Verification and knowledge are different concepts
 
+From Aristotle's *Posterior Analytics*:
+
+>   We suppose ourselves to possess unqualified scientific knowledge of a thing,
+>   as opposed to knowing it in the accidental way in which the sophist knows,
+>   when we think that we know the cause on which the fact depends, as the cause
+>   of that fact and of no other, and, further, that the fact could not be other
+>   than it is. [^PosteriorAnalyticsBook1ch2Mure]
+
+another translation:
+
+>   We think we understand something simpliciter (and not in the
+>   sophistical way, incidentally) when we think we know of the
+>   explanation because of which the object holds that it is its
+>   explanation, and also that it is not possible for it to be otherwise.
+>   It is plain, then, that to understand is something of this
+>   sort. [^PosteriorAnalyticsBook1ch2Barnes]
+
 See also:
 
 -   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
@@ -1569,6 +1588,8 @@ See also:
     -   [Scientific progress](scientific-realism.html#scientific-progress)
 -   [Outline on naturalism](naturalism.html)
 
+[^PosteriorAnalyticsBook1ch2Barnes]: @Aristotle_1993_Posterior_Analytics\, book 1, chapter 2.
+[^PosteriorAnalyticsBook1ch2Mure]: @Aristotle_2007_Posterior_Analytics\, book 1, chapter 2.
 [^MartinezOrdaz2021a]: @Martinez_Ordaz_2021_Is_there_anything_special_about_the_ignorance\.
 
 
@@ -1827,6 +1848,7 @@ Click to show links
 -   [Hempel, Carl Gustav (1905-1997)](http://www.iep.utm.edu/hempel/)
 -   [Hume, David (1711-1776)](http://www.iep.utm.edu/hume-cau/)
 -   [Ibn Sina (980-1037)](http://www.iep.utm.edu/avicenna/)
+-   [Induction, Problem of](https://iep.utm.edu/problem-of-induction/)
 -   [Internalism and externalism in epistemology](https://iep.utm.edu/int-ext/)
 -   [Locke, John (1632-1704)](http://www.iep.utm.edu/locke/)
 -   [Naturalism](http://www.iep.utm.edu/naturali/)

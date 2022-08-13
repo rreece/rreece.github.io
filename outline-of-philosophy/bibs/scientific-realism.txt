@@ -44,6 +44,7 @@ Moore, G.E. (1939). Proof of an external world. *Proceedings of the British Acad
 Ney, A. (2014). *Metaphysics: An introduction*. Routledge.
 Neuber, M. (2014). Critical realism in perspective: Remarks on a neglected current in Neo-Kantian epistemology. In M.C. Galavotti et al (eds.), *The Philosophy of Science in a European Perspective: New Directions in the Philosophy of Science* (pp. 657--673). Springer. https://philpapers.org/rec/NEUCRI
 Nozick, R. (2001). *Invariances*. Harvard University Press.
+Park, S. (2021). *Embracing Scientific Realism*. Springer.
 Peirce, C.S. (1923). *Chance, Love and Logic*. New York: Harcourt, Brace & Co.
 Poincar\'{e}, H. (1913). *The Foundations of Science: Science and hypothesis, the value of science, science and method* (G.B. Halstead, Trans.). Cambridge University Press. [(Originally published in 1905)]
 Popper, K.R. (1953). A note on Berkeley as precursor of Mach. *The British Journal for the Philosophy of Science*, 4, 26--36.
@@ -85,6 +86,7 @@ Swartz, N. (2003). *The Concept of Physical Law* (2nd ed.). http://www.sfu.ca/~s
 Swartz, N. (2009). Laws of nature. *International Encyclopedia of Philosophy*. http://www.iep.utm.edu/lawofnat/
 Torretti, R. (1999). *The Philosophy of Physics*. Cambridge University Press.
 van Fraassen, B. (1980). *The Scientific Image*. Oxford University Press.
+van Fraassen, B. (2002). *The Empirical Stance*. Yale University Press.
 van Inwagen, P. (2014). Metaphysics. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/metaphysics/
 Verhaegh, S. (2019). The American reception of logical positivism: First encounters (1929-1932). *HOPOS: The Journal of the International Society for the History of Philosophy of Science*, 10, 106--142.
 Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. *Journal for the History of Analytical Philosophy*, 8, 1--47. https://jhaponline.org/jhap/article/view/4364

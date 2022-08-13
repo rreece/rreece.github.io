@@ -1,4 +1,6 @@
 Allain, R. (2013). What's wrong with the scientific method? *Wired*. https://www.wired.com/2013/04/whats-wrong-with-the-scientific-method/ [April 1, 2013]
+Aristotle. (1993). *Posterior Analytics* (J. Barnes, Trans.). Oxford: Clarendon Press. [(Originally written in 350 BCE)]
+Aristotle. (2007). *Posterior Analytics* (G.R.G. Mure, Trans.). https://web.archive.org/web/20070427034930/http://etext.library.adelaide.edu.au/a/aristotle/a8poa/ [(Originally written in 350 BCE)]
 Aronson, D. (2007). *Evidence-Based Technical Analysis*. John Wiley & Sons.
 Aumann, R.J. (1976). Agreeing to disagree. *The Annals of Statistics*, 4(6), 1236--9.
 Awodey, S. & Carus, A.W. (2007). Carnap's dream: G{\"o}del, Wittgenstein, and Logical Syntax. *Synthese*, 159, 23--45. https://link.springer.com/article/10.1007/s11229-006-9066-4

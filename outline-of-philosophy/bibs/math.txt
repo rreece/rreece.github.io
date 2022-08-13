@@ -25,6 +25,7 @@ Franz\'{e}n, T. (2005). *G{\"o}del's Theorem: An incomplete guide to its use and
 Drake, S. (1957). *Discoveries and Opinions of Galileo*. New York: Doubleday and Co.
 Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G{\"o}del*. Norton.
 Goodman, N. & Quine, W.V.O. (1947). Steps toward a constructive nominalism. *The Journal of Symbolic Logic*, 12, 105--122.
+Hall, B.C. (2000). *An Elementary Introduction to Groups and Representations*. https://arxiv.org/abs/math-ph/0005032
 Hamming, R. W. (1980). The unreasonable effectiveness of mathematics. *The American Mathematical Monthly*, 87, 81--90.
 Hardy, G.H. (1940). *A Mathematician's Apology*. Cambridge University Press.
 Hilbert, D. (1967). The foundations of mathematics. In J. van Heijenoort (Ed.), *From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1879-1931* (pp. 464--479). Harvard University Press. [(From a lecture given by Hilbert in 1927).]
@@ -45,7 +46,7 @@ Quine, W.V.O. (1986). *Philosophy of Logic* (2nd ed.). Harvard University Press.
 Raatikainen, P. (2020). G{\"o}del's incompleteness theorems. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/goedel-incompleteness/
 Reid, C. (1996). *Hilbert*. Copernicus.
 Mart{\'i}nez-Ordaz, M.R. (2021). The ignorance behind inconsistency toleration. *Synthese*, 198, 8665--8686. http://philsci-archive.pitt.edu/19672/
-Russell, B. (1905). On Denoting. *Mind*, 14(56), 479--493.
+Russell, B. (1905). On denoting. *Mind*, 14(56), 479--493. https://www.finophd.eu/wp-content/uploads/2018/11/russell_on_denoting.pdf
 Russell, G. (2015). The justification of the basic laws of logic. *Journal of Philosophical Logic*, 44(6), 793--803.
 {Open Logic Project}. (2020). *The Open Logic Text*. https://openlogicproject.org/
 Shapiro, S. (1991). *Foundations without Foundationalism: A Case for Second-Order Logic*. Oxford University Press.

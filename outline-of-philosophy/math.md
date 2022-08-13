@@ -56,6 +56,9 @@ TODO
 -   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
 -   [Sophus Lie (1842-1899)](https://en.wikipedia.org/wiki/Sophus_Lie)
 -   Schwichtenberg, J. (2016). [Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
+-   Hall, B.C. (2000). [*An Elementary Introduction to Groups and Representations*](https://arxiv.org/abs/math-ph/0005032). [^Hall2000]
+
+[^Hall2000]: @Hall_2000_An_Elementary_Introduction_to_Groups\.
 
 
 ### More
@@ -917,10 +920,10 @@ Logicism
     -   Sets are _not_ simply the extensions of arbitrary conditions. Some conditions have no corresponding set.
 -   Realist?
 -   Relationship with positivism?
--   "On Denoting" [^Russell1905]
+-   Russell, B. (1905). [On denoting](https://www.finophd.eu/wp-content/uploads/2018/11/russell_on_denoting.pdf). [^Russell1905]
 -   Russsell expresses support for the platonic "universals" [^Russell1912p91]
 -   Review article on the philosophy of math by Snapper [^Snapper1979]
--   Shapiro [^Shapiro2000]
+-   Shapiro, S. (2000). *Thinking about Mathematics: The Philosophy of Mathematics*. [^Shapiro2000]
 -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
 -   [Frege's theorem](https://en.wikipedia.org/wiki/Frege%27s_theorem)
 

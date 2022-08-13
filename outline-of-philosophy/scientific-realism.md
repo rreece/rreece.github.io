@@ -459,6 +459,8 @@ Also:
     See: [Newtonian gravity](physics.html#newtonian-gravity).
 -   See also the discussion of [effective field theory](physics.html#effective-field-theory).
 -   Frost-Arnold, G. (2020). [One way to test scientific realism](http://obscureandconfused.blogspot.com/2020/08/one-way-to-test-scientific-realism.html). *Obscure and Confused Ideas* (blog).
+-   Park, S. (2021). *Embracing Scientific Realism*. [^Park2021]
+    -   Optimistic Induction
 
 Rovelli:
 
@@ -482,6 +484,7 @@ Schumm:
 >   mathematics and natural science far exceeds the self-contained boundaries
 >   within which it was first developed. [^Schumm2004]
 
+[^Park2021]: @Park_2021_Embracing_Scientific_Realism\.
 [^Rovelli2003]: @Rovelli_2003_A_dialog_on_quantum_gravity\, p. 5.
 [^Schumm2004]: @Schumm_2004_Deep_Down_Things\, p. 144.
 
@@ -1718,6 +1721,7 @@ Bas van Fraassen (b. 1941):
     -   van Fraassen's "Arguments Concerning Scientific Realism" [^vanFraassen1980]
 -   Unlike positivism/instrumentalism, theories should be taken literally.
 -   TODO: Some inspiration from Wittgenstein and what else?
+-   van Fraassen, B. (2002). *The Empirical Stance*. [^vanFraassen2002]
 
 ![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories), 2015).](img/true-vs-literal-theories.png){#fig:true-vs-literal-theories}
 
@@ -1737,11 +1741,12 @@ See also:
 [^Hennig2010]: @Hennig_2010_Mathematical_models_and_reality_A_constructivist\.
 [^Hennig2015b]: @Hennig_2015_What_are_the_true_clusters\.
 [^vanFraassen1980]: @vanFraassen_1980_The_Scientific_Image\.
+[^vanFraassen2002]: @vanFraassen_2002_The_Empirical_Stance\.
 
 
 ### Discussion
 
--   TODO
+-   Baker, K. (2020). Video: [How to be an empiricist](https://www.youtube.com/watch?v=TSYKP6UKpwk).
 
 
 ### Criticism
@@ -1774,6 +1779,26 @@ Science has identified real patterns, relationships, and structures
 -   Russell [^Russell1992pX]
 -   Nozick, R. (2001). *Invariances*. [^Nozick2001]
 
+Plato's *Phaedrus*:
+
+>   Socrates: ... [There are] two kinds of things the nature of which it would be
+>   quite wonderful to grasp by means of a systematic art.
+>
+>   Phaedrus: Which things?
+>   
+>   Socrates: The first consists in seeing together things that are scattered
+>   about everywhere and collecting them into one kind, so that by defining
+>   each thing we can make clear the subject of any instruction we wish to
+>   give. Just so with our discussion on love: Whether its definition was or
+>   was not correct, at least it allowed the speach to proceed clearly and
+>   consistently with itself.
+>   
+>   Phaedrus: And what is the other thing you are talking about, Socrates?
+>   
+>   Socrates: This, in turn, is to be able to cut up each kind according to
+>   its species along its natural joints, and to try not to splinter any part, as
+>   a bad butcher might do. [^Phaedrus265d]
+
 Psillos:
 
 >   Helmholtz-Weyl Principle (HW): Different effects (i.e. percepts) imply different
@@ -1793,6 +1818,8 @@ Poincar&eacute;:
     @Frigg_2011_Everything_you_always_wanted_to_know_about\, p. 235.
 [^Maxwell1968]: @Maxwell_1968_Scientific_methodology_and_the_causal_theory\.
 [^Nozick2001]: @Nozick_2001_Invariances\.
+[^Phaedrus265d]: Plato, *Phaedrus* 265d, @Cooper_1997_Plato_Complete_works\, p. 542.
+[^RepublicVII514]: Plato, *Republic VII* 514--520, @Cooper_1997_Plato_Complete_works\, p. 1132--7.
 [^Russell1992pX]: @Russell_1992_The_Analysis_of_Matter\, p. TODO.
 [^Worrall1989]: @Worrall_1989_Structural_realism_The_best_of_both_worlds\.
 

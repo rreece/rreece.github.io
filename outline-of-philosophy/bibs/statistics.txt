@@ -39,6 +39,7 @@ Brown, N., Bakhtin, A., Lerer, A., & Gong, Q. (2020). Combining deep reinforceme
 Brown, T.B. et al. (2020). Language models are few-shot learners. https://arxiv.org/abs/2005.14165 [(Paper on the GPT-3 model by OpenAI)] 
 Bubeck, S. & Sellke, M. (2021). A universal law of robustness via isoperimetry. https://arxiv.org/abs/2105.12806
 Burch, N. (2018). *Time and Space: Why imperfect information games are hard*. University of Alberta. https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf  [(Ph.D. thesis)]
+Buzbas, E.O., Devezer, B., & Baumgaertner, B. (2022). The logical structure of experiments lays the foundation for a theory of reproducibility. https://www.biorxiv.org/content/10.1101/2022.08.10.503444v1
 Caldeira, J. & Nord, B. (2020). Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms. *Machine Learning: Science and Technology*, 2, 015002. https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3
 Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistics*. Springer Switzerland.
 Canatar, A., Bordelon, B., & Pehlevan, C. (2020). Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks. https://arxiv.org/abs/2006.13198
@@ -140,10 +141,11 @@ LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recogni
 LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. *Proceedings of the IEEE*, 86(11), 2278--2324. http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
 LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436-44.
 Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep learning. https://arxiv.org/abs/1805.10451
+Lewis, D. (1981). Causal decision theory. *Australasian Journal of Philosophy*, 59, 5--30. https://www.andrewmbailey.com/dkl/Causal_Decision_Theory.pdf
 Lista, L. (2016). Practical statistics for particle physicists. https://arxiv.org/abs/1609.04150
 Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
 Liu, H., Dai, Z., So, D.R., & Le, Q.V. (2021). Pay attention to MLPs. https://arxiv.org/abs/2105.08050
-Liu, Z., Madhavan, V., & Tegmark, M. (2022). AI Poincare 2.0: Machine learning conservation laws from differential equations. https://arxiv.org/abs/2203.12610
+Liu, Z., Madhavan, V., & Tegmark, M. (2022). AI Poincare 2: Machine learning conservation laws from differential equations. https://arxiv.org/abs/2203.12610
 Lu, Z., Pu, H., Wang, F., Hu, Z., & Wang, L. (2017). The expressive power of neural networks: A view from the width. *Advances in Neural Information Processing Systems*, 30. https://proceedings.neurips.cc/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf
 Lyons, L. (2008). Open statistical issues in particle physics. *The Annals of Applied Statistics*, 2, 887--915. https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-3/Open-statistical-issues-in-Particle-Physics/10.1214/08-AOAS163.full
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970

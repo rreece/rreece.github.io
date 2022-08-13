@@ -902,12 +902,14 @@ Causal inference
 ### Introduction
 
 -   Pearl, J. (2018). *The Book of Why: The new science of cause and effect*. [^Pearl2018]
+-   Lewis, D. (1981). [Causal decision theory](https://www.andrewmbailey.com/dkl/Causal_Decision_Theory.pdf). [^Lewis1981]
 
 See also:
 
 -   [Causation](scientific-method.html#causation)
 -   [Induction](scientific-method.html#induction)
 
+[^Lewis1981]: @Lewis_1981_Causal_decision_theory\.
 [^Pearl2018]: @Pearl_2018_The_Book_of_Why_The_new_science_of_cause\.
 
 
@@ -2126,7 +2128,7 @@ See also:
 [^Cranmer2020]: @Cranmer_2020_Discovering_symbolic_models_from_deep_learning\.
 [^DAgnolo2019]: @DAgnolo_2019_Learning_New_Physics_from_a_Machine\.
 [^Krenn2022]: @Krenn_2022_On_scientific_understanding_with_artificial\.
-[^Liu2022]: @Liu_2022_AI_Poincare_2\.
+[^Liu2022]: @Liu_2022_AI_Poincare_2_Machine_learning_conservation_laws\.
 [^Udrescu2020]: @Udrescu_2020_Symbolic_pregression_Discovering_physical_laws\.
 
 
