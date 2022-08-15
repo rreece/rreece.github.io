@@ -414,20 +414,63 @@ See also:
 [^Heidegger1929]: @Heidegger_1929_What_is_metaphysics\.
 
 
-### Uniformity of nature
+### Discussion
 
--   Part of methodological naturalism, but also a result of empirical confirmation.
--   TODO: find ref for Cox's art, that stars have standard spectra.
--   Limits on deviations in $\alpha_\mathrm{EM}$
+TODO: While promoting the careful gathering of empirical information,
+naturalism is not against (largely non-empirical) rational pursuits like mathematics.
+Indeed some naturalist may even see logic and mathematics as scientific pursuits
+of *a priori* truths.
 
-![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
+TODO: Naturalism shares much in common with schools of thought surrounding positivism,
+through its respect for science and skepticism of *a priori* metaphysics,
+but naturalism is a more general distinction,
+being a more much longer thread throughout the history of philosophy and science.
+
+![A version of the "distracted boyfriend meme" maligning  *a priori* metaphysics.](img/distracted-boyfriend-meme-intuitions-data.png){#fig:distracted-boyfriend-meme-intuitions-data}
+
+Quine in "Natural kinds":
+
+>   At this point let me say that I shall not be impressed by protests that I am
+>   using inductive generalizations, Darwin's and others, to justify induction,
+>   and thus reasoning in a circle. The reason I shall not be impressed by this
+>   is that my position is a naturalistic one;
+>   I see philosophy not as an *a priori* propaedeutic or groundwork for science,
+>   but as continuous with science. I see philosophy and science as in the same
+>   boat---a boat which, to revert to Neurath's figure as I so often do,
+>   we can rebuild only at sea while staying afloat in it. There is no external
+>   vantage point, no first philosophy. All scientific findings, all scientific
+>   conjectures that are at present plausible, are therefore in my view as welcome
+>   for use in philosophy as elsewhere. [^Quine1969pX]
+
+More Quine:
+
+>   I also expressed, at the beginning, my unswerving belief in external
+>   things---people, nerve endings, sticks, stones. This I reaffirm. I
+>   believe also, if less affirmly, in atoms and electrons, and in
+>   classes. Now how is all this robust realism to be reconciled with the
+>   barren scene that I have just been depicting? *The answer is
+>   naturalism: the recognition that it is within science itself, and not
+>   some prior philosophy, that reality is properly to be identified
+>   and described.* [^Quine1981p21]
+
+Opening lines to *ETMG*:
+
+>   This is a polemical book. One of its main contentions is that contemporary analytic 
+>   metaphysics, a professional activity engaged in by some extremely intelligent and 
+>   morally serious people, fails to qualify as part of the enlightened pursuit of 
+>   objective truth, and should be discontinued. [^Ladyman2007pi]
+
+-   TODO: Maddy
 
 See also:
 
--   [Bracketing human experience](physics.html#bracketing-human-experience)
-    in the [Outline on philosophy of physics](physics.html)
--   [Uniformity of nature](scientific-method.html#uniformity-of-nature)
-    in the [Outline on the scientific method](scientific-method.html)
+-   [Natural kinds](#natural-kinds)
+-   [Neurath's boat](scientific-realism.html#neuraths-boat)
+
+[^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
+[^Quine1969pX]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, p. TODO.
+[^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21 (emphasis added).
+    A similar quote can be found in @Quine_1981_Reply_to_Stroud, p. 474.
 
 
 ### Criticism
@@ -575,6 +618,62 @@ See also:
 [^Tahko2022]: @Tahko_2022_Natural_kinds_mind_independence_and_unification\.
 
 
+Physicalism
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   Physicalism and monism
+-   Parmenides
+-   Materialism, physicalism, functionalism
+-   Alyssa Ney on dualism, physicalism, neutral monism
+-   Ruja, H. (1957). Are naturalists materialists? [^Ruja1957]
+
+[^Ruja1957]: @Ruja_1957_Are_naturalists_materialists\.
+
+
+### Completeness thesis
+
+-   "the domain of the physical is causally closed."
+-   Spurrett, D.J. (1999). *The Completeness of Physics*. [^Spurrett1999]
+-   Spurrett, D.J. & Papineau, D. (1999). A note on the completeness of 'physics'. [^Spurrett1999b]
+-   Ney, A. (2021). The fundamentality of physics: Completeness or maximality? [^Ney2021a]
+-   Principle of Naturalistic Closure (PNC) [^Ladyman2007p37]
+
+See also:
+
+-   [Physicalism](mind.html#physicalism) in the [Outline on Philosophy of Mind](mind.html)
+-   [Physicalism](human-condition.html#physicalism) in the [Outline on the Human Condition](human-condition.html)
+-   [Reductionism](#reductionism)
+-   [Rejection of the supernatural](#rejection-of-the-supernatural)
+
+[^Ladyman2007p37]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 37.
+[^Ney2021a]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
+[^Spurrett1999]: @Spurrett_1999_The_Completeness_of_Physics\.
+[^Spurrett1999b]: @Spurrett_1999_A_note_on_the_completeness_of_physics\.
+
+
+### Uniformity of nature
+
+-   Part of methodological naturalism, but also a result of empirical confirmation.
+-   TODO: find ref for Cox's art, that stars have standard spectra.
+-   Limits on deviations in $\alpha_\mathrm{EM}$
+
+![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
+
+See also:
+
+-   [Bracketing human experience](physics.html#bracketing-human-experience)
+    in the [Outline on philosophy of physics](physics.html)
+-   [Uniformity of nature](scientific-method.html#uniformity-of-nature)
+    in the [Outline on the scientific method](scientific-method.html)
+
+
+### Criticism
+
+-   TODO
+
+
 Rejection of the supernatural
 --------------------------------------------------------------------------------
 
@@ -675,97 +774,10 @@ Schopenhauer:
 -   Bunge, M. (1971). Is scientific metaphysics possible? [^Bunge1971]
 -   Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. [^Ross2013]
 
-TODO: While promoting the careful gathering of empirical information,
-naturalism is not against (largely non-empirical) rational pursuits like mathematics.
-Indeed some naturalist may even see logic and mathematics as scientific pursuits
-of *a priori* truths.
-
-TODO: Naturalism shares much in common with schools of thought surrounding positivism,
-through its respect for science and skepticism of *a priori* metaphysics,
-but naturalism is a more general distinction,
-being a more much longer thread throughout the history of philosophy and science.
-
-![A version of the "distracted boyfriend meme" maligning  *a priori* metaphysics.](img/distracted-boyfriend-meme-intuitions-data.png){#fig:distracted-boyfriend-meme-intuitions-data}
-
-Quine in "Natural kinds":
-
->   At this point let me say that I shall not be impressed by protests that I am
->   using inductive generalizations, Darwin's and others, to justify induction,
->   and thus reasoning in a circle. The reason I shall not be impressed by this
->   is that my position is a naturalistic one;
->   I see philosophy not as an *a priori* propaedeutic or groundwork for science,
->   but as continuous with science. I see philosophy and science as in the same
->   boat---a boat which, to revert to Neurath's figure as I so often do,
->   we can rebuild only at sea while staying afloat in it. There is no external
->   vantage point, no first philosophy. All scientific findings, all scientific
->   conjectures that are at present plausible, are therefore in my view as welcome
->   for use in philosophy as elsewhere. [^Quine1969pX]
-
-More Quine:
-
->   I also expressed, at the beginning, my unswerving belief in external
->   things---people, nerve endings, sticks, stones. This I reaffirm. I
->   believe also, if less affirmly, in atoms and electrons, and in
->   classes. Now how is all this robust realism to be reconciled with the
->   barren scene that I have just been depicting? *The answer is
->   naturalism: the recognition that it is within science itself, and not
->   some prior philosophy, that reality is properly to be identified
->   and described.* [^Quine1981p21]
-
-Opening lines to *ETMG*:
-
->   This is a polemical book. One of its main contentions is that contemporary analytic 
->   metaphysics, a professional activity engaged in by some extremely intelligent and 
->   morally serious people, fails to qualify as part of the enlightened pursuit of 
->   objective truth, and should be discontinued. [^Ladyman2007pi]
-
--   TODO: Maddy
-
-See also:
-
--   [Natural kinds](#natural-kinds)
--   [Neurath's boat](scientific-realism.html#neuraths-boat)
-
 [^Bennett2015]: @Bennett_2015_There_is_no_special_problem_with_metaphysics\.
 [^Bunge1971]: @Bunge_1971_Is_scientific_metaphysics_possible\.
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
-[^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
-[^Quine1969pX]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, p. TODO.
-[^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21 (emphasis added).
-    A similar quote can be found in @Quine_1981_Reply_to_Stroud, p. 474.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
-
-
-Physicalism
---------------------------------------------------------------------------------
-
-### Introduction
-
--   Physicalism and monism
--   Parmenides
--   Materialism, physicalism, functionalism
--   Alyssa Ney on dualism, physicalism, neutral monism
--   Ruja, H. (1957). Are naturalists materialists? [^Ruja1957]
--   Completeness Thesis:
-    -   "the domain of the physical is causally closed."
-    -   Spurrett, D.J. (1999). *The Completeness of Physics*. [^Spurrett1999]
-    -   Spurrett, D.J. & Papineau, D. (1999). A note on the completeness of 'physics'. [^Spurrett1999b]
--   Ney, A. (2021). The fundamentality of physics: Completeness or maximality? [^Ney2021a]
--   Principle of Naturalistic Closure (PNC) [^Ladyman2007p37]
-
-See also:
-
--   [Physicalism](mind.html#physicalism) in the [Outline on Philosophy of Mind](mind.html)
--   [Physicalism](human-condition.html#physicalism) in the [Outline on the Human Condition](human-condition.html)
--   [Reductionism](#reductionism)
-
-[^Ladyman2007p37]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 37.
-[^Ney2021a]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
-[^Ruja1957]: @Ruja_1957_Are_naturalists_materialists\.
-[^Spurrett1999]: @Spurrett_1999_The_Completeness_of_Physics\.
-[^Spurrett1999b]: @Spurrett_1999_A_note_on_the_completeness_of_physics\.
-
-
 
 
 ### Other ways of knowing
@@ -864,10 +876,10 @@ Criticisms of naturalism
 
 See also:
 
--   [Criticism](naturalism.html#criticism) of Physicalism
--   [Criticism](naturalism.html#criticism-1) of Reductionism
 -   [Criticism](naturalism.html#criticism-2) of Natural kinds
--   [Criticism](naturalism.html#criticism-3) of Rejection of the supernatural
+-   [Criticism](naturalism.html#criticism-3) of Physicalism
+-   [Criticism](naturalism.html#criticism-1) of Reductionism
+-   [Criticism](naturalism.html#criticism-4) of Rejection of the supernatural
 -   [Naturalistic-fallacy](ethics.html#naturalistic-fallacy)
 
 [^CanizaresEsguerra2022]: @Canizares_Esguerra_2022_Rethinking_the_Western_revolution_in_science\.
@@ -1047,6 +1059,7 @@ Other worldviews
 
 See also:
 
+-   [Other ways of knowing](naturalism.html#other-ways-of-knowing)
 -   [Outline on the human condition](human-condition.html)
 
 
