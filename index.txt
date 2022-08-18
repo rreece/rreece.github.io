@@ -1,7 +1,7 @@
 This is my space on the web
 --------------------------------------------------------------------------------
 
-<img class="floatright" src="img/profile-pic-3.png"  width="280"  alt="Me in Rincon Hill, June 2017"  title="Me in Rincon Hill, June 2017" />
+<img class="floatright" src="img/profile-pic-3.jpg"  width="280"  alt="Me in Rincon Hill, June 2017"  title="Me in Rincon Hill, June 2017" />
 
 Hi!  I'm Ryan.
 I am a former postdoctoral researcher at the [Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/),
