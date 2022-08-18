@@ -87,7 +87,7 @@ ATLAS publications
     [arxiv:1412.7086](http://arxiv.org/abs/1412.7086).
     December 22, 2014.
 
-1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ in the ATLAS detector.
+1.  A search for high-mass resonances decaying to $\tau^{+}\tau^{-}$ with the ATLAS detector.
     [*Physics Letters B*, *719*, 242-260 (2013)](https://www.sciencedirect.com/science/article/pii/S0370269313000816).
     [arxiv:1210.6604](http://arxiv.org/abs/1210.6604).
     October 24, 2012.

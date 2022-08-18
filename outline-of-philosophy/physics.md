@@ -1497,10 +1497,12 @@ See also:
     -   LHCb Collaboration. (2021). [Tests of lepton universality using $B^{0}\rightarrow{}K^{0}_{S}\ell^{+}\ell^{-}$ and $B^{+}\rightarrow{}K^{*+}\ell^{+}\ell^{-}$ decays](https://arxiv.org/abs/2110.09501).
 -   Muon $g-2$
     -   A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders [^Capdevilla2021]
+    -   [Muon collider physics summary](https://arxiv.org/abs/2203.07256) [^Aime2022]
 -   $W$ mass
     -   CDF Collaboration. (2022). [High-precision measurement of the $W$ boson mass with the CDF II detector](https://www.science.org/doi/10.1126/science.abk1781). [^CDF2022]
     -   Conway, J. (2022). [A decade of science and trillions of collisions show the W boson is more massive than expected – a physicist on the team explains what it means for the Standard Model](https://theconversation.com/a-decade-of-science-and-trillions-of-collisions-show-the-w-boson-is-more-massive-than-expected-a-physicist-on-the-team-explains-what-it-means-for-the-standard-model-181028).
 
+[^Aime2022]: @Aime_2022_Muon_collider_physics_summary\.
 [^Capdevilla2021]: @Capdevilla_2021_A_no_lose_theorem_for_discovering_the_new_physics\.
 [^CDF2022]: @CDF_2022_High_precision_measurement_of_the_W_boson_mass\.
 [^PierreAuger]: TODO: @Pierre_2007_Correlation_of_the_highest_energy_cosmic_rays\,

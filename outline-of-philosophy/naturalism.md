@@ -465,7 +465,8 @@ Opening lines to *ETMG*:
 See also:
 
 -   [Natural kinds](#natural-kinds)
--   [Neurath's boat](scientific-realism.html#neuraths-boat)
+-   [Naturalized metaphysics](naturalism.html#naturalized-metaphysics)
+-   [Neurath's boat](scientific-realism.html#neuraths-boat) in the Outline on [scientific realism](#scientific-realism)
 
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
 [^Quine1969pX]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, p. TODO.
@@ -594,6 +595,13 @@ See also:
 [^Ross2013b]: @Ross_2013_Scientific_Metaphysics\.
 
 
+### Discussion
+
+-   Tahko, T.E. (2022). [Natural kinds, mind-independence, and unification principles](https://link.springer.com/article/10.1007/s11229-022-03661-7). [^Tahko2022]
+
+[^Tahko2022]: @Tahko_2022_Natural_kinds_mind_independence_and_unification\.
+
+
 ### Criticism
 
 -   Azzouni, J. (2000). *Knowledge and Reference in Empirical Science*. [^Azzouni2000]
@@ -609,13 +617,6 @@ See also:
 [^Azzouni2000]: @Azzouni_2000_Knowledge_and_Reference_in_Empirical_Science\.
 [^Haslanger2012]: @Haslanger_2012_Resisting_Reality_Social_Construction_and_Social\.
 [^Hennig2015c]: @Hennig_2015_What_are_the_true_clusters\.
-
-
-### Discussion
-
--   Tahko, T.E. (2022). [Natural kinds, mind-independence, and unification principles](https://link.springer.com/article/10.1007/s11229-022-03661-7). [^Tahko2022]
-
-[^Tahko2022]: @Tahko_2022_Natural_kinds_mind_independence_and_unification\.
 
 
 Physicalism
