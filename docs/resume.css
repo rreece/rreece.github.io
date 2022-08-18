@@ -5,6 +5,10 @@ body {
     font-family: Georgia, Palatino, serif;
 }
 
+header#title-block-header {
+    display: none;
+}
+
 #container {
     margin: auto;
     width: 7.5in;
