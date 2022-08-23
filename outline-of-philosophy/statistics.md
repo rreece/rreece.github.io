@@ -1431,6 +1431,7 @@ Deep learning
 -   Conceptual reviews of deep learning
     -   Lower to higher level representations [^Bengio2009]
     -   LeCun, Y., Bengio, Y., & Hinton, G. (2015). Review: Deep learning. [^LeCun2015]
+    -   Sutskever, I. (2015). [A brief overview of deep learning](https://web.archive.org/web/20220728224752/http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html). [^Sutskever2015]
     -   *Deep Learning* [^Goodfellow2016]
     -   Kaplan, J. (2019). [Notes on contemporary machine learning](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf). [^Kaplan2019]
 -   Backpropagation
@@ -1438,7 +1439,9 @@ Deep learning
     -   Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html).
     -   Schmidhuber: [Who invented backpropagation?](http://people.idsia.ch/~juergen/who-invented-backpropagation.html)
     -   Scmidhuber: [The most cited neural networks all build on work done in my labs](https://people.idsia.ch/~juergen/most-cited-neural-nets.html).
--   Pratical guides
+    -   LeCun, Y. & Bottou, L. (1998). [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf). [^LeCun1998b]
+-   Practical guides
+    -   Bottou, L. (1998). [Stochastic gradient descent tricks](https://www.microsoft.com/en-us/research/publication/stochastic-gradient-tricks/). [^Bottou1998]
     -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
     -   Hao, L. et al. (2017). [Visualizing the loss landscape of neural nets](https://arxiv.org/abs/1712.09913).
 -   Discussion
@@ -1449,10 +1452,13 @@ Deep learning
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
 
 [^Bengio2009]: @Bengio_2009_Learning_deep_architectures_for_AI\.
+[^Bottou1998]: @Bottou_1998_Stochastic_gradient_descent_tricks\.
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
 [^Kaplan2019]: @Kaplan_2019_Notes_on_contemporary_machine_learning\.
+[^LeCun1998b]: @LeCun_1998_Efficient_BackProp\.
 [^LeCun2015]: @LeCun_2015_Deep_learning\.
 [^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
+[^Sutskever2015]: @Sutskever_2015_A_brief_overview_of_deep_learning\.
 [^Sutton2019]: @Sutton_2019_The_bitter_lesson\.
 [^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
@@ -1615,7 +1621,7 @@ Blogs:
 -   BatchNorm
 -   LayerNorm, GroupNorm
 -   OnlineNorm
--   Kiani, B., Balestriero, R., Lecun, Y., & Lloyd, S. (2022). [projUNN: efficient method for training deep networks with unitary matrices](https://arxiv.org/abs/2203.05483). [^Kiani2022]
+-   Kiani, B., Balestriero, R., LeCun, Y., & Lloyd, S. (2022). [projUNN: efficient method for training deep networks with unitary matrices](https://arxiv.org/abs/2203.05483). [^Kiani2022]
 
 [^Kiani2022]: @Kiani_2022_projUNN_efficient_method_for_training_deep\.
 
@@ -1625,7 +1631,7 @@ Blogs:
 -   Computer Vision (CV)
 -   Fukushima: neocognitron [^Fukushima1982]
 -   LeCun: OCR with backpropagation [^LeCun1989]
--   LeCun: LeNet-5 [^LeCun1998]
+-   LeCun: LeNet-5 [^LeCun1998a]
 -   Ciresan: MCDNN [^Ciresan2012]
 -   Krizhevsky, Sutskever, and Hinton: AlexNet [^Krizhevsky2012]
 -   VGG [^Simonyan2014]
@@ -1657,7 +1663,7 @@ Resources:
 [^Ingrosso2022]: @Ingrosso_2022_Data_driven_emergence_of_convolutional_structure\.
 [^Krizhevsky2012]: @Krizhevsky_2012_ImageNet_classification_with_deep_convolutional\.
 [^LeCun1989]: @LeCun_1989_Backpropagation_applied_to_handwritten_zip_code\.
-[^LeCun1998]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
+[^LeCun1998a]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
 [^Liu2021]: @Liu_2021_Pay_attention_to_MLPs\.
 [^Park2022]: @Park_2022_How_do_vision_transformers_work\.
 [^Simonyan2014]: @Simonyan_2014_Very_deep_convolutional_networks_for_large_scale\.
