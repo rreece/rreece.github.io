@@ -31,7 +31,8 @@ News
 -   Aug 2019: [Cerebras revealed its Wafer Scale Engine (WSE) at HotChips 2019](https://www.cerebras.net/wafer-scale-deep-learning-hot-chips-2019-presentation/). 
 -   May 2019: Collaborators at Cerebras and I published a new normalization
     technique, OnlineNorm, for training deep neural networks with small batch sizes
-    ([arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
+    ([*NeurIPS 2019*](https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html),
+    [arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
 -   Apr 2018: I joined [Cerebras Systems](https://www.cerebras.net/) as a machine learning engineer.
 -   Nov 2014:
     I was awarded a 6 month fellowship, [US ATLAS Scholar](https://po.usatlas.bnl.gov/programoffice/scholars_2014.php),
