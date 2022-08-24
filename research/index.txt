@@ -60,6 +60,21 @@ I've worked in computer vision,
 machine translation, and
 large-scale language modeling.
 
+In April 2018, I joined [Cerebras Systems](https://www.cerebras.net)
+as a machine learning engineer.
+Cerebras makes cutting-edge accelerators for deep learning,
+the first to achieve
+[Wafer-Scale Intergration](https://en.wikipedia.org/wiki/Wafer-scale_integration).
+Collaborators at Cerebras and I published a new normalization
+technique, OnlineNorm, for training deep neural networks with small batch sizes
+([*NeurIPS 2019*](https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html),
+[arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
+I developed and supported several reference models for Cerebras in
+computer vision (ResNets) and NLP (GNMT, Transformer, Linformer, BERT, RoBERTa, GPT-2).
+[Cerebras revealed](https://www.cerebras.net/a-successful-week-for-cerebras-at-supercomputing-2019/)
+its first product at Supercomputering 2019: the poweful CS-1 computer for AI.
+[I helped](img/ryan-reece-cerebras-SC19.jpg) represent Cerebras at its tradeshow booth.
+
 
 ### Current projects I am focused on
 
@@ -88,7 +103,8 @@ large-scale language modeling.
 -   Development of a new type of normalization layer for training neural networks,
     [OnlineNorm](https://github.com/Cerebras/online-normalization),
     that can functionally replace BatchNorm and be used with batch size = 1.
-    [[1905.05894](https://arxiv.org/abs/1905.05894)]
+    [[*NeurIPS 2019*](https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html),
+    [1905.05894](https://arxiv.org/abs/1905.05894)]
 
 
 ### Curriculum Vitae
