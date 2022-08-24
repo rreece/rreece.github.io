@@ -197,6 +197,10 @@ Language
 -   McCarthy, C. (2017). [The Kekul&eacute; Problem](https://nautil.us/issue/47/consciousness/the-kekul-problem). [^McCarthy2017]
     -   "the unconscious is a machine for operating an animal."
 
+See also:
+
+-   [Symbolic vs connectionist AI](mind.html#symbolic-vs-connectionist-ai)
+
 [^Fodor1975]: @Fodor_1975_The_Language_of_Thought\.
 [^Grzankowski2015]: @Grzankowski_2015_Not_all_attitudes_are_propositional\.
 [^McCarthy2017]: @McCarthy_2017_The_Kekule_Problem\.
@@ -239,6 +243,15 @@ See also:
 -   [Artificial intelligence](future.html#artificial-intelligence)
 
 [^Kurzweil2012]: @Kurzweil_2012_How_to_Create_a_Mind\.
+
+
+### Symbolic vs connectionist AI
+
+-   Browning, J. & LeCun, Y. (2022). [AI and the limits of language](https://www.noemamag.com/ai-and-the-limits-of-language/).
+
+See also:
+
+-   [Language](mind.html#language)
 
 
 ### Criticism
