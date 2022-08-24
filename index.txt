@@ -5,7 +5,9 @@ This is my space on the web
 
 Hi!  I'm Ryan.
 I am a former postdoctoral researcher at the [Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/),
-who worked with the [ATLAS experiment](https://atlas.cern/) at [CERN](http://home.cern/).
+who worked with the [ATLAS experiment](https://atlas.cern/) at [CERN](http://home.cern/)
+and as a machine learning engineer at
+[Cerebras Systems](https://www.cerebras.net/).
 
 I have experience in deep learning, large-scale language modeling,
 machine learning, pattern recognition, statistical modeling,
