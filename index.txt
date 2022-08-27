@@ -10,7 +10,8 @@ and as a machine learning engineer at
 [Cerebras Systems](https://www.cerebras.net/).
 
 I have experience in deep learning, large-scale language modeling,
-machine learning, pattern recognition, statistical modeling,
+natural language processing, computer vision,
+classical machine learning, statistical modeling,
 data science, and petabyte data reduction.
 
 I am passionate about using scientific techniques to solve important
@@ -67,9 +68,6 @@ Contact
 
 ### My web presence elsewhere
 
--   my blogs
-    -   [essays](essays/)         
-    -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/) -- my micro-blog on philosophy using only figures
 -   my professional and social media
     -   [github.com/rreece](https://github.com/rreece)
     -   [LinkedIn.com/in/ryanreece](https://www.linkedin.com/in/ryanreece/)
@@ -78,6 +76,9 @@ Contact
     -   [INSPIRE-HEP](https://inspirehep.net/authors/1053758)
     -   [Google Scholar](https://scholar.google.com/citations?user=7-0GbXEAAAAJ&hl=en)
     -   [academia.edu/RReece](https://ucsc.academia.edu/RReece)
+-   my blogs
+    -   [essays](essays/)         
+    -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/) -- my micro-blog on philosophy using only figures
 
 
 --------------------------------------------------------------------------------
