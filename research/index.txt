@@ -51,7 +51,7 @@ and severe statistical hypothesis testing.
 
 My research in physics has primarily focused on supporting and optimizing
 the reconstruction of hadronic tau decays,
-and searching for exotic new physicsin ditau and diphoton events,
+and searching for exotic new physics in ditau and diphoton events,
 including for signs of grand unified theories and supersymmetry.
 In my time with the ATLAS Collaboration I made substantial
 contributions to [14 publications in scientific journals](../publications/index.html#atlas-publications) and several more physics conference proceedings.
@@ -95,7 +95,7 @@ In April of 2022, I co-authored a blog about
 
 -   Commissioning, operations, and threshold calibration of the ATLAS Transition Radiation Tracker
     [[1005.5254](https://arxiv.org/abs/1005.5254)]
--   ATLAS tau reconstruction and identification
+-   ATLAS tau reconstruction and identification, including the use of Boosted Decision Trees (BDTs)
     [[1412.7086](https://arxiv.org/abs/1412.7086)]
 -   ATLAS observation and cross section measurement of SM *Z&rarr;&tau;&tau;* 
     [[1108.2016](https://arxiv.org/abs/1108.2016)]
