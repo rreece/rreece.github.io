@@ -76,6 +76,8 @@ computer vision (ResNets) and NLP (GNMT, Transformer, Linformer, BERT, RoBERTa, 
 [Cerebras revealed](https://www.cerebras.net/a-successful-week-for-cerebras-at-supercomputing-2019/)
 its first product at Supercomputering 2019: the poweful CS-1 computer for AI.
 [I helped](img/ryan-reece-cerebras-SC19.jpg) represent Cerebras at its tradeshow booth.
+I directly supported customers at both national labs and industry in
+applied deep learning tasks ranging from natural langage to physics surrogate models. 
 In April of 2022, I co-authored a blog about
 [Getting started with PyTorch BERT models on the Cerebras CS-2 System](https://cerebras.net/blog/getting-started-with-pytorch-bert-models-on-the-cerebras-cs-2-system/).
 
