@@ -1620,9 +1620,10 @@ Blogs:
 
 -   BatchNorm
 -   LayerNorm, GroupNorm
--   OnlineNorm
+-   OnlineNorm: Chiley, V. et al. (2019). [Online normalization for training neural networks](https://arxiv.org/abs/1905.05894). [^Chiley2019]
 -   Kiani, B., Balestriero, R., LeCun, Y., & Lloyd, S. (2022). [projUNN: efficient method for training deep networks with unitary matrices](https://arxiv.org/abs/2203.05483). [^Kiani2022]
 
+[^Chiley2019]: @Chiley_2019_Online_normalization_for_training_neural_networks\.
 [^Kiani2022]: @Kiani_2022_projUNN_efficient_method_for_training_deep\.
 
 
@@ -1675,7 +1676,7 @@ Resources:
 
 -   Natural Language Processing (NLP)
 -   History
-    -   Firth (1957): "You shall know a word by the company it keeps." [^Firth1957]
+    -   Firth, J.R. (1957): "You shall know a word by the company it keeps." [^Firth1957]
     -   Nirenburg, S. (1996). [Bar Hillel and Machine Translation: Then and Now](https://web.archive.org/web/20120414235847/http://ilit.umbc.edu/SergeiPub/bar-hillel.pdf). [^Nirenburg1996]
     -   Hutchins, J. (2000). [Yehoshua Bar-Hillel: A philosophers' contribution to machine translation](https://web.archive.org/web/20190702192948/http://www.hutchinsweb.me.uk/Bar-Hillel-2000.pdf). [^Hutchins2000]
 -   word2vec
@@ -2169,7 +2170,18 @@ See also:
 ### Word meanings
 
 -   Note that NLP has implications to the philosophy of language and realism
--   [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
+-   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
+-   Belloni, M. (2019). [Neural networks and philosophy of language: Why Wittgenstein’s theories are the basis of all modern NLP](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da).
+-   Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. [^Skelac2020]
+
+Wittgenstein in *PI*:
+
+>   The meaning of a word is its use in the language. [^Wittgenstein2009Sec43]
+
+and
+
+>   One cannot guess how a word functions.
+>   One has to look at its use, and learn from that. [^Wittgenstein2009Sec340]
 
 See also:
 
@@ -2177,6 +2189,9 @@ See also:
 -   [Ordinary language philosophy](scientific-realism.html#ordinary-language-philosophy)
 
 [^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
+[^Skelac2020]: @Skelac_2020_Meaning_as_use_From_Wittgenstein_to_Googles\.
+[^Wittgenstein2009Sec43]: @Wittgenstein_2009_Philosophical_Investigations\, &sect; 43.
+[^Wittgenstein2009Sec340]: @Wittgenstein_2009_Philosophical_Investigations\, &sect; 340.
 
 
 My thoughts

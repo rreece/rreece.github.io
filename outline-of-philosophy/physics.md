@@ -185,6 +185,11 @@ Stein:
 Pedagogy:
 
 -   Maudlin [^Maudlin2012pX]
+-   Schroeder, D.V. (2022). [Relativity in five lessons](https://physics.weber.edu/schroeder/r5/).
+
+See also:
+
+-   [General relativity](physics.html#general-relativity)
 
 [^Einstein1905c]: @Einstein_1905_Zur_elektrodynamik_bewegter_korper\.
 [^Einstein1905d]: @Einstein_1905_Ist_die_tragheit_eines_korpers_von_seinem\.
@@ -280,7 +285,7 @@ See also:
 -   Teller, P. (2000). The gauge argument. [^Teller2000]
 -   't Hooft, G. (2007). [Lie groups in physics](http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf). [^tHooft2007]
 -   Afriat, A. (2013). Weyl's gauge argument. [^Afriat2013]
--   *Physics from Symmetry* [^Schwichtenberg2015]
+-   Schwichtenberg, J. (2015).*Physics from Symmetry*. [^Schwichtenberg2015]
 -   Dewar, N. (2019). Sophistication about symmetries. [^Dewar2019]
 
 Weyl:
@@ -468,6 +473,7 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 -   My quora answer: [What is currently the best explanation for how and why the quantum wave function collapses?](https://www.quora.com/What-is-currently-the-best-explanation-for-how-and-why-the-quantum-wave-function-collapses/answer/Ryan-Reece)
 -   Decoherence and Everett's interpretation
 -   Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. [^Drossel2015]
+-   Zurek, W.H. (2022). [Quantum theory of the classical: Einselection, envariance, quantum Darwinism and extantons](https://arxiv.org/abs/2208.09019). [^Zurek2022]
 
 See also:
 
@@ -478,6 +484,7 @@ See also:
 [^Schlosshauer2005]: @Schlosshauer_2005_Decoherence_the_measurement_problem\.
 [^Tegmark1993]: @Tegmark_1993_Apparent_wave_function_collapse_caused\.
 [^Zurek2003]: @Zurek_2003_Decoherence_einselection_and_the_quantum_origins\.
+[^Zurek2022]: @Zurek_2022_Quantum_theory_of_the_classical_Einselection\.
 
 
 ### Quantum chemistry
