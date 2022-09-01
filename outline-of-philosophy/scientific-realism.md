@@ -1136,7 +1136,7 @@ and
 
 Reichenbach:
 
--   *Experience and Prediction* (1938) [^Reichenbach1938]
+-   *Experience and Prediction* (1938) [^Reichenbach1938b]
 -   *The Rise of Scientific Philosophy* (1951) [^Reichenbach1968]
 
 Reichenbach on probability:
@@ -1151,7 +1151,7 @@ Reichenbach on probability:
 [^Creath2017d]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Creath2017e]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Psillos2011]: @Psillos_2011_On_Reichenbachs_argument_for_scientific_realism\.
-[^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction\.
+[^Reichenbach1938b]: @Reichenbach_1938_Experience_and_Prediction\.
 [^Reichenbach1968]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\.
 
 
@@ -1819,7 +1819,6 @@ Poincar&eacute;:
 [^Maxwell1968]: @Maxwell_1968_Scientific_methodology_and_the_causal_theory\.
 [^Nozick2001]: @Nozick_2001_Invariances\.
 [^Phaedrus265d]: Plato, *Phaedrus* 265d, @Cooper_1997_Plato_Complete_works\, p. 542.
-[^RepublicVII514]: Plato, *Republic VII* 514--520, @Cooper_1997_Plato_Complete_works\, p. 1132--7.
 [^Russell1992pX]: @Russell_1992_The_Analysis_of_Matter\, p. TODO.
 [^Worrall1989]: @Worrall_1989_Structural_realism_The_best_of_both_worlds\.
 

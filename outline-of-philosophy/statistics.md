@@ -1226,7 +1226,6 @@ Classical machine learning
 -   Classification vs regression
 -   Supervised and unsupervised learning
     -   Classification = supervised; clustering = unsupervised
--   [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel) (1901-1990)
 -   Hastie, Tibshirani, & Friedman [^Hastie2009]
 -   *Information Theory, Inference, and Learning* [^MacKay2003]
 -   Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press. [^Murphy2012]
@@ -1247,9 +1246,17 @@ Classical machine learning
 
 ### History
 
+-   [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel) (1901-1990)
+-   [Dartmouth workshop](https://en.wikipedia.org/wiki/Dartmouth_workshop) (1956)
+    -   Solomonoff, G. (2016). [Ray Solomonoff and the Dartmouth Summer Research Project in Artificial Intelligence, 1956](http://raysolomonoff.com/dartmouth/dartray.pdf). [^Solomonoff2016]
 -   Kardum, M. (2020). Rudolf Carnap--The grandfather of artificial neural networks: The influence of Carnap's philosophy on Walter Pitts. [^Kardum2020]
 
+See also:
+
+-   [Honorific reinterpretation](naturalism.html#honorific-reinterpretation) of scientism
+
 [^Kardum2020]: @Kardum_2020_Rudolf_Carnap_The_grandfather_of_artificial\.
+[^Solomonoff2016]: @Solomonoff_2016_Ray_Solomonoff_and_the_Dartmouth_Summer_Research\.
 
 
 ### Logistic regression

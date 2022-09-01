@@ -237,11 +237,19 @@ Artificial intelligence and mind
 -   Strong vs weak, general vs narrow AI
 -   Kurzweil, R. (2012). *How to Create a Mind*. [^Kurzweil2012]
 
+Proposal (1955) for the Dartmouth Workshop:
+
+>   The speeds and memory capacities of present computers may be insufficient
+>   to simulate many of the higher functions of the human brain, but the
+>   major obstacle is not lack of machine capacity, but our inability to
+>   write programs taking full advantage of what we have. [^DartmouthProposal1955]
+
 See also:
 
 -   [Deep learning](statistics.html#deep-learning)
 -   [Artificial intelligence](future.html#artificial-intelligence)
 
+[^DartmouthProposal1955]: @McCarthy_1955_A_proposal_for_the_Dartmouth_Summer_Research\.
 [^Kurzweil2012]: @Kurzweil_2012_How_to_Create_a_Mind\.
 
 

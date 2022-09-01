@@ -227,6 +227,7 @@ Sinervo, P. (2003). Definition and treatment of systematic uncertainties in high
 Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. In S. Skansi (ed.) *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 41--53). Springer.
 Slonim, N., Atwal, G.S., Tkacik, G. & Bialek, W. (2005). Information-based clustering. *Proceedings of the National Academy of Sciences*, 102(51), 18297--18302. https://arxiv.org/abs/q-bio/0511043
 Smith, L. (2019). A gentle introduction to information geometry. http://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html [September 27, 2019]
+Solomonoff, G. (2016). Ray Solomonoff and the Dartmouth Summer Research Project in Artificial Intelligence, 1956. http://raysolomonoff.com/dartmouth/dartray.pdf
 Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. *Physics of Plasmas*, 25(8), 080901.
 Stahlberg, F. (2019). Neural machine translation: A review. https://arxiv.org/abs/1912.02047
 Stuart, A., Ord, K., & Arnold, S. (2010). *Kendall's Advanced Theory of Statistics, Vol 2A: Classical Inference and the Linear Model*. Wiley.

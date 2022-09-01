@@ -927,7 +927,7 @@ Logicism
 -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
 -   [Frege's theorem](https://en.wikipedia.org/wiki/Frege%27s_theorem)
 
-[^Russell1905]: @Russell_1905_On_Denoting\.
+[^Russell1905]: @Russell_1905_On_denoting\.
 [^Russell1912p91]: @Russell_1912_The_Problems_of_Philosophy\, p. 91--118.
 [^Shapiro2000]: @Shapiro_2000_Thinking_about_Mathematics_The_Philosophy\.
 [^Snapper1979]: @Snapper_1979_The_three_crises_in_mathematics_Logicism\.

@@ -951,7 +951,7 @@ Peirce:
     -   "Notes on probability and induction" [^Carnap1973]
 -   Reichenbach
     -   Cross induction
-    -   TODO: Reichenbach [^Reichenbach1938]
+    -   TODO: Reichenbach [^Reichenbach1938a]
 
 Reichenbach:
 
@@ -985,7 +985,7 @@ See also:
 [^Earman2000p25]: @Earman_2000_Humes_Abject_Failure_The_argument_against\, p. 25.
 [^Mill1843]: @Mill_1843_A_System_of_Logic\.
 [^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
-[^Reichenbach1938]: @Reichenbach_1938_Experience_and_Prediction and
+[^Reichenbach1938a]: @Reichenbach_1938_Experience_and_Prediction and
     @Reichenbach_1940_On_the_justification_of_induction\.
     TODO: Break up and go through these references.
 [^Reichenbach1968p93]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\, p. 93-4.

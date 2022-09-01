@@ -12,7 +12,8 @@
 
 export TEXINPUTS := .//:./templates//:./tex//:${TEXINPUTS}
 
-doc_title := $(shell grep '^title:' meta.yaml | head -n1 | sed -e 's/title:\s*//' -e 's/^"//' -e 's/"$$//')
+#doc_title := $(shell grep '^title:' meta.yaml | head -n1 | sed -e 's/title:\s*//' -e 's/^"//' -e 's/"$$//')
+doc_title := $(shell grep '^title:' meta.yaml | head -n1 | sed -e 's/title:[[:space:]]*//' -e 's/^"//' -e 's/"$$//')
 page_title = $(shell head -n10 $< | grep -v -e '^$$' | head -n1)
 OUTPUT := $(shell grep '^output:' meta.yaml | head -n1 | awk '{ print $$2}')
 DOREFS := $(filter $(shell cat meta.yaml | grep ^dorefs | awk '{split($$0,a,":"); print a[2]}' | xargs),true)

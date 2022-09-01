@@ -19,6 +19,7 @@ MacFarquhar, L. (2014). Two Heads: A marriage devoted to the mind-body problem. 
 Mach, E. (1914). *The Analysis of Sensations and the Relation of the Physical* (C.M. Williams and S. Waterlow, Trans.). Open Court.
 Mark, J.T., Marion, B.B, & Hoffman, D.D. (2010). Natural selection and veridical perceptions. *Journal of Theoretical Biology*, 266, 504--515. http://cogsci.uci.edu/~ddhoff/PerceptualEvolution.pdf
 McCarthy, C. (2017). The Kekul{\'e} Problem. *Nautilus*, 47. https://nautil.us/issue/47/consciousness/the-kekul-problem
+McCarthy, J., Minsky, M.L., Rochester, N., & Shannon, C.E. (1955). A proposal for the Dartmouth Summer Research Project on Artificial Intelligence. http://www-formal.stanford.edu/jmc/history/dartmouth.pdf
 Montero, B. (1999). The Body Problem. *Nous*, 33(2), 183--200.
 Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435--450. https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf
 Reimann, M.W. et al. (2017). Cliques of neurons bound into cavities provide a missing link between structure and function. *Frontiers in Computational Neuroscience*, 11. https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full

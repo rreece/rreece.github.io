@@ -394,7 +394,7 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
 
 -   Heidegger, M. (1929). What is metaphysics? [^Heidegger1929]
 -   Cassirer-Heidegger debate on human nature and Kant in Davos (1929)
--   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932b]
+-   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932c]
 -   Friedman, M. (2000). *A Parting of the Ways: Carnap, Cassirer, and Heidegger*. [^Friedman2000]
 -   Friedman, M. (2002). Carnap, Cassirer, and Heidegger: The Davos disputation and twentieth century philosophy. [^Friedman2002]
 -   Gabriel, G. (2003). Carnap's "Elimination of metaphysics through logical analysis of language". [^Gabriel2003]
@@ -407,7 +407,7 @@ See also:
 -   [Romanticism](human-condition.html#romanticism)
 -   [The Vienna Circle](scientific-realism.html#the-vienna-circle)
 
-[^Carnap1932b]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
+[^Carnap1932c]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
 [^Friedman2000]: @Friedman_2000_A_Parting_of_the_Ways_Carnap_Cassirer\.
 [^Friedman2002]: @Friedman_2002_Carnap_Cassirer_and_Heidegger_The_Davos\.
 [^Gabriel2003]: @Gabriel_2003_Carnaps_Elimination_of_metaphysics_through\.
@@ -894,7 +894,7 @@ See also:
 ### Rebutals
 
 -   Defenses of naturalism:
-    -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007c]
+    -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007d]
     -   Rosenberg, A. [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/). *New York Times*. [^Rosenberg2011]
     -   Mallon, R. (2019). [Naturalistic approaches to social construction](https://plato.stanford.edu/entries/social-construction-naturalistic/). *Stanford Encyclopedia of Philosophy*. 
 -   Criticisms of postmodernism:
@@ -937,7 +937,7 @@ See also:
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
 [^Heer2017]: @Heer_2017_Americas_first_postmodern_president\.
 [^Hicks2011]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
-[^Ladyman2007c]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Ladyman2007d]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Leah2018b]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 [^Pluckrose2016]: @Pluckrose_2016_Why_I_no_longer_identify_as_a_feminist\.
 [^Pluckrose2017]: @Pluckrose_2017_How_French_intellectuals_ruined_the_west\.
