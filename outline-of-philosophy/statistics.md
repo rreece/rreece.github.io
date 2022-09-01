@@ -1245,6 +1245,13 @@ Classical machine learning
 [^Vapnik1994]: @Vapnik_1994_Measuring_the_VC_dimension_of_a_learning_machine\.
 
 
+### History
+
+-   Kardum, M. (2020). Rudolf Carnap--The grandfather of artificial neural networks: The influence of Carnap's philosophy on Walter Pitts. [^Kardum2020]
+
+[^Kardum2020]: @Kardum_2020_Rudolf_Carnap_The_grandfather_of_artificial\.
+
+
 ### Logistic regression
 
 From a probabilistic point of view, [^Murphy2012p21]
