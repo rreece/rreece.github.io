@@ -566,9 +566,9 @@ More:
 -   G&ouml;del was a platonist, a (religious) realist.
 -   Armstrong, S. (2012). [Completeness, incompleteness, and what it all means: first versus second order logic](https://www.lesswrong.com/posts/MLqhJ8eDy5smbtGrf/completeness-incompleteness-and-what-it-all-means-first).
 -   Hilbert wanted math to be:
-    -   ~~Complete~~
     -   Consistent?
     -   ~~Decidable~~
+    -   ~~Complete~~
 -   Discuss how incompleteness is overblown in overly epistemically defeatist ways.
     -   Seems to indicate that no formal system lacks the full context for _everything_.
         Additional axioms will be appropriate for introducing further contexts.

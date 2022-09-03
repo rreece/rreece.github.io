@@ -8,6 +8,7 @@ Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford Univ
 Feynman, R.P. (1959). There's plenty of room at the bottom. https://calteches.library.caltech.edu/1976/1/1960Bottom.pdf
 Hanson, R., Martin, D., McCarter, C., & Paulson, J. (2021). If loud aliens explain human earliness, quiet aliens are also rare. *The Astrophysical Journal*, 922, 182. https://iopscience.iop.org/article/10.3847/1538-4357/ac2369
 Russell, S. & Norvig, P. (1995). *Artificial Intelligence: A modern approach* (3rd ed.). Pearson.
+Sandberg, A., Drexler, E., & Ord, T. (2018). Dissolving the Fermi paradox. https://arxiv.org/abs/1806.02404
 Urban, T. (2015). The AI Revolution: The Road to Superintelligence. https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
 Vincent, J. (2019). OpenAI’s new multitalented AI writes, translates, and slanders: A step forward in AI text-generation that also spells trouble. https://www.theverge.com/2019/2/14/18224704/ai-machine-learning-language-models-read-write-openai-gpt2
 Vinge, V. (1993). The coming technological singularity. https://edoras.sdsu.edu/~vinge/misc/singularity.html

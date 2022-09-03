@@ -135,14 +135,17 @@ Moral antirealism
 -   Cognitivism and non-cognitivism
 -   Emotivism
     -   Hume, A.J. Ayer
+    -   Reason is a slave to the passions
     -   Positivism
 -   Relativism
 -   Nihilism
     -   Friedrich Nietzsche
     -   J.L. Mackie
-        -   *Ethics: Inventing Right and Wrong* (1977) [^Mackie2007]
-            -   Argument from queerness
 -   Postmodernism
+-   Moral antirealism is the disjunction of three theses:
+    1. moral noncognitivism
+    2. moral error theory
+    3. moral non-objectivism [^SEPMoralAntirealism]
 
 Thrasymachus in Plato's *Republic*:
 
@@ -166,6 +169,7 @@ See also:
     Section XII, p. 120.
 [^Mackie2007]: @Mackie_2007_Ethics_Inventing_Right_and_Wrong\.
 [^RepublicI338c]: Plato, *Republic I* 338c, @Cooper_1997_Plato_Complete_works\, p. 983.
+[^SEPMoralAntirealism]: Joyce, R. (2021). [Moral anti-realism](https://plato.stanford.edu/entries/moral-anti-realism/), *SEP*.
 
 
 ### Is-ought divide
@@ -204,13 +208,30 @@ See also:
 
 -   [Naturalistic fallacy](ethics.html#naturalistic-fallacy)
 
-
-### Criticism
-
--   TODO
-
 [^Black1964]: @Black_1964_The_gap_between_is_and_should\.
 [^Hume2009p715]: @Hume_2009_A_Treatise_of_Human_Nature\, p. 715-6.
+
+
+### Noncognitivism
+
+-   Noncognitivism is the meta-ethical view that claims about ethics are not propper propositions;
+    they are not truth apt.
+-   TODO
+
+
+### Error Theory
+
+-   Moral error theory is the meta-ethical view that claims about ethics are truth apt,
+    but they are systematically false.
+-   J.L. Mackie
+    -   *Ethics: Inventing Right and Wrong* (1977) [^Mackie2007]
+        -   Argument from queerness
+-   Tully, I. (2014). [Moral error theory](https://1000wordphilosophy.com/2014/04/14/moral-error-theory/).
+
+
+### Non-objectivism
+
+-   TODO
 
 
 Moral realism
@@ -262,11 +283,6 @@ Plato:
 
 [^Bjornsson2010]: @Bjornsson_2010_Metaethical_contextualism_defended\.
 [^Scanlon2000]: @Scanlon_2000_What_We_Owe_to_Each_Other\.
-
-
-### Criticism
-
--   TODO
 
 
 Moral naturalism

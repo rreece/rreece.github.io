@@ -1515,7 +1515,7 @@ Most common regularizations:
 Papers:
 
 -   Loshchilov, I. & Hutter, F. (2019). [Decoupled weight decay regularization](https://arxiv.org/abs/1711.05101).
--   A group theoretic framework for data augmentation [^Chen2020]
+-   Chen, S., Dobriban, E., & Lee, J. H. (2020). [A group theoretic framework for data augmentation](https://arxiv.org/abs/1907.10905). [^Chen2020]
 
 [^Chen2020]: @Chen_2020_A_group_theoretic_framework_for_data_augmentation\.
 [^Mishra2020]: Mishra, D. (2020). [Weight Decay == L2 Regularization?](https://towardsdatascience.com/weight-decay-l2-regularization-90a9e17713cd)

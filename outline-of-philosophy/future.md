@@ -43,11 +43,13 @@ See also:
 
 -   [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
 -   Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. [^Bostrom2002]
+-   Sandberg, A., Drexler, E., & Ord, T. (2018). [Dissolving the Fermi paradox](https://arxiv.org/abs/1806.02404). [^Sandberg2018]
 -   Hanson, R., Martin, D., McCarter, C., & Paulson, J. (2021). [If loud aliens explain human earliness, quiet aliens are also rare](https://iopscience.iop.org/article/10.3847/1538-4357/ac2369). [^Hanson2021]
 -   Wong, M.L. & Bartlett, S. (2022). [Asymptotic burnout and homeostatic awakening: A possible solution to the Fermi paradox?](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0029) [^Wong2022]
 
 [^Bostrom2002]: @Bostrom_2002_Anthropic_Bias_Observation_selection_effects\.
 [^Hanson2021]: @Hanson_2021_If_loud_aliens_explain_human_earliness_quiet\.
+[^Sandberg2018]: @Sandberg_2018_Dissolving_the_Fermi_paradox\.
 [^Wong2022]: @Wong_2022_Asymptotic_burnout_and_homeostatic_awakening\.
 
 

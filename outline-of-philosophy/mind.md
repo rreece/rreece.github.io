@@ -44,6 +44,7 @@ Consciousness
 ### Perception
 
 -   Is perception veridical?
+-   Descartes
 -   Mark, J.T., Marion, B.B, & Hoffman, D.D. (2010). [Natural selection and veridical perceptions](http://cogsci.uci.edu/~ddhoff/PerceptualEvolution.pdf). [^Mark2010]
 -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/). *The Atlantic*. [^Gefter2016]
 

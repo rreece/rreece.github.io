@@ -731,6 +731,7 @@ Induction
 -   How do we infer universals from particulars?
 -   Past performance is no guarantee of future results.
 -   Fallacy: hasty generalization
+-   *Ex ante* probability
 -   Note that philosophical induction is not [mathematical induction](https://en.wikipedia.org/wiki/Mathematical_induction).
 
 Sextus Empiricus:
