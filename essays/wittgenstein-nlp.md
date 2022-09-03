@@ -7,15 +7,8 @@ Wittgenstein and Natural Language Processing
 Introduction
 -------------------------------------------------------------------------------
 
-Logical positivism (also called "logical empiricism" or just "positivism")
-is a philosophical movement that began in the late nineteenth century,
-was further developed by the Vienna Circle and the Berlin Circle in the
-early twentieth century, and has come to have immense influence on analytic
-philosophy ever since.
-
--   empiricism
--   Auguste Comte (1798-1857) coined "positivism"
 -   Vienna Circle
+-   *Tractatus Logico-Philosophicus* (1922) [^Tractatus]
 -   Wissenschaftliche Weltauffassung: Der Wiener Kreis - Scientific Worldview: The Vienna Circle (1929)
     -   The Vienna Circle's manifesto
 -   In 1930 the Vienna Circle and the Berlin Circle took over the journal *Annalen der Philosophie*
@@ -40,13 +33,9 @@ and
 >   One cannot guess how a word functions.
 >   One has to look at its use, and learn from that. [^Wittgenstein2009Sec340]
 
-See also:
-
--   [Natural language processing](statistics.html#natural-language-processing)
--   [Ordinary language philosophy](scientific-realism.html#ordinary-language-philosophy)
-
 [^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
 [^Skelac2020]: @Skelac_2020_Meaning_as_use_From_Wittgenstein_to_Googles\.
+[^Tractatus]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\.
 [^Wittgenstein2009Sec43]: @Wittgenstein_2009_Philosophical_Investigations\, &sect; 43.
 [^Wittgenstein2009Sec340]: @Wittgenstein_2009_Philosophical_Investigations\, &sect; 340.
 

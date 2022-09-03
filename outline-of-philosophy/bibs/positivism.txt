@@ -48,5 +48,5 @@ Stadler, F. (1998). Vienna Circle. In *Routledge Encyclopedia of Philosophy*. Ta
 Stadler, F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. Springer.
 Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration: A brief intellectual history and reappraisal. *Administration & Society*, 47, 416--446.
 #Wittgenstein, L. (1922). *Tractatus Logico-Philosophicus* (C.K. Ogden, Trans.). London: Kegan Paul, Trench, Trubner & Co. [(Originally published in German in 1921)]
-Wittgenstein, L. (1961). *Tractatus Logico-Philosophicus* (D.F. Pears and B.F. McGuinness, Trans.). Routledge. https://people.umass.edu/klement/tlp/tlp.html [(Originally published in German in 1921)]
+Wittgenstein, L. (1961). *Tractatus Logico-Philosophicus* (D.F. Pears and B.F. McGuinness, Trans.). Routledge. https://people.umass.edu/klement/tlp/tlp.html [(Originally published in 1922)]
 Wittgenstein, L. (2009). *Philosophical Investigations* (4 ed.) (P. Hacker and J. Schulte, Eds. E. Anscombe and P. Hacker, Trans.). Wiley-Blackwell. [(Originally published in 1953)]

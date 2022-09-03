@@ -260,6 +260,10 @@ More:
 -   [Kurt G&ouml;del (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
     -   [G&ouml;del's completeness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
     -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+-   Sheffer, H.M. (1913). [A set of five independent postulates for Boolean algebras, with application to logical constants](https://www.ams.org/journals/tran/1913-014-04/S0002-9947-1913-1500960-1/). [^Sheffer1913]
+    -    Propositional logic can be formulated using a single connective: either logical NAND or its dual, logical NOR.
+
+[^Sheffer1913]: @Sheffer_1913_A_set_of_five_independent_postulates_for_Boolean\.
 
 
 ### Propositional logic
