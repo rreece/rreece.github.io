@@ -1967,6 +1967,8 @@ Theoretical machine learning
     -   See also: [Unreasonable effectiveness](math.html#unreasonable-effectiveness)
 -   More
     -   Goldreich, O. & Ron, D. (1997). [On universal learning algorithms](https://www.wisdom.weizmann.ac.il/~oded/p_ul.html). [^Goldreich1997]
+    -   Joyce, T. & Herrmann, J.M. (2017). A review of no free lunch theorems, and their implications for metaheuristic optimisation. [^Joyce2017]
+    -   Lauc, D. (2020). Machine learning and the philosophical problems of induction. [^Lauc2020]
     -   Nakkiran, P. (2021). [Turing-universal learners with optimal scaling laws](https://arxiv.org/abs/2111.05321). [^Nakkiran2021]
     -   Bousquet, O., Hanneke, S., Moran, S., Van Handel, R., & Yehudayoff, A. (2021). [A theory of universal learning](https://dl.acm.org/doi/pdf/10.1145/3406325.3451087). [^Bousquet2021]
 
@@ -1988,6 +1990,8 @@ Roberts:
 
 [^Bousquet2021]: @Bousquet_2021_A_theory_of_universal_learning\.
 [^Goldreich1997]: @Goldreich_1997_On_universal_learning_algorithms\.
+[^Joyce2017]: @Joyce_2017_A_review_of_no_free_lunch_theorems_and_their\.
+[^Lauc2020]: @Lauc_2020_Machine_learning_and_the_philosophical_problems\.
 [^McDermott2019]: @McDermott_2019_When_and_why_metaheuristics_researchers_can_ignore\.
 [^Mitchell1980]: @Mitchell_1980_The_need_for_biases_in_learning_generalizations\.
 [^Nakkiran2021]: @Nakkiran_2021_Turing_universal_learners_with_optimal_scaling\.

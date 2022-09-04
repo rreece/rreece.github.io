@@ -125,11 +125,12 @@ Ioannidis, J.P. (2005). Why most published research findings are false. *PLOS Me
 Ismailov, V. (2020). A three layer neural network can represent any multivariate function. https://arxiv.org/abs/2012.03016
 James, F. & Roos, M. (1975). MINUIT: A system for function minimization and analysis of the parameter errors and corrections. *Computational Physics Communications*, 10, 343--367. https://cds.cern.ch/record/310399
 James, F. (2006). *Statistical Methods in Experimental Particle Physics* (2nd ed.). World Scientific.
+Joyce, T. & Herrmann, J.M. (2017). A review of no free lunch theorems, and their implications for metaheuristic optimisation. In X.S. Yang (ed.), *Nature-Inspired Algorithms and Applied Optimization* (pp. 27--52).
 Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434, 435--443. https://arxiv.org/abs/hep-ex/9902006
 Jurafsky, D. & Martin, J.H. (2022). *Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition* (3rd ed.). https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf
 Kaplan, J. et al. (2019). Notes on contemporary machine learning for physicists. https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf
 Kaplan, J. et al. (2020). Scaling laws for neural language models. https://arxiv.org/abs/2001.08361
-Kardum, M. (2020). Rudolf Carnap--The grandfather of artificial neural networks: The influence of Carnap's philosophy on Walter Pitts. In S. Skansi (ed.) *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 55--66). Springer.
+Kardum, M. (2020). Rudolf Carnap--The grandfather of artificial neural networks: The influence of Carnap's philosophy on Walter Pitts. In S. Skansi (ed.), *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 55--66). Springer.
 Karniadakis, G.E. et al. (2021). Physics-informed machine learning. *Nature Reviews Physics*, 3, 422--440. https://doi.org/10.1038/s42254-021-00314-5
 Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
 Kiani, B., Balestriero, R., Lecun, Y., & Lloyd, S. (2022). projUNN: efficient method for training deep networks with unitary matrices. https://arxiv.org/abs/2203.05483
@@ -139,6 +140,7 @@ Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ImageNet classification wi
 Kruschke, J.K. & Liddell, T.M. (2018). The Bayesian New Statistics: Hypothesis testing, estimation, meta-analysis, and power analysis from a Bayesian perspective. *Psychonomic Bulletin & Review*, 25, 178--206. https://link.springer.com/article/10.3758/s13423-016-1221-4
 Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R. (2019). ALBERT: A lite BERT for self-supervised learning of language representations. https://arxiv.org/abs/1909.11942
 Lanctot, M., Waugh, K., Zinkevich, M., & Bowling, M. (2009). Monte Carlo sampling for regret minimization in extensive games. *Advances in Neural Information Processing Systems*, 22, 1078--1086.
+Lauc, D. (2020). Machine learning and the philosophical problems of induction. In S. Skansi (ed.), *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 93--106). Springer.
 Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53. http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf
 LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1(4), 541--551. http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf
 LeCun, Y. & Bottou, L. (1998). Efficient BackProp. In Orr, G.B. & Muller, K.R. (eds.), *Neural Networks: Tricks of the trade*. Springer. http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
@@ -207,7 +209,7 @@ Reid, C. (1998). *Neyman*. Springer-Verlag.
 Rice, J.A. (2007). *Mathematical Statistics and Data Analysis* (3rd ed.). Thomson.
 Roberts, D.A. (2021). Why is AI hard and physics simple? https://arxiv.org/abs/2104.00008
 Roberts, D.A., Yaida, S., & Hanin, B. (2021). *The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*. Cambridge University Press. https://deeplearningtheory.com/PDLT.pdf
-Robins, J.M. & Wasserman, L. (1999). On the impossibility of inferring causation from association without background knowledge. In C. Glymour & G. Cooper (eds.) *Computation, Causation, and Discovery* (pp. 305--321). AAAI & MIT Press.
+Robins, J.M. & Wasserman, L. (1999). On the impossibility of inferring causation from association without background knowledge. In C. Glymour & G. Cooper (eds.), *Computation, Causation, and Discovery* (pp. 305--321). AAAI & MIT Press.
 Ronen, M., Finder, S.E., & Freifeld, O. (2022). DeepDPM: Deep clustering with an unknown number of clusters. https://arxiv.org/abs/2203.14309
 Royall, R. (1997). *Statistical Evidence: A likelihood paradigm*. CRC Press.
 Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533--536.
@@ -223,9 +225,9 @@ Silver, D. et al. (2016). Mastering the game of Go with deep neural networks and
 Silver, D. et al. (2017). Mastering the game of Go without human knowledge. *Nature*, 550, 354--359.
 Silver, D. et al. (2017). Mastering chess and shogi by self-play with a general reinforcement learning algorithm. https://arxiv.org/abs/1712.01815
 Simonyan, K. & Zisserman, A. (2014). Very deep convolutional networks for large-scale image recognition. https://arxiv.org/abs/1409.1556
-Sinervo, P. (2002). Signal significance in particle physics. In Whalley, M.R. & Lyons, L. (Eds.), *Proceedings of the Conference on Advanced Statistical Techniques in Particle Physics*. Durham, UK: Institute of Particle Physics Phenomenology. https://arxiv.org/abs/hep-ex/0208005v1
-Sinervo, P. (2003). Definition and treatment of systematic uncertainties in high energy physics and astrophysics. In Lyons, L., & Mount, R., & Reitmeyer, R. (Eds.), *Proceedings of the Conference on Statistical Problems in Particle Physics, Astrophysics, and Cosmology (PhyStat2003)* (pp. 122--129). Stanford Linear Accelerator Center. https://www.slac.stanford.edu/econf/C030908/papers/TUAT004.pdf
-Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. In S. Skansi (ed.) *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 41--53). Springer.
+Sinervo, P. (2002). Signal significance in particle physics. In Whalley, M.R. & Lyons, L. (eds.), *Proceedings of the Conference on Advanced Statistical Techniques in Particle Physics*. Durham, UK: Institute of Particle Physics Phenomenology. https://arxiv.org/abs/hep-ex/0208005v1
+Sinervo, P. (2003). Definition and treatment of systematic uncertainties in high energy physics and astrophysics. In Lyons, L., & Mount, R., & Reitmeyer, R. (eds.), *Proceedings of the Conference on Statistical Problems in Particle Physics, Astrophysics, and Cosmology (PhyStat2003)* (pp. 122--129). Stanford Linear Accelerator Center. https://www.slac.stanford.edu/econf/C030908/papers/TUAT004.pdf
+Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. In S. Skansi (ed.), *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 41--53). Springer.
 Slonim, N., Atwal, G.S., Tkacik, G. & Bialek, W. (2005). Information-based clustering. *Proceedings of the National Academy of Sciences*, 102(51), 18297--18302. https://arxiv.org/abs/q-bio/0511043
 Smith, L. (2019). A gentle introduction to information geometry. http://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html [September 27, 2019]
 Solomonoff, G. (2016). Ray Solomonoff and the Dartmouth Summer Research Project in Artificial Intelligence, 1956. http://raysolomonoff.com/dartmouth/dartray.pdf
@@ -262,7 +264,7 @@ Weintraub, R. (1995). What was Hume's contribution to the problem of induction? 
 Weisberg, J. (2019). *Odds & Ends: Introducing Probability & Decision with a Visual Emphasis*. https://jonathanweisberg.org/vip/
 Werbos, P.J. (1990). Backpropagation through time: what it does and how to do it. *Proceedings of the IEEE*, 78(10), 1550--1560. http://www.werbos.com/Neural/BTT.pdf
 Wilks, S.S. (1938). The large-sample distribution of the likelihood ratio for testing composite hypotheses. *The Annals of Mathematical Statistics*, 9, 60--62. https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-9/issue-1/The-Large-Sample-Distribution-of-the-Likelihood-Ratio-for-Testing/10.1214/aoms/1177732360.full
-Williamson, J. (2009). The philosophy of science and its relation to machine learning. In *Scientific Data Mining and Knowledge Discovery* (pp. 77-89). Springer, Berlin, Heidelberg.
+Williamson, J. (2009). The philosophy of science and its relation to machine learning. In *Scientific Data Mining and Knowledge Discovery* (pp. 77--89). Springer, Berlin, Heidelberg.
 Wolpert, D.H. (1996). The lack of a priori distinctions between learning algorithms. *Neural Computation*, 8, 1341--1390.
 Wolpert, D.H. (2007). Physical limits of inference. https://arxiv.org/abs/0708.1362
 Wolpert, D.H. & Kinney, D. (2020). Noisy deductive reasoning: How humans construct math, and how math constructs universes. https://arxiv.org/abs/2012.08298

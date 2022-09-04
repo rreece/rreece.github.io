@@ -471,6 +471,7 @@ Criticism:
 
 ### Proof theory
 
+-   [Curry-Howard correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)
 -   Viteri, S. & DeDeo, S. (2022). [Epistemic phase transitions in mathematical proofs](https://www.sciencedirect.com/science/article/pii/S0010027722001081). [^Viteri2022]
 
 See also:
