@@ -748,8 +748,11 @@ Platonism
 
 -   Radical realism
 -   Monism: everything is math.
+-   Tegmark, M. (2014). *Our Mathematical Universe*. [^Tegmark2014]
 
 ![Bronnikov, F. (1869). Pythagoreans celebrate sunrise. ([Wikimedia](https://commons.wikimedia.org/wiki/File:Bronnikov_gimnpifagoreizev.jpg), 2007).](img/Bronnikov-Pythagoreans-celebrate-sunrise.jpg){#fig:Bronnikov-Pythagoreans-celebrate-sunrise}
+
+[^Tegmark2014]: @Tegmark_2014_Our_Mathematical_Universe\.
 
 
 ### Plato
@@ -926,7 +929,7 @@ Logicism
 -   Relationship with positivism?
 -   Russell, B. (1905). [On denoting](https://www.finophd.eu/wp-content/uploads/2018/11/russell_on_denoting.pdf). [^Russell1905]
 -   Russsell expresses support for the platonic "universals" [^Russell1912p91]
--   Review article on the philosophy of math by Snapper [^Snapper1979]
+-   Snapper, E. (1979). [The three crises in mathematics: Logicism, intuitionism and formalism](https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/1980/0025570x.di021111.02p0048m.pdf). [^Snapper1979]
 -   Shapiro, S. (2000). *Thinking about Mathematics: The Philosophy of Mathematics*. [^Shapiro2000]
 -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
 -   [Frege's theorem](https://en.wikipedia.org/wiki/Frege%27s_theorem)
@@ -1018,9 +1021,9 @@ Hilbert:
 
 Hilbert wanted math to be
 
--   ~~Complete~~
 -   Consistent?
 -   ~~Decidable~~
+-   ~~Complete~~
 
 See also:
 

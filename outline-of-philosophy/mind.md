@@ -110,6 +110,7 @@ Panpsychism
 -   Chalmers
 -   Rejection of dualism vs physicalism dichotomy
 -   Conway's "freewill theorem"
+-   Harris, A. (2022). [The strong assumption](https://annakaharris.com/the-strong-assumption/).
 
 See also:
 
@@ -243,14 +244,14 @@ Proposal (1955) for the Dartmouth Workshop:
 >   The speeds and memory capacities of present computers may be insufficient
 >   to simulate many of the higher functions of the human brain, but the
 >   major obstacle is not lack of machine capacity, but our inability to
->   write programs taking full advantage of what we have. [^DartmouthProposal1955]
+>   write programs taking full advantage of what we have. [^DartmouthProposal1955b]
 
 See also:
 
 -   [Deep learning](statistics.html#deep-learning)
 -   [Artificial intelligence](future.html#artificial-intelligence)
 
-[^DartmouthProposal1955]: @McCarthy_1955_A_proposal_for_the_Dartmouth_Summer_Research\.
+[^DartmouthProposal1955b]: @McCarthy_1955_A_proposal_for_the_Dartmouth_Summer_Research\.
 [^Kurzweil2012]: @Kurzweil_2012_How_to_Create_a_Mind\.
 
 

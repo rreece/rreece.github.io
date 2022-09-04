@@ -61,6 +61,7 @@ Sussman, G.J. & Wisdom, J. (2013). *Functional Differential Geometry*. MIT Press
 Tait, W.W. (1983). Against intuitionism: Constructive mathematics is part of classical mathematics. *Journal of Philosophical Logic*, 12, 173--195. 
 Tao, T. (2007). Differential forms and integration. https://www.math.ucla.edu/~tao/preprints/forms.pdf
 Tegmark, M. (2008). The mathematical universe. *Foundations of Physics*, 38, 101--150. https://arxiv.org/abs/0704.0646
+Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
 Teller, P. (1989). *A Modern Formal Logic Primer*. Prentice Hall. https://tellerprimer.ucdavis.edu/
 Varadarajan, V.S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. In *A Tribute to CS Seshadri* (pp. 502--541). Gurgaon: Hindustan Book Agency.
 Viteri, S. & DeDeo, S. (2022). Epistemic phase transitions in mathematical proofs. *Cognition*, 225, 105120. https://www.sciencedirect.com/science/article/pii/S0010027722001081
