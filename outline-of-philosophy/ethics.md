@@ -42,9 +42,11 @@ Deontological ethics
 ### Introduction
 
 -   Kant
+    -   Categorical imperative
 -   Rawls
     -   *A Theory of Justice* [^Rawls1999]
     -   The original position
+    -   Veil of ignorance
     -   Reflective equilibrium
 
 Kant:
