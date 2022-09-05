@@ -1,3 +1,4 @@
+Aaronson, S. (2013). The ghost in the quantum Turing machine. https://arxiv.org/abs/1306.0159
 Andrews, M. (2021). The math is not the territory: Navigating the free energy principle. *Biology & Philosophy*, 36, 1--19. http://philsci-archive.pitt.edu/18974/
 Bunge, M. (2010). *Mind and Matter: A Philosophical Inquiry*. Dordrecht: Springer.
 Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.

@@ -696,7 +696,7 @@ More:
 
 [^Carnap1937LSLp51]: @Carnap_1937_Logical_Syntax_of_Language\, p. 51.
 [^Fetzer2017]: @Fetzer_2017_Carl_Hempel\.
-[^Hahn1973Sec2b]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 2.
+[^Hahn1973Sec2b]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect;2.
 [^Leitgeb2020H]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html).
 [^Potochnik2011]: @Potochnik_2011_A_Neurathian_conception_of_the_unity_of_science\.
 [^Schlick1948p480]: @Schlick_1948_Positivism_and_realism\, p. 480\.
@@ -854,7 +854,7 @@ Wittgenstein explaining the point of the *Tractatus* in a letter to Russell:
 Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
 [^Anscombe1959p161]: @Anscombe_1959_An_Introduction_to_Wittgensteins_Tractatus\, p. 161.
-[^Hahn1973Sec1_2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 1.2.
+[^Hahn1973Sec1_2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect;1.2.
 [^Ramsey1923]: @Ramsey_1923_Review_of_Tractatus_Logico_Philosophicus_by_L\.
 [^Reck2009]: @Reck_1997_Freges_influence_on_Wittgenstein_Reversing\.
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\. <https://iep.utm.edu/wittgens/>
@@ -1348,21 +1348,29 @@ See also:
 -   [Blue and Brown Books](https://en.wikipedia.org/wiki/Blue_and_Brown_Books) (1933-35)
     -   Lecture notes and notes dictated, mimeographed as a few copies and circulated
         during Wittgenstein's lifetime.
+    -   At the end of his fellowship at Cambridge in the summer of 1936, Wittgenstein went
+        to Norway and attempted to revise the Brown Book for publication, but failed.
 -   Wittgenstein, L. (1953). *Philosophical Investigations*. [^Wittgenstein2009]
+    -   The original version of *PI* was drafted in late 1936, known to scholars as the *Urfassung* (original version).
     -   Published posthumously in 1953.
     -   Edited and translated to English by G.E.M. Anscombe.
     -   Language games; Meaning as use.
     -   Duck-rabbit; "seeing that" vs "seeing as".
--   An important project is to understand the differences between early (*TLP*)
+    -   An important project is to understand the differences between early (*TLP*)
     and late (*PI*) Wittgenstein. It is quite the about-face.
-    -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
-    -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
+        -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
+        -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
 -   Wittgenstein, L. (1969). *On Certainty*. [^Wittgenstein1969b]
--   Rorty
+-   [Gilbert Ryle](https://en.wikipedia.org/wiki/Gilbert_Ryle) (1900-1976)
+-   [P.F. Strawson](https://en.wikipedia.org/wiki/P._F._Strawson) (1919-2006)
+    -   Strawson, P.F. (1950). On referring. *Mind*, 59, 320--344.
+    -   *The Bounds of Sense: An Essay on Kant’s Critique of Pure Reason* (1966)
+-   Stanley Cavell (1926-2018)
+    -   *Must We Mean What We Say?* (1969) [^Cavell2015]
+    -   *The Claim of Reason: Wittgenstein, Skepticism, Morality, and Tragedy* (1979)
+-   Richard Rorty (1931-2007)
     -   Rorty, R. (1993). Wittgenstein, Heidegger, and the reification of language. [^Rorty1993]
     -   "Obsession with this image of something deeply hidden" [^Rorty1993p347]
--   Cavell
-    -   *Must We Mean What We Say?* (1969) [^Cavell2015]
 -   Video: Sugrue, M. (1992). [The Latter Wittgenstein: The Philosophy of Language](https://www.youtube.com/watch?v=X7Rb56kZQSk).
 
 Wittgenstein in *PI*:
@@ -1388,8 +1396,8 @@ See also:
 [^Rorty1993p347]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\, p. 347.
 [^Wittgenstein1969b]: @Wittgenstein_1969_On_Certainty\.
 [^Wittgenstein2009]: @Wittgenstein_2009_Philosophical_Investigations\.
-[^Wittgenstein2009Sec109]: @Wittgenstein_2009_Philosophical_Investigations\, &sect; 109.
-[^Wittgenstein2009Sec114]: @Wittgenstein_2009_Philosophical_Investigations\, &sect; 114.
+[^Wittgenstein2009Sec109]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;109.
+[^Wittgenstein2009Sec114]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;114.
 
 
 ### The "death" of positivism

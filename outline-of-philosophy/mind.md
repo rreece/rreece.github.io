@@ -229,6 +229,9 @@ Free will
 -   [Sam Harris: Free Will is an Illusion](https://www.youtube.com/watch?v=SYq724zHUTw) - Lex Fridman podcast
 -   [Judea Pearl on the illusion of free will](https://www.youtube.com/watch?v=GVaQ_XxcjJk)
 -   Aaronson, S. (2006). Lecture notes: [Free will](https://www.scottaaronson.com/democritus/lec18.html).
+-   Aaronson, S. (2013). [The ghost in the quantum Turing machine](https://arxiv.org/abs/1306.0159). [^Aaronson2013]
+
+[^Aaronson2013]: @Aaronson_2013_The_ghost_in_the_quantum_Turing_machine\.
 
 
 Artificial intelligence and mind

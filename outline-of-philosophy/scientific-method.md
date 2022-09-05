@@ -508,7 +508,9 @@ Table: Kant's division of judgments. {#tbl:kants-division-of-judgements}
     -   Kant argues that all of pure mathematics is synthetic a priori,
         even in the simple example "7 + 5 = 12", since the concept of
         "12" is not contained in the concepts of "7", "5", or "+". [^Kant1787pB15]
-    -   Transcendental Deduction of the Categories (TDC)
+    -   Transcendental Deduction of the Categories (TDC):
+        An argument that aims to justify the use of a concept,
+        one that demonstrates that the concept correctly applies to objects of experience.
     -   "No analysis without prior synthesis"
     -   [Twitter thread on the CPR by Helen De Cruz](https://twitter.com/Helenreflects/status/1459374260955320320) - ([threadreadered](https://threadreaderapp.com/thread/1459374260955320320.html))
 

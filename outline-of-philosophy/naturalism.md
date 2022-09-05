@@ -294,7 +294,7 @@ Bunge:
 >   philosophy at all with neither. [^Bunge2010pxi]
 
 [^Bunge2010pxi]: @Bunge_2010_Mind_and_Matter_A_Philosophical_Inquiry\, p. xi.
-[^VCManifesto1929s2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect; 2.
+[^VCManifesto1929s2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect;2.
 [^Wilson1998]: @Wilson_1998_Consilience_The_Unity_of_Knowledge\.
 
 

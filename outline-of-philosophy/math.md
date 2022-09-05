@@ -554,6 +554,7 @@ Related:
 -   Tarski's undefinability theorem on the formal undefinability of truth
 -   Church's proof that Hilbert's Entscheidungsproblem is unsolvable
 -   Turing's theorem that there is no algorithm to solve the halting problem
+    -   Turing, A.M. (1937). On computable numbers, with an application to the Entscheidungsproblem. [^Turing1937]
 
 Chaitin:
 
@@ -599,6 +600,7 @@ See also:
 [^Franzen2005]: @Franzen_2005_Godels_Theorem_An_incomplete_guide_to_its\.
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
 [^Raatikainen2020]: @Raatikainen_2020_Godels_incompleteness_theorems\.
+[^Turing1937]: @Turing_1937_On_computable_numbers_with_an_application\.
 
 
 ### Complexity theory

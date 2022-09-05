@@ -63,6 +63,7 @@ Tao, T. (2007). Differential forms and integration. https://www.math.ucla.edu/~t
 Tegmark, M. (2008). The mathematical universe. *Foundations of Physics*, 38, 101--150. https://arxiv.org/abs/0704.0646
 Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
 Teller, P. (1989). *A Modern Formal Logic Primer*. Prentice Hall. https://tellerprimer.ucdavis.edu/
+Turing, A.M. (1937). On computable numbers, with an application to the Entscheidungsproblem. *Proceedings of the London Mathematical Society*, 42, 230--65.
 Varadarajan, V.S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. In *A Tribute to CS Seshadri* (pp. 502--541). Gurgaon: Hindustan Book Agency.
 Viteri, S. & DeDeo, S. (2022). Epistemic phase transitions in mathematical proofs. *Cognition*, 225, 105120. https://www.sciencedirect.com/science/article/pii/S0010027722001081
 von Fintel, K. (2011). Conditionals. https://dspace.mit.edu/handle/1721.1/95781

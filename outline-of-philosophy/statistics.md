@@ -1426,6 +1426,7 @@ See also:
     -   See also:
         -   [Algorithmic information theory](#algorithmic-information-theory)
         -   [Constructive empiricism](scientific-realism.html#constructive-empiricism)
+-   Lauc, D. (2020). Machine learning and the philosophical problems of induction. [^Lauc2020p103]
 -   Ronen, M., Finder, S.E., & Freifeld, O. (2022). [DeepDPM: Deep clustering with an unknown number of clusters](https://arxiv.org/abs/2203.14309). [^Ronen2022]
 
 See also:
@@ -1435,6 +1436,7 @@ See also:
 
 [^Batson2021]: @Batson_2021_Topological_obstructions_to_autoencoding\.
 [^Hennig2015a]: @Hennig_2015_What_are_the_true_clusters\.
+[^Lauc2020p103]: @Lauc_2020_Machine_learning_and_the_philosophical_problems\, p. 103--4.
 [^Ronen2022]: @Ronen_2022_DeepDPM_Deep_clustering_with_an_unknown_number\.
 [^Slonim2005]: @Slonim_2005_Information_based_clustering\.
 
@@ -2226,8 +2228,8 @@ See also:
 
 [^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
 [^Skelac2020]: @Skelac_2020_Meaning_as_use_From_Wittgenstein_to_Googles\.
-[^Wittgenstein2009Sec43]: @Wittgenstein_2009_Philosophical_Investigations\, &sect; 43.
-[^Wittgenstein2009Sec340]: @Wittgenstein_2009_Philosophical_Investigations\, &sect; 340.
+[^Wittgenstein2009Sec43]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;43.
+[^Wittgenstein2009Sec340]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;340.
 
 
 My thoughts

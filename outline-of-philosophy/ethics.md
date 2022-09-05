@@ -55,7 +55,7 @@ Kant:
 >   be conceived which could be called good without qualification except a
 >   *good will*. [^Kant1785s1]
 
-[^Kant1785s1]: Kant, I. (1785). *Groundwork of the Metaphysic of Morals*, &sect; 1.
+[^Kant1785s1]: Kant, I. (1785). *Groundwork of the Metaphysic of Morals*, &sect;1.
 [^Rawls1999]: @Rawls_1999_A_Theory_of_Justice\.
 
 
