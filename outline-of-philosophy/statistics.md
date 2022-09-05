@@ -2304,7 +2304,7 @@ Click to show annotated bibliography
 
 --------------------------------------------------------------------------------
 
-### Cranmer, K (2015). Practical statistics for the LHC.
+### Cranmer, K. (2015). Practical statistics for the LHC.
 
 -   @Cranmer_2015_Practical_statistics_for_the_LHC
 
