@@ -961,9 +961,9 @@ Surveys:
         Carl Gustav Hempel, Richard von Mises, and David Hilbert.
 -   Reichenbach, H. (1936). Logistic empiricism in Germany and the present state of its problems. [^Reichenbach1936]
 -   Rescher, N. (2006). The Berlin School of logical empiricism and its legacy. [^Rescher2006]
--   Creath, R. (2017). [Logical empiricism](https://plato.stanford.edu/entries/logical-empiricism). [^Creath2017b]
 -   Milkov, N. (2013). The Berlin Group and the Vienna Circle: Affinities and divergences. [^Milkov2013]
     -   Hempel and his students at the University of Pittsburg are an outgrowth of the Berlin Circle.
+-   Creath, R. (2017). [Logical empiricism](https://plato.stanford.edu/entries/logical-empiricism). [^Creath2017b]
 
 TODO: Note any differences between:
 
@@ -1358,12 +1358,12 @@ See also:
     -   Duck-rabbit; "seeing that" vs "seeing as".
     -   An important project is to understand the differences between early (*TLP*)
     and late (*PI*) Wittgenstein. It is quite the about-face.
-        -   TLP: Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
+        -   TLP: The picture theory of meaning. Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
         -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
 -   Wittgenstein, L. (1969). *On Certainty*. [^Wittgenstein1969b]
 -   [Gilbert Ryle](https://en.wikipedia.org/wiki/Gilbert_Ryle) (1900-1976)
 -   [P.F. Strawson](https://en.wikipedia.org/wiki/P._F._Strawson) (1919-2006)
-    -   Strawson, P.F. (1950). On referring. *Mind*, 59, 320--344.
+    -   Strawson, P.F. (1950). On referring. [^Strawson1950]
     -   *The Bounds of Sense: An Essay on Kant’s Critique of Pure Reason* (1966)
 -   Stanley Cavell (1926-2018)
     -   *Must We Mean What We Say?* (1969) [^Cavell2015]
@@ -1394,6 +1394,7 @@ See also:
 [^Cavell2015]: @Cavell_2015_Must_We_Mean_What_We_Say\.
 [^Rorty1993]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\.
 [^Rorty1993p347]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\, p. 347.
+[^Strawson1950]: @Strawson_1950_On_referring\.
 [^Wittgenstein1969b]: @Wittgenstein_1969_On_Certainty\.
 [^Wittgenstein2009]: @Wittgenstein_2009_Philosophical_Investigations\.
 [^Wittgenstein2009Sec109]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;109.

@@ -447,7 +447,7 @@ Hume:
 [^Hume1740]: @Hume_2009_A_Treatise_of_Human_Nature\.
 [^Hume1748]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\.
 [^Hume2007p109]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
-    Section XII, pp. 109--110.
+    &sect;XII, pp. 109--110.
 
 
 ### Important synthesizers
@@ -575,9 +575,9 @@ See also:
 
 [^Carnap1937LSLp182]: @Carnap_1937_Logical_Syntax_of_Language\, p. 182.
 [^Dicker1991]: @Dicker_1991_Humes_fork_revisited\.
-[^Hahn1973Sec2a]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, Sec. 2.
+[^Hahn1973Sec2a]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect;2.
 [^Hume2007p120flames]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\,
-    Section XII, p. 120.
+    &sect;XII, p. 120.
 [^Kant1787pBviii]: @Kant_1996_Critique_of_Pure_Reason\, p. Bviii--ix\.
 [^Kant1787pB10]: @Kant_1996_Critique_of_Pure_Reason\, p. A6--7, B10--11\.
 [^Kant1787pB15]: @Kant_1996_Critique_of_Pure_Reason\, p. B15--16\.
@@ -809,7 +809,7 @@ Hume:
 >   we have no reason to draw any inference concerning any object beyond those
 >   of which we have had experience.
 
---  David Hume, in A Treatise of Human Nature, Book I, part 3, Section 12.
+--  David Hume, in A Treatise of Human Nature, Book I, part 3, &sect;12.
 
 -   Bertrand Russell
 -   Nancy Cartwright

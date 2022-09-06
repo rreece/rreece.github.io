@@ -7,14 +7,33 @@ Wittgenstein and Natural Language Processing
 Introduction
 -------------------------------------------------------------------------------
 
--   Vienna Circle
--   *Tractatus Logico-Philosophicus* (1922) [^Tractatus]
--   Wissenschaftliche Weltauffassung: Der Wiener Kreis - Scientific Worldview: The Vienna Circle (1929)
-    -   The Vienna Circle's manifesto
--   In 1930 the Vienna Circle and the Berlin Circle took over the journal *Annalen der Philosophie*
-    and made it the main journal of logical empiricism under the title *Erkenntnis*,
-    edited by Carnap and Reichenbach.
+-   The *TLP* and *PI*
+-   The Vienna Circle
 -   Carnap
+-   Firth
+    -   Firth, J.R. (1957): "You shall know a word by the company it keeps." [^Firth1957]
+
+[^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
+
+Wittgenstein's evolution
+-------------------------------------------------------------------------------
+
+### TODO
+
+-   *Tractatus Logico-Philosophicus* (1922) [^Tractatus]
+-   *Philosophical Investigations* (1953) [^PhilosophicalInvestigations]
+
+[^PhilosophicalInvestigations]: @Wittgenstein_2009_Philosophical_Investigations\.
+[^Tractatus]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\.
+
+### The picture theory of meaning
+
+-   TODO
+
+
+### Meaning as use
+
+-   TODO
 
 
 Word meanings
@@ -35,9 +54,8 @@ and
 
 [^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
 [^Skelac2020]: @Skelac_2020_Meaning_as_use_From_Wittgenstein_to_Googles\.
-[^Tractatus]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\.
-[^Wittgenstein2009Sec43]: @Wittgenstein_2009_Philosophical_Investigations\, &sect; 43.
-[^Wittgenstein2009Sec340]: @Wittgenstein_2009_Philosophical_Investigations\, &sect; 340.
+[^Wittgenstein2009Sec43]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;43.
+[^Wittgenstein2009Sec340]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;340.
 
 
 <!-- REFERENCES -->

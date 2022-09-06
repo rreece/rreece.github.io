@@ -1,3 +1,4 @@
+Firth, J.R. (1957). A synopsis of linguistic theory, 1930-1955. In *Studies in Linguistic Analysis* (pp. 1--31). Oxford: Blackwell.
 Perone, C.S. (2018). NLP word representations and the Wittgenstein philosophy of language. http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/
 Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. In S. Skansi (ed.) *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 41--53). Springer.
 Wittgenstein, L. (1961). *Tractatus Logico-Philosophicus* (D.F. Pears and B.F. McGuinness, Trans.). Routledge. https://people.umass.edu/klement/tlp/tlp.html [(Originally published in 1922)]
