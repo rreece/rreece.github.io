@@ -143,6 +143,7 @@ See also:
     -   [teaching statistics](http://bactra.org/notebooks/teaching-statistics.html)
     -   [information geometry](http://bactra.org/notebooks/info-geo.html)
     -   [*Advanced Data Analysis from an Elementary Point of View*](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
+-   Taboga, M. (2022). [statlect.com](https://www.statlect.com/).
 
 [^Cousins2018]: @Cousins_2018_Lectures_on_statistics_in_theory_Prelude\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\.
@@ -1820,6 +1821,7 @@ More:
 
 -   [List by OpenAI of key RL papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 -   [List of game AI codes by DATA Lab](https://github.com/datamllab/awesome-game-ai)
+-   Chen, L. et al. (2021). [Decision Transformer: Reinforcement learning via sequence modeling](https://arxiv.org/abs/2106.01345).
 
 [^Arulkumaran2017]: @Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey\.
 [^CesaBianchi2006]: @Cesa_Bianchi_2006_Prediction_Learning_and_Games\.

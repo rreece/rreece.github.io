@@ -187,6 +187,10 @@ Pedagogy:
 -   Maudlin [^Maudlin2012pX]
 -   Schroeder, D.V. (2022). [Relativity in five lessons](https://physics.weber.edu/schroeder/r5/).
 
+More:
+
+-   McTaggart, J.E. (1908). [The unreality of time](https://philarchive.org/archive/MCTTUO). [^McTaggart1908]
+
 See also:
 
 -   [General relativity](physics.html#general-relativity)
@@ -194,6 +198,7 @@ See also:
 [^Einstein1905c]: @Einstein_1905_Zur_elektrodynamik_bewegter_korper\.
 [^Einstein1905d]: @Einstein_1905_Ist_die_tragheit_eines_korpers_von_seinem\.
 [^Maudlin2012pX]: @Maudlin_2012_Philosophy_of_Physics_Space_and_Time\, p. TODO.
+[^McTaggart1908]: @McTaggart_1908_The_unreality_of_time\.
 [^Stein2021p69]: @Stein_2021_Physics_and_philosophy_meet_The_strange_case\, p. 69.
 
 

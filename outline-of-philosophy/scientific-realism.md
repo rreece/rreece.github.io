@@ -499,6 +499,7 @@ magnified the discussion, when he claims that
 
 -   No Miracles Argument (NMA)
 -   Prediction with science works
+-   Inference from success to truth
 -   Putnam
 -   Boyd
 -   [Discovery of Neptune](https://en.wikipedia.org/wiki/Discovery_of_Neptune)
@@ -1942,6 +1943,8 @@ Active realism
 ### Introduction
 
 -   Hasok Chang
+    -   pluralist
+    -   defends phlogiston theory of combustion
 
 
 My thoughts

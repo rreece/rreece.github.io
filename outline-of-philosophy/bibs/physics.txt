@@ -168,6 +168,7 @@ Maudlin, T. (2012). *Philosophy of Physics: Space and Time*. Princeton Universit
 Maudlin, T. (2014). What Bell did. *Journal of Physics A: Mathematical and Theoretical*, 47, 424010. https://iopscience.iop.org/article/10.1088/1751-8113/47/42/424010/pdf
 Maudlin, T. (2018). Ontological clarity via canonical presentation: Electromagnetism and the Aharonov-Bohm effect. *Entropy*, 20(6), 465. https://www.mdpi.com/1099-4300/20/6/465
 Maudlin, T. (2019). *Philosophy of Physics: Quantum Theory*. Princeton University Press.
+McTaggart, J.E. (1908). The unreality of time. *Mind*, 17, 457--474. https://philarchive.org/archive/MCTTUO
 Mermin, N.D. (1985). Is the moon there when nobody looks? Reality and the quantum theory. *Physics Today*, 38(4), 38--47.
 Mermin, N.D. (2022). A note on the quantum measurement problem. https://arxiv.org/abs/2206.10741
 {MicroBooNE Collaboration}. (2021). Search for neutrino-induced neutral current $\Delta$ radiative decay in MicroBooNE and a first test of the MiniBooNE low energy excess under a single-photon hypothesis. https://arxiv.org/abs/2110.00409
