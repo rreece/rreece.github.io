@@ -457,6 +457,8 @@ $$ i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle $$
 
 $$ i \hbar \: \partial_{t} \: \hat{U}(t) \: |\psi\rangle = \hat{H} \: \hat{U}(t) \: |\psi\rangle $$
 
+Schr&ouml;dinger vs Heisenberg pictures is like Heraclitus vs Parmenides.
+
 -   Decoherence
 
 $$ \mathcal{H} = \mathcal{H}_\mathrm{S} \otimes \mathcal{H}_\mathrm{E} $$

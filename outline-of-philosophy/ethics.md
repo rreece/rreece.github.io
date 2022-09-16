@@ -234,7 +234,11 @@ See also:
 
 ### Non-objectivism
 
+-   Moral relativism, subjectivism
 -   TODO
+
+
+![Main divisions in meta-ethics by [Joseph Schmid](https://www.youtube.com/watch?v=89cnR4pU_7k).](img/meta-ethics.png){#fig:meta-ethics}
 
 
 Moral realism
@@ -242,6 +246,10 @@ Moral realism
 
 ### Introduction
 
+-   Moral realism is the conjunction of three theses:
+    1. moral cognitivism
+    2. rejection of error theory; some moral judgements are true
+    3. stance independence; some moral judgements are objectively true
 -   Plato: [*Minos*](https://en.wikipedia.org/wiki/Minos_(dialogue))
 -   Objectivity, structure, context, invariance
 
@@ -271,7 +279,7 @@ Plato:
 -   Victor Kraft (1880-1975)
     -   The positivist with ethics!
 -   Rand's Objectivism
--   Structuralism
+-   Railton, P. (1986). Moral realism. *Philosophical Review*, 95, 163--207.
 -   Contectualism
     -   Bj&ouml;rnsson & Finlay (2010) [^Bjornsson2010]
 -   Game/decision theory, again
@@ -283,8 +291,10 @@ Plato:
 -   Murdoch, Iris. (1999). *The Sovereignty of Good*.
 -   [Scalon's Contractualism](http://en.wikipedia.org/wiki/T.M._Scanlon)
     -   Scanlon, T.M. (2000). *What We Owe to Each Other*. [^Scanlon2000]
+-   Structuralism
 
 [^Bjornsson2010]: @Bjornsson_2010_Metaethical_contextualism_defended\.
+[^Railton1986]: @Railton_1986_Moral_realism\.
 [^Scanlon2000]: @Scanlon_2000_What_We_Owe_to_Each_Other\.
 
 
@@ -292,6 +302,9 @@ Moral naturalism
 --------------------------------------------------------------------------------
 
 ### Introduction
+
+-   Moral facts are natural facts
+-   Rejects that the normative cannot be reduced to the descriptive; rejects the is-ought divide
 
 Stephen R. Brown:
 
@@ -303,6 +316,8 @@ Moral naturalists:
 -   Moritz Schlick
 -   Victor Kraft
 -   Sam Harris
+-   [Cornell realism](https://en.wikipedia.org/wiki/Cornell_realism)
+    -    Richard Boyd, Nicholas Sturgeon, and David Brink 
 
 [^Brown2008p2]: @Brown_2008_Moral_Virtue_and_Nature_A_defense_of_ethical\.
 
@@ -645,7 +660,9 @@ Aesthetics
 ### Taste
 
 -   Hume, D. (1757). [*Of the Standard of Taste*](https://courses.lumenlearning.com/suny-classicreadings/chapter/david-hume-on-opinion-and-taste/).
+-   Loeb, D. (2003). [Gastronomic realism: A cautionary tale](https://philpapers.org/rec/DONGR). [^Loeb2003]
 
+[^Loeb2003]: @Loeb_2003_Gastronomic_realism_A_cautionary_tale\.
 
 
 My thoughts

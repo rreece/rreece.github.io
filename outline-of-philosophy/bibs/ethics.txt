@@ -10,6 +10,7 @@ de Waal, F. (1982). *Chimpanzee Politics: Power and Sex among Apes*. Johns Hopki
 Fama, E. (1970). Efficient capital markets: A review of theory and empirical work. *Journal of Finance*, 25(2), 383--417. http://www.e-m-h.org/Fama70.pdf
 Harris, S. (2010). *The Moral Landscape: How science can determine human values*. Free Press.
 Hayek, F. (1945). The use of knowledge in society. *The American Economic Review*, 35, 519--530.
+Loeb, D. (2003). Gastronomic realism: A cautionary tale. *Journal of Theoretical and Philosophical Psychology*, 23, 30--49. https://philpapers.org/rec/DONGR
 Mackie, J.L. (2007). *Ethics: Inventing Right and Wrong*. Penguin. [(First edition published in 1977)]
 Markowitz, H.M. (1952). Portfolio selection. *The Journal of Finance*, 7, 77--91.
 Moore, G.E. (1988). *Principia Ethica*. Prometheus Books. [(First published in 1903)]
@@ -17,6 +18,7 @@ Nozick, R. (2013). *Anarchy, State, and Utopia*. Basic Books. [(First edition pu
 Parfit, D. (1984). *Reasons and Pearson*. Clarendon Press.
 Portmore, D. (2011). *Commonsense Consequentialism*. Oxford University Press.
 Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*. Harvard University Press.
+Railton, P. (1986). Moral realism. *Philosophical Review*, 95, 163--207.
 Rawls, J. (1999). *A Theory of Justice* (2nd ed.). Harvard University Press. [(First edition published in 1971)]
 Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. Bradford.
 Russell, G. (2020). Logic isn't normative. *Inquiry*, 63, 371--388.
