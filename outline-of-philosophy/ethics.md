@@ -251,6 +251,8 @@ Moral realism
     1. moral cognitivism
     2. rejection of error theory; some moral judgements are true
     3. stance independence; some moral judgements are objectively true
+-   Moral realism can be further divided between moral naturalism and
+    moral non-naturalism, discussed in the next section.
 -   Plato: [*Minos*](https://en.wikipedia.org/wiki/Minos_(dialogue))
 -   Objectivity, structure, context, invariance
 
@@ -304,8 +306,12 @@ Moral naturalism
 
 ### Introduction
 
--   Moral facts are natural facts
--   Rejects that the normative cannot be reduced to the descriptive; rejects the is-ought divide
+-   Moral naturalism is the conjunction of moral realism and the thesis that
+    moral facts are natural facts.
+-   Moral naturalism can be further divided into reductive and non-reductive
+    moral naturalism.
+    -   Reductive moral naturalism rejects that the normative cannot be reduced
+        to the descriptive; rejects the is-ought divide
 
 Stephen R. Brown:
 
@@ -351,9 +357,11 @@ Churchland:
     -   [blog 2](http://rationallyspeaking.blogspot.com/2013/02/towards-science-of-morality-reply-to.html)
     -   [blog 3](http://rationallyspeaking.blogspot.com/2013/02/toward-science-of-morality-annotated.html)
     -   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
+-   Joyce, R. (2016). [Evolution and moral naturalism](http://personal.victoria.ac.nz/richard_joyce/acrobat/joyce_2016_evolution.and.moral.naturalism.pdf). [^Joyce2016]
 
 [^Churchland2011p7]: @Churchland_2011_What_Neuroscience_Tells_Us_About_Morality\.
 [^deWaal1982]: @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes\.
+[^Joyce2016]: @Joyce_2016_Evolution_and_moral_naturalism\.
 [^Skarsaune2009]: @Skarsaune_2009_Darwin_and_moral_realism_Survival_of_the_iffiest\.
 
 
@@ -428,6 +436,20 @@ See also:
 [^Schurz1997]: @Schurz_1997_The_IsOught_Problem_An_Investigation\.
 [^Schurz2010a]: @Schurz_2010_Comments_on_Restall_Russell_and_Vranas\.
 [^Schurz2010b]: @Schurz_2010_Non_trivial_versions_of_Humes_is_ought_thesis\.
+
+
+### Nonreductive moral naturalism
+
+-   Silvers, S. (1997). [Nonreductive naturalism](https://addi.ehu.es/bitstream/handle/10810/40244/Theoria%2028%20163-184.pdf). [^Silvers1997]
+-   Rea, M.C. (2006). [Naturalism and moral realism](https://philarchive.org/archive/REANAM-4). [^Rea2006]
+-   Wedgwood, R. (2007). *The Nature of Normativity*. [^Wedgwood2007]
+-   Klocksiem, J. (2019). Against reductive ethical naturalism. [^Klocksiem2019]
+-   Ridge, M. (2019). [Moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/). *SEP*.
+
+[^Klocksiem2019]: @Klocksiem_2019_Against_reductive_ethical_naturalism\.
+[^Rea2006]: @Rea_2006_Naturalism_and_moral_realism\.
+[^Silvers1997]: @Silvers_1997_Nonreductive_naturalism\.
+[^Wedgwood2007]: @Wedgwood_2007_The_Nature_of_Normativity\.
 
 
 Political philosophy
@@ -632,10 +654,13 @@ Ecology
 --------------------------------------------------------------------------------
 
 -   Scalability
-    -   Hatcher, B. (2019). [Carrying capacity - Our wickedest problem](https://www.hermetica.info/CarryingCapacity.html).
+    -   Hatcher, B. (2019). [Carrying capacity: Our wickedest problem](https://www.hermetica.info/CarryingCapacity.html).
 -   Vegetarianism/veganism
+    -   Peter Singer (b. 1946)
+    -   Michael Huemer (b. 1969)
 -   [Climate justice](https://plato.stanford.edu/entries/justice-climate/)
--   [Hyperobjects](https://en.wikipedia.org/wiki/Timothy_Morton#Hyperobjects) - Timothy Morton
+-   [Hyperobjects](https://en.wikipedia.org/wiki/Timothy_Morton#Hyperobjects)
+    -   Timothy Morton (b. 1968)
 
 
 Aesthetics
@@ -662,6 +687,7 @@ Aesthetics
 
 -   Hume, D. (1757). [*Of the Standard of Taste*](https://courses.lumenlearning.com/suny-classicreadings/chapter/david-hume-on-opinion-and-taste/).
 -   Loeb, D. (2003). [Gastronomic realism: A cautionary tale](https://philpapers.org/rec/DONGR). [^Loeb2003]
+-   Gerkin, R.C. & Wiltschko, A.B. (2022). [Digitizing Smell: Using molecular maps to understand odor](https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html). *Google AI Blog*.
 
 [^Loeb2003]: @Loeb_2003_Gastronomic_realism_A_cautionary_tale\.
 

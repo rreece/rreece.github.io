@@ -10,6 +10,8 @@ de Waal, F. (1982). *Chimpanzee Politics: Power and Sex among Apes*. Johns Hopki
 Fama, E. (1970). Efficient capital markets: A review of theory and empirical work. *Journal of Finance*, 25(2), 383--417. http://www.e-m-h.org/Fama70.pdf
 Harris, S. (2010). *The Moral Landscape: How science can determine human values*. Free Press.
 Hayek, F. (1945). The use of knowledge in society. *The American Economic Review*, 35, 519--530.
+Joyce, R. (2016). Evolution and moral naturalism. In *The Blackwell Companion to Naturalism* (pp. 369--385). John Wiley & Sons. http://personal.victoria.ac.nz/richard_joyce/acrobat/joyce_2016_evolution.and.moral.naturalism.pdf
+Klocksiem, J. (2019). Against reductive ethical naturalism. *Philosophical Studies*, 176, 1991--2010.
 Loeb, D. (2003). Gastronomic realism: A cautionary tale. *Journal of Theoretical and Philosophical Psychology*, 23, 30--49. https://philpapers.org/rec/DONGR
 Mackie, J.L. (2007). *Ethics: Inventing Right and Wrong*. Penguin. [(First edition published in 1977)]
 Markowitz, H.M. (1952). Portfolio selection. *The Journal of Finance*, 7, 77--91.
@@ -20,6 +22,7 @@ Portmore, D. (2011). *Commonsense Consequentialism*. Oxford University Press.
 Putnam, H. (2004). *The Collapse of the Fact/Value Dichotomy and Other Essays*. Harvard University Press.
 Railton, P. (1986). Moral realism. *Philosophical Review*, 95, 163--207.
 Rawls, J. (1999). *A Theory of Justice* (2nd ed.). Harvard University Press. [(First edition published in 1971)]
+Rea, M.C. (2006). Naturalism and moral realism. In *Knowledge and Reality* (pp. 215-241). Dordrecht: Springer. https://philarchive.org/archive/REANAM-4
 Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. Bradford.
 Russell, G. (2020). Logic isn't normative. *Inquiry*, 63, 371--388.
 Russell, G. (2021). How to prove Hume’s law. *Journal of Philosophical Logic*. [(forthcoming)]
@@ -28,7 +31,9 @@ Schurz, G. (1997). *The Is/Ought Problem: An Investigation in Philosophical Logi
 Schurz, G. (2010). Comments on Restall, Russell, and Vranas. In Pigden, C. (Ed.), *Hume, Is and Ought: New Essays* (pp. 268--271). Palgrave MacMillan.
 Schurz, G. (2010). Non-trivial versions of Hume's is-ought thesis. In Pigden, C. (Ed.), *Hume, Is and Ought: New Essays* (pp. 198--216). Palgrave MacMillan.
 Scruton, R. (2018). Why beauty matters. *The Monist*, 101, 9--16.
+Silvers, S. (1997). Nonreductive naturalism. *Theoria*, 12, 163--184. https://addi.ehu.es/bitstream/handle/10810/40244/Theoria%2028%20163-184.pdf
 Skarsaune, K.O. (2009). Darwin and moral realism: Survival of the iffiest. *Philosophical Studies*, 152(2), 229--243.
 Snyder-Hall, R.C. (2010). Third-wave feminism and the defense of "choice". *Perspectives on Politics*, 8, 255--261.
 Solzhenitsyn, A. (1974). *The Gulag Archipelago* (T.P. Whitney, Trans.) . Harper & Row.
 Thomson, J.J. (1971). A defense of abortion. *Philosophy & Public Affairs*, 1, 47--66.
+Wedgwood, R. (2007). *The Nature of Normativity*. Oxford University Press.
