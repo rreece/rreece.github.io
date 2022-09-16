@@ -225,10 +225,11 @@ See also:
 
 -   Moral error theory is the meta-ethical view that claims about ethics are truth apt,
     but they are systematically false.
--   J.L. Mackie
+-   J.L. Mackie (1917-1981)
     -   *Ethics: Inventing Right and Wrong* (1977) [^Mackie2007]
         -   Argument from queerness
 -   Tully, I. (2014). [Moral error theory](https://1000wordphilosophy.com/2014/04/14/moral-error-theory/).
+-   Richard Joyce (b. 1966)
 
 
 ### Non-objectivism
@@ -546,6 +547,7 @@ Waves:
     -   de Beauvoir, S. (1949). *The Second Sex*.
     -   FDA approves the first birth control pill, Enovid in 1960.
     -   [Civil Rights Act of 1964](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964)
+    -   Thomson, J.J. (1971). A defense of abortion. [^Thomson1971]
     -   [Title IX of the Education Amendments of 1972](https://en.wikipedia.org/wiki/Title_IX)
     -   *Roe v. Wade* (1973)
 3.  Third wave (1990s-2012)
@@ -566,6 +568,7 @@ See also:
 -   [Feminist epistemology](scientific-realism.html#feminist-epistemology)
 
 [^SnyderHall2010]: @Snyder_Hall_2010_Third_wave_feminism_and_the_defense_of_choice\.
+[^Thomson1971]: @Thomson_1971_A_defense_of_abortion\.
 
 
 Regret

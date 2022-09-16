@@ -1120,6 +1120,7 @@ Lyons:
 -   Efron & Hastie
     -   "Flaws in Frequentist Inference" [^Efron2016p30]
 -   Kruschke & Liddel [^Kruschke2018]
+-   Steinhardt, J. (2012). Beyond Bayesians and frequentists. [^Steinhardt2012]
 
 ![The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference ([gandenberger.org/research/](http://gandenberger.org/research/), 2015).](img/gandenberger-thesis-venn-diagram.png){#fig:gandenberger-thesis-venn-diagram}
 
@@ -1152,6 +1153,7 @@ Goodman:
 [^Murphy2022p195]: @Murphy_2022_Probabilistic_Machine_Learning_An_introduction\, p. 195--198.
 [^Neyman1977]: @Neyman_1977_Frequentist_probability_and_frequentist\.
 [^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\.
+[^Steinhardt2012]: @Steinhardt_2012_Beyond_Bayesians_and_frequentists\.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
 [^Wakefield2013]: @Wakefield_2013_Bayesian_and_Frequentist_Regression_Methods\, ch. 4.
 [^Zech1995]: @Zech_1995_Comparing_statistical_data_to_Monte_Carlo\.
@@ -1453,6 +1455,7 @@ Deep learning
     -   Sutskever, I. (2015). [A brief overview of deep learning](https://web.archive.org/web/20220728224752/http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html). [^Sutskever2015]
     -   *Deep Learning* [^Goodfellow2016]
     -   Kaplan, J. (2019). [Notes on contemporary machine learning](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf). [^Kaplan2019]
+    -   Raissi, M. (2017). [Deep learning tutorial](https://maziarraissi.github.io/teaching/1_deep_learning_tutorial/).
 -   Backpropagation
     -   Rumelhart [^Rumelhart1986]
     -   Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html).
@@ -1495,6 +1498,7 @@ Deep learning
 -   Nagarajan, V. (2021). [Explaining generalization in deep learning: progress and fundamental limits](https://arxiv.org/abs/2110.08922). [^Nagarajan2021]
 -   Bubeck, S. & Sellke, M. (2021). [A universal law of robustness via isoperimetry](https://arxiv.org/abs/2105.12806). [^Bubeck2021]
 -   Bach, F. (2022). [*Learning Theory from First Principles*](https://www.di.ens.fr/~fbach/ltfp_book.pdf). [^Bach2022p225]
+-   Steinhardt, J. (2022). [More is different for AI](https://bounded-regret.ghost.io/more-is-different-for-ai/). [^Steinhardt2022]
 
 [^Bach2022p225]: @Bach_2022_Learning_Theory_from_First_Principles\, p. 225--230.
 [^Balestriero2021]: @Balestriero_2021_Learning_in_high_dimension_always_amounts\.
@@ -1503,6 +1507,7 @@ Deep learning
 [^Dar2021]: @Dar_2021_A_farewell_to_the_bias_variance_tradeoff\.
 [^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
 [^Nagarajan2021]: @Nagarajan_2021_Explaining_generalization_in_deep_learning\.
+[^Steinhardt2022]: @Steinhardt_2022_More_is_different_for_AI\.
 
 
 ### Regularization

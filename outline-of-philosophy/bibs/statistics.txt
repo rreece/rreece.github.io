@@ -233,6 +233,8 @@ Smith, L. (2019). A gentle introduction to information geometry. http://www.robo
 Solomonoff, G. (2016). Ray Solomonoff and the Dartmouth Summer Research Project in Artificial Intelligence, 1956. http://raysolomonoff.com/dartmouth/dartray.pdf
 Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. *Physics of Plasmas*, 25(8), 080901.
 Stahlberg, F. (2019). Neural machine translation: A review. https://arxiv.org/abs/1912.02047
+Steinhardt, J. (2012). Beyond Bayesians and frequentists. https://jsteinhardt.stat.berkeley.edu/files/stats-essay.pdf
+Steinhardt, J. (2022). More is different for AI. https://bounded-regret.ghost.io/more-is-different-for-ai/
 Stuart, A., Ord, K., & Arnold, S. (2010). *Kendall's Advanced Theory of Statistics, Vol 2A: Classical Inference and the Linear Model*. Wiley.
 Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning with neural networks. *Advances in Neural Information Processing Systems*, 2014, 3104--3112. https://arxiv.org/abs/1409.3215
 Sutskever, I. (2015). A brief overview of deep learning. https://web.archive.org/web/20220728224752/http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html
