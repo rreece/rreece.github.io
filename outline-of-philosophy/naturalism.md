@@ -690,6 +690,8 @@ Rejection of the supernatural
     -   Blackmore, S.J. (1996). Near-death experiences. [^Blackmore1996]
     -   Blackmore, S.J. (1997). Probability misjudgment and belief in the paranormal: A newspaper survey. [^Blackmore1997]
     -   Carrier, R. (2020). [Naturalism is not an axiom of the sciences but a conclusion of them](https://www.richardcarrier.info/archives/16193).
+-   [Paul Kurtz](https://en.wikipedia.org/wiki/Paul_Kurtz) (1925-2012)
+    -   "father of secular humanism"
 
 Jenkins says naturalism is
 

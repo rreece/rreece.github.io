@@ -218,7 +218,8 @@ See also:
 
 -   Noncognitivism is the meta-ethical view that claims about ethics are not propper propositions;
     they are not truth apt.
--   TODO
+-   Emotivism; prescriptivism
+-   Hume, Hare, Carnap, Ayer
 
 
 ### Error Theory
@@ -279,7 +280,7 @@ Plato:
 -   Victor Kraft (1880-1975)
     -   The positivist with ethics!
 -   Rand's Objectivism
--   Railton, P. (1986). Moral realism. *Philosophical Review*, 95, 163--207.
+-   Railton, P. (1986). Moral realism. [^Railton1986]
 -   Contectualism
     -   Bj&ouml;rnsson & Finlay (2010) [^Bjornsson2010]
 -   Game/decision theory, again
