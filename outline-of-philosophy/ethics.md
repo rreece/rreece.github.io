@@ -440,7 +440,6 @@ See also:
 
 ### Nonreductive moral naturalism
 
--   Silvers, S. (1997). [Nonreductive naturalism](https://addi.ehu.es/bitstream/handle/10810/40244/Theoria%2028%20163-184.pdf). [^Silvers1997]
 -   Rea, M.C. (2006). [Naturalism and moral realism](https://philarchive.org/archive/REANAM-4). [^Rea2006]
 -   Wedgwood, R. (2007). *The Nature of Normativity*. [^Wedgwood2007]
 -   Klocksiem, J. (2019). Against reductive ethical naturalism. [^Klocksiem2019]
@@ -448,7 +447,6 @@ See also:
 
 [^Klocksiem2019]: @Klocksiem_2019_Against_reductive_ethical_naturalism\.
 [^Rea2006]: @Rea_2006_Naturalism_and_moral_realism\.
-[^Silvers1997]: @Silvers_1997_Nonreductive_naturalism\.
 [^Wedgwood2007]: @Wedgwood_2007_The_Nature_of_Normativity\.
 
 

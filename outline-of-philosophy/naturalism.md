@@ -549,8 +549,11 @@ Wittgenstein:
 >   There are, indeed, things that cannot be put into words.
 >   They *make themselves manifest*. They are what is mystical. [^WittgensteinTLP_6_522]
 
+-   Silvers, S. (1997). [Nonreductive naturalism](https://addi.ehu.es/bitstream/handle/10810/40244/Theoria%2028%20163-184.pdf). [^Silvers1997]
+
 [^Laughlin2000]: @Laughlin_2000_The_theory_of_everything\.
 [^Schweber1993]: @Schweber_1993_The_ebb_and_flow_of_of_reductionism\.
+[^Silvers1997]: @Silvers_1997_Nonreductive_naturalism\.
 [^WittgensteinTLP_6_522]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\, 6.522.
 
 
