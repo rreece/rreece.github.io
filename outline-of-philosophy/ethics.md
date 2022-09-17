@@ -1,7 +1,9 @@
 Ethics
 ================================================================================
 
-What should we do? What is normative?
+Ethics: What should we do? What is good? What is normative?
+
+Meta-ethics: What is goodness? / What does it mean to be good? What does it mean to be normative?
 
 >   What may a man do and not be ashamed of it? He may not do nothing surely,
 >   for straightaway he is dubbed Dolittle---aye!
