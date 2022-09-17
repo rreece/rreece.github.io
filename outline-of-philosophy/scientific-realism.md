@@ -1374,6 +1374,7 @@ See also:
     -   Rorty, R. (1993). Wittgenstein, Heidegger, and the reification of language. [^Rorty1993]
     -   "Obsession with this image of something deeply hidden" [^Rorty1993p347]
 -   Video: Sugrue, M. (1992). [The Latter Wittgenstein: The Philosophy of Language](https://www.youtube.com/watch?v=X7Rb56kZQSk).
+-   [Clifford Geertz](https://en.wikipedia.org/wiki/Clifford_Geertz) (1926-2006)
 
 Wittgenstein in *PI*:
 
