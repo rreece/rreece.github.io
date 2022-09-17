@@ -48,6 +48,10 @@ Consciousness
 -   Mark, J.T., Marion, B.B, & Hoffman, D.D. (2010). [Natural selection and veridical perceptions](http://cogsci.uci.edu/~ddhoff/PerceptualEvolution.pdf). [^Mark2010]
 -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/). *The Atlantic*. [^Gefter2016]
 
+See also:
+
+-   [Realism and antirealism](scientific-realism.html#realism-and-antirealism) in the [Outline on scientific realism](scientific-realism.html)
+
 [^Gefter2016]: @Gefter_2016_The_case_against_reality\.
 [^Mark2010]: @Mark_2010_Natural_selection_and_veridical_perceptions\.
 
