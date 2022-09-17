@@ -441,13 +441,13 @@ See also:
 ### Nonreductive moral naturalism
 
 -   Rea, M.C. (2006). [Naturalism and moral realism](https://philarchive.org/archive/REANAM-4). [^Rea2006]
--   Wedgwood, R. (2007). *The Nature of Normativity*. [^Wedgwood2007]
+-   Wedgwood, R. (2007). *The Nature of Normativity*. [^Wedgwood2007ch9]
 -   Klocksiem, J. (2019). Against reductive ethical naturalism. [^Klocksiem2019]
 -   Ridge, M. (2019). [Moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/). *SEP*.
 
 [^Klocksiem2019]: @Klocksiem_2019_Against_reductive_ethical_naturalism\.
 [^Rea2006]: @Rea_2006_Naturalism_and_moral_realism\.
-[^Wedgwood2007]: @Wedgwood_2007_The_Nature_of_Normativity\.
+[^Wedgwood2007ch9]: @Wedgwood_2007_The_Nature_of_Normativity\, ch. 9.
 
 
 Political philosophy
