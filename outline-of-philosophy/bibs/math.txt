@@ -18,13 +18,13 @@ Button, T. & Walsh, S. (2018). *Philosophy and Model Theory*. Oxford University 
 Carnap, R. (1958). *Introduction to Symbolic Logic and its Applications*. New York: Dover Publications.
 Carter, N. (2009). *Visual Group Theory*. Mathematical Association of America.
 Chen, E.K. (2018). The intrinsic structure of quantum mechanics. http://philsci-archive.pitt.edu/15140/
+Drake, S. (1957). *Discoveries and Opinions of Galileo*. New York: Doubleday and Co.
 Enderton, H.B. (2009). Second-order and higher-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/archives/sum2019/entries/logic-higher-order/
 Ewald, W. (2018). The emergence of first-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/logic-firstorder-emergence/
 Field, H. (1989). *Realism, Mathematics, and Modality*. Oxford: Blackwell.
 Field, H. (2016). *Science Without Numbers* (2nd ed.). Oxford University Press. [(Originally published in 1980 by Princeton University Press)]
 Fong, B. & Spivak, D.I. (2018). Seven sketches in compositionality: An invitation to applied category theory. https://arxiv.org/abs/1803.05316
 Franz\'{e}n, T. (2005). *G{\"o}del's Theorem: An incomplete guide to its use and abuse*. A K Peters.
-Drake, S. (1957). *Discoveries and Opinions of Galileo*. New York: Doubleday and Co.
 Goldstein, R. (2005). *Incompleteness: The Proof and Paradox of Kurt G{\"o}del*. Norton.
 Goodman, N. & Quine, W.V.O. (1947). Steps toward a constructive nominalism. *The Journal of Symbolic Logic*, 12, 105--122.
 Hall, B.C. (2000). *An Elementary Introduction to Groups and Representations*. https://arxiv.org/abs/math-ph/0005032
