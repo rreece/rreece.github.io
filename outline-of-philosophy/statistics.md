@@ -1707,6 +1707,7 @@ Resources:
     -   Mikolov [^Mikolov2013]
     -   Julia Bazi&nacute;ska
     -   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
+    -   Alammar, J. (2019). [The illustrated word2vec](https://jalammar.github.io/illustrated-word2vec/).
     -   Migdal, P. (2017). [king - man + woman is queen; but why?](https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html)
     -   Ethayarajh, K. (2019). [Word embedding analogies: Understanding King - Man + Woman = Queen](https://kawine.github.io/blog/nlp/2019/06/21/word-analogies.html).
     -   Allen, C. (2019). ["Analogies Explained" ... Explained](https://carl-allen.github.io/nlp/2019/07/01/explaining-analogies-explained.html).
@@ -1748,6 +1749,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
 -   Attention and Transformers
     -   Transformer [^Vaswani2017]
     -   BERT [^Devlin2018]
+    -   Alammar, J. (2018). [The illustrated BERT](https://jalammar.github.io/illustrated-bert/).
     -   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
     -   Horan, C. (2021). [10 things you need to know about BERT and the transformer architecture that are reshaping the AI landscape](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape).
     -   Video: [What are transformer neural networks?](https://www.youtube.com/watch?v=XSSTuhyAmnI&t=92s&ab_channel=AriSeff)

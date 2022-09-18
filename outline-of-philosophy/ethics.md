@@ -676,24 +676,24 @@ Aesthetics
 
 ### Art
 
+-   Pettit, P. (1983). The possibility of aesthetic realism. [^Pettit1983]
 -   Semiotics
 -   Roger Scruton
 -   Scruton, R. (2018). Why beauty matters. [^Scruton2018]
 
+[^Pettit1983]: @Pettit_1983_The_possibility_of_aesthetic_realism\.
 [^Scruton2018]: @Scruton_2018_Why_beauty_matters\.
 
 
 ### Taste
 
 -   Hume, D. (1757). [*Of the Standard of Taste*](https://courses.lumenlearning.com/suny-classicreadings/chapter/david-hume-on-opinion-and-taste/).
--   Pettit, P. (1983). The possibility of aesthetic realism. [^Pettit1983]
 -   Goldman, A.H. (1993). Realism about aesthetic properties. [^Goldman1993]
 -   Loeb, D. (2003). [Gastronomic realism: A cautionary tale](https://philpapers.org/rec/DONGR). [^Loeb2003]
 -   Gerkin, R.C. & Wiltschko, A.B. (2022). [Digitizing Smell: Using molecular maps to understand odor](https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html). *Google AI Blog*.
 
 [^Goldman1993]: @Goldman_1993_Realism_about_aesthetic_properties\.
 [^Loeb2003]: @Loeb_2003_Gastronomic_realism_A_cautionary_tale\.
-[^Pettit1983]: @Pettit_1983_The_possibility_of_aesthetic_realism\.
 
 
 My thoughts
