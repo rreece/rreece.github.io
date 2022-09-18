@@ -375,7 +375,8 @@ See also:
 ### Second-order logic
 
 -   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
--   SEP: [Second-order and higher-order logic](https://plato.stanford.edu/entries/logic-higher-order/)
+-   [Second-order arithmetic](https://en.wikipedia.org/wiki/Second-order_arithmetic)
+-   [Second-order and higher-order logic](https://plato.stanford.edu/entries/logic-higher-order/), *SEP*
 -   Includes relation variables in addition to object variables and allows quantification over both.
     -   Extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
 -   The power set can be written in terms of second-order logic.
@@ -398,12 +399,16 @@ See also:
         consequences of what you say you 'believe'... which is a major reason
         some mathematicians are suspicious of second-order logic. What does it
         mean to believe something whose consequences you can't derive?"
+-   Jerzak, E. (2009). [Second-order logic, or: How I learned to stop worrying and love the incompleteness theorems](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Jerzak.pdf). [^Jerzak2009]
+-   Bueno, O. (2010). [A defense of second-order logic](https://web.as.miami.edu/personal/obueno/Site/Online_Papers_files/SecnOrd_FINAL.pdf). [^Bueno2010]
 
 See also:
 
 -   [Model theory](#model-theory)
 
+[^Bueno2010]: @Bueno_2010_A_defense_of_second_order_logic\.
 [^Enderton2009]: @Enderton_2009_Second_order_and_higher_order_logic\.
+[^Jerzak2009]: @Jerzak_2009_Second_order_logic_or_How_I_learned_to_stop\.
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
 [^Shapiro1991]: @Shapiro_1991_Foundations_without_Foundationalism_A_Case\.
 
@@ -416,7 +421,7 @@ See also:
     -   Strict implication is not truth-functional. It requires asking
         about the truth-values that propositions take in worlds other than
         the actual world.
--   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (b. 1940)
+-   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (1940-2022)
     -   Kripke, S.A. (1959). A completeness theorem in modal logic. [^Kripke1959]
     -   Revives Leibniz's idea that necessity is truth in all possible worlds.
 -   [David Lewis](https://en.wikipedia.org/wiki/David_Lewis_(philosopher)) (1941-2001)
@@ -472,6 +477,7 @@ Criticism:
 ### Proof theory
 
 -   [Curry-Howard correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)
+-   [Proof-theoretic semantics](https://plato.stanford.edu/entries/proof-theoretic-semantics/)
 -   Viteri, S. & DeDeo, S. (2022). [Epistemic phase transitions in mathematical proofs](https://www.sciencedirect.com/science/article/pii/S0010027722001081). [^Viteri2022]
 
 See also:
@@ -606,6 +612,9 @@ See also:
 ### Complexity theory
 
 -   Scott Aaronson's [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
+-   Aaronson, S. (2011). [Why philosophers should care about computational complexity](https://arxiv.org/abs/1108.1791). [^Aaronson2011]
+
+[^Aaronson2011]: @Aaronson_2011_Why_philosophers_should_care_about_computational\.
 
 
 Category theory
@@ -1253,6 +1262,7 @@ Click to show links
 -   [Platonism in the philosophy of mathematics](http://plato.stanford.edu/entries/platonism-mathematics/)
 -   [Platonism in metaphysics](http://plato.stanford.edu/entries/platonism/)
 -   [*Principia Mathematica* (1910)](http://plato.stanford.edu/entries/principia-mathematica/)
+-   [Proof-theoretic semantics](https://plato.stanford.edu/entries/proof-theoretic-semantics/)
 -   [Proof theory](http://plato.stanford.edu/entries/proof-theory-development/)
 -   [Pythagoras (570-495 BCE)](https://plato.stanford.edu/entries/pythagoras/)
 -   [Pythagoreanism](https://plato.stanford.edu/entries/pythagoreanism/)
@@ -1350,7 +1360,7 @@ Click to show links
 -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
 -   [Jacobi, Carl Gustav Jacob (1804-1851)](https://en.wikipedia.org/wiki/Carl_Gustav_Jacob_Jacobi)
 -   [Kronecker, Leopold (1823-1891)](https://en.wikipedia.org/wiki/Leopold_Kronecker)
--   [Kripke, Saul (b. 1940)](https://en.wikipedia.org/wiki/Saul_Kripke)
+-   [Kripke, Saul (1940-2022)](https://en.wikipedia.org/wiki/Saul_Kripke)
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
 -   [Laplace, Pierre-Simon (1749-1827)](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace)
 -   [Law of excluded middle](https://en.wikipedia.org/wiki/Law_of_excluded_middle)

@@ -1362,6 +1362,7 @@ See also:
     and late (*PI*) Wittgenstein. It is quite the about-face.
         -   TLP: The picture theory of meaning. Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
         -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
+    -   The rule-following paradox [^Wittgenstein2009Sec201]
 -   Wittgenstein, L. (1969). *On Certainty*. [^Wittgenstein1969b]
 -   [Gilbert Ryle](https://en.wikipedia.org/wiki/Gilbert_Ryle) (1900-1976)
 -   [P.F. Strawson](https://en.wikipedia.org/wiki/P._F._Strawson) (1919-2006)
@@ -1402,6 +1403,7 @@ See also:
 [^Wittgenstein2009]: @Wittgenstein_2009_Philosophical_Investigations\.
 [^Wittgenstein2009Sec109]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;109.
 [^Wittgenstein2009Sec114]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;114.
+[^Wittgenstein2009Sec201]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;201.
 
 
 ### The "death" of positivism
@@ -1516,7 +1518,7 @@ See also:
 -   Feigl, H. (1950). Existential hypotheses: Realistic versus phenomenalistic interpretations. [^Feigl1950]
 -   Suppe, F. (1974). *The Structure of Scientific Theories*. [^Suppe1974]
 -   Sellars
--   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (b. 1940)
+-   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (1940-2022)
     -   Naming directly; causal theory of names; natural kinds
 -   Putnam, NMA
 -   Boyd, R.N. (1983). On the current status of the issue of scientific realism. [^Boyd1983]
