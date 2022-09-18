@@ -508,7 +508,6 @@ See also:
 ### Quantum computing
 
 -   Feynman
--   Aaronson, S. (2011). Why philosophers should care about computational complexity. [^Aaronson2011]
 -   Coecke, B. & Kissinger, A. (2017). *Picturing Quantum Processes: A first course in quantum theory and diagrammatic reasoning*. [^Coecke2017]
 -   Preskill, J. (2018). [Quantum computing in the NISQ era and beyond](https://arxiv.org/abs/1801.00862). [^Preskill2018]
 -   Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting processor. [^Arute2019]
@@ -517,7 +516,6 @@ See also:
     -   TensorFlow. (2020). [tensorflow.org/quantum](https://www.tensorflow.org/quantum).
     -   TensorFlow. (2021). [Quantum machine learning concepts](https://www.tensorflow.org/quantum/concepts).
 
-[^Aaronson2011]: @Aaronson_2011_Why_philosophers_should_care_about_computational\.
 [^Arute2019]: @Arute_2019_Quantum_supremacy_using_a_programmable\.
 [^Broughton2020]: @Broughton_2020_TensorFlow_Quantum_A_software_framework\.
 [^Coecke2017]: @Coecke_2017_Picturing_Quantum_Processes_A_first_course\.
