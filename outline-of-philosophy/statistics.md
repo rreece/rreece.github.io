@@ -403,6 +403,8 @@ of the distribution.
 
 ![Detail of a figure showing relationships among univariate distributions. See the [full figure here](http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf) [^Leemis2008].](img/Leemis-univariate-distribution-relationships.png ){#fig:Leemis-univariate-distribution-relationships}
 
+-   The exponential family of distributions are maximum entropy distributions.
+
 [^Leemis2008]: @Leemis_2008_Univariate_distribution_relationships\.
 
 
@@ -1093,6 +1095,7 @@ Lyons:
     -   [Review of *SIST* by Prasanta S. Bandyopadhyay](https://ndpr.nd.edu/news/statistical-inference-as-severe-testing-how-to-get-beyond-the-statistics-wars/)
     -   [LSE Research Seminar: Current Controversies in Phil Stat](https://phil-stat-wars.com/2020/05/22/lse-research-seminar-ph500-may-15/) (May 21, 2020)
         -   [Meeting 5](https://phil-stat-wars.com/2020/06/11/meeting-5-june-18/) (June 18, 2020)
+    -   Slides: [The Statistics Wars and Their Casualties](https://philstatwars.files.wordpress.com/2022/09/deborah-g.-mayo-final-21-september-.pdf)
 -   Andrew Gelman
     -   [Confirmationist and falsificationist paradigms of science](https://statmodeling.stat.columbia.edu/2014/09/05/confirmationist-falsificationist-paradigms-science/) - Sept. 5, 2014
     -   Beyond subjective and objective in statistics [^Gelman2017]
@@ -1121,6 +1124,8 @@ Lyons:
     -   "Flaws in Frequentist Inference" [^Efron2016p30]
 -   Kruschke & Liddel [^Kruschke2018]
 -   Steinhardt, J. (2012). Beyond Bayesians and frequentists. [^Steinhardt2012]
+-   VanderPlas, J. (2014). [Frequentism and Bayesianism III: Confidence, credibility, and why frequentism and science do not mix](https://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/).
+-   Kent, B. (2021). [No, your confidence interval is not a worst-case analysis](https://www.crosstab.io/articles/confidence-interval-interpretation).
 
 ![The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference ([gandenberger.org/research/](http://gandenberger.org/research/), 2015).](img/gandenberger-thesis-venn-diagram.png){#fig:gandenberger-thesis-venn-diagram}
 

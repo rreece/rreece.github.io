@@ -677,6 +677,13 @@ TODO: list thesis from the Vienna Circle manifesto.
 
 Schlick:
 
+>   Stating the meaning of a sentence amounts to stating the rules
+>   according to which the sentence is to be used, and this is the
+>   same as stating the way in which it can be verified (or falsified).
+>   The meaning of a proposition is the method of its verification. [^Schlick1936p341]
+
+Schlick:
+
 >   The fundamental principle of the positivist then seems to run: "Only the given is real". [^Schlick1948p480]
 
 Fetzer:
@@ -701,7 +708,8 @@ More:
 [^Hahn1973Sec2b]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect;2.
 [^Leitgeb2020H]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html).
 [^Potochnik2011]: @Potochnik_2011_A_Neurathian_conception_of_the_unity_of_science\.
-[^Schlick1948p480]: @Schlick_1948_Positivism_and_realism\, p. 480\.
+[^Schlick1936p341]: @Schlick_1936_Meaning_and_verification\, p. 341.
+[^Schlick1948p480]: @Schlick_1948_Positivism_and_realism\, p. 480.
 
 
 ### Early positivism
@@ -1250,11 +1258,13 @@ Feigl:
 >   languages. [^Feigl1956p7]
 
 -   Grice, H.P. & Strawson, P.F. (1956). In defense of a dogma. [^Grice1956]
+-   Quine's critique is decribed well in Stalnaker, R.C. (2003). *Ways a World Might Be*. [^Stalnaker2003p1]
 
 [^Feigl1956p7]: @Feigl_1956_Some_major_issues_and_developments\, p. 7--8.
 [^Grice1956]: @Grice_1956_In_defense_of_a_dogma\.
 [^Quine1951b]: @Quine_1951_Two_dogmas_of_empiricism\.
 [^Quine1960bp374]: @Quine_1960_Carnap_and_logical_truth\, p. 374.
+[^Stalnaker2003p1]: @Stalnaker_2003_Ways_a_World_Might_Be_Metaphysical_and_anti\, p. 1--6.
 [^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
 
 
