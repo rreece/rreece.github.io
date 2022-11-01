@@ -1,4 +1,5 @@
 Aldrich, J. (1997). R. A. Fisher and the making of maximum likelihood 1912-1922. *Statistical Science*, 12, 162-176.
+Amari, S. (1998). Natural gradient works efficiently in learning. *Neural Computation*, 10, 251--276.
 Amari, S. (2016). *Information Geometry and Its Applications*. Springer Japan.
 Anderson, C. (2008). The End of Theory: The data deluge makes the scientific method obsolete. *Wired*. https://www.wired.com/2008/06/pb-theory/ [June 23, 2008.]
 Arulkumaran, K., Deisenroth, M.P., Brundage, M., & Bharath, A.A. (2017). Deep Reinforcement Learning: A Brief Survey. *IEEE Signal Processing Magazine*, 34, 26--38.
@@ -166,6 +167,7 @@ Mayo, D.G. (2019). The law of likelihood and error statistics. https://errorstat
 Mayo, D.G. (2021). Significance tests: Vitiated or vindicated by the replication crisis in psychology? *Review of Philosophy and Psychology*, 12, 101--121. https://link.springer.com/article/10.1007/s13164-020-00501-w
 McDermott, J. (2019). When and why metaheuristics researchers can ignore "no free lunch" theorems. https://arxiv.org/abs/1906.03280
 McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). New York: Academic Press.
+Meehl, P.E. (1978). Theoretical risks and tabular asterisks: Sir Karl, Sir Ronald, and the slow progress of soft psychology. *Journal of Consulting and Clinical Psychology*, 46, 806--834.
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
 Mikolov, T., Sutskever, I., Chen, K., Corrado, G., & Dean, J. (2013). Distributed representations of words and phrases and their compositionality. https://arxiv.org/abs/1310.4546
@@ -212,6 +214,7 @@ Roberts, D.A., Yaida, S., & Hanin, B. (2021). *The Principles of Deep Learning T
 Robins, J.M. & Wasserman, L. (1999). On the impossibility of inferring causation from association without background knowledge. In C. Glymour & G. Cooper (eds.), *Computation, Causation, and Discovery* (pp. 305--321). AAAI & MIT Press.
 Ronen, M., Finder, S.E., & Freifeld, O. (2022). DeepDPM: Deep clustering with an unknown number of clusters. https://arxiv.org/abs/2203.14309
 Royall, R. (1997). *Statistical Evidence: A likelihood paradigm*. CRC Press.
+Rozeboom, W.W. (1960). The fallacy of the null-hypothesis significance test. *Psychological Bulletin*, 57, 416.
 Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533--536.
 Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.
 Salmon, W.C. (1966). *The Foundations of Scientific Inference*. University of Pittsburgh Press.

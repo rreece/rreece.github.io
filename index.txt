@@ -28,6 +28,7 @@ Get my r&eacute;sum&eacute; or CV:
 News
 --------------------------------------------------------------------------------
 
+-   Oct 2022: I joined [Tenstorrent](https://tenstorrent.com/) as Staff Machine Learning Engineer.
 -   Apr 2022: I co-authored a blog about [Getting started with PyTorch BERT models on the Cerebras CS-2 System](https://cerebras.net/blog/getting-started-with-pytorch-bert-models-on-the-cerebras-cs-2-system/).
 -   Nov 2019: [Cerebras revealed its first product at Supercomputering 2019: the poweful CS-1 computer for AI](https://www.cerebras.net/a-successful-week-for-cerebras-at-supercomputing-2019/).
     [I helped](img/ryan-reece-cerebras-SC19.jpg) represent Cerebras at its tradeshow booth.

@@ -1079,6 +1079,10 @@ Lyons:
     -   *Logic of Statistical Inference* [^Hacking1965]
 -   Neyman
     -   "Frequentist probability and frequentist statistics" [^Neyman1977]
+-   Rozeboom
+    -   Rozeboom, W.W. (1960). The fallacy of the null-hypothesis significance test. [^Rozeboom1960]
+-   Meehl
+    -   Meehl, P. E. (1978). Theoretical risks and tabular asterisks: Sir Karl, Sir Ronald, and the slow progress of soft psychology. [^Meehl1978]
 -   Zech
     -   "Comparing statistical data to Monte Carlo simulation" [^Zech1995]
 -   Richard Royall
@@ -1154,10 +1158,12 @@ Goodman:
 [^Mayo2006]: @Mayo_2006_Severe_testing_as_a_basic_concept_in_a_Neyman\.
 [^Mayo2011b]: @Mayo_2011_Error_statistics\.
 [^Mayo2018]: @Mayo_2018_Statistical_Inference_as_Severe_Testing_How\.
+[^Meehl1978]: @Meehl_1978_Theoretical_risks_and_tabular_asterisks_Sir_Karl\.
 [^Murphy2012ch6]: @Murphy_2012_Machine_Learning_A_probabilistic_perspective\, ch. 6.6.
 [^Murphy2022p195]: @Murphy_2022_Probabilistic_Machine_Learning_An_introduction\, p. 195--198.
 [^Neyman1977]: @Neyman_1977_Frequentist_probability_and_frequentist\.
 [^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\.
+[^Rozeboom1960]: @Rozeboom_1960_The_fallacy_of_the_null_hypothesis_significance\.
 [^Steinhardt2012]: @Steinhardt_2012_Beyond_Bayesians_and_frequentists\.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
 [^Wakefield2013]: @Wakefield_2013_Bayesian_and_Frequentist_Regression_Methods\, ch. 4.
@@ -2088,9 +2094,11 @@ Information geometry
 
 -   Smith, L. (2019). [A gentle introduction to information geometry](http://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html). [^Smith2019]
 -   Nielsen, F. (2018). [An elementary introduction to information geometry](https://arxiv.org/abs/1808.08271). [^Nielsen2018]
+-   Amari, S. (1998). Natural gradient works efficiently in learning. [^Amari1998]
 -   Amari, S. (2016). *Information Geometry and Its Applications*. [^Amari2016]
 -   Geomstats tutorial: [Information geometry](https://geomstats.github.io/notebooks/06_information_geometry.html)
 
+[^Amari1998]: @Amari_1998_Natural_gradient_works_efficiently_in_learning\.
 [^Amari2016]: @Amari_2016_Information_Geometry_and_Its_Applications\.
 [^Nielsen2018]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.
 [^Smith2019]: @Smith_2019_A_gentle_introduction_to_information_geometry\.
