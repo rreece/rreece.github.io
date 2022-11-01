@@ -38,6 +38,8 @@ News
     ([*NeurIPS 2019*](https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html),
     [arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
 -   Apr 2018: I joined [Cerebras Systems](https://www.cerebras.net/) as a machine learning engineer.
+-   Apr 2015: Continuing my postdoc with UCSC, I moved back to Geneva, Switerland
+    to work at CERN during Run 2 of the LHC.
 -   Nov 2014:
     I was awarded a 6 month fellowship, [US ATLAS Scholar](https://po.usatlas.bnl.gov/programoffice/scholars_2014.php),
     to be at Lawrence Berkeley National Laboratory (LBL) in Berkeley, CA,
