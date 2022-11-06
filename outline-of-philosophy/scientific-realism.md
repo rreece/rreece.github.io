@@ -1746,6 +1746,7 @@ Bas van Fraassen (b. 1941):
 -   Unlike positivism/instrumentalism, theories should be taken literally.
 -   TODO: Some inspiration from Wittgenstein and what else?
 -   van Fraassen, B. (2002). *The Empirical Stance*. [^vanFraassen2002]
+-   van Fraassen, B. (2013). [Lecture contrasting naturalism and empiricism](https://www.youtube.com/watch?v=_kYRcibo_d8).
 
 ![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories), 2015).](img/true-vs-literal-theories.png){#fig:true-vs-literal-theories}
 

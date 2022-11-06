@@ -1001,6 +1001,8 @@ See also:
 
 -   Goodman: New riddle of induction (grue)
 -   Hempel: [Raven paradox](https://en.wikipedia.org/wiki/Raven_paradox)
+-   Putnam
+-   Van Fraassen
 
 See also:
 

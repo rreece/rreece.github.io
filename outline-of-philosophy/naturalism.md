@@ -183,7 +183,17 @@ Riepe on the characteristics of naturalism in Indian thought:
 >       moral philosopher. [^Riepe1961pX]
 
 -   See also: [Indian empiricism](human-condition.html#indian-empiricism)
+-   New York in the 1940s
+    -   John Dewey (1859-1952) - Columbia University
+    -   Sidney Hook (1902-1989) - New York University
+    -   Herbert W. Schneider (1892-1984) - Columbia University
+    -   Ernest Nagel (1901-1985) - Columbia University
+    -   Krikorian, Y.H. (1944). *Naturalism and the Human Spirit*. [^Krikorian1944]
+-   Quine, W.V.O. (1908-2000) - Harvard University
+    -   Naturalized epistemology
+    -   Anti-foundationalism
 
+[^Krikorian1944]: @Krikorian_1944_Naturalism_and_the_Human_Spirit\.
 [^McEvilley2002p325]: @McEvilley_2002_The_Shape_of_Ancient_Thought_Comparative_studies\, p. 325--333.
 [^Riepe1961pX]: @Riepe_1961_The_Naturalistic_Traddition_in_Indian_Thought\, p. TODO.
 
