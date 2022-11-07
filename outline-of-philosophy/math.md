@@ -57,8 +57,10 @@ TODO
 -   [Sophus Lie (1842-1899)](https://en.wikipedia.org/wiki/Sophus_Lie)
 -   Schwichtenberg, J. (2016). [Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
 -   Hall, B.C. (2000). [*An Elementary Introduction to Groups and Representations*](https://arxiv.org/abs/math-ph/0005032). [^Hall2000]
+-   Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. [^Zee2016]
 
 [^Hall2000]: @Hall_2000_An_Elementary_Introduction_to_Groups\.
+[^Zee2016]: @Zee_2016_Group_Theory_in_a_Nutshell_for_Physicists\.
 
 
 ### More
@@ -96,6 +98,7 @@ TODO
 -   Gottfried Wilhelm Leibniz (1646-1716)
 -   Jacob Bernoulli (1655-1705)
 -   Leonhard Euler (1707-1783)
+    -   *Mechanica* (1736)
 -   [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) (1749-1827)
 -   Carl Friedrich Gauss (1777-1855)
 -   Augustin-Louis Cauchy (1789-1857)
@@ -356,13 +359,14 @@ See also:
 -   [G&ouml;del's completeness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
     -   Establishes a correspondence between semantic truth and syntactic
         provability in first-order logic.
+-   Awodey, S. & Forssell, H. (2013). First-order logical duality. [^Awodey2013]
 -   No first-order theory has the strength to uniquely describe a
     structure with an infinite domain, such as the natural numbers or the
     real line.
 -   In second-order logic, it is possible to define the addition and
     multiplication operations from the successor operation, but this
     cannot be done in the more restrictive setting of first-order logic.
--   Awodey, S. & Forssell, H. (2013). First-order logical duality. [^Awodey2013]
+    -   TODO: find refs
 
 See also:
 
@@ -388,7 +392,7 @@ See also:
 -   Setwart Shapiro
     -   *Foundations without Foundationalism: A Case for Second-Order Logic* (1991) [^Shapiro1991]
 -   Gillian Russell
-    -   "The justification of the basic laws of logic" [^Russell2015]
+    -   Russell, G. (2015). The justification of the basic laws of logic. [^Russell2015]
 -   Eliezer Yudkowsky
     -   [Second-Order Logic: The Controversy](https://www.lesswrong.com/posts/SWn4rqdycu83ikfBa/second-order-logic-the-controversy)
     -   "Second-order logic is sound, in the sense that anything syntactically
@@ -467,7 +471,7 @@ $$ \Box P = \lnot \Diamond \lnot P $$
 
 Criticism:
 
--   Quine, W. V. (1986). Philosophy of logic. Harvard University Press. [^Quine1986b]
+-   Quine, W.V.O. (1986). *Philosophy of Logic*. [^Quine1986b]
 
 [^Priest1998]: @Priest_1998_What_is_so_bad_about_contradictions\.
 [^Quine1986b]: @Quine_1986_Philosophy_of_Logic\.
@@ -587,6 +591,7 @@ More:
     -   Franz&eacute;n, T. (2005). *G&ouml;del's Theorem: An incomplete guide to its use and abuse*. [^Franzen2005]
 -   Seely, R.A. [G&ouml;del on the net.](http://www.math.mcgill.ca/rags/JAC/124/godel.html)
 -   Video: [Veritasium - Math Has a Fatal Flaw](https://www.youtube.com/watch?v=HeQX2HjkcNo)
+-   Lloyd, S. (1993). Quantum-mechanical computers and uncomputability. [^Lloyd1993]
 -   Cubitt, Perez-Garcia, & Wolf. (2015). Undecidability of the spectral gap. [^Cubitt2015]
 
 Relationship to mind:
@@ -605,6 +610,7 @@ See also:
     and TODO: Carnap's diary.
 [^Franzen2005]: @Franzen_2005_Godels_Theorem_An_incomplete_guide_to_its\.
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
+[^Lloyd1993]: @Lloyd_1993_Quantum_mechanical_computers_and_uncomputability\.
 [^Raatikainen2020]: @Raatikainen_2020_Godels_incompleteness_theorems\.
 [^Turing1937]: @Turing_1937_On_computable_numbers_with_an_application\.
 
@@ -1109,7 +1115,7 @@ Naturalism
 -   Putnam [^Putnam1975]
 -   Hamming [^Hamming1980]
 -   Tegmark: MUH
--   Zee: Physics uses simple Lie groups
+-   Zee: Physics uses simple Lie groups, "Nature is kind" [^Zee2016p564]
 -   Dan A. Roberts. (2021). [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008) [^Roberts2021b]
     -   See also: [No free lunch theorems](statistics.html#no-free-lunch-theorems)
 
@@ -1118,6 +1124,7 @@ Naturalism
 [^Putnam1975]: @Putnam_1975_What_is_mathematical_truth\.
 [^Roberts2021b]: @Roberts_2021_Why_is_AI_hard_and_physics_simple\.
 [^Wigner1960]: @Wigner_1960_The_unreasonable_effectiveness_of_mathematics\.
+[^Zee2016p564]: @Zee_2016_Group_Theory_in_a_Nutshell_for_Physicists\, p. 564.
 
 
 ### Quine-Putnam indispensability thesis

@@ -188,7 +188,7 @@ Riepe on the characteristics of naturalism in Indian thought:
     -   Sidney Hook (1902-1989) - New York University
     -   Herbert W. Schneider (1892-1984) - Columbia University
     -   Ernest Nagel (1901-1985) - Columbia University
-    -   Krikorian, Y.H. (1944). *Naturalism and the Human Spirit*. [^Krikorian1944]
+    -   Their manifesto: Krikorian, Y.H. (1944). *Naturalism and the Human Spirit*. [^Krikorian1944]
 -   Quine, W.V.O. (1908-2000) - Harvard University
     -   Naturalized epistemology
     -   Anti-foundationalism

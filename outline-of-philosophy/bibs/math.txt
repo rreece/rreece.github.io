@@ -39,6 +39,7 @@ Kripke, S.A. (1959). A completeness theorem in modal logic. *The Journal of Symb
 Lewis, C.I. (1917). The issues concerning material implication. *The Journal of Philosophy, Psychology and Scientific Methods*, 14, 350-356. https://www.jstor.org/stable/2940255
 Lewis, D. (1986). *On the Plurality of Worlds*. Oxford: Blackwell.
 Linsky, B. & Zalta, E.N. (2006). What is Neologicism? *The Bulletin of Symbolic Logic*, 12, 60-99. http://mally.stanford.edu/Papers/neologicism2.pdf
+Lloyd, S. (1993). Quantum-mechanical computers and uncomputability. Physical Review Letters, 71, 943--46.
 MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction*. Routledge.
 Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
 Post, E.L. (1921). Introduction to the general theory of elementary propositions. *American Journal of Mathematics*, 43, 163--185.
@@ -73,3 +74,4 @@ Viteri, S. & DeDeo, S. (2022). Epistemic phase transitions in mathematical proof
 von Fintel, K. (2011). Conditionals. https://dspace.mit.edu/handle/1721.1/95781
 Weiss, W. & D'Mello, C. (2015). *Fundamentals of Model Theory*. https://www.math.toronto.edu/weiss/model_theory.pdf
 Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. *Communications on pure and applied mathematics*, 13, 1--14. http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html [Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959]
+Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. Princeton University Press.
