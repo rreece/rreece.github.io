@@ -139,6 +139,7 @@ Korb, K.B. (2001). Machine learning as philosophy of science. In *Proceedings of
 Krenn, M. et al. (2022). On scientific understanding with artificial intelligence. *Nature Reviews Physics*. https://www.nature.com/articles/s42254-022-00518-3
 Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ImageNet classification with deep convolutional neural networks. *Advances in Neural Information Processing Systems*, 2012, 1097--1105. https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 Kruschke, J.K. & Liddell, T.M. (2018). The Bayesian New Statistics: Hypothesis testing, estimation, meta-analysis, and power analysis from a Bayesian perspective. *Psychonomic Bulletin & Review*, 25, 178--206. https://link.springer.com/article/10.3758/s13423-016-1221-4
+Kun, J. (2018). *A Programmer's Introduction to Mathematics*. CreateSpace Independent Publishing Platform.
 Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R. (2019). ALBERT: A lite BERT for self-supervised learning of language representations. https://arxiv.org/abs/1909.11942
 Lanctot, M., Waugh, K., Zinkevich, M., & Bowling, M. (2009). Monte Carlo sampling for regret minimization in extensive games. *Advances in Neural Information Processing Systems*, 22, 1078--1086.
 Lauc, D. (2020). Machine learning and the philosophical problems of induction. In S. Skansi (ed.), *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 93--106). Springer.

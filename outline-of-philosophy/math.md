@@ -851,6 +851,10 @@ Platonism
 -   [Binomial theorem visualisation](https://en.wikipedia.org/wiki/File:Binomial_theorem_visualisation.svg)
 -   Chen, E.K. (2018). [The intrinsic structure of quantum mechanics](http://philsci-archive.pitt.edu/15140/). [^Chen2018b]
 
+Criticism:
+
+-   3Blue1Brown. (2022). Video: [How to lie using visual proofs](https://www.youtube.com/watch?v=VYQVlVoWoPY).
+
 [^Chen2018b]: @Chen_2018_The_intrinsic_structure_of_quantum_mechanics\.
 [^Quine1948b]: @Quine_1948_On_what_there_is\.
 [^Quine1948p7]: @Quine_1948_On_what_there_is\, p. 7.

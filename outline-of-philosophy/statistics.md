@@ -1720,6 +1720,8 @@ Resources:
     -   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
     -   Alammar, J. (2019). [The illustrated word2vec](https://jalammar.github.io/illustrated-word2vec/).
     -   Migdal, P. (2017). [king - man + woman is queen; but why?](https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html)
+    -   Kun, J. (2018). *A Programmer's Introduction to Mathematics*.
+        -   Word vectors have semantic linear structure [^Kun2018p176]
     -   Ethayarajh, K. (2019). [Word embedding analogies: Understanding King - Man + Woman = Queen](https://kawine.github.io/blog/nlp/2019/06/21/word-analogies.html).
     -   Allen, C. (2019). ["Analogies Explained" ... Explained](https://carl-allen.github.io/nlp/2019/07/01/explaining-analogies-explained.html).
 -   RNNs and LSTMs
@@ -1797,6 +1799,7 @@ See also:
 [^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
 [^Jurafsky2022]: @Jurafsky_2022_Speech_and_Language_Processing_An_introduction\.
 [^Kaplan2020]: @Kaplan_2020_Scaling_laws_for_neural_language_models\.
+[^Kun2018p176]: @Kun_2018_A_Programmers_Introduction_to_Mathematics\, p. 176--8.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations\,
     @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\, and

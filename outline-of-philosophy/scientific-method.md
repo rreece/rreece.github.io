@@ -1605,15 +1605,29 @@ Pseudoscience
 ### The demarcation problem
 
 -   Poor quality science vs pseudoscience
--   Feynman, R.P. (1974). [Cargo cult science](http://calteches.library.caltech.edu/51/2/CargoCult.pdf).
+-   Feynman, R.P. (1974). [Cargo cult science](http://calteches.library.caltech.edu/51/2/CargoCult.pdf). [^Feynman1999p189]
 -   Bunge, M. (1991). [What is science? Does it matter to distinguish it from pseudoscience? A reply to my commentators](https://www.hpsst.com/uploads/6/2/9/3/62931075/bunge__1991__science___pseudoscience.pdf_). [^Bunge1991a]
 -   Bunge, M. (2011). Knowledge: Genuine and bogus. [^Bunge2011]
 -   Pigliucci, M. & Boudry, M. (2013). *Philosophy of Pseudoscience: Reconsidering the Demarcation Problem*. [^Pigliucci2013]
 -   Blancke, S. & Boudry, M. (2022). Pseudoscience as a negative outcome of scientific dialogue: A pragmatic-naturalistic approach to the demarcation problem. [^Blancke2022]
 
+Feynman:
+
+>   Science is the belief in the ignorance of experts. When someone says
+>   "science teaches such and such", he is using the word incorrectly.
+>   Science doesn’t teach it; experience teaches it.
+>   If they say to you science has shown such and such, you might ask,
+>   "How does science show it---how did the scientists find out---how, what, where?"
+>   Not science has shown, but this experiment, this effect, has shown.
+>   And you have as much right as anyone else, upon hearing about the
+>   experiments (but we must listen to *all* the evidence), to judge
+>   whether a reasonable conclusion has been arrived at. [^Feynman1999p187]
+
 [^Blancke2022]: @Blancke_2022_Pseudoscience_as_a_negative_outcome_of_scientific\.
 [^Bunge1991a]: @Bunge_1991_What_is_science_Does_it_matter_to_distinguish_it\.
 [^Bunge2011]: @Bunge_2011_Knowledge_Genuine_and_bogus\.
+[^Feynman1999p187]: @Feynman_1999_The_Pleasure_of_Finding_Things_Out\, p. 187.
+[^Feynman1999p189]: @Feynman_1999_The_Pleasure_of_Finding_Things_Out\, p. 189.
 [^Pigliucci2013]: @Pigliucci_2013_Philosophy_of_Pseudoscience_Reconsidering\.
 
 
