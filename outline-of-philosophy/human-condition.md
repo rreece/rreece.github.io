@@ -288,6 +288,8 @@ Moore & Kelle:
 -   [Muhammad](https://en.wikipedia.org/wiki/Muhammad) (c. 570-632 CE)
 -   [Sunni Islam](https://en.wikipedia.org/wiki/Sunni_Islam) - 75-90% of living Muslims
 -   [Shia Islam](https://en.wikipedia.org/wiki/Shia_Islam) - mainly in Iran and Iraq
+    -   [Zaydism](https://en.wikipedia.org/wiki/Zaydism)
+    -   [Isma'ilism](https://en.wikipedia.org/wiki/Isma%27ilism)
     -   [Safavid conversion of Iran to Shia Islam](https://en.wikipedia.org/wiki/Safavid_conversion_of_Iran_to_Shia_Islam)
 -   [Sufism](https://en.wikipedia.org/wiki/Sufism) - Islamic mysticism
     -   [Hazrat Babajan](https://en.wikipedia.org/wiki/Hazrat_Babajan) (d. 1931)
