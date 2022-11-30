@@ -1442,6 +1442,7 @@ See also:
         -   [Constructive empiricism](scientific-realism.html#constructive-empiricism)
 -   Lauc, D. (2020). Machine learning and the philosophical problems of induction. [^Lauc2020p103]
 -   Ronen, M., Finder, S.E., & Freifeld, O. (2022). [DeepDPM: Deep clustering with an unknown number of clusters](https://arxiv.org/abs/2203.14309). [^Ronen2022]
+-   Fang, Z. et al. (2022). [Is out-of-distribution detection learnable?](https://arxiv.org/abs/2210.14707). [^Fang2022]
 
 See also:
 
@@ -1449,6 +1450,7 @@ See also:
 -   [Surrogate models](#surrogate-models)
 
 [^Batson2021]: @Batson_2021_Topological_obstructions_to_autoencoding\.
+[^Fang2022]: @Fang_2022_Is_out_of_distribution_detection_learnable\.
 [^Hennig2015a]: @Hennig_2015_What_are_the_true_clusters\.
 [^Lauc2020p103]: @Lauc_2020_Machine_learning_and_the_philosophical_problems\, p. 103--4.
 [^Ronen2022]: @Ronen_2022_DeepDPM_Deep_clustering_with_an_unknown_number\.

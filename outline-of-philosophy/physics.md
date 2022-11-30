@@ -1667,9 +1667,11 @@ Gravity and cosmology
     -   Millennium Simulation
 -   WIMP Miracle
     -   Disfavored by LHC thus far.
+-   Bahcall, N.A. (2015). [Dark matter universe](https://www.pnas.org/doi/10.1073/pnas.1516944112). [^Bahcall2015]
 -   Howe, A.R. (2019). [The dark matter flowchart, annotated](https://sciencemeetsfiction.com/nonfiction-essays/the-dark-matter-flowchart-annotated/).
 -   Martens, N. (2022). [Dark matter realism](https://link.springer.com/article/10.1007/s10701-021-00524-y). [^Martens2022]
 
+[^Bahcall2015]: @Bahcall_2015_Dark_matter_universe\.
 [^Clowe2006]: @Clowe_2006_A_direct_empirical_proof_of_the_existence_of_dark\.
 [^Martens2022]: @Martens_2022_Dark_matter_realism\.
 
