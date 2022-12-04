@@ -638,18 +638,22 @@ Compassion
 --------------------------------------------------------------------------------
 
 -   Forgiveness
+-   Empathy
+-   Growth mindset
 -   Everett L. Worthington Jr.
 -   Wade, N. (2020). [Forgive and be free](https://aeon.co/essays/forgiveness-therapy-can-free-you-from-the-hurts-of-the-past).
 -   Kristin Neff - [Self-compassion](https://self-compassion.org/the-three-elements-of-self-compassion-2/).
 -   Serena Chen. (2018). [Give yourself a break: The power of self-compassion](https://hbr.org/2018/09/give-yourself-a-break-the-power-of-self-compassion).
--   Growth mindset
 -   Compassion in Buddhism
 -   Compassion in Schopenhauer's *On the Basis of Morality*
--   Limits of compassion.
+-   Limits of compassion
     -   Rand being against compassion.
+    -   Prinz, J. (2011). Against empathy. [^Prinz2011]
 -   Anger
     -   Callard, A. (2020). [The philosophy of anger](https://bostonreview.net/forum/agnes-callard-philosophy-anger/).
 -   Doug Polk interviewing Garrett Adelstein (2021): [Being gentle with yourself](https://www.youtube.com/watch?v=zS-Z2MDtlb8).
+
+[^Prinz2011]: @Prinz_2011_Against_empathy\.
 
 
 Ecology
