@@ -971,7 +971,10 @@ Reichenbach:
 -   Russell
 -   Bayesian updating
     -   See also: [Bayes' theorem](statistics.html#bayes-theorem)
-    -   Aumann's agreement theorem [^Aumann1976]
+    -   Aumann's agreement theorem
+    -   Aumann, R.J. (1976). Agreeing to disagree. [^Aumann1976]
+    -   Geanakoplos, J.D. & Polemarchakis, H.M. (1982). We can't disagree forever. [^Geanakoplos1982]
+    -   Aaronson, S. (2005). [The complexity of agreement](https://www.scottaaronson.com/papers/agree-econ.pdf). [^Aaronson2005]
 -   Sankey, H. (2008). *Scientific Realism and the Rationality of Science*. [^Sankey2008p79]
 -   Vickers, J.M. (2013). [Oxford Bibliography on Inductive Reasoning](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0171.xml).
 
@@ -979,6 +982,7 @@ See also:
 
 -   [Algorithmic information theory](statistics.html#algorithmic-information-theory)
 
+[^Aaronson2005]: @Aaronson_2005_The_complexity_of_agreement\.
 [^Aronson2007]: @Aronson_2007_Evidence_Based_Technical_Analysis\, p. 128.
 [^Aumann1976]: @Aumann_1976_Agreeing_to_disagree\.
 [^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
@@ -987,6 +991,7 @@ See also:
 [^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
 [^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
 [^Earman2000p25]: @Earman_2000_Humes_Abject_Failure_The_argument_against\, p. 25.
+[^Geanakoplos1982]: @Geanakoplos_1982_We_cant_disagree_forever\.
 [^Mill1843]: @Mill_1843_A_System_of_Logic\.
 [^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
 [^Reichenbach1938a]: @Reichenbach_1938_Experience_and_Prediction and

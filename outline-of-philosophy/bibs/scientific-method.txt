@@ -1,3 +1,4 @@
+Aaronson, S. (2005). The complexity of agreement. *Proceedings of ACM STOC*. 634--643. https://www.scottaaronson.com/papers/agree-econ.pdf
 Allain, R. (2013). What's wrong with the scientific method? *Wired*. https://www.wired.com/2013/04/whats-wrong-with-the-scientific-method/ [April 1, 2013]
 Aristotle. (1993). *Posterior Analytics* (J. Barnes, Trans.). Oxford: Clarendon Press. [(Originally written in 350 BCE)]
 Aristotle. (2007). *Posterior Analytics* (G.R.G. Mure, Trans.). https://web.archive.org/web/20070427034930/http://etext.library.adelaide.edu.au/a/aristotle/a8poa/ [(Originally written in 350 BCE)]
@@ -35,6 +36,7 @@ Feynman, R.P. (1999). *The Pleasure of Finding Things Out*. Basic Books.
 French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
 Frigg, R. & Nguyen, J. (2017). Models and representation. In *Springer Handbook of Model-Based Science* (pp. 49--102). Springer.
 Frigg, R. & Hartmann, S. (2020). Models in science *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/models-science/
+Geanakoplos, J.D. & Polemarchakis, H.M. (1982). We can't disagree forever. *Journal of Economic Theory*, 28, 192--200.
 Gettier, E.L. (1963). Is justified true belief knowledge? *Analysis*, 23, 121--3.
 Gould, S.J. (1965). Is uniformitarianism necessary? *American Journal of Science*, 263, 223--228.
 Hansson, S.O. & Hendricks, V.F. (2018). *Introduction to Formal Philosophy*. Springer.
