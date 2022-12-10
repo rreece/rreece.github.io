@@ -1170,6 +1170,7 @@ Interpretations of quantum mechanics
 -   version of quantum theory discovered by Louis de Broglie in 1927 and rediscovered by David Bohm in 1952.
 -   Bohm, D. (1952). A suggested interpretation of the quantum theory in terms of 'hidden' variables, I and II. [^Bohm1952]
 -   Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. [^Bohm1953]
+-   Sch&ouml;nberg, M. (1954). On the hydrodynamical model of the quantum mechanics. [^Schonberg1954]
 -   Bell, J.S. (1987). *Speakable and Unspeakable in Quantum Mechanics*. [^Bell1987]
 -   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (1995). [Bohmian mechanics as the foundation of quantum mechanics](https://arxiv.org/abs/quant-ph/9511016) [^Durr1995]
 -   D&uuml;rr, D., Goldstein, S., Tumulka, R., & Zangh&igrave;, N. (2004). [Bohmian mechanics and quantum field theory](https://arxiv.org/abs/quant-ph/0303156). [^Durr2004]
@@ -1189,6 +1190,7 @@ Interpretations of quantum mechanics
 [^Durr2004]: @Durr_2004_Bohmian_mechanics_and_quantum_field_theory\.
 [^Durr2005]: @Durr_2005_Bell_type_quantum_field_theories\.
 [^Durr2013]: @Durr_2013_Quantum_Physics_Without_Quantum_Philosophy\.
+[^Schonberg1954]: @Schonberg_1954_On_the_hydrodynamical_model_of_the_quantum\.
 [^Stopp2021]: @Stopp_2021_Single_ion_thermal_wave_packet_analyzed_via_time\.
 [^Tumulka2017]: @Tumulka_2017_Bohmian_mechanics\.
 
