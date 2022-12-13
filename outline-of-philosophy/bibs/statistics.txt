@@ -151,6 +151,7 @@ LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning
 LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436-44.
 Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep learning. https://arxiv.org/abs/1805.10451
 Lewis, D. (1981). Causal decision theory. *Australasian Journal of Philosophy*, 59, 5--30. https://www.andrewmbailey.com/dkl/Causal_Decision_Theory.pdf
+Lewis, M. et al. (2019). BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. https://arxiv.org/abs/1910.13461
 Lista, L. (2016). Practical statistics for particle physicists. https://arxiv.org/abs/1609.04150
 Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
 Liu, H., Dai, Z., So, D.R., & Le, Q.V. (2021). Pay attention to MLPs. https://arxiv.org/abs/2105.08050
@@ -191,6 +192,7 @@ Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of
 Nielsen, F. (2018). An elementary introduction to information geometry. https://arxiv.org/abs/1808.08271
 Nirenburg, S. (1996). Bar Hillel and Machine Translation: Then and Now.
 O'Hagan, A. (2010). *Kendall's Advanced Theory of Statistics, Vol 2B: Bayesian Inference*. Wiley.
+Ouyang, L. et al. (2022). Training language models to follow instructions with human feedback. https://arxiv.org/abs/2203.02155
 Park, N. & Kim, S. (2022). How do vision transformers work? https://arxiv.org/abs/2202.06709
 Pearl, J. (2009). Causal inference in statistics: An overview. *Statistics Surveys*, 3, 96--146. https://projecteuclid.org/journals/statistics-surveys/volume-3/issue-none/Causal-inference-in-statistics-An-overview/10.1214/09-SS057.pdf
 Pearl, J. (2018). *The Book of Why: The new science of cause and effect*. Basic Books.
