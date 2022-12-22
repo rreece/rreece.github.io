@@ -551,6 +551,7 @@ Wittgenstein:
 
 ### Criticism
 
+-   Fodor, J.A. (1974). Special sciences (Or: The disunity of science as a working hypothesis). [^Fodor1974]
 -   Schweber, S.S. (1993). The ebb and flow of reductionism. [^Schweber1993]
 -   Laughlin, R.B. & Pines, D. (2000). The theory of everything. [^Laughlin2000]
 
@@ -561,6 +562,7 @@ Wittgenstein:
 
 -   Silvers, S. (1997). [Nonreductive naturalism](https://addi.ehu.es/bitstream/handle/10810/40244/Theoria%2028%20163-184.pdf). [^Silvers1997]
 
+[^Fodor1974]: @Fodor_1974_Special_sciences_Or_The_disunity_of_science_as\.
 [^Laughlin2000]: @Laughlin_2000_The_theory_of_everything\.
 [^Schweber1993]: @Schweber_1993_The_ebb_and_flow_of_of_reductionism\.
 [^Silvers1997]: @Silvers_1997_Nonreductive_naturalism\.

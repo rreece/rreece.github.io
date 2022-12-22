@@ -2065,14 +2065,18 @@ Roberts:
 ### Relationship to statistical mechanics
 
 -   Logistic/softmax and Boltzman factors
+-   Wang, L. (2018). [Generative models for physicists](https://wangleiphy.github.io/lectures/PILtutorial.pdf).
 -   Bahri [^Bahri2020]
 -   Halverson [^Halverson2020]
 -   Canatar, A., Bordelon, B., & Pehlevan, C. (2020). [Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks](https://arxiv.org/abs/2006.13198). [^Canatar2020]
 -   Roberts, Yaida, & Hanin. (2021). [*The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*](https://deeplearningtheory.com/PDLT.pdf). [^Roberts2021PDLT]
     -   Introduced in [Facebook AI's blog](https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/)
+-   Cantwell, G.T. (2022). [Approximate sampling and estimation of partition functions using neural networks](https://arxiv.org/abs/2209.10423). [^Cantwell2022]
+-   Wang, L. (2022). [Generative AI for science](https://drive.google.com/file/d/1D1bL--Zmv0J7n-QEqRvRb3erf5abV1o0/view).
 
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
 [^Canatar2020]: @Canatar_2020_Spectral_bias_and_task_model_alignment_explain\.
+[^Cantwell2022]: @Cantwell_2022_Approximate_sampling_and_estimation_of_partition\.
 [^Halverson2020]: @Halverson_2020_Neural_networks_and_quantum_field_theory\.
 [^Roberts2021PDLT]: @Roberts_2021_The_Principles_of_Deep_Learning_Theory\.
 

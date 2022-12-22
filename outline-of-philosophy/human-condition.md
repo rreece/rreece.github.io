@@ -345,7 +345,7 @@ Hinduism
         -   [Hare Krishna movement](https://en.wikipedia.org/wiki/International_Society_for_Krishna_Consciousness)
         -   [Hare Krishna mantra](https://en.wikipedia.org/wiki/Hare_Krishna_(mantra))
     2.  [Shaivism](https://en.wikipedia.org/wiki/Shaivism) - venerates Shiva as the ultimate deity.
-    3.  [Shaktism](https://en.wikipedia.org/wiki/Shaktism)
+    3.  [Shaktism](https://en.wikipedia.org/wiki/Shaktism) - venerates the goddess Shakti (Mahadevi) as the ultimate deity.
     4.  [Smartism](https://en.wikipedia.org/wiki/Smarta_tradition)
 
 
@@ -436,6 +436,7 @@ Others:
     -   God of new beginnings, wisdom, luck, and remover of obstacles.
     -   Son of Shiva and Parvati.
 -   [Indra](https://en.wikipedia.org/wiki/Indra)
+-   [Mahadevi AKA Shakti](https://en.wikipedia.org/wiki/Mahadevi)
 
 
 #### Pramana
