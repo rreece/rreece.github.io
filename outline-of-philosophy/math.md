@@ -425,6 +425,8 @@ See also:
     -   Strict implication is not truth-functional. It requires asking
         about the truth-values that propositions take in worlds other than
         the actual world.
+-   [Rudolf Carnap](https://en.wikipedia.org/wiki/Rudolf_Carnap) (1891-1970)
+    -   Carnap, R. (1947). *Meaning and Necessity*. [^Carnap1947]
 -   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (1940-2022)
     -   Kripke, S.A. (1959). A completeness theorem in modal logic. [^Kripke1959]
     -   Revives Leibniz's idea that necessity is truth in all possible worlds.
@@ -445,6 +447,7 @@ $$ \Box P = \lnot \Diamond \lnot P $$
 
 -   [Security logic](https://www.johndcook.com/blog/2018/10/30/modal-logic-security/)
 
+[^Carnap1947]: @Carnap_1947_Meaning_and_Necessity\.
 [^Kripke1959]: @Kripke_1959_A_completeness_theorem_in_modal_logic\.
 [^Lewis1917]: @Lewis_1917_The_issues_concerning_material_implication\.
 [^Lewis1986]: @Lewis_1986_On_the_Plurality_of_Worlds\.

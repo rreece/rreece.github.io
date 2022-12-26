@@ -426,6 +426,8 @@ See also:
 
 ### Discussion
 
+-   Putnam, H. (1997). A half century of philosophy, viewed from within. [^Putnam1997]
+
 TODO: While promoting the careful gathering of empirical information,
 naturalism is not against (largely non-empirical) rational pursuits like mathematics.
 Indeed some naturalist may even see logic and mathematics as scientific pursuits
@@ -479,6 +481,7 @@ See also:
 -   [Neurath's boat](scientific-realism.html#neuraths-boat) in the Outline on [scientific realism](#scientific-realism)
 
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
+[^Putnam1997]: @Putnam_1997_A_half_century_of_philosophy_viewed_from_within\.
 [^Quine1969pX]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, p. TODO.
 [^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21 (emphasis added).
     A similar quote can be found in @Quine_1981_Reply_to_Stroud, p. 474.
