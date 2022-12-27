@@ -1,0 +1,2032 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <meta name="author" content="Ryan Reece" />
+  <meta name="date" content="Tue Dec 27, 2022" />
+  <title>Ethics - Ryan's Outline of Philosophy</title>
+  <meta name="description" content="Ryan Reece&#x2019;s outline of
+philosophy" />
+  <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
+  <link rel="icon" type="image/png" href="img/markdown-favicon-196x196.png" />
+
+<!--- Google Analytics Tracking stuff  -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-55199032-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!--- MathJax stuff -->
+<script type="text/javascript" src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });
+</script>
+
+<!--- toggle_more function  -->
+<script type="text/javascript">
+    //<![CDATA[
+    function toggle_more(objID) {
+        if (!document.getElementById) return;
+        var ob = document.getElementById(objID).style;
+        ob.display = (ob.display == 'block')?'none':'block';
+        var ob2 = document.getElementById('link:'+objID);
+        ob2.className = (ob2.className == 'open') ? 'closed' : 'open';
+    }
+    //]]>
+</script>
+
+</head>
+
+<body>
+
+<div id="site_header">
+    <a href="./">Ryan&#x2019;s Outline of Philosophy</a>
+</div>
+
+<!--
+<div id="beforebody">
+</div>
+-->
+
+<div class="nav">
+<ul>
+    <li> <a href="./">&#8634;&nbsp;Contents</a> </li>
+    <li> <a href="#site_footer">&#8615;&nbsp;Bottom</a> </li>
+    <li> <a href="./mind.html">&#8612;&nbsp;Previous</a> </li>
+    <li> <a href="./human-condition.html">&#8614;&nbsp;Next</a> </li>
+</ul>
+</div>
+
+<div id="mainbody">
+<div id="pagecontainer">
+
+<h1 id="ethics">Ethics</h1>
+<p>Ethics: What should we do? What is good? What is normative?</p>
+<p>Meta-ethics: What is goodness? What does it mean to be good? What
+does it mean to be normative?</p>
+<p>Aesthetics: What is beautiful?</p>
+<blockquote>
+<p>What may a man do and not be ashamed of it? He may not do nothing
+surely, for straightaway he is dubbed Dolittle&#x2014;aye! christens himself
+first&#x2014;and reasonably, for he was first to duck. But let him do
+something, is he the less a Dolittle? Is it actually something done, or
+not rather something undone? <a href="#fn1" class="footnote-ref"
+id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+</blockquote>
+<h3 class="unnumbered" id="contents">Contents</h3>
+<ol type="1">
+<li><a href="ethics.html#virtue-ethics">Virtue ethics</a>
+<ol type="1">
+<li><a href="ethics.html#introduction">Introduction</a></li>
+<li><a href="ethics.html#discussion">Discussion</a></li>
+<li><a href="ethics.html#criticism">Criticism</a></li>
+</ol></li>
+<li><a href="ethics.html#deontological-ethics">Deontological ethics</a>
+<ol type="1">
+<li><a href="ethics.html#introduction-1">Introduction</a></li>
+<li><a href="ethics.html#discussion-1">Discussion</a></li>
+<li><a href="ethics.html#criticism-1">Criticism</a></li>
+</ol></li>
+<li><a href="ethics.html#consequentialism">Consequentialism</a>
+<ol type="1">
+<li><a href="ethics.html#introduction-2">Introduction</a></li>
+<li><a href="ethics.html#hedonism">Hedonism</a></li>
+<li><a href="ethics.html#effective-altruism">Effective altruism</a></li>
+<li><a href="ethics.html#criticism-2">Criticism</a></li>
+</ol></li>
+<li><a href="ethics.html#moral-antirealism">Moral antirealism</a>
+<ol type="1">
+<li><a href="ethics.html#introduction-3">Introduction</a></li>
+<li><a href="ethics.html#is-ought-divide">Is-ought divide</a></li>
+<li><a href="ethics.html#noncognitivism">Noncognitivism</a></li>
+<li><a href="ethics.html#error-theory">Error Theory</a></li>
+<li><a href="ethics.html#non-objectivism">Non-objectivism</a></li>
+</ol></li>
+<li><a href="ethics.html#moral-realism">Moral realism</a>
+<ol type="1">
+<li><a href="ethics.html#introduction-4">Introduction</a></li>
+<li><a href="ethics.html#discussion-2">Discussion</a></li>
+</ol></li>
+<li><a href="ethics.html#moral-naturalism">Moral naturalism</a>
+<ol type="1">
+<li><a href="ethics.html#introduction-5">Introduction</a></li>
+<li><a href="ethics.html#evolution-of-morals">Evolution of
+morals</a></li>
+<li><a href="ethics.html#game-theory">Game theory</a></li>
+<li><a href="ethics.html#science-of-morality">Science of
+morality</a></li>
+<li><a href="ethics.html#naturalistic-fallacy">Naturalistic
+fallacy</a></li>
+<li><a href="ethics.html#nonreductive-moral-naturalism">Nonreductive
+moral naturalism</a></li>
+</ol></li>
+<li><a href="ethics.html#political-philosophy">Political philosophy</a>
+<ol type="1">
+<li><a href="ethics.html#capitalism">Capitalism</a></li>
+<li><a href="ethics.html#marxism">Marxism</a></li>
+<li><a href="ethics.html#socialism">Socialism</a></li>
+<li><a href="ethics.html#economics">Economics</a></li>
+</ol></li>
+<li><a href="ethics.html#free-speech">Free speech</a>
+<ol type="1">
+<li><a href="ethics.html#introduction-6">Introduction</a></li>
+<li><a href="ethics.html#hate-speech">Hate speech</a></li>
+<li><a href="ethics.html#cancel-culture">Cancel culture</a></li>
+<li><a href="ethics.html#copyright">Copyright</a></li>
+</ol></li>
+<li><a href="ethics.html#protests-and-non-violence">Protests and
+(non-)violence</a></li>
+<li><a href="ethics.html#feminism">Feminism</a></li>
+<li><a href="ethics.html#regret">Regret</a></li>
+<li><a href="ethics.html#compassion">Compassion</a></li>
+<li><a href="ethics.html#ecology">Ecology</a></li>
+<li><a href="ethics.html#aesthetics">Aesthetics</a>
+<ol type="1">
+<li><a href="ethics.html#music-theory">Music theory</a></li>
+<li><a href="ethics.html#art">Art</a></li>
+<li><a href="ethics.html#taste">Taste</a></li>
+</ol></li>
+<li><a href="ethics.html#my-thoughts">My thoughts</a></li>
+<li><a href="ethics.html#annotated-bibliography">Annotated
+bibliography</a>
+<ol type="1">
+<li><a
+href="ethics.html#putnam-h.-2004.-the-collapse-of-the-factvalue-dichotomy-and-other-essays.">Putnam,
+H. (2004). The Collapse of the Fact/Value Dichotomy and Other
+Essays.</a></li>
+<li><a
+href="ethics.html#portmore-d.-2011.-commonsense-consequentialism.">Portmore,
+D. (2011). Commonsense Consequentialism.</a></li>
+<li><a href="ethics.html#more-articles-to-do">More articles to
+do</a></li>
+</ol></li>
+<li><a href="ethics.html#links-and-encyclopedia-articles">Links and
+encyclopedia articles</a>
+<ol type="1">
+<li><a href="ethics.html#sep">SEP</a></li>
+<li><a href="ethics.html#iep">IEP</a></li>
+<li><a href="ethics.html#wikipedia">Wikipedia</a></li>
+<li><a href="ethics.html#others">Others</a></li>
+<li><a href="ethics.html#videos">Videos</a></li>
+</ol></li>
+<li><a href="ethics.html#references">References</a></li>
+</ol>
+<h2 id="virtue-ethics">Virtue ethics</h2>
+<h3 id="introduction">Introduction</h3>
+<ul>
+<li>See the discussion of <a
+href="http://rreece.github.io/outline-of-philosophy/human-condition.html#stoicism">Stoicism</a>.</li>
+<li>Aristotle</li>
+<li>Stoicism</li>
+<li>G.E.M. Anscombe (1919-2001)</li>
+<li>Philippa Foot (1920-2010)</li>
+</ul>
+<h3 id="discussion">Discussion</h3>
+<ul>
+<li>TODO</li>
+</ul>
+<h3 id="criticism">Criticism</h3>
+<ul>
+<li>TODO</li>
+</ul>
+<h2 id="deontological-ethics">Deontological ethics</h2>
+<h3 id="introduction-1">Introduction</h3>
+<ul>
+<li>Kant
+<ul>
+<li>Categorical imperative</li>
+</ul></li>
+<li>Rawls
+<ul>
+<li><em>A Theory of Justice</em> <a href="#fn2" class="footnote-ref"
+id="fnref2" role="doc-noteref"><sup>2</sup></a></li>
+<li>The original position</li>
+<li>Veil of ignorance</li>
+<li>Reflective equilibrium</li>
+</ul></li>
+</ul>
+<p>Kant:</p>
+<blockquote>
+<p>Nothing in the world&#x2014;indeed nothing even beyond the world&#x2014;can
+possibly be conceived which could be called good without qualification
+except a <em>good will</em>. <a href="#fn3" class="footnote-ref"
+id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+</blockquote>
+<h3 id="discussion-1">Discussion</h3>
+<ul>
+<li>Cushman, F. (2013). Action, outcome, and value. <a href="#fn4"
+class="footnote-ref" id="fnref4"
+role="doc-noteref"><sup>4</sup></a></li>
+<li>Ayars, A. (2016). Can model-free reinforcement learning explain
+deontological moral judgments? <a href="#fn5" class="footnote-ref"
+id="fnref5" role="doc-noteref"><sup>5</sup></a></li>
+</ul>
+<p>See also:</p>
+<ul>
+<li><a href="statistics.html#reinforcement-learning">Reinforcement
+learning</a></li>
+</ul>
+<h3 id="criticism-1">Criticism</h3>
+<ul>
+<li>TODO</li>
+</ul>
+<h2 id="consequentialism">Consequentialism</h2>
+<h3 id="introduction-2">Introduction</h3>
+<ul>
+<li>Epicurus</li>
+<li>Bentham</li>
+<li>Mill</li>
+<li>G.E.M. Anscombe (1919-2001)</li>
+<li>Game theory</li>
+<li><a
+href="https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem">Von
+Neumann-Morgenstern utility theorem</a></li>
+<li>Binmore</li>
+<li>Portmore
+<ul>
+<li><em>Commonsense Consequentialism</em> <a href="#fn6"
+class="footnote-ref" id="fnref6"
+role="doc-noteref"><sup>6</sup></a></li>
+</ul></li>
+</ul>
+<p>See also:</p>
+<ul>
+<li><a href="human-condition.html#epicureanism">Epicureanism</a></li>
+<li><a href="human-condition.html#mohism">Mohism</a></li>
+</ul>
+<h3 id="hedonism">Hedonism</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Yang_Zhu">Yang Zhu</a>
+(440-360 BCE)</li>
+<li>Epicurianism</li>
+<li>De Quincey, T. (1821). <em>Confessions of an English
+Opium-Eater</em>.</li>
+<li>Hunter S. Thompson</li>
+<li>Christopher Hitchens. (2003). <a
+href="https://www.vanityfair.com/news/2003/03/hitchens-200303">Living
+proof</a>. <em>Vanity Fair</em>.</li>
+</ul>
+<h3 id="effective-altruism">Effective altruism</h3>
+<ul>
+<li>Peter Singer</li>
+<li>Toby Ord</li>
+<li>William MacAskill</li>
+</ul>
+<h3 id="criticism-2">Criticism</h3>
+<ul>
+<li>The Repugnant Conclusion
+<ul>
+<li>Parfit, D. (1984). <em>Reasons and Pearson</em>. <a href="#fn7"
+class="footnote-ref" id="fnref7"
+role="doc-noteref"><sup>7</sup></a></li>
+</ul></li>
+<li>The experience machine
+<ul>
+<li>Nozick, R. (1974). <em>Anarchy, State, and Utopia</em>. <a
+href="#fn8" class="footnote-ref" id="fnref8"
+role="doc-noteref"><sup>8</sup></a></li>
+</ul></li>
+</ul>
+<h2 id="moral-antirealism">Moral antirealism</h2>
+<h3 id="introduction-3">Introduction</h3>
+<ul>
+<li>The previous three sections are about ethics; the next three are
+about meta-ethics.</li>
+<li>Cognitivism and non-cognitivism</li>
+<li>Emotivism
+<ul>
+<li>Hume, A.J. Ayer</li>
+<li>Reason is a slave to the passions</li>
+<li>Positivism</li>
+</ul></li>
+<li>Relativism</li>
+<li>Nihilism
+<ul>
+<li>Friedrich Nietzsche</li>
+<li>J.L. Mackie</li>
+</ul></li>
+<li>Postmodernism</li>
+<li>Moral antirealism is the disjunction of three theses:
+<ol type="1">
+<li>moral noncognitivism</li>
+<li>moral error theory</li>
+<li>moral non-objectivism <a href="#fn9" class="footnote-ref"
+id="fnref9" role="doc-noteref"><sup>9</sup></a></li>
+</ol></li>
+</ul>
+<p>Thrasymachus in Plato&#x2019;s <em>Republic</em>:</p>
+<blockquote>
+<p>Listen then, I say justice is nothing other than the advantage of the
+stronger. <a href="#fn10" class="footnote-ref" id="fnref10"
+role="doc-noteref"><sup>10</sup></a></p>
+</blockquote>
+<p>Hume:</p>
+<blockquote>
+<p>Morals and criticism are not so properly objects of the understanding
+as of taste and sentiment. Beauty, whether moral or natural, is felt,
+more properly than perceived. Or if we reason concerning it, and
+endeavour to fix its standard, we regard a new fact, to wit, the general
+taste of mankind, or some such fact, which may be the object of
+reasoning and enquiry. <a href="#fn11" class="footnote-ref" id="fnref11"
+role="doc-noteref"><sup>11</sup></a></p>
+</blockquote>
+<p>See also:</p>
+<ul>
+<li><a href="human-condition.html#nihilism">Nihilism</a></li>
+</ul>
+<h3 id="is-ought-divide">Is-ought divide</h3>
+<ul>
+<li>Hume&#x2019;s <em>Treatise of Human Nature</em></li>
+<li>Black, M. (1964). The gap between &#x201C;is&#x201D; and &#x201C;should&#x201D;. <a href="#fn12"
+class="footnote-ref" id="fnref12"
+role="doc-noteref"><sup>12</sup></a></li>
+<li>Pigden, C. (2011). <a
+href="https://philosophynow.org/issues/83/Hume_on_Is_and_Ought">Hume on
+is and ought</a>.</li>
+</ul>
+<p>The end of section 3.1.1 from Hume&#x2019;s <em>Treatise of Human
+Nature</em>, &#x201C;Moral distinctions not derived from reason&#x201D;:</p>
+<blockquote>
+<p>In every system of morality, which I have hitherto met with, I have
+always remarked, that the author proceeds for some time in the ordinary
+way of reasoning, and establishes the being of a God, or makes
+observations concerning human affairs; when of a sudden I am surprized
+to find, that instead of the usual copulations of propositions, is, and
+is not, I meet with no proposition that is not connected with an ought,
+or an ought not. This change is imperceptible; but is, however, of the
+last consequence. For as this ought, or ought not, expresses some new
+relation or affirmation, it is necessary that it should be observed and
+explained; and at the same time that a reason should be given, for what
+seems altogether inconceivable, how this new relation can be a deduction
+from others, which are entirely different from it. But as authors do not
+commonly use this precaution, I shall presume to recommend it to the
+readers; and am persuaded, that this small attention would subvert all
+the vulgar systems of morality, and let us see, that the distinction of
+vice and virtue is not founded merely on the relations of objects, nor
+is perceived by reason. <a href="#fn13" class="footnote-ref"
+id="fnref13" role="doc-noteref"><sup>13</sup></a></p>
+</blockquote>
+<p>See also:</p>
+<ul>
+<li><a href="ethics.html#naturalistic-fallacy">Naturalistic
+fallacy</a></li>
+</ul>
+<h3 id="noncognitivism">Noncognitivism</h3>
+<ul>
+<li>Noncognitivism is the meta-ethical view that claims about ethics are
+not propper propositions; they are not truth apt.</li>
+<li>Emotivism; prescriptivism</li>
+<li>Hume, Hare, Carnap, Ayer</li>
+</ul>
+<h3 id="error-theory">Error Theory</h3>
+<ul>
+<li>Moral error theory is the meta-ethical view that claims about ethics
+are truth apt, but they are systematically false.</li>
+<li>J.L. Mackie (1917-1981)
+<ul>
+<li><em>Ethics: Inventing Right and Wrong</em> (1977) <a href="#fn14"
+class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a>
+<ul>
+<li>Argument from queerness</li>
+</ul></li>
+</ul></li>
+<li>Tully, I. (2014). <a
+href="https://1000wordphilosophy.com/2014/04/14/moral-error-theory/">Moral
+error theory</a>.</li>
+<li>Richard Joyce (b. 1966)</li>
+</ul>
+<h3 id="non-objectivism">Non-objectivism</h3>
+<ul>
+<li>Moral relativism, subjectivism</li>
+<li>TODO</li>
+</ul>
+<figure>
+<img src="img/meta-ethics.png" id="fig:meta-ethics"
+alt="Figure 1: Main divisions in meta-ethics by Joseph Schmid." />
+<figcaption aria-hidden="true">Figure 1: Main divisions in meta-ethics
+by <a href="https://www.youtube.com/watch?v=89cnR4pU_7k">Joseph
+Schmid</a>.</figcaption>
+</figure>
+<h2 id="moral-realism">Moral realism</h2>
+<h3 id="introduction-4">Introduction</h3>
+<ul>
+<li>Moral realism is the conjunction of three theses:
+<ol type="1">
+<li>moral cognitivism</li>
+<li>rejection of error theory; some moral judgements are true</li>
+<li>stance independence; some moral judgements are objectively true</li>
+</ol></li>
+<li>Moral realism can be further divided between moral naturalism and
+moral non-naturalism, discussed in the next section.</li>
+<li>Plato: <a
+href="https://en.wikipedia.org/wiki/Minos_(dialogue)"><em>Minos</em></a></li>
+<li>Objectivity, structure, context, invariance</li>
+</ul>
+<p>Plato:</p>
+<blockquote>
+<p>What about someone who believes in beautiful things, but doesn&#x2019;t
+believe in the beautiful itself and isn&#x2019;t able to follow anyone who
+could lead him to the knowledge of it? Don&#x2019;t you think he is living in a
+dream rather than a wakened state? Isn&#x2019;t this dreaming: whether asleep
+or awake, to think that a likeness is not a likeness but rather the
+thing itself that it is like?</p>
+<p>I certainly think that someone who does that is dreaming.</p>
+<p>But someone who, to take the opposite case, believes in the beautiful
+itself, can see both it and the things that participate in it and
+doesn&#x2019;t believe that the participants are it or that it itself is the
+participants&#x2014;he is living in a dream or is he awake?</p>
+<p>He&#x2019;s very much awake. <a href="#fn15" class="footnote-ref"
+id="fnref15" role="doc-noteref"><sup>15</sup></a></p>
+</blockquote>
+<h3 id="discussion-2">Discussion</h3>
+<ul>
+<li>Victor Kraft (1880-1975)
+<ul>
+<li>The positivist with ethics!</li>
+</ul></li>
+<li>Rand&#x2019;s Objectivism</li>
+<li>Railton, P. (1986). Moral realism. <a href="#fn16"
+class="footnote-ref" id="fnref16"
+role="doc-noteref"><sup>16</sup></a></li>
+<li>Contectualism
+<ul>
+<li>Bj&#xF6;rnsson &amp; Finlay (2010) <a href="#fn17" class="footnote-ref"
+id="fnref17" role="doc-noteref"><sup>17</sup></a></li>
+</ul></li>
+<li>Game/decision theory, again
+<ul>
+<li>Binmore</li>
+<li>&#x201C;The problem of what to do next&#x201D; - David Deutsch (<a
+href="https://www.youtube.com/watch?v=J21QuHrIqXg">yt</a>, <a
+href="http://www.bretthall.org/david-deutsch--sam-harris.html">txt</a>)</li>
+</ul></li>
+<li>Ethical/moral naturalism
+<ul>
+<li>See below: <a href="#moral-naturalism">Moral naturalism</a></li>
+<li>See the outline on <a
+href="naturalism.html#ethical-naturalism">Naturalism</a>.</li>
+</ul></li>
+<li>Murdoch, Iris. (1999). <em>The Sovereignty of Good</em>.</li>
+<li><a href="http://en.wikipedia.org/wiki/T.M._Scanlon">Scalon&#x2019;s
+Contractualism</a>
+<ul>
+<li>Scanlon, T.M. (2000). <em>What We Owe to Each Other</em>. <a
+href="#fn18" class="footnote-ref" id="fnref18"
+role="doc-noteref"><sup>18</sup></a></li>
+</ul></li>
+<li>Structuralism</li>
+</ul>
+<h2 id="moral-naturalism">Moral naturalism</h2>
+<h3 id="introduction-5">Introduction</h3>
+<ul>
+<li>Moral naturalism is the conjunction of moral realism and the thesis
+that moral facts are natural facts.</li>
+<li>Moral naturalism can be further divided into reductive and
+non-reductive moral naturalism.
+<ul>
+<li>Reductive moral naturalism rejects that the normative cannot be
+reduced to the descriptive; rejects the is-ought divide</li>
+</ul></li>
+</ul>
+<p>Stephen R. Brown:</p>
+<blockquote>
+<p><em>Ethical naturalism</em>: Cognitivist ethical theories in which
+important ethical norms and evaluations are grounded in natural facts.
+<a href="#fn19" class="footnote-ref" id="fnref19"
+role="doc-noteref"><sup>19</sup></a></p>
+</blockquote>
+<p>Moral naturalists:</p>
+<ul>
+<li>Moritz Schlick</li>
+<li>Victor Kraft</li>
+<li>Sam Harris</li>
+<li><a href="https://en.wikipedia.org/wiki/Cornell_realism">Cornell
+realism</a>
+<ul>
+<li>Richard Boyd, Nicholas Sturgeon, and David Brink</li>
+</ul></li>
+</ul>
+<h3 id="evolution-of-morals">Evolution of morals</h3>
+<ul>
+<li>de Waal <a href="#fn20" class="footnote-ref" id="fnref20"
+role="doc-noteref"><sup>20</sup></a></li>
+<li>Evolution of trust</li>
+<li>Patricia Churchland</li>
+</ul>
+<p>Churchland:</p>
+<blockquote>
+<p>Our moral behavior, while more complex than the social behavior of
+other animals, is similar in that it represents our attempt to manage
+well in the existing social ecology. &#x2026; from the perspective of
+neuroscience and brain evolution, the routine rejection of scientific
+approaches to moral behavior based on Hume&#x2019;s warning against deriving
+ought from is seems unfortunate, especially as the warning is limited to
+deductive inferences. &#x2026; The truth seems to be that values rooted in the
+circuitry for caring&#x2014;for well-being of self, offspring, mates, kin, and
+others&#x2014;shape social reasoning about many issues: conflict resolutions,
+keeping the peace, defense, trade, resource distribution, and many other
+aspects of social life in all its vast richness. <a href="#fn21"
+class="footnote-ref" id="fnref21"
+role="doc-noteref"><sup>21</sup></a></p>
+</blockquote>
+<ul>
+<li>Skarsaune, K.O. (2009). Darwin and moral realism: Survival of the
+iffiest. <a href="#fn22" class="footnote-ref" id="fnref22"
+role="doc-noteref"><sup>22</sup></a></li>
+<li>Michael Shermer and Massimo Pigliucci debate the role of science
+deriving morality:
+<ul>
+<li><a href="https://www.youtube.com/watch?v=4Qhlp-X3EHA">vid</a></li>
+<li><a
+href="http://rationallyspeaking.blogspot.com/2013/01/michael-shermer-on-morality.html">blog
+1</a></li>
+<li><a
+href="http://rationallyspeaking.blogspot.com/2013/02/towards-science-of-morality-reply-to.html">blog
+2</a></li>
+<li><a
+href="http://rationallyspeaking.blogspot.com/2013/02/toward-science-of-morality-annotated.html">blog
+3</a></li>
+<li><a
+href="http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html">blog
+4</a></li>
+</ul></li>
+<li>Joyce, R. (2016). <a
+href="http://personal.victoria.ac.nz/richard_joyce/acrobat/joyce_2016_evolution.and.moral.naturalism.pdf">Evolution
+and moral naturalism</a>. <a href="#fn23" class="footnote-ref"
+id="fnref23" role="doc-noteref"><sup>23</sup></a></li>
+</ul>
+<h3 id="game-theory">Game theory</h3>
+<ul>
+<li><a
+href="https://plato.stanford.edu/entries/logics-for-games/">Logics for
+analyzing games</a></li>
+<li>Binmore</li>
+<li><em>Natural Justice</em> (2011) <a href="#fn24" class="footnote-ref"
+id="fnref24" role="doc-noteref"><sup>24</sup></a></li>
+<li>Heads-up poker solved <a href="#fn25" class="footnote-ref"
+id="fnref25" role="doc-noteref"><sup>25</sup></a></li>
+<li><a
+href="https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem">Condorcet&#x2019;s
+jury theorem</a></li>
+</ul>
+<h3 id="science-of-morality">Science of morality</h3>
+<ul>
+<li>Sam Harris
+<ul>
+<li><em>The Moral Landscape: How science can determine human values</em>
+<a href="#fn26" class="footnote-ref" id="fnref26"
+role="doc-noteref"><sup>26</sup></a></li>
+<li>Video: Sisyphus55 (2020). <a
+href="https://www.youtube.com/watch?v=UaTE4ZxzLdA">The Zen
+Neuroscientist: A guide to Sam Harris</a>.</li>
+<li>Ethical realism and naturalism</li>
+<li>Review: Atran, S. (2011). <a
+href="https://nationalinterest.org/bookreview/sam-harriss-guide-nearly-everything-4893?nopaging=1">Sam
+Harris&#x2019;s guide to nearly everything</a>.</li>
+<li>Review: Blackford, R. (2011). <a
+href="http://jetpress.org/v21/blackford3.htm">Sam Harris&#x2019; <em>The Moral
+Landscape</em></a>.</li>
+<li>Review: Orr, H.A. (2011). <a
+href="https://web.archive.org/web/20121025081501/http://www.nybooks.com/articles/archives/2011/may/12/science-right-and-wrong/?pagination=false">The
+science of right and wrong</a>.</li>
+<li>Harris, S. (2011). <a
+href="https://www.huffpost.com/entry/a-response-to-critics_b_815742">A
+response to critics</a>.</li>
+<li>Harris, S., Blackford, R., &amp; Born, R. (2014). <a
+href="https://samharris.org/the-moral-landscape-challenge/">The moral
+landscape challenge: The winning essay</a>.</li>
+</ul></li>
+<li>Putnam
+<ul>
+<li><em>The Collapse of the Fact-value Dichotomy and Other Essays</em>
+<a href="#fn27" class="footnote-ref" id="fnref27"
+role="doc-noteref"><sup>27</sup></a></li>
+</ul></li>
+</ul>
+<p>See also:</p>
+<ul>
+<li><a href="naturalism.html#moral-naturalism">Moral naturalism</a> in
+the <a href="naturalism.html#moral-naturalism">Outline on
+naturalism</a></li>
+</ul>
+<h3 id="naturalistic-fallacy">Naturalistic fallacy</h3>
+<ul>
+<li><a
+href="http://en.wikipedia.org/wiki/Naturalistic_fallacy">Naturalistic
+fallacy</a></li>
+<li>Introduced by Moore, G.E. (1903). <em>Principia Ethica</em>. <a
+href="#fn28" class="footnote-ref" id="fnref28"
+role="doc-noteref"><sup>28</sup></a></li>
+<li>Is/ought divide going back to Hume</li>
+<li><a
+href="https://en.wikipedia.org/wiki/Open-question_argument">Moore&#x2019;s
+open-question argument</a></li>
+<li><a href="https://plato.stanford.edu/entries/moore-moral/">Moore&#x2019;s
+moral philosophy</a></li>
+<li>Schurz, G. (1997). <em>The Is/Ought Problem: An Investigation in
+Philosophical Logic</em>. <a href="#fn29" class="footnote-ref"
+id="fnref29" role="doc-noteref"><sup>29</sup></a></li>
+<li>Schurz, G. (2010). Comments on Restall, Russell, and Vranas. <a
+href="#fn30" class="footnote-ref" id="fnref30"
+role="doc-noteref"><sup>30</sup></a></li>
+<li>Schurz, G. (2010). Non-trivial versions of Hume&#x2019;s is-ought thesis.
+<a href="#fn31" class="footnote-ref" id="fnref31"
+role="doc-noteref"><sup>31</sup></a></li>
+<li>Russell, G. (2020). Logic isn&#x2019;t normative. <a href="#fn32"
+class="footnote-ref" id="fnref32"
+role="doc-noteref"><sup>32</sup></a></li>
+<li>Russell, G. (2021). How to prove Hume&#x2019;s law. <a href="#fn33"
+class="footnote-ref" id="fnref33"
+role="doc-noteref"><sup>33</sup></a></li>
+</ul>
+<p>Bunge:</p>
+<blockquote>
+<p>Still, a gap can be either ditch or abyss. And ditches are not
+chasms: we may be able to jump over the former though not over the
+latter. As a matter of fact, we bridge the fact-value gap every time we
+take action to attain a desirable goal. In other words,
+action-particularly if well planned-may lead from what is the case to
+what ought to be the case. In short, action can bridge the logical gap
+between is and ought, in particular between the real and the rational.
+This platitude has eluded most if not all value theorists, moral
+philosophers, and even action theorists&#x2014;which is witness to their
+indifference to the real world of action. <a href="#fn34"
+class="footnote-ref" id="fnref34"
+role="doc-noteref"><sup>34</sup></a></p>
+</blockquote>
+<p>See also:</p>
+<ul>
+<li><a href="naturalism.html#criticisms-of-naturalism">Criticisms of
+naturalism</a> in the <a href="naturalism.html">Outline on
+naturalism</a></li>
+<li><a href="ethics.html#is-ought-divide">Is-ought divide</a></li>
+</ul>
+<h3 id="nonreductive-moral-naturalism">Nonreductive moral
+naturalism</h3>
+<ul>
+<li>Rea, M.C. (2006). <a
+href="https://philarchive.org/archive/REANAM-4">Naturalism and moral
+realism</a>. <a href="#fn35" class="footnote-ref" id="fnref35"
+role="doc-noteref"><sup>35</sup></a></li>
+<li>Wedgwood, R. (2007). <em>The Nature of Normativity</em>. <a
+href="#fn36" class="footnote-ref" id="fnref36"
+role="doc-noteref"><sup>36</sup></a></li>
+<li>Klocksiem, J. (2019). Against reductive ethical naturalism. <a
+href="#fn37" class="footnote-ref" id="fnref37"
+role="doc-noteref"><sup>37</sup></a></li>
+<li>Ridge, M. (2019). <a
+href="https://plato.stanford.edu/entries/moral-non-naturalism/">Moral
+non-naturalism</a>. <em>SEP</em>.</li>
+</ul>
+<h2 id="political-philosophy">Political philosophy</h2>
+<h3 id="capitalism">Capitalism</h3>
+<ul>
+<li>Feudalism</li>
+<li>Mercantilism</li>
+<li>Liberalism
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/John_Stuart_Mill">John Stuart
+Mill</a> (1806-1873)</li>
+<li><a href="https://en.wikipedia.org/wiki/Ludwig_von_Mises">Ludwig von
+Mises</a> (1881-1973)</li>
+<li><a href="https://en.wikipedia.org/wiki/Friedrich_Hayek">Friedrich
+Hayek</a> (1899-1992)</li>
+<li>Hayek, F. (1945). The use of knowledge in society. <a href="#fn38"
+class="footnote-ref" id="fnref38"
+role="doc-noteref"><sup>38</sup></a></li>
+</ul></li>
+<li>Libertarianism
+<ul>
+<li>Nozick, R. (1974). <em>Anarchy, State, and Utopia</em>. <a
+href="#fn39" class="footnote-ref" id="fnref39"
+role="doc-noteref"><sup>39</sup></a></li>
+</ul></li>
+<li>Anarcho-capitalism
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Murray_Rothbard">Murray
+Rothbard</a> (1926-1995)</li>
+</ul></li>
+<li>Neoliberalism</li>
+</ul>
+<h3 id="marxism">Marxism</h3>
+<ul>
+<li>Karl Marx and Friedrich Engels
+<ul>
+<li><em>The Communist Manifesto</em> (1848)</li>
+<li>The proletariat vs the bourgeoisie</li>
+</ul></li>
+<li><a href="https://en.wikipedia.org/wiki/October_Revolution">October
+Revolution</a> AKA Bolshevik Revolution (1917)
+<ul>
+<li>Leon Trotsky (1879-1940)</li>
+</ul></li>
+<li><a
+href="https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism">Marxism-Leninism</a>
+<ul>
+<li>Joseph Stalin (1878-1953)</li>
+<li>Mao Zedong (1893-1976)</li>
+</ul></li>
+</ul>
+<h4 id="criticism-3">Criticism</h4>
+<p>Solzhenitsyn:</p>
+<blockquote>
+<p>If only there were evil people somewhere insidiously committing evil
+deeds, and it were necessary only to separate them from the rest of us
+and destroy them. But the line dividing good and evil cuts through the
+heart of every human being. And who is willing to destroy a piece of his
+own heart? <a href="#fn40" class="footnote-ref" id="fnref40"
+role="doc-noteref"><sup>40</sup></a></p>
+</blockquote>
+<ul>
+<li>von Mises, L. (1920). <em>Economic Calculation in the Socialist
+Commonwealth</em>.
+<ul>
+<li><a
+href="https://en.wikipedia.org/wiki/Economic_calculation_problem">Economic
+calculation problem</a></li>
+</ul></li>
+<li>Berlin, I. (1994). A message to the twenty first century. <a
+href="#fn41" class="footnote-ref" id="fnref41"
+role="doc-noteref"><sup>41</sup></a></li>
+</ul>
+<h3 id="socialism">Socialism</h3>
+<ul>
+<li>P&#xEB;tr Kropotkin. (1880). <a
+href="https://theanarchistlibrary.org/library/petr-kropotkin-an-appeal-to-the-young">An
+appeal to the young</a>.</li>
+<li><a href="https://en.wikipedia.org/wiki/Eugene_V._Debs">Eugene V.
+Debs</a> (1855-1926)</li>
+<li>Video: <a href="https://www.youtube.com/watch?v=rDK2chgNPZM">Ted
+Turner asks Carl Sagan if he is a socialist</a></li>
+</ul>
+<p>Shields:</p>
+<blockquote>
+<p>Every one of us has been warmed by fires we did not build. Every one
+of us has drank from wells we did not dig. <a href="#fn42"
+class="footnote-ref" id="fnref42"
+role="doc-noteref"><sup>42</sup></a></p>
+</blockquote>
+<h3 id="economics">Economics</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Harry_Markowitz">Harry
+Markowitz</a> (b. 1927)
+<ul>
+<li><a
+href="https://en.wikipedia.org/wiki/Modern_portfolio_theory">Modern
+portfolio theory</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Markowitz_model">Markowitz
+model</a></li>
+<li>Markowitz, H.M. (1952). Portfolio selection. <a href="#fn43"
+class="footnote-ref" id="fnref43"
+role="doc-noteref"><sup>43</sup></a></li>
+</ul></li>
+<li><a href="https://en.wikipedia.org/wiki/Eugene_Fama">Eugene Fama</a>
+(b. 1939)
+<ul>
+<li><a
+href="https://en.wikipedia.org/wiki/Efficient-market_hypothesis">Efficient-market
+hypothesis</a></li>
+<li>Fama, E. (1970). <a href="http://www.e-m-h.org/Fama70.pdf">Efficient
+capital markets: A review of theory and empirical work</a>. <a
+href="#fn44" class="footnote-ref" id="fnref44"
+role="doc-noteref"><sup>44</sup></a></li>
+</ul></li>
+<li><a href="https://en.wikipedia.org/wiki/Amartya_Sen">Amartya Sen</a>
+(b. 1933)</li>
+<li>Ross, D. (2005). <em>Economic Theory and Cognitive Science:
+Microexplanation</em>. <a href="#fn45" class="footnote-ref" id="fnref45"
+role="doc-noteref"><sup>45</sup></a></li>
+</ul>
+<h2 id="free-speech">Free speech</h2>
+<h3 id="introduction-6">Introduction</h3>
+<ul>
+<li>John Milton. (1644). <a
+href="https://en.wikipedia.org/wiki/Areopagitica"><em>Areopagitica</em></a>.</li>
+<li><a
+href="https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution">First
+Amendment to the United States Constitution</a> (1791)</li>
+<li>Orwell, G. (1946). <a
+href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/">Why
+I write</a>.</li>
+<li><a
+href="https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes_Jr.">Oliver
+Wendell Holmes Jr.</a> (1841-1935)</li>
+<li>Christopher Hitchens. (2006). <a
+href="https://www.youtube.com/watch?v=olefVguutfo">Talk on free
+speech</a> at University of Toronto&#x2019;s Hart House Debating Club.
+<ul>
+<li>&#x201C;Don&#x2019;t take refuge in the false security of concensus.&#x201D;</li>
+</ul></li>
+</ul>
+<h3 id="hate-speech">Hate speech</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Section_230">Section
+230</a></li>
+</ul>
+<h3 id="cancel-culture">Cancel culture</h3>
+<ul>
+<li>NY Times Editorial Board. (2022). <a
+href="https://www.nytimes.com/2022/03/18/opinion/cancel-culture-free-speech-poll.html">America
+has a free speech problem</a>.</li>
+</ul>
+<h3 id="copyright">Copyright</h3>
+<ul>
+<li>Muller, A.C. (2010). <a
+href="http://www.acmuller.net/wikipedia.html">Wikipedia and the matter
+of accountability</a>.</li>
+<li>Ferguson, K. (2015). Video: <a
+href="https://www.youtube.com/watch?v=nJPERZDfyWc">Everything is a
+remix</a>.</li>
+</ul>
+<h2 id="protests-and-non-violence">Protests and (non-)violence</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ahimsa">Ahimsa</a> - Indian
+principle of nonviolence
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Satyagraha">Satyagraha</a> -
+&#x201C;holding firmly to truth&#x201D;, coined by Mahatma Gandhi</li>
+</ul></li>
+<li><a href="https://en.wikipedia.org/wiki/Mahatma_Gandhi">Mahatma
+Gandhi</a> (1869-1948)</li>
+<li><a
+href="https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.">Martin
+Luther King Jr.</a> (1929-1968)</li>
+<li>Osterweil, V. (2014). <a
+href="https://thenewinquiry.com/in-defense-of-looting">In defense of
+looting</a>. August 21, 2014.</li>
+</ul>
+<h2 id="feminism">Feminism</h2>
+<p>Waves:</p>
+<ol type="1">
+<li>Women&#x2019;s suffrage movements (19th and early 20th centuries)
+<ul>
+<li>19th Amendment</li>
+</ul></li>
+<li>Women&#x2019;s liberation movement (1960s-1980s)
+<ul>
+<li>de Beauvoir, S. (1949). <em>The Second Sex</em>.</li>
+<li>FDA approves the first birth control pill, Enovid in 1960.</li>
+<li><a
+href="https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964">Civil
+Rights Act of 1964</a></li>
+<li>Thomson, J.J. (1971). A defense of abortion. <a href="#fn46"
+class="footnote-ref" id="fnref46"
+role="doc-noteref"><sup>46</sup></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Title_IX">Title IX of the
+Education Amendments of 1972</a></li>
+<li><em>Roe v. Wade</em> (1973)</li>
+</ul></li>
+<li>Third wave (1990s-2012)
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Feminist_sex_wars">Feminist
+sex wars</a></li>
+<li><a
+href="https://en.wikipedia.org/wiki/Sex-positive_feminism">Sex-positive
+feminism</a></li>
+<li><a
+href="https://en.wikipedia.org/wiki/Intersectionality">Intersectionality</a>
+(1989)</li>
+<li><em>Planned Parenthood v. Casey</em> (1991)</li>
+<li>In 1991, Anita Hill testified before the Senate Judiciary Committee
+that Supreme Court nominee Clarence Thomas had sexually harassed her at
+work.</li>
+<li>Snyder-Hall, R.C. (2010). Third-wave feminism and the defense of
+&#x201C;choice&#x201D;. <a href="#fn47" class="footnote-ref" id="fnref47"
+role="doc-noteref"><sup>47</sup></a></li>
+</ul></li>
+<li>Fourth wave (2012-present)
+<ul>
+<li>Use of social media; #MeToo movement</li>
+<li>LGBTQ; Trans rights movement</li>
+<li><em>Dobbs v. Jackson Women&#x2019;s Health Organization</em> (2022)</li>
+</ul></li>
+</ol>
+<p>See also:</p>
+<ul>
+<li><a href="scientific-realism.html#feminist-epistemology">Feminist
+epistemology</a></li>
+</ul>
+<h2 id="regret">Regret</h2>
+<p>Thoreau:</p>
+<blockquote>
+<p>Make the most of your regrets; never smother your sorrow, but tend
+and cherish it till it comes to have a separate and integral interest.
+To regret deeply is to live afresh. <a href="#fn48" class="footnote-ref"
+id="fnref48" role="doc-noteref"><sup>48</sup></a></p>
+</blockquote>
+<ul>
+<li>Chand, S. (2016). <a
+href="https://adaa.org/learn-from-us/from-the-experts/blog-posts/consumer/how-handle-regret">How
+to handle regret</a>.</li>
+<li>Marino, G. (2016). <a
+href="https://www.nytimes.com/2016/11/13/opinion/whats-the-use-of-regret.html">What&#x2019;s
+the use of regret?</a></li>
+<li>Pigliucci, M. (2016). <a
+href="https://howtobeastoic.wordpress.com/2016/11/25/whats-the-point-of-regret/">What&#x2019;s
+the point of regret?</a></li>
+<li>Danaher, J. (2019). <a
+href="https://philosophicaldisquisitions.blogspot.com/2019/01/the-wisdom-of-regret-and-fallacy-of.html">The
+wisdom of regret and the fallacy of regret minimisation</a>.</li>
+<li>Malesic, J. (2020). <a
+href="https://hedgehogreview.com/issues/monsters/articles/je-regrette-tout">Je
+regrette tout: Does moral growth demand regret?</a></li>
+</ul>
+<p>See also:</p>
+<ul>
+<li><a href="human-condition.html#depression">Depression</a> in the <a
+href="human-condition.html">Outline on the human condition</a>.</li>
+</ul>
+<h2 id="compassion">Compassion</h2>
+<ul>
+<li>Forgiveness</li>
+<li>Empathy</li>
+<li>Growth mindset</li>
+<li>Everett L. Worthington Jr.</li>
+<li>Wade, N. (2020). <a
+href="https://aeon.co/essays/forgiveness-therapy-can-free-you-from-the-hurts-of-the-past">Forgive
+and be free</a>.</li>
+<li>Kristin Neff - <a
+href="https://self-compassion.org/the-three-elements-of-self-compassion-2/">Self-compassion</a>.</li>
+<li>Serena Chen. (2018). <a
+href="https://hbr.org/2018/09/give-yourself-a-break-the-power-of-self-compassion">Give
+yourself a break: The power of self-compassion</a>.</li>
+<li>Compassion in Buddhism</li>
+<li>Compassion in Schopenhauer&#x2019;s <em>On the Basis of Morality</em></li>
+<li>Limits of compassion
+<ul>
+<li>Rand being against compassion.</li>
+<li>Prinz, J. (2011). Against empathy. <a href="#fn49"
+class="footnote-ref" id="fnref49"
+role="doc-noteref"><sup>49</sup></a></li>
+</ul></li>
+<li>Anger
+<ul>
+<li>Callard, A. (2020). <a
+href="https://bostonreview.net/forum/agnes-callard-philosophy-anger/">The
+philosophy of anger</a>.</li>
+</ul></li>
+<li>Doug Polk interviewing Garrett Adelstein (2021): <a
+href="https://www.youtube.com/watch?v=zS-Z2MDtlb8">Being gentle with
+yourself</a>.</li>
+</ul>
+<h2 id="ecology">Ecology</h2>
+<ul>
+<li>Scalability
+<ul>
+<li>Hatcher, B. (2019). <a
+href="https://www.hermetica.info/CarryingCapacity.html">Carrying
+capacity: Our wickedest problem</a>.</li>
+</ul></li>
+<li>Vegetarianism/veganism
+<ul>
+<li>Peter Singer (b. 1946)</li>
+<li>Michael Huemer (b. 1969)</li>
+<li>Jonathan Safran Foer (b. 1977)</li>
+</ul></li>
+<li><a
+href="https://plato.stanford.edu/entries/justice-climate/">Climate
+justice</a></li>
+<li><a
+href="https://en.wikipedia.org/wiki/Timothy_Morton#Hyperobjects">Hyperobjects</a>
+<ul>
+<li>Timothy Morton (b. 1968)</li>
+</ul></li>
+</ul>
+<h2 id="aesthetics">Aesthetics</h2>
+<h3 id="music-theory">Music theory</h3>
+<ul>
+<li>Pythagoras on music</li>
+<li>Twelve-tone equal temperment: <span class="math inline">\(2^{1/12}
+\approx 1.05946\)</span></li>
+<li>George Russell. (1953). <a
+href="https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization"><em>Lydian
+Chromatic Concept of Tonal Organization</em></a>.</li>
+<li><a href="https://en.wikipedia.org/wiki/Hemiola">Hemiola</a>:
+3/2</li>
+</ul>
+<h3 id="art">Art</h3>
+<ul>
+<li>Pettit, P. (1983). The possibility of aesthetic realism. <a
+href="#fn50" class="footnote-ref" id="fnref50"
+role="doc-noteref"><sup>50</sup></a></li>
+<li>Semiotics</li>
+<li>Roger Scruton</li>
+<li>Scruton, R. (2018). Why beauty matters. <a href="#fn51"
+class="footnote-ref" id="fnref51"
+role="doc-noteref"><sup>51</sup></a></li>
+</ul>
+<h3 id="taste">Taste</h3>
+<ul>
+<li>Hume, D. (1757). <a
+href="https://courses.lumenlearning.com/suny-classicreadings/chapter/david-hume-on-opinion-and-taste/"><em>Of
+the Standard of Taste</em></a>.</li>
+<li>Goldman, A.H. (1993). Realism about aesthetic properties. <a
+href="#fn52" class="footnote-ref" id="fnref52"
+role="doc-noteref"><sup>52</sup></a></li>
+<li>Loeb, D. (2003). <a
+href="https://philpapers.org/rec/DONGR">Gastronomic realism: A
+cautionary tale</a>. <a href="#fn53" class="footnote-ref" id="fnref53"
+role="doc-noteref"><sup>53</sup></a></li>
+<li>Gerkin, R.C. &amp; Wiltschko, A.B. (2022). <a
+href="https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html">Digitizing
+Smell: Using molecular maps to understand odor</a>. <em>Google AI
+Blog</em>.</li>
+</ul>
+<h2 id="my-thoughts">My thoughts</h2>
+<p>Debating moral realism with Sean Carroll.</p>
+<p>AMA question about naturalism and moral realism.</p>
+<ul>
+<li>My question on Sean Carroll&#x2019;s <a
+href="http://www.reddit.com/r/IAmA/comments/26msnd/i_am_sean_carroll_theoretical_physicist_and/chskkvr">AMA
+on reddit</a></li>
+<li>Repost of the question on his <a
+href="http://www.preposterousuniverse.com/blog/2014/05/27/the-meaning-of-life-2/">blog</a></li>
+</ul>
+<blockquote>
+<p>As a fellow physicist (experimenter with ATLAS) also with an interest
+in philosophy, I&#x2019;m really impressed by your efforts to push naturalism
+and engage philosophers. I fully agree with your materialist and
+reductionist arguments, supporting that we do understand physics within
+the everyday regime, and this should inform our metaphysics, philosophy
+of mind, criticism of pseudoscience, etc. I also like that you emphasize
+emergence as being an important concept in explaining the nested
+emergent ontologies in chemistry, biology, economics, etc. My question
+is why you seem to draw a hard line that ethics and morality cannot be
+analyzed in the same way. You seem to entertain the criticisms that some
+people say of &#x201C;scientism&#x201D;, that there are some things (like ethics) to
+which the reductive program of science will not be able to explain. This
+strikes me as totally inconsistent with the thrust of reductionism and
+naturalism. I think there are reasonable explanations for why ethics
+emerge as a set of regularities and good strategies anytime you have
+groups of people. The constraints on ethics seem to be completely
+determined by the natural world, including the limits of resources, the
+needs of our physiology, the laws of probability and game theory, etc.
+There is no fundamental is/ought divide. &#x201C;Ought&#x201D; is a higher descriptive
+term we give to actions that bring out good situations, for which there
+are objective metrics, such as health and satisfaction. In this regard,
+I&#x2019;m sympathetic with some utilitarians and what Sam Harris seems to be
+describing in the Moral Landscape. Why do you think emergence from
+natural laws can introduce new concepts like temperature, phase
+transitions, supply and demand, but not ethics?</p>
+</blockquote>
+<p>Sean&#x2019;s reply:</p>
+<blockquote>
+<p>Ryan &#x2014; Essentially, science is about describing the world, not
+passing judgment on it. Temperature, phase transitions, and supply and
+demand are all concepts that helps us understand what happens in the
+world. Morality is just a completely different endeavor. (Of course you
+can scientifically study how human beings actually behave &#x2014; including
+what they judge to be &#x201C;moral&#x201D; &#x2014; but that&#x2019;s different than studying how
+they should behave.) Scientific claims can be judged by experiments,
+moral claims cannot.</p>
+<p>See also:</p>
+<p><a
+href="http://www.preposterousuniverse.com/blog/2010/05/03/you-cant-derive-ought-from-is/"
+class="uri">http://www.preposterousuniverse.com/blog/2010/05/03/you-cant-derive-ought-from-is/</a>
+<a
+href="http://www.preposterousuniverse.com/blog/2011/03/16/moral-realism/"
+class="uri">http://www.preposterousuniverse.com/blog/2011/03/16/moral-realism/</a>
+<a
+href="http://www.preposterousuniverse.com/blog/2013/03/07/science-morality-possible-worlds-scientism-and-ways-of-knowing/"
+class="uri">http://www.preposterousuniverse.com/blog/2013/03/07/science-morality-possible-worlds-scientism-and-ways-of-knowing/</a>
+<a
+href="http://www.preposterousuniverse.com/blog/2011/01/31/morality-health-and-science/"
+class="uri">http://www.preposterousuniverse.com/blog/2011/01/31/morality-health-and-science/</a>
+<a href="https://www.youtube.com/watch?v=4HCUAR1vH_M"
+class="uri">https://www.youtube.com/watch?v=4HCUAR1vH_M</a></p>
+</blockquote>
+<p>TODO: Drafting a reply.</p>
+<p>I know I&#x2019;m a consequentialist and a moral realist, but those are
+broad categories.</p>
+<p>There&#x2019;s no unified or received view of the fact/value,
+descriptive/normative divide since Hume. But that doesn&#x2019;t mean there
+aren&#x2019;t naturalistic philosophers that deny the dichotomy, i.e., would
+support the idea roughly that there is a scientific way of discussing
+and determining what is better. Health and nutrition seem like obvious
+plausible examples, really any reasoned strategy is normative: it tells
+one what one should do given what is known. In this sense many
+naturalists are aligned with game theoretic reasoning about what we
+should do.</p>
+<p>Thought experiment on moral naturalism:</p>
+<ul>
+<li>Agree that chess (or poker) has better and worse play</li>
+<li>Add another task to the competition: do laundry while playing, also
+while trying to sell a product over the phone, or a more typical
+triatholan: cycle, swim, run, etc. As we add tasks, there doesn&#x2019;t stop
+being better and worse overall strategies, albeit complication
+grows.</li>
+<li>Finally, we ask the meta question of what to do next.</li>
+</ul>
+<h2 id="annotated-bibliography">Annotated bibliography</h2>
+<div class="clickmore">
+<a id="link:annotated_bibliography" class="closed" onclick="toggle_more('annotated_bibliography')">
+Click to show annotated bibliography </a>
+</div>
+<div id="annotated_bibliography" class="more">
+<h3
+id="putnam-h.-2004.-the-collapse-of-the-factvalue-dichotomy-and-other-essays.">Putnam,
+H. (2004). <em>The Collapse of the Fact/Value Dichotomy and Other
+Essays</em>.</h3>
+<ul>
+<li><span class="citation"
+data-cites="Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other">Putnam
+(2004)</span></li>
+</ul>
+<h4 id="my-thoughts-1">My thoughts</h4>
+<ul>
+<li>TODO</li>
+</ul>
+<hr />
+<h3 id="portmore-d.-2011.-commonsense-consequentialism.">Portmore, D.
+(2011). <em>Commonsense Consequentialism</em>.</h3>
+<ul>
+<li><span class="citation"
+data-cites="Portmore_2011_Commonsense_Consequentialism">Portmore
+(2011)</span></li>
+</ul>
+<h4 id="my-thoughts-2">My thoughts</h4>
+<ul>
+<li>TODO</li>
+</ul>
+<hr />
+<h3 id="more-articles-to-do">More articles to do</h3>
+<ul>
+<li>TODO</li>
+</ul>
+</div>
+<h2 id="links-and-encyclopedia-articles">Links and encyclopedia
+articles</h2>
+<div class="clickmore">
+<a id="link:encyclopedia_articles" class="closed" onclick="toggle_more('encyclopedia_articles')">
+Click to show links </a>
+</div>
+<div id="encyclopedia_articles" class="more">
+<h3 id="sep">SEP</h3>
+<ul>
+<li><a
+href="http://plato.stanford.edu/entries/aristotle-ethics/">Aristotle&#x2019;s
+Ethics</a> - eudaimonia</li>
+<li><a
+href="https://plato.stanford.edu/entries/justice-climate/">Climate
+justice</a></li>
+<li><a href="http://plato.stanford.edu/entries/humanism-civic/">Civic
+Humanism</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/consequentialism/">Consequentialism</a></li>
+<li><a
+href="https://plato.stanford.edu/entries/constructivism-metaethics/">Constructivism
+in Metaethics</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/decision-theory/">Decision
+Theory</a></li>
+<li><a href="http://plato.stanford.edu/entries/logic-deontic/">Deontic
+Logic</a></li>
+<li><a href="http://plato.stanford.edu/entries/doing-allowing/">Doing
+vs.&#xA0;Allowing Harm</a></li>
+<li><a href="http://plato.stanford.edu/entries/game-theory/">Game
+Theory</a></li>
+<li><a href="http://plato.stanford.edu/entries/epictetus/">Epictetus
+(55-135)</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/game-evolutionary/">Evolutionary
+Game Theory</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/existentialism/">Existentialism</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/fitting-attitude-theories/">Fitting
+Attitude Theories of Value</a></li>
+<li><a
+href="https://plato.stanford.edu/entries/feminism-argumentation/">Feminist
+perspectives on argumentation</a></li>
+<li><a href="https://plato.stanford.edu/entries/philippa-foot/">Foot,
+Philippa (1920-2010)</a></li>
+<li><a href="http://plato.stanford.edu/entries/game-ethics/">Game Theory
+and Ethics</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/grounds-moral-status/">Grounds
+of Moral Status</a></li>
+<li><a href="http://plato.stanford.edu/entries/hume/">Hume, David
+(1711-1776)</a></li>
+<li><a href="https://plato.stanford.edu/entries/hume-aesthetics/">Hume&#x2019;s
+aesthetics</a></li>
+<li><a href="http://plato.stanford.edu/entries/hume-moral/">Hume&#x2019;s moral
+philosophy</a></li>
+<li><a
+href="https://plato.stanford.edu/entries/identity-politics/">Identity
+politics</a></li>
+<li><a href="http://plato.stanford.edu/entries/legal-positivism/">Legal
+Positivism</a></li>
+<li><a
+href="https://plato.stanford.edu/entries/logics-for-games/">Logics for
+analyzing games</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/metaethics/">Metaethics</a></li>
+<li><a href="http://plato.stanford.edu/entries/moore-moral/">Moore&#x2019;s
+Moral Philosophy</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/moral-anti-realism/">Moral
+Anti-Realism</a></li>
+<li><a href="http://plato.stanford.edu/entries/moral-cognitivism/">Moral
+Cognitivism vs.&#xA0;Non-Cognitivism</a></li>
+<li><a href="http://plato.stanford.edu/entries/moral-dilemmas/">Moral
+Dilemmas</a></li>
+<li><a
+href="https://plato.stanford.edu/entries/morality-biology/">Morality and
+Evolutionary Biology</a></li>
+<li><a href="http://plato.stanford.edu/entries/moral-motivation/">Moral
+Motivation</a></li>
+<li><a href="http://plato.stanford.edu/entries/naturalism-moral/">Moral
+Naturalism</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/moral-non-naturalism/">Moral
+Non-Naturalism</a></li>
+<li><a href="http://plato.stanford.edu/entries/moral-realism/">Moral
+Realism</a></li>
+<li><a href="http://plato.stanford.edu/entries/reasoning-moral/">Moral
+Reasoning</a></li>
+<li><a href="http://plato.stanford.edu/entries/moral-relativism/">Moral
+Relativism</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/moral-responsibility/">Moral
+Responsibility</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/moral-sentimentalism/">Moral
+Sentimentalism</a></li>
+<li><a href="http://plato.stanford.edu/entries/skepticism-moral/">Moral
+Skepticism</a></li>
+<li><a href="https://plato.stanford.edu/entries/music/">Music,
+Philosophy of</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/natural-law-ethics/">Natural Law
+Tradition in Ethics</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/lawphil-naturalism/">Naturalism
+in Legal Philosophy</a></li>
+<li><a
+href="https://plato.stanford.edu/entries/social-construction-naturalistic/">Naturalistic
+Approaches to Social Construction</a></li>
+<li><a href="http://plato.stanford.edu/entries/lawphil-nature/">Nature
+of Law</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/rationality-normative-utility/">Normative
+Theories of Rational Choice: Expected Utility</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/meaning-normativity/">Normativity
+of Meaning and Content</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/original-position/">Original
+Position</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/reasons-just-vs-expl/">Reasons
+for Action: Justification vs.&#xA0;Explanation</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/repugnant-conclusion/">Repugnant
+Conclusion, The</a></li>
+<li><a href="http://plato.stanford.edu/entries/russell-moral/">Russell&#x2019;s
+Moral Philosophy</a></li>
+<li><a
+href="https://plato.stanford.edu/entries/socialism/">Socialism</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/torture/">Torture</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/utilitarianism-history/">Utilitarianism,
+The History of</a></li>
+<li><a href="http://plato.stanford.edu/entries/value-theory/">Value
+Theory</a></li>
+<li><a href="http://plato.stanford.edu/entries/ethics-virtue/">Virture
+Ethics</a></li>
+</ul>
+<h3 id="iep">IEP</h3>
+<ul>
+<li><a href="http://www.iep.utm.edu/abortion/">Abortion</a></li>
+<li><a href="http://www.iep.utm.edu/collecti/">Collective Moral
+Responsibility</a></li>
+<li><a href="http://www.iep.utm.edu/conseque/">Consequentialism</a></li>
+<li><a href="http://www.iep.utm.edu/egoism/">Egoism</a></li>
+<li><a href="http://www.iep.utm.edu/epictetu/">Epictetus
+(55-135)</a></li>
+<li><a href="http://www.iep.utm.edu/ethics/">Ethics</a></li>
+<li><a href="http://www.iep.utm.edu/evol-eth/">Evolutionary
+Ethics</a></li>
+<li><a href="http://www.iep.utm.edu/evol-psy/">Evolutionary
+Psychology</a></li>
+<li><a href="http://www.iep.utm.edu/existent/">Existentialism</a></li>
+<li><a href="http://www.iep.utm.edu/game-th/">Game Theory</a></li>
+<li><a href="http://www.iep.utm.edu/p-macint/">MacIntyre, Alasdair (b.
+1929): The Political Philosophy of</a></li>
+<li><a href="http://www.iep.utm.edu/metaethi/">Metaethics</a></li>
+<li><a href="https://www.iep.utm.edu/anci-mod/">Modern morality and
+ancient ethics</a></li>
+<li><a href="http://www.iep.utm.edu/moral-eg/">Moral
+Egalitarianism</a></li>
+<li><a href="http://www.iep.utm.edu/mor-epis/">Moral
+Epistemology</a></li>
+<li><a href="http://www.iep.utm.edu/m-cog-sc/">Morality and Cognitive
+Science</a></li>
+<li><a href="http://www.iep.utm.edu/morlpat/">Moral
+Particularism</a></li>
+<li><a href="http://www.iep.utm.edu/moralrea/">Moral Realism</a></li>
+<li><a href="http://www.iep.utm.edu/moral-re/">Moral Relativism</a></li>
+<li><a href="http://www.iep.utm.edu/music-an/">Music, Analytic
+Perspectives in the Philosophy of</a></li>
+<li><a href="http://www.iep.utm.edu/nihilism/">Nihilism</a></li>
+<li><a href="http://www.iep.utm.edu/non-cogn/">Non-Cognitivism in
+Ethics</a></li>
+<li><a
+href="http://plato.stanford.edu/entries/identity-ethics/">Personal
+Identity and Ethics</a></li>
+<li><a href="http://www.iep.utm.edu/ross-wd/">Ross, William David
+(1877-1971)</a></li>
+<li><a href="https://www.iep.utm.edu/russ-eth/">Russell, Bertrand:
+Ethics</a></li>
+<li><a href="http://www.iep.utm.edu/stoiceth/">Stoic Ethics</a></li>
+<li><a href="http://www.iep.utm.edu/util-a-r/">Utilitarianism, Act and
+Rule</a></li>
+<li><a href="http://www.iep.utm.edu/kraft/">Victor Kraft
+(1880-1975)</a></li>
+</ul>
+<h3 id="wikipedia">Wikipedia</h3>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Absurdism">Absurdism</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jeremy_Bentham">Bentham,
+Jeremy (1748-1832)</a></li>
+<li><a
+href="https://en.wikipedia.org/wiki/Big_Book_(thought_experiment)">Big
+Book thought experiment</a></li>
+<li><a
+href="https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem">Condorcet&#x2019;s
+jury theorem</a></li>
+<li><a
+href="http://en.wikipedia.org/wiki/Consequentialism">Consequentialism</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Emotivism">Emotivism</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Ethical_naturalism">Ethical
+naturalism</a></li>
+<li><a
+href="http://en.wikipedia.org/wiki/Ethical_non-naturalism">Ethical
+non-naturalism</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Ethics">Ethics</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Epictetus">Epictetus
+(55-135)</a></li>
+<li><a
+href="https://en.wikipedia.org/wiki/Eudaimonia">Eudaimonia</a></li>
+<li><a
+href="http://en.wikipedia.org/wiki/Existentialism">Existentialism</a></li>
+<li><a
+href="http://en.wikipedia.org/wiki/Existential_nihilism">Existential
+nihilism</a></li>
+<li><a
+href="https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction">Fact-value
+distinction</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Good_reasons_approach">Good
+reasons approach</a></li>
+<li><a
+href="http://en.wikipedia.org/wiki/Is%E2%80%93ought_problem">Is-ought
+problem</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kingmaker_scenario">Kingmaker
+scenario</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Legal_positivism">Legal
+positivism</a></li>
+<li><a
+href="http://en.wikipedia.org/wiki/Meta-ethics">Meta-ethics</a></li>
+<li><a href="http://en.wikipedia.org/wiki/John_Stuart_Mill">Mill, John
+Stuart (1806-1873)</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Moral_realism">Moral
+Realism</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Moral_relativism">Moral
+Relativism</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Iris_Murdoch">Murdoch, Iris
+(1919-1999)</a></li>
+<li><a
+href="http://en.wikipedia.org/wiki/Naturalistic_fallacy">Naturalistic
+fallacy</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Nihilism">Nihilism</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Normative_ethics">Normative
+ethics</a></li>
+<li><a
+href="https://en.wikipedia.org/wiki/Political_philosophy">Political
+philosophy</a></li>
+<li><a
+href="http://en.wikipedia.org/wiki/Jean-Jacques_Rousseau">Rousseau,
+Jean-Jacques (1712-1778)</a></li>
+<li><a href="http://en.wikipedia.org/wiki/T.M._Scanlon">Scalon, Thomas
+M. (b. 1940): Contractualism</a></li>
+<li><a href="http://en.wikipedia.org/wiki/The_Social_Contract">Social
+Contract, The</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Trolley_problem">Trolley
+problem</a></li>
+<li><a
+href="http://en.wikipedia.org/wiki/Utilitarianism">Utilitarianism</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Veil_of_ignorance">Veil of
+ignorance</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Victor_Kraft">Victor Kraft
+(1880-1975)</a></li>
+<li><a
+href="https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem">Von
+Neumann-Morgenstern utility theorem</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Yang_Zhu">Yang Zhu (440-360
+BCE)</a></li>
+</ul>
+<h3 id="others">Others</h3>
+<ul>
+<li><a
+href="http://rationalwiki.org/wiki/Consequentialism">Consequentialism</a>
+- RationalWiki.org</li>
+<li><a href="http://rationalwiki.org/wiki/Hume%27s_law">Hume&#x2019;s law</a> -
+RationalWiki.org</li>
+<li><a
+href="http://www.slate.com/articles/health_and_science/science/2015/03/does_common_core_teach_children_to_be_immoral_as_justin_mcbrayer_says_meta.html">&#x201C;The
+Kids Are All Right: Have we made our children into moral monsters?&#x201D;</a>
+- Daniel Engber</li>
+<li><a
+href="http://www.theguardian.com/news/oliver-burkeman-s-blog/2013/aug/27/scientism-wars-sam-harris-elephant">&#x201C;Scientism
+wars: there&#x2019;s an elephant in the room, and its name is Sam
+Harris&#x201D;</a></li>
+<li><a
+href="http://opinionator.blogs.nytimes.com/2015/03/02/why-our-children-dont-think-there-are-moral-facts/">&#x201C;Why
+Our Children Don&#x2019;t Think There Are Moral Facts&#x201D;</a> - Justin
+McBrayer</li>
+<li><a
+href="http://righteousmind.com/why-i-think-sam-harris-is-wrong-about-morality/">&#x201C;Why
+I think Sam Harris is wrong about morality&#x201D;</a> - Jonathan Haidt</li>
+<li><a href="http://ncase.me/trust/">The evolution of trust</a></li>
+<li><a
+href="https://core-econ.org/the-economy/book/text/0-3-contents.html"><em>The
+Economy</em></a> - an online textbook on economics</li>
+</ul>
+<h3 id="videos">Videos</h3>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=lLH70qkROWQ">Floridi,
+Luciano. (2016). Ethics in the Age of Information.</a>
+<ul>
+<li><a
+href="https://www.youtube.com/v/lLH70qkROWQ&amp;start=4216&amp;end=4266">Floridi
+settles the trolley problem in the way I view it: &#x201C;Inaction is
+action&#x201D;</a></li>
+</ul></li>
+<li><a href="https://www.youtube.com/watch?v=OzATDiLFH8Q">Arkani-Hamed,
+Nima. (2016). The Morality of Fundamental Physics.</a></li>
+<li><a href="https://www.youtube.com/watch?v=cyW5z-M2yzw">Music And
+Measure Theory</a> - 3Blue1Brown</li>
+<li><a href="https://www.youtube.com/watch?v=1Hqm0dYKUx4">Why It&#x2019;s
+Impossible to Tune a Piano</a> - minutephysics</li>
+</ul>
+</div>
+<!-- REFERENCES -->
+<h2 id="references">References</h2>
+<p></p>
+<div id="refs" class="references csl-bib-body hanging-indent"
+data-line-spacing="2" role="doc-bibliography">
+<div id="ref-Ayars_2016_Can_model_free_reinforcement_learning_explain"
+class="csl-entry" role="doc-biblioentry">
+Ayars, A. (2016). <span class="nocase">Can model-free reinforcement
+learning explain deontological moral judgments?</span>
+<em>Cognition</em>, <em><span>150</span></em>, 232&#x2013;242.
+</div>
+<div id="ref-Berlin_1994_A_message_to_the_twenty_first_century"
+class="csl-entry" role="doc-biblioentry">
+Berlin, I. (1994). <span class="nocase">A message to the twenty-first
+century</span>. (Lecture after he received the honorary degree of Doctor
+of Laws at the University of Toronto). <a
+href="http://www.sjpcommunications.org/images/uploads/documents/Isaiah_Berlin.pdf">http://www.sjpcommunications.org/images/uploads/documents/Isaiah_Berlin.pdf</a>
+</div>
+<div id="ref-Binmore_2011_Natural_Justice" class="csl-entry"
+role="doc-biblioentry">
+Binmore, K. (2011). <em><span>Natural Justice</span></em>. <span>Oxford
+University Press</span>.
+</div>
+<div id="ref-Bjornsson_2010_Metaethical_contextualism_defended"
+class="csl-entry" role="doc-biblioentry">
+Bjornsson, G. &amp; Finlay, S. (2010). <span class="nocase">Metaethical
+contextualism defended.</span> <em>Ethics</em>,
+<em><span>121</span></em>, 7&#x2013;36.
+</div>
+<div id="ref-Black_1964_The_gap_between_is_and_should" class="csl-entry"
+role="doc-biblioentry">
+Black, M. (1964). <span class="nocase">The gap between "is" and
+"should".</span> <em>Philosophical Review</em>,
+<em><span>73</span></em>, 165&#x2013;181.
+</div>
+<div id="ref-Bowling_2015_Heads_up_limit_holdem_poker_is_solved"
+class="csl-entry" role="doc-biblioentry">
+Bowling, M., Burch, N., Johanson, M., &amp; Tammelin, O. (2015). <span
+class="nocase">Heads-up limit hold&#x2019;em poker is solved.</span>
+<em>Science</em>, <em><span>347</span></em>, 145&#x2013;149. <a
+href="http://science.sciencemag.org/content/347/6218/145">http://science.sciencemag.org/content/347/6218/145</a>
+</div>
+<div id="ref-Brown_2008_Moral_Virtue_and_Nature_A_defense_of_ethical"
+class="csl-entry" role="doc-biblioentry">
+Brown, S. R. (2008). <em><span class="nocase">Moral Virtue and Nature: A
+defense of ethical naturalism</span></em>. <span>Continuum</span>.
+</div>
+<div
+id="ref-Bunge_2001_Philosophy_in_Crisis_The_Need_for_Reconstruction"
+class="csl-entry" role="doc-biblioentry">
+Bunge, M. (2001). <em><span class="nocase">Philosophy in Crisis: The
+Need for Reconstruction</span></em>. <span>Prometheus Books</span>.
+</div>
+<div id="ref-Churchland_2011_What_Neuroscience_Tells_Us_About_Morality"
+class="csl-entry" role="doc-biblioentry">
+Churchland, P. S. (2011). <em><span>What Neuroscience Tells Us About
+Morality</span></em>. <span>Princeton University Press</span>.
+</div>
+<div id="ref-Cooper_1997_Plato_Complete_works" class="csl-entry"
+role="doc-biblioentry">
+Cooper, J. M. &amp; Hutchinson, D. S. (1997). <em><span
+class="nocase">Plato: Complete works</span></em>. <span>Hackett
+Publishing</span>.
+</div>
+<div id="ref-Cushman_2013_Action_outcome_and_value" class="csl-entry"
+role="doc-biblioentry">
+Cushman, F. (2013). <span class="nocase">Action, outcome, and
+value.</span> <em>Personality and Social Psychology Review</em>,
+<em><span>17</span></em>, 273&#x2013;292.
+</div>
+<div id="ref-deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes"
+class="csl-entry" role="doc-biblioentry">
+de Waal, F. (1982). <em><span class="nocase">Chimpanzee Politics: Power
+and Sex among Apes</span></em>. <span>Johns Hopkins University
+Press</span>.
+</div>
+<div id="ref-Fama_1970_Efficient_capital_markets_A_review_of_theory"
+class="csl-entry" role="doc-biblioentry">
+Fama, E. (1970). <span class="nocase">Efficient capital markets: A
+review of theory and empirical work.</span> <em>Journal of Finance</em>,
+<em><span>25</span></em>, 383&#x2013;417. <a
+href="http://www.e-m-h.org/Fama70.pdf">http://www.e-m-h.org/Fama70.pdf</a>
+</div>
+<div id="ref-Goldman_1993_Realism_about_aesthetic_properties"
+class="csl-entry" role="doc-biblioentry">
+Goldman, A. H. (1993). <span class="nocase">Realism about aesthetic
+properties.</span> <em>The Journal of Aesthetics and Art Criticism</em>,
+<em><span>51</span></em>, 31&#x2013;37.
+</div>
+<div id="ref-Harris_2010_The_Moral_Landscape_How_science_can_determine"
+class="csl-entry" role="doc-biblioentry">
+Harris, S. (2010). <em><span class="nocase">The Moral Landscape: How
+science can determine human values</span></em>. <span>Free Press</span>.
+</div>
+<div id="ref-Hayek_1945_The_use_of_knowledge_in_society"
+class="csl-entry" role="doc-biblioentry">
+Hayek, F. (1945). <span class="nocase">The use of knowledge in
+society.</span> <em>The American Economic Review</em>,
+<em><span>35</span></em>, 519&#x2013;530.
+</div>
+<div id="ref-Hume_2007_An_Enquiry_Concerning_Human_Understanding"
+class="csl-entry" role="doc-biblioentry">
+Hume, D. (2007). <em><span>An Enquiry Concerning Human
+Understanding</span></em>. (P. Millican, Ed.). <span>Oxford University
+Press</span>. (Originally published in 1748).
+</div>
+<div id="ref-Hume_2009_A_Treatise_of_Human_Nature" class="csl-entry"
+role="doc-biblioentry">
+&#x2014;&#x2014;&#x2014;. (2009). <em><span class="nocase">A Treatise of Human
+Nature</span></em>. <span>Floating Press</span>. (Originally published
+in 1740).
+</div>
+<div id="ref-Joyce_2016_Evolution_and_moral_naturalism"
+class="csl-entry" role="doc-biblioentry">
+Joyce, R. (2016). <span class="nocase">Evolution and moral
+naturalism</span>. In <em><span class="nocase">The Blackwell Companion
+to Naturalism</span></em> (pp. 369&#x2013;385). <span>John Wiley &amp;
+Sons</span>. <a
+href="http://personal.victoria.ac.nz/richard_joyce/acrobat/joyce_2016_evolution.and.moral.naturalism.pdf">http://personal.victoria.ac.nz/richard_joyce/acrobat/joyce_2016_evolution.and.moral.naturalism.pdf</a>
+</div>
+<div id="ref-Klocksiem_2019_Against_reductive_ethical_naturalism"
+class="csl-entry" role="doc-biblioentry">
+Klocksiem, J. (2019). <span class="nocase">Against reductive ethical
+naturalism.</span> <em>Philosophical Studies</em>,
+<em><span>176</span></em>, 1991&#x2013;2010.
+</div>
+<div id="ref-Loeb_2003_Gastronomic_realism_A_cautionary_tale"
+class="csl-entry" role="doc-biblioentry">
+Loeb, D. (2003). <span class="nocase">Gastronomic realism: A cautionary
+tale.</span> <em>Journal of Theoretical and Philosophical
+Psychology</em>, <em><span>23</span></em>, 30&#x2013;49. <a
+href="https://philpapers.org/rec/DONGR">https://philpapers.org/rec/DONGR</a>
+</div>
+<div id="ref-Mackie_2007_Ethics_Inventing_Right_and_Wrong"
+class="csl-entry" role="doc-biblioentry">
+Mackie, J. L. (2007). <em><span class="nocase">Ethics: Inventing Right
+and Wrong</span></em>. <span>Penguin</span>. (First edition published in
+1977).
+</div>
+<div id="ref-Markowitz_1952_Portfolio_selection" class="csl-entry"
+role="doc-biblioentry">
+Markowitz, H. M. (1952). <span class="nocase">Portfolio
+selection.</span> <em>The Journal of Finance</em>,
+<em><span>7</span></em>, 77&#x2013;91.
+</div>
+<div id="ref-Moore_1988_Principia_Ethica" class="csl-entry"
+role="doc-biblioentry">
+Moore, G. E. (1988). <em><span>Principia Ethica</span></em>.
+<span>Prometheus Books</span>. (First published in 1903).
+</div>
+<div id="ref-Nozick_2013_Anarchy_State_and_Utopia" class="csl-entry"
+role="doc-biblioentry">
+Nozick, R. (2013). <em><span class="nocase">Anarchy, State, and
+Utopia</span></em>. <span>Basic Books</span>. (First edition published
+in 1974).
+</div>
+<div id="ref-Parfit_1984_Reasons_and_Pearson" class="csl-entry"
+role="doc-biblioentry">
+Parfit, D. (1984). <em><span class="nocase">Reasons and
+Pearson</span></em>. <span>Clarendon Press</span>.
+</div>
+<div id="ref-Pettit_1983_The_possibility_of_aesthetic_realism"
+class="csl-entry" role="doc-biblioentry">
+Pettit, P. (1983). <span class="nocase">The possibility of aesthetic
+realism</span>. In E. Schaper (Ed.), <em><span class="nocase">Pleasure,
+Preference and Value: Studies in philosophical aesthetics</span></em>.
+<span>Cambridge University Press</span>.
+</div>
+<div id="ref-Portmore_2011_Commonsense_Consequentialism"
+class="csl-entry" role="doc-biblioentry">
+Portmore, D. (2011). <em><span>Commonsense Consequentialism</span></em>.
+<span>Oxford University Press</span>.
+</div>
+<div id="ref-Prinz_2011_Against_empathy" class="csl-entry"
+role="doc-biblioentry">
+Prinz, J. (2011). <span class="nocase">Against empathy.</span> <em>The
+Southern Journal of Philosophy</em>, <em><span>49</span></em>, 214&#x2013;233.
+</div>
+<div
+id="ref-Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other"
+class="csl-entry" role="doc-biblioentry">
+Putnam, H. (2004). <em><span class="nocase">The Collapse of the
+Fact/Value Dichotomy and Other Essays</span></em>. <span>Harvard
+University Press</span>.
+</div>
+<div id="ref-Railton_1986_Moral_realism" class="csl-entry"
+role="doc-biblioentry">
+Railton, P. (1986). <span class="nocase">Moral realism.</span>
+<em>Philosophical Review</em>, <em><span>95</span></em>, 163&#x2013;207.
+</div>
+<div id="ref-Rawls_1999_A_Theory_of_Justice" class="csl-entry"
+role="doc-biblioentry">
+Rawls, J. (1999). <em><span class="nocase">A Theory of
+Justice</span></em> (2nd ed.). <span>Harvard University Press</span>.
+(First edition published in 1971).
+</div>
+<div id="ref-Rea_2006_Naturalism_and_moral_realism" class="csl-entry"
+role="doc-biblioentry">
+Rea, M. C. (2006). <span class="nocase">Naturalism and moral
+realism</span>. In <em><span class="nocase">Knowledge and
+Reality</span></em> (pp. 215&#x2013;241). Dordrecht: <span>Springer</span>. <a
+href="https://philarchive.org/archive/REANAM-4">https://philarchive.org/archive/REANAM-4</a>
+</div>
+<div id="ref-Ross_2005_Economic_Theory_and_Cognitive_Science"
+class="csl-entry" role="doc-biblioentry">
+Ross, D. (2005). <em><span class="nocase">Economic Theory and Cognitive
+Science: Microexplanation</span></em>. <span>Bradford</span>.
+</div>
+<div id="ref-Russell_2020_Logic_isnt_normative" class="csl-entry"
+role="doc-biblioentry">
+Russell, G. (2020). <span class="nocase">Logic isn&#x2019;t normative.</span>
+<em>Inquiry</em>, <em><span>63</span></em>, 371&#x2013;388.
+</div>
+<div id="ref-Russell_2021_How_to_prove_Humes_law" class="csl-entry"
+role="doc-biblioentry">
+&#x2014;&#x2014;&#x2014;. (2021). <span class="nocase">How to prove Hume&#x2019;s law.</span>
+<em>Journal of Philosophical Logic</em>. (forthcoming).
+</div>
+<div id="ref-Scanlon_2000_What_We_Owe_to_Each_Other" class="csl-entry"
+role="doc-biblioentry">
+Scanlon, T. M. (2000). <em><span class="nocase">What We Owe to Each
+Other</span></em>. <span>Belknap Press of Harvard University
+Press</span>.
+</div>
+<div id="ref-Schurz_1997_The_IsOught_Problem_An_Investigation"
+class="csl-entry" role="doc-biblioentry">
+Schurz, G. (1997). <em><span class="nocase">The Is/Ought Problem: An
+Investigation in Philosophical Logic</span></em>. Dortrecht:
+<span>Kluwer</span>.
+</div>
+<div id="ref-Schurz_2010_Comments_on_Restall_Russell_and_Vranas"
+class="csl-entry" role="doc-biblioentry">
+&#x2014;&#x2014;&#x2014;. (2010a). <span class="nocase">Comments on Restall, Russell, and
+Vranas</span>. In C. Pigden (Ed.), <em><span class="nocase">Hume, Is and
+Ought: New Essays</span></em> (pp. 268&#x2013;271). <span>Palgrave
+MacMillan</span>.
+</div>
+<div id="ref-Schurz_2010_Non_trivial_versions_of_Humes_is_ought_thesis"
+class="csl-entry" role="doc-biblioentry">
+&#x2014;&#x2014;&#x2014;. (2010b). <span class="nocase">Non-trivial versions of Hume&#x2019;s
+is-ought thesis</span>. In C. Pigden (Ed.), <em><span
+class="nocase">Hume, Is and Ought: New Essays</span></em> (pp. 198&#x2013;216).
+<span>Palgrave MacMillan</span>.
+</div>
+<div id="ref-Scruton_2018_Why_beauty_matters" class="csl-entry"
+role="doc-biblioentry">
+Scruton, R. (2018). <span class="nocase">Why beauty matters.</span>
+<em>The Monist</em>, <em><span>101</span></em>, 9&#x2013;16.
+</div>
+<div
+id="ref-Skarsaune_2009_Darwin_and_moral_realism_Survival_of_the_iffiest"
+class="csl-entry" role="doc-biblioentry">
+Skarsaune, K. O. (2009). <span class="nocase">Darwin and moral realism:
+Survival of the iffiest.</span> <em>Philosophical Studies</em>,
+<em><span>152</span></em>, 229&#x2013;243.
+</div>
+<div
+id="ref-Snyder_Hall_2010_Third_wave_feminism_and_the_defense_of_choice"
+class="csl-entry" role="doc-biblioentry">
+Snyder-Hall, R. C. (2010). <span class="nocase">Third-wave feminism and
+the defense of "choice".</span> <em>Perspectives on Politics</em>,
+<em><span>8</span></em>, 255&#x2013;261.
+</div>
+<div id="ref-Solzhenitsyn_1974_The_Gulag_Archipelago" class="csl-entry"
+role="doc-biblioentry">
+Solzhenitsyn, A. (1974). <em><span>The Gulag Archipelago</span></em>.
+(T. P. Whitney, Trans.). Harper &amp; Row.
+</div>
+<div id="ref-Thomson_1971_A_defense_of_abortion" class="csl-entry"
+role="doc-biblioentry">
+Thomson, J. J. (1971). <span class="nocase">A defense of
+abortion.</span> <em>Philosophy &amp; Public Affairs</em>,
+<em><span>1</span></em>, 47&#x2013;66.
+</div>
+<div id="ref-Wedgwood_2007_The_Nature_of_Normativity" class="csl-entry"
+role="doc-biblioentry">
+Wedgwood, R. (2007). <em><span class="nocase">The Nature of
+Normativity</span></em>. <span>Oxford University Press</span>.
+</div>
+</div>
+<section class="footnotes footnotes-end-of-document"
+role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1" role="doc-endnote"><p><em>The Journal</em> of Henry David
+Thoreau, March 5, 1838.<a href="#fnref1" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn2" role="doc-endnote"><p><span class="citation"
+data-cites="Rawls_1999_A_Theory_of_Justice">Rawls (1999)</span>.<a
+href="#fnref2" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn3" role="doc-endnote"><p>Kant, I. (1785). <em>Groundwork of
+the Metaphysic of Morals</em>, &#xA7;1.<a href="#fnref3"
+class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn4" role="doc-endnote"><p><span class="citation"
+data-cites="Cushman_2013_Action_outcome_and_value">Cushman
+(2013)</span>.<a href="#fnref4" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn5" role="doc-endnote"><p><span class="citation"
+data-cites="Ayars_2016_Can_model_free_reinforcement_learning_explain">Ayars
+(2016)</span>.<a href="#fnref5" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn6" role="doc-endnote"><p><span class="citation"
+data-cites="Portmore_2011_Commonsense_Consequentialism">Portmore
+(2011)</span>.<a href="#fnref6" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn7" role="doc-endnote"><p><span class="citation"
+data-cites="Parfit_1984_Reasons_and_Pearson">Parfit (1984)</span>.<a
+href="#fnref7" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn8" role="doc-endnote"><p><span class="citation"
+data-cites="Nozick_2013_Anarchy_State_and_Utopia">Nozick (2013)</span>,
+p.&#xA0;TODO.<a href="#fnref8" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn9" role="doc-endnote"><p>Joyce, R. (2021). <a
+href="https://plato.stanford.edu/entries/moral-anti-realism/">Moral
+anti-realism</a>, <em>SEP</em>.<a href="#fnref9" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn10" role="doc-endnote"><p>Plato, <em>Republic I</em> 338c,
+<span class="citation"
+data-cites="Cooper_1997_Plato_Complete_works">Cooper &amp; Hutchinson
+(1997)</span>, p.&#xA0;983.<a href="#fnref10" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn11" role="doc-endnote"><p><span class="citation"
+data-cites="Hume_2007_An_Enquiry_Concerning_Human_Understanding">Hume
+(2007)</span>, Section XII, p.&#xA0;120.<a href="#fnref11"
+class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn12" role="doc-endnote"><p><span class="citation"
+data-cites="Black_1964_The_gap_between_is_and_should">Black
+(1964)</span>.<a href="#fnref12" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn13" role="doc-endnote"><p><span class="citation"
+data-cites="Hume_2009_A_Treatise_of_Human_Nature">Hume (2009)</span>,
+p.&#xA0;715-6.<a href="#fnref13" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn14" role="doc-endnote"><p><span class="citation"
+data-cites="Mackie_2007_Ethics_Inventing_Right_and_Wrong">Mackie
+(2007)</span>.<a href="#fnref14" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn15" role="doc-endnote"><p>Plato, <em>Republic V</em> 476c,
+<span class="citation"
+data-cites="Cooper_1997_Plato_Complete_works">Cooper &amp; Hutchinson
+(1997)</span>, p.&#xA0;1103.<a href="#fnref15" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn16" role="doc-endnote"><p><span class="citation"
+data-cites="Railton_1986_Moral_realism">Railton (1986)</span>.<a
+href="#fnref16" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn17" role="doc-endnote"><p><span class="citation"
+data-cites="Bjornsson_2010_Metaethical_contextualism_defended">Bjornsson
+&amp; Finlay (2010)</span>.<a href="#fnref17" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn18" role="doc-endnote"><p><span class="citation"
+data-cites="Scanlon_2000_What_We_Owe_to_Each_Other">Scanlon
+(2000)</span>.<a href="#fnref18" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn19" role="doc-endnote"><p><span class="citation"
+data-cites="Brown_2008_Moral_Virtue_and_Nature_A_defense_of_ethical">Brown
+(2008)</span>.<a href="#fnref19" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn20" role="doc-endnote"><p><span class="citation"
+data-cites="deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes">de
+Waal (1982)</span>.<a href="#fnref20" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn21" role="doc-endnote"><p><span class="citation"
+data-cites="Churchland_2011_What_Neuroscience_Tells_Us_About_Morality">Churchland
+(2011)</span>.<a href="#fnref21" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn22" role="doc-endnote"><p><span class="citation"
+data-cites="Skarsaune_2009_Darwin_and_moral_realism_Survival_of_the_iffiest">Skarsaune
+(2009)</span>.<a href="#fnref22" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn23" role="doc-endnote"><p><span class="citation"
+data-cites="Joyce_2016_Evolution_and_moral_naturalism">Joyce
+(2016)</span>.<a href="#fnref23" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn24" role="doc-endnote"><p><span class="citation"
+data-cites="Binmore_2011_Natural_Justice">Binmore (2011)</span>.<a
+href="#fnref24" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn25" role="doc-endnote"><p><span class="citation"
+data-cites="Bowling_2015_Heads_up_limit_holdem_poker_is_solved">Bowling,
+Burch, Johanson, &amp; Tammelin (2015)</span>.<a href="#fnref25"
+class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn26" role="doc-endnote"><p><span class="citation"
+data-cites="Harris_2010_The_Moral_Landscape_How_science_can_determine">Harris
+(2010)</span>.<a href="#fnref26" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn27" role="doc-endnote"><p><span class="citation"
+data-cites="Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other">Putnam
+(2004)</span>.<a href="#fnref27" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn28" role="doc-endnote"><p><span class="citation"
+data-cites="Moore_1988_Principia_Ethica">Moore (1988)</span>.<a
+href="#fnref28" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn29" role="doc-endnote"><p><span class="citation"
+data-cites="Schurz_1997_The_IsOught_Problem_An_Investigation">Schurz
+(1997)</span>.<a href="#fnref29" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn30" role="doc-endnote"><p><span class="citation"
+data-cites="Schurz_2010_Comments_on_Restall_Russell_and_Vranas">Schurz
+(2010a)</span>.<a href="#fnref30" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn31" role="doc-endnote"><p><span class="citation"
+data-cites="Schurz_2010_Non_trivial_versions_of_Humes_is_ought_thesis">Schurz
+(2010b)</span>.<a href="#fnref31" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn32" role="doc-endnote"><p><span class="citation"
+data-cites="Russell_2020_Logic_isnt_normative">Russell (2020)</span>.<a
+href="#fnref32" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn33" role="doc-endnote"><p><span class="citation"
+data-cites="Russell_2021_How_to_prove_Humes_law">Russell
+(2021)</span>.<a href="#fnref33" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn34" role="doc-endnote"><p><span class="citation"
+data-cites="Bunge_2001_Philosophy_in_Crisis_The_Need_for_Reconstruction">Bunge
+(2001)</span>, p.&#xA0;193.<a href="#fnref34" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn35" role="doc-endnote"><p><span class="citation"
+data-cites="Rea_2006_Naturalism_and_moral_realism">Rea (2006)</span>.<a
+href="#fnref35" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn36" role="doc-endnote"><p><span class="citation"
+data-cites="Wedgwood_2007_The_Nature_of_Normativity">Wedgwood
+(2007)</span>, ch.&#xA0;9.<a href="#fnref36" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn37" role="doc-endnote"><p><span class="citation"
+data-cites="Klocksiem_2019_Against_reductive_ethical_naturalism">Klocksiem
+(2019)</span>.<a href="#fnref37" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn38" role="doc-endnote"><p><span class="citation"
+data-cites="Hayek_1945_The_use_of_knowledge_in_society">Hayek
+(1945)</span>.<a href="#fnref38" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn39" role="doc-endnote"><p><span class="citation"
+data-cites="Nozick_2013_Anarchy_State_and_Utopia">Nozick
+(2013)</span>.<a href="#fnref39" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn40" role="doc-endnote"><p><span class="citation"
+data-cites="Solzhenitsyn_1974_The_Gulag_Archipelago">Solzhenitsyn
+(1974)</span>, Part 1, Ch. 4.<a href="#fnref40" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn41" role="doc-endnote"><p><span class="citation"
+data-cites="Berlin_1994_A_message_to_the_twenty_first_century">Berlin
+(1994)</span>.<a href="#fnref41" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn42" role="doc-endnote"><p>Shields, M. (2020). <a
+href="https://www.youtube.com/watch?v=a1MKG_3jC9g&amp;ab_channel=PBSNewsHour">The
+last night of Mark Shields on the PBS News Hour</a>.<a href="#fnref42"
+class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn43" role="doc-endnote"><p><span class="citation"
+data-cites="Markowitz_1952_Portfolio_selection">Markowitz
+(1952)</span>.<a href="#fnref43" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn44" role="doc-endnote"><p><span class="citation"
+data-cites="Fama_1970_Efficient_capital_markets_A_review_of_theory">Fama
+(1970)</span>.<a href="#fnref44" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn45" role="doc-endnote"><p><span class="citation"
+data-cites="Ross_2005_Economic_Theory_and_Cognitive_Science">Ross
+(2005)</span>.<a href="#fnref45" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn46" role="doc-endnote"><p><span class="citation"
+data-cites="Thomson_1971_A_defense_of_abortion">Thomson (1971)</span>.<a
+href="#fnref46" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn47" role="doc-endnote"><p><span class="citation"
+data-cites="Snyder_Hall_2010_Third_wave_feminism_and_the_defense_of_choice">Snyder-Hall
+(2010)</span>.<a href="#fnref47" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn48" role="doc-endnote"><p><em>The Journal</em> of Henry David
+Thoreau, November 13, 1839. (What the hell did Thoreau know about regret
+at age 22?)<a href="#fnref48" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn49" role="doc-endnote"><p><span class="citation"
+data-cites="Prinz_2011_Against_empathy">Prinz (2011)</span>.<a
+href="#fnref49" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn50" role="doc-endnote"><p><span class="citation"
+data-cites="Pettit_1983_The_possibility_of_aesthetic_realism">Pettit
+(1983)</span>.<a href="#fnref50" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn51" role="doc-endnote"><p><span class="citation"
+data-cites="Scruton_2018_Why_beauty_matters">Scruton (2018)</span>.<a
+href="#fnref51" class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn52" role="doc-endnote"><p><span class="citation"
+data-cites="Goldman_1993_Realism_about_aesthetic_properties">Goldman
+(1993)</span>.<a href="#fnref52" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn53" role="doc-endnote"><p><span class="citation"
+data-cites="Loeb_2003_Gastronomic_realism_A_cautionary_tale">Loeb
+(2003)</span>.<a href="#fnref53" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+</ol>
+</section>
+
+</div> <!-- end pagecontainer -->
+</div> <!-- end mainbody -->
+
+<div class="nav">
+<ul>
+    <li> <a href="./">&#8634;&nbsp;Contents</a> </li>
+    <li> <a href="#site_header">&#8613;&nbsp;Top</a> </li>
+    <li> <a href="./mind.html">&#8612;&nbsp;Previous</a> </li>
+    <li> <a href="./human-condition.html">&#8614;&nbsp;Next</a> </li>
+</ul>
+</div>
+
+<!--
+<div id="afterbody">
+</div>
+-->
+
+<div id="site_footer">
+  <div class="signature">
+    <p><i>Ryan Reece</i></p>
+    <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
+    <p>Tue Dec 27, 2022</p>
+  </div>
+  <div class="license">
+    <p>&#xA9; 2014-2022 <a href="http://rreece.github.io/">Ryan Reece</a>.
+All rights reserved.</p>
+    <p>Made with <a href="https://github.com/rreece/markdown-memo">markdown-memo</a>.</p>
+  </div>
+  <div style="clear:both;"></div>
+</div>
+
+<!-- disqus stuff -->
+<div id="disqus_stuff">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'ryans-outline-of-philosophy';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript><p>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></p></noscript>
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'ryans-outline-of-philosophy';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+</div> <!-- end disqus_stuff -->
+
+</body>
+</html>

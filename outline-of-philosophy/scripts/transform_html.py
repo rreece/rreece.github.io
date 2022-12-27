@@ -76,8 +76,8 @@ def main():
                             f_pagetoc = open(pagetoc_html)
                             newline = ''.join(f_pagetoc.readlines())
                             f_pagetoc.close()
-#                            os.system('rm -f %s' % (pagetoc_html))
-#                        os.system('rm -f %s' % (pagetoc_md))
+                            os.system('rm -f %s' % (pagetoc_html))
+                        os.system('rm -f %s' % (pagetoc_md))
 
             ## generate and insert page navigation
             if not reo:

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 NAME
-    make_toc.py - make table of contents for markdown-memo
+    make_index.py - make table of contents for markdown-memo
 
 SYNOPSIS
     Put synposis here.
@@ -73,12 +73,9 @@ def main():
             if not args.ignorefour:
                 heading_tags.append('h4')
 
-            print("DEBUG: ", soup.find_all(heading_tags), flush=True)
             for tag in soup.find_all(heading_tags):
                 level   = int(tag.name[1:])
                 id      = clean_unicode(tag.get('id'))
-                print("DEBUG: dir(tag) = ", dir(tag), flush=True)
-                print("DEBUG: attributes = ", tag.attributes, flush=True)
                 name    = tag.text.strip()
                 alink   = '%s.html' % root
                 if alink == 'index.html':
@@ -93,7 +90,7 @@ def main():
                 else:
                     f_out.write('%s1.  [%s](%s#%s)\n' % ('    '*indent_level, name, alink, id ) )
 
-#        os.system('rm -f %s.index-tmp.html' % root)
+        os.system('rm -f %s.index-tmp.html' % root)
 
     f_out.write('\n')
     f_out.close()
