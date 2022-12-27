@@ -258,6 +258,7 @@ Idealism
 -   [Friedrich Wilhelm Joseph Schelling](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling) (1775-1854)
 -   [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx) (1818-1883)
 -   [J.M.E. McTaggart](https://en.wikipedia.org/wiki/J._M._E._McTaggart) (1866-1925)
+    -   McTaggart, J.E. (1908). [The unreality of time](https://philarchive.org/archive/MCTTUO). [^McTaggart1908]
 -   [Benedetto Croce](https://en.wikipedia.org/wiki/Benedetto_Croce) (1866-1952)
 -   [Giovanni Gentile](https://en.wikipedia.org/wiki/Giovanni_Gentile) (1875-1944)
 
@@ -267,11 +268,7 @@ See also:
 -   [Hinduism](human-condition.html#hinduism)
 -   [Panpsychism](mind.html#panpsychism)
 
-
-### Discussion
-
--   [Solipsism](https://en.wikipedia.org/wiki/Solipsism)
--   [Markus Gabriel equates German idealism with realism](https://www.youtube.com/watch?v=_TjK5sWvKJs) (3 mins)
+[^McTaggart1908]: @McTaggart_1908_The_unreality_of_time\.
 
 
 ### Criticism
@@ -291,6 +288,12 @@ See also:
 
 [^Atherton1996]: @Atherton_1996_Lady_Mary_shepherds_case_against_George_Berkeley\.
 [^Moore1903]: @Moore_1903_The_refutation_of_idealism\.
+
+
+### Discussion
+
+-   [Solipsism](https://en.wikipedia.org/wiki/Solipsism)
+-   [Markus Gabriel equates German idealism with realism](https://www.youtube.com/watch?v=_TjK5sWvKJs) (3 mins)
 
 
 Instrumentalism

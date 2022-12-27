@@ -38,6 +38,7 @@ Lavers, G. (2015). Carnap, Quine, quantification and ontology. In *Quantifiers, 
 Loewer, B. (2019). Humean laws and explanation. *Principia: an international journal of epistemology*, 23, 373--385.
 Maxwell, G. (1968). Scientific methodology and the causal theory of perception. *Studies in Logic and the Foundations of Mathematics*, 49, 148--177.
 McRobert, J. (2002). Mary Shepherd's two senses of necessary connection. https://philpapers.org/rec/MCRMST-2
+McTaggart, J.E. (1908). The unreality of time. *Mind*, 17, 457--474. https://philarchive.org/archive/MCTTUO
 Moore, G.E. (1903). The refutation of idealism. *Mind*, 12, 433--453.
 Moore, G.E. (1925). A defence of common sense. In Muirhead, J.H. (Ed.) *Contemporary British Philosophy* (pp. 147--170). London: Allen and Unwin.
 Moore, G.E. (1939). Proof of an external world. *Proceedings of the British Academy*, 25, 273--300.
