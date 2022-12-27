@@ -40,7 +40,7 @@ Wittgenstein's evolution
 Word meanings in NLP
 -------------------------------------------------------------------------------
 
--   Mikolov [^Mikolov2013]
+-   Mikolov: word2vec [^Mikolov2013]
 -   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
 -   Alammar, J. (2019). [The illustrated word2vec](https://jalammar.github.io/illustrated-word2vec/).
 -   Migdal, P. (2017). [king - man + woman is queen; but why?](https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html)

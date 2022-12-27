@@ -7,6 +7,7 @@ Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Conver
 {ATLAS Collaboration}. (2012). Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector. *Physical Review D*, 86, 032003. https://arxiv.org/abs/1207.0319
 {ATLAS and CMS Collaborations}. (2011). Procedure for the LHC Higgs boson search combination in Summer 2011. http://cds.cern.ch/record/1379837 [CMS-NOTE-2011-005, ATL-PHYS-PUB-2011-11.]
 {ATLAS Statistics Forum}. (2011). The CLs method: Information for conference speakers. http://www.pp.rhul.ac.uk/~cowan/stat/cls/CLsInfo.pdf
+Aytekin, C. (2022). Neural networks are decision trees. https://arxiv.org/abs/2210.05189
 Bach, F. (2022). *Learning Theory from First Principles*. https://www.di.ens.fr/~fbach/ltfp_book.pdf [(Draft)]
 Bahdanau, D., Cho, K. & Bengio, Y. (2015). Neural machine translation by jointly learning to align and translate. *International Conference on Learning Representations, 3rd*, 2015. https://arxiv.org/abs/1409.0473
 Bahri, Y., Kadmon, J., Pennington, J., Schoenholz, S.S., Sohl-Dickstein, J., & Ganguli1, S. (2020). Statistical mechanics of deep learning. *Annual Review of Condensed Matter Physics*, 11, 501--528.
@@ -107,6 +108,7 @@ Goodman, N. (1955). *Fact, Fiction, and Forecast*. Harvard University Press.
 Goodman, S.N. (1999). Toward evidence-based medical statistics 1: The P value fallacy. *Annals of Internal Medicine*, 130(12), 995--1004. https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/goodman1.pdf
 Goodman, S.N. (1999). Toward evidence-based medical statistics 2: The Bayes factor. *Annals of Internal Medicine*, 130(12), 1005--1013. https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/goodman2.pdf
 Gorard, S. & Gorard, J. (2016). What to do instead of significance testing? Calculating the 'number of counterfactual cases needed to disturb a finding'. *International Journal of Social Research Methodology*, 19, 481--490.
+Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). Why do tree-based models still outperform deep learning on tabular data? https://arxiv.org/abs/2207.08815
 Haber, E. & Ruthotto, L. (2017). Stable architectures for deep neural networks. https://arxiv.org/abs/1705.03341
 Hacking, I. (1965). *Logic of Statistical Inference*. Cambridge University Press.
 Hacking, I. (1971). Jacques Bernoulli's Art of conjecturing. *The British Journal for the Philosophy of Science*, 22, 209--229.
