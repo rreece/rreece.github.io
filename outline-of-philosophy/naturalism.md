@@ -389,6 +389,8 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
 
 ### Analytic/continental divide
 
+#### Introduction
+
 -   [Counter-Enlightenment](https://en.wikipedia.org/wiki/Counter-Enlightenment)
     -   [Johann Georg Hamann](https://en.wikipedia.org/wiki/Johann_Georg_Hamann) (1730-1788)
     -   G.W.F. Hegel (1770-1831)
@@ -424,9 +426,14 @@ See also:
 [^Heidegger1929]: @Heidegger_1929_What_is_metaphysics\.
 
 
-### Discussion
+### Criticism
 
 -   Putnam, H. (1997). A half century of philosophy, viewed from within. [^Putnam1997]
+
+[^Putnam1997]: @Putnam_1997_A_half_century_of_philosophy_viewed_from_within\.
+
+
+### Discussion
 
 TODO: While promoting the careful gathering of empirical information,
 naturalism is not against (largely non-empirical) rational pursuits like mathematics.
@@ -481,15 +488,9 @@ See also:
 -   [Neurath's boat](scientific-realism.html#neuraths-boat) in the Outline on [scientific realism](#scientific-realism)
 
 [^Ladyman2007pi]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. i.
-[^Putnam1997]: @Putnam_1997_A_half_century_of_philosophy_viewed_from_within\.
 [^Quine1969pX]: @Quine_1969_Ontological_Relativity_and_Other_Essays\, p. TODO.
 [^Quine1981p21]: @Quine_1981_Theories_and_Things\, p. 21 (emphasis added).
     A similar quote can be found in @Quine_1981_Reply_to_Stroud, p. 474.
-
-
-### Criticism
-
--   TODO
 
 
 Reductionism
