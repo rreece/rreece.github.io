@@ -394,6 +394,8 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
 -   [Counter-Enlightenment](https://en.wikipedia.org/wiki/Counter-Enlightenment)
     -   [Johann Georg Hamann](https://en.wikipedia.org/wiki/Johann_Georg_Hamann) (1730-1788)
     -   G.W.F. Hegel (1770-1831)
+    -   Franz Brentano (1838-1917)
+    -   Edmund Husserl (1859-1938)
     -   Martin Heidegger (1889-1976)
     -   Criticism of Kant
     -   Berlin, I. (1973). The Counter-Enlightenment.
@@ -777,6 +779,7 @@ Schopenhauer:
 ### Honorific reinterpretation
 
 -   Mario Bunge
+    -   Exact Philosophy
 -   Rosenberg, A. (2011).  *The Atheist's Guide to Reality*. [^Rosenberg2011AGR]
 -   Glymour, C. (2011). [Manifesto on positivism](https://web.archive.org/web/20190430005518/http://choiceandinference.com/2011/12/23/in-light-of-some-recent-discussion-over-at-new-apps-i-bring-you-clark-glymours-manifesto/).
     -   Nelson Goodman: "There are two kinds of people in the world: the logical positivists and the god-damned English professors."
