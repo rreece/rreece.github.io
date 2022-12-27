@@ -485,6 +485,10 @@ Political philosophy
 -   [Marxism-Leninism](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism)
     -   Joseph Stalin (1878-1953)
     -   Mao Zedong (1893-1976)
+-   [Frankfurt_School](https://en.wikipedia.org/wiki/Frankfurt_School) of Critical Theory
+    -   Max Horkheimer (1895-1973)
+    -   Theodor Adorno (1903-1969)
+    -   Herbert Marcuse (1898-1979)
 
 
 #### Criticism
