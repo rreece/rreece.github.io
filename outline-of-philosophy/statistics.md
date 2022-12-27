@@ -2123,11 +2123,13 @@ Information geometry
 -   Balasubramanian, V. (1996). [A geometric formulation of Occam's razor for inference of parametric distributions](https://arxiv.org/abs/adap-org/9601001). [^Balasubramanian1996a]
 -   Balasubramanian, V. (1996). [Statistical inference, Occam's razor and statistical mechanics on the space of probability distributions](https://arxiv.org/abs/cond-mat/9601030). [^Balasubramanian1996b]
 -   Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistics*. [^Calin2014]
+-   de Carvalho, M., Page, G.L., & Barney, B.J. (2019). [On the geometry of Bayesian inference](https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-4/On-the-Geometry-of-Bayesian-Inference/10.1214/18-BA1112.full). [^deCarvalho2019]
 -   Cranmer: [Information geometry](http://theoryandpractice.org/stats-ds-book/statistics/information-geometry.html) (coming soon?)
 
 [^Balasubramanian1996a]: @Balasubramanian_1996_A_geometric_formulation_of_Occams_razor\.
 [^Balasubramanian1996b]: @Balasubramanian_1996_Statistical_inference_Occams_razor\.
 [^Calin2014]: @Calin_2014_Geometric_Modeling_in_Probability_and_Statistics\.
+[^deCarvalho2019]: @deCarvalho_2019_On_the_geometry_of_Bayesian_inference\.
 
 
 ### Geometric understanding of deep learning

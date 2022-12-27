@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Mon Dec 26, 2022" />
+  <meta name="date" content="Tue Dec 27, 2022" />
   <title>Philosophy of statistics - Ryan's Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#x2019;s outline of
 philosophy" />
@@ -73,16 +73,36 @@ induction. Can inductive inference be formalized? What are the caveats?
 Can inductive inference be automated? How does machine learning
 work?</p>
 <h3 class="unnumbered" id="contents">Contents</h3>
-<pre><code>1.  [Problem of induction](statistics.html#problem-of-induction)
-1.  [Early investigators](statistics.html#early-investigators)
-1.  [Pedagogy](statistics.html#pedagogy)
-1.  [Probability](statistics.html#probability)
-1.  [Expectation and variance](statistics.html#expectation-and-variance)
-1.  [Cross entropy](statistics.html#cross-entropy)
-1.  [Uncertainty](statistics.html#uncertainty)
-1.  [Bayes&amp;#x2019; theorem](statistics.html#bayes-theorem)
-1.  [Curse of dimensionality](statistics.html#curse-of-dimensionality)</code></pre>
 <ol type="1">
+<li><a
+href="statistics.html#introduction-to-the-foundations-of-statistics">Introduction
+to the foundations of statistics</a>
+<ol type="1">
+<li><a href="statistics.html#problem-of-induction">Problem of
+induction</a></li>
+<li><a href="statistics.html#early-investigators">Early
+investigators</a></li>
+<li><a
+href="statistics.html#foundations-of-modern-statistics">Foundations of
+modern statistics</a></li>
+<li><a href="statistics.html#pedagogy">Pedagogy</a></li>
+</ol></li>
+<li><a
+href="statistics.html#probability-and-its-related-concepts">Probability
+and its related concepts</a>
+<ol type="1">
+<li><a href="statistics.html#probability">Probability</a></li>
+<li><a href="statistics.html#expectation-and-variance">Expectation and
+variance</a></li>
+<li><a href="statistics.html#cross-entropy">Cross entropy</a></li>
+<li><a href="statistics.html#uncertainty">Uncertainty</a></li>
+<li><a href="statistics.html#bayes-theorem">Bayes&#x2019; theorem</a></li>
+<li><a
+href="statistics.html#likelihood-and-frequentist-vs-bayesian-probability">Likelihood
+and frequentist vs bayesian probability</a></li>
+<li><a href="statistics.html#curse-of-dimensionality">Curse of
+dimensionality</a></li>
+</ol></li>
 <li><a href="statistics.html#statistical-models">Statistical models</a>
 <ol type="1">
 <li><a href="statistics.html#parametric-models">Parametric
@@ -90,23 +110,51 @@ models</a></li>
 <li><a href="statistics.html#canonical-distributions">Canonical
 distributions</a></li>
 <li><a href="statistics.html#mixture-models">Mixture models</a></li>
+</ol></li>
+<li><a
+href="statistics.html#point-estimation-and-confidence-intervals">Point
+estimation and confidence intervals</a>
+<ol type="1">
 <li><a href="statistics.html#inverse-problems">Inverse problems</a></li>
 <li><a href="statistics.html#bias-and-variance">Bias and
 variance</a></li>
+<li><a href="statistics.html#maximum-likelihood-estimation">Maximum
+likelihood estimation</a></li>
 <li><a href="statistics.html#variance-of-mles">Variance of MLEs</a></li>
+<li><a href="statistics.html#bayesian-credibility-intervals">Bayesian
+credibility intervals</a></li>
+<li><a
+href="statistics.html#uncertainty-on-measuring-an-efficiency">Uncertainty
+on measuring an efficiency</a></li>
 <li><a href="statistics.html#examples">Examples</a></li>
+</ol></li>
+<li><a href="statistics.html#statistical-hypothesis-testing">Statistical
+hypothesis testing</a>
+<ol type="1">
+<li><a href="statistics.html#null-hypothesis-significance-testing">Null
+hypothesis significance testing</a></li>
 <li><a href="statistics.html#neyman-pearson-theory">Neyman-Pearson
 theory</a></li>
+<li><a href="statistics.html#p-values-and-significance">p-values and
+significance</a></li>
 <li><a href="statistics.html#asymptotics">Asymptotics</a></li>
-<li><a href="statistics.html#students-t-test">Student&#x2019;s
-<em>t</em>-test</a></li>
+<li><a href="statistics.html#students-t-test">Student&#x2019;s t-test</a></li>
+<li><a
+href="statistics.html#frequentist-vs-bayesian-decision-theory">Frequentist
+vs bayesian decision theory</a></li>
 <li><a href="statistics.html#examples-1">Examples</a></li>
 </ol></li>
 <li><a href="statistics.html#uncertainty-quantification">Uncertainty
 quantification</a>
 <ol type="1">
+<li><a
+href="statistics.html#sinervo-classification-of-systematic-uncertainties">Sinervo
+classification of systematic uncertainties</a></li>
 <li><a href="statistics.html#profile-likelihoods">Profile
 likelihoods</a></li>
+<li><a
+href="statistics.html#examples-of-poor-estimates-of-systematic-uncertanties">Examples
+of poor estimates of systematic uncertanties</a></li>
 </ol></li>
 <li><a href="statistics.html#statistical-classification">Statistical
 classification</a>
@@ -139,7 +187,7 @@ principle</a></li>
 <li><a href="statistics.html#replication-crisis">Replication crisis</a>
 <ol type="1">
 <li><a href="statistics.html#introduction-5">Introduction</a></li>
-<li><a href="statistics.html#p-value-controversy"><em>p</em>-value
+<li><a href="statistics.html#p-value-controversy">p-value
 controversy</a></li>
 </ol></li>
 <li><a href="statistics.html#classical-machine-learning">Classical
@@ -174,23 +222,44 @@ physics</a></li>
 <li><a href="statistics.html#theoretical-machine-learning">Theoretical
 machine learning</a>
 <ol type="1">
+<li><a href="statistics.html#algorithmic-information-theory">Algorithmic
+information theory</a></li>
 <li><a href="statistics.html#no-free-lunch-theorems">No free lunch
 theorems</a></li>
 <li><a href="statistics.html#graphical-tensor-notation">Graphical tensor
 notation</a></li>
+<li><a href="statistics.html#universal-approximation-theorem">Universal
+approximation theorem</a></li>
+<li><a
+href="statistics.html#relationship-to-statistical-mechanics">Relationship
+to statistical mechanics</a></li>
 <li><a href="statistics.html#relationship-to-gauge-theory">Relationship
 to gauge theory</a></li>
+<li><a
+href="statistics.html#thermodynamics-of-computation">Thermodynamics of
+computation</a></li>
 </ol></li>
 <li><a href="statistics.html#information-geometry">Information
 geometry</a>
 <ol type="1">
 <li><a href="statistics.html#introduction-8">Introduction</a></li>
+<li><a
+href="statistics.html#geometric-understanding-of-classical-statistics">Geometric
+understanding of classical statistics</a></li>
+<li><a
+href="statistics.html#geometric-understanding-of-deep-learning">Geometric
+understanding of deep learning</a></li>
 </ol></li>
 <li><a href="statistics.html#automation">Automation</a>
 <ol type="1">
 <li><a href="statistics.html#automl">AutoML</a></li>
 <li><a href="statistics.html#surrogate-models">Surrogate models</a></li>
 <li><a href="statistics.html#autoscience">AutoScience</a></li>
+</ol></li>
+<li><a
+href="statistics.html#implications-for-the-realism-debate">Implications
+for the realism debate</a>
+<ol type="1">
 <li><a href="statistics.html#introduction-9">Introduction</a></li>
 <li><a href="statistics.html#real-clusters">Real clusters</a></li>
 <li><a href="statistics.html#word-meanings">Word meanings</a></li>
@@ -199,8 +268,32 @@ geometry</a>
 <li><a href="statistics.html#annotated-bibliography">Annotated
 bibliography</a>
 <ol type="1">
+<li><a
+href="statistics.html#mayo-d.g.-1996.-error-and-the-growth-of-experimental-knowledge.">Mayo,
+D.G. (1996). Error and the Growth of Experimental Knowledge.</a></li>
+<li><a
+href="statistics.html#cowan-g.-1998.-statistical-data-analysis.">Cowan,
+G. (1998). Statistical Data Analysis.</a></li>
+<li><a
+href="statistics.html#james-f.-2006.-statistical-methods-in-experimental-physics.">James,
+F. (2006). Statistical Methods in Experimental Physics.</a></li>
+<li><a
+href="statistics.html#cowan-g.-et-al.-2011.-asymptotic-formulae-for-likelihood-based-tests-of-new-physics.">Cowan,
+G. et al.&#xA0;(2011). Asymptotic formulae for likelihood-based tests of new
+physics.</a></li>
+<li><a
+href="statistics.html#atlas-collaboration.-2012.-combined-search-for-the-standard-model-higgs-boson.">ATLAS
+Collaboration. (2012). Combined search for the Standard Model Higgs
+boson.</a></li>
+<li><a
+href="statistics.html#cranmer-k.-2015.-practical-statistics-for-the-lhc.">Cranmer,
+K. (2015). Practical statistics for the LHC.</a></li>
 <li><a href="statistics.html#more-articles-to-do">More articles to
 do</a></li>
+</ol></li>
+<li><a href="statistics.html#links-and-encyclopedia-articles">Links and
+encyclopedia articles</a>
+<ol type="1">
 <li><a href="statistics.html#sep">SEP</a></li>
 <li><a href="statistics.html#iep">IEP</a></li>
 <li><a href="statistics.html#scholarpedia">Scholarpedia</a></li>
@@ -3308,6 +3401,11 @@ role="doc-noteref"><sup>274</sup></a></li>
 <li>Calin, O. &amp; Udriste, C. (2014). <em>Geometric Modeling in
 Probability and Statistics</em>. <a href="#fn275" class="footnote-ref"
 id="fnref275" role="doc-noteref"><sup>275</sup></a></li>
+<li>de Carvalho, M., Page, G.L., &amp; Barney, B.J. (2019). <a
+href="https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-4/On-the-Geometry-of-Bayesian-Inference/10.1214/18-BA1112.full">On
+the geometry of Bayesian inference</a>. <a href="#fn276"
+class="footnote-ref" id="fnref276"
+role="doc-noteref"><sup>276</sup></a></li>
 <li>Cranmer: <a
 href="http://theoryandpractice.org/stats-ds-book/statistics/information-geometry.html">Information
 geometry</a> (coming soon?)</li>
@@ -3316,18 +3414,18 @@ geometry</a> (coming soon?)</li>
 understanding of deep learning</h3>
 <ul>
 <li>Lei, N. et al.&#xA0;(2018). Geometric understanding of deep learning. <a
-href="#fn276" class="footnote-ref" id="fnref276"
-role="doc-noteref"><sup>276</sup></a></li>
+href="#fn277" class="footnote-ref" id="fnref277"
+role="doc-noteref"><sup>277</sup></a></li>
 <li>Gao, Y. &amp; Chaudhari, P. (2020). <a
 href="https://arxiv.org/abs/2011.00613">An information-geometric
-distance on the space of tasks</a>. <a href="#fn277"
-class="footnote-ref" id="fnref277"
-role="doc-noteref"><sup>277</sup></a></li>
-<li>Bronstein, M.M. et al.&#xA0;(2021). <a
-href="https://arxiv.org/abs/2104.13478">Geometric deep learning: Grids,
-groups, graphs, geodesics, and gauges</a>. <a href="#fn278"
+distance on the space of tasks</a>. <a href="#fn278"
 class="footnote-ref" id="fnref278"
 role="doc-noteref"><sup>278</sup></a></li>
+<li>Bronstein, M.M. et al.&#xA0;(2021). <a
+href="https://arxiv.org/abs/2104.13478">Geometric deep learning: Grids,
+groups, graphs, geodesics, and gauges</a>. <a href="#fn279"
+class="footnote-ref" id="fnref279"
+role="doc-noteref"><sup>279</sup></a></li>
 </ul>
 <h2 id="automation">Automation</h2>
 <h3 id="automl">AutoML</h3>
@@ -3347,29 +3445,29 @@ href="https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/">Neural
 networks, manifolds, and topology</a>.</li>
 <li>Fefferman, C., Mitter, S., &amp; Narayanan, H. (2016). <a
 href="https://www.ams.org/journals/jams/2016-29-04/S0894-0347-2016-00852-4/S0894-0347-2016-00852-4.pdf">Testing
-the manifold hypothesis</a>. <a href="#fn279" class="footnote-ref"
-id="fnref279" role="doc-noteref"><sup>279</sup></a></li>
+the manifold hypothesis</a>. <a href="#fn280" class="footnote-ref"
+id="fnref280" role="doc-noteref"><sup>280</sup></a></li>
 </ul></li>
 <li>Physical constratints in loss functions
 <ul>
 <li>Raissi, M., Perdikaris, P., &amp; Karniadakis, G.E. (2017). <a
 href="https://arxiv.org/abs/1711.10561">Physics informed deep learning
 (Part I)</a> and <a href="https://arxiv.org/abs/1711.10566">(Part
-II)</a>. <a href="#fn280" class="footnote-ref" id="fnref280"
-role="doc-noteref"><sup>280</sup></a></li>
+II)</a>. <a href="#fn281" class="footnote-ref" id="fnref281"
+role="doc-noteref"><sup>281</sup></a></li>
 <li>Karniadakis, G.E. et al.&#xA0;(2021). <a
 href="https://www.nature.com/articles/s42254-021-00314-5">Physics-informed
-machine learning</a>. <a href="#fn281" class="footnote-ref"
-id="fnref281" role="doc-noteref"><sup>281</sup></a></li>
+machine learning</a>. <a href="#fn282" class="footnote-ref"
+id="fnref282" role="doc-noteref"><sup>282</sup></a></li>
 <li>Howard, J.N. et al.&#xA0;(2021). <a
 href="https://arxiv.org/abs/2101.08944">Foundations of a fast,
-data-driven, machine-learned simulator</a>. <a href="#fn282"
-class="footnote-ref" id="fnref282"
-role="doc-noteref"><sup>282</sup></a></li>
+data-driven, machine-learned simulator</a>. <a href="#fn283"
+class="footnote-ref" id="fnref283"
+role="doc-noteref"><sup>283</sup></a></li>
 <li>Thuerey, N. et al.&#xA0;(2021). <a
 href="https://arxiv.org/abs/2109.05237">Physics-based deep learning</a>.
-<a href="#fn283" class="footnote-ref" id="fnref283"
-role="doc-noteref"><sup>283</sup></a></li>
+<a href="#fn284" class="footnote-ref" id="fnref284"
+role="doc-noteref"><sup>284</sup></a></li>
 <li><a
 href="https://physicsbaseddeeplearning.org/intro.html">physicsbaseddeeplearning.org</a></li>
 </ul></li>
@@ -3377,13 +3475,13 @@ href="https://physicsbaseddeeplearning.org/intro.html">physicsbaseddeeplearning.
 <ul>
 <li>Cranmer, K., Brehmer, J., &amp; Louppe, G. (2019). <a
 href="https://arxiv.org/abs/1911.01429">The frontier of simulation-based
-inference</a>. <a href="#fn284" class="footnote-ref" id="fnref284"
-role="doc-noteref"><sup>284</sup></a></li>
+inference</a>. <a href="#fn285" class="footnote-ref" id="fnref285"
+role="doc-noteref"><sup>285</sup></a></li>
 <li>Baydin, A.G. et al.&#xA0;(2019). <a
 href="https://arxiv.org/abs/1907.03382">Etalumis: Bringing probabilistic
-programming to scientific simulators at scale</a>. <a href="#fn285"
-class="footnote-ref" id="fnref285"
-role="doc-noteref"><sup>285</sup></a></li>
+programming to scientific simulators at scale</a>. <a href="#fn286"
+class="footnote-ref" id="fnref286"
+role="doc-noteref"><sup>286</sup></a></li>
 </ul></li>
 </ul>
 <p>Lectures:</p>
@@ -3397,33 +3495,33 @@ networks and inverse problems</a>.</li>
 <li>Automated discovery</li>
 <li>Anderson, C. (2008). <a
 href="https://www.wired.com/2008/06/pb-theory/">The End of Theory: The
-data deluge makes the scientific method obsolete</a>. <a href="#fn286"
-class="footnote-ref" id="fnref286"
-role="doc-noteref"><sup>286</sup></a></li>
+data deluge makes the scientific method obsolete</a>. <a href="#fn287"
+class="footnote-ref" id="fnref287"
+role="doc-noteref"><sup>287</sup></a></li>
 <li>Cranmer, K. (2017). <a
 href="https://github.com/cranmer/active_sciencing">Active
 sciencing</a>.</li>
 <li>Asch, M. et al.&#xA0;(2018). Big data and extreme-scale computing:
 Pathways to Convergence-Toward a shaping strategy for a future software
-and data ecosystem for scientific inquiry. <a href="#fn287"
-class="footnote-ref" id="fnref287" role="doc-noteref"><sup>287</sup></a>
+and data ecosystem for scientific inquiry. <a href="#fn288"
+class="footnote-ref" id="fnref288" role="doc-noteref"><sup>288</sup></a>
 <ul>
 <li>Note that this description of abduction is missing that it is
 normative (i.e.&#xA0;&#x201C;best-fit&#x201D;).</li>
 </ul></li>
 <li>D&#x2019;Agnolo, R.T. &amp; Wulzer, A. (2019). <a
 href="https://arxiv.org/abs/1806.02350">Learning New Physics from a
-Machine</a>. <a href="#fn288" class="footnote-ref" id="fnref288"
-role="doc-noteref"><sup>288</sup></a></li>
+Machine</a>. <a href="#fn289" class="footnote-ref" id="fnref289"
+role="doc-noteref"><sup>289</sup></a></li>
 <li>Udrescu, S. &amp; Tegmark, M. (2020). <a
 href="https://arxiv.org/abs/2005.11212">Symbolic pregression:
-Discovering physical laws from raw distorted video</a>. <a href="#fn289"
-class="footnote-ref" id="fnref289"
-role="doc-noteref"><sup>289</sup></a></li>
+Discovering physical laws from raw distorted video</a>. <a href="#fn290"
+class="footnote-ref" id="fnref290"
+role="doc-noteref"><sup>290</sup></a></li>
 <li>Cranmer, M. et al.&#xA0;(2020). <a
 href="https://arxiv.org/abs/2006.11287">Discovering symbolic models from
-deep learning with inductive biases</a>. <a href="#fn290"
-class="footnote-ref" id="fnref290" role="doc-noteref"><sup>290</sup></a>
+deep learning with inductive biases</a>. <a href="#fn291"
+class="footnote-ref" id="fnref291" role="doc-noteref"><sup>291</sup></a>
 <ul>
 <li>Video: <a
 href="https://www.youtube.com/watch?v=LMb5tvW-UoQ">Discussion by Yannic
@@ -3432,12 +3530,12 @@ Kilcher</a></li>
 <li>Liu, Z., Madhavan, V., &amp; Tegmark, M. (2022). <a
 href="https://arxiv.org/abs/2203.12610">AI Poincare 2.0: Machine
 learning conservation laws from differential equations</a>. <a
-href="#fn291" class="footnote-ref" id="fnref291"
-role="doc-noteref"><sup>291</sup></a></li>
+href="#fn292" class="footnote-ref" id="fnref292"
+role="doc-noteref"><sup>292</sup></a></li>
 <li>Krenn, M. et al.&#xA0;(2022). <a
 href="https://arxiv.org/abs/2204.01467">On scientific understanding with
-artificial intelligence</a>. <a href="#fn292" class="footnote-ref"
-id="fnref292" role="doc-noteref"><sup>292</sup></a></li>
+artificial intelligence</a>. <a href="#fn293" class="footnote-ref"
+id="fnref293" role="doc-noteref"><sup>293</sup></a></li>
 </ul>
 <figure>
 <img src="img/BDEC-scientific-method.png"
@@ -3448,8 +3546,8 @@ process of scientific inquiry. The three distinct forms of inference
 (abduction, deduction, and induction) facilitate an all-encompassing
 vision, enabling HPC and HDA to converge in a rational and structured
 manner. HPC: high- performance computing; HDA: high-end data analysis.
-<a href="#fn293" class="footnote-ref" id="fnref293"
-role="doc-noteref"><sup>293</sup></a></figcaption>
+<a href="#fn294" class="footnote-ref" id="fnref294"
+role="doc-noteref"><sup>294</sup></a></figcaption>
 </figure>
 <p>See also:</p>
 <ul>
@@ -3463,12 +3561,12 @@ of future studies</a>.</li>
 realism debate</h2>
 <h3 id="introduction-9">Introduction</h3>
 <ul>
-<li>Korb <a href="#fn294" class="footnote-ref" id="fnref294"
-role="doc-noteref"><sup>294</sup></a></li>
-<li>Williamson <a href="#fn295" class="footnote-ref" id="fnref295"
+<li>Korb <a href="#fn295" class="footnote-ref" id="fnref295"
 role="doc-noteref"><sup>295</sup></a></li>
-<li>Bensusan <a href="#fn296" class="footnote-ref" id="fnref296"
+<li>Williamson <a href="#fn296" class="footnote-ref" id="fnref296"
 role="doc-noteref"><sup>296</sup></a></li>
+<li>Bensusan <a href="#fn297" class="footnote-ref" id="fnref297"
+role="doc-noteref"><sup>297</sup></a></li>
 </ul>
 <p>See also:</p>
 <ul>
@@ -3494,27 +3592,27 @@ learning, NLP, and representations</a>.</li>
 <li>Perone, C.S. (2018). <a
 href="http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/">NLP
 word representations and the Wittgenstein philosophy of language</a>. <a
-href="#fn297" class="footnote-ref" id="fnref297"
-role="doc-noteref"><sup>297</sup></a></li>
+href="#fn298" class="footnote-ref" id="fnref298"
+role="doc-noteref"><sup>298</sup></a></li>
 <li>Belloni, M. (2019). <a
 href="https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da">Neural
 networks and philosophy of language: Why Wittgenstein&#x2019;s theories are the
 basis of all modern NLP</a>.</li>
 <li>Skelac, I. &amp; Jandric, A. (2020). Meaning as use: From
-Wittgenstein to Google&#x2019;s Word2vec. <a href="#fn298" class="footnote-ref"
-id="fnref298" role="doc-noteref"><sup>298</sup></a></li>
+Wittgenstein to Google&#x2019;s Word2vec. <a href="#fn299" class="footnote-ref"
+id="fnref299" role="doc-noteref"><sup>299</sup></a></li>
 </ul>
 <p>Wittgenstein in <em>PI</em>:</p>
 <blockquote>
-<p>The meaning of a word is its use in the language. <a href="#fn299"
-class="footnote-ref" id="fnref299"
-role="doc-noteref"><sup>299</sup></a></p>
+<p>The meaning of a word is its use in the language. <a href="#fn300"
+class="footnote-ref" id="fnref300"
+role="doc-noteref"><sup>300</sup></a></p>
 </blockquote>
 <p>and</p>
 <blockquote>
 <p>One cannot guess how a word functions. One has to look at its use,
-and learn from that. <a href="#fn300" class="footnote-ref" id="fnref300"
-role="doc-noteref"><sup>300</sup></a></p>
+and learn from that. <a href="#fn301" class="footnote-ref" id="fnref301"
+role="doc-noteref"><sup>301</sup></a></p>
 </blockquote>
 <p>See also:</p>
 <ul>
@@ -3635,11 +3733,11 @@ data-cites="Cranmer_2015_Practical_statistics_for_the_LHC">Cranmer
 <hr />
 <h3 id="more-articles-to-do">More articles to do</h3>
 <ul>
-<li><em>All of Statistics</em> <a href="#fn301" class="footnote-ref"
-id="fnref301" role="doc-noteref"><sup>301</sup></a></li>
-<li><em>The Foundations of Statistics</em> <a href="#fn302"
-class="footnote-ref" id="fnref302"
-role="doc-noteref"><sup>302</sup></a></li>
+<li><em>All of Statistics</em> <a href="#fn302" class="footnote-ref"
+id="fnref302" role="doc-noteref"><sup>302</sup></a></li>
+<li><em>The Foundations of Statistics</em> <a href="#fn303"
+class="footnote-ref" id="fnref303"
+role="doc-noteref"><sup>303</sup></a></li>
 </ul>
 </div>
 <h2 id="links-and-encyclopedia-articles">Links and encyclopedia
@@ -4536,6 +4634,13 @@ Dar, Y., Muthukumar, V., &amp; Baraniuk, R. G. (2021). <span
 class="nocase">A farewell to the bias-variance tradeoff?</span> <span>An
 overview of the theory of overparameterized machine learning</span>. <a
 href="https://arxiv.org/abs/2109.02355">https://arxiv.org/abs/2109.02355</a>
+</div>
+<div id="ref-deCarvalho_2019_On_the_geometry_of_Bayesian_inference"
+class="csl-entry" role="doc-biblioentry">
+de Carvalho, M., Page, G. L., &amp; Barney, B. J. (2019). <span
+class="nocase">On the geometry of Bayesian inference.</span>
+<em>Bayesian Analysis</em>, <em><span>14</span></em>, 1013&#x2013;1036. <a
+href="https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-4/On-the-Geometry-of-Bayesian-Inference/10.1214/18-BA1112.full">https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-4/On-the-Geometry-of-Bayesian-Inference/10.1214/18-BA1112.full</a>
 </div>
 <div id="ref-Devlin_2018_BERT_Pre_training_of_deep_bidirectional"
 class="csl-entry" role="doc-biblioentry">
@@ -6993,114 +7098,118 @@ data-cites="Calin_2014_Geometric_Modeling_in_Probability_and_Statistics">Calin
 &amp; Udriste (2014)</span>.<a href="#fnref275" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn276" role="doc-endnote"><p><span class="citation"
-data-cites="Lei_2018_Geometric_understanding_of_deep_learning">Lei, Luo,
-Yau, &amp; Gu (2018)</span>.<a href="#fnref276" class="footnote-back"
-role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+data-cites="deCarvalho_2019_On_the_geometry_of_Bayesian_inference">de
+Carvalho, Page, &amp; Barney (2019)</span>.<a href="#fnref276"
+class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn277" role="doc-endnote"><p><span class="citation"
-data-cites="Gao_2020_An_information_geometric_distance_on_the_space">Gao
-&amp; Chaudhari (2020)</span>.<a href="#fnref277" class="footnote-back"
+data-cites="Lei_2018_Geometric_understanding_of_deep_learning">Lei, Luo,
+Yau, &amp; Gu (2018)</span>.<a href="#fnref277" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn278" role="doc-endnote"><p><span class="citation"
-data-cites="Bronstein_2021_Geometric_deep_learning_Grids_groups_graphs">Bronstein,
-Bruna, Cohen, &amp; Velickovic (2021)</span>.<a href="#fnref278"
-class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+data-cites="Gao_2020_An_information_geometric_distance_on_the_space">Gao
+&amp; Chaudhari (2020)</span>.<a href="#fnref278" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn279" role="doc-endnote"><p><span class="citation"
-data-cites="Fefferman_2016_Testing_the_manifold_hypothesis">Fefferman,
-Mitter, &amp; Narayanan (2016)</span>.<a href="#fnref279"
+data-cites="Bronstein_2021_Geometric_deep_learning_Grids_groups_graphs">Bronstein,
+Bruna, Cohen, &amp; Velickovic (2021)</span>.<a href="#fnref279"
 class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn280" role="doc-endnote"><p><span class="citation"
+data-cites="Fefferman_2016_Testing_the_manifold_hypothesis">Fefferman,
+Mitter, &amp; Narayanan (2016)</span>.<a href="#fnref280"
+class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn281" role="doc-endnote"><p><span class="citation"
 data-cites="Raissi_2017_Physics_informed_deep_learning_Part_I_Data">Raissi
 et al. (2017a)</span> and <span class="citation"
 data-cites="Raissi_2017_Physics_informed_deep_learning_Part_II_Data">Raissi,
-Perdikaris, &amp; Karniadakis (2017b)</span>.<a href="#fnref280"
+Perdikaris, &amp; Karniadakis (2017b)</span>.<a href="#fnref281"
 class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn281" role="doc-endnote"><p><span class="citation"
-data-cites="Karniadakis_2021_Physics_informed_machine_learning">Karniadakis,
-G.E. et al. (2021)</span>.<a href="#fnref281" class="footnote-back"
-role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn282" role="doc-endnote"><p><span class="citation"
-data-cites="Howard_2021_Foundations_of_a_fast_data_driven_machine">Howard,
-Mandt, Whiteson, &amp; Yang (2021)</span>.<a href="#fnref282"
-class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+data-cites="Karniadakis_2021_Physics_informed_machine_learning">Karniadakis,
+G.E. et al. (2021)</span>.<a href="#fnref282" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn283" role="doc-endnote"><p><span class="citation"
-data-cites="Thuerey_2021_Physics_based_deep_learning">Thuerey, N. et al.
-(2021)</span>.<a href="#fnref283" class="footnote-back"
-role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn284" role="doc-endnote"><p><span class="citation"
-data-cites="Cranmer_2019_The_frontier_of_simulation_based_inference">Cranmer,
-Brehmer, &amp; Louppe (2019)</span>.<a href="#fnref284"
+data-cites="Howard_2021_Foundations_of_a_fast_data_driven_machine">Howard,
+Mandt, Whiteson, &amp; Yang (2021)</span>.<a href="#fnref283"
 class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn285" role="doc-endnote"><p><span class="citation"
-data-cites="Baydin_2019_Etalumis_Bringing_probabilistic_programming">Baydin,
-A.G. et al. (2019)</span>.<a href="#fnref285" class="footnote-back"
+<li id="fn284" role="doc-endnote"><p><span class="citation"
+data-cites="Thuerey_2021_Physics_based_deep_learning">Thuerey, N. et al.
+(2021)</span>.<a href="#fnref284" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn285" role="doc-endnote"><p><span class="citation"
+data-cites="Cranmer_2019_The_frontier_of_simulation_based_inference">Cranmer,
+Brehmer, &amp; Louppe (2019)</span>.<a href="#fnref285"
+class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn286" role="doc-endnote"><p><span class="citation"
-data-cites="Anderson_2008_The_End_of_Theory_The_data_deluge_makes">Anderson
-(2008)</span>.<a href="#fnref286" class="footnote-back"
+data-cites="Baydin_2019_Etalumis_Bringing_probabilistic_programming">Baydin,
+A.G. et al. (2019)</span>.<a href="#fnref286" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn287" role="doc-endnote"><p><span class="citation"
-data-cites="Asch_2018_Big_data_and_extreme_scale_computing_Pathways">Asch,
-M. et al. (2018)</span>.<a href="#fnref287" class="footnote-back"
+data-cites="Anderson_2008_The_End_of_Theory_The_data_deluge_makes">Anderson
+(2008)</span>.<a href="#fnref287" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn288" role="doc-endnote"><p><span class="citation"
-data-cites="DAgnolo_2019_Learning_New_Physics_from_a_Machine">D&#x2019;Agnolo
-&amp; Wulzer (2019)</span>.<a href="#fnref288" class="footnote-back"
+data-cites="Asch_2018_Big_data_and_extreme_scale_computing_Pathways">Asch,
+M. et al. (2018)</span>.<a href="#fnref288" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn289" role="doc-endnote"><p><span class="citation"
-data-cites="Udrescu_2020_Symbolic_pregression_Discovering_physical_laws">Udrescu
-&amp; Tegmark (2020)</span>.<a href="#fnref289" class="footnote-back"
+data-cites="DAgnolo_2019_Learning_New_Physics_from_a_Machine">D&#x2019;Agnolo
+&amp; Wulzer (2019)</span>.<a href="#fnref289" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn290" role="doc-endnote"><p><span class="citation"
-data-cites="Cranmer_2020_Discovering_symbolic_models_from_deep_learning">Cranmer,
-M. et al. (2020)</span>.<a href="#fnref290" class="footnote-back"
+data-cites="Udrescu_2020_Symbolic_pregression_Discovering_physical_laws">Udrescu
+&amp; Tegmark (2020)</span>.<a href="#fnref290" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn291" role="doc-endnote"><p><span class="citation"
-data-cites="Liu_2022_AI_Poincare_2_Machine_learning_conservation_laws">Z.
-Liu, Madhavan, &amp; Tegmark (2022)</span>.<a href="#fnref291"
-class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
-<li id="fn292" role="doc-endnote"><p><span class="citation"
-data-cites="Krenn_2022_On_scientific_understanding_with_artificial">Krenn,
-M. et al. (2022)</span>.<a href="#fnref292" class="footnote-back"
+data-cites="Cranmer_2020_Discovering_symbolic_models_from_deep_learning">Cranmer,
+M. et al. (2020)</span>.<a href="#fnref291" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn292" role="doc-endnote"><p><span class="citation"
+data-cites="Liu_2022_AI_Poincare_2_Machine_learning_conservation_laws">Z.
+Liu, Madhavan, &amp; Tegmark (2022)</span>.<a href="#fnref292"
+class="footnote-back" role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn293" role="doc-endnote"><p><span class="citation"
-data-cites="Asch_2018_Big_data_and_extreme_scale_computing_Pathways">Asch,
-M. et al. (2018)</span>.<a href="#fnref293" class="footnote-back"
+data-cites="Krenn_2022_On_scientific_understanding_with_artificial">Krenn,
+M. et al. (2022)</span>.<a href="#fnref293" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn294" role="doc-endnote"><p><span class="citation"
-data-cites="Korb_2001_Machine_learning_as_philosophy_of_science">Korb
-(2001)</span>.<a href="#fnref294" class="footnote-back"
+data-cites="Asch_2018_Big_data_and_extreme_scale_computing_Pathways">Asch,
+M. et al. (2018)</span>.<a href="#fnref294" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn295" role="doc-endnote"><p><span class="citation"
-data-cites="Williamson_2009_The_philosophy_of_science_and_its_relation">Williamson
-(2009)</span>.<a href="#fnref295" class="footnote-back"
+data-cites="Korb_2001_Machine_learning_as_philosophy_of_science">Korb
+(2001)</span>.<a href="#fnref295" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn296" role="doc-endnote"><p><span class="citation"
-data-cites="Bensusan_2000_Is_machine_learning_experimental_philosophy">Bensusan
-(2000)</span>.<a href="#fnref296" class="footnote-back"
+data-cites="Williamson_2009_The_philosophy_of_science_and_its_relation">Williamson
+(2009)</span>.<a href="#fnref296" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn297" role="doc-endnote"><p><span class="citation"
-data-cites="Perone_2018_NLP_word_representations_and_the_Wittgenstein">Perone
-(2018)</span>.<a href="#fnref297" class="footnote-back"
+data-cites="Bensusan_2000_Is_machine_learning_experimental_philosophy">Bensusan
+(2000)</span>.<a href="#fnref297" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn298" role="doc-endnote"><p><span class="citation"
-data-cites="Skelac_2020_Meaning_as_use_From_Wittgenstein_to_Googles">Skelac
-&amp; Jandric (2020)</span>.<a href="#fnref298" class="footnote-back"
+data-cites="Perone_2018_NLP_word_representations_and_the_Wittgenstein">Perone
+(2018)</span>.<a href="#fnref298" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn299" role="doc-endnote"><p><span class="citation"
-data-cites="Wittgenstein_2009_Philosophical_Investigations">Wittgenstein
-(2009)</span>, &#xA7;43.<a href="#fnref299" class="footnote-back"
+data-cites="Skelac_2020_Meaning_as_use_From_Wittgenstein_to_Googles">Skelac
+&amp; Jandric (2020)</span>.<a href="#fnref299" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn300" role="doc-endnote"><p><span class="citation"
 data-cites="Wittgenstein_2009_Philosophical_Investigations">Wittgenstein
-(2009)</span>, &#xA7;340.<a href="#fnref300" class="footnote-back"
+(2009)</span>, &#xA7;43.<a href="#fnref300" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn301" role="doc-endnote"><p><span class="citation"
-data-cites="Wasserman_2003_All_of_Statistics_A_Concise_Course_in_Statistical">Wasserman
-(2003)</span>.<a href="#fnref301" class="footnote-back"
+data-cites="Wittgenstein_2009_Philosophical_Investigations">Wittgenstein
+(2009)</span>, &#xA7;340.<a href="#fnref301" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 <li id="fn302" role="doc-endnote"><p><span class="citation"
+data-cites="Wasserman_2003_All_of_Statistics_A_Concise_Course_in_Statistical">Wasserman
+(2003)</span>.<a href="#fnref302" class="footnote-back"
+role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
+<li id="fn303" role="doc-endnote"><p><span class="citation"
 data-cites="Savage_1954_The_Foundations_of_Statistics">Savage
-(1954)</span>.<a href="#fnref302" class="footnote-back"
+(1954)</span>.<a href="#fnref303" class="footnote-back"
 role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
 </ol>
 </section>
@@ -7126,7 +7235,7 @@ role="doc-backlink">&#x21A9;&#xFE0E;</a></p></li>
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Mon Dec 26, 2022</p>
+    <p>Tue Dec 27, 2022</p>
   </div>
   <div class="license">
     <p>&#xA9; 2014-2022 <a href="http://rreece.github.io/">Ryan Reece</a>.
