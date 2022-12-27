@@ -282,7 +282,12 @@ See also:
 -   [Analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy)
 -   [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) (1872-1970)
 -   [George Edward Moore](https://en.wikipedia.org/wiki/G._E._Moore) (1873-1958)
-    -   The refutation of idealism (1903) [^Moore1903]
+    -   Moore, G.E. (1903). The refutation of idealism. [^Moore1903]
+
+See also:
+
+-   [Analytic/continental divide](naturalism.html#analyticcontinental-divide)
+    in the [Outline on naturalism](naturalism.html)
 
 [^Atherton1996]: @Atherton_1996_Lady_Mary_shepherds_case_against_George_Berkeley\.
 [^Moore1903]: @Moore_1903_The_refutation_of_idealism\.

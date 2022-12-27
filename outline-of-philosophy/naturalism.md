@@ -400,6 +400,8 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
     -   Criticism of Kant
     -   Berlin, I. (1973). The Counter-Enlightenment.
     -   Parekh, B. (2006). *Rethinking Multiculturalism: Cultural Diversity and Political Theory*. [^Parekh2006]
+-   Analytic philosophy starts with the rejection of idealism
+    -   See: [Idealism](scientific-realism.html#idealism) in the [Outline on scientific realism](scientific-realism.html)
 
 [^Parekh2006]: @Parekh_2006_Rethinking_Multiculturalism_Cultural_Diversity\.
 
