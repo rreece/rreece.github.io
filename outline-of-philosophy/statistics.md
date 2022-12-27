@@ -168,9 +168,9 @@ TODO:
 
 -   Kolmogorov axioms
 -   Probability vs odds: $p/(p+q)$ vs $p/q$
--   Carnap: "Probability as a guide in life" [^Carnap1947]
+-   Carnap: "Probability as a guide in life" [^Carnap1947a]
 
-[^Carnap1947]: @Carnap_1947_Probability_as_a_guide_in_life\.
+[^Carnap1947a]: @Carnap_1947_Probability_as_a_guide_in_life\.
 
 
 ### Expectation and variance

@@ -1378,16 +1378,18 @@ Frigg:
 >   but the voices of different theories when put to use in chorus with each
 >   other in one model. [^Frigg2020]
 
--   "All models are wrong [, but some are useful]." [^Box1976]
--   "Surrogative Reasoning Condition" [^Frigg2017]
 -   Hugh Everett's thesis, Appendix II
+-   Suppes, P. (1961). A comparison of the meaning and uses of models in mathematics and the empirical sciences. [^Suppes1961]
+-   Suppes, P. (1967). What is a scientific theory? [^Suppes1967]
+-   Bunge: "Problems of Modeling" [^Bunge1974p101]
+-   Box: "All models are wrong [, but some are useful]." [^Box1976]
+-   Morgan, M.S. & Morrison, M. (1999). *Models as Mediators*. [^Morgan1999]
+-   Frigg: "Surrogative Reasoning Condition" [^Frigg2017]
 -   ["What is the difference between a model and a theory?"](https://physics.stackexchange.com/questions/187967/what-is-the-difference-between-a-model-and-a-theory) - physics.stackexchange.com
--   "A comparison of the meaning and uses of models in mathematics and the empirical sciences" [^Suppes1961]
--   "What is a scientific theory?" [^Suppes1967]
--   *Models as Mediators* [^Morgan1999]
 -   [NPR: How to make sense of all the COVID-19 projections? A new model combines them.](https://www.npr.org/sections/health-shots/2020/05/13/855038708/combining-different-models-new-coronavirus-projection-shows-110-000-deaths-by-ju)
 
 [^Box1976]: @Box_1976_Science_and_statistics\.
+[^Bunge1974p101]: @Bunge_1974_Treatise_on_Basic_Philosophy_Volume_1_Sense\, p. 101.
 [^Cox2006p84]: @Cox_2006_Principles_of_Statistical_Inference\, p. 84.
 [^Frigg2017]: @Frigg_2017_Models_and_representation\.
 [^Frigg2020]: @Frigg_2020_Models_in_science\.
