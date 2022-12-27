@@ -471,6 +471,200 @@ Hume:
 [^Newton2016]: @Newton_2016_The_Principia_Mathematical_Principles_of_Natural\.
 
 
+Knowledge
+--------------------------------------------------------------------------------
+
+### Definining knowledge
+
+Plato:
+
+-   Knowledge is power [^RepublicV477]
+-   Perception is _not_ knowledge [^Theaetetus186]
+
+>   I myself do not have the answer when I perplex others, but I am more
+>   perplexed than anyone when I cause perplexity in others. So now I do not
+>   know what virtue is; perhaps you knew before you contacted me, but now you
+>   are certainly like one who does not know. Nevertheless, I want to examine
+>   and seek together with you what it may be. [^Meno80d]
+
+-   According to Plato, all knowledge is found through recollection.
+    -   My tweet: [Meno in a nutshell](https://twitter.com/RyanDavidReece/status/1475182905878093826)
+    -   Fraser, Ed. (2012). [Picking a fight with Plato](https://philosophynow.org/issues/90/Picking_A_Fight_With_Plato).
+-   Knowledge = Justified True Belief (JTB)
+
+>   SOCRATES: Then suppose a jury has been justly persuaded of some matter which
+>   only an eye-witness could know, and which cannot otherwise be
+>   known; suppose they come to their decision upon hearsay, forming a true
+>   judgment: then they have decided the case without knowledge, but, granted
+>   they did their job well, being correctly persuaded?
+>   
+>   THEAETETUS: Yes, certainly.
+>   
+>   SOCRATES: But, my dear lad, they couldn't have done that if true judgment
+>   is the same thing as knowledge; in that case the best juryman in the world
+>   couldn't form a correct judgment without knowledge. So it seems they must
+>   be different things.
+>   
+>   THEAETETUS: Oh, yes, Socrates, that's just what I once heard a man say;
+>   I had forgotten, but now it's coming back to me. He said that it is true
+>   judgment with an account that is knowledge; true judgment without an
+>   account falls outside of knowledge. And he said that the things of which
+>   there is no account are not knowable (yes, he actually called them that),
+>   while those which have an account are knowable.
+>   
+>   SOCRATES: Very good indeed. [^Theaetetus201b]
+
+![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g), 2014).](img/knowledge.png){#fig:knowledge-jtb-g}
+
+In his unfinished work, *Rules* [^DescartesRule2], Descartes defines “science” (scientia) in Rule 2 as
+
+>   *Omnis scientia est cognitio certa et evidens*.          
+>   All (scientific) knowledge is certain and evident cognition.
+
+In the same section, Descartes' boldy declares to reject probable knowledge
+for only what is perfectly certain:
+
+>   we reject all [...] merely probable cognition and resolve to believe
+>   only what is perfectly known and incapable of being doubted.
+
+-   Chisholm, R. (1966). *Theory of Knowledge*. [^Chisholm1966]
+    -   The Problem of Criterion
+-   Nozick, R. (1981). *Philosophical Explanations*. [^Nozick1981]
+
+Ichikawa & Jenkins:
+
+>   The standard analysis of knowledge says that for any subject $S$ and any
+>   proposition $p$, the following are individually necessary and jointly
+>   sufficient conditions for $S$ knows that $p$:
+>   
+>   1. $p$
+>   2. $S$ believes that $p$
+>   3. $S$ is justified in believing that $p$.
+>   
+>   Precursors of this view are sometimes attributed to Plato, who says in the
+>   *Men*o that knowledge is distinguished from mere true belief in being
+>   'tied down', so that it cannot easily escape or be lost as mere true belief
+>   can. Views more closely resembling the above formulation of the JTB analysis
+>   are attributed by Edmund Gettier to Roderick Chisholm and A. J. Ayer.
+>   Neither of those authors phrased their conditions for knowledge exactly
+>   this way. The now-usual formulation, in terms of justification, is so in
+>   large part because of Gettier (1963). [^Ichikawa2017]
+
+[^Chisholm1966]: @Chisholm_1966_Theory_of_Knowledge\.
+[^DescartesRule2]: @Descartes_1996_Oeuvres_de_Descartes_11_volumes\, vol. 10, p. 362.
+[^Ichikawa2017]: @Ichikawa_2017_On_putting_knowledge_first\.
+[^Meno80d]: Plato, *Meno* 80d, @Cooper_1997_Plato_Complete_works\, p. 879.
+[^Nozick1981]: @Nozick_1981_Philosophical_Explanations\.
+[^RepublicV477]: Plato, *Republic V* 477--8, @Cooper_1997_Plato_Complete_works\, p. 1103--4.
+[^Theaetetus186]: Plato, *Theaetetus* 186--7, @Cooper_1997_Plato_Complete_works\, p. 205--7.
+[^Theaetetus201b]: Plato, *Theaetetus* 201b--d, @Cooper_1997_Plato_Complete_works\, p. 222--3.
+
+
+### Epistemic errors
+
+#### Fallibility
+
+-   Fallibility
+
+Sophocles:
+
+>   One must learn by doing the thing; though you think you know it,
+>   you have no certainty until you try.
+
+Feynman:
+
+>   All scientific knowledge is uncertain...
+>   [W]hat we call scientific knowledge today is a body of statements of
+>   varying degrees of certainty. Some of them are most unsure. Some of
+>   them nearly sure; but none of them is certain. [^Feynman1998p26]
+
+The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*. Russell:
+
+>   You're walking by a clock that you've always known
+>   to be accurate in the past. You glance up at it and see that it reads
+>   five o'clock; on the basis of this you believe that it's five o'clock.
+>   Your belief is justified, and as it happens it is five o'clock.
+>   But unbeknownst to you, the clock stopped exactly twelve hours ago. [^Russell2009]
+
+[^Feynman1998p26]: @Feynman_1998_The_Meaning_of_It_All\, p. 26--27.
+[^Russell2009]: @Russell_2009_Human_Knowledge_Its_Scope_and_Limits\.
+
+
+#### Gettier cases
+
+-   Knowledge = JTB - G
+-   Gettier, E.L. (1963). Is justified true belief knowledge? [^Gettier1963]
+-   Clark, M. (1963). Knowledge and grounds: A comment on Mr. Gettier's paper. [^Clark1963]
+
+[^Clark1963]: @Clark_1963_Knowledge_and_grounds_A_comment_on_MrGettiers\.
+[^Gettier1963]: @Gettier_1963_Is_justified_true_belief_knowledge\.
+
+
+#### Systematic uncertainties
+
+-   Failed justification
+-   Mayo on error statistics and severe testing
+-   TODO: discussion by me
+
+See also:
+
+-   [Sinervo classification of systematic uncertainties](#sinervo-classification-of-systematic-uncertainties)
+
+
+#### Internalism vs externalism
+
+-   TODO?
+
+
+### Scientific knowledge
+
+-   Aristotle: scientific knowledge is to "know the cause on which the fact depends"
+-   Scientific method, community, and body of knowledge
+-   Naturalism
+    -   Hume on the problem of induction and the uniformity of nature, again
+    -   Monism
+    -   Reductionism
+-   Ontological implications of science
+    -   Positivism
+    -   Realism
+-   Big data
+    -   Mart&iacute;nez-Ordaz, M. del R. (2021). [Is there anything special about the ignorance involved in big data practices?](http://philsci-archive.pitt.edu/19671/) [^MartinezOrdaz2021a]
+-   Criticism: scientism
+    -   Are there other ways of knowing?
+-   [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+    -   [Proof of knowledge](https://en.wikipedia.org/wiki/Proof_of_knowledge) (cryptography)
+    -   [Silvio Micali: Lex Fridman podcast](https://www.youtube.com/watch?v=zNdhgOk4-fE&ab_channel=LexFridman) - 1h25+
+    -   Verification and knowledge are different concepts
+
+From Aristotle's *Posterior Analytics*:
+
+>   We suppose ourselves to possess unqualified scientific knowledge of a thing,
+>   as opposed to knowing it in the accidental way in which the sophist knows,
+>   when we think that we know the cause on which the fact depends, as the cause
+>   of that fact and of no other, and, further, that the fact could not be other
+>   than it is. [^PosteriorAnalyticsBook1ch2Mure]
+
+another translation:
+
+>   We think we understand something simpliciter (and not in the
+>   sophistical way, incidentally) when we think we know of the
+>   explanation because of which the object holds that it is its
+>   explanation, and also that it is not possible for it to be otherwise.
+>   It is plain, then, that to understand is something of this
+>   sort. [^PosteriorAnalyticsBook1ch2Barnes]
+
+See also:
+
+-   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
+-   [Outline on scientific realism](scientific-realism.html)
+    -   [Scientific progress](scientific-realism.html#scientific-progress)
+-   [Outline on naturalism](naturalism.html)
+
+[^PosteriorAnalyticsBook1ch2Barnes]: @Aristotle_1993_Posterior_Analytics\, book 1, chapter 2.
+[^PosteriorAnalyticsBook1ch2Mure]: @Aristotle_2007_Posterior_Analytics\, book 1, chapter 2.
+[^MartinezOrdaz2021a]: @Martinez_Ordaz_2021_Is_there_anything_special_about_the_ignorance\.
+
+
 Analytic/synthetic distinction
 --------------------------------------------------------------------------------
 
@@ -1410,200 +1604,6 @@ Frigg:
 -   TODO: find good example refs
 -   Hodges, W. (2020). [Models and modelling](https://plato.stanford.edu/entries/model-theory/#Modelling).
 -   [theory](https://ncatlab.org/nlab/show/theory+%28physics%29) - nLab
-
-
-Knowledge
---------------------------------------------------------------------------------
-
-### Definining knowledge
-
-Plato:
-
--   Knowledge is power [^RepublicV477]
--   Perception is _not_ knowledge [^Theaetetus186]
-
->   I myself do not have the answer when I perplex others, but I am more
->   perplexed than anyone when I cause perplexity in others. So now I do not
->   know what virtue is; perhaps you knew before you contacted me, but now you
->   are certainly like one who does not know. Nevertheless, I want to examine
->   and seek together with you what it may be. [^Meno80d]
-
--   According to Plato, all knowledge is found through recollection.
-    -   My tweet: [Meno in a nutshell](https://twitter.com/RyanDavidReece/status/1475182905878093826)
-    -   Fraser, Ed. (2012). [Picking a fight with Plato](https://philosophynow.org/issues/90/Picking_A_Fight_With_Plato).
--   Knowledge = Justified True Belief (JTB)
-
->   SOCRATES: Then suppose a jury has been justly persuaded of some matter which
->   only an eye-witness could know, and which cannot otherwise be
->   known; suppose they come to their decision upon hearsay, forming a true
->   judgment: then they have decided the case without knowledge, but, granted
->   they did their job well, being correctly persuaded?
->   
->   THEAETETUS: Yes, certainly.
->   
->   SOCRATES: But, my dear lad, they couldn't have done that if true judgment
->   is the same thing as knowledge; in that case the best juryman in the world
->   couldn't form a correct judgment without knowledge. So it seems they must
->   be different things.
->   
->   THEAETETUS: Oh, yes, Socrates, that's just what I once heard a man say;
->   I had forgotten, but now it's coming back to me. He said that it is true
->   judgment with an account that is knowledge; true judgment without an
->   account falls outside of knowledge. And he said that the things of which
->   there is no account are not knowable (yes, he actually called them that),
->   while those which have an account are knowable.
->   
->   SOCRATES: Very good indeed. [^Theaetetus201b]
-
-![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g), 2014).](img/knowledge.png){#fig:knowledge-jtb-g}
-
-In his unfinished work, *Rules* [^DescartesRule2], Descartes defines “science” (scientia) in Rule 2 as
-
->   *Omnis scientia est cognitio certa et evidens*.          
->   All (scientific) knowledge is certain and evident cognition.
-
-In the same section, Descartes' boldy declares to reject probable knowledge
-for only what is perfectly certain:
-
->   we reject all [...] merely probable cognition and resolve to believe
->   only what is perfectly known and incapable of being doubted.
-
--   Chisholm, R. (1966). *Theory of Knowledge*. [^Chisholm1966]
-    -   The Problem of Criterion
--   Nozick, R. (1981). *Philosophical Explanations*. [^Nozick1981]
-
-Ichikawa & Jenkins:
-
->   The standard analysis of knowledge says that for any subject $S$ and any
->   proposition $p$, the following are individually necessary and jointly
->   sufficient conditions for $S$ knows that $p$:
->   
->   1. $p$
->   2. $S$ believes that $p$
->   3. $S$ is justified in believing that $p$.
->   
->   Precursors of this view are sometimes attributed to Plato, who says in the
->   *Men*o that knowledge is distinguished from mere true belief in being
->   'tied down', so that it cannot easily escape or be lost as mere true belief
->   can. Views more closely resembling the above formulation of the JTB analysis
->   are attributed by Edmund Gettier to Roderick Chisholm and A. J. Ayer.
->   Neither of those authors phrased their conditions for knowledge exactly
->   this way. The now-usual formulation, in terms of justification, is so in
->   large part because of Gettier (1963). [^Ichikawa2017]
-
-[^Chisholm1966]: @Chisholm_1966_Theory_of_Knowledge\.
-[^DescartesRule2]: @Descartes_1996_Oeuvres_de_Descartes_11_volumes\, vol. 10, p. 362.
-[^Ichikawa2017]: @Ichikawa_2017_On_putting_knowledge_first\.
-[^Meno80d]: Plato, *Meno* 80d, @Cooper_1997_Plato_Complete_works\, p. 879.
-[^Nozick1981]: @Nozick_1981_Philosophical_Explanations\.
-[^RepublicV477]: Plato, *Republic V* 477--8, @Cooper_1997_Plato_Complete_works\, p. 1103--4.
-[^Theaetetus186]: Plato, *Theaetetus* 186--7, @Cooper_1997_Plato_Complete_works\, p. 205--7.
-[^Theaetetus201b]: Plato, *Theaetetus* 201b--d, @Cooper_1997_Plato_Complete_works\, p. 222--3.
-
-
-### Epistemic errors
-
-#### Fallibility
-
--   Fallibility
-
-Sophocles:
-
->   One must learn by doing the thing; though you think you know it,
->   you have no certainty until you try.
-
-Feynman:
-
->   All scientific knowledge is uncertain...
->   [W]hat we call scientific knowledge today is a body of statements of
->   varying degrees of certainty. Some of them are most unsure. Some of
->   them nearly sure; but none of them is certain. [^Feynman1998p26]
-
-The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*. Russell:
-
->   You're walking by a clock that you've always known
->   to be accurate in the past. You glance up at it and see that it reads
->   five o'clock; on the basis of this you believe that it's five o'clock.
->   Your belief is justified, and as it happens it is five o'clock.
->   But unbeknownst to you, the clock stopped exactly twelve hours ago. [^Russell2009]
-
-[^Feynman1998p26]: @Feynman_1998_The_Meaning_of_It_All\, p. 26--27.
-[^Russell2009]: @Russell_2009_Human_Knowledge_Its_Scope_and_Limits\.
-
-
-#### Gettier cases
-
--   Knowledge = JTB - G
--   Gettier, E.L. (1963). Is justified true belief knowledge? [^Gettier1963]
--   Clark, M. (1963). Knowledge and grounds: A comment on Mr. Gettier's paper. [^Clark1963]
-
-[^Clark1963]: @Clark_1963_Knowledge_and_grounds_A_comment_on_MrGettiers\.
-[^Gettier1963]: @Gettier_1963_Is_justified_true_belief_knowledge\.
-
-
-#### Systematic uncertainties
-
--   Failed justification
--   Mayo on error statistics and severe testing
--   TODO: discussion by me
-
-See also:
-
--   [Sinervo classification of systematic uncertainties](#sinervo-classification-of-systematic-uncertainties)
-
-
-#### Internalism vs externalism
-
--   TODO?
-
-
-### Scientific knowledge
-
--   Aristotle: scientific knowledge is to "know the cause on which the fact depends"
--   Scientific method, community, and body of knowledge
--   Naturalism
-    -   Hume on the problem of induction and the uniformity of nature, again
-    -   Monism
-    -   Reductionism
--   Ontological implications of science
-    -   Positivism
-    -   Realism
--   Big data
-    -   Mart&iacute;nez-Ordaz, M. del R. (2021). [Is there anything special about the ignorance involved in big data practices?](http://philsci-archive.pitt.edu/19671/) [^MartinezOrdaz2021a]
--   Criticism: scientism
-    -   Are there other ways of knowing?
--   [Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
-    -   [Proof of knowledge](https://en.wikipedia.org/wiki/Proof_of_knowledge) (cryptography)
-    -   [Silvio Micali: Lex Fridman podcast](https://www.youtube.com/watch?v=zNdhgOk4-fE&ab_channel=LexFridman) - 1h25+
-    -   Verification and knowledge are different concepts
-
-From Aristotle's *Posterior Analytics*:
-
->   We suppose ourselves to possess unqualified scientific knowledge of a thing,
->   as opposed to knowing it in the accidental way in which the sophist knows,
->   when we think that we know the cause on which the fact depends, as the cause
->   of that fact and of no other, and, further, that the fact could not be other
->   than it is. [^PosteriorAnalyticsBook1ch2Mure]
-
-another translation:
-
->   We think we understand something simpliciter (and not in the
->   sophistical way, incidentally) when we think we know of the
->   explanation because of which the object holds that it is its
->   explanation, and also that it is not possible for it to be otherwise.
->   It is plain, then, that to understand is something of this
->   sort. [^PosteriorAnalyticsBook1ch2Barnes]
-
-See also:
-
--   Sean Carroll on scientific epistemology: [debate with Hans Halvorson](https://www.youtube.com/watch?v=H864JH1tPYU#t=3930)
--   [Outline on scientific realism](scientific-realism.html)
-    -   [Scientific progress](scientific-realism.html#scientific-progress)
--   [Outline on naturalism](naturalism.html)
-
-[^PosteriorAnalyticsBook1ch2Barnes]: @Aristotle_1993_Posterior_Analytics\, book 1, chapter 2.
-[^PosteriorAnalyticsBook1ch2Mure]: @Aristotle_2007_Posterior_Analytics\, book 1, chapter 2.
-[^MartinezOrdaz2021a]: @Martinez_Ordaz_2021_Is_there_anything_special_about_the_ignorance\.
 
 
 Pseudoscience
