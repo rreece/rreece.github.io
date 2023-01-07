@@ -1892,24 +1892,34 @@ More:
 
 #### Counterfactual regret minimization
 
--   Counterfactual Regret Minimization (CFR)
--   CFR differs from traditional RL algorithms in that it does not try to
-    maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games
-    ([source: Quora](https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization)).
--   Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. [^Hart2000]
--   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
--   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
-    -   Monte Carlo Counterfactual Regret Minimization (MCCFR)
--   Neller, T.W. & Lanctot, M. (2013). [An introduction to counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf). [^Neller2013]
--   Gibson, R.G. (2014). [*Regret minimization in games and the development of champion multiplayer computer poker-playing agents*](https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf). [^Gibson2014]
--   Czarnog&oacute;rski, K. (2018). [Counterfactual Regret Minimization - the core of poker AI beating professional players](https://int8.io/counterfactual-regret-minimization-for-poker-ai/).
--   Burch, N. (2018). [*Time and Space: Why imperfect information games are hard*](https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf). [^Burch2018]
+-   Regret matching (RM)
+    -   Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. [^Hart2000]
+-   Counterfactual regret minimization (CFR)
+    -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
+    -   Counterfactual regret minimization (CFR) is an algorithm for extensive-form games that
+        independently minimizes regret in each information set. [^Brown2020thesisp12]
+    -   "In other words, actions are selected in proportion to the amount of positive counterfactual regret
+        for not playing that action." [^Zinkevich2007p4]
+    -   CFR differs from traditional RL algorithms in that it does not try to
+        maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games
+        ([source: Quora](https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization)).
+    -   Czarnog&oacute;rski, K. (2018). [Counterfactual Regret Minimization - the core of poker AI beating professional players](https://int8.io/counterfactual-regret-minimization-for-poker-ai/).
+    -   <https://github.com/int8/counterfactual-regret-minimization>
+-   Monte Carlo Counterfactual Regret Minimization (MCCFR)
+    -   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
+    -   Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). [Efficient Monte Carlo counterfactual regret minimization in games with many player actions](https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf). [^Burch2012]
+    -   Neller, T.W. & Lanctot, M. (2013). [An introduction to counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf). [^Neller2013]
+    -   Gibson, R. (2014). [*Regret minimization in games and the development of champion multiplayer computer poker-playing agents*](https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf). [^Gibson2014]
+    -   Burch, N. (2018). [*Time and Space: Why imperfect information games are hard*](https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf). [^Burch2018]
 
+[^Brown2020thesisp12]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 12.
+[^Burch2012]: @Burch_2012_Efficient_Monte_Carlo_counterfactual_regret\.
 [^Burch2018]: @Burch_2018_Time_and_Space_Why_imperfect_information_games\.
 [^Gibson2014]: @Gibson_2014_Regret_minimization_in_games_and_the_development\.
 [^Hart2000]: @Hart_2000_A_simple_adaptive_procedure_leading_to_correlated\.
 [^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
 [^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.
+[^Zinkevich2007p4]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\, p. 4.
 [^Neller2013]: @Neller_2013_An_introduction_to_counterfactual_regret\.
 
 

@@ -100,7 +100,8 @@ Gandenberger, G. (2015). A new proof of the likelihood principle. *British Journ
 Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 16(7), 1--22. https://quod.lib.umich.edu/p/phimp/3521354.0016.007/--why-i-am-not-a-likelihoodist
 Gao, Y. & Chaudhari, P. (2020). An information-geometric distance on the space of tasks. https://arxiv.org/abs/2011.00613
 Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
-Gibson, R.G. (2014). *Regret minimization in games and the development of champion multiplayer computer poker-playing agents*. University of Alberta. https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf [(Ph.D. thesis)]
+Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). Efficient Monte Carlo counterfactual regret minimization in games with many player actions. *Advances in Neural Information Processing Systems*, 25. https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf
+Gibson, R. (2014). *Regret minimization in games and the development of champion multiplayer computer poker-playing agents*. University of Alberta. https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf [(Ph.D. thesis)]
 Goldreich, O. & Ron, D. (1997). On universal learning algorithms. *Information Processing Letters*, 63(3), 131--136. https://www.wisdom.weizmann.ac.il/~oded/p_ul.html
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. http://www.deeplearningbook.org
