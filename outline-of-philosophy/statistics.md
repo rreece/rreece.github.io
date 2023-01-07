@@ -1892,25 +1892,71 @@ More:
 
 #### Counterfactual regret minimization
 
--   Regret matching (RM)
-    -   Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. [^Hart2000]
--   Counterfactual regret minimization (CFR)
-    -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
-    -   Counterfactual regret minimization (CFR) is an algorithm for extensive-form games that
-        independently minimizes regret in each information set. [^Brown2020thesisp12]
-    -   "In other words, actions are selected in proportion to the amount of positive counterfactual regret
-        for not playing that action." [^Zinkevich2007p4]
-    -   CFR differs from traditional RL algorithms in that it does not try to
-        maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games
-        ([source: Quora](https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization)).
-    -   Czarnog&oacute;rski, K. (2018). [Counterfactual Regret Minimization - the core of poker AI beating professional players](https://int8.io/counterfactual-regret-minimization-for-poker-ai/).
-    -   <https://github.com/int8/counterfactual-regret-minimization>
--   Monte Carlo Counterfactual Regret Minimization (MCCFR)
-    -   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
-    -   Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). [Efficient Monte Carlo counterfactual regret minimization in games with many player actions](https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf). [^Burch2012]
-    -   Neller, T.W. & Lanctot, M. (2013). [An introduction to counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf). [^Neller2013]
-    -   Gibson, R. (2014). [*Regret minimization in games and the development of champion multiplayer computer poker-playing agents*](https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf). [^Gibson2014]
-    -   Burch, N. (2018). [*Time and Space: Why imperfect information games are hard*](https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf). [^Burch2018]
+**Regret matching (RM)**
+
+-   Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. [^Hart2000]
+
+Consider a game like rock-paper-scissors, where there is only one action per round.
+Let $v^{t}(a)$ be the value observed when playing action $a$ on iteration $t$.
+
+Let a strategy, $\sigma^t$, be a probability distribution over actions, $a \in A$.
+Then the value of a strategy is the expectation of its value over actions,
+$v^{t}(\sigma) = \sum_{a \in A} \sigma^{t}(a) v^{t}(a)$.
+
+Regret, $R^{T}$, measures how much better some sequence of strategies, $\{\sigma'\}$,
+would do compared to the chosen sequence of strategies, $\{\sigma\} = \{\sigma^1, \sigma^2, \ldots \sigma^T\}$.
+
+$$ R^{T} \equiv \sum_{t=1}^{T} \left( v^{t}(\sigma') - v^{t}(\sigma) \right) \label{eq:regret} $$
+
+External regret, $R^{T}(a)$, measures the regret of the chosen sequence of strategies versus
+a hypothetical stategy where action $a$ is always chosen.
+
+$$ R^{T}(a) \equiv \sum_{t=1}^{T} \left( v^{t}(a) - v^{t}(\sigma) \right) \label{eq:external_regret} $$
+
+Regret Matching (RM) is a rule to determine the strategy for the next iteration:
+
+$$ \sigma^{t+1}(a) \equiv \frac{ R^{t}_{+}(a) }{ \sum_{b \in A} R^{t}_{+}(b) } \label{eq:regret_matching} $$
+
+where $R_{+} \equiv \mathrm{max}(R, 0)$.
+
+TODO: explain the average strategy: $\bar{\sigma}^{T}$.
+
+TODO: explain the convergence of $\bar{\sigma}^{T}$ to an $\varepsilon$-Nash equilibrium.
+
+**Counterfactual regret minimization (CFR)**
+
+-   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
+-   Counterfactual regret minimization (CFR) is an algorithm for extensive-form games that
+    independently minimizes regret in each information set. [^Brown2020thesisp12]
+-   "In other words, actions are selected in proportion to the amount of positive counterfactual regret
+    for not playing that action." [^Zinkevich2007p4]
+-   CFR differs from traditional RL algorithms in that it does not try to
+    maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games
+    ([source: Quora](https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization)).
+-   Czarnog&oacute;rski, K. (2018). [Counterfactual Regret Minimization - the core of poker AI beating professional players](https://int8.io/counterfactual-regret-minimization-for-poker-ai/).
+-   <https://github.com/int8/counterfactual-regret-minimization>
+-   Tammelin, O. (2014). [Solving large imperfect information games using CFR+](https://arxiv.org/abs/1407.5042). [^Tammelin2014]
+
+TODO: explain extensive-form games.
+
+Counter factual value of an infoset $I$ is the expected utility to player $i$ given that $I$ has
+been reached, weighed by the external reach of $I$ for player $i$. Formally, [^Brown2020thesisp12]
+
+$$ v(I) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h, z) \: u_{i}(z) \label{eq:counter_factual_value} $$
+
+The counter factual value of an action, $a$, is
+
+$$ v(I, a) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h \cdot a, z) \: u_{i}(z) \label{eq:counter_factual_value_of_a} $$
+
+**Monte Carlo Counterfactual Regret Minimization (MCCFR)**
+
+-   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
+-   Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). [Efficient Monte Carlo counterfactual regret minimization in games with many player actions](https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf). [^Burch2012]
+-   Neller, T.W. & Lanctot, M. (2013). [An introduction to counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf). [^Neller2013]
+-   Gibson, R. (2014). [*Regret minimization in games and the development of champion multiplayer computer poker-playing agents*](https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf). [^Gibson2014]
+-   Burch, N. (2018). [*Time and Space: Why imperfect information games are hard*](https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf). [^Burch2018]
+
+TODO: explain MCCFR.
 
 [^Brown2020thesisp12]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 12.
 [^Burch2012]: @Burch_2012_Efficient_Monte_Carlo_counterfactual_regret\.
@@ -1918,9 +1964,10 @@ More:
 [^Gibson2014]: @Gibson_2014_Regret_minimization_in_games_and_the_development\.
 [^Hart2000]: @Hart_2000_A_simple_adaptive_procedure_leading_to_correlated\.
 [^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
+[^Neller2013]: @Neller_2013_An_introduction_to_counterfactual_regret\.
+[^Tammelin2014]: @Tammelin_2014_Solving_large_imperfect_information_games_using\.
 [^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.
 [^Zinkevich2007p4]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\, p. 4.
-[^Neller2013]: @Neller_2013_An_introduction_to_counterfactual_regret\.
 
 
 #### Solving poker

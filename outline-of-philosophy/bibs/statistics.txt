@@ -253,6 +253,7 @@ Sutskever, I. (2015). A brief overview of deep learning. https://web.archive.org
 Sutton, R.S., & Barto, A.G. (2018). *Reinforcement Learning* (2nd ed.). MIT Press.
 Sutton, R.S. (2019). The bitter lesson. http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
+Tammelin, O. (2014). Solving large imperfect information games using CFR+. https://arxiv.org/abs/1407.5042
 Tan, M. & Le, Q.V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. https://arxiv.org/abs/1905.11946
 Tan, M. & Le, Q.V. (2021). EfficientNetV2: Smaller models and faster training. https://arxiv.org/abs/2104.00298
 Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). Efficient transformers: A survey. https://arxiv.org/abs/2009.06732
