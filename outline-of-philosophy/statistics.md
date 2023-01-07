@@ -1414,7 +1414,7 @@ See also:
 -   Aytekin, C. (2022). [Neural networks are decision trees](https://arxiv.org/abs/2210.05189). [^Aytekin2022]
 -   Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815) [^Grinsztajn2022]
 
-[^Aytekin2022]: @Aytekin_2022_Neural_networks_are_decision_trees.
+[^Aytekin2022]: @Aytekin_2022_Neural_networks_are_decision_trees\.
 [^Chen2016]: @Chen_2016_Xgboost_A_scalable_tree_boosting_system\.
 [^Grinsztajn2022]: @Grinsztajn_2022_Why_do_tree_based_models_still_outperform_deep\.
 
