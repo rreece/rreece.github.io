@@ -1626,13 +1626,15 @@ D_\mathrm{KL}(p, q)
 <li>Monte Carlo Tree Search (MCTS)</li>
 </ul></li>
 </ul>
-<h4 id="counterfactual-regret-minimization">Counterfactual regret minimization</h4>
+<h4 id="regret-minimization">Regret minimization</h4>
 <p><strong>Regret matching (RM)</strong></p>
 <ul>
 <li>Hart, S. &amp; Mas&#x2010;Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium.<a href="#fn224" class="footnote-ref" id="fnref224" role="doc-noteref"><sup>224</sup></a></li>
 </ul>
 <p>Consider a game like rock-paper-scissors, where there is only one action per round. Let <span class="math inline">\(v^{t}(a)\)</span> be the value observed when playing action <span class="math inline">\(a\)</span> on iteration <span class="math inline">\(t\)</span>.</p>
-<p>Let a strategy, <span class="math inline">\(\sigma^t\)</span>, be a probability distribution over actions, <span class="math inline">\(a \in A\)</span>. Then the value of a strategy is the expectation of its value over actions, <span class="math inline">\(v^{t}(\sigma) = \sum_{a \in A} \sigma^{t}(a) v^{t}(a)\)</span>.</p>
+<p>TODO: explain that the entire rewards vector, <span class="math inline">\(v^{t}(a)\)</span>, over <span class="math inline">\(a\)</span> is observable after the chosen action is played.</p>
+<p>Let a strategy, <span class="math inline">\(\sigma^t\)</span>, be a probability distribution over actions, <span class="math inline">\(a \in A\)</span>. Then the value of a strategy, <span class="math inline">\(v^{t}(\sigma)\)</span>, is the expectation of its value over actions.</p>
+<p><span class="math display">\[ v^{t}(\sigma) = \sum_{a \in A} \sigma^{t}(a) \: v^{t}(a) \label{eq:value_of_strategy} \]</span></p>
 <p>Regret, <span class="math inline">\(R^{T}\)</span>, measures how much better some sequence of strategies, <span class="math inline">\(\{\sigma&#39;\}\)</span>, would do compared to the chosen sequence of strategies, <span class="math inline">\(\{\sigma\} = \{\sigma^1, \sigma^2, \ldots \sigma^T\}\)</span>.</p>
 <p><span class="math display">\[ R^{T} \equiv \sum_{t=1}^{T} \left( v^{t}(\sigma&#39;) - v^{t}(\sigma) \right) \label{eq:regret} \]</span></p>
 <p>External regret, <span class="math inline">\(R^{T}(a)\)</span>, measures the regret of the chosen sequence of strategies versus a hypothetical stategy where action <span class="math inline">\(a\)</span> is always chosen.</p>
@@ -1659,11 +1661,15 @@ D_\mathrm{KL}(p, q)
 <li>A function P that assigns to each non-terminal history a member of <span class="math inline">\(N \cup \{c\}\)</span>. <span class="math inline">\(P\)</span> is the player function. <span class="math inline">\(P(h)\)</span> is the player who takes an action after the history <span class="math inline">\(h\)</span>. If <span class="math inline">\(P(h) = c\)</span> then chance determines the action taken after history <span class="math inline">\(h\)</span>.</li>
 <li>For each player <span class="math inline">\(i \in N \cup \{c\}\)</span> a partition <span class="math inline">\(\mathcal{I}_i\)</span> of <span class="math inline">\(\{h \in H : P (h) = i\}\)</span> with the property that <span class="math inline">\(A(h) = A(h&#39;)\)</span> whenever <span class="math inline">\(h\)</span> and <span class="math inline">\(h&#39;\)</span> are in the same member of the partition. For <span class="math inline">\(I \in \mathcal{I}_i\)</span> we denote by <span class="math inline">\(A(I_i)\)</span> the set <span class="math inline">\(A(h)\)</span> and by <span class="math inline">\(P(I_i)\)</span> the player <span class="math inline">\(P(h)\)</span> for any <span class="math inline">\(h \in I_i\)</span> . <span class="math inline">\(\mathcal{I}_i\)</span> is the information partition of player <span class="math inline">\(i\)</span>; a set <span class="math inline">\(I_i \in \mathcal{I}_i\)</span> is an information set of player <span class="math inline">\(i\)</span>.</li>
 <li>A function <span class="math inline">\(f_c\)</span> that associates with every information set <span class="math inline">\(I\)</span> where <span class="math inline">\(P(I) = c\)</span>, a probability measure <span class="math inline">\(f_c(a|I)\)</span> on <span class="math inline">\(A(h)\)</span>; <span class="math inline">\(f_c(a|I)\)</span> is the probability that <span class="math inline">\(a\)</span> occurs given some <span class="math inline">\(h \in I\)</span>, where each such probability measure is independent of every other such measure.</li>
+<li>For each player <span class="math inline">\(i \in N\)</span> there is a utility function <span class="math inline">\(u_i\)</span> from the terminal states <span class="math inline">\(Z\)</span> to the reals <span class="math inline">\(\mathbb{R}\)</span>. If <span class="math inline">\(N = \{1, 2\}\)</span> and <span class="math inline">\(u_1 = &#x2212;u_2\)</span>, it is a zero-sum extensive game. Define <span class="math inline">\(\Delta_{u,i} \equiv \mathrm{max}_z \: u_i(z) &#x2212; \mathrm{min}_z \: u_i(z)\)</span> to be the range of utilities to player <span class="math inline">\(i\)</span>.</li>
 </ul>
+<p>TODO: explain <em>player reach</em>, <span class="math inline">\(\pi^{\sigma}_{i}(h)\)</span>.</p>
+<p>TODO: explain <em>external reach</em> AKA <em>opponent reach</em>, <span class="math inline">\(\pi^{\sigma}_{-i}(h)\)</span>.</p>
 <p>Counter factual value of an infoset <span class="math inline">\(I\)</span> is the expected utility to player <span class="math inline">\(i\)</span> given that <span class="math inline">\(I\)</span> has been reached, weighed by the external reach of <span class="math inline">\(I\)</span> for player <span class="math inline">\(i\)</span>. Formally,<a href="#fn230" class="footnote-ref" id="fnref230" role="doc-noteref"><sup>230</sup></a></p>
 <p><span class="math display">\[ v(I) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h, z) \: u_{i}(z) \label{eq:counter_factual_value} \]</span></p>
 <p>The counter factual value of an action, <span class="math inline">\(a\)</span>, is</p>
 <p><span class="math display">\[ v(I, a) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h \cdot a, z) \: u_{i}(z) \label{eq:counter_factual_value_of_a} \]</span></p>
+<p>TODO: explain CFR.</p>
 <p><strong>Monte Carlo Counterfactual Regret Minimization (MCCFR)</strong></p>
 <ul>
 <li>Lanctot, M. (2009). Monte Carlo sampling for regret minimization.<a href="#fn231" class="footnote-ref" id="fnref231" role="doc-noteref"><sup>231</sup></a></li>

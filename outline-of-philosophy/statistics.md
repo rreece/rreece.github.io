@@ -1890,7 +1890,7 @@ More:
 [^Silver2017AlphaZero]: @Silver_2017_Mastering_chess_and_shogi_by_self_play\.
 
 
-#### Counterfactual regret minimization
+#### Regret minimization
 
 **Regret matching (RM)**
 
@@ -1899,9 +1899,13 @@ More:
 Consider a game like rock-paper-scissors, where there is only one action per round.
 Let $v^{t}(a)$ be the value observed when playing action $a$ on iteration $t$.
 
+TODO: explain that the entire rewards vector, $v^{t}(a)$, over $a$ is observable
+after the chosen action is played.
+
 Let a strategy, $\sigma^t$, be a probability distribution over actions, $a \in A$.
-Then the value of a strategy is the expectation of its value over actions,
-$v^{t}(\sigma) = \sum_{a \in A} \sigma^{t}(a) v^{t}(a)$.
+Then the value of a strategy, $v^{t}(\sigma)$, is the expectation of its value over actions.
+
+$$ v^{t}(\sigma) = \sum_{a \in A} \sigma^{t}(a) \: v^{t}(a) \label{eq:value_of_strategy} $$
 
 Regret, $R^{T}$, measures how much better some sequence of strategies, $\{\sigma'\}$,
 would do compared to the chosen sequence of strategies, $\{\sigma\} = \{\sigma^1, \sigma^2, \ldots \sigma^T\}$.
@@ -1922,6 +1926,10 @@ where $R_{+} \equiv \mathrm{max}(R, 0)$.
 TODO: explain the average strategy: $\bar{\sigma}^{t}$.
 
 TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equilibrium.
+
+[^Brown2020thesisp12]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 12.
+[^Hart2000]: @Hart_2000_A_simple_adaptive_procedure_leading_to_correlated\.
+
 
 **Counterfactual regret minimization (CFR)**
 
@@ -1957,6 +1965,14 @@ components: [^Zinkevich2007andLanctot2009]
 -   A function $f_c$ that associates with every information set $I$ where $P(I) = c$, a probability
     measure $f_c(a|I)$ on $A(h)$; $f_c(a|I)$ is the probability that $a$ occurs given some $h \in I$,
     where each such probability measure is independent of every other such measure.
+-   For each player $i \in N$ there is a utility function $u_i$ from the terminal states $Z$ to the reals $\mathbb{R}$.
+    If $N = \{1, 2\}$ and $u_1 = −u_2$, it is a zero-sum extensive game.
+    Define $\Delta_{u,i} \equiv \mathrm{max}_z \: u_i(z) − \mathrm{min}_z \: u_i(z)$
+    to be the range of utilities to player $i$.
+
+TODO: explain *player reach*, $\pi^{\sigma}_{i}(h)$.
+
+TODO: explain *external reach* AKA *opponent reach*, $\pi^{\sigma}_{-i}(h)$.
 
 Counter factual value of an infoset $I$ is the expected utility to player $i$ given that $I$ has
 been reached, weighed by the external reach of $I$ for player $i$. Formally, [^Brown2020thesisp12]
@@ -1966,6 +1982,9 @@ $$ v(I) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h, z) 
 The counter factual value of an action, $a$, is
 
 $$ v(I, a) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h \cdot a, z) \: u_{i}(z) \label{eq:counter_factual_value_of_a} $$
+
+TODO: explain CFR.
+
 
 **Monte Carlo Counterfactual Regret Minimization (MCCFR)**
 
@@ -1977,11 +1996,9 @@ $$ v(I, a) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h \
 
 TODO: explain MCCFR.
 
-[^Brown2020thesisp12]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 12.
 [^Burch2012]: @Burch_2012_Efficient_Monte_Carlo_counterfactual_regret\.
 [^Burch2018]: @Burch_2018_Time_and_Space_Why_imperfect_information_games\.
 [^Gibson2014]: @Gibson_2014_Regret_minimization_in_games_and_the_development\.
-[^Hart2000]: @Hart_2000_A_simple_adaptive_procedure_leading_to_correlated\.
 [^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
 [^Neller2013]: @Neller_2013_An_introduction_to_counterfactual_regret\.
 [^Tammelin2014]: @Tammelin_2014_Solving_large_imperfect_information_games_using\.
