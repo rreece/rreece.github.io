@@ -1633,12 +1633,12 @@ D_\mathrm{KL}(p, q)
 </ul>
 <p>Consider a game like rock-paper-scissors, where there is only one action per round. Let <span class="math inline">\(v^{t}(a)\)</span> be the value observed when playing action <span class="math inline">\(a\)</span> on iteration <span class="math inline">\(t\)</span>.</p>
 <p>TODO: explain that the entire rewards vector, <span class="math inline">\(v^{t}(a)\)</span>, over <span class="math inline">\(a\)</span> is observable after the chosen action is played.</p>
-<p>Let a strategy, <span class="math inline">\(\sigma^t\)</span>, be a probability distribution over actions, <span class="math inline">\(a \in A\)</span>. Then the value of a strategy, <span class="math inline">\(v^{t}(\sigma)\)</span>, is the expectation of its value over actions.</p>
-<p><span class="math display">\[ v^{t}(\sigma) = \sum_{a \in A} \sigma^{t}(a) \: v^{t}(a) \label{eq:value_of_strategy} \]</span></p>
+<p>Let a strategy, <span class="math inline">\(\sigma^t\)</span>, be a probability distribution over actions, <span class="math inline">\(a \in A\)</span>. Then the value of a strategy, <span class="math inline">\(v^{t}(\sigma^{t})\)</span>, is the expectation of its value over actions.</p>
+<p><span class="math display">\[ v^{t}(\sigma^{t}) = \sum_{a \in A} \sigma^{t}(a) \: v^{t}(a) \label{eq:value_of_strategy} \]</span></p>
 <p>Regret, <span class="math inline">\(R^{T}\)</span>, measures how much better some sequence of strategies, <span class="math inline">\(\{\sigma&#39;\}\)</span>, would do compared to the chosen sequence of strategies, <span class="math inline">\(\{\sigma\} = \{\sigma^1, \sigma^2, \ldots \sigma^T\}\)</span>.</p>
-<p><span class="math display">\[ R^{T} \equiv \sum_{t=1}^{T} \left( v^{t}(\sigma&#39;) - v^{t}(\sigma) \right) \label{eq:regret} \]</span></p>
+<p><span class="math display">\[ R^{T} \equiv \sum_{t=1}^{T} \left( v^{t}({\sigma&#39;}^{t}) - v^{t}(\sigma^{t}) \right) \label{eq:regret} \]</span></p>
 <p>External regret, <span class="math inline">\(R^{T}(a)\)</span>, measures the regret of the chosen sequence of strategies versus a hypothetical stategy where action <span class="math inline">\(a\)</span> is always chosen.</p>
-<p><span class="math display">\[ R^{T}(a) \equiv \sum_{t=1}^{T} \left( v^{t}(a) - v^{t}(\sigma) \right) \label{eq:external_regret} \]</span></p>
+<p><span class="math display">\[ R^{T}(a) \equiv \sum_{t=1}^{T} \left( v^{t}(a) - v^{t}(\sigma^{t}) \right) \label{eq:external_regret} \]</span></p>
 <p>Regret Matching (RM) is a rule to determine the strategy for the next iteration:</p>
 <p><span class="math display">\[ \sigma^{t+1}(a) \equiv \frac{ R^{t}_{+}(a) }{ \sum_{b \in A} R^{t}_{+}(b) } \label{eq:regret_matching} \]</span></p>
 <p>where <span class="math inline">\(R_{+} \equiv \mathrm{max}(R, 0)\)</span>.</p>

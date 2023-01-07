@@ -1903,19 +1903,19 @@ TODO: explain that the entire rewards vector, $v^{t}(a)$, over $a$ is observable
 after the chosen action is played.
 
 Let a strategy, $\sigma^t$, be a probability distribution over actions, $a \in A$.
-Then the value of a strategy, $v^{t}(\sigma)$, is the expectation of its value over actions.
+Then the value of a strategy, $v^{t}(\sigma^{t})$, is the expectation of its value over actions.
 
-$$ v^{t}(\sigma) = \sum_{a \in A} \sigma^{t}(a) \: v^{t}(a) \label{eq:value_of_strategy} $$
+$$ v^{t}(\sigma^{t}) = \sum_{a \in A} \sigma^{t}(a) \: v^{t}(a) \label{eq:value_of_strategy} $$
 
 Regret, $R^{T}$, measures how much better some sequence of strategies, $\{\sigma'\}$,
 would do compared to the chosen sequence of strategies, $\{\sigma\} = \{\sigma^1, \sigma^2, \ldots \sigma^T\}$.
 
-$$ R^{T} \equiv \sum_{t=1}^{T} \left( v^{t}(\sigma') - v^{t}(\sigma) \right) \label{eq:regret} $$
+$$ R^{T} \equiv \sum_{t=1}^{T} \left( v^{t}({\sigma'}^{t}) - v^{t}(\sigma^{t}) \right) \label{eq:regret} $$
 
 External regret, $R^{T}(a)$, measures the regret of the chosen sequence of strategies versus
 a hypothetical stategy where action $a$ is always chosen.
 
-$$ R^{T}(a) \equiv \sum_{t=1}^{T} \left( v^{t}(a) - v^{t}(\sigma) \right) \label{eq:external_regret} $$
+$$ R^{T}(a) \equiv \sum_{t=1}^{T} \left( v^{t}(a) - v^{t}(\sigma^{t}) \right) \label{eq:external_regret} $$
 
 Regret Matching (RM) is a rule to determine the strategy for the next iteration:
 
