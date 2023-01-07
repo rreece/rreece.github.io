@@ -1919,9 +1919,9 @@ $$ \sigma^{t+1}(a) \equiv \frac{ R^{t}_{+}(a) }{ \sum_{b \in A} R^{t}_{+}(b) } \
 
 where $R_{+} \equiv \mathrm{max}(R, 0)$.
 
-TODO: explain the average strategy: $\bar{\sigma}^{T}$.
+TODO: explain the average strategy: $\bar{\sigma}^{t}$.
 
-TODO: explain the convergence of $\bar{\sigma}^{T}$ to an $\varepsilon$-Nash equilibrium.
+TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equilibrium.
 
 **Counterfactual regret minimization (CFR)**
 
@@ -1938,6 +1938,25 @@ TODO: explain the convergence of $\bar{\sigma}^{T}$ to an $\varepsilon$-Nash equ
 -   Tammelin, O. (2014). [Solving large imperfect information games using CFR+](https://arxiv.org/abs/1407.5042). [^Tammelin2014]
 
 TODO: explain extensive-form games.
+
+A finite *extensive game* with imperfect information has the following
+components: [^Zinkevich2007andLanctot2009]
+
+-   A finite set $N$ of players. A finite set $H$ of sequences, the possible histories of actions, such
+    that the empty sequence is in $H$ and every prefix of a sequence in $H$ is also in $H$. Define
+    $h \sqsubseteq h'$ to mean $h$ is a prefix of $h'$. $Z \subseteq H$ are the terminal histories (those which are not
+    a prefix of any other sequences). $A(h) = \{a : ha \in H\}$ are the actions available after a
+    non-terminal history, $h \in H \backslash Z$.
+-   A function P that assigns to each non-terminal history a member of $N \cup \{c\}$. $P$ is the
+    player function. $P(h)$ is the player who takes an action after the history $h$. If $P(h) = c$
+    then chance determines the action taken after history $h$.
+-   For each player $i \in N \cup \{c\}$ a partition $\mathcal{I}_i$ of $\{h \in H : P (h) = i\}$ with the property that
+    $A(h) = A(h')$ whenever $h$ and $h'$ are in the same member of the partition. For $I \in \mathcal{I}_i$
+    we denote by $A(I_i)$ the set $A(h)$ and by $P(I_i)$ the player $P(h)$ for any $h \in I_i$ . $\mathcal{I}_i$ is the
+    information partition of player $i$; a set $I_i \in \mathcal{I}_i$ is an information set of player $i$.
+-   A function $f_c$ that associates with every information set $I$ where $P(I) = c$, a probability
+    measure $f_c(a|I)$ on $A(h)$; $f_c(a|I)$ is the probability that $a$ occurs given some $h \in I$,
+    where each such probability measure is independent of every other such measure.
 
 Counter factual value of an infoset $I$ is the expected utility to player $i$ given that $I$ has
 been reached, weighed by the external reach of $I$ for player $i$. Formally, [^Brown2020thesisp12]
@@ -1968,6 +1987,8 @@ TODO: explain MCCFR.
 [^Tammelin2014]: @Tammelin_2014_Solving_large_imperfect_information_games_using\.
 [^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.
 [^Zinkevich2007p4]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\, p. 4.
+[^Zinkevich2007andLanctot2009]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete and
+    @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
 
 
 #### Solving poker
