@@ -327,6 +327,8 @@ $$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
 -   We will return to the frequentist vs bayesian debate in the section on the
     ["Statistics Wars"](#statistics-wars).
 
+Fisher:
+
 >   To appeal to such a result is absurd. Bayes' theorem ought only to be
 >   used where we have in past experience, as for example in the case of
 >   probabilities and other statistical ratios, met with every admissible
@@ -1907,8 +1909,8 @@ Then the value of a strategy, $v^{t}(\sigma^{t})$, is the expectation of its val
 
 $$ v^{t}(\sigma^{t}) = \sum_{a \in A} \sigma^{t}(a) \: v^{t}(a) \label{eq:value_of_strategy} $$
 
-Regret, $R^{T}$, measures how much better some sequence of strategies, $\{\sigma'\}$,
-would do compared to the chosen sequence of strategies, $\{\sigma\} = \{\sigma^1, \sigma^2, \ldots \sigma^T\}$.
+Regret, $R^{T}$, measures how much better some sequence of strategies, $\sigma'$,
+would do compared to the chosen sequence of strategies, $\sigma = \{\sigma^1, \sigma^2, \ldots \sigma^T\}$.
 
 $$ R^{T} \equiv \sum_{t=1}^{T} \left( v^{t}({\sigma'}^{t}) - v^{t}(\sigma^{t}) \right) \label{eq:regret} $$
 
@@ -1970,20 +1972,39 @@ components: [^Zinkevich2007andLanctot2009]
     Define $\Delta_{u,i} \equiv \mathrm{max}_z \: u_i(z) − \mathrm{min}_z \: u_i(z)$
     to be the range of utilities to player $i$.
 
-TODO: explain *player reach*, $\pi^{\sigma}_{i}(h)$.
+The *player reach*, $\pi^{\sigma}_{i}(h)$, of a history $h$ is the product of the
+probabilities for all agent $i$ actions leading to $h$. Formally, [^Brown2020thesisp6]
 
-TODO: explain *external reach* AKA *opponent reach*, $\pi^{\sigma}_{-i}(h)$.
+$$ \pi^{\sigma}_{i}(h) \equiv \prod_{h' \cdot a' \sqsubseteq h | P(h') = i} \sigma_{i}(h', a') \label{eq:player_reach} $$
 
-Counter factual value of an infoset $I$ is the expected utility to player $i$ given that $I$ has
+Due to perfect recall, any two histories in infoset $I_i$ have the same player reach
+for player $i$. Thus, we similarly define the player reach $\pi^{\sigma}_{i}(I_i)$ of infoset $I_i$ as
+
+$$ \pi^{\sigma}_{i}(I_i) \equiv \prod_{{I'}_{i} \cdot a' \sqsubseteq I_i | P(I_i) = i} \sigma_{i}({I'}_{i}, a') = \left.\pi^{\sigma}_{i}(h)\right|_{h \in I_i} \label{eq:player_reach_from_infoset} $$
+
+The *external reach* AKA *opponent reach*, $\pi^{\sigma}_{-i}(h)$, of a history $h$ is the contribution of
+chance and all other players than $i$. Formally,
+
+$$ \pi^{\sigma}_{-i}(h) \equiv \prod_{h' \cdot a' \sqsubseteq h | P(h') \neq i} \sigma_{i}(h', a') \label{eq:external_reach} $$
+
+We also define the external reach of an infoset as
+
+$$ \pi^{\sigma}_{-i}(I_i) \equiv \sum_{h \in I_{i}} \pi^{\sigma}_{-i}(h) \label{eq:external_reach_from_infoset} $$
+
+The *counterfactual value* of an infoset $I$ is the expected utility to player $i$ given that $I$ has
 been reached, weighed by the external reach of $I$ for player $i$. Formally, [^Brown2020thesisp12]
 
 $$ v(I) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h, z) \: u_{i}(z) \label{eq:counter_factual_value} $$
 
-The counter factual value of an action, $a$, is
+The counterfactual value of an action, $a$, is
 
 $$ v(I, a) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h \cdot a, z) \: u_{i}(z) \label{eq:counter_factual_value_of_a} $$
 
+TODO: how does this expand over many actions?
+
 TODO: explain CFR.
+
+[^Brown2020thesisp6]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 6.
 
 
 **Monte Carlo Counterfactual Regret Minimization (MCCFR)**
