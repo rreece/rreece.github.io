@@ -2014,6 +2014,7 @@ TODO: explain CFR.
 -   Neller, T.W. & Lanctot, M. (2013). [An introduction to counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf). [^Neller2013]
 -   Gibson, R. (2014). [*Regret minimization in games and the development of champion multiplayer computer poker-playing agents*](https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf). [^Gibson2014]
 -   Burch, N. (2018). [*Time and Space: Why imperfect information games are hard*](https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf). [^Burch2018]
+-   Li, H. et al. (2020). [Regret minimization via novel vectorized sampling policies and exploration](http://aaai-rlg.mlanctot.info/2020/papers/AAAI20-RLG_paper_14.pdf). [^Li2020]
 
 TODO: explain MCCFR.
 
@@ -2021,6 +2022,7 @@ TODO: explain MCCFR.
 [^Burch2018]: @Burch_2018_Time_and_Space_Why_imperfect_information_games\.
 [^Gibson2014]: @Gibson_2014_Regret_minimization_in_games_and_the_development\.
 [^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
+[^Li2020]: @Li_2020_Regret_minimization_via_novel_vectorized_sampling\.
 [^Neller2013]: @Neller_2013_An_introduction_to_counterfactual_regret\.
 [^Tammelin2014]: @Tammelin_2014_Solving_large_imperfect_information_games_using\.
 [^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.
