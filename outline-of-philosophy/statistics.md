@@ -1957,7 +1957,7 @@ components: [^Zinkevich2007andLanctot2009]
     $h \sqsubseteq h'$ to mean $h$ is a prefix of $h'$. $Z \subseteq H$ are the terminal histories (those which are not
     a prefix of any other sequences). $A(h) = \{a : ha \in H\}$ are the actions available after a
     non-terminal history, $h \in H \backslash Z$.
--   A function P that assigns to each non-terminal history a member of $N \cup \{c\}$. $P$ is the
+-   A function $P$ that assigns to each non-terminal history a member of $N \cup \{c\}$. $P$ is the
     player function. $P(h)$ is the player who takes an action after the history $h$. If $P(h) = c$
     then chance determines the action taken after history $h$.
 -   For each player $i \in N \cup \{c\}$ a partition $\mathcal{I}_i$ of $\{h \in H : P (h) = i\}$ with the property that
@@ -2017,6 +2017,10 @@ TODO: explain CFR.
 -   Li, H. et al. (2020). [Regret minimization via novel vectorized sampling policies and exploration](http://aaai-rlg.mlanctot.info/2020/papers/AAAI20-RLG_paper_14.pdf). [^Li2020]
 
 TODO: explain MCCFR.
+
+External sampling MCCFR:
+
+$$ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] \rightarrow z) \label{eq:external_sample_mccfr} $$
 
 [^Burch2012]: @Burch_2012_Efficient_Monte_Carlo_counterfactual_regret\.
 [^Burch2018]: @Burch_2018_Time_and_Space_Why_imperfect_information_games\.

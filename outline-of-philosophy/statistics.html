@@ -6,7 +6,7 @@
   <meta http-equiv="Content-Style-Type" content="text/css" />
   <meta name="generator" content="pandoc" />
   <meta name="author" content="Ryan Reece" />
-  <meta name="date" content="Sun Jan 08, 2023" />
+  <meta name="date" content="Wed Jan 11, 2023" />
   <title>Philosophy of statistics - Ryan's Outline of Philosophy</title>
   <meta name="description" content="Ryan Reece&#x2019;s outline of philosophy" />
   <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -1659,7 +1659,7 @@ D_\mathrm{KL}(p, q)
 <p>A finite <em>extensive game</em> with imperfect information has the following components:<a href="#fn229" class="footnote-ref" id="fnref229" role="doc-noteref"><sup>229</sup></a></p>
 <ul>
 <li>A finite set <span class="math inline">\(N\)</span> of players. A finite set <span class="math inline">\(H\)</span> of sequences, the possible histories of actions, such that the empty sequence is in <span class="math inline">\(H\)</span> and every prefix of a sequence in <span class="math inline">\(H\)</span> is also in <span class="math inline">\(H\)</span>. Define <span class="math inline">\(h \sqsubseteq h&#39;\)</span> to mean <span class="math inline">\(h\)</span> is a prefix of <span class="math inline">\(h&#39;\)</span>. <span class="math inline">\(Z \subseteq H\)</span> are the terminal histories (those which are not a prefix of any other sequences). <span class="math inline">\(A(h) = \{a : ha \in H\}\)</span> are the actions available after a non-terminal history, <span class="math inline">\(h \in H \backslash Z\)</span>.</li>
-<li>A function P that assigns to each non-terminal history a member of <span class="math inline">\(N \cup \{c\}\)</span>. <span class="math inline">\(P\)</span> is the player function. <span class="math inline">\(P(h)\)</span> is the player who takes an action after the history <span class="math inline">\(h\)</span>. If <span class="math inline">\(P(h) = c\)</span> then chance determines the action taken after history <span class="math inline">\(h\)</span>.</li>
+<li>A function <span class="math inline">\(P\)</span> that assigns to each non-terminal history a member of <span class="math inline">\(N \cup \{c\}\)</span>. <span class="math inline">\(P\)</span> is the player function. <span class="math inline">\(P(h)\)</span> is the player who takes an action after the history <span class="math inline">\(h\)</span>. If <span class="math inline">\(P(h) = c\)</span> then chance determines the action taken after history <span class="math inline">\(h\)</span>.</li>
 <li>For each player <span class="math inline">\(i \in N \cup \{c\}\)</span> a partition <span class="math inline">\(\mathcal{I}_i\)</span> of <span class="math inline">\(\{h \in H : P (h) = i\}\)</span> with the property that <span class="math inline">\(A(h) = A(h&#39;)\)</span> whenever <span class="math inline">\(h\)</span> and <span class="math inline">\(h&#39;\)</span> are in the same member of the partition. For <span class="math inline">\(I \in \mathcal{I}_i\)</span> we denote by <span class="math inline">\(A(I_i)\)</span> the set <span class="math inline">\(A(h)\)</span> and by <span class="math inline">\(P(I_i)\)</span> the player <span class="math inline">\(P(h)\)</span> for any <span class="math inline">\(h \in I_i\)</span> . <span class="math inline">\(\mathcal{I}_i\)</span> is the information partition of player <span class="math inline">\(i\)</span>; a set <span class="math inline">\(I_i \in \mathcal{I}_i\)</span> is an information set of player <span class="math inline">\(i\)</span>.</li>
 <li>A function <span class="math inline">\(f_c\)</span> that associates with every information set <span class="math inline">\(I\)</span> where <span class="math inline">\(P(I) = c\)</span>, a probability measure <span class="math inline">\(f_c(a|I)\)</span> on <span class="math inline">\(A(h)\)</span>; <span class="math inline">\(f_c(a|I)\)</span> is the probability that <span class="math inline">\(a\)</span> occurs given some <span class="math inline">\(h \in I\)</span>, where each such probability measure is independent of every other such measure.</li>
 <li>For each player <span class="math inline">\(i \in N\)</span> there is a utility function <span class="math inline">\(u_i\)</span> from the terminal states <span class="math inline">\(Z\)</span> to the reals <span class="math inline">\(\mathbb{R}\)</span>. If <span class="math inline">\(N = \{1, 2\}\)</span> and <span class="math inline">\(u_1 = &#x2212;u_2\)</span>, it is a zero-sum extensive game. Define <span class="math inline">\(\Delta_{u,i} \equiv \mathrm{max}_z \: u_i(z) &#x2212; \mathrm{min}_z \: u_i(z)\)</span> to be the range of utilities to player <span class="math inline">\(i\)</span>.</li>
@@ -1688,6 +1688,8 @@ D_\mathrm{KL}(p, q)
 <li>Li, H. et al.&#xA0;(2020). <a href="http://aaai-rlg.mlanctot.info/2020/papers/AAAI20-RLG_paper_14.pdf">Regret minimization via novel vectorized sampling policies and exploration</a>.<a href="#fn237" class="footnote-ref" id="fnref237" role="doc-noteref"><sup>237</sup></a></li>
 </ul>
 <p>TODO: explain MCCFR.</p>
+<p>External sampling MCCFR:</p>
+<p><span class="math display">\[ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] \rightarrow z) \label{eq:external_sample_mccfr} \]</span></p>
 <h4 id="solving-poker">Solving poker</h4>
 <ul>
 <li>Earlier poker work
@@ -3378,7 +3380,7 @@ Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). <span class
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Sun Jan 08, 2023</p>
+    <p>Wed Jan 11, 2023</p>
   </div>
   <div class="license">
     <p>&#xA9; 2014-2022 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>
