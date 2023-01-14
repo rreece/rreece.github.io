@@ -513,10 +513,10 @@ Model theory
 -   William Rowan Hamilton
 -   Alfred North Whitehead. (1898). *A Treatise on Universal Algebra*.
 -   Wilfrid Hodges
--   Language
+-   language
+-   Tarski
 -   Carnap
--   Traski
--   Button & Walsh [^Button2018]
+-   Button, T. & Walsh, S. (2018). *Philosophy and Model Theory*. [^Button2018]
 -   Weiss, W. & D'Mello, C. (2015). [*Fundamentals of Model Theory*](https://www.math.toronto.edu/weiss/model_theory.pdf). [^Weiss2015]
 -   [Model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
