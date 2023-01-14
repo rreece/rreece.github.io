@@ -595,7 +595,7 @@ More:
 -   Seely, R.A. [G&ouml;del on the net.](http://www.math.mcgill.ca/rags/JAC/124/godel.html)
 -   Video: [Veritasium - Math Has a Fatal Flaw](https://www.youtube.com/watch?v=HeQX2HjkcNo)
 -   Lloyd, S. (1993). Quantum-mechanical computers and uncomputability. [^Lloyd1993]
--   Cubitt, Perez-Garcia, & Wolf. (2015). Undecidability of the spectral gap. [^Cubitt2015]
+-   Cubitt, T., Perez-Garcia, D., & Wolf, M. (2015). Undecidability of the spectral gap. [^Cubitt2015]
 
 Relationship to mind:
 
