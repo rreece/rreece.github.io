@@ -516,8 +516,8 @@ Model theory
 -   language
 -   Tarski
 -   Carnap
--   Button, T. & Walsh, S. (2018). *Philosophy and Model Theory*. [^Button2018]
 -   Weiss, W. & D'Mello, C. (2015). [*Fundamentals of Model Theory*](https://www.math.toronto.edu/weiss/model_theory.pdf). [^Weiss2015]
+-   Button, T. & Walsh, S. (2018). *Philosophy and Model Theory*. [^Button2018]
 -   [Model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
     -   See also: [Formal epistemology](scientific-method.html#formal-epistemology)
