@@ -10,6 +10,7 @@ Blancke, S. & Boudry, M. (2022). Pseudoscience as a negative outcome of scientif
 Blachowicz, J. (2009). How science textbooks treat scientific method: A philosopher's perspective. *The British Journal for the Philosophy of Science*, 60(2), 303--344.
 Blachowicz, J. (2016). There is no scientific method. *The New York Times*. https://www.nytimes.com/2016/07/04/opinion/there-is-no-scientific-method.html [July 4, 2016]
 Box, G.E.P. (1976). Science and statistics. *Journal of the American Statistical Association*, 71(356), 791--799.
+Bright, L.K. & Heesen, R. (2023). To be scientific is to be communist. *Social Epistemology*, 37, 1--10. https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2156308
 Bunge, M. (1974). *Treatise on Basic Philosophy, Volume 1: Sense and Reference*. Reidel.
 Bunge, M. (1991). What is science? Does it matter to distinguish it from pseudoscience? A reply to my commentators. *New Ideas in Psychology*, 9, 245--283. https://www.hpsst.com/uploads/6/2/9/3/62931075/bunge__1991__science___pseudoscience.pdf
 Bunge, M. (2011). Knowledge: Genuine and bogus. *Science & Education*, 20, 411--438.
@@ -40,6 +41,7 @@ Frigg, R. & Hartmann, S. (2020). Models in science *Stanford Encyclopedia of Phi
 Geanakoplos, J.D. & Polemarchakis, H.M. (1982). We can't disagree forever. *Journal of Economic Theory*, 28, 192--200.
 Gettier, E.L. (1963). Is justified true belief knowledge? *Analysis*, 23, 121--3.
 Gould, S.J. (1965). Is uniformitarianism necessary? *American Journal of Science*, 263, 223--228.
+Heesen, R. (2017). Communism and the incentive to share in science. *Philosophy of Science*, 84, 698--716. 
 Hansson, S.O. & Hendricks, V.F. (2018). *Introduction to Formal Philosophy*. Springer.
 Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135--175.
 Hendricks, V.F. (2006). *Mainstream and Formal Epistemology*. Cambridge University Press.

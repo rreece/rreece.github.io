@@ -962,6 +962,7 @@ Exploratory data analysis
     -   Data collection, quality, analysis, archival, and reinterpretation
     -   RECAST
 -   [Scientific research and big data](https://plato.stanford.edu/entries/science-big-data/)
+-   HERE
 
 
 "Statistics Wars"
@@ -1795,6 +1796,8 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
 
 -   Textbooks
     -   Jurafsky, D. & Martin, J.H. (2022). [*Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition*](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf). [^Jurafsky2022]
+-   Discussion of language understanding
+    -   Mahowald, K. et al. (2023). [Dissociating language and thought in large language models: a cognitive perspective](https://arxiv.org/abs/2301.06627). [^Mahowald2023]
 
 See also:
 
@@ -1812,6 +1815,7 @@ See also:
 [^Kun2018p176]: @Kun_2018_A_Programmers_Introduction_to_Mathematics\, p. 176--8.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Lewis2019]: @Lewis_2019_BART_Denoising_sequence_to_sequence_pre_training\.
+[^Mahowald2023]: @Mahowald_2023_Dissociating_language_and_thought_in_large\.
 [^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations\,
     @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\, and
     @Mikolov_2013_Distributed_representations_of_words_and_phrases\.

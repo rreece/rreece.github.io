@@ -44,6 +44,7 @@ Leibniz, G. (1989). Dissertatio de Arte Combinatoria. In L.E. Loemker (Ed.), *Ph
 Lewis, C.S. (1947). *Miracles: A Preliminary Study*. Geoffrey Bles.
 Lugg, A. (2006). Russell as a precursor of Quine. *Bertrand Russell Society Quarterly*, 128, 9--21. https://bertrandrussellsocietyorg.files.wordpress.com/2020/04/brsq_0128-0129.pdf
 Maddy, P. (2007). *Second Philosophy*. Oxford University Press.
+Mahowald, K. et al. (2023). Dissociating language and thought in large language models: a cognitive perspective. https://arxiv.org/abs/2301.06627
 McCrea, A. (2019). The magical thinking of guys who love logic. *The Outline*. https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic [February 15, 2019]
 McEvilley, T. (2002). *The Shape of Ancient Thought: Comparative studies in Greek and Indian philosophies*. Allworth Press.
 McManus, M. (2020). Myth and mayhem: A leftist critique of Jordan Peterson. https://areomagazine.com/2020/04/19/myth-and-mayhem-a-leftist-critique-of-jordan-peterson/
@@ -54,6 +55,7 @@ Ney, A. (2018). The Politics of Fundamentality. https://fqxi.org/community/forum
 Ney, A. (2019). Are the questions of metaphysics more fundamental than those of science?. *Philosophy and Phenomenological Research*. [(\href{https://philpapers.org/rec/NEYATQ-2}{forthcoming})]
 Ney, A. (2021). The fundamentality of physics: Completeness or maximality. *Oxford Studies in Metaphysics*, 12, 203. https://philpapers.org/rec/NEYTFO
 Oppenheim, P., & Putnam, H. (1958). Unity of science as a working hypothesis. In H. Feigl et al. (Eds.), *Minnesota Studies in the Philosophy of Science, Vol. II*. Minnesota University Press.
+Overgaard, S., Gilbert, P., Burwood, S. (2013). What is philosophy? In *An Introduction to Metaphilosophy* (pp. 17--44). Cambridge University Press.
 Papineau, D. (2007). Naturalism. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/naturalism/
 Parekh, B. (2006). *Rethinking Multiculturalism: Cultural Diversity and Political Theory* (2nd ed.). Palgrave MacMillan.
 Paul, L.A. (2012). Metaphysics as modeling: the handmaiden’s tale. *Philosophical Studies*, 160, 1--29.

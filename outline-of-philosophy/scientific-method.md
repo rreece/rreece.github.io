@@ -1391,6 +1391,9 @@ Wikipedia:
     -   Ladyman: Error-catching filters [^Ladyman2007a]
     -   community, honesty, openness
     -   Mayo: Error statistics [^Mayo2011a]
+-   Communist norm
+    -   Bright, L.K. & Heesen, R. (2023). [To be scientific is to be communist](https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2156308). [^Bright2023]
+    -   Heesen, R. (2017). Communism and the incentive to share in science. [^Heesen2017]
 
 Kant:
 
@@ -1419,8 +1422,10 @@ See also:
 
 -   [Algorithmic information theory](statistics.html#algorithmic-information-theory)
 
+[^Bright2023]: @Bright_2023_To_be_scientific_is_to_be_communist\.
 [^French2007pX]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. TODO.
 [^French2007pX2]: @French_2007_Science_Key_Concepts_in_Philosophy\, p. TODO.
+[^Heesen2017]: @Heesen_2017_Communism_and_the_incentive_to_share_in_science\.
 [^Hempel1948]: @Hempel_1948_Studies_in_the_logic_of_explanation\.
 [^Kant1787pBvii]: @Kant_1996_Critique_of_Pure_Reason\, p. B vii.
 [^Kuhn1962]: @Kuhn_1962_The_Structure_of_Scientific_Revolutions\.

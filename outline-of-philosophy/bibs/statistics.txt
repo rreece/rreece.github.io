@@ -49,6 +49,7 @@ Canatar, A., Bordelon, B., & Pehlevan, C. (2020). Spectral bias and task-model a
 Cantwell, G.T. (2022). Approximate sampling and estimation of partition functions using neural networks. https://arxiv.org/abs/2209.10423
 Carnap, R. (1945). The two concepts of probability. *Philosophy and Phenomenological Research*, 5(4), 513--32. 
 Carnap, R. (1947). Probability as a guide in life. *Journal of Philosophy*, 44(6), 141--48.
+Carver, J.C., Weber, N., Ram, K., Gesing, S., & Katz, D.S. (2022). A survey of the state of the practice for research software in the United States. *PeerJ Computer Science*, 8, 963. https://peerj.com/articles/cs-963/
 Cesa-Bianchi, N. & Lugosi, G. (2006). *Prediction, Learning, and Games*. Cambridge University Press. https://ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf
 Chen, R.T.Q., Rubanova, Y., Bettencourt, J., & Duvenaud, D. (2018). Neural ordinary differential equations. https://arxiv.org/abs/1806.07366
 Chen, S., Dobriban, E., & Lee, J.H. (2020). A group-theoretic framework for data augmentation. https://arxiv.org/abs/1907.10905
