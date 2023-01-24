@@ -1392,8 +1392,8 @@ Wikipedia:
     -   community, honesty, openness
     -   Mayo: Error statistics [^Mayo2011a]
 -   Communist norm
-    -   Bright, L.K. & Heesen, R. (2023). [To be scientific is to be communist](https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2156308). [^Bright2023]
     -   Heesen, R. (2017). Communism and the incentive to share in science. [^Heesen2017]
+    -   Bright, L.K. & Heesen, R. (2023). [To be scientific is to be communist](https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2156308). [^Bright2023]
 
 Kant:
 
