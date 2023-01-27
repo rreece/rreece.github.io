@@ -63,7 +63,7 @@ See also:
 
 -   [Thomas Bayes](https://en.wikipedia.org/wiki/Thomas_Bayes) (1701-1761)
 -   [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) (1749-1827)
-    -   The rule of succssion, bayesian
+    -   The rule of succession, bayesian
 -   [Carl Friedrich Gauss](http://en.wikipedia.org/wiki/Gauss) (1777-1855)
 -   [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) (1806-1873)
 -   [John Venn](https://en.wikipedia.org/wiki/John_Venn) (1834-1923)
@@ -168,7 +168,7 @@ TODO:
 
 -   Kolmogorov axioms
 -   Probability vs odds: $p/(p+q)$ vs $p/q$
--   Carnap: "Probability as a guide in life" [^Carnap1947a]
+-   Carnap, R. (1947). Probability as a guide in life. [^Carnap1947a]
 
 [^Carnap1947a]: @Carnap_1947_Probability_as_a_guide_in_life\.
 
@@ -1268,6 +1268,7 @@ Classical machine learning
     -   McCarthy, J., Minsky, M.L., Rochester, N., & Shannon, C.E. (1955). [A proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://www-formal.stanford.edu/jmc/history/dartmouth.pdf). [^DartmouthProposal1955a]
     -   Solomonoff, G. (2016). [Ray Solomonoff and the Dartmouth Summer Research Project in Artificial Intelligence, 1956](http://raysolomonoff.com/dartmouth/dartray.pdf). [^Solomonoff2016]
 -   Kardum, M. (2020). Rudolf Carnap--The grandfather of artificial neural networks: The influence of Carnap's philosophy on Walter Pitts. [^Kardum2020]
+-   Bright, L.K. (2022). [Carnap's contributions](https://sootyempiric.blogspot.com/2022/10/carnaps-contributions.html).
 
 See also:
 
