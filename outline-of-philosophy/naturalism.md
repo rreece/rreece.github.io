@@ -877,8 +877,6 @@ Criticisms of naturalism
     -   See also: [Criticism of moral naturalism](ethics.html#criticism-1) in the [Outline on ethics](ethics.html)
 -   Postmodernism and social construction
     -   Gorton, W.A. (2010). [The philosophy of social science: Criticisms of naturalism](http://www.iep.utm.edu/soc-sci/#H2). *Internet Encyclopedia of Philosophy*.
-    -   Downie Jr., L. (2023). [Newsrooms that move beyond 'objectivity' can build trust](https://www.washingtonpost.com/opinions/2023/01/30/newsrooms-news-reporting-objectivity-diversity/).
-        -   Hillyer, Q. (2023). [Journalist pushes activism over objectivity](https://www.washingtonexaminer.com/opinion/journalist-pushes-activism-over-objectivity).
 -   ["Science Wars"](https://en.wikipedia.org/wiki/Science_wars)
     -   1996 "Science Wars" issue of *Social Text*, 46. Duke University Press.
     -   Henriques, G. (2012). [Revisiting the Science Wars: Toward a scientific humanistic worldview](https://www.psychologytoday.com/us/blog/theory-knowledge/201206/revisiting-the-science-wars). *Psychology Today*.
@@ -887,7 +885,7 @@ Criticisms of naturalism
     -   Of course science (scientia) is the domain of all knowledge if the tent is large enough.
     -   TODO: Perhaps this line can be found in the work of Pigliucci?
 -   Epistemic pessimism
-    -   TODO
+    -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/).
 -   Decolonising science
     -   Descoping the success/objectivity of science
     -   Prescod-Weinstein, C. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
@@ -905,6 +903,8 @@ Criticisms of naturalism
     -   Davies, P. (2007). [Taking science on faith](https://www.nytimes.com/2007/11/24/opinion/24davies.html). *New York Times Opinion*.
 -   Lack of objectivity
     -   Winburn, A.P. & Clemmons, C.M.J. (2021). [Objectivity is a myth that harms the practice and diversity of forensic science](https://www.sciencedirect.com/science/article/pii/S2589871X21000668). [^Winburn2021]
+    -   Downie Jr., L. (2023). [Newsrooms that move beyond 'objectivity' can build trust](https://www.washingtonpost.com/opinions/2023/01/30/newsrooms-news-reporting-objectivity-diversity/).
+        -   Hillyer, Q. (2023). [Journalist pushes activism over objectivity](https://www.washingtonexaminer.com/opinion/journalist-pushes-activism-over-objectivity).
 
 See also:
 
