@@ -1487,6 +1487,7 @@ Deep learning
     -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
     -   Hao, L. et al. (2017). [Visualizing the loss landscape of neural nets](https://arxiv.org/abs/1712.09913).
 -   Discussion
+    -   Norvig, P. (2011). [On Chomsky and the Two Cultures of Statistical Learning](https://norvig.com/chomsky.html). [^Norvig2011a]
     -   Sutton, R. (2019). [The bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html). [^Sutton2019]
     -   Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. [^Watson2019]
     -   [AIMyths.com](https://www.aimyths.org/)
@@ -1499,6 +1500,7 @@ Deep learning
 [^Kaplan2019]: @Kaplan_2019_Notes_on_contemporary_machine_learning\.
 [^LeCun1998b]: @LeCun_1998_Efficient_BackProp\.
 [^LeCun2015]: @LeCun_2015_Deep_learning\.
+[^Norvig2011a]: @Norvig_2011_On_Chomsky_and_the_Two_Cultures_of_Statistical\.
 [^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
 [^Sutskever2015]: @Sutskever_2015_A_brief_overview_of_deep_learning\.
 [^Sutton2019]: @Sutton_2019_The_bitter_lesson\.

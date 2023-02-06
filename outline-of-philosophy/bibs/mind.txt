@@ -23,6 +23,7 @@ McCarthy, C. (2017). The Kekul{\'e} Problem. *Nautilus*, 47. https://nautil.us/i
 McCarthy, J., Minsky, M.L., Rochester, N., & Shannon, C.E. (1955). A proposal for the Dartmouth Summer Research Project on Artificial Intelligence. http://www-formal.stanford.edu/jmc/history/dartmouth.pdf
 Montero, B. (1999). The Body Problem. *Nous*, 33(2), 183--200.
 Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435--450. https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf
+Norvig, P. (2011). On Chomsky and the Two Cultures of Statistical Learning. https://norvig.com/chomsky.html
 Reimann, M.W. et al. (2017). Cliques of neurons bound into cavities provide a missing link between structure and function. *Frontiers in Computational Neuroscience*, 11. https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full
 Ross, D. (2000). *Dennett's Philosophy: A comprehensive assessment*. MIT Press.
 Tononi, G. & Edelman, G.M. (1998). Consciousness and complexity. *Science*, 282, 1846--1851.

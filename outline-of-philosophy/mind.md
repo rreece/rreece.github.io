@@ -189,7 +189,12 @@ Language
     -   innatism
     -   *Syntactic Structures* (1957)
     -   Kantian?
--   TODO: criticism
+-   Criticism
+    -   Peter Norvig
+        -   Norvig, P. (2011). [On Chomsky and the Two Cultures of Statistical Learning](https://norvig.com/chomsky.html). [^Norvig2011b]
+        -   Liberman, M. (2011). Language Log (blog): [Norvig channels Shannon contra Chomsky](https://languagelog.ldc.upenn.edu/nll/?p=3172).
+
+[^Norvig2011b]: @Norvig_2011_On_Chomsky_and_the_Two_Cultures_of_Statistical\.
 
 
 ### Origin of language

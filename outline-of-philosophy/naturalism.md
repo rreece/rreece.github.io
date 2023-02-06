@@ -877,6 +877,8 @@ Criticisms of naturalism
     -   See also: [Criticism of moral naturalism](ethics.html#criticism-1) in the [Outline on ethics](ethics.html)
 -   Postmodernism and social construction
     -   Gorton, W.A. (2010). [The philosophy of social science: Criticisms of naturalism](http://www.iep.utm.edu/soc-sci/#H2). *Internet Encyclopedia of Philosophy*.
+    -   Downie Jr., L. (2023). [Newsrooms that move beyond 'objectivity' can build trust](https://www.washingtonpost.com/opinions/2023/01/30/newsrooms-news-reporting-objectivity-diversity/).
+        -   Hillyer, Q. (2023). [Journalist pushes activism over objectivity](https://www.washingtonexaminer.com/opinion/journalist-pushes-activism-over-objectivity).
 -   ["Science Wars"](https://en.wikipedia.org/wiki/Science_wars)
     -   1996 "Science Wars" issue of *Social Text*, 46. Duke University Press.
     -   Henriques, G. (2012). [Revisiting the Science Wars: Toward a scientific humanistic worldview](https://www.psychologytoday.com/us/blog/theory-knowledge/201206/revisiting-the-science-wars). *Psychology Today*.
