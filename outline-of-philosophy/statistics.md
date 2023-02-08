@@ -1038,6 +1038,7 @@ O'Hagan:
     -   Mayo [^Mayo2014]
     -   Mayo: [The law of likelihood and error statistics](https://errorstatistics.com/2019/04/04/excursion-1-tour-ii-error-probing-tools-versus-logics-of-evidence-excerpt/) [^Mayo2019]
     -   [Mayo’s response to Hennig and Gandenberger](https://errorstatistics.com/2013/02/11/u-phil-mayos-response-to-hennig-and-gandenberger/)
+    -   Dawid, A.P. (2014). [Discussion of "On the Birnbaum Argument for the Strong Likelihood Principle"](https://projecteuclid.org/journals/statistical-science/volume-29/issue-2/Discussion-of-On-the-Birnbaum-Argument-for-the-Strong-Likelihood/10.1214/14-STS470.full). [^Dawid2014]
 -   [Likelihoodist statistics](https://en.wikipedia.org/wiki/Likelihoodist_statistics)
 
 Mayo:
@@ -1051,6 +1052,7 @@ Mayo:
 >   cannot both be true. [^Mayo2019]
 
 [^Berger1988]: @Berger_1988_The_Likelihood_Principle\.
+[^Dawid2014]: @Dawid_2014_Discussion_of_On_the_Birnbaum_Argument\.
 [^Evans2013]: @Evans_2013_What_does_the_proof_of_Birnbaums_theorem_prove\.
 [^Edwards1974]: @Edwards_1974_The_history_of_likelihood\.
 [^Gandenberger2015]: @Gandenberger_2015_A_new_proof_of_the_likelihood_principle\.
