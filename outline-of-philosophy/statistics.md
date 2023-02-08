@@ -1987,7 +1987,7 @@ $$ \pi^{\sigma}_{i}(h) \equiv \prod_{h' \cdot a' \sqsubseteq h | P(h') = i} \sig
 Due to perfect recall, any two histories in infoset $I_i$ have the same player reach
 for player $i$. Thus, we similarly define the player reach $\pi^{\sigma}_{i}(I_i)$ of infoset $I_i$ as
 
-$$ \pi^{\sigma}_{i}(I_i) \equiv \prod_{{I'}_{i} \cdot a' \sqsubseteq I_i | P(I_i) = i} \sigma_{i}({I'}_{i}, a') = \left.\pi^{\sigma}_{i}(h)\right|_{h \in I_i} \label{eq:player_reach_from_infoset} $$
+$$ \pi^{\sigma}_{i}(I_i) \equiv \prod_{ {I'}_{i} \cdot a' \sqsubseteq I_i | P(I_i) = i } \sigma_{i}({I'}_{i}, a') = \left.\pi^{\sigma}_{i}(h)\right|_{h \in I_i} \label{eq:player_reach_from_infoset} $$
 
 The *external reach* AKA *opponent reach*, $\pi^{\sigma}_{-i}(h)$, of a history $h$ is the contribution of
 chance and all other players than $i$. Formally,
