@@ -610,18 +610,21 @@ See also:
 -   Normal/Gaussian/Wald interval
     -   [Derivation of the Wald interval](https://math.stackexchange.com/questions/1448233/the-derivation-of-the-wald-interval)
 -   Wilson score interval
--   Clopper-Pearson interval [^Clopper1934]
--   Agresti-Coull interval
+-   Clopper-Pearson interval (1934) [^Clopper1934]
+-   Agresti-Coull interval (1998) [^Agresti1998]
     -   [The modified Wald method for computing the confidence interval of a proportion](https://www.graphpad.com/support/faq/the-modified-wald-method-for-computing-the-confidence-interval-of-a-proportion/)
--   [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(statistics)) [^Hanley1983]
--   Review by Brown, Cai, & DasGupta [^Brown2001]
+-   [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three_(statistics)) (1983) [^Hanley1983]
+-   Review by Brown, Cai, & DasGupta (2001) [^Brown2001]
+-   Casadei, D. (2012). [Estimating the selection efficiency](https://arxiv.org/abs/0908.0130). [^Casadei2012]
 -   Precision vs recall for classification, again
 -   Classification and logistic regression
 -   See also:
     -   [Logistic regression](#logistic-regression) in the section on [Classical machine learning](#classical-machine-learning).
     -   [Clustering](#clustering) in the section on [Classical machine learning](#classical-machine-learning).
 
+[^Agresti1998]: @Agresti_1998_Approximate_is_better_than_exact_for_interval\.
 [^Brown2001]: @Brown_2001_Interval_estimation_for_a_binomial_proportion\.
+[^Casadei2012]: @Casadei_2012_Estimating_the_selection_efficiency\.
 [^Clopper1934]: @Clopper_1934_The_use_of_confidence_or_fiducial_limits\.
 [^Hanley1983]: @Hanley_1983_If_nothing_goes_wrong_is_everything_all_right\.
 
