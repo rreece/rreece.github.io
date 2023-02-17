@@ -965,7 +965,7 @@ Exploratory data analysis
     -   Data collection, quality, analysis, archival, and reinterpretation
     -   RECAST
 -   [Scientific research and big data](https://plato.stanford.edu/entries/science-big-data/)
--   HERE
+-   TODO
 
 
 "Statistics Wars"
@@ -1806,6 +1806,8 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Jurafsky, D. & Martin, J.H. (2022). [*Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition*](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf). [^Jurafsky2022]
 -   Discussion of language understanding
     -   Mahowald, K. et al. (2023). [Dissociating language and thought in large language models: a cognitive perspective](https://arxiv.org/abs/2301.06627). [^Mahowald2023]
+-   What comes after Transformers?
+    -   Gu, A., Goel, K., & R&eacute;, C. (2021). [Efficiently modeling long sequences with structured state spaces](https://arxiv.org/abs/2111.00396). [^Gu2021]
 
 See also:
 
@@ -1816,6 +1818,7 @@ See also:
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
+[^Gu2021]: @Gu_2021_Efficiently_modeling_long_sequences\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
 [^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
 [^Jurafsky2022]: @Jurafsky_2022_Speech_and_Language_Processing_An_introduction\.

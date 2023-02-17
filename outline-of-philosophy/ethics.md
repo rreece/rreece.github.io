@@ -598,6 +598,8 @@ Waves:
     -   [Feminist sex wars](https://en.wikipedia.org/wiki/Feminist_sex_wars)
     -   [Sex-positive feminism](https://en.wikipedia.org/wiki/Sex-positive_feminism)
     -   [Intersectionality](https://en.wikipedia.org/wiki/Intersectionality) (1989)
+        -   bell hooks (1952-2021)
+        -   Kimberl&eacute; Crenshaw (b. 1959)
     -   *Planned Parenthood v. Casey* (1991)
     -   In 1991, Anita Hill testified before the Senate Judiciary Committee that
         Supreme Court nominee Clarence Thomas had sexually harassed her at work.
