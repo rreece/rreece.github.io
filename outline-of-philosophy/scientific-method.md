@@ -400,11 +400,12 @@ See also:
 
 -   Ren&eacute; Descartes (1596-1650)
     -   *Discourse on the Method* (1637)
-        -   "je pense, donc je suis."
+        -   "Je pense, donc je suis."
     -   *Meditations on First Philosophy* (1641) [^Descartes2008]
-        -   "ego sum, ego existo."
+        -   "Ego sum, ego existo."
     -   *Principles of Philosophy* (1644)
-        -   "ego cogito, ergo sum"
+        -   "Ego cogito, ergo sum"
+        -   Clear and distinct perceptions
     -   [Descartes' method](https://plato.stanford.edu/entries/descartes-method/)
 -   Baruch Spinoza (1632-1677)
 -   Gottfried Wilhelm Leibniz (1646-1716)

@@ -1797,6 +1797,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Zaheer, M. et al. (2020). [Big Bird: Transformers for longer sequences](https://arxiv.org/abs/2007.14062). [^Zaheer2020]
     -   Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). [Efficient transformers: A survey](https://arxiv.org/abs/2009.06732). [^Tay2022]
     -   Phuong, M. & Hutter, M. (2022). [Formal algorithms for transformers](https://arxiv.org/abs/2207.09238). [^Phuong2022]
+    -   Chowdhery, A. et al. (2022). [PaLM: Scaling language modeling with pathways](https://arxiv.org/abs/2204.02311). [^Chowdhery2022]
     -   Ouyang, L. et al. (2022). [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155). (InstructGPT) [^Ouyang2022]
     -   OpenAI. (2022). Blog: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/).
 
@@ -1808,6 +1809,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Mahowald, K. et al. (2023). [Dissociating language and thought in large language models: a cognitive perspective](https://arxiv.org/abs/2301.06627). [^Mahowald2023]
 -   What comes after Transformers?
     -   Gu, A., Goel, K., & R&eacute;, C. (2021). [Efficiently modeling long sequences with structured state spaces](https://arxiv.org/abs/2111.00396). [^Gu2021]
+    -   Mialon, G. et al. (2023). [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842). [^Mialon2023]
 
 See also:
 
@@ -1816,6 +1818,7 @@ See also:
 [^Bahdanau2015]: @Bahdanau_2015_Neural_machine_translation_by_jointly_learning\.
 [^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
+[^Chowdhery2022]: @Chowdhery_2022_PaLM_Scaling_language_modeling_with_pathways\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
 [^Gu2021]: @Gu_2021_Efficiently_modeling_long_sequences\.
@@ -1827,6 +1830,7 @@ See also:
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Lewis2019]: @Lewis_2019_BART_Denoising_sequence_to_sequence_pre_training\.
 [^Mahowald2023]: @Mahowald_2023_Dissociating_language_and_thought_in_large\.
+[^Mialon2023]: @Mialon_2023_Augmented_Language_Models_a_Survey\.
 [^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations\,
     @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\, and
     @Mikolov_2013_Distributed_representations_of_words_and_phrases\.

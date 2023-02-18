@@ -57,6 +57,7 @@ Chen, R.T.Q., Rubanova, Y., Bettencourt, J., & Duvenaud, D. (2018). Neural ordin
 Chen, S., Dobriban, E., & Lee, J.H. (2020). A group-theoretic framework for data augmentation. https://arxiv.org/abs/1907.10905
 Chen, T. & Guestrin, C. (2016). Xgboost: A scalable tree boosting system. https://arxiv.org/abs/1603.02754
 Chiley, V. et al. (2019). Online normalization for training neural networks. *NeurIPS 2019*. https://arxiv.org/abs/1905.05894
+Chowdhery, A. et al. (2022). PaLM: Scaling language modeling with pathways. https://arxiv.org/abs/2204.02311
 Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation. *Natural Language Engineering*, 25(6), 753--767. https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291
 Ciresan, D., Meier, U. Masci, J. & Schmidhuber, J. (2012). Multi-column deep neural network for traffic sign classification. *Neural Networks*, 32, 333--338. https://arxiv.org/abs/1202.2745
 Clopper, C.J. & Pearson, E.S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, 26(4), 404--413.
@@ -182,6 +183,7 @@ Mayo, D.G. (2021). Significance tests: Vitiated or vindicated by the replication
 McDermott, J. (2019). When and why metaheuristics researchers can ignore "no free lunch" theorems. https://arxiv.org/abs/1906.03280
 McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). New York: Academic Press.
 Meehl, P.E. (1978). Theoretical risks and tabular asterisks: Sir Karl, Sir Ronald, and the slow progress of soft psychology. *Journal of Consulting and Clinical Psychology*, 46, 806--834.
+Mialon, G. et al. (2023). Augmented Language Models: a Survey. https://arxiv.org/abs/2302.07842
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
 Mikolov, T., Sutskever, I., Chen, K., Corrado, G., & Dean, J. (2013). Distributed representations of words and phrases and their compositionality. https://arxiv.org/abs/1310.4546

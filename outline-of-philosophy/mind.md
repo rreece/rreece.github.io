@@ -124,9 +124,10 @@ See also:
 Illusionism
 --------------------------------------------------------------------------------
 
+-   Ross, D. (2000). *Dennett's Philosophy: A comprehensive assessment*. [^Ross2000]
 -   Frankish, K. (2016). [Illusionism as a theory of consciousness](https://keithfrankish.github.io/articles/Frankish_Illusionism%20as%20a%20theory%20of%20consciousness_eprint.pdf). [^Frankish2016]
 -   Dennett, D.C. (2016). [Illusionism as the obvious default theory of consciousness](https://ase.tufts.edu/cogstud/dennett/papers/illusionism.pdf). [^Dennett2016]
--   Ross, D. (2000). *Dennett's Philosophy: A comprehensive assessment*. [^Ross2000]
+-   Dennett, D.C. (2023). [How, when, and why can we trust our brains?](https://www.youtube.com/watch?v=32u12zjgJww) Johns Hopkins Natural Philosophy Forum annual Distinguished Lecture.
 
 [^Dennett2016]: @Dennett_2016_Illusionism_as_the_obvious_default_theory\.
 [^Frankish2016]: @Frankish_2016_Illusionism_as_a_theory_of_consciousness\.
@@ -207,6 +208,7 @@ Language
 -   Grzankowski, A. (2015). Not all attitudes are propositional. [^Grzankowski2015]
 -   McCarthy, C. (2017). [The Kekul&eacute; Problem](https://nautil.us/issue/47/consciousness/the-kekul-problem). [^McCarthy2017]
     -   "the unconscious is a machine for operating an animal."
+-   Wolpert, D.H. (2022). [A sliver of reality](https://aeon.co/essays/ten-questions-about-the-hard-limits-of-human-intelligence).
 
 See also:
 
