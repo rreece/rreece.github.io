@@ -60,25 +60,25 @@ Technological growth
 
 -   Feynman, R.P. (1959). [There's plenty of room at the bottom](https://calteches.library.caltech.edu/1976/1/1960Bottom.pdf). [^Feynman1959]
 -   Vinge, V. (1993). [The coming technological singularity](https://edoras.sdsu.edu/~vinge/misc/singularity.html). [^Vinge1993]
--   Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. [^Bostrom2014]
--   Armstrong, S., Sotala, K., & OhEigeartaigh, S. S. (2014). [The errors, insights and lessons of famous AI predictions--and what they mean for the future](https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf). [^Armstrong2014]
--   Urban, T. (2015). [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html). [^WaitButWhy2015]
 
 See also:
 
 -   [Industrial Revolution](human-condition.html#industrial-revolution)
     in the [Outline on the human condition](human-condition.html).
 
-[^Armstrong2014]: @Armstrong_2014_The_errors_insights_and_lessons_of_famous_AI\.
 [^Feynman1959]: @Feynman_1959_Theres_plenty_of_room_at_the_bottom\.
-[^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
 [^Vinge1993]: @Vinge_1993_The_coming_technological_singularity\.
-[^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
 
 
 ### Future of the internet
 
 -   Clegg, N. (2022). [Making the metaverse: What it is, how it will be built, and why it matters](https://nickclegg.medium.com/making-the-metaverse-what-it-is-how-it-will-be-built-and-why-it-matters-3710f7570b04).
+
+
+![ChatGPT has had faster user growth than any other app
+    (source: [yahoo!finance](https://finance.yahoo.com/news/chatgpt-on-track-to-surpass-100-million-users-faster-than-tiktok-or-instagram-ubs-214423357.html),
+    Feb. 2023).
+    ](img/chatgpt-on-track-to-surpass-100-million-users-faster.png){#fig:chatgpt-on-track-to-surpass-100-million-users-faster}
 
 
 ### Simulation argument
@@ -97,9 +97,12 @@ Artificial intelligence
 
 -   Feynman, R.P. (1985). Talk: [Can machines think?](https://www.youtube.com/watch?v=ipRvjS7q1DI)
 -   Russell & Norvig [^Russell1995]
--   Video: Carroll, S. & Russell, S. (2020). [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
-    -   Russell: AI gives us the Midas touch
+-   Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. [^Bostrom2014]
+-   Armstrong, S., Sotala, K., & OhEigeartaigh, S. S. (2014). [The errors, insights and lessons of famous AI predictions--and what they mean for the future](https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf). [^Armstrong2014]
+-   Urban, T. (2015). [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html). [^WaitButWhy2015]
 -   Gwern. (2020). [The scaling hypothesis](https://www.gwern.net/Scaling-hypothesis#scaling-hypothesis).
+-   Carroll, S. & Russell, S. (2020). Video: [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
+    -   Russell: AI gives us the Midas touch
 -   Zhang, D. et al. (2021). [The AI Index 2021 Annual Report](https://arxiv.org/abs/2103.06312). [^Zhang2021]
 -   Zhang, D. et al. (2022). [The AI Index 2022 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf). [^Zhang2022]
 -   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
@@ -111,7 +114,10 @@ See also:
     in the [Outline on the philosophy of statistics](statistics.html).
 -   [Artificial intelligence and mind](mind.html#artificial-intelligence-and-mind)
 
+[^Armstrong2014]: @Armstrong_2014_The_errors_insights_and_lessons_of_famous_AI\.
+[^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
+[^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
 [^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.
 [^Zhang2022]: @Zhang_2022_The_AI_Index_2022_Annual_Report\.
 
