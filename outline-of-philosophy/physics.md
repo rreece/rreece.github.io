@@ -1270,8 +1270,14 @@ See also:
 
 -   Ghirardi-Rimini-Weber theory (GRW) [^Ghirardi1986]
 -   TODO: find ref that GRW is empirical
+-   Putnam, H. (1965). A philosopher looks at quantum mechanics. [^Putnam1965]
+-   Putnam, H. (2005). [A philosopher looks at quantum mechanics (again)](https://www.jstor.org/stable/3541860). [^Putnam2005]
+-   Wuthrich, C. (2014). [Putnam looks at quantum mechanics (again and again)](https://arxiv.org/abs/1406.5737). [^Wuthrich2014]
 
 [^Ghirardi1986]: @Ghirardi_1986_Unified_dynamics_for_microscopic_and_macroscopic\.
+[^Putnam1965]: @Putnam_1975_A_philosopher_looks_at_quantum_mechanics\.
+[^Putnam2005]: @Putnam_2005_A_philosopher_looks_at_quantum_mechanics_again\.
+[^Wuthrich2014]: @Wuthrich_2014_Putnam_looks_at_quantum_mechanics_again\.
 
 
 ### Epistemic interpretations

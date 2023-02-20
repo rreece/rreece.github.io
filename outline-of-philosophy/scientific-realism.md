@@ -1283,7 +1283,8 @@ Feigl:
     -   Indeterminacy of translation
 -   Ruja, H. (1961). The present status of the verifiability criterion. [^Ruja1961]
 -   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
--   Putnam, H. (1973). Meaning and reference. [^Putnam1973]
+-   Putnam, H. (1973). [Meaning and reference](https://www.jstor.org/stable/2025079). [^Putnam1973]
+-   Putnam, H. (1975). The meaning of "meaning". [^Putnam1975]
 
 Nietzsche:
 
@@ -1302,6 +1303,7 @@ Nietzsche:
 
 [^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
 [^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
+[^Putnam1975]: @Putnam_1975_The_meaning_of_meaning\.
 [^Quine1960a]: @Quine_1960_Word_and_Object\.
 [^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
 [^Ruja1961]: @Ruja_1961_The_present_status_of_the_verifiability_criterion\.

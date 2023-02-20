@@ -199,6 +199,10 @@ Preskill, J. (2013). We are all Wilsonians now. https://quantumfrontiers.com/201
 Preskill, J. (2018). Quantum computing in the NISQ era and beyond. https://arxiv.org/abs/1801.00862
 Proietti, M. et al. (2019). Experimental test of local observer independence. *Science Advances*, 5, 9832. https://arxiv.org/abs/1902.05080
 Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum state. *Nature Physics*, 8, 476. https://arxiv.org/abs/1111.3328
+
+#Putnam, H. (1965). A philosopher looks at quantum mechanics. *Beyond the Edge of Certainty*, 2, 75--101.
+Putnam, H. (1975). A philosopher looks at quantum mechanics. In *Mathematics, Matter and Method. Philosophical Papers, vol. 1* (pp. 130--158). Cambridge University Press. [(Originally published in 1965)]
+Putnam, H. (2005). A philosopher looks at quantum mechanics (again)*. *The British Journal for the Philosophy of Science*, 56, 615--634. https://www.jstor.org/stable/3541860
 Redhead, M. (1975). Symmetry in intertheory relations. *Synthese*, 32, 77--112.
 Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(2), 57--99.
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24). Oxford University Press.
@@ -268,6 +272,7 @@ Williams, P. (2019). Scientific realism made effective. *British Journal for the
 Wilson, K. (1974). The renormalization group and the $\varepsilon$ expansion. *Physics Reports*, 12, 75--199.
 Witten, E. (1998). Anti-de Sitter space and holography. *Advances in Theoretical and Mathematical Physics*, 2, 253--291. https://arxiv.org/abs/hep-th/9802150
 Wu, J. (2021). Explaining universality: infinite limit systems in the renormalization group method. *Synthese*, 199, 14897--14930. https://link.springer.com/article/10.1007/s11229-021-03448-2
+Wuthrich, C. (2014). Putnam looks at quantum mechanics (again and again). https://arxiv.org/abs/1406.5737
 Yock, P. (2018). Newton's hypotheses on the structure of matter. https://arxiv.org/abs/1807.05486
 Zapata-Carratala, C. (2021). Dimensioned algebra: The mathematics of physical quantities. https://arxiv.org/abs/2108.08703
 Zee, A. (2003). *Quantum Field Theory in a Nutshell*. Princeton University Press.
