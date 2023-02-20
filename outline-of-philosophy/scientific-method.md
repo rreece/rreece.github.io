@@ -391,9 +391,15 @@ See also:
 
 ### Early empiricists
 
+Heraclitus:
+
+>   The things that can be seen, heard, and learned are what I prize the most. [^HeraclitusFragment55]
+
 -   Francis Bacon (1561-1626)
 -   Galileo Galilei (1564-1642)
 -   Thomas Hobbes (1588-1679)
+
+[^HeraclitusFragment55]: Heraclitus, [Fragment 55](https://en.wikisource.org/wiki/Fragments_of_Heraclitus).
 
 
 ### Rationalists

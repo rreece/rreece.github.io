@@ -1,10 +1,12 @@
 Armstrong, S., Sotala, K., & OhEigeartaigh, S. S. (2014). The errors, insights and lessons of famous AI predictions--and what they mean for the future. *Journal of Experimental & Theoretical Artificial Intelligence*, 26(3), 317--342. https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf
+Baum, S.D. et al. (2019). Long-term trajectories of human civilization. *Foresight*, 21, 55--83.
 Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. Routledge.
 Bostrom, N. (2003). Are you living in a computer simulation? *Philosophical Quarterly*, 53, 243--255.
 Bostrom, N. (2005). The fable of the dragon-tyrant. *Journal of Medical Ethics*, 31, 273--277. https://www.nickbostrom.com/fable/dragon.html
 Bostrom, N. (2011). A patch for the simulation argument. *Analysis*, 71, 54--61*.
 Bostrom, N. (2013). Existential risk prevention as global priority. *Global Policy*, 4, 15--31. https://www.existential-risk.org/concept.pdf
 Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
+Bostrom, N. (2019). The vulnerable world hypothesis, *Global Policy*, 10, 455--476. https://nickbostrom.com/papers/vulnerable.pdf
 Feynman, R.P. (1959). There's plenty of room at the bottom. https://calteches.library.caltech.edu/1976/1/1960Bottom.pdf
 Hanson, R., Martin, D., McCarter, C., & Paulson, J. (2021). If loud aliens explain human earliness, quiet aliens are also rare. *The Astrophysical Journal*, 922, 182. https://iopscience.iop.org/article/10.3847/1538-4357/ac2369
 Russell, S. & Norvig, P. (1995). *Artificial Intelligence: A modern approach* (3rd ed.). Pearson.

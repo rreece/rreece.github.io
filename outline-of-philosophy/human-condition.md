@@ -1882,6 +1882,17 @@ TODO: Find Dawkins on multiple instances of convergent evolution of eyes.
     -   *Mortality* [^Hitchens2012]
 -   [Cancer](https://plato.stanford.edu/entries/cancer/)
 
+Bertrand Russell:
+
+>   In the visible [universe], the Milky Way is a tiny fragment; within this fragment,
+>   the solar system is an infinitesimal speck, and of this speck our planet is a
+>   microscopic dot. On this dot, tiny lumps of impure carbon and water, of
+>   complicated structure, with somewhat unusual physical and chemical properties,
+>   crawl about for a few years, until they are dissolved again into the elements
+>   of which they are compounded. They divide their time between labour designed
+>   to postpone the moment of dissolution for themselves and frantic struggles to
+>   hasten it for others of their kind. [^Russell2004p19]
+
 See also:
 
 -   [Terror management theory](human-condition.html#terror-management-theory)
@@ -1889,6 +1900,7 @@ See also:
 [^Bodhi2005p206]: @Bodhi_2005_In_the_Buddhas_Words_An_anthology_of_discourses\, p. 206--7.
 [^Hitchens2012]: @Hitchens_2012_Mortality\.
 [^Kagan2012]: @Kagan_2012_Death\.
+[^Russell2004p19]: @Russell_2004_Sceptical_Essays\.
 
 
 Psychology

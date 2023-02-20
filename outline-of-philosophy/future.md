@@ -35,8 +35,12 @@ See also:
 -   ...
 -   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
 -   Hanson, R. (1998). [Critiquing the doomsday argument](https://web.archive.org/web/20050405210231/http://hanson.gmu.edu/nodoom.html).
+-   Baum, S.D. et al. (2019). Long-term trajectories of human civilization. [^Baum2019]
+-   Bostrom, N. (2019). [The vulnerable world hypothesis](https://nickbostrom.com/papers/vulnerable.pdf). [^Bostrom2019]
 
+[^Baum2019]: @Baum_2019_Long_term_trajectories_of_human_civilization\.
 [^Bostrom2013]: @Bostrom_2013_Existential_risk_prevention_as_global_priority\.
+[^Bostrom2019]: @Bostrom_2019_The_vulnerable_world_hypothesis\.
 
 
 ### Fermi paradox

@@ -485,7 +485,7 @@ Political philosophy
 -   [Marxism-Leninism](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism)
     -   Joseph Stalin (1878-1953)
     -   Mao Zedong (1893-1976)
--   [Frankfurt_School](https://en.wikipedia.org/wiki/Frankfurt_School) of Critical Theory
+-   [Frankfurt School](https://en.wikipedia.org/wiki/Frankfurt_School) of Critical Theory
     -   Max Horkheimer (1895-1973)
     -   Theodor Adorno (1903-1969)
     -   Herbert Marcuse (1898-1979)
@@ -501,11 +501,18 @@ Solzhenitsyn:
 >   human being. And who is willing to destroy a piece of his own
 >   heart? [^SolzhenitsynGApart1ch4]
 
+Russell in a letter to Wolfgang Paalen (1942):
+
+>   I think the metaphysics of both Hegel and Marx plain nonsense---Marx's claim
+>   to be 'science' is no more justified than Mary Baker Eddy's. This does not
+>   mean that I am opposed to socialism. [^Russell1942Letter]
+
 -   von Mises, L. (1920). *Economic Calculation in the Socialist Commonwealth*.
     -   [Economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem)
 -   Berlin, I. (1994). A message to the twenty first century. [^Berlin1994]
 
 [^Berlin1994]: @Berlin_1994_A_message_to_the_twenty_first_century\.
+[^Russell1942Letter]: [Letter from Russell to Wolfgang Paalen, 23 March 1942](https://en.wikipedia.org/wiki/Bertrand_Russell#Later_life).
 [^SolzhenitsynGApart1ch4]: @Solzhenitsyn_1974_The_Gulag_Archipelago\, Part 1, Ch. 4.
 
 
@@ -576,8 +583,12 @@ Protests and (non-)violence
 -   [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) - Indian principle of nonviolence
     -   [Satyagraha](https://en.wikipedia.org/wiki/Satyagraha) - "holding firmly to truth", coined by Mahatma Gandhi
 -   [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) (1869-1948)
+-   [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) (1872-1970)
+    -   Russell, B. (1943). [The future of pacifism](https://www.jstor.org/stable/41204635). [^Russell1943]
 -   [Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) (1929-1968)
--   Osterweil, V. (2014). [In defense of looting](https://thenewinquiry.com/in-defense-of-looting). August 21, 2014.
+-   Osterweil, V. (2014). [In defense of looting](https://thenewinquiry.com/in-defense-of-looting).
+
+[^Russell1943]: @Russell_1943_The_future_of_pacifism\.
 
 
 Feminism

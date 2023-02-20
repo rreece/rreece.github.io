@@ -233,11 +233,14 @@ TODO:
 -   Phase transitions
 -   Renormalization
 -   Universality
+    -   Wu, J. (2021). [Explaining universality: infinite limit systems in the renormalization group method](https://link.springer.com/article/10.1007/s11229-021-03448-2). [^Wu2021]
 
 See also:
 
 -   [Emergence](#emergence)
 -   [Renormalization](#renormalization)
+
+[^Wu2021]: @Wu_2021_Explaining_universality_infinite_limit_systems\.
 
 
 Symmetry-first physics
@@ -250,7 +253,7 @@ Symmetry-first physics
 -   Counting degrees of freedom
 -   Totalitarian principle: "Everything not forbidden is compulsory." - Murray Gell-Mann
 -   Caulton, A. (2015). [The role of symmetry in the interpretation of physical theories](http://philsci-archive.pitt.edu/11571/). [^Caulton2015]
--   Caulton, A., & Butterfield, J. (2012). [Symmetries and paraparticles as a motivation for structuralism](https://arxiv.org/abs/1002.3730). [^Caulton2012]
+-   Caulton, A. & Butterfield, J. (2012). [Symmetries and paraparticles as a motivation for structuralism](https://arxiv.org/abs/1002.3730). [^Caulton2012]
 
 [^Caulton2012]: @Caulton_2012_Symmetries_and_paraparticles_as_a_motivation\.
 [^Caulton2015]: @Caulton_2015_The_role_of_symmetry_in_the_interpretation\.

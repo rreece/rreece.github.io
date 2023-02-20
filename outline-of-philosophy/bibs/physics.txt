@@ -267,6 +267,7 @@ Wilhelm, I. (2022). Centering the Everett interpretation. https://philpapers.org
 Williams, P. (2019). Scientific realism made effective. *British Journal for the Philosophy of Science*, 70, 209--237. https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axx043
 Wilson, K. (1974). The renormalization group and the $\varepsilon$ expansion. *Physics Reports*, 12, 75--199.
 Witten, E. (1998). Anti-de Sitter space and holography. *Advances in Theoretical and Mathematical Physics*, 2, 253--291. https://arxiv.org/abs/hep-th/9802150
+Wu, J. (2021). Explaining universality: infinite limit systems in the renormalization group method. *Synthese*, 199, 14897--14930. https://link.springer.com/article/10.1007/s11229-021-03448-2
 Yock, P. (2018). Newton's hypotheses on the structure of matter. https://arxiv.org/abs/1807.05486
 Zapata-Carratala, C. (2021). Dimensioned algebra: The mathematics of physical quantities. https://arxiv.org/abs/2108.08703
 Zee, A. (2003). *Quantum Field Theory in a Nutshell*. Princeton University Press.
