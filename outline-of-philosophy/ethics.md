@@ -544,6 +544,8 @@ Shields:
 -   [William F. Sharpe](https://en.wikipedia.org/wiki/William_F._Sharpe) (b. 1934)
     -   Sharpe ratio
     -   Capital Asset Pricing Model (CAPM)
+    -   Sharpe, W.F. (1963). A simplified model for portfolio analysis. [^Sharpe1963]
+    -   Sharpe, W.F. (1964). Capital asset prices: A theory of market equilibrium under conditions of risk. [^Sharpe1964]
 -   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
 -   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
     -   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
@@ -556,6 +558,8 @@ Shields:
 [^Markowitz2005]: @Markowitz_2005_Market_efficiency_A_theoretical_distinction\.
 [^Owen1983]: @Owen_1983_On_the_class_of_elliptical_distributions_and_their\.
 [^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
+[^Sharpe1963]: @Sharpe_1963_A_simplified_model_for_portfolio_analysis\.
+[^Sharpe1964]: @Sharpe_1964_Capital_asset_prices_A_theory_of_market\.
 
 
 Free speech 
