@@ -537,14 +537,24 @@ Shields:
     -   [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
     -   [Markowitz model](https://en.wikipedia.org/wiki/Markowitz_model)
     -   Markowitz, H.M. (1952). Portfolio selection. [^Markowitz1952]
+    -   Markowitz, H.M. (2005). Market efficiency: A theoretical distinction and so what? [^Markowitz2005]
+-   [Mutual fund separation theorem](https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem)
+    -   Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. [^Chamberlain1983]
+    -   Owen, J. & Rabinovitch, R. (1983). On the class of elliptical distributions and their applications to the theory of portfolio choice. [^Owen1983]
+-   [William F. Sharpe](https://en.wikipedia.org/wiki/William_F._Sharpe) (b. 1934)
+    -   Sharpe ratio
+    -   Capital Asset Pricing Model (CAPM)
+-   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
 -   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
     -   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
     -   Fama, E. (1970). [Efficient capital markets: A review of theory and empirical work](http://www.e-m-h.org/Fama70.pdf). [^Fama1970]
--   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
 -   Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. [^Ross2005]
 
+[^Chamberlain1983]: @Chamberlain_1983_A_characterization_of_the_distributions_that_imply\.
 [^Fama1970]: @Fama_1970_Efficient_capital_markets_A_review_of_theory\.
 [^Markowitz1952]: @Markowitz_1952_Portfolio_selection\.
+[^Markowitz2005]: @Markowitz_2005_Market_efficiency_A_theoretical_distinction\.
+[^Owen1983]: @Owen_1983_On_the_class_of_elliptical_distributions_and_their\.
 [^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
 
 

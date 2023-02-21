@@ -3,6 +3,7 @@ Binmore, K. (2011). *Natural Justice*. Oxford University Press.
 Bjornsson, G. & Finlay, S. (2010). Metaethical contextualism defended. *Ethics*, 121, 7--36.
 Black, M. (1964). The gap between "is" and "should". *Philosophical Review*, 73, 165--181.
 Brown, S.R. (2008). *Moral Virtue and Nature: A defense of ethical naturalism*. Continuum.
+Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. *Journal of Economic Theory*, 29, 185--201.
 Churchland, P.S. (2011). *What Neuroscience Tells Us About Morality*. Princeton University Press.
 Cushman, F. (2013). Action, outcome, and value. *Personality and Social Psychology Review*, 17, 273--292.
 de Beauvoir, S. (1949). The Second Sex.
@@ -16,8 +17,10 @@ Klocksiem, J. (2019). Against reductive ethical naturalism. *Philosophical Studi
 Loeb, D. (2003). Gastronomic realism: A cautionary tale. *Journal of Theoretical and Philosophical Psychology*, 23, 30--49. https://philpapers.org/rec/DONGR
 Mackie, J.L. (2007). *Ethics: Inventing Right and Wrong*. Penguin. [(First edition published in 1977)]
 Markowitz, H.M. (1952). Portfolio selection. *The Journal of Finance*, 7, 77--91. https://www.jstor.org/stable/2975974
+Markowitz, H.M. (2005). Market efficiency: A theoretical distinction and so what? *Financial Analysts Journal*, 61, 17--30.
 Moore, G.E. (1988). *Principia Ethica*. Prometheus Books. [(First published in 1903)]
 Nozick, R. (2013). *Anarchy, State, and Utopia*. Basic Books. [(First edition published in 1974)]
+Owen, J. & Rabinovitch, R. (1983). On the class of elliptical distributions and their applications to the theory of portfolio choice. *Journal of Finance*, 38, 745--752.
 Parfit, D. (1984). *Reasons and Pearson*. Clarendon Press.
 Pettit, P. (1983). The possibility of aesthetic realism. In E. Schaper (ed.), *Pleasure, Preference and Value: Studies in philosophical aesthetics*. Cambridge University Press.
 Portmore, D. (2011). *Commonsense Consequentialism*. Oxford University Press.
