@@ -15,10 +15,10 @@ Questions of meaning
 
 -   Intension vs extension
 -   Syntax vs semantics
--   Putnam, H. (1974). Meaning and reference. [^Putnam1974]
+-   Putnam, H. (1973). Meaning and reference. [^Putnam1973]
 -   Putnam, H. (1975). The meaning of "meaning". [^Putnam1975]
 
-[^Putnam1974]: @Putnam_1974_Meaning_and_reference\.
+[^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
 [^Putnam1975]: @Putnam_1975_The_meaning_of_meaning\.
 
 
