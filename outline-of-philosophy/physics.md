@@ -1099,6 +1099,7 @@ Interpretations of quantum mechanics
 
 -   Maudlin, T. (1995). Three measurement problems. [^Maudlin1995]
 -   Schr&ouml;dinger's cat
+    -   Video: Veritasium. (2020). [Parallel worlds probably exist. Here’s why](https://www.youtube.com/watch?v=kTXTPe3wahc&ab_channel=Veritasium).
 -   Penrose: $U$ and $R$ operators
 -   D&uuml;rr, D. & Lazarovici, D. (2020). *Understanding Quantum Mechanics: The World According to Modern Quantum Foundations*. [^Durr2020]
 -   Mermin, N.D. (2022). [A note on the quantum measurement problem](https://arxiv.org/abs/2206.10741). [^Mermin2022]

@@ -7,6 +7,12 @@ Perone, C.S. (2018). NLP word representations and the Wittgenstein philosophy of
 Putnam, H. (1973). Meaning and reference. *The Journal of Philosophy*, 70, 699--711. https://www.jstor.org/stable/2025079
 Putnam, H. (1975). The meaning of "meaning". In *Mind, Language and Reality. Philosophical Papers, vol. 2* (pp. 215--271). Cambridge University Press.
 Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. In S. Skansi (ed.) *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 41--53). Springer.
+Vaswani, A. et al. (2017). Attention is all you need. *Advances in Neural Information Processing Systems*, 2017, 5998--6008. https://arxiv.org/abs/1706.03762
 Wittgenstein, L. (1961). *Tractatus Logico-Philosophicus* (D.F. Pears and B.F. McGuinness, Trans.). Routledge. https://people.umass.edu/klement/tlp/tlp.html [(Originally published in 1922)]
 Wittgenstein, L. (2009). *Philosophical Investigations* (4 ed.) (P. Hacker and J. Schulte, Eds. E. Anscombe and P. Hacker, Trans.). Wiley-Blackwell. [(Originally published in 1953)]
 Wolfram, S. (2023). What is ChatGPT doing---and why does it work? https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+
+
+
+
+Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. Princeton University Press.
