@@ -32,11 +32,11 @@ Consciousness
 -   Nagel [^Nagel1974]
 -   Searle: a biological process like digestion
 -   Churchland's
--   Dennett [^Dennett1991b]
+-   Dennett [^Dennett1991CE]
 -   Chalmers [^Chalmers1996]
 
 [^Chalmers1996]: @Chalmers_1996_The_Conscious_Mind_In_Search_of_a_Fundamental\.
-[^Dennett1991b]: @Dennett_1991_Consciousness_Explained\.
+[^Dennett1991CE]: @Dennett_1991_Consciousness_Explained\.
 [^Mach1914]: @Mach_1914_The_Analysis_of_Sensations_and_the_Relation\.
 [^Nagel1974]: @Nagel_1974_What_is_it_like_to_be_a_bat\.
 

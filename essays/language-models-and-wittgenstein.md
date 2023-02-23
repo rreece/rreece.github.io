@@ -8,6 +8,10 @@ Introduction
 -------------------------------------------------------------------------------
 
 -   TODO
+-   OpenAI. (2022). Blog: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/).
+-   Wolfram, S. (2023). [What is ChatGPT doing---and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/). [^Wolfram2023]
+
+[^Wolfram2023]: @Wolfram_2023_What_is_ChatGPT_doing_and_why_does_it_work\.
 
 
 Questions of meaning
@@ -73,6 +77,8 @@ Word meanings in deep learning
 -   Belloni, M. (2019). [Neural networks and philosophy of language: Why Wittgenstein’s theories are the basis of all modern NLP](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da).
 -   Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. [^Skelac2020]
 
+![Meme about the fame of transformer (source: [&commat;mishig25](https://twitter.com/mishig25/status/1549859201207484417)).](img/transformer-as-a-famous-painting.jpg){#fig:transformer-as-a-famous-painting}
+
 [^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations\,
     @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\, and
     @Mikolov_2013_Distributed_representations_of_words_and_phrases\.
@@ -84,6 +90,15 @@ Conclusion
 -------------------------------------------------------------------------------
 
 -   TODO
+
+>   While machine learning has made impressive progress
+>   on many separate tasks (given appropriately curated data sets), the keys to generalizing beyond
+>   any speciﬁc set of end-to-end systems lie in modeling the linguistic system itself such that that
+>   model can be reused across tasks. And this can only be done based on an understanding of how
+>   language works, including how sentences come to mean what they mean (semantics) and how
+>   speakers can use sentence meaning to convey communicative intent (pragmatics). [^Bender2020]
+
+[^Bender2020]: @Bender_2020_Linguistic_Fundamentals_for_Natural_Language\.
 
 
 <!-- REFERENCES -->

@@ -1,3 +1,4 @@
+Bender, E.M. & Lascarides, A. (2020). *Linguistic Fundamentals for Natural Language Processing II: 100 Essentials from Semantics and Pragmatics*. Morgan & Claypool. https://link.springer.com/book/10.1007/978-3-031-02172-5
 Firth, J.R. (1957). A synopsis of linguistic theory, 1930-1955. In *Studies in Linguistic Analysis* (pp. 1--31). Oxford: Blackwell.
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
@@ -8,3 +9,4 @@ Putnam, H. (1975). The meaning of "meaning". In *Mind, Language and Reality. Phi
 Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. In S. Skansi (ed.) *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 41--53). Springer.
 Wittgenstein, L. (1961). *Tractatus Logico-Philosophicus* (D.F. Pears and B.F. McGuinness, Trans.). Routledge. https://people.umass.edu/klement/tlp/tlp.html [(Originally published in 1922)]
 Wittgenstein, L. (2009). *Philosophical Investigations* (4 ed.) (P. Hacker and J. Schulte, Eds. E. Anscombe and P. Hacker, Trans.). Wiley-Blackwell. [(Originally published in 1953)]
+Wolfram, S. (2023). What is ChatGPT doing---and why does it work? https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/

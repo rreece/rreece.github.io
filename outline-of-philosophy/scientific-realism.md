@@ -1860,7 +1860,7 @@ Poincar&eacute;:
 
 ### Discussion
 
--   Dennett, D. (1991). Real patterns. [^Dennett1991a]
+-   Dennett, D. (1991). Real patterns. [^Dennett1991b]
 -   Ladyman, French, Psillos, Votsis, Devitt, Frigg
     -   Epistemic Structural Realism (ESR)
     -   Ontic Structural Realism (OSR)
@@ -1880,7 +1880,7 @@ More:
     -   Natural necessity and objective modality
     -   Humeanism has objective modality but not natural necessity.
 
-[^Dennett1991a]: @Dennett_1991_Real_patterns\.
+[^Dennett1991b]: @Dennett_1991_Real_patterns\.
 [^Frigg2011]: @Frigg_2011_Everything_you_always_wanted_to_know_about\. 
 [^Ladyman2007c]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
 [^Poincare1913p347]: @Poincare_1913_The_Foundations_of_Science_Science\, p. 347--8.

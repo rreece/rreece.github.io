@@ -1800,6 +1800,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Chowdhery, A. et al. (2022). [PaLM: Scaling language modeling with pathways](https://arxiv.org/abs/2204.02311). [^Chowdhery2022]
     -   Ouyang, L. et al. (2022). [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155). (InstructGPT) [^Ouyang2022]
     -   OpenAI. (2022). Blog: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/).
+    -   Wolfram, S. (2023). [What is ChatGPT doing---and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) [^Wolfram2023]
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
@@ -1844,6 +1845,7 @@ See also:
 [^Tay2022]: @Tay_2022_Efficient_transformers_A_survey\.
 [^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.
 [^Werbos1990]: @Werbos_1990_Backpropagation_through_time_what_it_does_and_how\.
+[^Wolfram2023]: @Wolfram_2023_What_is_ChatGPT_doing_and_why_does_it_work\.
 [^Wu2016]: @Wu_2016_Googles_neural_machine_translation_system\.
 [^Yang2019]: @Yang_2019_XLNet_Generalized_autoregressive_pretraining\.
 [^Zaheer2020]: @Zaheer_2020_Big_Bird_Transformers_for_longer_sequences\.
@@ -2164,7 +2166,10 @@ Roberts:
 >   is precisely what we mean when we say that physics enables us to understand
 >   a given phenomenon. [^Roberts2021p7]
 
+-   TODO: Note Dennett's discussion of compression. [^Dennett1991a]
+
 [^Bousquet2021]: @Bousquet_2021_A_theory_of_universal_learning\.
+[^Dennett1991a]: @Dennett_1991_Real_patterns\, p. TODO.
 [^Goldreich1997]: @Goldreich_1997_On_universal_learning_algorithms\.
 [^Joyce2017]: @Joyce_2017_A_review_of_no_free_lunch_theorems_and_their\.
 [^Lauc2020]: @Lauc_2020_Machine_learning_and_the_philosophical_problems\.

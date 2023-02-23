@@ -538,6 +538,7 @@ Shields:
     -   [Markowitz model](https://en.wikipedia.org/wiki/Markowitz_model)
     -   Markowitz, H.M. (1952). Portfolio selection. [^Markowitz1952]
     -   Markowitz, H.M. (2005). Market efficiency: A theoretical distinction and so what? [^Markowitz2005]
+    -   Ledoit, O. & Wolf, M. (2003). Improved estimation of the covariance matrix of stock returns with an application to portfolio selection. [^Ledoit2003]
 -   [William F. Sharpe](https://en.wikipedia.org/wiki/William_F._Sharpe) (b. 1934)
     -   Sharpe ratio
     -   Capital Asset Pricing Model (CAPM)
@@ -554,6 +555,7 @@ Shields:
 
 [^Chamberlain1983]: @Chamberlain_1983_A_characterization_of_the_distributions_that_imply\.
 [^Fama1970]: @Fama_1970_Efficient_capital_markets_A_review_of_theory\.
+[^Ledoit2003]: @Ledoit_2003_Improved_estimation_of_the_covariance_matrix\.
 [^Markowitz1952]: @Markowitz_1952_Portfolio_selection\.
 [^Markowitz2005]: @Markowitz_2005_Market_efficiency_A_theoretical_distinction\.
 [^Owen1983]: @Owen_1983_On_the_class_of_elliptical_distributions_and_their\.
