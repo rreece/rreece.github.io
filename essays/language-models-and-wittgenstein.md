@@ -11,8 +11,6 @@ Introduction
 -   OpenAI. (2022). Blog: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/).
 -   Wolfram, S. (2023). [What is ChatGPT doing---and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/). [^Wolfram2023]
 
-![Meme about the fame of transformer (source: [&commat;mishig25](https://twitter.com/mishig25/status/1549859201207484417)).](img/transformer-as-a-famous-painting.jpg){#fig:transformer-as-a-famous-painting}
-
 [^Wolfram2023]: @Wolfram_2023_What_is_ChatGPT_doing_and_why_does_it_work\.
 
 
@@ -34,7 +32,7 @@ Wittgenstein's evolution
 ### Background
 
 -   The Vienna Circle
--   blah [^Edmonds2020]
+-   Edmonds [^Edmonds2020]
 -   *Tractatus Logico-Philosophicus* (1922) [^Tractatus]
 -   *Philosophical Investigations* (1953) [^PhilosophicalInvestigations]
 
@@ -90,6 +88,8 @@ Word meanings in deep learning
 
 
 ### Transformers
+
+![Meme about the fame of transformer (source: [&commat;mishig25](https://twitter.com/mishig25/status/1549859201207484417)).](img/transformer-as-a-famous-painting.jpg){#fig:transformer-as-a-famous-painting}
 
 -   Transformer [^Vaswani2017]
 
