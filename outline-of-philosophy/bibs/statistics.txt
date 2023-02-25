@@ -17,6 +17,7 @@ Balasubramanian, V. (1996). Statistical inference, Occam's razor and statistical
 Balestriero, R., Pesenti, J., & LeCun, Y. (2021). Learning in high dimension always amounts to extrapolation. https://arxiv.org/abs/2110.09485
 Batson, J., Haaf, C.G., Kahn, Y., & Roberts, D.A. (2021). Topological obstructions to autoencoding. https://arxiv.org/abs/2102.08380
 Baydin, A.G. et al. (2019). Etalumis: Bringing probabilistic programming to scientific simulators at scale. https://arxiv.org/abs/1907.03382
+Behnke, O., Kr{\"o}ninger, K., Schott, G., & Sch{\"o}rner-Sadenius, T. (2013). *Data Analysis in High Energy Physics: A Practical Guide to Statistical Methods*. Wiley.
 Belkin, M., Hsu, D., Ma, S., & Mandal, S. (2019). Reconciling modern machine-learning practice and the classical bias-variance trade-off. *Proceedings of the National Academy of Sciences*, 116(32), 15849--15854. https://arxiv.org/abs/1812.11118
 Bellman, R. (1952). On the theory of dynamic programming. *Proceedings of the National Academy of Sciences*, 38, 716--719.
 Bender, E.M. & Lascarides, A. (2020). *Linguistic Fundamentals for Natural Language Processing II: 100 Essentials from Semantics and Pragmatics*. Morgan & Claypool. https://link.springer.com/book/10.1007/978-3-031-02172-5

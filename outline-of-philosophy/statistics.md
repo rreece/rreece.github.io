@@ -134,6 +134,7 @@ See also:
 -   Cranmer [^Cranmer2015]
 -   Lista: book [^Lista2016a], notes [^Lista2016b]
 -   Cox [^Cox2006]
+-   Behnke, O., Kr&ouml;ninger, K., Schott, G., & Sch&ouml;rner-Sadenius, T. (2013). *Data Analysis in High Energy Physics: A Practical Guide to Statistical Methods*. [^Behnke2013]
 -   Cousins [^Cousins2018]
 -   Weisberg [^Weisberg2019]
 -   Cranmer, K. (2020). [*Statistics and Data Science*](https://cranmer.github.io/stats-ds-book/intro.html).
@@ -145,6 +146,7 @@ See also:
     -   [*Advanced Data Analysis from an Elementary Point of View*](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 -   Taboga, M. (2022). [statlect.com](https://www.statlect.com/).
 
+[^Behnke2013]: @Behnke_2013_Data_Analysis_in_High_Energy_Physics_A_Practical\.
 [^Cousins2018]: @Cousins_2018_Lectures_on_statistics_in_theory_Prelude\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\.
 [^Cox2006]: @Cox_2006_Principles_of_Statistical_Inference\.
