@@ -1770,6 +1770,8 @@ $$ \hat{x}_t = \underset{x_t \in V}{\mathrm{argmax}} \: P(x_t | x_1 \ldots x_{t-
     -   Rationalism and empiricism in artificial intellegence:
         A survey of 25 years of evaluation [in NLP]. [^Church2019]
     -   Kaplan, J. et al. (2020). [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361). [^Kaplan2020]
+    -   Rae, J.W. et al. (2022). [Scaling language models: Methods, analysis & insights from training Gopher](https://arxiv.org/abs/2112.11446). [^Rae2022]
+    -   Hoffmann, J. et al. (2022). [Training compute-optimal large language models](https://arxiv.org/abs/2203.15556) (Chinchilla).  [^Hoffmann2022]
 
 ![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/chapter_attention-mechanisms/transformer.html)).](img/transformer.png){#fig:transformer .tallimg}
 
@@ -1823,6 +1825,7 @@ See also:
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
 [^Gu2021]: @Gu_2021_Efficiently_modeling_long_sequences\.
+[^Hoffmann2022]: @Hoffmann_2022_Training_compute_optimal_large_language_models\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
 [^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
 [^Jurafsky2022]: @Jurafsky_2022_Speech_and_Language_Processing_An_introduction\.
@@ -1840,6 +1843,7 @@ See also:
 [^Phuong2022]: @Phuong_2022_Formal_algorithms_for_transformers\.
 [^Radford2018]: @Radford_2018_Improving_language_understanding_by_generative\.
 [^Radford2019]: @Radford_2019_Language_models_are_unsupervised_multitask\.
+[^Rae2022]: @Rae_2022_Scaling_language_models_Methods_analysis\.
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
 [^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
 [^Tay2022]: @Tay_2022_Efficient_transformers_A_survey\.
