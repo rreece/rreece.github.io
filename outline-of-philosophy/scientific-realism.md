@@ -414,7 +414,7 @@ The primary dichotomy of positions is between forms of scientific realism and in
 -   Instrumentalism
     -   Positivism; linguistic frameworks; principle of tolerance; verificationism
 -   Underdetermination
-    -   Language dependence; Duhem-Quine thesis; the problem of translation
+    -   Language dependence; Duhem-Quine thesis; the problem of translation; theory ladenness
 -   Scientific revolution
     -   Normal science and revolutionary science; paradigm shift - Kuhn
     -   Pessimistic meta-induction - Laudan
@@ -1325,6 +1325,12 @@ More:
 -   Warren, J. (2016). Internal and external questions revisited. [^Warren2016a]
 -   Warren, J. (2016). Revisiting Quine on truth by convention. [^Warren2016b]
 
+Russell:
+
+>   What is recorded as the result of an experiment or observation is
+>   never the bare fact perceived, but this fact as interpreted by the
+>   help of a certain amount of theory. [^Russell1992p187]
+
 See also:
 
 -   The introduction to the [analytic/synthetic distinction](scientific-method.html#analyticsynthetic-distinction)
@@ -1335,6 +1341,7 @@ See also:
 [^Quine1986a]: @Quine_1986_The_Philosophy_of_WVQuine\.
 [^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
 [^Quine1991]: @Quine_1991_Two_dogmas_in_retrospect\.
+[^Russell1992p187]: @Russell_1992_The_Analysis_of_Matter\, p. 187.
 [^Schuldenfrei1972]: @Schuldenfrei_1972_Quine_in_perspective\.
 [^Warren2016a]: @Warren_2016_Internal_and_external_questions_revisited\.
 [^Warren2016b]: @Warren_2016_Revisiting_Quine_on_truth_by_convention\.

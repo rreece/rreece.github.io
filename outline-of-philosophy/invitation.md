@@ -48,6 +48,7 @@ Philosophy of science asks:
 -   What should we say of the products of science?
     In particular, does science make any *progress* at
     revealing or approximating *truth*?
+-   What does science say the world is like?
 -   Where has science taken us, and where is it going?
 
 In our modern information age,

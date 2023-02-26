@@ -89,7 +89,7 @@ Word meanings in deep learning
 
 ### Transformers
 
-![Meme about the fame of transformer (source: [&commat;mishig25](https://twitter.com/mishig25/status/1549859201207484417)).](img/transformer-as-a-famous-painting.jpg){#fig:transformer-as-a-famous-painting}
+![Meme about the fame of the transformer network architecture (source: [&commat;mishig25](https://twitter.com/mishig25/status/1549859201207484417)).](img/transformer-as-a-famous-painting.jpg){#fig:transformer-as-a-famous-painting}
 
 -   Transformer [^Vaswani2017]
 
