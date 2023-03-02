@@ -167,6 +167,7 @@ Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep le
 Lewis, D. (1981). Causal decision theory. *Australasian Journal of Philosophy*, 59, 5--30. https://www.andrewmbailey.com/dkl/Causal_Decision_Theory.pdf
 Lewis, M. et al. (2019). BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. https://arxiv.org/abs/1910.13461
 Li, H. et al. (2020). Regret minimization via novel vectorized sampling policies and exploration. http://aaai-rlg.mlanctot.info/2020/papers/AAAI20-RLG_paper_14.pdf
+Lin, H. & Jegelka, S. (2018). ResNet with one-neuron hidden layers is a universal approximator. https://arxiv.org/abs/1806.10909
 Lista, L. (2016). Practical statistics for particle physicists. https://arxiv.org/abs/1609.04150
 Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
 Liu, H., Dai, Z., So, D.R., & Le, Q.V. (2021). Pay attention to MLPs. https://arxiv.org/abs/2105.08050

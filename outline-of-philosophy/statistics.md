@@ -2206,6 +2206,7 @@ Roberts:
 -   Minsky, M. & Papert, S. (1969). *Perceptrons: An Introduction to Computational Geometry*. [^Minsky1969]
 -   Hornik, K., Stinchcombe, M., & White, H. (1989). [Multilayer feedforward networks are universal approximators](https://cognitivemedium.com/magic_paper/assets/Hornik.pdf). [^Hornik1989]
 -   Lu, Z., Pu, H., Wang, F., Hu, Z., & Wang, L. (2017). [The expressive power of neural networks: A view from the width](https://proceedings.neurips.cc/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf). [^Lu2017]
+-   Lin, H. & Jegelka, S. (2018). [ResNet with one-neuron hidden layers is a universal approximator](https://arxiv.org/abs/1806.10909). [^Lin2018]
 -   Ismailov, V. (2020). [A three layer neural network can represent any multivariate function](https://arxiv.org/abs/2012.03016). [^Ismailov2020]
 -   Multi-layer perceptions with two or more layers are universal approximators.  [^Bishop2006p230]
 -   Seemed to slow the interest in deeper networks?
@@ -2213,6 +2214,7 @@ Roberts:
 [^Bishop2006p230]: @Bishop_2006_Pattern_Recognition_and_Machine_Learning\, p. 230.
 [^Hornik1989]: @Hornik_1989_Multilayer_feedforward_networks_are_universal\.
 [^Ismailov2020]: @Ismailov_2020_A_three_layer_neural_network_can_represent_any\.
+[^Lin2018]: @Lin_2018_ResNet_with_one_neuron_hidden_layers_is\.
 [^Lu2017]: @Lu_2017_The_expressive_power_of_neural_networks_A_view\.
 [^Minsky1969]: @Minsky_1969_Perceptrons_An_Introduction_to_Computational\.
 

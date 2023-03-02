@@ -4,6 +4,7 @@ Ahmed, A., & Caulton, A. (2014). Causal decision theory and EPR correlations. *S
 Aime, C. (2022). Muon collider physics summary. https://arxiv.org/abs/2203.07256
 Ananthaswamy, A. (2021). This simple experiment could challenge standard quantum theory. *Scientific American*. https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
+Arbey, A. & Mahmoudi, F. (2021). Dark matter and the early Universe: a review. https://arxiv.org/abs/2104.11488
 Arntzenius, F. (2012). *Space, Time, and Stuff*. Oxford University Press.
 Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting processor. *Nature*, 574, 505--510. https://www.nature.com/articles/s41586-019-1666-5
 {ATLAS Collaboration}. (2008). The ATLAS Experiment at the CERN Large Hadron Collider. *Journal of Instrumentation*, 3, 08003. https://cds.cern.ch/record/1129811
