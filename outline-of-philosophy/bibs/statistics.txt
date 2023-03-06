@@ -129,6 +129,7 @@ Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical 
 He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image recognition. https://arxiv.org/abs/1512.03385
 Heinrich, J. & Lyons, L. (2007). Systematic errors. *Annual Reviews of Nuclear and Particle Science*, 57, 145--169. https://www.annualreviews.org/doi/abs/10.1146/annurev.nucl.57.090506.123052
 Heinrich, J. & Silver, D. (2016). Deep reinforcement learning from self-play in imperfect-information games. https://arxiv.org/abs/1603.01121
+Henighan, T. et al. (2023). Superposition, memorization, and double descent. https://transformer-circuits.pub/2023/toy-double-descent/index.html
 Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation*, 9(8), 1735--1780.
 Hoffmann, J. et al. (2022). Training compute-optimal large language models. https://arxiv.org/abs/2203.15556
 Hornik, K., Stinchcombe, M., & White, H. (1989). Multilayer feedforward networks are universal approximators. *Neural Networks*, 2, 359--366. https://cognitivemedium.com/magic_paper/assets/Hornik.pdf
@@ -258,6 +259,7 @@ Smith, L. (2019). A gentle introduction to information geometry. http://www.robo
 Solomonoff, G. (2016). Ray Solomonoff and the Dartmouth Summer Research Project in Artificial Intelligence, 1956. http://raysolomonoff.com/dartmouth/dartray.pdf
 Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. *Physics of Plasmas*, 25(8), 080901.
 Stahlberg, F. (2019). Neural machine translation: A review. https://arxiv.org/abs/1912.02047
+Stein, C. (1956). Inadmissibility of the usual estimator for the mean of a multivariate normal distribution. *Proceedings of the Third Berkeley Symposium on Mathematical Statistics and Probability*, 1, 197--206.
 Steinhardt, J. (2012). Beyond Bayesians and frequentists. https://jsteinhardt.stat.berkeley.edu/files/stats-essay.pdf
 Steinhardt, J. (2022). More is different for AI. https://bounded-regret.ghost.io/more-is-different-for-ai/
 Stuart, A., Ord, K., & Arnold, S. (2010). *Kendall's Advanced Theory of Statistics, Vol 2A: Classical Inference and the Linear Model*. Wiley.

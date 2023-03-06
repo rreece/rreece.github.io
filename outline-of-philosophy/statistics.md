@@ -349,10 +349,12 @@ Fisher:
 -   [Stein's paradox](https://en.wikipedia.org/wiki/Stein%27s_example)
     -   The ordinary decision rule for estimating the mean of a multivariate Gaussian
         distribution (with dimensions, $n \geq 3$) is inadmissible under mean squared error risk.
--   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
+    -   Stein, C. (1956). Inadmissibility of the usual estimator for the mean of a multivariate normal distribution. [^Stein1956]
+    -   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
 -   Probability in high dimensions [^vanHandel2016]
 -   *High-Dimensional Probability:An introduction with applications in data science* [^Vershynin2018]
 
+[^Stein1956]: @Stein_1956_Inadmissibility_of_the_usual_estimator\.
 [^vanHandel2016]: @vanHandel_2016_Probability_in_high_dimensions\.
 [^Vershynin2018]: @Vershynin_2018_High_Dimensional_ProbabilityAn_introduction\.
 
@@ -1528,12 +1530,14 @@ Deep learning
 -   Bubeck, S. & Sellke, M. (2021). [A universal law of robustness via isoperimetry](https://arxiv.org/abs/2105.12806). [^Bubeck2021]
 -   Bach, F. (2022). [*Learning Theory from First Principles*](https://www.di.ens.fr/~fbach/ltfp_book.pdf). [^Bach2022p225]
 -   Steinhardt, J. (2022). [More is different for AI](https://bounded-regret.ghost.io/more-is-different-for-ai/). [^Steinhardt2022]
+-   Henighan, T. et al. (2023). [Superposition, memorization, and double descent](https://transformer-circuits.pub/2023/toy-double-descent/index.html). [^Henighan2023]
 
 [^Bach2022p225]: @Bach_2022_Learning_Theory_from_First_Principles\, p. 225--230.
 [^Balestriero2021]: @Balestriero_2021_Learning_in_high_dimension_always_amounts\.
 [^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
 [^Bubeck2021]: @Bubeck_2021_A_universal_law_of_robustness_via_isoperimetry\.
 [^Dar2021]: @Dar_2021_A_farewell_to_the_bias_variance_tradeoff\.
+[^Henighan2023]: @Henighan_2023_Superposition_memorization_and_double_descent\.
 [^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
 [^Nagarajan2021]: @Nagarajan_2021_Explaining_generalization_in_deep_learning\.
 [^Steinhardt2022]: @Steinhardt_2022_More_is_different_for_AI\.
@@ -2408,6 +2412,7 @@ See also:
 -   Belloni, M. (2019). [Neural networks and philosophy of language: Why Wittgenstein’s theories are the basis of all modern NLP](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da).
 -   Goldhill, O. (2019). [Google Translate is a manifestation of Wittgenstein’s theory of language](https://qz.com/1549212/google-translate-is-a-manifestation-of-wittgensteins-theory-of-language).
 -   Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. [^Skelac2020]
+-   Boccelli, D. (2022). [Word embeddings align with Kandinsky’s theory of color](https://towardsdatascience.com/word-embeddings-align-with-kandinskys-theory-of-color-26288b864834).
 
 Wittgenstein in *PI*:
 

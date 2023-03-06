@@ -6,6 +6,7 @@ Black, M. (1964). The gap between "is" and "should". *Philosophical Review*, 73,
 Brown, S.R. (2008). *Moral Virtue and Nature: A defense of ethical naturalism*. Continuum.
 Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. *Journal of Economic Theory*, 29, 185--201.
 Churchland, P.S. (2011). *What Neuroscience Tells Us About Morality*. Princeton University Press.
+Coqueret, G. & Milhau, V. (2014). Estimating covariance matrices for portfolio optimization. https://www.gcoqueret.com/files/Estim_cov.pdf
 Cushman, F. (2013). Action, outcome, and value. *Personality and Social Psychology Review*, 17, 273--292.
 de Beauvoir, S. (1949). The Second Sex.
 de Waal, F. (1982). *Chimpanzee Politics: Power and Sex among Apes*. Johns Hopkins University Press.
@@ -14,6 +15,7 @@ Fama, E. (1970). Efficient capital markets: A review of theory and empirical wor
 Goldman, A.H. (1993). Realism about aesthetic properties. *The Journal of Aesthetics and Art Criticism*, 51, 31--37.
 Harris, S. (2010). *The Moral Landscape: How science can determine human values*. Free Press.
 Hayek, F. (1945). The use of knowledge in society. *The American Economic Review*, 35, 519--530.
+Jagannathan, R. & Ma, T. (2003). Risk reduction in large portfolios: Why imposing the wrong constraints helps. *The Journal of Finance*, 58(4), 1651--1683.
 Joyce, R. (2016). Evolution and moral naturalism. In *The Blackwell Companion to Naturalism* (pp. 369--385). John Wiley & Sons. http://personal.victoria.ac.nz/richard_joyce/acrobat/joyce_2016_evolution.and.moral.naturalism.pdf
 Klocksiem, J. (2019). Against reductive ethical naturalism. *Philosophical Studies*, 176, 1991--2010.
 Ledoit, O. & Wolf, M. (2003). Improved estimation of the covariance matrix of stock returns with an application to portfolio selection. *Journal of Empirical Finance*, 10, 603--621.

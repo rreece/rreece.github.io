@@ -533,53 +533,90 @@ Shields:
 
 ### Economics
 
--   [Harry Markowitz](https://en.wikipedia.org/wiki/Harry_Markowitz) (b. 1927)
-    -   [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
-    -   [Markowitz model](https://en.wikipedia.org/wiki/Markowitz_model)
-    -   Markowitz, H.M. (1952). Portfolio selection. [^Markowitz1952]
-    -   Markowitz, H.M. (1959). *Portfolio Selection: Efficient Diversification of Investments*. [^Markowitz1959]
-    -   Merton, R.C. (1972). [An analytic derivation of the efficient portfolio frontier](https://www.jstor.org/stable/2329621). [^Merton1972]
-    -   Ledoit, O. & Wolf, M. (2003). Improved estimation of the covariance matrix of stock returns with an application to portfolio selection. [^Ledoit2003]
-    -   Markowitz, H.M. (2005). Market efficiency: A theoretical distinction and so what? [^Markowitz2005]
-    -   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
--   [William F. Sharpe](https://en.wikipedia.org/wiki/William_F._Sharpe) (b. 1934)
-    -   Sharpe ratio
-    -   Capital Asset Pricing Model (CAPM)
-    -   Sharpe, W.F. (1963). A simplified model for portfolio analysis. [^Sharpe1963]
-    -   Sharpe, W.F. (1964). Capital asset prices: A theory of market equilibrium under conditions of risk. [^Sharpe1964]
-    -   Sharpe, W.F. (1999). *Portfolio Theory and Capital Markets*. [^Sharpe1999]
--   [Mutual fund separation theorem](https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem)
-    -   Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. [^Chamberlain1983]
-    -   Owen, J. & Rabinovitch, R. (1983). On the class of elliptical distributions and their applications to the theory of portfolio choice. [^Owen1983]
--   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
-    -   Sen, A. (1970). [The impossibility of a Paretian Liberal](https://dash.harvard.edu/bitstream/handle/1/3612779/Sen_ImpossibilityParetian.pdf). [^Sen1970]
-    -   Sen, A. (2009). *The Idea of Justice*. [^Sen2009]
--   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
-    -   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
-    -   Fama, E. (1970). [Efficient capital markets: A review of theory and empirical work](http://www.e-m-h.org/Fama70.pdf). [^Fama1970]
--   Covariance estimation and asset trees
-    -   Mantegna, R.N. (1998). [Hierarchical structure in financial markets](https://arxiv.org/abs/cond-mat/9802256). [^Mantegna1998]
--   Misc
-    -   Bikchandani, S., Riley, J.G., & Hirshleifer, J. (2013). *The Analytics of Uncertainty and Information*. [^Bikchandani2013]
-    -   Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. [^Ross2005]
+#### Modern portfolio theory
 
-[^Bikchandani2013]: @Bikchandani_2013_The_Analytics_of_Uncertainty_and_Information\.
-[^Chamberlain1983]: @Chamberlain_1983_A_characterization_of_the_distributions_that_imply\.
+-   [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
+-   [Harry Markowitz](https://en.wikipedia.org/wiki/Harry_Markowitz) (b. 1927)
+-   [Markowitz model](https://en.wikipedia.org/wiki/Markowitz_model)
+-   Markowitz, H.M. (1952). Portfolio selection. [^Markowitz1952]
+-   Markowitz, H.M. (1959). *Portfolio Selection: Efficient Diversification of Investments*. [^Markowitz1959]
+-   Merton, R.C. (1972). [An analytic derivation of the efficient portfolio frontier](https://www.jstor.org/stable/2329621). [^Merton1972]
+-   Markowitz, H.M. (2005). Market efficiency: A theoretical distinction and so what? [^Markowitz2005]
+-   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
+-   Kwok, Y.K. (2017). Lecture notes: [Fundamentals of Mathematical Finance](https://www.math.hkust.edu.hk/~maykwok/MATH4512.htm).
+
 [^Elton2014]: @Elton_2014_Modern_Portfolio_Theory_and_Investment_Analysis\.
-[^Fama1970]: @Fama_1970_Efficient_capital_markets_A_review_of_theory\.
-[^Ledoit2003]: @Ledoit_2003_Improved_estimation_of_the_covariance_matrix\.
-[^Mantegna1998]: HERE
 [^Markowitz1952]: @Markowitz_1952_Portfolio_selection\.
 [^Markowitz1959]: @Markowitz_1959_Portfolio_Selection_Efficient_Diversification\.
 [^Markowitz2005]: @Markowitz_2005_Market_efficiency_A_theoretical_distinction\.
 [^Merton1972]: @Merton_1972_An_analytic_derivation_of_the_efficient_portfolio\.
+
+
+#### Mutual fund separation theorem
+
+-   [Mutual fund separation theorem](https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem)
+-   Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. [^Chamberlain1983]
+-   Owen, J. & Rabinovitch, R. (1983). On the class of elliptical distributions and their applications to the theory of portfolio choice. [^Owen1983]
+-   TODO: the two-fund theorem
+-   TODO: the one-fund theorem
+
+[^Chamberlain1983]: @Chamberlain_1983_A_characterization_of_the_distributions_that_imply\.
 [^Owen1983]: @Owen_1983_On_the_class_of_elliptical_distributions_and_their\.
-[^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
-[^Sen1970]: @Sen_1970_The_impossibility_of_a_Paretian_Liberal\.
-[^Sen2009]: @Sen_2009_The_Idea_of_Justice\.
+
+
+#### Estimation of covariance matrices
+
+-   [Estimation of covariance matrices](https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices)
+-   [Shrinkage](https://en.wikipedia.org/wiki/Shrinkage_(statistics))
+-   Ledoit, O. & Wolf, M. (2003). Improved estimation of the covariance matrix of stock returns with an application to portfolio selection. [^Ledoit2003]
+-   Jagannathan, R. & Ma, T. (2003). Risk reduction in large portfolios: Why imposing the wrong constraints helps. [^Jagannathan2003]
+-   Coqueret, G. & Milhau, V. (2014). [Estimating covariance matrices for portfolio optimization](https://www.gcoqueret.com/files/Estim_cov.pdf) [^Coqueret2014]
+-   Covariance estimation and asset trees
+    -   Mantegna, R.N. (1998). [Hierarchical structure in financial markets](https://arxiv.org/abs/cond-mat/9802256). [^Mantegna1998]
+-   TODO: maybe move this to statistics?
+
+[^Coqueret2014]: @Coqueret_2014_Estimating_covariance_matrices_for_portfolio\.
+[^Jagannathan2003]: @Jagannathan_2003_Risk_reduction_in_large_portfolios_Why_imposing\.
+[^Ledoit2003]: @Ledoit_2003_Improved_estimation_of_the_covariance_matrix\.
+[^Mantegna1998]: @Mantegna_1998_Hierarchical_structure_in_financial_markets\.
+
+
+#### Capital Asset Pricing Model
+
+-   Capital Asset Pricing Model (CAPM)
+-   [William F. Sharpe](https://en.wikipedia.org/wiki/William_F._Sharpe) (b. 1934)
+-   Sharpe ratio
+-   Sharpe, W.F. (1963). A simplified model for portfolio analysis. [^Sharpe1963]
+-   Sharpe, W.F. (1964). Capital asset prices: A theory of market equilibrium under conditions of risk. [^Sharpe1964]
+-   Sharpe, W.F. (1999). *Portfolio Theory and Capital Markets*. [^Sharpe1999]
+
 [^Sharpe1963]: @Sharpe_1963_A_simplified_model_for_portfolio_analysis\.
 [^Sharpe1964]: @Sharpe_1964_Capital_asset_prices_A_theory_of_market\.
 [^Sharpe1999]: @Sharpe_1999_Portfolio_Theory_and_Capital_Markets\.
+
+
+#### Efficient-market hypothesis
+
+-   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+-   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
+-   Fama, E. (1970). [Efficient capital markets: A review of theory and empirical work](http://www.e-m-h.org/Fama70.pdf). [^Fama1970]
+
+
+[^Fama1970]: @Fama_1970_Efficient_capital_markets_A_review_of_theory\.
+
+
+Misc
+
+-   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
+    -   Sen, A. (1970). [The impossibility of a Paretian Liberal](https://dash.harvard.edu/bitstream/handle/1/3612779/Sen_ImpossibilityParetian.pdf). [^Sen1970]
+    -   Sen, A. (2009). *The Idea of Justice*. [^Sen2009]
+-   Bikchandani, S., Riley, J.G., & Hirshleifer, J. (2013). *The Analytics of Uncertainty and Information*. [^Bikchandani2013]
+-   Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. [^Ross2005]
+
+[^Bikchandani2013]: @Bikchandani_2013_The_Analytics_of_Uncertainty_and_Information\.
+[^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
+[^Sen1970]: @Sen_1970_The_impossibility_of_a_Paretian_Liberal\.
+[^Sen2009]: @Sen_2009_The_Idea_of_Justice\.
 
 
 Free speech 
