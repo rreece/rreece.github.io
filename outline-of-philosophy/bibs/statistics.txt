@@ -3,6 +3,7 @@ Aldrich, J. (1997). R. A. Fisher and the making of maximum likelihood 1912-1922.
 Amari, S. (1998). Natural gradient works efficiently in learning. *Neural Computation*, 10, 251--276.
 Amari, S. (2016). *Information Geometry and Its Applications*. Springer Japan.
 Anderson, C. (2008). The End of Theory: The data deluge makes the scientific method obsolete. *Wired*. https://www.wired.com/2008/06/pb-theory/ [June 23, 2008.]
+Arras, K.O. (1998). An introduction to error propagation: Derivation, meaning and examples of $C_y= F_x C_x F_{x}^{\top}$. http://srl.informatik.uni-freiburg.de/papers/arrasTR98.pdf [EPFL-ASL-TR-98-01 R3.]
 Arulkumaran, K., Deisenroth, M.P., Brundage, M., & Bharath, A.A. (2017). Deep Reinforcement Learning: A Brief Survey. *IEEE Signal Processing Magazine*, 34, 26--38.
 Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. *The International Journal of High Performance Computing Applications*, 32, 435--479.
 {ATLAS Collaboration}. (2012). Combined search for the Standard Model Higgs boson in $pp$ collisions at $\sqrt{s}$ = 7 TeV with the ATLAS detector. *Physical Review D*, 86, 032003. https://arxiv.org/abs/1207.0319

@@ -296,8 +296,12 @@ and
 
 TODO: clarify above, then specific examples.
 
-See Cowan. [^Cowan1998p20]
+See:
 
+-   Cowan. [^Cowan1998p20]
+-   Arras, K.O. (1998). [An introduction to error propagation: Derivation, meaning and examples of $C_y= F_x C_x F_{x}^{\top}$](http://srl.informatik.uni-freiburg.de/papers/arrasTR98.pdf). [^Arras1998]
+
+[^Arras1998]: @Arras_1998_An_introduction_to_error_propagation_Derivation\.
 [^Cowan1998p20]: @Cowan_1998_Statistical_Data_Analysis\, p. 20-22.
 
 
