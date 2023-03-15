@@ -1813,6 +1813,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Ouyang, L. et al. (2022). [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155). (InstructGPT) [^Ouyang2022]
     -   OpenAI. (2022). Blog: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/).
     -   Wolfram, S. (2023). [What is ChatGPT doing---and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) [^Wolfram2023]
+    -   GPT-4 [^OpenAI2023]
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
@@ -1849,6 +1850,7 @@ See also:
     @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\, and
     @Mikolov_2013_Distributed_representations_of_words_and_phrases\.
 [^Nirenburg1996]: @Nirenburg_1996_Bar_Hillel_and_Machine_Translation_Then_and_Now\.
+[^OpenAI2023]: @OpenAI_2023_GPT_4_Technical_Report\.
 [^Ouyang2022]: @Ouyang_2022_Training_language_models_to_follow_instructions\.
 [^Phuong2022]: @Phuong_2022_Formal_algorithms_for_transformers\.
 [^Radford2018]: @Radford_2018_Improving_language_understanding_by_generative\.

@@ -840,6 +840,14 @@ Platonism
 -   Seth Lloyd - the universe is a computer - pythagorean?
 -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
 -   Carroll, S. (2021). [Mindscape 127: Justin Clarke-Doane on Mathematics, Morality, Objectivity, and Reality](https://www.youtube.com/watch?v=3tvfq8ehHOk).
+-   De Cruz, H. (2016). [Numerical cognition and mathematical realism](http://hdl.handle.net/2027/spo.3521354.0016.016). [^DeCruz2016]
+
+[^DeCruz2016]: @DeCruz_2016_Numerical_cognition_and_mathematical_realism\.
+[^Quine1948b]: @Quine_1948_On_what_there_is\.
+[^Quine1948p7]: @Quine_1948_On_what_there_is\, p. 7.
+[^Quine1948p9]: @Quine_1948_On_what_there_is\, p. 9.
+[^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
+
 
 
 ### Visual proofs
@@ -859,10 +867,6 @@ Criticism:
 -   3Blue1Brown. (2022). Video: [How to lie using visual proofs](https://www.youtube.com/watch?v=VYQVlVoWoPY).
 
 [^Chen2018b]: @Chen_2018_The_intrinsic_structure_of_quantum_mechanics\.
-[^Quine1948b]: @Quine_1948_On_what_there_is\.
-[^Quine1948p7]: @Quine_1948_On_what_there_is\, p. 7.
-[^Quine1948p9]: @Quine_1948_On_what_there_is\, p. 9.
-[^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
 
 
 Nominalism
