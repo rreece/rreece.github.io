@@ -20,7 +20,6 @@ Consciousness
 ### Introduction
 
 -   Consciousness, sentience, self-awareness, sapience
--   Phenomenal vs access consciousness
 -   Embodiment
 -   Subconscious
 -   Hume
@@ -30,6 +29,8 @@ Consciousness
 -   Mach [^Mach1914]
 -   Putnam
 -   Nagel [^Nagel1974]
+-   Phenomenal vs access consciousness
+    -   Ned Block
 -   Searle: a biological process like digestion
 -   Churchland's
 -   Dennett [^Dennett1991CE]
@@ -89,8 +90,10 @@ Physicalism
 -   Materialism
 -   Descartes and Elisabeth, Princess of Bohemia
 -   Marx
--   Churchland's [^MacFarquhar2014]
 -   Montero [^Montero1999]
+-   Dennett
+    -   Dennett, D.C. (2012). [The mystery of David Chalmers](https://ase.tufts.edu/cogstud/dennett/papers/chalmers.pdf). [^Dennett2012]
+-   Churchland's [^MacFarquhar2014]
 -   Nail
 -   Ney
 -   Sean Carroll on QFT and experimental high energy physics ruling out
@@ -104,6 +107,7 @@ See also:
 -   [Physicalism](naturalism.html#physicalism) in the [Outline on naturalism](naturalism.html)
 -   [Physicalism](human-condition.html#physicalism) in the [Outline on the human condition](human-condition.html)
 
+[^Dennett2012]: @Dennett_2012_The_mystery_of_David_Chalmers\.
 [^MacFarquhar2014]: @MacFarquhar_2014_Two_Heads_A_marriage_devoted_to_the_mind_body\.
 [^Montero1999]: @Montero_1999_The_Body_Problem\.
 
