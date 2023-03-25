@@ -2419,6 +2419,7 @@ See also:
 -   Goldhill, O. (2019). [Google Translate is a manifestation of Wittgenstein’s theory of language](https://qz.com/1549212/google-translate-is-a-manifestation-of-wittgensteins-theory-of-language).
 -   Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. [^Skelac2020]
 -   Boccelli, D. (2022). [Word embeddings align with Kandinsky’s theory of color](https://towardsdatascience.com/word-embeddings-align-with-kandinskys-theory-of-color-26288b864834).
+-   [Tweet by Joscha Bach, Mar 25, 2023](https://twitter.com/Plinz/status/1639629419881873410)
 
 Wittgenstein in *PI*:
 
@@ -2429,12 +2430,25 @@ and
 >   One cannot guess how a word functions.
 >   One has to look at its use, and learn from that. [^Wittgenstein2009Sec340]
 
+Piantadosi:
+
+>   Modern large language models integrate syntax and semantics in the underlying
+>   representations: encoding words as vectors in a high-dimensional space,
+>   without an effort to separate out e.g. part of speech categories from semantic
+>   representations, or even predict at any level of analysis other than the literal
+>   word. Part of making these models work well was in determining how to encode
+>   semantic properties into vectors, and in fact initializing word vectors via
+>   encodings of distribution semantics from e.g. Mikolov et al. 2013 (Radford et al. 2019).
+>   Thus, an assumption of the autonomy of syntax is not required to make models
+>   that predict syntactic material and may well hinder it. [^Piantadosi2023p15]
+
 See also:
 
 -   [Natural language processing](statistics.html#natural-language-processing)
 -   [Ordinary language philosophy](scientific-realism.html#ordinary-language-philosophy)
 
 [^Perone2018]: @Perone_2018_NLP_word_representations_and_the_Wittgenstein\.
+[^Piantadosi2023p15]: @Piantadosi_2023_Modern_language_models_refute_Chomskys_approach\, p. 15.
 [^Skelac2020]: @Skelac_2020_Meaning_as_use_From_Wittgenstein_to_Googles\.
 [^Wittgenstein2009Sec43]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;43.
 [^Wittgenstein2009Sec340]: @Wittgenstein_2009_Philosophical_Investigations\, &sect;340.

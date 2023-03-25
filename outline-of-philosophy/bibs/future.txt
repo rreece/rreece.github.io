@@ -9,6 +9,7 @@ Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford Univ
 Bostrom, N. (2019). The vulnerable world hypothesis, *Global Policy*, 10, 455--476. https://nickbostrom.com/papers/vulnerable.pdf
 Feynman, R.P. (1959). There's plenty of room at the bottom. https://calteches.library.caltech.edu/1976/1/1960Bottom.pdf
 Hanson, R., Martin, D., McCarter, C., & Paulson, J. (2021). If loud aliens explain human earliness, quiet aliens are also rare. *The Astrophysical Journal*, 922, 182. https://iopscience.iop.org/article/10.3847/1538-4357/ac2369
+Marcus, G. (2018). Deep learning: A critical appraisal. https://arxiv.org/abs/1801.00631
 Russell, S. & Norvig, P. (1995). *Artificial Intelligence: A modern approach* (3rd ed.). Pearson.
 Sandberg, A., Drexler, E., & Ord, T. (2018). Dissolving the Fermi paradox. https://arxiv.org/abs/1806.02404
 Urban, T. (2015). The AI Revolution: The Road to Superintelligence. https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html

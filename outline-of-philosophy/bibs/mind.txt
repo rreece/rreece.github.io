@@ -1,6 +1,7 @@
 Aaronson, S. (2013). The ghost in the quantum Turing machine. https://arxiv.org/abs/1306.0159
 Andrews, M. (2021). The math is not the territory: Navigating the free energy principle. *Biology & Philosophy*, 36, 1--19. http://philsci-archive.pitt.edu/18974/
 Bunge, M. (2010). *Mind and Matter: A Philosophical Inquiry*. Dordrecht: Springer.
+Caucheteux, C. & King, J.R. (2020). Language processing in brains and deep neural networks: Computational convergence and its limit. https://doi.org/10.1101/2020.07.03.186288
 Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 Cohen, M.A., Dennett, D.C., & Kanwisher, N. (2016). What is the bandwidth of perceptual experience? *Trends in Cognitive Sciences*, 20, 324--335. https://dspace.mit.edu/bitstream/handle/1721.1/112190/nihms769621.pdf
 Davidson, D. (1982). Rational animals. *Dialectica*, 36, 317--327.
@@ -15,6 +16,7 @@ Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consc
 Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews: Neuroscience*, 11, 127--138. https://www.uab.edu/medicine/cinl/images/KFriston_FreeEnergy_BrainTheory.pdf
 Gefter, A. & Hoffman, D.D. (2016). The case against reality. *The Atlantic*. https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/ [April 25, 2016]
 Grzankowski, A. (2015). Not all attitudes are propositional. *European Journal of Philosophy*, 23, 374--391.
+Katzir, R. (2023). Why large language models are poor theories of human linguistic cognition: A reply to Piantadosi. https://lingbuzz.net/lingbuzz/007190
 Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. *Nature Reviews: Neuroscience*, 17, 307--321.
 Kurzweil, R. (2012). *How to Create a Mind*. Penguin Books.
 MacFarquhar, L. (2014). Two Heads: A marriage devoted to the mind-body problem. *New Yorker*. https://www.newyorker.com/magazine/2007/02/12/two-heads [July 21, 2014]
@@ -25,8 +27,10 @@ McCarthy, J., Minsky, M.L., Rochester, N., & Shannon, C.E. (1955). A proposal fo
 Montero, B. (1999). The Body Problem. *Nous*, 33(2), 183--200.
 Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435--450. https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf
 Norvig, P. (2011). On Chomsky and the Two Cultures of Statistical Learning. https://norvig.com/chomsky.html
+Piantadosi, S.T. (2023). Modern language models refute Chomsky’s approach to language. https://lingbuzz.net/lingbuzz/007180
 Reimann, M.W. et al. (2017). Cliques of neurons bound into cavities provide a missing link between structure and function. *Frontiers in Computational Neuroscience*, 11. https://www.frontiersin.org/articles/10.3389/fncom.2017.00048/full
 Ross, D. (2000). *Dennett's Philosophy: A comprehensive assessment*. MIT Press.
+Takagi, Y. & Nishimoto, S. (2022). High-resolution image reconstruction with latent diffusion models from human brain activity. https://doi.org/10.1101/2022.11.18.517004
 Tononi, G. & Edelman, G.M. (1998). Consciousness and complexity. *Science*, 282, 1846--1851.
 Tononi, G. (2004). An information integration theory of consciousness. *BMC Neuroscience*, 5, 1--22. https://link.springer.com/article/10.1186/1471-2202-5-42
 Tononi, G. (2010). Information integration: Its relevance to brain function and consciousness. *Archives Italiennes de Biolaogie*, 148, 299--322. http://www.architalbiol.org/index.php/aib/article/view/148299

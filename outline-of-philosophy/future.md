@@ -104,6 +104,7 @@ Artificial intelligence
 -   Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. [^Bostrom2014]
 -   Armstrong, S., Sotala, K., & OhEigeartaigh, S. S. (2014). [The errors, insights and lessons of famous AI predictions--and what they mean for the future](https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf). [^Armstrong2014]
 -   Urban, T. (2015). [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html). [^WaitButWhy2015]
+-   Marcus, G. (2018). [Deep learning: A critical appraisal](https://arxiv.org/abs/1801.00631). [^Marcus2018]
 -   Gwern. (2020). [The scaling hypothesis](https://www.gwern.net/Scaling-hypothesis#scaling-hypothesis).
 -   Carroll, S. & Russell, S. (2020). Video: [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
     -   Russell: AI gives us the Midas touch
@@ -121,6 +122,7 @@ See also:
 
 [^Armstrong2014]: @Armstrong_2014_The_errors_insights_and_lessons_of_famous_AI\.
 [^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
+[^Marcus2018]: @Marcus_2018_Deep_learning_A_critical_appraisal\.
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 [^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
 [^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.

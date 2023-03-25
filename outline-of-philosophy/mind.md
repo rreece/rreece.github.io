@@ -188,20 +188,6 @@ Neuroscience
 Language
 --------------------------------------------------------------------------------
 
-### Universal grammar
-
--   Noam Chomsky
-    -   innatism
-    -   *Syntactic Structures* (1957)
-    -   Kantian?
--   Criticism
-    -   Peter Norvig
-        -   Norvig, P. (2011). [On Chomsky and the Two Cultures of Statistical Learning](https://norvig.com/chomsky.html). [^Norvig2011b]
-        -   Liberman, M. (2011). Language Log (blog): [Norvig channels Shannon contra Chomsky](https://languagelog.ldc.upenn.edu/nll/?p=3172).
-
-[^Norvig2011b]: @Norvig_2011_On_Chomsky_and_the_Two_Cultures_of_Statistical\.
-
-
 ### Origin of language
 
 -   [Origin of language](https://en.wikipedia.org/wiki/Origin_of_language)
@@ -221,6 +207,20 @@ See also:
 [^Fodor1975]: @Fodor_1975_The_Language_of_Thought\.
 [^Grzankowski2015]: @Grzankowski_2015_Not_all_attitudes_are_propositional\.
 [^McCarthy2017]: @McCarthy_2017_The_Kekule_Problem\.
+
+
+### Universal grammar
+
+-   Noam Chomsky
+    -   innatism
+    -   *Syntactic Structures* (1957)
+    -   Kantian?
+-   Criticism
+    -   Peter Norvig
+        -   Norvig, P. (2011). [On Chomsky and the Two Cultures of Statistical Learning](https://norvig.com/chomsky.html). [^Norvig2011b]
+        -   Liberman, M. (2011). Language Log (blog): [Norvig channels Shannon contra Chomsky](https://languagelog.ldc.upenn.edu/nll/?p=3172).
+
+[^Norvig2011b]: @Norvig_2011_On_Chomsky_and_the_Two_Cultures_of_Statistical\.
 
 
 ### Animal cognition
@@ -305,6 +305,29 @@ See also:
 ### Counter criticism
 
 -   [Comic by Dennett](https://ase.tufts.edu/cogstud/assets/searle.jpg)
+
+
+### Computer vision and mind
+
+-   Takagi, Y. & Nishimoto, S. (2022). [High-resolution image reconstruction with latent diffusion models from human brain activity](https://doi.org/10.1101/2022.11.18.517004). [^Takagi2022]
+
+[^Takagi2022]: @Takagi_2022_High_resolution_image_reconstruction_with_latent\.
+
+
+### Language models and mind
+
+-   Piantadosi, S.T. (2023). [Modern language models refute Chomsky’s approach to language](https://lingbuzz.net/lingbuzz/007180). [^Piantadosi2023]
+-   Katzir, R. (2023). [Why large language models are poor theories of human linguistic cognition: A reply to Piantadosi](https://lingbuzz.net/lingbuzz/007190). [^Katzir2023]
+
+Experimentallly:
+
+>   Overall, these results suggest that, beyond the marginal effects of the models’ architectures,
+>   the middle---but not the outer---layers of deep language models systematically converge towards
+>   brain-like representations. [^Caucheteux2020]
+
+[^Caucheteux2020]: @Caucheteux_2020_Language_processing_in_brains_and_deep_neural\.
+[^Piantadosi2023]: @Piantadosi_2023_Modern_language_models_refute_Chomskys_approach\.
+[^Katzir2023]: @Katzir_2023_Why_large_language_models_are_poor_theories\.
 
 
 My thoughts
