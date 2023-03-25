@@ -1752,6 +1752,8 @@ Resources:
     -   Allen, C. (2019). ["Analogies Explained" ... Explained](https://carl-allen.github.io/nlp/2019/07/01/explaining-analogies-explained.html).
 -   RNNs and LSTMs
     -   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
+    -   Graves, A. (2013). [Generating sequences with recurrent neural networks](https://arxiv.org/abs/1308.0850). [^Graves2013]
+        -   Auto-regressive language modeling
     -   Olah, C. (2015). [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
     -   Karpathy, A. (2015). [The unreasonable effectiveness of recurrent neural networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/).
 
@@ -1835,6 +1837,7 @@ See also:
 [^Chowdhery2022]: @Chowdhery_2022_PaLM_Scaling_language_modeling_with_pathways\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
+[^Graves2013]: HERE
 [^Gu2021]: @Gu_2021_Efficiently_modeling_long_sequences\.
 [^Hoffmann2022]: @Hoffmann_2022_Training_compute_optimal_large_language_models\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.

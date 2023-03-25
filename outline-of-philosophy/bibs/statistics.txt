@@ -45,6 +45,7 @@ Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). Deep counterfactual regr
 Brown, N., Bakhtin, A., Lerer, A., & Gong, Q. (2020). Combining deep reinforcement learning and search for imperfect-information games. https://arxiv.org/abs/2007.13544
 Brown, T.B. et al. (2020). Language models are few-shot learners. https://arxiv.org/abs/2005.14165 [(Paper on the GPT-3 model by OpenAI)] 
 Bubeck, S. & Sellke, M. (2021). A universal law of robustness via isoperimetry. https://arxiv.org/abs/2105.12806
+Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). Efficient Monte Carlo counterfactual regret minimization in games with many player actions. *Advances in Neural Information Processing Systems*, 25. https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf
 Burch, N. (2018). *Time and Space: Why imperfect information games are hard*. University of Alberta. https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf  [(Ph.D. thesis)]
 Buzbas, E.O., Devezer, B., & Baumgaertner, B. (2022). The logical structure of experiments lays the foundation for a theory of reproducibility. https://www.biorxiv.org/content/10.1101/2022.08.10.503444v1
 Caldeira, J. & Nord, B. (2020). Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms. *Machine Learning: Science and Technology*, 2, 015002. https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3
@@ -108,7 +109,6 @@ Gandenberger, G. (2015). A new proof of the likelihood principle. *British Journ
 Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 16(7), 1--22. https://quod.lib.umich.edu/p/phimp/3521354.0016.007/--why-i-am-not-a-likelihoodist
 Gao, Y. & Chaudhari, P. (2020). An information-geometric distance on the space of tasks. https://arxiv.org/abs/2011.00613
 Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
-Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). Efficient Monte Carlo counterfactual regret minimization in games with many player actions. *Advances in Neural Information Processing Systems*, 25. https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf
 Gibson, R. (2014). *Regret minimization in games and the development of champion multiplayer computer poker-playing agents*. University of Alberta. https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf [(Ph.D. thesis)]
 Goldreich, O. & Ron, D. (1997). On universal learning algorithms. *Information Processing Letters*, 63(3), 131--136. https://www.wisdom.weizmann.ac.il/~oded/p_ul.html
 Good, I.J. (1988). The interface between statistics and philosophy of science. *Statistical Science*, 3, 386--397.
@@ -117,6 +117,7 @@ Goodman, N. (1955). *Fact, Fiction, and Forecast*. Harvard University Press.
 Goodman, S.N. (1999). Toward evidence-based medical statistics 1: The P value fallacy. *Annals of Internal Medicine*, 130(12), 995--1004. https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/goodman1.pdf
 Goodman, S.N. (1999). Toward evidence-based medical statistics 2: The Bayes factor. *Annals of Internal Medicine*, 130(12), 1005--1013. https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/goodman2.pdf
 Gorard, S. & Gorard, J. (2016). What to do instead of significance testing? Calculating the 'number of counterfactual cases needed to disturb a finding'. *International Journal of Social Research Methodology*, 19, 481--490.
+Graves, A. (2013). Generating sequences with recurrent neural networks. https://arxiv.org/abs/1308.0850
 Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). Why do tree-based models still outperform deep learning on tabular data? https://arxiv.org/abs/2207.08815
 Gu, A., Goel, K., & R{\'e}, C. (2021). Efficiently modeling long sequences with structured state spaces. https://arxiv.org/abs/2111.00396
 Haber, E. & Ruthotto, L. (2017). Stable architectures for deep neural networks. https://arxiv.org/abs/1705.03341

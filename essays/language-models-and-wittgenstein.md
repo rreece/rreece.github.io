@@ -9,9 +9,6 @@ Introduction
 
 -   TODO
 -   OpenAI. (2022). Blog: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/).
--   Wolfram, S. (2023). [What is ChatGPT doing---and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/). [^Wolfram2023]
-
-[^Wolfram2023]: @Wolfram_2023_What_is_ChatGPT_doing_and_why_does_it_work\.
 
 
 Questions of meaning
@@ -51,6 +48,7 @@ Wittgenstein's evolution
 
 -   TODO
 -   Carnap
+    -   Principle of tolerance
 -   Firth
     -   Firth, J.R. (1957): "You shall know a word by the company it keeps." [^Firth1957]
 
@@ -81,6 +79,7 @@ Word meanings in deep learning
 -   Discussion of relations captured by word2vec by [The Gradient](https://thegradient.pub/nlp-imagenet/)
 -   Perone, C.S. (2018). [NLP word representations and the Wittgenstein philosophy of language](http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/). [^Perone2018]
 
+
 [^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations\,
     @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\, and
     @Mikolov_2013_Distributed_representations_of_words_and_phrases\.
@@ -92,22 +91,49 @@ Word meanings in deep learning
 ![Meme about the fame of the transformer network architecture (source: [&commat;mishig25](https://twitter.com/mishig25/status/1549859201207484417)).](img/transformer-as-a-famous-painting.jpg){#fig:transformer-as-a-famous-painting}
 
 -   Transformer [^Vaswani2017]
+-   Positional encodings
+-   Self-attention
 
 [^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.
+
+
+### Generative language modeling
+
+-   Generative execution of next-token prediction with language models
+-   GPT
+-   Wolfram, S. (2023). [What is ChatGPT doing---and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/). [^Wolfram2023]
+
+[^Wolfram2023]: @Wolfram_2023_What_is_ChatGPT_doing_and_why_does_it_work\.
 
 
 ### Discussion
 
 -   Belloni, M. (2019). [Neural networks and philosophy of language: Why Wittgenstein’s theories are the basis of all modern NLP](https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da).
+-   Goldhill, O. (2019). [Google Translate is a manifestation of Wittgenstein’s theory of language](https://qz.com/1549212/google-translate-is-a-manifestation-of-wittgensteins-theory-of-language).
 -   Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. [^Skelac2020]
+-   Boccelli, D. (2022). [Word embeddings align with Kandinsky’s theory of color](https://towardsdatascience.com/word-embeddings-align-with-kandinskys-theory-of-color-26288b864834).
+-   [Tweet by Joscha Bach, Mar 25, 2023](https://twitter.com/Plinz/status/1639629419881873410)
 
+Piantadosi:
+
+>   Modern large language models integrate syntax and semantics in the underlying
+>   representations: encoding words as vectors in a high-dimensional space,
+>   without an effort to separate out e.g. part of speech categories from semantic
+>   representations, or even predict at any level of analysis other than the literal
+>   word. Part of making these models work well was in determining how to encode
+>   semantic properties into vectors, and in fact initializing word vectors via
+>   encodings of distribution semantics from e.g. Mikolov et al. 2013 (Radford et al. 2019).
+>   Thus, an assumption of the autonomy of syntax is not required to make models
+>   that predict syntactic material and may well hinder it. [^Piantadosi2023p15]
+
+[^Piantadosi2023p15]: @Piantadosi_2023_Modern_language_models_refute_Chomskys_approach\, p. 15.
 [^Skelac2020]: @Skelac_2020_Meaning_as_use_From_Wittgenstein_to_Googles\.
 
 
 Conclusion
 -------------------------------------------------------------------------------
 
--   TODO
+Bender & Lascarides:
 
 >   While machine learning has made impressive progress
 >   on many separate tasks (given appropriately curated data sets), the keys to generalizing beyond
@@ -115,6 +141,8 @@ Conclusion
 >   model can be reused across tasks. And this can only be done based on an understanding of how
 >   language works, including how sentences come to mean what they mean (semantics) and how
 >   speakers can use sentence meaning to convey communicative intent (pragmatics). [^Bender2020]
+
+TODO: moving the goalposts
 
 [^Bender2020]: @Bender_2020_Linguistic_Fundamentals_for_Natural_Language\.
 
