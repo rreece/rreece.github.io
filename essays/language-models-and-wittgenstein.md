@@ -7,8 +7,8 @@ Language models and Wittgenstein
 Introduction
 -------------------------------------------------------------------------------
 
--   TODO
--   OpenAI. (2022). Blog: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/).
+-   OpenAI. (2022). [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt).
+-   OpenAI. (2023). [GPT-4](https://openai.com/research/gpt-4).
 
 
 Questions of meaning
@@ -52,7 +52,6 @@ Wittgenstein's evolution
 
 ### Meaning as use
 
--   TODO
 -   Carnap
     -   Principle of tolerance
 -   Firth
