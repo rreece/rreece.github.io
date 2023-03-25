@@ -82,6 +82,8 @@ Word meanings in deep learning
 
 ### Word embeddings
 
+![Julia Bazi&nacute;ska (source: [Migdal (2017)](https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html/)).](img/Julia-Bazinska.jpg){#fig:Julia-Bazinska}
+
 -   Mikolov: word2vec [^Mikolov2013]
     -   Word (token) embeddings
 -   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
@@ -162,7 +164,7 @@ TODO: moving the goalposts
 -   On the other hand, that true structural relations can be found in language alone supports a view of accurate correspondence,
     something like the picture theory of meaning.
 -   Structural realism
--   Both Wittgensteinian views remain relevant.
+-   Both of Wittgenstein's views remain relevant.
 
 [^Bender2020]: @Bender_2020_Linguistic_Fundamentals_for_Natural_Language\.
 
