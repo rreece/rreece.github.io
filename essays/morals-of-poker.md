@@ -25,8 +25,7 @@ Similarly, well-versed poker players will know poker to have
 In the spirit of Franklin's essay,
 I have tried to enumerate the Morals of Poker.
 
-[^Franklin1786]: Franklin, B. (1786). The Morals of Chess. *The Columbian Magazine*, 1, 159--161.         
-    <https://folk.uio.no/gatandbe/chessmorals.pdf>
+[^Franklin1786]: @Franklin_1786_The_Morals_of_Chess\.
 
 
 ### 1. You do not achieve without trying
@@ -118,3 +117,4 @@ Don't blow it.
 ![](img/poker-stack-2017-11-03.jpg)
 
 
+<!-- REFERENCES -->
