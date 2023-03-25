@@ -4,6 +4,9 @@ Language models and Wittgenstein
 *September 1, 2022*
 
 
+<!-- PAGETOC -->
+
+
 Introduction
 -------------------------------------------------------------------------------
 
@@ -40,11 +43,13 @@ Wittgenstein's evolution
 
 ### The picture theory of meaning
 
+-   *Tractatus Logico-Philosophicus* (1922) [^Wittgenstein1961pTODO]
 -   [philosophy-in-figures/picture-theory-of-meaning-wittgenstein](https://philosophy-in-figures.tumblr.com/post/179388014391/picture-theory-of-meaning-wittgenstein)
 -   Daitz, E. (1953). [The picture theory of meaning](https://www.jstor.org/stable/2251383). [^Daitz1953]
 -   Keyt, D. (1964). [Wittgenstein's picture theory of language](https://www.jstor.org/stable/2183303). [^Keyt1964]
 -   Gaskin, R. (2009). [Realism and the picture theory of meaning](https://www.jstor.org/stable/43154543). [^Gaskin2009]
 
+[^Wittgenstein1961pTODO]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\, p. TODO
 [^Daitz1953]: @Daitz_1953_The_picture_theory_of_meaning\.
 [^Keyt1964]: @Keyt_1964_Wittgensteins_picture_theory_of_language\.
 [^Gaskin2009]: @Gaskin_2009_Realism_and_the_picture_theory_of_meaning\.
@@ -52,6 +57,7 @@ Wittgenstein's evolution
 
 ### Meaning as use
 
+-   *Philosophical Investigations* (1953)
 -   Carnap
     -   Principle of tolerance
 -   Firth
@@ -148,6 +154,15 @@ Bender & Lascarides:
 >   speakers can use sentence meaning to convey communicative intent (pragmatics). [^Bender2020]
 
 TODO: moving the goalposts
+
+-   A surprising amount about the world can be learned from simply predicting what will come next in written language.
+-   What do words mean?
+-   LLMs can be seen as a vindication of the later Wittgenstein theory of meaning as use.
+-   The division between syntax and semantics is porous.
+-   On the other hand, that true structural relations can be found in language alone supports a view of accurate correspondence,
+    something like the picture theory of meaning.
+-   Structural realism
+-   Both Wittgensteinian views remain relevant.
 
 [^Bender2020]: @Bender_2020_Linguistic_Fundamentals_for_Natural_Language\.
 
