@@ -44,6 +44,7 @@ Wittgenstein's evolution
 ### The picture theory of meaning
 
 -   *Tractatus Logico-Philosophicus* (1922) [^Wittgenstein1961pTODO]
+-   The picture theory of meaning is a correspondence theory of truth.
 -   [philosophy-in-figures/picture-theory-of-meaning-wittgenstein](https://philosophy-in-figures.tumblr.com/post/179388014391/picture-theory-of-meaning-wittgenstein)
 -   Daitz, E. (1953). [The picture theory of meaning](https://www.jstor.org/stable/2251383). [^Daitz1953]
 -   Keyt, D. (1964). [Wittgenstein's picture theory of language](https://www.jstor.org/stable/2183303). [^Keyt1964]
@@ -58,6 +59,7 @@ Wittgenstein's evolution
 ### Meaning as use
 
 -   *Philosophical Investigations* (1953)
+-   The theory of meaning as use is a coherence theory of truth.
 -   Carnap
     -   Principle of tolerance
 -   Firth
@@ -150,18 +152,19 @@ Bender & Lascarides:
 
 >   While machine learning has made impressive progress
 >   on many separate tasks (given appropriately curated data sets), the keys to generalizing beyond
->   any speciﬁc set of end-to-end systems lie in modeling the linguistic system itself such that that
+>   any specific set of end-to-end systems lie in modeling the linguistic system itself such that that
 >   model can be reused across tasks. And this can only be done based on an understanding of how
 >   language works, including how sentences come to mean what they mean (semantics) and how
 >   speakers can use sentence meaning to convey communicative intent (pragmatics). [^Bender2020]
 
-TODO: moving the goalposts
+TODO: Not acknowledging the evidence.
+TODO: Fallacy of moving the goalposts.
 
 -   A surprising amount about the world can be learned from simply predicting what will come next in written language.
 -   What do words mean?
 -   LLMs can be seen as a vindication of the later Wittgenstein theory of meaning as use.
--   The division between syntax and semantics is porous.
--   On the other hand, that true structural relations can be found in language alone supports a view of accurate correspondence,
+-   On the other hand, the division between syntax and semantics is porous.
+-   That true structural relations can be found in language alone supports a view of accurate correspondence,
     something like the picture theory of meaning.
 -   Structural realism
 -   Both of Wittgenstein's views remain relevant.
