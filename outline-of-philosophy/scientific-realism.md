@@ -828,7 +828,10 @@ Wittgenstein studied with, was influenced by, and influenced:
 *Tractatus Logico-Philosophicus* (1922) [^Wittgenstein1922]
 
 -   The picture theory of meaning
-    -   Correspondence theory of truth?
+    -   a correspondence theory of truth
+    -   Daitz, E. (1953). [The picture theory of meaning](https://www.jstor.org/stable/2251383). [^Daitz1953]
+    -   Keyt, D. (1964). [Wittgenstein's picture theory of language](https://www.jstor.org/stable/2183303). [^Keyt1964]
+    -   Gaskin, R. (2009). [Realism and the picture theory of meaning](https://www.jstor.org/stable/43154543). [^Gaskin2009]
 -   Logical atomism
     -   Russell's interpretation of the *Tractatus*
     -   Analyticity
@@ -872,7 +875,10 @@ Wittgenstein explaining the point of the *Tractatus* in a letter to Russell:
 Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
 [^Anscombe1959p161]: @Anscombe_1959_An_Introduction_to_Wittgensteins_Tractatus\, p. 161.
+[^Daitz1953]: @Daitz_1953_The_picture_theory_of_meaning\.
+[^Gaskin2009]: @Gaskin_2009_Realism_and_the_picture_theory_of_meaning\.
 [^Hahn1973Sec1_2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect;1.2.
+[^Keyt1964]: @Keyt_1964_Wittgensteins_picture_theory_of_language\.
 [^Ramsey1923]: @Ramsey_1923_Review_of_Tractatus_Logico_Philosophicus_by_L\.
 [^Reck2009]: @Reck_1997_Freges_influence_on_Wittgenstein_Reversing\.
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\. <https://iep.utm.edu/wittgens/>

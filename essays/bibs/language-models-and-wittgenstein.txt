@@ -1,5 +1,9 @@
 Bender, E.M. & Lascarides, A. (2020). *Linguistic Fundamentals for Natural Language Processing II: 100 Essentials from Semantics and Pragmatics*. Morgan & Claypool. https://link.springer.com/book/10.1007/978-3-031-02172-5
+Daitz, E. (1953). The picture theory of meaning. *Mind*, 62, 184--201. https://www.jstor.org/stable/2251383
+Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. Princeton University Press.
 Firth, J.R. (1957). A synopsis of linguistic theory, 1930-1955. In *Studies in Linguistic Analysis* (pp. 1--31). Oxford: Blackwell.
+Gaskin, R. (2009). Realism and the picture theory of meaning. *Philosophical Topics*, 37, 49--62. https://www.jstor.org/stable/43154543
+Keyt, D. (1964). Wittgenstein's picture theory of language. *The Philosophical Review*, 73, 493--511. https://www.jstor.org/stable/2183303
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
 Mikolov, T., Sutskever, I., Chen, K., Corrado, G., & Dean, J. (2013). Distributed representations of words and phrases and their compositionality. https://arxiv.org/abs/1310.4546
@@ -12,8 +16,3 @@ Vaswani, A. et al. (2017). Attention is all you need. *Advances in Neural Inform
 Wittgenstein, L. (1961). *Tractatus Logico-Philosophicus* (D.F. Pears and B.F. McGuinness, Trans.). Routledge. https://people.umass.edu/klement/tlp/tlp.html [(Originally published in 1922)]
 Wittgenstein, L. (2009). *Philosophical Investigations* (4 ed.) (P. Hacker and J. Schulte, Eds. E. Anscombe and P. Hacker, Trans.). Wiley-Blackwell. [(Originally published in 1953)]
 Wolfram, S. (2023). What is ChatGPT doing---and why does it work? https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
-
-
-
-
-Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. Princeton University Press.

@@ -17,12 +17,14 @@ Chakravartty, A. (2017). Scientific realism. *Stanford Encyclopedia of Philosoph
 Chalmers, D. (2003). The Matrix as metaphysics. http://consc.net/papers/matrix.html
 Clarke, K.A. & Primo, D.M. (2004). The theoretical implications of the empirical implications of theoretical models. [Paper presented at the Annual Meeting of the American Political Science Association, September 2004, Chicago.]
 Comte, A. (1835). *Cours de la Philosophie Positive*. 
+Daitz, E. (1953). The picture theory of meaning. *Mind*, 62, 184--201. https://www.jstor.org/stable/2251383
 Dennett, D.C. (1991). Real patterns. *The Journal of Philosophy*, 88, 27--51. https://web.ics.purdue.edu/~drkelly/DCDRealPatterns1991.pdf
 Feigl, H. (1950). Existential hypotheses: Realistic versus phenomenalistic interpretations. *Philosophy of Science*, 17(1), 35--62.
 Fetzer, J. (2017). Carl Hempel. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/hempel
 Field, H. (1974). Theory change and the indeterminacy of reference. *The Journal of Philosophy*, 70(14), 462--481.
 Friedman, M. & Creath, R. (2007). *The Cambridge Companion to Carnap*. Cambridge University Press.
 Frigg, R., & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask. *European Journal for Philosophy of Science*, 1, 227--276.
+Gaskin, R. (2009). Realism and the picture theory of meaning. *Philosophical Topics*, 37, 49--62. https://www.jstor.org/stable/43154543
 Grice, H.P. & Strawson, P.F. (1956). In defense of a dogma. *The Philosophical Review*, 65, 141--158.
 Guyer, P. & Horstmann, R. (2021). Idealism. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/idealism/
 Harding, S. (1986). *The Science Question in Feminism*. Cornell University Press.
@@ -30,6 +32,7 @@ Hempel, C.G. (1950). Problems and changes in the empiricist criterion of meaning
 Hempel, C.G. (1974). Formulation and formalization of scientific theories. In  Suppe, F. (Ed.). *The Structure of Scientific Theories*. University of Illinois Press.
 Hennig, C. (2010). Mathematical models and reality: A constructivist perspective. *Foundations of Science*, 15(1), 29--48.
 Hennig, C. (2015). What are the true clusters? *Pattern Recognition Letters*, 64, 53--62. https://arxiv.org/abs/1502.02555
+Keyt, D. (1964). Wittgenstein's picture theory of language. *The Philosophical Review*, 73, 493--511. https://www.jstor.org/stable/2183303
 Khanna, P. (2018). Positivism and realism. In Liamputtong, P. (Ed.) *Handbook of Research Methods in Health Social Sciences*. Springer.
 Korzybski, A. (1933). *Science and Sanity*. New York: The Science Press Printing Co.
 Ladyman, J., Ross, D., Spurrett, D., & Collier, J. (2007). *Every Thing Must Go: Metaphysics Naturalised*. Oxford University Press.

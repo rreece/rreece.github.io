@@ -40,8 +40,14 @@ Wittgenstein's evolution
 
 ### The picture theory of meaning
 
--   TODO
 -   [philosophy-in-figures/picture-theory-of-meaning-wittgenstein](https://philosophy-in-figures.tumblr.com/post/179388014391/picture-theory-of-meaning-wittgenstein)
+-   Daitz, E. (1953). [The picture theory of meaning](https://www.jstor.org/stable/2251383). [^Daitz1953]
+-   Keyt, D. (1964). [Wittgenstein's picture theory of language](https://www.jstor.org/stable/2183303). [^Keyt1964]
+-   Gaskin, R. (2009). [Realism and the picture theory of meaning](https://www.jstor.org/stable/43154543). [^Gaskin2009]
+
+[^Daitz1953]: @Daitz_1953_The_picture_theory_of_meaning\.
+[^Keyt1964]: @Keyt_1964_Wittgensteins_picture_theory_of_language\.
+[^Gaskin2009]: @Gaskin_2009_Realism_and_the_picture_theory_of_meaning\.
 
 
 ### Meaning as use
