@@ -84,7 +84,13 @@ Word meanings in deep learning
 
 ### Word embeddings
 
-![Julia Bazi&nacute;ska (source: [Migdal (2017)](https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html/)).](img/Julia-Bazinska.jpg){#fig:Julia-Bazinska}
+![Left panel shows vector offsets for three word
+    pairs illustrating the gender relation. Right panel shows
+    a different projection, and the singular/plural relation for
+    two words. In high-dimensional space, multiple relations
+    can be embedded for a single word
+    [@Mikolov_2013_Linguistic_regularities_in_continuous_space_word].
+    ](img/word2vec-king-queen.png){#fig:word2vec-king-queen}
 
 -   Mikolov: word2vec [^Mikolov2013]
     -   Word (token) embeddings
