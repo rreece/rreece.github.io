@@ -799,7 +799,7 @@ Comte on the unknowability of the composition of stars:
 -   Not exactly positivist, but drove the logicism project that influenced logical positivism.
 -   *Concept-script* (*Begriffsschrift*) (1879)
 -   On sense and reference (&Uuml;ber Sinn und Bedeutung) (1892)
--   Frege's context principle: "Only in the context of a sentence do words have meaning" [^Reck2009]
+-   Frege's context principle: "Only in the context of a sentence do words have meaning" [^Reck2005]
 
 
 #### Ludwig Wittgenstein
@@ -815,6 +815,8 @@ Wittgenstein studied with, was influenced by, and influenced:
 -   George Edward Moore
 -   [Friedrich Waismann](https://en.wikipedia.org/wiki/Friedrich_Waismann) (1896-1959)
 
+*Tractatus Logico-Philosophicus* (1922) [^Wittgenstein1922]
+
 >   *Tractatus Logico-Philosophicus* [is] the only philosophy book that Wittgenstein
 >   published during his lifetime. It claimed to solve all the major problems
 >   of philosophy and was held in especially high esteem by the anti-metaphysical
@@ -825,24 +827,27 @@ Wittgenstein studied with, was influenced by, and influenced:
 >   but takes a different, less technical, approach to philosophical problems.
 >   This book helped to inspire so-called ordinary language philosophy. [^Richter2004]
 
-*Tractatus Logico-Philosophicus* (1922) [^Wittgenstein1922]
-
+-   English translations:
+    -   [C.K. Ogden & F.P. Ramsey translation](https://web.archive.org/web/20200726065157/http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
+    -   [D.F. Pears & B.F. McGuinness translation](https://web.archive.org/web/20200228040145/http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
 -   The picture theory of meaning
     -   a correspondence theory of truth
     -   Daitz, E. (1953). [The picture theory of meaning](https://www.jstor.org/stable/2251383). [^Daitz1953]
     -   Keyt, D. (1964). [Wittgenstein's picture theory of language](https://www.jstor.org/stable/2183303). [^Keyt1964]
+        1.  There is a one-to-one correspondence between the parts of a proposition and the objects
+            of the state of affairs pictured by the proposition (4.04).
+        2.  Propositions are linear structures.
+        3.  Every possible state of affairs can be expressed in language.
     -   Gaskin, R. (2009). [Realism and the picture theory of meaning](https://www.jstor.org/stable/43154543). [^Gaskin2009]
+        -   Discusses realism in John McDowell's "minimal empiricism" and Wittgenstein's picture theory.
 -   Logical atomism
     -   Russell's interpretation of the *Tractatus*
     -   Analyticity
     -   Russell, B. (1919). [The philosophy of logical atomism: Lectures 7-8](https://www.jstor.org/stable/pdf/27900748.pdf). [^Russell1919]
 -   Verifiability and quietism
     -   Anti-metaphysics that impressed the logical positivists
--   [C.K. Ogden & F.P. Ramsey translation](https://web.archive.org/web/20200726065157/http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
--   [D.F. Pears & B.F. McGuinness translation](https://web.archive.org/web/20200228040145/http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
 -   [F.P. Ramsey](https://plato.stanford.edu/entries/ramsey) (1903-1930)
     -   Ramsey, F.P. (1923). Review of Tractatus Logico-Philosophicus. [^Ramsey1923]
--   Video: Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
 -   Wittgenstein's *Tractatus* was read by and greatly influenced The Vienna Circle.
     While Wittgenstein had relations with them, he never participated in the meetings
     lead by Schlick. (TODO:ref)
@@ -857,6 +862,7 @@ Wittgenstein studied with, was influenced by, and influenced:
     -   Only academic paper published by Wittgenstein.
     -   During a period of transition from his early thought in the *Tractatus*
         and his later thought in *PI*.
+-   Ian Ground, Stephen Mulhall, & Chon Tejedor. (2018). Video: [The Young Wittgenstein](https://www.youtube.com/watch?v=fE4dDqUTnaA).
 -   Limbeck-Lilienau, C. (2019). Talk: [Sources on Wittgenstein: the Nachlasses of Moritz Schlick, Rudolf Carnap and Friedrich Waismann](https://www.youtube.com/watch?v=VR5q2ugM60E).
 
 Wittgenstein's scientific attitude summarized in the Vienna Circle
@@ -872,15 +878,23 @@ Wittgenstein explaining the point of the *Tractatus* in a letter to Russell:
 >   but only shown (*gezeigt*); which, I believe, is the cardinal problem
 >   of philosophy. [^Anscombe1959p161]
 
+Gaskin:
+
+>   The realism implicit in the idea of answerability to the world contrasts
+>   with a pragmatist approach, such as that advocated by Richard Rorty, according
+>   to which subjects are answerable in judgement not to the world, but to other
+>   judging subjects. [^Gaskin2009p53]
+
 Later Wittgenstein made a significant shift. See [Ordinary language philosophy](#ordinary-language-philosophy).
 
 [^Anscombe1959p161]: @Anscombe_1959_An_Introduction_to_Wittgensteins_Tractatus\, p. 161.
 [^Daitz1953]: @Daitz_1953_The_picture_theory_of_meaning\.
 [^Gaskin2009]: @Gaskin_2009_Realism_and_the_picture_theory_of_meaning\.
+[^Gaskin2009p53]: @Gaskin_2009_Realism_and_the_picture_theory_of_meaning\, p. 53.
 [^Hahn1973Sec1_2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect;1.2.
 [^Keyt1964]: @Keyt_1964_Wittgensteins_picture_theory_of_language\.
 [^Ramsey1923]: @Ramsey_1923_Review_of_Tractatus_Logico_Philosophicus_by_L\.
-[^Reck2009]: @Reck_1997_Freges_influence_on_Wittgenstein_Reversing\.
+[^Reck2005]: @Reck_2005_Freges_influence_on_Wittgenstein_Reversing\.
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\. <https://iep.utm.edu/wittgens/>
 [^Russell1919]: @Russell_1919_The_philosophy_of_logical_atomism_Lectures_7_8\.
 [^Wittgenstein1922]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
@@ -1389,6 +1403,8 @@ See also:
     -   The original version of *PI* was drafted in late 1936, known to scholars as the *Urfassung* (original version).
     -   Published posthumously in 1953.
     -   Edited and translated to English by G.E.M. Anscombe.
+    -   Opens with a discussion of the Augustinian picture of language and is critical of it.
+    -   Frege's context principle
     -   Language games; Meaning as use.
     -   Duck-rabbit; "seeing that" vs "seeing as".
     -   An important project is to understand the differences between early (*TLP*)
@@ -1554,6 +1570,7 @@ See also:
 -   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (1940-2022)
     -   Naming directly; causal theory of names; natural kinds
 -   Putnam, NMA
+-   John McDowell
 -   Boyd, R.N. (1983). On the current status of the issue of scientific realism. [^Boyd1983]
 -   Sankey [^Sankey2015]
 -   Talk by Sankey: [Scepticism, Relativism and Naturalistic Particularism](https://www.youtube.com/watch?v=QyEFaJf_Dyo)
