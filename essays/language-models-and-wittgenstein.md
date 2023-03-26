@@ -158,6 +158,7 @@ Bender & Lascarides:
 >   speakers can use sentence meaning to convey communicative intent (pragmatics). [^Bender2020]
 
 TODO: Not acknowledging the evidence.
+
 TODO: Fallacy of moving the goalposts.
 
 -   A surprising amount about the world can be learned from simply predicting what will come next in written language.
