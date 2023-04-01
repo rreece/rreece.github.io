@@ -1778,12 +1778,6 @@ $$ \hat{x}_t = \underset{x_t \in V}{\mathrm{argmax}} \: P(x_t | x_1 \ldots x_{t-
     -   Sutskever seq2seq [^Sutskever2014]
     -   Bahdanau attention [^Bahdanau2015] and GNMT [^Wu2016]
     -   Review by Stahlberg [^Stahlberg2019]
--   Scaling laws in NLP
-    -   Rationalism and empiricism in artificial intellegence:
-        A survey of 25 years of evaluation [in NLP]. [^Church2019]
-    -   Kaplan, J. et al. (2020). [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361). [^Kaplan2020]
-    -   Rae, J.W. et al. (2022). [Scaling language models: Methods, analysis & insights from training Gopher](https://arxiv.org/abs/2112.11446). [^Rae2022]
-    -   Hoffmann, J. et al. (2022). [Training compute-optimal large language models](https://arxiv.org/abs/2203.15556) (Chinchilla).  [^Hoffmann2022]
 
 ![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/chapter_attention-mechanisms/transformer.html)).](img/transformer.png){#fig:transformer .tallimg}
 
@@ -1816,6 +1810,13 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   OpenAI. (2022). Blog: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/).
     -   Wolfram, S. (2023). [What is ChatGPT doing---and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) [^Wolfram2023]
     -   GPT-4 [^OpenAI2023]
+-   Scaling laws in NLP
+    -   Rationalism and empiricism in artificial intellegence:
+        A survey of 25 years of evaluation [in NLP]. [^Church2019]
+    -   Kaplan, J. et al. (2020). [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361). [^Kaplan2020]
+    -   Rae, J.W. et al. (2022). [Scaling language models: Methods, analysis & insights from training Gopher](https://arxiv.org/abs/2112.11446). [^Rae2022]
+    -   Hoffmann, J. et al. (2022). [Training compute-optimal large language models](https://arxiv.org/abs/2203.15556) (Chinchilla).  [^Hoffmann2022]
+
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
@@ -2134,6 +2135,7 @@ Theoretical machine learning
     -   Naturally formalizes Occam's razor
     -   Incomputable
 -   Rathmanner, S. & Hutter, M. (2011). A philosophical treatise of universal induction. [^Rathmanner2011]
+-   Hutter, M. (2022). Talk: [Introduction to Algorithmic Information Theory and University Learning](https://www.youtube.com/watch?v=8Q2G2OGHm1c).
 
 [^Rathmanner2011]: @Rathmanner_2011_A_philosophical_treatise_of_universal_induction\.
 
