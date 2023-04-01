@@ -2134,10 +2134,12 @@ Theoretical machine learning
 -   Solomonoff induction
     -   Naturally formalizes Occam's razor
     -   Incomputable
+-   Cilibrasi, R. & Vitanyi, P.M.B. (2005). Clustering by compression. [^Cilibrasi2005]
 -   Rathmanner, S. & Hutter, M. (2011). A philosophical treatise of universal induction. [^Rathmanner2011]
 -   Hutter, M. (2022). Talk: [Introduction to Algorithmic Information Theory and University Learning](https://www.youtube.com/watch?v=8Q2G2OGHm1c).
 
 [^Rathmanner2011]: @Rathmanner_2011_A_philosophical_treatise_of_universal_induction\.
+[^Cilibrasi2005]: @Cilibrasi_2005_Clustering_by_compression\.
 
 
 ### No free lunch theorems
