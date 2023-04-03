@@ -54,10 +54,14 @@ TODO
 ### Lie groups
 
 -   [Lie group](https://en.wikipedia.org/wiki/Lie_group)
--   [Sophus Lie (1842-1899)](https://en.wikipedia.org/wiki/Sophus_Lie)
--   Schwichtenberg, J. (2016). [Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
--   Hall, B.C. (2000). [*An Elementary Introduction to Groups and Representations*](https://arxiv.org/abs/math-ph/0005032). [^Hall2000]
--   Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. [^Zee2016]
+    -   [Sophus Lie](https://en.wikipedia.org/wiki/Sophus_Lie) (1842-1899)
+    -   [&Eacute;lie Cartan](https://en.wikipedia.org/wiki/%C3%89lie_Cartan) (1869-1951)
+    -   Schwichtenberg, J. (2016). [Classification of simple Lie groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
+    -   Hall, B.C. (2000). [*An Elementary Introduction to Groups and Representations*](https://arxiv.org/abs/math-ph/0005032). [^Hall2000]
+    -   Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. [^Zee2016]
+-   Dynkin diagrams
+    -   [ADE classification](https://en.wikipedia.org/wiki/ADE_classification)
+    -   Siegel, K. (2014). The ubiquity of ADE classifications in nature.
 
 [^Hall2000]: @Hall_2000_An_Elementary_Introduction_to_Groups\.
 [^Zee2016]: @Zee_2016_Group_Theory_in_a_Nutshell_for_Physicists\.
@@ -158,12 +162,15 @@ TODO
     -   Bronstein, M.M. et al. (2021). [Geometric deep learning: Grids, groups, graphs, geodesics, and gauges](https://arxiv.org/abs/2104.13478). [^Bronstein2021p56]
 -   [De Rham cohomology](https://en.wikipedia.org/wiki/De_Rham_cohomology)
 -   [Chern-Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
+-   Non-commutative
+    -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985]
 
 See also:
 
 -   [Fiber bundles](physics.html#fiber-bundles)
 
 [^Bronstein2021p56]: @Bronstein_2021_Geometric_deep_learning_Grids_groups_graphs\, p. 56--60.
+[^Connes1985]: @Connes_1985_Non_commutative_differential_geometry\.
 [^Fre2013v1ch2]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_1\, ch. 2.
 [^Sussman2013]: @Sussman_2013_Functional_Differential_Geometry\.
 [^Tao2007]: @Tao_2007_Differential_forms_and_integration\.
@@ -685,6 +692,10 @@ Grothendieck:
 -   Lurie, J. (2009). [On the classification of topological field theories](https://arxiv.org/abs/0905.0465).
 -   [Jacob Lurie's Home Page](https://www.math.ias.edu/~lurie/)
 -   Morton, J. (2013). [Blog on the cobordism hypothesis](https://theoreticalatlas.wordpress.com/2013/04/22/seminar-on-cob-hyp/).
+
+See also:
+
+-   [Topological QFT](physics.html#topological-qft)
 
 [^Baez1995]: @Baez_1995_Higher_dimensional_algebra_and_topological_quantum\.
 [^Baez2009a]: @Baez_2009_Physics_topology_logic_and_computation\.

@@ -630,6 +630,8 @@ See also:
 -   [Belt trick](https://en.wikipedia.org/wiki/Plate_trick)
 -   [Orientation entanglement](https://en.wikipedia.org/wiki/Orientation_entanglement)
 -   Spatial vectors alone are not sufficient to describe fully the properties of rotations in space.
+-   Penrose, R. & Weinstein, E. (2020). Video: [Do we understand spinors?](https://www.youtube.com/watch?v=_EasLq6IQIw)
+    -   In some sense, a spinor is the square-root of a vector.
 
 Michael Atiyah:
 
@@ -690,6 +692,7 @@ Michael Atiyah:
 ### Renormalization
 
 -   Dyson
+-   Dirac, P.A.M. (1963). [The evolution of the physicist's picture of nature](https://www.jstor.org/stable/24936146). [^Dirac1963]
 -   't Hooft, G. (1971). Renormalizable Lagrangians for massive Yang-Mills fields. [^tHooft1971]
 -   Wilson, K. (1974). The renormalization group and the $\varepsilon$ expansion. [^Wilson1974]
 -   Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. [^Goldenfeld1992]
@@ -707,6 +710,7 @@ Michael Atiyah:
 [^Borcherds2002]: @Borcherds_2002_Lectures_on_quantum_field_theory\.
 [^Butterfield2014]: @Butterfield_2014_Reduction_emergence_and_renormalization\.
 [^Butterfield2015]: @Butterfield_2015_Renormalization_for_philosophers\.
+[^Dirac1963]: @Dirac_1963_The_evolution_of_the_physicists_picture\.
 [^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
 [^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50.
 [^tHooft1971]: @tHooft_1971_Renormalizable_Lagrangians_for_massive_Yang_Mills\.
@@ -947,6 +951,9 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
 >   only for the crude local and perturbative description of reality. [^nLab2021Fiber]
 
 -   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
+    -   An ordinary gauge field is a field which is locally represented by a
+        differential 1-form, the gauge potential, and whose field strength is locally
+        a differential 2-form.
     -   [Principal bundle](https://en.wikipedia.org/wiki/Principal_bundle)
     -   [Ehresmann connection](https://en.wikipedia.org/wiki/Ehresmann_connection)
 -   Way, R. (2010). [Introduction to connections on principal fibre bundles](http://personal.maths.surrey.ac.uk/T.Bridges/GEOMETRIC-PHASE/Connections_intro.pdf). [^Way2010]
@@ -1036,9 +1043,11 @@ See also:
     -   The unique loop-hole in the Coleman-Mandula theorem
 -   Deligne's theorem on tensor categories
     -   [Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/) - physicsforums.com
-    -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - ncatlab.org
-    -   [Supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - ncatlab.org
+    -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - nLab
+    -   [Supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - nLab
     -   [Superalgebra](https://en.wikipedia.org/wiki/Superalgebra)
+-   Non-commutative geometry
+    -   Connes, A. (1985).
 
 Urs Schreiber:
 
@@ -1065,6 +1074,7 @@ Urs Schreiber:
 See also:
 
 -   [Grand unification](physics.html#grand-unification)
+-   [Non-commutative geometry](math.html#differential-geometry)
 
 [^Dimopoulos1981]: @Dimopoulos_1981_Softly_broken_supersymmetry_and_SU5\.
 [^Fre2013v2ch6]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 6.
@@ -2129,7 +2139,7 @@ Click to show links
 -   [lqp2.org](http://www.lqp2.org/) - serving several papers on AQFT
 -   [Philosophy of general relativity](http://faculty.poly.edu/~jbain/philrel/) - Jonathan Bain
 -   [Philosophy of quantum mechanics](http://ls.poly.edu/~jbain/philqm/) - Jonathan Bain
--   [Quantization](https://ncatlab.org/nlab/show/quantization) - nlab
+-   [Quantization](https://ncatlab.org/nlab/show/quantization) - nLab
 -   [What is a gauge?](https://terrytao.wordpress.com/2008/09/27/what-is-a-gauge/) - Terence Tao
 -   [Struggles With the Continuum](https://www.physicsforums.com/insights/struggles-continuum-part-1/) - John Baez
 -   [Kelvin's "Clouds" Speech](https://www.thoughtco.com/kelvins-clouds-speech-2699230)

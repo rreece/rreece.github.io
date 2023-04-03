@@ -1838,7 +1838,7 @@ See also:
 [^Chowdhery2022]: @Chowdhery_2022_PaLM_Scaling_language_modeling_with_pathways\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
-[^Graves2013]: HERE
+[^Graves2013]: @Graves_2013_Generating_sequences_with_recurrent_neural\.
 [^Gu2021]: @Gu_2021_Efficiently_modeling_long_sequences\.
 [^Hoffmann2022]: @Hoffmann_2022_Training_compute_optimal_large_language_models\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
@@ -2135,11 +2135,14 @@ Theoretical machine learning
     -   Naturally formalizes Occam's razor
     -   Incomputable
 -   Cilibrasi, R. & Vitanyi, P.M.B. (2005). Clustering by compression. [^Cilibrasi2005]
--   Rathmanner, S. & Hutter, M. (2011). A philosophical treatise of universal induction. [^Rathmanner2011]
+-   Hutter, M. (2007). [Universal Algorithmic Intelligence: A mathematical top-down approach](http://www.hutter1.net/ai/aixigentle.htm). [^Hutter2007]
+-   Rathmanner, S. & Hutter, M. (2011). [A philosophical treatise of universal induction](https://www.mdpi.com/1099-4300/13/6/1076). [^Rathmanner2011]
+Rathmanner, S. & Hutter, M. (2011). A philosophical treatise of universal induction. *Entropy*, 13, 1076--1136. https://www.mdpi.com/1099-4300/13/6/1076/pdf
 -   Hutter, M. (2022). Talk: [Introduction to Algorithmic Information Theory and University Learning](https://www.youtube.com/watch?v=8Q2G2OGHm1c).
 
-[^Rathmanner2011]: @Rathmanner_2011_A_philosophical_treatise_of_universal_induction\.
 [^Cilibrasi2005]: @Cilibrasi_2005_Clustering_by_compression\.
+[^Hutter2007]: @Hutter_2007_Universal_Algorithmic_Intelligence_A_mathematical\.
+[^Rathmanner2011]: @Rathmanner_2011_A_philosophical_treatise_of_universal_induction\.
 
 
 ### No free lunch theorems
@@ -2334,7 +2337,7 @@ Automation
     -   The manifold hypothesis
     -   Olah, C. (2014). [Neural networks, manifolds, and topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/).
     -   Fefferman, C., Mitter, S., & Narayanan, H. (2016). [Testing the manifold hypothesis](https://www.ams.org/journals/jams/2016-29-04/S0894-0347-2016-00852-4/S0894-0347-2016-00852-4.pdf). [^Fefferman2016]
--   Physical constratints in loss functions
+-   Physical constraints in loss functions
     -   Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). [Physics informed deep learning (Part I)](https://arxiv.org/abs/1711.10561) and [(Part II)](https://arxiv.org/abs/1711.10566). [^Raissi2017IandII]
     -   Karniadakis, G.E. et al. (2021). [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5). [^Karniadakis2021]
     -   Howard, J.N. et al. (2021). [Foundations of a fast, data-driven, machine-learned simulator](https://arxiv.org/abs/2101.08944). [^Howard2021]

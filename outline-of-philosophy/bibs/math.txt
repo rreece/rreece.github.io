@@ -19,6 +19,7 @@ Carnap, R. (1947). *Meaning and Necessity*. University of Chicago Press.
 Carnap, R. (1958). *Introduction to Symbolic Logic and its Applications*. New York: Dover Publications.
 Carter, N. (2009). *Visual Group Theory*. Mathematical Association of America.
 Chen, E.K. (2018). The intrinsic structure of quantum mechanics. http://philsci-archive.pitt.edu/15140/
+Connes, A. (1985). Non-commutative differential geometry. *Publications Math\'{e}matiques de L'Institut des Hautes Scientifiques*, 62, 41--144. https://link.springer.com/article/10.1007/BF02698807
 De Cruz, H. (2016). Numerical cognition and mathematical realism. *Philosopher's Imprint*, 16, 1--13. http://hdl.handle.net/2027/spo.3521354.0016.016
 Drake, S. (1957). *Discoveries and Opinions of Galileo*. New York: Doubleday and Co.
 Enderton, H.B. (2009). Second-order and higher-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/archives/sum2019/entries/logic-higher-order/

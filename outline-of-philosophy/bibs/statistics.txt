@@ -140,6 +140,7 @@ Howard, A.G. et al. (2017). MobileNets: Efficient convolutional neural networks 
 Howard, J.N., Mandt, S., Whiteson, D., & Yang, Y. (2021). Foundations of a fast, data-driven, machine-learned simulator. https://arxiv.org/abs/2101.08944
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
 Hutchins, J. (2000). Yehoshua Bar-Hillel: A philosophers' contribution to machine translation.
+Hutter, M. (2007). Universal Algorithmic Intelligence: A mathematical top-down approach. In *Artificial General Intelligence* (pp. 227--290). Springer. http://www.hutter1.net/ai/aixigentle.htm
 Ingrosso, A. & Goldt, S. (2022). Data-driven emergence of convolutional structure in neural networks. https://arxiv.org/abs/2202.00565
 Ioannidis, J.P. (2005). Why most published research findings are false. *PLOS Medicine*, 2(8), 696--701.
 Ismailov, V. (2020). A three layer neural network can represent any multivariate function. https://arxiv.org/abs/2012.03016
@@ -230,7 +231,7 @@ Rao, C.R. (1945). Information and the accuracy attainable in the estimation of s
 Rao, C.R. (1947). Minimum variance and the estimation of several parameters. In *Mathematical Proceedings of the Cambridge Philosophical Society*, 43, 280--283. Cambridge University Press.
 Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part I): Data-driven solutions of nonlinear partial differential equations. https://arxiv.org/abs/1711.10561
 Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part II): Data-driven discovery of nonlinear partial differential equations. https://arxiv.org/abs/1711.10566
-Rathmanner, S. & Hutter, M. (2011). A philosophical treatise of universal induction. *Entropy*, 13, 1076--1136. https://www.mdpi.com/1099-4300/13/6/1076/pdf
+Rathmanner, S. & Hutter, M. (2011). A philosophical treatise of universal induction. *Entropy*, 13, 1076--1136. https://www.mdpi.com/1099-4300/13/6/1076
 Read, A.L. (2002). Presentation of search results: the CLs technique. *Journal of Physics G: Nuclear and Particle Physics*, 28(10), 2693. https://indico.cern.ch/event/398949/attachments/799330/1095613/The_CLs_Technique.pdf
 Reed, S. et al. (2022). A generalist agent. https://arxiv.org/abs/2205.06175
 Reichenbach, H. (1940). On the justification of induction. *The Journal of Philosophy*, 37, 97--103.

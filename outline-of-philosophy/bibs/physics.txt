@@ -81,6 +81,7 @@ DeWitt, B.S. (1970). Quantum mechanics and reality. *Physics Today*, 23(9), 30--
 DeWitt, B.S. & Graham, N. (1973). *The Many-Worlds Interpretation of Quantum Mechanics*. Princeton University Press.
 Dimopoulos, S. & Georgi, H. (1981). Softly broken supersymmetry and SU(5). *Nuclear Physics B*, 193, 150--162.
 Dine, M. & Kusenko, A. (2004). The origin of the matter-antimatter asymmetry. *Reviews of Modern Physics*, 76, 1--30. https://arxiv.org/abs/hep-ph/0303065
+Dirac, P.A.M. (1963). The evolution of the physicist's picture of nature. *Scientific American*, 208, 45--53. https://www.jstor.org/stable/24936146
 Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. In Falkenburg, B. & Morrison, M. (Eds.) *Why More is Different: Philosophical issues in condensed matter physics and complex systems* (pp. 41--54). Springer.
 Duncan, A. (2012). *Conceptual Framework of Quantum Field Theory*. Oxford University Press.
 Duff, M.J., Okun, L.B., & Veneziano, G. (2001). Trialogue on the number of fundamental constants. https://arxiv.org/abs/physics/0110060
