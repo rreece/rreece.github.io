@@ -1430,9 +1430,11 @@ See also:
 -   Chen, T. & Guestrin, C. (2016). [Xgboost: A scalable tree boosting system](https://arxiv.org/abs/1603.02754). [^Chen2016]
 -   Aytekin, C. (2022). [Neural networks are decision trees](https://arxiv.org/abs/2210.05189). [^Aytekin2022]
 -   Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). [Why do tree-based models still outperform deep learning on tabular data?](https://arxiv.org/abs/2207.08815) [^Grinsztajn2022]
+-   Coadou, Y. (2022). [Boosted decision trees](https://arxiv.org/abs/2206.09645). [^Coadou2022]
 
 [^Aytekin2022]: @Aytekin_2022_Neural_networks_are_decision_trees\.
 [^Chen2016]: @Chen_2016_Xgboost_A_scalable_tree_boosting_system\.
+[^Coadou2022]: @Coadou_2022_Boosted_decision_trees\.
 [^Grinsztajn2022]: @Grinsztajn_2022_Why_do_tree_based_models_still_outperform_deep\.
 
 
@@ -1705,7 +1707,8 @@ Blogs:
 -   VisionTransformer [^Dosovitskiy2020]
 -   EfficientNetV2 [^Tan2021]
 -   gMLP [^Liu2021]
--   Liu, Y. et al. (2021). [A survey of visual transformers](https://arxiv.org/abs/2111.06091).
+-   Dhariwal, P. & Nichol, A. (2021). [Diffusion models beat GANs on image synthesis](https://arxiv.org/abs/2105.05233). [^Dhariwal2021]
+-   Liu, Y. et al. (2021). [A survey of visual transformers](https://arxiv.org/abs/2111.06091). [^Liu2021Survey]
 -   Ingrosso, A. & Goldt, S. (2022). [Data-driven emergence of convolutional structure in neural networks](https://arxiv.org/abs/2202.00565). [^Ingrosso2022]
 -   Park, N. & Kim, S. (2022). [How do vision transformers work?](https://arxiv.org/abs/2202.06709) [^Park2022]
 
@@ -1717,6 +1720,7 @@ Resources:
 
 [^Chen2018a]: @Chen_2018_Neural_ordinary_differential_equations\.
 [^Ciresan2012]: @Ciresan_2012_Multi_column_deep_neural_network_for_traffic_sign\.
+[^Dhariwal2021]: @Dhariwal_2021_Diffusion_models_beat_GANs_on_image_synthesis\.
 [^Dosovitskiy2020]: @Dosovitskiy_2020_An_image_is_worth_16x16_words_Transformers\.
 [^Fukushima1982]: @Fukushima_1982_Neocognitron_A_new_algorithm_for_pattern\.
 [^Haber2017]: @Haber_2017_Stable_architectures_for_deep_neural_networks\.
@@ -1727,6 +1731,7 @@ Resources:
 [^LeCun1989]: @LeCun_1989_Backpropagation_applied_to_handwritten_zip_code\.
 [^LeCun1998a]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
 [^Liu2021]: @Liu_2021_Pay_attention_to_MLPs\.
+[^Liu2021Survey]: @Liu_2021_A_survey_of_visual_transformers\.
 [^Park2022]: @Park_2022_How_do_vision_transformers_work\.
 [^Simonyan2014]: @Simonyan_2014_Very_deep_convolutional_networks_for_large_scale\.
 [^Tan2019]: @Tan_2019_EfficientNet_Rethinking_model_scaling\.

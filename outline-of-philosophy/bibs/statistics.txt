@@ -66,6 +66,7 @@ Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation. *Natural
 Cilibrasi, R. & Vitanyi, P.M.B. (2005). Clustering by compression. *IEEE Transactions on Information Theory*, 51(4), 1523--1545.
 Ciresan, D., Meier, U. Masci, J. & Schmidhuber, J. (2012). Multi-column deep neural network for traffic sign classification. *Neural Networks*, 32, 333--338. https://arxiv.org/abs/1202.2745
 Clopper, C.J. & Pearson, E.S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, 26(4), 404--413.
+Coadou, Y. (2022). Boosted decision trees. https://arxiv.org/abs/2206.09645
 Cohen, T.S. & Welling, M. (2016). Group equivariant convolutional networks. *Proceedings of International Conference on Machine Learning*, 2016, 2990--9. http://proceedings.mlr.press/v48/cohenc16.pdf
 Cohen, T.S., Weiler, M., Kicanaoglu, B., & Welling, M. (2019). Gauge equivariant convolutional networks and the icosahedral CNN. https://arxiv.org/abs/1902.04615
 Cousins, R.D. (2018). Lectures on statistics in theory: Prelude to statistics in practice. https://arxiv.org/abs/1807.05996
@@ -89,6 +90,7 @@ Dawid, A.P. (2014). Discussion of "On the Birnbaum Argument for the Strong Likel
 de Carvalho, M., Page, G.L., & Barney, B.J. (2019). On the geometry of Bayesian inference. *Bayesian Analysis*, 14, 1013--1036. https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-4/On-the-Geometry-of-Bayesian-Inference/10.1214/18-BA1112.full
 Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. https://arxiv.org/abs/1810.04805
 Dewey, J. (1938). *Logic: The Theory of Inquiry*. New York: Henry Holt and Co.
+Dhariwal, P. & Nichol, A. (2021). Diffusion models beat GANs on image synthesis. https://arxiv.org/abs/2105.05233
 Dosovitskiy, A. et al. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. https://arxiv.org/abs/2010.11929
 Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.
 Efron, B. & Hastie, T. (2016). *Computer Age Statistical Inference: Algorithms, evidence, and data science*. Cambridge University Press.
@@ -176,6 +178,7 @@ Lin, H. & Jegelka, S. (2018). ResNet with one-neuron hidden layers is a universa
 Lista, L. (2016). Practical statistics for particle physicists. https://arxiv.org/abs/1609.04150
 Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
 Liu, H., Dai, Z., So, D.R., & Le, Q.V. (2021). Pay attention to MLPs. https://arxiv.org/abs/2105.08050
+Liu, Y. et al. (2021). A survey of visual transformers. https://arxiv.org/abs/2111.06091
 Liu, Z., Madhavan, V., & Tegmark, M. (2022). AI Poincare 2: Machine learning conservation laws from differential equations. https://arxiv.org/abs/2203.12610
 Lu, Z., Pu, H., Wang, F., Hu, Z., & Wang, L. (2017). The expressive power of neural networks: A view from the width. *Advances in Neural Information Processing Systems*, 30. https://proceedings.neurips.cc/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf
 Lyons, L. (2008). Open statistical issues in particle physics. *The Annals of Applied Statistics*, 2, 887--915. https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-3/Open-statistical-issues-in-Particle-Physics/10.1214/08-AOAS163.full
@@ -250,6 +253,7 @@ Salmon, W. C. (1967). Carnap's inductive logic. *The Journal of Philosophy*, 64,
 Salmon, W.C. (1991). Hans Reichenbach's vindication of induction. *Erkenntnis*, 35, 99--122.
 Salsburg, D. (2001). *The Lady Tasting Tea*. Holt.
 Savage, L.J. (1954). *The Foundations of Statistics*. John Wiley & Sons.
+Schmidhuber, J. (1997). A computer scientist's view of life, the universe, and everything. https://arxiv.org/abs/quant-ph/9904050
 Sellars, W. (1964). Induction as vindication. *Philosophy of Science*, 31, 197--231.
 Shalev-Shwarz, S. & Ben-David, S. (2014). *Understanding Machine Learning: From Theory to Algorithms*. Cambridge University Press. https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 Silver, D. et al. (2016). Mastering the game of Go with deep neural networks and tree search. *Nature*, 529, 484--489.
