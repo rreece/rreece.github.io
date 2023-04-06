@@ -2142,7 +2142,6 @@ Theoretical machine learning
 -   Cilibrasi, R. & Vitanyi, P.M.B. (2005). Clustering by compression. [^Cilibrasi2005]
 -   Hutter, M. (2007). [Universal Algorithmic Intelligence: A mathematical top-down approach](http://www.hutter1.net/ai/aixigentle.htm). [^Hutter2007]
 -   Rathmanner, S. & Hutter, M. (2011). [A philosophical treatise of universal induction](https://www.mdpi.com/1099-4300/13/6/1076). [^Rathmanner2011]
-Rathmanner, S. & Hutter, M. (2011). A philosophical treatise of universal induction. *Entropy*, 13, 1076--1136. https://www.mdpi.com/1099-4300/13/6/1076/pdf
 -   Hutter, M. (2022). Talk: [Introduction to Algorithmic Information Theory and University Learning](https://www.youtube.com/watch?v=8Q2G2OGHm1c).
 
 [^Cilibrasi2005]: @Cilibrasi_2005_Clustering_by_compression\.
@@ -2255,10 +2254,12 @@ Roberts:
     -   Introduced in [Facebook AI's blog](https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/)
 -   Cantwell, G.T. (2022). [Approximate sampling and estimation of partition functions using neural networks](https://arxiv.org/abs/2209.10423). [^Cantwell2022]
 -   Wang, L. (2022). [Generative AI for science](https://drive.google.com/file/d/1D1bL--Zmv0J7n-QEqRvRb3erf5abV1o0/view).
+-   Dinan, E., Yaida, S., & Zhang, S. (2023). [Effective theory of transformers at initialization](https://arxiv.org/abs/2304.02034).
 
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
 [^Canatar2020]: @Canatar_2020_Spectral_bias_and_task_model_alignment_explain\.
 [^Cantwell2022]: @Cantwell_2022_Approximate_sampling_and_estimation_of_partition\.
+[^Dinan2023]: @Dinan_2023_Effective_theory_of_transformers_at_initialization\.
 [^Halverson2020]: @Halverson_2020_Neural_networks_and_quantum_field_theory\.
 [^Roberts2021PDLT]: @Roberts_2021_The_Principles_of_Deep_Learning_Theory\.
 
