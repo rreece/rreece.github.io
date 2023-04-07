@@ -72,6 +72,7 @@ Clowe, D. et al. (2006). A direct empirical proof of the existence of dark matte
 {CMS Collaboration}. (2012). Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC. *Physics Letters B*, 716, 30--61. https://arxiv.org/abs/1207.7235
 Coecke, B. & Kissinger, A. (2017). *Picturing Quantum Processes: A first course in quantum theory and diagrammatic reasoning*. Cambridge University Press.
 Coleman, S. & Mandula, J. (1967). All possible symmetries of the $S$ matrix. *Physical Review*, 159(5), 1251--1256.
+Coleman, S. (2020). Sidney Coleman's Dirac Lecture "Quantum Mechanics in Your Face". https://arxiv.org/abs/2011.12671
 Cubitt, T., Perez-Garcia, D. & Wolf, M. (2015). Undecidability of the spectral gap. *Nature*, 528, 207--211.
 Das, S. & D{\"u}rr, D. (2019). Arrival time distributions of spin-1/2 particles. *Scientific Reports*, 9, 2242. https://www.nature.com/articles/s41598-018-38261-4
 Debono, I. & Smoot, G.F. (2016). General relativity and cosmology: Unsolved questions and future directions. *Universe*, 2, 23. https://arxiv.org/abs/1609.09781

@@ -471,6 +471,10 @@ Also:
 -   Park, S. (2021). *Embracing Scientific Realism*. [^Park2021]
     -   Optimistic Induction
 
+Coleman:
+
+>   Every successful physical theory swallows its predecessor alive. [^Coleman2020]
+
 Rovelli:
 
 >   Our arguments have to be about the world we experience,
@@ -493,6 +497,7 @@ Schumm:
 >   mathematics and natural science far exceeds the self-contained boundaries
 >   within which it was first developed. [^Schumm2004]
 
+[^Coleman2020]: @Coleman_2020_Sidney_Colemans_Dirac_Lecture_Quantum_Mechanics\.
 [^Park2021]: @Park_2021_Embracing_Scientific_Realism\.
 [^Rovelli2003]: @Rovelli_2003_A_dialog_on_quantum_gravity\, p. 5.
 [^Schumm2004]: @Schumm_2004_Deep_Down_Things\, p. 144.

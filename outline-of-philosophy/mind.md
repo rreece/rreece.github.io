@@ -68,7 +68,9 @@ Dualism
 -   G&ouml;del
 -   Kripke
 
-![TODO](img/Descartes-mind-body.png){#fig:Descartes-mind-body}
+![Drawing by Ren&eacute; Descartes in *Treatise of Man* (1633), supposing the
+    function of the epiphysis (pineal gland) in transmitting sensory inputs to
+    the immaterial spirit (source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Descartes_mind_and_body.gif)).](img/Descartes-mind-body.png){#fig:Descartes-mind-body}
 
 -   Grego, R. (2022). [Is Western thought marching towards Eastern Idealism?](https://www.essentiafoundation.org/is-western-thought-marching-firmly-towards-eastern-inspired-idealism/reading/)
 
@@ -89,6 +91,7 @@ Physicalism
 
 -   Materialism
 -   Descartes and Elisabeth, Princess of Bohemia
+    -   Tollefsen, D. (1999). Princess Elisabeth and the problem of mind-body interaction. [^Tollefsen1999]
 -   Marx
 -   Montero [^Montero1999]
 -   Dennett
@@ -110,6 +113,7 @@ See also:
 [^Dennett2012]: @Dennett_2012_The_mystery_of_David_Chalmers\.
 [^MacFarquhar2014]: @MacFarquhar_2014_Two_Heads_A_marriage_devoted_to_the_mind_body\.
 [^Montero1999]: @Montero_1999_The_Body_Problem\.
+[^Tollefsen1999]: @Tollefsen_1999_Princess_Elisabeth_and_the_problem_of_mind_body\.
 
 
 Panpsychism
