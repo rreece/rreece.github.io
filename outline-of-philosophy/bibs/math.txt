@@ -33,6 +33,7 @@ Goodman, N. & Quine, W.V.O. (1947). Steps toward a constructive nominalism. *The
 Hall, B.C. (2000). *An Elementary Introduction to Groups and Representations*. https://arxiv.org/abs/math-ph/0005032
 Hamming, R. W. (1980). The unreasonable effectiveness of mathematics. *The American Mathematical Monthly*, 87, 81--90.
 Hardy, G.H. (1940). *A Mathematician's Apology*. Cambridge University Press.
+Hilbert, D. (1926). \"{U}ber das Unendliche. *Mathematische Annalen*, 95, 161--190. [English translation, On the infinite, in van Heijenoort, J. (1967). *From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1897-1931*. Harvard University Press.]
 Hilbert, D. (1967). The foundations of mathematics. In J. van Heijenoort (Ed.), *From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1879-1931* (pp. 464--479). Harvard University Press. [(From a lecture given by Hilbert in 1927).]
 Holm, D.D. (2011). *Geometric Mechanics - Part I: Dynamics And Symmetry* (2nd ed.). Imperial College Press.
 Holm, D.D. (2011). *Geometric Mechanics - Part II: Rotating, Translating, and Rolling* (2nd ed.). Imperial College Press.

@@ -869,8 +869,9 @@ Platonism
 
 ![A visual proof that $\sum_{k=1}^{\infty} \frac{1}{4^k} = \frac{1}{3}$.](img/visual-proof-geometric-series-sum-to-third.jpg)
 
+![Visualization of the binomial theorem (source: [Wikimedia](https://en.wikipedia.org/wiki/File:Binomial_theorem_visualisation.svg)).](img/Binomial_theorem_visualisation.png)
+
 -   [Proofs without words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
--   [Binomial theorem visualisation](https://en.wikipedia.org/wiki/File:Binomial_theorem_visualisation.svg)
 -   Chen, E.K. (2018). [The intrinsic structure of quantum mechanics](http://philsci-archive.pitt.edu/15140/). [^Chen2018b]
 
 Criticism:
@@ -1057,7 +1058,10 @@ Hilbert:
 ### Hilbert's program
 
 -   [Hilbert's program](http://en.wikipedia.org/wiki/Hilbert%27s_program)
--   *Principia Mathematica*
+-   Influenced by *Principia Mathematica*
+-   Hilbert, D. (1926). On the infinite. [^Hilbert1926]
+-   G&ouml;del derailed the program
+-   TODO: What do we expect from proof theory now?
 
 Hilbert wanted math to be
 
@@ -1068,6 +1072,8 @@ Hilbert wanted math to be
 See also:
 
 -   [Incompleteness](#incompleteness)
+
+[^Hilbert1926]: @Hilbert_1926_Uber_das_Unendliche\.
 
 
 Intuitionism
