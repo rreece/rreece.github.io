@@ -107,6 +107,7 @@ Fisher, R.A. (1935). *The Design of Experiments*. Hafner.
 Fisher, R.A. (1955). Statistical methods and scientific induction. *Journal of the Royal Statistical Society, Series B*, 17, 69--78.
 Feldman, G.J., & Cousins, R.D. (1998). A unified approach to the classical statistical analysis of small signals. *Physical Review D*, 57, 3873. https://arxiv.org/abs/physics/9711021
 Fr\'{e}chet, M. (1943).  Sur l'extension de certaines \'{e}valuations statistiques au cas de petits \'{e}chantillons. *Revue de l'Institut International de Statistique*, 11, 182--205.
+Freund, Y. & Schapire, R.E. (1997). A decision-theoretic generalization of on-line learning and an application to boosting. *Journal of Computer and System Sciences*, 55, 119--139. https://doi.org/10.1006/jcss.1997.1504
 Fuchs, F.B., Worrall, D.E., Fischer, V., & Welling, M. (2020). SE(3)-Transformers: 3D roto-translation equivariant attention networks. https://arxiv.org/abs/2006.10503
 Fukushima, K. & Miyake, S. (1982). Neocognitron: A new algorithm for pattern recognition tolerant of deformations and shifts in position. *Pattern Recognition*, 15, 455--469.
 Gandenberger, G. (2015). A new proof of the likelihood principle. *British Journal for the Philosophy of Science*, 66, 475--503. https://www.journals.uchicago.edu/doi/abs/10.1093/bjps/axt039
@@ -159,6 +160,7 @@ Karniadakis, G.E. et al. (2021). Physics-informed machine learning. *Nature Revi
 Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charles Griffin & Company.
 Kiani, B., Balestriero, R., Lecun, Y., & Lloyd, S. (2022). projUNN: efficient method for training deep networks with unitary matrices. https://arxiv.org/abs/2203.05483
 Korb, K.B. (2001). Machine learning as philosophy of science. In *Proceedings of the ECML-PKDD-01 Workshop on Machine Learning as Experimental Philosophy of Science*, Freiburg.
+Kosinski, M. (2023). Theory of mind may have spontaneously emerged in large language models. https://arxiv.org/abs/2302.02083
 Krenn, M. et al. (2022). On scientific understanding with artificial intelligence. *Nature Reviews Physics*. https://www.nature.com/articles/s42254-022-00518-3
 Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ImageNet classification with deep convolutional neural networks. *Advances in Neural Information Processing Systems*, 2012, 1097--1105. https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 Kruschke, J.K. & Liddell, T.M. (2018). The Bayesian New Statistics: Hypothesis testing, estimation, meta-analysis, and power analysis from a Bayesian perspective. *Psychonomic Bulletin & Review*, 25, 178--206. https://link.springer.com/article/10.3758/s13423-016-1221-4
