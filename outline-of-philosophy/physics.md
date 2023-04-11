@@ -283,12 +283,15 @@ See also:
 
 ### Gauge principle
 
+-   Weyl, H. (1918). *Raum, Zeit, Materie*. [^Weyl1918]
 -   Weyl, H. (1929). Elektron und gravitation. [^Weyl1929]
+-   Pauli, W. (1941). Relativistic field theories of elementary particles. [^Pauli1941]
+-   Yang C.N. & Mills R.L. (1954). Conservation of isotopic spin and isotopic gauge invariance. [^Yang1954]
 -   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. [^tHooft1994a]
 -   Teller, P. (2000). The gauge argument. [^Teller2000]
 -   't Hooft, G. (2007). [Lie groups in physics](http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf). [^tHooft2007]
 -   Afriat, A. (2013). Weyl's gauge argument. [^Afriat2013]
--   Schwichtenberg, J. (2015).*Physics from Symmetry*. [^Schwichtenberg2015]
+-   Schwichtenberg, J. (2015). *Physics from Symmetry*. [^Schwichtenberg2015]
 -   Dewar, N. (2019). Sophistication about symmetries. [^Dewar2019]
 
 Weyl:
@@ -303,12 +306,15 @@ Weyl:
 
 [^Afriat2013]: @Afriat_2013_Weyls_gauge_argument\.
 [^Dewar2019]: @Dewar_2019_Sophistication_about_symmetries\.
+[^Pauli1941]: @Pauli_1941_Relativistic_field_theories_of_elementary\.
 [^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^Teller2000]: @Teller_2000_The_gauge_argument\.
 [^tHooft1994a]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 [^tHooft2007]: @tHooft_2007_Lie_groups_in_physics\.
+[^Weyl1918]: @Weyl_1918_Raum_Zeit_Materie\.
 [^Weyl1929]: @Weyl_1929_Elektron_und_gravitation\.
 [^Weyl1929pX]: @Weyl_1929_Elektron_und_gravitation\, p. TODO.
+[^Yang1954]: @Yang_1954_Conservation_of_isotopic_spin_and_isotopic_gauge\.
 
 
 ### Wigner-Stone theorems

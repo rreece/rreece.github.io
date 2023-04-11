@@ -1085,7 +1085,9 @@ Discussion:
 -   *The Philosophy of Rudolf Carnap* AKA the "Schilpp volume" [^Schilpp1963]
     -   Paul Arthur Schilpp (1897-1993)
 -   *The Cambridge Companion to Carnap* [^Friedman2007]
+-   Steinberger, F. (2016). How tolerant can you be? Carnap on rationality. [^Steinberger2016]
 -   Leitgeb, H. & Carus, A. (2020). [Rudolf Carnap](https://plato.stanford.edu/entries/carnap/index.html). *SEP*. [^Leitgeb2020]
+-   Baker, K. (2023). Video: [Metaphysics - Carnap on Ontology](https://www.youtube.com/watch?v=e4eOtMn2me0).
 
 [^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
@@ -1100,6 +1102,7 @@ Discussion:
 [^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
 [^Quine1960b]: @Quine_1960_Carnap_and_logical_truth\.
 [^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
+[^Steinberger2016]: @Steinberger_2016_How_tolerant_can_you_be_Carnap_on_rationality\.
 
 
 #### Neurath's boat
@@ -1693,6 +1696,8 @@ Peirce:
 
 ### Discussion
 
+-   Dennett, D.C. (2006). Higher-order truths about chmess. [^Dennett2006]
+
 [Max Hodak](https://maxhodak.com/nonfiction/2021/09/03/science.html):
 
 >   Consider the following interpretation of the dichotomy between *science* and
@@ -1700,6 +1705,8 @@ Peirce:
 >   dealing with, you're doing engineering, and if not---you need to ask
 >   clever indirect questions to get at what you’re really interested
 >   in---you're doing science.
+
+[^Dennett2006]: @Dennett_2006_Higher_order_truths_about_chmess\.
 
 
 Postmodernism

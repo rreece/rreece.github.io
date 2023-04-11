@@ -19,6 +19,7 @@ Clarke, K.A. & Primo, D.M. (2004). The theoretical implications of the empirical
 Comte, A. (1835). *Cours de la Philosophie Positive*. 
 Daitz, E. (1953). The picture theory of meaning. *Mind*, 62, 184--201. https://www.jstor.org/stable/2251383
 Dennett, D.C. (1991). Real patterns. *The Journal of Philosophy*, 88, 27--51. https://web.ics.purdue.edu/~drkelly/DCDRealPatterns1991.pdf
+Dennett, D.C. (2006). Higher-order truths about chmess. *Topoi*, 25, 39--41.
 Feigl, H. (1950). Existential hypotheses: Realistic versus phenomenalistic interpretations. *Philosophy of Science*, 17(1), 35--62.
 Fetzer, J. (2017). Carl Hempel. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/hempel
 Field, H. (1974). Theory change and the indeterminacy of reference. *The Journal of Philosophy*, 70(14), 462--481.
@@ -87,6 +88,7 @@ Schuldenfrei, R. (1972). Quine in perspective. *The Journal of Philosophy*, 69, 
 Schumm, B.A. (2004). *Deep Down Things*. Johns Hopkins University Press.
 Sider, T. (2011). *Writing the Book of the World*. Oxford University Press.
 Stalnaker, R.C. (2003). *Ways a World Might Be: Metaphysical and anti-metaphysical essays*. Oxford: Clarendon Press.
+Steinberger, F. (2016). How tolerant can you be? Carnap on rationality. *Philosophy and Phenomenological Research*, 92(3), 645--668.
 Strawson, P.F. (1950). On referring. *Mind*, 59, 320--344.
 Suppe, F. (2000). Understanding scientific theories: An assessment of developments, 1969-1998. *Philosophy of Science*, 67, 102--115.
 Swartz, N. (2003). *The Concept of Physical Law* (2nd ed.). http://www.sfu.ca/~swartz/physical-law/

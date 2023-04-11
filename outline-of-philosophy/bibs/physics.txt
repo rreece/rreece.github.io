@@ -189,6 +189,7 @@ Noether, E. (1918). Invariante variationsprobleme. *Nachrichten von der Gesellsc
 Ohanian, H.C. (1986). What is spin? *American Journal of Physics*, 54, 500.
 Pati, J.C. & Salam, A. (1974). Lepton number as the fourth color. *Physical Review D*, 10, 275--289. https://pdfs.semanticscholar.org/21fb/f9d49acf3e3f07098ca686ae4058c38dbd03.pdf
 Patterson, G. (2007). Jean Perrin and the triumph of the atomic doctrine. *Endeavour*, 31, 50--53.
+Pauli, W. (1941). Relativistic field theories of elementary particles. *Reviews of Modern Physics*, 13, 203--232.
 Penington, G. (2019). Entanglement wedge reconstruction and the information paradox. https://arxiv.org/abs/1905.08255
 Perrin, J. (1913). *Les Atomes*. Paris: Libraire Felix Alcan.
 Peskin, M.E. (1994). Spin, mass, and symmetry. https://arxiv.org/abs/hep-ph/9405255
@@ -265,6 +266,7 @@ Weinberg, S. (1977). *The First Three Minutes*. Basic Books.
 Weinberg, S. (1979). Conceptual foundations of the unified theory of weak and electromagnetic interactions. https://www.nobelprize.org/uploads/2018/06/weinberg-lecture.pdf [Nobel lecture, December 8, 1979]
 Weinberg, S. (1997). What is an elementary particle? *Beam Line*, 27, 17--21. https://www.slac.stanford.edu/pubs/beamline/27/1/27-1-weinberg.pdf
 Weinberg, S. (1997). What is quantum field theory, and what did we think it is? *Conceptual foundations of quantum field theory: Proceedings, Symposium and Workshop, Boston, USA, March 1-3, 1996*. http://arxiv.org/abs/hep-th/9702027
+Weyl, H. (1918). *Raum, Zeit, Materie*.
 Weyl, H. (1929). Elektron und gravitation. *Zeitschrift f{\"u}r Physik*, 56, 330--352.
 Wheeler, J.A. (1957). Assessment of Everett's "relative state" formulation of quantum theory. *Reviews of Modern Physics*, 29(3), 46--465.
 Wigner, E.P. (1939). On unitary representations of the inhomogeneous Lorentz group. *Annals of Mathematics*, 40, 149--204.
@@ -276,6 +278,7 @@ Wilson, K. (1974). The renormalization group and the $\varepsilon$ expansion. *P
 Witten, E. (1998). Anti-de Sitter space and holography. *Advances in Theoretical and Mathematical Physics*, 2, 253--291. https://arxiv.org/abs/hep-th/9802150
 Wu, J. (2021). Explaining universality: infinite limit systems in the renormalization group method. *Synthese*, 199, 14897--14930. https://link.springer.com/article/10.1007/s11229-021-03448-2
 Wuthrich, C. (2014). Putnam looks at quantum mechanics (again and again). https://arxiv.org/abs/1406.5737
+Yang, C.N. & Mills, R.L. (1954). Conservation of isotopic spin and isotopic gauge invariance. *Physical Review*, 96, 191--195.
 Yock, P. (2018). Newton's hypotheses on the structure of matter. https://arxiv.org/abs/1807.05486
 Zapata-Carratala, C. (2021). Dimensioned algebra: The mathematics of physical quantities. https://arxiv.org/abs/2108.08703
 Zee, A. (2003). *Quantum Field Theory in a Nutshell*. Princeton University Press.

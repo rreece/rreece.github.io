@@ -478,11 +478,13 @@ $$ \Box P = \lnot \Diamond \lnot P $$
     -   Priest, G. (1998). What is so bad about contradictions? [^Priest1998]
     -   Dialetheism rejects LNC.
     -   Mart&iacute;nez-Ordaz, M. del R. (2021). The ignorance behind inconsistency toleration. [^MartinezOrdaz2021b]
+    -   Carroll, L. (1895). [What the tortoise said to Achilles](http://www.ditext.com/carroll/tortoise.html). [^Carroll1895]
 
 Criticism:
 
 -   Quine, W.V.O. (1986). *Philosophy of Logic*. [^Quine1986b]
 
+[^Carroll1895]: @Carroll_1895_What_the_tortoise_said_to_Achilles\.
 [^Priest1998]: @Priest_1998_What_is_so_bad_about_contradictions\.
 [^Quine1986b]: @Quine_1986_Philosophy_of_Logic\.
 [^MartinezOrdaz2021b]: @Martinez_Ordaz_2021_The_ignorance_behind_inconsistency_toleration\.
