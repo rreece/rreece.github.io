@@ -27,6 +27,7 @@ TODO
 ### History
 
 -   roots from Babylonians
+-   [Al-Karaji](https://en.wikipedia.org/wiki/Al-Karaji) (c. 953-1029)
 -   [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano) (1501-1576)
 -   Carl Friedrich Gauss (1777-1855)
     -   published a proof of the fundamental theorem of algebra (1797)
@@ -641,10 +642,12 @@ Category theory
 ### Introduction
 
 -   [Category theory](https://ncatlab.org/nlab/show/category+theory) - nLab
-    -   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
-    -   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013b]
-    -   Fong, B. & Spivak, D.I. (2018). [Seven sketches in compositionality: An invitation to applied category theory](https://arxiv.org/abs/1803.05316). [^Fong2018]
-    -   Bradley, T.D. (2018). [What is applied category theory?](https://arxiv.org/abs/1809.05923) [^Bradley2018]
+-   Eilenberg, S. & MacLane, S. (1945). [General theory of natural equivalences](https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf). [^Eilenberg1945]
+-   Rodin, A. (2012). [Axiomatic method and category theory](https://arxiv.org/abs/1210.1478). [^Rodin2012]
+-   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013b]
+-   Fong, B. & Spivak, D.I. (2018). [Seven sketches in compositionality: An invitation to applied category theory](https://arxiv.org/abs/1803.05316). [^Fong2018]
+-   Bradley, T.D. (2018). [What is applied category theory?](https://arxiv.org/abs/1809.05923) [^Bradley2018]
+-   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
 -   Relation to set theory
 -   Relation to Russell type theory
 -   Univalent foundations
@@ -655,7 +658,9 @@ See also:
 -   [Univalent foundations](math.html#univalent-foundations)
 
 [^Bradley2018]: @Bradley_2018_What_is_applied_category_theory\.
+[^Eilenberg1945]: @Eilenberg_1945_General_theory_of_natural_equivalences\.
 [^Fong2018]: @Fong_2018_Seven_sketches_in_compositionality_An_invitation\.
+[^Rodin2012]: @Rodin_2012_Axiomatic_method_and_category_theory\.
 [^Spivak2013b]: @Spivak_2013_Category_theory_for_scientists\.
 
 
@@ -741,16 +746,20 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 ### Erlangen program
 
 -   [Erlangen program](https://en.wikipedia.org/wiki/Erlangen_program)
+-   A program proposed by Felix Klein in 1872 to classify geometries based on their symmetry groups.
 
 
 ### Langlands program
 
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
+-   Proposed by Robert Langlands (1967, 1970).
+-   [Fundamental lemma](https://en.wikipedia.org/wiki/Fundamental_lemma_(Langlands_program))
 
 
 ### Univalent foundations
 
 -   [Univalent foundations](https://en.wikipedia.org/wiki/Univalent_foundations)
+-   Proposed by Vladimir Voevodsky, 2006-2009.
 -   Category theory
 -   [Introduction to Univalent Foundations of Mathematics with Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html)
 

@@ -113,6 +113,9 @@ Artificial intelligence
 -   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 -   Benaich, N. & Hogarth, I. (2022). [State of AI Report 2022](https://www.stateof.ai/2022-report-launch.html).
 -   Steinhardt, J. (2023). [Forecasting ML Benchmarks in 2023](https://bounded-regret.ghost.io/forecasting-math-and-mmlu-in-2023/).
+-   Future of Life Institute. (2023). [Pause giant AI experiments: An open letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/).
+-   Future of Life Institute. (2023). [Policymaking in the Pause: What can policymakers do now to combat risks from advanced AI systems?](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf).
+-   Altman, S. (2023). [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond).
 
 See also:
 

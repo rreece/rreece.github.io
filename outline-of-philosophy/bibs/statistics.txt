@@ -169,6 +169,7 @@ Kruschke, J.K. & Liddell, T.M. (2018). The Bayesian New Statistics: Hypothesis t
 Kuhn, H.W. (1950). A simplified two-person poker. *Contributions to the Theory of Games*, 1, 97--103.
 Kun, J. (2018). *A Programmer's Introduction to Mathematics*. CreateSpace Independent Publishing Platform.
 Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R. (2019). ALBERT: A lite BERT for self-supervised learning of language representations. https://arxiv.org/abs/1909.11942
+Lanctot, M. (2013). *Monte Carlo Sample and Regret Minimization for Equilibrium Computation and Decision-Making in Large Extensive Form Games*. University of Alberta. http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf [(PhD thesis)]
 Lanctot, M., Waugh, K., Zinkevich, M., & Bowling, M. (2009). Monte Carlo sampling for regret minimization in extensive games. *Advances in Neural Information Processing Systems*, 22, 1078--1086.
 Lauc, D. (2020). Machine learning and the philosophical problems of induction. In S. Skansi (ed.), *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 93--106). Springer.
 Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53. http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf
@@ -223,6 +224,7 @@ Neyman, J. (1977). Frequentist probability and frequentist statistics. *Synthese
 Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
 Nielsen, F. (2018). An elementary introduction to information geometry. https://arxiv.org/abs/1808.08271
 Nirenburg, S. (1996). Bar Hillel and Machine Translation: Then and Now.
+Nissim, M., van Noord, R., & van der Goot, R. (2019). Fair is better than sensational: Man is to doctor as woman is to doctor. *Computational Linguistics*, 46, 487--497.
 O'Hagan, A. (2010). *Kendall's Advanced Theory of Statistics, Vol 2B: Bayesian Inference*. Wiley.
 OpenAI. (2023). GPT-4 Technical Report. https://cdn.openai.com/papers/gpt-4.pdf
 Ouyang, L. et al. (2022). Training language models to follow instructions with human feedback. https://arxiv.org/abs/2203.02155
