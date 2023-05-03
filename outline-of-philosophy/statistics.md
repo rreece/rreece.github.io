@@ -943,7 +943,12 @@ See also:
 
 ### Counterfactuals
 
--   TODO
+-   Counterfactuals
+-   Regret
+-   Interventionist conception of causation
+-   Ismael, J. (2023). [Reflections on the asymmetry of causation](https://royalsocietypublishing.org/doi/pdf/10.1098/rsfs.2022.0081). [^Ismael2023]
+
+[^Ismael2023]: @Ismael_2023_Reflections_on_the_asymmetry_of_causation\.
 
 
 Exploratory data analysis

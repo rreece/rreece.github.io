@@ -148,6 +148,7 @@ Hutchins, J. (2000). Yehoshua Bar-Hillel: A philosophers' contribution to machin
 Hutter, M. (2007). Universal Algorithmic Intelligence: A mathematical top-down approach. In *Artificial General Intelligence* (pp. 227--290). Springer. http://www.hutter1.net/ai/aixigentle.htm
 Ingrosso, A. & Goldt, S. (2022). Data-driven emergence of convolutional structure in neural networks. https://arxiv.org/abs/2202.00565
 Ioannidis, J.P. (2005). Why most published research findings are false. *PLOS Medicine*, 2(8), 696--701.
+Ismael, J. (2023). Reflections on the asymmetry of causation. *Interface Focus*, 13(3), 20220081. https://royalsocietypublishing.org/doi/pdf/10.1098/rsfs.2022.0081
 Ismailov, V. (2020). A three layer neural network can represent any multivariate function. https://arxiv.org/abs/2012.03016
 James, F. & Roos, M. (1975). MINUIT: A system for function minimization and analysis of the parameter errors and corrections. *Computational Physics Communications*, 10, 343--367. https://cds.cern.ch/record/310399
 James, F. (2006). *Statistical Methods in Experimental Particle Physics* (2nd ed.). World Scientific.
