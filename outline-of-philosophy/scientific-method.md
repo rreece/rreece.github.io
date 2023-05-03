@@ -602,6 +602,7 @@ The stopped clock from Russell's *Human Knowledge: Its Scope and Limits*. Russel
 -   Knowledge = JTB - G
 -   Gettier, E.L. (1963). Is justified true belief knowledge? [^Gettier1963]
 -   Clark, M. (1963). Knowledge and grounds: A comment on Mr. Gettier's paper. [^Clark1963]
+-   TODO: Criticism
 
 [^Clark1963]: @Clark_1963_Knowledge_and_grounds_A_comment_on_MrGettiers\.
 [^Gettier1963]: @Gettier_1963_Is_justified_true_belief_knowledge\.
@@ -642,6 +643,8 @@ See also:
     -   [Proof of knowledge](https://en.wikipedia.org/wiki/Proof_of_knowledge) (cryptography)
     -   [Silvio Micali: Lex Fridman podcast](https://www.youtube.com/watch?v=zNdhgOk4-fE&ab_channel=LexFridman) - 1h25+
     -   Verification and knowledge are different concepts
+    -   Mallick, C. (2022). [Understanding zero knowledge proof](https://www.linkedin.com/pulse/understanding-zero-knowledge-proof-chirasmita-mallick/?trk=public_profile_article_view).
+    -   Chitra, T. & Prior, H. (2023). [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms)
 
 From Aristotle's *Posterior Analytics*:
 
