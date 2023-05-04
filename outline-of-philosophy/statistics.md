@@ -1849,7 +1849,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Dao, T. et al. (2022). [FlashAttention: Fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135). [^Dao2022]
     -   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2022). [Recurrent memory transformer](https://arxiv.org/abs/2207.06881). [^Bulatov2022]
     -   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2023). [Scaling transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062). [^Bulatov2023]
-    -   Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). [Unlimiformer: Long-range transformers with unlimited length input](https://arxiv.org/abs/2305.01625).
+    -   Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). [Unlimiformer: Long-range transformers with unlimited length input](https://arxiv.org/abs/2305.01625). [^Bertsch2023]
     -   Mialon, G. et al. (2023). [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842). [^Mialon2023]
 
 See also:
