@@ -452,6 +452,7 @@ Poincar&eacute;:
 -   Ptolemaic solar system
 -   Phlogiston theory
 -   &Eacute;lan vital
+    -   Herring, E. (2023). [Thinking with &eacute;lan: A supremely stylish critic of scientific overreach](https://www.the-tls.co.uk/articles/creative-evolution-henri-bergson-book-review-emily-herring/).
 -   Newtonian gravity
 -   Galilean relativity
 

@@ -28,6 +28,7 @@ Benjamini, Y. et al. (2021). The ASA president's task force statement on statist
 Bensusan, H. (2000). Is machine learning experimental philosophy of science? In *ECAI2000 Workshop notes on scientific Reasoning in Artificial Intelligence and the Philosophy of Science* (pp. 9--14).
 Berger, J.O. & Wolpert, R.L. (1988). *The Likelihood Principle* (2nd ed.). Haywood, CA: The Institute of Mathematical Statistics.
 Berger, J.O. (2003). Could Fisher, Jeffreys and Neyman have agreed on testing? *Statistical Science*, 18(1), 1--32.
+Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). Unlimiformer: Long-range transformers with unlimited length input. https://arxiv.org/abs/2305.01625
 Bhattiprolu, P.N., Martin, S.P., & Wells, J.D. (2020). Criteria for projected discovery and exclusion sensitivities of counting experiments. https://arxiv.org/abs/2009.07249
 Billings, D., Davidson, A., Schaeffer, J., & Szafron, D. (2002). The challenge of poker. *Artificial Intelligence*, 134, 201--240. https://doi.org/10.1016/S0004-3702(01)00130-8
 Birnbaum, A. (1962). On the foundations of statistical inference. *Journal of the American Statistical Association*, 57, 269--326.
@@ -46,6 +47,8 @@ Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). Deep counterfactual regr
 Brown, N., Bakhtin, A., Lerer, A., & Gong, Q. (2020). Combining deep reinforcement learning and search for imperfect-information games. https://arxiv.org/abs/2007.13544
 Brown, T.B. et al. (2020). Language models are few-shot learners. https://arxiv.org/abs/2005.14165 [(Paper on the GPT-3 model by OpenAI)] 
 Bubeck, S. & Sellke, M. (2021). A universal law of robustness via isoperimetry. https://arxiv.org/abs/2105.12806
+Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2022). Recurrent memory transformer. https://arxiv.org/abs/2207.06881
+Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2023). Scaling transformer to 1M tokens and beyond with RMT. https://arxiv.org/abs/2304.11062
 Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). Efficient Monte Carlo counterfactual regret minimization in games with many player actions. *Advances in Neural Information Processing Systems*, 25. https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf
 Burch, N. (2018). *Time and Space: Why imperfect information games are hard*. University of Alberta. https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf  [(Ph.D. thesis)]
 Buzbas, E.O., Devezer, B., & Baumgaertner, B. (2022). The logical structure of experiments lays the foundation for a theory of reproducibility. https://www.biorxiv.org/content/10.1101/2022.08.10.503444v1
@@ -86,6 +89,7 @@ Cranmer, K., Shibata, A., Verkerke, W., Moneta, L., & Lewis, G. (2012). HistFact
 Cranmer, K., Seljak, U., & Terao, K. (2021). Machine learning. In P.A. Zyla et al. *Progress of Theoretical and Experimental Physics*, 2020, 083C01. https://pdg.lbl.gov/2021-rev/2021/reviews/contents_sports.html [(and 2021 update)] 
 Cranmer, M. et al. (2020). Discovering symbolic models from deep learning with inductive biases. https://arxiv.org/abs/2006.11287
 D'Agnolo, R.T. & Wulzer, A. (2019). Learning New Physics from a Machine. *Physical Review D*, 99, 015014. https://arxiv.org/abs/1806.02350
+Dao, T. et al. (2022). FlashAttention: Fast and memory-efficient exact attention with IO-awareness. https://arxiv.org/abs/2205.14135
 Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning. https://arxiv.org/abs/2109.02355
 Dawid, A.P. (2014). Discussion of "On the Birnbaum Argument for the Strong Likelihood Principle". *Statistical Science*, 29, 240--241. https://projecteuclid.org/journals/statistical-science/volume-29/issue-2/Discussion-of-On-the-Birnbaum-Argument-for-the-Strong-Likelihood/10.1214/14-STS470.full
 de Carvalho, M., Page, G.L., & Barney, B.J. (2019). On the geometry of Bayesian inference. *Bayesian Analysis*, 14, 1013--1036. https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-4/On-the-Geometry-of-Bayesian-Inference/10.1214/18-BA1112.full
@@ -126,6 +130,7 @@ Gorard, S. & Gorard, J. (2016). What to do instead of significance testing? Calc
 Graves, A. (2013). Generating sequences with recurrent neural networks. https://arxiv.org/abs/1308.0850
 Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). Why do tree-based models still outperform deep learning on tabular data? https://arxiv.org/abs/2207.08815
 Gu, A., Goel, K., & R{\'e}, C. (2021). Efficiently modeling long sequences with structured state spaces. https://arxiv.org/abs/2111.00396
+Gurnee, W. et al. (2023). Finding neurons in a haystack: Case studies with sparse probing. https://arxiv.org/abs/2305.01610
 Haber, E. & Ruthotto, L. (2017). Stable architectures for deep neural networks. https://arxiv.org/abs/1705.03341
 Hacking, I. (1965). *Logic of Statistical Inference*. Cambridge University Press.
 Hacking, I. (1971). Jacques Bernoulli's Art of conjecturing. *The British Journal for the Philosophy of Science*, 22, 209--229.
@@ -152,6 +157,7 @@ Ismael, J. (2023). Reflections on the asymmetry of causation. *Interface Focus*,
 Ismailov, V. (2020). A three layer neural network can represent any multivariate function. https://arxiv.org/abs/2012.03016
 James, F. & Roos, M. (1975). MINUIT: A system for function minimization and analysis of the parameter errors and corrections. *Computational Physics Communications*, 10, 343--367. https://cds.cern.ch/record/310399
 James, F. (2006). *Statistical Methods in Experimental Particle Physics* (2nd ed.). World Scientific.
+James, W. & Stein, C. (1961). Estimation with quadratic loss. In *Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability, Vol. 1* (pp. 361--379). University of California Press. https://projecteuclid.org/accountAjax/Download?urlId=bsmsp%2F1200512173&downloadType=presschapter&isResultClick=True
 Johanson, M. (2013). Measuring the size of large no-limit poker games. https://arxiv.org/abs/1302.7008
 Joyce, T. & Herrmann, J.M. (2017). A review of no free lunch theorems, and their implications for metaheuristic optimisation. In X.S. Yang (ed.), *Nature-Inspired Algorithms and Applied Optimization* (pp. 27--52).
 Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434, 435--443. https://arxiv.org/abs/hep-ex/9902006

@@ -354,10 +354,12 @@ Fisher:
     -   The ordinary decision rule for estimating the mean of a multivariate Gaussian
         distribution (with dimensions, $n \geq 3$) is inadmissible under mean squared error risk.
     -   Stein, C. (1956). Inadmissibility of the usual estimator for the mean of a multivariate normal distribution. [^Stein1956]
+    -   James, W. & Stein, C. (1961). [Estimation with quadratic loss](https://projecteuclid.org/accountAjax/Download?urlId=bsmsp%2F1200512173&downloadType=presschapter&isResultClick=True). [^James1961]
     -   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
 -   Probability in high dimensions [^vanHandel2016]
 -   *High-Dimensional Probability:An introduction with applications in data science* [^Vershynin2018]
 
+[^James1961]: @James_1961_Estimation_with_quadratic_loss\.
 [^Stein1956]: @Stein_1956_Inadmissibility_of_the_usual_estimator\.
 [^vanHandel2016]: @vanHandel_2016_Probability_in_high_dimensions\.
 [^Vershynin2018]: @Vershynin_2018_High_Dimensional_ProbabilityAn_introduction\.
@@ -1835,12 +1837,19 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
 
 -   Textbooks
     -   Jurafsky, D. & Martin, J.H. (2022). [*Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition*](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf). [^Jurafsky2022]
+-   Interpretability
+    -   [Grandmother cell](https://en.wikipedia.org/wiki/Grandmother_cell)
+    -   Gurnee, W. et al. (2023). [Finding neurons in a haystack: Case studies with sparse probing](https://arxiv.org/abs/2305.01610). [^Gurnee2023]
 -   Discussion of language understanding
     -   Mahowald, K. et al. (2023). [Dissociating language and thought in large language models: a cognitive perspective](https://arxiv.org/abs/2301.06627). [^Mahowald2023]
     -   Kosinski, M. (2023). [Theory of mind may have spontaneously emerged in large language models](https://arxiv.org/abs/2302.02083). [^Kosinski2023]
     -   Chitra, T. & Prior, H. (2023). [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms)
 -   What comes after Transformers?
     -   Gu, A., Goel, K., & R&eacute;, C. (2021). [Efficiently modeling long sequences with structured state spaces](https://arxiv.org/abs/2111.00396). [^Gu2021]
+    -   Dao, T. et al. (2022). [FlashAttention: Fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135). [^Dao2022]
+    -   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2022). [Recurrent memory transformer](https://arxiv.org/abs/2207.06881). [^Bulatov2022]
+    -   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2023). [Scaling transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062). [^Bulatov2023]
+    -   Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). [Unlimiformer: Long-range transformers with unlimited length input](https://arxiv.org/abs/2305.01625).
     -   Mialon, G. et al. (2023). [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842). [^Mialon2023]
 
 See also:
@@ -1848,13 +1857,18 @@ See also:
 -   [Word meanings](statistics.html#word-meanings)
 
 [^Bahdanau2015]: @Bahdanau_2015_Neural_machine_translation_by_jointly_learning\.
+[^Bertsch2023]: @Bertsch_2023_Unlimiformer_Long_range_transformers\.
 [^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
+[^Bulatov2022]: @Bulatov_2022_Recurrent_memory_transformer\.
+[^Bulatov2023]: @Bulatov_2023_Scaling_transformer_to_1M_tokens_and_beyond\.
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Chowdhery2022]: @Chowdhery_2022_PaLM_Scaling_language_modeling_with_pathways\.
+[^Dao2022]: @Dao_2022_FlashAttention_Fast_and_memory_efficient_exact\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
 [^Graves2013]: @Graves_2013_Generating_sequences_with_recurrent_neural\.
 [^Gu2021]: @Gu_2021_Efficiently_modeling_long_sequences\.
+[^Gurnee2023]: @Gurnee_2023_Finding_neurons_in_a_haystack_Case_studies\.
 [^Hoffmann2022]: @Hoffmann_2022_Training_compute_optimal_large_language_models\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
 [^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
