@@ -337,4 +337,4 @@ Wu, Y. et al. (2016). Google's neural machine translation system: Bridging the g
 Yang, Z. et al. (2019). XLNet: Generalized autoregressive pretraining for language understanding. https://arxiv.org/abs/1906.08237
 Zaheer, M. et al. (2020). Big Bird: Transformers for longer sequences. https://arxiv.org/abs/2007.14062
 Zech, G. (1995). Comparing statistical data to Monte Carlo simulation: Parameter fitting and unfolding. https://cds.cern.ch/record/284321 [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)]
-Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. *Advances in Neural Information Processing Systems*, 20, 1729--1736.
+Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. *Advances in Neural Information Processing Systems*, 20, 1729--1736. https://proceedings.neurips.cc/paper/2007/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf

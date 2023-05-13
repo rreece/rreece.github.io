@@ -1967,7 +1967,7 @@ More:
 
 **Regret matching (RM)**
 
--   Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. [^Hart2000]
+-   Hart, S. & Mas‐Colell, A. (2000). [A simple adaptive procedure leading to correlated equilibrium](https://www.ma.imperial.ac.uk/~dturaev/Hart0.pdf). [^Hart2000]
 
 Consider a game like rock-paper-scissors, where there is only one action per round.
 Let $v^{t}(a)$ be the value observed when playing action $a$ on iteration $t$.
@@ -2011,7 +2011,7 @@ TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equ
 **Counterfactual regret minimization (CFR)**
 
 -   CFR
-    -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
+    -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). [Regret minimization in games with incomplete information](https://proceedings.neurips.cc/paper/2007/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf). [^Zinkevich2007]
     -   Counterfactual regret minimization (CFR) is an algorithm for extensive-form games that
         independently minimizes regret in each information set. [^Brown2020thesisp12]
     -   "In other words, actions are selected in proportion to the amount of positive counterfactual regret
@@ -2023,7 +2023,7 @@ TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equ
     -   Tammelin, O. (2014). [Solving large imperfect information games using CFR+](https://arxiv.org/abs/1407.5042). [^Tammelin2014]
     -   Burch, N., Moravcik, M., & Schmid, M. (2019). [Revisiting CFR+ and alternating updates](https://www.jair.org/index.php/jair/article/download/11370/26477/). [^Burch2019]
 -   Examples
-    -   Czarnog&oacute;rski, K. (2018). [Counterfactual Regret Minimization - the core of poker AI beating professional players](https://int8.io/counterfactual-regret-minimization-for-poker-ai/).
+    -   Czarnog&oacute;rski, K. (2018). [Counterfactual Regret Minimization: The core of poker AI beating professional players](https://int8.io/counterfactual-regret-minimization-for-poker-ai/).
     -   <https://github.com/tt293/medium-poker-ai/blob/master/part_7/exploitability_two_player_kuhn_poker.py>
     -   <https://github.com/int8/counterfactual-regret-minimization>
 
