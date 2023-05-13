@@ -2010,18 +2010,22 @@ TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equ
 
 **Counterfactual regret minimization (CFR)**
 
--   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
--   Counterfactual regret minimization (CFR) is an algorithm for extensive-form games that
-    independently minimizes regret in each information set. [^Brown2020thesisp12]
--   "In other words, actions are selected in proportion to the amount of positive counterfactual regret
-    for not playing that action." [^Zinkevich2007p4]
--   CFR differs from traditional RL algorithms in that it does not try to
-    maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games
-    ([source: Quora](https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization)).
--   Czarnog&oacute;rski, K. (2018). [Counterfactual Regret Minimization - the core of poker AI beating professional players](https://int8.io/counterfactual-regret-minimization-for-poker-ai/).
--   Tammelin, O. (2014). [Solving large imperfect information games using CFR+](https://arxiv.org/abs/1407.5042). [^Tammelin2014]
--   <https://github.com/tt293/medium-poker-ai/blob/master/part_7/exploitability_two_player_kuhn_poker.py>
--   <https://github.com/int8/counterfactual-regret-minimization>
+-   CFR
+    -   Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. [^Zinkevich2007]
+    -   Counterfactual regret minimization (CFR) is an algorithm for extensive-form games that
+        independently minimizes regret in each information set. [^Brown2020thesisp12]
+    -   "In other words, actions are selected in proportion to the amount of positive counterfactual regret
+        for not playing that action." [^Zinkevich2007p4]
+    -   CFR differs from traditional RL algorithms in that it does not try to
+        maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games
+        ([source: Quora](https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization)).
+-   CFR+
+    -   Tammelin, O. (2014). [Solving large imperfect information games using CFR+](https://arxiv.org/abs/1407.5042). [^Tammelin2014]
+    -   Burch, N., Moravcik, M., & Schmid, M. (2019). [Revisiting CFR+ and alternating updates](https://www.jair.org/index.php/jair/article/download/11370/26477/). [^Burch2019]
+-   Examples
+    -   Czarnog&oacute;rski, K. (2018). [Counterfactual Regret Minimization - the core of poker AI beating professional players](https://int8.io/counterfactual-regret-minimization-for-poker-ai/).
+    -   <https://github.com/tt293/medium-poker-ai/blob/master/part_7/exploitability_two_player_kuhn_poker.py>
+    -   <https://github.com/int8/counterfactual-regret-minimization>
 
 TODO: explain extensive-form games.
 
@@ -2081,19 +2085,27 @@ TODO: how does this expand over many actions?
 TODO: explain CFR.
 
 [^Brown2020thesisp6]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 6.
+[^Burch2019]: @Burch_2019_Revisiting_CFR_and_alternating_updates\.
+[^Tammelin2014]: @Tammelin_2014_Solving_large_imperfect_information_games_using\.
+[^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.
+[^Zinkevich2007p4]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\, p. 4.
+[^Zinkevich2007andLanctot2009]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete and
+    @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
 
 
 **Monte Carlo Counterfactual Regret Minimization (MCCFR)**
 
--   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
--   Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). [Efficient Monte Carlo counterfactual regret minimization in games with many player actions](https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf). [^Burch2012]
--   Johanson, M., Bard, N., Lanctot, M., Gibson, R.G., & Bowling, M. (2012). [Efficient Nash equilibrium approximation through Monte Carlo counterfactual regret minimization](https://www.idi.ntnu.no/emner/it3105/materials/poker/monte-carlo-cfm-2012.pdf). [^Johanson2012]
+-   Lanctot, M. (2009). [Monte Carlo sampling for regret minimization](https://proceedings.neurips.cc/paper/2009/file/00411460f7c92d2124a67ea0f4cb5f85-Paper.pdf). [^Lanctot2009]
 -   Neller, T.W. & Lanctot, M. (2013). [An introduction to counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf). [^Neller2013]
--   Lanctot, M. (2013). [*Monte Carlo Sample and Regret Minimization for Equilibrium Computation and Decision-Making in Large Extensive Form Games*](http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf). [^Lanctot2013]
--   Gibson, R. (2014). [*Regret minimization in games and the development of champion multiplayer computer poker-playing agents*](https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf). [^Gibson2014]
--   Burch, N. (2018). [*Time and Space: Why imperfect information games are hard*](https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf). [^Burch2018]
--   Schmid, M. et al. (2019). [Variance reduction in Monte Carlo counterfactual regret minimization (VR-MCCFR) for extensive form games using baselines](https://ojs.aaai.org/index.php/AAAI/article/view/4048/3926). [^Schmid2019]
--   Li, H. et al. (2020). [Regret minimization via novel vectorized sampling policies and exploration](http://aaai-rlg.mlanctot.info/2020/papers/AAAI20-RLG_paper_14.pdf). [^Li2020]
+-   Vectorized and sampling variants
+    -   Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). [Efficient Monte Carlo counterfactual regret minimization in games with many player actions](https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf). [^Burch2012]
+    -   Johanson, M., Bard, N., Lanctot, M., Gibson, R.G., & Bowling, M. (2012). [Efficient Nash equilibrium approximation through Monte Carlo counterfactual regret minimization](https://www.idi.ntnu.no/emner/it3105/materials/poker/monte-carlo-cfm-2012.pdf). [^Johanson2012]
+    -   Schmid, M. et al. (2019). [Variance reduction in Monte Carlo counterfactual regret minimization (VR-MCCFR) for extensive form games using baselines](https://ojs.aaai.org/index.php/AAAI/article/view/4048/3926). [^Schmid2019]
+    -   Li, H. et al. (2020). [Regret minimization via novel vectorized sampling policies and exploration](http://aaai-rlg.mlanctot.info/2020/papers/AAAI20-RLG_paper_14.pdf). [^Li2020]
+-   MCCFR Ph.D. theses
+    -   Lanctot, M. (2013). [*Monte Carlo Sample and Regret Minimization for Equilibrium Computation and Decision-Making in Large Extensive Form Games*](http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf). [^Lanctot2013]
+    -   Gibson, R. (2014). [*Regret minimization in games and the development of champion multiplayer computer poker-playing agents*](https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf). [^Gibson2014]
+    -   Burch, N. (2018). [*Time and Space: Why imperfect information games are hard*](https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf). [^Burch2018]
 
 TODO: explain MCCFR.
 
@@ -2110,11 +2122,6 @@ $$ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] 
 [^Li2020]: @Li_2020_Regret_minimization_via_novel_vectorized_sampling\.
 [^Neller2013]: @Neller_2013_An_introduction_to_counterfactual_regret\.
 [^Schmid2019]: @Schmid_2019_Variance_reduction_in_Monte_Carlo_counterfactual\.
-[^Tammelin2014]: @Tammelin_2014_Solving_large_imperfect_information_games_using\.
-[^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.
-[^Zinkevich2007p4]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\, p. 4.
-[^Zinkevich2007andLanctot2009]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete and
-    @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
 
 
 #### Solving poker
@@ -2125,23 +2132,23 @@ $$ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] 
 -   Earlier poker work
     -   Billings, D., Davidson, A., Schaeffer, J., & Szafron, D. (2002). [The challenge of poker](https://doi.org/10.1016/S0004-3702(01)00130-8). [^Billings2002]
     -   Johanson, M. (2013). [Measuring the size of large no-limit poker games](https://arxiv.org/abs/1302.7008). [^Johanson2013]
-    -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. [^Bowling2015a]
+    -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). [Heads-up limit hold'em poker is solved](https://www.science.org/doi/10.1126/science.1259433). [^Bowling2015a]
         -   CFR+
-    -   Heinrich & Silver. (2016). Deep reinforcement learning from self play in imperfect-information games. [^Heinrich2016]
+    -   Heinrich & Silver. (2016). [Deep reinforcement learning from self play in imperfect-information games](https://arxiv.org/abs/1603.01121). [^Heinrich2016]
         -   Q-learning
-    -   Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. [^Moravcik2017]
+    -   Moravcik, M. et al. (2017). [DeepStack: Expert-level artificial intelligence in heads-up no-limit poker](https://arxiv.org/abs/1701.01724). [^Moravcik2017]
 -   Libratus
-    -   Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. [^Brown2018Libratus]
+    -   Brown, N. & Sandholm, T. (2018). [Superhuman AI for heads-up no-limit poker: Libratus beats top professionals](https://www.science.org/doi/10.1126/science.aao1733). [^Brown2018Libratus]
         -   bet and card abstraction
         -   MCCFR used to find a solution of the abstracted game: blueprint
-    -   Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. [^Brown2019SIIG]
-    -   Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). Deep counterfactual regret minimization. [^Brown2019DCRM]
+    -   Brown, N. & Sandholm, T. (2019). [Solving imperfect-information games via discounted regret minimization](https://arxiv.org/abs/1809.04040). [^Brown2019SIIG]
+    -   Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). [Deep counterfactual regret minimization](https://arxiv.org/abs/1811.00164). [^Brown2019DCRM]
 -   Pluribus
-    -   Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. [^Brown2019Pluribus]
+    -   Brown, N. & Sandholm, T. (2019). [Superhuman AI for multiplayer poker](https://www.science.org/doi/10.1126/science.aay2400). [^Brown2019Pluribus]
     -   Brown, N. (2019). [Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/).
     -   [No limit: AI poker bot is first to beat professionals at multiplayer game](https://www.nature.com/articles/d41586-019-02156-9)
 -   ReBeL
-    -   Brown, N. et al. (2020). Combining deep reinforcement learning and search. [^Brown2020]
+    -   Brown, N. et al. (2020). [Combining deep reinforcement learning and search](https://arxiv.org/abs/2007.13544). [^Brown2020]
     -   [ReBeL: A general game-playing AI bot that excels at poker and more](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/)
     -   YouTube by Brown: [Combining deep reinforcement learning and search for imperfect-information games](https://www.youtube.com/watch?v=mCldyXOYNok).
     -   Brown, N. (2020). [*Equilibrium finding for large adversarial imperfect-information games*](http://www.cs.cmu.edu/~noamb/thesis.pdf). [^Brown2020thesis]
