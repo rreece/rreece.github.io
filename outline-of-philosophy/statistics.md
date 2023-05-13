@@ -2000,8 +2000,12 @@ TODO: explain the average strategy: $\bar{\sigma}^{t}$.
 
 TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equilibrium.
 
+-   Roughgarden, T. (2013). Video: [Twenty Lectures on Algorithmic Game Theory](https://www.youtube.com/watch?v=ssAEgJKRe9o).
+-   Roughgarden, T. (2016). *Twenty Lectures on Algorithmic Game Theory*. [^Roughgarden2016]
+
 [^Brown2020thesisp12]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 12.
 [^Hart2000]: @Hart_2000_A_simple_adaptive_procedure_leading_to_correlated\.
+[^Roughgarden2016]: @Roughgarden_2016_Twenty_Lectures_on_Algorithmic_Game_Theory\.
 
 
 **Counterfactual regret minimization (CFR)**
@@ -2083,6 +2087,7 @@ TODO: explain CFR.
 
 -   Lanctot, M. (2009). Monte Carlo sampling for regret minimization. [^Lanctot2009]
 -   Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). [Efficient Monte Carlo counterfactual regret minimization in games with many player actions](https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf). [^Burch2012]
+-   Johanson, M., Bard, N., Lanctot, M., Gibson, R.G., & Bowling, M. (2012). [Efficient Nash equilibrium approximation through Monte Carlo counterfactual regret minimization](https://www.idi.ntnu.no/emner/it3105/materials/poker/monte-carlo-cfm-2012.pdf). [^Johanson2012]
 -   Neller, T.W. & Lanctot, M. (2013). [An introduction to counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf). [^Neller2013]
 -   Lanctot, M. (2013). [*Monte Carlo Sample and Regret Minimization for Equilibrium Computation and Decision-Making in Large Extensive Form Games*](http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf). [^Lanctot2013]
 -   Gibson, R. (2014). [*Regret minimization in games and the development of champion multiplayer computer poker-playing agents*](https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf). [^Gibson2014]
@@ -2099,6 +2104,7 @@ $$ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] 
 [^Burch2012]: @Burch_2012_Efficient_Monte_Carlo_counterfactual_regret\.
 [^Burch2018]: @Burch_2018_Time_and_Space_Why_imperfect_information_games\.
 [^Gibson2014]: @Gibson_2014_Regret_minimization_in_games_and_the_development\.
+[^Johanson2012]: @Johanson_2012_Efficient_Nash_equilibrium_approximation_through\.
 [^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
 [^Lanctot2013]: @Lanctot_2013_Monte_Carlo_Sample_and_Regret_Minimization\.
 [^Li2020]: @Li_2020_Regret_minimization_via_novel_vectorized_sampling\.

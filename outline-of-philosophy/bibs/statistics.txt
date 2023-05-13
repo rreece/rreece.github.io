@@ -159,6 +159,7 @@ James, F. & Roos, M. (1975). MINUIT: A system for function minimization and anal
 James, F. (2006). *Statistical Methods in Experimental Particle Physics* (2nd ed.). World Scientific.
 James, W. & Stein, C. (1961). Estimation with quadratic loss. In *Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability, Vol. 1* (pp. 361--379). University of California Press. https://projecteuclid.org/accountAjax/Download?urlId=bsmsp%2F1200512173&downloadType=presschapter&isResultClick=True
 Johanson, M. (2013). Measuring the size of large no-limit poker games. https://arxiv.org/abs/1302.7008
+Johanson, M., Bard, N., Lanctot, M., Gibson, R.G., & Bowling, M. (2012). Efficient Nash equilibrium approximation through Monte Carlo counterfactual regret minimization. *Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012)*, 2, 837--846. https://www.idi.ntnu.no/emner/it3105/materials/poker/monte-carlo-cfm-2012.pdf
 Joyce, T. & Herrmann, J.M. (2017). A review of no free lunch theorems, and their implications for metaheuristic optimisation. In X.S. Yang (ed.), *Nature-Inspired Algorithms and Applied Optimization* (pp. 27--52).
 Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434, 435--443. https://arxiv.org/abs/hep-ex/9902006
 Jurafsky, D. & Martin, J.H. (2022). *Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition* (3rd ed.). https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf
@@ -261,6 +262,7 @@ Roberts, D.A. (2021). Why is AI hard and physics simple? https://arxiv.org/abs/2
 Roberts, D.A., Yaida, S., & Hanin, B. (2021). *The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks*. Cambridge University Press. https://deeplearningtheory.com/PDLT.pdf
 Robins, J.M. & Wasserman, L. (1999). On the impossibility of inferring causation from association without background knowledge. In C. Glymour & G. Cooper (eds.), *Computation, Causation, and Discovery* (pp. 305--321). AAAI & MIT Press.
 Ronen, M., Finder, S.E., & Freifeld, O. (2022). DeepDPM: Deep clustering with an unknown number of clusters. https://arxiv.org/abs/2203.14309
+Roughgarden, T. (2016). *Twenty Lectures on Algorithmic Game Theory*. Cambridge University Press.
 Royall, R. (1997). *Statistical Evidence: A likelihood paradigm*. CRC Press.
 Rozeboom, W.W. (1960). The fallacy of the null-hypothesis significance test. *Psychological Bulletin*, 57, 416.
 Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533--536.
