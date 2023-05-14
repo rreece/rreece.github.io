@@ -193,6 +193,7 @@ Li, H. et al. (2020). Regret minimization via novel vectorized sampling policies
 Lin, H. & Jegelka, S. (2018). ResNet with one-neuron hidden layers is a universal approximator. https://arxiv.org/abs/1806.10909
 Lista, L. (2016). Practical statistics for particle physicists. https://arxiv.org/abs/1609.04150
 Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
+Liu, Y. et al. (2019). RoBERTa: A robustly optimized BERT pretraining approach. https://arxiv.org/abs/1907.11692
 Liu, H., Dai, Z., So, D.R., & Le, Q.V. (2021). Pay attention to MLPs. https://arxiv.org/abs/2105.08050
 Liu, Y. et al. (2021). A survey of visual transformers. https://arxiv.org/abs/2111.06091
 Liu, Z., Madhavan, V., & Tegmark, M. (2022). AI Poincare 2: Machine learning conservation laws from differential equations. https://arxiv.org/abs/2203.12610
@@ -212,6 +213,7 @@ Mayo, D.G. (2021). Significance tests: Vitiated or vindicated by the replication
 McDermott, J. (2019). When and why metaheuristics researchers can ignore "no free lunch" theorems. https://arxiv.org/abs/1906.03280
 McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). New York: Academic Press.
 Meehl, P.E. (1978). Theoretical risks and tabular asterisks: Sir Karl, Sir Ronald, and the slow progress of soft psychology. *Journal of Consulting and Clinical Psychology*, 46, 806--834.
+Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). Locating and editing factual associations in GPT https://arxiv.org/abs/2202.05262
 Mialon, G. et al. (2023). Augmented Language Models: a Survey. https://arxiv.org/abs/2302.07842
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Yih, W.T., & Zweig, G. (2013). Linguistic regularities in continuous space word representations. https://www.aclweb.org/anthology/N13-1090.pdf [NAACL HLT 2013.]
