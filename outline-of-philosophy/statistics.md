@@ -1839,8 +1839,8 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Jurafsky, D. & Martin, J.H. (2022). [*Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition*](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf). [^Jurafsky2022]
 -   Interpretability
     -   [Grandmother cell](https://en.wikipedia.org/wiki/Grandmother_cell)
-    -   Anthropic. (2021). [A mathematical framework for transformer circuits](https://transformer-circuits.pub/2021/framework/index.html)
-    -   Anthropic. (2022). [In-context learning and induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
+    -   Anthropic. (2021). [A mathematical framework for transformer circuits](https://transformer-circuits.pub/2021/framework/index.html).
+    -   Anthropic. (2022). [In-context learning and induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html).
     -   Gurnee, W. et al. (2023). [Finding neurons in a haystack: Case studies with sparse probing](https://arxiv.org/abs/2305.01610). [^Gurnee2023]
     -   Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). [Locating and editing factual associations in GPT](https://arxiv.org/abs/2202.05262). [^Meng2023]
 -   Discussion of language understanding
@@ -2347,14 +2347,14 @@ Information geometry
 ### Introduction
 
 -   Smith, L. (2019). [A gentle introduction to information geometry](http://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html). [^Smith2019]
--   Nielsen, F. (2018). [An elementary introduction to information geometry](https://arxiv.org/abs/1808.08271). [^Nielsen2018]
+-   Nielsen, F. (2020). [An elementary introduction to information geometry](https://arxiv.org/abs/1808.08271). [^Nielsen2020]
 -   Amari, S. (1998). Natural gradient works efficiently in learning. [^Amari1998]
 -   Amari, S. (2016). *Information Geometry and Its Applications*. [^Amari2016]
 -   Geomstats tutorial: [Information geometry](https://geomstats.github.io/notebooks/06_information_geometry.html)
 
 [^Amari1998]: @Amari_1998_Natural_gradient_works_efficiently_in_learning\.
 [^Amari2016]: @Amari_2016_Information_Geometry_and_Its_Applications\.
-[^Nielsen2018]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.
+[^Nielsen2020]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.
 [^Smith2019]: @Smith_2019_A_gentle_introduction_to_information_geometry\.
 
 

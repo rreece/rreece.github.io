@@ -345,6 +345,8 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 
 -   TODO: More basic examples in propositional logic
 -   TODO: Use-mention distinction: P vs 'P' vs Quine quotes
+-   [Cut-elimination theorem](https://en.wikipedia.org/wiki/Cut-elimination_theorem)
+-   [Gerhard Gentzen](https://en.wikipedia.org/wiki/Gerhard_Gentzen) (1909-1945)
 
 See also:
 

@@ -253,7 +253,9 @@ Idealism
 
 -   [Gorgias](https://en.wikipedia.org/wiki/Gorgias) (483-375 BCE)
 -   [George Berkeley](https://en.wikipedia.org/wiki/George_Berkeley) (1685-1753)
+-   [K.L. Reinhold](https://plato.stanford.edu/entries/karl-reinhold/) (1757-1823)
 -   [Johann Gottlieb Fichte](https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte) (1762-1814)
+    -   *Attempt at a Critique of All Revelation* (1792)
 -   [Georg Wilhelm Friedrich Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) (1770-1831)
 -   [Friedrich Wilhelm Joseph Schelling](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling) (1775-1854)
 -   [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx) (1818-1883)
@@ -1659,7 +1661,8 @@ Pragmatism
 -   William James (1842-1910)
     -   The cash value of truth
 -   John Dewey (1859-1952)
--   Later work of Ludwig Wittgenstein (1889-1951)
+-   C.I. Lewis (1883-1964)
+-   Ludwig Wittgenstein (1889-1951)
 -   Willard Van Orman Quine (1908-2000)
     -   Quine, W.V.O. (1936). Truth by convention. [^Quine1936]
 -   Wilfrid Sellars (1921-1989)

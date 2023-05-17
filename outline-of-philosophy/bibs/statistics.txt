@@ -233,7 +233,8 @@ Neyman, J. (1955). The problem of inductive inference. *Communications on Pure a
 Neyman, J. (1957). "Inductive behavior" as a basic concept of philosophy of science. *Revue de l'Institut International de Statistique*, 25, 7--22.
 Neyman, J. (1977). Frequentist probability and frequentist statistics. *Synthese*, 36(1), 97--131.
 Neyman, J. & Pearson, E.S. (1933). On the problem of the most efficient tests of statistical hypotheses. *Philosophical Transactions of the Royal Society A*, 231, 289--337.
-Nielsen, F. (2018). An elementary introduction to information geometry. https://arxiv.org/abs/1808.08271
+#Nielsen, F. (2018). An elementary introduction to information geometry. https://arxiv.org/abs/1808.08271
+Nielsen, F. (2020). An elementary introduction to information geometry. *Entropy*, 22, 1100. https://www.mdpi.com/1099-4300/22/10/1100
 Nirenburg, S. (1996). Bar Hillel and Machine Translation: Then and Now.
 Nissim, M., van Noord, R., & van der Goot, R. (2019). Fair is better than sensational: Man is to doctor as woman is to doctor. *Computational Linguistics*, 46, 487--497.
 O'Hagan, A. (2010). *Kendall's Advanced Theory of Statistics, Vol 2B: Bayesian Inference*. Wiley.
