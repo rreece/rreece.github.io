@@ -279,7 +279,7 @@ See also:
 
 ### Symbolic vs connectionist AI
 
--   Browning, J. & LeCun, Y. (2022). [AI and the limits of language](https://www.noemamag.com/ai-and-the-limits-of-language/).
+-   TODO
 
 See also:
 
@@ -320,6 +320,7 @@ See also:
 
 ### Language models and mind
 
+-   Browning, J. & LeCun, Y. (2022). [AI and the limits of language](https://www.noemamag.com/ai-and-the-limits-of-language/).
 -   Piantadosi, S.T. (2023). [Modern language models refute Chomsky’s approach to language](https://lingbuzz.net/lingbuzz/007180). [^Piantadosi2023]
 -   Katzir, R. (2023). [Why large language models are poor theories of human linguistic cognition: A reply to Piantadosi](https://lingbuzz.net/lingbuzz/007190). [^Katzir2023]
 
@@ -328,6 +329,10 @@ Experimentallly:
 >   Overall, these results suggest that, beyond the marginal effects of the models’ architectures,
 >   the middle---but not the outer---layers of deep language models systematically converge towards
 >   brain-like representations. [^Caucheteux2020]
+
+See also:
+
+-   [Word meanings](statistics.html#word-meanings)
 
 [^Caucheteux2020]: @Caucheteux_2020_Language_processing_in_brains_and_deep_neural\.
 [^Piantadosi2023]: @Piantadosi_2023_Modern_language_models_refute_Chomskys_approach\.
