@@ -239,6 +239,7 @@ Nirenburg, S. (1996). Bar Hillel and Machine Translation: Then and Now.
 Nissim, M., van Noord, R., & van der Goot, R. (2019). Fair is better than sensational: Man is to doctor as woman is to doctor. *Computational Linguistics*, 46, 487--497.
 O'Hagan, A. (2010). *Kendall's Advanced Theory of Statistics, Vol 2B: Bayesian Inference*. Wiley.
 OpenAI. (2023). GPT-4 Technical Report. https://cdn.openai.com/papers/gpt-4.pdf
+Otsuka, J. (2023). *Thinking About Statistics: The Philosophical Foundations*. Routledge.
 Ouyang, L. et al. (2022). Training language models to follow instructions with human feedback. https://arxiv.org/abs/2203.02155
 Park, N. & Kim, S. (2022). How do vision transformers work? https://arxiv.org/abs/2202.06709
 Patel, R. & Pavlick, E. (2022). Mapping language models to grounded conceptual spaces. *International Conference on Learning Representations*, 2022. https://openreview.net/pdf?id=gJcEM8sxHK

@@ -66,6 +66,8 @@ See also:
     -   The rule of succession, bayesian
 -   [Carl Friedrich Gauss](http://en.wikipedia.org/wiki/Gauss) (1777-1855)
 -   [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) (1806-1873)
+-   [Francis Galton](https://en.wikipedia.org/wiki/Francis_Galton) (1822-1911)
+    -   Regression towards the mean in phenotypes
 -   [John Venn](https://en.wikipedia.org/wiki/John_Venn) (1834-1923)
     -   *The Logic of Chance* (1866) [^Venn1888]
 
@@ -114,6 +116,9 @@ See also:
     -   objective (non-informative) Jeffreys priors
 -   [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov) (1903-1987)
 -   [C.R. Rao](https://en.wikipedia.org/wiki/C._R._Rao) (b. 1920)
+-   [Ray Solomonoff](https://en.wikipedia.org/wiki/Ray_Solomonoff) (1926-2009)
+-   [Shun'ichi Amari](https://en.wikipedia.org/wiki/Shun%27ichi_Amari) (b. 1936)
+-   [Judea Pearl](https://en.wikipedia.org/wiki/Judea_Pearl) (b. 1936)
 
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
 [^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
@@ -145,6 +150,8 @@ See also:
     -   [information geometry](http://bactra.org/notebooks/info-geo.html)
     -   [*Advanced Data Analysis from an Elementary Point of View*](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 -   Taboga, M. (2022). [statlect.com](https://www.statlect.com/).
+-   Otsuka, J. (2023). *Thinking About Statistics: The Philosophical Foundations*.
+    -   Otsuka, J. (2023). Talk: [What machine learning tells us about the mathematical structures of concepts](https://www.youtube.com/watch?v=Lqt7TgYk8rU).
 
 [^Behnke2013]: @Behnke_2013_Data_Analysis_in_High_Energy_Physics_A_Practical\.
 [^Cousins2018]: @Cousins_2018_Lectures_on_statistics_in_theory_Prelude\.
@@ -154,6 +161,7 @@ See also:
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
 [^Lista2016a]: @Lista_2016_Statistical_Methods_for_Data_Analysis_in_Particle\.
 [^Lista2016b]: @Lista_2016_Practical_statistics_for_particle_physicists\.
+[^Otsuka2023]: @Otsuka_2023_Thinking_About_Statistics_The_Philosophical\.
 [^Stuart2010]: @Stuart_2010_Kendalls_Advanced_Theory_of_Statistics_Vol_2A\.
 [^Weisberg2019]: @Weisberg_2019_Odds__Ends_Introducing_Probability__Decision\.
 
@@ -2354,7 +2362,7 @@ Information geometry
 
 [^Amari1998]: @Amari_1998_Natural_gradient_works_efficiently_in_learning\.
 [^Amari2016]: @Amari_2016_Information_Geometry_and_Its_Applications\.
-[^Nielsen2020]: @Nielsen_2018_An_elementary_introduction_to_information_geometry\.
+[^Nielsen2020]: @Nielsen_2020_An_elementary_introduction_to_information\.
 [^Smith2019]: @Smith_2019_A_gentle_introduction_to_information_geometry\.
 
 
