@@ -1224,6 +1224,7 @@ Interpretations of quantum mechanics
     -   Everett, H. (1957). "Relative state" formulation of quantum mechanics. [^Everett1957]
     -   Wheeler, J.A. (1957). Assessment of Everett's "relative state" formulation of quantum theory. [^Wheeler1957]
     -   Everett's collected works [^Everett2012]
+    -   Shikhovtsev, E. (2003). [Biographical sketch of Hugh Everett, III](https://space.mit.edu/home/tegmark/everett/everettbio.pdf).
 -   DeWitt, B.S. (1970). [Quantum mechanics and reality](https://physicstoday.scitation.org/doi/10.1063/1.3022331). [^DeWitt1970]
 -   DeWitt, B.S. & Graham, N. (1973). *The Many-Worlds Interpretation of Quantum Mechanics*. [^DeWitt1973]
 -   Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. [^Barrett2011]

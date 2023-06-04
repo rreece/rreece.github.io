@@ -1550,7 +1550,7 @@ Deep learning
 -   Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). [A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning](https://arxiv.org/abs/2109.02355). [^Dar2021]
 -   Balestriero, R., Pesenti, J., & LeCun, Y. (2021). [Learning in high dimension always amounts to extrapolation](https://arxiv.org/abs/2110.09485). [^Balestriero2021]
 -   Nagarajan, V. (2021). [Explaining generalization in deep learning: progress and fundamental limits](https://arxiv.org/abs/2110.08922). [^Nagarajan2021]
--   Bubeck, S. & Sellke, M. (2021). [A universal law of robustness via isoperimetry](https://arxiv.org/abs/2105.12806). [^Bubeck2021]
+-   Bubeck, S. & Sellke, M. (2023). [A universal law of robustness via isoperimetry](https://dl.acm.org/doi/full/10.1145/3578580). [^Bubeck2023]
 -   Bach, F. (2022). [*Learning Theory from First Principles*](https://www.di.ens.fr/~fbach/ltfp_book.pdf). [^Bach2022p225]
 -   Steinhardt, J. (2022). [More is different for AI](https://bounded-regret.ghost.io/more-is-different-for-ai/). [^Steinhardt2022]
 -   Henighan, T. et al. (2023). [Superposition, memorization, and double descent](https://transformer-circuits.pub/2023/toy-double-descent/index.html). [^Henighan2023]
@@ -1558,7 +1558,7 @@ Deep learning
 [^Bach2022p225]: @Bach_2022_Learning_Theory_from_First_Principles\, p. 225--230.
 [^Balestriero2021]: @Balestriero_2021_Learning_in_high_dimension_always_amounts\.
 [^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
-[^Bubeck2021]: @Bubeck_2021_A_universal_law_of_robustness_via_isoperimetry\.
+[^Bubeck2023]: @Bubeck_2023_A_universal_law_of_robustness_via_isoperimetry\.
 [^Dar2021]: @Dar_2021_A_farewell_to_the_bias_variance_tradeoff\.
 [^Henighan2023]: @Henighan_2023_Superposition_memorization_and_double_descent\.
 [^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
@@ -1862,6 +1862,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2023). [Scaling transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062). [^Bulatov2023]
     -   Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). [Unlimiformer: Long-range transformers with unlimited length input](https://arxiv.org/abs/2305.01625). [^Bertsch2023]
     -   Mialon, G. et al. (2023). [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842). [^Mialon2023]
+    -   Peng, B. et al. (2023). [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048). [^Peng2023]
 
 See also:
 
@@ -1899,6 +1900,7 @@ See also:
 [^Nirenburg1996]: @Nirenburg_1996_Bar_Hillel_and_Machine_Translation_Then_and_Now\.
 [^OpenAI2023]: @OpenAI_2023_GPT_4_Technical_Report\.
 [^Ouyang2022]: @Ouyang_2022_Training_language_models_to_follow_instructions\.
+[^Peng2023]: HERE
 [^Phuong2022]: @Phuong_2022_Formal_algorithms_for_transformers\.
 [^Radford2018]: @Radford_2018_Improving_language_understanding_by_generative\.
 [^Radford2019]: @Radford_2019_Language_models_are_unsupervised_multitask\.

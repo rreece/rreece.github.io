@@ -668,28 +668,36 @@ Feminism
 Waves:
 
 1.  Women's suffrage movements (19th and early 20th centuries)
-    -   19th Amendment
+    -   [*Nineteenth Amendment to the US Constitution*](https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution) (1920)
+    -   Intersection with the [Temperance movement in the US](https://en.wikipedia.org/wiki/Temperance_movement_in_the_United_States)
+        -   American Temperance Society (ATS)
+        -   Woman's Christian Temperance Union (WCTU)
 2.  Women's liberation movement (1960s-1980s)
     -   de Beauvoir, S. (1949). *The Second Sex*.
     -   FDA approves the first birth control pill, Enovid in 1960.
-    -   [Civil Rights Act of 1964](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964)
-    -   Thomson, J.J. (1971). A defense of abortion. [^Thomson1971]
-    -   [Title IX of the Education Amendments of 1972](https://en.wikipedia.org/wiki/Title_IX)
-    -   *Roe v. Wade* (1973)
+    -   [*Civil Rights Act of 1964*](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964)
+    -   Thomson, J.J. (1971). [A defense of abortion](https://en.wikipedia.org/wiki/A_Defense_of_Abortion). [^Thomson1971]
+    -   [*Title IX of the Education Amendments of 1972*](https://en.wikipedia.org/wiki/Title_IX)
+    -   [*Roe v. Wade*](https://en.wikipedia.org/wiki/Roe_v._Wade) (1973)
+    -   [*Equal Credit Opportunity Act*](https://en.wikipedia.org/wiki/Equal_Credit_Opportunity_Act) (1974)
 3.  Third wave (1990s-2012)
     -   [Feminist sex wars](https://en.wikipedia.org/wiki/Feminist_sex_wars)
+        -   Andrea Dworkin (1946-2005)
+        -   Alice Walker (b. 1944)
     -   [Sex-positive feminism](https://en.wikipedia.org/wiki/Sex-positive_feminism)
+        -   Camille Paglia (b .1947)
+        -   Naomi Wolf (b. 1962)
     -   [Intersectionality](https://en.wikipedia.org/wiki/Intersectionality) (1989)
         -   bell hooks (1952-2021)
         -   Kimberl&eacute; Crenshaw (b. 1959)
-    -   *Planned Parenthood v. Casey* (1991)
+    -   [*Planned Parenthood v. Casey*](https://en.wikipedia.org/wiki/Planned_Parenthood_v._Casey) (1991)
     -   In 1991, Anita Hill testified before the Senate Judiciary Committee that
         Supreme Court nominee Clarence Thomas had sexually harassed her at work.
-    -   Snyder-Hall, R.C. (2010). Third-wave feminism and the defense of "choice". [^SnyderHall2010]
+    -   Snyder-Hall, R.C. (2010). [Third-wave feminism and the defense of "choice"](https://www.jstor.org/stable/25698533). [^SnyderHall2010]
 4.  Fourth wave (2012-present)
     -   Use of social media; #MeToo movement
     -   LGBTQ; Trans rights movement
-    -   *Dobbs v. Jackson Women's Health Organization* (2022)
+    -   [*Dobbs v. Jackson Women's Health Organization*](https://en.wikipedia.org/wiki/Dobbs_v._Jackson_Women%27s_Health_Organization) (2022)
 
 See also:
 
@@ -737,6 +745,7 @@ Compassion
 -   Limits of compassion
     -   Rand being against compassion.
     -   Prinz, J. (2011). Against empathy. [^Prinz2011]
+    -   Jonathan Haidt (b.1963)
 -   Anger
     -   Callard, A. (2020). [The philosophy of anger](https://bostonreview.net/forum/agnes-callard-philosophy-anger/).
 -   Doug Polk interviewing Garrett Adelstein (2021): [Being gentle with yourself](https://www.youtube.com/watch?v=zS-Z2MDtlb8).
