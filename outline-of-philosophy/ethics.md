@@ -743,7 +743,7 @@ Compassion
 -   Compassion in Buddhism
 -   Compassion in Schopenhauer's *On the Basis of Morality*
 -   Limits of compassion
-    -   Rand being against compassion.
+    -   Ayn Rand (1905-1982)
     -   Prinz, J. (2011). Against empathy. [^Prinz2011]
     -   Jonathan Haidt (b.1963)
 -   Anger
