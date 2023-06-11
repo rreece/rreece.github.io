@@ -1746,6 +1746,7 @@ Comparative studies
         -   Kant: phenomena vs noumena
         -   Sellars: manifest vs scientific image
     -   [Graham Priest: Lectures on Buddhism and Science](https://www.youtube.com/watch?v=V-P3j3S2beA&list=PLKuMaHOvHA4rag4t-jjdbeDdye5nb0rlF&ab_channel=PhilosophyattheUniversityofEdinburgh)
+-   Buddhism and Parfit
 -   *The Eastern Origins of Western Civlisation* [^Hobson2004]
 
 [^Hobson2004]: @Hobson_2004_The_Eastern_Origins_of_Western_Civlisation\.

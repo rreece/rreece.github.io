@@ -1900,7 +1900,7 @@ See also:
 [^Nirenburg1996]: @Nirenburg_1996_Bar_Hillel_and_Machine_Translation_Then_and_Now\.
 [^OpenAI2023]: @OpenAI_2023_GPT_4_Technical_Report\.
 [^Ouyang2022]: @Ouyang_2022_Training_language_models_to_follow_instructions\.
-[^Peng2023]: HERE
+[^Peng2023]: @Peng_2023_RWKV_Reinventing_RNNs_for_the_Transformer_Era\.
 [^Phuong2022]: @Phuong_2022_Formal_algorithms_for_transformers\.
 [^Radford2018]: @Radford_2018_Improving_language_understanding_by_generative\.
 [^Radford2019]: @Radford_2019_Language_models_are_unsupervised_multitask\.
@@ -2099,8 +2099,17 @@ TODO: how does this expand over many actions?
 
 TODO: explain CFR.
 
+Best response:
+
+$$ \mathrm{BR}(\sigma_{-i}) = \underset{\sigma_{i}^{\prime}}{\mathrm{argmax}} \: u_{i}(\sigma_{i}^{\prime}, \sigma_{-i}) \label{eq:best_response} $$
+
+Exploitability: [^NashConv]
+
+$$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} \left( u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \sigma_{-i}) \right) \label{eq:exploitability} $$
+
 [^Brown2020thesisp6]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 6.
 [^Burch2019]: @Burch_2019_Revisiting_CFR_and_alternating_updates\.
+[^NashConv]: See NashConv exploitability defined in @Lanctot_2017_A_unified_game_theoretic_approach_to_multiagent\.
 [^Tammelin2014]: @Tammelin_2014_Solving_large_imperfect_information_games_using\.
 [^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.
 [^Zinkevich2007p4]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\, p. 4.

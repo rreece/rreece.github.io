@@ -123,12 +123,12 @@ See also:
 ### Criticism
 
 -   The Repugnant Conclusion
-    -   Parfit, D. (1984). *Reasons and Pearson*. [^Parfit1984]
+    -   Parfit, D. (1984). *Reasons and Pearsons*. [^Parfit1984]
 -   The experience machine
     -   Nozick, R. (1974). *Anarchy, State, and Utopia*. [^Nozick2013pTODO]
 
 [^Nozick2013pTODO]: @Nozick_2013_Anarchy_State_and_Utopia\, p. TODO.
-[^Parfit1984]: @Parfit_1984_Reasons_and_Pearson\.
+[^Parfit1984]: @Parfit_1984_Reasons_and_Pearsons\.
 
 
 Moral antirealism
