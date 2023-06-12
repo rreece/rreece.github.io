@@ -1761,7 +1761,8 @@ D_\mathrm{KL}(p, q)
 <p>Best response:</p>
 <p><span class="math display">\[ \mathrm{BR}(\sigma_{-i}) = \underset{\sigma_{i}^{\prime}}{\mathrm{argmax}} \: u_{i}(\sigma_{i}^{\prime}, \sigma_{-i}) \label{eq:best_response} \]</span></p>
 <p>Exploitability:<a href="#fn266" class="footnote-ref" id="fnref266" role="doc-noteref"><sup>266</sup></a></p>
-<p><span class="math display">\[ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} \left( u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \sigma_{-i}) \right) \label{eq:exploitability} \]</span></p>
+<p><span class="math display">\[ \varepsilon_{i}(\sigma) = u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \sigma_{-i}) \label{eq:exploitability} \]</span></p>
+<p><span class="math display">\[ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} \varepsilon_{i}(\sigma) = \frac{1}{n} \sum_{i}^{n} \left( u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \sigma_{-i}) \right) \label{eq:average_exploitability} \]</span></p>
 <p><strong>Monte Carlo Counterfactual Regret Minimization (MCCFR)</strong></p>
 <ul>
 <li>Lanctot, M. (2009). <a href="https://proceedings.neurips.cc/paper/2009/file/00411460f7c92d2124a67ea0f4cb5f85-Paper.pdf">Monte Carlo sampling for regret minimization</a>.<a href="#fn267" class="footnote-ref" id="fnref267" role="doc-noteref"><sup>267</sup></a></li>

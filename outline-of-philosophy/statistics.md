@@ -2105,7 +2105,9 @@ $$ \mathrm{BR}(\sigma_{-i}) = \underset{\sigma_{i}^{\prime}}{\mathrm{argmax}} \:
 
 Exploitability: [^NashConv]
 
-$$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} \left( u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \sigma_{-i}) \right) \label{eq:exploitability} $$
+$$ \varepsilon_{i}(\sigma) = u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \sigma_{-i}) \label{eq:exploitability} $$
+
+$$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} \varepsilon_{i}(\sigma) = \frac{1}{n} \sum_{i}^{n} \left( u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \sigma_{-i}) \right) \label{eq:average_exploitability} $$
 
 [^Brown2020thesisp6]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 6.
 [^Burch2019]: @Burch_2019_Revisiting_CFR_and_alternating_updates\.
