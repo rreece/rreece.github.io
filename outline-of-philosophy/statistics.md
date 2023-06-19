@@ -2099,19 +2099,8 @@ TODO: how does this expand over many actions?
 
 TODO: explain CFR.
 
-Best response:
-
-$$ \mathrm{BR}(\sigma_{-i}) = \underset{\sigma_{i}^{\prime}}{\mathrm{argmax}} \: u_{i}(\sigma_{i}^{\prime}, \sigma_{-i}) \label{eq:best_response} $$
-
-Exploitability: [^NashConv]
-
-$$ \varepsilon_{i}(\sigma) = u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \sigma_{-i}) \label{eq:exploitability} $$
-
-$$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} \varepsilon_{i}(\sigma) = \frac{1}{n} \sum_{i}^{n} \left( u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \sigma_{-i}) \right) \label{eq:average_exploitability} $$
-
 [^Brown2020thesisp6]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 6.
 [^Burch2019]: @Burch_2019_Revisiting_CFR_and_alternating_updates\.
-[^NashConv]: See NashConv exploitability defined in @Lanctot_2017_A_unified_game_theoretic_approach_to_multiagent\.
 [^Tammelin2014]: @Tammelin_2014_Solving_large_imperfect_information_games_using\.
 [^Zinkevich2007]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\.
 [^Zinkevich2007p4]: @Zinkevich_2007_Regret_minimization_in_games_with_incomplete\, p. 4.
@@ -2148,6 +2137,44 @@ $$ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] 
 [^Li2020]: @Li_2020_Regret_minimization_via_novel_vectorized_sampling\.
 [^Neller2013]: @Neller_2013_An_introduction_to_counterfactual_regret\.
 [^Schmid2019]: @Schmid_2019_Variance_reduction_in_Monte_Carlo_counterfactual\.
+
+
+**Best response and exploitability**
+
+Best response:
+
+$$ \mathrm{BR}(\sigma_{-i}) = \underset{\sigma_{i}^{\prime}}{\mathrm{argmax}} \: u_{i}(\sigma_{i}^{\prime}, \sigma_{-i}) \label{eq:best_response} $$
+
+TODO: Local Best Response (LBR). [^Lisy2016p2]
+
+Exploitability:
+
+$$ \varepsilon_{i}(\sigma) = u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \mathrm{BR}(\sigma_{i})) \label{eq:exploitability} $$
+
+NashConv [^NashConv] exploitability uses the convention:
+
+$$ \varepsilon_{i}(\sigma) = u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \sigma_{-i}) \label{eq:nc_exploitability} $$
+
+The average exploitability per player is
+
+$$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} \varepsilon_{i}(\sigma) $$
+
+Note that in zero-sum games, when summing over players, the second terms in NashConv sum to zero. [^Timbers2020p3]
+
+$$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i})  \label{eq:average_exploitability} $$
+
+-   Johanson, M., Waugh, K., Bowling, M., & Zinkevich, M. (2011). [Accelerating best response calculation in large extensive games](http://www.cs.cmu.edu/~kwaugh/publications/johanson11.pdf). [^Johanson2011]
+-   Ponsen, M., De Jong, S., & Lanctot, M. (2011). [Computing approximate nash equilibria and robust best-responses using sampling](https://arxiv.org/abs/1401.4591). [^Ponsen2011]
+-   Lisy, V. & Bowling, M. (2016). [Equilibrium approximation quality of current no-limit poker bots](https://arxiv.org/abs/1612.07547). [^Lisy2016]
+-   Timbers, F. (2020). [Approximate exploitability: Learning a best response in large games](https://arxiv.org/abs/2004.09677). [^Timbers2020]
+
+[^Johanson2011]: @Johanson_2011_Accelerating_best_response_calculation_in_large\.
+[^Lisy2016]: @Lisy_2016_Equilibrium_approximation_quality_of_current_no\.
+[^Lisy2016p2]: @Lisy_2016_Equilibrium_approximation_quality_of_current_no\, p. 2.
+[^NashConv]: See NashConv exploitability defined in @Lanctot_2017_A_unified_game_theoretic_approach_to_multiagent\.
+[^Ponsen2011]: @Ponsen_2011_Computing_approximate_nash_equilibria_and_robust\.
+[^Timbers2020]: @Timbers_2020_Approximate_exploitability_Learning_a_best\.
+[^Timbers2020p3]: @Timbers_2020_Approximate_exploitability_Learning_a_best\, p. 3.
 
 
 #### Solving poker

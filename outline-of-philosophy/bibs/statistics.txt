@@ -1,4 +1,3 @@
-Peng, B. et al. (2023). RWKV: Reinventing RNNs for the Transformer Era. https://arxiv.org/abs/2305.13048
 Agresti, A. & Coull, B.A. (1998). Approximate is better than "exact" for interval estimation of binomial proportions. *The American Statistician*, 52, 119--126.
 Aldrich, J. (1997). R. A. Fisher and the making of maximum likelihood 1912-1922. *Statistical Science*, 12, 162-176.
 Amari, S. (1998). Natural gradient works efficiently in learning. *Neural Computation*, 10, 251--276.
@@ -162,6 +161,7 @@ James, F. (2006). *Statistical Methods in Experimental Particle Physics* (2nd ed
 James, W. & Stein, C. (1961). Estimation with quadratic loss. In *Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability, Vol. 1* (pp. 361--379). University of California Press. https://projecteuclid.org/accountAjax/Download?urlId=bsmsp%2F1200512173&downloadType=presschapter&isResultClick=True
 Johanson, M. (2013). Measuring the size of large no-limit poker games. https://arxiv.org/abs/1302.7008
 Johanson, M., Bard, N., Lanctot, M., Gibson, R.G., & Bowling, M. (2012). Efficient Nash equilibrium approximation through Monte Carlo counterfactual regret minimization. *Proceedings of the 11th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2012)*, 2, 837--846. https://www.idi.ntnu.no/emner/it3105/materials/poker/monte-carlo-cfm-2012.pdf
+Johanson, M., Waugh, K., Bowling, M., & Zinkevich, M. (2011). Accelerating best response calculation in large extensive games. *IJCAI 2011, Proceedings of the 22nd International Joint Conference on Artificial Intelligence*, 11, 258--265. http://www.cs.cmu.edu/~kwaugh/publications/johanson11.pdf
 Joyce, T. & Herrmann, J.M. (2017). A review of no free lunch theorems, and their implications for metaheuristic optimisation. In X.S. Yang (ed.), *Nature-Inspired Algorithms and Applied Optimization* (pp. 27--52).
 Junk, T. (1999). Confidence level computation for combining searches with small statistics. *Nuclear Instruments and Methods in Physics Research Section A*, 434, 435--443. https://arxiv.org/abs/hep-ex/9902006
 Jurafsky, D. & Martin, J.H. (2022). *Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition* (3rd ed.). https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf
@@ -181,7 +181,7 @@ Kun, J. (2018). *A Programmer's Introduction to Mathematics*. CreateSpace Indepe
 Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R. (2019). ALBERT: A lite BERT for self-supervised learning of language representations. https://arxiv.org/abs/1909.11942
 Lanctot, M. (2013). *Monte Carlo Sample and Regret Minimization for Equilibrium Computation and Decision-Making in Large Extensive Form Games*. University of Alberta. http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf [(PhD thesis)]
 Lanctot, M., Waugh, K., Zinkevich, M., & Bowling, M. (2009). Monte Carlo sampling for regret minimization in extensive games. *Advances in Neural Information Processing Systems*, 22, 1078--1086. https://proceedings.neurips.cc/paper/2009/file/00411460f7c92d2124a67ea0f4cb5f85-Paper.pdf
-Lanctot, M. et al. (2017). A unified game-theoretic approach to multiagent reinforcement learning. *Advances in Neural Information Processing Systems*, 30. https://proceedings.neurips.cc/paper/2017/file/3323fe11e9595c09af38fe67567a9394-Paper.pdf
+Lanctot, M. et al. (2017). A unified game-theoretic approach to multiagent reinforcement learning. *Advances in Neural Information Processing Systems*, 30. https://arxiv.org/abs/1711.00832
 Lauc, D. (2020). Machine learning and the philosophical problems of induction. In S. Skansi (ed.), *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 93--106). Springer.
 Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53. http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf
 LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1(4), 541--551. http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf
@@ -195,6 +195,7 @@ Li, H. et al. (2020). Regret minimization via novel vectorized sampling policies
 Lin, H. & Jegelka, S. (2018). ResNet with one-neuron hidden layers is a universal approximator. https://arxiv.org/abs/1806.10909
 Lista, L. (2016). Practical statistics for particle physicists. https://arxiv.org/abs/1609.04150
 Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
+Lisy, V. & Bowling, M. (2016). Equilibrium approximation quality of current no-limit poker bots. https://arxiv.org/abs/1612.07547
 Liu, Y. et al. (2019). RoBERTa: A robustly optimized BERT pretraining approach. https://arxiv.org/abs/1907.11692
 Liu, H., Dai, Z., So, D.R., & Le, Q.V. (2021). Pay attention to MLPs. https://arxiv.org/abs/2105.08050
 Liu, Y. et al. (2021). A survey of visual transformers. https://arxiv.org/abs/2111.06091
@@ -253,6 +254,7 @@ Peng, B. et al. (2023). RWKV: Reinventing RNNs for the Transformer Era. https://
 Perone, C.S. (2018). NLP word representations and the Wittgenstein philosophy of language. http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/
 Peters, J., Janzing, D., & Sch{\:o}lkopf, B. (2017). *Elements of Causal Inference*. MIT Press.
 Phuong, M. & Hutter, M. (2022). Formal algorithms for transformers. https://arxiv.org/abs/2207.09238
+Ponsen, M., De Jong, S., & Lanctot, M. (2011). Computing approximate nash equilibria and robust best-responses using sampling. *Journal of Artificial Intelligence Research*, 42, 575--605. https://arxiv.org/abs/1401.4591
 Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf [(Paper on the GPT model by OpenAI)] 
 Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf [(Paper on the GPT-2 model by OpenAI)] 
 Rae, J.W. et al. (2022). Scaling language models: Methods, analysis & insights from training Gopher. https://arxiv.org/abs/2112.11446
@@ -314,6 +316,7 @@ Tegmark, M., Taylor, A.N., & Heavens, A.F. (1997). Karhunen-Loeve eigenvalue pro
 Tenney, I. et al. (2019). What do you learn from context? Probing for sentence structure in contextualized word representations. https://arxiv.org/abs/1905.06316
 Theodoridis, S. & Koutroumbas, K. (2009). *Pattern Recognition*. Elsevier.
 Thuerey, N. et al. (2021). Physics-based deep learning. https://arxiv.org/abs/2109.05237
+Timbers, F. (2020). Approximate exploitability: Learning a best response in large games. https://arxiv.org/abs/2004.09677
 Tukey, J.W. (1962). The future of data analysis. *The Annals of Mathematical Statistics*, 33(1), 1--67.
 Tukey, J.W. (1977). *Exploratory Data Analysis*. Pearson.
 Udrescu, S. & Tegmark, M. (2020). Symbolic pregression: Discovering physical laws from raw distorted video. https://arxiv.org/abs/2005.11212

@@ -663,11 +663,12 @@ Epistemology and metaphysics:
 -   [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy)
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
+-   [Pudgalavada](https://en.wikipedia.org/wiki/Pudgalavada) - philosophy of pudgala (personhood)
 -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
     -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
     -   Kalama Sutta ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html))
 -   [Buddhist cosmology](https://en.wikipedia.org/wiki/Buddhist_cosmology)
--   [Mount Meru](https://en.wikipedia.org/wiki/Mount_Meru)
+    -   [Mount Meru](https://en.wikipedia.org/wiki/Mount_Meru)
 
 Ethics:
 
