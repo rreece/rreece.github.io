@@ -1371,12 +1371,14 @@ The standard model of particle physics
 -   [Particle physics](https://en.wikipedia.org/wiki/Particle_physics)
 -   [Brookhaven National Laboratory](https://en.wikipedia.org/wiki/Brookhaven_National_Laboratory)
 -   [Luis Walter Alvarez](https://en.wikipedia.org/wiki/Luis_Walter_Alvarez) (1911-1988)
+-   [Murray Gell-Mann](https://en.wikipedia.org/wiki/Murray_Gell-Mann) (1929-219)
+    -    First *Review of Particle Physics* (1957)
 -   [SLAC National Accelerator Laboratory](https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory)
 -   [$J/\psi$ meson](https://en.wikipedia.org/wiki/J/psi_meson) - "November Revolution" in particle physics (1974)
 -   [European Organization for Nuclear Research (CERN)](https://en.wikipedia.org/wiki/CERN)
 -   [Carlo Rubbia](https://en.wikipedia.org/wiki/Carlo_Rubbia) (b. 1934)
 -   [Fermilab](https://en.wikipedia.org/wiki/Fermilab)
--   [Review of Particle Physics](https://pdg.lbl.gov/2021/reviews/contents_sports.html) [^PDG2021]
+-   [*Review of Particle Physics*](https://pdg.lbl.gov/2021/reviews/contents_sports.html) [^PDG2021]
 -   [Physics Problems for the Next Millennium](https://web.archive.org/web/20070527084922/http://feynman.physics.lsa.umich.edu/strings2000/millennium.html)
 
 [^PDG2021]: @Zyla_2021_Review_of_Particle_Physics\.
