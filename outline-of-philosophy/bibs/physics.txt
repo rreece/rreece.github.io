@@ -222,13 +222,13 @@ Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. *Philosophic
 Schwartz, M.D. (2014). *Quantum Field Theory and the Standard Model*. Cambridge University Press.
 Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. Harper & Row.
 Schweber, S.S. (1993). The ebb and flow of of reductionism. In Brown, L.M. (Ed.) *Renormalization: From Lorentz to Landau (and Beyond)* (pp. 155-166). Springer-Verlag.
-Sebens, C.T. (2019). How electrons spin. *Studies in History and Philosophy of Science Part B*, 68, 40--50. https://arxiv.org/abs/1806.01121
-Seidewitz, E. (2017). Avoiding Haag's Theorem with Parameterized Quantum Field Theory. *Foundations of Physics*, 47(3), 355--374.
 Sch{\"o}nberg, M. (1954). On the hydrodynamical model of the quantum mechanics. *Il Nuovo Cimento*, 12, 103--133.
 Schlosshauer, M. (2005). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76, 1267--1305. https://arxiv.org/abs/quant-ph/0312059
 Schlosshauer, M. & Fine, A. (2012). Implications of the Pusey-Barrett-Rudolph quantum no-go theorem. *Physical Review Letters*, 108(26), 260404. https://arxiv.org/abs/1203.4779
 Schreiber, U. (2016). Learn about supersymmetry and Deligne’s theorem. https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/
 Schreiber, U. (2020). Differential cohomology in a cohesive $\infty$-topos. https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos
+Sebens, C.T. (2019). How electrons spin. *Studies in History and Philosophy of Science Part B*, 68, 40--50. https://arxiv.org/abs/1806.01121
+Seidewitz, E. (2017). Avoiding Haag's theorem with parameterized quantum field theory. *Foundations of Physics*, 47(3), 355--374. https://arxiv.org/abs/1501.05658
 Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.
 Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, III. https://space.mit.edu/home/tegmark/everett/
 Simon, B. (1976). Quantum dynamics: From automorphism to Hamiltonian. In Lieb, E.H. (Ed.) *Studies in Mathematical Physics: Essays in Honor of Valentine Bargmann* (pp. 327-350). Princeton University Press. http://www.math.caltech.edu/SimonPapers/R12.pdf

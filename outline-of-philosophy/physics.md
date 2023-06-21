@@ -382,6 +382,7 @@ Feynman and Hibbs on the uncertainty principle:
 -   [Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (1879-1955)
 -   [Max Born](https://en.wikipedia.org/wiki/Max_Born) (1882-1970)
 -   [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962)
+-   [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) (1868-1951)
 -   [Erwin Schr&ouml;dinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger) (1887-1961)
 -   [Louis de Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) (1892-1987)
 -   [Lawrence Bragg](https://en.wikipedia.org/wiki/Lawrence_Bragg) (1890-1971)
@@ -838,6 +839,7 @@ Baez, Segal, & Zhou on wave-particle duality:
     -   Wallace
     -   QFT requires an ultraviolet regulator (a cutoff, a lattice),
         and Haag's theorem does not apply when the regulator is in place.
+    -   Seidewitz, E. (2017). [Avoiding Haag's theorem with parameterized quantum field theory](https://arxiv.org/abs/1501.05658). [^Seidewitz2017]
 
 <center>
 <blockquote class="twitter-tweet">
@@ -867,6 +869,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
 [^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
 [^Ruetsche2002]: @Ruetsche_2002_Interpreting_quantum_field_theory\.
+[^Seidewitz2017]: @Seidewitz_2017_Avoiding_Haags_Theorem_with_Parameterized_Quantum\.
 [^Teller1997p115]: @Teller_1997_An_Interpretive_Introduction_to_Quantum_Field\, p. 115.
 
 
