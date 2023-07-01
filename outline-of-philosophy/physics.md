@@ -441,6 +441,7 @@ conserved under that transformation.
 $$ \hat{U}(x^{\mu}) = e^{ -i \, \hat{P}_\mu \, x^\mu } $$
 
 -   Somehow, QM is about complex numbers:
+    -   [Riesz representation theorem](https://en.wikipedia.org/wiki/Riesz_representation_theorem)
     -   Jordan, P., von Neumann, J., & Wigner, E.P. (1934). On an algebraic generalization of the quantum mechanical formalism. [^Jordan1934]
     -   Baez, J.C. (2011). [Division algebras and quantum theory](https://arxiv.org/abs/1101.5690). [^Baez2011a]
 
@@ -1565,6 +1566,7 @@ See also:
     -   Georgi, H. (1982). *Lie Algebras in Particle Physics*. [^Georgi1982]
     -   Baez, J.C. & Huerta, J. (2009). [The algebra of grand unified theories](https://arxiv.org/abs/0904.1556). [^Baez2009d]
     -   Lisi, A.G. (2007). [An exceptionally simple theory of everything](https://arxiv.org/abs/0711.0770). [^Lisi2007]
+    -   Chester, D., Marrani, A., & Rios, M. (2023). [Beyond the Standard Model with six-dimensional spinors](https://arxiv.org/abs/2002.02391). [^Chester2023]
 
 ![Two-loop renormalization group evolution of the inverse gauge couplings, $\alpha^{-1}$,
     in the Standard Model (dashed lines) and the MSSM (solid lines).
@@ -1579,6 +1581,7 @@ See also:
 [^Baez2009c]: @Baez_2009_Division_algebras_and_supersymmetry_I\.
 [^Baez2010]: @Baez_2010_Division_algebras_and_supersymmetry_II\.
 [^Baez2009d]: @Baez_2009_The_algebra_of_grand_unified_theories\.
+[^Chester2023]: @Chester_2023_Beyond_the_Standard_Model_with_six_dimensional\.
 [^Glashow1974]: @Georgi_1974_Unity_of_all_elementary_particle_forces\.
 [^Georgi1982]: @Georgi_1999_Lie_Algebras_in_Particle_Physics\.
 [^Lisi2007]: @Lisi_2007_An_exceptionally_simple_theory_of_everything\.

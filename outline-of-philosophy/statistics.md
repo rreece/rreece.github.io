@@ -2205,6 +2205,8 @@ $$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i})
     -   [ReBeL: A general game-playing AI bot that excels at poker and more](https://ai.facebook.com/blog/rebel-a-general-game-playing-ai-bot-that-excels-at-poker-and-more/)
     -   YouTube by Brown: [Combining deep reinforcement learning and search for imperfect-information games](https://www.youtube.com/watch?v=mCldyXOYNok).
     -   Brown, N. (2020). [*Equilibrium finding for large adversarial imperfect-information games*](http://www.cs.cmu.edu/~noamb/thesis.pdf). [^Brown2020thesis]
+-   Player of Games
+    -   Schmid, M. et al. (2021). [Player of games](https://arxiv.org/abs/2112.03178). [^Schmid2021]
 
 [^Billings2002]: @Billings_2002_The_challenge_of_poker\.
 [^Brown2018Libratus]: @Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker\.
@@ -2218,6 +2220,7 @@ $$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i})
 [^Johanson2013]: @Johanson_2013_Measuring_the_size_of_large_no_limit_poker_games\.
 [^Kuhn1950]: @Kuhn_1950_A_simplified_two_person_poker\.
 [^Moravcik2017]: @Moravcik_2017_DeepStack_Expert_level_artificial_intelligence\.
+[^Schmid2021]: @Schmid_2021_Player_of_games\.
 [^Southey2012]: @Southey_2012_Bayes_bluff_Opponent_modelling_in_poker\.
 
 

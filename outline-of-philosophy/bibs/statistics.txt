@@ -283,6 +283,7 @@ Salmon, W.C. (1991). Hans Reichenbach's vindication of induction. *Erkenntnis*, 
 Salsburg, D. (2001). *The Lady Tasting Tea*. Holt.
 Savage, L.J. (1954). *The Foundations of Statistics*. John Wiley & Sons.
 Schmid, M. et al. (2019). Variance reduction in Monte Carlo counterfactual regret minimization (VR-MCCFR) for extensive form games using baselines. https://ojs.aaai.org/index.php/AAAI/article/view/4048/3926
+Schmid, M. et al. (2021). Player of games. https://arxiv.org/abs/2112.03178
 Schmidhuber, J. (1997). A computer scientist's view of life, the universe, and everything. https://arxiv.org/abs/quant-ph/9904050
 Sellars, W. (1964). Induction as vindication. *Philosophy of Science*, 31, 197--231.
 Shalev-Shwarz, S. & Ben-David, S. (2014). *Understanding Machine Learning: From Theory to Algorithms*. Cambridge University Press. https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf

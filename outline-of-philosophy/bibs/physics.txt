@@ -67,6 +67,7 @@ Caulton, A., & Butterfield, J. (2012). Symmetries and paraparticles as a motivat
 Caves, C.M., Fuchs, C.A., & Schack, R. (2001). Quantum probabilities as Bayesian probabilities. *Physical Review A*, 65, 022305. https://arxiv.org/abs/quant-ph/0106133
 {CDF Collaboration}. (2022). High-precision measurement of the $W$ boson mass with the CDF II detector. *Science*, 376(6589), 170--176. https://www.science.org/doi/10.1126/science.abk1781
 Chalmers, M. (2017). Model physicist. https://cerncourier.com/a/model-physicist/
+Chester, D., Marrani, A., & Rios, M. (2023). Beyond the Standard Model with six-dimensional spinors. Particles, 6, 144-172. https://arxiv.org/abs/2002.02391
 Clauser, J., Horne, M., Shimony, A., & Holt, R. (1969). Proposed experiment to test local hidden-variable theories. *Physical Review Letters*, 23, 880--884.
 Clowe, D. et al. (2006). A direct empirical proof of the existence of dark matter. *Astrophysical Journal Letters*, 648(2), 109. https://arxiv.org/abs/astro-ph/0608407
 {CMS Collaboration}. (2012). Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC. *Physics Letters B*, 716, 30--61. https://arxiv.org/abs/1207.7235

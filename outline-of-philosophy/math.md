@@ -31,6 +31,7 @@ TODO
 -   [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano) (1501-1576)
 -   Carl Friedrich Gauss (1777-1855)
     -   published a proof of the fundamental theorem of algebra (1797)
+    -   The theorem states that the field of complex numbers is algebraically closed.
 -   [&Eacute;variste Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois) (1811-1832)
 -   [Leopold Kronecker](https://en.wikipedia.org/wiki/Leopold_Kronecker) (1823-1891)
 -   arithmetic vs abstract algebra
@@ -98,7 +99,8 @@ TODO
 ### History
 
 -   Ren&eacute; Descartes (1596-1650)
-    -   Geometry and coordinates
+    -   Geometry and coordinates, modern notation, geometric problems forumalted with algebra
+    -   *La G&eacute;om&eacute;trie* (1637)
 -   Isaac Newton (1642-1726/7)
 -   Gottfried Wilhelm Leibniz (1646-1716)
 -   Jacob Bernoulli (1655-1705)
@@ -195,14 +197,23 @@ Number theory
 -   Axiom schema of specification AKA Axiom of restricted comprehension
 -   von Neumann's set theoretical definition of numbers
 -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory) + [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) = ZFC
+-   [Cantor-Bernstein-Schr&ouml;eder theorem](https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem)
 
 
 ### Transfinite numbers
 
 -   Ordinal (index) vs cardinal (size) numbers
 -   [Transfinite numbers](https://en.wikipedia.org/wiki/Transfinite_number):
-    -   $\omega$: the lowest transfinite ordinal number; the order type of the natural numbers.
-    -   $\aleph_0$: the first transfinite cardinal number; the cardinality of the natural numbers.
+    -   $\omega$: the smallest transfinite ordinal number; the order type of the natural numbers.
+    -   $\aleph_0$: the first transfinite cardinal number; the cardinality of the natural numbers, $\aleph_0 \equiv |\mathbb{N}|$
+    -   There is a one-to-one correspondence between ordinal and cardinal numbers. [^Trioni2020Omega]
+        $\omega = \aleph_0$
+    -   The $\aleph_n$ hierarchy of cardinals is defined by transfinite recursion:
+        -   $\aleph_0$ is the smallest infinite cardinal.
+        -   $\aleph_{n+1}$ is the successor cardinal to $\aleph_{n}$
+        -   $\aleph_{\lambda} = \mathrm{sup}_{n<λ} \aleph_n$ for limit ordinals $\lambda$
+    -   $\aleph_1$ is the first uncountable cardinal.
+    -   $\aleph_2$ is the second uncountable cardinal.
 -   Transfinite numbers were anticipated by [Robert Grosseteste](https://plato.stanford.edu/entries/grosseteste/) (ca. 1168-1253).
 -   Developed by [Georg Cantor](https://en.wikipedia.org/wiki/Georg_Cantor) (1845-1918) in 1895
     -   [Cantor's first set theory article](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article)
@@ -212,13 +223,27 @@ Number theory
     -   Let $|A| \equiv \mathrm{card}(A)$ denote the cardinality (i.e size) of a set, $A$.
     -   A power set, $P(A)$, of a set, $A$, is the set of all subsets of $A$.
     -   The cardinality of a power set is $|P(A)| = 2^{|A|}$
-    -   The cardinality of the natural numbers: $\aleph_0 \equiv |\mathbb{N}|$
-    -   The cardinality of the reals: $C \equiv |\mathbb{R}| = |P(\mathbb{N})| = 2^{|\mathbb{N}|} = 2^{\aleph_0} > \aleph_0$
--   [Continuum hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) (CH)
+    -   The cardinality of a power set is strictly larger than the set: $|A| < |P(A)|$
+-   [Cardinality of the continuum](https://en.wikipedia.org/wiki/Cardinality_of_the_continuum)
+    -   The cardinality of the reals: $C \equiv |\mathbb{R}|$
+    -   Examples of sets with cardinality = $C$
+        -   real numbers, $\mathbb{R}$
+        -   closed or open intervals on $\mathbb{R}$
+        -   Euclidean space, $\mathbb{R}^n$
+        -   complex numbers, $\mathbb{C}$
+        -   set of all continuous functions from $\mathbb{R}$ to $\mathbb{R}$
+        -   power set of of natureal numbers, $P(\mathbb{N})$
+    -   The cardinality of the reals is the power set of the natural numbers:
+        $C \equiv |\mathbb{R}| = |P(\mathbb{N})| = 2^{|\mathbb{N}|} = 2^{\aleph_0} > \aleph_0$
+-   [Continuum Hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) (CH)
     -   CH: There is no set $S$ such that $\aleph_0 < |S| < 2^{\aleph_0}$
-    -   Under the CH, $C = \aleph_1 = 2^{\aleph_0}$.
-    -   [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
+    -   $C = 2^{\aleph_0}$, and under CH, $C = 2^{\aleph_0} = \aleph_1$.
+    -   Relationship with the [axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice)
     -   Paul Cohen showed the CH is undecidable in ZFC (1963).
+-   Generalized Continuum Hypothesis (GCH)
+    -   $\aleph_{n+1} = 2^{\aleph_n}$
+
+[^Trioni2020Omega]: Trioni, S. (2020). [Cantor's attic](https://neugierde.github.io/cantors-attic/Omega) - Omega.
 
 
 Logic
@@ -650,6 +675,7 @@ Category theory
 -   Fong, B. & Spivak, D.I. (2018). [Seven sketches in compositionality: An invitation to applied category theory](https://arxiv.org/abs/1803.05316). [^Fong2018]
 -   Bradley, T.D. (2018). [What is applied category theory?](https://arxiv.org/abs/1809.05923) [^Bradley2018]
 -   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
+    -   Related to: [Pragmatic maxim](https://en.wikipedia.org/wiki/Pragmatic_maxim), [Identity of indiscernibles](https://en.wikipedia.org/wiki/Identity_of_indiscernibles)
 -   Relation to set theory
 -   Relation to Russell type theory
 -   Univalent foundations
@@ -1480,6 +1506,7 @@ Click to show links
 -   Baez, J.C. (2018). [Insanely Long Proofs](https://johncarlosbaez.wordpress.com/2012/10/19/insanely-long-proofs/).
 -   Schwichtenberg, J. (XXXX). [Classification of Simple Lie Groups](http://jakobschwichtenberg.com/classification-of-simple-lie-groups/).
 -   Tao, T. (2019). [Career advice](https://terrytao.wordpress.com/career-advice/).
+-   Trioni, S. (2020). [Cantor's attic](https://neugierde.github.io/cantors-attic/).
 
 ### Videos
 
