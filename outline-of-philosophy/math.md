@@ -207,11 +207,12 @@ Number theory
     -   $\omega$: the smallest transfinite ordinal number; the order type of the natural numbers.
     -   $\aleph_0$: the first transfinite cardinal number; the cardinality of the natural numbers, $\aleph_0 \equiv |\mathbb{N}|$
     -   There is a one-to-one correspondence between ordinal and cardinal numbers. [^Trioni2020Omega]
-        $\omega = \aleph_0$
+        $\omega = \aleph_0$       
     -   The $\aleph_n$ hierarchy of cardinals is defined by transfinite recursion:
         -   $\aleph_0$ is the smallest infinite cardinal.
         -   $\aleph_{n+1}$ is the successor cardinal to $\aleph_{n}$
         -   $\aleph_{\lambda} = \mathrm{sup}_{n<λ} \aleph_n$ for limit ordinals $\lambda$
+    -   $\aleph_0$ is the smallest infinite cardinal; it is countable.
     -   $\aleph_1$ is the first uncountable cardinal.
     -   $\aleph_2$ is the second uncountable cardinal.
 -   Transfinite numbers were anticipated by [Robert Grosseteste](https://plato.stanford.edu/entries/grosseteste/) (ca. 1168-1253).
@@ -242,7 +243,23 @@ Number theory
     -   Paul Cohen showed the CH is undecidable in ZFC (1963).
 -   Generalized Continuum Hypothesis (GCH)
     -   $\aleph_{n+1} = 2^{\aleph_n}$
+ 
+Hilbert:
 
+>   There is, however, a completely satisfactory way of avoiding the paradoxes
+>   without betraying our science. The desires and attitudes which help us
+>   find this way and show us what direction to take are these:
+>   
+>   1.  Wherever there is any hope of salvage, we will carefully investigate
+>       fruitful definitions and deductive methods. We will nurse them,
+>       strengthen them, and make them useful. No one shall drive us out
+>       of the paradise which Cantor has created for us.
+>   2.  We must establish throughout mathematics the same certitude for
+>       our deductions as exists in ordinary elementary number theory,
+>       which no one doubts and where contradictions and paradoxes
+>       arise only through our own carelessness. [^Hilbert1926p191]
+
+[^Hilbert1926p191]: @Hilbert_1926_Uber_das_Unendliche\, p. 191.
 [^Trioni2020Omega]: Trioni, S. (2020). [Cantor's attic](https://neugierde.github.io/cantors-attic/Omega) - Omega.
 
 
