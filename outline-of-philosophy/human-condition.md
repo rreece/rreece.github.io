@@ -93,8 +93,6 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
     -   [Elam civilisation](https://en.wikipedia.org/wiki/Elam) (c. 3200-539 BCE)
     -   [Corded Ware culture](https://en.wikipedia.org/wiki/Corded_Ware_culture) (c. 3000-2350 BCE)
     -   Fustel de Coulanges, Numa Denis. (1864). [*The Ancient City*](https://historyofeconomicthought.mcmaster.ca/fustel/AncientCity.pdf).
-    -   [Proto-Indo-European mythology](https://en.wikipedia.org/wiki/Proto-Indo-European_mythology)
-    -   [Dyeus](https://en.wikipedia.org/wiki/Dy%C4%93us) - daylight-sky-god
 -   [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt)
     -   [First Dynasty](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt) (c. 3,150-2,890 BCE)
     -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing begins c. 3200 BCE.
@@ -211,7 +209,7 @@ Proto-Indo-European mythology
 --------------------------------------------------------------------------------
 
 -   [Proto-Indo-European mythology](https://en.wikipedia.org/wiki/Proto-Indo-European_mythology)
--   [Kurgan hypothesis](https://en.wikipedia.org/wiki/Kurgan_hypothesis)
+-   [Dy&emacr;us](https://en.wikipedia.org/wiki/Dy%C4%93us) - daylight-sky-god
 
 ### Zoroastrianism
 
