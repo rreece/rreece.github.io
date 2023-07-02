@@ -75,6 +75,7 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
 -   First [Natufian](https://en.wikipedia.org/wiki/Natufian_culture) sedentary settlements by 10,000 BCE
 -   [Pre-Pottery Neolithic A](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A) (c. 12,000-10,800 BCE)
 -   [G&ouml;bekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe) built between c. 10,000 and 8,000 BCE
+1864
 -   [Sumer](https://en.wikipedia.org/wiki/Sumer) was first settled between c. 5500 and 4000 BCE.
     -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing begins c. 3200 BCE.
     -   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2,800 and 2,500 BCE.
@@ -84,7 +85,18 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
     -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1754 BCE)
     -   [Library of Ashurbanipal](https://en.wikipedia.org/wiki/Library_of_Ashurbanipal) (c. 7th century BCE)
     -   [*Epic of Gilgamesh*](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh) (c. 2100-1200 BCE)
--   [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt) - [First Dynasty](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt) (c. 3,150-2,890 BCE)
+    -   [Uruk](https://en.wikipedia.org/wiki/Uruk) city (c. 5000 BCE - 700 CE)
+-   [Proto-Indo-Europeans](https://en.wikipedia.org/wiki/Proto-Indo-Europeans)
+    -   [Kurgan hypothesis](https://en.wikipedia.org/wiki/Kurgan_hypothesis)
+    -   [Yamnaya culture](https://en.wikipedia.org/wiki/Yamnaya_culture) (c. 3300-2600 BCE)
+    -   [Afanasievo culture](https://en.wikipedia.org/wiki/Afanasievo_culture) (c. 3300-2500 BCE)
+    -   [Elam civilisation](https://en.wikipedia.org/wiki/Elam) (c. 3200-539 BCE)
+    -   [Corded Ware culture](https://en.wikipedia.org/wiki/Corded_Ware_culture) (c. 3000-2350 BCE)
+    -   Fustel de Coulanges, Numa Denis. (1864). [*The Ancient City*](https://historyofeconomicthought.mcmaster.ca/fustel/AncientCity.pdf).
+    -   [Proto-Indo-European mythology](https://en.wikipedia.org/wiki/Proto-Indo-European_mythology)
+    -   [Dyeus](https://en.wikipedia.org/wiki/Dy%C4%93us) - daylight-sky-god
+-   [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt)
+    -   [First Dynasty](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt) (c. 3,150-2,890 BCE)
     -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing begins c. 3200 BCE.
 -   [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) (c. 2500-539 BCE)
 -   [Hittites](https://en.wikipedia.org/wiki/Hittites) (c. 1600-1178 BCE)
@@ -103,13 +115,13 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
     -   [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) (356-323 BCE)
 -   [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) (559-330 BCE)
     -   [Royal Road](https://en.wikipedia.org/wiki/Royal_Road) rebuilt by [Darius the Great](https://en.wikipedia.org/wiki/Darius_the_Great) c. 500 BCE
--   [Druids](https://en.wikipedia.org/wiki/Druid)
--   [Franks](https://en.wikipedia.org/wiki/Franks)
+-   [Celts](https://en.wikipedia.org/wiki/Celts)
+    -   [Druids](https://en.wikipedia.org/wiki/Druid)
 
 #### Ancient India
 
 -   [Ancient India](https://en.wikipedia.org/wiki/History_of_India)
--   [Indus Valley](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3300-1300 BCE)
+-   [Indus Valley civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation) (c. 3300-1300 BCE)
 -   [Harappa](https://en.wikipedia.org/wiki/Harappa)  settled c. 2600 BCE
 -   [Mohenjo-daro](https://en.wikipedia.org/wiki/Mohenjo-daro) settled c. 2500 BCE
 -   [Indus script](https://en.wikipedia.org/wiki/Indus_script) (c. 3500-1900 BCE) - still not deciphered today!
