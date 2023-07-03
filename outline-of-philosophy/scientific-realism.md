@@ -1660,6 +1660,7 @@ Pragmatism
 -   Charles Sanders Peirce (1839-1914)
 -   William James (1842-1910)
     -   The cash value of truth
+-   [The Metaphysical Club](https://en.wikipedia.org/wiki/The_Metaphysical_Club) (1872)
 -   John Dewey (1859-1952)
 -   C.I. Lewis (1883-1964)
 -   Ludwig Wittgenstein (1889-1951)

@@ -1990,6 +1990,7 @@ See also:
 
 -   Terror management theory (TMT)
 -   Ernest Becker (1924-1974)
+    -   *The Denial of Death* (1973)
     -   The fear of death is "the mainspring of human activity."
 -   Jeff Greenberg, Sheldon Solomon, and Tom Pyszczynski
 
