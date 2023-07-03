@@ -76,6 +76,13 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
 -   [Pre-Pottery Neolithic A](https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic_A) (c. 12,000-10,800 BCE)
 -   [G&ouml;bekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe) built between c. 10,000 and 8,000 BCE
 1864
+-   [Proto-Indo-Europeans](https://en.wikipedia.org/wiki/Proto-Indo-Europeans)
+    -   [Kurgan hypothesis](https://en.wikipedia.org/wiki/Kurgan_hypothesis)
+    -   [Yamnaya culture](https://en.wikipedia.org/wiki/Yamnaya_culture) (c. 3300-2600 BCE)
+    -   [Afanasievo culture](https://en.wikipedia.org/wiki/Afanasievo_culture) (c. 3300-2500 BCE)
+    -   [Elam civilisation](https://en.wikipedia.org/wiki/Elam) (c. 3200-539 BCE)
+    -   [Corded Ware culture](https://en.wikipedia.org/wiki/Corded_Ware_culture) (c. 3000-2350 BCE)
+    -   Fustel de Coulanges, Numa Denis. (1864). [*The Ancient City*](https://historyofeconomicthought.mcmaster.ca/fustel/AncientCity.pdf).
 -   [Sumer](https://en.wikipedia.org/wiki/Sumer) was first settled between c. 5500 and 4000 BCE.
     -   [Cuneiform](https://en.wikipedia.org/wiki/Cuneiform) writing begins c. 3200 BCE.
     -   [Gilgamesh](https://en.wikipedia.org/wiki/Gilgamesh) was a probably historical king of the Sumerian city-state of Uruk sometime between 2,800 and 2,500 BCE.
@@ -86,13 +93,6 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
     -   [Library of Ashurbanipal](https://en.wikipedia.org/wiki/Library_of_Ashurbanipal) (c. 7th century BCE)
     -   [*Epic of Gilgamesh*](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh) (c. 2100-1200 BCE)
     -   [Uruk](https://en.wikipedia.org/wiki/Uruk) city (c. 5000 BCE - 700 CE)
--   [Proto-Indo-Europeans](https://en.wikipedia.org/wiki/Proto-Indo-Europeans)
-    -   [Kurgan hypothesis](https://en.wikipedia.org/wiki/Kurgan_hypothesis)
-    -   [Yamnaya culture](https://en.wikipedia.org/wiki/Yamnaya_culture) (c. 3300-2600 BCE)
-    -   [Afanasievo culture](https://en.wikipedia.org/wiki/Afanasievo_culture) (c. 3300-2500 BCE)
-    -   [Elam civilisation](https://en.wikipedia.org/wiki/Elam) (c. 3200-539 BCE)
-    -   [Corded Ware culture](https://en.wikipedia.org/wiki/Corded_Ware_culture) (c. 3000-2350 BCE)
-    -   Fustel de Coulanges, Numa Denis. (1864). [*The Ancient City*](https://historyofeconomicthought.mcmaster.ca/fustel/AncientCity.pdf).
 -   [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt)
     -   [First Dynasty](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt) (c. 3,150-2,890 BCE)
     -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing begins c. 3200 BCE.
@@ -285,6 +285,7 @@ Moore & Kelle:
 -   [Criticism of Jesus](https://en.wikipedia.org/wiki/Criticism_of_Jesus)
 -   Celsus. (c. 175 CE). [*The True Word*](https://en.wikipedia.org/wiki/The_True_Word).
 -   Porphyry. (c. 234-305 CE). [*Against the Christians*](https://en.wikipedia.org/wiki/Porphyry_(philosopher)).
+-   Nietzsche, F. (1895). *The Antichrist*.
 -   Kaufmann, W.A. (2015). *The Faith of a Heretic*. [^Kaufmann2015]
 -   *Skeptic's Annotated Bible* [^Wells2013]
 
@@ -1648,6 +1649,7 @@ Me: And then there was hip hop.
 -   [Saul Bellow](https://en.wikipedia.org/wiki/Saul_Bellow) (1915-2005)
 -   [Camille Paglia](https://en.wikipedia.org/wiki/Camille_Paglia) (b. 1947)
     -   *Sexual Personae* (1990)
+    -   "All roads from Rousseau lead to Sade".
 -   [Alain de Botton](https://en.wikipedia.org/wiki/Alain_de_Botton) (b. 1969)
     -   [How romanticism ruined love](https://www.youtube.com/watch?v=jltM5qYn25w) - The School of Life
     -   [On romanticism](https://www.youtube.com/watch?v=sPOuIyEJnbE)
@@ -1713,6 +1715,9 @@ Comparative studies
 -   [Plato (428/7 or 424/3 - 348/7 BCE)](https://plato.stanford.edu/entries/plato/)
 -   TODO: Plato believed in reincarnation.
 -   *Phaedo*
+-   *The Eastern Origins of Western Civlisation* [^Hobson2004]
+
+[^Hobson2004]: @Hobson_2004_The_Eastern_Origins_of_Western_Civlisation\.
 
 #### Buddhism and Pyrrhonism
 
@@ -1746,22 +1751,41 @@ Comparative studies
     -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
     -   Kerns, T. [Lecture notes on Schopenhauer and Buddhism](http://philosophycourse.info/lecsite/lec-schop-budd.html).
     -   Young, J. [Arthur Schopenhauer: The first European Buddhist](https://www.the-tls.co.uk/articles/arthur-schopenhauer-footnotes-to-plato/).
--   Buddhism and continental philosophy
+-   Buddhism and Nietzsche
+    -   Zarathustra says that "the soul is only a word for something about the body".
+    -   *The Antichrist*, &sect;20--23. [^Nietzsche1895Sec20to30]
+-   Buddhism and Heidegger
+    -   Keiji Nishitani
     -   The Kyoto School
-    -   Heidegger and Keiji Nishitani
     -   Parkes, G. (2011). Heidegger and Japanese fascism: An unsubstantiated connection. [^Parkes2011]
-    -   Buddhism and Nietzsche
 -   Buddhism and empiricism
     -   Hume: anitya and humeanism
     -   Two truths doctrine
         -   Kant: phenomena vs noumena
         -   Sellars: manifest vs scientific image
     -   [Graham Priest: Lectures on Buddhism and Science](https://www.youtube.com/watch?v=V-P3j3S2beA&list=PLKuMaHOvHA4rag4t-jjdbeDdye5nb0rlF&ab_channel=PhilosophyattheUniversityofEdinburgh)
--   Buddhism and Parfit
--   *The Eastern Origins of Western Civlisation* [^Hobson2004]
+    -   Derek Parfit
 
-[^Hobson2004]: @Hobson_2004_The_Eastern_Origins_of_Western_Civlisation\.
+Nietzsche:
+
+>   With my condemnation of Christianity I should not like to have
+>   committed an injustice toward a related religion which even
+>   outweighs it in the number of its believers: Buddhism. Both belong
+>   together as nihilistic religions---they are decadence-religions---, both
+>   are separated from each other in the strangest way. That one may now
+>   compare them, the critic of Christianity is deeply obliged to the Indian
+>   scholars.---Buddhism is a hundred times more realistic than
+>   Christianity---it has the inheritance of cool and objective problem
+>   posing in its blood, it comes after a philosophical movement lasting
+>   hundreds of years: the concept of "God" is already abolished when it
+>   comes. Buddhism is the only really positivistic religion history has to
+>   offer us, even in its epistemology (a strict phenomenalism), it no
+>   longer says "the struggle against sin," but quite in keeping with reality,
+>   "the struggle against suffering." [^Nietzsche1895Sec20]
+
 [^Nelson2011]: @Nelson_2011_The_Yijing_and_philosophy_From_Leibniz\.
+[^Nietzsche1895Sec20]: @Nietzsche_2004_Ecce_Homo_How_One_Becomes_What_One_Is\, &sect;20\.
+[^Nietzsche1895Sec20to30]: @Nietzsche_2004_Ecce_Homo_How_One_Becomes_What_One_Is\, &sect;20--23\.
 [^Parkes2011]: @Parkes_2011_Heidegger_and_Japanese_fascism_An_unsubstantiated\.
 [^Ryan1996]: @Ryan_1996_Leibniz_binary_system_and_Shao_Yongs_Yijing\.
 [^Smith2012]: @Smith_2012_How_the_Book_of_Changes_Arrived_in_the_West\.
@@ -2167,6 +2191,12 @@ _Psychology_
 [^Mahner1996]: @Mahner_1996_Is_religious_education_compatible_with_science\.
 
 
+### Criticism
+
+-   Requests for a response to the presumed implication of nihilism.
+-   Failures of secularization; how discussion of some deep issues is popularly dominated by religion.
+
+
 Existentialism
 --------------------------------------------------------------------------------
 
@@ -2182,11 +2212,18 @@ Existentialism
     -   Zizek, S. (2012). [If there is a God, then anything is permitted](https://www.abc.net.au/religion/if-there-is-a-god-then-anything-is-permitted/10100616).
     -   "The Grand Inquisitor" in *The Brothers Karamazov* (1880)
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
-    -   "God is dead"
-    -   "the mouth of the first immoralist", *Ecce Homo*
+    -   *Thus Spoke Zarathustra* (1883)
+        -   Modernism and alienation
+        -   "God is dead"
+        -   &Uuml;bermensch
+    -   *Beyond Good and Evil* (1886)
+    -   *On the Genealogy of Morality* (1887)
+    -   *The Antichrist* (1888; first published in 1895)
+        -   Revaluation of all values
+    -   *Ecce Homo* (1888; first published in 1908)
+        -   "the mouth of the first immoralist"
     -   Zumbrunnen, J. (2002). "Courage in the face of reality": Nietzsche's admiration for Thucydides. [^Zumbrunnen2002]
     -   Leiter, B. (2019). The death of God and the death of morality. [^Leiter2019]
--   Modernism and alienation
 
 [^Leiter2019]: @Leiter_2019_The_death_of_God_and_the_death_of_morality\.
 [^Zumbrunnen2002]: @Zumbrunnen_2002_Courage_in_the_face_of_reality_Nietzsches\.
@@ -2215,15 +2252,14 @@ Bertrand Russell:
     -   Existence precedes essence.
     -   We are often in denial of how radically free we are.
     -   Randomness decides a lot.
-    -   Authenticity
-    -   Bad faith
+    -   Authenticity vs Bad faith
     -   *Nausea* / *La naus&eacute;e* (1938) [^Sartre1964]
     -   *Being and Nothingness* / *L'&ecirc;tre et le n&eacute;ant* (1943)
     -   *No Exit* / *Huis clos* (1944)
     -   *L'Existentialisme est un Humanisme* (1946) [^Sartre1946]
 -   [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir) (1908-1986)
     -   *The Second Sex* / *Le Deuxi&egrave;me Sex* (1949)
-        -   starting point of [second-wave feminism](https://en.wikipedia.org/wiki/Second-wave_feminism)
+        -   Starting point of [second-wave feminism](https://en.wikipedia.org/wiki/Second-wave_feminism)
         -   TODO: referencing Schopenhauer?
         -   See also: [Feminism](ethics.html#feminism)
 -   [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus) (1913-1960)
@@ -2275,10 +2311,8 @@ Nihilism
     -   Pessimism
     -   Buddhism
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
-    -   *Thus Spoke Zarathustra* (1883)
-    -   *Beyond Good and Evil* (1886)
-    -   *On the Genealogy of Morality* (1887)
-    -   *Ecce Homo* (1888; first published in 1908)
+    -   Nietzsche called out Christianity, Buddhism, and Schopenhauer as all
+        being nihilistic and contrasted it with his Will to power.
 -   Ray Brassier (b. 1965)
     -   *Nihil Unbound: Enlightenment and Extinction* [^Brassier2007]
 -   Danaher, J. (2015). [Understanding nihilism: What if nothing matters?](https://philosophicaldisquisitions.blogspot.com/2015/12/understanding-nihilism-what-if-nothing.html)

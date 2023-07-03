@@ -1741,6 +1741,7 @@ Postmodernism
 ### Discussion
 
 -   TODO
+-   TODO: How much is postmodernism influenced by Marxism and Crticial Theory?
 
 
 ### Criticism

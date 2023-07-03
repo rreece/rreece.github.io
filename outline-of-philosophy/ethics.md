@@ -531,9 +531,10 @@ Shields:
 [^Shields2020]: Shields, M. (2020). [The last night of Mark Shields on the PBS News Hour](https://www.youtube.com/watch?v=a1MKG_3jC9g&ab_channel=PBSNewsHour).
 
 
-### Economics
+Economics
+--------------------------------------------------------------------------------
 
-#### Modern portfolio theory
+### Modern portfolio theory
 
 -   [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
 -   [Harry Markowitz](https://en.wikipedia.org/wiki/Harry_Markowitz) (b. 1927)
@@ -552,7 +553,7 @@ Shields:
 [^Merton1972]: @Merton_1972_An_analytic_derivation_of_the_efficient_portfolio\.
 
 
-#### Mutual fund separation theorem
+### Mutual fund separation theorem
 
 -   [Mutual fund separation theorem](https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem)
 -   Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. [^Chamberlain1983]
@@ -564,7 +565,7 @@ Shields:
 [^Owen1983]: @Owen_1983_On_the_class_of_elliptical_distributions_and_their\.
 
 
-#### Estimation of covariance matrices
+### Estimation of covariance matrices
 
 -   [Estimation of covariance matrices](https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices)
 -   [Shrinkage](https://en.wikipedia.org/wiki/Shrinkage_(statistics))
@@ -581,7 +582,7 @@ Shields:
 [^Mantegna1998]: @Mantegna_1998_Hierarchical_structure_in_financial_markets\.
 
 
-#### Capital Asset Pricing Model
+### Capital Asset Pricing Model
 
 -   Capital Asset Pricing Model (CAPM)
 -   [William F. Sharpe](https://en.wikipedia.org/wiki/William_F._Sharpe) (b. 1934)
@@ -595,7 +596,7 @@ Shields:
 [^Sharpe1999]: @Sharpe_1999_Portfolio_Theory_and_Capital_Markets\.
 
 
-#### Efficient-market hypothesis
+### Efficient-market hypothesis
 
 -   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
 -   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)

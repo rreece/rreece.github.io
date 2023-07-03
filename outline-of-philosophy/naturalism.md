@@ -1060,6 +1060,7 @@ Dang & Bright:
     -   Stock, K. (2021). [I refuse to be bullied into silence](https://www.dailymail.co.uk/news/article-9155659/I-refuse-bullied-silence-PROFESSOR-KATHLEEN-STOCK.html).
 -   Intellectual Dark Web (IDW)
     -   Weiss, B. (2018). [Meet the Renegades of the Intellectual Dark Web](https://web.archive.org/web/20200131000213/https://www.nytimes.com/2018/05/08/opinion/intellectual-dark-web.html). *The New York Times*.
+    -   Paglia, C. & Peterson, J.B. (2018). Video: [Modern Times](https://www.youtube.com/watch?v=v-hIVnmUdXM).
     -   Kanelos, P. (2021). [We can't wait for universities to fix themselves. So we're starting a new one.](https://bariweiss.substack.com/p/we-cant-wait-for-universities-to) (Announcement of [The University of Austin](https://www.uaustin.org/).)
 
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.

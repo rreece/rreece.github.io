@@ -145,6 +145,8 @@ See also:
 Transhumanism
 --------------------------------------------------------------------------------
 
+-   Nietzsche, F. (1883). *Thus Spoke Zarathustra*.
+    -   &Uuml;bermensch
 -   Haldane, J.B.S. (1924). [Daedalus; or, Science and the Future](http://bactra.org/Daedalus.html).
 -   Russell, B. (1924). [Icarus, or the future of science](http://bactra.org/Icarus.html).
 -   Huxley, Julian (1957). [Transhumanism](https://web.archive.org/web/20160625132722/http://www.transhumanism.org/index.php/WTA/more/huxley).
