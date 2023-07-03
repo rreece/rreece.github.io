@@ -545,6 +545,9 @@ Economics
 -   Markowitz, H.M. (2005). Market efficiency: A theoretical distinction and so what? [^Markowitz2005]
 -   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
 -   Kwok, Y.K. (2017). Lecture notes: [Fundamentals of Mathematical Finance](https://www.math.hkust.edu.hk/~maykwok/MATH4512.htm).
+-   Das, S.R. (2017). [Being mean with variance: Markowitz optimization](https://srdas.github.io/MLBook/PortfolioOptimization.html).
+-   Tam, A.S. (2021). [Lagrangians and portfolio optimization](https://www.adrian.idv.hk/2021-06-22-kkt/).
+-   Armerin, F. (2023). Lecture: [More on mean-variance analysis](https://people.kth.se/~armerin/FinInsMathRwanda/Lecture10.pdf).
 
 [^Elton2014]: @Elton_2014_Modern_Portfolio_Theory_and_Investment_Analysis\.
 [^Markowitz1952]: @Markowitz_1952_Portfolio_selection\.

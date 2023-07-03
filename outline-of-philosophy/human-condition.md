@@ -2310,6 +2310,7 @@ Nihilism
     -   *The World as Will and Representation*, Vol. 1 (1818), Vol. 2 (1844) [^SchopenhauerWWR]
     -   Pessimism
     -   Buddhism
+    -   Janaway, C. (1999). Schopenhauer's pessimism. [^Janaway1999]
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
     -   Nietzsche called out Christianity, Buddhism, and Schopenhauer as all
         being nihilistic and contrasted it with his Will to power.
@@ -2331,6 +2332,7 @@ Carl Sagan discussing Nietzsche:
 >   undermined in the process, is that altogether such a loss? Is there not
 >   cause to welcome it as a maturing and character-building experience? [^Sagan1996p16]
 
+[^Janaway1999]: @Janaway_1999_Schopenhauers_pessimism\.
 [^Sagan1996p16]: @Sagan_1997_The_Demon_Haunted_World_Science_as_a_Candle\, p. 16.
 [^SchopenhauerFFR]: @Schopenhauer_2015_On_the_Fourfold_Root_of_the_Principle\.
 [^SchopenhauerWWR]: @Schopenhauer_2014_The_World_as_Will_and_Representation_Vol1_and_2\.
