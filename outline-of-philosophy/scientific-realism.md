@@ -129,6 +129,14 @@ Realism and antirealism
 
 ![Depiction of the scene in the Allegory of the Cave.](img/allegory-of-the-cave.jpg){#fig:allegory-of-the-cave}
 
+Aquinas on truth:
+
+>   Moreover, that there is truth is self-evident,
+>   because whoever denies that there is truth concedes that there is truth,
+>   for if there is no truth, then it is true that there is no truth.
+>   But if something is true, then it follows that there is truth. [^Aquinas1485Part1]
+
+[^Aquinas1485Part1]: *Summa Theologiae*, Part One.
 [^RepublicVII514]: Plato, *Republic VII* 514--520, @Cooper_1997_Plato_Complete_works\, p. 1132--7.
 
 
@@ -1685,6 +1693,12 @@ Pragmatism
 -   Robert Brandom (b. 1950)
 
 Peirce:
+
+>   The opinion which is fated to be ultimately agreed to by all who investigate,
+>   is what we mean by the truth, and the object represented in this opinion is
+>   the real. That is the way I would explain reality.
+
+and
 
 >   Hence, the sole object of inquiry is the settlement of opinion. 
 >   We may fancy that this is not enough for us,

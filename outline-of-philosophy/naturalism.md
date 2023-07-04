@@ -751,9 +751,25 @@ See also:
 
 ### Criticism
 
+Aquinas:
+
+>   Whether sacred doctrine is nobler than other sciences?
+>   
+>   Objection 1: It seems that sacred doctrine is not nobler than other sciences; for the nobility of a science depends on the certitude it establishes. But other sciences, the principles of which cannot be doubted, seem to be more certain than sacred doctrine; for its principles---namely, articles of faith---can be doubted. Therefore other sciences seem to be nobler.
+>
+>   ...
+>   
+>   On the contrary, Other sciences are called the handmaidens of this one: "Wisdom sent her maids to invite to the tower" (Prov. 9:3).
+>   
+>   I answer that, Since this science is partly speculative and partly practical, it transcends all others speculative and practical. Now one speculative science is said to be nobler than another, either by reason of its greater certitude, or by reason of the higher worth of its subject-matter. In both these respects this science surpasses other speculative sciences; in point of greater certitude, because other sciences derive their certitude from the natural light of human reason, which can err; whereas this derives its certitude from the light of divine knowledge, which cannot be misled: in point of the higher worth of its subject-matter because this science treats chiefly of those things which by their sublimity transcend human reason; while other sciences consider only those things which are within reason's grasp. Of the practical sciences, that one is nobler which is ordained to a further purpose, as political science is nobler than military science; for the good of the army is directed to the good of the State. But the purpose of this science, in so far as it is practical, is eternal bliss; to which as to an ultimate end the purposes of every practical science are directed. Hence it is clear that from every standpoint, it is nobler than other sciences.
+>   
+>   Reply to Objection 1: It may well happen that what is in itself the more certain may seem to us the less certain on account of the weakness of our intelligence, "which is dazzled by the clearest objects of nature; as the owl is dazzled by the light of the sun" (Metaph. ii, lect. i). Hence the fact that some happen to doubt about articles of faith is not due to the uncertain nature of the truths, but to the weakness of human intelligence; yet the slenderest knowledge that may be obtained of the highest things is more desirable than the most certain knowledge obtained of lesser things, as is said in de Animalibus xi. [^Aquinas1947Part1Q1]
+
+-   Aquinas, T. (1947). [*Summa Theologica*](https://www.ccel.org/a/aquinas/summa/FP.html).
 -   Koons, R.C. (2000). The incompatibility of naturalism and scientific realism. [^Koons2000]
 -   Paul, L.A. (2012). Metaphysics as modeling: the handmaiden’s tale. [^Paul2012]
 
+[^Aquinas1947Part1Q1]: Aquinas, T. (1947). [*Summa Theologica*](https://www.ccel.org/a/aquinas/summa/FP.html), Part 1, Q. 1.
 [^Koons2000]: @Koons_2000_The_incompatibility_of_naturalism_and_scientific\.
 [^Paul2012]: @Paul_2012_Metaphysics_as_modeling_the_handmaidens_tale\.
 
