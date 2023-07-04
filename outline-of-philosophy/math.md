@@ -411,7 +411,8 @@ See also:
 -   [G&ouml;del's completeness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
     -   Establishes a correspondence between semantic truth and syntactic
         provability in first-order logic.
--   Awodey, S. & Forssell, H. (2013). First-order logical duality. [^Awodey2013]
+    -   Awodey, S. & Forssell, H. (2013). First-order logical duality. [^Awodey2013]
+    -   [Lindstr&ouml;m's theorem](https://en.wikipedia.org/wiki/Lindstr%C3%B6m%27s_theorem)
 -   No first-order theory has the strength to uniquely describe a
     structure with an infinite domain, such as the natural numbers or the
     real line.

@@ -1610,14 +1610,22 @@ Romanticism
 -   [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) (1712-1778)
 -   [William Jones](https://en.wikipedia.org/wiki/William_Jones_(philologist)) (1746-1794)
     -   See: [Comparative studies](#comparitive-studies)
--   [*Sturm und Drang*](https://en.wikipedia.org/wiki/Sturm_und_Drang) - "Storm and Drive"
-    -   Proto-romantic movement in German literature and music that occurred between the late 1760s through the early 1780s.
-    -   [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) (1749-1832)
-    -   Haydn and Mozart
 -   [Weimar Classicism](https://en.wikipedia.org/wiki/Weimar_Classicism)
--   [William Blake](https://en.wikipedia.org/wiki/William_Blake) (1757-1827)
--   [Lord Byron](https://en.wikipedia.org/wiki/Lord_Byron) (1788-1824)
--   [Harold Bloom](https://en.wikipedia.org/wiki/Harold_Bloom) (1930-2019)
+    -   [*Sturm und Drang*](https://en.wikipedia.org/wiki/Sturm_und_Drang) - "Storm and Drive"
+        -   Proto-romantic movement in German literature and music that occurred between the late 1760s through the early 1780s.
+    -   [Johann Wolfgang von Goethe](https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe) (1749-1832)
+    -   [Friedrich Schiller](https://en.wikipedia.org/wiki/Friedrich_Schiller) (1759-1805)
+    -   [Joseph Haydn](https://en.wikipedia.org/wiki/Joseph_Haydn) (1732-1809)
+    -   [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart) (1756-1791)
+-   [New German School](https://en.wikipedia.org/wiki/New_German_School)
+    -   [War of the Romantics](https://en.wikipedia.org/wiki/War_of_the_Romantics)
+    -   [Franz Liszt](https://en.wikipedia.org/wiki/Franz_Liszt) (1811-1886)
+    -   [Richard Wagner](https://en.wikipedia.org/wiki/Richard_Wagner) (1813-1883)
+-   British Romanticism
+    -   [William Blake](https://en.wikipedia.org/wiki/William_Blake) (1757-1827)
+    -   [Lord Byron](https://en.wikipedia.org/wiki/Lord_Byron) (1788-1824)
+-   American Romanticism
+    -   [Harold Bloom](https://en.wikipedia.org/wiki/Harold_Bloom) (1930-2019)
 
 William Jones, in his 1772 "Essay on the Arts called Imitative", was one of the
 first to propound an expressive theory of poetry, valorising expression over
