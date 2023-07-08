@@ -1348,6 +1348,23 @@ See also:
 -   't Hooft, G. (2021). An unorthodox view on quantum mechanics. [^tHooft2021]
 -   Chen, E.K. (2022). [The quantum wave function isn't real](https://iai.tv/articles/the-quantum-wave-function-isnt-real-auid-2117).
 
+
+From [Sabine Hossenfelder](https://www.youtube.com/watch?v=hpkgPJo_z6Y),
+some examples for models that violate measurement independence are here:
+
+C. H. Brans, International Journal of Theoretical Physics 27, 219 (1988)
+https://link.springer.com/article/10....
+T. N. Palmer,  Proc. Roy. Soc. A, 451, 585-608 (1995)
+https://arxiv.org/abs/quant-ph/9505025
+J. Degorre, S. Laplante, J. Roland, PRA 72, 062314 (2005)
+https://arxiv.org/abs/quant-ph/0507120
+M. J. W. Hall,  Phys. Rev. Lett. 105, 250404 (2010)
+https://arxiv.org/abs/1007.5518
+G. S. Ciepielewski, E. Okon, D. Sudarsky
+https://arxiv.org/abs/2008.00631
+S. Donadi, S. Hossenfelder, PRA 106, 2 (2022)
+https://arxiv.org/abs/2010.01327
+
 [^tHooft2021]: @tHooft_2021_An_unorthodox_view_on_quantum_mechanics\.
 
 
@@ -1356,6 +1373,16 @@ See also:
 -   MIT Technology Review. (2019). [A quantum experiment suggests there's no such thing as objective reality](https://www.technologyreview.com/2019/03/12/136684/a-quantum-experiment-suggests-theres-no-such-thing-as-objective-reality/).
     -   Proietti [^Proietti2019]
     -   Weinberg, J. et al. (2019). [Philosophers on a physics experiment that "suggests there's no such thing as objective reality"](http://dailynous.com/2019/03/21/philosophers-physics-experiment-suggests-theres-no-thing-objective-reality/). *Daily Nous*. March 21, 2019.
+
+Press release for [The Nobel Prize in Physics 2022](https://www.nobelprize.org/uploads/2022/10/press-physicsprize2022-2.pdf):
+
+>   This means that quantum mechanics cannot be replaced by a theory that
+>   uses hidden variables.
+
+*which is wrong!* The violation of Bell's inequality means that QM
+cannot be explained by fully *local hidden variables*.
+Bohmian mechanics exists as a counter example that hidden variables
+can explain QM, but require a non-local guiding equation.
 
 [^Proietti2019]: @Proietti_2019_Experimental_test_of_local_observer_independence\.
 
