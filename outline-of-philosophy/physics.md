@@ -870,7 +870,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
 [^Malament1996]: @Malament_1996_In_defence_of_dogma_Why_there_cannot_be\.
 [^Ruetsche2002]: @Ruetsche_2002_Interpreting_quantum_field_theory\.
-[^Seidewitz2017]: @Seidewitz_2017_Avoiding_Haags_Theorem_with_Parameterized_Quantum\.
+[^Seidewitz2017]: @Seidewitz_2017_Avoiding_Haags_theorem_with_parameterized_quantum\.
 [^Teller1997p115]: @Teller_1997_An_Interpretive_Introduction_to_Quantum_Field\, p. 115.
 
 

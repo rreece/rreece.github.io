@@ -1746,6 +1746,7 @@ Comparative studies
 
 -   [Buddhism vs. Stoicism: Compare and Contrast](https://nonzero.org/post/buddhism-stoicism-pigliucci)
 -   [Stoicism & Buddhism: Lessons, Similarities and Differences](https://dailystoic.com/stoicism-buddhism/)
+-   [Ryan Holiday inteviews Sam Harris on Stoicism and mindfulness practice](https://www.youtube.com/watch?v=VQtMlktVLt4)
 
 
 ### Eastern and modern western philosophy
@@ -2222,18 +2223,20 @@ Existentialism
     -   Zizek, S. (2012). [If there is a God, then anything is permitted](https://www.abc.net.au/religion/if-there-is-a-god-then-anything-is-permitted/10100616).
     -   "The Grand Inquisitor" in *The Brothers Karamazov* (1880)
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
+    -   *The Gay Science* (1882)
+        -   Leiter, B. (2019). The death of God and the death of morality. [^Leiter2019]
     -   *Thus Spoke Zarathustra* (1883)
         -   Modernism and alienation
         -   "God is dead"
         -   &Uuml;bermensch
     -   *Beyond Good and Evil* (1886)
     -   *On the Genealogy of Morality* (1887)
+    -   *Twilight of the Idols, or, How to Philosophize with a Hammer* (1889)
+        -   Zumbrunnen, J. (2002). "Courage in the face of reality": Nietzsche's admiration for Thucydides. [^Zumbrunnen2002]
     -   *The Antichrist* (1888; first published in 1895)
         -   Revaluation of all values
     -   *Ecce Homo* (1888; first published in 1908)
         -   "the mouth of the first immoralist"
-    -   Zumbrunnen, J. (2002). "Courage in the face of reality": Nietzsche's admiration for Thucydides. [^Zumbrunnen2002]
-    -   Leiter, B. (2019). The death of God and the death of morality. [^Leiter2019]
 
 [^Leiter2019]: @Leiter_2019_The_death_of_God_and_the_death_of_morality\.
 [^Zumbrunnen2002]: @Zumbrunnen_2002_Courage_in_the_face_of_reality_Nietzsches\.
