@@ -2195,6 +2195,7 @@ $$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i})
         -   bet and card abstraction
         -   MCCFR used to find a solution of the abstracted game: blueprint
     -   Brown, N. & Sandholm, T. (2019). [Solving imperfect-information games via discounted regret minimization](https://arxiv.org/abs/1809.04040). [^Brown2019SIIG]
+        -   LCFR+ is worse than CFR+ or LCFR.
     -   Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). [Deep counterfactual regret minimization](https://arxiv.org/abs/1811.00164). [^Brown2019DCRM]
 -   Pluribus
     -   Brown, N. & Sandholm, T. (2019). [Superhuman AI for multiplayer poker](https://www.science.org/doi/10.1126/science.aay2400). [^Brown2019Pluribus]

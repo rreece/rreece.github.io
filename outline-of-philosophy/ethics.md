@@ -679,7 +679,12 @@ Waves:
         -   American Temperance Society (ATS)
         -   Woman's Christian Temperance Union (WCTU)
 2.  Women's liberation movement (1960s-1980s)
-    -   de Beauvoir, S. (1949). *The Second Sex*.
+    -   Simone de Beauvoir (1908-1986)
+        -   de Beauvoir, S. (1949). *The Second Sex*.
+    -   Betty Friedan (1921-2006)
+        -   Friedan, B. (1963). *The Feminine Mystique*.
+    -   Gloria Steinem (b. 1934)
+        -   Steinem, G. (1969). [After black power, women's liberation](https://web.archive.org/web/20130101115011/http://nymag.com/news/politics/46802/).
     -   FDA approves the first birth control pill, Enovid in 1960.
     -   [*Civil Rights Act of 1964*](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964)
     -   Thomson, J.J. (1971). [A defense of abortion](https://en.wikipedia.org/wiki/A_Defense_of_Abortion). [^Thomson1971]

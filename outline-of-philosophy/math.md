@@ -828,7 +828,7 @@ Platonism
 >   It has already been,              
 >   in the ages before us. [^Ecclesiastes_1_9]
 
--   TODO
+-   Podnieks, K. (1992). [Platonism, intuition, and the nature of mathematics](http://web.archive.org/web/20070819181740/http://www.ltn.lv/~podnieks/gt1.html#twin).
 
 [^Ecclesiastes_1_9]: *Ecclesiastes* 1:9--10 (NRSV).
 

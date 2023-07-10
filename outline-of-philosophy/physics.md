@@ -1352,19 +1352,19 @@ See also:
 From [Sabine Hossenfelder](https://www.youtube.com/watch?v=hpkgPJo_z6Y),
 some examples for models that violate measurement independence are here:
 
-C. H. Brans, International Journal of Theoretical Physics 27, 219 (1988)
-https://link.springer.com/article/10....
-T. N. Palmer,  Proc. Roy. Soc. A, 451, 585-608 (1995)
-https://arxiv.org/abs/quant-ph/9505025
-J. Degorre, S. Laplante, J. Roland, PRA 72, 062314 (2005)
-https://arxiv.org/abs/quant-ph/0507120
-M. J. W. Hall,  Phys. Rev. Lett. 105, 250404 (2010)
-https://arxiv.org/abs/1007.5518
-G. S. Ciepielewski, E. Okon, D. Sudarsky
-https://arxiv.org/abs/2008.00631
-S. Donadi, S. Hossenfelder, PRA 106, 2 (2022)
-https://arxiv.org/abs/2010.01327
+-   Brans , C.H. (1988). [Bell's theorem does not eliminate fully causal hidden variables](https://link.springer.com/article/10.1007/BF00670750). [^Brans1988]
+-   Palmer, T.N. (1995). [A local deterministic model of quantum spin measurement](https://arxiv.org/abs/quant-ph/9505025). [^Palmer1995]
+-   Degorre, J., Laplante, S., & Roland, J. (2005). [Simulating quantum correlations as a distributed sampling problem](https://arxiv.org/abs/quant-ph/0507120). [^Degorre2005]
+-   Hall, M.J.W. (2010). [Local deterministic model of singlet state correlations based on relaxing measurement independence](https://arxiv.org/abs/1007.5518). [^Hall2010]
+-   Ciepielewski, G.S, Okon, E., & Sudarsky, D. (2020). [On superdeterministic rejections of settings independence](https://arxiv.org/abs/2008.00631). [^Ciepielewski2020]
+-   Donadi, S. & Hossenfelder, S. (2022). [A toy model for local and deterministic wave-function collapse](https://arxiv.org/abs/2010.01327). [^Donadi2022]
 
+[^Brans1988]: @Brans_1988_Bells_theorem_does_not_eliminate_fully_causal\.
+[^Ciepielewski2020]: @Ciepielewski_2020_On_superdeterministic_rejections_of_settings\.
+[^Degorre2005]: @Degorre_2005_Simulating_quantum_correlations_as_a_distributed\.
+[^Donadi2022]: @Donadi_2022_A_toy_model_for_local_and_deterministic_wave\.
+[^Hall2010]: @Hall_2010_Local_deterministic_model_of_singlet_state\.
+[^Palmer1995]: @Palmer_1995_A_local_deterministic_model_of_quantum_spin\.
 [^tHooft2021]: @tHooft_2021_An_unorthodox_view_on_quantum_mechanics\.
 
 
