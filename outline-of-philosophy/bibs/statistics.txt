@@ -140,6 +140,7 @@ Halverson, J., Maiti, A., & Stoner, K. (2020). Neural networks and quantum field
 Hanley, J.A. & Lippman-Hand, A. (1983). If nothing goes wrong, is everything all right?: Interpreting zero numerators. *JAMA*, 249(13), 1743--1745.
 Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. *Econometrica*, 68, 1127--1150. https://www.ma.imperial.ac.uk/~dturaev/Hart0.pdf
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
+Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J. (2022). Surprises in high-dimensional ridgeless least squares interpolation. *Annals of Statistics*, 50, 949. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481183/
 He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image recognition. https://arxiv.org/abs/1512.03385
 Heinrich, J. & Lyons, L. (2007). Systematic errors. *Annual Reviews of Nuclear and Particle Science*, 57, 145--169. https://www.annualreviews.org/doi/abs/10.1146/annurev.nucl.57.090506.123052
 Heinrich, J. & Silver, D. (2016). Deep reinforcement learning from self-play in imperfect-information games. https://arxiv.org/abs/1603.01121

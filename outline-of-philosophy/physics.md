@@ -1406,7 +1406,7 @@ The standard model of particle physics
 -   [European Organization for Nuclear Research (CERN)](https://en.wikipedia.org/wiki/CERN) (est. 1954)
 -   [Carlo Rubbia](https://en.wikipedia.org/wiki/Carlo_Rubbia) (b. 1934)
 -   [SLAC National Accelerator Laboratory](https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory) (est. 1962)
--   [$J/\psi$ meson](https://en.wikipedia.org/wiki/J/psi_meson) - "November Revolution" in particle physics (1974)
+-   [$J/\psi$ meson](https://en.wikipedia.org/wiki/J/psi_meson) - "November Revolution" (1974)
 -   [Fermilab](https://en.wikipedia.org/wiki/Fermilab) (est. 1969)
 -   [Robert R. Wilson](https://en.wikipedia.org/wiki/Robert_R._Wilson) (1914-2000)
 -   [Physics Problems for the Next Millennium](https://web.archive.org/web/20070527084922/http://feynman.physics.lsa.umich.edu/strings2000/millennium.html)
@@ -1638,7 +1638,9 @@ See also:
 
 ### Quantum gravity
 
--   Start of string phenomenology [^Candelas1985]
+-   Penrose, R. (1971). [Angular momentum: an approach to combinatorial spacetime](https://math.ucr.edu/home/baez/penrose/). [^Penrose1971]
+-   Candelas, P., Horowitz, G.T., Strominger, A., & Witten, E. (1985). Vacuum configurations for superstrings. [^Candelas1985]
+    -   Start of string phenomenology
 -   Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. [^Maldacena1998]
 -   Witten, E. (1998). Anti-de Sitter space and holography. [^Witten1998]
 -   Ney, A. (2021). From quantum entanglement to spatiotemporal distance. [^Ney2021c]
@@ -1646,6 +1648,7 @@ See also:
 [^Candelas1985]: @Candelas_1985_Vacuum_configurations_for_superstrings\.
 [^Maldacena1998]: @Maldacena_1998_The_large_N_limit_of_superconformal_field\.
 [^Ney2021c]: @Ney_2021_From_quantum_entanglement_to_spatiotemporal\.
+[^Penrose1971]: @Penrose_1971_Angular_momentum_an_approach_to_combinatorial\.
 [^Witten1998]: @Witten_1998_Anti_de_Sitter_space_and_holography\.
 
 
@@ -1718,6 +1721,7 @@ Gravity and cosmology
 -   [Hulse–Taylor binary pulsar](https://en.wikipedia.org/wiki/Hulse%E2%80%93Taylor_binary)
 -   LIGO
 -   [Multi-messenger astronomy](https://en.wikipedia.org/wiki/Multi-messenger_astronomy)
+-   NANOGrav
 
 
 ### Dark matter

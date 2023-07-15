@@ -206,6 +206,7 @@ See also:
     -   in what is now Khuzestan Province, Iran
 -   [House of Wisdom](https://en.wikipedia.org/wiki/House_of_Wisdom)
     -   in Abbasid-era Baghdad, Iraq
+-   [Muhammad ibn Musa al-Khwarizmi](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi) (c. 780-850)
 -   [Ibn al-Haytham](http://en.wikipedia.org/wiki/Alhazen) (965-1040) AKA "Alhazen"
     -   *Book of Optics*
     -   First to demonstrate the success of the intromission theory over the extramission theory of vision.

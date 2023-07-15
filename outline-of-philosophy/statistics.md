@@ -1553,6 +1553,7 @@ Deep learning
 -   Bubeck, S. & Sellke, M. (2023). [A universal law of robustness via isoperimetry](https://dl.acm.org/doi/full/10.1145/3578580). [^Bubeck2023]
 -   Bach, F. (2022). [*Learning Theory from First Principles*](https://www.di.ens.fr/~fbach/ltfp_book.pdf). [^Bach2022p225]
 -   Steinhardt, J. (2022). [More is different for AI](https://bounded-regret.ghost.io/more-is-different-for-ai/). [^Steinhardt2022]
+-   Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J. (2022). [Surprises in high-dimensional ridgeless least squares interpolation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481183/). [^Hastie2022]
 -   Henighan, T. et al. (2023). [Superposition, memorization, and double descent](https://transformer-circuits.pub/2023/toy-double-descent/index.html). [^Henighan2023]
 
 [^Bach2022p225]: @Bach_2022_Learning_Theory_from_First_Principles\, p. 225--230.
@@ -1560,6 +1561,7 @@ Deep learning
 [^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
 [^Bubeck2023]: @Bubeck_2023_A_universal_law_of_robustness_via_isoperimetry\.
 [^Dar2021]: @Dar_2021_A_farewell_to_the_bias_variance_tradeoff\.
+[^Hastie2022]: @Hastie_2022_Surprises_in_high_dimensional_ridgeless_least\.
 [^Henighan2023]: @Henighan_2023_Superposition_memorization_and_double_descent\.
 [^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
 [^Nagarajan2021]: @Nagarajan_2021_Explaining_generalization_in_deep_learning\.
