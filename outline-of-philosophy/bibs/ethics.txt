@@ -6,6 +6,7 @@ Black, M. (1964). The gap between "is" and "should". *Philosophical Review*, 73,
 Brown, S.R. (2008). *Moral Virtue and Nature: A defense of ethical naturalism*. Continuum.
 Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. *Journal of Economic Theory*, 29, 185--201.
 Churchland, P.S. (2011). *What Neuroscience Tells Us About Morality*. Princeton University Press.
+Clifford, W.K. (1877). The ethics of belief. *Contemporary Review*, 29, 289. https://web.archive.org/web/20190427051422/https://www.uta.edu/philosophy/faculty/burgess-jackson/Clifford.pdf
 Coqueret, G. & Milhau, V. (2014). Estimating covariance matrices for portfolio optimization. https://www.gcoqueret.com/files/Estim_cov.pdf
 Cushman, F. (2013). Action, outcome, and value. *Personality and Social Psychology Review*, 17, 273--292.
 de Beauvoir, S. (1949). The Second Sex.

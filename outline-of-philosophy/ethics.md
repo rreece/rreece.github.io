@@ -283,6 +283,7 @@ Plato:
 
 ### Discussion
 
+-   Clifford, W.K. (1877). [The ethics of belief](https://web.archive.org/web/20190427051422/https://www.uta.edu/philosophy/faculty/burgess-jackson/Clifford.pdf). [^Clifford1877]
 -   Victor Kraft (1880-1975)
     -   The positivist with ethics!
 -   Rand's Objectivism
@@ -301,6 +302,7 @@ Plato:
 -   Structuralism
 
 [^Bjornsson2010]: @Bjornsson_2010_Metaethical_contextualism_defended\.
+[^Clifford1877]: @Clifford_1877_The_ethics_of_belief\.
 [^Railton1986]: @Railton_1986_Moral_realism\.
 [^Scanlon2000]: @Scanlon_2000_What_We_Owe_to_Each_Other\.
 

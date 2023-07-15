@@ -1344,10 +1344,10 @@ See also:
 ### Other interpretations
 
 -   Relational quantum mechanics
+    -   Martin-Dussaud, P., Rovelli, C., & Zalamea, F. (2018). [The notion of locality in relational quantum mechanics](https://arxiv.org/abs/1806.08150). [^MartinDussaud2018]
 -   Transactional quantum mechanics
--   't Hooft, G. (2021). An unorthodox view on quantum mechanics. [^tHooft2021]
--   Chen, E.K. (2022). [The quantum wave function isn't real](https://iai.tv/articles/the-quantum-wave-function-isnt-real-auid-2117).
-
+-   Superdeterminism
+    -   't Hooft, G. (2021). [An unorthodox view on quantum mechanics](https://arxiv.org/abs/2104.03179). [^tHooft2021]
 
 From [Sabine Hossenfelder](https://www.youtube.com/watch?v=hpkgPJo_z6Y),
 some examples for models that violate measurement independence are here:
@@ -1392,21 +1392,23 @@ The standard model of particle physics
 
 ### History of particle physics
 
--   [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) (1871-1937)
--   [Rolf Wider&oslash;e](https://en.wikipedia.org/wiki/Rolf_Wider%C3%B8e) (1902-1996)
--   [Ernest Lawrence](https://en.wikipedia.org/wiki/Ernest_Lawrence) (1901-1958)
 -   [Particle accelerator](https://en.wikipedia.org/wiki/Particle_accelerator)
 -   [Particle physics](https://en.wikipedia.org/wiki/Particle_physics)
--   [Brookhaven National Laboratory](https://en.wikipedia.org/wiki/Brookhaven_National_Laboratory)
+-   [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) (1871-1937)
+-   [Rolf Wider&oslash;e](https://en.wikipedia.org/wiki/Rolf_Wider%C3%B8e) (1902-1996)
+-   [Lawrence Berkeley National Laboratory](https://en.wikipedia.org/wiki/Lawrence_Berkeley_National_Laboratory) (est. 1931)
+-   [Ernest Lawrence](https://en.wikipedia.org/wiki/Ernest_Lawrence) (1901-1958)
 -   [Luis Walter Alvarez](https://en.wikipedia.org/wiki/Luis_Walter_Alvarez) (1911-1988)
+-   [Brookhaven National Laboratory](https://en.wikipedia.org/wiki/Brookhaven_National_Laboratory) (est. 1947)
 -   [Murray Gell-Mann](https://en.wikipedia.org/wiki/Murray_Gell-Mann) (1929-219)
     -    First *Review of Particle Physics* (1957)
--   [SLAC National Accelerator Laboratory](https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory)
--   [$J/\psi$ meson](https://en.wikipedia.org/wiki/J/psi_meson) - "November Revolution" in particle physics (1974)
--   [European Organization for Nuclear Research (CERN)](https://en.wikipedia.org/wiki/CERN)
+    -   [*Review of Particle Physics*](https://pdg.lbl.gov/2021/reviews/contents_sports.html) [^PDG2021]
+-   [European Organization for Nuclear Research (CERN)](https://en.wikipedia.org/wiki/CERN) (est. 1954)
 -   [Carlo Rubbia](https://en.wikipedia.org/wiki/Carlo_Rubbia) (b. 1934)
--   [Fermilab](https://en.wikipedia.org/wiki/Fermilab)
--   [*Review of Particle Physics*](https://pdg.lbl.gov/2021/reviews/contents_sports.html) [^PDG2021]
+-   [SLAC National Accelerator Laboratory](https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory) (est. 1962)
+-   [$J/\psi$ meson](https://en.wikipedia.org/wiki/J/psi_meson) - "November Revolution" in particle physics (1974)
+-   [Fermilab](https://en.wikipedia.org/wiki/Fermilab) (est. 1969)
+-   [Robert R. Wilson](https://en.wikipedia.org/wiki/Robert_R._Wilson) (1914-2000)
 -   [Physics Problems for the Next Millennium](https://web.archive.org/web/20070527084922/http://feynman.physics.lsa.umich.edu/strings2000/millennium.html)
 
 [^PDG2021]: @Zyla_2021_Review_of_Particle_Physics\.

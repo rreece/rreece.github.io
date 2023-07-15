@@ -1542,7 +1542,7 @@ Deep learning
 ### Deep double descent
 
 -   Bias and variance trade-off. See [Bias and variance](#bias-and-variance).
--   MSE and model capacity
+-   MSE vs model capacity
 -   Belkin, M., Hsu, D., Ma, S., & Mandal, S. (2019). [Reconciling modern machine-learning practice and the classical bias-variance trade-off](https://arxiv.org/abs/1812.11118). [^Belkin2019]
 -   Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). [Deep double descent: Where bigger models and more data hurt](https://arxiv.org/abs/1912.02292). [^Nakkiran2019]
     -   [Deep Double Descent](https://openai.com/blog/deep-double-descent/).  *OpenAI Blog*.
@@ -2355,6 +2355,8 @@ Roberts:
 ### Relationship to statistical mechanics
 
 -   Logistic/softmax and Boltzman factors
+-   Opper, M. & Kinzel, W. (1996). [Statistical mechanics of generalization](https://gwern.net/doc/ai/nn/1996-opper.pdf). [^Opper1996]
+-   Opper, M. (2001). [Learning to generalize](https://t.co/3UYIwKvKeu). [^Opper2001]
 -   Wang, L. (2018). [Generative models for physicists](https://wangleiphy.github.io/lectures/PILtutorial.pdf).
 -   Bahri [^Bahri2020]
 -   Halverson [^Halverson2020]
@@ -2370,6 +2372,8 @@ Roberts:
 [^Cantwell2022]: @Cantwell_2022_Approximate_sampling_and_estimation_of_partition\.
 [^Dinan2023]: @Dinan_2023_Effective_theory_of_transformers_at_initialization\.
 [^Halverson2020]: @Halverson_2020_Neural_networks_and_quantum_field_theory\.
+[^Opper1996]: @Opper_1996_Statistical_mechanics_of_generalization\.
+[^Opper2001]: @Opper_2001_Learning_to_generalize\.
 [^Roberts2021PDLT]: @Roberts_2021_The_Principles_of_Deep_Learning_Theory\.
 
 
