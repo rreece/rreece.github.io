@@ -265,6 +265,7 @@ Moore & Kelle:
 -   Breaks distinction between kinship and tribe. Anyone can join.
 -   [Paul the Apostle](https://en.wikipedia.org/wiki/Paul_the_Apostle) (c. 5-64 CE)
 -   [Gnosticism](https://en.wikipedia.org/wiki/Gnosticism)
+    -   [Mandaeism](https://en.wikipedia.org/wiki/Mandaeism)
 -   [Eusebius](https://en.wikipedia.org/wiki/Eusebius) (c. 260/5 - 339/340 CE)
 -   [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (354-430 CE)
 -   [East-West Schism](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism) (1054 CE)
@@ -297,8 +298,18 @@ Moore & Kelle:
 
 -   [Islam](https://en.wikipedia.org/wiki/Islam) (began 7th century CE)
 -   [Muhammad](https://en.wikipedia.org/wiki/Muhammad) (c. 570-632 CE)
+-   [Quran](https://en.wikipedia.org/wiki/Quran) - "recitation"
+-   [Hadith](https://en.wikipedia.org/wiki/Hadith) - "discourse"
 -   [Sunni Islam](https://en.wikipedia.org/wiki/Sunni_Islam) - 75-90% of living Muslims
+    -   Rashidun Caliphate (632-661)
+        -   [Abu Bakr](https://en.wikipedia.org/wiki/Abu_Bakr) (573-634)
+    -   Umayyad Caliphate (661-750)
+    -   Abbasid Caliphate (750-1517)
+        -   [House of Wisdom](https://en.wikipedia.org/wiki/House_of_Wisdom)
+    -   Ottoman Caliphate (1517-1924)
 -   [Shia Islam](https://en.wikipedia.org/wiki/Shia_Islam) - mainly in Iran and Iraq
+    -   [Ali](https://en.wikipedia.org/wiki/Ali) (600-661)
+    -   [Fatima](https://en.wikipedia.org/wiki/Fatima) (605/15-632)
     -   [Zaydism](https://en.wikipedia.org/wiki/Zaydism)
     -   [Isma'ilism](https://en.wikipedia.org/wiki/Isma%27ilism)
     -   [Safavid conversion of Iran to Shia Islam](https://en.wikipedia.org/wiki/Safavid_conversion_of_Iran_to_Shia_Islam)
