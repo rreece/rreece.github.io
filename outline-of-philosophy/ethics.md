@@ -676,10 +676,13 @@ Feminism
 Waves:
 
 1.  Women's suffrage movements (19th and early 20th centuries)
+    -   [Seneca Falls Convention](https://en.wikipedia.org/wiki/Seneca_Falls_Convention) (1848)
+        -   [Declaration of Sentiments](https://en.wikipedia.org/wiki/Declaration_of_Sentiments)
     -   [*Nineteenth Amendment to the US Constitution*](https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution) (1920)
     -   Intersection with the [Temperance movement in the US](https://en.wikipedia.org/wiki/Temperance_movement_in_the_United_States)
         -   American Temperance Society (ATS)
         -   Woman's Christian Temperance Union (WCTU)
+    -   [Margaret Sanger](https://en.wikipedia.org/wiki/Margaret_Sanger) (1879-1966)
 2.  Women's liberation movement (1960s-1980s)
     -   Simone de Beauvoir (1908-1986)
         -   de Beauvoir, S. (1949). *The Second Sex*.
@@ -694,6 +697,7 @@ Waves:
     -   [*Roe v. Wade*](https://en.wikipedia.org/wiki/Roe_v._Wade) (1973)
     -   [*Equal Credit Opportunity Act*](https://en.wikipedia.org/wiki/Equal_Credit_Opportunity_Act) (1974)
 3.  Third wave (1990s-2012)
+    -   [Rebecca Walker](https://en.wikipedia.org/wiki/Rebecca_Walker) (b. 1969)
     -   [Feminist sex wars](https://en.wikipedia.org/wiki/Feminist_sex_wars)
         -   Andrea Dworkin (1946-2005)
         -   Alice Walker (b. 1944)

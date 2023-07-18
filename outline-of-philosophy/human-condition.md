@@ -359,6 +359,7 @@ Hinduism
     3.  [&Amacr;j&imacr;vika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika) (now declined)
     4.  [Buddhism](https://en.wikipedia.org/wiki/Buddhism)
 -   The "Hindu synthesis" started to develop between 500 BCE and 300 CE.
+-   [Adi Shankara](https://en.wikipedia.org/wiki/Adi_Shankara) (c. 700-750)
 -   Today, Ved&amacr;nta and Yoga schools are most influentail in Hunduism,
     which has divided into four major [denominations](https://en.wikipedia.org/wiki/Hindu_denominations):
     1.  [Vaishnavism](https://en.wikipedia.org/wiki/Vaishnavism) - venerates Vishnu as the ultimate deity.
@@ -445,6 +446,7 @@ The [Trimurti](https://en.wikipedia.org/wiki/Trimurti):
     -   Restores cosmic order from chaos and protects the Dharma.
     -   [Rama](https://en.wikipedia.org/wiki/Rama) - the seventh avatar of Vishnu
     -   [Krishna](https://en.wikipedia.org/wiki/Krishna) - the eighth avatar of Vishnu
+    -   [Vishvarupa](https://en.wikipedia.org/wiki/Vishvarupa) - "universal form"
 -   [Shiva](https://en.wikipedia.org/wiki/Shiva) - the destroyer
     -   God of destruction, death, time, yoga, meditation, and arts.
 
@@ -458,7 +460,12 @@ Others:
     -   God of new beginnings, wisdom, luck, and remover of obstacles.
     -   Son of Shiva and Parvati.
 -   [Indra](https://en.wikipedia.org/wiki/Indra)
--   [Mahadevi AKA Shakti](https://en.wikipedia.org/wiki/Mahadevi)
+    -   God of sky, weather, lightening, and war.
+-   [Mahadevi AKA Shakti AKA Kali](https://en.wikipedia.org/wiki/Mahadevi)
+    -   Goddess of good cosmic energy.
+    -   Wife of Shiva.
+-   [Surya](https://en.wikipedia.org/wiki/Surya)
+    -   God of the sun.
 
 
 #### Pramana
