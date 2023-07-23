@@ -1348,6 +1348,7 @@ See also:
 -   Transactional quantum mechanics
 -   Superdeterminism
     -   't Hooft, G. (2021). [An unorthodox view on quantum mechanics](https://arxiv.org/abs/2104.03179). [^tHooft2021]
+-   Frauchiger, D. & Renner, R. (2018). [Quantum theory cannot consistently describe the use of itself](https://www.nature.com/articles/s41467-018-05739-8). [^Frauchiger2018]
 
 From [Sabine Hossenfelder](https://www.youtube.com/watch?v=hpkgPJo_z6Y),
 some examples for models that violate measurement independence are here:
@@ -1363,7 +1364,9 @@ some examples for models that violate measurement independence are here:
 [^Ciepielewski2020]: @Ciepielewski_2020_On_superdeterministic_rejections_of_settings\.
 [^Degorre2005]: @Degorre_2005_Simulating_quantum_correlations_as_a_distributed\.
 [^Donadi2022]: @Donadi_2022_A_toy_model_for_local_and_deterministic_wave\.
+[^Frauchiger2018]: @Frauchiger_2018_Quantum_theory_cannot_consistently_describe\.
 [^Hall2010]: @Hall_2010_Local_deterministic_model_of_singlet_state\.
+[^MartinDussaud2018]: @Martin_Dussaud_2018_The_notion_of_locality_in_relational_quantum\.
 [^Palmer1995]: @Palmer_1995_A_local_deterministic_model_of_quantum_spin\.
 [^tHooft2021]: @tHooft_2021_An_unorthodox_view_on_quantum_mechanics\.
 

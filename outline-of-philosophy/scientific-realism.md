@@ -537,12 +537,14 @@ magnified the discussion, when he claims that
 ### Scientific progress
 
 -   The growth of knowledge [^Popper2002pxvii]
+-   Chu, J.S. & Evans, J.A. (2021). [Slowed canonical progress in large fields of science](https://www.pnas.org/doi/full/10.1073/pnas.2021636118). [^Chu2021]
 
 See also:
 
 -   [Progress](naturalism.html#progress) in the Outline on Naturalism
 -   [Scientific knowledge](scientific-method.html#scientific-knowledge) in the Outline on the Scientific Method
 
+[^Chu2021]: @Chu_2021_Slowed_canonical_progress_in_large_fields\.
 [^Popper2002pxvii]: @Popper_2002_The_Logic_of_Scientific_Discovery\, p. xvii.
     Preface to first English edition, 1959.
 

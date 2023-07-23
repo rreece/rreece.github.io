@@ -53,6 +53,7 @@ Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). Efficient Monte Carlo 
 Burch, N. (2018). *Time and Space: Why imperfect information games are hard*. University of Alberta. https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf  [(Ph.D. thesis)]
 Burch, N., Moravcik, M., & Schmid, M. (2019). Revisiting CFR+ and alternating updates. *Journal of Artificial Intelligence Research*, 64, 429--443. https://www.jair.org/index.php/jair/article/download/11370/26477/
 Buzbas, E.O., Devezer, B., & Baumgaertner, B. (2022). The logical structure of experiments lays the foundation for a theory of reproducibility. https://www.biorxiv.org/content/10.1101/2022.08.10.503444v1
+Caballero, E., Gupta, K., Rish, I., & Krueger, D. (2022). Broken neural scaling laws. https://arxiv.org/abs/2210.14891
 Caldeira, J. & Nord, B. (2020). Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms. *Machine Learning: Science and Technology*, 2, 015002. https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3
 Calin, O. & Udriste, C. (2014). *Geometric Modeling in Probability and Statistics*. Springer Switzerland.
 Canatar, A., Bordelon, B., & Pehlevan, C. (2020). Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks. https://arxiv.org/abs/2006.13198

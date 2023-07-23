@@ -116,6 +116,15 @@ See also:
 [^Tollefsen1999]: @Tollefsen_1999_Princess_Elisabeth_and_the_problem_of_mind_body\.
 
 
+Externalism
+--------------------------------------------------------------------------------
+
+-   Carney, J. (2020). [Thinking avant la lettre: A Review of 4E Cognition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250653/). [^Carney2020]
+-   John Vervaeke
+
+[^Carney2020]: @Carney_2020_Thinking_avant_la_lettre_A_Review_of_4E\.
+
+
 Panpsychism
 --------------------------------------------------------------------------------
 
