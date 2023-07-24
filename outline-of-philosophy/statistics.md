@@ -1865,6 +1865,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). [Unlimiformer: Long-range transformers with unlimited length input](https://arxiv.org/abs/2305.01625). [^Bertsch2023]
     -   Mialon, G. et al. (2023). [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842). [^Mialon2023]
     -   Peng, B. et al. (2023). [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048). [^Peng2023]
+    -   Sun, Y. et al. (2023). [Retentive network: A successor to transformer for large language models](https://arxiv.org/abs/2307.08621). [^Sun2023]
 
 See also:
 
@@ -1908,6 +1909,7 @@ See also:
 [^Radford2019]: @Radford_2019_Language_models_are_unsupervised_multitask\.
 [^Rae2022]: @Rae_2022_Scaling_language_models_Methods_analysis\.
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
+[^Sun2023]: @Sun_2023_Retentive_network_A_successor_to_transformer\.
 [^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
 [^Tay2022]: @Tay_2022_Efficient_transformers_A_survey\.
 [^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.

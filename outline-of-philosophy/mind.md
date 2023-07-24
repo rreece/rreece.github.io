@@ -119,6 +119,7 @@ See also:
 Externalism
 --------------------------------------------------------------------------------
 
+-   Distributed cognition
 -   Carney, J. (2020). [Thinking avant la lettre: A Review of 4E Cognition](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250653/). [^Carney2020]
 -   John Vervaeke
 
