@@ -233,7 +233,7 @@ Number theory
         -   Euclidean space, $\mathbb{R}^n$
         -   complex numbers, $\mathbb{C}$
         -   set of all continuous functions from $\mathbb{R}$ to $\mathbb{R}$
-        -   power set of of natureal numbers, $P(\mathbb{N})$
+        -   power set of of natural numbers, $P(\mathbb{N})$
     -   The cardinality of the reals is the power set of the natural numbers:
         $C \equiv |\mathbb{R}| = |P(\mathbb{N})| = 2^{|\mathbb{N}|} = 2^{\aleph_0} > \aleph_0$
 -   [Continuum Hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) (CH)
@@ -413,34 +413,58 @@ See also:
         provability in first-order logic.
     -   Awodey, S. & Forssell, H. (2013). First-order logical duality. [^Awodey2013]
     -   [Lindstr&ouml;m's theorem](https://en.wikipedia.org/wiki/Lindstr%C3%B6m%27s_theorem)
+-   [Presburger arithmetic](https://en.wikipedia.org/wiki/Presburger_arithmetic)
+
+**Limitations**
+
 -   No first-order theory has the strength to uniquely describe a
     structure with an infinite domain, such as the natural numbers or the
     real line.
 -   In second-order logic, it is possible to define the addition and
     multiplication operations from the successor operation, but this
     cannot be done in the more restrictive setting of first-order logic.
-    -   TODO: find refs
+    -   B&egrave;s, A. (2002). [A survey of arithmetical definability](http://lacl.u-pec.fr/bes/publi/survey.pdf). [^Bes2002]
+    -   B&egrave;s, A. & Choffrut, C. (2022). [Decidability of definability issues in the theory of real addition](https://fi.episciences.org/10753). [^Bes2022]
 
 See also:
 
 -   [Number theory](#number-theory)
 
 [^Awodey2013]: @Awodey_2013_First_order_logical_duality\.
+[^Bes2002]: @Bes_2002_A_survey_of_arithmetical_definability\.
+[^Bes2022]: @Bes_2022_Decidability_of_definability_issues_in_the_theory\.
 [^Ewald2018]: @Ewald_2018_The_emergence_of_first_order_logic\.
 
 
 ### Second-order logic
 
 -   [Second-order logic](https://en.wikipedia.org/wiki/Second-order_logic)
--   [Second-order arithmetic](https://en.wikipedia.org/wiki/Second-order_arithmetic)
 -   [Second-order and higher-order logic](https://plato.stanford.edu/entries/logic-higher-order/), *SEP*
 -   Includes relation variables in addition to object variables and allows quantification over both.
     -   Extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
+-   Addition and multiplication are definabile in second-order logic.
+    -   [Peano arithmetic](https://en.wikipedia.org/wiki/Peano_axioms#Peano_arithmetic_as_first-order_theory), PA
+    -   [Second-order arithmetic](https://en.wikipedia.org/wiki/Second-order_arithmetic), $\mathrm{Z}_{2}$
 -   The power set can be written in terms of second-order logic.
     -   This second-order expressibility of the power-set operation permits the simulation of higher-order logic within second order. [^Enderton2009]
 -   Higher-order logics, type theory
     -   Russell's theory of types
     -   Alonzo Church's lambda calculus
+
+**Incompleteness**
+
+-   Second-order logic opens the door to G&ouml;del's incompleteness theorems.
+-   According to G&ouml;del's incompleteness theorems, the theory of PA (if consistent) is incomplete.
+-   TODO
+
+See also:
+
+-   [Model theory](#model-theory)
+-   [Incompleteness](#incompleteness)
+
+
+**Discussion**
+
 -   Michael Dummett
 -   Setwart Shapiro
     -   *Foundations without Foundationalism: A Case for Second-Order Logic* (1991) [^Shapiro1991]
@@ -456,12 +480,10 @@ See also:
         consequences of what you say you 'believe'... which is a major reason
         some mathematicians are suspicious of second-order logic. What does it
         mean to believe something whose consequences you can't derive?"
--   Jerzak, E. (2009). [Second-order logic, or: How I learned to stop worrying and love the incompleteness theorems](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Jerzak.pdf). [^Jerzak2009]
--   Bueno, O. (2010). [A defense of second-order logic](https://web.as.miami.edu/personal/obueno/Site/Online_Papers_files/SecnOrd_FINAL.pdf). [^Bueno2010]
-
-See also:
-
--   [Model theory](#model-theory)
+-   Ethan Jerzak
+    -   Jerzak, E. (2009). [Second-order logic, or: How I learned to stop worrying and love the incompleteness theorems](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Jerzak.pdf). [^Jerzak2009]
+-   Ot&aacute;vio Bueno
+    -   Bueno, O. (2010). [A defense of second-order logic](https://web.as.miami.edu/personal/obueno/Site/Online_Papers_files/SecnOrd_FINAL.pdf). [^Bueno2010]
 
 [^Bueno2010]: @Bueno_2010_A_defense_of_second_order_logic\.
 [^Enderton2009]: @Enderton_2009_Second_order_and_higher_order_logic\.

@@ -8,6 +8,8 @@ Baez, J.C. (2002). The octonions. *Bulletin of the American Mathematical Society
 Baez, J.C. & Dolan, J. (1995). Higher‐dimensional algebra and topological quantum field theory. *Journal of Mathematical Physics*, 36, 6073--6105. https://arxiv.org/abs/q-alg/9503002
 Baez, J.C. & Stay, M. (2009). Physics, topology, logic, and computation: A Rosetta Stone. https://arxiv.org/abs/0903.0340
 Bayes, T. (1736). *An Introduction to the Doctrine of Fluxions, and a Defence of the Mathematicians Against the Objections of the Author of The Analyst*. London. [(published anonymously)]
+B\`{e}s, A. (2002). A survey of arithmetical definability. In *A tribute to Maurice Boffa, Soc.Math* (pp. 1--54). Belgique. http://lacl.u-pec.fr/bes/publi/survey.pdf
+B\`{e}s, A. & Choffrut, C. (2022). Decidability of definability issues in the theory of real addition. *Fundamenta Informaticae*, 188, 15--39. https://fi.episciences.org/10753
 Bonevac, D. (2003). *Deduction: Introductory to Symbolic Logic* (2nd ed.). Blackwell.
 Bradley, T.D. (2018). What is applied category theory? https://arxiv.org/abs/1809.05923
 Brouwer, L.E.J. (1908). Unreliability of the logical principles. https://arxiv.org/abs/1511.01113
