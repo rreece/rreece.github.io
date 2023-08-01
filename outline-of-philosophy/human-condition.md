@@ -449,13 +449,16 @@ The [Trimurti](https://en.wikipedia.org/wiki/Trimurti):
     -   [Vishvarupa](https://en.wikipedia.org/wiki/Vishvarupa) - "universal form"
 -   [Shiva](https://en.wikipedia.org/wiki/Shiva) - the destroyer
     -   God of destruction, death, time, yoga, meditation, and arts.
+    -   [Virabhadra](https://en.wikipedia.org/wiki/Virabhadra)
+    -   [Sharabha](https://en.wikipedia.org/wiki/Sharabha)
+    -   [Hanuman](https://en.wikipedia.org/wiki/Hanuman)
 
 ![Shiva statue at CERN, near Building 40, [a gift from India](https://www.sanskritimagazine.com/vedic_science/shivas-cosmic-dance-nataraj-at-cern/).](img/cern-shiva.jpg){#fig:cern-shiva}
 
 Others:
 
 -   [Parvati](https://en.wikipedia.org/wiki/Parvati)
-    -   Goddess of power, nourishment, harmony, devotion, and motherhood.
+    -   Goddess of power, nourishment, harmony, devotion, and motherhood. Wife of Shiva.
 -   [Ganesha](https://en.wikipedia.org/wiki/Ganesha)
     -   God of new beginnings, wisdom, luck, and remover of obstacles.
     -   Son of Shiva and Parvati.
@@ -463,7 +466,7 @@ Others:
     -   God of sky, weather, lightening, and war.
 -   [Mahadevi AKA Shakti AKA Kali](https://en.wikipedia.org/wiki/Mahadevi)
     -   Goddess of good cosmic energy.
-    -   Wife of Shiva.
+    -   Also wife of Shiva? Form of Parvati?
 -   [Surya](https://en.wikipedia.org/wiki/Surya)
     -   God of the sun.
 
