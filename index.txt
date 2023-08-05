@@ -28,6 +28,7 @@ Get my r&eacute;sum&eacute; or CV:
 News
 --------------------------------------------------------------------------------
 
+-   Jun 2023: [Tenstorrent started offering inference as a service on various NLP tasks through EdenAI APIs](https://www.edenai.co/post/tenstorrent-nlp-solution-available-on-eden-ai), a project I lead technically.
 -   Oct 2022: I joined [Tenstorrent](https://tenstorrent.com/) as Staff Machine Learning Engineer.
 -   Apr 2022: I co-authored a blog about [Getting started with PyTorch BERT models on the Cerebras CS-2 System](https://cerebras.net/blog/getting-started-with-pytorch-bert-models-on-the-cerebras-cs-2-system/).
 -   Nov 2019: [Cerebras revealed its first product at Supercomputering 2019: the poweful CS-1 computer for AI](https://www.cerebras.net/a-successful-week-for-cerebras-at-supercomputing-2019/).
@@ -41,7 +42,7 @@ News
 -   Apr 2015: Continuing my postdoc with UCSC, I moved back to Geneva, Switerland
     to work at CERN during Run 2 of the LHC.
 -   Nov 2014:
-    I was awarded a 6 month fellowship, [US ATLAS Scholar](https://po.usatlas.bnl.gov/programoffice/scholars_2014.php),
+    I was awarded a 6 month fellowship, [US ATLAS Scholar](https://web.archive.org/web/20201101045859/https://po.usatlas.bnl.gov/programoffice/scholars_2014.php),
     to be at Lawrence Berkeley National Laboratory (LBL) in Berkeley, CA,
     continuing collaboration with the ATLAS Experiment.
 -   July 2013: I started a postdoctoral fellowship with the
