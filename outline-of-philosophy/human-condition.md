@@ -97,13 +97,13 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
     -   [First Dynasty](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt) (c. 3,150-2,890 BCE)
     -   [Egyptian hieroglyphic](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs) writing begins c. 3200 BCE.
 -   [Phoenicians](https://en.wikipedia.org/wiki/Phoenicia) (c. 2500-539 BCE)
+    -   [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet) (c. 1050-150 BCE)
 -   [Hittites](https://en.wikipedia.org/wiki/Hittites) (c. 1600-1178 BCE)
     -   [Late Bronze Age collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse) (c. 1200-1150 BCE)
 -   [Ancient Greece](https://en.wikipedia.org/wiki/Ancient_Greece) (c. 1200 BCE - 600 CE)
     -   [Minoan civilization](https://en.wikipedia.org/wiki/Minoan_civilization) - [Ancient Crete](https://en.wikipedia.org/wiki/History_of_Crete) (c. 2,700-1,100 BCE)
     -   [Mycenaean Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece) (c. 1600-1100 BCE)
     -   [Greek Dark Ages](https://en.wikipedia.org/wiki/Greek_Dark_Ages) (c. 1100-800 BCE)
-    -   [Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet) (c. 1050-150 BCE)
     -   [Sparta](https://en.wikipedia.org/wiki/Sparta) (c. 900-192 BCE)
     -   [Macedonia](https://en.wikipedia.org/wiki/Macedonia_(ancient_kingdom)) (808-168 BCE)
     -   The works of [Homer](https://en.wikipedia.org/wiki/Homer) were collected and organized in Athens by
@@ -331,6 +331,7 @@ Hinduism
 #### History
 
 -   [Vedic period](https://en.wikipedia.org/wiki/Vedic_period) (c. 1,500-500 BCE)
+-   [Kuru Kingdom](https://en.wikipedia.org/wiki/Kuru_Kingdom) (c. 1,200-500 BCE)
 -   [Vyasa](https://en.wikipedia.org/wiki/Vyasa) - "Compiler" of the Vedas
 -   [&Amacr;stika and n&amacr;stika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika)
     -   See McEvilley [^McEvilley2002p327]
@@ -348,7 +349,7 @@ Hinduism
         -   emphasized hermeneutics and exegesis
         -   started philology
     6.  [Ved&amacr;nta](https://en.wikipedia.org/wiki/Vedanta)
-        -   studies the Upanishads, the most recent parts of the Vedas
+        -   studies the *Upanishads*, the most recent parts of the Vedas
         -   most developed and best-known of the Hindu schools
         -   [Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta)
             -   eldest sub-school
@@ -375,28 +376,33 @@ Hinduism
 #### Primary texts
 
 -   [Vedas](https://en.wikipedia.org/wiki/Vedas)
-    -   [Rigveda](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700-1,100 BCE)
+    -   [*Rigveda*](https://en.wikipedia.org/wiki/Rigveda) (written c. 1,700-1,100 BCE)
         -   Oldest known Vedic Sanskrit text.
         -   Orally transmitted since the 2nd millennium BCE.
-    -   Samaveda
-    -   Yajurveda
-    -   Atharvaveda
-    -   [Upanishads](https://en.wikipedia.org/wiki/Upanishads) - most recent parts, last chapters of the Vedas
+        -   divides into
+            1.  the *Samhita* (hymns to the deities, the oldest part of the Rigveda)
+            2.  the *Brahmanas*, commentaries on the hymns
+            3.  the *Aranyakas* or "forest books"
+            4.  the *Upanishads*
+    -   *Samaveda* - Veda of melodies and chants
+    -   *Yajurveda* - Veda of prose and mantras used in worship rituals
+    -   *Atharvaveda* - Veda of the procedures for everyday life
+    -   [*Upanishads*](https://en.wikipedia.org/wiki/Upanishads) - most recent parts, last chapters of the Vedas
         -   earliest probably from 6th century BCE
         -   Katz & Egenes translation [^Katz2015]
-        -   [Vedanta](https://en.wikipedia.org/wiki/Vedanta) - Hindu school of philosophy that studies the Upanishads
+        -   [Vedanta](https://en.wikipedia.org/wiki/Vedanta) - Hindu school of philosophy that studies the *Upanishads*
         -   Schopenhauer: "the most profitable and elevating reading which... is possible in the world".
--   [Mahabharata](https://en.wikipedia.org/wiki/Mahabharata) - sometimes called the "Fifth Veda" (c. 300 BCE - 300 CE)
-    -   [Bhagavad Gita](https://en.wikipedia.org/wiki/Bhagavad_Gita) (c. 200-100 BCE)
--   [Ramayana](https://en.wikipedia.org/wiki/Ramayana) (c. 700-400 BCE)
--   [Vaisesika Sutra](https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika_S%C5%ABtra) AKA Kanada Sutra (c. 600-100 BCE)
+-   [*Mahabharata*](https://en.wikipedia.org/wiki/Mahabharata) - sometimes called the "Fifth Veda" (c. 300 BCE - 300 CE)
+    -   [*Bhagavad Gita*](https://en.wikipedia.org/wiki/Bhagavad_Gita) (c. 200-100 BCE)
+-   [*Ramayana*](https://en.wikipedia.org/wiki/Ramayana) (c. 700-400 BCE)
+-   [*Vaisesika Sutra*](https://en.wikipedia.org/wiki/Vai%C5%9Be%E1%B9%A3ika_S%C5%ABtra) AKA Kanada Sutra (c. 600-100 BCE)
     -   authored by [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 600-100 BCE)
     -   particularity vs universality
     -   atomism
--   [Ny&amacr;ya S&umacr;tras](https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras) (c. 600-100 BCE)
+-   [*Ny&amacr;ya S&umacr;tras*](https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras) (c. 600-100 BCE)
     -   discusses epistemology (pramana) that is empiricist, involving perception, inference, and knowledge
     -   names fives steps in logical inference
--   [Brahma Sutras](https://en.wikipedia.org/wiki/Brahma_Sutras) AKA Vedanta Sutra (c. 400-450 CE)
+-   [*Brahma Sutras*](https://en.wikipedia.org/wiki/Brahma_Sutras) AKA Vedanta Sutra (c. 400-450 CE)
 
 
 #### Secondary texts
@@ -811,29 +817,29 @@ See also:
 
 [Tripitaka](https://en.wikipedia.org/wiki/Tripitaka) - "The Three Baskets" of the [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon):
 
-1.  [Vinaya Pitaka](https://en.wikipedia.org/wiki/Vinaya_Pitaka) - "Basket of Discipline"
-2.  [Sutta Pitaka](https://en.wikipedia.org/wiki/Sutta_Pitaka) - "Basket of Discourse"
-    1.  [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN) - "collection of long discourses"
-        -   [Mah&amacr;parinibb&amacr;na Sutta](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta)
-    2.  [Majjhima Nik&amacr;ya](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN) - "collection of middle-length discourses"
-    3.  [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN) - "collection of connected discourses"
-        -   [Kacc&amacr;nagotta Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) - "On Right View" (SN 12.15)
-        -   [Sabba Sutta](https://suttacentral.net/sn35.23/en/bodhi) or "Discourse on Everything" (SN 35.23)
-    4.  [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN) - "collection of numerical discourses"
-        -   [Kesamutti Sutta](https://en.wikipedia.org/wiki/Kesamutti_Sutta) ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html))
-        -   [Arakenanusasani Sutta](https://www.accesstoinsight.org/tipitaka/an/an07/an07.070.than.html) - On the finiteness and shortness of life (AN 7.70)
-        -   [Uttaravipatti Sutta](https://suttacentral.net/an8.8/en/bodhi) - "Uttara on Failing" (AN 8.8)
-    5.  [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN) - "minor collection"
-        -   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
-        -   [Ud&amacr;na](https://en.wikipedia.org/wiki/Udana)
+1.  [*Vinaya Pitaka*](https://en.wikipedia.org/wiki/Vinaya_Pitaka) - "Basket of Discipline"
+2.  [*Sutta Pitaka*](https://en.wikipedia.org/wiki/Sutta_Pitaka) - "Basket of Discourse"
+    1.  [*D&imacr;gha Nik&amacr;ya*](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN) - "collection of long discourses"
+        -   [*Mah&amacr;parinibb&amacr;na Sutta*](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta)
+    2.  [*Majjhima Nik&amacr;ya*](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN) - "collection of middle-length discourses"
+    3.  [*Samyutta Nik&amacr;ya*](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN) - "collection of connected discourses"
+        -   [*Kacc&amacr;nagotta Sutta*](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) - "On Right View" (SN 12.15)
+        -   [*Sabba Sutta*](https://suttacentral.net/sn35.23/en/bodhi) or "Discourse on Everything" (SN 35.23)
+    4.  [*Anguttara Nik&amacr;ya*](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN) - "collection of numerical discourses"
+        -   [*Kesamutti Sutta*](https://en.wikipedia.org/wiki/Kesamutti_Sutta) ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html))
+        -   [*Arakenanusasani Sutta*](https://www.accesstoinsight.org/tipitaka/an/an07/an07.070.than.html) - On the finiteness and shortness of life (AN 7.70)
+        -   [*Uttaravipatti Sutta*](https://suttacentral.net/an8.8/en/bodhi) - "Uttara on Failing" (AN 8.8)
+    5.  [*Khuddaka Nik&amacr;ya*](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN) - "minor collection"
+        -   [*Dhammapada*](https://en.wikipedia.org/wiki/Dhammapada)
+        -   [*Ud&amacr;na*](https://en.wikipedia.org/wiki/Udana)
             -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) ([Ud 6.4](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.6.04.than.html))
-        -   [Itivuttaka](https://en.wikipedia.org/wiki/Itivuttaka)
-3.  [Abhidharma Pitaka](https://en.wikipedia.org/wiki/Abhidharma_Pitaka) - "Basket of Higher Doctrine"
-    -   [Kath&amacr;vatthu](https://en.wikipedia.org/wiki/Kath%C4%81vatthu) - "Points of Controversy"
+        -   [*Itivuttaka*](https://en.wikipedia.org/wiki/Itivuttaka)
+3.  [*Abhidharma Pitaka*](https://en.wikipedia.org/wiki/Abhidharma_Pitaka) - "Basket of Higher Doctrine"
+    -   [*Kath&amacr;vatthu*](https://en.wikipedia.org/wiki/Kath%C4%81vatthu) - "Points of Controversy"
 
 [Abhidhamma](https://en.wikipedia.org/wiki/Visuddhimagga) - systematic pedagogical presentations:
 
--   [Visuddhimagga](https://en.wikipedia.org/wiki/Visuddhimagga) by Buddhaghosa
+-   [*Visuddhimagga*](https://en.wikipedia.org/wiki/Visuddhimagga) by Buddhaghosa
 
 Online Suttas:
 
@@ -964,38 +970,40 @@ Online Suttas:
 #### Primary texts
 
 -   [Five &Amacr;gamas](https://en.wikipedia.org/wiki/%C4%80gama_(Buddhism)) - Chinese translations of the Nik&amacr;yas of the Sutta Pitaka.
-    1.  [D&imacr;rgha &Amacr;gama](https://en.wikipedia.org/wiki/Dirgha_Agama) (DA) = [D&imacr;gha Nik&amacr;ya](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN)
-    2.  [Madhyama &Amacr;gama](https://en.wikipedia.org/wiki/Madhyama_Agama) (MA) = [Majjhima Nik&amacr;ya](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN)
-    3.  [Samyukta &Amacr;gama](https://en.wikipedia.org/wiki/The_Shorter_Chinese_Sa%E1%B9%83yukta_%C4%80gama) (SA) = [Samyutta Nik&amacr;ya](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN)
+    1.  [*D&imacr;rgha &Amacr;gama*](https://en.wikipedia.org/wiki/Dirgha_Agama) (DA) = [*D&imacr;gha Nik&amacr;ya*](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN)
+    2.  [*Madhyama &Amacr;gama*](https://en.wikipedia.org/wiki/Madhyama_Agama) (MA) = [*Majjhima Nik&amacr;ya*](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN)
+    3.  [*Samyukta &Amacr;gama*](https://en.wikipedia.org/wiki/The_Shorter_Chinese_Sa%E1%B9%83yukta_%C4%80gama) (SA) = [*Samyutta Nik&amacr;ya*](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN)
         -   [Discourse on taking refuge in oneself](https://plumvillage.org/library/sutras/discourse-on-taking-refuge-in-oneself/) (SA 639, SN 47.14)
         -   Thich Nhat Hanh's Dhamma talk: [The Island of Self; The Three Dharma Seals](https://sites.google.com/site/tnhdhamma/Home/test-list/the-island-of-self-the-three-dharma-seals).
-    4.  [Ekottara &Amacr;gama](https://en.wikipedia.org/wiki/Ekottara_Agama) (EA) = [Anguttara Nik&amacr;ya](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN)
-    5.  [Ksudraka &Amacr;gama](https://en.wikipedia.org/wiki/Ksudraka_Agama) (KA) = [Khuddaka Nik&amacr;ya](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN)
+    4.  [*Ekottara &Amacr;gama*](https://en.wikipedia.org/wiki/Ekottara_Agama) (EA) = [*Anguttara Nik&amacr;ya*](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN)
+    5.  [*Ksudraka &Amacr;gama*](https://en.wikipedia.org/wiki/Ksudraka_Agama) (KA) = [*Khuddaka Nik&amacr;ya*](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN)
 -   Mah&amacr;y&amacr;na builds on the Therav&amacr;da texts, adding the [Mah&amacr;y&amacr;na sutras](https://en.wikipedia.org/wiki/Mahayana_sutras).
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) - "The Perfection of Wisdom"
     -   radical non-dualism
     -   Six P&amacr;ramit&amacr;s - "Six Perfections"
-    -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;hrdaya](https://en.wikipedia.org/wiki/Heart_Sutra) AKA "Heart Sutra"
+    -   [*Astas&amacr;hasrik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra*](https://en.wikipedia.org/wiki/A%E1%B9%A3%E1%B9%ADas%C4%81hasrik%C4%81_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtra)
+    -   [*Praj&ntilde;&amacr;p&amacr;ramit&amacr;hrdaya*](https://en.wikipedia.org/wiki/Heart_Sutra) AKA "Heart Sutra"
         -   "The Heart of the Perfection of Wisdom"
-    -   [Vajracchedik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra](https://en.wikipedia.org/wiki/Diamond_Sutra) AKA "Diamond Sutra"
+    -   [*Vajracchedik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra*](https://en.wikipedia.org/wiki/Diamond_Sutra) AKA "Diamond Sutra"
         -   "The Perfection of Wisdom Text that Cuts Like a Thunderbolt"
--   [Mahaparinirvana Sutra](https://en.wikipedia.org/wiki/Mahayana_Mahaparinirvana_Sutra) AKA "Nirvana Sutra"
+-   [*Mahaparinirvana Sutra*](https://en.wikipedia.org/wiki/Mahayana_Mahaparinirvana_Sutra) AKA "Nirvana Sutra"
     -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
--   [M&umacr;lamadhyamakak&amacr;rik&amacr;](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) (MMK)
+-   [*M&umacr;lamadhyamakak&amacr;rik&amacr;*](https://en.wikipedia.org/wiki/Mulamadhyamakakarika) (MMK)
     -   *Fundamental Verses on the Middle Way* by N&amacr;g&amacr;rjuna [^Nagarjuna1995]
-    -   N&amacr;g&amacr;rjuna cites and follows themes in [Kacc&amacr;nagotta Sutta](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) - "On Right View" (SN 12.15).
--   [Saddharma Pundar&imacr;ka Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra) AKA "Lotus Sutra"
+    -   N&amacr;g&amacr;rjuna cites and follows themes in [*Kacc&amacr;nagotta Sutta*](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) - "On Right View" (SN 12.15).
+-   [*Saddharma Pundar&imacr;ka Sutra*](https://en.wikipedia.org/wiki/Lotus_Sutra) AKA "Lotus Sutra"
     -   "Sutra on the White Lotus of the Sublime Dharma"
     -   All three vehicles (yan&amacr;s) are really part of one vehicle to becoming buddhas:
         [ekay&amacr;na](https://en.wikipedia.org/wiki/Ekay%C4%81na).
--   [Sandhinirmocana Sutra](https://en.wikipedia.org/wiki/Sandhinirmocana_Sutra)
+-   [*Sandhinirmocana Sutra*](https://en.wikipedia.org/wiki/Sandhinirmocana_Sutra)
     -   "Nobel Sutra on the Explanation of Profound Secrets"
     -   Wikipedia: the first creative work with an explicit public domain dedication, as its colophon at the end states that it was created "for universal free distribution."
--   [Yogacarabhumi-sastra](https://en.wikipedia.org/wiki/Yogacarabhumi-sastra) - "Treatise on the Foundation for Yoga Practitioners"
+-   [*Yogacarabhumi-sastra*](https://en.wikipedia.org/wiki/Yogacarabhumi-sastra)
+    -   "Treatise on the Foundation for Yoga Practitioners"
 -   Pure Land Sutras
-    -   [Longer Sukh&amacr;vat&imacr;y&umacr;ha  Sutra](https://en.wikipedia.org/wiki/Longer_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Infinite Life Sutra"
-    -   [Amit&amacr;yurdhy&amacr;na Sutra](https://en.wikipedia.org/wiki/Amitayurdhyana_Sutra) - "Contemplation Sutra" 
-    -   [Shorter Sukh&amacr;vat&imacr;y&umacr;ha  Sutra](https://en.wikipedia.org/wiki/Shorter_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Amitabha Sutra"
+    -   [*Longer Sukh&amacr;vat&imacr;y&umacr;ha  Sutra*](https://en.wikipedia.org/wiki/Longer_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Infinite Life Sutra"
+    -   [*Amit&amacr;yurdhy&amacr;na Sutra*](https://en.wikipedia.org/wiki/Amitayurdhyana_Sutra) - "Contemplation Sutra" 
+    -   [*Shorter Sukh&amacr;vat&imacr;y&umacr;ha  Sutra*](https://en.wikipedia.org/wiki/Shorter_Sukh%C4%81vat%C4%ABvy%C5%ABha_S%C5%ABtra) - "Amitabha Sutra"
 
 [^Nagarjuna1995]: @Nagarjuna_1995_The_Fundamental_Wisdom_of_the_Middle_Way\.
 
