@@ -1550,7 +1550,7 @@ Deep learning
 -   Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). [A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning](https://arxiv.org/abs/2109.02355). [^Dar2021]
 -   Balestriero, R., Pesenti, J., & LeCun, Y. (2021). [Learning in high dimension always amounts to extrapolation](https://arxiv.org/abs/2110.09485). [^Balestriero2021]
 -   Nagarajan, V. (2021). [Explaining generalization in deep learning: progress and fundamental limits](https://arxiv.org/abs/2110.08922). [^Nagarajan2021]
--   Bubeck, S. & Sellke, M. (2023). [A universal law of robustness via isoperimetry](https://dl.acm.org/doi/full/10.1145/3578580). [^Bubeck2023]
+-   Bubeck, S. & Sellke, M. (2023). [A universal law of robustness via isoperimetry](https://dl.acm.org/doi/full/10.1145/3578580). [^Bubeck2023a]
 -   Bach, F. (2022). [*Learning Theory from First Principles*](https://www.di.ens.fr/~fbach/ltfp_book.pdf). [^Bach2022p225]
 -   Steinhardt, J. (2022). [More is different for AI](https://bounded-regret.ghost.io/more-is-different-for-ai/). [^Steinhardt2022]
 -   Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J. (2022). [Surprises in high-dimensional ridgeless least squares interpolation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481183/). [^Hastie2022]
@@ -1559,7 +1559,7 @@ Deep learning
 [^Bach2022p225]: @Bach_2022_Learning_Theory_from_First_Principles\, p. 225--230.
 [^Balestriero2021]: @Balestriero_2021_Learning_in_high_dimension_always_amounts\.
 [^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
-[^Bubeck2023]: @Bubeck_2023_A_universal_law_of_robustness_via_isoperimetry\.
+[^Bubeck2023a]: @Bubeck_2023_A_universal_law_of_robustness_via_isoperimetry\.
 [^Dar2021]: @Dar_2021_A_farewell_to_the_bias_variance_tradeoff\.
 [^Hastie2022]: @Hastie_2022_Surprises_in_high_dimensional_ridgeless_least\.
 [^Henighan2023]: @Henighan_2023_Superposition_memorization_and_double_descent\.
@@ -1759,27 +1759,48 @@ Resources:
 
 ### Natural language processing
 
+#### Introduction
+
 -   Natural Language Processing (NLP)
 -   History
     -   Firth, J.R. (1957): "You shall know a word by the company it keeps." [^Firth1957]
     -   Nirenburg, S. (1996). [Bar Hillel and Machine Translation: Then and Now](https://web.archive.org/web/20120414235847/http://ilit.umbc.edu/SergeiPub/bar-hillel.pdf). [^Nirenburg1996]
     -   Hutchins, J. (2000). [Yehoshua Bar-Hillel: A philosophers' contribution to machine translation](https://web.archive.org/web/20190702192948/http://www.hutchinsweb.me.uk/Bar-Hillel-2000.pdf). [^Hutchins2000]
--   word2vec
-    -   Mikolov [^Mikolov2013]
-    -   Julia Bazi&nacute;ska
-    -   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
-    -   Alammar, J. (2019). [The illustrated word2vec](https://jalammar.github.io/illustrated-word2vec/).
-    -   Migdal, P. (2017). [king - man + woman is queen; but why?](https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html)
-    -   Kun, J. (2018). *A Programmer's Introduction to Mathematics*.
-        -   Word vectors have semantic linear structure [^Kun2018p176]
-    -   Ethayarajh, K. (2019). [Word embedding analogies: Understanding King - Man + Woman = Queen](https://kawine.github.io/blog/nlp/2019/06/21/word-analogies.html).
-    -   Allen, C. (2019). ["Analogies Explained" ... Explained](https://carl-allen.github.io/nlp/2019/07/01/explaining-analogies-explained.html).
+-   Textbooks
+    -   Jurafsky, D. & Martin, J.H. (2022). [*Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition*](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf). [^Jurafsky2022]
+
+[^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
+[^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
+[^Jurafsky2022]: @Jurafsky_2022_Speech_and_Language_Processing_An_introduction\.
+[^Nirenburg1996]: @Nirenburg_1996_Bar_Hillel_and_Machine_Translation_Then_and_Now\.
+
+
+#### word2vec
+
+-   Mikolov [^Mikolov2013]
+-   Julia Bazi&nacute;ska
+-   Olah, C. (2014). [Deep learning, NLP, and representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/).
+-   Alammar, J. (2019). [The illustrated word2vec](https://jalammar.github.io/illustrated-word2vec/).
+-   Migdal, P. (2017). [king - man + woman is queen; but why?](https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html)
+-   Kun, J. (2018). *A Programmer's Introduction to Mathematics*.
+    -   Word vectors have semantic linear structure [^Kun2018p176]
+-   Ethayarajh, K. (2019). [Word embedding analogies: Understanding King - Man + Woman = Queen](https://kawine.github.io/blog/nlp/2019/06/21/word-analogies.html).
+-   Allen, C. (2019). ["Analogies Explained" ... Explained](https://carl-allen.github.io/nlp/2019/07/01/explaining-analogies-explained.html).
+
+[^Kun2018p176]: @Kun_2018_A_Programmers_Introduction_to_Mathematics\, p. 176--8.
+[^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations\,
+    @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\, and
+    @Mikolov_2013_Distributed_representations_of_words_and_phrases\.
+
+
+#### RNNs
+
 -   RNNs and LSTMs
-    -   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
-    -   Graves, A. (2013). [Generating sequences with recurrent neural networks](https://arxiv.org/abs/1308.0850). [^Graves2013]
-        -   Auto-regressive language modeling
-    -   Olah, C. (2015). [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
-    -   Karpathy, A. (2015). [The unreasonable effectiveness of recurrent neural networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/).
+-   Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. [^Hochreiter1997]
+-   Graves, A. (2013). [Generating sequences with recurrent neural networks](https://arxiv.org/abs/1308.0850). [^Graves2013]
+    -   Auto-regressive language modeling
+-   Olah, C. (2015). [Understanding LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
+-   Karpathy, A. (2015). [The unreasonable effectiveness of recurrent neural networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/).
 
 Chain rule of language modeling (chain rule of probability):
 
@@ -1802,6 +1823,17 @@ $$ \hat{x}_t = \underset{x_t \in V}{\mathrm{argmax}} \: P(x_t | x_1 \ldots x_{t-
     -   Sutskever seq2seq [^Sutskever2014]
     -   Bahdanau attention [^Bahdanau2015] and GNMT [^Wu2016]
     -   Review by Stahlberg [^Stahlberg2019]
+
+[^Bahdanau2015]: @Bahdanau_2015_Neural_machine_translation_by_jointly_learning\.
+[^Graves2013]: @Graves_2013_Generating_sequences_with_recurrent_neural\.
+[^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
+[^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
+[^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
+[^Werbos1990]: @Werbos_1990_Backpropagation_through_time_what_it_does_and_how\.
+[^Wu2016]: @Wu_2016_Googles_neural_machine_translation_system\.
+
+
+#### Transformers
 
 ![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/chapter_attention-mechanisms/transformer.html)).](img/transformer.png){#fig:transformer .tallimg}
 
@@ -1835,28 +1867,9 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   OpenAI. (2022). Blog: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/).
     -   Wolfram, S. (2023). [What is ChatGPT doing---and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) [^Wolfram2023]
     -   GPT-4 [^OpenAI2023]
--   Scaling laws in NLP
-    -   Church, K.W. & Hestness, J. (2019). [Rationalism and empiricism in artificial intellegence: A survey of 25 years of evaluation [in NLP]](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291). [^Church2019]
-    -   Kaplan, J. et al. (2020). [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361). [^Kaplan2020]
-    -   Rae, J.W. et al. (2022). [Scaling language models: Methods, analysis & insights from training Gopher](https://arxiv.org/abs/2112.11446). [^Rae2022]
-    -   Hoffmann, J. et al. (2022). [Training compute-optimal large language models](https://arxiv.org/abs/2203.15556) (Chinchilla).  [^Hoffmann2022]
-    -   Constantin, S. (2023). ["Scaling Laws" for AI and some implications](https://sarahconstantin.substack.com/p/scaling-laws-for-ai-and-some-implications).
-
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
--   Textbooks
-    -   Jurafsky, D. & Martin, J.H. (2022). [*Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition*](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf). [^Jurafsky2022]
--   Interpretability
-    -   [Grandmother cell](https://en.wikipedia.org/wiki/Grandmother_cell)
-    -   Anthropic. (2021). [A mathematical framework for transformer circuits](https://transformer-circuits.pub/2021/framework/index.html).
-    -   Anthropic. (2022). [In-context learning and induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html).
-    -   Gurnee, W. et al. (2023). [Finding neurons in a haystack: Case studies with sparse probing](https://arxiv.org/abs/2305.01610). [^Gurnee2023]
-    -   Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). [Locating and editing factual associations in GPT](https://arxiv.org/abs/2202.05262). [^Meng2023]
--   Discussion of language understanding
-    -   Mahowald, K. et al. (2023). [Dissociating language and thought in large language models: a cognitive perspective](https://arxiv.org/abs/2301.06627). [^Mahowald2023]
-    -   Kosinski, M. (2023). [Theory of mind may have spontaneously emerged in large language models](https://arxiv.org/abs/2302.02083). [^Kosinski2023]
-    -   Chitra, T. & Prior, H. (2023). [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms)
 -   What comes after Transformers?
     -   Gu, A., Goel, K., & R&eacute;, C. (2021). [Efficiently modeling long sequences with structured state spaces](https://arxiv.org/abs/2111.00396). [^Gu2021]
     -   Dao, T. et al. (2022). [FlashAttention: Fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135). [^Dao2022]
@@ -1867,57 +1880,73 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Peng, B. et al. (2023). [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048). [^Peng2023]
     -   Sun, Y. et al. (2023). [Retentive network: A successor to transformer for large language models](https://arxiv.org/abs/2307.08621). [^Sun2023]
 
-See also:
-
--   [Word meanings](statistics.html#word-meanings)
-
-[^Bahdanau2015]: @Bahdanau_2015_Neural_machine_translation_by_jointly_learning\.
 [^Bertsch2023]: @Bertsch_2023_Unlimiformer_Long_range_transformers\.
 [^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
 [^Bulatov2022]: @Bulatov_2022_Recurrent_memory_transformer\.
 [^Bulatov2023]: @Bulatov_2023_Scaling_transformer_to_1M_tokens_and_beyond\.
-[^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Chowdhery2022]: @Chowdhery_2022_PaLM_Scaling_language_modeling_with_pathways\.
 [^Dao2022]: @Dao_2022_FlashAttention_Fast_and_memory_efficient_exact\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
-[^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
-[^Graves2013]: @Graves_2013_Generating_sequences_with_recurrent_neural\.
 [^Gu2021]: @Gu_2021_Efficiently_modeling_long_sequences\.
-[^Gurnee2023]: @Gurnee_2023_Finding_neurons_in_a_haystack_Case_studies\.
-[^Hoffmann2022]: @Hoffmann_2022_Training_compute_optimal_large_language_models\.
-[^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
-[^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
-[^Jurafsky2022]: @Jurafsky_2022_Speech_and_Language_Processing_An_introduction\.
-[^Kaplan2020]: @Kaplan_2020_Scaling_laws_for_neural_language_models\.
-[^Kosinski2023]: @Kosinski_2023_Theory_of_mind_may_have_spontaneously_emerged\.
-[^Kun2018p176]: @Kun_2018_A_Programmers_Introduction_to_Mathematics\, p. 176--8.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Lewis2019]: @Lewis_2019_BART_Denoising_sequence_to_sequence_pre_training\.
 [^Liu2019]: @Liu_2019_RoBERTa_A_robustly_optimized_BERT_pretraining\.
-[^Mahowald2023]: @Mahowald_2023_Dissociating_language_and_thought_in_large\.
-[^Meng2023]: @Meng_2023_Locating_and_editing_factual_associations_in_GPT\.
 [^Mialon2023]: @Mialon_2023_Augmented_Language_Models_a_Survey\.
-[^Mikolov2013]: @Mikolov_2013_Efficient_estimation_of_word_representations\,
-    @Mikolov_2013_Linguistic_regularities_in_continuous_space_word\, and
-    @Mikolov_2013_Distributed_representations_of_words_and_phrases\.
-[^Nirenburg1996]: @Nirenburg_1996_Bar_Hillel_and_Machine_Translation_Then_and_Now\.
 [^OpenAI2023]: @OpenAI_2023_GPT_4_Technical_Report\.
 [^Ouyang2022]: @Ouyang_2022_Training_language_models_to_follow_instructions\.
 [^Peng2023]: @Peng_2023_RWKV_Reinventing_RNNs_for_the_Transformer_Era\.
 [^Phuong2022]: @Phuong_2022_Formal_algorithms_for_transformers\.
 [^Radford2018]: @Radford_2018_Improving_language_understanding_by_generative\.
 [^Radford2019]: @Radford_2019_Language_models_are_unsupervised_multitask\.
-[^Rae2022]: @Rae_2022_Scaling_language_models_Methods_analysis\.
-[^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
 [^Sun2023]: @Sun_2023_Retentive_network_A_successor_to_transformer\.
-[^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
 [^Tay2022]: @Tay_2022_Efficient_transformers_A_survey\.
 [^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.
-[^Werbos1990]: @Werbos_1990_Backpropagation_through_time_what_it_does_and_how\.
 [^Wolfram2023]: @Wolfram_2023_What_is_ChatGPT_doing_and_why_does_it_work\.
-[^Wu2016]: @Wu_2016_Googles_neural_machine_translation_system\.
 [^Yang2019]: @Yang_2019_XLNet_Generalized_autoregressive_pretraining\.
 [^Zaheer2020]: @Zaheer_2020_Big_Bird_Transformers_for_longer_sequences\.
+
+
+#### Scaling laws in NLP
+
+-   Hestness, J. et al. (2017). [Deep learning scaling is predictable, empirically](https://arxiv.org/abs/1712.00409). [^Hestness2017]
+-   Church, K.W. & Hestness, J. (2019). [Rationalism and empiricism in artificial intellegence: A survey of 25 years of evaluation [in NLP]](https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291). [^Church2019]
+-   Kaplan, J. et al. (2020). [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361). [^Kaplan2020]
+-   Rae, J.W. et al. (2022). [Scaling language models: Methods, analysis & insights from training Gopher](https://arxiv.org/abs/2112.11446). [^Rae2022]
+-   Hoffmann, J. et al. (2022). [Training compute-optimal large language models](https://arxiv.org/abs/2203.15556) (Chinchilla).  [^Hoffmann2022]
+-   Constantin, S. (2023). ["Scaling Laws" for AI and some implications](https://sarahconstantin.substack.com/p/scaling-laws-for-ai-and-some-implications).
+
+[^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
+[^Hestness2017]: @Hestness_2017_Deep_learning_scaling_is_predictable_empirically\.
+[^Hoffmann2022]: @Hoffmann_2022_Training_compute_optimal_large_language_models\.
+[^Kaplan2020]: @Kaplan_2020_Scaling_laws_for_neural_language_models\.
+[^Rae2022]: @Rae_2022_Scaling_language_models_Methods_analysis\.
+
+
+#### Language understanding
+
+-   NLU
+-   Mahowald, K. et al. (2023). [Dissociating language and thought in large language models: a cognitive perspective](https://arxiv.org/abs/2301.06627). [^Mahowald2023]
+-   Kosinski, M. (2023). [Theory of mind may have spontaneously emerged in large language models](https://arxiv.org/abs/2302.02083). [^Kosinski2023]
+-   Chitra, T. & Prior, H. (2023). [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms)
+
+See also:
+
+-   [Word meanings](statistics.html#word-meanings)
+
+[^Kosinski2023]: @Kosinski_2023_Theory_of_mind_may_have_spontaneously_emerged\.
+[^Mahowald2023]: @Mahowald_2023_Dissociating_language_and_thought_in_large\.
+
+
+#### Interpretability
+
+-   [Grandmother cell](https://en.wikipedia.org/wiki/Grandmother_cell)
+-   Anthropic. (2021). [A mathematical framework for transformer circuits](https://transformer-circuits.pub/2021/framework/index.html).
+-   Anthropic. (2022). [In-context learning and induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html).
+-   Gurnee, W. et al. (2023). [Finding neurons in a haystack: Case studies with sparse probing](https://arxiv.org/abs/2305.01610). [^Gurnee2023]
+-   Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). [Locating and editing factual associations in GPT](https://arxiv.org/abs/2202.05262). [^Meng2023]
+
+[^Gurnee2023]: @Gurnee_2023_Finding_neurons_in_a_haystack_Case_studies\.
+[^Meng2023]: @Meng_2023_Locating_and_editing_factual_associations_in_GPT\.
 
 
 ### Reinforcement learning
