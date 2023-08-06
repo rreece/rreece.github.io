@@ -705,6 +705,7 @@ Epistemology and metaphysics:
 -   [Buddhist logico-epistemology](https://en.wikipedia.org/wiki/Buddhist_logico-epistemology)
     -   [Pram&amacr;nav&amacr;da](https://en.wikipedia.org/wiki/Pramana) - "proof" or "means of knowledge"
     -   Kalama Sutta ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html))
+    -   Bhikkhu Bodhi (1998). [A look at the Kalama Sutta](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_09.html).
 -   [Buddhist cosmology](https://en.wikipedia.org/wiki/Buddhist_cosmology)
     -   [Mount Meru](https://en.wikipedia.org/wiki/Mount_Meru)
 
@@ -718,6 +719,8 @@ Atheism:
 
 -   [Irreligion in India](https://en.wikipedia.org/wiki/Irreligion_in_India)
 -   [Secular Buddhism](https://en.wikipedia.org/wiki/Secular_Buddhism)
+    -   Batchelor, S. (1998). *Buddhism Without Beliefs*. [^Batchelor1998]
+    -   Contestabile, B. (2018). Secular Buddhism and Justice. [^Contestabile2018]
 -   Brahmaj&amacr;la Sutta - "The all-embracing net of views" ([DN 1](https://www.accesstoinsight.org/tipitaka/dn/dn.01.0.bodh.html))
 -   [Kevatta Sutta](https://en.wikipedia.org/wiki/Kevatta_Sutta) ([DN 11](https://suttacentral.net/dn11/en/sujato))
 -   Tevijja Sutta - "The Three Knowledges" ([DN 13](https://suttacentral.net/dn13/en/sujato))
@@ -746,7 +749,12 @@ Atheism:
 >   hollow." ([DN 13](https://suttacentral.net/dn13/en/sujato))
 
 -   "Sectarian Tenets" ([AN 3.61](https://suttacentral.net/an3.61/en/sujato))
--   Hayes. (1988). Principled atheism in the Buddhist scholastic tradition. [^Hayes1988]
+-   Hayes. (1988). [Principled atheism in the Buddhist scholastic tradition](https://link.springer.com/article/10.1007/BF00235404). [^Hayes1988]
+-   "Advice to the wandering ascetic Vekhanassa" ([MN 80](https://web.archive.org/web/20130829070825/http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/080-vekhanassa-e1.html))
+
+>   Do you desire and love someone whom you do not know and have not seen?
+>   Then he would say, yes. What do you think, Kacc&amacr;yana?
+>   Doesn't this talk turn out to be stupid talk? ([MN 80](https://web.archive.org/web/20130829070825/http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/080-vekhanassa-e1.html))
 
 Other stuff:
 
@@ -763,6 +771,8 @@ See also:
 
 -   [Compassion](ethics.html#compassion) in the [Outline on Ethics](ethics.html)
 
+[^Batchelor1998]: @Batchelor_1998_Buddhism_Without_Beliefs\.
+[^Contestabile2018]: @Contestabile_2018_Secular_Buddhism_and_Justice\.
 [^Hayes1988]: @Hayes_1988_Principled_atheism_in_the_Buddhist_scholastic\.
 [^Harris2014]: @Harris_2014_Waking_Up_A_Guide_to_Spirituality_Without\.
 [^Wright2017]: @Wright_2017_Why_Buddhism_is_True_The_Science_and_Philosophy\.
@@ -802,6 +812,13 @@ See also:
 -   [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi) (b. 1944)
 -   [Bhikkhu Th&amacr;nissaro](https://en.wikipedia.org/wiki/%E1%B9%ACh%C4%81nissaro_Bhikkhu) (b. 1949)
 -   [Joseph Goldstein](https://en.wikipedia.org/wiki/Joseph_Goldstein_(writer)) (b. 1944)
+-   [Jack Kornfield](https://en.wikipedia.org/wiki/Jack_Kornfield) (b.1945)
+-   [Sharon Salzberg](https://en.wikipedia.org/wiki/Sharon_Salzberg) (b. 1952)
+-   [Gil Fronsdal](https://en.wikipedia.org/wiki/Gil_Fronsdal) (b. 1954)
+-   [Insight Meditation Society](https://en.wikipedia.org/wiki/Insight_Meditation_Society), Barre, MA, USA
+-   Insight Meditation Center, Redwood City, CA, USA
+-   [Spirit Rock Meditation Center](https://en.wikipedia.org/wiki/Spirit_Rock_Meditation_Center), Woodacre, CA, USA
+
 
 #### Doctrines
 
