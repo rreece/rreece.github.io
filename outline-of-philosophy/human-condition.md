@@ -696,9 +696,11 @@ Meditation:
 
 #### Buddhist philosophy
 
-Epistemology and metaphysics:
-
 -   [Buddhist philosophy](https://en.wikipedia.org/wiki/Buddhist_philosophy)
+-   Siderits, M (2021). *Buddhism As Philosophy*. [^Siderits2021]
+
+**Epistemology and metaphysics**
+
 -   [Prat&imacr;tyasamut&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination
 -   [Reality in Buddhism](https://en.wikipedia.org/wiki/Reality_in_Buddhism)
 -   [Pudgalavada](https://en.wikipedia.org/wiki/Pudgalavada) - philosophy of pudgala (personhood)
@@ -709,13 +711,13 @@ Epistemology and metaphysics:
 -   [Buddhist cosmology](https://en.wikipedia.org/wiki/Buddhist_cosmology)
     -   [Mount Meru](https://en.wikipedia.org/wiki/Mount_Meru)
 
-Ethics:
+**Ethics**
 
 -   [Buddhist ethics](https://en.wikipedia.org/wiki/Buddhist_ethics)
 -   [Women in Buddhism](https://en.wikipedia.org/wiki/Women_in_Buddhism)
 -   [Ahimsa](https://en.wikipedia.org/wiki/Ahimsa) (nonviolence)
 
-Atheism:
+**Atheism**
 
 -   [Irreligion in India](https://en.wikipedia.org/wiki/Irreligion_in_India)
 -   [Secular Buddhism](https://en.wikipedia.org/wiki/Secular_Buddhism)
@@ -749,14 +751,14 @@ Atheism:
 >   hollow." ([DN 13](https://suttacentral.net/dn13/en/sujato))
 
 -   "Sectarian Tenets" ([AN 3.61](https://suttacentral.net/an3.61/en/sujato))
--   Hayes. (1988). [Principled atheism in the Buddhist scholastic tradition](https://link.springer.com/article/10.1007/BF00235404). [^Hayes1988]
+-   Hayes, R.P. (1988). [Principled atheism in the Buddhist scholastic tradition](https://link.springer.com/article/10.1007/BF00235404). [^Hayes1988]
 -   "Advice to the wandering ascetic Vekhanassa" ([MN 80](https://web.archive.org/web/20130829070825/http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/080-vekhanassa-e1.html))
 
 >   Do you desire and love someone whom you do not know and have not seen?
 >   Then he would say, yes. What do you think, Kacc&amacr;yana?
 >   Doesn't this talk turn out to be stupid talk? ([MN 80](https://web.archive.org/web/20130829070825/http://metta.lk/tipitaka/2Sutta-Pitaka/2Majjhima-Nikaya/Majjhima2/080-vekhanassa-e1.html))
 
-Other stuff:
+**Other stuff**
 
 -   [The unanswered questions](https://en.wikipedia.org/wiki/The_unanswered_questions)
 -   [Karma in Buddhism](https://en.wikipedia.org/wiki/Karma_in_Buddhism)
@@ -775,6 +777,7 @@ See also:
 [^Contestabile2018]: @Contestabile_2018_Secular_Buddhism_and_Justice\.
 [^Hayes1988]: @Hayes_1988_Principled_atheism_in_the_Buddhist_scholastic\.
 [^Harris2014]: @Harris_2014_Waking_Up_A_Guide_to_Spirituality_Without\.
+[^Siderits2021]: @Siderits_2021_Buddhism_As_Philosophy\.
 [^Wright2017]: @Wright_2017_Why_Buddhism_is_True_The_Science_and_Philosophy\.
 
 
@@ -2031,6 +2034,7 @@ See also:
 
 -   [Cognitive behavioral therapy](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy) (CBT)
 -   Compare with Buddhism
+    -   Diener, E. (2019). [Happiness: the science of subjective well-being](http://noba.to/qnw7g32t). [^Diener2019]
     -   See also: [Buddhism](#buddhism)
 -   Compare with Stoicism
     -   See also: [Stoicism](#stoicism)
@@ -2039,6 +2043,8 @@ See also:
         personal metaphysics is necessary/benefitial to cognitive and psychological
         stability?
     -   TODO: what does this say about the is-ought problem?
+
+[^Diener2019]: @Diener_2019_Happiness_the_science_of_subjective_well_being\.
 
 
 ### Terror management theory

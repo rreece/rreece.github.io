@@ -13,6 +13,7 @@ Cooper, J.M. & Hutchinson, D.S. (1997). *Plato: Complete works*. Hackett Publish
 Dennett, D.C. (1995). *Darwin's Dangerous Idea: Evolution and the meanings of life*. Simon & Schuster.
 Dennett, D.C. (2006). *Breaking the Spell: Religion as a natural phenomenon*. Penguin.
 Diamond, J. & Bellwood, P. (2003). Farmers and their languages: the first expansions. *Science*, 300, 597--603. https://science.sciencemag.org/content/300/5619/597
+Diener, E. (2019). Happiness: the science of subjective well-being. http://noba.to/qnw7g32t
 Epictetus. (2014). *Discourses, Fragments, Handbook* (R. Hard, Trans.). Oxford University Press. [(Originally recorded by pupil Arrian of Nicomedia c. 108 CE)]
 Fraser, C. (2020). Mohism. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/mohism/
 Greenblatt, S. (2011). *The Swerve: How the World Became Modern*. Norton.
@@ -67,6 +68,7 @@ Schopenhauer, A. (2014). *The World as Will and Representation, Vol. 1 and 2* (J
 Schopenhauer, A. (2015). *On the Fourfold Root of the Principle of Sufficient Reason and Other Writings* (D.E. Cartwright & E.E. Erdmann & C. Janaway, Eds.). Cambridge University Press. [(Originally published as Schopenhauer's doctoral dissertation in 1813)]
 Schr{\"o}dinger, E. (1944). *What Is Life? The Physical Aspect of the Living Cell*. Cambridge University Press.
 Seneca. (1997). *On the Shortness of Life* (C.D.N. Costa, Trans.). Penguin Books. [(Originally written in 49 CE and titled \emph{De Brevitate Vitae})]
+Siderits, M (2021). *Buddhism As Philosophy* (2nd ed.). Hackett.
 Sivin, N. (1995). Why the scientific revolution did not take place in China---Or didn't it? In Sivin, N. (Ed.), *Science in Ancient China*. Aldershot, Hants: Variorum. http://ccat.sas.upenn.edu/~nsivin/scirev.pdf
 Smith, R.J. (2012). How the Book of Changes Arrived in the West. *New England Review*, 33, 25--41. https://scholarship.rice.edu/bitstream/handle/1911/72082/Book-of-Changes.pdf
 Wells, S. (2013). *Skeptic's Annotated Bible*. SAB Books. https://www.skepticsannotatedbible.com/
