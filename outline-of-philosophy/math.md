@@ -211,7 +211,7 @@ Number theory
     -   The $\aleph_n$ hierarchy of cardinals is defined by transfinite recursion:
         -   $\aleph_0$ is the smallest infinite cardinal.
         -   $\aleph_{n+1}$ is the successor cardinal to $\aleph_{n}$
-        -   $\aleph_{\lambda} = \mathrm{sup}_{n<λ} \aleph_n$ for limit ordinals $\lambda$
+        -   $\aleph_{\lambda} = \mathrm{sup}_{n<\lambda} \aleph_n$ for limit ordinals $\lambda$
     -   $\aleph_0$ is the smallest infinite cardinal; it is countable.
     -   $\aleph_1$ is the first uncountable cardinal.
     -   $\aleph_2$ is the second uncountable cardinal.

@@ -150,7 +150,7 @@ See also:
     -   [information geometry](http://bactra.org/notebooks/info-geo.html)
     -   [*Advanced Data Analysis from an Elementary Point of View*](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
 -   Taboga, M. (2022). [statlect.com](https://www.statlect.com/).
--   Otsuka, J. (2023). *Thinking About Statistics: The Philosophical Foundations*.
+-   Otsuka, J. (2023). *Thinking About Statistics: The Philosophical Foundations*. [^Otsuka2023]
     -   Otsuka, J. (2023). Talk: [What machine learning tells us about the mathematical structures of concepts](https://www.youtube.com/watch?v=Lqt7TgYk8rU).
 
 [^Behnke2013]: @Behnke_2013_Data_Analysis_in_High_Energy_Physics_A_Practical\.
@@ -2096,8 +2096,8 @@ components: [^Zinkevich2007andLanctot2009]
     measure $f_c(a|I)$ on $A(h)$; $f_c(a|I)$ is the probability that $a$ occurs given some $h \in I$,
     where each such probability measure is independent of every other such measure.
 -   For each player $i \in N$ there is a utility function $u_i$ from the terminal states $Z$ to the reals $\mathbb{R}$.
-    If $N = \{1, 2\}$ and $u_1 = −u_2$, it is a zero-sum extensive game.
-    Define $\Delta_{u,i} \equiv \mathrm{max}_z \: u_i(z) − \mathrm{min}_z \: u_i(z)$
+    If $N = \{1, 2\}$ and $u_1 = -u_2$, it is a zero-sum extensive game.
+    Define $\Delta_{u,i} \equiv \mathrm{max}_z \: u_i(z) - \mathrm{min}_z \: u_i(z)$
     to be the range of utilities to player $i$.
 
 The *player reach*, $\pi^{\sigma}_{i}(h)$, of a history $h$ is the product of the

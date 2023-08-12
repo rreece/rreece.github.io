@@ -91,7 +91,7 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
     -   [Hammurabi](https://en.wikipedia.org/wiki/Hammurabi) (c. 1810-1750 BCE)
     -   [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi) (c. 1754 BCE)
     -   [Library of Ashurbanipal](https://en.wikipedia.org/wiki/Library_of_Ashurbanipal) (c. 7th century BCE)
-    -   [*Epic of Gilgamesh*](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh) (c. 2100-1200 BCE)
+    -   [*Epic of Gilgamesh*](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh) (c. 2100-1200 BCE)
     -   [Uruk](https://en.wikipedia.org/wiki/Uruk) city (c. 5000 BCE - 700 CE)
 -   [Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt)
     -   [First Dynasty](https://en.wikipedia.org/wiki/First_Dynasty_of_Egypt) (c. 3,150-2,890 BCE)
@@ -2223,7 +2223,7 @@ Hume:
 >   whimsies of monkeys in human shape, than the serious, positive, dogmatical
 >   assertions of a being who dignifies himself with the name of rational. [^HumeNHRp184]
 
--   Dennett, D.C. (2006). *Breaking the Spell: Religion as a natural phenomenon*. [^Dennett2006]
+-   Dennett, D.C. (2006). *Breaking the Spell: Religion as a natural phenomenon*. [^Dennett2006b]
 
 _Psychology_
 
@@ -2231,7 +2231,7 @@ _Psychology_
 -   [Atheist and Stanford biologist Robert Sapolsky explains how religious beliefs reduce stress](http://www.openculture.com/2017/11/atheist-stanford-biologist-robert-sapolsky-explains-how-religious-beliefs-reduce-stress.html)
 -   [Jerusalem syndrome](https://en.wikipedia.org/wiki/Jerusalem_syndrome)
 
-[^Dennett2006]: @Dennett_2006_Breaking_the_Spell_Religion_as_a_natural\.
+[^Dennett2006b]: @Dennett_2006_Breaking_the_Spell_Religion_as_a_natural\.
 [^HumeNHRp184]: @Hume_2007_The_Natural_History_of_Religion\, p. 184.
 [^XenophanesB15]: Xenophanes, *Fragment B15*, <https://iep.utm.edu/xenoph/>
 [^XenophanesB16]: Xenophanes, *Fragment B16*, <https://plato.stanford.edu/entries/xenophanes/>

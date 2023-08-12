@@ -405,6 +405,25 @@ See also:
 [^Harris2010]: @Harris_2010_The_Moral_Landscape_How_science_can_determine\.
 
 
+### Nonreductive moral naturalism
+
+-   Rea, M.C. (2006). [Naturalism and moral realism](https://philarchive.org/archive/REANAM-4). [^Rea2006]
+-   Wedgwood, R. (2007). *The Nature of Normativity*. [^Wedgwood2007ch9]
+-   Klocksiem, J. (2019). Against reductive ethical naturalism. [^Klocksiem2019]
+
+[^Klocksiem2019]: @Klocksiem_2019_Against_reductive_ethical_naturalism\.
+[^Rea2006]: @Rea_2006_Naturalism_and_moral_realism\.
+[^Wedgwood2007ch9]: @Wedgwood_2007_The_Nature_of_Normativity\, ch. 9.
+
+
+Moral non-naturalism
+--------------------------------------------------------------------------------
+
+### Introduction
+
+-   Ridge, M. (2019). [Moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/). *SEP*.
+
+
 ### Naturalistic fallacy
 
 -   [Naturalistic fallacy](http://en.wikipedia.org/wiki/Naturalistic_fallacy)
@@ -444,16 +463,11 @@ See also:
 [^Schurz2010b]: @Schurz_2010_Non_trivial_versions_of_Humes_is_ought_thesis\.
 
 
-### Nonreductive moral naturalism
+### Moral pluralism
 
--   Rea, M.C. (2006). [Naturalism and moral realism](https://philarchive.org/archive/REANAM-4). [^Rea2006]
--   Wedgwood, R. (2007). *The Nature of Normativity*. [^Wedgwood2007ch9]
--   Klocksiem, J. (2019). Against reductive ethical naturalism. [^Klocksiem2019]
--   Ridge, M. (2019). [Moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/). *SEP*.
+-   Parekh, B. (2006). *Rethinking Multiculturalism: Cultural Diversity and Political Theory*. [^Parekh2006]
 
-[^Klocksiem2019]: @Klocksiem_2019_Against_reductive_ethical_naturalism\.
-[^Rea2006]: @Rea_2006_Naturalism_and_moral_realism\.
-[^Wedgwood2007ch9]: @Wedgwood_2007_The_Nature_of_Normativity\, ch. 9.
+[^Parekh2006]: @Parekh_2006_Rethinking_Multiculturalism_Cultural_Diversity\.
 
 
 Political philosophy
@@ -480,8 +494,11 @@ Political philosophy
 ### Marxism
 
 -   Karl Marx and Friedrich Engels
+    -   [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx) (1818-1883)
+    -   [Dialectical materialism](https://en.wikipedia.org/wiki/Dialectical_materialism)
     -   *The Communist Manifesto* (1848)
     -   The proletariat vs the bourgeoisie
+    -   Engels, F. (1883). [*Dialectics of Nature*](https://en.wikipedia.org/wiki/Dialectics_of_Nature).
 -   [October Revolution](https://en.wikipedia.org/wiki/October_Revolution) AKA Bolshevik Revolution (1917)
     -   Leon Trotsky (1879-1940)
 -   [Marxism-Leninism](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism)

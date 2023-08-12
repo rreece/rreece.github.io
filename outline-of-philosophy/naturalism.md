@@ -394,22 +394,36 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
 
 #### Introduction
 
+-   British idealism dominated in the late 19th century.
+    -   [T.H. Green](https://en.wikipedia.org/wiki/T._H._Green) (1836-1882)
+    -   [F.H. Bradley](https://en.wikipedia.org/wiki/F._H._Bradley) (1846-1924)
+    -   [J.M.E. McTaggart](https://en.wikipedia.org/wiki/J._M._E._McTaggart) (1866-1925)
+-   Analytic philosophy starts with the rejection of idealism
+    -   Moore, G.E. (1899). [The nature of judgment](https://www.jstor.org/stable/pdf/2247657.pdf). [^Moore1899]
+    -   Moore, G.E. (1903). [The refutation of idealism](https://www.jstor.org/stable/pdf/2248251.pdf). [^Moore1903]
+    -   Bertrand Russell and G.E. Moore's rejection of J.M.E. McTaggart.
+    -   MacDonald, M. (1936). [Russell and McTaggart](https://www.jstor.org/stable/3746190). [^MacDonald1936]
+    -   See: [Idealism](scientific-realism.html#idealism) in the [Outline on scientific realism](scientific-realism.html)
 -   [Counter-Enlightenment](https://en.wikipedia.org/wiki/Counter-Enlightenment)
-    -   [Johann Georg Hamann](https://en.wikipedia.org/wiki/Johann_Georg_Hamann) (1730-1788)
+    -   [Johann Hamann](https://en.wikipedia.org/wiki/Johann_Georg_Hamann) (1730-1788)
     -   G.W.F. Hegel (1770-1831)
     -   Franz Brentano (1838-1917)
     -   Edmund Husserl (1859-1938)
     -   Martin Heidegger (1889-1976)
     -   Criticism of Kant
     -   Berlin, I. (1973). The Counter-Enlightenment.
-    -   Parekh, B. (2006). *Rethinking Multiculturalism: Cultural Diversity and Political Theory*. [^Parekh2006]
--   Analytic philosophy starts with the rejection of idealism
-    -   Bertrand Russell and G.E. Moore's rejection of J.M.E. McTaggart.
-    -   MacDonald, M. (1936). [Russell and McTaggart](https://www.jstor.org/stable/3746190). [^MacDonald1936]
-    -   See: [Idealism](scientific-realism.html#idealism) in the [Outline on scientific realism](scientific-realism.html)
+    -   Schmidt, J. (2014). [Isaiah Berlin and the "Counter-Enlightenment": A Reassessment](https://persistentenlightenment.com/2014/02/05/c-e6/).
+
+See also:
+
+-   [Idealism](scientific-realism.html#idealism)
+-   [Romanticism](human-condition.html#romanticism)
+-   [Positivism](scientific-realism.html#positivism)
+-   [The Vienna Circle](scientific-realism.html#the-vienna-circle)
 
 [^MacDonald1936]: @MacDonald_1936_Russell_and_McTaggart\.
-[^Parekh2006]: @Parekh_2006_Rethinking_Multiculturalism_Cultural_Diversity\.
+[^Moore1899]: @Moore_1899_The_nature_of_judgment\.
+[^Moore1903]: @Moore_1903_The_refutation_of_idealism\.
 
 
 #### Cassirer-Heidegger debate
@@ -425,11 +439,6 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
 -   Vrahimis, A. (2013). [Was there a sun before men existed?: A.J. Ayer and French philosophy in the fifties](https://jhaponline.org/jhap/article/view/12). [^Vrahimis2013]
 -   Dresser, S. (2020). [Does philosophy reside in the unsayable or should it care only for precision? Carnap, Heidegger and the great divergence](https://aeon.co/essays/heidegger-v-carnap-how-logic-took-issue-with-metaphysics).
 -   [Searle-Derrida debate](https://en.wikipedia.org/wiki/Searle%E2%80%93Derrida_debate)
-
-See also:
-
--   [Romanticism](human-condition.html#romanticism)
--   [The Vienna Circle](scientific-realism.html#the-vienna-circle)
 
 [^Carnap1932c]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
 [^Friedman2000]: @Friedman_2000_A_Parting_of_the_Ways_Carnap_Cassirer\.

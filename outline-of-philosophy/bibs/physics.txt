@@ -56,7 +56,7 @@ Candelas, P., Horowitz, G.T., Strominger, A., & Witten, E. (1985). Vacuum config
 Cao, C., Hu, H., Li, J., & Schwarz, W.H.E. (2019). Physical origin of chemical periodicities in the system of elements. *Pure and Applied Chemistry*, 91, 1969--1999. https://www.degruyter.com/document/doi/10.1515/pac-2019-0901/html
 Cao, T.Y. (1999). *Conceptual Foundations of Quantum Field Theory*. Cambridge University Press.
 Cao, T.Y. (2016). The Englert-Brout-Higgs mechanism: An unfinished project. *International Journal of Modern Physics A*, 31(35), 1630061. 
-Capdevilla, R., Curtin, D., Kahn, Y., & Krnjaic, G. (2021). A no-lose theorem for discovering the new physics of $(g−2)_\mu$ at muon colliders. https://arxiv.org/abs/2101.10334
+Capdevilla, R., Curtin, D., Kahn, Y., & Krnjaic, G. (2021). A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders. https://arxiv.org/abs/2101.10334
 Carroll, S.M. (2004). *Spacetime and Geometry*. Addison Wesley.
 Carroll, S.M. (2019). *Something Deeply Hidden*. Dutton.
 Carroll, S.M. & Singh, A. (2019). Mad-Dog Everettianism: Quantum mechanics at its most minimal. In *What is Fundamental?* (pp. 95--104). Springer. https://arxiv.org/abs/1801.08132

@@ -262,11 +262,12 @@ Idealism
 -   [Gorgias](https://en.wikipedia.org/wiki/Gorgias) (483-375 BCE)
 -   [George Berkeley](https://en.wikipedia.org/wiki/George_Berkeley) (1685-1753)
 -   [K.L. Reinhold](https://plato.stanford.edu/entries/karl-reinhold/) (1757-1823)
--   [Johann Gottlieb Fichte](https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte) (1762-1814)
+-   [Johann Fichte](https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte) (1762-1814)
     -   *Attempt at a Critique of All Revelation* (1792)
--   [Georg Wilhelm Friedrich Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) (1770-1831)
--   [Friedrich Wilhelm Joseph Schelling](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling) (1775-1854)
--   [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx) (1818-1883)
+-   [Georg Hegel](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) (1770-1831)
+-   [Friedrich Schelling](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling) (1775-1854)
+-   [T.H. Green](https://en.wikipedia.org/wiki/T._H._Green) (1836-1882)
+-   [F.H. Bradley](https://en.wikipedia.org/wiki/F._H._Bradley) (1846-1924)
 -   [J.M.E. McTaggart](https://en.wikipedia.org/wiki/J._M._E._McTaggart) (1866-1925)
     -   McTaggart, J.E. (1908). [The unreality of time](https://philarchive.org/archive/MCTTUO). [^McTaggart1908]
 -   [Benedetto Croce](https://en.wikipedia.org/wiki/Benedetto_Croce) (1866-1952)
@@ -289,7 +290,6 @@ See also:
 -   [Analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy)
 -   [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) (1872-1970)
 -   [George Edward Moore](https://en.wikipedia.org/wiki/G._E._Moore) (1873-1958)
-    -   Moore, G.E. (1903). The refutation of idealism. [^Moore1903]
 
 See also:
 
@@ -297,7 +297,6 @@ See also:
     in the [Outline on naturalism](naturalism.html)
 
 [^Atherton1996]: @Atherton_1996_Lady_Mary_shepherds_case_against_George_Berkeley\.
-[^Moore1903]: @Moore_1903_The_refutation_of_idealism\.
 
 
 ### Discussion
@@ -520,7 +519,7 @@ There are older forms of the argument, but Putnam's first phrasing that
 magnified the discussion, when he claims that
 
 >   realism is the only philosophy that doesn't make the success of science a
->   miracle. [^Putnam1975p73]
+>   miracle. [^Putnam1975MMMp73]
 
 -   No Miracles Argument (NMA)
 -   Prediction with science works
@@ -531,7 +530,7 @@ magnified the discussion, when he claims that
 -   Discovery of Higgs boson
 -   [Reliabilist epistemology](https://plato.stanford.edu/entries/reliabilism/)
 
-[^Putnam1975p73]: @Putnam_1975_Mathematics_Matter_and_Method\, p. 73.
+[^Putnam1975MMMp73]: @Putnam_1975_Mathematics_Matter_and_Method\, p. 73.
 
 
 ### Scientific progress
@@ -1328,7 +1327,7 @@ Feigl:
 -   Ruja, H. (1961). The present status of the verifiability criterion. [^Ruja1961]
 -   Quine, W.V.O. (1963). On simple theories of a complex world. [^Quine1963]
 -   Putnam, H. (1973). [Meaning and reference](https://www.jstor.org/stable/2025079). [^Putnam1973]
--   Putnam, H. (1975). The meaning of "meaning". [^Putnam1975]
+-   Putnam, H. (1975). The meaning of "meaning". [^Putnam1975MOM]
 
 Nietzsche:
 
@@ -1347,7 +1346,7 @@ Nietzsche:
 
 [^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
 [^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
-[^Putnam1975]: @Putnam_1975_The_meaning_of_meaning\.
+[^Putnam1975MOM]: @Putnam_1975_The_meaning_of_meaning\.
 [^Quine1960a]: @Quine_1960_Word_and_Object\.
 [^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
 [^Ruja1961]: @Ruja_1961_The_present_status_of_the_verifiability_criterion\.
@@ -1720,7 +1719,7 @@ and
 
 ### Discussion
 
--   Dennett, D.C. (2006). Higher-order truths about chmess. [^Dennett2006]
+-   Dennett, D.C. (2006). Higher-order truths about chmess. [^Dennett2006a]
 
 [Max Hodak](https://maxhodak.com/nonfiction/2021/09/03/science.html):
 
@@ -1730,7 +1729,7 @@ and
 >   clever indirect questions to get at what you’re really interested
 >   in---you're doing science.
 
-[^Dennett2006]: @Dennett_2006_Higher_order_truths_about_chmess\.
+[^Dennett2006a]: @Dennett_2006_Higher_order_truths_about_chmess\.
 
 
 Postmodernism
