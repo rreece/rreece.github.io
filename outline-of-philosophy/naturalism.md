@@ -404,8 +404,11 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
     -   Berlin, I. (1973). The Counter-Enlightenment.
     -   Parekh, B. (2006). *Rethinking Multiculturalism: Cultural Diversity and Political Theory*. [^Parekh2006]
 -   Analytic philosophy starts with the rejection of idealism
+    -   Bertrand Russell and G.E. Moore's rejection of J.M.E. McTaggart.
+    -   MacDonald, M. (1936). [Russell and McTaggart](https://www.jstor.org/stable/3746190). [^MacDonald1936]
     -   See: [Idealism](scientific-realism.html#idealism) in the [Outline on scientific realism](scientific-realism.html)
 
+[^MacDonald1936]: @MacDonald_1936_Russell_and_McTaggart\.
 [^Parekh2006]: @Parekh_2006_Rethinking_Multiculturalism_Cultural_Diversity\.
 
 
@@ -414,12 +417,14 @@ Kant in his *Prolegomena to Any Future Metaphysics*:
 -   Heidegger, M. (1929). What is metaphysics? [^Heidegger1929]
 -   Cassirer-Heidegger debate on human nature and Kant in Davos (1929)
 -   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932c]
+-   Kondylis, P. (1997). [Heidegger’s *Being and Time*: A collection of pretentious and vague platitudes](http://www.telospress.com/heideggers-being-and-time-a-collection-of-pretentious-and-vague-platitudes/).
 -   Friedman, M. (2000). *A Parting of the Ways: Carnap, Cassirer, and Heidegger*. [^Friedman2000]
 -   Friedman, M. (2002). Carnap, Cassirer, and Heidegger: The Davos disputation and twentieth century philosophy. [^Friedman2002]
 -   Gabriel, G. (2003). Carnap's "Elimination of metaphysics through logical analysis of language". [^Gabriel2003]
--   Kondylis, P. (1997). [Heidegger’s *Being and Time*: A collection of pretentious and vague platitudes](http://www.telospress.com/heideggers-being-and-time-a-collection-of-pretentious-and-vague-platitudes/).
 -   Luchte, J. (2007). [Martin Heidegger and Rudolf Carnap: Radical Phenomenology, Logical Positivism and the Roots of the Continental/Analytic Divide](https://luchte.wordpress.com/martin-heidegger-and-rudolf-carnap-radical-phenomenology-logical-positivism-and-the-roots-of-the-continentalanalytic-divide/).
+-   Vrahimis, A. (2013). [Was there a sun before men existed?: A.J. Ayer and French philosophy in the fifties](https://jhaponline.org/jhap/article/view/12). [^Vrahimis2013]
 -   Dresser, S. (2020). [Does philosophy reside in the unsayable or should it care only for precision? Carnap, Heidegger and the great divergence](https://aeon.co/essays/heidegger-v-carnap-how-logic-took-issue-with-metaphysics).
+-   [Searle-Derrida debate](https://en.wikipedia.org/wiki/Searle%E2%80%93Derrida_debate)
 
 See also:
 
@@ -431,6 +436,7 @@ See also:
 [^Friedman2002]: @Friedman_2002_Carnap_Cassirer_and_Heidegger_The_Davos\.
 [^Gabriel2003]: @Gabriel_2003_Carnaps_Elimination_of_metaphysics_through\.
 [^Heidegger1929]: @Heidegger_1929_What_is_metaphysics\.
+[^Vrahimis2013]: @Vrahimis_2013_Was_there_a_sun_before_men_existed_AJAyer\.
 
 
 ### Criticism

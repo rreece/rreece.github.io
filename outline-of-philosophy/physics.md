@@ -1835,6 +1835,7 @@ Bracketing human experience
 -   Carroll, S. (2015). [Quantum field theory and the limits of knowledge](http://www.preposterousuniverse.com/blog/2015/04/21/quantum-field-theory-and-the-limits-of-knowledge/).
 -   Carroll, S. & Wallace, A. (2017). Talk: [The Nature of Reality: A Dialogue Between a Buddhist Scholar and a Theoretical Physicist](https://www.youtube.com/watch?v=pLbSlC0Pucw).
 -   Carroll, S. (2021). [The quantum field theory on which the everyday world supervenes](https://philpapers.org/rec/CARTQF-5).
+-   Carroll, S. (2022). Talk: [Quantum Field Theory and the Limits of Knowledge](https://www.youtube.com/watch?v=REITVohWOO0).
 
 ![Sean Carroll on the entailment of everyday life by physics.](img/carroll-entailment.jpg){#fig:carroll-entailment}
 

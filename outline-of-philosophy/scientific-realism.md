@@ -973,6 +973,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
     -   Schlick, M. (1933). Positivism and realism. [^Schlick1933]
 -   Blumberg, A.E. & Feigl, H. (1930). Logical positivism: A new movement in European philosophy. [^Blumberg1931]
     -   First survey of logical positivism published in English?
+-   [Second Conference on the Epistemology of the Exact Sciences](https://en.wikipedia.org/wiki/Second_Conference_on_the_Epistemology_of_the_Exact_Sciences)
 -   A.J. Ayer (1910-1989)
     -   Ayer, A.J. (1936). *Language, Truth, and Logic*. [^Ayer1936]
     -   Helped the spread of positivism in British academia.
@@ -1260,6 +1261,8 @@ Various reactions to positivism.
 -   Nancy Cartwright (b. 1944)
 -   TODO: Khanna [^Khanna2018]
 -   de Swart [^deSwart2018p351]
+-   [Positivism dispute](https://en.wikipedia.org/wiki/Positivism_dispute)
+-   Sachs, C. (2020). [why did the Frankfurt school misunderstand logical positivism?](https://jhiblog.org/2020/08/05/why-did-the-frankfurt-school-misunderstand-logical-positivism/)
 
 [^deSwart2018p351]: @deSwart_2018_Philosophical_and_Mathematical_Logic\, p. 351--3.
 [^Khanna2018]: @Khanna_2018_Positivism_and_realism\.

@@ -43,6 +43,7 @@ Leibniz, G. (1951). The Art of Discovery. In P. Wiener (Ed.), *Leibniz: Selectio
 Leibniz, G. (1989). Dissertatio de Arte Combinatoria. In L.E. Loemker (Ed.), *Philosophical Papers and Letters: The New Synthese Historical Library (Texts and Studies in the History of Philosophy), vol 2*. (pp. 73--84). Springer. [(Originally published in 1666)]
 Lewis, C.S. (1947). *Miracles: A Preliminary Study*. Geoffrey Bles.
 Lugg, A. (2006). Russell as a precursor of Quine. *Bertrand Russell Society Quarterly*, 128, 9--21. https://bertrandrussellsocietyorg.files.wordpress.com/2020/04/brsq_0128-0129.pdf
+MacDonald, M. (1936). Russell and McTaggart. *Philosophy*, 11, 322--335. https://www.jstor.org/stable/3746190
 Maddy, P. (2007). *Second Philosophy*. Oxford University Press.
 Mahowald, K. et al. (2023). Dissociating language and thought in large language models: a cognitive perspective. https://arxiv.org/abs/2301.06627
 McCrea, A. (2019). The magical thinking of guys who love logic. *The Outline*. https://theoutline.com/post/7083/the-magical-thinking-of-guys-who-love-logic [February 15, 2019]
@@ -96,6 +97,7 @@ Spurrett, D.J. & Papineau, D. (1999). A note on the completeness of 'physics'. *
 Tahko, T.E. (2022). Natural kinds, mind-independence, and unification principles. *Synthese*, 200, 144. https://link.springer.com/article/10.1007/s11229-022-03661-7
 Thomas, B. (2015). A disease of scienceyness. *medium.com*. https://medium.com/%40writingben/a-disease-of-scienceyness-7b5571a34953 [March 4, 2015]
 Van Norden, B.W. (2017). *Taking Back Philosophy: A Multicultural Manifesto*. Columbia University Press.
+Vrahimis, A. (2013). Was there a sun before men existed?: A.J. Ayer and French philosophy in the fifties. *Journal for the History of Analytical Philosophy*, 1. https://jhaponline.org/jhap/article/view/12
 Weinberg, S. (1996). Sokal's Hoax. *The New York Review of Books*, 43(13), 11--15. http://www.physics.nyu.edu/faculty/sokal/weinberg.html [August 8, 1996]
 Williams, C. (2017). Has Trump stolen philosophy's critical tools? *The New York Times*. https://www.nytimes.com/2017/04/17/opinion/has-trump-stolen-philosophys-critical-tools.html [April 17, 2017]
 Wilson, E.O. (1998). *Consilience: The Unity of Knowledge*. Vintage.
