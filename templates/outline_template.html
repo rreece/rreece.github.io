@@ -2,39 +2,52 @@
       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
+<head>
+$if(google_analytics_tracking_id)$
+<!--- Google Analytics Tracking stuff  -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=$google_analytics_tracking_id$"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '$google_analytics_tracking_id$');
+</script>
+$endif$
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="pandoc" />
 $for(authorshort)$
-  <meta name="author" content="$authorshort$" />
+<meta name="author" content="$authorshort$" />
 $endfor$
 $if(date_meta)$
-  <meta name="date" content="$date_meta$" />
+<meta name="date" content="$date_meta$" />
 $endif$
 $if(page_title)$
-  <title>$page_title$ - $doc_title$</title>
+<title>$page_title$ - $doc_title$</title>
 $else$
 $if(titleshort)$
-  <title>$titleshort$</title>
+<title>$titleshort$</title>
 $else$
-  <title>$title$</title>
+<title>$title$</title>
 $endif$
 $endif$
 $if(description)$
-  <meta name="description" content="$description$" />
+<meta name="description" content="$description$" />
 $endif$
 $if(keywords)$
-  <meta name="keywords" content="$keywords$" />
+<meta name="keywords" content="$keywords$" />
 $endif$
 $for(css)$
-  <link rel="stylesheet" type="text/css" href="$css$"/>
+<link rel="stylesheet" type="text/css" href="$css$"/>
 $endfor$
 $if(favicon)$
-  <link rel="icon" type="image/png" href="$favicon$" />
+<link rel="icon" type="image/png" href="$favicon$" />
 $endif$
 $if(thumbnail)$
-  <link rel="image_src" type="image/png" href="$thumbnail$" />
-  <meta property="og:image" content="$thumbnail$" />
+<link rel="image_src" type="image/png" href="$thumbnail$" />
+<meta property="og:image" content="$thumbnail$" />
 $endif$
 
 $if(google_analytics_tracking_id)$

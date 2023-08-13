@@ -67,7 +67,7 @@ email: '<img class="email" src="img/my-email.png" alt="my email address"/>'
 #disqus_shortname: 'my-sites-disqus-name'
 description: 'I am a machine learning scientist and a former postdoctoral researcher in particle physics.'
 favicon: 'img/markdown-favicon-196x196.png'
-google_analytics_tracking_id: 'UA-55199032-1'
+google_analytics_tracking_id: 'G-QD5EP98QH0'
 mathjax: true
 navigation: false
 thumbnail: 'http://rreece.github.io/sw/markdown-memo/img/ATLAS-local-p0-vs-mH.png'
