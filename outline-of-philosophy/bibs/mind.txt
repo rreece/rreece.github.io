@@ -1,5 +1,6 @@
 Aaronson, S. (2013). The ghost in the quantum Turing machine. https://arxiv.org/abs/1306.0159
 Andrews, M. (2021). The math is not the territory: Navigating the free energy principle. *Biology & Philosophy*, 36, 1--19. http://philsci-archive.pitt.edu/18974/
+Browning, J. & LeCun, Y. (2022). AI and the limits of language. https://www.noemamag.com/ai-and-the-limits-of-language/
 Bunge, M. (2010). *Mind and Matter: A Philosophical Inquiry*. Dordrecht: Springer.
 Carney, J. (2020). Thinking avant la lettre: A Review of 4E Cognition. *Evolutionary Studies in Imaginative Culture*, 4, 77--90. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7250653/
 Caucheteux, C. & King, J.R. (2020). Language processing in brains and deep neural networks: Computational convergence and its limit. https://doi.org/10.1101/2020.07.03.186288

@@ -1052,6 +1052,7 @@ See also:
 -   Haag-&#321;opusza&#324;ski-Sohnius theorem [^Haag1975]
     -   The unique loop-hole in the Coleman-Mandula theorem
 -   Deligne's theorem on tensor categories
+    -   Deligne, P. (2002). [Cat&eacute;gorie Tensorielle](https://www.math.ias.edu/files/deligne/Tensorielles.pdf). [^Deligne2002]
     -   [Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/) - physicsforums.com
     -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - nLab
     -   [Supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - nLab
@@ -1086,6 +1087,7 @@ See also:
 -   [Grand unification](physics.html#grand-unification)
 -   [Non-commutative geometry](math.html#differential-geometry)
 
+[^Deligne2002]: @Deligne_2002_Categorie_Tensorielle\.
 [^Dimopoulos1981]: @Dimopoulos_1981_Softly_broken_supersymmetry_and_SU5\.
 [^Fre2013v2ch6]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 6.
 [^Freedman1976]: @Freedman_1976_Progress_toward_a_theory_of_supergravity\.

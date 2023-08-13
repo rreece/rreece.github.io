@@ -69,6 +69,7 @@ See also:
 
 -   [Industrial Revolution](human-condition.html#industrial-revolution)
     in the [Outline on the human condition](human-condition.html).
+-   [Artificial intelligence](future.html#artificial-intelligence)
 
 [^Feynman1959]: @Feynman_1959_Theres_plenty_of_room_at_the_bottom\.
 [^Vinge1993]: @Vinge_1993_The_coming_technological_singularity\.

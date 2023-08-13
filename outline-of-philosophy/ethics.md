@@ -550,6 +550,14 @@ Shields:
 [^Shields2020]: Shields, M. (2020). [The last night of Mark Shields on the PBS News Hour](https://www.youtube.com/watch?v=a1MKG_3jC9g&ab_channel=PBSNewsHour).
 
 
+Philosophy of law
+--------------------------------------------------------------------------------
+
+-   [Philosophy of law](https://en.wikipedia.org/wiki/Philosophy_of_law)
+-   [Legal positivism](https://en.wikipedia.org/wiki/Legal_positivism)
+    -   [H.L.A. Hart](https://en.wikipedia.org/wiki/H._L._A._Hart) (1907-1992)
+
+
 Economics
 --------------------------------------------------------------------------------
 

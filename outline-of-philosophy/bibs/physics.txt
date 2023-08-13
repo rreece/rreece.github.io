@@ -79,6 +79,7 @@ Cubitt, T., Perez-Garcia, D. & Wolf, M. (2015). Undecidability of the spectral g
 Das, S. & D{\"u}rr, D. (2019). Arrival time distributions of spin-1/2 particles. *Scientific Reports*, 9, 2242. https://www.nature.com/articles/s41598-018-38261-4
 Debono, I. & Smoot, G.F. (2016). General relativity and cosmology: Unsolved questions and future directions. *Universe*, 2, 23. https://arxiv.org/abs/1609.09781
 Degorre, J., Laplante, S., & Roland, J. (2005). Simulating quantum correlations as a distributed sampling problem. https://arxiv.org/abs/quant-ph/0507120
+Deligne, P. (2002). Cat{\'e}gorie Tensorielle, *Moscow Mathematical Journal*, 2, 227--248. https://www.math.ias.edu/files/deligne/Tensorielles.pdf
 Deutsch, D. (1985). Quantum theory as a universal physical theory. *International Journal of Theoretical Physics*, 24, 1--41.
 Dewar, N. (2019). Sophistication about symmetries. *British Journal for the Philosophy of Science*, 70, 485--521.
 DeWitt, B.S. (1970). Quantum mechanics and reality. *Physics Today*, 23(9), 30--35. https://physicstoday.scitation.org/doi/10.1063/1.3022331

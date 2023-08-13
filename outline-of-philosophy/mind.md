@@ -330,7 +330,7 @@ See also:
 
 ### Language models and mind
 
--   Browning, J. & LeCun, Y. (2022). [AI and the limits of language](https://www.noemamag.com/ai-and-the-limits-of-language/).
+-   Browning, J. & LeCun, Y. (2022). [AI and the limits of language](https://www.noemamag.com/ai-and-the-limits-of-language/). [^Browning2022]
 -   Piantadosi, S.T. (2023). [Modern language models refute Chomsky’s approach to language](https://lingbuzz.net/lingbuzz/007180). [^Piantadosi2023]
 -   Katzir, R. (2023). [Why large language models are poor theories of human linguistic cognition: A reply to Piantadosi](https://lingbuzz.net/lingbuzz/007190). [^Katzir2023]
 
@@ -344,6 +344,7 @@ See also:
 
 -   [Word meanings](statistics.html#word-meanings)
 
+[^Browning2022]: @Browning_2022_AI_and_the_limits_of_language\.
 [^Caucheteux2020]: @Caucheteux_2020_Language_processing_in_brains_and_deep_neural\.
 [^Piantadosi2023]: @Piantadosi_2023_Modern_language_models_refute_Chomskys_approach\.
 [^Katzir2023]: @Katzir_2023_Why_large_language_models_are_poor_theories\.

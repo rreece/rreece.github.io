@@ -1002,8 +1002,10 @@ Online Suttas:
     -   radical non-dualism
     -   Six P&amacr;ramit&amacr;s - "Six Perfections"
     -   [*Astas&amacr;hasrik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra*](https://en.wikipedia.org/wiki/A%E1%B9%A3%E1%B9%ADas%C4%81hasrik%C4%81_Praj%C3%B1%C4%81p%C4%81ramit%C4%81_S%C5%ABtra)
+        -   "The Perfection of Wisdom in Eight Thousand [Lines]"
     -   [*Praj&ntilde;&amacr;p&amacr;ramit&amacr;hrdaya*](https://en.wikipedia.org/wiki/Heart_Sutra) AKA "Heart Sutra"
         -   "The Heart of the Perfection of Wisdom"
+        -   Two Truths doctrine
     -   [*Vajracchedik&amacr; Praj&ntilde;&amacr;p&amacr;ramit&amacr; Sutra*](https://en.wikipedia.org/wiki/Diamond_Sutra) AKA "Diamond Sutra"
         -   "The Perfection of Wisdom Text that Cuts Like a Thunderbolt"
 -   [*Mahaparinirvana Sutra*](https://en.wikipedia.org/wiki/Mahayana_Mahaparinirvana_Sutra) AKA "Nirvana Sutra"
@@ -1360,7 +1362,7 @@ Stoicism
     -   Studied under Cleanthes and became the third head of the Stoic school in Athens.
 -   [Seneca (the Younger)](https://en.wikipedia.org/wiki/Seneca_the_Younger) (4 BCE - 65 CE)
     -   Roman statesman and later tutor to Emperor Nero
-    -   *On the Shortness of Life* (49 CE) - (*De Brevitate Vitae*) [^Seneca1997]
+    -   *On the Shortness of Life* (*De Brevitate Vitae*) (49 CE) [^Seneca1997]
     -   *Letters from a Stoic* (65 CE)
         -   Collection of 124 letters addressed to [Lucilius](https://en.wikipedia.org/wiki/Lucilius_Junior)
     -   His influence over Nero declined with time, and in 65 CE
@@ -1371,7 +1373,7 @@ Stoicism
 -   [Epictetus](https://en.wikipedia.org/wiki/Epictetus) (c. 50-135 CE)
     -   Slave turned teacher
     -   *Discourses* (108 CE)
-    -   *Handbook* (125 CE) - (*Enchiridion*)
+    -   *Handbook* (*Enchiridion*) (125 CE)
     -   Both of theses works were recorded by Epictetus' pupil [Arrian of Nicomedia](https://en.wikipedia.org/wiki/Arrian) (c. 86/89-146/160 CE)
     -   Translation by Hard [^Epictetus2014]
 -   [Marcus Aurelius](https://en.wikipedia.org/wiki/Marcus_Aurelius) (121-180 CE)
@@ -1806,7 +1808,7 @@ Comparative studies
     -   Nelson [^Nelson2011]
     -   Smith [^Smith2012]
 -   Buddhism and Schopenhauer
-    -   [Schopenhauer, Arthur](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
+    -   [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788-1860)
     -   Kerns, T. [Lecture notes on Schopenhauer and Buddhism](http://philosophycourse.info/lecsite/lec-schop-budd.html).
     -   Young, J. [Arthur Schopenhauer: The first European Buddhist](https://www.the-tls.co.uk/articles/arthur-schopenhauer-footnotes-to-plato/).
 -   Buddhism and Nietzsche
@@ -2409,7 +2411,7 @@ Carl Sagan discussing Nietzsche:
 -   [Dadaism](https://en.wikipedia.org/wiki/Dada)
 -   [Fancis Bacon](https://artuk.org/discover/artworks/search/actor:bacon-francis-19091992) (1909-1992)
 -   [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy) (b. 1933)
--   [Dynamite](https://frostplace.org/dynamite-by-anders-carlson-wee/) - poem by Anders Carlson-Wee
+-   [Dynamite](https://web.archive.org/web/20150508025604/http://frostplace.org/dynamite-by-anders-carlson-wee) - poem by Anders Carlson-Wee
 
 >   The way of the transgressor is hard. God made this
 >   world, but he didnt make it to suit everbody, did he?
