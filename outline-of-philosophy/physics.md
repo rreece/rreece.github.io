@@ -1611,6 +1611,14 @@ See also:
     threshold varied between 750 GeV (blue) and 2.5 TeV (red). [^Martin2016p66]
     ](img/martin-running-of-the-couplings.png){#fig:martin-running-of-the-couplings}
 
+![Ryan's sketch of how a grand unified theory may come together.
+    Noted in green are parts of the theory that are well verified experimentally.
+    Noted in red are parts yet unseen.
+    This was a slide from my thesis defense, partially to help motivate
+    why I would look for a $Z^{\prime}$ particle
+    (source: [Ryan's thesis defense (2013).
+    ](http://rreece.github.io/talks/pdf/2013-06-12-RReece-Ditaus-at-ATLAS-thesis-defense.pdf)).](img/grand-unified-theory.jpg){#fig:grand-unified-theory}
+
 See also:
 
 -   [Supersymmetry](physics.html#supersymmetry)
