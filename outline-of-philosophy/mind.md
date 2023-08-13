@@ -104,6 +104,8 @@ Physicalism
     -   <https://twitter.com/RyanDavidReece/status/1285682311112122370>
     -   [YouTube: Is there free will? | David Eagleman and Lex Fridman](https://www.youtube.com/watch?v=8f92iPYmiGY&t=298)
 
+![Ney explains physicalism at the International Summer School in the Philosophy of Physics (2016) (source: [my tweet](https://twitter.com/RyanDavidReece/status/757102562126471168/photo/1)).](img/2016-07-23-Ney-explains-physicalism.jpg){#fig:Ney-explains-physicalism.jpg}
+
 See also:
 
 -   [Bracketing human experience](physics.html#bracketing-human-experience) in the [Outline on the philosophy of physics](naturalism.html)
