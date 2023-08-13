@@ -1053,10 +1053,11 @@ See also:
     -   The unique loop-hole in the Coleman-Mandula theorem
 -   Deligne's theorem on tensor categories
     -   Deligne, P. (2002). [Cat&eacute;gorie Tensorielle](https://www.math.ias.edu/files/deligne/Tensorielles.pdf). [^Deligne2002]
-    -   [Deligne's theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/) - physicsforums.com
+    -   Ostrik, V. (2004). [Tensor categories (after Deligne)](https://arxiv.org/abs/math/0401347). [^Ostrik2004]
+    -   Schreiber, U. (2016). [Learn about supersymmetry and Deligne’s theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/). [^Schreiber2016]
     -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - nLab
     -   [Supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - nLab
-    -   [Superalgebra](https://en.wikipedia.org/wiki/Superalgebra)
+    -   [Superalgebra](https://en.wikipedia.org/wiki/Superalgebra) - Wikipedia
 -   Non-commutative geometry
     -   Connes, A. (1985).
 
@@ -1065,7 +1066,7 @@ Urs Schreiber:
 >   not just that local spacetime supersymmetry is one possibility to have
 >   sensible particle content under Wigner classification, but that the class of
 >   (algebraic) super-groups precisely exhausts the moduli space of possible
->   consistent local spacetime symmetry groups. [^Schreiber2016]
+>   consistent local spacetime symmetry groups. [^Schreiber2016a]
 
 -   Minimal Supersymmetric Standard Model (MSSM)
     -   Dimopoulos, S. & Georgi, H. (1981). Softly broken supersymmetry and SU(5). [^Dimopoulos1981]
@@ -1094,7 +1095,9 @@ See also:
 [^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries\.
 [^Martin2016]: @Martin_2016_A_supersymmetry_primer\.
 [^Murayama2000]: @Murayama_2000_Supersymmetry_phenomenology\.
+[^Ostrik2004]: @Ostrik_2004_Tensor_categories_after_Deligne\.
 [^Schreiber2016]: @Schreiber_2016_Learn_about_supersymmetry_and_Delignes_theorem\.
+[^Schreiber2016a]: @Schreiber_2016_Learn_about_supersymmetry_and_Delignes_theorem\.
 [^Tong2022]: @Tong_2022_Lectures_on_Supersymmetric_Field_Theory\.
 [^vanNieuwenhuizen1981]: @vanNieuwenhuizen_1981_Supergravity\.
 

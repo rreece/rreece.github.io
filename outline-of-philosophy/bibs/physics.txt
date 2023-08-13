@@ -196,6 +196,7 @@ Nigg, D. et al. (2015). Can different quantum state vectors correspond to the sa
 {nLab authors}. (2021). Fiber bundles in physics. http://ncatlab.org/nlab/show/fiber%20bundles%20in%20physics
 Noether, E. (1918). Invariante variationsprobleme. *Nachrichten von der Gesellschaft der Wissenschaften zu G{\"o}ttingen, Mathematisch-Physikalische Klasse*, 235--257. https://www.tandfonline.com/doi/abs/10.1080/00411457108231446
 Ohanian, H.C. (1986). What is spin? *American Journal of Physics*, 54, 500.
+Ostrik, V. (2004). Tensor categories (after Deligne). https://arxiv.org/abs/math/0401347
 Palmer, T.N. (1995). A local deterministic model of quantum spin measurement. *Proceedings of the Royal Society of London A*, 451, 585--608. https://arxiv.org/abs/quant-ph/9505025
 Pati, J.C. & Salam, A. (1974). Lepton number as the fourth color. *Physical Review D*, 10, 275--289. https://pdfs.semanticscholar.org/21fb/f9d49acf3e3f07098ca686ae4058c38dbd03.pdf
 Patterson, G. (2007). Jean Perrin and the triumph of the atomic doctrine. *Endeavour*, 31, 50--53.
