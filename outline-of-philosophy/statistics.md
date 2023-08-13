@@ -1543,29 +1543,63 @@ Deep learning
 
 -   Bias and variance trade-off. See [Bias and variance](#bias-and-variance).
 -   MSE vs model capacity
+
+Papers:
+
 -   Belkin, M., Hsu, D., Ma, S., & Mandal, S. (2019). [Reconciling modern machine-learning practice and the classical bias-variance trade-off](https://arxiv.org/abs/1812.11118). [^Belkin2019]
+-   Muthukumar, V., Vodrahalli, K., Subramanian, V., & Sahai, A. (2019). [Harmless interpolation of noisy data in regression](https://arxiv.org/abs/1903.09139). [^Muthukumar2019]
 -   Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). [Deep double descent: Where bigger models and more data hurt](https://arxiv.org/abs/1912.02292). [^Nakkiran2019]
-    -   [Deep Double Descent](https://openai.com/blog/deep-double-descent/).  *OpenAI Blog*.
--   Hubinger, E. (2019). [Understanding "Deep Double Descent"](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent). *LessWrong*.
+-   Chang, X., Li, Y., Oymak, S., & Thrampoulidis, C. (2020). [Provable benefits of overparameterization in model compression: From double descent to pruning neural networks](https://arxiv.org/abs/2012.08749). [^Chang2020]
+-   Holzm&uuml;ller, D. (2020). [On the universality of the double descent peak in ridgeless regression](https://arxiv.org/abs/2010.01851). [^Holzmuller2020]
 -   Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). [A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning](https://arxiv.org/abs/2109.02355). [^Dar2021]
 -   Balestriero, R., Pesenti, J., & LeCun, Y. (2021). [Learning in high dimension always amounts to extrapolation](https://arxiv.org/abs/2110.09485). [^Balestriero2021]
+-   Belkin, M. (2021). [Fit without fear: remarkable mathematical phenomena of deep learning through the prism of interpolation](https://arxiv.org/abs/2105.14368). [^Belkin2021]
 -   Nagarajan, V. (2021). [Explaining generalization in deep learning: progress and fundamental limits](https://arxiv.org/abs/2110.08922). [^Nagarajan2021]
--   Bubeck, S. & Sellke, M. (2023). [A universal law of robustness via isoperimetry](https://dl.acm.org/doi/full/10.1145/3578580). [^Bubeck2023a]
 -   Bach, F. (2022). [*Learning Theory from First Principles*](https://www.di.ens.fr/~fbach/ltfp_book.pdf). [^Bach2022p225]
--   Steinhardt, J. (2022). [More is different for AI](https://bounded-regret.ghost.io/more-is-different-for-ai/). [^Steinhardt2022]
+-   Ghosh, N. & Belkin, M. (2022). [A universal trade-off between the model size, test loss, and training loss of linear predictors](https://arxiv.org/abs/2207.11621). [^Ghosh2022]
+-   Singh, S.P., Lucchi, A., Hofmann, T., & Sch&ouml;lkopf, B. (2022). [Phenomenology of double descent in finite-width neural networks](https://arxiv.org/abs/2203.07337). [^Singh2022]
 -   Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J. (2022). [Surprises in high-dimensional ridgeless least squares interpolation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481183/). [^Hastie2022]
+-   Bubeck, S. & Sellke, M. (2023). [A universal law of robustness via isoperimetry](https://dl.acm.org/doi/full/10.1145/3578580). [^Bubeck2023a]
+-   Gamba, M., Englesson, E., Bj&ouml;rkman, M., & Azizpour, H. (2022). [Deep double descent via smooth interpolation](https://arxiv.org/abs/2209.10080). [^Gamba2022]
+-   Schaeffer, R. et al. (2023). [Double descent demystified: Identifying, interpreting & ablating the sources of a deep learning puzzle](https://arxiv.org/abs/2303.14151). [^Schaeffer2023]
+-   Yang, T. & Suzuki, J. (2023). [Dropout drops double descent](https://arxiv.org/abs/2305.16179). [^Yang2023]
+-   Maddox, W.J., Benton, G., & Wilson, A.G. (2023). [Rethinking parameter counting in deep models: Effective dimensionality revisited](https://arxiv.org/abs/2003.02139). [^Maddox2023]
+
+Blogs:
+
+-   Hubinger, E. (2019). [Understanding deep double descent](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent). *LessWrong*.
+-   OpenAI. (2019). [Deep double descent](https://openai.com/blog/deep-double-descent/).
+-   Steinhardt, J. (2022). [More is different for AI](https://bounded-regret.ghost.io/more-is-different-for-ai/). [^Steinhardt2022]
 -   Henighan, T. et al. (2023). [Superposition, memorization, and double descent](https://transformer-circuits.pub/2023/toy-double-descent/index.html). [^Henighan2023]
+
+Twitter threads:
+
+-   Daniela Witten. (2020). Twitter thread: [The bias-variance trade-off & double descent](https://twitter.com/daniela_witten/status/1292293104855158784).
+-   François Fleuret. (2020). Twitter thread: [The double descent with polynomial regression](https://twitter.com/francoisfleuret/status/1269301689095503872).
+-   adad8m. (2022). Twitter thread: [The double descent with polynomial regression](https://twitter.com/adad8m/status/1582231644223987712).
+-   Peyman Milanfar. (2022). Twitter thread: [The perpetually undervalued least-squares](https://twitter.com/docmilanfar/status/1477838376996769792).
+-   Pierre Ablin. (2023). Twitter thread: [The double descent with polynomial regression](https://twitter.com/PierreAblin/status/1678689910683836416).
 
 [^Bach2022p225]: @Bach_2022_Learning_Theory_from_First_Principles\, p. 225--230.
 [^Balestriero2021]: @Balestriero_2021_Learning_in_high_dimension_always_amounts\.
 [^Belkin2019]: @Belkin_2019_Reconciling_modern_machine_learning_practice\.
+[^Belkin2021]: @Belkin_2021_Fit_without_fear_remarkable_mathematical\.
 [^Bubeck2023a]: @Bubeck_2023_A_universal_law_of_robustness_via_isoperimetry\.
+[^Chang2020]: @Chang_2020_Provable_benefits_of_overparameterization_in_model\.
 [^Dar2021]: @Dar_2021_A_farewell_to_the_bias_variance_tradeoff\.
+[^Gamba2022]: @Gamba_2022_Deep_double_descent_via_smooth_interpolation\.
+[^Ghosh2022]: @Ghosh_2022_A_universal_trade_off_between_the_model_size_test\.
 [^Hastie2022]: @Hastie_2022_Surprises_in_high_dimensional_ridgeless_least\.
 [^Henighan2023]: @Henighan_2023_Superposition_memorization_and_double_descent\.
+[^Holzmuller2020]: @Holzmuller_2020_On_the_universality_of_the_double_descent_peak\.
+[^Maddox2023]: @Maddox_2023_Rethinking_parameter_counting_in_deep_models\.
+[^Muthukumar2019]: @Muthukumar_2019_Harmless_interpolation_of_noisy_data_in_regression\.
 [^Nakkiran2019]: @Nakkiran_2019_Deep_double_descent_Where_bigger_models_and_more\.
 [^Nagarajan2021]: @Nagarajan_2021_Explaining_generalization_in_deep_learning\.
+[^Schaeffer2023]: @Schaeffer_2023_Double_descent_demystified_Identifying\.
+[^Singh2022]: @Singh_2022_Phenomenology_of_double_descent_in_finite_width\.
 [^Steinhardt2022]: @Steinhardt_2022_More_is_different_for_AI\.
+[^Yang2023]: @Yang_2023_Dropout_drops_double_descent\.
 
 
 ### Regularization
