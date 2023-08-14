@@ -511,6 +511,10 @@ TODO:
 -   Note the discussion of the bias-variance tradeoff by [Cranmer](http://theoryandpractice.org/stats-ds-book/statistics/bias-variance.html).
 -   Note the new deep learning view. See [Deep learning](#deep-learning).
 
+See also:
+
+-   [Deep double descent](#deep-double-descent)
+
 
 ### Maximum likelihood estimation
 
@@ -1575,7 +1579,7 @@ Blogs:
 Twitter threads:
 
 -   Daniela Witten. (2020). Twitter thread: [The bias-variance trade-off & double descent](https://twitter.com/daniela_witten/status/1292293104855158784).
--   François Fleuret. (2020). Twitter thread: [The double descent with polynomial regression](https://twitter.com/francoisfleuret/status/1269301689095503872).
+-   Fran&ccedil;ois Fleuret. (2020). Twitter thread: [The double descent with polynomial regression](https://twitter.com/francoisfleuret/status/1269301689095503872).
 -   adad8m. (2022). Twitter thread: [The double descent with polynomial regression](https://twitter.com/adad8m/status/1582231644223987712).
 -   Peyman Milanfar. (2022). Twitter thread: [The perpetually undervalued least-squares](https://twitter.com/docmilanfar/status/1477838376996769792).
 -   Pierre Ablin. (2023). Twitter thread: [The double descent with polynomial regression](https://twitter.com/PierreAblin/status/1678689910683836416).
