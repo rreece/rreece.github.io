@@ -461,7 +461,25 @@ See also:
 ### Criticism
 
 -   Putnam, H. (1997). A half century of philosophy, viewed from within. [^Putnam1997]
+-   Hudson, H. (2016). Non-naturalistic metaphysics. In K.J Clark (Ed.), *The Blackwell Companion to Naturalism*, (pp. 168--181). Wiley. [^Hudson2016]
 
+Examples of non-naturalized methaphysics:
+
+-   Crawford Elder
+-   Joseph Jedwab
+-   David Lewis
+-   Anna Marmodoro
+-   Trenton Merricks
+-   Alvin Plantinga
+-   Michael C. Rea
+-   Richard Swinburne
+-   Peter van Inwagen
+
+See also:
+
+-   [Naturalized metaphysics](#naturalized-metaphysics)
+
+[^Hudson2016]: @Hudson_2016_Non_naturalistic_metaphysics\.
 [^Putnam1997]: @Putnam_1997_A_half_century_of_philosophy_viewed_from_within\.
 
 
@@ -845,6 +863,10 @@ Schopenhauer:
 -   What are the limits of science?
 -   Bunge, M. (1971). Is scientific metaphysics possible? [^Bunge1971]
 -   Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. [^Ross2013]
+
+See also:
+
+-   [Rejection of a priori metaphysics](rejection-of-a-priori-metaphysics)
 
 [^Bennett2015]: @Bennett_2015_There_is_no_special_problem_with_metaphysics\.
 [^Bunge1971]: @Bunge_1971_Is_scientific_metaphysics_possible\.
