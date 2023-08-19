@@ -2454,9 +2454,11 @@ Roberts:
 -   Gauge equivariant convolutional networks and the icosahedral CNN (2019) [^Cohen2019]
 -   Pavlus, J. (2020). [An idea from physics helps AI see in higher dimensions](https://www.quantamagazine.org/an-idea-from-physics-helps-ai-see-in-higher-dimensions-20200109/).
 -   SE(3)-Transformers [^Fuchs2020] and [blog post](https://fabianfuchsml.github.io/alphafold2/).
+-   Bogatskiy, A., Hoffman, T., Miller, D.W., Offermann, J.T., & Liu, X. (2023). [Explainable equivariant neural networks for particle physics: PELICAN](https://arxiv.org/abs/2307.16506). [^Bogatskiy2023]
 -   [e3nn: a modular PyTorch framework for Euclidean neural networks](https://e3nn.org/)
 -   [List of papers: Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network)
 
+[^Bogatskiy2023]: @Bogatskiy_2023_Explainable_equivariant_neural_networks\.
 [^Cohen2016a]: @Cohen_2016_Group_equivariant_convolutional_networks\.
 [^Cohen2019]: @Cohen_2019_Gauge_equivariant_convolutional_networks\.
 [^Fuchs2020]: @Fuchs_2020_SE3_Transformers_3D_roto_translation\.

@@ -18,7 +18,8 @@
 Previously as a graduate student at Penn,
 working with [ATLAS Experiment](https://atlas.cern/)
 at [CERN](https://home.cern/),
-I helped commission the Transition Radiation Tracker (TRT),
+[I helped](img/ryan-with-endcap-trt-sr1-2006-07.jpg)
+commission the Transition Radiation Tracker (TRT),
 a sub-detector of the ATLAS tracker,
 during the start-up of the Large Hadron Collider (LHC) in 2009-2012.
 On July 4 of 2012, the 
@@ -38,7 +39,7 @@ and an eye for technical detail and [good scholarship](http://rreece.github.io/p
 I am passionate about using scientific techniques to solve important problems
 and about how technologies extend our reach.
 
-![A display of a $pp$ &rarr; $tt$ &rarr; $bb\mu\tau$ event in ATLAS in 2011.](img/ATLAS-ttbar-tau.png)
+![A display of a $pp$ &rarr; $tt$ &rarr; $bb\mu\tau$ event in ATLAS in 2011.](img/ATLAS-ttbar-tau.png){#fig:ATLAS-ttbar-tau}
 
 Many theories of physics beyond the Standard Model have revolutionary
 implications for the concepts of symmetry and space-time, and
@@ -47,7 +48,7 @@ Searching for new physics in collider data involves detecting rare events among 
 requiring big data reductions, data-driven background modeling,
 and severe statistical hypothesis testing.
 
-![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png "Experiment &rarr; data acquisition &rarr; reconstruction &rarr; analysis &rarr; inference")
+![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png "Experiment &rarr; data acquisition &rarr; reconstruction &rarr; analysis &rarr; inference"){#fig:atlas-data-flow}
 
 My research in physics has primarily focused on supporting and optimizing
 the reconstruction of hadronic tau decays,

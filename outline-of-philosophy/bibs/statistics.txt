@@ -35,6 +35,7 @@ Billings, D., Davidson, A., Schaeffer, J., & Szafron, D. (2002). The challenge o
 Birnbaum, A. (1962). On the foundations of statistical inference. *Journal of the American Statistical Association*, 57, 269--326.
 Bishop, C.M. (2006). *Pattern Recognition and Machine Learning*. Springer. 
 Blondel, M., Martins, A.F., & Niculae, V. (2020). Learning with Fenchel-Young losses. *Journal of Machine Learning Research*, 21(35), 1--69.
+Bogatskiy, A., Hoffman, T., Miller, D.W., Offermann, J.T., & Liu, X. (2023). Explainable equivariant neural networks for particle physics: PELICAN. https://arxiv.org/abs/2307.16506
 Bottou, L. (1998). Stochastic gradient descent tricks. In Orr, G.B. & Muller, K.R. (eds.), *Neural Networks: Tricks of the trade*. Springer. https://www.microsoft.com/en-us/research/publication/stochastic-gradient-tricks/
 Bousquet, O., Hanneke, S., Moran, S., Van Handel, R., & Yehudayoff, A. (2021). A theory of universal learning. In *Proceedings of the 53rd Annual ACM SIGACT Symposium on Theory of Computing* (pp. 532--541). https://dl.acm.org/doi/pdf/10.1145/3406325.3451087
 Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. *Science*, 347, 145--149. http://science.sciencemag.org/content/347/6218/145
