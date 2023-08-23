@@ -133,7 +133,6 @@ Panpsychism
 
 -   Chalmers
 -   Rejection of dualism vs physicalism dichotomy
--   Conway's "freewill theorem"
 -   Harris, A. (2022). [The strong assumption](https://annakaharris.com/the-strong-assumption/).
 
 See also:

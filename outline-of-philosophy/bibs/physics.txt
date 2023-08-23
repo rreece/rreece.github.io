@@ -138,6 +138,7 @@ Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Gr
 Goyal, P. (2020). Derivation of classical mechanics in an energetic framework via conservation and relativity. *Foundations of Physics*, 50, 1426--1479.
 Greaves, H. & Thomas, T. (2012). The CPT Theorem. https://arxiv.org/abs/1204.4674
 Guralnik, G.S., Hagen, C.R., & Kibble, T.W.B. (1964). Global conservation laws and massless particles. *Physical Review Letters*, 13, 585--587. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.585
+Guth, A. (1997). Was cosmic inflation the 'bang' of the big bang? *The Beamline*, 27, 14. https://ned.ipac.caltech.edu/level5/Guth/Guth_contents.html
 Haag, R. (1955). On quantum field theories. *Matematisk-fysiske Meddelelser*, 29, 1--37. http://cds.cern.ch/record/212242
 Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. Springer.
 Haag, R., \L{}opusza\'{n}ski, J. T., & Sohnius, M. (1975). All possible generators of supersymmetries of the S-matrix. *Nuclear Physics B*, 88(2), 257--274.

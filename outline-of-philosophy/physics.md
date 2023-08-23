@@ -589,12 +589,16 @@ Baez, Segal, & Zhou:
 
 See also:
 
--   [Wigner-Stone theorems](physics.html#wigner-stone-theorems)
+-   [Wigner-Stone theorems](#wigner-stone-theorems)
 
 
 #### Coleman-Mandula theorem
 
 -   Coleman-Mandula theorem [^Coleman1967]
+
+See also:
+
+-   [Supersymmetry](#supersymmetry)
 
 [^Coleman1967]: @Coleman_1967_All_possible_symmetries_of_the_S_matrix\.
 
@@ -1085,7 +1089,8 @@ Urs Schreiber:
 
 See also:
 
--   [Grand unification](physics.html#grand-unification)
+-   [Coleman-Mandula theorem](#coleman-mandula-theorem)
+-   [Grand unification](#grand-unification)
 -   [Non-commutative geometry](math.html#differential-geometry)
 
 [^Deligne2002]: @Deligne_2002_Categorie_Tensorielle\.
@@ -1164,6 +1169,7 @@ Interpretations of quantum mechanics
 -   Bell, J.S. (1966). On the problem of hidden variables in quantum mechanics. [^Bell1966]
 -   Kochen, S. & Specker, E.P. (1967). The problem of hidden variables in quantum mechanics. [^Kochen1967]
 -   Clauser, J., Horne, M., Shimony, A., & Holt, R. (1969). Proposed experiment to test local hidden-variable theories. [^Clauser1969]
+-   GHZ experiment
 -   *Epistemological Letters*
 -   Aspect experiments (1982)
 -   Gisin's theorem [^Gisin1991]
@@ -1173,6 +1179,7 @@ Interpretations of quantum mechanics
 -   Wigner's friend
     -   Deutsch, D. (1985). Quantum theory as a universal physical theory. [^Deutsch1985]
     -   Bong, K.W. et al. (2020). [A strong no-go theorem on the Wigner's friend paradox](https://arxiv.org/abs/1907.05607). [^Bong2020]
+-   Conway's "freewill theorem"
 
 [^Ahmed2014]: @Ahmed_2014_Causal_decision_theory_and_EPR_correlations\.
 [^Bell1964]: @Bell_1964_On_the_Einstein_Podolsky_Rosen_Paradox\.
@@ -1767,9 +1774,25 @@ Gravity and cosmology
     -   Inflaton field and slow-roll inflation
 -   $\Lambda$-CDM Cosmological Standard Model
 
+Guth:
+
+>   The peculiar properties of the false vacuum stem from its pressure,
+>   which is large and negative... Mechanically
+>   such a negative pressure corresponds to a suction, which does not
+>   sound like something that would drive the Universe into a period of
+>   rapid expansion. The mechanical effects of pressure, however, depend on
+>   pressure differences, so they are unimportant if the pressure is
+>   reasonably uniform. According to general relativity, however, there is a
+>   gravitational effect that is very important under these circumstances.
+>   Pressures, like energy densities, create gravitational fields, and in
+>   particular a positive pressure creates an attractive gravitational field.
+>   The negative pressure of the false vacuum, therefore, creates a repulsive
+>   gravitational field, which is the driving force behind inflation. [^Guth1997Sec3]
+
 ![How the $\Lambda$-CDM concordance model of cosmology was developed. [^Debono2016f4]](img/concordance-model-LCDM.png){#fig:concordance-model-LCDM}
 
 [^Debono2016f4]: @Debono_2016_General_relativity_and_cosmology_Unsolved\, figure 4.
+[^Guth1997Sec3]: @Guth_1997_Was_cosmic_inflation_the_bang_of_the_big_bang\.
 
 
 ### Alternative theories of gravity
