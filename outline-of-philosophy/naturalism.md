@@ -347,6 +347,10 @@ Bunge:
 >   questions in the light of the best available factual knowledge, and with
 >   the help of precision tools forged by formal science. [^Bunge2001p10]
 
+No:
+
+-   Dietrich, E. (2011). [There is no progress in philosophy](https://philarchive.org/rec/DIETIN). [^Dietrich2011]
+
 See also:
 
 -   [Scientific progress](scientific-realism.html#scientific-progress)
@@ -354,6 +358,7 @@ See also:
 [^Bunge2001p10]: @Bunge_2001_Philosophy_in_Crisis_The_Need_for_Reconstruction\, p. 10.
 [^Bunge2012]: @Bunge_2012_Evaluating_Philosophies\.
 [^Carnap1928pxvii]: @Carnap_2003_The_Logical_Structure_of_the_World\, p. xvii.
+[^Dietrich2011]: @Dietrich_2011_There_is_no_progress_in_philosophy\.
 [^Priest2020]: @Priest_2020_Philosophy_and_its_history_An_essay\.
 
 

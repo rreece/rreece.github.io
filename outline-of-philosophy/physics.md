@@ -1257,6 +1257,7 @@ Interpretations of quantum mechanics
 -   Carroll, S.M. (2019). *Something Deeply Hidden*.[^Carroll2019]
 -   Everett's later influence on the theory of decoherence
 -   Wilhelm, I. (2022). [Centering the Everett interpretation](https://philpapers.org/rec/WILCTE-4). [^Wilhelm2022]
+-   Wallace, D. (2022). [The sky is blue, and other reasons quantum mechanics is not underdetermined by evidence](https://arxiv.org/abs/2205.00568). [^Wallace2022]
 
 >   A way out of this dilemma [the measurement problem]
 >   within quantum mechanical concepts requires
@@ -1296,6 +1297,7 @@ See also:
 [^DeWitt1973]: @DeWitt_1973_The_Many_Worlds_Interpretation_of_Quantum\.
 [^Joos2003p22]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\, p. 22.
 [^Wallace2012]: @Wallace_2012_The_Emergent_Multiverse\.
+[^Wallace2022]: @Wallace_2022_The_sky_is_blue_and_other_reasons_quantum\.
 [^Wheeler1957]: @Wheeler_1957_Assessment_of_Everetts_relative_state\.
 [^Wilhelm2022]: @Wilhelm_2022_Centering_the_Everett_interpretation\.
 
@@ -1360,6 +1362,7 @@ See also:
 -   Transactional quantum mechanics
 -   Superdeterminism
     -   't Hooft, G. (2021). [An unorthodox view on quantum mechanics](https://arxiv.org/abs/2104.03179). [^tHooft2021]
+    -   Hossenfelder, S. & Palmer, T. (2020). [Rethinking superdeterminism](https://www.frontiersin.org/articles/10.3389/fphy.2020.00139/full). [^Hossenfelder2020]
 -   Frauchiger, D. & Renner, R. (2018). [Quantum theory cannot consistently describe the use of itself](https://www.nature.com/articles/s41467-018-05739-8). [^Frauchiger2018]
 
 From [Sabine Hossenfelder](https://www.youtube.com/watch?v=hpkgPJo_z6Y),
@@ -1378,6 +1381,7 @@ some examples for models that violate measurement independence are here:
 [^Donadi2022]: @Donadi_2022_A_toy_model_for_local_and_deterministic_wave\.
 [^Frauchiger2018]: @Frauchiger_2018_Quantum_theory_cannot_consistently_describe\.
 [^Hall2010]: @Hall_2010_Local_deterministic_model_of_singlet_state\.
+[^Hossenfelder2020]: @Hossenfelder_2020_Rethinking_superdeterminism\.
 [^MartinDussaud2018]: @Martin_Dussaud_2018_The_notion_of_locality_in_relational_quantum\.
 [^Palmer1995]: @Palmer_1995_A_local_deterministic_model_of_quantum_spin\.
 [^tHooft2021]: @tHooft_2021_An_unorthodox_view_on_quantum_mechanics\.

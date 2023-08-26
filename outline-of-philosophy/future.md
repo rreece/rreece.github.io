@@ -46,6 +46,7 @@ See also:
 ### Fermi paradox
 
 -   [Fermi paradox](https://en.wikipedia.org/wiki/Fermi_paradox)
+-   Freitas, R.A. (1983). [Extraterrestrial intelligence in the solar system: Resolving the Fermi paradox](http://www.rfreitas.com/Astro/ResolvingFermi1983.htm).
 -   Bostrom, N. (2002). *Anthropic Bias: Observation selection effects in science and philosophy*. [^Bostrom2002]
 -   Sandberg, A., Drexler, E., & Ord, T. (2018). [Dissolving the Fermi paradox](https://arxiv.org/abs/1806.02404). [^Sandberg2018]
 -   Hanson, R., Martin, D., McCarter, C., & Paulson, J. (2021). [If loud aliens explain human earliness, quiet aliens are also rare](https://iopscience.iop.org/article/10.3847/1538-4357/ac2369). [^Hanson2021]

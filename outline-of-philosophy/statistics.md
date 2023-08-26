@@ -115,7 +115,7 @@ See also:
 -   [Harold Jeffreys](https://en.wikipedia.org/wiki/Harold_Jeffreys) (1891-1989)
     -   objective (non-informative) Jeffreys priors
 -   [Andrey Kolmogorov](https://en.wikipedia.org/wiki/Andrey_Kolmogorov) (1903-1987)
--   [C.R. Rao](https://en.wikipedia.org/wiki/C._R._Rao) (b. 1920)
+-   [C.R. Rao](https://en.wikipedia.org/wiki/C._R._Rao) (1920-2023)
 -   [Ray Solomonoff](https://en.wikipedia.org/wiki/Ray_Solomonoff) (1926-2009)
 -   [Shun'ichi Amari](https://en.wikipedia.org/wiki/Shun%27ichi_Amari) (b. 1936)
 -   [Judea Pearl](https://en.wikipedia.org/wiki/Judea_Pearl) (b. 1936)

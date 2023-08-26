@@ -192,17 +192,37 @@ Number theory
 ### Set theory
 
 -   Membership: Axiom of extensionality
--   Axiom of unrestricted comprehension and Naive Set Theory
--   Russell's paradox
--   Axiom schema of specification AKA Axiom of restricted comprehension
 -   von Neumann's set theoretical definition of numbers
+
+
+#### Naive Set Theory
+
+-   [Axiom of unrestricted comprehension](https://en.wikipedia.org/wiki/Axiom_schema_of_specification#Unrestricted_comprehension)
+    -   There exists the set $\{ x : \phi(x) \}$, the set whose members are those that satisfy $\phi$.
+-   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
+    -   Let $y = \{ x : x \notin x \}$ then $y \in y \Leftrightarrow y \notin y$
+-   [Curry's paradox](https://en.wikipedia.org/wiki/Curry%27s_paradox)
+
+
+#### Zermelo-Fraenkel set theory
+
+-   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)
+-   [Axiom schema of specification](https://en.wikipedia.org/wiki/Axiom_schema_of_specification) AKA Axiom of restricted comprehension
+    -   Define a set by defining a subset of a known set $A$, $\{ x \in A : \phi(x) \}$, instead of the more general $\{ x : \phi(x) \}$
+    -   Given any set A, there exists a subset of $A$, whose memebers are those that satisfy $\phi$ (and are also members of $A$).
 -   [Zermelo-Fraenkel set theory](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory) + [Axiom of choice](https://en.wikipedia.org/wiki/Axiom_of_choice) = ZFC
--   [Cantor-Bernstein-Schr&ouml;eder theorem](https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem)
+
+
+#### Other approaches
+
+-   [Von Neumann-Bernays-G&ouml;del set theory](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Bernays%E2%80%93G%C3%B6del_set_theory)
+-   [Quine's New Foundations](https://en.wikipedia.org/wiki/New_Foundations)
 
 
 ### Transfinite numbers
 
 -   Ordinal (index) vs cardinal (size) numbers
+-   [Cantor-Bernstein-Schr&ouml;eder theorem](https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem)
 -   [Transfinite numbers](https://en.wikipedia.org/wiki/Transfinite_number):
     -   $\omega$: the smallest transfinite ordinal number; the order type of the natural numbers.
     -   $\aleph_0$: the first transfinite cardinal number; the cardinality of the natural numbers, $\aleph_0 \equiv |\mathbb{N}|$
@@ -389,10 +409,6 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 -   TODO: Use-mention distinction: P vs 'P' vs Quine quotes
 -   [Cut-elimination theorem](https://en.wikipedia.org/wiki/Cut-elimination_theorem)
 -   [Gerhard Gentzen](https://en.wikipedia.org/wiki/Gerhard_Gentzen) (1909-1945)
-
-See also:
-
--   [Modal logic](#modal-logic)
 
 [^Post1921]: @Post_1921_Introduction_to_the_general_theory_of_elementary\.
 [^Stillwell2004]: @Stillwell_2004_Emil_Post_and_his_anticipation_of_Godel\.

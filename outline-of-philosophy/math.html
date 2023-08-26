@@ -16,7 +16,7 @@
 <meta http-equiv="Content-Style-Type" content="text/css" />
 <meta name="generator" content="pandoc" />
 <meta name="author" content="Ryan Reece" />
-<meta name="date" content="Mon Aug 21, 2023" />
+<meta name="date" content="Sat Aug 26, 2023" />
 <title>Philosophy of mathematics - Ryan's Outline of Philosophy</title>
 <meta name="description" content="Ryan Reece&#x2019;s outline of philosophy" />
 <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue.css"/>
@@ -345,16 +345,39 @@ Leibniz, G.W. (1686). De geometria recondita et analysi indivisibilium atque inf
 <h3 id="set-theory">Set theory</h3>
 <ul>
 <li>Membership: Axiom of extensionality</li>
-<li>Axiom of unrestricted comprehension and Naive Set Theory</li>
-<li>Russell&#x2019;s paradox</li>
-<li>Axiom schema of specification AKA Axiom of restricted comprehension</li>
 <li>von Neumann&#x2019;s set theoretical definition of numbers</li>
+</ul>
+<h4 id="naive-set-theory">Naive Set Theory</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Axiom_schema_of_specification#Unrestricted_comprehension">Axiom of unrestricted comprehension</a>
+<ul>
+<li>There exists the set <span class="math inline">\(\{ x : \phi(x) \}\)</span>, the set whose members are those that satisfy <span class="math inline">\(\phi\)</span>.</li>
+</ul></li>
+<li><a href="https://en.wikipedia.org/wiki/Russell%27s_paradox">Russell&#x2019;s paradox</a>
+<ul>
+<li>Let <span class="math inline">\(y = \{ x : x \notin x \}\)</span> then <span class="math inline">\(y \in y \Leftrightarrow y \notin y\)</span></li>
+</ul></li>
+<li><a href="https://en.wikipedia.org/wiki/Curry%27s_paradox">Curry&#x2019;s paradox</a></li>
+</ul>
+<h4 id="zermelo-fraenkel-set-theory">Zermelo-Fraenkel set theory</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory">Zermelo-Fraenkel set theory</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Axiom_schema_of_specification">Axiom schema of specification</a> AKA Axiom of restricted comprehension
+<ul>
+<li>Define a set by defining a subset of a known set <span class="math inline">\(A\)</span>, <span class="math inline">\(\{ x \in A : \phi(x) \}\)</span>, instead of the more general <span class="math inline">\(\{ x : \phi(x) \}\)</span></li>
+<li>Given any set A, there exists a subset of <span class="math inline">\(A\)</span>, whose memebers are those that satisfy <span class="math inline">\(\phi\)</span> (and are also members of <span class="math inline">\(A\)</span>).</li>
+</ul></li>
 <li><a href="https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory">Zermelo-Fraenkel set theory</a> + <a href="https://en.wikipedia.org/wiki/Axiom_of_choice">Axiom of choice</a> = ZFC</li>
-<li><a href="https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem">Cantor-Bernstein-Schr&#xF6;eder theorem</a></li>
+</ul>
+<h4 id="other-approaches">Other approaches</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Bernays%E2%80%93G%C3%B6del_set_theory">Von Neumann-Bernays-G&#xF6;del set theory</a></li>
+<li><a href="https://en.wikipedia.org/wiki/New_Foundations">Quine&#x2019;s New Foundations</a></li>
 </ul>
 <h3 id="transfinite-numbers">Transfinite numbers</h3>
 <ul>
 <li>Ordinal (index) vs cardinal (size) numbers</li>
+<li><a href="https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem">Cantor-Bernstein-Schr&#xF6;eder theorem</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Transfinite_number">Transfinite numbers</a>:
 <ul>
 <li><span class="math inline">\(\omega\)</span>: the smallest transfinite ordinal number; the order type of the natural numbers.</li>
@@ -523,10 +546,6 @@ Leibniz, G.W. (1686). De geometria recondita et analysi indivisibilium atque inf
 <li>TODO: Use-mention distinction: P vs &#x2018;P&#x2019; vs Quine quotes</li>
 <li><a href="https://en.wikipedia.org/wiki/Cut-elimination_theorem">Cut-elimination theorem</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Gerhard_Gentzen">Gerhard Gentzen</a> (1909-1945)</li>
-</ul>
-<p>See also:</p>
-<ul>
-<li><a href="#modal-logic">Modal logic</a></li>
 </ul>
 <h3 id="first-order-logic">First-order logic</h3>
 <ul>
@@ -1867,7 +1886,7 @@ Zee, A. (2016). <em><span class="nocase">Group Theory in a Nutshell for Physicis
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Mon Aug 21, 2023</p>
+    <p>Sat Aug 26, 2023</p>
   </div>
   <div class="license">
     <p>&#xA9; 2014-2023 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>

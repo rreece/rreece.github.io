@@ -819,7 +819,7 @@ See also:
 -   [Sharon Salzberg](https://en.wikipedia.org/wiki/Sharon_Salzberg) (b. 1952)
 -   [Gil Fronsdal](https://en.wikipedia.org/wiki/Gil_Fronsdal) (b. 1954)
 -   [Insight Meditation Society](https://en.wikipedia.org/wiki/Insight_Meditation_Society), Barre, MA, USA
--   Insight Meditation Center, Redwood City, CA, USA
+-   [Insight Meditation Center](https://www.insightmeditationcenter.org), Redwood City, CA, USA
 -   [Spirit Rock Meditation Center](https://en.wikipedia.org/wiki/Spirit_Rock_Meditation_Center), Woodacre, CA, USA
 
 
@@ -855,6 +855,7 @@ See also:
             -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) ([Ud 6.4](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.6.04.than.html))
         -   [*Itivuttaka*](https://en.wikipedia.org/wiki/Itivuttaka)
 3.  [*Abhidharma Pitaka*](https://en.wikipedia.org/wiki/Abhidharma_Pitaka) - "Basket of Higher Doctrine"
+    -   compendium of Buddhist psychology
     -   [*Kath&amacr;vatthu*](https://en.wikipedia.org/wiki/Kath%C4%81vatthu) - "Points of Controversy"
 
 [Abhidhamma](https://en.wikipedia.org/wiki/Visuddhimagga) - systematic pedagogical presentations:

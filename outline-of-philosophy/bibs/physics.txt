@@ -148,6 +148,7 @@ Hamamatsu. (2007). *Photomultiplier Tubes: Basics and Applications* (3rd ed.). H
 Harrigan, N., & Spekkens, R.W. (2010). Einstein, incompleteness, and the epistemic view of quantum states. *Foundations of Physics*, 40(2), 125--157. https://arxiv.org/abs/0706.2661
 Healey, R. (2007). *Gauging What's Real*. Oxford University Press.
 Higgs, P.W. (1964). Broken symmetries, massless particles and gauge fields. *Physics Letters*, 13, 508--509. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.508
+Hossenfelder, S. & Palmer, T. (2020). Rethinking superdeterminism. *Frontiers in Physics*, 8, 139. https://www.frontiersin.org/articles/10.3389/fphy.2020.00139/full
 Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. *Synthese*, 102(1), 171--194.
 Jaeger, G. (2019). Are virtual particles less real? *Entropy*, 21, 141. https://www.mdpi.com/1099-4300/21/2/141
 Janyska, J., Modugno, M., & Vitolo, R. (2007). Semi-vector spaces and units of measurement. https://arxiv.org/abs/0710.1313
@@ -270,6 +271,7 @@ Vitagliano, E., Tamborra, I., & Raffelt, G. (2020). Grand unified neutrino spect
 von Neumann, J. (1955). *The Mathematical Foundations of Quantum Mechanics* (R.T. Beyer, Trans.). Princeton University Press. [(Originally published in German in 1932)]
 Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum ﬁeld theory. *Studies in History and Philosophy of Modern Physics*, 42, 116--125.
 Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
+Wallace, D. (2022). The sky is blue, and other reasons quantum mechanics is not underdetermined by evidence. https://arxiv.org/abs/2205.00568
 Way, R. (2010). Introduction to connections on principal fibre bundles. http://personal.maths.surrey.ac.uk/T.Bridges/GEOMETRIC-PHASE/Connections_intro.pdf
 Weinberg, S. (1964). Feynman rules for any spin II: Massless particles. *Physical Review*, 134, B882.
 Weinberg, S. (1964). Feynman rules for any spin. *Physical Review*, 133, B1318.
