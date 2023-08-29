@@ -687,9 +687,12 @@ Meditation:
 -   [Buddhist paths to liberation](https://en.wikipedia.org/wiki/Buddhist_Paths_to_liberation) (m&amacr;rga/magga)
 -   [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
 -   [Enlightenment in Buddhism](https://en.wikipedia.org/wiki/Enlightenment_in_Buddhism) (bodhi/bodhi)
--   [nirvana/nibb&amacr;na](https://en.wikipedia.org/wiki/Nirvana) - liberation (literally "blown out") from sams&amacr;ra, equivalent to moksha
--   [arhat/arahant](https://en.wikipedia.org/wiki/Arhat) - one who has achieved enlightenment (bodhi or nirvana/nibb&amacr;na)
-    -   In the Mah&amacr;y&amacr;na tradition, an arhat is far along the path of enlightenment (nirvana)
+    -   A bodhi is aware of the capacity for nirvana.
+-   [nirvana/nibb&amacr;na](https://en.wikipedia.org/wiki/Nirvana)
+    -   Liberation (literally "blown out") from sams&amacr;ra, equivalent to moksha.
+-   [arhat/arahant](https://en.wikipedia.org/wiki/Arhaa)
+    -   One who has achieved enlightenment (bodhi)
+    -   In the Mah&amacr;y&amacr;na tradition, an arhat is far along the path of enlightenment
         but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
 

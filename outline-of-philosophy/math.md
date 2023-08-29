@@ -430,8 +430,11 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
     -   Awodey, S. & Forssell, H. (2013). First-order logical duality. [^Awodey2013]
     -   [Lindstr&ouml;m's theorem](https://en.wikipedia.org/wiki/Lindstr%C3%B6m%27s_theorem)
 -   [Presburger arithmetic](https://en.wikipedia.org/wiki/Presburger_arithmetic)
+    -   First-order theory of the natural numbers with addition, but without multiplication.
+    -   Presburger arithmetic is consistent, complete, and decidable.
 
-**Limitations**
+
+#### Limitations
 
 -   No first-order theory has the strength to uniquely describe a
     structure with an infinite domain, such as the natural numbers or the
@@ -467,21 +470,27 @@ See also:
     -   Russell's theory of types
     -   Alonzo Church's lambda calculus
 
-**Incompleteness**
+#### Incompleteness
 
 -   Second-order logic opens the door to G&ouml;del's incompleteness theorems.
 -   According to G&ouml;del's incompleteness theorems, the theory of PA (if consistent) is incomplete.
--   TODO
+-   Kleene, S.C. (1943). [Recursive predicates and quantifiers](https://www.jstor.org/stable/1990131). [^Kleene1943]
+    -   The incompleteness of second-order logic is deeply related to recursion.
 
 See also:
 
 -   [Model theory](#model-theory)
 -   [Incompleteness](#incompleteness)
 
+[^Kleene1943]: @Kleene_1943_Recursive_predicates_and_quantifiers\.
 
-**Discussion**
+
+#### Discussion
 
 -   Michael Dummett
+
+-   S.C. Kleene
+    -   Kleene, S.C. (1952). *Introduction to Metamathematics*. [^Kleene1952]
 -   Setwart Shapiro
     -   *Foundations without Foundationalism: A Case for Second-Order Logic* (1991) [^Shapiro1991]
 -   Gillian Russell
@@ -504,6 +513,7 @@ See also:
 [^Bueno2010]: @Bueno_2010_A_defense_of_second_order_logic\.
 [^Enderton2009]: @Enderton_2009_Second_order_and_higher_order_logic\.
 [^Jerzak2009]: @Jerzak_2009_Second_order_logic_or_How_I_learned_to_stop\.
+[^Kleene1952]: @Kleene_1952_Introduction_to_Metamathematics\.
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
 [^Shapiro1991]: @Shapiro_1991_Foundations_without_Foundationalism_A_Case\.
 

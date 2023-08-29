@@ -116,8 +116,9 @@ See also:
 ### Effective altruism
 
 -   Peter Singer
--   Toby Ord
 -   William MacAskill
+-   Toby Ord
+-   Derek Parfit
 
 
 ### Criticism
