@@ -322,8 +322,6 @@ Weyl:
 -   [Stone's theorem on one-parameter unitary groups](https://en.wikipedia.org/wiki/Stone%27s_theorem_on_one-parameter_unitary_groups) (1930, 1932)
 -   [Stone--von Neumann theorem](https://en.wikipedia.org/wiki/Stone%E2%80%93von_Neumann_theorem) (1931, 1932)
 -   [Wigner's theorem](https://en.wikipedia.org/wiki/Wigner%27s_theorem) (1931)
--   Wigner's classification (1939)
-    -   See also: disucssuion of symmetry in the section on [Fields](physics.html#fields)
 -   Wigner-Stone theorems as cornerstones of QM (Ovrut) [^Reece2007pX1]
 -   Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. [^Wigner1959]
 -   Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. [^Schweber1961]
@@ -331,6 +329,7 @@ Weyl:
 -   Summers, S.J. (1999). On the Stone-von Neumann uniqueness theorem and its ramifications. [^Summers1999]
 -   Keller, K.J., Papadopoulos, M.A., & Reyes-Lega, A.F. (2007). [On the realization of symmetries in quantum mechanics](https://arxiv.org/abs/0712.0997). [^Keller2007]
 -   Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. [^Schroeren2021]
+-   [Wigner's theorem](https://ncatlab.org/nlab/show/Wigner+theorem) - nLab
 
 See also:
 
@@ -608,7 +607,7 @@ See also:
 
 #### Wigner's classification
 
--   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification) [^WignerClassification]
+-   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification) (1939) [^WignerClassification]
 
 [^WignerClassification]: @Wigner_1939_On_unitary_representations_of_the_inhomogeneous
     and @Bargmann_1948_Group_theoretical_discussion_of_relativistic_wave\.

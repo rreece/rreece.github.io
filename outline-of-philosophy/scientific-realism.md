@@ -972,7 +972,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
     -   Schlick, M. (1933). Positivism and realism. [^Schlick1933]
 -   Blumberg, A.E. & Feigl, H. (1930). Logical positivism: A new movement in European philosophy. [^Blumberg1931]
     -   First survey of logical positivism published in English?
--   [Second Conference on the Epistemology of the Exact Sciences](https://en.wikipedia.org/wiki/Second_Conference_on_the_Epistemology_of_the_Exact_Sciences)
+-   [Second Conference on the Epistemology of the Exact Sciences](https://en.wikipedia.org/wiki/Second_Conference_on_the_Epistemology_of_the_Exact_Sciences) (1930)
 -   A.J. Ayer (1910-1989)
     -   Ayer, A.J. (1936). *Language, Truth, and Logic*. [^Ayer1936]
     -   Helped the spread of positivism in British academia.
