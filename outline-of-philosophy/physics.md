@@ -319,14 +319,17 @@ Weyl:
 
 ### Wigner-Stone theorems
 
+-   [Stone's theorem on one-parameter unitary groups](https://en.wikipedia.org/wiki/Stone%27s_theorem_on_one-parameter_unitary_groups) (1930, 1932)
+-   [Stone--von Neumann theorem](https://en.wikipedia.org/wiki/Stone%E2%80%93von_Neumann_theorem) (1931, 1932)
+-   [Wigner's theorem](https://en.wikipedia.org/wiki/Wigner%27s_theorem) (1931)
+-   Wigner-Stone theorems as cornerstones of QM (Ovrut) [^Reece2007pX1]
+-   Wigner's classification (1939)
+    -   See also: disucssuion of symmetry in the section on [Fields](physics.html#fields)
 -   Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. [^Wigner1959]
+-   Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. [^Schweber1961]
 -   Simon, B. (1976). Quantum dynamics: from automorphism to Hamiltonian. [^Simon1976]
 -   Summers, S.J. (1999). On the Stone-von Neumann uniqueness theorem and its ramifications. [^Summers1999]
 -   Keller, K.J., Papadopoulos, M.A., & Reyes-Lega, A.F. (2007). [On the realization of symmetries in quantum mechanics](https://arxiv.org/abs/0712.0997). [^Keller2007]
--   Wigner-Stone theorems as cornerstones of QM (Ovrut) [^Reece2007pX1]
--   Wigner's classification
-    -   See also: disucssuion of symmetry in the section on [Fields](physics.html#fields)
--   Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. [^Schweber1961]
 -   Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. [^Schroeren2021]
 
 See also:
@@ -670,6 +673,7 @@ Michael Atiyah:
 -   Dyson series
     -   Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. [^Dyson1949]
     -   Dyson, F.J. (1952). Divergence of perturbation theory in quantum electrodynamics. [^Dyson1952]
+    -   Baez, J. (2016). [Struggles with the continuum, part 6](https://www.physicsforums.com/insights/struggles-continuum-part-6/).
 -   LSZ reduction formula [^Lehmann1955]
 -   Haag-Ruelle scattering theory
 -   Feynman diagrams and Feynman rules

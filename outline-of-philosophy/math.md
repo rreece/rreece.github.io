@@ -330,9 +330,11 @@ More:
     -   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift) (1879)
 -   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
     -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
+    -   PM avoids Russell's paradox by introduction of the "ramified theory of types".
+    -   Later lead to Church's (1976) formulation of the logic of PM with $r$-types.
 -   [Kurt G&ouml;del (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
-    -   [G&ouml;del's completeness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
-    -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+    -   [G&ouml;del's completeness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem) (1929)
+    -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) (1931)
 -   Sheffer, H.M. (1913). [A set of five independent postulates for Boolean algebras, with application to logical constants](https://www.ams.org/journals/tran/1913-014-04/S0002-9947-1913-1500960-1/). [^Sheffer1913]
     -    Propositional logic can be formulated using a single connective: either logical NAND or its dual, logical NOR.
 
@@ -427,11 +429,16 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 -   [G&ouml;del's completeness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem)
     -   Establishes a correspondence between semantic truth and syntactic
         provability in first-order logic.
+    -   G&ouml;del, K. (1929). *&Uuml;ber die Vollst&auml;ndigkeit des Logikkalk&uuml;ls*. [^Godel1929]
+        -   His doctoral dissertation, University Of Vienna.
+        -   The first proof of the completeness theorem.
     -   Awodey, S. & Forssell, H. (2013). First-order logical duality. [^Awodey2013]
     -   [Lindstr&ouml;m's theorem](https://en.wikipedia.org/wiki/Lindstr%C3%B6m%27s_theorem)
 -   [Presburger arithmetic](https://en.wikipedia.org/wiki/Presburger_arithmetic)
     -   First-order theory of the natural numbers with addition, but without multiplication.
     -   Presburger arithmetic is consistent, complete, and decidable.
+
+[^Godel1929]: @Godel_1929_Uber_die_Vollstandigkeit_des\.
 
 
 #### Limitations
@@ -474,6 +481,8 @@ See also:
 
 -   Second-order logic opens the door to G&ouml;del's incompleteness theorems.
 -   According to G&ouml;del's incompleteness theorems, the theory of PA (if consistent) is incomplete.
+-   G&ouml;del, K. (1931). &Uuml;ber formal unentscheidbare S&auml;tze der Principia Mathematica und verwandter Systeme, I. [^Godel1931]
+-   G&ouml;del, K. (1951). Some basic theorems on the foundations of mathematics and their implications. [^Godel1951]
 -   Kleene, S.C. (1943). [Recursive predicates and quantifiers](https://www.jstor.org/stable/1990131). [^Kleene1943]
     -   The incompleteness of second-order logic is deeply related to recursion.
 
@@ -482,6 +491,8 @@ See also:
 -   [Model theory](#model-theory)
 -   [Incompleteness](#incompleteness)
 
+[^Godel1931]: @Godel_1931_Uber_formal_unentscheidbare_Satze_der\.
+[^Godel1951]: @Godel_1995_Some_basic_theorems_on_the_foundations\.
 [^Kleene1943]: @Kleene_1943_Recursive_predicates_and_quantifiers\.
 
 
@@ -633,12 +644,13 @@ Model theory
 ### Incompleteness
 
 -   [Kurt G&ouml;del](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) (1906-1978)
--   Goldstein [^Goldstein2005]
 -   G&ouml;del presented his incompleteness theorems at the
     Second Conference on the Epistemology of the Exact Sciences
     in K&ouml;nigsberg September 5-7, 1930.
 -   von Neumann recognized the importance first.
 -   Carnap had warning of G&ouml;del's results the month before. [^Edmonds2020p96]
+-   TODO: Published in 1931
+-   Goldstein [^Goldstein2005]
 
 Fom the SEP:
 
