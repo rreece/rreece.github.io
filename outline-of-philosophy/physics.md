@@ -322,9 +322,9 @@ Weyl:
 -   [Stone's theorem on one-parameter unitary groups](https://en.wikipedia.org/wiki/Stone%27s_theorem_on_one-parameter_unitary_groups) (1930, 1932)
 -   [Stone--von Neumann theorem](https://en.wikipedia.org/wiki/Stone%E2%80%93von_Neumann_theorem) (1931, 1932)
 -   [Wigner's theorem](https://en.wikipedia.org/wiki/Wigner%27s_theorem) (1931)
--   Wigner-Stone theorems as cornerstones of QM (Ovrut) [^Reece2007pX1]
 -   Wigner's classification (1939)
     -   See also: disucssuion of symmetry in the section on [Fields](physics.html#fields)
+-   Wigner-Stone theorems as cornerstones of QM (Ovrut) [^Reece2007pX1]
 -   Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. [^Wigner1959]
 -   Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. [^Schweber1961]
 -   Simon, B. (1976). Quantum dynamics: from automorphism to Hamiltonian. [^Simon1976]
