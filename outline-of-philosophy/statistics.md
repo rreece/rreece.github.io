@@ -2627,6 +2627,7 @@ See also:
 -   Lovering, C. & Pavlick, E. (2022). [Unit testing for concepts in neural networks](https://aclanthology.org/2022.tacl-1.69/). [^Lovering2022]
 -   [Tweet by Joscha Bach, Mar 25, 2023](https://twitter.com/Plinz/status/1639629419881873410)
 -   [Debate: Do language models need sensory grounding for meaning and understanding?](https://www.youtube.com/watch?v=x10964w00zk) (NYU).
+-   Piantadosi, S. (2023). Talk: [Meaning in the age of large language models](https://www.youtube.com/watch?v=lA19zXgObKA).
 
 Wittgenstein in *PI*:
 

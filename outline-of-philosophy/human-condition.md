@@ -695,6 +695,7 @@ Meditation:
     -   In the Mah&amacr;y&amacr;na tradition, an arhat is far along the path of enlightenment
         but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
+-   [Pratyekabuddhay&amacr;na)](https://en.wikipedia.org/wiki/Pratyekabuddhay%C4%81na) - "solitary buddha"
 
 
 #### Buddhist philosophy
