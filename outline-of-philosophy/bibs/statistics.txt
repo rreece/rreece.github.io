@@ -1,4 +1,5 @@
 Agresti, A. & Coull, B.A. (1998). Approximate is better than "exact" for interval estimation of binomial proportions. *The American Statistician*, 52, 119--126.
+Aifer, M. et al. (2023). Thermodynamic linear algebra. https://arxiv.org/abs/2308.05660
 Aldrich, J. (1997). R. A. Fisher and the making of maximum likelihood 1912-1922. *Statistical Science*, 12, 162-176.
 Amari, S. (1998). Natural gradient works efficiently in learning. *Neural Computation*, 10, 251--276.
 Amari, S. (2016). *Information Geometry and Its Applications*. Springer Japan.
@@ -237,6 +238,7 @@ Mitchell, T.M. (1980). The need for biases in learning generalizations. In *Read
 Mnih, V. et al. (2013). Playing Atari with deep reinforcement learning. https://arxiv.org/abs/1312.5602
 Mnih, V. et al. (2015). Human-level control through deep reinforcement learning. *Nature*, 518(7540), 529--533. http://files.davidqiu.com//research/nature14236.pdf
 Moravcik, M. et al. (2017). DeepStack: Expert-level artificial intelligence in heads-up no-limit poker. *Science*, 356, 508--513. https://arxiv.org/abs/1701.01724
+Muennighoff, N. et al. (2023). Scaling data-constrained language models. https://arxiv.org/abs/2305.16264
 Murphy, K.P. (2012). *Machine Learning: A probabilistic perspective*. MIT Press.
 Murphy, K.P. (2022). *Probabilistic Machine Learning: An introduction*. MIT Press.
 Muthukumar, V., Vodrahalli, K., Subramanian, V., & Sahai, A. (2019). Harmless interpolation of noisy data in regression. https://arxiv.org/abs/1903.09139
@@ -312,6 +314,7 @@ Singh, S.P., Lucchi, A., Hofmann, T., & Sch{\"o}lkopf, B. (2022). Phenomenology 
 Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. In S. Skansi (ed.), *Guide To Deep Learning Basics: Logical, Historical And Philosophical Perspectives* (pp. 41--53). Springer.
 Slonim, N., Atwal, G.S., Tkacik, G. & Bialek, W. (2005). Information-based clustering. *Proceedings of the National Academy of Sciences*, 102(51), 18297--18302. https://arxiv.org/abs/q-bio/0511043
 Smith, L. (2019). A gentle introduction to information geometry. http://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html [September 27, 2019]
+Sohl-Dickstein, J. (2020). Two equalities expressing the determinant of a matrix in terms of expectations over matrix-vector products. https://arxiv.org/abs/2005.06553
 Solomonoff, G. (2016). Ray Solomonoff and the Dartmouth Summer Research Project in Artificial Intelligence, 1956. http://raysolomonoff.com/dartmouth/dartray.pdf
 Southey, F. et al. (2012). Bayes' bluff: Opponent modelling in poker. https://arxiv.org/abs/1207.1411
 Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. *Physics of Plasmas*, 25(8), 080901.

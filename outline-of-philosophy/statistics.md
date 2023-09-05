@@ -1952,11 +1952,13 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
 -   Rae, J.W. et al. (2022). [Scaling language models: Methods, analysis & insights from training Gopher](https://arxiv.org/abs/2112.11446). [^Rae2022]
 -   Hoffmann, J. et al. (2022). [Training compute-optimal large language models](https://arxiv.org/abs/2203.15556) (Chinchilla).  [^Hoffmann2022]
 -   Constantin, S. (2023). ["Scaling Laws" for AI and some implications](https://sarahconstantin.substack.com/p/scaling-laws-for-ai-and-some-implications).
+-   Muennighoff, N. et al. (2023). [Scaling data-constrained language models](https://arxiv.org/abs/2305.16264). [^Muennighoff2023]
 
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Hestness2017]: @Hestness_2017_Deep_learning_scaling_is_predictable_empirically\.
 [^Hoffmann2022]: @Hoffmann_2022_Training_compute_optimal_large_language_models\.
 [^Kaplan2020]: @Kaplan_2020_Scaling_laws_for_neural_language_models\.
+[^Muennighoff2023]: @Muennighoff_2023_Scaling_data_constrained_language_models\.
 [^Rae2022]: @Rae_2022_Scaling_language_models_Methods_analysis\.
 
 
@@ -2437,7 +2439,10 @@ Roberts:
 -   Cantwell, G.T. (2022). [Approximate sampling and estimation of partition functions using neural networks](https://arxiv.org/abs/2209.10423). [^Cantwell2022]
 -   Wang, L. (2022). [Generative AI for science](https://drive.google.com/file/d/1D1bL--Zmv0J7n-QEqRvRb3erf5abV1o0/view).
 -   Dinan, E., Yaida, S., & Zhang, S. (2023). [Effective theory of transformers at initialization](https://arxiv.org/abs/2304.02034). [^Dinan2023]
+-   Sohl-Dickstein, J. (2020). [Two equalities expressing the determinant of a matrix in terms of expectations over matrix-vector products](https://arxiv.org/abs/2005.06553). [^SohlDickstein2020]
+-   Aifer, M. et al. (2023). [Thermodynamic linear algebra](https://arxiv.org/abs/2308.05660). [^Aifer2023]
 
+[^Aifer2023]: @Aifer_2023_Thermodynamic_linear_algebra\.
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
 [^Canatar2020]: @Canatar_2020_Spectral_bias_and_task_model_alignment_explain\.
 [^Cantwell2022]: @Cantwell_2022_Approximate_sampling_and_estimation_of_partition\.
@@ -2446,6 +2451,7 @@ Roberts:
 [^Opper1996]: @Opper_1996_Statistical_mechanics_of_generalization\.
 [^Opper2001]: @Opper_2001_Learning_to_generalize\.
 [^Roberts2021PDLT]: @Roberts_2021_The_Principles_of_Deep_Learning_Theory\.
+[^SohlDickstein2020]: @Sohl_Dickstein_2020_Two_equalities_expressing_the_determinant\.
 
 
 ### Relationship to gauge theory

@@ -333,6 +333,7 @@ Weyl:
 
 See also:
 
+-   [Foundations of QM](#foundations-of-qm)
 -   [Quantum field theory](#quantum-field-theory)
 
 [^Keller2007]: @Keller_2007_On_the_realization_of_symmetries_in_quantum\.
@@ -446,8 +447,15 @@ $$ \hat{U}(x^{\mu}) = e^{ -i \, \hat{P}_\mu \, x^\mu } $$
     -   [Riesz representation theorem](https://en.wikipedia.org/wiki/Riesz_representation_theorem)
     -   Jordan, P., von Neumann, J., & Wigner, E.P. (1934). On an algebraic generalization of the quantum mechanical formalism. [^Jordan1934]
     -   Baez, J.C. (2011). [Division algebras and quantum theory](https://arxiv.org/abs/1101.5690). [^Baez2011a]
+-   Hilbert spaces
+    -   Carcassi, G., Calderon, F., & Aidala, C.A. (2023). [The unphysicality of Hilbert spaces](https://arxiv.org/abs/2308.06669). [^Carcassi2023]
+
+See all:
+
+-   [Wigner-Stone theorems](#wigner-stone-theorems)
 
 [^Baez2011a]: @Baez_2011_Division_algebras_and_quantum_theory\.
+[^Carcassi2023]: @Carcassi_2023_The_unphysicality_of_Hilbert_spaces\.
 [^Jordan1934]: @Jordan_1934_On_an_algebraic_generalization_of_the_quantum\.
 
 
