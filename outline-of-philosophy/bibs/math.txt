@@ -42,6 +42,8 @@ Goodman, N. & Quine, W.V.O. (1947). Steps toward a constructive nominalism. *The
 Hall, B.C. (2000). *An Elementary Introduction to Groups and Representations*. https://arxiv.org/abs/math-ph/0005032
 Hamming, R. W. (1980). The unreasonable effectiveness of mathematics. *The American Mathematical Monthly*, 87, 81--90.
 Hardy, G.H. (1940). *A Mathematician's Apology*. Cambridge University Press.
+Henkin, L. (1953). Some notes on nominalism. *The Journal of Symbolic Logic*, 18, 19--29. https://doi.org/10.2307/2266323
+Henkin, L. (1996). The discovery of my completeness proofs. *Bulletin of Symbolic Logic*, 2, 127--158. https://doi.org/10.2307/421107
 Hilbert, D. (1926). \"{U}ber das Unendliche. *Mathematische Annalen*, 95, 161--190. https://lawrencecpaulson.github.io/papers/on-the-infinite.pdf [English translation, On the infinite, in van Heijenoort, J. (1967). \emph{From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1897-1931}, pp. 183--201. Harvard University Press.]
 Hilbert, D. (1967). The foundations of mathematics. In J. van Heijenoort (Ed.), *From Frege to G\"{o}del: A Source Book in Mathematical Logic, 1879-1931* (pp. 464--479). Harvard University Press. [(From a lecture given by Hilbert in 1927).]
 Holm, D.D. (2011). *Geometric Mechanics - Part I: Dynamics And Symmetry* (2nd ed.). Imperial College Press.
@@ -56,6 +58,7 @@ Lewis, D. (1986). *On the Plurality of Worlds*. Oxford: Blackwell.
 Linsky, B. & Zalta, E.N. (2006). What is Neologicism? *The Bulletin of Symbolic Logic*, 12, 60-99. http://mally.stanford.edu/Papers/neologicism2.pdf
 Lloyd, S. (1993). Quantum-mechanical computers and uncomputability. Physical Review Letters, 71, 943--46.
 MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction*. Routledge.
+Makowsky, J.A. (1995). The impact of model theory on theoretical computer science. *Studies in Logic and the Foundations of Mathematics*, 134, 239--262. https://doi.org/10.1016/S0049-237X(06)80047-9
 Mart{\'i}nez-Ordaz, M.R. (2021). The ignorance behind inconsistency toleration. *Synthese*, 198, 8665--8686. http://philsci-archive.pitt.edu/19672/
 Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
 Post, E.L. (1921). Introduction to the general theory of elementary propositions. *American Journal of Mathematics*, 43, 163--185.

@@ -434,6 +434,7 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
     -   G&ouml;del, K. (1929). *&Uuml;ber die Vollst&auml;ndigkeit des Logikkalk&uuml;ls*. [^Godel1929]
         -   His doctoral dissertation, University Of Vienna.
         -   The first proof of the completeness theorem.
+    -   Henkin, L. (1996). The discovery of my completeness proofs. [^Henkin1996]
     -   Awodey, S. & Forssell, H. (2013). First-order logical duality. [^Awodey2013]
     -   [Lindstr&ouml;m's theorem](https://en.wikipedia.org/wiki/Lindstr%C3%B6m%27s_theorem)
 -   [Presburger arithmetic](https://en.wikipedia.org/wiki/Presburger_arithmetic)
@@ -441,6 +442,7 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
     -   Presburger arithmetic is consistent, complete, and decidable.
 
 [^Godel1929]: @Godel_1929_Uber_die_Vollstandigkeit_des\.
+[^Henkin1996]: @Henkin_1996_The_discovery_of_my_completeness_proofs\.
 
 
 #### Limitations
@@ -475,6 +477,10 @@ See also:
     -   [Second-order arithmetic](https://en.wikipedia.org/wiki/Second-order_arithmetic), $\mathrm{Z}_{2}$
 -   The power set can be written in terms of second-order logic.
     -   This second-order expressibility of the power-set operation permits the simulation of higher-order logic within second order. [^Enderton2009]
+-   $\mathbb{N} \models \mathrm{PA}$
+    -   The natural numbers model PA, but not uniquely in FOL.
+    -   In SOL, PA is *categorical*, meaning it has only one model up to isomorphism.
+-   Henkin semantics
 -   Higher-order logics, type theory
     -   Russell's theory of types
     -   Alonzo Church's lambda calculus
@@ -604,6 +610,7 @@ Criticism:
 
 See also:
 
+-   [Complexity theory](#complexity-theory)
 -   [Logicism](#logicism)
 -   [Formalism](#formalism)
 
@@ -641,6 +648,7 @@ More:
 
 -   [Model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
+-   Makowsky, J.A. (1995). [The impact of model theory on theoretical computer science](https://doi.org/10.1016/S0049-237X(06)80047-9). [^Makowsky1995]
 
 See also:
 
@@ -648,6 +656,7 @@ See also:
 
 [^Button2018]: @Button_2018_Philosophy_and_Model_Theory\.
 [^Hunter1971p6]: @Hunter_1971_Metalogic_An_Introduction_to_the_Metatheory\, p. 6.
+[^Makowsky1995]: @Makowsky_1995_The_impact_of_model_theory_on_theoretical_computer\.
 [^Weiss2015]: @Weiss_2015_Fundamentals_of_Model_Theory\.
 [^Weiss2015p1]: @Weiss_2015_Fundamentals_of_Model_Theory\, p. 1.
 
@@ -661,6 +670,8 @@ See also:
 -   Rudolf Carnap (1891-1970)
 -   Alfred Tarski (1901-1983)
 -   Kurt G&ouml;del (1906-1978)
+-   Leon Henkin (1921-2006)
+-   Jaakko Hintikka (1929-2015)
 -   Wilfrid Hodges (b. 1941)
 
 
@@ -768,6 +779,10 @@ See also:
 
 -   Scott Aaronson's [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
 -   Aaronson, S. (2011). [Why philosophers should care about computational complexity](https://arxiv.org/abs/1108.1791). [^Aaronson2011]
+
+See also:
+
+-   [Proof theory](#proof-theory)
 
 [^Aaronson2011]: @Aaronson_2011_Why_philosophers_should_care_about_computational\.
 
@@ -1070,6 +1085,7 @@ Johwn Stuart Mill:
 
 -   Positivism, Carnap, ESO
 -   Goodman & Quine [^Goodman1947]
+-   Henkin, L. (1953). [Some notes on nominalism](https://doi.org/10.2307/2266323). [^Henkin1953]
 -   Azzouni, J. (2015). Nominalism, the nonexistence of mathematical objects. [^Azzouni2015]
 
 See also:
@@ -1080,6 +1096,7 @@ See also:
 [^Bayes1736p9]: @Bayes_1736_An_Introduction_to_the_Doctrine_of_Fluxions\, p. 9--10.
 [^Goodman1947]: @Goodman_1947_Steps_toward_a_constructive_nominalism\.
 [^Goodman1947p105]: @Goodman_1947_Steps_toward_a_constructive_nominalism\, p. 105.
+[^Henkin1953]: @Henkin_1953_Some_notes_on_nominalism\.
 [^Mill1877]: @Mill_1877_An_Examination_of_Sir_William_Hamiltons\.
 
 

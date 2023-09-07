@@ -636,6 +636,7 @@ See also:
 
 #### Introduction
 
+-   Stern-Gerlach experiment (1922)
 -   Ohanian [^Ohanian1986]
 -   Peskin [^Peskin1994]
 -   Sebens [^Sebens2019]
