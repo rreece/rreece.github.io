@@ -17,6 +17,7 @@ Chakravartty, A. (2017). Scientific realism. *Stanford Encyclopedia of Philosoph
 Chalmers, D. (2003). The Matrix as metaphysics. http://consc.net/papers/matrix.html
 Chu, J.S. & Evans, J.A. (2021). Slowed canonical progress in large fields of science. *Proceedings of the National Academy of Sciences*, 118(41), e2021636118. https://www.pnas.org/doi/full/10.1073/pnas.2021636118
 Clarke, K.A. & Primo, D.M. (2004). The theoretical implications of the empirical implications of theoretical models. [Paper presented at the Annual Meeting of the American Political Science Association, September 2004, Chicago.]
+Coffa, A. (1987). Carnap, Tarski and the search for truth. *No{\^u}s*, 21, 547--572. https://www.jstor.org/stable/2215672
 Comte, A. (1835). *Cours de la Philosophie Positive*. 
 Daitz, E. (1953). The picture theory of meaning. *Mind*, 62, 184--201. https://www.jstor.org/stable/2251383
 Dennett, D.C. (1991). Real patterns. *The Journal of Philosophy*, 88, 27--51. https://web.ics.purdue.edu/~drkelly/DCDRealPatterns1991.pdf

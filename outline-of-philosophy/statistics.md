@@ -1560,6 +1560,7 @@ Papers:
 -   Belkin, M. (2021). [Fit without fear: remarkable mathematical phenomena of deep learning through the prism of interpolation](https://arxiv.org/abs/2105.14368). [^Belkin2021]
 -   Nagarajan, V. (2021). [Explaining generalization in deep learning: progress and fundamental limits](https://arxiv.org/abs/2110.08922). [^Nagarajan2021]
 -   Bach, F. (2022). [*Learning Theory from First Principles*](https://www.di.ens.fr/~fbach/ltfp_book.pdf). [^Bach2022p225]
+-   Barak, B. (2022). [The uneasy relationship between deep learning and (classical) statistics](https://windowsontheory.org/2022/06/20/the-uneasy-relationship-between-deep-learning-and-classical-statistics/).
 -   Ghosh, N. & Belkin, M. (2022). [A universal trade-off between the model size, test loss, and training loss of linear predictors](https://arxiv.org/abs/2207.11621). [^Ghosh2022]
 -   Singh, S.P., Lucchi, A., Hofmann, T., & Sch&ouml;lkopf, B. (2022). [Phenomenology of double descent in finite-width neural networks](https://arxiv.org/abs/2203.07337). [^Singh2022]
 -   Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J. (2022). [Surprises in high-dimensional ridgeless least squares interpolation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481183/). [^Hastie2022]

@@ -23,6 +23,7 @@ Carnap, R. (1983). The Logicist foundations of mathematics. In Benacerraf, P. & 
 Carroll, L. (1895). What the tortoise said to Achilles. *Mind*, 4(14), 278--280. http://www.ditext.com/carroll/tortoise.html
 Carter, N. (2009). *Visual Group Theory*. Mathematical Association of America.
 Chen, E.K. (2018). The intrinsic structure of quantum mechanics. http://philsci-archive.pitt.edu/15140/
+Church, A. (1936). A note on the Entscheidungsproblem. *The Journal of Symbolic Logic*, 1, 40--41.
 Connes, A. (1985). Non-commutative differential geometry. *Publications Math\'{e}matiques de L'Institut des Hautes Scientifiques*, 62, 41--144. https://link.springer.com/article/10.1007/BF02698807
 De Cruz, H. (2016). Numerical cognition and mathematical realism. *Philosopher's Imprint*, 16, 1--13. http://hdl.handle.net/2027/spo.3521354.0016.016
 Drake, S. (1957). *Discoveries and Opinions of Galileo*. New York: Doubleday and Co.
@@ -80,6 +81,8 @@ Stillwell, J. (2004). Emil Post and his anticipation of G{\"o}del and Turing. *M
 Sussman, G.J. & Wisdom, J. (2013). *Functional Differential Geometry*. MIT Press. https://mitpress.mit.edu/books/functional-differential-geometry
 Tait, W.W. (1983). Against intuitionism: Constructive mathematics is part of classical mathematics. *Journal of Philosophical Logic*, 12, 173--195. 
 Tao, T. (2007). Differential forms and integration. https://www.math.ucla.edu/~tao/preprints/forms.pdf
+Tarski, A. (1969). Truth and proof. *Scientific American*, 220, 63--77. https://web.archive.org/web/20141229081319/http://people.scs.carleton.ca/~bertossi/logic/material/tarski.pdf
+Tarski, A. (1983). The concept of truth in formalized languages. In J. Corcoran (ed.), *Logic, Semantics, Metamathematics*. Hackett. http://www.thatmarcusfamily.org/philosophy/Course_Websites/Readings/Tarski%20-%20The%20Concept%20of%20Truth%20in%20Formalized%20Languages.pdf [(Originally published in 1936 in German.)]
 Tegmark, M. (2008). The mathematical universe. *Foundations of Physics*, 38, 101--150. https://arxiv.org/abs/0704.0646
 Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
 Teller, P. (1989). *A Modern Formal Logic Primer*. Prentice Hall. https://tellerprimer.ucdavis.edu/
@@ -88,5 +91,6 @@ Varadarajan, V.S. (2003). Vector bundles and connections in physics and mathemat
 Viteri, S. & DeDeo, S. (2022). Epistemic phase transitions in mathematical proofs. *Cognition*, 225, 105120. https://www.sciencedirect.com/science/article/pii/S0010027722001081
 von Fintel, K. (2011). Conditionals. https://dspace.mit.edu/handle/1721.1/95781
 Weiss, W. & D'Mello, C. (2015). *Fundamentals of Model Theory*. https://www.math.toronto.edu/weiss/model_theory.pdf
+Westbury, B.W. (2010). Hurwitz' theorem on composition algebras. https://arxiv.org/abs/1011.6197
 Wigner, E.P. (1960). The unreasonable effectiveness of mathematics in the natural sciences. *Communications on pure and applied mathematics*, 13, 1--14. http://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html [Richard courant lecture in mathematical sciences delivered at New York University, May 11, 1959]
 Zee, A. (2016). *Group Theory in a Nutshell for Physicists*. Princeton University Press.

@@ -1072,6 +1072,7 @@ TODO: Note any differences between:
 -   Carnap, R. (1937). *The Logical Syntax of Language*. (*LSL*)[^Carnap1937LSL]
     -   Fowler, S. (2010). LSL in a nutshell. [^Fowler2010]
     -   Leitgeb & Carus: "talk of meaning should in any case be eschewed in favor of talk of syntax" [^Leitgeb2020G]
+    -   Coffa, A. (1987). [Carnap, Tarski and the search for truth](https://www.jstor.org/stable/2215672). [^Coffa1987]
     -   Blanchette, P. (2013). Talk: [Frege and G&ouml;del on mathematics as syntax](https://www.youtube.com/watch?v=y8yZp-cjR2I).
 -   Carnap, R. (1950). Empiricists, semantics, and ontology. (ESO) [^Carnap1950]
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
@@ -1106,6 +1107,7 @@ Discussion:
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Carnap1950p7]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 7.
 [^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
+[^Coffa1987]: @Coffa_1987_Carnap_Tarski_and_the_search_for_truth\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 [^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
 [^Lavers2004]: @Lavers_2004_Carnap_semantics_and_ontology\.

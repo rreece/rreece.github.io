@@ -79,6 +79,7 @@ TODO
     -   The real numbers, the complex numbers, the quaternions, and the octonions
         exhaust all the possible normed division algebras.
     -   Baez, J.C. (2002). [The octonions](https://arxiv.org/abs/math/0105155). [^Baez2002]
+    -   Westbury, B.W. (2010). [Hurwitz' theorem on composition algebras](https://arxiv.org/abs/1011.6197). [^Westbury2010]
 
 See also:
 
@@ -86,6 +87,7 @@ See also:
 -   [Supersymmetry](physics.html#supersymmetry) in the Outline of [physics](physics.html)
 
 [^Baez2002]: @Baez_2002_The_octonions\.
+[^Westbury2010]: @Westbury_2010_Hurwitz_theorem_on_composition_algebras\.
 
 
 Analysis
@@ -477,12 +479,10 @@ See also:
     -   Russell's theory of types
     -   Alonzo Church's lambda calculus
 
-#### Incompleteness
+#### Incompleteness of second-order logic
 
 -   Second-order logic opens the door to G&ouml;del's incompleteness theorems.
 -   According to G&ouml;del's incompleteness theorems, the theory of PA (if consistent) is incomplete.
--   G&ouml;del, K. (1931). &Uuml;ber formal unentscheidbare S&auml;tze der Principia Mathematica und verwandter Systeme, I. [^Godel1931]
--   G&ouml;del, K. (1951). Some basic theorems on the foundations of mathematics and their implications. [^Godel1951]
 -   Kleene, S.C. (1943). [Recursive predicates and quantifiers](https://www.jstor.org/stable/1990131). [^Kleene1943]
     -   The incompleteness of second-order logic is deeply related to recursion.
 
@@ -599,6 +599,7 @@ Criticism:
 
 -   [Curry-Howard correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence)
 -   [Proof-theoretic semantics](https://plato.stanford.edu/entries/proof-theoretic-semantics/)
+-   [Realizability](https://en.wikipedia.org/wiki/Realizability)
 -   Viteri, S. & DeDeo, S. (2022). [Epistemic phase transitions in mathematical proofs](https://www.sciencedirect.com/science/article/pii/S0010027722001081). [^Viteri2022]
 
 See also:
@@ -620,36 +621,54 @@ Model theory
 -   SEP: [Model theory](https://plato.stanford.edu/entries/model-theory/)
     -   Model theory is the study of the interpretation of any language, formal or natural, by means of set-theoretic structures, with Alfred Tarski's truth definition as a paradigm.
 
+Hunter:
+
 >   *Model theory* is the theory of interpretations of formal languages
 >   (a *model* of a formula of a language is an interpretation of the
 >   language for which the formula comes out true). [^Hunter1971p6]
 
--   William Rowan Hamilton
--   Alfred North Whitehead. (1898). *A Treatise on Universal Algebra*.
--   Wilfrid Hodges
--   language
--   Tarski
--   Carnap
+Weiss & D'Mello:
+
+>   Model Theory is the part of mathematics which shows how to apply logic
+>   to the study of structures in pure mathematics. [^Weiss2015p1]
+
+History:
+
+-   William Rowan Hamilton (1805-1865)
+-   Alfred North Whitehead (1861-1947)
+    -   Whitehead, A.N. (1898). *A Treatise on Universal Algebra*.
+-   L&ouml;wenheim-Skolem theorem (1915, 1920)
+-   Rudolf Carnap (1891-1970)
+-   Alfred Tarski (1901-1983)
+-   Wilfrid Hodges (b. 1941)
+
+Intro:
+
 -   Weiss, W. & D'Mello, C. (2015). [*Fundamentals of Model Theory*](https://www.math.toronto.edu/weiss/model_theory.pdf). [^Weiss2015]
 -   Button, T. & Walsh, S. (2018). *Philosophy and Model Theory*. [^Button2018]
 -   [Model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
-    -   See also: [Formal epistemology](scientific-method.html#formal-epistemology)
+
+See also:
+
+-   [Formal epistemology](scientific-method.html#formal-epistemology)
 
 [^Button2018]: @Button_2018_Philosophy_and_Model_Theory\.
 [^Hunter1971p6]: @Hunter_1971_Metalogic_An_Introduction_to_the_Metatheory\, p. 6.
 [^Weiss2015]: @Weiss_2015_Fundamentals_of_Model_Theory\.
+[^Weiss2015p1]: @Weiss_2015_Fundamentals_of_Model_Theory\, p. 1.
 
 
 ### Incompleteness
 
 -   [Kurt G&ouml;del](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) (1906-1978)
+-   G&ouml;del, K. (1931). &Uuml;ber formal unentscheidbare S&auml;tze der Principia Mathematica und verwandter Systeme, I. [^Godel1931]
+-   G&ouml;del, K. (1951). Some basic theorems on the foundations of mathematics and their implications. [^Godel1951]
 -   G&ouml;del presented his incompleteness theorems at the
     Second Conference on the Epistemology of the Exact Sciences
     in K&ouml;nigsberg September 5-7, 1930.
--   von Neumann recognized the importance first.
--   Carnap had warning of G&ouml;del's results the month before. [^Edmonds2020p96]
--   TODO: Published in 1931
+    -   von Neumann recognized the importance first.
+    -   Carnap had warning of G&ouml;del's results the month before. [^Edmonds2020p96]
 -   Goldstein [^Goldstein2005]
 
 Fom the SEP:
@@ -680,7 +699,10 @@ From Wikipedia:
 Related:
 
 -   Tarski's undefinability theorem on the formal undefinability of truth
+    -   Tarski, A. (1936). The concept of truth in formalized languages. [^Tarski1936]
+    -   Tarski, A. (1969). [Truth and proof](https://web.archive.org/web/20141229081319/http://people.scs.carleton.ca/~bertossi/logic/material/tarski.pdf) [^Tarski1969]
 -   Church's proof that Hilbert's Entscheidungsproblem is unsolvable
+    -   Church, A. (1936). A note on the Entscheidungsproblem. [^Church1936]
 -   Turing's theorem that there is no algorithm to solve the halting problem
     -   Turing, A.M. (1937). On computable numbers, with an application to the Entscheidungsproblem. [^Turing1937]
 
@@ -721,8 +743,10 @@ See also:
 -   [Artificial intelligence](mind.html#artificial-intelligence)
 -   [Formalism](#formalism)
 -   [Hilbert's program](#hilberts-program)
+-   [Incompleteness of second-order logic](#incompleteness-of-second-order-logic)
 
 [^Atiyah1994p182]: @Atiyah_1994_Responses_to_Theoretical_Mathematics_Toward\, p. 182.
+[^Church1936]: @Church_1936_A_note_on_the_Entscheidungsproblem\.
 [^Cubitt2015]: @Cubitt_2015_Undecidability_of_the_spectral_gap\.
 [^Edmonds2020p96]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\, p. 96
     and TODO: Carnap's diary.
@@ -730,6 +754,8 @@ See also:
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
 [^Lloyd1993]: @Lloyd_1993_Quantum_mechanical_computers_and_uncomputability\.
 [^Raatikainen2020]: @Raatikainen_2020_Godels_incompleteness_theorems\.
+[^Tarski1936]: @Tarski_1983_The_concept_of_truth_in_formalized_languages\.
+[^Tarski1969]: @Tarski_1969_Truth_and_proof\.
 [^Turing1937]: @Turing_1937_On_computable_numbers_with_an_application\.
 
 
@@ -758,6 +784,8 @@ Category theory
 -   Relation to Russell type theory
 -   Univalent foundations
 -   Categories are semigroupoids.
+-   [Curry-Howard-Lambek correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence#Curry%E2%80%93Howard%E2%80%93Lambek_correspondence)
+    -   Three-way isomorphism between intuitionistic logic, typed lambda calculus, and cartesian closed categories
 
 See also:
 
