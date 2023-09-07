@@ -632,20 +632,13 @@ Weiss & D'Mello:
 >   Model Theory is the part of mathematics which shows how to apply logic
 >   to the study of structures in pure mathematics. [^Weiss2015p1]
 
-History:
-
--   William Rowan Hamilton (1805-1865)
--   Alfred North Whitehead (1861-1947)
-    -   Whitehead, A.N. (1898). *A Treatise on Universal Algebra*.
--   L&ouml;wenheim-Skolem theorem (1915, 1920)
--   Rudolf Carnap (1891-1970)
--   Alfred Tarski (1901-1983)
--   Wilfrid Hodges (b. 1941)
-
-Intro:
+Pedagogy:
 
 -   Weiss, W. & D'Mello, C. (2015). [*Fundamentals of Model Theory*](https://www.math.toronto.edu/weiss/model_theory.pdf). [^Weiss2015]
 -   Button, T. & Walsh, S. (2018). *Philosophy and Model Theory*. [^Button2018]
+
+More:
+
 -   [Model theory](https://ncatlab.org/nlab/show/model+theory) - nLab
 -   [Formal epistemology](https://plato.stanford.edu/entries/formal-epistemology/)
 
@@ -657,6 +650,18 @@ See also:
 [^Hunter1971p6]: @Hunter_1971_Metalogic_An_Introduction_to_the_Metatheory\, p. 6.
 [^Weiss2015]: @Weiss_2015_Fundamentals_of_Model_Theory\.
 [^Weiss2015p1]: @Weiss_2015_Fundamentals_of_Model_Theory\, p. 1.
+
+
+### History
+
+-   William Rowan Hamilton (1805-1865)
+-   Alfred North Whitehead (1861-1947)
+    -   Whitehead, A.N. (1898). *A Treatise on Universal Algebra*.
+-   L&ouml;wenheim-Skolem theorem (1915, 1920)
+-   Rudolf Carnap (1891-1970)
+-   Alfred Tarski (1901-1983)
+-   Kurt G&ouml;del (1906-1978)
+-   Wilfrid Hodges (b. 1941)
 
 
 ### Incompleteness
