@@ -610,6 +610,7 @@ Criticism:
 
 See also:
 
+-   [Category theory](#category-theory)
 -   [Complexity theory](#complexity-theory)
 -   [Logicism](#logicism)
 -   [Formalism](#formalism)

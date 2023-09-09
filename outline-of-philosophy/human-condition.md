@@ -695,7 +695,8 @@ Meditation:
     -   In the Mah&amacr;y&amacr;na tradition, an arhat is far along the path of enlightenment
         but may not have reached full Buddhahood.
 -   [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood)
--   [Pratyekabuddhay&amacr;na)](https://en.wikipedia.org/wiki/Pratyekabuddhay%C4%81na) - "solitary buddha"
+-   [Pratyekabuddhay&amacr;na](https://en.wikipedia.org/wiki/Pratyekabuddhay%C4%81na) - "solitary buddha"
+-   [Parinirvana](https://en.wikipedia.org/wiki/Parinirvana) - nirvana-after-death
 
 
 #### Buddhist philosophy
@@ -713,6 +714,7 @@ Meditation:
     -   Kalama Sutta ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.than.html))
     -   Bhikkhu Bodhi (1998). [A look at the Kalama Sutta](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_09.html).
 -   [Buddhist cosmology](https://en.wikipedia.org/wiki/Buddhist_cosmology)
+    -   [Mara](https://en.wikipedia.org/wiki/Mara_(demon)) - demon of desire and temptation
     -   [Mount Meru](https://en.wikipedia.org/wiki/Mount_Meru)
 
 **Ethics**
@@ -842,9 +844,10 @@ See also:
 [Tripitaka](https://en.wikipedia.org/wiki/Tripitaka) - "The Three Baskets" of the [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon):
 
 1.  [*Vinaya Pitaka*](https://en.wikipedia.org/wiki/Vinaya_Pitaka) - "Basket of Discipline"
+    -   [Mah&amacr;vastu](https://en.wikipedia.org/wiki/Mah%C4%81vastu) - a biography of Buddha Shakyamuni
 2.  [*Sutta Pitaka*](https://en.wikipedia.org/wiki/Sutta_Pitaka) - "Basket of Discourse"
     1.  [*D&imacr;gha Nik&amacr;ya*](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN) - "collection of long discourses"
-        -   [*Mah&amacr;parinibb&amacr;na Sutta*](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta)
+        -   [*Mah&amacr;parinibb&amacr;na Sutta*](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta) - about the end of the Buddha's life
     2.  [*Majjhima Nik&amacr;ya*](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN) - "collection of middle-length discourses"
     3.  [*Samyutta Nik&amacr;ya*](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN) - "collection of connected discourses"
         -   [*Kacc&amacr;nagotta Sutta*](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) - "On Right View" (SN 12.15)
@@ -1002,6 +1005,7 @@ Online Suttas:
         -   Thich Nhat Hanh's Dhamma talk: [The Island of Self; The Three Dharma Seals](https://sites.google.com/site/tnhdhamma/Home/test-list/the-island-of-self-the-three-dharma-seals).
     4.  [*Ekottara &Amacr;gama*](https://en.wikipedia.org/wiki/Ekottara_Agama) (EA) = [*Anguttara Nik&amacr;ya*](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN)
     5.  [*Ksudraka &Amacr;gama*](https://en.wikipedia.org/wiki/Ksudraka_Agama) (KA) = [*Khuddaka Nik&amacr;ya*](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN)
+-   [Lalitavistara S&umacr;tra](https://en.wikipedia.org/wiki/Lalitavistara_S%C5%ABtra) - a biography of Buddha Shakyamuni
 -   Mah&amacr;y&amacr;na builds on the Therav&amacr;da texts, adding the [Mah&amacr;y&amacr;na sutras](https://en.wikipedia.org/wiki/Mahayana_sutras).
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) - "The Perfection of Wisdom"
     -   radical non-dualism

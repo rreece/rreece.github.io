@@ -720,15 +720,16 @@ Michael Atiyah:
 -   't Hooft, G. (1971). Renormalizable Lagrangians for massive Yang-Mills fields. [^tHooft1971]
 -   Wilson, K. (1974). The renormalization group and the $\varepsilon$ expansion. [^Wilson1974]
 -   Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. [^Goldenfeld1992]
--   Butterfield, J. (2014). [Reduction, emergence, and renormalization](https://arxiv.org/abs/1406.4354v1). [^Butterfield2014]
--   Butterfield, J. & Bouatta, N. (2015). [Renormalization for philosophers](https://arxiv.org/abs/1406.4532). [^Butterfield2015]
-    -   Universality is multiple realizability
 -   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. (again) [^tHooft1994b]
 -   't Hooft, G. (1999). A confrontation with infinity (Nobel lecture). [^tHooft1999]
+-   Borcherds, R.E. & Barnard, A. (2002). [Lectures on quantum field theory](https://arxiv.org/abs/math-ph/0204014). [^Borcherds2002]
 -   The "renormalization group" isn't a group; it's actually a semigroup.
     The reason that renormalization produces a semigroup is that a block
     transformation loses information. [^Kadanoff2013p50]
--   Borcherds, R.E. & Barnard, A. (2002). [Lectures on quantum field theory](https://arxiv.org/abs/math-ph/0204014). [^Borcherds2002]
+-   Butterfield, J. (2014). [Reduction, emergence, and renormalization](https://arxiv.org/abs/1406.4354v1). [^Butterfield2014]
+-   Butterfield, J. & Bouatta, N. (2015). [Renormalization for philosophers](https://arxiv.org/abs/1406.4532). [^Butterfield2015]
+    -   Universality is multiple realizability
+-   Phillips, P.W. (2023). [Fifty years of Wilsonian renormalization and counting](https://arxiv.org/abs/2309.02484). [^Phillips2023]
 -   Video: [Moving Naturalism Forward, Day 1, Afternoon, 2nd Session: Simon DeDeo on renormalization](https://www.youtube.com/watch?v=-ZYLb7D2bQw).
  
 [^Borcherds2002]: @Borcherds_2002_Lectures_on_quantum_field_theory\.
@@ -737,6 +738,7 @@ Michael Atiyah:
 [^Dirac1963]: @Dirac_1963_The_evolution_of_the_physicists_picture\.
 [^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
 [^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50.
+[^Phillips2023]: HERE
 [^tHooft1971]: @tHooft_1971_Renormalizable_Lagrangians_for_massive_Yang_Mills\.
 [^tHooft1994b]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 [^tHooft1999]: @tHooft_1999_A_confrontation_with_infinity\.
