@@ -403,6 +403,7 @@ Hinduism
     -   discusses epistemology (pramana) that is empiricist, involving perception, inference, and knowledge
     -   names fives steps in logical inference
 -   [*Brahma Sutras*](https://en.wikipedia.org/wiki/Brahma_Sutras) AKA Vedanta Sutra (c. 400-450 CE)
+-   [*Puranas*](https://en.wikipedia.org/wiki/Puranas) - vast genre of traditional myths
 
 
 #### Secondary texts
@@ -468,11 +469,11 @@ Others:
 -   [Ganesha](https://en.wikipedia.org/wiki/Ganesha)
     -   God of new beginnings, wisdom, luck, and remover of obstacles.
     -   Son of Shiva and Parvati.
--   [Indra](https://en.wikipedia.org/wiki/Indra)
-    -   God of sky, weather, lightening, and war.
 -   [Mahadevi AKA Shakti AKA Kali](https://en.wikipedia.org/wiki/Mahadevi)
     -   Goddess of good cosmic energy.
     -   Also wife of Shiva? Form of Parvati?
+-   [Indra](https://en.wikipedia.org/wiki/Indra)
+    -   God of sky, weather, lightening, and war.
 -   [Surya](https://en.wikipedia.org/wiki/Surya)
     -   God of the sun.
 

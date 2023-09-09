@@ -168,14 +168,14 @@ TODO
 -   [De Rham cohomology](https://en.wikipedia.org/wiki/De_Rham_cohomology)
 -   [Chern-Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
 -   Non-commutative
-    -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985]
+    -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985a]
 
 See also:
 
 -   [Fiber bundles](physics.html#fiber-bundles)
 
 [^Bronstein2021p56]: @Bronstein_2021_Geometric_deep_learning_Grids_groups_graphs\, p. 56--60.
-[^Connes1985]: @Connes_1985_Non_commutative_differential_geometry\.
+[^Connes1985a]: @Connes_1985_Non_commutative_differential_geometry\.
 [^Fre2013v1ch2]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_1\, ch. 2.
 [^Sussman2013]: @Sussman_2013_Functional_Differential_Geometry\.
 [^Tao2007]: @Tao_2007_Differential_forms_and_integration\.

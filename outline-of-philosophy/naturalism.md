@@ -836,12 +836,13 @@ Schopenhauer:
 >   human knowledge, it is as if the mouth should boast that it alone keeps the
 >   body alive. [^SchopenhauerThinking7]
 
--   Sorell [^Sorell1991]
--   *Science Unlimited? The Challenges of Scientism* [^Boudry2018]
--   TODO: find examples
+-   Schumacher, E.F. (1977). *A Guide for the Perplexed*. [^Schumacher1977]
+-   Sorell, T. (1991). *Scientism: Philosophy and the Infatuation with Science*.  [^Sorell1991]
+-   Boudry, M. & Pigliucci, M. (2018). *Science Unlimited? The Challenges of Scientism*. [^Boudry2018]
 
 [^Boudry2018]: @Boudry_2018_Science_Unlimited_The_Challenges_of_Scientism\.
 [^SchopenhauerThinking7]: @Schopenhauer_2014_Essays_and_Aphorisms\, On thinking for yourself, section 7.
+[^Schumacher1977]: @Schumacher_1977_A_Guide_for_the_Perplexed\.
 [^Sorell1991]: @Sorell_1991_Scientism_Philosophy_and_the_Infatuation\.
 
 
@@ -945,7 +946,7 @@ Criticisms of naturalism
     -   Introduced by Moore, G.E. (1903). *Principia Ethica*.
     -   See also: [Criticism of moral naturalism](ethics.html#criticism-1) in the [Outline on ethics](ethics.html)
 -   Postmodernism and social construction
-    -   Gorton, W.A. (2010). [The philosophy of social science: Criticisms of naturalism](http://www.iep.utm.edu/soc-sci/#H2). *Internet Encyclopedia of Philosophy*.
+    -   Gorton, W.A. (2010). [The philosophy of social science: Criticisms of naturalism](http://www.iep.utm.edu/soc-sci/#H2). *IEP*.
 -   ["Science Wars"](https://en.wikipedia.org/wiki/Science_wars)
     -   1996 "Science Wars" issue of *Social Text*, 46. Duke University Press.
     -   Henriques, G. (2012). [Revisiting the Science Wars: Toward a scientific humanistic worldview](https://www.psychologytoday.com/us/blog/theory-knowledge/201206/revisiting-the-science-wars). *Psychology Today*.
@@ -960,7 +961,7 @@ Criticisms of naturalism
     -   Prescod-Weinstein, C. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
     -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific). *American Scientist*. [^PrescodWeinstein2017]
     -   Roy, R.D. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
-    -   Poskett, J. (2022). *Horizons: The Global Origins of Modern Science*. Mariner Books. [^Poskett2022]
+    -   Poskett, J. (2022). *Horizons: The Global Origins of Modern Science*. [^Poskett2022]
     -   Dunn, W. (2022). [The myth of the white male scientific genius---and why its time is up](https://www.newstatesman.com/culture/books/book-of-the-day/2022/05/horizons-global-history-science-james-poskett-review).
     -   Ca&ntilde;izares-Esguerra, J. (2022). [Rethinking the "Western" revolution in science](https://www.science.org/doi/full/10.1126/science.abo5229). [^CanizaresEsguerra2022]
 -   Decolonising philosophy
@@ -996,7 +997,7 @@ See also:
 -   Defenses of naturalism:
     -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007d]
     -   Rosenberg, A. [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/). *New York Times*. [^Rosenberg2011]
-    -   Mallon, R. (2019). [Naturalistic approaches to social construction](https://plato.stanford.edu/entries/social-construction-naturalistic/). *Stanford Encyclopedia of Philosophy*. 
+    -   Mallon, R. (2019). [Naturalistic approaches to social construction](https://plato.stanford.edu/entries/social-construction-naturalistic/). *SEP*.
 -   Criticisms of postmodernism:
     -   Boghossian, P. (2006). *Fear of Knowledge*. [^Boghossian2006]
     -   Hicks, S. (2010). [Why Kant is the turning point](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/).
@@ -1006,7 +1007,7 @@ See also:
     -   Pluckrose, H. (2016). [Why I no longer identify as a feminist](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/). *Areo*. [^Pluckrose2016]
     -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/). *Areo*. [^Pluckrose2017]
 -   ["Science Wars"](https://en.wikipedia.org/wiki/Science_wars)
-    -   Paul R. Gross and Norman Levitt. (1994). *Higher Superstition: The Academic Left and Its Quarrels With Science*.
+    -   Gross, P.R & Norman Levitt, N. (1994). *Higher Superstition: The Academic Left and Its Quarrels With Science*. [^Gross1994]
 -   [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair)
     -   Sokal [^Sokal1996]
     -   Weinberg, S. (1996). [Sokal's Hoax](https://physics.nyu.edu/faculty/sokal/weinberg.html). *The New York Review of Books*. [^Weinberg1996]
@@ -1035,6 +1036,7 @@ See also:
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
+[^Gross1994]: @Gross_1994_Higher_Superstition_The_Academic_Left_and_Its\.
 [^Heer2017]: @Heer_2017_Americas_first_postmodern_president\.
 [^Hicks2011]: @Hicks_2011_Explaining_Postmodernism_Skepticism_and_socialism\.
 [^Ladyman2007d]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
@@ -1286,6 +1288,7 @@ Click to show links
 -   [Naturalism](http://plato.stanford.edu/entries/naturalism/)
 -   [Naturalism in Legal Philosophy](http://plato.stanford.edu/entries/lawphil-naturalism/)
 -   [Naturalism in the Philosophy of Mathematics](http://plato.stanford.edu/entries/naturalism-mathematics/)
+-   [Naturalistic approaches to social construction](https://plato.stanford.edu/entries/social-construction-naturalistic/)
 -   [Neutral monism](https://plato.stanford.edu/entries/neutral-monism/)
 -   [Physicalism](http://plato.stanford.edu/entries/physicalism/)
 -   [Quine, W.V.O. (1908-2000)](http://plato.stanford.edu/entries/quine/)

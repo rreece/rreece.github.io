@@ -1077,7 +1077,7 @@ See also:
     -   [Supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - nLab
     -   [Superalgebra](https://en.wikipedia.org/wiki/Superalgebra) - Wikipedia
 -   Non-commutative geometry
-    -   Connes, A. (1985).
+    -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985b]
 
 Urs Schreiber:
 
@@ -1107,6 +1107,7 @@ See also:
 -   [Grand unification](#grand-unification)
 -   [Non-commutative geometry](math.html#differential-geometry)
 
+[^Connes1985b]: @Connes_1985_Non_commutative_differential_geometry\.
 [^Deligne2002]: @Deligne_2002_Categorie_Tensorielle\.
 [^Dimopoulos1981]: @Dimopoulos_1981_Softly_broken_supersymmetry_and_SU5\.
 [^Fre2013v2ch6]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 6.
