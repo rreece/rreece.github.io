@@ -590,7 +590,7 @@ otherwise usually showing Sanskrit if only one translation is given.
 #### Important initial concepts
 
 -   [Prat&imacr;tyasamut&amacr;da/prat&imacr;tyasamutp&amacr;da](https://en.wikipedia.org/wiki/Prat%C4%ABtyasamutp%C4%81da) - dependent origination: all phenomena (dharmas/dhammas) arise in dependence upon other phenomena.
--   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - reincarnation
+-   [Sams&amacr;ra](https://en.wikipedia.org/wiki/Sa%E1%B9%83s%C4%81ra_(Buddhism)) - cycle of reincarnation
 -   [Samvega](https://en.wikipedia.org/wiki/Sa%E1%B9%83vega) - sense of shock, dismay, and spiritual urgency to reach liberation and escape the suffering of samsara
 -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) (Madhyam&amacr;pratipada)
 -   [Sangha](https://en.wikipedia.org/wiki/Sangha) - (monastic) "community"; called _parisa_ if including lay followers.
@@ -812,6 +812,10 @@ See also:
 
 #### History
 
+-   Life of Siddhartha Gautama
+    -   [Kapilavastu](https://en.wikipedia.org/wiki/Kapilavastu_(ancient_city)) - ancient city where Siddhartha Gautama grew up
+    -   [A Sketch of the Buddha's Life: Readings from the Pali Canon](https://www.accesstoinsight.org/ptf/buddha.html#bodhi)
+    -   Nanamoli. (1992). *The Life of the Buddha: According to the Pali Canon*. [^Nanamoli1992]
 -   [Early Buddhist schools](https://en.wikipedia.org/wiki/Early_Buddhist_schools)
 -   [Third Buddhist Council](https://en.wikipedia.org/wiki/Third_Buddhist_council) (c. 250 BCE)
 -   [Vibhajyav&amacr;da](https://en.wikipedia.org/wiki/Vibhajyavada)
@@ -829,6 +833,8 @@ See also:
 -   [Insight Meditation Center](https://www.insightmeditationcenter.org), Redwood City, CA, USA
 -   [Spirit Rock Meditation Center](https://en.wikipedia.org/wiki/Spirit_Rock_Meditation_Center), Woodacre, CA, USA
 
+[^Nanamoli1992]: @Nanamoli_1992_The_Life_of_the_Buddha_According_to_the_Pali\.
+
 
 #### Doctrines
 
@@ -845,19 +851,25 @@ See also:
 [Tripitaka](https://en.wikipedia.org/wiki/Tripitaka) - "The Three Baskets" of the [Pali Canon](https://en.wikipedia.org/wiki/P%C4%81li_Canon):
 
 1.  [*Vinaya Pitaka*](https://en.wikipedia.org/wiki/Vinaya_Pitaka) - "Basket of Discipline"
-    -   [Mah&amacr;vastu](https://en.wikipedia.org/wiki/Mah%C4%81vastu) - a biography of Buddha Shakyamuni
 2.  [*Sutta Pitaka*](https://en.wikipedia.org/wiki/Sutta_Pitaka) - "Basket of Discourse"
     1.  [*D&imacr;gha Nik&amacr;ya*](https://en.wikipedia.org/wiki/Digha_Nikaya) (DN) - "collection of long discourses"
-        -   [*Mah&amacr;parinibb&amacr;na Sutta*](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta) - about the end of the Buddha's life
+        -   *Mah&amacr;pad&amacr;na Sutta* ([DN 14](https://suttacentral.net/dn14/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)) - "The Great Discourse on Traces Left Behind"
+            -   stories of past Buddhas including Prince Vipass&imacr;
+        -   *Mah&amacr;nid&amacr;na Sutta* ([DN 15](https://suttacentral.net/dn15/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)) - "The Great Discourse on Causation"
+            -   dependent origination; non-self
+        -   [*Mah&amacr;parinibb&amacr;na Sutta*](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta) ([DN 16](https://suttacentral.net/dn16/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)) - about the end of the Buddha's life
     2.  [*Majjhima Nik&amacr;ya*](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN) - "collection of middle-length discourses"
     3.  [*Samyutta Nik&amacr;ya*](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN) - "collection of connected discourses"
-        -   [*Kacc&amacr;nagotta Sutta*](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html) - "On Right View" (SN 12.15)
-        -   [*Sabba Sutta*](https://suttacentral.net/sn35.23/en/bodhi) or "Discourse on Everything" (SN 35.23)
+        -   *Kacc&amacr;nagotta Sutta* ([SN 12.15](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html)) - "On Right View"
+        -   *Sabba Sutta* ([SN 35.23](https://suttacentral.net/sn35.23/en/bodhi)) or "Discourse on Everything"
     4.  [*Anguttara Nik&amacr;ya*](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN) - "collection of numerical discourses"
-        -   [*Kesamutti Sutta*](https://en.wikipedia.org/wiki/Kesamutti_Sutta) ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html))
-        -   [*Arakenanusasani Sutta*](https://www.accesstoinsight.org/tipitaka/an/an07/an07.070.than.html) - On the finiteness and shortness of life (AN 7.70)
-        -   [*Uttaravipatti Sutta*](https://suttacentral.net/an8.8/en/bodhi) - "Uttara on Failing" (AN 8.8)
+        -   *Acelakavagga* ([AN 3.156–162](https://suttacentral.net/an3.156-162/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)) - "Discourses on Three Practices"
+            -   [Middle Way](https://en.wikipedia.org/wiki/Middle_Way) (Madhyam&amacr;pratipada)
+        -   [*Kesamutti Sutta*](https://en.wikipedia.org/wiki/Kesamutti_Sutta) AKA *Kalama Sutta* ([AN 3.65](https://www.accesstoinsight.org/tipitaka/an/an03/an03.065.soma.html))
+        -   *Arakenanusasani Sutta* ([AN 7.70](https://www.accesstoinsight.org/tipitaka/an/an07/an07.070.than.html)) - On the finiteness and shortness of life
+        -   *Uttaravipatti Sutta* ([AN 8.8](https://suttacentral.net/an8.8/en/bodhi)) - "Uttara on Failing"
     5.  [*Khuddaka Nik&amacr;ya*](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN) - "minor collection"
+        -   [*Buddhavamsa*](https://en.wikipedia.org/wiki/Buddhava%E1%B9%83sa)
         -   [*Dhammapada*](https://en.wikipedia.org/wiki/Dhammapada)
         -   [*Ud&amacr;na*](https://en.wikipedia.org/wiki/Udana)
             -   [The parable of the blind men and an elephant](https://en.wikipedia.org/wiki/Blind_men_and_an_elephant) ([Ud 6.4](https://www.accesstoinsight.org/tipitaka/kn/ud/ud.6.04.than.html))
@@ -1006,8 +1018,10 @@ Online Suttas:
         -   Thich Nhat Hanh's Dhamma talk: [The Island of Self; The Three Dharma Seals](https://sites.google.com/site/tnhdhamma/Home/test-list/the-island-of-self-the-three-dharma-seals).
     4.  [*Ekottara &Amacr;gama*](https://en.wikipedia.org/wiki/Ekottara_Agama) (EA) = [*Anguttara Nik&amacr;ya*](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN)
     5.  [*Ksudraka &Amacr;gama*](https://en.wikipedia.org/wiki/Ksudraka_Agama) (KA) = [*Khuddaka Nik&amacr;ya*](https://en.wikipedia.org/wiki/Khuddaka_Nikaya) (KN)
--   [Lalitavistara S&umacr;tra](https://en.wikipedia.org/wiki/Lalitavistara_S%C5%ABtra) - a biography of Buddha Shakyamuni
 -   Mah&amacr;y&amacr;na builds on the Therav&amacr;da texts, adding the [Mah&amacr;y&amacr;na sutras](https://en.wikipedia.org/wiki/Mahayana_sutras).
+-   Bibliographies of Buddha Shakyamuni (Siddhartha Gautama)
+    -   [*Mah&amacr;vastu*](https://en.wikipedia.org/wiki/Mah%C4%81vastu)
+    -   [*Lalitavistara S&umacr;tra*](https://en.wikipedia.org/wiki/Lalitavistara_S%C5%ABtra)
 -   [Praj&ntilde;&amacr;p&amacr;ramit&amacr;](https://en.wikipedia.org/wiki/Prajnaparamita) - "The Perfection of Wisdom"
     -   radical non-dualism
     -   Six P&amacr;ramit&amacr;s - "Six Perfections"
