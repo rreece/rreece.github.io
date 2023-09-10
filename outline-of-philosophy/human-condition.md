@@ -370,7 +370,7 @@ Hinduism
         -   [Hare Krishna mantra](https://en.wikipedia.org/wiki/Hare_Krishna_(mantra))
     2.  [Shaivism](https://en.wikipedia.org/wiki/Shaivism) - venerates Shiva as the ultimate deity.
     3.  [Shaktism](https://en.wikipedia.org/wiki/Shaktism) - venerates the goddess Shakti (Mahadevi) as the ultimate deity.
-    4.  [Smartism](https://en.wikipedia.org/wiki/Smarta_tradition)
+    4.  [Smartism](https://en.wikipedia.org/wiki/Smarta_tradition) - venerates Ganesha, Shakti, Shiva, Surya, and Vishnu, equally.
 
 
 #### Primary texts

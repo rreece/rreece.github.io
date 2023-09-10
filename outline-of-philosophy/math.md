@@ -579,6 +579,7 @@ $$ \Box P = \lnot \Diamond \lnot P $$
     -   Intuitionistic logic rejects LEM.
     -   Constructive mathematics
 -   Liar paradox
+    -   Carroll, L. (1895). [What the tortoise said to Achilles](http://www.ditext.com/carroll/tortoise.html). [^Carroll1895]
 -   Paraconsistent logic
     -   [Principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion)
     -   *Ex contradictione quodlibet* (ECQ): from a contradiction anything follows.         
@@ -586,14 +587,17 @@ $$ \Box P = \lnot \Diamond \lnot P $$
     -   Law of No Contradiction (LNC).            
         $\models \lnot ( A \land \lnot A )$
     -   Paraconsistent logics reject ECQ, and may or may not invalidate LNC.
-    -   Priest, G. (1998). What is so bad about contradictions? [^Priest1998]
     -   Dialetheism rejects LNC.
+    -   Priest, G. (1998). What is so bad about contradictions? [^Priest1998]
     -   Mart&iacute;nez-Ordaz, M. del R. (2021). The ignorance behind inconsistency toleration. [^MartinezOrdaz2021b]
-    -   Carroll, L. (1895). [What the tortoise said to Achilles](http://www.ditext.com/carroll/tortoise.html). [^Carroll1895]
 
 Criticism:
 
 -   Quine, W.V.O. (1986). *Philosophy of Logic*. [^Quine1986b]
+
+See also:
+
+-   [Intuitionism](#intuitionism)
 
 [^Carroll1895]: @Carroll_1895_What_the_tortoise_said_to_Achilles\.
 [^Priest1998]: @Priest_1998_What_is_so_bad_about_contradictions\.
@@ -612,6 +616,7 @@ See also:
 
 -   [Category theory](#category-theory)
 -   [Complexity theory](#complexity-theory)
+-   [Hilbert's program](#hilberts-program)
 -   [Logicism](#logicism)
 -   [Formalism](#formalism)
 
@@ -696,22 +701,6 @@ Fom the SEP:
 >   nor disproved in $F$. According to the second incompleteness theorem,
 >   such a formal system cannot prove that the system itself is consistent
 >   (assuming it is indeed consistent). [^Raatikainen2020]
-
-From Wikipedia:
-
--   G&ouml;del showed for that any formal system $S$ powerful enough to represent arithmetic,
-    there is a theorem $G$ which is true but the system is unable to prove.
-    $G$ could be added as an additional axiom to the system in place of a proof.
-    However this would create a new system $S'$ with its own unprovable true theorem $G'$,
-    and so on.
--   The first incompleteness theorem states that no consistent system of axioms whose theorems
-    can be listed by an "effective procedure" (e.g., a computer program, but it could be any
-    sort of algorithm) is capable of proving all truths about the relations of the natural numbers.
--   The second incompleteness theorem, an extension of the first, shows that such a system cannot demonstrate its own consistency.
-    Sufficiently strong proof theories cannot prove their own consistency (provided that they are in fact consistent).
--   G&ouml;del's second incompleteness theorem also implies that a theory $T_1$ satisfying the technical conditions outlined above cannot prove the consistency of any theory $T_2$ that proves the consistency of $T_1$. This is because such a theory $T_1$ can prove that if $T_2$ proves the consistency of $T_1$, then $T_1$ is in fact consistent. For the claim that $T_1$ is consistent has form "for all numbers $n$, $n$ has the decidable property of not being a code for a proof of contradiction in $T_1$". If $T_1$ were in fact inconsistent, then $T_2$ would prove for some $n$ that $n$ is the code of a contradiction in $T_1$. But if $T_2$ also proved that $T_1$ is consistent (that is, that there is no such $n$), then it would itself be inconsistent. This reasoning can be formalized in $T_1$ to show that if $T_2$ is consistent, then $T_1$ is consistent. Since, by second incompleteness theorem, $T_1$ does not prove its consistency, it cannot prove the consistency of $T_2$ either.
--   The corollary also indicates the epistemological relevance of the second incompleteness theorem. It would actually provide no interesting information if a theory T proved its consistency. This is because inconsistent theories prove everything, including their consistency. Thus a consistency proof of T in T would give us no clue as to whether T really is consistent; no doubts about the consistency of T would be resolved by such a consistency proof. The interest in consistency proofs lies in the possibility of proving the consistency of a theory T in some theory T' that is in some sense less doubtful than T itself, for example weaker than T. For many naturally occurring theories T and T', such as T = Zermelo-Fraenkel set theory and T' = primitive recursive arithmetic, the consistency of T' is provable in T, and thus T' can't prove the consistency of T by the above corollary of the second incompleteness theorem.
--   The second incompleteness theorem does not rule out consistency proofs altogether, only consistency proofs that could be formalized in the theory that is proved consistent. For example, Gerhard Gentzen proved the consistency of Peano arithmetic (PA) in a different theory that includes an axiom asserting that the ordinal called $\varepsilon_0$ is wellfounded; see Gentzen's consistency proof. Gentzen's theorem spurred the development of ordinal analysis in proof theory.
 
 Related:
 
@@ -1137,7 +1126,7 @@ Logicism
 -   Realist
 -   Relationship with positivism?
 -   Russell, B. (1905). [On denoting](https://www.finophd.eu/wp-content/uploads/2018/11/russell_on_denoting.pdf). [^Russell1905]
--   Russsell expresses support for the platonic "universals" [^Russell1912p91]
+-   Russell expresses support for the platonic "universals" [^Russell1912p91]
 -   Rudolf Carnap (1931) presents the logicist thesis in two parts: [^Carnap1931]
     1.  The concepts of mathematics can be derived from logical concepts through explicit definitions.
     2.  The theorems of mathematics can be derived from logical axioms through purely logical deduction.
@@ -1244,6 +1233,7 @@ Hilbert wanted math to be
 See also:
 
 -   [Incompleteness](#incompleteness)
+-   [Proof theory](#proof-theory)
 
 [^Hilbert1926]: @Hilbert_1926_Uber_das_Unendliche\.
 
@@ -1259,6 +1249,10 @@ Intuitionism
 -   L.E.J. Brouwer (1881-1966)
     -   Brouwer, L.E.J. (1908). [Unreliability of the logical principles](https://arxiv.org/abs/1511.01113). [^Brouwer1908]
 -   Constructive mathematics
+
+See also:
+
+-   [Alternative logics](#alternative-logics)
 
 [^Brouwer1908]: @Brouwer_1908_Unreliability_of_the_logical_principles\.
 
