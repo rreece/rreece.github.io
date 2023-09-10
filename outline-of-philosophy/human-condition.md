@@ -653,7 +653,7 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 2.  Dharma: the teachings expounded by the Buddha
 3.  Sangha: the monastic order of Buddhism that practice Dharmas
 
--   Going for refuge - [Dhammapada, 188-192](https://www.accesstoinsight.org/lib/authors/thanissaro/refuge.html)
+-   Going for refuge - [*Dhammapada*, 188--192](https://www.accesstoinsight.org/lib/authors/thanissaro/refuge.html)
 -   Abhisanda Sutta: Eight Rewards including the Three Jewels and Five Precepts ([AN 8.39](https://www.accesstoinsight.org/tipitaka/an/an08/an08.039.than.html))
 
 
@@ -667,7 +667,7 @@ likens the Four Noble Truths to a medical diagnosis of the human condition:
 4. Abstention from falsehood
 5. Abstention from intoxication
 
--   Dhammapada, 246-7
+-   *Dhammapada*, 246--7
 -   Bodhi. (1981). [*Going for Refuge & Taking the Precepts*](http://www.ibmc-la.org/uploads/1/5/1/0/15104808/goingforrefuge.pdf).
 -   Bodhi. (1998). [A Discipline of Sobriety](https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_36.html).
 
@@ -2638,7 +2638,7 @@ Click to show links
 -   [Decline of Buddhism in the Indian subcontinent](https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent)
 -   [*De rerum natura*](https://en.wikipedia.org/wiki/De_rerum_natura)
 -   [*De rerum natura*, List of English translations](https://en.wikipedia.org/wiki/List_of_English_translations_of_De_rerum_natura)
--   [Dhammapada](https://en.wikipedia.org/wiki/Dhammapada)
+-   [*Dhammapada*](https://en.wikipedia.org/wiki/Dhammapada)
 -   [Dharma](https://en.wikipedia.org/wiki/Dharma)
 -   [Dharmachakra](https://en.wikipedia.org/wiki/Dharmachakra)
 -   [Dhy&amacr;na in Buddhism](https://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism)

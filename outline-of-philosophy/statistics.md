@@ -2282,6 +2282,8 @@ $$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i})
     -   Brown, N. (2020). [*Equilibrium finding for large adversarial imperfect-information games*](http://www.cs.cmu.edu/~noamb/thesis.pdf). [^Brown2020thesis]
 -   Player of Games
     -   Schmid, M. et al. (2021). [Player of games](https://arxiv.org/abs/2112.03178). [^Schmid2021]
+-   More
+    -   Kovarik, V. et al. (2022). [Rethinking formal models of partially observable multiagent decision making](https://arxiv.org/abs/1906.11110). [^Kovarik2022]
 
 [^Billings2002]: @Billings_2002_The_challenge_of_poker\.
 [^Brown2018Libratus]: @Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker\.
@@ -2293,6 +2295,7 @@ $$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i})
 [^Brown2020thesis]: @Brown_2020_Equilibrium_finding_for_large_adversarial\.
 [^Heinrich2016]: @Heinrich_2016_Deep_reinforcement_learning_from_self_play\.
 [^Johanson2013]: @Johanson_2013_Measuring_the_size_of_large_no_limit_poker_games\.
+[^Kovarik2022]: @Kovarik_2022_Rethinking_formal_models_of_partially_observable\.
 [^Kuhn1950]: @Kuhn_1950_A_simplified_two_person_poker\.
 [^Moravcik2017]: @Moravcik_2017_DeepStack_Expert_level_artificial_intelligence\.
 [^Schmid2021]: @Schmid_2021_Player_of_games\.
