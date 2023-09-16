@@ -328,7 +328,7 @@ Sun, Y. et al. (2023). Retentive network: A successor to transformer for large l
 Sutskever, I. (2015). A brief overview of deep learning. https://web.archive.org/web/20220728224752/http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html
 Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning with neural networks. *Advances in Neural Information Processing Systems*, 2014, 3104--3112. https://arxiv.org/abs/1409.3215
 Sutton, R.S. (2019). The bitter lesson. http://www.incompleteideas.net/IncIdeas/BitterLesson.html
-Sutton, R.S., & Barto, A.G. (2018). *Reinforcement Learning* (2nd ed.). MIT Press.
+Sutton, R.S. & Barto, A.G. (2018). *Reinforcement Learning* (2nd ed.). MIT Press.
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Tammelin, O. (2014). Solving large imperfect information games using CFR+. https://arxiv.org/abs/1407.5042
 Tan, M. & Le, Q.V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. https://arxiv.org/abs/1905.11946

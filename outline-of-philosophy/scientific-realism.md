@@ -845,7 +845,7 @@ Wittgenstein studied with, was influenced by, and influenced:
 >   This book helped to inspire so-called ordinary language philosophy. [^Richter2004]
 
 -   English translations:
-    -   [C.K. Ogden & F.P. Ramsey translation](https://web.archive.org/web/20200726065157/http://tractatus-online.appspot.com/Tractatus/jonathan/index.html)
+    -   [C.K. Ogden & F.P. Ramsey translation](https://web.archive.org/web/20200726065157/http://tractatus-online.appspot.com/Tractatus/jonathan/index.html) - [Project Gutenberg pdf](https://www.gutenberg.org/files/5740/5740-pdf.pdf).
     -   [D.F. Pears & B.F. McGuinness translation](https://web.archive.org/web/20200228040145/http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
 -   The picture theory of meaning
     -   a correspondence theory of truth
