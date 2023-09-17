@@ -290,6 +290,7 @@ See also:
 -   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. [^tHooft1994a]
 -   Teller, P. (2000). The gauge argument. [^Teller2000]
 -   't Hooft, G. (2007). [Lie groups in physics](http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf). [^tHooft2007]
+-   Greaves, H. & Wallace, D. (2011). [Empirical consequences of symmetries](https://arxiv.org/abs/1111.4309). [^Greaves2011]
 -   Afriat, A. (2013). Weyl's gauge argument. [^Afriat2013]
 -   Schwichtenberg, J. (2015). *Physics from Symmetry*. [^Schwichtenberg2015]
 -   Dewar, N. (2019). Sophistication about symmetries. [^Dewar2019]
@@ -306,6 +307,7 @@ Weyl:
 
 [^Afriat2013]: @Afriat_2013_Weyls_gauge_argument\.
 [^Dewar2019]: @Dewar_2019_Sophistication_about_symmetries\.
+[^Greaves2011]: @Greaves_2011_Empirical_consequences_of_symmetries\.
 [^Pauli1941]: @Pauli_1941_Relativistic_field_theories_of_elementary\.
 [^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^Teller2000]: @Teller_2000_The_gauge_argument\.
@@ -447,6 +449,10 @@ $$ \hat{U}(x^{\mu}) = e^{ -i \, \hat{P}_\mu \, x^\mu } $$
     -   [Riesz representation theorem](https://en.wikipedia.org/wiki/Riesz_representation_theorem)
     -   Jordan, P., von Neumann, J., & Wigner, E.P. (1934). On an algebraic generalization of the quantum mechanical formalism. [^Jordan1934]
     -   Baez, J.C. (2011). [Division algebras and quantum theory](https://arxiv.org/abs/1101.5690). [^Baez2011a]
+-   Orthodox QM
+    -   Wallace, D. (2016). [What is orthodox quantum mechanics?](https://arxiv.org/abs/1604.05973) [^Wallace2016]
+-   Too much focus on NRQM
+    -   Wallace, D. (2020). [Lessons from realistic physics for the metaphysics of quantum theory](https://link.springer.com/article/10.1007/s11229-018-1706-y). [^Wallace2020]
 -   Hilbert spaces
     -   Carcassi, G., Calderon, F., & Aidala, C.A. (2023). [The unphysicality of Hilbert spaces](https://arxiv.org/abs/2308.06669). [^Carcassi2023]
 
@@ -457,6 +463,8 @@ See all:
 [^Baez2011a]: @Baez_2011_Division_algebras_and_quantum_theory\.
 [^Carcassi2023]: @Carcassi_2023_The_unphysicality_of_Hilbert_spaces\.
 [^Jordan1934]: @Jordan_1934_On_an_algebraic_generalization_of_the_quantum\.
+[^Wallace2016]: @Wallace_2016_What_is_orthodox_quantum_mechanics\.
+[^Wallace2020]: @Wallace_2020_Lessons_from_realistic_physics_for_the_metaphysics\.
 
 
 ### Secondary properties of QM
@@ -496,6 +504,7 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 -   My quora answer: [What is currently the best explanation for how and why the quantum wave function collapses?](https://www.quora.com/What-is-currently-the-best-explanation-for-how-and-why-the-quantum-wave-function-collapses/answer/Ryan-Reece)
 -   Decoherence and Everett's interpretation
 -   Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. [^Drossel2015]
+-   Wallace, D. (2018). [Decoherence and its role in the modern measurement problem](https://arxiv.org/abs/1111.2187). [^Wallace2018]
 -   Zurek, W.H. (2022). [Quantum theory of the classical: Einselection, envariance, quantum Darwinism and extantons](https://arxiv.org/abs/2208.09019). [^Zurek2022]
 
 See also:
@@ -506,18 +515,20 @@ See also:
 [^Joos2003]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\.
 [^Schlosshauer2005]: @Schlosshauer_2005_Decoherence_the_measurement_problem\.
 [^Tegmark1993]: @Tegmark_1993_Apparent_wave_function_collapse_caused\.
+[^Wallace2018]: @Wallace_2018_Decoherence_and_its_role_in_the_modern_measurement\.
 [^Zurek2003]: @Zurek_2003_Decoherence_einselection_and_the_quantum_origins\.
 [^Zurek2022]: @Zurek_2022_Quantum_theory_of_the_classical_Einselection\.
 
 
 ### Quantum chemistry
 
+-   Cohen, M.L. (2015). [Explaining and predicting the properties of materials using quantum theory](https://www.cambridge.org/core/journals/mrs-bulletin/article/explaining-and-predicting-the-properties-of-materials-using-quantum-theory/0BAF1A2783D41470AAE666F6B916ECE5). [^Cohen2015]
 -   Friedrich, B. (2016). [How did the tree of knowledge get its blossom? The rise of physical and theoretical chemistry, with an eye on Berlin and Leipzig](https://onlinelibrary.wiley.com/doi/10.1002/anie.201509260). [^Friedrich2016]
 -   Density functional theory
 -   Cao, C., Hu, H., Li, J., & Schwarz, W.H.E. (2019). [Physical origin of chemical periodicities in the system of elements](https://www.degruyter.com/document/doi/10.1515/pac-2019-0901/html). [^Cao2019]
--   Cohen, M.L. (2015). [Explaining and predicting the properties of materials using quantum theory](https://www.cambridge.org/core/journals/mrs-bulletin/article/explaining-and-predicting-the-properties-of-materials-using-quantum-theory/0BAF1A2783D41470AAE666F6B916ECE5).
 
 [^Cao2019]: @Cao_2019_Physical_origin_of_chemical_periodicities\.
+[^Cohen2015]: @Cohen_2015_Explaining_and_predicting_the_properties\.
 [^Friedrich2016]: @Friedrich_2016_How_did_the_tree_of_knowledge_get_its_blossom\.
 
 
@@ -625,10 +636,10 @@ See also:
 
 -   Bell, J.S. (1955). Time reversal in field theory. [^Bell1955]
 -   Streater, R. & Wightman, A. (1964). *PCT, spin and statistics, and all that*. [^Streater1964]
--   Greaves, H. & Thomas, T. (2012). [The CPT Theorem](https://arxiv.org/abs/1204.4674). [^Greaves2012]
+-   Greaves, H. & Thomas, T. (2012). [The CPT theorem](https://arxiv.org/abs/1204.4674). [^Greaves2012]
 
 [^Bell1955]: @Bell_1955_Time_reversal_in_field_theory\.
-[^Greaves2012]: @Greaves_2012_The_CPT_Theorem\.
+[^Greaves2012]: @Greaves_2012_The_CPT_theorem\.
 [^Streater1964]: @Streater_1964_PCT_spin_and_statistics_and_all_that\.
 
 
@@ -738,7 +749,7 @@ Michael Atiyah:
 [^Dirac1963]: @Dirac_1963_The_evolution_of_the_physicists_picture\.
 [^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
 [^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50.
-[^Phillips2023]: HERE
+[^Phillips2023]: @Phillips_2023_Fifty_years_of_Wilsonian_renormalization\.
 [^tHooft1971]: @tHooft_1971_Renormalizable_Lagrangians_for_massive_Yang_Mills\.
 [^tHooft1994b]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 [^tHooft1999]: @tHooft_1999_A_confrontation_with_infinity\.
@@ -944,6 +955,7 @@ Exotics in quantum field theory
 -   Healey on the Aharonov-Bohm effect [^Healey2007ch2]
 -   Holonomy
 -   Batterman, R. (2003). Falling cats, parallel parking and polarized light. [^Batterman2003]
+-   Wallace, D. (2014). [Deflating the Aharonov-Bohm effect](https://arxiv.org/abs/1407.5073). [^Wallace2014]
 -   Maudlin, T. (2018). [Ontological clarity via canonical presentation: Electromagnetism and the Aharonov-Bohm effect](https://www.mdpi.com/1099-4300/20/6/465). [^Maudlin2018]
 
 Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fiber+bundles+in+physics) article:
@@ -964,6 +976,7 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
 [^Batterman2003]: @Batterman_2003_Falling_cats_parallel_parking_and_polarized\.
 [^Healey2007ch2]: @Healey_2007_Gauging_Whats_Real\, ch. 2-4.
 [^Maudlin2018]: @Maudlin_2018_Ontological_clarity_via_canonical_presentation\.
+[^Wallace2014]: @Wallace_2014_Deflating_the_Aharonov_Bohm_effect\.
 
 
 #### Fiber bundles

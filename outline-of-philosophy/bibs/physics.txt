@@ -74,6 +74,7 @@ Clauser, J., Horne, M., Shimony, A., & Holt, R. (1969). Proposed experiment to t
 Clowe, D. et al. (2006). A direct empirical proof of the existence of dark matter. *Astrophysical Journal Letters*, 648(2), 109. https://arxiv.org/abs/astro-ph/0608407
 {CMS Collaboration}. (2012). Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC. *Physics Letters B*, 716, 30--61. https://arxiv.org/abs/1207.7235
 Coecke, B. & Kissinger, A. (2017). *Picturing Quantum Processes: A first course in quantum theory and diagrammatic reasoning*. Cambridge University Press.
+Cohen, M.L. (2015). Explaining and predicting the properties of materials using quantum theory. *MRS Bulletin*, 40, 516--525. https://www.cambridge.org/core/journals/mrs-bulletin/article/explaining-and-predicting-the-properties-of-materials-using-quantum-theory/0BAF1A2783D41470AAE666F6B916ECE5
 Coleman, S. (2020). Sidney Coleman's Dirac Lecture "Quantum Mechanics in Your Face". https://arxiv.org/abs/2011.12671
 Coleman, S. & Mandula, J. (1967). All possible symmetries of the $S$ matrix. *Physical Review*, 159(5), 1251--1256.
 Cubitt, T., Perez-Garcia, D. & Wolf, M. (2015). Undecidability of the spectral gap. *Nature*, 528, 207--211.
@@ -137,7 +138,8 @@ Gisin, N. & Peres, A. (1992). Maximal violation of Bell's inequality for arbitra
 Glashow, S. (1961). Partial symmetries of weak interactions. *Nuclear Physics*, 22, 579--588.
 Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. Perseus Books.
 Goyal, P. (2020). Derivation of classical mechanics in an energetic framework via conservation and relativity. *Foundations of Physics*, 50, 1426--1479.
-Greaves, H. & Thomas, T. (2012). The CPT Theorem. https://arxiv.org/abs/1204.4674
+Greaves, H. & Thomas, T. (2012). The CPT theorem. https://arxiv.org/abs/1204.4674
+Greaves, H. & Wallace, D. (2011). Empirical consequences of symmetries. https://arxiv.org/abs/1111.4309
 Guralnik, G.S., Hagen, C.R., & Kibble, T.W.B. (1964). Global conservation laws and massless particles. *Physical Review Letters*, 13, 585--587. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.585
 Guth, A. (1997). Was cosmic inflation the 'bang' of the big bang? *The Beamline*, 27, 14. https://ned.ipac.caltech.edu/level5/Guth/Guth_contents.html
 Haag, R. (1955). On quantum field theories. *Matematisk-fysiske Meddelelser*, 29, 1--37. http://cds.cern.ch/record/212242
@@ -273,6 +275,10 @@ Vitagliano, E., Tamborra, I., & Raffelt, G. (2020). Grand unified neutrino spect
 von Neumann, J. (1955). *The Mathematical Foundations of Quantum Mechanics* (R.T. Beyer, Trans.). Princeton University Press. [(Originally published in German in 1932)]
 Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum ﬁeld theory. *Studies in History and Philosophy of Modern Physics*, 42, 116--125.
 Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
+Wallace, D. (2014). Deflating the Aharonov-Bohm effect. https://arxiv.org/abs/1407.5073
+Wallace, D. (2016). What is orthodox quantum mechanics? https://arxiv.org/abs/1604.05973
+Wallace, D. (2018). Decoherence and its role in the modern measurement problem. https://arxiv.org/abs/1111.2187
+Wallace, D. (2020). Lessons from realistic physics for the metaphysics of quantum theory. *Synthese*, 197, 4303--4318. https://link.springer.com/article/10.1007/s11229-018-1706-y
 Wallace, D. (2022). The sky is blue, and other reasons quantum mechanics is not underdetermined by evidence. https://arxiv.org/abs/2205.00568
 Way, R. (2010). Introduction to connections on principal fibre bundles. http://personal.maths.surrey.ac.uk/T.Bridges/GEOMETRIC-PHASE/Connections_intro.pdf
 Weinberg, S. (1964). Feynman rules for any spin II: Massless particles. *Physical Review*, 134, B882.
