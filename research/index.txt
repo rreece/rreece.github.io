@@ -55,7 +55,8 @@ the reconstruction of hadronic tau decays,
 and searching for exotic new physics in ditau and diphoton events,
 including for signs of grand unified theories and supersymmetry.
 In my time with the ATLAS Collaboration I made substantial
-contributions to [14 publications in scientific journals](../publications/index.html#atlas-publications) and several more physics conference proceedings.
+contributions to [14 publications in scientific journals](../publications/index.html#atlas-publications)
+and several more physics [conference proceedings](http://rreece.github.io/publications/).
 
 Since 2016, following the deep learning revolution,
 I've been trying to learn everything I can about deep learning.

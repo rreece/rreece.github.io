@@ -1295,6 +1295,10 @@ Interpretations of quantum mechanics
 >   "quantum jumps" or "collapse events" (as will be discussed in great detail in
 >   various parts of this book). [^Joos2003p22]
 
+Videos:
+
+-   David Wallace - [Many Worlds of Quantum Theory](https://www.youtube.com/watch?v=bK9JE1HjPi8) (9 mins)
+
 See also:
 
 -   [Decoherence](physics.html#decoherence)
