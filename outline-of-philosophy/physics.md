@@ -249,6 +249,7 @@ Symmetry-first physics
 ### Curie's principle
 
 -   Pierre Curie (1859-1906)
+-    Curie, P. (1894). On the symmetries of physical phenomenae, the electric field, and the magnetic field. (in French)
 -   "The symmetries of the causes are to be found in the effects."
 -   Counting degrees of freedom
 -   Totalitarian principle: "Everything not forbidden is compulsory." - Murray Gell-Mann
@@ -260,8 +261,18 @@ Symmetry-first physics
 
 See also:
 
--   [Structural realism](#scientific-realism#structural-realism)
+-   [Structural realism](scientific-realism.html#structural-realism)
 
+### Relativity
+
+-   Special relativity
+-   Einstein (1905)
+-   Lorentz group
+-   Minkowski spacetime
+
+See also:
+
+-   [Special relativity](#special-relativity)
 
 ### Noether's theorems
 
@@ -269,9 +280,9 @@ See also:
 -   Canonical dynamics
 -   Noether, E. (1918). Invariante variationsprobleme. [^Noether1918]
     -   TODO: Noether's first and second theorem.
-    -   Wigner, E.P. (1954). Conservation laws in classical and quantum physics. [^Wigner1954]
-    -   Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. [^Brading2002]
-    -   Baez, J.C. (2018). [Getting to the bottom of Noether’s theorem](https://math.ucr.edu/home/baez/noether/noether_web.pdf). Talk given at [The Philosophy and Physics of Noether’s Theorems](https://philosophy.nd.edu/news/events/noether/). [^Baez2018]
+-   Wigner, E.P. (1954). Conservation laws in classical and quantum physics. [^Wigner1954]
+-   Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. [^Brading2002]
+-   Baez, J.C. (2018). [Getting to the bottom of Noether’s theorem](https://math.ucr.edu/home/baez/noether/noether_web.pdf). Talk given at [The Philosophy and Physics of Noether’s Theorems](https://philosophy.nd.edu/news/events/noether/). [^Baez2018]
 -   Goyal, P. (2020). Derivation of classical mechanics in an energetic framework via conservation and relativity. [^Goyal2020]
 
 [^Baez2018]: @Baez_2018_Getting_to_the_bottom_of_Noethers_theorem\.
@@ -327,7 +338,7 @@ Weyl:
 -   Wigner-Stone theorems as cornerstones of QM (Ovrut) [^Reece2007pX1]
 -   Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. [^Wigner1959]
 -   Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. [^Schweber1961]
--   Simon, B. (1976). Quantum dynamics: from automorphism to Hamiltonian. [^Simon1976]
+-   Simon, B. (1976). Quantum dynamics: From automorphism to Hamiltonian. [^Simon1976]
 -   Summers, S.J. (1999). On the Stone-von Neumann uniqueness theorem and its ramifications. [^Summers1999]
 -   Keller, K.J., Papadopoulos, M.A., & Reyes-Lega, A.F. (2007). [On the realization of symmetries in quantum mechanics](https://arxiv.org/abs/0712.0997). [^Keller2007]
 -   Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. [^Schroeren2021]
@@ -499,7 +510,7 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 
 -   Zurek, W.H. (2003). [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127). [^Zurek2003]
 -   *Decoherence and the Appearance of a Classical World in Quantum Theory* [^Joos2003]
--   Decoherence times from various scatterings [^Tegmark1993]
+-   Tegmark, M. (1993). [Apparent wave function collapse caused by scattering](https://arxiv.org/abs/gr-qc/9310032). [^Tegmark1993]
 -   Schlosshauer, M. (2005). [Decoherence, the measurement problem, and interpretations of quantum mechanics](https://arxiv.org/abs/quant-ph/0312059). [^Schlosshauer2005]
 -   My quora answer: [What is currently the best explanation for how and why the quantum wave function collapses?](https://www.quora.com/What-is-currently-the-best-explanation-for-how-and-why-the-quantum-wave-function-collapses/answer/Ryan-Reece)
 -   Decoherence and Everett's interpretation
@@ -949,7 +960,7 @@ Exotics in quantum field theory
 
 ### Higher gauge theory
 
-#### Aharanov-Bohm effect
+#### Aharonov-Bohm effect
 
 -   Aharonov, Y. & Bohm, D. (1959). Significance of electromagnetic potentials in quantum theory. [^Aharonov1959]
 -   Healey on the Aharonov-Bohm effect [^Healey2007ch2]
@@ -1182,45 +1193,51 @@ Interpretations of quantum mechanics
 
 -   Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? [^Einstein1935]
 -   Bohm, D. & Aharonov, Y. (1957). Discussion of experimental proof for the paradox of Einstein, Rosen, and Podolsky. [^Bohm1957]
+-   Wigner's friend (1961)
+    -   Deutsch, D. (1985). Quantum theory as a universal physical theory. [^Deutsch1985]
+    -   Bong, K.W. et al. (2020). [A strong no-go theorem on the Wigner's friend paradox](https://arxiv.org/abs/1907.05607). [^Bong2020]
 -   Mermin, N.D. (1985). Is the moon there when nobody looks? [^Mermin1985]
 -   Caulton, A. (2014). [Physical entanglement in permutation-invariant quantum mechanics](https://arxiv.org/abs/1409.0246). [^Caulton2014]
 
 [^Bohm1957]: @Bohm_1957_Discussion_of_experimental_proof_for_the_paradox\.
+[^Bong2020]: @Bong_2020_A_strong_no_go_theorem_on_the_Wigners_friend\.
 [^Caulton2014]: @Caulton_2014_Physical_entanglement_in_permutation_invariant\.
+[^Deutsch1985]: @Deutsch_1985_Quantum_theory_as_a_universal_physical_theory\.
 [^Einstein1935]: @Einstein_1935_Can_quantum_mechanical_description_of_physical\.
 [^Mermin1985]: @Mermin_1985_Is_the_moon_there_when_nobody_looks_Reality\.
 
 
 ### Bell's theorem
 
--   Bell, J.S. (1964). On the Einstein Podolsky Rosen Paradox. [^Bell1964]
+-   Bell, J.S. (1964). On the Einstein Podolsky Rosen paradox. [^Bell1964]
 -   Bell, J.S. (1966). On the problem of hidden variables in quantum mechanics. [^Bell1966]
 -   Kochen, S. & Specker, E.P. (1967). The problem of hidden variables in quantum mechanics. [^Kochen1967]
 -   Clauser, J., Horne, M., Shimony, A., & Holt, R. (1969). Proposed experiment to test local hidden-variable theories. [^Clauser1969]
--   GHZ experiment
--   *Epistemological Letters*
+-   *Epistemological Letters* (1973-1984)
 -   Aspect experiments (1982)
+-   Bell, J.S. (1987). La Nouvelle Cuisine. [^Bell2004p232]
+-   GHZ experiment (1990)
+    -   Greenberger, D., Horne, M., Shimony, A., & Zeilinger, A. (1990). Bell's theorem without inequalities. [^Greenberger1990]
+    -   Mermin, N.D. (1990). Quantum mysteries revisited. [^Mermin1990]
 -   Gisin's theorem [^Gisin1991]
--   La Nouvelle Cuisine [^Bell2004p232]
--   Maudlin, T. (2014). What Bell did. [^Maudlin2014]
+-   Conway & Kochen's "freewill theorem"
+    -   Conway, J. & Kochen, S. (2006). [The free will theorem](https://arxiv.org/abs/quant-ph/0604079). [^Conway2006]
+-   Maudlin, T. (2014). [What Bell did](https://arxiv.org/abs/1408.1826). [^Maudlin2014]
 -   Ahmed, A., & Caulton, A. (2014). [Causal decision theory and EPR correlations](http://philsci-archive.pitt.edu/10992/). [^Ahmed2014]
--   Wigner's friend
-    -   Deutsch, D. (1985). Quantum theory as a universal physical theory. [^Deutsch1985]
-    -   Bong, K.W. et al. (2020). [A strong no-go theorem on the Wigner's friend paradox](https://arxiv.org/abs/1907.05607). [^Bong2020]
--   Conway's "freewill theorem"
 
 [^Ahmed2014]: @Ahmed_2014_Causal_decision_theory_and_EPR_correlations\.
-[^Bell1964]: @Bell_1964_On_the_Einstein_Podolsky_Rosen_Paradox\.
+[^Bell1964]: @Bell_1964_On_the_Einstein_Podolsky_Rosen_paradox\.
 [^Bell1966]: @Bell_1966_On_the_problem_of_hidden_variables_in_quantum\.
 [^Bell2004p232]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\, pp. 232--248.
-[^Bong2020]: @Bong_2020_A_strong_no_go_theorem_on_the_Wigners_friend\.
 [^Clauser1969]: @Clauser_1969_Proposed_experiment_to_test_local_hidden_variable\.
-[^Deutsch1985]: @Deutsch_1985_Quantum_theory_as_a_universal_physical_theory\.
+[^Conway2006]: @Conway_2006_The_free_will_theorem\.
 [^Gisin1991]: @Gisin_1991_Bells_inequality_holds_for_all_non_product\,
     @Gisin_1992_Maximal_violation_of_Bells_inequality\, and
     @Gisin_1999_Bell_inequality_for_arbitrary_many_settings\.
+[^Greenberger1990]: @Greenberger_1990_Bells_theorem_without_inequalities\.
 [^Kochen1967]: @Kochen_1967_The_problem_of_hidden_variables_in_quantum\.
 [^Maudlin2014]: @Maudlin_2014_What_Bell_did\.
+[^Mermin1990]: @Mermin_1990_Quantum_mysteries_revisited\.
 
 
 ### Bohmian mechanics
@@ -1271,6 +1288,7 @@ Interpretations of quantum mechanics
     -   Shikhovtsev, E. (2003). [Biographical sketch of Hugh Everett, III](https://space.mit.edu/home/tegmark/everett/everettbio.pdf).
 -   DeWitt, B.S. (1970). [Quantum mechanics and reality](https://physicstoday.scitation.org/doi/10.1063/1.3022331). [^DeWitt1970]
 -   DeWitt, B.S. & Graham, N. (1973). *The Many-Worlds Interpretation of Quantum Mechanics*. [^DeWitt1973]
+-   Gell-Mann, M. & Hartle, J.B. (1989). [Quantum mechanics in the light of quantum cosmology](https://arxiv.org/abs/1803.04605). [^GellMann1989]
 -   Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. [^Barrett2011]
 -   Barrett, J.A. (2016). Quantum worlds. [^Barrett2016]
 
@@ -1280,12 +1298,8 @@ Interpretations of quantum mechanics
 >   All elements of a superposition must be regarded as simultaneously
 >   existing. [^Everett2012p150]
 
--   Wallace, D. (2012). *The Emergent Multiverse*. [^Wallace2012]
--   Carroll's mad-dog Everettianism [^Carroll2019-2]
--   Carroll, S.M. (2019). *Something Deeply Hidden*.[^Carroll2019]
 -   Everett's later influence on the theory of decoherence
--   Wilhelm, I. (2022). [Centering the Everett interpretation](https://philpapers.org/rec/WILCTE-4). [^Wilhelm2022]
--   Wallace, D. (2022). [The sky is blue, and other reasons quantum mechanics is not underdetermined by evidence](https://arxiv.org/abs/2205.00568). [^Wallace2022]
+-   Wallace, D. (2012). *The Emergent Multiverse*. [^Wallace2012]
 
 >   A way out of this dilemma [the measurement problem]
 >   within quantum mechanical concepts requires
@@ -1295,8 +1309,8 @@ Interpretations of quantum mechanics
 >   assumed to exist in one formal superposition, but to be *perceived*
 >   separately as a consequence of their dynamical autonomy resulting from
 >   decoherence. While this latter suggestion has been called "extravagant" (as it
->   requires myriads of co-existing quasi-classical "worlds"), it is similar in prin-
->   ciple to the conventional (though nontrivial) assumption, made tacitly in all
+>   requires myriads of co-existing quasi-classical "worlds"), it is similar in
+>   principle to the conventional (though nontrivial) assumption, made tacitly in all
 >   classical descriptions of observation, that consciousness is *localized* in certain
 >   semi-stable and sufficiently complex *subsystems* (such as human brains or
 >   parts thereof) of a much larger external world. Occam's razor, often applied
@@ -1307,6 +1321,11 @@ Interpretations of quantum mechanics
 >   universal wave function, readily describes precisely the apparently observed
 >   "quantum jumps" or "collapse events" (as will be discussed in great detail in
 >   various parts of this book). [^Joos2003p22]
+
+-   Carroll, S.M. & Singh, A. (2019). [Mad-Dog Everettianism: Quantum mechanics at its most minimal](https://arxiv.org/abs/1801.08132).  [^Carroll2019-2]
+-   Carroll, S.M. (2019). *Something Deeply Hidden*.[^Carroll2019]
+-   Wilhelm, I. (2022). [Centering the Everett interpretation](https://philpapers.org/rec/WILCTE-4). [^Wilhelm2022]
+-   Wallace, D. (2022). [The sky is blue, and other reasons quantum mechanics is not underdetermined by evidence](https://arxiv.org/abs/2205.00568). [^Wallace2022]
 
 Videos:
 
@@ -1328,6 +1347,7 @@ See also:
 [^DeWitt1970]: @DeWitt_1970_Quantum_mechanics_and_reality\.
 [^DeWitt1973]: @DeWitt_1973_The_Many_Worlds_Interpretation_of_Quantum\.
 [^Joos2003p22]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\, p. 22.
+[^GellMann1989]: @Gell_Mann_1989_Quantum_mechanics_in_the_light_of_quantum\.
 [^Wallace2012]: @Wallace_2012_The_Emergent_Multiverse\.
 [^Wallace2022]: @Wallace_2022_The_sky_is_blue_and_other_reasons_quantum\.
 [^Wheeler1957]: @Wheeler_1957_Assessment_of_Everetts_relative_state\.
@@ -1338,11 +1358,15 @@ See also:
 
 -   Ghirardi-Rimini-Weber theory (GRW) [^Ghirardi1986]
 -   TODO: find ref that GRW is empirical
+-   Ghirardi, G.C., Pearle, P., Rimini, A. (1990). Markov processes in Hilbert space and continuous spontaneous localization of systems of identical particles. [^Ghirardi1990]
+-   Bassi, A. (2005). [Collapse models: analysis of the free particle dynamics](https://arxiv.org/abs/quant-ph/0410222). [^Bassi2005]
 -   Putnam, H. (1965). A philosopher looks at quantum mechanics. [^Putnam1965]
 -   Putnam, H. (2005). [A philosopher looks at quantum mechanics (again)](https://www.jstor.org/stable/3541860). [^Putnam2005]
 -   Wuthrich, C. (2014). [Putnam looks at quantum mechanics (again and again)](https://arxiv.org/abs/1406.5737). [^Wuthrich2014]
 
+[^Bassi2005]: @Bassi_2005_Collapse_models_analysis_of_the_free_particle\.
 [^Ghirardi1986]: @Ghirardi_1986_Unified_dynamics_for_microscopic_and_macroscopic\.
+[^Ghirardi1990]: @Ghirardi_1990_Markov_processes_in_Hilbert_space_and_continuous\.
 [^Putnam1965]: @Putnam_1975_A_philosopher_looks_at_quantum_mechanics\.
 [^Putnam2005]: @Putnam_2005_A_philosopher_looks_at_quantum_mechanics_again\.
 [^Wuthrich2014]: @Wuthrich_2014_Putnam_looks_at_quantum_mechanics_again\.
@@ -1422,7 +1446,7 @@ some examples for models that violate measurement independence are here:
 ### Bad takes
 
 -   MIT Technology Review. (2019). [A quantum experiment suggests there's no such thing as objective reality](https://www.technologyreview.com/2019/03/12/136684/a-quantum-experiment-suggests-theres-no-such-thing-as-objective-reality/).
-    -   Proietti [^Proietti2019]
+    -   Proietti, M. et al. (2019). [Experimental test of local observer independence](https://arxiv.org/abs/1902.05080). [^Proietti2019]
     -   Weinberg, J. et al. (2019). [Philosophers on a physics experiment that "suggests there's no such thing as objective reality"](http://dailynous.com/2019/03/21/philosophers-physics-experiment-suggests-theres-no-thing-objective-reality/). *Daily Nous*. March 21, 2019.
 
 Press release for [The Nobel Prize in Physics 2022](https://www.nobelprize.org/uploads/2022/10/press-physicsprize2022-2.pdf):
@@ -1488,7 +1512,7 @@ massive spin-zero particle, the Higgs boson. This is the Englert-Brout-Higgs-Gur
 or *Higgs mechanism*. In the Standard Model, the Higgs boson also couples
 to the fermions, generating their bare masses.
 
--   Georgi: Is the Higgs real? [^Georgi1999p280]
+-   Georgi, H. (1982). Is the Higgs real? [^Georgi1999p280]
 -   Lyre, H. (2008). [Does the Higgs mechanism exist?](https://arxiv.org/abs/0806.1359) [^Lyre2008]
 
 On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214) [^ATLAS2012]
@@ -1519,7 +1543,7 @@ a key to explaining electroweak symmetry breaking in the Standard Model of parti
 -   Weinberg, S. (1979). [Conceptual foundations of the unified theory of weak and electromagnetic interactions](https://www.nobelprize.org/uploads/2018/06/weinberg-lecture.pdf). Nobel Lecture, December 8, 1979. [^Weinberg1979]
 -   UA1 and UA2 Collaborations discovered the $W$ and $Z$ bosons in 1983.
 -   Rubbia, C. (1984). [Experimental observation of the intermediate vector bosons $W^{+}$, $W^{-}$, and $Z^{0}$](https://www.nobelprize.org/uploads/2018/06/rubbia-lecture.pdf). Nobel lecture, December 8, 1984. [^Rubbia1984]
--   Weinberg - Model physicst [^Chalmers2017]
+-   Chalmers, M. (2017). [Model physicist](https://cerncourier.com/a/model-physicist/). (*CERN Courier* about Weinberg) [^Chalmers2017]
 -   Woit, P. (2022). [Glashow interview](https://www.math.columbia.edu/~woit/wordpress/?p=13004).
 
 [^Chalmers2017]: @Chalmers_2017_Model_physicist\.
@@ -1573,10 +1597,15 @@ Beyond the standard model
 
 ### Neutrino masses
 
--   Neutrino masses and mixings
--   PMNS matrix and CP-violation
--   Are neutrinos Marojana or Dirac fermions?
+-   Introduction
+    -   Neutrino masses and mixings
+    -   PMNS matrix and CP-violation
+    -   Are neutrinos Marojana or Dirac fermions?
 -   Solar neutrino problem
+    -   Homestake experiment (1964-1968)
+        -   Raymond Davis Jr. (1914-2006) 
+    -   Super-Kamiokande (1998)
+    -   Sudbury Neutrino Observatory (1999-2006)
 -   LSND anomaly
     -   LSND: 1996 [^LSND1996] and 2001 [^LSND2001]
     -   MiniBooNE [^MiniBooNE2018]
@@ -1618,8 +1647,8 @@ See also:
     -   LHCb Collaboration. (2021). [Test of lepton universality in beauty-quark decays](https://arxiv.org/abs/2103.11769).
     -   LHCb Collaboration. (2021). [Tests of lepton universality using $B^{0}\rightarrow{}K^{0}_{S}\ell^{+}\ell^{-}$ and $B^{+}\rightarrow{}K^{*+}\ell^{+}\ell^{-}$ decays](https://arxiv.org/abs/2110.09501).
 -   Muon $g-2$
-    -   A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders [^Capdevilla2021]
-    -   [Muon collider physics summary](https://arxiv.org/abs/2203.07256) [^Aime2022]
+    -   Capdevilla, R., Curtin, D., Kahn, Y., & Krnjaic, G. (2021). [A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders](https://arxiv.org/abs/2101.10334). [^Capdevilla2021]
+    -   Aim&egrave;, C. et al. (2022). [Muon collider physics summary](https://arxiv.org/abs/2203.07256). [^Aime2022]
 -   $W$ mass
     -   CDF Collaboration. (2022). [High-precision measurement of the $W$ boson mass with the CDF II detector](https://www.science.org/doi/10.1126/science.abk1781). [^CDF2022]
     -   Conway, J. (2022). [A decade of science and trillions of collisions show the W boson is more massive than expected – a physicist on the team explains what it means for the Standard Model](https://theconversation.com/a-decade-of-science-and-trillions-of-collisions-show-the-w-boson-is-more-massive-than-expected-a-physicist-on-the-team-explains-what-it-means-for-the-standard-model-181028).

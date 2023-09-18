@@ -733,6 +733,9 @@ Waves:
     -   [Intersectionality](https://en.wikipedia.org/wiki/Intersectionality) (1989)
         -   bell hooks (1952-2021)
         -   Kimberl&eacute; Crenshaw (b. 1959)
+    -   Skeptical feminism
+        -   [Janet Radcliffe Richards](https://en.wikipedia.org/wiki/Janet_Radcliffe_Richards) (b. 1944)
+        -   Richards, J.R. (1980). *The Sceptical Feminist: A Philosophical Enquiry*. [^Richards1980]
     -   [*Planned Parenthood v. Casey*](https://en.wikipedia.org/wiki/Planned_Parenthood_v._Casey) (1991)
     -   In 1991, Anita Hill testified before the Senate Judiciary Committee that
         Supreme Court nominee Clarence Thomas had sexually harassed her at work.
@@ -746,6 +749,7 @@ See also:
 
 -   [Feminist epistemology](scientific-realism.html#feminist-epistemology)
 
+[^Richards1980]: @Richards_1980_The_Sceptical_Feminist_A_Philosophical_Enquiry\.
 [^SnyderHall2010]: @Snyder_Hall_2010_Third_wave_feminism_and_the_defense_of_choice\.
 [^Thomson1971]: @Thomson_1971_A_defense_of_abortion\.
 
