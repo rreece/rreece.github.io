@@ -1995,10 +1995,10 @@ TODO: Find Dawkins on multiple instances of convergent evolution of eyes.
 -   We have about 3 billion heartbeats: 80 years $\approx 2.5 \times 10^9$ seconds.
 -   [Arakenanusasani Sutta](https://www.accesstoinsight.org/tipitaka/an/an07/an07.070.than.html) - On the finiteness and shortness of life (AN 7.70)
     -   See also Bodhi. [^Bodhi2005p206]
--   Shelly Kagan
+-   Shelly Kagan (b. 1956)
     -   [Talks: Lectures on Death](https://www.youtube.com/playlist?list=PLEA18FAF1AD9047B0)
     -   *Death* [^Kagan2012]
--   Christopher Hitchens
+-   Christopher Hitchens (1949-2011)
     -   *Mortality* [^Hitchens2012]
 -   [Cancer](https://plato.stanford.edu/entries/cancer/)
 
@@ -2109,13 +2109,19 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 >   A world so frail and faulty as we see. [^Lewis1955]
 
 -   [Theodicy](https://en.wikipedia.org/wiki/Theodicy)
+-   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
+-   [Lucretius](http://en.wikipedia.org/wiki/Lucretius) (99-55 BCE)
 -   [Jean Meslier](https://en.wikipedia.org/wiki/Jean_Meslier) (1664-1729)
--   J.L. Mackie
+-   J.L. Mackie (1917-1981)
     -   *The Miracle of Theism* (1982) [^Mackie1982]
--   Christopher Hitchens
+-   Christopher Hitchens (1949-2011)
     -   *God is Not Great* (2007) [^Hitchens2007]
 
+-   Stephen Law
+    -   Law, S. (2010). [The evil-god challenge](https://www.jstor.org/stable/40927250). [^Law2010]
+
 [^Hitchens2007]: @Hitchens_2007_God_is_Not_Great_How_religion_poisons_everything\.
+[^Law2010]: @Law_2010_The_evil_god_challenge\.
 [^Lewis1955]: @Lewis_1955_Surprised_by_Joy\, p. 65.
 [^Mackie1982]: @Mackie_1982_The_Miracle_of_Theism_Arguments_for_and_against\.
 

@@ -919,7 +919,7 @@ Scruton:
 
 See also:
 
--   [Is there a universal scientific method?](file:///Users/reece/at-github/rreece.github.io/outline-of-philosophy/scientific-method.html#is-there-a-universal-scientific-method)
+-   [Is there a universal scientific method?](scientific-method.html#is-there-a-universal-scientific-method)
 
 [^Boghossian2006p2]: @Boghossian_2006_Fear_of_Knowledge\, p. 2.
 [^Feigl1958]: @Feigl_1958_Critique_of_intuition_according_to_scientific\.
@@ -1002,7 +1002,7 @@ See also:
     -   Boghossian, P. (2006). *Fear of Knowledge*. [^Boghossian2006]
     -   Hicks, S. (2010). [Why Kant is the turning point](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/).
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011]
-    -   Video: [Explaining Postmodernism In 2018 - Stephen Hicks](https://www.youtube.com/watch?v=-BGbHG63x8w)
+    -   Hicks, S. (2018). Video: [Explaining postmodernism in 2018](https://www.youtube.com/watch?v=-BGbHG63x8w).
     -   Sartwell, C. (2015). [Philosophy returns to the real world](http://opinionator.blogs.nytimes.com/2015/04/13/philosophy-returns-to-the-real-world/). *New York Times*. [^Sartwell2015]
     -   Pluckrose, H. (2016). [Why I no longer identify as a feminist](https://areomagazine.com/2016/12/29/why-i-no-longer-identify-as-a-feminist/). *Areo*. [^Pluckrose2016]
     -   Pluckrose, H. (2017). [How French "intellectuals" ruined the west: Postmodernism and its impact, explained](https://areomagazine.com/2017/03/27/how-french-intellectuals-ruined-the-west-postmodernism-and-its-impact-explained/). *Areo*. [^Pluckrose2017]
@@ -1010,6 +1010,9 @@ See also:
     -   Gross, P.R & Norman Levitt, N. (1994). *Higher Superstition: The Academic Left and Its Quarrels With Science*. [^Gross1994]
 -   [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair)
     -   Sokal [^Sokal1996]
+    -   Sokal, A.D. (1996). A physicist experiments with cultural studies. http://www.physics.nyu.edu/sokal/lingua_franca_v4.pdf
+    -   Sokal, A.D. (1996). [Transgressing the boundaries: Towards a transformative hermeneutics of quantum gravity](http://www.physics.nyu.edu/sokal/transgress_v2_noafterword.pdf).
+    -   Sokal, A.D. & Bricmont, J. (1998). Fashionable Nonsense: Postmodern Intellectuals’ Abuse of Science. Picador.
     -   Weinberg, S. (1996). [Sokal's Hoax](https://physics.nyu.edu/faculty/sokal/weinberg.html). *The New York Review of Books*. [^Weinberg1996]
 -   [Grievance studies affair](https://en.wikipedia.org/wiki/Grievance_studies_affair) AKA "Sokal squared"
     -   Mounk, Y. (2018). [What an audacious hoax reveals about academia](https://www.theatlantic.com/ideas/archive/2018/10/new-sokal-hoax/572212/). *The Atlantic*.
@@ -1048,7 +1051,7 @@ See also:
 [^Sartwell2015]: @Sartwell_2015_Philosophy_returns_to_the_real_world\. 
 [^Siegel2016]: @Siegel_2016_No_science_is_not_faith_based\.
 [^Sokal1996]: @Sokal_1996_A_physicist_experiments_with_cultural_studies\,
-    @Sokal_1996_Transgressing_the_Boundaries_Towards\,
+    @Sokal_1996_Transgressing_the_boundaries_Towards\,
     @Sokal_1998_Fashionable_Nonsense_Postmodern_Intellectuals\.
 [^Weinberg1996]: @Weinberg_1996_Sokals_Hoax\.
 [^Williams2017]: @Williams_2017_Has_Trump_stolen_philosophys_critical_tools\.
@@ -1119,6 +1122,7 @@ Dang & Bright:
     -   [equitablemath.org](https://equitablemath.org/)
 -   The Trans Divide
     -   Chappell, S.G. & Lawford-Smith, H. (2018). [Transgender: a dialogue](https://aeon.co/essays/transgender-identities-a-conversation-between-two-philosophers).
+    -   Ivy, V. & Conrad, A. (2018). [Including trans women athletes in competitive sport](https://www.jstor.org/stable/10.2307/26927952).
     -   Lawford-Smith, H. & Marshall, R. (2019). [Thinking about climate change, global justice, and trans](https://www.3-16am.co.uk/articles/thinking-about-climate-change-global-justice-and-trans).
         -   [Richard Marshall resigned](https://leiterreports.typepad.com/blog/2019/03/3am-magazines-radical-chic-motto-whatever-it-is-were-agianst-it-turns-out-to-be-bullocks.html)
             from 3AM Magazine because they withdrew the above interview.
@@ -1129,10 +1133,16 @@ Dang & Bright:
     -   Jacobson, D. et al. (2021). [Open letter concerning academic freedom](https://sites.google.com/view/open-letter-stock-freedom/).
     -   Stock, K. (2021). [The sinister attempts to silence gender critical academics](https://www.spectator.co.uk/article/the-sinister-attempts-to-silence-gender-critical-academics).
     -   Stock, K. (2021). [I refuse to be bullied into silence](https://www.dailymail.co.uk/news/article-9155659/I-refuse-bullied-silence-PROFESSOR-KATHLEEN-STOCK.html).
+    -   Bryne, A. (2023). *Trouble With Gender*.
 -   Intellectual Dark Web (IDW)
     -   Weiss, B. (2018). [Meet the Renegades of the Intellectual Dark Web](https://web.archive.org/web/20200131000213/https://www.nytimes.com/2018/05/08/opinion/intellectual-dark-web.html). *The New York Times*.
     -   Paglia, C. & Peterson, J.B. (2018). Video: [Modern Times](https://www.youtube.com/watch?v=v-hIVnmUdXM).
     -   Kanelos, P. (2021). [We can't wait for universities to fix themselves. So we're starting a new one.](https://bariweiss.substack.com/p/we-cant-wait-for-universities-to) (Announcement of [The University of Austin](https://www.uaustin.org/).)
+
+See also:
+
+-   [Feminism](ethics.html#feminism)
+-   [Feminist epistemology](scientific-realism.html#feminist-epistemology)
 
 [^Konnikova2012]: @Konnikova_2012_Humanities_arent_a_scienceStop_treating_them\.
 [^McCrea2019]: @McCrea_2019_The_magical_thinking_of_guys_who_love_logic\.

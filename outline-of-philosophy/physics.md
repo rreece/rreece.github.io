@@ -1330,6 +1330,7 @@ Interpretations of quantum mechanics
 Videos:
 
 -   David Wallace - [Many Worlds of Quantum Theory](https://www.youtube.com/watch?v=bK9JE1HjPi8) (9 mins)
+-   Sean Carroll - [The Many Worlds of Quantum Mechanics](https://www.youtube.com/watch?v=nOgalPdfHxM)
 
 See also:
 
@@ -1420,6 +1421,7 @@ See also:
     -   't Hooft, G. (2021). [An unorthodox view on quantum mechanics](https://arxiv.org/abs/2104.03179). [^tHooft2021]
     -   Hossenfelder, S. & Palmer, T. (2020). [Rethinking superdeterminism](https://www.frontiersin.org/articles/10.3389/fphy.2020.00139/full). [^Hossenfelder2020]
 -   Frauchiger, D. & Renner, R. (2018). [Quantum theory cannot consistently describe the use of itself](https://www.nature.com/articles/s41467-018-05739-8). [^Frauchiger2018]
+-   Adlam, E., Hance, J.R., Hossenfelder, S., & Palmer, T.N. (2023). [Taxonomy for physics beyond quantum mechanics](https://arxiv.org/abs/2309.12293). [^Adlam2023]
 
 From [Sabine Hossenfelder](https://www.youtube.com/watch?v=hpkgPJo_z6Y),
 some examples for models that violate measurement independence are here:
@@ -1431,6 +1433,7 @@ some examples for models that violate measurement independence are here:
 -   Ciepielewski, G.S, Okon, E., & Sudarsky, D. (2020). [On superdeterministic rejections of settings independence](https://arxiv.org/abs/2008.00631). [^Ciepielewski2020]
 -   Donadi, S. & Hossenfelder, S. (2022). [A toy model for local and deterministic wave-function collapse](https://arxiv.org/abs/2010.01327). [^Donadi2022]
 
+[^Adlam2023]: @Adlam_2023_Taxonomy_for_physics_beyond_quantum_mechanics\.
 [^Brans1988]: @Brans_1988_Bells_theorem_does_not_eliminate_fully_causal\.
 [^Ciepielewski2020]: @Ciepielewski_2020_On_superdeterministic_rejections_of_settings\.
 [^Degorre2005]: @Degorre_2005_Simulating_quantum_correlations_as_a_distributed\.
@@ -1930,15 +1933,18 @@ Bracketing human experience
 -   entailment, reductionism
 -   crossing symmetry in QFT
 -   Bokulich, P. (2011). Hempel's dilemma and domains of physics. [^Bokulich2011]
--   Carroll, S. (2013). Talk: [Poetic Naturalism](https://www.youtube.com/watch?v=xv0mKsO2goA).
--   Carroll, S. (2014). Talk: [Has science refuted religion?](https://www.youtube.com/watch?v=40eiycH077A#t=402)
     Acceptance speech for the FFRF's the emperor has no clothes award.
 -   Carroll, S. (2015). [Quantum field theory and the limits of knowledge](http://www.preposterousuniverse.com/blog/2015/04/21/quantum-field-theory-and-the-limits-of-knowledge/).
--   Carroll, S. & Wallace, A. (2017). Talk: [The Nature of Reality: A Dialogue Between a Buddhist Scholar and a Theoretical Physicist](https://www.youtube.com/watch?v=pLbSlC0Pucw).
 -   Carroll, S. (2021). [The quantum field theory on which the everyday world supervenes](https://philpapers.org/rec/CARTQF-5).
--   Carroll, S. (2022). Talk: [Quantum Field Theory and the Limits of Knowledge](https://www.youtube.com/watch?v=REITVohWOO0).
 
 ![Sean Carroll on the entailment of everyday life by physics.](img/carroll-entailment.jpg){#fig:carroll-entailment}
+
+Videos of talks:
+
+-   Carroll, S. (2013). [Poetic Naturalism](https://www.youtube.com/watch?v=xv0mKsO2goA).
+-   Carroll, S. (2014). [Has science refuted religion?](https://www.youtube.com/watch?v=40eiycH077A#t=402)
+-   Carroll, S. & Wallace, A. (2017). [The Nature of Reality: A Dialogue Between a Buddhist Scholar and a Theoretical Physicist](https://www.youtube.com/watch?v=pLbSlC0Pucw).
+-   Carroll, S. (2022). [Quantum Field Theory and the Limits of Knowledge](https://www.youtube.com/watch?v=REITVohWOO0).
 
 See also:
 

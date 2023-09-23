@@ -6,7 +6,7 @@
 -   #CCCCCC - headers
 -   #0099ff - link
 -   red - link hover
--   blueviolet  - link visited
+-   mediumorchid  - link visited
 -   #AAAAAA - quote block, caption
 -   background: #333333;
 
@@ -84,7 +84,7 @@ a {
     text-decoration: underline;
 }
 a:visited {
-    color: blueviolet;
+    color: mediumorchid;
 }
 a:hover {
     text-decoration: none;

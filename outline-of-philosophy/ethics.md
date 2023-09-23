@@ -723,7 +723,13 @@ Waves:
     -   [*Roe v. Wade*](https://en.wikipedia.org/wiki/Roe_v._Wade) (1973)
     -   [*Equal Credit Opportunity Act*](https://en.wikipedia.org/wiki/Equal_Credit_Opportunity_Act) (1974)
 3.  Third wave (1990s-2012)
+    -   Riot grrrl feminist punk subculture
+    -   In 1991, Anita Hill testified before the Senate Judiciary Committee that
+        Supreme Court nominee Clarence Thomas had sexually harassed her at work.
+    -   [*Planned Parenthood v. Casey*](https://en.wikipedia.org/wiki/Planned_Parenthood_v._Casey) (1991)
+    -   Pluralism and staunch disagreement among feminists.
     -   [Rebecca Walker](https://en.wikipedia.org/wiki/Rebecca_Walker) (b. 1969)
+        -   Walker, R. (1992). Becoming the third wave. (in response to Thomas's appointment)
     -   [Feminist sex wars](https://en.wikipedia.org/wiki/Feminist_sex_wars)
         -   Andrea Dworkin (1946-2005)
         -   Alice Walker (b. 1944)
@@ -736,9 +742,7 @@ Waves:
     -   Skeptical feminism
         -   [Janet Radcliffe Richards](https://en.wikipedia.org/wiki/Janet_Radcliffe_Richards) (b. 1944)
         -   Richards, J.R. (1980). *The Sceptical Feminist: A Philosophical Enquiry*. [^Richards1980]
-    -   [*Planned Parenthood v. Casey*](https://en.wikipedia.org/wiki/Planned_Parenthood_v._Casey) (1991)
-    -   In 1991, Anita Hill testified before the Senate Judiciary Committee that
-        Supreme Court nominee Clarence Thomas had sexually harassed her at work.
+        -   Richards, J.R. (1995). Why feminist epistemology isn't (and the implications for feminist jurisprudence). [^Richards1995]
     -   Snyder-Hall, R.C. (2010). [Third-wave feminism and the defense of "choice"](https://www.jstor.org/stable/25698533). [^SnyderHall2010]
 4.  Fourth wave (2012-present)
     -   Use of social media; #MeToo movement
@@ -747,9 +751,11 @@ Waves:
 
 See also:
 
+-   [Culture wars](naturalism.html#culture-wars)
 -   [Feminist epistemology](scientific-realism.html#feminist-epistemology)
 
 [^Richards1980]: @Richards_1980_The_Sceptical_Feminist_A_Philosophical_Enquiry\.
+[^Richards1995]: @Richards_1995_Why_feminist_epistemology_isnt\.
 [^SnyderHall2010]: @Snyder_Hall_2010_Third_wave_feminism_and_the_defense_of_choice\.
 [^Thomson1971]: @Thomson_1971_A_defense_of_abortion\.
 
