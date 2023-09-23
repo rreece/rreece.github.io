@@ -466,7 +466,7 @@ See also:
 ### Criticism
 
 -   Putnam, H. (1997). A half century of philosophy, viewed from within. [^Putnam1997]
--   Hudson, H. (2016). Non-naturalistic metaphysics. In K.J Clark (Ed.), *The Blackwell Companion to Naturalism*, (pp. 168--181). Wiley. [^Hudson2016]
+-   Hudson, H. (2016). Non-naturalistic metaphysics. [^Hudson2016]
 
 Examples of non-naturalized methaphysics:
 

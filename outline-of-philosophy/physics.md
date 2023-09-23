@@ -1260,8 +1260,8 @@ Interpretations of quantum mechanics
 Criticisms:
 
 -   Postulates a new theoretical apparatus, the guiding equation.
--   Focuses on NRQM.
 -   Committed to particle onotology.
+-   Focuses on NRQM; Not yet demonstrated any relativistic extensions.
 
 [^Ananthaswamy2021]: @Ananthaswamy_2021_This_simple_experiment_could_challenge_standard\.
 [^Bell1987]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
@@ -1335,11 +1335,15 @@ Criticisms:
 
 Videos:
 
--   David Wallace - [Many Worlds of Quantum Theory](https://www.youtube.com/watch?v=bK9JE1HjPi8) (9 mins)
--   Sean Carroll - [The Many Worlds of Quantum Mechanics](https://www.youtube.com/watch?v=nOgalPdfHxM)
+-   Wallace, D. (2020). [Many worlds of quantum theory](https://www.youtube.com/watch?v=bK9JE1HjPi8). (9 mins)
+-   Carroll, S. (2022). [The many worlds of quantum mechanics](https://www.youtube.com/watch?v=nOgalPdfHxM).
+-   Wallace, D. (2021). [The sky is blue, and other reasons physics needs the Everett interpretation](https://www.youtube.com/watch?v=tEwgNbfYn2E).
+
 
 Criticisms:
 
+-   It seems to clash with the manifest image.
+-   There are too many worlds.
 -   Frauchiger, D. & Renner, R. (2018). [Quantum theory cannot consistently describe the use of itself](https://www.nature.com/articles/s41467-018-05739-8). [^Frauchiger2018]
 -   Bub, J. (2019). ['Two Dogmas' redux](https://arxiv.org/abs/1907.06240). [^Bub2019]
 
@@ -1377,12 +1381,15 @@ See also:
 -   Putnam, H. (1965). A philosopher looks at quantum mechanics. [^Putnam1965]
 -   Putnam, H. (2005). [A philosopher looks at quantum mechanics (again)](https://www.jstor.org/stable/3541860). [^Putnam2005]
 -   Wuthrich, C. (2014). [Putnam looks at quantum mechanics (again and again)](https://arxiv.org/abs/1406.5737). [^Wuthrich2014]
+-   Allori, V. (2022). [What is it like to be a relativistic GRW theory? Or: Quantum mechanics and relativity, still in conflict after all these years](https://doi.org/10.1007/s10701-022-00595-5). [^Allori2022]
 
 Criticisms:
 
 -   Collapse is arbitrary; $U$ vs $R$ operators; universal quantum theory $\Rightarrow$ Everett.
 -   Ignores decoherence?
+-   TODO: Look into how GRW can be relativistic.
 
+[^Allori2022]: @Allori_2022_What_is_it_like_to_be_a_relativistic_GRW_theory\.
 [^Bassi2005]: @Bassi_2005_Collapse_models_analysis_of_the_free_particle\.
 [^Ghirardi1986]: @Ghirardi_1986_Unified_dynamics_for_microscopic_and_macroscopic\.
 [^Ghirardi1990]: @Ghirardi_1990_Markov_processes_in_Hilbert_space_and_continuous\.
