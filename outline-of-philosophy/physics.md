@@ -1257,6 +1257,12 @@ Interpretations of quantum mechanics
 -   Stopp, F., Ortiz-Guti&eacute;rrez, L., Lehec, H., & Schmidt-Kaler, F. (2021). [Single ion thermal wave packet analyzed via time-of-flight detection](https://iopscience.iop.org/article/10.1088/1367-2630/abffc0). [^Stopp2021]
 -   Ananthaswamy, A. (2021). [This simple experiment could challenge standard quantum theory](https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/). [^Ananthaswamy2021]
 
+Criticisms:
+
+-   Postulates a new theoretical apparatus, the guiding equation.
+-   Focuses on NRQM.
+-   Committed to particle onotology.
+
 [^Ananthaswamy2021]: @Ananthaswamy_2021_This_simple_experiment_could_challenge_standard\.
 [^Bell1987]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
 [^Bohm1952]: @Bohm_1952_A_suggested_interpretation_of_the_quantum_theory\.
@@ -1332,21 +1338,28 @@ Videos:
 -   David Wallace - [Many Worlds of Quantum Theory](https://www.youtube.com/watch?v=bK9JE1HjPi8) (9 mins)
 -   Sean Carroll - [The Many Worlds of Quantum Mechanics](https://www.youtube.com/watch?v=nOgalPdfHxM)
 
+Criticisms:
+
+-   Frauchiger, D. & Renner, R. (2018). [Quantum theory cannot consistently describe the use of itself](https://www.nature.com/articles/s41467-018-05739-8). [^Frauchiger2018]
+-   Bub, J. (2019). ['Two Dogmas' redux](https://arxiv.org/abs/1907.06240). [^Bub2019]
+
 See also:
 
 -   [Decoherence](physics.html#decoherence)
 
 [^Barrett2011]: @Barrett_2011_Everetts_pure_wave_mechanics_and_the_notion\.
 [^Barrett2016]: @Barrett_2016_Quantum_Worlds\.
+[^Bub2019]: @Bub_2019_Two_Dogmas_redux\.
+[^Carroll2019]: @Carroll_2019_Something_Deeply_Hidden\.
+[^Carroll2019-2]: @Carroll_2019_Mad_Dog_Everettianism_Quantum_mechanics_at_its\.
+[^DeWitt1970]: @DeWitt_1970_Quantum_mechanics_and_reality\.
+[^DeWitt1973]: @DeWitt_1973_The_Many_Worlds_Interpretation_of_Quantum\.
 [^Everett2012p150]: @Everett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\, p. 150.
 [^Everett2012p171]: @Everett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\, p. 171.
 [^Everett1956]: @Everett_1956_Theory_of_the_Universal_Wave_Function\.
 [^Everett1957]: @Everett_1957_Relative_state_formulation_of_quantum_mechanics\.
 [^Everett2012]: @Everett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\.
-[^Carroll2019-2]: @Carroll_2019_Mad_Dog_Everettianism_Quantum_mechanics_at_its\.
-[^Carroll2019]: @Carroll_2019_Something_Deeply_Hidden\.
-[^DeWitt1970]: @DeWitt_1970_Quantum_mechanics_and_reality\.
-[^DeWitt1973]: @DeWitt_1973_The_Many_Worlds_Interpretation_of_Quantum\.
+[^Frauchiger2018]: @Frauchiger_2018_Quantum_theory_cannot_consistently_describe\.
 [^Joos2003p22]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\, p. 22.
 [^GellMann1989]: @Gell_Mann_1989_Quantum_mechanics_in_the_light_of_quantum\.
 [^Wallace2012]: @Wallace_2012_The_Emergent_Multiverse\.
@@ -1364,6 +1377,11 @@ See also:
 -   Putnam, H. (1965). A philosopher looks at quantum mechanics. [^Putnam1965]
 -   Putnam, H. (2005). [A philosopher looks at quantum mechanics (again)](https://www.jstor.org/stable/3541860). [^Putnam2005]
 -   Wuthrich, C. (2014). [Putnam looks at quantum mechanics (again and again)](https://arxiv.org/abs/1406.5737). [^Wuthrich2014]
+
+Criticisms:
+
+-   Collapse is arbitrary; $U$ vs $R$ operators; universal quantum theory $\Rightarrow$ Everett.
+-   Ignores decoherence?
 
 [^Bassi2005]: @Bassi_2005_Collapse_models_analysis_of_the_free_particle\.
 [^Ghirardi1986]: @Ghirardi_1986_Unified_dynamics_for_microscopic_and_macroscopic\.
@@ -1385,6 +1403,11 @@ See also:
     -   Fuchs, C.A. & Stacey, B.C. (2016). [QBism: Quantum theory as a hero's handbook](https://arxiv.org/abs/1612.07308). [^Fuchs2016]
 -   Harrigan, N., & Spekkens, R.W. (2010). [Einstein, incompleteness, and the epistemic view of quantum states](https://arxiv.org/abs/0706.2661). [^Harrigan2010]
 -   Leifer, M.S. & Spekkens, R.W. (2013). [Towards a formulation of quantum theory as a causally neutral theory of bayesian inference](https://arxiv.org/abs/1107.5849). [^Leifer2013]
+
+Criticisms:
+
+-   Anti-Copernican; anthropomorphism
+-   PBR theorem
 
 [^Caves2001]: @Caves_2001_Quantum_probabilities_as_Bayesian_probabilities\.
 [^Fuchs2002]: @Fuchs_2002_Quantum_mechanics_as_quantum_information_and_only\.
@@ -1414,14 +1437,21 @@ See also:
 
 ### Other interpretations
 
+-   Transactional quantum mechanics
+    -   Cramer, J.G. (1986). The transactional interpretation of quantum mechanics. [^Cramer1986]
+    -   Maudlin, T. (1996). *Quantum Nonlocality and Relativity: Metaphysical Intimations of Modern Physics*. [^Maudlin1996]
+-   Ivariant set theory
+    -   Palmer, T.N. (2009). [The invariant set postulate: A new geometric framework for the foundations of quantum theory and the role played by gravity](https://arxiv.org/abs/0812.1148). [^Palmer2009]
+    -   Palmer, T.N. (2016). [Invariant set theory](https://arxiv.org/abs/1605.01051). [^Palmer2016]
+-   Cellular automaton
+    -   't Hooft, G. (2014). [The cellular automaton interpretation of quantum mechanics](https://arxiv.org/abs/1405.1548). [^tHooft2014]
 -   Relational quantum mechanics
     -   Martin-Dussaud, P., Rovelli, C., & Zalamea, F. (2018). [The notion of locality in relational quantum mechanics](https://arxiv.org/abs/1806.08150). [^MartinDussaud2018]
--   Transactional quantum mechanics
 -   Superdeterminism
     -   't Hooft, G. (2021). [An unorthodox view on quantum mechanics](https://arxiv.org/abs/2104.03179). [^tHooft2021]
     -   Hossenfelder, S. & Palmer, T. (2020). [Rethinking superdeterminism](https://www.frontiersin.org/articles/10.3389/fphy.2020.00139/full). [^Hossenfelder2020]
--   Frauchiger, D. & Renner, R. (2018). [Quantum theory cannot consistently describe the use of itself](https://www.nature.com/articles/s41467-018-05739-8). [^Frauchiger2018]
--   Adlam, E., Hance, J.R., Hossenfelder, S., & Palmer, T.N. (2023). [Taxonomy for physics beyond quantum mechanics](https://arxiv.org/abs/2309.12293). [^Adlam2023]
+-   Taxonomies
+    -   Adlam, E., Hance, J.R., Hossenfelder, S., & Palmer, T.N. (2023). [Taxonomy for physics beyond quantum mechanics](https://arxiv.org/abs/2309.12293). [^Adlam2023]
 
 From [Sabine Hossenfelder](https://www.youtube.com/watch?v=hpkgPJo_z6Y),
 some examples for models that violate measurement independence are here:
@@ -1436,13 +1466,17 @@ some examples for models that violate measurement independence are here:
 [^Adlam2023]: @Adlam_2023_Taxonomy_for_physics_beyond_quantum_mechanics\.
 [^Brans1988]: @Brans_1988_Bells_theorem_does_not_eliminate_fully_causal\.
 [^Ciepielewski2020]: @Ciepielewski_2020_On_superdeterministic_rejections_of_settings\.
+[^Cramer1986]: @Cramer_1986_The_transactional_interpretation_of_quantum\.
 [^Degorre2005]: @Degorre_2005_Simulating_quantum_correlations_as_a_distributed\.
 [^Donadi2022]: @Donadi_2022_A_toy_model_for_local_and_deterministic_wave\.
-[^Frauchiger2018]: @Frauchiger_2018_Quantum_theory_cannot_consistently_describe\.
 [^Hall2010]: @Hall_2010_Local_deterministic_model_of_singlet_state\.
 [^Hossenfelder2020]: @Hossenfelder_2020_Rethinking_superdeterminism\.
 [^MartinDussaud2018]: @Martin_Dussaud_2018_The_notion_of_locality_in_relational_quantum\.
+[^Maudlin1996]: @Maudlin_1996_Quantum_Nonlocality_and_Relativity_Metaphysical\.
 [^Palmer1995]: @Palmer_1995_A_local_deterministic_model_of_quantum_spin\.
+[^Palmer2009]: @Palmer_2009_The_invariant_set_postulate_A_new_geometric\.
+[^Palmer2016]: @Palmer_2016_Invariant_set_theory\.
+[^tHooft2014]: @tHooft_2014_The_cellular_automaton_interpretation_of_quantum\.
 [^tHooft2021]: @tHooft_2021_An_unorthodox_view_on_quantum_mechanics\.
 
 

@@ -49,6 +49,7 @@ Borcherds, R.E. & Barnard, A. (2002). Lectures on quantum field theory. https://
 Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. *Studies in History and Philosophy of Modern Physics*, 33, 3--22. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.106&rep=rep1&type=pdf
 Brans , C.H. (1988). Bell's theorem does not eliminate fully causal hidden variables. *International Journal of Theoretical Physics*, 27, 219--226. https://link.springer.com/article/10.1007/BF00670750
 Broughton, M. et al. (2020). TensorFlow Quantum: A software framework for quantum machine learning. https://arxiv.org/abs/2003.02989
+Bub, J. (2019). 'Two Dogmas' redux. https://arxiv.org/abs/1907.06240
 Buchholz, D. (1998). Current trends in axiomatic quantum field theory. https://arxiv.org/abs/hep-th/9811233
 Buckingham, E. (1914). On physically similar systems; Illustrations of the use of dimensional equations. *Physical Review*, 4(4), 345--376.
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
@@ -80,6 +81,7 @@ Cohen, M.L. (2015). Explaining and predicting the properties of materials using 
 Coleman, S. (2020). Sidney Coleman's Dirac Lecture "Quantum Mechanics in Your Face". https://arxiv.org/abs/2011.12671
 Coleman, S. & Mandula, J. (1967). All possible symmetries of the $S$ matrix. *Physical Review*, 159(5), 1251--1256.
 Conway, J. & Kochen, S. (2006). The free will theorem. *Foundations of Physics*, 36, 1441--1473. https://arxiv.org/abs/quant-ph/0604079
+Cramer, J.G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58, 647.
 Cubitt, T., Perez-Garcia, D. & Wolf, M. (2015). Undecidability of the spectral gap. *Nature*, 528, 207--211.
 Das, S. & D{\"u}rr, D. (2019). Arrival time distributions of spin-1/2 particles. *Scientific Reports*, 9, 2242. https://www.nature.com/articles/s41598-018-38261-4
 Debono, I. & Smoot, G.F. (2016). General relativity and cosmology: Unsolved questions and future directions. *Universe*, 2, 23. https://arxiv.org/abs/1609.09781
@@ -186,6 +188,7 @@ Martin-Dussaud, P., Rovelli, C., & Zalamea, F. (2018). The notion of locality in
 Martin, S.P. (2011). Phenomenology of particle physics. https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf
 Martin, S.P. (2016). A supersymmetry primer. https://arxiv.org/abs/hep-ph/9709356 [(First published in 1997)]
 Maudlin, T. (1995). Three measurement problems. *Topoi*, 14, 7--15.
+Maudlin, T. (1996). *Quantum Nonlocality and Relativity: Metaphysical Intimations of Modern Physics*. Wiley-Blackwell.
 Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.
 Maudlin, T. (2012). *Philosophy of Physics: Space and Time*. Princeton University Press.
 Maudlin, T. (2014). What Bell did. *Journal of Physics A: Mathematical and Theoretical*, 47, 424010. https://iopscience.iop.org/article/10.1088/1751-8113/47/42/424010/pdf
@@ -210,6 +213,8 @@ Noether, E. (1918). Invariante variationsprobleme. *Nachrichten von der Gesellsc
 Ohanian, H.C. (1986). What is spin? *American Journal of Physics*, 54, 500.
 Ostrik, V. (2004). Tensor categories (after Deligne). https://arxiv.org/abs/math/0401347
 Palmer, T.N. (1995). A local deterministic model of quantum spin measurement. *Proceedings of the Royal Society of London A*, 451, 585--608. https://arxiv.org/abs/quant-ph/9505025
+Palmer, T.N. (2009). The invariant set postulate: A new geometric framework for the foundations of quantum theory and the role played by gravity. https://arxiv.org/abs/0812.1148
+Palmer, T.N. (2016). Invariant set theory. https://arxiv.org/abs/1605.01051
 Pati, J.C. & Salam, A. (1974). Lepton number as the fourth color. *Physical Review D*, 10, 275--289. https://pdfs.semanticscholar.org/21fb/f9d49acf3e3f07098ca686ae4058c38dbd03.pdf
 Patterson, G. (2007). Jean Perrin and the triumph of the atomic doctrine. *Endeavour*, 31, 50--53.
 Pauli, W. (1941). Relativistic field theories of elementary particles. *Reviews of Modern Physics*, 13, 203--232.
@@ -272,6 +277,7 @@ Teller, P. (2000). The gauge argument. *Philosophy of Science*. 67, 466--481.
 't Hooft, G. (1999). A confrontation with infinity. https://www.nobelprize.org/prizes/physics/1999/thooft/lecture/ [Nobel Lecture, December 8, 1999]
 't Hooft, G. (2005). The conceptual basis of quantum field theory. https://dspace.library.uu.nl/bitstream/handle/1874/22670/hooft_05_conceptualbasisofquantumfieldtheory.pdf
 't Hooft, G. (2007). Lie groups in physics. http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf
+'t Hooft, G. (2014). The cellular automaton interpretation of quantum mechanics. https://arxiv.org/abs/1405.1548
 't Hooft, G. (2021). An unorthodox view on quantum mechanics. https://arxiv.org/abs/2104.03179
 Tong, D. (2006). Lectures on Quantum Field Theory. https://www.damtp.cam.ac.uk/user/tong/qft.html
 Tong, D. (2022). Lectures on Supersymmetric Field Theory. https://www.damtp.cam.ac.uk/user/tong/susy.html
