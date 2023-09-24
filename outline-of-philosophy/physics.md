@@ -1180,7 +1180,7 @@ Interpretations of quantum mechanics
 
 ### Copenhagen "interpretation"
 
--   [Niels Bohr (1885-1962)](https://en.wikipedia.org/wiki/Niels_Bohr)
+-   [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962)
 -   Complementarity
 -   Becker, A. (2018). *What is Real?* [^Becker2018]
 
@@ -1214,6 +1214,7 @@ Interpretations of quantum mechanics
 -   Kochen, S. & Specker, E.P. (1967). The problem of hidden variables in quantum mechanics. [^Kochen1967]
 -   Clauser, J., Horne, M., Shimony, A., & Holt, R. (1969). Proposed experiment to test local hidden-variable theories. [^Clauser1969]
 -   *Epistemological Letters* (1973-1984)
+-   d'Espagnat, B. (1979). [The quantum theory and reality](https://static.scientificamerican.com/sciam/assets/media/pdf/197911_0158.pdf). [^dEspagnat1979]
 -   Aspect experiments (1982)
 -   Bell, J.S. (1987). La Nouvelle Cuisine. [^Bell2004p232]
 -   GHZ experiment (1990)
@@ -1231,6 +1232,7 @@ Interpretations of quantum mechanics
 [^Bell2004p232]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\, pp. 232--248.
 [^Clauser1969]: @Clauser_1969_Proposed_experiment_to_test_local_hidden_variable\.
 [^Conway2006]: @Conway_2006_The_free_will_theorem\.
+[^dEspagnat1979]: @dEspagnat_1979_The_quantum_theory_and_reality\.
 [^Gisin1991]: @Gisin_1991_Bells_inequality_holds_for_all_non_product\,
     @Gisin_1992_Maximal_violation_of_Bells_inequality\, and
     @Gisin_1999_Bell_inequality_for_arbitrary_many_settings\.
@@ -1436,6 +1438,10 @@ Criticisms:
 -   Schlosshauer, M. & Fine, A. (2012). [Implications of the Pusey-Barrett-Rudolph quantum no-go theorem](https://arxiv.org/abs/1203.4779). [^Schlosshauer2012]
 -   Nigg, D. et al. (2015). [Can different quantum state vectors correspond to the same physical state? An experimental test](https://arxiv.org/abs/1211.0942). [^Nigg2015]
 -   Ontological vs nomological interpretations of wavefunctions
+
+Videos:
+
+-   Maudlin, T. (2021). [The PBR theorem, quantum state realism, and statistical independence](https://www.youtube.com/watch?v=g4WuObaJYMU).
 
 [^Pusey2012]: @Pusey_2012_On_the_reality_of_the_quantum_state\.
 [^Nigg2015]: @Nigg_2015_Can_different_quantum_state_vectors_correspond\.
