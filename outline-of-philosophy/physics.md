@@ -849,7 +849,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 -   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
 -   Lazarovici, D. (2018). [Against fields](https://arxiv.org/abs/1809.00855). [^Lazarovici2018]
 -   Baker, D.J. (2009). [Against field interpretations of quantum field theory](http://philsci-archive.pitt.edu/4350/). [^Baker2009]
--   Caulton, A. (2018). A persistent particle ontology for quantum field theory. [^Caulton2018]
+-   Caulton, A. (2018). [A persistent particle ontology for quantum field theory](https://link.springer.com/article/10.1007/s11016-018-0323-1). [^Caulton2018]
 
 [^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
 [^Baker2009]: @Baker_2009_Against_field_interpretations_of_quantum_field\.

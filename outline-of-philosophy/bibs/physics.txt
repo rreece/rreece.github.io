@@ -67,7 +67,7 @@ Carroll, S.M. (2019). *Something Deeply Hidden*. Dutton.
 Carroll, S.M. & Singh, A. (2019). Mad-Dog Everettianism: Quantum mechanics at its most minimal. In *What is Fundamental?* (pp. 95--104). Springer. https://arxiv.org/abs/1801.08132
 Caulton, A. (2014). Physical entanglement in permutation-invariant quantum mechanics. https://arxiv.org/abs/1409.0246
 Caulton, A. (2015). The role of symmetry in the interpretation of physical theories. *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 52, 153--162. http://philsci-archive.pitt.edu/11571/
-Caulton, A. (2018). A persistent particle ontology for quantum field theory. *Metascience*, 27, 439--441. 
+Caulton, A. (2018). A persistent particle ontology for quantum field theory. *Metascience*, 27, 439--441. https://link.springer.com/article/10.1007/s11016-018-0323-1
 Caulton, A., & Butterfield, J. (2012). Symmetries and paraparticles as a motivation for structuralism. *British Journal for the Philosophy of Science*, 63, 233--285. https://arxiv.org/abs/1002.3730
 Caves, C.M., Fuchs, C.A., & Schack, R. (2001). Quantum probabilities as Bayesian probabilities. *Physical Review A*, 65, 022305. https://arxiv.org/abs/quant-ph/0106133
 {CDF Collaboration}. (2022). High-precision measurement of the $W$ boson mass with the CDF II detector. *Science*, 376(6589), 170--176. https://www.science.org/doi/10.1126/science.abk1781
