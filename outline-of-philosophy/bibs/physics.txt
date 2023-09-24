@@ -108,7 +108,7 @@ D{\"u}rr, D. & Lazarovici, D. (2020). *Understanding Quantum Mechanics: The Worl
 Dutailly, J.C. (2014). Particles and Fields. https://hal.archives-ouvertes.fr/hal-00933043
 Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. *Physical Review*, 75(11), 1736.
 Dyson, F.J. (1952). Divergence of perturbation theory in quantum electrodynamics. *Physical Review*, 85(4), 631.
-Earman, J., & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. *Erkenntnis*, 64(3), 305--344.
+Earman, J. & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. *Erkenntnis*, 64(3), 305--344.
 Einstein, A. (1905). Ist die tr{\"a}gheit eines k{\"o}rpers von seinem energieinhalt abh{\"a}ngig? *Annalen der Physik*, 323, 639--641. https://onlinelibrary.wiley.com/doi/10.1002/andp.19053231314
 #Einstein, A. (1905). On the electrodynamics of moving bodies. *Annalen der Physik*, 322, 891--921. http://www.damtp.cam.ac.uk/user/gold/pdfs/teaching/old_literature/Einstein1905.pdf
 Einstein, A. (1905). {\"U}ber die von der molekularkinetischen theorie der w{\"a}rme geforderte bewegung von in ruhenden fl{\"u}ssigkeiten suspendierten teilchen. *Annalen der Physik*, 322, 549--560. https://onlinelibrary.wiley.com/doi/10.1002/andp.19053220806

@@ -874,7 +874,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 -   Discussion:
     -   Malament, D.B. (1996). In defence of dogma: Why there cannot be a relativistic quantum mechanics of (localizable) particles. [^Malament1996]
     -   Teller, P. (1997). *An Interpretive Introduction to Quantum Field Theory*. [^Teller1997p115]
-    -   Earman, J., & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. [^Earman2006]
+    -   Earman, J. & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. [^Earman2006]
     -   Klaczynski, L. (2016). [Haag's theorem in renormalised quantum field theories](https://arxiv.org/abs/1602.00662). [^Klaczynski2016]
     -   Ruetsche, L. (2002). Interpreting quantum field theory. [^Ruetsche2002]
 -   Resolution:
@@ -967,9 +967,9 @@ Exotics in quantum field theory
 #### Aharonov-Bohm effect
 
 -   Aharonov, Y. & Bohm, D. (1959). Significance of electromagnetic potentials in quantum theory. [^Aharonov1959]
--   Healey on the Aharonov-Bohm effect [^Healey2007ch2]
--   Holonomy
+-   Healey, R. (2007). *Gauging What’s Real*. [^Healey2007ch2]
 -   Batterman, R. (2003). Falling cats, parallel parking and polarized light. [^Batterman2003]
+    -   Holonomy
 -   Wallace, D. (2014). [Deflating the Aharonov-Bohm effect](https://arxiv.org/abs/1407.5073). [^Wallace2014]
 -   Maudlin, T. (2018). [Ontological clarity via canonical presentation: Electromagnetism and the Aharonov-Bohm effect](https://www.mdpi.com/1099-4300/20/6/465). [^Maudlin2018]
 
