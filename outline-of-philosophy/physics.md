@@ -699,7 +699,8 @@ Michael Atiyah:
 -   Correlation AKA Green's functions
 -   Wick's theorem
     -   Kontsevich, M. & Segal, G. (2021). [Wick rotation and the positivity of energy in quantum field theory](https://arxiv.org/abs/2105.10161). [^Kontsevich2021]
--   Vaccuum bubble cancelation
+-   Gell-Mann and Low theorem
+    -   Vaccuum bubble cancelation
 -   Dyson series
     -   Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. [^Dyson1949]
     -   Dyson, F.J. (1952). Divergence of perturbation theory in quantum electrodynamics. [^Dyson1952]
@@ -710,7 +711,7 @@ Michael Atiyah:
     -   Weinberg, S. (1964). Feynman rules for any spin. [^Weinberg1964]
 -   Martin, S.P. (2011). [Phenomenology of particle physics](https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf). [^Martin2011]
 -   My notes: Reece, R. (2007). [Quantum field theory: An introduction](http://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf). [^Reece2007]
--   Jaeger, G. (2019). Are virtual particles less real? [^Jaeger2019]
+-   Jaeger, G. (2019). [Are virtual particles less real?](https://www.mdpi.com/1099-4300/21/2/141) [^Jaeger2019]
 
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
 [^Dyson1952]: @Dyson_1952_Divergence_of_perturbation_theory_in_quantum\.
@@ -865,18 +866,21 @@ Baez, Segal, & Zhou on wave-particle duality:
 
 #### Haag's theorem
 
--   Haag's theorem [^Haag1955]
+-   Haag's theorem
+    -   Haag, R. (1955). [On quantum field theories](http://cds.cern.ch/record/212242). [^Haag1955]
     -   The interaction picture does not exist in interacting relativistic QFT.
     -   States in the free theory are unitarily inequivalent to those in interacting relativistic QFT.
+    -   $O_\mathrm{interacting} \neq U \: O_\mathrm{free} \: U^{-1}$
 -   Discussion:
-    -   Malament [^Malament1996]
-    -   Teller [^Teller1997p115]
-    -   Earman and Fraser's analysis [^Earman2006]
-    -   Klaczynski's analysis [^Klaczynski2016]
+    -   Malament, D.B. (1996). In defence of dogma: Why there cannot be a relativistic quantum mechanics of (localizable) particles. [^Malament1996]
+    -   Teller, P. (1997). *An Interpretive Introduction to Quantum Field Theory*. [^Teller1997p115]
+    -   Earman, J., & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. [^Earman2006]
+    -   Klaczynski, L. (2016). [Haag's theorem in renormalised quantum field theories](https://arxiv.org/abs/1602.00662). [^Klaczynski2016]
     -   Ruetsche, L. (2002). Interpreting quantum field theory. [^Ruetsche2002]
 -   Resolution:
-    -   Bain [^Bain2000]
-    -   Duncan [^Duncan2012]
+    -   Bain, J. (2000). Against particle/field duality: Asymptotic particle states and interpolating fields in interacting QFT, or Who's afraid of Haag's theorem? [^Bain2000]
+        -   FAPP-localized particles
+    -   Duncan, A. (2012). *Conceptual Framework of Quantum Field Theory*. [^Duncan2012p359]
     -   Wallace
     -   QFT requires an ultraviolet regulator (a cutoff, a lattice),
         and Haag's theorem does not apply when the regulator is in place.
@@ -904,7 +908,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 </center>
 
 [^Bain2000]: @Bain_2000_Against_particlefield_duality_Asymptotic\.
-[^Duncan2012]: @Duncan_2012_Conceptual_Framework_of_Quantum_Field_Theory\.
+[^Duncan2012p359]: @Duncan_2012_Conceptual_Framework_of_Quantum_Field_Theory\, p. 359.
 [^Earman2006]: @Earman_2006_Haags_theorem_and_its_implications\.
 [^Haag1955]: @Haag_1955_On_quantum_field_theories\.
 [^Klaczynski2016]: @Klaczynski_2016_Haags_theorem_in_renormalised_quantum_field\.
@@ -919,8 +923,8 @@ Baez, Segal, & Zhou on wave-particle duality:
 -   Canonical quantization
 -   Path integral quantization
 -   No "2nd quantization"
--   Redhead [^Redhead1982]
--   Redhead [^Redhead1988]
+-   Redhead, M. (1982). Quantum field theory for philosophers. [^Redhead1982]
+-   Redhead, M. (1988). A philosopher looks at quantum field theory. [^Redhead1988]
 -   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
 -   Geometric quantization
 
@@ -931,10 +935,10 @@ Baez, Segal, & Zhou on wave-particle duality:
 #### Algebraic vs constructive QFT
 
 -   AQFT vs LQFT
--   *Local Quantum Physics* [^Haag1992]
--   Wallace [^Wallace2011]
--   Fraser [^Fraser2011]
--   Buchholz [^Buchholz1998]
+-   Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. [^Haag1992]
+-   Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum ﬁeld theory. [^Wallace2011]
+-   Fraser, D. (2011). How to take particle physics seriously: A further defence of axiomatic quantum ﬁeld theory. [^Fraser2011]
+-   Buchholz, D. (1998). [Current trends in axiomatic quantum field theory](https://arxiv.org/abs/hep-th/9811233). [^Buchholz1998]
 
 Kastler:
 
@@ -1186,6 +1190,12 @@ Interpretations of quantum mechanics
 
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
 
+Criticisms:
+
+-   Collapse is arbitrary; $U$ vs $R$ operators; universal quantum theory $\Rightarrow$ Everett.
+-   Complementarity is an arbitrary dualism.
+-   Not a real interpretation; Doesn't say what there is.
+
 [^Becker2018]: @Becker_2018_What_is_Real_The_unfinished_quest_for_the_meaning\.
 
 
@@ -1259,11 +1269,16 @@ Interpretations of quantum mechanics
 -   Stopp, F., Ortiz-Guti&eacute;rrez, L., Lehec, H., & Schmidt-Kaler, F. (2021). [Single ion thermal wave packet analyzed via time-of-flight detection](https://iopscience.iop.org/article/10.1088/1367-2630/abffc0). [^Stopp2021]
 -   Ananthaswamy, A. (2021). [This simple experiment could challenge standard quantum theory](https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/). [^Ananthaswamy2021]
 
+Virtues:
+
+-   Consistent histories of particles trajectories.
+
 Criticisms:
 
 -   Postulates a new theoretical apparatus, the guiding equation.
 -   Committed to particle onotology.
--   Focuses on NRQM; Not yet demonstrated any relativistic extensions.
+-   Focuses on NRQM; Not yet demonstrated any relativistic extensions; No working QFT.
+-   Ignores decoherence?
 
 [^Ananthaswamy2021]: @Ananthaswamy_2021_This_simple_experiment_could_challenge_standard\.
 [^Bell1987]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
@@ -1341,6 +1356,11 @@ Videos:
 -   Carroll, S. (2022). [The many worlds of quantum mechanics](https://www.youtube.com/watch?v=nOgalPdfHxM).
 -   Wallace, D. (2021). [The sky is blue, and other reasons physics needs the Everett interpretation](https://www.youtube.com/watch?v=tEwgNbfYn2E).
 
+Virtues:
+
+-   Minimal; No additions to quantum theory.
+-   Relativistic QFT works naturally.
+-   Decoherence does a lot of work at explaining the appearance of collapse into classical states.
 
 Criticisms:
 
@@ -1385,11 +1405,15 @@ See also:
 -   Wuthrich, C. (2014). [Putnam looks at quantum mechanics (again and again)](https://arxiv.org/abs/1406.5737). [^Wuthrich2014]
 -   Allori, V. (2022). [What is it like to be a relativistic GRW theory? Or: Quantum mechanics and relativity, still in conflict after all these years](https://doi.org/10.1007/s10701-022-00595-5). [^Allori2022]
 
+Virtues:
+
+-   Tries to explain collapse stochastically.
+
 Criticisms:
 
 -   Collapse is arbitrary; $U$ vs $R$ operators; universal quantum theory $\Rightarrow$ Everett.
 -   Ignores decoherence?
--   TODO: Look into how GRW can be relativistic.
+-   TODO: Look into how GRW can be relativistic. QFT?
 
 [^Allori2022]: @Allori_2022_What_is_it_like_to_be_a_relativistic_GRW_theory\.
 [^Bassi2005]: @Bassi_2005_Collapse_models_analysis_of_the_free_particle\.
@@ -1417,6 +1441,7 @@ Criticisms:
 
 -   Anti-Copernican; anthropomorphism
 -   PBR theorem
+-   Ignores decoherence?
 
 [^Caves2001]: @Caves_2001_Quantum_probabilities_as_Bayesian_probabilities\.
 [^Fuchs2002]: @Fuchs_2002_Quantum_mechanics_as_quantum_information_and_only\.
@@ -1453,7 +1478,7 @@ Videos:
 -   Transactional quantum mechanics
     -   Cramer, J.G. (1986). The transactional interpretation of quantum mechanics. [^Cramer1986]
     -   Maudlin, T. (1996). *Quantum Nonlocality and Relativity: Metaphysical Intimations of Modern Physics*. [^Maudlin1996]
--   Ivariant set theory
+-   Invariant set theory
     -   Palmer, T.N. (2009). [The invariant set postulate: A new geometric framework for the foundations of quantum theory and the role played by gravity](https://arxiv.org/abs/0812.1148). [^Palmer2009]
     -   Palmer, T.N. (2016). [Invariant set theory](https://arxiv.org/abs/1605.01051). [^Palmer2016]
 -   Cellular automaton
@@ -1517,15 +1542,15 @@ The standard model of particle physics
 
 ### History of particle physics
 
--   [Particle accelerator](https://en.wikipedia.org/wiki/Particle_accelerator)
 -   [Particle physics](https://en.wikipedia.org/wiki/Particle_physics)
+-   [Particle accelerator](https://en.wikipedia.org/wiki/Particle_accelerator)
 -   [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) (1871-1937)
 -   [Rolf Wider&oslash;e](https://en.wikipedia.org/wiki/Rolf_Wider%C3%B8e) (1902-1996)
 -   [Lawrence Berkeley National Laboratory](https://en.wikipedia.org/wiki/Lawrence_Berkeley_National_Laboratory) (est. 1931)
 -   [Ernest Lawrence](https://en.wikipedia.org/wiki/Ernest_Lawrence) (1901-1958)
 -   [Luis Walter Alvarez](https://en.wikipedia.org/wiki/Luis_Walter_Alvarez) (1911-1988)
 -   [Brookhaven National Laboratory](https://en.wikipedia.org/wiki/Brookhaven_National_Laboratory) (est. 1947)
--   [Murray Gell-Mann](https://en.wikipedia.org/wiki/Murray_Gell-Mann) (1929-219)
+-   [Murray Gell-Mann](https://en.wikipedia.org/wiki/Murray_Gell-Mann) (1929-2019)
     -    First *Review of Particle Physics* (1957)
     -   [*Review of Particle Physics*](https://pdg.lbl.gov/2021/reviews/contents_sports.html) [^PDG2021]
 -   [European Organization for Nuclear Research (CERN)](https://en.wikipedia.org/wiki/CERN) (est. 1954)
@@ -1651,6 +1676,7 @@ Beyond the standard model
     -   Neutrino masses and mixings
     -   PMNS matrix and CP-violation
     -   Are neutrinos Marojana or Dirac fermions?
+    -   [Seesaw mechanism](https://en.wikipedia.org/wiki/Seesaw_mechanism)
 -   Solar neutrino problem
     -   Homestake experiment (1964-1968)
         -   Raymond Davis Jr. (1914-2006) 
