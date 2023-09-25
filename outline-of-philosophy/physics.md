@@ -22,7 +22,6 @@ Theories of matter
 -   [Kanada](https://en.wikipedia.org/wiki/Kanada_(philosopher)) (c. 700-100 BCE)
 -   Empedocles (c. 494-434 BCE)
     -   theory of the four elements
--   ...
 -   [Leucippus](https://en.wikipedia.org/wiki/Leucippus) (fl. 5th century BCE)
 -   [Democritus](https://en.wikipedia.org/wiki/Democritus) (c. 460-370 BCE)
 -   [Epicurus](https://en.wikipedia.org/wiki/Epicurus) (341-270 BCE)
