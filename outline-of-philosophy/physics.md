@@ -354,7 +354,7 @@ Weyl:
 Ovrut's version of Wigner's theorem:
 
 >   The generators of the representation of a transformation in the Hilbert space
->   are the operators representing the classical Noether’s Charges that are
+>   are the operators representing the classical Noether’s charges that are
 >   conserved under that transformation. [^Reece2007p27]
 
 Discussion:
@@ -890,7 +890,7 @@ Baez, Segal, & Zhou on wave-particle duality:
     -   Haag, R. (1955). [On quantum field theories](http://cds.cern.ch/record/212242). [^Haag1955]
     -   The interaction picture does not exist in interacting relativistic QFT.
     -   States in the free theory are unitarily inequivalent to those in interacting relativistic QFT.
-    -   $O_\mathrm{interacting} \neq U \: O_\mathrm{free} \: U^{-1}$
+    -   $O_\mathrm{int} \neq U \: O_\mathrm{free} \: U^{-1}$
 -   Discussion:
     -   Malament, D.B. (1996). In defence of dogma: Why there cannot be a relativistic quantum mechanics of (localizable) particles. [^Malament1996]
     -   Teller, P. (1997). *An Interpretive Introduction to Quantum Field Theory*. [^Teller1997p115]
