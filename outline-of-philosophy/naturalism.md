@@ -470,12 +470,12 @@ See also:
 
 Examples of non-naturalized methaphysics:
 
--   Crawford Elder
+-   Crawford Elder (b. 1949)
 -   Joseph Jedwab
--   David Lewis
+-   David Lewis (1941-2001)
 -   Anna Marmodoro
 -   Trenton Merricks
--   Alvin Plantinga
+-   Alvin Plantinga (b. 1932)
 -   Michael C. Rea
 -   Richard Swinburne
 -   Peter van Inwagen

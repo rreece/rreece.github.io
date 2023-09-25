@@ -61,14 +61,14 @@ Discussion:
 -   [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) (1858-1947)
 -   [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) (1871-1937)
 -   [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion)
-    -   Einstein [^Einstein1905b]
+    -   Einstein, A. (1905). On the movement of particles suspended in resting liquids required by the molecular kinetic theory of heat. [^Einstein1905b]
     -   Perrin, J. (1913). *Les Atomes*. [^Perrin1913]
-    -   Patterson [^Patterson2007]
 
 Discussion:
 
 -   Russell, B. (1927). *The Analysis of Matter*. [^Russell1927]
 -   Weyl, H. (1927). *Philosophy of Mathematics and Natural Science*. [^Weyl1927]
+-   Patterson, G. (2007). Jean Perrin and the triumph of the atomic doctrine. [^Patterson2007]
 
 [^Einstein1905b]: @Einstein_1905_Uber_die_von_der_molekularkinetischen_theorie\.
 [^Patterson2007]: @Patterson_2007_Jean_Perrin_and_the_triumph_of_the_atomic\.
@@ -1219,6 +1219,13 @@ Criticisms:
 -   Not a real interpretation; Doesn't say what there is.
 
 [^Becker2018]: @Becker_2018_What_is_Real_The_unfinished_quest_for_the_meaning\.
+
+
+### von Neumann's no hidden variables "proof"
+
+-   von Neumann, J. (1932). *The Mathematical Foundations of Quantum Mechanics*.
+-   Hermann, G. (1933). Determinism and quantum mechanics.
+-   Hermann, G. (1935). *The Natural-Philosophical Foundations of Quantum Mechanics*.
 
 
 ### EPR paradox
