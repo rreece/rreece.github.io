@@ -1308,6 +1308,7 @@ Criticisms:
 -   Committed to particle onotology.
 -   Focuses on NRQM; Not yet demonstrated any relativistic extensions; No working QFT.
 -   Ignores decoherence?
+-   Ignores renormalization and EFT?
 -   Caulton, A. (2018). [A persistent particle ontology for quantum field theory](https://link.springer.com/article/10.1007/s11016-018-0323-1). [^Caulton2018]
 
 [^Ananthaswamy2021]: @Ananthaswamy_2021_This_simple_experiment_could_challenge_standard\.
@@ -1913,7 +1914,7 @@ Gravity and cosmology
 
 -   Poincar&eacute;
 -   Einstein
--   [Hulse–Taylor binary pulsar](https://en.wikipedia.org/wiki/Hulse%E2%80%93Taylor_binary)
+-   [Hulse-Taylor binary pulsar](https://en.wikipedia.org/wiki/Hulse%E2%80%93Taylor_binary)
 -   LIGO
 -   [Multi-messenger astronomy](https://en.wikipedia.org/wiki/Multi-messenger_astronomy)
 -   NANOGrav
