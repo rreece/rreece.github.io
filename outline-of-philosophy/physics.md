@@ -31,6 +31,7 @@ Theories of matter
 
 Discussion:
 
+-   Weyl, H. (1927). *Philosophy of Mathematics and Natural Science*. [^Weyl1927]
 -   Weinberg
 -   Nail
     -   Nail claims that Lecretius was _not_ an atomist,
@@ -40,6 +41,7 @@ Discussion:
 
 [^Lucretius1995pX]: @Lucretius_1995_On_the_Nature_of_Things_De_Rerum_Natura\, p. TODO.
 [^Nail2018]: @Nail_2018_Lucretius_I_An_Ontology_of_Motion\.
+[^Weyl1927]: HERE
 
 
 ### Modern atomism
@@ -47,13 +49,20 @@ Discussion:
 -   [Corpuscularianism](https://en.wikipedia.org/wiki/Corpuscularianism)
 -   [Isaac Beeckman](https://en.wikipedia.org/wiki/Isaac_Beeckman) (1588-1637)
 -   [Ren&eacute; Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) (1596-1650)
--   Boyle, Newton, Locke, Dalton
--   Yock, P. (2018). [Newton's hypotheses on the structure of matter](https://arxiv.org/abs/1807.05486). [^Yock2018]
--   ...
--   Boltzmann
+-   [Robert Boyle](https://en.wikipedia.org/wiki/Robert_Boyle) (1627-1691)
+-   [John Locke](https://en.wikipedia.org/wiki/John_Locke) (1632-1704)
+-   [Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton) (1642-1727)
+    -   Yock, P. (2018). [Newton's hypotheses on the structure of matter](https://arxiv.org/abs/1807.05486). [^Yock2018]
+-   Henry Cavendish (1731-1810)
+-   Antoine Lavoisier (1743-1794)
+-   John Dalton (1766-1844)
+    -   [Law of multiple proportions](https://en.wikipedia.org/wiki/Law_of_multiple_proportions) (1803)
+-   [Ludwig Boltzmann](http://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906)
 -   [Johannes Diderik van der Waals](https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals) (1837-1923)
 -   Modern [Atomism](https://en.wikipedia.org/wiki/Atomism)
--   Planck, J.J. Thomson, Rutherford
+-   [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) (1856-1940)
+-   [Max Planck](https://en.wikipedia.org/wiki/Max_Planck) (1858-1947)
+-   [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) (1871-1937)
 -   [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion)
     -   Einstein [^Einstein1905b]
     -   Perrin, J. (1913). *Les Atomes*. [^Perrin1913]
@@ -333,10 +342,21 @@ Weyl:
 ### Wigner-Stone theorems
 
 -   [Stone's theorem on one-parameter unitary groups](https://en.wikipedia.org/wiki/Stone%27s_theorem_on_one-parameter_unitary_groups) (1930, 1932)
+    -   For any strongly continuous one-parameter unitary group, $U(t)$, $\exists \: A = A^\dagger \: | \: U(t) = e^{i\,t\,A} \ \forall t \in \mathbb{R}$.
 -   [Stone--von Neumann theorem](https://en.wikipedia.org/wiki/Stone%E2%80%93von_Neumann_theorem) (1931, 1932)
+    -   Establishes the uniqueness of the canonical commutation relations between position and momentum operators.
 -   [Wigner's theorem](https://en.wikipedia.org/wiki/Wigner%27s_theorem) (1931)
--   Wigner-Stone theorems as cornerstones of QM (Ovrut) [^Reece2007pX1]
--   Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. [^Wigner1959]
+    -   Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. [^Wigner1959]
+    -   The theorem specifies how physical symmetries such as rotations, translations, and CPT are represented on the Hilbert space of states.
+
+Ovrut's version of Wigner's theorem:
+
+>   The generators of the representation of a transformation in the Hilbert space
+>   are the operators representing the classical Noether’s Charges that are
+>   conserved under that transformation. [^Reece2007p27]
+
+Discussion:
+
 -   Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. [^Schweber1961]
 -   Simon, B. (1976). Quantum dynamics: From automorphism to Hamiltonian. [^Simon1976]
 -   Summers, S.J. (1999). On the Stone-von Neumann uniqueness theorem and its ramifications. [^Summers1999]
@@ -350,7 +370,7 @@ See also:
 -   [Quantum field theory](#quantum-field-theory)
 
 [^Keller2007]: @Keller_2007_On_the_realization_of_symmetries_in_quantum\.
-[^Reece2007pX1]: @Reece_2007_Quantum_field_theory_An_introduction\, p. X.
+[^Reece2007p27]: @Reece_2007_Quantum_field_theory_An_introduction\, p. 27.
 [^Schroeren2021]: @Schroeren_2021_Symmetry_fundamentalism_in_quantum_mechanics\.
 [^Schweber1961]: @Schweber_1961_An_Introduction_to_Relativistic_Quantum_Field\, p. TODO.
 [^Simon1976]: @Simon_1976_Quantum_dynamics_From_automorphism_to_Hamiltonian\.
@@ -849,11 +869,9 @@ Baez, Segal, & Zhou on wave-particle duality:
 -   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
 -   Lazarovici, D. (2018). [Against fields](https://arxiv.org/abs/1809.00855). [^Lazarovici2018]
 -   Baker, D.J. (2009). [Against field interpretations of quantum field theory](http://philsci-archive.pitt.edu/4350/). [^Baker2009]
--   Caulton, A. (2018). [A persistent particle ontology for quantum field theory](https://link.springer.com/article/10.1007/s11016-018-0323-1). [^Caulton2018]
 
 [^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
 [^Baker2009]: @Baker_2009_Against_field_interpretations_of_quantum_field\.
-[^Caulton2018]: @Caulton_2018_A_persistent_particle_ontology_for_quantum_field\.
 [^Duncan2012p163]: @Duncan_2012_Conceptual_Framework_of_Quantum_Field_Theory\, p. 163--4.
 [^Einstein1905a]: @Einstein_1905_Uber_einen_die_erzeugung_und_verwandlung_des\.
 [^Fraser2008]: @Fraser_2008_The_fate_of_particles_in_quantum_field_theories\.
@@ -878,7 +896,7 @@ Baez, Segal, & Zhou on wave-particle duality:
     -   Klaczynski, L. (2016). [Haag's theorem in renormalised quantum field theories](https://arxiv.org/abs/1602.00662). [^Klaczynski2016]
     -   Ruetsche, L. (2002). Interpreting quantum field theory. [^Ruetsche2002]
 -   Resolution:
-    -   Bain, J. (2000). Against particle/field duality: Asymptotic particle states and interpolating fields in interacting QFT, or Who's afraid of Haag's theorem? [^Bain2000]
+    -   Bain, J. (2000). [Against particle/field duality: Asymptotic particle states and interpolating fields in interacting QFT, or Who's afraid of Haag's theorem?](https://link.springer.com/content/pdf/10.1023/A:1026482100470.pdf) [^Bain2000]
         -   FAPP-localized particles
     -   Duncan, A. (2012). *Conceptual Framework of Quantum Field Theory*. [^Duncan2012p359]
     -   Wallace
@@ -925,8 +943,10 @@ Baez, Segal, & Zhou on wave-particle duality:
 -   No "2nd quantization"
 -   Redhead, M. (1982). Quantum field theory for philosophers. [^Redhead1982]
 -   Redhead, M. (1988). A philosopher looks at quantum field theory. [^Redhead1988]
--   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
 -   Geometric quantization
+    -   Weyl
+    -   Dirac quantization and magnetic monopoles
+-   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
 
 [^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
@@ -1279,11 +1299,13 @@ Criticisms:
 -   Committed to particle onotology.
 -   Focuses on NRQM; Not yet demonstrated any relativistic extensions; No working QFT.
 -   Ignores decoherence?
+-   Caulton, A. (2018). [A persistent particle ontology for quantum field theory](https://link.springer.com/article/10.1007/s11016-018-0323-1). [^Caulton2018]
 
 [^Ananthaswamy2021]: @Ananthaswamy_2021_This_simple_experiment_could_challenge_standard\.
 [^Bell1987]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
 [^Bohm1952]: @Bohm_1952_A_suggested_interpretation_of_the_quantum_theory\.
 [^Bohm1953]: @Bohm_1953_Proof_that_probability_density_approaches\.
+[^Caulton2018]: @Caulton_2018_A_persistent_particle_ontology_for_quantum_field\.
 [^Das2019]: @Das_2019_Arrival_time_distributions_of_spin_12_particles\.
 [^Durr1995]: @Durr_1995_Bohmian_mechanics_as_the_foundation_of_quantum\.
 [^Durr2004]: @Durr_2004_Bohmian_mechanics_and_quantum_field_theory\.
