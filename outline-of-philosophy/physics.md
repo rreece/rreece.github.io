@@ -1300,7 +1300,7 @@ Criticisms:
 
 Virtues:
 
--   Consistent histories of particles trajectories.
+-   Consistent histories of particle trajectories.
 
 Criticisms:
 
