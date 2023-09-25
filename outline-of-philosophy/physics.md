@@ -31,7 +31,6 @@ Theories of matter
 
 Discussion:
 
--   Weyl, H. (1927). *Philosophy of Mathematics and Natural Science*. [^Weyl1927]
 -   Weinberg
 -   Nail
     -   Nail claims that Lecretius was _not_ an atomist,
@@ -41,7 +40,6 @@ Discussion:
 
 [^Lucretius1995pX]: @Lucretius_1995_On_the_Nature_of_Things_De_Rerum_Natura\, p. TODO.
 [^Nail2018]: @Nail_2018_Lucretius_I_An_Ontology_of_Motion\.
-[^Weyl1927]: HERE
 
 
 ### Modern atomism
@@ -67,12 +65,17 @@ Discussion:
     -   Einstein [^Einstein1905b]
     -   Perrin, J. (1913). *Les Atomes*. [^Perrin1913]
     -   Patterson [^Patterson2007]
--   Russell [^Russell1992]
+
+Discussion:
+
+-   Russell, B. (1927). *The Analysis of Matter*. [^Russell1927]
+-   Weyl, H. (1927). *Philosophy of Mathematics and Natural Science*. [^Weyl1927]
 
 [^Einstein1905b]: @Einstein_1905_Uber_die_von_der_molekularkinetischen_theorie\.
 [^Patterson2007]: @Patterson_2007_Jean_Perrin_and_the_triumph_of_the_atomic\.
 [^Perrin1913]: @Perrin_1913_Les_Atomes\.
-[^Russell1992]: @Russell_1992_The_Analysis_of_Matter\.
+[^Russell1927]: @Russell_1992_The_Analysis_of_Matter\.
+[^Weyl1927]: @Weyl_2009_Philosophy_of_Mathematics_and_Natural_Science\.
 [^Yock2018]: @Yock_2018_Newtons_hypotheses_on_the_structure_of_matter\.
 
 
@@ -96,8 +99,8 @@ Classical physics
 History:
 
 -   [Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton) (1642-1727)
--   [Edmond Halley](http://en.wikipedia.org/wiki/Edmond_Halley) (1656-1742)
 -   [Gottfried Wilhelm Leibniz](http://en.wikipedia.org/wiki/Gottfried_Leibniz) (1646-1716)
+-   [Edmond Halley](http://en.wikipedia.org/wiki/Edmond_Halley) (1656-1742)
 -   [Leonhard Euler](http://en.wikipedia.org/wiki/Euler) (1707-1783)
 -   [Joseph-Louis Lagrange](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) (1736-1813)
 -   [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) (1749-1827)
