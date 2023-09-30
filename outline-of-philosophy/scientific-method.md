@@ -57,7 +57,7 @@ See also:
     -   "first philosopher"
     -   predicted a solar eclipse in 585 BCE
 -   [Anaximander](https://en.wikipedia.org/wiki/Anaximander) (c. 610-546 BCE)
-    -   Carlo Rovelli argues that Anaximander is the first real scientist.
+    -   Carlo Rovelli argues that Anaximander is the first scientist. [^Rovelli2007]
     -   speculated that humans evolved from fish?
     -   first to make a map?
 -   [Anaximenes](https://en.wikipedia.org/wiki/Anaximenes_of_Miletus) (c. 586-526 BCE)
@@ -175,6 +175,7 @@ Weinberg:
 
 [^Davis2015]: @Davis_2015_To_Explain_the_World_review\.
 [^Prado2006-2]: @Prado_2006_Ionian_enchantment_A_brief_history_of_scientific\.
+[^Rovelli2007]: @Rovelli_2007_Anaximander\.
 [^Russell1945p66]: @Russell_2003_History_of_Western_Philosophy, p. 66--67.
 [^Weinberg2015p7]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 7.
 [^Weinberg2015p11]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 11.
@@ -352,7 +353,7 @@ See also:
 -   [Jerzy Neyman](https://en.wikipedia.org/wiki/Jerzy_Neyman) (1894-1981)
 -   [Egon Pearson](https://en.wikipedia.org/wiki/Egon_Pearson) (1895-1980)
 -   [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) (1915-2000)
--   [C.R. Rao](https://en.wikipedia.org/wiki/C._R._Rao) (b. 1920)
+-   [C.R. Rao](https://en.wikipedia.org/wiki/C._R._Rao) (1920-2023)
 
 
 ### Computer science
