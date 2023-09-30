@@ -42,6 +42,7 @@ Click to show the paltry outline of the history of science
 -   [Mozi](http://en.wikipedia.org/wiki/Mozi) (470-391 BCE)
     -   skepticism, anti-dogmatism
 -   [Zou Yan](https://en.wikipedia.org/wiki/Zou_Yan) (305-240 BCE)
+-   [Su Song](https://en.wikipedia.org/wiki/Su_Song) (1020-1101)
 -   [The Needham Question](https://en.wikipedia.org/wiki/Science_and_Civilisation_in_China#The_Needham_Question)
 
 See also:
@@ -108,13 +109,18 @@ See also:
     -    logico-deductive method founded by Euclid's *Elements*
 -   [Aristarchus of Samos](http://en.wikipedia.org/wiki/Aristarchus_of_Samos) (310-230 BCE)
 -   [Archimedes](https://en.wikipedia.org/wiki/Archimedes) (c. 287-212 BCE)
+    -   *The Method*
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
 -   [Eratosthenes](http://en.wikipedia.org/wiki/Eratosthenes) (276-195/194 BCE)
     -   Estimated the circumference of the Earth to be 50 times the distance between Alexandria and Syene,
         which was pretty acurate as it is actually 47.9 times! [^Weinberg2015p76]
+-   [Library of Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria)
+-   [Library of Pergamum](https://en.wikipedia.org/wiki/Library_of_Pergamum)
+-   [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) (c. 190-120 BCE)
 -   [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism) (between c. 200 and 100 BCE)
 -   [Lucretius](http://en.wikipedia.org/wiki/Lucretius) (99-55 BCE)
 -   [Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) (c. 100-170 CE)
+    -   *Almagest*
 
 Russell:
 
