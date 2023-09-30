@@ -57,6 +57,7 @@ See also:
     -   "first philosopher"
     -   predicted a solar eclipse in 585 BCE
 -   [Anaximander](https://en.wikipedia.org/wiki/Anaximander) (c. 610-546 BCE)
+    -   Carlo Rovelli argues that Anaximander is the first real scientist.
     -   speculated that humans evolved from fish?
     -   first to make a map?
 -   [Anaximenes](https://en.wikipedia.org/wiki/Anaximenes_of_Miletus) (c. 586-526 BCE)

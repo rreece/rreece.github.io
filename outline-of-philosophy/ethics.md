@@ -661,6 +661,7 @@ Free speech
 -   John Milton. (1644). [*Areopagitica*](https://en.wikipedia.org/wiki/Areopagitica).
 -   [First Amendment to the United States Constitution](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution) (1791)
 -   Orwell, G. (1946). [Why I write](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/).
+-   Orwell, G. (1946). [Politics and the English language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/).
 -   [Oliver Wendell Holmes Jr.](https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes_Jr.) (1841-1935)
 -   Christopher Hitchens. (2006). [Talk on free speech](https://www.youtube.com/watch?v=olefVguutfo) at University of Toronto's Hart House Debating Club.
     -   "Don't take refuge in the false security of concensus."

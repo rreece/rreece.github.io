@@ -170,6 +170,8 @@ TODO
 -   Non-commutative
     -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985a]
 
+$$ a \times b = \star(a \wedge b) $$
+
 See also:
 
 -   [Fiber bundles](physics.html#fiber-bundles)

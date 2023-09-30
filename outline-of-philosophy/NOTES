@@ -1,4 +1,23 @@
 
+### Products
+
+Cartesian/direct product, direct sum:
+
+$$ A \cross B = \{ (a,b) | a \in A and b \in B \} $$
+
+for sets has cardinality
+
+$$ |A \cross B| = |A| \cdot |B| $$
+
+for vector spaces has dimensionality
+
+$$ \mathrm{dim}(A \cross B) = \mathrm{dim}(A) + \mathrm{dim}(B) $$
+
+Tensor product:
+
+External product:
+
+--------------------------------------------------------------------------------
 
 TODO:
 

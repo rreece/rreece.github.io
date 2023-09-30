@@ -344,7 +344,7 @@ Weyl:
 ### Wigner-Stone theorems
 
 -   [Stone's theorem on one-parameter unitary groups](https://en.wikipedia.org/wiki/Stone%27s_theorem_on_one-parameter_unitary_groups) (1930, 1932)
-    -   For any strongly continuous one-parameter unitary group, $U(t)$, $\exists \: A = A^\dagger \: | \: U(t) = e^{i\,t\,A} \ \forall t \in \mathbb{R}$.
+    -   For any strongly continuous one-parameter unitary group, $U(t)$, $\exists \: A = A^\dagger \: | \: U(t) = e^{i\,t\,A} \ \forall \: t \in \mathbb{R}$.
 -   [Stone--von Neumann theorem](https://en.wikipedia.org/wiki/Stone%E2%80%93von_Neumann_theorem) (1931, 1932)
     -   Establishes the uniqueness of the canonical commutation relations between position and momentum operators.
 -   [Wigner's theorem](https://en.wikipedia.org/wiki/Wigner%27s_theorem) (1931)
@@ -530,9 +530,11 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 
 ### Decoherence
 
--   Zurek, W.H. (2003). [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127). [^Zurek2003]
+-   Joos, E. & Zeh, H. D. (1985). [The emergence of classical properties through interaction with the environment](http://www.decoherence.de/J+Z.pdf). [^Joos1985]
+-   Zurek, W.H. (1991). [Decoherence and the transition from quantum to classical](https://www.unicamp.br/~chibeni/textosdidaticos/zurek-1991.pdf). [^Zurek1991]
+-   Zurek, W.H. (2001). [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127). [^Zurek2001]
+-   Zurek, W.H. (2003). [Decoherence and the transition from quantum to classical--Revisited](https://arxiv.org/abs/quant-ph/0306072). [^Zurek2003]
 -   *Decoherence and the Appearance of a Classical World in Quantum Theory* [^Joos2003]
--   Tegmark, M. (1993). [Apparent wave function collapse caused by scattering](https://arxiv.org/abs/gr-qc/9310032). [^Tegmark1993]
 -   Schlosshauer, M. (2005). [Decoherence, the measurement problem, and interpretations of quantum mechanics](https://arxiv.org/abs/quant-ph/0312059). [^Schlosshauer2005]
 -   My quora answer: [What is currently the best explanation for how and why the quantum wave function collapses?](https://www.quora.com/What-is-currently-the-best-explanation-for-how-and-why-the-quantum-wave-function-collapses/answer/Ryan-Reece)
 -   Decoherence and Everett's interpretation
@@ -545,11 +547,14 @@ See also:
 -   [Everettian interpretation](#everettian-interpretation)
 
 [^Drossel2015]: @Drossel_2015_On_the_relation_between_the_second_law\, p. 51--2.
+[^Joos1985]: @Joos_1985_The_emergence_of_classical_properties_through\.
 [^Joos2003]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\.
 [^Schlosshauer2005]: @Schlosshauer_2005_Decoherence_the_measurement_problem\.
 [^Tegmark1993]: @Tegmark_1993_Apparent_wave_function_collapse_caused\.
 [^Wallace2018]: @Wallace_2018_Decoherence_and_its_role_in_the_modern_measurement\.
-[^Zurek2003]: @Zurek_2003_Decoherence_einselection_and_the_quantum_origins\.
+[^Zurek1991]: @Zurek_1991_Decoherence_and_the_transition_from_quantum\.
+[^Zurek2001]: @Zurek_2001_Decoherence_einselection_and_the_quantum_origins\.
+[^Zurek2003]: @Zurek_2003_Decoherence_and_the_transition_from_quantum\.
 [^Zurek2022]: @Zurek_2022_Quantum_theory_of_the_classical_Einselection\.
 
 
@@ -958,9 +963,9 @@ Baez, Segal, & Zhou on wave-particle duality:
 
 -   AQFT vs LQFT
 -   Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. [^Haag1992]
+-   Buchholz, D. (1998). [Current trends in axiomatic quantum field theory](https://arxiv.org/abs/hep-th/9811233). [^Buchholz1998]
 -   Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum ﬁeld theory. [^Wallace2011]
 -   Fraser, D. (2011). How to take particle physics seriously: A further defence of axiomatic quantum ﬁeld theory. [^Fraser2011]
--   Buchholz, D. (1998). [Current trends in axiomatic quantum field theory](https://arxiv.org/abs/hep-th/9811233). [^Buchholz1998]
 
 Kastler:
 
@@ -1149,7 +1154,7 @@ Urs Schreiber:
 -   Pedagogy
     -   Martin, S.P. (2016). [A supersymmetry primer](https://arxiv.org/abs/hep-ph/9709356). [^Martin2016]
     -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
-    -   Tong, D. (2022). [Lectures on Supersymmetric Field Theory](https://www.damtp.cam.ac.uk/user/tong/susy.html). [^Tong2022]
+    -   Tong, D. (2022). [Lectures on supersymmetric field theory](https://www.damtp.cam.ac.uk/user/tong/susy.html). [^Tong2022]
 
 See also:
 
@@ -1290,6 +1295,7 @@ Criticisms:
 -   Sch&ouml;nberg, M. (1954). On the hydrodynamical model of the quantum mechanics. [^Schonberg1954]
 -   Bell, J.S. (1987). *Speakable and Unspeakable in Quantum Mechanics*. [^Bell1987]
 -   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (1995). [Bohmian mechanics as the foundation of quantum mechanics](https://arxiv.org/abs/quant-ph/9511016) [^Durr1995]
+-   Allori, V., D&uuml;rr, D., Goldstein, & Zangh&igrave;, N. (2002). [Seven steps towards the classical world](https://arxiv.org/abs/quant-ph/0112005). [^Allori2002]
 -   D&uuml;rr, D., Goldstein, S., Tumulka, R., & Zangh&igrave;, N. (2004). [Bohmian mechanics and quantum field theory](https://arxiv.org/abs/quant-ph/0303156). [^Durr2004]
 -   D&uuml;rr, D., Goldstein, S., Tumulka, R., & Zangh&igrave;, N. (2005). [Bell-type quantum field theories](https://arxiv.org/abs/quant-ph/0407116). [^Durr2005]
 -   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (2013). *Quantum Physics Without Quantum Philosophy*. Springer. [^Durr2013]
@@ -1300,6 +1306,7 @@ Criticisms:
 
 Virtues:
 
+-   No collapse; universal unitary Schr&ouml;ding evolution
 -   Consistent histories of particle trajectories.
 
 Criticisms:
@@ -1311,6 +1318,7 @@ Criticisms:
 -   Ignores renormalization and EFT?
 -   Caulton, A. (2018). [A persistent particle ontology for quantum field theory](https://link.springer.com/article/10.1007/s11016-018-0323-1). [^Caulton2018]
 
+[^Allori2002]: @Allori_2002_Seven_steps_towards_the_classical_world\.
 [^Ananthaswamy2021]: @Ananthaswamy_2021_This_simple_experiment_could_challenge_standard\.
 [^Bell1987]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
 [^Bohm1952]: @Bohm_1952_A_suggested_interpretation_of_the_quantum_theory\.
@@ -1391,6 +1399,7 @@ Videos:
 Virtues:
 
 -   Minimal; No additions to quantum theory.
+-   No collapse; universal unitary Schr&ouml;ding evolution
 -   Relativistic QFT works naturally.
 -   Decoherence does a lot of work at explaining the appearance of collapse into classical states.
 
@@ -1443,9 +1452,10 @@ Virtues:
 
 Criticisms:
 
--   Collapse is arbitrary; $U$ vs $R$ operators; universal quantum theory $\Rightarrow$ Everett.
+-   Collapse is arbitrary; $U$ vs $R$ operators
 -   Ignores decoherence?
 -   TODO: Look into how GRW can be relativistic. QFT?
+-   Tegmark, M. (1993). [Apparent wave function collapse caused by scattering](https://arxiv.org/abs/gr-qc/9310032). [^Tegmark1993]
 
 [^Allori2022]: @Allori_2022_What_is_it_like_to_be_a_relativistic_GRW_theory\.
 [^Bassi2005]: @Bassi_2005_Collapse_models_analysis_of_the_free_particle\.

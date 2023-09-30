@@ -292,6 +292,7 @@ Ronen, M., Finder, S.E., & Freifeld, O. (2022). DeepDPM: Deep clustering with an
 Roughgarden, T. (2016). *Twenty Lectures on Algorithmic Game Theory*. Cambridge University Press.
 Royall, R. (1997). *Statistical Evidence: A likelihood paradigm*. CRC Press.
 Rozeboom, W.W. (1960). The fallacy of the null-hypothesis significance test. *Psychological Bulletin*, 57, 416.
+Rubin, D. B. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies. *Journal of educational Psychology*, 66, 688. https://psycnet.apa.org/fulltext/1975-06502-001.pdf
 Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533--536.
 Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.
 Salmon, W.C. (1966). *The Foundations of Scientific Inference*. University of Pittsburgh Press.

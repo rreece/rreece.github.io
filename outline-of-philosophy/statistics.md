@@ -931,8 +931,9 @@ Causal inference
 
 ### Introduction
 
--   Pearl, J. (2018). *The Book of Why: The new science of cause and effect*. [^Pearl2018]
+-   Rubin, D. B. (1974). [Estimating causal effects of treatments in randomized and nonrandomized studies](https://psycnet.apa.org/fulltext/1975-06502-001.pdf). [^Rubin1974]
 -   Lewis, D. (1981). [Causal decision theory](https://www.andrewmbailey.com/dkl/Causal_Decision_Theory.pdf). [^Lewis1981]
+-   Pearl, J. (2018). *The Book of Why: The new science of cause and effect*. [^Pearl2018]
 
 See also:
 
@@ -941,6 +942,7 @@ See also:
 
 [^Lewis1981]: @Lewis_1981_Causal_decision_theory\.
 [^Pearl2018]: @Pearl_2018_The_Book_of_Why_The_new_science_of_cause\.
+[^Rubin1974]: @Rubin_1974_Estimating_causal_effects_of_treatments\.
 
 
 ### Causal models
