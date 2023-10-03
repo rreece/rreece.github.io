@@ -390,6 +390,7 @@ Quantum mechanics
 -   Philosophy of QM traditionally focus on NRQM. [^Ney2013]
 -   The measurement problem.  Decoherence.  The Born rule again.
 -   Uncertainty principle
+    -   Relationship to the Gabor limit
 -   Decoherence brings quantum logic to classical logic?
 
 Feynman and Hibbs on wave-principle duality:
@@ -515,6 +516,9 @@ $$ i \hbar \: \partial_{t} \: |\psi\rangle = \hat{H} \: |\psi\rangle $$
 $$ i \hbar \: \partial_{t} \: \hat{U}(t) \: |\psi\rangle = \hat{H} \: \hat{U}(t) \: |\psi\rangle $$
 
 Schr&ouml;dinger vs Heisenberg pictures is like Heraclitus vs Parmenides.
+
+-    Heisenberg uncertainty principle
+    -   Derivable from the Gabor limit in time-frequency analysis
 
 -   Decoherence
 
@@ -1293,16 +1297,34 @@ Criticisms:
 -   Bohm, D. (1952). A suggested interpretation of the quantum theory in terms of 'hidden' variables, I and II. [^Bohm1952]
 -   Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. [^Bohm1953]
 -   Sch&ouml;nberg, M. (1954). On the hydrodynamical model of the quantum mechanics. [^Schonberg1954]
+
+Discussion:
+
 -   Bell, J.S. (1987). *Speakable and Unspeakable in Quantum Mechanics*. [^Bell1987]
 -   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (1995). [Bohmian mechanics as the foundation of quantum mechanics](https://arxiv.org/abs/quant-ph/9511016) [^Durr1995]
 -   Allori, V., D&uuml;rr, D., Goldstein, & Zangh&igrave;, N. (2002). [Seven steps towards the classical world](https://arxiv.org/abs/quant-ph/0112005). [^Allori2002]
--   D&uuml;rr, D., Goldstein, S., Tumulka, R., & Zangh&igrave;, N. (2004). [Bohmian mechanics and quantum field theory](https://arxiv.org/abs/quant-ph/0303156). [^Durr2004]
--   D&uuml;rr, D., Goldstein, S., Tumulka, R., & Zangh&igrave;, N. (2005). [Bell-type quantum field theories](https://arxiv.org/abs/quant-ph/0407116). [^Durr2005]
 -   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (2013). *Quantum Physics Without Quantum Philosophy*. Springer. [^Durr2013]
 -   Tumulka, R. (2017). [Bohmian_mechanics](https://arxiv.org/abs/1704.08017). [^Tumulka2017]
+
+Attempts at QFT:
+
+-   Bell, J.S. (1984). [Beables for quantum field theory](https://cds.cern.ch/record/190753/files/198411046.pdf). [^Bell1984]
+-   D&uuml;rr, D., Goldstein, S., Tumulka, R., & Zangh&igrave;, N. (2004). [Bohmian mechanics and quantum field theory](https://arxiv.org/abs/quant-ph/0303156). [^Durr2004]
+-   D&uuml;rr, D., Goldstein, S., Tumulka, R., & Zangh&igrave;, N. (2005). [Bell-type quantum field theories](https://arxiv.org/abs/quant-ph/0407116). [^Durr2005]
+-   D&uuml;rr, D., Goldstein, S., Norsen, T., Struyve, W., & Zangh&igrave, N. (2014). [Can Bohmian mechanics be made relativistic?](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2013.0699). [^Durr2014]
+-   Nikoli&cacute; H. (2022). [Relativistic QFT from a Bohmian perspective: A proof of concept](https://doi.org/10.1007/s10701-022-00600-x). [^Nikolic2022]
+
+Attempts at empirical proposals:
+
 -   Das, S. & D&uuml;rr, D. (2019). [Arrival time distributions of spin-1/2 particles](https://www.nature.com/articles/s41598-018-38261-4). [^Das2019]
 -   Stopp, F., Ortiz-Guti&eacute;rrez, L., Lehec, H., & Schmidt-Kaler, F. (2021). [Single ion thermal wave packet analyzed via time-of-flight detection](https://iopscience.iop.org/article/10.1088/1367-2630/abffc0). [^Stopp2021]
 -   Ananthaswamy, A. (2021). [This simple experiment could challenge standard quantum theory](https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/). [^Ananthaswamy2021]
+
+Primitive ontology:
+
+-   Esfeld, M., Lazarovici, D., Lam, V., & Hubert, M. (2017). [The physics and metaphysics of primitive stuff](https://www.jstor.org/stable/44505729). [^Esfeld2017]
+-   Reichert, P. & Lazarovici, D. (2022). [The point of primitive ontology](http://philsci-archive.pitt.edu/21425/1/The_point_of_primitive_ontology.pdf). [^Reichert2022]
+-   TODO: Is primitive ontology really only used by Bohmians?
 
 Virtues:
 
@@ -1314,12 +1336,16 @@ Criticisms:
 -   Postulates a new theoretical apparatus, the guiding equation.
 -   Committed to particle onotology.
 -   Focuses on NRQM; Not yet demonstrated any relativistic extensions; No working QFT.
--   Ignores decoherence?
+-   Nonlocality baked right into the guiding equation.
+-   TODO: Ignores decoherence? Or if it doesn't how naturally is it used?
 -   Ignores renormalization and EFT?
+-   TODO: Criticisms of primitive ontology as being apriori metaphysics.
 -   Caulton, A. (2018). [A persistent particle ontology for quantum field theory](https://link.springer.com/article/10.1007/s11016-018-0323-1). [^Caulton2018]
+-   Deutsch: "Bohmian mechanics is Everett's many worlds in denial."
 
 [^Allori2002]: @Allori_2002_Seven_steps_towards_the_classical_world\.
 [^Ananthaswamy2021]: @Ananthaswamy_2021_This_simple_experiment_could_challenge_standard\.
+[^Bell1984]: @Bell_1984_Beables_for_quantum_field_theory\.
 [^Bell1987]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
 [^Bohm1952]: @Bohm_1952_A_suggested_interpretation_of_the_quantum_theory\.
 [^Bohm1953]: @Bohm_1953_Proof_that_probability_density_approaches\.
@@ -1329,6 +1355,10 @@ Criticisms:
 [^Durr2004]: @Durr_2004_Bohmian_mechanics_and_quantum_field_theory\.
 [^Durr2005]: @Durr_2005_Bell_type_quantum_field_theories\.
 [^Durr2013]: @Durr_2013_Quantum_Physics_Without_Quantum_Philosophy\.
+[^Durr2014]: @Durr_2014_Can_Bohmian_mechanics_be_made_relativistic\.
+[^Esfeld2017]: @Esfeld_2017_The_physics_and_metaphysics_of_primitive_stuff\.
+[^Nikolic2022]: @Nikolic_2022_Relativistic_QFT_from_a_Bohmian_perspective\.
+[^Reichert2022]: @Reichert_2022_The_point_of_primitive_ontology\.
 [^Schonberg1954]: @Schonberg_1954_On_the_hydrodynamical_model_of_the_quantum\.
 [^Stopp2021]: @Stopp_2021_Single_ion_thermal_wave_packet_analyzed_via_time\.
 [^Tumulka2017]: @Tumulka_2017_Bohmian_mechanics\.
@@ -1387,6 +1417,7 @@ Criticisms:
 
 -   Carroll, S.M. & Singh, A. (2019). [Mad-Dog Everettianism: Quantum mechanics at its most minimal](https://arxiv.org/abs/1801.08132).  [^Carroll2019-2]
 -   Carroll, S.M. (2019). *Something Deeply Hidden*.[^Carroll2019]
+-   Saunders, S. (2021). [Branch-counting in the Everett interpretation of quantum mechanics](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0600). [^Saunders2021]
 -   Wilhelm, I. (2022). [Centering the Everett interpretation](https://philpapers.org/rec/WILCTE-4). [^Wilhelm2022]
 -   Wallace, D. (2022). [The sky is blue, and other reasons quantum mechanics is not underdetermined by evidence](https://arxiv.org/abs/2205.00568). [^Wallace2022]
 
@@ -1402,11 +1433,15 @@ Virtues:
 -   No collapse; universal unitary Schr&ouml;ding evolution
 -   Relativistic QFT works naturally.
 -   Decoherence does a lot of work at explaining the appearance of collapse into classical states.
+-   Classical concepts are derived; not dual; no complementarity.
+-   Applies QM to the system + aparatus + observer.
+-   First interpretation to allow for quantum cosmology, the quantum mechanics of the universe as a closed system.
 
 Criticisms:
 
--   It seems to clash with the manifest image.
+-   It seems to clash with the manifest image and the human condition.
 -   There are too many worlds.
+-   Boughn, S. (2018). [Making sense of the many worlds interpretation](https://arxiv.org/abs/1801.08587). [^Boughn2018]
 -   Frauchiger, D. & Renner, R. (2018). [Quantum theory cannot consistently describe the use of itself](https://www.nature.com/articles/s41467-018-05739-8). [^Frauchiger2018]
 -   Bub, J. (2019). ['Two Dogmas' redux](https://arxiv.org/abs/1907.06240). [^Bub2019]
 
@@ -1416,6 +1451,7 @@ See also:
 
 [^Barrett2011]: @Barrett_2011_Everetts_pure_wave_mechanics_and_the_notion\.
 [^Barrett2016]: @Barrett_2016_Quantum_Worlds\.
+[^Boughn2018]: @Boughn_2018_Making_sense_of_the_many_worlds_interpretation\.
 [^Bub2019]: @Bub_2019_Two_Dogmas_redux\.
 [^Carroll2019]: @Carroll_2019_Something_Deeply_Hidden\.
 [^Carroll2019-2]: @Carroll_2019_Mad_Dog_Everettianism_Quantum_mechanics_at_its\.
@@ -1427,8 +1463,9 @@ See also:
 [^Everett1957]: @Everett_1957_Relative_state_formulation_of_quantum_mechanics\.
 [^Everett2012]: @Everett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\.
 [^Frauchiger2018]: @Frauchiger_2018_Quantum_theory_cannot_consistently_describe\.
-[^Joos2003p22]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\, p. 22.
 [^GellMann1989]: @Gell_Mann_1989_Quantum_mechanics_in_the_light_of_quantum\.
+[^Joos2003p22]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\, p. 22.
+[^Saunders2021]: @Saunders_2021_Branch_counting_in_the_Everett_interpretation\.
 [^Wallace2012]: @Wallace_2012_The_Emergent_Multiverse\.
 [^Wallace2022]: @Wallace_2022_The_sky_is_blue_and_other_reasons_quantum\.
 [^Wheeler1957]: @Wheeler_1957_Assessment_of_Everetts_relative_state\.
@@ -1532,6 +1569,7 @@ Videos:
     -   Hossenfelder, S. & Palmer, T. (2020). [Rethinking superdeterminism](https://www.frontiersin.org/articles/10.3389/fphy.2020.00139/full). [^Hossenfelder2020]
 -   Taxonomies
     -   Adlam, E., Hance, J.R., Hossenfelder, S., & Palmer, T.N. (2023). [Taxonomy for physics beyond quantum mechanics](https://arxiv.org/abs/2309.12293). [^Adlam2023]
+    -   Hossenfelder, S. (2023). [Quantum confusions, cleared up (or so I hope)](https://arxiv.org/abs/2309.12299).
 
 From [Sabine Hossenfelder](https://www.youtube.com/watch?v=hpkgPJo_z6Y),
 some examples for models that violate measurement independence are here:
@@ -1551,6 +1589,7 @@ some examples for models that violate measurement independence are here:
 [^Donadi2022]: @Donadi_2022_A_toy_model_for_local_and_deterministic_wave\.
 [^Hall2010]: @Hall_2010_Local_deterministic_model_of_singlet_state\.
 [^Hossenfelder2020]: @Hossenfelder_2020_Rethinking_superdeterminism\.
+[^Hossenfelder2023]: @Hossenfelder_2023_Quantum_confusions_cleared_up_or_so_I_hope\.
 [^MartinDussaud2018]: @Martin_Dussaud_2018_The_notion_of_locality_in_relational_quantum\.
 [^Maudlin1996]: @Maudlin_1996_Quantum_Nonlocality_and_Relativity_Metaphysical\.
 [^Palmer1995]: @Palmer_1995_A_local_deterministic_model_of_quantum_spin\.
@@ -1565,6 +1604,7 @@ some examples for models that violate measurement independence are here:
 -   MIT Technology Review. (2019). [A quantum experiment suggests there's no such thing as objective reality](https://www.technologyreview.com/2019/03/12/136684/a-quantum-experiment-suggests-theres-no-such-thing-as-objective-reality/).
     -   Proietti, M. et al. (2019). [Experimental test of local observer independence](https://arxiv.org/abs/1902.05080). [^Proietti2019]
     -   Weinberg, J. et al. (2019). [Philosophers on a physics experiment that "suggests there's no such thing as objective reality"](http://dailynous.com/2019/03/21/philosophers-physics-experiment-suggests-theres-no-thing-objective-reality/). *Daily Nous*. March 21, 2019.
+-   Nikoli&cacute;, H. (2007). [Quantum mechanics: Myths and facts](https://link.springer.com/content/pdf/10.1007/s10701-007-9176-y.pdf). [^Nikolic2007]
 
 Press release for [The Nobel Prize in Physics 2022](https://www.nobelprize.org/uploads/2022/10/press-physicsprize2022-2.pdf):
 
@@ -1576,6 +1616,7 @@ cannot be explained by fully *local hidden variables*.
 Bohmian mechanics exists as a counter example that hidden variables
 can explain QM, but require a non-local guiding equation.
 
+[^Nikolic2007]: @Nikolic_2007_Quantum_mechanics_Myths_and_facts\.
 [^Proietti2019]: @Proietti_2019_Experimental_test_of_local_observer_independence\.
 
 
