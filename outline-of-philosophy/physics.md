@@ -1983,6 +1983,7 @@ Gravity and cosmology
 -   Howe, A.R. (2019). [The dark matter flowchart, annotated](https://sciencemeetsfiction.com/nonfiction-essays/the-dark-matter-flowchart-annotated/).
 -   Arbey, A. & Mahmoudi, F. (2021). [Dark matter and the early Universe: a review](https://arxiv.org/abs/2104.11488). [^Arbey2021]
 -   Martens, N. (2022). [Dark matter realism](https://link.springer.com/article/10.1007/s10701-021-00524-y). [^Martens2022]
+-   Boyd, N.M., De Baerdemaeker, S., Heng, K., & Matarese, V. (Eds.). (2023). [*Philosophy of Astrophysics*](https://link.springer.com/book/10.1007/978-3-031-26618-8).
 
 [^Arbey2021]: @Arbey_2021_Dark_matter_and_the_early_Universe_a_review\.
 [^Bahcall2015]: @Bahcall_2015_Dark_matter_universe\.
