@@ -3,6 +3,7 @@ Afriat, A. (2013). Weyl's gauge argument. *Foundations of Physics*, 43(5), 699--
 Aharonov, Y. & Bohm, D. (1959). Significance of electromagnetic potentials in the quantum theory. *Physical Review*, 115, 485--491. https://journals.aps.org/pr/abstract/10.1103/PhysRev.115.485
 Ahmed, A., & Caulton, A. (2014). Causal decision theory and EPR correlations. *Synthese*, 191(18), 4315--4352. http://philsci-archive.pitt.edu/10992/
 Aim{\`e}, C. (2022). Muon collider physics summary. https://arxiv.org/abs/2203.07256
+Albrecht, A. & Steinhardt, P.J. (1982). Cosmology for Grand Unified Theories with radiatively induced symmetry breaking. *Physics Review Letters*, 48, 1220--1223. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.48.1220
 Allori, V., D{\"u}rr, D., Goldstein, S., & Zangh{\`i}, N. (2002). Seven steps towards the classical world. *Journal of Optics B: Quantum and Semiclassical Optics*, 4, 482. https://arxiv.org/abs/quant-ph/0112005
 Allori, V. (2022). What is it like to be a relativistic GRW theory? Or: Quantum mechanics and relativity, still in conflict after all these years. *Foundations of Physics*, 52, 79. https://doi.org/10.1007/s10701-022-00595-5
 Ananthaswamy, A. (2021). This simple experiment could challenge standard quantum theory. *Scientific American*. https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/
@@ -156,7 +157,8 @@ Greaves, H. & Thomas, T. (2012). The CPT theorem. https://arxiv.org/abs/1204.467
 Greaves, H. & Wallace, D. (2011). Empirical consequences of symmetries. https://arxiv.org/abs/1111.4309
 Greenberger, D., Horne, M., Shimony, A., & Zeilinger, A. (1990). Bell's theorem without inequalities. *American Journal of Physics*, 58, 1131.
 Guralnik, G.S., Hagen, C.R., & Kibble, T.W.B. (1964). Global conservation laws and massless particles. *Physical Review Letters*, 13, 585--587. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.585
-Guth, A. (1997). Was cosmic inflation the 'bang' of the big bang? *The Beamline*, 27, 14. https://ned.ipac.caltech.edu/level5/Guth/Guth_contents.html
+Guth, A.H. (1981). Inflationary universe: A possible solution to the horizon and flatness problems. *Physical Review D*, 23, 347--356. https://journals.aps.org/prd/abstract/10.1103/PhysRevD.23.347
+Guth, A.H. (1997). Was cosmic inflation the 'bang' of the big bang? *The Beamline*, 27, 14. https://ned.ipac.caltech.edu/level5/Guth/Guth_contents.html
 Haag, R. (1955). On quantum field theories. *Matematisk-fysiske Meddelelser*, 29, 1--37. http://cds.cern.ch/record/212242
 Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. Springer.
 Haag, R., \L{}opusza\'{n}ski, J. T., & Sohnius, M. (1975). All possible generators of supersymmetries of the S-matrix. *Nuclear Physics B*, 88(2), 257--274.
@@ -185,6 +187,8 @@ Kontsevich, M. & Segal, G. (2021). Wick rotation and the positivity of energy in
 Lazarovici, D. (2018). Against fields. *European Journal for Philosophy of Science*, 8(2), 145--170. https://arxiv.org/abs/1809.00855
 Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. *Nuovo Cimento*, 1, 205--225.
 Leifer, M.S., & Spekkens, R.W. (2013). Towards a formulation of quantum theory as a causally neutral theory of Bayesian inference. *Physical Review A*, 88(5), 052130. https://arxiv.org/abs/1107.5849
+Linde, A.D. (1982). A new inflationary universe scenario: A possible solution of the horizon, flatness, homogeneity, isotropy and primordial monopole problems. *Physics Letters B*, 108, 389--393. https://www.sciencedirect.com/science/article/pii/0370269382912199
+Linde, A.D. (1983). Chaotic inflation. *Physics Letters B*, 129, 177--181.
 Lisi, A.G. (2007). An exceptionally simple theory of everything. https://arxiv.org/abs/0711.0770
 Lisi, A.G. (2017). Emergence. https://www.edge.org/response-detail/27149
 {LSND Collaboration}. (1996). Evidence for neutrino oscillations from muon decay at rest. *Physical Review C*, 54, 2685--2708. https://arxiv.org/abs/nucl-ex/9605001
@@ -302,6 +306,7 @@ Vitagliano, E., Tamborra, I., & Raffelt, G. (2020). Grand unified neutrino spect
 von Neumann, J. (1955). *The Mathematical Foundations of Quantum Mechanics* (R.T. Beyer, Trans.). Princeton University Press. [(Originally published in German in 1932)]
 Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum ﬁeld theory. *Studies in History and Philosophy of Modern Physics*, 42, 116--125.
 Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
+Wallace, D. (2013). Inferential vs dynamical conceptions of physics. https://arxiv.org/abs/1306.4907
 Wallace, D. (2014). Deflating the Aharonov-Bohm effect. https://arxiv.org/abs/1407.5073
 Wallace, D. (2016). What is orthodox quantum mechanics? https://arxiv.org/abs/1604.05973
 Wallace, D. (2018). Decoherence and its role in the modern measurement problem. https://arxiv.org/abs/1111.2187

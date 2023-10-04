@@ -459,25 +459,47 @@ Feynman and Hibbs on the uncertainty principle:
 
 ### Foundations of QM
 
--   Hilbert spaces:
+#### Hilbert spaces
 
-$$ \hat{H} \: |n\rangle = E_{n} \: |n\rangle $$
-
--   Superposition principle:
+States being represented as vectors in a Hilbert space implies
+the *superposition principle*:
 
 $$ |\psi\rangle = \sum_{n} a_{n} \: |n\rangle $$
 
--   Born rule
+the definition of a complex inner product:
 
-$$ P(n) = | \langle n | \psi \rangle |^{2} = |a_{n}|^{2} $$
+$$ \langle\psi_1|\psi_2\rangle = \int dx \: \langle\psi_1|x\rangle \, \langle{}x|\psi_2\rangle $$
 
--   Wigner's theorem
+and a norm:
+
+$$ \langle\psi|\psi\rangle \geq 0 $$
+
+
+#### Operators
+
+Observables are represented as self-adjoint operators with the
+"eigenvector-eigenvalue link."
+
+$$ \hat{H} \: |n\rangle = E_{n} \: |n\rangle $$
+
+
+#### Wigner's theorem
 
 The generators of the representation of a transformation in a Hilbert space
 are the operators representing the classical Noether charges that are
 conserved under that transformation.
 
-$$ \hat{U}(x^{\mu}) = e^{ -i \, \hat{P}_\mu \, x^\mu } $$
+$$ \hat{U}(x^{\mu}) = \exp( -i \, x^\mu \, \hat{P}_\mu ) $$
+
+$$ \hat{U}(\theta^{\mu\nu}) = \exp( \frac{-i}{2} \, \theta^{\mu\nu} \, \hat{M}_{\mu\nu} ) $$
+
+
+#### Born rule
+
+$$ P(n) = | \langle n | \psi \rangle |^{2} = |a_{n}|^{2} $$
+
+TODO: Note that Everettian QM would argue the Born rule is secondary and derivable.
+
 
 -   Somehow, QM is about complex numbers:
     -   [Riesz representation theorem](https://en.wikipedia.org/wiki/Riesz_representation_theorem)
@@ -490,7 +512,7 @@ $$ \hat{U}(x^{\mu}) = e^{ -i \, \hat{P}_\mu \, x^\mu } $$
 -   Hilbert spaces
     -   Carcassi, G., Calderon, F., & Aidala, C.A. (2023). [The unphysicality of Hilbert spaces](https://arxiv.org/abs/2308.06669). [^Carcassi2023]
 
-See all:
+See also:
 
 -   [Wigner-Stone theorems](#wigner-stone-theorems)
 
@@ -1540,6 +1562,7 @@ Criticisms:
     including non-entangled ones, can communicate by action at a distance. 
 -   Leifer, M.S. (2011). [Can the quantum state be interpreted statistically?](https://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/)
 -   Schlosshauer, M. & Fine, A. (2012). [Implications of the Pusey-Barrett-Rudolph quantum no-go theorem](https://arxiv.org/abs/1203.4779). [^Schlosshauer2012]
+-   Wallace, D. (2013). [Inferential vs dynamical conceptions of physics](https://arxiv.org/abs/1306.4907). [^Wallace2013]
 -   Nigg, D. et al. (2015). [Can different quantum state vectors correspond to the same physical state? An experimental test](https://arxiv.org/abs/1211.0942). [^Nigg2015]
 -   Ontological vs nomological interpretations of wavefunctions
 
@@ -1550,6 +1573,7 @@ Videos:
 [^Pusey2012]: @Pusey_2012_On_the_reality_of_the_quantum_state\.
 [^Nigg2015]: @Nigg_2015_Can_different_quantum_state_vectors_correspond\.
 [^Schlosshauer2012]: @Schlosshauer_2012_Implications_of_the_Pusey_Barrett_Rudolph_quantum\.
+[^Wallace2013]: @Wallace_2013_Inferential_vs_dynamical_conceptions_of_physics\.
 
 
 ### Other interpretations
@@ -1994,6 +2018,11 @@ Gravity and cosmology
 ### Inflation
 
 -   Proposed by Alan Guth in 1979.
+    -   Guth, A.H. (1981). [Inflationary universe: A possible solution to the horizon and flatness problems](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.23.347). [^Guth1980]
+    -   Albrecht, A. & Steinhardt, P.J. (1982). [Cosmology for Grand Unified Theories with radiatively induced symmetry breaking](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.48.1220). [^Albrecht1982]
+    -   Linde, A.D. (1982). [A new inflationary universe scenario: A possible solution of the horizon, flatness, homogeneity, isotropy and primordial monopole problems](https://www.sciencedirect.com/science/article/pii/0370269382912199). [^Linde1982]
+-   Chaotic inflation
+    -   Linde, A.D. (1983). Chaotic inflation. [^Linde1983]
 -   Dark energy
     -   Vaccuum energy
     -   Inflaton field and slow-roll inflation
@@ -2016,8 +2045,12 @@ Guth:
 
 ![How the $\Lambda$-CDM concordance model of cosmology was developed. [^Debono2016f4]](img/concordance-model-LCDM.png){#fig:concordance-model-LCDM}
 
+[^Albrecht1982]: @Albrecht_1982_Cosmology_for_Grand_Unified_Theories\.
 [^Debono2016f4]: @Debono_2016_General_relativity_and_cosmology_Unsolved\, figure 4.
+[^Guth1980]: @Guth_1981_Inflationary_universe_A_possible_solution\.
 [^Guth1997Sec3]: @Guth_1997_Was_cosmic_inflation_the_bang_of_the_big_bang\.
+[^Linde1982]: @Linde_1982_A_new_inflationary_universe_scenario_A_possible\.
+[^Linde1983]: @Linde_1983_Chaotic_inflation\.
 
 
 ### Alternative theories of gravity
