@@ -159,6 +159,7 @@ Greenberger, D., Horne, M., Shimony, A., & Zeilinger, A. (1990). Bell's theorem 
 Guralnik, G.S., Hagen, C.R., & Kibble, T.W.B. (1964). Global conservation laws and massless particles. *Physical Review Letters*, 13, 585--587. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.585
 Guth, A.H. (1981). Inflationary universe: A possible solution to the horizon and flatness problems. *Physical Review D*, 23, 347--356. https://journals.aps.org/prd/abstract/10.1103/PhysRevD.23.347
 Guth, A.H. (1997). Was cosmic inflation the 'bang' of the big bang? *The Beamline*, 27, 14. https://ned.ipac.caltech.edu/level5/Guth/Guth_contents.html
+Guth, A.H. (2007). Eternal inflation and its implications. *Journal of Physics A*, 40, 6811. https://arxiv.org/abs/hep-th/0702178
 Haag, R. (1955). On quantum field theories. *Matematisk-fysiske Meddelelser*, 29, 1--37. http://cds.cern.ch/record/212242
 Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. Springer.
 Haag, R., \L{}opusza\'{n}ski, J. T., & Sohnius, M. (1975). All possible generators of supersymmetries of the S-matrix. *Nuclear Physics B*, 88(2), 257--274.
@@ -280,6 +281,7 @@ Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, II
 Simon, B. (1976). Quantum dynamics: From automorphism to Hamiltonian. In Lieb, E.H. (Ed.) *Studies in Mathematical Physics: Essays in Honor of Valentine Bargmann* (pp. 327-350). Princeton University Press. http://www.math.caltech.edu/SimonPapers/R12.pdf
 Slansky, R. (1981). Group theory for unified model building. *Physics Reports*, 79, 1--128. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1581&rep=rep1&type=pdf
 Stein, H. (2021). Physics and philosophy meet: The strange case of Poincar{\'e}. *Foundations of Physics*, 51, 1--24.
+Steinhardt, P.J. (1983). Natural inflation. In *The Very Early Universe: Proc. Nuffield Workshop* (pp. 251--66). Cambridge University Press.
 Stopp, F., Ortiz-Guti{\'e}rrez, L., Lehec, H., & Schmidt-Kaler, F. (2021). Single ion thermal wave packet analyzed via time-of-flight detection. *New Journal of Physics*, 23, 063002. https://iopscience.iop.org/article/10.1088/1367-2630/abffc0
 Streater, R. & Wightman, A. (1964). *PCT, spin and statistics, and all that*. New York: Benjamin.
 Sudarshan, E.C.G. & Marshak, R.E. (1994). Origin of the universal $V-A$ theory. *AIP Conference Proceedings*, 300, 110. https://repositories.lib.utexas.edu/handle/2152/29431

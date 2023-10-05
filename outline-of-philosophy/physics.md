@@ -2021,12 +2021,14 @@ Gravity and cosmology
     -   Guth, A.H. (1981). [Inflationary universe: A possible solution to the horizon and flatness problems](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.23.347). [^Guth1980]
     -   Albrecht, A. & Steinhardt, P.J. (1982). [Cosmology for Grand Unified Theories with radiatively induced symmetry breaking](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.48.1220). [^Albrecht1982]
     -   Linde, A.D. (1982). [A new inflationary universe scenario: A possible solution of the horizon, flatness, homogeneity, isotropy and primordial monopole problems](https://www.sciencedirect.com/science/article/pii/0370269382912199). [^Linde1982]
--   Chaotic inflation
+    -   False vaccuum from inflaton field
+    -   Slow-roll of inflaton field value solved the "graceful exit" problem of ending inflation.
+-   Eternal inflation
+    -   Steinhardt, P.J. (1983). Natural inflation. [^Steinhardt1983]
     -   Linde, A.D. (1983). Chaotic inflation. [^Linde1983]
--   Dark energy
-    -   Vaccuum energy
-    -   Inflaton field and slow-roll inflation
 -   $\Lambda$-CDM Cosmological Standard Model
+-   Review:
+    -   Guth, A.H. (2007). [Eternal inflation and its implications](https://arxiv.org/abs/hep-th/0702178). [^Guth2007]
 
 Guth:
 
@@ -2049,8 +2051,10 @@ Guth:
 [^Debono2016f4]: @Debono_2016_General_relativity_and_cosmology_Unsolved\, figure 4.
 [^Guth1980]: @Guth_1981_Inflationary_universe_A_possible_solution\.
 [^Guth1997Sec3]: @Guth_1997_Was_cosmic_inflation_the_bang_of_the_big_bang\.
+[^Guth2007]: @Guth_2007_Eternal_inflation_and_its_implications\.
 [^Linde1982]: @Linde_1982_A_new_inflationary_universe_scenario_A_possible\.
 [^Linde1983]: @Linde_1983_Chaotic_inflation\.
+[^Steinhardt1983]: @Steinhardt_1983_Natural_inflation\.
 
 
 ### Alternative theories of gravity

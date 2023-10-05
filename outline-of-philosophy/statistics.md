@@ -1972,11 +1972,18 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
 -   Kosinski, M. (2023). [Theory of mind may have spontaneously emerged in large language models](https://arxiv.org/abs/2302.02083). [^Kosinski2023]
 -   Chitra, T. & Prior, H. (2023). [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms)
 
+World modeling:
+
+-   Alain, G. & Bengio, Y. (2016). [Understanding intermediate layers using linear classifier probes](https://arxiv.org/abs/1610.01644). [^Alain2016]
+-   Gurnee, W. & Tegmark, M. (2023). [Language models represent space and time](https://arxiv.org/abs/2310.02207). [^Gurnee2023b]
+
 See also:
 
 -   [Word meanings](statistics.html#word-meanings)
 
+[^Alain2016]: @Alain_2016_Understanding_intermediate_layers_using_linear\.
 [^Kosinski2023]: @Kosinski_2023_Theory_of_mind_may_have_spontaneously_emerged\.
+[^Gurnee2023b]: @Gurnee_2023_Language_models_represent_space_and_time\.
 [^Mahowald2023]: @Mahowald_2023_Dissociating_language_and_thought_in_large\.
 
 
@@ -1985,10 +1992,12 @@ See also:
 -   [Grandmother cell](https://en.wikipedia.org/wiki/Grandmother_cell)
 -   Anthropic. (2021). [A mathematical framework for transformer circuits](https://transformer-circuits.pub/2021/framework/index.html).
 -   Anthropic. (2022). [In-context learning and induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html).
--   Gurnee, W. et al. (2023). [Finding neurons in a haystack: Case studies with sparse probing](https://arxiv.org/abs/2305.01610). [^Gurnee2023]
+-   Belinkov, Y. (2022). Probing classifiers: Promises, shortcomings, and advances.
+-   Gurnee, W. et al. (2023). [Finding neurons in a haystack: Case studies with sparse probing](https://arxiv.org/abs/2305.01610). [^Gurnee2023a]
 -   Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). [Locating and editing factual associations in GPT](https://arxiv.org/abs/2202.05262). [^Meng2023]
 
-[^Gurnee2023]: @Gurnee_2023_Finding_neurons_in_a_haystack_Case_studies\.
+[^Belinkov2022]: @Belinkov_2022_Probing_classifiers_Promises_shortcomings\.
+[^Gurnee2023a]: @Gurnee_2023_Finding_neurons_in_a_haystack_Case_studies\.
 [^Meng2023]: @Meng_2023_Locating_and_editing_factual_associations_in_GPT\.
 
 
