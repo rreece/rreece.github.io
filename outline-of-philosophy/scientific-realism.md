@@ -1263,7 +1263,6 @@ Various reactions to positivism.
 -   TODO: Khanna [^Khanna2018]
 -   de Swart [^deSwart2018p351]
 -   [Positivism dispute](https://en.wikipedia.org/wiki/Positivism_dispute)
--   Sachs, C. (2020). [why did the Frankfurt school misunderstand logical positivism?](https://jhiblog.org/2020/08/05/why-did-the-frankfurt-school-misunderstand-logical-positivism/)
 
 [^deSwart2018p351]: @deSwart_2018_Philosophical_and_Mathematical_Logic\, p. 351--3.
 [^Khanna2018]: @Khanna_2018_Positivism_and_realism\.
@@ -1521,15 +1520,23 @@ Bunge:
 >   science is often nothing but an excuse for sloppiness and wild
 >   speculation. [^Bunge1996p317]
 
+Positivism vs critical theory:
+
+-   Sachs, C. (2020). [Why did the Frankfurt school misunderstand logical positivism?](https://jhiblog.org/2020/08/05/why-did-the-frankfurt-school-misunderstand-logical-positivism/)
+-   O'Neill, J. & Uebel, T. (2004). Horkheimer and Neurath: Restarting a disrupted debate. *European Journal of Philosophy*, 12, 75--105. [^ONeill2004]
+-   Vrahimis, A. (2020). [Scientism, social praxis, and overcoming metaphysics: A debate between logical empiricism and the Frankfurt School](https://www.journals.uchicago.edu/doi/full/10.1086/710184). [^Vrahimis2020]
+
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.
 [^Bunge1996p317]: @Bunge_1996_Finding_Philosophy_in_Social_Science\, p. 317.
 [^Clarke2004]: @Clarke_2004_The_theoretical_implications_of_the_empirical\.
 [^Edmonds2020b]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\.
 [^Hemple1950]: @Hempel_1950_Problems_and_changes_in_the_empiricist_criterion\.
 [^Hempel1974]: @Hempel_1974_Formulation_and_formalization_of_scientific\.
+[^ONeill2004]: @ONeill_2004_Horkheimer_and_Neurath_Restarting_a_disrupted\.
 [^Passmore1967]: @Passmore_1967_Logical_positivism and 
     @Creath_2017_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Suppe2000]: @Suppe_2000_Understanding_scientific_theories_An_assessment\.
+[^Vrahimis2020]: @Vrahimis_2020_Scientism_social_praxis_and_overcoming\.
 
 
 ### Lasting influence of positivism
@@ -1743,6 +1750,7 @@ Postmodernism
 -   Conventionalism
 -   Social constructivism
 -   Incommensurability, impossibility of translation
+-   Critical theory
 
 
 ### History
@@ -1761,8 +1769,11 @@ Postmodernism
 
 ### Discussion
 
--   TODO
 -   TODO: How much is postmodernism influenced by Marxism and Crticial Theory?
+
+See also:
+
+-   [Marxism](ethics.html#marxism)
 
 
 ### Criticism
@@ -2019,15 +2030,18 @@ observable ones; as such, the social world can be understood only if people
 understand the structures that generate such unobservable events.
 
 -   Realist
+-   Freely emphasizes the political implications of scientific realism.
+-   The normative importance of climate science.
 -   Roy Wood Sellars
 -   Wilfrid Sellars
 -   Roy Bhaskar
--   Freely emphasizes the political implications of scientific realism.
--   The normative importance of climate science.
+    -    Stratfiied reality
 -   Howard Sankey?
 -   Neuber, M. (2014). [Critical realism in perspective: Remarks on a neglected current in Neo-Kantian epistemology](https://philpapers.org/rec/NEUCRI). [^Neuber2014]
+-   Zhang, T. (2023). [Critical realism: A critical evaluation](https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2080127). [^Zhang2023]
 
 [^Neuber2014]: @Neuber_2014_Critical_realism_in_perspective_Remarks_on\.
+[^Zhang2023]: @Zhang_2023_Critical_realism_A_critical_evaluation\.
 
 
 Active realism

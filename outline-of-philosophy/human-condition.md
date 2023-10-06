@@ -198,7 +198,7 @@ See also:
 -   [History of science](scientific-method.html#history-of-science)
     in the [Outline on the scientific method](scientific-method.html)
 -   [Technological growth](future.html#technological-growth)
-    in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html)
+    in the [Outline of futures studies](http://rreece.github.io/outline-of-philosophy/future.html)
 
 [^Feynman1998p31]: @Feynman_1998_The_Meaning_of_It_All\, p. 31.
 [^Lin1995]: @Lin_1995_The_Needham_Puzzle_Why_the_industrial_revolution\.

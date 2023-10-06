@@ -1,4 +1,4 @@
-Future studies
+Futures studies
 ================================================================================
 
 Philosophy of the future---Where are we going?

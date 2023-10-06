@@ -50,6 +50,7 @@ Moore, G.E. (1939). Proof of an external world. *Proceedings of the British Acad
 Ney, A. (2014). *Metaphysics: An introduction*. Routledge.
 Neuber, M. (2014). Critical realism in perspective: Remarks on a neglected current in Neo-Kantian epistemology. In M.C. Galavotti et al (eds.), *The Philosophy of Science in a European Perspective: New Directions in the Philosophy of Science* (pp. 657--673). Springer. https://philpapers.org/rec/NEUCRI
 Nozick, R. (2001). *Invariances*. Harvard University Press.
+O'Neill, J. & Uebel, T. (2004). Horkheimer and Neurath: Restarting a disrupted debate. *European Journal of Philosophy*, 12, 75--105.
 Park, S. (2021). *Embracing Scientific Realism*. Springer.
 Peirce, C.S. (1923). *Chance, Love and Logic*. New York: Harcourt, Brace & Co.
 Poincar\'{e}, H. (1913). *The Foundations of Science: Science and hypothesis, the value of science, science and method* (G.B. Halstead, Trans.). Cambridge University Press. [(Originally published in 1905)]
@@ -100,6 +101,7 @@ van Fraassen, B. (2002). *The Empirical Stance*. Yale University Press.
 van Inwagen, P. (2014). Metaphysics. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/metaphysics/
 Verhaegh, S. (2019). The American reception of logical positivism: First encounters (1929-1932). *HOPOS: The Journal of the International Society for the History of Philosophy of Science*, 10, 106--142.
 Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. *Journal for the History of Analytical Philosophy*, 8, 1--47. https://jhaponline.org/jhap/article/view/4364
+Vrahimis, A. (2020). Scientism, social praxis, and overcoming metaphysics: A debate between logical empiricism and the Frankfurt School. *HOPOS: The Journal of the International Society for the History of Philosophy of Science*, 10, 562--597. https://www.journals.uchicago.edu/doi/full/10.1086/710184
 Warren, J. (2016). Internal and external questions revisited. *The Journal of Philosophy*, 113, 177--209. 
 Warren, J. (2016). Revisiting Quine on truth by convention. *Journal of Philosophical Logic*, 46, 119--139.
 Warren, J. (2016). Sider on the epistemology of structure. *Philosophical Studies*, 173, 2417--2435.
@@ -109,3 +111,4 @@ Wittgenstein, L. (1969). *On Certainty*. Oxford: Basil Blackwell.
 Worrall, J. (1989). Structural realism: The best of both worlds? *Dialectica*, 43, 99--124.
 Wray, K. B. (2018). *Resisting Scientific Realism*. Cambridge University Press.
 Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? *Aristotelian Society Supplementary Volume*, 72, 229--262.
+Zhang, T. (2023). Critical realism: A critical evaluation. *Social Epistemology*, 37, 15--29. https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2080127

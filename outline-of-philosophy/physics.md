@@ -1593,7 +1593,7 @@ Videos:
     -   Hossenfelder, S. & Palmer, T. (2020). [Rethinking superdeterminism](https://www.frontiersin.org/articles/10.3389/fphy.2020.00139/full). [^Hossenfelder2020]
 -   Taxonomies
     -   Adlam, E., Hance, J.R., Hossenfelder, S., & Palmer, T.N. (2023). [Taxonomy for physics beyond quantum mechanics](https://arxiv.org/abs/2309.12293). [^Adlam2023]
-    -   Hossenfelder, S. (2023). [Quantum confusions, cleared up (or so I hope)](https://arxiv.org/abs/2309.12299).
+    -   Hossenfelder, S. (2023). [Quantum confusions, cleared up (or so I hope)](https://arxiv.org/abs/2309.12299). [^Hossenfelder2023]
 
 From [Sabine Hossenfelder](https://www.youtube.com/watch?v=hpkgPJo_z6Y),
 some examples for models that violate measurement independence are here:

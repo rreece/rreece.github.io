@@ -82,6 +82,7 @@ Clopper, C.J. & Pearson, E.S. (1934). The use of confidence or fiducial limits i
 Coadou, Y. (2022). Boosted decision trees. https://arxiv.org/abs/2206.09645
 Cohen, T.S., Weiler, M., Kicanaoglu, B., & Welling, M. (2019). Gauge equivariant convolutional networks and the icosahedral CNN. https://arxiv.org/abs/1902.04615
 Cohen, T.S. & Welling, M. (2016). Group equivariant convolutional networks. *Proceedings of International Conference on Machine Learning*, 2016, 2990--9. http://proceedings.mlr.press/v48/cohenc16.pdf
+Collobert, R., Hannun, A., & Synnaeve, G. (2019). A fully differentiable beam search decoder. *International Conference on Machine Learning*, 2019, 1341--1350. http://proceedings.mlr.press/v97/collobert19a/collobert19a.pdf
 Cousins, R.D. (2018). Lectures on statistics in theory: Prelude to statistics in practice. https://arxiv.org/abs/1807.05996
 Cousins, R.D. & Highland, V.L. (1992). Incorporating systematic uncertainties into an upper limit. *Nuclear Instruments and Methods in Physics Research Section A*, 320, 331--335. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.193.1581&rep=rep1&type=pdf
 Cowan, G. (1998). *Statistical Data Analysis*. Clarendon Press.
@@ -374,4 +375,6 @@ Yang, T. & Suzuki, J. (2023). Dropout drops double descent. https://arxiv.org/ab
 Yang, Z. et al. (2019). XLNet: Generalized autoregressive pretraining for language understanding. https://arxiv.org/abs/1906.08237
 Zaheer, M. et al. (2020). Big Bird: Transformers for longer sequences. https://arxiv.org/abs/2007.14062
 Zech, G. (1995). Comparing statistical data to Monte Carlo simulation: Parameter fitting and unfolding. https://cds.cern.ch/record/284321 [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)]
+Zhang, W. (1998). Complete anytime beam search. *AAAI Proceedings*, 98, 425--430. https://cdn.aaai.org/AAAI/1998/AAAI98-060.pdf
+Zhou, R. & Hansen, E. A. (2005). Beam-stack search: Integrating backtracking with beam search. *ICAPS*, 15, 90--98. https://cdn.aaai.org/ICAPS/2005/ICAPS05-010.pdf
 Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. *Advances in Neural Information Processing Systems*, 20, 1729--1736. https://proceedings.neurips.cc/paper/2007/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf

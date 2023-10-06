@@ -1847,7 +1847,7 @@ Chain rule of language modeling (chain rule of probability):
 
 $$ P(x_1, \ldots, x_T) = P(x_1, \ldots, x_{n-1}) \prod_{t=n}^{T} P(x_t | x_1 \ldots x_{t-1}) \label{eq:chain_rule_of_lm} $$
 
-or for the whole sentence:
+or for the whole sequence:
 
 $$ P(x_1, \ldots, x_T) = \prod_{t=1}^{T} P(x_t | x_1 \ldots x_{t-1}) \label{eq:chain_rule_of_lm_2} $$
 
@@ -1858,20 +1858,34 @@ If done with greedy search:
 
 $$ \hat{x}_t = \underset{x_t \in V}{\mathrm{argmax}} \: P(x_t | x_1 \ldots x_{t-1}) \label{eq:greedy_search} $$
 
--   Backpropagation through time (BPTT)
-    -   Werbos, P.J. (1990). [Backpropagation through time: what it does and how to do it](http://www.werbos.com/Neural/BTT.pdf). [^Werbos1990]
--   Neural Machine Translation (NMT)
-    -   Sutskever seq2seq [^Sutskever2014]
-    -   Bahdanau attention [^Bahdanau2015] and GNMT [^Wu2016]
-    -   Review by Stahlberg [^Stahlberg2019]
+Beam search:
+
+-   Beam search as used in NLP is described in Sutskever. [^Sutskever2014p4]
+-   Zhang, W. (1998). [Complete anytime beam search](https://cdn.aaai.org/AAAI/1998/AAAI98-060.pdf). [^Zhang1998]
+-   Zhou, R. & Hansen, E. A. (2005). [Beam-stack search: Integrating backtracking with beam search](https://cdn.aaai.org/ICAPS/2005/ICAPS05-010.pdf). [^Zhou2005]
+-   Collobert, R., Hannun, A., & Synnaeve, G. (2019). [A fully differentiable beam search decoder](http://proceedings.mlr.press/v97/collobert19a/collobert19a.pdf). [^Collobert2019]
+
+Backpropagation through time (BPTT):
+
+-   Werbos, P.J. (1990). [Backpropagation through time: what it does and how to do it](http://www.werbos.com/Neural/BTT.pdf). [^Werbos1990]
+
+Neural Machine Translation (NMT):
+
+-   Sutskever seq2seq [^Sutskever2014]
+-   Bahdanau attention [^Bahdanau2015] and GNMT [^Wu2016]
+-   Review by Stahlberg [^Stahlberg2019]
 
 [^Bahdanau2015]: @Bahdanau_2015_Neural_machine_translation_by_jointly_learning\.
+[^Collobert2019]: @Collobert_2019_A_fully_differentiable_beam_search_decoder\.
 [^Graves2013]: @Graves_2013_Generating_sequences_with_recurrent_neural\.
 [^Hochreiter1997]: @Hochreiter_1997_Long_short_term_memory\.
 [^Stahlberg2019]: @Stahlberg_2019_Neural_machine_translation_A_review\.
 [^Sutskever2014]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\.
+[^Sutskever2014p4]: @Sutskever_2014_Sequence_to_sequence_learning_with_neural\, p. 4.
 [^Werbos1990]: @Werbos_1990_Backpropagation_through_time_what_it_does_and_how\.
 [^Wu2016]: @Wu_2016_Googles_neural_machine_translation_system\.
+[^Zhang1998]: @Zhang_1998_Complete_anytime_beam_search\.
+[^Zhou2005]: @Zhou_2005_Beam_stack_search_Integrating_backtracking\.
 
 
 #### Transformers
@@ -1972,18 +1986,11 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
 -   Kosinski, M. (2023). [Theory of mind may have spontaneously emerged in large language models](https://arxiv.org/abs/2302.02083). [^Kosinski2023]
 -   Chitra, T. & Prior, H. (2023). [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms)
 
-World modeling:
-
--   Alain, G. & Bengio, Y. (2016). [Understanding intermediate layers using linear classifier probes](https://arxiv.org/abs/1610.01644). [^Alain2016]
--   Gurnee, W. & Tegmark, M. (2023). [Language models represent space and time](https://arxiv.org/abs/2310.02207). [^Gurnee2023b]
-
 See also:
 
 -   [Word meanings](statistics.html#word-meanings)
 
-[^Alain2016]: @Alain_2016_Understanding_intermediate_layers_using_linear\.
 [^Kosinski2023]: @Kosinski_2023_Theory_of_mind_may_have_spontaneously_emerged\.
-[^Gurnee2023b]: @Gurnee_2023_Language_models_represent_space_and_time\.
 [^Mahowald2023]: @Mahowald_2023_Dissociating_language_and_thought_in_large\.
 
 
@@ -1992,12 +1999,19 @@ See also:
 -   [Grandmother cell](https://en.wikipedia.org/wiki/Grandmother_cell)
 -   Anthropic. (2021). [A mathematical framework for transformer circuits](https://transformer-circuits.pub/2021/framework/index.html).
 -   Anthropic. (2022). [In-context learning and induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html).
--   Belinkov, Y. (2022). Probing classifiers: Promises, shortcomings, and advances.
 -   Gurnee, W. et al. (2023). [Finding neurons in a haystack: Case studies with sparse probing](https://arxiv.org/abs/2305.01610). [^Gurnee2023a]
 -   Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). [Locating and editing factual associations in GPT](https://arxiv.org/abs/2202.05262). [^Meng2023]
 
+Linear probes:
+
+-   Alain, G. & Bengio, Y. (2016). [Understanding intermediate layers using linear classifier probes](https://arxiv.org/abs/1610.01644). [^Alain2016]
+-   Belinkov, Y. (2022). Probing classifiers: Promises, shortcomings, and advances. [^Belinkov2022]
+-   Gurnee, W. & Tegmark, M. (2023). [Language models represent space and time](https://arxiv.org/abs/2310.02207). [^Gurnee2023b]
+
+[^Alain2016]: @Alain_2016_Understanding_intermediate_layers_using_linear\.
 [^Belinkov2022]: @Belinkov_2022_Probing_classifiers_Promises_shortcomings\.
 [^Gurnee2023a]: @Gurnee_2023_Finding_neurons_in_a_haystack_Case_studies\.
+[^Gurnee2023b]: @Gurnee_2023_Language_models_represent_space_and_time\.
 [^Meng2023]: @Meng_2023_Locating_and_editing_factual_associations_in_GPT\.
 
 
@@ -2593,7 +2607,7 @@ Lectures:
 See also:
 
 -   [Artificial intelligence](http://rreece.github.io/outline-of-philosophy/future.html#artificial-intelligence)
-    in the [Outline of future studies](http://rreece.github.io/outline-of-philosophy/future.html).
+    in the [Outline of futures studies](http://rreece.github.io/outline-of-philosophy/future.html).
 
 [^Anderson2008]: @Anderson_2008_The_End_of_Theory_The_data_deluge_makes\.
 [^Asch2018]: @Asch_2018_Big_data_and_extreme_scale_computing_Pathways\.
