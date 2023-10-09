@@ -565,7 +565,10 @@ $$ \Diamond P = \lnot \Box \lnot P $$
 
 $$ \Box P = \lnot \Diamond \lnot P $$
 
+More:
+
 -   [Security logic](https://www.johndcook.com/blog/2018/10/30/modal-logic-security/)
+-   [*De dicto* and *de_re*](https://en.wikipedia.org/wiki/De_dicto_and_de_re)
 
 [^Carnap1947b]: @Carnap_1947_Meaning_and_Necessity\.
 [^Kripke1959]: @Kripke_1959_A_completeness_theorem_in_modal_logic\.

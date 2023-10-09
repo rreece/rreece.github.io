@@ -763,6 +763,7 @@ Michael Atiyah:
 -   Feynman diagrams and Feynman rules
     -   Weinberg, S. (1964). Feynman rules for any spin. [^Weinberg1964]
 -   Martin, S.P. (2011). [Phenomenology of particle physics](https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf). [^Martin2011]
+-   Martin, S.P. & Wells, J.D (2023). [*Elementary Particles and Their Interactions*](https://link.springer.com/book/10.1007/978-3-031-14368-7). [^Martin2023]
 -   My notes: Reece, R. (2007). [Quantum field theory: An introduction](http://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf). [^Reece2007]
 -   Jaeger, G. (2019). [Are virtual particles less real?](https://www.mdpi.com/1099-4300/21/2/141) [^Jaeger2019]
 
@@ -772,6 +773,7 @@ Michael Atiyah:
 [^Kontsevich2021]: @Kontsevich_2021_Wick_rotation_and_the_positivity_of_energy\.
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
 [^Martin2011]: @Martin_2011_Phenomenology_of_particle_physics\.
+[^Martin2023]: @Martin_2023_Elementary_Particles_and_Their_Interactions\.
 [^Reece2007]: @Reece_2007_Quantum_field_theory_An_introduction\.
 [^Weinberg1964]: @Weinberg_1964_Feynman_rules_for_any_spin and
     @Weinberg_1964_Feynman_rules_for_any_spin_II_Massless_particles\.
@@ -1157,6 +1159,12 @@ See also:
     -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - nLab
     -   [Supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - nLab
     -   [Superalgebra](https://en.wikipedia.org/wiki/Superalgebra) - Wikipedia
+-   Super division algebras
+    -   Wall, C.T.C. (1964). Graded Brauer groups. [^Wall1964]
+    -   Deligne, P. (1999). [Notes on spinors](https://publications.ias.edu/sites/default/files/79_NotesOnSpinors.pdf). [^Deligne1999]
+    -   Freed, D.S. & Moore, G.W. (2012). [Twisted equivariant matter](https://arxiv.org/abs/1208.5055). [^Freed2012]
+    -   Geiko, R. & Moore, G.W. (2020). [Dyson's classification and real division superalgebras](https://arxiv.org/abs/2010.01675). [^Geiko2020]
+    -   Baez, J.C. (2020). [The tenfold way](https://arxiv.org/abs/2011.14234). [^Baez2020]
 -   Non-commutative geometry
     -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985b]
 
@@ -1188,11 +1196,15 @@ See also:
 -   [Grand unification](#grand-unification)
 -   [Non-commutative geometry](math.html#differential-geometry)
 
+[^Baez2020]: @Baez_2020_The_tenfold_way\.
 [^Connes1985b]: @Connes_1985_Non_commutative_differential_geometry\.
+[^Deligne1999]: @Deligne_1999_Notes_on_spinors\.
 [^Deligne2002]: @Deligne_2002_Categorie_Tensorielle\.
 [^Dimopoulos1981]: @Dimopoulos_1981_Softly_broken_supersymmetry_and_SU5\.
 [^Fre2013v2ch6]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 6.
+[^Freed2012]: @Freed_2012_Twisted_equivariant_matter\.
 [^Freedman1976]: @Freedman_1976_Progress_toward_a_theory_of_supergravity\.
+[^Geiko2020]: @Geiko_2020_Dysons_classification_and_real_division\.
 [^Haag1975]: @Haag_1975_All_possible_generators_of_supersymmetries\.
 [^Martin2016]: @Martin_2016_A_supersymmetry_primer\.
 [^Murayama2000]: @Murayama_2000_Supersymmetry_phenomenology\.
@@ -1201,6 +1213,7 @@ See also:
 [^Schreiber2016a]: @Schreiber_2016_Learn_about_supersymmetry_and_Delignes_theorem\.
 [^Tong2022]: @Tong_2022_Lectures_on_Supersymmetric_Field_Theory\.
 [^vanNieuwenhuizen1981]: @vanNieuwenhuizen_1981_Supergravity\.
+[^Wall1964]: @Wall_1964_Graded_Brauer_groups\.
 
 
 Interpretations of quantum mechanics
@@ -2017,6 +2030,8 @@ Gravity and cosmology
 
 ### Inflation
 
+-   Cosmological constant problem
+    -   Martin, J. (2012). [Everything you always wanted to know about the cosmological constant problem (but were afraid to ask)](https://arxiv.org/abs/1205.3365). [^Martin2012]
 -   Proposed by Alan Guth in 1979.
     -   Guth, A.H. (1981). [Inflationary universe: A possible solution to the horizon and flatness problems](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.23.347). [^Guth1980]
     -   Albrecht, A. & Steinhardt, P.J. (1982). [Cosmology for Grand Unified Theories with radiatively induced symmetry breaking](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.48.1220). [^Albrecht1982]
@@ -2026,9 +2041,10 @@ Gravity and cosmology
 -   Eternal inflation
     -   Steinhardt, P.J. (1983). Natural inflation. [^Steinhardt1983]
     -   Linde, A.D. (1983). Chaotic inflation. [^Linde1983]
--   $\Lambda$-CDM Cosmological Standard Model
--   Review:
     -   Guth, A.H. (2007). [Eternal inflation and its implications](https://arxiv.org/abs/hep-th/0702178). [^Guth2007]
+-   Discovery of dark energy
+    -   TODO
+    -   $\Lambda$-CDM Cosmological Standard Model
 
 Guth:
 
@@ -2054,6 +2070,7 @@ Guth:
 [^Guth2007]: @Guth_2007_Eternal_inflation_and_its_implications\.
 [^Linde1982]: @Linde_1982_A_new_inflationary_universe_scenario_A_possible\.
 [^Linde1983]: @Linde_1983_Chaotic_inflation\.
+[^Martin2012]: @Martin_2012_Everything_you_always_wanted_to_know_about\.
 [^Steinhardt1983]: @Steinhardt_1983_Natural_inflation\.
 
 

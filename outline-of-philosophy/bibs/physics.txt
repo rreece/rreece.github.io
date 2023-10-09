@@ -18,6 +18,7 @@ Bacciagaluppi, G. & Valentini, A. (2009). *Quantum Theory at the Crossroads: Rec
 Baez, J.C. (2011). Division algebras and quantum theory. *Foundations of Physics*, 42, 819--855. https://arxiv.org/abs/1101.5690
 Baez, J.C. (2016). Struggles with the continuum. https://arxiv.org/abs/1609.01421
 Baez, J.C. (2018). Getting to the bottom of Noether’s theorem. https://math.ucr.edu/home/baez/noether/noether_web.pdf [Talk given at The Philosophy and Physics of Noether’s Theorems, University of Notre Dame, October 6, 2018]
+Baez, J.C. (2020). The tenfold way. https://arxiv.org/abs/2011.14234
 Baez, J.C. & Huerta, J. (2009). Division algebras and supersymmetry I. https://arxiv.org/abs/0909.0551
 Baez, J.C. & Huerta, J. (2009). The algebra of grand unified theories. *Bulletin of the American Mathematical Society*, 47, 483--552. https://arxiv.org/abs/0904.1556
 Baez, J.C. & Huerta, J. (2010). Division algebras and supersymmetry II. https://arxiv.org/abs/1003.3436
@@ -92,6 +93,7 @@ d'Espagnat, B. (1979). The quantum theory and reality. *Scientific American*, 24
 Das, S. & D{\"u}rr, D. (2019). Arrival time distributions of spin-1/2 particles. *Scientific Reports*, 9, 2242. https://www.nature.com/articles/s41598-018-38261-4
 Debono, I. & Smoot, G.F. (2016). General relativity and cosmology: Unsolved questions and future directions. *Universe*, 2, 23. https://arxiv.org/abs/1609.09781
 Degorre, J., Laplante, S., & Roland, J. (2005). Simulating quantum correlations as a distributed sampling problem. https://arxiv.org/abs/quant-ph/0507120
+Deligne, P. (1999). Notes on spinors. In *Quantum Fields and Strings: A Course for Mathematicians, Vol. 1* (pp. 99--136). American Mathematical Society. https://publications.ias.edu/sites/default/files/79_NotesOnSpinors.pdf
 Deligne, P. (2002). Cat{\'e}gorie Tensorielle, *Moscow Mathematical Journal*, 2, 227--248. https://www.math.ias.edu/files/deligne/Tensorielles.pdf
 Deutsch, D. (1985). Quantum theory as a universal physical theory. *International Journal of Theoretical Physics*, 24, 1--41.
 Dewar, N. (2019). Sophistication about symmetries. *British Journal for the Philosophy of Science*, 70, 485--521.
@@ -133,6 +135,7 @@ Frankel, T. (2004). *The Geometry of Physics* (2nd ed.). Cambridge University Pr
 Fraser, D. (2008). The fate of 'particles' in quantum field theories with interactions. *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 39(4), 841--859. http://philsci-archive.pitt.edu/4038/
 Fraser, D. (2011). How to take particle physics seriously: A further defence of axiomatic quantum ﬁeld theory. *Studies in History and Philosophy of Modern Physics*, 42, 126--135.
 Frauchiger, D. & Renner, R. (2018). Quantum theory cannot consistently describe the use of itself. *Nature Communications*,9, 3711. https://www.nature.com/articles/s41467-018-05739-8
+Freed, D.S. & Moore, G.W. (2012). Twisted equivariant matter. https://arxiv.org/abs/1208.5055
 Freedman, D.Z., van Nieuwenhuizen, P., & Ferrara, S. (1976). Progress toward a theory of supergravity. *Physical Review D*, 13, 3214--3218.
 Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 1: Development of the Theory and Basic Physical Applications*. Springer.
 Fr\`{e}, P.G. (2013). *Gravity, a Geometrical Course, Volume 2: Black Holes, Cosmology and Introduction to Supergravity*. Springer.
@@ -142,6 +145,7 @@ Fuchs, C.A. (2010). QBism, the perimeter of quantum Bayesianism. https://arxiv.o
 Fuchs, C.A., Mermin, N.D., & Schack, R. (2014). An introduction to QBism with an application to the locality of quantum mechanics. *American Journal of Physics*, 82, 749--754. https://arxiv.org/abs/1311.5253
 Fuchs, C.A. & Schack, R. (2013). Quantum-Bayesian coherence: The no-nonsense version. *Reviews of Modern Physics*, 85, 1693--1715. https://arxiv.org/abs/1301.3274
 Fuchs, C.A. & Stacey, B.C. (2016). QBism: Quantum theory as a hero's handbook. https://arxiv.org/abs/1612.07308
+Geiko, R. & Moore, G.W. (2020). Dyson's classification and real division superalgebras. https://arxiv.org/abs/2010.01675
 Gell-Mann, M. & Hartle, J.B. (1989). Quantum mechanics in the light of quantum cosmology. In *Proceedings of the Santa Fe Institute Workshop on Complexity, Entropy, and the Physics of Information*. Addison-Wesley. https://arxiv.org/abs/1803.04605
 Georgi, H. (1999). *Lie Algebras in Particle Physics* (2nd ed.). Westview Press. [(Originally published in 1982)]
 Georgi, H. & Glashow, S.L. (1974). Unity of all elementary-particle forces. *Physical Review Letters*, 32, 438--441. http://pcbat1.mi.infn.it/~battist/astrop/su5.pdf
@@ -198,9 +202,11 @@ Lyre, H. (2008). Does the Higgs mechanism exist? *International Studies in the P
 Malament, D.B. (1996). In defence of dogma: Why there cannot be a relativistic quantum mechanics of (localizable) particles. In Clifton, R. (Ed.) *Perspectives on Quantum Reality* (pp. 1--10). Springer.
 Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. *Advances in Theoretical and Mathematical Physics*, 2, 231--252. https://arxiv.org/abs/hep-th/9711200
 Martens, N. (2022). Dark matter realism. *Foundations of Physics*, 52(1), 1--19. https://link.springer.com/article/10.1007/s10701-021-00524-y
-Martin-Dussaud, P., Rovelli, C., & Zalamea, F. (2018). The notion of locality in relational quantum mechanics. https://arxiv.org/abs/1806.08150
+Martin, J. (2012). Everything you always wanted to know about the cosmological constant problem (but were afraid to ask). https://arxiv.org/abs/1205.3365
 Martin, S.P. (2011). Phenomenology of particle physics. https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf
 Martin, S.P. (2016). A supersymmetry primer. https://arxiv.org/abs/hep-ph/9709356 [(First published in 1997)]
+Martin, S.P. & Wells, J.D (2023). *Elementary Particles and Their Interactions*. Springer. https://link.springer.com/book/10.1007/978-3-031-14368-7
+Martin-Dussaud, P., Rovelli, C., & Zalamea, F. (2018). The notion of locality in relational quantum mechanics. https://arxiv.org/abs/1806.08150
 Maudlin, T. (1995). Three measurement problems. *Topoi*, 14, 7--15.
 Maudlin, T. (1996). *Quantum Nonlocality and Relativity: Metaphysical Intimations of Modern Physics*. Wiley-Blackwell.
 Maudlin, T. (2007). *The Metaphysics Within Physics*. Oxford University Press.
