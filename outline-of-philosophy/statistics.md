@@ -98,13 +98,13 @@ See also:
     -   Fisher significance of the null hypothesis ($p$-values)
         -   "On an absolute criterion for fitting frequency curves" [^Fisher1912]
         -   "Frequency distribution of the values of the correlation coefficient in samples of indefinitely large population" [^Fisher1915]
-        -   "On the 'probable error' of a coefficient of correlation deduced from a small sample" [^Fisher1921]
-            -   Definition of *likelihood*
-            -   ANOVA
-        -   *Statistical Methods for Research Workers* (1925)
-        -   *The Design of Experiments* (1935)
-        -   "Statistical methods and scientific induction" [^Fisher1955]
-        -   *The Lady Tasting Tea* [^Salsburg2001]
+    -   "On the 'probable error' of a coefficient of correlation deduced from a small sample" [^Fisher1921]
+        -   Definition of *likelihood*
+        -   ANOVA
+    -   *Statistical Methods for Research Workers* (1925)
+    -   *The Design of Experiments* (1935)
+    -   "Statistical methods and scientific induction" [^Fisher1955]
+    -   *The Lady Tasting Tea* [^Salsburg2001]
 -   [Jerzy Neyman](https://en.wikipedia.org/wiki/Jerzy_Neyman) (1894-1981)
     -   biography by Reid [^Reid1998]
     -   Neyman, J. (1955). [The problem of inductive inference](https://errorstatistics.files.wordpress.com/2017/04/neyman-1955-the-problem-of-inductive-inference-searchable.pdf). [^Neyman1955]
@@ -251,7 +251,7 @@ $$ H(p) = - \underset{x\sim{}p}{\mathbb{E}}\big[ \log p(x) \big] \label{eq:shann
 
 Cross entropy:
 
-$$ H(p, q) = - \underset{x\sim{}p}{\mathbb{E}}\big[ \log q(x) \big] \label{eq:cross_entropy} $$
+$$ H(p, q) = - \underset{x\sim{}p}{\mathbb{E}}\big[ \log q(x) \big] = - \sum_{x} p(x) \: \log q(x) \label{eq:cross_entropy} $$
 
 Kullback-Leibler (KL) divergence:
 
@@ -992,9 +992,12 @@ Exploratory data analysis
 
 -   "Data science"
     -   Data collection, quality, analysis, archival, and reinterpretation
+    -   [Scientific research and big data](https://plato.stanford.edu/entries/science-big-data/)
+-   Reproducible an reinterpretable
     -   RECAST
--   [Scientific research and big data](https://plato.stanford.edu/entries/science-big-data/)
--   TODO
+    -   Chen, X. et al. (2018). [Open is not enough](https://www.nature.com/articles/s41567-018-0342-2). [^Chen2018]
+
+[^Chen2018]: @Chen_2018_Open_is_not_enough\.
 
 
 "Statistics Wars"
@@ -2214,6 +2217,7 @@ TODO: explain CFR.
 -   Vectorized and sampling variants
     -   Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). [Efficient Monte Carlo counterfactual regret minimization in games with many player actions](https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf). [^Burch2012]
     -   Johanson, M., Bard, N., Lanctot, M., Gibson, R.G., & Bowling, M. (2012). [Efficient Nash equilibrium approximation through Monte Carlo counterfactual regret minimization](https://www.idi.ntnu.no/emner/it3105/materials/poker/monte-carlo-cfm-2012.pdf). [^Johanson2012]
+        -   Variants of chance sampling with single or vector opponent actions.
     -   Schmid, M. et al. (2019). [Variance reduction in Monte Carlo counterfactual regret minimization (VR-MCCFR) for extensive form games using baselines](https://ojs.aaai.org/index.php/AAAI/article/view/4048/3926). [^Schmid2019]
     -   Li, H. et al. (2020). [Regret minimization via novel vectorized sampling policies and exploration](http://aaai-rlg.mlanctot.info/2020/papers/AAAI20-RLG_paper_14.pdf). [^Li2020]
 -   MCCFR Ph.D. theses
