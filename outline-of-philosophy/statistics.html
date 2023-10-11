@@ -16,7 +16,7 @@
 <meta http-equiv="Content-Style-Type" content="text/css" />
 <meta name="generator" content="pandoc" />
 <meta name="author" content="Ryan Reece" />
-<meta name="date" content="Mon Oct 09, 2023" />
+<meta name="date" content="Tue Oct 10, 2023" />
 <title>Philosophy of statistics - Ryan's Outline of Philosophy</title>
 <meta name="description" content="Ryan Reece&#x2019;s outline of philosophy" />
 <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue-dark.css"/>
@@ -1762,7 +1762,10 @@ D_\mathrm{KL}(p, q)
 <p>TODO: explain the convergence of <span class="math inline">\(\bar{\sigma}^{t}\)</span> to an <span class="math inline">\(\varepsilon\)</span>-Nash equilibrium.</p>
 <ul>
 <li>Roughgarden, T. (2013). Video: <a href="https://www.youtube.com/watch?v=ssAEgJKRe9o">Twenty Lectures on Algorithmic Game Theory</a>.</li>
-<li>Roughgarden, T. (2016). <em>Twenty Lectures on Algorithmic Game Theory</em>.<a href="#fn281" class="footnote-ref" id="fnref281" role="doc-noteref"><sup>281</sup></a></li>
+<li>Roughgarden, T. (2016). <em>Twenty Lectures on Algorithmic Game Theory</em>.<a href="#fn281" class="footnote-ref" id="fnref281" role="doc-noteref"><sup>281</sup></a>
+<ul>
+<li>TODO: Coarse correlated equilibria</li>
+</ul></li>
 </ul>
 <p><strong>Counterfactual regret minimization (CFR)</strong></p>
 <ul>
@@ -1802,11 +1805,16 @@ D_\mathrm{KL}(p, q)
 <p><span class="math display">\[ \pi^{\sigma}_{-i}(h) \equiv \prod_{h&#39; \cdot a&#39; \sqsubseteq h | P(h&#39;) \neq i} \sigma_{i}(h&#39;, a&#39;) \label{eq:external_reach} \]</span></p>
 <p>We also define the external reach of an infoset as</p>
 <p><span class="math display">\[ \pi^{\sigma}_{-i}(I_i) \equiv \sum_{h \in I_{i}} \pi^{\sigma}_{-i}(h) \label{eq:external_reach_from_infoset} \]</span></p>
-<p>The <em>counterfactual value</em> of an infoset <span class="math inline">\(I\)</span> is the expected utility to player <span class="math inline">\(i\)</span> given that <span class="math inline">\(I\)</span> has been reached, weighed by the external reach of <span class="math inline">\(I\)</span> for player <span class="math inline">\(i\)</span>. Formally,<a href="#fn289" class="footnote-ref" id="fnref289" role="doc-noteref"><sup>289</sup></a></p>
+<p>The <em>counterfactual value</em> of an infoset <span class="math inline">\(I\)</span> is the expected utility to player <span class="math inline">\(i\)</span> given that <span class="math inline">\(I\)</span> has been reached, weighted by the external reach of <span class="math inline">\(I\)</span> for player <span class="math inline">\(i\)</span>. Formally,<a href="#fn289" class="footnote-ref" id="fnref289" role="doc-noteref"><sup>289</sup></a></p>
 <p><span class="math display">\[ v(I) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h, z) \: u_{i}(z) \label{eq:counter_factual_value} \]</span></p>
 <p>The counterfactual value of an action, <span class="math inline">\(a\)</span>, is</p>
 <p><span class="math display">\[ v(I, a) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h \cdot a, z) \: u_{i}(z) \label{eq:counter_factual_value_of_a} \]</span></p>
-<p>TODO: how does this expand over many actions?</p>
+<p>Let&#x2019;s consider the case where, like in NLHE, our two private hole cards each make a single unique history <span class="math inline">\(h\)</span>, and we form infosets with a single hand, so <span class="math inline">\(I=h\)</span>. Then</p>
+<p><span class="math display">\[ v(h) = \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h, z) \: u_{i}(z) \]</span></p>
+<p>making explicit the player reach and the external reach,</p>
+<p><span class="math display">\[ v(h) = \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi_{i}^{\sigma}(h, z) \: \pi_{-i}^{\sigma}(h, z) \: u_{i}(z) \]</span></p>
+<p>At a leaf node where we finally calculate the rewards,</p>
+<p><span class="math display">\[ v(z) = \pi^{\sigma}_{-i}(z) \: u_{i}(z) \]</span></p>
 <p>TODO: explain CFR.</p>
 <p><strong>Monte Carlo Counterfactual Regret Minimization (MCCFR)</strong></p>
 <ul>
@@ -1847,7 +1855,7 @@ D_\mathrm{KL}(p, q)
 <ul>
 <li>Johanson, M., Waugh, K., Bowling, M., &amp; Zinkevich, M. (2011). <a href="http://www.cs.cmu.edu/~kwaugh/publications/johanson11.pdf">Accelerating best response calculation in large extensive games</a>.<a href="#fn302" class="footnote-ref" id="fnref302" role="doc-noteref"><sup>302</sup></a>
 <ul>
-<li>Evaluates range vs range rewards in <span class="math inline">\(O(n \log n)\)</span> instead of <span class="math inline">\(O(n^2)\)</span>.</li>
+<li>Evaluates range vs range rewards in <span class="math inline">\(O(n \log n)\)</span> + <span class="math inline">\(O(n)\)</span> instead of <span class="math inline">\(O(n^2)\)</span>.</li>
 </ul></li>
 <li>Ponsen, M., De Jong, S., &amp; Lanctot, M. (2011). <a href="https://arxiv.org/abs/1401.4591">Computing approximate nash equilibria and robust best-responses using sampling</a>.<a href="#fn303" class="footnote-ref" id="fnref303" role="doc-noteref"><sup>303</sup></a></li>
 <li>Lisy, V. &amp; Bowling, M. (2016). <a href="https://arxiv.org/abs/1612.07547">Equilibrium approximation quality of current no-limit poker bots</a>.<a href="#fn304" class="footnote-ref" id="fnref304" role="doc-noteref"><sup>304</sup></a></li>
@@ -3934,7 +3942,7 @@ Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). <span class
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Mon Oct 09, 2023</p>
+    <p>Tue Oct 10, 2023</p>
   </div>
   <div class="license">
     <p>&#xA9; 2014-2023 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>

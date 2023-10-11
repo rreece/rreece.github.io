@@ -2119,6 +2119,7 @@ TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equ
 
 -   Roughgarden, T. (2013). Video: [Twenty Lectures on Algorithmic Game Theory](https://www.youtube.com/watch?v=ssAEgJKRe9o).
 -   Roughgarden, T. (2016). *Twenty Lectures on Algorithmic Game Theory*. [^Roughgarden2016]
+    -   TODO: Coarse correlated equilibria
 
 [^Brown2020thesisp12]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 12.
 [^Hart2000]: @Hart_2000_A_simple_adaptive_procedure_leading_to_correlated\.
@@ -2189,7 +2190,7 @@ We also define the external reach of an infoset as
 $$ \pi^{\sigma}_{-i}(I_i) \equiv \sum_{h \in I_{i}} \pi^{\sigma}_{-i}(h) \label{eq:external_reach_from_infoset} $$
 
 The *counterfactual value* of an infoset $I$ is the expected utility to player $i$ given that $I$ has
-been reached, weighed by the external reach of $I$ for player $i$. Formally, [^Brown2020thesisp12]
+been reached, weighted by the external reach of $I$ for player $i$. Formally, [^Brown2020thesisp12]
 
 $$ v(I) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h, z) \: u_{i}(z) \label{eq:counter_factual_value} $$
 
@@ -2197,7 +2198,19 @@ The counterfactual value of an action, $a$, is
 
 $$ v(I, a) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h \cdot a, z) \: u_{i}(z) \label{eq:counter_factual_value_of_a} $$
 
-TODO: how does this expand over many actions?
+Let's consider the case where, like in NLHE, our two private hole cards each make
+a single unique history $h$, and we form infosets with a single hand, so $I=h$.
+Then
+
+$$ v(h) = \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h, z) \: u_{i}(z) $$
+
+making explicit the player reach and the external reach,
+
+$$ v(h) = \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi_{i}^{\sigma}(h, z) \: \pi_{-i}^{\sigma}(h, z) \: u_{i}(z) $$
+
+At a leaf node where we finally calculate the rewards,
+
+$$ v(z) = \pi^{\sigma}_{-i}(z) \: u_{i}(z) $$
 
 TODO: explain CFR.
 
@@ -2267,7 +2280,7 @@ Note that in zero-sum games, when summing over players, the second terms in Nash
 $$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i})  \label{eq:average_exploitability} $$
 
 -   Johanson, M., Waugh, K., Bowling, M., & Zinkevich, M. (2011). [Accelerating best response calculation in large extensive games](http://www.cs.cmu.edu/~kwaugh/publications/johanson11.pdf). [^Johanson2011]
-    -   Evaluates range vs range rewards in $O(n \log n)$ instead of $O(n^2)$.
+    -   Evaluates range vs range rewards in $O(n \log n)$ + $O(n)$ instead of $O(n^2)$.
 -   Ponsen, M., De Jong, S., & Lanctot, M. (2011). [Computing approximate nash equilibria and robust best-responses using sampling](https://arxiv.org/abs/1401.4591). [^Ponsen2011]
 -   Lisy, V. & Bowling, M. (2016). [Equilibrium approximation quality of current no-limit poker bots](https://arxiv.org/abs/1612.07547). [^Lisy2016]
 -   Timbers, F. (2020). [Approximate exploitability: Learning a best response in large games](https://arxiv.org/abs/2004.09677). [^Timbers2020]
