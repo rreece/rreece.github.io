@@ -57,7 +57,7 @@ Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2022). Recurrent memory transformer. 
 Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2023). Scaling transformer to 1M tokens and beyond with RMT. https://arxiv.org/abs/2304.11062
 Burch, N. (2018). *Time and Space: Why imperfect information games are hard*. University of Alberta. https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf  [(Ph.D. thesis)]
 Burch, N., Lanctot, M., Szafron, D., & Gibson, R. (2012). Efficient Monte Carlo counterfactual regret minimization in games with many player actions. *Advances in Neural Information Processing Systems*, 25. https://proceedings.neurips.cc/paper/2012/file/3df1d4b96d8976ff5986393e8767f5b2-Paper.pdf
-Burch, N., Moravcik, M., & Schmid, M. (2019). Revisiting CFR+ and alternating updates. *Journal of Artificial Intelligence Research*, 64, 429--443. https://www.jair.org/index.php/jair/article/download/11370/26477/
+Burch, N., Moravcik, M., & Schmid, M. (2019). Revisiting CFR+ and alternating updates. *Journal of Artificial Intelligence Research*, 64, 429--443. https://www.jair.org/index.php/jair/article/view/11370
 Buzbas, E.O., Devezer, B., & Baumgaertner, B. (2022). The logical structure of experiments lays the foundation for a theory of reproducibility. https://www.biorxiv.org/content/10.1101/2022.08.10.503444v1
 Caballero, E., Gupta, K., Rish, I., & Krueger, D. (2022). Broken neural scaling laws. https://arxiv.org/abs/2210.14891
 Caldeira, J. & Nord, B. (2020). Deeply uncertain: comparing methods of uncertainty quantification in deep learning algorithms. *Machine Learning: Science and Technology*, 2, 015002. https://iopscience.iop.org/article/10.1088/2632-2153/aba6f3
@@ -337,6 +337,7 @@ Sutton, R.S. (2019). The bitter lesson. http://www.incompleteideas.net/IncIdeas/
 Sutton, R.S. & Barto, A.G. (2018). *Reinforcement Learning* (2nd ed.). MIT Press.
 Sznajder, M. (2018). Inductive logic as explication: The evolution of Carnap's notion of logical probability. *The Monist*, 101(4), 417--440.
 Tammelin, O. (2014). Solving large imperfect information games using CFR+. https://arxiv.org/abs/1407.5042
+Tammelin, O., Burch, N., Johanson, M., & Bowling, M. (2015). Solving heads-up limit texas hold'em. *International Joint Conference on Artificial Intelligence*, 24. http://johanson.ca/publications/poker/2015-ijcai-cfrplus/2015-ijcai-cfrplus.pdf
 Tan, M. & Le, Q.V. (2019). EfficientNet: Rethinking model scaling for convolutional neural networks. https://arxiv.org/abs/1905.11946
 Tan, M. & Le, Q.V. (2021). EfficientNetV2: Smaller models and faster training. https://arxiv.org/abs/2104.00298
 Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). Efficient transformers: A survey. https://arxiv.org/abs/2009.06732
