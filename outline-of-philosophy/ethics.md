@@ -336,6 +336,39 @@ Moral naturalists:
 [^Brown2008p2]: @Brown_2008_Moral_Virtue_and_Nature_A_defense_of_ethical\.
 
 
+### Game theory
+
+-   Resnik, M.D. (1987). *Choices: An Introduction to Decision Theory*. [^Resnik1987]
+-   Binmore, K. (2011). *Natural Justice*. [^Binmore2011]
+-   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). Heads-up limit hold'em poker is solved. [^Bowling2015b]
+
+Resnik:
+
+>   The best thing to do is to avoid games like the clash of wills and the prisoner's
+>   dilemma in the first place. People who are confronted with such situations
+>   quickly learn to take steps to avoid them. We have already mentioned the criminals'
+>   code of silence in connection with the prisoner's dilemma. Families often
+>   adopt rules for taking turns at tasks (dish washing) or pleasures (using the family
+>   car) to avoid repeated plays of the clash of wills. Since such rules represent a
+>   limited form of morality, we can see the breakdowns in game theory as paving
+>   the way for an argument that it is rational to be moral. [^Resnik1987p152]
+
+More:
+
+-   [Logics for analyzing games](https://plato.stanford.edu/entries/logics-for-games/)
+-   [Condorcet's jury theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
+
+See also:
+
+-   [Reinforcement learning](statistics.html#reinforcement-learning)
+
+[^Binmore2011]: @Binmore_2011_Natural_Justice\.
+[^Bowling2015b]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
+[^Putnam2004]: @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other\.
+[^Resnik1987]: @Resnik_1987_Choices_An_Introduction_to_Decision_Theory\.
+[^Resnik1987p152]: @Resnik_1987_Choices_An_Introduction_to_Decision_Theory\.
+
+
 ### Evolution of morals
 
 -   de Waal [^deWaal1982]
@@ -370,19 +403,6 @@ Churchland:
 [^deWaal1982]: @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes\.
 [^Joyce2016]: @Joyce_2016_Evolution_and_moral_naturalism\.
 [^Skarsaune2009]: @Skarsaune_2009_Darwin_and_moral_realism_Survival_of_the_iffiest\.
-
-
-### Game theory
-
--   [Logics for analyzing games](https://plato.stanford.edu/entries/logics-for-games/)
--   Binmore
--   *Natural Justice* (2011) [^Binmore2011]
--   Heads-up poker solved [^Bowling2015b]
--   [Condorcet's jury theorem](https://en.wikipedia.org/wiki/Condorcet%27s_jury_theorem)
-
-[^Binmore2011]: @Binmore_2011_Natural_Justice\.
-[^Bowling2015b]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
-[^Putnam2004]: @Putnam_2004_The_Collapse_of_the_FactValue_Dichotomy_and_Other\.
 
 
 ### Science of morality

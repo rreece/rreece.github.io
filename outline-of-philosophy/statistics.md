@@ -2113,7 +2113,11 @@ $$ \sigma^{t+1}(a) \equiv \frac{ R^{t}_{+}(a) }{ \sum_{b \in A} R^{t}_{+}(b) } \
 
 where $R_{+} \equiv \mathrm{max}(R, 0)$.
 
-TODO: explain the average strategy: $\bar{\sigma}^{t}$.
+At the end of training, the resulting recommended strategy with convergence bounds
+is _not_ the final strategy used in training, $\sigma^{T}$,
+but the average strategy over all time steps: 
+
+$$ \bar{\sigma}^{T}(I, a) = \sum_{t=1}^{T} \frac{\pi^{t}_{i}(I) \: \sigma^{t}(I, a) }{\pi^{t}_{i}(I)} $$
 
 TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equilibrium.
 
@@ -2141,6 +2145,8 @@ TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equ
     -   Tammelin, O. (2014). [Solving large imperfect information games using CFR+](https://arxiv.org/abs/1407.5042). [^Tammelin2014]
     -   Tammelin, O., Burch, N., Johanson, M., & Bowling, M. (2015). [Solving heads-up limit texas hold'em](http://johanson.ca/publications/poker/2015-ijcai-cfrplus/2015-ijcai-cfrplus.pdf) [^Tammelin2015]
     -   Burch, N., Moravcik, M., & Schmid, M. (2019). [Revisiting CFR+ and alternating updates](https://www.jair.org/index.php/jair/article/view/11370). [^Burch2019]
+    -   Brown, N. & Sandholm, T. (2019). [Solving imperfect-information games via discounted regret minimization](https://arxiv.org/abs/1809.04040). [^Brown2019SIIGa]
+        -   LCFR+ is worse than CFR+ or LCFR.
 -   Examples
     -   Czarnog&oacute;rski, K. (2018). [Counterfactual Regret Minimization: The core of poker AI beating professional players](https://int8.io/counterfactual-regret-minimization-for-poker-ai/).
     -   <https://github.com/tt293/medium-poker-ai/blob/master/part_7/exploitability_two_player_kuhn_poker.py>
@@ -2215,6 +2221,25 @@ $$ v(z) = \pi^{\sigma}_{-i}(z) \: u_{i}(z) $$
 
 TODO: explain CFR.
 
+The instantaneous regret is
+
+$$ r^{t}(I, a) = v^{\sigma^t}(I, a) - v^{\sigma^t}(I) $$
+
+The (cummulative) counterfactual regret
+
+$$ R^{t}(I, a) = \sum_{t=1}^{T} r^{t}(I, a) $$
+
+Similar to the single-node game discussed above, eq.\ $\eqref{eq:regret_matching}$,
+applying *regret matching* during training means to update strategies according to
+the following rule.
+
+$$ \sigma^{t+1}(I, a) \equiv \frac{ R^{t}_{+}(I, a) }{ \sum_{b \in A} R^{t}_{+}(I, b) } \label{eq:regret_matching_cfr} $$
+
+The average strategy is
+
+$$ \bar{\sigma}^{T}(I, a) = \sum_{t=1}^{T} \frac{\pi^{t}_{i}(I) \: \sigma^{t}(I, a) }{\pi^{t}_{i}(I)} $$
+
+[^Brown2019SIIGa]: @Brown_2019_Solving_imperfect_information_games_via_discounted\.
 [^Brown2020thesisp6]: @Brown_2020_Equilibrium_finding_for_large_adversarial\, p. 6.
 [^Burch2019]: @Burch_2019_Revisiting_CFR_and_alternating_updates\.
 [^Tammelin2014]: @Tammelin_2014_Solving_large_imperfect_information_games_using\.
@@ -2313,8 +2338,7 @@ $$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i})
     -   Brown, N. & Sandholm, T. (2018). [Superhuman AI for heads-up no-limit poker: Libratus beats top professionals](https://www.science.org/doi/10.1126/science.aao1733). [^Brown2018Libratus]
         -   bet and card abstraction
         -   MCCFR used to find a solution of the abstracted game: blueprint
-    -   Brown, N. & Sandholm, T. (2019). [Solving imperfect-information games via discounted regret minimization](https://arxiv.org/abs/1809.04040). [^Brown2019SIIG]
-        -   LCFR+ is worse than CFR+ or LCFR.
+    -   Brown, N. & Sandholm, T. (2019). [Solving imperfect-information games via discounted regret minimization](https://arxiv.org/abs/1809.04040). [^Brown2019SIIGb]
     -   Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). [Deep counterfactual regret minimization](https://arxiv.org/abs/1811.00164). [^Brown2019DCRM]
 -   Pluribus
     -   Brown, N. & Sandholm, T. (2019). [Superhuman AI for multiplayer poker](https://www.science.org/doi/10.1126/science.aay2400). [^Brown2019Pluribus]
@@ -2334,7 +2358,7 @@ $$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i})
 [^Brown2018Libratus]: @Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker\.
 [^Brown2019Pluribus]: @Brown_2019_Superhuman_AI_for_multiplayer_poker\.
 [^Brown2019DCRM]: @Brown_2019_Deep_counterfactual_regret_minimization\.
-[^Brown2019SIIG]: @Brown_2019_Solving_imperfect_information_games_via_discounted\.
+[^Brown2019SIIGb]: @Brown_2019_Solving_imperfect_information_games_via_discounted\.
 [^Bowling2015a]: @Bowling_2015_Heads_up_limit_holdem_poker_is_solved\.
 [^Brown2020]: @Brown_2020_Combining_deep_reinforcement_learning_and_search\.
 [^Brown2020thesis]: @Brown_2020_Equilibrium_finding_for_large_adversarial\.

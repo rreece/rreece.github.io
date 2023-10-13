@@ -684,6 +684,9 @@ See also:
 -   Leon Henkin (1921-2006)
 -   Jaakko Hintikka (1929-2015)
 -   Wilfrid Hodges (b. 1941)
+    -   Hodges, W. (1985). [Truth in a structure](https://www.jstor.org/stable/4545041). [^Hodges1985]
+
+[^Hodges1985]: @Hodges_1985_Truth_in_a_structure\.
 
 
 ### Incompleteness
@@ -1532,7 +1535,6 @@ Click to show links
 
 -   [Affirming the consequent](https://en.wikipedia.org/wiki/Affirming_the_consequent)
 -   [Aristotle (384-322 BCE)](http://en.wikipedia.org/wiki/Aristotle)
--   [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)
 -   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift)
 -   [Brouwer, L.E.J. (1881-1966)](https://en.wikipedia.org/wiki/L._E._J._Brouwer)
 -   [Cantor, Georg (1845-1918)](https://en.wikipedia.org/wiki/Georg_Cantor)
