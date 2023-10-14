@@ -678,13 +678,18 @@ Free speech
 
 ### Introduction
 
--   John Milton. (1644). [*Areopagitica*](https://en.wikipedia.org/wiki/Areopagitica).
+-   John Milton (1608-1674)
+    -   Milton, J. (1644). [*Areopagitica*](https://en.wikipedia.org/wiki/Areopagitica).
+-   Voltaire (1694-1778)
 -   [First Amendment to the United States Constitution](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution) (1791)
--   Orwell, G. (1946). [Why I write](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/).
--   Orwell, G. (1946). [Politics and the English language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/).
+-   John Stuart Mill (1806-1873)
 -   [Oliver Wendell Holmes Jr.](https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes_Jr.) (1841-1935)
--   Christopher Hitchens. (2006). [Talk on free speech](https://www.youtube.com/watch?v=olefVguutfo) at University of Toronto's Hart House Debating Club.
-    -   "Don't take refuge in the false security of concensus."
+-   George Orwell (1903-1950)
+    -   Orwell, G. (1946). [Why I write](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/).
+    -   Orwell, G. (1946). [Politics and the English language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/).
+-   Christopher Hitchens (1941-2011)
+    -   Hitchens, C. (2006). [Talk on free speech](https://www.youtube.com/watch?v=olefVguutfo) at University of Toronto's Hart House Debating Club.
+        -   "Don't take refuge in the false security of concensus."
 
 
 ### Hate speech
@@ -695,6 +700,14 @@ Free speech
 ### Cancel culture
 
 -   NY Times Editorial Board. (2022). [America has a free speech problem](https://www.nytimes.com/2022/03/18/opinion/cancel-culture-free-speech-poll.html).
+
+John Stuart Mill, *On Liberty*:
+
+>   He who knows only his own side of the case, knows little of that.
+>   His reasons may be good, and no one may have been able to refute them.
+>   But if he is equally unable to refute the reasons on the opposite side;
+>   if he does not so much as know what they are, he has no ground for
+>   preferring either opinion.
 
 
 ### Copyright
@@ -720,65 +733,79 @@ Protests and (non-)violence
 Feminism
 --------------------------------------------------------------------------------
 
-Waves:
+### Women's suffrage movements (19th and early 20th centuries)
 
-1.  Women's suffrage movements (19th and early 20th centuries)
-    -   [Seneca Falls Convention](https://en.wikipedia.org/wiki/Seneca_Falls_Convention) (1848)
-        -   [Declaration of Sentiments](https://en.wikipedia.org/wiki/Declaration_of_Sentiments)
-    -   [*Nineteenth Amendment to the US Constitution*](https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution) (1920)
-    -   Intersection with the [Temperance movement in the US](https://en.wikipedia.org/wiki/Temperance_movement_in_the_United_States)
-        -   American Temperance Society (ATS)
-        -   Woman's Christian Temperance Union (WCTU)
-    -   [Margaret Sanger](https://en.wikipedia.org/wiki/Margaret_Sanger) (1879-1966)
-2.  Women's liberation movement (1960s-1980s)
-    -   Simone de Beauvoir (1908-1986)
-        -   de Beauvoir, S. (1949). *The Second Sex*.
-    -   Betty Friedan (1921-2006)
-        -   Friedan, B. (1963). *The Feminine Mystique*.
-    -   Gloria Steinem (b. 1934)
-        -   Steinem, G. (1969). [After black power, women's liberation](https://web.archive.org/web/20130101115011/http://nymag.com/news/politics/46802/).
-    -   FDA approves the first birth control pill, Enovid in 1960.
-    -   [*Civil Rights Act of 1964*](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964)
-    -   Thomson, J.J. (1971). [A defense of abortion](https://en.wikipedia.org/wiki/A_Defense_of_Abortion). [^Thomson1971]
-    -   [*Title IX of the Education Amendments of 1972*](https://en.wikipedia.org/wiki/Title_IX)
-    -   [*Roe v. Wade*](https://en.wikipedia.org/wiki/Roe_v._Wade) (1973)
-    -   [*Equal Credit Opportunity Act*](https://en.wikipedia.org/wiki/Equal_Credit_Opportunity_Act) (1974)
-3.  Third wave (1990s-2012)
-    -   Riot grrrl feminist punk subculture
-    -   In 1991, Anita Hill testified before the Senate Judiciary Committee that
-        Supreme Court nominee Clarence Thomas had sexually harassed her at work.
-    -   [*Planned Parenthood v. Casey*](https://en.wikipedia.org/wiki/Planned_Parenthood_v._Casey) (1991)
-    -   Pluralism and staunch disagreement among feminists.
+-   [Seneca Falls Convention](https://en.wikipedia.org/wiki/Seneca_Falls_Convention) (1848)
+    -   [Declaration of Sentiments](https://en.wikipedia.org/wiki/Declaration_of_Sentiments)
+-   [*Nineteenth Amendment to the US Constitution*](https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution) (1920)
+-   Intersection with the [Temperance movement in the US](https://en.wikipedia.org/wiki/Temperance_movement_in_the_United_States)
+    -   American Temperance Society (ATS)
+    -   Woman's Christian Temperance Union (WCTU)
+-   [Margaret Sanger](https://en.wikipedia.org/wiki/Margaret_Sanger) (1879-1966)
+
+
+### Women's liberation movement (1960s-1980s)
+
+-   Simone de Beauvoir (1908-1986)
+    -   de Beauvoir, S. (1949). *The Second Sex*.
+-   Betty Friedan (1921-2006)
+    -   Friedan, B. (1963). *The Feminine Mystique*.
+-   Gloria Steinem (b. 1934)
+    -   Steinem, G. (1969). [After black power, women's liberation](https://web.archive.org/web/20130101115011/http://nymag.com/news/politics/46802/).
+-   FDA approves the first birth control pill, Enovid in 1960.
+-   [*Civil Rights Act of 1964*](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964)
+-   Thomson, J.J. (1971). [A defense of abortion](https://en.wikipedia.org/wiki/A_Defense_of_Abortion). [^Thomson1971]
+-   [*Title IX of the Education Amendments of 1972*](https://en.wikipedia.org/wiki/Title_IX)
+-   [*Roe v. Wade*](https://en.wikipedia.org/wiki/Roe_v._Wade) (1973)
+-   [*Equal Credit Opportunity Act*](https://en.wikipedia.org/wiki/Equal_Credit_Opportunity_Act) (1974)
+
+[^Thomson1971]: @Thomson_1971_A_defense_of_abortion\.
+
+
+### Third wave (1990s-2012)
+
+-   Riot grrrl feminist punk subculture
+-   In 1991, Anita Hill testified before the Senate Judiciary Committee that
+    Supreme Court nominee Clarence Thomas had sexually harassed her at work.
     -   [Rebecca Walker](https://en.wikipedia.org/wiki/Rebecca_Walker) (b. 1969)
-        -   Walker, R. (1992). Becoming the third wave. (in response to Thomas's appointment)
-    -   [Feminist sex wars](https://en.wikipedia.org/wiki/Feminist_sex_wars)
-        -   Andrea Dworkin (1946-2005)
-        -   Alice Walker (b. 1944)
-    -   [Sex-positive feminism](https://en.wikipedia.org/wiki/Sex-positive_feminism)
-        -   Camille Paglia (b .1947)
-        -   Naomi Wolf (b. 1962)
-    -   [Intersectionality](https://en.wikipedia.org/wiki/Intersectionality) (1989)
-        -   bell hooks (1952-2021)
-        -   Kimberl&eacute; Crenshaw (b. 1959)
-    -   Skeptical feminism
-        -   [Janet Radcliffe Richards](https://en.wikipedia.org/wiki/Janet_Radcliffe_Richards) (b. 1944)
-        -   Richards, J.R. (1980). *The Sceptical Feminist: A Philosophical Enquiry*. [^Richards1980]
-        -   Richards, J.R. (1995). Why feminist epistemology isn't (and the implications for feminist jurisprudence). [^Richards1995]
+    -   Walker, R. (1992). Becoming the third wave. (in response to Thomas's appointment)
+-   [*Planned Parenthood v. Casey*](https://en.wikipedia.org/wiki/Planned_Parenthood_v._Casey) (1991)
+-   Pluralism and staunch disagreement among feminists.
+-   [Feminist sex wars](https://en.wikipedia.org/wiki/Feminist_sex_wars)
+    -   Andrea Dworkin (1946-2005)
+    -   Alice Walker (b. 1944)
+-   [Sex-positive feminism](https://en.wikipedia.org/wiki/Sex-positive_feminism)
+    -   Camille Paglia (b .1947)
+    -   Naomi Wolf (b. 1962)
     -   Snyder-Hall, R.C. (2010). [Third-wave feminism and the defense of "choice"](https://www.jstor.org/stable/25698533). [^SnyderHall2010]
-4.  Fourth wave (2012-present)
-    -   Use of social media; #MeToo movement
-    -   LGBTQ; Trans rights movement
-    -   [*Dobbs v. Jackson Women's Health Organization*](https://en.wikipedia.org/wiki/Dobbs_v._Jackson_Women%27s_Health_Organization) (2022)
+-   [Intersectionality](https://en.wikipedia.org/wiki/Intersectionality) (1989)
+    -   bell hooks (1952-2021)
+    -   Kimberl&eacute; Crenshaw (b. 1959)
+-   Skeptical feminism
+    -   [Janet Radcliffe Richards](https://en.wikipedia.org/wiki/Janet_Radcliffe_Richards) (b. 1944)
+    -   Richards, J.R. (1980). *The Sceptical Feminist: A Philosophical Enquiry*. [^Richards1980]
+    -   Richards, J.R. (1995). Why feminist epistemology isn't (and the implications for feminist jurisprudence). [^Richards1995]
+-   Gender and identity
+    -   Judith Butler (b. 1956)
+        -   *Gender Trouble* (1990)
+            -   Gender is performative
+
+[^Richards1980]: @Richards_1980_The_Sceptical_Feminist_A_Philosophical_Enquiry\.
+[^Richards1995]: @Richards_1995_Why_feminist_epistemology_isnt\.
+[^SnyderHall2010]: @Snyder_Hall_2010_Third_wave_feminism_and_the_defense_of_choice\.
+
+
+### Fourth wave (2012-present)
+
+-   Use of social media; #MeToo movement
+-   LGBTQ; Trans rights movement
+-   [*Dobbs v. Jackson Women's Health Organization*](https://en.wikipedia.org/wiki/Dobbs_v._Jackson_Women%27s_Health_Organization) (2022)
+
 
 See also:
 
 -   [Culture wars](naturalism.html#culture-wars)
 -   [Feminist epistemology](scientific-realism.html#feminist-epistemology)
-
-[^Richards1980]: @Richards_1980_The_Sceptical_Feminist_A_Philosophical_Enquiry\.
-[^Richards1995]: @Richards_1995_Why_feminist_epistemology_isnt\.
-[^SnyderHall2010]: @Snyder_Hall_2010_Third_wave_feminism_and_the_defense_of_choice\.
-[^Thomson1971]: @Thomson_1971_A_defense_of_abortion\.
 
 
 Regret
@@ -810,19 +837,27 @@ Compassion
 -   Forgiveness
 -   Empathy
 -   Growth mindset
--   Everett L. Worthington Jr.
--   Wade, N. (2020). [Forgive and be free](https://aeon.co/essays/forgiveness-therapy-can-free-you-from-the-hurts-of-the-past).
--   Kristin Neff - [Self-compassion](https://self-compassion.org/the-three-elements-of-self-compassion-2/).
--   Serena Chen. (2018). [Give yourself a break: The power of self-compassion](https://hbr.org/2018/09/give-yourself-a-break-the-power-of-self-compassion).
 -   Compassion in Buddhism
 -   Compassion in Schopenhauer's *On the Basis of Morality*
+-   Everett L. Worthington Jr.
+-   Self-compassion
+    -   Serena Chen. (2018). [Give yourself a break: The power of self-compassion](https://hbr.org/2018/09/give-yourself-a-break-the-power-of-self-compassion).
+    -   Wade, N. (2020). [Forgive and be free](https://aeon.co/essays/forgiveness-therapy-can-free-you-from-the-hurts-of-the-past).
+    -   Neff, K. (202X). [Self-compassion](https://self-compassion.org/the-three-elements-of-self-compassion-2/).
 -   Limits of compassion
     -   Ayn Rand (1905-1982)
     -   Prinz, J. (2011). Against empathy. [^Prinz2011]
     -   Jonathan Haidt (b.1963)
 -   Anger
     -   Callard, A. (2020). [The philosophy of anger](https://bostonreview.net/forum/agnes-callard-philosophy-anger/).
+
+More:
+
 -   Doug Polk interviewing Garrett Adelstein (2021): [Being gentle with yourself](https://www.youtube.com/watch?v=zS-Z2MDtlb8).
+
+See also:
+
+-   [Buddhism](human-condition.html#buddhism)
 
 [^Prinz2011]: @Prinz_2011_Against_empathy\.
 
@@ -856,7 +891,7 @@ Aesthetics
 
 -   Pettit, P. (1983). The possibility of aesthetic realism. [^Pettit1983]
 -   Semiotics
--   Roger Scruton
+-   Roger Scruton (1944-2022)
 -   Scruton, R. (2018). Why beauty matters. [^Scruton2018]
 
 [^Pettit1983]: @Pettit_1983_The_possibility_of_aesthetic_realism\.

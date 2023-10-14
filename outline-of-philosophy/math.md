@@ -33,6 +33,7 @@ TODO
     -   published a proof of the fundamental theorem of algebra (1797)
     -   The theorem states that the field of complex numbers is algebraically closed.
 -   [&Eacute;variste Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois) (1811-1832)
+-   [Arthur Cayley](https://en.wikipedia.org/wiki/Arthur_Cayley) (1821-1895)
 -   [Leopold Kronecker](https://en.wikipedia.org/wiki/Leopold_Kronecker) (1823-1891)
 -   arithmetic vs abstract algebra
 
@@ -67,6 +68,13 @@ TODO
 
 [^Hall2000]: @Hall_2000_An_Elementary_Introduction_to_Groups\.
 [^Zee2016]: @Zee_2016_Group_Theory_in_a_Nutshell_for_Physicists\.
+
+
+### Linear algebra
+
+-   Linear equations and transformation
+-   Vector spaces and dual spaces
+-   TODO
 
 
 ### More

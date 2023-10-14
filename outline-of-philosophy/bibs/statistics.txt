@@ -232,6 +232,7 @@ Mayo, D.G. (2021). Significance tests: Vitiated or vindicated by the replication
 Mayo, D.G. & Spanos, A. (2006). Severe testing as a basic concept in a Neyman-Pearson philosophy of induction. *British Journal for the Philosophy of Science*, 57(2), 323--357.
 Mayo, D.G. & Spanos, A. (2011). Error statistics. In *Philosophy of Statistics* (pp. 153--198). North-Holland.
 McDermott, J. (2019). When and why metaheuristics researchers can ignore "no free lunch" theorems. https://arxiv.org/abs/1906.03280
+McDougall, C., Conmy, A., Rushing, C., McGrath, T., & Nanda, N. (2023). Copy suppression: Comprehensively understanding an attention head. https://arxiv.org/abs/2310.04625
 McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). New York: Academic Press.
 Meehl, P.E. (1978). Theoretical risks and tabular asterisks: Sir Karl, Sir Ronald, and the slow progress of soft psychology. *Journal of Consulting and Clinical Psychology*, 46, 806--834.
 Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). Locating and editing factual associations in GPT https://arxiv.org/abs/2202.05262

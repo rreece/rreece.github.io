@@ -2004,6 +2004,7 @@ See also:
 -   Anthropic. (2022). [In-context learning and induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html).
 -   Gurnee, W. et al. (2023). [Finding neurons in a haystack: Case studies with sparse probing](https://arxiv.org/abs/2305.01610). [^Gurnee2023a]
 -   Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). [Locating and editing factual associations in GPT](https://arxiv.org/abs/2202.05262). [^Meng2023]
+-   McDougall, C., Conmy, A., Rushing, C., McGrath, T., & Nanda, N. (2023). [Copy suppression: Comprehensively understanding an attention head](https://arxiv.org/abs/2310.04625). [^McDougall2023]
 
 Linear probes:
 
@@ -2015,6 +2016,7 @@ Linear probes:
 [^Belinkov2022]: @Belinkov_2022_Probing_classifiers_Promises_shortcomings\.
 [^Gurnee2023a]: @Gurnee_2023_Finding_neurons_in_a_haystack_Case_studies\.
 [^Gurnee2023b]: @Gurnee_2023_Language_models_represent_space_and_time\.
+[^McDougall2023]: @McDougall_2023_Copy_suppression_Comprehensively_understanding\.
 [^Meng2023]: @Meng_2023_Locating_and_editing_factual_associations_in_GPT\.
 
 
@@ -2117,7 +2119,7 @@ At the end of training, the resulting recommended strategy with convergence boun
 is _not_ the final strategy used in training, $\sigma^{T}$,
 but the average strategy over all time steps: 
 
-$$ \bar{\sigma}^{T}(I, a) = \sum_{t=1}^{T} \frac{\pi^{t}_{i}(I) \: \sigma^{t}(I, a) }{\pi^{t}_{i}(I)} $$
+$$ \bar{\sigma}^{T}(a) = \frac{1}{T} \sum_{t=1}^{T} \sigma^{t}(a) $$
 
 TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equilibrium.
 
