@@ -2265,6 +2265,7 @@ $$ \bar{\sigma}^{T}(I, a) = \sum_{t=1}^{T} \frac{\pi^{t}_{i}(I) \: \sigma^{t}(I,
 -   MCCFR Ph.D. theses
     -   Lanctot, M. (2013). [*Monte Carlo Sample and Regret Minimization for Equilibrium Computation and Decision-Making in Large Extensive Form Games*](http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf). [^Lanctot2013]
     -   Gibson, R. (2014). [*Regret minimization in games and the development of champion multiplayer computer poker-playing agents*](https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf). [^Gibson2014]
+    -   Johanson, M. (2016). [*Robust Strategies and Counter-Strategies: From Superhuman to Optimal Play*](http://johanson.ca/publications/theses/2016-johanson-phd-thesis/2016-johanson-phd-thesis.pdf). [^Johanson2016]
     -   Burch, N. (2018). [*Time and Space: Why imperfect information games are hard*](https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf). [^Burch2018]
 
 TODO: explain MCCFR.
@@ -2277,6 +2278,7 @@ $$ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] 
 [^Burch2018]: @Burch_2018_Time_and_Space_Why_imperfect_information_games\.
 [^Gibson2014]: @Gibson_2014_Regret_minimization_in_games_and_the_development\.
 [^Johanson2012]: @Johanson_2012_Efficient_Nash_equilibrium_approximation_through\.
+[^Johanson2016]: @Johanson_2016_Robust_Strategies_and_Counter_Strategies_From\.
 [^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
 [^Lanctot2013]: @Lanctot_2013_Monte_Carlo_Sample_and_Regret_Minimization\.
 [^Li2020]: @Li_2020_Regret_minimization_via_novel_vectorized_sampling\.
