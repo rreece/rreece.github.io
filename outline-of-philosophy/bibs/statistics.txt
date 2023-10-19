@@ -217,6 +217,7 @@ Lisy, V. & Bowling, M. (2016). Equilibrium approximation quality of current no-l
 Liu, H., Dai, Z., So, D.R., & Le, Q.V. (2021). Pay attention to MLPs. https://arxiv.org/abs/2105.08050
 Liu, Y. et al. (2019). RoBERTa: A robustly optimized BERT pretraining approach. https://arxiv.org/abs/1907.11692
 Liu, Y. et al. (2021). A survey of visual transformers. https://arxiv.org/abs/2111.06091
+Liu, Z., Lin, Y., & Sun, M. (2023). *Representation Learning for Natural Language Processing*. Springer. https://link.springer.com/book/10.1007/978-981-99-1600-9
 Liu, Z., Madhavan, V., & Tegmark, M. (2022). AI Poincare 2: Machine learning conservation laws from differential equations. https://arxiv.org/abs/2203.12610
 Lovering, C. & Pavlick, E. (2022). Unit testing for concepts in neural networks. *Transactions of the Association for Computational Linguistics*, 10, 1193--1208. https://aclanthology.org/2022.tacl-1.69/
 Lu, Z., Pu, H., Wang, F., Hu, Z., & Wang, L. (2017). The expressive power of neural networks: A view from the width. *Advances in Neural Information Processing Systems*, 30. https://proceedings.neurips.cc/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf
@@ -278,7 +279,7 @@ Peng, B. et al. (2023). RWKV: Reinventing RNNs for the Transformer Era. https://
 Perone, C.S. (2018). NLP word representations and the Wittgenstein philosophy of language. http://blog.christianperone.com/2018/05/nlp-word-representations-and-the-wittgenstein-philosophy-of-language/
 Peters, J., Janzing, D., & Sch{\:o}lkopf, B. (2017). *Elements of Causal Inference*. MIT Press.
 Phuong, M. & Hutter, M. (2022). Formal algorithms for transformers. https://arxiv.org/abs/2207.09238
-Ponsen, M., De Jong, S., & Lanctot, M. (2011). Computing approximate nash equilibria and robust best-responses using sampling. *Journal of Artificial Intelligence Research*, 42, 575--605. https://arxiv.org/abs/1401.4591
+Ponsen, M., De Jong, S., & Lanctot, M. (2011). Computing approximate Nash equilibria and robust best-responses using sampling. *Journal of Artificial Intelligence Research*, 42, 575--605. https://arxiv.org/abs/1401.4591
 Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf [(Paper on the GPT model by OpenAI)] 
 Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf [(Paper on the GPT-2 model by OpenAI)] 
 Rae, J.W. et al. (2022). Scaling language models: Methods, analysis & insights from training Gopher. https://arxiv.org/abs/2112.11446
@@ -355,7 +356,7 @@ van Handel, R. (2016). Probability in high dimensions. https://web.math.princeto
 Vapnik, V., Levin, E., & LeCun, Y. (1994). Measuring the VC-dimension of a learning machine. *Neural Computation*, 6(5), 851--876.
 Vaswani, A. et al. (2017). Attention is all you need. *Advances in Neural Information Processing Systems*, 2017, 5998--6008. https://arxiv.org/abs/1706.03762
 Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]
-Vershynin, R. (2018). *High-Dimensional Probability:An introduction with applications in data science*. Cambridge University Press. https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf
+Vershynin, R. (2018). *High-Dimensional Probability: An Introduction with Applications in Data Science*. Cambridge University Press. https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf
 Wainer, H. (2007). The most dangerous equation. *American Scientist*, 95, 249--256. https://sites.stat.washington.edu/people/peter/498.Sp16/Equation.pdf
 Wakefield, J. (2013). *Bayesian and Frequentist Regression Methods*. Springer.
 Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482. https://www.ams.org/journals/tran/1943-054-03/S0002-9947-1943-0012401-3/S0002-9947-1943-0012401-3.pdf

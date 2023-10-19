@@ -365,12 +365,12 @@ Fisher:
     -   James, W. & Stein, C. (1961). [Estimation with quadratic loss](https://projecteuclid.org/accountAjax/Download?urlId=bsmsp%2F1200512173&downloadType=presschapter&isResultClick=True). [^James1961]
     -   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
 -   Probability in high dimensions [^vanHandel2016]
--   *High-Dimensional Probability:An introduction with applications in data science* [^Vershynin2018]
+-   Vershynin, R. (2018). *High-Dimensional Probability: An Introduction with Applications in Data Dcience*. [^Vershynin2018]
 
 [^James1961]: @James_1961_Estimation_with_quadratic_loss\.
 [^Stein1956]: @Stein_1956_Inadmissibility_of_the_usual_estimator\.
 [^vanHandel2016]: @vanHandel_2016_Probability_in_high_dimensions\.
-[^Vershynin2018]: @Vershynin_2018_High_Dimensional_ProbabilityAn_introduction\.
+[^Vershynin2018]: @Vershynin_2018_High_Dimensional_Probability_An_Introduction\.
 
 
 Statistical models
@@ -1812,10 +1812,12 @@ Resources:
     -   Hutchins, J. (2000). [Yehoshua Bar-Hillel: A philosophers' contribution to machine translation](https://web.archive.org/web/20190702192948/http://www.hutchinsweb.me.uk/Bar-Hillel-2000.pdf). [^Hutchins2000]
 -   Textbooks
     -   Jurafsky, D. & Martin, J.H. (2022). [*Speech and Language Processing: An introduction to natural language processing, computational linguistics, and speech recognition*](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf). [^Jurafsky2022]
+    -   Liu, Z., Lin, Y., & Sun, M. (2023). [*Representation Learning for Natural Language Processing*](https://link.springer.com/book/10.1007/978-981-99-1600-9). [^Liu2023]
 
 [^Firth1957]: @Firth_1957_A_synopsis_of_linguistic_theory_1930_1955\.
 [^Hutchins2000]: @Hutchins_2000_Yehoshua_Bar_Hillel_A_philosophers_contribution\.
 [^Jurafsky2022]: @Jurafsky_2022_Speech_and_Language_Processing_An_introduction\.
+[^Liu2023]: @Liu_2023_Representation_Learning_for_Natural_Language\.
 [^Nirenburg1996]: @Nirenburg_1996_Bar_Hillel_and_Machine_Translation_Then_and_Now\.
 
 
@@ -2143,6 +2145,7 @@ TODO: explain the convergence of $\bar{\sigma}^{t}$ to an $\varepsilon$-Nash equ
     -   CFR differs from traditional RL algorithms in that it does not try to
         maximize expected return. Instead, it minimizes exploitability. CFR does not use the MDP framework; instead, it uses extensive-form games
         ([source: Quora](https://www.quora.com/What-are-the-connection-and-difference-between-reinforcement-learning-and-Counterfactual-Regret-Minimization)).
+    -   [Johanson's explanation on Quora](https://www.quora.com/What-is-an-intuitive-explanation-of-counterfactual-regret-minimization).
 -   CFR+
     -   Tammelin, O. (2014). [Solving large imperfect information games using CFR+](https://arxiv.org/abs/1407.5042). [^Tammelin2014]
     -   Tammelin, O., Burch, N., Johanson, M., & Bowling, M. (2015). [Solving heads-up limit texas hold'em](http://johanson.ca/publications/poker/2015-ijcai-cfrplus/2015-ijcai-cfrplus.pdf) [^Tammelin2015]
@@ -2310,9 +2313,13 @@ Note that in zero-sum games, when summing over players, the second terms in Nash
 
 $$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i})  \label{eq:average_exploitability} $$
 
+In two-player games:
+
+$$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma_{2}) + u_{2}(\sigma_{1}, \mathrm{BR}(\sigma_{1})) \Big)  \label{eq:average_exploitability_two_player} $$
+
 -   Johanson, M., Waugh, K., Bowling, M., & Zinkevich, M. (2011). [Accelerating best response calculation in large extensive games](http://www.cs.cmu.edu/~kwaugh/publications/johanson11.pdf). [^Johanson2011]
     -   Evaluates range vs range rewards in $O(n \log n)$ + $O(n)$ instead of $O(n^2)$.
--   Ponsen, M., De Jong, S., & Lanctot, M. (2011). [Computing approximate nash equilibria and robust best-responses using sampling](https://arxiv.org/abs/1401.4591). [^Ponsen2011]
+-   Ponsen, M., De Jong, S., & Lanctot, M. (2011). [Computing approximate Nash equilibria and robust best-responses using sampling](https://arxiv.org/abs/1401.4591). [^Ponsen2011]
 -   Lisy, V. & Bowling, M. (2016). [Equilibrium approximation quality of current no-limit poker bots](https://arxiv.org/abs/1612.07547). [^Lisy2016]
 -   Timbers, F. (2020). [Approximate exploitability: Learning a best response in large games](https://arxiv.org/abs/2004.09677). [^Timbers2020]
 
@@ -2320,7 +2327,7 @@ $$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i})
 [^Lisy2016]: @Lisy_2016_Equilibrium_approximation_quality_of_current_no\.
 [^Lisy2016p2]: @Lisy_2016_Equilibrium_approximation_quality_of_current_no\, p. 2.
 [^NashConv]: See NashConv exploitability defined in @Lanctot_2017_A_unified_game_theoretic_approach_to_multiagent\.
-[^Ponsen2011]: @Ponsen_2011_Computing_approximate_nash_equilibria_and_robust\.
+[^Ponsen2011]: @Ponsen_2011_Computing_approximate_Nash_equilibria_and_robust\.
 [^Timbers2020]: @Timbers_2020_Approximate_exploitability_Learning_a_best\.
 [^Timbers2020p3]: @Timbers_2020_Approximate_exploitability_Learning_a_best\, p. 3.
 
