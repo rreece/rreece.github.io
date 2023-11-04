@@ -119,6 +119,7 @@ Artificial intelligence
 -   Future of Life Institute. (2023). [Policymaking in the Pause: What can policymakers do now to combat risks from advanced AI systems?](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf).
 -   Altman, S. (2023). [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond).
 -   Bubeck, S. et al. (2023). [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712). [^Bubeck2023b]
+-   Maslej, N. et al. (2023). [The AI Index 2023 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf). [^Maslej2023]
 
 See also:
 
@@ -130,6 +131,7 @@ See also:
 [^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
 [^Bubeck2023b]: @Bubeck_2023_Sparks_of_Artificial_General_Intelligence_Early\.
 [^Marcus2018]: @Marcus_2018_Deep_learning_A_critical_appraisal\.
+[^Maslej2023]: HERE
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 [^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
 [^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.

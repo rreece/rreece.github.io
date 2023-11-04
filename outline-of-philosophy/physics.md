@@ -1165,6 +1165,8 @@ See also:
     -   Freed, D.S. & Moore, G.W. (2012). [Twisted equivariant matter](https://arxiv.org/abs/1208.5055). [^Freed2012]
     -   Geiko, R. & Moore, G.W. (2020). [Dyson's classification and real division superalgebras](https://arxiv.org/abs/2010.01675). [^Geiko2020]
     -   Baez, J.C. (2020). [The tenfold way](https://arxiv.org/abs/2011.14234). [^Baez2020]
+        -   Associative real super division algebras
+        -   Morita equivalence
 -   Non-commutative geometry
     -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985b]
 

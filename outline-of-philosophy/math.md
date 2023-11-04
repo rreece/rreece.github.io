@@ -74,7 +74,7 @@ TODO
 
 -   Linear equations and transformation
 -   Vector spaces and dual spaces
--   TODO
+-   Axler, S. (2024). [*Linear Algebra Done Right*](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf).
 
 
 ### More
@@ -848,7 +848,7 @@ Grothendieck:
 -   [Intuitionistic type theory](https://en.wikipedia.org/wiki/Intuitionistic_type_theory)
     -   Per Martin-L&ouml;f (b. 1942)
 -   [Homotopy type theory](https://ncatlab.org/nlab/show/homotopy+type+theory) - nLab
--   [The Homotopy type theory book](https://homotopytypetheory.org/book/) (2013)
+-   [*Homotopy Type Theory: Univalent Foundations of Mathematics*](https://homotopytypetheory.org/book/) (2013)
 
 
 ### Cobordism hypothesis
