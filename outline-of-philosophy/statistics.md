@@ -149,6 +149,7 @@ See also:
     -   [teaching statistics](http://bactra.org/notebooks/teaching-statistics.html)
     -   [information geometry](http://bactra.org/notebooks/info-geo.html)
     -   [*Advanced Data Analysis from an Elementary Point of View*](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
+-   Gelman, A. & Vehtari, A. (2021). [What are the most important statistical ideas of the past 50 years?](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1938081) [^Gelman2021]
 -   Taboga, M. (2022). [statlect.com](https://www.statlect.com/).
 -   Otsuka, J. (2023). *Thinking About Statistics: The Philosophical Foundations*. [^Otsuka2023]
     -   Otsuka, J. (2023). Talk: [What machine learning tells us about the mathematical structures of concepts](https://www.youtube.com/watch?v=Lqt7TgYk8rU).
@@ -158,6 +159,7 @@ See also:
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\.
 [^Cox2006]: @Cox_2006_Principles_of_Statistical_Inference\.
 [^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
+[^Gelman2021]: @Gelman_2021_What_are_the_most_important_statistical_ideas\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
 [^Lista2016a]: @Lista_2016_Statistical_Methods_for_Data_Analysis_in_Particle\.
 [^Lista2016b]: @Lista_2016_Practical_statistics_for_particle_physicists\.

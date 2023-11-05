@@ -132,6 +132,7 @@ Gandenberger, G. (2015). A new proof of the likelihood principle. *British Journ
 Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 16(7), 1--22. https://quod.lib.umich.edu/p/phimp/3521354.0016.007/--why-i-am-not-a-likelihoodist
 Gao, Y. & Chaudhari, P. (2020). An information-geometric distance on the space of tasks. https://arxiv.org/abs/2011.00613
 Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
+Gelman, A. & Vehtari, A. (2021). What are the most important statistical ideas of the past 50 years? *Journal of the American Statistical Association*, 116, 2087--2097. https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1938081
 Ghosh, N. & Belkin, M. (2022). A universal trade-off between the model size, test loss, and training loss of linear predictors. https://arxiv.org/abs/2207.11621
 Gibson, R. (2014). *Regret minimization in games and the development of champion multiplayer computer poker-playing agents*. University of Alberta. https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf [(Ph.D. thesis)]
 Goldreich, O. & Ron, D. (1997). On universal learning algorithms. *Information Processing Letters*, 63(3), 131--136. https://www.wisdom.weizmann.ac.il/~oded/p_ul.html
@@ -301,7 +302,7 @@ Ronen, M., Finder, S.E., & Freifeld, O. (2022). DeepDPM: Deep clustering with an
 Roughgarden, T. (2016). *Twenty Lectures on Algorithmic Game Theory*. Cambridge University Press.
 Royall, R. (1997). *Statistical Evidence: A likelihood paradigm*. CRC Press.
 Rozeboom, W.W. (1960). The fallacy of the null-hypothesis significance test. *Psychological Bulletin*, 57, 416.
-Rubin, D. B. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies. *Journal of educational Psychology*, 66, 688. https://psycnet.apa.org/fulltext/1975-06502-001.pdf
+Rubin, D.B. (1974). Estimating causal effects of treatments in randomized and nonrandomized studies. *Journal of educational Psychology*, 66, 688. https://psycnet.apa.org/fulltext/1975-06502-001.pdf
 Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533--536.
 Salmon, W.C. (1963). On vindicating induction. *Philosophy of Science*, 30, 252--261.
 Salmon, W.C. (1966). *The Foundations of Scientific Inference*. University of Pittsburgh Press.
