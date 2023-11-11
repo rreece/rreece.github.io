@@ -958,6 +958,7 @@ Criticisms of naturalism
     -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/).
 -   Decolonising science
     -   Descoping the success/objectivity of science
+    -   [Decolonization of knowledge](https://en.wikipedia.org/wiki/Decolonization_of_knowledge)
     -   Prescod-Weinstein, C. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
     -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific). *American Scientist*. [^PrescodWeinstein2017]
     -   Roy, R.D. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).

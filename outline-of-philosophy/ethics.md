@@ -499,6 +499,7 @@ Political philosophy
 -   Feudalism
 -   Mercantilism
 -   Liberalism
+    -   [Alexis de Tocqueville](https://en.wikipedia.org/wiki/Alexis_de_Tocqueville) (1805-1859)
     -   [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) (1806-1873)
     -   [Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises) (1881-1973)
     -   [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek) (1899-1992)

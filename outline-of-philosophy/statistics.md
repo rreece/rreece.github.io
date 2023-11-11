@@ -366,7 +366,7 @@ Fisher:
     -   Stein, C. (1956). Inadmissibility of the usual estimator for the mean of a multivariate normal distribution. [^Stein1956]
     -   James, W. & Stein, C. (1961). [Estimation with quadratic loss](https://projecteuclid.org/accountAjax/Download?urlId=bsmsp%2F1200512173&downloadType=presschapter&isResultClick=True). [^James1961]
     -   [Proof of Stein's example](https://en.wikipedia.org/wiki/Proof_of_Stein%27s_example)
--   Probability in high dimensions [^vanHandel2016]
+-   van Handel, R. (2016). [Probability in high dimensions](https://web.math.princeton.edu/~rvan/APC550.pdf). [^vanHandel2016]
 -   Vershynin, R. (2018). *High-Dimensional Probability: An Introduction with Applications in Data Dcience*. [^Vershynin2018]
 
 [^James1961]: @James_1961_Estimation_with_quadratic_loss\.
