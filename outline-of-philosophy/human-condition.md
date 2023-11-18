@@ -1956,9 +1956,11 @@ Biology
 -   DNA
 -   [Drew Berry: Animations of unseeable biology](https://www.youtube.com/watch?v=WFCvkkDSfIU)
 -   Epigenetics
+-   Marletto, C. (2015). [Constructor theory of life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4345487/). [^Marletto2015]
 
 ![Animation by Drew Berry of DNA replication, where a helicase enzyme unzips DNA, and DNA polymerase synthesizes new strands with complimentary nucleotides.](img/drew-berry-dna-animation.gif){#fig:drew-berry-dna-animation}
 
+[^Marletto2015]: @Marletto_2015_Constructor_theory_of_life\.
 [^Schrodinger1944]: @Schrodinger_1944_What_Is_Life_The_Physical_Aspect_of_the_Living\.
 
 
