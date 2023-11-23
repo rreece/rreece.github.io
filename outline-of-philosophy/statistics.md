@@ -575,6 +575,7 @@ See also:
     -   Common formula for variance of unbiased and efficient estimators
     -   Proof in Rice [^Rice2007p300]
     -   Cranmer: [Cram&eacute;r-Rao bound](http://theoryandpractice.org/stats-ds-book/statistics/cramer-rao-bound.html)
+    -   Nielsen, F. (2013). [Cramer-Rao lower bound and information geometry](https://arxiv.org/abs/1301.3578). [^Nielsen2013]
     -   Under some reasonable conditions, one can show that MLEs are efficient and unbiased. TODO: find ref.
 -  [Fisher information matrix](https://en.wikipedia.org/wiki/Fisher_information)
     -   "is the key part of the proof of Wilks' theorem, which allows confidence region estimates for maximum likelihood estimation (for those conditions for which it applies) without needing the Likelihood Principle."
@@ -611,6 +612,7 @@ See also:
     @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
 [^James2006p234again]: @James_2006_Statistical_Methods_in_Experimental_Particle\, p. 234.
 [^James1975]: @James_1975_MINUIT_A_system_for_function_minimization\.
+[^Nielsen2013]: @Nielsen_2013_Cramer_Rao_lower_bound_and_information_geometry\.
 [^Rice2007p300]: @Rice_2007_Mathematical_Statistics_and_Data_Analysis\, p. 300--2.
 [^Tegmark1997]: @Tegmark_1997_Karhunen_Loeve_eigenvalue_problems_in_cosmology\.
 [^Wainer2007]: @Wainer_2007_The_most_dangerous_equation\.
@@ -1922,6 +1924,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Joshi, C. (2020). [Transformers are GNNs](https://graphdeeplearning.github.io/post/transformers-are-gnns/).
     -   Lakshmanamoorthy, R. (2020). [A complete learning path to transformers (with guide to 23 architectures)](https://analyticsindiamag.com/a-complete-learning-path-to-transformers/).
     -   Zaheer, M. et al. (2020). [Big Bird: Transformers for longer sequences](https://arxiv.org/abs/2007.14062). [^Zaheer2020]
+    -   Edelman, B.L., Goel, S., Kakade, S., & Zhang, C. (2021). [Inductive biases and variable creation in self-attention mechanisms](https://arxiv.org/abs/2110.10090). [^Edelman2021]
     -   Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2022). [Efficient transformers: A survey](https://arxiv.org/abs/2009.06732). [^Tay2022]
     -   Phuong, M. & Hutter, M. (2022). [Formal algorithms for transformers](https://arxiv.org/abs/2207.09238). [^Phuong2022]
     -   Chowdhery, A. et al. (2022). [PaLM: Scaling language modeling with pathways](https://arxiv.org/abs/2204.02311). [^Chowdhery2022]
@@ -1949,6 +1952,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
 [^Chowdhery2022]: @Chowdhery_2022_PaLM_Scaling_language_modeling_with_pathways\.
 [^Dao2022]: @Dao_2022_FlashAttention_Fast_and_memory_efficient_exact\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
+[^Edelman2021]: @Edelman_2021_Inductive_biases_and_variable_creation_in_self\.
 [^Gu2021]: @Gu_2021_Efficiently_modeling_long_sequences\.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Lewis2019]: @Lewis_2019_BART_Denoising_sequence_to_sequence_pre_training\.
