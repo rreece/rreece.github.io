@@ -148,6 +148,7 @@ Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). Why do tree-based models st
 Gu, A., Goel, K., & R{\'e}, C. (2021). Efficiently modeling long sequences with structured state spaces. https://arxiv.org/abs/2111.00396
 Gurnee, W. et al. (2023). Finding neurons in a haystack: Case studies with sparse probing. https://arxiv.org/abs/2305.01610
 Gurnee, W. & Tegmark, M. (2023). Language models represent space and time. https://arxiv.org/abs/2310.02207
+Habara, K., Fukuda, E.H., & Yamashita, N. (2023). Convergence analysis and acceleration of the smoothing methods for solving extensive-form games. https://arxiv.org/abs/2303.11046
 Haber, E. & Ruthotto, L. (2017). Stable architectures for deep neural networks. https://arxiv.org/abs/1705.03341
 Hacking, I. (1965). *Logic of Statistical Inference*. Cambridge University Press.
 Hacking, I. (1971). Jacques Bernoulli's Art of conjecturing. *The British Journal for the Philosophy of Science*, 22, 209--229.

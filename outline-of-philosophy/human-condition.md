@@ -230,6 +230,7 @@ Abrahamism
 -   [Abraham](https://en.wikipedia.org/wiki/Abraham) - considered mythical
 -   [Moses](https://en.wikipedia.org/wiki/Moses) - considered mythical
 -   [Isaiah](https://en.wikipedia.org/wiki/Isaiah) (c. 8th to 7th century BCE)
+-   [Maccabees](https://en.wikipedia.org/wiki/Maccabees) (c. 1st century BCE)
 -   [Maimonides](https://en.wikipedia.org/wiki/Maimonides) (c. 1135-1204 CE)
 
 #### Criticism

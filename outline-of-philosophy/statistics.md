@@ -2271,6 +2271,7 @@ $$ \bar{\sigma}^{T}(I, a) = \sum_{t=1}^{T} \frac{\pi^{t}_{i}(I) \: \sigma^{t}(I,
         -   Variants of chance sampling with single or vector opponent actions.
     -   Schmid, M. et al. (2019). [Variance reduction in Monte Carlo counterfactual regret minimization (VR-MCCFR) for extensive form games using baselines](https://ojs.aaai.org/index.php/AAAI/article/view/4048/3926). [^Schmid2019]
     -   Li, H. et al. (2020). [Regret minimization via novel vectorized sampling policies and exploration](http://aaai-rlg.mlanctot.info/2020/papers/AAAI20-RLG_paper_14.pdf). [^Li2020]
+    -   Habara, K., Fukuda, E.H., & Yamashita, N. (2023). [Convergence analysis and acceleration of the smoothing methods for solving extensive-form games](https://arxiv.org/abs/2303.11046). [^Habara2023]
 -   MCCFR Ph.D. theses
     -   Lanctot, M. (2013). [*Monte Carlo Sample and Regret Minimization for Equilibrium Computation and Decision-Making in Large Extensive Form Games*](http://mlanctot.info/files/papers/PhD_Thesis_MarcLanctot.pdf). [^Lanctot2013]
     -   Gibson, R. (2014). [*Regret minimization in games and the development of champion multiplayer computer poker-playing agents*](https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf). [^Gibson2014]
@@ -2286,6 +2287,7 @@ $$ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] 
 [^Burch2012]: @Burch_2012_Efficient_Monte_Carlo_counterfactual_regret\.
 [^Burch2018]: @Burch_2018_Time_and_Space_Why_imperfect_information_games\.
 [^Gibson2014]: @Gibson_2014_Regret_minimization_in_games_and_the_development\.
+[^Habara2023]: @Habara_2023_Convergence_analysis_and_acceleration\.
 [^Johanson2012]: @Johanson_2012_Efficient_Nash_equilibrium_approximation_through\.
 [^Johanson2016]: @Johanson_2016_Robust_Strategies_and_Counter_Strategies_From\.
 [^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
