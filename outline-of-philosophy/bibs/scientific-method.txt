@@ -30,6 +30,7 @@ Douven, I. (2011). Abduction. *Stanford Encyclopedia of Philosophy*. http://plat
 Doyle, A.C. (1890). *The Sign of the Four*.
 Earman, J. (2000). *Hume's Abject Failure: The argument against miracles*. Oxford University Press.
 Earnshaw, E. (2017). How I solved Hume's problem and why nobody will believe me. *Philosophy Now*. https://philosophynow.org/issues/119/How_I_Solved_Humes_Problem_and_Why_Nobody_Will_Believe_Me
+Eells, E. (1988). On the alleged impossibility of inductive probability. *The British Journal for the Philosophy of Science*, 39, 111--116. https://fitelson.org/probability/eells_pm.pdf
 Einstein, A. (1922). Geometry and Experience. London: Methuen & Co. http://www-history.mcs.st-andrews.ac.uk/Extras/Einstein_geometry.html [Address given to the Prussian Academy of Sciences on January 27, 1921]
 Feyerabend, P. (1974). *Against Method*. Verso.
 Feynman, R.P. (1974). Cargo cult science. http://calteches.library.caltech.edu/51/2/CargoCult.pdf
@@ -74,6 +75,7 @@ Papineau, D. (2012). *Philosophical Devices: Proofs, Probabilities, Possibilitie
 Pettigrew, R. & Weisberg, J. (2019). *The Open Handbook of Formal Epistemology*. PhilPapers. https://jonathanweisberg.org/pdf/open-handbook-of-formal-epistemology.pdf
 Pigliucci, M. (2010). *Nonsense on Stilts: How to Tell Science From Bunk*. Chicago University Press.
 Pigliucci, M. & Boudry, M. (2013). *Philosophy of Pseudoscience: Reconsidering the Demarcation Problem*. The University of Chicago Press.
+Popper, K. & Miller, D. (1983). A proof of the impossibility of inductive probability. *Nature*, 302, 687--688. https://www.nature.com/articles/302687a0
 Popper, K.R. (2002). *The Logic of Scientific Discovery*. Routledge. [(Originally published in 1934 as \emph{Logik der Forschung} and first published in English in 1959)]
 Prado, I. (2006). Ionian enchantment: A brief history of scientific naturalism. http://www.naturalism.org/worldview-naturalism/history-of-naturalism
 Quine, W.V.O. (1951). Two dogmas of empiricism. *The Philosophical Review*, 60, 20--43.

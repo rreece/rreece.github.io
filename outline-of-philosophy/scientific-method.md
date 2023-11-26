@@ -1188,6 +1188,9 @@ Reichenbach:
     -   Aumann, R.J. (1976). Agreeing to disagree. [^Aumann1976]
     -   Geanakoplos, J.D. & Polemarchakis, H.M. (1982). We can't disagree forever. [^Geanakoplos1982]
     -   Aaronson, S. (2005). [The complexity of agreement](https://www.scottaaronson.com/papers/agree-econ.pdf). [^Aaronson2005]
+-   Popper-Miller theorem
+    -   Popper, K. & Miller, D. (1983). [A proof of the impossibility of inductive probability](https://www.nature.com/articles/302687a0). [^Popper1983]
+    -   Eells, E. (1988). [On the alleged impossibility of inductive probability](https://fitelson.org/probability/eells_pm.pdf). [^Eells1988]
 -   Sankey, H. (2008). *Scientific Realism and the Rationality of Science*. [^Sankey2008p79]
 -   Vickers, J.M. (2013). [Oxford Bibliography on Inductive Reasoning](https://www.oxfordbibliographies.com/view/document/obo-9780195396577/obo-9780195396577-0171.xml).
 
@@ -1204,9 +1207,11 @@ See also:
 [^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
 [^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
 [^Earman2000p25]: @Earman_2000_Humes_Abject_Failure_The_argument_against\, p. 25.
+[^Eells1988]: @Eells_1988_On_the_alleged_impossibility_of_inductive\.
 [^Geanakoplos1982]: @Geanakoplos_1982_We_cant_disagree_forever\.
 [^Mill1843]: @Mill_1843_A_System_of_Logic\.
 [^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
+[^Popper1983]: @Popper_1983_A_proof_of_the_impossibility_of_inductive\.
 [^Reichenbach1938a]: @Reichenbach_1938_Experience_and_Prediction and
     @Reichenbach_1940_On_the_justification_of_induction\.
     TODO: Break up and go through these references.
