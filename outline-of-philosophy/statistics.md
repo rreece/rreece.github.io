@@ -9,6 +9,12 @@ What are the caveats?
 Can inductive inference be automated?
 How does machine learning work?
 
+>   All knowledge is, in final analysis, history.
+>   All sciences are, in the abstract, mathematics.
+>   All judgements are, in their rationale, statistics.
+>
+>   -- C. R. Rao
+
 
 <!-- PAGETOC -->
 
