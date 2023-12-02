@@ -1986,6 +1986,7 @@ Gravity and cosmology
 ### Spacetime
 
 -   Substantivalism vs relationism
+-   Berkeley, G. (1721). *De Motu*.
 -   Leibniz, Mach, Barbour
 -   Romero, G.E. (2015). On the ontology of spacetime: Substantivalism, relationism, eternalism, and emergence. [^Romero2015]
 -   Video: [A mock debate on time with Julian Barbour and Tim Maudlin](https://www.youtube.com/watch?v=lKIjXJZASCg&ab_channel=FQXi) (2011).
