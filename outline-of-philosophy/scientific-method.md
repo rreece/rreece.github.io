@@ -1296,6 +1296,7 @@ See also:
 -   Howson [^HowsonBJPSSpecial]
 -   Hacking [^Hacking2001]
 -   Huber [^Huber2007]
+-   Rao, C.R. (1997). *Statisitcs and Truth: Putting Chance to Work*. [^Rao1997]
 
 See also:
 
@@ -1323,6 +1324,7 @@ See also:
 -   Schurz, G. (2019). *Hume's Problem Solved: The optimality of meta-induction*. [^Schurz2019]
 
 [^Earnshaw2017]: @Earnshaw_2017_How_I_solved_Humes_problem_and_why_nobody_will\.
+[^Rao1997]: @Rao_1997_Statisitcs_and_Truth_Putting_Chance_to_Work\.
 [^Schurz2019]: @Schurz_2019_Humes_Problem_Solved_The_optimality_of_meta\.
 
 

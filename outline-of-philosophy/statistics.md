@@ -1255,6 +1255,8 @@ Replication crisis
     -   [Uncomfortable science](https://en.wikipedia.org/wiki/Uncomfortable_science)
 -   Wasserman
     -   [The Higgs boson and the p-value police](https://normaldeviate.wordpress.com/2012/07/11/the-higgs-boson-and-the-p-value-police/)
+-   Rao & Lovric
+    -   Rao, C.R. & Lovric, M.M. (2016). [Testing point null hypothesis of a normal mean and the truth: 21st century perspective](http://digitalcommons.wayne.edu/jmasm/vol15/iss2/3). [^Rao2016]
 -   Mayo
     -   ["Les stats, c'est moi: We take that step here!"](https://errorstatistics.com/2019/12/13/les-stats-cest-moi-we-take-that-step-here-adopt-our-fav-word-or-phil-stat/)
     -   "Significance tests: Vitiated or vindicated by the replication crisis in psychology?" [^Mayo2021]
@@ -1278,6 +1280,7 @@ From "The ASA president's task force statement on statistical significance and r
 [^Fisher1935p13]: @Fisher_1935_The_Design_of_Experiments\, p. 13--14.
 [^Gorard2016]: @Gorard_2016_What_to_do_instead_of_significance_testing\.
 [^Mayo2021]: @Mayo_2021_Significance_tests_Vitiated_or_vindicated\.
+[^Rao2016]: @Rao_2016_Testing_point_null_hypothesis_of_a_normal_mean\.
 [^Wasserstein2016]: @Wasserstein_2016_The_ASAs_statement_on_p_values_Context_process\.
 [^Wasserstein2019]: @Wasserstein_2019_Moving_to_a_World_Beyond_p005\.
 
