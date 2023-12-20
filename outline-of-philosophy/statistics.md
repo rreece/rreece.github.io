@@ -1177,7 +1177,7 @@ Lyons:
 -   Efron & Hastie
     -   "Flaws in Frequentist Inference" [^Efron2016p30]
 -   Kruschke & Liddel [^Kruschke2018]
--   Steinhardt, J. (2012). Beyond Bayesians and frequentists. [^Steinhardt2012]
+-   Steinhardt, J. (2012). [Beyond Bayesians and frequentists](https://jsteinhardt.stat.berkeley.edu/files/stats-essay.pdf). [^Steinhardt2012]
 -   VanderPlas, J. (2014). [Frequentism and Bayesianism III: Confidence, credibility, and why frequentism and science do not mix](https://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/).
 -   Kent, B. (2021). [No, your confidence interval is not a worst-case analysis](https://www.crosstab.io/articles/confidence-interval-interpretation).
 
@@ -1953,6 +1953,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Mialon, G. et al. (2023). [Augmented Language Models: a Survey](https://arxiv.org/abs/2302.07842). [^Mialon2023]
     -   Peng, B. et al. (2023). [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048). [^Peng2023]
     -   Sun, Y. et al. (2023). [Retentive network: A successor to transformer for large language models](https://arxiv.org/abs/2307.08621). [^Sun2023]
+    -   Gu, A. & Dao, T. (2023). [Mamba: Linear-time sequence modeling with selective state spaces](https://arxiv.org/abs/2312.00752). [^Gu2023]
 
 [^Bertsch2023]: @Bertsch_2023_Unlimiformer_Long_range_transformers\.
 [^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
@@ -1963,6 +1964,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Edelman2021]: @Edelman_2021_Inductive_biases_and_variable_creation_in_self\.
 [^Gu2021]: @Gu_2021_Efficiently_modeling_long_sequences\.
+[^Gu2023]: @Gu_2023_Mamba_Linear_time_sequence_modeling\.
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Lewis2019]: @Lewis_2019_BART_Denoising_sequence_to_sequence_pre_training\.
 [^Liu2019]: @Liu_2019_RoBERTa_A_robustly_optimized_BERT_pretraining\.
@@ -2286,6 +2288,7 @@ $$ \bar{\sigma}^{T}(I, a) = \sum_{t=1}^{T} \frac{\pi^{t}_{i}(I) \: \sigma^{t}(I,
     -   Gibson, R. (2014). [*Regret minimization in games and the development of champion multiplayer computer poker-playing agents*](https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf). [^Gibson2014]
     -   Johanson, M. (2016). [*Robust Strategies and Counter-Strategies: From Superhuman to Optimal Play*](http://johanson.ca/publications/theses/2016-johanson-phd-thesis/2016-johanson-phd-thesis.pdf). [^Johanson2016]
     -   Burch, N. (2018). [*Time and Space: Why imperfect information games are hard*](https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf). [^Burch2018]
+    -   Horacek, M. (2022). [*Risk-Aversion in Algorithms for Poker*](https://is.muni.cz/th/ydbvx/thesis.pdf).
 
 TODO: explain MCCFR.
 
@@ -2544,12 +2547,14 @@ Roberts:
 -   Dinan, E., Yaida, S., & Zhang, S. (2023). [Effective theory of transformers at initialization](https://arxiv.org/abs/2304.02034). [^Dinan2023]
 -   Sohl-Dickstein, J. (2020). [Two equalities expressing the determinant of a matrix in terms of expectations over matrix-vector products](https://arxiv.org/abs/2005.06553). [^SohlDickstein2020]
 -   Aifer, M. et al. (2023). [Thermodynamic linear algebra](https://arxiv.org/abs/2308.05660). [^Aifer2023]
+-   Geshkovski, B., Letrouit, C., Polyanskiy, Y., & Rigollet, P. (2023). [A mathematical perspective on Transformers](https://arxiv.org/abs/2312.10794) [^Geshkovski2023]
 
 [^Aifer2023]: @Aifer_2023_Thermodynamic_linear_algebra\.
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
 [^Canatar2020]: @Canatar_2020_Spectral_bias_and_task_model_alignment_explain\.
 [^Cantwell2022]: @Cantwell_2022_Approximate_sampling_and_estimation_of_partition\.
 [^Dinan2023]: @Dinan_2023_Effective_theory_of_transformers_at_initialization\.
+[^Geshkovski2023]: @Geshkovski_2023_A_mathematical_perspective_on_Transformers\.
 [^Halverson2020]: @Halverson_2020_Neural_networks_and_quantum_field_theory\.
 [^Opper1996]: @Opper_1996_Statistical_mechanics_of_generalization\.
 [^Opper2001]: @Opper_2001_Learning_to_generalize\.

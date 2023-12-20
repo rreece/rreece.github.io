@@ -134,6 +134,7 @@ Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 
 Gao, Y. & Chaudhari, P. (2020). An information-geometric distance on the space of tasks. https://arxiv.org/abs/2011.00613
 Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
 Gelman, A. & Vehtari, A. (2021). What are the most important statistical ideas of the past 50 years? *Journal of the American Statistical Association*, 116, 2087--2097. https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1938081
+Geshkovski, B., Letrouit, C., Polyanskiy, Y., & Rigollet, P. (2023). A mathematical perspective on Transformers. https://arxiv.org/abs/2312.10794
 Ghosh, N. & Belkin, M. (2022). A universal trade-off between the model size, test loss, and training loss of linear predictors. https://arxiv.org/abs/2207.11621
 Gibson, R. (2014). *Regret minimization in games and the development of champion multiplayer computer poker-playing agents*. University of Alberta. https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf [(Ph.D. thesis)]
 Goldreich, O. & Ron, D. (1997). On universal learning algorithms. *Information Processing Letters*, 63(3), 131--136. https://www.wisdom.weizmann.ac.il/~oded/p_ul.html
@@ -146,6 +147,7 @@ Gorard, S. & Gorard, J. (2016). What to do instead of significance testing? Calc
 Graves, A. (2013). Generating sequences with recurrent neural networks. https://arxiv.org/abs/1308.0850
 Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). Why do tree-based models still outperform deep learning on tabular data? https://arxiv.org/abs/2207.08815
 Gu, A., Goel, K., & R{\'e}, C. (2021). Efficiently modeling long sequences with structured state spaces. https://arxiv.org/abs/2111.00396
+Gu, A. & Dao, T. (2023). Mamba: Linear-time sequence modeling with selective state spaces. https://arxiv.org/abs/2312.00752
 Gurnee, W. et al. (2023). Finding neurons in a haystack: Case studies with sparse probing. https://arxiv.org/abs/2305.01610
 Gurnee, W. & Tegmark, M. (2023). Language models represent space and time. https://arxiv.org/abs/2310.02207
 Habara, K., Fukuda, E.H., & Yamashita, N. (2023). Convergence analysis and acceleration of the smoothing methods for solving extensive-form games. https://arxiv.org/abs/2303.11046

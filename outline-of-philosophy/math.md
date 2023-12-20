@@ -75,7 +75,11 @@ TODO
 -   Linear equations and transformation
 -   Vector spaces and dual spaces
 -   Axler, S. (2024). [*Linear Algebra Done Right*](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf).
-
+-   [Spectral theorem](https://en.wikipedia.org/wiki/Spectral_theorem):
+    $A$ is normal, $A A^\dagger = A^\dagger A \iff A = U D U^\dagger$
+    is an eigendecomposition of $A$, where the column vectors of $U$
+    are the eigenvectors of $A$ with corresponding eigenvalues on the
+    diagonal of $D$.
 
 ### More
 
