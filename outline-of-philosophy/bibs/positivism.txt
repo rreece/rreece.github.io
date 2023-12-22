@@ -22,6 +22,7 @@ Friedman, M. (1999). *Reconsidering Logical Positivism*. Cambridge University Pr
 Hahn, H., Neurath, O., & Carnap, R. (1973). The scientific conception of the world: The Vienna Circle. In M. Neurath & R.S. Cohen (Eds.) *Empiricism and Sociology* (pp. 298--318). Dordrecht: Reidel. http://rreece.github.io/philosophy-reading-list/docs/the-scientific-conception-of-the-world-the-vienna-circle.pdf [(Originally published in German in 1929 as ``Wissenschaftliche Weltauffassung: Der Wiener Kreis``)]
 Heilbron, J.L. (2013). The first Solvay council: "A sort of private conference". In D. Gross & M. Henneaux & A. Servin (Eds.). *The Theory of the Quantum World: Proceedings of the 25th Solvay Conference on Physics* (pp. 1--16). World Scientific.
 Houghton, T. (2011). Does positivism really 'work' in the social sciences? https://www.e-ir.info/2011/09/26/does-positivism-really-%E2%80%98work%E2%80%99-in-the-social-sciences/
+Leitgeb, H. (2023). Vindicating the verifiability criterion. *Philosophical Studies*. https://doi.org/10.1007/s11098-023-02071-w
 Leitgeb, H. & Carus, A. (2020). Rudolf Carnap. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/carnap/index.html
 Milkov, N. (2013). The Berlin Group and the Vienna Circle: Affinities and divergences. In N. Milkov & V. Peckhaus (Eds.) *The Berlin Group and the Philosophy of Logical Empiricism* (pp. 3--32). Springer.
 Mill, J.S. (1865). *Auguste Comte and Positivism*. https://www.gutenberg.org/files/16833/16833-h/16833-h.htm
@@ -38,6 +39,7 @@ Ramsey, F.P. (1923). Review of Tractatus Logico-Philosophicus by L. Wittgenstein
 Reichenbach, H. (1936). Logistic empiricism in Germany and the present state of its problems. *The Journal of Philosophy*, 33, 141--160.
 Reichenbach, H. (1938). *Experience and Prediction*. University of Chicago Press. https://philpapers.org/archive/REIEAP-2.pdf
 Rescher, N. (2006). The Berlin School of logical empiricism and its legacy. *Erkenntnis*, 64, 281--304.
+Richardson, A.W. (2023). *Logical Empricism as Scientific Philosophy*. Cambridge University Press. https://doi.org/10.1017/9781009471497
 Ruja, H. (1961). The present status of the verifiability criterion. *Philosophy and Phenomenological Research*, 22, 216--222.
 Russell, B. (1919). The philosophy of logical atomism: Lectures 7-8. *The Monist*, 29(3), 345--380. https://www.jstor.org/stable/pdf/27900748.pdf
 Schlick, M. (1936). Meaning and verification. *The Philosophical Review*, 45, 339--369.

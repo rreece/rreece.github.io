@@ -1102,6 +1102,8 @@ Discussion:
 -   Steinberger, F. (2016). How tolerant can you be? Carnap on rationality. [^Steinberger2016]
 -   Leitgeb, H. & Carus, A. (2020). [Rudolf Carnap](https://plato.stanford.edu/entries/carnap/index.html). *SEP*. [^Leitgeb2020]
 -   Baker, K. (2023). Video: [Metaphysics - Carnap on Ontology](https://www.youtube.com/watch?v=e4eOtMn2me0).
+-   Leitgeb, H. (2023). [Vindicating the verifiability criterion](https://doi.org/10.1007/s11098-023-02071-w). [^Leitgeb2023]
+-   Richardson, A.W. (2023). [*Logical Empricism as Scientific Philosophy*](https://doi.org/10.1017/9781009471497) [^Richardson2023]
 
 [^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
@@ -1113,9 +1115,11 @@ Discussion:
 [^Lavers2004]: @Lavers_2004_Carnap_semantics_and_ontology\.
 [^Lavers2015]: @Lavers_2015_Carnap_Quine_quantification_and_ontology\.
 [^Leitgeb2020]: @Leitgeb_2020_Rudolf_Carnap\.
+[^Leitgeb2023]: @Leitgeb_2023_Vindicating_the_verifiability_criterion\.
 [^Leitgeb2020G]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement G: Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html).
 [^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
 [^Quine1960b]: @Quine_1960_Carnap_and_logical_truth\.
+[^Richardson2023]: @Richardson_2023_Logical_Empricism_as_Scientific_Philosophy\.
 [^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 [^Steinberger2016]: @Steinberger_2016_How_tolerant_can_you_be_Carnap_on_rationality\.
 
