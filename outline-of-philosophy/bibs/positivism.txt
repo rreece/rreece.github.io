@@ -36,6 +36,9 @@ Potochnik, A. (2011). A Neurathian conception of the unity of science. *Erkenntn
 Psillos, S. (2011). On Reichenbach's argument for scientific realism. *Synthese*, 181, 23--40.
 Quine, W.V.O. (1970). Homage to Rudolf Carnap. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1970, XI--LXVI.
 Ramsey, F.P. (1923). Review of Tractatus Logico-Philosophicus by L. Wittgenstein & B. Russell. *Mind*, 32, 465--478.
+Ramsey, F.P. (1925). Universals. *Mind*, 34, 401--417. 
+Ramsey, F.P. (1926). Foundations of mathematics. *Proceedings of the London Mathematical Society*, 25, 338--384. https://gwern.net/doc/math/1926-ramsey-2.pdf
+Ramsey, F.P. (1927). Facts and propositions. *Proceedings of the Aristotelian Society, Supplementary*, 7, 153--170. https://web.archive.org/web/20190120155923/https://www.aristoteliansociety.org.uk/pdf/ramsey.pdf
 Reichenbach, H. (1936). Logistic empiricism in Germany and the present state of its problems. *The Journal of Philosophy*, 33, 141--160.
 Reichenbach, H. (1938). *Experience and Prediction*. University of Chicago Press. https://philpapers.org/archive/REIEAP-2.pdf
 Rescher, N. (2006). The Berlin School of logical empiricism and its legacy. *Erkenntnis*, 64, 281--304.

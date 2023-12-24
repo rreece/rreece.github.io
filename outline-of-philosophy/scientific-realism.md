@@ -863,8 +863,6 @@ Wittgenstein studied with, was influenced by, and influenced:
     -   Russell, B. (1919). [The philosophy of logical atomism: Lectures 7-8](https://www.jstor.org/stable/pdf/27900748.pdf). [^Russell1919]
 -   Verifiability and quietism
     -   Anti-metaphysics that impressed the logical positivists
--   [F.P. Ramsey](https://plato.stanford.edu/entries/ramsey) (1903-1930)
-    -   Ramsey, F.P. (1923). Review of Tractatus Logico-Philosophicus. [^Ramsey1923]
 -   Wittgenstein's *Tractatus* was read by and greatly influenced The Vienna Circle.
     While Wittgenstein had relations with them, he never participated in the meetings
     lead by Schlick. (TODO:ref)
@@ -910,12 +908,25 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 [^Gaskin2009p53]: @Gaskin_2009_Realism_and_the_picture_theory_of_meaning\, p. 53.
 [^Hahn1973Sec1_2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect;1.2.
 [^Keyt1964]: @Keyt_1964_Wittgensteins_picture_theory_of_language\.
-[^Ramsey1923]: @Ramsey_1923_Review_of_Tractatus_Logico_Philosophicus_by_L\.
 [^Reck2005]: @Reck_2005_Freges_influence_on_Wittgenstein_Reversing\.
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\. <https://iep.utm.edu/wittgens/>
 [^Russell1919]: @Russell_1919_The_philosophy_of_logical_atomism_Lectures_7_8\.
 [^Wittgenstein1922]: @Wittgenstein_1961_Tractatus_Logico_Philosophicus\. 
 [^Wittgenstein1929]: @Wittgenstein_1929_Some_remarks_on_logical_form\.
+
+
+#### Frank P. Ramsey
+
+-   [F.P. Ramsey](https://plato.stanford.edu/entries/ramsey) (1903-1930)
+-   Ramsey, F.P. (1923). Review of Tractatus Logico-Philosophicus. [^Ramsey1923]
+-   Ramsey, F.P. (1925). Universals. [^Ramsey1925]
+-   Ramsey, F.P. (1926). [Foundations of mathematics](https://gwern.net/doc/math/1926-ramsey-2.pdf). [^Ramsey1926]
+-   Ramsey, F.P. (1927). [Facts and propositions](https://web.archive.org/web/20190120155923/https://www.aristoteliansociety.org.uk/pdf/ramsey.pdf). [^Ramsey1927]
+
+[^Ramsey1923]: @Ramsey_1923_Review_of_Tractatus_Logico_Philosophicus_by_L\.
+[^Ramsey1925]: @Ramsey_1925_Universals\.
+[^Ramsey1926]: @Ramsey_1926_Foundations_of_mathematics\.
+[^Ramsey1927]: @Ramsey_1927_Facts_and_propositions\.
 
 
 #### Emile Durkheim
