@@ -844,9 +844,14 @@ Wittgenstein studied with, was influenced by, and influenced:
 >   but takes a different, less technical, approach to philosophical problems.
 >   This book helped to inspire so-called ordinary language philosophy. [^Richter2004]
 
+-   Wittgenstein originally wrote the work in German, titled *Logisch-philosophische Abhandlung*
+    (*Logical-Philosophical Treatise*), published in 1921.
+-   For the English translation, Moore suggested the Latin title *Tractatus Logico-Philosophicus*,
+    a nod to Spinoza's *Tractatus Theologico-Politicus*.
 -   English translations:
-    -   [C.K. Ogden & F.P. Ramsey translation](https://web.archive.org/web/20200726065157/http://tractatus-online.appspot.com/Tractatus/jonathan/index.html) - [Project Gutenberg pdf](https://www.gutenberg.org/files/5740/5740-pdf.pdf).
-    -   [D.F. Pears & B.F. McGuinness translation](https://web.archive.org/web/20200228040145/http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html)
+    -   [C.K. Ogden & F.P. Ramsey translation](https://web.archive.org/web/20200726065157/http://tractatus-online.appspot.com/Tractatus/jonathan/index.html) (1922) - [Project Gutenberg pdf](https://www.gutenberg.org/files/5740/5740-pdf.pdf).
+    -   [D.F. Pears & B.F. McGuinness translation](https://web.archive.org/web/20200228040145/http://tractatus-online.appspot.com/Tractatus/3side_by_side/index.html) (1961)
+-   Wittgenstein presented the *Tractatus* as his PhD thesis, defended in his viva at Cambridge in June of 1929.
 -   The picture theory of meaning
     -   a correspondence theory of truth
     -   Daitz, E. (1953). [The picture theory of meaning](https://www.jstor.org/stable/2251383). [^Daitz1953]
@@ -873,6 +878,7 @@ Wittgenstein studied with, was influenced by, and influenced:
     of that Wittgenstein's early views of structure that ultimately
     follow some kind of platonism, the correspondence theory of truth, and a sense
     of realism. 
+-   Ogden, C.K. & Richards, I.A. (1923). *The Meaning of Meaning*. [^Ogden1923]
 -   Wittgenstein, L. (1929). [Some remarks on logical form](https://academic.oup.com/aristoteliansupp/article/9/1/162/1779966). [^Wittgenstein1929]
     -   Only academic paper published by Wittgenstein.
     -   During a period of transition from his early thought in the *Tractatus*
@@ -908,6 +914,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 [^Gaskin2009p53]: @Gaskin_2009_Realism_and_the_picture_theory_of_meaning\, p. 53.
 [^Hahn1973Sec1_2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect;1.2.
 [^Keyt1964]: @Keyt_1964_Wittgensteins_picture_theory_of_language\.
+[^Ogden1923]: @Ogden_1989_The_Meaning_of_Meaning\.
 [^Reck2005]: @Reck_2005_Freges_influence_on_Wittgenstein_Reversing\.
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\. <https://iep.utm.edu/wittgens/>
 [^Russell1919]: @Russell_1919_The_philosophy_of_logical_atomism_Lectures_7_8\.
@@ -1113,8 +1120,6 @@ Discussion:
 -   Steinberger, F. (2016). How tolerant can you be? Carnap on rationality. [^Steinberger2016]
 -   Leitgeb, H. & Carus, A. (2020). [Rudolf Carnap](https://plato.stanford.edu/entries/carnap/index.html). *SEP*. [^Leitgeb2020]
 -   Baker, K. (2023). Video: [Metaphysics - Carnap on Ontology](https://www.youtube.com/watch?v=e4eOtMn2me0).
--   Leitgeb, H. (2023). [Vindicating the verifiability criterion](https://doi.org/10.1007/s11098-023-02071-w). [^Leitgeb2023]
--   Richardson, A.W. (2023). [*Logical Empricism as Scientific Philosophy*](https://doi.org/10.1017/9781009471497) [^Richardson2023]
 
 [^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
@@ -1126,11 +1131,9 @@ Discussion:
 [^Lavers2004]: @Lavers_2004_Carnap_semantics_and_ontology\.
 [^Lavers2015]: @Lavers_2015_Carnap_Quine_quantification_and_ontology\.
 [^Leitgeb2020]: @Leitgeb_2020_Rudolf_Carnap\.
-[^Leitgeb2023]: @Leitgeb_2023_Vindicating_the_verifiability_criterion\.
 [^Leitgeb2020G]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement G: Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html).
 [^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
 [^Quine1960b]: @Quine_1960_Carnap_and_logical_truth\.
-[^Richardson2023]: @Richardson_2023_Logical_Empricism_as_Scientific_Philosophy\.
 [^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 [^Steinberger2016]: @Steinberger_2016_How_tolerant_can_you_be_Carnap_on_rationality\.
 
@@ -1237,6 +1240,8 @@ Reichenbach on probability:
 -   Richard Creath (b. 1947) - Editor of the *Quine-Carnap Correspondence* (1990)
 -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*.
     -   Self-identify as neo-positivists [^Ladyman2007p303]
+-   Leitgeb, H. (2023). [Vindicating the verifiability criterion](https://doi.org/10.1007/s11098-023-02071-w). [^Leitgeb2023]
+-   Richardson, A.W. (2023). [*Logical Empricism as Scientific Philosophy*](https://doi.org/10.1017/9781009471497) [^Richardson2023]
 
 Final words of Ladyman and Ross (2007):
 
@@ -1258,6 +1263,8 @@ See also:
 
 [^Ladyman2007p303]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 303.
 [^Ladyman2007p310]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 310\.
+[^Leitgeb2023]: @Leitgeb_2023_Vindicating_the_verifiability_criterion\.
+[^Richardson2023]: @Richardson_2023_Logical_Empricism_as_Scientific_Philosophy\.
 
 
 Postpositivism

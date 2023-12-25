@@ -131,7 +131,7 @@ See also:
 [^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
 [^Bubeck2023b]: @Bubeck_2023_Sparks_of_Artificial_General_Intelligence_Early\.
 [^Marcus2018]: @Marcus_2018_Deep_learning_A_critical_appraisal\.
-[^Maslej2023]: HERE
+[^Maslej2023]: @Maslej_2023_The_AI_Index_2023_Annual_Report\.
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 [^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
 [^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.

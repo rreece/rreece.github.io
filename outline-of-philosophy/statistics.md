@@ -100,6 +100,8 @@ See also:
             between the hypothesized and the empirically observed values via the $p$-value.
     -   With Frank Raphael Weldon, he established the journal *Biometrika* in 1902.
     -   Founded the world's first university statistics department at University College, London in 1911.
+-   John Maynard Keynes (1883-1946)
+    -   Keynes, J. M. (1921). *A Treatise on Probability*. [^Keynes1921]
 -   [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) (1890-1972)
     -   Fisher significance of the null hypothesis ($p$-values)
         -   "On an absolute criterion for fitting frequency curves" [^Fisher1912]
@@ -127,6 +129,7 @@ See also:
 -   [Judea Pearl](https://en.wikipedia.org/wiki/Judea_Pearl) (b. 1936)
 
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
+[^Keynes1921]: @Keynes_1921_A_Treatise_on_Probability\.
 [^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
 [^Fisher1915]: @Fisher_1915_Frequency_distribution_of_the_values\.
 [^Fisher1921]: @Fisher_1921_On_the_probable_error_of_a_coefficient\.
