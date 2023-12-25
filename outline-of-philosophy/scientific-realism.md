@@ -929,7 +929,10 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   Ramsey, F.P. (1925). Universals. [^Ramsey1925]
 -   Ramsey, F.P. (1926). [Foundations of mathematics](https://gwern.net/doc/math/1926-ramsey-2.pdf). [^Ramsey1926]
 -   Ramsey, F.P. (1927). [Facts and propositions](https://web.archive.org/web/20190120155923/https://www.aristoteliansociety.org.uk/pdf/ramsey.pdf). [^Ramsey1927]
+-   Lewis, D. (1970). [How to define theoretical terms](https://www.jstor.org/stable/2023861). [^Lewis1970]
+-   [Ramsey-Lewis method](https://en.wikipedia.org/wiki/Ramsey%E2%80%93Lewis_method)
 
+[^Lewis1970]: @Lewis_1970_How_to_define_theoretical_terms\.
 [^Ramsey1923]: @Ramsey_1923_Review_of_Tractatus_Logico_Philosophicus_by_L\.
 [^Ramsey1925]: @Ramsey_1925_Universals\.
 [^Ramsey1926]: @Ramsey_1926_Foundations_of_mathematics\.
