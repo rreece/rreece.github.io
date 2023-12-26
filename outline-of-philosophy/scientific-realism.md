@@ -1704,9 +1704,12 @@ Pragmatism
 ### History
 
 -   Charles Sanders Peirce (1839-1914)
+    -   [The Metaphysical Club](https://en.wikipedia.org/wiki/The_Metaphysical_Club) (1872)
+    -   Biography: Brent, J. (1993). *Charles Sanders Peirce: A Life*. [^Brent1993]
+    -   Review of Brent: Oakes, E.T. (1993). [Discovering the American Aristotle](https://www.firstthings.com/article/1993/12/003-discovering-the-american-aristotle).
+    -   Auspitz, J.L. (1994). The wasp leaves the bottle: Charles Sanders Peirce. [^Auspitz1994]
 -   William James (1842-1910)
     -   The cash value of truth
--   [The Metaphysical Club](https://en.wikipedia.org/wiki/The_Metaphysical_Club) (1872)
 -   John Dewey (1859-1952)
 -   C.I. Lewis (1883-1964)
 -   Ludwig Wittgenstein (1889-1951)
@@ -1745,6 +1748,8 @@ and
 >   for as soon as a firm belief is reached we are entirely satisfied,
 >   whether the belief be false or true. [^Peirce1923p16]
 
+[^Auspitz1994]: @Auspitz_1994_The_wasp_leaves_the_bottle_Charles_Sanders\.
+[^Brent1993]: @Brent_1993_Charles_Sanders_Peirce_A_Life\.
 [^Quine1936]: @Quine_1936_Truth_by_convention\.
 [^Peirce1923p16]: @Peirce_1923_Chance_Love_and_Logic\.
 [^Rorty1967]: @Rorty_1967_The_Linguist_Turn_Recent_Essays_in_Philosophical\.
