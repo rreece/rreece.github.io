@@ -1848,8 +1848,11 @@ Comparative studies
     -   Two truths doctrine
         -   Kant: phenomena vs noumena
         -   Sellars: manifest vs scientific image
+    -   Paul Carus (1852-1919)
     -   [Graham Priest: Lectures on Buddhism and Science](https://www.youtube.com/watch?v=V-P3j3S2beA&list=PLKuMaHOvHA4rag4t-jjdbeDdye5nb0rlF&ab_channel=PhilosophyattheUniversityofEdinburgh)
-    -   Derek Parfit
+    -   Derek Parfit (b. 1942)
+        -   Smith, D. (2013). [Gotama and Parfit on the self](https://secularbuddhism.org/gotama-and-parfit-on-the-self/).
+    -   McMahan, D.L. (2004). [Modernity and the early discourse of scientific Buddhism](https://www.jstor.org/stable/40005933). [^McMahan2004]
 
 Nietzsche:
 
@@ -1868,6 +1871,7 @@ Nietzsche:
 >   longer says "the struggle against sin," but quite in keeping with reality,
 >   "the struggle against suffering." [^Nietzsche1895Sec20]
 
+[^McMahan2004]: @McMahan_2004_Modernity_and_the_early_discourse_of_scientific\.
 [^Nelson2011]: @Nelson_2011_The_Yijing_and_philosophy_From_Leibniz\.
 [^Nietzsche1895Sec20]: @Nietzsche_2004_Ecce_Homo_How_One_Becomes_What_One_Is\, &sect;20\.
 [^Nietzsche1895Sec20to30]: @Nietzsche_2004_Ecce_Homo_How_One_Becomes_What_One_Is\, &sect;20--23\.
