@@ -742,7 +742,7 @@ More:
 #### Bernard Bolzano
 
 -   [Bernard Bolzano](https://en.wikipedia.org/wiki/Bernard_Bolzano) (1781-1848)
--   *Wissenschaftslehre (Theory of Science)* (1837)
+-   *Wissenschaftslehre* (*Theory of Science*) (1837)
 
 
 #### Auguste Comte
