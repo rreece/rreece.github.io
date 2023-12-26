@@ -1345,7 +1345,7 @@ Feigl:
 [^WikipediaMetaphysics]: [Wikipedia: Metaphysics](https://en.wikipedia.org/wiki/Metaphysics#Contemporary_analytical_philosophy)
 
 
-#### Attack on the verification theory of meaning
+### Attack on the verification theory of meaning
 
 -   Quine, W.V.O. (1960). *Word and Object*. [^Quine1960a]
     -   Inscrutability of reference
@@ -1378,7 +1378,7 @@ Nietzsche:
 [^Ruja1961]: @Ruja_1961_The_present_status_of_the_verifiability_criterion\.
 
 
-#### Duhem-Quine thesis
+### Duhem-Quine thesis
 
 -   Claims that a hypothesis can never be tested in isolation.
 -   Confirmation holism
