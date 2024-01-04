@@ -183,7 +183,13 @@ See also:
 
 -   Hume's *Treatise of Human Nature*
 -   Black, M. (1964). The gap between "is" and "should". [^Black1964]
+-   Schurz, G. (1997). *The Is/Ought Problem: An Investigation in Philosophical Logic*. [^Schurz1997]
+-   Schurz, G. (2010). Comments on Restall, Russell, and Vranas. [^Schurz2010a]
+-   Schurz, G. (2010). Non-trivial versions of Hume's is-ought thesis. [^Schurz2010b]
 -   Pigden, C. (2011). [Hume on is and ought](https://philosophynow.org/issues/83/Hume_on_Is_and_Ought).
+-   Russell, G. (2020). Logic isn't normative. [^Russell2020]
+-   Russell, G. (2021). How to prove Hume's law. [^Russell2021]
+-   Russell, G. (2023). *Barriers to Entailment: Hume's law & other limits on logical consequence*. [^Russell2023]
 
 The end of section 3.1.1 from Hume's *Treatise of Human Nature*,
 "Moral distinctions not derived from reason":
@@ -217,6 +223,12 @@ See also:
 
 [^Black1964]: @Black_1964_The_gap_between_is_and_should\.
 [^Hume2009p715]: @Hume_2009_A_Treatise_of_Human_Nature\, p. 715-6.
+[^Russell2020]: @Russell_2020_Logic_isnt_normative\.
+[^Russell2021]: @Russell_2021_How_to_prove_Humes_law\.
+[^Russell2023]: @Russell_2023_Barriers_to_Entailment_Humes_law__other_limits\.
+[^Schurz1997]: @Schurz_1997_The_IsOught_Problem_An_Investigation\.
+[^Schurz2010a]: @Schurz_2010_Comments_on_Restall_Russell_and_Vranas\.
+[^Schurz2010b]: @Schurz_2010_Non_trivial_versions_of_Humes_is_ought_thesis\.
 
 
 ### Noncognitivism
@@ -457,11 +469,6 @@ Moral non-naturalism
 -   Is/ought divide going back to Hume
 -   [Moore's open-question argument](https://en.wikipedia.org/wiki/Open-question_argument)
 -   [Moore's moral philosophy](https://plato.stanford.edu/entries/moore-moral/)
--   Schurz, G. (1997). *The Is/Ought Problem: An Investigation in Philosophical Logic*. [^Schurz1997]
--   Schurz, G. (2010). Comments on Restall, Russell, and Vranas. [^Schurz2010a]
--   Schurz, G. (2010). Non-trivial versions of Hume's is-ought thesis. [^Schurz2010b]
--   Russell, G. (2020). Logic isn't normative. [^Russell2020]
--   Russell, G. (2021). How to prove Hume's law. [^Russell2021]
 
 Bunge:
 
@@ -482,11 +489,6 @@ See also:
 
 [^Bunge2001p193]: @Bunge_2001_Philosophy_in_Crisis_The_Need_for_Reconstruction\, p. 193.
 [^Moore1903b]: @Moore_1988_Principia_Ethica\.
-[^Russell2020]: @Russell_2020_Logic_isnt_normative\.
-[^Russell2021]: @Russell_2021_How_to_prove_Humes_law\.
-[^Schurz1997]: @Schurz_1997_The_IsOught_Problem_An_Investigation\.
-[^Schurz2010a]: @Schurz_2010_Comments_on_Restall_Russell_and_Vranas\.
-[^Schurz2010b]: @Schurz_2010_Non_trivial_versions_of_Humes_is_ought_thesis\.
 
 
 ### Moral pluralism

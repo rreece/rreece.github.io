@@ -48,6 +48,7 @@ Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. Brad
 Russell, B. (1943). The future of pacifism. *The American Scholar*, 13, 7--13. https://www.jstor.org/stable/41204635
 Russell, G. (2020). Logic isn't normative. *Inquiry*, 63, 371--388.
 Russell, G. (2021). How to prove Hume’s law. *Journal of Philosophical Logic*. [(forthcoming)]
+Russell, G. (2023). *Barriers to Entailment: Hume's law & other limits on logical consequence*. Oxford University Press.
 Scanlon, T.M. (2000). *What We Owe to Each Other*. Belknap Press of Harvard University Press.
 Schurz, G. (1997). *The Is/Ought Problem: An Investigation in Philosophical Logic*. Dortrecht: Kluwer.
 Schurz, G. (2010). Comments on Restall, Russell, and Vranas. In Pigden, C. (Ed.), *Hume, Is and Ought: New Essays* (pp. 268--271). Palgrave MacMillan.
