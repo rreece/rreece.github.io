@@ -371,8 +371,11 @@ See also:
 
 ### Evolution of morals
 
+-   Robert Axelrod (b. 1943)
+    -   Axelrod, R. (1980). Effective choice in the prisoner's dilemma. [^Axelrod1980a]
+    -   Axelrod, R. (1980). More effective choice in the prisoner's dilemma. [^Axelrod1980b]
+    -   [Evolution of trust](https://ncase.me/trust/)
 -   de Waal [^deWaal1982]
--   Evolution of trust
 -   Patricia Churchland
 
 Churchland:
@@ -399,6 +402,8 @@ Churchland:
     -   [blog 4](http://rationallyspeaking.blogspot.com/2013/04/rationally-speaking-podcast-pigliucci.html)
 -   Joyce, R. (2016). [Evolution and moral naturalism](http://personal.victoria.ac.nz/richard_joyce/acrobat/joyce_2016_evolution.and.moral.naturalism.pdf). [^Joyce2016]
 
+[^Axelrod1980a]: @Axelrod_1980_Effective_choice_in_the_prisoners_dilemma\.
+[^Axelrod1980b]: @Axelrod_1980_More_effective_choice_in_the_prisoners_dilemma\.
 [^Churchland2011p7]: @Churchland_2011_What_Neuroscience_Tells_Us_About_Morality\.
 [^deWaal1982]: @deWaal_1982_Chimpanzee_Politics_Power_and_Sex_among_Apes\.
 [^Joyce2016]: @Joyce_2016_Evolution_and_moral_naturalism\.

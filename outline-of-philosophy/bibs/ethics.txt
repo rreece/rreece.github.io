@@ -1,3 +1,5 @@
+Axelrod, R. (1980). Effective choice in the prisoner's dilemma. *The Journal of Conflict Resolution*, 24, 3--25.
+Axelrod, R. (1980). More effective choice in the prisoner's dilemma. *The Journal of Conflict Resolution*, 24, 379--403.
 Ayars, A. (2016). Can model-free reinforcement learning explain deontological moral judgments? *Cognition*, 150, 232--242.
 Binmore, K. (2011). *Natural Justice*. Oxford University Press.
 Bikchandani, S., Riley, J.G., & Hirshleifer, J. (2013). *The Analytics of Uncertainty and Information*. Cambridge University Press.
