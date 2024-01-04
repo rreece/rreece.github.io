@@ -688,7 +688,9 @@ Free speech
     -   Milton, J. (1644). [*Areopagitica*](https://en.wikipedia.org/wiki/Areopagitica).
 -   Voltaire (1694-1778)
 -   [First Amendment to the United States Constitution](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution) (1791)
--   John Stuart Mill (1806-1873)
+-   [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) (1806-1873)
+    -   Pen-friendship with Auguste Comte
+    -   *On Liberty* (1859)
 -   [Oliver Wendell Holmes Jr.](https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes_Jr.) (1841-1935)
 -   George Orwell (1903-1950)
     -   Orwell, G. (1946). [Why I write](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/).
