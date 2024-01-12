@@ -964,7 +964,9 @@ See also:
 -   Pearl, J. (2009). [Causal inference in statistics: An overview](https://projecteuclid.org/journals/statistics-surveys/volume-3/issue-none/Causal-inference-in-statistics-An-overview/10.1214/09-SS057.pdf). [^Pearl2009]
 -   Robins, J.M. & Wasserman, L. (1999). On the impossibility of inferring causation from association without background knowledge. [^Robins1999]
 -   Peters, J., Janzing, D., & Sch&ouml;lkopf, B. (2017). *Elements of Causal Inference*. [^Peters2017]
+-   Lundberg, I., Johnson, R., & Stewart, B.M. (2021). [What is your estimand? Defining the target quantity connects statistical evidence to theory](https://journals.sagepub.com/doi/abs/10.1177/00031224211004187). [^Lundberg2021]
 
+[^Lundberg2021]: @Lundberg_2021_What_is_your_estimand_Defining_the_target\.
 [^Pearl2009]: @Pearl_2009_Causal_inference_in_statistics_An_overview\.
 [^Peters2017]: @Peters_2017_Elements_of_Causal_Inference\.
 [^Robins1999]: @Robins_1999_On_the_impossibility_of_inferring_causation_from\.
