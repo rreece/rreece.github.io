@@ -1129,6 +1129,7 @@ Lyons:
 
 -   Carnap
     -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
+    -   Carnap, R. (1952). [*The Continuum of Inductive Methods*](https://www.phil.cmu.edu/projects/carnap/editorial/latex_pdf/1952-1.pdf). [^Carnap1952]
 -   David Cox
 -   Ian Hacking
     -   *Logic of Statistical Inference* [^Hacking1965]
@@ -1203,6 +1204,7 @@ Goodman:
 
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
+[^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Efron2016p30]: @Efron_2016_Computer_Age_Statistical_Inference_Algorithms\, p. 30--36.
 [^Gandenberger2016]: @Gandenberger_2016_Why_I_am_not_a_likelihoodist\.
 [^Gelman2017]: @Gelman_2017_Beyond_subjective_and_objective_in_statistics\.

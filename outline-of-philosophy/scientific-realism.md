@@ -328,8 +328,11 @@ See also:
 
 ### History
 
--   Duhem
--   [Wikipedia](https://en.wikipedia.org/wiki/Instrumentalism): "Initially a novel perspective introduced by Pierre Duhem in 1906, instrumentalism is largely the prevailing theory that underpins the practice of physicists today." [^Torretti1999]
+-   Pierre Duhem (1861-1916)
+    -   [Wikipedia](https://en.wikipedia.org/wiki/Instrumentalism): "Initially a novel perspective introduced by Pierre Duhem in 1906, instrumentalism is largely the prevailing theory that underpins the practice of physicists today." [^Torretti1999]
+-   Percy Williams Bridgman (1882-1961)
+    -   Bridgman, P.W. (1927). *The Logic of Modern Physics*.
+        -    operationalism: coining the term operational definition
 -   Later Wittgenstein in *PI*. See [Postpositivism](#postpositivism), below.
 
 [^Torretti1999]: @Torretti_1999_The_Philosophy_of_Physics\, p. 242--243.

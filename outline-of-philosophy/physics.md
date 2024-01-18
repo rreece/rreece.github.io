@@ -1301,6 +1301,8 @@ Criticisms:
 -   *Epistemological Letters* (1973-1984)
 -   d'Espagnat, B. (1979). [The quantum theory and reality](https://static.scientificamerican.com/sciam/assets/media/pdf/197911_0158.pdf). [^dEspagnat1979]
 -   Aspect experiments (1982)
+-   Shimony, A. (1984). [Contextual hidden variables theories and Bell's inequalities](https://www.jstor.org/stable/687555). [^Shimony1984]
+    -   "experimental metaphysics"
 -   Bell, J.S. (1987). La Nouvelle Cuisine. [^Bell2004p232]
 -   GHZ experiment (1990)
     -   Greenberger, D., Horne, M., Shimony, A., & Zeilinger, A. (1990). Bell's theorem without inequalities. [^Greenberger1990]
@@ -1325,6 +1327,7 @@ Criticisms:
 [^Kochen1967]: @Kochen_1967_The_problem_of_hidden_variables_in_quantum\.
 [^Maudlin2014]: @Maudlin_2014_What_Bell_did\.
 [^Mermin1990]: @Mermin_1990_Quantum_mysteries_revisited\.
+[^Shimony1984]: @Shimony_1984_Contextual_hidden_variables_theories_and_Bells\.
 
 
 ### Bohmian mechanics
