@@ -46,6 +46,7 @@ Hansson, S.O. & Hendricks, V.F. (2018). *Introduction to Formal Philosophy*. Spr
 Heesen, R. (2017). Communism and the incentive to share in science. *Philosophy of Science*, 84, 698--716. 
 Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135--175.
 Hendricks, V.F. (2006). *Mainstream and Formal Epistemology*. Cambridge University Press.
+Hintikka, J. (1999). *Inquiry as Inquiry: A logic of scientific discovery*. Springer.
 #Hume, D. (1902). *Enquiries Concerning the Human Understanding and Concerning the Principles of Morals*. Oxford: Clarendon Press. [(Originally published in 1777)]
 #Hume, D. (1983). *An Enquiry Concerning the Principles of Morals*. Hackett Classics. [(Originally published in 1751)]
 #Hume, D. (1993). *An Enquiry Concerning Human Understanding* (E. Steinberg, Ed.). Hackett. [(Originally published in 1748)]

@@ -1504,12 +1504,15 @@ See also:
     -   Madsen, M.E. (2017). [The real core of the scientific method and why we should trust it](http://notebook.madsenlab.org/essays/2017/06/23/core-scientific-method.html).
     -   Nola, R. (1999). On the possibility of a scientific theory of scientific method. [^Nola1999]
     -   Nola, R. & Sankey, H. (2007). *Theories of Scientific Method*. [^Nola2007pXXX]
+-   Hintikka
+    -   Hintikka, J. (1999). *Inquiry as Inquiry: A logic of scientific discovery*. [^Hintikka1999]
 -   Schurz
     -   New foundationalist epistemology [^Schurz2019pX]
 -   Scientism
     -   Scientism: Scientific methods and meta-methods are universally applicable (in principle).
     -   See the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)
 
+[^Hintikka1999]: @Hintikka_1999_Inquiry_as_Inquiry_A_logic_of_scientific\.
 [^Nola1999]: @Nola_1999_On_the_possibility_of_a_scientific_theory\.
 [^Nola2007p5]: @Nola_2007_Theories_of_Scientific_Method\, p. 5.
 [^Nola2007p6]: @Nola_2007_Theories_of_Scientific_Method\, p. 6.
