@@ -469,6 +469,8 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
     cannot be done in the more restrictive setting of first-order logic.
     -   B&egrave;s, A. (2002). [A survey of arithmetical definability](http://lacl.u-pec.fr/bes/publi/survey.pdf). [^Bes2002]
     -   B&egrave;s, A. & Choffrut, C. (2022). [Decidability of definability issues in the theory of real addition](https://fi.episciences.org/10753). [^Bes2022]
+-   Quantifiers other than $\forall$ and $\exists$ are only definable
+    within second-order logic or higher-order logics.
 
 See also:
 
@@ -495,6 +497,7 @@ See also:
     -   The natural numbers model PA, but not uniquely in FOL.
     -   In SOL, PA is *categorical*, meaning it has only one model up to isomorphism.
 -   Henkin semantics
+    -   SOL with Henkin semantics is complete.
 -   Higher-order logics, type theory
     -   Russell's theory of types
     -   Alonzo Church's lambda calculus
@@ -505,6 +508,7 @@ See also:
 -   According to G&ouml;del's incompleteness theorems, the theory of PA (if consistent) is incomplete.
 -   Kleene, S.C. (1943). [Recursive predicates and quantifiers](https://www.jstor.org/stable/1990131). [^Kleene1943]
     -   The incompleteness of second-order logic is deeply related to recursion.
+-   Rossberg, M. (2004). [First-order logic, second-order logic, and completeness](http://logic.amu.edu.pl/images/4/46/Completenessrossberg.pdf). [^Rossberg2004]
 
 See also:
 
@@ -514,15 +518,15 @@ See also:
 [^Godel1931]: @Godel_1931_Uber_formal_unentscheidbare_Satze_der\.
 [^Godel1951]: @Godel_1995_Some_basic_theorems_on_the_foundations\.
 [^Kleene1943]: @Kleene_1943_Recursive_predicates_and_quantifiers\.
+[^Rossberg2004]: @Rossberg_2004_First_order_logic_second_order_logic\.
 
 
 #### Discussion
 
 -   Michael Dummett
-
 -   S.C. Kleene
     -   Kleene, S.C. (1952). *Introduction to Metamathematics*. [^Kleene1952]
-        -   first formulation of the sequent calculus in the modern style
+        -   First formulation of the sequent calculus in the modern style
 -   Setwart Shapiro
     -   *Foundations without Foundationalism: A Case for Second-Order Logic* (1991) [^Shapiro1991]
 -   Gillian Russell
@@ -537,11 +541,15 @@ See also:
         consequences of what you say you 'believe'... which is a major reason
         some mathematicians are suspicious of second-order logic. What does it
         mean to believe something whose consequences you can't derive?"
+-   George Boolos
+    -   Boolos, G. (1984). [To be is to be the value of a variable (or to be some values of some variables)](https://www.jstor.org/stable/2026308). [^Boolos1984]
+    -   [Plural quantification](https://en.wikipedia.org/wiki/Plural_quantification)
 -   Ethan Jerzak
     -   Jerzak, E. (2009). [Second-order logic, or: How I learned to stop worrying and love the incompleteness theorems](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Jerzak.pdf). [^Jerzak2009]
 -   Ot&aacute;vio Bueno
     -   Bueno, O. (2010). [A defense of second-order logic](https://web.as.miami.edu/personal/obueno/Site/Online_Papers_files/SecnOrd_FINAL.pdf). [^Bueno2010]
 
+[^Boolos1984]: @Boolos_1984_To_be_is_to_be_the_value_of_a_variable_or_to_be\.
 [^Bueno2010]: @Bueno_2010_A_defense_of_second_order_logic\.
 [^Enderton2009]: @Enderton_2009_Second_order_and_higher_order_logic\.
 [^Jerzak2009]: @Jerzak_2009_Second_order_logic_or_How_I_learned_to_stop\.
@@ -791,6 +799,7 @@ See also:
 -   Scott Aaronson's [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
 -   Aaronson, S. (2011). [Why philosophers should care about computational complexity](https://arxiv.org/abs/1108.1791). [^Aaronson2011]
 -   Savage, J.E. (2008). [*Models of Computation: Exploring the Power of Computing*](https://cs.brown.edu/people/jsavage/book/pdfs/ModelsOfComputation.pdf).
+-   [Fagin's theorem](https://en.wikipedia.org/wiki/Fagin%27s_theorem)
 
 See also:
 
@@ -1277,6 +1286,13 @@ See also:
 -   [Alternative logics](#alternative-logics)
 
 [^Brouwer1908]: @Brouwer_1908_Unreliability_of_the_logical_principles\.
+
+
+### Linear logic
+
+-   Girard, J.Y. (1987). [Linear logic](http://girard.perso.math.cnrs.fr/linear.pdf). [^Girard1987]
+
+[^Girard1987]: @Girard_1987_Linear_logic\.
 
 
 ### Criticism
