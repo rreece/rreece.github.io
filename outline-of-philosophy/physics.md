@@ -567,6 +567,7 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 -   Drossel, B. (2015). On the relation between the second law of thermodynamics and classical and quantum mechanics. [^Drossel2015]
 -   Wallace, D. (2018). [Decoherence and its role in the modern measurement problem](https://arxiv.org/abs/1111.2187). [^Wallace2018]
 -   Zurek, W.H. (2022). [Quantum theory of the classical: Einselection, envariance, quantum Darwinism and extantons](https://arxiv.org/abs/2208.09019). [^Zurek2022]
+-   *Natura non facit saltus*
 
 See also:
 

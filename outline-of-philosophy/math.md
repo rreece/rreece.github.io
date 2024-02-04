@@ -522,6 +522,7 @@ See also:
 
 -   S.C. Kleene
     -   Kleene, S.C. (1952). *Introduction to Metamathematics*. [^Kleene1952]
+        -   first formulation of the sequent calculus in the modern style
 -   Setwart Shapiro
     -   *Foundations without Foundationalism: A Case for Second-Order Logic* (1991) [^Shapiro1991]
 -   Gillian Russell
@@ -789,6 +790,7 @@ See also:
 
 -   Scott Aaronson's [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
 -   Aaronson, S. (2011). [Why philosophers should care about computational complexity](https://arxiv.org/abs/1108.1791). [^Aaronson2011]
+-   Savage, J.E. (2008). [*Models of Computation: Exploring the Power of Computing*](https://cs.brown.edu/people/jsavage/book/pdfs/ModelsOfComputation.pdf).
 
 See also:
 
