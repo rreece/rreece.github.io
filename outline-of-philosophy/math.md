@@ -503,8 +503,10 @@ See also:
 -   Henkin semantics
     -   SOL with Henkin semantics is complete.
 -   Higher-order logics, type theory
+    -   All higher-order logics have the same expressive power as second-order logic.
     -   Russell's theory of types
     -   Alonzo Church's lambda calculus
+    -   Modern type theory and its relationship with category theory
 
 #### Incompleteness of second-order logic
 
