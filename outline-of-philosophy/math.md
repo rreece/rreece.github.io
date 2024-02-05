@@ -437,8 +437,8 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 
 -   [First-order logic](https://en.wikipedia.org/wiki/First-order_logic)
     -   AKA predicate logic
-    -   Adds (non-logical) predicates and quantification over elements
-    -   Domain of discourse
+    -   Domain of discourse: $\{x\}$
+    -   Adds (non-logical) predicates, $Fx$, and quantification over elements, $\exists x\ Fx$.
 -   C.S Peirce was first to distinguish between propositional logic,
     first-order logic, and second-order logic in 1885. [^Ewald2018]
 -   Consistency, completeness, expressivity
@@ -461,12 +461,15 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 
 #### Limitations
 
--   No first-order theory has the strength to uniquely describe a
-    structure with an infinite domain, such as the natural numbers or the
-    real line.
+-   The L&ouml;wenheim-Skolem theorem implies that infinite structures
+    cannot be categorically axiomatized in first-order logic.
+    -   No first-order theory has the strength to uniquely describe a
+        structure with an infinite domain, such as the natural numbers
+        or the real line.
 -   In second-order logic, it is possible to define the addition and
     multiplication operations from the successor operation, but this
     cannot be done in the more restrictive setting of first-order logic.
+    -   TODO: show this.
     -   B&egrave;s, A. (2002). [A survey of arithmetical definability](http://lacl.u-pec.fr/bes/publi/survey.pdf). [^Bes2002]
     -   B&egrave;s, A. & Choffrut, C. (2022). [Decidability of definability issues in the theory of real addition](https://fi.episciences.org/10753). [^Bes2022]
 -   Quantifiers other than $\forall$ and $\exists$ are only definable
@@ -488,6 +491,7 @@ See also:
 -   [Second-order and higher-order logic](https://plato.stanford.edu/entries/logic-higher-order/), *SEP*
 -   Includes relation variables in addition to object variables and allows quantification over both.
     -   Extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.
+    -   $\exists P\ P(x)$
 -   Addition and multiplication are definabile in second-order logic.
     -   [Peano arithmetic](https://en.wikipedia.org/wiki/Peano_axioms#Peano_arithmetic_as_first-order_theory), PA
     -   [Second-order arithmetic](https://en.wikipedia.org/wiki/Second-order_arithmetic), $\mathrm{Z}_{2}$

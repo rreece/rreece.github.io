@@ -567,8 +567,8 @@ Leibniz, G.W. (1686). De geometria recondita et analysi indivisibilium atque inf
 <li><a href="https://en.wikipedia.org/wiki/First-order_logic">First-order logic</a>
 <ul>
 <li>AKA predicate logic</li>
-<li>Adds (non-logical) predicates and quantification over elements</li>
-<li>Domain of discourse</li>
+<li>Domain of discourse: <span class="math inline">\(\{x\}\)</span></li>
+<li>Adds (non-logical) predicates, <span class="math inline">\(Fx\)</span>, and quantification over elements, <span class="math inline">\(\exists x\ Fx\)</span>.</li>
 </ul></li>
 <li>C.S Peirce was first to distinguish between propositional logic, first-order logic, and second-order logic in 1885.<a href="#fn26" class="footnote-ref" id="fnref26" role="doc-noteref"><sup>26</sup></a></li>
 <li>Consistency, completeness, expressivity</li>
@@ -592,9 +592,13 @@ Leibniz, G.W. (1686). De geometria recondita et analysi indivisibilium atque inf
 </ul>
 <h4 id="limitations">Limitations</h4>
 <ul>
+<li>The L&#xF6;wenheim-Skolem theorem implies that infinite structures cannot be categorically axiomatized in first-order logic.
+<ul>
 <li>No first-order theory has the strength to uniquely describe a structure with an infinite domain, such as the natural numbers or the real line.</li>
+</ul></li>
 <li>In second-order logic, it is possible to define the addition and multiplication operations from the successor operation, but this cannot be done in the more restrictive setting of first-order logic.
 <ul>
+<li>TODO: show this.</li>
 <li>B&#xE8;s, A. (2002). <a href="http://lacl.u-pec.fr/bes/publi/survey.pdf">A survey of arithmetical definability</a>.<a href="#fn30" class="footnote-ref" id="fnref30" role="doc-noteref"><sup>30</sup></a></li>
 <li>B&#xE8;s, A. &amp; Choffrut, C. (2022). <a href="https://fi.episciences.org/10753">Decidability of definability issues in the theory of real addition</a>.<a href="#fn31" class="footnote-ref" id="fnref31" role="doc-noteref"><sup>31</sup></a></li>
 </ul></li>
@@ -611,6 +615,7 @@ Leibniz, G.W. (1686). De geometria recondita et analysi indivisibilium atque inf
 <li>Includes relation variables in addition to object variables and allows quantification over both.
 <ul>
 <li>Extends first-order logic to allow predicates having predicates or functions as arguments, or in which one or both of predicate quantifiers or function quantifiers are permitted.</li>
+<li><span class="math inline">\(\exists P\ P(x)\)</span></li>
 </ul></li>
 <li>Addition and multiplication are definabile in second-order logic.
 <ul>
