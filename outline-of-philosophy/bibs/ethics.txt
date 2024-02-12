@@ -45,6 +45,7 @@ Resnik, M.D. (1987). *Choices: An Introduction to Decision Theory*. University o
 Richards, J.R. (1980). *The Sceptical Feminist: A Philosophical Enquiry*. Routledge.
 Richards, J.R. (1995). Why feminist epistemology isn't (and the implications for feminist jurisprudence). *Legal Theory*, 1, 365--400.
 Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. Bradford.
+Roy, A.D. (1952). Safety first and the holding of assets. *Econometrica*, 20, 431--449. https://www.jstor.org/stable/1907413
 Russell, B. (1943). The future of pacifism. *The American Scholar*, 13, 7--13. https://www.jstor.org/stable/41204635
 Russell, G. (2020). Logic isn't normative. *Inquiry*, 63, 371--388.
 Russell, G. (2021). How to prove Hume’s law. *Journal of Philosophical Logic*. [(forthcoming)]
