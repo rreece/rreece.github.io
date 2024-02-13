@@ -746,6 +746,8 @@ Related:
     -   Church, A. (1936). A note on the Entscheidungsproblem. [^Church1936]
 -   Turing's theorem that there is no algorithm to solve the halting problem
     -   Turing, A.M. (1937). On computable numbers, with an application to the Entscheidungsproblem. [^Turing1937]
+-   Rice's theorem that all non-trivial semantic properties of programs are undecidable
+    -   [Rice's theorem](https://en.wikipedia.org/wiki/Rice%27s_theorem) (1951)
 
 Chaitin:
 

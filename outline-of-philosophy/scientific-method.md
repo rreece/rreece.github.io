@@ -537,7 +537,7 @@ In his unfinished work, *Rules* [^DescartesRule2], Descartes defines â€œscienceâ
 >   *Omnis scientia est cognitio certa et evidens*.          
 >   All (scientific) knowledge is certain and evident cognition.
 
-In the same section, Descartes' boldy declares to reject probable knowledge
+In the same section, Descartes' boldly declares to reject probable knowledge
 for only what is perfectly certain:
 
 >   we reject all [...] merely probable cognition and resolve to believe

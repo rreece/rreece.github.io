@@ -1469,14 +1469,18 @@ See also:
 -   [P.F. Strawson](https://en.wikipedia.org/wiki/P._F._Strawson) (1919-2006)
     -   Strawson, P.F. (1950). On referring. [^Strawson1950]
     -   *The Bounds of Sense: An Essay on Kant’s Critique of Pure Reason* (1966)
+-   [Clifford Geertz](https://en.wikipedia.org/wiki/Clifford_Geertz) (1926-2006)
+    -   *The Interpretation of Cultures* (1973)
 -   Stanley Cavell (1926-2018)
     -   *Must We Mean What We Say?* (1969) [^Cavell2015]
     -   *The Claim of Reason: Wittgenstein, Skepticism, Morality, and Tragedy* (1979)
 -   Richard Rorty (1931-2007)
     -   Rorty, R. (1993). Wittgenstein, Heidegger, and the reification of language. [^Rorty1993]
     -   "Obsession with this image of something deeply hidden" [^Rorty1993p347]
+-   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (1940-2022)
+    -   *Wittgenstein on Rules and Private Language* (1982)
+        -   Distinguishes the views of Wittgenstein, Kripke, and Kripkenstein
 -   Video: Sugrue, M. (1992). [The Latter Wittgenstein: The Philosophy of Language](https://www.youtube.com/watch?v=X7Rb56kZQSk).
--   [Clifford Geertz](https://en.wikipedia.org/wiki/Clifford_Geertz) (1926-2006)
 
 Wittgenstein in *PI*:
 
