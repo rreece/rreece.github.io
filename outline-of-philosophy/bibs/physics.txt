@@ -172,6 +172,7 @@ Hall, M.J.W. (2010). Local deterministic model of singlet state correlations bas
 Hamamatsu. (2007). *Photomultiplier Tubes: Basics and Applications* (3rd ed.). Hamamatsu Photonics. https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/etd/PMT_handbook_v3aE.pdf
 Harrigan, N., & Spekkens, R.W. (2010). Einstein, incompleteness, and the epistemic view of quantum states. *Foundations of Physics*, 40(2), 125--157. https://arxiv.org/abs/0706.2661
 Healey, R. (2007). *Gauging What's Real*. Oxford University Press.
+Heaviside, O. (1893). *Electromagnetic Theory, Vol. 1*. London: The Electrician.
 Higgs, P.W. (1964). Broken symmetries, massless particles and gauge fields. *Physics Letters*, 13, 508--509. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.508
 Hossenfelder, S. & Palmer, T. (2020). Rethinking superdeterminism. *Frontiers in Physics*, 8, 139. https://www.frontiersin.org/articles/10.3389/fphy.2020.00139/full
 Hossenfelder, S. (2023). Quantum confusions, cleared up (or so I hope). https://arxiv.org/abs/2309.12299

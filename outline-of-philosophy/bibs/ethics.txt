@@ -63,5 +63,6 @@ Sharpe, W.F. (1999). *Portfolio Theory and Capital Markets*. McGraw-Hill. [(Orig
 Skarsaune, K.O. (2009). Darwin and moral realism: Survival of the iffiest. *Philosophical Studies*, 152(2), 229--243.
 Snyder-Hall, R.C. (2010). Third-wave feminism and the defense of "choice". *Perspectives on Politics*, 8, 255--261. https://www.jstor.org/stable/25698533
 Solzhenitsyn, A. (1974). *The Gulag Archipelago* (T.P. Whitney, Trans.) . Harper & Row.
+Sortino, F. (2010). *The Sortino Framework for Constructing Portfolios*. Elsevier.
 Thomson, J.J. (1971). A defense of abortion. *Philosophy & Public Affairs*, 1, 47--66.
 Wedgwood, R. (2007). *The Nature of Normativity*. Oxford University Press.

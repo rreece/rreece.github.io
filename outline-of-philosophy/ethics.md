@@ -601,6 +601,7 @@ Economics
 -   Merton, R.C. (1972). [An analytic derivation of the efficient portfolio frontier](https://www.jstor.org/stable/2329621). [^Merton1972]
 -   Markowitz, H.M. (1990). Nobel lecture: [Foundations of portfolio theory](https://www.nobelprize.org/uploads/2018/06/markowitz-lecture.pdf).
 -   Markowitz, H.M. (2005). Market efficiency: A theoretical distinction and so what? [^Markowitz2005]
+-   Sortino, F. (2010). *The Sortino Framework for Constructing Portfolios*. [^Sortino2010]
 -   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
 -   Kwok, Y.K. (2017). Lecture notes: [Fundamentals of Mathematical Finance](https://www.math.hkust.edu.hk/~maykwok/MATH4512.htm).
 -   Das, S.R. (2017). [Being mean with variance: Markowitz optimization](https://srdas.github.io/MLBook/PortfolioOptimization.html).
@@ -613,6 +614,7 @@ Economics
 [^Markowitz2005]: @Markowitz_2005_Market_efficiency_A_theoretical_distinction\.
 [^Merton1972]: @Merton_1972_An_analytic_derivation_of_the_efficient_portfolio\.
 [^Roy1952]: @Roy_1952_Safety_first_and_the_holding_of_assets\.
+[^Sortino2010]: @Sortino_2010_The_Sortino_Framework_for_Constructing_Portfolios\.
 
 
 ### Mutual fund separation theorem

@@ -161,9 +161,33 @@ History:
 -   [Josiah Willard Gibbs](https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs) (1839-1903)
 -   [Oliver Heaviside](https://en.wikipedia.org/wiki/Oliver_Heaviside) (1850-1925)
 
+Heaviside:
+
+>   What is Maxwell's theory? or, What should we agree to understand by Maxwell's theory?
+>
+>   The first approximation to the answer is to say, There is Maxwell's book as he wrote it;
+>   there is his text, and there are his equations: together they make his theory.
+>   But when we come to examine it closely, we find that this answer is unsatisfactory.
+>   To begin with, it is sufficient to refer to papers by physicists, written say during
+>   the twelve years following the first publication of Maxwell's treatise, to see that
+>   there may be much difference of opinion as to what his theory is. It may be, and has been,
+>   differently interpreted by different men, which is a sign that it is not set forth in a
+>   perfectly clear and unmistakeable form. There are many obscurities and some inconsistencies.
+>   Speaking for myself, it was only by changing its form of presentation that I was able to
+>   see it clearly, and so as to avoid the inconsistencies. Now there is no finality in a
+>   growing science. It is, therefore, impossible to adhere strictly to Maxwell's theory as
+>   he gave it to the world, if only on account of its inconvenient form. But it is clearly
+>   not admissible to make arbitrary changes in it and still call it his. He might have
+>   repudiated them utterly. But if we have good reason to believe that the theory as stated
+>   in his treatise does require modification to make it self-consistent, and to believe
+>   that he would have admitted the necessity of the change when pointed out to him, then
+>   I think the resulting modified theory may well be called Maxwell's. [^Heaviside1893pvi]
+
 Pedagogy:
 
 -   TODO
+
+[^Heaviside1893pvi]: @Heaviside_1893_Electromagnetic_Theory_Vol1\, pp. vi--vii.
 
 
 ### Special relativity
