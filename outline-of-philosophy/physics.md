@@ -301,6 +301,7 @@ See also:
 ### Relativity
 
 -   Special relativity
+-   [Leibniz-Clarke correspondence](https://en.wikipedia.org/wiki/Leibniz%E2%80%93Clarke_correspondence)
 -   Einstein (1905)
 -   Lorentz group
 -   Minkowski spacetime
