@@ -466,6 +466,8 @@ Feynman and Hibbs on the uncertainty principle:
     -   van Hove, L. (1958). Von Neumann's contributions to quantum theory. [^vanHove1958]
 -   [J. Robert Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer) (1904-1967)
 -   [John Archibald Wheeler](https://en.wikipedia.org/wiki/John_Archibald_Wheeler) (1911-2008)
+-   [Richard P. Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (1918-1988)
+    -   Freakonomics 3-part radio series about Feynman: [The Curious, Brilliant, Vanishing Mr. Feynman](https://freakonomics.com/the-curious-brilliant-vanishing-mr-feynman/)
 
 [^Bacciagaluppi2009]: @Bacciagaluppi_2009_Quantum_Theory_at_the_Crossroads_Reconsidering\.
 [^Kelvin1901]: @Kelvin_1901_Nineteenth_century_clouds_over_the_dynamical\.
