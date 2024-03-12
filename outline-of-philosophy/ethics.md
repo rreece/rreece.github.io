@@ -601,20 +601,16 @@ Economics
 -   Merton, R.C. (1972). [An analytic derivation of the efficient portfolio frontier](https://www.jstor.org/stable/2329621). [^Merton1972]
 -   Markowitz, H.M. (1990). Nobel lecture: [Foundations of portfolio theory](https://www.nobelprize.org/uploads/2018/06/markowitz-lecture.pdf).
 -   Markowitz, H.M. (2005). Market efficiency: A theoretical distinction and so what? [^Markowitz2005]
--   Sortino, F. (2010). *The Sortino Framework for Constructing Portfolios*. [^Sortino2010]
--   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
 -   Kwok, Y.K. (2017). Lecture notes: [Fundamentals of Mathematical Finance](https://www.math.hkust.edu.hk/~maykwok/MATH4512.htm).
 -   Das, S.R. (2017). [Being mean with variance: Markowitz optimization](https://srdas.github.io/MLBook/PortfolioOptimization.html).
 -   Tam, A.S. (2021). [Lagrangians and portfolio optimization](https://www.adrian.idv.hk/2021-06-22-kkt/).
 -   Armerin, F. (2023). Lecture notes: [More on mean-variance analysis](https://people.kth.se/~armerin/FinInsMathRwanda/Lecture10.pdf).
 
-[^Elton2014]: @Elton_2014_Modern_Portfolio_Theory_and_Investment_Analysis\.
 [^Markowitz1952]: @Markowitz_1952_Portfolio_selection\.
 [^Markowitz1959]: @Markowitz_1959_Portfolio_Selection_Efficient_Diversification\.
 [^Markowitz2005]: @Markowitz_2005_Market_efficiency_A_theoretical_distinction\.
 [^Merton1972]: @Merton_1972_An_analytic_derivation_of_the_efficient_portfolio\.
 [^Roy1952]: @Roy_1952_Safety_first_and_the_holding_of_assets\.
-[^Sortino2010]: @Sortino_2010_The_Sortino_Framework_for_Constructing_Portfolios\.
 
 
 ### Mutual fund separation theorem
@@ -695,7 +691,13 @@ Misc
 [^Sen2009]: @Sen_2009_The_Idea_of_Justice\.
 
 
-#### Postmodern portfolio theory
+### Postmodern portfolio theory
+
+-   Sortino, F. (2010). *The Sortino Framework for Constructing Portfolios*. [^Sortino2010]
+-   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
+
+[^Elton2014]: @Elton_2014_Modern_Portfolio_Theory_and_Investment_Analysis\.
+[^Sortino2010]: @Sortino_2010_The_Sortino_Framework_for_Constructing_Portfolios\.
 
 
 Free speech 
