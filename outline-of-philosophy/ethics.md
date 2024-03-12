@@ -629,6 +629,16 @@ Economics
 [^Owen1983]: @Owen_1983_On_the_class_of_elliptical_distributions_and_their\.
 
 
+### Convex optimization
+
+-   Affine combintations and convex sets
+-   Linear programming
+-   Quadradic programming
+-   Boyd, S. & Vandenberghe, L. (2004). [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/).
+-   [CVXPY](https://www.cvxpy.org/)
+-   [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
+
+
 ### Estimation of covariance matrices
 
 -   [Estimation of covariance matrices](https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices)
@@ -683,6 +693,9 @@ Misc
 [^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
 [^Sen1970]: @Sen_1970_The_impossibility_of_a_Paretian_Liberal\.
 [^Sen2009]: @Sen_2009_The_Idea_of_Justice\.
+
+
+#### Postmodern portfolio theory
 
 
 Free speech 
