@@ -634,7 +634,7 @@ Economics
 -   Affine combintations and convex sets
 -   Linear programming
 -   Quadradic programming
--   Boyd, S. & Vandenberghe, L. (2004). [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/).
+-   Boyd, S. & Vandenberghe, L. (2004). [*Convex Optimization*](https://web.stanford.edu/~boyd/cvxbook/).
 -   [CVXPY](https://www.cvxpy.org/)
 -   [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
 
