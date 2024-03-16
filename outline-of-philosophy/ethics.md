@@ -604,6 +604,7 @@ Economics
 -   Kwok, Y.K. (2017). Lecture notes: [Fundamentals of Mathematical Finance](https://www.math.hkust.edu.hk/~maykwok/MATH4512.htm).
 -   Das, S.R. (2017). [Being mean with variance: Markowitz optimization](https://srdas.github.io/MLBook/PortfolioOptimization.html).
 -   Tam, A.S. (2021). [Lagrangians and portfolio optimization](https://www.adrian.idv.hk/2021-06-22-kkt/).
+    -   KKT conditions
 -   Armerin, F. (2023). Lecture notes: [More on mean-variance analysis](https://people.kth.se/~armerin/FinInsMathRwanda/Lecture10.pdf).
 
 [^Markowitz1952]: @Markowitz_1952_Portfolio_selection\.
@@ -611,28 +612,6 @@ Economics
 [^Markowitz2005]: @Markowitz_2005_Market_efficiency_A_theoretical_distinction\.
 [^Merton1972]: @Merton_1972_An_analytic_derivation_of_the_efficient_portfolio\.
 [^Roy1952]: @Roy_1952_Safety_first_and_the_holding_of_assets\.
-
-
-### Mutual fund separation theorem
-
--   [Mutual fund separation theorem](https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem)
--   Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. [^Chamberlain1983]
--   Owen, J. & Rabinovitch, R. (1983). On the class of elliptical distributions and their applications to the theory of portfolio choice. [^Owen1983]
--   TODO: the two-fund theorem
--   TODO: the one-fund theorem
-
-[^Chamberlain1983]: @Chamberlain_1983_A_characterization_of_the_distributions_that_imply\.
-[^Owen1983]: @Owen_1983_On_the_class_of_elliptical_distributions_and_their\.
-
-
-### Convex optimization
-
--   Affine combintations and convex sets
--   Linear programming
--   Quadradic programming
--   Boyd, S. & Vandenberghe, L. (2004). [*Convex Optimization*](https://web.stanford.edu/~boyd/cvxbook/).
--   [CVXPY](https://www.cvxpy.org/)
--   [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
 
 
 ### Estimation of covariance matrices
@@ -652,15 +631,72 @@ Economics
 [^Mantegna1998]: @Mantegna_1998_Hierarchical_structure_in_financial_markets\.
 
 
+### Convex optimization
+
+-   Affine combintations and convex sets
+-   Linear programming
+-   Quadradic programming
+    -   No-shorts efficient frontier
+-   Boyd, S. & Vandenberghe, L. (2004). [*Convex Optimization*](https://web.stanford.edu/~boyd/cvxbook/).
+    -   Boyd Lectures on youtube: [1](https://www.youtube.com/watch?v=kV1ru-Inzl4), [2](https://www.youtube.com/watch?v=2H4_7izio9Y), [3](https://www.youtube.com/watch?v=1menqhfNzzo), [4](https://www.youtube.com/watch?v=U2HRwA7XePU), [5](https://www.youtube.com/watch?v=AAjG1TQcL7c), [6](https://www.youtube.com/watch?v=d2jF3SXcFQ8)
+-   [CVXPY](https://www.cvxpy.org/)
+-   [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
+
+
+### Mutual fund separation theorem
+
+-   [Mutual fund separation theorem](https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem)
+-   Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. [^Chamberlain1983]
+-   Owen, J. & Rabinovitch, R. (1983). On the class of elliptical distributions and their applications to the theory of portfolio choice. [^Owen1983]
+-   [Lecture notes by Ken Kasa (SFU)](https://www.sfu.ca/~kkasa/Econ815_Lecture7.pdf)
+-   TODO: the two-fund theorem
+-   TODO: the one-fund theorem
+
+[^Chamberlain1983]: @Chamberlain_1983_A_characterization_of_the_distributions_that_imply\.
+[^Owen1983]: @Owen_1983_On_the_class_of_elliptical_distributions_and_their\.
+
+
 ### Capital Asset Pricing Model
 
--   Capital Asset Pricing Model (CAPM)
+-   [Capital Asset Pricing Model (CAPM)](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
 -   [William F. Sharpe](https://en.wikipedia.org/wiki/William_F._Sharpe) (b. 1934)
--   Sharpe ratio
 -   Sharpe, W.F. (1963). A simplified model for portfolio analysis. [^Sharpe1963]
 -   Sharpe, W.F. (1964). Capital asset prices: A theory of market equilibrium under conditions of risk. [^Sharpe1964]
 -   Sharpe, W.F. (1999). *Portfolio Theory and Capital Markets*. [^Sharpe1999]
 -   Sharpe, W.F. (1990). Nobel lecture: [Capital asset prices with and without negative holdings](https://www.nobelprize.org/uploads/2018/06/sharpe-lecture.pdf).
+-   Sharpe ratio
+
+$$ S_i = \frac{ \mathbb{E}(r_i - r_f) }{ \sigma_i }  \label{eq:sharpe_ratio} $$
+
+-   [Beta](https://en.wikipedia.org/wiki/Beta_(finance))
+
+$$ \beta_i = \frac{ \mathrm{Cov}(r_i, r_m) }{ \mathrm{Var}(r_m) } = \mathrm{Cor}(r_i, r_m) \: \frac{\sigma_i}{\sigma_m} \label{eq:sharpe_beta} $$
+
+-   [Alpha](https://en.wikipedia.org/wiki/Alpha_(finance))
+
+$\alpha$ and $\beta$ can be calculated via linear regression:
+
+$$ r_{it} = \alpha_i + \beta_i \, r_{mt} + \varepsilon_{it}  \label{eq:alpha_beta_regression} $$
+
+-   [Security Market Line (SML)](https://en.wikipedia.org/wiki/Security_market_line)
+
+Thought in $\mathbb{E}(r_i)$ vs $\beta_i$ space:
+
+$$ \mathbb{E}(r_i) = r_f + \beta_i \left( \mathbb{E}(r_m) - r_f \right) $$
+
+-   [Security Characteristic Line (SCL)](https://en.wikipedia.org/wiki/Security_characteristic_line)
+
+Thought in $r_{it}$ vs $r_{mt}$ space:
+
+$$ r_{it} - r_f = \alpha_i + \beta_i \, ( r_{mt} - r_f )  + \varepsilon_{it} $$
+
+-   [Treynor ratio](https://en.wikipedia.org/wiki/Treynor_ratio)
+
+$$ T_i = \frac{ \mathbb{E}(r_i - r_f) }{ \beta_i }  \label{eq:treynor_ratio} $$
+
+-   [Jensen's alpha](https://en.wikipedia.org/wiki/Jensen%27s_alpha)
+
+$$ \alpha_{i}^{J} = r_i - [ r_f + \beta_i \, (r_m - r_f) ] \label{eq:jensen_alpha} $$
 
 [^Sharpe1963]: @Sharpe_1963_A_simplified_model_for_portfolio_analysis\.
 [^Sharpe1964]: @Sharpe_1964_Capital_asset_prices_A_theory_of_market\.
@@ -673,11 +709,36 @@ Economics
 -   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
 -   Fama, E. (1970). [Efficient capital markets: A review of theory and empirical work](http://www.e-m-h.org/Fama70.pdf). [^Fama1970]
 
-
 [^Fama1970]: @Fama_1970_Efficient_capital_markets_A_review_of_theory\.
 
 
-Misc
+### Consumption/investment problem
+
+-   [Kelly criterion](https://en.wikipedia.org/wiki/Kelly_criterion)
+    -   Kelly, J.L. (1956). [A new interpretation of information rate](https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf). [^Kelly1956]
+-   Risk preferences
+-   [Merton's portfolio problem](https://en.wikipedia.org/wiki/Merton%27s_portfolio_problem)
+    -   Merton, R.C. (1969). [Lifetime portfolio selection under uncertainty: The continuous-time case](https://www.jstor.org/stable/1926560). [^Merton1969]
+    -   Karatzas, I., Lehoczky, J.P., Sethi, S.P., & Shreve, S.E (1986). [Explicit solution of a general consumption/investment problem](https://www.jstor.org/stable/3689808). [^Karatzas1986]
+-   Conditional Value at Risk (CVaR) or [Expected shortfall](https://en.wikipedia.org/wiki/Expected_shortfall)
+    -   Rockafellar, R.T. & Uryasev, S. (2000). [Optimization of conditional value-at-risk](https://sites.math.washington.edu/~rtr/papers/rtr179-CVaR1.pdf). [^Rockafellar2000]
+
+[^Kelly1956]: @Kelly_1956_A_new_interpretation_of_information_rate\.
+[^Karatzas1986]: @Karatzas_1986_Explicit_solution_of_a_general\.
+[^Merton1969]: @Merton_1969_Lifetime_portfolio_selection_under_uncertainty\.
+[^Rockafellar2000]: @Rockafellar_2000_Optimization_of_conditional_value_at_risk\.
+
+
+### Postmodern portfolio theory
+
+-   Sortino, F. (2010). *The Sortino Framework for Constructing Portfolios*. [^Sortino2010]
+-   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
+
+[^Elton2014]: @Elton_2014_Modern_Portfolio_Theory_and_Investment_Analysis\.
+[^Sortino2010]: @Sortino_2010_The_Sortino_Framework_for_Constructing_Portfolios\.
+
+
+### Misc
 
 -   [Amartya Sen](https://en.wikipedia.org/wiki/Amartya_Sen) (b. 1933)
     -   Sen, A. (1970). [The impossibility of a Paretian Liberal](https://dash.harvard.edu/bitstream/handle/1/3612779/Sen_ImpossibilityParetian.pdf). [^Sen1970]
@@ -689,15 +750,6 @@ Misc
 [^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
 [^Sen1970]: @Sen_1970_The_impossibility_of_a_Paretian_Liberal\.
 [^Sen2009]: @Sen_2009_The_Idea_of_Justice\.
-
-
-### Postmodern portfolio theory
-
--   Sortino, F. (2010). *The Sortino Framework for Constructing Portfolios*. [^Sortino2010]
--   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
-
-[^Elton2014]: @Elton_2014_Modern_Portfolio_Theory_and_Investment_Analysis\.
-[^Sortino2010]: @Sortino_2010_The_Sortino_Framework_for_Constructing_Portfolios\.
 
 
 Free speech 

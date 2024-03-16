@@ -20,6 +20,8 @@ Harris, S. (2010). *The Moral Landscape: How science can determine human values*
 Hayek, F. (1945). The use of knowledge in society. *The American Economic Review*, 35, 519--530.
 Jagannathan, R. & Ma, T. (2003). Risk reduction in large portfolios: Why imposing the wrong constraints helps. *The Journal of Finance*, 58(4), 1651--1683.
 Joyce, R. (2016). Evolution and moral naturalism. In *The Blackwell Companion to Naturalism* (pp. 369--385). John Wiley & Sons. http://personal.victoria.ac.nz/richard_joyce/acrobat/joyce_2016_evolution.and.moral.naturalism.pdf
+Karatzas, I., Lehoczky, J.P., Sethi, S.P., & Shreve, S.E (1986). Explicit solution of a general consumption/investment problem. *Mathematics of Operations Research*, 11, 261--294. https://www.jstor.org/stable/3689808
+Kelly, J.L. (1956). A new interpretation of information rate. *Bell System Technical Journal*, 35, 917--926. https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf
 Klocksiem, J. (2019). Against reductive ethical naturalism. *Philosophical Studies*, 176, 1991--2010.
 Ledoit, O. & Wolf, M. (2003). Improved estimation of the covariance matrix of stock returns with an application to portfolio selection. *Journal of Empirical Finance*, 10, 603--621.
 Loeb, D. (2003). Gastronomic realism: A cautionary tale. *Journal of Theoretical and Philosophical Psychology*, 23, 30--49. https://philpapers.org/rec/DONGR
@@ -28,6 +30,7 @@ Mantegna, R.N. (1998). Hierarchical structure in financial markets. https://arxi
 Markowitz, H.M. (1952). Portfolio selection. *The Journal of Finance*, 7, 77--91. https://www.jstor.org/stable/2975974
 Markowitz, H.M. (1959). *Portfolio Selection: Efficient Diversification of Investments*. Wiley.
 Markowitz, H.M. (2005). Market efficiency: A theoretical distinction and so what? *Financial Analysts Journal*, 61, 17--30.
+Merton, R.C. (1969). Lifetime portfolio selection under uncertainty: The continuous-time case. *The Review of Economics and Statistics*, 51, 247--257. https://www.jstor.org/stable/1926560
 Merton, R.C. (1972). An analytic derivation of the efficient portfolio frontier. *The Journal of Financial and Quantitative Analysis*, 7, 1851--1872. https://www.jstor.org/stable/2329621
 Moore, G.E. (1988). *Principia Ethica*. Prometheus Books. [(First published in 1903)]
 Nozick, R. (2013). *Anarchy, State, and Utopia*. Basic Books. [(First edition published in 1974)]
@@ -44,6 +47,7 @@ Rea, M.C. (2006). Naturalism and moral realism. In *Knowledge and Reality* (pp. 
 Resnik, M.D. (1987). *Choices: An Introduction to Decision Theory*. University of Minnesota Press.
 Richards, J.R. (1980). *The Sceptical Feminist: A Philosophical Enquiry*. Routledge.
 Richards, J.R. (1995). Why feminist epistemology isn't (and the implications for feminist jurisprudence). *Legal Theory*, 1, 365--400.
+Rockafellar, R.T. & Uryasev, S. (2000). Optimization of conditional value-at-risk. *Journal of Risk*, 2, 21--42. https://sites.math.washington.edu/~rtr/papers/rtr179-CVaR1.pdf
 Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. Bradford.
 Roy, A.D. (1952). Safety first and the holding of assets. *Econometrica*, 20, 431--449. https://www.jstor.org/stable/1907413
 Russell, B. (1943). The future of pacifism. *The American Scholar*, 13, 7--13. https://www.jstor.org/stable/41204635
