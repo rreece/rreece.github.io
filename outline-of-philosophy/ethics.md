@@ -603,8 +603,6 @@ Economics
 -   Markowitz, H.M. (2005). Market efficiency: A theoretical distinction and so what? [^Markowitz2005]
 -   Kwok, Y.K. (2017). Lecture notes: [Fundamentals of Mathematical Finance](https://www.math.hkust.edu.hk/~maykwok/MATH4512.htm).
 -   Das, S.R. (2017). [Being mean with variance: Markowitz optimization](https://srdas.github.io/MLBook/PortfolioOptimization.html).
--   Tam, A.S. (2021). [Lagrangians and portfolio optimization](https://www.adrian.idv.hk/2021-06-22-kkt/).
-    -   KKT conditions
 -   Armerin, F. (2023). Lecture notes: [More on mean-variance analysis](https://people.kth.se/~armerin/FinInsMathRwanda/Lecture10.pdf).
 
 [^Markowitz1952]: @Markowitz_1952_Portfolio_selection\.
@@ -637,8 +635,10 @@ Economics
 -   Linear programming
 -   Quadradic programming
     -   No-shorts efficient frontier
+    -   [Karush-Kuhn-Tucker (KKT) conditions](https://en.wikipedia.org/wiki/Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions)
+    -   Tam, A.S. (2021). [Lagrangians and portfolio optimization](https://www.adrian.idv.hk/2021-06-22-kkt/).
 -   Boyd, S. & Vandenberghe, L. (2004). [*Convex Optimization*](https://web.stanford.edu/~boyd/cvxbook/).
-    -   Boyd Lectures on youtube: [1](https://www.youtube.com/watch?v=kV1ru-Inzl4), [2](https://www.youtube.com/watch?v=2H4_7izio9Y), [3](https://www.youtube.com/watch?v=1menqhfNzzo), [4](https://www.youtube.com/watch?v=U2HRwA7XePU), [5](https://www.youtube.com/watch?v=AAjG1TQcL7c), [6](https://www.youtube.com/watch?v=d2jF3SXcFQ8)
+    -   Boyd Lectures on youtube: [1](https://www.youtube.com/watch?v=kV1ru-Inzl4), [2](https://www.youtube.com/watch?v=2H4_7izio9Y), [3](https://www.youtube.com/watch?v=1menqhfNzzo), [4](https://www.youtube.com/watch?v=U2HRwA7XePU), [5](https://www.youtube.com/watch?v=AAjG1TQcL7c), [6](https://www.youtube.com/watch?v=d2jF3SXcFQ8), [7](https://www.youtube.com/watch?v=P_SuSVZnrT0)
 -   [CVXPY](https://www.cvxpy.org/)
 -   [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
 
@@ -673,31 +673,32 @@ $$ S_i = \frac{ \mathbb{E}(r_i - r_f) }{ \sigma_i }  \label{eq:sharpe_ratio} $$
 $$ \beta_i = \frac{ \mathrm{Cov}(r_i, r_m) }{ \mathrm{Var}(r_m) } = \mathrm{Cor}(r_i, r_m) \: \frac{\sigma_i}{\sigma_m} \label{eq:sharpe_beta} $$
 
 -   [Alpha](https://en.wikipedia.org/wiki/Alpha_(finance))
+-   [Jensen's alpha](https://en.wikipedia.org/wiki/Jensen%27s_alpha)
+-   [Security Characteristic Line (SCL)](https://en.wikipedia.org/wiki/Security_characteristic_line)
+-   Jensen, M. (1968). [The performance of mutual funds in the period 1945-1964](https://www.jstor.org/stable/2325404). [^Jensen1968]
 
-$\alpha$ and $\beta$ can be calculated via linear regression:
+Thought in $r_i$ vs $r_m$ space, $\alpha$ and $\beta$ can be calculated via linear regression:
 
-$$ r_{it} = \alpha_i + \beta_i \, r_{mt} + \varepsilon_{it}  \label{eq:alpha_beta_regression} $$
+$$ r_{it} - r_f = \alpha_i + \beta_i \, (r_{mt} - r_f) + \varepsilon_{it}  \label{eq:alpha_beta_regression} $$
+
+Then the formula for Jensen's alpha is
+
+$$ \alpha_{i} = r_i - [ r_f + \beta_i \, (r_m - r_f) ] \label{eq:jensen_alpha} $$
 
 -   [Security Market Line (SML)](https://en.wikipedia.org/wiki/Security_market_line)
 
-Thought in $\mathbb{E}(r_i)$ vs $\beta_i$ space:
+Thought in $r_i$ vs $\beta_i$ space:
 
 $$ \mathbb{E}(r_i) = r_f + \beta_i \left( \mathbb{E}(r_m) - r_f \right) $$
-
--   [Security Characteristic Line (SCL)](https://en.wikipedia.org/wiki/Security_characteristic_line)
-
-Thought in $r_{it}$ vs $r_{mt}$ space:
-
-$$ r_{it} - r_f = \alpha_i + \beta_i \, ( r_{mt} - r_f )  + \varepsilon_{it} $$
 
 -   [Treynor ratio](https://en.wikipedia.org/wiki/Treynor_ratio)
 
 $$ T_i = \frac{ \mathbb{E}(r_i - r_f) }{ \beta_i }  \label{eq:treynor_ratio} $$
 
--   [Jensen's alpha](https://en.wikipedia.org/wiki/Jensen%27s_alpha)
+-   Gibbons, M., Ross, S., & Shanken, J. (1989). [A test of the efficiency of a given portfolio](https://www.jstor.org/stable/1913625). [^Gibbons1989]
 
-$$ \alpha_{i}^{J} = r_i - [ r_f + \beta_i \, (r_m - r_f) ] \label{eq:jensen_alpha} $$
-
+[^Jensen1968]: @Jensen_1968_The_performance_of_mutual_funds_in_the_period\.
+[^Gibbons1989]: @Gibbons_1989_A_test_of_the_efficiency_of_a_given_portfolio\.
 [^Sharpe1963]: @Sharpe_1963_A_simplified_model_for_portfolio_analysis\.
 [^Sharpe1964]: @Sharpe_1964_Capital_asset_prices_A_theory_of_market\.
 [^Sharpe1999]: @Sharpe_1999_Portfolio_Theory_and_Capital_Markets\.
@@ -727,6 +728,14 @@ $$ \alpha_{i}^{J} = r_i - [ r_f + \beta_i \, (r_m - r_f) ] \label{eq:jensen_alph
 [^Karatzas1986]: @Karatzas_1986_Explicit_solution_of_a_general\.
 [^Merton1969]: @Merton_1969_Lifetime_portfolio_selection_under_uncertainty\.
 [^Rockafellar2000]: @Rockafellar_2000_Optimization_of_conditional_value_at_risk\.
+
+
+### Fama-French model
+
+-   [Fama-French model three-factor model](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
+-   Fama, E.F. & French, K.R. (1992). [The cross-section of expected stock returns](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1992.tb04398.x). [^Fama1992]
+
+[^Fama1992]: @Fama_1992_The_cross_section_of_expected_stock_returns\.
 
 
 ### Postmodern portfolio theory
