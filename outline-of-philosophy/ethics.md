@@ -751,10 +751,12 @@ $$ \mathrm{TSV}(r_i, r_t) = \mathbb{E}\left[ (r_i - r_t)^2 \: \mathbb{1}_{\{r_i 
 
 $$ \mathrm{TSD}(r_i, r_t) = \sqrt{\mathrm{TSV}(r_i, r_t)}  \label{eq:target_semi_deviation} $$
 
+-   Rom, B.M. & Ferguson, K. (1993). Post-modern portfolio theory comes of age. *Journal of Investing*.
 -   Sortino, F. (2010). *The Sortino Framework for Constructing Portfolios*. [^Sortino2010]
 -   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
 
 [^Elton2014]: @Elton_2014_Modern_Portfolio_Theory_and_Investment_Analysis\.
+[^Rom1993]: @Rom_1993_Post_modern_portfolio_theory_comes_of_age\.
 [^Sortino2010]: @Sortino_2010_The_Sortino_Framework_for_Constructing_Portfolios\.
 
 

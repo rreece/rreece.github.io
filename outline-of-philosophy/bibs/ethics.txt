@@ -51,6 +51,7 @@ Resnik, M.D. (1987). *Choices: An Introduction to Decision Theory*. University o
 Richards, J.R. (1980). *The Sceptical Feminist: A Philosophical Enquiry*. Routledge.
 Richards, J.R. (1995). Why feminist epistemology isn't (and the implications for feminist jurisprudence). *Legal Theory*, 1, 365--400.
 Rockafellar, R.T. & Uryasev, S. (2000). Optimization of conditional value-at-risk. *Journal of Risk*, 2, 21--42. https://sites.math.washington.edu/~rtr/papers/rtr179-CVaR1.pdf
+Rom, B.M. & Ferguson, K. (1993). Post-modern portfolio theory comes of age. *Journal of Investing*. [Winter 1993]
 Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. Bradford.
 Roy, A.D. (1952). Safety first and the holding of assets. *Econometrica*, 20, 431--449. https://www.jstor.org/stable/1907413
 Russell, B. (1943). The future of pacifism. *The American Scholar*, 13, 7--13. https://www.jstor.org/stable/41204635
