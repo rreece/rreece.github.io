@@ -570,7 +570,7 @@ Russell in a letter to Wolfgang Paalen (1942):
 -   [Eugene V. Debs](https://en.wikipedia.org/wiki/Eugene_V._Debs) (1855-1926)
 -   Video: [Ted Turner asks Carl Sagan if he is a socialist](https://www.youtube.com/watch?v=rDK2chgNPZM)
 
-Shields:
+Mark Shields:
 
 >   Every one of us has been warmed by fires we did not build.
 >   Every one of us has drank from wells we did not dig. [^Shields2020]
@@ -632,13 +632,15 @@ Economics
 ### Convex optimization
 
 -   Affine combintations and convex sets
--   Linear programming
+-   [Linear programming](https://en.wikipedia.org/wiki/Linear_programming)
     -   [George Dantzig](https://en.wikipedia.org/wiki/George_Dantzig) (1914-2005)
--   Quadradic programming
+-   [Quadratic programming](https://en.wikipedia.org/wiki/Quadratic_programming)
     -   No-shorts efficient frontier
     -   [Karush-Kuhn-Tucker (KKT) conditions](https://en.wikipedia.org/wiki/Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions)
     -   Tam, A.S. (2021). [Lagrangians and portfolio optimization](https://www.adrian.idv.hk/2021-06-22-kkt/).
 -   Boyd, S. & Vandenberghe, L. (2004). [*Convex Optimization*](https://web.stanford.edu/~boyd/cvxbook/).
+    -   Course website at Stanford: [Convex Optimization I](https://web.stanford.edu/class/ee364a/)
+    -   [Convex Optimization Short Course](https://web.stanford.edu/~boyd/papers/cvx_short_course.html)
     -   Boyd Lectures on youtube: [1](https://www.youtube.com/watch?v=kV1ru-Inzl4), [2](https://www.youtube.com/watch?v=2H4_7izio9Y), [3](https://www.youtube.com/watch?v=1menqhfNzzo), [4](https://www.youtube.com/watch?v=U2HRwA7XePU), [5](https://www.youtube.com/watch?v=AAjG1TQcL7c), [6](https://www.youtube.com/watch?v=d2jF3SXcFQ8), [7](https://www.youtube.com/watch?v=P_SuSVZnrT0)
 -   Software:
     -   [CVXPY](https://www.cvxpy.org/)
@@ -669,7 +671,7 @@ Economics
 -   Sharpe, W.F. (1990). Nobel lecture: [Capital asset prices with and without negative holdings](https://www.nobelprize.org/uploads/2018/06/sharpe-lecture.pdf).
 -   Sharpe ratio
 
-$$ S_i = \frac{ \mathbb{E}(r_i - r_f) }{ \sigma_i }  \label{eq:sharpe_ratio} $$
+$$ S_i = \frac{ r_i - r_f }{ \sigma_i }  \label{eq:sharpe_ratio} $$
 
 -   [Beta](https://en.wikipedia.org/wiki/Beta_(finance))
 
@@ -696,7 +698,7 @@ $$ \mathbb{E}(r_i) = r_f + \beta_i \left( \mathbb{E}(r_m) - r_f \right) $$
 
 -   [Treynor ratio](https://en.wikipedia.org/wiki/Treynor_ratio)
 
-$$ T_i = \frac{ \mathbb{E}(r_i - r_f) }{ \beta_i }  \label{eq:treynor_ratio} $$
+$$ T_i = \frac{ r_i - r_f }{ \beta_i }  \label{eq:treynor_ratio} $$
 
 -   Gibbons, M., Ross, S., & Shanken, J. (1989). [A test of the efficiency of a given portfolio](https://www.jstor.org/stable/1913625). [^Gibbons1989]
 
@@ -742,6 +744,12 @@ $$ T_i = \frac{ \mathbb{E}(r_i - r_f) }{ \beta_i }  \label{eq:treynor_ratio} $$
 
 
 ### Postmodern portfolio theory
+
+-   [Downside risk](https://en.wikipedia.org/wiki/Downside_risk), semi-variance, semi-deviation, target semi-variance (TSV), target semi-deviation
+
+$$ \mathrm{TSV}(r_i, r_t) = \mathbb{E}\left[ (r_i - r_t)^2 \: \mathbb{1}_{\{r_i < r_t\}} \right]  \label{eq:target_semi_variance} $$
+
+$$ \mathrm{TSD}(r_i, r_t) = \sqrt{\mathrm{TSV}(r_i, r_t)}  \label{eq:target_semi_deviation} $$
 
 -   Sortino, F. (2010). *The Sortino Framework for Constructing Portfolios*. [^Sortino2010]
 -   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
