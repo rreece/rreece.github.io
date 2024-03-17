@@ -633,6 +633,7 @@ Economics
 
 -   Affine combintations and convex sets
 -   Linear programming
+    -   [George Dantzig](https://en.wikipedia.org/wiki/George_Dantzig) (1914-2005)
 -   Quadradic programming
     -   No-shorts efficient frontier
     -   [Karush-Kuhn-Tucker (KKT) conditions](https://en.wikipedia.org/wiki/Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions)
