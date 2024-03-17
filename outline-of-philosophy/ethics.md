@@ -640,8 +640,9 @@ Economics
     -   Tam, A.S. (2021). [Lagrangians and portfolio optimization](https://www.adrian.idv.hk/2021-06-22-kkt/).
 -   Boyd, S. & Vandenberghe, L. (2004). [*Convex Optimization*](https://web.stanford.edu/~boyd/cvxbook/).
     -   Boyd Lectures on youtube: [1](https://www.youtube.com/watch?v=kV1ru-Inzl4), [2](https://www.youtube.com/watch?v=2H4_7izio9Y), [3](https://www.youtube.com/watch?v=1menqhfNzzo), [4](https://www.youtube.com/watch?v=U2HRwA7XePU), [5](https://www.youtube.com/watch?v=AAjG1TQcL7c), [6](https://www.youtube.com/watch?v=d2jF3SXcFQ8), [7](https://www.youtube.com/watch?v=P_SuSVZnrT0)
--   [CVXPY](https://www.cvxpy.org/)
--   [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
+-   Software:
+    -   [CVXPY](https://www.cvxpy.org/)
+    -   [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
 
 
 ### Mutual fund separation theorem
