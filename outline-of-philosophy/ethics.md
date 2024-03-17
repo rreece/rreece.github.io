@@ -685,7 +685,7 @@ $$ r_{it} - r_f = \alpha_i + \beta_i \, (r_{mt} - r_f) + \varepsilon_{it}  \labe
 
 Then the formula for Jensen's alpha is
 
-$$ \alpha_{i} = r_i - [ r_f + \beta_i \, (r_m - r_f) ] \label{eq:jensen_alpha} $$
+$$ \alpha_{i} = (r_i - r_f) - \beta_i \, (r_m - r_f)  \label{eq:jensen_alpha} $$
 
 -   [Security Market Line (SML)](https://en.wikipedia.org/wiki/Security_market_line)
 
