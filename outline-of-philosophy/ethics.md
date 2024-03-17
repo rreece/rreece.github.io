@@ -650,7 +650,8 @@ Economics
 -   [Mutual fund separation theorem](https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem)
 -   Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. [^Chamberlain1983]
 -   Owen, J. & Rabinovitch, R. (1983). On the class of elliptical distributions and their applications to the theory of portfolio choice. [^Owen1983]
--   [Lecture notes by Ken Kasa (SFU)](https://www.sfu.ca/~kkasa/Econ815_Lecture7.pdf)
+-   [Lecture notes by Ken Kasa (SFU)](https://www.sfu.ca/~kkasa/econ815_23.html)
+    -   [Lecture 7](https://www.sfu.ca/~kkasa/Econ815_Lecture7.pdf)
 -   TODO: the two-fund theorem
 -   TODO: the one-fund theorem
 
