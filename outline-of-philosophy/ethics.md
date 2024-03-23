@@ -616,7 +616,8 @@ Economics
 
 -   [Estimation of covariance matrices](https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices)
 -   [Shrinkage](https://en.wikipedia.org/wiki/Shrinkage_(statistics))
--   Ledoit, O. & Wolf, M. (2003). Improved estimation of the covariance matrix of stock returns with an application to portfolio selection. [^Ledoit2003]
+-   Ledoit, O. & Wolf, M. (2001). [Honey, I shrunk the sample covariance matrix](http://www.ledoit.net/honey.pdf). [^Ledoit2001]
+-   Ledoit, O. & Wolf, M. (2003). [Improved estimation of the covariance matrix of stock returns with an application to portfolio selection](http://www.ledoit.net/ole2.pdf). [^Ledoit2003]
 -   Jagannathan, R. & Ma, T. (2003). Risk reduction in large portfolios: Why imposing the wrong constraints helps. [^Jagannathan2003]
 -   Coqueret, G. & Milhau, V. (2014). [Estimating covariance matrices for portfolio optimization](https://www.gcoqueret.com/files/Estim_cov.pdf) [^Coqueret2014]
 -   Covariance estimation and asset trees
@@ -625,6 +626,7 @@ Economics
 
 [^Coqueret2014]: @Coqueret_2014_Estimating_covariance_matrices_for_portfolio\.
 [^Jagannathan2003]: @Jagannathan_2003_Risk_reduction_in_large_portfolios_Why_imposing\.
+[^Ledoit2001]: HERE
 [^Ledoit2003]: @Ledoit_2003_Improved_estimation_of_the_covariance_matrix\.
 [^Mantegna1998]: @Mantegna_1998_Hierarchical_structure_in_financial_markets\.
 
