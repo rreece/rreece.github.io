@@ -641,7 +641,7 @@ Economics
 -   Boyd, S. & Vandenberghe, L. (2004). [*Convex Optimization*](https://web.stanford.edu/~boyd/cvxbook/).
     -   Course website at Stanford: [Convex Optimization I](https://web.stanford.edu/class/ee364a/)
     -   [Convex Optimization Short Course](https://web.stanford.edu/~boyd/papers/cvx_short_course.html)
-    -   Boyd Lectures on youtube: [1](https://www.youtube.com/watch?v=kV1ru-Inzl4), [2](https://www.youtube.com/watch?v=2H4_7izio9Y), [3](https://www.youtube.com/watch?v=1menqhfNzzo), [4](https://www.youtube.com/watch?v=U2HRwA7XePU), [5](https://www.youtube.com/watch?v=AAjG1TQcL7c), [6](https://www.youtube.com/watch?v=d2jF3SXcFQ8), [7](https://www.youtube.com/watch?v=P_SuSVZnrT0)
+    -   Boyd Lectures on youtube: [1](https://www.youtube.com/watch?v=kV1ru-Inzl4), [2](https://www.youtube.com/watch?v=2H4_7izio9Y), [3](https://www.youtube.com/watch?v=1menqhfNzzo), [4](https://www.youtube.com/watch?v=U2HRwA7XePU), [5](https://www.youtube.com/watch?v=AAjG1TQcL7c), [6](https://www.youtube.com/watch?v=d2jF3SXcFQ8), [7](https://www.youtube.com/watch?v=P_SuSVZnrT0), [8](https://www.youtube.com/watch?v=wsRznzNgTS0), [9](https://www.youtube.com/watch?v=whE03c84ahA), [10](https://www.youtube.com/watch?v=N3V2AdTImJE), [11](https://www.youtube.com/watch?v=trs0RI39uWI), [12](https://www.youtube.com/watch?v=ankx1lGi5jI)
 -   Software:
     -   [CVXPY](https://www.cvxpy.org/)
     -   [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
