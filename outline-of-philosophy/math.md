@@ -38,6 +38,27 @@ TODO
 -   arithmetic vs abstract algebra
 
 
+### Linear algebra
+
+-   Linear equations and transformation
+-   Vector spaces and dual spaces
+-   Axler, S. (2024). [*Linear Algebra Done Right*](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf).
+-   [Spectral theorem](https://en.wikipedia.org/wiki/Spectral_theorem):
+    $A$ is normal, $A A^\dagger = A^\dagger A \iff A = U D U^\dagger$
+    is an eigendecomposition of $A$, where the column vectors of $U$
+    are the eigenvectors of $A$ with corresponding eigenvalues on the
+    diagonal of $D$.
+-   [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis)
+-   [Rayleigh quotient](https://en.wikipedia.org/wiki/Rayleigh_quotient)
+
+![Matrix World: Classifying all matrices (source: [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/tree/main)).](img/matrix-world.png){#fig:matrix-world}
+
+See also:
+
+-   [Estimation of covariance matrices](ethics.html#estimation-of-covariance-matrices)
+-   [Convex optimization](ethics.html#convex-optimization)
+
+
 ### Finite groups
 
 -   [Group](https://en.wikipedia.org/wiki/Group_(mathematics))
@@ -68,19 +89,6 @@ TODO
 
 [^Hall2000]: @Hall_2000_An_Elementary_Introduction_to_Groups\.
 [^Zee2016]: @Zee_2016_Group_Theory_in_a_Nutshell_for_Physicists\.
-
-
-### Linear algebra
-
--   Linear equations and transformation
--   Vector spaces and dual spaces
--   Axler, S. (2024). [*Linear Algebra Done Right*](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf).
--   [Spectral theorem](https://en.wikipedia.org/wiki/Spectral_theorem):
-    $A$ is normal, $A A^\dagger = A^\dagger A \iff A = U D U^\dagger$
-    is an eigendecomposition of $A$, where the column vectors of $U$
-    are the eigenvectors of $A$ with corresponding eigenvalues on the
-    diagonal of $D$.
--   TODO: [Matrix World](https://anagileway.com/2023/02/05/matrix-world-and-prof-strangs-math18-06-class-2023/)
 
 
 ### More

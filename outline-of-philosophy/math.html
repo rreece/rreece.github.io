@@ -16,7 +16,7 @@
 <meta http-equiv="Content-Style-Type" content="text/css" />
 <meta name="generator" content="pandoc" />
 <meta name="author" content="Ryan Reece" />
-<meta name="date" content="Sat Mar 23, 2024" />
+<meta name="date" content="Sun Mar 24, 2024" />
 <title>Philosophy of mathematics - Ryan's Outline of Philosophy</title>
 <meta name="description" content="Ryan Reece&#x2019;s outline of philosophy" />
 <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue-dark.css"/>
@@ -75,9 +75,9 @@
 <ol type="1">
 <li><a href="math.html#introduction">Introduction</a></li>
 <li><a href="math.html#history">History</a></li>
+<li><a href="math.html#linear-algebra">Linear algebra</a></li>
 <li><a href="math.html#finite-groups">Finite groups</a></li>
 <li><a href="math.html#lie-groups">Lie groups</a></li>
-<li><a href="math.html#linear-algebra">Linear algebra</a></li>
 <li><a href="math.html#more">More</a></li>
 </ol></li>
 <li><a href="math.html#analysis">Analysis</a>
@@ -202,6 +202,23 @@
 <li><a href="https://en.wikipedia.org/wiki/Leopold_Kronecker">Leopold Kronecker</a> (1823-1891)</li>
 <li>arithmetic vs abstract algebra</li>
 </ul>
+<h3 id="linear-algebra">Linear algebra</h3>
+<ul>
+<li>Linear equations and transformation</li>
+<li>Vector spaces and dual spaces</li>
+<li>Axler, S. (2024). <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf"><em>Linear Algebra Done Right</em></a>.</li>
+<li><a href="https://en.wikipedia.org/wiki/Spectral_theorem">Spectral theorem</a>: <span class="math inline">\(A\)</span> is normal, <span class="math inline">\(A A^\dagger = A^\dagger A \iff A = U D U^\dagger\)</span> is an eigendecomposition of <span class="math inline">\(A\)</span>, where the column vectors of <span class="math inline">\(U\)</span> are the eigenvectors of <span class="math inline">\(A\)</span> with corresponding eigenvalues on the diagonal of <span class="math inline">\(D\)</span>.</li>
+<li><a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Component Analysis (PCA)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rayleigh_quotient">Rayleigh quotient</a></li>
+</ul>
+<figure>
+<img src="img/matrix-world.png" id="fig:matrix-world" alt="Figure 1: Matrix World: Classifying all matrices (source: The Art of Linear Algebra)." /><figcaption aria-hidden="true">Figure 1: Matrix World: Classifying all matrices (source: <a href="https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/tree/main">The Art of Linear Algebra</a>).</figcaption>
+</figure>
+<p>See also:</p>
+<ul>
+<li><a href="ethics.html#estimation-of-covariance-matrices">Estimation of covariance matrices</a></li>
+<li><a href="ethics.html#convex-optimization">Convex optimization</a></li>
+</ul>
 <h3 id="finite-groups">Finite groups</h3>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Group_(mathematics)">Group</a></li>
@@ -230,14 +247,6 @@
 <li><a href="https://en.wikipedia.org/wiki/ADE_classification">ADE classification</a></li>
 <li>Siegel, K. (2014). The ubiquity of ADE classifications in nature.</li>
 </ul></li>
-</ul>
-<h3 id="linear-algebra">Linear algebra</h3>
-<ul>
-<li>Linear equations and transformation</li>
-<li>Vector spaces and dual spaces</li>
-<li>Axler, S. (2024). <a href="https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf"><em>Linear Algebra Done Right</em></a>.</li>
-<li><a href="https://en.wikipedia.org/wiki/Spectral_theorem">Spectral theorem</a>: <span class="math inline">\(A\)</span> is normal, <span class="math inline">\(A A^\dagger = A^\dagger A \iff A = U D U^\dagger\)</span> is an eigendecomposition of <span class="math inline">\(A\)</span>, where the column vectors of <span class="math inline">\(U\)</span> are the eigenvectors of <span class="math inline">\(A\)</span> with corresponding eigenvalues on the diagonal of <span class="math inline">\(D\)</span>.</li>
-<li>TODO: <a href="https://anagileway.com/2023/02/05/matrix-world-and-prof-strangs-math18-06-class-2023/">Matrix World</a></li>
 </ul>
 <h3 id="more">More</h3>
 <ul>
@@ -284,7 +293,7 @@
 </ul>
 <h3 id="development-of-calculus">Development of calculus</h3>
 <figure>
-<img src="img/leibniz-1675-summa-and-diff.jpg" id="fig:leibniz-1675-summa-and-diff" alt="Figure 1: Leibniz&#x2019;s notation of integration: \int (summa) and differentiation: d (differentia) summarized in the margin of his notes in 1675. Note that \Pi was Leibniz&#x2019;s notation for equality. Photo by S. Wolfram (2013) of notes in the Leibniz-Archiv in Hanover, Germany." /><figcaption aria-hidden="true">Figure 1: Leibniz&#x2019;s notation of integration: <span class="math inline">\(\int\)</span> (<em>summa</em>) and differentiation: <span class="math inline">\(d\)</span> (<em>differentia</em>) summarized in the margin of his notes in 1675. Note that <span class="math inline">\(\Pi\)</span> was Leibniz&#x2019;s notation for equality. Photo by <a href="https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/">S. Wolfram</a> (2013) of notes in the Leibniz-Archiv in Hanover, Germany.</figcaption>
+<img src="img/leibniz-1675-summa-and-diff.jpg" id="fig:leibniz-1675-summa-and-diff" alt="Figure 2: Leibniz&#x2019;s notation of integration: \int (summa) and differentiation: d (differentia) summarized in the margin of his notes in 1675. Note that \Pi was Leibniz&#x2019;s notation for equality. Photo by S. Wolfram (2013) of notes in the Leibniz-Archiv in Hanover, Germany." /><figcaption aria-hidden="true">Figure 2: Leibniz&#x2019;s notation of integration: <span class="math inline">\(\int\)</span> (<em>summa</em>) and differentiation: <span class="math inline">\(d\)</span> (<em>differentia</em>) summarized in the margin of his notes in 1675. Note that <span class="math inline">\(\Pi\)</span> was Leibniz&#x2019;s notation for equality. Photo by <a href="https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/">S. Wolfram</a> (2013) of notes in the Leibniz-Archiv in Hanover, Germany.</figcaption>
 </figure>
 <ul>
 <li>James Gregory (1638-1675)</li>
@@ -1028,7 +1037,7 @@ in the ages before us.<a href="#fn79" class="footnote-ref" id="fnref79" role="do
 <li>Tegmark, M. (2014). <em>Our Mathematical Universe</em>.<a href="#fn80" class="footnote-ref" id="fnref80" role="doc-noteref"><sup>80</sup></a></li>
 </ul>
 <figure>
-<img src="img/Bronnikov-Pythagoreans-celebrate-sunrise.jpg" id="fig:Bronnikov-Pythagoreans-celebrate-sunrise" alt="Figure 2: Bronnikov, F. (1869). Pythagoreans celebrate sunrise. (Wikimedia, 2007)." /><figcaption aria-hidden="true">Figure 2: Bronnikov, F. (1869). Pythagoreans celebrate sunrise. (<a href="https://commons.wikimedia.org/wiki/File:Bronnikov_gimnpifagoreizev.jpg">Wikimedia</a>, 2007).</figcaption>
+<img src="img/Bronnikov-Pythagoreans-celebrate-sunrise.jpg" id="fig:Bronnikov-Pythagoreans-celebrate-sunrise" alt="Figure 3: Bronnikov, F. (1869). Pythagoreans celebrate sunrise. (Wikimedia, 2007)." /><figcaption aria-hidden="true">Figure 3: Bronnikov, F. (1869). Pythagoreans celebrate sunrise. (<a href="https://commons.wikimedia.org/wiki/File:Bronnikov_gimnpifagoreizev.jpg">Wikimedia</a>, 2007).</figcaption>
 </figure>
 <h3 id="plato">Plato</h3>
 <ul>
@@ -1041,7 +1050,7 @@ in the ages before us.<a href="#fn79" class="footnote-ref" id="fnref79" role="do
 <li>Aristotle on universals</li>
 </ul>
 <figure>
-<img src="img/Raphael-School-of-Athens-1511-detail-Plato-Aristotle-mod.jpg" id="fig:Raphael-School-of-Athens-1511-detail-Plato-Aristotle" alt="Figure 3: Detail of School of Athens by Raphael (1511), showing Plato and Aristotle (Wikimedia, 2013)." /><figcaption aria-hidden="true">Figure 3: Detail of <em>School of Athens</em> by Raphael (1511), showing Plato and Aristotle (<a href="https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg">Wikimedia</a>, 2013).</figcaption>
+<img src="img/Raphael-School-of-Athens-1511-detail-Plato-Aristotle-mod.jpg" id="fig:Raphael-School-of-Athens-1511-detail-Plato-Aristotle" alt="Figure 4: Detail of School of Athens by Raphael (1511), showing Plato and Aristotle (Wikimedia, 2013)." /><figcaption aria-hidden="true">Figure 4: Detail of <em>School of Athens</em> by Raphael (1511), showing Plato and Aristotle (<a href="https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg">Wikimedia</a>, 2013).</figcaption>
 </figure>
 <blockquote>
 <p>I think you know that the students of geometry, calculation, and the like hypothesize the odd and the even, the various figures, the three kinds of angles, and other things akin to these in each of their investigations, as if they knew them. They make their hypotheses and don&#x2019;t think it necessary to give any account of them, either to themselves or to others, as if they were clear to everyone. And going from these first principles through the remaining steps, they arrive in full agreement.</p>
@@ -2071,7 +2080,7 @@ Zee, A. (2016). <em><span class="nocase">Group Theory in a Nutshell for Physicis
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Sat Mar 23, 2024</p>
+    <p>Sun Mar 24, 2024</p>
   </div>
   <div class="license">
     <p>&#xA9; 2014-2024 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>

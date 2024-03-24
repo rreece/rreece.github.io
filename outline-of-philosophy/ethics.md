@@ -626,7 +626,7 @@ Economics
 
 [^Coqueret2014]: @Coqueret_2014_Estimating_covariance_matrices_for_portfolio\.
 [^Jagannathan2003]: @Jagannathan_2003_Risk_reduction_in_large_portfolios_Why_imposing\.
-[^Ledoit2001]: HERE
+[^Ledoit2001]: @Ledoit_2001_Honey_I_shrunk_the_sample_covariance_matrix\.
 [^Ledoit2003]: @Ledoit_2003_Improved_estimation_of_the_covariance_matrix\.
 [^Mantegna1998]: @Mantegna_1998_Hierarchical_structure_in_financial_markets\.
 
