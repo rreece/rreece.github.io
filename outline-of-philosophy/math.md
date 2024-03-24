@@ -80,6 +80,8 @@ TODO
     is an eigendecomposition of $A$, where the column vectors of $U$
     are the eigenvectors of $A$ with corresponding eigenvalues on the
     diagonal of $D$.
+-   TODO: [Matrix World](https://anagileway.com/2023/02/05/matrix-world-and-prof-strangs-math18-06-class-2023/)
+
 
 ### More
 
