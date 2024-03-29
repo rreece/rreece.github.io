@@ -145,7 +145,7 @@ See also:
 -   Kendall [^Stuart2010]
 -   James [^James2006]
 -   Cowan [^Cowan1998]
--   Cranmer [^Cranmer2015]
+-   Cranmer [^Cranmer2015a]
 -   Lista: book [^Lista2016a], notes [^Lista2016b]
 -   Cox [^Cox2006]
 -   Behnke, O., Kr&ouml;ninger, K., Schott, G., & Sch&ouml;rner-Sadenius, T. (2013). *Data Analysis in High Energy Physics: A Practical Guide to Statistical Methods*. [^Behnke2013]
@@ -167,7 +167,7 @@ See also:
 [^Cousins2018]: @Cousins_2018_Lectures_on_statistics_in_theory_Prelude\.
 [^Cowan1998]: @Cowan_1998_Statistical_Data_Analysis and @Cowan_2016_StatisticsIn_CPatrignani_et_alParticle_Data\.
 [^Cox2006]: @Cox_2006_Principles_of_Statistical_Inference\.
-[^Cranmer2015]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
+[^Cranmer2015a]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^Gelman2021]: @Gelman_2021_What_are_the_most_important_statistical_ideas\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
 [^Lista2016a]: @Lista_2016_Statistical_Methods_for_Data_Analysis_in_Particle\.
@@ -1033,7 +1033,7 @@ Cranmer:
 >   necessary probabilities exist in the first place. If one can define the joint
 >   probability $P (A, B)$ in a frequentist way, then a Frequentist is perfectly
 >   happy using Bayes theorem. Thus, the debate starts at the very definition of
->   probability. [^Cranmer2015p6]
+>   probability. [^Cranmer2015ap6]
 
 Neyman:
 
@@ -1045,7 +1045,7 @@ Neyman:
 ![From Kruschke. [^Kruschke2018fig1]](img/Kruschke-bayes-freq-grid.png){#fig:Kruschke-bayes-freq-grid}
 
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
-[^Cranmer2015p6]: @Cranmer_2015_Practical_statistics_for_the_LHC\, p. 6.
+[^Cranmer2015ap6]: @Cranmer_2015_Practical_statistics_for_the_LHC\, p. 6.
 [^Kruschke2018fig1]: @Kruschke_2018_The_Bayesian_New_Statistics_Hypothesis_testing\.
 [^Neyman1933longrun]: @Neyman_1933_On_the_problem_of_the_most_efficient_tests\.
 [^Royall1997p171]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\, p. 171--2.
@@ -2657,6 +2657,7 @@ Automation
     -   Thuerey, N. et al. (2021). [Physics-based deep learning](https://arxiv.org/abs/2109.05237). [^Thuerey2021]
     -   [physicsbaseddeeplearning.org](https://physicsbaseddeeplearning.org/intro.html)
 -   Simulation-based inference
+    -   Cranmer, K., Pavez, J., & Louppe, G. (2015). [Approximating likelihood ratios with calibrated discriminative classifiers](https://arxiv.org/abs/1506.02169). [^Cranmer2015b]
     -   Cranmer, K., Brehmer, J., & Louppe, G. (2019). [The frontier of simulation-based inference](https://arxiv.org/abs/1911.01429). [^Cranmer2019]
     -   Baydin, A.G. et al. (2019). [Etalumis: Bringing probabilistic programming to scientific simulators at scale](https://arxiv.org/abs/1907.03382). [^Baydin2019]
 
@@ -2665,6 +2666,7 @@ Lectures:
 -   Paul Hand. (2020). [Invertible neural networks and inverse problems](https://www.youtube.com/watch?v=IpbeIwSr7r0).
 
 [^Baydin2019]: @Baydin_2019_Etalumis_Bringing_probabilistic_programming\.
+[^Cranmer2015b]: @Cranmer_2015_Approximating_likelihood_ratios_with_calibrated\.
 [^Cranmer2019]: @Cranmer_2019_The_frontier_of_simulation_based_inference\.
 [^Fefferman2016]: @Fefferman_2016_Testing_the_manifold_hypothesis\.
 [^Howard2021]: @Howard_2021_Foundations_of_a_fast_data_driven_machine\.

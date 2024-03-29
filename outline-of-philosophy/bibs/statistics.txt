@@ -97,6 +97,7 @@ Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2012). Asymptotic distribution
 Cox, D.R. (2006). *Principles of Statistical Inference*. Cambridge University Press.
 Cram\'{e}r, H. (1946). A contribution to the theory of statistical estimation. *Skandinavisk Aktuarietidskrift*, 29, 85--94.
 Cranmer, K. (2015). Practical statistics for the LHC. https://arxiv.org/abs/1503.07622
+Cranmer, K., Pavez, J., & Louppe, G. (2015). Approximating likelihood ratios with calibrated discriminative classifiers. https://arxiv.org/abs/1506.02169
 Cranmer, K., Brehmer, J., & Louppe, G. (2019). The frontier of simulation-based inference. https://arxiv.org/abs/1911.01429
 Cranmer, K., Seljak, U., & Terao, K. (2021). Machine learning. In P.A. Zyla et al. *Progress of Theoretical and Experimental Physics*, 2020, 083C01. https://pdg.lbl.gov/2021-rev/2021/reviews/contents_sports.html [(and 2021 update)] 
 Cranmer, K., Shibata, A., Verkerke, W., Moneta, L., & Lewis, G. (2012). HistFactory: A tool for creating statistical models for use with RooFit and RooStats. http://inspirehep.net/record/1236448/ [Technical Report: CERN-OPEN-2012-016]
