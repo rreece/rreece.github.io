@@ -93,6 +93,7 @@ Tarski, A. (1983). The concept of truth in formalized languages. In J. Corcoran 
 Tegmark, M. (2008). The mathematical universe. *Foundations of Physics*, 38, 101--150. https://arxiv.org/abs/0704.0646
 Tegmark, M. (2014). *Our Mathematical Universe*. Knopf.
 Teller, P. (1989). *A Modern Formal Logic Primer*. Prentice Hall. https://tellerprimer.ucdavis.edu/
+Tu, L.W. (2017). *Differential Geometry: Connections, Curvature, and Characteristic Classes*. Springer.
 Turing, A.M. (1937). On computable numbers, with an application to the Entscheidungsproblem. *Proceedings of the London Mathematical Society*, 42, 230--65.
 Varadarajan, V.S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. In *A Tribute to CS Seshadri* (pp. 502--541). Gurgaon: Hindustan Book Agency.
 Viteri, S. & DeDeo, S. (2022). Epistemic phase transitions in mathematical proofs. *Cognition*, 225, 105120. https://www.sciencedirect.com/science/article/pii/S0010027722001081

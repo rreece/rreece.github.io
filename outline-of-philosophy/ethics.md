@@ -703,9 +703,11 @@ $$ \mathbb{E}(r_i) = r_f + \beta_i \left( \mathbb{E}(r_m) - r_f \right) $$
 $$ T_i = \frac{ r_i - r_f }{ \beta_i }  \label{eq:treynor_ratio} $$
 
 -   Gibbons, M., Ross, S., & Shanken, J. (1989). [A test of the efficiency of a given portfolio](https://www.jstor.org/stable/1913625). [^Gibbons1989]
+-   Luenberger, D.G. (1998). *Investment Science*. [^Luenberger1998]
 
 [^Jensen1968]: @Jensen_1968_The_performance_of_mutual_funds_in_the_period\.
 [^Gibbons1989]: @Gibbons_1989_A_test_of_the_efficiency_of_a_given_portfolio\.
+[^Luenberger1998]: @Luenberger_1998_Investment_Science\.
 [^Sharpe1963]: @Sharpe_1963_A_simplified_model_for_portfolio_analysis\.
 [^Sharpe1964]: @Sharpe_1964_Capital_asset_prices_A_theory_of_market\.
 [^Sharpe1999]: @Sharpe_1999_Portfolio_Theory_and_Capital_Markets\.

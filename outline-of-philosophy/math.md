@@ -186,6 +186,7 @@ TODO
     -   Varadarajan, V. S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. [^Varadarajan2003]
     -   Tao, T. (2007). [Differential forms and integration](https://www.math.ucla.edu/~tao/preprints/forms.pdf). [^Tao2007]
     -   Sussman, G.J. & Wisdom, J. (2013). [*Functional Differential Geometry*](https://mitpress.mit.edu/books/functional-differential-geometry). [^Sussman2013]
+    -   Tu, L.W. (2017). *Differential Geometry: Connections, Curvature, and Characteristic Classes*. [^Tu2017]
     -   Bronstein, M.M. et al. (2021). [Geometric deep learning: Grids, groups, graphs, geodesics, and gauges](https://arxiv.org/abs/2104.13478). [^Bronstein2021p56]
 -   [De Rham cohomology](https://en.wikipedia.org/wiki/De_Rham_cohomology)
 -   [Chern-Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
@@ -203,6 +204,7 @@ See also:
 [^Fre2013v1ch2]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_1\, ch. 2.
 [^Sussman2013]: @Sussman_2013_Functional_Differential_Geometry\.
 [^Tao2007]: @Tao_2007_Differential_forms_and_integration\.
+[^Tu2017]: @Tu_2017_Differential_Geometry_Connections_Curvature\.
 [^Varadarajan2003]: @Varadarajan_2003_Vector_bundles_and_connections_in_physics\.
 
 
