@@ -1543,6 +1543,10 @@ Deep learning
     -   Schmidhuber: [Who invented backpropagation?](http://people.idsia.ch/~juergen/who-invented-backpropagation.html)
     -   Scmidhuber: [The most cited neural networks all build on work done in my labs](https://people.idsia.ch/~juergen/most-cited-neural-nets.html).
     -   LeCun, Y. & Bottou, L. (1998). [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf). [^LeCun1998b]
+-   Pedagogy
+    -   Bekman, S. (2023). [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering).
+    -   Labonne, M. (2023). [Large Language Model Course](https://github.com/mlabonne/llm-course).
+    -   Microsoft. (2023). [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners).
 -   Practical guides
     -   Bottou, L. (1998). [Stochastic gradient descent tricks](https://www.microsoft.com/en-us/research/publication/stochastic-gradient-tricks/). [^Bottou1998]
     -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
@@ -1948,6 +1952,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   OpenAI. (2022). Blog: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/).
     -   Wolfram, S. (2023). [What is ChatGPT doing---and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) [^Wolfram2023]
     -   GPT-4 [^OpenAI2023]
+    -   3Blue1Brown. (2024). Video: [But what is a GPT? Visual intro to Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M).
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
@@ -1961,6 +1966,8 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Peng, B. et al. (2023). [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048). [^Peng2023]
     -   Sun, Y. et al. (2023). [Retentive network: A successor to transformer for large language models](https://arxiv.org/abs/2307.08621). [^Sun2023]
     -   Gu, A. & Dao, T. (2023). [Mamba: Linear-time sequence modeling with selective state spaces](https://arxiv.org/abs/2312.00752). [^Gu2023]
+    -   Wang, H. et al. (2023). [BitNet: Scaling 1-bit transformers for large language models](https://arxiv.org/abs/2310.11453). [^Wang2023]
+    -   Ma, S. et al. (2024). [The era of 1-bit LLMs: All large language models are in 1.58 bits](https://arxiv.org/abs/2402.17764). [^Ma2024]
 
 [^Bertsch2023]: @Bertsch_2023_Unlimiformer_Long_range_transformers\.
 [^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
@@ -1975,6 +1982,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Lewis2019]: @Lewis_2019_BART_Denoising_sequence_to_sequence_pre_training\.
 [^Liu2019]: @Liu_2019_RoBERTa_A_robustly_optimized_BERT_pretraining\.
+[^Ma2024]: @Ma_2024_The_era_of_1_bit_LLMs_All_large_language_models\.
 [^Mialon2023]: @Mialon_2023_Augmented_Language_Models_a_Survey\.
 [^OpenAI2023]: @OpenAI_2023_GPT_4_Technical_Report\.
 [^Ouyang2022]: @Ouyang_2022_Training_language_models_to_follow_instructions\.
@@ -1985,6 +1993,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
 [^Sun2023]: @Sun_2023_Retentive_network_A_successor_to_transformer\.
 [^Tay2022]: @Tay_2022_Efficient_transformers_A_survey\.
 [^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.
+[^Wang2023]: @Wang_2023_BitNet_Scaling_1_bit_transformers_for_large\.
 [^Wolfram2023]: @Wolfram_2023_What_is_ChatGPT_doing_and_why_does_it_work\.
 [^Yang2019]: @Yang_2019_XLNet_Generalized_autoregressive_pretraining\.
 [^Zaheer2020]: @Zaheer_2020_Big_Bird_Transformers_for_longer_sequences\.

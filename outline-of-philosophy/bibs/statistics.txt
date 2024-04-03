@@ -232,6 +232,7 @@ Lovering, C. & Pavlick, E. (2022). Unit testing for concepts in neural networks.
 Lu, Z., Pu, H., Wang, F., Hu, Z., & Wang, L. (2017). The expressive power of neural networks: A view from the width. *Advances in Neural Information Processing Systems*, 30. https://proceedings.neurips.cc/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf
 Lundberg, I., Johnson, R., & Stewart, B.M. (2021). What is your estimand? Defining the target quantity connects statistical evidence to theory. *American Sociological Review*, 86, 532--565. https://journals.sagepub.com/doi/abs/10.1177/00031224211004187
 Lyons, L. (2008). Open statistical issues in particle physics. *The Annals of Applied Statistics*, 2, 887--915. https://projecteuclid.org/journals/annals-of-applied-statistics/volume-2/issue-3/Open-statistical-issues-in-Particle-Physics/10.1214/08-AOAS163.full
+Ma, S. et al. (2024). The era of 1-bit LLMs: All large language models are in 1.58 bits. https://arxiv.org/abs/2402.17764
 MacFarlane, A. (2017). Rudolf Carnap (1891-1970). *Philosophy Now*, 118. https://philosophynow.org/issues/118/Rudolf_Carnap_1891-1970
 MacKay, D.J.C. (2003). *Information Theory, Inference, and Learning Algorithms*. Cambridge University Press.
 Maddox, W.J., Benton, G., & Wilson, A.G. (2023). Rethinking parameter counting in deep models: Effective dimensionality revisited. https://arxiv.org/abs/2003.02139
@@ -396,3 +397,4 @@ Zech, G. (1995). Comparing statistical data to Monte Carlo simulation: Parameter
 Zhang, W. (1998). Complete anytime beam search. *AAAI Proceedings*, 98, 425--430. https://cdn.aaai.org/AAAI/1998/AAAI98-060.pdf
 Zhou, R. & Hansen, E. A. (2005). Beam-stack search: Integrating backtracking with beam search. *ICAPS*, 15, 90--98. https://cdn.aaai.org/ICAPS/2005/ICAPS05-010.pdf
 Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. *Advances in Neural Information Processing Systems*, 20, 1729--1736. https://proceedings.neurips.cc/paper/2007/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf
+Wang, H. et al. (2023). BitNet: Scaling 1-bit transformers for large language models. https://arxiv.org/abs/2310.11453

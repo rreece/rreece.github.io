@@ -6,40 +6,20 @@ Bikchandani, S., Riley, J.G., & Hirshleifer, J. (2013). *The Analytics of Uncert
 Bjornsson, G. & Finlay, S. (2010). Metaethical contextualism defended. *Ethics*, 121, 7--36.
 Black, M. (1964). The gap between "is" and "should". *Philosophical Review*, 73, 165--181.
 Brown, S.R. (2008). *Moral Virtue and Nature: A defense of ethical naturalism*. Continuum.
-Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. *Journal of Economic Theory*, 29, 185--201.
 Churchland, P.S. (2011). *What Neuroscience Tells Us About Morality*. Princeton University Press.
 Clifford, W.K. (1877). The ethics of belief. *Contemporary Review*, 29, 289. https://web.archive.org/web/20190427051422/https://www.uta.edu/philosophy/faculty/burgess-jackson/Clifford.pdf
-Coqueret, G. & Milhau, V. (2014). Estimating covariance matrices for portfolio optimization. https://www.gcoqueret.com/files/Estim_cov.pdf
 Cushman, F. (2013). Action, outcome, and value. *Personality and Social Psychology Review*, 17, 273--292.
 de Beauvoir, S. (1949). The Second Sex.
 de Waal, F. (1982). *Chimpanzee Politics: Power and Sex among Apes*. Johns Hopkins University Press.
-Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*, (9th ed.). Wiley. 
-Fama, E.F. (1970). Efficient capital markets: A review of theory and empirical work. *Journal of Finance*, 25(2), 383--417. http://www.e-m-h.org/Fama70.pdf
-Fama, E.F. & French, K.R. (1992). The cross-section of expected stock returns. *The Journal of Finance*, 47, 427. https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1992.tb04398.x
-Gibbons, M., Ross, S., & Shanken, J. (1989). A test of the efficiency of a given portfolio. *Econometrica*, 57, 1121--1152. https://www.jstor.org/stable/1913625
 Goldman, A.H. (1993). Realism about aesthetic properties. *The Journal of Aesthetics and Art Criticism*, 51, 31--37.
 Harris, S. (2010). *The Moral Landscape: How science can determine human values*. Free Press.
 Hayek, F. (1945). The use of knowledge in society. *The American Economic Review*, 35, 519--530.
-Jagannathan, R. & Ma, T. (2003). Risk reduction in large portfolios: Why imposing the wrong constraints helps. *The Journal of Finance*, 58(4), 1651--1683.
-Jensen, M. (1968). The performance of mutual funds in the period 1945-1964. *Journal of Finance*, 23, 389--416. https://www.jstor.org/stable/2325404
 Joyce, R. (2016). Evolution and moral naturalism. In *The Blackwell Companion to Naturalism* (pp. 369--385). John Wiley & Sons. http://personal.victoria.ac.nz/richard_joyce/acrobat/joyce_2016_evolution.and.moral.naturalism.pdf
-Karatzas, I., Lehoczky, J.P., Sethi, S.P., & Shreve, S.E (1986). Explicit solution of a general consumption/investment problem. *Mathematics of Operations Research*, 11, 261--294. https://www.jstor.org/stable/3689808
-Kelly, J.L. (1956). A new interpretation of information rate. *Bell System Technical Journal*, 35, 917--926. https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf
 Klocksiem, J. (2019). Against reductive ethical naturalism. *Philosophical Studies*, 176, 1991--2010.
-Ledoit, O. & Wolf, M. (2003). Improved estimation of the covariance matrix of stock returns with an application to portfolio selection. *Journal of Empirical Finance*, 10, 603--621. http://www.ledoit.net/ole2.pdf
-Ledoit, O. & Wolf, M. (2001). Honey, I shrunk the sample covariance matrix. http://www.ledoit.net/honey.pdf
 Loeb, D. (2003). Gastronomic realism: A cautionary tale. *Journal of Theoretical and Philosophical Psychology*, 23, 30--49. https://philpapers.org/rec/DONGR
-Luenberger, D.G. (1998). *Investment Science*. Oxford University Press.
 Mackie, J.L. (2007). *Ethics: Inventing Right and Wrong*. Penguin. [(First edition published in 1977)]
-Mantegna, R.N. (1998). Hierarchical structure in financial markets. https://arxiv.org/abs/cond-mat/9802256
-Markowitz, H.M. (1952). Portfolio selection. *The Journal of Finance*, 7, 77--91. https://www.jstor.org/stable/2975974
-Markowitz, H.M. (1959). *Portfolio Selection: Efficient Diversification of Investments*. Wiley.
-Markowitz, H.M. (2005). Market efficiency: A theoretical distinction and so what? *Financial Analysts Journal*, 61, 17--30.
-Merton, R.C. (1969). Lifetime portfolio selection under uncertainty: The continuous-time case. *The Review of Economics and Statistics*, 51, 247--257. https://www.jstor.org/stable/1926560
-Merton, R.C. (1972). An analytic derivation of the efficient portfolio frontier. *The Journal of Financial and Quantitative Analysis*, 7, 1851--1872. https://www.jstor.org/stable/2329621
 Moore, G.E. (1988). *Principia Ethica*. Prometheus Books. [(First published in 1903)]
 Nozick, R. (2013). *Anarchy, State, and Utopia*. Basic Books. [(First edition published in 1974)]
-Owen, J. & Rabinovitch, R. (1983). On the class of elliptical distributions and their applications to the theory of portfolio choice. *Journal of Finance*, 38, 745--752.
 Parekh, B. (2006). *Rethinking Multiculturalism: Cultural Diversity and Political Theory* (2nd ed.). Palgrave MacMillan.
 Parfit, D. (1984). *Reasons and Pearsons*. Clarendon Press.
 Pettit, P. (1983). The possibility of aesthetic realism. In E. Schaper (ed.), *Pleasure, Preference and Value: Studies in philosophical aesthetics*. Cambridge University Press.
@@ -52,10 +32,7 @@ Rea, M.C. (2006). Naturalism and moral realism. In *Knowledge and Reality* (pp. 
 Resnik, M.D. (1987). *Choices: An Introduction to Decision Theory*. University of Minnesota Press.
 Richards, J.R. (1980). *The Sceptical Feminist: A Philosophical Enquiry*. Routledge.
 Richards, J.R. (1995). Why feminist epistemology isn't (and the implications for feminist jurisprudence). *Legal Theory*, 1, 365--400.
-Rockafellar, R.T. & Uryasev, S. (2000). Optimization of conditional value-at-risk. *Journal of Risk*, 2, 21--42. https://sites.math.washington.edu/~rtr/papers/rtr179-CVaR1.pdf
-Rom, B.M. & Ferguson, K. (1993). Post-modern portfolio theory comes of age. *Journal of Investing*. [Winter 1993]
 Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. Bradford.
-Roy, A.D. (1952). Safety first and the holding of assets. *Econometrica*, 20, 431--449. https://www.jstor.org/stable/1907413
 Russell, B. (1943). The future of pacifism. *The American Scholar*, 13, 7--13. https://www.jstor.org/stable/41204635
 Russell, G. (2020). Logic isn't normative. *Inquiry*, 63, 371--388.
 Russell, G. (2021). How to prove Hume’s law. *Journal of Philosophical Logic*. [(forthcoming)]
@@ -67,12 +44,8 @@ Schurz, G. (2010). Non-trivial versions of Hume's is-ought thesis. In Pigden, C.
 Scruton, R. (2018). Why beauty matters. *The Monist*, 101, 9--16.
 Sen, A. (1970). The impossibility of a Paretian Liberal. *Journal of Political Economy*, 78, 152--157. https://dash.harvard.edu/bitstream/handle/1/3612779/Sen_ImpossibilityParetian.pdf
 Sen, A. (2009). *The Idea of Justice*. Harvard University Press.
-Sharpe, W.F. (1963). A simplified model for portfolio analysis. *Management Science*, 9, 277--293.
-Sharpe, W.F. (1964). Capital asset prices: A theory of market equilibrium under conditions of risk. *Journal of Finance*, 19, 425--442.
-Sharpe, W.F. (1999). *Portfolio Theory and Capital Markets*. McGraw-Hill. [(Originally published in 1970)]
 Skarsaune, K.O. (2009). Darwin and moral realism: Survival of the iffiest. *Philosophical Studies*, 152(2), 229--243.
 Snyder-Hall, R.C. (2010). Third-wave feminism and the defense of "choice". *Perspectives on Politics*, 8, 255--261. https://www.jstor.org/stable/25698533
 Solzhenitsyn, A. (1974). *The Gulag Archipelago* (T.P. Whitney, Trans.) . Harper & Row.
-Sortino, F. (2010). *The Sortino Framework for Constructing Portfolios*. Elsevier.
 Thomson, J.J. (1971). A defense of abortion. *Philosophy & Public Affairs*, 1, 47--66.
 Wedgwood, R. (2007). *The Nature of Normativity*. Oxford University Press.

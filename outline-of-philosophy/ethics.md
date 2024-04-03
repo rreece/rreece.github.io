@@ -616,19 +616,23 @@ Economics
 
 -   [Estimation of covariance matrices](https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices)
 -   [Shrinkage](https://en.wikipedia.org/wiki/Shrinkage_(statistics))
--   Ledoit, O. & Wolf, M. (2001). [Honey, I shrunk the sample covariance matrix](http://www.ledoit.net/honey.pdf). [^Ledoit2001]
--   Ledoit, O. & Wolf, M. (2003). [Improved estimation of the covariance matrix of stock returns with an application to portfolio selection](http://www.ledoit.net/ole2.pdf). [^Ledoit2003]
--   Jagannathan, R. & Ma, T. (2003). Risk reduction in large portfolios: Why imposing the wrong constraints helps. [^Jagannathan2003]
--   Coqueret, G. & Milhau, V. (2014). [Estimating covariance matrices for portfolio optimization](https://www.gcoqueret.com/files/Estim_cov.pdf) [^Coqueret2014]
+    -   Ledoit, O. & Wolf, M. (2001). [Honey, I shrunk the sample covariance matrix](http://www.ledoit.net/honey.pdf). [^Ledoit2001]
+    -   Ledoit, O. & Wolf, M. (2003). [Improved estimation of the covariance matrix of stock returns with an application to portfolio selection](http://www.ledoit.net/ole2.pdf). [^Ledoit2003]
+    -   Coqueret, G. & Milhau, V. (2014). [Estimating covariance matrices for portfolio optimization](https://web.archive.org/web/20230928050136/https://www.gcoqueret.com/files/Estim_cov.pdf) [^Coqueret2014]
 -   Covariance estimation and asset trees
     -   Mantegna, R.N. (1998). [Hierarchical structure in financial markets](https://arxiv.org/abs/cond-mat/9802256). [^Mantegna1998]
+    -   Onnela, J.P., Chakraborti, A., Kaski, K., Kertesz, J., & Kanto, A. (2003). [Dynamics of market correlations: Taxonomy and portfolio analysis](http://arXiv.org/abs/cond-mat/0302546v1). [^Onnela2003]
+    -   Onnela, J.P., Kaski, K., & Kert&eacute;sz, J. (2004). Clustering and information in correlation based financial networks. [^Onnela2004]
+    -   L&oacute;pez de Prado, M. (2018). *Advances in Financial Machine Learning*. [^LopezDePrado2018]
 -   TODO: maybe move this to statistics?
 
 [^Coqueret2014]: @Coqueret_2014_Estimating_covariance_matrices_for_portfolio\.
-[^Jagannathan2003]: @Jagannathan_2003_Risk_reduction_in_large_portfolios_Why_imposing\.
 [^Ledoit2001]: @Ledoit_2001_Honey_I_shrunk_the_sample_covariance_matrix\.
+[^LopezDePrado2018]: @Lopez_2018_Advances_in_Financial_Machine_Learning\.
 [^Ledoit2003]: @Ledoit_2003_Improved_estimation_of_the_covariance_matrix\.
 [^Mantegna1998]: @Mantegna_1998_Hierarchical_structure_in_financial_markets\.
+[^Onnela2003]: @Onnela_2003_Dynamics_of_market_correlations_Taxonomy\.
+[^Onnela2004]: @Onnela_2004_Clustering_and_information_in_correlation_based\.
 
 
 ### Convex optimization
@@ -639,6 +643,7 @@ Economics
 -   [Quadratic programming](https://en.wikipedia.org/wiki/Quadratic_programming)
     -   No-shorts efficient frontier
     -   [Karush-Kuhn-Tucker (KKT) conditions](https://en.wikipedia.org/wiki/Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions)
+    -   Jagannathan, R. & Ma, T. (2003). Risk reduction in large portfolios: Why imposing the wrong constraints helps. [^Jagannathan2003]
     -   Tam, A.S. (2021). [Lagrangians and portfolio optimization](https://www.adrian.idv.hk/2021-06-22-kkt/).
 -   Boyd, S. & Vandenberghe, L. (2004). [*Convex Optimization*](https://web.stanford.edu/~boyd/cvxbook/).
     -   Course website at Stanford: [Convex Optimization I](https://web.stanford.edu/class/ee364a/)
@@ -660,6 +665,7 @@ Economics
 -   TODO: the one-fund theorem
 
 [^Chamberlain1983]: @Chamberlain_1983_A_characterization_of_the_distributions_that_imply\.
+[^Jagannathan2003]: @Jagannathan_2003_Risk_reduction_in_large_portfolios_Why_imposing\.
 [^Owen1983]: @Owen_1983_On_the_class_of_elliptical_distributions_and_their\.
 
 
@@ -821,6 +827,7 @@ John Stuart Mill, *On Liberty*:
 
 -   Muller, A.C. (2010). [Wikipedia and the matter of accountability](http://www.acmuller.net/wikipedia.html).
 -   Ferguson, K. (2015). Video: [Everything is a remix](https://www.youtube.com/watch?v=nJPERZDfyWc).
+-   [*Google Open Source Casebook*](https://google.github.io/opencasebook/)
 
 
 Protests and (non-)violence
