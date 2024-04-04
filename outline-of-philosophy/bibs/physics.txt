@@ -33,6 +33,7 @@ Bain, J. (2000). Against particle/field duality: Asymptotic particle states and 
 Bain, J. (2013). Effective field theories. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 224--254). Oxford University Press.
 Bain, J. (2013). Emergence in effective field theories. *European Journal for Philosophy of Science*, 3(3), 257--273.
 Baker, D.J. (2009). Against field interpretations of quantum field theory. *British Journal for the Philosophy of Science*, 60, 585--609. http://philsci-archive.pitt.edu/4350/
+Barbado, L.C. & Del Santo, F. (2023). On playing gods: The fallacy of the many-worlds interpretation. https://arxiv.org/abs/2311.03467
 Bargmann, V. & Wigner, E.P. (1948). Group theoretical discussion of relativistic wave equations. *Proceedings of the National Academy of Sciences*, 34, 211--223.
 Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *European Journal for Philosophy of Science*, 1(2), 277--302. https://link.springer.com/article/10.1007/s13194-011-0023-9
 Barrett, J.A. (2016). Quantum Worlds. *Principia: An International Journal of Epistemology*, 20(1), 45--60.
@@ -93,6 +94,8 @@ d'Espagnat, B. (1979). The quantum theory and reality. *Scientific American*, 24
 Das, S. & D{\"u}rr, D. (2019). Arrival time distributions of spin-1/2 particles. *Scientific Reports*, 9, 2242. https://www.nature.com/articles/s41598-018-38261-4
 Debono, I. & Smoot, G.F. (2016). General relativity and cosmology: Unsolved questions and future directions. *Universe*, 2, 23. https://arxiv.org/abs/1609.09781
 Degorre, J., Laplante, S., & Roland, J. (2005). Simulating quantum correlations as a distributed sampling problem. https://arxiv.org/abs/quant-ph/0507120
+Del Santo, F., Schwarzhans, E. (2022). "Philosophysics" at the University of Vienna: The (Pre-)history of foundations of quantum physics in the Viennese cultural context. *Physics in Perspective*, 24, 125--153. https://link.springer.com/article/10.1007/s00016-022-00290-y
+Del Santo, F. & Krizek, G.K. (2023). Against the "nightmare of a mechanically determined universe": Why Bohm was never a Bohmian. https://arxiv.org/abs/2307.05611
 Deligne, P. (1999). Notes on spinors. In *Quantum Fields and Strings: A Course for Mathematicians, Vol. 1* (pp. 99--136). American Mathematical Society. https://publications.ias.edu/sites/default/files/79_NotesOnSpinors.pdf
 Deligne, P. (2002). Cat{\'e}gorie Tensorielle, *Moscow Mathematical Journal*, 2, 227--248. https://www.math.ias.edu/files/deligne/Tensorielles.pdf
 Deutsch, D. (1985). Quantum theory as a universal physical theory. *International Journal of Theoretical Physics*, 24, 1--41.
@@ -154,6 +157,7 @@ Ghirardi, G.C., Pearle, P., Rimini, A. (1990). Markov processes in Hilbert space
 Gisin, N. (1991). Bell's inequality holds for all non-product states. *Physics Letters A*, 154, 201--202.
 Gisin, N. (1999). Bell inequality for arbitrary many settings of the analyzers. *Physics Letters A*, 260, 1--3. https://arxiv.org/abs/quant-ph/9905062
 Gisin, N. & Peres, A. (1992). Maximal violation of Bell's inequality for arbitrarily large spin. *Physics Letters A*, 162, 15--17. 
+Gisin, N. Del Santo, F. (2023). Towards a measurement theory in QFT: "Impossible" quantum measurements are possible but not ideal. https://arxiv.org/abs/2311.13644
 Glashow, S. (1961). Partial symmetries of weak interactions. *Nuclear Physics*, 22, 579--588.
 Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. Perseus Books.
 Goyal, P. (2020). Derivation of classical mechanics in an energetic framework via conservation and relativity. *Foundations of Physics*, 50, 1426--1479.

@@ -1373,6 +1373,7 @@ Discussion:
 -   Allori, V., D&uuml;rr, D., Goldstein, & Zangh&igrave;, N. (2002). [Seven steps towards the classical world](https://arxiv.org/abs/quant-ph/0112005). [^Allori2002]
 -   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (2013). *Quantum Physics Without Quantum Philosophy*. Springer. [^Durr2013]
 -   Tumulka, R. (2017). [Bohmian_mechanics](https://arxiv.org/abs/1704.08017). [^Tumulka2017]
+-   Del Santo, F. & Krizek, G.K. (2023). [Against the "nightmare of a mechanically determined universe": Why Bohm was never a Bohmian](https://arxiv.org/abs/2307.05611). [^DelSanto2023]
 
 Attempts at QFT:
 
@@ -1419,6 +1420,7 @@ Criticisms:
 [^Bohm1953]: @Bohm_1953_Proof_that_probability_density_approaches\.
 [^Caulton2018]: @Caulton_2018_A_persistent_particle_ontology_for_quantum_field\.
 [^Das2019]: @Das_2019_Arrival_time_distributions_of_spin_12_particles\.
+[^DelSanto2023]: @DelSanto_2023_Against_the_nightmare_of_a_mechanically\.
 [^Durr1995]: @Durr_1995_Bohmian_mechanics_as_the_foundation_of_quantum\.
 [^Durr2004]: @Durr_2004_Bohmian_mechanics_and_quantum_field_theory\.
 [^Durr2005]: @Durr_2005_Bell_type_quantum_field_theories\.
@@ -1488,6 +1490,7 @@ Criticisms:
 -   Saunders, S. (2021). [Branch-counting in the Everett interpretation of quantum mechanics](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0600). [^Saunders2021]
 -   Wilhelm, I. (2022). [Centering the Everett interpretation](https://philpapers.org/rec/WILCTE-4). [^Wilhelm2022]
 -   Wallace, D. (2022). [The sky is blue, and other reasons quantum mechanics is not underdetermined by evidence](https://arxiv.org/abs/2205.00568). [^Wallace2022]
+-   Gisin, N. Del Santo, F. (2023). [Towards a measurement theory in QFT: "Impossible" quantum measurements are possible but not ideal](https://arxiv.org/abs/2311.13644). [^Gisin2023]
 
 Videos:
 
@@ -1512,11 +1515,13 @@ Criticisms:
 -   Boughn, S. (2018). [Making sense of the many worlds interpretation](https://arxiv.org/abs/1801.08587). [^Boughn2018]
 -   Frauchiger, D. & Renner, R. (2018). [Quantum theory cannot consistently describe the use of itself](https://www.nature.com/articles/s41467-018-05739-8). [^Frauchiger2018]
 -   Bub, J. (2019). ['Two Dogmas' redux](https://arxiv.org/abs/1907.06240). [^Bub2019]
+-   Barbado, L.C. & Del Santo, F. (2023). [On playing gods: The fallacy of the many-worlds interpretation](https://arxiv.org/abs/2311.03467). [^Barbado2023]
 
 See also:
 
 -   [Decoherence](physics.html#decoherence)
 
+[^Barbado2023]: @Barbado_2023_On_playing_gods_The_fallacy_of_the_many_worlds\.
 [^Barrett2011]: @Barrett_2011_Everetts_pure_wave_mechanics_and_the_notion\.
 [^Barrett2016]: @Barrett_2016_Quantum_Worlds\.
 [^Boughn2018]: @Boughn_2018_Making_sense_of_the_many_worlds_interpretation\.
@@ -1532,6 +1537,7 @@ See also:
 [^Everett2012]: @Everett_2012_The_Everett_Interpretation_of_Quantum_Mechanics\.
 [^Frauchiger2018]: @Frauchiger_2018_Quantum_theory_cannot_consistently_describe\.
 [^GellMann1989]: @Gell_Mann_1989_Quantum_mechanics_in_the_light_of_quantum\.
+[^Gisin2023]: @Gisin_2023_Towards_a_measurement_theory_in_QFT_Impossible\.
 [^Joos2003p22]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\, p. 22.
 [^Saunders2021]: @Saunders_2021_Branch_counting_in_the_Everett_interpretation\.
 [^Wallace2012]: @Wallace_2012_The_Emergent_Multiverse\.
@@ -1640,6 +1646,8 @@ Videos:
 -   Taxonomies
     -   Adlam, E., Hance, J.R., Hossenfelder, S., & Palmer, T.N. (2023). [Taxonomy for physics beyond quantum mechanics](https://arxiv.org/abs/2309.12293). [^Adlam2023]
     -   Hossenfelder, S. (2023). [Quantum confusions, cleared up (or so I hope)](https://arxiv.org/abs/2309.12299). [^Hossenfelder2023]
+-   Misc
+    -   Del Santo, F., Schwarzhans, E. (2022). ["Philosophysics" at the University of Vienna: The (Pre-)history of foundations of quantum physics in the Viennese cultural context](https://link.springer.com/article/10.1007/s00016-022-00290-y). [^DelSanto2022]
 
 From [Sabine Hossenfelder](https://www.youtube.com/watch?v=hpkgPJo_z6Y),
 some examples for models that violate measurement independence are here:
@@ -1656,6 +1664,7 @@ some examples for models that violate measurement independence are here:
 [^Ciepielewski2020]: @Ciepielewski_2020_On_superdeterministic_rejections_of_settings\.
 [^Cramer1986]: @Cramer_1986_The_transactional_interpretation_of_quantum\.
 [^Degorre2005]: @Degorre_2005_Simulating_quantum_correlations_as_a_distributed\.
+[^DelSanto2022]: @DelSanto_2022_Philosophysics_at_the_University_of_Vienna\.
 [^Donadi2022]: @Donadi_2022_A_toy_model_for_local_and_deterministic_wave\.
 [^Hall2010]: @Hall_2010_Local_deterministic_model_of_singlet_state\.
 [^Hossenfelder2020]: @Hossenfelder_2020_Rethinking_superdeterminism\.
