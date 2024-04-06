@@ -2688,16 +2688,18 @@ Lectures:
 ### AutoScience
 
 -   Automated discovery
--   Anderson, C. (2008). [The End of Theory: The data deluge makes the scientific method obsolete](https://www.wired.com/2008/06/pb-theory/). [^Anderson2008]
--   Cranmer, K. (2017). [Active sciencing](https://github.com/cranmer/active_sciencing).
--   Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. [^Asch2018]
-    -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
--   D’Agnolo, R.T. & Wulzer, A. (2019). [Learning New Physics from a Machine](https://arxiv.org/abs/1806.02350). [^DAgnolo2019]
--   Udrescu, S. & Tegmark, M. (2020). [Symbolic pregression: Discovering physical laws from raw distorted video](https://arxiv.org/abs/2005.11212). [^Udrescu2020]
--   Cranmer, M. et al. (2020). [Discovering symbolic models from deep learning with inductive biases](https://arxiv.org/abs/2006.11287). [^Cranmer2020]
-    -   Video: [Discussion by Yannic Kilcher](https://www.youtube.com/watch?v=LMb5tvW-UoQ)
--   Liu, Z., Madhavan, V., & Tegmark, M. (2022). [AI Poincare 2.0: Machine learning conservation laws from differential equations](https://arxiv.org/abs/2203.12610). [^Liu2022] 
--   Krenn, M. et al. (2022). [On scientific understanding with artificial intelligence](https://arxiv.org/abs/2204.01467). [^Krenn2022]
+    -   Anderson, C. (2008). [The End of Theory: The data deluge makes the scientific method obsolete](https://www.wired.com/2008/06/pb-theory/). [^Anderson2008]
+    -   Cranmer, K. (2017). [Active sciencing](https://github.com/cranmer/active_sciencing).
+    -   Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Convergence-Toward a shaping strategy for a future software and data ecosystem for scientific inquiry. [^Asch2018]
+    -   D’Agnolo, R.T. & Wulzer, A. (2019). [Learning New Physics from a Machine](https://arxiv.org/abs/1806.02350). [^DAgnolo2019]
+        -   Note that this description of abduction is missing that it is normative (i.e. "best-fit").
+    -   Krenn, M. et al. (2022). [On scientific understanding with artificial intelligence](https://arxiv.org/abs/2204.01467). [^Krenn2022]
+-   Symbolic regression
+    -   Udrescu, S. & Tegmark, M. (2020). [Symbolic pregression: Discovering physical laws from raw distorted video](https://arxiv.org/abs/2005.11212). [^Udrescu2020]
+    -   Cranmer, M. et al. (2020). [Discovering symbolic models from deep learning with inductive biases](https://arxiv.org/abs/2006.11287). [^Cranmer2020]
+        -   Video: [Discussion by Yannic Kilcher](https://www.youtube.com/watch?v=LMb5tvW-UoQ)
+    -   Liu, Z., Madhavan, V., & Tegmark, M. (2022). [AI Poincare 2.0: Machine learning conservation laws from differential equations](https://arxiv.org/abs/2203.12610). [^Liu2022] 
+    -   Cranmer, M. (2024). Video of seminar: [The next great scientific theory is hiding inside a neural network](https://www.youtube.com/watch?v=fk2r8y5TfNY).
 
 ![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis. [^Asch2018fig]](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
 
