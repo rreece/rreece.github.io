@@ -1497,6 +1497,7 @@ Videos:
 -   Wallace, D. (2020). [Many worlds of quantum theory](https://www.youtube.com/watch?v=bK9JE1HjPi8). (9 mins)
 -   Carroll, S. (2022). [The many worlds of quantum mechanics](https://www.youtube.com/watch?v=nOgalPdfHxM).
 -   Wallace, D. (2021). [The sky is blue, and other reasons physics needs the Everett interpretation](https://www.youtube.com/watch?v=tEwgNbfYn2E).
+-   Carroll, S. (2023). [The many worlds of quantum mechanics](https://www.youtube.com/watch?v=4SLrSOUlQ1c).
 
 Virtues:
 
@@ -1990,6 +1991,8 @@ Gravity and cosmology
 -   Carroll, S.M. (2004). *Spacetime and Geometry*. [^Carroll2004]
 -   Arntzenius, F. (2012). *Space, Time, and Stuff*. [^Arntzenius2012]
 -   Diffeomorphism invariance, background independence
+
+$$ R_{\mu\nu} - \frac{1}{2} R \: g_{\mu\nu} + \Lambda \: g_{\mu\nu} = \frac{8 \pi G}{c^4} \: T_{\mu\nu} \label{eq:einstein_field_equations} $$
 
 [^Arntzenius2012]: @Arntzenius_2012_Space_Time_and_Stuff\.
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
