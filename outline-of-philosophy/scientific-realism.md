@@ -1712,6 +1712,13 @@ Pragmatism
 
 -   Charles Sanders Peirce (1839-1914)
     -   [The Metaphysical Club](https://en.wikipedia.org/wiki/The_Metaphysical_Club) (1872)
+    -   "Illustrations of the Logic of Science" in *Popular Science Monthly* (1877-1878)
+        -   "The Fixation of Belief" 
+        -   "How to Make Our Ideas Clear"
+        -   "The Doctrine of Chances"
+        -   "The Probability of Induction"
+        -   "The Order of Nature"
+        -   "Deduction, Induction, and Hypothesis"
     -   Biography: Brent, J. (1993). *Charles Sanders Peirce: A Life*. [^Brent1993]
     -   Review of Brent: Oakes, E.T. (1993). [Discovering the American Aristotle](https://www.firstthings.com/article/1993/12/003-discovering-the-american-aristotle).
     -   Auspitz, J.L. (1994). The wasp leaves the bottle: Charles Sanders Peirce. [^Auspitz1994]
@@ -1720,6 +1727,8 @@ Pragmatism
 -   John Dewey (1859-1952)
 -   C.I. Lewis (1883-1964)
 -   Ludwig Wittgenstein (1889-1951)
+-   Ernest Nagel (1901-1985)
+    -   *The Structure of Science* (1961)
 -   Willard Van Orman Quine (1908-2000)
     -   Quine, W.V.O. (1936). Truth by convention. [^Quine1936]
 -   Wilfrid Sellars (1921-1989)

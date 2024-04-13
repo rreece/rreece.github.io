@@ -1538,7 +1538,7 @@ Deep learning
     -   Kaplan, J. (2019). [Notes on contemporary machine learning](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf). [^Kaplan2019]
     -   Raissi, M. (2017). [Deep learning tutorial](https://maziarraissi.github.io/teaching/1_deep_learning_tutorial/).
 -   Backpropagation
-    -   Rumelhart [^Rumelhart1986]
+    -   Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0.pdf). [^Rumelhart1986]
     -   Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html).
     -   Schmidhuber: [Who invented backpropagation?](http://people.idsia.ch/~juergen/who-invented-backpropagation.html)
     -   Scmidhuber: [The most cited neural networks all build on work done in my labs](https://people.idsia.ch/~juergen/most-cited-neural-nets.html).

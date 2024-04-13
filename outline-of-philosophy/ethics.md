@@ -537,6 +537,8 @@ Political philosophy
     -   Max Horkheimer (1895-1973)
     -   Theodor Adorno (1903-1969)
     -   Herbert Marcuse (1898-1979)
+-   Marxism in Britain
+    -   [Maurice Cornforth](https://en.wikipedia.org/wiki/Maurice_Cornforth) (1909-1980)
 
 
 #### Criticism
@@ -826,6 +828,8 @@ John Stuart Mill, *On Liberty*:
 ### Copyright
 
 -   Muller, A.C. (2010). [Wikipedia and the matter of accountability](http://www.acmuller.net/wikipedia.html).
+-   Suber, P. (2012). [*Open Access*](https://direct.mit.edu/books/oa-monograph/3754/Open-Access).
+-   Suber, P. (2016). [*Knowledge Unbound: Selected Writings on Open Access, 2002–2011*](https://archive.org/details/9780262029902/mode/2up).
 -   Ferguson, K. (2015). Video: [Everything is a remix](https://www.youtube.com/watch?v=nJPERZDfyWc).
 -   [*Google Open Source Casebook*](https://google.github.io/opencasebook/)
 

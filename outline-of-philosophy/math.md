@@ -168,6 +168,11 @@ TODO
     -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
 
 
+#### Matrix calculus
+
+-   [Matrix calculus](https://explained.ai/matrix-calculus/)
+
+
 ### Differential geometry
 
 -   History
@@ -355,7 +360,7 @@ More:
 -   [Dign&amacr;ga](https://en.wikipedia.org/wiki/Dign%C4%81ga) (c. 480-540 CE)
 -   [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) (1839-1914)
 -   [Gottlob Frege (1848-1925)](https://en.wikipedia.org/wiki/Gottlob_Frege)
-    -   [Begriffsschrift](https://en.wikipedia.org/wiki/Begriffsschrift) (1879)
+    -   [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (1879)
 -   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
     -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
     -   PM avoids Russell's paradox by introduction of the "ramified theory of types".

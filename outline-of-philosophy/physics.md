@@ -648,7 +648,7 @@ Quantum field theory
 
 #### Introduction
 
--   Field definition - Faraday
+-   Field concept/definition: Laplace, Faraday
 -   [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (1918-1988)
 -   [Julian Schwinger](https://en.wikipedia.org/wiki/Julian_Schwinger) (1918-1994)
 -   [Shin'ichir&omacr; Tomonaga](https://en.wikipedia.org/wiki/Shin%27ichir%C5%8D_Tomonaga) (1906-1979)
@@ -1295,7 +1295,7 @@ Criticisms:
 [^Becker2018]: @Becker_2018_What_is_Real_The_unfinished_quest_for_the_meaning\.
 
 
-### von Neumann's no hidden variables "proof"
+### Von Neumann's no hidden variables "proof"
 
 -   von Neumann, J. (1932). *The Mathematical Foundations of Quantum Mechanics*.
 -   Hermann, G. (1933). Determinism and quantum mechanics.
@@ -1306,18 +1306,37 @@ Criticisms:
 
 -   Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? [^Einstein1935]
 -   Bohm, D. & Aharonov, Y. (1957). Discussion of experimental proof for the paradox of Einstein, Rosen, and Podolsky. [^Bohm1957]
--   Wigner's friend (1961)
-    -   Deutsch, D. (1985). Quantum theory as a universal physical theory. [^Deutsch1985]
-    -   Bong, K.W. et al. (2020). [A strong no-go theorem on the Wigner's friend paradox](https://arxiv.org/abs/1907.05607). [^Bong2020]
 -   Mermin, N.D. (1985). Is the moon there when nobody looks? [^Mermin1985]
 -   Caulton, A. (2014). [Physical entanglement in permutation-invariant quantum mechanics](https://arxiv.org/abs/1409.0246). [^Caulton2014]
 
 [^Bohm1957]: @Bohm_1957_Discussion_of_experimental_proof_for_the_paradox\.
-[^Bong2020]: @Bong_2020_A_strong_no_go_theorem_on_the_Wigners_friend\.
 [^Caulton2014]: @Caulton_2014_Physical_entanglement_in_permutation_invariant\.
-[^Deutsch1985]: @Deutsch_1985_Quantum_theory_as_a_universal_physical_theory\.
 [^Einstein1935]: @Einstein_1935_Can_quantum_mechanical_description_of_physical\.
 [^Mermin1985]: @Mermin_1985_Is_the_moon_there_when_nobody_looks_Reality\.
+
+
+### Von Neumann-Wigner interpretation
+
+-   [Von Neumann-Wigner interpretation](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Wigner_interpretation)
+-   "consciousness causes collapse"
+-   [Wigner's friend](https://en.wikipedia.org/wiki/Wigner%27s_friend)
+    -   Wigner, E.P. (1961). Remarks on the mind-body question. [^Wigner1961]
+    -   Deutsch, D. (1985). Quantum theory as a universal physical theory. [^Deutsch1985]
+    -   Bong, K.W. et al. (2020). [A strong no-go theorem on the Wigner's friend paradox](https://arxiv.org/abs/1907.05607). [^Bong2020]
+-   Henry Stapp
+-   Roger Penrose
+-   Stacey, B.C. (2014). [Von Neumann was not a quantum Bayesian](https://arxiv.org/abs/1412.2409). [^Stacey2014]
+
+[^Bong2020]: @Bong_2020_A_strong_no_go_theorem_on_the_Wigners_friend\.
+[^Deutsch1985]: @Deutsch_1985_Quantum_theory_as_a_universal_physical_theory\.
+[^Stacey2014]: @Stacey_2014_Von_Neumann_was_not_a_quantum_Bayesian\.
+[^Wigner1961]: @Wigner_1961_Remarks_on_the_mind_body_question\.
+
+Criticisms:
+
+-   Similar crticisms to Copenhagen: collapse is arbitrary; dualism of observables and observer.
+-   TODO: Discuss how Everett and his Ph.D. adviser, Wigner, disagreed about how to interpret
+    the Wigner's friend throught experiment.
 
 
 ### Bell's theorem
@@ -1501,7 +1520,7 @@ Videos:
 
 Virtues:
 
--   Minimal; No additions to quantum theory.
+-   Minimal; No additions to quantum theory
 -   No collapse; universal unitary Schr&ouml;ding evolution
 -   Relativistic QFT works naturally.
 -   Decoherence does a lot of work at explaining the appearance of collapse into classical states.

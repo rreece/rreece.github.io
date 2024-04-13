@@ -292,6 +292,7 @@ Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, II
 Shimony, A. (1984). Contextual hidden variables theories and Bell's inequalities. *The British Journal for the Philosophy of Science*, 35, 25--45. https://www.jstor.org/stable/687555
 Simon, B. (1976). Quantum dynamics: From automorphism to Hamiltonian. In Lieb, E.H. (Ed.) *Studies in Mathematical Physics: Essays in Honor of Valentine Bargmann* (pp. 327-350). Princeton University Press. http://www.math.caltech.edu/SimonPapers/R12.pdf
 Slansky, R. (1981). Group theory for unified model building. *Physics Reports*, 79, 1--128. http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.1581&rep=rep1&type=pdf
+Stacey, B.C. (2014). Von Neumann was not a quantum Bayesian. https://arxiv.org/abs/1412.2409
 Stein, H. (2021). Physics and philosophy meet: The strange case of Poincar{\'e}. *Foundations of Physics*, 51, 1--24.
 Steinhardt, P.J. (1983). Natural inflation. In *The Very Early Universe: Proc. Nuffield Workshop* (pp. 251--66). Cambridge University Press.
 Stopp, F., Ortiz-Guti{\'e}rrez, L., Lehec, H., & Schmidt-Kaler, F. (2021). Single ion thermal wave packet analyzed via time-of-flight detection. *New Journal of Physics*, 23, 063002. https://iopscience.iop.org/article/10.1088/1367-2630/abffc0
@@ -341,6 +342,7 @@ Wheeler, J.A. (1957). Assessment of Everett's "relative state" formulation of qu
 Wigner, E.P. (1939). On unitary representations of the inhomogeneous Lorentz group. *Annals of Mathematics*, 40, 149--204.
 Wigner, E.P. (1954). Conservation laws in classical and quantum physics. *Progress of Theoretical Physics*, 11, 437--440. https://academic.oup.com/ptp/article/11/4-5/437/1831457
 Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. Academic Press. [(Originally published in German in 1931)]
+Wigner, E.P. (1961). Remarks on the mind-body question. In Good, I.J. (ed.). *The Scientist Speculates: An Anthology of Partly-Baked Ideas*. London: Heinemann.
 Wilhelm, I. (2022). Centering the Everett interpretation. https://philpapers.org/rec/WILCTE-4
 Williams, P. (2019). Scientific realism made effective. *British Journal for the Philosophy of Science*, 70, 209--237. https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axx043
 Wilson, K. (1974). The renormalization group and the $\varepsilon$ expansion. *Physics Reports*, 12, 75--199.
