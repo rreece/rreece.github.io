@@ -213,7 +213,8 @@ Lauc, D. (2020). Machine learning and the philosophical problems of induction. I
 LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. *Nature*, 521, 436-44.
 LeCun, Y. & Bottou, L. (1998). Efficient BackProp. In Orr, G.B. & Muller, K.R. (eds.), *Neural Networks: Tricks of the trade*. Springer. http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf
 LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. *Proceedings of the IEEE*, 86(11), 2278--2324. http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
-LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1(4), 541--551. http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf
+LeCun, Y. (1989). Generalization and network design strategies. *Connectionism in Perspective*, 19, 18.
+LeCun, Y. et al. (1989). Backpropagation applied to handwritten zip code recognition. *Neural Computation*, 1(4), 541--551. https://web.archive.org/web/20150611222615/http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf
 Leemis, L.M. & McQueston, J.T. (2008). Univariate distribution relationships. *The American Statistician*, 62(1), 45--53. http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf
 Lei, N., Luo, Z., Yau, S., & Gu, D.X. (2018). Geometric understanding of deep learning. https://arxiv.org/abs/1805.10451
 Lewis, D. (1981). Causal decision theory. *Australasian Journal of Philosophy*, 59, 5--30. https://www.andrewmbailey.com/dkl/Causal_Decision_Theory.pdf
@@ -295,6 +296,7 @@ Ponsen, M., De Jong, S., & Lanctot, M. (2011). Computing approximate Nash equili
 Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf [(Paper on the GPT model by OpenAI)] 
 Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf [(Paper on the GPT-2 model by OpenAI)] 
 Rae, J.W. et al. (2022). Scaling language models: Methods, analysis & insights from training Gopher. https://arxiv.org/abs/2112.11446
+Raffel, C. et al. (2019). Exploring the limits of transfer learning with a unified text-to-text transformer. https://arxiv.org/abs/1910.10683
 Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part I): Data-driven solutions of nonlinear partial differential equations. https://arxiv.org/abs/1711.10561
 Raissi, M., Perdikaris, P., & Karniadakis, G.E. (2017). Physics informed deep learning (Part II): Data-driven discovery of nonlinear partial differential equations. https://arxiv.org/abs/1711.10566
 Rao, C.R. (1945). Information and the accuracy attainable in the estimation of statistical parameters. *Bulletin of the Calcutta Mathematical Society*, 37, 81--91.

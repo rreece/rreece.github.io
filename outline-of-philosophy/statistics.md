@@ -1781,6 +1781,8 @@ Blogs:
 
 -   Computer Vision (CV)
 -   Fukushima: neocognitron [^Fukushima1982]
+-   LeNet-5
+-   LeCun, Y. (1989). Generalization and network design strategies.
 -   LeCun: OCR with backpropagation [^LeCun1989]
 -   LeCun: LeNet-5 [^LeCun1998a]
 -   Ciresan: MCDNN [^Ciresan2012]
@@ -1921,7 +1923,7 @@ Neural Machine Translation (NMT):
 
 ![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/chapter_attention-mechanisms/transformer.html)).](img/transformer.png){#fig:transformer .tallimg}
 
-$$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{d_k}}\right) V \label{eq:attention} $$
+$$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\sqrt{d_k}}\right) V \label{eq:attention} $$
 
 -   Attention and Transformers
     -   Transformer [^Vaswani2017]
@@ -1929,6 +1931,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K\trans}{\sqrt{
     -   Alammar, J. (2018). [The illustrated BERT](https://jalammar.github.io/illustrated-bert/).
     -   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
     -   Liu, Y. et al. (2019). RoBERTa: [A robustly optimized BERT pretraining approach](https://arxiv.org/abs/1907.11692). [^Liu2019]
+    -   Raffel, C. et al. (2019). [Exploring the limits of transfer learning with a unified text-to-text transformer](https://arxiv.org/abs/1910.10683). (T5 model)
     -   Horan, C. (2021). [10 things you need to know about BERT and the transformer architecture that are reshaping the AI landscape](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape).
     -   Video: [What are transformer neural networks?](https://www.youtube.com/watch?v=XSSTuhyAmnI&t=92s&ab_channel=AriSeff)
     -   Video: [How to get meaning from text with language model BERT](https://www.youtube.com/watch?v=-9vVhYEXeyQ&ab_channel=Peltarion).
