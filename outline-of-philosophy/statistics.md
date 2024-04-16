@@ -1937,7 +1937,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
     -   Alammar, J. (2018). [The illustrated BERT](https://jalammar.github.io/illustrated-bert/).
     -   Horev, R. (2018). [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270).
     -   Liu, Y. et al. (2019). RoBERTa: [A robustly optimized BERT pretraining approach](https://arxiv.org/abs/1907.11692). [^Liu2019]
-    -   Raffel, C. et al. (2019). [Exploring the limits of transfer learning with a unified text-to-text transformer](https://arxiv.org/abs/1910.10683). (T5 model)
+    -   Raffel, C. et al. (2019). [Exploring the limits of transfer learning with a unified text-to-text transformer](https://arxiv.org/abs/1910.10683). (T5 model) [^Raffel2019]
     -   Horan, C. (2021). [10 things you need to know about BERT and the transformer architecture that are reshaping the AI landscape](https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape).
     -   Video: [What are transformer neural networks?](https://www.youtube.com/watch?v=XSSTuhyAmnI&t=92s&ab_channel=AriSeff)
     -   Video: [How to get meaning from text with language model BERT](https://www.youtube.com/watch?v=-9vVhYEXeyQ&ab_channel=Peltarion).
@@ -1999,6 +1999,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 [^Phuong2022]: @Phuong_2022_Formal_algorithms_for_transformers\.
 [^Radford2018]: @Radford_2018_Improving_language_understanding_by_generative\.
 [^Radford2019]: @Radford_2019_Language_models_are_unsupervised_multitask\.
+[^Raffel2019]: @Raffel_2019_Exploring_the_limits_of_transfer_learning\.
 [^Sun2023]: @Sun_2023_Retentive_network_A_successor_to_transformer\.
 [^Tay2022]: @Tay_2022_Efficient_transformers_A_survey\.
 [^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.
