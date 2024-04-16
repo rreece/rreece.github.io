@@ -1884,7 +1884,13 @@ $$ P(x_1, \ldots, x_T) = \prod_{t=1}^{T} P(x_t | x_1 \ldots x_{t-1}) \label{eq:c
 
 $$ = P(x_1) \: P(x_2 | x_1) \: P(x_3 | x_1 x_2) \: P(x_4 | x_1 x_2 x_3) \ldots $$
 
-Auto-regressive inference follows this chain rule.
+A *language model* (LM), predicts the next token given previous context.
+The output of the model is a vector of logits, which is given to a softmax
+to convert to probabilities for the next token.
+
+$$ P(x_t | x_1 \ldots x_{t-1}) = \mathrm{softmax} \left( \mathrm{model}(x_1 \ldots x_{t-1}) \right) $$
+
+*Auto-regressive* inference follows this chain rule.
 If done with greedy search:
 
 $$ \hat{x}_t = \underset{x_t \in V}{\mathrm{argmax}} \: P(x_t | x_1 \ldots x_{t-1}) \label{eq:greedy_search} $$
