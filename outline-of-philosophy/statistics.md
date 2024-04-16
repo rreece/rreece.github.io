@@ -1888,7 +1888,7 @@ A *language model* (LM), predicts the next token given previous context.
 The output of the model is a vector of logits, which is given to a softmax
 to convert to probabilities for the next token.
 
-$$ P(x_t | x_1 \ldots x_{t-1}) = \mathrm{softmax} \left( \mathrm{model}(x_1 \ldots x_{t-1}) \right) $$
+$$ P(x_t | x_1 \ldots x_{t-1}) = \mathrm{softmax}\left( \mathrm{model}(x_1 \ldots x_{t-1}) \right) $$
 
 *Auto-regressive* inference follows this chain rule.
 If done with greedy search:
