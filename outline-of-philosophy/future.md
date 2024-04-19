@@ -145,6 +145,9 @@ See also:
 >   We have the technology to totally fill Twitter, email, and the web up with reasonable-sounding,
 >   context-appropriate prose, which would drown out all other speech and be impossible to filter. [^Vincent2019]
 
+-   Gabriel, I. et al. (DeepMind). (2024). [The ethics of advanced AI assistants](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/ethics-of-advanced-ai-assistants/the-ethics-of-advanced-ai-assistants-2024-i.pdf). [^Gabriel2024]
+
+[^Gabriel2024]: HERE
 [^Vincent2019]: @Vincent_2019_OpenAIs_new_multitalented_AI_writes_translates\.
 
 

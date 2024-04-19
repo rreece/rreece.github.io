@@ -8,6 +8,7 @@ Bostrom, N. (2013). Existential risk prevention as global priority. *Global Poli
 Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press.
 Bostrom, N. (2019). The vulnerable world hypothesis, *Global Policy*, 10, 455--476. https://nickbostrom.com/papers/vulnerable.pdf
 Feynman, R.P. (1959). There's plenty of room at the bottom. https://calteches.library.caltech.edu/1976/1/1960Bottom.pdf
+Gabriel, I. et al. (2024). The ethics of advanced AI assistants. https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/ethics-of-advanced-ai-assistants/the-ethics-of-advanced-ai-assistants-2024-i.pdf
 Hanson, R., Martin, D., McCarter, C., & Paulson, J. (2021). If loud aliens explain human earliness, quiet aliens are also rare. *The Astrophysical Journal*, 922, 182. https://iopscience.iop.org/article/10.3847/1538-4357/ac2369
 Marcus, G. (2018). Deep learning: A critical appraisal. https://arxiv.org/abs/1801.00631
 Maslej, N. et al. (2023). The AI Index 2023 Annual Report. https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf

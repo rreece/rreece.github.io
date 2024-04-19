@@ -1965,9 +1965,10 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
+-   Efficient transformers
+    -   Dao, T. et al. (2022). [FlashAttention: Fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135). [^Dao2022]
 -   What comes after Transformers?
     -   Gu, A., Goel, K., & R&eacute;, C. (2021). [Efficiently modeling long sequences with structured state spaces](https://arxiv.org/abs/2111.00396). [^Gu2021]
-    -   Dao, T. et al. (2022). [FlashAttention: Fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135). [^Dao2022]
     -   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2022). [Recurrent memory transformer](https://arxiv.org/abs/2207.06881). [^Bulatov2022]
     -   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2023). [Scaling transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062). [^Bulatov2023]
     -   Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). [Unlimiformer: Long-range transformers with unlimited length input](https://arxiv.org/abs/2305.01625). [^Bertsch2023]
@@ -1976,7 +1977,8 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
     -   Sun, Y. et al. (2023). [Retentive network: A successor to transformer for large language models](https://arxiv.org/abs/2307.08621). [^Sun2023]
     -   Gu, A. & Dao, T. (2023). [Mamba: Linear-time sequence modeling with selective state spaces](https://arxiv.org/abs/2312.00752). [^Gu2023]
     -   Wang, H. et al. (2023). [BitNet: Scaling 1-bit transformers for large language models](https://arxiv.org/abs/2310.11453). [^Wang2023]
-    -   Ma, S. et al. (2024). [The era of 1-bit LLMs: All large language models are in 1.58 bits](https://arxiv.org/abs/2402.17764). [^Ma2024]
+    -   Ma, S. et al. (2024). [The era of 1-bit LLMs: All large language models are in 1.58 bits](https://arxiv.org/abs/2402.17764). [^MaS2024]
+    -   Ma, X. et al. (2024). [Megalodon: Efficient LLM pretraining and inference with unlimited context length](https://arxiv.org/abs/2404.08801). [^MaX2024]
 
 [^Bertsch2023]: @Bertsch_2023_Unlimiformer_Long_range_transformers\.
 [^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
@@ -1991,7 +1993,8 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 [^Lan2019]: @Lan_2019_ALBERT_A_lite_BERT_for_self_supervised_learning\.
 [^Lewis2019]: @Lewis_2019_BART_Denoising_sequence_to_sequence_pre_training\.
 [^Liu2019]: @Liu_2019_RoBERTa_A_robustly_optimized_BERT_pretraining\.
-[^Ma2024]: @Ma_2024_The_era_of_1_bit_LLMs_All_large_language_models\.
+[^MaS2024]: @Ma_2024_The_era_of_1_bit_LLMs_All_large_language_models\.
+[^MaX2024]: @Ma_2024_Megalodon_Efficient_LLM_pretraining_and_inference\.
 [^Mialon2023]: @Mialon_2023_Augmented_Language_Models_a_Survey\.
 [^OpenAI2023]: @OpenAI_2023_GPT_4_Technical_Report\.
 [^Ouyang2022]: @Ouyang_2022_Training_language_models_to_follow_instructions\.

@@ -251,7 +251,7 @@ See also:
 Free will
 --------------------------------------------------------------------------------
 
--   [Reflections on Free Will](https://www.samharris.org/blog/item/reflections-on-free-will) - Daniel Dennett
+-   [Reflections on Free Will](https://web.archive.org/web/20201108135702/https://samharris.org/reflections-on-free-will/) - Daniel Dennett
 -   [The Marionette's Lament](https://www.samharris.org/blog/item/the-marionettes-lament) - Sam Harris
 -   [Caricaturing free will](https://mentalcontractions.com/2014/08/13/caricaturing-free-will/) - Pawel Pachniewski
 -   [Dennett and Harris try to bridge the gap](https://www.youtube.com/watch?v=vFa7vFkVy4g) - Waking Up podcast
@@ -319,7 +319,7 @@ See also:
 
 ### Counter criticism
 
--   [Comic by Dennett](https://ase.tufts.edu/cogstud/assets/searle.jpg)
+-   [Comic by Dennett](https://web.archive.org/web/20220219043643/https://ase.tufts.edu/cogstud/assets/searle.jpg)
 
 
 ### Computer vision and mind
