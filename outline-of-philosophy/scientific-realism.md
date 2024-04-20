@@ -1101,6 +1101,7 @@ TODO: Note any differences between:
 -   Carnap, R. (1950). Empiricists, semantics, and ontology. (ESO) [^Carnap1950]
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
     -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
+    -   Nado, J. (2024). [Truth in philosophy: a conceptual engineering approach](https://link.springer.com/article/10.1007/s44204-024-00151-0). [^Nado2024]
 
 Carnap in ESO:
 
@@ -1139,6 +1140,7 @@ Discussion:
 [^Leitgeb2020]: @Leitgeb_2020_Rudolf_Carnap\.
 [^Leitgeb2020G]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement G: Logical Syntax of Language](https://plato.stanford.edu/entries/carnap/syntax.html).
 [^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
+[^Nado2024]: @Nado_2024_Truth_in_philosophy_a_conceptual_engineering\.
 [^Quine1960b]: @Quine_1960_Carnap_and_logical_truth\.
 [^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 [^Steinberger2016]: @Steinberger_2016_How_tolerant_can_you_be_Carnap_on_rationality\.

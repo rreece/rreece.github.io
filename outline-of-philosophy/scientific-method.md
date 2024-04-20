@@ -1166,6 +1166,7 @@ Peirce:
     -   *The Continuum of Inductive Methods* [^Carnap1952]
     -   "The aim of inductive logic" [^Carnap1966]
     -   "Notes on probability and induction" [^Carnap1973]
+    -   French, C.F. (2015). [*Philosophy as Conceptual Engineering: Inductive Logic in Rudolf Carnap’s Scientiﬁc Philosophy*](https://web.archive.org/web/20170810180750id_/https://philpapers.org/archive/FREPAC-7.pdf). [^French2015]
 -   Reichenbach
     -   Cross induction
     -   TODO: Reichenbach [^Reichenbach1938a]
@@ -1208,6 +1209,7 @@ See also:
 [^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
 [^Earman2000p25]: @Earman_2000_Humes_Abject_Failure_The_argument_against\, p. 25.
 [^Eells1988]: @Eells_1988_On_the_alleged_impossibility_of_inductive\.
+[^French2015]: @French_2015_Philosophy_as_Conceptual_Engineering_Inductive\.
 [^Geanakoplos1982]: @Geanakoplos_1982_We_cant_disagree_forever\.
 [^Mill1843]: @Mill_1843_A_System_of_Logic\.
 [^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
