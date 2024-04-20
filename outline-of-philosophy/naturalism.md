@@ -839,6 +839,9 @@ Schopenhauer:
 -   Schumacher, E.F. (1977). *A Guide for the Perplexed*. [^Schumacher1977]
 -   Sorell, T. (1991). *Scientism: Philosophy and the Infatuation with Science*.  [^Sorell1991]
 -   Boudry, M. & Pigliucci, M. (2018). *Science Unlimited? The Challenges of Scientism*. [^Boudry2018]
+-   Tautological criticism:
+    -   Of course science (scientia) is the domain of all knowledge if the tent is large enough.
+    -   TODO: Perhaps this line can be found in the work of Pigliucci?
 
 [^Boudry2018]: @Boudry_2018_Science_Unlimited_The_Challenges_of_Scientism\.
 [^SchopenhauerThinking7]: @Schopenhauer_2014_Essays_and_Aphorisms\, On thinking for yourself, section 7.
@@ -951,9 +954,6 @@ Criticisms of naturalism
     -   1996 "Science Wars" issue of *Social Text*, 46. Duke University Press.
     -   Henriques, G. (2012). [Revisiting the Science Wars: Toward a scientific humanistic worldview](https://www.psychologytoday.com/us/blog/theory-knowledge/201206/revisiting-the-science-wars). *Psychology Today*.
     -   Kofman, A. (2018). [Bruno Latour, the post-truth philosopher, mounts a defense of science](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html). *New York Times*.
--   Tautological:
-    -   Of course science (scientia) is the domain of all knowledge if the tent is large enough.
-    -   TODO: Perhaps this line can be found in the work of Pigliucci?
 -   Epistemic pessimism
     -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/).
 -   Decolonising science
