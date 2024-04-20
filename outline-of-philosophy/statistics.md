@@ -1961,6 +1961,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
     -   OpenAI. (2022). Blog: [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/).
     -   Wolfram, S. (2023). [What is ChatGPT doing---and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) [^Wolfram2023]
     -   GPT-4 [^OpenAI2023]
+    -   Mohamadi, S., Mujtaba, G., Le, N., Doretto, G., & Adjeroh, D.A. (2023). [ChatGPT in the age of generative AI and large language models: A concise survey](https://arxiv.org/abs/2307.04251v1). [^Mohamadi2023]
     -   3Blue1Brown. (2024). Video: [But what is a GPT? Visual intro to Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M).
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
@@ -1996,6 +1997,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 [^MaS2024]: @Ma_2024_The_era_of_1_bit_LLMs_All_large_language_models\.
 [^MaX2024]: @Ma_2024_Megalodon_Efficient_LLM_pretraining_and_inference\.
 [^Mialon2023]: @Mialon_2023_Augmented_Language_Models_a_Survey\.
+[^Mohamadi2023]: @Mohamadi_2023_ChatGPT_in_the_age_of_generative_AI_and_large\.
 [^OpenAI2023]: @OpenAI_2023_GPT_4_Technical_Report\.
 [^Ouyang2022]: @Ouyang_2022_Training_language_models_to_follow_instructions\.
 [^Peng2023]: @Peng_2023_RWKV_Reinventing_RNNs_for_the_Transformer_Era\.
