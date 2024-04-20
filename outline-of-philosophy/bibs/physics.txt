@@ -9,6 +9,7 @@ Allori, V. (2022). What is it like to be a relativistic GRW theory? Or: Quantum 
 Ananthaswamy, A. (2021). This simple experiment could challenge standard quantum theory. *Scientific American*. https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
 Arbey, A. & Mahmoudi, F. (2021). Dark matter and the early Universe: a review. https://arxiv.org/abs/2104.11488
+Arkani-Hamed, N., Cachazo, F., & Kaplan, J. (2008). What is the simplest quantum field theory? https://arxiv.org/abs/0808.1446
 Arntzenius, F. (2012). *Space, Time, and Stuff*. Oxford University Press.
 Arute, F. et al. (2019). Quantum supremacy using a programmable superconducting processor. *Nature*, 574, 505--510. https://www.nature.com/articles/s41586-019-1666-5
 {ATLAS Collaboration}. (2008). The ATLAS Experiment at the CERN Large Hadron Collider. *Journal of Instrumentation*, 3, 08003. https://cds.cern.ch/record/1129811
@@ -160,6 +161,8 @@ Gisin, N. & Peres, A. (1992). Maximal violation of Bell's inequality for arbitra
 Gisin, N. Del Santo, F. (2023). Towards a measurement theory in QFT: "Impossible" quantum measurements are possible but not ideal. https://arxiv.org/abs/2311.13644
 Glashow, S. (1961). Partial symmetries of weak interactions. *Nuclear Physics*, 22, 579--588.
 Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. Perseus Books.
+Gopakumar, R. (2011). What is the simplest gauge-string duality? https://arxiv.org/abs/1104.2386
+Gopakumar, R. & Mazenc, E.A. (2022). Deriving the simplest gauge-string duality, I: Open-closed-open triality. https://arxiv.org/abs/2212.05999
 Goyal, P. (2020). Derivation of classical mechanics in an energetic framework via conservation and relativity. *Foundations of Physics*, 50, 1426--1479.
 Greaves, H. & Thomas, T. (2012). The CPT theorem. https://arxiv.org/abs/1204.4674
 Greaves, H. & Wallace, D. (2011). Empirical consequences of symmetries. https://arxiv.org/abs/1111.4309

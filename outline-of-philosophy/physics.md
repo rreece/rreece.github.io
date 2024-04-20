@@ -1210,6 +1210,7 @@ Urs Schreiber:
     -   Murayama, H. (2000). [Supersymmetry_phenomenology](https://arxiv.org/abs/hep-ph/0002232). [^Murayama2000]
 -   SUSY GUTs
     -   Supersymmetry allows unification of the couplings at the GUT scale.
+    -   Arkani-Hamed, N., Cachazo, F., & Kaplan, J. (2008). [What is the simplest quantum field theory?](https://arxiv.org/abs/0808.1446). [^ArkaniHamed2008]
 -   Supergravity
     -   Supersymmetry as a gauge theory makes gravity arise in a natural way.
     -   Freedman, D.Z., van Nieuwenhuizen, P., & Ferrara, S. (1976). Progress toward a theory of supergravity. [^Freedman1976]
@@ -1226,6 +1227,7 @@ See also:
 -   [Grand unification](#grand-unification)
 -   [Non-commutative geometry](math.html#differential-geometry)
 
+[^ArkaniHamed2008]: @Arkani_Hamed_2008_What_is_the_simplest_quantum_field_theory\.
 [^Baez2020]: @Baez_2020_The_tenfold_way\.
 [^Connes1985b]: @Connes_1985_Non_commutative_differential_geometry\.
 [^Deligne1999]: @Deligne_1999_Notes_on_spinors\.
@@ -1984,14 +1986,22 @@ See also:
 
 ### Quantum gravity
 
--   Penrose, R. (1971). [Angular momentum: an approach to combinatorial spacetime](https://math.ucr.edu/home/baez/penrose/). [^Penrose1971]
--   Candelas, P., Horowitz, G.T., Strominger, A., & Witten, E. (1985). Vacuum configurations for superstrings. [^Candelas1985]
-    -   Start of string phenomenology
--   Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. [^Maldacena1998]
--   Witten, E. (1998). Anti-de Sitter space and holography. [^Witten1998]
--   Ney, A. (2021). From quantum entanglement to spatiotemporal distance. [^Ney2021c]
+-   Strings
+    -   Candelas, P., Horowitz, G.T., Strominger, A., & Witten, E. (1985). Vacuum configurations for superstrings. [^Candelas1985]
+        -   Start of string phenomenology
+-   AdS/CFT
+    -   Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. [^Maldacena1998]
+    -   Witten, E. (1998). Anti-de Sitter space and holography. [^Witten1998]
+-   Gauge-string duality
+    -   Gopakumar, R. (2011). [What is the simplest gauge-string duality?](https://arxiv.org/abs/1104.2386). [^Gopakumar2011]
+    -   Gopakumar, R. & Mazenc, E.A. (2022). [Deriving the simplest gauge-string duality, I: Open-closed-open triality](https://arxiv.org/abs/2212.05999). [^Gopakumar2022]
+-   Emergence of spacetime
+    -   Penrose, R. (1971). [Angular momentum: an approach to combinatorial spacetime](https://math.ucr.edu/home/baez/penrose/). [^Penrose1971]
+    -   Ney, A. (2021). From quantum entanglement to spatiotemporal distance. [^Ney2021c]
 
 [^Candelas1985]: @Candelas_1985_Vacuum_configurations_for_superstrings\.
+[^Gopakumar2011]: @Gopakumar_2011_What_is_the_simplest_gauge_string_duality\. 
+[^Gopakumar2022]: @Gopakumar_2022_Deriving_the_simplest_gauge_string_duality_I\.
 [^Maldacena1998]: @Maldacena_1998_The_large_N_limit_of_superconformal_field\.
 [^Ney2021c]: @Ney_2021_From_quantum_entanglement_to_spatiotemporal\.
 [^Penrose1971]: @Penrose_1971_Angular_momentum_an_approach_to_combinatorial\.
