@@ -1823,7 +1823,7 @@ a key to explaining electroweak symmetry breaking in the Standard Model of parti
 
 ### Three generations of fermions
 
-![The fields in the standard model of particle physics (source: [Symmetry Magazine](https://www.symmetrymagazine.org/standard-model/)).](img/standard-model-of-particle-physics.png){#fig:img/standard-model-of-particle-physics}
+![The fields in the standard model of particle physics (source: [Symmetry Magazine](https://www.symmetrymagazine.org/standard-model/)).](img/standard-model-of-particle-physics.png){#fig:standard-model-of-particle-physics}
 
 -   Discovery of charm: "November revolution" at SLAC and BNL (1974)
 -   Discovery of tau at SLAC + LBL (1975)
