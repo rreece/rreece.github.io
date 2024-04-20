@@ -956,16 +956,18 @@ Criticisms of naturalism
     -   Kofman, A. (2018). [Bruno Latour, the post-truth philosopher, mounts a defense of science](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html). *New York Times*.
 -   Epistemic pessimism
     -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/).
--   Decolonising science
+-   Decolonizing science
     -   Descoping the success/objectivity of science
     -   [Decolonization of knowledge](https://en.wikipedia.org/wiki/Decolonization_of_knowledge)
     -   Prescod-Weinstein, C. (2015). [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f).
     -   Prescod-Weinstein, C. (2017). [Scientists must challenge what makes studies scientific](https://www.americanscientist.org/blog/macroscope/scientists-must-challenge-what-makes-studies-scientific). *American Scientist*. [^PrescodWeinstein2017]
+    -   Boisselle, L.N. (2016). [Decolonizing science and science education in a postcolonial space (Trinidad, a developing Caribbean nation, illustrates)](https://doi.org/10.1177/2158244016635257). [^Boisselle2016]
+    -   Broadbent, A. (2017). [It will take critical, thorough scrutiny to truly decolonise knowledge](https://web.archive.org/web/20220712104319/https://theconversation.com/it-will-take-critical-thorough-scrutiny-to-truly-decolonise-knowledge-78477).
     -   Roy, R.D. (2018). [Decolonise science: Time to end another imperial era](https://theconversation.com/decolonise-science-time-to-end-another-imperial-era-89189).
     -   Poskett, J. (2022). *Horizons: The Global Origins of Modern Science*. [^Poskett2022]
     -   Dunn, W. (2022). [The myth of the white male scientific genius---and why its time is up](https://www.newstatesman.com/culture/books/book-of-the-day/2022/05/horizons-global-history-science-james-poskett-review).
     -   Ca&ntilde;izares-Esguerra, J. (2022). [Rethinking the "Western" revolution in science](https://www.science.org/doi/full/10.1126/science.abo5229). [^CanizaresEsguerra2022]
--   Decolonising philosophy
+-   Decolonizing philosophy
     -   Garfield, J.L. & Van Norden, B.W. (2016). [If philosophy won't diversify, let's call it what it really is](https://www.nytimes.com/2016/05/11/opinion/if-philosophy-wont-diversify-lets-call-it-what-it-really-is.html). [^Garfield2016a]
     -   Van Norden, B.W. (2017). *Taking Back Philosophy: A Multicultural Manifesto*. [^VanNorden2017]
     -   Alpert, A. (2020). [Philosophy's systemic racism](https://aeon.co/essays/racism-is-baked-into-the-structure-of-dialectical-philosophy).
@@ -985,6 +987,7 @@ See also:
 -   [Criticism](naturalism.html#criticism-4) of Rejection of the supernatural
 -   [Naturalistic-fallacy](ethics.html#naturalistic-fallacy)
 
+[^Boisselle2016]: @Boisselle_2016_Decolonizing_science_and_science_education\.
 [^CanizaresEsguerra2022]: @Canizares_Esguerra_2022_Rethinking_the_Western_revolution_in_science\.
 [^Garfield2016a]: @Garfield_2016_If_philosophy_wont_diversify_lets_call_it_what\.
 [^Poskett2022]: @Poskett_2022_Horizons_The_Global_Origins_of_Modern_Science\.
@@ -1037,6 +1040,11 @@ See also:
     -   Sartwell, C. (2022). [Truth is real](https://aeon.co/essays/truth-is-real-and-philosophers-must-return-their-attention-to-it). *Aeon*.
     -   Leah, R. (2018). ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/). *Salon*. [^Leah2018b]
     -   Friedersdorf, C. (2018). [Why can't people hear what Jordan Peterson is saying?](https://www.theatlantic.com/politics/archive/2018/01/putting-monsterpaint-onjordan-peterson/550859/). *The Atlantic*.
+    -   Uri Berliner leaves NPR
+        -   Berliner, U. (2024). [I’ve been at NPR for 25 years. Here’s how we lost America’s trust](https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust).
+        -   Folkenflik, D. (2024). [NPR suspends veteran editor as it grapples with his public criticism](https://www.npr.org/2024/04/16/1244962042/npr-editor-uri-berliner-suspended-essay). *NPR*
+        -   Montgomery, A. (2024). [The real story behind NPR’s current problems](https://slate.com/business/2024/04/npr-diversity-public-broadcasting-radio.html).
+        -   Coyne, J. (2024). [Quote of the week: Andrew Sullivan on wokeness vs. liberalism](https://whyevolutionistrue.com/2024/04/20/quote-of-the-week-andrew-sullivan-on-wokeness/).
 
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
