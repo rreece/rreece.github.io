@@ -465,14 +465,11 @@ The [Trimurti](https://en.wikipedia.org/wiki/Trimurti):
 
 Others:
 
--   [Parvati](https://en.wikipedia.org/wiki/Parvati)
+-   [Parvati](https://en.wikipedia.org/wiki/Parvati) AKA [Mahadevi AKA Shakti AKA Kali](https://en.wikipedia.org/wiki/Mahadevi)
     -   Goddess of power, nourishment, harmony, devotion, and motherhood. Wife of Shiva.
 -   [Ganesha](https://en.wikipedia.org/wiki/Ganesha)
     -   God of new beginnings, wisdom, luck, and remover of obstacles.
     -   Son of Shiva and Parvati.
--   [Mahadevi AKA Shakti AKA Kali](https://en.wikipedia.org/wiki/Mahadevi)
-    -   Goddess of good cosmic energy.
-    -   Also wife of Shiva? Form of Parvati?
 -   [Indra](https://en.wikipedia.org/wiki/Indra)
     -   God of sky, weather, lightening, and war.
 -   [Surya](https://en.wikipedia.org/wiki/Surya)
