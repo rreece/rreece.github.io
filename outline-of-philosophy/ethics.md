@@ -892,6 +892,7 @@ Feminism
 -   [Feminist sex wars](https://en.wikipedia.org/wiki/Feminist_sex_wars)
     -   Andrea Dworkin (1946-2005)
     -   Alice Walker (b. 1944)
+    -   Catharine A. MacKinnon (b. 1946)
 -   [Sex-positive feminism](https://en.wikipedia.org/wiki/Sex-positive_feminism)
     -   Camille Paglia (b .1947)
     -   Naomi Wolf (b. 1962)
@@ -907,7 +908,12 @@ Feminism
     -   Judith Butler (b. 1956)
         -   *Gender Trouble* (1990)
             -   Gender is performative
+    -   Sally Haslanger
+        -   Haslanger, S. (2000). [Gender and race: (What) are they? (What) do we want them to be?](https://onlinelibrary.wiley.com/doi/10.1111/0029-4624.00201) [^Haslanger2000]
+        -   Mikkola, M. (2009). [Gender concepts and intuitions](https://www.jstor.org/stable/27822065). [^Mikkola2009]
 
+[^Haslanger2000]: @Haslanger_2000_Gender_and_Race_What_Are_They_What_Do_We\.
+[^Mikkola2009]: @Mikkola_2009_Gender_concepts_and_intuitions\.
 [^Richards1980]: @Richards_1980_The_Sceptical_Feminist_A_Philosophical_Enquiry\.
 [^Richards1995]: @Richards_1995_Why_feminist_epistemology_isnt\.
 [^SnyderHall2010]: @Snyder_Hall_2010_Third_wave_feminism_and_the_defense_of_choice\.
