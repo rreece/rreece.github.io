@@ -1980,8 +1980,10 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
     -   Wang, H. et al. (2023). [BitNet: Scaling 1-bit transformers for large language models](https://arxiv.org/abs/2310.11453). [^Wang2023]
     -   Ma, S. et al. (2024). [The era of 1-bit LLMs: All large language models are in 1.58 bits](https://arxiv.org/abs/2402.17764). [^MaS2024]
     -   Ma, X. et al. (2024). [Megalodon: Efficient LLM pretraining and inference with unlimited context length](https://arxiv.org/abs/2404.08801). [^MaX2024]
+    -   Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). [What's the magic word? A control theory of LLM prompting](https://arxiv.org/abs/2310.04444). [^Bhargava2023]
 
 [^Bertsch2023]: @Bertsch_2023_Unlimiformer_Long_range_transformers\.
+[^Bhargava2023]: @Bhargava_2023_Whats_the_magic_word\.
 [^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
 [^Bulatov2022]: @Bulatov_2022_Recurrent_memory_transformer\.
 [^Bulatov2023]: @Bulatov_2023_Scaling_transformer_to_1M_tokens_and_beyond\.

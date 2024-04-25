@@ -33,6 +33,7 @@ Bensusan, H. (2000). Is machine learning experimental philosophy of science? In 
 Berger, J.O. (2003). Could Fisher, Jeffreys and Neyman have agreed on testing? *Statistical Science*, 18(1), 1--32.
 Berger, J.O. & Wolpert, R.L. (1988). *The Likelihood Principle* (2nd ed.). Haywood, CA: The Institute of Mathematical Statistics.
 Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). Unlimiformer: Long-range transformers with unlimited length input. https://arxiv.org/abs/2305.01625
+Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). What's the magic word? A control theory of LLM prompting. https://arxiv.org/abs/2310.04444
 Bhattiprolu, P.N., Martin, S.P., & Wells, J.D. (2020). Criteria for projected discovery and exclusion sensitivities of counting experiments. https://arxiv.org/abs/2009.07249
 Billings, D., Davidson, A., Schaeffer, J., & Szafron, D. (2002). The challenge of poker. *Artificial Intelligence*, 134, 201--240. https://doi.org/10.1016/S0004-3702(01)00130-8
 Billings, D. et al. (2003). Approximating game-theoretic optimal strategies for full-scale poker. *IJCAI*, 3, 661. http://webdocs.cs.ualberta.ca/~duane/publications/pdf/2003ijcai.pdf

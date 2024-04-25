@@ -1928,7 +1928,8 @@ Biology
 -   We are all related.
 -   We are from a lineage.
 -   We are evolved.
--   *Darwin's Dangerous Idea* [^Dennett1995]
+-   Dennett, D.C. (1995). *Darwin's Dangerous Idea*. [^Dennett1995]
+-   Okasha, S. (2006). *Evolution and the Levels of Selection*. [^Okasha2006]
 -   Andrews on Terrence Deacon's hierarchic transitions [^Andrews2018]
 -   See also the outline of the history of
     [biological evoluion](http://rreece.github.io/outline-of-philosophy/scientific-method.html#biological-evolution)
@@ -1937,6 +1938,7 @@ Biology
 [^Andrews2018]: @Andrews_2018_Does_natural_selection_explain_why_you_exist\.
 [^Dennett1995]: @Dennett_1995_Darwins_Dangerous_Idea_Evolution\.
 [^Hume2007pX]: @Hume_2007_An_Enquiry_Concerning_Human_Understanding\, p. TODO.
+[^Okasha2006]: @Okasha_2006_Evolution_and_the_Levels_of_Selection\.
 [^Rukeyser1976]: @Rukeyser_1976_Islands\.
 
 
