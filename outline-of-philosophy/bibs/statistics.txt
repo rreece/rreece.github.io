@@ -252,6 +252,7 @@ McDougall, C., Conmy, A., Rushing, C., McGrath, T., & Nanda, N. (2023). Copy sup
 McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). New York: Academic Press.
 Meehl, P.E. (1978). Theoretical risks and tabular asterisks: Sir Karl, Sir Ronald, and the slow progress of soft psychology. *Journal of Consulting and Clinical Psychology*, 46, 806--834.
 Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). Locating and editing factual associations in GPT https://arxiv.org/abs/2202.05262
+Merrill, W. & Sabharwal, A. (2022). The parallelism tradeoff: Limitations of log-precision transformers. https://arxiv.org/abs/2207.00729
 Mialon, G. et al. (2023). Augmented Language Models: a Survey. https://arxiv.org/abs/2302.07842
 Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). Efficient estimation of word representations in vector space. https://arxiv.org/abs/1301.3781
 Mikolov, T., Sutskever, I., Chen, K., Corrado, G., & Dean, J. (2013). Distributed representations of words and phrases and their compositionality. https://arxiv.org/abs/1310.4546

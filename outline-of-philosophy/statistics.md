@@ -1969,6 +1969,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 -   Efficient transformers
     -   Dao, T. et al. (2022). [FlashAttention: Fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135). [^Dao2022]
 -   What comes after Transformers?
+    -   Merrill, W. & Sabharwal, A. (2022). [The parallelism tradeoff: Limitations of log-precision transformers](https://arxiv.org/abs/2207.00729). [^Merrill2022]
     -   Gu, A., Goel, K., & R&eacute;, C. (2021). [Efficiently modeling long sequences with structured state spaces](https://arxiv.org/abs/2111.00396). [^Gu2021]
     -   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2022). [Recurrent memory transformer](https://arxiv.org/abs/2207.06881). [^Bulatov2022]
     -   Bulatov, A., Kuratov, Y., & Burtsev, M.S. (2023). [Scaling transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062). [^Bulatov2023]
@@ -1998,6 +1999,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 [^Liu2019]: @Liu_2019_RoBERTa_A_robustly_optimized_BERT_pretraining\.
 [^MaS2024]: @Ma_2024_The_era_of_1_bit_LLMs_All_large_language_models\.
 [^MaX2024]: @Ma_2024_Megalodon_Efficient_LLM_pretraining_and_inference\.
+[^Merrill2022]: @Merrill_2022_The_parallelism_tradeoff_Limitations_of_log\.
 [^Mialon2023]: @Mialon_2023_Augmented_Language_Models_a_Survey\.
 [^Mohamadi2023]: @Mohamadi_2023_ChatGPT_in_the_age_of_generative_AI_and_large\.
 [^OpenAI2023]: @OpenAI_2023_GPT_4_Technical_Report\.
