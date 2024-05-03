@@ -206,6 +206,7 @@ Unity of philosophy and science
 
 -   Philosophy and science are continuous in concerns.
 -   Philosophy is the nursury of budding programs that become specialized sciences.
+-   Popper, K.R. (1952). [The nature of philosophical problems and their roots in science](https://www.jstor.org/stable/685553). [^Popper1952]
 -   Costa, C.F. (2012). Philosophy as a protoscience. [^Costa2012]
 -   Overgaard, S., Gilbert, P., Burwood, S. (2013). What is philosophy? [^Overgaard2013]
 
@@ -272,6 +273,7 @@ Sellars:
 [^Costa2012]: @Costa_2012_Philosophy_as_a_protoscience\.
 [^Descartes1644pxxiv]: @Descartes_1982_Principles_of_Philosophy\, p. xxiv.
 [^Overgaard2013]: @Overgaard_2013_What_is_philosophy\.
+[^Popper1952]: @Popper_1952_The_nature_of_philosophical_problems_and_their\.
 [^Reichenbach1936p142]: @Reichenbach_1936_Logistic_empiricism_in_Germany_and_the_present\, p. 142.
 [^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
 [^Lugg2006]: @Lugg_2006_Russell_as_a_precursor_of_Quine\.

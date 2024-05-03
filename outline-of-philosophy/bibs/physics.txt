@@ -34,6 +34,7 @@ Bain, J. (2000). Against particle/field duality: Asymptotic particle states and 
 Bain, J. (2013). Effective field theories. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 224--254). Oxford University Press.
 Bain, J. (2013). Emergence in effective field theories. *European Journal for Philosophy of Science*, 3(3), 257--273.
 Baker, D.J. (2009). Against field interpretations of quantum field theory. *British Journal for the Philosophy of Science*, 60, 585--609. http://philsci-archive.pitt.edu/4350/
+Barad, K. (2007). *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning*. Duke University Press.
 Barbado, L.C. & Del Santo, F. (2023). On playing gods: The fallacy of the many-worlds interpretation. https://arxiv.org/abs/2311.03467
 Bargmann, V. & Wigner, E.P. (1948). Group theoretical discussion of relativistic wave equations. *Proceedings of the National Academy of Sciences*, 34, 211--223.
 Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *European Journal for Philosophy of Science*, 1(2), 277--302. https://link.springer.com/article/10.1007/s13194-011-0023-9
@@ -47,12 +48,14 @@ Bell, J.S. (1984). Beables for quantum field theory. https://cds.cern.ch/record/
 Bell, J.S. (1964). On the Einstein Podolsky Rosen paradox. *Physics*, 1, 195--200. https://journals.aps.org/ppf/pdf/10.1103/PhysicsPhysiqueFizika.1.195
 Bell, J.S. (1966). On the problem of hidden variables in quantum mechanics. *Reviews of Modern Physics*, 38(3), 447. http://fy.chalmers.se/~delsing/QI/Bell-RMP-66.pdf
 Bell, J.S. (2004). *Speakable and Unspeakable in Quantum Mechanics* (2nd ed.). Cambridge University Press. [(Originally published in 1987)]
+Bell, J.S. (2004). Are there quantum jumps? In *Speakable and Unspeakable in Quantum Mechanics* (2nd ed., pp. 201--212). Cambridge University Press. [(Originally published in 1987)]
 Bohm, D. (1952). A suggested interpretation of the quantum theory in terms of 'hidden' variables, I and II. *Physical Review*, 85, 166--193.
 Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. *Physical Review*, 89, 458--466.
 Bohm, D. & Aharonov, Y. (1957). Discussion of experimental proof for the paradox of Einstein, Rosen, and Podolsky. *Physical Review*, 108, 1070.
 Bokulich, P. (2011). Hempel's dilemma and domains of physics. *Analysis*, 71, 646--651.
 Bong, K.W. et al. (2020). A strong no-go theorem on the Wigner's friend paradox. *Nature Physics*, 16(12), 1199--1205. https://arxiv.org/abs/1907.05607
 Borcherds, R.E. & Barnard, A. (2002). Lectures on quantum field theory. https://arxiv.org/abs/math-ph/0204014
+Born, M. (1953). The interpretation of quantum mechanics. *The British Journal for the Philosophy of Science*, 4, 95--106. https://www.jstor.org/stable/685986
 Boughn, S. (2018). Making sense of the many worlds interpretation. https://arxiv.org/abs/1801.08587
 Brading, K.A. (2002). Which symmetry? Noether, Weyl, and conservation of electric charge. *Studies in History and Philosophy of Modern Physics*, 33, 3--22. https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.569.106&rep=rep1&type=pdf
 Brans , C.H. (1988). Bell's theorem does not eliminate fully causal hidden variables. *International Journal of Theoretical Physics*, 27, 219--226. https://link.springer.com/article/10.1007/BF00670750
@@ -60,6 +63,8 @@ Broughton, M. et al. (2020). TensorFlow Quantum: A software framework for quantu
 Bub, J. (2019). 'Two Dogmas' redux. https://arxiv.org/abs/1907.06240
 Buchholz, D. (1998). Current trends in axiomatic quantum field theory. https://arxiv.org/abs/hep-th/9811233
 Buckingham, E. (1914). On physically similar systems; Illustrations of the use of dimensional equations. *Physical Review*, 4(4), 345--376.
+Bunge, M. (1955). Strife about complementarity (I). *The British Journal for the Philosophy of Science*, 6, 1--12. https://www.jstor.org/stable/685570
+Bunge, M. (1955). Strife about complementarity (II). *The British Journal for the Philosophy of Science*, 6, 141--154. https://www.jstor.org/stable/685522
 Butterfield, J. (2014). Reduction, emergence, and renormalization. *The Journal of Philosophy*, 111(1), 5--49. https://arxiv.org/abs/1406.4354v1
 Butterfield, J. & Bouatta, N. (2015). Renormalization for philosophers. *Metaphysics in Contemporary Physics*, 104, 437--485. https://arxiv.org/abs/1406.4532
 Cabibbo, N. (1963). Unitary symmetry and leptonic decays. *Physical Review Letters*, 10, 531--533. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.10.531
@@ -266,6 +271,7 @@ Pusey, M.F., Barrett, J., & Rudolph, T. (2012). On the reality of the quantum st
 #Putnam, H. (1965). A philosopher looks at quantum mechanics. *Beyond the Edge of Certainty*, 2, 75--101.
 Putnam, H. (1975). A philosopher looks at quantum mechanics. In *Mathematics, Matter and Method. Philosophical Papers, vol. 1* (pp. 130--158). Cambridge University Press. [(Originally published in 1965)]
 Putnam, H. (2005). A philosopher looks at quantum mechanics (again)*. *The British Journal for the Philosophy of Science*, 56, 615--634. https://www.jstor.org/stable/3541860
+Raman, V.V. & Forman, P. (1969). Why was it Schr{\"o}dinger who developed de Broglie's ideas? *Historical Studies in the Physical Sciences*, 1, 291--314. https://www.jstor.org/stable/27757299
 Redhead, M. (1975). Symmetry in intertheory relations. *Synthese*, 32, 77--112.
 Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(2), 57--99.
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24). Oxford University Press.
@@ -284,6 +290,11 @@ Schlosshauer, M. & Fine, A. (2012). Implications of the Pusey-Barrett-Rudolph qu
 Sch{\"o}nberg, M. (1954). On the hydrodynamical model of the quantum mechanics. *Il Nuovo Cimento*, 12, 103--133.
 Schreiber, U. (2016). Learn about supersymmetry and Deligne’s theorem. https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/
 Schreiber, U. (2020). Differential cohomology in a cohesive $\infty$-topos. https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos
+Schr{\"o}dinger, E. (1935). Discussion of probability relations between separated systems. *Mathematical Proceedings of the Cambridge Philosophical Society*, 31, 555--563..
+Schr{\"o}dinger, E. (1936). Probability relations between separated systems. *Mathematical Proceedings of the Cambridge Philosophical Society*, 32, 446--452.
+Schr{\"o}dinger, E. (1952). Are there quantum jumps? Part I. *The British Journal for the Philosophy of Science*, 3, 109--123. https://www.jstor.org/stable/685552
+Schr{\"o}dinger, E. (1952). Are there quantum jumps? Part II. *The British Journal for the Philosophy of Science*, 3, 109--123. https://www.jstor.org/stable/685266
+Schr{\"o}dinger, E. (1953). What is matter? *Scientific American*, 189(3), 52--57. https://www.jstor.org/stable/24944334
 Schroeren, D. (2021). Symmetry fundamentalism in quantum mechanics. *Philosophical Studies*. https://link.springer.com/article/10.1007%2Fs11098-021-01634-z
 Schwartz, M.D. (2014). *Quantum Field Theory and the Standard Model*. Cambridge University Press.
 Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. Harper & Row.

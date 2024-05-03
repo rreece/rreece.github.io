@@ -147,7 +147,7 @@ See also:
 
 -   Gabriel, I. et al. (DeepMind). (2024). [The ethics of advanced AI assistants](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/ethics-of-advanced-ai-assistants/the-ethics-of-advanced-ai-assistants-2024-i.pdf). [^Gabriel2024]
 
-[^Gabriel2024]: HERE
+[^Gabriel2024]: @Gabriel_2024_The_ethics_of_advanced_AI_assistants\.
 [^Vincent2019]: @Vincent_2019_OpenAIs_new_multitalented_AI_writes_translates\.
 
 

@@ -583,7 +583,11 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 
 ### Decoherence
 
+-   Schr&ouml;dinger, E. (1952). [Are there quantum jumps? Part I](https://www.jstor.org/stable/685552). [^Schrodinger1952a]
+-   Schr&ouml;dinger, E. (1952). [Are there quantum jumps? Part II](https://www.jstor.org/stable/685266). [^Schrodinger1952b]
+-   Born, M. (1953). [The interpretation of quantum mechanics](https://www.jstor.org/stable/685986). [^Born1953]
 -   Joos, E. & Zeh, H. D. (1985). [The emergence of classical properties through interaction with the environment](http://www.decoherence.de/J+Z.pdf). [^Joos1985]
+-   Bell, J.S. (1987). Are there quantum jumps? [^Bell1987]
 -   Zurek, W.H. (1991). [Decoherence and the transition from quantum to classical](https://www.unicamp.br/~chibeni/textosdidaticos/zurek-1991.pdf). [^Zurek1991]
 -   Zurek, W.H. (2001). [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127). [^Zurek2001]
 -   Zurek, W.H. (2003). [Decoherence and the transition from quantum to classical--Revisited](https://arxiv.org/abs/quant-ph/0306072). [^Zurek2003]
@@ -600,10 +604,14 @@ See also:
 
 -   [Everettian interpretation](#everettian-interpretation)
 
+[^Bell1987]: @Bell_2004_Are_there_quantum_jumps\.
+[^Born1953]: @Born_1953_The_interpretation_of_quantum_mechanics\.
 [^Drossel2015]: @Drossel_2015_On_the_relation_between_the_second_law\, p. 51--2.
 [^Joos1985]: @Joos_1985_The_emergence_of_classical_properties_through\.
 [^Joos2003]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\.
 [^Schlosshauer2005]: @Schlosshauer_2005_Decoherence_the_measurement_problem\.
+[^Schrodinger1952a]: @Schrodinger_1952_Are_there_quantum_jumps_Part_I\.
+[^Schrodinger1952b]: @Schrodinger_1952_Are_there_quantum_jumps_Part_II\.
 [^Tegmark1993]: @Tegmark_1993_Apparent_wave_function_collapse_caused\.
 [^Wallace2018]: @Wallace_2018_Decoherence_and_its_role_in_the_modern_measurement\.
 [^Zurek1991]: @Zurek_1991_Decoherence_and_the_transition_from_quantum\.
@@ -903,6 +911,7 @@ Baez:
 #### Wave-particle duality
 
 -   Einstein, A. (1905). On a heuristic point of view about the creation and conversion of light. [^Einstein1905a]
+-   Schr&ouml;dinger, E. (1953). [What is matter?](https://www.jstor.org/stable/24944334). [^Schrodinger1953]
 -   Wolchover, N. (2020). [What is a particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 
 Weinberg on wave-particle duality:
@@ -941,6 +950,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Lazarovici2018]: @Lazarovici_2018_Against_fields\.
 [^Myrvold2015]: @Myrvold_2015_What_is_a_wavefunction\.
 [^Pessa2009]: @Pessa_2009_The_concept_of_particle_in_quantum_field_theory\.
+[^Schrodinger1953]: @Schrodinger_1953_What_is_matter\.
 [^Weinberg1997p2]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\, p. 2.
 [^Weinberg1997a]: @Weinberg_1997_What_is_an_elementary_particle\.
 
@@ -1284,6 +1294,8 @@ Interpretations of quantum mechanics
 
 -   [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962)
 -   Complementarity
+-   Barad, K. (2007). *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning*. [^Barad2007]
+    -   Some strange defenses of Bohr
 -   Becker, A. (2018). *What is Real?* [^Becker2018]
 
 ![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
@@ -1293,8 +1305,13 @@ Criticisms:
 -   Collapse is arbitrary; $U$ vs $R$ operators; universal quantum theory $\Rightarrow$ Everett.
 -   Complementarity is an arbitrary dualism.
 -   Not a real interpretation; Doesn't say what there is.
+-   Bunge, M. (1955). [Strife about complementarity (I)](https://www.jstor.org/stable/685570). [^Bunge1955a]
+-   Bunge, M. (1955). [Strife about complementarity (II)](https://www.jstor.org/stable/685522). [^Bunge1955b]
 
+[^Barad2007]: @Barad_2007_Meeting_the_Universe_Halfway_Quantum_Physics\.
 [^Becker2018]: @Becker_2018_What_is_Real_The_unfinished_quest_for_the_meaning\.
+[^Bunge1955a]: @Bunge_1955_Strife_about_complementarity_I\.
+[^Bunge1955b]: @Bunge_1955_Strife_about_complementarity_II\.
 
 
 ### Von Neumann's no hidden variables "proof"
@@ -1307,6 +1324,9 @@ Criticisms:
 ### EPR paradox
 
 -   Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? [^Einstein1935]
+-   Schr&ouml;dinger, E. (1935). Discussion of probability relations between separated systems. [^Schrodinger1935]
+    -   coined *entanglement*
+-   Schr&ouml;dinger, E. (1936). Probability relations between separated systems.  [^Schrodinger1936]
 -   Bohm, D. & Aharonov, Y. (1957). Discussion of experimental proof for the paradox of Einstein, Rosen, and Podolsky. [^Bohm1957]
 -   Mermin, N.D. (1985). Is the moon there when nobody looks? [^Mermin1985]
 -   Caulton, A. (2014). [Physical entanglement in permutation-invariant quantum mechanics](https://arxiv.org/abs/1409.0246). [^Caulton2014]
@@ -1315,6 +1335,8 @@ Criticisms:
 [^Caulton2014]: @Caulton_2014_Physical_entanglement_in_permutation_invariant\.
 [^Einstein1935]: @Einstein_1935_Can_quantum_mechanical_description_of_physical\.
 [^Mermin1985]: @Mermin_1985_Is_the_moon_there_when_nobody_looks_Reality\.
+[^Schrodinger1935]: @Schrodinger_1935_Discussion_of_probability_relations_between\.
+[^Schrodinger1936]: @Schrodinger_1936_Probability_relations_between_separated_systems\.
 
 
 ### Von Neumann-Wigner interpretation
@@ -1389,6 +1411,7 @@ Criticisms:
 
 Discussion:
 
+-   Raman, V.V. & Forman, P. (1969). [Why was it Schr&ouml;dinger who developed de Broglie's ideas?](https://www.jstor.org/stable/27757299). [^Raman1969]
 -   Bell, J.S. (1987). *Speakable and Unspeakable in Quantum Mechanics*. [^Bell1987]
 -   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (1995). [Bohmian mechanics as the foundation of quantum mechanics](https://arxiv.org/abs/quant-ph/9511016) [^Durr1995]
 -   Allori, V., D&uuml;rr, D., Goldstein, & Zangh&igrave;, N. (2002). [Seven steps towards the classical world](https://arxiv.org/abs/quant-ph/0112005). [^Allori2002]
@@ -1449,6 +1472,7 @@ Criticisms:
 [^Durr2014]: @Durr_2014_Can_Bohmian_mechanics_be_made_relativistic\.
 [^Esfeld2017]: @Esfeld_2017_The_physics_and_metaphysics_of_primitive_stuff\.
 [^Nikolic2022]: @Nikolic_2022_Relativistic_QFT_from_a_Bohmian_perspective\.
+[^Raman1969]: @Raman_1969_Why_was_it_Schrodinger_who_developed_de\.
 [^Reichert2022]: @Reichert_2022_The_point_of_primitive_ontology\.
 [^Schonberg1954]: @Schonberg_1954_On_the_hydrodynamical_model_of_the_quantum\.
 [^Stopp2021]: @Stopp_2021_Single_ion_thermal_wave_packet_analyzed_via_time\.

@@ -190,8 +190,10 @@ TODO:
 -   Kolmogorov axioms
 -   Probability vs odds: $p/(p+q)$ vs $p/q$
 -   Carnap, R. (1947). Probability as a guide in life. [^Carnap1947a]
+-   Carnap, R. (1953). [What is probability?](https://www.jstor.org/stable/24944342). [^Carnap1953]
 
 [^Carnap1947a]: @Carnap_1947_Probability_as_a_guide_in_life\.
+[^Carnap1953]: @Carnap_1953_What_is_probability\.
 
 
 ### Expectation and variance
