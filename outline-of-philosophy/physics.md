@@ -1360,7 +1360,7 @@ Criticisms:
 
 -   Similar crticisms to Copenhagen: collapse is arbitrary; dualism of observables and observer.
 -   TODO: Discuss how Everett and his Ph.D. adviser, Wigner, disagreed about how to interpret
-    the Wigner's friend throught experiment.
+    the Wigner's friend thought experiment.
 
 
 ### Bell's theorem
