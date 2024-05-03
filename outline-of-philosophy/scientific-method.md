@@ -1522,6 +1522,14 @@ See also:
 [^Schurz2019pX]: @Schurz_2019_Humes_Problem_Solved_The_optimality_of_meta\, p. X.
 
 
+### Anthropology of science
+
+-   Marks, J.M. (2009). *Why I Am Not A Scientist: Anthropology and Modern Science*. [^Marks2009]
+    -   Reviewed by [Wolf-Meyer, M.](https://somatosphere.com/2009/jonathan-marks-why-i-am-not-scientist.html/)
+
+[^Marks2009]: @Marks_2009_Why_I_Am_Not_A_Scientist_Anthropology_and_Modern\.
+
+
 Models in science
 --------------------------------------------------------------------------------
 
