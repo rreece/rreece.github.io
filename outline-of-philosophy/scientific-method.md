@@ -1163,7 +1163,7 @@ Peirce:
 -   Carnap
     -   "On inductive logic" [^Carnap1945a]
     -   *Logical Foundations of Probability* [^Carnap1950b]
-    -   *The Continuum of Inductive Methods* [^Carnap1952]
+    -   *The Continuum of Inductive Methods* [^Carnap1952a]
     -   "The aim of inductive logic" [^Carnap1966]
     -   "Notes on probability and induction" [^Carnap1973]
     -   French, C.F. (2015). [*Philosophy as Conceptual Engineering: Inductive Logic in Rudolf Carnap’s Scientiﬁc Philosophy*](https://web.archive.org/web/20170810180750id_/https://philpapers.org/archive/FREPAC-7.pdf). [^French2015]
@@ -1204,7 +1204,7 @@ See also:
 [^Aumann1976]: @Aumann_1976_Agreeing_to_disagree\.
 [^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
 [^Carnap1950b]: @Carnap_1950_Logical_Foundations_of_Probability\.
-[^Carnap1952]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
+[^Carnap1952a]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
 [^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
 [^Earman2000p25]: @Earman_2000_Humes_Abject_Failure_The_argument_against\, p. 25.

@@ -66,14 +66,14 @@ Discussion:
 
 Discussion:
 
--   Russell, B. (1927). *The Analysis of Matter*. [^Russell1927]
+-   Russell, B. (1927). *The Analysis of Matter*. [^Russell1927a]
 -   Weyl, H. (1927). *Philosophy of Mathematics and Natural Science*. [^Weyl1927]
 -   Patterson, G. (2007). Jean Perrin and the triumph of the atomic doctrine. [^Patterson2007]
 
 [^Einstein1905b]: @Einstein_1905_Uber_die_von_der_molekularkinetischen_theorie\.
 [^Patterson2007]: @Patterson_2007_Jean_Perrin_and_the_triumph_of_the_atomic\.
 [^Perrin1913]: @Perrin_1913_Les_Atomes\.
-[^Russell1927]: @Russell_1992_The_Analysis_of_Matter\.
+[^Russell1927a]: @Russell_1992_The_Analysis_of_Matter\.
 [^Weyl1927]: @Weyl_2009_Philosophy_of_Mathematics_and_Natural_Science\.
 [^Yock2018]: @Yock_2018_Newtons_hypotheses_on_the_structure_of_matter\.
 
@@ -587,7 +587,7 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 -   Schr&ouml;dinger, E. (1952). [Are there quantum jumps? Part II](https://www.jstor.org/stable/685266). [^Schrodinger1952b]
 -   Born, M. (1953). [The interpretation of quantum mechanics](https://www.jstor.org/stable/685986). [^Born1953]
 -   Joos, E. & Zeh, H. D. (1985). [The emergence of classical properties through interaction with the environment](http://www.decoherence.de/J+Z.pdf). [^Joos1985]
--   Bell, J.S. (1987). Are there quantum jumps? [^Bell1987]
+-   Bell, J.S. (1987). Are there quantum jumps? [^Bell1987a]
 -   Zurek, W.H. (1991). [Decoherence and the transition from quantum to classical](https://www.unicamp.br/~chibeni/textosdidaticos/zurek-1991.pdf). [^Zurek1991]
 -   Zurek, W.H. (2001). [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127). [^Zurek2001]
 -   Zurek, W.H. (2003). [Decoherence and the transition from quantum to classical--Revisited](https://arxiv.org/abs/quant-ph/0306072). [^Zurek2003]
@@ -604,7 +604,7 @@ See also:
 
 -   [Everettian interpretation](#everettian-interpretation)
 
-[^Bell1987]: @Bell_2004_Are_there_quantum_jumps\.
+[^Bell1987a]: @Bell_2004_Are_there_quantum_jumps\.
 [^Born1953]: @Born_1953_The_interpretation_of_quantum_mechanics\.
 [^Drossel2015]: @Drossel_2015_On_the_relation_between_the_second_law\, p. 51--2.
 [^Joos1985]: @Joos_1985_The_emergence_of_classical_properties_through\.
@@ -845,6 +845,7 @@ Michael Atiyah:
 -   Butterfield, J. (2014). [Reduction, emergence, and renormalization](https://arxiv.org/abs/1406.4354v1). [^Butterfield2014]
 -   Butterfield, J. & Bouatta, N. (2015). [Renormalization for philosophers](https://arxiv.org/abs/1406.4532). [^Butterfield2015]
     -   Universality is multiple realizability
+-   Fraser, J.D. (2021). [The twin origins of renormalization group concepts](https://durham-repository.worktribe.com/preview/1218769/34961.pdf). [^Fraser2021]
 -   Phillips, P.W. (2023). [Fifty years of Wilsonian renormalization and counting](https://arxiv.org/abs/2309.02484). [^Phillips2023]
 -   Video: [Moving Naturalism Forward, Day 1, Afternoon, 2nd Session: Simon DeDeo on renormalization](https://www.youtube.com/watch?v=-ZYLb7D2bQw).
  
@@ -852,6 +853,7 @@ Michael Atiyah:
 [^Butterfield2014]: @Butterfield_2014_Reduction_emergence_and_renormalization\.
 [^Butterfield2015]: @Butterfield_2015_Renormalization_for_philosophers\.
 [^Dirac1963]: @Dirac_1963_The_evolution_of_the_physicists_picture\.
+[^Fraser2021]: @Fraser_2021_The_twin_origins_of_renormalization_group\.
 [^Goldenfeld1992]: @Goldenfeld_1992_Lectures_on_Phase_Transitions\.
 [^Kadanoff2013p50]: @Kadanoff_2013_Theories_of_matter_Infinities_and_renormalization\, p. 50.
 [^Phillips2023]: @Phillips_2023_Fifty_years_of_Wilsonian_renormalization\.
@@ -1422,7 +1424,7 @@ Criticisms:
 Discussion:
 
 -   Raman, V.V. & Forman, P. (1969). [Why was it Schr&ouml;dinger who developed de Broglie's ideas?](https://www.jstor.org/stable/27757299). [^Raman1969]
--   Bell, J.S. (1987). *Speakable and Unspeakable in Quantum Mechanics*. [^Bell1987]
+-   Bell, J.S. (1987). *Speakable and Unspeakable in Quantum Mechanics*. [^Bell1987b]
 -   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (1995). [Bohmian mechanics as the foundation of quantum mechanics](https://arxiv.org/abs/quant-ph/9511016) [^Durr1995]
 -   Allori, V., D&uuml;rr, D., Goldstein, & Zangh&igrave;, N. (2002). [Seven steps towards the classical world](https://arxiv.org/abs/quant-ph/0112005). [^Allori2002]
 -   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (2013). *Quantum Physics Without Quantum Philosophy*. Springer. [^Durr2013]
@@ -1469,7 +1471,7 @@ Criticisms:
 [^Allori2002]: @Allori_2002_Seven_steps_towards_the_classical_world\.
 [^Ananthaswamy2021]: @Ananthaswamy_2021_This_simple_experiment_could_challenge_standard\.
 [^Bell1984]: @Bell_1984_Beables_for_quantum_field_theory\.
-[^Bell1987]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
+[^Bell1987b]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
 [^Bohm1952]: @Bohm_1952_A_suggested_interpretation_of_the_quantum_theory\.
 [^Bohm1953]: @Bohm_1953_Proof_that_probability_density_approaches\.
 [^Caulton2018]: @Caulton_2018_A_persistent_particle_ontology_for_quantum_field\.

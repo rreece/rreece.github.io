@@ -17,11 +17,11 @@ authorshort: "Ryan Reece"
 #email3: joe.coauthor@blah.com
 #homepage3: http://joe.blah.com
 #affiliation3: Joe University
-#author:
-#    -   |
-#        [Ryan Reece](http://rreece.github.io/)[^ReeceSCIPP]
-#
-#        [^ReeceSCIPP]: University of California, Santa Cruz / <ryan.reece@cern.ch> / <http://rreece.github.io>
+author:
+    -   |
+        [Ryan Reece](http://rreece.github.io/)[^ReeceSCIPP]
+
+        [^ReeceSCIPP]: University of California, Santa Cruz / <ryan.reece@cern.ch> / <http://rreece.github.io>
 #    -   |
 #        Jane Coauthor[^Jane]
 #

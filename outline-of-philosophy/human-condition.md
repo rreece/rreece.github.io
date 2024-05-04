@@ -2120,7 +2120,7 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
     -   *On The Nature of Things* (*De rerum natura*)
 -   [Jean Meslier](https://en.wikipedia.org/wiki/Jean_Meslier) (1664-1729)
 -   Bertrand Russell (1872-1970)
-    -   *Why I Am Not a Christian* (1927) [^Russell1927]
+    -   *Why I Am Not a Christian* (1927) [^Russell1927b]
 -   J.L. Mackie (1917-1981)
     -   *The Miracle of Theism* (1982) [^Mackie1982]
 -   Christopher Hitchens (1949-2011)
@@ -2132,7 +2132,7 @@ C.S. Lewis' translation of lines from Lucretius' *De rerum natura*:
 [^Law2010]: @Law_2010_The_evil_god_challenge\.
 [^Lewis1955]: @Lewis_1955_Surprised_by_Joy\, p. 65.
 [^Mackie1982]: @Mackie_1982_The_Miracle_of_Theism_Arguments_for_and_against\.
-[^Russell1927]: @Russell_2004_Why_I_Am_Not_a_Christian\.
+[^Russell1927b]: @Russell_2004_Why_I_Am_Not_a_Christian\.
 
 
 ### Euthyphro dilemma
