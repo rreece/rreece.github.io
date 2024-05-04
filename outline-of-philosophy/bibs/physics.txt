@@ -71,6 +71,7 @@ Cabibbo, N. (1963). Unitary symmetry and leptonic decays. *Physical Review Lette
 Candelas, P., Horowitz, G.T., Strominger, A., & Witten, E. (1985). Vacuum configurations for superstrings. *Nuclear Physics B*, 258, 46--74.
 Cao, C., Hu, H., Li, J., & Schwarz, W.H.E. (2019). Physical origin of chemical periodicities in the system of elements. *Pure and Applied Chemistry*, 91, 1969--1999. https://www.degruyter.com/document/doi/10.1515/pac-2019-0901/html
 Cao, T.Y. (1999). *Conceptual Foundations of Quantum Field Theory*. Cambridge University Press.
+Cao, T.Y. (2003). Structural realism and the interpretation of quantum field theory. *Synthese*, 136, 3--24. https://www.jstor.org/stable/20117384
 Cao, T.Y. (2016). The Englert-Brout-Higgs mechanism: An unfinished project. *International Journal of Modern Physics A*, 31(35), 1630061. 
 Capdevilla, R., Curtin, D., Kahn, Y., & Krnjaic, G. (2021). A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders. https://arxiv.org/abs/2101.10334
 Carcassi, G., Calderon, F., & Aidala, C.A. (2023). The unphysicality of Hilbert spaces. https://arxiv.org/abs/2308.06669
@@ -143,6 +144,7 @@ Feynman, R.P. & Hibbs, A.R. (1965). *Quantum Mechanics and Path Integrals*. Dove
 Frankel, T. (2004). *The Geometry of Physics* (2nd ed.). Cambridge University Press. 
 Fraser, D. (2008). The fate of 'particles' in quantum field theories with interactions. *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 39(4), 841--859. http://philsci-archive.pitt.edu/4038/
 Fraser, D. (2011). How to take particle physics seriously: A further defence of axiomatic quantum ﬁeld theory. *Studies in History and Philosophy of Modern Physics*, 42, 126--135.
+Fraser, J.D. (2018). Renormalization and the formulation of scientific realism. *Philosophy of Science*, 85(5), 1164--1175. https://philsci-archive.pitt.edu/14049/1/rgrealism_preprint.pdf
 Frauchiger, D. & Renner, R. (2018). Quantum theory cannot consistently describe the use of itself. *Nature Communications*,9, 3711. https://www.nature.com/articles/s41467-018-05739-8
 Freed, D.S. & Moore, G.W. (2012). Twisted equivariant matter. https://arxiv.org/abs/1208.5055
 Freedman, D.Z., van Nieuwenhuizen, P., & Ferrara, S. (1976). Progress toward a theory of supergravity. *Physical Review D*, 13, 3214--3218.
@@ -165,6 +167,7 @@ Gisin, N. (1999). Bell inequality for arbitrary many settings of the analyzers. 
 Gisin, N. & Peres, A. (1992). Maximal violation of Bell's inequality for arbitrarily large spin. *Physics Letters A*, 162, 15--17. 
 Gisin, N. Del Santo, F. (2023). Towards a measurement theory in QFT: "Impossible" quantum measurements are possible but not ideal. https://arxiv.org/abs/2311.13644
 Glashow, S. (1961). Partial symmetries of weak interactions. *Nuclear Physics*, 22, 579--588.
+Glick, D. (2016). The ontology of quantum field theory: Structural realism vindicated? *Studies in History and Philosophy of Science Part A*, 59, 78--86. https://philarchive.org/archive/GLITOO
 Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. Perseus Books.
 Gopakumar, R. (2011). What is the simplest gauge-string duality? https://arxiv.org/abs/1104.2386
 Gopakumar, R. & Mazenc, E.A. (2022). Deriving the simplest gauge-string duality, I: Open-closed-open triality. https://arxiv.org/abs/2212.05999
@@ -181,6 +184,7 @@ Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. Springer.
 Haag, R., \L{}opusza\'{n}ski, J. T., & Sohnius, M. (1975). All possible generators of supersymmetries of the S-matrix. *Nuclear Physics B*, 88(2), 257--274.
 Hall, D., & Wightman, A. S. (1957). A theorem on invariant analytic functions with applications to relativistic quantum field theory. I kommission hos Munksgaard.
 Hall, M.J.W. (2010). Local deterministic model of singlet state correlations based on relaxing measurement independence. *Physical Review Letters*, 105, 250404. https://arxiv.org/abs/1007.5518
+Halvorson, H. (2019). To be a realist about quantum theory. In Lombardi, O. (Ed.), *Quantum Worlds: Perspectives on the Ontology of Quantum Mechanics*. https://philpapers.org/archive/HALSPO-6.pdf
 Hamamatsu. (2007). *Photomultiplier Tubes: Basics and Applications* (3rd ed.). Hamamatsu Photonics. https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/documents/99_SALES_LIBRARY/etd/PMT_handbook_v3aE.pdf
 Harrigan, N., & Spekkens, R.W. (2010). Einstein, incompleteness, and the epistemic view of quantum states. *Foundations of Physics*, 40(2), 125--157. https://arxiv.org/abs/0706.2661
 Healey, R. (2007). *Gauging What's Real*. Oxford University Press.
@@ -301,6 +305,7 @@ Schweber, S.S. (1961). *An Introduction to Relativistic Quantum Field Theory*. H
 Schweber, S.S. (1993). The ebb and flow of of reductionism. In Brown, L.M. (Ed.) *Renormalization: From Lorentz to Landau (and Beyond)* (pp. 155-166). Springer-Verlag.
 Sebens, C.T. (2019). How electrons spin. *Studies in History and Philosophy of Science Part B*, 68, 40--50. https://arxiv.org/abs/1806.01121
 Seidewitz, E. (2017). Avoiding Haag's theorem with parameterized quantum field theory. *Foundations of Physics*, 47(3), 355--374. https://arxiv.org/abs/1501.05658
+Seifert, V.A. (2024). The chemical bond is a real pattern. *Philosophy of Science*. https://philpapers.org/archive/SEITCB-2.pdf
 Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. Cambridge University Press.
 Shikhovtsev, E.B. and Ford, K.W. (2003). Biographical sketch of Hugh Everett, III. https://space.mit.edu/home/tegmark/everett/
 Shimony, A. (1984). Contextual hidden variables theories and Bell's inequalities. *The British Journal for the Philosophy of Science*, 35, 25--45. https://www.jstor.org/stable/687555

@@ -626,10 +626,12 @@ See also:
 -   Friedrich, B. (2016). [How did the tree of knowledge get its blossom? The rise of physical and theoretical chemistry, with an eye on Berlin and Leipzig](https://onlinelibrary.wiley.com/doi/10.1002/anie.201509260). [^Friedrich2016]
 -   Density functional theory
 -   Cao, C., Hu, H., Li, J., & Schwarz, W.H.E. (2019). [Physical origin of chemical periodicities in the system of elements](https://www.degruyter.com/document/doi/10.1515/pac-2019-0901/html). [^Cao2019]
+-   Seifert, V.A. (2024). [The chemical bond is a real pattern](https://philpapers.org/archive/SEITCB-2.pdf). [^Seifert2024]
 
 [^Cao2019]: @Cao_2019_Physical_origin_of_chemical_periodicities\.
 [^Cohen2015]: @Cohen_2015_Explaining_and_predicting_the_properties\.
 [^Friedrich2016]: @Friedrich_2016_How_did_the_tree_of_knowledge_get_its_blossom\.
+[^Seifert2024]: @Seifert_2024_The_chemical_bond_is_a_real_pattern\.
 
 
 ### Quantum computing
@@ -864,13 +866,21 @@ Michael Atiyah:
 -   Effective field theory (EFT)
 -   Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. [^Huggett1995]
 -   Weinberg, S. (1997). [What is quantum field theory, and what did we think it is?](http://arxiv.org/abs/hep-th/9702027). [^Weinberg1997]
+-   Cao, T.Y. (2003). [Structural realism and the interpretation of quantum field theory](https://www.jstor.org/stable/20117384). [^Cao2003]
 -   Bain, J. (2013). Effective field theories. [^Bain2013]
 -   Preskill, J. (2013). [We are all Wilsonians now](https://quantumfrontiers.com/2013/06/18/we-are-all-wilsonians-now/). [^Preskill2013]
+-   Glick, D. (2016). [The ontology of quantum field theory: Structural realism vindicated?](https://philarchive.org/archive/GLITOO). [^Glick2016]
 -   Williams, P. (2019). [Scientific realism made effective](https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axx043). [^Williams2019]
+-   Fraser, J.D. (2018). [Renormalization and the formulation of scientific realism](https://philsci-archive.pitt.edu/14049/1/rgrealism_preprint.pdf). [^Fraser2018]
+-   Halvorson, H. (2019). [To be a realist about quantum theory](https://philpapers.org/archive/HALSPO-6.pdf). [^Halvorson2019]
 -   Rosaler, J. (2022). [Dogmas of effective field theory: Scheme dependence, fundamental parameters, and the many faces of the Higgs naturalness principle](https://link.springer.com/article/10.1007/s10701-021-00510-4). [^Rosaler2022]
 
 [^Bain2013]: @Bain_2013_Effective_field_theories and
     @Bain_2013_Emergence_in_effective_field_theories\.
+[^Cao2003]: @Cao_2003_Structural_realism_and_the_interpretation\.
+[^Fraser2018]: @Fraser_2018_Renormalization_and_the_formulation_of_scientific\.
+[^Glick2016]: @Glick_2016_The_ontology_of_quantum_field_theory_Structural\.
+[^Halvorson2019]: @Halvorson_2019_To_be_a_realist_about_quantum_theory\.
 [^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
 [^Preskill2013]: @Preskill_2013_We_are_all_Wilsonians_now\.
 [^Rosaler2022]: @Rosaler_2022_Dogmas_of_effective_field_theory_Scheme\.
