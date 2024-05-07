@@ -100,6 +100,8 @@ History:
 -   [Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton) (1642-1727)
 -   [Gottfried Wilhelm Leibniz](http://en.wikipedia.org/wiki/Gottfried_Leibniz) (1646-1716)
 -   [Edmond Halley](http://en.wikipedia.org/wiki/Edmond_Halley) (1656-1742)
+-   [Emilie du Chatelet](https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet) (1706-1749)
+    -   Conservation of energy in addition to conservation of momentum
 -   [Leonhard Euler](http://en.wikipedia.org/wiki/Euler) (1707-1783)
 -   [Joseph-Louis Lagrange](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) (1736-1813)
 -   [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace) (1749-1827)
@@ -873,19 +875,26 @@ Michael Atiyah:
 -   Preskill, J. (2013). [We are all Wilsonians now](https://quantumfrontiers.com/2013/06/18/we-are-all-wilsonians-now/). [^Preskill2013]
 -   Glick, D. (2016). [The ontology of quantum field theory: Structural realism vindicated?](https://philarchive.org/archive/GLITOO). [^Glick2016]
 -   Williams, P. (2019). [Scientific realism made effective](https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axx043). [^Williams2019]
+-   Ruetsche, L. (2018). [Renormalization group realism: The ascent of pessimism](https://www.jstor.org/stable/26627776). [^Ruetsche2018]
 -   Fraser, J.D. (2018). [Renormalization and the formulation of scientific realism](https://philsci-archive.pitt.edu/14049/1/rgrealism_preprint.pdf). [^Fraser2018]
 -   Halvorson, H. (2019). [To be a realist about quantum theory](https://philpapers.org/archive/HALSPO-6.pdf). [^Halvorson2019]
 -   Rosaler, J. (2022). [Dogmas of effective field theory: Scheme dependence, fundamental parameters, and the many faces of the Higgs naturalness principle](https://link.springer.com/article/10.1007/s10701-021-00510-4). [^Rosaler2022]
+
+J.D. Fraser:
+
+>   in demonstrating that these large scale properties of a QFT model are insensitive to what is going on at very high energies, the renormalization group is also telling us that these features are largely independent of the details of unknown physics at currently inaccessible energy scales. We thus have reason to be confident that these features of current QFTs will be retained through future theory change, in one way or another, whatever physics beyond the standard model has in store for us. [^Fraser2018p10]
 
 [^Bain2013]: @Bain_2013_Effective_field_theories and
     @Bain_2013_Emergence_in_effective_field_theories\.
 [^Cao2003]: @Cao_2003_Structural_realism_and_the_interpretation\.
 [^Fraser2018]: @Fraser_2018_Renormalization_and_the_formulation_of_scientific\.
+[^Fraser2018p10]: @Fraser_2018_Renormalization_and_the_formulation_of_scientific\, p. 10.
 [^Glick2016]: @Glick_2016_The_ontology_of_quantum_field_theory_Structural\.
 [^Halvorson2019]: @Halvorson_2019_To_be_a_realist_about_quantum_theory\.
 [^Huggett1995]: @Huggett_1995_The_renormalisation_group_and_effective_field\.
 [^Preskill2013]: @Preskill_2013_We_are_all_Wilsonians_now\.
 [^Rosaler2022]: @Rosaler_2022_Dogmas_of_effective_field_theory_Scheme\.
+[^Ruetsche2018]: @Ruetsche_2018_Renormalization_group_realism_The_ascent\.
 [^Weinberg1997]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\.
 [^Williams2019]: @Williams_2019_Scientific_realism_made_effective\.
 

@@ -286,6 +286,7 @@ Romero, G.E. (2015). On the ontology of spacetime: Substantivalism, relationism,
 Rosaler, J. (2022). Dogmas of effective field theory: Scheme dependence, fundamental parameters, and the many faces of the Higgs naturalness principle. *Foundations of Physics*, 52(1), 1--32. https://link.springer.com/article/10.1007/s10701-021-00510-4
 Rubbia, C. (1984). Experimental observation of the intermediate vector bosons $W^{+}$, $W^{-}$, and $Z^{0}$. https://www.nobelprize.org/uploads/2018/06/rubbia-lecture.pdf [Nobel lecture, December 8, 1984]
 Ruetsche, L. (2002). Interpreting quantum field theory. *Philosophy of Science*, 69, 348--378.
+Ruetsche, L. (2018). Renormalization group realism: The ascent of pessimism. *Philosophy of Science*, 85, 1176--1189. https://www.jstor.org/stable/26627776
 Ryden, B. (2003). *Introduction to Cosmology*. Addison Wesley.
 Salam, A. & Ward, J.C. (1964). Electromagnetic and weak interactions. *Physics Letters*, 13, 168--171.
 Salam, A. & Ward, J.C. (1964). Gauge theory of elementary interactions. *Physical Review*, 136, 763--768.
