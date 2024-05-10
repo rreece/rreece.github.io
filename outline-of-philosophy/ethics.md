@@ -424,6 +424,7 @@ Churchland:
 
 ### Science of morality
 
+-   Deontic logic
 -   Sam Harris
     -   *The Moral Landscape: How science can determine human values* [^Harris2010]
     -   Video: Sisyphus55 (2020). [The Zen Neuroscientist: A guide to Sam Harris](https://www.youtube.com/watch?v=UaTE4ZxzLdA).

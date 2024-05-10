@@ -324,23 +324,25 @@ Logic
 Pedagogy:
 
 -   Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard First-Order Logic*. [^Hunter1971]
--   Teller, P. (1989). *A Modern Formal Logic Primer*. [^Teller1989]
--   Bonevac, D. (2003). *Deduction: Introductory to Symbolic Logic*. [^Bonevac2003]
--   MacFarlane, J. (2021). *Philosophical Logic: A Contemporary Introduction.* [^MacFarlane2021]
+-   Monk, J.D. (1976). *Mathematical Logic*. [^Monk1976]
 -   Smith, P. (2020). *An Introduction to Formal Logic*. [^Smith2020]
 -   Smith, P. (2022). *Beginning Mathematical Logic A Study Guide*. [^Smith2022]
--   [logicmatters.net](https://www.logicmatters.net/)
 
 More:
 
 -   Carnap, R. (1958). *Introduction to Symbolic Logic and its Applications*. [^Carnap1958]
+-   Teller, P. (1989). *A Modern Formal Logic Primer*. [^Teller1989]
+-   Bonevac, D. (2003). *Deduction: Introductory to Symbolic Logic*. [^Bonevac2003]
+-   MacFarlane, J. (2021). *Philosophical Logic: A Contemporary Introduction.* [^MacFarlane2021]
 -   [*The Open Logic Text*](https://openlogicproject.org/) [^OpenLogicText]
 -   [logicinaction.org](http://www.logicinaction.org/)
+-   [logicmatters.net](https://www.logicmatters.net/)
 
 [^Bonevac2003]: @Bonevac_2003_Deduction_Introductory_to_Symbolic_Logic\.
 [^Carnap1958]: @Carnap_1958_Introduction_to_Symbolic_Logic_and_its\.
 [^Hunter1971]: @Hunter_1971_Metalogic_An_Introduction_to_the_Metatheory\.
 [^MacFarlane2021]: @MacFarlane_2021_Philosophical_Logic_A_contemporary_introduction\.
+[^Monk1976]: @Monk_1976_Mathematical_Logic\.
 [^OpenLogicText]: @Open_2020_The_Open_Logic_Text\.
 [^Smith2020]: @Smith_2020_An_Introduction_to_Formal_Logic\.
 [^Smith2022]: @Smith_2022_Beginning_Mathematical_Logic_A_Study_Guide\.
@@ -359,17 +361,23 @@ More:
 -   [Vasubandhu](https://en.wikipedia.org/wiki/Vasubandhu) (fl. 4th to 5th century CE)
 -   [Dign&amacr;ga](https://en.wikipedia.org/wiki/Dign%C4%81ga) (c. 480-540 CE)
 -   [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) (1839-1914)
--   [Gottlob Frege (1848-1925)](https://en.wikipedia.org/wiki/Gottlob_Frege)
+-   [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) (1848-1925)
     -   [*Begriffsschrift*](https://en.wikipedia.org/wiki/Begriffsschrift) (1879)
--   [Alfred North Whitehead (1861-1947)](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) and [Bertrand Russell (1872-1970)](http://en.wikipedia.org/wiki/Bertrand_Russell) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
+-   [Alfred North Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead) (1861-1947) and [Bertrand Russell](http://en.wikipedia.org/wiki/Bertrand_Russell) (1872-1970) published [*Principia Mathematica*](https://en.wikipedia.org/wiki/Principia_Mathematica) in 1910
     -   [Russell's paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox)
     -   PM avoids Russell's paradox by introduction of the "ramified theory of types".
     -   Later lead to Church's (1976) formulation of the logic of PM with $r$-types.
--   [Kurt G&ouml;del (1906-1978)](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
+-   [Henry M. Sheffer](https://en.wikipedia.org/wiki/Henry_M._Sheffer) (1882-1964)
+    -   Sheffer, H.M. (1913). [A set of five independent postulates for Boolean algebras, with application to logical constants](https://www.ams.org/journals/tran/1913-014-04/S0002-9947-1913-1500960-1/). [^Sheffer1913]
+    -    Propositional logic can be formulated using a single connective: either logical NAND or its dual, logical NOR.
+-   [Emil Post](https://en.wikipedia.org/wiki/Emil_Leon_Post) (1897-1954)
+-   [Alfred Tarski](https://en.wikipedia.org/wiki/Alfred_Tarski) (1901-1983)
+-   [Kurt G&ouml;del](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) (1906-1978)
     -   [G&ouml;del's completeness theorem](https://en.wikipedia.org/wiki/G%C3%B6del%27s_completeness_theorem) (1929)
     -   [G&ouml;del's incompleteness theorems](http://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems) (1931)
--   Sheffer, H.M. (1913). [A set of five independent postulates for Boolean algebras, with application to logical constants](https://www.ams.org/journals/tran/1913-014-04/S0002-9947-1913-1500960-1/). [^Sheffer1913]
-    -    Propositional logic can be formulated using a single connective: either logical NAND or its dual, logical NOR.
+-   [Gerhard Gentzen](https://en.wikipedia.org/wiki/Gerhard_Gentzen) (1909-1945)
+-   [Leon Henkin](https://en.wikipedia.org/wiki/Leon_Henkin) (1921-2006)
+
 
 [^Sheffer1913]: @Sheffer_1913_A_set_of_five_independent_postulates_for_Boolean\.
 
@@ -388,7 +396,7 @@ More:
 
 $$ A \vdash B $$
 
-means that $B$ is logically derivable/provable from $A$.
+means that $B$ is logically derivable/provable from $A$; $B$ is a theorem of the premises, $A$.
 
 *Semantic consequence:*
 
@@ -402,7 +410,7 @@ not part of the rules of logic; they are shorthands.
 
 $\vdash$  means "from which, it is derivable that".          
 $\models$ means "entails that, *i.e.* in every case this is true, that is true (regardless of provability)".           
-$\equiv$ means "is notationally identical to".         
+$\equiv$ means "is identical to".         
 
 Lecture notes on soundness and completeness:
 
@@ -571,6 +579,8 @@ See also:
     -   Jerzak, E. (2009). [Second-order logic, or: How I learned to stop worrying and love the incompleteness theorems](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2009/REUPapers/Jerzak.pdf). [^Jerzak2009]
 -   Ot&aacute;vio Bueno
     -   Bueno, O. (2010). [A defense of second-order logic](https://web.as.miami.edu/personal/obueno/Site/Online_Papers_files/SecnOrd_FINAL.pdf). [^Bueno2010]
+-   Ted Sider
+    -   Sider, T. (2022). [Crash course on higher-order logic](https://tedsider.org/teaching/higher_order_20/higher_order_crash_course.pdf). [^Sider2022]
 
 [^Boolos1984]: @Boolos_1984_To_be_is_to_be_the_value_of_a_variable_or_to_be\.
 [^Bueno2010]: @Bueno_2010_A_defense_of_second_order_logic\.
@@ -579,6 +589,7 @@ See also:
 [^Kleene1952]: @Kleene_1952_Introduction_to_Metamathematics\.
 [^Russell2015]: @Russell_2015_The_justification_of_the_basic_laws_of_logic\.
 [^Shapiro1991]: @Shapiro_1991_Foundations_without_Foundationalism_A_Case\.
+[^Sider2022]: @Sider_2022_Crash_course_on_higher_order_logic\.
 
 
 ### Modal logic

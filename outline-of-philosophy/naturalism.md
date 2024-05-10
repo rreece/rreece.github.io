@@ -447,7 +447,7 @@ See also:
 
 -   Heidegger, M. (1929). What is metaphysics? [^Heidegger1929]
 -   Cassirer-Heidegger debate on human nature and Kant in Davos (1929)
--   Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. [^Carnap1932c]
+-   Carnap, R. (1932). [The elimination of metaphysics through logical analysis of language](https://philpapers.org/archive/TEO.pdf). [^Carnap1932c]
 -   Kondylis, P. (1997). [Heidegger’s *Being and Time*: A collection of pretentious and vague platitudes](http://www.telospress.com/heideggers-being-and-time-a-collection-of-pretentious-and-vague-platitudes/).
 -   Friedman, M. (2000). *A Parting of the Ways: Carnap, Cassirer, and Heidegger*. [^Friedman2000]
 -   Friedman, M. (2002). Carnap, Cassirer, and Heidegger: The Davos disputation and twentieth century philosophy. [^Friedman2002]
@@ -456,6 +456,8 @@ See also:
 -   Vrahimis, A. (2013). [Was there a sun before men existed?: A.J. Ayer and French philosophy in the fifties](https://jhaponline.org/jhap/article/view/12). [^Vrahimis2013]
 -   Dresser, S. (2020). [Does philosophy reside in the unsayable or should it care only for precision? Carnap, Heidegger and the great divergence](https://aeon.co/essays/heidegger-v-carnap-how-logic-took-issue-with-metaphysics).
 -   [Searle-Derrida debate](https://en.wikipedia.org/wiki/Searle%E2%80%93Derrida_debate)
+
+![Meme by Gregory B. Sadler (source: [his tweet](https://twitter.com/philosopher70/status/1547218809739776001)).](img/carnap-heidegger-better-material.jpg){#fig:carnap-heidegger-better-material}
 
 [^Carnap1932c]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
 [^Friedman2000]: @Friedman_2000_A_Parting_of_the_Ways_Carnap_Cassirer\.
