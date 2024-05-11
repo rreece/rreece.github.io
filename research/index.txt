@@ -13,9 +13,14 @@
 -   Philosophy of science and science communication
 
 
+![Figure 1: A display of likely a $pp$ &rarr; $tt$ &rarr; $bb\mu\tau$ event in ATLAS in 2011.](img/ATLAS-ttbar-tau.png){#fig:ATLAS-ttbar-tau}
+
 ### Research history
 
-Previously as a graduate student at Penn,
+#### ATLAS
+
+Previously as a graduate student at
+[Penn](https://live-sas-physics.pantheon.sas.upenn.edu/research/particle-physics),
 working with [ATLAS Experiment](https://atlas.cern/)
 at [CERN](https://home.cern/),
 [I helped](img/ryan-with-endcap-trt-sr1-2006-07.jpg)
@@ -39,7 +44,7 @@ and an eye for technical detail and [good scholarship](http://rreece.github.io/p
 I am passionate about using scientific techniques to solve important problems
 and about how technologies extend our reach.
 
-![A display of a $pp$ &rarr; $tt$ &rarr; $bb\mu\tau$ event in ATLAS in 2011.](img/ATLAS-ttbar-tau.png){#fig:ATLAS-ttbar-tau}
+![Figure 2: A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png "Experiment &rarr; data acquisition &rarr; reconstruction &rarr; analysis &rarr; inference"){#fig:atlas-data-flow}
 
 Many theories of physics beyond the Standard Model have revolutionary
 implications for the concepts of symmetry and space-time, and
@@ -48,15 +53,25 @@ Searching for new physics in collider data involves detecting rare events among 
 requiring big data reductions, data-driven background modeling,
 and severe statistical hypothesis testing.
 
-![A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png "Experiment &rarr; data acquisition &rarr; reconstruction &rarr; analysis &rarr; inference"){#fig:atlas-data-flow}
-
 My research in physics has primarily focused on supporting and optimizing
 the reconstruction of hadronic tau decays,
 and searching for exotic new physics in ditau and diphoton events,
 including for signs of grand unified theories and supersymmetry.
 In my time with the ATLAS Collaboration I made substantial
 contributions to [14 publications in scientific journals](../publications/index.html#atlas-publications)
-and several more physics [conference proceedings](http://rreece.github.io/publications/).
+and several more physics [conference proceedings](../publications/index.html#atlas-conference-notes-proceedings-other-public-documents).
+
+![Figure 3: Search for $Z^{\prime}$ &rarr; $\tau\tau$ with ATLAS ([1608.00890](https://arxiv.org/abs/1608.00890)).](img/Ztautau_mTtot_limit.png){#fig:Ztautau_mTtot_limit}
+
+I have extensive experience in Neyman-Pearson statistical hypothesis testing,
+including the modeling of systematic uncertainties,
+often with a combination of Monte Carlo and data-driven methods.
+In analyses for ATLAS, I have contributed to the measurement and calibration
+of many systematic uncertainties including tracking detector thresholds,
+tau identification efficiencies and fake rates,
+and the effects of QCD Monte Carlo variations.
+
+TODO: ML and BDTs.
 
 Since 2016, following the deep learning revolution,
 I've been trying to learn everything I can about deep learning.
@@ -64,15 +79,22 @@ I've worked in computer vision,
 machine translation, and
 large-scale language modeling.
 
+
+#### Cerebras
+
 In April of 2018, I joined [Cerebras Systems](https://www.cerebras.net)
 as a machine learning engineer.
 Cerebras makes cutting-edge accelerators for deep learning,
 the first to achieve
 [Wafer-Scale Intergration](https://en.wikipedia.org/wiki/Wafer-scale_integration).
-Collaborators at Cerebras and I published a new normalization
-technique, OnlineNorm, for training deep neural networks with small batch sizes
+Collaborators at Cerebras and I published a new normalization technique, 
+[Online Normalization](https://github.com/Cerebras/online-normalization), 
+for training deep neural networks with small batch sizes
 ([*NeurIPS 2019*](https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html),
 [arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
+
+![Figure 4: Training ResNet-50 on ImageNet-1k with [Online Normalization](https://github.com/Cerebras/online-normalization) (ON) and Batch Normalization (BN) ([*NeurIPS 2019*](https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html), [1905.05894](https://arxiv.org/abs/1905.05894)).](img/online-norm-resnet50.png){#fig:online-norm-resnet50}
+
 I developed and supported several reference models for Cerebras in
 computer vision (ResNets) and NLP (GNMT, Transformer, Linformer, BERT, RoBERTa, GPT-2).
 [Cerebras revealed](https://www.cerebras.net/a-successful-week-for-cerebras-at-supercomputing-2019/)
@@ -84,13 +106,30 @@ In April of 2022, I co-authored a blog about
 [Getting started with PyTorch BERT models on the Cerebras CS-2 System](https://cerebras.net/blog/getting-started-with-pytorch-bert-models-on-the-cerebras-cs-2-system/).
 
 
-### Current projects I am focused on
+#### Tenstorrent
+
+TODO
+
+------------------
+
+
+### Current focuses
 
 -   Large-scale language modeling
 -   Deep learning performance
 -   Sparsity in deep neural nets
 -   Hyperparameter optimization
 -   Understanding techniques for clustering and anomaly detection
+
+
+### Current independent research projects
+
+Implementation and study of:
+
+-   Modern Portfolio Theory (AKA the "Markowitz portfolio") and its variants
+-   Counterfactual Regret Minimization (CFR) and its variants
+
+Not open sourced, but feel free to ask me about them.
 
 
 ### Previous focuses
@@ -109,7 +148,7 @@ In April of 2022, I co-authored a blog about
     ($e/\gamma/\pi$) with ILC-CLIC simulation data
     [[1807.02876](https://arxiv.org/abs/1807.02876)]
 -   Development of a new type of normalization layer for training neural networks,
-    [OnlineNorm](https://github.com/Cerebras/online-normalization),
+    [Online Normalization](https://github.com/Cerebras/online-normalization),
     that can functionally replace BatchNorm and be used with batch size = 1.
     [[*NeurIPS 2019*](https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html),
     [1905.05894](https://arxiv.org/abs/1905.05894)]

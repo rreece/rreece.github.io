@@ -88,11 +88,13 @@ Consequentialism
 
 -   Epicurus
 -   Bentham
--   Mill
+    -   Utilitarianism
+-   J.S. Mill
 -   G.E.M. Anscombe (1919-2001)
 -   Game theory
 -   [Von Neumann-Morgenstern utility theorem](https://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem)
 -   Binmore
+-   J.J.C. Smart
 -   Portmore
     -   *Commonsense Consequentialism* [^Portmore2011]
 
@@ -123,13 +125,18 @@ See also:
 
 ### Criticism
 
--   The Repugnant Conclusion
-    -   Parfit, D. (1984). *Reasons and Pearsons*. [^Parfit1984]
--   The experience machine
+-   Bernard Williams
+    -   Smart, J.J.C. & Williams, B. (1973). [*Utilitarianism: For and against*](https://www.utilitarianism.com/utilitarianism-for-and-against.pdf). [^SmartWilliams1973]
+-   Robert Nozick
+    -   The experience machine
     -   Nozick, R. (1974). *Anarchy, State, and Utopia*. [^Nozick2013pTODO]
+-   Derek Parfit
+    -   The Repugnant Conclusion
+    -   Parfit, D. (1984). *Reasons and Pearsons*. [^Parfit1984]
 
 [^Nozick2013pTODO]: @Nozick_2013_Anarchy_State_and_Utopia\, p. TODO.
 [^Parfit1984]: @Parfit_1984_Reasons_and_Pearsons\.
+[^SmartWilliams1973]: @Smart_1973_Utilitarianism_For_and_against\.
 
 
 Moral antirealism

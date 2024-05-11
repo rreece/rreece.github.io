@@ -1556,13 +1556,14 @@ Deep learning
 -   Discussion
     -   Norvig, P. (2011). [On Chomsky and the Two Cultures of Statistical Learning](https://norvig.com/chomsky.html). [^Norvig2011a]
     -   Sutton, R. (2019). [The bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html). [^Sutton2019]
-    -   Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. [^Watson2019]
+    -   Frankle, J. & Carbin, M. (2018). [The lottery ticket hypothesis: Finding sparse, trainable neural networks](https://arxiv.org/abs/1803.03635). [^Frankle2018]
     -   [AIMyths.com](https://www.aimyths.org/)
 
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
 
 [^Bengio2009]: @Bengio_2009_Learning_deep_architectures_for_AI\.
 [^Bottou1998]: @Bottou_1998_Stochastic_gradient_descent_tricks\.
+[^Frankle2018]: @Frankle_2018_The_lottery_ticket_hypothesis_Finding_sparse\.
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
 [^Kaplan2019]: @Kaplan_2019_Notes_on_contemporary_machine_learning\.
 [^LeCun1998b]: @LeCun_1998_Efficient_BackProp\.
@@ -1571,7 +1572,6 @@ Deep learning
 [^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
 [^Sutskever2015]: @Sutskever_2015_A_brief_overview_of_deep_learning\.
 [^Sutton2019]: @Sutton_2019_The_bitter_lesson\.
-[^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
 
 ### Deep double descent
@@ -2056,6 +2056,7 @@ See also:
 #### Interpretability
 
 -   [Grandmother cell](https://en.wikipedia.org/wiki/Grandmother_cell)
+-   Watson, D. & Floridi, L. (2019). The explanation game: A formal framework for interpretable machine learning. [^Watson2019]
 -   Anthropic. (2021). [A mathematical framework for transformer circuits](https://transformer-circuits.pub/2021/framework/index.html).
 -   Anthropic. (2022). [In-context learning and induction heads](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html).
 -   Gurnee, W. et al. (2023). [Finding neurons in a haystack: Case studies with sparse probing](https://arxiv.org/abs/2305.01610). [^Gurnee2023a]
@@ -2074,6 +2075,7 @@ Linear probes:
 [^Gurnee2023b]: @Gurnee_2023_Language_models_represent_space_and_time\.
 [^McDougall2023]: @McDougall_2023_Copy_suppression_Comprehensively_understanding\.
 [^Meng2023]: @Meng_2023_Locating_and_editing_factual_associations_in_GPT\.
+[^Watson2019]: @Watson_2019_The_explanation_game_A_formal_framework\.
 
 
 ### Reinforcement learning
@@ -2504,6 +2506,7 @@ Theoretical machine learning
     -   Lauc, D. (2020). Machine learning and the philosophical problems of induction. [^Lauc2020]
     -   Nakkiran, P. (2021). [Turing-universal learners with optimal scaling laws](https://arxiv.org/abs/2111.05321). [^Nakkiran2021]
     -   Bousquet, O., Hanneke, S., Moran, S., Van Handel, R., & Yehudayoff, A. (2021). [A theory of universal learning](https://dl.acm.org/doi/pdf/10.1145/3406325.3451087). [^Bousquet2021]
+    -   Andrews, M. (2023). [The devil in the data: Machine learning & the theory-free ideal](https://philsci-archive.pitt.edu/22690/1/ML_Atheoreticity.pdf). [^Andrews2023]
 
 Raissi et al.:
 
@@ -2523,6 +2526,7 @@ Roberts:
 
 -   TODO: Note Dennett's discussion of compression. [^Dennett1991a]
 
+[^Andrews2023]: @Andrews_2023_The_devil_in_the_data_Machine_learning\.
 [^Bousquet2021]: @Bousquet_2021_A_theory_of_universal_learning\.
 [^Dennett1991a]: @Dennett_1991_Real_patterns\, p. TODO.
 [^Goldreich1997]: @Goldreich_1997_On_universal_learning_algorithms\.
@@ -2608,11 +2612,13 @@ Roberts:
 -   Bogatskiy, A., Hoffman, T., Miller, D.W., Offermann, J.T., & Liu, X. (2023). [Explainable equivariant neural networks for particle physics: PELICAN](https://arxiv.org/abs/2307.16506). [^Bogatskiy2023]
 -   [e3nn: a modular PyTorch framework for Euclidean neural networks](https://e3nn.org/)
 -   [List of papers: Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network)
+-   Marchetti, G.L., Hillar, C., Kragic, D., & Sanborn. S. (2023). [Harmonics of learning: Universal fourier features emerge in invariant networks](https://arxiv.org/abs/2312.08550). [^Marchetti2023]
 
 [^Bogatskiy2023]: @Bogatskiy_2023_Explainable_equivariant_neural_networks\.
 [^Cohen2016a]: @Cohen_2016_Group_equivariant_convolutional_networks\.
 [^Cohen2019]: @Cohen_2019_Gauge_equivariant_convolutional_networks\.
 [^Fuchs2020]: @Fuchs_2020_SE3_Transformers_3D_roto_translation\.
+[^Marchetti2023]: @Marchetti_2023_Harmonics_of_learning_Universal_fourier_features\.
 
 
 ### Thermodynamics of computation

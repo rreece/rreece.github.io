@@ -60,7 +60,7 @@ ATLAS publications
     [arxiv:1709.07242](https://arxiv.org/abs/1709.07242).
     January 25, 2018.
 
-1.  Search for minimal supersymmetric standard model Higgs bosons $H/A$ and for a $Z\prime$ boson in the $\tau\tau$ final state produced in $pp$ collisions at *&radic;s* = 13 TeV with the ATLAS Detector.
+1.  Search for minimal supersymmetric standard model Higgs bosons $H/A$ and for a $Z^{\prime}$ boson in the $\tau\tau$ final state produced in $pp$ collisions at *&radic;s* = 13 TeV with the ATLAS Detector.
     *European Physical Journal C*, *76*, 585 (2016).
     [arxiv:1608.00890](https://arxiv.org/abs/1608.00890).
     November 24, 2016.

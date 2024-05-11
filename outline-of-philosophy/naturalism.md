@@ -607,7 +607,7 @@ Wittgenstein:
 [^Nagel1961]: @Nagel_1961_The_Structure_of_Science_Problems_in_the_Logic\.
 [^Nagel2008]: @Nagel_2008_Issues_in_the_logic_of_reductive_explanations\.
 [^Ney2018]: @Ney_2018_The_Politics_of_Fundamentality\.
-[^Ney2021b]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
+[^Ney2021b]: @Ney_2021_The_fundamentality_of_physics_Completeness\.
 [^Rosaler2019]: @Rosaler_2019_Reduction_as_an_a_posteriori_relation\.
 [^Wittgenstein1922L20201]:@Wittgenstein_1961_Tractatus_Logico_Philosophicus\, line 2.0201.
 
@@ -727,7 +727,7 @@ See also:
 -   [Rejection of the supernatural](#rejection-of-the-supernatural)
 
 [^Ladyman2007p37]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 37.
-[^Ney2021a]: @Ney_2021_The_fundamentality_of_physics_Completeness_or\.
+[^Ney2021a]: @Ney_2021_The_fundamentality_of_physics_Completeness\.
 [^Spurrett1999]: @Spurrett_1999_The_Completeness_of_Physics\.
 [^Spurrett1999b]: @Spurrett_1999_A_note_on_the_completeness_of_physics\.
 
