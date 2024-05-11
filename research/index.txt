@@ -71,6 +71,13 @@ of many systematic uncertainties including tracking detector thresholds,
 tau identification efficiencies and fake rates,
 and the effects of QCD Monte Carlo variations.
 
+Tau leptons are heavy enough to have complex hadronic decays
+with identifiable signatures, which form an interesting domain
+for machine learning. I was an active developer for the
+ATLAS Tau Working Group that developed the reconstruction and
+identification algorithms for taus in ATLAS during
+Run 1 and 2 of the LHC.
+
 TODO: ML and BDTs.
 
 Since 2016, following the deep learning revolution,
