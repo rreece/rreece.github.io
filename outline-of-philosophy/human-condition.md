@@ -1678,6 +1678,7 @@ Romanticism
 
 ### Introduction
 
+-   [Jakob B&ouml;hme](https://en.wikipedia.org/wiki/Jakob_B%C3%B6hme) (1575-1624)
 -   [Romanticism](https://en.wikipedia.org/wiki/Romanticism)
     -   late 18th through 19th centuries
     -   focus on emotion
@@ -2320,6 +2321,7 @@ Existentialism
     -   "The Grand Inquisitor" in *The Brothers Karamazov* (1880)
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
     -   *The Gay Science* (1882)
+        -   The will to power (*der Wille zur Macht*)
         -   Leiter, B. (2019). The death of God and the death of morality. [^Leiter2019]
     -   *Thus Spoke Zarathustra* (1883)
         -   Modernism and alienation
