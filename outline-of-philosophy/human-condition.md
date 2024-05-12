@@ -269,6 +269,8 @@ Moore & Kelle:
     -   [Mandaeism](https://en.wikipedia.org/wiki/Mandaeism)
 -   [Eusebius](https://en.wikipedia.org/wiki/Eusebius) (c. 260/5 - 339/340 CE)
 -   [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (354-430 CE)
+-   [Boethius](https://en.wikipedia.org/wiki/Boethius) (c. 480-524)
+    -   *On the Consolation of Philosophy* (524)
 -   [East-West Schism](https://en.wikipedia.org/wiki/East%E2%80%93West_Schism) (1054 CE)
 -   [Thomas Aquinas](https://en.wikipedia.org/wiki/Thomas_Aquinas) (1225-1274)
 -   [Catholicism](https://en.wikipedia.org/wiki/Catholicism)

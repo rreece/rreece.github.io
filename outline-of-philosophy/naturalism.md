@@ -1044,6 +1044,7 @@ See also:
     -   Sartwell, C. (2022). [Truth is real](https://aeon.co/essays/truth-is-real-and-philosophers-must-return-their-attention-to-it). *Aeon*.
     -   Leah, R. (2018). ["How do you separate fact and opinion?" Rudy Giuliani mused. Then, Stephen Colbert offered an answer](https://www.salon.com/2018/05/08/how-do-you-separate-fact-and-opinion-rudy-giuliani-mused-then-stephen-colbert-offered-an-answer/). *Salon*. [^Leah2018b]
     -   Friedersdorf, C. (2018). [Why can't people hear what Jordan Peterson is saying?](https://www.theatlantic.com/politics/archive/2018/01/putting-monsterpaint-onjordan-peterson/550859/). *The Atlantic*.
+    -   Bruni, F. (2024). [*The Age of Grievance*](https://www.nytimes.com/2024/04/29/books/review/age-of-grievance-frank-bruni.html).
 -   Uri Berliner leaves NPR
     -   Berliner, U. (2024). [I’ve been at NPR for 25 years. Here’s how we lost America’s trust](https://www.thefp.com/p/npr-editor-how-npr-lost-americas-trust).
     -   Folkenflik, D. (2024). [NPR suspends veteran editor as it grapples with his public criticism](https://www.npr.org/2024/04/16/1244962042/npr-editor-uri-berliner-suspended-essay). *NPR*.
