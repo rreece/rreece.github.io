@@ -100,7 +100,7 @@ History:
 -   [Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton) (1642-1727)
 -   [Gottfried Wilhelm Leibniz](http://en.wikipedia.org/wiki/Gottfried_Leibniz) (1646-1716)
 -   [Edmond Halley](http://en.wikipedia.org/wiki/Edmond_Halley) (1656-1742)
--   [Emilie du Chatelet](https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet) (1706-1749)
+-   [&Eacute;milie du Ch&acirc;telet](https://en.wikipedia.org/wiki/%C3%89milie_du_Ch%C3%A2telet) (1706-1749)
     -   Conservation of energy in addition to conservation of momentum
 -   [Leonhard Euler](http://en.wikipedia.org/wiki/Euler) (1707-1783)
 -   [Joseph-Louis Lagrange](http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange) (1736-1813)

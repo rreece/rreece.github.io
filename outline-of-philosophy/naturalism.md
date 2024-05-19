@@ -748,6 +748,17 @@ See also:
     in the [Outline on the scientific method](scientific-method.html)
 
 
+### Life
+
+-   No *&eacute;lan vital*
+-   [*d'Alembert's Dream*](https://en.wikipedia.org/wiki/D%27Alembert%27s_Dream)
+-   Darwin
+
+See also:
+
+-   [superseded theories in science](scientific-realism.html#superseded-theories-in-science)
+
+
 ### Criticism
 
 -   TODO
@@ -1007,6 +1018,8 @@ See also:
     -   Rosenberg, A. [Why I am a naturalist](http://opinionator.blogs.nytimes.com/2011/09/17/why-i-am-a-naturalist/). *New York Times*. [^Rosenberg2011]
     -   Mallon, R. (2019). [Naturalistic approaches to social construction](https://plato.stanford.edu/entries/social-construction-naturalistic/). *SEP*.
 -   Criticisms of postmodernism:
+    -   Bloom, H. (1994). *The Western Canon*. [^Bloom1994]
+        -   "School of resentment"
     -   Boghossian, P. (2006). *Fear of Knowledge*. [^Boghossian2006]
     -   Hicks, S. (2010). [Why Kant is the turning point](http://www.stephenhicks.org/2010/01/19/why-kant-is-the-turning-point-ep/).
     -   Hicks, S. (2011). *Explaining Postmodernism*. [^Hicks2011]
@@ -1051,6 +1064,7 @@ See also:
     -   Montgomery, A. (2024). [The real story behind NPR’s current problems](https://slate.com/business/2024/04/npr-diversity-public-broadcasting-radio.html). *Slate*.
     -   Coyne, J. (2024). [Quote of the week: Andrew Sullivan on wokeness vs. liberalism](https://whyevolutionistrue.com/2024/04/20/quote-of-the-week-andrew-sullivan-on-wokeness/).
 
+[^Bloom1994]: @Bloom_1994_The_Western_Canon\.
 [^Boghossian2006]: @Boghossian_2006_Fear_of_Knowledge\.
 [^Cadwalladr2017]: @Cadwalladr_2017_Daniel_Dennett_I_begrudge_every_hour_I_have\.
 [^Gross1994]: @Gross_1994_Higher_Superstition_The_Academic_Left_and_Its\.

@@ -1014,7 +1014,9 @@ Aesthetics
 ### Music theory
 
 -   Pythagoras on music
--   Twelve-tone equal temperment: $2^{1/12} \approx 1.05946$
+-   Jean-Philippe Rameau (1683-1764)
+    -   *Treatise on Harmony* (1722) 
+    -   Twelve-tone equal temperment: $2^{1/12} \approx 1.05946$
 -   George Russell. (1953). [*Lydian Chromatic Concept of Tonal Organization*](https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization).
 -   [Hemiola](https://en.wikipedia.org/wiki/Hemiola): 3/2
 

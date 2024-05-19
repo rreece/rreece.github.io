@@ -260,6 +260,7 @@ Idealism
 ### History
 
 -   [Gorgias](https://en.wikipedia.org/wiki/Gorgias) (483-375 BCE)
+-   [Jakob B&ouml;hme](https://en.wikipedia.org/wiki/Jakob_B%C3%B6hme) (1575-1624)
 -   [George Berkeley](https://en.wikipedia.org/wiki/George_Berkeley) (1685-1753)
 -   [K.L. Reinhold](https://plato.stanford.edu/entries/karl-reinhold/) (1757-1823)
 -   [Johann Fichte](https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte) (1762-1814)
@@ -463,7 +464,7 @@ Poincar&eacute;:
 -   Aristotelian physics
 -   Ptolemaic solar system
 -   Phlogiston theory
--   &Eacute;lan vital
+-   *&Eacute;lan vital*
     -   Herring, E. (2023). [Thinking with &eacute;lan: A supremely stylish critic of scientific overreach](https://www.the-tls.co.uk/articles/creative-evolution-henri-bergson-book-review-emily-herring/).
 -   Newtonian gravity
 -   Galilean relativity
@@ -1776,6 +1777,8 @@ and
 
 ### Discussion
 
+-   Haack, S. (1996). [We Pragmaticists: Peirce and Rorty in conversation](https://minerva.usc.es/xmlui/bitstream/handle/10347/1078/pg_057-072_agora15-1.pdf). [^Haack1996]
+-   Haack, S. (1997). [Vulgar Rortyism](https://web.archive.org/web/20081211042858/http://www.newcriterion.com/articlepdf.cfm/rortyism-haack-3261). [^Haack1997]
 -   Dennett, D.C. (2006). Higher-order truths about chmess. [^Dennett2006a]
 
 [Max Hodak](https://maxhodak.com/nonfiction/2021/09/03/science.html):
@@ -1787,6 +1790,8 @@ and
 >   in---you're doing science.
 
 [^Dennett2006a]: @Dennett_2006_Higher_order_truths_about_chmess\.
+[^Haack1996]: @Haack_1996_We_Pragmaticists_Peirce_and_Rorty\.
+[^Haack1997]: @Haack_1997_Vulgar_Rortyism\.
 
 
 Postmodernism

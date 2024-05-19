@@ -266,6 +266,7 @@ Moore & Kelle:
 -   Breaks distinction between kinship and tribe. Anyone can join.
 -   [Paul the Apostle](https://en.wikipedia.org/wiki/Paul_the_Apostle) (c. 5-64 CE)
 -   [Gnosticism](https://en.wikipedia.org/wiki/Gnosticism)
+    -   [Demiurge](https://en.wikipedia.org/wiki/Demiurge)
     -   [Mandaeism](https://en.wikipedia.org/wiki/Mandaeism)
 -   [Eusebius](https://en.wikipedia.org/wiki/Eusebius) (c. 260/5 - 339/340 CE)
 -   [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo) (354-430 CE)
@@ -2322,6 +2323,7 @@ Existentialism
 -   [Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) (1844-1900)
     -   *The Gay Science* (1882)
         -   The will to power (*der Wille zur Macht*)
+        -   Eternal recurrence
         -   Leiter, B. (2019). The death of God and the death of morality. [^Leiter2019]
     -   *Thus Spoke Zarathustra* (1883)
         -   Modernism and alienation
@@ -2393,7 +2395,8 @@ Bertrand Russell:
 ### Artworks
 
 -   Miller, A. (1949). *Death of a Salesman*. (a play)
--   "Citizenship in a Republic" speech by Theodore Roosevelt in 1910
+
+From "Citizenship in a Republic" speech by Theodore Roosevelt in 1910:
 
 >   It is not the critic who counts; not the man who points out how the
 >   strong man stumbles, or where the doer of deeds could have done them
@@ -2407,9 +2410,20 @@ Bertrand Russell:
 >   while daring greatly, so that his place shall never be with those cold
 >   and timid souls who neither know victory nor defeat. [^Roosevelt1910]
 
+Cormac McCarthy:
+
+>   Only now is the child finally divested of all that he has been.
+>   His origins are become remote as is his destiny and not again in
+>   all the world's turning will there be terrains so wild and
+>   barbarous to try whether the stuff of creation may be shaped to
+>   man's will or whether his own heart is not another kind of
+>   clay. [^McCarthy1985p4]
+
 ![*The Scream*, Edvard Munch, 1893.](img/1893.Munch.The-Scream.png){#fig:1893.Munch.The-Scream}
 
-[^Roosevelt1910]: "[Citizenship in a Republic](https://www.theodorerooseveltcenter.org/Learn-About-TR/TR-Encyclopedia/Culture-and-Society/Man-in-the-Arena.aspx)" speech by Theodore Roosevelt in 1910.
+[^McCarthy1985p4]: McCarthy, C. (1985). *Blood Meridian*, ch. 1, p. 4.
+[^Roosevelt1910]: @Roosevelt_1910_Citizenship_in_a_republic\.
+
 
 
 Nihilism
@@ -2480,9 +2494,9 @@ Carl Sagan discussing Nietzsche:
 >   
 >   I dont know.
 >   
->   Believe that. [^McCarthy1985ch2]
+>   Believe that. [^McCarthy1985p20]
 
-[^McCarthy1985ch2]: McCarthy, C. (1985). *Blood Meridian*, ch. 2.
+[^McCarthy1985p20]: McCarthy, C. (1985). *Blood Meridian*, ch. 2, p. 20.
 
 
 My thoughts
