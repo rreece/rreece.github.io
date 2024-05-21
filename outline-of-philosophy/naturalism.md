@@ -835,7 +835,7 @@ Aquinas:
 
 [^Aquinas1947Part1Q1]: Aquinas, T. (1947). [*Summa Theologica*](https://www.ccel.org/a/aquinas/summa/FP.html), Part 1, Q. 1.
 [^Koons2000]: @Koons_2000_The_incompatibility_of_naturalism_and_scientific\.
-[^Paul2012]: @Paul_2012_Metaphysics_as_modeling_the_handmaidens_tale\.
+[^Paul2012]: @Paul_2012_Metaphysics_as_modeling_The_handmaidens_tale\.
 
 
 Scientism
