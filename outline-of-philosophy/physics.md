@@ -792,6 +792,7 @@ Michael Atiyah:
 -   Correlation AKA Green's functions
 -   Wick's theorem
     -   Kontsevich, M. & Segal, G. (2021). [Wick rotation and the positivity of energy in quantum field theory](https://arxiv.org/abs/2105.10161). [^Kontsevich2021]
+-   [K&auml;ll&eacute;n-Lehmann spectral representation](https://en.wikipedia.org/wiki/K%C3%A4ll%C3%A9n%E2%80%93Lehmann_spectral_representation)
 -   Gell-Mann and Low theorem
     -   Vaccuum bubble cancelation
 -   Dyson series

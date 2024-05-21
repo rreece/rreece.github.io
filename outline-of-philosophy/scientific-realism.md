@@ -1812,9 +1812,12 @@ Postmodernism
     -   "Man is the measure of all things" - Protagoras
     -   Gorgias
 -   Jean-Fran&ccedil;ois Lyotard (1924-1998)
+    -   *The Postmodern Condition: A Report on Knowledge* (1979)
+    -   "Simplifying to the extreme, I define postmodern as incredulity toward metanarratives."
 -   Gilles Deleuze (1925-1995)
 -   Michel Foucault (1926-1984)
 -   Jean Baudrillard (1929-2007)
+    -   *Simulacra and Simulation* (1981)
 -   Jacques Derrida (1930-2004)
 -   Richard Rorty (1931-2007)
 -   [Strong programme](https://en.wikipedia.org/wiki/Strong_programme)

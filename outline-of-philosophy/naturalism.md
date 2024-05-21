@@ -1149,6 +1149,9 @@ Dang & Bright:
     -   <https://twitter.com/kareem_carr/status/1295765400236498949>
     -   [equitablemath.org](https://equitablemath.org/)
 -   The Trans Divide
+    -   Janice Raymond (b. 1943)
+        -   *The Transsexual Empire* (1979)
+        -   *Doublethink: A Feminist Challenge to Transgenderism* (2021)
     -   Chappell, S.G. & Lawford-Smith, H. (2018). [Transgender: a dialogue](https://aeon.co/essays/transgender-identities-a-conversation-between-two-philosophers).
     -   Ivy, V. & Conrad, A. (2018). [Including trans women athletes in competitive sport](https://www.jstor.org/stable/10.2307/26927952).
     -   Lawford-Smith, H. & Marshall, R. (2019). [Thinking about climate change, global justice, and trans](https://www.3-16am.co.uk/articles/thinking-about-climate-change-global-justice-and-trans).
