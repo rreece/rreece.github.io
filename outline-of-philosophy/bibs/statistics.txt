@@ -177,7 +177,9 @@ Holzm{\"u}ller, D. (2020). On the universality of the double descent peak in rid
 Hornik, K., Stinchcombe, M., & White, H. (1989). Multilayer feedforward networks are universal approximators. *Neural Networks*, 2, 359--366. https://cognitivemedium.com/magic_paper/assets/Hornik.pdf
 Howard, A.G. et al. (2017). MobileNets: Efficient convolutional neural networks for mobile vision applications. https://arxiv.org/abs/1704.04861
 Howard, J.N., Mandt, S., Whiteson, D., & Yang, Y. (2021). Foundations of a fast, data-driven, machine-learned simulator. https://arxiv.org/abs/2101.08944
+Huang, L. et al. (2020). Normalization techniques in training DNNs: Methodology, analysis and application. https://arxiv.org/abs/2009.12836
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
+Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). The platonic representation hypothesis. https://arxiv.org/abs/2405.07987
 Hutchins, J. (2000). Yehoshua Bar-Hillel: A philosophers' contribution to machine translation.
 Hutter, M. (2007). Universal Algorithmic Intelligence: A mathematical top-down approach. In *Artificial General Intelligence* (pp. 227--290). Springer. http://www.hutter1.net/ai/aixigentle.htm
 Ingrosso, A. & Goldt, S. (2022). Data-driven emergence of convolutional structure in neural networks. https://arxiv.org/abs/2202.00565
@@ -384,6 +386,7 @@ Vershynin, R. (2018). *High-Dimensional Probability: An Introduction with Applic
 Wainer, H. (2007). The most dangerous equation. *American Scientist*, 95, 249--256. https://sites.stat.washington.edu/people/peter/498.Sp16/Equation.pdf
 Wakefield, J. (2013). *Bayesian and Frequentist Regression Methods*. Springer.
 Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482. https://www.ams.org/journals/tran/1943-054-03/S0002-9947-1943-0012401-3/S0002-9947-1943-0012401-3.pdf
+Wang, H. et al. (2023). BitNet: Scaling 1-bit transformers for large language models. https://arxiv.org/abs/2310.11453
 Wasserman, L. (2003). *All of Statistics: A Concise Course in Statistical Inference*. Springer.
 Wasserstein, R.L., Allen, L.S., & Lazar, N.A. (2019). Moving to a World Beyond "p<0.05". *American Statistician*, 73, 1--19.
 Wasserstein, R.L. & Lazar, N.A. (2016). The ASA's statement on p-values: Context, process, and purpose. *American Statistician*, 70, 129--133.
@@ -406,5 +409,5 @@ Zaheer, M. et al. (2020). Big Bird: Transformers for longer sequences. https://a
 Zech, G. (1995). Comparing statistical data to Monte Carlo simulation: Parameter fitting and unfolding. https://cds.cern.ch/record/284321 [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)]
 Zhang, W. (1998). Complete anytime beam search. *AAAI Proceedings*, 98, 425--430. https://cdn.aaai.org/AAAI/1998/AAAI98-060.pdf
 Zhou, R. & Hansen, E. A. (2005). Beam-stack search: Integrating backtracking with beam search. *ICAPS*, 15, 90--98. https://cdn.aaai.org/ICAPS/2005/ICAPS05-010.pdf
+Zhao, W.X. et al. (2023). A survey of large language models. https://arxiv.org/abs/2303.18223
 Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. *Advances in Neural Information Processing Systems*, 20, 1729--1736. https://proceedings.neurips.cc/paper/2007/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf
-Wang, H. et al. (2023). BitNet: Scaling 1-bit transformers for large language models. https://arxiv.org/abs/2310.11453

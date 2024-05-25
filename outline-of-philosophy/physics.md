@@ -1865,6 +1865,9 @@ a key to explaining electroweak symmetry breaking in the Standard Model of parti
 -   QCD: SU(3)
 -   SU(3) $\times$ SU(2) $\times$ U(1)
 -   Asymptotic freedom
+-   Anzivino, C., Vaibhav, V. & Zaccone, A. (2024). [Random close packing of binary hard spheres predicts the stability of atomic nuclei](https://arxiv.org/abs/2405.11268). [^Anzivino2024]
+
+[^Anzivino2024]: @Anzivino_2024_Random_close_packing_of_binary_hard_spheres\.
 
 
 ### Three generations of fermions

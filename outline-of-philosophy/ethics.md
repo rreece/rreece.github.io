@@ -1006,6 +1006,10 @@ Ecology
 -   [Climate justice](https://plato.stanford.edu/entries/justice-climate/)
 -   [Hyperobjects](https://en.wikipedia.org/wiki/Timothy_Morton#Hyperobjects)
     -   Timothy Morton (b. 1968)
+-   Convivialism
+    -   Convivialist International. (2020). [The second convivialist manifesto: Towards a post-neoliberal world](https://online.ucpress.edu/cs/article/1/1/12721/112920/THE-SECOND-CONVIVIALIST-MANIFESTO-Towards-a-Post). [^Convivialist2020]
+
+[^Convivialist2020]: @Convivialist_2020_The_second_convivialist_manifesto_Towards_a_post\.
 
 
 Aesthetics

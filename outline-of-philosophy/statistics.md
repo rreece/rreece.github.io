@@ -1772,10 +1772,12 @@ Blogs:
 
 -   BatchNorm
 -   LayerNorm, GroupNorm
--   OnlineNorm: Chiley, V. et al. (2019). [Online normalization for training neural networks](https://arxiv.org/abs/1905.05894). [^Chiley2019]
+-   Online Normalization: Chiley, V. et al. (2019). [Online normalization for training neural networks](https://arxiv.org/abs/1905.05894). [^Chiley2019]
 -   Kiani, B., Balestriero, R., LeCun, Y., & Lloyd, S. (2022). [projUNN: efficient method for training deep networks with unitary matrices](https://arxiv.org/abs/2203.05483). [^Kiani2022]
+-   Huang, L. et al. (2020). [Normalization techniques in training DNNs: Methodology, analysis and application](https://arxiv.org/abs/2009.12836). [^Huang2020]
 
 [^Chiley2019]: @Chiley_2019_Online_normalization_for_training_neural_networks\.
+[^Huang2020]: @Huang_2020_Normalization_techniques_in_training_DNNs\.
 [^Kiani2022]: @Kiani_2022_projUNN_efficient_method_for_training_deep\.
 
 
@@ -1964,12 +1966,14 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
     -   Wolfram, S. (2023). [What is ChatGPT doing---and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) [^Wolfram2023]
     -   GPT-4 [^OpenAI2023]
     -   Mohamadi, S., Mujtaba, G., Le, N., Doretto, G., & Adjeroh, D.A. (2023). [ChatGPT in the age of generative AI and large language models: A concise survey](https://arxiv.org/abs/2307.04251v1). [^Mohamadi2023]
+    -   Zhao, W.X. et al. (2023). [A survey of large language models](https://arxiv.org/abs/2303.18223). [^Zhao2023]
     -   3Blue1Brown. (2024). Video: [But what is a GPT? Visual intro to Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M).
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
 -   Efficient transformers
     -   Dao, T. et al. (2022). [FlashAttention: Fast and memory-efficient exact attention with IO-awareness](https://arxiv.org/abs/2205.14135). [^Dao2022]
+    -   Raffel, C. (2023). [A new alchemy: Language model development as a subfield?](https://colinraffel.com/blog/language-model-development-as-a-new-subfield.html).
 -   What comes after Transformers?
     -   Merrill, W. & Sabharwal, A. (2022). [The parallelism tradeoff: Limitations of log-precision transformers](https://arxiv.org/abs/2207.00729). [^Merrill2022]
     -   Gu, A., Goel, K., & R&eacute;, C. (2021). [Efficiently modeling long sequences with structured state spaces](https://arxiv.org/abs/2111.00396). [^Gu2021]
@@ -2018,6 +2022,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 [^Wolfram2023]: @Wolfram_2023_What_is_ChatGPT_doing_and_why_does_it_work\.
 [^Yang2019]: @Yang_2019_XLNet_Generalized_autoregressive_pretraining\.
 [^Zaheer2020]: @Zaheer_2020_Big_Bird_Transformers_for_longer_sequences\.
+[^Zhao2023]: @Zhao_2023_A_survey_of_large_language_models\.
 
 
 #### Scaling laws in NLP
@@ -2589,6 +2594,7 @@ Roberts:
 -   Sohl-Dickstein, J. (2020). [Two equalities expressing the determinant of a matrix in terms of expectations over matrix-vector products](https://arxiv.org/abs/2005.06553). [^SohlDickstein2020]
 -   Aifer, M. et al. (2023). [Thermodynamic linear algebra](https://arxiv.org/abs/2308.05660). [^Aifer2023]
 -   Geshkovski, B., Letrouit, C., Polyanskiy, Y., & Rigollet, P. (2023). [A mathematical perspective on Transformers](https://arxiv.org/abs/2312.10794) [^Geshkovski2023]
+-   Sompolinsky, H. (2023). Lecture video: [Statistical mechanics of deep learning](https://www.youtube.com/watch?v=y5sT7TlIQGk).
 
 [^Aifer2023]: @Aifer_2023_Thermodynamic_linear_algebra\.
 [^Bahri2020]: @Bahri_2020_Statistical_mechanics_of_deep_learning\.
@@ -2789,6 +2795,7 @@ See also:
 -   [Tweet by Joscha Bach, Mar 25, 2023](https://twitter.com/Plinz/status/1639629419881873410)
 -   [Debate: Do language models need sensory grounding for meaning and understanding?](https://www.youtube.com/watch?v=x10964w00zk) (NYU).
 -   Piantadosi, S. (2023). Talk: [Meaning in the age of large language models](https://www.youtube.com/watch?v=lA19zXgObKA).
+-   Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). [The platonic representation hypothesis](https://arxiv.org/abs/2405.07987). [^Huh2024]
 
 Wittgenstein in *PI*:
 
@@ -2816,6 +2823,7 @@ See also:
 -   [Natural language processing](statistics.html#natural-language-processing)
 -   [Ordinary language philosophy](scientific-realism.html#ordinary-language-philosophy)
 
+[^Huh2024]: @Huh_2024_The_platonic_representation_hypothesis\.
 [^Lovering2022]: @Lovering_2022_Unit_testing_for_concepts_in_neural_networks\.
 [^Nissim2019]: @Nissim_2019_Fair_is_better_than_sensational_Man_is_to_doctor\.
 [^Patel2022]: @Patel_2022_Mapping_language_models_to_grounded_conceptual\.

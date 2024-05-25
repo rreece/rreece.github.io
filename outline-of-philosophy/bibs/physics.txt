@@ -8,6 +8,7 @@ Allori, V., D{\"u}rr, D., Goldstein, S., & Zangh{\`i}, N. (2002). Seven steps to
 Allori, V. (2022). What is it like to be a relativistic GRW theory? Or: Quantum mechanics and relativity, still in conflict after all these years. *Foundations of Physics*, 52, 79. https://doi.org/10.1007/s10701-022-00595-5
 Ananthaswamy, A. (2021). This simple experiment could challenge standard quantum theory. *Scientific American*. https://www.scientificamerican.com/article/this-simple-experiment-could-challenge-standard-quantum-theory/
 Anderson, P.W. (1972). More is different. *Science*, 177, 393--396. http://science.sciencemag.org/content/177/4047/393
+Anzivino, C., Vaibhav, V. & Zaccone, A. (2024). Random close packing of binary hard spheres predicts the stability of atomic nuclei. https://arxiv.org/abs/2405.11268
 Arbey, A. & Mahmoudi, F. (2021). Dark matter and the early Universe: a review. https://arxiv.org/abs/2104.11488
 Arkani-Hamed, N., Cachazo, F., & Kaplan, J. (2008). What is the simplest quantum field theory? https://arxiv.org/abs/0808.1446
 Arntzenius, F. (2012). *Space, Time, and Stuff*. Oxford University Press.
