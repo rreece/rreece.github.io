@@ -159,6 +159,7 @@ Fuchs, C.A., Mermin, N.D., & Schack, R. (2014). An introduction to QBism with an
 Fuchs, C.A. & Schack, R. (2013). Quantum-Bayesian coherence: The no-nonsense version. *Reviews of Modern Physics*, 85, 1693--1715. https://arxiv.org/abs/1301.3274
 Fuchs, C.A. & Stacey, B.C. (2016). QBism: Quantum theory as a hero's handbook. https://arxiv.org/abs/1612.07308
 Geiko, R. & Moore, G.W. (2020). Dyson's classification and real division superalgebras. https://arxiv.org/abs/2010.01675
+Gell-Mann, M. (1988). Simplicity and complexity in the description of nature. *Engineering and Science*, 51, 2--9. https://calteches.library.caltech.edu/53/2/Mann.pdf
 Gell-Mann, M. & Hartle, J.B. (1989). Quantum mechanics in the light of quantum cosmology. In *Proceedings of the Santa Fe Institute Workshop on Complexity, Entropy, and the Physics of Information*. Addison-Wesley. https://arxiv.org/abs/1803.04605
 Georgi, H. (1999). *Lie Algebras in Particle Physics* (2nd ed.). Westview Press. [(Originally published in 1982)]
 Georgi, H. & Glashow, S.L. (1974). Unity of all elementary-particle forces. *Physical Review Letters*, 32, 438--441. http://pcbat1.mi.infn.it/~battist/astrop/su5.pdf

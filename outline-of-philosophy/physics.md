@@ -2227,6 +2227,7 @@ Complexity and emergence
 -   [Universality](https://en.wikipedia.org/wiki/Universality_(dynamical_systems))
 -   Thermodynamics, statistical mechanics, renormalization.
 -   Anderson, P.W. (1972). More is different. [^Anderson1972]
+-   Gell-Mann, M. (1988). [Simplicity and complexity in the description of nature](https://calteches.library.caltech.edu/53/2/Mann.pdf). [^GellMann1988]
 -   Bedau, M.A. (1997). Weak emergence. [^Bedau1997]
 -   Bunge, M. (2001). *Philosophy in Crisis: The Need for Reconstruction*.
     -   Emergence [^Bunge2001p72]
@@ -2261,6 +2262,7 @@ See also:
 [^Anderson1972p393]: @Anderson_1972_More_is_different\, p. 393.
 [^Bedau1997]: @Bedau_1997_Weak_emergence\.
 [^Bunge2001p72]: @Bunge_2001_Philosophy_in_Crisis_The_Need_for_Reconstruction\, p. 72.
+[^GellMann1988]: @Gell_Mann_1988_Simplicity_and_complexity_in_the_description\.
 [^Lisi2017]: @Lisi_2017_Emergence\.
 
 
