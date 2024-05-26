@@ -1574,6 +1574,29 @@ Deep learning
 [^Sutton2019]: @Sutton_2019_The_bitter_lesson\.
 
 
+### Gradient descent
+
+$$ \hat{f} =  \underset{f \in \mathcal{F}}{\mathrm{argmin}} \underset{x \sim \mathcal{X}}{\mathbb{E}} L(f, x) $$
+
+The workhorse algorithm for optimizing (training) model parameters is *gradient descent*:
+
+$$ \vec{w}[t+1] = \vec{w}[t] - \eta \frac{\partial L}{\partial \vec{w}}[t] $$
+
+In *Stochastic Gradient Descent* (SGD), you chunk the training data into *minibatches* (AKA batches),
+$\vec{x}_{bt}$,
+and take a gradient descent step with each minibatch:
+
+$$ \vec{w}[t+1] = \vec{w}[t] - \frac{\eta}{m} \sum_{i=1}^m \frac{\partial L}{\partial \vec{w}}[\vec{x}_{bt}] $$
+
+where
+
+-   $t \in \mathbf{N}$ is the *learning step number*
+-   $\eta$ is the *learning rate*
+-   $m$ is the number of samples in a minibatch, called the *batch size*
+-   $L$ is the *loss function*
+-   $\frac{\partial L}{\partial \vec{w}}$ is the *gradient*
+
+
 ### Deep double descent
 
 -   Bias and variance trade-off. See [Bias and variance](#bias-and-variance).

@@ -163,6 +163,7 @@
 <li><a href="statistics.html#deep-learning">Deep learning</a>
 <ol type="1">
 <li><a href="statistics.html#introduction-7">Introduction</a></li>
+<li><a href="statistics.html#gradient-descent">Gradient descent</a></li>
 <li><a href="statistics.html#deep-double-descent">Deep double descent</a></li>
 <li><a href="statistics.html#regularization">Regularization</a></li>
 <li><a href="statistics.html#batch-size-vs-learning-rate">Batch size vs learning rate</a></li>
@@ -1373,6 +1374,20 @@ D_\mathrm{KL}(p, q)
 <figure>
 <img src="img/bengio-raw-to-higher-rep.png" id="fig:bengio-raw-to-higher-rep" alt="Figure 11: Raw input image is transformed into gradually higher levels of representation." /><figcaption aria-hidden="true">Figure 11: Raw input image is transformed into gradually higher levels of representation.<a href="#fn182" class="footnote-ref" id="fnref182" role="doc-noteref"><sup>182</sup></a></figcaption>
 </figure>
+<h3 id="gradient-descent">Gradient descent</h3>
+<p><span class="math display">\[ \hat{f} =  \underset{f \in \mathcal{F}}{\mathrm{argmin}} \underset{x \sim \mathcal{X}}{\mathbb{E}} L(f, x) \]</span></p>
+<p>The workhorse algorithm for optimizing (training) model parameters is <em>gradient descent</em>:</p>
+<p><span class="math display">\[ \vec{w}[t+1] = \vec{w}[t] - \eta \frac{\partial L}{\partial \vec{w}}[t] \]</span></p>
+<p>In <em>Stochastic Gradient Descent</em> (SGD), you chunk the training data into <em>minibatches</em> (AKA batches), <span class="math inline">\(\vec{x}_{bt}\)</span>, and take a gradient descent step with each minibatch:</p>
+<p><span class="math display">\[ \vec{w}[t+1] = \vec{w}[t] - \frac{\eta}{m} \sum_{i=1}^m \frac{\partial L}{\partial \vec{w}}[\vec{x}_{bt}] \]</span></p>
+<p>where</p>
+<ul>
+<li><span class="math inline">\(t \in \mathbf{N}\)</span> is the <em>learning step number</em></li>
+<li><span class="math inline">\(\eta\)</span> is the <em>learning rate</em></li>
+<li><span class="math inline">\(m\)</span> is the number of samples in a minibatch, called the <em>batch size</em></li>
+<li><span class="math inline">\(L\)</span> is the <em>loss function</em></li>
+<li><span class="math inline">\(\frac{\partial L}{\partial \vec{w}}\)</span> is the <em>gradient</em></li>
+</ul>
 <h3 id="deep-double-descent">Deep double descent</h3>
 <ul>
 <li>Bias and variance trade-off. See <a href="#bias-and-variance">Bias and variance</a>.</li>
