@@ -78,7 +78,7 @@ ATLAS Tau Working Group that developed the reconstruction and
 identification algorithms for taus in ATLAS during
 Run 1 and 2 of the LHC.
 I lead the developement and optimized the first cut-based tau identification
-used with a ATLAS data, and I helped develop the more advanced tau identification
+used with ATLAS data, and I helped develop the more advanced tau identification
 using Boosted Decision Trees (BDTs).
 
 Since 2016, following the deep learning revolution,
