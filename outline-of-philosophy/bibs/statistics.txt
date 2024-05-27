@@ -110,6 +110,7 @@ Dao, T. et al. (2022). FlashAttention: Fast and memory-efficient exact attention
 Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning. https://arxiv.org/abs/2109.02355
 Dawid, A.P. (2014). Discussion of "On the Birnbaum Argument for the Strong Likelihood Principle". *Statistical Science*, 29, 240--241. https://projecteuclid.org/journals/statistical-science/volume-29/issue-2/Discussion-of-On-the-Birnbaum-Argument-for-the-Strong-Likelihood/10.1214/14-STS470.full
 de Carvalho, M., Page, G.L., & Barney, B.J. (2019). On the geometry of Bayesian inference. *Bayesian Analysis*, 14, 1013--1036. https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-4/On-the-Geometry-of-Bayesian-Inference/10.1214/18-BA1112.full
+Dettmers, T., Pagnoni, A., Holtzman, A., & Zettlemoyer, L. (2023). QLoRA: Efficient finetuning of quantized LLMs. https://arxiv.org/abs/2305.14314
 Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. https://arxiv.org/abs/1810.04805
 Dewey, J. (1938). *Logic: The Theory of Inquiry*. New York: Henry Holt and Co.
 Dhariwal, P. & Nichol, A. (2021). Diffusion models beat GANs on image synthesis. https://arxiv.org/abs/2105.05233
@@ -177,9 +178,11 @@ Holzm{\"u}ller, D. (2020). On the universality of the double descent peak in rid
 Hornik, K., Stinchcombe, M., & White, H. (1989). Multilayer feedforward networks are universal approximators. *Neural Networks*, 2, 359--366. https://cognitivemedium.com/magic_paper/assets/Hornik.pdf
 Howard, A.G. et al. (2017). MobileNets: Efficient convolutional neural networks for mobile vision applications. https://arxiv.org/abs/1704.04861
 Howard, J.N., Mandt, S., Whiteson, D., & Yang, Y. (2021). Foundations of a fast, data-driven, machine-learned simulator. https://arxiv.org/abs/2101.08944
+Hu, E.J. et al (2021). LoRA: Low-rank adaptation of large language models. https://arxiv.org/abs/2106.09685
 Huang, L. et al. (2020). Normalization techniques in training DNNs: Methodology, analysis and application. https://arxiv.org/abs/2009.12836
 Huber, F. (2007). Confirmation and induction. *Internet Encyclopedia of Philosophy*. http://www.iep.utm.edu/conf-ind/
 Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). The platonic representation hypothesis. https://arxiv.org/abs/2405.07987
+Huh, M. et al. (2024). Training neural networks from scratch with parallel low-rank adapters. https://arxiv.org/abs/2402.16828
 Hutchins, J. (2000). Yehoshua Bar-Hillel: A philosophers' contribution to machine translation.
 Hutter, M. (2007). Universal Algorithmic Intelligence: A mathematical top-down approach. In *Artificial General Intelligence* (pp. 227--290). Springer. http://www.hutter1.net/ai/aixigentle.htm
 Ingrosso, A. & Goldt, S. (2022). Data-driven emergence of convolutional structure in neural networks. https://arxiv.org/abs/2202.00565
@@ -409,5 +412,6 @@ Zaheer, M. et al. (2020). Big Bird: Transformers for longer sequences. https://a
 Zech, G. (1995). Comparing statistical data to Monte Carlo simulation: Parameter fitting and unfolding. https://cds.cern.ch/record/284321 [(DESY-95-113). Deutsches Elektronen-Synchrotron (DESY)]
 Zhang, W. (1998). Complete anytime beam search. *AAAI Proceedings*, 98, 425--430. https://cdn.aaai.org/AAAI/1998/AAAI98-060.pdf
 Zhou, R. & Hansen, E. A. (2005). Beam-stack search: Integrating backtracking with beam search. *ICAPS*, 15, 90--98. https://cdn.aaai.org/ICAPS/2005/ICAPS05-010.pdf
+Zhao, J. et al (2024). GaLore: Memory-efficient LLM training by gradient low-rank projection. https://arxiv.org/abs/2403.03507
 Zhao, W.X. et al. (2023). A survey of large language models. https://arxiv.org/abs/2303.18223
 Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. *Advances in Neural Information Processing Systems*, 20, 1729--1736. https://proceedings.neurips.cc/paper/2007/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf

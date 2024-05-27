@@ -161,6 +161,7 @@ Fuchs, C.A. & Stacey, B.C. (2016). QBism: Quantum theory as a hero's handbook. h
 Geiko, R. & Moore, G.W. (2020). Dyson's classification and real division superalgebras. https://arxiv.org/abs/2010.01675
 Gell-Mann, M. (1988). Simplicity and complexity in the description of nature. *Engineering and Science*, 51, 2--9. https://calteches.library.caltech.edu/53/2/Mann.pdf
 Gell-Mann, M. & Hartle, J.B. (1989). Quantum mechanics in the light of quantum cosmology. In *Proceedings of the Santa Fe Institute Workshop on Complexity, Entropy, and the Physics of Information*. Addison-Wesley. https://arxiv.org/abs/1803.04605
+Georgi, H., Quinn, H.R., & Weinberg, S. (1974). Hierarchy of interactions in unified gauge theories. *Physical Review Letters*, 33(7), 451.
 Georgi, H. (1999). *Lie Algebras in Particle Physics* (2nd ed.). Westview Press. [(Originally published in 1982)]
 Georgi, H. & Glashow, S.L. (1974). Unity of all elementary-particle forces. *Physical Review Letters*, 32, 438--441. http://pcbat1.mi.infn.it/~battist/astrop/su5.pdf
 Ghirardi, G.C., Rimini, A., and Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34, 470--491.

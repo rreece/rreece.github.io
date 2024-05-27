@@ -1806,10 +1806,15 @@ Blogs:
 
 ### Finetuning
 
--   Hu, E.J. et al (2021). [LoRA: Low-rank adaptation of large language models](https://arxiv.org/abs/2106.09685)
--   Dettmers, T., Pagnoni, A., Holtzman, A., & Zettlemoyer, L. (2023). [QLoRA: Efficient finetuning of quantized LLMs](https://arxiv.org/abs/2305.14314).
--   Zhao, J. et al (2024). [GaLore: Memory-efficient LLM training by gradient low-rank projection](https://arxiv.org/abs/2403.03507).
--   Huh, M. (2024). [Training neural networks from scratch with parallel low-rank adapters](https://arxiv.org/abs/2402.16828).
+-   Hu, E.J. et al (2021). [LoRA: Low-rank adaptation of large language models](https://arxiv.org/abs/2106.09685). [^Hu2021]
+-   Dettmers, T., Pagnoni, A., Holtzman, A., & Zettlemoyer, L. (2023). [QLoRA: Efficient finetuning of quantized LLMs](https://arxiv.org/abs/2305.14314). [^Dettmers2023]
+-   Zhao, J. et al (2024). [GaLore: Memory-efficient LLM training by gradient low-rank projection](https://arxiv.org/abs/2403.03507). [^Zhao2024]
+-   Huh, M. et al. (2024). [Training neural networks from scratch with parallel low-rank adapters](https://arxiv.org/abs/2402.16828). [^Huh2024]
+
+[^Dettmers2023]: @Dettmers_2023_QLoRA_Efficient_finetuning_of_quantized_LLMs\.
+[^Hu2021]: @Hu_2021_LoRA_Low_rank_adaptation_of_large_language_models\.
+[^Huh2024]: @Huh_2024_Training_neural_networks_from_scratch\.
+[^Zhao2024]: @Zhao_2024_GaLore_Memory_efficient_LLM_training_by_gradient\.
 
 
 ### Computer vision

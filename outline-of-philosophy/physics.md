@@ -1982,6 +1982,7 @@ See also:
 -   Grand Unified Theories (GUTs)
     -   Pati & Salam [^Pati1974]
     -   Georgi & Glashow [^Glashow1974]
+    -   Georgi, H., Quinn, H.R., & Weinberg, S. (1974). Hierarchy of interactions in unified gauge theories. [^Georgi1974b]
     -   Slansky [^Slansky1981]
     -   Georgi, H. (1982). *Lie Algebras in Particle Physics*. [^Georgi1982]
     -   Baez, J.C. & Huerta, J. (2009). [The algebra of grand unified theories](https://arxiv.org/abs/0904.1556). [^Baez2009d]
@@ -2011,6 +2012,7 @@ See also:
 [^Baez2009d]: @Baez_2009_The_algebra_of_grand_unified_theories\.
 [^Chester2023]: @Chester_2023_Beyond_the_Standard_Model_with_six_dimensional\.
 [^Glashow1974]: @Georgi_1974_Unity_of_all_elementary_particle_forces\.
+[^Georgi1974b]: @Georgi_1974_Hierarchy_of_interactions_in_unified_gauge\.
 [^Georgi1982]: @Georgi_1999_Lie_Algebras_in_Particle_Physics\.
 [^Lisi2007]: @Lisi_2007_An_exceptionally_simple_theory_of_everything\.
 [^Martin2016p66]: @Martin_2016_A_supersymmetry_primer\, p. 66.
@@ -2086,6 +2088,7 @@ $$ R_{\mu\nu} - \frac{1}{2} R \: g_{\mu\nu} + \Lambda \: g_{\mu\nu} = \frac{8 \p
 -   History of Newton and calculus.
 -   Newtonian gravity is the right law to conserve gravitational force flux in three dimensions.
 -   Derive Newtonian gravity as the low-velocity, low-curavature limit of GR.
+-   Toth, V.T. (2016). [The Newtonian limit in general relativity](https://www.vttoth.com/CMS/physics-notes/312-the-newtonian-limit-in-general-relativity).
 
 
 ### Big bang model
