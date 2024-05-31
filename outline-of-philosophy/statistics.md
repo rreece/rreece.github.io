@@ -2004,6 +2004,16 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
     -   Mohamadi, S., Mujtaba, G., Le, N., Doretto, G., & Adjeroh, D.A. (2023). [ChatGPT in the age of generative AI and large language models: A concise survey](https://arxiv.org/abs/2307.04251v1). [^Mohamadi2023]
     -   Zhao, W.X. et al. (2023). [A survey of large language models](https://arxiv.org/abs/2303.18223). [^Zhao2023]
     -   3Blue1Brown. (2024). Video: [But what is a GPT? Visual intro to Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M).
+    -   Golovneva, O., Wang, T., Weston, J., & Sukhbaatar, S. (2024). [Contextual position encoding: Learning to count what's important](https://arxiv.org/abs/2405.18719). [^Golovneva2024]
+
+[^Bertsch2023]: @Bertsch_2023_Unlimiformer_Long_range_transformers\.
+[^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
+[^Chowdhery2022]: @Chowdhery_2022_PaLM_Scaling_language_modeling_with_pathways\.
+[^Golovneva2024]: @Golovneva_2024_Contextual_position_encoding_Learning_to_count\.
+[^Mohamadi2023]: @Mohamadi_2023_ChatGPT_in_the_age_of_generative_AI_and_large\.
+[^Ouyang2022]: @Ouyang_2022_Training_language_models_to_follow_instructions\.
+[^Wolfram2023]: @Wolfram_2023_What_is_ChatGPT_doing_and_why_does_it_work\.
+[^Zhao2023]: @Zhao_2023_A_survey_of_large_language_models\.
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
@@ -2025,12 +2035,9 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
     -   Ma, X. et al. (2024). [Megalodon: Efficient LLM pretraining and inference with unlimited context length](https://arxiv.org/abs/2404.08801). [^MaX2024]
     -   Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). [What's the magic word? A control theory of LLM prompting](https://arxiv.org/abs/2310.04444). [^Bhargava2023]
 
-[^Bertsch2023]: @Bertsch_2023_Unlimiformer_Long_range_transformers\.
 [^Bhargava2023]: @Bhargava_2023_Whats_the_magic_word\.
-[^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
 [^Bulatov2022]: @Bulatov_2022_Recurrent_memory_transformer\.
 [^Bulatov2023]: @Bulatov_2023_Scaling_transformer_to_1M_tokens_and_beyond\.
-[^Chowdhery2022]: @Chowdhery_2022_PaLM_Scaling_language_modeling_with_pathways\.
 [^Dao2022]: @Dao_2022_FlashAttention_Fast_and_memory_efficient_exact\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Edelman2021]: @Edelman_2021_Inductive_biases_and_variable_creation_in_self\.
@@ -2043,9 +2050,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 [^MaX2024]: @Ma_2024_Megalodon_Efficient_LLM_pretraining_and_inference\.
 [^Merrill2022]: @Merrill_2022_The_parallelism_tradeoff_Limitations_of_log\.
 [^Mialon2023]: @Mialon_2023_Augmented_Language_Models_a_Survey\.
-[^Mohamadi2023]: @Mohamadi_2023_ChatGPT_in_the_age_of_generative_AI_and_large\.
 [^OpenAI2023]: @OpenAI_2023_GPT_4_Technical_Report\.
-[^Ouyang2022]: @Ouyang_2022_Training_language_models_to_follow_instructions\.
 [^Peng2023]: @Peng_2023_RWKV_Reinventing_RNNs_for_the_Transformer_Era\.
 [^Phuong2022]: @Phuong_2022_Formal_algorithms_for_transformers\.
 [^Radford2018]: @Radford_2018_Improving_language_understanding_by_generative\.
@@ -2055,10 +2060,8 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 [^Tay2022]: @Tay_2022_Efficient_transformers_A_survey\.
 [^Vaswani2017]: @Vaswani_2017_Attention_is_all_you_need\.
 [^Wang2023]: @Wang_2023_BitNet_Scaling_1_bit_transformers_for_large\.
-[^Wolfram2023]: @Wolfram_2023_What_is_ChatGPT_doing_and_why_does_it_work\.
 [^Yang2019]: @Yang_2019_XLNet_Generalized_autoregressive_pretraining\.
 [^Zaheer2020]: @Zaheer_2020_Big_Bird_Transformers_for_longer_sequences\.
-[^Zhao2023]: @Zhao_2023_A_survey_of_large_language_models\.
 
 
 #### Scaling laws in NLP
