@@ -471,6 +471,8 @@ See also:
 
 -   Putnam, H. (1997). A half century of philosophy, viewed from within. [^Putnam1997]
 -   Hudson, H. (2016). Non-naturalistic metaphysics. [^Hudson2016]
+-   Robert Brandom in defense of Hegelian studies
+    -   [Review of *A Spirit of Trust*](https://ndpr.nd.edu/reviews/a-spirit-of-trust-a-reading-of-hegels-phenomenology/) (2019)
 
 Examples of non-naturalized methaphysics:
 

@@ -1745,12 +1745,14 @@ Pragmatism
     -   *Philosophy and the Mirror of Nature* (1979)
     -   Rejection of the representationalist account of knowledge; mirror of nature.
     -   Ironism
+    -   Brandom, R. (Ed.). (2000). *Rorty and His Critics*. [^Rorty2000]
 -   Hilary Putnam (1926-2016)
     -   Rorty and Putnam
 -   Ruth Millikan (b. 1933)
 -   Paul Churchland (b. 1942)
 -   Daniel C. Dennett (b. 1942)
 -   Robert Brandom (b. 1950)
+    -   Brandom, R. (1994). *Making it Explicit: Reasoning, representing, and discursive commitment*. [^Brandom1994]
 
 Peirce:
 
@@ -1768,10 +1770,12 @@ and
 >   whether the belief be false or true. [^Peirce1923p16]
 
 [^Auspitz1994]: @Auspitz_1994_The_wasp_leaves_the_bottle_Charles_Sanders\.
+[^Brandom1994]: @Brandom_1994_Making_it_Explicit_Reasoning_representing\.
 [^Brent1993]: @Brent_1993_Charles_Sanders_Peirce_A_Life\.
 [^Quine1936]: @Quine_1936_Truth_by_convention\.
 [^Peirce1923p16]: @Peirce_1923_Chance_Love_and_Logic\.
 [^Rorty1967]: @Rorty_1967_The_Linguist_Turn_Recent_Essays_in_Philosophical\.
+[^Rorty2000]: @Brandom_2000_Rorty_and_His_Critics\.
 [^Sellars1963]: @Sellars_1963_Empiricism_and_philosophy_of_mind\.
 
 

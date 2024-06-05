@@ -20,6 +20,7 @@ Balasubramanian, V. (1996). A geometric formulation of Occam's razor for inferen
 Balasubramanian, V. (1996). Statistical inference, Occam's razor and statistical mechanics on the space of probability distributions. https://arxiv.org/abs/cond-mat/9601030
 Balestriero, R., Pesenti, J., & LeCun, Y. (2021). Learning in high dimension always amounts to extrapolation. https://arxiv.org/abs/2110.09485
 Batson, J., Haaf, C.G., Kahn, Y., & Roberts, D.A. (2021). Topological obstructions to autoencoding. https://arxiv.org/abs/2102.08380
+Battiloro, C. et al. (2024). E(n) equivariant topological neural networks. https://arxiv.org/abs/2405.15429
 Baydin, A.G. et al. (2019). Etalumis: Bringing probabilistic programming to scientific simulators at scale. https://arxiv.org/abs/1907.03382
 Behnke, O., Kr{\"o}ninger, K., Schott, G., & Sch{\"o}rner-Sadenius, T. (2013). *Data Analysis in High Energy Physics: A Practical Guide to Statistical Methods*. Wiley.
 Belinkov, Y. (2022). Probing classifiers: Promises, shortcomings, and advances. *Computational Linguistics*, 48, 207--219.
@@ -107,6 +108,7 @@ Cranmer, K., Shibata, A., Verkerke, W., Moneta, L., & Lewis, G. (2012). HistFact
 Cranmer, M. et al. (2020). Discovering symbolic models from deep learning with inductive biases. https://arxiv.org/abs/2006.11287
 D'Agnolo, R.T. & Wulzer, A. (2019). Learning New Physics from a Machine. *Physical Review D*, 99, 015014. https://arxiv.org/abs/1806.02350
 Dao, T. et al. (2022). FlashAttention: Fast and memory-efficient exact attention with IO-awareness. https://arxiv.org/abs/2205.14135
+Dao, T. & Gu, A. (2024). Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality. https://arxiv.org/abs/2405.21060
 Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning. https://arxiv.org/abs/2109.02355
 Dawid, A.P. (2014). Discussion of "On the Birnbaum Argument for the Strong Likelihood Principle". *Statistical Science*, 29, 240--241. https://projecteuclid.org/journals/statistical-science/volume-29/issue-2/Discussion-of-On-the-Birnbaum-Argument-for-the-Strong-Likelihood/10.1214/14-STS470.full
 de Carvalho, M., Page, G.L., & Barney, B.J. (2019). On the geometry of Bayesian inference. *Bayesian Analysis*, 14, 1013--1036. https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-4/On-the-Geometry-of-Bayesian-Inference/10.1214/18-BA1112.full

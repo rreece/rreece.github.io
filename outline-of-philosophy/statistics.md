@@ -2034,11 +2034,13 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
     -   Ma, S. et al. (2024). [The era of 1-bit LLMs: All large language models are in 1.58 bits](https://arxiv.org/abs/2402.17764). [^MaS2024]
     -   Ma, X. et al. (2024). [Megalodon: Efficient LLM pretraining and inference with unlimited context length](https://arxiv.org/abs/2404.08801). [^MaX2024]
     -   Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). [What's the magic word? A control theory of LLM prompting](https://arxiv.org/abs/2310.04444). [^Bhargava2023]
+    -   Dao, T. & Gu, A. (2024). [Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality](https://arxiv.org/abs/2405.21060). [^Dao2024]
 
 [^Bhargava2023]: @Bhargava_2023_Whats_the_magic_word\.
 [^Bulatov2022]: @Bulatov_2022_Recurrent_memory_transformer\.
 [^Bulatov2023]: @Bulatov_2023_Scaling_transformer_to_1M_tokens_and_beyond\.
 [^Dao2022]: @Dao_2022_FlashAttention_Fast_and_memory_efficient_exact\.
+[^Dao2024]: @Dao_2024_Transformers_are_SSMs_Generalized_models\.
 [^Devlin2018]: @Devlin_2018_BERT_Pre_training_of_deep_bidirectional\.
 [^Edelman2021]: @Edelman_2021_Inductive_biases_and_variable_creation_in_self\.
 [^Gu2021]: @Gu_2021_Efficiently_modeling_long_sequences\.
@@ -2658,7 +2660,9 @@ Roberts:
 -   [e3nn: a modular PyTorch framework for Euclidean neural networks](https://e3nn.org/)
 -   [List of papers: Chen-Cai-OSU/awesome-equivariant-network](https://github.com/Chen-Cai-OSU/awesome-equivariant-network)
 -   Marchetti, G.L., Hillar, C., Kragic, D., & Sanborn. S. (2023). [Harmonics of learning: Universal fourier features emerge in invariant networks](https://arxiv.org/abs/2312.08550). [^Marchetti2023]
+-   Battiloro, C. et al. (2024). [E(n) equivariant topological neural networks](https://arxiv.org/abs/2405.15429). [^Battiloro2024]
 
+[^Battiloro2024]: @Battiloro_2024_En_equivariant_topological_neural_networks\.
 [^Bogatskiy2023]: @Bogatskiy_2023_Explainable_equivariant_neural_networks\.
 [^Cohen2016a]: @Cohen_2016_Group_equivariant_convolutional_networks\.
 [^Cohen2019]: @Cohen_2019_Gauge_equivariant_convolutional_networks\.
