@@ -114,12 +114,15 @@ Artificial intelligence
 -   Zhang, D. et al. (2022). [The AI Index 2022 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf). [^Zhang2022]
 -   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 -   Benaich, N. & Hogarth, I. (2022). [State of AI Report 2022](https://www.stateof.ai/2022-report-launch.html).
+-   Cotra, A. (2022). [Two-year update on my personal AI timelines](https://www.lesswrong.com/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines).
 -   Steinhardt, J. (2023). [Forecasting ML Benchmarks in 2023](https://bounded-regret.ghost.io/forecasting-math-and-mmlu-in-2023/).
 -   Future of Life Institute. (2023). [Pause giant AI experiments: An open letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/).
 -   Future of Life Institute. (2023). [Policymaking in the Pause: What can policymakers do now to combat risks from advanced AI systems?](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf).
 -   Altman, S. (2023). [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond).
 -   Bubeck, S. et al. (2023). [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712). [^Bubeck2023b]
 -   Maslej, N. et al. (2023). [The AI Index 2023 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf). [^Maslej2023]
+-   Maslej, N. et al. (2024). [The AI Index 2024 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf).
+-   Aschenbrenner, L. (2024). [Situational Awareness: The decade ahead](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf). [^Aschenbrenner2024]
 
 See also:
 
@@ -128,6 +131,7 @@ See also:
 -   [Artificial intelligence and mind](mind.html#artificial-intelligence-and-mind)
 
 [^Armstrong2014]: @Armstrong_2014_The_errors_insights_and_lessons_of_famous_AI\.
+[^Aschenbrenner2024]: @Aschenbrenner_2024_Situational_Awareness_The_decade_ahead\.
 [^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
 [^Bubeck2023b]: @Bubeck_2023_Sparks_of_Artificial_General_Intelligence_Early\.
 [^Marcus2018]: @Marcus_2018_Deep_learning_A_critical_appraisal\.
