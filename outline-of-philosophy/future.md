@@ -121,7 +121,7 @@ Artificial intelligence
 -   Altman, S. (2023). [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond).
 -   Bubeck, S. et al. (2023). [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712). [^Bubeck2023b]
 -   Maslej, N. et al. (2023). [The AI Index 2023 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf). [^Maslej2023]
--   Maslej, N. et al. (2024). [The AI Index 2024 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf).
+-   Maslej, N. et al. (2024). [The AI Index 2024 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf). [^Maslej2024]
 -   Aschenbrenner, L. (2024). [Situational Awareness: The decade ahead](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf). [^Aschenbrenner2024]
 
 See also:
@@ -136,6 +136,7 @@ See also:
 [^Bubeck2023b]: @Bubeck_2023_Sparks_of_Artificial_General_Intelligence_Early\.
 [^Marcus2018]: @Marcus_2018_Deep_learning_A_critical_appraisal\.
 [^Maslej2023]: @Maslej_2023_The_AI_Index_2023_Annual_Report\.
+[^Maslej2024]: @Maslej_2024_The_AI_Index_2024_Annual_Report\.
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 [^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
 [^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.
