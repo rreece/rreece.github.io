@@ -1448,26 +1448,27 @@ See also:
 ### Ordinary language philosophy
 
 -   Late Wittgenstein
--   Instrumentalist and pragmatist
--   [Blue and Brown Books](https://en.wikipedia.org/wiki/Blue_and_Brown_Books) (1933-35)
-    -   Lecture notes and notes dictated, mimeographed as a few copies and circulated
-        during Wittgenstein's lifetime.
-    -   At the end of his fellowship at Cambridge in the summer of 1936, Wittgenstein went
-        to Norway and attempted to revise the Brown Book for publication, but failed.
--   Wittgenstein, L. (1953). *Philosophical Investigations*. [^Wittgenstein2009]
-    -   The original version of *PI* was drafted in late 1936, known to scholars as the *Urfassung* (original version).
-    -   Published posthumously in 1953.
-    -   Edited and translated to English by G.E.M. Anscombe.
-    -   Opens with a discussion of the Augustinian picture of language and is critical of it.
-    -   Frege's context principle
-    -   Language games; Meaning as use.
-    -   Duck-rabbit; "seeing that" vs "seeing as".
-    -   An important project is to understand the differences between early (*TLP*)
-    and late (*PI*) Wittgenstein. It is quite the about-face.
-        -   TLP: The picture theory of meaning. Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
-        -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
-    -   The rule-following paradox [^Wittgenstein2009Sec201]
--   Wittgenstein, L. (1969). *On Certainty*. [^Wittgenstein1969b]
+    -   Instrumentalist and pragmatist
+    -   [Blue and Brown Books](https://en.wikipedia.org/wiki/Blue_and_Brown_Books) (1933-35)
+        -   Lecture notes and notes dictated, mimeographed as a few copies and circulated
+            during Wittgenstein's lifetime.
+        -   At the end of his fellowship at Cambridge in the summer of 1936, Wittgenstein went
+            to Norway and attempted to revise the Brown Book for publication, but failed.
+    -   Wittgenstein, L. (1953). *Philosophical Investigations*. [^Wittgenstein2009]
+        -   The original version of *PI* was drafted in late 1936, known to scholars as the *Urfassung* (original version).
+        -   Published posthumously in 1953.
+        -   Edited and translated to English by G.E.M. Anscombe.
+        -   Opens with a discussion of the Augustinian picture of language and is critical of it.
+        -   Frege's context principle
+        -   Language games; Meaning as use.
+        -   Duck-rabbit; "seeing that" vs "seeing as".
+        -   An important project is to understand the differences between early (*TLP*)
+        and late (*PI*) Wittgenstein. It is quite the about-face.
+            -   TLP: The picture theory of meaning. Language has a structure that can be mapped onto (meaning) the logical structure of the world. Logicism.
+            -   PI: The meaning of a word is its use. Constructivism/Intuitionism.
+        -   The rule-following paradox [^Wittgenstein2009Sec201]
+    -   Wittgenstein, L. (1969). *On Certainty*. [^Wittgenstein1969b]
+    -   Video: Sugrue, M. (1992). [The Latter Wittgenstein: The Philosophy of Language](https://www.youtube.com/watch?v=X7Rb56kZQSk).
 -   [Gilbert Ryle](https://en.wikipedia.org/wiki/Gilbert_Ryle) (1900-1976)
 -   [P.F. Strawson](https://en.wikipedia.org/wiki/P._F._Strawson) (1919-2006)
     -   Strawson, P.F. (1950). On referring. [^Strawson1950]
@@ -1483,7 +1484,8 @@ See also:
 -   [Saul Kripke](https://en.wikipedia.org/wiki/Saul_Kripke) (1940-2022)
     -   *Wittgenstein on Rules and Private Language* (1982)
         -   Distinguishes the views of Wittgenstein, Kripke, and Kripkenstein
--   Video: Sugrue, M. (1992). [The Latter Wittgenstein: The Philosophy of Language](https://www.youtube.com/watch?v=X7Rb56kZQSk).
+-   Emma Borg
+    -   Borg, E. (2007). *Minimal Semantics*. [^Borg2007]
 
 Wittgenstein in *PI*:
 
@@ -1503,6 +1505,7 @@ See also:
 -   [Natural language processing](statistics.html#natural-language-processing)
 -   [Word meanings](statistics.html#word-meanings)
 
+[^Borg2007]: @Borg_2007_Minimal_Semantics\.
 [^Cavell2015]: @Cavell_2015_Must_We_Mean_What_We_Say\.
 [^Rorty1993]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\.
 [^Rorty1993p347]: @Rorty_1993_Wittgenstein_Heidegger_and_the_reification\, p. 347.
