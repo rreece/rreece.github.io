@@ -23,6 +23,10 @@ Algebra
 
 TODO
 
+>   Prove all things; hold fast that which is good.
+
+-- *1 Thessalonians*, 5:21--28, KJV
+
 
 ### History
 

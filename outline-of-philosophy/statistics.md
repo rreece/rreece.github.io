@@ -76,10 +76,15 @@ See also:
     -   Regression towards the mean in phenotypes
 -   [John Venn](https://en.wikipedia.org/wiki/John_Venn) (1834-1923)
     -   *The Logic of Chance* (1866) [^Venn1888]
+-   [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons) (1835-1882)
+    -   Jevons, W.S. (1873). The philosophy of inductive inference. [^Jevons1873a]
+    -   Jevons, W.S. (1873). The use of hypothesis. [^Jevons1873b]
 
 [^Bernoulli1713]: Bernoulli, J. (1713). *Ars Conjectandi*, Chapter II, Part IV, defining the art of conjecture [[wikiquote](https://en.wikiquote.org/wiki/Jacob_Bernoulli)].
 [^Edwards1974p9]: @Edwards_1974_The_history_of_likelihood\, p. 9.
 [^Hacking1971]: @Hacking_1971_Jacques_Bernoullis_Art_of_conjecturing\.
+[^Jevons1873a]: @Jevons_1873_The_philosophy_of_inductive_inference\.
+[^Jevons1873b]: @Jevons_1873_The_use_of_hypothesis\.
 [^Venn1888]: @Venn_1888_The_Logic_of_Chance\.
 
 
