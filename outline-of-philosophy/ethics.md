@@ -97,12 +97,15 @@ Consequentialism
 -   J.J.C. Smart
 -   Portmore
     -   *Commonsense Consequentialism* [^Portmore2011]
+-   Tyler Cowen
+    -   Cowen, T. (2006). [The epistemic problem does not refute consequentialism](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=38f49ce2a860ac03be8bded707760bbb1c9f0f6b). [^Cowen2006]
 
 See also:
 
 -   [Epicureanism](human-condition.html#epicureanism)
 -   [Mohism](human-condition.html#mohism)
 
+[^Cowen2006]: @Cowen_2006_The_epistemic_problem_does_not_refute\.
 [^Portmore2011]: @Portmore_2011_Commonsense_Consequentialism\.
 
 

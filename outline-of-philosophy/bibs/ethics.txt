@@ -1,4 +1,3 @@
-{Convivialist International}. (2020). The second convivialist manifesto: Towards a post-neoliberal world. *Civic Sociology*, 1(1), 12721. https://online.ucpress.edu/cs/article/1/1/12721/112920/THE-SECOND-CONVIVIALIST-MANIFESTO-Towards-a-Post
 Axelrod, R. (1980). Effective choice in the prisoner's dilemma. *The Journal of Conflict Resolution*, 24, 3--25.
 Axelrod, R. (1980). More effective choice in the prisoner's dilemma. *The Journal of Conflict Resolution*, 24, 379--403.
 Ayars, A. (2016). Can model-free reinforcement learning explain deontological moral judgments? *Cognition*, 150, 232--242.
@@ -9,6 +8,8 @@ Black, M. (1964). The gap between "is" and "should". *Philosophical Review*, 73,
 Brown, S.R. (2008). *Moral Virtue and Nature: A defense of ethical naturalism*. Continuum.
 Churchland, P.S. (2011). *What Neuroscience Tells Us About Morality*. Princeton University Press.
 Clifford, W.K. (1877). The ethics of belief. *Contemporary Review*, 29, 289. https://web.archive.org/web/20190427051422/https://www.uta.edu/philosophy/faculty/burgess-jackson/Clifford.pdf
+{Convivialist International}. (2020). The second convivialist manifesto: Towards a post-neoliberal world. *Civic Sociology*, 1(1), 12721. https://online.ucpress.edu/cs/article/1/1/12721/112920/THE-SECOND-CONVIVIALIST-MANIFESTO-Towards-a-Post
+Cowen, T. (2006). The epistemic problem does not refute consequentialism. *Utilitas*, 18(4), 383--399. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=38f49ce2a860ac03be8bded707760bbb1c9f0f6b
 Cushman, F. (2013). Action, outcome, and value. *Personality and Social Psychology Review*, 17, 273--292.
 de Beauvoir, S. (1949). The Second Sex.
 de Waal, F. (1982). *Chimpanzee Politics: Power and Sex among Apes*. Johns Hopkins University Press.

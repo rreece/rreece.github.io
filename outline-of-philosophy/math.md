@@ -97,6 +97,8 @@ See also:
 
 ### More
 
+-   Jordan algebras
+    -   McCrimmon, K. (2000). *A Taste of Jordan Algebras*. [^McCrimmon2000]
 -   [Algebraic number theory](https://en.wikipedia.org/wiki/Algebraic_number_theory)
 -   [Representation theory](https://en.wikipedia.org/wiki/Representation_theory)
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
@@ -113,6 +115,7 @@ See also:
 -   [Supersymmetry](physics.html#supersymmetry) in the Outline of [physics](physics.html)
 
 [^Baez2002]: @Baez_2002_The_octonions\.
+[^McCrimmon2000]: @McCrimmon_2000_A_Taste_of_Jordan_Algebras\.
 [^Westbury2010]: @Westbury_2010_Hurwitz_theorem_on_composition_algebras\.
 
 
