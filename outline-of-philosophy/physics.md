@@ -1252,6 +1252,7 @@ Urs Schreiber:
     -   Martin, S.P. (2016). [A supersymmetry primer](https://arxiv.org/abs/hep-ph/9709356). [^Martin2016]
     -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
     -   Tong, D. (2022). [Lectures on supersymmetric field theory](https://www.damtp.cam.ac.uk/user/tong/susy.html). [^Tong2022]
+    -   Bertolini, M. (2022). [Lectures on supersymmetry](https://www.sissa.it/tpp/phdsection/OnlineResources/6/susycourse.pdf). [^Bertolini2022]
 
 See also:
 
@@ -1261,6 +1262,7 @@ See also:
 
 [^ArkaniHamed2008]: @Arkani_Hamed_2008_What_is_the_simplest_quantum_field_theory\.
 [^Baez2020]: @Baez_2020_The_tenfold_way\.
+[^Bertolini2022]: @Bertolini_2022_Lectures_on_supersymmetry\.
 [^Connes1985b]: @Connes_1985_Non_commutative_differential_geometry\.
 [^Deligne1999]: @Deligne_1999_Notes_on_spinors\.
 [^Deligne2002]: @Deligne_2002_Categorie_Tensorielle\.

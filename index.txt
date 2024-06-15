@@ -39,7 +39,7 @@ News
     ([*NeurIPS 2019*](https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html),
     [arxiv:1905.05894](https://arxiv.org/abs/1905.05894)).
 -   Apr 2018: I joined [Cerebras Systems](https://www.cerebras.net/) as a machine learning engineer.
--   Apr 2015: Continuing my postdoc with UCSC, I moved back to Geneva, Switerland
+-   Apr 2015: Continuing my postdoc with UCSC, I moved back to Geneva, Switzerland
     to work at CERN during Run 2 of the LHC.
 -   Nov 2014:
     I was awarded a 6 month fellowship, [US ATLAS Scholar](https://web.archive.org/web/20201101045859/https://po.usatlas.bnl.gov/programoffice/scholars_2014.php),
@@ -53,7 +53,7 @@ News
     and [CMS](https://arxiv.org/abs/1207.7235)
     experiments both announce the discovery of a new particle consistent with
     the standard model Higgs boson.
--   Jan 2009: I moved to near Geneva, Switerland to work on the
+-   Jan 2009: I moved to near Geneva, Switzerland to work on the
     [ATLAS experiment](https://atlas.cern/) at [CERN](http://home.cern/).
 -   June 2006: I spent my first summer at CERN,
     [helping commission](img/ryan-with-endcap-trt-sr1-2006-07.jpg)
