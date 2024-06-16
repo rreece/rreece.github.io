@@ -284,6 +284,7 @@ Murphy, K.P. (2022). *Probabilistic Machine Learning: An introduction*. MIT Pres
 Muthukumar, V., Vodrahalli, K., Subramanian, V., & Sahai, A. (2019). Harmless interpolation of noisy data in regression. https://arxiv.org/abs/1903.09139
 Nagarajan, V. (2021). *Explaining generalization in deep learning: progress and fundamental limits*. https://arxiv.org/abs/2110.08922 [(Ph.D. thesis)]
 Nakkiran, P. (2021). Turing-universal learners with optimal scaling laws. https://arxiv.org/abs/2111.05321
+Nakkiran, P., Bradley, A., Zhou, H. & Advani, M. (2024). Step-by-step diffusion: An elementary tutorial. https://arxiv.org/abs/2406.08929
 Nakkiran, P., Kaplun, G., Bansal, Y., Yang, T., Barak, B., & Sutskever, I. (2019). Deep double descent: Where bigger models and more data hurt. https://arxiv.org/abs/1912.02292
 Neller, T.W. & Lanctot, M. (2013). An introduction to counterfactual regret minimization. *Proceedings of Model AI Assignments*, 11. http://cs.gettysburg.edu/~tneller/modelai/2013/cfr/cfr.pdf
 Neyman, J. (1955). The problem of inductive inference. *Communications on Pure and Applied Mathematics*, 8, 13--45. https://errorstatistics.files.wordpress.com/2017/04/neyman-1955-the-problem-of-inductive-inference-searchable.pdf

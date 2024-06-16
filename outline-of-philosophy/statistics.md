@@ -1847,6 +1847,7 @@ Blogs:
 -   Liu, Y. et al. (2021). [A survey of visual transformers](https://arxiv.org/abs/2111.06091). [^Liu2021Survey]
 -   Ingrosso, A. & Goldt, S. (2022). [Data-driven emergence of convolutional structure in neural networks](https://arxiv.org/abs/2202.00565). [^Ingrosso2022]
 -   Park, N. & Kim, S. (2022). [How do vision transformers work?](https://arxiv.org/abs/2202.06709) [^Park2022]
+-   Nakkiran, P., Bradley, A., Zhou, H. & Advani, M. (2024). [Step-by-step diffusion: An elementary tutorial](https://arxiv.org/abs/2406.08929). [^Nakkiran2024]
 
 Resources:
 
@@ -1868,6 +1869,7 @@ Resources:
 [^LeCun1998a]: @LeCun_1998_Gradient_based_learning_applied_to_document\.
 [^Liu2021]: @Liu_2021_Pay_attention_to_MLPs\.
 [^Liu2021Survey]: @Liu_2021_A_survey_of_visual_transformers\.
+[^Nakkiran2024]: @Nakkiran_2024_Step_by_step_diffusion_An_elementary_tutorial\.
 [^Park2022]: @Park_2022_How_do_vision_transformers_work\.
 [^Simonyan2014]: @Simonyan_2014_Very_deep_convolutional_networks_for_large_scale\.
 [^Tan2019]: @Tan_2019_EfficientNet_Rethinking_model_scaling\.
