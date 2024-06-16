@@ -214,6 +214,7 @@ Kontsevich, M. & Segal, G. (2021). Wick rotation and the positivity of energy in
 Lazarovici, D. (2018). Against fields. *European Journal for Philosophy of Science*, 8(2), 145--170. https://arxiv.org/abs/1809.00855
 Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. *Nuovo Cimento*, 1, 205--225.
 Leifer, M.S., & Spekkens, R.W. (2013). Towards a formulation of quantum theory as a causally neutral theory of Bayesian inference. *Physical Review A*, 88(5), 052130. https://arxiv.org/abs/1107.5849
+Lepine, D. (2016). Deligne's theorem on tensor categories. https://alistairsavage.ca/pubs/Lepine-Deligne_Theorem.pdf
 Linde, A.D. (1982). A new inflationary universe scenario: A possible solution of the horizon, flatness, homogeneity, isotropy and primordial monopole problems. *Physics Letters B*, 108, 389--393. https://www.sciencedirect.com/science/article/pii/0370269382912199
 Linde, A.D. (1983). Chaotic inflation. *Physics Letters B*, 129, 177--181.
 Lisi, A.G. (2007). An exceptionally simple theory of everything. https://arxiv.org/abs/0711.0770
