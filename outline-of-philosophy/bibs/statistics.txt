@@ -179,6 +179,7 @@ Hestness, J. et al. (2017). Deep learning scaling is predictable, empirically. h
 Hochreiter, S. & Schmidhuber, J. (1997). Long short-term memory. *Neural Computation*, 9(8), 1735--1780.
 Hoffmann, J. et al. (2022). Training compute-optimal large language models. https://arxiv.org/abs/2203.15556
 Holzm{\"u}ller, D. (2020). On the universality of the double descent peak in ridgeless regression. https://arxiv.org/abs/2010.01851
+Horacek, M. (2022). *Risk-Aversion in Algorithms for Poker*. https://is.muni.cz/th/ydbvx/thesis.pdf
 Hornik, K., Stinchcombe, M., & White, H. (1989). Multilayer feedforward networks are universal approximators. *Neural Networks*, 2, 359--366. https://cognitivemedium.com/magic_paper/assets/Hornik.pdf
 Howard, A.G. et al. (2017). MobileNets: Efficient convolutional neural networks for mobile vision applications. https://arxiv.org/abs/1704.04861
 Howard, J.N., Mandt, S., Whiteson, D., & Yang, Y. (2021). Foundations of a fast, data-driven, machine-learned simulator. https://arxiv.org/abs/2101.08944
@@ -353,6 +354,7 @@ Shalev-Shwarz, S. & Ben-David, S. (2014). *Understanding Machine Learning: From 
 Silver, D. et al. (2016). Mastering the game of Go with deep neural networks and tree search. *Nature*, 529, 484--489.
 Silver, D. et al. (2017). Mastering chess and shogi by self-play with a general reinforcement learning algorithm. https://arxiv.org/abs/1712.01815
 Silver, D. et al. (2017). Mastering the game of Go without human knowledge. *Nature*, 550, 354--359.
+Silver, D., Singh, S., Precup, D., & Sutton, R.S. (2024). Reward is enough. *Artificial Intelligence*, 299, 103535. https://www.sciencedirect.com/science/article/pii/S0004370221000862
 Simonyan, K. & Zisserman, A. (2014). Very deep convolutional networks for large-scale image recognition. https://arxiv.org/abs/1409.1556
 Sinervo, P. (2002). Signal significance in particle physics. In Whalley, M.R. & Lyons, L. (eds.), *Proceedings of the Conference on Advanced Statistical Techniques in Particle Physics*. Durham, UK: Institute of Particle Physics Phenomenology. https://arxiv.org/abs/hep-ex/0208005v1
 Sinervo, P. (2003). Definition and treatment of systematic uncertainties in high energy physics and astrophysics. In Lyons, L., & Mount, R., & Reitmeyer, R. (eds.), *Proceedings of the Conference on Statistical Problems in Particle Physics, Astrophysics, and Cosmology (PhyStat2003)* (pp. 122--129). Stanford Linear Accelerator Center. https://www.slac.stanford.edu/econf/C030908/papers/TUAT004.pdf

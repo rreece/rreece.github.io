@@ -2158,9 +2158,11 @@ More:
 -   [List by OpenAI of key RL papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 -   [List of game AI codes by DATA Lab](https://github.com/datamllab/awesome-game-ai)
 -   Chen, L. et al. (2021). [Decision Transformer: Reinforcement learning via sequence modeling](https://arxiv.org/abs/2106.01345).
+-   Silver, D., Singh, S., Precup, D., & Sutton, R.S. (2024). [Reward is enough](https://www.sciencedirect.com/science/article/pii/S0004370221000862). [^Silver2024]
 
 [^Arulkumaran2017]: @Arulkumaran_2017_Deep_Reinforcement_Learning_A_Brief_Survey\.
 [^CesaBianchi2006]: @Cesa_Bianchi_2006_Prediction_Learning_and_Games\.
+[^Silver2024]: @Silver_2024_Reward_is_enough\.
 [^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
 
 
@@ -2382,7 +2384,7 @@ $$ \bar{\sigma}^{T}(I, a) = \sum_{t=1}^{T} \frac{\pi^{t}_{i}(I) \: \sigma^{t}(I,
     -   Gibson, R. (2014). [*Regret minimization in games and the development of champion multiplayer computer poker-playing agents*](https://era.library.ualberta.ca/items/15d28cbf-49d4-42e5-a9c9-fc55b1d816af/view/5ee708c7-6b8b-4b96-b1f5-23cdd95b6a46/Gibson_Richard_Spring-202014.pdf). [^Gibson2014]
     -   Johanson, M. (2016). [*Robust Strategies and Counter-Strategies: From Superhuman to Optimal Play*](http://johanson.ca/publications/theses/2016-johanson-phd-thesis/2016-johanson-phd-thesis.pdf). [^Johanson2016]
     -   Burch, N. (2018). [*Time and Space: Why imperfect information games are hard*](https://era.library.ualberta.ca/items/db44409f-b373-427d-be83-cace67d33c41/view/bcb00dca-39e6-4c43-9ec2-65026a50135e/Burch_Neil_E_201712_PhD.pdf). [^Burch2018]
-    -   Horacek, M. (2022). [*Risk-Aversion in Algorithms for Poker*](https://is.muni.cz/th/ydbvx/thesis.pdf).
+    -   Horacek, M. (2022). [*Risk-Aversion in Algorithms for Poker*](https://is.muni.cz/th/ydbvx/thesis.pdf). [^Horacek2022]
 
 TODO: explain MCCFR.
 
@@ -2394,6 +2396,7 @@ $$ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] 
 [^Burch2018]: @Burch_2018_Time_and_Space_Why_imperfect_information_games\.
 [^Gibson2014]: @Gibson_2014_Regret_minimization_in_games_and_the_development\.
 [^Habara2023]: @Habara_2023_Convergence_analysis_and_acceleration\.
+[^Horacek2022]: @Horacek_2022_Risk_Aversion_in_Algorithms_for_Poker\.
 [^Johanson2012]: @Johanson_2012_Efficient_Nash_equilibrium_approximation_through\.
 [^Johanson2016]: @Johanson_2016_Robust_Strategies_and_Counter_Strategies_From\.
 [^Lanctot2009]: @Lanctot_2009_Monte_Carlo_sampling_for_regret_minimization\.
