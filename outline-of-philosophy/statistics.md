@@ -52,7 +52,8 @@ See also:
 
 ### Early investigators
 
--   "Ibn al-Haytham was an early proponent of the concept that a hypothesis must be supported by experiments based on confirmable procedures or mathematical evidence—an early pioneer in the scientific method five centuries before Renaissance scientists." - Wikipedia
+-   [Ibn al-Haytham](https://en.wikipedia.org/wiki/Ibn_al-Haytham) (c. 965-1040)
+    -   "Ibn al-Haytham was an early proponent of the concept that a hypothesis must be supported by experiments based on confirmable procedures or mathematical evidence—an early pioneer in the scientific method five centuries before Renaissance scientists." - Wikipedia
 -   [Gerolamo Cardano](https://en.wikipedia.org/wiki/Gerolamo_Cardano) (1501-1576)
     -   *Book on Games of Chance* (1564)
 -   [John Graunt](https://en.wikipedia.org/wiki/John_Graunt) (1620-1674)
@@ -105,7 +106,7 @@ See also:
             between the hypothesized and the empirically observed values via the $p$-value.
     -   With Frank Raphael Weldon, he established the journal *Biometrika* in 1902.
     -   Founded the world's first university statistics department at University College, London in 1911.
--   John Maynard Keynes (1883-1946)
+-   [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) (1883-1946)
     -   Keynes, J. M. (1921). *A Treatise on Probability*. [^Keynes1921]
 -   [Ronald Fisher](https://en.wikipedia.org/wiki/Ronald_Fisher) (1890-1972)
     -   Fisher significance of the null hypothesis ($p$-values)
