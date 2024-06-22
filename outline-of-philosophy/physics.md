@@ -2171,6 +2171,7 @@ $$ R_{\mu\nu} - \frac{1}{2} R \: g_{\mu\nu} + \Lambda \: g_{\mu\nu} = \frac{8 \p
     -   Linde, A.D. (1982). [A new inflationary universe scenario: A possible solution of the horizon, flatness, homogeneity, isotropy and primordial monopole problems](https://www.sciencedirect.com/science/article/pii/0370269382912199). [^Linde1982]
     -   False vaccuum from inflaton field
     -   Slow-roll of inflaton field value solved the "graceful exit" problem of ending inflation.
+    -   Baumann, D. (2009). [TASI lectures on inflation](https://arxiv.org/abs/0907.5424). [^Baumann2009]
 -   Eternal inflation
     -   Steinhardt, P.J. (1983). Natural inflation. [^Steinhardt1983]
     -   Linde, A.D. (1983). Chaotic inflation. [^Linde1983]
@@ -2197,6 +2198,7 @@ Guth:
 ![How the $\Lambda$-CDM concordance model of cosmology was developed. [^Debono2016f4]](img/concordance-model-LCDM.png){#fig:concordance-model-LCDM}
 
 [^Albrecht1982]: @Albrecht_1982_Cosmology_for_Grand_Unified_Theories\.
+[^Baumann2009]: @Baumann_2009_TASI_lectures_on_inflation\.
 [^Debono2016f4]: @Debono_2016_General_relativity_and_cosmology_Unsolved\, figure 4.
 [^Guth1980]: @Guth_1981_Inflationary_universe_A_possible_solution\.
 [^Guth1997Sec3]: @Guth_1997_Was_cosmic_inflation_the_bang_of_the_big_bang\.

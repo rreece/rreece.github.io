@@ -42,6 +42,7 @@ Barrett, J.A. (2011). Everett's pure wave mechanics and the notion of worlds. *E
 Barrett, J.A. (2016). Quantum Worlds. *Principia: An International Journal of Epistemology*, 20(1), 45--60.
 Bassi, A. (2005). Collapse models: analysis of the free particle dynamics. *Journal of Physics A: Mathematical and General*, 38, 3173. https://arxiv.org/abs/quant-ph/0410222
 Batterman, R.W. (2003). Falling cats, parallel parking and polarized light. *Studies in History and Philosophy of Modern Physics*, 34, 527-557. http://philsci-archive.pitt.edu/794/
+Baumann, D. (2009). TASI lectures on inflation. https://arxiv.org/abs/0907.5424
 Becker, A. (2018). *What is Real? The unfinished quest for the meaning of quantum physics*. Basic Books.
 Bedau, M.A. (1997). Weak emergence. *Philosophical Perspectives*, 11, 375--399.
 Bell, J.S. (1955). Time reversal in field theory. *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*, 231, 479--495.
