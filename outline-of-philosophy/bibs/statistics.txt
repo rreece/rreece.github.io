@@ -117,6 +117,7 @@ Dettmers, T., Pagnoni, A., Holtzman, A., & Zettlemoyer, L. (2023). QLoRA: Effici
 Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. https://arxiv.org/abs/1810.04805
 Dewey, J. (1938). *Logic: The Theory of Inquiry*. New York: Henry Holt and Co.
 Dhariwal, P. & Nichol, A. (2021). Diffusion models beat GANs on image synthesis. https://arxiv.org/abs/2105.05233
+Dieleman, S., Fauw, J.D., & Kavukcuoglu, K. (2016). Exploiting cyclic symmetry in convolutional neural networks. https://arxiv.org/abs/1602.02660
 Dinan, E., Yaida, S., & Zhang, S. (2023). Effective theory of transformers at initialization. https://arxiv.org/abs/2304.02034
 Dosovitskiy, A. et al. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. https://arxiv.org/abs/2010.11929
 Edelman, B.L., Goel, S., Kakade, S., & Zhang, C. (2021). Inductive biases and variable creation in self-attention mechanisms. https://arxiv.org/abs/2110.10090
