@@ -199,6 +199,7 @@ Higgs, P.W. (1964). Broken symmetries, massless particles and gauge fields. *Phy
 Hossenfelder, S. & Palmer, T. (2020). Rethinking superdeterminism. *Frontiers in Physics*, 8, 139. https://www.frontiersin.org/articles/10.3389/fphy.2020.00139/full
 Hossenfelder, S. (2023). Quantum confusions, cleared up (or so I hope). https://arxiv.org/abs/2309.12299
 Huggett, N., & Weingard, R. (1995). The renormalisation group and effective field theories. *Synthese*, 102(1), 171--194.
+Ismael, J. & Schaffer, J. (2020). Quantum holism: Nonseparability as common ground. *Synthese*, 197, 4131--4160. https://link.springer.com/article/10.1007/s11229-016-1201-2
 Jaeger, G. (2019). Are virtual particles less real? *Entropy*, 21, 141. https://www.mdpi.com/1099-4300/21/2/141
 Janyska, J., Modugno, M., & Vitolo, R. (2007). Semi-vector spaces and units of measurement. https://arxiv.org/abs/0710.1313
 Joos, E. & Zeh, H. D. (1985). The emergence of classical properties through interaction with the environment. *Zeitschrift f&uuml;r Physik B Condensed Matter*, 59, 223--243. http://www.decoherence.de/J+Z.pdf

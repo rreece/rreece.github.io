@@ -1356,10 +1356,12 @@ Criticisms:
 -   Bohm, D. & Aharonov, Y. (1957). Discussion of experimental proof for the paradox of Einstein, Rosen, and Podolsky. [^Bohm1957]
 -   Mermin, N.D. (1985). Is the moon there when nobody looks? [^Mermin1985]
 -   Caulton, A. (2014). [Physical entanglement in permutation-invariant quantum mechanics](https://arxiv.org/abs/1409.0246). [^Caulton2014]
+-   Ismael, J. & Schaffer, J. (2020). [Quantum holism: Nonseparability as common ground](https://link.springer.com/article/10.1007/s11229-016-1201-2). [^Ismael2020]
 
 [^Bohm1957]: @Bohm_1957_Discussion_of_experimental_proof_for_the_paradox\.
 [^Caulton2014]: @Caulton_2014_Physical_entanglement_in_permutation_invariant\.
 [^Einstein1935]: @Einstein_1935_Can_quantum_mechanical_description_of_physical\.
+[^Ismael2020]: @Ismael_2020_Quantum_holism_Nonseparability_as_common_ground\.
 [^Mermin1985]: @Mermin_1985_Is_the_moon_there_when_nobody_looks_Reality\.
 [^Schrodinger1935]: @Schrodinger_1935_Discussion_of_probability_relations_between\.
 [^Schrodinger1936]: @Schrodinger_1936_Probability_relations_between_separated_systems\.

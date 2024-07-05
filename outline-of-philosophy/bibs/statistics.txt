@@ -424,4 +424,5 @@ Zhang, W. (1998). Complete anytime beam search. *AAAI Proceedings*, 98, 425--430
 Zhou, R. & Hansen, E. A. (2005). Beam-stack search: Integrating backtracking with beam search. *ICAPS*, 15, 90--98. https://cdn.aaai.org/ICAPS/2005/ICAPS05-010.pdf
 Zhao, J. et al (2024). GaLore: Memory-efficient LLM training by gradient low-rank projection. https://arxiv.org/abs/2403.03507
 Zhao, W.X. et al. (2023). A survey of large language models. https://arxiv.org/abs/2303.18223
+Zhao, Y. et al. (2023). DETRs beat YOLOs on real-time object detection. https://arxiv.org/abs/2304.08069
 Zinkevich, M., Johanson, M., Bowling, M., & Piccione, C. (2007). Regret minimization in games with incomplete information. *Advances in Neural Information Processing Systems*, 20, 1729--1736. https://proceedings.neurips.cc/paper/2007/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf

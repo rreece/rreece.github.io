@@ -1848,6 +1848,7 @@ Blogs:
 -   Liu, Y. et al. (2021). [A survey of visual transformers](https://arxiv.org/abs/2111.06091). [^Liu2021Survey]
 -   Ingrosso, A. & Goldt, S. (2022). [Data-driven emergence of convolutional structure in neural networks](https://arxiv.org/abs/2202.00565). [^Ingrosso2022]
 -   Park, N. & Kim, S. (2022). [How do vision transformers work?](https://arxiv.org/abs/2202.06709) [^Park2022]
+-   Zhao, Y. et al. (2023). [DETRs beat YOLOs on real-time object detection](https://arxiv.org/abs/2304.08069). [^Zhao2023]
 -   Nakkiran, P., Bradley, A., Zhou, H. & Advani, M. (2024). [Step-by-step diffusion: An elementary tutorial](https://arxiv.org/abs/2406.08929). [^Nakkiran2024]
 
 Resources:
@@ -1875,6 +1876,7 @@ Resources:
 [^Simonyan2014]: @Simonyan_2014_Very_deep_convolutional_networks_for_large_scale\.
 [^Tan2019]: @Tan_2019_EfficientNet_Rethinking_model_scaling\.
 [^Tan2021]: @Tan_2021_EfficientNetV2_Smaller_models_and_faster_training\.
+[^Zhao2023]: @Zhao_2023_DETRs_beat_YOLOs_on_real_time_object_detection\.
 
 
 ### Natural language processing
