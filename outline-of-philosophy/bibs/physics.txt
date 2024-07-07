@@ -258,6 +258,7 @@ Nikoli{\'c}, H. (2022). Relativistic QFT from a Bohmian perspective: A proof of 
 {nLab authors}. (2021). Fiber bundles in physics. http://ncatlab.org/nlab/show/fiber%20bundles%20in%20physics
 Noether, E. (1918). Invariante variationsprobleme. *Nachrichten von der Gesellschaft der Wissenschaften zu G{\"o}ttingen, Mathematisch-Physikalische Klasse*, 235--257. https://www.tandfonline.com/doi/abs/10.1080/00411457108231446
 Ohanian, H.C. (1986). What is spin? *American Journal of Physics*, 54, 500.
+O'Raifeartaigh, L. (1997). *The Dawning of Gauge Theory*. Princeton University Press.
 Ostrik, V. (2004). Tensor categories (after Deligne). https://arxiv.org/abs/math/0401347
 Palmer, T.N. (1995). A local deterministic model of quantum spin measurement. *Proceedings of the Royal Society of London A*, 451, 585--608. https://arxiv.org/abs/quant-ph/9505025
 Palmer, T.N. (2009). The invariant set postulate: A new geometric framework for the foundations of quantum theory and the role played by gravity. https://arxiv.org/abs/0812.1148
@@ -298,6 +299,7 @@ Ryden, B. (2003). *Introduction to Cosmology*. Addison Wesley.
 Salam, A. & Ward, J.C. (1964). Electromagnetic and weak interactions. *Physics Letters*, 13, 168--171.
 Salam, A. & Ward, J.C. (1964). Gauge theory of elementary interactions. *Physical Review*, 136, 763--768.
 Saunders, S. (2021). Branch-counting in the Everett interpretation of quantum mechanics. *Proceedings of the Royal Society A*, 477, 20210600. https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0600
+Schlingemann, D. (1998). From euclidean field theory to quantum field theory. https://arxiv.org/abs/hep-th/9802035
 Schlosshauer, M. (2005). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76, 1267--1305. https://arxiv.org/abs/quant-ph/0312059
 Schlosshauer, M. & Fine, A. (2012). Implications of the Pusey-Barrett-Rudolph quantum no-go theorem. *Physical Review Letters*, 108(26), 260404. https://arxiv.org/abs/1203.4779
 Sch{\"o}nberg, M. (1954). On the hydrodynamical model of the quantum mechanics. *Il Nuovo Cimento*, 12, 103--133.

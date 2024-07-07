@@ -337,6 +337,7 @@ See also:
 -   Pauli, W. (1941). Relativistic field theories of elementary particles. [^Pauli1941]
 -   Yang C.N. & Mills R.L. (1954). Conservation of isotopic spin and isotopic gauge invariance. [^Yang1954]
 -   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. [^tHooft1994a]
+-   O'Raifeartaigh, L. (1997). *The Dawning of Gauge Theory*. [^ORaifeartaigh1997]
 -   Teller, P. (2000). The gauge argument. [^Teller2000]
 -   't Hooft, G. (2007). [Lie groups in physics](http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf). [^tHooft2007]
 -   Greaves, H. & Wallace, D. (2011). [Empirical consequences of symmetries](https://arxiv.org/abs/1111.4309). [^Greaves2011]
@@ -357,6 +358,7 @@ Weyl:
 [^Afriat2013]: @Afriat_2013_Weyls_gauge_argument\.
 [^Dewar2019]: @Dewar_2019_Sophistication_about_symmetries\.
 [^Greaves2011]: @Greaves_2011_Empirical_consequences_of_symmetries\.
+[^ORaifeartaigh1997]: @ORaifeartaigh_1997_The_Dawning_of_Gauge_Theory\.
 [^Pauli1941]: @Pauli_1941_Relativistic_field_theories_of_elementary\.
 [^Schwichtenberg2015]: @Schwichtenberg_2015_Physics_from_Symmetry\.
 [^Teller2000]: @Teller_2000_The_gauge_argument\.
@@ -791,6 +793,7 @@ Michael Atiyah:
 -   Interaction picture
 -   Correlation AKA Green's functions
 -   Wick's theorem
+    -   Schlingemann, D. (1998). [From euclidean field theory to quantum field theory](https://arxiv.org/abs/hep-th/9802035). [^Schlingemann1998]
     -   Kontsevich, M. & Segal, G. (2021). [Wick rotation and the positivity of energy in quantum field theory](https://arxiv.org/abs/2105.10161). [^Kontsevich2021]
 -   [K&auml;ll&eacute;n-Lehmann spectral representation](https://en.wikipedia.org/wiki/K%C3%A4ll%C3%A9n%E2%80%93Lehmann_spectral_representation)
 -   Gell-Mann and Low theorem
@@ -816,6 +819,7 @@ Michael Atiyah:
 [^Martin2011]: @Martin_2011_Phenomenology_of_particle_physics\.
 [^Martin2023]: @Martin_2023_Elementary_Particles_and_Their_Interactions\.
 [^Reece2007]: @Reece_2007_Quantum_field_theory_An_introduction\.
+[^Schlingemann1998]: @Schlingemann_1998_From_euclidean_field_theory_to_quantum_field\.
 [^Weinberg1964]: @Weinberg_1964_Feynman_rules_for_any_spin and
     @Weinberg_1964_Feynman_rules_for_any_spin_II_Massless_particles\.
 
