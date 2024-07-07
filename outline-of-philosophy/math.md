@@ -862,6 +862,11 @@ Category theory
 -   Spivak, D.I. (2013). [Category theory for scientists](https://arxiv.org/abs/1302.6946). [^Spivak2013b]
 -   Fong, B. & Spivak, D.I. (2018). [Seven sketches in compositionality: An invitation to applied category theory](https://arxiv.org/abs/1803.05316). [^Fong2018]
 -   Bradley, T.D. (2018). [What is applied category theory?](https://arxiv.org/abs/1809.05923) [^Bradley2018]
+-   [Categorical product](https://en.wikipedia.org/wiki/Product_(category_theory))
+    -   Cook, J.D. (2016). [Categorical products](https://www.johndcook.com/blog/2016/03/22/categorical-products/).
+    -   Zucker, P. (2020). [Computational category theory in python I: Dictionaries for FinSet](https://www.philipzucker.com/computational-category-theory-in-python-i-dictionaries-for-finset/).
+    -   Zucker, P. (2020). [Computational category theory in python II: numpy for FinVect](https://www.philipzucker.com/computational-category-theory-in-python-ii-numpy-for-finvect/).
+    -   Zucker, P. (2020). [Computational category theory in python III: Monoids, groups, and preorders](https://www.philipzucker.com/computational-category-theory-in-python-3-monoids-groups-and-preorders/).
 -   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
     -   Related to: [Pragmatic maxim](https://en.wikipedia.org/wiki/Pragmatic_maxim), [Identity of indiscernibles](https://en.wikipedia.org/wiki/Identity_of_indiscernibles)
 -   Relation to set theory
