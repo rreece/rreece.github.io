@@ -867,6 +867,8 @@ Category theory
     -   Zucker, P. (2020). [Computational category theory in python I: Dictionaries for FinSet](https://www.philipzucker.com/computational-category-theory-in-python-i-dictionaries-for-finset/).
     -   Zucker, P. (2020). [Computational category theory in python II: numpy for FinVect](https://www.philipzucker.com/computational-category-theory-in-python-ii-numpy-for-finvect/).
     -   Zucker, P. (2020). [Computational category theory in python III: Monoids, groups, and preorders](https://www.philipzucker.com/computational-category-theory-in-python-3-monoids-groups-and-preorders/).
+    -   For the category of abelian groups, the coproduct is the direct sum.
+-   Functors
 -   [Yoneda lemma](https://en.wikipedia.org/wiki/Yoneda_lemma)
     -   Related to: [Pragmatic maxim](https://en.wikipedia.org/wiki/Pragmatic_maxim), [Identity of indiscernibles](https://en.wikipedia.org/wiki/Identity_of_indiscernibles)
 -   Relation to set theory
@@ -913,6 +915,10 @@ Grothendieck:
 -   [Homotopy type theory](https://ncatlab.org/nlab/show/homotopy+type+theory) - nLab
 -   [*Homotopy Type Theory: Univalent Foundations of Mathematics*](https://homotopytypetheory.org/book/) (2013)
 
+See also:
+
+-   [Univalent foundations](math.html#univalent-foundations)
+
 
 ### Cobordism hypothesis
 
@@ -934,6 +940,20 @@ See also:
 ### Topos theory
 
 -   Baez, J. (2021). [Topos theory in a nutshell](https://math.ucr.edu/home/baez/topos.html).
+
+
+### Applications
+
+-   Univalent foundations
+-   Functional programming
+-   Language models
+    -   Bradley, T.D., Terilla, J., & Vlassopoulos, Y. (2021). [An enriched category theory of language: from syntax to semantics](https://arxiv.org/abs/2106.07890). [^Bradley2021] 
+
+[^Bradley2021]: @Bradley_2021_An_enriched_category_theory_of_language_from\.
+
+See also:
+
+-   [Univalent foundations](math.html#univalent-foundations)
 
 
 Unification programs

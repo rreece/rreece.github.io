@@ -13,6 +13,7 @@ B\`{e}s, A. & Choffrut, C. (2022). Decidability of definability issues in the th
 Bonevac, D. (2003). *Deduction: Introductory to Symbolic Logic* (2nd ed.). Blackwell.
 Boolos, G. (1984). To be is to be the value of a variable (or to be some values of some variables). *Journal of Philosophy*, 81, 430--449. https://www.jstor.org/stable/2026308
 Bradley, T.D. (2018). What is applied category theory? https://arxiv.org/abs/1809.05923
+Bradley, T.D., Terilla, J., & Vlassopoulos, Y. (2021). An enriched category theory of language: from syntax to semantics. https://arxiv.org/abs/2106.07890
 Brouwer, L.E.J. (1908). Unreliability of the logical principles. https://arxiv.org/abs/1511.01113
 Bueno, O. (2010). A defense of second-order logic. *Axiomathes*, 20, 365--383. https://web.as.miami.edu/personal/obueno/Site/Online_Papers_files/SecnOrd_FINAL.pdf
 Bueno, O. (2013). Nominalism in the philosophy of mathematics. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/nominalism-mathematics/
