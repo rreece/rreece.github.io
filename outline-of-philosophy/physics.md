@@ -2082,7 +2082,8 @@ Gravity and cosmology
 -   Misner, C.W., Thorne, K.S., & Wheeler, J.A. (1973). *Gravitation*. [^Misner1973]
 -   Carroll, S.M. (2004). *Spacetime and Geometry*. [^Carroll2004]
 -   Arntzenius, F. (2012). *Space, Time, and Stuff*. [^Arntzenius2012]
--   Diffeomorphism invariance, background independence
+-   General covariance, diffeomorphism invariance, background independence
+-   Norton, J.D. (1993). [General covariance and the foundations of general relativity: Eight decades of dispute](https://web.archive.org/web/20171124074404/http://www.pitt.edu/~jdnorton/papers/decades.pdf). [^Norton1993]
 
 $$ R_{\mu\nu} - \frac{1}{2} R \: g_{\mu\nu} + \Lambda \: g_{\mu\nu} = \frac{8 \pi G}{c^4} \: T_{\mu\nu} \label{eq:einstein_field_equations} $$
 
@@ -2090,6 +2091,7 @@ $$ R_{\mu\nu} - \frac{1}{2} R \: g_{\mu\nu} + \Lambda \: g_{\mu\nu} = \frac{8 \p
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
 [^Einstein1913]: @Einstein_1913_Entwurf_einer_verallgemeinerten\.
 [^Misner1973]: @Misner_1973_Gravitation\.
+[^Norton1993]: @Norton_1993_General_covariance_and_the_foundations_of_general\.
 [^Ryden2003]: @Ryden_2003_Introduction_to_Cosmology\.
 
 

@@ -257,6 +257,7 @@ Nikoli{\'c}, H. (2007). Quantum mechanics: Myths and facts. *Foundations of Phys
 Nikoli{\'c}, H. (2022). Relativistic QFT from a Bohmian perspective: A proof of concept. *Foundations of Physics*, 52, 80. https://doi.org/10.1007/s10701-022-00600-x
 {nLab authors}. (2021). Fiber bundles in physics. http://ncatlab.org/nlab/show/fiber%20bundles%20in%20physics
 Noether, E. (1918). Invariante variationsprobleme. *Nachrichten von der Gesellschaft der Wissenschaften zu G{\"o}ttingen, Mathematisch-Physikalische Klasse*, 235--257. https://www.tandfonline.com/doi/abs/10.1080/00411457108231446
+Norton, J.D. (1993). General covariance and the foundations of general relativity: Eight decades of dispute. *Reports on Progress in Physics*, 56, 791--858. https://web.archive.org/web/20171124074404/http://www.pitt.edu/~jdnorton/papers/decades.pdf
 Ohanian, H.C. (1986). What is spin? *American Journal of Physics*, 54, 500.
 O'Raifeartaigh, L. (1997). *The Dawning of Gauge Theory*. Princeton University Press.
 Ostrik, V. (2004). Tensor categories (after Deligne). https://arxiv.org/abs/math/0401347
