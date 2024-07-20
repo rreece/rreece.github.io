@@ -141,6 +141,8 @@ Implementation and study of:
 -   Modern Portfolio Theory (AKA the "Markowitz portfolio") and its variants
 -   Counterfactual Regret Minimization (CFR) and its variants
 
+![Figure 5: Markowitz portfolio analysis (left). Solving Leduc poker with CFR (right).](img/markowitz-and-cfr.png){#fig:markowitz-and-cfr}
+
 Not open sourced, but feel free to ask me about them.
 
 

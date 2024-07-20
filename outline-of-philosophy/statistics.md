@@ -2509,12 +2509,17 @@ $$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma
 -   [HEPML-LivingReview: A Living Review of Machine Learning for Particle Physics](https://iml-wg.github.io/HEPML-LivingReview/)
 -   Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. [^Spears2018]
 -   Cranmer, K., Seljak, U., & Terao, K. (2021). Machine learning (Review in the [PDG](https://pdg.lbl.gov/2021-rev/2021/reviews/contents_sports.html)). [^Cranmer2021]
+-   Liu, Z. et al. (2024). [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756). [^Liu2024]
+    -   [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan)
+    -   [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan)
+    -   [JianpanHuang/KAN](https://github.com/JianpanHuang/KAN)
 
 See also:
 
 -   [Surrogate models](statistics.html#surrogate-models)
 
 [^Cranmer2021]: @Cranmer_2021_Machine_learning\.
+[^Liu2024]: HERE
 [^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.
 
 
