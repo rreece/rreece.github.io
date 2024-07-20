@@ -20,10 +20,13 @@ Risk
 ### Limits to growth
 
 -   [*The Limits to Growth* (1972)](https://en.wikipedia.org/wiki/The_Limits_to_Growth)
+-   O'Neill, G.K. (1974). [The colonization of space](https://pubs.aip.org/physicstoday/article/27/9/32/429507/The-colonization-of-spaceCareful-engineering-and). [^ONeill1974]
 
 See also:
 
 -   [Ecology](ethics.html#ecology) in the [Outline on Ethics](ethics.html).
+
+[^ONeill1974]: @ONeill_1974_The_colonization_of_space\.
 
 
 ### Existential threats
@@ -152,8 +155,10 @@ See also:
 >   context-appropriate prose, which would drown out all other speech and be impossible to filter. [^Vincent2019]
 
 -   Gabriel, I. et al. (DeepMind). (2024). [The ethics of advanced AI assistants](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/ethics-of-advanced-ai-assistants/the-ethics-of-advanced-ai-assistants-2024-i.pdf). [^Gabriel2024]
+-   Longpre, S. (2024). [Consent in crisis: The rapid decline of the AI data commons](https://www.dataprovenance.org/Consent_in_Crisis.pdf). [^Longpre2024]
 
 [^Gabriel2024]: @Gabriel_2024_The_ethics_of_advanced_AI_assistants\.
+[^Longpre2024]: @Longpre_2024_Consent_in_crisis_The_rapid_decline_of_the_AI\.
 [^Vincent2019]: @Vincent_2019_OpenAIs_new_multitalented_AI_writes_translates\.
 
 

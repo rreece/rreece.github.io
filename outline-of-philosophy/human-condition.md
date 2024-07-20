@@ -2303,7 +2303,7 @@ _Psychology_
 -   Requests for a response to the presumed implication of nihilism.
 -   Failures of secularization; how discussion of some deep issues is popularly dominated by religion.
 -   Spencer, N. & Waite, H. (2022). [Science and Religion: Moving away from the shallow end](https://www.theosthinktank.co.uk/cmsfiles/Science-and-Religion-Moving-away-from-the-shallow-end_REPORT.pdf).
--   Hirsi Ali, Ayaan. (2023). [Why I am no a Christian](https://unherd.com/2023/11/why-i-am-now-a-christian/).
+-   Hirsi Ali, Ayaan. (2023). [Why I am now a Christian](https://unherd.com/2023/11/why-i-am-now-a-christian/).
 
 
 Existentialism
