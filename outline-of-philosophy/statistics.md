@@ -2017,6 +2017,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
     -   Zhao, W.X. et al. (2023). [A survey of large language models](https://arxiv.org/abs/2303.18223). [^Zhao2023]
     -   3Blue1Brown. (2024). Video: [But what is a GPT? Visual intro to Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M).
     -   Golovneva, O., Wang, T., Weston, J., & Sukhbaatar, S. (2024). [Contextual position encoding: Learning to count what's important](https://arxiv.org/abs/2405.18719). [^Golovneva2024]
+    -   Apple. (2024). [Apple Intelligence Foundation Language Models](https://machinelearning.apple.com/papers/apple_intelligence_foundation_language_models.pdf).
 
 [^Bertsch2023]: @Bertsch_2023_Unlimiformer_Long_range_transformers\.
 [^Brown2020GPT3]: @Brown_2020_Language_models_are_few_shot_learners\.
