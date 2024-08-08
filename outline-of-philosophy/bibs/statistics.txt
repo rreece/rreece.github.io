@@ -305,6 +305,7 @@ Opper, M. (2001). Learning to generalize. *Frontiers of Life*, 3, 763-775.
 Opper, M. & Kinzel, W. (1996). Statistical mechanics of generalization. In *Models of Neural Networks III: Association, Generalization, and Representation* (pp. 151--209). Springer New York. https://gwern.net/doc/ai/nn/1996-opper.pdf
 Otsuka, J. (2023). *Thinking About Statistics: The Philosophical Foundations*. Routledge.
 Ouyang, L. et al. (2022). Training language models to follow instructions with human feedback. https://arxiv.org/abs/2203.02155
+Pandey, R. (2024). gzip predicts data-dependent scaling laws. https://arxiv.org/abs/2405.16684
 Park, N. & Kim, S. (2022). How do vision transformers work? https://arxiv.org/abs/2202.06709
 Patel, R. & Pavlick, E. (2022). Mapping language models to grounded conceptual spaces. *International Conference on Learning Representations*, 2022. https://openreview.net/pdf?id=gJcEM8sxHK
 Pearl, J. (2009). Causal inference in statistics: An overview. *Statistics Surveys*, 3, 96--146. https://projecteuclid.org/journals/statistics-surveys/volume-3/issue-none/Causal-inference-in-statistics-An-overview/10.1214/09-SS057.pdf
