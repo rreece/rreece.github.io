@@ -2568,7 +2568,7 @@ See also:
 -   [Surrogate models](statistics.html#surrogate-models)
 
 [^Cranmer2021]: @Cranmer_2021_Machine_learning\.
-[^Liu2024]: HERE
+[^Liu2024]: @Liu_2024_KAN_Kolmogorov_Arnold_Networks\.
 [^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.
 
 
@@ -2858,6 +2858,7 @@ Lectures:
         -   Video: [Discussion by Yannic Kilcher](https://www.youtube.com/watch?v=LMb5tvW-UoQ)
     -   Liu, Z., Madhavan, V., & Tegmark, M. (2022). [AI Poincare 2.0: Machine learning conservation laws from differential equations](https://arxiv.org/abs/2203.12610). [^Liu2022] 
     -   Cranmer, M. (2024). Video of seminar: [The next great scientific theory is hiding inside a neural network](https://www.youtube.com/watch?v=fk2r8y5TfNY).
+    -   Lu, C. et al. (2024). [The AI Scientist: Towards fully automated open-ended scientific discovery](https://arxiv.org/abs/2408.06292). [^Lu2024]
 
 ![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis. [^Asch2018fig]](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
 
@@ -2873,6 +2874,7 @@ See also:
 [^DAgnolo2019]: @DAgnolo_2019_Learning_New_Physics_from_a_Machine\.
 [^Krenn2022]: @Krenn_2022_On_scientific_understanding_with_artificial\.
 [^Liu2022]: @Liu_2022_AI_Poincare_2_Machine_learning_conservation_laws\.
+[^Lu2024]: @Lu_2024_The_AI_Scientist_Towards_fully_automated_open\.
 [^Udrescu2020]: @Udrescu_2020_Symbolic_pregression_Discovering_physical_laws\.
 
 
