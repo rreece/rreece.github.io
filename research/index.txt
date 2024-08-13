@@ -67,7 +67,7 @@ and several more physics [conference proceedings](../publications/index.html#atl
 
 [![Figure 3: Search for $Z^{\prime}$ &rarr; $\tau\tau$ with ATLAS ([1608.00890](https://arxiv.org/abs/1608.00890)).](img/Ztautau_mTtot_limit.png){#fig:Ztautau_mTtot_limit}](img/Ztautau_mTtot_limit.png)
 
-Figure 3: Search for $Z^{\prime}$ &rarr; $\tau\tau$ with ATLAS ([1608.00890
+Figure 3: Search for $Z^{\prime}$ &rarr; $\tau\tau$ with ATLAS ([1608.00890](https://arxiv.org/abs/1608.00890)).
 
 I have extensive experience in Neyman-Pearson statistical hypothesis testing,
 including the modeling of systematic uncertainties,
