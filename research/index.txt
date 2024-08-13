@@ -15,6 +15,8 @@
 
 [![Figure 1: A display of likely a $pp$ &rarr; $tt$ &rarr; $bb\mu\tau$ event in ATLAS in 2011.](img/ATLAS-ttbar-tau.png){#fig:ATLAS-ttbar-tau}](img/ATLAS-ttbar-tau.png)
 
+Figure 1: A display of likely a $pp$ &rarr; $tt$ &rarr; $bb\mu\tau$ event in ATLAS in 2011.
+
 ### Research history
 
 #### ATLAS
@@ -46,6 +48,8 @@ and about how technologies extend our reach.
 
 [![Figure 2: A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.](img/atlas-data-flow.png "Experiment &rarr; data acquisition &rarr; reconstruction &rarr; analysis &rarr; inference"){#fig:atlas-data-flow}](img/atlas-data-flow.png)
 
+Figure 2: A figure I drew with [Kyle Cranmer](http://theoryandpractice.org/) of the big-picture of the flow of ATLAS data.
+
 Many theories of physics beyond the Standard Model have revolutionary
 implications for the concepts of symmetry and space-time, and
 for our understanding of the early universe.
@@ -62,6 +66,8 @@ contributions to [14 publications in scientific journals](../publications/index.
 and several more physics [conference proceedings](../publications/index.html#atlas-conference-notes-proceedings-other-public-documents).
 
 [![Figure 3: Search for $Z^{\prime}$ &rarr; $\tau\tau$ with ATLAS ([1608.00890](https://arxiv.org/abs/1608.00890)).](img/Ztautau_mTtot_limit.png){#fig:Ztautau_mTtot_limit}](img/Ztautau_mTtot_limit.png)
+
+Figure 3: Search for $Z^{\prime}$ &rarr; $\tau\tau$ with ATLAS ([1608.00890
 
 I have extensive experience in Neyman-Pearson statistical hypothesis testing,
 including the modeling of systematic uncertainties,
@@ -103,6 +109,8 @@ for training deep neural networks with small batch sizes
 
 [![Figure 4: Training ResNet-50 on ImageNet-1k with [Online Normalization](https://github.com/Cerebras/online-normalization) (ON) and Batch Normalization (BN) ([*NeurIPS 2019*](https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html), [1905.05894](https://arxiv.org/abs/1905.05894)).](img/online-norm-resnet50.png){#fig:online-norm-resnet50}](img/online-norm-resnet50.png)
 
+Figure 4: Training ResNet-50 on ImageNet-1k with [Online Normalization](https://github.com/Cerebras/online-normalization) (ON) and Batch Normalization (BN) ([*NeurIPS 2019*](https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html), [1905.05894](https://arxiv.org/abs/1905.05894)).
+
 I developed and supported several reference models for Cerebras in
 computer vision (ResNets) and NLP (GNMT, Transformer, Linformer, BERT, RoBERTa, GPT-2).
 [Cerebras revealed](https://www.cerebras.net/a-successful-week-for-cerebras-at-supercomputing-2019/)
@@ -143,6 +151,8 @@ Implementation and study of:
 -   Counterfactual Regret Minimization (CFR) and its variants
 
 [![Figure 5: Markowitz portfolio analysis (left). Solving Kuhn and Leduc, simplified versions of poker, with CFR (right).](img/markowitz-and-cfr.png){#fig:markowitz-and-cfr}](img/markowitz-and-cfr.png)
+
+Figure 5: Markowitz portfolio analysis (left). Solving Kuhn and Leduc, simplified versions of poker, with CFR (right).
 
 Not open sourced, but feel free to ask me about them.
 
@@ -204,3 +214,4 @@ and searching for new physics in high-mass ditau events.
 -   [<i class="far fa-save" style="font-size:20px;"></i>&nbsp;&nbsp;&nbsp;software](../sw/)
 -   [<i class="far fa-sticky-note" style="font-size:20px;"></i>&nbsp;&nbsp;&nbsp;talks](../talks/)
 </div>
+
