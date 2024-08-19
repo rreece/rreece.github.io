@@ -2924,6 +2924,7 @@ See also:
 -   Piantadosi, S. (2023). Talk: [Meaning in the age of large language models](https://www.youtube.com/watch?v=lA19zXgObKA).
 -   Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). [The platonic representation hypothesis](https://arxiv.org/abs/2405.07987). [^Huh2024]
 -   Musser, G. (2024). [Can an emerging field called neural systems understanding explain the brain](https://www.thetransmitter.org/neural-networks/can-an-emerging-field-called-neural-systems-understanding-explain-the-brain/)
+-   Jamali, M. et al. (2024). [Semantic encoding during language comprehension at single-cell resolution](https://www.nature.com/articles/s41586-024-07643-2). [^Jamali2024]
 
 Wittgenstein in *PI*:
 
@@ -2952,6 +2953,7 @@ See also:
 -   [Ordinary language philosophy](scientific-realism.html#ordinary-language-philosophy)
 
 [^Huh2024]: @Huh_2024_The_platonic_representation_hypothesis\.
+[^Jamali2024]: @Jamali_2024_Semantic_encoding_during_language_comprehension_at\.
 [^Lovering2022]: @Lovering_2022_Unit_testing_for_concepts_in_neural_networks\.
 [^Nissim2019]: @Nissim_2019_Fair_is_better_than_sensational_Man_is_to_doctor\.
 [^Patel2022]: @Patel_2022_Mapping_language_models_to_grounded_conceptual\.

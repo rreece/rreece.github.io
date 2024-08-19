@@ -952,6 +952,7 @@ Online Suttas:
         -   [D&omacr;gen](https://en.wikipedia.org/wiki/D%C5%8Dgen) (1200-1253)
         -   Three largest sects of Zen: [S&omacr;t&omacr;](https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D),
             [Rinzai](https://en.wikipedia.org/wiki/Rinzai_school), and [&Omacr;baku](https://en.wikipedia.org/wiki/%C5%8Cbaku)
+        -   [Nichiren Buddhism](https://en.wikipedia.org/wiki/Nichiren_Buddhism)
         -   [Zazen](https://en.wikipedia.org/wiki/Zazen) - seated meditation 
         -   [K&omacr;an](https://en.wikipedia.org/wiki/Koan) - a short story designed to provoke enlightenment
         -   [Japanese tea ceremony](https://en.wikipedia.org/wiki/Japanese_tea_ceremony)
