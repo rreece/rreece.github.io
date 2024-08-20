@@ -2562,12 +2562,14 @@ $$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma
     -   [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan)
     -   [Blealtan/efficient-kan](https://github.com/Blealtan/efficient-kan)
     -   [JianpanHuang/KAN](https://github.com/JianpanHuang/KAN)
+-   Jiao, L. et al. (2024). [AI meets physics: A comprehensive survey](https://doi.org/10.1007/s10462-024-10874-4). [^Jiao2024]
 
 See also:
 
 -   [Surrogate models](statistics.html#surrogate-models)
 
 [^Cranmer2021]: @Cranmer_2021_Machine_learning\.
+[^Jiao2024]: @Jiao_2024_AI_meets_physics_A_comprehensive_survey\.
 [^Liu2024]: @Liu_2024_KAN_Kolmogorov_Arnold_Networks\.
 [^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.
 
