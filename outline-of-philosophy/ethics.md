@@ -1012,6 +1012,10 @@ Ecology
 -   Convivialism
     -   Convivialist International. (2020). [The second convivialist manifesto: Towards a post-neoliberal world](https://online.ucpress.edu/cs/article/1/1/12721/112920/THE-SECOND-CONVIVIALIST-MANIFESTO-Towards-a-Post). [^Convivialist2020]
 
+See also:
+
+-   [Limits to growth](future.html#limits-to-growth) in the [Outline on Futures Studies](future.html)
+
 [^Convivialist2020]: @Convivialist_2020_The_second_convivialist_manifesto_Towards_a_post\.
 
 

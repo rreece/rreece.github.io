@@ -24,7 +24,7 @@ Risk
 
 See also:
 
--   [Ecology](ethics.html#ecology) in the [Outline on Ethics](ethics.html).
+-   [Ecology](ethics.html#ecology) in the [Outline on Ethics](ethics.html)
 
 [^ONeill1974]: @ONeill_1974_The_colonization_of_space\.
 
@@ -73,7 +73,7 @@ Technological growth
 See also:
 
 -   [Industrial Revolution](human-condition.html#industrial-revolution)
-    in the [Outline on the human condition](human-condition.html).
+    in the [Outline on the human condition](human-condition.html)
 -   [Artificial intelligence](future.html#artificial-intelligence)
 
 [^Feynman1959]: @Feynman_1959_Theres_plenty_of_room_at_the_bottom\.
@@ -132,7 +132,7 @@ Artificial intelligence
 See also:
 
 -   [Deep learning](statistics.html#deep-learning)
-    in the [Outline on the philosophy of statistics](statistics.html).
+    in the [Outline on the philosophy of statistics](statistics.html)
 -   [Artificial intelligence and mind](mind.html#artificial-intelligence-and-mind)
 
 [^Armstrong2014]: @Armstrong_2014_The_errors_insights_and_lessons_of_famous_AI\.
