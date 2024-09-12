@@ -19,6 +19,7 @@ Bahri, Y., Kadmon, J., Pennington, J., Schoenholz, S.S., Sohl-Dickstein, J., & G
 Balasubramanian, V. (1996). A geometric formulation of Occam's razor for inference of parametric distributions. https://arxiv.org/abs/adap-org/9601001
 Balasubramanian, V. (1996). Statistical inference, Occam's razor and statistical mechanics on the space of probability distributions. https://arxiv.org/abs/cond-mat/9601030
 Balestriero, R., Pesenti, J., & LeCun, Y. (2021). Learning in high dimension always amounts to extrapolation. https://arxiv.org/abs/2110.09485
+Banerjee, S., Agarwal, A., & Singla, S. (2024). LLMs will always hallucinate, and we need to live with this. https://arxiv.org/abs/2409.05746
 Batson, J., Haaf, C.G., Kahn, Y., & Roberts, D.A. (2021). Topological obstructions to autoencoding. https://arxiv.org/abs/2102.08380
 Battiloro, C. et al. (2024). E(n) equivariant topological neural networks. https://arxiv.org/abs/2405.15429
 Baydin, A.G. et al. (2019). Etalumis: Bringing probabilistic programming to scientific simulators at scale. https://arxiv.org/abs/1907.03382
@@ -123,6 +124,7 @@ Dosovitskiy, A. et al. (2020). An image is worth 16x16 words: Transformers for i
 Edelman, B.L., Goel, S., Kakade, S., & Zhang, C. (2021). Inductive biases and variable creation in self-attention mechanisms. https://arxiv.org/abs/2110.10090
 Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.
 Efron, B. & Hastie, T. (2016). *Computer Age Statistical Inference: Algorithms, evidence, and data science*. Cambridge University Press.
+Elhage, N. et al. (2022). Toy models of superposition. https://transformer-circuits.pub/2022/toy_model/index.html
 Evans, M. (2013). What does the proof of Birnbaum's theorem prove? https://arxiv.org/abs/1302.5468
 Fang, Z. et al. (2022). Is out-of-distribution detection learnable? *NeurIPS 2022*. https://arxiv.org/abs/2210.14707
 Fefferman, C., Mitter, S., & Narayanan, H. (2016). Testing the manifold hypothesis. *Journal of the American Mathematical Society*, 29, 983--1049. https://www.ams.org/journals/jams/2016-29-04/S0894-0347-2016-00852-4/S0894-0347-2016-00852-4.pdf

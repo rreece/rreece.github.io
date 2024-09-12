@@ -2078,7 +2078,9 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 -   Ma, X. et al. (2024). [Megalodon: Efficient LLM pretraining and inference with unlimited context length](https://arxiv.org/abs/2404.08801). [^MaX2024]
 -   Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). [What's the magic word? A control theory of LLM prompting](https://arxiv.org/abs/2310.04444). [^Bhargava2023]
 -   Dao, T. & Gu, A. (2024). [Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality](https://arxiv.org/abs/2405.21060). [^Dao2024]
+-   Banerjee, S., Agarwal, A., & Singla, S. (2024). [LLMs will always hallucinate, and we need to live with this](https://arxiv.org/abs/2409.05746). [^Banerjee2024]
 
+[^Banerjee2024]: @Banerjee_2024_LLMs_will_always_hallucinate_and_we_need_to_live\.
 [^Bhargava2023]: @Bhargava_2023_Whats_the_magic_word\.
 [^Bulatov2022]: @Bulatov_2022_Recurrent_memory_transformer\.
 [^Bulatov2023]: @Bulatov_2023_Scaling_transformer_to_1M_tokens_and_beyond\.
@@ -2919,6 +2921,7 @@ See also:
 -   Nissim, M., van Noord, R., & van der Goot, R. (2019). Fair is better than sensational: Man is to doctor as woman is to doctor. [^Nissim2019]
 -   Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. [^Skelac2020]
 -   Boccelli, D. (2022). [Word embeddings align with Kandinsky’s theory of color](https://towardsdatascience.com/word-embeddings-align-with-kandinskys-theory-of-color-26288b864834).
+-   Elhage, N. et al. (2022). [Toy models of superposition](https://transformer-circuits.pub/2022/toy_model/index.html). [^Elhage2022]
 -   Patel, R. & Pavlick, E. (2022). [Mapping language models to grounded conceptual spaces](https://openreview.net/pdf?id=gJcEM8sxHK). [^Patel2022]
 -   Lovering, C. & Pavlick, E. (2022). [Unit testing for concepts in neural networks](https://aclanthology.org/2022.tacl-1.69/). [^Lovering2022]
 -   [Tweet by Joscha Bach, Mar 25, 2023](https://twitter.com/Plinz/status/1639629419881873410)
@@ -2956,6 +2959,7 @@ See also:
 
 [^Huh2024]: @Huh_2024_The_platonic_representation_hypothesis\.
 [^Jamali2024]: @Jamali_2024_Semantic_encoding_during_language_comprehension_at\.
+[^Elhage2022]: @Elhage_2022_Toy_models_of_superposition\.
 [^Lovering2022]: @Lovering_2022_Unit_testing_for_concepts_in_neural_networks\.
 [^Nissim2019]: @Nissim_2019_Fair_is_better_than_sensational_Man_is_to_doctor\.
 [^Patel2022]: @Patel_2022_Mapping_language_models_to_grounded_conceptual\.
