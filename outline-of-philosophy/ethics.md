@@ -636,11 +636,14 @@ Economics
     -   Mantegna, R.N. (1998). [Hierarchical structure in financial markets](https://arxiv.org/abs/cond-mat/9802256). [^Mantegna1998]
     -   Onnela, J.P., Chakraborti, A., Kaski, K., Kertesz, J., & Kanto, A. (2003). [Dynamics of market correlations: Taxonomy and portfolio analysis](http://arXiv.org/abs/cond-mat/0302546v1). [^Onnela2003]
     -   Onnela, J.P., Kaski, K., & Kert&eacute;sz, J. (2004). Clustering and information in correlation based financial networks. [^Onnela2004]
+-   Hierarchical Risk Parity (HRP)
+    -   L&oacute;pez de Prado, M. (2016). [Building diversified portfolios that outperform out-of-sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678). *Journal of Portfolio Management*. [^LopezDePrado2016]
     -   L&oacute;pez de Prado, M. (2018). *Advances in Financial Machine Learning*. [^LopezDePrado2018]
 -   TODO: maybe move this to statistics?
 
 [^Coqueret2014]: @Coqueret_2014_Estimating_covariance_matrices_for_portfolio\.
 [^Ledoit2001]: @Ledoit_2001_Honey_I_shrunk_the_sample_covariance_matrix\.
+[^LopezDePrado2016]: @Lopez_2016_Building_diversified_portfolios_that_outperform\.
 [^LopezDePrado2018]: @Lopez_2018_Advances_in_Financial_Machine_Learning\.
 [^Ledoit2003]: @Ledoit_2003_Improved_estimation_of_the_covariance_matrix\.
 [^Mantegna1998]: @Mantegna_1998_Hierarchical_structure_in_financial_markets\.
@@ -756,6 +759,12 @@ $$ T_i = \frac{ r_i - r_f }{ \beta_i }  \label{eq:treynor_ratio} $$
 [^Karatzas1986]: @Karatzas_1986_Explicit_solution_of_a_general\.
 [^Merton1969]: @Merton_1969_Lifetime_portfolio_selection_under_uncertainty\.
 [^Rockafellar2000]: @Rockafellar_2000_Optimization_of_conditional_value_at_risk\.
+
+
+### Black-Litterman model
+
+-   Black, F. & Litterman, R. B. (1991). Asset allocation. *The Journal of Fixed Income*, 1, 7--18.
+-   Black, F. & Litterman, R. (1992). Global portfolio optimization. *Financial Analysts Journal*, 48, 28--43.
 
 
 ### Fama-French model

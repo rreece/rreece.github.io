@@ -20,6 +20,7 @@ Merton, R.C. (1972). An analytic derivation of the efficient portfolio frontier.
 Onnela, J.P., Chakraborti, A., Kaski, K., Kertesz, J., & Kanto, A. (2003). Dynamics of market correlations: Taxonomy and portfolio analysis. http://arXiv.org/abs/cond-mat/0302546v1
 Onnela, J.P., Kaski, K., & Kert&eacute;sz, J. (2004). Clustering and information in correlation based financial networks. *European Physical Journal B*, 38, 353--362.
 Owen, J. & Rabinovitch, R. (1983). On the class of elliptical distributions and their applications to the theory of portfolio choice. *Journal of Finance*, 38, 745--752.
+L{\'o}pez de Prado, M. (2016). Building diversified portfolios that outperform out-of-sample. *Journal of Portfolio Management*. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678
 L{\'o}pez de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley.
 Rockafellar, R.T. & Uryasev, S. (2000). Optimization of conditional value-at-risk. *Journal of Risk*, 2, 21--42. https://sites.math.washington.edu/~rtr/papers/rtr179-CVaR1.pdf
 Rom, B.M. & Ferguson, K. (1993). Post-modern portfolio theory comes of age. *Journal of Investing*. [Winter 1993]
