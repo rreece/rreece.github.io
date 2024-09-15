@@ -636,15 +636,11 @@ Economics
     -   Mantegna, R.N. (1998). [Hierarchical structure in financial markets](https://arxiv.org/abs/cond-mat/9802256). [^Mantegna1998]
     -   Onnela, J.P., Chakraborti, A., Kaski, K., Kertesz, J., & Kanto, A. (2003). [Dynamics of market correlations: Taxonomy and portfolio analysis](http://arXiv.org/abs/cond-mat/0302546v1). [^Onnela2003]
     -   Onnela, J.P., Kaski, K., & Kert&eacute;sz, J. (2004). Clustering and information in correlation based financial networks. [^Onnela2004]
--   Hierarchical Risk Parity (HRP)
-    -   L&oacute;pez de Prado, M. (2016). [Building diversified portfolios that outperform out-of-sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678). *Journal of Portfolio Management*. [^LopezDePrado2016]
-    -   L&oacute;pez de Prado, M. (2018). *Advances in Financial Machine Learning*. [^LopezDePrado2018]
+    -   See Hierarchical Risk Parity (HRP)
 -   TODO: maybe move this to statistics?
 
 [^Coqueret2014]: @Coqueret_2014_Estimating_covariance_matrices_for_portfolio\.
 [^Ledoit2001]: @Ledoit_2001_Honey_I_shrunk_the_sample_covariance_matrix\.
-[^LopezDePrado2016]: @Lopez_2016_Building_diversified_portfolios_that_outperform\.
-[^LopezDePrado2018]: @Lopez_2018_Advances_in_Financial_Machine_Learning\.
 [^Ledoit2003]: @Ledoit_2003_Improved_estimation_of_the_covariance_matrix\.
 [^Mantegna1998]: @Mantegna_1998_Hierarchical_structure_in_financial_markets\.
 [^Onnela2003]: @Onnela_2003_Dynamics_of_market_correlations_Taxonomy\.
@@ -790,6 +786,22 @@ $$ \mathrm{TSD}(r_i, r_t) = \sqrt{\mathrm{TSV}(r_i, r_t)}  \label{eq:target_semi
 [^Elton2014]: @Elton_2014_Modern_Portfolio_Theory_and_Investment_Analysis\.
 [^Rom1993]: @Rom_1993_Post_modern_portfolio_theory_comes_of_age\.
 [^Sortino2010]: @Sortino_2010_The_Sortino_Framework_for_Constructing_Portfolios\.
+
+
+### Hierarchical Risk Parity
+
+-   Hierarchical Risk Parity (HRP)
+-   L&oacute;pez de Prado, M. (2016). [Building diversified portfolios that outperform out-of-sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678). *Journal of Portfolio Management*. [^LopezDePrado2016]
+-   L&oacute;pez de Prado, M. (2018). *Advances in Financial Machine Learning*. [^LopezDePrado2018]
+-   Lohre, H., Rother, C., & Sch&auml;fer, K.A. (2020). Hierarchical Risk Parity: Accounting for Tail Dependencies in Multi-Asset Multi-Factor Allocations. [^Lohre2020]
+-   Blogs:
+    -   [hudsonthames.org](https://hudsonthames.org/an-introduction-to-the-hierarchical-risk-parity-algorithm/).
+    -   [quantpedia.com](https://quantpedia.com/hierarchical-risk-parity/).
+    -   [developer.nvidia.com](https://developer.nvidia.com/blog/hierarchical-risk-parity-on-rapids-an-ml-approach-to-portfolio-allocation/).
+
+[^Lohre2020]: @Lohre_2020_Hierarchical_Risk_Parity_Accounting_for_Tail\.
+[^LopezDePrado2016]: @Lopez_2016_Building_diversified_portfolios_that_outperform\.
+[^LopezDePrado2018]: @Lopez_2018_Advances_in_Financial_Machine_Learning\.
 
 
 ### Misc
