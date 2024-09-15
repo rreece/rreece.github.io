@@ -793,7 +793,7 @@ $$ \mathrm{TSD}(r_i, r_t) = \sqrt{\mathrm{TSV}(r_i, r_t)}  \label{eq:target_semi
 -   Hierarchical Risk Parity (HRP)
 -   L&oacute;pez de Prado, M. (2016). [Building diversified portfolios that outperform out-of-sample](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2708678). *Journal of Portfolio Management*. [^LopezDePrado2016]
 -   L&oacute;pez de Prado, M. (2018). *Advances in Financial Machine Learning*. [^LopezDePrado2018]
--   Lohre, H., Rother, C., & Sch&auml;fer, K.A. (2020). Hierarchical Risk Parity: Accounting for Tail Dependencies in Multi-Asset Multi-Factor Allocations. [^Lohre2020]
+-   Lohre, H., Rother, C., & Sch&auml;fer, K.A. (2020). Hierarchical Risk Parity: Accounting for tail dependencies in multi-asset multi-factor allocations. [^Lohre2020]
 -   Blogs:
     -   [hudsonthames.org](https://hudsonthames.org/an-introduction-to-the-hierarchical-risk-parity-algorithm/)
     -   [quantpedia.com](https://quantpedia.com/hierarchical-risk-parity/)

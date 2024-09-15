@@ -10,7 +10,7 @@ Karatzas, I., Lehoczky, J.P., Sethi, S.P., & Shreve, S.E (1986). Explicit soluti
 Kelly, J.L. (1956). A new interpretation of information rate. *Bell System Technical Journal*, 35, 917--926. https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf
 Ledoit, O. & Wolf, M. (2003). Improved estimation of the covariance matrix of stock returns with an application to portfolio selection. *Journal of Empirical Finance*, 10, 603--621. http://www.ledoit.net/ole2.pdf
 Ledoit, O. & Wolf, M. (2001). Honey, I shrunk the sample covariance matrix. http://www.ledoit.net/honey.pdf
-Lohre, H., Rother, C., & Sch{\"a}fer, K.A. (2020). Hierarchical Risk Parity: Accounting for Tail Dependencies in Multi-Asset Multi-Factor Allocations. In E. Jurczenko (ed.), *Machine Learning and Asset Management* (pp. 332--368). Iste and Wiley.
+Lohre, H., Rother, C., & Sch{\"a}fer, K.A. (2020). Hierarchical Risk Parity: Accounting for tail dependencies in multi-asset multi-factor allocations. In E. Jurczenko (ed.), *Machine Learning and Asset Management* (pp. 332--368). Iste and Wiley.
 Luenberger, D.G. (1998). *Investment Science*. Oxford University Press.
 Mantegna, R.N. (1998). Hierarchical structure in financial markets. https://arxiv.org/abs/cond-mat/9802256
 Markowitz, H.M. (1952). Portfolio selection. *The Journal of Finance*, 7, 77--91. https://www.jstor.org/stable/2975974
