@@ -1,3 +1,5 @@
+Black, F. & Litterman, R. (1991). Asset allocation. *The Journal of Fixed Income*, 1, 7--18.
+Black, F. & Litterman, R. (1992). Global portfolio optimization. *Financial Analysts Journal*, 48, 28--43.
 Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. *Journal of Economic Theory*, 29, 185--201.
 Coqueret, G. & Milhau, V. (2014). Estimating covariance matrices for portfolio optimization. https://web.archive.org/web/20230928050136/https://www.gcoqueret.com/files/Estim_cov.pdf
 Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*, (9th ed.). Wiley. 

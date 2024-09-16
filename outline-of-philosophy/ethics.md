@@ -759,8 +759,11 @@ $$ T_i = \frac{ r_i - r_f }{ \beta_i }  \label{eq:treynor_ratio} $$
 
 ### Black-Litterman model
 
--   Black, F. & Litterman, R. B. (1991). Asset allocation. *The Journal of Fixed Income*, 1, 7--18.
--   Black, F. & Litterman, R. (1992). Global portfolio optimization. *Financial Analysts Journal*, 48, 28--43.
+-   Black, F. & Litterman, R. (1991). Asset allocation.[^Black1991]
+-   Black, F. & Litterman, R. (1992). Global portfolio optimization. [^Black1992]
+
+[^Black1991]: @Black_1991_Asset_allocation\.
+[^Black1992]: @Black_1992_Global_portfolio_optimization\.
 
 
 ### Fama-French model
