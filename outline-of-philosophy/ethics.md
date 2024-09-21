@@ -606,18 +606,23 @@ Economics
 ### Modern portfolio theory
 
 -   [Modern portfolio theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory)
--   [Harry Markowitz](https://en.wikipedia.org/wiki/Harry_Markowitz) (b. 1927)
+-   [Harry Markowitz](https://en.wikipedia.org/wiki/Harry_Markowitz) (1927-2023)
 -   [Markowitz model](https://en.wikipedia.org/wiki/Markowitz_model)
+-   [Rayleigh quotient](https://en.wikipedia.org/wiki/Rayleigh_quotient)
 -   Markowitz, H.M. (1952). Portfolio selection. [^Markowitz1952]
 -   Roy, A.D. (1952). [Safety first and the holding of assets](https://www.jstor.org/stable/1907413). [^Roy1952]
 -   Markowitz, H.M. (1959). *Portfolio Selection: Efficient Diversification of Investments*. [^Markowitz1959]
 -   Merton, R.C. (1972). [An analytic derivation of the efficient portfolio frontier](https://www.jstor.org/stable/2329621). [^Merton1972]
+-   Levy, H. & Markowitz, H.M. (1979). Approximating expected utility by a function of mean and variance. [^Levy1979]
 -   Markowitz, H.M. (1990). Nobel lecture: [Foundations of portfolio theory](https://www.nobelprize.org/uploads/2018/06/markowitz-lecture.pdf).
 -   Markowitz, H.M. (2005). Market efficiency: A theoretical distinction and so what? [^Markowitz2005]
 -   Kwok, Y.K. (2017). Lecture notes: [Fundamentals of Mathematical Finance](https://www.math.hkust.edu.hk/~maykwok/MATH4512.htm).
--   Das, S.R. (2017). [Being mean with variance: Markowitz optimization](https://srdas.github.io/MLBook/PortfolioOptimization.html).
+-   Das, S.R. (2016). [*Data Science: Theories, Models, Algorithms, and Analytics*](http://srdas.github.io/Papers/DSA_Book.pdf). [^Das2016]
+    -   Also: Das, S.R. (2017). [Being mean with variance: Markowitz optimization](https://srdas.github.io/MLBook/PortfolioOptimization.html).
 -   Armerin, F. (2023). Lecture notes: [More on mean-variance analysis](https://people.kth.se/~armerin/FinInsMathRwanda/Lecture10.pdf).
 
+[^Das2016]: @Das_2016_Data_Science_Theories_Models_Algorithms\.
+[^Levy1979]: @Levy_1979_Approximating_expected_utility_by_a_function\.
 [^Markowitz1952]: @Markowitz_1952_Portfolio_selection\.
 [^Markowitz1959]: @Markowitz_1959_Portfolio_Selection_Efficient_Diversification\.
 [^Markowitz2005]: @Markowitz_2005_Market_efficiency_A_theoretical_distinction\.
@@ -655,7 +660,7 @@ Economics
 -   [Linear programming](https://en.wikipedia.org/wiki/Linear_programming)
     -   [George Dantzig](https://en.wikipedia.org/wiki/George_Dantzig) (1914-2005)
 -   [Quadratic programming](https://en.wikipedia.org/wiki/Quadratic_programming)
-    -   Markowitz's  Critical Line Algorithm (CLA)
+    -   Markowitz's  Critical Line Algorithm (CLA) [^Markowitz1956]
     -   No-shorts efficient frontier
     -   [Karush-Kuhn-Tucker (KKT) conditions](https://en.wikipedia.org/wiki/Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions)
     -   Jagannathan, R. & Ma, T. (2003). Risk reduction in large portfolios: Why imposing the wrong constraints helps. [^Jagannathan2003]
@@ -670,6 +675,7 @@ Economics
     -   [scikit-portfolio](https://scikit-portfolio.github.io/scikit-portfolio/)
 
 [^Jagannathan2003]: @Jagannathan_2003_Risk_reduction_in_large_portfolios_Why_imposing\.
+[^Markowitz1956]: @Markowitz_1956_The_optimization_of_a_quadratic_function_subject\.
 
 
 ### Fund theorems
