@@ -237,7 +237,7 @@ See also:
 ### Early Modern Period
 
 -   [Renaissance](https://en.wikipedia.org/wiki/Renaissance)
--   [Leonhard da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) (1452-1519)
+-   [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci) (1452-1519)
 -   [Nicolaus Copernicus](http://en.wikipedia.org/wiki/Copernicus) (1473-1543)
 -   [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) (1546-1601)
 -   [Francis Bacon](http://en.wikipedia.org/wiki/Francis_Bacon) (1561-1626)

@@ -627,16 +627,18 @@ Economics
 
 ### Estimation of covariance matrices
 
+-   [Algorithms for calculating variance](https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance)
 -   [Estimation of covariance matrices](https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices)
 -   [Shrinkage](https://en.wikipedia.org/wiki/Shrinkage_(statistics))
     -   Ledoit, O. & Wolf, M. (2001). [Honey, I shrunk the sample covariance matrix](http://www.ledoit.net/honey.pdf). [^Ledoit2001]
     -   Ledoit, O. & Wolf, M. (2003). [Improved estimation of the covariance matrix of stock returns with an application to portfolio selection](http://www.ledoit.net/ole2.pdf). [^Ledoit2003]
     -   Coqueret, G. & Milhau, V. (2014). [Estimating covariance matrices for portfolio optimization](https://web.archive.org/web/20230928050136/https://www.gcoqueret.com/files/Estim_cov.pdf) [^Coqueret2014]
 -   Covariance estimation and asset trees
+    -   [Stock correlation network](https://en.wikipedia.org/wiki/Stock_correlation_network)
     -   Mantegna, R.N. (1998). [Hierarchical structure in financial markets](https://arxiv.org/abs/cond-mat/9802256). [^Mantegna1998]
     -   Onnela, J.P., Chakraborti, A., Kaski, K., Kertesz, J., & Kanto, A. (2003). [Dynamics of market correlations: Taxonomy and portfolio analysis](http://arXiv.org/abs/cond-mat/0302546v1). [^Onnela2003]
     -   Onnela, J.P., Kaski, K., & Kert&eacute;sz, J. (2004). Clustering and information in correlation based financial networks. [^Onnela2004]
-    -   See Hierarchical Risk Parity (HRP)
+    -   See [Hierarchical Risk Parity](#hierarchical-risk-parity)
 -   TODO: maybe move this to statistics?
 
 [^Coqueret2014]: @Coqueret_2014_Estimating_covariance_matrices_for_portfolio\.
@@ -649,10 +651,11 @@ Economics
 
 ### Convex optimization
 
--   Affine combintations and convex sets
+-   Affine combinations and convex sets
 -   [Linear programming](https://en.wikipedia.org/wiki/Linear_programming)
     -   [George Dantzig](https://en.wikipedia.org/wiki/George_Dantzig) (1914-2005)
 -   [Quadratic programming](https://en.wikipedia.org/wiki/Quadratic_programming)
+    -   Markowitz's  Critical Line Algorithm (CLA)
     -   No-shorts efficient frontier
     -   [Karush-Kuhn-Tucker (KKT) conditions](https://en.wikipedia.org/wiki/Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions)
     -   Jagannathan, R. & Ma, T. (2003). Risk reduction in large portfolios: Why imposing the wrong constraints helps. [^Jagannathan2003]
@@ -664,21 +667,80 @@ Economics
 -   Software:
     -   [CVXPY](https://www.cvxpy.org/)
     -   [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
+    -   [scikit-portfolio](https://scikit-portfolio.github.io/scikit-portfolio/)
+
+[^Jagannathan2003]: @Jagannathan_2003_Risk_reduction_in_large_portfolios_Why_imposing\.
 
 
-### Mutual fund separation theorem
+### Fund theorems
+
+#### Mutual fund separation theorem
 
 -   [Mutual fund separation theorem](https://en.wikipedia.org/wiki/Mutual_fund_separation_theorem)
+-   Cass, D. & Stiglitz, J.E. (1970). The structure of investor preferences and asset returns, and separability in portfolio allocation: A contribution to the pure theory of mutual funds. [^Cass1970]
 -   Chamberlain, G. (1983). A characterization of the distributions that imply mean-variance utility functions. [^Chamberlain1983]
 -   Owen, J. & Rabinovitch, R. (1983). On the class of elliptical distributions and their applications to the theory of portfolio choice. [^Owen1983]
+
+Cass & Stiglitz:
+
+>   [G]iven a market in which there are available $n$
+>   different assets, nonetheless all the opportunities relevant to the investor’s
+>   decision can be provided by a set of $m$ ($< n$) "mutual funds," i.e., a set of
+>   $m$ linear combinations (with weights adding to one) of the available
+>   assets. [^Cass1970p122]
+
+[^Cass1970]: @Cass_1970_The_structure_of_investor_preferences_and_asset\.
+[^Cass1970p122]: @Cass_1970_The_structure_of_investor_preferences_and_asset\, p. 122.
+[^Chamberlain1983]: @Chamberlain_1983_A_characterization_of_the_distributions_that_imply\.
+[^Owen1983]: @Owen_1983_On_the_class_of_elliptical_distributions_and_their\.
+
+
+#### Two-fund theorem
+
+-   No risk-free asset
+-   Merton, R.C. (1972). [An analytic derivation of the efficient portfolio frontier](https://www.jstor.org/stable/2329621). [^Merton1972b]
 -   [Lecture notes by Ken Kasa (SFU)](https://www.sfu.ca/~kkasa/econ815_23.html)
     -   [Lecture 7](https://www.sfu.ca/~kkasa/Econ815_Lecture7.pdf)
--   TODO: the two-fund theorem
--   TODO: the one-fund theorem
 
-[^Chamberlain1983]: @Chamberlain_1983_A_characterization_of_the_distributions_that_imply\.
-[^Jagannathan2003]: @Jagannathan_2003_Risk_reduction_in_large_portfolios_Why_imposing\.
-[^Owen1983]: @Owen_1983_On_the_class_of_elliptical_distributions_and_their\.
+Merton:
+
+>   Given $m$ assets satisfying the conditions [...], there are
+>   two portfolios ("mutual funds") constructed from these $m$ assets,
+>   such that all risk-averse individuals, who choose their portfolios so
+>   so as to maximize utility functions dependent only on the mean and variance
+>   of their portfolios, will be indifferent in choosing
+>   between portfolios from among the original $m$ assets or from these
+>   two funds. [^Merton1972p1858]
+
+Kasa:
+
+>   Any portfolio on the efficient frontier can be written as a linear
+>   combination of two fixed efficient portfolios.
+
+[^Merton1972b]: @Merton_1972_An_analytic_derivation_of_the_efficient_portfolio\.
+[^Merton1972p1858]: @Merton_1972_An_analytic_derivation_of_the_efficient_portfolio\, p. 1858.
+
+
+#### One-fund theorem
+
+-   TODO
+-   Adds a risk-free asset
+-   Related to the efficient-market hypothesis
+
+Kasa:
+
+>   Any portfolio on the efficient frontier can be written as a linear
+>   combination of one fixed efficient non-risk-free portfolio and the risk-free
+asset.
+
+
+### Efficient-market hypothesis
+
+-   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
+-   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
+-   Fama, E. (1970). [Efficient capital markets: A review of theory and empirical work](http://www.e-m-h.org/Fama70.pdf). [^Fama1970]
+
+[^Fama1970]: @Fama_1970_Efficient_capital_markets_A_review_of_theory\.
 
 
 ### Capital Asset Pricing Model
@@ -731,17 +793,39 @@ $$ T_i = \frac{ r_i - r_f }{ \beta_i }  \label{eq:treynor_ratio} $$
 [^Sharpe1999]: @Sharpe_1999_Portfolio_Theory_and_Capital_Markets\.
 
 
-### Efficient-market hypothesis
+### Black-Litterman model
 
--   [Efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis)
--   [Eugene Fama](https://en.wikipedia.org/wiki/Eugene_Fama) (b. 1939)
--   Fama, E. (1970). [Efficient capital markets: A review of theory and empirical work](http://www.e-m-h.org/Fama70.pdf). [^Fama1970]
+-   Black, F. & Litterman, R. (1991). Asset allocation.[^Black1991]
+-   Black, F. & Litterman, R. (1992). Global portfolio optimization. [^Black1992]
 
-[^Fama1970]: @Fama_1970_Efficient_capital_markets_A_review_of_theory\.
+[^Black1991]: @Black_1991_Asset_allocation\.
+[^Black1992]: @Black_1992_Global_portfolio_optimization\.
+
+
+### Factor models
+
+#### Factor analysis
+
+-   [Factor analysis](https://en.wikipedia.org/wiki/Factor_analysis)
+
+
+#### Fama-French model
+
+-   [Fama-French model three-factor model](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
+-   Fama, E.F. & French, K.R. (1992). [The cross-section of expected stock returns](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1992.tb04398.x). [^Fama1992]
+
+[^Fama1992]: @Fama_1992_The_cross_section_of_expected_stock_returns\.
+
+
+#### Carhart four-factor model
+
+-   [Carhart four-factor model](https://en.wikipedia.org/wiki/Carhart_four-factor_model)
+-   TODO
 
 
 ### Consumption/investment problem
 
+-   [Gambler's ruin problem](https://en.wikipedia.org/wiki/Gambler%27s_ruin)
 -   [Kelly criterion](https://en.wikipedia.org/wiki/Kelly_criterion)
     -   Kelly, J.L. (1956). [A new interpretation of information rate](https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf). [^Kelly1956]
 -   Risk preferences
@@ -757,36 +841,25 @@ $$ T_i = \frac{ r_i - r_f }{ \beta_i }  \label{eq:treynor_ratio} $$
 [^Rockafellar2000]: @Rockafellar_2000_Optimization_of_conditional_value_at_risk\.
 
 
-### Black-Litterman model
-
--   Black, F. & Litterman, R. (1991). Asset allocation.[^Black1991]
--   Black, F. & Litterman, R. (1992). Global portfolio optimization. [^Black1992]
-
-[^Black1991]: @Black_1991_Asset_allocation\.
-[^Black1992]: @Black_1992_Global_portfolio_optimization\.
-
-
-### Fama-French model
-
--   [Fama-French model three-factor model](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model)
--   Fama, E.F. & French, K.R. (1992). [The cross-section of expected stock returns](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1992.tb04398.x). [^Fama1992]
-
-[^Fama1992]: @Fama_1992_The_cross_section_of_expected_stock_returns\.
-
-
 ### Postmodern portfolio theory
 
+-   [Post-modern portfolio theory](https://en.wikipedia.org/wiki/Post-modern_portfolio_theory)
 -   [Downside risk](https://en.wikipedia.org/wiki/Downside_risk), semi-variance, semi-deviation, target semi-variance (TSV), target semi-deviation
 
 $$ \mathrm{TSV}(r_i, r_t) = \mathbb{E}\left[ (r_i - r_t)^2 \: \mathbb{1}_{\{r_i < r_t\}} \right]  \label{eq:target_semi_variance} $$
 
 $$ \mathrm{TSD}(r_i, r_t) = \sqrt{\mathrm{TSV}(r_i, r_t)}  \label{eq:target_semi_deviation} $$
 
+-   [Sortino ratio](https://en.wikipedia.org/wiki/Sortino_ratio)
+-   [Low-volatility anomaly](https://en.wikipedia.org/wiki/Low-volatility_anomaly)
 -   Rom, B.M. & Ferguson, K. (1993). Post-modern portfolio theory comes of age. [^Rom1993]
 -   Sortino, F. (2010). *The Sortino Framework for Constructing Portfolios*. [^Sortino2010]
 -   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
+-   Markowitz, H.M., Starer, D., Fram, H., & Gerber, S. (2019). [Avoiding the downside: A practical review of the Critical Line Algorithm for mean-semivariance portfolio optimization](https://www.hudsonbaycapital.com/documents/FG/hudsonbay/research/599440_paper.pdf). [^Markowitz2019]
+-   [Mean-Semivariance frontier](https://scikit-portfolio.github.io/scikit-portfolio/efficient_semivariance/) in [scikit-portfolio](https://scikit-portfolio.github.io/scikit-portfolio/)
 
 [^Elton2014]: @Elton_2014_Modern_Portfolio_Theory_and_Investment_Analysis\.
+[^Markowitz2019]: @Markowitz_2019_Avoiding_the_downside_A_practical_review\.
 [^Rom1993]: @Rom_1993_Post_modern_portfolio_theory_comes_of_age\.
 [^Sortino2010]: @Sortino_2010_The_Sortino_Framework_for_Constructing_Portfolios\.
 
