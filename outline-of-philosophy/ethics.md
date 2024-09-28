@@ -638,9 +638,9 @@ an $m\times{}n$-dimensional constraint matrix, $A$,
 an $m$-dimensional constraint vector, $\vec{b}$,
 and a target return, $r$,
 solve for the portfolio weights, $\vec{w}^{\ast}$, an $n$-dimensional vector,
-that are efficient, *i,e.* those
+that are *efficient*, *i,e.* those
 that minimize the standard deviation of the portfolio return, $\sigma$,
-while satisfying the target return.
+for a given target return.
 Return $(\vec{w}^{\ast}, \sigma^{\ast})$.
 
 $$ \vec{w}^{\ast} = \underset{w}{\mathrm{argmin}}\ \vec{w}^\intercal \, V \, \vec{w} $$
@@ -666,7 +666,7 @@ $$ a \equiv \vec{1}^\intercal \, V^{-1} \, \vec{1}, \qquad  b \equiv \vec{1}^\in
 There are two efficient portfolios of note: the minimum variance portfolio, $\vec{w}_v$,
 and the tangent portfolio, $\vec{w}_t$.
 
-The minimum variance portfolio is
+The *minimum variance portfolio* is
 
 $$ \vec{w}_{v} = \frac{V^{-1} \, \vec{1}}{a} = \frac{V^{-1} \, \vec{1}}{\vec{1}^\intercal \, V^{-1} \, \vec{1}} $$
 
@@ -678,7 +678,7 @@ and a variance
 
 $$ \sigma_{v}^2 = \vec{w}_{v}^\intercal \, V \, \vec{w}_{v} = \left( \frac{\vec{1}^\intercal \, V^{-1}}{a} \right) V \left( \frac{V^{-1} \, \vec{1}}{a} \right) = \frac{\vec{1}^\intercal \, V^{-1} \, \vec{1}}{a^2} = \frac{1}{a} $$
 
-The tangent portfolio is
+The *tangent portfolio* is
 
 $$ \vec{w}_{t} = \frac{V^{-1} \, \vec{\mu}}{b} = \frac{V^{-1} \, \vec{\mu}}{\vec{1}^\intercal \, V^{-1} \, \vec{\mu}} $$
 
@@ -691,6 +691,7 @@ and a variance
 $$ \sigma_{t}^2 = \vec{w}_{t}^\intercal \, V \, \vec{w}_{t} = \left( \frac{\vec{\mu}^\intercal \, V^{-1}}{b} \right) V \left( \frac{V^{-1} \, \vec{\mu}}{b} \right) = \frac{\vec{\mu}^\intercal \, V^{-1} \, \vec{\mu}}{b^2} = \frac{c}{b^2} $$
 
 The efficient frontier can be written as a linear combination of any two efficient portfolios.
+This is discussed in more detail in the section on [Fund theorems](#fund-theorems).
 Written as a combination of the minimum variance and the tangent portfolios gives
 
 $$ \vec{w}_{\ast} = \xi \, \vec{w}_{v} + (1-\xi) \, \vec{w}_{t} $$
@@ -715,7 +716,25 @@ The variance is
 
 $$ \sigma^2_{\ast} = \frac{a}{d} \, r_{\ast}^{2} - \frac{2 \, b}{d} \, r_{\ast} + \frac{c}{d} $$
 
--   No-shorts frontier
+In general, depending on the correlations of the assets, the efficient frontier portfolios will
+short various positions by having negative weights.
+
+If one adds an additional constraint to the Markowitz portfolio problem as stated,
+requiring that we don't short any positions
+
+$$ w_i \geq  0 $$
+
+then the problem doesn't have an analytic solution.
+TODO: Citation needed.
+
+The *No-shorts frontier* can be solved numerically with quadratic programming.
+In general, the no-shorts frontier will follow the unconstrained efficient frontier
+when there isn't any shorting in the efficient portfolios,
+and the no-shorts frontier will pull away from the efficient frontier
+to somewhat lower returns when there is shorting.
+
+Quadratic programming and convex optimization are discussed in more detail
+in the section on [Convex optimization](#convex-optimization).
 
 [^Das2016]: @Das_2016_Data_Science_Theories_Models_Algorithms\.
 [^Levy1979]: @Levy_1979_Approximating_expected_utility_by_a_function\.
@@ -733,7 +752,7 @@ $$ \sigma^2_{\ast} = \frac{a}{d} \, r_{\ast}^{2} - \frac{2 \, b}{d} \, r_{\ast} 
 
 ### Estimation of covariance matrices
 
-This is how do we estimate $V$ (and $\mu$).
+This is how we estimate $V$ (and $\mu$).
 
 -   [Algorithms for calculating variance](https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance)
 -   [Estimation of covariance matrices](https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices)
@@ -748,6 +767,14 @@ This is how do we estimate $V$ (and $\mu$).
     -   Onnela, J.P., Kaski, K., & Kert&eacute;sz, J. (2004). Clustering and information in correlation based financial networks. [^Onnela2004]
     -   See [Hierarchical Risk Parity](#hierarchical-risk-parity)
 -   TODO: maybe move this to statistics?
+
+TODO:
+
+-   Sample mean and covariance
+-   Rolling mean and covariance
+-   Exponential moving mean and covariance
+-   Online mean and covariance
+-   Shrinkage estimators
 
 [^Coqueret2014]: @Coqueret_2014_Estimating_covariance_matrices_for_portfolio\.
 [^Ledoit2001]: @Ledoit_2001_Honey_I_shrunk_the_sample_covariance_matrix\.
@@ -778,6 +805,8 @@ This is how we minimize $\sigma$.
     -   [CVXPY](https://www.cvxpy.org/)
     -   [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt)
     -   [scikit-portfolio](https://scikit-portfolio.github.io/scikit-portfolio/)
+
+TODO: Discuss optimizing the no-shorts frontier.
 
 [^Jagannathan2003]: @Jagannathan_2003_Risk_reduction_in_large_portfolios_Why_imposing\.
 [^Markowitz1956]: @Markowitz_1956_The_optimization_of_a_quadratic_function_subject\.

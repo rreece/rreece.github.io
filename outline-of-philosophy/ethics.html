@@ -664,7 +664,7 @@
 <p>Variance of a portfolio:</p>
 <p><span class="math display">\[ \sigma^2 = \vec{w}^\intercal \, V \, \vec{w} = \sum_{ij} w_{i} \, V_{ij} \, w_{j}  \]</span></p>
 <p>TODO: Show above</p>
-<p>The <em>Markowitz portfolio problem</em>:<a href="#fn60" class="footnote-ref" id="fnref60" role="doc-noteref"><sup>60</sup></a> Given an <span class="math inline">\(n\)</span>-dimensional vector of expected returns, <span class="math inline">\(\vec{\mu}\)</span>, an <span class="math inline">\(n\times{}n\)</span>-dimensional expected covariance matrix, <span class="math inline">\(V\)</span>, an <span class="math inline">\(m\times{}n\)</span>-dimensional constraint matrix, <span class="math inline">\(A\)</span>, an <span class="math inline">\(m\)</span>-dimensional constraint vector, <span class="math inline">\(\vec{b}\)</span>, and a target return, <span class="math inline">\(r\)</span>, solve for the portfolio weights, <span class="math inline">\(\vec{w}^{\ast}\)</span>, an <span class="math inline">\(n\)</span>-dimensional vector, that are efficient, <em>i,e.</em> those that minimize the standard deviation of the portfolio return, <span class="math inline">\(\sigma\)</span>, while satisfying the target return. Return <span class="math inline">\((\vec{w}^{\ast}, \sigma^{\ast})\)</span>.</p>
+<p>The <em>Markowitz portfolio problem</em>:<a href="#fn60" class="footnote-ref" id="fnref60" role="doc-noteref"><sup>60</sup></a> Given an <span class="math inline">\(n\)</span>-dimensional vector of expected returns, <span class="math inline">\(\vec{\mu}\)</span>, an <span class="math inline">\(n\times{}n\)</span>-dimensional expected covariance matrix, <span class="math inline">\(V\)</span>, an <span class="math inline">\(m\times{}n\)</span>-dimensional constraint matrix, <span class="math inline">\(A\)</span>, an <span class="math inline">\(m\)</span>-dimensional constraint vector, <span class="math inline">\(\vec{b}\)</span>, and a target return, <span class="math inline">\(r\)</span>, solve for the portfolio weights, <span class="math inline">\(\vec{w}^{\ast}\)</span>, an <span class="math inline">\(n\)</span>-dimensional vector, that are <em>efficient</em>, <em>i,e.</em> those that minimize the standard deviation of the portfolio return, <span class="math inline">\(\sigma\)</span>, for a given target return. Return <span class="math inline">\((\vec{w}^{\ast}, \sigma^{\ast})\)</span>.</p>
 <p><span class="math display">\[ \vec{w}^{\ast} = \underset{w}{\mathrm{argmin}}\ \vec{w}^\intercal \, V \, \vec{w} \]</span></p>
 <p>such that</p>
 <p><span class="math display">\[ \vec{w}^\intercal \, \vec{1} = \sum_i w_i = 1 \]</span></p>
@@ -679,19 +679,19 @@
 <p>It can be shown<a href="#fn61" class="footnote-ref" id="fnref61" role="doc-noteref"><sup>61</sup></a> that there is an analytic solution where:</p>
 <p><span class="math display">\[ a \equiv \vec{1}^\intercal \, V^{-1} \, \vec{1}, \qquad  b \equiv \vec{1}^\intercal \, V^{-1} \, \vec{\mu}, \qquad c \equiv \vec{\mu}^\intercal \, V^{-1} \, \vec{\mu}, \qquad d \equiv a\,c - b^2 \]</span></p>
 <p>There are two efficient portfolios of note: the minimum variance portfolio, <span class="math inline">\(\vec{w}_v\)</span>, and the tangent portfolio, <span class="math inline">\(\vec{w}_t\)</span>.</p>
-<p>The minimum variance portfolio is</p>
+<p>The <em>minimum variance portfolio</em> is</p>
 <p><span class="math display">\[ \vec{w}_{v} = \frac{V^{-1} \, \vec{1}}{a} = \frac{V^{-1} \, \vec{1}}{\vec{1}^\intercal \, V^{-1} \, \vec{1}} \]</span></p>
 <p>It has a return</p>
 <p><span class="math display">\[ r_{v} = \vec{w}_{v} \cdot \vec{\mu} = \frac{\vec{1}^\intercal \, V^{-1} \, \vec{\mu}}{a} = \frac{b}{a} \]</span></p>
 <p>and a variance</p>
 <p><span class="math display">\[ \sigma_{v}^2 = \vec{w}_{v}^\intercal \, V \, \vec{w}_{v} = \left( \frac{\vec{1}^\intercal \, V^{-1}}{a} \right) V \left( \frac{V^{-1} \, \vec{1}}{a} \right) = \frac{\vec{1}^\intercal \, V^{-1} \, \vec{1}}{a^2} = \frac{1}{a} \]</span></p>
-<p>The tangent portfolio is</p>
+<p>The <em>tangent portfolio</em> is</p>
 <p><span class="math display">\[ \vec{w}_{t} = \frac{V^{-1} \, \vec{\mu}}{b} = \frac{V^{-1} \, \vec{\mu}}{\vec{1}^\intercal \, V^{-1} \, \vec{\mu}} \]</span></p>
 <p>It has a return</p>
 <p><span class="math display">\[ r_{t} = \vec{w}_{t} \cdot \vec{\mu} = \frac{\vec{\mu}^\intercal \, V^{-1} \, \vec{\mu}}{b} = \frac{c}{b} \]</span></p>
 <p>and a variance</p>
 <p><span class="math display">\[ \sigma_{t}^2 = \vec{w}_{t}^\intercal \, V \, \vec{w}_{t} = \left( \frac{\vec{\mu}^\intercal \, V^{-1}}{b} \right) V \left( \frac{V^{-1} \, \vec{\mu}}{b} \right) = \frac{\vec{\mu}^\intercal \, V^{-1} \, \vec{\mu}}{b^2} = \frac{c}{b^2} \]</span></p>
-<p>The efficient frontier can be written as a linear combination of any two efficient portfolios. Written as a combination of the minimum variance and the tangent portfolios gives</p>
+<p>The efficient frontier can be written as a linear combination of any two efficient portfolios. This is discussed in more detail in the section on <a href="#fund-theorems">Fund theorems</a>. Written as a combination of the minimum variance and the tangent portfolios gives</p>
 <p><span class="math display">\[ \vec{w}_{\ast} = \xi \, \vec{w}_{v} + (1-\xi) \, \vec{w}_{t} \]</span></p>
 <p>where</p>
 <p><span class="math display">\[ \xi = (c - b \, r) \, a \, / \, d \]</span></p>
@@ -705,11 +705,14 @@
 <p><span class="math display">\[ r_{\ast} = \xi \, r_{v} + (1-\xi) \, r_{t} \]</span></p>
 <p>The variance is</p>
 <p><span class="math display">\[ \sigma^2_{\ast} = \frac{a}{d} \, r_{\ast}^{2} - \frac{2 \, b}{d} \, r_{\ast} + \frac{c}{d} \]</span></p>
-<ul>
-<li>No-shorts frontier</li>
-</ul>
+<p>In general, depending on the correlations of the assets, the efficient frontier portfolios will short various positions by having negative weights.</p>
+<p>If one adds an additional constraint to the Markowitz portfolio problem as stated, requiring that we don&#x2019;t short any positions</p>
+<p><span class="math display">\[ w_i \geq  0 \]</span></p>
+<p>then the problem doesn&#x2019;t have an analytic solution. TODO: Citation needed.</p>
+<p>The <em>No-shorts frontier</em> can be solved numerically with quadratic programming. In general, the no-shorts frontier will follow the unconstrained efficient frontier when there isn&#x2019;t any shorting in the efficient portfolios, and the no-shorts frontier will pull away from the efficient frontier to somewhat lower returns when there is shorting.</p>
+<p>Quadratic programming and convex optimization are discussed in more detail in the section on <a href="#convex-optimization">Convex optimization</a>.</p>
 <h3 id="estimation-of-covariance-matrices">Estimation of covariance matrices</h3>
-<p>This is how do we estimate <span class="math inline">\(V\)</span> (and <span class="math inline">\(\mu\)</span>).</p>
+<p>This is how we estimate <span class="math inline">\(V\)</span> (and <span class="math inline">\(\mu\)</span>).</p>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance">Algorithms for calculating variance</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices">Estimation of covariance matrices</a></li>
@@ -728,6 +731,14 @@
 <li>See <a href="#hierarchical-risk-parity">Hierarchical Risk Parity</a></li>
 </ul></li>
 <li>TODO: maybe move this to statistics?</li>
+</ul>
+<p>TODO:</p>
+<ul>
+<li>Sample mean and covariance</li>
+<li>Rolling mean and covariance</li>
+<li>Exponential moving mean and covariance</li>
+<li>Online mean and covariance</li>
+<li>Shrinkage estimators</li>
 </ul>
 <h3 id="convex-optimization">Convex optimization</h3>
 <p>This is how we minimize <span class="math inline">\(\sigma\)</span>.</p>
@@ -758,6 +769,7 @@
 <li><a href="https://scikit-portfolio.github.io/scikit-portfolio/">scikit-portfolio</a></li>
 </ul></li>
 </ul>
+<p>TODO: Discuss optimizing the no-shorts frontier.</p>
 <h3 id="fund-theorems">Fund theorems</h3>
 <h4 id="mutual-fund-separation-theorem">Mutual fund separation theorem</h4>
 <ul>
