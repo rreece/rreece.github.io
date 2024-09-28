@@ -621,16 +621,119 @@ Economics
     -   Also: Das, S.R. (2017). [Being mean with variance: Markowitz optimization](https://srdas.github.io/MLBook/PortfolioOptimization.html).
 -   Armerin, F. (2023). Lecture notes: [More on mean-variance analysis](https://people.kth.se/~armerin/FinInsMathRwanda/Lecture10.pdf).
 
+Return of a portfolio:
+
+$$ r = \vec{w}^\intercal \, \vec{r} = \sum_i w_{i} \, r_{i} $$
+
+Variance of a portfolio:
+
+$$ \sigma^2 = \vec{w}^\intercal \, V \, \vec{w} = \sum_{ij} w_{i} \, V_{ij} \, w_{j}  $$
+
+TODO: Show above
+
+The *Markowitz portfolio problem*: [^Markowitz1959p172]
+Given an $n$-dimensional vector of expected returns, $\vec{\mu}$,
+an $n\times{}n$-dimensional expected covariance matrix, $V$,
+an $m\times{}n$-dimensional constraint matrix, $A$,
+an $m$-dimensional constraint vector, $\vec{b}$,
+and a target return, $r$,
+solve for the portfolio weights, $\vec{w}^{\ast}$, an $n$-dimensional vector,
+that are efficient, *i,e.* those
+that minimize the standard deviation of the portfolio return, $\sigma$,
+while satisfying the target return.
+Return $(\vec{w}^{\ast}, \sigma^{\ast})$.
+
+$$ \vec{w}^{\ast} = \underset{w}{\mathrm{argmin}}\ \vec{w}^\intercal \, V \, \vec{w} $$
+
+such that
+
+$$ \vec{w}^\intercal \, \vec{1} = \sum_i w_i = 1 $$
+
+$$ \vec{w}^\intercal \, \vec{\mu} = \sum_i w_i \, \mu_i = r $$
+
+There are a lot of topics to discuss about solving for the efficient frontier:
+
+-   How there is an analytic solution if you allow shorts
+-   Solving with Lagrange multipliers
+-   Solving with numerical convex optimization
+
+TODO: Discuss the above more.
+
+It can be shown [^MertonVariables] that there is an analytic solution where:
+
+$$ a \equiv \vec{1}^\intercal \, V^{-1} \, \vec{1}, \qquad  b \equiv \vec{1}^\intercal \, V^{-1} \, \vec{\mu}, \qquad c \equiv \vec{\mu}^\intercal \, V^{-1} \, \vec{\mu}, \qquad d \equiv a\,c - b^2 $$
+
+There are two efficient portfolios of note: the minimum variance portfolio, $\vec{w}_v$,
+and the tangent portfolio, $\vec{w}_t$.
+
+The minimum variance portfolio is
+
+$$ \vec{w}_{v} = \frac{V^{-1} \, \vec{1}}{a} = \frac{V^{-1} \, \vec{1}}{\vec{1}^\intercal \, V^{-1} \, \vec{1}} $$
+
+It has a return
+
+$$ r_{v} = \vec{w}_{v} \cdot \vec{\mu} = \frac{\vec{1}^\intercal \, V^{-1} \, \vec{\mu}}{a} = \frac{b}{a} $$
+
+and a variance
+
+$$ \sigma_{v}^2 = \vec{w}_{v}^\intercal \, V \, \vec{w}_{v} = \left( \frac{\vec{1}^\intercal \, V^{-1}}{a} \right) V \left( \frac{V^{-1} \, \vec{1}}{a} \right) = \frac{\vec{1}^\intercal \, V^{-1} \, \vec{1}}{a^2} = \frac{1}{a} $$
+
+The tangent portfolio is
+
+$$ \vec{w}_{t} = \frac{V^{-1} \, \vec{\mu}}{b} = \frac{V^{-1} \, \vec{\mu}}{\vec{1}^\intercal \, V^{-1} \, \vec{\mu}} $$
+
+It has a return
+
+$$ r_{t} = \vec{w}_{t} \cdot \vec{\mu} = \frac{\vec{\mu}^\intercal \, V^{-1} \, \vec{\mu}}{b} = \frac{c}{b} $$
+
+and a variance
+
+$$ \sigma_{t}^2 = \vec{w}_{t}^\intercal \, V \, \vec{w}_{t} = \left( \frac{\vec{\mu}^\intercal \, V^{-1}}{b} \right) V \left( \frac{V^{-1} \, \vec{\mu}}{b} \right) = \frac{\vec{\mu}^\intercal \, V^{-1} \, \vec{\mu}}{b^2} = \frac{c}{b^2} $$
+
+The efficient frontier can be written as a linear combination of any two efficient portfolios.
+Written as a combination of the minimum variance and the tangent portfolios gives
+
+$$ \vec{w}_{\ast} = \xi \, \vec{w}_{v} + (1-\xi) \, \vec{w}_{t} $$
+
+where
+
+$$ \xi = (c - b \, r) \, a \, / \, d $$
+
+It's not trivial, but equivalently, the efficient frontier portfolio can be written
+
+\begin{align}
+\vec{w}_{\ast} &= \xi \, \vec{w}_{v} + (1-\xi) \, \vec{w}_{t} \\
+      &= \left( \frac{c - b \, r_{\ast}}{d} \right) a \, \vec{w}_{v} + \left( \frac{a \, r_{\ast} - b}{d} \right) b \, \vec{w}_{t} \\
+      &= \left( \frac{c - b \, r_{\ast}}{d} \right) V^{-1} \, \vec{1} + \left( \frac{a \, r_{\ast} - b}{d} \right) V^{-1} \, \vec{\mu}
+\end{align}
+
+Along the frontier, the return is
+
+$$ r_{\ast} = \xi \, r_{v} + (1-\xi) \, r_{t} $$
+
+The variance is
+
+$$ \sigma^2_{\ast} = \frac{a}{d} \, r_{\ast}^{2} - \frac{2 \, b}{d} \, r_{\ast} + \frac{c}{d} $$
+
+-   No-shorts frontier
+
 [^Das2016]: @Das_2016_Data_Science_Theories_Models_Algorithms\.
 [^Levy1979]: @Levy_1979_Approximating_expected_utility_by_a_function\.
 [^Markowitz1952]: @Markowitz_1952_Portfolio_selection\.
 [^Markowitz1959]: @Markowitz_1959_Portfolio_Selection_Efficient_Diversification\.
+[^Markowitz1959p172]: @Markowitz_1959_Portfolio_Selection_Efficient_Diversification\, p. 172.
 [^Markowitz2005]: @Markowitz_2005_Market_efficiency_A_theoretical_distinction\.
 [^Merton1972]: @Merton_1972_An_analytic_derivation_of_the_efficient_portfolio\.
+[^MertonVariables]: @Merton_1972_An_analytic_derivation_of_the_efficient_portfolio was the first
+    to show there was an analytic solution to the Markowitz portfolio problem?
+    Note that we use variable names following Kwok, whereas to convert from Merton to Kwok:
+    $a_\mathrm{M} = b_\mathrm{K}, b_\mathrm{M} = c_\mathrm{K}, c_\mathrm{M} = a_\mathrm{K}$.
 [^Roy1952]: @Roy_1952_Safety_first_and_the_holding_of_assets\.
 
 
 ### Estimation of covariance matrices
+
+This is how do we estimate $V$ (and $\mu$).
 
 -   [Algorithms for calculating variance](https://en.wikipedia.org/wiki/Algorithms_for_calculating_variance)
 -   [Estimation of covariance matrices](https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices)
@@ -655,6 +758,8 @@ Economics
 
 
 ### Convex optimization
+
+This is how we minimize $\sigma$.
 
 -   Affine combinations and convex sets
 -   [Linear programming](https://en.wikipedia.org/wiki/Linear_programming)
@@ -713,7 +818,7 @@ Merton:
 >   Given $m$ assets satisfying the conditions [...], there are
 >   two portfolios ("mutual funds") constructed from these $m$ assets,
 >   such that all risk-averse individuals, who choose their portfolios so
->   so as to maximize utility functions dependent only on the mean and variance
+>   as to maximize utility functions dependent only on the mean and variance
 >   of their portfolios, will be indifferent in choosing
 >   between portfolios from among the original $m$ assets or from these
 >   two funds. [^Merton1972p1858]
