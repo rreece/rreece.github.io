@@ -731,7 +731,7 @@ The *No-shorts frontier* can be solved numerically with quadratic programming.
 In general, the no-shorts frontier will follow the unconstrained efficient frontier
 when there isn't any shorting in the efficient portfolios,
 and the no-shorts frontier will pull away from the efficient frontier
-to somewhat lower returns when there is shorting.
+to somewhat lower returns when there is shorting on the efficient frontier.
 
 Quadratic programming and convex optimization are discussed in more detail
 in the section on [Convex optimization](#convex-optimization).
@@ -837,10 +837,11 @@ Cass & Stiglitz:
 
 #### Two-fund theorem
 
--   No risk-free asset
+Continuing the discussion of the context of a portfolio risky assets
+(no risk-free asset; to be considered in the next section).
+
+-   Tobin, J. (1958). [Liquidity preference as behavior towards risk](https://doi.org/10.2307/2296205). [^Tobin1958]
 -   Merton, R.C. (1972). [An analytic derivation of the efficient portfolio frontier](https://www.jstor.org/stable/2329621). [^Merton1972b]
--   [Lecture notes by Ken Kasa (SFU)](https://www.sfu.ca/~kkasa/econ815_23.html)
-    -   [Lecture 7](https://www.sfu.ca/~kkasa/Econ815_Lecture7.pdf)
 
 Merton:
 
@@ -852,13 +853,26 @@ Merton:
 >   between portfolios from among the original $m$ assets or from these
 >   two funds. [^Merton1972p1858]
 
+-   [Lecture notes by Yue Kuen Kwok (HKUST)](https://www.math.hkust.edu.hk/~maykwok/MATH4512.htm)
+    -   [Lecture 2](https://www.math.hkust.edu.hk/~maykwok/courses/MATH4512/lecture%20notes/MATH4512_T2.pdf)
+-   [Lecture notes by Ken Kasa (SFU)](https://www.sfu.ca/~kkasa/econ815_23.html)
+    -   [Lecture 7](https://www.sfu.ca/~kkasa/Econ815_Lecture7.pdf)
+-   [Lecture notes by Karl Sigman (Columbia)](https://www.columbia.edu/~ks20/FE-Notes/4700-07-Notes-funds.pdf)
+
 Kasa:
 
 >   Any portfolio on the efficient frontier can be written as a linear
 >   combination of two fixed efficient portfolios.
 
+$$ \vec{w}_{\ast} = \xi \, \vec{w}_{1} + (1-\xi) \, \vec{w}_{2} $$
+
+TODO [^TODOxi]
+
 [^Merton1972b]: @Merton_1972_An_analytic_derivation_of_the_efficient_portfolio\.
 [^Merton1972p1858]: @Merton_1972_An_analytic_derivation_of_the_efficient_portfolio\, p. 1858.
+[^Tobin1958]: @Tobin_1958_Liquidity_preference_as_behavior_towards_risk\.
+[^TODOxi]: TODO: Throughout this we have parameterized $\xi$ such as it goes from 0 to 1,
+we go from holding asset 2 to 1. Let's reparameterize so that $\xi \rightarrow (1-\xi)$.
 
 
 #### One-fund theorem
@@ -992,6 +1006,8 @@ $$ \mathrm{TSD}(r_i, r_t) = \sqrt{\mathrm{TSV}(r_i, r_t)}  \label{eq:target_semi
 
 -   [Sortino ratio](https://en.wikipedia.org/wiki/Sortino_ratio)
 -   [Low-volatility anomaly](https://en.wikipedia.org/wiki/Low-volatility_anomaly)
+-   Past performance is no guarantee of future results
+    -   Criticisms of using historical estimators of $\mu$ and $V$
 -   Rom, B.M. & Ferguson, K. (1993). Post-modern portfolio theory comes of age. [^Rom1993]
 -   Sortino, F. (2010). *The Sortino Framework for Constructing Portfolios*. [^Sortino2010]
 -   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
@@ -1015,7 +1031,7 @@ $$ \mathrm{TSD}(r_i, r_t) = \sqrt{\mathrm{TSV}(r_i, r_t)}  \label{eq:target_semi
     -   [quantpedia.com](https://quantpedia.com/hierarchical-risk-parity/)
     -   [developer.nvidia.com](https://developer.nvidia.com/blog/hierarchical-risk-parity-on-rapids-an-ml-approach-to-portfolio-allocation/)
 
-[^Lohre2020]: @Lohre_2020_Hierarchical_Risk_Parity_Accounting_for_Tail\.
+[^Lohre2020]: @Lohre_2020_Hierarchical_Risk_Parity_Accounting_for_tail\.
 [^LopezDePrado2016]: @Lopez_2016_Building_diversified_portfolios_that_outperform\.
 [^LopezDePrado2018]: @Lopez_2018_Advances_in_Financial_Machine_Learning\.
 
