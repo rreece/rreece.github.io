@@ -837,7 +837,7 @@ Cass & Stiglitz:
 
 #### Two-fund theorem
 
-Continuing the discussion of the context of a portfolio risky assets
+Continuing the discussion of the context of a portfolio of risky assets
 (no risk-free asset; to be considered in the next section).
 
 -   Tobin, J. (1958). [Liquidity preference as behavior towards risk](https://doi.org/10.2307/2296205). [^Tobin1958]
@@ -1008,6 +1008,7 @@ $$ \mathrm{TSD}(r_i, r_t) = \sqrt{\mathrm{TSV}(r_i, r_t)}  \label{eq:target_semi
 -   [Low-volatility anomaly](https://en.wikipedia.org/wiki/Low-volatility_anomaly)
 -   Past performance is no guarantee of future results
     -   Criticisms of using historical estimators of $\mu$ and $V$
+    -   Problem of induction
 -   Rom, B.M. & Ferguson, K. (1993). Post-modern portfolio theory comes of age. [^Rom1993]
 -   Sortino, F. (2010). *The Sortino Framework for Constructing Portfolios*. [^Sortino2010]
 -   Elton, E.J., Gruber, M.J., Brown, S.J., & Goetzmann, W.N. (2014). *Modern Portfolio Theory and Investment Analysis*. [^Elton2014]
