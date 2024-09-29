@@ -877,15 +877,36 @@ we go from holding asset 2 to 1. Let's reparameterize so that $\xi \rightarrow (
 
 #### One-fund theorem
 
--   TODO
--   Adds a risk-free asset
--   Related to the efficient-market hypothesis
+Now we consider adding the posibility of holding a risk-free asset
+with a risk-free return, $r_{f}$.
+
+TODO: theorem
 
 Kasa:
 
 >   Any portfolio on the efficient frontier can be written as a linear
 >   combination of one fixed efficient non-risk-free portfolio and the risk-free
 asset.
+
+The portfolio weights are
+
+$$ \vec{w} = \kappa \, \vec{w}_{f} + (1-\kappa) \, \vec{w}_{g} $$
+
+The portfolio return is
+
+$$ r = \kappa \, r_{f} + (1-\kappa) \, r_{g} $$
+
+The portfolio standard deviation is
+
+$$ \sigma = \left| 1-\kappa \right| \sigma_{g} $$
+
+TODO:
+
+-   Citation need for the one-fund theorem
+-   Define *Capital Allocation Line*
+-   Discuss lending and borrowing at the risk-free rate
+-   Functional form of the capital allocation line, intersection at the tangent portfolio
+-   Related to the efficient-market hypothesis: in equilibrium, the tangent portfolio becomes the market portfolio
 
 
 ### Efficient-market hypothesis
