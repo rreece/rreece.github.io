@@ -2057,7 +2057,6 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 -   Fu, Y. (2024). [Challenges in deploying long-context transformers: A theoretical peak performance analysis](https://arxiv.org/abs/2405.08944).
 -   Fu, Y. et al. (2024). [Data engineering for scaling language models to 128K context](https://arxiv.org/abs/2402.10171).
 -   Kwon, W. et al. (2023). [Efficient memory management for large language model serving with PagedAttention](https://arxiv.org/abs/2309.06180). ([vLLM](https://github.com/vllm-project/vllm))
--   Sun, Y. et al. (2024). [Learning to (learn at test time): RNNs with expressive hidden states](https://arxiv.org/abs/2407.04620).
 -   Shah, J. et al. (2024). [FlashAttention-3: Fast and accurate attention with asynchrony and low-precision](https://arxiv.org/abs/2407.08608).
 
 
@@ -2077,6 +2076,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 -   Ma, S. et al. (2024). [The era of 1-bit LLMs: All large language models are in 1.58 bits](https://arxiv.org/abs/2402.17764). [^MaS2024]
 -   Ma, X. et al. (2024). [Megalodon: Efficient LLM pretraining and inference with unlimited context length](https://arxiv.org/abs/2404.08801). [^MaX2024]
 -   Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). [What's the magic word? A control theory of LLM prompting](https://arxiv.org/abs/2310.04444). [^Bhargava2023]
+-   Sun, Y. et al. (2024). [Learning to (learn at test time): RNNs with expressive hidden states](https://arxiv.org/abs/2407.04620).
 -   Dao, T. & Gu, A. (2024). [Transformers are SSMs: Generalized models and efficient algorithms through structured state space duality](https://arxiv.org/abs/2405.21060). [^Dao2024]
 -   Banerjee, S., Agarwal, A., & Singla, S. (2024). [LLMs will always hallucinate, and we need to live with this](https://arxiv.org/abs/2409.05746). [^Banerjee2024]
 
@@ -2200,6 +2200,7 @@ Pedagogy:
 -   Sutton & Barto [^Sutton2018]
 -   Deep Reinforcement Learning: A Brief Survey [^Arulkumaran2017]
 -   Cesa-Bianchi, N. & Lugosi, G. (2006). [*Prediction, Learning, and Games*](https://ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf). [^CesaBianchi2006]
+-   OpenAI. (2018). [Spinning Up](https://spinningup.openai.com/en/latest/).
 
 Tutorials:
 
