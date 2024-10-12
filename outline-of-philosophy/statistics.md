@@ -340,7 +340,8 @@ See:
 $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
 
 -   Extended version of Bayes theorem
--   Example of conditioning with medical diagnostics
+-   TODO: Example of conditioning with medical diagnostics
+-   Cook, J.D. (2008). [Canonical example of Bayes’ theorem in detail](https://www.johndcook.com/rarediseases.pdf).
 
 
 ### Likelihood and frequentist vs bayesian probability
