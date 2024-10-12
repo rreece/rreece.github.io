@@ -2514,6 +2514,7 @@ $$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma
     -   Billings, D., Davidson, A., Schaeffer, J., & Szafron, D. (2002). [The challenge of poker](https://doi.org/10.1016/S0004-3702(01)00130-8). [^Billings2002]
     -   Billings, D. et al. (2003). [Approximating game-theoretic optimal strategies for full-scale poker](http://webdocs.cs.ualberta.ca/~duane/publications/pdf/2003ijcai.pdf). [^Billings2003]
     -   Johanson, M. (2013). [Measuring the size of large no-limit poker games](https://arxiv.org/abs/1302.7008). [^Johanson2013]
+    -   [Claudico](https://en.wikipedia.org/wiki/Claudico) (2015) - Sandholm, T. et al. (CMU)
     -   Bowling, M., Burch, N., Johanson, M., & Tammelin, O. (2015). [Heads-up limit hold'em poker is solved](https://www.science.org/doi/10.1126/science.1259433). [^Bowling2015a]
         -   CFR+
     -   Heinrich & Silver. (2016). [Deep reinforcement learning from self play in imperfect-information games](https://arxiv.org/abs/1603.01121). [^Heinrich2016]
