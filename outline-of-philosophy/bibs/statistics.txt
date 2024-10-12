@@ -52,6 +52,7 @@ Brown, L.D., Cai, T.T., & DasGupta, A. (2001). Interval estimation for a binomia
 Brown, N. (2020). *Equilibrium finding for large adversarial imperfect-information games*. http://www.cs.cmu.edu/~noamb/thesis.pdf [(Ph.D. thesis)]
 Brown, N., Bakhtin, A., Lerer, A., & Gong, Q. (2020). Combining deep reinforcement learning and search for imperfect-information games. https://arxiv.org/abs/2007.13544
 Brown, N., Lerer, A., Gross, S., & Sandholm, T. (2019). Deep counterfactual regret minimization. https://arxiv.org/abs/1811.00164
+Brown, N. & Sandholm, T. (2017). Safe and nested subgame solving for imperfect-information games. https://arxiv.org/abs/1705.02955
 Brown, N. & Sandholm, T. (2018). Superhuman AI for heads-up no-limit poker: Libratus beats top professionals. *Science*, 359, 418--424. https://science.sciencemag.org/content/359/6374/418
 Brown, N. & Sandholm, T. (2019). Solving imperfect-information games via discounted regret minimization. *Proceedings of the AAAI Conference on Artificial Intelligence*, 33, 1829--1836. https://arxiv.org/abs/1809.04040
 Brown, N. & Sandholm, T. (2019). Superhuman AI for multiplayer poker. *Science*, 365, 885--890. https://science.sciencemag.org/content/365/6456/885

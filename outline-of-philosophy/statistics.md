@@ -2521,6 +2521,8 @@ $$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma
         -   Q-learning
     -   Moravcik, M. et al. (2017). [DeepStack: Expert-level artificial intelligence in heads-up no-limit poker](https://arxiv.org/abs/1701.01724). [^Moravcik2017]
 -   Libratus
+    -   Brown, N. & Sandholm, T. (2017). [Safe and nested subgame solving for imperfect-information games](https://arxiv.org/abs/1705.02955). [^Brown2017]
+        -   Adds test-time search/planning to just using precomputed policies.
     -   Brown, N. & Sandholm, T. (2018). [Superhuman AI for heads-up no-limit poker: Libratus beats top professionals](https://www.science.org/doi/10.1126/science.aao1733). [^Brown2018Libratus]
         -   bet and card abstraction
         -   MCCFR used to find a solution of the abstracted game: blueprint
@@ -2539,9 +2541,11 @@ $$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma
     -   Schmid, M. et al. (2021). [Player of games](https://arxiv.org/abs/2112.03178). [^Schmid2021]
 -   More
     -   Kovarik, V. et al. (2022). [Rethinking formal models of partially observable multiagent decision making](https://arxiv.org/abs/1906.11110). [^Kovarik2022]
+    -   Brown, N. (2024). Talk: [Parables on the power of planning in AI: From poker to diplomacy](https://www.youtube.com/watch?v=eaAonE58sLU).
 
 [^Billings2002]: @Billings_2002_The_challenge_of_poker\.
 [^Billings2003]: @Billings_2003_Approximating_game_theoretic_optimal_strategies\.
+[^Brown2017]: @Brown_2017_Safe_and_nested_subgame_solving_for_imperfect\.
 [^Brown2018Libratus]: @Brown_2018_Superhuman_AI_for_heads_up_no_limit_poker\.
 [^Brown2019Pluribus]: @Brown_2019_Superhuman_AI_for_multiplayer_poker\.
 [^Brown2019DCRM]: @Brown_2019_Deep_counterfactual_regret_minimization\.
