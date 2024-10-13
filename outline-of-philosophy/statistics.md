@@ -2672,6 +2672,11 @@ Roberts:
 [^Wolpert2020]: @Wolpert_2020_Noisy_deductive_reasoning_How_humans_construct\.
 
 
+### Connectivists vs symbolicists
+
+-   Chollet, F. (2024). Talk: [It's not about scale, it's about abstraction](https://www.youtube.com/watch?v=s7_NlkBwdj8).
+
+
 ###  Graphical tensor notation
 
 -   [Penrose graphical notation](https://en.wikipedia.org/wiki/Penrose_graphical_notation)
