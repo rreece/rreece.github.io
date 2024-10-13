@@ -36,6 +36,8 @@ Bensusan, H. (2000). Is machine learning experimental philosophy of science? In 
 Berger, J.O. (2003). Could Fisher, Jeffreys and Neyman have agreed on testing? *Statistical Science*, 18(1), 1--32.
 Berger, J.O. & Wolpert, R.L. (1988). *The Likelihood Principle* (2nd ed.). Haywood, CA: The Institute of Mathematical Statistics.
 Bertsch, A., Alon, U., Neubig, G., & Gormley, M.R. (2023). Unlimiformer: Long-range transformers with unlimited length input. https://arxiv.org/abs/2305.01625
+B{\'e}rut, A., Arakelyan, A., Petrosyan, A., Ciliberto, S., Dillenschneider, R., & Lutz, E. (2012). Experimental verification of Landauer’s principle linking information and thermodynamics. *Nature*, 483(7388), 187--189. doi:10.1038/nature10872 
+B{\'e}rut, A., Petrosyan, A., & Ciliberto, S. (2015). Information and thermodynamics: Experimental verification of Landauer's erasure principle. https://arxiv.org/abs/1503.06537
 Bhargava, A., Witkowski, C., Shah, M., & Thomson, M. (2023). What's the magic word? A control theory of LLM prompting. https://arxiv.org/abs/2310.04444
 Bhattiprolu, P.N., Martin, S.P., & Wells, J.D. (2020). Criteria for projected discovery and exclusion sensitivities of counting experiments. https://arxiv.org/abs/2009.07249
 Billings, D., Davidson, A., Schaeffer, J., & Szafron, D. (2002). The challenge of poker. *Artificial Intelligence*, 134, 201--240. https://doi.org/10.1016/S0004-3702(01)00130-8
@@ -354,6 +356,7 @@ Salmon, W. C. (1967). Carnap's inductive logic. *The Journal of Philosophy*, 64,
 Salmon, W.C. (1991). Hans Reichenbach's vindication of induction. *Erkenntnis*, 35, 99--122.
 Salsburg, D. (2001). *The Lady Tasting Tea*. Holt.
 Savage, L.J. (1954). *The Foundations of Statistics*. John Wiley & Sons.
+Scardapane, S. (2024). *Alice's Adventures in a Differentiable Wonderland, Vol. I: A Tour of the Land*. https://arxiv.org/abs/2404.17625
 Schaeffer, R. et al. (2023). Double descent demystified: Identifying, interpreting & ablating the sources of a deep learning puzzle. https://arxiv.org/abs/2303.14151
 Schmidhuber, J. (1997). A computer scientist's view of life, the universe, and everything. https://arxiv.org/abs/quant-ph/9904050
 Schmid, M. et al. (2019). Variance reduction in Monte Carlo counterfactual regret minimization (VR-MCCFR) for extensive form games using baselines. https://ojs.aaai.org/index.php/AAAI/article/view/4048/3926

@@ -1558,6 +1558,7 @@ Deep learning
     -   Bekman, S. (2023). [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering).
     -   Labonne, M. (2023). [Large Language Model Course](https://github.com/mlabonne/llm-course).
     -   Microsoft. (2023). [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners).
+    -   Scardapane, S. (2024). [*Alice's Adventures in a Differentiable Wonderland, Vol. I: A Tour of the Land*](https://arxiv.org/abs/2404.17625). [^Scardapane2024]
 -   Practical guides
     -   Bottou, L. (1998). [Stochastic gradient descent tricks](https://www.microsoft.com/en-us/research/publication/stochastic-gradient-tricks/). [^Bottou1998]
     -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
@@ -1579,6 +1580,7 @@ Deep learning
 [^LeCun2015]: @LeCun_2015_Deep_learning\.
 [^Norvig2011a]: @Norvig_2011_On_Chomsky_and_the_Two_Cultures_of_Statistical\.
 [^Rumelhart1986]: @Rumelhart_1986_Learning_representations_by_back_propagating\.
+[^Scardapane2024]: @Scardapane_2024_Alices_Adventures_in_a_Differentiable_Wonderland\.
 [^Sutskever2015]: @Sutskever_2015_A_brief_overview_of_deep_learning\.
 [^Sutton2019]: @Sutton_2019_The_bitter_lesson\.
 
@@ -2770,8 +2772,13 @@ $$ f(g x) = g' f(x) $$
 
 ### Thermodynamics of computation
 
+-   B{\'e}rut, A., Arakelyan, A., Petrosyan, A., Ciliberto, S., Dillenschneider, R., & Lutz, E. (2012). Experimental verification of Landauer’s principle linking information and thermodynamics. [^Berut2012]
+-   B{\'e}rut, A., Petrosyan, A., & Ciliberto, S. (2015). [Information and thermodynamics: Experimental verification of Landauer's erasure principle](https://arxiv.org/abs/1503.06537). [^Berut2015]
 -   Wolpert, D. (2018). [Why do computers use so much energy?](https://blogs.scientificamerican.com/observations/why-do-computers-use-so-much-energy/)
 -   [Sante Fe Institute: Thermodynamics of Computation](https://centre.santafe.edu/thermocomp/Santa_Fe_Institute_Collaboration_Platform:Thermodynamics_of_Computation_Wiki)
+
+[^Berut2012]: @Berut_2012_Experimental_verification_of_Landauers_principle\.
+[^Berut2015]: @Berut_2015_Information_and_thermodynamics_Experimental\.
 
 
 Information geometry
