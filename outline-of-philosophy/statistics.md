@@ -2772,8 +2772,8 @@ $$ f(g x) = g' f(x) $$
 
 ### Thermodynamics of computation
 
--   B{\'e}rut, A., Arakelyan, A., Petrosyan, A., Ciliberto, S., Dillenschneider, R., & Lutz, E. (2012). Experimental verification of Landauer’s principle linking information and thermodynamics. [^Berut2012]
--   B{\'e}rut, A., Petrosyan, A., & Ciliberto, S. (2015). [Information and thermodynamics: Experimental verification of Landauer's erasure principle](https://arxiv.org/abs/1503.06537). [^Berut2015]
+-   B&eacute;rut, A., Arakelyan, A., Petrosyan, A., Ciliberto, S., Dillenschneider, R., & Lutz, E. (2012). Experimental verification of Landauer’s principle linking information and thermodynamics. [^Berut2012]
+-   B&eacute;rut, A., Petrosyan, A., & Ciliberto, S. (2015). [Information and thermodynamics: Experimental verification of Landauer's erasure principle](https://arxiv.org/abs/1503.06537). [^Berut2015]
 -   Wolpert, D. (2018). [Why do computers use so much energy?](https://blogs.scientificamerican.com/observations/why-do-computers-use-so-much-energy/)
 -   [Sante Fe Institute: Thermodynamics of Computation](https://centre.santafe.edu/thermocomp/Santa_Fe_Institute_Collaboration_Platform:Thermodynamics_of_Computation_Wiki)
 
