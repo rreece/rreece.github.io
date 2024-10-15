@@ -2137,10 +2137,14 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 -   Kaplan, J. et al. (2020). [Scaling laws for neural language models](https://arxiv.org/abs/2001.08361). [^Kaplan2020]
 -   Rae, J.W. et al. (2022). [Scaling language models: Methods, analysis & insights from training Gopher](https://arxiv.org/abs/2112.11446). [^Rae2022]
 -   Hoffmann, J. et al. (2022). [Training compute-optimal large language models](https://arxiv.org/abs/2203.15556) (Chinchilla).  [^Hoffmann2022]
+-   Caballero, E., Gupta, K., Rish, I., & Krueger, D. (2022). [Broken neural scaling laws](https://arxiv.org/abs/2210.14891). [^Caballero2022]
 -   Constantin, S. (2023). ["Scaling Laws" for AI and some implications](https://sarahconstantin.substack.com/p/scaling-laws-for-ai-and-some-implications).
 -   Muennighoff, N. et al. (2023). [Scaling data-constrained language models](https://arxiv.org/abs/2305.16264). [^Muennighoff2023]
 -   Pandey, R. (2024). [gzip predicts data-dependent scaling laws](https://arxiv.org/abs/2405.16684). [^Pandey2024]
+-   Bach, F. (2024). [Scaling laws of optimization](https://francisbach.com/scaling-laws-of-optimization/). [^Bach2024]
 
+[^Bach2024]: @Bach_2024_Scaling_laws_of_optimization\.
+[^Caballero2022]: @Caballero_2022_Broken_neural_scaling_laws\.
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
 [^Hestness2017]: @Hestness_2017_Deep_learning_scaling_is_predictable_empirically\.
 [^Hoffmann2022]: @Hoffmann_2022_Training_compute_optimal_large_language_models\.

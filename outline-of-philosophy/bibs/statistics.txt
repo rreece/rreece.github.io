@@ -14,6 +14,7 @@ Asch, M. et al. (2018). Big data and extreme-scale computing: Pathways to Conver
 {ATLAS Statistics Forum}. (2011). The CLs method: Information for conference speakers. http://www.pp.rhul.ac.uk/~cowan/stat/cls/CLsInfo.pdf
 Aytekin, C. (2022). Neural networks are decision trees. https://arxiv.org/abs/2210.05189
 Bach, F. (2022). *Learning Theory from First Principles*. https://www.di.ens.fr/~fbach/ltfp_book.pdf [(Draft)]
+Bach, F. (2024). Scaling laws of optimization. https://francisbach.com/scaling-laws-of-optimization/
 Bahdanau, D., Cho, K. & Bengio, Y. (2015). Neural machine translation by jointly learning to align and translate. *International Conference on Learning Representations, 3rd*, 2015. https://arxiv.org/abs/1409.0473
 Bahri, Y., Kadmon, J., Pennington, J., Schoenholz, S.S., Sohl-Dickstein, J., & Ganguli1, S. (2020). Statistical mechanics of deep learning. *Annual Review of Condensed Matter Physics*, 11, 501--528.
 Balasubramanian, V. (1996). A geometric formulation of Occam's razor for inference of parametric distributions. https://arxiv.org/abs/adap-org/9601001
