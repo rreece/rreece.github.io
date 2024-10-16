@@ -2943,6 +2943,7 @@ See also:
 -   Tenney, I. et al. (2019). [What do you learn from context? Probing for sentence structure in contextualized word representations](https://arxiv.org/abs/1905.06316). [^Tenney2019]
 -   Nissim, M., van Noord, R., & van der Goot, R. (2019). Fair is better than sensational: Man is to doctor as woman is to doctor. [^Nissim2019]
 -   Skelac, I. & Jandric, A. (2020). Meaning as use: From Wittgenstein to Google’s Word2vec. [^Skelac2020]
+-   Bender, E.M. & Koller, A. (2020). [Climbing towards NLU: On meaning, form, and understanding in the age of data](https://aclanthology.org/2020.acl-main.463.pdf). [^Bender2020]
 -   Boccelli, D. (2022). [Word embeddings align with Kandinsky’s theory of color](https://towardsdatascience.com/word-embeddings-align-with-kandinskys-theory-of-color-26288b864834).
 -   Elhage, N. et al. (2022). [Toy models of superposition](https://transformer-circuits.pub/2022/toy_model/index.html). [^Elhage2022]
 -   Patel, R. & Pavlick, E. (2022). [Mapping language models to grounded conceptual spaces](https://openreview.net/pdf?id=gJcEM8sxHK). [^Patel2022]
@@ -2980,6 +2981,7 @@ See also:
 -   [Natural language processing](statistics.html#natural-language-processing)
 -   [Ordinary language philosophy](scientific-realism.html#ordinary-language-philosophy)
 
+[^Bender2020]: @Bender_2020_Climbing_towards_NLU_On_meaning_form\.
 [^Huh2024]: @Huh_2024_The_platonic_representation_hypothesis\.
 [^Jamali2024]: @Jamali_2024_Semantic_encoding_during_language_comprehension_at\.
 [^Elhage2022]: @Elhage_2022_Toy_models_of_superposition\.
