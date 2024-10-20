@@ -67,6 +67,7 @@ Mart{\'i}nez-Ordaz, M.R. (2021). The ignorance behind inconsistency toleration. 
 McCrimmon, K. (2000). *A Taste of Jordan Algebras*. Springer. http://old.math.nsc.ru/LBRT/a1/files/mccrimmon.pdf
 Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
 Monk, J.D. (1976). *Mathematical Logic*. Springer.
+Ord, T. (2024). Bounds on the rates of growth and convergence of all physical processes. https://arxiv.org/abs/2410.10928
 Post, E.L. (1921). Introduction to the general theory of elementary propositions. *American Journal of Mathematics*, 43, 163--185.
 Priest, G. (1998). What is so bad about contradictions? *Journal of Philosophy*, 95, 410--426. 
 Putnam, H. (1971). *Philosophy of Logic*. New York: Harper & Row.

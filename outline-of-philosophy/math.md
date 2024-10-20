@@ -839,6 +839,9 @@ See also:
 
 ### Complexity theory
 
+-   [Church-Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
+    -   G&ouml;del-Church-Turing
+    -   Ord, T. (2024). [Bounds on the rates of growth and convergence of all physical processes](https://arxiv.org/abs/2410.10928). [^Ord2024]
 -   Scott Aaronson's [Complexity Zoo](https://complexityzoo.net/Complexity_Zoo)
 -   Aaronson, S. (2011). [Why philosophers should care about computational complexity](https://arxiv.org/abs/1108.1791). [^Aaronson2011]
 -   Savage, J.E. (2008). [*Models of Computation: Exploring the Power of Computing*](https://cs.brown.edu/people/jsavage/book/pdfs/ModelsOfComputation.pdf).
@@ -849,6 +852,7 @@ See also:
 -   [Proof theory](#proof-theory)
 
 [^Aaronson2011]: @Aaronson_2011_Why_philosophers_should_care_about_computational\.
+[^Ord2024]: @Ord_2024_Bounds_on_the_rates_of_growth_and_convergence\.
 
 
 Category theory
