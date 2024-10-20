@@ -13,7 +13,9 @@ How does machine learning work?
 >   All sciences are, in the abstract, mathematics.
 >   All judgements are, in their rationale, statistics.
 >
->   -- C. R. Rao
+>   -- C. R. Rao [^Rao1997px]
+
+[^Rao1997px]: @Rao_1997_Statisitcs_and_Truth_Putting_Chance_to_Work\, p. x.
 
 
 <!-- PAGETOC -->
