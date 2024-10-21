@@ -128,6 +128,7 @@ Artificial intelligence
 -   Maslej, N. et al. (2024). [The AI Index 2024 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf). [^Maslej2024]
 -   Aschenbrenner, L. (2024). [Situational Awareness: The decade ahead](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf). [^Aschenbrenner2024]
 -   Zuckerberg, M. (2024). [Open source AI is the path forward](https://www.facebook.com/4/posts/10115716861061241/),
+-   Amodei, D. (2024). [Machines of loving grace](https://darioamodei.com/machines-of-loving-grace).
 
 See also:
 
