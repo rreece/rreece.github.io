@@ -2572,6 +2572,8 @@ $$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma
 
 ### Applications in physics
 
+-   Denby, B. (1988). [Neural networks and cellular automata in experimental high energy physics](https://inis.iaea.org/collection/NCLCollectionStore/_Public/20/013/20013339.pdf). [^Denby1988]
+-   Denby, B. (1993). [The use of neural networks in high-energy physics](https://lss.fnal.gov/archive/1992/pub/Pub-92-215-E.pdf). [^Denby1993]
 -   [HEPML-LivingReview: A Living Review of Machine Learning for Particle Physics](https://iml-wg.github.io/HEPML-LivingReview/)
 -   Spears, B.K. et al. (2018). Deep learning: A guide for practitioners in the physical sciences. [^Spears2018]
 -   Cranmer, K., Seljak, U., & Terao, K. (2021). Machine learning (Review in the [PDG](https://pdg.lbl.gov/2021-rev/2021/reviews/contents_sports.html)). [^Cranmer2021]
@@ -2586,6 +2588,8 @@ See also:
 -   [Surrogate models](statistics.html#surrogate-models)
 
 [^Cranmer2021]: @Cranmer_2021_Machine_learning\.
+[^Denby1988]: @Denby_1988_Neural_networks_and_cellular_automata\.
+[^Denby1993]: @Denby_1993_The_use_of_neural_networks_in_high_energy_physics\.
 [^Jiao2024]: @Jiao_2024_AI_meets_physics_A_comprehensive_survey\.
 [^Liu2024]: @Liu_2024_KAN_Kolmogorov_Arnold_Networks\.
 [^Spears2018]: @Spears_2018_Deep_learning_A_guide_for_practitioners\.

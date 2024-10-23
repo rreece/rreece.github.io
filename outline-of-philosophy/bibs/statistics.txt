@@ -119,6 +119,8 @@ Dao, T. & Gu, A. (2024). Transformers are SSMs: Generalized models and efficient
 Dar, Y., Muthukumar, V., & Baraniuk, R.G. (2021). A farewell to the bias-variance tradeoff? An overview of the theory of overparameterized machine learning. https://arxiv.org/abs/2109.02355
 Dawid, A.P. (2014). Discussion of "On the Birnbaum Argument for the Strong Likelihood Principle". *Statistical Science*, 29, 240--241. https://projecteuclid.org/journals/statistical-science/volume-29/issue-2/Discussion-of-On-the-Birnbaum-Argument-for-the-Strong-Likelihood/10.1214/14-STS470.full
 de Carvalho, M., Page, G.L., & Barney, B.J. (2019). On the geometry of Bayesian inference. *Bayesian Analysis*, 14, 1013--1036. https://projecteuclid.org/journals/bayesian-analysis/volume-14/issue-4/On-the-Geometry-of-Bayesian-Inference/10.1214/18-BA1112.full
+Denby, B. (1988). Neural networks and cellular automata in experimental high energy physics. *Computer Physics Communications*, 49(3), 429--448. https://inis.iaea.org/collection/NCLCollectionStore/_Public/20/013/20013339.pdf
+Denby, B. (1993). The use of neural networks in high-energy physics. *Neural Computation*, 5(4), 505--549. https://lss.fnal.gov/archive/1992/pub/Pub-92-215-E.pdf
 Dettmers, T., Pagnoni, A., Holtzman, A., & Zettlemoyer, L. (2023). QLoRA: Efficient finetuning of quantized LLMs. https://arxiv.org/abs/2305.14314
 Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. https://arxiv.org/abs/1810.04805
 Dewey, J. (1938). *Logic: The Theory of Inquiry*. New York: Henry Holt and Co.
