@@ -154,6 +154,7 @@ See also:
 -   James [^James2006]
 -   Cowan [^Cowan1998]
 -   Cranmer [^Cranmer2015a]
+-   Jaynes, E.T. (2003). [*Probability Theory: The Logic of Science*](https://bayes.wustl.edu/etj/prob/book.pdf). [^Jaynes2003]
 -   Lista: book [^Lista2016a], notes [^Lista2016b]
 -   Cox [^Cox2006]
 -   Behnke, O., Kr&ouml;ninger, K., Schott, G., & Sch&ouml;rner-Sadenius, T. (2013). *Data Analysis in High Energy Physics: A Practical Guide to Statistical Methods*. [^Behnke2013]
@@ -178,6 +179,7 @@ See also:
 [^Cranmer2015a]: @Cranmer_2015_Practical_statistics_for_the_LHC\.
 [^Gelman2021]: @Gelman_2021_What_are_the_most_important_statistical_ideas\.
 [^James2006]: @James_2006_Statistical_Methods_in_Experimental_Particle\.
+[^Jaynes2003]: @Jaynes_2003_Probability_Theory_The_Logic_of_Science\.
 [^Lista2016a]: @Lista_2016_Statistical_Methods_for_Data_Analysis_in_Particle\.
 [^Lista2016b]: @Lista_2016_Practical_statistics_for_particle_physicists\.
 [^Otsuka2023]: @Otsuka_2023_Thinking_About_Statistics_The_Philosophical\.
