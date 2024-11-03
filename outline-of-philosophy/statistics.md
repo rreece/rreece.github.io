@@ -1002,7 +1002,9 @@ Exploratory data analysis
 
 ### Introduction
 
--   [Tukey, John (1915-2000)](https://en.wikipedia.org/wiki/John_Tukey)
+-   [William Playfair](https://en.wikipedia.org/wiki/William_Playfair) (1759-1823)
+    -   Father of statistical graphics
+-   [John Tukey](https://en.wikipedia.org/wiki/John_Tukey) (1915-2000)
     -   [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
     -   *Exploratory Data Analysis* (1977) [^Tukey1977]
 
@@ -1339,8 +1341,15 @@ Classical machine learning
 -   [Dartmouth workshop](https://en.wikipedia.org/wiki/Dartmouth_workshop) (1956)
     -   McCarthy, J., Minsky, M.L., Rochester, N., & Shannon, C.E. (1955). [A proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://www-formal.stanford.edu/jmc/history/dartmouth.pdf). [^DartmouthProposal1955a]
     -   Solomonoff, G. (2016). [Ray Solomonoff and the Dartmouth Summer Research Project in Artificial Intelligence, 1956](http://raysolomonoff.com/dartmouth/dartray.pdf). [^Solomonoff2016]
--   Kardum, M. (2020). Rudolf Carnap--The grandfather of artificial neural networks: The influence of Carnap's philosophy on Walter Pitts. [^Kardum2020]
--   Bright, L.K. (2022). [Carnap's contributions](https://sootyempiric.blogspot.com/2022/10/carnaps-contributions.html).
+-   Rudolf Carnap (1891-1970)
+    -   Kardum, M. (2020). Rudolf Carnap--The grandfather of artificial neural networks: The influence of Carnap's philosophy on Walter Pitts. [^Kardum2020]
+    -   Bright, L.K. (2022). [Carnap's contributions](https://sootyempiric.blogspot.com/2022/10/carnaps-contributions.html).
+-   Perceptron
+    -   Sompolinsky, H. (2013). [Introduction: The Perceptron](https://web.mit.edu/course/other/i2course/www/vision_and_learning/perceptron_notes.pdf).
+    -   Rosenblatt, F. (1961). *Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms*. [^Rosenblatt1961]
+-   Connectionist vs symbolic AI
+    -   Minsky, M. & Papert, S. (1969). *Perceptrons: An Introduction to Computational Geometry*. [^Minsky1969]
+    -   AI Winter
 
 See also:
 
@@ -1348,6 +1357,8 @@ See also:
 
 [^DartmouthProposal1955a]: @McCarthy_1955_A_proposal_for_the_Dartmouth_Summer_Research\.
 [^Kardum2020]: @Kardum_2020_Rudolf_Carnap_The_grandfather_of_artificial\.
+[^Minsky1969]: @Minsky_1969_Perceptrons_An_Introduction_to_Computational\.
+[^Rosenblatt1961]: @Rosenblatt_1961_Principles_of_Neurodynamics_Perceptrons\.
 [^Solomonoff2016]: @Solomonoff_2016_Ray_Solomonoff_and_the_Dartmouth_Summer_Research\.
 
 
@@ -2701,7 +2712,7 @@ Roberts:
 
 ### Universal approximation theorem
 
--   Minsky, M. & Papert, S. (1969). *Perceptrons: An Introduction to Computational Geometry*. [^Minsky1969]
+-   Minsky, M. & Papert, S. (1969). *Perceptrons: An Introduction to Computational Geometry*. [^Minsky1969pX]
 -   Hornik, K., Stinchcombe, M., & White, H. (1989). [Multilayer feedforward networks are universal approximators](https://cognitivemedium.com/magic_paper/assets/Hornik.pdf). [^Hornik1989]
 -   Lu, Z., Pu, H., Wang, F., Hu, Z., & Wang, L. (2017). [The expressive power of neural networks: A view from the width](https://proceedings.neurips.cc/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf). [^Lu2017]
 -   Lin, H. & Jegelka, S. (2018). [ResNet with one-neuron hidden layers is a universal approximator](https://arxiv.org/abs/1806.10909). [^Lin2018]
@@ -2714,7 +2725,7 @@ Roberts:
 [^Ismailov2020]: @Ismailov_2020_A_three_layer_neural_network_can_represent_any\.
 [^Lin2018]: @Lin_2018_ResNet_with_one_neuron_hidden_layers_is\.
 [^Lu2017]: @Lu_2017_The_expressive_power_of_neural_networks_A_view\.
-[^Minsky1969]: @Minsky_1969_Perceptrons_An_Introduction_to_Computational\.
+[^Minsky1969pX]: @Minsky_1969_Perceptrons_An_Introduction_to_Computational\, p. TODO.
 
 
 ### Relationship to statistical mechanics
