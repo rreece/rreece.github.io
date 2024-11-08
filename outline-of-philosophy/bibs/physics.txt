@@ -108,6 +108,7 @@ Del Santo, F., Schwarzhans, E. (2022). "Philosophysics" at the University of Vie
 Del Santo, F. & Krizek, G.K. (2023). Against the "nightmare of a mechanically determined universe": Why Bohm was never a Bohmian. https://arxiv.org/abs/2307.05611
 Deligne, P. (1999). Notes on spinors. In *Quantum Fields and Strings: A Course for Mathematicians, Vol. 1* (pp. 99--136). American Mathematical Society. https://publications.ias.edu/sites/default/files/79_NotesOnSpinors.pdf
 Deligne, P. (2002). Cat{\'e}gorie Tensorielle, *Moscow Mathematical Journal*, 2, 227--248. https://www.math.ias.edu/files/deligne/Tensorielles.pdf
+de Queiroz, A., Lachieze-Rey, M., & Simon, S. (2014). Symmetry, physical theories and theory change. *Frontiers of Fundamental Physics*, 14, 210. https://ui.adsabs.harvard.edu/abs/2014ffp..confE.210D/abstract
 Deutsch, D. (1985). Quantum theory as a universal physical theory. *International Journal of Theoretical Physics*, 24, 1--41.
 Dewar, N. (2019). Sophistication about symmetries. *British Journal for the Philosophy of Science*, 70, 485--521.
 DeWitt, B.S. (1970). Quantum mechanics and reality. *Physics Today*, 23(9), 30--35. https://physicstoday.scitation.org/doi/10.1063/1.3022331
@@ -181,6 +182,7 @@ Goyal, P. (2020). Derivation of classical mechanics in an energetic framework vi
 Greaves, H. & Thomas, T. (2012). The CPT theorem. https://arxiv.org/abs/1204.4674
 Greaves, H. & Wallace, D. (2011). Empirical consequences of symmetries. https://arxiv.org/abs/1111.4309
 Greenberger, D., Horne, M., Shimony, A., & Zeilinger, A. (1990). Bell's theorem without inequalities. *American Journal of Physics*, 58, 1131.
+Gross, D.J. (1996). The role of symmetry in fundamental physics. *Proceedings of the National Academy of Sciences*, 93(25), 14256--14259. https://www.pnas.org/doi/pdf/10.1073/pnas.93.25.14256
 Guralnik, G.S., Hagen, C.R., & Kibble, T.W.B. (1964). Global conservation laws and massless particles. *Physical Review Letters*, 13, 585--587. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.585
 Guth, A.H. (1981). Inflationary universe: A possible solution to the horizon and flatness problems. *Physical Review D*, 23, 347--356. https://journals.aps.org/prd/abstract/10.1103/PhysRevD.23.347
 Guth, A.H. (1997). Was cosmic inflation the 'bang' of the big bang? *The Beamline*, 27, 14. https://ned.ipac.caltech.edu/level5/Guth/Guth_contents.html
@@ -381,6 +383,7 @@ Witten, E. (1998). Anti-de Sitter space and holography. *Advances in Theoretical
 Wu, J. (2021). Explaining universality: infinite limit systems in the renormalization group method. *Synthese*, 199, 14897--14930. https://link.springer.com/article/10.1007/s11229-021-03448-2
 Wuthrich, C. (2014). Putnam looks at quantum mechanics (again and again). https://arxiv.org/abs/1406.5737
 Yang, C.N. & Mills, R.L. (1954). Conservation of isotopic spin and isotopic gauge invariance. *Physical Review*, 96, 191--195.
+Yang, C.N. (1996). Symmetry and physics. *Proceedings of the American Philosophical Society*, 140(3), 267--288. https://www.jstor.org/stable/pdf/987310.pdf
 Yock, P. (2018). Newton's hypotheses on the structure of matter. https://arxiv.org/abs/1807.05486
 Zapata-Carratala, C. (2021). Dimensioned algebra: The mathematics of physical quantities. https://arxiv.org/abs/2108.08703
 Zee, A. (2003). *Quantum Field Theory in a Nutshell*. Princeton University Press.

@@ -292,9 +292,11 @@ Symmetry-first physics
 -   Totalitarian principle: "Everything not forbidden is compulsory." - Murray Gell-Mann
 -   Caulton, A. (2015). [The role of symmetry in the interpretation of physical theories](http://philsci-archive.pitt.edu/11571/). [^Caulton2015]
 -   Caulton, A. & Butterfield, J. (2012). [Symmetries and paraparticles as a motivation for structuralism](https://arxiv.org/abs/1002.3730). [^Caulton2012]
+-   de Queiroz, A., Lachieze-Rey, M., & Simon, S. (2014). [Symmetry, physical theories and theory change](https://ui.adsabs.harvard.edu/abs/2014ffp..confE.210D/abstract). [^deQueiroz2014]
 
 [^Caulton2012]: @Caulton_2012_Symmetries_and_paraparticles_as_a_motivation\.
 [^Caulton2015]: @Caulton_2015_The_role_of_symmetry_in_the_interpretation\.
+[^deQueiroz2014]: @deQueiroz_2014_Symmetry_physical_theories_and_theory_change\.
 
 See also:
 
@@ -344,6 +346,7 @@ See also:
 -   Afriat, A. (2013). Weyl's gauge argument. [^Afriat2013]
 -   Schwichtenberg, J. (2015). *Physics from Symmetry*. [^Schwichtenberg2015]
 -   Dewar, N. (2019). Sophistication about symmetries. [^Dewar2019]
+-   Yang, C.N. (1996). [Symmetry and physics](https://www.jstor.org/stable/pdf/987310.pdf). [^Yang1996]
 
 Weyl:
 
@@ -368,6 +371,7 @@ Weyl:
 [^Weyl1929]: @Weyl_1929_Elektron_und_gravitation\.
 [^Weyl1929pX]: @Weyl_1929_Elektron_und_gravitation\, p. TODO.
 [^Yang1954]: @Yang_1954_Conservation_of_isotopic_spin_and_isotopic_gauge\.
+[^Yang1996]: @Yang_1996_Symmetry_and_physics\.
 
 
 ### Wigner-Stone theorems
@@ -733,7 +737,9 @@ See also:
 #### Wigner's classification
 
 -   [Wigner's classification](https://en.wikipedia.org/wiki/Wigner%27s_classification) (1939) [^WignerClassification]
+-   Gross, D.J. (1996). [The role of symmetry in fundamental physics](https://www.pnas.org/doi/pdf/10.1073/pnas.93.25.14256). [^Gross1996]
 
+[^Gross1996]: @Gross_1996_The_role_of_symmetry_in_fundamental_physics\.
 [^WignerClassification]: @Wigner_1939_On_unitary_representations_of_the_inhomogeneous
     and @Bargmann_1948_Group_theoretical_discussion_of_relativistic_wave\.
 
