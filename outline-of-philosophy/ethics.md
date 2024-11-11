@@ -538,10 +538,10 @@ Political philosophy
     -   [Dialectical materialism](https://en.wikipedia.org/wiki/Dialectical_materialism)
     -   *The Communist Manifesto* (1848)
         -   The proletariat vs the bourgeoisie
-    -   *Das Kapital* in three volumes (1867, 1885, 1894)
-        1. *The Process of Production of Capital*
-        2. *The Process of Circulation of Capital*
-        3. *The Process of Capitalist Production as a Whole*
+    -   *Das Kapital* in three volumes
+        1. *The Process of Production of Capital* (1867)
+        2. *The Process of Circulation of Capital* (1885)
+        3. *The Process of Capitalist Production as a Whole* (1894)
             -   Differential and absolute ground rent
     -   Engels, F. (1883). [*Dialectics of Nature*](https://en.wikipedia.org/wiki/Dialectics_of_Nature).
 -   [October Revolution](https://en.wikipedia.org/wiki/October_Revolution) AKA Bolshevik Revolution (1917)
@@ -636,14 +636,33 @@ Economics
 -   [Neoclassical synthesis](https://en.wikipedia.org/wiki/Neoclassical_synthesis)
 
 
+### Austrian school of economics
+
+-   [Austrian school of economics](https://en.wikipedia.org/wiki/Austrian_school_of_economics)
+-   heterodox
+-   [Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger) (1840-1921)
+-   Eugen von B&ouml;hm-Bawerk (1851-1914)
+-   Friedrich von Wieser (1851-1926)
+-   [Ludwig von Mises](https://en.wikipedia.org/wiki/Ludwig_von_Mises) (1881-1973)
+-   [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek) (1899-1992)
+
+
 ### Macroeconomics
 
--   TODO
+-   Cowen, T. & Tabarrok, A. (2013). *Modern Priniciples: Macroeconomics*. [^CowenTabarrokMacro2013]
+
+[^CowenTabarrokMacro2013]: @Cowen_2013_Modern_Priniciples_Macroeconomics\.
 
 
 ### Microeconomics
 
--   TODO
+-   Cowen, T. & Tabarrok, A. (2013). *Modern Priniciples: Microeconomics*. [^CowenTabarrokMicro2013]
+
+[^CowenTabarrokMicro2013]: @Cowen_2013_Modern_Priniciples_Microeconomics\.
+
+
+### Behavioral economics
+
 -   Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. [^Ross2005]
 
 [^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
