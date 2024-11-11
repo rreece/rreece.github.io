@@ -527,6 +527,7 @@ Political philosophy
 -   Anarcho-capitalism
     -   [Murray Rothbard](https://en.wikipedia.org/wiki/Murray_Rothbard) (1926-1995)
 -   Neoliberalism
+    -   Neoclassical economics
 
 [^Nozick2013]: @Nozick_2013_Anarchy_State_and_Utopia\.
 
@@ -535,6 +536,7 @@ Political philosophy
 
 -   Karl Marx and Friedrich Engels
     -   [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx) (1818-1883)
+    -   [Friedrich Engels](https://en.wikipedia.org/wiki/Friedrich_Engels) (1820-1895)
     -   [Dialectical materialism](https://en.wikipedia.org/wiki/Dialectical_materialism)
     -   *The Communist Manifesto* (1848)
     -   The proletariat vs the bourgeoisie
@@ -542,15 +544,20 @@ Political philosophy
 -   [October Revolution](https://en.wikipedia.org/wiki/October_Revolution) AKA Bolshevik Revolution (1917)
     -   Leon Trotsky (1879-1940)
 -   [Marxism-Leninism](https://en.wikipedia.org/wiki/Marxism%E2%80%93Leninism)
+    -   [Vladimir Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin) (1870-1924)
     -   Joseph Stalin (1878-1953)
     -   Mao Zedong (1893-1976)
 -   [Frankfurt School](https://en.wikipedia.org/wiki/Frankfurt_School) of Critical Theory
     -   Max Horkheimer (1895-1973)
     -   Theodor Adorno (1903-1969)
     -   Herbert Marcuse (1898-1979)
+-   Marxism in China
+    -   Mao Zedong (1893-1976)
 -   Marxism in Britain
     -   [Maurice Cornforth](https://en.wikipedia.org/wiki/Maurice_Cornforth) (1909-1980)
-
+-   Marxism in the USA
+    -   Michael Hudson (b. 1939)
+    -   Richard D. Wolff (b. 1942)
 
 #### Criticism
 
@@ -615,10 +622,28 @@ Economics
 ### Neoclassical economics
 
 -   Marginal Revolution
+    -   [Marginalism](https://en.wikipedia.org/wiki/Marginalism)
 -   [L&eacute;on Walras](https://en.wikipedia.org/wiki/L%C3%A9on_Walras) (1834-1910)
 -   [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons) (1835-1882)
 -   [Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger) (1840-1921)
 -   [John Bates Clark](https://en.wikipedia.org/wiki/John_Bates_Clark) (1847-1938)
+-   [Vilfredo Pareto](https://en.wikipedia.org/wiki/Vilfredo_Pareto) (1848-1923)
+-   [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes) (1883-1946)
+-   [Keynesian economics](https://en.wikipedia.org/wiki/Keynesian_economics)
+-   [Neoclassical synthesis](https://en.wikipedia.org/wiki/Neoclassical_synthesis)
+
+
+### Macroeconomics
+
+-   TODO
+
+
+### Microeconomics
+
+-   TODO
+-   Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. [^Ross2005]
+
+[^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
 
 
 ### Portfolio theory
@@ -632,10 +657,8 @@ See my [Finance Notes](https://rreece.github.io/finance-notes/).
     -   Sen, A. (1970). [The impossibility of a Paretian Liberal](https://dash.harvard.edu/bitstream/handle/1/3612779/Sen_ImpossibilityParetian.pdf). [^Sen1970]
     -   Sen, A. (2009). *The Idea of Justice*. [^Sen2009]
 -   Bikchandani, S., Riley, J.G., & Hirshleifer, J. (2013). *The Analytics of Uncertainty and Information*. [^Bikchandani2013]
--   Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. [^Ross2005]
 
 [^Bikchandani2013]: @Bikchandani_2013_The_Analytics_of_Uncertainty_and_Information\.
-[^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
 [^Sen1970]: @Sen_1970_The_impossibility_of_a_Paretian_Liberal\.
 [^Sen2009]: @Sen_2009_The_Idea_of_Justice\.
 
