@@ -603,6 +603,24 @@ Philosophy of law
 Economics
 --------------------------------------------------------------------------------
 
+### Classical economics
+
+-   Adam Smith
+-   Jean-Baptiste Say
+-   David Ricardo
+-   Thomas Robert Malthus
+-   [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) (1806-1873)
+
+
+### Neoclassical economics
+
+-   Marginal Revolution
+-   [L&eacute;on Walras](https://en.wikipedia.org/wiki/L%C3%A9on_Walras) (1834-1910)
+-   [William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons) (1835-1882)
+-   [Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger) (1840-1921)
+-   [John Bates Clark](https://en.wikipedia.org/wiki/John_Bates_Clark) (1847-1938)
+
+
 ### Portfolio theory
 
 See my [Finance Notes](https://rreece.github.io/finance-notes/).
@@ -627,9 +645,9 @@ Free speech
 
 ### Introduction
 
--   John Milton (1608-1674)
+-   [John Milton](https://en.wikipedia.org/wiki/John_Milton) (1608-1674)
     -   Milton, J. (1644). [*Areopagitica*](https://en.wikipedia.org/wiki/Areopagitica).
--   Voltaire (1694-1778)
+-   [Voltaire](https://en.wikipedia.org/wiki/Voltaire) (1694-1778)
 -   [First Amendment to the United States Constitution](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution) (1791)
 -   [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) (1806-1873)
     -   Pen-friendship with Auguste Comte
