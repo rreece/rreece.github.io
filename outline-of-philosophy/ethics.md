@@ -534,12 +534,15 @@ Political philosophy
 
 ### Marxism
 
--   Karl Marx and Friedrich Engels
-    -   [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx) (1818-1883)
-    -   [Friedrich Engels](https://en.wikipedia.org/wiki/Friedrich_Engels) (1820-1895)
+-   [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx) (1818-1883) and [Friedrich Engels](https://en.wikipedia.org/wiki/Friedrich_Engels) (1820-1895)
     -   [Dialectical materialism](https://en.wikipedia.org/wiki/Dialectical_materialism)
     -   *The Communist Manifesto* (1848)
-    -   The proletariat vs the bourgeoisie
+        -   The proletariat vs the bourgeoisie
+    -   *Das Kapital* in three volumes (1867, 1885, 1894)
+        1. *The Process of Production of Capital*
+        2. *The Process of Circulation of Capital*
+        3. *The Process of Capitalist Production as a Whole*
+            -   Differential and absolute ground rent
     -   Engels, F. (1883). [*Dialectics of Nature*](https://en.wikipedia.org/wiki/Dialectics_of_Nature).
 -   [October Revolution](https://en.wikipedia.org/wiki/October_Revolution) AKA Bolshevik Revolution (1917)
     -   Leon Trotsky (1879-1940)
