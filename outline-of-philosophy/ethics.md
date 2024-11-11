@@ -605,10 +605,10 @@ Economics
 
 ### Classical economics
 
--   Adam Smith
--   Jean-Baptiste Say
--   David Ricardo
--   Thomas Robert Malthus
+-   [Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith) (1723-1790)
+-   [Thomas Robert Malthus](https://en.wikipedia.org/wiki/Thomas_Robert_Malthus) (1766-1834)
+-   [Jean-Baptiste Say](https://en.wikipedia.org/wiki/Jean-Baptiste_Say) (1767-1832)
+-   [David Ricardo](https://en.wikipedia.org/wiki/David_Ricardo) (1772-1823)
 -   [John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill) (1806-1873)
 
 
