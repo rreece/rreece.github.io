@@ -663,6 +663,7 @@ Economics
 
 ### Behavioral economics
 
+-   Daniel Kahneman (1934-2024)
 -   Ross, D. (2005). *Economic Theory and Cognitive Science: Microexplanation*. [^Ross2005]
 
 [^Ross2005]: @Ross_2005_Economic_Theory_and_Cognitive_Science\.
