@@ -652,11 +652,13 @@ See also:
 -   Broughton, M. et al. (2020). [TensorFlow Quantum: A software framework for quantum machine learning](https://arxiv.org/abs/2003.02989). [^Broughton2020]
     -   TensorFlow. (2020). [tensorflow.org/quantum](https://www.tensorflow.org/quantum).
     -   TensorFlow. (2021). [Quantum machine learning concepts](https://www.tensorflow.org/quantum/concepts).
+-   Preskill, J. (2021). [Quantum computing 40 years later](https://arxiv.org/abs/2106.10522). [^Preskill2021]
 
 [^Arute2019]: @Arute_2019_Quantum_supremacy_using_a_programmable\.
 [^Broughton2020]: @Broughton_2020_TensorFlow_Quantum_A_software_framework\.
 [^Coecke2017]: @Coecke_2017_Picturing_Quantum_Processes_A_first_course\.
 [^Preskill2018]: @Preskill_2018_Quantum_computing_in_the_NISQ_era_and_beyond\.
+[^Preskill2021]: @Preskill_2021_Quantum_computing_40_years_later\.
 
 
 Quantum field theory
