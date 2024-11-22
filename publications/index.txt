@@ -2,7 +2,14 @@
 Here you will find lists of my selected publications.
 
 
-Some pedagogical notes
+R&eacute;sum&eacute; and CV
+-------------------------------------------------------------------------------
+
+-   My brief r&eacute;sum&eacute;: [<i class="far fa-file" style="font-size:20px;"></i>&nbsp;html](../docs/Ryan-Reece-resume.html), [<i class="far fa-file-pdf" style="font-size:20px;"></i>&nbsp;pdf](../docs/Ryan-Reece-resume.pdf)
+-   My full academic curriculum vitae: [<i class="far fa-file" style="font-size:20px;"></i>&nbsp;html](../docs/Ryan-Reece-cv.html), [<i class="far fa-file-pdf" style="font-size:20px;"></i>&nbsp;pdf](../docs/Ryan-Reece-cv.pdf)
+
+
+Pedagogical notes
 -------------------------------------------------------------------------------
 
 1.  [Deep Learning 101](https://github.com/rreece/deep-learning-101) (2024)
@@ -13,11 +20,10 @@ Some pedagogical notes
 1.  [Primer on complex analysis](pdf/2006.Reece.Primer-on-complex-analysis.pdf) (2006)
 
 
-R&eacute;sum&eacute; and CV
+Technical blogs
 -------------------------------------------------------------------------------
 
--   My brief r&eacute;sum&eacute;: [<i class="far fa-file" style="font-size:20px;"></i>&nbsp;html](../docs/Ryan-Reece-resume.html), [<i class="far fa-file-pdf" style="font-size:20px;"></i>&nbsp;pdf](../docs/Ryan-Reece-resume.pdf)
--   My full academic curriculum vitae: [<i class="far fa-file" style="font-size:20px;"></i>&nbsp;html](../docs/Ryan-Reece-cv.html), [<i class="far fa-file-pdf" style="font-size:20px;"></i>&nbsp;pdf](../docs/Ryan-Reece-cv.pdf)
+-   [Getting started with PyTorch BERT models on the Cerebras CS-2 System](https://cerebras.net/blog/getting-started-with-pytorch-bert-models-on-the-cerebras-cs-2-system/) (2022)
 
 
 Machine learning publications
