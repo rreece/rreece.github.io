@@ -4,7 +4,7 @@ Blumberg, A.E. & Feigl, H. (1931). Logical positivism: A new movement in Europea
 Carnap, R. (1987). On protocol sentences. *Nous*, 21, 457--470. http://www.ualberta.ca/~francisp/NewPhil448/Carnap1932ProtocolSentences.pdf [(R. Creath & R. Nollan, Trans. Originally published in 1932 as {\"U}ber Protokolls{\"a}tze. \emph{Erkenntnis}, 3, 215--228.)]
 #Carnap, R. (1932). The elimination of metaphysics through logical analysis of language. *Erkenntnis*, 2. https://philpapers.org/archive/TEO.pdf
 Carnap, R. (1959). The elimination of metaphysics through logical analysis of language. In A.J. Ayer (Ed.) *Logical Positivism* (pp. 60--81). New York: The Free Press. https://philpapers.org/archive/TEO.pdf [(Translated by Arthur Pap; originally published in 1932 as ``{\"U}berwindung der Metaphysik durch logische Analyse der Sprache`` in \emph{Erkenntnis}, 2, 219--241.)]
-Carnap, R. (1950). Empiricism, semantics, and ontology. *Revue Internationale de Philosophie*, 4, 20--40. https://tu-dresden.de/gsw/phil/iphil/theor/ressourcen/dateien/braeuer/lehre/metameta/Carnap---EmpiricismSemanticsOntology.pdf
+Carnap, R. (1950). Empiricism, semantics, and ontology. *Revue Internationale de Philosophie*, 4, 20--40. https://www.phil.cmu.edu/projects/carnap/editorial/latex_pdf/1956-ESO.pdf
 Carnap, R. (1955). The logical foundations of the unity of science. In *International Encyclopedia of Unified Science: Volume I* (pp. 42--62). University of Chicago Press.
 Carnap, R. (1955). Meaning and synonymy in natural languages. *Philosophical Studies*, 6, 33--47.
 Carnap, R. (1936). Testability and meaning. *Philosophy of Science*, 3, 419--471.

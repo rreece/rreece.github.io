@@ -1099,7 +1099,7 @@ TODO: Note any differences between:
     -   Leitgeb & Carus: "talk of meaning should in any case be eschewed in favor of talk of syntax" [^Leitgeb2020G]
     -   Coffa, A. (1987). [Carnap, Tarski and the search for truth](https://www.jstor.org/stable/2215672). [^Coffa1987]
     -   Blanchette, P. (2013). Talk: [Frege and G&ouml;del on mathematics as syntax](https://www.youtube.com/watch?v=y8yZp-cjR2I).
--   Carnap, R. (1950). Empiricists, semantics, and ontology. (ESO) [^Carnap1950]
+-   Carnap, R. (1950). [Empiricism, semantics, and ontology](https://www.phil.cmu.edu/projects/carnap/editorial/latex_pdf/1956-ESO.pdf). (ESO) [^Carnap1950]
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
     -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
     -   Nado, J. (2024). [Truth in philosophy: a conceptual engineering approach](https://link.springer.com/article/10.1007/s44204-024-00151-0). [^Nado2024]
