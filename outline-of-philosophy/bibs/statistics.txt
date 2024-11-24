@@ -94,6 +94,7 @@ Cilibrasi, R. & Vitanyi, P.M.B. (2005). Clustering by compression. *IEEE Transac
 Ciresan, D., Meier, U. Masci, J. & Schmidhuber, J. (2012). Multi-column deep neural network for traffic sign classification. *Neural Networks*, 32, 333--338. https://arxiv.org/abs/1202.2745
 Clopper, C.J. & Pearson, E.S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, 26(4), 404--413.
 Coadou, Y. (2022). Boosted decision trees. https://arxiv.org/abs/2206.09645
+Cohen, J. (1992). A power primer. *Psychological Bulletin*, 112, 155--9. https://www2.psych.ubc.ca/~schaller/528Readings/Cohen1992.pdf
 Cohen, T.S., Weiler, M., Kicanaoglu, B., & Welling, M. (2019). Gauge equivariant convolutional networks and the icosahedral CNN. https://arxiv.org/abs/1902.04615
 Cohen, T.S. & Welling, M. (2016). Group equivariant convolutional networks. *Proceedings of International Conference on Machine Learning*, 2016, 2990--9. http://proceedings.mlr.press/v48/cohenc16.pdf
 Collobert, R., Hannun, A., & Synnaeve, G. (2019). A fully differentiable beam search decoder. *International Conference on Machine Learning*, 2019, 1341--1350. http://proceedings.mlr.press/v97/collobert19a/collobert19a.pdf

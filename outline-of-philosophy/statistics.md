@@ -710,6 +710,7 @@ Fisher:
 -   probes an alternative hypothesis [^Goodman1999p998]
 -   Type-1 and type-2 errors
 -   Power and confidence
+-   Cohen, J. (1992). [A power primer](https://www2.psych.ubc.ca/~schaller/528Readings/Cohen1992.pdf). [^Cohen1992]
 -   Cranmer, K. (2020). [Thumbnail of LHC statistical procedures](http://theoryandpractice.org/stats-ds-book/statistics/lhc_stats_thumbnail.html).
 -   ATLAS and CMS Collaborations. (2011). [Procedure for the LHC Higgs boson search combination in Summer 2011](http://cds.cern.ch/record/1379837). [^ATLAS2011b]
 -   Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). [Asymptotic formulae for likelihood-based tests of new physics](https://arxiv.org/abs/1007.1727). [^Cowan2011again]
@@ -721,6 +722,7 @@ See also:
 -   [Statistical classification](#statistical-classification)
 
 [^ATLAS2011b]: @ATLAS_2011_Procedure_for_the_LHC_Higgs_boson_search\.
+[^Cohen1992]: @Cohen_1992_A_power_primer\.
 [^Cowan2011again]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
 [^Goodman1999p998]: @Goodman_1999_Toward_evidence_based_medical_statistics_1_The_P\. p. 998.
 
