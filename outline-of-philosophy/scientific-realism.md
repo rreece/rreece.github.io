@@ -836,6 +836,12 @@ Wittgenstein studied with, was influenced by, and influenced:
 -   George Edward Moore
 -   [Friedrich Waismann](https://en.wikipedia.org/wiki/Friedrich_Waismann) (1896-1959)
 
+Wittgenstein in a letter to Russell in 1913:
+
+>   The big question now is, how must a system of signs be constituted in order to
+>   make every tautology recognizable as such IN ONE AND THE SAME WAY?
+>   This is the fundamental problem of logic! [^McGuinness2008p59]
+
 *Tractatus Logico-Philosophicus* (1922) [^Wittgenstein1922]
 
 >   *Tractatus Logico-Philosophicus* [is] the only philosophy book that Wittgenstein
@@ -918,6 +924,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 [^Gaskin2009p53]: @Gaskin_2009_Realism_and_the_picture_theory_of_meaning\, p. 53.
 [^Hahn1973Sec1_2]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect;1.2.
 [^Keyt1964]: @Keyt_1964_Wittgensteins_picture_theory_of_language\.
+[^McGuinness2008p59]: @McGuinness_2008_Wittgenstein_in_Cambridge_Letters_and_Documents\, p. 59.
 [^Ogden1923]: @Ogden_1989_The_Meaning_of_Meaning\.
 [^Reck2005]: @Reck_2005_Freges_influence_on_Wittgenstein_Reversing\.
 [^Richter2004]: @Richter_2004_Ludwig_Wittgenstein\. <https://iep.utm.edu/wittgens/>
