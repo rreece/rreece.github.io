@@ -760,6 +760,8 @@ Feminism
     -   American Temperance Society (ATS)
     -   Woman's Christian Temperance Union (WCTU)
 -   [Margaret Sanger](https://en.wikipedia.org/wiki/Margaret_Sanger) (1879-1966)
+-   [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) (1872-1970)
+    -   [*Marriage and Morals*](https://en.wikipedia.org/wiki/Marriage_and_Morals) (1929)
 
 
 ### Women's liberation movement (1960s-1980s)

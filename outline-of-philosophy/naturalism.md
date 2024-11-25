@@ -937,11 +937,29 @@ Scruton:
 >   is surely missing the point. There are forms of human understanding that
 >   can be neither reduced to science nor enhanced by it.  [^Scruton2015p140]
 
+Carnap on Wittgenstein:
+
+>   there was a striking difference between Wittgenstein's attitude toward
+>   philosophical problems and that of Schlick and myself. Our attitude toward
+>   philosophical problems was not very different from that which scientists
+>   have toward their problems.    
+>   ...   
+>   His point of view and his attitude toward people and problems, even
+>   theoretical problems, were much more similar to those of a creative artist
+>   than to those of a scientist; one might almost say, similar to those of a
+>   religious prophet or a seer.... When finally, sometimes after a prolonged
+>   arduous effort, his answers came forth, his statement stood before us like
+>   a newly created piece of art or a divine revelation ... the impression he
+>   made on us was as if insight came to him as through divine inspiration,
+>   so that we could not help feeling that any sober rational comment or
+>   analysis of it would be a profanation. [^Carnap1963p25]
+
 See also:
 
 -   [Is there a universal scientific method?](scientific-method.html#is-there-a-universal-scientific-method)
 
 [^Boghossian2006p2]: @Boghossian_2006_Fear_of_Knowledge\, p. 2.
+[^Carnap1963p25]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\, p. 25-7.
 [^Feigl1958]: @Feigl_1958_Critique_of_intuition_according_to_scientific\.
 [^Ney2019]: @Ney_2019_Are_the_questions_of_metaphysics_more_fundamental\.
 [^Scruton2015]: @Scruton_2015_Scientism_and_the_humanities\.
