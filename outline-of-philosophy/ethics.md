@@ -680,6 +680,7 @@ See my [Finance Notes](https://rreece.github.io/finance-notes/).
     -   Sen, A. (1970). [The impossibility of a Paretian Liberal](https://dash.harvard.edu/bitstream/handle/1/3612779/Sen_ImpossibilityParetian.pdf). [^Sen1970]
     -   Sen, A. (2009). *The Idea of Justice*. [^Sen2009]
 -   Bikchandani, S., Riley, J.G., & Hirshleifer, J. (2013). *The Analytics of Uncertainty and Information*. [^Bikchandani2013]
+-   [Wright's law](https://www.ark-invest.com/wrights-law)
 
 [^Bikchandani2013]: @Bikchandani_2013_The_Analytics_of_Uncertainty_and_Information\.
 [^Sen1970]: @Sen_1970_The_impossibility_of_a_Paretian_Liberal\.
