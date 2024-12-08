@@ -131,10 +131,9 @@ Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. *Physical Review*
 Dyson, F.J. (1952). Divergence of perturbation theory in quantum electrodynamics. *Physical Review*, 85(4), 631.
 Earman, J. & Fraser, D. (2006). Haag's theorem and its implications for the foundations of quantum field theory. *Erkenntnis*, 64(3), 305--344.
 Einstein, A. (1905). Ist die tr{\"a}gheit eines k{\"o}rpers von seinem energieinhalt abh{\"a}ngig? *Annalen der Physik*, 323, 639--641. https://onlinelibrary.wiley.com/doi/10.1002/andp.19053231314
-#Einstein, A. (1905). On the electrodynamics of moving bodies. *Annalen der Physik*, 322, 891--921. http://www.damtp.cam.ac.uk/user/gold/pdfs/teaching/old_literature/Einstein1905.pdf
 Einstein, A. (1905). {\"U}ber die von der molekularkinetischen theorie der w{\"a}rme geforderte bewegung von in ruhenden fl{\"u}ssigkeiten suspendierten teilchen. *Annalen der Physik*, 322, 549--560. https://onlinelibrary.wiley.com/doi/10.1002/andp.19053220806
 Einstein, A. (1905). {\"U}ber einen die erzeugung und verwandlung des lichtes betreffenden heuristischen gesichtspunkt. *Annalen der Physik*, 322, 132--148. https://onlinelibrary.wiley.com/doi/10.1002/andp.19053220607
-Einstein, A. (1905). Zur elektrodynamik bewegter k{\"o}rper. *Annalen der Physik*, 322, 891--921. https://onlinelibrary.wiley.com/doi/10.1002/andp.19053221004
+Einstein, A. (1905). Zur elektrodynamik bewegter k{\"o}rper. *Annalen der Physik*, 322, 891--921. https://www.physics.umd.edu/courses/Phys606/spring_2011/einstein_electrodynamics_of_moving_bodies.pdf [(On the electrodynamics of moving bodies).]
 Einstein, A. & Grossmann, M. (1913). Entwurf einer verallgemeinerten relativit{\"a}tstheorie und einer theorie der gravitation (Outline of a generalized theory of relativity and of a theory of gravitation). *Zeitschrift f{\"u}r Mathematik und Physik*, 62, 225--261. http://www.icra.it/MG/doc/Einstein_Entwurf_1913.pdf
 Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? *Physical Review*, 47, 777--780. https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777
 Englert, F. & Brout, R. (1964). Broken symmetry and the mass of gauge vector mesons. *Physical Review Letters*, 13, 321--323. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.321
