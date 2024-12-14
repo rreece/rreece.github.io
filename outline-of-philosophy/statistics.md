@@ -1576,6 +1576,7 @@ Deep learning
     -   Labonne, M. (2023). [Large Language Model Course](https://github.com/mlabonne/llm-course).
     -   Microsoft. (2023). [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners).
     -   Scardapane, S. (2024). [*Alice's Adventures in a Differentiable Wonderland, Vol. I: A Tour of the Land*](https://arxiv.org/abs/2404.17625). [^Scardapane2024]
+    -   Grover, A. (2018). [Notes on deep generative models](https://deepgenerativemodels.github.io/notes/).
 -   Practical guides
     -   Bottou, L. (1998). [Stochastic gradient descent tricks](https://www.microsoft.com/en-us/research/publication/stochastic-gradient-tricks/). [^Bottou1998]
     -   Bengio, Y. (2012). [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533).
@@ -1882,7 +1883,8 @@ Resources:
 [^Dhariwal2021]: @Dhariwal_2021_Diffusion_models_beat_GANs_on_image_synthesis\.
 [^Dosovitskiy2020]: @Dosovitskiy_2020_An_image_is_worth_16x16_words_Transformers\.
 [^Fukushima1982]: @Fukushima_1982_Neocognitron_A_new_algorithm_for_pattern\.
-[^Haber2017]: @Haber_2017_Stable_architectures_for_deep_neural_networks\.
+[^Haber2017]: @Haber_2017_Stable_architectures_for_deep_neural_networks and
+    @Haber_2018_Learning_across_scales_Multiscale_methods\.
 [^He2015]: @He_2015_Deep_residual_learning_for_image_recognition\.
 [^Howard2017]: @Howard_2017_MobileNets_Efficient_convolutional_neural\.
 [^Ingrosso2022]: @Ingrosso_2022_Data_driven_emergence_of_convolutional_structure\.
