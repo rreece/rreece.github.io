@@ -1228,15 +1228,20 @@ Logicism
 -   Relationship with positivism?
 -   Russell, B. (1905). [On denoting](https://www.finophd.eu/wp-content/uploads/2018/11/russell_on_denoting.pdf). [^Russell1905]
 -   Russell expresses support for the platonic "universals" [^Russell1912p91]
--   Rudolf Carnap (1931) presents the logicist thesis in two parts: [^Carnap1931]
-    1.  The concepts of mathematics can be derived from logical concepts through explicit definitions.
-    2.  The theorems of mathematics can be derived from logical axioms through purely logical deduction.
+-   Carnap's logicism
+    -   Rudolf Carnap (1931) presents the logicist thesis in two parts: [^Carnap1931]
+        1.  The concepts of mathematics can be derived from logical concepts through explicit definitions.
+        2.  The theorems of mathematics can be derived from logical axioms through purely logical deduction.
+    -   Marschall, B. (2021). [Carnap and Beth on the limits of tolerance](https://doi.org/10.1017/can.2021.16). [^Marschall2021]
+    -   Marschall, B. (2022). [Carnap's philosophy of mathematics](https://doi.org/10.1111/phc3.12884). [^Marschall2022]
 -   Snapper, E. (1979). [The three crises in mathematics: Logicism, intuitionism and formalism](https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/1980/0025570x.di021111.02p0048m.pdf). [^Snapper1979]
 -   Shapiro, S. (2000). *Thinking about Mathematics: The Philosophy of Mathematics*. [^Shapiro2000]
 -   [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle)
 -   [Frege's theorem](https://en.wikipedia.org/wiki/Frege%27s_theorem)
 
 [^Carnap1931]: @Carnap_1983_The_Logicist_foundations_of_mathematics\.
+[^Marschall2021]: @Marschall_2021_Carnap_and_Beth_on_the_limits_of_tolerance\.
+[^Marschall2022]: @Marschall_2022_Carnaps_philosophy_of_mathematics\.
 [^Russell1905]: @Russell_1905_On_denoting\.
 [^Russell1912p91]: @Russell_1912_The_Problems_of_Philosophy\, p. 91--118.
 [^Shapiro2000]: @Shapiro_2000_Thinking_about_Mathematics_The_Philosophy\.

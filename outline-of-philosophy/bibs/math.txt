@@ -63,6 +63,8 @@ Linsky, B. & Zalta, E.N. (2006). What is Neologicism? *The Bulletin of Symbolic 
 Lloyd, S. (1993). Quantum-mechanical computers and uncomputability. Physical Review Letters, 71, 943--46.
 MacFarlane, J. (2021). *Philosophical Logic: A contemporary introduction*. Routledge.
 Makowsky, J.A. (1995). The impact of model theory on theoretical computer science. *Studies in Logic and the Foundations of Mathematics*, 134, 239--262. https://doi.org/10.1016/S0049-237X(06)80047-9
+Marschall, B. (2021). Carnap and Beth on the limits of tolerance. *Canadian Journal of Philosophy*, 51, 282--300. https://doi.org/10.1017/can.2021.16
+Marschall, B. (2022). Carnap's philosophy of mathematics. *Philosophy Compass*, 17, 12884. https://doi.org/10.1111/phc3.12884
 Mart{\'i}nez-Ordaz, M.R. (2021). The ignorance behind inconsistency toleration. *Synthese*, 198, 8665--8686. http://philsci-archive.pitt.edu/19672/
 McCrimmon, K. (2000). *A Taste of Jordan Algebras*. Springer. http://old.math.nsc.ru/LBRT/a1/files/mccrimmon.pdf
 Mill, J.S. (1877). *An Examination of Sir William Hamilton's Philosophy, vol II*. New York: Henry Holt and Co.
