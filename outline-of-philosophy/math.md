@@ -534,12 +534,17 @@ See also:
     -   The natural numbers model PA, but not uniquely in FOL.
     -   In SOL, PA is *categorical*, meaning it has only one model up to isomorphism.
 -   Henkin semantics
-    -   SOL with Henkin semantics is complete.
+    -   SOL with Henkin semantics is complete. [^Henkin1950]
 -   Higher-order logics, type theory
+    -   Russell's theory of types [^Russell1908]
+    -   Alonzo Church's lambda calculus [^Church1940]
     -   All higher-order logics have the same expressive power as second-order logic.
-    -   Russell's theory of types
-    -   Alonzo Church's lambda calculus
     -   Modern type theory and its relationship with category theory
+
+[^Church1940]: @Church_1940_A_formulation_of_the_simple_theory_of_types\.
+[^Henkin1950]: @Henkin_1950_Completeness_in_the_theory_of_types\.
+[^Russell1908]: @Russell_1908_Mathematical_logic_as_based_on_the_theory\.
+
 
 #### Incompleteness of second-order logic
 
