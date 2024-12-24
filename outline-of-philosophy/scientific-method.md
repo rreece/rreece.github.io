@@ -817,6 +817,9 @@ Carnap:
 >   **Theorem 52.3.** Every logical sentence is $L$-determinate;
 >   *there are no synthetic logical sentences*. [^Carnap1937LSLp184]
 
+>   **Theorem 60c.1.** If $S$ is consistent, or at least non-contradictory,
+>   then '*analytic* (*in* $S$)' *is indefinable in* $S$. [^Carnap1937LSLp219]
+
 -   Carnap, R. (1950). [Empiricism, semantics, and ontology](https://tu-dresden.de/gsw/phil/iphil/theor/ressourcen/dateien/braeuer/lehre/metameta/Carnap---EmpiricismSemanticsOntology.pdf). [^Carnap1950a]
     -   Internal vs external questions
 -   Awodey, S. & Carus, A.W. (2007). [Carnap's dream: G&ouml;del, Wittgenstein, and Logical Syntax](https://link.springer.com/content/pdf/10.1007/s11229-006-9066-4.pdf). [^Awodey2007]
@@ -838,6 +841,7 @@ See also:
 
 [^Awodey2007]: @Awodey_2007_Carnaps_dream_Godel_Wittgenstein\.
 [^Carnap1937LSLp184]: @Carnap_1937_Logical_Syntax_of_Language\, p. 184.
+[^Carnap1937LSLp219]: @Carnap_1937_Logical_Syntax_of_Language\, p. 219.
 [^Carnap1950a]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Hansson2018]: @Hansson_2018_Introduction_to_Formal_Philosophy\.
 [^Hendricks2006]: @Hendricks_2006_Mainstream_and_Formal_Epistemology\.
