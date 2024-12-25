@@ -760,6 +760,7 @@ See also:
 ### Incompleteness
 
 -   [Kurt G&ouml;del](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del) (1906-1978)
+    -   Carnap inspired G&ouml;del to study logic. [^Goldfarb2005]
 -   G&ouml;del, K. (1931). &Uuml;ber formal unentscheidbare S&auml;tze der Principia Mathematica und verwandter Systeme, I. [^Godel1931]
 -   G&ouml;del, K. (1951). Some basic theorems on the foundations of mathematics and their implications. [^Godel1951]
 -   G&ouml;del presented his incompleteness theorems at the
@@ -832,6 +833,7 @@ See also:
 [^Edmonds2020p96]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\, p. 96
     and TODO: Carnap's diary.
 [^Franzen2005]: @Franzen_2005_Godels_Theorem_An_incomplete_guide_to_its\.
+[^Goldfarb2005]: @Goldfarb_2005_On_Godels_way_in_The_influence_of_Rudolf\.
 [^Goldstein2005]: @Goldstein_2005_Incompleteness_The_Proof_and_Paradox_of_Kurt\.
 [^Lloyd1993]: @Lloyd_1993_Quantum_mechanical_computers_and_uncomputability\.
 [^Raatikainen2020]: @Raatikainen_2020_Godels_incompleteness_theorems\.
@@ -1292,6 +1294,7 @@ Formalism
 
 -   Hilbert
 -   Antirealist?
+-   Michael Hallett
 
 Hilbert:
 

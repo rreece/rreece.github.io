@@ -1015,6 +1015,11 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
     -   Helped the spread of positivism in British academia.
 -   The murder of Schlick in 1936 by a former student put an end to the Vienna Circle in Austria.
 
+Disucssions of overcoming metaphysics:
+
+-   Sachs, C.B. (2011). What is to be Overcome? Nietzsche, Carnap, and modernism as the overcoming of metaphysics. *History of Philosophy Quarterly*, 28, 303--318. [^Sachs2011]
+-   Creath, R. (2023). [What was Carnap rejecting when he rejected metaphysics?](https://manifold.umn.edu/read/from-biological-practice-to-scientific-metaphysics/section/0d271498-1f37-49d7-8bf5-3268cb77b4a0#ch03). [^Creath2023]
+
 Surveys:
 
 -   Coffa, A. (1991). *The Semantic Tradition from Kant to Carnap: To the Vienna Station*. [^Coffa1991]
@@ -1034,15 +1039,22 @@ Vienna Circle scholars:
 -   Andr&eacute; W. Carus
 -   Alberto Coffa (1935-1984)
 -   Richard Creath (b. 1947)
+-   Christian Damb&ouml;ck (b. 1968)
 -   Michael Friedman (b. 1947)
 -   Ronald Giere (1938-2020)
+-   Warren Goldfarb (b. 1949)
+-   Jaakko Hintikka (1929-2015)
 -   Benjamin Marschall
--   Brian McGuinness (1927-2019)
+-   Thomas Mormann (b. 1951)
+-   Brian F. McGuinness (1927-2019)
 -   Mauro Murzi (b. 1961)
+-   Matthias Neuber (b. 1970)
+-   Panu Raatikainen
 -   Karl Sigmund (b. 1945)
 -   Friedrich Stadler (b. 1951)
 -   Thomas Uebel (b. 1952)
 -   Sander Verhaegh (b. 1986)
+-   Andreas Vrahimis
 -   Pierre Wagner (b. 1963)
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
@@ -1052,11 +1064,13 @@ Vienna Circle scholars:
 [^Carnap1932b]: @Carnap_1987_On_protocol_sentences\.
 [^Chalmers2020b]: @Chalmers_2020_Carnaps_Second_Aufbau_and_David_Lewiss_Aufbau\.
 [^Coffa1991]: @Coffa_1991_The_Semantic_Tradition_from_Kant_to_Carnap\.
+[^Creath2023]: @Creath_2023_What_was_Carnap_rejecting_when_he_rejected\.
 [^Edmonds2020a]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\.
 [^Edmonds2020p90]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\, p. 90.
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 [^Lewis1969]: @Lewis_1969_Policing_the_Aufbau\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\. <https://iep.utm.edu/viennacr/>
+[^Sachs2011]: @Sachs_2011_What_is_to_be_Overcome_Nietzsche_Carnap\.
 [^Schlick1930]: @Schlick_1959_The_turning_point_in_philosophy\.
 [^Schlick1933]: @Schlick_1948_Positivism_and_realism\.
 [^Schlick1974]: @Schlick_1974_General_Theory_of_Knowledge\.
@@ -1101,6 +1115,7 @@ TODO: Note any differences between:
     at the University at Istanbul.
 -   In 1935, Carnap emigrated to the United States and became a professor
     at the University of Chicago.
+    -   In 1937, Carl Gustav Hempel joined Carnap at U Chicago as his assistant.
 -   Carnap, R. (1936). Testability and meaning. [^Carnap1936]
     -   Argued to replace verification with confirmation.
     -   Carnap spent many years trying to develop a theory of degree of confirmation
@@ -1120,7 +1135,8 @@ TODO: Note any differences between:
 -   Carnap joined UCLA in 1954, the year after Reichenbach died.
 -   Carnap died in 1970.
 -   Surveys of Carnap
-    -   *The Philosophy of Rudolf Carnap* AKA the "Schilpp volume" [^Schilpp1963]
+    -   Carnap, R. & Schilpp, P.A. (1963). [*The Philosophy of Rudolf Carnap*](http://fitelson.org/confirmation/carnap_schilpp_volume.pdf). [^Schilpp1963]
+        -   AKA the "Schilpp volume"
         -   Paul Arthur Schilpp (1897-1993)
     -   Buck, R.C. & Cohen, R.S. (1971). *PSA 1970: In Memory of Rudolf Carnap Proceedings of the 1970 Biennial Meeting Philosophy of Science Association*. [^Buck1971]
     -   Hintikka, J. (1975). *Rudolf Carnap, Logical Empiricist*. [^Hintikka1975]
@@ -1155,7 +1171,6 @@ TODO: Note any differences between:
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
     -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
     -   Nado, J. (2024). [Truth in philosophy: a conceptual engineering approach](https://link.springer.com/article/10.1007/s44204-024-00151-0). [^Nado2024]
--   Creath, R. (2023). [What was Carnap rejecting when he rejected metaphysics?](https://manifold.umn.edu/read/from-biological-practice-to-scientific-metaphysics/section/0d271498-1f37-49d7-8bf5-3268cb77b4a0#ch03). [^Creath2023]
 
 Carnap in ESO:
 
@@ -1179,7 +1194,6 @@ Discussion:
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Carnap1950p7]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 7.
 [^Coffa1987]: @Coffa_1987_Carnap_Tarski_and_the_search_for_truth\.
-[^Creath2023]: @Creath_2023_What_was_Carnap_rejecting_when_he_rejected\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 [^Lavers2004]: @Lavers_2004_Carnap_semantics_and_ontology\.
 [^Lavers2015]: @Lavers_2015_Carnap_Quine_quantification_and_ontology\.
@@ -1607,7 +1621,6 @@ Bunge:
 
 Positivism vs critical theory:
 
--   Sachs, C.B. (2011). What is to be Overcome? Nietzsche, Carnap, and modernism as the overcoming of metaphysics. *History of Philosophy Quarterly*, 28, 303--318. [^Sachs2011]
 -   Sachs, C.B. (2020). [Why did the Frankfurt school misunderstand logical positivism?](https://jhiblog.org/2020/08/05/why-did-the-frankfurt-school-misunderstand-logical-positivism/)
 -   O'Neill, J. & Uebel, T. (2004). Horkheimer and Neurath: Restarting a disrupted debate. *European Journal of Philosophy*, 12, 75--105. [^ONeill2004]
 -   Vrahimis, A. (2020). [Scientism, social praxis, and overcoming metaphysics: A debate between logical empiricism and the Frankfurt School](https://www.journals.uchicago.edu/doi/full/10.1086/710184). [^Vrahimis2020]
@@ -1621,7 +1634,6 @@ Positivism vs critical theory:
 [^ONeill2004]: @ONeill_2004_Horkheimer_and_Neurath_Restarting_a_disrupted\.
 [^Passmore1967]: @Passmore_1967_Logical_positivism and 
     @Creath_2017_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
-[^Sachs2011]: @Sachs_2011_What_is_to_be_Overcome_Nietzsche_Carnap\.
 [^Suppe2000]: @Suppe_2000_Understanding_scientific_theories_An_assessment\.
 [^Vrahimis2020]: @Vrahimis_2020_Scientism_social_praxis_and_overcoming\.
 

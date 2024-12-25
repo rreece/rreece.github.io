@@ -79,6 +79,7 @@ Carnap, R. (1947). Probability as a guide in life. *Journal of Philosophy*, 44(6
 Carnap, R. (1952). *The Continuum of Inductive Methods*. University of Chicago Press. https://www.phil.cmu.edu/projects/carnap/editorial/latex_pdf/1952-1.pdf
 Carnap, R. (1953). What is probability? *Scientific American*, 189(3), 128--139. https://www.jstor.org/stable/24944342
 Carnap, R. (1960). *Logical Foundations of Probability*. University of Chicago Press.
+Cartwright, N. (2001). What is wrong with Bayes nets? *Monist*, 84, 242--264. https://doi.org/10.5840/monist20018429
 Carver, J.C., Weber, N., Ram, K., Gesing, S., & Katz, D.S. (2022). A survey of the state of the practice for research software in the United States. *PeerJ Computer Science*, 8, 963. https://peerj.com/articles/cs-963/
 Casadei, D. (2012). Estimating the selection efficiency. *Journal of Instrumentation*, 7, 08021. https://arxiv.org/abs/0908.0130
 Cesa-Bianchi, N. & Lugosi, G. (2006). *Prediction, Learning, and Games*. Cambridge University Press. https://ii.uni.wroc.pl/~lukstafi/pmwiki/uploads/AGT/Prediction_Learning_and_Games.pdf

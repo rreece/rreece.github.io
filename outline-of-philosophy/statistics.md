@@ -1356,11 +1356,13 @@ Classical machine learning
 -   Connectionist vs symbolic AI
     -   Minsky, M. & Papert, S. (1969). *Perceptrons: An Introduction to Computational Geometry*. [^Minsky1969]
     -   AI Winter
+    -   Cartwright, N. (2001). [What is wrong with Bayes nets?](https://doi.org/10.5840/monist20018429). [^Cartwright2001]
 
 See also:
 
 -   [Honorific reinterpretation](naturalism.html#honorific-reinterpretation) of scientism
 
+[^Cartwright2001]: @Cartwright_2001_What_is_wrong_with_Bayes_nets\.
 [^DartmouthProposal1955a]: @McCarthy_1955_A_proposal_for_the_Dartmouth_Summer_Research\.
 [^Kardum2020]: @Kardum_2020_Rudolf_Carnap_The_grandfather_of_artificial\.
 [^Minsky1969]: @Minsky_1969_Perceptrons_An_Introduction_to_Computational\.
