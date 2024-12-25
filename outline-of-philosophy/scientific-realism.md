@@ -966,6 +966,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
     -   Attened by Philipp Frank, Otto Neurath, and Richard von Mises.
 -   Ernst Mach Society
 -   Carnap
+    -   [Oxford Bibliographies: Rudolf Carnap](https://www.oxfordbibliographies.com/display/document/obo-9780195396577/obo-9780195396577-0248.xml)
     -   From 1910--1914, Carnap studied philosophy, physics and mathematics at the universities of Jena and Freiburg.
     -   Carnap studied mathematical logic under Frege at Jena.
     -   Carnap met Reichenbach at the "Erlangen Conference", March 6-13, 1923.
