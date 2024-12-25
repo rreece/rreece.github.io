@@ -1842,11 +1842,11 @@ Blogs:
 -   Hu, E.J. et al (2021). [LoRA: Low-rank adaptation of large language models](https://arxiv.org/abs/2106.09685). [^Hu2021]
 -   Dettmers, T., Pagnoni, A., Holtzman, A., & Zettlemoyer, L. (2023). [QLoRA: Efficient finetuning of quantized LLMs](https://arxiv.org/abs/2305.14314). [^Dettmers2023]
 -   Zhao, J. et al (2024). [GaLore: Memory-efficient LLM training by gradient low-rank projection](https://arxiv.org/abs/2403.03507). [^Zhao2024]
--   Huh, M. et al. (2024). [Training neural networks from scratch with parallel low-rank adapters](https://arxiv.org/abs/2402.16828). [^Huh2024]
+-   Huh, M. et al. (2024). [Training neural networks from scratch with parallel low-rank adapters](https://arxiv.org/abs/2402.16828). [^Huh2024a]
 
 [^Dettmers2023]: @Dettmers_2023_QLoRA_Efficient_finetuning_of_quantized_LLMs\.
 [^Hu2021]: @Hu_2021_LoRA_Low_rank_adaptation_of_large_language_models\.
-[^Huh2024]: @Huh_2024_Training_neural_networks_from_scratch\.
+[^Huh2024a]: @Huh_2024_Training_neural_networks_from_scratch\.
 [^Zhao2024]: @Zhao_2024_GaLore_Memory_efficient_LLM_training_by_gradient\.
 
 
@@ -1873,7 +1873,7 @@ Blogs:
 -   Liu, Y. et al. (2021). [A survey of visual transformers](https://arxiv.org/abs/2111.06091). [^Liu2021Survey]
 -   Ingrosso, A. & Goldt, S. (2022). [Data-driven emergence of convolutional structure in neural networks](https://arxiv.org/abs/2202.00565). [^Ingrosso2022]
 -   Park, N. & Kim, S. (2022). [How do vision transformers work?](https://arxiv.org/abs/2202.06709) [^Park2022]
--   Zhao, Y. et al. (2023). [DETRs beat YOLOs on real-time object detection](https://arxiv.org/abs/2304.08069). [^Zhao2023]
+-   Zhao, Y. et al. (2023). [DETRs beat YOLOs on real-time object detection](https://arxiv.org/abs/2304.08069). [^Zhao2023a]
 -   Nakkiran, P., Bradley, A., Zhou, H. & Advani, M. (2024). [Step-by-step diffusion: An elementary tutorial](https://arxiv.org/abs/2406.08929). [^Nakkiran2024]
 
 Resources:
@@ -1902,7 +1902,7 @@ Resources:
 [^Simonyan2014]: @Simonyan_2014_Very_deep_convolutional_networks_for_large_scale\.
 [^Tan2019]: @Tan_2019_EfficientNet_Rethinking_model_scaling\.
 [^Tan2021]: @Tan_2021_EfficientNetV2_Smaller_models_and_faster_training\.
-[^Zhao2023]: @Zhao_2023_DETRs_beat_YOLOs_on_real_time_object_detection\.
+[^Zhao2023a]: @Zhao_2023_DETRs_beat_YOLOs_on_real_time_object_detection\.
 
 
 ### Natural language processing
@@ -2041,7 +2041,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 -   Wolfram, S. (2023). [What is ChatGPT doing---and why does it work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) [^Wolfram2023]
 -   GPT-4 [^OpenAI2023]
 -   Mohamadi, S., Mujtaba, G., Le, N., Doretto, G., & Adjeroh, D.A. (2023). [ChatGPT in the age of generative AI and large language models: A concise survey](https://arxiv.org/abs/2307.04251v1). [^Mohamadi2023]
--   Zhao, W.X. et al. (2023). [A survey of large language models](https://arxiv.org/abs/2303.18223). [^Zhao2023]
+-   Zhao, W.X. et al. (2023). [A survey of large language models](https://arxiv.org/abs/2303.18223). [^Zhao2023b]
 -   3Blue1Brown. (2024). Video: [But what is a GPT? Visual intro to Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M).
 -   Golovneva, O., Wang, T., Weston, J., & Sukhbaatar, S. (2024). [Contextual position encoding: Learning to count what's important](https://arxiv.org/abs/2405.18719). [^Golovneva2024]
 -   Apple. (2024). [Apple Intelligence Foundation Language Models](https://machinelearning.apple.com/papers/apple_intelligence_foundation_language_models.pdf).
@@ -2053,7 +2053,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 [^Mohamadi2023]: @Mohamadi_2023_ChatGPT_in_the_age_of_generative_AI_and_large\.
 [^Ouyang2022]: @Ouyang_2022_Training_language_models_to_follow_instructions\.
 [^Wolfram2023]: @Wolfram_2023_What_is_ChatGPT_doing_and_why_does_it_work\.
-[^Zhao2023]: @Zhao_2023_A_survey_of_large_language_models\.
+[^Zhao2023b]: @Zhao_2023_A_survey_of_large_language_models\.
 
 ![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
 
@@ -2978,7 +2978,7 @@ See also:
 -   [Tweet by Joscha Bach, Mar 25, 2023](https://twitter.com/Plinz/status/1639629419881873410)
 -   [Debate: Do language models need sensory grounding for meaning and understanding?](https://www.youtube.com/watch?v=x10964w00zk) (NYU).
 -   Piantadosi, S. (2023). Talk: [Meaning in the age of large language models](https://www.youtube.com/watch?v=lA19zXgObKA).
--   Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). [The platonic representation hypothesis](https://arxiv.org/abs/2405.07987). [^Huh2024]
+-   Huh, M., Cheung, B., Wang, T., & Isola, P. (2024). [The platonic representation hypothesis](https://arxiv.org/abs/2405.07987). [^Huh2024b]
 -   Musser, G. (2024). [Can an emerging field called neural systems understanding explain the brain](https://www.thetransmitter.org/neural-networks/can-an-emerging-field-called-neural-systems-understanding-explain-the-brain/)
 -   Jamali, M. et al. (2024). [Semantic encoding during language comprehension at single-cell resolution](https://www.nature.com/articles/s41586-024-07643-2). [^Jamali2024]
 
@@ -3009,7 +3009,7 @@ See also:
 -   [Ordinary language philosophy](scientific-realism.html#ordinary-language-philosophy)
 
 [^Bender2020]: @Bender_2020_Climbing_towards_NLU_On_meaning_form\.
-[^Huh2024]: @Huh_2024_The_platonic_representation_hypothesis\.
+[^Huh2024b]: @Huh_2024_The_platonic_representation_hypothesis\.
 [^Jamali2024]: @Jamali_2024_Semantic_encoding_during_language_comprehension_at\.
 [^Elhage2022]: @Elhage_2022_Toy_models_of_superposition\.
 [^Lovering2022]: @Lovering_2022_Unit_testing_for_concepts_in_neural_networks\.
