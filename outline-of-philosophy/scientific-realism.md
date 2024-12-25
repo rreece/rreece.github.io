@@ -1017,7 +1017,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 
 Disucssions of overcoming metaphysics:
 
--   Sachs, C.B. (2011). What is to be Overcome? Nietzsche, Carnap, and modernism as the overcoming of metaphysics. *History of Philosophy Quarterly*, 28, 303--318. [^Sachs2011]
+-   Sachs, C.B. (2011). [What is to be Overcome? Nietzsche, Carnap, and modernism as the overcoming of metaphysics](https://www.jstor.org/stable/23032343). [^Sachs2011]
 -   Creath, R. (2023). [What was Carnap rejecting when he rejected metaphysics?](https://manifold.umn.edu/read/from-biological-practice-to-scientific-metaphysics/section/0d271498-1f37-49d7-8bf5-3268cb77b4a0#ch03). [^Creath2023]
 
 Surveys:
