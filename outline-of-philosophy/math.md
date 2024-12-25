@@ -171,7 +171,7 @@ TODO
     -   Wolfram, S. (2013). [Dropping in on Gottfried Leibniz](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/).
 -   Aldrich, John. (?). [Earliest uses of symbols of calculus](http://jeff560.tripod.com/calculus.html).
 -   [Leibniz-Newton calculus controversy](https://en.wikipedia.org/wiki/Leibniz%E2%80%93Newton_calculus_controversy)
-    -   Wikipedia: In 1849, C. I. Gerhardt, while going through Leibniz's manuscripts, found extracts from Newton's "De analysi per aequationes numero terminorum infinitas".
+    -   In 1849, C. I. Gerhardt, while going through Leibniz's manuscripts, found extracts from Newton's "De analysi per aequationes numero terminorum infinitas".
     -   Starbird, M. (2016). [Who invented calculus?](https://www.thegreatcoursesdaily.com/invented-calculus-newton-leibniz/)
 
 
@@ -1265,7 +1265,7 @@ Logicism
 ### ZFC
 
 -   ZFC
--   Wikipedia: ZFC actually does circumvent Russell's paradox by restricting the
+-   ZFC actually does circumvent Russell's paradox by restricting the
     comprehension axiom to already existing sets by the use of subset axioms.
 
 
