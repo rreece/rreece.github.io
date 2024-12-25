@@ -124,8 +124,11 @@ See also:
 -   [Jerzy Neyman](https://en.wikipedia.org/wiki/Jerzy_Neyman) (1894-1981)
     -   biography by Reid [^Reid1998]
     -   Neyman, J. (1955). [The problem of inductive inference](https://errorstatistics.files.wordpress.com/2017/04/neyman-1955-the-problem-of-inductive-inference-searchable.pdf). [^Neyman1955]
-        -   Shows that Neyman read Carnap, but did Carnap read Neyman?
         -   Discussion: Mayo, D.G. (2014). [Power taboos: Statue of Liberty, Senn, Neyman, Carnap, Severity](https://errorstatistics.com/2014/03/19/power-taboos-statue-of-liberty-senn-neyman-carnap-severity/).
+        -   Shows that Neyman read Carnap.
+    -   Carnap, R. (1960). *Logical Foundations of Probability*. [^Carnap1960]
+        -   Shows that Carnap read Neyman.
+        -   TODO: Look into this more.
 -   [Egon Pearson](https://en.wikipedia.org/wiki/Egon_Pearson) (1895-1980)
     -   Neyman-Pearson confidence intervals with fixed error probabilities (also $p$-values but considering two hypotheses involves two types of errors)
 -   [Harold Jeffreys](https://en.wikipedia.org/wiki/Harold_Jeffreys) (1891-1989)
@@ -136,6 +139,7 @@ See also:
 -   [Shun'ichi Amari](https://en.wikipedia.org/wiki/Shun%27ichi_Amari) (b. 1936)
 -   [Judea Pearl](https://en.wikipedia.org/wiki/Judea_Pearl) (b. 1936)
 
+[^Carnap1960]: @Carnap_1960_Logical_Foundations_of_Probability\.
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
 [^Keynes1921]: @Keynes_1921_A_Treatise_on_Probability\.
 [^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
