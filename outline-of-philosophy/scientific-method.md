@@ -1168,9 +1168,11 @@ Peirce:
     -   "On inductive logic" [^Carnap1945a]
     -   *Logical Foundations of Probability* [^Carnap1950b]
     -   *The Continuum of Inductive Methods* [^Carnap1952a]
-    -   "The aim of inductive logic" [^Carnap1966]
+    -   "The aim of inductive logic" [^Carnap1966a]
     -   "Notes on probability and induction" [^Carnap1973]
     -   French, C.F. (2015). [*Philosophy as Conceptual Engineering: Inductive Logic in Rudolf Carnap’s Scientiﬁc Philosophy*](https://web.archive.org/web/20170810180750id_/https://philpapers.org/archive/FREPAC-7.pdf). [^French2015]
+    -   Chalmers, D.J. (2020). [What is conceptual engineering and what should it be?](https://www.tandfonline.com/doi/abs/10.1080/0020174X.2020.1817141). [^Chalmers2020a]
+    -   Isaac, M.G. & Koch, S. (2022). [Foundational issues in conceptual engineering: Introduction and overview](https://www.tandfonline.com/doi/full/10.1080/0020174X.2022.2028230). [^Isaac2022]
 -   Reichenbach
     -   Cross induction
     -   TODO: Reichenbach [^Reichenbach1938a]
@@ -1209,12 +1211,14 @@ See also:
 [^Carnap1945a]: @Carnap_1945_On_inductive_logic\.
 [^Carnap1950b]: @Carnap_1950_Logical_Foundations_of_Probability\.
 [^Carnap1952a]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
-[^Carnap1966]: @Carnap_1966_The_aim_of_inductive_logic\.
+[^Carnap1966a]: @Carnap_1966_The_aim_of_inductive_logic\.
 [^Carnap1973]: @Carnap_1973_Notes_on_probability_and_induction\.
+[^Chalmers2020a]: @Chalmers_2020_What_is_conceptual_engineering_and_what_should_it\.
 [^Earman2000p25]: @Earman_2000_Humes_Abject_Failure_The_argument_against\, p. 25.
 [^Eells1988]: @Eells_1988_On_the_alleged_impossibility_of_inductive\.
 [^French2015]: @French_2015_Philosophy_as_Conceptual_Engineering_Inductive\.
 [^Geanakoplos1982]: @Geanakoplos_1982_We_cant_disagree_forever\.
+[^Isaac2022]: @Isaac_2022_Foundational_issues_in_conceptual_engineering\.
 [^Mill1843]: @Mill_1843_A_System_of_Logic\.
 [^Peirce1883p176]: @Peirce_1883_Studies_in_Logic\, p. 176--7.
 [^Popper1983]: @Popper_1983_A_proof_of_the_impossibility_of_inductive\.

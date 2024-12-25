@@ -18,6 +18,7 @@ Carnap, R. (1945). On inductive logic. *Philosophy of Science*, 12, 72--97.
 Carnap, R. (1950). *Logical Foundations of Probability*. University of Chicago Press.
 Carnap, R. (1966). The aim of inductive logic. In *Studies in Logic and the Foundations of Mathematics Vol. 44* (pp. 303--318). Elsevier.
 Carnap, R. (1973). Notes on probability and induction. *Synthese*, 25, 269--298.
+Chalmers, D.J. (2020). What is conceptual engineering and what should it be? *Inquiry*, 0, 1-18. https://www.tandfonline.com/doi/abs/10.1080/0020174X.2020.1817141
 Chisholm, R. (1966). *Theory of Knowledge*. Prentice Hall.
 Clark, M. (1963). Knowledge and grounds: A comment on Mr. Gettier's paper. *Analysis*, 24, 46--48.
 Davis, N. (2015). To Explain the World review. *The Guardian*. https://www.theguardian.com/books/2015/feb/22/to-explain-the-world-steven-weinberg-history-great-thinkers [February 21, 2015]
@@ -53,6 +54,7 @@ Hintikka, J. (1999). *Inquiry as Inquiry: A logic of scientific discovery*. Spri
 Hume, D. (2007). *An Enquiry Concerning Human Understanding* (P. Millican, Ed.). Oxford University Press. [(Originally published in 1748)]
 Hume, D. (2009). *A Treatise of Human Nature*. Floating Press. [(Originally published in 1740)]
 Ichikawa, J. & Jenkins, C. (2017). On putting knowledge 'first'. In Carter, J.A. (Ed.), *Knowledge First: Approaches in epistemology and mind* (pp. 113--130). Oxford University Press.
+Isaac, M.G. & Koch, S. (2022). Foundational issues in conceptual engineering: Introduction and overview. *Inquiry*, 0, 1--9. https://www.tandfonline.com/doi/full/10.1080/0020174X.2022.2028230
 Juhl, C. & Loomis, E. (2009). *Analyticity*. Routledge.
 Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1787)]
 Keoke, E.D. & Porterfield, K.M. (2002). *Encyclopedia of American Indian Contributions to the World*. Checkmark Books. https://mexikaresistance.files.wordpress.com/2013/09/american-indian-contributions-to-the-world.pdf

@@ -256,6 +256,7 @@ Russell:
 -   Lugg, A. (2006). Russell as a precursor of Quine. [^Lugg2006]
 -   In the [boat with Neurath](scientific-realism.html#neuraths-boat).
 -   *International Encyclopedia of Unified Science*
+    -   See also: [Positivism: theses](scientific-realism.html#theses)
 
 Sellars:
 

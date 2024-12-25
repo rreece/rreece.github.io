@@ -678,6 +678,7 @@ Creath:
     -   In *LSL* [^Carnap1937LSLp51]
     -   Leitgeb [^Leitgeb2020H]
 4.  Unity of science
+    -   Carnap, R. (1938). Logical foundations of the unity of science. [^Carnap1938]
     -   Potochnik, A. (2011). A Neurathian conception of the unity of science. [^Potochnik2011]
 
 <center>
@@ -733,6 +734,7 @@ More:
 -   Caulton, A. (2014). Lecture notes: [Logical positivism/empiricism](https://adamcaulton.files.wordpress.com/2014/08/lecture21.pdf).
 
 [^Carnap1937LSLp51]: @Carnap_1937_Logical_Syntax_of_Language\, p. 51.
+[^Carnap1938]: @Carnap_1938_The_logical_foundations_of_the_unity_of_science\.
 [^Fetzer2017]: @Fetzer_2017_Carl_Hempel\.
 [^Hahn1973Sec2b]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\, &sect;2.
 [^Leitgeb2020H]: @Leitgeb_2020_Rudolf_Carnap\, [Supplement H: Tolerance, Metaphysics, and Meta-Ontology](https://plato.stanford.edu/entries/carnap/tolerance-metaphysics.html).
@@ -992,6 +994,8 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 -   Carnap, R. (1928). *The Logical Structure of the World* (*Der Logische Aufbau der Welt*). [^Carnap1928]
     -   Rational reconstruction
     -   Explication
+    -   Lewis, D.K. (1969). [Policing the Aufbau](https://www.jstor.org/stable/4318613). [^Lewis1969]
+    -   Chalmers, D.J. (2020). [Carnap’s Second Aufbau and David Lewis’s Aufbau](https://philpapers.org/archive/CHACSA-16.pdf). [^Chalmers2020b]
 -   Hahn, H., Neurath, O., & Carnap, R. (1929). [The scientific conception of the world: The Vienna Circle](http://rreece.github.io/philosophy-reading-list/docs/the-scientific-conception-of-the-world-the-vienna-circle.pdf). [^Hahn1973]
     -   Wissenschaftliche Weltauffassung: Der Wiener Kreis
     -   The Vienna Circle's manifesto
@@ -1013,6 +1017,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 
 Surveys:
 
+-   Coffa, A. (1991). *The Semantic Tradition from Kant to Carnap: To the Vienna Station*. [^Coffa1991]
 -   Stadler, F. (1998). [Vienna Circle](https://www.rep.routledge.com/articles/thematic/vienna-circle/v-1.). In *Routledge Encyclopedia of Philosophy*. [^Stadler1998]
 -   Murzi, M. (2004). [Vienna Circle](https://iep.utm.edu/viennacr/). In  *Internet Encyclopedia of Philosophy*. [^Murzi2004]
 -   Stadler, F. (2015). *The Vienna Circle: Studies in the origins, development, and influence of Logical Empiricism*. [^Stadler2015]
@@ -1020,15 +1025,37 @@ Surveys:
     -   Review: Cat, J. (2017). [How Viennese scientists fought the dogma, propaganda and prejudice of the 1930s](https://www.nature.com/articles/d41586-017-07819-z).
 -   Verhaegh, S. (2019). The American reception of logical positivism: First encounters (1929-1932). [^Verhaegh2019]
 -   Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. [^Edmonds2020a]
+-   Springer book series: [Vienna Circle Institute Yearbook](https://www.springer.com/series/6669)
+
+Vienna Circle scholars:
+
+-   Steve Awodey (b. 1959)
+-   Herbert G. Bohnert (1918-1984)
+-   Andr&eacute; W. Carus
+-   Alberto Coffa (1935-1984)
+-   Richard Creath (b. 1947)
+-   Michael Friedman (b. 1947)
+-   Ronald Giere (1938-2020)
+-   Benjamin Marschall
+-   Brian McGuinness (1927-2019)
+-   Mauro Murzi (b. 1961)
+-   Karl Sigmund (b. 1945)
+-   Friedrich Stadler (b. 1951)
+-   Thomas Uebel (b. 1952)
+-   Sander Verhaegh (b. 1986)
+-   Pierre Wagner (b. 1963)
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
 [^Blumberg1931]: @Blumberg_1931_Logical_positivism_A_new_movement_in_European\.
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
 [^Carnap1932a]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
 [^Carnap1932b]: @Carnap_1987_On_protocol_sentences\.
+[^Chalmers2020b]: @Chalmers_2020_Carnaps_Second_Aufbau_and_David_Lewiss_Aufbau\.
+[^Coffa1991]: @Coffa_1991_The_Semantic_Tradition_from_Kant_to_Carnap\.
 [^Edmonds2020a]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\.
 [^Edmonds2020p90]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\, p. 90.
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
+[^Lewis1969]: @Lewis_1969_Policing_the_Aufbau\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\. <https://iep.utm.edu/viennacr/>
 [^Schlick1930]: @Schlick_1959_The_turning_point_in_philosophy\.
 [^Schlick1933]: @Schlick_1948_Positivism_and_realism\.
@@ -1092,17 +1119,34 @@ TODO: Note any differences between:
     -   Many European attendees did not return to Europe.
 -   Carnap joined UCLA in 1954, the year after Reichenbach died.
 -   Carnap died in 1970.
--   Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. [^Verhaegh2020]
+-   Surveys of Carnap
+    -   *The Philosophy of Rudolf Carnap* AKA the "Schilpp volume" [^Schilpp1963]
+        -   Paul Arthur Schilpp (1897-1993)
+    -   Buck, R.C. & Cohen, R.S. (1971). *PSA 1970: In Memory of Rudolf Carnap Proceedings of the 1970 Biennial Meeting Philosophy of Science Association*. [^Buck1971]
+    -   Hintikka, J. (1975). *Rudolf Carnap, Logical Empiricist*. [^Hintikka1975]
+    -   Friedman, M. (1999). *Reconsidering Logical Positivism*. [^Friedman1999]
+    -   Awodey, S. & Klein, C. (2004). *Carnap Brought Home: The View from Jena*. [^Awodey2004]
+    -   Friedman, M. & Creath, R. (2007). *The Cambridge Companion to Carnap*. [^Friedman2007]
+    -   Carus, A.W. (2008). *Carnap and Twentieth-Century Thought*. [^Carus2008]
+    -   Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. [^Verhaegh2020]
 
+[^Awodey2004]: @Awodey_2004_Carnap_Brought_Home_The_View_from_Jena\.
+[^Buck1971]: @Buck_1971_PSA_1970_In_Memory_of_Rudolf_Carnap_Proceedings\.
 [^Carnap1936]: @Carnap_1936_Testability_and_meaning\.
 [^Carnap1937]: @Carnap_1937_Testability_and_meaning_continued\.
+[^Carus2008]: @Carus_2008_Carnap_and_Twentieth_Century_Thought\.
+[^Friedman1999]: @Friedman_1999_Reconsidering_Logical_Positivism\.
+[^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
+[^Hintikka1975]: @Hintikka_1975_Rudolf_Carnap_Logical_Empiricist\.
 [^Neurath1938]: @Neurath_1955_International_Encyclopedia_of_Unified_Science\.
+[^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 [^Verhaegh2020]: @Verhaegh_2020_Coming_to_America_Carnap_Reichenbach\.
 
 
 #### Carnap on language and ontology
 
 -   Carnap, R. (1937). *The Logical Syntax of Language*. (*LSL*)[^Carnap1937LSL]
+    -   Wagner, P. (2009). *Carnap's Logical Syntax of Language*. [^Wagner2009]
     -   Fowler, S. (2010). LSL in a nutshell. [^Fowler2010]
     -   Leitgeb & Carus: "talk of meaning should in any case be eschewed in favor of talk of syntax" [^Leitgeb2020G]
     -   Coffa, A. (1987). [Carnap, Tarski and the search for truth](https://www.jstor.org/stable/2215672). [^Coffa1987]
@@ -1124,16 +1168,9 @@ Carnap in ESO:
 >   being more or less expedient, fruitful, conducive to the aim for which
 >   the language is intended. [^Carnap1950p7]
 
-Some more Carnap works:
-
--   Carnap, R. (1955). Logical foundations of science. [^Carnap1955]
-
 Discussion:
 
 -   Quine, W.V.O. (1960). Carnap and logical truth. [^Quine1960b]
--   *The Philosophy of Rudolf Carnap* AKA the "Schilpp volume" [^Schilpp1963]
-    -   Paul Arthur Schilpp (1897-1993)
--   *The Cambridge Companion to Carnap* [^Friedman2007]
 -   Steinberger, F. (2016). How tolerant can you be? Carnap on rationality. [^Steinberger2016]
 -   Leitgeb, H. & Carus, A. (2020). [Rudolf Carnap](https://plato.stanford.edu/entries/carnap/index.html). *SEP*. [^Leitgeb2020]
 -   Baker, K. (2023). Video: [Metaphysics - Carnap on Ontology](https://www.youtube.com/watch?v=e4eOtMn2me0).
@@ -1141,11 +1178,9 @@ Discussion:
 [^Carnap1937LSL]: @Carnap_1937_Logical_Syntax_of_Language\.
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Carnap1950p7]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 7.
-[^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
 [^Coffa1987]: @Coffa_1987_Carnap_Tarski_and_the_search_for_truth\.
 [^Creath2023]: @Creath_2023_What_was_Carnap_rejecting_when_he_rejected\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
-[^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
 [^Lavers2004]: @Lavers_2004_Carnap_semantics_and_ontology\.
 [^Lavers2015]: @Lavers_2015_Carnap_Quine_quantification_and_ontology\.
 [^Leitgeb2020]: @Leitgeb_2020_Rudolf_Carnap\.
@@ -1153,8 +1188,8 @@ Discussion:
 [^Murzi2001]: @Murzi_2001_Rudolf_Carnap_1891_1970\. <https://iep.utm.edu/carnap/>
 [^Nado2024]: @Nado_2024_Truth_in_philosophy_a_conceptual_engineering\.
 [^Quine1960b]: @Quine_1960_Carnap_and_logical_truth\.
-[^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 [^Steinberger2016]: @Steinberger_2016_How_tolerant_can_you_be_Carnap_on_rationality\.
+[^Wagner2009]: @Wagner_2009_Carnaps_Logical_Syntax_of_Language\.
 
 
 #### Neurath's boat
@@ -1407,6 +1442,7 @@ More:
 -   *Quine-Carnap Correspondence* (1990) [^Quine1990-2]
 -   Quine, W.V.O. (1991). Two dogmas in retrospect. [^Quine1991]
 -   Yablo, S. & Gallois, A. (1998). Does ontology rest on a mistake? [^Yablo1998]
+-   Frost-Arnold, G. (2013). *Carnap, Tarski, and Quine at Harvard: Conversations on Logic, Mathematics, and Science*. [^FrostArnold2013]
 -   Warren, J. (2016). Internal and external questions revisited. [^Warren2016a]
 -   Warren, J. (2016). Revisiting Quine on truth by convention. [^Warren2016b]
 
@@ -1423,6 +1459,7 @@ See also:
 -   [Neurath's boat](#neuraths-boat)
 
 [^Carnap1955p46]: @Carnap_1955_Meaning_and_synonymy_in_natural_languages\, p. 46--47, footnote 7.
+[^FrostArnold2013]: @Frost_Arnold_2013_Carnap_Tarski_and_Quine_at_Harvard\.
 [^Quine1986a]: @Quine_1986_The_Philosophy_of_WVQuine\.
 [^Quine1990-2]: @Quine_1990_Dear_Carnap_Dear_Van_The_Quine_Carnap\.
 [^Quine1991]: @Quine_1991_Two_dogmas_in_retrospect\.
@@ -1570,7 +1607,8 @@ Bunge:
 
 Positivism vs critical theory:
 
--   Sachs, C. (2020). [Why did the Frankfurt school misunderstand logical positivism?](https://jhiblog.org/2020/08/05/why-did-the-frankfurt-school-misunderstand-logical-positivism/)
+-   Sachs, C.B. (2011). What is to be Overcome? Nietzsche, Carnap, and modernism as the overcoming of metaphysics. *History of Philosophy Quarterly*, 28, 303--318. [^Sachs2011]
+-   Sachs, C.B. (2020). [Why did the Frankfurt school misunderstand logical positivism?](https://jhiblog.org/2020/08/05/why-did-the-frankfurt-school-misunderstand-logical-positivism/)
 -   O'Neill, J. & Uebel, T. (2004). Horkheimer and Neurath: Restarting a disrupted debate. *European Journal of Philosophy*, 12, 75--105. [^ONeill2004]
 -   Vrahimis, A. (2020). [Scientism, social praxis, and overcoming metaphysics: A debate between logical empiricism and the Frankfurt School](https://www.journals.uchicago.edu/doi/full/10.1086/710184). [^Vrahimis2020]
 
@@ -1583,6 +1621,7 @@ Positivism vs critical theory:
 [^ONeill2004]: @ONeill_2004_Horkheimer_and_Neurath_Restarting_a_disrupted\.
 [^Passmore1967]: @Passmore_1967_Logical_positivism and 
     @Creath_2017_Logical_empiricism <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Sachs2011]: @Sachs_2011_What_is_to_be_Overcome_Nietzsche_Carnap\.
 [^Suppe2000]: @Suppe_2000_Understanding_scientific_theories_An_assessment\.
 [^Vrahimis2020]: @Vrahimis_2020_Scientism_social_praxis_and_overcoming\.
 
@@ -1617,7 +1656,6 @@ and
 >   disagreed he was still setting the theme; the line of my thought was largely
 >   determined by problems that I felt his position presented. [^Quine1970pxxiii]
 
--   Awodey, S. & Klein, C. (2004). *Carnap Brought Home: The View from Jena*. [^Awodey2004]
 -   TODO: Positivism affects the structure of education and law
 -   Whetsell, T.A. & Shields, P.M. (2013). The dynamics of positivism in the study of public administration. [^Whetsell2013]
 -   TODO: Connection to the projects of Dewey and pragmatism
@@ -1627,7 +1665,6 @@ See also:
 
 -   [Neopositivism](#neopositivism)
 
-[^Awodey2004]: @Awodey_2004_Carnap_Brought_Home_The_View_from_Jena\.
 [^Friedman1999pxii]: @Friedman_1999_Reconsidering_Logical_Positivism\, p. xii.
 [^Heilbron2013]: @Heilbron_2013_The_first_Solvay_council_A_sort_of_private\, p. 5.
 [^Quine1970pxxii]: @Quine_1970_Homage_to_Rudolf_Carnap\, p. xxii.

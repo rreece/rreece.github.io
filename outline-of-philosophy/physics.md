@@ -221,6 +221,7 @@ Stein:
 
 Pedagogy:
 
+-   Carnap, R. (1966). *Philosophical Foundations of Physics*. [^Carnap1966b]
 -   Maudlin [^Maudlin2012pX]
 -   Schroeder, D.V. (2022). [Relativity in five lessons](https://physics.weber.edu/schroeder/r5/).
 
@@ -228,6 +229,7 @@ See also:
 
 -   [General relativity](physics.html#general-relativity)
 
+[^Carnap1966b]: @Carnap_1966_Philosophical_Foundations_of_Physics\.
 [^Einstein1905c]: @Einstein_1905_Zur_elektrodynamik_bewegter_korper\.
 [^Einstein1905d]: @Einstein_1905_Ist_die_tragheit_eines_korpers_von_seinem\.
 [^Maudlin2012pX]: @Maudlin_2012_Philosophy_of_Physics_Space_and_Time\, p. TODO.
