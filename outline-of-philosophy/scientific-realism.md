@@ -1111,6 +1111,7 @@ TODO: Note any differences between:
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
     -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
     -   Nado, J. (2024). [Truth in philosophy: a conceptual engineering approach](https://link.springer.com/article/10.1007/s44204-024-00151-0). [^Nado2024]
+-   Creath, R. (2023). [What was Carnap rejecting when he rejected metaphysics?](https://manifold.umn.edu/read/from-biological-practice-to-scientific-metaphysics/section/0d271498-1f37-49d7-8bf5-3268cb77b4a0#ch03). [^Creath2023]
 
 Carnap in ESO:
 
@@ -1142,6 +1143,7 @@ Discussion:
 [^Carnap1950p7]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 7.
 [^Carnap1955]: @Carnap_1955_The_logical_foundations_of_the_unity_of_science\.
 [^Coffa1987]: @Coffa_1987_Carnap_Tarski_and_the_search_for_truth\.
+[^Creath2023]: @Creath_2023_What_was_Carnap_rejecting_when_he_rejected\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 [^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
 [^Lavers2004]: @Lavers_2004_Carnap_semantics_and_ontology\.
