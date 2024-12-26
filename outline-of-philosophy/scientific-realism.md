@@ -1015,7 +1015,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
     -   Helped the spread of positivism in British academia.
 -   The murder of Schlick in 1936 by a former student put an end to the Vienna Circle in Austria.
 
-Disucssions of overcoming metaphysics:
+Discussions of overcoming metaphysics:
 
 -   Sachs, C.B. (2011). [What is to be Overcome? Nietzsche, Carnap, and modernism as the overcoming of metaphysics](https://www.jstor.org/stable/23032343). [^Sachs2011]
 -   Creath, R. (2023). [What was Carnap rejecting when he rejected metaphysics?](https://manifold.umn.edu/read/from-biological-practice-to-scientific-metaphysics/section/0d271498-1f37-49d7-8bf5-3268cb77b4a0#ch03). [^Creath2023]
