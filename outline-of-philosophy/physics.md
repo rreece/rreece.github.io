@@ -1066,8 +1066,8 @@ Baez, Segal, & Zhou on wave-particle duality:
 -   AQFT vs LQFT
 -   Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. [^Haag1992]
 -   Buchholz, D. (1998). [Current trends in axiomatic quantum field theory](https://arxiv.org/abs/hep-th/9811233). [^Buchholz1998]
--   Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum ﬁeld theory. [^Wallace2011]
--   Fraser, D. (2011). How to take particle physics seriously: A further defence of axiomatic quantum ﬁeld theory. [^Fraser2011]
+-   Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum field theory. [^Wallace2011]
+-   Fraser, D. (2011). How to take particle physics seriously: A further defence of axiomatic quantum field theory. [^Fraser2011]
 
 Kastler:
 

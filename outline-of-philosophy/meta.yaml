@@ -93,7 +93,9 @@ classoption:
 #    -   'nofootinbib'
 #    -   'superscriptaddress'
 #    -   'showkeys'
-#extrapackages:
+extrapackages:
+    -   'siunitx'
+    -   'longtable'
 #    -   'jheppub'
 fancyhdr: true
 fontsize: '11pt'

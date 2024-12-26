@@ -662,7 +662,7 @@ Creath:
 >   empiricists. [^Creath2017a]
 
 [^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
-[^Creath2017a]: @Creath_2017_Logical_empiricism\.
+[^Creath2017a]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
 [^Schlick1948p479]: @Schlick_1948_Positivism_and_realism\, p. 479.
 
@@ -964,7 +964,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
 ### The Vienna Circle
 
 -   Logical positivism/empiricism
--   The beginning of The Circle was an unnamed gathering in Vienna founded by Hans Hahn in 1907.[^Stadler2015pxx]
+-   The beginning of The Circle was an unnamed gathering in Vienna founded by Hans Hahn in 1907. [^Stadler2015pxx]
     -   Attened by Philipp Frank, Otto Neurath, and Richard von Mises.
 -   Ernst Mach Society
 -   Carnap
@@ -1144,6 +1144,7 @@ TODO: Note any differences between:
     -   Awodey, S. & Klein, C. (2004). *Carnap Brought Home: The View from Jena*. [^Awodey2004]
     -   Friedman, M. & Creath, R. (2007). *The Cambridge Companion to Carnap*. [^Friedman2007]
     -   Carus, A.W. (2008). *Carnap and Twentieth-Century Thought*. [^Carus2008]
+    -   Creath, R. (2012). *Rudolf Carnap and the Legacy of Logical Empiricism*. [^Creath2012]
     -   Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. [^Verhaegh2020]
 
 [^Awodey2004]: @Awodey_2004_Carnap_Brought_Home_The_View_from_Jena\.
@@ -1151,6 +1152,7 @@ TODO: Note any differences between:
 [^Carnap1936]: @Carnap_1936_Testability_and_meaning\.
 [^Carnap1937]: @Carnap_1937_Testability_and_meaning_continued\.
 [^Carus2008]: @Carus_2008_Carnap_and_Twentieth_Century_Thought\.
+[^Creath2012]: @Creath_2012_Rudolf_Carnap_and_the_Legacy_of_Logical_Empiricism\.
 [^Friedman1999]: @Friedman_1999_Reconsidering_Logical_Positivism\.
 [^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
 [^Hintikka1975]: @Hintikka_1975_Rudolf_Carnap_Logical_Empiricist\.
@@ -1162,11 +1164,12 @@ TODO: Note any differences between:
 #### Carnap on language and ontology
 
 -   Carnap, R. (1937). *The Logical Syntax of Language*. (*LSL*)[^Carnap1937LSL]
+    -   Coffa, A. (1987). [Carnap, Tarski and the search for truth](https://www.jstor.org/stable/2215672). [^Coffa1987]
     -   Wagner, P. (2009). *Carnap's Logical Syntax of Language*. [^Wagner2009]
     -   Fowler, S. (2010). LSL in a nutshell. [^Fowler2010]
-    -   Leitgeb & Carus: "talk of meaning should in any case be eschewed in favor of talk of syntax" [^Leitgeb2020G]
-    -   Coffa, A. (1987). [Carnap, Tarski and the search for truth](https://www.jstor.org/stable/2215672). [^Coffa1987]
     -   Blanchette, P. (2013). Talk: [Frege and G&ouml;del on mathematics as syntax](https://www.youtube.com/watch?v=y8yZp-cjR2I).
+    -   Creath, R. (2017). [The logical and the analytic](https://link.springer.com/article/10.1007/s11229-015-0685-5). [^Creath2017c]
+    -   Leitgeb & Carus: "talk of meaning should in any case be eschewed in favor of talk of syntax" [^Leitgeb2020G]
 -   Carnap, R. (1950). [Empiricism, semantics, and ontology](https://www.phil.cmu.edu/projects/carnap/editorial/latex_pdf/1956-ESO.pdf). (ESO) [^Carnap1950]
     -   Lavers, G. (2004). Carnap, semantics and ontology. [^Lavers2004]
     -   Lavers, G. (2015). Carnap, Quine, quantification and ontology. [^Lavers2015]
@@ -1194,6 +1197,7 @@ Discussion:
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Carnap1950p7]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 7.
 [^Coffa1987]: @Coffa_1987_Carnap_Tarski_and_the_search_for_truth\.
+[^Creath2017c]: HERE
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 [^Lavers2004]: @Lavers_2004_Carnap_semantics_and_ontology\.
 [^Lavers2015]: @Lavers_2015_Carnap_Quine_quantification_and_ontology\.
@@ -1270,7 +1274,7 @@ On logical empiricism and Reichenbach at UCLA:
 >   philosophize and to be cautious in telling practicing scientists what
 >   concepts they may or may not use. In these respects and others contemporary
 >   philosophers promote a kind of naturalism, and by so doing they follow
->   both the precept and the example of the logical empiricists. [^Creath2017c]
+>   both the precept and the example of the logical empiricists. [^Creath2017d]
 
 and
 
@@ -1279,7 +1283,7 @@ and
 >   Reichenbach. Though interested in social and educational reform, he worked
 >   primarily in philosophy of physics. He developed and defended a frequency
 >   theory of probability, and emphasized both scientific realism and the
->   importance of causality and causal laws. [^Creath2017d]
+>   importance of causality and causal laws. [^Creath2017e]
 
 Reichenbach:
 
@@ -1289,14 +1293,14 @@ Reichenbach:
 Reichenbach on probability:
 
 >   locates the probability objectively "out in nature" so to speak,
->   and this comports well with Reichenbach's scientific realism. [^Creath2017e]
+>   and this comports well with Reichenbach's scientific realism. [^Creath2017f]
 
 -   TODO: later Reichenbach was a scientific realist.
 -   Psillos, S. (2011). On Reichenbach's argument for scientific realism. [^Psillos2011]
 
-[^Creath2017c]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Creath2017d]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Creath2017e]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
+[^Creath2017f]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
 [^Psillos2011]: @Psillos_2011_On_Reichenbachs_argument_for_scientific_realism\.
 [^Reichenbach1938b]: @Reichenbach_1938_Experience_and_Prediction\.
 [^Reichenbach1968]: @Reichenbach_1968_The_Rise_of_Scientific_Philosophy\.
@@ -1316,7 +1320,7 @@ Final words of Ladyman and Ross (2007):
 >   Of all the main historical positions in philosophy,
 >   the logical positivists and logical empiricists came closest to the insights
 >   we have urged. Over-reactions to their errors have led metaphysicians over
->   the past few decades into widespread unscientiﬁc and even anti-scientific
+>   the past few decades into widespread unscientific and even anti-scientific
 >   intellectual waters. We urge them to come back and rejoin the great epistemic
 >   enterprise of modern civilization. [^Ladyman2007p310]
 
@@ -1622,7 +1626,7 @@ Bunge:
 Positivism vs critical theory:
 
 -   Sachs, C.B. (2020). [Why did the Frankfurt school misunderstand logical positivism?](https://jhiblog.org/2020/08/05/why-did-the-frankfurt-school-misunderstand-logical-positivism/)
--   O'Neill, J. & Uebel, T. (2004). Horkheimer and Neurath: Restarting a disrupted debate. *European Journal of Philosophy*, 12, 75--105. [^ONeill2004]
+-   O'Neill, J. & Uebel, T. (2004). Horkheimer and Neurath: Restarting a disrupted debate. [^ONeill2004]
 -   Vrahimis, A. (2020). [Scientism, social praxis, and overcoming metaphysics: A debate between logical empiricism and the Frankfurt School](https://www.journals.uchicago.edu/doi/full/10.1086/710184). [^Vrahimis2020]
 
 [^Ayer1978]: @Ayer_1978_Logical_positivism_and_its_legacy\.

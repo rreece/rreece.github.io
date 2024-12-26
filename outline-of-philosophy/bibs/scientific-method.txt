@@ -37,7 +37,7 @@ Feynman, R.P. (1974). Cargo cult science. http://calteches.library.caltech.edu/5
 Feynman, R.P. (1998). *The Meaning of It All*. Addison-Wesley.
 Feynman, R.P. (1999). *The Pleasure of Finding Things Out*. Basic Books.
 French, S. (2007). *Science: Key Concepts in Philosophy*. London: Continuum.
-French, C.F. (2015). *Philosophy as Conceptual Engineering: Inductive Logic in Rudolf Carnap’s Scientiﬁc Philosophy*. https://web.archive.org/web/20170810180750id_/https://philpapers.org/archive/FREPAC-7.pdf [(Ph.D. thesis)]
+French, C.F. (2015). *Philosophy as Conceptual Engineering: Inductive Logic in Rudolf Carnap’s Scientific Philosophy*. https://web.archive.org/web/20170810180750id_/https://philpapers.org/archive/FREPAC-7.pdf [(Ph.D. thesis)]
 Frigg, R. & Nguyen, J. (2017). Models and representation. In *Springer Handbook of Model-Based Science* (pp. 49--102). Springer.
 Frigg, R. & Hartmann, S. (2020). Models in science *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/models-science/
 Geanakoplos, J.D. & Polemarchakis, H.M. (1982). We can't disagree forever. *Journal of Economic Theory*, 28, 192--200.

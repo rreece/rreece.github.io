@@ -147,7 +147,7 @@ Feynman, R.P. (1965). The development of the space-time view of quantum electrod
 Feynman, R.P. & Hibbs, A.R. (1965). *Quantum Mechanics and Path Integrals*. Dover. [Emended edition (2005)]
 Frankel, T. (2004). *The Geometry of Physics* (2nd ed.). Cambridge University Press. 
 Fraser, D. (2008). The fate of 'particles' in quantum field theories with interactions. *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 39(4), 841--859. http://philsci-archive.pitt.edu/4038/
-Fraser, D. (2011). How to take particle physics seriously: A further defence of axiomatic quantum ﬁeld theory. *Studies in History and Philosophy of Modern Physics*, 42, 126--135.
+Fraser, D. (2011). How to take particle physics seriously: A further defence of axiomatic quantum field theory. *Studies in History and Philosophy of Modern Physics*, 42, 126--135.
 Fraser, J.D. (2018). Renormalization and the formulation of scientific realism. *Philosophy of Science*, 85(5), 1164--1175. https://philsci-archive.pitt.edu/14049/1/rgrealism_preprint.pdf
 Fraser, J.D. (2021). The twin origins of renormalization group concepts. *Studies in History and Philosophy of Science Part A*, 89, 114--128. https://durham-repository.worktribe.com/preview/1218769/34961.pdf
 Frauchiger, D. & Renner, R. (2018). Quantum theory cannot consistently describe the use of itself. *Nature Communications*,9, 3711. https://www.nature.com/articles/s41467-018-05739-8
@@ -353,7 +353,7 @@ van Hove, L. (1958). Von Neumann's contributions to quantum theory. *Bulletin of
 van Nieuwenhuizen, P. (1981). Supergravity. *Physics Reports*, 68, 189--398.
 Vitagliano, E., Tamborra, I., & Raffelt, G. (2020). Grand unified neutrino spectrum at Earth: Sources and spectral components. *Reviews of Modern Physics*, 92(4), 045006. https://arxiv.org/abs/1910.11878
 von Neumann, J. (1955). *The Mathematical Foundations of Quantum Mechanics* (R.T. Beyer, Trans.). Princeton University Press. [(Originally published in German in 1932)]
-Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum ﬁeld theory. *Studies in History and Philosophy of Modern Physics*, 42, 116--125.
+Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum field theory. *Studies in History and Philosophy of Modern Physics*, 42, 116--125.
 Wallace, D. (2012). *The Emergent Multiverse*. Oxford University Press.
 Wallace, D. (2013). Inferential vs dynamical conceptions of physics. https://arxiv.org/abs/1306.4907
 Wallace, D. (2014). Deflating the Aharonov-Bohm effect. https://arxiv.org/abs/1407.5073

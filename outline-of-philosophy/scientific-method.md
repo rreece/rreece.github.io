@@ -706,15 +706,15 @@ Hume:
 
 Table: Kant's division of judgments. {#tbl:kants-division-of-judgements}
 
-|                   | analytic                   |         |  synthetic                       |
-|:------------------|:---------------------------|---------|:---------------------------------|
-| **a priori**      | True by definition,        |         | Kant: Arithmetic propositions?   |
-|                   | Hume's relations of ideas  |         | Kant: Transcendental deduction?  |
-|                   |                            |         |                                  |
-|                   |                            |         |                                  |
-|                   |                            |         |                                  |
-| **a posteriori**  | Impossible?                |         | Empirical,                       |
-|                   |                            |         | Hume's matters of fact           |
+|                   | analytic                   |  synthetic                       |
+|:------------------|:---------------------------|:---------------------------------|
+| **a priori**      | True by definition,        | Kant: Arithmetic propositions?   |
+|                   | Hume's relations of ideas  | Kant: Transcendental deduction?  |
+|                   |                            |                                  |
+|                   |                            |                                  |
+|                   |                            |                                  |
+| **a posteriori**  | Impossible?                | Empirical,                       |
+|                   |                            | Hume's matters of fact           |
 
 -   Kant
     -   *Critique of Pure Reason* (1781)
@@ -1170,7 +1170,7 @@ Peirce:
     -   *The Continuum of Inductive Methods* [^Carnap1952a]
     -   "The aim of inductive logic" [^Carnap1966a]
     -   "Notes on probability and induction" [^Carnap1973]
-    -   French, C.F. (2015). [*Philosophy as Conceptual Engineering: Inductive Logic in Rudolf Carnap’s Scientiﬁc Philosophy*](https://web.archive.org/web/20170810180750id_/https://philpapers.org/archive/FREPAC-7.pdf). [^French2015]
+    -   French, C.F. (2015). [*Philosophy as Conceptual Engineering: Inductive Logic in Rudolf Carnap’s Scientific Philosophy*](https://web.archive.org/web/20170810180750id_/https://philpapers.org/archive/FREPAC-7.pdf). [^French2015]
     -   Chalmers, D.J. (2020). [What is conceptual engineering and what should it be?](https://www.tandfonline.com/doi/abs/10.1080/0020174X.2020.1817141). [^Chalmers2020a]
     -   Isaac, M.G. & Koch, S. (2022). [Foundational issues in conceptual engineering: Introduction and overview](https://www.tandfonline.com/doi/full/10.1080/0020174X.2022.2028230). [^Isaac2022]
 -   Reichenbach

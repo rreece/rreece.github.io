@@ -1419,7 +1419,7 @@ Naturalism
 >   not learn the language and grasp the symbols in
 >   which it is written. This book is written in the
 >   mathematical language, and the symbols are
->   triangles, circles, and other geometrical ﬁgures
+>   triangles, circles, and other geometrical figures
 >   without whose help it is impossible to comprehend
 >   a single word of it, without which one wanders in
 >   vain through a dark labyrinth.
