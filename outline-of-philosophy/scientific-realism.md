@@ -1050,6 +1050,7 @@ Vienna Circle scholars:
 -   Mauro Murzi (b. 1961)
 -   Matthias Neuber (b. 1970)
 -   Panu Raatikainen
+-   Alan Richardson
 -   Karl Sigmund (b. 1945)
 -   Friedrich Stadler (b. 1951)
 -   Thomas Uebel (b. 1952)
@@ -1146,6 +1147,8 @@ TODO: Note any differences between:
     -   Carus, A.W. (2008). *Carnap and Twentieth-Century Thought*. [^Carus2008]
     -   Creath, R. (2012). *Rudolf Carnap and the Legacy of Logical Empiricism*. [^Creath2012]
     -   Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. [^Verhaegh2020]
+    -   Richardson, A. & Tuboly, A.T. (2024). *Interpreting Carnap: Critical Essays*. Cambridge University Press. [^Richardson2024]
+
 
 [^Awodey2004]: @Awodey_2004_Carnap_Brought_Home_The_View_from_Jena\.
 [^Buck1971]: @Buck_1971_PSA_1970_In_Memory_of_Rudolf_Carnap_Proceedings\.
@@ -1157,6 +1160,7 @@ TODO: Note any differences between:
 [^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
 [^Hintikka1975]: @Hintikka_1975_Rudolf_Carnap_Logical_Empiricist\.
 [^Neurath1938]: @Neurath_1955_International_Encyclopedia_of_Unified_Science\.
+[^Richardson2024]: @Richardson_2024_Interpreting_Carnap_Critical_Essays\.
 [^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
 [^Verhaegh2020]: @Verhaegh_2020_Coming_to_America_Carnap_Reichenbach\.
 
@@ -1313,7 +1317,7 @@ Reichenbach on probability:
 -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*.
     -   Self-identify as neo-positivists [^Ladyman2007p303]
 -   Leitgeb, H. (2023). [Vindicating the verifiability criterion](https://doi.org/10.1007/s11098-023-02071-w). [^Leitgeb2023]
--   Richardson, A.W. (2023). [*Logical Empricism as Scientific Philosophy*](https://doi.org/10.1017/9781009471497) [^Richardson2023]
+-   Richardson, A. (2023). [*Logical Empricism as Scientific Philosophy*](https://doi.org/10.1017/9781009471497) [^Richardson2023]
 
 Final words of Ladyman and Ross (2007):
 
