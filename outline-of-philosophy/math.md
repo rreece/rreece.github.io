@@ -1139,13 +1139,10 @@ Platonism
 ![Visualization of the binomial theorem (source: [Wikimedia](https://en.wikipedia.org/wiki/File:Binomial_theorem_visualisation.svg)).](img/Binomial_theorem_visualisation.png)
 
 -   [Proofs without words](https://artofproblemsolving.com/wiki/index.php/Proofs_without_words)
--   Chen, E.K. (2018). [The intrinsic structure of quantum mechanics](http://philsci-archive.pitt.edu/15140/). [^Chen2018b]
 
 Criticism:
 
 -   3Blue1Brown. (2022). Video: [How to lie using visual proofs](https://www.youtube.com/watch?v=VYQVlVoWoPY).
-
-[^Chen2018b]: @Chen_2018_The_intrinsic_structure_of_quantum_mechanics\.
 
 
 Nominalism
@@ -1210,10 +1207,12 @@ interact causally with the world. [^Field1989p68]
 -   Field: *Science Without Numbers* [^Field2016]
 -   John Burgess [^Burgess1983]
 -   Bueno [^Bueno2013]
+-   Chen, E.K. (2018). [The intrinsic structure of quantum mechanics](http://philsci-archive.pitt.edu/15140/). [^Chen2018b]
 
 >   significant in context but naming nothing. [^Goodman1947p105]
 
 [^Bueno2013]: @Bueno_2013_Nominalism_in_the_philosophy_of_mathematics\.
+[^Chen2018b]: @Chen_2018_The_intrinsic_structure_of_quantum_mechanics\.
 [^Field1989p68]: @Field_1989_Realism_Mathematics_and_Modality\, p. 68. TODO: Get exact quote.
 [^Burgess1983]: @Burgess_1983_Why_I_am_not_a_nominalist\.
 [^Field2016]: @Field_2016_Science_Without_Numbers\.
@@ -1280,6 +1279,8 @@ Logicism
 -   [Crispin Wright](https://en.wikipedia.org/wiki/Crispin_Wright) (b. 1942)
 -   [Bob Hale](https://en.wikipedia.org/wiki/Bob_Hale_(philosopher)) (1945-2017)
 -   Linsky, B. & Zalta, E.N. (2006). [What is Neologicism?](http://mally.stanford.edu/Papers/neologicism2.pdf) [^Linsky2006]
+-   Linsky, B. & Zalta, E.N. (1995). [Naturalized platonism versus platonized naturalism](https://www.jstor.org/stable/2940786) [^Linsky1995]
+-   Leitgeb, H., Nodelman, U., & Zalta, E.N. (2024). [A defense of logicism](https://mally.stanford.edu/Papers/logicism.pdf). [^Leitgeb2024]
 
 Linsky & Zalta:
 
@@ -1287,6 +1288,8 @@ Linsky & Zalta:
 >   we use to understand language, since that is the only faculty we need to
 >   understand object abstraction. [^Linsky2006p43]
 
+[^Leitgeb2024]: @Leitgeb_2024_A_defense_of_logicism\.
+[^Linsky1995]: @Linsky_1995_Naturalized_platonism_versus_platonized\.
 [^Linsky2006]: @Linsky_2006_What_is_Neologicism\.
 [^Linsky2006p43]: @Linsky_2006_What_is_Neologicism\, p. 43.
 

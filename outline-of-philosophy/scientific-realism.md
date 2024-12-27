@@ -1202,7 +1202,7 @@ Discussion:
 [^Carnap1950]: @Carnap_1950_Empiricism_semantics_and_ontology\.
 [^Carnap1950p7]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 7.
 [^Coffa1987]: @Coffa_1987_Carnap_Tarski_and_the_search_for_truth\.
-[^Creath2017c]: HERE
+[^Creath2017c]: @Creath_2017_The_logical_and_the_analytic\.
 [^Fowler2010]: @Fowler_2010_LSL_in_a_nutshell\.
 [^Lavers2004]: @Lavers_2004_Carnap_semantics_and_ontology\.
 [^Lavers2015]: @Lavers_2015_Carnap_Quine_quantification_and_ontology\.
