@@ -75,7 +75,13 @@ Stealing from encyclopedia.com:
 
 -   Quine, W.V.O. (1948). On what there is. [^Quine1948a]
 -   Ney, A. (2014). *Metaphysics: An introduction*. [^Ney2014]
+-   Bryant, A.K. (2017). [What's metaphysics all about?](http://www.amandakbryant.com/uploads/3/9/6/3/39633161/bryant_whats_metaphysics.pdf) [^Bryant2017]
 -   Williamson, T. (2020). [What is metaphysics?](https://www.thebritishacademy.ac.uk/blog/what-is-metaphysics/)
+
+[^Bryant2017]: @Bryant_2017_Whats_metaphysics_all_about\.
+[^Ney2014]: @Ney_2014_Metaphysics_An_introduction\.
+[^Quine1948a]: @Quine_1948_On_what_there_is\.
+[^vanInwagen2014]: @vanInwagen_2014_Metaphysics\.
 
 
 ### Conceptual distinctions
@@ -83,10 +89,6 @@ Stealing from encyclopedia.com:
 -   [Sense-reference distinction](https://en.wikipedia.org/wiki/Sense_and_reference) - Frege
 -   [Use-mention distinction](https://en.wikipedia.org/wiki/Use%E2%80%93mention_distinction)
     -   [White horse dialog](https://en.wikipedia.org/wiki/When_a_white_horse_is_not_a_horse)
-
-[^Ney2014]: @Ney_2014_Metaphysics_An_introduction\.
-[^Quine1948a]: @Quine_1948_On_what_there_is\.
-[^vanInwagen2014]: @vanInwagen_2014_Metaphysics\.
 
 
 ### Criticism
@@ -1052,6 +1054,7 @@ Vienna Circle scholars:
 -   Matthias Neuber (b. 1970)
 -   Panu Raatikainen
 -   Alan Richardson
+-   Thomas G. Ricketts
 -   Karl Sigmund (b. 1945)
 -   Friedrich Stadler (b. 1951)
 -   Thomas Uebel (b. 1952)

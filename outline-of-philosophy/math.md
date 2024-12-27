@@ -1117,8 +1117,10 @@ Platonism
     -   Mathematical Universe Hypothesis (MUH)
 -   Seth Lloyd - the universe is a computer - pythagorean?
 -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
--   Carroll, S. (2021). [Mindscape 127: Justin Clarke-Doane on Mathematics, Morality, Objectivity, and Reality](https://www.youtube.com/watch?v=3tvfq8ehHOk).
 -   De Cruz, H. (2016). [Numerical cognition and mathematical realism](http://hdl.handle.net/2027/spo.3521354.0016.016). [^DeCruz2016]
+-   Carroll, S. (2021). [Mindscape 127: Justin Clarke-Doane on Mathematics, Morality, Objectivity, and Reality](https://www.youtube.com/watch?v=3tvfq8ehHOk).
+-   [Abstract object threory](https://en.wikipedia.org/wiki/Abstract_object_theory)
+    -   [The Metaphysics Research Lab](https://mally.stanford.edu/index.html) - Stanford, CA
 
 [^DeCruz2016]: @DeCruz_2016_Numerical_cognition_and_mathematical_realism\.
 [^Quine1948b]: @Quine_1948_On_what_there_is\.
