@@ -1057,6 +1057,7 @@ Vienna Circle scholars:
 -   Sander Verhaegh (b. 1986)
 -   Andreas Vrahimis
 -   Pierre Wagner (b. 1963)
+-   Sandy L. Zabell (b. 1947)
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
 [^Blumberg1931]: @Blumberg_1931_Logical_positivism_A_new_movement_in_European\.

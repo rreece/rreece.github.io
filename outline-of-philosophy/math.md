@@ -494,8 +494,9 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
 
 #### Limitations
 
--   The L&ouml;wenheim-Skolem theorem implies that infinite structures
-    cannot be categorically axiomatized in first-order logic.
+-   [L&ouml;wenheim-Skolem theorem](https://en.wikipedia.org/wiki/L%C3%B6wenheim%E2%80%93Skolem_theorem)
+    -   The L&ouml;wenheim-Skolem theorem implies that infinite structures
+        cannot be categorically axiomatized in first-order logic.
     -   No first-order theory has the strength to uniquely describe a
         structure with an infinite domain, such as the natural numbers
         or the real line.
@@ -505,6 +506,7 @@ $$ ((P \rightarrow Q) \rightarrow P) \rightarrow P $$
     -   TODO: show this.
     -   B&egrave;s, A. (2002). [A survey of arithmetical definability](http://lacl.u-pec.fr/bes/publi/survey.pdf). [^Bes2002]
     -   B&egrave;s, A. & Choffrut, C. (2022). [Decidability of definability issues in the theory of real addition](https://fi.episciences.org/10753). [^Bes2022]
+-   [Tennenbaum's theorem](https://en.wikipedia.org/wiki/Tennenbaum%27s_theorem)
 -   Quantifiers other than $\forall$ and $\exists$ are only definable
     within second-order logic or higher-order logics.
 
@@ -883,6 +885,7 @@ Category theory
 -   Relation to set theory
 -   Relation to Russell type theory
 -   Univalent foundations
+    -   Lawvere, F.W. (1963). [*Functorial Semantics of Algebraic Theories and Some Algebraic Problems in the context of Functorial Semantics of Algebraic Theories*](http://www.tac.mta.ca/tac/reprints/articles/5/tr5abs.html). [^Lawvere1963]
 -   Categories are semigroupoids.
 -   [Curry-Howard-Lambek correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence#Curry%E2%80%93Howard%E2%80%93Lambek_correspondence)
     -   Three-way isomorphism between intuitionistic logic, typed lambda calculus, and cartesian closed categories
@@ -894,6 +897,7 @@ See also:
 [^Bradley2018]: @Bradley_2018_What_is_applied_category_theory\.
 [^Eilenberg1945]: @Eilenberg_1945_General_theory_of_natural_equivalences\.
 [^Fong2018]: @Fong_2018_Seven_sketches_in_compositionality_An_invitation\.
+[^Lawvere1963]: @Lawvere_1963_Functorial_Semantics_of_Algebraic_Theories\.
 [^Rodin2012]: @Rodin_2012_Axiomatic_method_and_category_theory\.
 [^Spivak2013b]: @Spivak_2013_Category_theory_for_scientists\.
 
