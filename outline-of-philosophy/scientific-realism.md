@@ -674,6 +674,7 @@ Creath:
     All statements that cannot be empirically verified in principle are meaningless.
     -   AKA the Verification Principle
     -   Scheinproblem = Pseudo-problem
+    -   See also: [Rejection of *a priori* metaphysics](naturalism.html#rejection-of-a-priori-metaphysics)
 3.  Carnap's principle of tolerance
     -   In *LSL* [^Carnap1937LSLp51]
     -   Leitgeb [^Leitgeb2020H]

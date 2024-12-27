@@ -477,8 +477,10 @@ See also:
 
 Examples of non-naturalized methaphysics:
 
+-   George Bealer
 -   Crawford Elder (b. 1949)
 -   Joseph Jedwab
+-   Robert C. Koons (b. 1957)
 -   David Lewis (1941-2001)
 -   Anna Marmodoro
 -   Trenton Merricks
@@ -990,6 +992,8 @@ Criticisms of naturalism
     -   1996 "Science Wars" issue of *Social Text*, 46. Duke University Press.
     -   Henriques, G. (2012). [Revisiting the Science Wars: Toward a scientific humanistic worldview](https://www.psychologytoday.com/us/blog/theory-knowledge/201206/revisiting-the-science-wars). *Psychology Today*.
     -   Kofman, A. (2018). [Bruno Latour, the post-truth philosopher, mounts a defense of science](https://www.nytimes.com/2018/10/25/magazine/bruno-latour-post-truth-philosopher-science.html). *New York Times*.
+-   Naturalism is empty
+    -   Raleigh, T. (2023). [The emptiness of naturalism](https://philpapers.org/archive/RALTEO-3.pdf). [^Raleigh2023]
 -   Epistemic pessimism
     -   Gefter, A. & Hoffman, D.D. (2016). [The case against reality](https://www.theatlantic.com/science/archive/2016/04/the-illusion-of-reality/479559/).
 -   Decolonizing science
@@ -1028,6 +1032,7 @@ See also:
 [^Garfield2016a]: @Garfield_2016_If_philosophy_wont_diversify_lets_call_it_what\.
 [^Poskett2022]: @Poskett_2022_Horizons_The_Global_Origins_of_Modern_Science\.
 [^PrescodWeinstein2017]: @Prescod_Weinstein_2017_Scientists_must_challenge_what_makes_studies\.
+[^Raleigh2023]: @Raleigh_2023_The_emptiness_of_naturalism\.
 [^VanNorden2017]: @VanNorden_2017_Taking_Back_Philosophy_A_Multicultural_Manifesto\.
 [^Winburn2021]: @Winburn_2021_Objectivity_is_a_myth_that_harms_the_practice\.
 
