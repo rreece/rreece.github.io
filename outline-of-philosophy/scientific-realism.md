@@ -1326,14 +1326,15 @@ Vienna Circle / Berlin Circle / logical positivism scholars:
 -   Warren Goldfarb (b. 1949)
 -   Jaakko Hintikka (1929-2015)
 -   Benjamin Marschall
--   Thomas Mormann (b. 1951)
 -   Brian F. McGuinness (1927-2019)
+-   Thomas Mormann (b. 1951)
 -   Mauro Murzi (b. 1961)
 -   Matthias Neuber (b. 1970)
 -   Panu Raatikainen
 -   Alan Richardson
 -   Thomas G. Ricketts
 -   Karl Sigmund (b. 1945)
+-   Olaf Simons (b. 1961)
 -   Friedrich Stadler (b. 1951)
 -   Thomas Uebel (b. 1952)
 -   Sander Verhaegh (b. 1986)
@@ -1360,7 +1361,9 @@ Various reactions to positivism.
 
 -   Karl Popper (1902-1994)
     -   [Critical rationalism](https://en.wikipedia.org/wiki/Critical_rationalism)
+-   Brian F. McGuinness (1927-2019)
     -   *The Myth of the Framework* (1994)
+-   Brian F. McGuinness (1927-2019)
 -   Willard Van Orman Quine (1908-2000)
 -   Thomas Kuhn (1922-1996)
 -   Imre Lakatos (1922-1974)
