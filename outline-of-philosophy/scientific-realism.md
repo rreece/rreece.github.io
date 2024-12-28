@@ -1126,7 +1126,7 @@ TODO: Note any differences between:
     -   Carus, A.W. (2008). *Carnap and Twentieth-Century Thought*. [^Carus2008]
     -   Creath, R. (2012). *Rudolf Carnap and the Legacy of Logical Empiricism*. [^Creath2012]
     -   Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. [^Verhaegh2020]
-    -   Richardson, A. & Tuboly, A.T. (2024). *Interpreting Carnap: Critical Essays*. Cambridge University Press. [^Richardson2024]
+    -   Richardson, A. & Tuboly, A.T. (2024). *Interpreting Carnap: Critical Essays*. [^Richardson2024]
 
 [^Awodey2004]: @Awodey_2004_Carnap_Brought_Home_The_View_from_Jena\.
 [^Buck1971]: @Buck_1971_PSA_1970_In_Memory_of_Rudolf_Carnap_Proceedings\.
