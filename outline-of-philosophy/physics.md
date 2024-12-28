@@ -420,7 +420,10 @@ Quantum mechanics
 
 ### Introduction
 
--   Hilbert spaces.  Wigner's theorem.  The Born rule.
+-   Hilbert spaces
+    -   de la Madrid, R. (2005). [The role of the rigged Hilbert space in quantum mechanics](https://arxiv.org/abs/quant-ph/0502053). [^Madrid2005]
+-   Wigner's theorem
+-   Born rule
 -   Wave-particle duality misconceptions.  Fields are more fundamental than particles.
 -   Philosophy of QM traditionally focus on NRQM. [^Ney2013]
 -   The measurement problem.  Decoherence.  The Born rule again.
@@ -443,6 +446,7 @@ Feynman and Hibbs on the uncertainty principle:
 
 [^FeynmanHibbs1965p6]: @Feynman_1965_Quantum_Mechanics_and_Path_Integrals\, p. 6.
 [^FeynmanHibbs1965p9]: @Feynman_1965_Quantum_Mechanics_and_Path_Integrals\, p. 9.
+[^Madrid2005]: @dela_2005_The_role_of_the_rigged_Hilbert_space_in_quantum\.
 [^Ney2013]: @Ney_2013_The_Wave_Function_Essays_on_the_metaphysics\.
 
 
@@ -702,8 +706,10 @@ Baez, Segal, & Zhou:
 -   Zeidler, vol 1 [^Zeidler2007], 2 [^Zeidler2008], and 3 [^Zeidler2011]
 -   Cao, T.Y. (1999). *Conceptual Foundations of Quantum Field Theory*. [^Cao1999]
 -   't Hooft, G. (2005). [The conceptual basis of quantum field theory](https://dspace.library.uu.nl/bitstream/handle/1874/22670/hooft_05_conceptualbasisofquantumfieldtheory.pdf). [^tHooft2005]
+-   Mulders, P.J. (2011). [Quantum field theory](https://www.nat.vu.nl/~mulders/QFT-0.pdf). [^Mulders2011]
 
 [^Cao1999]: @Cao_1999_Conceptual_Foundations_of_Quantum_Field_Theory\.
+[^Mulders2011]: @Mulders_2011_Quantum_field_theory\.
 [^Peskin1995]: @Peskin_1995_An_Introduction_to_Quantum_Field_Theory\.
 [^Schwartz2014]: @Schwartz_2014_Quantum_Field_Theory_and_the_Standard_Model\.
 [^tHooft2005]: @tHooft_2005_The_conceptual_basis_of_quantum_field_theory\.
@@ -851,7 +857,8 @@ Michael Atiyah:
 -   Dyson
 -   Dirac, P.A.M. (1963). [The evolution of the physicist's picture of nature](https://www.jstor.org/stable/24936146). [^Dirac1963]
 -   't Hooft, G. (1971). Renormalizable Lagrangians for massive Yang-Mills fields. [^tHooft1971]
--   Wilson, K. (1974). The renormalization group and the $\varepsilon$ expansion. [^Wilson1974]
+-   Wilson, K.G. (1974). The renormalization group and the $\varepsilon$ expansion. [^Wilson1974]
+-   Wilson, K.G. (1979). [Problems in physics with many scales of length](https://www.jstor.org/stable/24965270). [^Wilson1979]
 -   Goldenfeld, N. (1992). *Lectures on Phase Transitions and the Renormalization Group*. [^Goldenfeld1992]
 -   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. (again) [^tHooft1994b]
 -   't Hooft, G. (1999). A confrontation with infinity (Nobel lecture). [^tHooft1999]
@@ -878,6 +885,7 @@ Michael Atiyah:
 [^tHooft1994b]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
 [^tHooft1999]: @tHooft_1999_A_confrontation_with_infinity\.
 [^Wilson1974]: @Wilson_1974_The_renormalization_group_and_the_varepsilon\.
+[^Wilson1979]: @Wilson_1979_Problems_in_physics_with_many_scales_of_length\.
 
 
 ### Effective field theory
@@ -972,11 +980,11 @@ Baez, Segal, & Zhou on wave-particle duality:
 >   representation. [^Baez1992p59]
 
 -   Fraser, D. (2008). [The fate of 'particles' in quantum field theories with interactions](http://philsci-archive.pitt.edu/4038/). [^Fraser2008]
+-   Baker, D.J. (2009). [Against field interpretations of quantum field theory](http://philsci-archive.pitt.edu/4350/). [^Baker2009]
 -   Pessa, E. (2009). [The concept of particle in quantum field theory](https://arxiv.org/abs/0907.0178). [^Pessa2009]
 -   Duncan, A. (2012). *The Conceptual Framework of Quantum Field Theory*. [^Duncan2012p163]
 -   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
 -   Lazarovici, D. (2018). [Against fields](https://arxiv.org/abs/1809.00855). [^Lazarovici2018]
--   Baker, D.J. (2009). [Against field interpretations of quantum field theory](http://philsci-archive.pitt.edu/4350/). [^Baker2009]
 
 [^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
 [^Baker2009]: @Baker_2009_Against_field_interpretations_of_quantum_field\.
@@ -1056,9 +1064,11 @@ Baez, Segal, & Zhou on wave-particle duality:
     -   Weyl
     -   Dirac quantization and magnetic monopoles
 -   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
+-   Todorov, I. (2012). [Quantization is a mystery](https://arxiv.org/abs/1206.3116). [^Todorov2012]
 
 [^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
+[^Todorov2012]: @Todorov_2012_Quantization_is_a_mystery\.
 
 
 #### Algebraic vs constructive QFT
@@ -2655,6 +2665,7 @@ Click to show links
 -   [Can the quantum state be interpreted statistically?](http://mattleifer.info/2011/11/20/can-the-quantum-state-be-interpreted-statistically/) - Matt Leifer
 -   [Can we trivialize the equivalence between canonical quantization of fields and second quantization of particles?](http://physics.stackexchange.com/questions/86920/can-we-trivialize-the-equivalence-between-canonical-quantization-of-fields-and/87194) - physics.stackexchange
 -   [Could one argue that $h$ (Planck constant) and $\hbar/2$ (Dirac constant) are in fact independant constants?](http://physics.stackexchange.com/questions/51631/could-one-argue-that-h-planck-constant-and-hbar-2-dirac-constant-are-in-f/51636) - physics.stackexchange
+-   [Clear Physics](https://www.cphysics.org/)
 -   [Effective field theory](http://ncatlab.org/nlab/show/effective+quantum+field+theory) - nlab
 -   [Emergence](http://rationalwiki.org/wiki/Emergence) - RationalWiki.org
 -   [Fiber bundles in physics](https://ncatlab.org/nlab/show/fiber+bundles+in+physics) - nlab
