@@ -1035,34 +1035,6 @@ Surveys:
 -   Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. [^Edmonds2020a]
 -   Springer book series: [Vienna Circle Institute Yearbook](https://www.springer.com/series/6669)
 
-Vienna Circle scholars:
-
--   Steve Awodey (b. 1959)
--   Herbert G. Bohnert (1918-1984)
--   Andr&eacute; W. Carus
--   Alberto Coffa (1935-1984)
--   Richard Creath (b. 1947)
--   Christian Damb&ouml;ck (b. 1968)
--   Michael Friedman (b. 1947)
--   Ronald Giere (1938-2020)
--   Warren Goldfarb (b. 1949)
--   Jaakko Hintikka (1929-2015)
--   Benjamin Marschall
--   Thomas Mormann (b. 1951)
--   Brian F. McGuinness (1927-2019)
--   Mauro Murzi (b. 1961)
--   Matthias Neuber (b. 1970)
--   Panu Raatikainen
--   Alan Richardson
--   Thomas G. Ricketts
--   Karl Sigmund (b. 1945)
--   Friedrich Stadler (b. 1951)
--   Thomas Uebel (b. 1952)
--   Sander Verhaegh (b. 1986)
--   Andreas Vrahimis
--   Pierre Wagner (b. 1963)
--   Sandy L. Zabell (b. 1947)
-
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
 [^Blumberg1931]: @Blumberg_1931_Logical_positivism_A_new_movement_in_European\.
 [^Carnap1928]: @Carnap_2003_The_Logical_Structure_of_the_World\.
@@ -1144,7 +1116,9 @@ TODO: Note any differences between:
     -   Carnap, R. & Schilpp, P.A. (1963). [*The Philosophy of Rudolf Carnap*](http://fitelson.org/confirmation/carnap_schilpp_volume.pdf). [^Schilpp1963]
         -   AKA the "Schilpp volume"
         -   Paul Arthur Schilpp (1897-1993)
+    -   Kazemier, B.H. & Vuysje, D. (1962). *Logic and Language: Studies Dedicated to Professor Rudolf Carnap on the Occasion of His Seventieth Birthday*. [^Kazemier1962]
     -   Buck, R.C. & Cohen, R.S. (1971). *PSA 1970: In Memory of Rudolf Carnap Proceedings of the 1970 Biennial Meeting Philosophy of Science Association*. [^Buck1971]
+    -   Ebbs, G. (2017). *Carnap, Quine, and Putnam on Methods of Inquiry*. [^Ebbs2017]
     -   Hintikka, J. (1975). *Rudolf Carnap, Logical Empiricist*. [^Hintikka1975]
     -   Friedman, M. (1999). *Reconsidering Logical Positivism*. [^Friedman1999]
     -   Awodey, S. & Klein, C. (2004). *Carnap Brought Home: The View from Jena*. [^Awodey2004]
@@ -1154,16 +1128,17 @@ TODO: Note any differences between:
     -   Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. [^Verhaegh2020]
     -   Richardson, A. & Tuboly, A.T. (2024). *Interpreting Carnap: Critical Essays*. Cambridge University Press. [^Richardson2024]
 
-
 [^Awodey2004]: @Awodey_2004_Carnap_Brought_Home_The_View_from_Jena\.
 [^Buck1971]: @Buck_1971_PSA_1970_In_Memory_of_Rudolf_Carnap_Proceedings\.
 [^Carnap1936]: @Carnap_1936_Testability_and_meaning\.
 [^Carnap1937]: @Carnap_1937_Testability_and_meaning_continued\.
 [^Carus2008]: @Carus_2008_Carnap_and_Twentieth_Century_Thought\.
 [^Creath2012]: @Creath_2012_Rudolf_Carnap_and_the_Legacy_of_Logical_Empiricism\.
+[^Ebbs2017]: @Ebbs_2017_Carnap_Quine_and_Putnam_on_Methods_of_Inquiry\.
 [^Friedman1999]: @Friedman_1999_Reconsidering_Logical_Positivism\.
 [^Friedman2007]: @Friedman_2007_The_Cambridge_Companion_to_Carnap\.
 [^Hintikka1975]: @Hintikka_1975_Rudolf_Carnap_Logical_Empiricist\.
+[^Kazemier1962]: @Kazemier_1962_Logic_and_Language_Studies_Dedicated_to_Professor\.
 [^Neurath1938]: @Neurath_1955_International_Encyclopedia_of_Unified_Science\.
 [^Richardson2024]: @Richardson_2024_Interpreting_Carnap_Critical_Essays\.
 [^Schilpp1963]: @Carnap_1963_The_Philosophy_of_Rudolf_Carnap\.
@@ -1337,6 +1312,34 @@ Also:
 
 -   Movements in "positivism": [positivists.org/blog/movements](http://positivists.org/blog/movements)
 -   Posted at: [r/PhilosophyofScience: What is positivism?](http://www.reddit.com/r/PhilosophyofScience/comments/39hg07/what_is_positivism/)
+
+Vienna Circle / Berlin Circle / logical positivism scholars:
+
+-   Steve Awodey (b. 1959)
+-   Herbert G. Bohnert (1918-1984)
+-   Andr&eacute; W. Carus
+-   Alberto Coffa (1935-1984)
+-   Richard Creath (b. 1947)
+-   Christian Damb&ouml;ck (b. 1968)
+-   Michael Friedman (b. 1947)
+-   Ronald Giere (1938-2020)
+-   Warren Goldfarb (b. 1949)
+-   Jaakko Hintikka (1929-2015)
+-   Benjamin Marschall
+-   Thomas Mormann (b. 1951)
+-   Brian F. McGuinness (1927-2019)
+-   Mauro Murzi (b. 1961)
+-   Matthias Neuber (b. 1970)
+-   Panu Raatikainen
+-   Alan Richardson
+-   Thomas G. Ricketts
+-   Karl Sigmund (b. 1945)
+-   Friedrich Stadler (b. 1951)
+-   Thomas Uebel (b. 1952)
+-   Sander Verhaegh (b. 1986)
+-   Andreas Vrahimis
+-   Pierre Wagner (b. 1963)
+-   Sandy L. Zabell (b. 1947)
 
 See also:
 

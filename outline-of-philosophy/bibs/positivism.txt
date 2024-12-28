@@ -20,6 +20,7 @@ Creath, R. (2012). *Rudolf Carnap and the Legacy of Logical Empiricism*. Springe
 Creath, R. (2017). The logical and the analytic. *Synthese*, 194, 79--96. https://link.springer.com/article/10.1007/s11229-015-0685-5
 Creath, R. (2017). Logical empiricism. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/logical-empiricism/
 Creath, R. (2023). What was Carnap rejecting when he rejected metaphysics? In *From Biological Practice to Scientific Metaphysics*. University of Minnesota Press. https://manifold.umn.edu/read/from-biological-practice-to-scientific-metaphysics/section/0d271498-1f37-49d7-8bf5-3268cb77b4a0#ch03
+Ebbs, G. (2017). *Carnap, Quine, and Putnam on Methods of Inquiry*. Cambridge University Press.
 Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. Princeton University Press.
 Feigl, H. (1956). Some major issues and developments in the philosophy of science of logical empiricism. In H. Feigl & M. Scriven (eds.), *The Foundations of Science and the Concepts of Psychology and Psychoanalysis*, (pp. 3--37). Minneapolis: University of Minnesota Press.
 Feigl, H. (1981). The origin and spirit of logical positivism. *Inquiries and Provocations*, 21--37.
@@ -32,6 +33,7 @@ Hahn, H., Neurath, O., & Carnap, R. (1973). The scientific conception of the wor
 Heilbron, J.L. (2013). The first Solvay council: "A sort of private conference". In D. Gross & M. Henneaux & A. Servin (Eds.). *The Theory of the Quantum World: Proceedings of the 25th Solvay Conference on Physics* (pp. 1--16). World Scientific.
 Hintikka, J. (1975). *Rudolf Carnap, Logical Empiricist*. Dordrecht: Springer Netherlands.
 Houghton, T. (2011). Does positivism really 'work' in the social sciences? https://www.e-ir.info/2011/09/26/does-positivism-really-%E2%80%98work%E2%80%99-in-the-social-sciences/
+Kazemier, B.H. & Vuysje, D. (1962). *Logic and Language: Studies Dedicated to Professor Rudolf Carnap on the Occasion of His Seventieth Birthday*. Springer.
 Leitgeb, H. (2023). Vindicating the verifiability criterion. *Philosophical Studies*. https://doi.org/10.1007/s11098-023-02071-w
 Leitgeb, H. & Carus, A. (2020). Rudolf Carnap. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/carnap/index.html
 Lewis, D.K. (1969). Policing the Aufbau. *Philosophical Studies*, 20, 13--17. https://www.jstor.org/stable/4318613
