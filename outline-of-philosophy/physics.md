@@ -420,10 +420,7 @@ Quantum mechanics
 
 ### Introduction
 
--   Hilbert spaces
-    -   de la Madrid, R. (2005). [The role of the rigged Hilbert space in quantum mechanics](https://arxiv.org/abs/quant-ph/0502053). [^Madrid2005]
--   Wigner's theorem
--   Born rule
+-   Hilbert spaces; Wigner's theorem; Born rule
 -   Wave-particle duality misconceptions.  Fields are more fundamental than particles.
 -   Philosophy of QM traditionally focus on NRQM. [^Ney2013]
 -   The measurement problem.  Decoherence.  The Born rule again.
@@ -446,7 +443,6 @@ Feynman and Hibbs on the uncertainty principle:
 
 [^FeynmanHibbs1965p6]: @Feynman_1965_Quantum_Mechanics_and_Path_Integrals\, p. 6.
 [^FeynmanHibbs1965p9]: @Feynman_1965_Quantum_Mechanics_and_Path_Integrals\, p. 9.
-[^Madrid2005]: @dela_2005_The_role_of_the_rigged_Hilbert_space_in_quantum\.
 [^Ney2013]: @Ney_2013_The_Wave_Function_Essays_on_the_metaphysics\.
 
 
@@ -551,6 +547,7 @@ TODO: Note that Everettian QM would argue the Born rule is secondary and derivab
 -   Too much focus on NRQM
     -   Wallace, D. (2020). [Lessons from realistic physics for the metaphysics of quantum theory](https://link.springer.com/article/10.1007/s11229-018-1706-y). [^Wallace2020]
 -   Hilbert spaces
+    -   de la Madrid, R. (2005). [The role of the rigged Hilbert space in quantum mechanics](https://arxiv.org/abs/quant-ph/0502053). [^Madrid2005]
     -   Carcassi, G., Calderon, F., & Aidala, C.A. (2023). [The unphysicality of Hilbert spaces](https://arxiv.org/abs/2308.06669). [^Carcassi2023]
 
 See also:
@@ -559,6 +556,7 @@ See also:
 
 [^Baez2011a]: @Baez_2011_Division_algebras_and_quantum_theory\.
 [^Carcassi2023]: @Carcassi_2023_The_unphysicality_of_Hilbert_spaces\.
+[^Madrid2005]: @dela_2005_The_role_of_the_rigged_Hilbert_space_in_quantum\.
 [^Jordan1934]: @Jordan_1934_On_an_algebraic_generalization_of_the_quantum\.
 [^Wallace2016]: @Wallace_2016_What_is_orthodox_quantum_mechanics\.
 [^Wallace2020]: @Wallace_2020_Lessons_from_realistic_physics_for_the_metaphysics\.
@@ -681,6 +679,8 @@ Quantum field theory
 -   Feynman's Nobel Lecture on QED [^Feynman1965]
 -   Weinberg's folk theorem: QFT is the right way to combine Lorentz invariance,
     quantum mechanics, and the cluster decomposition principle. [^Weinberg1997p8]
+-   Euler-Lagrange equations of motion
+    -   The Dirac equation does _not_ describe a relativistic wavefunction (hence the obsolete "Dirac sea" interpretation). [^Auyang1995p50]
 
 Baez, Segal, & Zhou:
 
@@ -692,6 +692,7 @@ Baez, Segal, & Zhou:
 >   space-time, it is clear from this description that it is a multifaceted
 >   subject. [^Baez1992p1]
 
+[^Auyang1995p50]: @Auyang_1995_How_Is_Quantum_Field_Theory_Possible\, p. 50.
 [^Baez1992p1]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 1.
 [^Feynman1965]: @Feynman_1965_The_development_of_the_space_time_view_of_quantum\.
 [^Weinberg1997p8]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\, p. 8.
@@ -927,10 +928,10 @@ J.D. Fraser:
 #### Introduction
 
 -   Weinberg
--   Struggles with the continuum [^Baez2016]
 -   [Reeh-Schlieder theorem](https://en.wikipedia.org/wiki/Reeh%E2%80%93Schlieder_theorem)
     -   Taj Mahal principle
--   Auyang, S.Y. (1995). *How Is Quantum Field Theory Possible?* [^Auyang1995]
+-   Struggles with the continuum [^Baez2016]
+-   Auyang, S.Y. (1995). *How Is Quantum Field Theory Possible?* [^Auyang1995a]
 
 Baez:
 
@@ -946,7 +947,7 @@ Baez:
 >   rigorous way, what these approximations are supposed to be
 >   approximating. [^Baez2016p18]
 
-[^Auyang1995]: @Auyang_1995_How_Is_Quantum_Field_Theory_Possible\.
+[^Auyang1995a]: @Auyang_1995_How_Is_Quantum_Field_Theory_Possible\.
 [^Baez2016]: @Baez_2016_Struggles_with_the_continuum\.
 [^Baez2016p17]: @Baez_2016_Struggles_with_the_continuum\, p. 17.
 [^Baez2016p18]: @Baez_2016_Struggles_with_the_continuum\, p. 18.
@@ -983,7 +984,6 @@ Baez, Segal, & Zhou on wave-particle duality:
 -   Baker, D.J. (2009). [Against field interpretations of quantum field theory](http://philsci-archive.pitt.edu/4350/). [^Baker2009]
 -   Pessa, E. (2009). [The concept of particle in quantum field theory](https://arxiv.org/abs/0907.0178). [^Pessa2009]
 -   Duncan, A. (2012). *The Conceptual Framework of Quantum Field Theory*. [^Duncan2012p163]
--   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
 -   Lazarovici, D. (2018). [Against fields](https://arxiv.org/abs/1809.00855). [^Lazarovici2018]
 
 [^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
@@ -992,11 +992,33 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Einstein1905a]: @Einstein_1905_Uber_einen_die_erzeugung_und_verwandlung_des\.
 [^Fraser2008]: @Fraser_2008_The_fate_of_particles_in_quantum_field_theories\.
 [^Lazarovici2018]: @Lazarovici_2018_Against_fields\.
-[^Myrvold2015]: @Myrvold_2015_What_is_a_wavefunction\.
 [^Pessa2009]: @Pessa_2009_The_concept_of_particle_in_quantum_field_theory\.
 [^Schrodinger1953]: @Schrodinger_1953_What_is_matter\.
 [^Weinberg1997p2]: @Weinberg_1997_What_is_quantum_field_theory_and_what_did_we\, p. 2.
 [^Weinberg1997a]: @Weinberg_1997_What_is_an_elementary_particle\.
+
+
+#### Newton-Wigner localization
+
+TODO: Clean up
+
+Single-particle states:
+
+$$ | \vec{x}, t  \rangle = \hat{\psi}(\vec{x}, t)  | 0 \rangle $$
+
+and single-particle wavefunction derived from QFT: [^Myrvold2015p15]
+
+$$ \psi(x) = \langle x | \Psi \rangle = \langle 0 | \hat{\psi}(x) | \Psi \rangle $$
+
+-   [Newton-Wigner localization](https://en.wikipedia.org/wiki/Newton%E2%80%93Wigner_localization)
+-   Fleming, G.N. (2000). [Reeh-Schlieder meets Newton-Wigner](https://www.jstor.org/stable/188690). [^Fleming2000]
+-   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
+-   Moretti, V. (2023). [On the relativistic spatial localization for massive real scalar Klein-Gordon quantum particles](https://arxiv.org/abs/2304.02133). [^Moretti2023]
+
+[^Fleming2000]: @Fleming_2000_Reeh_Schlieder_meets_Newton_Wigner\.
+[^Moretti2023]: @Moretti_2023_On_the_relativistic_spatial_localization\.
+[^Myrvold2015]: @Myrvold_2015_What_is_a_wavefunction\.
+[^Myrvold2015p15]: @Myrvold_2015_What_is_a_wavefunction\, p. 15.
 
 
 #### Haag's theorem
@@ -1145,12 +1167,15 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
 >   Bundles are the *global* structure of physical fields and they are irrelevant
 >   only for the crude local and perturbative description of reality. [^nLab2021Fiber]
 
+![An illustration of the fiber bundle formulation of interacting quantum fields. [^Auyang1995p220] ](img/Auyang1995-p220-fiber-qft.png){#fig:Auyang1995-p220-fiber-qft}
+
 -   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
     -   An ordinary gauge field is a field which is locally represented by a
         differential 1-form, the gauge potential, and whose field strength is locally
         a differential 2-form.
     -   [Principal bundle](https://en.wikipedia.org/wiki/Principal_bundle)
     -   [Ehresmann connection](https://en.wikipedia.org/wiki/Ehresmann_connection)
+-   Auyang, S.Y. (1995). *How Is Quantum Field Theory Possible?* [^Auyang1995b]
 -   Way, R. (2010). [Introduction to connections on principal fibre bundles](http://personal.maths.surrey.ac.uk/T.Bridges/GEOMETRIC-PHASE/Connections_intro.pdf). [^Way2010]
 -   V&aacute;k&aacute;r, M. (2011). [Principal bundles and gauge theories](https://arxiv.org/abs/2110.06334). [^Vakar2011]
 
@@ -1183,6 +1208,8 @@ See also:
 -   [Differential geometry](math.html#differential-geometry)
     in the Outline on [mathematics](math.html).
 
+[^Auyang1995b]: @Auyang_1995_How_Is_Quantum_Field_Theory_Possible\.
+[^Auyang1995p220]: @Auyang_1995_How_Is_Quantum_Field_Theory_Possible\, p. 220.
 [^Baez1994]: @Baez_1994_Gauge_Fields_Knots_and_Gravity\.
 [^Baez2005]: @Baez_2005_Higher_gauge_theory\.
 [^Baez2011b]: @Baez_2011_An_invitation_to_higher_gauge_theory\.

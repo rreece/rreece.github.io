@@ -146,6 +146,7 @@ Everett, H. (2012). *The Everett Interpretation of Quantum Mechanics: Collected 
 Feynman, R.P. (1963). *The Feynman Lectures on Physics, Volume I*. California Institute of Technology. http://www.feynmanlectures.caltech.edu/I_03.html
 Feynman, R.P. (1965). The development of the space-time view of quantum electrodynamics. https://www.nobelprize.org/prizes/physics/1965/feynman/lecture/ [Nobel Lecture, December 11, 1965]
 Feynman, R.P. & Hibbs, A.R. (1965). *Quantum Mechanics and Path Integrals*. Dover. [Emended edition (2005)]
+Fleming, G.N. (2000). Reeh-Schlieder meets Newton-Wigner. *Philosophy of Science*, 67, S495--S515. https://www.jstor.org/stable/188690
 Frankel, T. (2004). *The Geometry of Physics* (2nd ed.). Cambridge University Press. 
 Fraser, D. (2008). The fate of 'particles' in quantum field theories with interactions. *Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics*, 39(4), 841--859. http://philsci-archive.pitt.edu/4038/
 Fraser, D. (2011). How to take particle physics seriously: A further defence of axiomatic quantum field theory. *Studies in History and Philosophy of Modern Physics*, 42, 126--135.
@@ -248,6 +249,7 @@ Mermin, N.D. (2022). A note on the quantum measurement problem. https://arxiv.or
 {MicroBooNE Collaboration}. (2021). Search for neutrino-induced neutral current $\Delta$ radiative decay in MicroBooNE and a first test of the MiniBooNE low energy excess under a single-photon hypothesis. https://arxiv.org/abs/2110.00409
 {MiniBooNE Collaboration}. (2018). Significant excess of electron-like events in the MiniBooNE short-baseline neutrino experiment. *Physical Review Letters*, 121, 221801. https://arxiv.org/abs/1805.12028
 Misner, C.W., Thorne, K.S., & Wheeler, J.A. (1973). *Gravitation*. Freeman and Co. [(Reprinted by Princeton University Press (2017))]
+Moretti, V. (2023). On the relativistic spatial localization for massive real scalar Klein-Gordon quantum particles. https://arxiv.org/abs/2304.02133
 Mulders, P.J. (2011). Quantum field theory. https://www.nat.vu.nl/~mulders/QFT-0.pdf
 Murayama, H. (2000). Supersymmetry phenomenology. https://arxiv.org/abs/hep-ph/0002232
 Myrvold, W.C. (2015). What is a wavefunction? *Synthese*, 192(10), 3247--3274. http://philsci-archive.pitt.edu/11117/
