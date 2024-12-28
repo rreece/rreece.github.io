@@ -1493,7 +1493,7 @@ Primitive ontology:
 
 Virtues:
 
--   No collapse; universal unitary Schr&ouml;ding evolution
+-   No collapse; universal unitary Schr&ouml;dinger evolution
 -   Consistent histories of particle trajectories.
 
 Criticisms:
@@ -1599,7 +1599,7 @@ Videos:
 Virtues:
 
 -   Minimal; No additions to quantum theory
--   No collapse; universal unitary Schr&ouml;ding evolution
+-   No collapse; universal unitary Schr&ouml;dinger evolution
 -   Relativistic QFT works naturally.
 -   Decoherence does a lot of work at explaining the appearance of collapse into classical states.
 -   Classical concepts are derived; not dual; no complementarity.

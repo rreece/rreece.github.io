@@ -648,13 +648,15 @@ More:
 
 ### Alternative logics
 
--   Intuitionistic Logic
-    -   Law of excluded middle (LEM): *Tertium non datur*.        
-        $\vdash A \lor \lnot A$
-    -   Intuitionistic logic rejects LEM.
-    -   Constructive mathematics
 -   Liar paradox
     -   Carroll, L. (1895). [What the tortoise said to Achilles](http://www.ditext.com/carroll/tortoise.html). [^Carroll1895]
+-   Intuitionistic Logic
+    -   Law of excluded middle (LEM), *Tertium non datur*:        
+        $\vdash A \lor \lnot A$
+    -   Law of double negation (LDN):        
+        $\lnot \lnot A \leftrightarrow A$
+    -   Intuitionistic logic rejects LEM and LDN.
+    -   Constructive mathematics
 -   Paraconsistent logic
     -   [Principle of explosion](https://en.wikipedia.org/wiki/Principle_of_explosion)
     -   *Ex contradictione quodlibet* (ECQ): from a contradiction anything follows.         
