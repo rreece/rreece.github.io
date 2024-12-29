@@ -1175,7 +1175,7 @@ possible gauge transformations.
 -   [Vector bundle](https://en.wikipedia.org/wiki/Vector_bundle)
 -   [Principal bundle](https://en.wikipedia.org/wiki/Principal_bundle)
 -   [Ehresmann connection](https://en.wikipedia.org/wiki/Ehresmann_connection)
--   Frankel, T. (2004). *The Geometry of Physics*. [^Frankel2004]
+-   Wu, T.T. & Yang, C.N. (1975). Concept of nonintegrable phase factors and global formulation of gauge fields. [^Wu1975]
 
 >   Bundles are the *global* structure of physical fields and they are irrelevant
 >   only for the crude local and perturbative description of reality. [^nLab2021Fiber]
@@ -1184,8 +1184,10 @@ possible gauge transformations.
 
 -   Auyang, S.Y. (1995). *How Is Quantum Field Theory Possible?* [^Auyang1995b]
 -   Auyang, S.Y. (2000). Mathematics and reality: Two notions of spacetime in the analytic and constructionist views of gauge field theories. [^Auyang2000]
+-   Frankel, T. (2004). *The Geometry of Physics*. [^Frankel2004]
 -   Way, R. (2010). [Introduction to connections on principal fibre bundles](http://personal.maths.surrey.ac.uk/T.Bridges/GEOMETRIC-PHASE/Connections_intro.pdf). [^Way2010]
 -   V&aacute;k&aacute;r, M. (2011). [Principal bundles and gauge theories](https://arxiv.org/abs/2110.06334). [^Vakar2011]
+-   Marsh, A. (2016). [Gauge theories and fiber bundles: Definitions, pictures, and results](https://arxiv.org/abs/1607.03089). [^Marsh2016]
 
 Maudlin on fiber bundles:
 
@@ -1229,11 +1231,13 @@ See also:
 [^Baez2005]: @Baez_2005_Higher_gauge_theory\.
 [^Baez2011b]: @Baez_2011_An_invitation_to_higher_gauge_theory\.
 [^Frankel2004]: @Frankel_2004_The_Geometry_of_Physics\.
+[^Marsh2016]: @Marsh_2016_Gauge_theories_and_fiber_bundles_Definitions\.
 [^Maudlin2007p96]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 96.
 [^Maudlin2007p101]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 101.
 [^nLab2021Fiber]: @nLab_2021_Fiber_bundles_in_physics\.
 [^Vakar2011]: @Vakar_2011_Principal_bundles_and_gauge_theories\.
 [^Way2010]: @Way_2010_Introduction_to_connections_on_principal_fibre\.
+[^Wu1975]: @Wu_1975_Concept_of_nonintegrable_phase_factors_and_global\.
 
 
 #### Topological QFT
@@ -1309,6 +1313,11 @@ Urs Schreiber:
 >   (algebraic) super-groups precisely exhausts the moduli space of possible
 >   consistent local spacetime symmetry groups. [^Schreiber2016a]
 
+-   Pedagogy
+    -   Martin, S.P. (2016). [A supersymmetry primer](https://arxiv.org/abs/hep-ph/9709356). [^Martin2016]
+    -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
+    -   Tong, D. (2022). [Lectures on supersymmetric field theory](https://www.damtp.cam.ac.uk/user/tong/susy.html). [^Tong2022]
+    -   Bertolini, M. (2022). [Lectures on supersymmetry](https://www.sissa.it/tpp/phdsection/OnlineResources/6/susycourse.pdf). [^Bertolini2022]
 -   Minimal Supersymmetric Standard Model (MSSM)
     -   Dimopoulos, S. & Georgi, H. (1981). Softly broken supersymmetry and SU(5). [^Dimopoulos1981]
     -   Murayama, H. (2000). [Supersymmetry_phenomenology](https://arxiv.org/abs/hep-ph/0002232). [^Murayama2000]
@@ -1320,11 +1329,6 @@ Urs Schreiber:
     -   Freedman, D.Z., van Nieuwenhuizen, P., & Ferrara, S. (1976). Progress toward a theory of supergravity. [^Freedman1976]
     -   van Nieuwenhuizen, P. (1981). Supergravity. [^vanNieuwenhuizen1981]
     -   Reviewed by Fr&egrave; [^Fre2013v2ch6]
--   Pedagogy
-    -   Martin, S.P. (2016). [A supersymmetry primer](https://arxiv.org/abs/hep-ph/9709356). [^Martin2016]
-    -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
-    -   Tong, D. (2022). [Lectures on supersymmetric field theory](https://www.damtp.cam.ac.uk/user/tong/susy.html). [^Tong2022]
-    -   Bertolini, M. (2022). [Lectures on supersymmetry](https://www.sissa.it/tpp/phdsection/OnlineResources/6/susycourse.pdf). [^Bertolini2022]
 
 See also:
 

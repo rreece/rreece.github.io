@@ -232,6 +232,7 @@ Lisi, A.G. (2017). Emergence. https://www.edge.org/response-detail/27149
 Lyre, H. (2008). Does the Higgs mechanism exist? *International Studies in the Philosophy of Science*, 22, 119--133. https://arxiv.org/abs/0806.1359
 Malament, D.B. (1996). In defence of dogma: Why there cannot be a relativistic quantum mechanics of (localizable) particles. In Clifton, R. (Ed.) *Perspectives on Quantum Reality* (pp. 1--10). Springer.
 Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. *Advances in Theoretical and Mathematical Physics*, 2, 231--252. https://arxiv.org/abs/hep-th/9711200
+Marsh, A. (2016). Gauge theories and fiber bundles: Definitions, pictures, and results. https://arxiv.org/abs/1607.03089
 Martens, N. (2022). Dark matter realism. *Foundations of Physics*, 52(1), 1--19. https://link.springer.com/article/10.1007/s10701-021-00524-y
 Martin, J. (2012). Everything you always wanted to know about the cosmological constant problem (but were afraid to ask). https://arxiv.org/abs/1205.3365
 Martin, S.P. (2011). Phenomenology of particle physics. https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf
@@ -393,6 +394,7 @@ Witten, E. (1998). Anti-de Sitter space and holography. *Advances in Theoretical
 Wu, J. (2021). Explaining universality: infinite limit systems in the renormalization group method. *Synthese*, 199, 14897--14930. https://link.springer.com/article/10.1007/s11229-021-03448-2
 Wuthrich, C. (2014). Putnam looks at quantum mechanics (again and again). https://arxiv.org/abs/1406.5737
 Yang, C.N. & Mills, R.L. (1954). Conservation of isotopic spin and isotopic gauge invariance. *Physical Review*, 96, 191--195.
+Wu, T.T. & Yang, C.N. (1975). Concept of nonintegrable phase factors and global formulation of gauge fields. *Physical Review D*, 12, 3845--3857.
 Yang, C.N. (1996). Symmetry and physics. *Proceedings of the American Philosophical Society*, 140(3), 267--288. https://www.jstor.org/stable/pdf/987310.pdf
 Yock, P. (2018). Newton's hypotheses on the structure of matter. https://arxiv.org/abs/1807.05486
 Zapata-Carratala, C. (2021). Dimensioned algebra: The mathematics of physical quantities. https://arxiv.org/abs/2108.08703
