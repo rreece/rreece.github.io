@@ -1160,7 +1160,7 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
 A fiber bundle is locally a product space, $X \times G$, of a base space, $X$, and a fiber space, $G$.
 In general, fiber bundles may have non-trivial global structure (e.g. a Mobius strip),
 but commonly in the ordinary use in physics, trivial bundles are used where the fiber bundle is
-just $X \times G$ globally. The base space is the spacetime, and the fiber is the space of
+just $X \times G$ globally. The base space is spacetime, and the fiber is the space of
 possible gauge transformations.
 
 -   [Fiber bundle](https://en.wikipedia.org/wiki/Fiber_bundle)
