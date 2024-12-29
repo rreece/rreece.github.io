@@ -1176,6 +1176,7 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
     -   [Principal bundle](https://en.wikipedia.org/wiki/Principal_bundle)
     -   [Ehresmann connection](https://en.wikipedia.org/wiki/Ehresmann_connection)
 -   Auyang, S.Y. (1995). *How Is Quantum Field Theory Possible?* [^Auyang1995b]
+-   Auyang, S.Y. (2000). Mathematics and reality: Two notions of spacetime in the analytic and constructionist views of gauge field theories. [^Auyang2000]
 -   Way, R. (2010). [Introduction to connections on principal fibre bundles](http://personal.maths.surrey.ac.uk/T.Bridges/GEOMETRIC-PHASE/Connections_intro.pdf). [^Way2010]
 -   V&aacute;k&aacute;r, M. (2011). [Principal bundles and gauge theories](https://arxiv.org/abs/2110.06334). [^Vakar2011]
 
@@ -1210,6 +1211,7 @@ See also:
 
 [^Auyang1995b]: @Auyang_1995_How_Is_Quantum_Field_Theory_Possible\.
 [^Auyang1995p220]: @Auyang_1995_How_Is_Quantum_Field_Theory_Possible\, p. 220.
+[^Auyang2000]: @Auyang_2000_Mathematics_and_reality_Two_notions_of_spacetime\.
 [^Baez1994]: @Baez_1994_Gauge_Fields_Knots_and_Gravity\.
 [^Baez2005]: @Baez_2005_Higher_gauge_theory\.
 [^Baez2011b]: @Baez_2011_An_invitation_to_higher_gauge_theory\.
