@@ -1157,11 +1157,24 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
 
 #### Fiber bundles
 
+A fiber bundle is locally a product space, $X \times G$, of a base space, $X$, and a fiber space, $G$.
+In general, fiber bundles may have non-trivial global structure (e.g. a Mobius strip),
+but commonly in the ordinary use in physics, trivial bundles are used where the fiber bundle is
+just $X \times G$ globally. The base space is the spacetime, and the fiber is the space of
+possible gauge transformations.
+
+-   [Fiber bundle](https://en.wikipedia.org/wiki/Fiber_bundle)
 -   [Fiber bundles in physics](https://ncatlab.org/nlab/show/fiber+bundles+in+physics) - nLab
     -   Fiber bundles embody two central principles of modern physics:
         1.  the principle of locality
         2.  the gauge principle.
+    -   In Yang-Mills theories, the gauge fields are _not_ just local differential 1-forms, $A_{\mu}$,
+        but are _globally_ really connections on principle bundles, and this is all-important once one
+        passes to non-perturbative Yang-Mills theory, hence to the full story, instead of its
+        infinitesimal or local approximation.
 -   [Vector bundle](https://en.wikipedia.org/wiki/Vector_bundle)
+-   [Principal bundle](https://en.wikipedia.org/wiki/Principal_bundle)
+-   [Ehresmann connection](https://en.wikipedia.org/wiki/Ehresmann_connection)
 -   Frankel, T. (2004). *The Geometry of Physics*. [^Frankel2004]
 
 >   Bundles are the *global* structure of physical fields and they are irrelevant
@@ -1169,12 +1182,6 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
 
 ![An illustration of the fiber bundle formulation of interacting quantum fields. [^Auyang1995p220] ](img/Auyang1995-p220-fiber-qft.png){#fig:Auyang1995-p220-fiber-qft}
 
--   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
-    -   An ordinary gauge field is a field which is locally represented by a
-        differential 1-form, the gauge potential, and whose field strength is locally
-        a differential 2-form.
-    -   [Principal bundle](https://en.wikipedia.org/wiki/Principal_bundle)
-    -   [Ehresmann connection](https://en.wikipedia.org/wiki/Ehresmann_connection)
 -   Auyang, S.Y. (1995). *How Is Quantum Field Theory Possible?* [^Auyang1995b]
 -   Auyang, S.Y. (2000). Mathematics and reality: Two notions of spacetime in the analytic and constructionist views of gauge field theories. [^Auyang2000]
 -   Way, R. (2010). [Introduction to connections on principal fibre bundles](http://personal.maths.surrey.ac.uk/T.Bridges/GEOMETRIC-PHASE/Connections_intro.pdf). [^Way2010]
@@ -1193,6 +1200,8 @@ Maudlin on fiber bundles:
 >   connecting the points. So it seems that there are no color properties and no
 >   metaphysically pure internal relations between quarks. [^Maudlin2007p96]
 
+and
+
 >   But if one asks whether, in this picture, the electromagnetic field is a
 >   substance or an instance of a universal or a trope, or some combination of
 >   these, none of the options seems very useful. If the electromagnetic field
@@ -1200,6 +1209,10 @@ Maudlin on fiber bundles:
 >   fiber bundles directly, not by trying to translate modern mathematics into
 >   archaic philosophical terminology. [^Maudlin2007p101]
 
+-   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
+    -   An ordinary gauge field is a field which is locally represented by a
+        differential 1-form, the gauge potential, and whose field strength is locally
+        a differential 2-form.
 -   Baez, J.C. & Muniain, J.P. (1994). *Gauge Fields, Knots and Gravity*. [^Baez1994]
 -   Baez, J.C. & Schreiber, U. (2005). [Higher gauge theory](https://arxiv.org/abs/math/0511710). [^Baez2005]
 -   Baez, J.C. & Huerta, J. (2011). [An invitation to higher gauge theory](https://arxiv.org/abs/1003.4485). [^Baez2011b]
@@ -1225,12 +1238,15 @@ See also:
 
 #### Topological QFT
 
--   Topological QFT (TQFT)
--   Simon Donaldson and Edward Witten
 -   [Chern-Simons theory](https://en.wikipedia.org/wiki/Chern%E2%80%93Simons_theory)
+    -   [Chern-Simons theory](https://ncatlab.org/nlab/show/Chern-Simons+theory) - nLab
+-   Topological QFT (TQFT)
+    -   Simon Donaldson and Edward Witten
+    -   Witten, E. (1989). [Quantum field theory and the Jones polynomial](https://projecteuclid.org/journals/communications-in-mathematical-physics/volume-121/issue-3/Quantum-field-theory-and-the-Jones-polynomial/cmp/1104178138.full). [^Witten1989]
+    -   Freed, D.S. (2001). [Dirac charge quantization and generalized differential cohomology](https://arxiv.org/abs/hep-th/0011220). [^Freed1989]
 -   [Cobordism hypothesis](https://ncatlab.org/nlab/show/cobordism+hypothesis) - nLab
--   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos). [^Schreiber2020]
--   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340). [^Baez2009b]
+    -   Baez, J.C. & Stay, M. (2009). [Physics, topology, logic, and computation: A Rosetta Stone](https://arxiv.org/abs/0903.0340). [^Baez2009b]
+    -   Schreiber, U. (2020). [Differential cohomology in a cohesive $\infty$-topos](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos). [^Schreiber2020]
 
 See also:
 
@@ -1240,7 +1256,9 @@ See also:
     in the Outline on [mathematics](math.html).
 
 [^Baez2009b]: @Baez_2009_Physics_topology_logic_and_computation\.
+[^Freed1989]: @Freed_2001_Dirac_charge_quantization_and_generalized\.
 [^Schreiber2020]: @Schreiber_2020_Differential_cohomology_in_a_cohesive\.
+[^Witten1989]: @Witten_1989_Quantum_field_theory_and_the_Jones_polynomial\.
 
 
 ### Non-perturbative features
