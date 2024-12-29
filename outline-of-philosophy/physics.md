@@ -1270,9 +1270,9 @@ and
 See also:
 
 -   [Category theory](math.html#category-theory)
-    in the Outline on [mathematics](math.html).
+    in the Outline on [mathematics](math.html)
 -   [Differential geometry](math.html#differential-geometry)
-    in the Outline on [mathematics](math.html).
+    in the Outline on [mathematics](math.html)
 
 [^Baez2009b]: @Baez_2009_Physics_topology_logic_and_computation\.
 [^Freed1989]: @Freed_2001_Dirac_charge_quantization_and_generalized\.
