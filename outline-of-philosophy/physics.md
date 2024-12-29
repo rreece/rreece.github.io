@@ -959,6 +959,20 @@ Baez:
 -   Schr&ouml;dinger, E. (1953). [What is matter?](https://www.jstor.org/stable/24944334). [^Schrodinger1953]
 -   Wolchover, N. (2020). [What is a particle?](https://www.quantamagazine.org/what-is-a-particle-20201112/)
 
+>   The so-called wave-particle paradox is similar to the paradox that arises
+>   from attributing life or death to the quantum cat. A system is often said
+>   to be a particle if a position eigenvalue is observed and a wave if a
+>   momentum eigenvalue is observed, hence it is said to present a paradox.
+>   The paradox is the result of fallacious attribution. Both eigenvalues are
+>   classical quantities, and neither can be attributed to the system as its
+>   property. The property of the quantum system is its wavefunction in the
+>   position representation and momentum amplitude in the momentum
+>   representation. Either one of them offers a complete description, and
+>   the descriptions can be shown to be equivalent by rigorous transformations.
+>   Paradox arises only when interpreters insist on considering exclusively
+>   classical quantities that we can observe. The insistency closes the mind
+>   to quantum properties. [^Auyang1995p80]
+
 Weinberg on wave-particle duality:
 
 >   In its mature form, the idea of quantum field theory is that quantum
@@ -986,6 +1000,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 -   Duncan, A. (2012). *The Conceptual Framework of Quantum Field Theory*. [^Duncan2012p163]
 -   Lazarovici, D. (2018). [Against fields](https://arxiv.org/abs/1809.00855). [^Lazarovici2018]
 
+[^Auyang1995p80]: @Auyang_1995_How_Is_Quantum_Field_Theory_Possible\, p. 80.
 [^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
 [^Baker2009]: @Baker_2009_Against_field_interpretations_of_quantum_field\.
 [^Duncan2012p163]: @Duncan_2012_Conceptual_Framework_of_Quantum_Field_Theory\, p. 163--4.
@@ -1123,7 +1138,7 @@ Kastler:
 Exotics in quantum field theory
 --------------------------------------------------------------------------------
 
-### Higher gauge theory
+### Gauge theory
 
 #### Aharonov-Bohm effect
 
@@ -1211,25 +1226,9 @@ and
 >   fiber bundles directly, not by trying to translate modern mathematics into
 >   archaic philosophical terminology. [^Maudlin2007p101]
 
--   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
-    -   An ordinary gauge field is a field which is locally represented by a
-        differential 1-form, the gauge potential, and whose field strength is locally
-        a differential 2-form.
--   Baez, J.C. & Muniain, J.P. (1994). *Gauge Fields, Knots and Gravity*. [^Baez1994]
--   Baez, J.C. & Schreiber, U. (2005). [Higher gauge theory](https://arxiv.org/abs/math/0511710). [^Baez2005]
--   Baez, J.C. & Huerta, J. (2011). [An invitation to higher gauge theory](https://arxiv.org/abs/1003.4485). [^Baez2011b]
-
-See also:
-
--   [Differential geometry](math.html#differential-geometry)
-    in the Outline on [mathematics](math.html).
-
 [^Auyang1995b]: @Auyang_1995_How_Is_Quantum_Field_Theory_Possible\.
 [^Auyang1995p220]: @Auyang_1995_How_Is_Quantum_Field_Theory_Possible\, p. 220.
 [^Auyang2000]: @Auyang_2000_Mathematics_and_reality_Two_notions_of_spacetime\.
-[^Baez1994]: @Baez_1994_Gauge_Fields_Knots_and_Gravity\.
-[^Baez2005]: @Baez_2005_Higher_gauge_theory\.
-[^Baez2011b]: @Baez_2011_An_invitation_to_higher_gauge_theory\.
 [^Frankel2004]: @Frankel_2004_The_Geometry_of_Physics\.
 [^Marsh2016]: @Marsh_2016_Gauge_theories_and_fiber_bundles_Definitions\.
 [^Maudlin2007p96]: @Maudlin_2007_The_Metaphysics_Within_Physics\, p. 96.
@@ -1238,6 +1237,22 @@ See also:
 [^Vakar2011]: @Vakar_2011_Principal_bundles_and_gauge_theories\.
 [^Way2010]: @Way_2010_Introduction_to_connections_on_principal_fibre\.
 [^Wu1975]: @Wu_1975_Concept_of_nonintegrable_phase_factors_and_global\.
+
+
+#### Higher gauge theory
+ 
+-   [Higher gauge field](https://ncatlab.org/nlab/show/higher+gauge+field) - nLab
+    -   An ordinary gauge field is a field which is locally represented by a
+        differential 1-form, the gauge potential, and whose field strength is locally
+        a differential 2-form.
+-   Baez, J.C. & Muniain, J.P. (1994). *Gauge Fields, Knots and Gravity*. [^Baez1994]
+-   Baez, J.C. & Schreiber, U. (2005). [Higher gauge theory](https://arxiv.org/abs/math/0511710). [^Baez2005]
+-   Baez, J.C. & Huerta, J. (2011). [An invitation to higher gauge theory](https://arxiv.org/abs/1003.4485). [^Baez2011b]
+-   Relationship to branes and string theory
+
+[^Baez1994]: @Baez_1994_Gauge_Fields_Knots_and_Gravity\.
+[^Baez2005]: @Baez_2005_Higher_gauge_theory\.
+[^Baez2011b]: @Baez_2011_An_invitation_to_higher_gauge_theory\.
 
 
 #### Topological QFT
@@ -1270,7 +1285,7 @@ See also:
 -   Extended objects [^tHooft1978]
 -   't Hooft [^tHooft1994c]
 -   Sphalerons
--   Instanton
+-   Instantons
 -   Shifman [^Shifman2012]
 -   Q-balls
 -   Percacci, R. (2024). [*Non-Perturbative Quantum Field Theory: An Introduction to Topological and Semiclassical Methods*](https://library.oapen.org/bitstream/handle/20.500.12657/96025/9788898587056.pdf). [^Percacci2024]
