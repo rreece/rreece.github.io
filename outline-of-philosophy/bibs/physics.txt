@@ -278,6 +278,7 @@ Patterson, G. (2007). Jean Perrin and the triumph of the atomic doctrine. *Endea
 Pauli, W. (1941). Relativistic field theories of elementary particles. *Reviews of Modern Physics*, 13, 203--232.
 Penington, G. (2019). Entanglement wedge reconstruction and the information paradox. https://arxiv.org/abs/1905.08255
 Penrose, R. (1971). Angular momentum: an approach to combinatorial spacetime. In T. Bastin (ed.), *Quantum Theory and Beyond* (pp. 151--180). Cambridge University Press. https://math.ucr.edu/home/baez/penrose/
+Percacci, R. (2024). *Non-Perturbative Quantum Field Theory: An Introduction to Topological and Semiclassical Methods*. SISSA Medialab. https://library.oapen.org/bitstream/handle/20.500.12657/96025/9788898587056.pdf
 Perrin, J. (1913). *Les Atomes*. Paris: Libraire Felix Alcan.
 Peskin, M.E. (1994). Spin, mass, and symmetry. https://arxiv.org/abs/hep-ph/9405255
 Peskin, M.E. & Schroeder, D.V. (1995). *An Introduction to Quantum Field Theory*. Westview Press.

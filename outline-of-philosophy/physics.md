@@ -1164,6 +1164,9 @@ just $X \times G$ globally. The base space is spacetime, and the fiber is the sp
 possible gauge transformations.
 
 -   [Fiber bundle](https://en.wikipedia.org/wiki/Fiber_bundle)
+    -   [Vector bundle](https://en.wikipedia.org/wiki/Vector_bundle)
+    -   [Principal bundle](https://en.wikipedia.org/wiki/Principal_bundle)
+    -   [Ehresmann connection](https://en.wikipedia.org/wiki/Ehresmann_connection)
 -   [Fiber bundles in physics](https://ncatlab.org/nlab/show/fiber+bundles+in+physics) - nLab
     -   Fiber bundles embody two central principles of modern physics:
         1.  the principle of locality
@@ -1172,9 +1175,6 @@ possible gauge transformations.
         but are _globally_ really connections on principle bundles, and this is all-important once one
         passes to non-perturbative Yang-Mills theory, hence to the full story, instead of its
         infinitesimal or local approximation.
--   [Vector bundle](https://en.wikipedia.org/wiki/Vector_bundle)
--   [Principal bundle](https://en.wikipedia.org/wiki/Principal_bundle)
--   [Ehresmann connection](https://en.wikipedia.org/wiki/Ehresmann_connection)
 -   Wu, T.T. & Yang, C.N. (1975). Concept of nonintegrable phase factors and global formulation of gauge fields. [^Wu1975]
 
 >   Bundles are the *global* structure of physical fields and they are irrelevant
@@ -1273,7 +1273,9 @@ See also:
 -   Instanton
 -   Shifman [^Shifman2012]
 -   Q-balls
+-   Percacci, R. (2024). [*Non-Perturbative Quantum Field Theory: An Introduction to Topological and Semiclassical Methods*](https://library.oapen.org/bitstream/handle/20.500.12657/96025/9788898587056.pdf). [^Percacci2024]
 
+[^Percacci2024]: @Percacci_2024_Non_Perturbative_Quantum_Field_Theory\.
 [^Shifman2012]: @Shifman_2012_Advanced_Topics_in_Quantum_Field_Theory_A_lecture\.
 [^tHooft1978]: @tHooft_1978_Extended_objects_in_gauge_field_theories\.
 [^tHooft1994c]: @tHooft_1994_Under_the_Spell_of_the_Gauge_Principle\.
