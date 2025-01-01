@@ -212,7 +212,7 @@ Jaeger, G. (2019). Are virtual particles less real? *Entropy*, 21, 141. https://
 Janyska, J., Modugno, M., & Vitolo, R. (2007). Semi-vector spaces and units of measurement. https://arxiv.org/abs/0710.1313
 Joos, E. & Zeh, H. D. (1985). The emergence of classical properties through interaction with the environment. *Zeitschrift f&uuml;r Physik B Condensed Matter*, 59, 223--243. http://www.decoherence.de/J+Z.pdf
 Joos, E., Zeh, H.D., Kiefer, C., Giulini, D.,  Kupsch, J., Stamatescu, I.O. (2003). *Decoherence and the Appearance of a Classical World in Quantum Theory* (2nd ed.). Springer. [(Originally published in 1996)]
-Jordan, P., von Neumann, J., & Wigner, E.P. (1934). On an algebraic generalization of the quantum mechanical formalism. *Annals of Mathematics*, 35, 29.
+Jordan, P., von Neumann, J., & Wigner, E.P. (1934). On an algebraic generalization of the quantum mechanical formalism. *Annals of Mathematics*, 35, 29. https://www.jstor.org/stable/1968117
 Kadanoff, L.P. (2013). Theories of matter: Infinities and renormalization. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 109-141). Oxford University Press. https://arxiv.org/abs/1002.2985
 Kadison, R.V. (1965). Transformations of states in operator theory and dynamics. *Topology*, 3, 177--198. https://doi.org/10.1016/0040-9383(65)90075-3
 Kasprzak, W., Lysik, B., & Rybaczuk, M. (1990). *Dimensional Analysis in the Identification of Mathematical Models*. World Scientific.
@@ -305,6 +305,7 @@ Raman, V.V. & Forman, P. (1969). Why was it Schr{\"o}dinger who developed de Bro
 Redhead, M. (1975). Symmetry in intertheory relations. *Synthese*, 32, 77--112.
 Redhead, M. (1982). Quantum field theory for philosophers. *PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association*, 1982(2), 57--99.
 Redhead, M. (1988). A philosopher looks at quantum field theory. In Brown, H.R. & Harr\'{e}, R. (Eds.) *Philosophical Foundations of Quantum Field Theory* (pp. 9--24). Oxford University Press.
+R{\'e}dei, M. (1996). Why John von Neumann did not like the Hilbert space formalism of quantum mechanics (and what he liked instead). *Studies in History and Philosophy of Science Part B*, 27, 493--510. https://doi.org/10.1016/S1355-2198(96)00017-2
 Reece, R. (2007). Quantum field theory: An introduction. http://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf
 Reichert, P. & Lazarovici, D. (2022). The point of primitive ontology. *Foundations of Physics*, 52(6), 1--18. http://philsci-archive.pitt.edu/21425/1/The_point_of_primitive_ontology.pdf
 Romero, G.E. (2015). On the ontology of spacetime: Substantivalism, relationism, eternalism, and emergence. *Foundations of Science*, 22, 141--159.

@@ -542,18 +542,20 @@ TODO: Note that Everettian QM would argue the Born rule is secondary and derivab
 
 #### Discussion
 
--   Somehow, QM is about complex numbers:
-    -   [Riesz representation theorem](https://en.wikipedia.org/wiki/Riesz_representation_theorem)
-    -   Jordan, P., von Neumann, J., & Wigner, E.P. (1934). On an algebraic generalization of the quantum mechanical formalism. [^Jordan1934]
-    -   Baez, J.C. (2011). [Division algebras and quantum theory](https://arxiv.org/abs/1101.5690). [^Baez2011a]
 -   Orthodox QM
     -   Moretti, V. (2015). [Mathematical foundations of quantum mechanics: An advanced short course](https://arxiv.org/abs/1508.06951). [^Moretti2015]
     -   Wallace, D. (2016). [What is orthodox quantum mechanics?](https://arxiv.org/abs/1604.05973) [^Wallace2016]
 -   Too much focus on NRQM
     -   Wallace, D. (2020). [Lessons from realistic physics for the metaphysics of quantum theory](https://link.springer.com/article/10.1007/s11229-018-1706-y). [^Wallace2020]
 -   Hilbert spaces
+    -   R&eacute;dei, M. (1996). Why John von Neumann did not like the Hilbert space formalism of quantum mechanics (and what he liked instead). [^Redei1996]
     -   de la Madrid, R. (2005). [The role of the rigged Hilbert space in quantum mechanics](https://arxiv.org/abs/quant-ph/0502053). [^Madrid2005]
     -   Carcassi, G., Calderon, F., & Aidala, C.A. (2023). [The unphysicality of Hilbert spaces](https://arxiv.org/abs/2308.06669). [^Carcassi2023]
+    -   Kronz, F. & Lupher, T. (2024). [Quantum theory and mathematical rigor](https://plato.stanford.edu/entries/qt-nvd/). - *SEP*
+-   Somehow, QM is about complex numbers:
+    -   [Riesz representation theorem](https://en.wikipedia.org/wiki/Riesz_representation_theorem)
+    -   Jordan, P., von Neumann, J., & Wigner, E.P. (1934). [On an algebraic generalization of the quantum mechanical formalism](https://www.jstor.org/stable/1968117). [^Jordan1934]
+    -   Baez, J.C. (2011). [Division algebras and quantum theory](https://arxiv.org/abs/1101.5690). [^Baez2011a]
 
 See also:
 
@@ -564,6 +566,7 @@ See also:
 [^Madrid2005]: @dela_2005_The_role_of_the_rigged_Hilbert_space_in_quantum\.
 [^Moretti2015]: @Moretti_2015_Mathematical_foundations_of_quantum_mechanics\.
 [^Jordan1934]: @Jordan_1934_On_an_algebraic_generalization_of_the_quantum\.
+[^Redei1996]: HERE
 [^Wallace2016]: @Wallace_2016_What_is_orthodox_quantum_mechanics\.
 [^Wallace2020]: @Wallace_2020_Lessons_from_realistic_physics_for_the_metaphysics\.
 
@@ -830,13 +833,14 @@ Michael Atiyah:
     -   Baez, J. (2016). [Struggles with the continuum, part 6](https://www.physicsforums.com/insights/struggles-continuum-part-6/).
     -   Gill, T.L. (2017). [The Feynman-Dyson view](https://iopscience.iop.org/article/10.1088/1742-6596/845/1/012023/pdf). [^Gill2017]
 -   LSZ reduction formula [^Lehmann1955]
--   Haag-Ruelle scattering theory
 -   Feynman diagrams and Feynman rules
     -   Weinberg, S. (1964). Feynman rules for any spin. [^Weinberg1964]
--   Martin, S.P. (2011). [Phenomenology of particle physics](https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf). [^Martin2011]
--   Martin, S.P. & Wells, J.D (2023). [*Elementary Particles and Their Interactions*](https://link.springer.com/book/10.1007/978-3-031-14368-7). [^Martin2023]
--   My notes: Reece, R. (2007). [Quantum field theory: An introduction](http://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf). [^Reece2007]
--   Jaeger, G. (2019). [Are virtual particles less real?](https://www.mdpi.com/1099-4300/21/2/141) [^Jaeger2019]
+-   Pedagogy
+    -   Martin, S.P. (2011). [Phenomenology of particle physics](https://www.ippp.dur.ac.uk/~mspannow/files/Phenomenology_Particle_Physics_Martin.pdf). [^Martin2011]
+    -   Martin, S.P. & Wells, J.D (2023). [*Elementary Particles and Their Interactions*](https://link.springer.com/book/10.1007/978-3-031-14368-7). [^Martin2023]
+    -   My notes: Reece, R. (2007). [Quantum field theory: An introduction](http://rreece.github.io/publications/pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf). [^Reece2007]
+-   Discussion
+    -   Jaeger, G. (2019). [Are virtual particles less real?](https://www.mdpi.com/1099-4300/21/2/141) [^Jaeger2019]
 
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
 [^Dyson1952]: @Dyson_1952_Divergence_of_perturbation_theory_in_quantum\.
@@ -1124,6 +1128,7 @@ $$ \psi(x) = \langle x | \Psi \rangle = \langle 0 | \hat{\psi}(x) | \Psi \rangle
 #### Algebraic vs constructive QFT
 
 -   AQFT vs LQFT
+-   Haag-Ruelle scattering theory
 -   Haag, R. (1992). *Local Quantum Physics: Fields, Particles, Algebras*. [^Haag1992]
 -   Buchholz, D. (1998). [Current trends in axiomatic quantum field theory](https://arxiv.org/abs/hep-th/9811233). [^Buchholz1998]
 -   Wallace, D. (2011). Taking particle physics seriously: A critique of the algebraic approach to quantum field theory. [^Wallace2011]
