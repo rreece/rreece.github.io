@@ -820,7 +820,10 @@ Michael Atiyah:
     -   Kontsevich, M. & Segal, G. (2021). [Wick rotation and the positivity of energy in quantum field theory](https://arxiv.org/abs/2105.10161). [^Kontsevich2021]
 -   [K&auml;ll&eacute;n-Lehmann spectral representation](https://en.wikipedia.org/wiki/K%C3%A4ll%C3%A9n%E2%80%93Lehmann_spectral_representation)
 -   Gell-Mann and Low theorem
+    -   Interaction picture 
     -   Vaccuum bubble cancelation
+    -   Gell-Mann, M. & Low, F. (1951). Bound states in quantum field theory. [^GellMann1951]
+    -   Molinari, L.G. (2006). [Another proof of Gell-Mann and Low's theorem](https://arxiv.org/abs/math-ph/0612030). [^Molinari2006]
 -   Dyson series
     -   Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. [^Dyson1949]
     -   Dyson, F.J. (1952). Divergence of perturbation theory in quantum electrodynamics. [^Dyson1952]
@@ -837,12 +840,14 @@ Michael Atiyah:
 
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
 [^Dyson1952]: @Dyson_1952_Divergence_of_perturbation_theory_in_quantum\.
+[^GellMann1951]: @Gell_Mann_1951_Bound_states_in_quantum_field_theory\.
 [^Gill2017]: @Gill_2017_The_Feynman_Dyson_view\.
 [^Jaeger2019]: @Jaeger_2019_Are_virtual_particles_less_real\.
 [^Kontsevich2021]: @Kontsevich_2021_Wick_rotation_and_the_positivity_of_energy\.
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
 [^Martin2011]: @Martin_2011_Phenomenology_of_particle_physics\.
 [^Martin2023]: @Martin_2023_Elementary_Particles_and_Their_Interactions\.
+[^Molinari2006]: @Molinari_2006_Another_proof_of_Gell_Mann_and_Lows_theorem\.
 [^Reece2007]: @Reece_2007_Quantum_field_theory_An_introduction\.
 [^Schlingemann1998]: @Schlingemann_1998_From_euclidean_field_theory_to_quantum_field\.
 [^Weinberg1964]: @Weinberg_1964_Feynman_rules_for_any_spin and
