@@ -173,6 +173,7 @@ Georgi, H. (1999). *Lie Algebras in Particle Physics* (2nd ed.). Westview Press.
 Georgi, H. & Glashow, S.L. (1974). Unity of all elementary-particle forces. *Physical Review Letters*, 32, 438--441. http://pcbat1.mi.infn.it/~battist/astrop/su5.pdf
 Ghirardi, G.C., Rimini, A., and Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34, 470--491.
 Ghirardi, G.C., Pearle, P., Rimini, A. (1990). Markov processes in Hilbert space and continuous spontaneous localization of systems of identical particles. *Physical Review A*, 42, 78--89. 
+Gill, T.L. (2017). The Feynman-Dyson view. *Journal of Physics: Conference Series*, 845, 012023. https://iopscience.iop.org/article/10.1088/1742-6596/845/1/012023/pdf
 Gisin, N. (1991). Bell's inequality holds for all non-product states. *Physics Letters A*, 154, 201--202.
 Gisin, N. (1999). Bell inequality for arbitrary many settings of the analyzers. *Physics Letters A*, 260, 1--3. https://arxiv.org/abs/quant-ph/9905062
 Gisin, N. & Peres, A. (1992). Maximal violation of Bell's inequality for arbitrarily large spin. *Physics Letters A*, 162, 15--17. 
@@ -212,6 +213,7 @@ Joos, E. & Zeh, H. D. (1985). The emergence of classical properties through inte
 Joos, E., Zeh, H.D., Kiefer, C., Giulini, D.,  Kupsch, J., Stamatescu, I.O. (2003). *Decoherence and the Appearance of a Classical World in Quantum Theory* (2nd ed.). Springer. [(Originally published in 1996)]
 Jordan, P., von Neumann, J., & Wigner, E.P. (1934). On an algebraic generalization of the quantum mechanical formalism. *Annals of Mathematics*, 35, 29.
 Kadanoff, L.P. (2013). Theories of matter: Infinities and renormalization. In Batterman, R. (Ed.), *The Oxford Handbook of Philosophy of Physics* (pp. 109-141). Oxford University Press. https://arxiv.org/abs/1002.2985
+Kadison, R.V. (1965). Transformations of states in operator theory and dynamics. *Topology*, 3, 177--198. https://doi.org/10.1016/0040-9383(65)90075-3
 Kasprzak, W., Lysik, B., & Rybaczuk, M. (1990). *Dimensional Analysis in the Identification of Mathematical Models*. World Scientific.
 Kastler, D. (2003). Rudolf Haag---Eighty Years. *Communications in Mathematical Physics*, 237, 3--6.
 Keller, K.J., Papadopoulos, M.A., & Reyes-Lega, A.F. (2007). On the realization of symmetries in quantum mechanics. https://arxiv.org/abs/0712.0997
@@ -252,6 +254,7 @@ Mermin, N.D. (2022). A note on the quantum measurement problem. https://arxiv.or
 {MicroBooNE Collaboration}. (2021). Search for neutrino-induced neutral current $\Delta$ radiative decay in MicroBooNE and a first test of the MiniBooNE low energy excess under a single-photon hypothesis. https://arxiv.org/abs/2110.00409
 {MiniBooNE Collaboration}. (2018). Significant excess of electron-like events in the MiniBooNE short-baseline neutrino experiment. *Physical Review Letters*, 121, 221801. https://arxiv.org/abs/1805.12028
 Misner, C.W., Thorne, K.S., & Wheeler, J.A. (1973). *Gravitation*. Freeman and Co. [(Reprinted by Princeton University Press (2017))]
+Moretti, V. (2015). Mathematical foundations of quantum mechanics: An advanced short course. https://arxiv.org/abs/1508.06951
 Moretti, V. (2023). On the relativistic spatial localization for massive real scalar Klein-Gordon quantum particles. https://arxiv.org/abs/2304.02133
 Mulders, P.J. (2011). Quantum field theory. https://www.nat.vu.nl/~mulders/QFT-0.pdf
 Murayama, H. (2000). Supersymmetry phenomenology. https://arxiv.org/abs/hep-ph/0002232

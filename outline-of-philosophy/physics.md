@@ -385,6 +385,7 @@ Weyl:
 -   [Wigner's theorem](https://en.wikipedia.org/wiki/Wigner%27s_theorem) (1931)
     -   Wigner, E.P. (1959). *Group Theory and its Application to the Quantum Mechanics of Atomic Spectra*. [^Wigner1959]
     -   The theorem specifies how physical symmetries such as rotations, translations, and CPT are represented on the Hilbert space of states.
+-   Kadison, R.V. (1965). [Transformations of states in operator theory and dynamics](https://doi.org/10.1016/0040-9383(65)90075-3). [^Kadison1965]
 
 Ovrut's version of Wigner's theorem:
 
@@ -406,6 +407,7 @@ See also:
 -   [Foundations of QM](#foundations-of-qm)
 -   [Quantum field theory](#quantum-field-theory)
 
+[^Kadison1965]: @Kadison_1965_Transformations_of_states_in_operator_theory\.
 [^Keller2007]: @Keller_2007_On_the_realization_of_symmetries_in_quantum\.
 [^Reece2007p27]: @Reece_2007_Quantum_field_theory_An_introduction\, p. 27.
 [^Schroeren2021]: @Schroeren_2021_Symmetry_fundamentalism_in_quantum_mechanics\.
@@ -538,11 +540,14 @@ $$ P(n) = | \langle n | \psi \rangle |^{2} = |a_{n}|^{2} $$
 TODO: Note that Everettian QM would argue the Born rule is secondary and derivable.
 
 
+#### Discussion
+
 -   Somehow, QM is about complex numbers:
     -   [Riesz representation theorem](https://en.wikipedia.org/wiki/Riesz_representation_theorem)
     -   Jordan, P., von Neumann, J., & Wigner, E.P. (1934). On an algebraic generalization of the quantum mechanical formalism. [^Jordan1934]
     -   Baez, J.C. (2011). [Division algebras and quantum theory](https://arxiv.org/abs/1101.5690). [^Baez2011a]
 -   Orthodox QM
+    -   Moretti, V. (2015). [Mathematical foundations of quantum mechanics: An advanced short course](https://arxiv.org/abs/1508.06951). [^Moretti2015]
     -   Wallace, D. (2016). [What is orthodox quantum mechanics?](https://arxiv.org/abs/1604.05973) [^Wallace2016]
 -   Too much focus on NRQM
     -   Wallace, D. (2020). [Lessons from realistic physics for the metaphysics of quantum theory](https://link.springer.com/article/10.1007/s11229-018-1706-y). [^Wallace2020]
@@ -557,6 +562,7 @@ See also:
 [^Baez2011a]: @Baez_2011_Division_algebras_and_quantum_theory\.
 [^Carcassi2023]: @Carcassi_2023_The_unphysicality_of_Hilbert_spaces\.
 [^Madrid2005]: @dela_2005_The_role_of_the_rigged_Hilbert_space_in_quantum\.
+[^Moretti2015]: @Moretti_2015_Mathematical_foundations_of_quantum_mechanics\.
 [^Jordan1934]: @Jordan_1934_On_an_algebraic_generalization_of_the_quantum\.
 [^Wallace2016]: @Wallace_2016_What_is_orthodox_quantum_mechanics\.
 [^Wallace2020]: @Wallace_2020_Lessons_from_realistic_physics_for_the_metaphysics\.
@@ -819,6 +825,7 @@ Michael Atiyah:
     -   Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. [^Dyson1949]
     -   Dyson, F.J. (1952). Divergence of perturbation theory in quantum electrodynamics. [^Dyson1952]
     -   Baez, J. (2016). [Struggles with the continuum, part 6](https://www.physicsforums.com/insights/struggles-continuum-part-6/).
+    -   Gill, T.L. (2017). [The Feynman-Dyson view](https://iopscience.iop.org/article/10.1088/1742-6596/845/1/012023/pdf). [^Gill2017]
 -   LSZ reduction formula [^Lehmann1955]
 -   Haag-Ruelle scattering theory
 -   Feynman diagrams and Feynman rules
@@ -830,6 +837,7 @@ Michael Atiyah:
 
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
 [^Dyson1952]: @Dyson_1952_Divergence_of_perturbation_theory_in_quantum\.
+[^Gill2017]: @Gill_2017_The_Feynman_Dyson_view\.
 [^Jaeger2019]: @Jaeger_2019_Are_virtual_particles_less_real\.
 [^Kontsevich2021]: @Kontsevich_2021_Wick_rotation_and_the_positivity_of_energy\.
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
