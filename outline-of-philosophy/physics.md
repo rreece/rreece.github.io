@@ -341,6 +341,7 @@ See also:
 -   Pauli, W. (1941). Relativistic field theories of elementary particles. [^Pauli1941]
 -   Yang C.N. & Mills R.L. (1954). Conservation of isotopic spin and isotopic gauge invariance. [^Yang1954]
 -   't Hooft, G. (1994). *Under the Spell of the Gauge Principle*. [^tHooft1994a]
+-   Yang, C.N. (1996). [Symmetry and physics](https://www.jstor.org/stable/pdf/987310.pdf). [^Yang1996]
 -   O'Raifeartaigh, L. (1997). *The Dawning of Gauge Theory*. [^ORaifeartaigh1997]
 -   Teller, P. (2000). The gauge argument. [^Teller2000]
 -   't Hooft, G. (2007). [Lie groups in physics](http://www.staff.science.uu.nl/~hooft101/lectures/lieg07.pdf). [^tHooft2007]
@@ -348,7 +349,6 @@ See also:
 -   Afriat, A. (2013). Weyl's gauge argument. [^Afriat2013]
 -   Schwichtenberg, J. (2015). *Physics from Symmetry*. [^Schwichtenberg2015]
 -   Dewar, N. (2019). Sophistication about symmetries. [^Dewar2019]
--   Yang, C.N. (1996). [Symmetry and physics](https://www.jstor.org/stable/pdf/987310.pdf). [^Yang1996]
 
 Weyl:
 
@@ -816,12 +816,12 @@ Michael Atiyah:
 
 ### Scattering
 
--   Interaction picture
 -   Correlation AKA Green's functions
+    -   Feynman propagator
+    -   [K&auml;ll&eacute;n-Lehmann spectral representation](https://en.wikipedia.org/wiki/K%C3%A4ll%C3%A9n%E2%80%93Lehmann_spectral_representation)
 -   Wick's theorem
     -   Schlingemann, D. (1998). [From euclidean field theory to quantum field theory](https://arxiv.org/abs/hep-th/9802035). [^Schlingemann1998]
     -   Kontsevich, M. & Segal, G. (2021). [Wick rotation and the positivity of energy in quantum field theory](https://arxiv.org/abs/2105.10161). [^Kontsevich2021]
--   [K&auml;ll&eacute;n-Lehmann spectral representation](https://en.wikipedia.org/wiki/K%C3%A4ll%C3%A9n%E2%80%93Lehmann_spectral_representation)
 -   Gell-Mann and Low theorem
     -   Interaction picture 
     -   Vaccuum bubble cancelation
@@ -832,7 +832,8 @@ Michael Atiyah:
     -   Dyson, F.J. (1952). Divergence of perturbation theory in quantum electrodynamics. [^Dyson1952]
     -   Baez, J. (2016). [Struggles with the continuum, part 6](https://www.physicsforums.com/insights/struggles-continuum-part-6/).
     -   Gill, T.L. (2017). [The Feynman-Dyson view](https://iopscience.iop.org/article/10.1088/1742-6596/845/1/012023/pdf). [^Gill2017]
--   LSZ reduction formula [^Lehmann1955]
+-   LSZ reduction formula
+    -   Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. [^Lehmann1955]
 -   Feynman diagrams and Feynman rules
     -   Weinberg, S. (1964). Feynman rules for any spin. [^Weinberg1964]
 -   Pedagogy
@@ -1070,10 +1071,11 @@ $$ \psi(x) = \langle x | \Psi \rangle = \langle 0 | \hat{\psi}(x) | \Psi \rangle
     -   Bain, J. (2000). [Against particle/field duality: Asymptotic particle states and interpolating fields in interacting QFT, or Who's afraid of Haag's theorem?](https://link.springer.com/content/pdf/10.1023/A:1026482100470.pdf) [^Bain2000]
         -   FAPP-localized particles
     -   Duncan, A. (2012). *Conceptual Framework of Quantum Field Theory*. [^Duncan2012p359]
-    -   Wallace
+    -   TODO: Wallace
     -   QFT requires an ultraviolet regulator (a cutoff, a lattice),
         and Haag's theorem does not apply when the regulator is in place.
     -   Seidewitz, E. (2017). [Avoiding Haag's theorem with parameterized quantum field theory](https://arxiv.org/abs/1501.05658). [^Seidewitz2017]
+    -   TODO: Is the resolution of Haag's theorem related to separable (but infinite dimensional) Hilbert spaces?
 
 <center>
 <blockquote class="twitter-tweet">
