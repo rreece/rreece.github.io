@@ -566,7 +566,7 @@ See also:
 [^Madrid2005]: @dela_2005_The_role_of_the_rigged_Hilbert_space_in_quantum\.
 [^Moretti2015]: @Moretti_2015_Mathematical_foundations_of_quantum_mechanics\.
 [^Jordan1934]: @Jordan_1934_On_an_algebraic_generalization_of_the_quantum\.
-[^Redei1996]: HERE
+[^Redei1996]: @Redei_1996_Why_John_von_Neumann_did_not_like_the_Hilbert\.
 [^Wallace2016]: @Wallace_2016_What_is_orthodox_quantum_mechanics\.
 [^Wallace2020]: @Wallace_2020_Lessons_from_realistic_physics_for_the_metaphysics\.
 
@@ -710,6 +710,7 @@ Baez, Segal, & Zhou:
 #### Pedagogy
 
 -   Peskin and Schroeder [^Peskin1995]
+-   Weinberg, S. (1995). *The Quantum Theory of Fields: Volume 1 Foundations*. [^Weinberg1995]
 -   Zee [^Zee2013]
 -   Schwartz [^Schwartz2014]
 -   David Tong [^Tong2006]
@@ -724,6 +725,7 @@ Baez, Segal, & Zhou:
 [^Schwartz2014]: @Schwartz_2014_Quantum_Field_Theory_and_the_Standard_Model\.
 [^tHooft2005]: @tHooft_2005_The_conceptual_basis_of_quantum_field_theory\.
 [^Tong2006]: @Tong_2006_Lectures_on_Quantum_Field_Theory\.
+[^Weinberg1995]: @Weinberg_1995_The_Quantum_Theory_of_Fields_Volume_1_Foundations\.
 [^Zee2013]: @Zee_2003_Quantum_Field_Theory_in_a_Nutshell\.
 [^Zeidler2007]: @Zeidler_2007_Quantum_Field_Theory_I_Basics_in_mathematics\.
 [^Zeidler2008]: @Zeidler_2008_Quantum_Field_Theory_II_Quantum_electrodynamics\.
@@ -1008,7 +1010,7 @@ Baez, Segal, & Zhou on wave-particle duality:
 >   The treatment of the dynamics of quantum systems turns out to be naturally
 >   undertaken in terms of field rather than particle concepts, by virtue of
 >   the local character of relativistic interactions. In mathematical terms,
->   the *field* is diagonalizcd in the functional integration representation,
+>   the *field* is diagonalized in the functional integration representation,
 >   just as the *particle numbers* are diagonalized in the tensor product
 >   representation. [^Baez1992p59]
 
@@ -1044,6 +1046,7 @@ and single-particle wavefunction derived from QFT: [^Myrvold2015p15]
 $$ \psi(x) = \langle x | \Psi \rangle = \langle 0 | \hat{\psi}(x) | \Psi \rangle $$
 
 -   [Newton-Wigner localization](https://en.wikipedia.org/wiki/Newton%E2%80%93Wigner_localization)
+-   Newton, T.D. & Wigner, E.P. (1949). Localized states for elementary systems. [^Newton1949]
 -   Fleming, G.N. (2000). [Reeh-Schlieder meets Newton-Wigner](https://www.jstor.org/stable/188690). [^Fleming2000]
 -   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
 -   Moretti, V. (2023). [On the relativistic spatial localization for massive real scalar Klein-Gordon quantum particles](https://arxiv.org/abs/2304.02133). [^Moretti2023]
@@ -1052,6 +1055,7 @@ $$ \psi(x) = \langle x | \Psi \rangle = \langle 0 | \hat{\psi}(x) | \Psi \rangle
 [^Moretti2023]: @Moretti_2023_On_the_relativistic_spatial_localization\.
 [^Myrvold2015]: @Myrvold_2015_What_is_a_wavefunction\.
 [^Myrvold2015p15]: @Myrvold_2015_What_is_a_wavefunction\, p. 15.
+[^Newton1949]: @Newton_1949_Localized_states_for_elementary_systems\.
 
 
 #### Haag's theorem
@@ -1163,6 +1167,7 @@ Exotics in quantum field theory
 #### Aharonov-Bohm effect
 
 -   Aharonov, Y. & Bohm, D. (1959). Significance of electromagnetic potentials in quantum theory. [^Aharonov1959]
+-   Maudlin, T. (1998). [Healey on the Aharonov-Bohm effect](https://www.jstor.org/stable/188266). [^Maudlin1998]
 -   Healey, R. (2007). *Gauging What’s Real*. [^Healey2007ch2]
 -   Batterman, R. (2003). Falling cats, parallel parking and polarized light. [^Batterman2003]
     -   Holonomy
@@ -1186,6 +1191,7 @@ Wikipedia discussion in the [magnetic moment](https://ncatlab.org/nlab/show/fibe
 [^Aharonov1959]: @Aharonov_1959_Significance_of_electromagnetic_potentials\.
 [^Batterman2003]: @Batterman_2003_Falling_cats_parallel_parking_and_polarized\.
 [^Healey2007ch2]: @Healey_2007_Gauging_Whats_Real\, ch. 2-4.
+[^Maudlin1998]: @Maudlin_1998_Healey_on_the_Aharonov_Bohm_effect\.
 [^Maudlin2018]: @Maudlin_2018_Ontological_clarity_via_canonical_presentation\.
 [^Wallace2014]: @Wallace_2014_Deflating_the_Aharonov_Bohm_effect\.
 
@@ -1302,14 +1308,18 @@ See also:
 
 ### Non-perturbative features
 
--   Extended objects [^tHooft1978]
--   't Hooft [^tHooft1994c]
+-   Extended objects
+    -   't Hooft, G. (1978). Extended objects in gauge field theories. [^tHooft1978]
+    -   't Hooft. G. (1994). *Under the Spell of the Gauge Principle*. [^tHooft1994c]
 -   Sphalerons
 -   Instantons
--   Shifman [^Shifman2012]
 -   Q-balls
+-   Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. [^Shifman2012]
+-   Manton, N.S. (2019). [The inevitability of sphalerons in field theory](http://dx.doi.org/10.1098/rsta.2018.0327). [^Manton2019]
 -   Percacci, R. (2024). [*Non-Perturbative Quantum Field Theory: An Introduction to Topological and Semiclassical Methods*](https://library.oapen.org/bitstream/handle/20.500.12657/96025/9788898587056.pdf). [^Percacci2024]
+-   HERE
 
+[^Manton2019]: @Manton_2019_The_inevitability_of_sphalerons_in_field_theory\.
 [^Percacci2024]: @Percacci_2024_Non_Perturbative_Quantum_Field_Theory\.
 [^Shifman2012]: @Shifman_2012_Advanced_Topics_in_Quantum_Field_Theory_A_lecture\.
 [^tHooft1978]: @tHooft_1978_Extended_objects_in_gauge_field_theories\.
