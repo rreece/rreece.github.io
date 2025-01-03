@@ -692,7 +692,6 @@ Quantum field theory
     quantum mechanics, and the cluster decomposition principle. [^Weinberg1997p8]
 -   Euler-Lagrange equations of motion
     -   The Dirac equation does _not_ describe a relativistic wavefunction (hence the obsolete "Dirac sea" interpretation). [^Auyang1995p50]
--   Kocic, M. (2016). [Handout: Overview of the fields in QFT](https://ncatlab.org/nlab/files/FieldSpecies.pdf).
 
 Baez, Segal, & Zhou:
 
@@ -721,6 +720,7 @@ Baez, Segal, & Zhou:
 -   Cao, T.Y. (1999). *Conceptual Foundations of Quantum Field Theory*. [^Cao1999]
 -   't Hooft, G. (2005). [The conceptual basis of quantum field theory](https://dspace.library.uu.nl/bitstream/handle/1874/22670/hooft_05_conceptualbasisofquantumfieldtheory.pdf). [^tHooft2005]
 -   Mulders, P.J. (2011). [Quantum field theory](https://www.nat.vu.nl/~mulders/QFT-0.pdf). [^Mulders2011]
+-   Kocic, M. (2016). [Handout: Overview of the fields in QFT](https://ncatlab.org/nlab/files/FieldSpecies.pdf).
 
 [^Cao1999]: @Cao_1999_Conceptual_Foundations_of_Quantum_Field_Theory\.
 [^Mulders2011]: @Mulders_2011_Quantum_field_theory\.
@@ -1036,46 +1036,24 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Weinberg1997a]: @Weinberg_1997_What_is_an_elementary_particle\.
 
 
-#### Causal perturbation theory
+#### Quantization
 
-nLab (Schreiber):
+-   Canonical quantization
+-   Path integral quantization
+-   No "2nd quantization"
+-   Redhead, M. (1982). Quantum field theory for philosophers. [^Redhead1982]
+-   Redhead, M. (1988). A philosopher looks at quantum field theory. [^Redhead1988]
+-   Geometric quantization
+    -   Weyl
+    -   Dirac quantization and magnetic monopoles
+-   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
+-   Todorov, I. (2012). [Quantization is a mystery](https://arxiv.org/abs/1206.3116). [^Todorov2012]
+-   Schreiber, U. (2016). [Higher prequantum geometry](https://arxiv.org/abs/1601.05956). [^Schreiber2016b]
 
->   Causal perturbation theory may be regarded as providing a well-defined
->   consistent generalization from quantum mechanics to quantum field theory
->   on Lorentzian spacetimes of the construction of the $S$-matrix via the Dyson
->   formula ("time-ordered products") in the interaction picture. [^nLab2021CausalPerturb]
-
-First rigorous perturbation theory in QFT according to Schreiber:
-
--   Epstein, H. & Glaser, V. (1973). [The role of locality in perturbation theory](http://www.numdam.org/item/?id=AIHPA_1973__19_3_211_0). [^Epstein1973]
-
-[^nLab2021CausalPerturb]: @nLab_2021_Causal_perturbation_theory\.
-[^Epstein1973]: @Epstein_1973_The_role_of_locality_in_perturbation_theory\.
-
-
-#### Newton-Wigner localization
-
-TODO: Clean up
-
-Single-particle states:
-
-$$ | \vec{x}, t  \rangle = \hat{\psi}(\vec{x}, t)  | 0 \rangle $$
-
-and single-particle wavefunction derived from QFT: [^Myrvold2015p15]
-
-$$ \psi(x) = \langle x | \Psi \rangle = \langle 0 | \hat{\psi}(x) | \Psi \rangle $$
-
--   [Newton-Wigner localization](https://en.wikipedia.org/wiki/Newton%E2%80%93Wigner_localization)
--   Newton, T.D. & Wigner, E.P. (1949). Localized states for elementary systems. [^Newton1949]
--   Fleming, G.N. (2000). [Reeh-Schlieder meets Newton-Wigner](https://www.jstor.org/stable/188690). [^Fleming2000]
--   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
--   Moretti, V. (2023). [On the relativistic spatial localization for massive real scalar Klein-Gordon quantum particles](https://arxiv.org/abs/2304.02133). [^Moretti2023]
-
-[^Fleming2000]: @Fleming_2000_Reeh_Schlieder_meets_Newton_Wigner\.
-[^Moretti2023]: @Moretti_2023_On_the_relativistic_spatial_localization\.
-[^Myrvold2015]: @Myrvold_2015_What_is_a_wavefunction\.
-[^Myrvold2015p15]: @Myrvold_2015_What_is_a_wavefunction\, p. 15.
-[^Newton1949]: @Newton_1949_Localized_states_for_elementary_systems\.
+[^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
+[^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
+[^Schreiber2016b]: @Schreiber_2016_Higher_prequantum_geometry\.
+[^Todorov2012]: @Todorov_2012_Quantization_is_a_mystery\.
 
 
 #### Haag's theorem
@@ -1133,22 +1111,46 @@ $$ \psi(x) = \langle x | \Psi \rangle = \langle 0 | \hat{\psi}(x) | \Psi \rangle
 [^Teller1997p115]: @Teller_1997_An_Interpretive_Introduction_to_Quantum_Field\, p. 115.
 
 
-#### Quantization
+#### Causal perturbation theory
 
--   Canonical quantization
--   Path integral quantization
--   No "2nd quantization"
--   Redhead, M. (1982). Quantum field theory for philosophers. [^Redhead1982]
--   Redhead, M. (1988). A philosopher looks at quantum field theory. [^Redhead1988]
--   Geometric quantization
-    -   Weyl
-    -   Dirac quantization and magnetic monopoles
--   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
--   Todorov, I. (2012). [Quantization is a mystery](https://arxiv.org/abs/1206.3116). [^Todorov2012]
+nLab (Schreiber):
 
-[^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
-[^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
-[^Todorov2012]: @Todorov_2012_Quantization_is_a_mystery\.
+>   Causal perturbation theory may be regarded as providing a well-defined
+>   consistent generalization from quantum mechanics to quantum field theory
+>   on Lorentzian spacetimes of the construction of the $S$-matrix via the Dyson
+>   formula ("time-ordered products") in the interaction picture. [^nLab2021CausalPerturb]
+
+First rigorous perturbation theory in QFT according to Schreiber:
+
+-   Epstein, H. & Glaser, V. (1973). [The role of locality in perturbation theory](http://www.numdam.org/item/?id=AIHPA_1973__19_3_211_0). [^Epstein1973]
+
+[^nLab2021CausalPerturb]: @nLab_2021_Causal_perturbation_theory\.
+[^Epstein1973]: @Epstein_1973_The_role_of_locality_in_perturbation_theory\.
+
+
+#### Newton-Wigner localization
+
+TODO: Clean up
+
+Single-particle states:
+
+$$ | \vec{x}, t  \rangle = \hat{\psi}(\vec{x}, t)  | 0 \rangle $$
+
+and single-particle wavefunction derived from QFT: [^Myrvold2015p15]
+
+$$ \psi(x) = \langle x | \Psi \rangle = \langle 0 | \hat{\psi}(x) | \Psi \rangle $$
+
+-   [Newton-Wigner localization](https://en.wikipedia.org/wiki/Newton%E2%80%93Wigner_localization)
+-   Newton, T.D. & Wigner, E.P. (1949). Localized states for elementary systems. [^Newton1949]
+-   Fleming, G.N. (2000). [Reeh-Schlieder meets Newton-Wigner](https://www.jstor.org/stable/188690). [^Fleming2000]
+-   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
+-   Moretti, V. (2023). [On the relativistic spatial localization for massive real scalar Klein-Gordon quantum particles](https://arxiv.org/abs/2304.02133). [^Moretti2023]
+
+[^Fleming2000]: @Fleming_2000_Reeh_Schlieder_meets_Newton_Wigner\.
+[^Moretti2023]: @Moretti_2023_On_the_relativistic_spatial_localization\.
+[^Myrvold2015]: @Myrvold_2015_What_is_a_wavefunction\.
+[^Myrvold2015p15]: @Myrvold_2015_What_is_a_wavefunction\, p. 15.
+[^Newton1949]: @Newton_1949_Localized_states_for_elementary_systems\.
 
 
 #### Algebraic vs constructive QFT
@@ -1354,9 +1356,9 @@ See also:
 -   Haag-&#321;opusza&#324;ski-Sohnius theorem [^Haag1975]
     -   The unique loop-hole in the Coleman-Mandula theorem
 -   Deligne's theorem on tensor categories
-    -   Deligne, P. (2002). [Cat&eacute;gorie Tensorielle](https://www.math.ias.edu/files/deligne/Tensorielles.pdf). [^Deligne2002]
+    -   Deligne, P. (2002). [Cat&eacute;gories Tensorielles](https://www.math.ias.edu/files/deligne/Tensorielles.pdf). [^Deligne2002]
     -   Ostrik, V. (2004). [Tensor categories (after Deligne)](https://arxiv.org/abs/math/0401347). [^Ostrik2004]
-    -   Schreiber, U. (2016). [Learn about supersymmetry and Deligne’s theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/). [^Schreiber2016]
+    -   Schreiber, U. (2016). [Learn about supersymmetry and Deligne’s theorem](https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/). [^Schreiber2016a]
     -   Lepine, D. (2016). [Deligne's theorem on tensor categories](https://alistairsavage.ca/pubs/Lepine-Deligne_Theorem.pdf). [^Lepine2016]
     -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - nLab
     -   [Supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - nLab
@@ -1377,7 +1379,7 @@ Urs Schreiber:
 >   not just that local spacetime supersymmetry is one possibility to have
 >   sensible particle content under Wigner classification, but that the class of
 >   (algebraic) super-groups precisely exhausts the moduli space of possible
->   consistent local spacetime symmetry groups. [^Schreiber2016a]
+>   consistent local spacetime symmetry groups. [^Schreiber2016a2]
 
 -   Pedagogy
     -   Martin, S.P. (2016). [A supersymmetry primer](https://arxiv.org/abs/hep-ph/9709356). [^Martin2016]
@@ -1407,7 +1409,7 @@ See also:
 [^Bertolini2022]: @Bertolini_2022_Lectures_on_supersymmetry\.
 [^Connes1985b]: @Connes_1985_Non_commutative_differential_geometry\.
 [^Deligne1999]: @Deligne_1999_Notes_on_spinors\.
-[^Deligne2002]: @Deligne_2002_Categorie_Tensorielle\.
+[^Deligne2002]: @Deligne_2002_Categories_Tensorielles\.
 [^Dimopoulos1981]: @Dimopoulos_1981_Softly_broken_supersymmetry_and_SU5\.
 [^Fre2013v2ch6]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_2_Black\, ch. 6.
 [^Freed2012]: @Freed_2012_Twisted_equivariant_matter\.
@@ -1418,8 +1420,8 @@ See also:
 [^Martin2016]: @Martin_2016_A_supersymmetry_primer\.
 [^Murayama2000]: @Murayama_2000_Supersymmetry_phenomenology\.
 [^Ostrik2004]: @Ostrik_2004_Tensor_categories_after_Deligne\.
-[^Schreiber2016]: @Schreiber_2016_Learn_about_supersymmetry_and_Delignes_theorem\.
 [^Schreiber2016a]: @Schreiber_2016_Learn_about_supersymmetry_and_Delignes_theorem\.
+[^Schreiber2016a2]: @Schreiber_2016_Learn_about_supersymmetry_and_Delignes_theorem\.
 [^Tong2022]: @Tong_2022_Lectures_on_Supersymmetric_Field_Theory\.
 [^vanNieuwenhuizen1981]: @vanNieuwenhuizen_1981_Supergravity\.
 [^Wall1964]: @Wall_1964_Graded_Brauer_groups\.

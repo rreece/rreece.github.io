@@ -110,7 +110,7 @@ de la Madrid, R. (2005). The role of the rigged Hilbert space in quantum mechani
 Del Santo, F., Schwarzhans, E. (2022). "Philosophysics" at the University of Vienna: The (Pre-)history of foundations of quantum physics in the Viennese cultural context. *Physics in Perspective*, 24, 125--153. https://link.springer.com/article/10.1007/s00016-022-00290-y
 Del Santo, F. & Krizek, G.K. (2023). Against the "nightmare of a mechanically determined universe": Why Bohm was never a Bohmian. https://arxiv.org/abs/2307.05611
 Deligne, P. (1999). Notes on spinors. In *Quantum Fields and Strings: A Course for Mathematicians, Vol. 1* (pp. 99--136). American Mathematical Society. https://publications.ias.edu/sites/default/files/79_NotesOnSpinors.pdf
-Deligne, P. (2002). Cat{\'e}gorie Tensorielle, *Moscow Mathematical Journal*, 2, 227--248. https://www.math.ias.edu/files/deligne/Tensorielles.pdf
+Deligne, P. (2002). Cat{\'e}gories Tensorielles. *Moscow Mathematical Journal*, 2, 227--248. https://www.math.ias.edu/files/deligne/Tensorielles.pdf
 de Queiroz, A., Lachieze-Rey, M., & Simon, S. (2014). Symmetry, physical theories and theory change. *Frontiers of Fundamental Physics*, 14, 210. https://ui.adsabs.harvard.edu/abs/2014ffp..confE.210D/abstract
 Deutsch, D. (1985). Quantum theory as a universal physical theory. *International Journal of Theoretical Physics*, 24, 1--41.
 Dewar, N. (2019). Sophistication about symmetries. *British Journal for the Philosophy of Science*, 70, 485--521.
@@ -328,6 +328,7 @@ Schlosshauer, M. (2005). Decoherence, the measurement problem, and interpretatio
 Schlosshauer, M. & Fine, A. (2012). Implications of the Pusey-Barrett-Rudolph quantum no-go theorem. *Physical Review Letters*, 108(26), 260404. https://arxiv.org/abs/1203.4779
 Sch{\"o}nberg, M. (1954). On the hydrodynamical model of the quantum mechanics. *Il Nuovo Cimento*, 12, 103--133.
 Schreiber, U. (2016). Learn about supersymmetry and Deligne’s theorem. https://www.physicsforums.com/insights/supersymmetry-delignes-theorem/
+Schreiber, U. (2016). Higher prequantum geometry. https://arxiv.org/abs/1601.05956
 Schreiber, U. (2020). Differential cohomology in a cohesive $\infty$-topos. https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos
 Schr{\"o}dinger, E. (1935). Discussion of probability relations between separated systems. *Mathematical Proceedings of the Cambridge Philosophical Society*, 31, 555--563..
 Schr{\"o}dinger, E. (1936). Probability relations between separated systems. *Mathematical Proceedings of the Cambridge Philosophical Society*, 32, 446--452.
