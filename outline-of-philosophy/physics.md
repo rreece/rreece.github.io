@@ -836,7 +836,6 @@ Michael Atiyah:
     -   Dyson, F.J. (1949). The $S$ matrix in quantum electrodynamics. [^Dyson1949]
     -   Dyson, F.J. (1952). Divergence of perturbation theory in quantum electrodynamics. [^Dyson1952]
     -   Baez, J. (2016). [Struggles with the continuum, part 6](https://www.physicsforums.com/insights/struggles-continuum-part-6/).
-    -   Gill, T.L. (2017). [The Feynman-Dyson view](https://iopscience.iop.org/article/10.1088/1742-6596/845/1/012023/pdf). [^Gill2017]
 -   LSZ reduction formula
     -   Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. [^Lehmann1955]
 -   Feynman diagrams and Feynman rules
@@ -851,7 +850,6 @@ Michael Atiyah:
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
 [^Dyson1952]: @Dyson_1952_Divergence_of_perturbation_theory_in_quantum\.
 [^GellMann1951]: @Gell_Mann_1951_Bound_states_in_quantum_field_theory\.
-[^Gill2017]: @Gill_2017_The_Feynman_Dyson_view\.
 [^Jaeger2019]: @Jaeger_2019_Are_virtual_particles_less_real\.
 [^Kontsevich2021]: @Kontsevich_2021_Wick_rotation_and_the_positivity_of_energy\.
 [^Lehmann1955]: @Lehmann_1955_Zur_formulierung_quantisierter_feldtheorien\.
@@ -870,9 +868,11 @@ Michael Atiyah:
     -   Feynman and Hibbs (1965) [^FeynmanHibbs1965]
 -   Partition functions and generating functionals
 -   Show this way of deriving the Feynman rules
--   Nguyen [^Nguyen2016]
+-   Nguyen, T. (2016). [The perturbative approach to path integrals: A succinct mathematical treatment](https://arxiv.org/abs/1505.04809). [^Nguyen2016]
+-   Gill, T.L. (2017). [The Feynman-Dyson view](https://iopscience.iop.org/article/10.1088/1742-6596/845/1/012023/pdf). [^Gill2017]
 
 [^FeynmanHibbs1965]: @Feynman_1965_Quantum_Mechanics_and_Path_Integrals\.
+[^Gill2017]: @Gill_2017_The_Feynman_Dyson_view\.
 [^Nguyen2016]: @Nguyen_2016_The_perturbative_approach_to_path_integrals\.
 
 
@@ -1041,14 +1041,14 @@ Baez, Segal, & Zhou on wave-particle duality:
 -   Canonical quantization
 -   Path integral quantization
 -   No "2nd quantization"
--   Redhead, M. (1982). Quantum field theory for philosophers. [^Redhead1982]
--   Redhead, M. (1988). A philosopher looks at quantum field theory. [^Redhead1988]
+    -   Redhead, M. (1982). Quantum field theory for philosophers. [^Redhead1982]
+    -   Redhead, M. (1988). A philosopher looks at quantum field theory. [^Redhead1988]
 -   Geometric quantization
     -   Weyl
     -   Dirac quantization and magnetic monopoles
+    -   Todorov, I. (2012). [Quantization is a mystery](https://arxiv.org/abs/1206.3116). [^Todorov2012]
+    -   Schreiber, U. (2016). [Higher prequantum geometry](https://arxiv.org/abs/1601.05956). [^Schreiber2016b]
 -   Instead of quantizing classical theories, should we be finding the classical limit of quantum theories?
--   Todorov, I. (2012). [Quantization is a mystery](https://arxiv.org/abs/1206.3116). [^Todorov2012]
--   Schreiber, U. (2016). [Higher prequantum geometry](https://arxiv.org/abs/1601.05956). [^Schreiber2016b]
 
 [^Redhead1982]: @Redhead_1982_Quantum_field_theory_for_philosophers\.
 [^Redhead1988]: @Redhead_1988_A_philosopher_looks_at_quantum_field_theory\.
