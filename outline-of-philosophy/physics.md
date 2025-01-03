@@ -1363,16 +1363,6 @@ See also:
     -   [Deligne's theorem on tensor categories](https://ncatlab.org/nlab/show/Deligne%27s+theorem+on+tensor+categories) - nLab
     -   [Supersymmetry](https://ncatlab.org/nlab/show/supersymmetry) - nLab
     -   [Superalgebra](https://en.wikipedia.org/wiki/Superalgebra) - Wikipedia
--   Super division algebras
-    -   Wall, C.T.C. (1964). Graded Brauer groups. [^Wall1964]
-    -   Deligne, P. (1999). [Notes on spinors](https://publications.ias.edu/sites/default/files/79_NotesOnSpinors.pdf). [^Deligne1999]
-    -   Freed, D.S. & Moore, G.W. (2012). [Twisted equivariant matter](https://arxiv.org/abs/1208.5055). [^Freed2012]
-    -   Geiko, R. & Moore, G.W. (2020). [Dyson's classification and real division superalgebras](https://arxiv.org/abs/2010.01675). [^Geiko2020]
-    -   Baez, J.C. (2020). [The tenfold way](https://arxiv.org/abs/2011.14234). [^Baez2020]
-        -   Associative real super division algebras
-        -   Morita equivalence
--   Non-commutative geometry
-    -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985b]
 
 Urs Schreiber:
 
@@ -1386,6 +1376,16 @@ Urs Schreiber:
     -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
     -   Tong, D. (2022). [Lectures on supersymmetric field theory](https://www.damtp.cam.ac.uk/user/tong/susy.html). [^Tong2022]
     -   Bertolini, M. (2022). [Lectures on supersymmetry](https://www.sissa.it/tpp/phdsection/OnlineResources/6/susycourse.pdf). [^Bertolini2022]
+-   Super division algebras
+    -   Wall, C.T.C. (1964). Graded Brauer groups. [^Wall1964]
+    -   Deligne, P. (1999). [Notes on spinors](https://publications.ias.edu/sites/default/files/79_NotesOnSpinors.pdf). [^Deligne1999]
+    -   Freed, D.S. & Moore, G.W. (2012). [Twisted equivariant matter](https://arxiv.org/abs/1208.5055). [^Freed2012]
+    -   Geiko, R. & Moore, G.W. (2020). [Dyson's classification and real division superalgebras](https://arxiv.org/abs/2010.01675). [^Geiko2020]
+    -   Baez, J.C. (2020). [The tenfold way](https://arxiv.org/abs/2011.14234). [^Baez2020]
+        -   Associative real super division algebras
+        -   Morita equivalence
+-   Non-commutative geometry
+    -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985b]
 -   Minimal Supersymmetric Standard Model (MSSM)
     -   Dimopoulos, S. & Georgi, H. (1981). Softly broken supersymmetry and SU(5). [^Dimopoulos1981]
     -   Murayama, H. (2000). [Supersymmetry_phenomenology](https://arxiv.org/abs/hep-ph/0002232). [^Murayama2000]
