@@ -1546,8 +1546,9 @@ Criticisms:
 -   Shimony, A. (1984). [Contextual hidden variables theories and Bell's inequalities](https://www.jstor.org/stable/687555). [^Shimony1984]
     -   "experimental metaphysics"
 -   Bell, J.S. (1987). La Nouvelle Cuisine. [^Bell2004p232]
--   GHZ experiment (1990)
-    -   Greenberger, D., Horne, M., Shimony, A., & Zeilinger, A. (1990). Bell's theorem without inequalities. [^Greenberger1990]
+-   GHZ experiment
+    -   Greenberger, D., Horne, M.A., & Zeilinger, A. (1989). [Going beyond Bell's theorem](https://arxiv.org/abs/0712.0921). [^Greenberger1989]
+    -   Greenberger, D., Horne, M.A., Shimony, A., & Zeilinger, A. (1990). Bell's theorem without inequalities. [^Greenberger1990]
     -   Mermin, N.D. (1990). Quantum mysteries revisited. [^Mermin1990]
 -   Gisin's theorem [^Gisin1991]
 -   Conway & Kochen's "freewill theorem"
@@ -1565,6 +1566,7 @@ Criticisms:
 [^Gisin1991]: @Gisin_1991_Bells_inequality_holds_for_all_non_product\,
     @Gisin_1992_Maximal_violation_of_Bells_inequality\, and
     @Gisin_1999_Bell_inequality_for_arbitrary_many_settings\.
+[^Greenberger1989]: @Greenberger_1989_Going_beyond_Bells_theorem\.
 [^Greenberger1990]: @Greenberger_1990_Bells_theorem_without_inequalities\.
 [^Kochen1967]: @Kochen_1967_The_problem_of_hidden_variables_in_quantum\.
 [^Maudlin2014]: @Maudlin_2014_What_Bell_did\.
