@@ -140,6 +140,7 @@ Einstein, A. (1905). Zur elektrodynamik bewegter k{\"o}rper. *Annalen der Physik
 Einstein, A. & Grossmann, M. (1913). Entwurf einer verallgemeinerten relativit{\"a}tstheorie und einer theorie der gravitation (Outline of a generalized theory of relativity and of a theory of gravitation). *Zeitschrift f{\"u}r Mathematik und Physik*, 62, 225--261. http://www.icra.it/MG/doc/Einstein_Entwurf_1913.pdf
 Einstein, A., Podolsky, B. & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete? *Physical Review*, 47, 777--780. https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777
 Englert, F. & Brout, R. (1964). Broken symmetry and the mass of gauge vector mesons. *Physical Review Letters*, 13, 321--323. https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.13.321
+Epstein, H. & Glaser, V. (1973). The role of locality in perturbation theory. *Annales de l'institut Henri Poincar{\'e}: Section A*, 19, 211. http://www.numdam.org/item/?id=AIHPA_1973__19_3_211_0
 Esfeld, M., Lazarovici, D., Lam, V., & Hubert, M. (2017). The physics and metaphysics of primitive stuff. *The British Journal for the Philosophy of Science*, 68, 133--161.. https://www.jstor.org/stable/44505729
 Everett, H. (1956). *Theory of the Universal Wave Function*. Princeton University. [(Ph.D. thesis. Reprinted in Barrett & Byrne (2012).)]
 Everett, H. (1957). "Relative state" formulation of quantum mechanics. *Reviews Modern Physics*, 29, 454--462.
@@ -258,6 +259,7 @@ Mermin, N.D. (2022). A note on the quantum measurement problem. https://arxiv.or
 {MiniBooNE Collaboration}. (2018). Significant excess of electron-like events in the MiniBooNE short-baseline neutrino experiment. *Physical Review Letters*, 121, 221801. https://arxiv.org/abs/1805.12028
 Misner, C.W., Thorne, K.S., & Wheeler, J.A. (1973). *Gravitation*. Freeman and Co. [(Reprinted by Princeton University Press (2017))]
 Molinari, L.G. (2006). Another proof of Gell-Mann and Low's theorem. https://arxiv.org/abs/math-ph/0612030
+Morales, J.A.C. & Zilber, B. (2014). The geometric semantics of algebraic quantum mechanics. https://arxiv.org/abs/1410.7277
 Moretti, V. (2015). Mathematical foundations of quantum mechanics: An advanced short course. https://arxiv.org/abs/1508.06951
 Moretti, V. (2023). On the relativistic spatial localization for massive real scalar Klein-Gordon quantum particles. https://arxiv.org/abs/2304.02133
 Mulders, P.J. (2011). Quantum field theory. https://www.nat.vu.nl/~mulders/QFT-0.pdf
@@ -272,6 +274,7 @@ Nguyen, T. (2016). The perturbative approach to path integrals: A succinct mathe
 Nigg, D. et al. (2015). Can different quantum state vectors correspond to the same physical state? An experimental test. *New Journal of Physics*, 18(1), 013007. https://arxiv.org/abs/1211.0942
 Nikoli{\'c}, H. (2007). Quantum mechanics: Myths and facts. *Foundations of Physics*, 37, 1563--1611. https://link.springer.com/content/pdf/10.1007/s10701-007-9176-y.pdf
 Nikoli{\'c}, H. (2022). Relativistic QFT from a Bohmian perspective: A proof of concept. *Foundations of Physics*, 52, 80. https://doi.org/10.1007/s10701-022-00600-x
+{nLab authors}. (2021). Causal perturbation theory. https://ncatlab.org/nlab/show/causal+perturbation+theory
 {nLab authors}. (2021). Fiber bundles in physics. http://ncatlab.org/nlab/show/fiber%20bundles%20in%20physics
 Noether, E. (1918). Invariante variationsprobleme. *Nachrichten von der Gesellschaft der Wissenschaften zu G{\"o}ttingen, Mathematisch-Physikalische Klasse*, 235--257. https://www.tandfonline.com/doi/abs/10.1080/00411457108231446
 Norton, J.D. (1993). General covariance and the foundations of general relativity: Eight decades of dispute. *Reports on Progress in Physics*, 56, 791--858. https://web.archive.org/web/20171124074404/http://www.pitt.edu/~jdnorton/papers/decades.pdf

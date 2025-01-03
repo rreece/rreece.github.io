@@ -556,6 +556,7 @@ TODO: Note that Everettian QM would argue the Born rule is secondary and derivab
     -   [Riesz representation theorem](https://en.wikipedia.org/wiki/Riesz_representation_theorem)
     -   Jordan, P., von Neumann, J., & Wigner, E.P. (1934). [On an algebraic generalization of the quantum mechanical formalism](https://www.jstor.org/stable/1968117). [^Jordan1934]
     -   Baez, J.C. (2011). [Division algebras and quantum theory](https://arxiv.org/abs/1101.5690). [^Baez2011a]
+    -   Morales, J.A.C & Zilber. B. (2014). [The geometric semantics of algebraic quantum mechanics](https://arxiv.org/abs/1410.7277). [^Morales2014]
 
 See also:
 
@@ -564,6 +565,7 @@ See also:
 [^Baez2011a]: @Baez_2011_Division_algebras_and_quantum_theory\.
 [^Carcassi2023]: @Carcassi_2023_The_unphysicality_of_Hilbert_spaces\.
 [^Madrid2005]: @dela_2005_The_role_of_the_rigged_Hilbert_space_in_quantum\.
+[^Morales2014]: @Morales_2014_The_geometric_semantics_of_algebraic_quantum\.
 [^Moretti2015]: @Moretti_2015_Mathematical_foundations_of_quantum_mechanics\.
 [^Jordan1934]: @Jordan_1934_On_an_algebraic_generalization_of_the_quantum\.
 [^Redei1996]: @Redei_1996_Why_John_von_Neumann_did_not_like_the_Hilbert\.
@@ -690,6 +692,7 @@ Quantum field theory
     quantum mechanics, and the cluster decomposition principle. [^Weinberg1997p8]
 -   Euler-Lagrange equations of motion
     -   The Dirac equation does _not_ describe a relativistic wavefunction (hence the obsolete "Dirac sea" interpretation). [^Auyang1995p50]
+-   Kocic, M. (2016). [Handout: Overview of the fields in QFT](https://ncatlab.org/nlab/files/FieldSpecies.pdf).
 
 Baez, Segal, & Zhou:
 
@@ -1033,6 +1036,23 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Weinberg1997a]: @Weinberg_1997_What_is_an_elementary_particle\.
 
 
+#### Causal perturbation theory
+
+nLab (Schreiber):
+
+>   Causal perturbation theory may be regarded as providing a well-defined
+>   consistent generalization from quantum mechanics to quantum field theory
+>   on Lorentzian spacetimes of the construction of the $S$-matrix via the Dyson
+>   formula ("time-ordered products") in the interaction picture. [^nLab2021CausalPerturb]
+
+First rigorous perturbation theory in QFT according to Schreiber:
+
+-   Epstein, H. & Glaser, V. (1973). [The role of locality in perturbation theory](http://www.numdam.org/item/?id=AIHPA_1973__19_3_211_0). [^Epstein1973]
+
+[^nLab2021CausalPerturb]: @nLab_2021_Causal_perturbation_theory\.
+[^Epstein1973]: @Epstein_1973_The_role_of_locality_in_perturbation_theory\.
+
+
 #### Newton-Wigner localization
 
 TODO: Clean up
@@ -1317,7 +1337,6 @@ See also:
 -   Shifman, M. (2012). *Advanced Topics in Quantum Field Theory: A lecture course*. [^Shifman2012]
 -   Manton, N.S. (2019). [The inevitability of sphalerons in field theory](http://dx.doi.org/10.1098/rsta.2018.0327). [^Manton2019]
 -   Percacci, R. (2024). [*Non-Perturbative Quantum Field Theory: An Introduction to Topological and Semiclassical Methods*](https://library.oapen.org/bitstream/handle/20.500.12657/96025/9788898587056.pdf). [^Percacci2024]
--   HERE
 
 [^Manton2019]: @Manton_2019_The_inevitability_of_sphalerons_in_field_theory\.
 [^Percacci2024]: @Percacci_2024_Non_Perturbative_Quantum_Field_Theory\.
