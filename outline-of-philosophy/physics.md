@@ -1017,12 +1017,14 @@ Baez, Segal, & Zhou on wave-particle duality:
 >   just as the *particle numbers* are diagonalized in the tensor product
 >   representation. [^Baez1992p59]
 
+-   Albert: QFT *can* be shown to derive NRQM. [^Albert1992p50]
 -   Fraser, D. (2008). [The fate of 'particles' in quantum field theories with interactions](http://philsci-archive.pitt.edu/4038/). [^Fraser2008]
 -   Baker, D.J. (2009). [Against field interpretations of quantum field theory](http://philsci-archive.pitt.edu/4350/). [^Baker2009]
 -   Pessa, E. (2009). [The concept of particle in quantum field theory](https://arxiv.org/abs/0907.0178). [^Pessa2009]
 -   Duncan, A. (2012). *The Conceptual Framework of Quantum Field Theory*. [^Duncan2012p163]
 -   Lazarovici, D. (2018). [Against fields](https://arxiv.org/abs/1809.00855). [^Lazarovici2018]
 
+[^Albert1992p50]: @Albert_1992_Quantum_Mechanics_and_Experience\.
 [^Auyang1995p80]: @Auyang_1995_How_Is_Quantum_Field_Theory_Possible\, p. 80.
 [^Baez1992p59]: @Baez_1992_Introduction_to_Algebraic_and_Constructive_Quantum\, p. 59.
 [^Baker2009]: @Baker_2009_Against_field_interpretations_of_quantum_field\.
@@ -1376,6 +1378,12 @@ Urs Schreiber:
     -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.
     -   Tong, D. (2022). [Lectures on supersymmetric field theory](https://www.damtp.cam.ac.uk/user/tong/susy.html). [^Tong2022]
     -   Bertolini, M. (2022). [Lectures on supersymmetry](https://www.sissa.it/tpp/phdsection/OnlineResources/6/susycourse.pdf). [^Bertolini2022]
+-   Minimal Supersymmetric Standard Model (MSSM)
+    -   Dimopoulos, S. & Georgi, H. (1981). Softly broken supersymmetry and SU(5). [^Dimopoulos1981]
+    -   Murayama, H. (2000). [Supersymmetry_phenomenology](https://arxiv.org/abs/hep-ph/0002232). [^Murayama2000]
+-   SUSY GUTs
+    -   Supersymmetry allows unification of the couplings at the GUT scale.
+    -   Arkani-Hamed, N., Cachazo, F., & Kaplan, J. (2008). [What is the simplest quantum field theory?](https://arxiv.org/abs/0808.1446). [^ArkaniHamed2008]
 -   Super division algebras
     -   Wall, C.T.C. (1964). Graded Brauer groups. [^Wall1964]
     -   Deligne, P. (1999). [Notes on spinors](https://publications.ias.edu/sites/default/files/79_NotesOnSpinors.pdf). [^Deligne1999]
@@ -1384,19 +1392,13 @@ Urs Schreiber:
     -   Baez, J.C. (2020). [The tenfold way](https://arxiv.org/abs/2011.14234). [^Baez2020]
         -   Associative real super division algebras
         -   Morita equivalence
--   Non-commutative geometry
-    -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985b]
--   Minimal Supersymmetric Standard Model (MSSM)
-    -   Dimopoulos, S. & Georgi, H. (1981). Softly broken supersymmetry and SU(5). [^Dimopoulos1981]
-    -   Murayama, H. (2000). [Supersymmetry_phenomenology](https://arxiv.org/abs/hep-ph/0002232). [^Murayama2000]
--   SUSY GUTs
-    -   Supersymmetry allows unification of the couplings at the GUT scale.
-    -   Arkani-Hamed, N., Cachazo, F., & Kaplan, J. (2008). [What is the simplest quantum field theory?](https://arxiv.org/abs/0808.1446). [^ArkaniHamed2008]
 -   Supergravity
     -   Supersymmetry as a gauge theory makes gravity arise in a natural way.
     -   Freedman, D.Z., van Nieuwenhuizen, P., & Ferrara, S. (1976). Progress toward a theory of supergravity. [^Freedman1976]
     -   van Nieuwenhuizen, P. (1981). Supergravity. [^vanNieuwenhuizen1981]
     -   Reviewed by Fr&egrave; [^Fre2013v2ch6]
+-   Non-commutative geometry
+    -   Connes, A. (1985). [Non-commutative differential geometry](https://link.springer.com/article/10.1007/BF02698807). [^Connes1985b]
 
 See also:
 
