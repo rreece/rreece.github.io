@@ -622,6 +622,7 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 -   Wallace, D. (2018). [Decoherence and its role in the modern measurement problem](https://arxiv.org/abs/1111.2187). [^Wallace2018]
 -   Zurek, W.H. (2022). [Quantum theory of the classical: Einselection, envariance, quantum Darwinism and extantons](https://arxiv.org/abs/2208.09019). [^Zurek2022]
 -   *Natura non facit saltus*
+-   Nagele, C., Janssen, O., & Kleban, M. (2023). [Decoherence: A numerical study](https://iopscience.iop.org/article/10.1088/1751-8121/acb977). [^Nagele2023]
 
 See also:
 
@@ -632,6 +633,7 @@ See also:
 [^Drossel2015]: @Drossel_2015_On_the_relation_between_the_second_law\, p. 51--2.
 [^Joos1985]: @Joos_1985_The_emergence_of_classical_properties_through\.
 [^Joos2003]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\.
+[^Nagele2023]: @Nagele_2023_Decoherence_A_numerical_study\.
 [^Schlosshauer2005]: @Schlosshauer_2005_Decoherence_the_measurement_problem\.
 [^Schrodinger1952a]: @Schrodinger_1952_Are_there_quantum_jumps_Part_I\.
 [^Schrodinger1952b]: @Schrodinger_1952_Are_there_quantum_jumps_Part_II\.
@@ -1590,6 +1592,7 @@ Discussion:
 -   Bell, J.S. (1987). *Speakable and Unspeakable in Quantum Mechanics*. [^Bell1987b]
 -   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (1995). [Bohmian mechanics as the foundation of quantum mechanics](https://arxiv.org/abs/quant-ph/9511016) [^Durr1995]
 -   Allori, V., D&uuml;rr, D., Goldstein, & Zangh&igrave;, N. (2002). [Seven steps towards the classical world](https://arxiv.org/abs/quant-ph/0112005). [^Allori2002]
+-   Brown, M.R. & Hiley, B.J. (2004). [Schr&ouml;dinger revisited: An algebraic approach](https://arxiv.org/abs/quant-ph/0005026) [^Brown2004]
 -   D&uuml;rr, D., Goldstein, S., & Zangh&igrave;, N. (2013). *Quantum Physics Without Quantum Philosophy*. Springer. [^Durr2013]
 -   Tumulka, R. (2017). [Bohmian_mechanics](https://arxiv.org/abs/1704.08017). [^Tumulka2017]
 -   Del Santo, F. & Krizek, G.K. (2023). [Against the "nightmare of a mechanically determined universe": Why Bohm was never a Bohmian](https://arxiv.org/abs/2307.05611). [^DelSanto2023]
@@ -1637,6 +1640,7 @@ Criticisms:
 [^Bell1987b]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
 [^Bohm1952]: @Bohm_1952_A_suggested_interpretation_of_the_quantum_theory\.
 [^Bohm1953]: @Bohm_1953_Proof_that_probability_density_approaches\.
+[^Brown2004]: HERE
 [^Caulton2018]: @Caulton_2018_A_persistent_particle_ontology_for_quantum_field\.
 [^Das2019]: @Das_2019_Arrival_time_distributions_of_spin_12_particles\.
 [^DelSanto2023]: @DelSanto_2023_Against_the_nightmare_of_a_mechanically\.
