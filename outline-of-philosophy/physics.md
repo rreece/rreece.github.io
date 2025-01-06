@@ -1640,7 +1640,7 @@ Criticisms:
 [^Bell1987b]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
 [^Bohm1952]: @Bohm_1952_A_suggested_interpretation_of_the_quantum_theory\.
 [^Bohm1953]: @Bohm_1953_Proof_that_probability_density_approaches\.
-[^Brown2004]: HERE
+[^Brown2004]: @Brown_2004_Schrodinger_revisited_An_algebraic_approach\.
 [^Caulton2018]: @Caulton_2018_A_persistent_particle_ontology_for_quantum_field\.
 [^Das2019]: @Das_2019_Arrival_time_distributions_of_spin_12_particles\.
 [^DelSanto2023]: @DelSanto_2023_Against_the_nightmare_of_a_mechanically\.
