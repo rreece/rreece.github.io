@@ -183,6 +183,7 @@ Hacking, I. (2001). *An Introduction to Probability and Inductive Logic*. Cambri
 Halverson, J., Maiti, A., & Stoner, K. (2020). Neural networks and quantum field theory. https://arxiv.org/abs/2008.08601
 Hanley, J.A. & Lippman-Hand, A. (1983). If nothing goes wrong, is everything all right?: Interpreting zero numerators. *JAMA*, 249(13), 1743--1745.
 Hart, S. & Mas‐Colell, A. (2000). A simple adaptive procedure leading to correlated equilibrium. *Econometrica*, 68, 1127--1150. https://www.ma.imperial.ac.uk/~dturaev/Hart0.pdf
+Hartigan, J.A. (1985). Statistical theory in clustering. *Journal of Classification*, 2, 63--76. https://link.springer.com/article/10.1007/BF01908064
 Hastie, T., Montanari, A., Rosset, S., & Tibshirani, R. J. (2022). Surprises in high-dimensional ridgeless least squares interpolation. *Annals of Statistics*, 50, 949. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481183/
 Hastie, T., Tibshirani, R., & Friedman, J. (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction* (2nd ed.). Springer.
 Heinrich, J. & Lyons, L. (2007). Systematic errors. *Annual Reviews of Nuclear and Particle Science*, 57, 145--169. https://www.annualreviews.org/doi/abs/10.1146/annurev.nucl.57.090506.123052

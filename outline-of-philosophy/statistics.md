@@ -1530,6 +1530,8 @@ See also:
     -   GLMs
 -   EM algorithm
     -   $k$-means
+-   Discussion
+    -   Hartigan, J.A. (1985). [Statistical theory in clustering](https://link.springer.com/article/10.1007/BF01908064). [^Hartigan1985]
 -   [Clustering high-dimensional data](https://en.wikipedia.org/wiki/Clustering_high-dimensional_data)
     -   [*t*-distributed stochastic neighbor embedding (t-SNE)](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
     -   Slonim, N., Atwal, G.S., Tkacik, G. & Bialek, W. (2005). [Information-based clustering](https://arxiv.org/abs/q-bio/0511043). [^Slonim2005]
@@ -1553,6 +1555,7 @@ See also:
 
 [^Batson2021]: @Batson_2021_Topological_obstructions_to_autoencoding\.
 [^Fang2022]: @Fang_2022_Is_out_of_distribution_detection_learnable\.
+[^Hartigan1985]: @Hartigan_1985_Statistical_theory_in_clustering\.
 [^Hennig2015a]: @Hennig_2015_What_are_the_true_clusters\.
 [^Lauc2020p103]: @Lauc_2020_Machine_learning_and_the_philosophical_problems\, p. 103--4.
 [^Ronen2022]: @Ronen_2022_DeepDPM_Deep_clustering_with_an_unknown_number\.

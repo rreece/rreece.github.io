@@ -68,6 +68,7 @@ Broughton, M. et al. (2020). TensorFlow Quantum: A software framework for quantu
 Brown, M.R. & Hiley, B.J. (2004). Schr{\"o}dinger revisited: An algebraic approach. https://arxiv.org/abs/quant-ph/0005026
 Bub, J. (2019). 'Two Dogmas' redux. https://arxiv.org/abs/1907.06240
 Buchholz, D. (1998). Current trends in axiomatic quantum field theory. https://arxiv.org/abs/hep-th/9811233
+Buchholz, D. & Dybalski, W. (2005). Scattering in relativistic quantum field theory: basic concepts, tools, and results. https://arxiv.org/abs/math-ph/0509047v3
 Buckingham, E. (1914). On physically similar systems; Illustrations of the use of dimensional equations. *Physical Review*, 4(4), 345--376.
 Bunge, M. (1955). Strife about complementarity (I). *The British Journal for the Philosophy of Science*, 6, 1--12. https://www.jstor.org/stable/685570
 Bunge, M. (1955). Strife about complementarity (II). *The British Journal for the Philosophy of Science*, 6, 141--154. https://www.jstor.org/stable/685522

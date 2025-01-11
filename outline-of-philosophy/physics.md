@@ -840,6 +840,7 @@ Michael Atiyah:
     -   Baez, J. (2016). [Struggles with the continuum, part 6](https://www.physicsforums.com/insights/struggles-continuum-part-6/).
 -   LSZ reduction formula
     -   Lehmann, H., Symanzik, K., & Zimmermann, W. (1955). Zur formulierung quantisierter feldtheorien. [^Lehmann1955]
+    -   Buchholz, D. & Dybalski, W. (2005). [Scattering in relativistic quantum field theory: basic concepts, tools, and results](https://arxiv.org/abs/math-ph/0509047v3). [^Buchholz2005]
 -   Feynman diagrams and Feynman rules
     -   Weinberg, S. (1964). Feynman rules for any spin. [^Weinberg1964]
 -   Pedagogy
@@ -849,6 +850,7 @@ Michael Atiyah:
 -   Discussion
     -   Jaeger, G. (2019). [Are virtual particles less real?](https://www.mdpi.com/1099-4300/21/2/141) [^Jaeger2019]
 
+[^Buchholz2005]: HERE
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
 [^Dyson1952]: @Dyson_1952_Divergence_of_perturbation_theory_in_quantum\.
 [^GellMann1951]: @Gell_Mann_1951_Bound_states_in_quantum_field_theory\.
