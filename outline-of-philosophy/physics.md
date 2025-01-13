@@ -850,7 +850,7 @@ Michael Atiyah:
 -   Discussion
     -   Jaeger, G. (2019). [Are virtual particles less real?](https://www.mdpi.com/1099-4300/21/2/141) [^Jaeger2019]
 
-[^Buchholz2005]: HERE
+[^Buchholz2005]: @Buchholz_2005_Scattering_in_relativistic_quantum_field_theory\.
 [^Dyson1949]: @Dyson_1949_The_S_matrix_in_quantum_electrodynamics\.
 [^Dyson1952]: @Dyson_1952_Divergence_of_perturbation_theory_in_quantum\.
 [^GellMann1951]: @Gell_Mann_1951_Bound_states_in_quantum_field_theory\.
@@ -2392,6 +2392,7 @@ Complexity and emergence
     -   chaos
 -   [Universality](https://en.wikipedia.org/wiki/Universality_(dynamical_systems))
 -   Thermodynamics, statistical mechanics, renormalization.
+-   Simon, H.A. (1962). The architecture of complexity. *Proceedings of the American Philosophical Society*, 106, 467--482. [^Simon1962]
 -   Anderson, P.W. (1972). More is different. [^Anderson1972]
 -   Gell-Mann, M. (1988). [Simplicity and complexity in the description of nature](https://calteches.library.caltech.edu/53/2/Mann.pdf). [^GellMann1988]
 -   Bedau, M.A. (1997). Weak emergence. [^Bedau1997]
@@ -2430,6 +2431,7 @@ See also:
 [^Bunge2001p72]: @Bunge_2001_Philosophy_in_Crisis_The_Need_for_Reconstruction\, p. 72.
 [^GellMann1988]: @Gell_Mann_1988_Simplicity_and_complexity_in_the_description\.
 [^Lisi2017]: @Lisi_2017_Emergence\.
+[^Simon1962]: @Simon_1962_The_architecture_of_complexity\.
 
 
 Bracketing human experience
