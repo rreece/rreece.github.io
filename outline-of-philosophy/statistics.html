@@ -16,7 +16,7 @@
 <meta http-equiv="Content-Style-Type" content="text/css" />
 <meta name="generator" content="pandoc" />
 <meta name="author" content="Ryan Reece" />
-<meta name="date" content="Sun Jan 12, 2025" />
+<meta name="date" content="Tue Jan 28, 2025" />
 <title>Philosophy of statistics - Ryan's Outline of Philosophy</title>
 <meta name="description" content="Ryan Reece&#x2019;s outline of philosophy" />
 <link rel="stylesheet" type="text/css" href="templates/markdown-memo-alt-blue-dark.css"/>
@@ -95,6 +95,7 @@
 <ol type="1">
 <li><a href="statistics.html#parametric-models">Parametric models</a></li>
 <li><a href="statistics.html#canonical-distributions">Canonical distributions</a></li>
+<li><a href="statistics.html#central-limit-theorem">Central limit theorem</a></li>
 <li><a href="statistics.html#mixture-models">Mixture models</a></li>
 </ol></li>
 <li><a href="statistics.html#point-estimation-and-confidence-intervals">Point estimation and confidence intervals</a>
@@ -537,8 +538,10 @@ D_\mathrm{KL}(p, q)
 <p>and in <span class="math inline">\(k\)</span> dimensions:</p>
 <p><span class="math display">\[ N(\vec{x} \,|\, \vec{\mu}, \boldsymbol{\Sigma}) = (2 \pi)^{-k/2}\:\left|\boldsymbol{\Sigma}\right|^{-1/2} \: \exp\left(\frac{-1}{2}\:(\vec{x}-\vec{\mu})^{\mathsf{T}}\:\boldsymbol{\Sigma}^{-1}\:(\vec{x}-\vec{\mu})\right) \label{eq:gaussian_k_dim} \]</span></p>
 <p>where <span class="math inline">\(\boldsymbol{\Sigma}\)</span> is the covariance matrix (defined in eq.&#xA0;<span class="math inline">\(\eqref{eq:covariance_matrix_indexed}\)</span>) of the distribution.</p>
+<h3 id="central-limit-theorem">Central limit theorem</h3>
+<p>Let <span class="math inline">\(X_{1}\)</span>, <span class="math inline">\(X_{2}\)</span>, &#x2026; , <span class="math inline">\(X_{n}\)</span> be a random sample drawn from <em>any</em> distribution with a &#xFB01;nite mean <span class="math inline">\(\mu\)</span> and variance <span class="math inline">\(\sigma^{2}\)</span>. As <span class="math inline">\(n \rightarrow \infty\)</span>, the distribution of</p>
+<p><span class="math display">\[ \frac{\bar{X} - \mu}{\sigma/\sqrt{n}} \sim N(0, 1) \label{eq:central_limit_theorem} \]</span></p>
 <ul>
-<li>Central limit theorem</li>
 <li><span class="math inline">\(\chi^2\)</span> distribution</li>
 <li>Univariate distribution relationships</li>
 </ul>
@@ -4443,7 +4446,7 @@ Zinkevich, M., Johanson, M., Bowling, M., &amp; Piccione, C. (2007). <span class
   <div class="signature">
     <p><i>Ryan Reece</i></p>
     <p><a href="https://twitter.com/RyanDavidReece">@RyanDavidReece</a><br/><img class="email" src="img/my-email-alt-blue.png" alt="my email address"/></p>
-    <p>Sun Jan 12, 2025</p>
+    <p>Tue Jan 28, 2025</p>
   </div>
   <div class="license">
     <p>&#xA9; 2014-2024 <a href="http://rreece.github.io/">Ryan Reece</a>. All rights reserved.</p>

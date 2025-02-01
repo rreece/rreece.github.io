@@ -445,7 +445,15 @@ where $\boldsymbol{\Sigma}$ is the covariance matrix
 (defined in [@eq:covariance_matrix_indexed])
 of the distribution.
 
--   Central limit theorem
+
+### Central limit theorem
+
+Let $X_{1}$, $X_{2}$, ... , $X_{n}$ be a random sample drawn from _any_
+distribution with a ﬁnite mean $\mu$ and variance $\sigma^{2}$. As
+$n \rightarrow \infty$, the distribution of
+
+$$ \frac{\bar{X} - \mu}{\sigma/\sqrt{n}} \sim N(0, 1) \label{eq:central_limit_theorem} $$
+
 -   $\chi^2$ distribution
 -   Univariate distribution relationships
 

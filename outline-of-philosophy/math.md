@@ -181,6 +181,9 @@ TODO
 #### Matrix calculus
 
 -   [Matrix calculus](https://explained.ai/matrix-calculus/)
+-   Dwyer, P.S. (1967). [Some applications of matrix derivatives in multivariate analysis](https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482934). [^Dwyer1967]
+
+[^Dwyer1967]: @Dwyer_1967_Some_applications_of_matrix_derivatives\.
 
 
 ### Differential geometry

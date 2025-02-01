@@ -30,6 +30,7 @@ Church, A. (1940). A formulation of the simple theory of types. *Journal of Symb
 Connes, A. (1985). Non-commutative differential geometry. *Publications Math\'{e}matiques de L'Institut des Hautes Scientifiques*, 62, 41--144. https://link.springer.com/article/10.1007/BF02698807
 De Cruz, H. (2016). Numerical cognition and mathematical realism. *Philosopher's Imprint*, 16, 1--13. http://hdl.handle.net/2027/spo.3521354.0016.016
 Drake, S. (1957). *Discoveries and Opinions of Galileo*. New York: Doubleday and Co.
+Dwyer, P. S. (1967). Some applications of matrix derivatives in multivariate analysis. *Journal of the American Statistical Association*, 62, 607--625. https://www.tandfonline.com/doi/abs/10.1080/01621459.1967.10482934
 Eilenberg, S. & MacLane, S. (1945). General theory of natural equivalences.  *Transactions of the American Mathematical Society*, 58, 231--294. https://www.ams.org/journals/tran/1945-058-00/S0002-9947-1945-0013131-6/S0002-9947-1945-0013131-6.pdf
 Enderton, H.B. (2009). Second-order and higher-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/archives/sum2019/entries/logic-higher-order/
 Ewald, W. (2018). The emergence of first-order logic. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/logic-firstorder-emergence/
