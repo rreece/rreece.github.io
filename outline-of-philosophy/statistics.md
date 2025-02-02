@@ -613,7 +613,8 @@ See also:
     -   Under some reasonable conditions, one can show that MLEs are efficient and unbiased. TODO: find ref.
 -  [Fisher information matrix](https://en.wikipedia.org/wiki/Fisher_information)
     -   "is the key part of the proof of Wilks' theorem, which allows confidence region estimates for maximum likelihood estimation (for those conditions for which it applies) without needing the Likelihood Principle."
--   Variance of MLEs
+-   Confidence intervals
+    -   Variance of MLEs
     -   [Wilks's theorem](https://en.wikipedia.org/wiki/Wilks%27_theorem)
     -   Method of $\Delta\chi^2$ or $\Delta{}L$
     -   Frequentist confidence intervals (e.g. at 95% CL)
@@ -622,7 +623,7 @@ See also:
     -   Minos method in particle physics in MINUIT [^James1975]
     -   See slides for my talk: [Primer on statistics: MLE, Confidence Intervals, and Hypothesis Testing](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf)
 -   Asymptotics
-    -   Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2012). [Asymptotic distribution for two-sided tests with lower and upper boundaries on the parameter of interest](https://arxiv.org/abs/1210.6948). [^Cowan2012]
+    -   See [Asymptotics](#asymptotics).
 
 ![Transformation of non-parabolic log-likelihood to parabolic (source: [my slides](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf), recreation of @James_2006_Statistical_Methods_in_Experimental_Particle\, p. 235).](img/DeltaL_nonparabolic.png){#fig:DeltaL_nonparabolic}
 
@@ -633,12 +634,13 @@ See also:
     -   Binomial error bars
         -   Error on efficiency or proportion
         -   See: [Statistical classification](#statistical-classification)
+-   More on confidence intervals
+    -   Loh, W.Y. (1987). [Calibrating confidence coefficients](https://www.tandfonline.com/doi/abs/10.1080/01621459.1987.10478408). [^Loh1987]
 -   Discussion
     -   Wainer, H. (2007). [The most dangerous equation](https://sites.stat.washington.edu/people/peter/498.Sp16/Equation.pdf). (de Moivre's equation for variance of means) [^Wainer2007]
 -   Misc
     -   Karhunen-Lo&egrave;ve eigenvalue problems in cosmology: How should we tackle large data sets? [^Tegmark1997]
 
-[^Cowan2012]: @Cowan_2012_Asymptotic_distribution_for_two_sided_tests\.
 [^Cowan1998p130]: @Cowan_1998_Statistical_Data_Analysis\, p. 130-5.
 [^Cramer-Rao]: @Frechet_1943_Sur_lextension_de_certaines_evaluations\,
     @Cramer_1946_A_contribution_to_the_theory_of_statistical\,
@@ -646,6 +648,7 @@ See also:
     @Rao_1947_Minimum_variance_and_the_estimation_of_several\.
 [^James2006p234again]: @James_2006_Statistical_Methods_in_Experimental_Particle\, p. 234.
 [^James1975]: @James_1975_MINUIT_A_system_for_function_minimization\.
+[^Loh1987]: @Loh_1987_Calibrating_confidence_coefficients\.
 [^Nielsen2013]: @Nielsen_2013_Cramer_Rao_lower_bound_and_information_geometry\.
 [^Rice2007p300]: @Rice_2007_Mathematical_Statistics_and_Data_Analysis\, p. 300--2.
 [^Tegmark1997]: @Tegmark_1997_Karhunen_Loeve_eigenvalue_problems_in_cosmology\.
@@ -836,6 +839,7 @@ Also:
 ### Asymptotics
 
 -   Analytic variance of the likelihood-ratio of gaussians: $\chi^2$
+    -   Pearson $\chi^2$-test
     -   Wilks [^Wilks1938]
         -   Under the null hypothesis, $-2 \ln(\lambda) \sim \chi^{2}_{k}$,
             where $k$, the degrees of freedom for the $\chi^{2}$ distribution
@@ -848,16 +852,17 @@ Also:
         -   In the simplest case where there is only one parameter of interest
             (the signal strength, $\mu$), then
             $-2 \ln(\lambda) \approx \frac{ (\hat{\mu} - \mu)^{2} }{ \sigma^2 }  \sim \mathrm{noncentral}\:\chi^{2}_{1}$.
-    -   Pearson $\chi^2$-test
--   Cowan _et al._ [^Cowan2011]
+-   Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). [Asymptotic formulae for likelihood-based tests of new physics](https://arxiv.org/abs/1007.1727). [^Cowan2011]
     -   Wald approximation
     -   Asimov dataset
     -   Talk by Armbruster: [Asymptotic formulae](https://indico.cern.ch/event/233551/contributions/493678/attachments/389871/542293/asymptotics_armbruster.pdf) (2013).
--   Criteria for projected discovery and exclusion sensitivities of counting experiments [^Bhattiprolu2020]
+-   Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2012). [Asymptotic distribution for two-sided tests with lower and upper boundaries on the parameter of interest](https://arxiv.org/abs/1210.6948). [^Cowan2012]
+-   Bhattiprolu, P.N., Martin, S.P., & Wells, J.D. (2020). [Criteria for projected discovery and exclusion sensitivities of counting experiments](https://arxiv.org/abs/2009.07249). [^Bhattiprolu2020]
     -   [github.com/prudhvibhattiprolu/Zstats](https://github.com/prudhvibhattiprolu/Zstats)
 
 [^Bhattiprolu2020]: @Bhattiprolu_2020_Criteria_for_projected_discovery_and_exclusion\.
 [^Cowan2011]: @Cowan_2011_Asymptotic_formulae_for_likelihood_based_tests\.
+[^Cowan2012]: @Cowan_2012_Asymptotic_distribution_for_two_sided_tests\.
 [^Wald1943]: @Wald_1943_Tests_of_statistical_hypotheses_concerning_several\.
 [^Wilks1938]: @Wilks_1938_The_large_sample_distribution_of_the_likelihood\.
 
