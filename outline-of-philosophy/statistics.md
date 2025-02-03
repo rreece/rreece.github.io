@@ -126,7 +126,7 @@ See also:
     -   Neyman, J. (1955). [The problem of inductive inference](https://errorstatistics.files.wordpress.com/2017/04/neyman-1955-the-problem-of-inductive-inference-searchable.pdf). [^Neyman1955]
         -   Discussion: Mayo, D.G. (2014). [Power taboos: Statue of Liberty, Senn, Neyman, Carnap, Severity](https://errorstatistics.com/2014/03/19/power-taboos-statue-of-liberty-senn-neyman-carnap-severity/).
         -   Shows that Neyman read Carnap.
-    -   Carnap, R. (1960). *Logical Foundations of Probability*. [^Carnap1960]
+    -   Carnap, R. (1960). *Logical Foundations of Probability*. [^Carnap1960a]
         -   Shows that Carnap read Neyman.
         -   TODO: Look into this more.
 -   [Egon Pearson](https://en.wikipedia.org/wiki/Egon_Pearson) (1895-1980)
@@ -139,7 +139,7 @@ See also:
 -   [Shun'ichi Amari](https://en.wikipedia.org/wiki/Shun%27ichi_Amari) (b. 1936)
 -   [Judea Pearl](https://en.wikipedia.org/wiki/Judea_Pearl) (b. 1936)
 
-[^Carnap1960]: @Carnap_1960_Logical_Foundations_of_Probability\.
+[^Carnap1960a]: @Carnap_1960_Logical_Foundations_of_Probability\.
 [^Fisher1912]: @Fisher_1912_On_an_absolute_criterion_for_fitting_frequency\.
 [^Keynes1921]: @Keynes_1921_A_Treatise_on_Probability\.
 [^Peirce1883]: @Peirce_1883_Studies_in_Logic\, p. 126--181.
@@ -1164,8 +1164,9 @@ Lyons:
 [^Lyons2008p891]: @Lyons_2008_Open_statistical_issues_in_particle_physics\, p. 891.
 
 -   Carnap
-    -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
     -   Carnap, R. (1952). [*The Continuum of Inductive Methods*](https://www.phil.cmu.edu/projects/carnap/editorial/latex_pdf/1952-1.pdf). [^Carnap1952b]
+    -   Carnap, R. (1960). *Logical Foundations of Probability*. [^Carnap1960b]
+    -   Sznajder on the alleged evolution of Carnap's views of inductive logic [^Sznajder2018]
 -   David Cox
 -   Ian Hacking
     -   *Logic of Statistical Inference* [^Hacking1965]
@@ -1181,6 +1182,9 @@ Lyons:
     -   *Statistical Evidence: A likelihood paradigm* [^Royall1997]
 -   Jim Berger
     -   "Could Fisher, Jeffreys, and Neyman have agreed on testing?" [^Berger2003]
+-   Kendall & Stuart
+    -   "The fiducialist argument rests on the assumption that $\mathrm{probability}_{2}$
+        can be converted into $\mathrm{probability}_{1}$ by means of a pivoting operation." [^Stuart2010p460]
 -   Deborah Mayo
     -   "In defense of the Neyman-Pearson theory of confidence intervals" [^Mayo1981]
     -   Concept of "Learning from error" in *Error and the Growth of Experimental Knowledge* [^Mayo1996]
@@ -1241,6 +1245,7 @@ Goodman:
 [^Berger2003]: @Berger_2003_Could_Fisher_Jeffreys_and_Neyman_have_agreed_on\.
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
 [^Carnap1952b]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
+[^Carnap1960b]: @Carnap_1960_Logical_Foundations_of_Probability\.
 [^Efron2016p30]: @Efron_2016_Computer_Age_Statistical_Inference_Algorithms\, p. 30--36.
 [^Gandenberger2016]: @Gandenberger_2016_Why_I_am_not_a_likelihoodist\.
 [^Gelman2017]: @Gelman_2017_Beyond_subjective_and_objective_in_statistics\.
@@ -1258,6 +1263,7 @@ Goodman:
 [^Royall1997]: @Royall_1997_Statistical_Evidence_A_likelihood_paradigm\.
 [^Rozeboom1960]: @Rozeboom_1960_The_fallacy_of_the_null_hypothesis_significance\.
 [^Steinhardt2012]: @Steinhardt_2012_Beyond_Bayesians_and_frequentists\.
+[^Stuart2010p460]: @Stuart_2010_Kendalls_Advanced_Theory_of_Statistics_Vol_2A\, p. 460.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
 [^Wakefield2013]: @Wakefield_2013_Bayesian_and_Frequentist_Regression_Methods\, ch. 4.
 [^Zech1995]: @Zech_1995_Comparing_statistical_data_to_Monte_Carlo\.
