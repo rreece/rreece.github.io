@@ -343,7 +343,7 @@ def make_book(reo):
     cite_author = reo.group('author').split()[0].rstrip(',')
     cite_author_lower = cite_author.lower()
     has_von = False
-    if cite_author_lower in ('van', 'von', 'da', 'de', 'del', 'di', "'t"):
+    if cite_author_lower in ('van', 'ver', 'von', 'da', 'de', 'del', 'di', "'t"):
         cite_author += reo.group('author').split()[1].rstrip(',')
         has_von = True
     cite_year = reo.group('year')

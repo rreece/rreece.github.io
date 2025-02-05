@@ -1518,6 +1518,7 @@ See also:
     -   Hintikka, J. (1999). *Inquiry as Inquiry: A logic of scientific discovery*. [^Hintikka1999]
 -   Schurz
     -   New foundationalist epistemology [^Schurz2019pX]
+    -   See also: [No free lunch theorems](statistics.html#no-free-lunch-theorems)
 -   Scientism
     -   Scientism: Scientific methods and meta-methods are universally applicable (in principle).
     -   See the [Outline on naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)

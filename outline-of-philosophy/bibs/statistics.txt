@@ -130,6 +130,7 @@ Dewey, J. (1938). *Logic: The Theory of Inquiry*. New York: Henry Holt and Co.
 Dhariwal, P. & Nichol, A. (2021). Diffusion models beat GANs on image synthesis. https://arxiv.org/abs/2105.05233
 Dieleman, S., Fauw, J.D., & Kavukcuoglu, K. (2016). Exploiting cyclic symmetry in convolutional neural networks. https://arxiv.org/abs/1602.02660
 Dinan, E., Yaida, S., & Zhang, S. (2023). Effective theory of transformers at initialization. https://arxiv.org/abs/2304.02034
+Doob, J.L. (1935). The limiting distributions of certain statistics. *Annals of Mathematical Statistics*, 6, 160--169. https://www.jstor.org/stable/2957546
 Dosovitskiy, A. et al. (2020). An image is worth 16x16 words: Transformers for image recognition at scale. https://arxiv.org/abs/2010.11929
 Edelman, B.L., Goel, S., Kakade, S., & Zhang, C. (2021). Inductive biases and variable creation in self-attention mechanisms. https://arxiv.org/abs/2110.10090
 Edwards, A.W.F. (1974). The history of likelihood. *International Statistical Review*, 42(1), 9--15.
@@ -418,6 +419,7 @@ van Handel, R. (2016). Probability in high dimensions. https://web.math.princeto
 Vapnik, V., Levin, E., & LeCun, Y. (1994). Measuring the VC-dimension of a learning machine. *Neural Computation*, 6(5), 851--876.
 Vaswani, A. et al. (2017). Attention is all you need. *Advances in Neural Information Processing Systems*, 2017, 5998--6008. https://arxiv.org/abs/1706.03762
 Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]
+Ver Hoef, J.M. (2012). Who invented the delta method? *American Statistician*, 66, 124--127. https://www.jstor.org/stable/23339471
 Vershynin, R. (2018). *High-Dimensional Probability: An Introduction with Applications in Data Science*. Cambridge University Press. https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf
 Wainer, H. (2007). The most dangerous equation. *American Scientist*, 95, 249--256. https://sites.stat.washington.edu/people/peter/498.Sp16/Equation.pdf
 Wakefield, J. (2013). *Bayesian and Frequentist Regression Methods*. Springer.
@@ -435,6 +437,7 @@ Williamson, J. (2009). The philosophy of science and its relation to machine lea
 Wolfram, S. (2023). What is ChatGPT doing---and why does it work? https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 Wolpert, D.H. (1996). The lack of a priori distinctions between learning algorithms. *Neural Computation*, 8, 1341--1390.
 Wolpert, D.H. (2007). Physical limits of inference. https://arxiv.org/abs/0708.1362
+Wolpert, D.H. (2023). The implications of the no-free-lunch theorems for meta-induction. *Journal for General Philosophy of Science*, 54, 421--432. https://link.springer.com/article/10.1007/s10838-022-09609-2
 Wolpert, D.H. & Kinney, D. (2020). Noisy deductive reasoning: How humans construct math, and how math constructs universes. https://arxiv.org/abs/2012.08298
 Wolpert, D.H. & Macready, W.G. (1995). No free lunch theorems for search. [Technical Report SFI-TR-95-02-010, Santa Fe Institute]
 Wolpert, D.H. & Macready, W.G. (1997). No free lunch theorems for optimization. *IEEE Transactions on Evolutionary Computation*, 1, 67--82.

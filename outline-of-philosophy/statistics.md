@@ -329,15 +329,22 @@ and
     &= y^2(\vec{\mu}) + \, \left.\frac{\partial y}{\partial x_i}\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}} V_{ij} \\
 \end{align}
 
-TODO: clarify above, then specific examples.
+TODO:
+
+-   Clarify above, then specific examples.
+-   "The Delta Method"
 
 See:
 
 -   Cowan. [^Cowan1998p20]
+-   Doob, J.L. (1935). [The limiting distributions of certain statistics](https://www.jstor.org/stable/2957546). [^Doob1935]
 -   Arras, K.O. (1998). [An introduction to error propagation: Derivation, meaning and examples of $C_y= F_x C_x F_{x}^{\top}$](http://srl.informatik.uni-freiburg.de/papers/arrasTR98.pdf). [^Arras1998]
+-   Ver Hoef, J.M. (2012). [Who invented the delta method?](https://www.jstor.org/stable/23339471). [^VerHoef2012]
 
 [^Arras1998]: @Arras_1998_An_introduction_to_error_propagation_Derivation\.
 [^Cowan1998p20]: @Cowan_1998_Statistical_Data_Analysis\, p. 20-22.
+[^Doob1935]: @Doob_1935_The_limiting_distributions_of_certain_statistics\.
+[^VerHoef2012]: @Ver_2012_Who_invented_the_delta_method\.
 
 
 ### Bayes' theorem
@@ -2669,6 +2676,7 @@ Theoretical machine learning
     -   McDermott, J. (2019). [When and why metaheuristics researchers can ignore "no free lunch" theorems](https://arxiv.org/abs/1906.03280). [^McDermott2019]
     -   Wolpert, D.H. (2007). [Physical limits of inference](https://arxiv.org/abs/0708.1362). [^Wolpert2007]
     -   Wolpert, D.H. & Kinney, D. (2020). [Noisy deductive reasoning: How humans construct math, and how math constructs universes](https://arxiv.org/abs/2012.08298). [^Wolpert2020]
+    -   Wolpert, D.H. (2023). [The implications of the no-free-lunch theorems for meta-induction](https://link.springer.com/article/10.1007/s10838-022-09609-2). [^Wolpert2023]
 -   Blogs:
     -   Fedden, L. (2017). [The no free lunch theorem](https://medium.com/@LeonFedden/the-no-free-lunch-theorem-62ae2c3ed10c).
     -   Lokesh, M. (2020). [The intuition behind the no free lunch theorem](https://towardsdatascience.com/intuitions-behind-no-free-lunch-theorem-1d160f754513).
@@ -2727,6 +2735,7 @@ Roberts:
 [^Wolpert1997]: @Wolpert_1997_No_free_lunch_theorems_for_optimization\.
 [^Wolpert2007]: @Wolpert_2007_Physical_limits_of_inference\.
 [^Wolpert2020]: @Wolpert_2020_Noisy_deductive_reasoning_How_humans_construct\.
+[^Wolpert2023]: @Wolpert_2023_The_implications_of_the_no_free_lunch_theorems\.
 
 
 ### Connectivists vs symbolicists
