@@ -68,6 +68,7 @@ See also:
 -   [Heraclitus](https://en.wikipedia.org/wiki/Heraclitus) (c. 535-475 BCE)
 -   [Parmenides](https://en.wikipedia.org/wiki/Parmenides) (b. c. 515 BCE)
 -   [Anaxagoras](https://en.wikipedia.org/wiki/Anaxagoras) (c. 510-428 BCE)
+    -   first to suggest that the Sun is a star
 -   [Zeno of Elea](https://en.wikipedia.org/wiki/Zeno_of_Elea) (c. 495-430 BCE)
 -   [Empedocles](https://en.wikipedia.org/wiki/Empedocles) (c. 494-434 BCE)
     -   theory of the four elements
@@ -108,6 +109,7 @@ See also:
 -   [Euclid](http://en.wikipedia.org/wiki/Euclid) (fl. 300 BCE)
     -    logico-deductive method founded by Euclid's *Elements*
 -   [Aristarchus of Samos](http://en.wikipedia.org/wiki/Aristarchus_of_Samos) (310-230 BCE)
+    -   first to posit heliocentrism
 -   [Archimedes](https://en.wikipedia.org/wiki/Archimedes) (c. 287-212 BCE)
     -   *The Method*
 -   [Chrysippus](https://en.wikipedia.org/wiki/Chrysippus) (c. 279-206 BCE)
