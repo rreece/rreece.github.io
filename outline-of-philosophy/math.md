@@ -1128,15 +1128,18 @@ Platonism
 -   Clearly Ed Witten is a platonist. Video: [How is mathematics truth and beauty?](https://www.youtube.com/watch?v=O3isFuQ2q2A) *Closer To Truth*.
 -   De Cruz, H. (2016). [Numerical cognition and mathematical realism](http://hdl.handle.net/2027/spo.3521354.0016.016). [^DeCruz2016]
 -   Carroll, S. (2021). [Mindscape 127: Justin Clarke-Doane on Mathematics, Morality, Objectivity, and Reality](https://www.youtube.com/watch?v=3tvfq8ehHOk).
--   [Abstract object threory](https://en.wikipedia.org/wiki/Abstract_object_theory)
+-   [Abstract object theory](https://en.wikipedia.org/wiki/Abstract_object_theory)
     -   [The Metaphysics Research Lab](https://mally.stanford.edu/index.html) - Stanford, CA
+    -   Zalta, E.N. (1983). [*Abstract Objects: An Introduction to Axiomatic Metaphysics*](https://mally.stanford.edu/abstract-objects.pdf). [^Zalta1983]
+    -   Zalta, E.N. (2024). [*Principia Logico-Metaphysica*](https://mally.stanford.edu/principia.pdf) (Draft). [^Zalta2024]
 
 [^DeCruz2016]: @DeCruz_2016_Numerical_cognition_and_mathematical_realism\.
 [^Quine1948b]: @Quine_1948_On_what_there_is\.
 [^Quine1948p7]: @Quine_1948_On_what_there_is\, p. 7.
 [^Quine1948p9]: @Quine_1948_On_what_there_is\, p. 9.
 [^Tegmark2008]: @Tegmark_2008_The_mathematical_universe\.
-
+[^Zalta1983]: @Zalta_1983_Abstract_Objects_An_Introduction_to_Axiomatic\.
+[^Zalta2024]: @Zalta_2024_Principia_Logico_Metaphysica\.
 
 
 ### Visual proofs
