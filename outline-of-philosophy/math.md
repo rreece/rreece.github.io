@@ -1018,6 +1018,7 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
 -   Proposed by Robert Langlands (1967, 1970).
 -   [Fundamental lemma](https://en.wikipedia.org/wiki/Fundamental_lemma_(Langlands_program))
+-   Gaitsgory, D., Raskin, S., et al. (2024). [Proof of the geometric Langlands conjecture](https://people.mpim-bonn.mpg.de/gaitsgde/GLC/).
 
 
 ### Univalent foundations
