@@ -18,6 +18,7 @@ Brouwer, L.E.J. (1908). Unreliability of the logical principles. https://arxiv.o
 Bueno, O. (2010). A defense of second-order logic. *Axiomathes*, 20, 365--383. https://web.as.miami.edu/personal/obueno/Site/Online_Papers_files/SecnOrd_FINAL.pdf
 Bueno, O. (2013). Nominalism in the philosophy of mathematics. *Stanford Encyclopedia of Philosophy*. http://plato.stanford.edu/entries/nominalism-mathematics/
 Burgess, J.P. (1983). Why I am not a nominalist. *Notre Dame Journal of Formal Logic*, 24(1), 93--105.
+Burke, W.L. (1985). *Applied Differential Geometry*. Cambridge University Press.
 Button, T. & Walsh, S. (2018). *Philosophy and Model Theory*. Oxford University Press.
 Carnap, R. (1947). *Meaning and Necessity*. University of Chicago Press.
 Carnap, R. (1958). *Introduction to Symbolic Logic and its Applications*. New York: Dover Publications.
@@ -38,6 +39,8 @@ Field, H. (1989). *Realism, Mathematics, and Modality*. Oxford: Blackwell.
 Field, H. (2016). *Science Without Numbers* (2nd ed.). Oxford University Press. [(Originally published in 1980 by Princeton University Press)]
 Fong, B. & Spivak, D.I. (2018). Seven sketches in compositionality: An invitation to applied category theory. https://arxiv.org/abs/1803.05316
 Franz\'{e}n, T. (2005). *G{\"o}del's Theorem: An incomplete guide to its use and abuse*. A K Peters.
+Frankel, T. (1997). *The Geometry of Physics: An Introduction*. Cambridge University Press.
+Frenkel, E. (2005). Lectures on the Langlands program and conformal field theory. https://arxiv.org/abs/hep-th/0512172
 Girard, J.Y. (1987). Linear logic. *Theoretical Computer Science*, 50, 1--102. http://girard.perso.math.cnrs.fr/linear.pdf
 G{\"o}del, K. (1929). *{\"U}ber die Vollst{\"a}ndigkeit des Logikkalk{\"u}ls*. University Of Vienna. [(Doctoral dissertation. The first proof of the completeness theorem.)]
 G{\"o}del, K. (1931). {\"U}ber formal unentscheidbare S{\"a}tze der Principia Mathematica und verwandter Systeme, I. *Monatshefte f{\"u}r Mathematik und Physik*, 38, 173--198.

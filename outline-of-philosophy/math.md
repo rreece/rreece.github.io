@@ -200,6 +200,8 @@ TODO
     -   Tong, D. (2022). [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html).
 -   Differential forms
     -   Manifold, tangent and cotangent spaces, vector bundle, fiber bundle
+    -   Burke, W.L. (1985). *Applied Differential Geometry*. [^Burke1985]
+    -   Frankel, T. (1997). *The Geometry of Physics: An Introduction*. [^Frankel1997]
     -   Review by Fr&egrave; [^Fre2013v1ch2]
     -   Varadarajan, V. S. (2003). Vector bundles and connections in physics and mathematics: some historical remarks. [^Varadarajan2003]
     -   Tao, T. (2007). [Differential forms and integration](https://www.math.ucla.edu/~tao/preprints/forms.pdf). [^Tao2007]
@@ -218,7 +220,9 @@ See also:
 -   [Fiber bundles](physics.html#fiber-bundles)
 
 [^Bronstein2021p56]: @Bronstein_2021_Geometric_deep_learning_Grids_groups_graphs\, p. 56--60.
+[^Burke1985]: @Burke_1985_Applied_Differential_Geometry\.
 [^Connes1985a]: @Connes_1985_Non_commutative_differential_geometry\.
+[^Frankel1997]: @Frankel_1997_The_Geometry_of_Physics_An_Introduction\.
 [^Fre2013v1ch2]: @Fre_2013_Gravity_a_Geometrical_Course_Volume_1\, ch. 2.
 [^Sussman2013]: @Sussman_2013_Functional_Differential_Geometry\.
 [^Tao2007]: @Tao_2007_Differential_forms_and_integration\.
@@ -1016,9 +1020,17 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 ### Langlands program
 
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
--   Proposed by Robert Langlands (1967, 1970).
+-   [Geometric Langlands correspondence](https://en.wikipedia.org/wiki/Geometric_Langlands_correspondence)
+-   Proposed by Robert Langlands (1967, 1970)
+-   It translates number-theoretic problems into geometric ones.
 -   [Fundamental lemma](https://en.wikipedia.org/wiki/Fundamental_lemma_(Langlands_program))
--   Gaitsgory, D., Raskin, S., et al. (2024). [Proof of the geometric Langlands conjecture](https://people.mpim-bonn.mpg.de/gaitsgde/GLC/).
+    -   Proved by G&eacute;rard Laumon and Ng&ocirc; B&#7843;o Ch&acirc;u (2010)
+-   Endoscopic groups
+-   Local Langlands correspondence vs global
+-   Frenkel, E. (2005). [Lectures on the Langlands program and conformal field theory](https://arxiv.org/abs/hep-th/0512172). [^Frenkel2005]
+-   Gaitsgory, D., Raskin, S., et al. (2024). [Proof of the geometric Langlands conjecture](https://people.mpim-bonn.mpg.de/gaitsgde/GLC/). (May 2024).
+
+[^Frenkel2005]: @Frenkel_2005_Lectures_on_the_Langlands_program_and_conformal\.
 
 
 ### Univalent foundations
