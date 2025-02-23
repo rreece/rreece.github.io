@@ -1020,9 +1020,9 @@ Yanofsky, N.S. (2016). Why mathematics works so well:
 ### Langlands program
 
 -   [Langlands program](https://en.wikipedia.org/wiki/Langlands_program)
+    -   Proposed by Robert Langlands (1967, 1970)
 -   [Geometric Langlands correspondence](https://en.wikipedia.org/wiki/Geometric_Langlands_correspondence)
--   Proposed by Robert Langlands (1967, 1970)
--   It translates number-theoretic problems into geometric ones.
+    -   It translates number-theoretic problems into geometric ones.
 -   [Fundamental lemma](https://en.wikipedia.org/wiki/Fundamental_lemma_(Langlands_program))
     -   Proved by G&eacute;rard Laumon and Ng&ocirc; B&#7843;o Ch&acirc;u (2010)
 -   Endoscopic groups
