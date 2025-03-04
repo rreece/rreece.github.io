@@ -81,6 +81,7 @@ Cao, T.Y. (1999). *Conceptual Foundations of Quantum Field Theory*. Cambridge Un
 Cao, T.Y. (2003). Structural realism and the interpretation of quantum field theory. *Synthese*, 136, 3--24. https://www.jstor.org/stable/20117384
 Cao, T.Y. (2016). The Englert-Brout-Higgs mechanism: An unfinished project. *International Journal of Modern Physics A*, 31(35), 1630061. 
 Capdevilla, R., Curtin, D., Kahn, Y., & Krnjaic, G. (2021). A no-lose theorem for discovering the new physics of $(g-2)_\mu$ at muon colliders. https://arxiv.org/abs/2101.10334
+Carcassi, G., Maccone, L., & Aidala, C.A. (2020). The four postulates of quantum mechanics are three. https://arxiv.org/abs/2003.11007
 Carcassi, G., Calderon, F., & Aidala, C.A. (2023). The unphysicality of Hilbert spaces. https://arxiv.org/abs/2308.06669
 Carnap, R. (1966). *Philosophical Foundations of Physics*. Basic Books.
 Carroll, S.M. (2004). *Spacetime and Geometry*. Addison Wesley.

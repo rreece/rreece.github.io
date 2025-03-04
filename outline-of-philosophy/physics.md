@@ -545,6 +545,7 @@ TODO: Note that Everettian QM would argue the Born rule is secondary and derivab
 -   Orthodox QM
     -   Moretti, V. (2015). [Mathematical foundations of quantum mechanics: An advanced short course](https://arxiv.org/abs/1508.06951). [^Moretti2015]
     -   Wallace, D. (2016). [What is orthodox quantum mechanics?](https://arxiv.org/abs/1604.05973) [^Wallace2016]
+    -   Carcassi, G., Maccone, L., & Aidala, C.A. (2020). [The four postulates of quantum mechanics are three](https://arxiv.org/abs/2003.11007). [^Carcassi2020]
 -   Too much focus on NRQM
     -   Wallace, D. (2020). [Lessons from realistic physics for the metaphysics of quantum theory](https://link.springer.com/article/10.1007/s11229-018-1706-y). [^Wallace2020]
 -   Hilbert spaces
@@ -563,6 +564,7 @@ See also:
 -   [Wigner-Stone theorems](#wigner-stone-theorems)
 
 [^Baez2011a]: @Baez_2011_Division_algebras_and_quantum_theory\.
+[^Carcassi2020]: @Carcassi_2020_The_four_postulates_of_quantum_mechanics_are_three\.
 [^Carcassi2023]: @Carcassi_2023_The_unphysicality_of_Hilbert_spaces\.
 [^Madrid2005]: @dela_2005_The_role_of_the_rigged_Hilbert_space_in_quantum\.
 [^Morales2014]: @Morales_2014_The_geometric_semantics_of_algebraic_quantum\.
