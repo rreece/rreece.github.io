@@ -692,6 +692,7 @@ Meditation:
     -   A bodhi is aware of the capacity for nirvana.
 -   [nirvana/nibb&amacr;na](https://en.wikipedia.org/wiki/Nirvana)
     -   Liberation (literally "blown out") from sams&amacr;ra, equivalent to moksha.
+-   [Sot&amacr;panna](https://en.wikipedia.org/wiki/Sot%C4%81panna) - "stream enterer"
 -   [arhat/arahant](https://en.wikipedia.org/wiki/Arhaa)
     -   One who has achieved enlightenment (bodhi)
     -   In the Mah&amacr;y&amacr;na tradition, an arhat is far along the path of enlightenment
@@ -824,15 +825,17 @@ See also:
 -   [Buddhaghosa](https://en.wikipedia.org/wiki/Buddhaghosa) (c. 5th century CE)
     -   metaphysical idealist
 -   [Thai Forest Tradition](https://en.wikipedia.org/wiki/Thai_Forest_Tradition)
--   [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi) (b. 1944)
--   [Bhikkhu Th&amacr;nissaro](https://en.wikipedia.org/wiki/%E1%B9%ACh%C4%81nissaro_Bhikkhu) (b. 1949)
--   [Joseph Goldstein](https://en.wikipedia.org/wiki/Joseph_Goldstein_(writer)) (b. 1944)
--   [Jack Kornfield](https://en.wikipedia.org/wiki/Jack_Kornfield) (b.1945)
--   [Sharon Salzberg](https://en.wikipedia.org/wiki/Sharon_Salzberg) (b. 1952)
--   [Gil Fronsdal](https://en.wikipedia.org/wiki/Gil_Fronsdal) (b. 1954)
--   [Insight Meditation Society](https://en.wikipedia.org/wiki/Insight_Meditation_Society), Barre, MA, USA
--   [Insight Meditation Center](https://www.insightmeditationcenter.org), Redwood City, CA, USA
--   [Spirit Rock Meditation Center](https://en.wikipedia.org/wiki/Spirit_Rock_Meditation_Center), Woodacre, CA, USA
+-   Buddhism in the West
+    -   [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi) (b. 1944)
+    -   [Bhikkhu Th&amacr;nissaro](https://en.wikipedia.org/wiki/%E1%B9%ACh%C4%81nissaro_Bhikkhu) (b. 1949)
+    -   [Joseph Goldstein](https://en.wikipedia.org/wiki/Joseph_Goldstein_(writer)) (b. 1944)
+    -   [Jack Kornfield](https://en.wikipedia.org/wiki/Jack_Kornfield) (b.1945)
+    -   [Sharon Salzberg](https://en.wikipedia.org/wiki/Sharon_Salzberg) (b. 1952)
+    -   [Gil Fronsdal](https://en.wikipedia.org/wiki/Gil_Fronsdal) (b. 1954)
+        -   Fronsdal, G. (1998). [Insight meditation in the United States: Life, liberty, and the pursuit of happiness](https://www.insightmeditationcenter.org/books-articles/insight-meditation-in-the-united-states-life-liberty-and-the-pursuit-of-happiness/).
+    -   [Insight Meditation Society](https://en.wikipedia.org/wiki/Insight_Meditation_Society), Barre, MA, USA
+    -   [Insight Meditation Center](https://www.insightmeditationcenter.org), Redwood City, CA, USA
+    -   [Spirit Rock Meditation Center](https://en.wikipedia.org/wiki/Spirit_Rock_Meditation_Center), Woodacre, CA, USA
 
 [^Nanamoli1992]: @Nanamoli_1992_The_Life_of_the_Buddha_According_to_the_Pali\.
 
