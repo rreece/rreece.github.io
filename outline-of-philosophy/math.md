@@ -343,6 +343,7 @@ Pedagogy:
 
 -   Hunter, G. (1971). *Metalogic: An Introduction to the Metatheory of Standard First-Order Logic*. [^Hunter1971]
 -   Monk, J.D. (1976). *Mathematical Logic*. [^Monk1976]
+-   Sullivan, B.W. (2013). [*Everything You Always Wanted To Know About Mathematics*](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf). [^Sullivan2013]
 -   Smith, P. (2020). *An Introduction to Formal Logic*. [^Smith2020]
 -   Smith, P. (2022). *Beginning Mathematical Logic A Study Guide*. [^Smith2022]
 
@@ -364,6 +365,7 @@ More:
 [^OpenLogicText]: @Open_2020_The_Open_Logic_Text\.
 [^Smith2020]: @Smith_2020_An_Introduction_to_Formal_Logic\.
 [^Smith2022]: @Smith_2022_Beginning_Mathematical_Logic_A_Study_Guide\.
+[^Sullivan2013]: @Sullivan_2013_Everything_You_Always_Wanted_To_Know_About\.
 [^Teller1989]: @Teller_1989_A_Modern_Formal_Logic_Primer\.
 
 

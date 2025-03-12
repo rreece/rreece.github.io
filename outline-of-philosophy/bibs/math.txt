@@ -103,6 +103,7 @@ Smith, P. (2022). *Beginning Mathematical Logic: A Study Guide*. https://www.log
 Snapper, E. (1979). The three crises in mathematics: Logicism, intuitionism and formalism. *Mathematics Magazine*, 52, 207--216. https://www.maa.org/sites/default/files/pdf/upload_library/22/Allendoerfer/1980/0025570x.di021111.02p0048m.pdf
 Spivak, D.I. (2013). Category theory for scientists. https://arxiv.org/abs/1302.6946
 Stillwell, J. (2004). Emil Post and his anticipation of G{\"o}del and Turing. *Mathematics Magazine*, 77, 3--14.
+Sullivan, B.W. (2013). *Everything You Always Wanted To Know About Mathematics*. Carnegie Mellon University. https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf [(Ph.D. thesis)]
 Sussman, G.J. & Wisdom, J. (2013). *Functional Differential Geometry*. MIT Press. https://mitpress.mit.edu/books/functional-differential-geometry
 Tait, W.W. (1983). Against intuitionism: Constructive mathematics is part of classical mathematics. *Journal of Philosophical Logic*, 12, 173--195. 
 Tao, T. (2007). Differential forms and integration. https://www.math.ucla.edu/~tao/preprints/forms.pdf
