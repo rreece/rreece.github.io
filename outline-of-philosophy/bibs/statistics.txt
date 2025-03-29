@@ -94,6 +94,7 @@ Chowdhery, A. et al. (2022). PaLM: Scaling language modeling with pathways. http
 Church, K.W. & Hestness, J. (2019). A survey of 25 years of evaluation. *Natural Language Engineering*, 25(6), 753--767. https://www.cambridge.org/core/journals/natural-language-engineering/article/survey-of-25-years-of-evaluation/E4330FAEB9202EC490218E3220DDA291
 Cilibrasi, R. & Vitanyi, P.M.B. (2005). Clustering by compression. *IEEE Transactions on Information Theory*, 51(4), 1523--1545.
 Ciresan, D., Meier, U. Masci, J. & Schmidhuber, J. (2012). Multi-column deep neural network for traffic sign classification. *Neural Networks*, 32, 333--338. https://arxiv.org/abs/1202.2745
+Clayton, A. (2021). *Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science*. Columbia University Press.
 Clopper, C.J. & Pearson, E.S. (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. *Biometrika*, 26(4), 404--413.
 Coadou, Y. (2022). Boosted decision trees. https://arxiv.org/abs/2206.09645
 Cohen, J. (1992). A power primer. *Psychological Bulletin*, 112, 155--9. https://www2.psych.ubc.ca/~schaller/528Readings/Cohen1992.pdf
@@ -421,6 +422,7 @@ Vaswani, A. et al. (2017). Attention is all you need. *Advances in Neural Inform
 Venn, J. (1888). *The Logic of Chance*. London: MacMillan and Co. [(Originally published in 1866)]
 Ver Hoef, J.M. (2012). Who invented the delta method? *American Statistician*, 66, 124--127. https://www.jstor.org/stable/23339471
 Vershynin, R. (2018). *High-Dimensional Probability: An Introduction with Applications in Data Science*. Cambridge University Press. https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf
+Wagenmakers, E.J. (2021). Review: Bernoulli’s Fallacy. *Chance*, 34, 37--38. https://www.tandfonline.com/doi/full/10.1080/09332480.2021.2003642
 Wainer, H. (2007). The most dangerous equation. *American Scientist*, 95, 249--256. https://sites.stat.washington.edu/people/peter/498.Sp16/Equation.pdf
 Wakefield, J. (2013). *Bayesian and Frequentist Regression Methods*. Springer.
 Wald, A. (1943). Tests of statistical hypotheses concerning several parameters when the number of observations is large. *Transactions of the American Mathematical Society*, 54, 426--482. https://www.ams.org/journals/tran/1943-054-03/S0002-9947-1943-0012401-3/S0002-9947-1943-0012401-3.pdf

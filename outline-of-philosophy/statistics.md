@@ -1233,6 +1233,9 @@ Lyons:
 -   Steinhardt, J. (2012). [Beyond Bayesians and frequentists](https://jsteinhardt.stat.berkeley.edu/files/stats-essay.pdf). [^Steinhardt2012]
 -   VanderPlas, J. (2014). [Frequentism and Bayesianism III: Confidence, credibility, and why frequentism and science do not mix](https://jakevdp.github.io/blog/2014/06/12/frequentism-and-bayesianism-3-confidence-credibility/).
 -   Kent, B. (2021). [No, your confidence interval is not a worst-case analysis](https://www.crosstab.io/articles/confidence-interval-interpretation).
+-   Aubrey Clayton
+    -   Clayton, A. (2021). *Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science*. [^Clayton2021]
+    -   Wagenmakers, E.J. (2021). [Review: Bernoulli’s Fallacy](https://www.tandfonline.com/doi/full/10.1080/09332480.2021.2003642). [^Wagenmakers2021]
 
 ![The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference ([gandenberger.org/research/](http://gandenberger.org/research/), 2015).](img/gandenberger-thesis-venn-diagram.png){#fig:gandenberger-thesis-venn-diagram}
 
@@ -1253,6 +1256,7 @@ Goodman:
 [^Birnbaum1962]: @Birnbaum_1962_On_the_foundations_of_statistical_inference\.
 [^Carnap1952b]: @Carnap_1952_The_Continuum_of_Inductive_Methods\.
 [^Carnap1960b]: @Carnap_1960_Logical_Foundations_of_Probability\.
+[^Clayton2021]: @Clayton_2021_Bernoullis_Fallacy_Statistical_Illogic\.
 [^Efron2016p30]: @Efron_2016_Computer_Age_Statistical_Inference_Algorithms\, p. 30--36.
 [^Gandenberger2016]: @Gandenberger_2016_Why_I_am_not_a_likelihoodist\.
 [^Gelman2017]: @Gelman_2017_Beyond_subjective_and_objective_in_statistics\.
@@ -1272,6 +1276,7 @@ Goodman:
 [^Steinhardt2012]: @Steinhardt_2012_Beyond_Bayesians_and_frequentists\.
 [^Stuart2010p460]: @Stuart_2010_Kendalls_Advanced_Theory_of_Statistics_Vol_2A\, p. 460.
 [^Sznajder2018]: @Sznajder_2018_Inductive_logic_as_explication_The_evolution\.
+[^Wagenmakers2021]: @Wagenmakers_2021_Review_Bernoullis_Fallacy\.
 [^Wakefield2013]: @Wakefield_2013_Bayesian_and_Frequentist_Regression_Methods\, ch. 4.
 [^Zech1995]: @Zech_1995_Comparing_statistical_data_to_Monte_Carlo\.
 
