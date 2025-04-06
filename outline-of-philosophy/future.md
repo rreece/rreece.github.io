@@ -114,6 +114,7 @@ Artificial intelligence
 -   Gwern. (2020). [The scaling hypothesis](https://www.gwern.net/Scaling-hypothesis#scaling-hypothesis).
 -   Carroll, S. & Russell, S. (2020). Video: [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
     -   Russell: AI gives us the Midas touch
+-   Kokotajlo, D. (2021). [What 2026 looks like](https://www.lesswrong.com/posts/6Xgy6CAf2jqHhynHL/what-2026-looks-like/).
 -   Zhang, D. et al. (2021). [The AI Index 2021 Annual Report](https://arxiv.org/abs/2103.06312). [^Zhang2021]
 -   Zhang, D. et al. (2022). [The AI Index 2022 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf). [^Zhang2022]
 -   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
@@ -129,6 +130,7 @@ Artificial intelligence
 -   Aschenbrenner, L. (2024). [Situational Awareness: The decade ahead](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf). [^Aschenbrenner2024]
 -   Zuckerberg, M. (2024). [Open source AI is the path forward](https://www.facebook.com/4/posts/10115716861061241/),
 -   Amodei, D. (2024). [Machines of loving grace](https://darioamodei.com/machines-of-loving-grace).
+-   Kokotajlo, D., Alexander, S., Larsen, T., Lifland, E., & Dean, R. (2025). [AI 2027](https://ai-2027.com/).
 
 See also:
 
