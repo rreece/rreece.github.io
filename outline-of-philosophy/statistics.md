@@ -2237,6 +2237,7 @@ See also:
 -   Gurnee, W. et al. (2023). [Finding neurons in a haystack: Case studies with sparse probing](https://arxiv.org/abs/2305.01610). [^Gurnee2023a]
 -   Meng, K., Bau, D., Andonian, A., & Belinkov, Y. (2023). [Locating and editing factual associations in GPT](https://arxiv.org/abs/2202.05262). [^Meng2023]
 -   McDougall, C., Conmy, A., Rushing, C., McGrath, T., & Nanda, N. (2023). [Copy suppression: Comprehensively understanding an attention head](https://arxiv.org/abs/2310.04625). [^McDougall2023]
+-   Anthropic. (2025). [On the biology of a large language model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html).
 
 Linear probes:
 
