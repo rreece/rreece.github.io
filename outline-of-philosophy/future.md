@@ -116,6 +116,7 @@ Artificial intelligence
     -   Russell: AI gives us the Midas touch
 -   Kokotajlo, D. (2021). [What 2026 looks like](https://www.lesswrong.com/posts/6Xgy6CAf2jqHhynHL/what-2026-looks-like/).
 -   Zhang, D. et al. (2021). [The AI Index 2021 Annual Report](https://arxiv.org/abs/2103.06312). [^Zhang2021]
+-   Karnofsky, H. (2022). [AI could defeat all of us combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/).
 -   Zhang, D. et al. (2022). [The AI Index 2022 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf). [^Zhang2022]
 -   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 -   Benaich, N. & Hogarth, I. (2022). [State of AI Report 2022](https://www.stateof.ai/2022-report-launch.html).
@@ -125,6 +126,7 @@ Artificial intelligence
 -   Future of Life Institute. (2023). [Policymaking in the Pause: What can policymakers do now to combat risks from advanced AI systems?](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf).
 -   Altman, S. (2023). [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond).
 -   Bubeck, S. et al. (2023). [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712). [^Bubeck2023b]
+-   Finnveden, L., Riedel, J., & Shulman, C. (2023). [AGI and lock-in](https://www.forethought.org/research/agi-and-lock-in).
 -   Maslej, N. et al. (2023). [The AI Index 2023 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf). [^Maslej2023]
 -   Maslej, N. et al. (2024). [The AI Index 2024 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf). [^Maslej2024]
 -   Aschenbrenner, L. (2024). [Situational Awareness: The decade ahead](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf). [^Aschenbrenner2024]
