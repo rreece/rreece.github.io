@@ -245,8 +245,10 @@ See also:
 -   [Clever Hans](https://en.wikipedia.org/wiki/Clever_Hans)
 -   [Washoe the chimpanzee](https://en.wikipedia.org/wiki/Washoe_(chimpanzee))
 -   Pianalto, M. (2012). [Thoughts, propositions, and animals](http://mpianalto.blogspot.com/2012/07/thoughts-propositions-and-animals.html).
+-   McKay, S. (2020). [The marvel of language: Knowns, unknowns, and maybes](https://www.jstor.org/stable/26977687). [^McKay2020]
 
 [^Davidson1982]: @Davidson_1982_Rational_animals\.
+[^McKay2020]: @McKay_2020_The_marvel_of_language_Knowns_unknowns\.
 
 
 Free will
