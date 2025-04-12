@@ -98,6 +98,13 @@ See also:
 [^Zee2016]: @Zee_2016_Group_Theory_in_a_Nutshell_for_Physicists\.
 
 
+### Abstract algebra
+
+-   A field is a commutative division ring.
+-   Vector space
+-   Modules are to rings as vector spaces are to fields.
+
+
 ### More
 
 -   Jordan algebras
