@@ -444,6 +444,7 @@ Wolpert, D.H. & Kinney, D. (2020). Noisy deductive reasoning: How humans constru
 Wolpert, D.H. & Macready, W.G. (1995). No free lunch theorems for search. [Technical Report SFI-TR-95-02-010, Santa Fe Institute]
 Wolpert, D.H. & Macready, W.G. (1997). No free lunch theorems for optimization. *IEEE Transactions on Evolutionary Computation*, 1, 67--82.
 Wu, Y. et al. (2016). Google's neural machine translation system: Bridging the gap between human and machine translation. https://arxiv.org/abs/1409.0473
+Xu, Z., van Hasselt, H., & Silver, D. (2018). Meta-gradient reinforcement learning. https://arxiv.org/abs/1805.09801
 Yang, T. & Suzuki, J. (2023). Dropout drops double descent. https://arxiv.org/abs/2305.16179
 Yang, Z. et al. (2019). XLNet: Generalized autoregressive pretraining for language understanding. https://arxiv.org/abs/1906.08237
 Zaheer, M. et al. (2020). Big Bird: Transformers for longer sequences. https://arxiv.org/abs/2007.14062

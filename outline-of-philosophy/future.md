@@ -134,6 +134,7 @@ Artificial intelligence
 -   Amodei, D. (2024). [Machines of loving grace](https://darioamodei.com/machines-of-loving-grace).
 -   Kokotajlo, D., Alexander, S., Larsen, T., Lifland, E., & Dean, R. (2025). [AI 2027](https://ai-2027.com/).
 -   Perrault, R. et al. (2025). [Artificial Intelligence Index Report 2025](https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf). [^Perrault2025]
+-   Silver, D. & Sutton. R.S. (2025). [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf).
 
 See also:
 

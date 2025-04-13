@@ -2279,6 +2279,7 @@ More:
 
 -   [List by OpenAI of key RL papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 -   [List of game AI codes by DATA Lab](https://github.com/datamllab/awesome-game-ai)
+-   Xu, Z., van Hasselt, H., & Silver, D. (2018). [Meta-gradient reinforcement learning](https://arxiv.org/abs/1805.09801). [^Xu2018]
 -   Chen, L. et al. (2021). [Decision Transformer: Reinforcement learning via sequence modeling](https://arxiv.org/abs/2106.01345).
 -   Silver, D., Singh, S., Precup, D., & Sutton, R.S. (2024). [Reward is enough](https://www.sciencedirect.com/science/article/pii/S0004370221000862). [^Silver2024]
 
@@ -2286,6 +2287,7 @@ More:
 [^CesaBianchi2006]: @Cesa_Bianchi_2006_Prediction_Learning_and_Games\.
 [^Silver2024]: @Silver_2024_Reward_is_enough\.
 [^Sutton2018]: @Sutton_2018_Reinforcement_Learning\.
+[^Xu2018]: @Xu_2018_Meta_gradient_reinforcement_learning\.
 
 
 #### Q-learning
