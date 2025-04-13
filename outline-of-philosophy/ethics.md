@@ -898,6 +898,7 @@ Ecology
     -   Peter Singer (b. 1946)
     -   Michael Huemer (b. 1969)
     -   Jonathan Safran Foer (b. 1977)
+    -   [Herbivorize Predators](https://www.herbivorizepredators.org/our-mission/)
 -   [Climate justice](https://plato.stanford.edu/entries/justice-climate/)
 -   [Hyperobjects](https://en.wikipedia.org/wiki/Timothy_Morton#Hyperobjects)
     -   Timothy Morton (b. 1968)
