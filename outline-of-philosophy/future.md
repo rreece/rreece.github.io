@@ -133,6 +133,7 @@ Artificial intelligence
 -   Zuckerberg, M. (2024). [Open source AI is the path forward](https://www.facebook.com/4/posts/10115716861061241/),
 -   Amodei, D. (2024). [Machines of loving grace](https://darioamodei.com/machines-of-loving-grace).
 -   Kokotajlo, D., Alexander, S., Larsen, T., Lifland, E., & Dean, R. (2025). [AI 2027](https://ai-2027.com/).
+-   Perrault, R. et al. (2025). [Artificial Intelligence Index Report 2025](https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf). [^Perrault2025]
 
 See also:
 
@@ -147,6 +148,7 @@ See also:
 [^Marcus2018]: @Marcus_2018_Deep_learning_A_critical_appraisal\.
 [^Maslej2023]: @Maslej_2023_The_AI_Index_2023_Annual_Report\.
 [^Maslej2024]: @Maslej_2024_The_AI_Index_2024_Annual_Report\.
+[^Perrault2025]: @Perrault_2025_Artificial_Intelligence_Index_Report_2025\.
 [^Russell1995]: @Russell_1995_Artificial_Intelligence_A_modern_approach\.
 [^WaitButWhy2015]: @Urban_2015_The_AI_Revolution_The_Road_to_Superintelligence\.
 [^Zhang2021]: @Zhang_2021_The_AI_Index_2021_Annual_Report\.
