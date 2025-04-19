@@ -112,27 +112,15 @@ Artificial intelligence
 -   Urban, T. (2015). [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html). [^WaitButWhy2015]
 -   Marcus, G. (2018). [Deep learning: A critical appraisal](https://arxiv.org/abs/1801.00631). [^Marcus2018]
 -   Gwern. (2020). [The scaling hypothesis](https://www.gwern.net/Scaling-hypothesis#scaling-hypothesis).
--   Carroll, S. & Russell, S. (2020). Video: [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
-    -   Russell: AI gives us the Midas touch
--   Kokotajlo, D. (2021). [What 2026 looks like](https://www.lesswrong.com/posts/6Xgy6CAf2jqHhynHL/what-2026-looks-like/).
 -   Zhang, D. et al. (2021). [The AI Index 2021 Annual Report](https://arxiv.org/abs/2103.06312). [^Zhang2021]
--   Karnofsky, H. (2022). [AI could defeat all of us combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/).
 -   Zhang, D. et al. (2022). [The AI Index 2022 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2022/03/2022-AI-Index-Report_Master.pdf). [^Zhang2022]
 -   Marcus, G. (2022). [Deep learning is hitting a wall: What would it take for artificial intelligence to make real progress?](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 -   Benaich, N. & Hogarth, I. (2022). [State of AI Report 2022](https://www.stateof.ai/2022-report-launch.html).
--   Cotra, A. (2022). [Two-year update on my personal AI timelines](https://www.lesswrong.com/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines).
 -   Steinhardt, J. (2023). [Forecasting ML Benchmarks in 2023](https://bounded-regret.ghost.io/forecasting-math-and-mmlu-in-2023/).
--   Future of Life Institute. (2023). [Pause giant AI experiments: An open letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/).
--   Future of Life Institute. (2023). [Policymaking in the Pause: What can policymakers do now to combat risks from advanced AI systems?](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf).
--   Altman, S. (2023). [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond).
 -   Bubeck, S. et al. (2023). [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712). [^Bubeck2023b]
--   Finnveden, L., Riedel, J., & Shulman, C. (2023). [AGI and lock-in](https://www.forethought.org/research/agi-and-lock-in).
 -   Maslej, N. et al. (2023). [The AI Index 2023 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2023/04/HAI_AI-Index-Report_2023.pdf). [^Maslej2023]
 -   Maslej, N. et al. (2024). [The AI Index 2024 Annual Report](https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf). [^Maslej2024]
--   Aschenbrenner, L. (2024). [Situational Awareness: The decade ahead](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf). [^Aschenbrenner2024]
--   Zuckerberg, M. (2024). [Open source AI is the path forward](https://www.facebook.com/4/posts/10115716861061241/),
--   Amodei, D. (2024). [Machines of loving grace](https://darioamodei.com/machines-of-loving-grace).
--   Kokotajlo, D., Alexander, S., Larsen, T., Lifland, E., & Dean, R. (2025). [AI 2027](https://ai-2027.com/).
+-   Zuckerberg, M. (2024). [Open source AI is the path forward](https://www.facebook.com/4/posts/10115716861061241/).
 -   Perrault, R. et al. (2025). [Artificial Intelligence Index Report 2025](https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf). [^Perrault2025]
 -   Silver, D. & Sutton. R.S. (2025). [Welcome to the Era of Experience](https://storage.googleapis.com/deepmind-media/Era-of-Experience%20/The%20Era%20of%20Experience%20Paper.pdf).
 
@@ -143,7 +131,6 @@ See also:
 -   [Artificial intelligence and mind](mind.html#artificial-intelligence-and-mind)
 
 [^Armstrong2014]: @Armstrong_2014_The_errors_insights_and_lessons_of_famous_AI\.
-[^Aschenbrenner2024]: @Aschenbrenner_2024_Situational_Awareness_The_decade_ahead\.
 [^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
 [^Bubeck2023b]: @Bubeck_2023_Sparks_of_Artificial_General_Intelligence_Early\.
 [^Marcus2018]: @Marcus_2018_Deep_learning_A_critical_appraisal\.
@@ -163,9 +150,24 @@ See also:
 >   We have the technology to totally fill Twitter, email, and the web up with reasonable-sounding,
 >   context-appropriate prose, which would drown out all other speech and be impossible to filter. [^Vincent2019]
 
+-   Carroll, S. & Russell, S. (2020). Video: [Stuart Russell on making artificial intelligence compatible with humans](https://www.youtube.com/watch?v=txGYG60TICA). Mindscape 94.
+    -   Russell: AI gives us the Midas touch
+-   Kokotajlo, D. (2021). [What 2026 looks like](https://www.lesswrong.com/posts/6Xgy6CAf2jqHhynHL/what-2026-looks-like/).
+-   Karnofsky, H. (2022). [AI could defeat all of us combined](https://www.cold-takes.com/ai-could-defeat-all-of-us-combined/).
+-   Cotra, A. (2022). [Two-year update on my personal AI timelines](https://www.lesswrong.com/posts/AfH2oPHCApdKicM4m/two-year-update-on-my-personal-ai-timelines).
+-   Future of Life Institute. (2023). [Pause giant AI experiments: An open letter](https://futureoflife.org/open-letter/pause-giant-ai-experiments/).
+-   Future of Life Institute. (2023). [Policymaking in the Pause: What can policymakers do now to combat risks from advanced AI systems?](https://futureoflife.org/wp-content/uploads/2023/04/FLI_Policymaking_In_The_Pause.pdf).
+-   Altman, S. (2023). [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond).
+-   Finnveden, L., Riedel, J., & Shulman, C. (2023). [AGI and lock-in](https://www.forethought.org/research/agi-and-lock-in).
+-   Aschenbrenner, L. (2024). [Situational Awareness: The decade ahead](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf). [^Aschenbrenner2024]
+-   Amodei, D. (2024). [Machines of loving grace](https://darioamodei.com/machines-of-loving-grace).
 -   Gabriel, I. et al. (DeepMind). (2024). [The ethics of advanced AI assistants](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/ethics-of-advanced-ai-assistants/the-ethics-of-advanced-ai-assistants-2024-i.pdf). [^Gabriel2024]
 -   Longpre, S. (2024). [Consent in crisis: The rapid decline of the AI data commons](https://www.dataprovenance.org/Consent_in_Crisis.pdf). [^Longpre2024]
+-   Kokotajlo, D., Alexander, S., Larsen, T., Lifland, E., & Dean, R. (2025). [AI 2027](https://ai-2027.com/).
+-   Bengio, Y. et al. (2025). [International AI Safety Report](https://arxiv.org/abs/2501.17805). [^Bengio2025]
 
+[^Aschenbrenner2024]: @Aschenbrenner_2024_Situational_Awareness_The_decade_ahead\.
+[^Bengio2025]: @Bengio_2025_International_AI_Safety_Report\.
 [^Gabriel2024]: @Gabriel_2024_The_ethics_of_advanced_AI_assistants\.
 [^Longpre2024]: @Longpre_2024_Consent_in_crisis_The_rapid_decline_of_the_AI\.
 [^Vincent2019]: @Vincent_2019_OpenAIs_new_multitalented_AI_writes_translates\.
