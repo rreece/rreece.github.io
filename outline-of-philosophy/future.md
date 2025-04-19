@@ -35,6 +35,8 @@ See also:
 -   Climate change
 -   WMDs
 -   Pandemics
+-   Asteroids
+-   AI
 -   ...
 -   [Doomsday argument](https://en.wikipedia.org/wiki/Doomsday_argument)
 -   Hanson, R. (1998). [Critiquing the doomsday argument](https://web.archive.org/web/20050405210231/http://hanson.gmu.edu/nodoom.html).
@@ -110,6 +112,7 @@ Artificial intelligence
 -   Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. [^Bostrom2014]
 -   Armstrong, S., Sotala, K., & OhEigeartaigh, S. S. (2014). [The errors, insights and lessons of famous AI predictions--and what they mean for the future](https://www.fhi.ox.ac.uk/wp-content/uploads/FAIC.pdf). [^Armstrong2014]
 -   Urban, T. (2015). [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html). [^WaitButWhy2015]
+    -   Urban, T. (2015). [The AI Revolution, Part 2: Our Immortality or Extinction](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html)
 -   Marcus, G. (2018). [Deep learning: A critical appraisal](https://arxiv.org/abs/1801.00631). [^Marcus2018]
 -   Gwern. (2020). [The scaling hypothesis](https://www.gwern.net/Scaling-hypothesis#scaling-hypothesis).
 -   Zhang, D. et al. (2021). [The AI Index 2021 Annual Report](https://arxiv.org/abs/2103.06312). [^Zhang2021]
