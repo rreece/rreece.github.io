@@ -118,11 +118,13 @@ See also:
         which was pretty acurate as it is actually 47.9 times! [^Weinberg2015p76]
 -   [Library of Alexandria](https://en.wikipedia.org/wiki/Library_of_Alexandria)
 -   [Library of Pergamum](https://en.wikipedia.org/wiki/Library_of_Pergamum)
+-   [Apollonius of Perga](https://en.wikipedia.org/wiki/Apollonius_of_Perga) (c. 240-190 BCE)
 -   [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus) (c. 190-120 BCE)
 -   [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism) (between c. 200 and 100 BCE)
 -   [Lucretius](http://en.wikipedia.org/wiki/Lucretius) (99-55 BCE)
 -   [Ptolemy](https://en.wikipedia.org/wiki/Ptolemy) (c. 100-170 CE)
     -   *Almagest*
+-   [Diophantus](https://en.wikipedia.org/wiki/Diophantus) (c. 200/214 - 284/298 CE)
 
 Russell:
 
