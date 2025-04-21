@@ -1118,13 +1118,13 @@ TODO: Note any differences between:
         -   Paul Arthur Schilpp (1897-1993)
     -   Kazemier, B.H. & Vuysje, D. (1962). *Logic and Language: Studies Dedicated to Professor Rudolf Carnap on the Occasion of His Seventieth Birthday*. [^Kazemier1962]
     -   Buck, R.C. & Cohen, R.S. (1971). *PSA 1970: In Memory of Rudolf Carnap Proceedings of the 1970 Biennial Meeting Philosophy of Science Association*. [^Buck1971]
-    -   Ebbs, G. (2017). *Carnap, Quine, and Putnam on Methods of Inquiry*. [^Ebbs2017]
     -   Hintikka, J. (1975). *Rudolf Carnap, Logical Empiricist*. [^Hintikka1975]
     -   Friedman, M. (1999). *Reconsidering Logical Positivism*. [^Friedman1999]
     -   Awodey, S. & Klein, C. (2004). *Carnap Brought Home: The View from Jena*. [^Awodey2004]
     -   Friedman, M. & Creath, R. (2007). *The Cambridge Companion to Carnap*. [^Friedman2007]
     -   Carus, A.W. (2008). *Carnap and Twentieth-Century Thought*. [^Carus2008]
     -   Creath, R. (2012). *Rudolf Carnap and the Legacy of Logical Empiricism*. [^Creath2012]
+    -   Ebbs, G. (2017). *Carnap, Quine, and Putnam on Methods of Inquiry*. [^Ebbs2017]
     -   Verhaegh, S. (2020). Coming to America: Carnap, Reichenbach and the great intellectual migration. [^Verhaegh2020]
     -   Richardson, A. & Tuboly, A.T. (2024). *Interpreting Carnap: Critical Essays*. [^Richardson2024]
 
