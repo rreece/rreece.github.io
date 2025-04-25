@@ -1905,6 +1905,7 @@ Postmodernism
 -   Jean Baudrillard (1929-2007)
     -   *Simulacra and Simulation* (1981)
 -   Jacques Derrida (1930-2004)
+    -   Schliesser, E. (2016). [The letter against Derrida's honorary degree, re-examined](https://digressionsnimpressions.typepad.com/digressionsimpressions/2016/03/the-letter-against-derridas-honorary-degree.html).
 -   Richard Rorty (1931-2007)
 -   [Strong programme](https://en.wikipedia.org/wiki/Strong_programme)
 
