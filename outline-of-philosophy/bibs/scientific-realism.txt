@@ -34,7 +34,8 @@ Field, H. (1974). Theory change and the indeterminacy of reference. *The Journal
 Frigg, R., & Votsis, I. (2011). Everything you always wanted to know about structural realism but were afraid to ask. *European Journal for Philosophy of Science*, 1, 227--276.
 Gaskin, R. (2009). Realism and the picture theory of meaning. *Philosophical Topics*, 37, 49--62. https://www.jstor.org/stable/43154543
 Grice, H.P. & Strawson, P.F. (1956). In defense of a dogma. *The Philosophical Review*, 65, 141--158.
-Guyer, P. & Horstmann, R. (2021). Idealism. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/idealism/
+Guyer, P. & Horstmann, R.P. (2021). Idealism. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/idealism/
+Guyer, P. & Horstmann, R.P. (2023). *Idealism in Modern Philosophy*. *Oxford University Press*.
 Haack, S. (1996). We Pragmaticists: Peirce and Rorty in conversation. *Agora: Papeles de Filosofía*, 15, 53--68. https://minerva.usc.es/xmlui/bitstream/handle/10347/1078/pg_057-072_agora15-1.pdf
 Haack, S. (1997). Vulgar Rortyism. *The New Criterion*. https://web.archive.org/web/20081211042858/http://www.newcriterion.com/articlepdf.cfm/rortyism-haack-3261
 Harding, S. (1986). *The Science Question in Feminism*. Cornell University Press.

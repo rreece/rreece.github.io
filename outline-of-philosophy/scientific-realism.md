@@ -305,8 +305,11 @@ See also:
 
 ### Discussion
 
+-   Guyer, P. & Horstmann, R.P. (2023). *Idealism in Modern Philosophy*. [^Guyer2023]
 -   [Solipsism](https://en.wikipedia.org/wiki/Solipsism)
 -   [Markus Gabriel equates German idealism with realism](https://www.youtube.com/watch?v=_TjK5sWvKJs) (3 mins)
+
+[^Guyer2023]: @Guyer_2023_Idealism_in_Modern_Philosophy\.
 
 
 Instrumentalism
