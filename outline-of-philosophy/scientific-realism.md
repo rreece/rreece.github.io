@@ -1838,7 +1838,7 @@ Pragmatism
     -   Rorty and Putnam
 -   Ruth Millikan (b. 1933)
 -   Paul Churchland (b. 1942)
--   Daniel C. Dennett (b. 1942)
+-   Daniel C. Dennett (1942-2024)
 -   Robert Brandom (b. 1950)
     -   Brandom, R. (1994). *Making it Explicit: Reasoning, representing, and discursive commitment*. [^Brandom1994]
 

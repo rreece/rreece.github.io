@@ -234,6 +234,7 @@ Kendall, M.G. (1946). *The Advanced Theory of Statistics, Vol.II*. London: Charl
 Keynes, J. M. (1921). *A Treatise on Probability*. London: Macmillan and Co.
 Kiani, B., Balestriero, R., Lecun, Y., & Lloyd, S. (2022). projUNN: efficient method for training deep networks with unitary matrices. https://arxiv.org/abs/2203.05483
 Korb, K.B. (2001). Machine learning as philosophy of science. In *Proceedings of the ECML-PKDD-01 Workshop on Machine Learning as Experimental Philosophy of Science*, Freiburg.
+Kornai, A. (2023). *Vector Semantics*. Springer.
 Kosinski, M. (2023). Theory of mind may have spontaneously emerged in large language models. https://arxiv.org/abs/2302.02083
 Kovarik, V. et al. (2022). Rethinking formal models of partially observable multiagent decision making. *Artificial Intelligence*, 303, 103645. https://arxiv.org/abs/1906.11110
 Krenn, M. et al. (2022). On scientific understanding with artificial intelligence. *Nature Reviews Physics*. https://www.nature.com/articles/s42254-022-00518-3
