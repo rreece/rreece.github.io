@@ -271,6 +271,7 @@ Idealism
 -   [Friedrich Schelling](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling) (1775-1854)
 -   [T.H. Green](https://en.wikipedia.org/wiki/T._H._Green) (1836-1882)
 -   [F.H. Bradley](https://en.wikipedia.org/wiki/F._H._Bradley) (1846-1924)
+-   [Josiah Royce](https://en.wikipedia.org/wiki/Josiah_Royce) (1855-1916)
 -   [J.M.E. McTaggart](https://en.wikipedia.org/wiki/J._M._E._McTaggart) (1866-1925)
     -   McTaggart, J.E. (1908). [The unreality of time](https://philarchive.org/archive/MCTTUO). [^McTaggart1908]
 -   [Benedetto Croce](https://en.wikipedia.org/wiki/Benedetto_Croce) (1866-1952)
@@ -294,6 +295,7 @@ See also:
 -   [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) (1872-1970)
 -   [George Edward Moore](https://en.wikipedia.org/wiki/G._E._Moore) (1873-1958)
 -   [Roman Ingarden](https://plato.stanford.edu/entries/ingarden/) (1893-1970)
+-   [Rudolf Carnap](https://en.wikipedia.org/wiki/Rudolf_Carnap) (1891-1970)
 
 See also:
 
@@ -1798,7 +1800,7 @@ Pragmatism
 
 ### History
 
--   Charles Sanders Peirce (1839-1914)
+-   [Charles Sanders Peirce](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) (1839-1914)
     -   [The Metaphysical Club](https://en.wikipedia.org/wiki/The_Metaphysical_Club) (1872)
     -   "Illustrations of the Logic of Science" in *Popular Science Monthly* (1877-1878)
         -   "The Fixation of Belief" 
@@ -1810,22 +1812,23 @@ Pragmatism
     -   Biography: Brent, J. (1993). *Charles Sanders Peirce: A Life*. [^Brent1993]
     -   Review of Brent: Oakes, E.T. (1993). [Discovering the American Aristotle](https://www.firstthings.com/article/1993/12/003-discovering-the-american-aristotle).
     -   Auspitz, J.L. (1994). The wasp leaves the bottle: Charles Sanders Peirce. [^Auspitz1994]
--   William James (1842-1910)
+-   [William James](https://en.wikipedia.org/wiki/William_James) (1842-1910)
     -   The cash value of truth
--   John Dewey (1859-1952)
--   C.I. Lewis (1883-1964)
--   Ludwig Wittgenstein (1889-1951)
--   Ernest Nagel (1901-1985)
+-   [John Dewey](https://en.wikipedia.org/wiki/John_Dewey) (1859-1952)
+-   [George Santayana](https://en.wikipedia.org/wiki/George_Santayana) (1863-1952)
+-   [C.I. Lewis](https://en.wikipedia.org/wiki/C._I._Lewis) (1883-1964)
+-   [Ludwig Wittgenstein](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) (1889-1951)
+-   [Ernest Nagel](https://en.wikipedia.org/wiki/Ernest_Nagel) (1901-1985)
     -   *The Structure of Science* (1961)
--   Willard Van Orman Quine (1908-2000)
+-   [Willard Van Orman Quine](https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine) (1908-2000)
     -   Quine, W.V.O. (1936). Truth by convention. [^Quine1936]
--   Wilfrid Sellars (1921-1989)
+-   [Wilfrid Sellars](https://en.wikipedia.org/wiki/Wilfrid_Sellars) (1921-1989)
     -   Empiricism and the Philosophy of Mind (1956) [^Sellars1963]
     -   "The myth of the given"
     -   Only language can work as a foundation for arguments; non-linguistic sensory perceptions are incompatible with language.
     -   Critic of foundationalist epistemology
     -   Sheff, N. (2021). [Wilfrid Sellars, sensory experience and the 'Myth of the Given'](https://psyche.co/ideas/wilfrid-sellars-sensory-experience-and-the-myth-of-the-given).
--   Richard Rorty (1931-2007)
+-   [Richard Rorty](https://en.wikipedia.org/wiki/Richard_Rorty) (1931-2007)
     -   *The Linguistic Turn* (1967) [^Rorty1967]
     -   *Philosophy and the Mirror of Nature* (1979)
     -   Rejection of the representationalist account of knowledge; mirror of nature.
