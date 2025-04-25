@@ -293,6 +293,7 @@ See also:
 -   [Analytic philosophy](https://en.wikipedia.org/wiki/Analytic_philosophy)
 -   [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell) (1872-1970)
 -   [George Edward Moore](https://en.wikipedia.org/wiki/G._E._Moore) (1873-1958)
+-   [Roman Ingarden](https://plato.stanford.edu/entries/ingarden/) (1893-1970)
 
 See also:
 

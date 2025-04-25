@@ -312,6 +312,8 @@ See also:
     -   Video: [Being in the World: A tribute to Hubert Dreyfus](https://www.youtube.com/watch?v=PHJQ3IjQfKI).
     -   Video: [Hubert Dreyfus interview - AI, Heidegger, meaning in the modern world](https://www.youtube.com/watch?v=u_zNHOzDP7w).
     -   [Hubert Dreyfus's views on artificial intelligence](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence)
+-   Landgrebe & Smith
+    -   Landgrebe, J. & Smith, B. (2023). *Why Machines Will Never Rule the World: Artificial Intelligence Without Fear*. [^Landgrebe2023]
 
 See also:
 
@@ -320,6 +322,7 @@ See also:
 
 [^Dreyfus1965]: @Dreyfus_1965_Alchemy_and_artificial_intelligence\.
 [^Dreyfus1972]: @Dreyfus_1972_What_Computers_Cant_Do\.
+[^Landgrebe2023]: @Landgrebe_2023_Why_Machines_Will_Never_Rule_the_World_Artificial\.
 
 
 ### Counter criticism

@@ -927,6 +927,7 @@ Aesthetics
 
 ### Art
 
+-   [Roman Ingarden](https://plato.stanford.edu/entries/ingarden/) (1893-1970)
 -   Pettit, P. (1983). The possibility of aesthetic realism. [^Pettit1983]
 -   Semiotics
 -   Roger Scruton (1944-2022)

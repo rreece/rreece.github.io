@@ -21,6 +21,7 @@ Grzankowski, A. (2015). Not all attitudes are propositional. *European Journal o
 Katzir, R. (2023). Why large language models are poor theories of human linguistic cognition: A reply to Piantadosi. https://lingbuzz.net/lingbuzz/007190
 Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. *Nature Reviews: Neuroscience*, 17, 307--321.
 Kurzweil, R. (2012). *How to Create a Mind*. Penguin Books.
+Landgrebe, J. & Smith, B. (2023). *Why Machines Will Never Rule the World: Artificial Intelligence Without Fear*. Routledge.
 MacFarquhar, L. (2014). Two Heads: A marriage devoted to the mind-body problem. *New Yorker*. https://www.newyorker.com/magazine/2007/02/12/two-heads [July 21, 2014]
 Mach, E. (1914). *The Analysis of Sensations and the Relation of the Physical* (C.M. Williams and S. Waterlow, Trans.). Open Court.
 Mark, J.T., Marion, B.B, & Hoffman, D.D. (2010). Natural selection and veridical perceptions. *Journal of Theoretical Biology*, 266, 504--515. http://cogsci.uci.edu/~ddhoff/PerceptualEvolution.pdf

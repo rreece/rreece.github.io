@@ -1153,6 +1153,8 @@ Platonism
     -   [The Metaphysics Research Lab](https://mally.stanford.edu/index.html) - Stanford, CA
     -   Zalta, E.N. (1983). [*Abstract Objects: An Introduction to Axiomatic Metaphysics*](https://mally.stanford.edu/abstract-objects.pdf). [^Zalta1983]
     -   Zalta, E.N. (2024). [*Principia Logico-Metaphysica*](https://mally.stanford.edu/principia.pdf) (Draft). [^Zalta2024]
+-   [Basic formal ontology](https://en.wikipedia.org/wiki/Basic_Formal_Ontology)
+    -   Barry Smith (b. 1952)
 
 [^DeCruz2016]: @DeCruz_2016_Numerical_cognition_and_mathematical_realism\.
 [^Quine1948b]: @Quine_1948_On_what_there_is\.
