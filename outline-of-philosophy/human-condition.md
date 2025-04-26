@@ -2445,6 +2445,8 @@ Nihilism
         being nihilistic and contrasted it with his Will to power.
 -   Ray Brassier (b. 1965)
     -   *Nihil Unbound: Enlightenment and Extinction* [^Brassier2007]
+-   James Tartaglia (b. 1973)
+        *Philosophy in a Meaningless Life* [^Tartaglia2016]
 -   Danaher, J. (2015). [Understanding nihilism: What if nothing matters?](https://philosophicaldisquisitions.blogspot.com/2015/12/understanding-nihilism-what-if-nothing.html)
 -   Dahl, R. (2017). [Optimistic nihilism](https://tinyclouds.org/optimistic_nihilism/).
 
@@ -2461,11 +2463,12 @@ Carl Sagan discussing Nietzsche:
 >   undermined in the process, is that altogether such a loss? Is there not
 >   cause to welcome it as a maturing and character-building experience? [^Sagan1996p16]
 
+[^Brassier2007]: @Brassier_2007_Nihil_Unbound_Enlightenment_and_Extinction\.
 [^Janaway1999]: @Janaway_1999_Schopenhauers_pessimism\.
 [^Sagan1996p16]: @Sagan_1997_The_Demon_Haunted_World_Science_as_a_Candle\, p. 16.
 [^SchopenhauerFFR]: @Schopenhauer_2015_On_the_Fourfold_Root_of_the_Principle\.
 [^SchopenhauerWWR]: @Schopenhauer_2014_The_World_as_Will_and_Representation_Vol1_and_2\.
-[^Brassier2007]: @Brassier_2007_Nihil_Unbound_Enlightenment_and_Extinction\.
+[^Tartaglia2016]: @Tartaglia_2016_Philosophy_in_a_Meaningless_Life\.
 
 
 ### Artworks
