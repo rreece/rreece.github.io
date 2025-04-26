@@ -1374,6 +1374,7 @@ Classical machine learning
 
 ### History
 
+-   [History of artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)
 -   [Arthur Samuel](https://en.wikipedia.org/wiki/Arthur_Samuel) (1901-1990)
 -   [Dartmouth workshop](https://en.wikipedia.org/wiki/Dartmouth_workshop) (1956)
     -   McCarthy, J., Minsky, M.L., Rochester, N., & Shannon, C.E. (1955). [A proposal for the Dartmouth Summer Research Project on Artificial Intelligence](http://www-formal.stanford.edu/jmc/history/dartmouth.pdf). [^DartmouthProposal1955a]
@@ -1381,9 +1382,13 @@ Classical machine learning
 -   Rudolf Carnap (1891-1970)
     -   Kardum, M. (2020). Rudolf Carnap--The grandfather of artificial neural networks: The influence of Carnap's philosophy on Walter Pitts. [^Kardum2020]
     -   Bright, L.K. (2022). [Carnap's contributions](https://sootyempiric.blogspot.com/2022/10/carnaps-contributions.html).
+-   McCulloch & Pitts
+    -   McCulloch, W. & Pitts, W. (1943). A logical calculus of ideas immanent in nervous activity. [^McCulloch1943]
+    -   Anderson, J.A. & Rosenfeld, E. (1998). *Talking Nets: An oral history of neural networks*. [^Anderson1998]
+    -   Gefter, A. (2015). [The man who tried to redeem the world with logic](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/).
 -   Perceptron
-    -   Sompolinsky, H. (2013). [Introduction: The Perceptron](https://web.mit.edu/course/other/i2course/www/vision_and_learning/perceptron_notes.pdf).
     -   Rosenblatt, F. (1961). *Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms*. [^Rosenblatt1961]
+    -   Sompolinsky, H. (2013). [Introduction: The Perceptron](https://web.mit.edu/course/other/i2course/www/vision_and_learning/perceptron_notes.pdf).
 -   Connectionist vs symbolic AI
     -   Minsky, M. & Papert, S. (1969). *Perceptrons: An Introduction to Computational Geometry*. [^Minsky1969]
     -   AI Winter
@@ -1393,9 +1398,11 @@ See also:
 
 -   [Honorific reinterpretation](naturalism.html#honorific-reinterpretation) of scientism
 
+[^Anderson1998]: @Anderson_1998_Talking_Nets_An_oral_history_of_neural_networks\.
 [^Cartwright2001]: @Cartwright_2001_What_is_wrong_with_Bayes_nets\.
 [^DartmouthProposal1955a]: @McCarthy_1955_A_proposal_for_the_Dartmouth_Summer_Research\.
 [^Kardum2020]: @Kardum_2020_Rudolf_Carnap_The_grandfather_of_artificial\.
+[^McCulloch1943]: @McCulloch_1943_A_logical_calculus_of_ideas_immanent_in_nervous\.
 [^Minsky1969]: @Minsky_1969_Perceptrons_An_Introduction_to_Computational\.
 [^Rosenblatt1961]: @Rosenblatt_1961_Principles_of_Neurodynamics_Perceptrons\.
 [^Solomonoff2016]: @Solomonoff_2016_Ray_Solomonoff_and_the_Dartmouth_Summer_Research\.

@@ -5,6 +5,7 @@ Aldrich, J. (1997). R. A. Fisher and the making of maximum likelihood 1912-1922.
 Amari, S. (1998). Natural gradient works efficiently in learning. *Neural Computation*, 10, 251--276.
 Amari, S. (2016). *Information Geometry and Its Applications*. Springer Japan.
 Anderson, C. (2008). The End of Theory: The data deluge makes the scientific method obsolete. *Wired*. https://www.wired.com/2008/06/pb-theory/ [June 23, 2008.]
+Anderson, J.A. & Rosenfeld, E. (1998). *Talking Nets: An oral history of neural networks*. MIT Press.
 Andrews, M. (2023). The devil in the data: Machine learning & the theory-free ideal. https://philsci-archive.pitt.edu/22690/1/ML_Atheoreticity.pdf
 Arras, K.O. (1998). An introduction to error propagation: Derivation, meaning and examples of $C_y= F_x C_x F_{x}^{\top}$. http://srl.informatik.uni-freiburg.de/papers/arrasTR98.pdf [EPFL-ASL-TR-98-01 R3.]
 Arulkumaran, K., Deisenroth, M.P., Brundage, M., & Bharath, A.A. (2017). Deep Reinforcement Learning: A Brief Survey. *IEEE Signal Processing Magazine*, 34, 26--38.
@@ -287,6 +288,7 @@ Mayo, D.G. (2019). The law of likelihood and error statistics. https://errorstat
 Mayo, D.G. (2021). Significance tests: Vitiated or vindicated by the replication crisis in psychology? *Review of Philosophy and Psychology*, 12, 101--121. https://link.springer.com/article/10.1007/s13164-020-00501-w
 Mayo, D.G. & Spanos, A. (2006). Severe testing as a basic concept in a Neyman-Pearson philosophy of induction. *British Journal for the Philosophy of Science*, 57(2), 323--357.
 Mayo, D.G. & Spanos, A. (2011). Error statistics. In *Philosophy of Statistics* (pp. 153--198). North-Holland.
+McCulloch, W. & Pitts, W. (1943). A logical calculus of ideas immanent in nervous activity. *Bulletin of Mathematical Biophysics*. 5, 115-133. https://link.springer.com/content/pdf/10.1007/BF02478259.pdf
 McDermott, J. (2019). When and why metaheuristics researchers can ignore "no free lunch" theorems. https://arxiv.org/abs/1906.03280
 McDougall, C., Conmy, A., Rushing, C., McGrath, T., & Nanda, N. (2023). Copy suppression: Comprehensively understanding an attention head. https://arxiv.org/abs/2310.04625
 McFadden, D. & Zarembka, P. (1973). Conditional logit analysis of qualitative choice behavior. In *Frontiers in Econometrics* (pp. 105--142). New York: Academic Press.

@@ -178,7 +178,8 @@ Neuroscience
 
 ### Experimental neuroscience
 
--   Libet experiments
+-   Lettvin, J.Y., Maturanat, H.R., McCulloch, W.S., & Pitts, W.H. (1959). [What the frog's eye tells the frog's brain](https://hearingbrain.org/docs/letvin_ieee_1959.pdf). [^Lettvin1959]
+-   TODO: Libet experiments
 -   Tononi, G. & Edelman, G.M. (1998). Consciousness and complexity. [^Tononi1998]
 -   Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. [^Koch2016]
 -   Cohen, M.A., Dennett, D.C., & Kanwisher, N. (2016). [What is the bandwidth of perceptual experience?](https://dspace.mit.edu/bitstream/handle/1721.1/112190/nihms769621.pdf). [^Cohen2016b]
@@ -186,6 +187,7 @@ Neuroscience
 
 [^Cohen2016b]: @Cohen_2016_What_is_the_bandwidth_of_perceptual_experience\.
 [^Koch2016]: @Koch_2016_Neural_correlates_of_consciousness_Progress\.
+[^Lettvin1959]: @Lettvin_1959_What_the_frogs_eye_tells_the_frogs_brain\.
 [^MICrONS2025]: @MICrONS_2025_Functional_connectomics_spanning_multiple_areas\.
 [^Tononi1998]: @Tononi_1998_Consciousness_and_complexity\.
 
