@@ -2446,7 +2446,7 @@ Nihilism
 -   Ray Brassier (b. 1965)
     -   *Nihil Unbound: Enlightenment and Extinction* [^Brassier2007]
 -   James Tartaglia (b. 1973)
-        *Philosophy in a Meaningless Life* [^Tartaglia2016]
+    -   *Philosophy in a Meaningless Life* [^Tartaglia2016]
 -   Danaher, J. (2015). [Understanding nihilism: What if nothing matters?](https://philosophicaldisquisitions.blogspot.com/2015/12/understanding-nihilism-what-if-nothing.html)
 -   Dahl, R. (2017). [Optimistic nihilism](https://tinyclouds.org/optimistic_nihilism/).
 
