@@ -251,7 +251,7 @@ Russell:
 >   it exists, a lessening of fanaticism with an increasing capacity of
 >   sympathy and mutual understanding. In abandoning a part of its dogmatic
 >   pretensions, philosophy does not cease to suggest and inspire a way of
->   life. [^Russell1945pX]
+>   life. [^Russell1946p744]
 
 -   Lugg, A. (2006). Russell as a precursor of Quine. [^Lugg2006]
 -   In the [boat with Neurath](scientific-realism.html#neuraths-boat).
@@ -276,7 +276,7 @@ Sellars:
 [^Overgaard2013]: @Overgaard_2013_What_is_philosophy\.
 [^Popper1952]: @Popper_1952_The_nature_of_philosophical_problems_and_their\.
 [^Reichenbach1936p142]: @Reichenbach_1936_Logistic_empiricism_in_Germany_and_the_present\, p. 142.
-[^Russell1945pX]: @Russell_2003_History_of_Western_Philosophy, p. TODO.
+[^Russell1946p744]: @Russell_2004_History_of_Western_Philosophy, p. 744.
 [^Lugg2006]: @Lugg_2006_Russell_as_a_precursor_of_Quine\.
 [^Sellars1963p2]: @Sellars_1963_Science_Perception_and_Reality\, p. 2.
 

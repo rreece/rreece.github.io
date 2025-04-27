@@ -632,7 +632,7 @@ Russell:
 >   the advantage, in comparison with the philosophies of the system-builders, of 
 >   being able to tackle its problems one at a time, instead of having to invent
 >   at one stroke a block theory of the whole universe. Its methods, in this respect, 
->   resemble those of science. [^Russell1945p834]
+>   resemble those of science. [^Russell1946p742]
 
 Schlick:
 
@@ -671,7 +671,7 @@ Creath:
 
 [^Carnap1950p1]: @Carnap_1950_Empiricism_semantics_and_ontology\, p. 1.
 [^Creath2017a]: @Creath_2017_Logical_empiricism\. <https://plato.stanford.edu/entries/logical-empiricism/>
-[^Russell1945p834]: @Russell_1945_A_History_of_Western_Philosophy\, p. 834.
+[^Russell1946p742]: @Russell_2004_History_of_Western_Philosophy\, p. 742--3.
 [^Schlick1948p479]: @Schlick_1948_Positivism_and_realism\, p. 479.
 
 

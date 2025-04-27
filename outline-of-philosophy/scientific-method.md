@@ -156,7 +156,7 @@ Russell:
 >   which should resemble, as far as possible, the state of mind of a
 >   person abandoning opinions which he has hitherto held. Contempt
 >   interferes with the first part of this process, and reverence with the
->   second. [^Russell1945p66]
+>   second. [^Russell1946p47]
 
 Weinberg:
 
@@ -186,7 +186,7 @@ Weinberg:
 [^Davis2015]: @Davis_2015_To_Explain_the_World_review\.
 [^Prado2006-2]: @Prado_2006_Ionian_enchantment_A_brief_history_of_scientific\.
 [^Rovelli2007]: @Rovelli_2007_Anaximander\.
-[^Russell1945p66]: @Russell_2003_History_of_Western_Philosophy, p. 66--67.
+[^Russell1946p47]: @Russell_2004_History_of_Western_Philosophy, p. 47.
 [^Weinberg2015p7]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 7.
 [^Weinberg2015p11]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 11.
 [^Weinberg2015p13]: @Weinberg_2015_To_Explain_The_World_The_discovery_of_modern\, p. 13.
