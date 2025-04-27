@@ -725,7 +725,7 @@ Model theory
 ### Introduction
 
 -   Wikipedia: [Model theory](https://en.wikipedia.org/wiki/Model_theory)
--   Hodge: [^Hodge1997pvii]
+-   Hodges: [^Hodges1997pvii]
     -   model theory = universal algebra + logic
     -   model theory = algebraic geometry - fields
 -   SEP: [Model theory](https://plato.stanford.edu/entries/model-theory/)
@@ -758,7 +758,7 @@ See also:
 -   [Formal epistemology](scientific-method.html#formal-epistemology)
 
 [^Button2018]: @Button_2018_Philosophy_and_Model_Theory\.
-[^Hodge1997pvii]: @Hodges_1997_A_Shorter_Model_Theory\, p. vii.
+[^Hodges1997pvii]: @Hodges_1997_A_Shorter_Model_Theory\, p. vii.
 [^Hunter1971p6]: @Hunter_1971_Metalogic_An_Introduction_to_the_Metatheory\, p. 6.
 [^Makowsky1995]: @Makowsky_1995_The_impact_of_model_theory_on_theoretical_computer\.
 [^Weiss2015]: @Weiss_2015_Fundamentals_of_Model_Theory\.
