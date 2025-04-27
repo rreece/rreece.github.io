@@ -107,6 +107,7 @@ Artificial intelligence
 
 ### Outlook
 
+-   Good, I.J. (1965). [Speculations concerning the first ultraintelligent machine](https://blog.biocomm.ai/wp-content/uploads/2023/05/IJ-Good.-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf). [^Good1965]
 -   Feynman, R.P. (1985). Talk: [Can machines think?](https://www.youtube.com/watch?v=ipRvjS7q1DI)
 -   Russell & Norvig [^Russell1995]
 -   Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. [^Bostrom2014]
@@ -136,6 +137,7 @@ See also:
 [^Armstrong2014]: @Armstrong_2014_The_errors_insights_and_lessons_of_famous_AI\.
 [^Bostrom2014]: @Bostrom_2014_Superintelligence_Paths_Dangers_Strategies\.
 [^Bubeck2023b]: @Bubeck_2023_Sparks_of_Artificial_General_Intelligence_Early\.
+[^Good1965]: @Good_1965_Speculations_concerning_the_first_ultraintelligent\.
 [^Marcus2018]: @Marcus_2018_Deep_learning_A_critical_appraisal\.
 [^Maslej2023]: @Maslej_2023_The_AI_Index_2023_Annual_Report\.
 [^Maslej2024]: @Maslej_2024_The_AI_Index_2024_Annual_Report\.

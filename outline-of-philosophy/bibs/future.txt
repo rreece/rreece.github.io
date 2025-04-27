@@ -11,6 +11,7 @@ Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford Univ
 Bostrom, N. (2019). The vulnerable world hypothesis, *Global Policy*, 10, 455--476. https://nickbostrom.com/papers/vulnerable.pdf
 Feynman, R.P. (1959). There's plenty of room at the bottom. https://calteches.library.caltech.edu/1976/1/1960Bottom.pdf
 Gabriel, I. et al. (2024). The ethics of advanced AI assistants. https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/ethics-of-advanced-ai-assistants/the-ethics-of-advanced-ai-assistants-2024-i.pdf
+Good, I.J. (1965). Speculations concerning the first ultraintelligent machine. *Advances in Computers*, 6, 31--88. https://blog.biocomm.ai/wp-content/uploads/2023/05/IJ-Good.-Speculations-Concerning-the-First-Ultraintelligent-Machine.pdf
 Hanson, R., Martin, D., McCarter, C., & Paulson, J. (2021). If loud aliens explain human earliness, quiet aliens are also rare. *The Astrophysical Journal*, 922, 182. https://iopscience.iop.org/article/10.3847/1538-4357/ac2369
 Longpre, S. (2024). Consent in crisis: The rapid decline of the AI data commons. https://www.dataprovenance.org/Consent_in_Crisis.pdf
 Marcus, G. (2018). Deep learning: A critical appraisal. https://arxiv.org/abs/1801.00631
