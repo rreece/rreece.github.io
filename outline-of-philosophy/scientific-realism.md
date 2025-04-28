@@ -1460,9 +1460,19 @@ Nietzsche:
 >   every one has its perspective, which it would force on all other drives as
 >   a norm. [^NietzscheNotebook7]
 
+
+Putnam:
+
+>   If language is a tool, it is a tool like an ocean liner, which requires
+>   many people cooperating (and participating in a complex division of labor)
+>   to use. What gives one's words the particular meanings they have is not
+>   just the state of one's brain, but the relations one has to both one's
+>   non-human environment and to other speakers. [^Putnam1997p196]
+
 [^NietzscheNotebook7]: Nietzsche (Notebook 7 [60]. KSA 12.315). See: @Guyer_2021_Idealism\.
 [^Putnam1973]: @Putnam_1973_Meaning_and_reference\.
 [^Putnam1975MOM]: @Putnam_1975_The_meaning_of_meaning\.
+[^Putnam1997p196]: @Putnam_1997_A_half_century_of_philosophy_viewed_from_within\.
 [^Quine1960a]: @Quine_1960_Word_and_Object\.
 [^Quine1963]: @Quine_1963_On_simple_theories_of_a_complex_world\.
 [^Ruja1961]: @Ruja_1961_The_present_status_of_the_verifiability_criterion\.
