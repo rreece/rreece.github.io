@@ -2208,10 +2208,12 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 -   Muennighoff, N. et al. (2023). [Scaling data-constrained language models](https://arxiv.org/abs/2305.16264). [^Muennighoff2023]
 -   Pandey, R. (2024). [gzip predicts data-dependent scaling laws](https://arxiv.org/abs/2405.16684). [^Pandey2024]
 -   Bach, F. (2024). [Scaling laws of optimization](https://francisbach.com/scaling-laws-of-optimization/). [^Bach2024]
+-   Finzi, M. et al. (2025). [Compute-optimal LLMs provably generalize better with scale](https://arxiv.org/abs/2504.15208). [^Finzi2025]
 
 [^Bach2024]: @Bach_2024_Scaling_laws_of_optimization\.
 [^Caballero2022]: @Caballero_2022_Broken_neural_scaling_laws\.
 [^Church2019]: @Church_2019_A_survey_of_25_years_of_evaluation\.
+[^Finzi2025]: @Finzi_2025_Compute_optimal_LLMs_provably_generalize_better\.
 [^Hestness2017]: @Hestness_2017_Deep_learning_scaling_is_predictable_empirically\.
 [^Hoffmann2022]: @Hoffmann_2022_Training_compute_optimal_large_language_models\.
 [^Kaplan2020]: @Kaplan_2020_Scaling_laws_for_neural_language_models\.
