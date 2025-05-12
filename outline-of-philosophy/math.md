@@ -1152,6 +1152,7 @@ Platonism
 -   De Cruz, H. (2016). [Numerical cognition and mathematical realism](http://hdl.handle.net/2027/spo.3521354.0016.016). [^DeCruz2016]
 -   Carroll, S. (2021). [Mindscape 127: Justin Clarke-Doane on Mathematics, Morality, Objectivity, and Reality](https://www.youtube.com/watch?v=3tvfq8ehHOk).
 -   [Abstract object theory](https://en.wikipedia.org/wiki/Abstract_object_theory)
+    -   Alexius Meinong (1853-1920)
     -   Ernst Mally (1879-1944)
     -   Edward N. Zalta (b. 1952)
     -   [The Metaphysics Research Lab](https://mally.stanford.edu/index.html) - Stanford, CA
