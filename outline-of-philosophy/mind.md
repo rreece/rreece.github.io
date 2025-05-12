@@ -183,7 +183,7 @@ Neuroscience
 -   Tononi, G. & Edelman, G.M. (1998). Consciousness and complexity. [^Tononi1998]
 -   Koch, C., Massimini, M., Boly, M., & Tononi, G. (2016). Neural correlates of consciousness: Progress and problems. [^Koch2016]
 -   Cohen, M.A., Dennett, D.C., & Kanwisher, N. (2016). [What is the bandwidth of perceptual experience?](https://dspace.mit.edu/bitstream/handle/1721.1/112190/nihms769621.pdf). [^Cohen2016b]
--   {MICrONS Consortium}. (2025). [Functional connectomics spanning multiple areas of mouse visual cortex](https://www.nature.com/articles/s41586-025-08790-w). [^MICrONS2025]
+-   MICrONS Consortium. (2025). [Functional connectomics spanning multiple areas of mouse visual cortex](https://www.nature.com/articles/s41586-025-08790-w). [^MICrONS2025]
 
 [^Cohen2016b]: @Cohen_2016_What_is_the_bandwidth_of_perceptual_experience\.
 [^Koch2016]: @Koch_2016_Neural_correlates_of_consciousness_Progress\.
