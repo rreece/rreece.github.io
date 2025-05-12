@@ -1160,6 +1160,8 @@ Platonism
     -   Zalta, E.N. (2024). [*Principia Logico-Metaphysica*](https://mally.stanford.edu/principia.pdf) (Draft). [^Zalta2024]
 -   [Basic formal ontology](https://en.wikipedia.org/wiki/Basic_Formal_Ontology)
     -   Barry Smith (b. 1952)
+-   John Conway (1937-2020)
+    -   Surreal numbers
 
 [^DeCruz2016]: @DeCruz_2016_Numerical_cognition_and_mathematical_realism\.
 [^Quine1948b]: @Quine_1948_On_what_there_is\.
