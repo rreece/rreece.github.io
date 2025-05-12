@@ -1409,12 +1409,14 @@ Intuitionism
 -   L.E.J. Brouwer (1881-1966)
     -   Brouwer, L.E.J. (1908). [Unreliability of the logical principles](https://arxiv.org/abs/1511.01113). [^Brouwer1908]
 -   Constructive mathematics
+-   Gisin, N. (2020). [Indeterminism in physics and intuitionistic mathematics](https://arxiv.org/abs/2011.02348). [^Gisin2020]
 
 See also:
 
 -   [Alternative logics](#alternative-logics)
 
 [^Brouwer1908]: @Brouwer_1908_Unreliability_of_the_logical_principles\.
+[^Gisin2020]: @Gisin_2020_Indeterminism_in_physics_and_intuitionistic\.
 
 
 ### Linear logic

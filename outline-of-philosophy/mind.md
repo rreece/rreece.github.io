@@ -167,7 +167,7 @@ Neuroscience
     -   [Free energy principle](https://en.wikipedia.org/wiki/Free_energy_principle) (FEP)
     -   Friston, K. (2010). [The free-energy principle: a unified brain theory?](https://www.uab.edu/medicine/cinl/images/KFriston_FreeEnergy_BrainTheory.pdf) [^Friston2010]
     -   Andrews, M. (2021). [The math is not the territory: Navigating the free energy principle](http://philsci-archive.pitt.edu/18974/). [^Andrews2021]
--   [Predictive encoding](https://en.wikipedia.org/wiki/Predictive_coding)
+-   [Predictive coding](https://en.wikipedia.org/wiki/Predictive_coding)
 
 [^Andrews2021]: @Andrews_2021_The_math_is_not_the_territory_Navigating_the_free\.
 [^Fodor1988]: @Fodor_1988_Connectionism_and_cognitive_architecture\.
