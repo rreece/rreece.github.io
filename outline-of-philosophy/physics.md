@@ -1064,6 +1064,31 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Todorov2012]: @Todorov_2012_Quantization_is_a_mystery\.
 
 
+#### Newton-Wigner localization
+
+TODO: Clean up
+
+Single-particle states:
+
+$$ | \vec{x}, t  \rangle = \hat{\psi}(\vec{x}, t)  | 0 \rangle $$
+
+and single-particle wavefunction derived from QFT: [^Myrvold2015p15]
+
+$$ \psi(x) = \langle x | \Psi \rangle = \langle 0 | \hat{\psi}(x) | \Psi \rangle $$
+
+-   [Newton-Wigner localization](https://en.wikipedia.org/wiki/Newton%E2%80%93Wigner_localization)
+-   Newton, T.D. & Wigner, E.P. (1949). Localized states for elementary systems. [^Newton1949]
+-   Fleming, G.N. (2000). [Reeh-Schlieder meets Newton-Wigner](https://www.jstor.org/stable/188690). [^Fleming2000]
+-   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
+-   Moretti, V. (2023). [On the relativistic spatial localization for massive real scalar Klein-Gordon quantum particles](https://arxiv.org/abs/2304.02133). [^Moretti2023]
+
+[^Fleming2000]: @Fleming_2000_Reeh_Schlieder_meets_Newton_Wigner\.
+[^Moretti2023]: @Moretti_2023_On_the_relativistic_spatial_localization\.
+[^Myrvold2015]: @Myrvold_2015_What_is_a_wavefunction\.
+[^Myrvold2015p15]: @Myrvold_2015_What_is_a_wavefunction\, p. 15.
+[^Newton1949]: @Newton_1949_Localized_states_for_elementary_systems\.
+
+
 #### Haag's theorem
 
 -   Haag's theorem
@@ -1119,6 +1144,15 @@ Baez, Segal, & Zhou on wave-particle duality:
 [^Teller1997p115]: @Teller_1997_An_Interpretive_Introduction_to_Quantum_Field\, p. 115.
 
 
+#### Bootstrap theory
+
+-   Chew, G. (1961). *S-Matrix Theory of Strong Interactions*. [^Chew1961]
+-   Chew, G. (1964). Nuclear democracy and bootstrapping dynamics. [^Chew1964]
+
+[^Chew1961]: @Chew_1961_S_Matrix_Theory_of_Strong_Interactions\.
+[^Chew1964]: @Chew_1964_Nuclear_democracy_and_bootstrapping_dynamics\.
+
+
 #### Causal perturbation theory
 
 nLab (Schreiber):
@@ -1134,31 +1168,6 @@ First rigorous perturbation theory in QFT according to Schreiber:
 
 [^nLab2021CausalPerturb]: @nLab_2021_Causal_perturbation_theory\.
 [^Epstein1973]: @Epstein_1973_The_role_of_locality_in_perturbation_theory\.
-
-
-#### Newton-Wigner localization
-
-TODO: Clean up
-
-Single-particle states:
-
-$$ | \vec{x}, t  \rangle = \hat{\psi}(\vec{x}, t)  | 0 \rangle $$
-
-and single-particle wavefunction derived from QFT: [^Myrvold2015p15]
-
-$$ \psi(x) = \langle x | \Psi \rangle = \langle 0 | \hat{\psi}(x) | \Psi \rangle $$
-
--   [Newton-Wigner localization](https://en.wikipedia.org/wiki/Newton%E2%80%93Wigner_localization)
--   Newton, T.D. & Wigner, E.P. (1949). Localized states for elementary systems. [^Newton1949]
--   Fleming, G.N. (2000). [Reeh-Schlieder meets Newton-Wigner](https://www.jstor.org/stable/188690). [^Fleming2000]
--   Myrvold, W.C. (2015). [What is a wavefunction?](http://philsci-archive.pitt.edu/11117/) [^Myrvold2015]
--   Moretti, V. (2023). [On the relativistic spatial localization for massive real scalar Klein-Gordon quantum particles](https://arxiv.org/abs/2304.02133). [^Moretti2023]
-
-[^Fleming2000]: @Fleming_2000_Reeh_Schlieder_meets_Newton_Wigner\.
-[^Moretti2023]: @Moretti_2023_On_the_relativistic_spatial_localization\.
-[^Myrvold2015]: @Myrvold_2015_What_is_a_wavefunction\.
-[^Myrvold2015p15]: @Myrvold_2015_What_is_a_wavefunction\, p. 15.
-[^Newton1949]: @Newton_1949_Localized_states_for_elementary_systems\.
 
 
 #### Algebraic vs constructive QFT

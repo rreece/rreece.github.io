@@ -95,6 +95,8 @@ Caves, C.M., Fuchs, C.A., & Schack, R. (2001). Quantum probabilities as Bayesian
 {CDF Collaboration}. (2022). High-precision measurement of the $W$ boson mass with the CDF II detector. *Science*, 376(6589), 170--176. https://www.science.org/doi/10.1126/science.abk1781
 Chalmers, M. (2017). Model physicist. https://cerncourier.com/a/model-physicist/
 Chester, D., Marrani, A., & Rios, M. (2023). Beyond the Standard Model with six-dimensional spinors. Particles, 6, 144-172. https://arxiv.org/abs/2002.02391
+Chew, G. (1961). *S-Matrix Theory of Strong Interactions*. New York: Benjamin.
+Chew, G. (1964). Nuclear democracy and bootstrapping dynamics. In Jacob, M. & Chew, G. (Eds.) *Strong Interaction Physics: A Lecture Note Volume* (pp. 103--152). New York: Benjamin.
 Ciepielewski, G.S, Okon, E., & Sudarsky, D. (2020). On superdeterministic rejections of settings independence. https://arxiv.org/abs/2008.00631
 Clauser, J., Horne, M., Shimony, A., & Holt, R. (1969). Proposed experiment to test local hidden-variable theories. *Physical Review Letters*, 23, 880--884.
 Clowe, D. et al. (2006). A direct empirical proof of the existence of dark matter. *Astrophysical Journal Letters*, 648(2), 109. https://arxiv.org/abs/astro-ph/0608407
