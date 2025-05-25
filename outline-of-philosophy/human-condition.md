@@ -1939,6 +1939,8 @@ Biology
 -   Dennett, D.C. (1995). *Darwin's Dangerous Idea*. [^Dennett1995]
 -   Okasha, S. (2006). *Evolution and the Levels of Selection*. [^Okasha2006]
 -   Andrews on Terrence Deacon's hierarchic transitions [^Andrews2018]
+-   [Punctuated equilibrium](https://en.wikipedia.org/wiki/Punctuated_equilibrium)
+-   [Phylogenetic tree](https://en.wikipedia.org/wiki/Phylogenetic_tree)
 -   See also the outline of the history of
     [biological evoluion](http://rreece.github.io/outline-of-philosophy/scientific-method.html#biological-evolution)
     in the [Outline of the scientific method](http://rreece.github.io/outline-of-philosophy/scientific-method.html).

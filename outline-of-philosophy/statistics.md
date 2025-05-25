@@ -325,7 +325,7 @@ and
 \begin{align}
 \mathbb{E}(y^2)
     &\approx y^2(\vec{\mu}) + 2 \, y(\vec{\mu}) \, \left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}} \mathbb{E}(x_i - \mu_i) \nonumber \\
-    &+ \mathbb{E}\left[ \left(\left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}}(x_i - \mu_i)\right) \left(\left.\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}}(x_j - \mu_j)\right) \right] \\
+    &+ \left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}} \left.\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}} \mathbb{E}\left[ (x_i - \mu_i) (x_j - \mu_j) \right] \\
     &= y^2(\vec{\mu}) + \, \left.\frac{\partial y}{\partial x_i}\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}} V_{ij} \\
 \end{align}
 
