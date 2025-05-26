@@ -47,6 +47,7 @@ Leah, R. (2018). ``How do you separate fact and opinion?'' Rudy Giuliani mused. 
 Leibniz, G. (1951). The Art of Discovery. In P. Wiener (Ed.), *Leibniz: Selections*. Scribner. [(Originally published in 1685)]
 Leibniz, G. (1989). Dissertatio de Arte Combinatoria. In L.E. Loemker (Ed.), *Philosophical Papers and Letters: The New Synthese Historical Library (Texts and Studies in the History of Philosophy), vol 2*. (pp. 73--84). Springer. [(Originally published in 1666)]
 Lewis, C.S. (1947). *Miracles: A Preliminary Study*. Geoffrey Bles.
+Loewer, B. (1997). A guide to naturalizing semantics. In Hale, B., Wright, C., & Miller, A. (eds.), *A Companion to the Philosophy of Language*, (pp. 174--196). Chichester, West Sussex, UK: Wiley-Blackwell. https://sites.rutgers.edu/barry-loewer/wp-content/uploads/sites/195/2019/06/A_Companion_to_the_Philosophy_of_Language_-_Chapter_8_A_Guide_to_Naturalizing_Semantics_.pdf
 Lugg, A. (2006). Russell as a precursor of Quine. *Bertrand Russell Society Quarterly*, 128, 9--21. https://bertrandrussellsocietyorg.files.wordpress.com/2020/04/brsq_0128-0129.pdf
 MacDonald, M. (1936). Russell and McTaggart. *Philosophy*, 11, 322--335. https://www.jstor.org/stable/3746190
 Maddy, P. (2007). *Second Philosophy*. Oxford University Press.
@@ -59,6 +60,7 @@ Moore, G.E. (1903). The refutation of idealism. *Mind*, 12, 433--453. https://ww
 Morris, K. (2019). *Physicalism Deconstructed: Levels of reality and the mind-body problem*. Cambridge University Press.
 Nagel, E. (1961). *The Structure of Science: Problems in the Logic of Scientific Explanation*. Harcourt.
 Nagel, E. (2008). Issues in the logic of reductive explanations.  In M.A. Bedau & P. Humphreys (eds.), *Emergence: Contemporary Readings in Philosophy and Science* (pp. 359--373). MIT Press. https://perpus.univpancasila.ac.id/repository/EBUPT180357.pdf#page=376 [(Originally published in 1979)]
+Ney, A. (2012). Neo-positivist metaphysics. *Philosophical Studies*, 160, 53--78. https://link.springer.com/article/10.1007/s11098-012-9912-9
 Ney, A. (2018). The Politics of Fundamentality. https://fqxi.org/community/forum/topic/3095
 Ney, A. (2019). Are the questions of metaphysics more fundamental than those of science?. *Philosophy and Phenomenological Research*. [(\href{https://philpapers.org/rec/NEYATQ-2}{forthcoming})]
 Ney, A. (2021). The fundamentality of physics: Completeness or maximality. *Oxford Studies in Metaphysics*, 12, 203. https://philpapers.org/rec/NEYTFO

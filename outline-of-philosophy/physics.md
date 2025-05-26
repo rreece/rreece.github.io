@@ -1388,6 +1388,12 @@ Urs Schreiber:
 >   (algebraic) super-groups precisely exhausts the moduli space of possible
 >   consistent local spacetime symmetry groups. [^Schreiber2016a2]
 
+nLab:
+
+>   By Deligne's theorem on tensor categories it is precisely the context of
+>   supersymmetry in which tensor categories over the complex numbers exhibit
+>   full Tannaka duality.
+
 -   Pedagogy
     -   Martin, S.P. (2016). [A supersymmetry primer](https://arxiv.org/abs/hep-ph/9709356). [^Martin2016]
     -   Ellis, J. (2020). [The Higgs, supersymmetry and all that](https://cerncourier.com/a/the-higgs-supersymmetry-and-all-that/). *CERN Courier*. January 10, 2020.

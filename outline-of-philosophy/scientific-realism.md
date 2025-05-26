@@ -1302,6 +1302,7 @@ Reichenbach on probability:
 -   Richard Creath (b. 1947) - Editor of the *Quine-Carnap Correspondence* (1990)
 -   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*.
     -   Self-identify as neo-positivists [^Ladyman2007p303]
+    -   Ney, A. (2012). [Neo-positivist metaphysics](https://link.springer.com/article/10.1007/s11098-012-9912-9). [^Ney2012a]
 -   Leitgeb, H. (2023). [Vindicating the verifiability criterion](https://doi.org/10.1007/s11098-023-02071-w). [^Leitgeb2023]
 -   Richardson, A. (2023). [*Logical Empricism as Scientific Philosophy*](https://doi.org/10.1017/9781009471497) [^Richardson2023]
 
@@ -1351,10 +1352,12 @@ Vienna Circle / Berlin Circle / logical positivism scholars:
 See also:
 
 -   [Lasting influence of positivism](#lasting-influence-of-positivism)
+-   [Naturalized metaphysics](naturalism.html#naturalized-metaphysics)
 
 [^Ladyman2007p303]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 303.
 [^Ladyman2007p310]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\, p. 310\.
 [^Leitgeb2023]: @Leitgeb_2023_Vindicating_the_verifiability_criterion\.
+[^Ney2012a]: @Ney_2012_Neo_positivist_metaphysics\.
 [^Richardson2023]: @Richardson_2023_Logical_Empricism_as_Scientific_Philosophy\.
 
 

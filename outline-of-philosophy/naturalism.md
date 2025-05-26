@@ -460,6 +460,10 @@ See also:
 
 ![Meme by Gregory B. Sadler (source: [his tweet](https://twitter.com/philosopher70/status/1547218809739776001)).](img/carnap-heidegger-better-material.jpg){#fig:carnap-heidegger-better-material}
 
+See also:
+
+-   [Naturalized metaphysics](#naturalized-metaphysics)
+
 [^Carnap1932c]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
 [^Friedman2000]: @Friedman_2000_A_Parting_of_the_Ways_Carnap_Cassirer\.
 [^Friedman2002]: @Friedman_2002_Carnap_Cassirer_and_Heidegger_The_Davos\.
@@ -475,7 +479,7 @@ See also:
 -   Robert Brandom in defense of Hegelian studies
     -   [Review of *A Spirit of Trust*](https://ndpr.nd.edu/reviews/a-spirit-of-trust-a-reading-of-hegels-phenomenology/) (2019)
 
-Examples of non-naturalized methaphysics:
+Examples of non-naturalized metaphysics:
 
 -   George Bealer
 -   Crawford Elder (b. 1949)
@@ -488,10 +492,6 @@ Examples of non-naturalized methaphysics:
 -   Michael C. Rea
 -   Richard Swinburne
 -   Peter van Inwagen
-
-See also:
-
--   [Naturalized metaphysics](#naturalized-metaphysics)
 
 [^Hudson2016]: @Hudson_2016_Non_naturalistic_metaphysics\.
 [^Putnam1997]: @Putnam_1997_A_half_century_of_philosophy_viewed_from_within\.
@@ -886,21 +886,32 @@ Schopenhauer:
 ### Naturalized metaphysics
 
 -   Methodological naturalism
+-   Bunge, M. (1971). Is scientific metaphysics possible? [^Bunge1971]
+-   Ladyman, J. & Ross, D. (2007). *Every Thing Must Go: Metaphysics Naturalised*. [^Ladyman2007c]
+    -   Ney, A. (2012). [Neo-positivist metaphysics](https://link.springer.com/article/10.1007/s11098-012-9912-9). [^Ney2012b]
+-   Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. [^Ross2013]
 -   Is there any unique project left for metaphysics?
     -   Ney, A. (2019). Are the questions of metaphysics more fundamental than those of science? [^Ney2019]
     -   Bennett, K. (2015). There is no special problem with metaphysics. [^Bennett2015]
 -   What are the limits of science?
--   Bunge, M. (1971). Is scientific metaphysics possible? [^Bunge1971]
--   Ross, D., Ladyman, J., & Kincaid, H. (2013). *Scientific Metaphysics*. [^Ross2013]
 
 See also:
 
--   [Rejection of a priori metaphysics](rejection-of-a-priori-metaphysics)
+-   [Rejection of a priori metaphysics](#rejection-of-a-priori-metaphysics)
 
 [^Bennett2015]: @Bennett_2015_There_is_no_special_problem_with_metaphysics\.
 [^Bunge1971]: @Bunge_1971_Is_scientific_metaphysics_possible\.
 [^Kant1783]: @Kant_1912_Prolegomena_to_Any_Future_Metaphysics\, p. 2--3.
+[^Ladyman2007c]: @Ladyman_2007_Every_Thing_Must_Go_Metaphysics_Naturalised\.
+[^Ney2012b]: @Ney_2012_Neo_positivist_metaphysics\.
 [^Ross2013]: @Ross_2013_Scientific_Metaphysics\.
+
+
+### Naturalized semantics
+
+-   Loewer, B. (1997). [A guide to naturalizing semantics](https://sites.rutgers.edu/barry-loewer/wp-content/uploads/sites/195/2019/06/A_Companion_to_the_Philosophy_of_Language_-_Chapter_8_A_Guide_to_Naturalizing_Semantics_.pdf). [^Loewer1997]
+
+[^Loewer1997]: @Loewer_1997_A_guide_to_naturalizing_semantics\.
 
 
 ### Other ways of knowing
@@ -1057,7 +1068,7 @@ See also:
     -   Gross, P.R & Norman Levitt, N. (1994). *Higher Superstition: The Academic Left and Its Quarrels With Science*. [^Gross1994]
 -   [Sokal affair](https://en.wikipedia.org/wiki/Sokal_affair)
     -   Sokal [^Sokal1996]
-    -   Sokal, A.D. (1996). A physicist experiments with cultural studies. http://www.physics.nyu.edu/sokal/lingua_franca_v4.pdf
+    -   Sokal, A.D. (1996). [A physicist experiments with cultural studies](http://www.physics.nyu.edu/sokal/lingua_franca_v4.pdf).
     -   Sokal, A.D. (1996). [Transgressing the boundaries: Towards a transformative hermeneutics of quantum gravity](http://www.physics.nyu.edu/sokal/transgress_v2_noafterword.pdf).
     -   Sokal, A.D. & Bricmont, J. (1998). Fashionable Nonsense: Postmodern Intellectuals’ Abuse of Science. Picador.
     -   Weinberg, S. (1996). [Sokal's Hoax](https://physics.nyu.edu/faculty/sokal/weinberg.html). *The New York Review of Books*. [^Weinberg1996]
