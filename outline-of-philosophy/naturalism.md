@@ -922,6 +922,7 @@ See also:
     -   *Naturwissenschaften* and *Geisteswissenschaften*
 -   [Feminist perspectives on argumentation](https://plato.stanford.edu/entries/feminism-argumentation/)
 -   Chick Corea. (2020). [Memorizing versus knowing](https://www.youtube.com/watch?v=XI8NiMewmEg).
+-   C.S. Lewis' concept of transposition
 
 Boghossian:
 

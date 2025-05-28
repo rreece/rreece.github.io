@@ -864,6 +864,8 @@ See also:
         -   [*Mah&amacr;parinibb&amacr;na Sutta*](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta) ([DN 16](https://suttacentral.net/dn16/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)) - about the end of the Buddha's life
     2.  [*Majjhima Nik&amacr;ya*](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN) - "collection of middle-length discourses"
     3.  [*Samyutta Nik&amacr;ya*](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN) - "collection of connected discourses"
+        -   *Dhammacakkappavattana Sutta* ([SN 56.11](https://suttacentral.net/sn56.11/en/bodhi)) - "The Setting in Motion of the Wheel of the Dhamma Sutta", the first discourse delivered by the Bhudda
+        -   *Anattalakkhana Sutta* ([SN 22.59](https://suttacentral.net/sn22.59/en/sujato)) - "Not-Self Characteristic Discourse", the second discourse delivered by the Bhudda
         -   *Kacc&amacr;nagotta Sutta* ([SN 12.15](https://www.accesstoinsight.org/tipitaka/sn/sn12/sn12.015.than.html)) - "On Right View"
         -   *Sabba Sutta* ([SN 35.23](https://suttacentral.net/sn35.23/en/bodhi)) or "Discourse on Everything"
     4.  [*Anguttara Nik&amacr;ya*](https://en.wikipedia.org/wiki/Anguttara_Nikaya) (AN) - "collection of numerical discourses"
