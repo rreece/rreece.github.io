@@ -2228,6 +2228,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 -   Mahowald, K. et al. (2023). [Dissociating language and thought in large language models: a cognitive perspective](https://arxiv.org/abs/2301.06627). [^Mahowald2023]
 -   Kosinski, M. (2023). [Theory of mind may have spontaneously emerged in large language models](https://arxiv.org/abs/2302.02083). [^Kosinski2023]
 -   Chitra, T. & Prior, H. (2023). [Do language models possess knowledge (soundness)?](https://hackmd.io/@pinged/zk-and-llms)
+-   Shani, C., Jurafsky, D., LeCun, Y., et Shwartz-Ziv, R. (2025). [From tokens to thoughts: How LLMs and humans trade compression for meaning](https://arxiv.org/abs/2505.17117). [^Shani2025]
 
 See also:
 

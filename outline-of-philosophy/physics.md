@@ -617,6 +617,7 @@ that the Schr&ouml;dinger equation is derivable from Wigner's theorem.
 -   Zurek, W.H. (2001). [Decoherence, einselection, and the quantum origins of the classical](https://arxiv.org/abs/quant-ph/0105127). [^Zurek2001]
 -   Zurek, W.H. (2003). [Decoherence and the transition from quantum to classical--Revisited](https://arxiv.org/abs/quant-ph/0306072). [^Zurek2003]
 -   *Decoherence and the Appearance of a Classical World in Quantum Theory* [^Joos2003]
+-   Leggett, A.J. (2002). Testing the limits of quantum mechanics: Motivation, state of play, prospects. [^Leggett2002]
 -   Schlosshauer, M. (2005). [Decoherence, the measurement problem, and interpretations of quantum mechanics](https://arxiv.org/abs/quant-ph/0312059). [^Schlosshauer2005]
 -   My quora answer: [What is currently the best explanation for how and why the quantum wave function collapses?](https://www.quora.com/What-is-currently-the-best-explanation-for-how-and-why-the-quantum-wave-function-collapses/answer/Ryan-Reece)
 -   Decoherence and Everett's interpretation
@@ -635,6 +636,7 @@ See also:
 [^Drossel2015]: @Drossel_2015_On_the_relation_between_the_second_law\, p. 51--2.
 [^Joos1985]: @Joos_1985_The_emergence_of_classical_properties_through\.
 [^Joos2003]: @Joos_2003_Decoherence_and_the_Appearance_of_a_Classical\.
+[^Leggett2002]: @Leggett_2002_Testing_the_limits_of_quantum_mechanics\.
 [^Nagele2023]: @Nagele_2023_Decoherence_A_numerical_study\.
 [^Schlosshauer2005]: @Schlosshauer_2005_Decoherence_the_measurement_problem\.
 [^Schrodinger1952a]: @Schrodinger_1952_Are_there_quantum_jumps_Part_I\.
@@ -1471,12 +1473,14 @@ Interpretations of quantum mechanics
 ### Measurement problem
 
 -   Maudlin, T. (1995). Three measurement problems. [^Maudlin1995]
+-   d'Espagnat, B. (1999). *Conceptual Foundations of Quantum Mechanics*. [^dEspagnat1999]
 -   Schr&ouml;dinger's cat
     -   Video: Veritasium. (2020). [Parallel worlds probably exist. Here’s why](https://www.youtube.com/watch?v=kTXTPe3wahc&ab_channel=Veritasium).
 -   Penrose: $U$ and $R$ operators
 -   D&uuml;rr, D. & Lazarovici, D. (2020). *Understanding Quantum Mechanics: The World According to Modern Quantum Foundations*. [^Durr2020]
 -   Mermin, N.D. (2022). [A note on the quantum measurement problem](https://arxiv.org/abs/2206.10741). [^Mermin2022]
 
+[^dEspagnat1999]: @dEspagnat_1999_Conceptual_Foundations_of_Quantum_Mechanics\.
 [^Durr2020]: @Durr_2020_Understanding_Quantum_Mechanics_The_World\.
 [^Maudlin1995]: @Maudlin_1995_Three_measurement_problems\.
 [^Mermin2022]: @Mermin_2022_A_note_on_the_quantum_measurement_problem\.
@@ -1486,6 +1490,7 @@ Interpretations of quantum mechanics
 
 -   [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962)
 -   Complementarity
+-   Reichenbach, H. (1944). *Philosophic Foundations of Quantum Mechanics*. [^Reichenbach1944]
 -   Barad, K. (2007). *Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning*. [^Barad2007]
     -   Some strange defenses of Bohr
 -   Becker, A. (2018). *What is Real?* [^Becker2018]
@@ -1504,6 +1509,7 @@ Criticisms:
 [^Becker2018]: @Becker_2018_What_is_Real_The_unfinished_quest_for_the_meaning\.
 [^Bunge1955a]: @Bunge_1955_Strife_about_complementarity_I\.
 [^Bunge1955b]: @Bunge_1955_Strife_about_complementarity_II\.
+[^Reichenbach1944]: @Reichenbach_1944_Philosophic_Foundations_of_Quantum_Mechanics\.
 
 
 ### Von Neumann's no hidden variables "proof"
@@ -1604,6 +1610,7 @@ Criticisms:
 -   Bohm, D. (1952). A suggested interpretation of the quantum theory in terms of 'hidden' variables, I and II. [^Bohm1952]
 -   Bohm, D. (1953). Proof that probability density approaches $|\psi|^2$ in causal interpretation of quantum theory. [^Bohm1953]
 -   Sch&ouml;nberg, M. (1954). On the hydrodynamical model of the quantum mechanics. [^Schonberg1954]
+-   Bohm, D. & Hiley, B.J. (1993). *The Undivided Universe*. [^Bohm1993]
 
 Discussion:
 
@@ -1659,6 +1666,7 @@ Criticisms:
 [^Bell1987b]: @Bell_2004_Speakable_and_Unspeakable_in_Quantum_Mechanics\.
 [^Bohm1952]: @Bohm_1952_A_suggested_interpretation_of_the_quantum_theory\.
 [^Bohm1953]: @Bohm_1953_Proof_that_probability_density_approaches\.
+[^Bohm1993]: @Bohm_1993_The_Undivided_Universe\.
 [^Brown2004]: @Brown_2004_Schrodinger_revisited_An_algebraic_approach\.
 [^Caulton2018]: @Caulton_2018_A_persistent_particle_ontology_for_quantum_field\.
 [^Das2019]: @Das_2019_Arrival_time_distributions_of_spin_12_particles\.
@@ -1728,6 +1736,7 @@ Criticisms:
 >   "quantum jumps" or "collapse events" (as will be discussed in great detail in
 >   various parts of this book). [^Joos2003p22]
 
+-   Barrett, J.A. (2019). *The Conceptual Foundations of Quantum Mechanics*. [^Barrett2019]
 -   Carroll, S.M. & Singh, A. (2019). [Mad-Dog Everettianism: Quantum mechanics at its most minimal](https://arxiv.org/abs/1801.08132).  [^Carroll2019-2]
 -   Carroll, S.M. (2019). *Something Deeply Hidden*.[^Carroll2019]
 -   Saunders, S. (2021). [Branch-counting in the Everett interpretation of quantum mechanics](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0600). [^Saunders2021]
@@ -1768,6 +1777,7 @@ See also:
 [^Barbado2023]: @Barbado_2023_On_playing_gods_The_fallacy_of_the_many_worlds\.
 [^Barrett2011]: @Barrett_2011_Everetts_pure_wave_mechanics_and_the_notion\.
 [^Barrett2016]: @Barrett_2016_Quantum_Worlds\.
+[^Barrett2019]: @Barrett_2019_The_Conceptual_Foundations_of_Quantum_Mechanics\.
 [^Boughn2018]: @Boughn_2018_Making_sense_of_the_many_worlds_interpretation\.
 [^Bub2019]: @Bub_2019_Two_Dogmas_redux\.
 [^Carroll2019]: @Carroll_2019_Something_Deeply_Hidden\.
