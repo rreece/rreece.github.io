@@ -825,7 +825,7 @@ See also:
 -   [Buddhaghosa](https://en.wikipedia.org/wiki/Buddhaghosa) (c. 5th century CE)
     -   metaphysical idealist
 -   [Thai Forest Tradition](https://en.wikipedia.org/wiki/Thai_Forest_Tradition)
--   Buddhism in the West
+-   Therav&amacr;da Buddhism in the West
     -   [Charles Henry Allan Bennett](https://en.wikipedia.org/wiki/Charles_Henry_Allan_Bennett) (1872-1923)
     -   [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi) (b. 1944)
     -   [Bhikkhu Th&amacr;nissaro](https://en.wikipedia.org/wiki/%E1%B9%ACh%C4%81nissaro_Bhikkhu) (b. 1949)
@@ -949,7 +949,7 @@ Online Suttas:
     -   [Budai](https://en.wikipedia.org/wiki/Budai) - Laughing Buddha (c. 10th century CE)
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
     -   [Tendai](https://en.wikipedia.org/wiki/Tendai) (began 806 CE) - "The Lotus School"
-    -   [Ennin](https://en.wikipedia.org/wiki/Ennin) AKA Jikaku Daishi (794-864)
+        -   [Ennin](https://en.wikipedia.org/wiki/Ennin) AKA Jikaku Daishi (794-864)
     -   [Zen Buddhism](https://en.wikipedia.org/wiki/Zen)
         -   Began in China as "Ch&aacute;n"
         -   Introduced in Japan in 12th century CE and later romanized as "Zen"
@@ -970,7 +970,7 @@ Online Suttas:
     -   [Seon](https://en.wikipedia.org/wiki/Korean_Seon) - "Ch&aacute;n" in Korea
 -   Mah&amacr;y&amacr;na Buddhism in southern Asia:
     -   [David J. Kalupahana](https://en.wikipedia.org/wiki/David_Kalupahana) (1936-2014)
--   [Buddhism in the West](https://en.wikipedia.org/wiki/Buddhism_in_the_West)
+-   Mah&amacr;y&amacr;na [Buddhism in the West](https://en.wikipedia.org/wiki/Buddhism_in_the_West)
     -   [Edwin Arnold](https://en.wikipedia.org/wiki/Edwin_Arnold) (1832-1904)
         -   [*The Light of Asia*](https://en.wikipedia.org/wiki/The_Light_of_Asia) (1879)
     -   [&Eacute;tienne Lamotte](https://en.wikipedia.org/wiki/%C3%89tienne_Lamotte) (1903-1983)
@@ -980,7 +980,7 @@ Online Suttas:
         -   [Ch&acirc;n Ph&acirc;p H&utilde;'u](https://plumvillage.org/monastics/dharma-teachers/br-phap-huu/) (b. 1987)
         -   [Dharma teachers at the Plum Village](https://plumvillage.org/about/dharma-teachers/)
         -   [Forty Tenets of Plum Village](https://orderofinterbeing.org/2016/07/forty-tenets-of-plum-village/)
-    -   [Buddhism in the United States](https://en.wikipedia.org/wiki/Buddhism_in_the_United_States)
+    -   Mah&amacr;y&amacr;na [Buddhism in the United States](https://en.wikipedia.org/wiki/Buddhism_in_the_United_States)
         -   In 1893, the first J&omacr;do Shinsh&umacr; monks arrived in San Francisco,
             and they established the Buddhist Missions of North America,
             later renamed the Buddhist Churches of America (BCA) in 1899.
