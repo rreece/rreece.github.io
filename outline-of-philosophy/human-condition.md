@@ -826,6 +826,7 @@ See also:
     -   metaphysical idealist
 -   [Thai Forest Tradition](https://en.wikipedia.org/wiki/Thai_Forest_Tradition)
 -   Buddhism in the West
+    -   [Charles Henry Allan Bennett](https://en.wikipedia.org/wiki/Charles_Henry_Allan_Bennett) (1872-1923)
     -   [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi) (b. 1944)
     -   [Bhikkhu Th&amacr;nissaro](https://en.wikipedia.org/wiki/%E1%B9%ACh%C4%81nissaro_Bhikkhu) (b. 1949)
     -   [Joseph Goldstein](https://en.wikipedia.org/wiki/Joseph_Goldstein_(writer)) (b. 1944)
@@ -949,24 +950,29 @@ Online Suttas:
 -   [Buddhism in Japan](https://en.wikipedia.org/wiki/Buddhism_in_Japan) (introduced in 552 CE)
     -   [Tendai](https://en.wikipedia.org/wiki/Tendai) (began 806 CE) - "The Lotus School"
     -   [Ennin](https://en.wikipedia.org/wiki/Ennin) AKA Jikaku Daishi (794-864)
-    -   [J&omacr;do Shinsh&umacr;](https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB) AKA Shin Buddhism AKA "True Pure Land Buddhism"
-        -   [Shinran](https://en.wikipedia.org/wiki/Shinran) (1173-1263)
     -   [Zen Buddhism](https://en.wikipedia.org/wiki/Zen)
         -   Began in China as "Ch&aacute;n"
         -   Introduced in Japan in 12th century CE and later romanized as "Zen"
         -   [D&omacr;gen](https://en.wikipedia.org/wiki/D%C5%8Dgen) (1200-1253)
         -   Three largest sects of Zen: [S&omacr;t&omacr;](https://en.wikipedia.org/wiki/S%C5%8Dt%C5%8D),
             [Rinzai](https://en.wikipedia.org/wiki/Rinzai_school), and [&Omacr;baku](https://en.wikipedia.org/wiki/%C5%8Cbaku)
-        -   [Nichiren Buddhism](https://en.wikipedia.org/wiki/Nichiren_Buddhism)
         -   [Zazen](https://en.wikipedia.org/wiki/Zazen) - seated meditation 
         -   [K&omacr;an](https://en.wikipedia.org/wiki/Koan) - a short story designed to provoke enlightenment
         -   [Japanese tea ceremony](https://en.wikipedia.org/wiki/Japanese_tea_ceremony)
+    -   [J&omacr;do Shinsh&umacr;](https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB) AKA Shin Buddhism AKA "True Pure Land Buddhism"
+        -   [Shinran](https://en.wikipedia.org/wiki/Shinran) (1173-1263)
+        -   Nembutsu
+    -   [Nichiren Buddhism](https://en.wikipedia.org/wiki/Nichiren_Buddhism)
+        -   [Nichiren](https://en.wikipedia.org/wiki/Nichiren) (1222-1282)
+        -   Focus on the *Lotus Sutra*
     -   SEP: [Japanese philosophy](https://plato.stanford.edu/entries/japanese-philosophy/)
 -   [Korean Buddhism](https://en.wikipedia.org/wiki/Korean_Buddhism)
     -   [Seon](https://en.wikipedia.org/wiki/Korean_Seon) - "Ch&aacute;n" in Korea
 -   Mah&amacr;y&amacr;na Buddhism in southern Asia:
     -   [David J. Kalupahana](https://en.wikipedia.org/wiki/David_Kalupahana) (1936-2014)
 -   [Buddhism in the West](https://en.wikipedia.org/wiki/Buddhism_in_the_West)
+    -   [Edwin Arnold](https://en.wikipedia.org/wiki/Edwin_Arnold) (1832-1904)
+        -   [*The Light of Asia*](https://en.wikipedia.org/wiki/The_Light_of_Asia) (1879)
     -   [&Eacute;tienne Lamotte](https://en.wikipedia.org/wiki/%C3%89tienne_Lamotte) (1903-1983)
     -   [Plum Village Tradition](https://en.wikipedia.org/wiki/Plum_Village_Tradition) (founded in France in 1982)
         -   [Thich Nhat Hanh](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (1926-2022)

@@ -298,6 +298,8 @@ Number theory
     -   [Cantor's first set theory article](https://en.wikipedia.org/wiki/Cantor%27s_first_set_theory_article)
     -   Proved that the real numbers are uncountably infinite.
     -   The cardinalities of $\mathbb{R}$ and $\mathbb{R}^n$ are both $C$.
+-   [Schr&ouml;der–Bernstein theorem](https://en.wikipedia.org/wiki/Schr%C3%B6der%E2%80%93Bernstein_theorem)
+    -   Not accepted in intuitionism
 -   [Cantor's theorem](https://en.wikipedia.org/wiki/Cantor%27s_theorem)
     -   Let $|A| \equiv \mathrm{card}(A)$ denote the cardinality (i.e size) of a set, $A$.
     -   A power set, $P(A)$, of a set, $A$, is the set of all subsets of $A$.
