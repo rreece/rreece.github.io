@@ -260,6 +260,7 @@ Lewis, D. (1981). Causal decision theory. *Australasian Journal of Philosophy*, 
 Lewis, M. et al. (2019). BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. https://arxiv.org/abs/1910.13461
 Li, H. et al. (2020). Regret minimization via novel vectorized sampling policies and exploration. http://aaai-rlg.mlanctot.info/2020/papers/AAAI20-RLG_paper_14.pdf
 Lin, H. & Jegelka, S. (2018). ResNet with one-neuron hidden layers is a universal approximator. https://arxiv.org/abs/1806.10909
+Lin, H.W., Tegmark, M., & Rolnick, D. (2017). Why does deep and cheap learning work so well? *Journal of Statistical Physics*, 168, 1223--1247. https://link.springer.com/article/10.1007/s10955-017-1836-5
 Lista, L. (2016). Practical statistics for particle physicists. https://arxiv.org/abs/1609.04150
 Lista, L. (2016). *Statistical Methods for Data Analysis in Particle Physics*. Springer. http://foswiki.oris.mephi.ru/pub/Main/Literature/st_methods_for_data_analysis_in_particle_ph.pdf
 Lisy, V. & Bowling, M. (2016). Equilibrium approximation quality of current no-limit poker bots. https://arxiv.org/abs/1612.07547

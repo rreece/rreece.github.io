@@ -825,6 +825,12 @@ See also:
 -   [Buddhaghosa](https://en.wikipedia.org/wiki/Buddhaghosa) (c. 5th century CE)
     -   metaphysical idealist
 -   [Thai Forest Tradition](https://en.wikipedia.org/wiki/Thai_Forest_Tradition)
+    -   [Ajahn Mun](https://en.wikipedia.org/wiki/Ajahn_Mun) (1870-1949)
+-   The Mahasi ("New Burmese") Method
+    -   [U N&amacr;rada](https://en.wikipedia.org/wiki/U_N%C4%81rada) (1868-1955)
+    -   [Mahasi Sayadaw](https://en.wikipedia.org/wiki/Mahasi_Sayadaw) (1904-1982)
+    -   *Satipatthana Sutta*
+    -   [Dipa Ma](https://en.wikipedia.org/wiki/Dipa_Ma) (1911-1989)
 -   Therav&amacr;da Buddhism in the West
     -   [Charles Henry Allan Bennett](https://en.wikipedia.org/wiki/Charles_Henry_Allan_Bennett) (1872-1923)
     -   [Bhikkhu Bodhi](https://en.wikipedia.org/wiki/Bhikkhu_Bodhi) (b. 1944)
@@ -834,10 +840,13 @@ See also:
     -   [Sharon Salzberg](https://en.wikipedia.org/wiki/Sharon_Salzberg) (b. 1952)
     -   [Gil Fronsdal](https://en.wikipedia.org/wiki/Gil_Fronsdal) (b. 1954)
         -   Fronsdal, G. (1998). [Insight meditation in the United States: Life, liberty, and the pursuit of happiness](https://www.insightmeditationcenter.org/books-articles/insight-meditation-in-the-united-states-life-liberty-and-the-pursuit-of-happiness/).
+        -   Fronsdal, G. (2001). [*The Issue at Hand: Essays on Buddhist Mindfulness Practice*](https://www.insightmeditationcenter.org/wp-content/uploads/documents/iah/IssueAtHand4thEd.pdf). [^Fronsdal2001]
+        -   Fronsdal, G. (2015). [The Fifth Precept and The Power of Renunciation](https://www.insightmeditationcenter.org/2015/07/the-fifth-precept-and-the-power-of-renunciation/).
     -   [Insight Meditation Society](https://en.wikipedia.org/wiki/Insight_Meditation_Society), Barre, MA, USA
     -   [Insight Meditation Center](https://www.insightmeditationcenter.org), Redwood City, CA, USA
     -   [Spirit Rock Meditation Center](https://en.wikipedia.org/wiki/Spirit_Rock_Meditation_Center), Woodacre, CA, USA
 
+[^Fronsdal2001]: @Fronsdal_2001_The_Issue_at_Hand_Essays_on_Buddhist_Mindfulness\.
 [^Nanamoli1992]: @Nanamoli_1992_The_Life_of_the_Buddha_According_to_the_Pali\.
 
 
@@ -863,7 +872,9 @@ See also:
         -   *Mah&amacr;nid&amacr;na Sutta* ([DN 15](https://suttacentral.net/dn15/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)) - "The Great Discourse on Causation"
             -   dependent origination; non-self
         -   [*Mah&amacr;parinibb&amacr;na Sutta*](https://en.wikipedia.org/wiki/Mahaparinibbana_Sutta) ([DN 16](https://suttacentral.net/dn16/en/sujato?lang=en&layout=plain&reference=none&notes=asterisk&highlight=false&script=latin)) - about the end of the Buddha's life
+        -   *Mah&amacr;satipatth&amacr;na Sutta* (DN 22) - "The Great Discourse on the Establishing of Mindfulness"
     2.  [*Majjhima Nik&amacr;ya*](https://en.wikipedia.org/wiki/Majjhima_Nik%C4%81ya) (MN) - "collection of middle-length discourses"
+        -   *Satipatthana Sutta* (MN 10) - "The Discourse on the Establishing of Mindfulness"
     3.  [*Samyutta Nik&amacr;ya*](https://en.wikipedia.org/wiki/Samyutta_Nikaya) (SN) - "collection of connected discourses"
         -   *Dhammacakkappavattana Sutta* ([SN 56.11](https://suttacentral.net/sn56.11/en/bodhi)) - "The Setting in Motion of the Wheel of the Dhamma Sutta", the first discourse delivered by the Bhudda
         -   *Anattalakkhana Sutta* ([SN 22.59](https://suttacentral.net/sn22.59/en/sujato)) - "Not-Self Characteristic Discourse", the second discourse delivered by the Bhudda
