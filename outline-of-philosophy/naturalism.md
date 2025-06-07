@@ -456,6 +456,7 @@ See also:
 -   Luchte, J. (2007). [Martin Heidegger and Rudolf Carnap: Radical Phenomenology, Logical Positivism and the Roots of the Continental/Analytic Divide](https://luchte.wordpress.com/martin-heidegger-and-rudolf-carnap-radical-phenomenology-logical-positivism-and-the-roots-of-the-continentalanalytic-divide/).
 -   Vrahimis, A. (2013). [Was there a sun before men existed?: A.J. Ayer and French philosophy in the fifties](https://jhaponline.org/jhap/article/view/12). [^Vrahimis2013]
 -   Dresser, S. (2020). [Does philosophy reside in the unsayable or should it care only for precision? Carnap, Heidegger and the great divergence](https://aeon.co/essays/heidegger-v-carnap-how-logic-took-issue-with-metaphysics).
+-   Eilenberger, W. (2020). *Time of the Magicians: Wittgenstein, Benjamin, Cassirer, Heidegger, and the decade that reinvented philosophy*. [^Eilenberger2020]
 -   [Searle-Derrida debate](https://en.wikipedia.org/wiki/Searle%E2%80%93Derrida_debate)
 
 ![Meme by Gregory B. Sadler (source: [his tweet](https://twitter.com/philosopher70/status/1547218809739776001)).](img/carnap-heidegger-better-material.jpg){#fig:carnap-heidegger-better-material}
@@ -465,6 +466,7 @@ See also:
 -   [Naturalized metaphysics](#naturalized-metaphysics)
 
 [^Carnap1932c]: @Carnap_1959_The_elimination_of_metaphysics_through_logical\.
+[^Eilenberger2020]: @Eilenberger_2020_Time_of_the_Magicians_Wittgenstein_Benjamin\.
 [^Friedman2000]: @Friedman_2000_A_Parting_of_the_Ways_Carnap_Cassirer\.
 [^Friedman2002]: @Friedman_2002_Carnap_Cassirer_and_Heidegger_The_Davos\.
 [^Gabriel2003]: @Gabriel_2003_Carnaps_Elimination_of_metaphysics_through\.
