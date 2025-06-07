@@ -1039,6 +1039,7 @@ Surveys:
     -   Review: Cat, J. (2017). [How Viennese scientists fought the dogma, propaganda and prejudice of the 1930s](https://www.nature.com/articles/d41586-017-07819-z).
 -   Verhaegh, S. (2019). The American reception of logical positivism: First encounters (1929-1932). [^Verhaegh2019]
 -   Edmonds, D. (2020). *The Murder of Professor Schlick: The Rise and Fall of the Vienna Circle*. [^Edmonds2020a]
+-   Eilenberger, W. (2020). *Time of the Magicians: Wittgenstein, Benjamin, Cassirer, Heidegger, and the decade that reinvented philosophy*. [^Eilenberger2020]
 -   Springer book series: [Vienna Circle Institute Yearbook](https://www.springer.com/series/6669)
 
 [^Ayer1936]: @Ayer_1936_Language_Truth_and_Logic\.
@@ -1051,6 +1052,7 @@ Surveys:
 [^Creath2023]: @Creath_2023_What_was_Carnap_rejecting_when_he_rejected\.
 [^Edmonds2020a]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\.
 [^Edmonds2020p90]: @Edmonds_2020_The_Murder_of_Professor_Schlick_The_Rise_and_Fall\, p. 90.
+[^Eilenberger2020]: @Eilenberger_2020_Time_of_the_Magicians_Wittgenstein_Benjamin\.
 [^Hahn1973]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 [^Lewis1969]: @Lewis_1969_Policing_the_Aufbau\.
 [^Murzi2004]: @Murzi_2004_Vienna_circle\. <https://iep.utm.edu/viennacr/>
