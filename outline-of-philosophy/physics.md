@@ -2229,8 +2229,9 @@ See also:
     -   Candelas, P., Horowitz, G.T., Strominger, A., & Witten, E. (1985). Vacuum configurations for superstrings. [^Candelas1985]
         -   Start of string phenomenology
 -   AdS/CFT
-    -   Maldacena, J.M. (1998). The large $N$ limit of superconformal field theories and supergravity. [^Maldacena1998]
-    -   Witten, E. (1998). Anti-de Sitter space and holography. [^Witten1998]
+    -   Maldacena, J.M. (1998). [The large $N$ limit of superconformal field theories and supergravity](https://arxiv.org/abs/hep-th/9711200). [^Maldacena1998]
+    -   Witten, E. (1998). [Anti-de Sitter space and holography](https://arxiv.org/abs/hep-th/9802150). [^Witten1998]
+    -   Polyakov, A.M. (2008). [From quarks to strings](https://arxiv.org/abs/0812.0183). [^Polyakov2008]
 -   Gauge-string duality
     -   Gopakumar, R. (2011). [What is the simplest gauge-string duality?](https://arxiv.org/abs/1104.2386). [^Gopakumar2011]
     -   Gopakumar, R. & Mazenc, E.A. (2022). [Deriving the simplest gauge-string duality, I: Open-closed-open triality](https://arxiv.org/abs/2212.05999). [^Gopakumar2022]
@@ -2244,6 +2245,7 @@ See also:
 [^Maldacena1998]: @Maldacena_1998_The_large_N_limit_of_superconformal_field\.
 [^Ney2021c]: @Ney_2021_From_quantum_entanglement_to_spatiotemporal\.
 [^Penrose1971]: @Penrose_1971_Angular_momentum_an_approach_to_combinatorial\.
+[^Polyakov2008]: @Polyakov_2008_From_quarks_to_strings\.
 [^Witten1998]: @Witten_1998_Anti_de_Sitter_space_and_holography\.
 
 
