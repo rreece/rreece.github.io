@@ -2,6 +2,7 @@ Agresti, A. & Coull, B.A. (1998). Approximate is better than "exact" for interva
 Aifer, M. et al. (2023). Thermodynamic linear algebra. https://arxiv.org/abs/2308.05660
 Alain, G. & Bengio, Y. (2016). Understanding intermediate layers using linear classifier probes. https://arxiv.org/abs/1610.01644
 Aldrich, J. (1997). R. A. Fisher and the making of maximum likelihood 1912-1922. *Statistical Science*, 12, 162-176.
+Amari, S. (1993). Backpropagation and stochastic gradient descent method. *Neurocomputing*, 5, 185--196.
 Amari, S. (1998). Natural gradient works efficiently in learning. *Neural Computation*, 10, 251--276.
 Amari, S. (2016). *Information Geometry and Its Applications*. Springer Japan.
 Anderson, C. (2008). The End of Theory: The data deluge makes the scientific method obsolete. *Wired*. https://www.wired.com/2008/06/pb-theory/ [June 23, 2008.]
@@ -159,6 +160,7 @@ Gamba, M., Englesson, E., Bj{\"o}rkman, M., & Azizpour, H. (2022). Deep double d
 Gandenberger, G. (2015). A new proof of the likelihood principle. *British Journal for the Philosophy of Science*, 66, 475--503. https://www.journals.uchicago.edu/doi/abs/10.1093/bjps/axt039
 Gandenberger, G. (2016). Why I am not a likelihoodist. *Philosopher's Imprint*, 16(7), 1--22. https://quod.lib.umich.edu/p/phimp/3521354.0016.007/--why-i-am-not-a-likelihoodist
 Gao, Y. & Chaudhari, P. (2020). An information-geometric distance on the space of tasks. https://arxiv.org/abs/2011.00613
+Gardner, M.W. & Dorling, S.R. (1998). Artificial neural networks (the multilayer perceptron)--a  review of applications in the atmospheric sciences. *Atmospheric Environment*, 32, 2627--2636.
 Gelman, A. & Hennig, C. (2017). Beyond subjective and objective in statistics. *Journal of the Royal Statistical Society: Series A (Statistics in Society)*, 180(4), 967--1033.
 Gelman, A. & Vehtari, A. (2021). What are the most important statistical ideas of the past 50 years? *Journal of the American Statistical Association*, 116, 2087--2097. https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1938081
 Geshkovski, B., Letrouit, C., Polyanskiy, Y., & Rigollet, P. (2023). A mathematical perspective on Transformers. https://arxiv.org/abs/2312.10794

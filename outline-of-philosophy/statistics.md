@@ -1605,6 +1605,8 @@ Deep learning
 
 ### Introduction
 
+-   Early contributions
+    -   Gardner, M.W. & Dorling, S.R. (1998). Artificial neural networks (the multilayer perceptron)--a  review of applications in the atmospheric sciences. [^Gardner1998]
 -   Conceptual reviews of deep learning
     -   Lower to higher level representations [^Bengio2009]
     -   LeCun, Y., Bengio, Y., & Hinton, G. (2015). Review: Deep learning. [^LeCun2015]
@@ -1614,6 +1616,7 @@ Deep learning
     -   Raissi, M. (2017). [Deep learning tutorial](https://maziarraissi.github.io/teaching/1_deep_learning_tutorial/).
 -   Backpropagation
     -   Rumelhart, D.E., Hinton, G.E., & Williams, R.J. (1986). [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0.pdf). [^Rumelhart1986]
+    -   Amari, S. (1993). Backpropagation and stochastic gradient descent method. [^Amari1993]
     -   Schmidhuber's [Critique of Honda Prize for Dr. Hinton](http://people.idsia.ch/~juergen/critique-honda-prize-hinton.html).
     -   Schmidhuber: [Who invented backpropagation?](http://people.idsia.ch/~juergen/who-invented-backpropagation.html)
     -   Scmidhuber: [The most cited neural networks all build on work done in my labs](https://people.idsia.ch/~juergen/most-cited-neural-nets.html).
@@ -1636,9 +1639,11 @@ Deep learning
 
 ![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
 
+[^Amari1993]: @Amari_1993_Backpropagation_and_stochastic_gradient_descent\.
 [^Bengio2009]: @Bengio_2009_Learning_deep_architectures_for_AI\.
 [^Bottou1998]: @Bottou_1998_Stochastic_gradient_descent_tricks\.
 [^Frankle2018]: @Frankle_2018_The_lottery_ticket_hypothesis_Finding_sparse\.
+[^Gardner1998]: @Gardner_1998_Artificial_neural_networks_the_multilayer\.
 [^Goodfellow2016]: @Goodfellow_2016_Deep_Learning\.
 [^Kaplan2019]: @Kaplan_2019_Notes_on_contemporary_machine_learning\.
 [^LeCun1998b]: @LeCun_1998_Efficient_BackProp\.
