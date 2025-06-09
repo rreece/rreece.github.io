@@ -471,6 +471,7 @@ Moral non-naturalism
 ### Introduction
 
 -   Ridge, M. (2019). [Moral non-naturalism](https://plato.stanford.edu/entries/moral-non-naturalism/). *SEP*.
+-   David Enoch
 
 
 ### Naturalistic fallacy
