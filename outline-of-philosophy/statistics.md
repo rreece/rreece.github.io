@@ -958,6 +958,14 @@ Lyons:
 -   BICEP2 claimed evidence of B-modes in the CMB as evidence of cosmic inflation without accounting for cosmic dust.
 
 
+### Conformal prediction
+
+-   [Conformal prediction](https://en.wikipedia.org/wiki/Conformal_prediction)
+-   Gammerman, A., Vovk, V., & Vapnik, V. (1998). [Learning by transduction](https://arxiv.org/abs/1301.7375). [^Gammerman1998]
+
+[^Gammerman1998]: @Gammerman_1998_Learning_by_transduction\.
+
+
 Statistical classification
 --------------------------------------------------------------------------------
 
