@@ -170,6 +170,7 @@ See also:
 -   Longpre, S. (2024). [Consent in crisis: The rapid decline of the AI data commons](https://www.dataprovenance.org/Consent_in_Crisis.pdf). [^Longpre2024]
 -   Kokotajlo, D., Alexander, S., Larsen, T., Lifland, E., & Dean, R. (2025). [AI 2027](https://ai-2027.com/).
 -   Bengio, Y. et al. (2025). [International AI Safety Report](https://arxiv.org/abs/2501.17805). [^Bengio2025]
+-   Sadeddine, Z., Maxwell, W., Varoquaux, G., & Suchanek, F.M. (2025). [Large language models as search engines: Societal challenges](https://suchanek.name/work/publications/sigir-forum-2025.pdf).
 
 [^Aschenbrenner2024]: @Aschenbrenner_2024_Situational_Awareness_The_decade_ahead\.
 [^Bengio2025]: @Bengio_2025_International_AI_Safety_Report\.
