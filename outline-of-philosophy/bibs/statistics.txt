@@ -406,6 +406,7 @@ Steinhardt, J. (2012). Beyond Bayesians and frequentists. https://jsteinhardt.st
 Steinhardt, J. (2022). More is different for AI. https://bounded-regret.ghost.io/more-is-different-for-ai/
 Stuart, A., Ord, K., & Arnold, S. (2010). *Kendall's Advanced Theory of Statistics, Vol 2A: Classical Inference and the Linear Model*. Wiley.
 Sun, Y. et al. (2023). Retentive network: A successor to transformer for large language models. https://arxiv.org/abs/2307.08621
+Suppes, P. (1961). The philosophical relevance of decision theory. *The Journal of Philosophy*, 58, 605--614. http://www.jstor.org/stable/2023536
 Sutskever, I. (2015). A brief overview of deep learning. https://web.archive.org/web/20220728224752/http://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html
 Sutskever, I., Vinyals, O., & Le, Q.V. (2014). Sequence to sequence learning with neural networks. *Advances in Neural Information Processing Systems*, 2014, 3104--3112. https://arxiv.org/abs/1409.3215
 Sutton, R.S. (2019). The bitter lesson. http://www.incompleteideas.net/IncIdeas/BitterLesson.html

@@ -881,8 +881,9 @@ Also:
 -   A/B-testing
 
 
-### Frequentist vs bayesian decision theory
+### Decision theory
 
+-   Suppes, P. (1961). The philosophical relevance of decision theory. *The Journal of Philosophy*, 58, 605--614. http://www.jstor.org/stable/2023536
 -   Frequentist vs bayesian decision theory [^Murphy2012p197]
 -   Goodman, S.N. (1999). [Toward evidence-based medical statistics 2: The Bayes factor](https://courses.botany.wisc.edu/botany_940/06EvidEvol/papers/goodman2.pdf). [^Goodman1999b]
 
