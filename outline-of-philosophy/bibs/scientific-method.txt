@@ -1,4 +1,5 @@
 Aaronson, S. (2005). The complexity of agreement. *Proceedings of ACM STOC*. 634--643. https://www.scottaaronson.com/papers/agree-econ.pdf
+Abad, L.A. & Khalifa, K. (2015). What are stylized facts? *Journal of Economic Methodology*, 22, 143--156.
 Allain, R. (2013). What's wrong with the scientific method? *Wired*. https://www.wired.com/2013/04/whats-wrong-with-the-scientific-method/ [April 1, 2013]
 Aristotle. (1993). *Posterior Analytics* (J. Barnes, Trans.). Oxford: Clarendon Press. [(Originally written in 350 BCE)]
 Aristotle. (2007). *Posterior Analytics* (G.R.G. Mure, Trans.). https://web.archive.org/web/20070427034930/http://etext.library.adelaide.edu.au/a/aristotle/a8poa/ [(Originally written in 350 BCE)]
@@ -48,6 +49,7 @@ Heesen, R. (2017). Communism and the incentive to share in science. *Philosophy 
 Hempel, C.G. & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135--175.
 Hendricks, V.F. (2006). *Mainstream and Formal Epistemology*. Cambridge University Press.
 Hintikka, J. (1999). *Inquiry as Inquiry: A logic of scientific discovery*. Springer.
+Hirschman, D. (2016). Stylized facts in the social sciences. *Sociological Science*, 3, 604--626. https://sociologicalscience.com/download/vol-3/july/SocSci_v3_604to626.pdf
 #Hume, D. (1902). *Enquiries Concerning the Human Understanding and Concerning the Principles of Morals*. Oxford: Clarendon Press. [(Originally published in 1777)]
 #Hume, D. (1983). *An Enquiry Concerning the Principles of Morals*. Hackett Classics. [(Originally published in 1751)]
 #Hume, D. (1993). *An Enquiry Concerning Human Understanding* (E. Steinberg, Ed.). Hackett. [(Originally published in 1748)]
@@ -56,8 +58,10 @@ Hume, D. (2009). *A Treatise of Human Nature*. Floating Press. [(Originally publ
 Ichikawa, J. & Jenkins, C. (2017). On putting knowledge 'first'. In Carter, J.A. (Ed.), *Knowledge First: Approaches in epistemology and mind* (pp. 113--130). Oxford University Press.
 Isaac, M.G. & Koch, S. (2022). Foundational issues in conceptual engineering: Introduction and overview. *Inquiry*, 0, 1--9. https://www.tandfonline.com/doi/full/10.1080/0020174X.2022.2028230
 Juhl, C. & Loomis, E. (2009). *Analyticity*. Routledge.
+Kaldor, N. (1961). Capital accumulation and economic growth. In Lutz & Hague (eds.), *The Theory of Capital*, (pp. 177--222). London. http://gesd.free.fr/kaldor61.pdf
 Kant, I. (1996). *Critique of Pure Reason* (W. Pluhar, Trans.). Hackett. [(Originally published in 1787)]
 Keoke, E.D. & Porterfield, K.M. (2002). *Encyclopedia of American Indian Contributions to the World*. Checkmark Books. https://mexikaresistance.files.wordpress.com/2013/09/american-indian-contributions-to-the-world.pdf
+Kinsella, D. (2005). No rest for the democratic peace. *American Political Science Review*, 99, 453--457.
 Kripke, S.A. (1980). *Naming and Necessity*. Harvard University Press. [(Originally published in 1972)]
 Leibniz, G.W. (1996). *New Essays on Human Understanding* (P. Remnant & J. Bennett, Trans.). New York: Cambridge University Press. [(Originally written in 1704)]
 Marks, J.M. (2009). *Why I Am Not A Scientist: Anthropology and Modern Science*. University of California Press.

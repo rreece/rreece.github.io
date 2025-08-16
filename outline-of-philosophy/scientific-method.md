@@ -1663,6 +1663,19 @@ Frigg:
 -   [theory](https://ncatlab.org/nlab/show/theory+%28physics%29) - nLab
 
 
+### Stylized facts
+
+-   Kaldor, N. (1961). [Capital accumulation and economic growth](http://gesd.free.fr/kaldor61.pdf). [^Kaldor1961]
+-   Abad, L.A. & Khalifa, K. (2015). What are stylized facts? [^Abad2015]
+-   Hirschman, D. (2016). [Stylized facts in the social sciences](https://sociologicalscience.com/download/vol-3/july/SocSci_v3_604to626.pdf). [^Hirschman2016]
+    -   Democracies rarely go to war with each other. [^Kinsella2005]
+
+[^Kaldor1961]: @Kaldor_1961_Capital_accumulation_and_economic_growth\.
+[^Kinsella2005]: @Kinsella_2005_No_rest_for_the_democratic_peace\.
+[^Abad2015]: @Abad_2015_What_are_stylized_facts\.
+[^Hirschman2016]: @Hirschman_2016_Stylized_facts_in_the_social_sciences\.
+
+
 Pseudoscience
 --------------------------------------------------------------------------------
 
