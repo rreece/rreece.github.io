@@ -220,6 +220,7 @@ Jamali, M. et al. (2024). Semantic encoding during language comprehension at sin
 James, F. (2006). *Statistical Methods in Experimental Particle Physics* (2nd ed.). World Scientific.
 James, F. & Roos, M. (1975). MINUIT: A system for function minimization and analysis of the parameter errors and corrections. *Computational Physics Communications*, 10, 343--367. https://cds.cern.ch/record/310399
 James, W. & Stein, C. (1961). Estimation with quadratic loss. In *Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability, Vol. 1* (pp. 361--379). University of California Press. https://projecteuclid.org/accountAjax/Download?urlId=bsmsp%2F1200512173&downloadType=presschapter&isResultClick=True
+Javed, K. & Sutton, R.S. (2024). The big world hypothesis and its ramifications for artificial intelligence. http://incompleteideas.net/papers/The_Big_World_Hypothesis.pdf
 Jaynes, E.T. (2003). *Probability Theory: The Logic of Science*. https://bayes.wustl.edu/etj/prob/book.pdf
 Jevons, W.S. (1873). The philosophy of inductive inference. *Fortnightly Review*, 14. 457--476. London: Chapman and Hall.
 Jevons, W.S. (1873). The use of hypothesis. *Fortnightly Review*, 14, 778-788. London: Chapman and Hall.
