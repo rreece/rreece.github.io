@@ -1,5 +1,8 @@
-The human condition
-================================================================================
+---
+title: "The human condition"
+date: today
+---
+
 
 What are we? What is the human condition?
 What are our orientations, our worldviews?
@@ -11,9 +14,6 @@ Here, I am interested in collecting what various traditions say we are as
 humans.
 
 
-<!-- PAGETOC -->
-
-
 Human history
 --------------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Human history
 -   [Human history](https://en.wikipedia.org/wiki/Human_history)
 -   [Behavioral modernity](https://en.wikipedia.org/wiki/Behavioral_modernity)
 
-![Map of migrations of early homo sapiens ([ancient.eu](https://www.ancient.eu/article/1070/early-human-migration/), 2017).](img/early-human-migration.png){#fig:early-human-migration}
+![Map of migrations of early homo sapiens ([ancient.eu](https://www.ancient.eu/article/1070/early-human-migration/), 2017).](img/early-human-migration.png){#fig-early-human-migration}
 
 >   The early human migrations
 >   in the Lower Paleolithic saw Homo erectus spread across Eurasia 1.8 million
@@ -58,7 +58,7 @@ Human history
 
 ![Map showing the approximate centers of the six independent origins
     of agriculture and its spread in prehistory. [^Diamond2003]
-    ](img/spread-of-agriculture.png){#fig:spread-of-agriculture}
+    ](img/spread-of-agriculture.png){#fig-spread-of-agriculture}
 
 The [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution)
 marks the start of agriculture, animal husbandry,
@@ -68,7 +68,7 @@ and the [first civilizations](https://en.wikipedia.org/wiki/Cradle_of_civilizati
 
 #### Fertile Crescent
 
-![States of the Fertile Crescent, c. 1450 BCE ([ancient.eu](https://www.ancient.eu/Fertile_Crescent/), 2016).](img/mesopotamia-1450-BCE.png){#fig:mesopotamia-1450-BCE}
+![States of the Fertile Crescent, c. 1450 BCE ([ancient.eu](https://www.ancient.eu/Fertile_Crescent/), 2016).](img/mesopotamia-1450-BCE.png){#fig-mesopotamia-1450-BCE}
 
 -   [Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
 -   [Mesopotamia](Mesopotamia)
@@ -283,7 +283,7 @@ Moore & Kelle:
 
 ![Detail of the ["religions tree"](https://000024.org/religions_tree/religions_tree_8.html),
     zoomed around some Protestant branches (also discussed [here](https://pierwiastekzla.wordpress.com/worldreligionstree/)).
-    ](img/religions-tree-wesley.jpg){#fig:religions-tree-wesley}
+    ](img/religions-tree-wesley.jpg){#fig-religions-tree-wesley}
 
 #### Criticism
 
@@ -464,7 +464,7 @@ The [Trimurti](https://en.wikipedia.org/wiki/Trimurti):
     -   [Sharabha](https://en.wikipedia.org/wiki/Sharabha)
     -   [Hanuman](https://en.wikipedia.org/wiki/Hanuman)
 
-![Shiva statue at CERN, near Building 40, [a gift from India](https://www.sanskritimagazine.com/vedic_science/shivas-cosmic-dance-nataraj-at-cern/).](img/cern-shiva.jpg){#fig:cern-shiva}
+![Shiva statue at CERN, near Building 40, [a gift from India](https://www.sanskritimagazine.com/vedic_science/shivas-cosmic-dance-nataraj-at-cern/).](img/cern-shiva.jpg){#fig-cern-shiva}
 
 Others:
 
@@ -520,7 +520,7 @@ Others:
     is an imporant symbol in many dharmic religions,
     in particular Buddhism where it represents the 
     [Noble Eightfold Path](https://en.wikipedia.org/wiki/Noble_Eightfold_Path).
-    ](img/wheel-of-dharma.png){#fig:wheel-of-dharma}
+    ](img/wheel-of-dharma.png){#fig-wheel-of-dharma}
 
 
 Buddhism
@@ -791,9 +791,9 @@ See also:
 
 
 ![Map of the spread of Buddhism in Asia, first begining ~ 5th century BCE, spreading to the south as Therav&amacr;da Buddhism,
-    and into China and Tibet as Mah&amacr;y&amacr;na Buddhism (source: [Talk by Graham Priest](https://www.youtube.com/watch?v=V-P3j3S2beA), 2018).](img/map-of-spread-of-buddhism.jpg){#fig:map-of-spread-of-buddhism}
+    and into China and Tibet as Mah&amacr;y&amacr;na Buddhism (source: [Talk by Graham Priest](https://www.youtube.com/watch?v=V-P3j3S2beA), 2018).](img/map-of-spread-of-buddhism.jpg){#fig-map-of-spread-of-buddhism}
 
-![Map of the main modern Buddhist sects today. Kalmykia in western Russia was cropped out, sorry ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig:Buddhist-sects}
+![Map of the main modern Buddhist sects today. Kalmykia in western Russia was cropped out, sorry ([Wikipedia](https://en.wikipedia.org/wiki/Mahayana#/media/File:Buddhist_sects.png), 2013).](img/Buddhist-sects.png){#fig-Buddhist-sects}
 
 
 ### Therav&amacr;da Buddhism
@@ -810,7 +810,7 @@ See also:
 -   Very roughly, today Therav&amacr;da Buddhism is dominately found in south-east Asia:
     Sri Lanka, Burma, Thailand, Laos, and Cambodia;
     whereas Mah&amacr;y&amacr;na is found in more northern Asia: China, Korea, Japan,
-    Taiwan, Hong Kong, but also Vietnam (see [@fig:Buddhist-sects]).
+    Taiwan, Hong Kong, but also Vietnam (see [@fig-Buddhist-sects]).
 
 #### History
 
@@ -933,7 +933,7 @@ Online Suttas:
 -   Mah&amacr;y&amacr;na, in a somewhat pejorative way, sometimes refer to Therav&amacr;da
     as [Hinay&amacr;na](https://en.wikipedia.org/wiki/Hinayana), "small/deficient vehicle".
 
-![N&amacr;g&amacr;rjuna (source: [www.tsemrinpoche.com](https://www.tsemrinpoche.com/tsem-tulku-rinpoche/downloads/buddha-images.html?keyfilter=nagarjuna&submit=Filter)).](img/nagarjuna-detail.jpg){#fig:nagarjuna-detail.jpg}
+![N&amacr;g&amacr;rjuna (source: [www.tsemrinpoche.com](https://www.tsemrinpoche.com/tsem-tulku-rinpoche/downloads/buddha-images.html?keyfilter=nagarjuna&submit=Filter)).](img/nagarjuna-detail.jpg){#fig-nagarjuna-detail.jpg}
 
 #### History
 
@@ -1088,7 +1088,7 @@ Online Suttas:
 
 ![*Blind monks examining an elephant*, an ukiyo-e print by Hanabusa Itcho (1652-1724)
     (source: [Wikipedia](https://commons.wikimedia.org/wiki/File:Blind_monks_examining_an_elephant.jpg)).
-    ](img/Hanabusa-Blind-monks-examining-an-elephant.jpg){#fig:Hanabusa-Blind-monks-examining-an-elephant}
+    ](img/Hanabusa-Blind-monks-examining-an-elephant.jpg){#fig-Hanabusa-Blind-monks-examining-an-elephant}
 
 
 ### Vajray&amacr;na Buddhism
@@ -1227,7 +1227,7 @@ Concepts:
 -   Van Norden, B. (2021). Talk: [Understanding the *Classic of Changes* (*I Ching*)](https://www.youtube.com/watch?v=jNFy6RFU1xk).
 -   Cottrell, R. - [The Virtual Yarrow Stalks I Ching](http://www.russellcottrell.com/VirtualYarrowStalks/VirtualYarrowStalks.htm).
 
-![The sixty-four hexagrams of the King Wen sequence of the *Yijing*.](img/king-wen-sequence.png){#fig:king-wen-sequence}
+![The sixty-four hexagrams of the King Wen sequence of the *Yijing*.](img/king-wen-sequence.png){#fig-king-wen-sequence}
 
 Gua 01:
 
@@ -1372,7 +1372,7 @@ See also:
 -   [Meiji era](https://en.wikipedia.org/wiki/Meiji_(era))
 -   In Japan, today most people practice a mixture Shinto and Buddhist religions to some extent.
 
-![Statues of kitsune (foxes) at Fushimi Inari-taisha (photo by Ryan Reece, 2018).](img/kitsune-fushimi-inari.png){#fig:kitsune-fushimi-inari}
+![Statues of kitsune (foxes) at Fushimi Inari-taisha (photo by Ryan Reece, 2018).](img/kitsune-fushimi-inari.png){#fig-kitsune-fushimi-inari}
 
 
 ### African
@@ -1444,7 +1444,7 @@ Only Roman texts from the Late Stoa survive.
 
 ![The historical and conceptual relationships among Hellonistic schools
     of philosophy and how they diverged from the thinking of Socrates. [^Pigliucci2017p224]
-    ](img/Pigliucci-history-of-Hellonistic-schools.jpg){#fig:Pigliucci-history-of-Hellonistic-schools}
+    ](img/Pigliucci-history-of-Hellonistic-schools.jpg){#fig-Pigliucci-history-of-Hellonistic-schools}
 
 
 #### Stoicism's influence on Christianty
@@ -1616,7 +1616,7 @@ See also:
 
 ![Another reconstruction of the influence of Socrates on Hellonistic schools of philosophy
     (source: [socrethics.com](https://socrethics.com/Folder2/Hellenism-Buddhism.htm)).
-    ](img/influence-of-socrates.jpg){#fig:influence-of-socrates}
+    ](img/influence-of-socrates.jpg){#fig-influence-of-socrates}
 
 #### Cynicism
 
@@ -1840,7 +1840,7 @@ Comparative studies
 
 ![Campaign of Alexander the Great into the East (334-323 BCE). Larger version: [here](img/campaign-of-alexander-large.jpg).
     (source:[Wikipedia](https://commons.wikimedia.org/wiki/File:MacedonEmpire.jpg))
-    ](img/campaign-of-alexander.jpg){#fig:campaign-of-alexander}
+    ](img/campaign-of-alexander.jpg){#fig-campaign-of-alexander}
 
 #### Buddhism and Stoicism
 
@@ -1949,7 +1949,7 @@ Biology
 -   [Alfred Russel Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace) (1823-1913)
 -   [Thomas Henry Huxley](http://en.wikipedia.org/wiki/Thomas_Henry_Huxley) (1825-1895)
 
-![The great tree of life. Larger version: [here](img/great-tree-of-life-large.png). Source:[here](https://visual.ly/community/infographic/science/great-tree-life).](img/great-tree-of-life.png){#fig:great-tree-of-life}
+![The great tree of life. Larger version: [here](img/great-tree-of-life-large.png). Source:[here](https://visual.ly/community/infographic/science/great-tree-life).](img/great-tree-of-life.png){#fig-great-tree-of-life}
 
 -   We are animals.
 -   We are all related.
@@ -1991,7 +1991,7 @@ Biology
 -   Epigenetics
 -   Marletto, C. (2015). [Constructor theory of life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4345487/). [^Marletto2015]
 
-![Animation by Drew Berry of DNA replication, where a helicase enzyme unzips DNA, and DNA polymerase synthesizes new strands with complimentary nucleotides.](img/drew-berry-dna-animation.gif){#fig:drew-berry-dna-animation}
+![Animation by Drew Berry of DNA replication, where a helicase enzyme unzips DNA, and DNA polymerase synthesizes new strands with complimentary nucleotides.](img/drew-berry-dna-animation.gif){#fig-drew-berry-dna-animation}
 
 [^Marletto2015]: @Marletto_2015_Constructor_theory_of_life\.
 [^Schrodinger1944]: @Schrodinger_1944_What_Is_Life_The_Physical_Aspect_of_the_Living\.
@@ -2001,7 +2001,7 @@ Biology
 
 -   We are complex.
 
-![[Blood by David S. Goodsell (2000)](http://mgl.scripps.edu/people/goodsell/illustration/public).](img/Goodsell-blood.jpg){#fig:Goodsell-blood}
+![[Blood by David S. Goodsell (2000)](http://mgl.scripps.edu/people/goodsell/illustration/public).](img/Goodsell-blood.jpg){#fig-Goodsell-blood}
 
 
 ### Evolution of vision
@@ -2017,7 +2017,7 @@ Biology
 >   transitions in that region---it is too energetic for the vibrations of the
 >   water molecule and below the energies needed to cause electronic transitions. [^Nave2016]
 
-![Light absorbtion in water and the blackbody spectrum for the approximate temperature of the Sun ([hyperphysics.phy-astr.gsu.edu](http://hyperphysics.phy-astr.gsu.edu/hbase/Chemical/watabs.html), 2016).](img/light-absorbtion-in-water.png){#fig:light-absorbtion-in-water}
+![Light absorbtion in water and the blackbody spectrum for the approximate temperature of the Sun ([hyperphysics.phy-astr.gsu.edu](http://hyperphysics.phy-astr.gsu.edu/hbase/Chemical/watabs.html), 2016).](img/light-absorbtion-in-water.png){#fig-light-absorbtion-in-water}
 
 TODO: Find Dawkins on multiple instances of convergent evolution of eyes.
 
@@ -2444,7 +2444,7 @@ Cormac McCarthy:
 >   man's will or whether his own heart is not another kind of
 >   clay. [^McCarthy1985p4]
 
-![*The Scream*, Edvard Munch, 1893.](img/1893.Munch.The-Scream.png){#fig:1893.Munch.The-Scream}
+![*The Scream*, Edvard Munch, 1893.](img/The-Scream-Munch-1893.jpg){#fig-The-Scream-Munch-1893}
 
 [^McCarthy1985p4]: McCarthy, C. (1985). *Blood Meridian*, ch. 1, p. 4.
 [^Roosevelt1910]: @Roosevelt_1910_Citizenship_in_a_republic\.
@@ -2829,4 +2829,3 @@ Others
 
 </div>
 
-<!-- REFERENCES -->

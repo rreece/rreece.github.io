@@ -1,5 +1,8 @@
-Philosophy of physics
-================================================================================
+---
+title: "Philosophy of physics"
+date: today
+---
+
 
 What are good theories of the world?
 
@@ -9,9 +12,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-<!-- PAGETOC -->
 
 
 Theories of matter
@@ -469,7 +469,7 @@ Feynman and Hibbs on the uncertainty principle:
 -   Bacciagaluppi, G. & Valentini, A. (2009). [*Quantum Theory at the Crossroads: Reconsidering the 1927 Solvay Conference*](https://arxiv.org/abs/quant-ph/0609184). [^Bacciagaluppi2009]
 -   [Proceedings of the Solvay conferences on physics](http://www.solvayinstitutes.be/html/solvayconf_physics.html)
 
-![1927 Solvay Conference on Quantum Mechanics (source: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg)).](img/Solvay-conference-1927.jpg){#fig:Solvay-conference-1927}
+![1927 Solvay Conference on Quantum Mechanics (source: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/6/6e/Solvay_conference_1927.jpg)).](img/Solvay-conference-1927.jpg){#fig-Solvay-conference-1927}
 
 -   [Pascual Jordan](https://en.wikipedia.org/wiki/Pascual_Jordan) (1902-1980)
 -   [Eugene Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) (1902-1995)
@@ -1262,7 +1262,7 @@ possible gauge transformations.
 >   Bundles are the *global* structure of physical fields and they are irrelevant
 >   only for the crude local and perturbative description of reality. [^nLab2021Fiber]
 
-![An illustration of the fiber bundle formulation of interacting quantum fields. [^Auyang1995p220] ](img/Auyang1995-p220-fiber-qft.png){#fig:Auyang1995-p220-fiber-qft}
+![An illustration of the fiber bundle formulation of interacting quantum fields. [^Auyang1995p220] ](img/Auyang1995-p220-fiber-qft.png){#fig-Auyang1995-p220-fiber-qft}
 
 -   Auyang, S.Y. (1995). *How Is Quantum Field Theory Possible?* [^Auyang1995b]
 -   Auyang, S.Y. (2000). Mathematics and reality: Two notions of spacetime in the analytic and constructionist views of gauge field theories. [^Auyang2000]
@@ -1495,7 +1495,7 @@ Interpretations of quantum mechanics
     -   Some strange defenses of Bohr
 -   Becker, A. (2018). *What is Real?* [^Becker2018]
 
-![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig:interpretations-of-quantum-mechanics-v2}
+![Interpretations of quantum mechanics ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/145247040756/interpretations-of-quantum-mechanics-v2)).](img/interpretations-of-quantum-mechanics-v2.png){#fig-interpretations-of-quantum-mechanics-v2}
 
 Criticisms:
 
@@ -2058,7 +2058,7 @@ a key to explaining electroweak symmetry breaking in the Standard Model of parti
 
 ### Three generations of fermions
 
-![The fields in the standard model of particle physics (source: [Symmetry Magazine](https://www.symmetrymagazine.org/standard-model/)).](img/standard-model-of-particle-physics.png){#fig:standard-model-of-particle-physics}
+![The fields in the standard model of particle physics (source: [Symmetry Magazine](https://www.symmetrymagazine.org/standard-model/)).](img/standard-model-of-particle-physics.png){#fig-standard-model-of-particle-physics}
 
 -   Discovery of charm: "November revolution" at SLAC and BNL (1974)
 -   Discovery of tau at SLAC + LBL (1975)
@@ -2070,7 +2070,7 @@ a key to explaining electroweak symmetry breaking in the Standard Model of parti
     together with general relativity as presented by [Sean Carroll on his blog](http://www.preposterousuniverse.com/blog/2013/01/04/the-world-of-everyday-experience-in-one-equation/).
     In this all encompassing equation, fermions are the quanta of the $\psi$ fields and
     bosons are the quanta of the $g$, $A$, and $\Phi$ fields.
-    ](img/carroll-standard-model-action.jpg){#fig:carroll-standard-model-action}
+    ](img/carroll-standard-model-action.jpg){#fig-carroll-standard-model-action}
 
 More:
 
@@ -2179,7 +2179,7 @@ See also:
     in the Standard Model (dashed lines) and the MSSM (solid lines).
     In the MSSM case, the sparticle masses are treated as a common
     threshold varied between 750 GeV (blue) and 2.5 TeV (red). [^Martin2016p66]
-    ](img/martin-running-of-the-couplings.png){#fig:martin-running-of-the-couplings}
+    ](img/martin-running-of-the-couplings.png){#fig-martin-running-of-the-couplings}
 
 ![Ryan's sketch of how a grand unified theory may come together.
     Noted in green are parts of the theory that are well verified experimentally.
@@ -2187,7 +2187,7 @@ See also:
     This was a slide from my thesis defense, partially to help motivate
     why I would look for a $Z^{\prime}$ particle
     (source: [Ryan's thesis defense (2013).
-    ](http://rreece.github.io/talks/pdf/2013-06-12-RReece-Ditaus-at-ATLAS-thesis-defense.pdf)).](img/grand-unified-theory.jpg){#fig:grand-unified-theory}
+    ](http://rreece.github.io/talks/pdf/2013-06-12-RReece-Ditaus-at-ATLAS-thesis-defense.pdf)).](img/grand-unified-theory.jpg){#fig-grand-unified-theory}
 
 See also:
 
@@ -2263,7 +2263,7 @@ Gravity and cosmology
 -   General covariance, diffeomorphism invariance, background independence
 -   Norton, J.D. (1993). [General covariance and the foundations of general relativity: Eight decades of dispute](https://web.archive.org/web/20171124074404/http://www.pitt.edu/~jdnorton/papers/decades.pdf). [^Norton1993]
 
-$$ R_{\mu\nu} - \frac{1}{2} R \: g_{\mu\nu} + \Lambda \: g_{\mu\nu} = \frac{8 \pi G}{c^4} \: T_{\mu\nu} \label{eq:einstein_field_equations} $$
+$$ R_{\mu\nu} - \frac{1}{2} R \: g_{\mu\nu} + \Lambda \: g_{\mu\nu} = \frac{8 \pi G}{c^4} \: T_{\mu\nu} $$
 
 [^Arntzenius2012]: @Arntzenius_2012_Space_Time_and_Stuff\.
 [^Carroll2004]: @Carroll_2004_Spacetime_and_Geometry\.
@@ -2381,7 +2381,7 @@ Guth:
 >   The negative pressure of the false vacuum, therefore, creates a repulsive
 >   gravitational field, which is the driving force behind inflation. [^Guth1997Sec3]
 
-![How the $\Lambda$-CDM concordance model of cosmology was developed. [^Debono2016f4]](img/concordance-model-LCDM.png){#fig:concordance-model-LCDM}
+![How the $\Lambda$-CDM concordance model of cosmology was developed. [^Debono2016f4]](img/concordance-model-LCDM.png){#fig-concordance-model-LCDM}
 
 [^Albrecht1982]: @Albrecht_1982_Cosmology_for_Grand_Unified_Theories\.
 [^Baumann2009]: @Baumann_2009_TASI_lectures_on_inflation\.
@@ -2473,7 +2473,7 @@ Bracketing human experience
 -   Carroll, S. (2015). [Quantum field theory and the limits of knowledge](http://www.preposterousuniverse.com/blog/2015/04/21/quantum-field-theory-and-the-limits-of-knowledge/).
 -   Carroll, S. (2021). [The quantum field theory on which the everyday world supervenes](https://philpapers.org/rec/CARTQF-5).
 
-![Sean Carroll on the entailment of everyday life by physics.](img/carroll-entailment.jpg){#fig:carroll-entailment}
+![Sean Carroll on the entailment of everyday life by physics.](img/carroll-entailment.jpg){#fig-carroll-entailment}
 
 Videos of talks:
 
@@ -2852,4 +2852,3 @@ Click to show links
 
 </div>
 
-<!-- REFERENCES -->

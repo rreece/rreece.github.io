@@ -1,5 +1,8 @@
-Philosophy of mathematics
-================================================================================
+---
+title: "Philosophy of mathematics"
+date: today
+---
+
 
 These next several outlines deal with philosophy of certain
 specialized topics, starting with this one on the philosophy of mathematics.
@@ -11,9 +14,6 @@ Then we discuss unification programs across branches,
 followed by sections on positions in philosophy of mathematics,
 in particular dealing with the realism/antirealism or platonism/nominalism
 debate.
-
-
-<!-- PAGETOC -->
 
 
 Algebra
@@ -58,7 +58,7 @@ TODO
 -   [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis)
 -   [Rayleigh quotient](https://en.wikipedia.org/wiki/Rayleigh_quotient)
 
-![Matrix World: Classifying all matrices (source: [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/tree/main)).](img/matrix-world.png){#fig:matrix-world}
+![Matrix World: Classifying all matrices (source: [The Art of Linear Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra/tree/main)).](img/matrix-world.png){#fig-matrix-world}
 
 See also:
 
@@ -163,7 +163,7 @@ TODO
     Note that $\Pi$ was Leibniz's notation for equality.
     Photo by [S. Wolfram](https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/) (2013)
     of notes in the Leibniz-Archiv in Hanover, Germany.
-    ](img/leibniz-1675-summa-and-diff.jpg){#fig:leibniz-1675-summa-and-diff}
+    ](img/leibniz-1675-summa-and-diff.jpg){#fig-leibniz-1675-summa-and-diff}
 
 -   James Gregory (1638-1675) 
 -   Isaac Barrow (1630-1677)
@@ -1083,7 +1083,7 @@ Platonism
 -   Monism: everything is math.
 -   Tegmark, M. (2014). *Our Mathematical Universe*. [^Tegmark2014]
 
-![Bronnikov, F. (1869). Pythagoreans celebrate sunrise. ([Wikimedia](https://commons.wikimedia.org/wiki/File:Bronnikov_gimnpifagoreizev.jpg), 2007).](img/Bronnikov-Pythagoreans-celebrate-sunrise.jpg){#fig:Bronnikov-Pythagoreans-celebrate-sunrise}
+![Bronnikov, F. (1869). Pythagoreans celebrate sunrise. ([Wikimedia](https://commons.wikimedia.org/wiki/File:Bronnikov_gimnpifagoreizev.jpg), 2007).](img/Bronnikov-Pythagoreans-celebrate-sunrise.jpg){#fig-Bronnikov-Pythagoreans-celebrate-sunrise}
 
 [^Tegmark2014]: @Tegmark_2014_Our_Mathematical_Universe\.
 
@@ -1100,7 +1100,7 @@ Platonism
 
 ![Detail of *School of Athens* by Raphael (1511), showing Plato and Aristotle
     ([Wikimedia](https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg), 2013).
-    ](img/Raphael-School-of-Athens-1511-detail-Plato-Aristotle-mod.jpg){#fig:Raphael-School-of-Athens-1511-detail-Plato-Aristotle}
+    ](img/Raphael-School-of-Athens-1511-detail-Plato-Aristotle-mod.jpg){#fig-Raphael-School-of-Athens-1511-detail-Plato-Aristotle}
 
 >   I think you know that the students of geometry, calculation, and the like
 >   hypothesize the odd and the even, the various figures, the three kinds of
@@ -1816,4 +1816,3 @@ Click to show links
 
 </div>
 
-<!-- REFERENCES -->

@@ -1,5 +1,8 @@
-Scientific realism
-================================================================================
+---
+title: "Scientific realism"
+date: today
+---
+
 
 Can we claim to know anything about reality?
 Is it a goal of science to describe reality?
@@ -11,9 +14,6 @@ discusses the epistemological foundations and limitations of science.
 
 This could have been called the outline of "Metaphysics" or
 "The realism debate".
-
-
-<!-- PAGETOC -->
 
 
 Metaphysics
@@ -129,7 +129,7 @@ Realism and antirealism
     -   [Sextus Empiricus](https://en.wikipedia.org/wiki/Sextus_Empiricus) (c. 160-210 CE) 
     -   [Agrippa's trilemma](https://en.wikipedia.org/wiki/M%C3%BCnchhausen_trilemma)
 
-![Depiction of the scene in the Allegory of the Cave.](img/allegory-of-the-cave.jpg){#fig:allegory-of-the-cave}
+![Depiction of the scene in the Allegory of the Cave.](img/allegory-of-the-cave.jpg){#fig-allegory-of-the-cave}
 
 Aquinas on truth:
 
@@ -427,7 +427,7 @@ Sankey:
 
 The primary dichotomy of positions is between forms of scientific realism and instrumentalism.
 
-![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig:phil-of-science}
+![Scientific realism vs antirealism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/92196098591/scientific-realism-vs-anti-realism), [my tweet](https://twitter.com/RyanDavidReece/status/490317638418309120), 2014).](img/phil-of-science-v02.png "My figure on scientific realism vs antirealism"){#fig-phil-of-science}
 
 -   Khlentzos, D. (2011). [Challenges to metaphysical realism](http://plato.stanford.edu/entries/realism-sem-challenge/). *SEP*. [^Khlentzos2011-2]
 -   Wray, K.B. (2018). *Resisting Scientific Realism*. [^Wray2018]
@@ -987,7 +987,7 @@ Later Wittgenstein made a significant shift. See [Ordinary language philosophy](
   at Boltzmanngasse 5, the meeting place of the Vienna Circle during their
   regular Thursday meetings.
   Right: The Vienna Circle's manifesto, Wissenschaftliche Weltauffassung: Der Wiener Kreis (1929).
-](img/vienna-circle-seminar-and-manifesto.jpg){#fig:vienna-circle-seminar-and-manifesto}
+](img/vienna-circle-seminar-and-manifesto.jpg){#fig-vienna-circle-seminar-and-manifesto}
 
 -   Group of philosophers lead by Moritz Schlick that met regularly at the University of Vienna from 1924--1936.
     -   Moritz Schlick, Rudolf Carnap, Otto Neurath, Hans Hahn, 
@@ -1999,7 +1999,7 @@ Bas van Fraassen (b. 1941):
 -   van Fraassen, B. (2002). *The Empirical Stance*. [^vanFraassen2002]
 -   van Fraassen, B. (2013). [Lecture contrasting naturalism and empiricism](https://www.youtube.com/watch?v=_kYRcibo_d8).
 
-![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories), 2015).](img/true-vs-literal-theories.png){#fig:true-vs-literal-theories}
+![True vs literal theories ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131701260166/true-vs-literal-theories), 2015).](img/true-vs-literal-theories.png){#fig-true-vs-literal-theories}
 
 Otavio Bueno:
 
@@ -2933,4 +2933,3 @@ Click to show links
 
 </div>
 
-<!-- REFERENCES -->

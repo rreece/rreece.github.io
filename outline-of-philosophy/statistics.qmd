@@ -1,7 +1,8 @@
-Philosophy of statistics
-================================================================================
+---
+title: "Philosophy of statistics"
+date: today
+---
 
-\newcommand*{\trans}{^{\mathsf{T}}}
 
 Statistical analysis is very important in addressing the problem of induction.
 Can inductive inference be formalized?
@@ -16,9 +17,6 @@ How does machine learning work?
 >   -- C. R. Rao [^Rao1997px]
 
 [^Rao1997px]: @Rao_1997_Statisitcs_and_Truth_Putting_Chance_to_Work\, p. x.
-
-
-<!-- PAGETOC -->
 
 
 Introduction to the foundations of statistics
@@ -214,31 +212,35 @@ TODO:
 
 Expectation:
 
-$$ \mathbb{E}(y) \equiv \int dx \: p(x) \: y(x) \label{eq:expectation} $$
+$$ \mathbb{E}(y) \equiv \int dx \: p(x) \: y(x) $$
 
 Expectation values can be approximated with a partial sum over some data
 or Monte Carlo sample:
 
-$$ \mathbb{E}(y) \approx \frac{1}{n} \sum_s^n y(x_s) \label{eq:expectation_sum} $$
+$$ \mathbb{E}(y) \approx \frac{1}{n} \sum_s^n y(x_s) $$
 
 The variance of a random variable, $y$, is defined as
 
+$$
 \begin{align}
-    \mathrm{Var}(y) &\equiv \mathbb{E}((y - \mathbb{E}(y))^2) \nonumber \\
-    &= \mathbb{E}(y^2 - 2 \: y \: \mathbb{E}(y) + \mathbb{E}(y)^2) \nonumber \\
-    &= \mathbb{E}(y^2) - 2 \: \mathbb{E}(y) \: \mathbb{E}(y) + \mathbb{E}(y)^2 \nonumber \\
-    &= \mathbb{E}(y^2) - \mathbb{E}(y)^2 \label{eq:variance}
+    \mathrm{Var}(y) &\equiv \mathbb{E}((y - \mathbb{E}(y))^2) \\
+    &= \mathbb{E}(y^2 - 2 \: y \: \mathbb{E}(y) + \mathbb{E}(y)^2) \\
+    &= \mathbb{E}(y^2) - 2 \: \mathbb{E}(y) \: \mathbb{E}(y) + \mathbb{E}(y)^2 \\
+    &= \mathbb{E}(y^2) - \mathbb{E}(y)^2
 \end{align}
+$$ {#eq-variance}
 
 The covariance matrix, $\boldsymbol{V}$, of random variables $x_i$ is
 
+$$
 \begin{align}
-    V_{ij} &= \mathrm{Cov}(x_i, x_j) \equiv \mathbb{E}[(x_i - \mathbb{E}(x_i)) \: (x_j - \mathbb{E}(x_j))] \nonumber \\
-           &= \mathbb{E}(x_i \: x_{j} - \mu_i \: x_j - x_i \: \mu_j + \mu_i \: \mu_j ) \nonumber \\
-           &= \mathbb{E}(x_i \: x_{j}) - \mu_i \: \mu_j \label{eq:covariance_matrix_indexed}
+    V_{ij} &= \mathrm{Cov}(x_i, x_j) \equiv \mathbb{E}[(x_i - \mathbb{E}(x_i)) \: (x_j - \mathbb{E}(x_j))] \\
+           &= \mathbb{E}(x_i \: x_{j} - \mu_i \: x_j - x_i \: \mu_j + \mu_i \: \mu_j ) \\
+           &= \mathbb{E}(x_i \: x_{j}) - \mu_i \: \mu_j
 \end{align}
+$$ {#eq-covariance-matrix}
 
-\begin{equation}
+$$
 \boldsymbol{V} = 
 \begin{pmatrix}
     \mathrm{Var}(x_1) & \mathrm{Cov}(x_1, x_2) & \cdots & \mathrm{Cov}(x_1, x_n) \\
@@ -246,8 +248,7 @@ The covariance matrix, $\boldsymbol{V}$, of random variables $x_i$ is
     \vdots & \vdots & \ddots &  \vdots \\
     \mathrm{Cov}(x_n, x_1) & \mathrm{Cov}(x_n, x_2) & \cdots & \mathrm{Var}(x_n)
 \end{pmatrix}
-\label{eq:covariance_matrix_array}
-\end{equation}
+$$
 
 Diagonal elements of the covariance matrix are the variances of each
 variable.
@@ -259,13 +260,13 @@ how related two variables are, linearly.
 Covariance can be normalized to give the correlation coefficient between
 variables:
 
-$$ \mathrm{Cor}(x_i, x_j) \equiv \frac{ \mathrm{Cov}(x_i, x_j) }{ \sqrt{ \mathrm{Var}(x_i) \: \mathrm{Var}(x_j)  }  } \label{eq:correlation_matrix} $$
+$$ \mathrm{Cor}(x_i, x_j) \equiv \frac{ \mathrm{Cov}(x_i, x_j) }{ \sqrt{ \mathrm{Var}(x_i) \: \mathrm{Var}(x_j)  }  } $$
 
 which is bounded: $-1 \leq \mathrm{Cor}(x_i, x_j)  \leq 1$.
 
 The covariance of two random vectors is given by
 
-$$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathbb{E}(\vec{x} \: \vec{y}\trans) - \vec{\mu}_x \: \vec{\mu}_{y}\trans \label{eq:covariance_matrix_vectors} $$
+$$ \boldsymbol{V} = \mathrm{Cov}(\vec{x}, \vec{y}) = \mathbb{E}(\vec{x} \: \vec{y}^\intercal) - \vec{\mu}_x \: \vec{\mu}_{y}^\intercal $$
 
 
 ### Cross entropy
@@ -274,19 +275,21 @@ TODO: discuss the Shannon entropy and Kullback-Leibler (KL) divergence. [^Goodfe
 
 Shannon entropy:
 
-$$ H(p) = - \underset{x\sim{}p}{\mathbb{E}}\big[ \log p(x) \big] \label{eq:shannon_entropy} $$
+$$ H(p) = - \underset{x\sim{}p}{\mathbb{E}}\big[ \log p(x) \big] $$
 
 Cross entropy:
 
-$$ H(p, q) = - \underset{x\sim{}p}{\mathbb{E}}\big[ \log q(x) \big] = - \sum_{x} p(x) \: \log q(x) \label{eq:cross_entropy} $$
+$$ H(p, q) = - \underset{x\sim{}p}{\mathbb{E}}\big[ \log q(x) \big] = - \sum_{x} p(x) \: \log q(x) $$
 
 Kullback-Leibler (KL) divergence:
 
+$$
 \begin{align}
 D_\mathrm{KL}(p, q)
-    &= \underset{x\sim{}p}{\mathbb{E}}\left[ \log \left(\frac{p(x)}{q(x)}\right) \right] = \underset{x\sim{}p}{\mathbb{E}}\big[ \log p(x) - \log q(x) \big] \label{eq:kl_divergence} \\
+    &= \underset{x\sim{}p}{\mathbb{E}}\left[ \log \left(\frac{p(x)}{q(x)}\right) \right] = \underset{x\sim{}p}{\mathbb{E}}\big[ \log p(x) - \log q(x) \big] \\
     &= - H(p) + H(p, q) \\
 \end{align}
+$$
 
 See also the section on [logistic regression](#logistic-regression).
 
@@ -322,12 +325,14 @@ $$ \mathbb{E}(y) \approx y(\vec{\mu}) $$
 
 and
 
+$$
 \begin{align}
 \mathbb{E}(y^2)
-    &\approx y^2(\vec{\mu}) + 2 \, y(\vec{\mu}) \, \left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}} \mathbb{E}(x_i - \mu_i) \nonumber \\
+    &\approx y^2(\vec{\mu}) + 2 \, y(\vec{\mu}) \, \left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}} \mathbb{E}(x_i - \mu_i) \\
     &+ \left.\frac{\partial y}{\partial x_i}\right|_{\vec{x}=\vec{\mu}} \left.\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}} \mathbb{E}\left[ (x_i - \mu_i) (x_j - \mu_j) \right] \\
-    &= y^2(\vec{\mu}) + \, \left.\frac{\partial y}{\partial x_i}\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}} V_{ij} \\
+    &= y^2(\vec{\mu}) + \, \left.\frac{\partial y}{\partial x_i}\frac{\partial y}{\partial x_j}\right|_{\vec{x}=\vec{\mu}} V_{ij}
 \end{align}
+$$
 
 TODO:
 
@@ -352,7 +357,7 @@ See:
 -   [Bayes, Thomas](https://en.wikipedia.org/wiki/Thomas_Bayes) (1701-1761)
 -   Bayes' theorem
 
-$$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
+$$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) $$
 
 -   Extended version of Bayes theorem
 -   TODO: Example of conditioning with medical diagnostics
@@ -367,11 +372,11 @@ $$ P(A|B) = P(B|A) \: P(A) \: / \: P(B) \label{eq:bayes_theorem} $$
     -   Fienberg, S.E. (2006). [When did Bayesian inference become "Bayesian"?](https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/When-did-Bayesian-inference-become-Bayesian/10.1214/06-BA101.full) [^Fienberg2006]
 -   Weisberg: ["Two Schools"](https://jonathanweisberg.org/vip/two-schools.html) [^Weisberg2019ch15]  
 
-$$ P(H|D) = P(D|H) \: P(H) \: / \: P(D) \label{eq:bayes_theorem_hd} $$
+$$ P(H|D) = P(D|H) \: P(H) \: / \: P(D) $$
 
 -   Likelihood
 
-$$ L(\theta) = P(D|\theta) \label{eq:likelihood_def_x} $$
+$$ L(\theta) = P(D|\theta) $$
 
 -   We will return to the frequentist vs bayesian debate in the section on the
     ["Statistics Wars"](#statistics-wars).
@@ -422,7 +427,7 @@ Statistical models
 
 #### Bernoulli distribution
 
-$$ \mathrm{Ber}(k; p) = \begin{cases} p & \mathrm{if}\ k = 1 \\ 1-p & \mathrm{if}\ k = 0 \end{cases} \label{eq:bernoulli} $$
+$$ \mathrm{Ber}(k; p) = \begin{cases} p & \mathrm{if}\ k = 1 \\ 1-p & \mathrm{if}\ k = 0 \end{cases} $$
 
 which can also be written as
 
@@ -437,20 +442,19 @@ $$ \mathrm{Ber}(k; p) = p k + (1-p)(1-k) \quad \mathrm{for}\ k \in \{0, 1\} $$
 
 TODO: explain, another important relationship is
 
-![Relationships among Bernoulli, binomial, categorical, and multinomial distributions.](img/bernoulli-binomial-multinomial.png){#fig:bernoulli-binomial-multinomial}
+![Relationships among Bernoulli, binomial, categorical, and multinomial distributions.](img/bernoulli-binomial-multinomial.png){#fig-bernoulli-binomial-multinomial}
 
 
 #### Normal/Gaussian distribution
 
-$$ N(x \,|\, \mu, \sigma^2) = \frac{1}{\sqrt{2\,\pi\:\sigma^2}} \: \exp\left(\frac{-(x-\mu)^2}{2\,\sigma^2}\right) \label{eq:gaussian} $$
+$$ N(x \,|\, \mu, \sigma^2) = \frac{1}{\sqrt{2\,\pi\:\sigma^2}} \: \exp\left(\frac{-(x-\mu)^2}{2\,\sigma^2}\right) $$
 
 and in $k$ dimensions:
 
-$$ N(\vec{x} \,|\, \vec{\mu}, \boldsymbol{\Sigma}) = (2 \pi)^{-k/2}\:\left|\boldsymbol{\Sigma}\right|^{-1/2} \: \exp\left(\frac{-1}{2}\:(\vec{x}-\vec{\mu})\trans \:\boldsymbol{\Sigma}^{-1}\:(\vec{x}-\vec{\mu})\right) \label{eq:gaussian_k_dim} $$
+$$ N(\vec{x} \,|\, \vec{\mu}, \boldsymbol{\Sigma}) = (2 \pi)^{-k/2}\:\left|\boldsymbol{\Sigma}\right|^{-1/2} \: \exp\left(\frac{-1}{2}\:(\vec{x}-\vec{\mu})^\intercal \:\boldsymbol{\Sigma}^{-1}\:(\vec{x}-\vec{\mu})\right) $$
 
-where $\boldsymbol{\Sigma}$ is the covariance matrix
-(defined in [@eq:covariance_matrix_indexed])
-of the distribution.
+where $\boldsymbol{\Sigma}$ is the covariance matrix of the distribution
+(defined in @eq-covariance-matrix).
 
 
 ### Central limit theorem
@@ -459,12 +463,12 @@ Let $X_{1}$, $X_{2}$, ... , $X_{n}$ be a random sample drawn from _any_
 distribution with a ﬁnite mean $\mu$ and variance $\sigma^{2}$. As
 $n \rightarrow \infty$, the distribution of
 
-$$ \frac{\bar{X} - \mu}{\sigma/\sqrt{n}} \sim N(0, 1) \label{eq:central_limit_theorem} $$
+$$ \frac{\bar{X} - \mu}{\sigma/\sqrt{n}} \sim N(0, 1) $$
 
 -   $\chi^2$ distribution
 -   Univariate distribution relationships
 
-![Detail of a figure showing relationships among univariate distributions. See the [full figure here](http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf) [^Leemis2008].](img/Leemis-univariate-distribution-relationships.png ){#fig:Leemis-univariate-distribution-relationships}
+![Detail of a figure showing relationships among univariate distributions. See the [full figure here](http://www.stat.rice.edu/~dobelman/courses/texts/leemis.distributions.2008amstat.pdf) [^Leemis2008].](img/Leemis-univariate-distribution-relationships.png ){#fig-Leemis-univariate-distribution-relationships}
 
 -   The exponential family of distributions are maximum entropy distributions.
 
@@ -514,23 +518,25 @@ $f(x_i; \theta_j)$ that models the data reasonably well [^NoteClass3].
 
 The bias of an estimator, $\hat\theta$, is defined as
 
-$$ \mathrm{Bias}(\hat{\theta}) \equiv \mathbb{E}(\hat{\theta} - \theta) = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) \label{eq:bias} $$
+$$ \mathrm{Bias}(\hat{\theta}) \equiv \mathbb{E}(\hat{\theta} - \theta) = \int dx \: P(x|\theta) \: (\hat{\theta} - \theta) $$
 
 The mean squared error (MSE) of an estimator has a similar formula to variance
-([@eq:variance])
+(@eq-variance)
 except that instead of quantifying the square of the difference of the estimator
 and its expected value, the MSE uses the square of the difference of the estimator
 and the true parameter:
 
-$$ \mathrm{MSE}(\hat{\theta}) \equiv \mathbb{E}((\hat{\theta} - \theta)^2) \label{eq:mse} $$
+$$ \mathrm{MSE}(\hat{\theta}) \equiv \mathbb{E}((\hat{\theta} - \theta)^2) $$
 
 The MSE of an estimator can be related
 to its bias and its variance by the following proof:
 
+$$
 \begin{align}
-    \mathrm{MSE}(\hat{\theta}) &= \mathbb{E}(\hat{\theta}^2 - 2 \: \hat{\theta} \: \theta + \theta^2) \nonumber \\
+    \mathrm{MSE}(\hat{\theta}) &= \mathbb{E}(\hat{\theta}^2 - 2 \: \hat{\theta} \: \theta + \theta^2) \\
     &= \mathbb{E}(\hat{\theta}^2) - 2 \: \mathbb{E}(\hat{\theta}) \: \theta + \theta^2
 \end{align}
+$$
 
 noting that
 
@@ -538,14 +544,16 @@ $$ \mathrm{Var}(\hat{\theta}) = \mathbb{E}(\hat{\theta}^2) - \mathbb{E}(\hat{\th
 
 and
 
+$$
 \begin{align}
-    \mathrm{Bias}(\hat{\theta})^2 &= \mathbb{E}(\hat{\theta} - \theta)^2 \nonumber \\
+    \mathrm{Bias}(\hat{\theta})^2 &= \mathbb{E}(\hat{\theta} - \theta)^2 \\
     &= \mathbb{E}(\hat{\theta})^2 - 2 \: \mathbb{E}(\hat{\theta}) \: \theta + \theta^2
 \end{align}
+$$
 
 we see that MSE is equivalent to
 
-$$ \mathrm{MSE}(\hat{\theta}) = \mathrm{Var}(\hat{\theta}) + \mathrm{Bias}(\hat{\theta})^2 \label{eq:mse_variance_bias} $$
+$$ \mathrm{MSE}(\hat{\theta}) = \mathrm{Var}(\hat{\theta}) + \mathrm{Bias}(\hat{\theta})^2 $$
 
 For an unbiased estimator, the MSE is the variance of the estimator.
 
@@ -563,7 +571,7 @@ See also:
 
 A maximum likelihood estimator (MLE) was first used by Fisher. [^Aldrich1997]
 
-$$\hat{\theta} \equiv \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: L(\theta) \label{eq:mle} $$
+$$\hat{\theta} \equiv \underset{\theta}{\mathrm{argmax}} \: \mathrm{log} \: L(\theta) $$
 
 Maximizing $\mathrm{log} \: L(\theta)$ is equivalent to maximizing $L(\theta)$,
 and the former is more convenient because for data that are
@@ -632,7 +640,7 @@ See also:
 -   Asymptotics
     -   See [Asymptotics](#asymptotics).
 
-![Transformation of non-parabolic log-likelihood to parabolic (source: [my slides](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf), recreation of @James_2006_Statistical_Methods_in_Experimental_Particle\, p. 235).](img/DeltaL_nonparabolic.png){#fig:DeltaL_nonparabolic}
+![Transformation of non-parabolic log-likelihood to parabolic (source: [my slides](http://rreece.github.io/talks/pdf/2018-02-16-RReece-statistics-workshop-insight.pdf), recreation of @James_2006_Statistical_Methods_in_Experimental_Particle\, p. 235).](img/DeltaL-nonparabolic.png){#fig-DeltaL-nonparabolic}
 
 -   Common error bars
     -   Poisson error bars
@@ -737,7 +745,7 @@ Fisher:
 -   ATLAS and CMS Collaborations. (2011). [Procedure for the LHC Higgs boson search combination in Summer 2011](http://cds.cern.ch/record/1379837). [^ATLAS2011b]
 -   Cowan, G., Cranmer, K., Gross, E., & Vitells, O. (2011). [Asymptotic formulae for likelihood-based tests of new physics](https://arxiv.org/abs/1007.1727). [^Cowan2011again]
 
-![TODO: ROC explainer. ([Wikimedia](https://commons.wikimedia.org/wiki/File:ROC_curves.svg), 2015).](img/ROC-explainer.png){#fig:ROC-explainer}
+![TODO: ROC explainer. ([Wikimedia](https://commons.wikimedia.org/wiki/File:ROC_curves.svg), 2015).](img/ROC-explainer.png){#fig-ROC-explainer}
 
 See also:
 
@@ -756,19 +764,19 @@ Neyman-Pearson lemma: [^Neyman1933]
 For a fixed signal efficiency, $1-\alpha$, the selection that corresponds to the lowest
 possible misidentification probability, $\beta$, is given by
 
-$$ \frac{L(H_1)}{L(H_0)} > k_{\alpha} \,, \label{eq:np-lemma} $$
+$$ \frac{L(H_1)}{L(H_0)} > k_{\alpha} $$
 
 where $k_{\alpha}$ is the cut value required to achieve a type-1 error rate
 of $\alpha$.
 
 Neyman-Pearson test statistic:
 
-$$ q_\mathrm{NP} = - 2 \ln \frac{L(H_1)}{L(H_0)} \label{eq:qnp-test-stat} $$
+$$ q_\mathrm{NP} = - 2 \ln \frac{L(H_1)}{L(H_0)} $$
 
 
 Profile likelihood ratio:
 
-$$ \lambda(\mu) = \frac{ L(\mu, \hat{\theta}_\mu) }{ L(\hat{\mu}, \hat{\theta}) } \label{eq:profile-llh-ratio} $$
+$$ \lambda(\mu) = \frac{ L(\mu, \hat{\theta}_\mu) }{ L(\hat{\mu}, \hat{\theta}) } $$
 
 where $\hat{\theta}$ is the (unconditional) maximum-likelihood estimator that maximizes $L$,
 while $\hat{\theta}_\mu$ is the conditional maximum-likelihood estimator that maximizes $L$
@@ -782,11 +790,11 @@ and $\theta$ as a vector includes all other parameters of interest and nuisance 
 
 Cranmer: [Neyman construction](http://theoryandpractice.org/stats-ds-book/statistics/neyman_construction.html).
 
-![Neyman construction for a confidence belt for $\theta$ (source: [K. Cranmer](http://theoryandpractice.org/stats-ds-book/statistics/neyman_construction.html), 2020).](img/neyman-construction.png){#fig:neyman-construction}
+![Neyman construction for a confidence belt for $\theta$ (source: [K. Cranmer](http://theoryandpractice.org/stats-ds-book/statistics/neyman_construction.html), 2020).](img/neyman-construction.png){#fig-neyman-construction}
 
 TODO: fix
 
-$$ q = - 2 \ln \frac{L(\mu\,s + b)}{L(b)} \label{eq:q0-test-stat} $$
+$$ q = - 2 \ln \frac{L(\mu\,s + b)}{L(b)} $$
 
 
 #### Flip-flopping
@@ -855,7 +863,7 @@ Also:
     -   Wald [^Wald1943]
         -   Wald generalized the work of Wilks for the case of testing some
             nonzero signal for exclusion, showing
-            $-2 \ln(\lambda) \approx (\hat{\theta} - \theta)\trans V^{-1} (\hat{\theta} - \theta) \sim \mathrm{noncentral}\:\chi^{2}_{k}$.
+            $-2 \ln(\lambda) \approx (\hat{\theta} - \theta)^\intercal V^{-1} (\hat{\theta} - \theta) \sim \mathrm{noncentral}\:\chi^{2}_{k}$.
         -   In the simplest case where there is only one parameter of interest
             (the signal strength, $\mu$), then
             $-2 \ln(\lambda) \approx \frac{ (\hat{\mu} - \mu)^{2} }{ \sigma^2 }  \sim \mathrm{noncentral}\:\chi^{2}_{1}$.
@@ -928,7 +936,7 @@ Lyons:
 >   systematic error than to determining the parameter of interest
 >   and its statistical error. [^Lyons2008p890]
 
-![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties), 2016).](img/systematic-uncertainties-sinervo.png){#fig:systematic-uncertainties-sinervo}
+![Classification of measurement uncertainties ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/150371555016/classification-of-measurement-uncertainties), 2016).](img/systematic-uncertainties-sinervo.png){#fig-systematic-uncertainties-sinervo}
 
 -   Poincar&eacute;'s three levels of ignorance
 
@@ -953,7 +961,7 @@ Lyons:
     -   [Invariant mass distribution of jet pairs produced in association with a $W$ boson in $p\bar{p}$ collisions at $\sqrt{s}$ = 1.96 TeV](https://www-cdf.fnal.gov/physics/ewk/2011/wjj/7_3.html)
     -   Dorigo, T. (2011). [The jet energy scale as an explanation of the CDF signal](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886).
 
-![Demonstration of sensitivity to the jet energy scale for an alleged excess in $Wjj$ by [Tommaso Dorigo (2011)](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886) (see also: [GIF](img/AnimatedDijet.gif)).](img/cdf-wjj.png){#fig:cdf-wjj}
+![Demonstration of sensitivity to the jet energy scale for an alleged excess in $Wjj$ by [Tommaso Dorigo (2011)](https://www.science20.com/quantum_diaries_survivor/blog/jet_energy_scale_explanation_cdf_signal-77886) (see also: [GIF](img/AnimatedDijet.gif)).](img/cdf-wjj.png){#fig-cdf-wjj}
 
 -   OPERA. (2011). [Faster-than-light neutrinos](https://arxiv.org/abs/1109.4897v1).
 -   BICEP2 claimed evidence of B-modes in the CMB as evidence of cosmic inflation without accounting for cosmic dust.
@@ -1094,7 +1102,7 @@ Neyman:
 >   in following which we insure that, in the long run of experience,
 >   we shall not be too often wrong. [^Neyman1933longrun]
 
-![From Kruschke. [^Kruschke2018fig1]](img/Kruschke-bayes-freq-grid.png){#fig:Kruschke-bayes-freq-grid}
+![From Kruschke. [^Kruschke2018fig1]](img/Kruschke-bayes-freq-grid.png){#fig-Kruschke-bayes-freq-grid}
 
 [^Carnap1945b]: @Carnap_1945_The_two_concepts_of_probability\.
 [^Cranmer2015ap6]: @Cranmer_2015_Practical_statistics_for_the_LHC\, p. 6.
@@ -1246,7 +1254,7 @@ Lyons:
     -   Clayton, A. (2021). *Bernoulli's Fallacy: Statistical Illogic and the Crisis of Modern Science*. [^Clayton2021]
     -   Wagenmakers, E.J. (2021). [Review: Bernoulli’s Fallacy](https://www.tandfonline.com/doi/full/10.1080/09332480.2021.2003642). [^Wagenmakers2021]
 
-![The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference ([gandenberger.org/research/](http://gandenberger.org/research/), 2015).](img/gandenberger-thesis-venn-diagram.png){#fig:gandenberger-thesis-venn-diagram}
+![The major virtues and vices of Bayesian, frequentist, and likelihoodist approaches to statistical inference ([gandenberger.org/research/](http://gandenberger.org/research/), 2015).](img/gandenberger-thesis-venn-diagram.png){#fig-gandenberger-thesis-venn-diagram}
 
 Goodman:
 
@@ -1429,13 +1437,15 @@ $$ p(y | \vec{x}, \vec{w}) = \mathrm{Ber}(y | \mu(\vec{x}, \vec{w})) = \mu(\vec{
 
 The negative log-likelihood of multiple trials is
 
+$$
 \begin{align}
 \mathrm{NLL}
-    &= - \sum_i \log p(y_i | \vec{x}_i, \vec{w}) \nonumber \\
-    &= - \sum_i \log\left( \mu(\vec{x}_i, \vec{w})^{y_i} \: (1-\mu(\vec{x}_i, \vec{w}))^{(1-y_i)} \right) \nonumber \\
-    &= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \nonumber \\
-    &= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big) \label{eq:cross_entropy_loss0}
+    &= - \sum_i \log p(y_i | \vec{x}_i, \vec{w}) \\
+    &= - \sum_i \log\left( \mu(\vec{x}_i, \vec{w})^{y_i} \: (1-\mu(\vec{x}_i, \vec{w}))^{(1-y_i)} \right) \\
+    &= - \sum_i \log\left( \mu_i^{y_i} \: (1-\mu_i)^{(1-y_i)} \right) \\
+    &= - \sum_i \big( y_i \, \log \mu_i + (1-y_i) \log(1-\mu_i) \big)
 \end{align}
+$$
 
 which is the **cross entropy loss**.
 Note that the first term is non-zero only when the true target is $y_i=1$,
@@ -1443,7 +1453,7 @@ and similarly the second term is non-zero only when  $y_i=0$. [^NoteLabelSmoothi
 Therefore, we can reparametrize the target $y_i$ in favor of $t_{ki}$ that
 is one-hot in an index $k$ over classes.
 
-$$ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ki} \, \log \mu_{ki} \big) \label{eq:cross_entropy_loss1} $$
+$$ \mathrm{CEL} = \mathrm{NLL} = - \sum_i \sum_k \big( t_{ki} \, \log \mu_{ki} \big) $$
 
 where
 
@@ -1457,14 +1467,16 @@ This readily generalizes from binary classification to classification over many 
 as we will discuss more below.
 Note that in the sum over classes, $k$, only one term for the true class contributes.
 
-$$ \mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1} \label{eq:cross_entropy_loss2} $$
+$$
+\mathrm{CEL} = - \left. \sum_i \log \mu_{ki} \right|_{k\ \mathrm{is\ such\ that}\ y_k=1}
+$$ {#eq-cross-entropy-loss}
 
 Logistic regression uses the **logit function** [^Berkson],
 which is the logarithm of the odds---the ratio of the chance of success to
 failure. Let $\mu$ be the probability of success in a Bernoulli trial,
 then the logit function is defined as
 
-$$ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) \label{eq:logit} $$
+$$ \mathrm{logit}(\mu) \equiv \log\left(\frac{\mu}{1-\mu}\right) $$
 
 Logistic regression assumes that the logit function
 is a linear function of the explanatory variable, $x$.
@@ -1477,20 +1489,20 @@ This can be generalized to a vector of multiple input variables, $\vec{x}$,
 where the input vector has a 1 prepended to be its zeroth component in order to
 conveniently include the bias, $\beta_0$, in a dot product.
 
-$$ \vec{x} = (1, x_1, x_2, \ldots, x_n)\trans $$
+$$ \vec{x} = (1, x_1, x_2, \ldots, x_n)^\intercal $$
 
-$$ \vec{w} = (\beta_0, \beta_1, \beta_2, \ldots, \beta_n)\trans $$
+$$ \vec{w} = (\beta_0, \beta_1, \beta_2, \ldots, \beta_n)^\intercal $$
 
-$$ \log\left(\frac{\mu}{1-\mu}\right) = \vec{w}\trans \vec{x} $$
+$$ \log\left(\frac{\mu}{1-\mu}\right) = \vec{w}^\intercal \vec{x} $$
 
-For the moment, let $z \equiv \vec{w}\trans \vec{x}$.
+For the moment, let $z \equiv \vec{w}^\intercal \vec{x}$.
 Exponentiating and solving for $\mu$ gives
 
 $$ \mu = \frac{ e^z }{ 1 + e^z } = \frac{ 1 }{ 1 + e^{-z} } $$
 
 This function is called the **logistic or sigmoid function**.
 
-$$ \mathrm{logistic}(z) \equiv \mathrm{sigm}(z) \equiv \frac{ 1 }{ 1 + e^{-z} }  \label{eq:logistic} $$
+$$ \mathrm{logistic}(z) \equiv \mathrm{sigm}(z) \equiv \frac{ 1 }{ 1 + e^{-z} } $$
 
 Since we inverted the logit function by solving for $\mu$,
 the inverse of the logit function is the logistic or sigmoid.
@@ -1499,9 +1511,9 @@ $$ \mathrm{logit}^{-1}(z) = \mathrm{logistic}(z) = \mathrm{sigm}(z) $$
 
 And therefore,
 
-$$ \mu = \mathrm{sigm}(z) = \mathrm{sigm}(\vec{w}\trans \vec{x}) $$
+$$ \mu = \mathrm{sigm}(z) = \mathrm{sigm}(\vec{w}^\intercal \vec{x}) $$
 
-![Logistic regression.](img/logistic-regression.png){#fig:logistic-regression}
+![Logistic regression.](img/logistic-regression.png){#fig-logistic-regression}
 
 See also:
 
@@ -1522,15 +1534,15 @@ See also:
 Again, from a probabilistic point of view, we can derive the use of multi-class cross entropy loss
 by starting with the Bernoulli distribution, generalizing it to multiple classes (indexed by $k$) as
 
-$$ p(y_k | \mu) = \mathrm{Cat}(y_k | \mu_k) = \prod_k {\mu_k}^{y_k} \label{eq:categorical_distribution} $$
+$$ p(y_k | \mu) = \mathrm{Cat}(y_k | \mu_k) = \prod_k {\mu_k}^{y_k} $$
 
 which is the categorical or multinoulli distribution.
 The negative-log likelihood of multiple independent trials is
 
-$$ \mathrm{NLL} = - \sum_i \log \left(\prod_k {\mu_{ki}}^{y_{ki}}\right) = - \sum_i \sum_k y_{ki} \: \log \mu_{ki} \label{eq:nll_multinomial} $$
+$$ \mathrm{NLL} = - \sum_i \log \left(\prod_k {\mu_{ki}}^{y_{ki}}\right) = - \sum_i \sum_k y_{ki} \: \log \mu_{ki} $$
 
 Noting again that $y_{ki} = 1$ only when $k$ is the true class, and is 0 otherwise, this simplifies
-to [@eq:cross_entropy_loss2].
+to @eq-cross-entropy-loss.
 
 See also:
 
@@ -1646,7 +1658,7 @@ Deep learning
     -   Frankle, J. & Carbin, M. (2018). [The lottery ticket hypothesis: Finding sparse, trainable neural networks](https://arxiv.org/abs/1803.03635). [^Frankle2018]
     -   [AIMyths.com](https://www.aimyths.org/)
 
-![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig:bengio-raw-to-higher-rep}
+![Raw input image is transformed into gradually higher levels of representation. [^Bengio2009]](img/bengio-raw-to-higher-rep.png){#fig-bengio-raw-to-higher-rep}
 
 [^Amari1993]: @Amari_1993_Backpropagation_and_stochastic_gradient_descent\.
 [^Bengio2009]: @Bengio_2009_Learning_deep_architectures_for_AI\.
@@ -2011,11 +2023,11 @@ Resources:
 
 Chain rule of language modeling (chain rule of probability):
 
-$$ P(x_1, \ldots, x_T) = P(x_1, \ldots, x_{n-1}) \prod_{t=n}^{T} P(x_t | x_1 \ldots x_{t-1}) \label{eq:chain_rule_of_lm} $$
+$$ P(x_1, \ldots, x_T) = P(x_1, \ldots, x_{n-1}) \prod_{t=n}^{T} P(x_t | x_1 \ldots x_{t-1}) $$
 
 or for the whole sequence:
 
-$$ P(x_1, \ldots, x_T) = \prod_{t=1}^{T} P(x_t | x_1 \ldots x_{t-1}) \label{eq:chain_rule_of_lm_2} $$
+$$ P(x_1, \ldots, x_T) = \prod_{t=1}^{T} P(x_t | x_1 \ldots x_{t-1}) $$
 
 $$ = P(x_1) \: P(x_2 | x_1) \: P(x_3 | x_1 x_2) \: P(x_4 | x_1 x_2 x_3) \ldots $$
 
@@ -2028,7 +2040,7 @@ $$ P(x_t | x_1 \ldots x_{t-1}) = \mathrm{softmax}\left( \mathrm{model}(x_1 \ldot
 *Auto-regressive* inference follows this chain rule.
 If done with greedy search:
 
-$$ \hat{x}_t = \underset{x_t \in V}{\mathrm{argmax}} \: P(x_t | x_1 \ldots x_{t-1}) \label{eq:greedy_search} $$
+$$ \hat{x}_t = \underset{x_t \in V}{\mathrm{argmax}} \: P(x_t | x_1 \ldots x_{t-1}) $$
 
 Beam search:
 
@@ -2062,9 +2074,9 @@ Neural Machine Translation (NMT):
 
 #### Transformers
 
-![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/chapter_attention-mechanisms/transformer.html)).](img/transformer.png){#fig:transformer .tallimg}
+![Diagram of the Transformer model (source: [d2l.ai](https://d2l.ai/chapter_attention-mechanisms/transformer.html)).](img/transformer.png){#fig-transformer}
 
-$$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\sqrt{d_k}}\right) V \label{eq:attention} $$
+$$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\sqrt{d_k}}\right) V $$
 
 ##### Attention and Transformers
 
@@ -2112,7 +2124,7 @@ $$ \mathrm{attention}(Q, K, V) = \mathrm{softmax}\left(\frac{Q\, K^\intercal}{\s
 [^Wolfram2023]: @Wolfram_2023_What_is_ChatGPT_doing_and_why_does_it_work\.
 [^Zhao2023b]: @Zhao_2023_A_survey_of_large_language_models\.
 
-![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig:bert-encoder-block .tallimg}
+![Diagram of the BERT model (source: [peltarion.com](https://peltarion.com/knowledge-center/documentation/modeling-view/build-an-ai-model/blocks/english-bert-encoder)).](img/bert-encoder-block.png){#fig-bert-encoder-block}
 
 
 ##### Computational complexity of transformers
@@ -2363,21 +2375,21 @@ after the chosen action is played.
 Let a strategy, $\sigma^t$, be a probability distribution over actions, $a \in A$.
 Then the value of a strategy, $v^{t}(\sigma^{t})$, is the expectation of its value over actions.
 
-$$ v^{t}(\sigma^{t}) = \sum_{a \in A} \sigma^{t}(a) \: v^{t}(a) \label{eq:value_of_strategy} $$
+$$ v^{t}(\sigma^{t}) = \sum_{a \in A} \sigma^{t}(a) \: v^{t}(a) $$
 
 Regret, $R^{T}$, measures how much better some sequence of strategies, $\sigma'$,
 would do compared to the chosen sequence of strategies, $\sigma = \{\sigma^1, \sigma^2, \ldots \sigma^T\}$.
 
-$$ R^{T} \equiv \sum_{t=1}^{T} \left( v^{t}({\sigma'}^{t}) - v^{t}(\sigma^{t}) \right) \label{eq:regret} $$
+$$ R^{T} \equiv \sum_{t=1}^{T} \left( v^{t}({\sigma'}^{t}) - v^{t}(\sigma^{t}) \right) $$
 
 External regret, $R^{T}(a)$, measures the regret of the chosen sequence of strategies versus
 a hypothetical stategy where action $a$ is always chosen.
 
-$$ R^{T}(a) \equiv \sum_{t=1}^{T} \left( v^{t}(a) - v^{t}(\sigma^{t}) \right) \label{eq:external_regret} $$
+$$ R^{T}(a) \equiv \sum_{t=1}^{T} \left( v^{t}(a) - v^{t}(\sigma^{t}) \right) $$
 
 Regret Matching (RM) is a rule to determine the strategy for the next iteration:
 
-$$ \sigma^{t+1}(a) \equiv \frac{ R^{t}_{+}(a) }{ \sum_{b \in A} R^{t}_{+}(b) } \label{eq:regret_matching} $$
+$$ \sigma^{t+1}(a) \equiv \frac{ R^{t}_{+}(a) }{ \sum_{b \in A} R^{t}_{+}(b) } $$
 
 where $R_{+} \equiv \mathrm{max}(R, 0)$.
 
@@ -2449,30 +2461,30 @@ components: [^Zinkevich2007andLanctot2009]
 The *player reach*, $\pi^{\sigma}_{i}(h)$, of a history $h$ is the product of the
 probabilities for all agent $i$ actions leading to $h$. Formally, [^Brown2020thesisp6]
 
-$$ \pi^{\sigma}_{i}(h) \equiv \prod_{h' \cdot a' \sqsubseteq h | P(h') = i} \sigma_{i}(h', a') \label{eq:player_reach} $$
+$$ \pi^{\sigma}_{i}(h) \equiv \prod_{h' \cdot a' \sqsubseteq h | P(h') = i} \sigma_{i}(h', a') $$
 
 Due to perfect recall, any two histories in infoset $I_i$ have the same player reach
 for player $i$. Thus, we similarly define the player reach $\pi^{\sigma}_{i}(I_i)$ of infoset $I_i$ as
 
-$$ \pi^{\sigma}_{i}(I_i) \equiv \prod_{ {I'}_{i} \cdot a' \sqsubseteq I_i | P(I_i) = i } \sigma_{i}({I'}_{i}, a') = \left.\pi^{\sigma}_{i}(h)\right|_{h \in I_i} \label{eq:player_reach_from_infoset} $$
+$$ \pi^{\sigma}_{i}(I_i) \equiv \prod_{ {I'}_{i} \cdot a' \sqsubseteq I_i | P(I_i) = i } \sigma_{i}({I'}_{i}, a') = \left.\pi^{\sigma}_{i}(h)\right|_{h \in I_i} $$
 
 The *external reach* AKA *opponent reach*, $\pi^{\sigma}_{-i}(h)$, of a history $h$ is the contribution of
 chance and all other players than $i$. Formally,
 
-$$ \pi^{\sigma}_{-i}(h) \equiv \prod_{h' \cdot a' \sqsubseteq h | P(h') \neq i} \sigma_{i}(h', a') \label{eq:external_reach} $$
+$$ \pi^{\sigma}_{-i}(h) \equiv \prod_{h' \cdot a' \sqsubseteq h | P(h') \neq i} \sigma_{i}(h', a') $$
 
 We also define the external reach of an infoset as
 
-$$ \pi^{\sigma}_{-i}(I_i) \equiv \sum_{h \in I_{i}} \pi^{\sigma}_{-i}(h) \label{eq:external_reach_from_infoset} $$
+$$ \pi^{\sigma}_{-i}(I_i) \equiv \sum_{h \in I_{i}} \pi^{\sigma}_{-i}(h) $$
 
 The *counterfactual value* of an infoset $I$ is the expected utility to player $i$ given that $I$ has
 been reached, weighted by the external reach of $I$ for player $i$. Formally, [^Brown2020thesisp12]
 
-$$ v(I) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h, z) \: u_{i}(z) \label{eq:counter_factual_value} $$
+$$ v(I) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h, z) \: u_{i}(z) $$
 
 The counterfactual value of an action, $a$, is
 
-$$ v(I, a) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h \cdot a, z) \: u_{i}(z) \label{eq:counter_factual_value_of_a} $$
+$$ v(I, a) = \sum_{h \in I} \pi^{\sigma}_{-i}(h) \sum_{z \in Z} \pi^{\sigma}(h \cdot a, z) \: u_{i}(z) $$
 
 Let's consider the case where, like in NLHE, our two private hole cards each make
 a single unique history $h$, and we form infosets with a single hand, so $I=h$.
@@ -2502,7 +2514,7 @@ Similar to the single-node game discussed above, eq.\ $\eqref{eq:regret_matching
 applying *regret matching* during training means to update strategies according to
 the following rule.
 
-$$ \sigma^{t+1}(I, a) \equiv \frac{ R^{t}_{+}(I, a) }{ \sum_{b \in A} R^{t}_{+}(I, b) } \label{eq:regret_matching_cfr} $$
+$$ \sigma^{t+1}(I, a) \equiv \frac{ R^{t}_{+}(I, a) }{ \sum_{b \in A} R^{t}_{+}(I, b) } $$
 
 The average strategy is
 
@@ -2541,7 +2553,7 @@ TODO: explain MCCFR.
 
 External sampling MCCFR:
 
-$$ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] \rightarrow z) \label{eq:external_sample_mccfr} $$
+$$ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] \rightarrow z) $$
 
 [^Burch2012]: @Burch_2012_Efficient_Monte_Carlo_counterfactual_regret\.
 [^Burch2018]: @Burch_2018_Time_and_Space_Why_imperfect_information_games\.
@@ -2561,17 +2573,17 @@ $$ \tilde{v}^{\sigma}_{i}(I) = \sum_{z \in Q} u_{i}(z) \: \pi^{\sigma}_{i}(z[I] 
 
 Best response:
 
-$$ \mathrm{BR}(\sigma_{-i}) = \underset{\sigma_{i}^{\prime}}{\mathrm{argmax}} \: u_{i}(\sigma_{i}^{\prime}, \sigma_{-i}) \label{eq:best_response} $$
+$$ \mathrm{BR}(\sigma_{-i}) = \underset{\sigma_{i}^{\prime}}{\mathrm{argmax}} \: u_{i}(\sigma_{i}^{\prime}, \sigma_{-i}) $$
 
 TODO: Local Best Response (LBR). [^Lisy2016p2]
 
 Exploitability:
 
-$$ \varepsilon_{i}(\sigma) = u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \mathrm{BR}(\sigma_{i})) \label{eq:exploitability} $$
+$$ \varepsilon_{i}(\sigma) = u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \mathrm{BR}(\sigma_{i})) $$
 
 NashConv [^NashConv] exploitability uses the convention:
 
-$$ \varepsilon_{i}(\sigma) = u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \sigma_{-i}) \label{eq:nc_exploitability} $$
+$$ \varepsilon_{i}(\sigma) = u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) - u_{i}(\sigma_{i}, \sigma_{-i}) $$
 
 The average exploitability per player is
 
@@ -2579,11 +2591,11 @@ $$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} \varepsilon_{i}(\sigma) $$
 
 Note that in zero-sum games, when summing over players, the second terms in NashConv sum to zero. [^Timbers2020p3]
 
-$$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i})  \label{eq:average_exploitability} $$
+$$ \varepsilon(\sigma) = \frac{1}{n} \sum_{i}^{n} u_{i}(\mathrm{BR}(\sigma_{-i}), \sigma_{-i}) $$
 
 In two-player games:
 
-$$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma_{2}) + u_{2}(\sigma_{1}, \mathrm{BR}(\sigma_{1})) \Big)  \label{eq:average_exploitability_two_player} $$
+$$ \varepsilon(\sigma) = \frac{1}{2} \Big( u_{1}(\mathrm{BR}(\sigma_{2}), \sigma_{2}) + u_{2}(\sigma_{1}, \mathrm{BR}(\sigma_{1})) \Big) $$
 
 -   Johanson, M., Waugh, K., Bowling, M., & Zinkevich, M. (2011). [Accelerating best response calculation in large extensive games](http://www.cs.cmu.edu/~kwaugh/publications/johanson11.pdf). [^Johanson2011]
     -   Evaluates range vs range rewards in $O(n \log n)$ + $O(n)$ instead of $O(n^2)$.
@@ -2984,7 +2996,7 @@ Lectures:
     -   Cranmer, M. (2024). Video of seminar: [The next great scientific theory is hiding inside a neural network](https://www.youtube.com/watch?v=fk2r8y5TfNY).
     -   Lu, C. et al. (2024). [The AI Scientist: Towards fully automated open-ended scientific discovery](https://arxiv.org/abs/2408.06292). [^Lu2024]
 
-![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis. [^Asch2018fig]](img/BDEC-scientific-method.png){#fig:BDEC-scientific-method}
+![The inference cycle for the process of scientific inquiry. The three distinct forms of inference (abduction, deduction, and induction) facilitate an all-encompassing vision, enabling HPC and HDA to converge in a rational and structured manner. HPC: high- performance computing; HDA: high-end data analysis. [^Asch2018fig]](img/BDEC-scientific-method.png){#fig-BDEC-scientific-method}
 
 See also:
 
@@ -3357,4 +3369,3 @@ Click to show links
 
 </div>
 
-<!-- REFERENCES -->

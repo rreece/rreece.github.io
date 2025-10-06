@@ -1,5 +1,8 @@
-Ethics
-================================================================================
+---
+title: "Ethics"
+date: today
+---
+
 
 Ethics: What should we do? What is good? What is normative?
 
@@ -14,8 +17,6 @@ Aesthetics: What is beautiful?
 >   Is it actually something done, or not rather something undone? [^Thoreau5Mar1838]
 
 [^Thoreau5Mar1838]: *The Journal* of Henry David Thoreau, March 5, 1838.
-
-<!-- PAGETOC -->
 
 
 Virtue ethics
@@ -266,7 +267,7 @@ See also:
 -   TODO
 
 
-![Main divisions in meta-ethics by [Joseph Schmid](https://www.youtube.com/watch?v=89cnR4pU_7k).](img/meta-ethics.png){#fig:meta-ethics}
+![Main divisions in meta-ethics by [Joseph Schmid](https://www.youtube.com/watch?v=89cnR4pU_7k).](img/meta-ethics.png){#fig-meta-ethics}
 
 
 Moral realism
@@ -1189,4 +1190,3 @@ Click to show links
 
 </div>
 
-<!-- REFERENCES -->

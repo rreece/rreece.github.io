@@ -1,5 +1,8 @@
-The scientific method
-================================================================================
+---
+title: "The scientific method"
+date: today
+---
+
 
 This outline discusses the history of science, 
 the definition of the scientific method,
@@ -13,9 +16,6 @@ are discussed in the [Outline on scientific realism](scientific-realism.html).
 This could have been called the outline of "Epistemology".
 
 
-<!-- PAGETOC -->
-
-
 History of science
 --------------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ the development of science, after which there are sections focusing on topics
 in the epistemology of science,
 starting with [rationalism vs empiricism](#rationalism-vs-empiricism).
 
-![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig:timeline-of-major-philosophers-since-1200}
+![[Timeline of some major philosophers in history.](http://www.rit.edu/cla/philosophy/Timeline.html)](img/timeline-of-major-philosophers-since-1200.png){#fig-timeline-of-major-philosophers-since-1200}
 
 _This section is collapsed:_
 
@@ -433,7 +433,7 @@ Heraclitus:
     -   [Leibniz's influence on Kant](https://plato.stanford.edu/entries/kant-leibniz/)
 -   Christian Wolff (1679-1754)
 
-![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig:mandik-2016-11-1-eyeballs}
+![[Mind Chunks by Pete Mandik (Nov 1, 2016).](http://dailynous.com/2016/11/01/mind-chunks-daily-nous-philosophy-comics-17/)](img/mandik-2016-11-1-eyeballs.jpg){#fig-mandik-2016-11-1-eyeballs}
 
 [^Descartes2008]: @Descartes_2008_Meditations_on_First_Philosophy\.
 
@@ -534,7 +534,7 @@ Plato:
 >   
 >   SOCRATES: Very good indeed. [^Theaetetus201b]
 
-![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g), 2014).](img/knowledge.png){#fig:knowledge-jtb-g}
+![Knowledge = JTB - G ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/90253498641/knowledge-jtb-g), 2014).](img/knowledge.png){#fig-knowledge-jtb-g}
 
 In his unfinished work, *Rules* [^DescartesRule2], Descartes defines “science” (scientia) in Rule 2 as
 
@@ -708,17 +708,17 @@ Hume:
 >   concerning matter of fact and existence?_ No. Commit it then to the flames:
 >   for it can contain nothing but sophistry and illusion. [^Hume2007p120flames]
 
-Table: Kant's division of judgments. {#tbl:kants-division-of-judgements}
+Table: Kant's division of judgments. {#tbl-kants-division-of-judgements}
 
-|                   | analytic                   |  synthetic                       |
-|:------------------|:---------------------------|:---------------------------------|
-| **a priori**      | True by definition,        | Kant: Arithmetic propositions?   |
++-------------------+----------------------------+----------------------------------+
+|                   | analytic                   | synthetic                        |
++===================+============================+==================================+
+| **a priori**      | True by definition\        | Kant: Arithmetic propositions?   |
 |                   | Hume's relations of ideas  | Kant: Transcendental deduction?  |
-|                   |                            |                                  |
-|                   |                            |                                  |
-|                   |                            |                                  |
-| **a posteriori**  | Impossible?                | Empirical,                       |
++-------------------+----------------------------+----------------------------------+
+| **a posteriori**  | Impossible?                | Empirical\                       |
 |                   |                            | Hume's matters of fact           |
++-------------------+----------------------------+----------------------------------+
 
 -   Kant
     -   *Critique of Pure Reason* (1781)
@@ -1456,7 +1456,7 @@ Kant:
     -   In the introduction, in a rather positivist way, Spivak describes his view that
         category theory can be used to ground truth in observation.
 
-![Spivak's figure "intended to evoke thoughts of the scientific method". [^Spivak2013p5]](img/Spivak-scientific-method.png){#fig:Spivak-scientific-method}
+![Spivak's figure "intended to evoke thoughts of the scientific method". [^Spivak2013p5]](img/Spivak-scientific-method.png){#fig-Spivak-scientific-method}
 
 See also:
 
@@ -2159,4 +2159,3 @@ Click to show links
 
 </div>
 
-<!-- REFERENCES -->

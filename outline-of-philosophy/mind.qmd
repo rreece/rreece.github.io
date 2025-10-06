@@ -1,5 +1,8 @@
-Philosophy of mind
-================================================================================
+---
+title: "Philosophy of mind"
+date: today
+---
+
 
 What is consciousness?
 
@@ -9,9 +12,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
 eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
 sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-<!-- PAGETOC -->
 
 
 Consciousness
@@ -70,7 +70,7 @@ Dualism
 
 ![Drawing by Ren&eacute; Descartes in *Treatise of Man* (1633), supposing the
     function of the epiphysis (pineal gland) in transmitting sensory inputs to
-    the immaterial spirit (source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Descartes_mind_and_body.gif)).](img/Descartes-mind-body.png){#fig:Descartes-mind-body}
+    the immaterial spirit (source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Descartes_mind_and_body.gif)).](img/Descartes-mind-body.png){#fig-Descartes-mind-body}
 
 -   Grego, R. (2022). [Is Western thought marching towards Eastern Idealism?](https://www.essentiafoundation.org/is-western-thought-marching-firmly-towards-eastern-inspired-idealism/reading/)
 
@@ -104,7 +104,7 @@ Physicalism
     -   <https://twitter.com/RyanDavidReece/status/1285682311112122370>
     -   [YouTube: Is there free will? | David Eagleman and Lex Fridman](https://www.youtube.com/watch?v=8f92iPYmiGY&t=298)
 
-![Ney explains physicalism at the International Summer School in the Philosophy of Physics (2016) (source: [my tweet](https://twitter.com/RyanDavidReece/status/757102562126471168/photo/1)).](img/2016-07-23-Ney-explains-physicalism.jpg){#fig:Ney-explains-physicalism.jpg}
+![Ney explains physicalism at the International Summer School in the Philosophy of Physics (2016) (source: [my tweet](https://twitter.com/RyanDavidReece/status/757102562126471168/photo/1)).](img/2016-07-23-Ney-explains-physicalism.jpg){#fig-Ney-explains-physicalism.jpg}
 
 See also:
 
@@ -200,7 +200,7 @@ Neuroscience
     -   Markram, H. et al. (2020). [New evidence for innate knowledge](https://actu.epfl.ch/news/new-evidence-for-innate-knowledge-3/).
 -   Neuromorphic computing
 
-![Kahn, Fritz. (1939). [What goes on in our heads when we see a car and say 'car'](https://www.amazon.com/Fritz-Kahn-Uta-Thilo-Debschitz/dp/3836548402).](img/fritz-kahn-what-happens-in-our-heads.jpg){#fig:fritz-kahn-what-happens-in-our-heads}
+![Kahn, Fritz. (1939). [What goes on in our heads when we see a car and say 'car'](https://www.amazon.com/Fritz-Kahn-Uta-Thilo-Debschitz/dp/3836548402).](img/fritz-kahn-what-happens-in-our-heads.jpg){#fig-fritz-kahn-what-happens-in-our-heads}
 
 [^Reimann2017]: @Reimann_2017_Cliques_of_neurons_bound_into_cavities_provide\.
 
@@ -532,4 +532,3 @@ Click to show links
 
 </div>
 
-<!-- REFERENCES -->

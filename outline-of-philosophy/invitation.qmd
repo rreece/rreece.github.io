@@ -1,9 +1,11 @@
-Invitation
-================================================================================
+---
+title: "Invitation"
+date: today
+---
 
 A place to start in the discussion of philosophy of science and naturalism.
 
-### What is this?
+## What is this?
 
 Welcome to *ROP*!
 
@@ -26,7 +28,7 @@ which will be roughly defined below.
 But first...
 
 
-### What is philosophy of science?
+## What is philosophy of science?
 
 Philosophy of science may sound like a rather dry and esoteric topic,
 but its concerns have implications as radical as delineating
@@ -59,7 +61,7 @@ what science is, what understanding it brings,
 and what its implications are.
 
 
-### What is naturalism?
+## What is naturalism?
 
 *[Naturalism](http://rreece.github.io/outline-of-philosophy/naturalism.html)*
 is a unifying view of philosophy and science that will be a key theme
@@ -69,7 +71,7 @@ and about how philosophy relates to science.
 Naturalists see philosophy and science to have a common territory of concerns;
 philosophy is continuous with science.
 
-![Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig:quine-naturalism}
+![Quine meme by [Daniel Estrada](https://plus.google.com/+DanielEstrada/posts/VPPtWTLTyUC).](img/quine-naturalism.png){#fig-quine-naturalism}
 
 At its simplest, perhaps naturalism
 can be summarized as a rejection of *a priori* speculation
@@ -95,7 +97,7 @@ W.V.O. Quine, Wilfrid Sellars, and many others.
     If you are an expert in the origins of science, please contact me.
 
 
-### Why should I care?
+## Why should I care?
 
 We live in a time where science has clear leverage on shaping our future.
 Science enables the technologies that drive our economies.
@@ -151,7 +153,7 @@ criticisms of positions as they will be about any position itself.
 >   and that we'd be delighted to discover that he knows something. [^RepublicV476e]
 
 
-### Who do I want to reach with this project?
+## Who do I want to reach with this project?
 
 >   The Vienna Circle aims at making contact with those similarly oriented and
 >   at influencing those who stand further off. [^VCManifesto1929]
@@ -188,5 +190,3 @@ examine what can be said of the "[scientific method](scientific-method.html)."
 [^Leah2018a]: @Leah_2018_How_do_you_separate_fact_and_opinion_Rudy\.
 [^VCManifesto1929]: @Hahn_1973_The_scientific_conception_of_the_world_The_Vienna\.
 
-
-<!-- REFERENCES -->

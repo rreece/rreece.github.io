@@ -1,5 +1,8 @@
-Naturalism
-================================================================================
+---
+title: "Naturalism"
+date: today
+---
+
 
 Naturalism is a unifying view of philosophy and science.
 It is an attitude about how philosophy should be done (a meta-philosophy)
@@ -14,9 +17,6 @@ other worldviews in constrast to naturalism,
 and the culture wars between worldviews.
 
 This could have been called the outline of "Meta-philosophy".
-
-
-<!-- PAGETOC -->
 
 
 What is naturalism?
@@ -42,7 +42,7 @@ TODO: Manifest image and scientific image - Sellars
 -   Sellars, W. (1963). "Philosophy and the scientific image of man" in @Sellars_1963_Science_Perception_and_Reality
 -   Sellars used the term "synoptic vision" for the kind of coherent understanding of everything together.
 
-![Comic by [Abstruse Goose](https://abstrusegoose.com/275).](img/all_i_see_are_equations.png){#fig:all-i-see-are-equations .tallimg}
+![Comic by [Abstruse Goose](https://abstrusegoose.com/275).](img/all-i-see-are-equations.png){#fig-all-i-see-are-equations}
 
 Maddy defines naturalism:
 
@@ -459,7 +459,7 @@ See also:
 -   Eilenberger, W. (2020). *Time of the Magicians: Wittgenstein, Benjamin, Cassirer, Heidegger, and the decade that reinvented philosophy*. [^Eilenberger2020]
 -   [Searle-Derrida debate](https://en.wikipedia.org/wiki/Searle%E2%80%93Derrida_debate)
 
-![Meme by Gregory B. Sadler (source: [his tweet](https://twitter.com/philosopher70/status/1547218809739776001)).](img/carnap-heidegger-better-material.jpg){#fig:carnap-heidegger-better-material}
+![Meme by Gregory B. Sadler (source: [his tweet](https://twitter.com/philosopher70/status/1547218809739776001)).](img/carnap-heidegger-better-material.jpg){#fig-carnap-heidegger-better-material}
 
 See also:
 
@@ -511,7 +511,7 @@ through its respect for science and skepticism of *a priori* metaphysics,
 but naturalism is a more general distinction,
 being a more much longer thread throughout the history of philosophy and science.
 
-![A version of the "distracted boyfriend meme" maligning  *a priori* metaphysics.](img/distracted-boyfriend-meme-intuitions-data.png){#fig:distracted-boyfriend-meme-intuitions-data}
+![A version of the "distracted boyfriend meme" maligning  *a priori* metaphysics.](img/distracted-boyfriend-meme-intuitions-data.png){#fig-distracted-boyfriend-meme-intuitions-data}
 
 Quine in "Natural kinds":
 
@@ -572,7 +572,7 @@ Leibniz:
 >   *Calculemus*---Let us calculate.[^Leibniz-De-Arte-Combinatoria]
 
 ![The scale of the universe mapped to the branches of science and the hierarchy of science.
-    (CC BY-SA 3.0 [Wikimedia](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png), 2013).](img/the-scientific-universe.png){#fig:the-scientific-universe}
+    (CC BY-SA 3.0 [Wikimedia](https://en.wikipedia.org/wiki/Science#/media/File:The_Scientific_Universe.png), 2013).](img/the-scientific-universe.png){#fig-the-scientific-universe}
 
 -   Compare with the model of levels in @Oppenheim_1958_Unity_of_science_as_a_working_hypothesis.
 -   [The Metaphysical Unity of Science Project](https://metascience.xyz/the-project) at U. of Bristol
@@ -587,7 +587,7 @@ Wittgenstein:
 -   Alex Rosenberg is a mad dog against emergence.
     Video: [Alex Rosenberg interviewed for *Why Are We Here?*](https://www.whyarewehere.tv/people/alex-rosenberg/)
 
-![Reductionism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism), 2014).](img/reductionism.png){#fig:reductionism}
+![Reductionism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/93712656521/reductionism), 2014).](img/reductionism.png){#fig-reductionism}
 
 -   Nagel, E. (1961). *The Structure of Science: Problems in the Logic of Scientific Explanation*. [^Nagel1961]
 -   Nagel, E. (2008). Issues in the logic of reductive explanations. [^Nagel2008]
@@ -651,7 +651,7 @@ Part of metaphysical naturalism.
 -   Quine, W.V.O. (1969). Natural kinds. [^Quine1969p114]
 -   [Introduction: Pursuing a naturalist metaphysics](https://www.academia.edu/6778507/Introduction_Pursuing_a_Naturalist_Metaphysics_1) [^Ross2013b]
 
-![How naturalist climb the ladder to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism), 2015).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig:how-naturalists-climb-the-ladder-to-realism}
+![How naturalist climb the ladder to realism ([philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/post/131479944711/how-naturalists-climb-the-ladder-to-realism), 2015).](img/how-naturalists-climb-the-ladder-to-realism.png){#fig-how-naturalists-climb-the-ladder-to-realism}
 
 Ladyman & Ross:
 
@@ -745,7 +745,7 @@ See also:
 -   TODO: find ref for Cox's art, that stars have standard spectra.
 -   Limits on deviations in $\alpha_\mathrm{EM}$
 
-![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig:Geraldine-Cox-All-matter-is-the-same}
+![*All matter is the same*, [Geraldine Cox](http://www.findingpatterns.info/physics/) (2011)](img/Geraldine-Cox-All-matter-is-the-same.jpg){#fig-Geraldine-Cox-All-matter-is-the-same}
 
 See also:
 
@@ -1449,4 +1449,3 @@ Click to show links
 
 </div>
 
-<!-- REFERENCES -->
