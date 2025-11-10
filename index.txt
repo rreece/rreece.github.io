@@ -28,6 +28,9 @@ Get my r&eacute;sum&eacute; or CV:
 News
 --------------------------------------------------------------------------------
 
+-   Aug 2025: As a guest on the [Creatives Podcast](https://www.youtube.com/watch?v=r2gVUGlZbd0), I discussed my transition from physics to AI, and what it means to be creative in a world with AI.
+-   Apr 2025: As a memeber of the ATLAS Collaboration during the startup of the LHC, I am a [Laureate](docs/breakthrough_prize_certificate_Ryan_Reece_662966.pdf) of the [2025 Breakthrough Prize in Fundamental Physics](https://breakthroughprize.org/Laureates/1/L3993).
+-   Jul 2024: I became a supporter of the [John Bell Institute for the Foundations of Physics](https://www.johnbellinstitute.org/donate/supporters).
 -   Jun 2023: [Tenstorrent started offering inference as a service on various NLP tasks through EdenAI APIs](https://www.edenai.co/post/tenstorrent-nlp-solution-available-on-eden-ai), a project I lead technically.
 -   Oct 2022: I joined [Tenstorrent](https://tenstorrent.com/) as Staff Machine Learning Engineer.
 -   Apr 2022: I co-authored a blog about [Getting started with PyTorch BERT models on the Cerebras CS-2 System](https://cerebras.net/blog/getting-started-with-pytorch-bert-models-on-the-cerebras-cs-2-system/).
