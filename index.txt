@@ -83,8 +83,10 @@ Contact
     -   [INSPIRE-HEP](https://inspirehep.net/authors/1053758)
     -   [Google Scholar](https://scholar.google.com/citations?user=7-0GbXEAAAAJ&hl=en)
     -   [academia.edu/RReece](https://ucsc.academia.edu/RReece)
--   my blogs
+-   my writing
     -   [essays](essays/)         
+    -   [Finance Notes](https://rreece.github.io/finance-notes/)
+    -   [Outline of Philosophy](https://rreece.github.io/outline-of-philosophy/)
     -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/) -- my micro-blog on philosophy using only figures
 
 
