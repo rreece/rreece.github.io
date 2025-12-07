@@ -85,8 +85,8 @@ Contact
     -   [academia.edu/RReece](https://ucsc.academia.edu/RReece)
 -   my writing
     -   [essays](essays/)         
-    -   [Finance Notes](https://rreece.github.io/finance-notes/)
-    -   [Outline of Philosophy](https://rreece.github.io/outline-of-philosophy/)
+    -   [*Finance Notes*](https://rreece.github.io/finance-notes/)
+    -   [*Outline of Philosophy*](https://rreece.github.io/outline-of-philosophy/)
     -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/) -- my micro-blog on philosophy using only figures
 
 

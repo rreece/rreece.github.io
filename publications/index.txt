@@ -12,8 +12,9 @@ R&eacute;sum&eacute; and CV
 Pedagogical notes
 -------------------------------------------------------------------------------
 
-1.  [Finance notes](https://rreece.github.io/finance-notes/) (2024)
-1.  [Deep learning 101](https://github.com/rreece/deep-learning-101) (2024)
+1.  [*Outline of Philosophy*](https://rreece.github.io/outline-of-philosophy/) (2013-2026)
+1.  [*Finance Notes*](https://rreece.github.io/finance-notes/) (2024-2026)
+1.  [Deep learning 101](https://github.com/rreece/deep-learning-101) (2024-2026)
 1.  [Derivation of the Cram&eacute;r-Rao bound](pdf/2009.Reece.Derivation-of-the-Cramer-Rao-Bound.pdf) (2009)
 1.  [Quantum field theory: an introduction](pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf) (2007)
 1.  [Statistical mechanics notes](pdf/2006.Reece.Statistical-Mechanics-Notes.pdf) (2006)
