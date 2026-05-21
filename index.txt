@@ -7,7 +7,7 @@ Hi!  I'm Ryan.
 I am a former postdoctoral researcher at the [Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/),
 who worked with the [ATLAS experiment](https://atlas.cern/) at [CERN](http://home.cern/)
 and as a machine learning engineer at
-[Cerebras Systems](https://www.cerebras.net/).
+[Cerebras Systems](https://www.cerebras.net/) and [Tenstorrent](https://tenstorrent.com/).
 
 I have experience in deep learning, large-scale language modeling,
 natural language processing, computer vision,
@@ -19,9 +19,9 @@ problems and about how technologies extend our reach.
 
 Read more about [my research here](research/).        
 
-Get my r&eacute;sum&eacute; or CV:
+Get my resume or CV:
 
--   brief r&eacute;sum&eacute;: [<i class="far fa-file" style="font-size:20px;"></i>&nbsp;html](../docs/Ryan-Reece-resume.html), [<i class="far fa-file-pdf" style="font-size:20px;"></i>&nbsp;pdf](../docs/Ryan-Reece-resume.pdf)
+-   brief resume: [<i class="far fa-file" style="font-size:20px;"></i>&nbsp;html](../docs/Ryan-Reece-resume.html), [<i class="far fa-file-pdf" style="font-size:20px;"></i>&nbsp;pdf](../docs/Ryan-Reece-resume.pdf)
 -   full academic curriculum vitae: [<i class="far fa-file" style="font-size:20px;"></i>&nbsp;html](../docs/Ryan-Reece-cv.html), [<i class="far fa-file-pdf" style="font-size:20px;"></i>&nbsp;pdf](../docs/Ryan-Reece-cv.pdf)
 
 
@@ -51,7 +51,7 @@ News
 -   July 2013: I started a postdoctoral fellowship with the
     [Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/)
     at UC Santa Cruz.
--   July 2013: I defended my PhD at Penn.
+-   July 2013: I defended my PhD at Penn. Thesis: [*A search for new physics in high-mass ditau events in the ATLAS detector*](docs/CERN-THESIS-2013-075.pdf).
 -   On July 4 of 2012, the [ATLAS](https://arxiv.org/abs/1207.7214)
     and [CMS](https://arxiv.org/abs/1207.7235)
     experiments both announce the discovery of a new particle consistent with
@@ -84,7 +84,8 @@ Contact
     -   [Google Scholar](https://scholar.google.com/citations?user=7-0GbXEAAAAJ&hl=en)
     -   [academia.edu/RReece](https://ucsc.academia.edu/RReece)
 -   my writing
-    -   [essays](essays/)         
+    -   [Essays](essays/)         
+    -   [Pedagogical notes](publications/#pedagogical-notes)
     -   [*Finance Notes*](https://rreece.github.io/finance-notes/)
     -   [*Outline of Philosophy*](https://rreece.github.io/outline-of-philosophy/)
     -   [philosophy-in-figures.tumblr.com](http://philosophy-in-figures.tumblr.com/) -- my micro-blog on philosophy using only figures
