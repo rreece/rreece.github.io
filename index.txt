@@ -4,7 +4,7 @@ This is my space on the web
 <img class="floatright" src="img/profile-pic-3.jpg"  width="280"  alt="Me in Rincon Hill, June 2017"  title="Me in Rincon Hill, June 2017" />
 
 Hi!  I'm Ryan.
-I was a formerly a postdoctoral researcher at the [Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/),
+I was formerly a postdoctoral researcher at the [Santa Cruz Institute for Particle Physics (SCIPP)](http://scipp.ucsc.edu/),
 who worked with the [ATLAS experiment](https://atlas.cern/) at [CERN](http://home.cern/)
 and as a machine learning engineer at
 [Cerebras Systems](https://www.cerebras.net/).
