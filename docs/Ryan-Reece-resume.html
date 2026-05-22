@@ -70,29 +70,37 @@ service used company-wide for both interactive use and programmatic
 workloads (up to 450k requests/day from a single internal customer),
 proxying both Tenstorrent-hosted models and 3rd party APIs (Anthropic,
 Google, OpenAI)</li>
-<li>Drove the strategic decision to adopt vLLM as an inference server,
+<li>Drove the strategic decision to adopt <span
+style="color:MediumSeaGreen">vLLM</span> as an inference server,
 recognizing that Continuous Batching and PagedAttention were essential
 for realistic multi-user chat; brought up Llama3 70B and later DeepSeek
 R1 on Tenstorrent hardware in Cloud through close collaboration with the
 TT Metal kernel team</li>
+<li>Developed inference API demos across language (BERT, T5, Llama,
+DeepSeek), image (YOLO), and video (Wan) models; benchmarked performance
+across multiple generations of Tenstorrent accelerators; launched <a
+href="https://www.edenai.co/post/tenstorrent-nlp-solution-available-on-eden-ai">Tenstorrent’s
+NLP inference-as-a-service through EdenAI</a></li>
+<li>Worked with full-stack engineers to develop a cloud for push-button
+provisioning of Tenstorrent accelerators with <span
+style="color:MediumSeaGreen">Kubernetes</span>; led containerization of
+the AI software stack</li>
 <li>Co-led design and delivery of a QLoRA fine-tuning service for
 customer-provided data: wrote the core fine-tuner (single GPU →
 multi-GPU), decomposed product requirements into 50+ tracked
 deliverables for my team, and drove the selection of Metaflow as the
 orchestrator for managing fine-tuning jobs on Kubernetes</li>
 <li>Collaborated with the ML training team to bring up Tenstorrent’s
-first multi-host training examples, training a single model across
-multiple servers with combined data and model parallelism</li>
-<li>Worked with full-stack engineers to develop a cloud for push-button
-provisioning of Tenstorrent accelerators with Kubernetes; led
-containerization of the AI software stack</li>
-<li>Developed inference API demos across language (BERT, T5, Llama,
-DeepSeek), image (YOLO), and video (Wan) models; benchmarked performance
-across multiple generations of Tenstorrent accelerators; launched <a
-href="https://www.edenai.co/post/tenstorrent-nlp-solution-available-on-eden-ai">Tenstorrent’s
-NLP inference-as-a-service through EdenAI</a></li>
+<span style="color:MediumSeaGreen">first multi-host training
+examples</span>, training a single model across multiple servers with
+combined data and model parallelism</li>
+<li>Led bringup of <span style="color:MediumSeaGreen">slurm</span>
+orchestration for training job; helped design and implement slurm
+selector plugin for topologically-aware (really graph-aware) job
+scheduling</li>
 <li>Driving early experiments in agentic applications running on
-Tenstorrent hardware, backed by OpenClaw, to demonstrate Galaxy’s
+Tenstorrent hardware, backed by <span
+style="color:MediumSeaGreen">OpenClaw</span>, to demonstrate Galaxy’s
 suitability for agentic workloads beyond chat inference</li>
 </ul>
 <p><strong>Machine Learning Engineer</strong> | Apr 2018 - Aug 2022 (4
@@ -126,7 +134,7 @@ href="https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Ab
 <li>Directly engaged and supported customers (from both national labs
 and industry) in meetings and on-sites; including helping Pittsburgh
 Supercomputing Center (PSC) select among scientific proposals for using
-their dual CS-1 system: <a
+their dual CS-1 systems: <a
 href="https://www.psc.edu/neocortex-a-groundbreaking-ai-supercomputer-starts-user-access-at-psc/">Neocortex</a></li>
 <li>Triaged, explored, and tested customer-shared models; represented
 customer requirements to compiler engineers; debugged model and data
@@ -272,24 +280,25 @@ reduction, object-oriented design, polymorphic interfaces, writing
 technical reports, working independently and in groups, presenting my
 ideas, graduate level physics and mathematics</li>
 <li><strong>Programming languages, fluent:</strong> <span
-style="color:MediumSeaGreen">C/C++/STL (21+ years), Python (17+
+style="color:MediumSeaGreen">C/C++/STL (23+ years), Python (20+
 years)</span>;<br />
 <strong>experienced:</strong> Go, javascript, SQL; <strong>Markup
 languages:</strong> LaTeX, Markdown, html with css</li>
 <li><strong>ML / Data science software:</strong> <span
 style="color:MediumSeaGreen">pytorch</span>, <span
 style="color:MediumSeaGreen">tensorflow</span>, <span
-style="color:MediumSeaGreen">vllm</span>, <span
-style="color:MediumSeaGreen">HuggingFace</span>, keras, matplotlib,
-numpy, scipy, scikit-learn, pandas, jupyter, ROOT, RooStats, TMVA</li>
-<li><strong>General software:</strong> Linux, bash, git, kubernetes, AWS
-(EC2, S3), docker, Mathematica, QT, UML</li>
+style="color:MediumSeaGreen">HuggingFace</span>, <span
+style="color:MediumSeaGreen">vLLM</span>, LiteLLM, Metaflow, OpenClaw,
+keras, matplotlib, numpy, scipy, scikit-learn, pandas, jupyter, ROOT,
+pyhf, RooStats, TMVA</li>
+<li><strong>General software:</strong> Linux, bash, git, slurm,
+kubernetes, AWS (EC2, S3), docker, Mathematica, QT, UML</li>
 <li><strong>Hobbies:</strong> poker, philosophy, cycling, climbing</li>
 </ul>
 <p><br />
 <br />
 </p>
-<p>Last updated: May 21, 2026</p>
+<p>Last updated: May 22, 2026</p>
 <p><a href="Ryan-Reece-resume.pdf">A pdf version of this resume is
 here.</a></p>
 </div>
