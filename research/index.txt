@@ -129,6 +129,7 @@ TODO
 -   BERT-based inference applications
 -   Falcon, Llama, and Mistral models
 -   Finetuning with QLoRA
+-   Topologically-aware (really graph-aware) job scheduling
 
 
 ------------------
@@ -140,6 +141,7 @@ TODO
 -   Deep learning performance
 -   Sparsity in deep neural nets
 -   Hyperparameter optimization
+-   Covariance estimation
 -   Understanding techniques for clustering and anomaly detection
 
 
@@ -195,13 +197,14 @@ Not open sourced, but feel free to ask me about them.
 
 ### Ph.D. thesis
 
+<i class="fa fa-book" style="font-size:20px;"></i>&nbsp;&nbsp;Reece, R. (2013). [*A search for new physics in high-mass ditau events in the ATLAS detector*](../docs/CERN-THESIS-2013-075.pdf).
+
 My graduate research in particle physics was on the reconstruction and identification of
 hadronic tau decays with the ATLAS experiment,
 measuring the *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
 at *&radic;s* = 7 TeV,
 and searching for new physics in high-mass ditau events.              
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i class="fa fa-book" style="font-size:20px;"></i>&nbsp;&nbsp;[Download my thesis here](../docs/CERN-THESIS-2013-075.pdf)
 
 --------------------------------------------------------------------------------
 

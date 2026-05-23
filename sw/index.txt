@@ -10,6 +10,23 @@ Please feel free to leave me comments below.
 <!-- PAGETOC -->
 
 
+covariance_calculators
+--------------------------------------------------------------------------------
+
+<a href="https://github.com/rreece/covariance_calculators">
+<img src="img/corr-gldm-btc-2024-09-14.png" alt="covariance_calculators"/>
+</a>
+
+These are my implementations of covariance estimators, including Welford's online algorithm,
+as well as confidence intervals on those covariance matrix elements.
+
+An application for which I use this code is my studies of portfolio theory, described
+in my [*Finance Notes*](https://rreece.github.io/finance-notes).
+
+Repo: [github.com/rreece/covariance_calculators](https://github.com/rreece/covariance_calculators)                  
+Created: Feb 17, 2025
+
+
 gmm
 --------------------------------------------------------------------------------
 
