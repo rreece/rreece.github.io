@@ -17,7 +17,7 @@ Pedagogical notes
 1.  [*Deep Learning 101*](https://github.com/rreece/deep-learning-101) (2024-2026)
 1.  [*Outline of Philosophy*](https://rreece.github.io/outline-of-philosophy/) (2013-2026)
 1.  [Derivation of the Cram&eacute;r-Rao bound](pdf/2009.Reece.Derivation-of-the-Cramer-Rao-Bound.pdf) (2009)
-1.  [Quantum field theory: an introduction](pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf) (2007)
+1.  [Quantum field theory: An introduction](pdf/2007.Reece.Quantum-Field-Theory-An-Introduction.pdf) (2007)
 1.  [Statistical mechanics notes](pdf/2006.Reece.Statistical-Mechanics-Notes.pdf) (2006)
 1.  [Derivation of the quantum mechanical momentum operator in the position representation](pdf/2006.Reece.Derivation-of-the-QM-momentum-operator.pdf) (2006)
 1.  [Primer on complex analysis](pdf/2006.Reece.Primer-on-complex-analysis.pdf) (2006)
@@ -44,7 +44,8 @@ Machine learning publications
 Ph.D. thesis
 -------------------------------------------------------------------------------
 
-*A search for new physics in high-mass ditau events in the ATLAS detector*       
+[*A search for new physics in high-mass ditau events in the ATLAS detector*](../docs/CERN-THESIS-2013-075.pdf)       
+[CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836)       
 July 2013
 
 My graduate research as a student at the University of Pennsylvania,
@@ -53,8 +54,6 @@ was on the reconstruction and identification of hadronic tau decays,
 measuring the *Z&rarr;&tau;&tau;* production cross section in proton-proton collisions
 at *&radic;s* = 7 TeV,
 and searching for new physics in high-mass ditau events.
-You can [download my thesis here](../docs/CERN-THESIS-2013-075.pdf)
-or find it at CDS as [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836).
 
 
 ATLAS publications
