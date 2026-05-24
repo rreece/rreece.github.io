@@ -129,7 +129,7 @@ TODO
 -   BERT-based inference applications
 -   Falcon, Llama, Mistral, and DeepSeek models
 -   Finetuning with QLoRA
--   Topologically-aware (really graph-aware) job scheduling; practical solutions to the [graph isomorphism problem](https://en.wikipedia.org/wiki/Graph_isomorphism_problem)
+-   Topologically-aware (really graph-aware) job scheduling; practical solutions to the graph isomorphism problem
 
 
 ------------------
