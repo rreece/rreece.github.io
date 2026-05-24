@@ -142,7 +142,7 @@ TODO
 -   Sparsity in deep neural nets
 -   Hyperparameter optimization
 -   Covariance estimation
--   Understanding techniques for clustering and anomaly detection
+-   Clustering and anomaly detection
 
 
 ### Current independent research projects
