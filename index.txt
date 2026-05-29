@@ -8,7 +8,7 @@ I was formerly a postdoctoral researcher at the [Santa Cruz Institute for Partic
 who worked with the [ATLAS experiment](https://atlas.cern/) at [CERN](http://home.cern/)
 and as a machine learning engineer at
 [Cerebras Systems](https://www.cerebras.net/).
-I am currently with [Tenstorrent](https://tenstorrent.com/).
+I am co-leading the AI Cloud at [Tenstorrent](https://tenstorrent.com/).
 
 I have experience in deep learning, large-scale language modeling,
 natural language processing, computer vision,
