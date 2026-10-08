@@ -1,4 +1,16 @@
 
+### Current focuses
+
+-   Large-scale language modeling
+-   Deep learning performance
+-   Sparsity in deep neural nets
+-   Hyperparameter optimization
+-   Covariance estimation
+-   Clustering and anomaly detection
+
+
+--------------------------------------------------------------------------------
+
 <div class="clickmore"><a id="link:news-more" class="closed" onclick="toggle_more('news-more')">Old news</a></div>
 <div id="news-more" class="more">
 -   Nov 2014:

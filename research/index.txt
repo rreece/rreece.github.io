@@ -135,35 +135,41 @@ TODO
 ------------------
 
 
-### Current focuses
-
--   Large-scale language modeling
--   Deep learning performance
--   Sparsity in deep neural nets
--   Hyperparameter optimization
--   Covariance estimation
--   Clustering and anomaly detection
-
-
 ### Current independent research projects
 
-Implementation and study of:
+#### Mechanistic interpretability
 
--   Basic observations in mechanistic interpretability
--   Modern Portfolio Theory (AKA the "Markowitz portfolio") and its variants
--   Counterfactual Regret Minimization (CFR) and its variants
+I am just starting to demonstrate some basic observations in mechanistic interpretability.
+See the project [ioi-hydra](https://github.com/rreece/ioi-hydra),
+where I replicated studies of a circuit in GPT-2 that can be interpreted
+as doing Indirect Object Identification (IOI) and self-repairs when ablated.
 
 [![Figure 5: Self-repair in GPT-2 small's IOI circuit.](img/ioi-hydra-repair.png)](img/ioi-hydra-repair.png)
 
 Figure 5: Self-repair in GPT-2 small's IOI circuit (replication of [Wang et al. 2022](https://arxiv.org/abs/2211.00593) and [McGrath et al. 2023, "The Hydra Effect"](https://arxiv.org/abs/2307.15771)).
 
-For more results from the above study and its source code: [github.com/rreece/ioi-hydra](https://github.com/rreece/ioi-hydra).
+
+#### Portfolio theory
+
+Implementation and study of Modern Portfolio Theory (AKA the "Markowitz portfolio") and its variants.
+I've shared some of my thoughts in my *[Finance Notes](https://rreece.github.io/finance-notes/)*.
+
+Of particular importance to this study, I have implemented [covariance matrix calculators](https://github.com/rreece/covariance_calculators)
+along with methods for computing confidence intervals on the covariance estimates.
+
 
 [![Figure 6: Markowitz portfolio analysis (left). Solving Kuhn and Leduc, simplified versions of poker, with CFR (right).](img/markowitz-and-cfr.png)](img/markowitz-and-cfr.png)
 
 Figure 6: Markowitz portfolio analysis (left). Solving Kuhn and Leduc, simplified versions of poker, with CFR (right).
 
-Not open sourced, but feel free to ask me about them.
+
+#### Counterfactual Regret Minimization (CFR)
+
+Implementation and study of Counterfactual Regret Minimization (CFR) and its variants
+to solve games of imperfect information like poker.
+In particular I've studied and implemented CFR+ and MCCFR from [Noam Brown](https://noambrown.com)'s PhD thesis,
+*Equilibrium finding for large adversarial imperfect-information games* (2020).
+I have not open sourced this project, but feel free to ask me about it.
 
 
 ------------------
