@@ -124,10 +124,11 @@ In April of 2022, I co-authored a blog about
 
 #### Tenstorrent
 
-TODO
-
--   BERT-based inference applications
--   Falcon, Llama, Mistral, and DeepSeek models
+-   Co-led the AI Cloud team behind [console.tenstorrent.com](https://console.tenstorrent.com),
+    Tenstorrent's public demo platform showcasing
+    [record-breaking DeepSeek chat and Wan video generation on Galaxy hardware](https://www.eetimes.com/tenstorrent-unveils-next-gen-servers-for-fast-tokens-no-disaggregation-needed);
+    unveiled at the [TT-Deploy launch event on May 1, 2026](https://tenstorrent.com/deploy) alongside the GA of Blackhole Galaxy servers
+-   Inference of Llama, Qwen, DeepSeek, Kimi, and GLM models
 -   Finetuning with QLoRA
 -   Topologically-aware (really graph-aware) job scheduling; practical solutions to the graph isomorphism problem
 
