@@ -29,7 +29,7 @@ Get my resume or CV:
 News
 --------------------------------------------------------------------------------
 
--   Oct 2026: Tenstorrent started offering AI inference as a service through [OpenRouter](https://openrouter.ai/provider/tenstorrent), including models: GLM 5.3 and Qwen3.8-27B.
+-   Oct 2026: Tenstorrent started offering AI inference as a service through [OpenRouter](https://openrouter.ai/provider/tenstorrent), including GLM 5.3 and Qwen3.8-27B models.
 -   May 2026: I co-led the AI Cloud team behind [console.tenstorrent.com](https://console.tenstorrent.com),
     Tenstorrent's public demo platform showcasing.
     [record-breaking DeepSeek chat and Wan video generation on Galaxy hardware](https://www.eetimes.com/tenstorrent-unveils-next-gen-servers-for-fast-tokens-no-disaggregation-needed);
