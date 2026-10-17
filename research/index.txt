@@ -136,9 +136,9 @@ In April of 2022, I co-authored a blog about
 -   Topologically-aware (really graph-aware) job scheduling; practical solutions to the graph isomorphism problem
 
 
-[![Figure 5: Tenstorrent started offering AI inference as a service through [OpenRouter](https://openrouter.ai/provider/tenstorrent) in October 2026.](img/tenstorrent-openrouter-2026-10-11.png)](img/tenstorrent-openrouter-2026-10-11.png)
+[![Figure 5: Tenstorrent started offering AI inference as a service through [OpenRouter](https://openrouter.ai/provider/tenstorrent), including GLM 5.3 and Qwen3.8-27B models, in October 2026.](img/tenstorrent-openrouter-2026-10-11.png)](img/tenstorrent-openrouter-2026-10-11.png)
 
-Figure 5: Tenstorrent started offering AI inference as a service through [OpenRouter](https://openrouter.ai/provider/tenstorrent) in October 2026.
+Figure 5: Tenstorrent started offering AI inference as a service through [OpenRouter](https://openrouter.ai/provider/tenstorrent), including GLM 5.3 and Qwen3.8-27B models, in October 2026.
 
 
 ------------------
