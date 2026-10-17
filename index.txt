@@ -29,8 +29,9 @@ Get my resume or CV:
 News
 --------------------------------------------------------------------------------
 
+-   Oct 2026: Tenstorrent started offering AI inference as a service through [OpenRouter](https://openrouter.ai/provider/tenstorrent), including models: GLM 5.3 and Qwen3.8-27B.
 -   May 2026: I co-led the AI Cloud team behind [console.tenstorrent.com](https://console.tenstorrent.com),
-    Tenstorrent's public demo platform showcasing
+    Tenstorrent's public demo platform showcasing.
     [record-breaking DeepSeek chat and Wan video generation on Galaxy hardware](https://www.eetimes.com/tenstorrent-unveils-next-gen-servers-for-fast-tokens-no-disaggregation-needed);
     unveiled at the [TT-Deploy launch event on May 1, 2026](https://tenstorrent.com/deploy) alongside the GA of Blackhole Galaxy servers.
 -   Aug 2025: As a guest on the [Creatives Podcast](https://www.youtube.com/watch?v=r2gVUGlZbd0), I discussed my transition from physics to AI, and what it means to be creative in a world with AI.
