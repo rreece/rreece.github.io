@@ -157,6 +157,14 @@ as doing Indirect Object Identification (IOI), which self-repairs when ablated.
 
 Figure 6: Self-repair in GPT-2 small's IOI circuit (replication of [Wang et al. 2022](https://arxiv.org/abs/2211.00593) and [McGrath et al. 2023, "The Hydra Effect"](https://arxiv.org/abs/2307.15771)).
 
+In another project, I am developing a queryable atlas of what every MLP neuron and
+residual-stream dimension in GPT-2 small does over a text corpus:
+per-unit statistics, top-activating contexts with decoded text, and
+residual-stream geometry, with bootstrap errors.
+
+[![Figure 7: MLP neuron activation statistics in GPT2 with OpenWebText data.](img/gpt2-atlas-mlp-neurons.png)](img/gpt2-atlas-mlp-neurons.png)
+
+Figure 7: MLP neuron activation statistics in GPT2 with OpenWebText data.
 
 #### Portfolio theory
 
@@ -167,9 +175,9 @@ Of particular importance to this study, I have implemented [covariance matrix ca
 along with methods for computing confidence intervals on the covariance estimates.
 
 
-[![Figure 7: Markowitz portfolio analysis (left). Solving Kuhn and Leduc, simplified versions of poker, with CFR (right).](img/markowitz-and-cfr.png)](img/markowitz-and-cfr.png)
+[![Figure 8: Markowitz portfolio analysis (left). Solving Kuhn and Leduc, simplified versions of poker, with CFR (right).](img/markowitz-and-cfr.png)](img/markowitz-and-cfr.png)
 
-Figure 7: Markowitz portfolio analysis (left). Solving Kuhn and Leduc, simplified versions of poker, with CFR (right).
+Figure 8: Markowitz portfolio analysis (left). Solving Kuhn and Leduc, simplified versions of poker, with CFR (right).
 
 
 #### Counterfactual Regret Minimization (CFR)
