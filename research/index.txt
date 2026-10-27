@@ -157,7 +157,8 @@ as doing Indirect Object Identification (IOI), which self-repairs when ablated.
 
 Figure 6: Self-repair in GPT-2 small's IOI circuit (replication of [Wang et al. 2022](https://arxiv.org/abs/2211.00593) and [McGrath et al. 2023, "The Hydra Effect"](https://arxiv.org/abs/2307.15771)).
 
-In another project, I am developing a queryable atlas of what every MLP neuron and
+In another project, [gpt2-atlas](https://github.com/rreece/gpt2-atlas/),
+I am developing a queryable atlas of what every MLP neuron and
 residual-stream dimension in GPT-2 small does over a text corpus:
 per-unit statistics, top-activating contexts with decoded text, and
 residual-stream geometry, with bootstrap errors.
