@@ -6,6 +6,7 @@
 
 -   Deep learning, both natural language and vision
 -   Large-scale language modeling
+-   Mechanistic interpretability of neural nets
 -   Normalization in deep neural nets
 -   High-performance computing
 -   Data science and visualization
