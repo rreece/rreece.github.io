@@ -189,7 +189,7 @@ Counterfactual Regret Minimization (CFR) and
 its variants to solve games of imperfect information like poker.
 In particular I've studied and implemented CFR+ and MCCFR from [Noam Brown](https://noambrown.com)'s PhD thesis,
 [*Equilibrium finding for large adversarial imperfect-information games*](https://noambrown.com/thesis.pdf) (2020).
-I have not open sourced this project, but feel free to ask me about it.
+I have not open-sourced this project, but feel free to ask me about it.
 
 
 ------------------
