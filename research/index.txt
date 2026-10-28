@@ -152,7 +152,7 @@ Figure 5: Tenstorrent started offering AI inference as a service through [OpenRo
 I am starting to demonstrate some basic observations in mechanistic interpretability.
 See the project [ioi-hydra](https://github.com/rreece/ioi-hydra),
 where I replicated studies of a circuit in GPT-2 that can be interpreted
-as doing Indirect Object Identification (IOI), which self-repairs when ablated.
+as doing Indirect Object Identification (IOI), and which self-repairs when ablated.
 
 [![Figure 6: Self-repair in GPT-2 small's IOI circuit.](img/ioi-hydra-repair.png)](img/ioi-hydra-repair.png)
 
