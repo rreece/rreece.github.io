@@ -32,19 +32,15 @@ Technical blogs
 Machine learning publications
 -------------------------------------------------------------------------------
 
-1.  Chiley, V. *et al*. (2019). Online Normalization for Training Neural Networks.
-    [arxiv:1905.05894](https://arxiv.org/abs/1905.05894).
-    May 15, 2019.
+1.  Chiley, V. *et al*. (2019). Online normalization for training neural networks. [*NeurIPS 2019*](https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html). [arxiv:1905.05894](https://arxiv.org/abs/1905.05894). May 15, 2019.
 
-1.  Albertsson, K. *et al*. (2018). Machine Learning in High Energy Physics Community White Paper.
-    [arxiv:1807.02876](https://arxiv.org/abs/1807.02876). 
-    July 8, 2018.
+1.  Albertsson, K. *et al*. (2018). Machine learning in high energy physics community white paper. [arxiv:1807.02876](https://arxiv.org/abs/1807.02876). July 8, 2018.
 
 
 Ph.D. thesis
 -------------------------------------------------------------------------------
 
-[*A search for new physics in high-mass ditau events in the ATLAS detector*](../docs/CERN-THESIS-2013-075.pdf)       
+[*A Search for New Physics in High-Mass Ditau Events in the ATLAS Detector*](../docs/CERN-THESIS-2013-075.pdf)       
 [CERN-THESIS-2013-075](https://cds.cern.ch/record/1560836)       
 July 2013
 
