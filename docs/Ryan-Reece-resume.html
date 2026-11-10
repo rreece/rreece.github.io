@@ -6,6 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>Ryan Reece - resume</title>
   <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -49,25 +52,34 @@ href="https://www.linkedin.com/in/ryanreece">linkedin.com/in/ryanreece</a>
 </div>
 <h1 id="ryan-reece-ph.d.">Ryan Reece, Ph.D.</h1>
 <p><strong><span style="color:MediumSeaGreen">Machine learning engineer
-/ data scientist / physicist</span></strong><br />
+/ research engineer / physicist</span></strong><br />
 Mountain View, CA</p>
 <h2 id="experience">Experience</h2>
 <p><strong>Sr. Staff Technical Lead and Manager, AI Cloud</strong> | Oct
-2024 - present (1 yr 8 mo)<br />
+2024 - present (2 yr 1 mo)<br />
 <strong>Staff Machine Learning Engineer</strong> | Oct 2022 - Oct 2024
 (2 yr)<br />
 <a href="https://tenstorrent.com/">Tenstorrent</a>, Santa Clara, CA</p>
 <ul>
-<li>Co-led the AI Cloud team behind <a
+<li>Co-led the AI Cloud team as applications lead behind <a
 href="https://console.tenstorrent.com">console.tenstorrent.com</a>,
 Tenstorrent’s public demo platform showcasing <a
 href="https://www.eetimes.com/tenstorrent-unveils-next-gen-servers-for-fast-tokens-no-disaggregation-needed">record-breaking
 DeepSeek chat and Wan video generation on Galaxy hardware</a>; unveiled
 at the <a href="https://tenstorrent.com/deploy">TT-Deploy launch event
 on May 1, 2026</a> alongside the GA of Blackhole Galaxy servers</li>
+<li>Launched Tenstorrent as a public inference provider on <a
+href="https://openrouter.ai/provider/tenstorrent">OpenRouter</a> (Oct
+2026), serving GLM 5.3 and Qwen3.8-27B; drove production validation of
+<span style="color:MediumSeaGreen">tool calling</span>, structured
+outputs, and streaming</li>
+<li>Launched <a
+href="https://web.archive.org/web/20230607162753/https://www.edenai.co/post/tenstorrent-nlp-solution-available-on-eden-ai">Tenstorrent’s
+first external inference offering, NLP inference-as-a-service through
+EdenAI</a> (June 2023)</li>
 <li>Architected and maintain chat.tenstorrent.com, an internal chat
 service used company-wide for both interactive use and programmatic
-workloads (up to 450k requests/day from a single internal customer),
+workloads (up to 500k requests/day from a single internal customer),
 proxying both Tenstorrent-hosted models and 3rd party APIs (Anthropic,
 Google, OpenAI)</li>
 <li>Drove the strategic decision to adopt <span
@@ -78,13 +90,11 @@ R1 on Tenstorrent hardware in Cloud through close collaboration with the
 TT Metal kernel team</li>
 <li>Developed inference API demos across language (BERT, T5, Llama,
 DeepSeek), image (YOLO), and video (Wan) models; benchmarked performance
-across multiple generations of Tenstorrent accelerators; launched <a
-href="https://www.edenai.co/post/tenstorrent-nlp-solution-available-on-eden-ai">Tenstorrent’s
-NLP inference-as-a-service through EdenAI</a></li>
-<li>Worked with full-stack engineers to develop a cloud for push-button
-provisioning of Tenstorrent accelerators with <span
-style="color:MediumSeaGreen">Kubernetes</span>; led containerization of
-the AI software stack</li>
+across multiple generations of Tenstorrent accelerators</li>
+<li>Collaborated with full-stack engineers to build a <span
+style="color:MediumSeaGreen">Kubernetes</span>-based cloud platform for
+push-button provisioning of Tenstorrent accelerators; led
+containerization of the AI software stack</li>
 <li>Co-led design and delivery of a QLoRA fine-tuning service for
 customer-provided data: wrote the core fine-tuner (single GPU →
 multi-GPU), decomposed product requirements into 50+ tracked
@@ -95,9 +105,9 @@ orchestrator for managing fine-tuning jobs on Kubernetes</li>
 examples</span>, training a single model across multiple servers with
 combined data and model parallelism</li>
 <li>Led bringup of <span style="color:MediumSeaGreen">slurm</span>
-orchestration for training job; helped design and implement slurm
-selector plugin for topologically-aware (really graph-aware) job
-scheduling</li>
+orchestration for multi-host training jobs; co-designed and implemented
+a slurm node-selection plugin for topology-aware (really graph-aware)
+job scheduling</li>
 <li>Driving early experiments in agentic applications running on
 Tenstorrent hardware, backed by <span
 style="color:MediumSeaGreen">OpenClaw</span>, to demonstrate Galaxy’s
@@ -109,22 +119,22 @@ yrs 4 mos)<br />
 CA</p>
 <ul>
 <li>Developed end-to-end model references in both <span
-style="color:MediumSeaGreen">pytorch</span> and <span
-style="color:MediumSeaGreen">tensorflow</span>, including the input data
-pipeline for Cerebras Wafer-Scale Engines</li>
-<li>Trained benchmark models and did exploratory optimization of various
-models for computer vision (<span
+style="color:MediumSeaGreen">PyTorch</span> and <span
+style="color:MediumSeaGreen">TensorFlow</span>, including input data
+pipelines for Cerebras Wafer-Scale Engines; shipped to customers in the
+Cerebras Model Zoo with examples and detailed documentation</li>
+<li>Trained benchmark models for computer vision (<span
 style="color:MediumSeaGreen">ResNets</span>) and NLP (<span
 style="color:MediumSeaGreen">GNMT</span>, <span
 style="color:MediumSeaGreen">Transformer</span>, <span
 style="color:MediumSeaGreen">Linformer</span>, <span
 style="color:MediumSeaGreen">BERT</span>, <span
 style="color:MediumSeaGreen">RoBERTa</span>, <span
-style="color:MediumSeaGreen">GPT-2</span>); explored impacts of using <a
-href="https://arxiv.org/abs/1710.03740">mixed precision</a>, bucketing
-by sequence length, activation sparsity</li>
-<li>Model references and data pipeline code delivered to customers in
-the Model Zoo with several examples and detailed documentation</li>
+style="color:MediumSeaGreen">GPT-2</span>) on GPUs to establish accuracy
+and convergence baselines; the same implementations were run by the
+QA/Performance team on Cerebras CS systems; evaluated the impact of <a
+href="https://arxiv.org/abs/1710.03740">mixed precision</a>,
+sequence-length bucketing, and activation sparsity on convergence</li>
 <li>Helped develop a new normalization layer, <a
 href="https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html">OnlineNorm</a>,
 that uses streaming statistics to allow normalization of activations
@@ -165,7 +175,7 @@ CPU-hours</a></li>
 <li>Co-led analysis groups in multiple searches for signals of
 supersymmetry and exotic decays, contributed to 6 research publications,
 and defended their approval</li>
-<li>2015-17, full-time support the operations of the <span
+<li>2015-17, full-time operations support for the <span
 style="color:MediumSeaGreen">data acquisition system (DAQ)</span> and
 detector monitoring systems of the SCT (a tracking sub-detector in
 ATLAS)</li>
@@ -214,7 +224,7 @@ href="https://arxiv.org/abs/1207.7214">arxiv:1207.7214</a>]</li>
 <h2 id="education">Education</h2>
 <ul>
 <li><strong>Ph.D. Experimental Particle Physics</strong>, The University
-of Pennsylvania (Philadelpha, PA), Jun 2006 - Jul 2013<br />
+of Pennsylvania (Philadelphia, PA), Jun 2006 - Jul 2013<br />
 thesis: “<a
 href="http://rreece.github.io/docs/CERN-THESIS-2013-075.pdf">A search
 for new physics in high-mass ditau events in the ATLAS
@@ -282,23 +292,23 @@ ideas, graduate level physics and mathematics</li>
 <li><strong>Programming languages, fluent:</strong> <span
 style="color:MediumSeaGreen">C/C++/STL (23+ years), Python (20+
 years)</span>;<br />
-<strong>experienced:</strong> Go, javascript, SQL; <strong>Markup
+<strong>experienced:</strong> Go, JavaScript, SQL; <strong>Markup
 languages:</strong> LaTeX, Markdown, html with css</li>
 <li><strong>ML / Data science software:</strong> <span
-style="color:MediumSeaGreen">pytorch</span>, <span
-style="color:MediumSeaGreen">tensorflow</span>, <span
+style="color:MediumSeaGreen">PyTorch</span>, <span
+style="color:MediumSeaGreen">TensorFlow</span>, <span
 style="color:MediumSeaGreen">HuggingFace</span>, <span
 style="color:MediumSeaGreen">vLLM</span>, LiteLLM, Metaflow, OpenClaw,
-keras, matplotlib, numpy, scipy, scikit-learn, pandas, jupyter, ROOT,
+Keras, matplotlib, numpy, scipy, scikit-learn, pandas, jupyter, ROOT,
 pyhf, RooStats, TMVA</li>
-<li><strong>General software:</strong> Linux, bash, git, slurm,
-kubernetes, AWS (EC2, S3), docker, Mathematica, QT, UML</li>
+<li><strong>General software:</strong> Linux, bash, git, Slurm,
+Kubernetes, AWS (EC2, S3), Docker, Mathematica, QT, UML</li>
 <li><strong>Hobbies:</strong> poker, philosophy, cycling, climbing</li>
 </ul>
 <p><br />
 <br />
 </p>
-<p>Last updated: May 22, 2026</p>
+<p>Last updated: Nov 10, 2026</p>
 <p><a href="Ryan-Reece-resume.pdf">A pdf version of this resume is
 here.</a></p>
 </div>
