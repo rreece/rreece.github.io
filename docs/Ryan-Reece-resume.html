@@ -75,7 +75,7 @@ href="https://openrouter.ai/provider/tenstorrent">OpenRouter</a> (Oct
 outputs, and streaming</li>
 <li>Launched <a
 href="https://web.archive.org/web/20230607162753/https://www.edenai.co/post/tenstorrent-nlp-solution-available-on-eden-ai">Tenstorrent’s
-first external inference offering, NLP via EdenAI</a> (June 2023)</li>
+first external inference service, NLP via EdenAI</a> (June 2023)</li>
 <li>Architected and maintain chat.tenstorrent.com, an internal chat
 service used company-wide for both interactive use and programmatic
 workloads (up to 500k requests/day from a single internal customer),
@@ -87,9 +87,10 @@ recognizing that Continuous Batching and PagedAttention were essential
 for realistic multi-user chat; brought up Llama3 70B and later DeepSeek
 R1 on Tenstorrent hardware in Cloud through close collaboration with the
 TT Metal kernel team</li>
-<li>Developed inference API demos across language (BERT, T5, Llama,
-DeepSeek), image (YOLO), and video (Wan) models; benchmarked performance
-across multiple generations of Tenstorrent accelerators</li>
+<li>Developed inference API demos across language (DeepSeek, Qwen, Kimi,
+GLM), image (YOLO, SD-XL), and video (Wan, LTX) models; <a
+href="http://rreece.github.io/img/kimi-2-7-code-benchmarks-tt-console-2026-10-28-1.png">benchmarked
+performance</a> across multiple accelerator generations</li>
 <li>Collaborated with full-stack engineers to build a <span
 style="color:MediumSeaGreen">Kubernetes</span>-based cloud platform for
 push-button provisioning of Tenstorrent accelerators; led
@@ -103,9 +104,9 @@ orchestrator for managing fine-tuning jobs on Kubernetes</li>
 <span style="color:MediumSeaGreen">first multi-host training
 examples</span>, training a single model across multiple servers with
 combined data and model parallelism</li>
-<li>Led bringup of <span style="color:MediumSeaGreen">slurm</span>
+<li>Led bringup of <span style="color:MediumSeaGreen">Slurm</span>
 orchestration for multi-host training jobs; co-designed and implemented
-a slurm node-selection plugin for topology-aware (really graph-aware)
+a Slurm node-selection plugin for topology-aware (really graph-aware)
 job scheduling</li>
 <li>Driving early experiments in agentic applications running on
 Tenstorrent hardware, backed by <span
@@ -140,10 +141,9 @@ that uses streaming statistics to allow normalization of activations
 with small batch sizes [<a
 href="https://papers.nips.cc/paper/2019/hash/cb3ce9b06932da6faaa7fc70d5b5d2f4-Abstract.html"><em>NeurIPS
 2019</em></a>]</li>
-<li>Directly engaged and supported customers (from both national labs
-and industry) in meetings and on-sites; including helping Pittsburgh
-Supercomputing Center (PSC) select among scientific proposals for using
-their dual CS-1 systems: <a
+<li>Directly supported customers (national labs and industry) in
+meetings and on-sites; including helping Pittsburgh Supercomputing
+Center (PSC) select scientific proposals for their dual CS-1 systems: <a
 href="https://www.psc.edu/neocortex-a-groundbreaking-ai-supercomputer-starts-user-access-at-psc/">Neocortex</a></li>
 <li>Triaged, explored, and tested customer-shared models; represented
 customer requirements to compiler engineers; debugged model and data
@@ -169,7 +169,7 @@ reduction</span> (ATLAS ~10 PB/year), world-wide grid computing, and
 <span style="color:MediumSeaGreen">data visualization</span> as a user
 and primary supporter of our group’s 200-CPU computing cluster,
 accumulated more than <a
-href="http://rreece.github.io/docs/img/condor_history.png">350k
+href="http://rreece.github.io/img/condor_history.png">350k
 CPU-hours</a></li>
 <li>Co-led analysis groups in multiple searches for signals of
 supersymmetry and exotic decays, contributed to 6 research publications,
@@ -307,7 +307,7 @@ Kubernetes, AWS (EC2, S3), Docker, Mathematica, QT, UML</li>
 <p><br />
 <br />
 </p>
-<p>Last updated: Nov 10, 2026</p>
+<p>Last updated: Nov 11, 2026</p>
 <p><a href="Ryan-Reece-resume.pdf">A pdf version of this resume is
 here.</a></p>
 </div>
