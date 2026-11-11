@@ -39,7 +39,7 @@ News
 -   Oct 2024: I was promoted to Sr. Staff Technical Lead and Manager of Tenstorrent's AI Cloud.
 -   Jun 2023: [Tenstorrent started offering inference as a service on various NLP tasks through EdenAI APIs](https://web.archive.org/web/20230607162753/https://www.edenai.co/post/tenstorrent-nlp-solution-available-on-eden-ai), a project I lead technically.
 -   Oct 2022: I joined [Tenstorrent](https://tenstorrent.com/) as Staff Machine Learning Engineer.
--   Apr 2022: I became a supporter of the [John Bell Institute for the Foundations of Physics](https://www.johnbellinstitute.org/donate/supporters).
+-   Apr 2022: I became a benefactor of the [John Bell Institute for the Foundations of Physics](https://www.johnbellinstitute.org/donate/benefactors).
 -   Apr 2022: I co-authored a blog about [Getting started with PyTorch BERT models on the Cerebras CS-2 System](https://cerebras.net/blog/getting-started-with-pytorch-bert-models-on-the-cerebras-cs-2-system/).
 -   Nov 2019: [Cerebras revealed its first product at Supercomputering 2019: the poweful CS-1 computer for AI](https://www.cerebras.net/a-successful-week-for-cerebras-at-supercomputing-2019/).
     [I helped](img/ryan-reece-cerebras-SC19.jpg) represent Cerebras at its tradeshow booth.
